@@ -1,0 +1,24 @@
+{
+  "name": "FlickAtlas \u2014 Movie & TV Guide",
+  "short_name": "FlickAtlas",
+  "description": "Movies, TV, cast, release dates and reported box office.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F4F8F6",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "/icon-192.png?v=fa-icons-20261023-2321",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png?v=fa-icons-20261023-2321",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
