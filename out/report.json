@@ -1,0 +1,1007 @@
+{
+ "today_pkt": "2026-10-25",
+ "sources": 139,
+ "status": {
+  "ok": 94,
+  "error": 21,
+  "baseline": 24
+ },
+ "queue_total": 88,
+ "stories_total": 88,
+ "duplicates_removed": 0,
+ "categories": {
+  "Box Office": 0,
+  "Awards": 0,
+  "Trailers": 0,
+  "Music / OST": 2,
+  "Episodes": 4,
+  "Upcoming releases": 0,
+  "OTT / Streaming": 12,
+  "TV & Dramas": 2,
+  "Celebrity news & events": 6,
+  "Movies": 61,
+  "Entertainment viral": 1
+ },
+ "dropped": {
+  "not-today": 2418,
+  "no-date": 359,
+  "section-page": 46,
+  "slug-junk": 6,
+  "fallback-blocked-non-entertainment": 16
+ },
+ "per_source": [
+  {
+   "source": "AddaToday",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "Bollywood Hungama",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "FilmiBeat",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Gadgets 360 Entertainment",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Koimoi",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "IncompleteRead: IncompleteRead(38479 bytes read)"
+  },
+  {
+   "source": "NRIPage",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Pinkvilla",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 404 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Sacnilk",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "ShowPulp",
+   "status": "ok",
+   "new": 1,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "UpcomingZone",
+   "status": "ok",
+   "new": 0,
+   "total": 4,
+   "note": ""
+  },
+  {
+   "source": "Filmfare",
+   "status": "ok",
+   "new": 0,
+   "total": 1333,
+   "note": ""
+  },
+  {
+   "source": "Times of India — Entertainment",
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "Bollywood Life",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+   "source": "Tellychakkar",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "ParseError: XML or text declaration not at start of entity: line 6, column 0"
+  },
+  {
+   "source": "Hindustan Times — Entertainment",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Indian Express — Entertainment",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "India Today — Movies",
+   "status": "ok",
+   "new": 0,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "News18 — Entertainment",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Firstpost — Entertainment",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Zee News — Entertainment",
+   "status": "baseline",
+   "new": 0,
+   "total": 65,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Mid-Day — Entertainment",
+   "status": "ok",
+   "new": 0,
+   "total": 500,
+   "note": ""
+  },
+  {
+   "source": "DNA India — Entertainment",
+   "status": "baseline",
+   "new": 0,
+   "total": 75,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Bollywood Bubble",
+   "status": "ok",
+   "new": 0,
+   "total": 15,
+   "note": ""
+  },
+  {
+   "source": "MissMalini",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Instant Bollywood",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "IndiaGlitz",
+   "status": "baseline",
+   "new": 0,
+   "total": 11,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Aaj Tak — Entertainment",
+   "status": "baseline",
+   "new": 0,
+   "total": 253,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "NDTV Movies",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Times Now — Entertainment",
+   "status": "baseline",
+   "new": 0,
+   "total": 117,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Film Companion",
+   "status": "ok",
+   "new": 0,
+   "total": 0,
+   "note": ""
+  },
+  {
+   "source": "OTTplay",
+   "status": "ok",
+   "new": 0,
+   "total": 0,
+   "note": ""
+  },
+  {
+   "source": "Box Office Mojo",
+   "status": "baseline",
+   "new": 0,
+   "total": 100,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "CinemaBlend",
+   "status": "ok",
+   "new": 7,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Collider",
+   "status": "ok",
+   "new": 10,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "ComingSoon.net",
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "FirstShowing.net",
+   "status": "ok",
+   "new": 0,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "IMDb",
+   "status": "baseline",
+   "new": 0,
+   "total": 0,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "MovieWeb",
+   "status": "ok",
+   "new": 10,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Screen Rant",
+   "status": "ok",
+   "new": 10,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "The Numbers",
+   "status": "baseline",
+   "new": 0,
+   "total": 105,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Variety",
+   "status": "ok",
+   "new": 8,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Deadline",
+   "status": "ok",
+   "new": 2,
+   "total": 12,
+   "note": ""
+  },
+  {
+   "source": "The Hollywood Reporter",
+   "status": "ok",
+   "new": 2,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Rotten Tomatoes",
+   "status": "ok",
+   "new": 0,
+   "total": 62673,
+   "note": ""
+  },
+  {
+   "source": "TheWrap",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "ParseError: unbound prefix: line 507, column 2"
+  },
+  {
+   "source": "Box Office Pro",
+   "status": "ok",
+   "new": 0,
+   "total": 12,
+   "note": ""
+  },
+  {
+   "source": "Screen Daily",
+   "status": "ok",
+   "new": 0,
+   "total": 5,
+   "note": ""
+  },
+  {
+   "source": "IndieWire",
+   "status": "ok",
+   "new": 0,
+   "total": 12,
+   "note": ""
+  },
+  {
+   "source": "Vulture",
+   "status": "ok",
+   "new": 0,
+   "total": 32000,
+   "note": ""
+  },
+  {
+   "source": "The Playlist",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "JoBlo",
+   "status": "ok",
+   "new": 2,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "SlashFilm",
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "Empire",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Total Film (GamesRadar)",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "TVLine",
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "The Futon Critic",
+   "status": "ok",
+   "new": 0,
+   "total": 580,
+   "note": ""
+  },
+  {
+   "source": "TV Guide",
+   "status": "ok",
+   "new": 0,
+   "total": 55,
+   "note": ""
+  },
+  {
+   "source": "Gold Derby",
+   "status": "ok",
+   "new": 0,
+   "total": 12,
+   "note": ""
+  },
+  {
+   "source": "AwardsWatch",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Decider",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "JustWatch",
+   "status": "baseline",
+   "new": 0,
+   "total": 333,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Reelgood",
+   "status": "ok",
+   "new": 0,
+   "total": 74461,
+   "note": ""
+  },
+  {
+   "source": "What's on Netflix",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Trailer Addict",
+   "status": "ok",
+   "new": 0,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "SpoilerTV",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "Rolling Stone",
+   "status": "baseline",
+   "new": 0,
+   "total": 105,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Vanity Fair",
+   "status": "baseline",
+   "new": 0,
+   "total": 76,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "ARY Digital HD (YouTube)",
+   "status": "ok",
+   "new": 0,
+   "total": 15,
+   "note": ""
+  },
+  {
+   "source": "BrieflyShort",
+   "status": "baseline",
+   "new": 0,
+   "total": 0,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Daily Showbiz",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Dawn — Images/ICON",
+   "status": "ok",
+   "new": 1,
+   "total": 27,
+   "note": ""
+  },
+  {
+   "source": "DramaFlight",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "IncompleteRead: IncompleteRead(7681 bytes read)"
+  },
+  {
+   "source": "DramaPur",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "IncompleteRead: IncompleteRead(21435 bytes read)"
+  },
+  {
+   "source": "Dramas.pk",
+   "status": "ok",
+   "new": 0,
+   "total": 69,
+   "note": ""
+  },
+  {
+   "source": "Green TV Entertainment (YouTube)",
+   "status": "ok",
+   "new": 0,
+   "total": 15,
+   "note": ""
+  },
+  {
+   "source": "HAR PAL GEO (YouTube)",
+   "status": "ok",
+   "new": 0,
+   "total": 15,
+   "note": ""
+  },
+  {
+   "source": "HUM TV (YouTube)",
+   "status": "ok",
+   "new": 0,
+   "total": 15,
+   "note": ""
+  },
+  {
+   "source": "Parhlo",
+   "status": "ok",
+   "new": 0,
+   "total": 6,
+   "note": ""
+  },
+  {
+   "source": "Showbiz Daily (Blogspot)",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "Showbiz Secret",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "HUM TV (official site)",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 526 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "ARY Digital (official site)",
+   "status": "ok",
+   "new": 0,
+   "total": 13,
+   "note": ""
+  },
+  {
+   "source": "GEO TV",
+   "status": "ok",
+   "new": 0,
+   "total": 100,
+   "note": ""
+  },
+  {
+   "source": "Green Entertainment (official site)",
+   "status": "baseline",
+   "new": 0,
+   "total": 2,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Galaxy Lollywood",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "ARY News — Entertainment",
+   "status": "ok",
+   "new": 0,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "The News — Instep",
+   "status": "baseline",
+   "new": 0,
+   "total": 47,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "AsianWiki",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Dramabeans",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "IncompleteRead: IncompleteRead(0 bytes read)"
+  },
+  {
+   "source": "DramaWiki (D-Addicts)",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 415 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "HanCinema",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Kdrama Kisses",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "MyDramaList",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Soompi",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "VVIP Times",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "allkpop",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "ParseError: not well-formed (invalid token): line 57, column 6"
+  },
+  {
+   "source": "Koreaboo",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Yonhap News Agency — Entertainment",
+   "status": "baseline",
+   "new": 0,
+   "total": 70,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "British Comedy Guide",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "British Period Dramas",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Digital Spy",
+   "status": "ok",
+   "new": 2,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Flickering Myth",
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Geektown",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+   "source": "I Talk Telly",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "IncompleteRead: IncompleteRead(0 bytes read)"
+  },
+  {
+   "source": "Radio Times",
+   "status": "ok",
+   "new": 4,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "TellyMix",
+   "status": "ok",
+   "new": 0,
+   "total": 7,
+   "note": ""
+  },
+  {
+   "source": "What to Watch (What's on TV)",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Daily Mail — TV & Showbiz",
+   "status": "baseline",
+   "new": 0,
+   "total": 80,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Metro — Entertainment",
+   "status": "baseline",
+   "new": 0,
+   "total": 107,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Mirror — Showbiz",
+   "status": "baseline",
+   "new": 0,
+   "total": 140,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "E! News",
+   "status": "ok",
+   "new": 3,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Just Jared",
+   "status": "ok",
+   "new": 7,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "People",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 402 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "TMZ",
+   "status": "ok",
+   "new": 0,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "Entertainment Weekly",
+   "status": "ok",
+   "new": 0,
+   "total": 0,
+   "note": ""
+  },
+  {
+   "source": "Famous Birthdays",
+   "status": "baseline",
+   "new": 0,
+   "total": 24,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "The Famous People",
+   "status": "baseline",
+   "new": 0,
+   "total": 73,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Page Six",
+   "status": "ok",
+   "new": 7,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "US Weekly",
+   "status": "baseline",
+   "new": 0,
+   "total": 72,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Entertainment Tonight",
+   "status": "ok",
+   "new": 0,
+   "total": 3,
+   "note": ""
+  },
+  {
+   "source": "Diva Magazine Pakistan",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+   "source": "Something Haute",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "HELLO! Pakistan (H! Pakistan Magazine)",
+   "status": "ok",
+   "new": 0,
+   "total": 1,
+   "note": ""
+  },
+  {
+   "source": "HELLO! Magazine",
+   "status": "ok",
+   "new": 5,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "OK! Magazine UK",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "Oddity Central",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Interesting Engineering",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "New Atlas",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Futurism",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "ScienceAlert",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Bored Panda",
+   "status": "ok",
+   "new": 2,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Hindustan Times — Trending",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Storypick",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Mangobaaz",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "LADbible",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "UNILAD",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "TMDB",
+   "status": "baseline",
+   "new": 0,
+   "total": 60,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Wikidata",
+   "status": "baseline",
+   "new": 0,
+   "total": 80,
+   "note": "pehli run: baseline set, queue khaali"
+  },
+  {
+   "source": "Wikipedia",
+   "status": "baseline",
+   "new": 0,
+   "total": 161,
+   "note": "pehli run: baseline set, queue khaali"
+  }
+ ]
+}

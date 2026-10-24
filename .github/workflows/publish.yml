@@ -1,0 +1,31 @@
+name: Publish approved articles
+# Publishes ONLY owner-approved drafts: the panel's publish-export returns
+# the window.FA_ARTICLES file for approved news/event articles, nothing else.
+# No writing, no story-picking, no auto-drafting happens here.
+# Triggered manually (Actions -> Run workflow) so publishing stays explicit.
+on:
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch publish export from panel
+        env:
+          PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
+          VERCEL_PROTECTION_BYPASS: ${{ secrets.VERCEL_PROTECTION_BYPASS }}
+        run: |
+          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+            -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
+            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
+            -H "Content-Type: application/json" -d '{}' -o /tmp/export.json
+          python3 scripts/apply-publish.py /tmp/export.json js/articles-data.js
+      - name: Commit if changed
+        run: |
+          git config user.name "flickatlas-publish"
+          git config user.email "publish@flickatlas.local"
+          git add js/articles-data.js
+          git diff --cached --quiet || git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push
