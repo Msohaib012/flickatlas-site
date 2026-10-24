@@ -117,8 +117,42 @@ def build_news(queue_path, registry_path):
             "ts": ts,
             "summary": "",
         })
+    # Published articles' feed entries (panel publish-export): the news-item
+    # page looks a story up in this feed BEFORE it checks the published
+    # articles file, so an approved article whose source story aged out of
+    # today's fetch would otherwise show "moved on". Merge them in so every
+    # published article stays reachable; they win on id collisions.
+    export_path = os.path.join(OUT_DIR, "publish-export.json")
+    merged = 0
+    if os.path.exists(export_path):
+        try:
+            with open(export_path, encoding="utf-8") as f:
+                export = json.load(f)
+            for entry in export.get("feed") or []:
+                link = (entry.get("link") or "").strip()
+                title = (entry.get("title") or "").strip()
+                entry_id = (entry.get("id") or "").strip()
+                ts = entry.get("ts")
+                if not link or not title or not entry_id or not isinstance(ts, int):
+                    continue
+                source = entry.get("source") or ""
+                items = [i for i in items if i["id"] != entry_id]
+                items.append({
+                    "id": entry_id,
+                    "title": title,
+                    "link": link,
+                    "source": source,
+                    "cats": by_source.get(source, ["international"]),
+                    "ts": ts,
+                    "summary": "",
+                })
+                seen_links.add(link)
+                merged += 1
+        except Exception as e:
+            print(f"publish-export merge skipped: {e}")
     items.sort(key=lambda x: x["ts"], reverse=True)
     items = items[:100]
+    print(f"merged {merged} published-article feed entries")
     return {
         "generated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "count": len(items),
