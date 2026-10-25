@@ -55,7 +55,11 @@
       if (t === "tv" && x.media_type !== "tv") return false;
       return true;
     });
-    items.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
+    /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
+       never all-time popularity — so this page shows the SAME title the
+       homepage section shows, not a different one. */
+    const dateOf = x => x.media_type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
+    items.sort((a, b) => dateOf(b).localeCompare(dateOf(a)));
     const shown = items.slice(0, 1);
     grid.innerHTML = shown.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, x.media_type, UI.industryTag(x))}</div>`).join("");

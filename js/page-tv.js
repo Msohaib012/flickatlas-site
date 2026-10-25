@@ -52,7 +52,7 @@
     });
     items.sort((a, b) => f === "top"
       ? (b.vote_average || 0) - (a.vote_average || 0)
-      : (b.popularity || 0) - (a.popularity || 0));
+      : (b.first_air_date || "").localeCompare(a.first_air_date || ""));
     const shown = items.slice(0, 1);
     grid.innerHTML = shown.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, "tv", UI.industryTag(x))}</div>`).join("");
