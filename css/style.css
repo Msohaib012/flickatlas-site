@@ -294,7 +294,7 @@ table.data img{width:38px;height:56px;object-fit:cover;border-radius:7px;backgro
 .search-form input:focus{border-color:var(--teal)}
 
 /* ---------- footer ---------- */
-.site-foot{background:var(--teal-deep);color:#CFE8E2;margin-top:56px}
+.site-foot{background:var(--teal-deep);color:#CFE8E2;margin-top:56px;padding-bottom:36px}
 .foot-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:28px;padding:42px 20px 26px}
 .foot-brand p{margin-top:12px;font-size:.92rem;max-width:40ch}
 .foot-col h4{color:#fff;font-size:.95rem;margin-bottom:12px}
