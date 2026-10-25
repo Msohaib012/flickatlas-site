@@ -1,0 +1,69 @@
+name: Auto-pipeline (Gemini batch + publish)
+# FULL AUTO: no approval, no panel. Runs hourly after the news-refresh
+# fetch (which runs at :35 and commits out/queue.json).
+#   1. gemini_batch.py — reads the fetch queue, skips anything already in
+#      out/processed.json (the pipeline's memory), fetches each new story's
+#      source article, and asks Gemini (key rotation across
+#      GEMINI_API_KEY_1..5) for the draft + final category + optional
+#      box-office row. The script only matches FACTS (film, day, amounts)
+#      for dedup; Gemini is the only reader and makes the final call.
+#   2. apply-auto.py — merges the batch into js/articles-data.js (all 11
+#      categories) and js/daywise-data.js (box office: same film+day row
+#      is UPDATED, never duplicated; collection in USD).
+#   3. convert-news.py — rebuilds api-news.json (written-only feed).
+#   4. ?v= bump when articles changed, then commit + push (Vercel
+#      auto-deploys on main).
+# A run that finds no new stories commits nothing and deploys nothing.
+# Requires repo secrets GEMINI_API_KEY_1..5 (at least one); without them
+# the batch step skips gracefully and the run succeeds with no changes.
+on:
+  schedule:
+    - cron: '50 * * * *'
+  workflow_dispatch:
+jobs:
+  auto:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gemini batch (draft + structured data)
+        env:
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          BATCH_SIZE: '10'
+        run: python3 scripts/gemini_batch.py
+      - name: Apply batch to site files
+        run: |
+          python3 scripts/apply-auto.py
+          python3 scripts/convert-news.py || echo "feed rebuild failed, continuing"
+      - name: Bump asset version when articles changed
+        run: |
+          # Browsers cache static assets immutably per ?v= URL, so a new
+          # articles-data.js behind the same ?v= would keep serving the old
+          # file. Bump ?v= only when the articles file actually changed.
+          if git diff --quiet js/articles-data.js; then
+            echo "articles unchanged, keeping ?v="
+          else
+            NEWV="fa-$(date -u +%Y%m%d%H%M)"
+            echo "bumping ?v= to $NEWV"
+            find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
+          fi
+      - name: Commit if changed
+        run: |
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
+          git add js/articles-data.js js/daywise-data.js api-news.json api-trends.json out/gemini-batch.json out/processed.json out/auto-feed.json
+          git add -A -- '*.html'
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: gemini batch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi
