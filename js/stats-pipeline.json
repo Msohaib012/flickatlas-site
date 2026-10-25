@@ -1,31 +1,31 @@
 {
-  "generated": "2026-10-25T21:41:47Z",
+  "generated": "2026-10-25T23:55:16Z",
   "fetch": {
     "status": "success",
-    "run_id": 40234172246,
-    "started_at": "2026-10-25T21:09:44Z",
-    "finished_at": "2026-10-25T21:11:35Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40234172246",
+    "run_id": 40245025305,
+    "started_at": "2026-10-25T23:29:54Z",
+    "finished_at": "2026-10-25T23:31:49Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40245025305",
     "sources_total": 136,
-    "sources_ok": 96,
-    "sources_error": 17,
-    "sources_unchanged": 21,
+    "sources_ok": 88,
+    "sources_error": 20,
+    "sources_unchanged": 26,
     "sources_other": 2,
-    "stories_queued": 103,
-    "stories_new": 104,
-    "duplicates_removed": 1,
+    "stories_queued": 98,
+    "stories_new": 98,
+    "duplicates_removed": 0,
     "per_category": {
-      "Box Office": 3,
-      "Awards": 1,
-      "Trailers": 1,
-      "Music / OST": 4,
-      "Episodes": 2,
-      "Upcoming releases": 1,
-      "OTT / Streaming": 9,
-      "TV & Dramas": 0,
-      "Celebrity news & events": 11,
-      "Movies": 70,
-      "Entertainment viral": 1
+      "Box Office": 2,
+      "Awards": 0,
+      "Trailers": 2,
+      "Music / OST": 3,
+      "Episodes": 1,
+      "Upcoming releases": 0,
+      "OTT / Streaming": 7,
+      "TV & Dramas": 4,
+      "Celebrity news & events": 3,
+      "Movies": 76,
+      "Entertainment viral": 0
     },
     "per_scope": {
       "Bollywood / India": 31,
@@ -44,36 +44,37 @@
       "Viral — Pakistan": 1,
       "Viral — UK": 2
     },
-    "next_run": "2026-10-25T22:35:00Z"
+    "next_run": "2026-10-26T00:35:00Z"
   },
   "gemini": {
     "status": "success",
-    "run_id": 40234700249,
-    "started_at": "2026-10-25T21:16:20Z",
-    "finished_at": "2026-10-25T21:16:45Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40234700249",
-    "generated_at": "2026-10-25T21:16:39Z",
+    "run_id": 40245541154,
+    "started_at": "2026-10-25T23:36:37Z",
+    "finished_at": "2026-10-25T23:37:00Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40245541154",
+    "generated_at": "2026-10-25T23:36:55Z",
     "picked": 2,
     "per_category": {
-      "box_office": 2
+      "box_office": 1,
+      "trailers": 1
     },
     "skipped": 0,
     "posts_created": 2,
-    "next_run": "2026-10-25T21:50:00Z"
+    "next_run": "2026-10-26T00:50:00Z"
   },
   "publish": {
     "status": "success",
-    "run_id": 40234115634,
-    "started_at": "2026-10-25T21:09:00Z",
-    "finished_at": "2026-10-25T21:09:15Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40234115634",
-    "next_run": "2026-10-25T21:50:00Z"
+    "run_id": 40244092279,
+    "started_at": "2026-10-25T23:17:36Z",
+    "finished_at": "2026-10-25T23:17:49Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40244092279",
+    "next_run": "2026-10-26T00:10:00Z"
   },
   "posts": {
-    "total": 14,
-    "articles": 12,
+    "total": 16,
+    "articles": 14,
     "titles": 2,
-    "today": 2,
+    "today": 4,
     "article_categories": {
       "glx1ay": "celebrities_events",
       "1bzs50a": "ott_streaming",
@@ -84,22 +85,22 @@
       "p8t4vn": "box_office",
       "v7hfvy": "celebrities_events",
       "1p82ig9": "box_office",
-      "1onxhn1": "box_office"
+      "1onxhn1": "box_office",
+      "537d1w": "box_office",
+      "wgqs6t": "trailers"
     }
   },
   "queue": {
-    "total": 103,
+    "total": 98,
     "per_category": {
-      "Music / OST": 4,
-      "Box Office": 3,
-      "Movies": 70,
-      "Episodes": 2,
-      "Celebrity news & events": 11,
-      "Awards": 1,
-      "OTT / Streaming": 9,
-      "Upcoming releases": 1,
-      "Entertainment viral": 1,
-      "Trailers": 1
+      "Movies": 76,
+      "Box Office": 2,
+      "TV & Dramas": 4,
+      "Trailers": 2,
+      "OTT / Streaming": 7,
+      "Episodes": 1,
+      "Music / OST": 3,
+      "Celebrity news & events": 3
     }
   }
 }
