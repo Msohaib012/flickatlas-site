@@ -22,7 +22,7 @@ const UI = (() => {
   const pageQuery = () => new URLSearchParams(location.search);
   /* Source-aware navigation: bounded URLs, same-origin returns, natural history. */
   const detailPaths = new Set(['/movie','/show','/person','/news-item','/box-office-day']);
-  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms','/stats']);
+  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms']);
   const routePath = path => path === '/index.html' ? '/' : path.replace(/\.html$/, '');
   const navigationFallback = () => ({'/movie':'/movies?f=bollywood','/show':'/tv','/person':'/celebrities','/news-item':'/news','/box-office-day':'/box-office'}[routePath(location.pathname)] || '/');
   function safeMovieSource(value) {
@@ -57,7 +57,7 @@ const UI = (() => {
   function movieReturnUrl() { return returnContext().url; }
   function returnLabel(url) {
     const path = routePath(new URL(url, location.origin).pathname);
-    const names = {'/':'Home','/movies':'Movies','/tv':'TV & Web Series','/search':'Search results','/category':'Category','/box-office':'Box Office','/upcoming':'Upcoming releases','/most-awaited':'Most Awaited','/trailers':'Trailers','/celebrities':'Celebrities','/celebrity-today':'Celebrity Today','/news':'News','/ott':'OTT releases','/episode-guides':'Episode guides','/awards':'Awards','/movie':'Movie details','/show':'Show details','/person':'Profile','/box-office-day':'Box Office details','/stats':'Stats'};
+    const names = {'/':'Home','/movies':'Movies','/tv':'TV & Web Series','/search':'Search results','/category':'Category','/box-office':'Box Office','/upcoming':'Upcoming releases','/most-awaited':'Most Awaited','/trailers':'Trailers','/celebrities':'Celebrities','/celebrity-today':'Celebrity Today','/news':'News','/ott':'OTT releases','/episode-guides':'Episode guides','/awards':'Awards','/movie':'Movie details','/show':'Show details','/person':'Profile','/box-office-day':'Box Office details'};
     return '← ' + (names[path] || 'Back');
   }
   function movieReturnLabel() { return returnLabel(movieReturnUrl()); }
@@ -781,3 +781,4 @@ const UI = (() => {
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
