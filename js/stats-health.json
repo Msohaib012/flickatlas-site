@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T20:09:25Z",
+  "generated": "2026-10-25T21:29:16Z",
   "deploy": {
     "status": "not checked",
     "detail": "VERCEL_TOKEN secret not set"
@@ -9,15 +9,15 @@
     "fetch": "success",
     "gemini": "success",
     "publish": "success",
-    "generated": "2026-10-25T18:11:27Z"
+    "generated": "2026-10-25T21:22:49Z"
   },
   "dmca": {
     "status": "not checked",
-    "detail": "No inbox check wired in yet — check mkdrivedata@gmail.com"
+    "detail": "No inbox check wired in yet — connect Gmail in Muse so the daily check can read mkdrivedata@gmail.com, or set the DMCA_STATUS_JSON repo secret."
   },
   "search_console": {
     "status": "not checked",
-    "detail": "No Search Console check wired in yet",
+    "detail": "google-auth library not installed in the workflow",
     "indexed_pages": null
   }
 }
