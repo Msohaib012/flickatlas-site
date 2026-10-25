@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T18:11:27Z",
+  "generated": "2026-10-25T20:09:20Z",
   "fetch": {
     "status": "success",
     "run_id": 40218215685,
@@ -44,7 +44,7 @@
       "Viral — Pakistan": 1,
       "Viral — UK": 2
     },
-    "next_run": "2026-10-25T18:35:00Z"
+    "next_run": "2026-10-25T20:35:00Z"
   },
   "gemini": {
     "status": "success",
@@ -60,21 +60,21 @@
     },
     "skipped": 1,
     "posts_created": 2,
-    "next_run": "2026-10-25T18:50:00Z"
+    "next_run": "2026-10-25T20:50:00Z"
   },
   "publish": {
     "status": "success",
-    "run_id": 40205182761,
-    "started_at": "2026-10-25T15:04:11Z",
-    "finished_at": "2026-10-25T15:04:52Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40205182761",
-    "next_run": "2026-10-25T18:30:00Z"
+    "run_id": 40221030812,
+    "started_at": "2026-10-25T18:23:39Z",
+    "finished_at": "2026-10-25T18:23:55Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40221030812",
+    "next_run": "2026-10-25T20:10:00Z"
   },
   "posts": {
     "total": 8,
     "articles": 6,
     "titles": 2,
-    "today": 6,
+    "today": 0,
     "article_categories": {
       "glx1ay": "celebrities_events",
       "1bzs50a": "ott_streaming",
