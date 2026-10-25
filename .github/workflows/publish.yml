@@ -27,8 +27,8 @@ jobs:
           python3 scripts/apply-publish.py /tmp/export.json js/articles-data.js
       - name: Commit if changed
         run: |
-          git config user.name "flickatlas-publish"
-          git config user.email "publish@flickatlas.local"
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
           git add js/articles-data.js
           if ! git diff --cached --quiet; then
             git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
