@@ -17,6 +17,7 @@
 
   /* Verified 2026-10-23: Golden Globes date/host from goldenglobes.com;
      Oscars + Governors dates/host from oscars.org / the Academy. */
+  const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   const SHOWS = [
     { name: "Governors Awards", org: "Academy of Motion Picture Arts and Sciences", date: "2026-11-15", venue: "Ray Dolby Ballroom, Hollywood", note: "Honorary Oscars presented ahead of the main ceremony." },
     { name: "Golden Globe Awards", org: "Golden Globes", date: "2027-01-10", venue: "Beverly Hilton, Beverly Hills", note: "84th edition · Host: Nikki Glaser · Nominations announced December 7, 2026." },
@@ -36,7 +37,7 @@
     <section class="section"><div class="section-head"><h2>Upcoming Award Shows</h2></div>
       <div class="tl-list">${[...dated, ...tba].map(s => `
         <div class="tl-row">
-          <span class="tl-date">${s.date ? `<b>${parseInt(s.date.slice(8, 10), 10)}</b>${UI.fmtDate(s.date)}` : `<b>TBA</b>Date to be announced`}</span>
+          <span class="tl-date">${s.date ? `<b>${parseInt(s.date.slice(8, 10), 10)}</b><span>${MONTHS[parseInt(s.date.slice(5, 7), 10) - 1]} ${s.date.slice(0, 4)}</span>` : `<b>TBA</b><span>Date to be announced</span>`}</span>
           <span class="tl-info"><b>${UI.esc(s.name)}</b>
           <span>${UI.esc(s.org)} · ${UI.esc(s.venue)}</span>
           <span>${UI.esc(s.note)}</span></span>
