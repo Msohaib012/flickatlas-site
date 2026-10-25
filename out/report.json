@@ -2,38 +2,41 @@
  "today_pkt": "2026-10-25",
  "sources": 139,
  "status": {
-  "ok": 94,
-  "error": 21,
-  "baseline": 24
+  "ok": 104,
+  "error": 17,
+  "unchanged": 15,
+  "baseline": 3
  },
- "queue_total": 88,
- "stories_total": 88,
- "duplicates_removed": 0,
+ "queue_total": 368,
+ "stories_total": 368,
+ "duplicates_removed": 36,
  "categories": {
-  "Box Office": 0,
-  "Awards": 0,
-  "Trailers": 0,
-  "Music / OST": 2,
-  "Episodes": 4,
-  "Upcoming releases": 0,
-  "OTT / Streaming": 12,
-  "TV & Dramas": 2,
-  "Celebrity news & events": 6,
-  "Movies": 61,
-  "Entertainment viral": 1
+  "Box Office": 18,
+  "Awards": 2,
+  "Trailers": 4,
+  "Music / OST": 11,
+  "Episodes": 21,
+  "Upcoming releases": 2,
+  "OTT / Streaming": 8,
+  "TV & Dramas": 7,
+  "Celebrity news & events": 12,
+  "Movies": 280,
+  "Entertainment viral": 3
  },
  "dropped": {
-  "not-today": 2418,
-  "no-date": 359,
+  "not-today": 261,
   "section-page": 46,
-  "slug-junk": 6,
-  "fallback-blocked-non-entertainment": 16
+  "slug-title": 9,
+  "slug-junk": 64,
+  "no-date": 18,
+  "sports-section": 3,
+  "fallback-blocked-non-entertainment": 17
  },
  "per_source": [
   {
    "source": "AddaToday",
    "status": "ok",
-   "new": 0,
+   "new": 2,
    "total": 25,
    "note": ""
   },
@@ -47,7 +50,7 @@
   {
    "source": "FilmiBeat",
    "status": "ok",
-   "new": 0,
+   "new": 8,
    "total": 30,
    "note": ""
   },
@@ -60,10 +63,10 @@
   },
   {
    "source": "Koimoi",
-   "status": "error",
-   "new": 0,
-   "total": 0,
-   "note": "IncompleteRead: IncompleteRead(38479 bytes read)"
+   "status": "ok",
+   "new": 8,
+   "total": 20,
+   "note": ""
   },
   {
    "source": "NRIPage",
@@ -88,10 +91,10 @@
   },
   {
    "source": "ShowPulp",
-   "status": "ok",
-   "new": 1,
-   "total": 10,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "UpcomingZone",
@@ -103,14 +106,14 @@
   {
    "source": "Filmfare",
    "status": "ok",
-   "new": 0,
+   "new": 3,
    "total": 1333,
    "note": ""
   },
   {
    "source": "Times of India — Entertainment",
    "status": "ok",
-   "new": 1,
+   "new": 20,
    "total": 20,
    "note": ""
   },
@@ -119,33 +122,33 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "RemoteDisconnected: Remote end closed connection without response"
+   "note": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   {
    "source": "Tellychakkar",
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "ParseError: XML or text declaration not at start of entity: line 6, column 0"
+   "note": "HTTP 403 (bot-block ho sakta hai)"
   },
   {
    "source": "Hindustan Times — Entertainment",
    "status": "ok",
-   "new": 0,
+   "new": 13,
    "total": 30,
    "note": ""
   },
   {
    "source": "Indian Express — Entertainment",
-   "status": "ok",
+   "status": "error",
    "new": 0,
-   "total": 30,
-   "note": ""
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
   },
   {
    "source": "India Today — Movies",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 20,
    "note": ""
   },
@@ -165,10 +168,10 @@
   },
   {
    "source": "Zee News — Entertainment",
-   "status": "baseline",
-   "new": 0,
+   "status": "ok",
+   "new": 4,
    "total": 65,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Mid-Day — Entertainment",
@@ -179,45 +182,45 @@
   },
   {
    "source": "DNA India — Entertainment",
-   "status": "baseline",
+   "status": "ok",
    "new": 0,
-   "total": 75,
-   "note": "pehli run: baseline set, queue khaali"
+   "total": 76,
+   "note": ""
   },
   {
    "source": "Bollywood Bubble",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 15,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "MissMalini",
-   "status": "error",
+   "status": "baseline",
    "new": 0,
-   "total": 0,
-   "note": "HTTP 403 (bot-block ho sakta hai)"
+   "total": 28,
+   "note": "pehli run: baseline set, queue khaali"
   },
   {
    "source": "Instant Bollywood",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "IndiaGlitz",
-   "status": "baseline",
+   "status": "ok",
    "new": 0,
    "total": 11,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Aaj Tak — Entertainment",
-   "status": "baseline",
-   "new": 0,
-   "total": 253,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 11,
+   "total": 255,
+   "note": ""
   },
   {
    "source": "NDTV Movies",
@@ -228,10 +231,10 @@
   },
   {
    "source": "Times Now — Entertainment",
-   "status": "baseline",
-   "new": 0,
-   "total": 117,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 13,
+   "total": 120,
+   "note": ""
   },
   {
    "source": "Film Companion",
@@ -249,15 +252,15 @@
   },
   {
    "source": "Box Office Mojo",
-   "status": "baseline",
+   "status": "ok",
    "new": 0,
-   "total": 100,
-   "note": "pehli run: baseline set, queue khaali"
+   "total": 98,
+   "note": ""
   },
   {
    "source": "CinemaBlend",
    "status": "ok",
-   "new": 7,
+   "new": 4,
    "total": 30,
    "note": ""
   },
@@ -305,22 +308,22 @@
   },
   {
    "source": "The Numbers",
-   "status": "baseline",
+   "status": "ok",
    "new": 0,
    "total": 105,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Variety",
    "status": "ok",
-   "new": 8,
+   "new": 7,
    "total": 10,
    "note": ""
   },
   {
    "source": "Deadline",
    "status": "ok",
-   "new": 2,
+   "new": 6,
    "total": 12,
    "note": ""
   },
@@ -343,14 +346,14 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "ParseError: unbound prefix: line 507, column 2"
+   "note": "ParseError: unbound prefix: line 812, column 2"
   },
   {
    "source": "Box Office Pro",
-   "status": "ok",
+   "status": "error",
    "new": 0,
-   "total": 12,
-   "note": ""
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
   },
   {
    "source": "Screen Daily",
@@ -361,10 +364,10 @@
   },
   {
    "source": "IndieWire",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 12,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Vulture",
@@ -375,22 +378,22 @@
   },
   {
    "source": "The Playlist",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 25,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "JoBlo",
-   "status": "ok",
-   "new": 2,
-   "total": 30,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "SlashFilm",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 20,
    "note": ""
   },
@@ -411,7 +414,7 @@
   {
    "source": "TVLine",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 20,
    "note": ""
   },
@@ -439,35 +442,35 @@
   {
    "source": "AwardsWatch",
    "status": "ok",
-   "new": 0,
+   "new": 2,
    "total": 10,
    "note": ""
   },
   {
    "source": "Decider",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "JustWatch",
-   "status": "baseline",
-   "new": 0,
-   "total": 333,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 49,
+   "total": 334,
+   "note": ""
   },
   {
    "source": "Reelgood",
-   "status": "ok",
+   "status": "error",
    "new": 0,
-   "total": 74461,
-   "note": ""
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
   },
   {
    "source": "What's on Netflix",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -487,22 +490,22 @@
   },
   {
    "source": "Rolling Stone",
-   "status": "baseline",
-   "new": 0,
-   "total": 105,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 1,
+   "total": 106,
+   "note": ""
   },
   {
    "source": "Vanity Fair",
-   "status": "baseline",
+   "status": "ok",
    "new": 0,
    "total": 76,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "ARY Digital HD (YouTube)",
    "status": "ok",
-   "new": 0,
+   "new": 11,
    "total": 15,
    "note": ""
   },
@@ -515,57 +518,57 @@
   },
   {
    "source": "Daily Showbiz",
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
+  },
+  {
+   "source": "Dawn — Images/ICON",
+   "status": "ok",
+   "new": 19,
+   "total": 29,
+   "note": ""
+  },
+  {
+   "source": "DramaFlight",
    "status": "ok",
    "new": 0,
    "total": 10,
    "note": ""
   },
   {
-   "source": "Dawn — Images/ICON",
-   "status": "ok",
-   "new": 1,
-   "total": 27,
-   "note": ""
-  },
-  {
-   "source": "DramaFlight",
-   "status": "error",
-   "new": 0,
-   "total": 0,
-   "note": "IncompleteRead: IncompleteRead(7681 bytes read)"
-  },
-  {
    "source": "DramaPur",
-   "status": "error",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "IncompleteRead: IncompleteRead(21435 bytes read)"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Dramas.pk",
    "status": "ok",
    "new": 0,
-   "total": 69,
+   "total": 1286,
    "note": ""
   },
   {
    "source": "Green TV Entertainment (YouTube)",
    "status": "ok",
-   "new": 0,
+   "new": 15,
    "total": 15,
    "note": ""
   },
   {
    "source": "HAR PAL GEO (YouTube)",
    "status": "ok",
-   "new": 0,
+   "new": 15,
    "total": 15,
    "note": ""
   },
   {
    "source": "HUM TV (YouTube)",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 15,
    "note": ""
   },
@@ -585,10 +588,10 @@
   },
   {
    "source": "Showbiz Secret",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "HUM TV (official site)",
@@ -613,17 +616,17 @@
   },
   {
    "source": "Green Entertainment (official site)",
-   "status": "baseline",
+   "status": "ok",
    "new": 0,
    "total": 2,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Galaxy Lollywood",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "ARY News — Entertainment",
@@ -634,24 +637,24 @@
   },
   {
    "source": "The News — Instep",
-   "status": "baseline",
-   "new": 0,
-   "total": 47,
-   "note": "pehli run: baseline set, queue khaali"
-  },
-  {
-   "source": "AsianWiki",
    "status": "ok",
    "new": 0,
-   "total": 10,
+   "total": 47,
    "note": ""
   },
   {
-   "source": "Dramabeans",
-   "status": "error",
+   "source": "AsianWiki",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "IncompleteRead: IncompleteRead(0 bytes read)"
+   "note": "304, feed badli nahi"
+  },
+  {
+   "source": "Dramabeans",
+   "status": "ok",
+   "new": 2,
+   "total": 7,
+   "note": ""
   },
   {
    "source": "DramaWiki (D-Addicts)",
@@ -670,28 +673,28 @@
   {
    "source": "Kdrama Kisses",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "MyDramaList",
    "status": "ok",
-   "new": 0,
+   "new": 2,
    "total": 30,
    "note": ""
   },
   {
    "source": "Soompi",
    "status": "ok",
-   "new": 0,
+   "new": 10,
    "total": 30,
    "note": ""
   },
   {
    "source": "VVIP Times",
    "status": "ok",
-   "new": 0,
+   "new": 10,
    "total": 10,
    "note": ""
   },
@@ -700,21 +703,21 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "ParseError: not well-formed (invalid token): line 57, column 6"
+   "note": "ParseError: not well-formed (invalid token): line 179, column 6"
   },
   {
    "source": "Koreaboo",
    "status": "ok",
-   "new": 0,
+   "new": 7,
    "total": 10,
    "note": ""
   },
   {
    "source": "Yonhap News Agency — Entertainment",
-   "status": "baseline",
-   "new": 0,
-   "total": 70,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 7,
+   "total": 71,
+   "note": ""
   },
   {
    "source": "British Comedy Guide",
@@ -725,50 +728,50 @@
   },
   {
    "source": "British Period Dramas",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Digital Spy",
-   "status": "ok",
-   "new": 2,
-   "total": 30,
-   "note": ""
-  },
-  {
-   "source": "Flickering Myth",
-   "status": "ok",
-   "new": 1,
-   "total": 30,
-   "note": ""
-  },
-  {
-   "source": "Geektown",
-   "status": "error",
-   "new": 0,
-   "total": 0,
-   "note": "RemoteDisconnected: Remote end closed connection without response"
-  },
-  {
-   "source": "I Talk Telly",
-   "status": "error",
-   "new": 0,
-   "total": 0,
-   "note": "IncompleteRead: IncompleteRead(0 bytes read)"
-  },
-  {
-   "source": "Radio Times",
    "status": "ok",
    "new": 4,
    "total": 30,
    "note": ""
   },
   {
-   "source": "TellyMix",
+   "source": "Flickering Myth",
+   "status": "ok",
+   "new": 3,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Geektown",
    "status": "ok",
    "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "I Talk Telly",
+   "status": "ok",
+   "new": 0,
+   "total": 20,
+   "note": ""
+  },
+  {
+   "source": "Radio Times",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "TellyMix",
+   "status": "ok",
+   "new": 1,
    "total": 7,
    "note": ""
   },
@@ -781,24 +784,24 @@
   },
   {
    "source": "Daily Mail — TV & Showbiz",
-   "status": "baseline",
-   "new": 0,
-   "total": 80,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 5,
+   "total": 82,
+   "note": ""
   },
   {
    "source": "Metro — Entertainment",
-   "status": "baseline",
-   "new": 0,
+   "status": "ok",
+   "new": 4,
    "total": 107,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Mirror — Showbiz",
-   "status": "baseline",
-   "new": 0,
-   "total": 140,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 11,
+   "total": 141,
+   "note": ""
   },
   {
    "source": "E! News",
@@ -810,7 +813,7 @@
   {
    "source": "Just Jared",
    "status": "ok",
-   "new": 7,
+   "new": 22,
    "total": 25,
    "note": ""
   },
@@ -819,12 +822,12 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "HTTP 402 (bot-block ho sakta hai)"
+   "note": "HTTP 403 (bot-block ho sakta hai)"
   },
   {
    "source": "TMZ",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
@@ -837,31 +840,31 @@
   },
   {
    "source": "Famous Birthdays",
-   "status": "baseline",
-   "new": 0,
-   "total": 24,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 1,
+   "total": 23,
+   "note": ""
   },
   {
    "source": "The Famous People",
-   "status": "baseline",
-   "new": 0,
+   "status": "ok",
+   "new": 8,
    "total": 73,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Page Six",
    "status": "ok",
-   "new": 7,
+   "new": 6,
    "total": 10,
    "note": ""
   },
   {
    "source": "US Weekly",
-   "status": "baseline",
-   "new": 0,
+   "status": "ok",
+   "new": 11,
    "total": 72,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Entertainment Tonight",
@@ -875,14 +878,14 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "RemoteDisconnected: Remote end closed connection without response"
+   "note": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   {
    "source": "Something Haute",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "HELLO! Pakistan (H! Pakistan Magazine)",
@@ -894,7 +897,7 @@
   {
    "source": "HELLO! Magazine",
    "status": "ok",
-   "new": 5,
+   "new": 15,
    "total": 30,
    "note": ""
   },
@@ -943,30 +946,30 @@
   {
    "source": "Bored Panda",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "Hindustan Times — Trending",
    "status": "ok",
-   "new": 0,
-   "total": 30,
+   "new": 1,
+   "total": 29,
    "note": ""
   },
   {
    "source": "Storypick",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Mangobaaz",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "LADbible",
@@ -984,24 +987,24 @@
   },
   {
    "source": "TMDB",
-   "status": "baseline",
-   "new": 0,
+   "status": "ok",
+   "new": 1,
    "total": 60,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Wikidata",
-   "status": "baseline",
-   "new": 0,
+   "status": "ok",
+   "new": 7,
    "total": 80,
-   "note": "pehli run: baseline set, queue khaali"
+   "note": ""
   },
   {
    "source": "Wikipedia",
-   "status": "baseline",
-   "new": 0,
-   "total": 161,
-   "note": "pehli run: baseline set, queue khaali"
+   "status": "ok",
+   "new": 7,
+   "total": 153,
+   "note": ""
   }
  ]
 }
