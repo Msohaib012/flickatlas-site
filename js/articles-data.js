@@ -44,6 +44,46 @@ window.FA_ARTICLES = {
   },
   "published": "2026-10-24T20:56:09.141Z"
  },
+ "1sbf3y4": {
+  "id": "1sbf3y4",
+  "type": "news",
+  "headline": "Anil Kapoor Gets Emotional Remembering Satish Kaushik on Television Show",
+  "dek": "Actor Anil Kapoor became emotional on an upcoming episode of India Ke Top 1 Per Cent while remembering his late friend and colleague Satish Kaushik.",
+  "body": [
+   {
+    "h": "Remembering Satish Kaushik on Television",
+    "p": [
+     "During an upcoming episode of the television show India Ke Top 1 Per Cent The Anil Kapoor, actor Anil Kapoor became visibly emotional while discussing his long-standing friendship with the late actor Satish Kaushik. Kapoor shared personal stories and fond memories of their relationship, noting that their bond was built on mutual respect and deep affection."
+    ]
+   },
+   {
+    "h": "Encounter with a Lookalike",
+    "p": [
+     "The emotional segment was prompted by the appearance of a contestant named Gagan, whose facial features strongly resemble those of Satish Kaushik. Gagan recounted a past encounter with the late actor in Delhi on the set of the television show Sumit Sambhal Lega. Hearing Gagan's stories and seeing the striking resemblance brought back powerful memories for Kapoor.",
+     "Kapoor and Gagan later recreated a famous dialogue from Kaushik's career. In a lighthearted moment following the exchange, Kapoor jokingly suggested that filmmakers with available funding should create a project featuring twins starring himself and Gagan."
+    ]
+   }
+  ],
+  "facts": [
+   "Anil Kapoor appeared on the television program India Ke Top 1 Per Cent The Anil Kapoor.",
+   "A contestant named Gagan appeared on the show bearing a physical resemblance to the late Satish Kaushik.",
+   "Gagan previously met Satish Kaushik in Delhi during the filming of the television show Sumit Sambhal Lega.",
+   "India Ke Top 1 Per Cent airs on Saturdays and Sundays at 8 PM."
+  ],
+  "entities": {
+   "titles": [
+    "India Ke Top 1 Per Cent The Anil Kapoor",
+    "Sumit Sambhal Lega",
+    "Twins"
+   ],
+   "people": [
+    "Anil Kapoor",
+    "Satish Kaushik",
+    "Gagan"
+   ]
+  },
+  "published": "2026-10-25T09:40:08.237Z"
+ },
  "1xkru88": {
   "id": "1xkru88",
   "type": "news",
@@ -92,5 +132,49 @@ window.FA_ARTICLES = {
    ]
   },
   "published": "2026-10-24T20:56:36.679Z"
+ },
+ "y0ok9r": {
+  "id": "y0ok9r",
+  "type": "news",
+  "headline": "Shilpa Rao's Performance Cut Short at Bollywood Music Project Amid Organizer Delays",
+  "dek": "National Award-winning singer Shilpa Rao faced production delays and had her microphone switched off midway through her set at the Bollywood Music Project in Mumbai, drawing sharp criticism from attendees.",
+  "body": [
+   {
+    "h": "Performance Abruptly Halted",
+    "p": [
+     "National Award-winning singer Shilpa Rao performed at the 10th anniversary edition of the Bollywood Music Project in Mumbai on October 24. Due to production delays and poor time management, her set was cut short and her microphone was switched off midway through her performance.",
+     "As Rao attempted to thank her fans and say goodbye from the edge of the stage, her speech was similarly interrupted when the Kutle Khan Project began performing and organizers shut off her audio equipment."
+    ]
+   },
+   {
+    "h": "Attendee Outcry on Social Media",
+    "p": [
+     "Concertgoers expressed widespread anger on social media regarding the incident, calling the handling of the artist disrespectful and the event organization poorly managed. Several attendees noted that technical issues persisted throughout the set before the abrupt termination of the performance."
+    ]
+   }
+  ],
+  "facts": [
+   "Shilpa Rao performed at the 10th anniversary edition of the Bollywood Music Project in Mumbai on October 24.",
+   "Rao's performance and farewell speech were cut short when her microphone was turned off and the Kutle Khan Project began playing.",
+   "Attendees voiced frustration on social media regarding the event's time management and the treatment of the singer."
+  ],
+  "entities": {
+   "titles": [
+    "Bollywood Music Project",
+    "Anwar",
+    "Bachna Ae Haseeno",
+    "War",
+    "Ae Dil Hai Mushkil",
+    "Jawan"
+   ],
+   "people": [
+    "Shilpa Rao",
+    "Kutle Khan",
+    "Mithoon",
+    "Monica Yadav",
+    "Santanu Das"
+   ]
+  },
+  "published": "2026-10-25T09:39:42.477Z"
  }
 };
