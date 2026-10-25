@@ -152,6 +152,40 @@ def build_news(queue_path, registry_path):
                 merged += 1
         except Exception as e:
             print(f"publish-export merge skipped: {e}")
+    # Cumulative feed: fetch.py's queue is PER-RUN (only stories that are new
+    # since the last run), so building the feed from this run alone would
+    # shrink it to a handful of items an hour after a big fetch. Carry the
+    # previous feed forward (items from the last 48h only, so stale stories
+    # age out) and dedupe by id.
+    prev_path = os.path.join(ROOT, "api-news.json")
+    carried = 0
+    if os.path.exists(prev_path):
+        try:
+            with open(prev_path, encoding="utf-8") as f:
+                prev = json.load(f)
+            have_ids = {i["id"] for i in items}
+            cutoff = int(datetime.now(timezone.utc).timestamp() * 1000) - 48 * 3600 * 1000
+            for old in prev.get("items") or []:
+                oid = old.get("id")
+                ots = old.get("ts")
+                if not oid or oid in have_ids or not isinstance(ots, int) or ots < cutoff:
+                    continue
+                if not old.get("link") or not old.get("title"):
+                    continue
+                items.append({
+                    "id": oid,
+                    "title": old.get("title"),
+                    "link": old.get("link"),
+                    "source": old.get("source") or "",
+                    "cats": old.get("cats") or ["international"],
+                    "ts": ots,
+                    "summary": "",
+                })
+                have_ids.add(oid)
+                carried += 1
+        except Exception as e:
+            print(f"previous-feed carry skipped: {e}")
+    print(f"carried {carried} items from previous feed")
     # Published entries are PINNED: they must survive even when the fresh
     # fetch alone fills the 100-item cap (their export-time ts is older than
     # today's stories, so a plain sort+truncate would drop them and the
