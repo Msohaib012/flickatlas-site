@@ -570,7 +570,6 @@ tr.dw-hl td:first-child{box-shadow:inset 3px 0 0 var(--teal)}
 .skip-link{position:absolute;left:12px;top:8px;transform:translateY(-150%);z-index:100;background:#fff;border:2px solid var(--teal);border-radius:8px;padding:10px 16px;font-weight:700}
 .skip-link:focus{transform:translateY(0)}
 a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
-body[data-industry="bollywood"] .ccy-switch{display:none}
 body[data-industry="bollywood"] #app .wrap{min-width:0}
 body[data-industry="bollywood"] .content-card,body[data-industry="bollywood"] .detail-main,body[data-industry="bollywood"] .person-hero>div{min-width:0}
 body[data-industry="bollywood"] .content-card p,body[data-industry="bollywood"] .facts-table dd,body[data-industry="bollywood"] .person-name,body[data-industry="bollywood"] .article-head h1{overflow-wrap:anywhere}
@@ -1705,4 +1704,102 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
   .table-scroll table.data{min-width:0}
   table.data{font-size:.85rem}
   table.data th,table.data td{padding:8px 6px}
+}
+
+/* ==========================================================================
+   MOBILE AUDIT FIXES — FlickAtlas full bug sweep, Area 3 (2026-10-25).
+   Every rule below is scoped to small screens; desktop styles are untouched.
+   Width math per fix is in ../FOUND-AND-FIXED.md.
+   Available width: 360px viewport -> 328px content, 292px inside a card;
+   320px viewport -> 288px content, 252px inside a card (16px page padding).
+   ========================================================================== */
+
+/* F1 — Currency switcher hidden on Bollywood pages. Fixed by DELETING the old
+   rule `body[data-industry="bollywood"] .ccy-switch{display:none}` (it was
+   the leftover of the currency lock removed in commit 1870f05b). The header
+   grid at <=900px already reserves the column for the switcher, so un-hiding
+   changes nothing else. No rule needed here — the fix IS the deletion. */
+
+/* F2 — Hero carousel dots were 9px tap targets (base .hero-dots button is
+   9x9px). They only render when a 2nd hero slide exists, but then they are
+   nearly untappable on a phone. Each dot gets a 28px hit area; the visible
+   dot stays 9px. The dots sit in the hero's 48px bottom padding, below the
+   CTA button, so the bigger hit area overlaps nothing. */
+@media(max-width:640px){
+  .hero-dots button{width:28px;height:28px;display:flex;align-items:center;justify-content:center;background:transparent;transform:none}
+  .hero-dots button::after{content:"";display:block;width:9px;height:9px;border-radius:50%;background:rgba(255,255,255,.45)}
+  .hero-dots button.on{background:transparent}
+  .hero-dots button.on::after{background:#fff}
+}
+
+/* F3 — Episode-guide filter tabs were ~33px tall (base .eb-tabs button has
+   padding 8px 14px and no min-height). Raise to the 44px tap target. */
+@media(max-width:640px){
+  .eb-tabs button{min-height:44px}
+}
+
+/* F4 — Trending "Refresh" button was ~37px tall (base .trend-groups__refresh
+   has padding 8px 14px and no min-height). Raise to the 44px tap target. */
+@media(max-width:640px){
+  .trend-groups__refresh{min-height:44px}
+}
+
+/* F5 — Filter select value had no truncation (base .fa-select-trigger is a
+   flex row with a plain value <span>). A long selected value could push the
+   chevron out of the trigger. Ellipsis keeps it inside.
+   Width math (360px): select cell 159px - trigger padding 22px - gap 10px -
+   chevron 8px = 119px for the value; "Most Popular" is ~85px, so current
+   labels fit and only genuinely long values truncate. */
+@media(max-width:640px){
+  #app #chipHost .fa-select-trigger>span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+}
+
+/* F6 — Box-office lifetime table (6 columns: #, poster, Movie + bar chart,
+   Budget, Worldwide Gross, Verdict) cannot fit a 292px phone: its natural
+   min-width is ~350px, and the .bo-bars alone impose an 82px floor via the
+   "Budget"/"Gross" bar labels. The 2026-10-25 day-wise fix (min-width:0)
+   only stops the table overflowing its card — the columns would still be
+   crushed. On mobile hide the decorative/derivable columns; the essentials
+   (title, budget, gross, verdict) remain and fit.
+   - .bo-bars: duplicates the Budget/Gross columns (same numbers, bar form).
+     Scoped to table.data so the box-office summary-panel bars (ui.js) are
+     untouched.
+   - poster cell: the title links to the same movie page. :has() is used
+     because the poster is the only cell containing a linked <img>; supported
+     in Chrome 105+, Safari 15.4+, Firefox 121+ (the owner's phone is modern).
+   - rank # (<=359px only): the chart order already conveys the ranking.
+   Width math (worst case, INR, verdict present, .8rem table font):
+     360px: Movie 38 + Budget 41 + Gross 56 + Verdict 62 + padding 60 = 257px
+            vs 292px available -> 35px spare. Fits.
+     320px (rank hidden): Movie 38 + Budget 41 + Gross 56 + Verdict 62
+            + padding 48 = 245px vs 268px available -> 23px spare. Fits.
+   Live data today has no verdicts (budgets are "Not reported"), so the real
+   widths are smaller still (USD ~210px at 360px, ~230px in INR). */
+@media(max-width:640px){
+  table.data .bo-bars{display:none}
+  table.data:has(.bo-bars) td:has(>a>img){display:none}
+  table.data:has(.bo-bars) th:empty{display:none}
+  table.data:has(.bo-bars){font-size:.8rem}
+  table.data:has(.bo-bars) .verdict{padding:3px 6px;font-size:.72rem}
+}
+@media(max-width:359px){
+  table.data:has(.bo-bars) td:nth-child(1),
+  table.data:has(.bo-bars) th:nth-child(1){display:none}
+}
+
+/* F7 — Dated-collections table: the "Recorded dates" cell is a comma list of
+   date links ("23 October 2026, 24 October 2026"). On a phone each link
+   could break mid-date ("23 October" / "2026"), which reads like two dates.
+   Make each date link an atomic inline box so it wraps BETWEEN dates only,
+   never inside one. The selector is precise: only links to /box-office-day
+   inside a data table match (the dated table's date links, plus the day-wise
+   table's short "Day N" links, which also benefit).
+   Width math (Area 1's 3-column dated table: Movie / dates / collection):
+     360px INR: Movie 50 + one date 98 + collection 60 + padding 36 = 244px
+            vs 292px available -> 48px spare. Fits.
+     320px INR: 244px vs 268px available -> 24px spare. Fits.
+   (The old 4-column version with a # column would be ~4px over at 320px in
+   the worst INR case; Area 1's rewrite drops that # column.) */
+@media(max-width:640px){
+  table.data a[href*="box-office-day"]{display:inline-block}
 }

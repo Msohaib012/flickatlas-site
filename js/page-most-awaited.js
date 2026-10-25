@@ -27,18 +27,31 @@
   const detailHost = main.querySelector("#detailHost");
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
-     Upcoming = entries whose release/air date is in the future. */
+     Upcoming = entries whose release/air date is in the future.
+     Industry tag for cards: "World Cinema" for world-industry titles
+     (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
+  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  /* Audit fix: the page ignored the ?f= filter the homepage and footer
+     links pass (?f=bollywood / ?f=international), so every industry link
+     showed the same single title. The pick now respects the filter. */
+  let f = UI.getParam("f", "all");
+  if (!["all", "bollywood", "international", "pakistani"].includes(f)) f = "all";
   const today = new Date().toISOString().slice(0, 10);
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
+  const inIndustry = x => f === "all" ? true
+    : f === "international" ? x.industry === "world" : x.industry === f;
   const upcoming = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.id && x.poster_path && dateOf(x) > today)
+    .filter(x => x && x.id && x.poster_path && inIndustry(x) && dateOf(x) > today)
     .sort((a, b) => (b.vote_average || 0) - (a.vote_average || 0)
       || (b.vote_count || 0) - (a.vote_count || 0)
       || dateOf(a).localeCompare(dateOf(b)));
   const top = upcoming.slice(0, 1);
 
   if (!top.length) {
-    fcount.textContent = "No upcoming titles have been published yet.";
+    /* Audit fix: the count line and the grid used to carry the SAME
+       sentence ("No upcoming titles have been published yet." twice).
+       The count line now carries the count; the grid carries the message. */
+    fcount.textContent = "0 upcoming titles";
     grid.innerHTML = UI.stateMsg("No upcoming titles have been published yet.", false);
     return;
   }
@@ -49,7 +62,7 @@
   const title = UI.titleOf(x);
   const detailHref = type === "tv" ? `/show?id=${x.id}` : `/movie?id=${x.id}`;
 
-  grid.innerHTML = `<div class="fcell" data-fitem>${UI.posterCard(x, type, UI.industryTag(x))}</div>`;
+  grid.innerHTML = `<div class="fcell" data-fitem>${UI.posterCard(x, type, tagFor(x))}</div>`;
   fcount.textContent = "1 most awaited title";
   detailHost.innerHTML = `<div class="content-card"><h2>${UI.esc(title)}</h2>
     <dl class="facts-table">

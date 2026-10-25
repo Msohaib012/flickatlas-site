@@ -19,14 +19,17 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>OTT</h1>
-      <p>New on streaming this week — films and series published on FlickAtlas.</p></div>
+      <p>The featured published title on FlickAtlas — platform availability is reported as information only.</p></div>
     <div id="ottHost"><p class="eb-note" role="status">Loading release information…</p></div>
   </div>`;
   const host = main.querySelector("#ottHost");
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Featured = newest published title (published_at desc, then
-     release/air date desc). */
+     release/air date desc).
+     Industry tag for cards: "World Cinema" for world-industry titles
+     (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
+  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
     || dateOf(b).localeCompare(dateOf(a));
@@ -40,9 +43,9 @@
   }
 
   const type = featured.type || "movie";
-  host.innerHTML = `<div class="grid">${UI.posterCard(featured, type, UI.industryTag(featured))}</div>
+  host.innerHTML = `<div class="grid">${UI.posterCard(featured, type, tagFor(featured))}</div>
     ${featured.overview ? `<div class="content-card"><h2>${UI.esc(UI.titleOf(featured))}</h2>
       <p class="article-summary">${UI.esc(featured.overview.slice(0, 240))}</p>
       <p><a class="btn btn-teal" href="/${type === "tv" ? "show" : "movie"}?id=${featured.id}">Open full details →</a></p></div>` : ""}
-    <p class="prov-note">Featured streaming title — the newest published title on FlickAtlas. Platform availability is reported as information only and may change. FlickAtlas does not stream video.</p>`;
+    <p class="prov-note">Featured title — the newest published title on FlickAtlas. Platform availability is reported as information only and may change. FlickAtlas does not stream video.</p>`;
 })();

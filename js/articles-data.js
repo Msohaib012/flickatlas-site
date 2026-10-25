@@ -50,7 +50,14 @@ window.FA_ARTICLES = {
         "Sharath Bose"
       ]
     },
-    "published": "2026-10-25T11:02:13.828Z"
+    "published": "2026-10-25T11:02:13.828Z",
+    "images": [
+      {
+        "caption": "Chef Damu, Veteran Culinary Personality and Tamil Film Actor, Passes Away at 72",
+        "source": "FilmiBeat",
+        "url": "https://images.filmibeat.com/img/2026/10/chefdamumain-75531792907866.jpg"
+      }
+    ]
   },
   "8p755o": {
     "id": "8p755o",
@@ -131,7 +138,14 @@ window.FA_ARTICLES = {
         "Sharath Bose"
       ]
     },
-    "published": "2026-10-25T12:15:33.206Z"
+    "published": "2026-10-25T12:15:33.206Z",
+    "images": [
+      {
+        "caption": "Rajinikanth's Jailer 2 Surges on Day 10 as Worldwide Gross Nears ₹670 Crore",
+        "source": "FilmiBeat",
+        "url": "https://images.filmibeat.com/img/2026/10/jailer2main-62751792902620.jpg"
+      }
+    ]
   },
   "glx1ay": {
     "id": "glx1ay",
@@ -175,7 +189,14 @@ window.FA_ARTICLES = {
       ],
       "titles": []
     },
-    "published": "Sun, 25 Oct 2026 18:39:48 +0200"
+    "published": "Sun, 25 Oct 2026 18:39:48 +0200",
+    "images": [
+      {
+        "caption": "Representative For Tiger Shroff Refutes Claims Regarding Statement Made To Mumbai Police",
+        "source": "Bollywood Hungama",
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/620x450-25102026-15.jpg.jpeg"
+      }
+    ]
   },
   "1bzs50a": {
     "id": "1bzs50a",
@@ -256,7 +277,14 @@ window.FA_ARTICLES = {
         "SI Yugandhar"
       ]
     },
-    "published": "Sun, 25 Oct 2026 19:57:01 +0530"
+    "published": "Sun, 25 Oct 2026 19:57:01 +0530",
+    "images": [
+      {
+        "caption": "Aadi Saikumar's Crime Action Thriller 'Sub-Inspector Yugandhar' Locks OTT Release Date",
+        "source": "FilmiBeat",
+        "url": "https://images.filmibeat.com/img/2026/10/sub-inspectoryugandharmain-37401792938342.jpg"
+      }
+    ]
   },
   "1kxh1j2": {
     "id": "1kxh1j2",

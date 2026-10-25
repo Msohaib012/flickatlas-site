@@ -1,8 +1,13 @@
 /* FlickAtlas — Box Office hub (§5: Sacnilk records/day-wise + Koimoi verdicts
    + Mojo charts): year + all-time charts with §4 filter chips — All · This
    Year · All-Time · Bollywood · Worldwide · Verdicts · Clubs ($100M+ … $1B+).
-   Figures come only from reported budget/revenue fields; verdicts are
-   estimates and labelled as such. */
+   PUBLISHED-ONLY (audit fix, 2026-10-25): the old page built its charts from
+   LIVE TMDB discover/details — the live catalogue, showing movies that were
+   never published. Every figure now comes only from window.FA_PUBLISHED
+   (baked budget/revenue) and window.FA_DAYWISE (recorded day-wise rows).
+   No TMDB calls anywhere. A title without reported gross is ranked by its
+   recorded day-wise sum; a title with neither shows no figure at all.
+   Verdicts are estimates and labelled as such. */
 (async function () {
   UI.mountChrome("/box-office");
   const main = document.getElementById("app");
@@ -13,25 +18,54 @@
   });
 
   const year = new Date().getFullYear();
-  async function addLatestPrimary() {
-    const wrap = main.querySelector(".wrap");
-    if (!wrap) return;
-    const host = document.createElement("div");
-    host.id = "fa-box-latest-host";
-    const history = document.createElement("details");
-    history.className = "bo-history";
-    history.open = ["p", "cut"].some(k => new URLSearchParams(location.search).has(k));
-    history.innerHTML = `<summary>Historical charts &amp; day-wise records</summary>`;
-    while (wrap.firstChild) history.appendChild(wrap.firstChild);
-    history.querySelectorAll("h1").forEach(h => { const h2 = document.createElement("h2"); h2.textContent = h.textContent; h.replaceWith(h2); });
-    wrap.append(host, history);
-    let ready = window.FABoxOffice;
-    if (!ready) ready = await new Promise(resolve => {
-      const s = document.createElement("script"); s.src = "/js/boxoffice-latest.js?v=fa-202610252145";
-      s.onload = () => resolve(window.FABoxOffice); s.onerror = () => resolve(null); document.head.appendChild(s);
-    });
-    if (ready) ready.mount(host, { industry: new URLSearchParams(location.search).get("f") || "bollywood", title: "Box Office", heading: "h1", limit: 1 });
+  const today = new Date().toISOString().slice(0, 10);
+  /* Industry tag for cards: "World Cinema" for world-industry titles
+     (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
+  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  const pub = () => Object.values(window.FA_PUBLISHED || {});
+  const dw = window.FA_DAYWISE || {};
+  const entryOf = (id) => (window.FA_PUBLISHED || {})[String(id)] || null;
+  const recordedTotal = (id) => {
+    const rows = dw[String(id)] || [];
+    return rows.filter(r => r && typeof r.collection === "number" && Number.isFinite(r.collection))
+      .reduce((s, r) => s + r.collection, 0);
+  };
+  /* Ranking amount: reported worldwide gross when it exists, otherwise the
+     recorded day-wise sum. A title with neither has no figure (amount 0). */
+  const amountOf = (d) => (d && (d.revenue || 0) > 0 ? d.revenue : recordedTotal(d && d.id));
+  const dwKeysByLastDate = () => Object.keys(dw).sort((a, b) => {
+    const lastOf = (k) => { const rows = dw[k]; return Array.isArray(rows) && rows.length ? (rows[rows.length - 1].date || "") : ""; };
+    return lastOf(b).localeCompare(lastOf(a));
+  });
+
+  /* Latest card — the newest published title with real day-wise rows.
+     Same card as the homepage (Today / 7 Days / Recorded, with the "2/7"
+     partial badge). One card; nothing when no published title has data. */
+  function latestCardHtml(entry, rows) {
+    const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
+    const weekStart = new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10);
+    const todayRows = clean.filter(r => r.date === today);
+    const weekRows = clean.filter(r => r.date >= weekStart && r.date <= today);
+    const todaySum = todayRows.reduce((s, r) => s + r.collection, 0);
+    const weekSum = weekRows.reduce((s, r) => s + r.collection, 0);
+    const weekDays = new Set(weekRows.map(r => r.date)).size;
+    const totalSum = clean.reduce((s, r) => s + r.collection, 0);
+    const date = entry.release_date || "";
+    const missing = '<span class="fa-box-unavailable">Not reported</span>';
+    const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
+    return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div></dl></a>`;
   }
+  function latestPick(industry) {
+    for (const dwId of dwKeysByLastDate()) {
+      const entry = entryOf(dwId);
+      if (!entry || !entry.poster_path) continue;
+      if (industry && entry.industry !== industry) continue;
+      const rows = dw[dwId];
+      if (Array.isArray(rows) && rows.length) return { entry, rows };
+    }
+    return null;
+  }
+
   /* Periods (correction 8): Today / 7 Days / 30 Days come only from
      engine day-wise data; Lifetime = the all-time gross rankings below.
      Box-office periods are NOT bound by the 3-month posts window. */
@@ -45,84 +79,44 @@
   let f = UI.getParam("f", "all");
   if (!FILTERS.some(([k]) => k === f)) f = "all";
 
-  /* Isolated Bollywood view: never filter worldwide top-10 results into a
-     misleading chart. Only explicitly available, verified Hindi/India records
-     are shown; broad rankings are withheld until the source pool is complete. */
-  if (f === "bollywood") {
-    main.innerHTML = `<div class="wrap bo-dashboard"></div>`;
-    await addLatestPrimary();
-    const archive = document.createElement("div");
-    main.querySelector(".bo-history").appendChild(archive);
-    try {
-      await renderBollywoodBoxOffice({ main: archive, period, periods: PERIODS });
-      archive.querySelectorAll("h1").forEach(h => { const h2 = document.createElement("h2"); h2.textContent = h.textContent; h.replaceWith(h2); });
-    } catch (_) {
-      archive.innerHTML = UI.stateMsg("Historical records could not load. The latest releases above remain available.");
-    }
-    return;
+  /* Lifetime entries: published movies ranked by amount (reported gross,
+     else recorded day-wise sum). Titles with no figure at all are excluded. */
+  function lifetimeEntries(industry) {
+    return pub()
+      .filter(x => x && x.id && x.type === "movie" && x.poster_path
+        && /^\d{4}-\d{2}-\d{2}$/.test(x.release_date || "")
+        && (!industry || x.industry === industry))
+      .map(d => ({ ...d, _amount: amountOf(d) }))
+      .filter(d => d._amount > 0)
+      .sort((a, b) => b._amount - a._amount);
   }
 
-  main.innerHTML = `<div class="wrap bo-dashboard">
-    <header class="page-hero bo-intro"><p class="bo-key">Collections, comparisons and records</p><h1>Box Office</h1>
-      <p>Period totals use recorded day-wise entries; lifetime charts use reported gross.</p></header>
-    <details class="bo-help"><summary>Budget, gross &amp; verdict — what do they mean?</summary><p><b>Budget</b> is reported production spend; <b>gross</b> is revenue, not profit or the studio's share. Verdicts are estimates from reported gross-to-budget: Hit at 2.5× or more, Average from 1× to under 2.5×, Flop below budget. Missing budgets mean no verdict.</p></details>
-    <nav class="bo-scope" aria-label="Box office industry"><a class="chip on" href="/box-office" aria-current="page">All industries</a><a class="chip" href="/box-office?f=bollywood">Bollywood</a></nav>
-    <section class="bo-summary" aria-label="Choose a collection period"><h2>Recorded collections by period</h2><p>Only dated entries within the selected window count; missing days are excluded, not zero.</p>
-    <div class="bo-periods" style="margin-top:18px">${PERIODS.map(([k, l]) =>
-      `<a class="chip${k === period ? " on" : ""}"${k === period ? ' aria-current="page"' : ""} href="/box-office?p=${k}${f === "all" ? "" : `&amp;f=${encodeURIComponent(f)}`}" style="text-decoration:none">${l}</a>`).join("")}</div>
-    <div id="periodWrap" aria-live="polite">${period === "lifetime" ? `<p class="bo-help">Select a period above to see its recorded collections.</p>` : `<p class="bo-help" role="status">Loading dated collection records…</p>`}</div></section>
-    <div id="lifetimeWrap">
-    <section class="bo-summary"><h2>Lifetime gross rankings</h2><p>Reported-gross ranking from an available sample, not a definitive global ranking.</p><div id="chipHost">${UI.chipRow(FILTERS, f)}</div></section>
-    <div class="content-card" id="yearCard"><h2>Top Grossing Movies of ${year}</h2>
-      <p style="color:var(--muted)">Loading reported figures…</p></div>
-    <div class="content-card" id="allCard"><h2>Top Grossing Movies of All Time</h2>
-      <p style="color:var(--muted)">Loading reported figures…</p></div>
-    </div>
-    <div id="daywiseWrap"></div>
-    ${UI.rateNote()}
-    <p class="bo-help"><b>Data note:</b> Lifetime figures are reported, not independently reconciled. This is a limited sample; budgets may be unreported, and verdicts are estimates from reported budget and gross.</p>
-  </div>`;
-  await addLatestPrimary();
-
-  const indKey = (d) => {
-    const t = UI.industryTag(d);
-    return t === "Bollywood" ? "bollywood" : t === "Pakistani" ? "lollywood" : t === "Korean" ? "kdrama" : "international";
-  };
-
+  /* Lifetime chart table. Budget/revenue of 0 mean "not reported" — the old
+     code rendered fmtMoney(0) as "$0" because the span is a truthy string.
+     data-ind carries the baked industry (bollywood | pakistani | world);
+     data-gross is the ranking amount, so the club filters work on it. */
   function table(rows) {
     return `<div class="table-scroll"><table class="data">
       <thead><tr><th>#</th><th></th><th>Movie</th><th>Budget</th><th>Worldwide Gross</th><th>Verdict*</th></tr></thead>
-      <tbody>${rows.map((d, i) => { const v = UI.verdict(d.budget, d.revenue); return `<tr data-fitem data-ind="${indKey(d)}" data-verdict="${v ? v.label.toLowerCase() : ""}" data-gross="${d.revenue || 0}">
+      <tbody>${rows.map((d, i) => { const v = UI.verdict(d.budget, d.revenue); return `<tr data-fitem data-ind="${UI.esc(d.industry || "")}" data-verdict="${v ? v.label.toLowerCase() : ""}" data-gross="${d._amount || 0}">
         <td class="rank">${i + 1}</td>
         <td><a href="/movie?id=${d.id}"><img src="${UI.img(d.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"></a></td>
         <td><a href="/movie?id=${d.id}"><b>${UI.esc(UI.titleOf(d))}</b></a>
-          <div style="color:var(--muted);font-size:.82rem">${UI.yearOf(d)}${UI.rating(d) ? ` · ${UI.rating(d)}/10` : ""}</div>
-          ${(() => { const max = Math.max(d.budget || 0, d.revenue || 0, 1); const bar = (name, value, cls) => `<div class="bo-bar"><span>${name}</span><span class="track"><i class="fill ${cls}" style="width:${Math.max(0, Math.min(100, value / max * 100))}%"></i></span></div>`; return `<div class="bo-bars" aria-label="Budget compared with gross">${bar("Budget", d.budget || 0, "budget")}${bar("Gross", d.revenue || 0, "gross")}</div>`; })()}</td>
-        <td>${UI.fmtMoney(d.budget) || "Not reported"}</td>
-        <td><b>${UI.fmtMoney(d.revenue) || "—"}</b></td>
+          <div style="color:var(--muted);font-size:.82rem">${UI.yearOf(d)}${UI.rating(d) ? ` · ${UI.rating(d)}/10` : ""}${tagFor(d) ? ` · ${UI.esc(tagFor(d))}` : ""}</div>
+          ${(() => { const max = Math.max(d.budget || 0, d._amount || 0, 1); const bar = (name, value, cls) => `<div class="bo-bar"><span>${name}</span><span class="track"><i class="fill ${cls}" style="width:${Math.max(0, Math.min(100, value / max * 100))}%"></i></span></div>`; return `<div class="bo-bars" aria-label="Budget compared with gross">${bar("Budget", d.budget || 0, "budget")}${bar("Gross", d._amount || 0, "gross")}</div>`; })()}</td>
+        <td>${d.budget > 0 ? UI.fmtMoney(d.budget) : "Not reported"}</td>
+        <td><b>${d._amount > 0 ? UI.fmtMoney(d._amount) : "—"}</b></td>
         <td>${v ? `<span class="verdict ${v.cls}">${v.label}</span>` : "—"}</td></tr>`; }).join("")}
       </tbody></table></div>
       <p class="bo-empty" style="display:none;color:var(--muted)">No titles in this chart match the selected filter.</p>`;
   }
 
-  const charted = [];
-  async function fill(cardId, params) {
-    const card = document.getElementById(cardId);
-    const list = await TMDB.discoverResults("movie", params);
-    const picked = [];
-    for (const m of list) {
-      if (picked.length >= 10) break;
-      try {
-        const d = await TMDB.details("movie", m.id);
-        if (d && d.revenue > 0) picked.push(d);
-      } catch (e) {}
-    }
-    charted.push(...picked);
-    picked.sort((a, b) => (b.revenue || 0) - (a.revenue || 0));
-    const h2 = card.querySelector("h2").outerHTML;
-    card.innerHTML = h2 + (picked.length ? table(picked)
-      : `<p style="color:var(--muted)">No reported box office data available right now.</p>`);
-    card.dataset.loaded = "1";
+  function chartCard(cardId, title, entries) {
+    const top = entries.slice(0, 10);
+    return `<div class="content-card" id="${cardId}" data-loaded="1"><h2>${UI.esc(title)}</h2>
+      ${top.length ? table(top)
+        : `<p style="color:var(--muted)">No reported box office data available right now.</p>`}
+      <p style="color:var(--muted);font-size:.8rem;margin-top:10px">Gross is the reported worldwide gross where available; otherwise the sum of the recorded day-wise collections tracked by FlickAtlas.</p></div>`;
   }
 
   function applyFilter() {
@@ -130,7 +124,7 @@
     const scopeOf = (cardId) => f === "year" ? cardId === "yearCard" : f === "alltime" ? cardId === "allCard" : true;
     for (const cardId of ["yearCard", "allCard"]) {
       const card = document.getElementById(cardId);
-      if (!card.dataset.loaded) continue;
+      if (!card || !card.dataset.loaded) continue;
       const inScope = scopeOf(cardId);
       card.style.display = inScope ? "" : "none";
       if (!inScope) continue;
@@ -139,19 +133,135 @@
         const ds = tr.dataset;
         let show = true;
         if (f === "hit" || f === "average" || f === "flop") show = ds.verdict === f;
+        else if (f === "worldwide") show = ds.ind === "world";
         else if (clubs[f]) show = Number(ds.gross) >= clubs[f];
         tr.style.display = show ? "" : "none";
         if (show) visible++;
       });
       const shown = [...card.querySelectorAll("[data-fitem]")].filter(tr => tr.style.display !== "none");
-      shown.sort((a, b) => Number(b.dataset.gross || 0) - Number(a.dataset.gross || 0));
       shown.forEach((tr, i) => { const rank = tr.querySelector(".rank"); if (rank) rank.textContent = String(i + 1); });
       const note = card.querySelector(".bo-empty");
       if (note) note.style.display = visible ? "none" : "";
     }
   }
+
+  /* Day-wise tables for every published title that has day-wise rows. */
+  function daywiseHtml() {
+    return dwKeysByLastDate().map(id => {
+      const entry = entryOf(id);
+      if (!entry) return "";
+      return UI.daywiseCard(dw[id], `Day-Wise Box Office — ${UI.titleOf(entry)}`, { titleId: String(id) });
+    }).join("");
+  }
+
+  /* Period ranking details map — published entries only, never TMDB. */
+  const periodMap = {};
+  for (const id of Object.keys(dw)) {
+    const e = entryOf(id);
+    if (e) periodMap[String(id)] = e;
+  }
+
+  /* ---------- Bollywood branch ---------- */
+  if (f === "bollywood") {
+    const pick = latestPick("bollywood");
+    /* Bollywood-only period map — the global periodMap would rank world
+       titles in the Bollywood branch's period section. */
+    const bollyMap = {};
+    for (const id of Object.keys(dw)) {
+      const e = entryOf(id);
+      if (e && e.industry === "bollywood") bollyMap[String(id)] = e;
+    }
+    const periodHtml = period !== "lifetime"
+      ? (UI.boPeriodHtml(period, bollyMap)
+        ? `<div class="content-card"><h2>Box Office — ${PERIODS.find(([k]) => k === period)[1]}</h2><p class="bo-help">Ranked by recorded collection within this window. Lifetime gross rankings below use a separate measure.</p>${UI.boPeriodHtml(period, bollyMap)}</div>`
+        : `<div class="content-card"><h2>Box Office — ${PERIODS.find(([k]) => k === period)[1]}</h2><p style="color:var(--muted)">No day-wise tracked titles yet for this period — period rankings appear here as the data engine tracks running films day by day. See the Lifetime charts meanwhile.</p></div>`)
+      : "";
+    const cuts = [["alltime", "All-Time"], ["year", "This Year"], ["hit", "Verdict: Hit"], ["average", "Verdict: Average"], ["flop", "Verdict: Flop"], ["club100", "$100M Club"], ["club300", "$300M Club"], ["club500", "$500M Club"], ["club1b", "$1B Club"]];
+    let cut = UI.getParam("cut", "alltime");
+    if (!cuts.some(([k]) => k === cut)) cut = "alltime";
+    const href = (p, c) => `/box-office?f=bollywood&p=${encodeURIComponent(p)}&cut=${encodeURIComponent(c)}`;
+    const controls = PERIODS.map(([k, name]) => `<a class="chip${k === period ? " on" : ""}"${k === period ? ' aria-current="page"' : ""} href="${href(k, cut)}" style="text-decoration:none">${name}</a>`).join("");
+    const filters = cuts.map(([k, name]) => `<a class="chip${k === cut ? " on" : ""}" href="${href(period, k)}" style="text-decoration:none">${name}</a>`).join("");
+    const label = (PERIODS.find(p => p[0] === period) || PERIODS[0])[1];
+    const bollyEntries = lifetimeEntries("bollywood");
+    const clubFloor = { club100: 1e8, club300: 3e8, club500: 5e8, club1b: 1e9 };
+    const cutEntries = bollyEntries.filter(d => {
+      const v = UI.verdict(d.budget, d.revenue);
+      if (cut === "year") return String(d.release_date || "").startsWith(String(year));
+      if (["hit", "average", "flop"].includes(cut)) return !!v && v.label.toLowerCase() === cut;
+      return clubFloor[cut] ? d._amount >= clubFloor[cut] : true;
+    });
+    const yearEntries = cutEntries.filter(d => String(d.release_date || "").startsWith(String(year)));
+    const lifetimeSection = period === "lifetime" ? `<section class="bo-summary"><h2>Lifetime gross sample</h2><p>Available Hindi-language Indian titles only; not comprehensive or independently reconciled.</p><div class="bo-periods" style="margin-top:10px">${filters}</div></section>${chartCard("yearCard", `Top Grossing Bollywood Movies — ${year}`, yearEntries)}${chartCard("allCard", "Top Grossing Bollywood Movies — Lifetime", cutEntries)}` : "";
+    main.innerHTML = `<div class="wrap bo-dashboard">
+      <header class="page-hero bo-intro"><p class="bo-key">Dated collections and reported grosses</p><h1>Bollywood Box Office — ${UI.esc(label)}</h1><p>Hindi-language Indian-film figures in the limited available sample. Period collections sum valid recorded dates; lifetime charts rank reported gross. Neither is a definitive industry ranking, and gross is not profit.</p></header>
+      <details class="bo-help"><summary>Budget, gross &amp; verdict — what do they mean?</summary><p>Reported budget and gross are not profit. Estimated verdicts compare gross with budget: Hit at 2.5× or more, Average at 1× to under 2.5×, and Flop below budget. Missing budgets do not receive a verdict.</p></details>
+      <nav class="bo-scope" aria-label="Box office industry"><a class="chip" href="/box-office">All industries</a><a class="chip on" href="${href(period, cut)}" aria-current="page">Bollywood</a></nav>
+      <section class="section" data-sec="box-office"><div class="section-head"><h2>Latest</h2></div>${pick ? latestCardHtml(pick.entry, pick.rows) : `<p style="color:var(--muted)">No published Bollywood title has day-wise collection data yet.</p>`}</section>
+      <section class="bo-summary"><h2>Recorded collections by period</h2><p>Only valid dated entries in the selected calendar window are summed; absent dates are excluded, not invented.</p><div class="bo-periods" style="margin-top:10px">${controls}</div></section>
+      ${periodHtml}
+      ${lifetimeSection}
+      <div class="content-card"><h2>${UI.esc(label)} collections — dated sample</h2>${(() => {
+        const rows = dwKeysByLastDate().map(id => ({ entry: entryOf(id), rows: dw[id] })).filter(x => x.entry && x.entry.industry === "bollywood" && Array.isArray(x.rows) && x.rows.length);
+        if (!rows.length) return `<p style="color:var(--muted)">No eligible Hindi-film day-wise records are available for ${label.toLowerCase()} in the current sample. No missing dates or figures are estimated.</p>`;
+        const set = period === "today" ? [today, today] : period === "d7" ? [new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10), today] : period === "d30" ? [new Date(Date.now() - 29 * 864e5).toISOString().slice(0, 10), today] : null;
+        const body = rows.map(({ entry, rows: rws }) => {
+          const inPeriod = set ? rws.filter(r => r.date >= set[0] && r.date <= set[1]) : rws;
+          const amount = inPeriod.reduce((s, r) => s + (r.collection || 0), 0);
+          if (set && !inPeriod.length) return "";
+          return `<tr><td><a href="/movie?id=${entry.id}"><b>${UI.esc(UI.titleOf(entry))}</b></a></td><td>${inPeriod.map(r => { const n = UI.dayNumOf(r, rws.indexOf(r)); return `<a href="/box-office-day?title=${encodeURIComponent(entry.id)}&day=${n}">${UI.fmtDate(r.date)}</a>`; }).join(", ")}</td><td><b>${UI.fmtMoney(amount)}</b></td></tr>`;
+        }).filter(Boolean).join("");
+        return body ? `<div class="table-scroll"><table class="data"><thead><tr><th>Movie</th><th>Recorded dates</th><th>Recorded collection (USD)</th></tr></thead><tbody>${body}</tbody></table></div>` : `<p style="color:var(--muted)">No eligible Hindi-film day-wise records are available for ${label.toLowerCase()} in the current sample. No missing dates or figures are estimated.</p>`;
+      })()}<p class="prov-note">Collection records have not been independently reconciled here.</p></div>
+      ${UI.rateNote()}
+      <p class="bo-help"><b>Method:</b> Today means the current UTC calendar date; 7 Days and 30 Days are inclusive calendar windows ending today. Lifetime sums valid dated records. Coverage is limited to available records; no dates or figures are invented.</p>
+    </div>`;
+    UI.setSEO({ title: "Box Office — Latest Movies, Today, 7 Days & Lifetime | FlickAtlas", desc: "Latest released films with reported daily collections, seven-day sums and lifetime worldwide gross. Missing figures remain clearly marked.", path: "/box-office?f=bollywood" });
+    return;
+  }
+
+  /* ---------- All-industries view ---------- */
+  const pick = latestPick(null);
+  const allEntries = lifetimeEntries(null);
+  const yearEntries = allEntries.filter(d => String(d.release_date || "").startsWith(String(year)));
+  main.innerHTML = `<div class="wrap bo-dashboard">
+    <header class="page-hero bo-intro"><p class="bo-key">Collections, comparisons and records</p><h1>Box Office</h1>
+      <p>Period totals use recorded day-wise entries; lifetime charts use reported gross.</p></header>
+    <details class="bo-help"><summary>Budget, gross &amp; verdict — what do they mean?</summary><p><b>Budget</b> is reported production spend; <b>gross</b> is revenue, not profit or the studio's share. Verdicts are estimates from reported gross-to-budget: Hit at 2.5× or more, Average from 1× to under 2.5×, Flop below budget. Missing budgets mean no verdict.</p></details>
+    <nav class="bo-scope" aria-label="Box office industry"><a class="chip on" href="/box-office" aria-current="page">All industries</a><a class="chip" href="/box-office?f=bollywood">Bollywood</a></nav>
+    <section class="section" data-sec="box-office"><div class="section-head"><h2>Latest</h2></div>${pick ? latestCardHtml(pick.entry, pick.rows) : `<p style="color:var(--muted)">No published title has day-wise collection data yet.</p>`}</section>
+    <section class="bo-summary" aria-label="Choose a collection period"><h2>Recorded collections by period</h2><p>Only dated entries within the selected window count; missing days are excluded, not zero.</p>
+    <div class="bo-periods" style="margin-top:18px">${PERIODS.map(([k, l]) =>
+      `<a class="chip${k === period ? " on" : ""}"${k === period ? ' aria-current="page"' : ""} href="/box-office?p=${k}${f === "all" ? "" : `&amp;f=${encodeURIComponent(f)}`}" style="text-decoration:none">${l}</a>`).join("")}</div>
+    <div id="periodWrap" aria-live="polite"></div></section>
+    <div id="lifetimeWrap">
+    <section class="bo-summary"><h2>Lifetime gross rankings</h2><p>Reported-gross ranking from an available sample, not a definitive global ranking.</p><div id="chipHost">${UI.chipRow(FILTERS, f)}</div></section>
+    ${chartCard("yearCard", `Top Grossing Movies of ${year}`, yearEntries)}
+    ${chartCard("allCard", "Top Grossing Movies of All Time", allEntries)}
+    </div>
+    <div id="daywiseWrap">${daywiseHtml()}</div>
+    ${UI.rateNote()}
+    <p class="bo-help"><b>Data note:</b> Lifetime figures are reported, not independently reconciled. This is a limited sample; budgets may be unreported, and verdicts are estimates from reported budget and gross.</p>
+  </div>`;
+
+  /* Period view (correction 8): when a period is selected, the period
+     ranking replaces the Lifetime charts. Figures are day-wise sums
+     only — a title without day-wise data cannot appear here. */
+  if (period !== "lifetime") {
+    const lw = document.getElementById("lifetimeWrap");
+    if (lw) lw.style.display = "none";
+    const html = UI.boPeriodHtml(period, periodMap);
+    document.getElementById("periodWrap").innerHTML = html
+      ? `<div class="content-card"><h2>Box Office — ${PERIODS.find(([k]) => k === period)[1]}</h2><p class="bo-help">Ranked by recorded collection within this window. Lifetime gross rankings below use a separate measure.</p>${html}</div>`
+      : `<div class="content-card"><h2>Box Office — ${PERIODS.find(([k]) => k === period)[1]}</h2>
+         <p style="color:var(--muted)">No day-wise tracked titles yet for this period — period rankings appear here as the data engine tracks running films day by day. See the Lifetime charts meanwhile.</p></div>`;
+  } else {
+    document.getElementById("periodWrap").innerHTML = `<p class="bo-help">Select a period above to see its recorded collections.</p>`;
+  }
+
+  applyFilter();
   UI.wireChips(main.querySelector("#chipHost"), (k) => {
-    if (k === "bollywood") { location.assign(location.href); return; }
+    if (k === "bollywood") { location.assign("/box-office?f=bollywood"); return; }
     f = k;
     main.querySelectorAll(".bo-periods a").forEach(link => {
       const url = new URL(link.href);
@@ -160,99 +270,4 @@
     });
     applyFilter();
   });
-
-  try {
-    const periodWrap = document.getElementById("periodWrap");
-    if (periodWrap) periodWrap.innerHTML = `<p class="bo-help" role="status">Loading dated records and title details…</p>`;
-    await fill("yearCard", { primary_release_year: year, sort_by: "revenue.desc", page: 1 });
-    await fill("allCard", { sort_by: "revenue.desc", page: 1 });
-    applyFilter();
-    /* Day-Wise Box Office: renders only for titles the data engine has supplied
-       day-wise rows for (window.FA_DAYWISE); completely absent otherwise.
-       Every title with day-wise data gets its table here (with per-day page
-       links, §6.5) — not only titles that also made the charts above. */
-    const dw = window.FA_DAYWISE || {};
-    const dwIds = Object.keys(dw).filter(k => Array.isArray(dw[k]) && dw[k].length);
-    const dwTitles = (await Promise.all(dwIds.map(id =>
-      TMDB.details("movie", id).catch(() => null)))).filter(Boolean);
-    const dwHtml = dwTitles
-      .map(d => UI.daywiseCard(dw[String(d.id)], `Day-Wise Box Office — ${UI.titleOf(d)}`, { titleId: String(d.id) })).join("");
-    if (dwHtml) document.getElementById("daywiseWrap").innerHTML = dwHtml;
-    /* Period view (correction 8): when a period is selected, the period
-       ranking replaces the Lifetime charts. Figures are day-wise sums
-       only — a title without day-wise data cannot appear here. */
-    if (period !== "lifetime") {
-      const lw = document.getElementById("lifetimeWrap");
-      if (lw) lw.style.display = "none";
-      const map = {};
-      dwTitles.forEach(d => { map[String(d.id)] = d; });
-      const html = UI.boPeriodHtml(period, map);
-      document.getElementById("periodWrap").innerHTML = html
-        ? `<div class="content-card"><h2>Box Office — ${PERIODS.find(([k]) => k === period)[1]}</h2><p class="bo-help">Ranked by recorded collection within this window. Lifetime gross rankings below use a separate measure.</p>${html}</div>`
-        : `<div class="content-card"><h2>Box Office — ${PERIODS.find(([k]) => k === period)[1]}</h2>
-           <p style="color:var(--muted)">No day-wise tracked titles yet for this period — period rankings appear here as the data engine tracks running films day by day. See the Lifetime charts meanwhile.</p></div>`;
-    }
-  } catch (e) {
-    const archive = main.querySelector(".bo-history");
-    if (archive) archive.insertAdjacentHTML("beforeend", UI.stateMsg("Historical charts could not load. The latest releases above remain available."));
-  }
-
-  async function renderBollywoodBoxOffice(ctx) {
-    const today = new Date().toISOString().slice(0, 10);
-    const windowStart = days => { const d = new Date(`${today}T00:00:00Z`); d.setUTCDate(d.getUTCDate() - (days - 1)); return d.toISOString().slice(0, 10); };
-    const cuts = [["alltime", "All-Time"], ["year", "This Year"], ["hit", "Verdict: Hit"], ["average", "Verdict: Average"], ["flop", "Verdict: Flop"], ["club100", "$100M Club"], ["club300", "$300M Club"], ["club500", "$500M Club"], ["club1b", "$1B Club"]];
-    let cut = UI.getParam("cut", "alltime");
-    if (!cuts.some(([k]) => k === cut)) cut = "alltime";
-    const href = (p, c) => `/box-office?f=bollywood&p=${encodeURIComponent(p)}&cut=${encodeURIComponent(c)}`;
-    const dw = window.FA_DAYWISE || {}, ids = Object.keys(dw).filter(id => Array.isArray(dw[id]) && dw[id].length);
-    const details = await Promise.all(ids.map(id => TMDB.details("movie", id).catch(() => null)));
-    const eligible = [];
-    for (let i = 0; i < ids.length; i++) {
-      const d = details[i];
-      if (!d || d.original_language !== "hi" || !(d.production_countries || []).some(c => c.iso_3166_1 === "IN")) continue;
-      const rows = dw[ids[i]].filter(r => {
-        if (!r || typeof r.date !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(r.date) || r.date > today || typeof r.collection !== "number" || !Number.isFinite(r.collection) || r.collection < 0) return false;
-        const parsed = new Date(`${r.date}T00:00:00Z`);
-        return !Number.isNaN(parsed.valueOf()) && parsed.toISOString().slice(0, 10) === r.date;
-      }).map(r => ({ ...r })).sort((a, b) => a.date.localeCompare(b.date));
-      if (!rows.length || (d.release_date && rows[0].date < d.release_date)) continue;
-      eligible.push({ d, rows });
-    }
-    const label = (ctx.periods.find(p => p[0] === ctx.period) || ctx.periods[0])[1];
-    const set = ctx.period === "today" ? [today, today] : ctx.period === "d7" ? [windowStart(7), today] : ctx.period === "d30" ? [windowStart(30), today] : null;
-    const result = eligible.map(({ d, rows }) => {
-      const inPeriod = set ? rows.filter(r => r.date >= set[0] && r.date <= set[1]) : rows;
-      return { d, rows, amount: inPeriod.reduce((sum, r) => sum + r.collection, 0), count: inPeriod.length };
-    }).filter(x => !set || x.count).sort((a, b) => b.amount - a.amount);
-    const controls = ctx.periods.map(([k, name]) => `<a class="chip${k === ctx.period ? " on" : ""}"${k === ctx.period ? ' aria-current="page"' : ""} href="${href(k, cut)}" style="text-decoration:none">${name}</a>`).join("");
-    const rowsHtml = result.map((x, i) => `<tr><td class="rank">${i + 1}</td><td><a href="/movie?id=${x.d.id}"><b>${UI.esc(UI.titleOf(x.d))}</b></a></td><td>${x.rows.filter(r => !set || (r.date >= set[0] && r.date <= set[1])).map(r => { const n = UI.dayNumOf(r, x.rows.indexOf(r)); return `<a href="/box-office-day?title=${encodeURIComponent(x.d.id)}&day=${n}">${UI.fmtDate(r.date)}</a>`; }).join(", ")}</td><td><b>${UI.fmtMoney(x.amount)}</b></td></tr>`).join("");
-    const clubFloor = { club100: 1e8, club300: 3e8, club500: 5e8, club1b: 1e9 };
-    const chart = async (title, yr) => {
-      let candidates = [];
-      for (const page of [1, 2]) {
-        const q = { with_original_language: "hi", with_origin_country: "IN", sort_by: "revenue.desc", page };
-        if (yr) q.primary_release_year = yr;
-        candidates.push(...await TMDB.discoverResults("movie", q).catch(() => []));
-      }
-      const unique = [...new Map(candidates.map(m => [m.id, m])).values()].slice(0, 20);
-      const records = (await Promise.all(unique.map(m => TMDB.details("movie", m.id).catch(() => null))))
-        .filter(d => d && d.original_language === "hi" && (d.production_countries || []).some(c => c.iso_3166_1 === "IN") && Number.isFinite(d.revenue) && d.revenue > 0)
-        .sort((a, b) => b.revenue - a.revenue);
-      const filtered = records.filter(d => {
-        const v = UI.verdict(d.budget, d.revenue);
-        if (cut === "year") return String(d.release_date || "").startsWith(String(new Date().getFullYear()));
-        if (["hit", "average", "flop"].includes(cut)) return !!v && v.label.toLowerCase() === cut;
-        return clubFloor[cut] ? d.revenue >= clubFloor[cut] : true;
-      });
-      return `<div class="content-card"><h2>${title}</h2><p style="color:var(--muted)">Limited available Hindi/India sample; not comprehensive or independently reconciled.</p>${filtered.length ? `<div class="table-scroll"><table class="data"><thead><tr><th>#</th><th>Movie</th><th>Budget</th><th>Gross</th><th>Gross / Budget</th><th>Verdict*</th></tr></thead><tbody>${filtered.map((d, i) => {
-        const v = UI.verdict(d.budget, d.revenue), ratio = d.budget > 0 ? d.revenue / d.budget : null, max = Math.max(d.budget || 0, d.revenue || 0, 1);
-        const bar = (name, value, cls) => `<div class="bo-bar"><span>${name}</span><span class="track"><i class="fill ${cls}" style="width:${Math.max(0, Math.min(100, value / max * 100))}%"></i></span></div>`;
-        return `<tr><td class="rank">${i + 1}</td><td><a href="/movie?id=${d.id}"><b>${UI.esc(UI.titleOf(d))}</b></a><div style="color:var(--muted);font-size:.82rem">${UI.yearOf(d)}</div><div class="bo-bars">${bar("Budget", d.budget || 0, "budget")}${bar("Gross", d.revenue, "gross")}</div></td><td>${d.budget > 0 ? UI.fmtMoney(d.budget) : "Not reported"}</td><td>${UI.fmtMoney(d.revenue)}</td><td>${ratio ? `${ratio.toFixed(1)}×` : "—"}</td><td>${v ? `<span class="verdict ${v.cls}">Estimated ${v.label}</span>` : "—"}</td></tr>`;
-      }).join("")}</tbody></table></div>` : `<p style="color:var(--muted)">No available titles match this view.</p>`}</div>`;
-    };
-    const filters = cuts.map(([k, name]) => `<a class="chip${k === cut ? " on" : ""}" href="${href(ctx.period, k)}" style="text-decoration:none">${name}</a>`).join("");
-    const chartParts = ctx.period === "lifetime" ? await Promise.all([chart("Top Grossing Bollywood Movies — Lifetime", null), chart(`Top Grossing Bollywood Movies — ${new Date().getFullYear()}`, new Date().getFullYear())]) : [];
-    ctx.main.innerHTML = `<div class="wrap bo-dashboard"><header class="page-hero bo-intro"><p class="bo-key">Dated collections and reported grosses</p><h1>Bollywood Box Office — ${label}</h1><p>Hindi-language Indian-film figures in the limited available sample. Period collections sum valid recorded dates; lifetime charts rank reported gross. Neither is a definitive industry ranking, and gross is not profit.</p></header><details class="bo-help"><summary>Budget, gross &amp; verdict — what do they mean?</summary><p>Reported budget and gross are not profit. Estimated verdicts compare gross with budget: Hit at 2.5× or more, Average at 1× to under 2.5×, and Flop below budget. Missing budgets do not receive a verdict.</p></details><nav class="bo-scope" aria-label="Box office industry"><a class="chip" href="/box-office">All industries</a><a class="chip on" href="${href(ctx.period, cut)}" aria-current="page">Bollywood</a></nav><section class="bo-summary"><h2>Recorded collections by period</h2><p>Only valid dated entries in the selected calendar window are summed; absent dates are excluded, not invented.</p><div class="bo-periods" style="margin-top:10px">${controls}</div></section>${ctx.period === "lifetime" ? `<section class="bo-summary"><h2>Lifetime gross sample</h2><p>Available Hindi-language Indian titles only; not comprehensive or independently reconciled.</p><div class="bo-periods" style="margin-top:10px">${filters}</div></section>${chartParts.join("")}` : ""}<div class="content-card"><h2>${label} collections — dated sample</h2>${rowsHtml ? `<div class="table-scroll"><table class="data"><thead><tr><th>#</th><th>Movie</th><th>Recorded dates</th><th>Recorded collection (USD)</th></tr></thead><tbody>${rowsHtml}</tbody></table></div>` : `<p style="color:var(--muted)">No eligible Hindi-film day-wise records are available for ${label.toLowerCase()} in the current sample. No missing dates or figures are estimated.</p>`}<p class="prov-note">Collection records have not been independently reconciled here.</p></div>${UI.rateNote()}<p class="bo-help"><b>Method:</b> Today means the current UTC calendar date; 7 Days and 30 Days are inclusive calendar windows ending today. Lifetime sums valid dated records. Coverage is limited to available records; no dates or figures are invented.</p></div>`;
-    UI.setSEO({ title: "Box Office — Latest Movies, Today, 7 Days & Lifetime | FlickAtlas", desc: "Latest released films with reported daily collections, seven-day sums and lifetime worldwide gross. Missing figures remain clearly marked.", path: "/box-office?f=bollywood" });
-  }
 })();

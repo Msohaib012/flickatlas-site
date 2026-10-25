@@ -38,13 +38,33 @@
   /* --- Published-only data sources (no live TMDB) --- */
   const PUB = Object.values(window.FA_PUBLISHED || {}).filter(x => x && x.id != null && x.title);
   const ARTICLES = Object.values(window.FA_ARTICLES || {}).filter(x => x && x.id != null && x.headline);
-  /* People only from cast data baked into published entries. The
-     published entry shape carries no cast today, so this is normally
-     empty — and the people group is then omitted, never fetched. */
-  const peopleById = new Map();
+  /* People: published entries carry no cast, so the people group used to
+     be empty and the header's promise of people search was never kept.
+     Articles DO carry entities.people (names mentioned in each story), so
+     the people index is built from those — each person links to the
+     newest published story that mentions them (there is no person profile
+     without a TMDB person id, and inventing one would be a live lookup). */
+  const peopleByName = new Map();
+  for (const a of ARTICLES) {
+    const names = (a.entities && Array.isArray(a.entities.people)) ? a.entities.people : [];
+    for (const name of names) {
+      const n = String(name || "").trim();
+      if (!n) continue;
+      if (!peopleByName.has(n)) peopleByName.set(n, { name: n, articles: [] });
+      peopleByName.get(n).articles.push(a);
+    }
+  }
+  for (const p of peopleByName.values()) {
+    p.articles.sort((a, b) => parseDate(b.published).localeCompare(parseDate(a.published)));
+  }
+  const peopleById = new Map([...peopleByName.values()].map(p => [p.name, p]));
+  const knownNames = new Set(peopleById.keys());
   for (const pub of PUB) {
     for (const c of (pub.cast || [])) {
-      if (c && c.id != null && c.name && !peopleById.has(String(c.id))) peopleById.set(String(c.id), c);
+      if (c && c.id != null && c.name && !knownNames.has(c.name) && !peopleById.has(String(c.id))) {
+        peopleById.set(String(c.id), c);
+        knownNames.add(c.name);
+      }
     }
   }
 
@@ -71,15 +91,36 @@
         image = (x.images && x.images[0] && x.images[0].url) || "";
         date = dateValue(x, key);
         info = "News";
+      } else if (key === "person") {
+        /* Entity people (from article entities) have no profile id, so
+           they link to the newest published story that mentions them —
+           never to a /person?id=undefined dead link. Cast people (when
+           baked cast exists) link to their profile as before. */
+        const fromEntity = Array.isArray(x.articles);
+        title = x.name;
+        if (fromEntity) {
+          const newest = x.articles[0];
+          href = newest ? `/news-item?id=${encodeURIComponent(newest.id)}` : "#";
+          image = "";
+          date = newest ? parseDate(newest.published) : "";
+          info = `Mentioned in ${x.articles.length} published stor${x.articles.length === 1 ? "y" : "ies"}`;
+        } else {
+          href = `/person?id=${encodeURIComponent(x.id)}`;
+          image = x.profile_path || "";
+          date = dateValue(x, key);
+          info = ([x.known_for_department, (x.known_for || []).map(c => c.title || c.name).filter(Boolean).slice(0, 3).join(", ")].filter(Boolean).join(" · ") || "FlickAtlas profile");
+        }
       } else {
-        const person = key === "person";
-        title = person ? x.name : UI.titleOf(x);
-        href = `/${person ? "person" : key === "tv" ? "show" : "movie"}?id=${encodeURIComponent(x.id)}`;
-        image = person ? x.profile_path : x.poster_path;
+        title = UI.titleOf(x);
+        href = `/${key === "tv" ? "show" : "movie"}?id=${encodeURIComponent(x.id)}`;
+        image = x.poster_path || "";
         date = dateValue(x, key);
-        info = person ? ([x.known_for_department, (x.known_for || []).map(c => c.title || c.name).filter(Boolean).slice(0, 3).join(", ")].filter(Boolean).join(" · ") || "FlickAtlas profile") : (Number.isFinite(x.vote_average) && x.vote_average > 0 ? `TMDB rating ${x.vote_average.toFixed(1)}/10` : "");
+        info = (Number.isFinite(x.vote_average) && x.vote_average > 0 ? `TMDB rating ${x.vote_average.toFixed(1)}/10` : "");
       }
-      return `<a class="search-result" href="${UI.esc(href)}"><img src="${UI.img(image || "", "w92")}" alt="" loading="lazy" onerror="this.remove()"><span><small>${date ? UI.esc(UI.fmtDate(date)) : "Date unavailable"}</small><b>${UI.esc(title)}</b><small>${UI.esc(info)}</small></span></a>`;
+      /* Audit fix: an <img src=""> was rendered for results without an
+         image (empty src). Render the img only when an image exists. */
+      const imgHtml = image ? `<img src="${UI.img(image, "w92")}" alt="" loading="lazy" onerror="this.remove()">` : "";
+      return `<a class="search-result" href="${UI.esc(href)}">${imgHtml}<span><small>${date ? UI.esc(UI.fmtDate(date)) : "Date unavailable"}</small><b>${UI.esc(title)}</b><small>${UI.esc(info)}</small></span></a>`;
     }).join("");
     const empty = rows.length ? "" : `<p>No ${{ movie: "movie", tv: "TV or series", person: "people", news: "news" }[key] || label.toLowerCase()} matches in the records checked.</p>`;
     return `<section class="search-group" aria-labelledby="search-${key}"><h2 id="search-${key}">${label} <small>(${rows.length} loaded match${rows.length === 1 ? "" : "es"})</small></h2>${rows.length ? `<div class="search-results">${cards}</div>` : empty}</section>`;

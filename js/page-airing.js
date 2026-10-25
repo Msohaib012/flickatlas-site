@@ -64,5 +64,5 @@
     </div>
   </section>
   <p style="margin-top:16px"><a class="btn btn-teal" href="/show?id=${picked.id}">View Show</a> <a class="btn" href="/tv">Browse TV Shows</a></p>
-  <p class="prov-note">One show, airing today — open it for seasons, cast and episode details.</p>`;
+  <p class="prov-note">${isAiringToday ? "One show, airing today — open it for seasons, cast and episode details." : "No show premieres today — showing the latest published show instead. Open it for seasons, cast and episode details."}</p>`;
 })();

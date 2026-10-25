@@ -38,10 +38,12 @@
   const indLabel = (pub) => IND_LABEL[pub.industry] || UI.industryTag(pub) || "";
   const titleDate = (x) => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   /* Similar / You May Also Like — FA_PUBLISHED only, same industry
-     first, then same type, newest first, one item (slice(0,1)). */
+     first, then same type, newest first, one item (slice(0,1)).
+     Same medium only: a movie page never recommends a TV show (it
+     would link to /movie?id=<tv id> and land on "not published"). */
   const similarPublished = (pub) => {
     const cands = Object.values(window.FA_PUBLISHED || {})
-      .filter(x => x && x.id != null && String(x.id) !== String(pub.id));
+      .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type);
     cands.sort((a, b) =>
       ((b.industry === pub.industry) - (a.industry === pub.industry)) ||
       ((b.type === pub.type) - (a.type === pub.type)) ||
@@ -51,8 +53,16 @@
   };
 
   /* --- Published lookup: nothing renders unless this title was chosen
-     and published. No live TMDB fetch fills this page. --- */
+     and published. No live TMDB fetch fills this page. A published TV
+     id lands here by mistake — point at its real page instead of
+     claiming it was never published. --- */
   const pub = (window.FA_PUBLISHED || {})[String(id)] || null;
+  if (pub && pub.type === "tv") {
+    main.innerHTML = `<div class="wrap">${UI.stateMsg("This title is a TV show — it lives on its own show page.", false)}
+      <p style="text-align:center"><a class="btn btn-teal" href="/show?id=${encodeURIComponent(id)}">Open Show Page →</a></p></div>`;
+    UI.setSEO({ title: "This Title Is a TV Show | FlickAtlas", desc: "This title is a TV show. Open its show page on FlickAtlas.", path: "/show", noindex: true });
+    return;
+  }
   if (!pub || pub.type !== "movie") {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This title hasn't been published on FlickAtlas yet.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/movies">Browse Movies</a></p></div>`;
@@ -99,7 +109,7 @@
     const trailerName = pub.trailer && pub.trailer.name ? pub.trailer.name : "";
 
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
-    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, title, { titleId: id }) : "";
+    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office", { titleId: id }) : "";
 
     const similar = similarPublished(pub);
 
@@ -158,7 +168,7 @@
       <dl class="facts-table">${factRows.map(([k, v]) => `<div class="fact-row"><dt>${UI.esc(k)}</dt><dd>${v}</dd></div>`).join("")}</dl></div>` : ""}
 
     ${trailerKey ? `<div class="content-card" id="official-trailer"><h2>Official Trailer</h2>
-      <div class="video-embed"><iframe src="https://www.youtube.com/embed/${trailerKey}" title="Official trailer — ${UI.esc(trailerName || title)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+      <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/${trailerKey}" title="Official trailer — ${UI.esc(trailerName || title)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
       <p class="prov-note">Official trailer via YouTube.</p></div>` : ""}
 
     ${castTop.length ? `<div class="content-card"><h2>Top Cast</h2>

@@ -116,7 +116,10 @@
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Upcoming = entries whose release/air date is in the future.
      `industry` is baked (bollywood | pakistani | world); `trailer` is
-     the baked official trailer object (null when none exists). */
+     the baked official trailer object (null when none exists).
+     Industry tag for cards: "World Cinema" for world-industry titles
+     (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
+  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
   const today = new Date().toISOString().slice(0, 10);
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   const items = Object.values(window.FA_PUBLISHED || {})
@@ -154,13 +157,13 @@
     let html = "";
     for (const [label, group] of groups) {
       html += `<section class="section"><div class="section-head"><h2>${UI.esc(label)}</h2></div>
-        <div class="tl-list">${group.map(x => { const [, mm, dd] = x._date.split("-"); return `
-          <a class="tl-row" href="/${x.type === "tv" ? "show" : "movie"}?id=${x.id}#official-trailer">
+        <div class="tl-list">${group.map(x => { const [, mm, dd] = x._date.split("-"); const detailHref = `/${x.type === "tv" ? "show" : "movie"}?id=${x.id}${x.trailer ? "#official-trailer" : ""}`; return `
+          <a class="tl-row" href="${detailHref}">
             <span class="tl-date"><b>${dd ? parseInt(dd, 10) : "—"}</b><span>${mm ? MONTHS_S[parseInt(mm, 10) - 1] : ""}</span></span>
             <img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()">
             <span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b>
             <span>${x.type === "tv" ? "Premieres " : ""}${UI.fmtDate(x._date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""} · ${x.trailer ? "Official trailer listed" : "No verified official trailer listed"}</span></span>
-            <span class="tag-chip">${UI.esc(UI.industryTag(x))}</span>
+            <span class="tag-chip">${UI.esc(tagFor(x))}</span>
           </a>`; }).join("")}
         </div></section>`;
     }

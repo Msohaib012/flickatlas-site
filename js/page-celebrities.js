@@ -1,17 +1,24 @@
 /* FlickAtlas — Celebrities hub: people browse with §4 filter chips (All ·
-   Bollywood · Hollywood · Pakistani · Korean · Actors · Actresses ·
-   Directors) + a sampled Star Power comparison. */
+   Bollywood · World Cinema · Pakistani · Actors · Actresses ·
+   Directors) + a sampled Star Power comparison. PUBLISHED-ONLY: the people
+   pool comes from published titles only — one credits call per published
+   title (single-title, same as the detail pages) plus the fresh
+   FA_CELEBRITY_TODAY feed. Never a live people catalogue (no popularPeople,
+   no discover, no Korean filter). Star Power compares recorded FlickAtlas
+   collections for published titles only — no live revenue, no unpublished
+   links. Birthdays use single-entity TMDB.person lookups for pool people
+   only (same as the person page). */
 (async function () {
   UI.mountChrome("/celebrities");
   const main = document.getElementById("app");
   UI.setSEO({
     title: "Celebrities — Actor Biographies, Photos & Filmographies | FlickAtlas",
-    desc: "Meet popular movie and TV celebrities on FlickAtlas. Open a profile for biography, photos, known-for titles and the complete filmography.",
+    desc: "Meet the celebrities of FlickAtlas published titles. Open a profile for biography, photos, known-for titles and the complete filmography.",
     path: "/celebrities"
   });
 
-  const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["hollywood", "Hollywood"],
-    ["pakistani", "Pakistani"], ["korean", "Korean"], ["actors", "Actors"],
+  const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["world", "World Cinema"],
+    ["pakistani", "Pakistani"], ["actors", "Actors"],
     ["actresses", "Actresses"], ["directors", "Directors"]];
   let f = UI.getParam("f", "all");
   if (!FILTERS.some(([k]) => k === f)) f = "all";
@@ -31,17 +38,14 @@
   const emptyHost = main.querySelector("#emptyHost");
   const spWrap = main.querySelector("#spWrap");
 
-  const INDUSTRIES = [
-    { key: "bollywood", language: "hi", country: "IN" },
-    { key: "hollywood", language: "en", country: "US" },
-    { key: "pakistani", country: "PK" },
-    { key: "korean", language: "ko", country: "KR" }
-  ];
-  const knownForDate = p => (p.known_for || []).map(c => c.release_date || c.first_air_date || "").filter(Boolean).sort().pop() || "";
+  /* Published entries carry a baked industry: bollywood | pakistani | world. */
+  const indOf = t => (t && t.industry === "bollywood") ? "bollywood"
+    : (t && t.industry === "pakistani") ? "pakistani" : "world";
+
   let pool = [];
   function render() {
     const items = pool.filter(p => {
-      if (["bollywood", "hollywood", "pakistani", "korean"].includes(f)) return (p._inds || []).includes(f);
+      if (["bollywood", "world", "pakistani"].includes(f)) return (p._inds || []).includes(f);
       if (f === "actors") return p.gender === 2 && p.known_for_department === "Acting";
       if (f === "actresses") return p.gender === 1 && p.known_for_department === "Acting";
       if (f === "directors") return p.known_for_department === "Directing";
@@ -49,46 +53,42 @@
     });
     grid.innerHTML = items.map(p => `<div class="fcell" data-fitem>${UI.personCard(p, p.known_for_department || "")}</div>`).join("");
     fcount.textContent = items.length ? `${items.length} celebrit${items.length === 1 ? "y" : "ies"}` : "";
-    emptyHost.innerHTML = items.length ? "" : UI.stateMsg("No celebrities match this filter in the current chart.", false);
+    emptyHost.innerHTML = items.length ? "" : UI.stateMsg("No celebrities match this filter among published titles yet.", false);
   }
   UI.wireChips(main.querySelector("#chipHost"), k => { f = k; render(); });
 
-  /* ---------- Star Power: an explicitly limited, sampled gross comparison ---------- */
-  async function starPower(people) {
-    const cache = new Map();
-    const details = id => {
-      if (!cache.has(id)) cache.set(id, TMDB.details("movie", id).catch(() => null));
-      return cache.get(id);
-    };
+  /* ---------- Star Power: recorded FlickAtlas collections, published titles only ----------
+     A star's total is the sum of the recorded day-wise collections of the
+     published titles they are credited in; the top title is the published
+     title with the highest recorded sum. No live TMDB calls, no unpublished links. */
+  function starPower(people) {
+    const dw = window.FA_DAYWISE || {};
+    const sum = rows => (rows || []).reduce((a, r) => a + (r.collection || 0), 0);
     const rows = [];
     for (const p of people.slice(0, 8)) {
-      try {
-        const cr = await TMDB.personCredits(p.id);
-        const films = (cr.cast || []).filter(c => c.media_type === "movie" && (c.order === undefined || c.order <= 2))
-          .sort((a, b) => (b.popularity || 0) - (a.popularity || 0)).slice(0, 6);
-        const det = (await Promise.all(films.map(x => details(x.id)))).filter(d => d && d.revenue > 0);
-        if (!det.length) continue;
-        det.sort((a, b) => b.revenue - a.revenue);
-        const sample = det.slice(0, 5);
-        rows.push({ p, total: sample.reduce((a, d) => a + d.revenue, 0), biggest: det[0], count: sample.length });
-      } catch (e) {}
+      const films = (p._titles || []).map(t => ({ title: t, total: sum(dw[String(t.id)]) }))
+        .filter(x => x.total > 0);
+      if (!films.length) continue;
+      films.sort((a, b) => b.total - a.total);
+      rows.push({ p, total: films.reduce((a, x) => a + x.total, 0), biggest: films[0], count: films.length });
     }
     rows.sort((a, b) => b.total - a.total);
     if (!rows.length) return;
-    spWrap.innerHTML = `<section class="section"><div class="section-head"><h2>Star Power — Sampled Film Gross</h2></div>
+    spWrap.innerHTML = `<section class="section"><div class="section-head"><h2>Star Power — Recorded Collections</h2></div>
       <div class="content-card" style="margin:0"><div class="table-scroll"><table class="data">
-      <thead><tr><th>#</th><th></th><th>Star</th><th>Combined Gross — Sampled Films</th><th>Highest-Grossing Sampled Film</th></tr></thead>
+      <thead><tr><th>#</th><th></th><th>Star</th><th>Combined Recorded Collections — Published Titles</th><th>Top Published Title</th></tr></thead>
       <tbody>${rows.map((rw, i) => `<tr>
         <td class="rank">${i + 1}</td>
         <td><a href="/person?id=${rw.p.id}"><img class="sp-photo" src="${UI.img(rw.p.profile_path, "w185")}" alt="" loading="lazy" onerror="this.remove()"></a></td>
         <td><a href="/person?id=${rw.p.id}"><b>${UI.esc(rw.p.name)}</b></a></td>
-        <td><b>${UI.fmtMoney(rw.total)}</b> <span class="muted">(${rw.count} available sampled films)</span></td>
-        <td><a href="/movie?id=${rw.biggest.id}">${UI.esc(UI.titleOf(rw.biggest))}</a> (${UI.fmtMoney(rw.biggest.revenue)})</td></tr>`).join("")}
+        <td><b>${UI.fmtMoney(rw.total)}</b> <span class="muted">(${rw.count} published title${rw.count === 1 ? "" : "s"})</span></td>
+        <td><a href="/${rw.biggest.title.type === "tv" ? "show" : "movie"}?id=${rw.biggest.title.id}">${UI.esc(UI.titleOf(rw.biggest.title))}</a> (${UI.fmtMoney(rw.biggest.total)})</td></tr>`).join("")}
       </tbody></table></div>
-      <p class="prov-note">A comparison of available reported grosses among a limited sample of popular people and sampled lead-role films. It is not a global or lifetime ranking; reported figures may be incomplete.</p></div></section>`;
+      <p class="prov-note">Recorded day-wise collections on FlickAtlas among published titles only. It is not a worldwide gross ranking; figures cover only the days recorded here.</p></div></section>`;
   }
 
-  /* Birthdays are drawn only from the current pool, and exclude deceased or future-dated records. */
+  /* Birthdays are drawn only from the current pool, and exclude deceased or future-dated records.
+     Single-entity TMDB.person lookups for pool people only — never a people catalogue. */
   async function birthdaysToday(poolPeople) {
     const host = document.getElementById("bdayHost");
     if (!host) return;
@@ -110,62 +110,48 @@
     </section>`;
   }
 
-  /* Recent, industry-specific discover results provide verified title-credit membership.
-     Discover at most one recent movie and one recent TV title per industry (8 total); details/credits use a small worker pool. */
-  async function recentTitleCandidates() {
-    const today = TMDB.today(), cutoff = UI.freshCutoff();
-    const requests = INDUSTRIES.flatMap(ind => ["movie", "tv"].map(type => {
-      const params = { sort_by: type === "movie" ? "primary_release_date.desc" : "first_air_date.desc",
-        "vote_count.gte": 1, page: 1 };
-      if (ind.language) params.with_original_language = ind.language;
-      if (ind.country) params.with_origin_country = ind.country;
-      params[type === "movie" ? "primary_release_date.gte" : "first_air_date.gte"] = cutoff;
-      params[type === "movie" ? "primary_release_date.lte" : "first_air_date.lte"] = today;
-      return TMDB.discoverResults(type, params).catch(() => []).then(results => ({ ind, type, results }));
-    }));
-    const groups = await Promise.all(requests), titles = [];
-    for (const g of groups) {
-      const candidate = g.results.find(t => {
-        const date = g.type === "movie" ? t.release_date : t.first_air_date;
-        return date && date >= cutoff && date <= today && t.id;
-      });
-      if (candidate) titles.push({ ...candidate, media_type: g.type, _industry: g.ind.key });
-    }
-    return titles.slice(0, 8);
-  }
-  async function mapWorkers(items, limit, fn) {
-    let next = 0;
-    await Promise.all(Array.from({ length: Math.min(limit, items.length) }, async () => {
-      while (next < items.length) { const i = next++; await fn(items[i]); }
-    }));
+  /* People come only from published titles: one credits call per published
+     title (single-title, same as the detail pages), plus fresh feed people
+     from FA_CELEBRITY_TODAY (same <24h freshness rule as UI.celebTodaySection). */
+  async function buildPool() {
+    const pub = window.FA_PUBLISHED || {};
+    const titles = Object.values(pub).filter(t => t && t.id);
+    const byId = new Map();
+    const addPerson = (person, ind, title) => {
+      if (!person || !person.id || !person.name) return;
+      let p = byId.get(person.id);
+      if (!p) {
+        p = { id: person.id, name: person.name, profile_path: person.profile_path || null,
+          gender: person.gender, known_for_department: person.known_for_department || (person.job ? "Directing" : "Acting"),
+          _inds: [], _titles: [] };
+        byId.set(person.id, p);
+      }
+      if (ind && !p._inds.includes(ind)) p._inds.push(ind);
+      if (title && !p._titles.some(t => t.id === title.id)) p._titles.push(title);
+      if (person.job === "Director") p.known_for_department = "Directing";
+    };
+    const jobs = titles.map(async t => {
+      try {
+        const credits = await TMDB.api(`/${t.type === "tv" ? "tv" : "movie"}/${t.id}/credits`);
+        if (!credits) return;
+        const ind = indOf(t);
+        [...(credits.cast || []), ...(credits.crew || [])].forEach(person => addPerson(person, ind, t));
+      } catch (e) { /* one title's credits failing must not break the hub */ }
+    });
+    await Promise.all(jobs);
+    const feed = window.FA_CELEBRITY_TODAY || {};
+    const now = Date.now();
+    (feed.items || []).forEach(it => {
+      if (!it || !it.celebrity || !it.tmdb_person_id || !it.when) return;
+      const when = Date.parse(it.when);
+      if (isNaN(when) || when > now + 3600 * 1000 || (now - when) >= 24 * 3600 * 1000) return;
+      addPerson({ id: it.tmdb_person_id, name: it.celebrity }, null, null);
+    });
+    return [...byId.values()];
   }
 
   try {
-    const pages = await Promise.all([1, 2, 3, 4].map(p => TMDB.popularPeople(p).then(d => d.results || []).catch(() => [])));
-    const cutoff = UI.freshCutoff();
-    const popular = pages.flat().filter((p, i, a) => a.findIndex(x => x.id === p.id) === i)
-      .filter(p => knownForDate(p) >= cutoff).map(p => ({ ...p, _inds: [] }));
-    const byId = new Map(popular.map(p => [p.id, p]));
-    const titles = await recentTitleCandidates();
-    await mapWorkers(titles, 5, async title => {
-      try {
-        const d = await TMDB.details(title.media_type, title.id);
-        const credits = d && d.credits;
-        if (!credits) return;
-        const credited = [...(credits.cast || []), ...(credits.crew || [])];
-        credited.forEach(person => {
-          if (!person.id || !person.name) return;
-          let p = byId.get(person.id);
-          if (!p) {
-            p = { ...person, profile_path: person.profile_path || null, known_for_department: person.known_for_department || (person.job ? "Directing" : "Acting"), _inds: [] };
-            byId.set(p.id, p);
-          }
-          if (!p._inds.includes(title._industry)) p._inds.push(title._industry);
-          if (person.job === "Director") p.known_for_department = "Directing";
-        });
-      } catch (e) {}
-    });
-    pool = [...byId.values()];
+    pool = await buildPool();
     render();
     starPower(pool);
     birthdaysToday(pool.slice(0, 60));

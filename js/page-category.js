@@ -54,6 +54,10 @@
   const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
     || dateOf(b).localeCompare(dateOf(a));
 
+  /* Industry tag for cards: UI.industryTag now returns "World Cinema" for
+     world-industry titles (fixed in ui.js) — the explicit label is kept
+     as a harmless guard. */
+  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
   /* Freshness first (site rule: nothing older than 3 months on listings);
      fall back to the full published category pool so the page is never
      empty while published titles exist for this industry. Released
@@ -74,7 +78,7 @@
     });
     const shown = items.slice(0, 1);
     grid.innerHTML = shown.map(x =>
-      `<div class="fcell" data-fitem>${UI.posterCard(x, x.type, UI.industryTag(x))}</div>`).join("");
+      `<div class="fcell" data-fitem>${UI.posterCard(x, x.type, tagFor(x))}</div>`).join("");
     const label = t === "movie" ? "movie" : t === "tv" ? "show" : "title";
     fcount.textContent = `${shown.length} ${label}${shown.length === 1 ? "" : "s"}`;
     emptyHost.innerHTML = shown.length ? ""
@@ -83,16 +87,48 @@
         : `No ${info.label} titles have been published yet.`, false);
   }
 
-  UI.wireChips(main.querySelector("#chipHost"), (key) => {
-    t = key;
-    UI.setParam("t", t === "all" ? "" : t);
+  /* Audit fix: UI.wireChips is hardcoded to the `f` param, but this page's
+     filter is `t`. Using it wrote BOTH ?f= and ?t= to the URL, made
+     middle-click / new-tab open ?f= (ignored on load, so the filter showed
+     "All"), and pushed a spurious history entry on back-button (wireChips'
+     popstate handler calls setParam, which pushStates). Local wiring keeps
+     everything on `t`, including the chip hrefs. */
+  const chipHost = main.querySelector("#chipHost");
+  const markTypeChips = (key) => {
+    chipHost.querySelectorAll("[data-f]").forEach(x => {
+      const active = x.dataset.f === key;
+      x.classList.toggle("on", active);
+      if (active) x.setAttribute("aria-current", "page"); else x.removeAttribute("aria-current");
+    });
+  };
+  const syncTypeChipHrefs = () => {
+    chipHost.querySelectorAll("[data-f]").forEach(a => {
+      const u = new URL(a.getAttribute("href") || location.href, location.href);
+      const key = a.dataset.f;
+      if (key === "all") u.searchParams.delete("t"); else u.searchParams.set("t", key);
+      u.searchParams.delete("f");
+      a.setAttribute("href", u.pathname + u.search + u.hash);
+    });
+  };
+  chipHost.querySelectorAll("[data-f]").forEach(b => b.addEventListener("click", event => {
+    if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    t = b.dataset.f;
+    const u = new URL(location.href);
+    if (t === "all") u.searchParams.delete("t"); else u.searchParams.set("t", t);
+    u.searchParams.delete("f");
+    history.pushState(null, "", u);
+    syncTypeChipHrefs();
+    markTypeChips(t);
     render();
-  });
+  }));
   window.addEventListener("popstate", () => {
     t = UI.getParam("t", "all");
     if (!TYPE_FILTERS.some(([k]) => k === t)) t = "all";
+    markTypeChips(t);
     render();
   });
+  syncTypeChipHrefs();
 
   render();
 })();

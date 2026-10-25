@@ -41,10 +41,12 @@
   const indLabel = (pub) => IND_LABEL[pub.industry] || UI.industryTag(pub) || "";
   const titleDate = (x) => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   /* Similar / You May Also Like — FA_PUBLISHED only, same industry
-     first, then same type, newest first, one item (slice(0,1)). */
+     first, then same type, newest first, one item (slice(0,1)).
+     Same medium only: a show page never recommends a movie (it would
+     link to /show?id=<movie id> and land on "not published"). */
   const similarPublished = (pub) => {
     const cands = Object.values(window.FA_PUBLISHED || {})
-      .filter(x => x && x.id != null && String(x.id) !== String(pub.id));
+      .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type);
     cands.sort((a, b) =>
       ((b.industry === pub.industry) - (a.industry === pub.industry)) ||
       ((b.type === pub.type) - (a.type === pub.type)) ||
@@ -54,8 +56,16 @@
   };
 
   /* --- Published lookup: nothing renders unless this title was chosen
-     and published. No live TMDB fetch fills this page. --- */
+     and published. No live TMDB fetch fills this page. A published
+     movie id lands here by mistake — point at its real page instead
+     of claiming it was never published. --- */
   const pub = (window.FA_PUBLISHED || {})[String(id)] || null;
+  if (pub && pub.type === "movie") {
+    main.innerHTML = `<div class="wrap">${UI.stateMsg("This title is a movie — it lives on its own movie page.", false)}
+      <p style="text-align:center"><a class="btn btn-teal" href="/movie?id=${encodeURIComponent(id)}">Open Movie Page →</a></p></div>`;
+    UI.setSEO({ title: "This Title Is a Movie | FlickAtlas", desc: "This title is a movie. Open its movie page on FlickAtlas.", path: "/movie", noindex: true });
+    return;
+  }
   if (!pub || pub.type !== "tv") {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This title hasn't been published on FlickAtlas yet.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/tv">Browse TV Shows</a></p></div>`;
@@ -66,12 +76,21 @@
   try {
     const name = UI.titleOf(pub);
     const year = UI.yearOf(pub);
+    /* Deep link from the episode guide (?season=N&ep=M): highlight the
+       matching season row and say which episode was linked, instead of
+       silently ignoring the params. */
+    const seasonParam = UI.getParam("season", "");
+    const epParam = UI.getParam("ep", "");
+    const deepLinkNote = (seasonParam && /^\d+$/.test(seasonParam))
+      ? `<p class="prov-note">Linked episode: Season ${seasonParam}${epParam && /^\d+$/.test(epParam) ? ` · Episode ${epParam}` : ""} — highlighted below.</p>` : "";
     const rating = UI.ratingText(pub);
     const poster = UI.img(pub.poster_path, "w342");
     const backdrop = UI.img(pub.backdrop_path, "w1280");
     const firstAir = pub.first_air_date || "";
     const channel = pub.channel || "";
-    const networks = (pub.networks || []).map(n => String(n)).filter(Boolean);
+    /* Networks may be stored as strings ("HUM TV") or as TMDB objects
+       ({name: "HUM TV"}) — read the name either way, never "[object Object]". */
+    const networks = (pub.networks || []).map(n => String((n && n.name) || n || "")).filter(Boolean);
     const tag = indLabel(pub);
     /* Rich detail fields, baked into the published entry (spec §1a). */
     const genres = (pub.genres || []).filter(Boolean);
@@ -86,7 +105,11 @@
        page renders without cast if it fails. */
     let credits = null;
     try { credits = await TMDB.api(`/tv/${id}/credits`); } catch (_) { credits = null; }
-    const cast = ((credits && credits.cast) || []).filter(c => c && c.name).slice(0, 12);
+    /* Cast: top 12 + the rest behind Show More (same as the movie page).
+       The show page used to cap at 12 with no way to see the rest. */
+    const castAll = ((credits && credits.cast) || []).filter(c => c && c.name);
+    const cast = castAll.slice(0, 12);
+    const castRest = castAll.slice(12, 30);
     const crew = ((credits && credits.crew) || []).filter(c => c && c.name);
 
     /* Official trailer: baked into the published entry (official
@@ -95,7 +118,7 @@
     const trailerName = pub.trailer && pub.trailer.name ? pub.trailer.name : "";
 
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
-    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, name, { titleId: id }) : "";
+    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office", { titleId: id }) : "";
 
     const similar = similarPublished(pub);
 
@@ -142,11 +165,10 @@
     <div class="detail-hero">
       ${backdrop ? `<div class="hero-bg"><img src="${backdrop}" alt="" loading="lazy" onerror="this.remove()"></div><div class="hero-shade"></div>` : ""}
       <div class="detail-in">
-        <div class="detail-poster">${poster ? `<img src="${poster}" alt="${UI.esc(name)} poster" loading="lazy" onerror="this.remove()">` : ""}</div>
+        ${poster ? `<div class="detail-poster"><img src="${poster}" alt="${UI.esc(name)} poster" loading="lazy" onerror="this.remove()"></div>` : ""}
         <div class="detail-main">
           <h1>${UI.esc(name)}${year ? ` (${year})` : ""}</h1>
           ${pub.tagline ? `<p class="detail-sub">${UI.esc(pub.tagline)}</p>` : ""}
-          ${pub.overview ? `<p style="color:#D8EDE8;margin-top:12px;max-width:62ch">${UI.esc(pub.overview)}</p>` : ""}
           ${heroFacts.length ? `<div class="detail-facts">${heroFacts.map(([k, v]) => `<div><span>${UI.esc(k)}</span><b>${UI.esc(v)}</b></div>`).join("")}</div>` : ""}
         </div>
       </div>
@@ -155,9 +177,10 @@
     ${pub.overview ? `<div class="content-card"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
 
     ${seasons.length ? `<div class="content-card"><h2>Seasons</h2>
+      ${deepLinkNote}
       <div class="table-scroll"><table class="data">
         <thead><tr><th>Season</th><th>Name</th><th>Episodes</th><th>First Aired</th></tr></thead>
-        <tbody>${seasons.map(s2 => `<tr>
+        <tbody>${seasons.map(s2 => `<tr${Number(seasonParam) === Number(s2.season_number) ? ' class="dw-hl"' : ""}>
           <td><b>${s2.season_number === 0 ? "Specials" : `Season ${s2.season_number}`}</b></td>
           <td>${UI.esc(s2.name || "—")}</td>
           <td>${s2.episode_count != null ? s2.episode_count : "—"}</td>
@@ -165,7 +188,10 @@
         </tr>`).join("")}</tbody></table></div></div>` : ""}
 
     ${cast.length ? `<div class="content-card"><h2>Top Cast</h2>
-      <div class="cast-grid">${cast.map(c => UI.personCard(c, c.character || "")).join("")}</div></div>` : ""}
+      <div class="cast-grid">${cast.map(c => UI.personCard(c, c.character || "")).join("")}</div>
+      ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => UI.personCard(c, c.character || "")).join("")}</div>
+      <button type="button" class="btn more-btn" data-target="castMore" data-more="Show More Cast" data-less="Show Less" onclick="UI.toggleMore(this)">Show More Cast</button>` : ""}
+      <p class="prov-note">Full credited cast with photos and filmographies on each person's FlickAtlas profile.</p></div>` : ""}
 
     ${(createdBy.length || crewGroups.length) ? `<div class="content-card"><h2>Creators &amp; Crew</h2>
       <div class="crew-groups">${createdBy.length ? `<div class="crew-group"><h4>Created by</h4>

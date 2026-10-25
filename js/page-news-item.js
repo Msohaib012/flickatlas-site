@@ -19,12 +19,19 @@
   }
   main.innerHTML = `<div class="wrap"><div class="sk" style="height:200px;border-radius:14px;margin-top:26px"></div></div>`;
 
-  const CATLABEL = { bollywood: "Bollywood", international: "International", pakistan: "Pakistan", korea: "Korea", celebrity: "Celebrity", viral: "Viral" };
+  const CATLABEL = { bollywood: "Bollywood", international: "International", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral" };
   const newsRow = (it) => `
     <a class="news-item" href="${UI.newsItemPath(it)}">
       <span class="news-txt"><b>${UI.esc(it.title)}</b>
       <span>${it.ts ? UI.relTime(it.ts) : ""}</span></span>
     </a>`;
+
+  /* A published article (FA_ARTICLES) is the first source of truth:
+     it must render even after the story has rolled off the live feed.
+     The feed is only needed for the "More Headlines" rail and for
+     brief-mode items, so a failed feed no longer kills a published
+     article. */
+  const fullArt = (window.FA_ARTICLES || {})[id] || null;
 
   let items = [];
   try {
@@ -36,11 +43,20 @@
     const j = await r.json();
     items = j.items || [];
   } catch (e) {
-    main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the news feed right now. Please try again.")}</div>`;
-    return;
+    if (!fullArt) {
+      main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the news feed right now. Please try again.")}</div>`;
+      return;
+    }
+    items = [];
   }
 
-  const it = items.find(x => UI.newsId(x) === id);
+  let it = items.find(x => UI.newsId(x) === id);
+  if (!it && fullArt) {
+    /* Published article, no longer in the live feed window — render it
+       from the article itself (headline + publish date, no feed
+       categories). The "More Headlines" rail below is empty. */
+    it = { id, title: fullArt.headline, ts: fullArt.published || null, cats: [] };
+  }
   if (!it) {
     /* The story has rolled off the live feed window — still a real page:
        say so plainly and hand over the current headlines. */
@@ -65,12 +81,14 @@
     `<a class="kw-chip" href="/news?f=${encodeURIComponent(c)}">${UI.esc(CATLABEL[c] || c)}</a>`).join("");
 
   /* ---------- Article (contract §6.6): full engine article if one
-     exists for this id, else BRIEF MODE. ORIGINALITY DOCTRINE (correction
-     10): every word on this page is our own writing — brief mode composes
-     its text from FACTS only (the headline's factual core, the story's
-     category and date, and structured facts about the connected titles
-     and people). Feed summary text is data-only and is NEVER rendered. */
-  const fullArt = (window.FA_ARTICLES || {})[id] || null;
+     exists for this id, else BRIEF MODE. (fullArt was resolved at the
+     top, before the feed fetch, so a published article renders even
+     when the story has rolled off the live feed.) ORIGINALITY DOCTRINE
+     (correction 10): every word on this page is our own writing — brief
+     mode composes its text from FACTS only (the headline's factual core,
+     the story's category and date, and structured facts about the
+     connected titles and people). Feed summary text is data-only and is
+     NEVER rendered. */
 
   /* Entity resolution (fix round 2, Bug C): one search on the raw
      headline almost never resolves anything — headlines are sentences.
@@ -130,9 +148,20 @@
     relTitles = relTitles.slice(0, 4);
     relPeople.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
     relPeople = relPeople.slice(0, 4);
+    /* Published-only related titles: a related card must open a real
+       published post. A live TMDB hit that was never published would
+       link to a "hasn't been published yet" page — drop it, and render
+       the survivors from the published entry itself (correct type,
+       title and poster). People are fine as-is: a person page is a
+       single-record profile, not a catalogue listing. */
+    const PUB = window.FA_PUBLISHED || {};
+    relTitles = relTitles
+      .map(x => PUB[String(x.id)])
+      .filter(x => x && (x.type === "movie" || x.type === "tv"))
+      .slice(0, 4);
     if (relTitles.length || relPeople.length) {
       relatedHtml = `<section class="section"><div class="section-head"><h2>Related on FlickAtlas</h2></div>
-        ${relTitles.length ? `<div class="scroller">${relTitles.map(x => UI.posterCard(x, x.media_type === "tv" ? "tv" : "movie", UI.industryTag(x))).join("")}</div>` : ""}
+        ${relTitles.length ? `<div class="scroller">${relTitles.map(x => UI.posterCard(x, x.type === "tv" ? "tv" : "movie", UI.industryTag(x))).join("")}</div>` : ""}
         ${relPeople.length ? `<div class="people-row" style="margin-top:10px">${relPeople.map(p => UI.personCard(p, p.known_for_department || "")).join("")}</div>` : ""}
         <p class="img-credit">Images: TMDB</p>
       </section>`;
@@ -149,10 +178,16 @@
      feed summary text is NEVER rendered, and no source is named. ----- */
   const enrich = { td: null, pd: null, latest: null, next: null, knownFor: [], daywise: null };
   try {
+    /* The connected title is a PUBLISHED entry (see the filter above):
+       its story, genres, budget/gross, status and dates are baked in,
+       so no TMDB.details call is needed. Cast/director still come from
+       one single-title credits call for that published title. */
     const t0 = relTitles[0];
     if (t0) {
-      enrich.td = await TMDB.details(t0.media_type, t0.id).catch(() => null);
-      if (t0.media_type === "movie" && window.FA_DAYWISE && window.FA_DAYWISE[t0.id]) {
+      const tType = t0.type === "tv" ? "tv" : "movie";
+      const credits = await TMDB.api(`/${tType}/${t0.id}/credits`).catch(() => null);
+      enrich.td = { ...t0, credits: credits || null, media_type: tType };
+      if (tType === "movie" && window.FA_DAYWISE && window.FA_DAYWISE[t0.id]) {
         enrich.daywise = window.FA_DAYWISE[t0.id];
       }
     }
@@ -160,7 +195,16 @@
     if (p0) {
       enrich.pd = await TMDB.person(p0.id).catch(() => null);
       const credits = await TMDB.personCredits(p0.id).catch(() => null);
-      const cast = ((credits && credits.cast) || []).filter(c => (c.release_date || c.first_air_date));
+      /* Published-only work: a person's latest/next/known-for titles
+         are named only when they are published — otherwise the page
+         would claim "its own full post on FlickAtlas" for titles that
+         have no post. */
+      const PUB2 = window.FA_PUBLISHED || {};
+      const isPublishedCredit = (c) => {
+        const pub = PUB2[String(c.id)];
+        return !!pub && pub.type === c.media_type;
+      };
+      const cast = ((credits && credits.cast) || []).filter(c => (c.release_date || c.first_air_date) && isPublishedCredit(c));
       const todayS = TMDB.today();
       const dated = cast.map(c => ({ c, dt: c.release_date || c.first_air_date }));
       enrich.latest = dated.filter(x => x.dt <= todayS).sort((a, b) => b.dt.localeCompare(a.dt))[0] || null;
@@ -177,7 +221,6 @@
     bollywood: "Bollywood leads FlickAtlas coverage, and this story is part of today's Indian cinema developments.",
     international: "This story is part of today's international entertainment developments.",
     pakistan: "This story is part of today's Pakistani entertainment coverage — cinema, television and drama.",
-    korea: "This story is part of today's Korean entertainment coverage.",
     celebrity: "Celebrity coverage tracks what the stars are doing today — appearances, announcements and milestones.",
     viral: "This is a viral-stream story: the inventions, records and moments people are sharing most right now.",
   };
@@ -223,14 +266,17 @@
       const yr = UI.yearOf(td);
       const rt = UI.rating(td);
       const dt = td.release_date || td.first_air_date;
-      const isTv = t0.media_type === "tv";
+      const isTv = (t0.type || td.media_type) === "tv";
       const paras = [];
       if (td.overview) paras.push(td.overview);
       const bits = [];
       bits.push(`${name}${yr ? ` (${yr})` : ""} is the ${isTv ? "series" : "film"} at the centre of this story`);
       if (dt) bits.push(`${dt > TMDB.today() ? "it is set to release" : `it ${isTv ? "premiered" : "released"}`} on ${UI.fmtDate(dt)}`);
       if (rt) bits.push(`audiences rate it ${rt}/10${td.vote_count ? ` from ${td.vote_count.toLocaleString("en-US")} votes` : ""}`);
-      if (td.genres && td.genres.length) bits.push(`it belongs to the ${td.genres.map(g => g.name).join(", ")} ${isTv ? "genre" : "genres"}`);
+      /* Genres are baked-in strings on a published entry (TMDB details
+         carry objects) — read the name either way. */
+      const genreNames = (td.genres || []).map(g => typeof g === "string" ? g : g.name).filter(Boolean);
+      if (genreNames.length) bits.push(`it belongs to the ${genreNames.join(", ")} ${isTv ? "genre" : "genres"}`);
       if (td.status) bits.push(`its current status is listed as ${td.status}`);
       paras.push(bits.join("; ") + ".");
       if (!isTv && (td.budget || td.revenue)) {
@@ -258,7 +304,9 @@
       const cast = ((td.credits && td.credits.cast) || []).slice(0, 5);
       const crew = (td.credits && td.credits.crew) || [];
       const dirs = crew.filter(c => c.job === "Director").map(c => c.name);
-      const creators = (td.created_by || []).map(c => c.name);
+      /* Creators are baked-in names on a published entry (TMDB details
+         carry objects) — read the name either way. */
+      const creators = (td.created_by || []).map(c => typeof c === "string" ? c : c.name).filter(Boolean);
       const leadNames = isTv ? creators : dirs;
       if (cast.length || leadNames.length) {
         const cp = [];
@@ -437,6 +485,14 @@
       const seq = [...headline.matchAll(/\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b/g)].map(m => m[1])[0];
       if (seq) { tsEntities.push(seq); tsTemplates.push(`${seq} latest news`, `${seq} news`, `${seq} biography`, `${seq} latest`); }
     }
-    if (tsTemplates.length) UI.mountTopSearches(main, tsEntities, tsTemplates);
+    if (tsTemplates.length) {
+      /* mountTopSearches only takes (main, entities) — a third templates
+         argument is silently dropped, so the phrase links are rendered
+         here as their own section instead of being passed to it. */
+      const topHtml = `<section class="section"><div class="section-head"><h2>Top Searches</h2></div>
+        <p>${tsTemplates.map(t => `<a class="kw-chip" href="/search?q=${encodeURIComponent(t)}">${UI.esc(t)}</a>`).join(" ")}</p></section>`;
+      main.querySelector(".wrap").insertAdjacentHTML("beforeend", topHtml);
+      UI.mountTopSearches(main, tsEntities);
+    }
   }
 })();

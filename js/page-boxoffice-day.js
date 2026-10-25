@@ -4,7 +4,13 @@
    script but the file was never committed, so every per-day page stayed
    on "Loading FlickAtlas…". Money always goes through UI.fmtMoney*
    (USD data, auto-converts on currency change); no watch/download
-   buttons, no external links except back to the movie / box office hub. */
+   buttons, no external links except back to the movie / box office hub.
+   PUBLISHED-ONLY (audit fix, 2026-10-25): the title used to come from
+   LIVE TMDB (TMDB.details) — the live catalogue. It now comes from
+   window.FA_PUBLISHED only; an unpublished title shows an honest
+   "hasn't been published yet" state instead of a dead page. Industry
+   context comes from the published entry (the old code set it only when
+   the URL said so, and "international" otherwise). */
 (async function () {
   UI.mountChrome("/box-office-day");
   const main = document.getElementById("app");
@@ -24,35 +30,41 @@
   });
   main.innerHTML = `<div class="wrap"><div class="sk" style="height:280px;border-radius:22px;margin-top:22px"></div><div class="sk" style="height:180px;border-radius:14px;margin-top:18px"></div></div>`;
 
-  try {
-    const d = await TMDB.details("movie", titleId);
-    if (!d || !d.title) throw new Error("TMDB_HTTP_404");
-    const title = UI.titleOf(d);
+  /* Published-only lookup — no live TMDB. */
+  const d = (window.FA_PUBLISHED || {})[String(titleId)] || null;
+  if (!d || !d.title) {
+    main.innerHTML = `<div class="wrap">${UI.stateMsg("This film hasn't been published on FlickAtlas yet, so no day-wise collection record is available for it. Only published titles have day-wise pages.", false)}
+      <p style="text-align:center"><a class="btn btn-teal" href="/box-office">Box Office</a> <a class="btn" href="/search">Search published titles</a></p></div>`;
+    UI.setSEO({ title: "Day-Wise Box Office Collection | FlickAtlas", desc: "Day-wise reported box office collections on FlickAtlas.", path: "/box-office-day", noindex: true });
+    return;
+  }
+  const title = UI.titleOf(d);
 
-    /* Bollywood context (day-wise tables validate rows the Bollywood way). */
-    const countries = d.origin_country || (d.production_countries || []).map(c => c.iso_3166_1);
-    if (d.original_language === "hi" && countries.includes("IN")) UI.setIndustryContext("bollywood");
+  /* Industry context from the published entry, so the day-wise table and
+     currency behave the same as on the movie page. */
+  if (d.industry === "bollywood") UI.setIndustryContext("bollywood");
+  else UI.setIndustryContext("international");
 
-    const rows = (window.FA_DAYWISE || {})[String(titleId)] || [];
-    const valid = rows.filter(r => r && /^\d{4}-\d{2}-\d{2}$/.test(r.date || "") && typeof r.collection === "number" && Number.isFinite(r.collection) && r.collection >= 0);
-    const seen = new Set();
-    const clean = valid
-      .map((r, i) => ({ ...r, _n: UI.dayNumOf(r, i) }))
-      .filter(r => { if (seen.has(r._n)) return false; seen.add(r._n); return true; })
-      .sort((a, b) => a._n - b._n);
-    const row = clean.find(r => r._n === day);
+  const rows = (window.FA_DAYWISE || {})[String(titleId)] || [];
+  const valid = rows.filter(r => r && /^\d{4}-\d{2}-\d{2}$/.test(r.date || "") && typeof r.collection === "number" && Number.isFinite(r.collection) && r.collection >= 0);
+  const seen = new Set();
+  const clean = valid
+    .map((r, i) => ({ ...r, _n: UI.dayNumOf(r, i) }))
+    .filter(r => { if (seen.has(r._n)) return false; seen.add(r._n); return true; })
+    .sort((a, b) => a._n - b._n);
+  const row = clean.find(r => r._n === day);
 
-    if (!row) {
-      main.innerHTML = `<div class="wrap">${UI.stateMsg("No collection record for this day.", false)}
-        <p style="text-align:center"><a class="btn btn-teal" href="/movie?id=${encodeURIComponent(titleId)}">${UI.esc(title)}</a> <a class="btn" href="/box-office">Box Office</a></p></div>`;
-      UI.setSEO({ title: `${title} — Day ${day} Box Office | FlickAtlas`, desc: `Day ${day} box office collection for ${title} on FlickAtlas.`, path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}` });
-      return;
-    }
+  if (!row) {
+    main.innerHTML = `<div class="wrap">${UI.stateMsg("No collection record for this day.", false)}
+      <p style="text-align:center"><a class="btn btn-teal" href="/movie?id=${encodeURIComponent(titleId)}">${UI.esc(title)}</a> <a class="btn" href="/box-office">Box Office</a></p></div>`;
+    UI.setSEO({ title: `${title} — Day ${day} Box Office | FlickAtlas`, desc: `Day ${day} box office collection for ${title} on FlickAtlas.`, path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}` });
+    return;
+  }
 
-    const running = clean.filter(r => r._n <= day).reduce((s, r) => s + r.collection, 0);
-    const poster = UI.img(d.poster_path, "w342");
+  const running = clean.filter(r => r._n <= day).reduce((s, r) => s + r.collection, 0);
+  const poster = UI.img(d.poster_path, "w342");
 
-    main.innerHTML = `<div class="wrap">
+  main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/movie?id=${encodeURIComponent(titleId)}">← ${UI.esc(title)}</a> · <a href="/box-office">Box Office</a></p>
     <section class="detail-hero">
       <div class="detail-in">
@@ -72,14 +84,10 @@
     ${UI.dailyCollectionCard(clean, String(titleId))}
   </div>`;
 
-    UI.setSEO({
-      title: `${title} — Day ${day} Box Office (${UI.fmtDate(row.date)}) | FlickAtlas`,
-      desc: `Day ${day} box office collection for ${title} on ${UI.fmtDate(row.date)}, with the running total and the full day-wise table on FlickAtlas.`,
-      path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}`,
-      image: poster || ""
-    });
-  } catch (e) {
-    const is404 = /404/.test(String((e && e.message) || e || ""));
-    main.innerHTML = `<div class="wrap">${UI.stateMsg(is404 ? "Movie not found." : "Could not load this day's collection. Please try again.", !is404)}</div>`;
-  }
+  UI.setSEO({
+    title: `${title} — Day ${day} Box Office (${UI.fmtDate(row.date)}) | FlickAtlas`,
+    desc: `Day ${day} box office collection for ${title} on ${UI.fmtDate(row.date)}, with the running total and the full day-wise table on FlickAtlas.`,
+    path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}`,
+    image: poster || ""
+  });
 })();

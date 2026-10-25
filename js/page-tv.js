@@ -1,13 +1,13 @@
 /* FlickAtlas — TV & Web Series hub with §4 filter chips: All (mixed) ·
-   Bollywood · Hollywood · Lollywood · This Year · Top Rated +
+   Bollywood · US Films · Lollywood · This Year · Top Rated +
    a Genre select. Chips are ?f= URL-param filters over the loaded pool.
    PUBLISHED-ONLY (2026-10-25 rebuild): every show comes from
    window.FA_PUBLISHED — TMDB is a data source, not a catalogue, so
    nothing is fetched live. K-Drama filter REMOVED (spec §6). Published
    entries carry a baked `industry` (bollywood | pakistani | world);
-   "Hollywood" is the US-English slice of world, "Lollywood" is the
-   Pakistani industry. No genre data exists in published entries, so the
-   genre select stays at "All Genres". */
+   "US Films" is the US-English slice of world, "Lollywood" is the
+   Pakistani industry. Genres ARE baked into published entries (rich
+   fields), so the genre select is populated from the pool. */
 (async function () {
   UI.mountChrome("/tv");
   const main = document.getElementById("app");
@@ -17,7 +17,7 @@
     path: "/tv"
   });
 
-  const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["hollywood", "Hollywood"],
+  const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["hollywood", "US Films"],
     ["lollywood", "Lollywood"], ["year", "This Year"], ["top", "Top Rated"]];
   let f = UI.getParam("f", "all");
   if (!FILTERS.some(([k]) => k === f)) f = "all";
@@ -40,7 +40,10 @@
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Entries carry a baked `industry` (bollywood | pakistani | world)
-     and `type` ("movie" | "tv"). No live TMDB calls anywhere. */
+     and `type` ("movie" | "tv"). No live TMDB calls anywhere.
+     Industry tag for cards: "World Cinema" for world-industry titles
+     (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
+  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
   const dateOf = x => x.first_air_date || "";
   /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
      published_at desc, then first-air date desc. */
@@ -61,6 +64,18 @@
     return fresh.length ? fresh : shows;
   })();
 
+  /* Genres ARE baked into published entries (rich fields) — populate the
+     genre select from the pool so the filter works (audit fix: the select
+     used to stay at "All Genres" and any ?g= was cleared as stale). */
+  const genreList = [...new Set(pool.flatMap(x => Array.isArray(x.genres) ? x.genres : []))].sort((a, b) => a.localeCompare(b));
+  genreList.forEach(gName => {
+    const opt = document.createElement("option");
+    opt.value = gName; opt.textContent = gName;
+    genreSel.appendChild(opt);
+  });
+  if (g && !genreList.includes(g)) g = ""; /* unknown genre param -> All */
+  genreSel.value = g;
+
   function render() {
     const year = String(new Date().getFullYear());
     const items = pool.filter(x => {
@@ -68,15 +83,16 @@
       if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
       if (f === "lollywood" && x.industry !== "pakistani") return false;
       if (f === "year" && (x.first_air_date || "").slice(0, 4) !== year) return false;
-      if (f === "top" && !((x.vote_average || 0) >= 7.5 && (x.vote_count || 0) >= 200)) return false;
-      /* No genre data in published entries — a ?g= param matches nothing. */
-      if (g) return false;
+      /* "Top Rated" is a sort-by-rating view, not a gate: the old gate
+         (rating >= 7.5 AND vote_count >= 200) could never match published
+         titles (vote_count 2-3), so the filter always showed empty. */
+      if (g && !(Array.isArray(x.genres) && x.genres.includes(g))) return false;
       return true;
     });
     items.sort((a, b) => f === "top" ? byPopular(a, b) : byNewest(a, b));
     const shown = items.slice(0, 1);
     grid.innerHTML = shown.map(x =>
-      `<div class="fcell" data-fitem>${UI.posterCard(x, "tv", UI.industryTag(x))}</div>`).join("");
+      `<div class="fcell" data-fitem>${UI.posterCard(x, "tv", tagFor(x))}</div>`).join("");
     fcount.textContent = `${shown.length} show${shown.length === 1 ? "" : "s"}`;
     emptyHost.innerHTML = shown.length ? ""
       : UI.stateMsg(pool.length
@@ -93,14 +109,10 @@
   /* Genre is independent of the category chips; browser history restores both. */
   window.addEventListener("popstate", () => {
     g = UI.getParam("g", "");
+    if (g && !genreList.includes(g)) g = ""; /* unknown genre -> All */
     genreSel.value = g;
-    /* Stale ?g= param: published entries carry no genres, so clear it. */
-    if (g) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
     render();
   });
 
-  /* Genre select stays at "All Genres": published entries carry no genres.
-     A stale ?g= param matches nothing, so clear it. */
-  if (g) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
   render();
 })();

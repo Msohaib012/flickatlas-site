@@ -3,10 +3,11 @@
    /celebrity-today page shipped referencing this script but the file was
    never committed, so the page stayed on "Loading FlickAtlas…".
    Featured pick, in order: (1) the event linked from the homepage
-   (?item= matches a FA_CELEBRITY_TODAY item); (2) today's trending
-   person on TMDB (first with a profile photo); (3) the newest item in
-   the site's celebrity-data feed. Full profile lives on the person's
-   own /person page. No watch/download buttons, no external links. */
+   (?item= matches a FA_CELEBRITY_TODAY item); (2) the newest fresh item
+   in the site's celebrity-data feed. No live TMDB trending fallback —
+   the feed is the published source for this page. Full profile lives
+   on the person's own /person page. No watch/download buttons, no
+   external links. */
 (async function () {
   UI.mountChrome("/celebrity-today");
   const main = document.getElementById("app");
@@ -42,20 +43,10 @@
       }
     }
 
-    /* (2) Today's trending person (first with a profile photo). */
-    if (!personId) {
-      try {
-        const trending = await TMDB.api("/trending/person/day")
-          .then(d => d.results || []).catch(() => []);
-        const pick = (trending || []).find(p => p && p.id && p.profile_path);
-        if (pick) {
-          personId = pick.id;
-          person = pick;
-        }
-      } catch (_) {}
-    }
-
-    /* (3) Fallback: newest fresh item in the site's celebrity feed. */
+    /* (2) Newest fresh item in the site's celebrity feed. No live
+       TMDB trending fallback: the feed is the published source for
+       this page, and an arbitrary trending person is not a feature.
+       When the feed is empty or stale the page says so plainly. */
     if (!personId) {
       const fresh = feedItems();
       if (fresh.length) {
@@ -66,8 +57,8 @@
 
     if (!personId) throw new Error("no featured celebrity");
 
-    /* Full details for the bio (best effort — the trending/feed record
-       alone is enough to render the feature). */
+    /* Full details for the bio (best effort — the feed record alone is
+       enough to render the feature). */
     let full = null;
     try { full = await TMDB.person(personId); } catch (_) {}
     const p = full && full.name ? full : person;
@@ -78,8 +69,6 @@
     const bio = String((full && full.biography) || "").trim();
     const bioFirst = bio ? bio.split(/\n+/).map(s => s.trim()).filter(Boolean)[0] || "" : "";
     const bioShort = bioFirst.length > 320 ? bioFirst.slice(0, 320).replace(/\s+\S*$/, "") + "…" : bioFirst;
-    const knownFor = ((person && person.known_for) || [])
-      .map(x => UI.titleOf(x)).filter(Boolean).slice(0, 3);
     const born = full && full.birthday ? UI.fmtDate(full.birthday) : "";
     const birthplace = full && full.place_of_birth ? full.place_of_birth : "";
 
@@ -91,7 +80,7 @@
         <div class="detail-in">
           ${photo ? `<div class="detail-poster"><img src="${photo}" alt="${UI.esc(name)} photo" loading="lazy" decoding="async" onerror="this.remove()"></div>` : ""}
           <div class="detail-main">
-            <h1>${UI.esc(name)}</h1>
+            <h2>${UI.esc(name)}</h2>
             ${dept ? `<p class="detail-sub">${UI.esc(dept)}</p>` : ""}
             ${eventLine ? `<p style="color:var(--muted);margin-top:10px">${UI.esc(eventLine)}</p>` : ""}
             <p style="margin-top:16px"><a class="btn btn-teal" href="/person?id=${encodeURIComponent(personId)}">View Full Profile →</a></p>
@@ -99,7 +88,6 @@
         </div>
       </section>
       ${bioShort ? `<p class="article-summary" style="margin-top:16px">${UI.esc(bioShort)}</p>` : ""}
-      ${knownFor.length ? `<p style="color:var(--muted);margin-top:10px">Known for: ${UI.esc(knownFor.join(", "))}</p>` : ""}
       ${(born || birthplace) ? `<p style="color:var(--muted);margin-top:6px">${UI.esc([born, birthplace].filter(Boolean).join(" · "))}</p>` : ""}
     </div>
   </div>`;

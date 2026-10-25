@@ -22,7 +22,7 @@ const UI = (() => {
   const pageQuery = () => new URLSearchParams(location.search);
   /* Source-aware navigation: bounded URLs, same-origin returns, natural history. */
   const detailPaths = new Set(['/movie','/show','/person','/news-item','/box-office-day']);
-  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms']);
+  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms','/stats']);
   const routePath = path => path === '/index.html' ? '/' : path.replace(/\.html$/, '');
   const navigationFallback = () => ({'/movie':'/movies?f=bollywood','/show':'/tv','/person':'/celebrities','/news-item':'/news','/box-office-day':'/box-office'}[routePath(location.pathname)] || '/');
   function safeMovieSource(value) {
@@ -57,7 +57,7 @@ const UI = (() => {
   function movieReturnUrl() { return returnContext().url; }
   function returnLabel(url) {
     const path = routePath(new URL(url, location.origin).pathname);
-    const names = {'/':'Home','/movies':'Movies','/tv':'TV & Web Series','/search':'Search results','/category':'Category','/box-office':'Box Office','/upcoming':'Upcoming releases','/most-awaited':'Most Awaited','/trailers':'Trailers','/celebrities':'Celebrities','/celebrity-today':'Celebrity Today','/news':'News','/ott':'OTT releases','/episode-guides':'Episode guides','/awards':'Awards','/movie':'Movie details','/show':'Show details','/person':'Profile','/box-office-day':'Box Office details'};
+    const names = {'/':'Home','/movies':'Movies','/tv':'TV & Web Series','/search':'Search results','/category':'Category','/box-office':'Box Office','/upcoming':'Upcoming releases','/most-awaited':'Most Awaited','/trailers':'Trailers','/celebrities':'Celebrities','/celebrity-today':'Celebrity Today','/news':'News','/ott':'OTT releases','/episode-guides':'Episode guides','/awards':'Awards','/movie':'Movie details','/show':'Show details','/person':'Profile','/box-office-day':'Box Office details','/stats':'Stats'};
     return '← ' + (names[path] || 'Back');
   }
   function movieReturnLabel() { return returnLabel(movieReturnUrl()); }
@@ -145,9 +145,14 @@ const UI = (() => {
   const MONTHS_L = ["January","February","March","April","May","June","July","August","September","October","November","December"];
   function fmtDate(s) {
     if (!s) return "";
-    const [y, m, d] = String(s).split("-");
-    if (!y || !m) return s;
-    return `${parseInt(d, 10)} ${MONTHS_L[parseInt(m, 10) - 1] || ""} ${y}`;
+    const str = String(s).slice(0, 10);
+    const m = str.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (!m) return "";
+    const y = +m[1], mo = +m[2], d = +m[3];
+    if (mo < 1 || mo > 12 || d < 1 || d > 31) return "";
+    const dt = new Date(Date.UTC(y, mo - 1, d));
+    if (dt.getUTCFullYear() !== y || dt.getUTCMonth() !== mo - 1 || dt.getUTCDate() !== d) return "";
+    return `${d} ${MONTHS_L[mo - 1]} ${y}`;
   }
   const ratingText = (d) => { const r = rating(d); return r ? `${r}/10` : ""; };
   /* Industry label from a title's original language — used in mixed feeds */
@@ -157,8 +162,7 @@ const UI = (() => {
     if (item?._ind === "lollywood" || item?._ind === "pakistani" || item?._countryQuery === "PK" || countries.includes("PK")) return "Pakistani";
     if (l === "hi") return "Bollywood";
     if (l === "ur") return "Pakistani";
-    if (l === "ko") return "Korean";
-    return "International";
+    return "World Cinema";
   }
   function monthLabel(s) {
     const [y, m] = String(s || "").split("-");
@@ -324,7 +328,7 @@ const UI = (() => {
   function daywiseCard(rows, heading, opts) {
     if (!Array.isArray(rows) || !rows.length) return "";
     const o = opts || {};
-    const clean = industryContext === "bollywood" ? bollywoodRows(rows) : rows.filter(rw => rw && rw.date && rw.collection != null);
+    const clean = bollywoodRows(rows);
     const body = clean.map((rw, idx) => {
       const n = dayNumOf(rw, idx);
       const dayCell = o.titleId
@@ -449,9 +453,9 @@ const UI = (() => {
           <a href="/awards">Awards</a>
           <a href="/news">Industry News</a><a href="/search">Search</a></div></details>
         <details class="foot-col" open><summary>Industries</summary><div class="foot-links">
-          <a href="/category?cat=bollywood">Bollywood</a><a href="/category?cat=hollywood">Hollywood</a>
+          <a href="/category?cat=bollywood">Bollywood</a><a href="/category?cat=world">World Cinema</a>
           <a href="/category?cat=lollywood">Lollywood</a>
-          <a href="/category?cat=lollywood">Pakistani YouTube Dramas</a></div></details>
+          <a href="/episode-guides">Pakistani YouTube Dramas</a></div></details>
         <details class="foot-col" open><summary>Company &amp; Legal</summary><div class="foot-links">
           <a href="/about">About Us</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms &amp; Conditions</a><a href="/dmca">DMCA &amp; Copyright</a><a href="/contact">Contact</a></div></details>
       </div>
@@ -532,7 +536,7 @@ const UI = (() => {
      day cells linking to the per-day pages exactly as on the hub. */
   function dailyCollectionCard(rows, titleId) {
     if (!Array.isArray(rows) || !rows.length) return "";
-    const clean = industryContext === "bollywood" ? bollywoodRows(rows) : rows.filter(rw => rw && rw.date && rw.collection != null);
+    const clean = bollywoodRows(rows);
     if (!clean.length) return "";
     let run = 0;
     const body = clean.map((rw, idx) => {
@@ -555,7 +559,10 @@ const UI = (() => {
   async function topSearchesHtml(entities) {
     return exploreLinksHtml([...new Set((entities || []).map(x => String(x || "").trim()).filter(Boolean))].slice(0, 5).map(title => ({label:`Search “${title}”`,href:`/search?q=${encodeURIComponent(title)}`})));
   }
-  function mountTopSearches(main, entities) {
+  /* templates (3rd arg): "Top Searches" phrases, e.g. "Jailer 2 box office
+     collection" — built by the caller from entities the page actually
+     resolved to. Rendered as search links after the section links. */
+  function mountTopSearches(main, entities, templates) {
     if (!main) return;
     const wrap = main.querySelector(".wrap") || main;
     if (wrap.querySelector(".ts-block")) return;
@@ -571,9 +578,21 @@ const UI = (() => {
     }
     const title = (entities || []).map(x => String(x || "").trim()).find(Boolean);
     if (title) links.push({label:`Search “${title}”`,href:`/search?q=${encodeURIComponent(title)}`});
+    for (const t of (templates || [])) {
+      const phrase = String(t || "").trim();
+      if (!phrase || labels.has(phrase.toLowerCase())) continue;
+      links.push({label: phrase, href: `/search?q=${encodeURIComponent(phrase)}`});
+      labels.add(phrase.toLowerCase());
+      if (links.length >= 12) break;
+    }
     if (!links.length) return;
-    wrap.insertAdjacentHTML("beforeend", exploreLinksHtml(links));
-    const trailer = wrap.querySelector("#official-trailer"); if (trailer) wrap.appendChild(trailer);
+    /* Keep the trailer last WITHOUT moving it: insert the explore block
+       just before it when it is a direct child of the wrap; otherwise
+       append at the end. (Never appendChild() the trailer — that would
+       rip it out of its own container and break the page layout.) */
+    const trailer = wrap.querySelector("#official-trailer");
+    if (trailer && trailer.parentNode === wrap) trailer.insertAdjacentHTML("beforebegin", exploreLinksHtml(links));
+    else wrap.insertAdjacentHTML("beforeend", exploreLinksHtml(links));
   }
 
   function celebItemId(it) {
@@ -722,7 +741,7 @@ const UI = (() => {
     syncChipLinks();
   }
   /* Wire a chip row: on click, mark active, persist ?f=, run apply(). */
-  function wireChips(container, onChange, defaultKey = "all") {
+  function wireChips(container, onChange, defaultKey = "all", param = "f") {
     const mark = key => container.querySelectorAll("[data-f]").forEach(x => {
       const active = x.dataset.f === key;
       x.classList.toggle("on", active);
@@ -732,12 +751,12 @@ const UI = (() => {
     container.querySelectorAll("[data-f]").forEach(b => b.addEventListener("click", event => {
       if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
       event.preventDefault();
-      setParam("f", b.dataset.f === defaultKey ? "" : b.dataset.f);
+      setParam(param, b.dataset.f === defaultKey ? "" : b.dataset.f);
       mark(b.dataset.f);
       onChange(b.dataset.f);
     }));
     window.addEventListener("popstate", () => {
-      const key = getParam("f", defaultKey);
+      const key = getParam(param, defaultKey);
       const match = [...container.querySelectorAll("[data-f]")].some(x => x.dataset.f === key);
       syncChipLinks();
       mark(match ? key : defaultKey);

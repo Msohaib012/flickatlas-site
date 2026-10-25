@@ -10,7 +10,7 @@
   const main = document.getElementById("app");
   UI.setSEO({
     title: "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-    desc: "FlickAtlas is your global guide to movies and TV shows — full cast & crew, budgets vs box office earnings, upcoming release dates and celebrity filmographies for Bollywood, Hollywood and Lollywood.",
+    desc: "FlickAtlas is your global guide to movies and TV shows — full cast & crew, budgets vs box office earnings, upcoming release dates and celebrity filmographies for Bollywood, World Cinema and Lollywood.",
     path: "/",
     jsonld: { "@context": "https://schema.org", "@type": "WebSite",
       "name": "FlickAtlas", "url": CONFIG.BASE + "/",
@@ -25,6 +25,10 @@
 
   const today = new Date().toISOString().slice(0, 10);
   const cutoff = UI.freshCutoff();
+  /* Audit fix: the outer catch used to wipe the whole rendered homepage
+     whenever a post-render step threw. `rendered` tracks whether the page
+     is already on screen — once it is, a wiring failure is non-fatal. */
+  let rendered = false;
   try {
     /* ---------- published data (single source of truth) ----------
        FA_PUBLISHED is written by the pipeline (js/published-titles.js),
@@ -57,6 +61,23 @@
     const pickDistinct = (items) => {
       const fresh = items.filter(x => x && !shown.has(x.id));
       return (fresh.length ? fresh : items).slice(0, 1);
+    };
+    /* Industry tag for cards: UI.industryTag now returns "World Cinema" for
+       world-industry titles (fixed in ui.js) — the explicit label is kept
+       as a harmless guard. */
+    const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+    /* Snapshot of the first-render pick per kind+industry (audit fix):
+       activate() used to re-run publishedFor on the polluted `shown` set,
+       so switching Spotlight to World Cinema and back showed the newest
+       title (Udta Teer) instead of the distinct pick (Nayyi Navelli).
+       Every kind+industry pick is now computed once and restored verbatim. */
+    const homePicks = new Map();
+    const pickFor = (kind, industry) => {
+      const key = kind + "|" + industry;
+      if (homePicks.has(key)) return homePicks.get(key);
+      const items = publishedFor(kind, industry);
+      homePicks.set(key, items);
+      return items;
     };
     const publishedFor = (kind, industry) => {
       const ind = industry === "international" ? "world" : "bollywood";
@@ -151,19 +172,27 @@
       <a class="see-all" href="${href}">See All →</a></div>
       ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
-    const bollyReleased = publishedFor("spotlight", "bollywood");
+    const bollyReleased = pickFor("spotlight", "bollywood");
     markShown(bollyReleased);
     const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, "movie", "")).join("")}</div></section>` : "";
-    const bollySoon = publishedFor("soon", "bollywood");
+    const bollySoon = pickFor("soon", "bollywood");
     markShown(bollySoon);
     const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Newest published upcoming titles first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
+
+    /* ---------- Lollywood + Pakistani dramas (computed BEFORE the mixed
+       rail so their picks count as shown and Trending Worldwide does not
+       repeat them). Both use pickDistinct like every other rail. ---------- */
+    const lollyLatest = pickDistinct(pubAll().filter(x => x && x.poster_path && (x.industry || "") === "pakistani" && freshReleased(x)).sort(byNewest));
+    markShown(lollyLatest);
+    const pkLatest = pickDistinct(pubAll().filter(x => x && typeOf(x) === "tv" && x.poster_path && (x.industry || "") === "pakistani" && freshReleased(x)).sort(byNewest));
+    markShown(pkLatest);
 
     /* ---------- Newest published titles, all industries ---------- */
     const mixedPool = pubAll().filter(x => x && typeOf(x) === "movie" && x.poster_path && freshReleased(x)).sort(byNewest);
     const mixed = pickDistinct(mixedPool);
     markShown(mixed);
     const mixedHtml = rowSection("Trending Worldwide", "/movies?f=all&seeall=1",
-      mixed.length ? `<div class="scroller">${mixed.map((x, i) => UI.posterCard(x, "movie", UI.industryTag(x), i + 1)).join("")}</div>` : "",
+      mixed.length ? `<div class="scroller">${mixed.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
       "Newest published titles across all industries.",
       "mixed-trending");
     /* Trending Searches: the feed itself is a published file
@@ -216,8 +245,8 @@
     /* ---------- coming soon: a DAILY release calendar over the
        published upcoming titles — nearest date first, one item. ----- */
     const MONTHS_S = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-    const calendarRow = (x, type, date) => { const [, mm, dd] = date.split("-"); return `<a class="tl-row" href="/${type === "tv" ? "show" : "movie"}?id=${x.id}"><span class="tl-date"><b>${parseInt(dd, 10)}</b><span>${MONTHS_S[parseInt(mm, 10) - 1]}</span></span><img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b><span>${type === "tv" ? "Premieres " : ""}${UI.fmtDate(date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""}</span></span><span class="tag-chip">${UI.esc(UI.industryTag(x))}</span></a>`; };
-    const upList = publishedFor("calendar", "bollywood");
+    const calendarRow = (x, type, date) => { const [, mm, dd] = date.split("-"); return `<a class="tl-row" href="/${type === "tv" ? "show" : "movie"}?id=${x.id}"><span class="tl-date"><b>${parseInt(dd, 10)}</b><span>${MONTHS_S[parseInt(mm, 10) - 1]}</span></span><img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b><span>${type === "tv" ? "Premieres " : ""}${UI.fmtDate(date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""}</span></span><span class="tag-chip">${UI.esc(tagFor(x))}</span></a>`; };
+    const upList = pickFor("calendar", "bollywood");
     markShown(upList);
     const upHtml = hasKind("calendar") ? `<section class="section" data-sec="coming-soon" id="homeCalendar">
       <div class="section-head"><h2>Coming Soon — Release Calendar</h2>
@@ -255,8 +284,8 @@
         </a>`).join("")}</div>`;
     };
 
-    /* ---------- Lollywood: LATEST Pakistani releases only ---------- */
-    const lollyLatest = pubAll().filter(x => x && x.poster_path && (x.industry || "") === "pakistani" && freshReleased(x)).sort(byNewest).slice(0, 1);
+    /* ---------- Lollywood: LATEST Pakistani releases only (computed
+       above, before the mixed rail — see the distinct-titles note). ---------- */
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Latest Pakistani Releases</h2>
       <a class="see-all" href="/category?cat=lollywood">See All →</a></div>
@@ -265,7 +294,6 @@
 
     /* Pakistani dramas rail: the newest published Pakistani drama, with
        its channel tag. No live channel-pool fetch. */
-    const pkLatest = pubAll().filter(x => x && typeOf(x) === "tv" && x.poster_path && (x.industry || "") === "pakistani" && freshReleased(x)).sort(byNewest).slice(0, 1);
     const pkRailHtml = pkLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
       <div class="section-head"><h2>Pakistani YouTube Dramas — Latest</h2>
       <a class="see-all" href="/episode-guides">Episode Guides →</a></div>
@@ -311,6 +339,7 @@
       ${lollyHtml}
       ${pkRailHtml}
     </div>`;
+    rendered = true;
     if (window.FARailScroll) window.FARailScroll.enhance(document.querySelectorAll("#homeSpotlight .scroller, #homeSoon .scroller"));
 
     // Shared, lazy industry switcher — filters the published catalogue
@@ -326,7 +355,7 @@
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&s=recent&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}` : `/upcoming?f=${industry}&s=nearest&seeall=1`;
         section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Browse released movies, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, newest first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
-        const items = publishedFor(kind, industry);
+        const items = pickFor(kind, industry);
         if (kind === "calendar") result.innerHTML = items.length ? items.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>';
         else result.innerHTML = items.length ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined)).join("") : '<p role="status">No matching titles found.</p>';
       };
@@ -340,16 +369,34 @@
       if (initial !== "bollywood") activate(initial, false);
       window.addEventListener("popstate", () => activate(new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood", false));
     });
-    fillHomeNews();
+    /* Wiring steps are guarded individually: a failure here must never
+       wipe the rendered page (see the `rendered` flag above). A failed
+       news fill removes the section instead of leaving a skeleton;
+       a failed trends mount leaves one honest line instead of a stuck
+       "Loading trend feed…" status. */
+    try { fillHomeNews(); } catch (_) { document.getElementById("homeNews")?.remove(); }
 
-    if (window.FATrendingSearches) window.FATrendingSearches.mount(document.getElementById("homeTrendingSearches"), {
-      limit: 1,
-      context: {
-        bollywood: pubAll().filter(x => (x.industry || "") === "bollywood"),
-        international: pubAll().filter(x => (x.industry || "") === "world"),
-        pakistan: pubAll().filter(x => (x.industry || "") === "pakistani"),
-      },
-    });
+    try {
+      if (window.FATrendingSearches) window.FATrendingSearches.mount(document.getElementById("homeTrendingSearches"), {
+        limit: 1,
+        context: {
+          bollywood: pubAll().filter(x => (x.industry || "") === "bollywood"),
+          international: pubAll().filter(x => (x.industry || "") === "world"),
+          pakistan: pubAll().filter(x => (x.industry || "") === "pakistani"),
+        },
+      });
+      else {
+        /* Audit fix: when the trends script itself failed to load,
+           FATrendingSearches is undefined — the old code did nothing and
+           the section stayed on "Loading trend feed…" forever. Show the
+           honest line instead of a stuck status. */
+        const ts = document.getElementById("homeTrendingSearches");
+        if (ts) ts.innerHTML = `<h2>Trending Searches</h2><p role="status">Trending searches are unavailable right now.</p>`;
+      }
+    } catch (_) {
+      const ts = document.getElementById("homeTrendingSearches");
+      if (ts) ts.innerHTML = `<h2>Trending Searches</h2><p role="status">Trending searches are unavailable right now.</p>`;
+    }
 
     /* Hero carousel: auto-slide every 5.5s, dots jump, pause on hover */
     (function heroCarousel() {
@@ -407,6 +454,8 @@
       start();
     })();
   } catch (e) {
-    main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
+    /* Only wipe the page when nothing rendered yet. After `rendered`,
+       a failure is a wiring problem, not a reason to blank the homepage. */
+    if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();

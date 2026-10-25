@@ -4,12 +4,10 @@
 
    DRAMA SCOPE (owner decision 2026-10-25, published-only rebuild §6):
    dramas are INDIAN + PAKISTANI (+ viral international with an official
-   channel, regular episodes and public availability) ONLY. K-DRAMA IS
-   EXCLUDED everywhere — its episodes are not regular, the dramas are
-   hard to find, and dubbing is often unavailable. This pool can never
-   admit a K-drama: every discover query is origin-PK, and checkOne
-   rejects anything that is not PK and explicitly rejects Korean origin
-   / Korean language as a belt-and-braces guard.
+   channel, regular episodes and public availability) ONLY. This pool can
+   never admit anything outside that scope: every discover query is
+   origin-PK, and checkOne rejects anything that is not PK as a
+   belt-and-braces guard.
 
    Identification (all from live TMDB data):
    - origin country is Pakistan (first listed origin = PK), and
@@ -117,8 +115,8 @@ const PK = (() => {
           if (!d || !d.poster_path) return;
           const oc = d.origin_country || [];
           if (oc[0] !== "PK") return;
-          /* K-drama exclusion (published-only rebuild §6): never admit a
-             Korean title even if a discover query ever widens. */
+          /* Scope guard (published-only rebuild §6): never admit a title
+             outside the IN/PK scope even if a discover query ever widens. */
           if (oc.includes("KR") || d.original_language === "ko") return;
           const channel = channelOf(d);
           if (!channel) return;

@@ -25,8 +25,7 @@
     if (/bollywood|hindi cinema/.test(explicit)) return 'bollywood';
     if (/hollywood|us cinema/.test(explicit)) return 'hollywood';
     if (/pakistan|lollywood/.test(explicit)) return 'pakistan';
-    if (/k[- ]?drama|korean drama/.test(explicit)) return 'kdrama';
-    const pools = [['bollywood', context.bollywood, e => countryLanguage(e, 'IN', 'hi')], ['hollywood', context.international, e => countryLanguage(e, 'US', 'en')], ['pakistan', context.pakistan, e => countryLanguage(e, 'PK', 'ur')], ['kdrama', context.kdrama, e => countryLanguage(e, 'KR', 'ko')]];
+    const pools = [['bollywood', context.bollywood, e => countryLanguage(e, 'IN', 'hi')], ['hollywood', context.international, e => countryLanguage(e, 'US', 'en')], ['pakistan', context.pakistan, e => countryLanguage(e, 'PK', 'ur')]];
     for (const [key, list, test] of pools) if ((list || []).some(e => e && metadataMatch(item.q, item.news, e) && test(e))) return key;
     if (item._query_origin_country === 'IN' && context._query_origin_country === 'IN') return 'bollywood';
     return 'other';
@@ -91,7 +90,7 @@
           } else { type = candidate.media_type === 'tv' ? 'tv' : candidate.media_type === 'movie' ? 'movie' : null; id = candidate.id; }
           if (!type || id == null) continue;
           const data = await details(type, id);
-          const valid = type === 'movie' ? (countryLanguage(data || {}, 'US', 'en') ? 'hollywood' : countryLanguage(data || {}, 'IN', 'hi') ? 'bollywood' : countryLanguage(data || {}, 'PK', 'ur') ? 'pakistan' : null) : (countryLanguage(data || {}, 'US', 'en') ? 'hollywood' : countryLanguage(data || {}, 'IN', 'hi') ? 'bollywood' : countryLanguage(data || {}, 'PK', 'ur') ? 'pakistan' : countryLanguage(data || {}, 'KR', 'ko') ? 'kdrama' : null);
+          const valid = type === 'movie' ? (countryLanguage(data || {}, 'US', 'en') ? 'hollywood' : countryLanguage(data || {}, 'IN', 'hi') ? 'bollywood' : countryLanguage(data || {}, 'PK', 'ur') ? 'pakistan' : null) : (countryLanguage(data || {}, 'US', 'en') ? 'hollywood' : countryLanguage(data || {}, 'IN', 'hi') ? 'bollywood' : countryLanguage(data || {}, 'PK', 'ur') ? 'pakistan' : null);
           if (valid) overrides.set(normalized(item.q) + '|' + normalized(item.geo), valid);
         } catch (_) { /* Optional enrichment never alters source data. */ }
       }

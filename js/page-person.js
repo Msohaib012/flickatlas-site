@@ -42,7 +42,10 @@
     const PUBLISHED = window.FA_PUBLISHED || {};
     const seen = new Map();
     for (const c of ((credits && credits.cast) || [])) {
-      if (!c || !(c.title || c.name) || !c.poster_path) continue;
+      /* The published entry supplies the poster (posterCard falls back
+         to initials when it has none), so a credit must not be dropped
+         just because the credit record itself carries no poster_path. */
+      if (!c || !(c.title || c.name)) continue;
       const pub = PUBLISHED[String(c.id)];
       if (!pub || pub.type !== c.media_type) continue;
       const k = (c.media_type || "") + ":" + c.id;
