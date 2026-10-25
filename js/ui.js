@@ -450,7 +450,7 @@ const UI = (() => {
           <a href="/news">Industry News</a><a href="/search">Search</a></div></details>
         <details class="foot-col" open><summary>Industries</summary><div class="foot-links">
           <a href="/category?cat=bollywood">Bollywood</a><a href="/category?cat=hollywood">Hollywood</a>
-          <a href="/category?cat=lollywood">Lollywood</a><a href="/category?cat=kdrama">K-Drama</a>
+          <a href="/category?cat=lollywood">Lollywood</a>
           <a href="/category?cat=lollywood">Pakistani YouTube Dramas</a></div></details>
         <details class="foot-col" open><summary>Company &amp; Legal</summary><div class="foot-links">
           <a href="/about">About Us</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms &amp; Conditions</a><a href="/dmca">DMCA &amp; Copyright</a><a href="/contact">Contact</a></div></details>

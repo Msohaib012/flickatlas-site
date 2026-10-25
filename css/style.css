@@ -1694,3 +1694,15 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
   #app #chipHost .fa-select-menu{max-height:min(38vh,220px);}
 }
 @media(max-width:420px){#app #chipHost .tabs{gap:6px}#app #chipHost .tabs a{padding:7px 10px;font-size:.81rem}}
+
+/* Day-wise table on mobile (fix 2026-10-25): the 440px min-width on
+   .table-scroll table pushed the Collection column off-screen on phones
+   (Date + Day visible, "₹4.1 cr" cut off, horizontal scroll hidden).
+   On <=640px the data table drops the min-width and tightens font and
+   cell padding so Date / Day / Collection all fit without scrolling.
+   Desktop styles are untouched. */
+@media(max-width:640px){
+  .table-scroll table.data{min-width:0}
+  table.data{font-size:.85rem}
+  table.data th,table.data td{padding:8px 6px}
+}

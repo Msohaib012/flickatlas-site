@@ -45,13 +45,26 @@
        kind "spotlight": released movies, fresh, newest first.
        kind "soon": upcoming movies + TV, newest first.
        kind "calendar": upcoming movies + TV, nearest date first. */
+    /* Distinct titles across the homepage (fix 2026-10-25): every section
+       used to sort newest-first and take slice(0,1), so the same title
+       (Udta Teer) filled every movie section and the next published title
+       (Nayyi Navelli) appeared nowhere on the page. `shown` tracks the
+       TMDB ids already on the page; each listing picks the newest title
+       NOT yet shown, falling back to the newest when every title is
+       already shown. One item per section is unchanged. */
+    const shown = new Set();
+    const markShown = (items) => { (items || []).forEach(x => { if (x && x.id != null) shown.add(x.id); }); };
+    const pickDistinct = (items) => {
+      const fresh = items.filter(x => x && !shown.has(x.id));
+      return (fresh.length ? fresh : items).slice(0, 1);
+    };
     const publishedFor = (kind, industry) => {
       const ind = industry === "international" ? "world" : "bollywood";
       let items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
       if (kind === "spotlight") items = items.filter(x => typeOf(x) === "movie" && freshReleased(x)).sort(byNewest);
       else if (kind === "soon") items = items.filter(x => isUpcoming(x)).sort(byNewest);
       else items = items.filter(x => isUpcoming(x)).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
-      return items.slice(0, 1);
+      return pickDistinct(items);
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
@@ -78,6 +91,9 @@
       const last = rows[rows.length - 1];
       heroSlides.push({ d: entry, live: true, total, last, dayN: UI.dayNumOf(last) });
     }
+    /* The hero title counts as shown, so the next section surfaces a
+       different published title instead of repeating it. */
+    markShown(heroSlides.map(s => s.d));
 
     const heroSlideHtml = (s, idx) => {
       const hd = s.d;
@@ -136,12 +152,16 @@
       ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
     const bollyReleased = publishedFor("spotlight", "bollywood");
+    markShown(bollyReleased);
     const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, "movie", "")).join("")}</div></section>` : "";
     const bollySoon = publishedFor("soon", "bollywood");
+    markShown(bollySoon);
     const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Newest published upcoming titles first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
 
     /* ---------- Newest published titles, all industries ---------- */
-    const mixed = pubAll().filter(x => x && typeOf(x) === "movie" && x.poster_path && freshReleased(x)).sort(byNewest).slice(0, 1);
+    const mixedPool = pubAll().filter(x => x && typeOf(x) === "movie" && x.poster_path && freshReleased(x)).sort(byNewest);
+    const mixed = pickDistinct(mixedPool);
+    markShown(mixed);
     const mixedHtml = rowSection("Trending Worldwide", "/movies?f=all&seeall=1",
       mixed.length ? `<div class="scroller">${mixed.map((x, i) => UI.posterCard(x, "movie", UI.industryTag(x), i + 1)).join("")}</div>` : "",
       "Newest published titles across all industries.",
@@ -184,6 +204,9 @@
       const entry = (window.FA_PUBLISHED || {})[String(dwId)];
       if (entry && entry.poster_path) { boPick = { entry, rows }; break; }
     }
+    /* The box-office leader is on the page too, so later sections avoid
+       repeating it (same as the hero). Its pick itself is unchanged. */
+    if (boPick) markShown([boPick.entry]);
     const boHtml = boPick ? `<section class="section" data-sec="box-office">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office">See All →</a></div>
@@ -195,6 +218,7 @@
     const MONTHS_S = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
     const calendarRow = (x, type, date) => { const [, mm, dd] = date.split("-"); return `<a class="tl-row" href="/${type === "tv" ? "show" : "movie"}?id=${x.id}"><span class="tl-date"><b>${parseInt(dd, 10)}</b><span>${MONTHS_S[parseInt(mm, 10) - 1]}</span></span><img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b><span>${type === "tv" ? "Premieres " : ""}${UI.fmtDate(date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""}</span></span><span class="tag-chip">${UI.esc(UI.industryTag(x))}</span></a>`; };
     const upList = publishedFor("calendar", "bollywood");
+    markShown(upList);
     const upHtml = hasKind("calendar") ? `<section class="section" data-sec="coming-soon" id="homeCalendar">
       <div class="section-head"><h2>Coming Soon — Release Calendar</h2>
       <a class="see-all" href="/upcoming?f=bollywood&s=nearest&seeall=1">See All →</a></div>
@@ -308,7 +332,12 @@
       };
       group.addEventListener("click", ev => { const btn = ev.target.closest("button[data-industry]"); if (btn) activate(btn.dataset.industry, true); });
       const key = stateKey, initial = new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood";
-      activate(initial, false);
+      /* The default Bollywood view is already pre-rendered above with the
+         distinct-title rule applied. Re-running activate() on load would
+         re-pick via publishedFor — and with every title already shown it
+         would fall back to the newest and undo the distinct pick. Only
+         activate when a non-default tab was requested via the URL. */
+      if (initial !== "bollywood") activate(initial, false);
       window.addEventListener("popstate", () => activate(new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood", false));
     });
     fillHomeNews();
