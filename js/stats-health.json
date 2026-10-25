@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T21:29:16Z",
+  "generated": "2026-10-25T21:32:31Z",
   "deploy": {
     "status": "not checked",
     "detail": "VERCEL_TOKEN secret not set"
@@ -17,7 +17,7 @@
   },
   "search_console": {
     "status": "not checked",
-    "detail": "google-auth library not installed in the workflow",
+    "detail": "403 — service account ko Search Console property (flickatlas.vercel.app) mein user banana hai (Settings → Users and permissions), aur Cloud project mein Search Console API enable karni hai",
     "indexed_pages": null
   }
 }
