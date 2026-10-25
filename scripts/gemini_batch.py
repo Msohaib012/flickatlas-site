@@ -22,8 +22,16 @@ NOT group/skip — the item goes to Gemini.
 Env:
   GEMINI_API_KEY_1..5  (at least one required)
   TMDB_API_KEY         (optional; resolves film name -> TMDB id)
-  BATCH_SIZE           (default 10; how many NEW stories per run)
-  OUT_DIR              (default out/)
+  BATCH_SIZE           (default 2; how many NEW stories per run — kept
+                        small on purpose: Google treats mass-published thin
+                        AI content as scaled-content spam, so the pipeline
+                        publishes FEW, LONG, fact-rich articles, not 240/day)
+  DAILY_CAP            (default 20; max articles published per UTC day)
+  MAX_GEMINI_CALLS     (default 6; bounds quota use per run)
+Quality gate (Google safety): a draft is published ONLY if it has
+  >= 300 words of body text, >= 3 sections and >= 4 facts. Thin drafts
+  are marked quality-rejected in processed.json (never retried — a thin
+  story stays thin; a real update gets a new fingerprint and is tried).
 """
 import json
 import os
@@ -123,6 +131,43 @@ def fetch_article_text(url):
             print(f"  fetch {target[:60]}: {e}")
             continue
     return ""
+
+
+# ---------------------------------------------------------------- quality gate
+# Google safety: mass-published thin AI content is treated as scaled-content
+# spam (March 2024 core update). The pipeline therefore publishes FEW, LONG,
+# fact-rich articles. A draft must clear every bar below to go live.
+MIN_BODY_WORDS = 300
+MIN_SECTIONS = 3
+MIN_FACTS = 4
+
+
+def body_word_count(body):
+    total = 0
+    for s in (body or []):
+        if not isinstance(s, dict):
+            continue
+        for p in (s.get("p") or []):
+            total += len(str(p).split())
+    return total
+
+
+def quality_check(result):
+    """Returns (ok, reason). A thin/generic draft is rejected, never published."""
+    headline = (result.get("headline") or "").strip()
+    if len(headline) < 10:
+        return False, "headline-too-short"
+    body = result.get("body") or []
+    sections = [s for s in body if isinstance(s, dict) and s.get("h")]
+    if len(sections) < MIN_SECTIONS:
+        return False, f"only-{len(sections)}-sections"
+    words = body_word_count(body)
+    if words < MIN_BODY_WORDS:
+        return False, f"only-{words}-words"
+    facts = [f for f in (result.get("facts") or []) if str(f).strip()]
+    if len(facts) < MIN_FACTS:
+        return False, f"only-{len(facts)}-facts"
+    return True, ""
 
 
 # ---------------------------------------------------------------- Gemini
@@ -256,13 +301,16 @@ def main():
     queue_path = os.path.join(OUT_DIR, "queue.json")
     processed_path = os.path.join(OUT_DIR, "processed.json")
     batch_path = os.path.join(OUT_DIR, "gemini-batch.json")
-    batch_size = int(os.environ.get("BATCH_SIZE", "10"))
+    batch_size = int(os.environ.get("BATCH_SIZE", "2"))
+    daily_cap = int(os.environ.get("DAILY_CAP", "20"))
+    max_calls = int(os.environ.get("MAX_GEMINI_CALLS", "6"))
 
     keys = gemini_keys()
     if not keys:
         print("No Gemini keys configured (set GEMINI_API_KEY_1..5) — skipping batch.")
         return 0
-    print(f"gemini keys: {len(keys)} | batch size: {batch_size} | model: {MODEL}")
+    print(f"gemini keys: {len(keys)} | batch size: {batch_size} | "
+          f"daily cap: {daily_cap} | model: {MODEL}")
 
     if not os.path.exists(queue_path):
         print(f"ERROR: queue not found: {queue_path}")
@@ -276,12 +324,28 @@ def main():
             processed = json.load(f)
     print(f"queue: {len(queue)} stories | already processed: {len(processed)}")
 
+    # Daily cap: count what this pipeline already published today (UTC).
+    # Quality-rejected fingerprints do not count — they were never published.
+    today = time.strftime("%Y-%m-%d", time.gmtime())
+    today_count = sum(
+        1 for rec in processed.values()
+        if str(rec.get("processed_at", ""))[:10] == today
+        and not rec.get("quality_rejected"))
+    if today_count >= daily_cap:
+        print(f"daily cap reached ({today_count}/{daily_cap} today) — "
+              "nothing to publish, skipping batch.")
+        return 0
+    # The batch may only fill the remaining room under the cap.
+    batch_size = min(batch_size, daily_cap - today_count)
+
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
     articles, box_rows, skipped = [], [], []
+    gemini_calls = 0
     for item in queue:
-        if len(articles) + len(skipped) >= batch_size and len(articles) >= batch_size:
-            break
         if len(articles) >= batch_size:
+            break
+        if gemini_calls >= max_calls:
+            print(f"  max Gemini calls per run reached ({max_calls})")
             break
         fp = fingerprint(item)
         if fp in processed:
@@ -295,9 +359,23 @@ def main():
             print("  source unreadable, skipping (no Gemini call, quota saved)")
             skipped.append({"url": url, "reason": "source-unreadable"})
             continue
+        gemini_calls += 1
         result = call_gemini(keys, PROMPT.format(article=text, url=url))
         if not result:
             skipped.append({"url": url, "reason": "gemini-failed"})
+            continue
+        ok, reason = quality_check(result)
+        if not ok:
+            print(f"  quality gate rejected draft: {reason} — not published")
+            skipped.append({"url": url, "reason": f"quality-gate:{reason}"})
+            processed[fp] = {
+                "url": url, "title": title,
+                "article_id": None,
+                "category": result.get("category") or item.get("category") or "movies",
+                "quality_rejected": True,
+                "quality_reason": reason,
+                "processed_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+            }
             continue
         cat = result.get("category") or item.get("category") or "movies"
         if cat not in CATEGORIES:
