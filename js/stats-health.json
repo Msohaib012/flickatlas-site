@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-25T18:08:04Z",
+  "generated": "2026-10-25T20:09:25Z",
   "deploy": {
     "status": "not checked",
     "detail": "VERCEL_TOKEN secret not set"
   },
   "pipeline": {
-    "status": "unknown",
-    "fetch": "unknown",
-    "gemini": "unknown",
-    "publish": "unknown",
-    "generated": null
+    "status": "ok",
+    "fetch": "success",
+    "gemini": "success",
+    "publish": "success",
+    "generated": "2026-10-25T18:11:27Z"
   },
   "dmca": {
     "status": "not checked",
