@@ -27,7 +27,7 @@
     wrap.append(host, history);
     let ready = window.FABoxOffice;
     if (!ready) ready = await new Promise(resolve => {
-      const s = document.createElement("script"); s.src = "/js/boxoffice-latest.js?v=fa-currency-single-20261023T1350";
+      const s = document.createElement("script"); s.src = "/js/boxoffice-latest.js?v=fa-202610252145";
       s.onload = () => resolve(window.FABoxOffice); s.onerror = () => resolve(null); document.head.appendChild(s);
     });
     if (ready) ready.mount(host, { industry: new URLSearchParams(location.search).get("f") || "bollywood", title: "Box Office", heading: "h1" });

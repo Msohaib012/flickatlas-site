@@ -56,11 +56,12 @@
       return true;
     });
     items.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
-    grid.innerHTML = items.map(x =>
+    const shown = items.slice(0, 1);
+    grid.innerHTML = shown.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, x.media_type, UI.industryTag(x))}</div>`).join("");
     const label = t === "movie" ? "movie" : t === "tv" ? "show" : "title";
-    fcount.textContent = `${items.length} ${label}${items.length === 1 ? "" : "s"}`;
-    emptyHost.innerHTML = items.length ? "" : UI.stateMsg(`No ${info.label} titles match this filter right now.`, false);
+    fcount.textContent = `${shown.length} ${label}${shown.length === 1 ? "" : "s"}`;
+    emptyHost.innerHTML = shown.length ? "" : UI.stateMsg(`No ${info.label} titles match this filter right now.`, false);
   }
 
   UI.wireChips(main.querySelector("#chipHost"), (key) => {

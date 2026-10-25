@@ -150,7 +150,7 @@
       ? `<div class="scroller">${items.slice(0, limit || 14).map(x => UI.posterCard(x, type, tagged ? UI.industryTag(x) : "")).join("")}</div>` : "";
     const bollyReleased = bollyPop.filter(x => (x.release_date || "") <= today && x.release_date);
     const bollySoon = bollyUpcoming.filter(x => x && x.poster_path && x.release_date > today);
-    const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","International / Hollywood"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
+    const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
     const bollyHtml = `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${scrollerOf(bollyReleased, "movie", false, 1)?.replace(/^<div class="scroller">|<\/div>$/g,"") || ""}</div></section>`;
     const bollySoonHtml = `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Ranked by TMDB popularity, not release date or audience demand; dates may change.</p><div class="scroller" data-results>${bollySoon.slice(0,1).map((x,i)=>UI.posterCard(x,"movie","",i+1)).join("")}</div></section>`;
 
@@ -535,7 +535,7 @@
       return all.filter(x=>{const k=x.media_type+":"+x.id;if(seen.has(k))return false;seen.add(k);return true;})
         .sort((a,b)=> { const da=a.release_date||a.first_air_date||"", db=b.release_date||b.first_air_date||""; return kind === "spotlight" ? db.localeCompare(da) : kind === "soon" ? (b.popularity||0)-(a.popularity||0) || da.localeCompare(db) : da.localeCompare(db); });
     };
-    const industryLabel = i => i === "international" ? "International / Hollywood" : i === "pakistan" ? "Pakistan" : "Bollywood";
+    const industryLabel = i => i === "international" ? "World Cinema" : i === "pakistan" ? "Pakistan" : "Bollywood";
     const homeStateKey = kind => ({spotlight:"hs",soon:"hn",calendar:"hc"}[kind]);
     const initialHomeState = kind => { const v=new URL(location.href).searchParams.get(homeStateKey(kind)); return v === "international" ? v : "bollywood"; };
     document.querySelectorAll("[data-switcher]").forEach(group => {

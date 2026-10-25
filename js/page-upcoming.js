@@ -1,5 +1,5 @@
 /* FlickAtlas — Release Calendar (§3 calendar-native, §4 chips): movies + TV
-   premieres in ONE dated, month-grouped list. Bollywood and International / Hollywood
+   premieres in ONE dated, month-grouped list. Bollywood and World Cinema
    are primary industries; format, month and legacy Pakistani scopes remain available. */
 (async function () {
   UI.mountChrome("/upcoming");
@@ -10,7 +10,7 @@
     path: "/upcoming"
   });
 
-  const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "International / Hollywood"]];
+  const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "World Cinema"]];
   const MORE_FILTERS = [["all", "All"], ["movies", "Movies"], ["tv", "TV"], ["month", "This Month"], ["pakistani", "Pakistani"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
   const seeAllEntry = UI.getParam("seeall", "") === "1";

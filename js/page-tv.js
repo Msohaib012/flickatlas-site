@@ -53,10 +53,11 @@
     items.sort((a, b) => f === "top"
       ? (b.vote_average || 0) - (a.vote_average || 0)
       : (b.popularity || 0) - (a.popularity || 0));
-    grid.innerHTML = items.map(x =>
+    const shown = items.slice(0, 1);
+    grid.innerHTML = shown.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, "tv", UI.industryTag(x))}</div>`).join("");
-    fcount.textContent = `${items.length} show${items.length === 1 ? "" : "s"}`;
-    emptyHost.innerHTML = items.length ? "" : UI.stateMsg("No shows match this filter right now.", false);
+    fcount.textContent = `${shown.length} show${shown.length === 1 ? "" : "s"}`;
+    emptyHost.innerHTML = shown.length ? "" : UI.stateMsg("No shows match this filter right now.", false);
   }
 
   UI.wireChips(main.querySelector("#chipHost"), (key) => { f = key; render(); });

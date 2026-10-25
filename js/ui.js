@@ -188,17 +188,13 @@ const UI = (() => {
   function setIndustryContext(industry) {
     industryContext = industry === "bollywood" ? "bollywood" : "";
     if (document.body) document.body.dataset.industry = industryContext;
-    if (industryContext === "bollywood") {
-      ccy = "USD";
-      refreshMoneySpans(document);
-    }
   }
   function trimNum(x, dp) {
     const f = Math.pow(10, dp);
     return String(Math.round(x * f) / f);
   }
   function moneyPlain(n, kind) {
-    if (n === 0) return industryContext === "bollywood" || ccy === "USD" ? "$0" : ccy === "INR" ? "₹0" : "Rs 0";
+    if (n === 0) return ccy === "USD" ? "$0" : ccy === "INR" ? "₹0" : "Rs 0";
     if (!n || n <= 0) return "";
     const v = n * (RATES[ccy] || 1);
     if (ccy === "USD") {
@@ -245,7 +241,6 @@ const UI = (() => {
     (root || document).querySelectorAll(".fa-money").forEach(refreshMoneyEl);
   }
   function setCcy(c, persist = true) {
-    if (industryContext === "bollywood") return;
     if (CCYS.indexOf(c) < 0) return;
     ccy = c;
     if (persist) { try { localStorage.setItem("fa_ccy", c); } catch (e) {} }
@@ -276,7 +271,6 @@ const UI = (() => {
     }).observe(document.body, { childList: true, subtree: true });
   }
   function rateNote() {
-    if (industryContext === "bollywood") return "";
     return `<details class="ccy-note"><summary>Currency reference rates</summary><p>$1 = ₹${RATES.INR} / Rs ${RATES.PKR} · ${RATES.asOf}. Display conversion only.</p></details>`;
   }
   /* Availability info (TEXT ONLY — names of platforms per region, never links).

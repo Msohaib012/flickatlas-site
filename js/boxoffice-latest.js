@@ -32,7 +32,7 @@
     const limit = options.limit || 8;
     let generation = 0, industry = options.industry || new URLSearchParams(location.search).get(stateKey) || "bollywood";
     if (!["bollywood", "international"].includes(industry)) industry = "bollywood";
-    const labels = { bollywood: "Bollywood", international: "International" };
+    const labels = { bollywood: "Bollywood", international: "World Cinema" };
     const today = new Date().toISOString().slice(0, 10), cutoff = UI.freshCutoff();
     const startDate = new Date(today + "T00:00:00Z"); startDate.setUTCDate(startDate.getUTCDate() - 6);
     const start = startDate.toISOString().slice(0, 10);
