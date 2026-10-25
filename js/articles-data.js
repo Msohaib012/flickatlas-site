@@ -942,5 +942,191 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 25 Oct 2026 19:31:12 +0000"
+  },
+  "537d1w": {
+    "id": "537d1w",
+    "type": "news",
+    "headline": "DC Studios' Clayface Claims Top Spot at North American Box Office While You Can See Everything Continues Impressive Run",
+    "dek": "The latest weekend box office in North America sees the R-rated body horror Clayface launch at number one with an estimated 24 million dollars, while A24's meta documentary You Can See Everything experiences a significant expansion and climbs closer to the 50 million dollar milestone.",
+    "body": [
+      {
+        "h": "Clayface Dominates Weekend Openings",
+        "p": [
+          "The domestic box office charts witnessed a strong debut from DC Studios as the R-rated body horror picture Clayface secured the leading position. Distributed through a combined effort by Paramount and Warner Bros, the feature managed an estimated launch of 24 million dollars across 3,458 theater locations.",
+          "The Batman spin-off project benefited from favorable audience reception, securing an A- CinemaScore. Given its reported production expenditure of 44 million dollars, industry analysts view the opening weekend performance as a solid foundation for its theatrical run."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team Behind the Batman Spin-Off",
+        "p": [
+          "In front of the camera, the film features actor Tom Rhys Harries in the lead role. He portrays an emerging film star who undertakes a violent revenge campaign after suffering a botched medical procedure.",
+          "Behind the scenes, directing duties for the spin-off were handled by filmmaker James Watkins, whose work shaped the tone of the R-rated body horror narrative."
+        ]
+      },
+      {
+        "h": "You Can See Everything Sustains Momentum",
+        "p": [
+          "A24's unique feature You Can See Everything demonstrated remarkable staying power during its second session in North American cinemas. The Oscar-tipped meta investigation into truth and fiction, created by Nathan Fielder and Lance Oppenheim and featuring figures such as Elizabeth Holmes, expanded its reach into 2,655 theater sites.",
+          "Ticket sales for the three-hour R-rated documentary surged by 25 percent compared to its previous frame, pulling in 19.5 million dollars to bring its running total to 45.1 million dollars. Daily figures showed steady patronage with 6.1 million dollars on Friday, 6.9 million dollars on Saturday, and 6.4 million dollars on Sunday, positioning it among the highest-grossing documentary features in cinema history."
+        ]
+      },
+      {
+        "h": "Other Notable Chart Debuts and Holdovers",
+        "p": [
+          "Elsewhere on the weekend charts, Fathom Entertainment introduced Laika's acclaimed animated feature Wildwood at number three, pulling in 11.8 million dollars from 2,779 sites with international sales managed by FilmNation. Meanwhile, Paramount's Street Fighter experienced a steep 72 percent drop in its second weekend, taking fourth place with 8.6 million dollars from 3,575 locations for a cumulative 46.9 million dollars.",
+          "Black Bear entered the top five with its Sundance selection Wicker, starring Olivia Colman and Alexander Skarsgard, which accumulated 5.8 million dollars. Directed by Alex Huston Fischer and Eleanor Wilson, the historical romantic tale attracted an audience demographic consisting of 79 percent female viewers, 45 percent white viewers, and 42 percent individuals aged 25 to 43."
+        ]
+      },
+      {
+        "h": "Specialty Releases and Overall Market Health",
+        "p": [
+          "In limited release, Netflix expanded La Bola Negra to nine cinemas during its second weekend, allowing the Spanish Oscar submission and awards contender to earn 245,000 dollars toward an early 650,000 dollar total ahead of its December 2 streaming release. Neon's documentary acquisition NAZA, directed by Yuval Abraham and Rachel Szor, added 74,500 dollars across 73 screens to cross the 1 million dollar threshold after four weekends.",
+          "Overall box office receipts for the weekend reached 94.9 million dollars according to Rentrak data, representing a 21.8 percent increase over the comparable session from the previous year. Cumulative earnings for the year-to-date have advanced to 8.4 billion dollars, tracking 20.2 percent ahead of the pace set at the same point in 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Clayface opened at number one with an estimated 24 million dollars.",
+      "Clayface was released in 3,458 sites and received an A- CinemaScore.",
+      "Clayface has a reported production cost of 44 million dollars.",
+      "Tom Rhys Harries stars in Clayface, directed by James Watkins.",
+      "You Can See Everything expanded to 2,655 sites and added 19.5 million dollars.",
+      "You Can See Everything has a running total of 45.1 million dollars.",
+      "You Can See Everything earned 6.1 million dollars on Friday, 6.9 million dollars on Saturday, and 6.4 million dollars on Sunday.",
+      "Wildwood opened at number three with 11.8 million dollars from 2,779 sites.",
+      "Street Fighter earned 8.6 million dollars in its second weekend for a 46.9 million dollar total.",
+      "Wicker opened in fifth place with 5.8 million dollars.",
+      "La Bola Negra earned 245,000 dollars for an early 650,000 dollar total and streams on December 2.",
+      "NAZA crossed 1 million dollars after adding 74,500 dollars from 73 screens.",
+      "Overall weekend box office reached 94.9 million dollars, a 21.8 percent climb against 2025.",
+      "Year-to-date earnings reached 8.4 billion dollars, tracking 20.2 percent ahead of 2025."
+    ],
+    "entities": {
+      "people": [
+        "Tom Rhys Harries",
+        "James Watkins",
+        "Nathan Fielder",
+        "Lance Oppenheim",
+        "Elizabeth Holmes",
+        "Olivia Colman",
+        "Alexander Skarsgard",
+        "Alex Huston Fischer",
+        "Eleanor Wilson",
+        "Yuval Abraham",
+        "Rachel Szor",
+        "Marta Font"
+      ],
+      "titles": [
+        "Clayface",
+        "You Can See Everything",
+        "Wildwood",
+        "Street Fighter",
+        "Wicker",
+        "La Bola Negra",
+        "NAZA",
+        "Off Season",
+        "Varanasi",
+        "RRR",
+        "The Fixation",
+        "The Mirror",
+        "The Liberation",
+        "I See Buildings Fall Like Lightning"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/9/5/1490695_youcanseeeverything_294634.jpeg",
+        "caption": "DC Studios' Clayface Claims Top Spot at North American Box Office While You Can See Everything Continues Impressive Run",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 21:57:00 GMT"
+  },
+  "wgqs6t": {
+    "id": "wgqs6t",
+    "type": "news",
+    "headline": "Nicolas Cage Unveils Trailer for Crime Thriller Best Pancakes in the County",
+    "dek": "Independent Film Company has released the first official trailer for Ken Sanzel's crime thriller starring Nicolas Cage, Justin Long, and Shelley Hennig.",
+    "body": [
+      {
+        "h": "A New Transformative Role for Nicolas Cage",
+        "p": [
+          "Nicolas Cage continues his streak of eccentric and captivating screen performances with an entirely unique look in his latest project. Known for seamlessly transitioning between deeply emotional dramas and intensely unsettling antagonists, the celebrated actor embraces another bizarre transformation for his newest feature.",
+          "Sporting dark curls, oversized glasses, and a distinctive prosthetic nose, Cage steps into the shoes of a criminal known by the moniker The S.O.B. The official trailer showcases his striking visual shift, offering audiences a glimpse into a project that promises to lean heavily into the unpredictable nature of his career choices."
+        ]
+      },
+      {
+        "h": "Plot Details and Setting",
+        "p": [
+          "Set entirely over the course of a single violent night, the narrative unfolds inside a small-town diner renowned for its breakfast menu. However, the establishment's famous pancakes quickly take a back seat when a group of dangerous individuals converges on the location, bringing a wave of trouble with them.",
+          "At the center of the chaos is a high-stakes conflict revolving around a hard drive packed with sensitive and potentially damaging information regarding the CIA. Following a botched heist, Cage's con-man character finds himself retreating to the remote diner, sparking a chaotic standoff against rogue federal agents and other interested parties."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Ensemble Cast",
+        "p": [
+          "The film reunites Nicolas Cage with filmmaker Ken Sanzel, who previously directed the actor in Kill Chain. Sanzel takes the reins as both writer and director, orchestrating a tense atmosphere where shifting loyalties dictate who survives the night.",
+          "Joining Cage in the ensemble cast are Justin Long and Shelley Hennig, with Hennig portraying a local waitress harboring her own secretive agenda. The supporting cast further features prominent talents including Lauren German, Ravi Patel, Brandon Mychal Smith, Kelly Greyson, Jaylen Moore, and Michael Sirow."
+        ]
+      },
+      {
+        "h": "Blending Tension with Absurd Humor",
+        "p": [
+          "While the central plot deals with a dangerous battle for a valuable CIA hard drive, the promotional footage hints at a darkly humorous undertone. The trailer expertly contrasts high-tension criminal threats with casual banter concerning the quality of the restaurant's breakfast offerings.",
+          "This juxtaposition gives the narrative a deliberately absurd edge, allowing lethal confrontations to unfold alongside comedic exchanges about the titular diner food. It sets the stage for a chaotic night where arguments over morning meals share space with life-or-death survival."
+        ]
+      },
+      {
+        "h": "Release Information",
+        "p": [
+          "Fans eager to witness Nicolas Cage's latest cinematic transformation will not have to wait much longer. Independent Film Company has slated the project for a simultaneous theatrical and digital rollout.",
+          "The feature is scheduled to arrive in select theaters and on digital streaming platforms on November 20, inviting viewers to experience a chaotic evening where trust is scarce and survival demands more than just a weapon."
+        ]
+      }
+    ],
+    "facts": [
+      "The official trailer for Best Pancakes in the County was released by Independent Film Company.",
+      "Nicolas Cage plays a criminal known as The S.O.B., sporting dark curls, large glasses, and a prosthetic nose.",
+      "The movie is written and directed by Ken Sanzel.",
+      "The film reunites Nicolas Cage and Ken Sanzel, who previously worked together on Kill Chain.",
+      "The story is a crime thriller set in a small-town diner over one violent night.",
+      "The plot centers on a hard drive containing potentially damaging CIA information following a botched heist.",
+      "Shelley Hennig plays a waitress with secrets of her own.",
+      "The ensemble cast includes Justin Long, Lauren German, Ravi Patel, Brandon Mychal Smith, Kelly Greyson, Jaylen Moore, and Michael Sirow.",
+      "The film is scheduled to arrive in select theaters and on digital platforms on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "Justin Long",
+        "Shelley Hennig",
+        "Ken Sanzel",
+        "Lauren German",
+        "Ravi Patel",
+        "Brandon Mychal Smith",
+        "Kelly Greyson",
+        "Jaylen Moore",
+        "Michael Sirow",
+        "Hannah Hunt"
+      ],
+      "titles": [
+        "Best Pancakes in the County",
+        "Pig",
+        "Longlegs",
+        "Kill Chain",
+        "John Wick",
+        "Fast X",
+        "Mission: Impossible – The Final Reckoning",
+        "A Good Day to Die Hard"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/cagecakes-1300x688.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Nicolas Cage Unveils Trailer for Crime Thriller Best Pancakes in the County",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 22:15:14 GMT"
   }
 };
