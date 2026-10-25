@@ -27,7 +27,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Install dependencies
-        run: pip install google-auth
+        run: pip install google-auth requests
       - name: Check site health
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
