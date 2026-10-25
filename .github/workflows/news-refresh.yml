@@ -6,14 +6,28 @@ on:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Fetch feeds and build news JSON
+        env:
+          PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
+          VERCEL_PROTECTION_BYPASS: ${{ secrets.VERCEL_PROTECTION_BYPASS }}
         run: |
           python3 scripts/fetch.py --registry scripts/registry.json --out out
+          # Published articles' feed entries: the news-item page looks a story
+          # up in /api/news before it checks the articles file, so approved
+          # articles whose source story aged out of today's fetch must be
+          # merged into the feed or they show "moved on". Non-fatal if the
+          # panel call fails — the feed still builds from today's queue.
+          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+            -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
+            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
+            -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
           python3 scripts/convert-news.py
       - name: Commit if changed
         run: |
