@@ -84,6 +84,25 @@ def parse_ts(published):
     return int(dt.timestamp() * 1000)
 
 
+def published_article_ids():
+    """Ids of written + published articles, from js/articles-data.js (the
+    published set). Only these may appear in the public news feed: the site
+    must not show auto-fetched headlines as posts without any writing.
+    Returns an empty set if the articles file is missing/unreadable, so a
+    broken articles file yields an empty feed rather than unwritten posts."""
+    path = os.path.join(ROOT, "js", "articles-data.js")
+    try:
+        with open(path, encoding="utf-8") as f:
+            raw = f.read()
+        start = raw.index("{")
+        end = raw.rindex("}")
+        data = json.loads(raw[start:end + 1])
+        return set(data.keys())
+    except Exception as e:
+        print(f"published ids: could not read articles-data.js ({e})")
+        return set()
+
+
 def build_news(queue_path, registry_path):
     with open(registry_path, encoding="utf-8") as f:
         registry = json.load(f)
@@ -186,6 +205,15 @@ def build_news(queue_path, registry_path):
         except Exception as e:
             print(f"previous-feed carry skipped: {e}")
     print(f"carried {carried} items from previous feed")
+    # Written-only feed: drop every item that has no published article.
+    # Auto-fetched headlines must not appear on the site as posts without
+    # writing. An article reaches the feed only after it is actually
+    # published (present in js/articles-data.js); the publish-export merge
+    # above supplies the entry, this filter enforces the gate.
+    published = published_article_ids()
+    before_filter = len(items)
+    items = [i for i in items if i["id"] in published]
+    print(f"written-only filter: kept {len(items)} of {before_filter} feed items")
     # Published entries are PINNED: they must survive even when the fresh
     # fetch alone fills the 100-item cap (their export-time ts is older than
     # today's stories, so a plain sort+truncate would drop them and the

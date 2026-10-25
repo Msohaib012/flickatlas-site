@@ -2,8 +2,13 @@ name: Publish approved articles
 # Publishes ONLY owner-approved drafts: the panel's publish-export returns
 # the window.FA_ARTICLES file for approved news/event articles, nothing else.
 # No writing, no story-picking, no auto-drafting happens here.
-# Triggered manually (Actions -> Run workflow) so publishing stays explicit.
+# Runs on a schedule (every 20 min) so an approved article goes live without
+# a manual dispatch, and manually (Actions -> Run workflow) for an instant
+# publish. A run that finds no new approved article commits nothing and
+# deploys nothing.
 on:
+  schedule:
+    - cron: '10,30,50 * * * *'
   workflow_dispatch:
 jobs:
   publish:
@@ -25,11 +30,34 @@ jobs:
             -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o /tmp/export.json
           python3 scripts/apply-publish.py /tmp/export.json js/articles-data.js
+          # Feed merge: the news-item page looks a story up in /api/news
+          # before it checks the articles file, so approved articles must
+          # be in the feed or they show "moved on". convert-news.py merges
+          # the export's feed entries and filters the feed to written-only
+          # articles. Non-fatal if the panel call fails.
+          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+            -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
+            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
+            -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
+          python3 scripts/convert-news.py || echo "feed merge failed, continuing with articles only"
+      - name: Bump asset version when articles changed
+        run: |
+          # Browsers cache static assets immutably per ?v= URL, so a new
+          # articles-data.js behind the same ?v= would keep serving the old
+          # file. Bump ?v= only when the articles file actually changed.
+          if git diff --quiet js/articles-data.js; then
+            echo "articles unchanged, keeping ?v="
+          else
+            NEWV="fa-$(date -u +%Y%m%d%H%M)"
+            echo "bumping ?v= to $NEWV"
+            find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
+          fi
       - name: Commit if changed
         run: |
           git config user.name "Msohaib012"
           git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js
+          git add js/articles-data.js api-news.json api-trends.json out/publish-export.json
+          git add -A -- '*.html'
           if ! git diff --cached --quiet; then
             git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git pull --rebase
