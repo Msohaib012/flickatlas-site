@@ -2,32 +2,30 @@
  "today_pkt": "2026-10-25",
  "sources": 139,
  "status": {
-  "ok": 81,
-  "unchanged": 39,
+  "ok": 77,
+  "unchanged": 43,
   "error": 17,
   "baseline": 2
  },
- "queue_total": 7,
- "stories_total": 7,
+ "queue_total": 4,
+ "stories_total": 4,
  "duplicates_removed": 0,
  "categories": {
-  "Box Office": 1,
+  "Box Office": 0,
   "Awards": 0,
   "Trailers": 0,
   "Music / OST": 0,
-  "Episodes": 1,
+  "Episodes": 0,
   "Upcoming releases": 0,
   "OTT / Streaming": 0,
   "TV & Dramas": 0,
   "Celebrity news & events": 0,
-  "Movies": 5,
+  "Movies": 4,
   "Entertainment viral": 0
  },
  "dropped": {
   "section-page": 46,
-  "slug-title": 3,
-  "no-date": 1,
-  "sports-section": 1
+  "no-date": 1
  },
  "per_source": [
   {
@@ -60,10 +58,10 @@
   },
   {
    "source": "Koimoi",
-   "status": "ok",
-   "new": 1,
-   "total": 20,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "NRIPage",
@@ -131,7 +129,7 @@
   {
    "source": "Hindustan Times — Entertainment",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -277,10 +275,10 @@
   },
   {
    "source": "FirstShowing.net",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 20,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "IMDb",
@@ -431,10 +429,10 @@
   },
   {
    "source": "Gold Derby",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 12,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "AwardsWatch",
@@ -502,7 +500,7 @@
   {
    "source": "ARY Digital HD (YouTube)",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 15,
    "note": ""
   },
@@ -551,7 +549,7 @@
   {
    "source": "Green TV Entertainment (YouTube)",
    "status": "ok",
-   "new": 0,
+   "new": 2,
    "total": 15,
    "note": ""
   },
@@ -760,10 +758,10 @@
   },
   {
    "source": "Radio Times",
-   "status": "ok",
-   "new": 2,
-   "total": 30,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "TellyMix",
@@ -824,7 +822,7 @@
   {
    "source": "TMZ",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 20,
    "note": ""
   },
