@@ -1,24 +1,52 @@
 {
   "connected": true,
-  "generated": "2026-10-25T22:55:37Z",
+  "generated": "2026-10-25T23:55:32Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 2,
+    "pageviews": 2,
+    "sessions": 2,
+    "avg_session_seconds": 4.7
   },
   "last7": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 2,
+    "pageviews": 2,
+    "sessions": 2,
+    "avg_session_seconds": 4.7
   },
-  "top_pages": [],
-  "sources": [],
-  "countries": [],
-  "devices": [],
+  "top_pages": [
+    {
+      "path": "/",
+      "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
+      "views": 2,
+      "avg_time_seconds": 4.7
+    }
+  ],
+  "sources": [
+    {
+      "source": "(direct)",
+      "medium": "(none)",
+      "sessions": 2,
+      "users": 2
+    }
+  ],
+  "countries": [
+    {
+      "country": "",
+      "users": 1
+    },
+    {
+      "country": "Pakistan",
+      "users": 1
+    }
+  ],
+  "devices": [
+    {
+      "device": "mobile",
+      "users": 2
+    }
+  ],
   "per_post": {}
 }
