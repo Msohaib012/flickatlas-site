@@ -7,8 +7,15 @@ already clustered by scripts/fetch.py), and for each NEW story:
      each run writes only 2 posts, so queue order alone means the tail is
      never even read. First, ONE Gemini call ranks the newest RANK_COUNT
      unprocessed headlines by newsworthiness (title/source/category/
-     published only — no article fetch). The write loop then processes
-     in ranked order. A failed/empty ranking falls back to queue order.
+     published only — no article fetch) AND groups stories about the
+     SAME event (semantic dedup: same story different wording, different
+     title same information, or same title+information different writing
+     = one group; same title different information = different groups).
+     Each group's representative (highest-ranked member) is processed;
+     the other members are recorded in out/processed.json as duplicates
+     (never retried, never counted in the daily cap). The write loop
+     then processes in ranked order. A failed/empty ranking falls back
+     to queue order; missing/invalid groups skip dedup only.
   1. Computes a FACT fingerprint (film/person + day + rupee amounts + date)
      from the title/URL — NOT the wording — so two differently-worded
      articles about the same film+day+amount share one fingerprint.
@@ -247,13 +254,19 @@ ARTICLE_SCHEMA = {
 }
 
 # RANK stage schema: Gemini returns the candidate indices ordered most
-# newsworthy first. Indices refer to the numbered list in RANK_PROMPT.
+# newsworthy first, plus "groups" of indices about the SAME story
+# (semantic dedup — the script's fingerprint only sees titles/numbers,
+# Gemini's brain sees meaning). Indices refer to the numbered list in
+# RANK_PROMPT. Every candidate index appears in exactly one group; a
+# story with no duplicate is a group of one.
 RANK_SCHEMA = {
     "type": "object",
     "properties": {
         "ranked": {"type": "array", "items": {"type": "integer"}},
+        "groups": {"type": "array", "items": {"type": "array",
+                                               "items": {"type": "integer"}}},
     },
-    "required": ["ranked"],
+    "required": ["ranked", "groups"],
 }
 
 
@@ -337,9 +350,16 @@ magazine (Bollywood, Pakistani dramas, Hollywood, world cinema).
 
 Below are {n} fresh entertainment stories (title, outlet, category,
 publish time). Rank them by NEWSWORTHINESS — most newsworthy first.
-Return ONLY the ranked list of indices as JSON:
-{{"ranked": [3, 0, 12, ...]}} — every index exactly once, most
-newsworthy first.
+Return ONLY JSON with two fields:
+{{"ranked": [3, 0, 12, ...], "groups": [[3, 7], [0], [12, 5], ...]}}
+- "ranked": every index exactly once, most newsworthy first.
+- "groups": group stories about the SAME event/story together, even if
+  the title wording differs. Same title but DIFFERENT information =
+  different groups. Different title but SAME information = same group.
+  Same title and same information, only different writing = same group.
+  Within a group, list the strongest/most complete version first.
+  Every candidate index appears in exactly one group; a story with no
+  duplicate is a group of one.
 
 Rank HIGH:
 - Big films / big stars, box-office numbers (day collections, records,
@@ -349,8 +369,9 @@ Rank HIGH:
 Rank LOW:
 - Routine gossip, minor celebrity quotes, repetitive updates on the
   same story, clickbait-style speculation, low-value viral clips.
-- Stories that look like duplicates of each other (keep the strongest
-  one high, push the rest down).
+- Stories that look like duplicates of each other — group them together
+  (the "groups" field handles this); keep the strongest version first
+  in its group.
 
 Stories:
 {items}
@@ -391,10 +412,21 @@ def _published_ts(item):
 
 
 def rank_stories(keys, candidates):
-    """One Gemini call ranking candidate items by newsworthiness.
-    Returns the candidate list reordered best-first, or None on failure
-    (the caller then falls back to queue order). Candidates Gemini omits
-    from its answer go last, in newest-first order."""
+    """One Gemini call ranking candidate items by newsworthiness AND
+    grouping stories about the same event (semantic dedup — the script's
+    fingerprint only sees titles/numbers, Gemini's brain sees meaning).
+    Returns (ordered, dup_pairs):
+    - ordered: the candidate list reordered best-first, with each
+      duplicate group's representative only (representative = the group
+      member ranked highest). Candidates Gemini omits from 'ranked' go
+      last, in newest-first order.
+    - dup_pairs: [(duplicate_item, representative_item), ...] for every
+      non-representative group member, so the caller can record them as
+      processed duplicates.
+    Returns (None, []) on ranking failure (caller falls back to queue
+    order). When 'groups' is missing/empty/invalid but 'ranked' is fine,
+    dedup is skipped and (ordered, []) is returned — ranking order kept,
+    no item dropped."""
     lines = []
     for i, item in enumerate(candidates):
         lines.append(
@@ -406,7 +438,7 @@ def rank_stories(keys, candidates):
                                                   items="\n".join(lines)),
                          schema=RANK_SCHEMA, max_tokens=1024)
     if not result:
-        return None
+        return None, []
     ranked = result.get("ranked") or []
     seen, order = set(), []
     for idx in ranked:
@@ -416,11 +448,45 @@ def rank_stories(keys, candidates):
             seen.add(idx)
             order.append(idx)
     if not order:
-        return None
+        return None, []
     for i in range(len(candidates)):
         if i not in seen:
             order.append(i)
-    return [candidates[i] for i in order]
+    ordered = [candidates[i] for i in order]
+    # Semantic dedup: parse "groups". A missing/empty/invalid groups
+    # field skips dedup — ranking order is kept, nothing is dropped.
+    groups = result.get("groups")
+    if not isinstance(groups, list) or not groups:
+        return ordered, []
+    rank_pos = {idx: pos for pos, idx in enumerate(order)}
+    group_of, rep_of = {}, {}
+    gid = 0
+    for group in groups:
+        if not isinstance(group, list):
+            continue
+        members = []
+        for idx in group:
+            if (isinstance(idx, int) and not isinstance(idx, bool)
+                    and 0 <= idx < len(candidates)
+                    and idx not in group_of and idx not in members):
+                members.append(idx)
+        if not members:
+            continue
+        rep = min(members, key=lambda i: rank_pos[i])
+        for idx in members:
+            group_of[idx] = gid
+        rep_of[gid] = rep
+        gid += 1
+    if not rep_of:
+        return ordered, []
+    ordered, dup_pairs = [], []
+    for idx in order:
+        if idx not in group_of or idx == rep_of[group_of[idx]]:
+            ordered.append(candidates[idx])
+        else:
+            dup_pairs.append((candidates[idx],
+                              candidates[rep_of[group_of[idx]]]))
+    return ordered, dup_pairs
 
 
 def resolve_tmdb_id(film, api_key):
@@ -539,12 +605,15 @@ def main():
     print(f"queue: {len(queue)} stories | already processed: {len(processed)}")
 
     # Daily cap: count what this pipeline already published today (UTC).
-    # Quality-rejected fingerprints do not count — they were never published.
+    # Quality-rejected fingerprints do not count — they were never
+    # published. Neither do semantic duplicates — they are the same story
+    # as a published item, recorded only so they are never retried.
     today = time.strftime("%Y-%m-%d", time.gmtime())
     today_count = sum(
         1 for rec in processed.values()
         if str(rec.get("processed_at", ""))[:10] == today
-        and not rec.get("quality_rejected"))
+        and not rec.get("quality_rejected")
+        and not rec.get("duplicate"))
     if today_count >= daily_cap:
         print(f"daily cap reached ({today_count}/{daily_cap} today) — "
               "nothing to publish, skipping batch.")
@@ -572,11 +641,30 @@ def main():
             print(f"rank: {len(pending)} unprocessed, ranking newest "
                   f"{len(candidates)}")
             gemini_calls += 1
-            ranked = rank_stories(keys, candidates)
+            ranked, dup_pairs = rank_stories(keys, candidates)
             if ranked:
-                ranked_ids = {id(it) for it in ranked}
+                # Semantic dedup: these are the same story as a
+                # higher-ranked item (different wording). Record them as
+                # processed duplicates so they are never retried and never
+                # count toward the daily cap. Their representative stays
+                # in the queue and is processed normally.
+                excluded_ids = {id(it) for it in ranked}
+                if dup_pairs:
+                    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+                    for dup, rep in dup_pairs:
+                        fp = fingerprint(dup)
+                        if fp not in processed:
+                            processed[fp] = {
+                                "url": dup.get("url"),
+                                "title": dup.get("title"),
+                                "duplicate": True,
+                                "duplicate_of": rep.get("url"),
+                                "processed_at": now,
+                            }
+                        excluded_ids.add(id(dup))
+                    print(f"rank: {len(dup_pairs)} duplicate(s) recorded")
                 ordered = ranked + [it for it in queue
-                                   if id(it) not in ranked_ids]
+                                   if id(it) not in excluded_ids]
                 print(f"rank: order set, top: "
                       f"{(ranked[0].get('title') or '')[:60]}")
             else:
