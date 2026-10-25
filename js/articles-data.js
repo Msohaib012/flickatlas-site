@@ -185,6 +185,87 @@ window.FA_ARTICLES = {
   },
   "published": "2026-10-24T20:56:36.679Z"
  },
+ "8p755o": {
+  "id": "8p755o",
+  "type": "news",
+  "headline": "Rajinikanth's Jailer 2 Surges on Day 10 as Worldwide Gross Nears ₹670 Crore",
+  "dek": "The Tamil action sequel Jailer 2 experienced a significant 66.6% revenue jump on its second Saturday, pushing its cumulative domestic net collections to ₹373 crore according to tracking data.",
+  "body": [
+   {
+    "h": "Box Office Recovery and Milestone Earnings",
+    "p": [
+     "Jailer 2 experienced a notable revenue recovery on Saturday, October 24, following a decline in earnings during the previous day. According to tracking figures from Sacnilk, the Tamil-language film collected an estimated ₹24.15 crore net in India on Day 10, representing a 66.6% increase compared to the ₹14.50 crore earned on Day 9.",
+     "With these latest figures factored in, the cumulative domestic net collection for the feature has reached an estimated ₹373 crore. Simultaneously, the domestic gross collection has advanced to ₹436.80 crore over the same ten-day theatrical span."
+    ]
+   },
+   {
+    "h": "International Performance and Global Totals",
+    "p": [
+     "The theatrical run extends globally, with the Nelson Dilipkumar directorial pulling in an additional ₹10 crore in overseas gross during its tenth day in cinemas. This international contribution elevated the film's total overseas gross to ₹229.50 crore.",
+     "Combined with domestic figures, the worldwide gross for Jailer 2 has climbed to an estimated ₹666.30 crore as it approaches the ₹670 crore milestone. The production originally opened worldwide on October 15."
+    ]
+   },
+   {
+    "h": "Language-Wise Breakdown of Domestic Earnings",
+    "p": [
+     "Domestic revenue on Saturday was led predominantly by the Tamil version, which contributed ₹16.25 crore net across 5,545 shows while maintaining an occupancy rate of 46.2%. The Telugu edition brought in an estimated ₹4.40 crore from 1,835 shows, registering a 38.4% occupancy level.",
+     "Meanwhile, the Hindi version generated ₹2.90 crore net from 4,008 shows with a 20% occupancy rate. The Kannada language run added a further ₹60 lakh from 203 shows, marking a 41% occupancy rate for the territory."
+    ]
+   },
+   {
+    "h": "Theatrical Trajectory and First-Week Run",
+    "p": [
+     "The feature debuted on October 15 with a strong opening day of ₹59.70 crore net in India. Following the launch, daily domestic earnings saw fluctuations, moving from ₹37.10 crore on Friday, October 16, to ₹47.25 crore on Saturday and ₹55.85 crore on Sunday.",
+     "Subsequent weekday numbers included ₹42.35 crore on Monday and ₹46.80 crore on Tuesday, before descending to ₹28.15 crore on Wednesday. By the end of its first full week in cinemas, the film had accumulated a domestic net total of ₹334.35 crore."
+    ]
+   },
+   {
+    "h": "Cast, Crew, and Sequel Context",
+    "p": [
+     "Jailer 2 serves as a direct sequel to the 2023 release Jailer, with lead actor Rajinikanth reprising his celebrated role as the retired jailer Tiger Muthuvel Pandian. Returning cast members from the original installment include Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik.",
+     "The expanded ensemble cast also features S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan. The project is written and directed by Nelson Dilipkumar, produced by Kalanithi Maran under the Sun Pictures banner, and features a musical score composed by Anirudh Ravichander."
+    ]
+   }
+  ],
+  "facts": [
+   "Jailer 2 collected an estimated ₹24.15 crore net in India on Day 10 according to Sacnilk.",
+   "The Day 10 figures represent a 66.6% increase from the ₹14.50 crore earned on Day 9.",
+   "The film's cumulative domestic net collection reached ₹373 crore after ten days.",
+   "The worldwide gross for Jailer 2 climbed to ₹666.30 crore.",
+   "International collections added ₹10 crore on Day 10, bringing the overseas total to ₹229.50 crore.",
+   "The Tamil version earned ₹16.25 crore net from 5,545 shows with a 46.2% occupancy rate.",
+   "The Telugu version brought in ₹4.40 crore from 1,835 shows with a 38.4% occupancy rate.",
+   "The Hindi version collected ₹2.90 crore from 4,008 shows with a 20% occupancy rate.",
+   "The Kannada version added ₹60 lakh from 203 shows with a 41% occupancy rate.",
+   "The feature originally opened in theatres worldwide on October 15 with a ₹59.70 crore net opening day in India.",
+   "First-week India net collections for the film stood at ₹334.35 crore.",
+   "Rajinikanth reprises his role as Tiger Muthuvel Pandian in the sequel directed by Nelson Dilipkumar and produced by Kalanithi Maran under Sun Pictures."
+  ],
+  "entities": {
+   "titles": [
+    "Jailer 2",
+    "Jailer"
+   ],
+   "people": [
+    "Rajinikanth",
+    "Nelson Dilipkumar",
+    "Ramya Krishnan",
+    "Yogi Babu",
+    "Mirnaa",
+    "Rithvik",
+    "S. J. Suryah",
+    "Mithun Chakraborty",
+    "Suraj Venjaramoodu",
+    "Vidya Balan",
+    "Kalanithi Maran",
+    "Anirudh Ravichander",
+    "Vijay Kartik Kannan",
+    "R. Nirmal",
+    "Sharath Bose"
+   ]
+  },
+  "published": "2026-10-25T12:15:33.206Z"
+ },
  "y0ok9r": {
   "id": "y0ok9r",
   "type": "news",
