@@ -29,6 +29,7 @@
   function mount(host, options = {}) {
     if (!host) return { update() {}, destroy() {} };
     const stateKey = options.homepage ? "bo" : "f";
+    const limit = options.limit || 8;
     let generation = 0, industry = options.industry || new URLSearchParams(location.search).get(stateKey) || "bollywood";
     if (!["bollywood", "international"].includes(industry)) industry = "bollywood";
     const labels = { bollywood: "Bollywood", international: "International" };
@@ -39,7 +40,7 @@
     function shell() {
       const heading = options.heading === "h1" ? "h1" : "h2";
       const rates = typeof FA_RATES !== "undefined" ? FA_RATES : null;
-      host.innerHTML = `<section class="fa-box-latest${options.homepage ? ' fa-box-latest--home' : ''}" aria-label="Latest movie collections"><div class="fa-box-latest-head"><div><p class="fa-box-latest-kicker">Latest 8 released movies</p>${options.homepage ? '' : `<${heading}>${esc(options.title || "Box Office")}</${heading}>`}<p>Newest releases first, from the available catalogue. Missing figures are marked “Not reported”.</p></div><div class="fa-box-latest-tools"><nav aria-label="Latest box office industry">${Object.entries(labels).map(([k,v]) => `<a href="/box-office?f=${k}" data-fa-ind="${k}" class="${industry === k ? "on" : ""}"${industry === k ? ' aria-current="true"' : ''}>${v}</a>`).join('')}</nav></div></div><p class="fa-box-latest-window">Today: <b>${date(today)}</b> (UTC) · Last 7 days: <b>${date(start)} – ${date(today)}</b></p><p class="fa-box-latest-status" role="status">Loading latest released movies…</p><div class="fa-box-latest-grid" aria-live="polite"></div><details class="fa-box-latest-rates"><summary>About figures &amp; currency</summary><p>Today and 7-day values sum only valid reported daily records. Missing days are excluded, not counted as zero; a partial reported sum is not a complete seven-day total. Daily-record territory and net/gross basis are not supplied. Lifetime is the separately reported worldwide gross, never a sum of incomplete daily records. Catalogue coverage is limited to available releases in the last three months; this is not an exhaustive industry ranking.</p>${rates ? `<p>Display conversion: $1 = ₹${esc(rates.INR)} / Rs ${esc(rates.PKR)} · reference rates as of ${esc(rates.asOf)}. Source amounts remain in USD.</p>` : ''}</details></section>`;
+      host.innerHTML = `<section class="fa-box-latest${options.homepage ? ' fa-box-latest--home' : ''}" aria-label="Latest movie collections"><div class="fa-box-latest-head"><div><p class="fa-box-latest-kicker">Latest ${limit} released ${limit === 1 ? "movie" : "movies"}</p>${options.homepage ? '' : `<${heading}>${esc(options.title || "Box Office")}</${heading}>`}<p>Newest releases first, from the available catalogue. Missing figures are marked “Not reported”.</p></div><div class="fa-box-latest-tools"><nav aria-label="Latest box office industry">${Object.entries(labels).map(([k,v]) => `<a href="/box-office?f=${k}" data-fa-ind="${k}" class="${industry === k ? "on" : ""}"${industry === k ? ' aria-current="true"' : ''}>${v}</a>`).join('')}</nav></div></div><p class="fa-box-latest-window">Today: <b>${date(today)}</b> (UTC) · Last 7 days: <b>${date(start)} – ${date(today)}</b></p><p class="fa-box-latest-status" role="status">Loading latest released movies…</p><div class="fa-box-latest-grid" aria-live="polite"></div><details class="fa-box-latest-rates"><summary>About figures &amp; currency</summary><p>Today and 7-day values sum only valid reported daily records. Missing days are excluded, not counted as zero; a partial reported sum is not a complete seven-day total. Daily-record territory and net/gross basis are not supplied. Lifetime is the separately reported worldwide gross, never a sum of incomplete daily records. Catalogue coverage is limited to available releases in the last three months; this is not an exhaustive industry ranking.</p>${rates ? `<p>Display conversion: $1 = ₹${esc(rates.INR)} / Rs ${esc(rates.PKR)} · reference rates as of ${esc(rates.asOf)}. Source amounts remain in USD.</p>` : ''}</details></section>`;
       host.querySelectorAll('[data-fa-ind]').forEach(a => a.addEventListener('click', e => {
         if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
         e.preventDefault(); update(a.dataset.faInd);
@@ -66,14 +67,14 @@
         for (let page = 1; page <= 3; page++) {
           const batch = await TMDB.discoverResults("movie", { ...params, page });
           candidates.push(...batch);
-          if (selectLatest(candidates, scope, today, cutoff).length >= 8 || batch.length < 20) break;
+          if (selectLatest(candidates, scope, today, cutoff).length >= limit || batch.length < 20) break;
         }
-        const picked = selectLatest(candidates, scope, today, cutoff);
+        const picked = selectLatest(candidates, scope, today, cutoff).slice(0, limit);
         const records = await Promise.all(picked.map(async m => {
           try { const d = await TMDB.details("movie", m.id); return d ? { ...m, ...d, release_date: validDate(d.release_date) ? d.release_date : m.release_date } : m; } catch (_) { return m; }
         }));
         if (run !== generation || !host.isConnected) return;
-        const sorted = selectLatest(records, scope, today, cutoff);
+        const sorted = selectLatest(records, scope, today, cutoff).slice(0, limit);
         if (!sorted.length) { status.textContent = `No released ${labels[scope]} movies are available in this catalogue window.`; return; }
         status.textContent = `${labels[scope]} · ${sorted.length} latest ${sorted.length === 1 ? "release" : "releases"} · newest first`;
         grid.innerHTML = sorted.map(m => {

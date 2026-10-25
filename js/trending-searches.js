@@ -103,6 +103,7 @@
     if (!host) throw new Error('TrendingSearches.mount requires a host element');
     options = options || {};
     const context = options.context || {};
+    const limit = options.limit || null;
     let generation = 0;
     async function load() {
       const current = ++generation;
@@ -112,7 +113,7 @@
         if (!response.ok) throw new Error('Trends request failed (' + response.status + ').');
         const data = await response.json();
         if (current !== generation || host.isConnected === false) return;
-        const items = data && Array.isArray(data.items) ? data.items : [];
+        const items = (data && Array.isArray(data.items) ? data.items : []).slice(0, limit || undefined);
         host.innerHTML = render(items, context, data && data.generated);
         const button = host.querySelector('.trend-groups__refresh');
         if (button) button.addEventListener('click', load);

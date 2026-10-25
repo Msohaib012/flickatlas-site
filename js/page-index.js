@@ -70,7 +70,7 @@
     const heroSlides = [];
     const dwData = window.FA_DAYWISE || {};
     for (const [dwId, rows] of Object.entries(dwData)) {
-      if (!Array.isArray(rows) || !rows.length || heroSlides.length >= 4) continue;
+      if (!Array.isArray(rows) || !rows.length || heroSlides.length >= 1) continue;
       try {
         const d = await TMDB.details("movie", dwId);
         if (!d || !d.backdrop_path) continue;
@@ -80,7 +80,7 @@
       } catch (e) {}
     }
     for (const x of bollyPop) {
-      if (heroSlides.length >= 4) break;
+      if (heroSlides.length >= 1) break;
       if (!x.backdrop_path) continue;
       if (heroSlides.some(s => String(s.d.id) === String(x.id))) continue;
       heroSlides.push({ d: x, live: false });
@@ -151,11 +151,11 @@
     const bollyReleased = bollyPop.filter(x => (x.release_date || "") <= today && x.release_date);
     const bollySoon = bollyUpcoming.filter(x => x && x.poster_path && x.release_date > today);
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","International / Hollywood"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
-    const bollyHtml = `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${scrollerOf(bollyReleased, "movie", false, 20)?.replace(/^<div class="scroller">|<\/div>$/g,"") || ""}</div></section>`;
-    const bollySoonHtml = `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Ranked by TMDB popularity, not release date or audience demand; dates may change.</p><div class="scroller" data-results>${bollySoon.slice(0,20).map((x,i)=>UI.posterCard(x,"movie","",i+1)).join("")}</div></section>`;
+    const bollyHtml = `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${scrollerOf(bollyReleased, "movie", false, 1)?.replace(/^<div class="scroller">|<\/div>$/g,"") || ""}</div></section>`;
+    const bollySoonHtml = `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Ranked by TMDB popularity, not release date or audience demand; dates may change.</p><div class="scroller" data-results>${bollySoon.slice(0,1).map((x,i)=>UI.posterCard(x,"movie","",i+1)).join("")}</div></section>`;
 
     /* ---------- Global daily trending — preserve TMDB API worldwide order. */
-    const mixed = (trendDay || []).filter(x => x && x.poster_path).slice(0, 20);
+    const mixed = (trendDay || []).filter(x => x && x.poster_path).slice(0, 1);
     const mixedHtml = rowSection("Trending Worldwide", "/movies?f=all&seeall=1",
       mixed.length ? `<div class="scroller">${mixed.map((x, i) => UI.posterCard(x, "movie", UI.industryTag(x), i + 1)).join("")}</div>` : "",
       "Worldwide titles trending today; ordered by the feed.",
@@ -168,7 +168,7 @@
        UI.celebTodaySection), otherwise the honest fallback below.
        Spotlight = TMDB popularity (the most popular names + their latest
        work) and is NEVER labelled "today" (§14 honesty rule). ---------- */
-    const spotlight = people.slice(0, 8).map(p => {
+    const spotlight = people.slice(0, 1).map(p => {
       const kf = (p.known_for || []).slice()
         .sort((a, b) => (b.release_date || b.first_air_date || "").localeCompare(a.release_date || a.first_air_date || ""))[0];
       const line = kf
@@ -235,7 +235,7 @@
     }
     const upList = [];
     for (const date of [...upByDay.keys()].sort()) {
-      if (upList.length >= 16) break;
+      if (upList.length >= 1) break;
       const dayItems = upByDay.get(date)
         .sort((a, b) => ((b.x.original_language === "hi") - (a.x.original_language === "hi"))
           || ((b.x.popularity || 0) - (a.x.popularity || 0))).slice(0, 3);
@@ -266,7 +266,7 @@
       const host = document.getElementById("homeNews");
       if (!host) return;
       const briefsFallback = () => {
-        const items = nowPlaying.filter(m => m.poster_path).slice(0, 3);
+        const items = nowPlaying.filter(m => m.poster_path).slice(0, 1);
         if (!items.length) { host.remove(); return; }
         host.innerHTML = `<div class="section-head"><h2>Latest Updates</h2>
           <a class="see-all" href="/news">See All →</a></div>
@@ -290,7 +290,7 @@
            group newest first. Ten rows: this block carries weight. */
         const rank = (x) => (x.cats || []).includes("bollywood") ? 0 : (x.cats || []).includes("celebrity") ? 1 : 2;
         const items = allItems.slice()
-          .sort((a, b) => rank(a) - rank(b) || (b.ts || 0) - (a.ts || 0)).slice(0, 10);
+          .sort((a, b) => rank(a) - rank(b) || (b.ts || 0) - (a.ts || 0)).slice(0, 1);
         /* Viral stream mixes into Trending News (correction 7): if a
            viral item exists and none made the top rows, it takes the
            last slot — labelled by its Viral tag on the news hub. */
@@ -324,7 +324,7 @@
     const lollyLatest = mergeLatest(
       (lollyM || []).filter(UI.isFresh), (lollyT || []).filter(UI.isFresh),
       [...(lollyUr || []), ...(lollyMP || [])].filter(UI.isFresh),
-      (lollyTP || []).filter(UI.isFresh)).slice(0, 8);
+      (lollyTP || []).filter(UI.isFresh)).slice(0, 1);
     /* Note: the PK *drama* rail below is filled from the channel pool
        (PK.pool) after first paint — see fillPkSections. */
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
@@ -352,7 +352,7 @@
     const fillPkSections = async () => {
       const rail = document.getElementById("homePk");
       const strip = document.getElementById("homeEpStrip");
-      if (strip && window.EpisodeBrowser) EpisodeBrowser.mount(strip.querySelector("#homeEpisodeBrowser"), {region:"all", limit:5, showFilters:false}).catch(() => {});
+      if (strip && window.EpisodeBrowser) EpisodeBrowser.mount(strip.querySelector("#homeEpisodeBrowser"), {region:"all", limit:1, showFilters:false}).catch(() => {});
       try {
         if (!window.PK) throw new Error("pk pool unavailable");
         let pool = await PK.pool().catch(() => []);
@@ -367,7 +367,7 @@
           rail.innerHTML = `<div class="section-head"><h2>Pakistani YouTube Dramas — Latest</h2>
             <a class="see-all" href="/episode-guides">Episode Guides →</a></div>
             <p class="sec-sub">Currently running dramas from HUM TV, ARY Digital, Geo TV and Green TV; open a card for details.</p>
-            <div class="scroller">${pool.slice(0, 6).map(r => {
+            <div class="scroller">${pool.slice(0, 1).map(r => {
               const le = r.lastEp;
               const tag = le ? `${r.channel} · Episode ${le.episode_number}` : r.channel;
               return UI.posterCard(r.item, "tv", tag);
@@ -394,7 +394,7 @@
         }
       } catch (e) {
         /* fallback: the plain latest-dramas rail (date-desc pool) */
-        const ytDramas = (lollyT || []).filter(s => s.poster_path && UI.isFresh(s)).slice(0, 8);
+        const ytDramas = (lollyT || []).filter(s => s.poster_path && UI.isFresh(s)).slice(0, 1);
         if (rail) {
           if (ytDramas.length) {
             rail.innerHTML = `<div class="section-head"><h2>Pakistani YouTube Dramas — Latest</h2>
@@ -408,7 +408,7 @@
     };
 
     const kdramaHtml = rowSection("K-Drama Corner", "/category?cat=kdrama",
-      scrollerOf(kdrama.slice(0, 6), "tv", false),
+      scrollerOf(kdrama.slice(0, 1), "tv", false),
       "Recent Korean dramas; cast and episode details vary by available data.",
       "kdrama");
 
@@ -422,8 +422,6 @@
       <p class="sec-sub">Organiser-confirmed dates only.</p>
       <div class="tl-list">${[
         ["2026-11-15", "Governors Awards", "Honorary Oscars · Ray Dolby Ballroom, Hollywood"],
-        ["2027-01-10", "Golden Globe Awards", "84th edition · Host: Nikki Glaser · Beverly Hilton, Beverly Hills"],
-        ["2027-03-14", "Academy Awards — The Oscars", "99th edition · Host: Conan O'Brien · Dolby Theatre, Hollywood"],
       ].map(([dt, nm, note]) => `
         <a class="tl-row" href="/awards">
           <span class="tl-date"><b>${parseInt(dt.slice(8, 10), 10)}</b><span>${["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][parseInt(dt.slice(5, 7), 10) - 1]}</span></span>
@@ -464,7 +462,7 @@
       <a class="see-all" href="/ott">See All →</a></div>
       <p class="sec-sub">India arrivals this week; platform data may be unavailable.</p>
       <div class="sk" style="height:120px;border-radius:14px"></div></section>`;
-    const fillOtt = () => FlickAtlasOTT.mount(document.getElementById("homeOtt"), {heading:true,limit:4});
+    const fillOtt = () => FlickAtlasOTT.mount(document.getElementById("homeOtt"), {heading:true,limit:1});
     /* ---------- explore tiles: every category, one clean grid ---------- */
     const TILES = [
       ["Movies", "Every film worth knowing — cast, story, budget and box office.", "/movies"],
@@ -551,15 +549,15 @@
         link.href=kind==="spotlight"?`/movies?f=${industry}&s=recent&seeall=1`:kind==="soon"?`/most-awaited?f=${industry}`:`/upcoming?f=${industry}&s=nearest&seeall=1`;
         section.querySelector(".sec-sub").textContent=kind==="spotlight"?"Browse released movies, newest first · "+industryLabel(industry):kind==="soon"?"Upcoming titles ranked by TMDB popularity, not by release date · "+industryLabel(industry):"Announced film and series dates, nearest first · "+industryLabel(industry);
         if(industry==="bollywood"){
-          if(kind==="spotlight")result.innerHTML=bollyReleased.slice(0,20).map(x=>UI.posterCard(x,"movie","")).join("");
-          else if(kind==="soon")result.innerHTML=bollySoon.slice(0,16).map(x=>UI.posterCard(x,"movie","")).join("");
+          if(kind==="spotlight")result.innerHTML=bollyReleased.slice(0,1).map(x=>UI.posterCard(x,"movie","")).join("");
+          else if(kind==="soon")result.innerHTML=bollySoon.slice(0,1).map(x=>UI.posterCard(x,"movie","")).join("");
           else result.innerHTML=upList.length?upList.map(({x,type,date})=>calendarRow(x,type,date)).join(""):'<p role="status">No confirmed Bollywood releases found in this window.</p>';
           if(!result.innerHTML)result.innerHTML='<p role="status">No matching titles found.</p>';return;
         }
         result.innerHTML='<p role="status">Loading verified release data…</p>';
         try{const from=TMDB.today(),to=new Date(Date.now()+(kind==="soon"?365:60)*864e5).toISOString().slice(0,10),items=await industryItems(industry,kind,from,to);if(token!==generation)return;
-          if(kind==="calendar")result.innerHTML=items.slice(0,16).map(x=>calendarRow(x,x.media_type,x.release_date||x.first_air_date)).join("");
-          else result.innerHTML=items.slice(0,kind==="spotlight"?20:16).map(x=>UI.posterCard(x,x.media_type,"")).join("");
+          if(kind==="calendar")result.innerHTML=items.slice(0,1).map(x=>calendarRow(x,x.media_type,x.release_date||x.first_air_date)).join("");
+          else result.innerHTML=items.slice(0,1).map(x=>UI.posterCard(x,x.media_type,"")).join("");
           if(!result.innerHTML)result.innerHTML='<p role="status">No matching releases found in the requested date window.</p>';
         }catch(e){if(token===generation)result.innerHTML='<p role="status">Release data could not be loaded. Please try again.</p>';}
       };
@@ -572,8 +570,9 @@
     fillBirthdays();
     fillOtt();
 
-    if (window.FABoxOffice) window.FABoxOffice.mount(document.getElementById("homeLatestBoxOffice"), { homepage: true });
+    if (window.FABoxOffice) window.FABoxOffice.mount(document.getElementById("homeLatestBoxOffice"), { homepage: true, limit: 1 });
     if (window.FATrendingSearches) window.FATrendingSearches.mount(document.getElementById("homeTrendingSearches"), {
+      limit: 1,
       context: { bollywood: bollyRecent.map(x => ({ ...x, _query_origin_country: "IN" })), international: trendAll, pakistan: [...lollyM, ...lollyT, ...lollyMP, ...lollyTP], kdrama, people },
       lookup: q => TMDB.searchMulti(q), details: (type, id) => TMDB.details(type, id)
     });
