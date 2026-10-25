@@ -30,7 +30,7 @@
       const s = document.createElement("script"); s.src = "/js/boxoffice-latest.js?v=fa-202610252145";
       s.onload = () => resolve(window.FABoxOffice); s.onerror = () => resolve(null); document.head.appendChild(s);
     });
-    if (ready) ready.mount(host, { industry: new URLSearchParams(location.search).get("f") || "bollywood", title: "Box Office", heading: "h1" });
+    if (ready) ready.mount(host, { industry: new URLSearchParams(location.search).get("f") || "bollywood", title: "Box Office", heading: "h1", limit: 1 });
   }
   /* Periods (correction 8): Today / 7 Days / 30 Days come only from
      engine day-wise data; Lifetime = the all-time gross rankings below.
