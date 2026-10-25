@@ -1,5 +1,57 @@
 /* Owner-approved public fields only; committed by FlickAtlas Studio. */
 window.FA_ARTICLES = {
+ "1f1w7kh": {
+  "id": "1f1w7kh",
+  "type": "news",
+  "headline": "Chef Damu, Veteran Culinary Personality and Tamil Film Actor, Passes Away at 72",
+  "dek": "Renowned Indian chef, Guinness record holder, Padma Shri awardee, and Cooku With Comali judge Damodharan Kothandaraman has died in Chennai at the age of 72.",
+  "body": [
+   {
+    "h": "Passing of a Culinary Icon",
+    "p": [
+     "Chef Damu, widely recognised across Tamil households through his television work, passed away on Sunday, October 25, 2026, at the age of 72. He had reportedly been undergoing medical treatment at a private hospital in Chennai following a period of illness.",
+     "His death has prompted widespread tributes from members of the film industry, television audiences, and the broader culinary community."
+    ]
+   },
+   {
+    "h": "Television and Film Career",
+    "p": [
+     "Born Damodharan Kothandaraman, Chef Damu became a familiar television personality through programmes such as Arusuvai Neram and Vijay TV's popular reality cooking show Cooku With Comali, where serving as a judge introduced him to mainstream audiences.",
+     "In addition to his television work, he appeared in Tamil feature films, with credits including Kallappadam in 2015 and Ulkuthu in 2017."
+    ]
+   },
+   {
+    "h": "Records and Honors",
+    "p": [
+     "Chef Damu earned a doctorate in Hotel Management and Catering Technology from the University of Madras in 2004, reportedly becoming the first Indian chef to achieve a PhD in the field. He also secured a Guinness World Record in December 2010 for completing the longest individual cooking marathon by preparing 617 dishes over 24 hours.",
+     "In recognition of his contributions to the culinary arts, he was conferred India's prestigious Padma Shri civilian honor in 2025."
+    ]
+   }
+  ],
+  "facts": [
+   "Chef Damu (Damodharan Kothandaraman) passed away on Sunday, October 25, 2026, at age 72.",
+   "He was receiving treatment at a private hospital in Chennai prior to his death.",
+   "He served as a judge on Vijay TV's reality cooking show Cooku With Comali.",
+   "He appeared in Tamil films including Kallappadam (2015) and Ulkuthu (2017).",
+   "He earned a PhD in Hotel Management and Catering Technology from the University of Madras in 2004.",
+   "He set a Guinness World Record in December 2010 by preparing 617 dishes during a 24-hour cooking marathon.",
+   "He was awarded the Padma Shri in 2025."
+  ],
+  "entities": {
+   "titles": [
+    "Cooku With Comali",
+    "Arusuvai Neram",
+    "Kallappadam",
+    "Ulkuthu"
+   ],
+   "people": [
+    "Chef Damu",
+    "Damodharan Kothandaraman",
+    "Sharath Bose"
+   ]
+  },
+  "published": "2026-10-25T11:02:13.828Z"
+ },
  "1iz2oit": {
   "id": "1iz2oit",
   "type": "news",
