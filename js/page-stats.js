@@ -29,8 +29,8 @@
   /* ---------- formatting (all times PKT) ---------- */
   const dayFmt = new Intl.DateTimeFormat("en-GB", { timeZone: "Asia/Karachi", day: "numeric", month: "short", year: "numeric" });
   const timeFmt = new Intl.DateTimeFormat("en-GB", { timeZone: "Asia/Karachi", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", hour12: false });
-  const fmtDay = (iso) => { const d = new Date(iso); return isNaN(d) ? "—" : dayFmt.format(d); };
-  const fmtTime = (iso) => { const d = new Date(iso); return isNaN(d) ? "—" : `${timeFmt.format(d)} PKT`; };
+  const fmtDay = (iso) => { if (!iso) return "—"; const d = new Date(iso); return isNaN(d) ? "—" : dayFmt.format(d); };
+  const fmtTime = (iso) => { if (!iso) return "—"; const d = new Date(iso); return isNaN(d) ? "—" : `${timeFmt.format(d)} PKT`; };
   const inMin = (iso) => {
     const ms = new Date(iso) - Date.now();
     if (isNaN(ms)) return "";
@@ -102,7 +102,7 @@
       <p class="sec-sub">Sources arrive, Gemini picks, posts go live — and when the next round runs. Updated ${fmtTime(pipe.generated)}.</p>
       <div class="content-card"><h2>Last runs</h2><dl class="facts-table">
         ${factRow("Last fetch", `${fmtTime(f.finished_at || f.started_at)} ${chip(f.status)}${runLink(f)}`)}
-        ${factRow("Sources", `${num(f.sources_total)} total · ${num(f.sources_ok)} ok · ${num(f.sources_error)} error · ${num(f.sources_unchanged)} unchanged`)}
+        ${factRow("Sources", `${num(f.sources_total)} total · ${num(f.sources_ok)} ok · ${num(f.sources_error)} error · ${num(f.sources_unchanged)} unchanged${f.sources_other ? ` · ${num(f.sources_other)} other` : ""}`)}
         ${factRow("Stories queued", `${num(f.stories_queued)}${f.stories_new ? ` · ${num(f.stories_new)} new this run` : ""}${f.duplicates_removed ? ` · ${num(f.duplicates_removed)} duplicates removed` : ""}`)}
         ${factRow("Last Gemini run", `${fmtTime(g.finished_at || g.generated_at || g.started_at)} ${chip(g.status)}${runLink(g)}`)}
         ${factRow("Gemini picked", `${num(g.picked)} stories${picks ? ` (${UI.esc(picks)})` : ""}${g.skipped ? ` · ${num(g.skipped)} skipped` : ""}`)}

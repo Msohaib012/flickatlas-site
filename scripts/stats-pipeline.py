@@ -168,6 +168,10 @@ def main():
         "sources_ok": int(rep_status.get("ok") or 0),
         "sources_error": int(rep_status.get("error") or 0),
         "sources_unchanged": int(rep_status.get("unchanged") or 0),
+        "sources_other": max(0, int(report.get("sources") or len(registry) or 0)
+                             - int(rep_status.get("ok") or 0)
+                             - int(rep_status.get("error") or 0)
+                             - int(rep_status.get("unchanged") or 0)),
         "stories_queued": int(report.get("queue_total") or len(queue) or 0),
         "stories_new": stories_new,
         "duplicates_removed": int(report.get("duplicates_removed") or 0),
