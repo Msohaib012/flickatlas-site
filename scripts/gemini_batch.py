@@ -12,7 +12,11 @@ already clustered by scripts/fetch.py), and for each NEW story:
   4. Calls Gemini (key rotation across GEMINI_API_KEY_1..5) with a
      structured-output schema: the draft article + its final category
      (one of the 11 pipeline categories) + optional box-office row.
-  5. Writes out/gemini-batch.json and updates out/processed.json.
+  5. Attaches an `images` array to each article (spec §5): the article's
+     main title's TMDB poster/backdrop (source "TMDB"), else the source
+     page's own og:image (source = the outlet NAME only). Empty when
+     no image is available — image URLs are never invented.
+  6. Writes out/gemini-batch.json and updates out/processed.json.
 
 The script has no brain: it only matches facts (names, days, amounts).
 Gemini is the only reader — it reads the full article and makes the final
@@ -46,6 +50,7 @@ OUT_DIR = os.environ.get("OUT_DIR", os.path.join(ROOT, "out"))
 
 MODEL = "gemini-3.5-flash-lite"
 INR_TO_USD = 94.65  # site FA_RATES (config.js)
+TMDB_IMG = "https://image.tmdb.org/t/p"  # same base as site CONFIG.IMG
 
 CATEGORIES = ["movies", "tv_dramas", "episodes", "box_office",
               "celebrities_events", "upcoming_releases", "ott_streaming",
@@ -111,14 +116,42 @@ def clean_text(html):
     return re.sub(r"\s+", " ", html).strip()
 
 
+def extract_page_image(html, base_url):
+    """The source page's own image (og:image / twitter:image), absolute URL.
+    Returns '' when the page carries no usable image. Only http(s) URLs
+    are accepted; relative paths are resolved against the article URL."""
+    if not html:
+        return ""
+    m = re.search(
+        r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']'
+        r'[^>]+content=["\']([^"\']+)["\']',
+        html, re.IGNORECASE)
+    if not m:
+        m = re.search(
+            r'<meta[^>]+content=["\']([^"\']+)["\']'
+            r'[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']',
+            html, re.IGNORECASE)
+    if not m:
+        return ""
+    url = urllib.parse.urljoin(base_url or "", m.group(1).strip())
+    if not url.lower().startswith(("http://", "https://")):
+        return ""
+    return url
+
+
 def fetch_article_text(url):
-    """Direct fetch with a browser UA; r.jina.ai fallback. Returns text or ''.
-    A 404/soft-404 page is treated as unreadable (no Gemini call, quota saved)."""
+    """Direct fetch with a browser UA; r.jina.ai fallback.
+    Returns (text, image_url): the article text (or '') and the source
+    page's og:image URL (or ''). A 404/soft-404 page is treated as
+    unreadable (no Gemini call, quota saved)."""
+    image = ""
     for target in (url, "https://r.jina.ai/" + url):
         try:
             req = urllib.request.Request(target, headers={"User-Agent": BROWSER_UA})
             with urllib.request.urlopen(req, timeout=20) as r:
                 raw = r.read().decode("utf-8", "ignore")
+            if not image:
+                image = extract_page_image(raw, url)
             text = clean_text(raw)
             if target.startswith("https://r.jina.ai/"):
                 text = re.sub(r"(?is)^title:.*?\n", "", text)
@@ -126,11 +159,11 @@ def fetch_article_text(url):
                 print(f"  fetch {target[:60]}: soft 404, trying next")
                 continue
             if len(text) >= 400:
-                return text[:12000]
+                return text[:12000], image
         except Exception as e:
             print(f"  fetch {target[:60]}: {e}")
             continue
-    return ""
+    return "", image
 
 
 # ---------------------------------------------------------------- quality gate
@@ -279,21 +312,89 @@ Source URL: {url}
 
 def resolve_tmdb_id(film, api_key):
     """Film name -> TMDB id via the TMDB search API. Returns str or ''."""
-    if not api_key or not film:
-        return ""
+    tmdb_id, _ = tmdb_search_title(film, api_key)
+    return tmdb_id
+
+
+def tmdb_search_title(name, api_key):
+    """Title name -> (TMDB id, media_type). Tries movie search first, then
+    TV search. Returns ("", "") when nothing matches. The search API is
+    authoritative here — Gemini's tmdb_id is never trusted for images,
+    so a hallucinated id can never attach the wrong film's poster."""
+    if not api_key or not name:
+        return "", ""
+    for media, path in (("movie", "search/movie"), ("tv", "search/tv")):
+        try:
+            q = urllib.parse.quote(name)
+            url = (f"https://api.themoviedb.org/3/{path}?api_key={api_key}"
+                   f"&query={q}&language=en-US&page=1")
+            req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                data = json.load(r)
+            results = data.get("results") or []
+            if results:
+                return str(results[0]["id"]), media
+        except Exception as e:
+            print(f"  tmdb lookup '{name}' ({media}): {e}")
+    return "", ""
+
+
+def tmdb_details(tmdb_id, media_type, api_key):
+    """TMDB details for one title (movie or tv). Returns the record dict
+    or None. Only poster_path / backdrop_path / title are used."""
+    if not api_key or not tmdb_id:
+        return None
+    kind = "tv" if media_type == "tv" else "movie"
     try:
-        q = urllib.parse.quote(film)
-        url = (f"https://api.themoviedb.org/3/search/movie?api_key={api_key}"
-               f"&query={q}&language=en-US&page=1")
+        url = (f"https://api.themoviedb.org/3/{kind}/{tmdb_id}"
+               f"?api_key={api_key}&language=en-US")
         req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
         with urllib.request.urlopen(req, timeout=20) as r:
-            data = json.load(r)
-        results = data.get("results") or []
-        if results:
-            return str(results[0]["id"])
+            return json.load(r)
     except Exception as e:
-        print(f"  tmdb lookup '{film}': {e}")
-    return ""
+        print(f"  tmdb details '{tmdb_id}' ({kind}): {e}")
+        return None
+
+
+def build_images(result, item, page_image, tmdb_key):
+    """The article's `images` array: [{url, caption, source}].
+    - The article's main title (box_office film, else first entities
+      title): its TMDB poster/backdrop, source "TMDB".
+    - Else the source page's own image (og:image), source = the outlet
+      NAME only (never a link, never a URL).
+    - Else [] — an image URL is never invented."""
+    bo = result.get("box_office") or {}
+    entities = result.get("entities") or {}
+    film = (bo.get("film") or "").strip()
+    if not film:
+        titles = [str(t).strip() for t in (entities.get("titles") or [])
+                  if str(t or "").strip()]
+        film = titles[0] if titles else ""
+    if film and tmdb_key:
+        tmdb_id, media = tmdb_search_title(film, tmdb_key)
+        if tmdb_id:
+            details = tmdb_details(tmdb_id, media, tmdb_key)
+            if details:
+                name = details.get("title") or details.get("name") or film
+                imgs = []
+                bd = details.get("backdrop_path") or ""
+                pp = details.get("poster_path") or ""
+                if bd:
+                    imgs.append({"url": f"{TMDB_IMG}/w1280{bd}",
+                                 "caption": name, "source": "TMDB"})
+                if pp:
+                    imgs.append({"url": f"{TMDB_IMG}/w500{pp}",
+                                 "caption": name, "source": "TMDB"})
+                if imgs:
+                    return imgs
+    # Fallback: the story's own image from the source page.
+    if page_image:
+        source_name = (item.get("source") or "").strip()
+        if source_name:
+            caption = (result.get("headline") or item.get("title") or "").strip()
+            return [{"url": page_image, "caption": caption[:120],
+                     "source": source_name}]
+    return []
 
 
 # ---------------------------------------------------------------- main
@@ -354,7 +455,7 @@ def main():
         title = item.get("title") or ""
         url = item.get("url") or ""
         print(f"[{len(articles)+1}/{batch_size}] {title[:80]}")
-        text = fetch_article_text(url)
+        text, page_image = fetch_article_text(url)
         if len(text) < 400:
             print("  source unreadable, skipping (no Gemini call, quota saved)")
             skipped.append({"url": url, "reason": "source-unreadable"})
@@ -387,6 +488,7 @@ def main():
             "body": result.get("body") or [],
             "facts": result.get("facts") or [],
             "entities": result.get("entities") or {"titles": [], "people": []},
+            "images": build_images(result, item, page_image, tmdb_key),
             "source_url": url,
             "source": item.get("source") or "",
             "published": item.get("published") or "",

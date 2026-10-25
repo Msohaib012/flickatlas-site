@@ -1,6 +1,12 @@
 /* FlickAtlas — Release Calendar (§3 calendar-native, §4 chips): movies + TV
    premieres in ONE dated, month-grouped list. Bollywood and World Cinema
-   are primary industries; format, month and legacy Pakistani scopes remain available. */
+   are primary industries; format, month and legacy Pakistani scopes remain available.
+   PUBLISHED-ONLY (2026-10-25 rebuild): every release comes from
+   window.FA_PUBLISHED entries whose release/air date is in the future —
+   TMDB is a data source, not a catalogue, so nothing is fetched live.
+   Trailer status comes from the baked-in `trailer` object (official
+   trailer only), never from a live videos call. Freshness rule does not
+   apply to upcoming (§7). */
 (async function () {
   UI.mountChrome("/upcoming");
   const main = document.getElementById("app");
@@ -107,21 +113,35 @@
   }
   const moreFilterMenu = moreFilterSel ? mountFilterMenu(moreFilterSel) : null;
 
-  let items = [];
+  /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
+     Upcoming = entries whose release/air date is in the future.
+     `industry` is baked (bollywood | pakistani | world); `trailer` is
+     the baked official trailer object (null when none exists). */
+  const today = new Date().toISOString().slice(0, 10);
+  const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
+  const items = Object.values(window.FA_PUBLISHED || {})
+    .filter(x => x && x.id && x.poster_path && dateOf(x) > today)
+    .map(x => ({ ...x, _date: dateOf(x) }))
+    .sort((a, b) => a._date.localeCompare(b._date)
+      || (b.published_at || "").localeCompare(a.published_at || ""))
+    .slice(0, 120);
+
   function render() {
     const ym = new Date().toISOString().slice(0, 7);
     const list = items.filter(x => {
-      if (f === "movies") return x._type === "movie";
-      if (f === "tv") return x._type === "tv";
-      if (f === "bollywood") return x._ind === "bollywood";
-      if (f === "pakistani") return x._ind === "pakistani";
-      if (f === "international") return x._ind === "international";
+      if (f === "movies") return x.type === "movie";
+      if (f === "tv") return x.type === "tv";
+      if (f === "bollywood") return x.industry === "bollywood";
+      if (f === "pakistani") return x.industry === "pakistani";
+      if (f === "international") return x.industry === "world";
       if (f === "month") return (x._date || "").slice(0, 7) === ym;
       return true;
     });
     fcount.textContent = list.length ? `${list.length} upcoming release${list.length === 1 ? "" : "s"}` : "";
     if (!list.length) {
-      wrap.innerHTML = UI.stateMsg("No upcoming releases match this filter right now.", false);
+      wrap.innerHTML = UI.stateMsg(items.length
+        ? "No upcoming releases match this filter right now."
+        : "No upcoming releases have been published yet.", false);
       return;
     }
     const groups = new Map();
@@ -135,16 +155,16 @@
     for (const [label, group] of groups) {
       html += `<section class="section"><div class="section-head"><h2>${UI.esc(label)}</h2></div>
         <div class="tl-list">${group.map(x => { const [, mm, dd] = x._date.split("-"); return `
-          <a class="tl-row" href="/${x._type === "tv" ? "show" : "movie"}?id=${x.id}#official-trailer">
+          <a class="tl-row" href="/${x.type === "tv" ? "show" : "movie"}?id=${x.id}#official-trailer">
             <span class="tl-date"><b>${dd ? parseInt(dd, 10) : "—"}</b><span>${mm ? MONTHS_S[parseInt(mm, 10) - 1] : ""}</span></span>
             <img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()">
             <span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b>
-            <span>${x._type === "tv" ? "Premieres " : ""}${UI.fmtDate(x._date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""} · ${x._trailerChecked ? (x._hasOfficialTrailer ? "Official trailer listed" : "No verified official trailer listed") : "Trailer not checked"}</span></span>
+            <span>${x.type === "tv" ? "Premieres " : ""}${UI.fmtDate(x._date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""} · ${x.trailer ? "Official trailer listed" : "No verified official trailer listed"}</span></span>
             <span class="tag-chip">${UI.esc(UI.industryTag(x))}</span>
           </a>`; }).join("")}
         </div></section>`;
     }
-    wrap.innerHTML = html || UI.stateMsg("No upcoming releases found right now.", false);
+    wrap.innerHTML = html || UI.stateMsg("No upcoming releases have been published yet.", false);
   }
   const chipHost = main.querySelector("#chipHost");
   const mainFilterHost = main.querySelector('[data-filter-scope="main"]');
@@ -182,44 +202,5 @@
     render();
   });
 
-  try {
-    const today = TMDB.today();
-    const winEnd = new Date(Date.now() + 60 * 864e5).toISOString().slice(0, 10);
-    /* Pool merge (correction 8d): theatrical upcoming + window discovers
-       (all movies, Hindi movies) + TV premieres by popularity over the
-       next 60 days — the old movies-only/date-asc pools left whole days
-       empty. Every day in the window that has releases now shows them. */
-    const [pages, winMovies, winHindi, winIn, winMAsc, tvP1, tvP2, tvP3, tvA1, tvA2] = await Promise.all([
-      Promise.all([1, 2, 3].map(p => TMDB.upcomingMovies(p).then(d => d.results || []).catch(() => []))),
-      TMDB.discoverResults("movie", { sort_by: "popularity.desc", "primary_release_date.gte": today, "primary_release_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("movie", { with_original_language: "hi", with_origin_country: "IN", sort_by: "popularity.desc", "primary_release_date.gte": today, "primary_release_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("movie", { region: "IN", sort_by: "popularity.desc", "primary_release_date.gte": today, "primary_release_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("movie", { sort_by: "primary_release_date.asc", "primary_release_date.gte": today, "primary_release_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("tv", { sort_by: "popularity.desc", "first_air_date.gte": today, "first_air_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("tv", { sort_by: "popularity.desc", page: 2, "first_air_date.gte": today, "first_air_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("tv", { sort_by: "popularity.desc", page: 3, "first_air_date.gte": today, "first_air_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("tv", { sort_by: "first_air_date.asc", "first_air_date.gte": today, "first_air_date.lte": winEnd }).catch(() => []),
-      TMDB.discoverResults("tv", { sort_by: "first_air_date.asc", page: 2, "first_air_date.gte": today, "first_air_date.lte": winEnd }).catch(() => []),
-    ]);
-    const seen = new Set();
-    const bollyIds = new Set(winHindi.map(x => String(x.id)));
-    const indOf = (x) => x.original_language === "hi" && (bollyIds.has(String(x.id)) || (x.origin_country || []).includes("IN") || (x.production_countries || []).some(c => c && c.iso_3166_1 === "IN")) ? "bollywood"
-      : (x.original_language === "ur" || (x.origin_country || []).includes("PK")) ? "pakistani"
-      : (["en","ko"].includes(x.original_language) || ["US","GB","CA","AU","KR"].some(c => (x.origin_country || []).includes(c))) ? "international" : "other";
-    const movies = [...pages.flat(), ...winMovies, ...winHindi, ...winIn, ...winMAsc]
-      .filter(m => m.release_date && m.release_date >= today && m.release_date <= winEnd && m.poster_path && !seen.has("m" + m.id) && seen.add("m" + m.id))
-      .map(m => ({ ...m, _type: "movie", _date: m.release_date, _ind: indOf(m) }));
-    const shows = [...tvP1, ...tvP2, ...tvP3, ...tvA1, ...tvA2]
-      .filter(s => s.first_air_date && s.first_air_date >= today && s.first_air_date <= winEnd && s.poster_path && !seen.has("t" + s.id) && seen.add("t" + s.id))
-      .map(s => ({ ...s, _type: "tv", _date: s.first_air_date, _ind: indOf(s) }));
-    items = [...movies, ...shows].sort((a, b) => a._date.localeCompare(b._date) || (b.popularity || 0) - (a.popularity || 0)).slice(0, 120);
-    await Promise.all(items.filter(x => x._type === "movie").slice(0, 8).map(async x => {
-      x._trailerChecked = true;
-      try { const d = await TMDB.api(`/movie/${x.id}/videos`); x._hasOfficialTrailer = (d.results || []).some(v => v && v.official === true && v.site === "YouTube" && v.type === "Trailer" && /^[A-Za-z0-9_-]{11}$/.test(v.key || "")); }
-      catch (e) { x._trailerChecked = false; }
-    }));
-    render();
-  } catch (e) {
-    wrap.innerHTML = UI.stateMsg("Could not load upcoming releases. Please try again.");
-  }
+  render();
 })();

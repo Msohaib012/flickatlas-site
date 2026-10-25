@@ -1,5 +1,12 @@
 /* FlickAtlas — Movies hub with §4 filter chips: Bollywood · World Cinema
-   as the primary industries, with legacy scopes and ratings kept visible. */
+   as the primary industries, with legacy scopes and ratings kept visible.
+   PUBLISHED-ONLY (2026-10-25 rebuild): every title comes from
+   window.FA_PUBLISHED — TMDB is a data source, not a catalogue, so
+   nothing is fetched live. K-Drama filter REMOVED (spec §6). Published
+   entries carry a baked `industry` (bollywood | pakistani | world);
+   "Hollywood" is the US-English slice of world, "Lollywood" is the
+   Pakistani industry. No genre data exists in published entries, so the
+   genre select stays at "All Genres". */
 (async function () {
   UI.mountChrome("/movies");
   const main = document.getElementById("app");
@@ -10,7 +17,7 @@
   });
 
   const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "World Cinema"]];
-  const MORE_FILTERS = [["all", "All"], ["hollywood", "Hollywood"], ["lollywood", "Lollywood"], ["kdrama", "K-Drama"], ["year", "This Year"], ["top", "Top Rated"]];
+  const MORE_FILTERS = [["all", "All"], ["hollywood", "Hollywood"], ["lollywood", "Lollywood"], ["year", "This Year"], ["top", "Top Rated"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
   const seeAllEntry = UI.getParam("seeall", "") === "1";
   let f = UI.getParam("f", "bollywood");
@@ -21,7 +28,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Movies</h1>
-      <p>Filter films by industry, year, rating or genre; open a title for details.</p></div>
+      <p>Filter films by industry, year or rating; open a title for details.</p></div>
     <div id="chipHost"><div data-filter-scope="main">${UI.chipRow(MAIN_FILTERS, f, "bollywood")}</div>
       ${seeAllEntry
         ? `<div class="filter-select listing-custom-filter" role="group" aria-labelledby="moviesFilterLabel"><span class="filter-select-label" id="moviesFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="moreFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="moreFilterOptions" aria-labelledby="moviesFilterLabel moreFilterValue"><span id="moreFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="moreFilterOptions" role="listbox" aria-labelledby="moviesFilterLabel" hidden></div></div><select class="fsel" id="moreFilterSel" aria-label="Additional movie category filter" aria-hidden="true" tabindex="-1" hidden><option value="">Choose a filter</option>${MORE_FILTERS.map(([key, label]) => `<option value="${UI.esc(key)}">${UI.esc(label)}</option>`).join("")}</select></div>`
@@ -117,39 +124,55 @@
   const genreMenu = mountSelectMenu(genreSel);
   const moreFilterMenu = moreFilterSel ? mountSelectMenu(moreFilterSel) : null;
 
-  const indOf = x => {
-    const countries = x.origin_country || x.production_countries?.map(c => c.iso_3166_1) || [];
-    if (x.original_language === "hi" && countries.includes("IN")) return "bollywood";
-    if (countries.includes("PK")) return "lollywood";
-    if (x.original_language === "ko" && countries.includes("KR")) return "kdrama";
-    if (x.original_language === "en" && countries.includes("US")) return "hollywood";
-    return "international";
-  };
+  /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
+     Entries carry a baked `industry` (bollywood | pakistani | world)
+     and `type` ("movie" | "tv"). No live TMDB calls anywhere. */
+  const todayStr = () => new Date().toISOString().slice(0, 10);
+  const published = () => Object.values(window.FA_PUBLISHED || {});
+  const dateOf = x => x.release_date || "";
+  /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
+     published_at desc, then release date desc. "Popular" sorts by rating
+     (published entries carry no TMDB popularity score). */
+  const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
+    || dateOf(b).localeCompare(dateOf(a));
+  const byPopular = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
+    || (b.vote_count || 0) - (a.vote_count || 0);
 
-  let pool = [];
+  /* Hub shows released movies only (future-dated titles live on /upcoming).
+     Freshness first (site rule: nothing older than 3 months on listings);
+     fall back to the full published pool so the page is never empty while
+     published movies exist. */
+  const pool = (() => {
+    const today = todayStr();
+    const released = published().filter(x => x && x.id && x.type === "movie"
+      && /^\d{4}-\d{2}-\d{2}$/.test(x.release_date || "") && x.release_date <= today);
+    const fresh = released.filter(UI.isFresh);
+    return fresh.length ? fresh : released;
+  })();
+
   function render() {
     const year = String(new Date().getFullYear());
     const items = pool.filter(x => {
-      if (sort === "recent" && (!/^\d{4}-\d{2}-\d{2}$/.test(x.release_date || "") || !Number.isFinite(Date.parse(x.release_date + 'T00:00:00Z')) || new Date(x.release_date + 'T00:00:00Z').toISOString().slice(0,10) !== x.release_date || x.release_date > TMDB.today())) return false;
-      if (f === "bollywood" && x._ind !== "bollywood") return false;
-      if (f === "hollywood" && x._ind !== "hollywood") return false;
-      if (f === "international" && !["en","ko"].includes(x.original_language)) return false;
-      if (f === "lollywood" && x._ind !== "lollywood") return false;
-      if (f === "kdrama" && x._ind !== "kdrama") return false;
+      if (f === "bollywood" && x.industry !== "bollywood") return false;
+      if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
+      if (f === "international" && x.industry !== "world") return false;
+      if (f === "lollywood" && x.industry !== "pakistani") return false;
       if (f === "year" && (x.release_date || "").slice(0, 4) !== year) return false;
       if (f === "top" && !((x.vote_average || 0) >= 7.5 && (x.vote_count || 0) >= 300)) return false;
-      if (g && !(x.genre_ids || []).includes(Number(g))) return false;
+      /* No genre data in published entries — a ?g= param matches nothing. */
+      if (g) return false;
       return true;
     });
-    items.sort((a, b) => f === "top"
-      ? (b.vote_average || 0) - (a.vote_average || 0)
-      : sort === "recent" ? (b.release_date || "").localeCompare(a.release_date || "")
-      : (b.popularity || 0) - (a.popularity || 0));
+    items.sort((a, b) => f === "top" ? byPopular(a, b)
+      : sort === "recent" ? byNewest(a, b) : byPopular(a, b));
     const shown = items.slice(0, 1);
     grid.innerHTML = shown.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, "movie", UI.industryTag(x))}</div>`).join("");
     fcount.textContent = `${shown.length} movie${shown.length === 1 ? "" : "s"}`;
-    emptyHost.innerHTML = shown.length ? "" : UI.stateMsg("No movies match this filter right now.", false);
+    emptyHost.innerHTML = shown.length ? ""
+      : UI.stateMsg(pool.length
+        ? "No movies match this filter right now."
+        : "No movies have been published yet.", false);
   }
 
   const chipHost = main.querySelector("#chipHost");
@@ -194,46 +217,13 @@
     sortSel.value = sort; genreSel.value = g;
     if (seeAllEntry) syncSeeAllFilters();
     sortMenu.sync(); genreMenu.sync();
+    /* Stale ?g= param: published entries carry no genres, so clear it. */
+    if (g) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
     render();
   });
 
-  try {
-    const cutoff = UI.freshCutoff();
-    const today = TMDB.today();
-    const freshWin = { "primary_release_date.gte": cutoff, "primary_release_date.lte": today, sort_by: "popularity.desc" };
-    const request = (params) => TMDB.discoverResults("movie", params);
-    const [pop1, pop2, top, hi, pk, ko, us, fresh1, fresh2, genres] = await Promise.all([
-      TMDB.popular("movie", 1), TMDB.popular("movie", 2), TMDB.topRated("movie", 1),
-      request({ with_original_language: "hi", with_origin_country: "IN", ...freshWin }),
-      request({ with_origin_country: "PK", ...freshWin }),
-      request({ with_original_language: "ko", with_origin_country: "KR", ...freshWin }),
-      request({ with_original_language: "en", with_origin_country: "US", ...freshWin }),
-      request({ ...freshWin, page: 1 }), request({ ...freshWin, page: 2 }),
-      TMDB.api("/genre/movie/list").catch(() => ({ genres: [] })),
-    ]);
-    const seen = new Map();
-    const add = (arr, marker = "") => (arr || []).forEach(x => {
-      if (!x.poster_path) return;
-      if (!seen.has(x.id)) { x._countryQuery = marker; seen.set(x.id, x); }
-      else if (marker) seen.get(x.id)._countryQuery = marker;
-    });
-    add(hi, "IN"); add(pk, "PK"); add(ko, "KR"); add(us, "US");
-    add(fresh1); add(fresh2); add(pop1.results); add(pop2.results); add(top.results);
-    pool = [...seen.values()].map(x => {
-      const verified = indOf(x);
-      x._ind = verified !== "international" ? verified : ({ IN: "bollywood", PK: "lollywood", KR: "kdrama", US: "hollywood" }[x._countryQuery] || "international");
-      return x;
-    }).filter(UI.isFresh);
-    const present = new Set(pool.flatMap(x => x.genre_ids || []));
-    (genres.genres || []).filter(gr => present.has(gr.id)).forEach(gr => {
-      const o = document.createElement("option"); o.value = gr.id; o.textContent = gr.name; genreSel.appendChild(o);
-    });
-    if (g && !present.has(Number(g))) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
-    if (g) genreSel.value = g;
-    genreMenu.sync();
-    render();
-  } catch (e) {
-    fcount.textContent = "Movies could not be loaded.";
-    grid.innerHTML = UI.stateMsg("Could not load movies. Please try again.");
-  }
+  /* Genre select stays at "All Genres": published entries carry no genres.
+     A stale ?g= param matches nothing, so clear it. */
+  if (g) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
+  render();
 })();

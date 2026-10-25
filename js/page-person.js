@@ -1,10 +1,11 @@
 /* FlickAtlas — Person detail page (?id=<tmdb_person_id>): photo,
-   biography, birth details and top movie + TV credits. Created
-   2026-10-25: the /person page shipped referencing this script but the
-   file was never committed, so every person page stayed on
-   "Loading FlickAtlas…". Follows the page-news-item.js detail pattern
-   (mountChrome, setSEO, render into #app, try/catch with a stateMsg
-   fallback). No watch/download buttons, no external links. */
+   biography, birth details and top movie + TV credits.
+   Rewritten 2026-10-25 (published-only rebuild, §3): biography and
+   facts still come from the TMDB person record (a single person's
+   record, not a catalogue), but the credits show ONLY published
+   titles — each credit is kept only when its TMDB id is in
+   window.FA_PUBLISHED with a matching medium. Unpublished work never
+   appears. No watch/download buttons, no external links. */
 (async function () {
   UI.mountChrome("/person");
   const main = document.getElementById("app");
@@ -34,17 +35,23 @@
     const bioParas = String(p.biography || "").trim()
       ? String(p.biography).split(/\n+/).map(s => s.trim()).filter(Boolean) : [];
 
-    /* Top credits: combined movie + TV cast, deduped, poster only,
-       most popular first, 12 per medium. */
+    /* Published credits only: a credit renders only when its TMDB id
+       is in FA_PUBLISHED and the published entry's type matches the
+       credit's medium. Cards render from the published entry itself
+       (correct type, title and poster); newest first, 12 per medium. */
+    const PUBLISHED = window.FA_PUBLISHED || {};
     const seen = new Map();
     for (const c of ((credits && credits.cast) || [])) {
       if (!c || !(c.title || c.name) || !c.poster_path) continue;
+      const pub = PUBLISHED[String(c.id)];
+      if (!pub || pub.type !== c.media_type) continue;
       const k = (c.media_type || "") + ":" + c.id;
-      if (!seen.has(k)) seen.set(k, c);
+      if (!seen.has(k)) seen.set(k, pub);
     }
-    const byPop = (a, b) => (b.popularity || 0) - (a.popularity || 0);
-    const movies = [...seen.values()].filter(c => c.media_type === "movie").sort(byPop).slice(0, 12);
-    const shows = [...seen.values()].filter(c => c.media_type === "tv").sort(byPop).slice(0, 12);
+    const newestFirst = (a, b) => String(b.published_at || "").localeCompare(String(a.published_at || "")) ||
+      ((b.type === "tv" ? b.first_air_date : b.release_date) || "").localeCompare((a.type === "tv" ? a.first_air_date : a.release_date) || "");
+    const movies = [...seen.values()].filter(x => x.type === "movie").sort(newestFirst).slice(0, 12);
+    const shows = [...seen.values()].filter(x => x.type === "tv").sort(newestFirst).slice(0, 12);
 
     const born = p.birthday ? UI.fmtDate(p.birthday) : "";
     const factRows = [];
@@ -101,7 +108,7 @@
     ${shows.length ? `<section class="section"><div class="section-head"><h2>Top TV Shows</h2></div>
       <div class="grid">${shows.map(x => UI.posterCard(x, "tv", UI.industryTag(x))).join("")}</div></section>` : ""}
 
-    ${!movies.length && !shows.length ? `<p style="color:var(--muted)">No credited movie or TV titles with posters are listed for this person yet.</p>` : ""}
+    ${!movies.length && !shows.length ? `<p style="color:var(--muted)">No published movie or TV titles are listed for this person yet.</p>` : ""}
   </div>`;
 
     UI.setSEO({

@@ -124,6 +124,13 @@ def main():
             "body": body,
             "facts": [str(x) for x in (a.get("facts") or [])],
             "entities": a.get("entities") or {"titles": [], "people": []},
+            # spec §5: carry the pipeline's images through verbatim
+            # (url/caption/source only); articles without one get [].
+            "images": [{"url": str(im.get("url") or ""),
+                        "caption": str(im.get("caption") or ""),
+                        "source": str(im.get("source") or "")}
+                       for im in (a.get("images") or [])
+                       if isinstance(im, dict) and im.get("url")],
             "published": a.get("published") or time.strftime(
                 "%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         }

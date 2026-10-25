@@ -361,6 +361,19 @@
     !(whenText && String(f.k || "").toLowerCase() === "published") &&
     !((it.cats || []).length && String(f.k || "").toLowerCase() === "coverage"));
 
+  /* Article images (spec §5): each entry renders as a figure with the
+     image and a small muted credit line under it, "Image: <source>".
+     The credit uses the existing .img-credit class; the image sits in
+     the existing .content-card. Articles with no images render exactly
+     as today — this block is empty. A failed image removes its whole
+     figure (no broken image, no orphan credit). */
+  const imagesHtml = (article.images || []).filter(im => im && im.url).map(im => `
+    <figure class="content-card" style="margin-top:14px">
+      <img src="${UI.esc(im.url)}" alt="${UI.esc(im.caption || article.headline || "")}" loading="lazy" decoding="async" style="max-width:100%;border-radius:12px" onerror="this.closest('figure').remove()">
+      ${im.caption ? `<p class="article-summary" style="margin-top:8px">${UI.esc(im.caption)}</p>` : ""}
+      <p class="img-credit">Image: ${UI.esc(im.source || "TMDB")}</p>
+    </figure>`).join("");
+
   main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/news">← Trending News</a>${(it.cats || []).length ? ` · ${UI.esc(CATLABEL[it.cats[0]] || it.cats[0])}` : ""}</p>
     <header class="content-card article-header-card">
@@ -371,6 +384,7 @@
       </div>
       ${article.dek ? `<p class="article-dek">${UI.esc(article.dek)}</p>` : ""}
     </header>
+    ${imagesHtml}
     <div class="article-body">
       ${(article.body || []).map(sec => `<div class="content-card" style="margin-top:14px"><h2>${UI.esc(sec.h)}</h2>
         ${(sec.p || []).map(p => `<p class="article-summary">${UI.escRich(p)}</p>`).join("")}</div>`).join("")}

@@ -1,6 +1,13 @@
 /* FlickAtlas — TV & Web Series hub with §4 filter chips: All (mixed) ·
-   Bollywood · Hollywood · Lollywood · K-Drama · This Year · Top Rated +
-   a Genre select. Chips are ?f= URL-param filters over the loaded pool. */
+   Bollywood · Hollywood · Lollywood · This Year · Top Rated +
+   a Genre select. Chips are ?f= URL-param filters over the loaded pool.
+   PUBLISHED-ONLY (2026-10-25 rebuild): every show comes from
+   window.FA_PUBLISHED — TMDB is a data source, not a catalogue, so
+   nothing is fetched live. K-Drama filter REMOVED (spec §6). Published
+   entries carry a baked `industry` (bollywood | pakistani | world);
+   "Hollywood" is the US-English slice of world, "Lollywood" is the
+   Pakistani industry. No genre data exists in published entries, so the
+   genre select stays at "All Genres". */
 (async function () {
   UI.mountChrome("/tv");
   const main = document.getElementById("app");
@@ -11,7 +18,7 @@
   });
 
   const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["hollywood", "Hollywood"],
-    ["lollywood", "Lollywood"], ["kdrama", "K-Drama"], ["year", "This Year"], ["top", "Top Rated"]];
+    ["lollywood", "Lollywood"], ["year", "This Year"], ["top", "Top Rated"]];
   let f = UI.getParam("f", "all");
   if (!FILTERS.some(([k]) => k === f)) f = "all";
   let g = UI.getParam("g", "");
@@ -31,33 +38,50 @@
   const genreSel = main.querySelector("#genreSel");
   if (g) genreSel.value = g;
 
-  const indOf = x => {
-    const countries = x.origin_country || [];
-    if (x.original_language === "hi" && countries.includes("IN")) return "bollywood";
-    if (countries.includes("PK")) return "lollywood";
-    if (x.original_language === "ko" && countries.includes("KR")) return "kdrama";
-    if (x.original_language === "en" && countries.includes("US")) return "hollywood";
-    return "international";
-  };
+  /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
+     Entries carry a baked `industry` (bollywood | pakistani | world)
+     and `type` ("movie" | "tv"). No live TMDB calls anywhere. */
+  const dateOf = x => x.first_air_date || "";
+  /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
+     published_at desc, then first-air date desc. */
+  const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
+    || dateOf(b).localeCompare(dateOf(a));
+  const byPopular = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
+    || (b.vote_count || 0) - (a.vote_count || 0);
 
-  let pool = [];
+  /* Freshness first (site rule: nothing older than 3 months on listings);
+     fall back to the full published pool so the page is never empty while
+     published shows exist. Near-future premieres (60 days, as before)
+     stay in the pool; farther-out titles live on /upcoming. */
+  const pool = (() => {
+    const horizon = new Date(Date.now() + 60 * 864e5).toISOString().slice(0, 10);
+    const shows = Object.values(window.FA_PUBLISHED || {})
+      .filter(x => x && x.id && x.type === "tv" && x.first_air_date && x.first_air_date <= horizon);
+    const fresh = shows.filter(UI.isFresh);
+    return fresh.length ? fresh : shows;
+  })();
+
   function render() {
     const year = String(new Date().getFullYear());
     const items = pool.filter(x => {
-      if (["bollywood", "hollywood", "lollywood", "kdrama"].includes(f) && x._ind !== f) return false;
+      if (f === "bollywood" && x.industry !== "bollywood") return false;
+      if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
+      if (f === "lollywood" && x.industry !== "pakistani") return false;
       if (f === "year" && (x.first_air_date || "").slice(0, 4) !== year) return false;
       if (f === "top" && !((x.vote_average || 0) >= 7.5 && (x.vote_count || 0) >= 200)) return false;
-      if (g && !(x.genre_ids || []).includes(Number(g))) return false;
+      /* No genre data in published entries — a ?g= param matches nothing. */
+      if (g) return false;
       return true;
     });
-    items.sort((a, b) => f === "top"
-      ? (b.vote_average || 0) - (a.vote_average || 0)
-      : (b.first_air_date || "").localeCompare(a.first_air_date || ""));
+    items.sort((a, b) => f === "top" ? byPopular(a, b) : byNewest(a, b));
     const shown = items.slice(0, 1);
     grid.innerHTML = shown.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, "tv", UI.industryTag(x))}</div>`).join("");
     fcount.textContent = `${shown.length} show${shown.length === 1 ? "" : "s"}`;
-    emptyHost.innerHTML = shown.length ? "" : UI.stateMsg("No shows match this filter right now.", false);
+    emptyHost.innerHTML = shown.length ? ""
+      : UI.stateMsg(pool.length
+        ? "No shows match this filter right now."
+        : "No shows have been published yet.", false);
   }
 
   UI.wireChips(main.querySelector("#chipHost"), (key) => { f = key; render(); });
@@ -70,74 +94,13 @@
   window.addEventListener("popstate", () => {
     g = UI.getParam("g", "");
     genreSel.value = g;
+    /* Stale ?g= param: published entries carry no genres, so clear it. */
+    if (g) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
     render();
   });
 
-  try {
-    const cutoff = UI.freshCutoff();
-    const today = TMDB.today();
-    const futureDate = new Date(`${today}T00:00:00Z`); futureDate.setUTCDate(futureDate.getUTCDate() + 60);
-    const horizon = futureDate.toISOString().slice(0, 10);
-    const currentWin = { "first_air_date.gte": cutoff, "first_air_date.lte": today, sort_by: "popularity.desc" };
-    const futureWin = { "first_air_date.gte": today, "first_air_date.lte": horizon, sort_by: "popularity.desc" };
-    const [pop1, pop2, top, hi, pk, ko, us, recent, future, genres] = await Promise.all([
-      TMDB.popular("tv", 1), TMDB.popular("tv", 2), TMDB.topRated("tv", 1),
-      TMDB.discoverResults("tv", { with_original_language: "hi", with_origin_country: "IN", ...currentWin }),
-      TMDB.discoverResults("tv", { with_origin_country: "PK", ...currentWin }),
-      TMDB.discoverResults("tv", { with_original_language: "ko", with_origin_country: "KR", ...currentWin }),
-      TMDB.discoverResults("tv", { with_original_language: "en", with_origin_country: "US", ...currentWin }),
-      TMDB.discoverResults("tv", { ...currentWin, page: 1 }),
-      TMDB.discoverResults("tv", { ...futureWin, page: 1 }),
-      TMDB.api("/genre/tv/list").catch(() => ({ genres: [] })),
-    ]);
-    const seen = new Map();
-    const add = (arr, marker = "") => (arr || []).forEach(x => {
-      if (!x.poster_path) return;
-      if (!seen.has(x.id)) { x._countryQuery = marker; seen.set(x.id, x); }
-      else if (marker) seen.get(x.id)._countryQuery = marker;
-    });
-    add(hi, "IN"); add(pk, "PK"); add(ko, "KR"); add(us, "US");
-    add(recent); add(future); add(pop1.results); add(pop2.results); add(top.results);
-    const balanced = new Map();
-    const groups = [hi, pk, ko, us, future, pop1.results || [], pop2.results || [], recent];
-    for (let i = 0; i < 20 && balanced.size < 64; i++) {
-      for (const group of groups) {
-        const row = group[i];
-        if (row && seen.has(row.id)) balanced.set(row.id, seen.get(row.id));
-        if (balanced.size >= 64) break;
-      }
-    }
-    const candidates = [...balanced.values()];
-    let cursor = 0;
-    await Promise.all(Array.from({ length: 6 }, async () => {
-      while (cursor < candidates.length) {
-        const x = candidates[cursor++];
-        try {
-          const detail = await TMDB.details("tv", x.id);
-          x.last_episode_to_air = detail.last_episode_to_air || null;
-          x.origin_country = detail.origin_country || x.origin_country;
-          x.original_language = detail.original_language || x.original_language;
-        } catch (_) { x._detailFailed = true; }
-        const verified = indOf(x);
-        x._ind = verified !== "international" ? verified : ({ IN: "bollywood", PK: "lollywood", KR: "kdrama", US: "hollywood" }[x._countryQuery] || "international");
-      }
-    }));
-    if (candidates.length && candidates.every(x => x._detailFailed)) throw new Error("TV detail requests failed");
-    pool = candidates.filter(x => {
-      if (x._detailFailed) return false;
-      const last = x.last_episode_to_air?.air_date || "";
-      const first = x.first_air_date || "";
-      return (last >= cutoff && last <= today) || (first >= today && first <= horizon);
-    });
-    const present = new Set(pool.flatMap(x => x.genre_ids || []));
-    (genres.genres || []).filter(gr => present.has(gr.id)).forEach(gr => {
-      const o = document.createElement("option"); o.value = gr.id; o.textContent = gr.name; genreSel.appendChild(o);
-    });
-    if (g && !present.has(Number(g))) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
-    if (g) genreSel.value = g;
-    render();
-  } catch (e) {
-    fcount.textContent = "TV shows could not be loaded.";
-    grid.innerHTML = UI.stateMsg("Could not load TV shows. Please try again.");
-  }
+  /* Genre select stays at "All Genres": published entries carry no genres.
+     A stale ?g= param matches nothing, so clear it. */
+  if (g) { g = ""; genreSel.value = ""; UI.setParam("g", ""); }
+  render();
 })();
