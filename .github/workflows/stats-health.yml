@@ -1,10 +1,14 @@
 # FlickAtlas stats — site health half.
 # Daily (06:00 UTC = 11:00 PKT) it checks the latest Vercel deploy, copies
-# the pipeline roll-up from js/stats-pipeline.json, and records the DMCA
-# inbox + Search Console status — both "not checked" unless a status blob
-# is injected (DMCA_STATUS_JSON / SEARCH_CONSOLE_STATUS_JSON secrets).
-# Writes js/stats-health.json. Nothing is ever faked: unchecked items are
-# recorded as "not checked" and the stats page says so.
+# the pipeline roll-up from js/stats-pipeline.json, checks Search Console
+# for real (webmasters API, service account shared with GA4 — clicks +
+# impressions last 7 days, indexed count from sitemaps), and records the
+# DMCA inbox status — "not checked" unless a status blob is injected
+# (DMCA_STATUS_JSON secret) or Gmail is connected for the daily check.
+# Search Console falls back to the SEARCH_CONSOLE_STATUS_JSON blob only
+# when no service-account secret is set. Writes js/stats-health.json.
+# Nothing is ever faked: unchecked items are recorded as "not checked"
+# and the stats page says so.
 name: Stats — health
 
 on:
@@ -22,11 +26,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install dependencies
+        run: pip install google-auth
       - name: Check site health
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           DMCA_STATUS_JSON: ${{ secrets.DMCA_STATUS_JSON }}
           SEARCH_CONSOLE_STATUS_JSON: ${{ secrets.SEARCH_CONSOLE_STATUS_JSON }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
         run: python3 scripts/stats-health.py
       - name: Commit if changed
         run: |
@@ -38,3 +45,4 @@ jobs:
             git pull --rebase
             git push
           fi
+
