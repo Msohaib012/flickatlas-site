@@ -30,4 +30,8 @@ jobs:
           git config user.name "flickatlas-publish"
           git config user.email "publish@flickatlas.local"
           git add js/articles-data.js
-          git diff --cached --quiet || git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push
+          if ! git diff --cached --quiet; then
+            git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi
