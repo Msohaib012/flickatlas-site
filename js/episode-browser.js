@@ -39,7 +39,7 @@ window.EpisodeBrowser = (() => {
     return `<a class="eb-card" href="${episodeHref(s,e)}"><span class="eb-image">${image}</span><span class="eb-copy"><b>${esc(UI.titleOf(s))}</b><span>Season ${esc(e.season_number)} · Episode ${esc(e.episode_number)}</span><span>${esc(UI.fmtDate(e.air_date))}</span>${network?`<span>${esc(network)}</span>`:""}<small>${esc(label)}</small></span></a>`;
   }
   function regionTabs(active){return `<div class="eb-tabs" role="group" aria-label="Filter episodes by origin">${REGIONS.map(([v,l])=>`<button type="button" data-eb-region="${v}" aria-pressed="${active===v}">${l}</button>`).join("")}</div>`}
-  async function mount(target,{region="all",limit=8,compact=false,mode="latest",network="",syncUrl=false,showFilters=true}={}){
+  async function mount(target,{region="all",limit=8,compact=false,mode="latest",network="",syncUrl=false,showFilters=true,displayLimit=null}={}){
     const root=typeof target==="string"?document.querySelector(target):target;if(!root)return;
     let current=REGIONS.some(x=>x[0]===region)?region:"all", currentNetwork=network, token=0;
     const render=async()=>{const my=++token;
@@ -55,7 +55,7 @@ window.EpisodeBrowser = (() => {
           const pastCards=past.filter(r=>r.ep.air_date>=new Date(Date.now()-7*86400000).toISOString().slice(0,10)).map(card).join("");
           const futureCards=future.filter(r=>r.ep.air_date<=new Date(Date.now()+7*86400000).toISOString().slice(0,10)).map(card).join("");
           grid.innerHTML=primary+`<h2 class="eb-subheading">Recently aired (past 7 days)</h2>${pastCards||'<p class="eb-state">No episodes reported in the past 7 days.</p>'}<h2 class="eb-subheading">Coming up (next 7 days)</h2>${futureCards||'<p class="eb-state">No upcoming episodes reported.</p>'}`;
-        }else grid.innerHTML=result.length?result.map(card).join(""):meta.failed===meta.details&&meta.details>0?'<p class="eb-state">Could not load episode details. Please try again.</p>':'<p class="eb-state">No matching dated episodes are available for this region and network in the reported data.</p>';
+        }else grid.innerHTML=result.length?result.slice(0, displayLimit || result.length).map(card).join(""):meta.failed===meta.details&&meta.details>0?'<p class="eb-state">Could not load episode details. Please try again.</p>':'<p class="eb-state">No matching dated episodes are available for this region and network in the reported data.</p>';
       }catch(_){if(my===token)grid.innerHTML='<p class="eb-state">Could not load episode data from TMDB. Please try again.</p>'}
     };
     const updateUrl=()=>{const u=new URL(location.href);u.searchParams.set("f",current);if(currentNetwork)u.searchParams.set("network",currentNetwork);else u.searchParams.delete("network");history.replaceState(null,"",u)};

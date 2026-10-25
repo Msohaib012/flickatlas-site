@@ -238,7 +238,7 @@
       if (upList.length >= 1) break;
       const dayItems = upByDay.get(date)
         .sort((a, b) => ((b.x.original_language === "hi") - (a.x.original_language === "hi"))
-          || ((b.x.popularity || 0) - (a.x.popularity || 0))).slice(0, 3);
+          || ((b.x.popularity || 0) - (a.x.popularity || 0))).slice(0, 1);
       upList.push(...dayItems);
     }
     const MONTHS_S = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
@@ -352,7 +352,7 @@
     const fillPkSections = async () => {
       const rail = document.getElementById("homePk");
       const strip = document.getElementById("homeEpStrip");
-      if (strip && window.EpisodeBrowser) EpisodeBrowser.mount(strip.querySelector("#homeEpisodeBrowser"), {region:"all", limit:1, showFilters:false}).catch(() => {});
+      if (strip && window.EpisodeBrowser) EpisodeBrowser.mount(strip.querySelector("#homeEpisodeBrowser"), {region:"all", limit:5, displayLimit:1, showFilters:false}).catch(() => {});
       try {
         if (!window.PK) throw new Error("pk pool unavailable");
         let pool = await PK.pool().catch(() => []);
