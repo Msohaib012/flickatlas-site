@@ -124,6 +124,7 @@ def build_news(queue_path, registry_path):
     # published article stays reachable; they win on id collisions.
     export_path = os.path.join(OUT_DIR, "publish-export.json")
     merged = 0
+    published_ids = set()
     if os.path.exists(export_path):
         try:
             with open(export_path, encoding="utf-8") as f:
@@ -147,11 +148,22 @@ def build_news(queue_path, registry_path):
                     "summary": "",
                 })
                 seen_links.add(link)
+                published_ids.add(entry_id)
                 merged += 1
         except Exception as e:
             print(f"publish-export merge skipped: {e}")
+    # Published entries are PINNED: they must survive even when the fresh
+    # fetch alone fills the 100-item cap (their export-time ts is older than
+    # today's stories, so a plain sort+truncate would drop them and the
+    # news-item page would show "moved on" for a published article).
     items.sort(key=lambda x: x["ts"], reverse=True)
-    items = items[:100]
+    if published_ids:
+        pinned = [i for i in items if i["id"] in published_ids]
+        fresh = [i for i in items if i["id"] not in published_ids]
+        items = fresh[:max(0, 100 - len(pinned))] + pinned
+        items.sort(key=lambda x: x["ts"], reverse=True)
+    else:
+        items = items[:100]
     print(f"merged {merged} published-article feed entries")
     return {
         "generated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
