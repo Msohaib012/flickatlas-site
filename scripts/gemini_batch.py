@@ -3,13 +3,19 @@
 
 Reads the fetch queue (out/queue.json — one representative item per story,
 already clustered by scripts/fetch.py), and for each NEW story:
+  0. RANK stage (two-stage pipeline): the queue holds ~260 stories but
+     each run writes only 2 posts, so queue order alone means the tail is
+     never even read. First, ONE Gemini call ranks the newest RANK_COUNT
+     unprocessed headlines by newsworthiness (title/source/category/
+     published only — no article fetch). The write loop then processes
+     in ranked order. A failed/empty ranking falls back to queue order.
   1. Computes a FACT fingerprint (film/person + day + rupee amounts + date)
      from the title/URL — NOT the wording — so two differently-worded
      articles about the same film+day+amount share one fingerprint.
   2. Skips anything whose fingerprint is already in out/processed.json
      (the pipeline's memory — a file, not Gemini's memory).
   3. Fetches the source article text (browser UA, r.jina.ai fallback).
-  4. Calls Gemini (key rotation across GEMINI_API_KEY_1..5) with a
+  4. Calls Gemini (key rotation across GEMINI_API_KEY_1..6) with a
      structured-output schema: the draft article + its final category
      (one of the 11 pipeline categories) + optional box-office row.
   5. Attaches an `images` array to each article (spec §5): the article's
@@ -24,14 +30,17 @@ call on category, content and numbers. When the script is unsure, it does
 NOT group/skip — the item goes to Gemini.
 
 Env:
-  GEMINI_API_KEY_1..5  (at least one required)
+  GEMINI_API_KEY_1..6  (at least one required)
   TMDB_API_KEY         (optional; resolves film name -> TMDB id)
   BATCH_SIZE           (default 2; how many NEW stories per run — kept
                         small on purpose: Google treats mass-published thin
                         AI content as scaled-content spam, so the pipeline
                         publishes FEW, LONG, fact-rich articles, not 240/day)
   DAILY_CAP            (default 20; max articles published per UTC day)
-  MAX_GEMINI_CALLS     (default 6; bounds quota use per run)
+  MAX_GEMINI_CALLS     (default 6; bounds quota use per run — the RANK
+                        call counts as 1 of these)
+  RANK_COUNT           (default 60; how many newest unprocessed headlines
+                        the RANK stage considers each run)
 Quality gate (Google safety): a draft is published ONLY if it has
   >= 300 words of body text, >= 3 sections and >= 4 facts. Thin drafts
   are marked quality-rejected in processed.json (never retried — a thin
@@ -44,6 +53,8 @@ import sys
 import time
 import urllib.request
 import urllib.parse
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.environ.get("OUT_DIR", os.path.join(ROOT, "out"))
@@ -235,10 +246,20 @@ ARTICLE_SCHEMA = {
     "required": ["category", "headline", "dek", "body", "facts"],
 }
 
+# RANK stage schema: Gemini returns the candidate indices ordered most
+# newsworthy first. Indices refer to the numbered list in RANK_PROMPT.
+RANK_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "ranked": {"type": "array", "items": {"type": "integer"}},
+    },
+    "required": ["ranked"],
+}
+
 
 def gemini_keys():
     keys = []
-    for i in range(1, 6):
+    for i in range(1, 7):
         k = os.environ.get(f"GEMINI_API_KEY_{i}", "").strip()
         if k:
             keys.append(k)
@@ -249,8 +270,10 @@ def gemini_keys():
     return keys
 
 
-def call_gemini(keys, prompt):
-    """Try each key in turn; 429/5xx moves to the next key. Returns dict or None."""
+def call_gemini(keys, prompt, schema=None, max_tokens=4096):
+    """Try each key in turn; 429/5xx moves to the next key. Returns dict or None.
+    schema defaults to ARTICLE_SCHEMA; pass RANK_SCHEMA for ranking calls."""
+    schema = ARTICLE_SCHEMA if schema is None else schema
     last_err = None
     for key in keys:
         try:
@@ -258,8 +281,8 @@ def call_gemini(keys, prompt):
                 "contents": [{"parts": [{"text": prompt}]}],
                 "generationConfig": {
                     "responseMimeType": "application/json",
-                    "responseSchema": ARTICLE_SCHEMA,
-                    "maxOutputTokens": 4096,
+                    "responseSchema": schema,
+                    "maxOutputTokens": max_tokens,
                 },
             }).encode("utf-8")
             req = urllib.request.Request(
@@ -308,6 +331,96 @@ Source article:
 ---
 Source URL: {url}
 """
+
+RANK_PROMPT = """You are the news editor for FlickAtlas, an entertainment-info
+magazine (Bollywood, Pakistani dramas, Hollywood, world cinema).
+
+Below are {n} fresh entertainment stories (title, outlet, category,
+publish time). Rank them by NEWSWORTHINESS — most newsworthy first.
+Return ONLY the ranked list of indices as JSON:
+{{"ranked": [3, 0, 12, ...]}} — every index exactly once, most
+newsworthy first.
+
+Rank HIGH:
+- Big films / big stars, box-office numbers (day collections, records,
+  advance booking), major announcements (trailer, release date, casting).
+- Fresh, significant events: awards, controversies with real stakes,
+  major OTT releases.
+Rank LOW:
+- Routine gossip, minor celebrity quotes, repetitive updates on the
+  same story, clickbait-style speculation, low-value viral clips.
+- Stories that look like duplicates of each other (keep the strongest
+  one high, push the rest down).
+
+Stories:
+{items}
+"""
+
+
+def _parse_published(value):
+    """Parse a queue item's published date to an aware UTC datetime.
+    Queue dates arrive in mixed formats — RFC 2822
+    ('Sun, 25 Oct 2026 22:36:11 +0530') and ISO 8601
+    ('2026-10-25T22:09:40+05:30'). Returns None when missing or
+    unparseable (the item then sorts as oldest)."""
+    if not value:
+        return None
+    s = str(value).strip()
+    dt = None
+    try:
+        dt = parsedate_to_datetime(s)
+    except (TypeError, ValueError):
+        dt = None
+    if dt is None:
+        try:
+            dt = datetime.fromisoformat(s)
+        except ValueError:
+            return None
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
+def _published_ts(item):
+    """Sort key for newest-first ordering; 0.0 when the date is missing
+    or unparseable (sorts last, queue order preserved by stable sort)."""
+    dt = _parse_published(item.get("published"))
+    return dt.timestamp() if dt else 0.0
+
+
+def rank_stories(keys, candidates):
+    """One Gemini call ranking candidate items by newsworthiness.
+    Returns the candidate list reordered best-first, or None on failure
+    (the caller then falls back to queue order). Candidates Gemini omits
+    from its answer go last, in newest-first order."""
+    lines = []
+    for i, item in enumerate(candidates):
+        lines.append(
+            f"[{i}] {(item.get('title') or '').strip()} — "
+            f"{(item.get('source') or '').strip()} | "
+            f"{(item.get('category') or '').strip()} | "
+            f"{(item.get('published') or '').strip()}")
+    result = call_gemini(keys, RANK_PROMPT.format(n=len(candidates),
+                                                  items="\n".join(lines)),
+                         schema=RANK_SCHEMA, max_tokens=1024)
+    if not result:
+        return None
+    ranked = result.get("ranked") or []
+    seen, order = set(), []
+    for idx in ranked:
+        # JSON booleans are ints in Python — exclude them explicitly.
+        if (isinstance(idx, int) and not isinstance(idx, bool)
+                and 0 <= idx < len(candidates) and idx not in seen):
+            seen.add(idx)
+            order.append(idx)
+    if not order:
+        return None
+    for i in range(len(candidates)):
+        if i not in seen:
+            order.append(i)
+    return [candidates[i] for i in order]
 
 
 def resolve_tmdb_id(film, api_key):
@@ -408,7 +521,7 @@ def main():
 
     keys = gemini_keys()
     if not keys:
-        print("No Gemini keys configured (set GEMINI_API_KEY_1..5) — skipping batch.")
+        print("No Gemini keys configured (set GEMINI_API_KEY_1..6) — skipping batch.")
         return 0
     print(f"gemini keys: {len(keys)} | batch size: {batch_size} | "
           f"daily cap: {daily_cap} | model: {MODEL}")
@@ -439,10 +552,44 @@ def main():
     # The batch may only fill the remaining room under the cap.
     batch_size = min(batch_size, daily_cap - today_count)
 
+    # ---- RANK stage (two-stage pipeline) --------------------------------
+    # The queue holds ~260 stories but each run writes only 2 posts. In
+    # queue order alone, the tail is never even read. So: rank the newest
+    # RANK_COUNT unprocessed headlines with ONE Gemini call (headlines
+    # only, no article fetch), then process in ranked order. The write
+    # loop, batch size, daily cap, quality gate and dedup below are
+    # unchanged. A failed/empty ranking falls back to plain queue order
+    # — never a crash, never a wasted run. The ranking call counts as
+    # 1 of MAX_GEMINI_CALLS, so the counter starts here, before it.
+    gemini_calls = 0
+    rank_count = int(os.environ.get("RANK_COUNT", "60"))
+    pending = [item for item in queue if fingerprint(item) not in processed]
+    ordered = list(queue)
+    if pending:
+        if rank_count > 0:
+            candidates = sorted(pending, key=_published_ts,
+                                reverse=True)[:rank_count]
+            print(f"rank: {len(pending)} unprocessed, ranking newest "
+                  f"{len(candidates)}")
+            gemini_calls += 1
+            ranked = rank_stories(keys, candidates)
+            if ranked:
+                ranked_ids = {id(it) for it in ranked}
+                ordered = ranked + [it for it in queue
+                                   if id(it) not in ranked_ids]
+                print(f"rank: order set, top: "
+                      f"{(ranked[0].get('title') or '')[:60]}")
+            else:
+                print("rank: ranking failed/empty — falling back to "
+                      "queue order")
+        else:
+            print("rank: RANK_COUNT<=0 — ranking disabled, queue order")
+    else:
+        print("rank: nothing unprocessed — skipping ranking")
+
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
     articles, box_rows, skipped = [], [], []
-    gemini_calls = 0
-    for item in queue:
+    for item in ordered:
         if len(articles) >= batch_size:
             break
         if gemini_calls >= max_calls:
@@ -536,3 +683,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

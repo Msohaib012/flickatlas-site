@@ -1,10 +1,12 @@
 name: Auto-pipeline (Gemini batch + publish)
 # FULL AUTO: no approval, no panel. Runs hourly after the news-refresh
 # fetch (which runs at :35 and commits out/queue.json).
-#   1. gemini_batch.py — reads the fetch queue, skips anything already in
+#   1. gemini_batch.py — ranks the newest RANK_COUNT unprocessed
+#      headlines with ONE Gemini call (RANK stage), then reads the fetch
+#      queue in ranked order, skips anything already in
 #      out/processed.json (the pipeline's memory), fetches each new story's
 #      source article, and asks Gemini (key rotation across
-#      GEMINI_API_KEY_1..5) for the draft + final category + optional
+#      GEMINI_API_KEY_1..6) for the draft + final category + optional
 #      box-office row. The script only matches FACTS (film, day, amounts)
 #      for dedup; Gemini is the only reader and makes the final call.
 #   2. apply-auto.py — merges the batch into js/articles-data.js (all 11
@@ -14,7 +16,7 @@ name: Auto-pipeline (Gemini batch + publish)
 #   4. ?v= bump when articles changed, then commit + push (Vercel
 #      auto-deploys on main).
 # A run that finds no new stories commits nothing and deploys nothing.
-# Requires repo secrets GEMINI_API_KEY_1..5 (at least one); without them
+# Requires repo secrets GEMINI_API_KEY_1..6 (at least one); without them
 # the batch step skips gracefully and the run succeeds with no changes.
 on:
   schedule:
@@ -37,9 +39,11 @@ jobs:
           GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
           GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           BATCH_SIZE: '2'
           DAILY_CAP: '20'
+          RANK_COUNT: '60'
         run: python3 scripts/gemini_batch.py
       - name: Apply batch to site files
         run: |
@@ -74,3 +78,4 @@ jobs:
             git pull --rebase
             git push
           fi
+
