@@ -1,0 +1,99 @@
+{
+  "generated": "2026-10-25T18:08:00Z",
+  "fetch": {
+    "status": "unknown",
+    "run_id": null,
+    "started_at": null,
+    "finished_at": null,
+    "run_url": null,
+    "sources_total": 136,
+    "sources_ok": 95,
+    "sources_error": 16,
+    "sources_unchanged": 23,
+    "stories_queued": 261,
+    "stories_new": 266,
+    "duplicates_removed": 5,
+    "per_category": {
+      "Box Office": 11,
+      "Awards": 0,
+      "Trailers": 4,
+      "Music / OST": 8,
+      "Episodes": 19,
+      "Upcoming releases": 2,
+      "OTT / Streaming": 8,
+      "TV & Dramas": 8,
+      "Celebrity news & events": 8,
+      "Movies": 192,
+      "Entertainment viral": 1
+    },
+    "per_scope": {
+      "Bollywood / India": 31,
+      "Celebrity Daily — India": 9,
+      "International (US / Hollywood)": 37,
+      "UK": 15,
+      "Pakistan (Lollywood / TV dramas)": 21,
+      "YouTube Dramas": 4,
+      "Celebrity Daily — Pakistan": 7,
+      "South Korea (English)": 11,
+      "Celebrity Daily — Korea (English)": 3,
+      "Celebrity Daily — US / Global": 11,
+      "Celebrity Daily — UK": 2,
+      "Viral — US / Global": 6,
+      "Viral — India": 2,
+      "Viral — Pakistan": 1,
+      "Viral — UK": 2
+    },
+    "next_run": "2026-10-25T18:35:00Z"
+  },
+  "gemini": {
+    "status": "unknown",
+    "run_id": null,
+    "started_at": null,
+    "finished_at": null,
+    "run_url": null,
+    "generated_at": "2026-10-25T17:53:55Z",
+    "picked": 2,
+    "per_category": {
+      "ott_streaming": 1,
+      "box_office": 1
+    },
+    "skipped": 1,
+    "posts_created": 2,
+    "next_run": "2026-10-25T18:50:00Z"
+  },
+  "publish": {
+    "status": "unknown",
+    "run_id": null,
+    "started_at": null,
+    "finished_at": null,
+    "run_url": null,
+    "next_run": "2026-10-25T18:10:00Z"
+  },
+  "posts": {
+    "total": 8,
+    "articles": 6,
+    "titles": 2,
+    "today": 6,
+    "article_categories": {
+      "glx1ay": "celebrities_events",
+      "1bzs50a": "ott_streaming",
+      "1kxh1j2": "ott_streaming",
+      "d7k5jf": "box_office"
+    }
+  },
+  "queue": {
+    "total": 261,
+    "per_category": {
+      "Upcoming releases": 2,
+      "Episodes": 19,
+      "Movies": 192,
+      "Box Office": 11,
+      "Entertainment viral": 1,
+      "Music / OST": 8,
+      "OTT / Streaming": 8,
+      "TV & Dramas": 8,
+      "Trailers": 4,
+      "Celebrity news & events": 8
+    }
+  }
+}
