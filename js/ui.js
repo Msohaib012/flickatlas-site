@@ -22,7 +22,7 @@ const UI = (() => {
   const pageQuery = () => new URLSearchParams(location.search);
   /* Source-aware navigation: bounded URLs, same-origin returns, natural history. */
   const detailPaths = new Set(['/movie','/show','/person','/news-item','/box-office-day']);
-  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact']);
+  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms']);
   const routePath = path => path === '/index.html' ? '/' : path.replace(/\.html$/, '');
   const navigationFallback = () => ({'/movie':'/movies?f=bollywood','/show':'/tv','/person':'/celebrities','/news-item':'/news','/box-office-day':'/box-office'}[routePath(location.pathname)] || '/');
   function safeMovieSource(value) {
@@ -459,7 +459,7 @@ const UI = (() => {
           <a href="/category?cat=lollywood">Lollywood</a><a href="/category?cat=kdrama">K-Drama</a>
           <a href="/category?cat=lollywood">Pakistani YouTube Dramas</a></div></details>
         <details class="foot-col" open><summary>Company &amp; Legal</summary><div class="foot-links">
-          <a href="/about">About Us</a><a href="/privacy">Privacy Policy</a><a href="/contact">Contact</a></div></details>
+          <a href="/about">About Us</a><a href="/privacy">Privacy Policy</a><a href="/terms">Terms &amp; Conditions</a><a href="/dmca">DMCA &amp; Copyright</a><a href="/contact">Contact</a></div></details>
       </div>
       <div class="wrap foot-base">
         <span>© ${new Date().getFullYear()} FlickAtlas. All rights reserved.</span>
