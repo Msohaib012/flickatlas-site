@@ -1,0 +1,42 @@
+# FlickAtlas stats — traffic half (Google Analytics 4).
+# Every 15 minutes it pulls GA4 (Data API + Realtime API) and writes
+# js/stats-traffic.json: users active now, today / last-7-day totals,
+# top pages, sources, countries, devices, and per-post views + top source.
+# With no GA4 credentials the script writes {"connected": false} and the
+# workflow still succeeds — the stats page shows "not connected" instead
+# of fake numbers. Needs repo secrets GA4_PROPERTY_ID and
+# GA4_SERVICE_ACCOUNT_JSON (see ga4-setup.md for the owner steps).
+name: Stats — traffic (GA4)
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  stats-traffic:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install GA4 client
+        run: pip install google-analytics-data
+      - name: Pull GA4 and build traffic stats JSON
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
+        run: python3 scripts/stats-traffic.py
+      - name: Commit if changed
+        run: |
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
+          git add js/stats-traffic.json
+          if ! git diff --cached --quiet; then
+            git commit -m "stats: traffic $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi

@@ -1,0 +1,38 @@
+# FlickAtlas stats — pipeline half.
+# Hourly (5 min past the hour, just after the :50 Gemini run) it rebuilds
+# js/stats-pipeline.json from the pipeline's own files + the Actions API:
+# last fetch run (sources, per-category stories, queue), last Gemini run
+# (picks, posts made), last publish run, post totals, and the next run
+# time for each of the three. No new service, no extra secrets — the
+# default GITHUB_TOKEN reads the Actions API. Commits only when changed.
+name: Stats — pipeline
+
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  stats-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build pipeline stats JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/stats-pipeline.py
+      - name: Commit if changed
+        run: |
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
+          git add js/stats-pipeline.json
+          if ! git diff --cached --quiet; then
+            git commit -m "stats: pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi

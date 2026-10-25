@@ -1,0 +1,40 @@
+# FlickAtlas stats — site health half.
+# Daily (06:00 UTC = 11:00 PKT) it checks the latest Vercel deploy, copies
+# the pipeline roll-up from js/stats-pipeline.json, and records the DMCA
+# inbox + Search Console status — both "not checked" unless a status blob
+# is injected (DMCA_STATUS_JSON / SEARCH_CONSOLE_STATUS_JSON secrets).
+# Writes js/stats-health.json. Nothing is ever faked: unchecked items are
+# recorded as "not checked" and the stats page says so.
+name: Stats — health
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats-health:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check site health
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          DMCA_STATUS_JSON: ${{ secrets.DMCA_STATUS_JSON }}
+          SEARCH_CONSOLE_STATUS_JSON: ${{ secrets.SEARCH_CONSOLE_STATUS_JSON }}
+        run: python3 scripts/stats-health.py
+      - name: Commit if changed
+        run: |
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
+          git add js/stats-health.json
+          if ! git diff --cached --quiet; then
+            git commit -m "stats: health $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi
