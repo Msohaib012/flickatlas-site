@@ -1,15 +1,16 @@
 {
-  "generated": "2026-10-25T18:08:00Z",
+  "generated": "2026-10-25T18:11:27Z",
   "fetch": {
-    "status": "unknown",
-    "run_id": null,
-    "started_at": null,
-    "finished_at": null,
-    "run_url": null,
+    "status": "success",
+    "run_id": 40218215685,
+    "started_at": "2026-10-25T17:48:12Z",
+    "finished_at": "2026-10-25T17:50:16Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40218215685",
     "sources_total": 136,
     "sources_ok": 95,
     "sources_error": 16,
     "sources_unchanged": 23,
+    "sources_other": 2,
     "stories_queued": 261,
     "stories_new": 266,
     "duplicates_removed": 5,
@@ -46,11 +47,11 @@
     "next_run": "2026-10-25T18:35:00Z"
   },
   "gemini": {
-    "status": "unknown",
-    "run_id": null,
-    "started_at": null,
-    "finished_at": null,
-    "run_url": null,
+    "status": "success",
+    "run_id": 40218647983,
+    "started_at": "2026-10-25T17:53:38Z",
+    "finished_at": "2026-10-25T17:54:02Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40218647983",
     "generated_at": "2026-10-25T17:53:55Z",
     "picked": 2,
     "per_category": {
@@ -62,12 +63,12 @@
     "next_run": "2026-10-25T18:50:00Z"
   },
   "publish": {
-    "status": "unknown",
-    "run_id": null,
-    "started_at": null,
-    "finished_at": null,
-    "run_url": null,
-    "next_run": "2026-10-25T18:10:00Z"
+    "status": "success",
+    "run_id": 40205182761,
+    "started_at": "2026-10-25T15:04:11Z",
+    "finished_at": "2026-10-25T15:04:52Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40205182761",
+    "next_run": "2026-10-25T18:30:00Z"
   },
   "posts": {
     "total": 8,
