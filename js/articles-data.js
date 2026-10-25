@@ -257,5 +257,163 @@ window.FA_ARTICLES = {
       ]
     },
     "published": "Sun, 25 Oct 2026 19:57:01 +0530"
+  },
+  "1kxh1j2": {
+    "id": "1kxh1j2",
+    "type": "news",
+    "headline": "Tamil Romantic Horror Film Immortal Secures SonyLIV OTT Release Date",
+    "dek": "GV Prakash Kumar and Kayadu Lohar starrer Immortal, which hit the big screen in September 2026, is officially heading to digital platforms for home viewing.",
+    "body": [
+      {
+        "h": "Transition From Theatres to Digital Screens",
+        "p": [
+          "The Tamil language feature film Immortal, which initially made its theatrical debut earlier in the autumn, is preparing for its digital streaming premiere. Following its run in cinemas, the project is scheduled to become available for audiences who prefer watching movies from the comfort of their homes.",
+          "SonyLIV has officially announced the upcoming digital streaming availability for the movie. Viewers across regions who missed the theatrical run can soon access the title online through the designated platform starting from the end of October."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Premise",
+        "p": [
+          "The storyline of the feature film introduces an ancient supernatural mystery before shifting its primary setting to present-day Chennai. The narrative centers around a young printing press employee named Magi, who embarks on a quest to find budget-friendly housing within the city limits.",
+          "During his search, Magi encounters a mysterious woman known as Sindhu residing in an upscale apartment. She offers him a surprisingly affordable room, which he promptly accepts, setting off a sequence of strange events as he grows closer to her and uncovers disturbing secrets regarding her past."
+        ]
+      },
+      {
+        "h": "Cast and Character Lineup",
+        "p": [
+          "The leading roles in the romantic horror feature are portrayed by GV Prakash Kumar and Kayadu Lohar. Their on-screen dynamic forms the core of the narrative as their relationship takes unexpected and unusual turns.",
+          "Supporting performances in the movie are delivered by an ensemble cast featuring T. M. Karthik, Kumar Natarajan, Lollu Sabha Maaran, Aaditya Kathir, Arshu Maharjan, Pema Tsamchoe, and Sunita Shrestha, who round out the principal characters."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Technical Crew",
+        "p": [
+          "Immortal was written and directed by Mariyappan Chinna, with production duties handled by Arunkumar Dhanasekaran under the banner of AK Film Factory. The creative vision of the director is supported by several technical professionals.",
+          "The crew includes Arun Radhakrishnan as the cinematographer, Rajesh M as the editor, and Sam CS, who handled both the music composition and songwriting. Additionally, Siva Sankar served as the art director, while stunt choreography was managed by R. Sakthi Saravanan and G. N. Murugan."
+        ]
+      }
+    ],
+    "facts": [
+      "Immortal was released in theatres on September 4, 2026.",
+      "Immortal is scheduled to stream on SonyLIV from October 30, 2026.",
+      "The film was written and directed by Mariyappan Chinna.",
+      "Arunkumar Dhanasekaran produced the film under the banner of AK Film Factory.",
+      "GV Prakash Kumar and Kayadu Lohar play the lead roles."
+    ],
+    "entities": {
+      "people": [
+        "GV Prakash Kumar",
+        "Kayadu Lohar",
+        "Mariyappan Chinna",
+        "T. M. Karthik",
+        "Kumar Natarajan",
+        "Lollu Sabha Maaran",
+        "Aaditya Kathir",
+        "Arshu Maharjan",
+        "Pema Tsamchoe",
+        "Sunita Shrestha",
+        "Arunkumar Dhanasekaran",
+        "Arun Radhakrishnan",
+        "Rajesh M",
+        "Sam CS",
+        "Siva Sankar",
+        "R. Sakthi Saravanan",
+        "G. N. Murugan",
+        "Ghatam Siva"
+      ],
+      "titles": [
+        "Immortal"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/immortal-53691792947843.jpg",
+        "caption": "Tamil Romantic Horror Film Immortal Secures SonyLIV OTT Release Date",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 22:36:11 +0530"
+  },
+  "d7k5jf": {
+    "id": "d7k5jf",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Surpasses $2 Million in Global Pre-Sales Ahead of November Debut",
+    "dek": "The Nitesh Tiwari directorial has crossed the $2 million milestone in worldwide advance bookings eleven days before its theatrical premiere, driven by strong international and domestic demand.",
+    "body": [
+      {
+        "h": "Early Global Momentum for the Mythological Epic",
+        "p": [
+          "The highly anticipated cinematic project Ramayana: Part 1 has officially crossed the $2 million threshold in reported worldwide advance bookings. This early financial milestone encompasses both the scheduled preview screenings on November 4 and the primary opening-day reservations slated for November 5. With ticket sales reaching approximately 225,000 across tracked international territories and India, the production has generated an estimated 20.50 crore in advance gross.",
+          "Reaching this substantial figure eleven days prior to the official theatrical release highlights considerable early enthusiasm among moviegoers. Such rapid pre-sales demonstrate a robust appetite for the mythological epic, establishing a firm foundation as the promotional campaign enters its final stretch."
+        ]
+      },
+      {
+        "h": "Strong International Markets and Domestic Contribution",
+        "p": [
+          "India continues to serve as the largest individual contributor to the early box-office figures, bringing in over $1.20 million for the opening day alone. Meanwhile, North America has emerged as a crucial overseas market, particularly capitalising on Wednesday preview screenings ahead of the standard Thursday release schedule.",
+          "In addition to North America, audience engagement is widening across the United Kingdom, Australia, and several European territories. This geographical expansion underscores the appeal of a Hindi-led production reaching well beyond traditional overseas strongholds, supported by established international audiences for Indian cinema."
+        ]
+      },
+      {
+        "h": "Breakdown of Pre-Sales and Preview Screenings",
+        "p": [
+          "A detailed look at the numbers reveals strong early figures across multiple windows. North American previews ahead of November 4 have accounted for over $550,000, while overseas markets on November 5 contribute another $400,000 plus. When combined with India's opening day numbers, the total opening-day figures excluding previews sit at over $1.60 million.",
+          "When factoring in the special preview screenings, the cumulative worldwide combined total reaches $2.15 million, translating to roughly 20.50 crore. The strong preview response is viewed as a positive indicator for building early momentum among overseas fans, especially in regions where premium formats heavily influence opening-weekend performances."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Creative Leadership",
+        "p": [
+          "The scale of the project is further amplified by its notable creative team and ensemble cast. Directed by Nitesh Tiwari and produced by Namit Malhotra, the film brings together prominent stars from various cinematic industries to portray legendary characters from the epic narrative.",
+          "The principal cast features Ranbir Kapoor stepping into the role of Lord Rama, alongside Sai Pallavi as Sita. Additionally, Yash takes on the character of Ravana, while Sunny Deol is cast as Hanuman, combining pan-Indian star power to attract a broad demographic of viewers."
+        ]
+      },
+      {
+        "h": "Future Projections as the Release Date Approaches",
+        "p": [
+          "As the theatrical launch draws closer, industry observers will be watching to see if ticket sales accelerate further. The current momentum is expected to grow as additional theatres and show allocations are finalized and opened to the public.",
+          "The ultimate test for the blockbuster will be whether casual moviegoers and broader audiences rush to secure tickets as regular cinema schedules become more widely accessible in the days leading up to the premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 crossed $2 million in reported worldwide advance bookings.",
+      "The film is scheduled for release on November 5, 2026.",
+      "Preview screenings are set for November 4.",
+      "Around 225,000 tickets have been sold across tracked international markets and India.",
+      "The advance gross has generated approximately 20.50 crore.",
+      "North American previews brought in over $550,000.",
+      "India's opening day contribution is over $1.20 million.",
+      "Overseas opening day bookings account for over $400,000.",
+      "Total opening day excluding previews is over $1.60 million.",
+      "Worldwide combined total stands at $2.15 million."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Sunit Jangir"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Spirit",
+        "Udta Teer",
+        "Thamma",
+        "Captain India",
+        "Dhurandhar 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028172.jpg",
+        "caption": "Ramayana: Part 1 Surpasses $2 Million in Global Pre-Sales Ahead of November Debut",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 15:57:49 +0000"
   }
 };
