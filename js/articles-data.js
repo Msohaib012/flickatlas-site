@@ -587,5 +587,170 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 25 Oct 2026 17:30:15 GMT"
+  },
+  "p8t4vn": {
+    "id": "p8t4vn",
+    "type": "news",
+    "headline": "Udta Teer Box Office Collection Day 3: Ayushmann Khurrana and Sara Ali Khan Film Crosses ₹19 Crore in Opening Weekend",
+    "dek": "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer has registered a strong opening weekend, collecting over ₹19 crore in its first three days at the box office.",
+    "body": [
+      {
+        "h": "Opening Weekend Box Office Performance",
+        "p": [
+          "The newly released spy comedy Udta Teer, featuring Ayushmann Khurrana and Sara Ali Khan, has charted a steady course at the box office during its opening weekend. Competing against other recent theatrical titles like Nayyi Navelli and Prahaar, the film managed to outpace early expectations right from its opening day in cinemas.",
+          "After finishing its first day with a respectable haul, the movie experienced noticeable growth over the subsequent weekend days, culminating in a solid total by the end of Sunday. Industry tracking data has highlighted the film's upward trajectory as it navigates the current theatrical landscape."
+        ]
+      },
+      {
+        "h": "Day-by-Day Earnings Breakdown",
+        "p": [
+          "On its release day this Friday, Udta Teer leveled up above expectations to collect ₹4.10 crore. Favorable early reviews played a pivotal role in boosting audience turnout, setting a positive stage for the remainder of the weekend.",
+          "Building on this momentum, the film witnessed a substantial surge on Saturday, adding ₹7.25 crore to its tally. According to tracking updates on Sacnilk, the feature continued to grow on Sunday, pulling in an additional ₹8.10 crore and bringing its cumulative three-day opening weekend collection to a robust ₹19.45 crore."
+        ]
+      },
+      {
+        "h": "Industry Reactions and Urban Trends",
+        "p": [
+          "Trade analyst Taran Adarsh took to social media to highlight the film's impressive theatrical pull, noting a notable jump of over 76 percent in collections from Friday to Saturday. He pointed out that major multiplexes situated across urban centers experienced strong occupancies, with national chains doubling their business on the second day.",
+          "Beyond traditional hubs like Mumbai, several other urban centers reported strong footfalls for the spy comedy. Cities such as Bengaluru, Kolkata, Jaipur, Hyderabad, Pune, and Chennai contributed significantly to the weekend numbers, though maintaining this momentum through the upcoming weekdays will be crucial for a strong Week 1 total."
+        ]
+      },
+      {
+        "h": "Plot and Premise of the Spy Comedy",
+        "p": [
+          "Udta Teer offers a quirky take on the spy genre, centering on a Pakistani intelligence operative portrayed by Ayushmann Khurrana. Following an unexpected blast, the protagonist loses his memory and mistakenly comes to believe that he is an officer belonging to India's Counter-Terrorism Squad.",
+          "This case of mistaken identity triggers a sequence of comedic and action-heavy situations, entangling the character in a convoluted cross-border espionage operation alongside co-star Sara Ali Khan."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The project marks the directorial debut of Akash A Kaushik, who previously contributed as a writer to mainstream cinematic hits such as Housefull 4, Bhool Bhulaiyaa 2, and Bhool Bhulaiyaa 3. His background in comedy writing reflects heavily on the narrative tone of the new release.",
+          "In addition to the lead pair, the film features an ensemble supporting cast including Rahul Bose, Ram Kapoor, Suhail Nayyar, Gulshan Grover, the late Mukul Dev, Raghubir Yadav, Brijendra Kala, Supriya Pilgaonkar, and Sandeep Anand."
+        ]
+      }
+    ],
+    "facts": [
+      "Udta Teer released in theatres on a Friday in October 2026.",
+      "The film collected ₹4.10 crore on its opening day.",
+      "Saturday collections rose to ₹7.25 crore.",
+      "Sunday collections reached ₹8.10 crore.",
+      "The total three-day opening weekend collection stands at ₹19.45 crore.",
+      "Akash A Kaushik makes his directorial debut with this film."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sara Ali Khan",
+        "Rahul Bose",
+        "Ram Kapoor",
+        "Suhail Nayyar",
+        "Gulshan Grover",
+        "Mukul Dev",
+        "Raghubir Yadav",
+        "Brijendra Kala",
+        "Supriya Pilgaonkar",
+        "Sandeep Anand",
+        "Akash A Kaushik",
+        "Taran Adarsh",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Udta Teer",
+        "Nayyi Navelli",
+        "Prahaar",
+        "Housefull 4",
+        "Bhool Bhulaiyaa 2",
+        "Bhool Bhulaiyaa 3"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/25/1600x900/logo/udta_teer_1792945763681_0pzh_1792945763886_wvMm_22c0dbfa-55b1-4f36-aee0-fb7480e4bb13_dwp2.png",
+        "caption": "Udta Teer Box Office Collection Day 3: Ayushmann Khurrana and Sara Ali Khan Film Crosses ₹19 Crore in Opening Weekend",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 22:38:42 +0530"
+  },
+  "v7hfvy": {
+    "id": "v7hfvy",
+    "type": "news",
+    "headline": "Fresh Insights Uncover the Under-the-Radar Romance Between Tom Brady and Candice Swanepoel",
+    "dek": "Insiders reveal that the retired NFL star and the supermodel have been quietly seeing each other while residing in Miami, taking careful measures to stay out of the public eye.",
+    "body": [
+      {
+        "h": "A Quiet and Convenient Miami Connection",
+        "p": [
+          "Fresh details have come to light regarding the secretive relationship between former professional football player Tom Brady and supermodel Candice Swanepoel. According to sources close to the situation, the pair have been spending considerable time together over the past several months. Because both celebrities maintain residences in Miami, their proximity has provided a convenient backdrop for their budding romance.",
+          "Despite living in the same bustling Florida city, the couple has reportedly gone to extreme lengths to avoid attracting media attention or being spotted together in public. Sources indicate that Swanepoel has remained particularly selective and guarded, confiding in only a very tight circle of confidants about her ongoing relationship with the former athlete."
+        ]
+      },
+      {
+        "h": "Background on Past Relationships and Families",
+        "p": [
+          "Tom Brady has navigated a highly publicized dating life since finalizing his divorce from supermodel Gisele Bündchen in 2022. The retired quarterback shares two children, Benjamin and Vivian, with Bündchen, and another son, Jack, with his former partner Bridget Moynahan. Throughout his post-marriage years, Brady has frequently been linked to various high-profile figures while continuing to prioritize his professional projects and co-parenting responsibilities.",
+          "Similarly, Candice Swanepoel brings her own family dynamic to the partnership as a mother of two sons, Anacã and Ariel, whom she shares with her former fiancé Hermann Nicoli. Swanepoel and Nicoli ended their relationship in 2018 after spending more than a decade together. In past interviews, the supermodel has spoken candidly about the constant pursuit of balancing a demanding international career with the personal needs of raising her children."
+        ]
+      },
+      {
+        "h": "Navigating Schedules and Public Scrutiny",
+        "p": [
+          "The revelation of the romance first emerged during the weekend, quickly drawing widespread interest from pop culture observers and media outlets alike. Representatives for both Brady and Swanepoel have not immediately offered public comments regarding the reports. The tight-lipped nature of their outings reflects a mutual desire to keep their private lives shielded from the relentless glare of celebrity journalism.",
+          "Earlier in January, Brady addressed his personal schedule when questioned about his dating life following a New Year's Eve sighting. At the time, the former sports star noted that his primary focus remained firmly anchored in his work commitments and his children, emphasizing that he enjoys maintaining an active schedule filled with meaningful projects and positive collaborations."
+        ]
+      }
+    ],
+    "facts": [
+      "Tom Brady is 49 years old.",
+      "Candice Swanepoel is 38 years old.",
+      "Tom Brady and Gisele Bündchen divorced in 2022.",
+      "Tom Brady and Gisele Bündchen share two children, Benjamin (16) and Vivian (13).",
+      "Tom Brady shares a son, Jack (19), with ex-girlfriend Bridget Moynahan.",
+      "Candice Swanepoel shares two sons, Anacã (10) and Ariel (8), with ex-fiancé Hermann Nicoli.",
+      "Candice Swanepoel and Hermann Nicoli split in 2018 after more than 10 years together."
+    ],
+    "entities": {
+      "people": [
+        "Tom Brady",
+        "Candice Swanepoel",
+        "Gisele Bündchen",
+        "Bridget Moynahan",
+        "Hermann Nicoli",
+        "Benjamin",
+        "Vivian",
+        "Jack",
+        "Anacã",
+        "Ariel",
+        "Irina Shayk",
+        "Brooks Nader",
+        "Kim Kardashian",
+        "Sofía Vergara",
+        "Alix Earle",
+        "Yael Cohen",
+        "Montana Jordan",
+        "Emily Osment",
+        "Bethenny Frankel",
+        "Andy Cohen",
+        "Courtney Stodden",
+        "Dr. Drew",
+        "Martha Stewart",
+        "Joanna Gaines",
+        "Kylie Jenner",
+        "Cardi B"
+      ],
+      "titles": [
+        "Young Sheldon",
+        "Lupin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146452517.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Fresh Insights Uncover the Under-the-Radar Romance Between Tom Brady and Candice Swanepoel",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 13:47:29 -0400"
   }
 };
