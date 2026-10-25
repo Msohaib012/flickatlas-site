@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="fa-teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13A393"/>
+      <stop offset="1" stop-color="#087267"/>
+    </linearGradient>
+    <linearGradient id="fa-reel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D9488"/>
+      <stop offset="1" stop-color="#075E56"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="46" height="46" rx="13" fill="url(#fa-teal)" stroke="#075E56" stroke-width="1"/>
+  <rect x="7.5" y="7" width="33" height="34" rx="8" fill="#E9FFF8"/>
+  <path d="M15.5 7h17a8 8 0 0 1 8 8v1H7.5v-1a8 8 0 0 1 8-8Z" fill="#07332E"/>
+  <path d="M7.5 32h33v1a8 8 0 0 1-8 8h-17a8 8 0 0 1-8-8v-1Z" fill="#07332E"/>
+  <g fill="#7BE3D0">
+    <rect x="12" y="10" width="4" height="2.2" rx="1.1"/><rect x="22" y="10" width="4" height="2.2" rx="1.1"/><rect x="32" y="10" width="4" height="2.2" rx="1.1"/>
+    <rect x="12" y="35.8" width="4" height="2.2" rx="1.1"/><rect x="22" y="35.8" width="4" height="2.2" rx="1.1"/><rect x="32" y="35.8" width="4" height="2.2" rx="1.1"/>
+  </g>
+  <circle cx="24" cy="24" r="11.1" fill="#F7FFFC"/>
+  <circle cx="24" cy="24" r="9.6" fill="url(#fa-reel)"/>
+  <g fill="#D9FFF2">
+    <circle cx="24" cy="18.5" r="2.15"/><circle cx="19.25" cy="27.1" r="2.15"/><circle cx="28.75" cy="27.1" r="2.15"/>
+  </g>
+  <circle cx="24" cy="24" r="1.75" fill="#F5C96B"/>
+</svg>

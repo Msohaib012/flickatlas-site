@@ -377,7 +377,9 @@
     </div>
     ${displayFacts.length ? `<div class="content-card" style="margin-top:14px"><h2>Story Details</h2>
       <dl class="facts-table">${displayFacts.map(f =>
-        `<div class="fact-row"><dt>${UI.esc(f.k)}</dt><dd>${UI.escRich(f.v)}</dd></div>`).join("")}</dl></div>` : ""}
+        (typeof f === "string" || !f.k)
+          ? `<div class="fact-row"><dd>${UI.escRich(typeof f === "string" ? f : (f.v || ""))}</dd></div>`
+          : `<div class="fact-row"><dt>${UI.esc(f.k)}</dt><dd>${UI.escRich(f.v)}</dd></div>`).join("")}</dl></div>` : ""}
     ${relatedHtml}
     ${more.length ? `<section class="section"><div class="section-head"><h2>More Headlines</h2>
       <a class="see-all" href="/news">See All →</a></div>

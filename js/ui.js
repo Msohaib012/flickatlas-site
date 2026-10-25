@@ -387,7 +387,7 @@ const UI = (() => {
     return { label: "Average", cls: "avg" };
   }
 
-  const LOGO = `<img class="logo-ic" src="/brand-mark.svg?v=fa-icons-20261023-2321" alt="" aria-hidden="true" width="48" height="48">`;
+  const LOGO = `<img class="logo-ic" src="/brand-mark.svg?v=fa-20261025b" alt="" aria-hidden="true" width="48" height="48">`;
 
   const NAV = [
     ["Movies", "/movies"], ["TV Shows", "/tv"], ["Box Office", "/box-office"],
