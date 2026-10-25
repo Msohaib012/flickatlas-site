@@ -752,5 +752,195 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 25 Oct 2026 13:47:29 -0400"
+  },
+  "1p82ig9": {
+    "id": "1p82ig9",
+    "type": "news",
+    "headline": "Clayface Dominates Box Office Over You Can See Everything As Street Fighter Plummets",
+    "dek": "A closer look at the recent domestic box office reveals a tight race for the top spot between Clayface and You Can See Everything, alongside a staggering drop for Street Fighter.",
+    "body": [
+      {
+        "h": "The Battle For The Weekend Crown",
+        "p": [
+          "The recent domestic box office played host to a closely contested race for the number one position between two very different cinematic offerings. Ultimately, the superhero film Clayface managed to edge out the competition, securing the top spot despite strong momentum from rival releases. Even though the feature centers around a villain rather than a traditional hero, comic book adaptations continue to demonstrate significant pulling power at the ticket counters across the nation.",
+          "However, its victory margin was remarkably slim, with only a few million dollars separating the top two contenders. Clayface managed to pull in a domestic haul of twenty-four million dollars over the weekend across three thousand four hundred and fifty-eight theaters. Hot on its heels was You Can See Everything, which finished its weekend run with nineteen million five hundred thousand dollars in the United States, bringing its cumulative domestic gross to forty-five million one hundred and forty-five thousand four hundred and seventy-six dollars."
+        ]
+      },
+      {
+        "h": "Rising Momentum For Documentaries",
+        "p": [
+          "The strong performance displayed by You Can See Everything indicates a noticeable upward trajectory compared to its previous frame. The documentary, which revolves around a businesswoman convicted of fraud and features the creative efforts of figures like Nathan Fielder and A24, saw an increase in its box office takings. This growth was largely propelled by a greater number of theater chains choosing to pick up and screen the film for wider audiences.",
+          "With word of mouth continuing to spread and viewers actively discussing its contents, speculation has grown regarding whether it could capture the number one spot during its third week in release. Observers note that it missed conquering Clayface by a relatively narrow margin. Furthermore, with a clear release schedule ahead leading into the Halloween frame, industry watchers believe a climb to the top might still be within reach."
+        ]
+      },
+      {
+        "h": "A Steep Plunge For Street Fighter",
+        "p": [
+          "While the battle at the top generated considerable discussion, the most alarming narrative emerging from the weekend figures centered around Street Fighter. Following a strong opening week that landed it at number one, the video game adaptation experienced a massive seventy-two percent drop in ticket sales. Its latest weekend gross dropped down to eight million six hundred thousand dollars, elevating its total domestic gross to forty-six million nine hundred and thirty-nine thousand dollars across three thousand five hundred and seventy-five theaters.",
+          "This dramatic slump raises serious questions regarding the longevity of the feature in commercial cinemas, particularly given the steepness of the decline in returns. Studio executives will likely be evaluating what lessons can be learned from the sharp downturn. Speculation remains over how much longer the production will manage to retain its screens as word-of-mouth reactions ripple through the consumer base."
+        ]
+      },
+      {
+        "h": "Analyzing Video Game Adaptations",
+        "p": [
+          "The sharp decline experienced by Street Fighter does not necessarily point toward a broader audience fatigue surrounding video game adaptations as a genre. Evidence to the contrary can be found in the enduring box office presence of Resident Evil, which continues to hang on to the tenth position on the charts. Resident Evil boasts a staggering total domestic take of one hundred and fifty-three million six hundred and eighty-one thousand dollars over thirty-eight days of release.",
+          "Instead of genre fatigue, analysts point to differing critical receptions as a vital dividing factor between the two titles. While Resident Evil launched to critical acclaim, Street Fighter was met with notably rough reviews from critics. Such negative initial reactions likely deterred everyday moviegoers, convincing many consumers that the adaptation was better saved for a future streaming release rather than a theater trip."
+        ]
+      },
+      {
+        "h": "Broader Chart Performers And Legacy",
+        "p": [
+          "Beyond the primary contenders, the wider box office chart featured a mix of fresh releases and lingering holdovers. Newcomer Wildwood debuted with eleven million dollars from two thousand nine hundred and forty-two theaters, while Wicker opened at five million seven hundred and fifty thousand dollars across one thousand four hundred and seventy-one locations. Other titles such as Other Mommy, Sense and Sensibility, Whalefall, and Verity continued to pull in varying sums across domestic screens.",
+          "As the industry processes these weekend statistics, discussions continue around how studios plan their release strategies and franchise aspirations. Whether major studio backers originally greenlit projects like Street Fighter with the expectation of launching a sprawling cinematic universe remains a point of industry curiosity. For now, the shifting landscape highlights the unpredictable nature of contemporary theatrical audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "Clayface earned twenty-four million dollars domestically in its opening weekend.",
+      "You Can See Everything finished its weekend with nineteen million five hundred thousand dollars.",
+      "Street Fighter experienced a seventy-two percent drop in its second weekend.",
+      "Resident Evil reached a total domestic take of one hundred and fifty-three million six hundred and eighty-one thousand dollars over thirty-eight days."
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Holmes",
+        "Nathan Fielder"
+      ],
+      "titles": [
+        "Clayface",
+        "You Can See Everything",
+        "Street Fighter",
+        "Wildwood",
+        "Wicker",
+        "Other Mommy",
+        "Sense and Sensibility",
+        "Whalefall",
+        "Verity",
+        "Resident Evil"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/7pJsgBCTnKNNPoihbWsFoc-2000-80.jpg",
+        "caption": "Clayface Dominates Box Office Over You Can See Everything As Street Fighter Plummets",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 20:01:39 +0000"
+  },
+  "1onxhn1": {
+    "id": "1onxhn1",
+    "type": "news",
+    "headline": "Specialty Box Office Roundup: Israel-Gaza Documentary 'NAZA' Crosses The One Million Dollar Milestone",
+    "dek": "The specialty film market sees robust movement across limited and moderate releases, with documentary NAZA passing a major box office threshold following its acquisition by Neon.",
+    "body": [
+      {
+        "h": "The Box Office Milestone For NAZA",
+        "p": [
+          "The specialty film circuit has witnessed a significant achievement as the documentary NAZA officially cleared the one million dollar threshold over the weekend. Originally self-distributed by producer The Guardian, the explosive Israel-Gaza project was recently acquired mid-theatrical rollout by Neon.",
+          "Directed by Yuval Abraham and Rachel Szor, who are previous Oscar-winning directors for No Other Land, the Venice-premiering feature is projected to bring in seventy-four thousand five hundred dollars across seventy-three screens during its fourth week in release, pushing its overall cumulative total to one million and seventy thousand dollars.",
+          "The filmmakers and distributors plan to expand the documentary's reach into additional cities throughout the months of October and November, continuing its current theatrical trajectory."
+        ]
+      },
+      {
+        "h": "Strong Performances Across Limited Releases",
+        "p": [
+          "Beyond the success of NAZA, several other limited releases made notable waves at the specialty box office. Netflix venture La Bola Negra expanded to nine theaters, generating a robust three-day gross of two hundred and forty-five thousand dollars during its second week on the big screen, bringing its cumulative total to six hundred and fifty thousand dollars.",
+          "The TIFF Audience Award-winner found a top-performing theater at Alamo Brooklyn, marking a historic moment as the streaming giant officially accompanies one of its films into traditional theatrical venues with recorded box office grosses. Meanwhile, Sony Pictures Classics debuted The Only Living Pickpocket in New York across six locations, pulling in one hundred and fifty-six thousand dollars.",
+          "Starring John Turturro and receiving critical acclaim, the picture was heavily boosted by audience question-and-answer sessions, with AMC Lincoln Square leading the charge locally with thirty-three thousand dollars."
+        ]
+      },
+      {
+        "h": "Cannes Winners And International Entries",
+        "p": [
+          "International and festival-acclaimed titles also carved out solid footprints in a crowded specialty market. Neon's Cannes Palme d'Or-winning drama Fjord brought in three hundred and thirty thousand dollars during its third weekend, elevating its cumulative earnings to six hundred and ninety-four thousand dollars.",
+          "Mubi introduced Paweł Pawlikowski's Cannes Best Director-winner, Fatherland, to four locations across New York and Los Angeles, resulting in an opening weekend of eighty-three thousand eight hundred dollars. The distributor reported overwhelming audience demand, marked by sold-out screenings across all participating venues.",
+          "Additionally, Neon's generation-spanning documentary Once Upon A Time In Harlem estimated a fifty thousand two hundred dollar take for its second weekend across three screens, accumulating a total of one hundred and fifty-seven thousand three hundred dollars."
+        ]
+      },
+      {
+        "h": "Moderate And Wide Releases On The Circuit",
+        "p": [
+          "In the moderate release tier, Black Bear's Wicker, featuring Olivia Colman and Alexander Skarsgard, resonated strongly with female audiences. The feature debuted in fifth place with five million seven hundred and fifty thousand dollars across one thousand four hundred and seventeen screens.",
+          "Other mid-scale openers included Sony's Klara and the Sun, which brought in seven25 thousand dollars at eight hundred and eighty locations, and Bleecker Street's A Talent for Murder starring Helen Mirren as Patricia Highsmith, which secured seven hundred and seventeen thousand eight hundred dollars over three days across eight hundred and seventy-six locations.",
+          "Documentary projects like Alex Gibney's Musk also pulled in seventy-one thousand dollars from sixty-three theaters for a cumulative gross of six hundred and forty-three thousand dollars."
+        ]
+      },
+      {
+        "h": "Wider Expansion And Major Contenders",
+        "p": [
+          "On the wider theatrical front, A24's You Can See Everything continued to dominate the fall indie crown, landing in second place during an expansion to two thousand six hundred and fifty-five screens with an estimated gross of nineteen million five hundred thousand dollars and a cumulative total of forty-five million one hundred thousand dollars.",
+          "Fathom Entertainment presented Laika's stop-motion animation Wildwood, which debuted in third place on two thousand seven hundred and seventy-nine screens with eleven million seven hundred and eighty thousand dollars.",
+          "Focus Features continued the run of Sense and Sensibility, their latest Jane Austen adaptation, which brought in three million four hundred thousand dollars on two thousand five hundred and seventy-two screens during its second week for a cumulative total of sixteen million seven hundred thousand dollars."
+        ]
+      }
+    ],
+    "facts": [
+      "NAZA is directed by Yuval Abraham and Rachel Szor.",
+      "NAZA passed the $1 million mark with a cume of $1.07 million in week 4.",
+      "La Bola Negra grossed $245k in week 2 for a cume of $650k.",
+      "The Only Living Pickpocket in New York opened to $156k across 6 theaters.",
+      "Fatherland opened to $83.8k across 4 theaters in New York and Los Angeles.",
+      "Wicker debuted to $5.75 million on 1,417 screens at no. 5."
+    ],
+    "entities": {
+      "people": [
+        "Yuval Abraham",
+        "Rachel Szor",
+        "John David Coles",
+        "Zohran Mamdani",
+        "Nathan Fielder",
+        "Paweł Pawlikowski",
+        "Olivia Colman",
+        "Alexander Skarsgard",
+        "Helen Mirren",
+        "Patricia Highsmith",
+        "Alex Gibney",
+        "Rajinikanth",
+        "Hrithik Roshan",
+        "Nelson Dilipkumar",
+        "Jane Austen",
+        "Duncan Crabtree-Ireland",
+        "Quentin Tarantino",
+        "Cliff Booth",
+        "Kaitlin Olson",
+        "Matthew Lamb",
+        "Jessica Biel",
+        "Erin Foster",
+        "Renate Reinsve",
+        "Cristian Mungiu"
+      ],
+      "titles": [
+        "NAZA",
+        "No Other Land",
+        "The Choice",
+        "Once Upon A Time In Harlem",
+        "Fjord",
+        "Clayface",
+        "La Bola Negra",
+        "The Only Living Pickpocket in New York",
+        "Fatherland",
+        "Wicker",
+        "Klara and the Sun",
+        "A Talent for Murder",
+        "Musk",
+        "Jailer 2",
+        "You Can See Everything",
+        "Wildwood",
+        "Sense and Sensibility",
+        "Cliff Booth",
+        "High Potential",
+        "7th Heaven",
+        "Nobody Wants This"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/08/Image-1-1.jpg?w=1024",
+        "caption": "Specialty Box Office Roundup: Israel-Gaza Documentary 'NAZA' Crosses The One Million Dollar Milestone",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 25 Oct 2026 19:31:12 +0000"
   }
 };
