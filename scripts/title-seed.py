@@ -16,6 +16,10 @@ Sources (TMDB lists, page 1 each):
                the movie lists above are world-dominated by popularity,
                so Bollywood needs its own source)
   pk_dramas    — /discover/tv?with_origin_country=PK (Pakistani dramas)
+  pk_movies    — /discover/movie?with_origin_country=PK (Pakistani
+               films — Lollywood had dramas only, no movies, because
+               there was no movies source; primary_release_date.gte
+               keeps it to the last 90 days + upcoming)
 
 Record assembly is NOT duplicated here: it reuses scripts/publish-titles.py
 (fetch_title, build_entry, read_js_map, write_js_map, HEADER) via
@@ -31,7 +35,7 @@ Rules (selection, in order):
     date is old but it may still be airing); currency is checked at
     details level instead (last_air_date / next episode / status)
   - dedup within the run (a title can appear in several lists)
-  - round-robin across the 5 sources so the batch is mixed, capped at
+  - round-robin across the 6 sources so the batch is mixed, capped at
     FIRST_RUN_MAX (15) on the first run (<=2 published titles) and
     DAILY_MAX (5) otherwise
 Details-level rules (after fetching each picked id):
@@ -64,7 +68,7 @@ CONFIG_JS = os.path.join(ROOT, "js", "config.js")
 PUBLISH_TITLES = os.path.join(ROOT, "scripts", "publish-titles.py")
 
 FIRST_RUN_MAX = 15
-DAILY_MAX = 5
+DAILY_MAX = 6
 FRESH_DAYS = 90
 
 # (source name, media type, TMDB list path) — order is the round-robin
@@ -86,6 +90,16 @@ SOURCES = [
      # (Dar-E-Nijaat, Rutba, Mitti De Baway, ...).
      "/discover/tv?with_origin_country=PK&first_air_date.gte={cutoff}"
      "&sort_by=popularity.desc"),
+    ("pk_movies", "movie",
+     # Pakistani films (Lollywood). PRIMARY release date, not plain
+     # release_date: the plain filter matches ANY regional re-release
+     # date and pulls in old films (The Legend of Maula Jatt, 2022,
+     # appeared in a release_date.gte spike query — 2026-10-26).
+     # {cutoff} = 90 days ago; {horizon} = 90 days ahead (keeps
+     # 2027-2030 fan films out — movie_fresh passes any future date).
+     "/discover/movie?with_origin_country=PK"
+     "&primary_release_date.gte={cutoff}"
+     "&primary_release_date.lte={horizon}&sort_by=popularity.desc"),
 ]
 
 TMDB_BASE = "https://api.themoviedb.org/3"
@@ -196,9 +210,10 @@ def fetch_lists(key):
     """Fetch page 1 of every source list. Returns {source: [items]}.
     {cutoff} in a path is the freshness cutoff (FRESH_DAYS ago)."""
     cutoff = (date.today() - timedelta(days=FRESH_DAYS)).isoformat()
+    horizon = (date.today() + timedelta(days=FRESH_DAYS)).isoformat()
     out = {}
     for name, media, path in SOURCES:
-        data = tmdb_get(path.format(cutoff=cutoff), key)
+        data = tmdb_get(path.format(cutoff=cutoff, horizon=horizon), key)
         items = (data or {}).get("results") or []
         out[name] = items
         print(f"  {name}: {len(items)} candidates "
@@ -327,3 +342,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

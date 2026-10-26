@@ -9,6 +9,8 @@ Reads out/gemini-batch.json (from scripts/gemini_batch.py) and:
      keyed by TMDB id; a row for the same film+day is UPDATED (a correction
      replaces the old number, it never creates a second post/row), otherwise
      appended. Collection is USD (converted in gemini_batch.py at 94.65).
+     Rows come from out/gemini-batch.json ("box_office") and, when present,
+     out/boxoffice-backfill.json (one-time backfill over old articles).
   3. Writes out/auto-feed.json — feed entries for the new articles, which
      scripts/convert-news.py merges into api-news.json (same shape as the
      panel's publish-export feed).
@@ -84,13 +86,24 @@ def parse_ts(published):
 
 def main():
     batch_path = os.path.join(OUT_DIR, "gemini-batch.json")
-    if not os.path.exists(batch_path):
-        print("apply-auto: no gemini-batch.json, nothing to do")
-        return 0
-    with open(batch_path, encoding="utf-8") as f:
-        batch = json.load(f)
+    if os.path.exists(batch_path):
+        with open(batch_path, encoding="utf-8") as f:
+            batch = json.load(f)
+    else:
+        batch = {}
+        print("apply-auto: no gemini-batch.json, batch empty")
     articles = batch.get("articles") or []
     box_rows = batch.get("box_office") or []
+    # One-time backfill (scripts/backfill_boxoffice.py): rows extracted
+    # from articles already published. Merged by the same section-2 rules
+    # below (same film+day updates, never duplicated, never zero).
+    bf_path = os.path.join(OUT_DIR, "boxoffice-backfill.json")
+    if os.path.exists(bf_path):
+        with open(bf_path, encoding="utf-8") as f:
+            bf_rows = json.load(f).get("box_office") or []
+        if bf_rows:
+            print(f"box office: +{len(bf_rows)} backfill rows from {bf_path}")
+            box_rows = box_rows + bf_rows
     if not articles and not box_rows:
         print("apply-auto: batch empty, nothing to do")
         return 0

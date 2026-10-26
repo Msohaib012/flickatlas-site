@@ -27,12 +27,18 @@ DETECTION (spike-proven 2026-10-26):
     q="Episode" + videoDuration=long + order=date) returns the full
     episodes; filter to the official channelId (excludes reuploads),
     confirm duration >= 20 min + read viewCount via videos.list.
-  - The 4 official full-episode channels (verified via videos.list
-    channelId, 2026-10-26):
+  - The 7 official full-episode channels (verified via videos.list
+    channelId; PK 2026-10-26, IN/BD 2026-10-26):
       HUM TV               UCEeEQxm6qc_qaTE7qTV5aLQ  (TMDB network 1204)
       ARY Digital HD       UC4JCksJF76g_MdzPVBJoC3Q  (TMDB network 815)
       HAR PAL GEO          UCe9JSDmyqNgA_l2BzGHq1Ug  (TMDB networks 751/1843)
       Green TV Entertainment UCF2ltLX1dnPa6-L1paPaMzw (TMDB network 7134)
+      StarPlus (IN)        UC-LPIU24bQXVljUXivKEeRQ  (Hindi classics)
+      StarPlus Classics (IN) UC-0Rh4XQdw2jV8N7rqDJj0Q (Hindi classics)
+      Rtv Drama Serial (BD) UCLRgwoSpvgFGuzMeSzWG6xQ (Bengali serials)
+    Per-channel search query (q): PK titles say "Episode", StarPlus
+    titles say "Full Ep.", Rtv titles say "Ep" — q="Episode" does NOT
+    match the abbreviations, so each channel carries its own query.
   - Episode titles parse cleanly (11/11 in the spike): "<Drama> Episode
     <N>", "<Drama> - Episode <N>", "<Drama> - Last Episode" (finale),
     "EP.<N> - <Drama>". Teasers/promos/Best Scene/Best Moment/Shorts/
@@ -81,14 +87,27 @@ EPISODE_FEED_JSON = os.path.join(OUT_DIR, "episode-feed.json")
 
 MODEL = "gemini-3.5-flash-lite"
 SUMMARY_MAX_PER_DAY = 2
-MIN_FULL_EPISODE_SEC = 20 * 60  # full episodes are 35-45 min; clips < 15
+MIN_FULL_EPISODE_SEC = 20 * 60  # PK full episodes are 35-45 min; clips < 15
+# International channels: StarPlus full episodes run 18-19 min, so
+# their floor is 15 min (clips are still < 15 min on every channel).
+# PK keeps the 20-min floor — its detection is untouched.
+MIN_FULL_EPISODE_SEC_INTL = 15 * 60
 
-# (display name, YouTube channel id, TMDB network ids, channel label)
+# (display name, YouTube channel id, TMDB network ids, news-feed
+# category, search.list query). Feed category must be one the news feed
+# can display (convert-news.py + js/page-news.js): "pakistan" (PK),
+# "bollywood" (Indian/Hindi — StarPlus is Hindi TV, the Bollywood chip
+# is the closest existing filter), "international" (everything else —
+# the news page shows it as World Cinema). Search query is per-channel
+# (see docstring): PK "Episode", StarPlus "Full Ep", Rtv "Ep".
 CHANNELS = [
-    ("HUM TV", "UCEeEQxm6qc_qaTE7qTV5aLQ", [1204]),
-    ("ARY Digital", "UC4JCksJF76g_MdzPVBJoC3Q", [815]),
-    ("Geo TV", "UCe9JSDmyqNgA_l2BzGHq1Ug", [751, 1843]),
-    ("Green TV", "UCF2ltLX1dnPa6-L1paPaMzw", [7134]),
+    ("HUM TV", "UCEeEQxm6qc_qaTE7qTV5aLQ", [1204], "pakistan", "Episode"),
+    ("ARY Digital", "UC4JCksJF76g_MdzPVBJoC3Q", [815], "pakistan", "Episode"),
+    ("Geo TV", "UCe9JSDmyqNgA_l2BzGHq1Ug", [751, 1843], "pakistan", "Episode"),
+    ("Green TV", "UCF2ltLX1dnPa6-L1paPaMzw", [7134], "pakistan", "Episode"),
+    ("StarPlus", "UC-LPIU24bQXVljUXivKEeRQ", [], "bollywood", "Full Ep"),
+    ("StarPlus Classics", "UC-0Rh4XQdw2jV8N7rqDJj0Q", [], "bollywood", "Full Ep"),
+    ("Rtv Drama Serial", "UCLRgwoSpvgFGuzMeSzWG6xQ", [], "international", "Ep"),
 ]
 CHANNEL_BY_YT_ID = {c[1]: c[0] for c in CHANNELS}
 RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
@@ -100,6 +119,26 @@ TITLE_PATTERNS = [
     ("C", re.compile(r"^(?P<drama>.+?)\s*-\s*Last Episode\b", re.I)),
     ("D", re.compile(r"^EP\.?\s*(?P<ep>\d+)\s*-\s*(?P<drama>.+?)\s*(?:\||$)", re.I)),
 ]
+# Title patterns for the international channels (added 2026-10-26).
+# StarPlus / StarPlus Classics: "<hook> | Full Ep. NNN | <Show>" —
+# show name is the text AFTER the final "|".
+# Rtv Drama Serial: "<Show> | <Bengali name> | Ep - NNN" — show name is
+# the text BEFORE the first "|". Tried FIRST in parse_episode_title:
+# their formats never match the Pakistani patterns, and their
+# story-hook titles legitimately contain words the Pakistani exclusion
+# list blocks ("romantic", "emotional", "moment", "scene").
+INTL_PATTERNS = [
+    ("E", re.compile(r"Full Ep\.?\s*(?P<ep>\d+)\s*\|\s*(?P<drama>[^|]+)", re.I)),
+    ("F", re.compile(r"^(?P<drama>[^|]+?)\s*\|.*?\bEp\s*-?\s*(?P<ep>\d+)\b", re.I)),
+]
+# Narrow exclusion for the international patterns: strong clip markers
+# only. The number pattern itself ("Full Ep. NNN" / "Ep - NNN") plus
+# the 15-min duration floor are the primary guards — clips do not
+# carry those markers.
+INTL_EXCLUDE_RE = re.compile(
+    r"teaser|promo|best scene|best moment|clip|highlights|"
+    r"shorts?\b|ost\b|behind the scenes|review|trailer",
+    re.I)
 # Anything matching these is NOT a full episode (teaser/promo/clip/...).
 # Matched AFTER NFKD normalisation (see parse_episode_title), so the
 # channels' stylised Unicode ("𝐁𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐞", "𝐁𝐞𝐬𝐭 𝐌𝐨𝐦𝐞𝐧𝐭")
@@ -202,6 +241,29 @@ def parse_episode_title(title):
     import unicodedata
     title = unicodedata.normalize("NFKD", title)
     title = "".join(c for c in title if not unicodedata.combining(c))
+    # International formats FIRST (StarPlus "Full Ep. NNN | Show",
+    # Rtv "Show | ... | Ep - NNN"): narrow exclusion only — the
+    # story-hook titles legitimately contain words the Pakistani
+    # exclusion list blocks ("romantic", "emotional", "moment", "scene").
+    for _tag, pat in INTL_PATTERNS:
+        m = pat.search(title)
+        if not m:
+            continue
+        if INTL_EXCLUDE_RE.search(title):
+            return None
+        gd = m.groupdict()
+        drama = (gd.get("drama") or "").strip().strip("-").strip()
+        drama = NAME_STRIP_RE.sub("", drama).strip()
+        if not drama or len(drama) < 2:
+            continue
+        if "|" in drama or "—" in drama:
+            continue
+        if any(ord(c) > 127 for c in drama):
+            continue
+        ep = gd.get("ep")
+        if ep is not None:
+            return drama, int(ep), False
+    # Pakistani formats (unchanged): full exclusion, then A-D.
     if EXCLUDE_RE.search(title):
         return None
     for _tag, pat in TITLE_PATTERNS:
@@ -284,7 +346,7 @@ def build_drama_pool(tmdb_key):
     today = datetime.now(timezone.utc).date()
     cutoff = (today - timedelta(days=90)).isoformat()
     queries = []
-    for _name, _cid, nids in CHANNELS:
+    for _name, _cid, nids, _cat, _q in CHANNELS:
         for nid in nids:
             queries.append((f"network:{nid}",
                             {"with_networks": nid, "with_origin_country": "PK",
@@ -294,7 +356,7 @@ def build_drama_pool(tmdb_key):
                                "air_date.lte": today.isoformat(),
                                "sort_by": "popularity.desc", "page": 1}))
     net_to_channel = {}
-    for name, _cid, nids in CHANNELS:
+    for name, _cid, nids, _cat, _q in CHANNELS:
         for nid in nids:
             net_to_channel[nid] = name
     for label, params in queries:
@@ -353,10 +415,10 @@ def detect_via_api(yt_key, lookback_hours):
     since = (datetime.now(timezone.utc) -
              timedelta(hours=lookback_hours)).isoformat().replace("+00:00", "Z")
     candidates = []
-    for ch_name, ch_id, _nids in CHANNELS:
+    for ch_name, ch_id, _nids, feed_cat, query in CHANNELS:
         try:
             res = yt_get(yt_key, "/search", {
-                "part": "snippet", "channelId": ch_id, "q": "Episode",
+                "part": "snippet", "channelId": ch_id, "q": query,
                 "type": "video", "videoDuration": "long", "order": "date",
                 "publishedAfter": since, "maxResults": 25})
         except Exception as e:
@@ -378,6 +440,7 @@ def detect_via_api(yt_key, lookback_hours):
             meta[vid] = {"video_id": vid, "title": title, "drama": drama,
                          "episode": ep, "is_finale": is_finale,
                          "channel": ch_name, "channel_id": ch_id,
+                         "cats": [feed_cat],
                          "published": sn.get("publishedAt") or "",
                          "url": f"https://www.youtube.com/watch?v={vid}"}
         if not ids:
@@ -400,7 +463,9 @@ def detect_via_api(yt_key, lookback_hours):
                     continue
                 dur = parse_iso_duration(
                     (it.get("contentDetails") or {}).get("duration") or "")
-                if dur < MIN_FULL_EPISODE_SEC:
+                floor = (MIN_FULL_EPISODE_SEC if feed_cat == "pakistan"
+                         else MIN_FULL_EPISODE_SEC_INTL)
+                if dur < floor:
                     continue  # short clip, not a full episode
                 st = it.get("statistics") or {}
                 try:
@@ -425,7 +490,7 @@ def detect_via_rss():
           "yt": "http://www.youtube.com/xml/schemas/2015",
           "media": "http://search.yahoo.com/mrss/"}
     candidates = []
-    for ch_name, ch_id, _nids in CHANNELS:
+    for ch_name, ch_id, _nids, feed_cat, _q in CHANNELS:
         url = RSS_URL.format(cid=ch_id)
         try:
             req = urllib.request.Request(
@@ -449,7 +514,8 @@ def detect_via_rss():
             candidates.append({"video_id": vid, "title": title,
                                "drama": drama, "episode": ep,
                                "is_finale": is_finale, "channel": ch_name,
-                               "channel_id": ch_id, "published": pub,
+                               "channel_id": ch_id, "cats": [feed_cat],
+                               "published": pub,
                                "url": f"https://www.youtube.com/watch?v={vid}",
                                "duration_sec": 0, "views": 0})
             n += 1
@@ -695,6 +761,7 @@ def main():
                 feed_entries.append({
                     "id": aid, "title": art["headline"],
                     "link": ep["url"], "source": ep["channel"],
+                    "cats": ep.get("cats") or ["pakistan"],
                     "ts": ts if ts is not None else int(time.time() * 1000)})
                 feed_have.add(aid)
         posted += 1
@@ -775,3 +842,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

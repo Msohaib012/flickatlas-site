@@ -206,8 +206,10 @@ def build_news(queue_path, registry_path):
     # the auto-feed. Episode info posts (scripts/episode-guides.py) reach
     # the feed the same way auto-written articles do; they win on id
     # collisions. The queue's YouTube exclusion above does NOT apply here
-    # — these are written posts, not raw fetched headlines. All four
-    # channels are Pakistani dramas, so cats = ["pakistan"].
+    # — these are written posts, not raw fetched headlines. Cats come
+    # from the entry itself (per-channel, set by the tracker: PK
+    # channels "pakistan", StarPlus "bollywood", Rtv "international");
+    # entries written before cats existed fall back to ["pakistan"].
     ep_path = os.path.join(OUT_DIR, "episode-feed.json")
     if os.path.exists(ep_path):
         try:
@@ -221,13 +223,16 @@ def build_news(queue_path, registry_path):
                 if not link or not title or not entry_id or not isinstance(ts, int):
                     continue
                 source = entry.get("source") or ""
+                cats = entry.get("cats")
+                if not isinstance(cats, list) or not cats:
+                    cats = ["pakistan"]
                 items = [i for i in items if i["id"] != entry_id]
                 items.append({
                     "id": entry_id,
                     "title": title,
                     "link": link,
                     "source": source,
-                    "cats": ["pakistan"],
+                    "cats": cats,
                     "ts": ts,
                     "summary": "",
                 })
@@ -355,4 +360,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

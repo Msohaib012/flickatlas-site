@@ -4,17 +4,19 @@ name: Title seeder (TMDB titles)
 # TMDB lists and publishes them as FA_PUBLISHED entries, so the Movies /
 # Spotlight / Trending / Dramas sections fill up. Titles are TMDB FACTS
 # (no AI, no approval gate) — they go live directly.
-#   scripts/title-seed.py — fetches 5 TMDB lists (trending, now-playing,
+#   scripts/title-seed.py — fetches 6 TMDB lists (trending, now-playing,
 #   upcoming, Bollywood discover, Pakistani-dramas discover), applies the
 #   freshness / poster / dedup rules, round-robins across sources to the
-#   cap (15 first run, 5/day after), assembles each title with
+#   cap (15 first run, 6/day after), assembles each title with
 #   scripts/publish-titles.py and appends it to js/published-titles.js.
 #   A run that finds no new titles commits nothing and deploys nothing.
 # Requires repo secret TMDB_API_KEY (same key as js/config.js); the
 # script falls back to js/config.js when the secret is missing.
 on:
   schedule:
-    - cron: '30 4 * * *'
+    # Nightly run at 23:00 PKT (18:00 UTC) — new titles land the
+    # same night, like the episode tracker, not the next morning.
+    - cron: '0 18 * * *'
   workflow_dispatch:
 concurrency:
   group: flickatlas-site-writes
@@ -56,3 +58,4 @@ jobs:
             git pull --rebase
             git push
           fi
+

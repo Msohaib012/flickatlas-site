@@ -67,6 +67,11 @@ import urllib.parse
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
+# Sibling module: deterministic day-wise box-office extraction (regex
+# fallback when Gemini's box_office object is empty/incomplete).
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import boxoffice_extract
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.environ.get("OUT_DIR", os.path.join(ROOT, "out"))
 
@@ -750,6 +755,11 @@ def main():
     attempt_order = round_robin_order(ordered, _cat_of)
 
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
+    # Published titles (for box-office tmdb_id resolution): local,
+    # no secret, no API call. TMDB_API_KEY is not a repo secret, so the
+    # old TMDB-API lookup always returned "" and every row was silently
+    # dropped. Rows are only produced for PUBLISHED titles.
+    published = boxoffice_extract.load_published(ROOT)
     articles, box_rows, skipped = [], [], []
     for item in attempt_order:
         if len(articles) >= batch_size:
@@ -803,7 +813,16 @@ def main():
             "published": item.get("published") or "",
         }
         articles.append(article)
+        # --- box-office rows (day-wise) ---
+        # Gemini's box_office object first; when it is empty/incomplete,
+        # a deterministic regex fallback over the article Gemini just
+        # wrote (scripts/boxoffice_extract.py: facts first, then body).
+        # tmdb_id comes from FA_PUBLISHED, never the TMDB API (the API
+        # key is not a repo secret, so resolve_tmdb_id() always returned
+        # "" and every row was silently dropped). A film that is not
+        # published gets NO row — it could never display.
         bo = result.get("box_office") or {}
+        n_bo_before = len(box_rows)
         if bo.get("film") and bo.get("day") and bo.get("collection_inr_crore") is not None:
             # A zero/missing collection means Gemini had no number (e.g. the
             # source was a 404 page) — never write a 0 into the day-wise data.
@@ -811,19 +830,36 @@ def main():
                 print("  box office: collection missing/zero, row dropped")
             else:
                 tmdb_id = (bo.get("tmdb_id") or "").strip()
-                if not tmdb_id:
-                    tmdb_id = resolve_tmdb_id(bo.get("film"), tmdb_key)
+                entry = None
                 if tmdb_id:
+                    entry = next((e for e in published.values()
+                                  if e["tmdb_id"] == tmdb_id), None)
+                if entry is None:
+                    entry = boxoffice_extract.match_published(
+                        bo.get("film"), published)
+                if entry is None:
+                    print(f"  box office: '{bo.get('film')}' not published, row dropped")
+                else:
                     box_rows.append({
-                    "tmdb_id": tmdb_id,
-                    "film": bo.get("film"),
-                    "day": int(bo["day"]),
-                    "date": bo.get("date") or (item.get("published") or "")[:10],
-                    "collection_usd": round(float(bo["collection_inr_crore"]) * 1e7 / INR_TO_USD),
-                    "collection_inr_crore": float(bo["collection_inr_crore"]),
-                    "sources": bo.get("sources") or [item.get("source") or ""],
-                    "article_url": url,
-                })
+                        "tmdb_id": entry["tmdb_id"],
+                        "film": entry["title"],
+                        "day": int(bo["day"]),
+                        "date": bo.get("date") or (item.get("published") or "")[:10],
+                        "collection_usd": round(float(bo["collection_inr_crore"]) * 1e7 / INR_TO_USD),
+                        "collection_inr_crore": float(bo["collection_inr_crore"]),
+                        "sources": bo.get("sources") or [item.get("source") or ""],
+                        "article_url": url,
+                    })
+        if len(box_rows) == n_bo_before:
+            # Gemini gave no usable row — extract day-wise figures from
+            # the article itself. No extra Gemini call, no invented
+            # figures; the extractor only takes single-day figures that
+            # are actually stated (never totals, never weekend splits).
+            fb_rows = boxoffice_extract.extract_box_rows(article, published)
+            if fb_rows:
+                print(f"  box office: fallback extracted {len(fb_rows)} row(s) "
+                      f"({', '.join('Day ' + str(r['day']) for r in fb_rows)})")
+                box_rows.extend(fb_rows)
         processed[fp] = {
             "url": url, "title": title,
             "article_id": None,  # filled by apply-auto.py

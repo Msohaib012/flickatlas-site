@@ -14,7 +14,11 @@ name: Episode guides (YouTube tracker)
 # without them).
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # Runs 00:00, 06:00, 12:00, 18:00 PKT (19, 01, 07, 13 UTC).
+    # The midnight PKT run is the main one: by ~midnight PKT every
+    # channel's episodes for the day are uploaded, so the full
+    # day's episodes publish that night, not the next morning.
+    - cron: '0 19,1,7,13 * * *'
   workflow_dispatch:
 concurrency:
   group: flickatlas-site-writes
@@ -74,3 +78,4 @@ jobs:
             git pull --rebase
             git push
           fi
+

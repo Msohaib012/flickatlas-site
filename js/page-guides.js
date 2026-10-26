@@ -1,5 +1,5 @@
 /* FlickAtlas — Episode Guides hub (/episode-guides): the episode list.
-   Pakistani dramas — every episode post, newest first. Episodes come
+   Drama episodes — every episode post, newest first. Episodes come
    from the YouTube episode tracker (scripts/episode-guides.py): each
    new episode gets an info post the same day, and the top episodes by
    views get an AI story summary added gradually. This page lists the
@@ -14,14 +14,14 @@
   UI.mountChrome("/episode-guides");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Episode Guides — Pakistani Dramas | FlickAtlas",
-    desc: "Latest Pakistani drama episodes on FlickAtlas — episode number, air date, channel, views and story summary, newest first.",
+    title: "Drama Episode Guides — Latest Drama Episodes | FlickAtlas",
+    desc: "Latest drama episodes on FlickAtlas — episode number, air date, channel, views and story summary, newest first.",
     path: "/episode-guides"
   });
 
   main.innerHTML = `<div class="wrap">
-    <div class="page-hero"><h1>Episode Guides</h1>
-      <p>Pakistani dramas — every new episode, newest first, with its story summary when one is ready.</p></div>
+    <div class="page-hero"><h1>Drama — Episode Guides</h1>
+      <p>Latest drama episodes from YouTube channels, newest first, with a story summary when one is ready.</p></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading episodes…</p>
     <div id="guideHost"><div class="sk" style="height:280px;border-radius:22px"></div></div>
   </div>`;
@@ -136,3 +136,4 @@
     host.innerHTML = UI.stateMsg("Could not load episode guides. Please try again.");
   }
 })();
+

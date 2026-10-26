@@ -308,10 +308,10 @@
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Latest Pakistani Releases</h2>
       <a class="see-all" href="/category?cat=lollywood">See All →</a></div>
-      <p class="sec-sub">Recent Pakistani films and dramas with listed dates; newest first.</p>
+      <p class="sec-sub">Pakistani movies &amp; dramas only, latest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
-    /* Pakistani episode releases (user order 2026-10-26): EPISODE cards,
+    /* Drama episodes (user order 2026-10-26): EPISODE cards,
        not drama posters — the latest YouTube episode posts, newest first.
        Episode articles come from FA_ARTICLES (loaded before this script);
        identified by the episode headline pattern "— Watch on <channel>"
@@ -335,9 +335,9 @@
       .sort((a, b) => String(b.published || "").localeCompare(String(a.published || "")));
     const epLatest = epArticles.slice(0, HOME_LIMITS.dramas);
     const pkRailHtml = epLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
-      <div class="section-head"><h2>Latest Episode Releases</h2>
-      <a class="see-all" href="/episode-guides">Episode Guides →</a></div>
-      <p class="sec-sub">Newest Pakistani drama episodes, latest first; open an episode for its story summary.</p>
+      <div class="section-head"><h2><a href="/episode-guides" style="color:inherit">Drama Episodes</a></h2>
+      <a class="see-all" href="/episode-guides">See All →</a></div>
+      <p class="sec-sub">Latest drama episodes from YouTube channels, newest first; open an episode for its story summary.</p>
       <div class="scroller">${epLatest.map(a => episodeCard(a)).join("")}</div></section>` : "";
 
     /* ---------- Awards strip (fix round 2, Bug F): the next dated
@@ -498,5 +498,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
