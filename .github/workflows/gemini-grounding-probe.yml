@@ -28,7 +28,8 @@ jobs:
       MODEL: ${{ inputs.model }}
     steps:
       - name: Grounded Jailer 2 probe (key never printed)
-        run: python3 - <<'EOF'
+        run: |
+          python3 - <<'EOF'
           import json, os, urllib.request, urllib.error
           idx = os.environ["KEY_INDEX"]
           model = os.environ["MODEL"]
@@ -59,4 +60,4 @@ jobs:
           except urllib.error.HTTPError as e:
               print("RESULT: HTTP_" + str(e.code))
               print("ERROR_BODY:", e.read().decode()[:800])
-        EOF
+          EOF
