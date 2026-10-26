@@ -392,7 +392,7 @@
           <div class="news-slider-viewport">${slides.map(({ it, img, primary }, i) => {
             const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
             return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
-              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" alt="" ${i === 0 ? 'fetchpriority="high"' : ''} decoding="async" onerror="this.onerror=null;this.src='${UI.esc(img)}'"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
+              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" alt="" ${i === 0 ? 'fetchpriority="high"' : ''} decoding="async" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src='${UI.esc(img)}';}else{this.style.display='none';this.parentElement.style.background='linear-gradient(135deg,#0e3b2e,#14532d)';}"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
               <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
               ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
             </a>`;
@@ -701,6 +701,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
