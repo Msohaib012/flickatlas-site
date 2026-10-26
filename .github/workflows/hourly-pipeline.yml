@@ -70,6 +70,7 @@ jobs:
               "run_tavily": hour in (8, 18) or overdue("tavily_boxoffice", 12),
               "run_reviews": hour == 19 or overdue("gemini_reviews", 24),
               "run_trending": hour == 18 or overdue("trending_weekly", 24),
+              "run_overseas": hour == 8 or overdue("overseas_ai", 24),
               "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
               "run_stats_health": hour == 6 or overdue("stats_health", 24),
           }
@@ -173,6 +174,32 @@ jobs:
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
         run: python3 scripts/trending_weekly.py || echo "trending-weekly failed, continuing"
+
+      # --- 5d. Overseas AI gap-filler (daily) -------------------------
+      # Fills MISSING per-day overseas figures only (never rewrites a
+      # figure that already exists): Tavily search (2 queries/movie) +
+      # Gemini JSON extraction, grounded only — a figure is used only if
+      # a search result states it for the matching day number; worldwide
+      # / India / totals are rejected; nothing is estimated. Writes
+      # out/boxoffice-staging/overseas-ai.json, which the engine (step 6)
+      # averages in. Runs 08:00 UTC (13:00 PKT) + 24h overdue catch-up.
+      # No keys -> SKIP exit 0. The Sacnilk reader (step 6) already
+      # captures each new day's overseas/shows/occupancy directly, so
+      # this step only covers days Sacnilk never reported.
+      - name: Overseas AI gap-filler
+        id: overseas
+        if: steps.decide.outputs.run_overseas == 'true'
+        continue-on-error: true
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+        run: python3 scripts/overseas_ai.py --out out/boxoffice-staging/overseas-ai.json || echo "overseas-ai failed/missing, continuing"
 
       # --- 6. Multi-source box office (hourly) ---------------------------
       # Per-site readers fetch day-wise INDIA NET figures into
@@ -336,6 +363,7 @@ jobs:
           TAVILY_OUTCOME: ${{ steps.multisource.outcome }}
           REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
           TRENDING_OUTCOME: ${{ steps.trending.outcome }}
+          OVERSEAS_OUTCOME: ${{ steps.overseas.outcome }}
           MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
@@ -350,6 +378,7 @@ jobs:
           RUN_REVIEWS: ${{ steps.decide.outputs.run_reviews }}
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
+          RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
         run: |
           python3 - <<'PYEOF'
           import json, os
@@ -371,6 +400,8 @@ jobs:
                                     os.environ.get("SACNILK_OUTCOME")),
               "tavily_boxoffice": (os.environ.get("RUN_TAVILY") == "true",
                                    os.environ.get("TAVILY_OUTCOME")),
+              "overseas_ai": (os.environ.get("RUN_OVERSEAS") == "true",
+                              os.environ.get("OVERSEAS_OUTCOME")),
               "gemini_reviews": (os.environ.get("RUN_REVIEWS") == "true",
                                  os.environ.get("REVIEWS_OUTCOME")),
               "trending_weekly": (os.environ.get("RUN_TRENDING") == "true",
@@ -480,6 +511,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
