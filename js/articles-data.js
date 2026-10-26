@@ -5027,5 +5027,312 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-24T11:00:08Z"
+  },
+  "1kktmf0": {
+    "id": "1kktmf0",
+    "type": "news",
+    "headline": "Drishyam 3 vs Drishyam 2 Box Office: Comparing the Fourth Weekend Performances",
+    "dek": "An analytical look at how Ajay Devgn-starred crime thriller Drishyam 3 performed during its fourth weekend at the Indian box office in comparison to its predecessor, Drishyam 2.",
+    "body": [
+      {
+        "h": "Introduction to the Fourth Weekend Showdown",
+        "p": [
+          "The theatrical run of the Ajay Devgn-led crime thriller Drishyam 3 continues to generate steady box office revenues in the Indian market. Even amidst competition from a variety of new theatrical releases, the feature has managed to retain its core audience base and pull in notable numbers as it entered its fourth weekend.",
+          "Accumulating over 7 crore net across its fourth weekend, the film demonstrated respectable stamina despite inherent genre constraints. While initial anticipation and reviews pointed toward monumental figures, the natural slowdown typical of suspense thrillers played its part in shaping the weekend trajectory."
+        ]
+      },
+      {
+        "h": "Drishyam 3 Box Office Breakdown",
+        "p": [
+          "The fourth weekend for Drishyam 3 kicked off on its fourth Friday, which corresponds to day 22 of its theatrical release, bringing in 1.4 crore net. Moving into Saturday, or day 23, the production witnessed a significant upward surge of 89.29 percent, adding another 2.65 crore to its tally.",
+          "The momentum continued into Sunday, day 24, with a further 13.21 percent growth rate that accounted for 3 crore net. These figures culminated in a combined fourth-weekend collection of 7.05 crore net, pushing its cumulative domestic net earnings to 369.3 crore, which translates to a gross collection of 435.8 crore."
+        ]
+      },
+      {
+        "h": "Tracing Previous Week-Wise Earnings",
+        "p": [
+          "The journey of Drishyam 3 to its current milestone has been marked by strong numbers right from its inception. During its opening week, the film dominated ticket windows by raking in 243.5 crore net.",
+          "As the weeks progressed, the collections naturally tapered down, securing 90 crore net in week two and 28.75 crore net in week three, before entering the fourth-weekend phase with the aforementioned daily figures."
+        ]
+      },
+      {
+        "h": "Milestones and Franchise Comparisons",
+        "p": [
+          "Beyond its weekend comparisons, Drishyam 3 has achieved notable internal milestones within the cinematic landscape. Notably, it surpassed Border 2 to secure its position as the second highest-grossing Bollywood film of 2026 in India.",
+          "Furthermore, the project officially emerged as the most-watched film within Ajay Devgn's Drishyam franchise, highlighting the enduring popularity of the suspenseful narrative among moviegoers."
+        ]
+      },
+      {
+        "h": "Drishyam 2’s Historical Fourth Weekend",
+        "p": [
+          "When looking back at the predecessor, Drishyam 2 experienced a different kind of theatrical trajectory. Although its initial opening figures were lower than the record-breaking start of the threequel, it exhibited exceptionally strong legs fueled by positive word-of-mouth.",
+          "During its fourth weekend, Drishyam 2 brought in 2.62 crore on its fourth Friday, jumped 78.24 percent to 4.67 crore on Saturday, and grew an additional 31.91 percent to reach 6.16 crore on Sunday, totaling 13.45 crore net."
+        ]
+      },
+      {
+        "h": "Final Verdict on the Weekend Battle",
+        "p": [
+          "A direct comparison reveals that Drishyam 2 outperformed Drishyam 3 during their respective fourth weekends. The second installment managed to earn 6.4 crore, or 90.78 percent more, than the third film during the exact same timeframe.",
+          "This outcome indicates that the second chapter of the Hindi franchise maintained a more resilient long-term box office trajectory throughout its entire theatrical run compared to its successor."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam 3 earned over 7 crore net in its fourth weekend.",
+      "Drishyam 3 earned 1.4 crore net on day 22.",
+      "Drishyam 3 earned 2.65 crore net on day 23 after an 89.29% growth.",
+      "Drishyam 3 earned 3 crore net on day 24 after a 13.21% growth.",
+      "Drishyam 3 total fourth weekend collection is 7.05 crore net.",
+      "Drishyam 3 total domestic net collection stands at 369.3 crore.",
+      "Drishyam 3 total gross collection stands at 435.8 crore.",
+      "Drishyam 3 week 1 collection was 243.5 crore net.",
+      "Drishyam 3 week 2 collection was 90 crore net.",
+      "Drishyam 3 week 3 collection was 28.75 crore net.",
+      "Drishyam 2 earned 2.62 crore on its fourth Friday.",
+      "Drishyam 2 earned 4.67 crore on its fourth Saturday after a 78.24% jump.",
+      "Drishyam 2 earned 6.16 crore on its fourth Sunday after a 31.91% jump.",
+      "Drishyam 2 total fourth weekend collection was 13.45 crore net.",
+      "Drishyam 2 earned 6.4 crore or 90.78% more than Drishyam 3 in the fourth weekend."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Drishyam 2",
+        "Border 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/drishyam-3-vs-drishyam-2-box-office-4th-weekend-comparison-01.jpg",
+        "caption": "Drishyam 3 vs Drishyam 2 Box Office: Comparing the Fourth Weekend Performances",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 06:34:41 +0000"
+  },
+  "q8g4on": {
+    "id": "q8g4on",
+    "type": "news",
+    "headline": "Amanda Seyfried Reflects on Her Choice to Decline the Role of Gamora in Guardians of the Galaxy",
+    "dek": "The acclaimed actress explains why she originally passed on the blockbuster Marvel project, citing concerns over box-office success, extensive makeup requirements, and her aversion to stunt work.",
+    "body": [
+      {
+        "h": "Looking Back at a Missed Marvel Opportunity",
+        "p": [
+          "In a candid discussion about her extensive acting career, Amanda Seyfried recently revisited her decision to turn down a prominent superhero role within the Marvel Cinematic Universe. The performer, who is forty years old, explained that she was initially offered the part of Gamora in the popular sci-fi franchise Guardians of the Galaxy. Although the character ultimately became a defining role for fellow actress Zoe Saldana, Seyfried chose to pass on the opportunity when it was first presented to her.",
+          "The casting decision has since become a notable piece of Hollywood trivia, especially given the monumental success of the film and its subsequent sequels. While discussing her career choices during a retrospective event with the SAG-AFTRA Foundation, Seyfried touched upon the resurfaced interview moments that shed light on her reasoning from years prior."
+        ]
+      },
+      {
+        "h": "Skepticism Over the Talking Tree and Raccoon",
+        "p": [
+          "At the time the project was being developed, Seyfried felt strongly that the unique premise of the movie might not resonate with audiences. She admitted that the concept of featuring a talking tree and a talking raccoon felt entirely too risky for her career trajectory. Fearing that the unusual cinematic elements could lead to a critical failure, she opted to protect her professional standing by declining the part.",
+          "Reflecting on her mindset during that period, she noted that she believed the film had a significant chance of turning out poorly. With a humorous perspective on her past miscalculation, the actress acknowledged that she was clearly incorrect about the ultimate reception of the blockbuster hit."
+        ]
+      },
+      {
+        "h": "Personal Preferences and Makeup Trailers",
+        "p": [
+          "Beyond her doubts regarding the movie's box-office potential, Seyfried had several practical concerns about the physical demands of playing an alien superhero. She expressed a strong dislike for spending prolonged hours sitting in a makeup chair, noting that she simply cannot sit still for long periods of time. Furthermore, the extensive prosthetics and specialized appearance required for the character did not align with her personal comfort.",
+          "The actress also pointed out her general aversion to performing stunts, dealing with heights, and acting against green screens where she would have to pretend the entire world around her existed only in imagination. She emphasized her need for tangible physical elements to hold onto during a performance rather than relying entirely on CGI environments."
+        ]
+      },
+      {
+        "h": "Valuing Human Connections in Acting",
+        "p": [
+          "For Seyfried, creative fulfillment often comes from working closely with other performers on grounded, real-life narratives. She has previously shared that filming a scene centered on human interaction and genuine emotional discussions feels much more rewarding to her than participating in large-scale fantasy productions.",
+          "Even with the benefit of hindsight, the actress maintains that she does not regret turning down the role. She made the decision based on what she wanted for herself and her future family, prioritizing personal peace and career contentment over a major franchise appearance."
+        ]
+      }
+    ],
+    "facts": [
+      "Amanda Seyfried is 40 years old.",
+      "Amanda Seyfried turned down the role of Gamora in Guardians of the Galaxy.",
+      "The role of Gamora eventually went to Zoe Saldana.",
+      "Zoe Saldana has since reprised the role in four other movies.",
+      "Amanda Seyfried discussed her decision during a career retrospective with the SAG-AFTRA Foundation."
+    ],
+    "entities": {
+      "people": [
+        "Amanda Seyfried",
+        "Zoe Saldana"
+      ],
+      "titles": [
+        "Guardians of the Galaxy"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/10/amanda-guardians.jpg",
+        "caption": "Amanda Seyfried Reflects on Her Choice to Decline the Role of Gamora in Guardians of the Galaxy",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 06:53:57 +0000"
+  },
+  "1cqo1d2": {
+    "id": "1cqo1d2",
+    "type": "news",
+    "headline": "Bollywood Diwali Party Calendar Unveiled: Security Protocols Tighten Across Mumbai Celebrations",
+    "dek": "As the festive season kicks off with Ayushmann Khurrana and Tahira Kashyap's gathering, Bollywood's famous Diwali parties face heightened safety measures and revised schedules following recent security incidents.",
+    "body": [
+      {
+        "h": "The Festive Season Kicks Off",
+        "p": [
+          "Bollywood's highly anticipated Diwali party calendar is officially underway, drawing immense interest from fans and media alike. The celebratory season was set into motion by actor Ayushmann Khurrana and his wife, Tahira Kashyap, who hosted an exclusive festive bash at their Mumbai residence on Friday. The star-studded opening event welcomed several prominent figures from the film industry, including prominent filmmaker Karan Johar, actors Sara Ali Khan and Twinkle Khanna, alongside producer Bhushan Kumar, marking a glamorous start to weeks of festivities.",
+          "These annual celebrations are a staple of the Hindi film industry calendar, offering a rare glimpse into the social lives of its biggest stars. While fans eagerly track every guest list and outfit, the initial gathering at the Khurrana residence signals the beginning of a packed schedule spanning late October and November. However, the atmosphere surrounding these high-profile events is noticeably different this year, with organizers and attendees navigating new security realities that have cast a shadow of caution over the usual revelry."
+        ]
+      },
+      {
+        "h": "Heightened Security and Media Restrictions",
+        "p": [
+          "Behind the glamour and flashing lights, a sense of caution prevails across the entertainment district. Following a recent firing incident that targeted actor Tiger Shroff, security protocols have been drastically tightened for major industry gatherings. According to veteran paparazzi figure Pallav Paliwal, media personnel were not invited to cover the opening party at the Khurrana household. This exclusion points to a broader shift in how celebrity events are managing crowd control and media access during a tense period.",
+          "The security tightening extends beyond private residences into major industry events. Paliwal noted that for a recent prominent awards ceremony, media professionals were strictly required to present their Aadhaar cards for entry verification. Industry insiders expect similar stringent identification checks and restricted media zones to be enforced across upcoming Diwali parties. Despite these tight controls, photographers have managed to map out a tentative calendar of the major bashes scheduled for the weeks ahead."
+        ]
+      },
+      {
+        "h": "The Festive Calendar: Late October to Early November",
+        "p": [
+          "The lineup of upcoming celebrations features some of the industry's most influential hosts and producers. On October 30, producer Anand Pandit is scheduled to host a grand bash, with anticipated attendees including actors Kriti Sanon and Sidharth Malhotra. Additionally, Kriti Sanon is reportedly planning to host her own celebration, though specific dates have yet to be officially confirmed. These gatherings promise to keep the social circuit buzzing as the festival of lights approaches its peak.",
+          "Moving into November, the calendar grows even busier. Producer Ramesh Taurani is set to host his annual party on November 2, though industry regular Salman Khan may reportedly miss the event this time around. Following closely on November 3, hosts Akshay Kumar and Twinkle Khanna will welcome guests to their celebration. The calendar also highlights high-profile events hosted by designer Manish Malhotra on November 5, which traditionally draws a massive turnout of top-tier celebrities, and producer Ektaa R Kapoor on November 7."
+        ]
+      },
+      {
+        "h": "Notable Absences and Canceled Gatherings",
+        "p": [
+          "While several major bashes are locked into the schedule, not every celebrity host is returning to the party circuit this year. Actor Dia Mirza Rekhi, who welcomed an intimate gathering of friends and colleagues for the festivities last year, has decided not to host a gathering this time around. Similarly, filmmaker Nikkhil Advani, who threw a widely discussed Diwali bash in 2025, has confirmed that he will skipping hosting duties for the current festive season.",
+          "These selective cancellations highlight a more subdued approach by certain members of the fraternity, balancing personal comfort and safety against the traditional obligation of hosting large-scale industry parties. As the remaining hosts finalize their guest lists and security arrangements, the 2026 Bollywood Diwali season is shaping up to be a heavily monitored and tightly managed affair compared to the uninhibited celebrations of previous years."
+        ]
+      }
+    ],
+    "facts": [
+      "Ayushmann Khurrana and Tahira Kashyap hosted a Diwali bash at their Mumbai home on Friday.",
+      "Producer Anand Pandit's bash is scheduled for October 30.",
+      "Producer Ramesh Taurani's party is scheduled for November 2.",
+      "Akshay Kumar and Twinkle Khanna's celebration is scheduled for November 3.",
+      "Designer Manish Malhotra's star-studded bash is scheduled for November 5.",
+      "Producer Ektaa R Kapoor's party is scheduled for November 7."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Manish Malhotra",
+        "Ayushmann Khurrana",
+        "Tahira Kashyap",
+        "Karan Johar",
+        "Sara Ali Khan",
+        "Twinkle Khanna",
+        "Bhushan Kumar",
+        "Kriti Sanon",
+        "Pallav Paliwal",
+        "Tiger Shroff",
+        "Anand Pandit",
+        "Sidharth Malhotra",
+        "Ramesh Taurani",
+        "Salman Khan",
+        "Ektaa R Kapoor",
+        "Yuvika Chaudhary",
+        "Dia Mirza Rekhi",
+        "Nikkhil Advani",
+        "Rishabh Suri"
+      ],
+      "titles": []
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/logo/akkikri_1792994248360_MB5P_1792994256325_eQ7l_8e46ee78-aa40-4680-b028-fb1948f95226_T0dA.jpg",
+        "caption": "Bollywood Diwali Party Calendar Unveiled: Security Protocols Tighten Across Mumbai Celebrations",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 11:28:08 +0530"
+  },
+  "t03er7": {
+    "id": "t03er7",
+    "type": "news",
+    "headline": "EastEnders Unveils Dark Truths About Lee Carter and a New Mick Twist on BBC iPlayer",
+    "dek": "Recent episodes of the BBC One soap bring heartbreaking revelations to Walford as Lee Carter's struggles come to light alongside complications surrounding Mick Carter's legal status.",
+    "body": [
+      {
+        "h": "The Return of Nancy Carter and Surprising Claims",
+        "p": [
+          "Viewers tuning into the latest episodes of EastEnders on BBC iPlayer and BBC One have been met with a wave of heavy emotional drama centering on the Carter family. The trouble began when Nancy Carter made her return to Walford heavily pregnant, acting as a surrogate for her brother Lee Carter and his now-estranged partner, Jess Fang.",
+          "Upon her arrival, Lee claimed that Jess had abandoned both him and Nancy, cutting off all contact and refusing to be involved in plans for the incoming child. This prompted Linda Carter to intervene, forcing Lee to embark on a search alongside her to track Jess down and sort out the mounting domestic turmoil."
+        ]
+      },
+      {
+        "h": "Jess Fang's Counter-Revelations and Alcoholism Struggle",
+        "p": [
+          "The situation took a sharp turn when Linda and Lee returned from their fruitless search to find Jess waiting for them in Walford. Jess immediately flipped the narrative, disclosing that it was actually Lee who had abandoned her after she confronted him about a deeply serious personal issue: his growing battle with alcoholism.",
+          "When confronted in front of his family, Lee vehemently denied the accusations and fled the scene. However, a private conversation between Jess and Linda revealed that Lee had turned heavily to drinking following the apparent death of his father, Mick Carter, struggling immensely to accept the devastating loss even after Mick's declaration of death was officially rescinded."
+        ]
+      },
+      {
+        "h": "Linda Catches Lee in a Lie",
+        "p": [
+          "Determined to get to the bottom of the turmoil, Linda tracked her son down to a park bench. Despite her probing, Lee continued to maintain his innocence, blaming Jess for their relationship breakdown and insisting he was merely grieving Mick rather than dealing with an alcohol addiction.",
+          "The truth came crashing down when Linda noticed a bottle of orange juice left behind by Lee. Upon smelling the container, she realized it was laced with vodka, confirming that her son had been lying to her face. When Linda confronted him with this damning discovery, Lee deflected by pointing out her own historical struggles with alcoholism, arguing that their respective situations were entirely different."
+        ]
+      },
+      {
+        "h": "Complications for Nancy and Future Uncertainties",
+        "p": [
+          "Amid the colliding stories and the toxic, dysfunctional environment now surrounding the household, Nancy reached a firm conclusion regarding her pregnancy. Believing the unfolding chaos was entirely unhealthy, she resolved that the child she is carrying should not be anywhere near Lee and Jess.",
+          "As the dust settles on these latest dramatic developments, major questions loom over the Carter family. Viewers are left wondering if Linda can successfully guide her son through the exact same demons she has personally fought, and what broader impact Mick being legally alive will ultimately have on their lives moving forward."
+        ]
+      },
+      {
+        "h": "Upcoming Twists and Cast Exits on the Horizon",
+        "p": [
+          "The current emotional landscape is set to become even more complicated with upcoming casting shifts in Walford. Fans are already aware that Charlie Brooks is slated to make a brief return as Janine Carter, who served as Linda's nemesis and Mick's scheming wife during the time of his apparent death on Christmas Day 2022.",
+          "With Janine's impending return and ongoing discussions regarding Linda's eventual exit from the soap alongside her children in 2027, these current storylines are expected to lay heavy groundwork for future heartbreak and dramatic fireworks in the iconic BBC drama."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode discussed aired on Monday 26 October 2026.",
+      "Lee Carter is played by Danny Hatchard.",
+      "Linda Carter is played by Kellie Bright.",
+      "Nancy Carter is played by Maddy Hill.",
+      "Jess Fang is played by Emma Lau.",
+      "Mick Carter's apparent death occurred on Christmas Day 2022.",
+      "Charlie Brooks is returning for a short stint as Janine Carter.",
+      "Linda's exit with her children is scheduled for 2027."
+    ],
+    "entities": {
+      "people": [
+        "Danny Hatchard",
+        "Kellie Bright",
+        "Maddy Hill",
+        "Emma Lau",
+        "Charlie Brooks",
+        "Lewis Knight",
+        "Craig Ingram",
+        "Jo Joyner",
+        "Penny Branning",
+        "Balvinder Sopal",
+        "Ash",
+        "Kat",
+        "Alfie",
+        "Denzel Danes",
+        "Tanya",
+        "Amy Mitchell"
+      ],
+      "titles": [
+        "EastEnders",
+        "The Radio Times Podcast"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/10/574923-e8a82d2.jpg?resize=1200%2C630",
+        "caption": "EastEnders Unveils Dark Truths About Lee Carter and a New Mick Twist on BBC iPlayer",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 06:30:38 GMT"
   }
 };
