@@ -6,8 +6,10 @@
    yet recorded" state — they are NOT dropped. Each card links to
    /movie?id=<id>, where the full day-wise detail lives. No period
    pills, no ranking charts, no verdict/club filters — the old dashboard
-   confused readers. Only the industry nav (All / Bollywood) remains,
-   as a simple filter on the same cards list. */
+   confused readers. The industry nav (All / Bollywood / World Cinema /
+   Lollywood) remains, as a simple filter on the same cards list —
+   same filter values as the Movies page (?f=bollywood, ?f=international,
+   ?f=lollywood). */
 (async function () {
   UI.mountChrome("/box-office");
   const main = document.getElementById("app");
@@ -39,11 +41,14 @@
     return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${clean.length ? UI.fmtMoney(totalSum) : missing}</dd></div></dl></a>`;
   };
 
-  /* Industry filter: ?f=bollywood shows Bollywood titles only; anything
-     else shows all industries. */
+  /* Industry filter (?f=): bollywood, international (World Cinema,
+     industry "world"), lollywood (industry "pakistani"); anything else
+     shows all industries. Same values as the Movies page. */
   let f = UI.getParam("f", "all");
-  if (f !== "bollywood") f = "all";
-  const industry = f === "bollywood" ? "bollywood" : null;
+  if (!["bollywood", "international", "lollywood"].includes(f)) f = "all";
+  const industry = f === "bollywood" ? "bollywood"
+    : f === "international" ? "world"
+    : f === "lollywood" ? "pakistani" : null;
 
   /* Every recently-released published MOVIE, newest first (release date
      DESC) — the same pool and order the homepage Box Office section
@@ -60,10 +65,11 @@
   main.innerHTML = `<div class="wrap bo-dashboard">
     <header class="page-hero bo-intro"><p class="bo-key">Dated collections and reported grosses</p><h1>Box Office</h1>
       <p>Box office collections of the latest released movies — today's reported collection, the last 7 days and the recorded total. Tap a movie for its full day-wise detail.</p></header>
-    <nav class="bo-scope" aria-label="Box office industry"><a class="chip${f === "all" ? " on" : ""}" href="/box-office"${f === "all" ? ' aria-current="page"' : ""}>All industries</a><a class="chip${f === "bollywood" ? " on" : ""}" href="/box-office?f=bollywood"${f === "bollywood" ? ' aria-current="page"' : ""}>Bollywood</a></nav>
+    <nav class="bo-scope" aria-label="Box office industry"><a class="chip${f === "all" ? " on" : ""}" href="/box-office"${f === "all" ? ' aria-current="page"' : ""}>All industries</a><a class="chip${f === "bollywood" ? " on" : ""}" href="/box-office?f=bollywood"${f === "bollywood" ? ' aria-current="page"' : ""}>Bollywood</a><a class="chip${f === "international" ? " on" : ""}" href="/box-office?f=international"${f === "international" ? ' aria-current="page"' : ""}>World Cinema</a><a class="chip${f === "lollywood" ? " on" : ""}" href="/box-office?f=lollywood"${f === "lollywood" ? ' aria-current="page"' : ""}>Lollywood</a></nav>
     <section class="section" data-sec="box-office">${picks.length ? picks.map(p => boCardHtml(p.entry, p.rows)).join("") : `<p style="color:var(--muted)">No box office data available yet.</p>`}</section>
     ${UI.rateNote()}
   </div>`;
 })();
+
 
 
