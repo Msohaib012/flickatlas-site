@@ -68,6 +68,7 @@ jobs:
               "run_title": hour == 18 or overdue("title_seed", 24),
               "run_sacnilk": hour in (2, 8, 14, 20) or overdue("sacnilk_boxoffice", 24),
               "run_tavily": hour in (8, 18) or overdue("tavily_boxoffice", 12),
+              "run_reviews": hour == 19 or overdue("gemini_reviews", 24),
               "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
               "run_stats_health": hour == 6 or overdue("stats_health", 24),
           }
@@ -187,7 +188,7 @@ jobs:
             echo "sacnilk gated off this hour (runs 02/08/14/20 UTC)"
           fi
           python3 scripts/fnn_boxoffice.py --stage out/boxoffice-staging || echo "filmynewsnetwork reader failed/missing, continuing"
-          python3 scripts/wp_boxoffice.py --stage out/boxoffice-staging || echo "wordpress reader failed/missing, continuing"
+          python3 scripts/wp_boxoffice.py --stage out/boxoffice-staging --reviews-out out/bmr-reviews.json || echo "wordpress reader failed/missing, continuing"
           python3 scripts/bollybourse_boxoffice.py --stage out/boxoffice-staging || echo "bollybourse reader failed/missing, continuing"
           python3 scripts/moviemint_boxoffice.py --stage out/boxoffice-staging || echo "moviemint reader failed/missing, continuing"
           python3 scripts/filmibeat_boxoffice.py --stage out/boxoffice-staging || echo "filmibeat reader failed/missing, continuing"
@@ -198,6 +199,33 @@ jobs:
             echo "tavily gated off this hour (runs 08:00/18:00 UTC)"
           fi
           python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
+
+      # --- 6b. Movie reviews (Gemini, gated) ---------------------------
+      # Fills js/reviews-data.js for released movies that have no review
+      # yet. Udta Teer (Movies Flare seed) is never overwritten. The
+      # generator searches Tavily per movie for review coverage, grounds
+      # the review in the search results + TMDB overview/cast/genres and
+      # the BMR critic average (out/bmr-reviews.json, written by the WP
+      # reader in step 6), and skips movies with no coverage yet (retried
+      # the next day — reviews typically appear 2-3 days after release).
+      # Runs 19:00 UTC (after the 18:00 title seeder) + 24h overdue
+      # catch-up. No Gemini keys -> SKIP exit 0.
+      - name: Movie reviews (Gemini)
+        id: reviews
+        if: steps.decide.outputs.run_reviews == 'true'
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: |
+          python3 scripts/gemini_reviews.py --published js/published-titles.js --reviews-out js/reviews-data.js --bmr out/bmr-reviews.json || echo "reviews generation failed, continuing with existing reviews-data.js"
 
       # --- 7. publish panel-approved articles (always) -----------------
       - name: Publish approved articles
@@ -285,6 +313,7 @@ jobs:
           APPLY_OUTCOME: ${{ steps.applyauto.outcome }}
           SACNILK_OUTCOME: ${{ steps.multisource.outcome }}
           TAVILY_OUTCOME: ${{ steps.multisource.outcome }}
+          REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
           MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
@@ -296,6 +325,7 @@ jobs:
           RUN_TITLE: ${{ steps.decide.outputs.run_title }}
           RUN_SACNILK: ${{ steps.decide.outputs.run_sacnilk }}
           RUN_TAVILY: ${{ steps.decide.outputs.run_tavily }}
+          RUN_REVIEWS: ${{ steps.decide.outputs.run_reviews }}
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
         run: |
@@ -319,6 +349,8 @@ jobs:
                                     os.environ.get("SACNILK_OUTCOME")),
               "tavily_boxoffice": (os.environ.get("RUN_TAVILY") == "true",
                                    os.environ.get("TAVILY_OUTCOME")),
+              "gemini_reviews": (os.environ.get("RUN_REVIEWS") == "true",
+                                 os.environ.get("REVIEWS_OUTCOME")),
               "stats_pipeline": (os.environ.get("RUN_STATS_PIPE") == "true",
                                  os.environ.get("STATS_PIPE_OUTCOME")),
               "stats_health": (os.environ.get("RUN_HEALTH") == "true",
@@ -368,7 +400,7 @@ jobs:
         run: |
           git config user.name "Msohaib012"
           git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js
+          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js
           git add api-news.json api-trends.json
           git add js/stats-pipeline.json js/stats-traffic.json js/stats-health.json
           git add out/orchestrator-state.json
@@ -382,7 +414,7 @@ jobs:
           git add out/multisource-boxoffice.json || true
           # out/ files may not exist yet on the first run; add them one
           # at a time, tolerating absence.
-          for f in out/gemini-batch.json out/processed.json out/auto-feed.json \
+          for f in out/gemini-batch.json out/bmr-reviews.json out/processed.json out/auto-feed.json \
                    out/episodes.json out/episode-feed.json out/publish-export.json \
                    out/queue.json out/seen.json out/state.json out/report.json \
                    out/duplicates.json out/stories.json out/dropped.json; do
@@ -424,6 +456,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
