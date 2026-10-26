@@ -840,7 +840,13 @@
       const seen = new Map();
       for (const a of epAiring) {
         const d = dramaOfArticle(a);
-        if (d && !seen.has(d.key)) seen.set(d.key, d.name);
+        /* Pakistani-Dramas gate (same rule as /episode-guides):
+           only dramas listed in FA_PUBLISHED (type tv, industry
+           pakistani, aliases Dar/Zehar resolved by canonDramaKey)
+           become filter options. Bulbulay Season 2 (sitcom) and
+           Exclusive Chat (interview) are tracker entries, not listed
+           dramas, so they never appear here. */
+        if (d && pkByKey[d.key] && !seen.has(d.key)) seen.set(d.key, d.name);
       }
       return [...seen.entries()].map(([value, label]) => ({ value, label }))
         .sort((x, y) => x.label.localeCompare(y.label));
@@ -1088,6 +1094,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
