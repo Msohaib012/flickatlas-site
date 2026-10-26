@@ -1,19 +1,19 @@
 {
-  "generated": "2026-10-25T21:32:31Z",
+  "generated": "2026-10-26T05:45:39Z",
   "deploy": {
     "status": "not checked",
     "detail": "VERCEL_TOKEN secret not set"
   },
   "pipeline": {
-    "status": "ok",
-    "fetch": "success",
-    "gemini": "success",
-    "publish": "success",
-    "generated": "2026-10-25T21:22:49Z"
+    "status": "degraded",
+    "fetch": "in_progress",
+    "gemini": "in_progress",
+    "publish": "in_progress",
+    "generated": "2026-10-26T03:55:23Z"
   },
   "dmca": {
-    "status": "not checked",
-    "detail": "No inbox check wired in yet — connect Gmail in Muse so the daily check can read mkdrivedata@gmail.com, or set the DMCA_STATUS_JSON repo secret."
+    "status": "ok",
+    "detail": "No DMCA notices in mkdrivedata@gmail.com inbox (checked 2026-10-26 via Gmail)"
   },
   "search_console": {
     "status": "not checked",
