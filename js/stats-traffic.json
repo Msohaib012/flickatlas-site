@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-26T13:59:20Z",
+  "generated": "2026-10-26T14:58:52Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 3
   },
   "today": {
-    "users": 4,
-    "pageviews": 109,
-    "sessions": 11,
-    "avg_session_seconds": 760.1
+    "users": 7,
+    "pageviews": 123,
+    "sessions": 15,
+    "avg_session_seconds": 842.8
   },
   "last7": {
-    "users": 4,
-    "pageviews": 109,
-    "sessions": 11,
-    "avg_session_seconds": 760.1
+    "users": 7,
+    "pageviews": 123,
+    "sessions": 15,
+    "avg_session_seconds": 842.8
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 35,
-      "avg_time_seconds": 721.9
+      "views": 42,
+      "avg_time_seconds": 1033.4
     },
     {
       "path": "/movie",
@@ -32,8 +32,8 @@
     {
       "path": "/news-item",
       "title": "News Story | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 41.2
+      "views": 14,
+      "avg_time_seconds": 32.2
     },
     {
       "path": "/movies",
@@ -44,8 +44,8 @@
     {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
-      "views": 8,
-      "avg_time_seconds": 14.7
+      "views": 9,
+      "avg_time_seconds": 10.3
     },
     {
       "path": "/show",
@@ -56,8 +56,14 @@
     {
       "path": "/episode-guides",
       "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
-      "views": 5,
-      "avg_time_seconds": 18.5
+      "views": 6,
+      "avg_time_seconds": 14.1
+    },
+    {
+      "path": "/flickatlas-site/",
+      "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
+      "views": 4,
+      "avg_time_seconds": 11.3
     },
     {
       "path": "/news",
@@ -69,21 +75,15 @@
       "path": "/box-office",
       "title": "Box Office — Latest Movies, Today, 7 Days & Lifetime | FlickAtlas",
       "views": 2,
-      "avg_time_seconds": 99.3
-    },
-    {
-      "path": "/category",
-      "title": "Industry Movies & Shows — Cast, Box Office & Release Dates | FlickAtlas",
-      "views": 2,
-      "avg_time_seconds": 4.5
+      "avg_time_seconds": 74.5
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 11,
-      "users": 4
+      "sessions": 15,
+      "users": 7
     },
     {
       "source": "(not set)",
@@ -95,25 +95,33 @@
   "countries": [
     {
       "country": "United States",
-      "users": 2
+      "users": 3
     },
     {
       "country": "",
       "users": 1
     },
     {
+      "country": "Germany",
+      "users": 1
+    },
+    {
       "country": "Pakistan",
+      "users": 1
+    },
+    {
+      "country": "Sweden",
       "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 2
+      "users": 4
     },
     {
       "device": "mobile",
-      "users": 2
+      "users": 3
     }
   ],
   "per_post": {}

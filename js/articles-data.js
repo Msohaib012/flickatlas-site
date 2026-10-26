@@ -4424,5 +4424,308 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 13:05:27 +0000"
+  },
+  "1twq01s": {
+    "id": "1twq01s",
+    "type": "news",
+    "headline": "South Box Office Weekly Report: Jailer 2 Dominates While Premada Oorali Exhibits Remarkable Staying Power",
+    "dek": "Rajinikanth's massive sequel shatters Tamil records during its second weekend, whereas a Kannada sleeper hit stuns observers with extraordinary longevity.",
+    "body": [
+      {
+        "h": "The South Indian Box Office Landscape",
+        "p": [
+          "The theatrical circuit across southern India showcased diverse commercial outcomes over the weekend spanning from October 23 to October 25, 2026. While big-budget spectacles driven by iconic star power commanded massive ticket sales in major urban centers, distinct sleeper hits demonstrated that word-of-mouth momentum could sustain long-running theatrical runs against newer arrivals.",
+          "Industry analysts evaluated the weekend figures against broader monthly metrics, revealing how major titles fit into the cumulative earnings of their respective regional languages during October. The varying paces of collection across Tamil, Telugu, Malayalam, and Kannada industries highlighted shifting audience preferences and the varying impacts of forthcoming festive competition."
+        ]
+      },
+      {
+        "h": "Jailer 2 Sets New Global and Regional Benchmarks",
+        "p": [
+          "Headlined by superstar Rajinikanth, Jailer 2 continued its extraordinary box office dominance by pulling in a massive second-weekend India gross of ₹75.30 crore. This stellar performance met the upper expectations of early trade forecasts and propelled the action-heavy sequel past the lifetime collections of 2.0 to become the highest-grossing Tamil film worldwide, reaching an impressive ₹710.35 crore in just eleven days.",
+          "Furthermore, the film secured the highest second-Sunday net in Kollywood history with a ₹17.35 crore collection, eclipsing the record previously held by its predecessor. On digital ticketing platforms like BookMyShow, the film surpassed the original Jailer's lifetime ticket sales during its second Saturday alone, cementing its status as a historic commercial phenomenon."
+        ]
+      },
+      {
+        "h": "Premada Oorali and Regional Contenders",
+        "p": [
+          "In the Kannada film industry, the sleeper hit Premada Oorali delivered a stunning performance by raking in ₹10.36 crore in India gross during its fifth weekend. This late-stage surge outperformed the second-weekend earnings of several prominent new releases, pushing the film into the elite group of Kannada features that have crossed the ₹100 crore India net milestone.",
+          "Meanwhile, the Telugu release Ranabaali achieved several career milestones for Vijay Deverakonda by entering his top five worldwide openers and crossing the ₹50 crore India net threshold during its second weekend. Conversely, the Malayalam release Titans experienced a more modest opening weekend, accumulating a total India gross of ₹2.26 crore over its first four days primarily within Kerala."
+        ]
+      },
+      {
+        "h": "Upcoming Festive Clashes and Market Adjustments",
+        "p": [
+          "As the theatrical calendar approaches the lucrative Diwali holiday period, exhibitors and distributors face complex scheduling challenges. Upcoming late-October and early-November releases, including the multi-language epic Ramayana: Part 1 alongside regional titles like Scene and Mookuthi Amman 2, threaten to squeeze the screen allocations of current box office leaders.",
+          "The final distribution of theater screens will prove vital in determining whether established holdovers like Jailer 2 and Premada Oorali can maintain their momentum against a wave of high-profile festive competitors aiming to capture family audiences across South India."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected a ₹75.30 crore India gross during its second weekend.",
+      "Premada Oorali grossed ₹10.36 crore in India during its fifth weekend.",
+      "Ranabaali achieved a ₹9.05 crore India gross in its second weekend.",
+      "Titans recorded an opening weekend India gross of ₹2.26 crore.",
+      "Jailer 2 reached ₹710.35 crore worldwide gross in 11 days.",
+      "Premada Oorali became the fourth Kannada film to cross ₹100 crore India net."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Vijay Deverakonda",
+        "Nelson Dilipkumar",
+        "Shan"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Premada Oorali",
+        "Ranabaali",
+        "Titans",
+        "2.0",
+        "Jailer",
+        "KGF Chapter 2",
+        "Kantara",
+        "Kantara: A Legend Chapter 1",
+        "Kingdom",
+        "Aadarsha Kutumbam",
+        "Cult",
+        "Killer",
+        "Ramayana: Part 1",
+        "Scene",
+        "Mookuthi Amman 2",
+        "Leo"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028187.jpg",
+        "caption": "South Box Office Weekly Report: Jailer 2 Dominates While Premada Oorali Exhibits Remarkable Staying Power",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 14:20:12 +0000"
+  },
+  "1nlbss0": {
+    "id": "1nlbss0",
+    "type": "news",
+    "headline": "Nicola Coughlan and Joe Cole Unveil Trailer for Channel 4's 'I Am Helen'",
+    "dek": "The latest installment in Dominic Savage's acclaimed female-led anthology series tackles the complex themes of modern relationships and toxic masculinity.",
+    "body": [
+      {
+        "h": "First Look at the New Channel 4 Project",
+        "p": [
+          "Channel 4 has officially released the trailer for its upcoming two-part series titled I Am Helen. The project brings together notable talent, starring Nicola Coughlan and Joe Cole in leading roles.",
+          "The promotional footage offers audiences a glimpse into the narrative tension, highlighting a moment where Cole's character, Steve, receives advice from a masculine confidante who states that being cast as the bad guy is tough for men."
+        ]
+      },
+      {
+        "h": "Expanding the Acclaimed Anthology Format",
+        "p": [
+          "I Am Helen forms part of Dominic Savage's well-known I Am anthology series, which focuses heavily on telling character-driven female stories. Savage shares creation duties on this particular chapter with Coughlan.",
+          "The overarching franchise has previously achieved significant acclaim and recognition. Notably, an earlier entry in the series titled I Am Ruth earned a BAFTA award for actress Kate Winslet."
+        ]
+      },
+      {
+        "h": "Exploring Themes of Modern Relationships",
+        "p": [
+          "This new installment centers its narrative around the hot-button topic of toxic masculinity and how it impacts contemporary partnerships. The storyline is told entirely through a female perspective.",
+          "Through this lens, the two-part drama examines the various pressures and expectations placed upon women, while simultaneously confronting the tangible damage generated by toxic masculine behaviors in modern romance."
+        ]
+      },
+      {
+        "h": "Context within Contemporary Media Landscape",
+        "p": [
+          "The arrival of I Am Helen follows closely behind other high-profile entertainment projects addressing the manosphere and related cultural phenomena. Examples include Netflix's Adolescence and Inside the Manosphere by Louis Theroux.",
+          "By tackling pressing contemporary issues, the series follows in the footsteps of prior I Am installments that featured performances from prominent actors such as Letitia Wright, Samantha Morton, and Gemma Chan."
+        ]
+      },
+      {
+        "h": "Production and Distribution Details",
+        "p": [
+          "Behind the scenes, the series is brought to the screen by Me+ You Productions. Production duties for the project are handled jointly by Krishnendu Majumdar and Dominic Savage.",
+          "Financial backing for the I Am series is provided via co-funding from Sky Studios. Meanwhile, international distribution rights for the television project are managed by NBCUniversal Global TV Distribution."
+        ]
+      }
+    ],
+    "facts": [
+      "I Am Helen is a two-part Channel 4 series.",
+      "Nicola Coughlan co-constructed the series with Dominic Savage and stars alongside Joe Cole.",
+      "Dominic Savage's I Am anthology previously won a BAFTA for Kate Winslet for the installment I Am Ruth.",
+      "Me+ You Productions is behind I Am Helen, with production from Krishnendu Majumdar and Savage.",
+      "The series is co-funded by Sky Studios, with international sales handled by NBCUniversal Global TV Distribution."
+    ],
+    "entities": {
+      "people": [
+        "Nicola Coughlan",
+        "Joe Cole",
+        "Dominic Savage",
+        "Kate Winslet",
+        "Letitia Wright",
+        "Samantha Morton",
+        "Gemma Chan",
+        "Louis Theroux",
+        "Krishnendu Majumdar"
+      ],
+      "titles": [
+        "I Am Helen",
+        "I Am Ruth",
+        "I Am",
+        "Adolescence",
+        "Inside the Manosphere"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/73556_S4_Ep1_-Embargoed-0930-Tuesday-23rd-June-I-Am-Helen.jpg?w=1024",
+        "caption": "Nicola Coughlan and Joe Cole Unveil Trailer for Channel 4's 'I Am Helen'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 14:09:32 +0000"
+  },
+  "xcxvsh": {
+    "id": "xcxvsh",
+    "type": "news",
+    "headline": "Ranbir Kapoor Opens Up About Playing Lord Ram in Nitesh Tiwari's Upcoming Epic Ramayana",
+    "dek": "During a special promotional appearance on Kaun Banega Crorepati, the actor shared how his initial dread of taking on the massive cinematic responsibility transformed into profound gratitude and personal growth.",
+    "body": [
+      {
+        "h": "Confronting the Weight of Expectations",
+        "p": [
+          "Stepping into the sandals of an iconic mythological figure is never a straightforward acting assignment, and for Bollywood star Ranbir Kapoor, accepting the part of Lord Ram in Nitesh Tiwari's multi-part epic brought an immediate wave of intense apprehension. Rather than feeling immediate professional triumph or unbridled excitement, the actor confronted a deep-seated fear regarding whether he possessed the necessary qualifications to shoulder such a monumental legacy. Because the profound religious and cultural faith of millions of citizens is inextricably linked to Lord Shri Ram, the psychological burden of authenticity weighed heavily on his shoulders from the very moment the opportunity was first presented to him.",
+          "This intimate revelation was shared publicly during a high-profile guest appearance on the popular game show Kaun Banega Crorepati. Sitting alongside fellow principal cast members Sai Pallavi and Ravie Dubey on a special Diwali-themed installment hosted by Amitabh Bachchan, Kapoor articulated the immense gravity of the undertaking. He explained to the television audience that carrying the emotional and cultural expectations of an entire nation required a rigorous internal reckoning, forcing him to question his own readiness to breathe life into a character revered across generations."
+        ]
+      },
+      {
+        "h": "The Transformative Shift Toward Gratitude",
+        "p": [
+          "As production preparations progressed and the actor immersed himself deeper into the source material and character study, that initial terror gradually melted away into a profound sense of thankfulness. Kapoor noted that landing this particular career-defining role at this precise juncture of his life provided an unexpected vehicle for profound self-reflection and spiritual maturation. Instead of viewing the assignment merely as a high-budget commercial venture, he began to perceive the casting choice as an invaluable personal opportunity to elevate his own character and strive toward becoming a better human being.",
+          "The timing of the project added an extraordinary layer of emotional resonance to his daily life on set. Kapoor shared that the creative journey coincided directly with his transition into fatherhood following the birth of his daughter, Raha. Experiencing the profound responsibilities of nurturing new life while simultaneously portraying an epitome of righteousness and virtue allowed him to view the film less as a standard cinematic obligation and more as a treasured gift that encouraged him to absorb the timeless philosophical lessons embedded within the ancient Indian epic."
+        ]
+      },
+      {
+        "h": "Co-Stars Embrace Spiritual Preparation",
+        "p": [
+          "The psychological and spiritual approach adopted by Kapoor was mirrored by his co-star Sai Pallavi, who portrays the revered figure of Sita Maa in the cinematic adaptation. During the same television interaction, the actress discussed how her standard creative process underwent a dramatic paradigm shift for this project. Rather than calculating what unique artistic elements she could personally contribute to the portrayal, Pallavi focused entirely on what spiritual knowledge and emotional wisdom she could absorb from walking in the footsteps of the character.",
+          "Opting for a transparent and spiritually grounded methodology, Pallavi bypassed conventional analytical preparation in favor of prayer and devotion. By turning directly to Sita Maa for guidance, she sought to navigate the complex performance with humility and grace. Meanwhile, co-star Ravie Dubey, who steps into the role of the loyal brother Lakshman alongside his wife Sargun, expressed ongoing disbelief at landing such a prominent part, attributing their collective casting to powerful divine intervention that guides their respective artistic trajectories."
+        ]
+      },
+      {
+        "h": "A Landmark Cinematic Vision Takes Shape",
+        "p": [
+          "The much-anticipated cinematic adaptation is spearheaded by acclaimed director Nitesh Tiwari and backed by producer Namit Malhotra, designed deliberately as an ambitious two-part franchise chronicling the Hindu epic. The inaugural installment, officially titled Ramayana: Part 1 or Ramayana: Rise of a Legend, boasts a staggering global canvas and features a massive star-studded ensemble. Alongside Kapoor, Pallavi, and Dubey, the blockbuster boasts Yash as Ravana, Sunny Deol as Hanuman, Rakul Preet Singh as Surpanakha, Arun Govil as King Dashrath, Lara Dutta as Kaikeyi, and Sheeba Chadha as Manthara.",
+          "Musical soundscapes for the project are being crafted by legendary composers A.R. Rahman and Hans Zimmer, ensuring a global sonic footprint that matches the scale of the visuals. Scheduled for a major worldwide theatrical premiere on November 5, 2026, the feature will roll out simultaneously across multiple languages including Hindi, Tamil, Telugu, Kannada, and Malayalam, utilizing premium screening formats such as IMAX. Meanwhile, the second chapter of the grand narrative already holds a projected release window targeting the Diwali holiday season in 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Ram in Nitesh Tiwari's Ramayana.",
+      "Sai Pallavi plays Sita Maa and Ravie Dubey plays Lakshman in the film.",
+      "The Diwali special episode of Kaun Banega Crorepati featuring the Ramayana cast airs on October 29 and 30 at 9 PM on Sony Entertainment Television and Sony LIV.",
+      "Ramayana: Part 1 is scheduled for a worldwide theatrical release on November 5, 2026.",
+      "The second part of Ramayana is planned for release during Diwali 2027.",
+      "Namit Malhotra is the producer of the film.",
+      "The film's music is composed by Hans Zimmer and A.R. Rahman."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Amitabh Bachchan",
+        "Raha",
+        "Sargun",
+        "Namit Malhotra",
+        "Yash",
+        "Sunny Deol",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Sheeba Chadha",
+        "Hans Zimmer",
+        "A.R. Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Kaun Banega Crorepati",
+        "Ramayana: Part 1",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/10/Ranbir_Kapoor_spoke_about_his_reaction_when_he_was_first_approached_to_play_Lord_ram_in_Ramayana.webp",
+        "caption": "Ranbir Kapoor Opens Up About Playing Lord Ram in Nitesh Tiwari's Upcoming Epic Ramayana",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 14:21:00 +0000"
+  },
+  "b0vqjp": {
+    "id": "b0vqjp",
+    "type": "news",
+    "headline": "Kim Ji Won's K-drama Doctor X: Mafia in White faces backlash and legislative petition over Gwangju uprising episode",
+    "dek": "South Korean actor Kim Ji Won's record-breaking medical series Doctor X: Mafia in White has run into severe controversy following its sixth episode, which incorporated the 1980 Gwangju Democratic Uprising into its medical storyline.",
+    "body": [
+      {
+        "h": "Controversy erupts over historical storyline",
+        "p": [
+          "South Korean actor Kim Ji Won's latest television project, Doctor X: Mafia in White, has achieved massive ratings success while simultaneously drawing intense public backlash. The medical drama encountered severe criticism following the broadcast of its sixth episode, which incorporated elements of the 1980 Gwangju Democratic Uprising into the narrative. The inclusion of such a sensitive historical event in a medical series has triggered a formal petition submitted before South Korea's National Assembly.",
+          "The petition demands that the broadcast of the series be halted immediately and calls for a thorough review of the production process. According to reports from the Korea Herald, the petitioner questioned the rationale behind weaving a politically charged historical chapter into a drama not traditionally rooted in politics. Furthermore, the submission argued that the narrative choices could be perceived as pushing a specific political viewpoint, causing discomfort among sections of the viewing audience."
+        ]
+      },
+      {
+        "h": "Specific historical references in the episode",
+        "p": [
+          "The controversy centers on the sixth episode, which was broadcast on October 24. During this installment, Kim Ji Won's character, a surgeon named Gye Soo Jeung, attempts the delicate procedure of removing a bullet that has remained lodged in a patient's brain for 46 years. This medical condition is tied directly to the military crackdown on pro-democracy demonstrators in Gwangju that took place in May 1980.",
+          "Sharp-eyed viewers identified several distinct visual and narrative cues within the episode referencing the historical event. These included a bus bearing the number 518, an explicit nod to May 18, 1980, when the pro-democracy movement commenced. Additionally, the episode featured a fictional former president bearing a resemblance to Chun Doo Hwan arriving at the hospital unconscious. The Gwangju uprising, which spanned from May 18 to 27, 1980, remains a profoundly significant and emotionally charged chapter in the nation's journey toward democracy."
+        ]
+      },
+      {
+        "h": "Production response and online petition process",
+        "p": [
+          "The online petition submitted through the National Assembly platform successfully garnered the requisite 100 signatures needed to advance to the review stage for public disclosure. Beyond examining the production methods, the petitioner insists that the show be removed from the airwaves. The mounting criticism has placed the production team under intense public scrutiny.",
+          "Amid the escalating backlash, the series' chief producer, Lee Ok Gyu, addressed the controversy cryptically on social media by sharing the show's promotional poster accompanied by the caption \"no fear.\" The post offered no further elaboration, leaving observers to debate whether the message was intended as a defiant stance against the criticism. Lee has not issued any subsequent public clarifications regarding the post."
+        ]
+      },
+      {
+        "h": "Background and high viewership ratings",
+        "p": [
+          "Doctor X: Mafia in White follows the professional journey of Gye Soo Jeung, a gifted and unconventional surgeon who actively combats administrative corruption within the hospital system. The series serves as a Korean adaptation of the popular Japanese medical drama franchise Doctor-X: Surgeon Michiko Daimon. For lead actor Kim Ji Won, the project represents her highly anticipated return to television two years after her starring role in the massive hit Queen of Tears.",
+          "Despite the swirling controversy, audience viewership has remained remarkably strong. The series debuted with impressive nationwide ratings of 11.4% and 14.9% for its first two episodes, marking the highest miniseries premiere ratings in South Korea for the year 2026 at the time. The momentum continued to build as the sixth episode drove the peak viewership numbers even higher, reaching 21.3%."
+        ]
+      }
+    ],
+    "facts": [
+      "The controversy involves the sixth episode of Doctor X: Mafia in White, which aired on October 24, 2026.",
+      "The petition was filed before South Korea's National Assembly.",
+      "The petition gathered the 100 signatures required to proceed to the review stage.",
+      "The Gwangju uprising lasted from May 18 to 27, 1980.",
+      "The drama's chief producer is Lee Ok Gyu.",
+      "Doctor X: Mafia in White opened with nationwide ratings of 11.4% and 14.9% for its first two episodes.",
+      "The sixth episode reached a peak rating of 21.3%."
+    ],
+    "entities": {
+      "people": [
+        "Kim Ji Won",
+        "Gye Soo Jeung",
+        "Lee Ok Gyu",
+        "Chun Doo Hwan",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Doctor X: Mafia in White",
+        "Queen of Tears",
+        "Doctor-X: Surgeon Michiko Daimon"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/logo/Kim_Ji_Won_1793022895095_Bhvj_1793022895193_2r6j_01535cc3-6850-4184-b286-15073c751ab0_Hsbu.jpg",
+        "caption": "Kim Ji Won's K-drama Doctor X: Mafia in White faces backlash and legislative petition over Gwangju uprising episode",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 20:05:58 +0530"
   }
 };
