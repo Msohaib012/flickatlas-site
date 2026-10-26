@@ -447,7 +447,7 @@ const UI = (() => {
         </div>
         <details class="foot-col" open><summary>Explore</summary><div class="foot-links">
           <a href="/movies">Movies</a><a href="/tv">TV &amp; Web Series</a><a href="/box-office">Box Office</a>
-          <a href="/upcoming">Upcoming &amp; Release Dates</a><a href="/most-awaited?f=bollywood">Coming Soon &amp; Most Awaited</a><a href="/celebrities">Celebrities</a>
+          <a href="/upcoming">Upcoming &amp; Release Dates</a><a href="/most-awaited?f=bollywood">Coming Soon &amp; Most Awaited</a><a href="/trailers">Trailers</a><a href="/celebrities">Celebrities</a>
           <a href="/episode-guides">Episode Guides</a><a href="/airing-today">Airing Today</a>
           <a href="/where-to-watch">Where to Watch</a><a href="/ott">OTT Releases This Week</a>
           <a href="/awards">Awards</a>
@@ -781,4 +781,5 @@ const UI = (() => {
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 

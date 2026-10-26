@@ -12,7 +12,7 @@
   UI.mountChrome("/box-office");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Box Office — Latest Movies, Today, 7 Days & Lifetime | FlickAtlas",
+    title: "Box Office — Latest Movies, Today & 7 Days | FlickAtlas",
     desc: "Latest released movies with today's reported collections, seven-day reported sums and recorded totals. Tap a movie for its full day-wise box office detail.",
     path: "/box-office"
   });
@@ -65,4 +65,5 @@
     ${UI.rateNote()}
   </div>`;
 })();
+
 

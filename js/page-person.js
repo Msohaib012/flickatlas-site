@@ -51,8 +51,10 @@
       const k = (c.media_type || "") + ":" + c.id;
       if (!seen.has(k)) seen.set(k, pub);
     }
-    const newestFirst = (a, b) => String(b.published_at || "").localeCompare(String(a.published_at || "")) ||
-      ((b.type === "tv" ? b.first_air_date : b.release_date) || "").localeCompare((a.type === "tv" ? a.first_air_date : a.release_date) || "");
+    /* Newest first by release/air date (published date only breaks
+       ties) — same ordering as the title listings. */
+    const newestFirst = (a, b) => ((b.type === "tv" ? b.first_air_date : b.release_date) || "").localeCompare((a.type === "tv" ? a.first_air_date : a.release_date) || "") ||
+      String(b.published_at || "").localeCompare(String(a.published_at || ""));
     const movies = [...seen.values()].filter(x => x.type === "movie").sort(newestFirst).slice(0, 12);
     const shows = [...seen.values()].filter(x => x.type === "tv").sort(newestFirst).slice(0, 12);
 
@@ -135,7 +137,9 @@
     const is404 = /404/.test(String((e && e.message) || e || ""));
     main.innerHTML = `<div class="wrap">${is404
       ? UI.stateMsg("Person not found.", false)
-      : UI.stateMsg("Could not load this person. Please try again.")}</div>`;
+      : UI.stateMsg("Could not load this person. Please try again.")}
+      <p style="text-align:center"><a class="btn btn-teal" href="/celebrities">Browse Celebrities</a></p></div>`;
     if (is404) UI.setSEO({ title: "Person Not Found | FlickAtlas", desc: "This celebrity profile could not be found on FlickAtlas.", path: "/person", noindex: true });
   }
 })();
+

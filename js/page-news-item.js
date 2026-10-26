@@ -44,7 +44,8 @@
     items = j.items || [];
   } catch (e) {
     if (!fullArt) {
-      main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the news feed right now. Please try again.")}</div>`;
+      main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the news feed right now. Please try again.")}
+      <p style="text-align:center"><a class="btn btn-teal" href="/news">Open Trending News</a></p></div>`;
       return;
     }
     items = [];
@@ -496,3 +497,4 @@
     }
   }
 })();
+

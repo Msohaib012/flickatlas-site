@@ -38,18 +38,51 @@
   const indLabel = (pub) => IND_LABEL[pub.industry] || UI.industryTag(pub) || "";
   const titleDate = (x) => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   /* Similar / You May Also Like — FA_PUBLISHED only, same industry
-     first, then same type, newest first, one item (slice(0,1)).
-     Same medium only: a movie page never recommends a TV show (it
-     would link to /movie?id=<tv id> and land on "not published"). */
+     first, then same type, newest first (release date DESC, published
+     date only breaks ties), up to 6. Same medium only: a movie page
+     never recommends a TV show (it would link to /movie?id=<tv id>
+     and land on "not published"). */
   const similarPublished = (pub) => {
+    const todayS = TMDB.today();
     const cands = Object.values(window.FA_PUBLISHED || {})
-      .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type);
+      .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type
+        && titleDate(x) && titleDate(x) <= todayS);
     cands.sort((a, b) =>
       ((b.industry === pub.industry) - (a.industry === pub.industry)) ||
       ((b.type === pub.type) - (a.type === pub.type)) ||
-      String(b.published_at || "").localeCompare(String(a.published_at || "")) ||
-      titleDate(b).localeCompare(titleDate(a)));
-    return cands.slice(0, 1);
+      titleDate(b).localeCompare(titleDate(a)) ||
+      String(b.published_at || "").localeCompare(String(a.published_at || "")));
+    return cands.slice(0, 6);
+  };
+
+  /* Related News — articles whose PRIMARY entity (entities.titles[0])
+     is this title. Match: exact name, substring (min 6 chars), or a
+     shared distinctive first word (5+ letters, e.g. "Ramayana" in
+     "Ramayana: Part 1" vs "Ramayana: Rise of a Legend"). Only the
+     primary entity counts — a roundup that merely mentions the title
+     does not qualify. Verified against live data: Ramayana 6, Udta
+     Teer 2, Clayface 2, every other title 0, no false positives. */
+  const normName = (s) => String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  const titleMatches = (pubTitle, ent) => {
+    const pn = normName(pubTitle), en = normName(ent);
+    if (!pn || !en) return false;
+    if (pn === en) return true;
+    if ((pn.includes(en) || en.includes(pn)) && Math.min(pn.length, en.length) >= 6) return true;
+    const pf = pn.split(" ")[0], ef = en.split(" ")[0];
+    return pf && pf === ef && pf.length >= 5;
+  };
+  const relatedNews = (pub) => {
+    const arts = Object.values(window.FA_ARTICLES || {});
+    const out = [];
+    for (const a of arts) {
+      if (!a || a.type !== "news" || !a.id) continue;
+      const ents = (a.entities && a.entities.titles) || [];
+      if (!ents.length) continue;
+      if (!titleMatches(UI.titleOf(pub), ents[0])) continue;
+      out.push(a);
+    }
+    out.sort((x, y) => String(y.published || "").localeCompare(String(x.published || "")));
+    return out.slice(0, 4);
   };
 
   /* --- Published lookup: nothing renders unless this title was chosen
@@ -133,6 +166,7 @@
     const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office", { titleId: id }) : "";
 
     const similar = similarPublished(pub);
+    const related = relatedNews(pub);
 
     const factRows = [];
     if (directors.length) factRows.push(["Director", directors.map(crewLink).join(", ")]);
@@ -204,6 +238,13 @@
 
     ${daywiseHtml}
 
+    ${related.length ? `<section class="section"><div class="section-head"><h2>Related News</h2>
+      <a class="see-all" href="/news">All News →</a></div>
+      <div class="news-list">${related.map(a => `<a class="news-item" href="/news-item?id=${encodeURIComponent(a.id)}">
+        <span class="news-txt"><b>${UI.esc(a.headline || "")}</b>
+        <span>${a.published ? UI.relTime(Date.parse(a.published)) : ""}</span></span>
+      </a>`).join("")}</div></section>` : ""}
+
     ${similar.length ? `<section class="section"><div class="section-head"><h2>Similar Movies</h2></div>
       <div class="grid">${similar.map(x => UI.posterCard(x, "movie", UI.industryTag(x))).join("")}</div></section>` : ""}
   </div>`;
@@ -235,4 +276,5 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 

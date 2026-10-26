@@ -4,8 +4,9 @@
    headlines — never the live TMDB catalogue. TMDB.searchMulti is gone
    entirely. People come from cast data baked into published entries,
    if any; with no cast data the people group is omitted rather than
-   calling TMDB. Episode search is gone (no published episode records
-   exist to search). All matching is local and instant — no pagination,
+   calling TMDB. Episode posts ARE searchable — they live in FA_ARTICLES
+   (headlines like "Bano Episode 13 — Watch on Geo TV") and appear under
+   the News group. All matching is local and instant — no pagination,
    no loading states. */
 (function () {
   UI.mountChrome("");
@@ -30,9 +31,11 @@
     return Number.isFinite(t) ? new Date(t).toISOString() : "";
   };
   const titleDate = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
-  /* Newest first — the homepage recency rule (published_at desc, then
-     release/air date desc). */
-  const newestFirst = (a, b) => String(b.published_at || "").localeCompare(String(a.published_at || "")) || titleDate(b).localeCompare(titleDate(a));
+  /* Newest first — the site-wide recency rule (user order 2026-10-26):
+     RELEASE/AIR DATE desc first (the latest release leads, then going
+     back); published_at only breaks ties. The old published_at-first
+     order scrambled results whenever titles were published in batches. */
+  const newestFirst = (a, b) => titleDate(b).localeCompare(titleDate(a)) || String(b.published_at || "").localeCompare(String(a.published_at || ""));
   const dateValue = (x, key) => key === "news" ? parseDate(x.published) : key === "person" ? "" : validDate(titleDate(x) || x.published_at || "");
 
   /* --- Published-only data sources (no live TMDB) --- */
@@ -128,3 +131,4 @@
 
   results.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${categories.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${categories.map(c => section(c[0])).join("")}`;
 })();
+

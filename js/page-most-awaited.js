@@ -19,6 +19,13 @@
     path: "/most-awaited"
   });
 
+  /* Audit fix (2026-10-26): the ?f= filter MUST be read BEFORE the page
+     HTML is built — the chip row below uses `f` as its active key, and a
+     `let` read before its declaration throws a ReferenceError (temporal
+     dead zone) that left this page stuck on "Loading FlickAtlas…". */
+  let f = UI.getParam("f", "all");
+  if (!["all", "bollywood", "international", "pakistani"].includes(f)) f = "all";
+
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Most Awaited</h1>
       <p>The single most awaited upcoming title among published titles.</p></div>
@@ -36,11 +43,9 @@
      Industry tag for cards: "World Cinema" for world-industry titles
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
   const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
-  /* Audit fix: the page ignored the ?f= filter the homepage and footer
-     links pass (?f=bollywood / ?f=international), so every industry link
-     showed the same single title. The pick now respects the filter. */
-  let f = UI.getParam("f", "all");
-  if (!["all", "bollywood", "international", "pakistani"].includes(f)) f = "all";
+  /* The pick respects the ?f= filter the homepage and footer links pass
+     (?f=bollywood / ?f=international), so every industry link shows its
+     own single title (the filter itself is read above, before the HTML). */
   const today = new Date().toISOString().slice(0, 10);
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   const inIndustry = x => f === "all" ? true
@@ -80,4 +85,5 @@
     <p><a class="btn btn-teal" href="${detailHref}">Open full details →</a></p>
     <p class="prov-note">The most awaited upcoming title among published titles on FlickAtlas.</p></div>`;
 })();
+
 

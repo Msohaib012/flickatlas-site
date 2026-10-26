@@ -8,6 +8,46 @@
    trailer only), never from a live videos call. Freshness rule does not
    apply to upcoming (§7). */
 (async function () {
+  /* /trailers shares this script (trailers/index.html loads it): when the
+     path is /trailers, render the official-trailers listing instead of
+     the release calendar — published titles with a baked official
+     trailer, newest first, each linking to its detail page's trailer
+     anchor. (Audit-C fix 2026-10-26: /trailers was an orphan that
+     rendered the Upcoming calendar with the wrong title.) */
+  const isTrailers = location.pathname.replace(/\/+$/, "").endsWith("/trailers");
+  if (isTrailers) {
+    UI.mountChrome("/trailers");
+    const main = document.getElementById("app");
+    UI.setSEO({
+      title: "Official Trailers — Movies & TV | FlickAtlas",
+      desc: "Official trailers for published movies and TV shows on FlickAtlas, newest first. Open a title to watch its trailer.",
+      path: "/trailers"
+    });
+    const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
+    const MONTHS_S = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    const items = Object.values(window.FA_PUBLISHED || {})
+      .filter(x => x && x.id && x.poster_path && x.trailer)
+      .sort((a, b) => dateOf(b).localeCompare(dateOf(a))
+        || (b.published_at || "").localeCompare(a.published_at || ""));
+    main.innerHTML = `<div class="wrap">
+      <div class="page-hero"><h1>Official Trailers</h1>
+        <p>Official trailers for published movies and TV shows — newest first. Open a title to watch its trailer.</p></div>
+      <p class="fcount">${items.length ? `${items.length} trailer${items.length === 1 ? "" : "s"}` : ""}</p>
+      <div id="trWrap">${items.length ? "" : UI.stateMsg("No official trailers have been published yet.", false)}</div>
+    </div>`;
+    const wrap = main.querySelector("#trWrap");
+    if (items.length) {
+      wrap.innerHTML = `<div class="tl-list">${items.map(x => { const [, mm, dd] = (dateOf(x) || "").split("-"); const detailHref = `/${x.type === "tv" ? "show" : "movie"}?id=${x.id}#official-trailer`; return `
+        <a class="tl-row" href="${detailHref}">
+          <span class="tl-date"><b>${dd ? parseInt(dd, 10) : "—"}</b><span>${mm ? MONTHS_S[parseInt(mm, 10) - 1] : ""}</span></span>
+          <img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()">
+          <span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b>
+          <span>${UI.fmtDate(dateOf(x))}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""} · Official trailer</span></span>
+          <span class="tag-chip">${UI.esc((x.industry === "world") ? "World Cinema" : UI.industryTag(x))}</span>
+        </a>`; }).join("")}</div>`;
+    }
+    return;
+  }
   UI.mountChrome("/upcoming");
   const main = document.getElementById("app");
   UI.setSEO({
@@ -207,3 +247,4 @@
 
   render();
 })();
+
