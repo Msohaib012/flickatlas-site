@@ -2465,5 +2465,328 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-24T14:45:34Z"
+  },
+  "nax6ys": {
+    "id": "nax6ys",
+    "type": "news",
+    "headline": "Udta Teer Box Office Day 3: Ayushmann Khurrana Starrer Doubles Its Earnings With A 100% Growth By Sunday",
+    "dek": "Ayushmann Khurrana and Sara Ali Khan's latest comedy release, Udta Teer, concluded its opening weekend on a high note by registering a massive 100 percent jump in collections from its opening day.",
+    "body": [
+      {
+        "h": "Opening Weekend Surge",
+        "p": [
+          "The domestic box office has welcomed a fresh wave of comedy as Udta Teer wrapped up its initial three-day run with impressive figures, coming tantalizingly close to the 20 crore milestone. Directed by newcomer Akash A Kaushik, the feature pairs lead actors Ayushmann Khurrana and Sara Ali Khan in a narrative that blends humor with a distinct patriotic twist.",
+          "From its very first screenings, the title demonstrated steady momentum across various regional circuits. Audiences turned out in large numbers, pushing the project toward a solid financial start for its backers and setting the stage for an encouraging theatrical journey."
+        ]
+      },
+      {
+        "h": "Day 3 Collection Breakdown",
+        "p": [
+          "Building upon a positive Saturday upswing, the project witnessed an even larger surge on its third day. On Sunday, October 25, the film brought in a net collection of 8.21 crore, translating to a gross domestic total of 9.85 crore for the day.",
+          "This performance marked a striking 100.24 percent increase compared to its opening day net collection of 4.10 crore. Across its first three days, the feature accumulated a cumulative net domestic total of 19.56 crore."
+        ]
+      },
+      {
+        "h": "Day-Wise Tracking",
+        "p": [
+          "A closer look at the trajectory reveals consistent upward movement since the initial release. On Day 1, the feature opened with 4.1 crore net, followed by a jump to 7.25 crore on Day 2, and concluding the weekend with 8.21 crore on Day 3.",
+          "This steady escalation highlighted strong word-of-mouth endorsement among moviegoers, particularly benefiting from robust family attendance during prime afternoon and evening showtimes throughout the weekend."
+        ]
+      },
+      {
+        "h": "Production Backing and Future Outlook",
+        "p": [
+          "The theatrical venture is a collaborative effort between Dharma Productions and Sikhya Entertainment. It features production credits from Karan Johar, Adar Poonawalla, Apoorva Mehta, Guneet Monga Kapoor, and Achin Jain.",
+          "Thanks to sharp comedic writing and positive audience reception, the feature stands in a favorable position to maintain steady numbers during the weekdays as pre-Diwali celebrations approach."
+        ]
+      }
+    ],
+    "facts": [
+      "Udta Teer collected 8.21 crore net on Day 3, Sunday, October 25.",
+      "The film's Day 3 gross collection was 9.85 crore.",
+      "The Day 3 collection represents a 100.24% jump over the opening day net haul.",
+      "The opening day net collection was 4.10 crore.",
+      "The 3-day domestic net total reached 19.56 crore in India.",
+      "Day 1 collection was 4.1 crore.",
+      "Day 2 collection was 7.25 crore.",
+      "Day 3 collection was 8.21 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sara Ali Khan",
+        "Akash A Kaushik",
+        "Karan Johar",
+        "Adar Poonawalla",
+        "Apoorva Mehta",
+        "Guneet Monga Kapoor",
+        "Achin Jain",
+        "Ajay Devgn",
+        "Sidharth Malhotra",
+        "Tamannaah Bhatia",
+        "Ahaan Panday",
+        "Sharvari",
+        "Mihir Ahuja",
+        "Manoj Pahwa",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Udta Teer",
+        "Drishyam 3",
+        "Border 2",
+        "Drishyam",
+        "The Vvaan",
+        "Beparwah",
+        "Ramayana",
+        "Avengers: Doomsday",
+        "Shang-Chi",
+        "Jailer 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/udta-teer-box-office-day-3-100-jump-from-the-opening-day-01.jpg",
+        "caption": "Udta Teer Box Office Day 3: Ayushmann Khurrana Starrer Doubles Its Earnings With A 100% Growth By Sunday",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 06:54:07 +0000"
+  },
+  "1kmtv44": {
+    "id": "1kmtv44",
+    "type": "news",
+    "headline": "Ranbir Kapoor Opens Up About Playing Lord Rama in Ramayana on Kaun Banega Crorepati",
+    "dek": "Actor Ranbir Kapoor shared his initial fear and deep gratitude regarding his portrayal of Lord Rama in the upcoming cinematic epic Ramayana during a special Diwali episode of Kaun Banega Crorepati.",
+    "body": [
+      {
+        "h": "Stepping into an Iconic Role with Fear and Responsibility",
+        "p": [
+          "Bollywood star Ranbir Kapoor recently opened up about the monumental challenge of bringing Lord Rama to life in the upcoming cinematic project Ramayana. During a special Diwali episode of the popular quiz reality show Kaun Banega Crorepati, hosted by veteran megastar Amitabh Bachchan, Kapoor discussed the heavy emotional and spiritual weight attached to the character.",
+          "The actor confessed that when the career-defining opportunity was first presented to him, his immediate reaction was not excitement, but overwhelming apprehension. Knowing that millions of people hold deep spiritual devotion toward Lord Rama, Kapoor questioned whether he possessed the capability and worthiness to pull off such an immense undertaking."
+        ]
+      },
+      {
+        "h": "From Anxiety to Profound Gratitude",
+        "p": [
+          "As time progressed, the initial wave of anxiety and self-doubt transformed into a profound sense of thankfulness. Kapoor noted that receiving this opportunity at this particular juncture of his life felt like a unique blessing, one that offered him a pathway not just toward professional growth as an actor, but toward becoming a better human being.",
+          "This personal evolution coincided with a major milestone in his private life. During the same period, Kapoor welcomed his first child, his daughter Raha. He expressed to host Amitabh Bachchan that experiencing fatherhood alongside exploring the deep philosophies of the Ramayana felt like a divine gift, granting him a rare chance at inner introspection."
+        ]
+      },
+      {
+        "h": "A Special Appearance on Kaun Banega Crorepati",
+        "p": [
+          "The heartfelt revelations were shared on the set of Kaun Banega Crorepati during a festive Diwali special segment. The episode served as a platform for the actor to connect with audiences on a deeper personal level, moving beyond routine film promotions to discuss the internal journey of playing a revered mythological figure.",
+          "The special broadcast was slated to air on October 29 and 30 at 9:00 PM on Sony Entertainment Television, giving viewers nationwide an intimate look into Kapoor's thoughts on the project, his interactions with Amitabh Bachchan, and the emotional weight of working alongside a talented cast and crew."
+        ]
+      },
+      {
+        "h": "Embracing the Ideals of Lord Rama",
+        "p": [
+          "Reflecting further on the cultural and moral magnitude of the epic, Kapoor acknowledged that while achieving the absolute perfection of Lord Rama is humanly impossible, striving to learn from his timeless ideals remains a vital takeaway for everyone.",
+          "The actor's reflections highlighted how major cinematic ventures can double as profound spiritual exercises, pushing performers to reevaluate their own values while handling narratives deeply embedded in the cultural fabric of millions."
+        ]
+      }
+    ],
+    "facts": [
+      "Actor Ranbir Kapoor appeared on a Diwali special episode of Kaun Banega Crorepati hosted by Amitabh Bachchan.",
+      "Ranbir Kapoor stated that his first instinct upon being offered the role of Lord Rama was fear and self-doubt.",
+      "The actor became a first-time father to his daughter Raha during the same period.",
+      "The special episode is scheduled to air on October 29-30 at 9:00 PM on Sony Entertainment Television.",
+      "The story was first published on Monday, October 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Amitabh Bachchan",
+        "Raha"
+      ],
+      "titles": [
+        "Ramayana",
+        "Kaun Banega Crorepati"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/feature16-63771792995991.jpg",
+        "caption": "Ranbir Kapoor Opens Up About Playing Lord Rama in Ramayana on Kaun Banega Crorepati",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 11:56:55 +0530"
+  },
+  "11wl51e": {
+    "id": "11wl51e",
+    "type": "news",
+    "headline": "Netflix Co-CEO Ted Sarandos Celebrates Ten Years of Korean Content Dominance in Seoul",
+    "dek": "Following a week of executive changes and layoffs, Netflix leadership flew to South Korea to mark a decade of cultural milestones, massive viewership metrics, and an extensive preview of upcoming localized titles.",
+    "body": [
+      {
+        "h": "Marking a Decade in Seoul",
+        "p": [
+          "Netflix co-chief executive Ted Sarandos traveled to the South Korean capital over the weekend to participate in a massive celebration commemorating ten years of investment in the region's entertainment industry. The milestone event took place at Sangam Oil Tank Culture Park, a repurposed industrial petroleum storage site that now functions as a vibrant cultural complex in western Seoul.",
+          "The festivities, officially titled Netflix Janchi, served as a focal point for fans and creators alike. The two-day gathering welcomed over ten thousand attendees who engaged with interactive gaming booths, themed activity areas, exclusive merchandise, and live musical performances, while online broadcasts of the event pulled in an additional 3.58 million cumulative views."
+        ]
+      },
+      {
+        "h": "Corporate Backdrop and Global Strategy",
+        "p": [
+          "The celebratory atmosphere in Seoul stood in stark contrast to a turbulent week at the streaming giant's corporate headquarters. Netflix recently announced sweeping structural changes, replacing chief content officer Bela Bajaria with Peter Rice alongside layoffs impacting roughly one thousand employees.",
+          "Despite internal shifts, the success of the Korean sector remains a cornerstone of the company's global strategy. Sarandos emphasized that Korea represents far more than just a regional market, describing it as a vital partner and a testing ground for how far stories can travel across cultural boundaries."
+        ]
+      },
+      {
+        "h": "Record-Breaking Viewership and Data",
+        "p": [
+          "To underscore the commercial viability of its regional catalog, Netflix released a comprehensive set of viewership statistics during the anniversary. Korean programming currently stands as the platform's most-watched non-English content category, with more than eighty percent of global subscribers having watched at least one Korean title.",
+          "Since the company began publishing its global Top 10 rankings, over two hundred Korean titles have appeared on the charts. Furthermore, productions from the region generated more than twelve billion viewing hours between April 2025 and March 2026, trailing only U.S. content in overall country-of-origin volume."
+        ]
+      },
+      {
+        "h": "Star-Studded Attendance and Franchise Success",
+        "p": [
+          "A multitude of prominent Korean actors and creators appeared throughout the weekend to support the brand's milestone. Cast members from globally recognized hits such as Squid Game, D.P., Hellbound, and Mask Girl took to the stage to reflect on their breakout moments.",
+          "Notably, the first three seasons of Squid Game currently occupy the top three positions on Netflix's all-time most-watched non-English television list, while the recent hit Teach You a Lesson secured the tenth spot on the same ranking."
+        ]
+      },
+      {
+        "h": "A Glittering Preview of Future Releases",
+        "p": [
+          "Looking forward, Sarandos offered attendees a comprehensive preview of upcoming Korean projects slated for the platform. These announcements featured veteran actors and high-profile directors, highlighting upcoming ventures like Lee Chang-dong's Possible Love and the period drama Tantara.",
+          "Additional titles highlighted during the presentation included the supernatural fantasy Grand Galaxy Hotel, the thriller series She, Wolf, the highly anticipated second season of All of Us Are Dead, and a live-action adaptation of the anime property Solo Leveling."
+        ]
+      }
+    ],
+    "facts": [
+      "Ted Sarandos traveled to Seoul over the weekend of October 25, 2026.",
+      "The Netflix Janchi fan event attracted over 10,000 local fans.",
+      "Online broadcasts of the event drew 3.58 million cumulative views.",
+      "Korean programming is Netflix's most-watched non-English-language content category.",
+      "Over 80 percent of Netflix members worldwide have watched at least one Korean title.",
+      "More than 200 Korean titles have appeared on Netflix global Top 10 rankings since June 2021.",
+      "Korean productions generated over 12 billion viewing hours between April 2025 and March 2026.",
+      "Possible Love is set to debut globally on Netflix on November 6.",
+      "Tantara premieres on December 11."
+    ],
+    "entities": {
+      "people": [
+        "Ted Sarandos",
+        "Bela Bajaria",
+        "Peter Rice",
+        "Lee Chang-dong",
+        "Lee Jung-jae",
+        "Lee Byung-hun",
+        "Park Hae-soo",
+        "Ahn Hyo-seop",
+        "Koo Kyo-hwan",
+        "Jung Hae-in",
+        "Jeon Do-yeon",
+        "Sul Kyung-gu",
+        "Zo In-sung",
+        "Cho Yeo-jeong",
+        "Song Hye-kyo",
+        "Gong Yoo",
+        "Kim Seol-hyun",
+        "Lee Do-hyun",
+        "Shin Si-a",
+        "Kim Min-ju",
+        "Lomon",
+        "Moon Sang-min",
+        "Park Ji-hu",
+        "Yoon Chan-young",
+        "Cho Yi-hyun",
+        "Byeon Woo-seok",
+        "Sung Jin-woo"
+      ],
+      "titles": [
+        "Possible Love",
+        "Tantara",
+        "Grand Galaxy Hotel",
+        "She, Wolf",
+        "All of Us Are Dead",
+        "Solo Leveling",
+        "Squid Game",
+        "Teach You a Lesson",
+        "KPop Demon Hunters",
+        "D.P.",
+        "Hellbound",
+        "Mask Girl",
+        "Culinary Class Wars",
+        "The Trauma Code: Heroes on Call"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/10th_10242026_MainStageProgram_1504.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Netflix Co-CEO Ted Sarandos Celebrates Ten Years of Korean Content Dominance in Seoul",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 06:05:45 +0000"
+  },
+  "1ihypy0": {
+    "id": "1ihypy0",
+    "type": "news",
+    "headline": "Nick Jonas Offers a Glimpse Into Family Life With Priyanka Chopra and Daughter Malti Marie",
+    "dek": "Pop star Nick Jonas shares a heartwarming carousel of backstage moments, cozy snapshots with wife Priyanka Chopra, and a tender hug from his daughter Malti Marie.",
+    "body": [
+      {
+        "h": "A Peek Behind the Curtain of Tour Life",
+        "p": [
+          "Pop artist Nick Jonas recently treated his social media followers to a visual diary capturing the multifaceted nature of his daily routine. Between high-energy concert stages and quiet domestic interludes, the singer offered an intimate look at how he balances a demanding touring schedule with a fulfilling family life alongside his wife, acclaimed actor Priyanka Chopra, and their young daughter.",
+          "The shared compilation featured dynamic snapshots of Nick performing live alongside his brothers and bandmates, Kevin Jonas and Joe Jonas. Interspersed among the concert highlights were grounded, everyday moments that showcased the musician enjoying a peaceful morning coffee and even partaking in a routine skincare session utilizing a face mask while relaxing behind the scenes."
+        ]
+      },
+      {
+        "h": "Tender Family Moments and Personal Milestones",
+        "p": [
+          "Among the most celebrated images in the digital carousel was a heartwarming scene capturing a sweet father-daughter interaction. Little Malti Marie was highlighted running enthusiastically to embrace her father backstage, creating an unforgettable memory for the proud parents. Additionally, the post featured a cozy photograph of Nick and Priyanka sharing an affectionate moment together.",
+          "The pop star accompanied the diverse collection of images with a characteristically brief yet energetic caption, noting simply that he was fully immersed in the rhythm of his current schedule. The post quickly drew widespread attention from fans eager to witness these candid glimpses of the high-profile family."
+        ]
+      },
+      {
+        "h": "Reflecting on the Jonas Brothers' Journey",
+        "p": [
+          "Beyond his immediate family updates, Nick recently opened up about professional history during a podcast appearance alongside Madhu Chopra, Priyanka's mother. The conversation touched upon the factors that culminated in the Jonas Brothers' temporary disbandment in 2013 prior to their triumphant musical reunion in 2013's successor eras.",
+          "He elaborated on the internal pressures of maintaining sustained success at a young age, describing a creative environment strained by growing pains and apprehension regarding industry collaboration. The singer candidly discussed his tendency to overthink creative processes, likening the pressure to tightening a screw until the material gives way, thereby emphasizing the ongoing quest for artistic balance."
+        ]
+      },
+      {
+        "h": "A Modern Transnational Romance",
+        "p": [
+          "The journey of Nick Jonas and Priyanka Chopra remains one of the most closely followed cross-cultural romances in modern entertainment. The pair initially crossed paths at a Vanity Fair Oscar party in February 2017 before transitioning into a committed relationship by May of the following year.",
+          "Following a swift engagement in July 2018, the couple solidified their bond through magnificent wedding ceremonies held in Jodhpur, Rajasthan, honoring both Christian and Hindu traditions. Their family expanded further in January 2022 with the arrival of their daughter, Malti Marie, welcomed via surrogacy."
+        ]
+      }
+    ],
+    "facts": [
+      "Nick Jonas shared an Instagram post on October 26, 2026.",
+      "Nick Jonas and Priyanka Chopra met at a Vanity Fair Oscars party in February 2017.",
+      "The couple started dating in May 2018 and got engaged in July 2018.",
+      "Nick and Priyanka married in December 2018 in Jodhpur, Rajasthan.",
+      "Their daughter Malti Marie was born via surrogacy in January 2022.",
+      "The Jonas Brothers broke up in 2013 and reunited in 2019."
+    ],
+    "entities": {
+      "people": [
+        "Nick Jonas",
+        "Priyanka Chopra",
+        "Malti Marie",
+        "Joe Jonas",
+        "Kevin Jonas",
+        "Madhu Chopra",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Jonas Brothers"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/logo/Nick_1792993695924_NO0a_1792993696059_vbJt_10e429d7-1014-4efb-b3b2-1bc062022f7f_2zhC.jpg",
+        "caption": "Nick Jonas Offers a Glimpse Into Family Life With Priyanka Chopra and Daughter Malti Marie",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 11:28:53 +0530"
   }
 };
