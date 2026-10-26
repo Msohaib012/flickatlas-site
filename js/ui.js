@@ -612,12 +612,22 @@ const UI = (() => {
       if (links.length >= 12) break;
     }
     if (!links.length) return;
-    /* Keep the trailer last WITHOUT moving it: insert the explore block
-       just before it when it is a direct child of the wrap; otherwise
-       append at the end. (Never appendChild() the trailer — that would
-       rip it out of its own container and break the page layout.) */
-    const trailer = wrap.querySelector("#official-trailer");
-    if (trailer && trailer.parentNode === wrap) trailer.insertAdjacentHTML("beforebegin", exploreLinksHtml(links));
+    /* USER ORDER 2026-10-26: Explore More (Jumps) sits right BELOW the
+       Story section when one exists; when there is no Story, it goes
+       higher up (after the first content block), never buried at the
+       bottom. (Never appendChild() the trailer — that would rip it out
+       of its own container and break the page layout.) */
+    const storyCard = wrap.querySelector("#story-summary") ||
+      [...wrap.querySelectorAll(".content-card")].find(el => {
+        const h = el.querySelector("h2");
+        return h && /^(story|story summary|the story so far)$/i.test(h.textContent.trim());
+      });
+    if (storyCard) {
+      storyCard.insertAdjacentHTML("afterend", exploreLinksHtml(links));
+      return;
+    }
+    const firstBlock = wrap.querySelector(".detail-hero, .content-card, .section");
+    if (firstBlock) firstBlock.insertAdjacentHTML("afterend", exploreLinksHtml(links));
     else wrap.insertAdjacentHTML("beforeend", exploreLinksHtml(links));
   }
 

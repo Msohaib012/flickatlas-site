@@ -168,6 +168,8 @@ jobs:
           python3 scripts/fnn_boxoffice.py --stage out/boxoffice-staging || echo "filmynewsnetwork reader failed/missing, continuing"
           python3 scripts/wp_boxoffice.py --stage out/boxoffice-staging || echo "wordpress reader failed/missing, continuing"
           python3 scripts/bollybourse_boxoffice.py --stage out/boxoffice-staging || echo "bollybourse reader failed/missing, continuing"
+          python3 scripts/moviemint_boxoffice.py --stage out/boxoffice-staging || echo "moviemint reader failed/missing, continuing"
+          python3 scripts/filmibeat_boxoffice.py --stage out/boxoffice-staging || echo "filmibeat reader failed/missing, continuing"
           python3 scripts/varanasiboxoffice_boxoffice.py --stage out/boxoffice-staging || echo "varanasiboxoffice reader failed/missing, continuing"
           python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
 

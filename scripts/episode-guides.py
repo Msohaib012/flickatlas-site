@@ -53,6 +53,14 @@ summary_at, posted_at). Dedup by video_id AND drama+episode — an
 episode is never posted twice. The summary backlog is derived:
 episodes with summary == null, ordered by views desc.
 
+GATE (user order 2026-10-26): only episodes of dramas on the site's
+published Pakistani TV list (js/published-titles.js, FA_PUBLISHED)
+are posted — aliases Dar -> Dar-E-Nijaat, Zehar -> Zehar-e-Mohabbat.
+Anything else (Bulbulay Season 2, an interview, an unlisted drama)
+is skipped and stays out of state, so a later run posts it if the
+drama gets listed. If the published file is unreadable the gate is
+OFF (never block every post on a data-file failure).
+
 Env:
   YOUTUBE_DATA_API_KEY  (required for primary detection; without it the
                          script falls back to RSS and says so clearly)
@@ -87,6 +95,10 @@ CONFIG_JS = os.path.join(ROOT, "js", "config.js")
 ARTICLES_JS = os.path.join(ROOT, "js", "articles-data.js")
 EPISODES_JSON = os.path.join(OUT_DIR, "episodes.json")
 EPISODE_FEED_JSON = os.path.join(OUT_DIR, "episode-feed.json")
+PUBLISHED_JS = os.path.join(ROOT, "js", "published-titles.js")
+# Tracker-name -> published-name aliases (same drama, different name on
+# YouTube vs the site's Pakistani Dramas list).
+DRAMA_ALIASES = {"dar": "Dar-E-Nijaat", "zehar": "Zehar-e-Mohabbat"}
 
 MODEL = "gemini-3.5-flash-lite"
 SUMMARY_MAX_PER_DAY = 2
@@ -235,6 +247,41 @@ def norm_name(name):
     s = (name or "").strip().lower()
     s = re.sub(r"[^a-z0-9 ]+", " ", s)
     return re.sub(r"\s+", " ", s).strip()
+
+
+def load_published_pk_dramas():
+    """Published Pakistani dramas (js/published-titles.js, FA_PUBLISHED):
+    norm_name -> display name, type tv + industry pakistani. Returns {}
+    when the file is missing/unreadable — the caller treats an empty
+    map as 'gate disabled' rather than blocking every post."""
+    try:
+        data = read_js_map(PUBLISHED_JS, "FA_PUBLISHED")
+    except Exception as e:
+        print(f"published list unreadable ({e}) — drama gate disabled")
+        return {}
+    out = {}
+    for t in (data or {}).values():
+        if not isinstance(t, dict):
+            continue
+        if t.get("type") != "tv" or (t.get("industry") or "") != "pakistani":
+            continue
+        name = (t.get("title") or "").strip()
+        if name:
+            out[norm_name(name)] = name
+    return out
+
+
+def canonical_pk_drama(name, pk_dramas):
+    """Published name for a detected drama, or None when it is NOT a
+    listed Pakistani drama. Aliases first (Dar -> Dar-E-Nijaat,
+    Zehar -> Zehar-e-Mohabbat), then exact normalized match."""
+    n = norm_name(name)
+    if not n:
+        return None
+    if n in DRAMA_ALIASES:
+        target = DRAMA_ALIASES[n]
+        return target if norm_name(target) in pk_dramas else None
+    return pk_dramas.get(n)
 
 
 def parse_iso_duration(dur):
@@ -705,6 +752,17 @@ def main():
     gkeys = gemini_keys()
 
     pool = build_drama_pool(tmdb_key)
+    # Pakistani Dramas only (user order 2026-10-26): the gate list is
+    # the site's published Pakistani TV list. Empty map = the published
+    # file was unreadable, so the gate is OFF (never block every post
+    # on a data-file failure).
+    pk_dramas = load_published_pk_dramas()
+    gate_on = bool(pk_dramas)
+    if gate_on:
+        print(f"drama gate: {len(pk_dramas)} published Pakistani dramas")
+    else:
+        print("drama gate: OFF (published list empty/unreadable — "
+              "posting ungated)")
     state = load_state()
     known = state.get("episodes") or {}
 
@@ -759,6 +817,20 @@ def main():
     feed_have = {e.get("id") for e in feed_entries}
     posted = 0
     for ep in new_eps:
+        # Pakistani Dramas only (user order 2026-10-26): the episode's
+        # drama must be on the site's published Pakistani TV list
+        # (aliases applied — Dar -> Dar-E-Nijaat, Zehar ->
+        # Zehar-e-Mohabbat — and the article is written under the
+        # published name). Anything else (Bulbulay Season 2, an
+        # interview, an unlisted drama) is skipped and stays out of
+        # `known`, so a later run posts it if the drama gets listed.
+        if gate_on:
+            canon = canonical_pk_drama(ep["drama"], pk_dramas)
+            if canon is None:
+                print(f"  skip (not a listed Pakistani drama): {ep['drama']} "
+                      f"Ep {ep['episode']} ({ep['channel']})")
+                continue
+            ep["drama"] = canon
         # Non-PK channels: only post episodes with 1M+ views (see
         # MIN_VIEWS_INTL). Skipped episodes stay out of `known`, so a
         # later run posts them once they cross 1M within the lookback.

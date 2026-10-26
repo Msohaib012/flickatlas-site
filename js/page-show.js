@@ -14,7 +14,16 @@
    Pakistani dramas have NO seasons (seasons are an OTT thing): for a
    Pakistani drama the Seasons table is replaced by an Episodes list
    (the YouTube episode posts for that drama, each linking to its own
-   episode page). OTT / world series keep their Seasons table. */
+   episode page). OTT / world series keep their Seasons table.
+   Episode count (user order 2026-10-26): for Pakistani dramas the
+   "Episodes" figure comes from the episode tracker (/out/episodes.json
+   — the highest tracked episode number IS the count), NOT from TMDB's
+   number_of_episodes, which is stale for ongoing dramas (Bano: TMDB
+   says 1). The count updates automatically as the tracker adds
+   episodes; TMDB is only a fallback. While the drama is still airing
+   the count reads e.g. "13 · Still airing". Related News items that
+   are episodes render as thumbnail + title rows (.ep-row, the
+   homepage Drama Episodes style), not bare text links. */
 (async function () {
   UI.mountChrome("/show");
   const main = document.getElementById("app");
@@ -210,6 +219,46 @@
       out.sort((x, y) => String(y.published || "").localeCompare(String(x.published || "")) || (y.episode - x.episode));
       return out.filter(e => e.articleId);
     })();
+    /* --- Tracker episode count (user order 2026-10-26): TMDB's
+       number_of_episodes is stale for ongoing Pakistani dramas
+       (Bano: TMDB says 1; the tracker knows the real latest episode).
+       /out/episodes.json carries every tracked episode; the HIGHEST
+       episode number for a drama IS its episode count (episodes air
+       sequentially from 1). Alias: tracker "Dar" = published
+       "Dar-E-Nijaat", tracker "Zehar" = "Zehar-e-Mohabbat". Falls back
+       to TMDB when the tracker has nothing for this drama. The count
+       updates automatically as the tracker adds episodes — no code
+       change per episode. --- */
+    const DRAMA_ALIASES = { "dar": "dar e nijaat", "zehar": "zehar e mohabbat" };
+    const canonDrama = (d) => DRAMA_ALIASES[normName(d)] || normName(d);
+    let trackerEp = null; // { count, latestPublished }
+    try {
+      const epRes = await fetch("/out/episodes.json", { cache: "no-store" });
+      if (epRes.ok) {
+        const epData = await epRes.json();
+        const recs = Object.values((epData && epData.episodes) || {});
+        const mine = recs.filter(r => r && canonDrama(r.drama || "") === showNorm);
+        if (mine.length) {
+          const nums = mine.map(r => r.episode).filter(n => Number.isInteger(n) && n > 0);
+          const latestPub = mine.map(r => r.published || "").filter(Boolean).sort().pop() || "";
+          if (nums.length) trackerEp = { count: Math.max(...nums), latestPublished: latestPub };
+        }
+      }
+    } catch (_) { trackerEp = null; }
+    /* Episode count: tracker first, TMDB only as a fallback. */
+    const epCount = trackerEp ? trackerEp.count : (pub.number_of_episodes || 0);
+    /* Still airing: the latest tracked episode aired within the last
+       7 days AND TMDB still lists the show as returning — a drama
+       whose last episode is older, or whose status is Ended, shows
+       just the total. */
+    const isStillAiring = (() => {
+      if (!trackerEp || !trackerEp.latestPublished) return false;
+      const last = Date.parse(trackerEp.latestPublished);
+      if (!Number.isFinite(last)) return false;
+      const days = (Date.now() - last) / 86400000;
+      return days <= 7 && String(pub.status || "").toLowerCase().indexOf("returning") !== -1;
+    })();
+    const epCountLabel = epCount ? (isStillAiring ? `${epCount} · Still airing` : String(epCount)) : "";
     const epCardShow = (e) => {
       const air = e.published ? UI.fmtDate(e.published) : "";
       const views = (typeof e.views === "number" && e.views > 0) ? e.views.toLocaleString("en-US") : "";
@@ -238,7 +287,7 @@
     if (pub.status) heroFacts.push(["Status", pub.status]);
     if (runtime) heroFacts.push(["Episode Runtime", runtime]);
     if (pub.number_of_seasons && !isPakistani) heroFacts.push(["Seasons", String(pub.number_of_seasons)]);
-    if (pub.number_of_episodes) heroFacts.push(["Episodes", String(pub.number_of_episodes)]);
+    if (epCount) heroFacts.push(["Episodes", epCountLabel]);
     if (channel) heroFacts.push(["Channel", channel]);
     if (tag) heroFacts.push(["Industry", tag]);
 
@@ -259,7 +308,7 @@
     if (pub.status) factRows.push(["Status", pub.status]);
     if (createdBy.length) factRows.push(["Created by", createdBy.join(", ")]);
     if (pub.number_of_seasons && !isPakistani) factRows.push(["Seasons", String(pub.number_of_seasons)]);
-    if (pub.number_of_episodes) factRows.push(["Episodes", String(pub.number_of_episodes)]);
+    if (epCount) factRows.push(["Episodes", epCountLabel]);
     if (runtime) factRows.push(["Episode Runtime", runtime]);
     if (genres.length) factRows.push(["Genres", genres.join(", ")]);
     if (pub.original_language) factRows.push(["Original Language", langName(pub.original_language)]);
@@ -269,6 +318,37 @@
     if (networks.length) factRows.push(["Network", networks.join(", ")]);
     if (channel) factRows.push(["Channel", channel]);
     if (tag) factRows.push(["Industry", tag]);
+
+    /* Related News rows: an episode item renders as a thumbnail +
+       title row (.ep-row — the same style as the homepage Drama
+       Episodes rail), NOT a bare text link. Non-episode news stays
+       the plain .news-item row. */
+    const EP_HEADLINE_RE = /^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i;
+    const isEpisodeArticle = (a) => {
+      const h = String(a.headline || "");
+      const wm = h.match(EP_HEADLINE_RE);
+      return !!(wm && wm[1].trim().match(/^(.+?)\s+Episode\s+(\d+)$/i));
+    };
+    const relatedRow = (a) => {
+      const h = String(a.headline || "");
+      const wm = h.match(EP_HEADLINE_RE);
+      const em = wm && wm[1].trim().match(/^(.+?)\s+Episode\s+(\d+)$/i);
+      if (wm && em) {
+        const img = (a.images && a.images[0] && a.images[0].url) || "";
+        const channel = (a.images && a.images[0] && a.images[0].source) || wm[2].trim();
+        const date = (a.published || "").slice(0, 10);
+        return `<a class="ep-row" href="/news-item?id=${encodeURIComponent(a.id)}">
+          <span class="ep-thumb">${img ? `<img src="${UI.esc(img)}" alt="${UI.esc(h)}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+          <span class="ep-info"><b>${UI.esc(h)}</b>
+          <span>${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
+        </a>`;
+      }
+      return `<a class="news-item" href="/news-item?id=${encodeURIComponent(a.id)}">
+        <span class="news-txt"><b>${UI.esc(a.headline || "")}</b>
+        <span>${a.published ? UI.relTime(Date.parse(a.published)) : ""}</span></span>
+      </a>`;
+    };
+    const relatedHasEp = related.some(isEpisodeArticle);
 
     main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/tv">← TV &amp; Web Series</a></p>
@@ -284,7 +364,7 @@
       </div>
     </div>
 
-    ${pub.overview ? `<div class="content-card"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
+    ${pub.overview ? `<div class="content-card" id="story-summary"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
 
     ${isPakistani ? episodesHtml : (seasons.length ? `<div class="content-card"><h2>Seasons</h2>
       ${deepLinkNote}
@@ -315,10 +395,7 @@
 
     ${related.length ? `<section class="section"><div class="section-head"><h2>Related News</h2>
       <a class="see-all" href="/news">All News →</a></div>
-      <div class="news-list">${related.map(a => `<a class="news-item" href="/news-item?id=${encodeURIComponent(a.id)}">
-        <span class="news-txt"><b>${UI.esc(a.headline || "")}</b>
-        <span>${a.published ? UI.relTime(Date.parse(a.published)) : ""}</span></span>
-      </a>`).join("")}</div></section>` : ""}
+      <div class="${relatedHasEp ? "tl-list" : "news-list"}">${related.map(relatedRow).join("")}</div></section>` : ""}
 
     ${factRows.length ? `<div class="content-card"><h2>Show Details</h2>
       <dl class="facts-table">${factRows.map(([k, v]) => `<div class="fact-row"><dt>${UI.esc(k)}</dt><dd>${UI.esc(v)}</dd></div>`).join("")}</dl></div>` : ""}
@@ -343,7 +420,7 @@
         ...(genres.length ? { "genre": genres } : {}),
         ...(firstAir ? { "datePublished": firstAir } : {}),
         ...(pub.number_of_seasons && !isPakistani ? { "numberOfSeasons": pub.number_of_seasons } : {}),
-        ...(pub.number_of_episodes ? { "numberOfEpisodes": pub.number_of_episodes } : {}),
+        ...(epCount ? { "numberOfEpisodes": epCount } : {}),
         ...(pub.vote_average ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": Math.round(pub.vote_average * 10) / 10, "bestRating": 10, "ratingCount": pub.vote_count || 1 } } : {}),
       }
     });

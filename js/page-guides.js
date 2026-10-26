@@ -1,12 +1,20 @@
 /* FlickAtlas — Episode Guides hub (/episode-guides): the episode LIST.
    Drama episodes — every episode post, newest first, as a LIST (user
-   order 2026-10-26): one row per episode (episode title + drama name +
-   date), NOT poster cards. A drama filter (chips) at the top narrows the
-   list to one drama. Each row links to its own detail page
-   (/news-item?id=<article_id>). Episodes come from the YouTube episode
-   tracker (scripts/episode-guides.py): each new episode gets an info
-   post the same day, and the top episodes by views get an AI story
-   summary added gradually.
+   order 2026-10-26): one row per episode, homepage .ep-row style
+   (thumbnail LEFT + title/date RIGHT, same as the homepage Drama
+   Episodes rail), NOT poster cards and NOT the old date-block rows.
+   A drama filter (a DOWNWARD <select> dropdown, page-tv.js pattern)
+   at the top narrows the list to one drama. Each row links to its own
+   detail page (/news-item?id=<article_id>). Episodes come from the
+   YouTube episode tracker (scripts/episode-guides.py): each new episode
+   gets an info post the same day, and the top episodes by views get an
+   AI story summary added gradually.
+   PAKISTANI DRAMAS ONLY (user order 2026-10-26): an episode appears
+   here only when its drama is on the site's published Pakistani TV
+   list (window.FA_PUBLISHED, type tv + industry pakistani). Tracker
+   aliases: "Dar" = "Dar-E-Nijaat", "Zehar" = "Zehar-e-Mohabbat".
+   Anything else (Bulbulay Season 2, an interview, an unlisted drama)
+   is excluded from this list.
    Identification: primary = /out/episodes.json (the tracker's state
    file — drama, episode, channel, views, article_id, summary, all
    structured); fallback = FA_ARTICLES headline pattern
@@ -24,41 +32,72 @@
     <div class="page-hero"><h1>Drama — Episode Guides</h1>
       <p>Latest drama episodes from YouTube channels, newest first, with a story summary when one is ready.</p></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading episodes…</p>
-    <div id="dramaFilterHost"></div>
+    <div id="chipHost"></div>
     <div id="guideHost"><div class="sk" style="height:280px;border-radius:22px"></div></div>
   </div>`;
   const fcount = main.querySelector("#fcount");
-  const filterHost = main.querySelector("#dramaFilterHost");
+  const filterHost = main.querySelector("#chipHost");
   const host = main.querySelector("#guideHost");
 
-  const fmtViews = (n) => (typeof n === "number" && n > 0) ? n.toLocaleString("en-US") : "";
-  const MONTHS_S = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  /* --- Pakistani Dramas only (user order 2026-10-26) -----------------
+     The published list is window.FA_PUBLISHED (loaded on this page
+     before this script). FALLBACK_PK_DRAMAS is the user-confirmed list
+     of the 13 dramas, used only if that data file fails to load, so
+     the filter never silently empties the page. */
+  const DRAMA_ALIASES = { "dar": "Dar-E-Nijaat", "zehar": "Zehar-e-Mohabbat" };
+  const FALLBACK_PK_DRAMAS = ["Aangan", "Bano", "Circle Story", "Dar-E-Nijaat",
+    "Dastoor", "Izzat", "Khushi", "Mitti De Baway", "Mohabbat Mukhtasir",
+    "Nashtar", "Rutba", "Uswah", "Zehar-e-Mohabbat"];
+  const normName = (s) => String(s || "").toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
+  function pkDramaMap() {
+    const map = new Map();
+    const pub = window.FA_PUBLISHED || {};
+    for (const t of Object.values(pub)) {
+      if (!t || t.type !== "tv" || (t.industry || "") !== "pakistani") continue;
+      const name = String(t.title || "").trim();
+      if (name) map.set(normName(name), name);
+    }
+    if (!map.size) for (const n of FALLBACK_PK_DRAMAS) map.set(normName(n), n);
+    return map;
+  }
+  /* Canonical published drama name for a tracker/article drama name,
+     or null when it is NOT a listed Pakistani drama (excluded). */
+  function canonicalDrama(name, pkMap) {
+    const n = normName(name);
+    if (!n) return null;
+    if (DRAMA_ALIASES[n]) {
+      const target = DRAMA_ALIASES[n];
+      return pkMap.has(normName(target)) ? target : null;
+    }
+    return pkMap.has(n) ? pkMap.get(n) : null;
+  }
+  const PK_MAP = pkDramaMap();
 
-  /* One episode ROW (list layout, user order 2026-10-26): date block +
-     title (drama — episode) + meta (air date · channel · views). Links
-     to the episode's own detail page. No poster, no summary in the row
-     — the summary lives on the episode page. */
+  /* One episode ROW — homepage Drama Episodes style (.ep-row):
+     thumbnail LEFT + title/date RIGHT, side by side. Links to the
+     episode's own detail page. The title is the episode headline
+     ("<Drama> Episode <N> — Watch on <channel>"), exactly as the
+     homepage rail shows it. */
   function epRow(e) {
     const epLabel = (e.isFinale && !e.episode) ? "Final Episode"
       : `Episode ${e.episode}${e.isFinale ? " (Finale)" : ""}`;
-    const title = `${e.drama} — ${epLabel}`;
+    const title = `${e.drama} ${epLabel} — Watch on ${e.channel}`;
     const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
-    const d = (e.published || "").slice(0, 10);
-    const parts = d ? d.split("-") : [];
-    const dd = parts[2] ? parseInt(parts[2], 10) : null;
-    const mm = parts[1] ? parseInt(parts[1], 10) : null;
     const air = e.published ? UI.fmtDate(e.published) : "";
-    const views = fmtViews(e.views);
-    const meta = [air, e.channel, views ? `${views} views` : ""].filter(Boolean).join(" · ");
-    return `<a class="tl-row" href="${href}">
-      <span class="tl-date"><b>${dd || "—"}</b><span>${mm ? MONTHS_S[mm - 1] : ""}</span></span>
-      <span class="tl-info"><b>${UI.esc(title)}</b><span>${UI.esc(meta)}</span></span>
+    const meta = [air, e.channel].filter(Boolean).join(" · ");
+    const thumb = e.thumb || "";
+    return `<a class="ep-row" href="${href}">
+      <span class="ep-thumb">${thumb ? `<img src="${UI.esc(thumb)}" alt="${UI.esc(title)}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+      <span class="ep-info"><b>${UI.esc(title)}</b><span>${UI.esc(meta)}</span></span>
     </a>`;
   }
 
   /* Primary: /out/episodes.json — the tracker's state file. Each
      record carries drama, episode, channel, views, article_id and the
-     summary; the thumbnail comes from the matching FA_ARTICLES entry. */
+     summary; the thumbnail comes from the matching FA_ARTICLES entry
+     (falling back to the YouTube thumbnail for the video id). Only
+     listed Pakistani dramas survive (canonicalDrama). */
   async function episodesFromState() {
     try {
       const res = await fetch("/out/episodes.json", { cache: "no-store" });
@@ -68,22 +107,26 @@
       if (!recs.length) return null;
       const arts = window.FA_ARTICLES || {};
       return recs.map(r => {
+        const drama = canonicalDrama(r.drama || "", PK_MAP);
+        if (!drama) return null;
         const a = arts[r.article_id] || null;
-        const thumb = (a && a.images && a.images[0] && a.images[0].url) || "";
+        const thumb = (a && a.images && a.images[0] && a.images[0].url)
+          || (r.video_id ? `https://i.ytimg.com/vi/${r.video_id}/hqdefault.jpg` : "");
         return {
-          drama: r.drama || "", episode: r.episode, isFinale: !!r.is_finale,
+          drama, episode: r.episode, isFinale: !!r.is_finale,
           channel: r.channel || "", published: r.published || "",
           views: r.views || 0, summary: r.summary || "",
           articleId: r.article_id || "", thumb
         };
-      }).filter(e => e.articleId && e.drama && e.episode != null);
+      }).filter(e => e && e.articleId && e.drama && e.episode != null);
     } catch (_) { return null; }
   }
 
   /* Fallback: FA_ARTICLES headline pattern
      "<Drama> Episode <N> — Watch on <channel>" (and the "<Drama> -
      Last Episode" finale form). Views come from the article facts,
-     the summary from the "Story Summary" body section. */
+     the summary from the "Story Summary" body section. Only listed
+     Pakistani dramas survive (canonicalDrama). */
   function episodesFromArticles() {
     const arts = Object.values(window.FA_ARTICLES || {});
     const out = [];
@@ -96,7 +139,9 @@
       const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);
       const fm = !em && left.match(/^(.+?)\s+[—–-]?\s*Last Episode$/i);
       if (!em && !fm) continue;
-      const drama = (a.entities && a.entities.titles && a.entities.titles[0]) || (em ? em[1].trim() : fm[1].trim());
+      const rawDrama = (a.entities && a.entities.titles && a.entities.titles[0]) || (em ? em[1].trim() : fm[1].trim());
+      const drama = canonicalDrama(rawDrama, PK_MAP);
+      if (!drama) continue;
       const channel = (a.images && a.images[0] && a.images[0].source) || wm[2].trim();
       const thumb = (a.images && a.images[0] && a.images[0].url) || "";
       let views = 0;
@@ -125,8 +170,11 @@
       host.innerHTML = UI.stateMsg("No drama episodes have been published yet. New episodes appear here as they air on YouTube.", false);
       return;
     }
-    /* Drama filter (user order 2026-10-26): chips for every drama in
-       the list, newest-first order preserved; "All Dramas" is default. */
+    /* Drama filter (user order 2026-10-26): a DOWNWARD <select>
+       dropdown (page-tv.js pattern — same .listing-select-row /
+       .filter-select / select.fsel markup and #chipHost styling),
+       NOT buttons and NOT a popup. Options are the listed Pakistani
+       dramas that have episodes, sorted; "All Dramas" is default. */
     let activeDrama = "";
     const dramas = [...new Set(eps.map(e => e.drama))].sort((a, b) => a.localeCompare(b));
     const renderList = () => {
@@ -136,21 +184,12 @@
         ? `<div class="tl-list">${list.map(epRow).join("")}</div>`
         : UI.stateMsg("No episodes for this drama yet.", false);
     };
-    if (dramas.length > 1) {
-      filterHost.innerHTML = `<nav class="tabs" aria-label="Filter by drama">${["", ...dramas].map(d =>
-        `<button type="button" data-drama="${UI.esc(d)}"${d === activeDrama ? ' class="on" aria-current="true"' : ""}>${d ? UI.esc(d) : "All Dramas"}</button>`).join("")}</nav>`;
-      filterHost.addEventListener("click", (ev) => {
-        const btn = ev.target.closest("button[data-drama]");
-        if (!btn) return;
-        activeDrama = btn.dataset.drama;
-        filterHost.querySelectorAll("button[data-drama]").forEach(b => {
-          const on = b.dataset.drama === activeDrama;
-          b.classList.toggle("on", on);
-          if (on) b.setAttribute("aria-current", "true"); else b.removeAttribute("aria-current");
-        });
-        renderList();
-      });
-    }
+    filterHost.innerHTML = `<div class="listing-select-row listing-select-row--single"><label class="filter-select"><span>Drama</span><select class="fsel" id="dramaSel" aria-label="Filter by drama"><option value="">All Dramas</option>${dramas.map(d => `<option value="${UI.esc(d)}">${UI.esc(d)}</option>`).join("")}</select></label></div>`;
+    const sel = filterHost.querySelector("#dramaSel");
+    sel.addEventListener("change", () => {
+      activeDrama = sel.value;
+      renderList();
+    });
     renderList();
   } catch (e) {
     fcount.textContent = "Episode guides could not be loaded.";

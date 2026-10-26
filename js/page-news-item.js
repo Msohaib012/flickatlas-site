@@ -81,6 +81,46 @@
   const catChips = (it.cats || []).map(c =>
     `<a class="kw-chip" href="/news?f=${encodeURIComponent(c)}">${UI.esc(CATLABEL[c] || c)}</a>`).join("");
 
+  /* ---------- Episode pages (user order 2026-10-26): episodes are
+     news articles whose headline matches "<Drama> Episode <N> — Watch
+     on <channel>" (or the "<Drama> — Last Episode" finale form). They
+     render a dedicated layout — ONE compact Episode Details table, a
+     Story Summary (never invented), and the YouTube video embedded —
+     no raw watch URLs anywhere, no duplicated tables, no filler.
+     Everything below is gated on isEpisode; non-episode pages run the
+     exact original code path. */
+  const parseEpisodeHeadline = (h) => {
+    const s = String(h || "").replace(/\s+/g, " ").trim();
+    let m = s.match(/^(.+?)\s+Episode\s+(\d+)\s*(?:\(Finale\))?\s*[—–-]\s*Watch on\s+(.+)$/i);
+    if (m) return { drama: m[1].trim(), num: parseInt(m[2], 10), isFinale: false, channel: (m[3] || "").trim() };
+    m = s.match(/^(.+?)\s*[—–-]?\s*Last Episode\s*[—–-]\s*Watch on\s+(.+)$/i);
+    if (m) return { drama: m[1].trim(), num: null, isFinale: true, channel: (m[2] || "").trim() };
+    return null;
+  };
+  const epParsed = parseEpisodeHeadline(headline);
+  const isEpisode = !!epParsed;
+  const epDrama = isEpisode ? epParsed.drama : "";
+  const epNum = isEpisode ? epParsed.num : null;
+  const epIsFinale = isEpisode ? epParsed.isFinale : false;
+  const epChannel = isEpisode ? epParsed.channel : "";
+
+  /* Tracker record for this episode (video id, duration, views, the
+     AI story summary when one has been written). Only fetched for
+     episode pages; every other news page is untouched. */
+  let epTrack = null;
+  if (isEpisode) {
+    try {
+      const rr = await fetch("/out/episodes.json", { cache: "no-store" });
+      if (rr.ok) {
+        const data = await rr.json();
+        const recs = Object.values((data && data.episodes) || {});
+        epTrack = recs.find(x => String(x.article_id || "") === id)
+          || recs.find(x => (x.drama || "") === epDrama && (epNum == null || Number(x.episode) === epNum))
+          || null;
+      }
+    } catch (e) { epTrack = null; }
+  }
+
   /* ---------- Article (contract §6.6): full engine article if one
      exists for this id, else BRIEF MODE. (fullArt was resolved at the
      top, before the feed fetch, so a published article renders even
@@ -402,6 +442,82 @@
     };
   }
 
+  /* ---------- Episode assembly: one structured record the episode
+     layout renders from. The body "Episode Details" section and the
+     "Story Details" facts table carry the SAME four facts — that
+     duplication is the bug being fixed, so the generic body/facts are
+     cleared here and the table below is their only home. "What We
+     Know So Far" (brief filler) is dropped with them. */
+  const YT_URL_RE = /https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+[^\s]*/gi;
+  let epInfo = null;
+  if (isEpisode) {
+    /* Only the engine's STRING facts belong here — the brief builder's
+       {k,v} enrichment facts (Published / Series / Released …) are
+       structured data for the generic page, not episode rows. */
+    const strFacts = (article.facts || []).filter(f => typeof f === "string");
+    const bodyParas = (article.body || []).flatMap(s => s.p || []);
+    const allText = [...strFacts, ...bodyParas];
+    const joinedFacts = strFacts.join(" ");
+    const airM = joinedFacts.match(/aired on\s+(\d{4}-\d{2}-\d{2})/i);
+    const viewsM = joinedFacts.match(/YouTube views:\s*([\d,]+)/i);
+    let videoId = (epTrack && epTrack.video_id) || "";
+    if (!videoId) {
+      const im0 = (article.images || [])[0];
+      const imM = im0 && String(im0.url || "").match(/\/vi\/([\w-]{11})\//);
+      if (imM) videoId = imM[1];
+    }
+    if (!videoId) {
+      for (const t of allText) {
+        const vm = String(t).match(/youtube\.com\/watch\?v=([\w-]{11})/) || String(t).match(/youtu\.be\/([\w-]{11})/);
+        if (vm) { videoId = vm[1]; break; }
+      }
+    }
+    /* Cast: only from the resolved drama itself — the resolved title
+       must BE this drama, never a lookalike. Small and compact: one
+       row, max 5 names. */
+    let castNames = [];
+    if (enrich.td && UI.titleOf(enrich.td).toLowerCase() === epDrama.toLowerCase()) {
+      castNames = ((enrich.td.credits && enrich.td.credits.cast) || []).slice(0, 5).map(c => c.name).filter(Boolean);
+    }
+    /* Story Summary: tracker first, else the article's own section.
+       Neither present => no summary section at all (never invented). */
+    let summaryText = "";
+    if (epTrack && epTrack.summary) summaryText = String(epTrack.summary).trim();
+    if (!summaryText) {
+      const ssSec = (article.body || []).find(s => s && s.h === "Story Summary");
+      if (ssSec && ssSec.p && ssSec.p.length) summaryText = ssSec.p.join("\n\n").trim();
+    }
+    summaryText = summaryText.replace(YT_URL_RE, "").trim();
+    const airDate = (airM && airM[1]) || (it.ts ? String(it.ts).slice(0, 10) : "") || (fullArt && fullArt.published ? String(fullArt.published).slice(0, 10) : "");
+    const views = viewsM ? parseInt(viewsM[1].replace(/,/g, ""), 10) : ((epTrack && epTrack.views) || 0);
+    const durSec = (epTrack && epTrack.duration_sec) || 0;
+    const fmtDur = (s) => {
+      const m = Math.round(s / 60);
+      return m >= 60 ? `${Math.floor(m / 60)} h ${m % 60} min` : `${m} min`;
+    };
+    const rows = [];
+    if (airDate) rows.push({ k: "Air Date", v: UI.fmtDate(airDate) });
+    if (epChannel) rows.push({ k: "Channel", v: epChannel });
+    if (views) rows.push({ k: "YouTube Views", v: views.toLocaleString("en-US") });
+    if (durSec > 0) rows.push({ k: "Duration", v: fmtDur(durSec) });
+    if (castNames.length) rows.push({ k: "Cast", v: castNames.join(", ") });
+    /* Any other non-URL string fact survives as a plain row so
+       information is never silently dropped — but a watch URL never
+       reaches the page (it becomes the embed instead), and engine
+       metadata ("TMDB: …", "Story summary added …") is not
+       reader-facing information. */
+    for (const f of strFacts) {
+      if (/aired on/i.test(f) || /^Channel:/i.test(f) || /YouTube views:/i.test(f) || /Watch the full episode/i.test(f)) continue;
+      if (/^(TMDB:|Story summary added)/i.test(f.trim())) continue;
+      const clean = String(f).replace(YT_URL_RE, "").trim();
+      if (clean) rows.push({ k: "", v: clean });
+    }
+    epInfo = { rows, videoId, summaryText };
+    /* Generic body/facts must not render for episodes, and the dek
+       must not carry a watch URL either. */
+    article = { ...article, body: [], facts: [], dek: (article.dek || "").replace(YT_URL_RE, "").trim() };
+  }
+
   const more = items.filter(x => UI.newsId(x) !== id)
     .sort((a, b) => ((b.cats || []).some(c => (it.cats || []).includes(c)) ? 1 : 0) -
                     ((a.cats || []).some(c => (it.cats || []).includes(c)) ? 1 : 0) || b.ts - a.ts)
@@ -410,19 +526,104 @@
     !(whenText && String(f.k || "").toLowerCase() === "published") &&
     !((it.cats || []).length && String(f.k || "").toLowerCase() === "coverage"));
 
+  /* ---------- Episode layout blocks (only for episode pages).
+     Order: Episode Details table → Story Summary → YouTube embed,
+     then Related / More Episodes. */
+  let epHeroHtml = "", epDetailsHtml = "", epSummaryHtml = "", epEmbedHtml = "", moreEpHtml = "";
+  if (isEpisode) {
+    /* Hero thumbnail: the YouTube thumbnail DIRECT from i.ytimg.com —
+       no weserv proxy hop (the proxy is the weak link on mobile data:
+       when it hangs, the image sits empty and the dark poster reads
+       as a black box; the thumbnail itself is also very dark — avg
+       brightness 50/255, 31% near-black — so it needs a real load,
+       not a stalled one). Two-stage fallback, then the image hides
+       itself rather than ever showing a broken icon. */
+    const im0 = (article.images || [])[0];
+    const heroSrc = epInfo.videoId ? `https://i.ytimg.com/vi/${epInfo.videoId}/hqdefault.jpg` : ((im0 && im0.url) || "");
+    const heroFb = epInfo.videoId ? `https://i.ytimg.com/vi/${epInfo.videoId}/mqdefault.jpg` : heroSrc;
+    if (heroSrc) {
+      epHeroHtml = `<figure class="content-card" style="margin-top:14px;background:var(--soft)">
+      <img src="${UI.esc(heroSrc)}" alt="${UI.esc((im0 && im0.caption) || article.headline || "")}" loading="eager" fetchpriority="high" decoding="async" style="width:100%;display:block;border-radius:12px;aspect-ratio:4/3;object-fit:cover;background:var(--soft)" onerror="if(!this.dataset.fb){this.dataset.fb=1;this.src='${UI.esc(heroFb)}';}else{this.style.display='none';}">
+      <p class="img-credit">Image: ${UI.esc((im0 && im0.source) || epChannel || "YouTube")}</p>
+    </figure>`;
+    }
+    if (epInfo.rows.length) {
+      epDetailsHtml = `<div class="content-card" style="margin-top:14px"><h2>Episode Details</h2>
+      <dl class="facts-table">${epInfo.rows.map(r => r.k
+          ? `<div class="fact-row"><dt>${UI.esc(r.k)}</dt><dd>${UI.esc(r.v)}</dd></div>`
+          : `<div class="fact-row"><dd>${UI.esc(r.v)}</dd></div>`).join("")}</dl></div>`;
+    }
+    /* id="story-summary": the Explore More (Jumps) anchor — the
+       jumps block sits right below the Story, per the 2026-10-26
+       placement rule. */
+    if (epInfo.summaryText) {
+      epSummaryHtml = `<div class="content-card" id="story-summary" style="margin-top:14px"><h2>Story Summary</h2>
+      ${epInfo.summaryText.split(/\n\s*\n/).map(p => `<p class="article-summary">${UI.escRich(p.trim())}</p>`).join("")}</div>`;
+    }
+    if (epInfo.videoId) {
+      const epWatchLabel = epIsFinale ? "Watch the Final Episode" : `Watch Episode ${epNum}`;
+      epEmbedHtml = `<div class="content-card" style="margin-top:14px"><h2>${UI.esc(epWatchLabel)}</h2>
+      <div style="position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000">
+        <iframe src="https://www.youtube.com/embed/${UI.esc(epInfo.videoId)}" title="${UI.esc(`Watch ${epDrama}${epNum ? ` Episode ${epNum}` : " — Last Episode"} on YouTube`)}" style="position:absolute;inset:0;width:100%;height:100%;border:0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <p class="img-credit">Video: ${UI.esc(epChannel || "YouTube")}</p></div>`;
+    }
+    /* More Episodes: same-drama episodes first, then the latest —
+       homepage .ep-row style (thumbnail LEFT + title/date RIGHT),
+       the exact pattern from js/page-index.js episodeRow. */
+    const moreList = Object.values(window.FA_ARTICLES || {})
+      .filter(a => a && a.id && a.id !== id)
+      .map(a => ({ a, p: parseEpisodeHeadline(a.headline || "") }))
+      .filter(x => x.p)
+      .sort((x, y) => ((y.p.drama === epDrama) - (x.p.drama === epDrama)) || String(y.a.published || "").localeCompare(String(x.a.published || "")))
+      .slice(0, 6);
+    if (moreList.length) {
+      const epRow = (a) => {
+        const img = (a.images && a.images[0] && a.images[0].url) || "";
+        const channel = (a.images && a.images[0] && a.images[0].source) || "";
+        const date = (a.published || "").slice(0, 10);
+        return `<a class="ep-row" href="${UI.newsItemPath(a)}">
+        <span class="ep-thumb">${img ? `<img src="${UI.esc(img)}" alt="${UI.esc(a.headline || "")}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+        <span class="ep-info"><b>${UI.esc(a.headline || "")}</b>
+        <span>${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
+      </a>`;
+      };
+      moreEpHtml = `<section class="section"><div class="section-head"><h2>More Episodes</h2>
+      <a class="see-all" href="/episode-guides">See All →</a></div>
+      <div class="tl-list">${moreList.map(x => epRow(x.a)).join("")}</div></section>`;
+    }
+  }
+
   /* Article images (spec §5): each entry renders as a figure with the
      image and a small muted credit line under it, "Image: <source>".
      The credit uses the existing .img-credit class; the image sits in
      the existing .content-card. Articles with no images render exactly
      as today — this block is empty. A failed image removes its whole
      figure (no broken image, no orphan credit). */
-  const imagesHtml = (article.images || []).filter(im => im && im.url).map(im => `
+  const imagesHtml = isEpisode ? epHeroHtml : (article.images || []).filter(im => im && im.url).map(im => `
     <figure class="content-card" style="margin-top:14px">
       <img src="${UI.esc(UI.newsImg(im.url, 900))}" alt="${UI.esc(im.caption || article.headline || "")}" loading="lazy" decoding="async" style="max-width:100%;border-radius:12px" onerror="this.onerror=null;this.src='${UI.esc(im.url)}'">
       ${im.caption ? `<p class="article-summary" style="margin-top:8px">${UI.esc(im.caption)}</p>` : ""}
       <p class="img-credit">Image: ${UI.esc(im.source || "TMDB")}</p>
     </figure>`).join("");
 
+  if (isEpisode) {
+    main.innerHTML = `<div class="wrap">
+    <p class="article-crumb"><a href="/news">← Trending News</a>${(it.cats || []).length ? ` · ${UI.esc(CATLABEL[it.cats[0]] || it.cats[0])}` : ""}</p>
+    <header class="content-card article-header-card">
+      <div class="article-head"><h1>${UI.esc(article.headline || it.title)}</h1></div>
+      <div class="article-meta">
+        ${whenText ? `<span>${UI.esc(whenText)}</span>` : ""}
+        ${catChips}
+      </div>
+      ${article.dek ? `<p class="article-dek">${UI.esc(article.dek)}</p>` : ""}
+    </header>
+    ${imagesHtml}
+    ${epDetailsHtml}${epSummaryHtml}${epEmbedHtml}
+    ${relatedHtml}
+    ${moreEpHtml}
+  </div>`;
+  } else {
   main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/news">← Trending News</a>${(it.cats || []).length ? ` · ${UI.esc(CATLABEL[it.cats[0]] || it.cats[0])}` : ""}</p>
     <header class="content-card article-header-card">
@@ -448,6 +649,7 @@
       <a class="see-all" href="/news">See All →</a></div>
       <div class="news-list">${more.map(newsRow).join("")}</div></section>` : ""}
   </div>`;
+  }
 
   if (isBollywood && !fullArt) {
     const robots = document.createElement("meta");
@@ -469,22 +671,37 @@
 
   /* Top Searches (audit round, ORDER H): phrases built only from the
      entities this story actually resolved to (or, failing that, the
-     headline's own capitalized subject) — never random keywords. */
+     headline's own capitalized subject) — never random keywords.
+     EPISODE pages (user order 2026-10-26): the keywords are for THIS
+     episode — the phrases people actually search, "online watch"
+     style — never "watch on <channel>" phrasing. */
   {
     const tsEntities = [], tsTemplates = [];
-    const pName = (enrich.pd && enrich.pd.name) || (relPeople[0] && relPeople[0].name) || "";
-    const tName = enrich.td ? UI.titleOf(enrich.td) : (relTitles[0] ? UI.titleOf(relTitles[0]) : "");
-    if (pName) {
-      tsEntities.push(pName);
-      tsTemplates.push(`${pName} latest news`, `${pName} upcoming movies`, `${pName} biography`, `${pName} new movie`);
-    }
-    if (tName) {
-      tsEntities.push(tName);
-      tsTemplates.push(`${tName} box office collection`, `${tName} release date`, `${tName} cast`, `${tName} budget`);
-    }
-    if (!tsTemplates.length) {
-      const seq = [...headline.matchAll(/\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b/g)].map(m => m[1])[0];
-      if (seq) { tsEntities.push(seq); tsTemplates.push(`${seq} latest news`, `${seq} news`, `${seq} biography`, `${seq} latest`); }
+    if (isEpisode) {
+      tsEntities.push(epDrama);
+      const epLabel = epIsFinale ? "Last Episode" : `Episode ${epNum}`;
+      tsTemplates.push(
+        `${epDrama} ${epLabel} online watch`,
+        `${epDrama} ${epLabel} watch online`,
+        `${epDrama} ${epLabel} full episode`,
+        ...(epChannel ? [`${epDrama} ${epLabel} ${epChannel}`] : []),
+        `${epDrama} drama ${epLabel}`,
+      );
+    } else {
+      const pName = (enrich.pd && enrich.pd.name) || (relPeople[0] && relPeople[0].name) || "";
+      const tName = enrich.td ? UI.titleOf(enrich.td) : (relTitles[0] ? UI.titleOf(relTitles[0]) : "");
+      if (pName) {
+        tsEntities.push(pName);
+        tsTemplates.push(`${pName} latest news`, `${pName} upcoming movies`, `${pName} biography`, `${pName} new movie`);
+      }
+      if (tName) {
+        tsEntities.push(tName);
+        tsTemplates.push(`${tName} box office collection`, `${tName} release date`, `${tName} cast`, `${tName} budget`);
+      }
+      if (!tsTemplates.length) {
+        const seq = [...headline.matchAll(/\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b/g)].map(m => m[1])[0];
+        if (seq) { tsEntities.push(seq); tsTemplates.push(`${seq} latest news`, `${seq} news`, `${seq} biography`, `${seq} latest`); }
+      }
     }
     if (tsTemplates.length) {
       /* mountTopSearches only takes (main, entities) — a third templates

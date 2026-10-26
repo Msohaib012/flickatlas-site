@@ -264,7 +264,7 @@
 
     ${daywiseSection}
 
-    ${pub.overview ? `<div class="content-card"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
+    ${pub.overview ? `<div class="content-card" id="story-summary"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
 
     ${(pub.budget || pub.revenue) ? `<div class="content-card"><h2>Box Office</h2>
       <div class="bo-verdict-card"><div class="bo-nums">
@@ -274,7 +274,7 @@
       </div></div>
       <p class="prov-note">Budget and gross are reported figures; the verdict is an estimate from budget vs gross, not an official declaration.</p></div>` : ""}
 
-    ${factRows.length ? `<div class="content-card"><h2>Movie Facts</h2>
+    ${factRows.length ? `<div class="content-card" id="movie-facts"><h2>Movie Facts</h2>
       <dl class="facts-table">${factRows.map(([k, v]) => `<div class="fact-row"><dt>${UI.esc(k)}</dt><dd>${v}</dd></div>`).join("")}</dl></div>` : ""}
 
     ${trailerKey ? `<div class="content-card" id="official-trailer"><h2>Official Trailer</h2>
@@ -375,7 +375,9 @@
     });
 
     /* Explore More navigation (same as the show page): section links
-       + a search link for this title. Best effort, never blocks. */
+       + a search link for this title. Best effort, never blocks.
+       Placement is handled inside UI.mountTopSearches (user order
+       2026-10-26): right below the Story Summary, above Movie Facts. */
     try { UI.mountTopSearches(main, [title]); } catch (_) {}
   } catch (e) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
