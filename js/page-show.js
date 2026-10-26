@@ -1,7 +1,7 @@
 /* FlickAtlas — TV show detail page (?id=<tmdb tv id>): published
    titles only. Rewritten 2026-10-25 (published-only rebuild, §4);
-   rich detail fields added in consolidation (spec §1a): seasons table,
-   genres, creators, episode runtime, tagline, certification and spoken
+   rich detail fields added in consolidation (spec §1a): genres,
+   creators, episode runtime, tagline, certification and spoken
    languages all render FROM THE BAKED-IN published entry — never a
    live TMDB.details call. The id is looked
    the id is looked up in window.FA_PUBLISHED; hero/story/facts/
@@ -10,7 +10,11 @@
    title only (a single-title record, not a catalogue). A title that
    isn't published renders a plain state — the page NEVER fetches the
    title live from TMDB to fill itself. No watch/download buttons, no
-   external links except the YouTube trailer embed. */
+   external links except the YouTube trailer embed.
+   Pakistani dramas have NO seasons (seasons are an OTT thing): for a
+   Pakistani drama the Seasons table is replaced by an Episodes list
+   (the YouTube episode posts for that drama, each linking to its own
+   episode page). OTT / world series keep their Seasons table. */
 (async function () {
   UI.mountChrome("/show");
   const main = document.getElementById("app");
@@ -23,8 +27,8 @@
   }
 
   UI.setSEO({
-    title: "TV Show Details — Seasons, Cast & Story | FlickAtlas",
-    desc: "Full TV show details on FlickAtlas: seasons and episode counts, cast & crew, story, ratings and frequently asked questions.",
+    title: "TV Show Details — Cast & Story | FlickAtlas",
+    desc: "Full TV show details on FlickAtlas: episodes, cast & crew, story, ratings and frequently asked questions.",
     path: `/show?id=${encodeURIComponent(id)}`
   });
   main.innerHTML = `<div class="wrap">
@@ -78,7 +82,8 @@
     const year = UI.yearOf(pub);
     /* Deep link from the episode guide (?season=N&ep=M): highlight the
        matching season row and say which episode was linked, instead of
-       silently ignoring the params. */
+       silently ignoring the params. OTT only — Pakistani dramas have
+       no seasons, and their episodes link to their own episode page. */
     const seasonParam = UI.getParam("season", "");
     const epParam = UI.getParam("ep", "");
     const deepLinkNote = (seasonParam && /^\d+$/.test(seasonParam))
@@ -122,12 +127,85 @@
 
     const similar = similarPublished(pub);
 
+    /* Pakistani dramas have NO seasons — for them the Seasons table
+       is replaced by an Episodes list (the YouTube episode posts for
+       this drama, each linking to its own episode page). OTT / world
+       series keep their Seasons table. */
+    const isPakistani = pub.industry === "pakistani";
+    const normName = (s) => String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    const showNorm = normName(name);
+    /* Exact-match guard: the tracker truncates hyphenated drama names
+       ("Dar" for "Dar-e-Nijaat", "Zehar" for "Zehar-e-Mohabbat"), so a
+       short parsed name may prefix-match another drama; only use the
+       prefix when no published drama is exactly that short name, so a
+       real short-named drama never leaks into another's page. */
+    const exactDramaExists = (d) => Object.values(window.FA_PUBLISHED || {})
+      .some(x => x && x.type === "tv" && normName(UI.titleOf(x)) === normName(d));
+    const truncSum = (s, n) => {
+      const t = String(s || "").replace(/\s+/g, " ").trim();
+      if (t.length <= n) return t;
+      return t.slice(0, n).replace(/\s+\S*$/, "") + "…";
+    };
+    const showEpisodes = (() => {
+      if (!isPakistani) return [];
+      const arts = Object.values(window.FA_ARTICLES || {});
+      const out = [];
+      for (const a of arts) {
+        if (!a || a.type !== "news") continue;
+        const h = String(a.headline || "");
+        const wm = h.match(/^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i);
+        if (!wm) continue;
+        const left = wm[1].trim();
+        const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);
+        if (!em) continue;
+        const dName = (a.entities && a.entities.titles && a.entities.titles[0]) || em[1].trim();
+        const dNorm = normName(dName);
+        if (!(dNorm === showNorm || (showNorm.startsWith(dNorm) && !exactDramaExists(dName)))) continue;
+        let views = 0;
+        const vf = (a.facts || []).find(f => /YouTube views:/i.test(String(f)));
+        if (vf) { const vm = String(vf).match(/([\d,]+)/); if (vm) views = parseInt(vm[1].replace(/,/g, ""), 10) || 0; }
+        let summary = "";
+        const ss = (a.body || []).find(s => s && s.h === "Story Summary");
+        if (ss && ss.p && ss.p.length) summary = ss.p.join("\n\n");
+        out.push({
+          episode: parseInt(em[2], 10),
+          channel: (a.images && a.images[0] && a.images[0].source) || wm[2].trim(),
+          published: a.published || "", views, summary,
+          articleId: a.id || "",
+          thumb: (a.images && a.images[0] && a.images[0].url) || ""
+        });
+      }
+      out.sort((x, y) => String(y.published || "").localeCompare(String(x.published || "")) || (y.episode - x.episode));
+      return out.filter(e => e.articleId);
+    })();
+    const epCardShow = (e) => {
+      const air = e.published ? UI.fmtDate(e.published) : "";
+      const views = (typeof e.views === "number" && e.views > 0) ? e.views.toLocaleString("en-US") : "";
+      const sum = truncSum(e.summary, 280);
+      const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
+      return `<div class="content-card"><div style="display:flex;gap:14px;flex-wrap:wrap;align-items:flex-start">
+        ${e.thumb ? `<a href="${href}"><img src="${UI.esc(e.thumb)}" alt="" loading="lazy" style="width:140px;border-radius:12px" onerror="this.remove()"></a>` : ""}
+        <div style="flex:1;min-width:200px">
+          <h2 style="margin-top:0"><a href="${href}">Episode ${e.episode}</a></h2>
+          <dl class="facts-table">
+            ${air ? `<div class="fact-row"><dt>Air Date</dt><dd>${UI.esc(air)}</dd></div>` : ""}
+            ${e.channel ? `<div class="fact-row"><dt>Channel</dt><dd>${UI.esc(e.channel)}</dd></div>` : ""}
+            ${views ? `<div class="fact-row"><dt>Views</dt><dd>${UI.esc(views)}</dd></div>` : ""}
+          </dl>
+          ${sum ? `<p class="article-summary">${UI.esc(sum)}</p>` : ""}
+          <p><a class="btn btn-teal" href="${href}">Open episode →</a></p>
+        </div></div></div>`;
+    };
+    const episodesHtml = showEpisodes.length
+      ? `<section class="section"><div class="section-head"><h2>Episodes</h2></div>${showEpisodes.map(epCardShow).join("")}</section>`
+      : "";
+
     const heroFacts = [];
     if (rating) heroFacts.push(["Rating", `${rating}${pub.vote_count ? ` (${pub.vote_count.toLocaleString("en-US")} votes)` : ""}`]);
     if (firstAir) heroFacts.push(["First Aired", UI.fmtDate(firstAir)]);
     if (pub.status) heroFacts.push(["Status", pub.status]);
     if (runtime) heroFacts.push(["Episode Runtime", runtime]);
-    if (pub.number_of_seasons) heroFacts.push(["Seasons", String(pub.number_of_seasons)]);
+    if (pub.number_of_seasons && !isPakistani) heroFacts.push(["Seasons", String(pub.number_of_seasons)]);
     if (pub.number_of_episodes) heroFacts.push(["Episodes", String(pub.number_of_episodes)]);
     if (channel) heroFacts.push(["Channel", channel]);
     if (tag) heroFacts.push(["Industry", tag]);
@@ -148,7 +226,7 @@
     if (firstAir) factRows.push(["First Aired", UI.fmtDate(firstAir)]);
     if (pub.status) factRows.push(["Status", pub.status]);
     if (createdBy.length) factRows.push(["Created by", createdBy.join(", ")]);
-    if (pub.number_of_seasons) factRows.push(["Seasons", String(pub.number_of_seasons)]);
+    if (pub.number_of_seasons && !isPakistani) factRows.push(["Seasons", String(pub.number_of_seasons)]);
     if (pub.number_of_episodes) factRows.push(["Episodes", String(pub.number_of_episodes)]);
     if (runtime) factRows.push(["Episode Runtime", runtime]);
     if (genres.length) factRows.push(["Genres", genres.join(", ")]);
@@ -176,7 +254,7 @@
 
     ${pub.overview ? `<div class="content-card"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
 
-    ${seasons.length ? `<div class="content-card"><h2>Seasons</h2>
+    ${isPakistani ? episodesHtml : (seasons.length ? `<div class="content-card"><h2>Seasons</h2>
       ${deepLinkNote}
       <div class="table-scroll"><table class="data">
         <thead><tr><th>Season</th><th>Name</th><th>Episodes</th><th>First Aired</th></tr></thead>
@@ -185,7 +263,7 @@
           <td>${UI.esc(s2.name || "—")}</td>
           <td>${s2.episode_count != null ? s2.episode_count : "—"}</td>
           <td>${s2.air_date ? UI.fmtDate(s2.air_date) : "—"}</td>
-        </tr>`).join("")}</tbody></table></div></div>` : ""}
+        </tr>`).join("")}</tbody></table></div></div>` : "")}
 
     ${cast.length ? `<div class="content-card"><h2>Top Cast</h2>
       <div class="cast-grid">${cast.map(c => UI.personCard(c, c.character || "")).join("")}</div>
@@ -212,8 +290,8 @@
   </div>`;
 
     UI.setSEO({
-      title: `${name}${year ? ` (${year})` : ""} — Seasons, Cast & Story | FlickAtlas`,
-      desc: (pub.overview || `${name} — seasons, cast, crew and story on FlickAtlas.`).slice(0, 160),
+      title: `${name}${year ? ` (${year})` : ""} — ${isPakistani ? "Episodes, Cast & Story" : "Seasons, Cast & Story"} | FlickAtlas`,
+      desc: (pub.overview || `${name} — ${isPakistani ? "episodes" : "seasons"}, cast, crew and story on FlickAtlas.`).slice(0, 160),
       path: `/show?id=${encodeURIComponent(id)}`,
       type: "video.tv_show",
       image: backdrop || poster || "",
@@ -225,7 +303,7 @@
         ...(pub.overview ? { "description": pub.overview.slice(0, 300) } : {}),
         ...(genres.length ? { "genre": genres } : {}),
         ...(firstAir ? { "datePublished": firstAir } : {}),
-        ...(pub.number_of_seasons ? { "numberOfSeasons": pub.number_of_seasons } : {}),
+        ...(pub.number_of_seasons && !isPakistani ? { "numberOfSeasons": pub.number_of_seasons } : {}),
         ...(pub.number_of_episodes ? { "numberOfEpisodes": pub.number_of_episodes } : {}),
         ...(pub.vote_average ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": Math.round(pub.vote_average * 10) / 10, "bestRating": 10, "ratingCount": pub.vote_count || 1 } } : {}),
       }

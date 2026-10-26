@@ -1,108 +1,136 @@
-/* FlickAtlas — Episode Guides hub (/episode-guides): the single featured
-   Pakistani drama episode guide. Created 2026-10-25: the page shipped
-   referencing this script but the file was never committed, so the hub
-   stayed on "Loading FlickAtlas…" forever. Rewritten in the full bug
-   sweep (2026-10-25): the guide now features a PUBLISHED drama only —
-   the old version picked the first drama from the live PK discover
-   pool, which could be (and usually was) an unpublished title. The
-   latest/next episode comes from one single-title TMDB details call
-   for that published drama (the same per-title shape as the credits
-   call on detail pages). Site rule: exactly ONE featured guide
-   (slice(0,1)) — never a grid of many. */
+/* FlickAtlas — Episode Guides hub (/episode-guides): the episode list.
+   Pakistani dramas — every episode post, newest first. Episodes come
+   from the YouTube episode tracker (scripts/episode-guides.py): each
+   new episode gets an info post the same day, and the top episodes by
+   views get an AI story summary added gradually. This page lists the
+   EPISODES directly — no drama cards, no seasons (Pakistani dramas
+   have no seasons; seasons are an OTT thing). Each episode links to
+   its own detail page (/news-item?id=<article_id>).
+   Identification: primary = /out/episodes.json (the tracker's state
+   file — drama, episode, channel, views, article_id, summary, all
+   structured); fallback = FA_ARTICLES headline pattern
+   "<Drama> Episode <N> — Watch on <channel>". */
 (async function () {
   UI.mountChrome("/episode-guides");
   const main = document.getElementById("app");
   UI.setSEO({
     title: "Episode Guides — Pakistani Dramas | FlickAtlas",
-    desc: "Episode guides on FlickAtlas: the featured Pakistani drama guide — latest episode, air date, channel and full season breakdown.",
+    desc: "Latest Pakistani drama episodes on FlickAtlas — episode number, air date, channel, views and story summary, newest first.",
     path: "/episode-guides"
   });
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Episode Guides</h1>
-      <p>Pakistani dramas — the featured guide, with the latest episode and channel.</p></div>
-    <p class="fcount" id="fcount" aria-live="polite">Loading the featured guide…</p>
+      <p>Pakistani dramas — every new episode, newest first, with its story summary when one is ready.</p></div>
+    <p class="fcount" id="fcount" aria-live="polite">Loading episodes…</p>
     <div id="guideHost"><div class="sk" style="height:280px;border-radius:22px"></div></div>
   </div>`;
   const fcount = main.querySelector("#fcount");
   const host = main.querySelector("#guideHost");
 
-  function epHref(showId, ep) {
-    if (window.PK && typeof window.PK.epHref === "function") return window.PK.epHref(showId, ep);
-    return `/show?id=${showId}`;
+  const fmtViews = (n) => (typeof n === "number" && n > 0) ? n.toLocaleString("en-US") : "";
+  const trunc = (s, n) => {
+    const t = String(s || "").replace(/\s+/g, " ").trim();
+    if (t.length <= n) return t;
+    return t.slice(0, n).replace(/\s+\S*$/, "") + "…";
+  };
+
+  /* One episode card: drama + episode, air date, channel, views,
+     story summary when one exists, and a link to the episode's own
+     detail page. No seasons — Pakistani dramas have none. */
+  function epCard(e) {
+    const epLabel = (e.isFinale && !e.episode) ? "Final Episode"
+      : `Episode ${e.episode}${e.isFinale ? " (Finale)" : ""}`;
+    const title = `${e.drama} — ${epLabel}`;
+    const air = e.published ? UI.fmtDate(e.published) : "";
+    const views = fmtViews(e.views);
+    const sum = trunc(e.summary, 280);
+    const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
+    return `<div class="content-card"><div style="display:flex;gap:14px;flex-wrap:wrap;align-items:flex-start">
+      ${e.thumb ? `<a href="${href}"><img src="${UI.esc(e.thumb)}" alt="" loading="lazy" style="width:140px;border-radius:12px" onerror="this.remove()"></a>` : ""}
+      <div style="flex:1;min-width:200px">
+        <h2 style="margin-top:0"><a href="${href}">${UI.esc(title)}</a></h2>
+        <dl class="facts-table">
+          ${air ? `<div class="fact-row"><dt>Air Date</dt><dd>${UI.esc(air)}</dd></div>` : ""}
+          ${e.channel ? `<div class="fact-row"><dt>Channel</dt><dd>${UI.esc(e.channel)}</dd></div>` : ""}
+          ${views ? `<div class="fact-row"><dt>Views</dt><dd>${UI.esc(views)}</dd></div>` : ""}
+        </dl>
+        ${sum ? `<p class="article-summary">${UI.esc(sum)}</p>` : ""}
+        <p><a class="btn btn-teal" href="${href}">Open episode →</a></p>
+      </div></div></div>`;
   }
 
-  function epCard(showId, ep, label) {
-    if (!ep) return "";
-    const still = ep.still_path ? UI.img(ep.still_path, "w300") : "";
-    return `<div class="content-card"><h2>${UI.esc(label)}</h2>
-      ${still ? `<p><img src="${still}" alt="" loading="lazy" style="max-width:100%;border-radius:12px" onerror="this.remove()"></p>` : ""}
-      <dl class="facts-table">
-        <div class="fact-row"><dt>Episode</dt><dd>Season ${ep.season_number} · Episode ${ep.episode_number}${ep.name ? ` — ${UI.esc(ep.name)}` : ""}</dd></div>
-        ${ep.air_date ? `<div class="fact-row"><dt>Air Date</dt><dd>${UI.esc(UI.fmtDate(ep.air_date))}</dd></div>` : ""}
-      </dl>
-      ${ep.overview ? `<p class="article-summary">${UI.esc(ep.overview)}</p>` : ""}
-      <p><a class="btn btn-teal" href="${epHref(showId, ep)}">Open episode →</a></p></div>`;
+  /* Primary: /out/episodes.json — the tracker's state file. Each
+     record carries drama, episode, channel, views, article_id and the
+     summary; the thumbnail comes from the matching FA_ARTICLES entry. */
+  async function episodesFromState() {
+    try {
+      const res = await fetch("/out/episodes.json", { cache: "no-store" });
+      if (!res.ok) return null;
+      const data = await res.json();
+      const recs = Object.values((data && data.episodes) || {});
+      if (!recs.length) return null;
+      const arts = window.FA_ARTICLES || {};
+      return recs.map(r => {
+        const a = arts[r.article_id] || null;
+        const thumb = (a && a.images && a.images[0] && a.images[0].url) || "";
+        return {
+          drama: r.drama || "", episode: r.episode, isFinale: !!r.is_finale,
+          channel: r.channel || "", published: r.published || "",
+          views: r.views || 0, summary: r.summary || "",
+          articleId: r.article_id || "", thumb
+        };
+      }).filter(e => e.articleId && e.drama && e.episode != null);
+    } catch (_) { return null; }
   }
 
-  function renderGuide(pub, details) {
-    const d = details || pub;
-    const title = UI.titleOf(pub);
-    const poster = UI.img(pub.poster_path, "w342");
-    const backdrop = UI.img(pub.backdrop_path, "w1280");
-    const rating = UI.ratingText(pub);
-    const channel = (window.PK && details && typeof window.PK.channelOf === "function" && window.PK.channelOf(details)) || pub.channel || "";
-    const showHref = `/show?id=${pub.id}`;
-    const lastEp = (details && details.last_episode_to_air) || null;
-    const nextEp = (details && details.next_episode_to_air) || null;
-    const lastAir = (lastEp && lastEp.air_date) || (details && details.last_air_date) || "";
-
-    const heroFacts = [];
-    if (channel) heroFacts.push(`<div><span>Channel</span><b>${UI.esc(channel)}</b></div>`);
-    if (rating) heroFacts.push(`<div><span>Rating</span><b>${UI.esc(rating)}</b></div>`);
-    if (pub.number_of_seasons || (details && details.number_of_seasons)) heroFacts.push(`<div><span>Seasons</span><b>${pub.number_of_seasons || details.number_of_seasons}</b></div>`);
-    if (pub.number_of_episodes || (details && details.number_of_episodes)) heroFacts.push(`<div><span>Episodes</span><b>${pub.number_of_episodes || details.number_of_episodes}</b></div>`);
-    if (pub.status || (details && details.status)) heroFacts.push(`<div><span>Status</span><b>${UI.esc(pub.status || details.status)}</b></div>`);
-    if (lastAir) heroFacts.push(`<div><span>Last Aired</span><b>${UI.esc(UI.fmtDate(lastAir))}</b></div>`);
-
-    host.innerHTML = `
-    <section class="detail-hero">
-      ${backdrop ? `<div class="hero-bg"><img src="${backdrop}" alt="" loading="lazy" decoding="async"></div>` : ""}
-      <div class="hero-shade"></div>
-      <div class="detail-in">
-        ${poster ? `<div class="detail-poster"><img src="${poster}" alt="${UI.esc(title)} poster" loading="lazy" decoding="async" onerror="this.remove()"></div>` : ""}
-        <div class="detail-main">
-          <h1><a href="${showHref}" style="color:inherit">${UI.esc(title)}</a></h1>
-          ${pub.overview ? `<p class="detail-sub">${UI.esc(pub.overview.slice(0, 160))}</p>` : ""}
-          ${heroFacts.length ? `<div class="detail-facts">${heroFacts.join("")}</div>` : ""}
-        </div>
-      </div>
-    </section>
-    ${epCard(pub.id, lastEp, "Latest Episode")}
-    ${epCard(pub.id, nextEp, "Next Episode")}
-    <p style="text-align:center"><a class="btn btn-teal" href="${showHref}">Open full guide →</a></p>`;
-    fcount.textContent = "1 featured guide";
+  /* Fallback: FA_ARTICLES headline pattern
+     "<Drama> Episode <N> — Watch on <channel>" (and the "<Drama> -
+     Last Episode" finale form). Views come from the article facts,
+     the summary from the "Story Summary" body section. */
+  function episodesFromArticles() {
+    const arts = Object.values(window.FA_ARTICLES || {});
+    const out = [];
+    for (const a of arts) {
+      if (!a || a.type !== "news") continue;
+      const h = String(a.headline || "");
+      const wm = h.match(/^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i);
+      if (!wm) continue;
+      const left = wm[1].trim();
+      const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);
+      const fm = !em && left.match(/^(.+?)\s+[—–-]?\s*Last Episode$/i);
+      if (!em && !fm) continue;
+      const drama = (a.entities && a.entities.titles && a.entities.titles[0]) || (em ? em[1].trim() : fm[1].trim());
+      const channel = (a.images && a.images[0] && a.images[0].source) || wm[2].trim();
+      const thumb = (a.images && a.images[0] && a.images[0].url) || "";
+      let views = 0;
+      const vf = (a.facts || []).find(f => /YouTube views:/i.test(String(f)));
+      if (vf) { const vm = String(vf).match(/([\d,]+)/); if (vm) views = parseInt(vm[1].replace(/,/g, ""), 10) || 0; }
+      let summary = "";
+      const ss = (a.body || []).find(s => s && s.h === "Story Summary");
+      if (ss && ss.p && ss.p.length) summary = ss.p.join("\n\n");
+      out.push({
+        drama, episode: em ? parseInt(em[2], 10) : 0, isFinale: !!fm,
+        channel, published: a.published || "", views, summary,
+        articleId: a.id || "", thumb
+      });
+    }
+    return out.filter(e => e.articleId && e.drama);
   }
 
   try {
-    /* Published TV dramas only — Pakistani first, newest first. The
-       guide is one published drama; its latest/next episode comes from
-       a single details call for that drama alone. */
-    const publishedTv = Object.values(window.FA_PUBLISHED || {})
-      .filter(x => x && x.type === "tv" && x.id != null && x.poster_path)
-      .sort((a, b) =>
-        ((b.industry === "pakistani") - (a.industry === "pakistani")) ||
-        String(b.published_at || "").localeCompare(String(a.published_at || "")) ||
-        String(b.first_air_date || "").localeCompare(String(a.first_air_date || "")));
-    if (!publishedTv.length) {
-      fcount.textContent = "No published drama guides yet.";
-      host.innerHTML = UI.stateMsg("No Pakistani drama has been published yet, so there is no episode guide to show. Guides appear here once a drama is published.", false);
+    let eps = await episodesFromState();
+    if (!eps || !eps.length) eps = episodesFromArticles();
+    eps.sort((a, b) =>
+      String(b.published || "").localeCompare(String(a.published || "")) ||
+      ((b.episode || 0) - (a.episode || 0)));
+    if (!eps.length) {
+      fcount.textContent = "No episode guides yet.";
+      host.innerHTML = UI.stateMsg("No drama episodes have been published yet. New episodes appear here as they air on YouTube.", false);
       return;
     }
-    const pub = publishedTv[0];
-    let details = null;
-    try { details = await TMDB.details("tv", pub.id); } catch (_) { details = null; }
-    renderGuide(pub, details);
+    fcount.textContent = `${eps.length} episode${eps.length === 1 ? "" : "s"}`;
+    host.innerHTML = eps.map(epCard).join("");
   } catch (e) {
     fcount.textContent = "Episode guides could not be loaded.";
     host.innerHTML = UI.stateMsg("Could not load episode guides. Please try again.");
