@@ -19,8 +19,10 @@ name: Auto-pipeline (Gemini batch + publish)
 # Requires repo secrets GEMINI_API_KEY_1..6 (at least one); without them
 # the batch step skips gracefully and the run succeeds with no changes.
 on:
-  schedule:
-    - cron: '50 * * * *'
+  # schedule: DISABLED 2026-10-26 (consolidation) — steps moved into
+  # hourly-pipeline.yml. Keep workflow_dispatch for manual runs;
+  # rollback = uncomment the cron below.
+  #   - cron: '50 * * * *'
   workflow_dispatch:
 concurrency:
   group: flickatlas-site-writes
@@ -82,6 +84,7 @@ jobs:
             git pull --rebase
             git push
           fi
+
 
 
 

@@ -13,10 +13,11 @@ name: Title seeder (TMDB titles)
 # Requires repo secret TMDB_API_KEY (same key as js/config.js); the
 # script falls back to js/config.js when the secret is missing.
 on:
-  schedule:
-    # Nightly run at 23:00 PKT (18:00 UTC) — new titles land the
-    # same night, like the episode tracker, not the next morning.
-    - cron: '0 18 * * *'
+  # schedule: DISABLED 2026-10-26 (consolidation) — steps moved into
+  # hourly-pipeline.yml. (Was nightly 23:00 PKT / 18:00 UTC — new
+  # titles land the same night.) Keep workflow_dispatch for manual
+  # runs; rollback = uncomment the cron below.
+  #   - cron: '0 18 * * *'
   workflow_dispatch:
 concurrency:
   group: flickatlas-site-writes
@@ -58,4 +59,5 @@ jobs:
             git pull --rebase
             git push
           fi
+
 

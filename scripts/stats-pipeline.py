@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build js/stats-pipeline.json — the pipeline half of the FlickAtlas stats page.
 
-Reads only files the auto-pipeline already writes plus the GitHub Actions
+Reads only files the hourly pipeline already writes plus the GitHub Actions
 API (for run times / conclusions). No new service needed.
 
 Sources:
@@ -15,9 +15,9 @@ Sources:
   - scripts/registry.json  sources, counted per scope
   - js/articles-data.js    post totals (articles)
   - js/published-titles.js post totals (titles)
-  - GitHub Actions API     latest run of news-refresh.yml (:35 fetch),
-                           auto-pipeline.yml (:50 Gemini), publish.yml
-                           (:10/:30/:50 publish): started/finished/conclusion
+  - GitHub Actions API     latest run of hourly-pipeline.yml (:35 —
+                           fetch, Gemini batch + publish in one job):
+                           started/finished/conclusion
 
 Next-run times are computed from the cron schedules (UTC) and the page
 displays them in PKT.
@@ -42,10 +42,11 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "Msohaib012/flickatlas-site")
 API = "https://api.github.com"
 PKT = timezone(timedelta(hours=5))
 
-# Cron schedules (UTC minutes past the hour) of the three pipeline workflows.
+# Cron schedule (UTC minutes past the hour) of the hourly pipeline job —
+# fetch, Gemini batch and publish all run inside it at :35 UTC.
 FETCH_MINUTES = [35]
-GEMINI_MINUTES = [50]
-PUBLISH_MINUTES = [10, 30, 50]
+GEMINI_MINUTES = [35]
+PUBLISH_MINUTES = [35]
 
 
 def load_json(path, default):
@@ -145,8 +146,8 @@ def main():
     titles = read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
                          "FA_PUBLISHED")
 
-    # ---- fetch (news-refresh :35) ----
-    fetch_run = latest_run("news-refresh.yml", token)
+    # ---- fetch (hourly pipeline :35) ----
+    fetch_run = latest_run("hourly-pipeline.yml", token)
     rep_status = report.get("status") or {}
     rep_cats = report.get("categories") or {}
     queue_cats = Counter((it.get("category") or "Uncategorised")
@@ -180,8 +181,8 @@ def main():
         "next_run": iso(next_run(FETCH_MINUTES, now)),
     }
 
-    # ---- gemini (auto-pipeline :50) ----
-    gem_run = latest_run("auto-pipeline.yml", token)
+    # ---- gemini (hourly pipeline :35) ----
+    gem_run = latest_run("hourly-pipeline.yml", token)
     batch_articles = batch.get("articles") or []
     batch_cats = Counter((a.get("category") or "movies")
                          for a in batch_articles if isinstance(a, dict))
@@ -202,8 +203,8 @@ def main():
         "next_run": iso(next_run(GEMINI_MINUTES, now)),
     }
 
-    # ---- publish (:10/:30/:50) ----
-    pub_run = latest_run("publish.yml", token)
+    # ---- publish (hourly pipeline :35) ----
+    pub_run = latest_run("hourly-pipeline.yml", token)
     publish = {
         "status": (pub_run or {}).get("status", "unknown"),
         "run_id": (pub_run or {}).get("run_id"),
@@ -270,5 +271,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 

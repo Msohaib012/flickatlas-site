@@ -12,8 +12,10 @@
 name: Stats — health
 
 on:
-  schedule:
-    - cron: '0 6 * * *'
+  # schedule: DISABLED 2026-10-26 (consolidation) — steps moved into
+  # hourly-pipeline.yml. Keep workflow_dispatch for manual runs;
+  # rollback = uncomment the cron below.
+  #   - cron: '0 6 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -49,5 +51,6 @@ jobs:
             git pull --rebase
             git push
           fi
+
 
 

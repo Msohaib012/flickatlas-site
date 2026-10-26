@@ -7,11 +7,11 @@ name: Publish approved articles
 # publish. A run that finds no new approved article commits nothing and
 # deploys nothing.
 on:
-  schedule:
-    # Hourly (was every 20 min): approved articles publish in batches;
-    # an hourly publish is plenty, and each commit burns one of
-    # Vercel's 100 deploys/day.
-    - cron: '30 * * * *'
+  # schedule: DISABLED 2026-10-26 (consolidation) — steps moved into
+  # hourly-pipeline.yml. (Was hourly: approved articles publish in
+  # batches; an hourly publish is plenty.) Keep workflow_dispatch
+  # for manual runs; rollback = uncomment the cron below.
+  #   - cron: '30 * * * *'
   workflow_dispatch:
 concurrency:
   group: flickatlas-site-writes
@@ -70,5 +70,6 @@ jobs:
             git pull --rebase
             git push
           fi
+
 
 
