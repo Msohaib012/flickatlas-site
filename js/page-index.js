@@ -89,19 +89,31 @@
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
-    /* ---------- HERO = latest currently-running movies (user order
-       2026-10-26): max 4 slides, the 4 NEWEST published movies that are
-       currently running (released + fresh = in cinemas now), newest
-       first. A slide is "live" when the title has day-wise rows (Day N
-       collection + running total); otherwise it shows Release Date +
-       "Now in Cinemas" (the non-live branch of heroSlideHtml). No live
-       TMDB fetch — a title with no day-wise rows simply has no live
-       stats. ------- */
+    /* ---------- HERO (user order 2026-10-26): max 4 slides — FIRST 2
+       Bollywood, REMAINING 2 World Cinema, all currently-running
+       (released + fresh = in cinemas now) published movies, newest
+       first within each industry. Falls back to the combined newest
+       pool if an industry has fewer than 2 running titles, so the
+       hero always has 4. A slide is "live" when the title has day-wise
+       rows (Day N collection + running total); otherwise it shows
+       Release Date + "Now in Cinemas" (the non-live branch of
+       heroSlideHtml). No live TMDB fetch — a title with no day-wise
+       rows simply has no live stats. ------- */
     const dwData = window.FA_DAYWISE || {};
-    const heroPool = pubAll()
+    const heroRunning = pubAll()
       .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x))
       .sort(byNewest);
-    const heroSlides = heroPool.slice(0, 4).map(entry => {
+    const bollyHero = heroRunning.filter(x => x.industry === "bollywood").slice(0, 2);
+    const worldHero = heroRunning.filter(x => x.industry === "world").slice(0, 2);
+    const heroPicked = [...bollyHero, ...worldHero];
+    if (heroPicked.length < 4) {
+      const pickedIds = new Set(heroPicked.map(x => String(x.id)));
+      for (const x of heroRunning) {
+        if (heroPicked.length >= 4) break;
+        if (!pickedIds.has(String(x.id))) { heroPicked.push(x); pickedIds.add(String(x.id)); }
+      }
+    }
+    const heroSlides = heroPicked.map(entry => {
       const rows = dwData[String(entry.id)];
       if (Array.isArray(rows) && rows.length) {
         const total = rows.reduce((s, r) => s + (r.collection || 0), 0);
@@ -490,6 +502,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
