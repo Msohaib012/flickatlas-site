@@ -71,7 +71,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 3",
-      "collection": 866350
+      "collection": 867406
     },
     {
       "date": "2026-10-26",
