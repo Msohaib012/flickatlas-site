@@ -472,7 +472,7 @@ jobs:
           for f in out/gemini-batch.json out/bmr-reviews.json out/processed.json out/auto-feed.json \
                    out/episodes.json out/episode-feed.json out/publish-export.json \
                    out/queue.json out/seen.json out/state.json out/report.json \
-                   out/duplicates.json out/stories.json out/dropped.json; do
+                   out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json; do
             [ -f "$f" ] && git add "$f"
           done
           git add out/categories || true
@@ -511,6 +511,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
