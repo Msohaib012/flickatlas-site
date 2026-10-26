@@ -173,10 +173,14 @@
        collection + running total); otherwise it shows Release Date +
        "Now in Cinemas" (the non-live branch of heroSlideHtml). No live
        TMDB fetch — a title with no day-wise rows simply has no live
-       stats. ------- */
+       stats. Streaming-only titles NEVER enter the pool (user order
+       2026-10-27, same UI.isStreamingOnly rule as Spotlight/Box
+       Office): a Netflix title with no day-wise rows must not claim
+       "Now in Cinemas". Theatrical titles that later reach OTT keep
+       their day-wise rows and stay. ------- */
     const dwData = window.FA_DAYWISE || {};
     const heroPool = pubAll()
-      .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x))
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x) && !UI.isStreamingOnly(x))
       .sort(byNewest);
     const heroSlides = heroPool.slice(0, 4).map(entry => {
       const rows = dwData[String(entry.id)];
@@ -870,9 +874,17 @@
        cannot be parsed stay — the tracker writes every episode
        headline in the standard format, so this is a fail-open guard
        only. When the tracker failed to load, nothing is filtered. */
+    /* Pakistani-Dramas gate (user order 2026-10-26): the rail holds
+       ONLY episodes of dramas listed in FA_PUBLISHED (type tv,
+       industry pakistani) — Bulbulay Season 2 (sitcom) and Exclusive
+       Chat (interview) are tracker entries, not listed dramas, so
+       their rows never appear here, newest or not. Applies whether
+       or not the tracker loaded (identity, not airing); headlines
+       that cannot be parsed stay (fail-open guard). */
+    const epListed = epArticles.filter(a => { const d = dramaOfArticle(a); return !d || pkByKey[d.key]; });
     const epAiring = trackerLoaded
-      ? epArticles.filter(a => { const d = dramaOfArticle(a); return !d || isAiringKey(d.key); })
-      : epArticles;
+      ? epListed.filter(a => { const d = dramaOfArticle(a); return !d || isAiringKey(d.key); })
+      : epListed;
     const epLatest = epAiring.slice(0, HOME_LIMITS.dramas);
     /* Drama filter options: the dramas that have (airing) episodes in
        this rail, A–Z like /episode-guides. "All Dramas" is added at
@@ -1135,6 +1147,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
