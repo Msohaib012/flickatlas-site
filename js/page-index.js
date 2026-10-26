@@ -2,7 +2,8 @@
    section reads window.FA_PUBLISHED (the pipeline-written catalogue of
    titles sohaib chose to publish) and NEVER fetches a live TMDB
    catalogue for its items. Hero = FA_DAYWISE box office + the published
-   title's baked-in art. News = FA_ARTICLES. Celebrity Today =
+   title's baked-in art. News = /api/news (the same feed /news renders).
+   Celebrity Today =
    FA_CELEBRITY_TODAY. Sections with zero published items render nothing
    — no empty shell, no TMDB fallback. K-Drama is gone from this page. */
 (async function () {
@@ -35,7 +36,9 @@
        keyed by TMDB id. Guarded: an absent file means "nothing published
        yet", never a crash and never a live TMDB fetch. Sort: newest
        first (published_at desc, then release/air date desc) — the
-       homepage recency rule. One item per listing (slice(0,1)). */
+       homepage recency rule. Each section shows the first HOME_LIMITS
+       items of its See All page's ordered list (no distinct-title
+       skipping, no one-item rails). */
     const pubAll = () => Object.values(window.FA_PUBLISHED || {});
     const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
     const dateOf = (x) => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
@@ -45,47 +48,43 @@
     const freshReleased = (x) => isReleased(x) && UI.isFresh(x);
     const inIndustry = (x, industry) => (x.industry || "") === industry;
 
-    /* Published titles for a homepage rail, by kind + industry.
-       kind "spotlight": released movies, fresh, newest first.
-       kind "soon": upcoming movies + TV, newest first.
+    /* Published titles for a homepage rail, by kind + industry. Returns
+       the FULL ordered pool (no slice, no distinct filtering) — the caller
+       slices HOME_LIMITS items off the front.
+       kind "spotlight": released movies, fresh-first (falls back to all
+         released, same as /movies), newest first.
+       kind "soon": upcoming movies + TV, most-awaited sort (rating desc,
+         then nearest date — same as /most-awaited).
        kind "calendar": upcoming movies + TV, nearest date first. */
-    /* Distinct titles across the homepage (fix 2026-10-25): every section
-       used to sort newest-first and take slice(0,1), so the same title
-       (Udta Teer) filled every movie section and the next published title
-       (Nayyi Navelli) appeared nowhere on the page. `shown` tracks the
-       TMDB ids already on the page; each listing picks the newest title
-       NOT yet shown, falling back to the newest when every title is
-       already shown. One item per section is unchanged. */
-    const shown = new Set();
-    const markShown = (items) => { (items || []).forEach(x => { if (x && x.id != null) shown.add(x.id); }); };
-    const pickDistinct = (items) => {
-      const fresh = items.filter(x => x && !shown.has(x.id));
-      return (fresh.length ? fresh : items).slice(0, 1);
-    };
+    /* Homepage limits (2026-10-26, homepage/See-All match): every section
+       shows the FIRST N items of the exact ordered list its See All page
+       shows — no distinct-title skipping, no one-item rails. The See All
+       page lists the full pool in the same order. */
+    const HOME_LIMITS = { spotlight: 6, soon: 6, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 6 };
+    /* Most-awaited sort: /most-awaited ranks upcoming titles by rating
+       (vote_average desc, then vote_count desc, then nearest date) — NOT
+       byNewest. The homepage "Coming Soon & Most Awaited" rail uses this
+       same sort so its first item is the same title /most-awaited shows. */
+    const byMostAwaited = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
+      || (b.vote_count || 0) - (a.vote_count || 0)
+      || dateOf(a).localeCompare(dateOf(b));
     /* Industry tag for cards: UI.industryTag now returns "World Cinema" for
        world-industry titles (fixed in ui.js) — the explicit label is kept
        as a harmless guard. */
     const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
-    /* Snapshot of the first-render pick per kind+industry (audit fix):
-       activate() used to re-run publishedFor on the polluted `shown` set,
-       so switching Spotlight to World Cinema and back showed the newest
-       title (Udta Teer) instead of the distinct pick (Nayyi Navelli).
-       Every kind+industry pick is now computed once and restored verbatim. */
-    const homePicks = new Map();
-    const pickFor = (kind, industry) => {
-      const key = kind + "|" + industry;
-      if (homePicks.has(key)) return homePicks.get(key);
-      const items = publishedFor(kind, industry);
-      homePicks.set(key, items);
-      return items;
-    };
     const publishedFor = (kind, industry) => {
       const ind = industry === "international" ? "world" : "bollywood";
-      let items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
-      if (kind === "spotlight") items = items.filter(x => typeOf(x) === "movie" && freshReleased(x)).sort(byNewest);
-      else if (kind === "soon") items = items.filter(x => isUpcoming(x)).sort(byNewest);
-      else items = items.filter(x => isUpcoming(x)).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
-      return pickDistinct(items);
+      const items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
+      if (kind === "spotlight") {
+        /* Fresh first, same fallback as /movies: when no fresh released
+           title exists, the full released pool is used so the rail is
+           never empty while published movies exist. */
+        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x)).sort(byNewest);
+        const fresh = rel.filter(x => freshReleased(x));
+        return fresh.length ? fresh : rel;
+      }
+      if (kind === "soon") return items.filter(x => isUpcoming(x)).sort(byMostAwaited);
+      return items.filter(x => isUpcoming(x)).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
@@ -112,9 +111,6 @@
       const last = rows[rows.length - 1];
       heroSlides.push({ d: entry, live: true, total, last, dayN: UI.dayNumOf(last) });
     }
-    /* The hero title counts as shown, so the next section surfaces a
-       different published title instead of repeating it. */
-    markShown(heroSlides.map(s => s.d));
 
     const heroSlideHtml = (s, idx) => {
       const hd = s.d;
@@ -172,25 +168,29 @@
       <a class="see-all" href="${href}">See All →</a></div>
       ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
-    const bollyReleased = pickFor("spotlight", "bollywood");
-    markShown(bollyReleased);
+    const bollyReleased = publishedFor("spotlight", "bollywood").slice(0, HOME_LIMITS.spotlight);
     const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, "movie", "")).join("")}</div></section>` : "";
-    const bollySoon = pickFor("soon", "bollywood");
-    markShown(bollySoon);
-    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Newest published upcoming titles first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
+    const bollySoon = publishedFor("soon", "bollywood").slice(0, HOME_LIMITS.soon);
+    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
 
-    /* ---------- Lollywood + Pakistani dramas (computed BEFORE the mixed
-       rail so their picks count as shown and Trending Worldwide does not
-       repeat them). Both use pickDistinct like every other rail. ---------- */
-    const lollyLatest = pickDistinct(pubAll().filter(x => x && x.poster_path && (x.industry || "") === "pakistani" && freshReleased(x)).sort(byNewest));
-    markShown(lollyLatest);
-    const pkLatest = pickDistinct(pubAll().filter(x => x && typeOf(x) === "tv" && x.poster_path && (x.industry || "") === "pakistani" && freshReleased(x)).sort(byNewest));
-    markShown(pkLatest);
+    /* ---------- Lollywood + Pakistani dramas: Pakistani released titles,
+       fresh-first (falls back to all released, same as the other rails),
+       newest first. First 6 each — the same ordered pool their See All
+       pages list. ---------- */
+    const releasedPool = (pred) => {
+      const rel = pubAll().filter(x => x && x.poster_path && isReleased(x) && pred(x)).sort(byNewest);
+      const fresh = rel.filter(x => freshReleased(x));
+      return fresh.length ? fresh : rel;
+    };
+    const lollyLatest = releasedPool(x => (x.industry || "") === "pakistani").slice(0, HOME_LIMITS.lollywood);
+    const pkLatest = releasedPool(x => (x.industry || "") === "pakistani" && typeOf(x) === "tv").slice(0, HOME_LIMITS.dramas);
 
-    /* ---------- Newest published titles, all industries ---------- */
-    const mixedPool = pubAll().filter(x => x && typeOf(x) === "movie" && x.poster_path && freshReleased(x)).sort(byNewest);
-    const mixed = pickDistinct(mixedPool);
-    markShown(mixed);
+    /* ---------- Newest published titles, all industries: same pool and
+       order as /movies?f=all&s=recent (released movies, fresh-first with
+       the full-pool fallback, newest first). First 6. ---------- */
+    const mixedPool = pubAll().filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x)).sort(byNewest);
+    const mixedFresh = mixedPool.filter(x => freshReleased(x));
+    const mixed = (mixedFresh.length ? mixedFresh : mixedPool).slice(0, HOME_LIMITS.trending);
     const mixedHtml = rowSection("Trending Worldwide", "/movies?f=all&seeall=1",
       mixed.length ? `<div class="scroller">${mixed.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
       "Newest published titles across all industries.",
@@ -207,11 +207,11 @@
     const celebTodayHtml = (UI.celebTodaySection(window.FA_CELEBRITY_TODAY) || "")
       .replaceAll('class="news-list"', 'class="editorial-grid"').replaceAll('class="news-item"', 'class="editorial-card"');
 
-    /* ---------- Box Office: the newest published title with real
-       day-wise rows (FA_DAYWISE). Today / 7-day sums come only from the
-       reported rows; "Recorded" is the sum of the tracked days (never a
-       lifetime gross — FA_PUBLISHED carries no revenue figure). One card;
-       no card at all when no published title has day-wise data. ---------- */
+    /* ---------- Box Office: published titles with real day-wise rows
+       (FA_DAYWISE). Today / 7-day sums come only from the reported rows;
+       "Recorded" is the sum of the tracked days (never a lifetime gross —
+       FA_PUBLISHED carries no revenue figure). First 8 cards in day-wise
+       order; no section at all when no published title has data. ---------- */
     const boCardHtml = (entry, rows) => {
       const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
       const weekStart = new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10);
@@ -226,28 +226,28 @@
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
       return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div></dl></a>`;
     };
-    let boPick = null;
+    /* Every published title with day-wise rows, in the SAME order
+       /box-office lists its day-wise titles (dwKeys: latest recorded
+       date first). First 8, each as a boCardHtml card. */
+    const boPicks = [];
     for (const dwId of dwKeys) {
+      if (boPicks.length >= HOME_LIMITS.boxoffice) break;
       const rows = dwData[dwId];
       if (!Array.isArray(rows) || !rows.length) continue;
       const entry = (window.FA_PUBLISHED || {})[String(dwId)];
-      if (entry && entry.poster_path) { boPick = { entry, rows }; break; }
+      if (entry && entry.poster_path) boPicks.push({ entry, rows });
     }
-    /* The box-office leader is on the page too, so later sections avoid
-       repeating it (same as the hero). Its pick itself is unchanged. */
-    if (boPick) markShown([boPick.entry]);
-    const boHtml = boPick ? `<section class="section" data-sec="box-office">
+    const boHtml = boPicks.length ? `<section class="section" data-sec="box-office">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office">See All →</a></div>
-      ${boCardHtml(boPick.entry, boPick.rows)}
+      ${boPicks.map(p => boCardHtml(p.entry, p.rows)).join("")}
     </section>` : "";
 
     /* ---------- coming soon: a DAILY release calendar over the
-       published upcoming titles — nearest date first, one item. ----- */
+       published upcoming titles — nearest date first, first 6 rows. ----- */
     const MONTHS_S = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
     const calendarRow = (x, type, date) => { const [, mm, dd] = date.split("-"); return `<a class="tl-row" href="/${type === "tv" ? "show" : "movie"}?id=${x.id}"><span class="tl-date"><b>${parseInt(dd, 10)}</b><span>${MONTHS_S[parseInt(mm, 10) - 1]}</span></span><img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b><span>${type === "tv" ? "Premieres " : ""}${UI.fmtDate(date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""}</span></span><span class="tag-chip">${UI.esc(tagFor(x))}</span></a>`; };
-    const upList = pickFor("calendar", "bollywood");
-    markShown(upList);
+    const upList = publishedFor("calendar", "bollywood").slice(0, HOME_LIMITS.calendar);
     const upHtml = hasKind("calendar") ? `<section class="section" data-sec="coming-soon" id="homeCalendar">
       <div class="section-head"><h2>Coming Soon — Release Calendar</h2>
       <a class="see-all" href="/upcoming?f=bollywood&s=nearest&seeall=1">See All →</a></div>
@@ -257,43 +257,58 @@
         ${upList.length ? upList.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>'}
       </div></section>` : "";
 
-    /* ---------- Trending News (§2.7): published articles only
-       (window.FA_ARTICLES, newest first, one card). No live feed fetch,
-       no release-data briefs fallback — when nothing is published, the
-       section removes itself. ---------- */
+    /* ---------- Trending News (§2.7): the SAME feed /news renders
+       (/api/news), first 7 headlines, same editorial-card markup (title
+       + meta). When the feed is unreachable or empty, the section
+       removes itself. ---------- */
     const newsHtml = `<section class="section" id="homeNews" data-sec="news">
       <div class="section-head"><h2>Trending News</h2>
       <a class="see-all" href="/news">See All →</a></div>
       <p class="sec-sub">Recent published headlines, newest first.</p>
       <div class="sk" style="height:120px;border-radius:14px"></div></section>`;
-    const fillHomeNews = () => {
+    const fillHomeNews = async () => {
       const host = document.getElementById("homeNews");
       if (!host) return;
-      const arts = Object.values(window.FA_ARTICLES || {})
-        .filter(a => a && a.id && a.headline && a.published && !isNaN(Date.parse(a.published)))
-        .sort((a, b) => Date.parse(b.published) - Date.parse(a.published))
-        .slice(0, 1);
-      if (!arts.length) { host.remove(); return; }
-      host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
-        <a class="see-all" href="/news">See All →</a></div>
-        <p class="sec-sub">Recent published headlines, newest first.</p>
-        <div class="editorial-grid">${arts.map(a => `
-        <a class="editorial-card" href="/news-item?id=${encodeURIComponent(a.id)}">
-          <span class="editorial-card__title">${UI.esc(a.headline)}</span>
-          <span class="editorial-card__meta">${UI.esc(UI.relTime(Date.parse(a.published)))}</span>
-        </a>`).join("")}</div>`;
+      try {
+        /* Same source and markup as /news (page-news.js): /api/news feed,
+           categories normalised the same way, first 7 items. */
+        const ctl = new AbortController();
+        const to = setTimeout(() => ctl.abort(), 9000);
+        const r = await fetch("/api/news", { signal: ctl.signal });
+        clearTimeout(to);
+        if (!r.ok) throw new Error("news http " + r.status);
+        const j = await r.json();
+        if (!j.items || !j.items.length) throw new Error("news empty");
+        const CATLABEL = { bollywood: "Bollywood", world: "World Cinema", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral" };
+        const arts = j.items.slice(0, HOME_LIMITS.news).map(it => ({
+          ...it,
+          cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
+        }));
+        host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
+          <a class="see-all" href="/news">See All →</a></div>
+          <p class="sec-sub">Recent published headlines, newest first.</p>
+          <div class="editorial-grid">${arts.map(it => {
+            const categories = (Array.isArray(it.cats) ? it.cats : []).map(c => CATLABEL[c] || c);
+            const meta = [categories.length ? categories.join(" · ") : "", Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : ""].filter(Boolean);
+            return `<a class="editorial-card" href="${UI.newsItemPath(it)}">
+              <span class="editorial-card__title">${UI.esc(it.title)}</span>
+              ${meta.length ? `<span class="editorial-card__meta">${meta.map(UI.esc).join(" · ")}</span>` : ""}
+            </a>`;
+          }).join("")}</div>`;
+      } catch (_) {
+        host.remove();
+      }
     };
 
-    /* ---------- Lollywood: LATEST Pakistani releases only (computed
-       above, before the mixed rail — see the distinct-titles note). ---------- */
+    /* ---------- Lollywood: latest Pakistani releases (computed above). ---------- */
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Latest Pakistani Releases</h2>
       <a class="see-all" href="/category?cat=lollywood">See All →</a></div>
       <p class="sec-sub">Recent Pakistani films and dramas with listed dates; newest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
-    /* Pakistani dramas rail: the newest published Pakistani drama, with
-       its channel tag. No live channel-pool fetch. */
+    /* Pakistani dramas rail: the newest published Pakistani dramas, with
+       their channel tags. No live channel-pool fetch. */
     const pkRailHtml = pkLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
       <div class="section-head"><h2>Pakistani YouTube Dramas — Latest</h2>
       <a class="see-all" href="/episode-guides">Episode Guides →</a></div>
@@ -354,18 +369,17 @@
         if (persist) { const u = new URL(location.href); if (industry === "bollywood") u.searchParams.delete(stateKey); else u.searchParams.set(stateKey, industry); history.pushState(null, "", u); }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&s=recent&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}` : `/upcoming?f=${industry}&s=nearest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Browse released movies, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, newest first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
-        const items = pickFor(kind, industry);
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Browse released movies, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, most awaited first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
+        const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : "calendar";
+        const items = publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
         if (kind === "calendar") result.innerHTML = items.length ? items.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>';
         else result.innerHTML = items.length ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined)).join("") : '<p role="status">No matching titles found.</p>';
       };
       group.addEventListener("click", ev => { const btn = ev.target.closest("button[data-industry]"); if (btn) activate(btn.dataset.industry, true); });
       const key = stateKey, initial = new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood";
-      /* The default Bollywood view is already pre-rendered above with the
-         distinct-title rule applied. Re-running activate() on load would
-         re-pick via publishedFor — and with every title already shown it
-         would fall back to the newest and undo the distinct pick. Only
-         activate when a non-default tab was requested via the URL. */
+      /* The default Bollywood view is already pre-rendered above from the
+         same pool + limit, so only activate when a non-default tab was
+         requested via the URL. */
       if (initial !== "bollywood") activate(initial, false);
       window.addEventListener("popstate", () => activate(new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood", false));
     });
@@ -459,3 +473,4 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+

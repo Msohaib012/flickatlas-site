@@ -76,12 +76,11 @@
       if (t === "tv" && x.type !== "tv") return false;
       return true;
     });
-    const shown = items.slice(0, 1);
-    grid.innerHTML = shown.map(x =>
+    grid.innerHTML = items.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, x.type, tagFor(x))}</div>`).join("");
     const label = t === "movie" ? "movie" : t === "tv" ? "show" : "title";
-    fcount.textContent = `${shown.length} ${label}${shown.length === 1 ? "" : "s"}`;
-    emptyHost.innerHTML = shown.length ? ""
+    fcount.textContent = `${items.length} ${label}${items.length === 1 ? "" : "s"}`;
+    emptyHost.innerHTML = items.length ? ""
       : UI.stateMsg(pool.length
         ? `No ${info.label} titles match this filter right now.`
         : `No ${info.label} titles have been published yet.`, false);
@@ -132,3 +131,4 @@
 
   render();
 })();
+

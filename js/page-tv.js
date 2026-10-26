@@ -90,11 +90,10 @@
       return true;
     });
     items.sort((a, b) => f === "top" ? byPopular(a, b) : byNewest(a, b));
-    const shown = items.slice(0, 1);
-    grid.innerHTML = shown.map(x =>
+    grid.innerHTML = items.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, "tv", tagFor(x))}</div>`).join("");
-    fcount.textContent = `${shown.length} show${shown.length === 1 ? "" : "s"}`;
-    emptyHost.innerHTML = shown.length ? ""
+    fcount.textContent = `${items.length} show${items.length === 1 ? "" : "s"}`;
+    emptyHost.innerHTML = items.length ? ""
       : UI.stateMsg(pool.length
         ? "No shows match this filter right now."
         : "No shows have been published yet.", false);
@@ -116,3 +115,4 @@
 
   render();
 })();
+
