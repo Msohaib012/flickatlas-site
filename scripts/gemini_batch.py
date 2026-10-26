@@ -64,7 +64,7 @@ import sys
 import time
 import urllib.request
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 # Sibling module: deterministic day-wise box-office extraction (regex
@@ -643,6 +643,25 @@ def build_images(result, item, page_image, tmdb_key):
 
 
 # ---------------------------------------------------------------- main
+def _gemini_row_date(bo, entry, item):
+    """Row date for a Gemini box_office object. Gemini's date is taken
+    verbatim when present (validate_box_row rejects it if it is invalid
+    or in the future — e.g. the live Drishyam row's "2026-00-00");
+    otherwise derive Day N from the film's release date (release +
+    N-1), which is always a real date. The old fallback (the source
+    article's published date [:10]) is dropped — a source published
+    date is often RFC2822, whose [:10] is not a date at all."""
+    d = (bo.get("date") or "").strip()
+    if d:
+        return d
+    rel = (entry.get("release_date") or "").strip()
+    try:
+        return (date.fromisoformat(rel) +
+                timedelta(days=int(bo["day"]) - 1)).isoformat()
+    except (ValueError, TypeError):
+        return ""
+
+
 def main():
     queue_path = os.path.join(OUT_DIR, "queue.json")
     processed_path = os.path.join(OUT_DIR, "processed.json")
@@ -840,22 +859,50 @@ def main():
                 if entry is None:
                     print(f"  box office: '{bo.get('film')}' not published, row dropped")
                 else:
-                    box_rows.append({
+                    # The row is validated BEFORE it is appended — Gemini's
+                    # own box_office object used to bypass the extractor's
+                    # advance/pre-sales exclusion entirely, and nothing
+                    # checked the date. Two bogus rows went live 2026-10-26
+                    # that way (Ramayana Day 1 pre-sales for an unreleased
+                    # film; Drishyam Day 24 with date "2026-00-00").
+                    # Every rejection is logged, never silent.
+                    row = {
                         "tmdb_id": entry["tmdb_id"],
                         "film": entry["title"],
                         "day": int(bo["day"]),
-                        "date": bo.get("date") or (item.get("published") or "")[:10],
+                        "date": _gemini_row_date(bo, entry, item),
                         "collection_usd": round(float(bo["collection_inr_crore"]) * 1e7 / INR_TO_USD),
                         "collection_inr_crore": float(bo["collection_inr_crore"]),
                         "sources": bo.get("sources") or [item.get("source") or ""],
                         "article_url": url,
-                    })
+                    }
+                    ok, reason = boxoffice_extract.validate_box_row(
+                        row, entry, article=article)
+                    if not ok:
+                        print(f"  box office: row rejected ({row['film']} "
+                              f"Day {row['day']}): {reason}")
+                    else:
+                        box_rows.append(row)
         if len(box_rows) == n_bo_before:
             # Gemini gave no usable row — extract day-wise figures from
             # the article itself. No extra Gemini call, no invented
             # figures; the extractor only takes single-day figures that
             # are actually stated (never totals, never weekend splits).
+            # The extractor validates its own rows; the gate below is
+            # defence in depth (a row must pass in both places).
             fb_rows = boxoffice_extract.extract_box_rows(article, published)
+            kept = []
+            for r in fb_rows:
+                ent = next((e for e in published.values()
+                            if e["tmdb_id"] == r["tmdb_id"]), None)
+                ok, reason = boxoffice_extract.validate_box_row(
+                    r, ent, article=article)
+                if not ok:
+                    print(f"  box office: fallback row rejected "
+                          f"({r['film']} Day {r['day']}): {reason}")
+                else:
+                    kept.append(r)
+            fb_rows = kept
             if fb_rows:
                 print(f"  box office: fallback extracted {len(fb_rows)} row(s) "
                       f"({', '.join('Day ' + str(r['day']) for r in fb_rows)})")
@@ -883,6 +930,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

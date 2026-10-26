@@ -11,6 +11,9 @@ Reads out/gemini-batch.json (from scripts/gemini_batch.py) and:
      appended. Collection is USD (converted in gemini_batch.py at 94.65).
      Rows come from out/gemini-batch.json ("box_office") and, when present,
      out/boxoffice-backfill.json (one-time backfill over old articles).
+     Every row passes boxoffice_extract.validate_box_row() before it is
+     merged (advance/pre-sales, invalid date, future date, unreleased
+     film) — the merge is the last gate; every rejection is logged.
   3. Writes out/auto-feed.json — feed entries for the new articles, which
      scripts/convert-news.py merges into api-news.json (same shape as the
      panel's publish-export feed).
@@ -25,6 +28,10 @@ import os
 import re
 import sys
 import time
+
+# Sibling module: the shared box-office row gate (validate_box_row).
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import boxoffice_extract
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "out")
@@ -165,6 +172,20 @@ def main():
     print(f"articles: +{added} new, {skipped} skipped (already present/malformed)")
 
     # ---- 2. box office -> js/daywise-data.js
+    # Published titles (for the row guard): tmdb_id -> entry, and
+    # source_url -> batch article (for the advance/pre-sales check).
+    # The merge is the LAST gate before daywise-data.js: a bogus row
+    # must never be written here even if the producer let it through.
+    # Two bogus rows went live 2026-10-26 that way (Ramayana Day 1
+    # pre-sales for an unreleased film; Drishyam Day 24 with date
+    # "2026-00-00"). Every rejection is logged, never silent.
+    published = boxoffice_extract.load_published(ROOT)
+    by_tmdb = {e["tmdb_id"]: e for e in published.values()}
+    by_url = {}
+    for a in articles:
+        u = (a.get("source_url") or "").strip()
+        if u:
+            by_url[u] = a
     day_path = os.path.join(ROOT, "js", "daywise-data.js")
     daywise = read_js_map(day_path, "FA_DAYWISE")
     bo_added, bo_updated = 0, 0
@@ -173,8 +194,17 @@ def main():
         day = row.get("day")
         if not tid or not day:
             continue
-        # Never write a zero/missing collection into the day-wise data.
-        if int(row.get("collection_usd") or 0) <= 0:
+        pub = by_tmdb.get(tid)
+        if pub is None:
+            print(f"box office: row rejected ({tid} Day {day}): "
+                  f"film not published")
+            continue
+        art = by_url.get((row.get("article_url") or "").strip())
+        ok, reason = boxoffice_extract.validate_box_row(row, pub,
+                                                        article=art)
+        if not ok:
+            print(f"box office: row rejected ({pub['title']} "
+                  f"Day {day}): {reason}")
             continue
         rows = daywise.setdefault(tid, [])
         entry = {"date": row.get("date") or "",
@@ -235,3 +265,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

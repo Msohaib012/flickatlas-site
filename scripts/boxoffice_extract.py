@@ -38,6 +38,17 @@ Rules (never violated):
     release 2026-10-23 -> Day 1 2026-10-23, Day 2 2026-10-24, Day 3
     2026-10-25 — matches the known FA_DAYWISE rows).
   - USD = crore * 1e7 / 94.65 (site FA_RATES); $ figures are used as-is.
+  - validate_box_row() is the single gate for every row (Gemini path,
+    extractor, and apply-auto merge): it rejects advance/pre-sales
+    articles, invalid dates, future dates, and unreleased films, and
+    every rejection is logged. Added 2026-10-26 after two bogus rows
+    went live (Ramayana Day 1 pre-sales; Drishyam Day 24 date
+    "2026-00-00") because Gemini's own box_office object bypassed the
+    extractor's advance exclusion and nothing validated the date.
+  - A numbered film name never loosely matches a title without that
+    number: 'Drishyam 3' (TMDB 847742) is a different film from
+    'Drishyam: The Conclusion' (TMDB 1269325); the loose first-word
+    match misattributed the Drishyam 3 article to 1269325.
 
 Pure functions, stdlib only, no side effects. Used by gemini_batch.py
 (fallback after the Gemini box_office check) and by
@@ -74,10 +85,61 @@ TOTAL_WORDS_RE = re.compile(
     r"|second weekend|first weekend|opening weekend|advance|pre-?sales?"
     r"|prepaid|preview", re.IGNORECASE)
 VERSION_RE = re.compile(r"\bversion\b", re.IGNORECASE)
+# Shared advance / pre-sales keyword test (guard (a) of validate_box_row):
+# an article ABOUT advance booking / pre-sales is not a day-wise report.
+# Deliberately narrower than TOTAL_WORDS_RE (no bare "advance", no
+# "preview"/"prepaid") so a legitimate day-wise article that mentions a
+# preview in passing is not rejected. Verified 2026-10-26: over the 61
+# live articles this only fires on the Ramayana pre-sales articles.
+ADVANCE_RE = re.compile(
+    r"advance booking|advance sales?|advance gross|pre-?sales?",
+    re.IGNORECASE)
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+# A cumulative total phrased "by Day N" ("Domestic net collection
+# reached 20.51 crore by Day 4") is the running total UP TO that day,
+# never that day's single-day figure. Found 2026-10-26 in the Udta Teer
+# Day 4 article: without this, the extractor preferred the 20.51 cr
+# cumulative (it contains "net", so it out-scored the real Day 4 figure
+# of 96 lakh) and would have overwritten the correct $101,426 row with
+# $2,166,931. The legitimate Day 4 sentence ("By 4 PM on Day 4, the
+# film collected approximately 96 lakh") has no "by day" + total-word
+# pair, so it is unaffected.
+CUMULATIVE_RE = re.compile(
+    r"\b(reached|total|crossed|stands at)\b.*\bby\s+day\b"
+    r"|\bby\s+day\b.*\b(reached|total|crossed|stands at)\b",
+    re.IGNORECASE)
 
 
 def norm_title(s):
     return re.sub(r"[^a-z0-9]+", " ", str(s or "").lower()).strip()
+
+
+def _num_tokens(s):
+    """Digit tokens in a normalized title that act as sequel numbers
+    ('Drishyam 3' -> {'3'}). A digit after 'part' ('Ramayana: Part 1')
+    is a part designation, not a sequel number — it must not block a
+    match to the same film under its subtitle ('Ramayana: Rise of a
+    Legend')."""
+    toks = norm_title(s).split(" ")
+    out = set()
+    for i, t in enumerate(toks):
+        if t.isdigit() and not (i > 0 and toks[i - 1] == "part"):
+            out.add(t)
+    return out
+
+
+def _numbers_compatible(query, candidate):
+    """A numbered query must match a candidate that carries the same
+    number. 'Drishyam 3' must NOT match 'Drishyam: The Conclusion' via
+    the loose first-word rule — TMDB lists 'Drishyam 3' (847742,
+    released 2026-05-20) and 'Drishyam: The Conclusion' (1269325,
+    released 2026-10-02) as DIFFERENT films, and the loose match
+    misattributed the Drishyam 3 article's day-24 figure to 1269325
+    (the live bogus row). A query with no number is unaffected."""
+    qn = _num_tokens(query)
+    if not qn:
+        return True
+    return bool(qn & _num_tokens(candidate))
 
 
 def title_matches(pub_title, ent):
@@ -89,6 +151,8 @@ def title_matches(pub_title, ent):
         return False
     if pn == en:
         return True
+    if not _numbers_compatible(en, pn):
+        return False
     if (pn in en or en in pn) and min(len(pn), len(en)) >= 6:
         return True
     pf, ef = pn.split(" ")[0], en.split(" ")[0]
@@ -121,21 +185,111 @@ def load_published(root):
 
 def match_published(film, published):
     """Film name -> published entry (or None). Tries exact, substring,
-    then distinctive-first-word, in that order."""
+    then distinctive-first-word, in that order. A numbered film name
+    ('Drishyam 3') never loosely matches a title without that number
+    ('Drishyam: The Conclusion') — see _numbers_compatible."""
     nf = norm_title(film)
     if not nf:
         return None
     if nf in published:
         return published[nf]
     for nt, entry in published.items():
+        if not _numbers_compatible(nf, nt):
+            continue
         if (nf in nt or nt in nf) and min(len(nf), len(nt)) >= 6:
             return entry
     pf = nf.split(" ")[0]
     if len(pf) >= 5:
         for nt, entry in published.items():
+            if not _numbers_compatible(nf, nt):
+                continue
             if nt.split(" ")[0] == pf:
                 return entry
     return None
+
+
+def _article_text(article):
+    """Headline + facts + body prose, joined — the text guard (a)
+    keyword-matches against. (Verified 2026-10-26: over the 61 live
+    articles this only fires on the Ramayana pre-sales articles.)"""
+    parts = [(article or {}).get("headline") or ""]
+    parts.extend(str(f) for f in ((article or {}).get("facts") or []))
+    for s in ((article or {}).get("body") or []):
+        if isinstance(s, dict):
+            parts.extend(str(p) for p in (s.get("p") or []))
+        elif isinstance(s, str):
+            parts.append(s)
+    return " ".join(p for p in parts if p)
+
+
+def validate_box_row(row, published_entry, article=None, today=None):
+    """The single gate for every box-office row before it is written.
+    Called by gemini_batch.py (Gemini's box_office object + the regex
+    fallback), by extract_box_rows (its own output), and by apply-auto.py
+    (the merge into js/daywise-data.js). Two bogus rows went live
+    2026-10-26 because Gemini's box_office object bypassed the
+    extractor's advance exclusion and nothing validated the date:
+    Ramayana Day 1 (advance pre-sales for an unreleased film) and
+    Drishyam Day 24 (date "2026-00-00").
+
+    row: {tmdb_id, film, day, date, collection_usd, ...}
+    published_entry: the FA_PUBLISHED entry (or None) — carries
+      release_date for guard (d).
+    article: the Gemini-written article dict (or None) — headline/facts/
+      body are keyword-checked for guard (a). When no article is
+      available (e.g. a backfill row at merge time) guard (a) is
+      skipped; guards (b)-(d) still apply.
+    today: datetime.date (UTC run date); defaults to today.
+    Returns (True, "") when the row is safe, else (False, reason).
+    The caller MUST log the reason (guard (e)) — a dropped row is
+    never silent."""
+    if today is None:
+        today = date.today()
+    # Collection must be a positive number (never zero/missing).
+    try:
+        coll = int(row.get("collection_usd") or 0)
+    except (TypeError, ValueError):
+        return False, "collection not a number"
+    if coll <= 0:
+        return False, "collection missing/zero"
+    # (a) The source article is about advance booking / pre-sales:
+    # its figures are pre-release takings, never a day's collection.
+    if article:
+        if ADVANCE_RE.search(_article_text(article)):
+            return False, "advance/pre-sales article"
+    # (b) The date must be a valid YYYY-MM-DD (fromisoformat rejects
+    # month 00 / day 00 and every other malformed value).
+    dstr = (row.get("date") or "").strip()
+    if not DATE_RE.match(dstr):
+        return False, f"invalid date {dstr!r} (not YYYY-MM-DD)"
+    try:
+        d = date.fromisoformat(dstr)
+    except ValueError:
+        return False, f"invalid date {dstr!r} (unparseable)"
+    # (c) The date must not be in the future — a collection cannot be
+    # reported before that day happens.
+    if d > today:
+        return False, f"future date {dstr} (today {today.isoformat()})"
+    # (d) The film's release date must not be in the future — an
+    # unreleased film cannot have a Day 1 collection. (When the
+    # release date is missing/unparseable it cannot be proven future,
+    # so the row is allowed; the other guards still apply.)
+    if published_entry:
+        rel = (published_entry.get("release_date") or "").strip()
+        if rel:
+            try:
+                if date.fromisoformat(rel) > today:
+                    return False, f"film unreleased (release {rel})"
+            except ValueError:
+                pass
+    # Day must be a positive int (defensive; callers already ensure it).
+    try:
+        day = int(row.get("day") or 0)
+    except (TypeError, ValueError):
+        return False, "day not a number"
+    if day < 1:
+        return False, "day < 1"
+    return True, ""
 
 
 def parse_pub_date(s):
@@ -203,16 +357,17 @@ def _sentence_ok(text, film, other_titles):
     return True
 
 
-def extract_box_rows(article, published):
+def extract_box_rows(article, published, today=None):
     """One article (FA_ARTICLES shape) -> [box_row, ...] in the exact
     shape apply-auto.py merges: {tmdb_id, film, day, date,
     collection_usd, collection_inr_crore, sources, article_url}.
     Returns [] when the article yields no day-wise row."""
-    headline = (article or {}).get("headline") or ""
+    if today is None:
+        today = date.today()
     # An advance-booking / pre-sales article is not a day-wise report:
     # its figures are pre-release takings, never a day's collection.
-    if re.search(r"advance booking|pre-?sales?|advance gross", headline,
-                 re.IGNORECASE):
+    # Checked over headline + facts + body (guard (a)).
+    if ADVANCE_RE.search(_article_text(article)):
         return []
     entities = (article or {}).get("entities") or {}
     titles = [str(t).strip() for t in (entities.get("titles") or [])
@@ -228,6 +383,9 @@ def extract_box_rows(article, published):
         rel_date = date.fromisoformat(release)
     except ValueError:
         return []  # cannot date the days reliably
+    # Guard (d): an unreleased film cannot have a day-wise collection.
+    if rel_date > today:
+        return []
     # Titles that must NOT appear in a candidate sentence (any other film
     # named in the article, plus every other published title).
     other_titles = {norm_title(t) for t in titles[1:]}
@@ -242,6 +400,8 @@ def extract_box_rows(article, published):
             if not _sentence_ok(text, film, other_titles):
                 continue
             if TOTAL_WORDS_RE.search(text):
+                continue
+            if CUMULATIVE_RE.search(text):
                 continue
             if not COLLECTION_WORDS_RE.search(text):
                 continue
@@ -288,7 +448,7 @@ def extract_box_rows(article, published):
     out = []
     for day in sorted(best):
         _, usd, cr = best[day]
-        out.append({
+        row = {
             "tmdb_id": entry["tmdb_id"],
             "film": entry["title"],
             "day": int(day),
@@ -297,17 +457,30 @@ def extract_box_rows(article, published):
             "collection_inr_crore": cr,
             "sources": [source] if source else [],
             "article_url": url,
-        })
+        }
+        # Final gate (guards (b)-(d) — the date is computed, so it is
+        # valid by construction, but a computed date in the FUTURE
+        # (day beyond today) must never be written).
+        ok, reason = validate_box_row(row, entry, article=article,
+                                      today=today)
+        if not ok:
+            print(f"  box office: row rejected ({row['film']} "
+                  f"Day {row['day']}): {reason}")
+            continue
+        out.append(row)
     return out
 
 
-def extract_all(articles, published):
+def extract_all(articles, published, today=None):
     """All articles (FA_ARTICLES dict) -> box_rows, oldest article first
     so that when two articles report the same film+day, the NEWEST figure
     wins in apply-auto.py's update rule (a later row overwrites)."""
+    if today is None:
+        today = date.today()
     ordered = sorted(articles.values(),
                      key=lambda a: parse_pub_date(a.get("published")))
     rows = []
     for a in ordered:
-        rows.extend(extract_box_rows(a, published))
+        rows.extend(extract_box_rows(a, published, today=today))
     return rows
+
