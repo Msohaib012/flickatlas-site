@@ -4,7 +4,8 @@
 Pakistani dramas air ~3-4 episodes per channel daily (HUM TV, ARY Digital,
 Har Pal Geo, Green TV = ~12-20 new episodes/day). This script picks each
 new full episode up from YouTube and posts it the SAME DAY, then adds an
-AI story summary GRADUALLY to the top episodes (picked by VIEWS).
+AI story summary in ROMAN URDU, GRADUALLY, to the top episodes (picked
+by VIEWS).
 
 TIERED (owner-approved 2026-10-26):
   1. INFO POST (every episode, same day, NO AI): title, episode number,
@@ -13,11 +14,14 @@ TIERED (owner-approved 2026-10-26):
      writes (id = FNV-1a of the YouTube URL, type "news"). Feed entries
      go to out/episode-feed.json (merged by scripts/convert-news.py).
   2. STORY SUMMARY (top 1-2 episodes/day, by VIEWS, gradual backlog):
-     Gemini fileData on the YouTube URL (model gemini-3.5-flash-lite,
-     keys GEMINI_API_KEY_1..6, same rotation as scripts/gemini_batch.py)
-     writes a ~180-word summary into the episode post. Max 2/day,
-     1/run, never re-summarize. Transcript scraping is BLOCKED, so
-     fileData is the only route (~218K VIDEO tokens/episode).
+     ROMAN URDU, 2-4 sentences, grounded ONLY in the episode's YouTube
+     title + description (model gemini-3.5-flash-lite, keys
+     GEMINI_API_KEY_1..6, same rotation as scripts/gemini_batch.py).
+     A thin description (cast list / promo only) gets a minimal
+     factual line instead of an invented plot — never re-summarize.
+     Max 2/day, 1/run. (fileData video-watching was the old route,
+     ~218K VIDEO tokens/episode; superseded 2026-10-27 — the function
+     is kept in the file for manual use only.)
 
 DETECTION (spike-proven 2026-10-26):
   - Channel RSS feeds WORK but list ZERO full episodes in their 15-item
@@ -668,7 +672,11 @@ def call_gemini_filedata(keys, video_url, drama, epno):
     """Watch the episode (fileData, YouTube URL) and write a ~180-word
     story summary in our own words. Proven spike 2026-10-25: fileData
     on gemini-3.5-flash-lite, ~217K VIDEO tokens/episode. Returns the
-    summary text or None. Tries each key in turn (rotation)."""
+    summary text or None. Tries each key in turn (rotation).
+
+    SUPERSEDED 2026-10-27: the backlog now uses
+    call_gemini_text_summary (Roman Urdu, title+description grounded);
+    this function is kept for manual use only."""
     prompt = (
         f"Watch this Pakistani drama episode and write a story summary "
         f"in your own words, about 180 words.\n\n"
@@ -711,6 +719,137 @@ def call_gemini_filedata(keys, video_url, drama, epno):
             continue
     print("  gemini: all keys failed for this episode")
     return None
+
+
+def air_date(ep):
+    """'25 October 2026' from the episode's published timestamp."""
+    try:
+        return datetime.fromisoformat(
+            (ep.get("published") or "").replace("Z", "+00:00")
+            ).strftime("%d %B %Y")
+    except Exception:
+        return (ep.get("published") or "")[:10]
+
+
+def story_text_from_description(desc, title=""):
+    """Strip YouTube boilerplate from a video description; keep the
+    story-ish prose a summary may be grounded in. Returns '' when the
+    description holds no story (cast list / promo only)."""
+    if not desc:
+        return ""
+    lines = desc.split("\n")
+    out = []
+    title_norm = re.sub(r"\W+", " ", (title or "").lower()).strip()
+    for ln in lines:
+        s = ln.strip()
+        if not s:
+            continue
+        low = s.lower()
+        if any(k in low for k in [
+                "thanks for watching", "click here", "subscribe",
+                "bell icon", "download", "visit 👉", "aryplus",
+                "is now available in the us", "share the news",
+                "watch all the episode", "playlist?list=", "timing :",
+                "http://", "https://", "director :", "writer :",
+                "cast :", "digitally presented by"]):
+            continue
+        if s.startswith("#"):
+            continue
+        if title_norm and re.sub(r"\W+", " ", low).strip() == title_norm:
+            continue
+        # Bare cast-name lines: <=3 words, no sentence punctuation.
+        words = s.split()
+        if len(words) <= 3 and not re.search(r"[.!?,;:]", s):
+            continue
+        out.append(s)
+    text = " ".join(out)
+    text = re.split(
+        r"(Pakistani Drama Industry's biggest Platform|"
+        r"Subscribe to the YouTube channel)", text)[0]
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def minimal_summary(ep):
+    """Factual one-liner for episodes whose description carries no
+    story (never invent plot)."""
+    n = ep.get("episode")
+    ep_label = f"Episode {n}" if n else "Aakhri episode"
+    return (f"{ep.get('drama') or 'Drama'} ki {ep_label.lower()}, "
+            f"{air_date(ep)} ko {ep.get('channel') or 'TV'} par nashar hui.")
+
+
+def call_gemini_text_summary(keys, title, story, drama, epno):
+    """Write a 2-4 sentence story summary in ROMAN URDU, grounded only
+    in the episode's YouTube title + description story text. Returns
+    the summary text or None. Tries each key in turn (rotation)."""
+    prompt = (
+        "Neeche ek Pakistani drama ki YouTube description se li gayi "
+        "kahani ki tafseel hai. Isay Roman Urdu (Latin script) mein 2-4 "
+        "jumlon mein dobara likho — natural, aam bol-chaal wali Roman "
+        "Urdu, jaisay Pakistan mein log likhte hain. Sirf wohi likho jo "
+        "tafseel mein maujood hai; episode ke khaas waqiyat, dialogue ya "
+        "naam invent mat karo. Yeh drama ki overall kahani ka khulasa "
+        "hai, kisi ek episode ke waqiyat nahi — is liye 'is episode "
+        "mein' likh kar koi waqiya mat batao. Koi heading, bullet ya "
+        "English jumla mat likho — sirf Roman Urdu summary.\n\n"
+        f"Drama: {drama}, Episode {epno if epno else '(final episode)'}.\n"
+        f"Video title: {title}\nTafseel: {story}")
+    for key in keys:
+        try:
+            body = json.dumps({
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"maxOutputTokens": 512},
+            }).encode("utf-8")
+            req = urllib.request.Request(
+                f"https://generativelanguage.googleapis.com/v1beta/models/"
+                f"{MODEL}:generateContent",
+                data=body,
+                headers={"x-goog-api-key": key,
+                         "Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=120) as r:
+                resp = json.load(r)
+            text = resp["candidates"][0]["content"]["parts"][0]["text"]
+            text = (text or "").strip()
+            if len(text) < 30:
+                print("  gemini summary too short, treating as failure")
+                continue
+            return text
+        except Exception as e:
+            print(f"  gemini key ...{key[-4:]} text summary failed: {e}")
+            continue
+    print("  gemini: all keys failed for this episode")
+    return None
+
+
+def summarise_episode(keys, yt_key, ep):
+    """Roman Urdu summary for one episode (backlog path). Fetches the
+    video description via videos.list (1 quota unit); a thin/no-story
+    description -> minimal factual line (no Gemini call, never
+    invented plot). Returns the summary text, or None only when
+    Gemini fails (so the episode stays in the backlog)."""
+    desc = ""
+    title = ep.get("title") or ""
+    if yt_key:
+        try:
+            det = yt_get(yt_key, "/videos",
+                         {"part": "snippet", "id": ep["video_id"]})
+            items = det.get("items") or []
+            if items:
+                desc = (items[0].get("snippet") or {}).get("description") or ""
+                title = (items[0].get("snippet") or {}).get("title") or title
+        except Exception as e:
+            print(f"  videos.list for summary failed: {e}")
+    story = story_text_from_description(desc, title)
+    if len(story) < 200:
+        return minimal_summary(ep)
+    summary = call_gemini_text_summary(keys, title, story[:3000],
+                                       ep["drama"], ep.get("episode"))
+    if not summary:
+        return None
+    n = ep.get("episode")
+    ep_label = f"Episode {n}" if n else "Aakhri episode"
+    return (summary + f" {ep_label}, {air_date(ep)} ko "
+            f"{ep.get('channel') or 'TV'} par nashar hui.")
 
 
 # ---------------------------------------------------------------- state
@@ -905,8 +1044,11 @@ def main():
             for ep in pending[:budget]:
                 print(f"  summarising {ep['drama']} Ep {ep['episode']} "
                       f"({ep.get('views', 0):,} views)…")
-                summary = call_gemini_filedata(
-                    gkeys, ep["url"], ep["drama"], ep.get("episode"))
+                # Roman Urdu summary (title+description grounded;
+                # thin description -> minimal factual line, never
+                # invented). None only when Gemini fails: stays queued.
+                summary = summarise_episode(
+                    gkeys, yt_key, ep)
                 if not summary:
                     print("  summary failed — stays in backlog")
                     continue

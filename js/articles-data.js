@@ -1780,13 +1780,20 @@ window.FA_ARTICLES = {
           "Bano Episode 13 aired on 2026-10-25 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=Ft8N6fW0NDw"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Bano ek mehnati middle-class larki hai jo apne bemar baap ki madad karti hai aur Murtaza se muhabbat karti hai. Dusri taraf, Shehryar ki shadi Mehrunisa se hoti hai, lekin uske bahar mulk jaane ke baad Shehryar Bano se shadi kar leta hai. Shuru ki doori ke baad Shehryar ke dil mein Bano ke liye jazbaat paida hote hain, lekin Mehrunisa ki wapsi unki khushiyon ke liye ek naya imtihan ban jaati hai. Episode 13, 25 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 13 aired on 2026-10-25.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Ft8N6fW0NDw",
-      "YouTube views: 1,487,225."
+      "YouTube views: 1,487,225.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -1815,13 +1822,20 @@ window.FA_ARTICLES = {
           "Zehar Episode 20 aired on 2026-10-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=xs7JUFIXfkU"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Zehar-e-Mohabbat HUM TV ka ek drama hai jis mein Zoha Tauqeer aur Omer Shahzad markazi kirdar ada kar rahe hain. Yeh kahani bharosay, taalluq aur sachai ke darmiyan maujood barik farq ke gird ghoomti hai. Is mein dikhaya gaya hai ke kaise kabhi kabhi dil woh baat pehle samajh leta hai jise dimaag ko qabul karne mein waqt lagta hai. Is drama ko Shahid Dogar ne likha hai aur Saqib Zafar Khan ne direct kiya hai. Episode 20, 25 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Zehar Episode 20 aired on 2026-10-25.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=xs7JUFIXfkU",
-      "YouTube views: 312,790."
+      "YouTube views: 312,790.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -1856,6 +1870,12 @@ window.FA_ARTICLES = {
         "p": [
           "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Shah Dawood ek magroor zameendar khandaan ka waris hai jo sab par hukmarani chahta hai, lekin ba-usool student Bareera us ke samne jhukne se inkar kar deti hai jis se un ke darmayan anaa ki jang shuru ho jati hai. Phir halaat unhe ek ghair mutawaqqay shaadi mein baandh dete hain, jahan shuruati ikhtilafat ke baad aahista aahista un ki larai izzat aur mohabbat mein badalne lagti hai. Lekin un ka yeh rishta tab khatre mein par jata hai jab Tamseel, jo Shah Dawood se pyar karti hai, hasad ki wajah se unhe alag karne ke liye nayi mushkilat paida karti hai. Episode 24, 25 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -1863,7 +1883,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=N9D72GXB_2Q",
       "YouTube views: 4,307,243.",
-      "TMDB: Nashtar (id 332312)."
+      "TMDB: Nashtar (id 332312).",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -1896,13 +1917,20 @@ window.FA_ARTICLES = {
           "Mohabbat Mukhtasir Episode 5 aired on 2026-10-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=Zc_69zANejo"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Drama serial 'Mohabbat Mukhtasir' ek aisi dilchasp kahani hai jo kismat, mohabbat, qurbani aur hamare faislon se banti hai. Yeh drama rishton ki uljhanon, jazbaat ki taaqat aur zindagi mein aane wale unexpected mod ko zahir karta hai. Is kahani mein har jazbe ke ek khas maani hain aur har faisla zindagi par gehra asar chhorta hai. Episode 5, 25 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Mohabbat Mukhtasir Episode 5 aired on 2026-10-25.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Zc_69zANejo",
-      "YouTube views: 841,702."
+      "YouTube views: 841,702.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -1931,13 +1959,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 36 aired on 2026-10-25 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=0c5lfnA8mLU"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Izzat ki episode 36, 25 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 36 aired on 2026-10-25.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=0c5lfnA8mLU",
-      "YouTube views: 60,112."
+      "YouTube views: 60,112.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -1966,13 +2001,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 43 aired on 2026-10-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=xWes3sjnCTQ"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "'Khushi' muhabbat, rishton aur un faislon ki ek dilchasp kahani hai jo hamari kismat tay karte hain. Zindagi ke safar mein har faisla naye masail aur ghair matwaqqa mod laata hai, jahan muhabbat aur khandaani rishton ki mazbooti ka imtihan hota hai. Yeh drama jazbaat, taaluqat aur kismat ki taaqat se bhara hua hai. Episode 43, 25 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 43 aired on 2026-10-25.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=xWes3sjnCTQ",
-      "YouTube views: 1,229,578."
+      "YouTube views: 1,229,578.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2001,13 +2043,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 33 aired on 2026-10-25 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=CnE1PAh7aGA"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Uswah ek zahanat aur mehnat karne wali middle-class larki hai jo apne cousin Mahbir se muhabbat karti hai. Lekin halat ke ek achanak mod ki wajah se woh ek ameer larke Essa ke sath ek na-pasandida rishte mein bandh jati hai. Is rishte mein dono ke darmiyan kafi galat fehmiyan aur takraao aate hain, jahan Uswah apne sabar aur honsle se in mushkilat ka samna karti hai. Episode 33, 25 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 33 aired on 2026-10-25.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=CnE1PAh7aGA",
-      "YouTube views: 3,621,380."
+      "YouTube views: 3,621,380.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2042,6 +2091,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Dastoor ek jazbati family drama hai jo mohabbat, qurbani, gharelu uljhanon aur raazon se bhara hua hai. Is mein ek maa aur uski betiyon ka safar dikhaya gaya hai, jo mushkil faislon, toot-te rishton aur kismat ke achanak badalte halat ka samna karti hain. Yeh kahani dard, maafi, mohabbat aur zindagi mein doosra moqa milne ke gird ghoomti hai. Episode 65, 25 October 2026 ko Green TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -2049,7 +2104,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=ARMsOqEQFSQ",
       "YouTube views: 570,880.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2084,13 +2140,20 @@ window.FA_ARTICLES = {
           "Zehar Episode 19 aired on 2026-10-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=zivWlTzHTJs"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Zehar-e-Mohabbat HUM TV ka ek drama hai jis mein Zoha Tauqeer aur Omer Shahzad markazi kirdar ada kar rahe hain. Yeh kahani bharosay, taalluq aur sachai ke darmiyan maujood barik farq ke gird ghoomti hai. Is mein dikhaya gaya hai ke kaise kabhi kabhi dil woh baat pehle samajh leta hai jise dimaag ko qabul karne mein waqt lagta hai. Is drama ko Shahid Dogar ne likha hai aur Saqib Zafar Khan ne direct kiya hai. Episode 19, 24 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Zehar Episode 19 aired on 2026-10-24.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=zivWlTzHTJs",
-      "YouTube views: 526,986."
+      "YouTube views: 526,986.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2119,13 +2182,20 @@ window.FA_ARTICLES = {
           "Bano Episode 12 aired on 2026-10-24 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=DMlPnlj4AC8"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Bano ek mehnati middle-class larki hai jo apne bemar baap ki madad karti hai aur Murtaza se muhabbat karti hai. Dusri taraf, Shehryar ki shadi Mehrunisa se hoti hai, lekin uske bahar mulk jaane ke baad Shehryar Bano se shadi kar leta hai. Shuru ki doori ke baad Shehryar ke dil mein Bano ke liye jazbaat paida hote hain, lekin Mehrunisa ki wapsi unki khushiyon ke liye ek naya imtihan ban jaati hai. Episode 12, 24 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 12 aired on 2026-10-24.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=DMlPnlj4AC8",
-      "YouTube views: 2,782,359."
+      "YouTube views: 2,782,359.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2164,7 +2234,7 @@ window.FA_ARTICLES = {
       {
         "h": "Story Summary",
         "p": [
-          "In this episode of Nashtar, Berira visits a beach community with her family and explores local life, wearing a traditional embroidered cap gifted by the villagers. While there, she encounters Daud, who is watching over the area. Berira remembers how she almost drowned in the sea and reflects on her complex feelings toward Daud, feeling a mix of longing and emotional distance as she recalls her past. \n\nLater, back at home, Berira struggles with her feelings of isolation. Daud intervenes when an intoxicated man wanders into the house and causes a disturbance, angrily confronting the intruder to protect the household's privacy and safety. Meanwhile, conversations among family members highlight the tensions and expectations surrounding Daud’s status and Berira's presence. As night falls, Berira reflects on the realities of her situation, realizing the deep emotional divide between them. The episode ends on a contemplative note as both characters grapple with their unresolved feelings and the stark differences in their worlds."
+          "Nashtar ke is episode mein, Berira apni family ke saath ek beach community jati hai aur wahan ki local zindagi ko dekhti hai, jabke usne gaaon walon ki taraf se tohfe mein mili traditional karhai wali topi pehni hoti hai. Wahan uski mulaqat Daud se hoti hai, jo us ilaqe ki dekhbhal kar raha hota hai. Berira ko yaad aata hai ke woh kaise samandar mein doobne hi wali thi, aur woh maazi ko yaad karte hue Daud ke liye apne uljhe hue jazbaat par ghor karti hai, jahan use chahat aur jazbaati doori dono ka ek saath ehsaas hota hai. Baad mein, ghar wapas aakar, Berira apni tanhai ke ehsaas se lar rahi hoti hai. Daud tab beech mein aata hai jab ek nashe mein dhut aadmi ghar mein ghus kar hungama khara karta hai, aur Daud gusse mein us shakhs ka samna karta hai taake ghar ki privacy aur hifazat ko bacha sake. Is dauran, ghar ke afraad ke beech hone wali baatein Daud ki haisiyat aur Berira ki maujoodgi se judi kashidgi aur ummidon ko samne lati hain. Raat dhalne par, Berira apni halat ki haqeeqat par ghor karti hai aur us par dono ke beech ki gehri jazbaati doori zaahir hoti hai. Episode ek soch-fikr wale mod par khatam hota hai kyunke dono kirdar apne na-suljhe hue jazbaat aur apni dunyayein ke wazehar farq se ulajh rahe hote hain. Episode 23, 24 October 2026 ko Geo TV par nashar hui."
         ]
       }
     ],
@@ -2207,13 +2277,20 @@ window.FA_ARTICLES = {
           "Dar Episode 25 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=X6qfF2t9fmQ"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "\"Dar e Nijaat\" Abu Bakr, Zaryab, Zamil aur unki family ki kahani hai, jo muhabbat se judi hone ke bawajood gehre raazon aur dhokay ki wajah se bikhar jati hai. Jab imtehan ki ghari mein aitmaad toot-ta hai aur badla lene ki aag bhadakti hai, toh har kisi ko apne faislon ki keemat chukani parti hai. Umera Ahmed ki likhi is kahani mein rohaniyat, muhabbat, kurbani aur intaqam aik sath dikhaya gaya hai jahan log nijaat ki talaash mein sab kuch dao par laga dete hain. Episode 25, 24 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Dar Episode 25 aired on 2026-10-24.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=X6qfF2t9fmQ",
-      "YouTube views: 4,605,871."
+      "YouTube views: 4,605,871.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2248,6 +2325,12 @@ window.FA_ARTICLES = {
         "p": [
           "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Drama \"Aangan\" Khadija Mastoor ke mashhoor novel par mabni taqseem-e-hind se pehle ke daur ki kahani hai. Is mein ek hi aangan mein rehne wale bikhre hue joint family ko dikhaya gaya hai jo Tehreek-e-Pakistan ke doran adhuri muhabbat, nazriati ikhtilafaat aur badalti wafadariyon se guzarte hain. Yeh poori kahani ek pur-azm aur khud-mukhtar larki Aaliya ki nazar se bayan ki gayi hai. Episode 8, 24 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -2255,7 +2338,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=TRw-sCeKlT0",
       "YouTube views: 984,112.",
-      "TMDB: Aangan (id 90172)."
+      "TMDB: Aangan (id 90172).",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2290,13 +2374,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 42 aired on 2026-10-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=bd7lGGYIhN8"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "'Khushi' muhabbat, rishton aur un faislon ki ek dilchasp kahani hai jo hamari kismat tay karte hain. Zindagi ke safar mein har faisla naye masail aur ghair matwaqqa mod laata hai, jahan muhabbat aur khandaani rishton ki mazbooti ka imtihan hota hai. Yeh drama jazbaat, taaluqat aur kismat ki taaqat se bhara hua hai. Episode 42, 24 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 42 aired on 2026-10-24.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=bd7lGGYIhN8",
-      "YouTube views: 1,590,979."
+      "YouTube views: 1,590,979.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2325,13 +2416,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 35 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=9fB47_fsW-0"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Izzat ki episode 35, 24 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 35 aired on 2026-10-24.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=9fB47_fsW-0",
-      "YouTube views: 43,154."
+      "YouTube views: 43,154.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2364,7 +2462,7 @@ window.FA_ARTICLES = {
       {
         "h": "Story Summary",
         "p": [
-          "In episode 32 of Uswah, Uswah’s mother visits her and expresses deep concern about her difficult marriage, urging Uswah not to mention her suffering to her father, as it would severely affect his weak heart. Despite her mother’s plea, Uswah insists on speaking with Mahabir, though her mother is hesitant. Meanwhile, Mahabir’s mother finds Uswah cooking and tests her daliya, later mentioning to Mahabir how much she appreciates Uswah’s caring nature, which frustrates Mahabir. Later, Mahabir confronts Uswah about interfering with Anaya’s life, but Uswah stands firm, declaring she will protect Anaya’s future and dreams. Back at home, a tense confrontation arises when Mahabir’s family discusses Anaya and Eisa’s relationship, leading to disagreement between the elders and Mahabir’s mother over traditions and arranged marriage expectations. Elsewhere, Faria and Eisa are shown planning their outings together, while Uswah continues to face emotional strain at home. The episode culminates in a shocking cliffhanger when Uswah’s mother suddenly collapses in severe chest pain, leaving her daughters frantic and terrified as they rush to her aid."
+          "Uswah ke episode 32 mein, Uswah ki maa us se milne aati hain aur uski mushkil shadi shuda zindagi par gehri fikr ka izhaar karti hain, aur Uswah se ilteja karti hain ke woh apne dukh dard apne baap ko na bataye, kyun ke is se un ke kamzor dil par bura asar parega. Apni maa ki ilteja ke bawajood, Uswah Mahabir se baat karne par zidd karti hai, halanke uski maa hichkicha rahi hoti hain. Isi dauran, Mahabir ki maa Uswah ko khana pakate hue dekhti hain aur uska daliya chakhnti hain, baad mein Mahabir se zikr karti hain ke unhein Uswah ki khayal rakhne wali tabiyat kitni pasand hai, jis se Mahabir chidh jata hai. Baad mein, Mahabir Uswah se Anaya ki zindagi mein madaakhlat karne par sawal karta hai, lekin Uswah apni baat par qaaim rehti hai aur ailan karti hai ke woh Anaya ke mustaqbil aur khwabon ki hifazat karegi. Ghar par, jab Mahabir ka khandaan Anaya aur Eisa ke rishte par baat karta hai to ek kashida mahaul ban jata hai, jis se riwayaat aur arranged marriage ki umeedon par bare buzurgon aur Mahabir ki maa ke darmiyaan ikhtilaaf paida ho jata hai. Dusri taraf, Faria aur Eisa ko ek saath bahar jaane ki planning karte hue dikhaya jata hai, jabke Uswah ghar par zehni dabao ka samna karti rehti hai. Episode ka ikhtetaam ek hairan kun cliffhanger par hota hai jab Uswah ki maa ko achanak seene mein shadeed dard hota hai aur woh gir parti hain, jis se unki betiyan ghabra jati hain aur khaufzada ho kar unki madad ke liye bhagti hain. Episode 32, 24 October 2026 ko Geo TV par nashar hui."
         ]
       }
     ],
@@ -2402,13 +2500,20 @@ window.FA_ARTICLES = {
           "Bulbulay Season 2 Episode 379 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=oSDXI0CmCyQ"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Bulbulay Season 2 ki episode 379, 24 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Bulbulay Season 2 Episode 379 aired on 2026-10-24.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=oSDXI0CmCyQ",
-      "YouTube views: 486,439."
+      "YouTube views: 486,439.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -2443,6 +2548,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Dastoor ek jazbati family drama hai jo mohabbat, qurbani, gharelu uljhanon aur raazon se bhara hua hai. Is mein ek maa aur uski betiyon ka safar dikhaya gaya hai, jo mushkil faislon, toot-te rishton aur kismat ke achanak badalte halat ka samna karti hain. Yeh kahani dard, maafi, mohabbat aur zindagi mein doosra moqa milne ke gird ghoomti hai. Episode 64, 24 October 2026 ko Green TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -2450,7 +2561,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=nwNWjkYic9A",
       "YouTube views: 743,388.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -3115,13 +3227,20 @@ window.FA_ARTICLES = {
           "Exclusive Chat with Zahid Ahmed Episode 78 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=7BgbbIvqUR4"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Exclusive Chat with Zahid Ahmed ki episode 78, 24 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Exclusive Chat with Zahid Ahmed Episode 78 aired on 2026-10-24.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=7BgbbIvqUR4",
-      "YouTube views: 20,666."
+      "YouTube views: 20,666.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -5012,13 +5131,20 @@ window.FA_ARTICLES = {
           "Bano Episode 14 aired on 2026-10-26 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=M47Qhiy9uBc"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Bano ek mehnati middle-class larki hai jo apne bemar baap ki madad karti hai aur Murtaza se muhabbat karti hai. Dusri taraf, Shehryar ki shadi Mehrunisa se hoti hai, lekin uske bahar mulk jaane ke baad Shehryar Bano se shadi kar leta hai. Shuru ki doori ke baad Shehryar ke dil mein Bano ke liye jazbaat paida hote hain, lekin Mehrunisa ki wapsi unki khushiyon ke liye ek naya imtihan ban jaati hai. Episode 14, 26 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 14 aired on 2026-10-26.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=M47Qhiy9uBc",
-      "YouTube views: 464,818."
+      "YouTube views: 464,818.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -5047,13 +5173,20 @@ window.FA_ARTICLES = {
           "Uswah Episode 34 aired on 2026-10-26 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=eDcvO_Xwd-Y"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Uswah ek zahanat aur mehnat karne wali middle-class larki hai jo apne cousin Mahbir se muhabbat karti hai. Lekin halat ke ek achanak mod ki wajah se woh ek ameer larke Essa ke sath ek na-pasandida rishte mein bandh jati hai. Is rishte mein dono ke darmiyan kafi galat fehmiyan aur takraao aate hain, jahan Uswah apne sabar aur honsle se in mushkilat ka samna karti hai. Episode 34, 26 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Uswah Episode 34 aired on 2026-10-26.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=eDcvO_Xwd-Y",
-      "YouTube views: 2,290,913."
+      "YouTube views: 2,290,913.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -5082,13 +5215,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 44 aired on 2026-10-26 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=vYpGvoR4onc"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "'Khushi' muhabbat, rishton aur un faislon ki ek dilchasp kahani hai jo hamari kismat tay karte hain. Zindagi ke safar mein har faisla naye masail aur ghair matwaqqa mod laata hai, jahan muhabbat aur khandaani rishton ki mazbooti ka imtihan hota hai. Yeh drama jazbaat, taaluqat aur kismat ki taaqat se bhara hua hai. Episode 44, 26 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 44 aired on 2026-10-26.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=vYpGvoR4onc",
-      "YouTube views: 791,318."
+      "YouTube views: 791,318.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -5117,13 +5257,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 37 aired on 2026-10-26 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=iU0pJZbBu8M"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Izzat ki episode 37, 26 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 37 aired on 2026-10-26.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=iU0pJZbBu8M",
-      "YouTube views: 15,942."
+      "YouTube views: 15,942.",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
@@ -5158,6 +5305,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Dastoor ek jazbati family drama hai jo mohabbat, qurbani, gharelu uljhanon aur raazon se bhara hua hai. Is mein ek maa aur uski betiyon ka safar dikhaya gaya hai, jo mushkil faislon, toot-te rishton aur kismat ke achanak badalte halat ka samna karti hain. Yeh kahani dard, maafi, mohabbat aur zindagi mein doosra moqa milne ke gird ghoomti hai. Episode 66, 26 October 2026 ko Green TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -5165,7 +5318,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=Kprtp5hg2iA",
       "YouTube views: 342,681.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Story summary added 2026-10-26."
     ],
     "entities": {
       "titles": [
