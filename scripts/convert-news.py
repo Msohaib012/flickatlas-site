@@ -202,45 +202,13 @@ def build_news(queue_path, registry_path):
                 merged += 1
         except Exception as e:
             print(f"auto-feed merge skipped: {e}")
-    # Episode-tracker feed entries (out/episode-feed.json): same shape as
-    # the auto-feed. Episode info posts (scripts/episode-guides.py) reach
-    # the feed the same way auto-written articles do; they win on id
-    # collisions. The queue's YouTube exclusion above does NOT apply here
-    # — these are written posts, not raw fetched headlines. Cats come
-    # from the entry itself (per-channel, set by the tracker: PK
-    # channels "pakistan", StarPlus "bollywood", Rtv "international");
-    # entries written before cats existed fall back to ["pakistan"].
-    ep_path = os.path.join(OUT_DIR, "episode-feed.json")
-    if os.path.exists(ep_path):
-        try:
-            with open(ep_path, encoding="utf-8") as f:
-                epfeed = json.load(f)
-            for entry in epfeed.get("feed") or []:
-                link = (entry.get("link") or "").strip()
-                title = (entry.get("title") or "").strip()
-                entry_id = (entry.get("id") or "").strip()
-                ts = entry.get("ts")
-                if not link or not title or not entry_id or not isinstance(ts, int):
-                    continue
-                source = entry.get("source") or ""
-                cats = entry.get("cats")
-                if not isinstance(cats, list) or not cats:
-                    cats = ["pakistan"]
-                items = [i for i in items if i["id"] != entry_id]
-                items.append({
-                    "id": entry_id,
-                    "title": title,
-                    "link": link,
-                    "source": source,
-                    "cats": cats,
-                    "ts": ts,
-                    "summary": "",
-                })
-                seen_links.add(link)
-                published_ids.add(entry_id)
-                merged += 1
-        except Exception as e:
-            print(f"episode-feed merge skipped: {e}")
+    # Episode-tracker feed entries are deliberately NOT merged here
+    # (owner order 2026-10-27, news purity): episode info posts live
+    # in Episode Guides / Drama Episodes / show pages, never in the
+    # news feed. out/episode-feed.json is still written by the tracker
+    # for its own record, but convert-news.py no longer reads it.
+    # (Removed 2026-10-27: the merge that was here put "Bano Episode 14"
+    # etc. into /api/news, where they showed as news headlines.)
     # Cumulative feed: fetch.py's queue is PER-RUN (only stories that are new
     # since the last run), so building the feed from this run alone would
     # shrink it to a handful of items an hour after a big fetch. Carry the
@@ -360,5 +328,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 

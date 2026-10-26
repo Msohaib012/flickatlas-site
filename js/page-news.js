@@ -45,6 +45,20 @@
   const TAGKEYS = FILTERS.map(([k]) => k).filter(k => k !== "all");
   let items = null;
 
+  /* NEWS PURITY (owner order 2026-10-27): episode posts are NOT news.
+     An item is an episode when its headline matches the episode-post
+     pattern "<Drama> Episode <N> — Watch on <channel>" (or the
+     "Last Episode" finale form) — the same pattern page-news-item.js
+     uses to recognise episode pages — or its link is a YouTube video.
+     Episodes live in Episode Guides / Drama Episodes / show pages,
+     never in a news list. */
+  const isEpisodeItem = (it) => {
+    const t = String((it && it.title) || "");
+    const l = String((it && it.link) || "");
+    return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
+      || /youtube\.com\/watch|youtu\.be\//i.test(l);
+  };
+
   /* Whole-word / whole-phrase match (case-insensitive). The last word of
      a phrase may carry a trailing "s" (award -> awards, song -> songs),
      so plurals match without weakening the boundary. */
@@ -124,7 +138,7 @@
     /* Normalise feed categories to the page's labels: the feed still
        classifies some items "international" (shown here as World Cinema);
        Korea-only items keep no category label and appear under All. */
-    items = j.items.map(it => {
+    items = j.items.filter(it => !isEpisodeItem(it)).map(it => {
       const norm = {
         ...it,
         cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
@@ -137,3 +151,4 @@
     wrap.innerHTML = UI.stateMsg("The news feed is unavailable right now. Please try again later.", false);
   }
 })();
+

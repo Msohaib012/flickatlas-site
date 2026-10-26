@@ -488,6 +488,15 @@
       car.addEventListener("pointerleave", start);
       start();
     };
+    /* NEWS PURITY (owner order 2026-10-27): episode posts are NOT
+       news — drop them from the feed here so neither Trending News
+       nor the slider ever shows one. Same test as page-news.js. */
+    const isEpisodeItem = (it) => {
+      const t = String((it && it.title) || "");
+      const l = String((it && it.link) || "");
+      return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
+        || /youtube\.com\/watch|youtu\.be\//i.test(l);
+    };
     const fillHomeNews = async () => {
       const host = document.getElementById("homeNews");
       if (!host) return;
@@ -501,8 +510,9 @@
         if (!r.ok) throw new Error("news http " + r.status);
         const j = await r.json();
         if (!j.items || !j.items.length) throw new Error("news empty");
+        const feedItems = j.items.filter(it => !isEpisodeItem(it));
         const CATLABEL = { bollywood: "Bollywood", world: "World Cinema", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral" };
-        const arts = j.items.slice(0, HOME_LIMITS.news).map(it => ({
+        const arts = feedItems.slice(0, HOME_LIMITS.news).map(it => ({
           ...it,
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
         }));
@@ -510,7 +520,7 @@
            it needs the whole feed to find 8 Indian (bollywood/kollywood)
            items with images. No second fetch — same j.items, normalised
            the same way. */
-        const sliderArts = j.items.map(it => ({
+        const sliderArts = feedItems.map(it => ({
           ...it,
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
         }));
@@ -584,28 +594,15 @@
       <p class="sec-sub">Latest drama episodes from YouTube channels, newest first; open an episode for its story summary.</p>
       <div class="tl-list">${epLatest.map(a => episodeRow(a)).join("")}</div></section>` : "";
 
-    /* ---------- Awards strip (fix round 2, Bug F): the next dated
-       ceremonies — mirrors the verified SHOWS data in js/page-awards.js
-       (dates checked against the organisers, 2026-10-23); undated shows
-       stay on the Awards hub, where they are labelled TBA. ---------- */
-    const awardsStripHtml = `<section class="section" data-sec="awards">
-      <div class="section-head"><h2>Awards — Coming Up</h2>
-      <a class="see-all" href="/awards">See All →</a></div>
-      <p class="sec-sub">Organiser-confirmed dates only.</p>
-      <div class="tl-list">${[
-        ["2026-11-15", "Governors Awards", "Honorary Oscars · Ray Dolby Ballroom, Hollywood"],
-      ].map(([dt, nm, note]) => `
-        <a class="tl-row" href="/awards">
-          <span class="tl-date"><b>${parseInt(dt.slice(8, 10), 10)}</b><span>${["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][parseInt(dt.slice(5, 7), 10) - 1]}</span></span>
-          <span class="tl-info"><b>${nm}</b><span>${UI.fmtDate(dt)} · ${note}</span></span>
-        </a>`).join("")}
-      </div></section>`;
+    /* ---------- Awards strip REMOVED (owner order 2026-10-27):
+       the homepage awards strip is gone entirely. The Awards
+       hub (/awards) still carries the verified ceremony dates. ---------- */
 
     /* Homepage order (MASTER-STRUCTURE §2 as amended by fix round 2,
        Bug F — Bollywood FIRST and more than half the page):
        hero → Bollywood Spotlight → Bollywood Coming Soon →
        Box Office → mixed trending → Coming Soon calendar →
-       Trending Searches → Trending News → awards → Lollywood →
+       Trending Searches → Trending News → Lollywood →
        Pakistani Dramas (posters) → Drama Episodes. K-Drama, birthdays, OTT and episode strips are
        gone: they had no published data source. ("Star Spotlight" stays
        removed by user order.) */
@@ -620,7 +617,6 @@
       ${upHtml}
       ${searchesHtml}
       ${newsHtml}
-      ${awardsStripHtml}
       ${lollyHtml}
       ${pkDramasHtml}
       ${pkRailHtml}
@@ -761,6 +757,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 

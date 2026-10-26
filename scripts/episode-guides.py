@@ -12,7 +12,9 @@ TIERED (owner-approved 2026-10-26):
      air date, channel, YouTube link, cast/channel facts. Written into
      js/articles-data.js in the EXACT article format scripts/apply-auto.py
      writes (id = FNV-1a of the YouTube URL, type "news"). Feed entries
-     go to out/episode-feed.json (merged by scripts/convert-news.py).
+     go to out/episode-feed.json (kept for the tracker's own record;
+     no longer merged into the news feed — owner order 2026-10-27:
+     episodes are not news).
   2. STORY SUMMARY (top 1-2 episodes/day, by VIEWS, gradual backlog):
      ROMAN URDU, 2-4 sentences, grounded ONLY in the episode's YouTube
      title + description (model gemini-3.5-flash-lite, keys
@@ -1081,4 +1083,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

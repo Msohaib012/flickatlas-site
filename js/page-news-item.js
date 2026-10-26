@@ -26,6 +26,19 @@
       <span>${it.ts ? UI.relTime(it.ts) : ""}</span></span>
     </a>`;
 
+  /* NEWS PURITY (owner order 2026-10-27): episode posts are NOT news —
+     they never appear in a news-headline list (the "More Headlines"
+     rail and the moved-on page below). Same test as page-news.js:
+     the episode-post headline pattern, or a YouTube link. Episode
+     pages themselves are unaffected — they render the article, not
+     a news list. */
+  const isEpisodeItem = (it) => {
+    const t = String((it && it.title) || "");
+    const l = String((it && it.link) || "");
+    return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
+      || /youtube\.com\/watch|youtu\.be\//i.test(l);
+  };
+
   /* A published article (FA_ARTICLES) is the first source of truth:
      it must render even after the story has rolled off the live feed.
      The feed is only needed for the "More Headlines" rail and for
@@ -67,7 +80,7 @@
       <p style="color:var(--muted);max-width:65ch">News pages on FlickAtlas are built from the live
       entertainment feeds, and this headline is no longer in the current feed window. Here are the
       latest headlines instead:</p>
-      <section class="section"><div class="news-list">${items.slice(0, 8).map(newsRow).join("")}</div></section>
+      <section class="section"><div class="news-list">${items.filter(x => !isEpisodeItem(x)).slice(0, 8).map(newsRow).join("")}</div></section>
     </div>`;
     UI.setSEO({ title: "Story no longer in the live feed | FlickAtlas", desc: "This headline has rolled off the live news feed. See the latest entertainment headlines on FlickAtlas.", path: "/news" });
     return;
@@ -518,7 +531,7 @@
     article = { ...article, body: [], facts: [], dek: (article.dek || "").replace(YT_URL_RE, "").trim() };
   }
 
-  const more = items.filter(x => UI.newsId(x) !== id)
+  const more = items.filter(x => UI.newsId(x) !== id && !isEpisodeItem(x))
     .sort((a, b) => ((b.cats || []).some(c => (it.cats || []).includes(c)) ? 1 : 0) -
                     ((a.cats || []).some(c => (it.cats || []).includes(c)) ? 1 : 0) || b.ts - a.ts)
     .slice(0, 6);
@@ -708,5 +721,6 @@
     }
   }
 })();
+
 
 
