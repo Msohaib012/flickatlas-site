@@ -247,7 +247,59 @@
 
     ${similar.length ? `<section class="section"><div class="section-head"><h2>Similar Movies</h2></div>
       <div class="grid">${similar.map(x => UI.posterCard(x, "movie", UI.industryTag(x))).join("")}</div></section>` : ""}
+
+    ${`<section class="section" id="audiencePulse"><div class="section-head"><h2>Audience Pulse</h2></div>
+      <div class="ap-cards">
+        ${rating ? `<div class="ap-card"><span class="ap-source">TMDB</span><b class="ap-score">${UI.esc(rating)}</b><span class="ap-meta">${pub.vote_count ? `${pub.vote_count.toLocaleString("en-US")} votes` : "Audience rating"}</span></div>` : `<div class="ap-card"><span class="ap-source">TMDB</span><b class="ap-score">—</b><span class="ap-meta">No audience rating yet</span></div>`}
+      </div>
+      <p class="prov-note">Audience rating from TMDB. BookMyShow and IMDb ratings are not available on this page yet.</p>
+      <button type="button" class="btn btn-teal" onclick="document.getElementById('rateMovie').scrollIntoView({behavior:'smooth',block:'center'})">Rate ${UI.esc(title)}</button>
+    </section>`}
+
+    ${`<section class="section" id="rateMovie"><div class="section-head"><h2>Rate This Movie</h2></div>
+      <div class="rate-widget">
+        <div class="rate-stars" role="radiogroup" aria-label="Your rating">
+          ${[1, 2, 3, 4, 5].map(n => `<button type="button" class="rate-star" data-value="${n}" aria-label="${n} star${n > 1 ? "s" : ""}" role="radio" aria-checked="false">★</button>`).join("")}
+        </div>
+        <p class="rate-hint" id="rateHint">Tap a star to rate</p>
+        <textarea id="rateComment" rows="3" maxlength="500" placeholder="Write a comment (optional)"></textarea>
+        <button type="button" class="btn btn-teal" id="rateSubmit">Submit Rating</button>
+        <p class="prov-note">Your rating is saved on this device only.</p>
+      </div>
+    </section>`}
   </div>`;
+
+    /* Rate widget: stars + optional comment, saved in localStorage (this
+       device only — no backend, so ratings are personal, not shared). */
+    try {
+      const rateKey = `fa-rating-${id}`;
+      const stars = [...main.querySelectorAll(".rate-star")];
+      const hint = main.querySelector("#rateHint");
+      const comment = main.querySelector("#rateComment");
+      const submit = main.querySelector("#rateSubmit");
+      let saved = null;
+      try { saved = JSON.parse(localStorage.getItem(rateKey) || "null"); } catch (_) {}
+      let picked = saved ? saved.stars : 0;
+      const paint = (n) => {
+        stars.forEach(s => {
+          const on = Number(s.dataset.value) <= n;
+          s.classList.toggle("on", on);
+          s.setAttribute("aria-checked", String(Number(s.dataset.value) === n));
+        });
+        if (hint) hint.textContent = n ? `Your rating: ${n}/5${saved ? " (saved)" : ""}` : "Tap a star to rate";
+      };
+      stars.forEach(s => s.addEventListener("click", () => { picked = Number(s.dataset.value); paint(picked); }));
+      if (saved && comment) comment.value = saved.comment || "";
+      if (saved) paint(saved.stars);
+      if (submit) submit.addEventListener("click", () => {
+        if (!picked) { if (hint) hint.textContent = "Please pick a star rating first."; return; }
+        try { localStorage.setItem(rateKey, JSON.stringify({ stars: picked, comment: (comment.value || "").trim(), at: Date.now() })); } catch (_) {}
+        saved = { stars: picked };
+        paint(picked);
+        submit.textContent = "Rating Saved ✓";
+        setTimeout(() => { submit.textContent = "Submit Rating"; }, 2500);
+      });
+    } catch (_) {}
 
     UI.setSEO({
       title: `${title}${year ? ` (${year})` : ""} — Cast, Story, Budget & Box Office | FlickAtlas`,
@@ -276,5 +328,6 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 

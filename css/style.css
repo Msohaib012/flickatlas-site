@@ -1803,3 +1803,17 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 @media(max-width:640px){
   table.data a[href*="box-office-day"]{display:inline-block}
 }
+
+/* ---------- Audience Pulse + Rate (user order 2026-10-26) ---------- */
+.ap-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px}
+.ap-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
+.ap-card .ap-source{display:block;font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.ap-card .ap-score{display:block;font-size:1.9rem;line-height:1.2;margin:6px 0 2px}
+.ap-card .ap-meta{display:block;color:var(--muted);font-size:.88rem}
+#audiencePulse .btn{margin-top:14px}
+.rate-widget{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px}
+.rate-stars{display:flex;gap:6px;margin-bottom:8px}
+.rate-star{background:none;border:0;padding:2px;font-size:2rem;line-height:1;color:var(--muted);cursor:pointer}
+.rate-star.on{color:var(--gold)}
+.rate-hint{color:var(--muted);font-size:.9rem;margin:0 0 12px}
+.rate-widget textarea{width:100%;box-sizing:border-box;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:inherit;resize:vertical;margin-bottom:12px;background:#fff;color:var(--ink)}

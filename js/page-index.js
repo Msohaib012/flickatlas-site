@@ -61,7 +61,10 @@
        shows the FIRST N items of the exact ordered list its See All page
        shows — no distinct-title skipping, no one-item rails. The See All
        page lists the full pool in the same order. */
-    const HOME_LIMITS = { spotlight: 6, soon: 6, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 6 };
+    /* Spotlight is UNCAPPED (user order 2026-10-26): every currently-running
+       movie this week shows in the rail; new titles join daily via the
+       nightly seeder as soon as they are eligible (released + fresh). */
+    const HOME_LIMITS = { soon: 6, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 6 };
     /* Most-awaited sort: /most-awaited ranks upcoming titles by rating
        (vote_average desc, then vote_count desc, then nearest date) — NOT
        byNewest. The homepage "Coming Soon & Most Awaited" rail uses this
@@ -89,31 +92,19 @@
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
-    /* ---------- HERO (user order 2026-10-26): max 4 slides — FIRST 2
-       Bollywood, REMAINING 2 World Cinema, all currently-running
-       (released + fresh = in cinemas now) published movies, newest
-       first within each industry. Falls back to the combined newest
-       pool if an industry has fewer than 2 running titles, so the
-       hero always has 4. A slide is "live" when the title has day-wise
-       rows (Day N collection + running total); otherwise it shows
-       Release Date + "Now in Cinemas" (the non-live branch of
-       heroSlideHtml). No live TMDB fetch — a title with no day-wise
-       rows simply has no live stats. ------- */
+    /* ---------- HERO = latest currently-running movies (user order
+       2026-10-26): max 4 slides, the 4 NEWEST published movies that are
+       currently running (released + fresh = in cinemas now), newest
+       first. A slide is "live" when the title has day-wise rows (Day N
+       collection + running total); otherwise it shows Release Date +
+       "Now in Cinemas" (the non-live branch of heroSlideHtml). No live
+       TMDB fetch — a title with no day-wise rows simply has no live
+       stats. ------- */
     const dwData = window.FA_DAYWISE || {};
-    const heroRunning = pubAll()
+    const heroPool = pubAll()
       .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x))
       .sort(byNewest);
-    const bollyHero = heroRunning.filter(x => x.industry === "bollywood").slice(0, 2);
-    const worldHero = heroRunning.filter(x => x.industry === "world").slice(0, 2);
-    const heroPicked = [...bollyHero, ...worldHero];
-    if (heroPicked.length < 4) {
-      const pickedIds = new Set(heroPicked.map(x => String(x.id)));
-      for (const x of heroRunning) {
-        if (heroPicked.length >= 4) break;
-        if (!pickedIds.has(String(x.id))) { heroPicked.push(x); pickedIds.add(String(x.id)); }
-      }
-    }
-    const heroSlides = heroPicked.map(entry => {
+    const heroSlides = heroPool.slice(0, 4).map(entry => {
       const rows = dwData[String(entry.id)];
       if (Array.isArray(rows) && rows.length) {
         const total = rows.reduce((s, r) => s + (r.collection || 0), 0);
@@ -179,8 +170,8 @@
       <a class="see-all" href="${href}">See All →</a></div>
       ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
-    const bollyReleased = publishedFor("spotlight", "bollywood").slice(0, HOME_LIMITS.spotlight);
-    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">Newest released films first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, "movie", "")).join("")}</div></section>` : "";
+    const bollyReleased = publishedFor("spotlight", "bollywood");
+    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">All movies running now, newest first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, "movie", "")).join("")}</div></section>` : "";
     const bollySoon = publishedFor("soon", "bollywood").slice(0, HOME_LIMITS.soon);
     const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
 
@@ -398,9 +389,10 @@
         if (persist) { const u = new URL(location.href); if (industry === "bollywood") u.searchParams.delete(stateKey); else u.searchParams.set(stateKey, industry); history.pushState(null, "", u); }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&s=recent&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}` : `/upcoming?f=${industry}&s=nearest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Browse released movies, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, most awaited first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "All movies running now, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, most awaited first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : "calendar";
-        const items = publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
+        /* Spotlight: full pool, no cap (user order 2026-10-26). */
+        const items = kind === "spotlight" ? publishedFor(kind, industry) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
         if (kind === "calendar") result.innerHTML = items.length ? items.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>';
         else result.innerHTML = items.length ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined)).join("") : '<p role="status">No matching titles found.</p>';
       };
