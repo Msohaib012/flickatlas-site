@@ -220,7 +220,10 @@ def parse_foc(html_text, year):
     """FlickOnClick: day-wise <table> (Day | India Net Collection |
     Occupancy | [Shows]). Column count varies (3 or 4), so detect the
     header row and the Day / India Net column indices dynamically.
-    Returns [(day, date_str, value_cr, is_estimate)]."""
+    Returns [(day, date_str, value_cr, is_estimate, shows, occupancy)]
+    — shows (int) and occupancy (%, 1dp) are None when the table has
+    no such column for that row; they are grounded table values only.
+    """
     rows = []
     for table in re.findall(r"<table.*?</table>", html_text, flags=re.S | re.I):
         trs = []
@@ -239,6 +242,10 @@ def parse_foc(html_text, year):
             val_col = next(i for i, c in enumerate(header) if "india net" in c)
         except StopIteration:
             continue
+        occ_col = next((i for i, c in enumerate(header)
+                        if "occupancy" in c), None)
+        shows_col = next((i for i, c in enumerate(header)
+                          if "show" in c), None)
         for cells in trs[1:]:
             if len(cells) <= val_col:
                 continue
@@ -255,7 +262,23 @@ def parse_foc(html_text, year):
             vm = re.search(r"([\d.]+)\s*crore", val_cell, re.I)
             if not vm:
                 continue
-            rows.append((day, date, float(vm.group(1)), est))
+            shows = None
+            if shows_col is not None and len(cells) > shows_col:
+                sm = re.search(r"([\d,]+)", cells[shows_col])
+                if sm:
+                    try:
+                        shows = int(sm.group(1).replace(",", ""))
+                    except ValueError:
+                        shows = None
+            occ = None
+            if occ_col is not None and len(cells) > occ_col:
+                om = re.search(r"([\d.]+)\s*%", cells[occ_col])
+                if om:
+                    try:
+                        occ = round(float(om.group(1)), 1)
+                    except ValueError:
+                        occ = None
+            rows.append((day, date, float(vm.group(1)), est, shows, occ))
         if rows:
             return rows
     return rows
@@ -427,10 +450,16 @@ def process_site(site, out, report, reviews=None):
             report[sid]["skipped"].append(
                 {"title": item["title"][:90], "reason": reason})
             continue
-        for day, date, value, est in rows:
-            out.setdefault(tmdb_id, []).append(
-                {"day": day, "date": date, "collection_inr_cr": value,
-                 "source": sid, "estimate": bool(est)})
+        for r in rows:
+            day, date, value, est = r[0], r[1], r[2], r[3]
+            entry = {"day": day, "date": date,
+                     "collection_inr_cr": value,
+                     "source": sid, "estimate": bool(est)}
+            if len(r) > 4 and r[4] is not None:
+                entry["shows"] = r[4]
+            if len(r) > 5 and r[5] is not None:
+                entry["occupancy_pct"] = r[5]
+            out.setdefault(tmdb_id, []).append(entry)
         report[sid]["rows"] += len(rows)
         report[sid]["parsed"].append(
             {"title": item["title"][:90], "tmdb_id": tmdb_id,
@@ -529,4 +558,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

@@ -263,7 +263,10 @@ def fetch_movie_date(slug, yyyymmdd):
 
 
 def row_for_date(data, day_no, date_iso):
-    """Build one output row from a date's data dict. None if no gross."""
+    """Build one output row from a date's data dict. None if no gross.
+    Shows / tickets sold / occupancy come from the same summary object
+    (BookMyShow India, same panel as the gross) — present only when
+    the payload carries them, never invented."""
     summary = data.get("summary") or {}
     gross_inr = summary.get("totalGross")
     if not gross_inr:
@@ -275,13 +278,32 @@ def row_for_date(data, day_no, date_iso):
     if gross_inr <= 0:
         return None
     gross_cr = gross_inr / 1e7
-    return {
+    row = {
         "day": day_no,
         "date": date_iso,
         "collection_inr_cr": round(gross_cr / GROSS_TO_NET, 2),
         "collection_gross_inr_cr": round(gross_cr, 2),
         "source": SOURCE,
     }
+    try:
+        shows = int(summary.get("totalShows") or 0)
+        if shows > 0:
+            row["shows"] = shows
+    except (TypeError, ValueError):
+        pass
+    try:
+        tickets = int(summary.get("totalTicketsSold") or 0)
+        if tickets > 0:
+            row["tickets"] = tickets
+    except (TypeError, ValueError):
+        pass
+    try:
+        occ = float(summary.get("avgOccupancy"))
+        if occ and 0 < occ <= 100:
+            row["occupancy_pct"] = round(occ, 1)
+    except (TypeError, ValueError):
+        pass
+    return row
 
 
 def build_daywise(movie_key, movie, end_date):
@@ -408,3 +430,4 @@ def main(argv=None):
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

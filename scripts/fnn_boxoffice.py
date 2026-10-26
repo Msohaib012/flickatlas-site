@@ -210,10 +210,18 @@ def movie_gross_for_date(api_data, title_set):
 
     api_data is one /api/all-box-office response for a single date.
     title_set is a set of normalized base titles for the movie.
-    Returns (gross_inr, entry_count).
+    Returns (gross_inr, entry_count, shows, tickets, occupancy_pct):
+    shows and tickets (sold) are summed across the matching entries;
+    occupancy is the shows-weighted mean of the entries' occupancy
+    (each entry is a format+language version of the same film).
+    A missing field yields None for that metric — never invented.
     """
     total = 0.0
     count = 0
+    shows = 0
+    tickets = 0
+    occ_num = 0.0
+    occ_den = 0
     for entry in api_data.get("movies", []):
         base = entry.get("movie", "").split(" [")[0]
         if normalize_title(base) in title_set:
@@ -222,7 +230,24 @@ def movie_gross_for_date(api_data, title_set):
             except (TypeError, ValueError):
                 continue
             count += 1
-    return total, count
+            try:
+                sh = int(float(entry.get("shows") or 0))
+            except (TypeError, ValueError):
+                sh = 0
+            shows += sh
+            try:
+                tickets += int(float(entry.get("sold") or 0))
+            except (TypeError, ValueError):
+                pass
+            try:
+                occ = float(entry.get("occupancy"))
+                if occ is not None and occ > 0:
+                    occ_num += occ * sh
+                    occ_den += sh
+            except (TypeError, ValueError):
+                pass
+    occupancy = (round(occ_num / occ_den, 1) if occ_den else None)
+    return total, count, shows or None, tickets or None, occupancy
 
 
 def build_daywise(movie_key, movie, end_date, date_cache):
@@ -248,7 +273,8 @@ def build_daywise(movie_key, movie, end_date, date_cache):
                   file=sys.stderr)
             d += dt.timedelta(days=1)
             continue
-        gross_inr, count = movie_gross_for_date(api_data, title_set)
+        gross_inr, count, shows, tickets, occupancy = \
+            movie_gross_for_date(api_data, title_set)
         if count == 0 or gross_inr <= 0:
             print(f"  [warn] {movie_key} {d}: no FNN entries "
                   f"(count={count}, gross={gross_inr}), skipped",
@@ -256,12 +282,19 @@ def build_daywise(movie_key, movie, end_date, date_cache):
             d += dt.timedelta(days=1)
             continue
         day_no = (d - day1).days + 1
-        rows.append({
+        row = {
             "day": day_no,
             "date": d.isoformat(),
             "collection_inr_cr": round(gross_inr / 1e7, 2),
             "source": SOURCE,
-        })
+        }
+        if shows is not None:
+            row["shows"] = shows
+        if tickets is not None:
+            row["tickets"] = tickets
+        if occupancy is not None:
+            row["occupancy_pct"] = occupancy
+        rows.append(row)
         d += dt.timedelta(days=1)
     return rows
 
@@ -378,3 +411,4 @@ def main(argv=None):
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

@@ -360,6 +360,23 @@ const UI = (() => {
       seen.add(r._day); return true;
     }).sort((a, b) => a._day - b._day).map(({ _day, ...r }) => ({ ...r, day: `Day ${_day}` }));
   }
+  /* Day-wise extras (owner order 2026-10-27): per-day overseas
+     (gross, USD), shows, occupancy % and tickets when a source reports
+     them. A column appears only when at least one row carries the
+     field; a day without the figure shows "—", never 0 and never a
+     guess. Total = India Net + Overseas where both exist for the day. */
+  function dwExtras(clean) {
+    const has = (k) => clean.some((r) => typeof r[k] === "number" && r[k] > 0);
+    return { overseas: has("overseas"), shows: has("shows"),
+             occupancy: has("occupancy"), tickets: has("tickets") };
+  }
+  function dwTotal(rw) {
+    if (typeof rw.overseas !== "number" || !(rw.overseas > 0)) return null;
+    return (rw.collection || 0) + rw.overseas;
+  }
+  function dwSum(clean, k) {
+    return clean.reduce((s, r) => s + (typeof r[k] === "number" && r[k] > 0 ? r[k] : 0), 0);
+  }
   function daywiseCard(rows, heading, opts) {
     if (!Array.isArray(rows) || !rows.length) return "";
     const o = opts || {};
@@ -371,22 +388,47 @@ const UI = (() => {
     const shown = clean.filter((rw, idx) => dayNumOf(rw, idx) <= 30);
     const capped = clean.length > shown.length;
     const totalAll = clean.reduce((s, r) => s + (r.collection || 0), 0);
+    const totalOvAll = dwSum(clean, "overseas");
+    const totalShowsAll = dwSum(clean, "shows");
+    const totalTicketsAll = dwSum(clean, "tickets");
+    const cols = dwExtras(clean);
+    const moneyCell = (v) => (typeof v === "number" && v > 0 ? fmtMoney(v) : "—");
+    const countCell = (v) => (typeof v === "number" && v > 0 ? v.toLocaleString("en-IN") : "—");
     const body = shown.map((rw, idx) => {
       const n = dayNumOf(rw, idx);
       const dayCell = o.titleId
         ? `<a href="/box-office-day?title=${encodeURIComponent(o.titleId)}&day=${n}"><b>${esc(rw.day || ("Day " + n))}</b></a>`
         : esc(rw.day || "");
-      return `<tr${o.highlight === n ? ' class="dw-hl"' : ""}><td>${esc(fmtDate(rw.date))}</td><td>${dayCell}</td><td><b>${fmtMoney(rw.collection)}</b></td></tr>`;
+      const tot = dwTotal(rw);
+      const cells = [`<td>${esc(fmtDate(rw.date))}</td><td>${dayCell}</td><td><b>${fmtMoney(rw.collection)}</b></td>`];
+      if (cols.overseas) cells.push(`<td>${moneyCell(rw.overseas)}</td>`, `<td>${tot !== null ? `<b>${fmtMoney(tot)}</b>` : "—"}</td>`);
+      if (cols.shows) cells.push(`<td>${countCell(rw.shows)}</td>`);
+      if (cols.occupancy) cells.push(`<td>${typeof rw.occupancy === "number" && rw.occupancy > 0 ? rw.occupancy.toFixed(1) + "%" : "—"}</td>`);
+      if (cols.tickets) cells.push(`<td>${countCell(rw.tickets)}</td>`);
+      return `<tr${o.highlight === n ? ' class="dw-hl"' : ""}>${cells.join("")}</tr>`;
     }).join("");
     if (!body && !capped) return "";
+    const footCells = () => {
+      const cells = [`<td>${esc(fmtDate(clean[clean.length - 1].date))}</td><td><b>Total collection till today</b></td><td><b>${fmtMoney(totalAll)}</b></td>`];
+      if (cols.overseas) cells.push(`<td><b>${fmtMoney(totalOvAll)}</b></td>`, `<td><b>${fmtMoney(totalAll + totalOvAll)}</b></td>`);
+      if (cols.shows) cells.push(`<td><b>${totalShowsAll.toLocaleString("en-IN")}</b></td>`);
+      if (cols.occupancy) cells.push("<td></td>");
+      if (cols.tickets) cells.push(`<td><b>${totalTicketsAll.toLocaleString("en-IN")}</b></td>`);
+      return cells;
+    };
     const foot = capped
-      ? `<tfoot><tr class="dw-total"><td>${esc(fmtDate(clean[clean.length - 1].date))}</td><td><b>Total collection till today</b></td><td><b>${fmtMoney(totalAll)}</b></td></tr></tfoot>`
+      ? `<tfoot><tr class="dw-total">${footCells().join("")}</tr></tfoot>`
       : "";
+    const headCells = ["<th>Date</th>", "<th>Day</th>", "<th>India Net</th>"];
+    if (cols.overseas) headCells.push("<th>Overseas</th>", "<th>Total</th>");
+    if (cols.shows) headCells.push("<th>Shows</th>");
+    if (cols.occupancy) headCells.push("<th>Occupancy</th>");
+    if (cols.tickets) headCells.push("<th>Tickets</th>");
     return `<div class="content-card"><h2>${esc(heading || "Day-Wise Box Office")}</h2>
       <div class="table-scroll"><table class="data">
-        <thead><tr><th>Date</th><th>Day</th><th>Collection</th></tr></thead>
+        <thead><tr>${headCells.join("")}</tr></thead>
         <tbody>${body}</tbody>${foot}</table></div>
-      <p class="prov-note">${industryContext === "bollywood" ? "Available dated collection records. Territory and gross/net basis are not supplied in this dataset; figures are not independently reconciled here." : "Day-wise worldwide collections, as reported by the FlickAtlas data engine."}${o.titleId ? " Open any day for its own collection page." : ""}</p></div>`;
+      <p class="prov-note">${industryContext === "bollywood" ? "India Net and overseas gross per day, as reported by the FlickAtlas data engine (multi-source average). Overseas is gross; the Total column adds India Net + overseas where both are reported for that day. Shows, occupancy and tickets are India figures where reported. A dash means the figure was not reported for that day — never estimated." : "Day-wise worldwide collections, as reported by the FlickAtlas data engine."}${o.titleId ? " Open any day for its own collection page." : ""}</p></div>`;
   }
 
   /* ---------- Freshness window (MASTER §7.6, correction round) ----------
@@ -579,21 +621,49 @@ const UI = (() => {
     const shown = clean.filter((rw, idx) => dayNumOf(rw, idx) <= 30);
     const capped = clean.length > shown.length;
     const totalAll = clean.reduce((s, r) => s + (r.collection || 0), 0);
+    const totalOvAll = dwSum(clean, "overseas");
+    const totalShowsAll = dwSum(clean, "shows");
+    const totalTicketsAll = dwSum(clean, "tickets");
+    const cols = dwExtras(clean);
+    const moneyCell = (v) => (typeof v === "number" && v > 0 ? fmtMoney(v) : "—");
+    const countCell = (v) => (typeof v === "number" && v > 0 ? v.toLocaleString("en-IN") : "—");
     let run = 0;
     const body = shown.map((rw, idx) => {
       run += rw.collection || 0;
       const n = dayNumOf(rw, idx);
-      return `<tr><td>${esc(fmtDate(rw.date))}</td><td><a href="/box-office-day?title=${encodeURIComponent(titleId)}&day=${n}"><b>${esc(rw.day || ("Day " + n))}</b></a></td><td><b>${fmtMoney(rw.collection)}</b></td><td>${fmtMoney(run)}</td></tr>`;
+      const tot = dwTotal(rw);
+      const cells = [`<td>${esc(fmtDate(rw.date))}</td><td><a href="/box-office-day?title=${encodeURIComponent(titleId)}&day=${n}"><b>${esc(rw.day || ("Day " + n))}</b></a></td><td><b>${fmtMoney(rw.collection)}</b></td>`];
+      if (cols.overseas) cells.push(`<td>${moneyCell(rw.overseas)}</td>`, `<td>${tot !== null ? `<b>${fmtMoney(tot)}</b>` : "—"}</td>`);
+      if (cols.shows) cells.push(`<td>${countCell(rw.shows)}</td>`);
+      if (cols.occupancy) cells.push(`<td>${typeof rw.occupancy === "number" && rw.occupancy > 0 ? rw.occupancy.toFixed(1) + "%" : "—"}</td>`);
+      if (cols.tickets) cells.push(`<td>${countCell(rw.tickets)}</td>`);
+      cells.push(`<td>${fmtMoney(run)}</td>`);
+      return `<tr>${cells.join("")}</tr>`;
     }).join("");
     if (!body && !capped) return "";
+    const footCells = () => {
+      const cells = [`<td>${esc(fmtDate(clean[clean.length - 1].date))}</td><td><b>Total collection till today</b></td><td><b>${fmtMoney(totalAll)}</b></td>`];
+      if (cols.overseas) cells.push(`<td><b>${fmtMoney(totalOvAll)}</b></td>`, `<td><b>${fmtMoney(totalAll + totalOvAll)}</b></td>`);
+      if (cols.shows) cells.push(`<td><b>${totalShowsAll.toLocaleString("en-IN")}</b></td>`);
+      if (cols.occupancy) cells.push("<td></td>");
+      if (cols.tickets) cells.push(`<td><b>${totalTicketsAll.toLocaleString("en-IN")}</b></td>`);
+      cells.push(`<td><b>${fmtMoney(totalAll)}</b></td>`);
+      return cells;
+    };
     const foot = capped
-      ? `<tfoot><tr class="dw-total"><td>${esc(fmtDate(clean[clean.length - 1].date))}</td><td><b>Total collection till today</b></td><td><b>${fmtMoney(totalAll)}</b></td><td><b>${fmtMoney(totalAll)}</b></td></tr></tfoot>`
+      ? `<tfoot><tr class="dw-total">${footCells().join("")}</tr></tfoot>`
       : "";
+    const headCells = ["<th>Date</th>", "<th>Day</th>", "<th>India Net</th>"];
+    if (cols.overseas) headCells.push("<th>Overseas</th>", "<th>Total</th>");
+    if (cols.shows) headCells.push("<th>Shows</th>");
+    if (cols.occupancy) headCells.push("<th>Occupancy</th>");
+    if (cols.tickets) headCells.push("<th>Tickets</th>");
+    headCells.push(`<th>${industryContext === "bollywood" ? "Recorded Sum" : "Total So Far"}</th>`);
     return `<div class="content-card"><h2>Daily Collection</h2>
       <div class="table-scroll"><table class="data">
-        <thead><tr><th>Date</th><th>Day</th><th>Collection</th><th>${industryContext === "bollywood" ? "Recorded Sum" : "Total So Far"}</th></tr></thead>
+        <thead><tr>${headCells.join("")}</tr></thead>
         <tbody>${body}</tbody>${foot}</table></div>
-      <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. Territory and gross/net basis are not specified in this data. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"}${capped ? " The Total collection till today line sums every recorded day, including days past Day 30." : ""} — open any day for its own collection page.</p></div>`;
+      <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. India Net and overseas gross per day; the Total column adds both where reported. Shows, occupancy and tickets are India figures where reported; a dash means not reported for that day. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"}${capped ? " The Total collection till today line sums every recorded day, including days past Day 30." : ""} — open any day for its own collection page.</p></div>`;
   }
 
   function posterCard(item, type, tag, rank, extraMeta) {
@@ -786,6 +856,7 @@ const UI = (() => {
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 
