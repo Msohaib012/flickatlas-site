@@ -61,7 +61,6 @@
       String(b.published_at || "").localeCompare(String(a.published_at || "")));
     return cands.slice(0, 6);
   };
-  const similarHeading = titleDate(pub) && titleDate(pub) > TMDB.today() ? "Similar Upcoming" : "Similar Movies";
 
   /* Related News — articles whose PRIMARY entity (entities.titles[0])
      is this title. Match: exact name, substring (min 6 chars), or a
@@ -110,6 +109,12 @@
     UI.setSEO({ title: "Title Not Published | FlickAtlas", desc: "This movie hasn't been published on FlickAtlas yet. Browse published movies instead.", path: "/movie", noindex: true });
     return;
   }
+
+  /* Similar heading — must be AFTER the pub lookup above: it reads
+     pub.release_date, and pub is declared there. (Was defined before
+     the lookup, which threw "Cannot access 'pub' before initialization"
+     and killed the whole page on its loading skeleton.) */
+  const similarHeading = titleDate(pub) && titleDate(pub) > TMDB.today() ? "Similar Upcoming" : "Similar Movies";
 
   try {
     const title = UI.titleOf(pub);
