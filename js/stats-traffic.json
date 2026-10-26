@@ -1,27 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-10-26T16:59:04Z",
+  "generated": "2026-10-26T17:57:22Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
-    "users": 9,
-    "pageviews": 134,
-    "sessions": 20,
-    "avg_session_seconds": 636.7
+    "users": 12,
+    "pageviews": 147,
+    "sessions": 26,
+    "avg_session_seconds": 598.5
   },
   "last7": {
-    "users": 9,
-    "pageviews": 134,
-    "sessions": 20,
-    "avg_session_seconds": 636.7
+    "users": 12,
+    "pageviews": 147,
+    "sessions": 26,
+    "avg_session_seconds": 598.5
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 46,
-      "avg_time_seconds": 814.5
+      "views": 51,
+      "avg_time_seconds": 793.6
+    },
+    {
+      "path": "/movie",
+      "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
+      "views": 18,
+      "avg_time_seconds": 232.0
     },
     {
       "path": "/news-item",
@@ -30,22 +36,22 @@
       "avg_time_seconds": 28.8
     },
     {
-      "path": "/movie",
-      "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 25.2
-    },
-    {
       "path": "/movies",
       "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 14.4
+      "views": 11,
+      "avg_time_seconds": 13.3
     },
     {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
       "views": 9,
       "avg_time_seconds": 10.3
+    },
+    {
+      "path": "/flickatlas-site/",
+      "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
+      "views": 9,
+      "avg_time_seconds": 5.4
     },
     {
       "path": "/episode-guides",
@@ -60,16 +66,10 @@
       "avg_time_seconds": 27.9
     },
     {
-      "path": "/flickatlas-site/",
-      "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 6,
-      "avg_time_seconds": 7.8
-    },
-    {
       "path": "/news",
       "title": "Industry News & Updates — Releases, Box Office Milestones & Premieres | FlickAtlas",
-      "views": 4,
-      "avg_time_seconds": 3.4
+      "views": 5,
+      "avg_time_seconds": 9.5
     },
     {
       "path": "/box-office",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 20,
-      "users": 9
+      "sessions": 26,
+      "users": 12
     },
     {
       "source": "(not set)",
@@ -95,7 +95,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 4
+      "users": 6
     },
     {
       "country": "",
@@ -116,16 +116,20 @@
     {
       "country": "Sweden",
       "users": 1
+    },
+    {
+      "country": "United Kingdom",
+      "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 6
+      "users": 8
     },
     {
       "device": "mobile",
-      "users": 3
+      "users": 4
     }
   ],
   "per_post": {}
