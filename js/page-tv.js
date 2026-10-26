@@ -1,5 +1,5 @@
 /* FlickAtlas — TV & Web Series hub with §4 filter chips: All (mixed) ·
-   Bollywood · US Films · Lollywood · This Year · Top Rated +
+   Bollywood · World Cinema · US Films · Lollywood · This Year · Top Rated +
    a Genre select. Chips are ?f= URL-param filters over the loaded pool.
    PUBLISHED-ONLY (2026-10-25 rebuild): every show comes from
    window.FA_PUBLISHED — TMDB is a data source, not a catalogue, so
@@ -17,7 +17,7 @@
     path: "/tv"
   });
 
-  const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["hollywood", "US Films"],
+  const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["international", "World Cinema"], ["hollywood", "US Films"],
     ["lollywood", "Lollywood"], ["year", "This Year"], ["top", "Top Rated"]];
   let f = UI.getParam("f", "all");
   if (!FILTERS.some(([k]) => k === f)) f = "all";
@@ -80,6 +80,7 @@
     const year = String(new Date().getFullYear());
     const items = pool.filter(x => {
       if (f === "bollywood" && x.industry !== "bollywood") return false;
+      if (f === "international" && x.industry !== "world") return false;
       if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
       if (f === "lollywood" && x.industry !== "pakistani") return false;
       if (f === "year" && (x.first_air_date || "").slice(0, 4) !== year) return false;
@@ -115,4 +116,5 @@
 
   render();
 })();
+
 

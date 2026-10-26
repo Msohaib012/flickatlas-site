@@ -1,5 +1,9 @@
 /* FlickAtlas — Most Awaited hub (/most-awaited): the single most awaited
-   upcoming title. PUBLISHED-ONLY (2026-10-25 rebuild): the pick comes
+   upcoming title. Industry chips (All · Bollywood · World Cinema) mirror
+   the homepage "Coming Soon & Most Awaited" rail's industry switcher —
+   the rail's two options plus All (the page default). Chips are plain
+   links; the page reads ?f= on load, so no extra wiring is needed.
+   PUBLISHED-ONLY (2026-10-25 rebuild): the pick comes
    from window.FA_PUBLISHED entries whose release/air date is in the
    future — TMDB is a data source, not a catalogue, so nothing is fetched
    live (no FAMostAwaited, no TMDB upcoming/discover fallback). Published
@@ -18,6 +22,7 @@
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Most Awaited</h1>
       <p>The single most awaited upcoming title among published titles.</p></div>
+    <div id="chipHost">${UI.chipRow([["all", "All"], ["bollywood", "Bollywood"], ["international", "World Cinema"]], f, "all")}</div>
     <p class="fcount" id="fcount" aria-live="polite">Loading the most awaited title…</p>
     <div class="grid" id="grid">${UI.skelCards(1)}</div>
     <div id="detailHost"></div>
@@ -75,3 +80,4 @@
     <p><a class="btn btn-teal" href="${detailHref}">Open full details →</a></p>
     <p class="prov-note">The most awaited upcoming title among published titles on FlickAtlas.</p></div>`;
 })();
+
