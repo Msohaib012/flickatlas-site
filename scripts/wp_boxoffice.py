@@ -41,6 +41,14 @@ Spike-tested 2026-10-26. Parse patterns found:
   * TrackTollywood: no day-wise rows — articles give territory GROSS
     splits + worldwide total only.
 
+BollyMovieReviewz REVIEW articles ("<Title> Review", no "Box Office"
+in the title) are also read: the "Average Ratings: X/5" line (mean of
+the listed critic ratings, verified 2026-10-27: Udta Teer 3.18/5,
+Pehla Pyaar 2.92/5, Nayyi Navelli 2.28/5) is extracted and written
+with --reviews-out (out/bmr-reviews.json) as grounding for the
+FlickAtlas review generator (scripts/gemini_reviews.py). Review
+articles never produce box-office rows.
+
 Day-1 anchors below are Sacnilk's live Day 1 dates (from
 js/daywise-data.js, verified 2026-10-26) — NOT TMDB release_date, which
 can be a day off (Jailer 2: TMDB 14 Oct, Sacnilk Day 1 15 Oct).
@@ -51,6 +59,7 @@ import datetime as dt
 import html as htmlmod
 import http.cookiejar
 import json
+import os
 import re
 import sys
 import time
@@ -300,6 +309,30 @@ def parse_bmr(html_text, day1_anchor):
     return rows, ("" if rows else "no day-wise section found")
 
 
+def parse_bmr_review(html_text):
+    """BollyMovieReviewz review article: the "Average Ratings: X/5" line
+    (mean of the listed critic ratings) plus "Reviews Counted: N".
+    Layout (verified 2026-10-27): the label sits on its own line and the
+    value on the NEXT line ("Average Ratings:" / "3.18/5"). The per-critic
+    "Ratings:" blocks below are individual scores, not the average —
+    only the "Average Ratings" pair counts. Returns
+    {"score_5": float, "count": int|None} or None."""
+    lines = textify(html_text)
+    for i, ln in enumerate(lines):
+        if ln.strip().rstrip(":").lower() == "average ratings":
+            if i + 1 < len(lines):
+                m = re.match(r"([\d.]+)\s*/\s*5\s*$", lines[i + 1].strip())
+                if m:
+                    count = None
+                    for extra in lines[i + 2:i + 8]:
+                        cm = re.match(r"Reviews Counted:\s*(\d+)", extra)
+                        if cm:
+                            count = int(cm.group(1))
+                            break
+                    return {"score_5": float(m.group(1)), "count": count}
+    return None
+
+
 def parse_tt(html_text):
     """TrackTollywood: no day-wise table exists — articles report territory
     GROSS splits + worldwide total only. Returns [] (with a reason)."""
@@ -309,7 +342,7 @@ def parse_tt(html_text):
     return [], "no day-wise rows (milestone/total article: territory gross + worldwide total only)"
 
 
-def process_site(site, out, report):
+def process_site(site, out, report, reviews=None):
     sid = site["id"]
     log("[%s] fetching RSS %s" % (sid, site["rss"]))
     try:
@@ -320,6 +353,44 @@ def process_site(site, out, report):
     items = parse_rss(xml)
     report[sid]["feed_items"] = len(items)
     for item in items:
+        # BollyMovieReviewz REVIEW articles: critic average only, never
+        # box-office rows (see parse_bmr_review).
+        if (sid == "bollymoviereviewz" and reviews is not None
+                and "review" in item["title"].lower()
+                and "box office" not in item["title"].lower()):
+            movie = identify_movie(item["title"])
+            if not movie:
+                report[sid]["skipped"].append(
+                    {"title": item["title"][:90],
+                     "reason": "review: movie not in TITLE_MAP"})
+                continue
+            tmdb_id, _day1 = movie
+            time.sleep(SLEEP)
+            try:
+                html_text = fetch(item["link"])
+            except Exception as e:
+                report[sid]["skipped"].append(
+                    {"title": item["title"][:90],
+                     "reason": "review fetch failed: %s" % e})
+                continue
+            found = parse_bmr_review(html_text)
+            if found:
+                reviews[tmdb_id] = {
+                    "score_5": found["score_5"],
+                    "score_10": round(found["score_5"] * 2, 1),
+                    "count": found["count"],
+                    "url": item["link"],
+                }
+                report[sid]["reviews"].append(
+                    {"title": item["title"][:90], "tmdb_id": tmdb_id,
+                     "score_5": found["score_5"]})
+                log("[%s] review %s -> %s (BMR %s/5)"
+                    % (sid, item["title"][:60], tmdb_id, found["score_5"]))
+            else:
+                report[sid]["skipped"].append(
+                    {"title": item["title"][:90],
+                     "reason": "review article: no Average Ratings found"})
+            continue
         ok, why = is_box_office(sid, item)
         if not ok:
             report[sid]["skipped"].append(
@@ -377,6 +448,11 @@ def main():
                          "(<DIR>/<source-id>.json, one per site) for the "
                          "multi-source averaging engine; deterministic "
                          "(only writes when changed)")
+    ap.add_argument("--reviews-out", default=None, metavar="PATH",
+                    help="also write BollyMovieReviewz critic averages "
+                         "(<tmdb_id> -> {score_5, score_10, count, url}) "
+                         "for the review generator; deterministic (only "
+                         "writes when changed)")
     ap.add_argument("--no-sleep", action="store_true",
                     help="skip inter-request sleeps (testing only)")
     args = ap.parse_args()
@@ -384,13 +460,14 @@ def main():
     if args.no_sleep:
         SLEEP = 0
 
-    out, report = {}, {}
+    out, report, reviews = {}, {}, {}
     for site in SITES:
         if args.site and site["id"] != args.site:
             continue
         report[site["id"]] = {"feed_items": 0, "box_office_items": 0,
-                              "rows": 0, "parsed": [], "skipped": []}
-        process_site(site, out, report)
+                              "rows": 0, "parsed": [], "skipped": [],
+                              "reviews": []}
+        process_site(site, out, report, reviews)
 
     for tid in out:
         out[tid] = sorted(out[tid], key=lambda r: r["day"])
@@ -430,8 +507,26 @@ def main():
                 log("staging %s unchanged" % stage_path)
 
     print(json.dumps({"data": out, "report": report}, indent=2))
+    if args.reviews_out:
+        # BMR critic averages for the review generator: deterministic
+        # (sorted keys, no timestamps) so an unchanged file never
+        # triggers a spurious pipeline commit.
+        content = json.dumps(reviews, ensure_ascii=False, indent=2,
+                             sort_keys=True) + "\n"
+        existing = ""
+        if os.path.exists(args.reviews_out):
+            with open(args.reviews_out, encoding="utf-8") as f:
+                existing = f.read()
+        if existing != content:
+            with open(args.reviews_out, "w", encoding="utf-8") as f:
+                f.write(content)
+            log("wrote %s (%d review score(s))"
+                % (args.reviews_out, len(reviews)))
+        else:
+            log("%s unchanged" % args.reviews_out)
     log("\nWrote %s" % args.out)
 
 
 if __name__ == "__main__":
     main()
+

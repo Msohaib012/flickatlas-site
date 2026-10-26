@@ -1899,3 +1899,25 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
   .news-slide-title{font-size:1.15rem}
 }
 
+
+
+/* Movie reviews (Movies Flare format) — js/page-movie.js #movie-reviews */
+#movie-reviews h3{margin:18px 0 8px}
+.rv-head{display:flex;align-items:center;gap:14px;margin-bottom:14px}
+.rv-overall{display:flex;align-items:baseline;gap:6px;background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:10px 16px}
+.rv-star{color:var(--gold);font-size:1.5rem;line-height:1}
+.rv-overall b{font-size:1.7rem;line-height:1}
+.rv-overall small{font-size:.95rem;color:var(--muted)}
+.rv-head-txt{display:flex;flex-direction:column;gap:2px}
+.rv-head-txt b{font-size:1.05rem}
+.rv-head-txt span{color:var(--muted);font-size:.85rem}
+.rv-cats{display:flex;flex-direction:column;gap:8px;margin:4px 0 6px}
+.rv-row{display:grid;grid-template-columns:190px 1fr 52px;align-items:center;gap:10px;font-size:.92rem}
+.rv-bar{display:block;height:8px;border-radius:99px;background:var(--line);overflow:hidden}
+.rv-bar i{display:block;height:100%;background:var(--teal);border-radius:99px}
+.rv-row b{text-align:right}
+.rv-list{margin:0;padding-left:18px}
+.rv-list li{margin:4px 0}
+.rv-sw{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
+.rv-sw h3{margin-top:14px}
+@media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}

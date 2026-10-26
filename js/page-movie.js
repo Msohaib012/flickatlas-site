@@ -247,6 +247,54 @@
     const castTop = cast.slice(0, 12);
     const castRest = cast.slice(12, 30);
 
+    /* Reviews (Movies Flare format): a full review from FA_REVIEWS —
+       the Movies Flare seed for Udta Teer, a FlickAtlas Review for the
+       rest — plus the TMDB audience score and the BollyMovieReviewz
+       critic average where they exist. No entry -> no section at all
+       (the slot stays empty, never a made-up score). */
+    const fmtScore = (v) => {
+      const n = Number(v);
+      if (!Number.isFinite(n)) return "";
+      return (Math.round(n * 10) / 10).toString().replace(/\.0$/, "");
+    };
+    const review = (window.FA_REVIEWS || {})[String(id)] || null;
+    const reviewsHtml = (() => {
+      if (!review) return "";
+      const cats = review.categories || {};
+      const catRows = Object.entries(cats).map(([label, score]) => {
+        const pct = Math.max(0, Math.min(100, Number(score) * 10));
+        return `<div class="rv-row"><span>${UI.esc(label)}</span><span class="rv-bar"><i style="width:${pct}%"></i></span><b>${UI.esc(fmtScore(score))}/10</b></div>`;
+      }).join("");
+      const srcLabel = review.source === "Movies Flare" ? "Movies Flare Rating" : "FlickAtlas Review";
+      const tmdbLine = (pub.vote_average && Number(pub.vote_average) > 0)
+        ? `TMDB audience: <b>${UI.esc(fmtScore(pub.vote_average))}/10</b>${pub.vote_count ? ` (${Number(pub.vote_count).toLocaleString("en-US")} votes)` : ""}` : "";
+      const critic = review.critic || null;
+      const criticLine = critic
+        ? `BollyMovieReviewz critic average: <b>${UI.esc(fmtScore(critic.score_10))}/10</b> (${UI.esc(critic.raw || "")}${critic.count ? `, ${critic.count} critics` : ""})` : "";
+      const scoreNotes = [tmdbLine, criticLine].filter(Boolean).join(" · ");
+      const srcNote = review.source === "Movies Flare"
+        ? "Review by Movies Flare — scores and text from their Udta Teer review carousel."
+        : "FlickAtlas's own review, written from the film's story, cast and genres and what reviewers are saying online.";
+      const strengths = Array.isArray(review.strengths) ? review.strengths.filter(Boolean) : [];
+      const swHtml = (strengths.length || review.weaknesses) ? `<div class="rv-sw">
+        ${strengths.length ? `<div><h3>Strengths</h3><ul class="rv-list">${strengths.map(s => `<li>${UI.esc(s)}</li>`).join("")}</ul></div>` : ""}
+        ${review.weaknesses ? `<div><h3>Weaknesses</h3><p>${UI.esc(review.weaknesses)}</p></div>` : ""}
+      </div>` : "";
+      return `<div class="content-card" id="movie-reviews"><h2>Reviews</h2>
+      <div class="rv-head">
+        <div class="rv-overall"><span class="rv-star">★</span><b>${UI.esc(fmtScore(review.overall))}<small>/10</small></b></div>
+        <div class="rv-head-txt"><b>${UI.esc(srcLabel)}</b><span>Overall rating · Source: ${UI.esc(review.source || "")}</span></div>
+      </div>
+      ${catRows ? `<div class="rv-cats">${catRows}</div>` : ""}
+      ${review.story_plot ? `<h3>Story &amp; Plot</h3><p>${UI.esc(review.story_plot)}</p>` : ""}
+      ${review.comedy ? `<h3>Comedy &amp; Entertainment</h3><p>${UI.esc(review.comedy)}</p>` : ""}
+      ${review.performances ? `<h3>Performances &amp; Direction</h3><p>${UI.esc(review.performances)}</p>` : ""}
+      ${swHtml}
+      ${review.verdict ? `<h3>Final Verdict</h3><p>${UI.esc(review.verdict)}</p>` : ""}
+      ${scoreNotes ? `<p class="prov-note">${scoreNotes}</p>` : ""}
+      <p class="prov-note">${UI.esc(srcNote)}</p></div>`;
+    })();
+
     main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/movies">← Movies</a></p>
     <section class="detail-hero">
@@ -265,6 +313,8 @@
     ${daywiseSection}
 
     ${pub.overview ? `<div class="content-card" id="story-summary"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
+
+    ${reviewsHtml}
 
     ${(pub.budget || pub.revenue) ? `<div class="content-card"><h2>Box Office</h2>
       <div class="bo-verdict-card"><div class="bo-nums">
@@ -378,6 +428,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 
