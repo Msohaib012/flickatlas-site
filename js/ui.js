@@ -592,6 +592,10 @@ const UI = (() => {
     const p = img(item.poster_path, "w342");
     const r = rating(item);
     const title = titleOf(item);
+    /* Card date (user order 2026-10-26): show the full release/air date
+       ("30 October 2026"), not just the year — falls back to the year
+       when no full date is stored. */
+    const cardDate = fmtDate(item.release_date || item.first_air_date) || yearOf(item);
     return `<a class="card" href="${href}">
       <span class="card-poster">${p
         ? `<img src="${p}" alt="${esc(title)} poster" loading="lazy" decoding="async" onerror="this.remove()">`
@@ -599,7 +603,7 @@ const UI = (() => {
       ${rank ? `<span class="rank-badge">${rank}</span>` : ""}
       ${r ? `<span class="rate-badge">${star}${r}/10</span>` : ""}</span>
       <span class="card-body"><span class="card-title">${esc(title)}</span>
-      <span class="card-meta">${esc(yearOf(item))}${item.media_type || t ? ` · ${t === "tv" ? "TV" : "Movie"}` : ""}${tag ? ` · ${esc(tag)}` : ""}</span>
+      <span class="card-meta">${esc(cardDate)}${item.media_type || t ? ` · ${t === "tv" ? "TV" : "Movie"}` : ""}${tag ? ` · ${esc(tag)}` : ""}</span>
       ${extraMeta ? `<span class="card-extra-meta">${esc(extraMeta)}</span>` : ""}</span>
     </a>`;
   }
@@ -739,6 +743,7 @@ const UI = (() => {
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 
