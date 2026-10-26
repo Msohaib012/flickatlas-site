@@ -1,0 +1,76 @@
+name: Episode guides (YouTube tracker)
+# Track B of the two-track seeder (owner-approved 2026-10-26): Pakistani
+# dramas on YouTube (HUM TV, ARY Digital, Har Pal Geo, Green TV).
+#   scripts/episode-guides.py — detects new full episodes (YouTube Data
+#   API search per channel, RSS fallback), writes an INFO POST for every
+#   new episode the same day (no AI) into js/articles-data.js, and adds
+#   an AI story summary (Gemini fileData) GRADUALLY to the top 1-2
+#   episodes/day picked by VIEWS. State + backlog in out/episodes.json.
+#   A run that finds no new episodes commits nothing and deploys nothing.
+# Requires repo secret YOUTUBE_DATA_API_KEY for primary detection
+# (without it the script falls back to RSS, which lists zero full
+# episodes — see the script header). TMDB_API_KEY optional (falls back
+# to js/config.js); GEMINI_API_KEY_1..6 for summaries (info posts work
+# without them).
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  episodes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Track YouTube episodes (info posts + summaries)
+        env:
+          YOUTUBE_DATA_API_KEY: ${{ secrets.YOUTUBE_DATA_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          SUMMARY_PER_RUN: '1'
+          EPISODE_LOOKBACK_HOURS: '48'
+        run: python3 scripts/episode-guides.py
+      - name: Rebuild news feed (episode posts reach /api/news)
+        run: |
+          python3 scripts/convert-news.py || echo "feed rebuild failed, continuing"
+      - name: Bump asset version when articles changed
+        run: |
+          # Browsers cache static assets immutably per ?v= URL, so new
+          # episode posts behind the same ?v= would keep serving the old
+          # file. Bump ?v= only when the articles file actually changed.
+          if git diff --quiet js/articles-data.js; then
+            echo "articles unchanged, keeping ?v="
+          else
+            NEWV="fa-$(date -u +%Y%m%d%H%M)"
+            echo "bumping ?v= to $NEWV"
+            find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
+          fi
+      - name: Commit if changed
+        run: |
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
+          git add js/articles-data.js api-news.json api-trends.json
+          # out/ state files may not exist yet on the first run; git add
+          # fails on a missing pathspec, so add them one at a time.
+          for f in out/episodes.json out/episode-feed.json; do
+            [ -f "$f" ] && git add "$f"
+          done
+          git add -A -- '*.html'
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: episode guides $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi
