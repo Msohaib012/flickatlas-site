@@ -1847,3 +1847,42 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .ms-rank{flex:none;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:var(--soft);color:var(--teal-dark);font-size:.82rem;font-weight:800}
 .ms-amt{flex:none;margin-left:auto;text-align:right;white-space:nowrap}
 .ms-amt .fa-money{white-space:nowrap}
+
+/* ---------- News slider REFINE (owner spec 2026-10-26) ----------
+   Overrides the base .news-slider rules (merged AFTER them in
+   css/style.css, same specificity, so these win). Changes:
+   - LANDSCAPE card: image LEFT (~42%), title + date RIGHT.
+   - LIGHT mode, explicit colours: white card, dark title, muted date.
+   - Visually SEPARATE from the dark hero above: clear top margin,
+     distinct border, soft shadow.
+   - Stays horizontal on very narrow screens (image shrinks to 36%,
+     never stacks vertically).
+   Arrows stay on the card edges, vertically centred (prev over the
+   image's left edge, next over the body's right edge); both are white
+   circles, so they read cleanly on either side. Dots unchanged. */
+
+#homeNewsSlider{margin-top:10px}
+
+.news-slider{background:#FFFFFF;border:1px solid #D8E4E1;box-shadow:0 6px 24px rgba(16,32,30,.08)}
+
+.news-slide{min-height:150px}
+.news-slide.active{display:flex;align-items:stretch}
+
+.news-slide-img{flex:0 0 42%;aspect-ratio:auto;min-height:100%;overflow:hidden;background:#EAF2F0}
+.news-slide-img img{display:block;width:100%;height:100%;object-fit:cover}
+
+.news-slide-body{flex:1 1 auto;min-width:0;display:flex;flex-direction:column;justify-content:center;padding:16px 18px}
+.news-slide-title{color:#10201E}
+.news-slide-meta{color:#5B6B68}
+
+@media (min-width:700px){
+  .news-slide{min-height:180px}
+  .news-slide-body{padding:20px 24px}
+  .news-slide-title{font-size:1.15rem}
+}
+
+@media (max-width:379px){
+  .news-slide-img{flex-basis:36%}
+  .news-slide-body{padding:12px 14px}
+  .news-slide-title{font-size:.98rem}
+}

@@ -304,30 +304,35 @@
       <div class="section-head"><h2>Latest News</h2>
       <a class="see-all" href="/news">See All →</a></div>
       <div class="sk" style="height:230px;border-radius:14px"></div></section>`;
-    /* News slider renderer: newest 5 items from the shared /api/news
-       fetch, image from window.FA_ARTICLES (already loaded; every
-       /api/news id has a matching FA_ARTICLES entry with an images
-       array). Carousel mirrors the hero: show/hide slides, dots jump,
-       prev/next arrows, auto-advance every 6s, pause on hover, touch
-       swipe. Items without an image are skipped; with < 2 slides the
-       controls and timer are omitted. */
+    /* News slider renderer (owner spec 2026-10-26): BOLLYWOOD + CELEBRITY
+       only, newest 8, LANDSCAPE cards (image left, title + date right),
+       LIGHT card — visually separate from the dark hero above. Items
+       from the shared /api/news fetch; image from window.FA_ARTICLES
+       (already loaded; every /api/news id has a matching FA_ARTICLES
+       entry with an images array). Carousel mirrors the hero: show/hide
+       slides, dots jump, prev/next arrows, auto-advance every 6s, pause
+       on hover, touch swipe. Items without an image are skipped; with
+       < 2 slides the controls and timer are omitted. */
     const renderNewsSlider = (arts) => {
       const host = document.getElementById("homeNewsSlider");
       if (!host) return;
       const fa = window.FA_ARTICLES || {};
-      const slides = arts.map(it => {
+      const slides = arts.filter(it => {
+        const cats = Array.isArray(it.cats) ? it.cats : [];
+        return cats.includes("bollywood") || cats.includes("celebrity");
+      }).map(it => {
         const art = fa[it.id] || {};
         const imgs = Array.isArray(art.images) ? art.images : [];
         const img = imgs.length && imgs[0] && imgs[0].url ? String(imgs[0].url) : "";
         return { it, img };
-      }).filter(x => x.img).slice(0, 5);
+      }).filter(x => x.img).slice(0, 8);
       if (!slides.length) { host.remove(); return; }
       host.innerHTML = `<div class="section-head"><h2>Latest News</h2>
         <a class="see-all" href="/news">See All →</a></div>
         <div class="news-slider" id="newsSlider">
           <div class="news-slider-viewport">${slides.map(({ it, img }, i) => {
             const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
-            return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
+            return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "flex" : "none"}">
               <span class="news-slide-img"><img src="${UI.esc(img)}" alt="" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" onerror="this.style.display='none'"></span>
               <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
               ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
@@ -348,7 +353,7 @@
         els[cur].classList.remove("active"); els[cur].style.display = "none";
         if (dots[cur]) dots[cur].classList.remove("on");
         cur = (n + els.length) % els.length;
-        els[cur].classList.add("active"); els[cur].style.display = "block";
+        els[cur].classList.add("active"); els[cur].style.display = "flex";
         if (dots[cur]) dots[cur].classList.add("on");
       };
       const start = () => { timer = setInterval(() => go(cur + 1), 6000); };
@@ -630,6 +635,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
