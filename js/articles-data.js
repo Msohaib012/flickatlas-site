@@ -1442,5 +1442,330 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 10:51:54 +0530"
+  },
+  "jly4tm": {
+    "id": "jly4tm",
+    "type": "news",
+    "headline": "Ramayana Advance Booking Generates Massive Early Momentum with Rs 20 Crore in Global Pre-Sales",
+    "dek": "The highly anticipated mythological drama starring Ranbir Kapoor and Yash has crossed Rs 20.50 crore in worldwide advance gross ahead of its November global release.",
+    "body": [
+      {
+        "h": "Global Pre-Sales Surge Past Key Milestone",
+        "p": [
+          "The upcoming theatrical spectacle Ramayana has officially surpassed the Rs 20 crore mark in global advance bookings. Eagerness for the ambitious project has translated into strong early numbers across international territories.",
+          "Reports indicate that the production has accumulated roughly Rs 20.50 crore globally in advance gross earnings. This robust tally accounts for both opening day commitments and prepaid preview screenings scheduled ahead of the formal premiere.",
+          "With ticket sales crossing 2.25 lakh worldwide by Monday, October 26, the mythological drama demonstrates formidable pulling power in overseas markets long before domestic previews kick off."
+        ]
+      },
+      {
+        "h": "High Stakes and Festive Release Timing",
+        "p": [
+          "Positioned as one of the most prominent cinematic releases of 2026, the Nitesh Tiwari directorial is slated to arrive during the festive Diwali week. The global rollout is scheduled for November 5.",
+          "The feature carries immense financial weight, being mounted on a massive multi-thousand crore budget that encompasses both the current installment and its planned sequel. Producers intend to deliver an uncompromised premium theatrical presentation.",
+          "Audiences will be able to experience the title across multiple advanced formats including 2D, 3D, IMAX 3D, 4DX 3D, and 3D Screen X. Furthermore, the project will be distributed in Hindi, Tamil, Kannada, Telugu, Malayalam, and English."
+        ]
+      },
+      {
+        "h": "Negotiations and Booking Dynamics in India",
+        "p": [
+          "While international markets secured early access, advance ticket sales inside India faced specific procedural roadblocks. The domestic window opened following Dussehra on October 20 after initial friction was addressed.",
+          "Reports pointed to a disagreement between distributors and exhibitors regarding revenue-sharing terms. Distributors reportedly requested a 60 percent share for the opening week, scaling down to 50 percent in the second week and 40 percent in the third week.",
+          "These requested figures exceed standard industry practices for major blockbusters, which typically feature a 52.5 percent distributor share for the first week. Consequently, concerned exhibitors engaged in ongoing negotiations to finalize terms."
+        ]
+      },
+      {
+        "h": "Premium Pricing and Starcast Appeal",
+        "p": [
+          "Ticket pricing for the feature has sparked significant public discussion, particularly in major metro areas. Premium multiplexes and select theaters are witnessing houseful trends despite pricing reaching up to Rs 3000 per seat.",
+          "The ensemble cast brings together major industry names including Ranbir Kapoor, Yash, Sai Pallavi, Sunny Deol, Ravi Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta.",
+          "Production duties for the massive venture are handled by Namit Malhotra’s Prime Focus Studios alongside Yash’s Monster Mind Creations, uniting prominent creative forces for the mythological adaptation."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is scheduled for release on November 5, 2026.",
+      "Worldwide advance gross has crossed Rs 20.50 crore.",
+      "Around 2.25 lakh tickets have been sold globally by October 26, 2026.",
+      "Advance bookings in India opened on Dussehra, October 20, 2026.",
+      "Prepaid previews are scheduled for November 4, 2026.",
+      "Ticket prices in premium metro multiplexes have reached up to Rs 3000."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Namit Malhotra",
+        "Tanmayi Savadi"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156406750,thumbsize-647621,width-1280,height-720,resizemode-75/156406750.jpg",
+        "caption": "Ramayana Advance Booking Generates Massive Early Momentum with Rs 20 Crore in Global Pre-Sales",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T07:07:50Z"
+  },
+  "kv6uyv": {
+    "id": "kv6uyv",
+    "type": "news",
+    "headline": "Yash's Monster Mind Creations Takes Charge of Karnataka Theatrical Distribution for Ranbir Kapoor-Starrer Ramayana",
+    "dek": "Actor Yash is expanding his participation in Nitesh Tiwari's upcoming mythological epic Ramayana beyond his on-screen role and co-production duties, with his banner taking responsibility for the film's regional release in Karnataka.",
+    "body": [
+      {
+        "h": "Expanding Creative and Business Footprint",
+        "p": [
+          "Renowned actor Yash is taking on a much larger responsibility for the highly anticipated cinematic adaptation Ramayana. Aside from portraying the pivotal character of Ravana and serving as a co-producer, the star is stepping directly into regional distribution through his very own production banner, Monster Mind Creations.",
+          "The establishment of a dedicated distribution wing within his company represents a major milestone for the enterprise. Rather than simply relying on outside distributors for his home state, Yash has positioned his banner at the absolute center of the Karnataka release strategy, demonstrating a hands-on approach to the film's commercial journey."
+        ]
+      },
+      {
+        "h": "Leveraging Star Power in the Regional Market",
+        "p": [
+          "With a massive, dedicated fan following throughout Karnataka and across the rest of the country, Yash commands considerable influence at the box office. His company taking over local distribution is expected to be a deciding factor in how successfully the project rolls out across cinema halls in the region.",
+          "This strategic alignment guarantees that local audiences will experience a well-orchestrated rollout. The arrangement ensures that the star's immense regional popularity directly supports the overarching marketing and distribution framework established for the epic drama."
+        ]
+      },
+      {
+        "h": "An Ambitious Two-Part Mythological Undertaking",
+        "p": [
+          "At the helm of this massive cinematic project is director Nitesh Tiwari, widely recognized for his work on acclaimed films such as Dangal and Chhichhore. The production is structured as a sweeping two-part cinematic adaptation inspired by the timeless Indian epic.",
+          "The production scale matches the mythological scope of the narrative, relying heavily on cutting-edge visual effects and detailed production design. Jointly backed by Prime Focus Studios and Monster Mind Creations, the venture is designed to deliver a grand theatrical spectacle across multiple languages."
+        ]
+      },
+      {
+        "h": "A Power-Packed Ensemble Cast",
+        "p": [
+          "The film features a colossal ensemble cast that brings together prominent faces from various major film industries. Ranbir Kapoor steps into the sacred role of Lord Rama, while Sai Pallavi portrays Sita.",
+          "Additionally, veteran actor Sunny Deol joins the lineup as Lord Hanuman, alongside Yash rounding out the primary antagonists as Ravana. This star-studded casting choice is intended to broaden the appeal of the project across diverse demographic segments."
+        ]
+      },
+      {
+        "h": "A Comprehensive Domestic and Global Network",
+        "p": [
+          "While Monster Mind Creations anchors the distribution in Karnataka, a complex network of established industry partners has been assembled to handle other vital territories. Sony Pictures has secured the international distribution rights, ensuring a broad overseas footprint.",
+          "Within India, distribution responsibilities are divided among heavyweights. Dharma Productions oversees Hindi-speaking markets in North India, producer Dil Raju manages Andhra Pradesh and Telangana, Think Studios takes charge of Tamil Nadu, and E4 Entertainment, headed by Mukesh Mehta, handles Kerala."
+        ]
+      },
+      {
+        "h": "Global Release Timeline and Anticipation",
+        "p": [
+          "The initial installment, Ramayana: Part 1, is officially slated for a worldwide theatrical premiere on November 5, 2026. The movie will debut across multiple languages and premium large formats to maximize its visual and auditory impact.",
+          "With the regional distribution puzzle pieces now locking into place through Monster Mind Creations, promotional momentum continues to build. Exhibitors and fans alike are eagerly tracking developments as the makers prepare to bring the legendary tale to life on the big screen."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash is playing the role of Ravana in Ramayana.",
+      "Monster Mind Creations is an actor-founded production banner that launched a dedicated distribution wing.",
+      "Ranbir Kapoor stars as Lord Rama.",
+      "Sai Pallavi plays the role of Sita.",
+      "Sunny Deol is cast as Lord Hanuman.",
+      "Nitesh Tiwari is the director of the film.",
+      "Ramayana is planned as a two-part cinematic adaptation.",
+      "Sony Pictures is handling international distribution.",
+      "Dharma Productions is overseeing Hindi-speaking markets in North India.",
+      "Dil Raju is associated with distribution in Andhra Pradesh and Telangana.",
+      "Think Studios is managing Tamil Nadu.",
+      "E4 Entertainment, led by Mukesh Mehta, is responsible for Kerala.",
+      "Prime Focus Studios and Monster Mind Creations are joint producers of the film.",
+      "Ramayana: Part 1 is scheduled for a worldwide theatrical release on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Dil Raju",
+        "Mukesh Mehta"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana - Part: II",
+        "Dangal",
+        "Chhichhore"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/10/Yash-to-handle-Karnataka-distribution-of-Ranbir-Kapoor-starrer-Ramayana-news.jpeg",
+        "caption": "Yash's Monster Mind Creations Takes Charge of Karnataka Theatrical Distribution for Ranbir Kapoor-Starrer Ramayana",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 11:43:20 +0200"
+  },
+  "1bkt7a6": {
+    "id": "1bkt7a6",
+    "type": "news",
+    "headline": "Yash Raj Films Announces Title and Release Date for Ahaan Panday and Sharvari's Beparwah",
+    "dek": "YRF has officially titled its upcoming romantic action-drama Beparwah, starring Ahaan Panday and Sharvari, directed by Ali Abbas Zafar, and slated for a worldwide theatrical release in March 2027.",
+    "body": [
+      {
+        "h": "Official Title and Theatrical Launch",
+        "p": [
+          "Yash Raj Films has officially pulled the curtain back on the official title of its highly anticipated cinematic venture, putting an end to months of speculation surrounding the project. Formerly identified as Ali Abbas Zafar's untitled next, the venture is now officially named Beparwah. Alongside the title revelation, the makers treated fans to a teaser poster, arriving exactly five months before the feature hits the big screen globally.",
+          "The theatrical rollout is strategically scheduled for March 26, 2027. This launch date has been carefully chosen to coincide with the Good Friday holiday period, capitalizing on the extended weekend window to draw large crowds to theaters worldwide. Production on the film involved extensive schedules overseas, with significant portions of the principal photography taking place in the United Kingdom."
+        ]
+      },
+      {
+        "h": "Creative Collaboration Between Zafar and Chopra",
+        "p": [
+          "Beparwah marks a significant reunion between filmmaker Ali Abbas Zafar and producer Aditya Chopra, adding another chapter to their long-standing professional partnership. This project represents their fifth collaboration under the prestigious Yash Raj Films banner. Their previous cinematic ventures together include Mere Brother Ki Dulhan in 2011, Gunday in 2014, Sultan in 2016, and Tiger Zinda Hai in 2017.",
+          "Both Sultan and Tiger Zinda Hai proved to be massive box-office blockbusters featuring Salman Khan in the lead role. Beyond his work with YRF, Zafar has directed major commercial films like Bharat in 2019 and Bade Miyan Chote Miyan in 2024, as well as political thriller streaming content. For Beparwah, Zafar shares writing credits on the script alongside producer Aditya Chopra."
+        ]
+      },
+      {
+        "h": "A Fresh On-Screen Pairing",
+        "p": [
+          "The upcoming feature brings together two of the industry's most talked-about young talents for their very first cinematic pairing. Ahaan Panday steps into the project following his breakthrough success in Mohit Suri's musical romantic drama Saiyaara, where he starred opposite Aneet Padda. That 2025 release established him as a major commercial draw and earned widespread acclaim.",
+          "Opposite him is Sharvari, who began her journey with YRF in Bunty Aur Babli 2 before expanding her range through projects like the horror-comedy Munjya and an appearance in Alpha alongside Alia Bhatt. Most recently, Sharvari was seen sharing the screen with Vedang Raina in Main Vaapas Aaunga, which premiered in June 2026."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Extended Ensemble",
+        "p": [
+          "In addition to the lead pair, Beparwah boasts a prominent supporting ensemble designed to elevate the high-stakes narrative. Veteran actor Bobby Deol is slated to feature in the production, bringing his seasoned screen presence to the narrative. The cast also includes Aaishvary Thackeray, the grandson of Shiv Sena founder Bal Thackeray, who is reported to essay the primary antagonist role.",
+          "The combination of an established antagonist track, prominent supporting names, and a leading romantic duo positions the project as one of the major commercial attractions of the 2027 theatrical calendar. YRF continues to build anticipation by rolling out promotional materials well in advance of the March premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "The film is titled Beparwah.",
+      "It stars Ahaan Panday and Sharvari.",
+      "The film is directed by Ali Abbas Zafar.",
+      "It is produced by Aditya Chopra under Yash Raj Films.",
+      "The worldwide theatrical release date is March 26, 2027, coinciding with Good Friday.",
+      "Ali Abbas Zafar and Aditya Chopra previously collaborated on Mere Brother Ki Dulhan, Gunday, Sultan, and Tiger Zinda Hai.",
+      "Ahaan Panday previously starred in Saiyaara alongside Aneet Padda.",
+      "Sharvari's previous credits include Bunty Aur Babli 2, Munjya, Alpha, and Main Vaapas Aaunga.",
+      "The supporting cast features Bobby Deol and Aaishvary Thackeray."
+    ],
+    "entities": {
+      "people": [
+        "Ahaan Panday",
+        "Sharvari",
+        "Ali Abbas Zafar",
+        "Aditya Chopra",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Tiger Shroff",
+        "Mohit Suri",
+        "Aneet Padda",
+        "Chunky Panday",
+        "Ananya Panday",
+        "Alia Bhatt",
+        "Vedang Raina",
+        "Bobby Deol",
+        "Aaishvary Thackeray",
+        "Bal Thackeray"
+      ],
+      "titles": [
+        "Beparwah",
+        "Saiyaara",
+        "Mere Brother Ki Dulhan",
+        "Gunday",
+        "Sultan",
+        "Tiger Zinda Hai",
+        "Bharat",
+        "Tandav",
+        "Bade Miyan Chote Miyan",
+        "Bunty Aur Babli 2",
+        "Munjya",
+        "Alpha",
+        "Main Vaapas Aaunga"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156406601,thumbsize-133435,width-1280,height-720,resizemode-75/156406601.jpg",
+        "caption": "Yash Raj Films Announces Title and Release Date for Ahaan Panday and Sharvari's Beparwah",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T07:07:50Z"
+  },
+  "l5x6r6": {
+    "id": "l5x6r6",
+    "type": "news",
+    "headline": "Kamal Haasan's Raaj Kamal Films International Reportedly Locks Massive Three-Film OTT Package With JioHotstar",
+    "dek": "A reported major digital agreement involving Kamal Haasan's production banner and JioHotstar has surfaced, connecting high-profile projects starring Rajinikanth, Sivakarthikeyan, and Haasan himself.",
+    "body": [
+      {
+        "h": "A Major Digital Shift in Tamil Cinema",
+        "p": [
+          "Reports have emerged indicating that actor and producer Kamal Haasan's production banner, Raaj Kamal Films International, has locked a substantial three-film agreement with JioHotstar. The digital arrangement reportedly encompasses high-profile upcoming titles featuring prominent names in the South Indian film industry.",
+          "The reported package deal has drawn considerable attention from trade analysts and movie enthusiasts alike because the negotiations allegedly took place while the films were still in active production or, in some cases, before principal photography even commenced."
+        ]
+      },
+      {
+        "h": "The Lineup: Dharman and Seyon",
+        "p": [
+          "The first prominent title linked to this digital package is Dharman, which features veteran star Rajinikanth in the lead. Directed by Ashwath Marimuthu, the project marks Rajinikanth's 173rd feature film and showcases him in a distinct role as a doctor, with early promotional material depicting a bloodied scalpel.",
+          "The second film tied to the reported agreement is Seyon, starring Sivakarthikeyan under the direction of filmmaker Sivakumar Murugesan. A third project featuring Kamal Haasan in the starring role rounds out the rumored three-film bundle, though details regarding its cast and crew remain under wraps."
+        ]
+      },
+      {
+        "h": "Financial Certainty and Strategic Advantage",
+        "p": [
+          "Industry observers note that package deals of this scale provide production houses with vital financial security during the filming stages. By securing digital streaming rights early, producers can better manage production budgets and cash flow.",
+          "Simultaneously, streaming platforms benefit by locking down anticipated regional content well in advance, thereby strengthening their long-term digital libraries and ensuring steady subscriber engagement."
+        ]
+      },
+      {
+        "h": "A Producer-Star Alliance",
+        "p": [
+          "The involvement of enduring contemporaries like Kamal Haasan and Rajinikanth in a collaborative producer-star dynamic has heightened interest in the venture. Their respective star power, combined with the rising box-office appeal of Sivakarthikeyan, makes the package a noteworthy development in modern Tamil cinema economics.",
+          "Despite widespread industry discussion and reports from outlets such as ABP regarding the massive scale of the agreement, neither Raaj Kamal Films International nor JioHotstar has released an official confirmation regarding the financial terms."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan's Raaj Kamal Films International reportedly secured a three-film OTT deal with JioHotstar.",
+      "The films included in the reported package are Rajinikanth's Dharman, Sivakarthikeyan's Seyon, and an upcoming project starring Kamal Haasan.",
+      "Dharman is Rajinikanth's 173rd feature film and is directed by Ashwath Marimuthu.",
+      "The cast of Dharman includes Simran, Raashii Khanna, and Yogi Babu.",
+      "Seyon is directed by Sivakumar Murugesan and stars Sivakarthikeyan.",
+      "The report was published on October 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kamal Haasan",
+        "Rajinikanth",
+        "Sivakarthikeyan",
+        "Ashwath Marimuthu",
+        "Simran",
+        "Raashii Khanna",
+        "Yogi Babu",
+        "Sivakumar Murugesan",
+        "Mimansa Shekhar"
+      ],
+      "titles": [
+        "Dharman",
+        "Seyon"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156406929,thumbsize-886455,width-1280,height-720,resizemode-75/156406929.jpg",
+        "caption": "Kamal Haasan's Raaj Kamal Films International Reportedly Locks Massive Three-Film OTT Package With JioHotstar",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T07:07:50Z"
   }
 };
