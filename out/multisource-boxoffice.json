@@ -17,6 +17,14 @@
           "sacnilk": 0.24
         }
       },
+      "11": {
+        "collection_inr_cr": 0.09,
+        "collection_usd": 9509,
+        "date": "2026-10-23",
+        "sources": {
+          "sacnilk": 0.09
+        }
+      },
       "2": {
         "collection_inr_cr": 1.45,
         "collection_usd": 153196,
@@ -733,12 +741,12 @@
         }
       },
       "4": {
-        "collection_inr_cr": 0.3,
-        "collection_usd": 31696,
+        "collection_inr_cr": 0.31,
+        "collection_usd": 32752,
         "date": "2026-10-22",
         "sources": {
           "bollybourse": 0.3,
-          "sacnilk": 0.3
+          "sacnilk": 0.32
         }
       }
     },
@@ -999,6 +1007,14 @@
           "sacnilk": 0.03
         }
       },
+      "39": {
+        "collection_inr_cr": 0.01,
+        "collection_usd": 1057,
+        "date": "2026-10-24",
+        "sources": {
+          "sacnilk": 0.01
+        }
+      },
       "4": {
         "collection_inr_cr": 1.25,
         "collection_usd": 132066,
@@ -1077,11 +1093,11 @@
         }
       },
       "4": {
-        "collection_inr_cr": 0.75,
-        "collection_usd": 79239,
+        "collection_inr_cr": 0.86,
+        "collection_usd": 90861,
         "date": "2026-10-26",
         "sources": {
-          "sacnilk": 0.75
+          "sacnilk": 0.86
         }
       }
     },
@@ -1258,7 +1274,7 @@
         "sources": {
           "bollybourse": 0.28,
           "flickonclick": 0.3,
-          "sacnilk": 0.28
+          "sacnilk": 0.3
         }
       }
     },
@@ -1300,7 +1316,8 @@
         "collection_usd": 3170,
         "date": "2026-10-26",
         "sources": {
-          "filmynewsnetwork": 0.03
+          "filmynewsnetwork": 0.03,
+          "sacnilk": 0.03
         }
       }
     }
