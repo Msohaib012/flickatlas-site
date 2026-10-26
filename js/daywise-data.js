@@ -50,6 +50,11 @@ window.FA_DAYWISE = {
       "date": "2026-10-25",
       "day": "Day 10",
       "collection": 100370
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Day 11",
+      "collection": 28526
     }
   ],
   "1375156": [
@@ -66,12 +71,12 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 3",
-      "collection": 867406
+      "collection": 866350
     },
     {
       "date": "2026-10-26",
       "day": "Day 4",
-      "collection": 101426
+      "collection": 263074
     }
   ],
   "1400940": [
@@ -333,6 +338,171 @@ window.FA_DAYWISE = {
       "date": "2026-10-23",
       "day": "Day 38",
       "collection": 3170
+    }
+  ],
+  "1772549": [
+    {
+      "date": "2026-10-23",
+      "day": "Day 1",
+      "collection": 52826
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Day 2",
+      "collection": 73957
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Day 3",
+      "collection": 73957
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Day 4",
+      "collection": 27470
+    }
+  ],
+  "1785611": [
+    {
+      "date": "2026-10-23",
+      "day": "Day 1",
+      "collection": 14791
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Day 2",
+      "collection": 10565
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Day 3",
+      "collection": 10565
+    }
+  ],
+  "1606527": [
+    {
+      "date": "2026-10-23",
+      "day": "Day 1",
+      "collection": 279979
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Day 2",
+      "collection": 264131
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Day 3",
+      "collection": 264131
+    }
+  ],
+  "1389379": [
+    {
+      "date": "2026-10-16",
+      "day": "Day 1",
+      "collection": 977285
+    },
+    {
+      "date": "2026-10-17",
+      "day": "Day 2",
+      "collection": 771263
+    },
+    {
+      "date": "2026-10-18",
+      "day": "Day 3",
+      "collection": 792393
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Day 4",
+      "collection": 570523
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Day 5",
+      "collection": 750132
+    },
+    {
+      "date": "2026-10-21",
+      "day": "Day 6",
+      "collection": 581088
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Day 7",
+      "collection": 332805
+    },
+    {
+      "date": "2026-10-23",
+      "day": "Day 8",
+      "collection": 221870
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Day 9",
+      "collection": 295827
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Day 10",
+      "collection": 306392
+    }
+  ],
+  "1234139": [
+    {
+      "date": "2026-10-15",
+      "day": "Day 1",
+      "collection": 6307448
+    },
+    {
+      "date": "2026-10-16",
+      "day": "Day 2",
+      "collection": 3919704
+    },
+    {
+      "date": "2026-10-17",
+      "day": "Day 3",
+      "collection": 4992076
+    },
+    {
+      "date": "2026-10-18",
+      "day": "Day 4",
+      "collection": 5900687
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Day 5",
+      "collection": 4474379
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Day 6",
+      "collection": 4944532
+    },
+    {
+      "date": "2026-10-21",
+      "day": "Day 7",
+      "collection": 2974115
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Day 8",
+      "collection": 1811939
+    },
+    {
+      "date": "2026-10-23",
+      "day": "Day 9",
+      "collection": 1531960
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Day 10",
+      "collection": 2551506
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Day 11",
+      "collection": 2715267
     }
   ]
 };

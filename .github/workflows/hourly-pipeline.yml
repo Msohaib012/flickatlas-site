@@ -66,7 +66,7 @@ jobs:
           flags = {
               "run_episode": hour in (19, 1, 7, 13) or overdue("episode_guides", 6),
               "run_title": hour == 18 or overdue("title_seed", 24),
-              "run_sacnilk": hour == 20 or overdue("sacnilk_boxoffice", 24),
+              "run_sacnilk": hour in (2, 8, 14, 20) or overdue("sacnilk_boxoffice", 24),
               "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
               "run_stats_health": hour == 6 or overdue("stats_health", 24),
           }
@@ -144,8 +144,9 @@ jobs:
       # --- 6. Sacnilk box office (gated, daily 20:00 UTC) --------------
       # Fetches each published movie's Sacnilk page and merges its
       # day-wise collections into js/daywise-data.js. Runs after
-      # apply-auto so it reads the latest daywise file. One run/day;
-      # the state gate catches up a dropped 20:00 run.
+      # apply-auto so it reads the latest daywise file. Every 6 hours
+      # (02, 08, 14, 20 UTC) so live-day figures stay fresh;
+      # the state gate catches up a dropped run.
       - name: Sacnilk box office
         id: sacnilk
         if: steps.decide.outputs.run_sacnilk == 'true'
@@ -321,5 +322,6 @@ jobs:
             git pull --rebase
             git push
           fi
+
 
 

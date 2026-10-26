@@ -2186,6 +2186,425 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-28",
     "runtime": 95,
     "providers": []
+  },
+  "1234139": {
+    "id": 1234139,
+    "type": "movie",
+    "title": "Jailer 2",
+    "poster_path": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "backdrop_path": "/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
+    "vote_average": 8.0,
+    "vote_count": 18,
+    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
+    "industry": "world",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 26289250,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-14",
+    "runtime": 163,
+    "providers": []
+  },
+  "1772549": {
+    "id": 1772549,
+    "type": "movie",
+    "title": "Pehla Pyaar Doosri Baar",
+    "poster_path": "/tGS4b47RIpF3DTAkezHBqfYNTm2.jpg",
+    "backdrop_path": "/iaVcws1W3owTlRSI8GKcov95UHS.jpg",
+    "vote_average": 6.0,
+    "vote_count": 2,
+    "overview": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations, allure, and absurdities of love.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "NR",
+    "release_date": "2026-10-23",
+    "runtime": 150,
+    "providers": []
+  },
+  "858035": {
+    "id": 858035,
+    "type": "movie",
+    "title": "Klara and the Sun",
+    "poster_path": "/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+    "backdrop_path": "/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
+    "vote_average": 5.767,
+    "vote_count": 15,
+    "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "trailer": {
+      "key": "wixzainceAE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "tagline": "Meet the future of friendship.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-10-21",
+    "runtime": 116,
+    "providers": []
+  },
+  "1195803": {
+    "id": 1195803,
+    "type": "movie",
+    "title": "Wicker",
+    "poster_path": "/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdrop_path": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "vote_average": 7.818,
+    "vote_count": 11,
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "kA9NfV4pM_Q",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Comedy"
+    ],
+    "tagline": "Marriage material.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-21",
+    "runtime": 105,
+    "providers": []
+  },
+  "1406492": {
+    "id": 1406492,
+    "type": "movie",
+    "title": "La Venganza del Charro Negro",
+    "poster_path": "/tLshatfzePSxL77SddT64HUPjVG.jpg",
+    "backdrop_path": "/gEQtqCN5e3joMJiYmiFH69i78d6.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "The return of Leo San Juan and all the legends.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Family",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [],
+    "certification": "A",
+    "release_date": "2026-10-22",
+    "runtime": 0,
+    "providers": []
+  },
+  "1084409": {
+    "id": 1084409,
+    "type": "movie",
+    "title": "A Talent for Murder",
+    "poster_path": "/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "backdrop_path": "/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "2AMYg6UmmjM",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "The end is where the plotting begins.",
+    "status": "Released",
+    "production_countries": [
+      "AU",
+      "IE",
+      "GB",
+      "IT",
+      "CH",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-23",
+    "runtime": 106,
+    "providers": []
+  },
+  "1727734": {
+    "id": 1727734,
+    "type": "movie",
+    "title": "Ali G: Who Iz I?",
+    "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "backdrop_path": "/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+    "vote_average": 6.25,
+    "vote_count": 4,
+    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "pV32AcPa-iA",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "Livin XXX large.",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-22",
+    "runtime": 89,
+    "providers": []
+  },
+  "1371730": {
+    "id": 1371730,
+    "type": "movie",
+    "title": "Love Language",
+    "poster_path": "/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+    "backdrop_path": "/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people’s wedding vows. Word spreads across Chicago’s wedding scene and Lou’s services are in high demand. She even has a new admirer in Dash. But everything changes when she’s asked to write vows for Olivia, who’s marrying Warren, Lou’s old college flame.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "hrXydegMePY",
+      "name": "Love Language | Official Trailer (HD) | Vertical",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-23",
+    "runtime": 104,
+    "providers": []
+  },
+  "1785611": {
+    "id": 1785611,
+    "type": "movie",
+    "title": "Tu Hai Meri Kiran",
+    "poster_path": "/jjlqHKzDTPJXDl0eb77Q20Aipuc.jpg",
+    "backdrop_path": "/zoiFEZmuX2dYQcYSIlxlgaLXWKQ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When love becomes an obsession, the line between devotion and danger begins to blur.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "tagline": "She found a connection. He found an obsession.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "NR",
+    "release_date": "2026-10-23",
+    "runtime": 140,
+    "providers": []
+  },
+  "1606527": {
+    "id": 1606527,
+    "type": "movie",
+    "title": "418",
+    "poster_path": "/aNPNi3qUdAzKdtd1fKwMdUdyUcz.jpg",
+    "backdrop_path": "/nJjd0EHP5VPWTdGsere75SaSY4j.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
+    "industry": "world",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "A",
+    "release_date": "2026-10-22",
+    "runtime": 157,
+    "providers": []
   }
 };
-

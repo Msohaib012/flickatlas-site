@@ -136,8 +136,18 @@
     /* Cast + crew: the credits endpoint for this one published title
        only (single-title record, not a catalogue). Best effort — the
        page renders without cast if it fails. */
+    /* Cast + crew: the credits endpoint for this one published title.
+       Raced against an 8s timeout (user-visible bug 2026-10-26): TMDB.api
+       has NO timeout, so a stalled credits fetch hung the whole page on
+       its loading skeleton forever. The page must render without cast
+       if the fetch fails OR hangs — never wait forever. */
     let credits = null;
-    try { credits = await TMDB.api(`/movie/${id}/credits`); } catch (_) { credits = null; }
+    try {
+      credits = await Promise.race([
+        TMDB.api(`/movie/${id}/credits`),
+        new Promise((_, rej) => setTimeout(() => rej(new Error("credits timeout")), 8000))
+      ]);
+    } catch (_) { credits = null; }
     const cast = ((credits && credits.cast) || []).filter(c => c && c.name);
     const crew = ((credits && credits.crew) || []).filter(c => c && c.name);
     const directors = [...new Map(crew.filter(c => c.job === "Director").map(c => [c.id, c])).values()];
@@ -366,6 +376,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 
