@@ -76,6 +76,44 @@
        world-industry titles (fixed in ui.js) — the explicit label is kept
        as a harmless guard. */
     const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+    /* ---------- Episode tracker (drama sections) ----------
+       The Pakistani Dramas carousel and the Drama Episodes rail both
+       need the live episode tracker (/out/episodes.json): the carousel
+       shows the same "N episodes · Still airing" line as /dramas/
+       (same extraMeta logic as js/page-dramas.js) and BOTH sections
+       show only on-airing dramas (user order 2026-10-27). The fetch
+       starts HERE so it runs while the other sections compute; it is
+       awaited (with a 2s cap) just before the drama sections are
+       built. If the tracker is unavailable, both sections fall back
+       to their old behaviour (all dramas, no episode lines) — the
+       tracker is a live extra, never a gate that empties the
+       homepage. Keys are normalised drama names (aliases Dar =
+       Dar-E-Nijaat, Zehar = Zehar-e-Mohabbat), exactly as in
+       js/page-dramas.js. */
+    const normDramaName = (s) => String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    const DRAMA_ALIASES = { "dar": "dar e nijaat", "zehar": "zehar e mohabbat" };
+    const canonDramaKey = (d) => DRAMA_ALIASES[normDramaName(d)] || normDramaName(d);
+    const loadTracker = async () => {
+      const map = {};
+      try {
+        const res = await fetch("/out/episodes.json", { cache: "no-store" });
+        if (!res.ok) return map;
+        const data = await res.json();
+        for (const r of Object.values((data && data.episodes) || {})) {
+          if (!r || !r.drama) continue;
+          const key = canonDramaKey(r.drama);
+          const n = r.episode;
+          if (!Number.isInteger(n) || n <= 0) continue;
+          const cur = map[key];
+          const pub = r.published || "";
+          if (!cur || n > cur.count || (n === cur.count && pub > cur.latestPublished)) {
+            map[key] = { count: n, latestPublished: pub, drama: r.drama };
+          }
+        }
+      } catch (_) { /* fall through with whatever loaded */ }
+      return map;
+    };
+    const trackerPromise = loadTracker();
     const publishedFor = (kind, industry) => {
       const ind = industry === "international" ? "world" : "bollywood";
       const items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
@@ -569,30 +607,197 @@
         <span>${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
       </a>`;
     };
+    /* Custom in-page dropdown (user order 2026-10-27): a button showing
+       the current choice + a list panel that expands DOWNWARD directly
+       below the button, inside the page — never a native <select>, which
+       Chrome on Android phones renders as a modal popup dialog.
+       Same component and behaviour as js/page-guides.js (the Drama
+       Episodes filter there) and js/page-dramas.js. Reuses the site's
+       .fa-select styles. No <select> exists in this control. */
+    function mountFaSelect(host, options, initialValue, onPick) {
+      const trigger = host.querySelector(".fa-select-trigger");
+      const label = host.querySelector(".fa-select-value");
+      const listbox = host.querySelector('[role="listbox"]');
+      let value = initialValue;
+      let activeIndex = Math.max(0, options.findIndex(o => o.value === value));
+      let opened = false, typeAhead = "", typeAheadTimer;
+      function renderMenu() {
+        listbox.innerHTML = options.map((option, index) =>
+          `<div class="fa-select-option" id="${listbox.id}-option-${index}" role="option" aria-selected="${index === activeIndex}" data-index="${index}"><span>${UI.esc(option.label)}</span><span class="fa-select-check" aria-hidden="true">✓</span></div>`).join("");
+      }
+      function sync() {
+        activeIndex = Math.max(0, options.findIndex(o => o.value === value));
+        label.textContent = options[activeIndex] ? options[activeIndex].label : "Choose an option";
+        renderMenu();
+        if (opened) activate(activeIndex);
+      }
+      function activate(index) {
+        const opts = [...listbox.querySelectorAll('[role="option"]')];
+        if (!opts.length) return;
+        activeIndex = (index + opts.length) % opts.length;
+        const active = opts[activeIndex];
+        trigger.setAttribute("aria-activedescendant", active.id);
+        opts.forEach((option, i) => option.classList.toggle("is-active", i === activeIndex));
+        active.scrollIntoView?.({ block: "nearest" });
+      }
+      function close(restoreFocus) {
+        if (!opened) return;
+        opened = false; listbox.hidden = true; trigger.setAttribute("aria-expanded", "false");
+        trigger.removeAttribute("aria-activedescendant");
+        if (restoreFocus) trigger.focus();
+      }
+      function open() {
+        sync(); if (!options.length) return;
+        opened = true; listbox.hidden = false; trigger.setAttribute("aria-expanded", "true");
+        activate(activeIndex);
+      }
+      function choose() {
+        const option = options[activeIndex]; if (!option) return;
+        value = option.value;
+        sync();
+        close(true);
+        onPick(value);
+      }
+      trigger.addEventListener("click", () => opened ? close() : open());
+      trigger.addEventListener("keydown", event => {
+        if (event.key === "Escape" && opened) { event.preventDefault(); close(); return; }
+        if (event.key === "Tab" && opened) { close(); return; }
+        if (["ArrowDown", "ArrowUp", "Home", "End"].includes(event.key)) {
+          event.preventDefault();
+          if (!opened) open();
+          else if (event.key === "ArrowDown") activate(activeIndex + 1);
+          else if (event.key === "ArrowUp") activate(activeIndex - 1);
+          else if (event.key === "Home") activate(0);
+          else activate(options.length - 1);
+          return;
+        }
+        if ((event.key === "Enter" || event.key === " ") && opened) { event.preventDefault(); choose(); return; }
+        if (event.key.length === 1 && !event.ctrlKey && !event.metaKey && !event.altKey) {
+          typeAhead += event.key.toLocaleLowerCase();
+          const match = options.findIndex(option => option.label.trim().toLocaleLowerCase().startsWith(typeAhead));
+          if (match >= 0) { if (!opened) open(); activate(match); event.preventDefault(); }
+          clearTimeout(typeAheadTimer); typeAheadTimer = setTimeout(() => { typeAhead = ""; }, 700);
+        }
+      });
+      listbox.addEventListener("click", event => {
+        const option = event.target.closest('[role="option"]'); if (!option) return;
+        activeIndex = Number(option.dataset.index); choose();
+      });
+      document.addEventListener("pointerdown", event => { if (opened && !host.contains(event.target)) close(); });
+      sync();
+      return { get value() { return value; }, setValue(v) { value = v; sync(); } };
+    }
+
     /* ---------- Pakistani Dramas (user order 2026-10-26): POSTER cards
        of the published Pakistani TV dramas, newest first (by first_air_date).
        Sits ABOVE the Drama Episodes rail: the user picks a drama poster,
        opens its show page, and that page lists the drama's episodes (each
        linking to its own episode page). Movies are NOT here — they live in
-       Lollywood above. ---------- */
+       Lollywood above.
+       Episode line + on-airing filter (user orders 2026-10-27): each card
+       carries the same "N episodes · Still airing" line as /dramas/
+       (UI.posterCard extraMeta — same markup, same text), and the
+       carousel shows ONLY on-airing dramas: latest tracked episode
+       within 7 days AND TMDB status "Returning Series" (the show
+       page's "Still airing" rule). A drama with no tracker data
+       (Rutba, Circle Story, Mitti De Baway) therefore does NOT appear
+       here — it stays on /dramas/, which keeps the full list. If the
+       tracker failed to load, the filter is skipped and all dramas
+       show without episode lines (fail-open). ---------- */
+    const trackerByDrama = await Promise.race([
+      trackerPromise,
+      new Promise((resolve) => setTimeout(() => resolve(null), 2000)),
+    ]).catch(() => null) || {};
+    const trackerLoaded = Object.keys(trackerByDrama).length > 0;
+    const pkByKey = {};
+    for (const x of pubAll()) {
+      if (x && typeOf(x) === "tv" && (x.industry || "") === "pakistani") {
+        pkByKey[canonDramaKey(UI.titleOf(x))] = x;
+      }
+    }
+    const isAiringKey = (key) => {
+      if (!trackerLoaded || !key) return false;
+      const t = trackerByDrama[key];
+      if (!t || !t.latestPublished) return false;
+      const last = Date.parse(t.latestPublished);
+      if (!Number.isFinite(last) || (Date.now() - last) / 86400000 > 7) return false;
+      const pub = pkByKey[key];
+      return !pub || String(pub.status || "").toLowerCase().indexOf("returning") !== -1;
+    };
+    const epMetaFor = (x) => {
+      const t = trackerByDrama[canonDramaKey(UI.titleOf(x))];
+      if (!t) return "";
+      let airing = false;
+      if (t.latestPublished) {
+        const last = Date.parse(t.latestPublished);
+        airing = Number.isFinite(last) && (Date.now() - last) / 86400000 <= 7
+          && String(x.status || "").toLowerCase().indexOf("returning") !== -1;
+      }
+      return `${t.count} episode${t.count === 1 ? "" : "s"}${airing ? " · Still airing" : ""}`;
+    };
     const pkDramas = pubAll()
       .filter(x => x && x.poster_path && typeOf(x) === "tv" && (x.industry || "") === "pakistani")
+      .filter(x => !trackerLoaded || isAiringKey(canonDramaKey(UI.titleOf(x))))
       .sort(byNewest);
     const pkDramasHtml = pkDramas.length ? `<section class="section" id="homeDramas" data-sec="pk-drama-list">
       <div class="section-head"><h2>Pakistani Dramas</h2>
       <a class="see-all" href="/dramas">See All →</a></div>
       <p class="sec-sub">Pakistani dramas, newest first; open a drama for its episode list.</p>
-      <div class="scroller">${pkDramas.slice(0, HOME_LIMITS.dramas).map(x => UI.posterCard(x, "tv", "Pakistani Drama")).join("")}</div></section>` : "";
+      <div class="scroller">${pkDramas.slice(0, HOME_LIMITS.dramas).map(x => UI.posterCard(x, "tv", "Pakistani Drama", null, epMetaFor(x))).join("")}</div></section>` : "";
 
+    /* Drama identity of an episode article (same headline parsing as
+       js/page-guides.js: "<Drama> Episode <N> — Watch on <channel>"
+       and the "<Drama> — Last Episode" finale form; entities.titles[0]
+       preferred when present). Returns { key, name } — key for the
+       airing check + filter, name (published title when the drama is
+       listed, else the raw headline name) for the filter options.
+       Returns null when the headline is not an episode headline. */
+    const dramaOfArticle = (a) => {
+      const h = String((a && a.headline) || "");
+      const wm = h.match(/^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i);
+      if (!wm) return null;
+      const left = wm[1].trim();
+      const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);
+      const fm = !em && left.match(/^(.+?)\s+[—–-]?\s*Last Episode$/i);
+      if (!em && !fm) return null;
+      const raw = ((a.entities && a.entities.titles && a.entities.titles[0])
+        || (em ? em[1].trim() : fm[1].trim()) || "").trim();
+      if (!raw) return null;
+      const key = canonDramaKey(raw);
+      const pub = pkByKey[key];
+      return { key, name: pub ? UI.titleOf(pub) : raw };
+    };
     const epArticles = Object.values(window.FA_ARTICLES || {})
       .filter(a => a && a.id && (a.headline || "").includes("Watch on") && a.published)
       .sort((a, b) => String(b.published || "").localeCompare(String(a.published || "")));
-    const epLatest = epArticles.slice(0, HOME_LIMITS.dramas);
+    /* On-airing filter (user order 2026-10-27): an episode stays only
+       when its drama is airing (latest tracked episode within 7 days
+       + Returning Series where the drama is listed). Rows whose drama
+       cannot be parsed stay — the tracker writes every episode
+       headline in the standard format, so this is a fail-open guard
+       only. When the tracker failed to load, nothing is filtered. */
+    const epAiring = trackerLoaded
+      ? epArticles.filter(a => { const d = dramaOfArticle(a); return !d || isAiringKey(d.key); })
+      : epArticles;
+    const epLatest = epAiring.slice(0, HOME_LIMITS.dramas);
+    /* Drama filter options: the dramas that have (airing) episodes in
+       this rail, A–Z like /episode-guides. "All Dramas" is added at
+       mount time. */
+    const epDramaOptions = (() => {
+      const seen = new Map();
+      for (const a of epAiring) {
+        const d = dramaOfArticle(a);
+        if (d && !seen.has(d.key)) seen.set(d.key, d.name);
+      }
+      return [...seen.entries()].map(([value, label]) => ({ value, label }))
+        .sort((x, y) => x.label.localeCompare(y.label));
+    })();
     const pkRailHtml = epLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
       <div class="section-head"><h2><a href="/episode-guides" style="color:inherit">Drama Episodes</a></h2>
       <a class="see-all" href="/episode-guides">See All →</a></div>
       <p class="sec-sub">Latest drama episodes from YouTube channels, newest first; open an episode for its story summary.</p>
-      <div class="tl-list">${epLatest.map(a => episodeRow(a)).join("")}</div></section>` : "";
+      <div id="homePkFilter"></div>
+      <div class="tl-list" id="homePkList">${epLatest.map(a => episodeRow(a)).join("")}</div></section>` : "";
 
     /* ---------- Awards strip REMOVED (owner order 2026-10-27):
        the homepage awards strip is gone entirely. The Awards
@@ -673,6 +878,22 @@
        a failed trends mount leaves one honest line instead of a stuck
        "Loading trend feed…" status. */
     try { fillHomeNews(); } catch (_) { document.getElementById("homeNews")?.remove(); }
+    /* Drama Episodes filter (user order 2026-10-27): the same custom
+       in-page .fa-select dropdown as /episode-guides — never a native
+       <select>. Filters the homepage episode rows by drama. */
+    try {
+      const pkFilterHost = document.getElementById("homePkFilter");
+      const pkListHost = document.getElementById("homePkList");
+      if (pkFilterHost && pkListHost && epDramaOptions.length) {
+        pkFilterHost.innerHTML = `<div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="homePkFilterLabel"><span id="homePkFilterLabel">Drama</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="homePkDramaTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="homePkDramaOptions" aria-labelledby="homePkFilterLabel homePkDramaValue"><span class="fa-select-value" id="homePkDramaValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="homePkDramaOptions" role="listbox" aria-labelledby="homePkFilterLabel" hidden></div></div></div></div>`;
+        mountFaSelect(pkFilterHost.querySelector(".filter-select"),
+          [{ value: "", label: "All Dramas" }, ...epDramaOptions],
+          "", (value) => {
+            const list = value ? epAiring.filter(a => { const d = dramaOfArticle(a); return d && d.key === value; }) : epAiring;
+            pkListHost.innerHTML = list.slice(0, HOME_LIMITS.dramas).map(a => episodeRow(a)).join("");
+          });
+      }
+    } catch (_) { /* filter unavailable — rows stay unfiltered */ }
 
     try {
       if (window.FATrendingSearches) window.FATrendingSearches.mount(document.getElementById("homeTrendingSearches"), {
@@ -757,6 +978,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
