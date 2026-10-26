@@ -304,9 +304,10 @@
       <div class="section-head"><h2>Latest News</h2>
       <a class="see-all" href="/news">See All →</a></div>
       <div class="sk" style="height:230px;border-radius:14px"></div></section>`;
-    /* News slider renderer (owner spec 2026-10-26): BOLLYWOOD + CELEBRITY
-       only, newest 8, LANDSCAPE cards (image left, title + date right),
-       LIGHT card — visually separate from the dark hero above. Items
+    /* News slider renderer (owner spec 2026-10-26, corrected 21:18 PKT):
+       BOLLYWOOD + CELEBRITY only, newest 8, YouTube/Sacnilk style — a
+       16:9 image frame on top, title + date below. LIGHT card, visually
+       separate from the dark hero above. Items
        from the shared /api/news fetch; image from window.FA_ARTICLES
        (already loaded; every /api/news id has a matching FA_ARTICLES
        entry with an images array). Carousel mirrors the hero: show/hide
@@ -332,7 +333,7 @@
         <div class="news-slider" id="newsSlider">
           <div class="news-slider-viewport">${slides.map(({ it, img }, i) => {
             const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
-            return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "flex" : "none"}">
+            return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
               <span class="news-slide-img"><img src="${UI.esc(img)}" alt="" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" onerror="this.style.display='none'"></span>
               <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
               ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
@@ -353,7 +354,7 @@
         els[cur].classList.remove("active"); els[cur].style.display = "none";
         if (dots[cur]) dots[cur].classList.remove("on");
         cur = (n + els.length) % els.length;
-        els[cur].classList.add("active"); els[cur].style.display = "flex";
+        els[cur].classList.add("active"); els[cur].style.display = "block";
         if (dots[cur]) dots[cur].classList.add("on");
       };
       const start = () => { timer = setInterval(() => go(cur + 1), 6000); };
@@ -403,9 +404,14 @@
           ...it,
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
         }));
-        /* Same fetched items feed the news slider (newest 5 with images)
-           — no second fetch. */
-        try { renderNewsSlider(arts); } catch (_) { document.getElementById("homeNewsSlider")?.remove(); }
+        /* The slider gets the FULL feed (not the 7-item Trending News cap):
+           it needs the whole feed to find 8 Bollywood/celebrity items with
+           images. No second fetch — same j.items, normalised the same way. */
+        const sliderArts = j.items.map(it => ({
+          ...it,
+          cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
+        }));
+        try { renderNewsSlider(sliderArts); } catch (_) { document.getElementById("homeNewsSlider")?.remove(); }
         host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
           <a class="see-all" href="/news">See All →</a></div>
           <p class="sec-sub">Recent published headlines, newest first.</p>
@@ -635,6 +641,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
