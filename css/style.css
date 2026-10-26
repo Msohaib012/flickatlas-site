@@ -95,6 +95,54 @@ h3{font-size:1.05rem;font-weight:700}
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .card-meta{display:block;color:var(--muted);font-size:.8rem;margin-top:2px}
 .card-extra-meta{display:block;margin-top:5px;padding-top:5px;border-top:1px solid var(--line);color:var(--teal-dark);font-size:.76rem;font-weight:700;line-height:1.4;overflow-wrap:anywhere}
+/* OTT cards (owner order 2026-10-27): equal height in every row. The
+   grid/scroller stretch makes the card boxes equal, but the CONTENT
+   inside was top-flowed, so a 2-line title + 3-line date pushed the
+   platform row down on one card and the logos landed at different
+   heights. Fix: the card is a flex column, the body grows (flex:1),
+   the date line reserves exactly 3 lines (the longest meta at the
+   118px mobile column width) and the platform row is pinned to the
+   bottom with margin-top:auto — every card in a row shares one height
+   and the logos line up. The platform row is also a FIXED single line
+   (36px = one 28px logo + padding/border; names truncate with an
+   ellipsis instead of wrapping): a title with two providers (two
+   logos + long names) otherwise wraps the row to two lines and
+   un-aligns the logos and the card heights again. Applies to the
+   homepage rails and the /ott/ grid, which share the .ott-card
+   markup. */
+.ott-card{display:flex;flex-direction:column;height:100%}
+.ott-card .card-body{flex:1;display:flex;flex-direction:column}
+.ott-card .card-meta{line-height:1.4;min-height:4.2em;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ott-card .ott-prov-row{margin-top:auto;flex-wrap:nowrap;overflow:hidden;height:36px}
+.ott-card .ott-prov-names{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+/* Movie/TV type tag (TV order 2026-10-27): a small pill badge on every
+   card in Spotlight, Coming Soon and OTT, reading "Movie" or "TV" from
+   the item's type — never guessed. */
+.type-tag{display:inline-block;padding:1px 7px;border:1px solid #bcd6cd;border-radius:999px;background:#eef6f2;color:var(--teal-dark);font-size:.68rem;font-weight:800;line-height:1.5;vertical-align:1px;white-space:nowrap}
+/* Homepage filter row (TV order 2026-10-27, corrected 2026-10-27): the
+   Industry + Type filters are .fa-select in-page dropdowns side by
+   side in ONE horizontal line — flex, never wrapping. The two
+   dropdowns share the width (flex:1, min-width:0) so the row fits a
+   320px phone with no horizontal scroll; trigger values truncate with
+   an ellipsis. Deliberately NO overflow-x on the row: an overflow
+   ancestor would clip the dropdown panel that opens below the
+   trigger. The .fa-select rules mirror the #chipHost set (same
+   component, same values) scoped to this row. */
+.home-filter-row{display:flex;gap:10px;flex-wrap:nowrap;margin:0 0 16px}
+.home-filter-row .filter-select{flex:1 1 0;min-width:0;display:grid;gap:4px;color:var(--muted);font-size:.76rem;font-weight:650}
+.home-filter-row .fa-select{position:relative;width:100%;min-width:0}
+.home-filter-row .fa-select-trigger{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;min-width:0;min-height:44px;margin:0;padding:8px 11px;border:1px solid #cbded7;border-radius:10px;background:#fff;color:#183e35;font-size:.88rem;font-weight:700;text-align:left;cursor:pointer;touch-action:manipulation}
+.home-filter-row .fa-select-value{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.home-filter-row .fa-select-trigger:hover{border-color:#7ba99b;background:#f8fbfa}
+.home-filter-row .fa-select-trigger:focus-visible{outline:3px solid #0a8273;outline-offset:2px}
+.home-filter-row .fa-select-chevron{flex:none;width:8px;height:8px;border-right:2px solid #38675b;border-bottom:2px solid #38675b;transform:rotate(45deg) translateY(-2px);transition:transform .15s ease}
+.home-filter-row .fa-select-trigger[aria-expanded="true"] .fa-select-chevron{transform:rotate(225deg) translate(-1px,-1px)}
+.home-filter-row .fa-select-menu{position:absolute;top:calc(100% + 6px);left:0;right:0;z-index:120;max-height:min(260px,40vh);overflow-y:auto;overscroll-behavior:contain;padding:5px;border:1px solid #cbded7;border-radius:12px;background:#fff;box-shadow:0 12px 28px rgba(8,39,31,.2)}
+.home-filter-row .fa-select-option{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:44px;padding:8px 10px;border-radius:8px;color:#27483f;font-size:.88rem;font-weight:550;line-height:1.3;cursor:pointer;touch-action:manipulation}
+.home-filter-row .fa-select-option[aria-selected="true"]{background:#eaf4f1;color:var(--teal-deep);font-weight:750}
+.home-filter-row .fa-select-option.is-active{outline:2px solid #72a99a;outline-offset:-2px;background:#e4f0ec}
+.home-filter-row .fa-select-check{visibility:hidden;flex:none;color:var(--teal-deep);font-weight:800}
+.home-filter-row .fa-select-option[aria-selected="true"] .fa-select-check{visibility:visible}
 /* OTT cards (owner order 2026-10-27): platform logos + names under the
    date line. Logos are small squares (TMDB w92); names sit beside them
    so the platform is readable even if a logo fails to load. */
@@ -1923,4 +1971,5 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .rv-sw{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
 .rv-sw h3{margin-top:14px}
 @media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}
+
 

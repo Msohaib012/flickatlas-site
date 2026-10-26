@@ -51,7 +51,12 @@
     const isUpcoming = titleDate(pub) && titleDate(pub) > todayS;
     const cands = Object.values(window.FA_PUBLISHED || {})
       .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type
-        && titleDate(x) && (isUpcoming ? titleDate(x) > todayS : titleDate(x) <= todayS));
+        && titleDate(x) && (isUpcoming ? titleDate(x) > todayS : titleDate(x) <= todayS)
+        /* Owner order 2026-10-27: streaming-only titles (OTT "now", no
+           box-office rows) do not belong in Similar Movies on a
+           released title's page. Upcoming pages are untouched — an
+           unreleased streaming title's theatrical status is unverified. */
+        && (isUpcoming || !UI.isStreamingOnly(x)));
     cands.sort((a, b) =>
       ((b.industry === pub.industry) - (a.industry === pub.industry)) ||
       ((b.type === pub.type) - (a.type === pub.type)) ||
@@ -428,6 +433,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 

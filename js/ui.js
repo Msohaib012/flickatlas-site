@@ -443,6 +443,27 @@ const UI = (() => {
     const dt = (item && (item.release_date || item.first_air_date)) || "";
     return !!dt && dt >= freshCutoff();
   }
+  /* Streaming-only check (owner order 2026-10-27): a published MOVIE
+     is streaming-first when it has streaming providers — it is in the
+     OTT "now" list in window.FA_OTT, or carries a non-empty providers
+     list on its published entry (the same signal build_ott.py derives
+     the OTT list from, so pages that do not load ott-data.js still get
+     the same answer) — AND it has NO day-wise box-office rows in
+     window.FA_DAYWISE. Such titles never belong in Spotlight or Box
+     Office: both are theatrical contexts, and a streaming-only title
+     shows there as a "Not reported" box-office card or a "Now in
+     Cinemas" poster. A theatrical release that later reaches OTT has
+     day-wise rows and stays. TV series are NOT streaming-only by this
+     rule (different content type) — see the TV order 2026-10-27. */
+  function isStreamingOnly(item) {
+    if (!item || (item.type && item.type !== "movie")) return false;
+    const dw = window.FA_DAYWISE || {};
+    const rows = dw[String(item.id)];
+    if (Array.isArray(rows) && rows.length) return false;
+    const ott = window.FA_OTT;
+    if (ott && Array.isArray(ott.now) && ott.now.some(g => g && String(g.id) === String(item.id))) return true;
+    return Array.isArray(item.providers) && item.providers.length > 0;
+  }
   /* News items (MASTER §6.6): stable id = FNV-1a hash of the source link,
      identical to the id /api/news assigns server-side; the /news-item path
      is where every headline on the site links. */
@@ -666,7 +687,7 @@ const UI = (() => {
       <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. India Net and overseas gross per day; the Total column adds both where reported. Shows, occupancy and tickets are India figures where reported; a dash means not reported for that day. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"}${capped ? " The Total collection till today line sums every recorded day, including days past Day 30." : ""} — open any day for its own collection page.</p></div>`;
   }
 
-  function posterCard(item, type, tag, rank, extraMeta) {
+  function posterCard(item, type, tag, rank, extraMeta, showType) {
     const t = type || (item.media_type === "tv" ? "tv" : "movie");
     const href = t === "tv" ? `/show?id=${item.id}` : `/movie?id=${item.id}`;
     const p = img(item.poster_path, "w342");
@@ -676,6 +697,12 @@ const UI = (() => {
        ("30 October 2026"), not just the year — falls back to the year
        when no full date is stored. */
     const cardDate = fmtDate(item.release_date || item.first_air_date) || yearOf(item);
+    /* Movie/TV tag (TV order 2026-10-27): when showType is true the
+       type renders once, as a .type-tag pill — the plain "· Movie"/"· TV"
+       text is dropped so the type never appears twice. Callers that do
+       not pass showType keep the old text. */
+    const typeTag = showType ? ` <span class="type-tag">${t === "tv" ? "TV" : "Movie"}</span>` : "";
+    const typeText = showType ? "" : `${item.media_type || t ? ` · ${t === "tv" ? "TV" : "Movie"}` : ""}`;
     return `<a class="card" href="${href}">
       <span class="card-poster">${p
         ? `<img src="${p}" alt="${esc(title)} poster" loading="lazy" decoding="async" onerror="this.remove()">`
@@ -683,7 +710,7 @@ const UI = (() => {
       ${rank ? `<span class="rank-badge">${rank}</span>` : ""}
       ${r ? `<span class="rate-badge">${star}${r}/10</span>` : ""}</span>
       <span class="card-body"><span class="card-title">${esc(title)}</span>
-      <span class="card-meta">${esc(cardDate)}${item.media_type || t ? ` · ${t === "tv" ? "TV" : "Movie"}` : ""}${tag ? ` · ${esc(tag)}` : ""}</span>
+      <span class="card-meta">${esc(cardDate)}${typeText}${tag ? ` · ${esc(tag)}` : ""}${typeTag}</span>
       ${extraMeta ? `<span class="card-extra-meta">${esc(extraMeta)}</span>` : ""}</span>
     </a>`;
   }
@@ -701,20 +728,34 @@ const UI = (() => {
 
   /* OTT card (owner order 2026-10-27): the posterCard layout plus the
      streaming-platform logos + names and a date line. The date is the
-     title's RELEASE date (ott-data.js carries date_kind "release") and
-     is labelled as such — "Released 23 October 2026" for titles already
-     streaming, "Releasing 29 October 2026" for coming titles — never
-     as a streaming start date. opts: {coming, providers, tag}. */
+     OTT date from ott-data.js (opts.date): for digital entries
+     (date_kind "digital") that IS the confirmed streaming date; for
+     release entries it is the title's release date. "Now" cards keep
+     "Released {date} · {tag}". "Coming" cards take the Coming Soon
+     look (owner order 2026-10-27): bare full date + Movie/TV, no
+     "Releasing" prefix and no industry tag, plus the rating badge the
+     Coming Soon cards show — with the OTT logo row alongside, pinned
+     to the bottom like every OTT card. Every OTT card carries a
+     Movie/TV type tag (TV order 2026-10-27). opts: {coming, providers,
+     tag, date, dateKind}. */
   function ottCard(item, opts) {
     const o = opts || {};
     const t = item.type === "tv" ? "tv" : "movie";
     const href = t === "tv" ? `/show?id=${item.id}` : `/movie?id=${item.id}`;
     const p = img(item.poster_path, "w342");
+    const r = rating(item);
     const title = titleOf(item);
-    const date = item.release_date || item.first_air_date || "";
-    const dateText = date
-      ? (o.coming ? `Releasing ${fmtDate(date)}` : `Released ${fmtDate(date)}`)
-      : "";
+    const date = o.date || item.release_date || item.first_air_date || "";
+    const dateText = date ? fmtDate(date) : "";
+    /* Meta text keeps " · " separators around the type pill, so the line
+       reads correctly as text too: "30 October 2026 · Movie" (coming),
+       "Released 23 October 2026 · Bollywood · Movie" (now). */
+    const nowParts = [];
+    if (dateText) nowParts.push(`${o.dateKind === "digital" ? "Streaming" : "Released"} ${esc(dateText)}`);
+    if (o.tag) nowParts.push(esc(o.tag));
+    const meta = o.coming
+      ? `${esc(dateText)}${dateText ? " · " : ""}<span class="type-tag">${t === "tv" ? "TV" : "Movie"}</span>`
+      : `${nowParts.join(" · ")}${nowParts.length ? " · " : ""}<span class="type-tag">${t === "tv" ? "TV" : "Movie"}</span>`;
     const provs = Array.isArray(o.providers) ? o.providers
       : (Array.isArray(item.providers) ? item.providers : []);
     const logos = provs.filter(pr => pr && pr.logo_path).map(pr =>
@@ -724,12 +765,99 @@ const UI = (() => {
       <span class="card-poster">${p
         ? `<img src="${p}" alt="${esc(title)} poster" loading="lazy" decoding="async" onerror="this.remove()">`
         : `<span class="noimg"><span>${esc(initials(title))}</span></span>`}
+      ${o.coming && r ? `<span class="rate-badge">${star}${r}/10</span>` : ""}
       </span>
       <span class="card-body"><span class="card-title">${esc(title)}</span>
-      <span class="card-meta">${esc(dateText)}${o.tag ? ` · ${esc(o.tag)}` : ""}</span>
-      ${logos || names ? `<span class="ott-prov-row">${logos}${names ? `<span class="ott-prov-names">${esc(names)}</span>` : ""}</span>` : `<span class="ott-prov-row"><span class="ott-prov-names">Streaming availability not reported</span></span>`}
+      <span class="card-meta">${meta}</span>
+      ${logos || names ? `<span class="ott-prov-row">${logos}${names ? `<span class="ott-prov-names">${esc(names)}</span>` : ""}</span>` : `<span class="ott-prov-row"><span class="ott-prov-names">Platform not reported</span></span>`}
       </span>
     </a>`;
+  }
+
+  /* Custom in-page dropdown (user order 2026-10-27): a button showing
+     the current choice + a list panel that expands DOWNWARD directly
+     below the button, inside the page — never a native <select>, which
+     Chrome on Android phones renders as a modal popup dialog. Same
+     component and behaviour as the episode-guides / dramas dropdowns
+     (generalised here so the homepage filter rows and the See All
+     pages share one implementation): click toggles, click an option
+     chooses + closes, click outside closes, Escape closes,
+     arrows/Home/End move, Enter/Space chooses, typing jumps to a
+     matching option. host must contain a .fa-select-trigger, a
+     .fa-select-value span and a [role="listbox"] menu. options are
+     [{value, label}]. Returns {value, setValue}. */
+  function mountFaSelect(host, options, initialValue, onPick) {
+    const trigger = host.querySelector(".fa-select-trigger");
+    const label = host.querySelector(".fa-select-value");
+    const listbox = host.querySelector('[role="listbox"]');
+    let value = initialValue;
+    let activeIndex = Math.max(0, options.findIndex(o => o.value === value));
+    let opened = false, typeAhead = "", typeAheadTimer;
+    function renderMenu() {
+      listbox.innerHTML = options.map((option, index) =>
+        `<div class="fa-select-option" id="${listbox.id}-option-${index}" role="option" aria-selected="${index === activeIndex}" data-index="${index}"><span>${esc(option.label)}</span><span class="fa-select-check" aria-hidden="true">✓</span></div>`).join("");
+    }
+    function sync() {
+      activeIndex = Math.max(0, options.findIndex(o => o.value === value));
+      label.textContent = options[activeIndex] ? options[activeIndex].label : "Choose an option";
+      renderMenu();
+      if (opened) activate(activeIndex);
+    }
+    function activate(index) {
+      const opts = [...listbox.querySelectorAll('[role="option"]')];
+      if (!opts.length) return;
+      activeIndex = (index + opts.length) % opts.length;
+      const active = opts[activeIndex];
+      trigger.setAttribute("aria-activedescendant", active.id);
+      opts.forEach((option, i) => option.classList.toggle("is-active", i === activeIndex));
+      active.scrollIntoView?.({ block: "nearest" });
+    }
+    function close(restoreFocus) {
+      if (!opened) return;
+      opened = false; listbox.hidden = true; trigger.setAttribute("aria-expanded", "false");
+      trigger.removeAttribute("aria-activedescendant");
+      if (restoreFocus) trigger.focus();
+    }
+    function open() {
+      sync(); if (!options.length) return;
+      opened = true; listbox.hidden = false; trigger.setAttribute("aria-expanded", "true");
+      activate(activeIndex);
+    }
+    function choose() {
+      const option = options[activeIndex]; if (!option) return;
+      value = option.value;
+      sync();
+      close(true);
+      onPick(value);
+    }
+    trigger.addEventListener("click", () => opened ? close() : open());
+    trigger.addEventListener("keydown", event => {
+      if (event.key === "Escape" && opened) { event.preventDefault(); close(); return; }
+      if (event.key === "Tab" && opened) { close(); return; }
+      if (["ArrowDown", "ArrowUp", "Home", "End"].includes(event.key)) {
+        event.preventDefault();
+        if (!opened) open();
+        else if (event.key === "ArrowDown") activate(activeIndex + 1);
+        else if (event.key === "ArrowUp") activate(activeIndex - 1);
+        else if (event.key === "Home") activate(0);
+        else activate(options.length - 1);
+        return;
+      }
+      if ((event.key === "Enter" || event.key === " ") && opened) { event.preventDefault(); choose(); return; }
+      if (event.key.length === 1 && !event.ctrlKey && !event.metaKey && !event.altKey) {
+        typeAhead += event.key.toLocaleLowerCase();
+        const match = options.findIndex(option => option.label.trim().toLocaleLowerCase().startsWith(typeAhead));
+        if (match >= 0) { if (!opened) open(); activate(match); event.preventDefault(); }
+        clearTimeout(typeAheadTimer); typeAheadTimer = setTimeout(() => { typeAhead = ""; }, 700);
+      }
+    });
+    listbox.addEventListener("click", event => {
+      const option = event.target.closest('[role="option"]'); if (!option) return;
+      activeIndex = Number(option.dataset.index); choose();
+    });
+    document.addEventListener("pointerdown", event => { if (opened && !host.contains(event.target)) close(); });
+    sync();
+    return { get value() { return value; }, setValue(v) { value = v; sync(); } };
   }
 
   function skelCards(n = 6) {
@@ -852,10 +980,11 @@ const UI = (() => {
   return { esc, img, newsImg, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
-    freshCutoff, isFresh, newsId, newsItemPath,
+    freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath,
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 

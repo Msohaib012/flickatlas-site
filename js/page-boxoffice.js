@@ -69,7 +69,7 @@
      "not yet recorded" state. No cap — this page IS the See All. */
   const hasRows = (x) => { const r = dw[String(x.id)]; return Array.isArray(r) && r.length > 0; };
   const picks = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.type === "movie" && x.poster_path && x.release_date && x.release_date <= today && (hasRows(x) || UI.isFresh(x)))
+    .filter(x => x && x.type === "movie" && x.poster_path && x.release_date && x.release_date <= today && (hasRows(x) || UI.isFresh(x)) && !UI.isStreamingOnly(x))
     .sort((a, b) => (b.release_date || "").localeCompare(a.release_date || ""))
     .filter(x => inFilter(x))
     .map(entry => ({ entry, rows: dw[String(entry.id)] || [] }));
@@ -83,6 +83,7 @@
     ${UI.rateNote()}
   </div>`;
 })();
+
 
 
 

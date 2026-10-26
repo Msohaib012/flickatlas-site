@@ -114,9 +114,24 @@
       return map;
     };
     const trackerPromise = loadTracker();
-    const publishedFor = (kind, industry) => {
+    /* TV order 2026-10-27: Spotlight, Coming Soon and OTT include TV
+       series alongside movies (Box Office stays movies-only). `type`
+       is "movie" | "tv" | "all" (default "all" so the Release Calendar,
+       which does not pass a type, keeps its old mixed pool). TV series
+       are NOT split by the Bollywood/World industry tabs — the 13
+       published series are Pakistani dramas (industry "pakistani"),
+       which match neither tab, so a TV filter that kept the industry
+       gate would always show empty. Movies keep the industry gate.
+       Streaming-first MOVIES stay out of Spotlight (the earlier
+       exclusion order stands); TV series are a different content type
+       and belong here even when they stream. */
+    const publishedFor = (kind, industry, type = "all") => {
       const ind = industry === "international" ? "world" : "bollywood";
       const items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
+      const byType = (list) => type === "movie" ? list.filter(x => typeOf(x) === "movie")
+        : type === "tv" ? list.filter(x => typeOf(x) === "tv") : list;
+      const releasedTv = () => pubAll()
+        .filter(x => x && x.poster_path && typeOf(x) === "tv" && isReleased(x)).sort(byNewest);
       if (kind === "spotlight") {
         /* Owner order 2026-10-26: show 10-15 on the homepage (was 4-5:
            the old 'fresh this week' rule capped Bollywood at the 4 movies
@@ -124,11 +139,30 @@
            (fresh first by sort order). Bollywood has only 8 released
            titles in the catalogue, so its tab shows 8 (all of them) until
            the seeder adds more; World shows 12. */
-        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x)).sort(byNewest);
+        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x) && !UI.isStreamingOnly(x)).sort(byNewest);
+        if (type === "tv") return releasedTv().slice(0, 12);
+        if (type === "all") {
+          /* "All" must visibly show BOTH types: a plain newest-first
+             merge squeezes TV out — the 12 newest released items are
+             all movies (every Oct 2026 movie is newer than the newest
+             drama, Bano 13 Oct). So interleave newest movie / newest
+             TV, alternating until the 12-card cap; each type stays
+             newest-first within itself. When a type is empty the other
+             fills the rail. */
+          const tv = releasedTv();
+          const merged = [];
+          let mi = 0, ti = 0;
+          while (merged.length < 12 && (mi < rel.length || ti < tv.length)) {
+            if (mi < rel.length) merged.push(rel[mi++]);
+            if (merged.length >= 12) break;
+            if (ti < tv.length) merged.push(tv[ti++]);
+          }
+          return merged;
+        }
         return rel.slice(0, 12);
       }
-      if (kind === "soon") return items.filter(x => isUpcoming(x)).sort(byMostAwaited);
-      return items.filter(x => isUpcoming(x)).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
+      if (kind === "soon") return byType(items.filter(x => isUpcoming(x))).sort(byMostAwaited);
+      return byType(items.filter(x => isUpcoming(x))).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
@@ -210,10 +244,23 @@
       <a class="see-all" href="${href}">See All →</a></div>
       ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
-    const bollyReleased = publishedFor("spotlight", "bollywood");
-    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${switchButtons("spotlight")}<p class="sec-sub">All movies running now, newest first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, "movie", "")).join("")}</div></section>` : "";
-    const bollySoon = publishedFor("soon", "bollywood").slice(0, HOME_LIMITS.soon);
-    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
+    /* Homepage filter row (TV order 2026-10-27, corrected 2026-10-27):
+       Industry + Type as .fa-select in-page dropdowns side by side in
+       ONE horizontal line (.home-filter-row) — never chips, never a
+       native <select>. Used by Spotlight, Coming Soon and OTT only;
+       Box Office and the Release Calendar keep the chip switcher.
+       Default type is Movies (the sections' current view is unchanged
+       on load); TV series are one tap away. */
+    const TYPE_OPTIONS = [{ value: "movie", label: "Movies" }, { value: "tv", label: "TV Series" }, { value: "all", label: "All" }];
+    const INDUSTRY_OPTIONS = [{ value: "bollywood", label: "Bollywood" }, { value: "international", label: "World Cinema" }];
+    const homeFilterRow = (kind) => `<div class="home-filter-row" data-filter-row="${kind}">
+      <div class="filter-select" role="group" aria-labelledby="${kind}IndLabel"><span id="${kind}IndLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}IndTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}IndOptions" aria-labelledby="${kind}IndLabel ${kind}IndValue"><span class="fa-select-value" id="${kind}IndValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}IndOptions" role="listbox" aria-labelledby="${kind}IndLabel" hidden></div></div></div>
+      <div class="filter-select" role="group" aria-labelledby="${kind}TypeLabel"><span id="${kind}TypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}TypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}TypeOptions" aria-labelledby="${kind}TypeLabel ${kind}TypeValue"><span class="fa-select-value" id="${kind}TypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}TypeOptions" role="listbox" aria-labelledby="${kind}TypeLabel" hidden></div></div></div>
+    </div>`;
+    const bollyReleased = publishedFor("spotlight", "bollywood", "movie");
+    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${homeFilterRow("spotlight")}<p class="sec-sub">Movies and TV series running now, newest first; filter by industry and type.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
+    const bollySoon = publishedFor("soon", "bollywood", "movie").slice(0, HOME_LIMITS.soon);
+    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${homeFilterRow("soon")}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
 
     /* ---------- Lollywood: Pakistani released titles, fresh-first (falls
        back to all released, same as the other rails), newest first. The
@@ -293,7 +340,7 @@
        "not yet recorded" state in the card. First 8. */
     const boHasRows = (x) => { const r = dwData[String(x.id)]; return Array.isArray(r) && r.length > 0; };
     const boPool = pubAll()
-      .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && (boHasRows(x) || UI.isFresh(x)))
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && (boHasRows(x) || UI.isFresh(x)) && !UI.isStreamingOnly(x))
       .sort(byNewest);
     /* Box Office by industry (user order 2026-10-26): the same pool as
        /box-office, split by industry for the homepage switcher — the
@@ -338,11 +385,17 @@
     const ottInIndustry = (x, industry) => industry === "international"
       ? ((x.industry || "") === "world" && !(x.origin_country || []).includes("IN"))
       : ((x.industry || "") === "bollywood" || (x.origin_country || []).includes("IN"));
-    const ottFor = (group, industry) => (ottGroups[group] || [])
+    const ottFor = (group, industry, type = "all") => (ottGroups[group] || [])
       .map(g => ({ g, x: pubMap[String(g.id)] }))
-      .filter(({ x }) => x && x.poster_path && ottInIndustry(x, industry))
+      .filter(({ x }) => {
+        if (!x || !x.poster_path) return false;
+        if (type === "movie" && typeOf(x) !== "movie") return false;
+        if (type === "tv" && typeOf(x) !== "tv") return false;
+        if (typeOf(x) === "tv") return true; /* TV ignores the industry tabs */
+        return ottInIndustry(x, industry);
+      })
       .slice(0, HOME_LIMITS.ott);
-    const ottCardHtml = ({ g, x }, coming) => UI.ottCard(x, { coming, providers: g.providers, tag: tagFor(x) });
+    const ottCardHtml = ({ g, x }, coming) => UI.ottCard(x, { coming, providers: g.providers, tag: tagFor(x), date: g.date, dateKind: g.date_kind });
     const ottRailHtml = (items, coming) => items.length
       ? items.map(p => ottCardHtml(p, coming)).join("")
       : `<p role="status">No ${coming ? "upcoming OTT releases" : "titles streaming on OTT"} reported for this industry yet.</p>`;
@@ -351,7 +404,7 @@
     const ottHtml = ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
       <div class="section-head"><h2>OTT</h2>
       <a class="see-all" href="/ott">See All →</a></div>
-      ${switchButtons("ott")}<p class="sec-sub">Movies now streaming, and what's coming next · Bollywood</p>
+      ${homeFilterRow("ott")}<p class="sec-sub">Movies now streaming, and what's coming next · Bollywood</p>
       <div class="ott-group"><h3>Now on OTT</h3><div class="scroller" data-results="now">${ottRailHtml(ottFor("now", "bollywood"), false)}</div></div>
       <div class="ott-group"><h3>Coming to OTT</h3><div class="scroller" data-results="coming">${ottRailHtml(ottFor("coming", "bollywood"), true)}</div></div>
     </section>` : "";
@@ -872,6 +925,63 @@
       if (initial !== "bollywood") activate(initial, false);
       window.addEventListener("popstate", () => activate(new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood", false));
     });
+    /* Homepage dropdown filters (TV order 2026-10-27, corrected
+       2026-10-27): Spotlight, Coming Soon and OTT filter by Industry +
+       Type with the .home-filter-row dropdowns above — one row, never
+       chips. Box Office and the Release Calendar keep the chip
+       switcher wired just above. Default type is Movies. The See All
+       link carries the type (?t=tv / ?t=all) so the See All page opens
+       on the same view; Movies is the See All default, so no param is
+       needed for it. */
+    const typeLabel = (t) => t === "tv" ? "TV Series" : t === "all" ? "All" : "Movies";
+    const typeParam = (t) => t === "movie" ? "" : `&t=${t}`;
+    document.querySelectorAll("[data-filter-row]").forEach(row => {
+      const kind = row.dataset.filterRow;
+      const section = row.closest("section");
+      const link = section.querySelector(".see-all");
+      const stateKey = homeStateKey(kind);
+      const state = {
+        industry: new URL(location.href).searchParams.get(stateKey) === "international" ? "international" : "bollywood",
+        type: "movie",
+      };
+      const render = () => {
+        const industry = state.industry, type = state.type;
+        if (kind === "ott") {
+          section.querySelector("h2").textContent = "OTT";
+          link.href = `/ott?f=${industry}${typeParam(type)}`;
+          section.querySelector(".sec-sub").textContent = "Movies now streaming, and what's coming next · " + industryLabel(industry) + " · " + typeLabel(type);
+          const nowHost = section.querySelector('[data-results="now"]');
+          const comingHost = section.querySelector('[data-results="coming"]');
+          const nowItems = ottFor("now", industry, type);
+          const comingItems = ottFor("coming", industry, type);
+          if (nowHost) nowHost.innerHTML = nowItems.length ? nowItems.map(p => ottCardHtml(p, false)).join("") : `<p role="status">No titles streaming on OTT for ${industryLabel(industry)} yet.</p>`;
+          if (comingHost) comingHost.innerHTML = comingItems.length ? comingItems.map(p => ottCardHtml(p, true)).join("") : `<p role="status">No upcoming OTT releases reported for ${industryLabel(industry)} yet.</p>`;
+          return;
+        }
+        section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : "Coming Soon & Most Awaited";
+        link.href = kind === "spotlight"
+          ? `/movies?f=${industry}&s=recent&seeall=1${typeParam(type)}`
+          : `/most-awaited?f=${industry}${typeParam(type)}`;
+        section.querySelector(".sec-sub").textContent = kind === "spotlight"
+          ? "Movies and TV series running now, newest first · " + industryLabel(industry) + " · " + typeLabel(type)
+          : "Most awaited first; dates may change · " + industryLabel(industry) + " · " + typeLabel(type);
+        const result = section.querySelector("[data-results]");
+        const items = kind === "spotlight" ? publishedFor(kind, industry, type) : publishedFor(kind, industry, type).slice(0, HOME_LIMITS.soon);
+        result.innerHTML = items.length
+          ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined, undefined, true)).join("")
+          : '<p role="status">No matching titles found.</p>';
+      };
+      const selects = row.querySelectorAll(".filter-select");
+      UI.mountFaSelect(selects[0], INDUSTRY_OPTIONS, state.industry, (v) => {
+        state.industry = v;
+        const u = new URL(location.href);
+        if (v === "bollywood") u.searchParams.delete(stateKey); else u.searchParams.set(stateKey, v);
+        history.pushState(null, "", u);
+        render();
+      });
+      UI.mountFaSelect(selects[1], TYPE_OPTIONS, state.type, (v) => { state.type = v; render(); });
+      if (state.industry !== "bollywood") render();
+    });
     /* Wiring steps are guarded individually: a failure here must never
        wipe the rendered page (see the `rendered` flag above). A failed
        news fill removes the section instead of leaving a skeleton;
@@ -978,6 +1088,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
