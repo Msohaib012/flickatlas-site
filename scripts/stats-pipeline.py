@@ -125,7 +125,7 @@ def latest_run(workflow_file, token):
         "status": (r.get("conclusion") or r.get("status") or "unknown"),
         "run_id": r.get("id"),
         "started_at": r.get("created_at"),
-        "finished_at": r.get("updated_at"),
+        "finished_at": r.get("updated_at") if r.get("status") == "completed" else None,
         "url": r.get("html_url"),
     }
 
@@ -268,3 +268,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
