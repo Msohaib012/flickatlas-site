@@ -1674,6 +1674,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 #app #chipHost .filter-select .fsel{width:100%;min-width:0;max-width:100%;min-height:44px;margin:0;padding:8px 10px;border-radius:10px;font-size:.88rem;}
 #app #chipHost .fa-select{position:relative;width:100%;min-width:0;}
 #app #chipHost .fa-select-trigger{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;min-width:0;min-height:44px;margin:0;padding:8px 11px;border:1px solid #cbded7;border-radius:10px;background:#fff;color:#183e35;font-size:.88rem;font-weight:700;text-align:left;cursor:pointer;touch-action:manipulation;}
+#app #chipHost .fa-select-value{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
 #app #chipHost .fa-select-trigger:hover{border-color:#7ba99b;background:#f8fbfa;}
 #app #chipHost .fa-select-trigger:focus-visible{outline:3px solid #0a8273;outline-offset:2px;}
 #app #chipHost .fa-select-chevron{flex:none;width:8px;height:8px;border-right:2px solid #38675b;border-bottom:2px solid #38675b;transform:rotate(45deg) translateY(-2px);transition:transform .15s ease;}

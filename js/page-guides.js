@@ -3,8 +3,12 @@
    order 2026-10-26): one row per episode, homepage .ep-row style
    (thumbnail LEFT + title/date RIGHT, same as the homepage Drama
    Episodes rail), NOT poster cards and NOT the old date-block rows.
-   A drama filter (a DOWNWARD <select> dropdown, page-tv.js pattern)
-   at the top narrows the list to one drama. Each row links to its own
+   A drama filter (a CUSTOM in-page dropdown — a button + a panel that
+   expands DOWNWARD inside the page) at the top narrows the list to
+   one drama. It must NOT be a native <select>: Chrome on Android
+   phones renders a native <select> as a modal popup dialog, and the
+   user ordered a dropdown, not a popup. Reuses the site's .fa-select
+   styles (same component as the Movies/Upcoming pages).
    detail page (/news-item?id=<article_id>). Episodes come from the
    YouTube episode tracker (scripts/episode-guides.py): each new episode
    gets an info post the same day, and the top episodes by views get an
@@ -159,6 +163,89 @@
     return out.filter(e => e.articleId && e.drama);
   }
 
+  /* Custom in-page dropdown (user order 2026-10-27): a button showing
+     the current choice + a list panel that expands DOWNWARD directly
+     below the button, inside the page — never a native <select>, which
+     Chrome on Android phones renders as a modal popup dialog.
+     Reuses the site's .fa-select styles (same component as the
+     Movies/Upcoming pages) and the same behaviour: click toggles,
+     click an option chooses + closes, click outside closes, Escape
+     closes, arrows/Home/End move, Enter/Space chooses, typing
+     jumps to a matching option. No <select> exists in this control. */
+  function mountFaSelect(host, options, initialValue, onPick) {
+    const trigger = host.querySelector(".fa-select-trigger");
+    const label = host.querySelector(".fa-select-value");
+    const listbox = host.querySelector('[role="listbox"]');
+    let value = initialValue;
+    let activeIndex = Math.max(0, options.findIndex(o => o.value === value));
+    let opened = false, typeAhead = "", typeAheadTimer;
+    function renderMenu() {
+      listbox.innerHTML = options.map((option, index) =>
+        `<div class="fa-select-option" id="${listbox.id}-option-${index}" role="option" aria-selected="${index === activeIndex}" data-index="${index}"><span>${UI.esc(option.label)}</span><span class="fa-select-check" aria-hidden="true">✓</span></div>`).join("");
+    }
+    function sync() {
+      activeIndex = Math.max(0, options.findIndex(o => o.value === value));
+      label.textContent = options[activeIndex] ? options[activeIndex].label : "Choose an option";
+      renderMenu();
+      if (opened) activate(activeIndex);
+    }
+    function activate(index) {
+      const opts = [...listbox.querySelectorAll('[role="option"]')];
+      if (!opts.length) return;
+      activeIndex = (index + opts.length) % opts.length;
+      const active = opts[activeIndex];
+      trigger.setAttribute("aria-activedescendant", active.id);
+      opts.forEach((option, i) => option.classList.toggle("is-active", i === activeIndex));
+      active.scrollIntoView?.({ block: "nearest" });
+    }
+    function close(restoreFocus) {
+      if (!opened) return;
+      opened = false; listbox.hidden = true; trigger.setAttribute("aria-expanded", "false");
+      trigger.removeAttribute("aria-activedescendant");
+      if (restoreFocus) trigger.focus();
+    }
+    function open() {
+      sync(); if (!options.length) return;
+      opened = true; listbox.hidden = false; trigger.setAttribute("aria-expanded", "true");
+      activate(activeIndex);
+    }
+    function choose() {
+      const option = options[activeIndex]; if (!option) return;
+      value = option.value;
+      sync();
+      close(true);
+      onPick(value);
+    }
+    trigger.addEventListener("click", () => opened ? close() : open());
+    trigger.addEventListener("keydown", event => {
+      if (event.key === "Escape" && opened) { event.preventDefault(); close(); return; }
+      if (event.key === "Tab" && opened) { close(); return; }
+      if (["ArrowDown", "ArrowUp", "Home", "End"].includes(event.key)) {
+        event.preventDefault();
+        if (!opened) open();
+        else if (event.key === "ArrowDown") activate(activeIndex + 1);
+        else if (event.key === "ArrowUp") activate(activeIndex - 1);
+        else if (event.key === "Home") activate(0);
+        else activate(options.length - 1);
+        return;
+      }
+      if ((event.key === "Enter" || event.key === " ") && opened) { event.preventDefault(); choose(); return; }
+      if (event.key.length === 1 && !event.ctrlKey && !event.metaKey && !event.altKey) {
+        typeAhead += event.key.toLocaleLowerCase();
+        const match = options.findIndex(option => option.label.trim().toLocaleLowerCase().startsWith(typeAhead));
+        if (match >= 0) { if (!opened) open(); activate(match); event.preventDefault(); }
+        clearTimeout(typeAheadTimer); typeAheadTimer = setTimeout(() => { typeAhead = ""; }, 700);
+      }
+    });
+    listbox.addEventListener("click", event => {
+      const option = event.target.closest('[role="option"]'); if (!option) return;
+      activeIndex = Number(option.dataset.index); choose();
+    });
+    document.addEventListener("pointerdown", event => { if (opened && !host.contains(event.target)) close(); });
+    sync();
+    return { get value() { return value; }, setValue(v) { value = v; sync(); } };
+  }
+
   try {
     let eps = await episodesFromState();
     if (!eps || !eps.length) eps = episodesFromArticles();
@@ -170,11 +257,12 @@
       host.innerHTML = UI.stateMsg("No drama episodes have been published yet. New episodes appear here as they air on YouTube.", false);
       return;
     }
-    /* Drama filter (user order 2026-10-26): a DOWNWARD <select>
-       dropdown (page-tv.js pattern — same .listing-select-row /
-       .filter-select / select.fsel markup and #chipHost styling),
-       NOT buttons and NOT a popup. Options are the listed Pakistani
-       dramas that have episodes, sorted; "All Dramas" is default. */
+    /* Drama filter (user order 2026-10-26, rebuilt 2026-10-27 as a
+       CUSTOM in-page dropdown): a button + a panel expanding
+       DOWNWARD inside the page — never a native <select>, which
+       Chrome on Android phones renders as a modal popup dialog.
+       Options are the listed Pakistani dramas that have episodes,
+       sorted; "All Dramas" is default. Filter logic unchanged. */
     let activeDrama = "";
     const dramas = [...new Set(eps.map(e => e.drama))].sort((a, b) => a.localeCompare(b));
     const renderList = () => {
@@ -184,12 +272,10 @@
         ? `<div class="tl-list">${list.map(epRow).join("")}</div>`
         : UI.stateMsg("No episodes for this drama yet.", false);
     };
-    filterHost.innerHTML = `<div class="listing-select-row listing-select-row--single"><label class="filter-select"><span>Drama</span><select class="fsel" id="dramaSel" aria-label="Filter by drama"><option value="">All Dramas</option>${dramas.map(d => `<option value="${UI.esc(d)}">${UI.esc(d)}</option>`).join("")}</select></label></div>`;
-    const sel = filterHost.querySelector("#dramaSel");
-    sel.addEventListener("change", () => {
-      activeDrama = sel.value;
-      renderList();
-    });
+    filterHost.innerHTML = `<div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="dramaFilterLabel"><span id="dramaFilterLabel">Drama</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="dramaTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="dramaOptions" aria-labelledby="dramaFilterLabel dramaValue"><span class="fa-select-value" id="dramaValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="dramaOptions" role="listbox" aria-labelledby="dramaFilterLabel" hidden></div></div></div></div>`;
+    mountFaSelect(filterHost.querySelector(".filter-select"),
+      [{ value: "", label: "All Dramas" }, ...dramas.map(d => ({ value: d, label: d }))],
+      "", (value) => { activeDrama = value; renderList(); });
     renderList();
   } catch (e) {
     fcount.textContent = "Episode guides could not be loaded.";
