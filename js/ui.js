@@ -506,7 +506,7 @@ const UI = (() => {
       </div>
       <div class="wrap foot-base">
         <span>© ${new Date().getFullYear()} FlickAtlas. All rights reserved.</span>
-        <span class="foot-note">Data &amp; artwork via TMDB. Box office verdicts are estimates.</span>
+        <span class="foot-note">Box office verdicts are estimates.</span>
       </div></footer>`;
       const compactFooter = window.matchMedia("(max-width:900px)");
       const setFooterMode = () => foot.querySelectorAll("details.foot-col").forEach(group => { group.open = !compactFooter.matches; });
@@ -786,6 +786,7 @@ const UI = (() => {
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 
