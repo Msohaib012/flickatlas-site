@@ -3746,5 +3746,359 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 11:30:18 GMT"
+  },
+  "1jbjc71": {
+    "id": "1jbjc71",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Day 1 Advance Booking: Ranbir Kapoor Starrer Crosses $2 Million in Pre-Sales",
+    "dek": "With ten days remaining until its theatrical release on November 5, 2026, the mythological drama Ramayana has already broken into the top 10 global openers of the year.",
+    "body": [
+      {
+        "h": "Strong Global Momentum Begins",
+        "p": [
+          "The global box office momentum for one of Indian cinema's most anticipated projects has officially commenced at ticket counters through advance bookings. With exactly ten days remaining before its grand theatrical arrival on November 5 for Diwali 2026, the mythological drama Ramayana has generated substantial early interest.",
+          "Directed by Nitesh Tiwari, the feature film stars prominent actors including Ranbir Kapoor, Sai Pallavi, and Yash. Ahead of its official premiere, the production has already grossed $2 million in overseas pre-sales, reflecting a powerful initial pull across international territories."
+        ]
+      },
+      {
+        "h": "International Pre-Sales Breakdown",
+        "p": [
+          "The massive advance sales span across North America, the United Kingdom, Australia, and domestic IMAX circuits. Through these early transactions, the feature has officially crossed the $2 million threshold, translating to a 20.50 crore gross in worldwide Day 1 pre-sales.",
+          "As premiere screens fill up at a rapid pace, the epic adventure is positioning itself for a major global debut. Specific territorial contributions include $90,000 in the UK, $60,000 in Australia, and $400,000 across remaining international territories."
+        ]
+      },
+      {
+        "h": "Securing a Place Among Top Openers",
+        "p": [
+          "Even with ten days left before the theatrical rollout, the Ranbir Kapoor starrer has successfully entered the top 10 global openers of 2026. By locking in unprecedented early numbers across domestic and overseas belts, the project has demonstrated significant pre-release strength.",
+          "This initial surge allowed the feature to surpass Alia Bhatt's Alpha, a Yash Raj Films project from the Spy Universe that previously held a spot with a global gross collection of 17.14 crore."
+        ]
+      },
+      {
+        "h": "Domestic Pre-Sales Highlights",
+        "p": [
+          "Domestically, the momentum is reflected in strong localized demand, highlighted by six houseful shows already being locked in prior to release. Notably, Bengaluru has surpassed Mumbai in pre-sales figures for the multi-starrer event.",
+          "With main screen allocations continuing to open up worldwide, industry observers note that the project's box office momentum could potentially double during the final week leading up to the premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date is November 5, 2026",
+      "Pre-sales gross reached $2 million",
+      "Worldwide Day 1 pre-sales amount to 20.50 crore gross",
+      "UK pre-sales reached $90,000",
+      "Australia pre-sales reached $60,000",
+      "Remaining territories contributed $400,000"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Ramayana",
+        "Alpha",
+        "Drishyam 3",
+        "Border 2",
+        "Mirzapur",
+        "Awarapan 2",
+        "Welcome To The Jungle",
+        "Bhooth Bangla",
+        "Cocktail",
+        "Dhamaal 4"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/ramayana-worldwide-box-office-day-1-advance-booking-001.jpg",
+        "caption": "Ramayana Worldwide Box Office Day 1 Advance Booking: Ranbir Kapoor Starrer Crosses $2 Million in Pre-Sales",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 12:08:05 +0000"
+  },
+  "1pfuwhu": {
+    "id": "1pfuwhu",
+    "type": "news",
+    "headline": "Saif Ali Khan, Vidya Balan, and Mélanie Laurent Cast in Ritesh Batra’s Comedy-Drama 'Long Years Ago'",
+    "dek": "Production is underway in Mumbai for the new film directed by The Lunchbox filmmaker Ritesh Batra, featuring a high-profile international cast.",
+    "body": [
+      {
+        "h": "Production Begins in Mumbai",
+        "p": [
+          "Filming is officially underway in Mumbai for the upcoming comedy-drama titled Long Years Ago. The project brings together a notable international ensemble featuring Bollywood stars Saif Ali Khan and Vidya Balan alongside French actress Mélanie Laurent. Production is currently progressing under the direction of Ritesh Batra, who also co-wrote the film.",
+          "The project hails from the film and TV production outfit Poetic License, founded by Adeel Ahmed and Batra. They are producing the feature in partnership with Jio Studios and Good Chaos. Jyoti Deshpande is producing on behalf of Jio Studios, while Mike Goodridge and Teresa Moneo of Good Chaos serve as executive producers alongside Siddharth Mehra."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "Set in the year 1991, the narrative of Long Years Ago centers on a family struggling with unspoken words and emotional distance. The official premise describes it as a story about a household that has gone too long without addressing what truly matters, ultimately forcing the characters to find the necessary words.",
+          "Director Ritesh Batra expressed his deep enthusiasm for bringing the project to life with such a distinguished cast. He noted his honor in working with Khan, Balan, and Laurent to translate characters that hold personal significance for him onto the screen."
+        ]
+      },
+      {
+        "h": "Cast Reflections and Reunions",
+        "p": [
+          "Saif Ali Khan shared his immediate connection to the material, praising Batra's unique ability to tell deeply personal stories that resonate across cultures. He highlighted his excitement about collaborating with Laurent, Balan, and the rest of the production team.",
+          "For Vidya Balan, the project marks a special reunion with Saif Ali Khan. Balan noted that she has long hoped to work with Batra, whose storytelling she admires for its sensitivity and honesty. She pointed out that reuniting with Khan adds extra significance, as he starred alongside her in her debut film, Parineeta.",
+          "Mélanie Laurent recalled meeting Batra fifteen years ago at the Marrakech Film Festival, where they shared a dream of eventually collaborating in Mumbai. She expressed great honor and happiness in joining the new venture."
+        ]
+      },
+      {
+        "h": "Filmmaker Background and Legacy",
+        "p": [
+          "Ritesh Batra established his international reputation with his acclaimed feature debut The Lunchbox, which premiered at the Cannes Film Festival and became a major commercial success in India. His subsequent directorial credits include Our Souls at Night starring Robert Redford and Jane Fonda, and the Sundance selection Photograph, which featured Nawazuddin Siddiqui and Sanya Malhotra. More recently, Batra directed the opening block of the upcoming Netflix series Unaccustomed Earth after replacing original director Nisha Ganatra.",
+          "In addition to his film work, Batra wrote The Lunchbox Musical, a theatrical stage adaptation of his 2013 movie that enjoyed a sold-out run at the Berkeley Repertory Theatre. Meanwhile, his company Poetic License maintains ongoing projects in development with HBO and A24."
+        ]
+      },
+      {
+        "h": "The Ensemble and Producing Team",
+        "p": [
+          "The starring trio brings extensive global acclaim. Saif Ali Khan is widely recognized for his work in Dil Chahta Hai, Omkara, and the streaming series Sacred Games. Vidya Balan is a National Award-winning actor known for major screen performances. Mélanie Laurent holds a César award and has earned international fame through prominent roles in Inglourious Basterds and Now You See Me.",
+          "Executive producer Siddharth Mehra, a former A24 executive, launched the label Total Monsoon and oversaw shows such as Beef and Mo for Netflix. His recent slate includes the prequel series Crystal Lake, which premiered on Peacock and Sky, alongside upcoming productions like Superfakes for A24."
+        ]
+      }
+    ],
+    "facts": [
+      "Long Years Ago is set in 1991.",
+      "The film stars Saif Ali Khan, Vidya Balan, and Mélanie Laurent.",
+      "Ritesh Batra is the writer and director of the film.",
+      "Production for Long Years Ago is underway in Mumbai.",
+      "Jio Studios and Good Chaos are involved in producing and backing the film.",
+      "Vidya Balan and Saif Ali Khan previously starred together in Parineeta.",
+      "Ritesh Batra previously directed The Lunchbox, Our Souls at Night, and Photograph."
+    ],
+    "entities": {
+      "people": [
+        "Saif Ali Khan",
+        "Vidya Balan",
+        "Mélanie Laurent",
+        "Ritesh Batra",
+        "Adeel Ahmed",
+        "Jyoti Deshpande",
+        "Mike Goodridge",
+        "Teresa Moneo",
+        "Siddharth Mehra",
+        "Robert Redford",
+        "Jane Fonda",
+        "Nawazuddin Siddiqui",
+        "Sanya Malhotra",
+        "Nisha Ganatra"
+      ],
+      "titles": [
+        "Long Years Ago",
+        "The Lunchbox",
+        "Our Souls at Night",
+        "Photograph",
+        "Unaccustomed Earth",
+        "The Lunchbox Musical",
+        "Dil Chahta Hai",
+        "Omkara",
+        "Sacred Games",
+        "Inglourious Basterds",
+        "Now You See Me",
+        "Parineeta",
+        "Beef",
+        "Mo",
+        "Crystal Lake",
+        "Superfakes"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/Saif-Ali-Khan-Vidya-Balan-Melanie-Laurent.jpg?w=1000",
+        "caption": "Saif Ali Khan, Vidya Balan, and Mélanie Laurent Cast in Ritesh Batra’s Comedy-Drama 'Long Years Ago'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 12:18:14 +0000"
+  },
+  "1vobiie": {
+    "id": "1vobiie",
+    "type": "news",
+    "headline": "Cryptozoic Entertainment Announces Fight! Mortal Kombat 1 Deck-Building Game",
+    "dek": "A brand-new tabletop adaptation titled Fight! Mortal Kombat 1 has successfully crushed its Kickstarter goals, bringing strategic card combat to fans ahead of future franchise developments.",
+    "body": [
+      {
+        "h": "A Successful Tabletop Crowdfunding Campaign",
+        "p": [
+          "The enduring legacy of the Mortal Kombat property continues to expand beyond traditional screens and consoles into the tabletop space. Cryptozoic Entertainment recently launched a Kickstarter campaign for a brand-new project titled Fight! Mortal Kombat 1 - Deck-Building Game, which has quickly captured the attention of enthusiasts worldwide.",
+          "Although the fundraising period has not yet concluded, the campaign has dramatically outperformed expectations. It quickly blew past its initial financial target of approximately $60,000, surging ahead to accumulate a total of more than $220,000 in backing."
+        ]
+      },
+      {
+        "h": "Mechanics and Gameplay Design",
+        "p": [
+          "Designed as the newest addition to the Cerberus deck-building game family, the project utilizes an entirely new framework known as the Fight! Engine. This system was engineered from the ground up to deliver a dynamic two-player experience while remaining optimized to accommodate additional participants.",
+          "Players are given the opportunity to select their favorite Kombatants from Mortal Kombat 1, tailor their own unique playstyles, and execute elaborate kombos. The design aims to replicate the competitive tension of a traditional fighting game on a tabletop surface, culminating in the execution of overpowered fatalities whenever an opponent is defeated."
+        ]
+      },
+      {
+        "h": "Contents and Planned Expansions",
+        "p": [
+          "For supporters who choose to back the campaign at the appropriate level, the standard offering comes packed with a comprehensive assortment of components. Inside the box, players will find 242 standard cards, nine tarot-sized Kombatant cards, four health tracker cards, four health markers, 18 korpse tokens, and a rulebook.",
+          "In addition to the core box contents, the manufacturer has outlined plans for future post-launch support to keep the gameplay fresh and engaging. Three full expansions are currently mapped out for release further down the road, which will introduce additional characters and cards to the experience."
+        ]
+      },
+      {
+        "h": "Player Counts and Replayability",
+        "p": [
+          "The physical card game is tailored to support groups ranging from two to four players. A standard one-versus-one match is designed to move at a brisk pace, taking approximately thirty minutes or less to complete.",
+          "Overall session lengths for larger groups generally range from thirty to forty-five minutes depending on participant counts. The quick turnaround times and distinct strategic pathways contribute to high levels of replayability."
+        ]
+      },
+      {
+        "h": "Broader Franchise Context",
+        "p": [
+          "This tabletop release arrives as the broader Mortal Kombat franchise continues to maintain a massive multi-medium footprint. From its origins as a 1992 arcade phenomenon to numerous cinematic adaptations and ongoing video game iterations, the series remains culturally prominent.",
+          "For devoted followers of the franchise, diving into the tabletop adaptation offers a compelling way to pass the time while the community awaits further official details regarding the next major interactive installment in development."
+        ]
+      }
+    ],
+    "facts": [
+      "The Kickstarter campaign for Fight! Mortal Kombat 1 - Deck-Building Game is hosted by Cryptozoic Entertainment.",
+      "The initial fundraising goal for the project was approximately $60,000.",
+      "The campaign has raised a total of over $220,000.",
+      "The standard game offering includes 242 standard cards and 9 tarot-sized Kombatant cards.",
+      "The game supports 2 to 4 players with matches lasting between 30 and 45 minutes."
+    ],
+    "entities": {
+      "people": [
+        "James Lynch",
+        "Ed Boon"
+      ],
+      "titles": [
+        "Fight! Mortal Kombat 1 - Deck-Building Game",
+        "Mortal Kombat",
+        "Mortal Kombat 1",
+        "Mortal Kombat: Annihilation",
+        "Mortal Kombat Legends: Scorpion's Revenge",
+        "Mortal Kombat Legends: Battle of the Realms",
+        "Mortal Kombat Legends: Snow Blind",
+        "Mortal Kombat Legends: Cage Match",
+        "Mortal Kombat II",
+        "Mortal Kombat III",
+        "Mortal Kombat 4",
+        "Mortal Kombat: Deadly Alliance",
+        "Mortal Kombat Deception",
+        "Mortal Kombat: Armageddon",
+        "Mortal Kombat vs. DC Universe",
+        "Mortal Kombat X",
+        "Mortal Kombat 11",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/noob-saibot-staring-with-blank-eyes-in-mortal-kombat-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Cryptozoic Entertainment Announces Fight! Mortal Kombat 1 Deck-Building Game",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 11:57:52 GMT"
+  },
+  "y0x40f": {
+    "id": "y0x40f",
+    "type": "news",
+    "headline": "Surviving Hurricane Otis Dethrones Ben Affleck's Animals on Netflix",
+    "dek": "The Mexican survival drama Surviving Hurricane Otis has officially seized the top spot on Netflix's global film charts, ending the reign of Ben Affleck's thriller Animals.",
+    "body": [
+      {
+        "h": "The Shift in Global Streaming Charts",
+        "p": [
+          "A new survival drama has successfully captured the attention of audiences worldwide, bringing an end to the streaming dominance of Ben Affleck's latest directorial venture on Netflix. After claiming the coveted number one spot on the platform's global top ten charts for nearly two weeks, Affleck's thriller has finally slipped to second place.",
+          "The challenger taking over the crown is Surviving Hurricane Otis, a Mexican survival drama that quickly climbed the ranks to secure the top position. At the time of reporting, the feature holds the number one spot across more than twenty countries globally, including major regions like the United States, Canada, Argentina, Brazil, Austria, and Turkey."
+        ]
+      },
+      {
+        "h": "Background on Ben Affleck's Animals",
+        "p": [
+          "Animals served as a significant milestone for its director, marking the first time Ben Affleck directed a feature specifically for the streaming platform. Produced under Affleck and Matt Damon's Artist Equity banner as part of their first-look deal with Netflix, the movie followed a mayoral candidate pulled into a desperate situation after his son's kidnapping, forcing him and his wife into illicit actions to meet a ransom deadline.",
+          "Despite garnering negative reviews from critics, the thriller maintained robust viewership numbers, sustaining its position at the top of the charts for roughly a fortnight before the arrival of the new Mexican survival film pushed it down to the runner-up slot."
+        ]
+      },
+      {
+        "h": "Plot and Themes of Surviving Hurricane Otis",
+        "p": [
+          "Surviving Hurricane Otis centers on two estranged brothers who work as deckhands on a yacht located in the coastal resort city of Acapulco. Their already strained relationship faces the ultimate test when a catastrophic Category 5 hurricane strikes unexpectedly, forcing them to reconcile their differences and risk their lives to protect the vessel for a wealthy owner while fighting to stay alive.",
+          "Beyond its core narrative as a high-stakes survival family drama, the production incorporates deeper social commentary. It examines themes of classism, highlighting the exploitation and hardships faced by low-income local workers employed within major tourist destinations."
+        ]
+      },
+      {
+        "h": "True-Life Inspirations and Production Details",
+        "p": [
+          "The narrative is rooted in a harrowing real-life story from the 2023 natural disaster, taking inspiration from Acapulco sailors Marlon Valdez and Jonathan Chino. Though depicted in the movie as half-brothers, Valdez and Chino are actually close friends who miraculously survived the severe storm despite remaining behind on their ships.",
+          "Production of the feature involved close collaboration with these real-life survivors, who served as advisers and worked directly with lead actors Benny Emmanuel and Kristyan Ferrer. Netflix produced the film in partnership with Perro Azul, shooting the entire project on location in Acapulco, Mexico."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Competition",
+        "p": [
+          "The Mexican survival drama was directed by Jorge Michel Grau, who also co-wrote the screenplay alongside José Leonor Alejandro and Venancio Villalobos. The ensemble cast features performers such as Benny Emmanuel, Kristyan Ferrer, Andrew Leland Rogers, Mónica Del Carmen, Gonzalo Vega Jr., Mónica Jiménez, and Octavio Michel Grau, with the film carrying a total runtime of ninety-six minutes.",
+          "In addition to surpassing Ben Affleck's Animals, the survival thriller managed to outpace several other prominent horror and genre titles on the streaming service, including Weapons, The Addams Family, Primate, and One Missed Call, cementing its massive worldwide appeal."
+        ]
+      }
+    ],
+    "facts": [
+      "Ben Affleck's Animals held the number one spot on Netflix's global top ten charts for nearly two weeks before being dethroned.",
+      "Surviving Hurricane Otis is a Mexican survival drama directed by Jorge Michel Grau.",
+      "The film is set in Acapulco, Mexico, and has a running time of 96 minutes.",
+      "Surviving Hurricane Otis is inspired by real-life sailors Marlon Valdez and Jonathan Chino who survived a 2023 natural disaster.",
+      "Animals stars actors such as Kerry Washington, Gillian Anderson, Adriana Paz, Ray Fisher, and Steven Yeun."
+    ],
+    "entities": {
+      "people": [
+        "Ben Affleck",
+        "Matt Damon",
+        "Oscar Isaac",
+        "Kerry Washington",
+        "Gillian Anderson",
+        "Adriana Paz",
+        "Ray Fisher",
+        "Steven Yeun",
+        "Jorge Michel Grau",
+        "José Leonor Alejandro",
+        "Venancio Villalobos",
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Andrew Leland Rogers",
+        "Mónica Del Carmen",
+        "Gonzalo Vega Jr.",
+        "Mónica Jiménez",
+        "Octavio Michel Grau",
+        "Marlon Valdez",
+        "Jonathan Chino",
+        "Billy Ray",
+        "Connor O. McIntyre",
+        "Brad Weston",
+        "Collin Creighton",
+        "Dani Bernfeld",
+        "Luciana Damon"
+      ],
+      "titles": [
+        "Triple Frontier",
+        "The Rip",
+        "Animals",
+        "Surviving Hurricane Otis",
+        "Weapons",
+        "The Addams Family",
+        "Primate",
+        "One Missed Call"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/ben-affleck-stars-in-animals.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Surviving Hurricane Otis Dethrones Ben Affleck's Animals on Netflix",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 12:47:26 GMT"
   }
 };

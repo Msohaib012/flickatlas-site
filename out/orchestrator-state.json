@@ -1,7 +1,7 @@
 {
  "steps": {
   "fetch": {
-   "last_run": "2026-10-26T11:53:59Z",
+   "last_run": "2026-10-26T12:58:29Z",
    "last_status": "success"
   },
   "episode_guides": {
@@ -13,28 +13,28 @@
    "last_status": "skipped"
   },
   "gemini_batch": {
-   "last_run": "2026-10-26T11:53:59Z",
+   "last_run": "2026-10-26T12:58:29Z",
    "last_status": "success"
   },
   "apply_auto": {
-   "last_run": "2026-10-26T11:53:59Z",
+   "last_run": "2026-10-26T12:58:29Z",
    "last_status": "success"
   },
   "publish": {
-   "last_run": "2026-10-26T11:53:59Z",
+   "last_run": "2026-10-26T12:58:29Z",
    "last_status": "success"
   },
   "convert_news": {
-   "last_run": "2026-10-26T11:53:59Z",
+   "last_run": "2026-10-26T12:58:29Z",
    "last_status": "success"
   },
   "stats_traffic": {
-   "last_run": "2026-10-26T11:53:59Z",
+   "last_run": "2026-10-26T12:58:29Z",
    "last_status": "success"
   },
   "stats_pipeline": {
-   "last_run": "2026-10-26T06:03:26Z",
-   "last_status": "skipped"
+   "last_run": "2026-10-26T12:58:29Z",
+   "last_status": "success"
   },
   "stats_health": {
    "last_run": "2026-10-26T05:55:42Z",
@@ -42,8 +42,8 @@
   },
   "version_bump": {
    "last_status": "success",
-   "last_run": "2026-10-26T11:53:59Z"
+   "last_run": "2026-10-26T12:58:29Z"
   }
  },
- "updated_at": "2026-10-26T11:53:59Z"
+ "updated_at": "2026-10-26T12:58:29Z"
 }
