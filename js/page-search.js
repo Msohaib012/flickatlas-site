@@ -122,7 +122,13 @@
       }
       /* Audit fix: an <img src=""> was rendered for results without an
          image (empty src). Render the img only when an image exists. */
-      const imgHtml = image ? `<img src="${UI.img(image, "w92")}" alt="" loading="lazy" onerror="this.remove()">` : "";
+      /* News results carry an EXTERNAL image URL (not a TMDB path), so
+         UI.img() would build a broken TMDB-prefixed URL — downscale it
+         through UI.newsImg instead, with a fallback to the original. */
+      const isExtImg = /^https?:\/\//i.test(image || "");
+      const imgSrc = image ? (isExtImg ? UI.newsImg(image, 300) : UI.img(image, "w92")) : "";
+      const imgErr = isExtImg ? "this.onerror=null;this.src='" + UI.esc(image) + "'" : "this.remove()";
+      const imgHtml = imgSrc ? `<img src="${UI.esc(imgSrc)}" alt="" loading="lazy" onerror="${imgErr}">` : "";
       return `<a class="search-result" href="${UI.esc(href)}">${imgHtml}<span><small>${date ? UI.esc(UI.fmtDate(date)) : "Date unavailable"}</small><b>${UI.esc(title)}</b><small>${UI.esc(info)}</small></span></a>`;
     }).join("");
     const empty = rows.length ? "" : `<p>No ${{ movie: "movie", tv: "TV or series", person: "people", news: "news" }[key] || label.toLowerCase()} matches in the records checked.</p>`;
@@ -131,4 +137,5 @@
 
   results.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${categories.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${categories.map(c => section(c[0])).join("")}`;
 })();
+
 

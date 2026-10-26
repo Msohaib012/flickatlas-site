@@ -6,6 +6,41 @@ const UI = (() => {
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
   const img = (path, size = "w500") => path ? `${CONFIG.IMG}/${size}${path}` : "";
+  /* ---------- External news images: downscale for fast loading ----------
+     News/article images come from many external sources at full resolution,
+     so pages load slowly. newsImg(url, w) returns a lighter version:
+     - If the URL already carries a plain integer `w=` param, shrink that
+       param (and scale `h=` proportionally so the crop stays true) instead
+       of proxying — one less hop. Only when the param is a plain integer;
+       otherwise the URL is proxied.
+     - Otherwise route through images.weserv.nl (free resize proxy):
+       ?url=<encoded>&w=<w>&q=70&output=jpg (resize to width w, quality 70).
+     - Non-http(s) URLs and local/TMDB paths are returned unchanged.
+     Callers keep an onerror fallback to the ORIGINAL url, so the image
+     still loads if the proxy is ever down. */
+  function newsImg(url, w) {
+    if (!url || typeof url !== "string") return url || "";
+    const width = Math.max(50, Math.min(1600, parseInt(w, 10) || 600));
+    /* The feed stores some URLs with HTML entities (&amp; / &#038;). */
+    const clean = url.replace(/&(amp|#0?38);/g, "&");
+    let u;
+    try { u = new URL(clean); } catch (_) { return url; }
+    if (u.protocol !== "http:" && u.protocol !== "https:") return url;
+    const wp = u.searchParams.get("w");
+    if (wp && /^\d+$/.test(wp)) {
+      const oldW = parseInt(wp, 10);
+      if (oldW > width) {
+        const hp = u.searchParams.get("h");
+        if (hp && /^\d+$/.test(hp)) u.searchParams.set("h", String(Math.max(1, Math.round(parseInt(hp, 10) * width / oldW))));
+        u.searchParams.set("w", String(width));
+      }
+      return u.toString();
+    }
+    /* &we = without enlargement: never upscale an image that is already
+       smaller than the target width (e.g. a 480px YouTube thumbnail
+       asked for w=900 would otherwise come back 3x heavier). */
+    return "https://images.weserv.nl/?url=" + encodeURIComponent(clean) + "&w=" + width + "&q=70&output=jpg&we";
+  }
   const qs = (obj) => new URLSearchParams(Object.entries(obj)
     .filter(([, v]) => v !== undefined && v !== null && v !== "")).toString();
   if (typeof document.addEventListener === "function") document.addEventListener("error", event => {
@@ -736,13 +771,14 @@ const UI = (() => {
     return n;
   }
 
-  return { esc, img, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
+  return { esc, img, newsImg, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, topSearchesHtml, mountTopSearches, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, newsId, newsItemPath,
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 

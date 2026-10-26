@@ -216,7 +216,7 @@
       const sum = truncSum(e.summary, 280);
       const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
       return `<div class="content-card"><div style="display:flex;gap:14px;flex-wrap:wrap;align-items:flex-start">
-        ${e.thumb ? `<a href="${href}"><img src="${UI.esc(e.thumb)}" alt="" loading="lazy" style="width:140px;border-radius:12px" onerror="this.remove()"></a>` : ""}
+        ${e.thumb ? `<a href="${href}"><img src="${UI.esc(UI.newsImg(e.thumb, 300))}" alt="" loading="lazy" style="width:140px;border-radius:12px" onerror="this.onerror=null;this.src='${UI.esc(e.thumb)}'"></a>` : ""}
         <div style="flex:1;min-width:200px">
           <h2 style="margin-top:0"><a href="${href}">Episode ${e.episode}</a></h2>
           <dl class="facts-table">
@@ -353,4 +353,5 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this show. Please try again.")}</div>`;
   }
 })();
+
 

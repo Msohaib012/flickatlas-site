@@ -304,37 +304,85 @@
       <div class="section-head"><h2>Latest News</h2>
       <a class="see-all" href="/news">See All →</a></div>
       <div class="sk" style="height:230px;border-radius:14px"></div></section>`;
-    /* News slider renderer (owner spec 2026-10-26, corrected 21:18 PKT):
-       BOLLYWOOD + CELEBRITY only, newest 8, YouTube/Sacnilk style — a
-       16:9 image frame on top, title + date below. LIGHT card, visually
-       separate from the dark hero above. Items
-       from the shared /api/news fetch; image from window.FA_ARTICLES
-       (already loaded; every /api/news id has a matching FA_ARTICLES
-       entry with an images array). Carousel mirrors the hero: show/hide
-       slides, dots jump, prev/next arrows, auto-advance every 6s, pause
-       on hover, touch swipe. Items without an image are skipped; with
-       < 2 slides the controls and timer are omitted. */
+    /* News tag derivation — REUSED from js/page-news.js (same helpers,
+       same keyword lists, same TAGKEYS order) so a story gets the same
+       tags on the homepage slider as on /news. "Kollywood" means South
+       Indian cinema (Tamil/Telugu), per the owner's wording. */
+    const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const hasWord = (text, phrase) => {
+      const words = String(phrase).split(" ");
+      const pat = words.map((w, i) => escRe(w) + (i === words.length - 1 ? "s?" : "")).join("\\s+");
+      return new RegExp("\\b" + pat + "\\b", "i").test(text);
+    };
+    const TAGKEYS = ["bollywood", "lollywood", "kollywood", "world", "pakistan", "celebrity", "viral", "award", "ott", "music", "tech"];
+    const SLIDERTAGLABEL = { bollywood: "Bollywood", kollywood: "Kollywood" };
+    const deriveTags = (it) => {
+      const tags = new Set();
+      const cats = (Array.isArray(it.cats) ? it.cats : []).map(c => String(c).toLowerCase());
+      const text = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
+      if (cats.includes("bollywood")) tags.add("bollywood");
+      if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
+      if (cats.includes("celebrity")) tags.add("celebrity");
+      if (cats.includes("viral")) tags.add("viral");
+      if (cats.includes("world") || cats.includes("international")) tags.add("world");
+      /* ₹ is the Indian rupee sign — a clean Bollywood signal for items
+         the feed misclassified (e.g. a Ramayana box-office item filed
+         under "korea"). */
+      if (hasWord(text, "bollywood") || text.includes("₹")) tags.add("bollywood");
+      if (hasWord(text, "tamil") || hasWord(text, "kollywood") || hasWord(text, "tamil cinema") ||
+          hasWord(text, "telugu") || hasWord(text, "tollywood")) tags.add("kollywood");
+      if (hasWord(text, "lollywood") || hasWord(text, "pakistani") || hasWord(text, "hum tv") ||
+          hasWord(text, "ary") || hasWord(text, "geo tv") || hasWord(text, "green tv")) tags.add("lollywood");
+      if (hasWord(text, "award") || hasWord(text, "filmfare") || hasWord(text, "oscar") ||
+          hasWord(text, "iifa") || hasWord(text, "national award") ||
+          hasWord(text, "best actor") || hasWord(text, "best film")) tags.add("award");
+      if (hasWord(text, "ott") || hasWord(text, "netflix") || hasWord(text, "streaming") ||
+          hasWord(text, "prime video") || hasWord(text, "disney+ hotstar") || hasWord(text, "hotstar") ||
+          hasWord(text, "jiohotstar")) tags.add("ott");
+      if (hasWord(text, "music") || hasWord(text, "soundtrack") || hasWord(text, "song") ||
+          hasWord(text, "album") || hasWord(text, "singer") || hasWord(text, "composer")) tags.add("music");
+      if (hasWord(text, "ai") || hasWord(text, "tech") || hasWord(text, "technology") ||
+          hasWord(text, "artificial intelligence") || hasWord(text, "app") || hasWord(text, "gadget")) tags.add("tech");
+      return TAGKEYS.filter(k => tags.has(k));
+    };
+    /* News slider renderer (owner spec 2026-10-26, corrected 21:18 PKT,
+       tags + Indian-only 2026-10-26 ~21:35 PKT):
+       INDIAN-ONLY, newest 8, YouTube/Sacnilk style — a 16:9 image frame
+       on top, title + date below, with a TAG CHIP (Bollywood / Kollywood)
+       overlaid on the image top-left. LIGHT card, visually separate
+       from the dark hero above. Items from the shared /api/news fetch;
+       image from window.FA_ARTICLES (already loaded; every /api/news id
+       has a matching FA_ARTICLES entry with an images array). Carousel
+       mirrors the hero: show/hide slides, dots jump, prev/next arrows,
+       auto-advance every 6s, pause on hover, touch swipe. Items without
+       an image are skipped; with < 2 slides the controls and timer are
+       omitted. */
     const renderNewsSlider = (arts) => {
       const host = document.getElementById("homeNewsSlider");
       if (!host) return;
       const fa = window.FA_ARTICLES || {};
-      const slides = arts.filter(it => {
-        const cats = Array.isArray(it.cats) ? it.cats : [];
-        return cats.includes("bollywood") || cats.includes("celebrity");
-      }).map(it => {
-        const art = fa[it.id] || {};
-        const imgs = Array.isArray(art.images) ? art.images : [];
-        const img = imgs.length && imgs[0] && imgs[0].url ? String(imgs[0].url) : "";
-        return { it, img };
-      }).filter(x => x.img).slice(0, 8);
+      /* INDIAN-ONLY (owner order 2026-10-26): a slide qualifies only
+         when its derived tags include "bollywood" OR "kollywood"
+         (Tamil/Telugu/South Indian). No Hollywood, no World Cinema, no
+         Pakistani, no other country. The chip shows the primary Indian
+         tag — Bollywood first, else Kollywood. */
+      const slides = arts.map(it => ({ it, tags: deriveTags(it) }))
+        .filter(x => x.tags.includes("bollywood") || x.tags.includes("kollywood"))
+        .map(({ it, tags }) => {
+          const art = fa[it.id] || {};
+          const imgs = Array.isArray(art.images) ? art.images : [];
+          const img = imgs.length && imgs[0] && imgs[0].url ? String(imgs[0].url) : "";
+          const primary = tags.includes("bollywood") ? "bollywood" : "kollywood";
+          return { it, img, primary };
+        }).filter(x => x.img).slice(0, 8);
       if (!slides.length) { host.remove(); return; }
       host.innerHTML = `<div class="section-head"><h2>Latest News</h2>
         <a class="see-all" href="/news">See All →</a></div>
         <div class="news-slider" id="newsSlider">
-          <div class="news-slider-viewport">${slides.map(({ it, img }, i) => {
+          <div class="news-slider-viewport">${slides.map(({ it, img, primary }, i) => {
             const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
             return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
-              <span class="news-slide-img"><img src="${UI.esc(img)}" alt="" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" onerror="this.style.display='none'"></span>
+              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" alt="" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" onerror="this.onerror=null;this.src='${UI.esc(img)}'"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
               <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
               ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
             </a>`;
@@ -405,8 +453,9 @@
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
         }));
         /* The slider gets the FULL feed (not the 7-item Trending News cap):
-           it needs the whole feed to find 8 Bollywood/celebrity items with
-           images. No second fetch — same j.items, normalised the same way. */
+           it needs the whole feed to find 8 Indian (bollywood/kollywood)
+           items with images. No second fetch — same j.items, normalised
+           the same way. */
         const sliderArts = j.items.map(it => ({
           ...it,
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
@@ -642,6 +691,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 

@@ -418,7 +418,7 @@
      figure (no broken image, no orphan credit). */
   const imagesHtml = (article.images || []).filter(im => im && im.url).map(im => `
     <figure class="content-card" style="margin-top:14px">
-      <img src="${UI.esc(im.url)}" alt="${UI.esc(im.caption || article.headline || "")}" loading="lazy" decoding="async" style="max-width:100%;border-radius:12px" onerror="this.closest('figure').remove()">
+      <img src="${UI.esc(UI.newsImg(im.url, 900))}" alt="${UI.esc(im.caption || article.headline || "")}" loading="lazy" decoding="async" style="max-width:100%;border-radius:12px" onerror="this.onerror=null;this.src='${UI.esc(im.url)}'">
       ${im.caption ? `<p class="article-summary" style="margin-top:8px">${UI.esc(im.caption)}</p>` : ""}
       <p class="img-credit">Image: ${UI.esc(im.source || "TMDB")}</p>
     </figure>`).join("");
@@ -497,4 +497,5 @@
     }
   }
 })();
+
 
