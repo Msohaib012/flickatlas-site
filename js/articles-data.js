@@ -4100,5 +4100,329 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 12:47:26 GMT"
+  },
+  "1bgtnpr": {
+    "id": "1bgtnpr",
+    "type": "news",
+    "headline": "Ramayana: Part One Crosses ₹20 Crore in Advance Bookings Ahead of November Release",
+    "dek": "Nitesh Tiwari’s upcoming mythological epic Ramayana: Part One has surpassed ₹20 crore in worldwide advance ticket sales with ten days remaining until its theatrical debut.",
+    "body": [
+      {
+        "h": "Global Advance Sales Cross Major Milestone",
+        "p": [
+          "Anticipation for Nitesh Tiwari’s grand cinematic venture Ramayana: Part One has translated into robust early ticket sales worldwide. Tracking figures indicate that worldwide advance gross crossed the ₹20.50 crore mark with ten days left before the official November 5, 2026, premiere. This early momentum includes pre-sales for special paid previews scheduled for November 4 as well as opening-day screenings.",
+          "Domestically, the film cleared the ₹10 crore threshold in advance bookings alone, moving over two lakh tickets for its first day in theaters. The Hindi version is driving the domestic surge, accounting for the vast majority of pre-sales and securing over 4,200 shows on opening day. Meanwhile, international territories have contributed solid figures, pushing reported global advance sales past the $2 million threshold."
+        ]
+      },
+      {
+        "h": "Strong Regional Demand and Houseful Telugu Shows",
+        "p": [
+          "Regional markets are demonstrating immense enthusiasm despite limited initial allocations. The Telugu version, which has rolled out across a modest number of screens, is seeing fierce demand with advance bookings heading toward ₹40 lakh. Reports from tracking agencies confirm that multiple Telugu shows have already sold out completely.",
+          "The Kannada version is also making a significant impact, crossing ₹1 crore in advance collections across roughly 100 screens and registering high occupancy rates during morning slots. Overall industry tracking suggests that houseful screenings across various languages will multiply rapidly as blocked seats open up for reservation."
+        ]
+      },
+      {
+        "h": "Premium Formats and IMAX Lead Sales Pace",
+        "p": [
+          "Specialized viewing formats are proving exceptionally popular among moviegoers, capturing a disproportionate share of early revenue. Although IMAX screenings comprise a minor fraction of total shows in India, they account for roughly a quarter of all advance booking earnings. These premium locations have sold tens of thousands of tickets at a significantly faster per-screen rate than standard auditoriums.",
+          "Additional premium formats including 4DX, ICE, and Dolby Cinema have collectively moved over 12,000 tickets. This preference for premium experiences persists despite higher price points, highlighting the audience's willingness to pay a premium for large-scale cinematic immersion."
+        ]
+      },
+      {
+        "h": "Metropolitan Pricing and City-Wise Performance",
+        "p": [
+          "Major metropolitan centers are commanding top-tier ticket prices for luxury seating configurations. In Mumbai, exclusive recliner seats for early morning and evening shows at prominent multiplexes are priced heavily, while Delhi-NCR venues feature steep rates for select IMAX 3D presentations. Such pricing structures reflect the high-end positioning of the event release.",
+          "Geographically, Delhi-NCR paces city-wise advance ticket revenue by selling tens of thousands of tickets, followed closely by Mumbai. Other urban hubs like Bengaluru have registered sharp day-on-day growth, while Hyderabad continues to post strong pre-sales figures."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Production Scale",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the multi-lingual epic is backed by producer Namit Malhotra’s Prime Focus Studios in partnership with DNEG and Yash’s Monster Mind Creations. The narrative features a prominent ensemble, with Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Sunny Deol stepping in as Lord Hanuman, and Ravie Dubey appearing as Lakshman.",
+          "The project is scheduled for a simultaneous release in Hindi, Tamil, Telugu, Kannada, and Malayalam. Sony Pictures manages global distribution outside India, whereas Dharma Productions oversees the domestic distribution of the Hindi language version."
+        ]
+      },
+      {
+        "h": "World Premiere and Future Sequel Plans",
+        "p": [
+          "Ahead of its widespread commercial rollout, the production is set to hold a high-profile world premiere at the Academy Museum of Motion Pictures in Los Angeles. The gala event features a Diwali-themed red carpet and an exclusive 3D screening for invited attendees.",
+          "Looking beyond the initial release, discussions are already underway regarding the franchise's trajectory. While a second instalment was initially targeted for a Diwali 2027 window, internal reports indicate that the release may shift to Diwali 2028 to grant the filmmakers adequate production time."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One crosses ₹20 crore in worldwide advance bookings 10 days before its release.",
+      "The film is scheduled to release worldwide on November 5, 2026.",
+      "Sacnilk reported that worldwide advance gross reached ₹20.50 crore by October 25, 2026.",
+      "Domestic advance bookings in India crossed ₹10 crore with over 2 lakh tickets sold.",
+      "The world premiere is scheduled for October 27, 2026, at the David Geffen Theatre in Los Angeles for about 945 guests."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/10/Nitesh_Tiwaris_Ramayana_has_got_off_to_a_promising_start_in_advance_bookings.webp",
+        "caption": "Ramayana: Part One Crosses ₹20 Crore in Advance Bookings Ahead of November Release",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 13:05:28 +0000"
+  },
+  "1qb364h": {
+    "id": "1qb364h",
+    "type": "news",
+    "headline": "Eric Bauza, Renowned Voice of Looney Tunes' Bugs Bunny and Daffy Duck, Dies at 46",
+    "dek": "The Emmy-winning voice actor, known for breathing life into classic animated characters like Porky Pig and Tweety Bird, passed away suddenly at his home.",
+    "body": [
+      {
+        "h": "Sudden Passing of a Legendary Voice Talent",
+        "p": [
+          "The animation community is mourning the loss of Eric Bauza, a prolific and celebrated voice actor who became the modern voice for many timeless animated figures. His family released a statement on his official Instagram account confirming his sudden death on Sunday. The announcement highlighted his legacy as an Emmy Award-winning talent who shaped the contemporary iterations of famous animated personalities.",
+          "Authorities from the Los Angeles County Medical Examiner determined that his passing was due to natural causes. Specifically, the medical examiner cited hypertensive cardiovascular disease, a condition associated with high blood pressure, as the primary cause of death at his residence. Contributing health factors noted in the report included sleep apnea and class 2 obesity."
+        ]
+      },
+      {
+        "h": "Defining the Modern Looney Tunes Universe",
+        "p": [
+          "Bauza left an indelible mark on animation history by stepping into the monumental shoes required to voice Warner Bros. legendary stable of animated characters. He became the primary voice behind iconic figures such as Bugs Bunny and Daffy Duck, ensuring these classic personas remained vibrant for new generations of viewers.",
+          "His vocal versatility extended far beyond just the leading duo of the Looney Tunes franchise. Throughout his extensive career, he also portrayed other beloved residents of that animated world, including Porky Pig, Tweety Bird, Elmer Fudd, Marvin the Martian, and the swift Road Runner."
+        ]
+      },
+      {
+        "h": "A Prolific Career Beyond Warner Bros.",
+        "p": [
+          "While deeply associated with classic cartoons, Bauza's talent found a home across numerous major television networks and franchises. His impressive resume featured credits in contemporary favorites such as Teen Titans Go!, Muppet Babies, The Adventures of Puss in Boots, and Teenage Mutant Ninja Turtles.",
+          "Across his illustrious journey in the entertainment industry, the Canadian-born performer accumulated more than 400 acting credits. This immense body of work underscored his relentless work ethic and his exceptional adaptability as a vocal artist capable of fitting into diverse animated landscapes."
+        ]
+      },
+      {
+        "h": "Awards, Recognition, and Legacy",
+        "p": [
+          "Bauza's contributions to children's and family entertainment did not go unnoticed by his peers and industry critics. Over the course of his professional endeavors, he earned three Children's and Family Emmy Awards in recognition of his outstanding voice-over performances.",
+          "Died at the age of 46, Bauza leaves behind a monumental footprint in the realm of voice acting. Friends, fans, and colleagues continue to remember him not only for the legendary cartoon characters he voiced, but for the genuine warmth and dedication he brought to his craft."
+        ]
+      }
+    ],
+    "facts": [
+      "Eric Bauza died on Sunday.",
+      "He was 46 years old.",
+      "His death was ruled natural by the Los Angeles County Medical Examiner.",
+      "The cause of death was hypertensive cardiovascular disease, with sleep apnea and class 2 obesity noted as significant conditions.",
+      "He won three Children's Family Emmy Awards.",
+      "He had more than 400 acting credits throughout his career.",
+      "He was the voice of Bugs Bunny, Daffy Duck, Porky Pig, Tweety Bird, Elmer Fudd, Marvin the Martian, and Road Runner."
+    ],
+    "entities": {
+      "people": [
+        "Eric Bauza"
+      ],
+      "titles": [
+        "Looney Tunes",
+        "Teen Titans Go!",
+        "Muppet Babies",
+        "The Adventures of Puss in Boots",
+        "Teenage Mutant Ninja Turtles"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/bb/16by9/2026/10/26/bbfae8607ff643fa82204f3f7fd07ab0_xl.jpg",
+        "caption": "Eric Bauza, Renowned Voice of Looney Tunes' Bugs Bunny and Daffy Duck, Dies at 46",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-10-26T06:26:06-07:00"
+  },
+  "1hoo3sq": {
+    "id": "1hoo3sq",
+    "type": "news",
+    "headline": "Ridley Scott's Major Historical Epic Finds New Life as an OTT Streaming Sensation",
+    "dek": "Despite failing to fully ignite the box office during its theatrical run, the massive historical spectacle is rapidly climbing streaming charts as home audiences embrace its grand scale.",
+    "body": [
+      {
+        "h": "A Grand Vision Finds a New Audience",
+        "p": [
+          "Renowned filmmaker Ridley Scott has long been celebrated for delivering unforgettable cinematic spectacles that push the boundaries of visual storytelling. Throughout a decades-long career, the visionary director has helmed iconic motion pictures spanning multiple genres, leaving an indelible imprint on modern cinema. While some of his ambitious historical features have sparked intense debates among cinephiles upon their initial theatrical debuts, his works consistently find ways to captivate viewers long after leaving the big screen.",
+          "Among his extensive filmography, few titles hold as cherished a place in popular culture as his legendary early 2000s historical drama. That original feature established a defining cinematic standard with memorable dialogue and unforgettable performances. When the studio greenlit a continuation, expectations were exceptionally high for the legendary director to recreate the timeless magic of the arena on an even grander scale."
+        ]
+      },
+      {
+        "h": "The Legacy Continues in the Colosseum",
+        "p": [
+          "The continuation transports viewers back to the ancient Roman Empire, centering on a new protagonist forced into slavery following an invasion by Roman legions. Driven by a fierce desire for retribution against corrupt rulers, the character ascends through the ranks of fighters in the Colosseum, mirroring the thematic arc of freedom and vengeance seen in the original classic. This narrative thread anchors the sweeping scale of the production.",
+          "Assembling a prominent roster of talent, the legacy project featured acclaimed actors stepping into prominent roles alongside returning faces from the beloved original cast. The production leaned heavily into massive set pieces, trading the introspective tones of its predecessor for an unbridled theatrical spectacle designed to overwhelm the senses and test the limits of historical filmmaking."
+        ]
+      },
+      {
+        "h": "Box Office Struggles and Critical Reception",
+        "p": [
+          "Despite boasting an enormous budget and a star-studded ensemble, the ambitious feature faced substantial hurdles upon its theatrical release. Financial returns failed to match the hefty investment required to bring the ancient world to life, ultimately resulting in an underwhelming commercial performance that fell short of industry expectations.",
+          "Critical reception was generally favorable yet somewhat divided regarding the narrative execution. Reviewers praised the heightened action sequences and standout performances—particularly highlighting a scene-stealing turn from one of the film's primary antagonists—while ordinary viewers expressed an even higher level of enthusiasm, paving the way for its eventual redemption on digital platforms."
+        ]
+      },
+      {
+        "h": "Redemption Through Streaming Success",
+        "p": [
+          "As home viewing takes center stage, the epic has found a welcoming home on digital distribution networks. Audiences who skipped the theatrical exhibition are now discovering the sweeping cinematography and high-stakes drama from the comfort of their living rooms, fueling a major surge in popularity.",
+          "This newfound momentum demonstrates how modern entertainment consumption habits can breathe fresh life into historical adventures that struggled during their initial theatrical windows. The streaming boom continues to redefine commercial success for large-scale motion pictures, ensuring that ambitious directorial visions ultimately connect with the wide audiences they were crafted for."
+        ]
+      }
+    ],
+    "facts": [
+      "Ridley Scott directed Gladiator II.",
+      "Gladiator II earned $462.2 million globally against a $310 million budget.",
+      "Paul Mescal stars as Lucius in the sequel.",
+      "The cast includes Pedro Pascal, Denzel Washington, and Connie Nielsen.",
+      "Critics gave the film a 70% rating on Rotten Tomatoes.",
+      "Audience members awarded the movie an 80% rating on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Ridley Scott",
+        "Shrishty Mishra",
+        "Ryan Gosling",
+        "Joaquin Phoenix",
+        "Adam Driver",
+        "Matt Damon",
+        "Russell Crowe",
+        "Paul Mescal",
+        "Maximus",
+        "Pedro Pascal",
+        "Denzel Washington",
+        "Connie Nielsen",
+        "Bong Joon-ho",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "Alien",
+        "Hannibal",
+        "Blade Runner",
+        "The Martian",
+        "Napoleon",
+        "The Last Duel",
+        "Gladiator",
+        "Gladiator II",
+        "Parasite",
+        "Everything Everywhere All at Once",
+        "Oppenheimer",
+        "Birdman",
+        "No Country for Old Men"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/img_0418-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ridley Scott's Major Historical Epic Finds New Life as an OTT Streaming Sensation",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 13:30:15 GMT"
+  },
+  "h3qzzw": {
+    "id": "h3qzzw",
+    "type": "news",
+    "headline": "Stefan Djordjevic's 'Wind, Talk to Me' Dominates the Adriatic Film & TV Awards",
+    "dek": "The documentary-drama swept top categories including best film, best director, and best debut feature at the ceremony held in Porto Montenegro.",
+    "body": [
+      {
+        "h": "A Triple Triumph for Stefan Djordjevic",
+        "p": [
+          "The recent ceremony at Porto Montenegro in Tivat brought immense recognition to Serbian filmmaker Stefan Djordjevic, whose documentary-drama project secured the evening's highest honor. The acclaimed feature claimed the title for best film, while also earning Djordjevic the accolades for best director and best debut.",
+          "Produced by Dragana Jovovic, the victorious feature blends elements of documentary storytelling, traditional fiction, and personal memory. According to critical reviews following its initial world premiere in the Tiger competition at the Rotterdam Film Festival, the movie serves as a deeply emotional tribute dedicated to the filmmaker's late mother."
+        ]
+      },
+      {
+        "h": "Celebrating Regional Talent and Performances",
+        "p": [
+          "Beyond the major sweep by Djordjevic's project, the awards event honored several other notable cinematic achievements from across the region. Noomi Rapace earned the best actress prize for her compelling performance in 'Mother', a film directed by Teona Strugar Mitevska.",
+          "In the corresponding male acting category, Andrija Kuzmanovic received the best actor honor for his work in 'Yugo Florida', directed by Vladimir Tagic. Additional acting recognition included the AFA Rising Star trophy awarded to Arif Jakup for his role in 'DJ Ahmet', directed by Georgi M. Unkovski, while Hana Jusic took home the best screenplay prize for 'God Will Not Help'."
+        ]
+      },
+      {
+        "h": "Television Victories for 'The Hollow'",
+        "p": [
+          "The television categories were notably led by the series 'The Hollow', which was created by Amra Baksic Camo and Danis Tanovic. The production successfully clinched the award for best TV series during the Saturday evening gala.",
+          "Individual performances within the winning show also received high praise from the voting body. Snezana Vidovic was named best actress in a TV series for her contribution to 'The Hollow', and her co-star Feja Stukan secured the award for best actor in a TV series."
+        ]
+      },
+      {
+        "h": "Industry Recognition and Voting Structure",
+        "p": [
+          "The selection of nominees and ultimate winners for these honors was decided by a vast collective of industry experts. More than 800 active members of the Film and TV Academy of the Adriatic Region cast their votes to determine the outcomes.",
+          "The Academy itself was originally founded through the collaborative efforts of several prominent regional film gatherings, specifically the Sarajevo Film Festival, the Zagreb Film Festival, and the Auteur Film Festival held in Belgrade."
+        ]
+      },
+      {
+        "h": "Additional Honors and Cinema Distribution",
+        "p": [
+          "The ceremony also highlighted achievements outside of production, acknowledging excellence in bringing movies to audiences. An AFA Award recognizing outstanding success in cinema distribution was presented for Igor Seregi's feature 'Wedding'."
+        ]
+      }
+    ],
+    "facts": [
+      "Stefan Djordjevic directed 'Wind, Talk to Me'.",
+      "Dragana Jovovic produced 'Wind, Talk to Me'.",
+      "The Adriatic Film TV Awards took place on Saturday evening in Porto Montenegro, Tivat, Montenegro.",
+      "More than 800 members of the Film and TV Academy of current professionals voted on the awards.",
+      "Noomi Rapace won best actress for 'Mother'.",
+      "Teona Strugar Mitevska directed 'Mother'.",
+      "Andrija Kuzmanovic won best actor for 'Yugo Florida'.",
+      "Vladimir Tagic directed 'Yugo Florida'.",
+      "Arif Jakup won the AFA Rising Star award for 'DJ Ahmet'.",
+      "Georgi M. Unkovski directed 'DJ Ahmet'.",
+      "Hana Jusic won best screenplay for 'God Will Not Help'.",
+      "'The Hollow' won best TV series, created by Amra Baksic Camo and Danis Tanovic.",
+      "Snezana Vidovic won best actress in a TV series for 'The Hollow'.",
+      "Feja Stukan won best actor in a TV series for 'The Hollow'.",
+      "Igor Seregi directed 'Wedding', which received the distribution award."
+    ],
+    "entities": {
+      "people": [
+        "Stefan Djordjevic",
+        "Dragana Jovovic",
+        "Noomi Rapace",
+        "Teona Strugar Mitevska",
+        "Andrija Kuzmanovic",
+        "Vladimir Tagic",
+        "Arif Jakup",
+        "Georgi M. Unkovski",
+        "Hana Jusic",
+        "Amra Baksic Camo",
+        "Danis Tanovic",
+        "Snezana Vidovic",
+        "Feja Stukan",
+        "Igor Seregi"
+      ],
+      "titles": [
+        "Wind, Talk to Me",
+        "Mother",
+        "Yugo Florida",
+        "DJ Ahmet",
+        "God Will Not Help",
+        "The Hollow",
+        "Wedding"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/Stefan-Djordjevic.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Stefan Djordjevic's 'Wind, Talk to Me' Dominates the Adriatic Film & TV Awards",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 13:05:27 +0000"
   }
 };

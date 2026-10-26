@@ -60,4 +60,3 @@ window.FA_DAYWISE = {
     }
   ]
 };
-

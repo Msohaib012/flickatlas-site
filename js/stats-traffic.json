@@ -1,27 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-10-26T12:58:28Z",
+  "generated": "2026-10-26T13:59:20Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
     "users": 4,
-    "pageviews": 88,
-    "sessions": 10,
-    "avg_session_seconds": 495.7
+    "pageviews": 109,
+    "sessions": 11,
+    "avg_session_seconds": 760.1
   },
   "last7": {
     "users": 4,
-    "pageviews": 88,
-    "sessions": 10,
-    "avg_session_seconds": 495.7
+    "pageviews": 109,
+    "sessions": 11,
+    "avg_session_seconds": 760.1
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 31,
-      "avg_time_seconds": 449.7
+      "views": 35,
+      "avg_time_seconds": 721.9
+    },
+    {
+      "path": "/movie",
+      "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
+      "views": 16,
+      "avg_time_seconds": 25.2
     },
     {
       "path": "/news-item",
@@ -30,10 +36,10 @@
       "avg_time_seconds": 41.2
     },
     {
-      "path": "/movie",
-      "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 15.9
+      "path": "/movies",
+      "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 14.4
     },
     {
       "path": "/box-office",
@@ -44,14 +50,14 @@
     {
       "path": "/show",
       "title": "TV Show Details — Seasons, Cast & Story | FlickAtlas",
-      "views": 6,
-      "avg_time_seconds": 33.4
+      "views": 7,
+      "avg_time_seconds": 27.9
     },
     {
-      "path": "/movies",
-      "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
+      "path": "/episode-guides",
+      "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
       "views": 5,
-      "avg_time_seconds": 4.8
+      "avg_time_seconds": 18.5
     },
     {
       "path": "/news",
@@ -66,30 +72,24 @@
       "avg_time_seconds": 99.3
     },
     {
-      "path": "/episode-guides",
-      "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
+      "path": "/category",
+      "title": "Industry Movies & Shows — Cast, Box Office & Release Dates | FlickAtlas",
       "views": 2,
-      "avg_time_seconds": 10.5
-    },
-    {
-      "path": "/awards",
-      "title": "Awards — Upcoming Award Shows, Dates & Latest News | FlickAtlas",
-      "views": 1,
-      "avg_time_seconds": 94.1
+      "avg_time_seconds": 4.5
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 10,
+      "sessions": 11,
       "users": 4
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 2,
-      "users": 1
+      "sessions": 3,
+      "users": 2
     }
   ],
   "countries": [
