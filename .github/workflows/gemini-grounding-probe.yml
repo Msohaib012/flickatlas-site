@@ -1,0 +1,62 @@
+# Manual diagnostic only: test Google Search grounding with one of the
+# pipeline's stored Gemini keys (GEMINI_API_KEY_1..6). The key is read from
+# the runner env and NEVER printed. No site files touched, no deploy.
+# Usage: Actions tab -> "Gemini grounding probe" -> Run workflow -> key_index.
+name: Gemini grounding probe
+on:
+  workflow_dispatch:
+    inputs:
+      key_index:
+        description: "Which GEMINI_API_KEY_N secret to test (1-6)"
+        required: true
+        default: "2"
+      model:
+        description: "Gemini model"
+        required: true
+        default: "gemini-3.5-flash-lite"
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+      GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+      GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+      GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+      GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+      GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+      KEY_INDEX: ${{ inputs.key_index }}
+      MODEL: ${{ inputs.model }}
+    steps:
+      - name: Grounded Jailer 2 probe (key never printed)
+        run: python3 - <<'EOF'
+          import json, os, urllib.request, urllib.error
+          idx = os.environ["KEY_INDEX"]
+          model = os.environ["MODEL"]
+          key = os.environ.get("GEMINI_API_KEY_" + idx, "")
+          print("KEY_INDEX=" + idx + " MODEL=" + model + " key_present=" + str(bool(key)) + " key_len=" + str(len(key)))
+          if not key:
+              print("RESULT: NO_KEY")
+              raise SystemExit(0)
+          prompt = ("Give me the day-wise India Net box office collection in Rs crore for the Tamil movie 'Jailer 2' "
+                    "starring Rajinikanth. List Day 1 to Day 12, each day with its date and collection. India Net only - "
+                    "NOT worldwide gross, NOT India gross. If you are not certain about any day's figure, write 'uncertain' "
+                    "for that day instead of guessing. At the end, list the websites you used as sources.")
+          url = "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent"
+          body = json.dumps({"contents": [{"parts": [{"text": prompt}]}], "tools": [{"google_search": {}}]}).encode()
+          req = urllib.request.Request(url, data=body, method="POST",
+              headers={"Content-Type": "application/json", "x-goog-api-key": key})
+          try:
+              with urllib.request.urlopen(req, timeout=120) as r:
+                  data = json.loads(r.read())
+              cand = data["candidates"][0]
+              text = "".join(p.get("text", "") for p in cand["content"]["parts"])
+              meta = cand.get("groundingMetadata", {}) or {}
+              srcs = [(c.get("web", {}) or {}).get("uri", "") for c in meta.get("groundingChunks", []) or []]
+              print("RESULT: HTTP_200_GROUNDED")
+              print("SEARCH_QUERIES:", meta.get("webSearchQueries", []))
+              print("SOURCES:", [s for s in srcs if s])
+              print("TEXT:", text[:3000])
+          except urllib.error.HTTPError as e:
+              print("RESULT: HTTP_" + str(e.code))
+              print("ERROR_BODY:", e.read().decode()[:800])
+        EOF
