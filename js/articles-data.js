@@ -3444,5 +3444,307 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 06:30:38 GMT"
+  },
+  "1kumkh2": {
+    "id": "1kumkh2",
+    "type": "news",
+    "headline": "Akshay Kumar's Classic Action Film Mohra Set for 4K Re-Release During Diwali Week",
+    "dek": "Trimurti Films announces the return of the 1994 blockbuster to the big screen, where it will face competition from the heavily anticipated epic Ramayana.",
+    "body": [
+      {
+        "h": "The Return of 90s Blockbusters to Cinemas",
+        "p": [
+          "The cinematic landscape over recent years has seen a remarkable wave of classic films returning to the big screen, captivating both nostalgic older audiences and younger generations discovering them for the first time. The re-release trend gained massive momentum during 2024, when older titles such as Rockstar, Laila Majnu, and Tumbbad achieved surprising commercial success during their second theatrical runs. This momentum continued into 2025, highlighted by the phenomenal box office performance of Sanam Teri Kasam, which shocked industry analysts by accumulating over forty crores and establishing itself as a landmark re-release phenomenon.",
+          "Although the widespread craze eventually cooled down, occasional special runs like Avengers Endgame: Encore proved that audiences still harbor an appetite for theatrical nostalgia. Building upon this enduring trend, another iconic title from the 1990s is officially heading back to movie theaters. Trimurti Films Pvt Ltd recently utilized its official YouTube platform to share a confirmation video regarding the upcoming theatrical return of one of their most celebrated productions, generating considerable excitement among film enthusiasts across the country."
+        ]
+      },
+      {
+        "h": "A High-Stakes Diwali Showdown",
+        "p": [
+          "The newly remastered version of the action entertainer is scheduled to land in cinemas on November 6, coinciding directly with the festive Diwali period. However, stepping into theatres during this major holiday window means facing an enormous commercial hurdle. The re-release is set to directly compete with Ramayana, a massive upcoming cinematic project starring prominent actors such as Ranbir Kapoor, Yash, and Sai Pallavi. This scheduling places the nostalgic throwback right in the path of one of the most heavily anticipated multi-star spectacles of the year.",
+          "Exhibition strategies are already reflecting the pressures of this major holiday clash. For instance, single-screen locations like Heera Talkies in Agra, Uttar Pradesh, have committed to playing the returning action feature for all four daily shows, choosing to dedicate their complete screen capacity to the 90s classic rather than screening the newcomer. Meanwhile, the distribution duties are being handled by Rimpy Films International, headed by Deepinder Singh, whose team has been actively sharing promotional details across social media platforms."
+        ]
+      },
+      {
+        "h": "Broader Plans for Classic Re-Issues",
+        "p": [
+          "The return of the Akshay Kumar starrer is just one piece of a much larger archival strategy mapped out by the distributors. Rimpy Films International has utilized its digital channels to outline ambitious plans to bring back several other notable titles originally backed by Trimurti Films. Moviegoers can anticipate theatrical revivals of memorable vintage productions including the 1982 drama Vidhaata, the 1985 thriller Yudh, the 1989 action hit Tridev, and the suspenseful 1994 mystery Gupt.",
+          "This extensive slate demonstrates a concerted effort to mine a rich catalogue of vintage hits for modern theatrical audiences. In addition to these upcoming revivals, the distribution network has also been active with current releases, having recently brought Rajiv Rai's contemporary directorial project Zora to the big screen, with screenings conveniently scheduled at Agra's Heera Talkies alongside the upcoming vintage programming."
+        ]
+      },
+      {
+        "h": "Legacy and Musical Impact of the Original Release",
+        "p": [
+          "Originally hitting screens on July 1, 1994, the feature established itself as a massive box office blockbuster thanks to its thrilling narrative pace, mass-appealing action sequences, and a powerhouse ensemble cast. The film brought together notable screen presences including Naseeruddin Shah, Akshay Kumar, Suniel Shetty, Raveena Tandon, Paresh Rawal, Gulshan Grover, Raza Murad, Sadashiv Amrapurkar, and Poonam Jhawer. Their combined performances helped cement the project as a defining commercial entertainer of the decade.",
+          "Beyond its narrative grit and action choreography, the film achieved legendary status largely due to its timeless soundtrack composed by Viju Shah. The upcoming theatrical run offers fans a fresh opportunity to experience legendary chart-topping numbers like 'Tu Cheez Badi Hai Mast Mast' and 'Tip Tip Barsa Paani' in an enhanced 4K format. Whether this nostalgia trip can carve out a profitable space while sharing marquee space with a mammoth competitor remains one of the season's most intriguing box office questions."
+        ]
+      }
+    ],
+    "facts": [
+      "The re-release trend gained significant momentum in 2024.",
+      "Sanam Teri Kasam (2016) collected more than Rs. 40 crores during its re-release.",
+      "Trimurti Films Pvt Ltd uploaded a confirmation video for Mohra's re-release on its YouTube channel.",
+      "Mohra is scheduled to return to cinemas on November 6 during Diwali week.",
+      "Ramayana stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "Rimpy Films International, headed by Deepinder Singh, is distributing the re-release in 4K remastered format.",
+      "Heera Talkies in Agra is playing Mohra in all four daily shows.",
+      "Vidhaata (1982), Yudh (1985), Tridev (1989), and Gupt (1994) are also planned for re-release.",
+      "Mohra was originally released on July 1, 1994.",
+      "The original film starred Naseeruddin Shah, Akshay Kumar, Suniel Shetty, Raveena Tandon, Paresh Rawal, Gulshan Grover, Raza Murad, Sadashiv Amrapurkar, and Poonam Jhawer.",
+      "Viju Shah composed the music for Mohra."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Deepinder Singh",
+        "Naseeruddin Shah",
+        "Suniel Shetty",
+        "Raveena Tandon",
+        "Paresh Rawal",
+        "Gulshan Grover",
+        "Raza Murad",
+        "Sadashiv Amrapurkar",
+        "Poonam Jhawer",
+        "Rajiv Rai",
+        "Viju Shah"
+      ],
+      "titles": [
+        "Mohra",
+        "Ramayana",
+        "Rockstar",
+        "Laila Majnu",
+        "Tumbbad",
+        "Sanam Teri Kasam",
+        "Avengers Endgame: Encore",
+        "Vidhaata",
+        "Tridev",
+        "Gupt",
+        "Yudh",
+        "Zora"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/BREAKING-Akshay-Kumars-Mohra-to-CLASH-with-Ranbir-Kapoor-Yashs-Ramayana-this-Diwali.jpg",
+        "caption": "Akshay Kumar's Classic Action Film Mohra Set for 4K Re-Release During Diwali Week",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 14:52:30 +0200"
+  },
+  "10cnivd": {
+    "id": "10cnivd",
+    "type": "news",
+    "headline": "Udta Teer Enters First Monday Facing Typical Weekday Dip After Solid Opening Weekend",
+    "dek": "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer faces its crucial first Monday test, crossing the 24 crore mark in total India gross collections according to early updates.",
+    "body": [
+      {
+        "h": "The Crucial First Monday Test",
+        "p": [
+          "The theatrical run of the spy comedy Udta Teer entered a critical phase today as the film faced its first Monday test on October 26, 2026. Following an energetic opening weekend, the Ayushmann Khurrana and Sara Ali Khan starrer experienced the anticipated slowdown in ticket sales as the workweek commenced.",
+          "Industry tracking via Sacnilk provided early live updates indicating that the feature had brought in approximately 96 lakh by the afternoon of its fourth day. This early figure contributed to pushing the domestic net earnings to a total of 20.51 crore, while overall India gross collections moved past the 24 crore threshold to stand at approximately 24.50 crore."
+        ]
+      },
+      {
+        "h": "Weekend Momentum and Strong Growth",
+        "p": [
+          "Udta Teer launched into cinemas with a decent opening day collection of 4.10 crore. The production gradually built its momentum over the succeeding days, culminating in a robust weekend performance that was bolstered by 6,020 shows across domestic screens.",
+          "A particularly strong Sunday performance saw the spy comedy record a notable 13.1 percent jump in earnings, pulling in 8.20 crore net. This healthy weekend surge successfully elevated the cumulative three-day India gross figures to 23.37 crore, with total domestic net earnings reaching 19.55 crore prior to the weekday transition."
+        ]
+      },
+      {
+        "h": "Spy Comedy Premise and Creative Team",
+        "p": [
+          "Directed by filmmaker Aakash Kaushik, Udta Teer combines elements of espionage with lighthearted comedy, featuring a distinct narrative centered around a memory-loss twist. The plot revolves around a Pakistani spy who crosses into India, subsequently loses his memory, and mistakenly adopts the belief that he is an Indian citizen.",
+          "The feature is backed by prominent production banners including Karan Johar's Dharma Productions and Sikhya Entertainment, bringing together a high-profile creative team to helm this unique cross-border comedic caper."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Occupancy Trends",
+        "p": [
+          "Alongside lead actors Ayushmann Khurrana and Sara Ali Khan, the movie showcases a diverse supporting ensemble. Notable names featured in the cast include Rahul Bose, Ram Kapoor, Gulshan Grover, Mukul Dev, Suhail Nayyar, and Supriya Pilgaonkar, adding considerable weight to the cinematic presentation.",
+          "As the film transitioned into its fourth day of theatrical release, morning shows recorded an occupancy rate of 6.69 percent, reflecting the expected weekday softening of audience numbers following the weekend rush."
+        ]
+      }
+    ],
+    "facts": [
+      "Udta Teer released its early day 4 box office updates on October 26, 2026.",
+      "The film stars Ayushmann Khurrana and Sara Ali Khan.",
+      "It is directed by Aakash Kaushik.",
+      "The film is backed by Dharma Productions and Sikhya Entertainment.",
+      "Day 1 opening collection was 4.10 crore.",
+      "Sunday net collections reached 8.20 crore with a 13.1% jump across 6,020 shows.",
+      "Three-day India gross collection reached 23.37 crore, and domestic net earnings reached 19.55 crore.",
+      "By 4 PM on Day 4, the film collected approximately 96 lakh.",
+      "Total India gross collections crossed the 24 crore mark to reach 24.50 crore by Day 4.",
+      "Domestic net collection reached 20.51 crore by Day 4.",
+      "Morning show occupancy on Day 4 was 6.69%.",
+      "The ensemble cast includes Rahul Bose, Ram Kapoor, Gulshan Grover, Mukul Dev, Suhail Nayyar, and Supriya Pilgaonkar."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sara Ali Khan",
+        "Aakash Kaushik",
+        "Karan Johar",
+        "Rahul Bose",
+        "Ram Kapoor",
+        "Gulshan Grover",
+        "Mukul Dev",
+        "Suhail Nayyar",
+        "Supriya Pilgaonkar"
+      ],
+      "titles": [
+        "Udta Teer"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/feature20-86991793007123.jpg",
+        "caption": "Udta Teer Enters First Monday Facing Typical Weekday Dip After Solid Opening Weekend",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 17:00:20 +0530"
+  },
+  "1a8zalg": {
+    "id": "1a8zalg",
+    "type": "news",
+    "headline": "Pratap Trailer Unveiled: Amit Sadh Transforms from Star Cop to Prisoner in Action-Packed Drama",
+    "dek": "The makers of Pratap have released the official trailer, showcasing Amit Sadh as an encounter specialist who finds himself behind bars, alongside Esha Deol.",
+    "body": [
+      {
+        "h": "The Official Trailer Drop",
+        "p": [
+          "The entertainment industry has received a fresh surge of excitement with the release of the official trailer for the upcoming action drama titled Pratap. The promotional video sets an intense tone, introducing viewers to a turbulent narrative filled with high-stakes action and unexpected plot developments. At the center of the story is a police officer whose existence undergoes a drastic upheaval when his fortunes reverse entirely, placing him on the wrong side of the law.",
+          "Rather than sticking to a linear storytelling format, the newly revealed trailer moves back and forth between the protagonist's past and present. It highlights his former life as a law enforcer while teasing his current reality as an inmate. Despite showing glimpses of his difficult journey, the promotional material successfully maintains the mystery surrounding the exact reasons behind his imprisonment, leaving audiences curious about the catalysts for his downfall."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Cast Details",
+        "p": [
+          "Versatile actor Amit Sadh leads the project, stepping into the shoes of the titular character Pratap. Described as a decorated encounter specialist, Pratap has dedicated a significant portion of his career to putting dangerous criminals behind bars. However, the narrative flips this premise on its head by forcing the lawman to navigate the harsh realities of being a prisoner himself, creating a profound internal conflict as he fights for his own survival.",
+          "Alongside Amit Sadh, the film features Esha Deol in a prominent capacity, supported by a wider ensemble cast. Both lead actors have expressed enthusiasm for the project, noting that the narrative steers clear of traditional tropes and offers deeply layered character arcs that challenge the conventional boundaries of standard cop dramas."
+        ]
+      },
+      {
+        "h": "Cast Insights and Perspectives",
+        "p": [
+          "Speaking about his involvement in the project, Amit Sadh discussed the unconventional nature of his role. He pointed out that Pratap avoids being a routine police story, drawing him in through the complex trajectory of a man who spent his entire life enforcing regulations only to experience life from the opposite perspective. The actor highlighted the multitude of emotions and internal contradictions embedded within the character, which provided a compelling challenge for his performance.",
+          "Similarly, co-star Esha Deol shared her thoughts regarding what attracted her to the venture. She emphasized that the plot holds much more depth than a straightforward narrative suggests. According to her, the story unfolds with multiple layers that prompt viewers to reevaluate the characters and their evolving circumstances as the plot progresses, while also praising her collaboration with the cast and crew."
+        ]
+      },
+      {
+        "h": "Release Timeline and Promotional Rollout",
+        "p": [
+          "Anticipation for the feature has been steadily building through various promotional milestones. Prior to the arrival of the trailer, the production team unveiled the official movie poster, offering fans an initial aesthetic look at the project. These marketing steps are designed to build momentum ahead of the film's theatrical debut.",
+          "Marking your calendars, Pratap is officially scheduled to land in cinema halls on November 20, 2026. As the release date approaches, cinephiles and fans of action-heavy thrillers await further promotional content to learn more about the dark turns awaiting the protagonist."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer for Pratap was released on October 26, 2026.",
+      "Amit Sadh plays a decorated encounter specialist named Pratap in the film.",
+      "Esha Deol stars alongside Amit Sadh in a significant role.",
+      "The film is scheduled for a theatrical release on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Amit Sadh",
+        "Esha Deol",
+        "Jiya Surana",
+        "Sachin",
+        "Bhuvan Bam",
+        "Wamiqa Gabbi"
+      ],
+      "titles": [
+        "Pratap",
+        "Kuku Ki Kundli"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/oct/pratapthu1793005425.jpg",
+        "caption": "Pratap Trailer Unveiled: Amit Sadh Transforms from Star Cop to Prisoner in Action-Packed Drama",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-10-26T16:58:27+05:30"
+  },
+  "t6j954": {
+    "id": "t6j954",
+    "type": "news",
+    "headline": "The Terminal List Season 2 Surpasses Reacher to Become Prime Video's Biggest Global Hit",
+    "dek": "Chris Pratt returns as James Reece in the explosive second season of Amazon's action thriller, quickly climbing to the top of global streaming charts.",
+    "body": [
+      {
+        "h": "The Return of James Reece",
+        "p": [
+          "Four years after its initial premiere, Amazon's high-octane action thriller adaptation has finally made its long-awaited comeback. Based on the 2018 novel of the same name by Jack Carr, the series originally introduced audiences to Chris Pratt as James Reece, a Navy SEAL who returned home questioning his own memory about a catastrophic covert mission.",
+          "Following a middle spin-off show centered on the character of Neagley and Alan Ritchson's dominating run with Reacher, the second season of Pratt's series has officially arrived. Released just five days ago, the new episodes waste no time thrusting the wandering one-man army back into the center of dangerous global events."
+        ]
+      },
+      {
+        "h": "A Globe-Trotting Conspiracy",
+        "p": [
+          "The Terminal List Season 2 draws its primary inspiration from Jack Carr's second novel, True Believer. This new chapter sends James Reece across the globe on a violent journey of redemption as he attempts to find a fresh sense of purpose.",
+          "Along the way, Reece uncovers an intricate and dangerous conspiracy that spans from Moscow to Langley. Furthermore, the unfolding mystery digs deep into his own family's history, raising the personal stakes significantly as he confronts fresh threats."
+        ]
+      },
+      {
+        "h": "Global Streaming Dominance",
+        "p": [
+          "Despite facing mixed critical reception compared to its stablemate Reacher, the second season has had zero trouble finding an massive audience. Within just five days of its release, the show surged past Alan Ritchson's series to claim the title of the biggest streaming series worldwide on Prime Video's global top 10 chart.",
+          "In addition to its international success, the thriller secured the number one spot on the United States streaming charts. This rapid ascent demonstrates that viewers remain deeply enthusiastic about the high-stakes action delivered by Pratt."
+        ]
+      },
+      {
+        "h": "Critical Reception and Future Prospects",
+        "p": [
+          "While Reacher has maintained steady acclaim, The Terminal List has proven to be notably more divisive among critics and viewers alike. The second season currently holds a 57% approval rating from critics alongside an 89% score from audiences on Rotten Tomatoes.",
+          "Although Amazon has not yet issued an official green light for a third outing, the platform is widely expected to renew the series. Pratt has expressed immense enthusiasm for continuing the journey, noting that he and the creative team have plenty of ideas and a strong desire to keep telling these stories."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Savage Son",
+        "p": [
+          "Looking further into the future of the franchise, creator Jack Carr has already outlined plans for a potential third season. According to Carr, subsequent adaptations would likely draw from the third book in the series, Savage Son.",
+          "That potential storyline would pit James Reece against the Russian mafia in a visceral, primal game of cat and mouse. Alongside the expanding Reacher franchise, these hits solidify Prime Video as a premier destination for no-nonsense action entertainment."
+        ]
+      }
+    ],
+    "facts": [
+      "The Terminal List Season 2 was released 5 days prior to the report.",
+      "The series is based on the novel by Jack Carr published in 2018.",
+      "Season 2 draws inspiration from Jack Carr's second novel, True Believer.",
+      "Season 2 holds scores of 57% from critics and 89% from audiences on Rotten Tomatoes.",
+      "A potential third season would be based on the third book, Savage Son."
+    ],
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "Jack Carr",
+        "Alan Ritchson",
+        "James Reece"
+      ],
+      "titles": [
+        "The Terminal List",
+        "Reacher",
+        "Neagley",
+        "True Believer",
+        "Savage Son"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/xx-6.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Terminal List Season 2 Surpasses Reacher to Become Prime Video's Biggest Global Hit",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 11:30:18 GMT"
   }
 };
