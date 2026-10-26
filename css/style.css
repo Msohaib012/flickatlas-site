@@ -1862,3 +1862,12 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .news-slide-title{color:#10201E}
 .news-slide-meta{color:#5B6B68}
 
+/* ---------- Drama Episodes list thumbnail (homepage, owner order 2026-10-26) ----------
+   The .ep-row flex row + .ep-info text styles already exist in main (§6.3,
+   shared with the show page). Only the .ep-thumb wrapper is new. */
+.ep-thumb{flex:0 0 112px;width:112px;aspect-ratio:16/9;border-radius:8px;overflow:hidden;background:var(--soft)}
+.ep-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.ep-thumb .noimg{width:100%;height:100%}
+@media (max-width:480px){
+  .ep-thumb{flex-basis:96px;width:96px}
+}
