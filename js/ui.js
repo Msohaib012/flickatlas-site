@@ -364,18 +364,28 @@ const UI = (() => {
     if (!Array.isArray(rows) || !rows.length) return "";
     const o = opts || {};
     const clean = bollywoodRows(rows);
-    const body = clean.map((rw, idx) => {
+    /* Day-wise display cap (owner order 2026-10-27): show Day 1–30 only.
+       Past Day 30 the table shows one "Total collection till today" line
+       = the sum of ALL recorded days. The data is never trimmed — the
+       total needs every row. */
+    const shown = clean.filter((rw, idx) => dayNumOf(rw, idx) <= 30);
+    const capped = clean.length > shown.length;
+    const totalAll = clean.reduce((s, r) => s + (r.collection || 0), 0);
+    const body = shown.map((rw, idx) => {
       const n = dayNumOf(rw, idx);
       const dayCell = o.titleId
         ? `<a href="/box-office-day?title=${encodeURIComponent(o.titleId)}&day=${n}"><b>${esc(rw.day || ("Day " + n))}</b></a>`
         : esc(rw.day || "");
       return `<tr${o.highlight === n ? ' class="dw-hl"' : ""}><td>${esc(fmtDate(rw.date))}</td><td>${dayCell}</td><td><b>${fmtMoney(rw.collection)}</b></td></tr>`;
     }).join("");
-    if (!body) return "";
+    if (!body && !capped) return "";
+    const foot = capped
+      ? `<tfoot><tr class="dw-total"><td>${esc(fmtDate(clean[clean.length - 1].date))}</td><td><b>Total collection till today</b></td><td><b>${fmtMoney(totalAll)}</b></td></tr></tfoot>`
+      : "";
     return `<div class="content-card"><h2>${esc(heading || "Day-Wise Box Office")}</h2>
       <div class="table-scroll"><table class="data">
         <thead><tr><th>Date</th><th>Day</th><th>Collection</th></tr></thead>
-        <tbody>${body}</tbody></table></div>
+        <tbody>${body}</tbody>${foot}</table></div>
       <p class="prov-note">${industryContext === "bollywood" ? "Available dated collection records. Territory and gross/net basis are not supplied in this dataset; figures are not independently reconciled here." : "Day-wise worldwide collections, as reported by the FlickAtlas data engine."}${o.titleId ? " Open any day for its own collection page." : ""}</p></div>`;
   }
 
@@ -564,17 +574,26 @@ const UI = (() => {
     if (!Array.isArray(rows) || !rows.length) return "";
     const clean = bollywoodRows(rows);
     if (!clean.length) return "";
+    /* Same 30-day display cap as daywiseCard: Day 1–30 rows, then one
+       "Total collection till today" line = the sum of ALL recorded days. */
+    const shown = clean.filter((rw, idx) => dayNumOf(rw, idx) <= 30);
+    const capped = clean.length > shown.length;
+    const totalAll = clean.reduce((s, r) => s + (r.collection || 0), 0);
     let run = 0;
-    const body = clean.map((rw, idx) => {
+    const body = shown.map((rw, idx) => {
       run += rw.collection || 0;
       const n = dayNumOf(rw, idx);
       return `<tr><td>${esc(fmtDate(rw.date))}</td><td><a href="/box-office-day?title=${encodeURIComponent(titleId)}&day=${n}"><b>${esc(rw.day || ("Day " + n))}</b></a></td><td><b>${fmtMoney(rw.collection)}</b></td><td>${fmtMoney(run)}</td></tr>`;
     }).join("");
+    if (!body && !capped) return "";
+    const foot = capped
+      ? `<tfoot><tr class="dw-total"><td>${esc(fmtDate(clean[clean.length - 1].date))}</td><td><b>Total collection till today</b></td><td><b>${fmtMoney(totalAll)}</b></td><td><b>${fmtMoney(totalAll)}</b></td></tr></tfoot>`
+      : "";
     return `<div class="content-card"><h2>Daily Collection</h2>
       <div class="table-scroll"><table class="data">
         <thead><tr><th>Date</th><th>Day</th><th>Collection</th><th>${industryContext === "bollywood" ? "Recorded Sum" : "Total So Far"}</th></tr></thead>
-        <tbody>${body}</tbody></table></div>
-      <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. Territory and gross/net basis are not specified in this data. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"} — open any day for its own collection page.</p></div>`;
+        <tbody>${body}</tbody>${foot}</table></div>
+      <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. Territory and gross/net basis are not specified in this data. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"}${capped ? " The Total collection till today line sums every recorded day, including days past Day 30." : ""} — open any day for its own collection page.</p></div>`;
   }
 
   function posterCard(item, type, tag, rank, extraMeta) {
@@ -767,6 +786,7 @@ const UI = (() => {
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 

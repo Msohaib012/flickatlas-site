@@ -480,6 +480,8 @@ img.sp-photo{width:42px;height:42px;border-radius:50%;object-fit:cover}
 .article-body .article-summary + .article-summary{margin-top:10px}
 .dw-hl td{background:#E7F5F0}
 tr.dw-hl td:first-child{box-shadow:inset 3px 0 0 var(--teal)}
+.dw-total td{background:#E7F5F0;border-top:2px solid var(--teal)}
+tr.dw-total td:first-child{box-shadow:inset 3px 0 0 var(--teal)}
 
 /* ---------- airing today / release schedule ---------- */
 .ep-row .tag-chip{flex:none}
@@ -1921,3 +1923,4 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .rv-sw{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
 .rv-sw h3{margin-top:14px}
 @media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}
+
