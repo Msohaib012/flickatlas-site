@@ -1128,5 +1128,165 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 25 Oct 2026 22:15:14 GMT"
+  },
+  "8j0xk3": {
+    "id": "8j0xk3",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 11: Rajinikanth's Action Thriller Crosses Rs 710 Crore Worldwide",
+    "dek": "Rajinikanth's action thriller Jailer 2 maintains a strong box office momentum, crossing the Rs 710 crore mark globally following a robust second weekend.",
+    "body": [
+      {
+        "h": "Continuing Box Office Momentum on the Second Sunday",
+        "p": [
+          "The theatrical run of the newly released action thriller starring veteran superstar Rajinikanth witnessed a notable upswing in earnings as it concluded its second weekend. Bringing in a strong collection during Sunday screenings, the movie demonstrated its continued appeal among audiences across various regions. Industry trackers and public reports highlight that the feature has successfully maintained high engagement levels well past its opening week, showing consistent footfalls in theaters nationwide.",
+          "The film recorded a significant number of screenings across the country on its eleventh day, allowing it to register a notable percentage increase compared to its previous day's tally. Exhibitors and trade analysts noted that evening and afternoon show slots drew particularly heavy crowds, contributing heavily to the overall daily net revenue generated within domestic territories."
+        ]
+      },
+      {
+        "h": "Breaking Down Domestic and International Figures",
+        "p": [
+          "In terms of cumulative financial performance, the movie has amassed massive figures since its initial premiere. Total domestic net collections have reached substantial heights, complemented by strong domestic gross tallies. International markets have additionally proven to be a vital revenue driver, adding consistent daily grosses from overseas territories to elevate the cumulative worldwide gross past the monumental threshold.",
+          "While the second weekend performance demonstrated impressive staying power—pulling in a strong three-day net total across Friday, Saturday, and Sunday—these figures arrive on the heels of a massive opening week. Although current daily earnings sit below the record-breaking heights established on the very first day of release, the film continues to command thousands of shows daily with steady occupancy percentages."
+        ]
+      },
+      {
+        "h": "Multi-Language Performance and Regional Dominance",
+        "p": [
+          "The project's box office triumph is heavily anchored by its performance across multiple regional languages. The Tamil version naturally captured the lion's share of the domestic earnings, commanding a vast majority of the total net revenue with high overall theater occupancy. At the same time, versions released in Telugu, Hindi, and Kannada also contributed meaningfully to the overall tally, proving the widespread multi-lingual appeal of the lead star.",
+          "State-wise distribution reports emphasize that Tamil Nadu remained the primary contributor to the gross collection figures, followed closely by Karnataka and the Andhra Pradesh-Telangana region. Kerala and other parts of the country rounded out the regional contributions, pushing total reported state-wise gross collections past the thirty-crore mark for the specific Sunday window alone."
+        ]
+      },
+      {
+        "h": "Plot Background and Character Context",
+        "p": [
+          "Directed to appeal to fans of high-octane commercial cinema, the narrative centers on the protagonist Tiger Muthuvel Pandian, a retired jailer portrayed by Rajinikanth. The storyline kicks into high gear when an unexpected and dangerous threat from the criminal underworld shatters the tranquility of his everyday life, forcing him to step back into his former ruthless persona.",
+          "The ensuing conflict drives the core of the action thriller, as the seasoned protagonist sets out to neutralize antagonistic forces and safeguard his family. This mixture of emotional stakes and signature action sequences has resonated strongly with moviegoers, fueling the massive attendance numbers recorded at ticket windows globally."
+        ]
+      },
+      {
+        "h": "Audience Attendance and Trade Significance",
+        "p": [
+          "Cumulative theatrical attendance has seen millions of tickets sold since the feature premiered, reflecting the enduring superstardom of the lead actor. Sunday screenings alone registered massive footfalls across various territories, with different language versions displaying varying degrees of peak viewing hours, ranging from strong evening turnouts to respectable morning and afternoon occupancies.",
+          "As public and industry sources continue to monitor the performance of this blockbuster, final figures are expected to adjust slightly as official studio verifications are completed. Nevertheless, the milestone achievement of crossing the Rs 710 crore global threshold solidifies its place as one of the major commercial successes of the theatrical calendar."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 crossed Rs 710.35 crore worldwide by day 11.",
+      "The second weekend earned Rs 64.35 crore in India net revenue.",
+      "Day 11 (Sunday) India net collection was Rs 25.70 crore from 11,954 shows.",
+      "Day 10 (Saturday) India net collection was Rs 24.15 crore from 11,591 shows.",
+      "Day 9 (Friday) India net collection was Rs 14.50 crore from 10,484 shows.",
+      "Opening day collection record was Rs 59.70 crore.",
+      "Opening week collection was Rs 334.35 crore.",
+      "Total India net collection reached Rs 398.70 crore.",
+      "Total domestic gross reached Rs 466.85 crore.",
+      "International gross reached Rs 243.50 crore, with Rs 10 crore added on Sunday.",
+      "Sunday footfalls were 1,749,982, taking cumulative attendance to 26,425,010.",
+      "Tamil version earned Rs 17.35 crore on Sunday from 5,683 shows.",
+      "Telugu version earned Rs 4.50 crore on Sunday from 1,860 shows.",
+      "Hindi version earned Rs 3.15 crore on Sunday across 4,195 shows.",
+      "Kannada version added Rs 70 lakhs on Sunday from 216 shows."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135199779,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 11: Rajinikanth's Action Thriller Crosses Rs 710 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T05:34:48+05:30"
+  },
+  "irj2bg": {
+    "id": "irj2bg",
+    "type": "news",
+    "headline": "‘Ramayana: Rise of a Legend’ Surges Toward Rs 25 Crore in Advance Bookings Ahead of November Release",
+    "dek": "The highly anticipated cinematic adaptation directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash is demonstrating phenomenal momentum at the ticket windows prior to its theatrical debut.",
+    "body": [
+      {
+        "h": "Strong Opening Momentum and Advance Booking Figures",
+        "p": [
+          "The much-awaited mythological epic 'Ramayana: Rise of a Legend' is witnessing an extraordinary wave of early interest, quickly approaching the significant Rs 25 crore mark in pre-release ticket sales. As the feature prepares for its grand theatrical rollout, tracking data compiled by Films Discourse indicates exceptional enthusiasm from audiences across the country.",
+          "Early box office tallies reveal that the feature has already moved approximately 2.16 lakh admissions across 161 urban centers. This initial surge has translated into an estimated gross total of Rs 12.50 crore strictly through advance reservations for its opening weekend."
+        ]
+      },
+      {
+        "h": "Breakdown of Gross and Net Collections",
+        "p": [
+          "Analyzing the financial metrics reveals a nuanced picture of the pre-sale performance. When excluding specifically blocked seats, the net collection generated by these early reservations sits at an estimated Rs 10.57 crore.",
+          "However, factoring in all currently blocked inventory significantly elevates the figures, bringing the reported gross collection closer to the projected milestones at an impressive Rs 23.28 crore, setting the stage for a blockbuster opening week."
+        ]
+      },
+      {
+        "h": "Regional Dominance Led by Maharashtra and Mumbai",
+        "p": [
+          "Geographically, the state of Maharashtra has emerged as the clear frontrunner in driving these advance booking numbers. Audiences within the state have secured a remarkable 46,937 tickets, contributing an estimated Rs 3.20 crore to the pre-release tally.",
+          "At the city level, Mumbai stands proudly at the forefront of metropolitan ticket sales. The city alone accounted for 27,959 purchased admissions, generating an estimated collection of Rs 2.07 crore and cementing its status as a primary stronghold for the film."
+        ]
+      },
+      {
+        "h": "Language and Format Preferences Among Audiences",
+        "p": [
+          "A closer look at the linguistic distribution shows that the Hindi version is overwhelmingly driving the pre-sale momentum. Reports indicate that 1,84,010 tickets for the Hindi-language screenings have been snapped up by eager fans, yielding an estimated Rs 10.98 crore.",
+          "In terms of presentation formats, immersive 3D screenings are capturing a substantial share of the excitement. While specific tallies vary across reporting entries—with one dataset indicating 1,28,575 tickets generating Rs 6.51 crore and another pointing to 1,41,183 tickets bringing in Rs 7.10 crore—the format is undeniably proving to be a major draw for moviegoers."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Creative Leadership",
+        "p": [
+          "The immense pre-release traction can largely be attributed to its stellar ensemble cast and celebrated creative team. Helmed by acclaimed director Nitesh Tiwari, the project brings together some of the biggest names in Indian cinema to breathe new life into the timeless epic.",
+          "Ranbir Kapoor takes on the revered role of Lord Ram, while Yash steps into the formidable persona of Ravana. The film also features Sai Pallavi as Sita, Sunny Deol as Hanuman, and Ravie Dubey as Lakshman, creating a powerhouse lineup for the worldwide theatrical launch."
+        ]
+      },
+      {
+        "h": "Anticipation and Global Theatrical Launch",
+        "p": [
+          "The massive advance ticket sales underscore the sky-high expectations surrounding the first part of this ambitious cinematic journey. Industry analysts and fans alike are watching the numbers closely as the release date approaches.",
+          "With a scheduled worldwide theatrical premiere on Thursday, November 5, 2026, 'Ramayana: Part 1' is poised to make a monumental splash at the box office, potentially rewriting opening-weekend records upon its arrival."
+        ]
+      }
+    ],
+    "facts": [
+      "The film is scheduled for release on November 5, 2026.",
+      "Advance bookings have sold approximately 2.16 lakh tickets across 161 cities.",
+      "The gross total in advance bookings for the opening weekend is estimated at Rs 12.50 crore.",
+      "The net collection excluding blocked seats is estimated at Rs 10.57 crore.",
+      "With blocked seats included, the reported gross collection stands at Rs 23.28 crore.",
+      "Maharashtra sold 46,937 tickets, generating an estimated Rs 3.20 crore.",
+      "Mumbai sold 27,959 tickets with an estimated collection of Rs 2.07 crore.",
+      "The Hindi version sold 1,84,010 tickets, generating an estimated Rs 10.98 crore.",
+      "The film is directed by Nitesh Tiwari.",
+      "The cast includes Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, Yash as Ravana, Sunny Deol as Hanuman, and Ravie Dubey as Lakshman."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana: Part 1"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135200153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Ramayana: Rise of a Legend’ Surges Toward Rs 25 Crore in Advance Bookings Ahead of November Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T06:09:50+05:30"
   }
 };
