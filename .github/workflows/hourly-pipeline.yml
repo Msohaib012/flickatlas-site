@@ -69,6 +69,7 @@ jobs:
               "run_sacnilk": hour in (2, 8, 14, 20) or overdue("sacnilk_boxoffice", 24),
               "run_tavily": hour in (8, 18) or overdue("tavily_boxoffice", 12),
               "run_reviews": hour == 19 or overdue("gemini_reviews", 24),
+              "run_trending": hour == 18 or overdue("trending_weekly", 24),
               "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
               "run_stats_health": hour == 6 or overdue("stats_health", 24),
           }
@@ -152,6 +153,26 @@ jobs:
         id: ott
         continue-on-error: true
         run: python3 scripts/build_ott.py || echo "ott-data rebuild failed, continuing"
+
+      # --- 5c. Trending Topics (daily, search + AI) --------------------
+      # Rebuild js/trending-topics.js (this week's topics only):
+      # Tavily search (4 queries, time_range=week) + Gemini selection.
+      # Runs 18:00 UTC (after the title seeder) + 24h overdue
+      # catch-up. No keys -> SKIP exit 0.
+      - name: Trending Topics (weekly)
+        id: trending
+        if: steps.decide.outputs.run_trending == 'true'
+        continue-on-error: true
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+        run: python3 scripts/trending_weekly.py || echo "trending-weekly failed, continuing"
 
       # --- 6. Multi-source box office (hourly) ---------------------------
       # Per-site readers fetch day-wise INDIA NET figures into
@@ -314,6 +335,7 @@ jobs:
           SACNILK_OUTCOME: ${{ steps.multisource.outcome }}
           TAVILY_OUTCOME: ${{ steps.multisource.outcome }}
           REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
+          TRENDING_OUTCOME: ${{ steps.trending.outcome }}
           MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
@@ -351,6 +373,8 @@ jobs:
                                    os.environ.get("TAVILY_OUTCOME")),
               "gemini_reviews": (os.environ.get("RUN_REVIEWS") == "true",
                                  os.environ.get("REVIEWS_OUTCOME")),
+              "trending_weekly": (os.environ.get("RUN_TRENDING") == "true",
+                                 os.environ.get("TRENDING_OUTCOME")),
               "stats_pipeline": (os.environ.get("RUN_STATS_PIPE") == "true",
                                  os.environ.get("STATS_PIPE_OUTCOME")),
               "stats_health": (os.environ.get("RUN_HEALTH") == "true",
@@ -400,7 +424,7 @@ jobs:
         run: |
           git config user.name "Msohaib012"
           git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js
+          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js js/trending-topics.js
           git add api-news.json api-trends.json
           git add js/stats-pipeline.json js/stats-traffic.json js/stats-health.json
           git add out/orchestrator-state.json
@@ -456,6 +480,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
