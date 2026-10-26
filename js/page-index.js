@@ -189,17 +189,25 @@
       const fresh = rel.filter(x => freshReleased(x));
       return fresh.length ? fresh : rel;
     };
-    const lollyLatest = releasedPool(x => (x.industry || "") === "pakistani").slice(0, HOME_LIMITS.lollywood);
+    /* Lollywood = Pakistani MOVIES only (user order 2026-10-26): Pakistani TV
+       dramas (type "tv") are excluded — they live in the episodes rail, not here. */
+    const lollyLatest = releasedPool(x => (x.industry || "") === "pakistani" && typeOf(x) === "movie").slice(0, HOME_LIMITS.lollywood);
 
-    /* ---------- Newest published titles, all industries: same pool and
-       order as /movies?f=all&s=recent (released movies, fresh-first with
-       the full-pool fallback, newest first). First 6. ---------- */
-    const mixedPool = pubAll().filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x)).sort(byNewest);
-    const mixedFresh = mixedPool.filter(x => freshReleased(x));
-    const mixed = (mixedFresh.length ? mixedFresh : mixedPool).slice(0, HOME_LIMITS.trending);
-    const mixedHtml = rowSection("Trending Worldwide", "/movies?f=all&seeall=1",
-      mixed.length ? `<div class="scroller">${mixed.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
-      "Newest published titles across all industries.",
+    /* ---------- Trending Worldwide: AUTHENTIC trending only (user order
+       2026-10-26). Renders ONLY from window.FA_TRENDING — a list of TMDB
+       ids in trending order (js/trending-data.js) — matched to published
+       entries in FA_PUBLISHED, in trending order, up to 6. If FA_TRENDING
+       is missing or empty, the section renders NOTHING: no fallback to
+       the newest/mixed pool — that fallback is exactly what the user
+       called inauthentic. ---------- */
+    const trendingIds = Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : [];
+    const trendingEntries = trendingIds
+      .map(id => (window.FA_PUBLISHED || {})[String(id)])
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path)
+      .slice(0, HOME_LIMITS.trending);
+    const trendingHtml = rowSection("Trending Worldwide", "/movies?f=all&seeall=1",
+      trendingEntries.length ? `<div class="scroller">${trendingEntries.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
+      "Trending this week, worldwide.",
       "mixed-trending");
     /* Trending Searches: the feed itself is a published file
        (/api/trends); the context pools are published titles only, and
@@ -213,8 +221,19 @@
        carries no revenue figure). Titles with no day-wise rows yet show
        an honest "Not reported" state. First 8 cards; no section at all
        when no published movie qualifies. ---------- */
+    /* Short "26 Oct" date for the Today cell (compact for mobile). */
+    const shortDate = (s) => {
+      const m = String(s || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
+      if (!m) return "";
+      const MO = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+      const mo = +m[2];
+      if (mo < 1 || mo > 12) return "";
+      return `${+m[3]} ${MO[mo - 1]}`;
+    };
     const boCardHtml = (entry, rows) => {
       const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
+      /* Date of the latest reported day-wise row — the "Today" figure's date. */
+      const latestDate = clean.reduce((mx, r) => (r.date > mx ? r.date : mx), "");
       const weekStart = new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10);
       const todayRows = clean.filter(r => r.date === today);
       const weekRows = clean.filter(r => r.date >= weekStart && r.date <= today);
@@ -225,7 +244,7 @@
       const date = entry.release_date || "";
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${clean.length ? UI.fmtMoney(totalSum) : missing}</dd></div></dl></a>`;
+      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${clean.length ? UI.fmtMoney(totalSum) : missing}</dd></div></dl></a>`;
     };
     /* Box Office (user order 2026-10-26): the SAME pool and order as
        /box-office — recently-released published movies, newest first
@@ -236,11 +255,21 @@
     const boPool = pubAll()
       .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && (boHasRows(x) || UI.isFresh(x)))
       .sort(byNewest);
-    const boPicks = boPool.slice(0, HOME_LIMITS.boxoffice).map(entry => ({ entry, rows: dwData[String(entry.id)] || [] }));
-    const boHtml = boPicks.length ? `<section class="section" data-sec="box-office">
+    /* Box Office by industry (user order 2026-10-26): the same pool as
+       /box-office, split by industry for the homepage switcher — the
+       exact switchButtons()/activate() pattern the Spotlight and Coming
+       Soon sections use. Default view = Bollywood. */
+    const boPoolFor = (industry) => {
+      const ind = industry === "international" ? "world" : "bollywood";
+      return boPool.filter(x => inIndustry(x, ind));
+    };
+    const boHasKind = boPoolFor("bollywood").length > 0 || boPoolFor("international").length > 0;
+    const boPicks = boPoolFor("bollywood").slice(0, HOME_LIMITS.boxoffice).map(entry => ({ entry, rows: dwData[String(entry.id)] || [] }));
+    const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
-      <a class="see-all" href="/box-office">See All →</a></div>
-      ${boPicks.map(p => boCardHtml(p.entry, p.rows)).join("")}
+      <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
+      ${switchButtons("boxoffice")}<p class="sec-sub">Recently-released films, newest first · Bollywood</p>
+      <div data-results>${boPicks.map(p => boCardHtml(p.entry, p.rows)).join("")}</div>
     </section>` : "";
 
     /* ---------- coming soon: a DAILY release calendar over the
@@ -266,6 +295,91 @@
       <a class="see-all" href="/news">See All →</a></div>
       <p class="sec-sub">Recent published headlines, newest first.</p>
       <div class="sk" style="height:120px;border-radius:14px"></div></section>`;
+    /* News slider (user order 2026-10-26): directly below the hero, the
+       SAME articles as Trending News (newest first) as image slides.
+       Placeholder only — filled by fillHomeNews from the same single
+       /api/news fetch (no second fetch). Removes itself when the feed
+       fails or is empty, exactly like Trending News. */
+    const newsSliderHtml = `<section class="section" id="homeNewsSlider" data-sec="news-slider">
+      <div class="section-head"><h2>Latest News</h2>
+      <a class="see-all" href="/news">See All →</a></div>
+      <div class="sk" style="height:230px;border-radius:14px"></div></section>`;
+    /* News slider renderer: newest 5 items from the shared /api/news
+       fetch, image from window.FA_ARTICLES (already loaded; every
+       /api/news id has a matching FA_ARTICLES entry with an images
+       array). Carousel mirrors the hero: show/hide slides, dots jump,
+       prev/next arrows, auto-advance every 6s, pause on hover, touch
+       swipe. Items without an image are skipped; with < 2 slides the
+       controls and timer are omitted. */
+    const renderNewsSlider = (arts) => {
+      const host = document.getElementById("homeNewsSlider");
+      if (!host) return;
+      const fa = window.FA_ARTICLES || {};
+      const slides = arts.map(it => {
+        const art = fa[it.id] || {};
+        const imgs = Array.isArray(art.images) ? art.images : [];
+        const img = imgs.length && imgs[0] && imgs[0].url ? String(imgs[0].url) : "";
+        return { it, img };
+      }).filter(x => x.img).slice(0, 5);
+      if (!slides.length) { host.remove(); return; }
+      host.innerHTML = `<div class="section-head"><h2>Latest News</h2>
+        <a class="see-all" href="/news">See All →</a></div>
+        <div class="news-slider" id="newsSlider">
+          <div class="news-slider-viewport">${slides.map(({ it, img }, i) => {
+            const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
+            return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
+              <span class="news-slide-img"><img src="${UI.esc(img)}" alt="" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" onerror="this.style.display='none'"></span>
+              <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
+              ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
+            </a>`;
+          }).join("")}</div>
+          ${slides.length > 1 ? `<button type="button" class="news-slider-arrow news-slider-prev" aria-label="Previous story">‹</button>
+          <button type="button" class="news-slider-arrow news-slider-next" aria-label="Next story">›</button>
+          <div class="news-slider-dots">${slides.map((_, i) => `<button type="button" data-slide="${i}" class="${i === 0 ? "on" : ""}" aria-label="Show story ${i + 1}"></button>`).join("")}</div>` : ""}
+        </div>`;
+      /* Carousel wiring (hero pattern): show/hide + dots + arrows +
+         6s auto-advance, pause on hover, horizontal touch swipe. */
+      const car = host.querySelector("#newsSlider");
+      const els = [...car.querySelectorAll(".news-slide")];
+      const dots = [...car.querySelectorAll(".news-slider-dots button")];
+      if (els.length < 2) return;
+      let cur = 0, timer = null;
+      const go = (n) => {
+        els[cur].classList.remove("active"); els[cur].style.display = "none";
+        if (dots[cur]) dots[cur].classList.remove("on");
+        cur = (n + els.length) % els.length;
+        els[cur].classList.add("active"); els[cur].style.display = "block";
+        if (dots[cur]) dots[cur].classList.add("on");
+      };
+      const start = () => { timer = setInterval(() => go(cur + 1), 6000); };
+      const stop = () => { if (timer) clearInterval(timer); timer = null; };
+      dots.forEach((d, i) => d.addEventListener("click", () => { stop(); go(i); start(); }));
+      const prev = car.querySelector(".news-slider-prev"), next = car.querySelector(".news-slider-next");
+      if (prev) prev.addEventListener("click", () => { stop(); go(cur - 1); start(); });
+      if (next) next.addEventListener("click", () => { stop(); go(cur + 1); start(); });
+      let tX = null, tY = null, swiped = false;
+      car.addEventListener("touchstart", (e) => {
+        if (e.touches.length !== 1) { tX = null; return; }
+        tX = e.touches[0].clientX; tY = e.touches[0].clientY;
+      }, { passive: true });
+      car.addEventListener("touchend", (e) => {
+        if (tX === null || !e.changedTouches.length) return;
+        const dx = e.changedTouches[0].clientX - tX;
+        const dy = e.changedTouches[0].clientY - tY;
+        tX = null;
+        if (Math.abs(dx) < 40 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+        e.preventDefault();
+        swiped = true;
+        setTimeout(() => { swiped = false; }, 800);
+        stop(); go(cur + (dx < 0 ? 1 : -1)); start();
+      }, { passive: false });
+      car.addEventListener("click", (e) => {
+        if (swiped) { e.preventDefault(); e.stopPropagation(); swiped = false; }
+      }, true);
+      car.addEventListener("pointerenter", stop);
+      car.addEventListener("pointerleave", start);
+      start();
+    };
     const fillHomeNews = async () => {
       const host = document.getElementById("homeNews");
       if (!host) return;
@@ -284,6 +398,9 @@
           ...it,
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
         }));
+        /* Same fetched items feed the news slider (newest 5 with images)
+           — no second fetch. */
+        try { renderNewsSlider(arts); } catch (_) { document.getElementById("homeNewsSlider")?.remove(); }
         host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
           <a class="see-all" href="/news">See All →</a></div>
           <p class="sec-sub">Recent published headlines, newest first.</p>
@@ -297,6 +414,7 @@
           }).join("")}</div>`;
       } catch (_) {
         host.remove();
+        document.getElementById("homeNewsSlider")?.remove();
       }
     };
 
@@ -363,10 +481,11 @@
        removed by user order.) */
     main.innerHTML = `<div class="wrap">
       ${heroHtml}
+      ${newsSliderHtml}
       ${bollyHtml}
       ${bollySoonHtml}
       ${boHtml}
-      ${mixedHtml}
+      ${trendingHtml}
       ${upHtml}
       ${searchesHtml}
       ${newsHtml}
@@ -381,19 +500,20 @@
     // only (no live TMDB discover). Query only after a non-default tab
     // is chosen; the default Bollywood view is pre-rendered above.
     const industryLabel = i => i === "international" ? "World Cinema" : i === "pakistan" ? "Pakistan" : "Bollywood";
-    const homeStateKey = kind => ({ spotlight: "hs", soon: "hn", calendar: "hc" }[kind]);
+    const homeStateKey = kind => ({ spotlight: "hs", soon: "hn", calendar: "hc", boxoffice: "hb" }[kind]);
     document.querySelectorAll("[data-switcher]").forEach(group => {
       const section = group.closest("section"), kind = group.dataset.switcher, result = section.querySelector("[data-results]"), link = section.querySelector(".see-all"), stateKey = homeStateKey(kind);
       const activate = (industry, persist) => {
         group.querySelectorAll("button").forEach(btn => { const on = btn.dataset.industry === industry; btn.setAttribute("aria-pressed", String(on)); btn.classList.toggle("active", on); });
         if (persist) { const u = new URL(location.href); if (industry === "bollywood") u.searchParams.delete(stateKey); else u.searchParams.set(stateKey, industry); history.pushState(null, "", u); }
-        section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : "Release Calendar";
-        link.href = kind === "spotlight" ? `/movies?f=${industry}&s=recent&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}` : `/upcoming?f=${industry}&s=nearest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "All movies running now, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, most awaited first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
-        const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : "calendar";
+        section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
+        link.href = kind === "spotlight" ? `/movies?f=${industry}&s=recent&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=nearest&seeall=1`;
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "All movies running now, newest first · " + industryLabel(industry) : kind === "soon" ? "Upcoming titles, most awaited first · " + industryLabel(industry) : kind === "boxoffice" ? "Recently-released films, newest first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
+        const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
-        const items = kind === "spotlight" ? publishedFor(kind, industry) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
+        const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
         if (kind === "calendar") result.innerHTML = items.length ? items.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>';
+        else if (kind === "boxoffice") result.innerHTML = items.length ? items.map(entry => boCardHtml(entry, dwData[String(entry.id)] || [])).join("") : '<p role="status">No matching titles found.</p>';
         else result.innerHTML = items.length ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined)).join("") : '<p role="status">No matching titles found.</p>';
       };
       group.addEventListener("click", ev => { const btn = ev.target.closest("button[data-industry]"); if (btn) activate(btn.dataset.industry, true); });
@@ -494,6 +614,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 

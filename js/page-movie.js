@@ -173,6 +173,36 @@
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
     const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office", { titleId: id }) : "";
 
+    /* Advance booking (user order 2026-10-26): upcoming days' advance
+       figures from window.FA_ADVANCE (js/advance-data.js, produced by
+       the Sacnilk reader; may not exist yet, so guard). Shown AFTER the
+       actual day-wise rows, clearly labeled, and NEVER mixed into the
+       actual totals — advance figures are projections, not final
+       collections. Same table shape and money formatting as the
+       day-wise card (UI.fmtMoney, so the currency switcher re-converts
+       them in place). Advance rows are NOT passed through
+       UI.daywiseCard: its cleaner drops future dates. */
+    const advanceHtml = (() => {
+      const raw = (window.FA_ADVANCE || {})[String(id)] || [];
+      const seen = new Set();
+      const clean = (Array.isArray(raw) ? raw : [])
+        .filter(r => r && /^\d{4}-\d{2}-\d{2}$/.test(r.date || "")
+          && typeof r.collection === "number" && Number.isFinite(r.collection) && r.collection >= 0
+          && !seen.has(r.date) && (seen.add(r.date), true))
+        .sort((a, b) => String(a.date).localeCompare(String(b.date)));
+      if (!clean.length) return "";
+      const body = clean.map(rw => `<tr><td>${UI.esc(UI.fmtDate(rw.date))}</td><td>${UI.esc(rw.day || "")}</td><td><b>${UI.fmtMoney(rw.collection)}</b></td></tr>`).join("");
+      return `<div class="content-card"><h2>Advance Booking</h2>
+      <div class="table-scroll"><table class="data">
+        <thead><tr><th>Date</th><th>Day</th><th>Advance Collection</th></tr></thead>
+        <tbody>${body}</tbody></table></div>
+      <p class="prov-note">Advance booking figures for upcoming days, as reported. These are not final collections and may change as the day closes.</p></div>`;
+    })();
+    /* Day-wise section (user order 2026-10-26): the actual day-wise
+       card plus the advance-booking block, placed right below the
+       hero/banner — day-wise collection is the priority on this page. */
+    const daywiseSection = (daywiseHtml || "") + advanceHtml;
+
     const similar = similarPublished(pub);
     const related = relatedNews(pub);
 
@@ -217,6 +247,8 @@
       </div>
     </section>
 
+    ${daywiseSection}
+
     ${pub.overview ? `<div class="content-card"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
 
     ${(pub.budget || pub.revenue) ? `<div class="content-card"><h2>Box Office</h2>
@@ -243,8 +275,6 @@
     ${crewGroups.length ? `<div class="content-card"><h2>Crew</h2>
       <div class="crew-groups">${crewGroups.map(([label, people]) => `<div class="crew-group"><h4>${UI.esc(label)}</h4>
         <ul>${people.map(p => `<li><a href="/person?id=${p.id}">${UI.esc(p.name)}</a><span class="crew-job">${UI.esc(p.job || "")}</span></li>`).join("")}</ul></div>`).join("")}</div></div>` : ""}
-
-    ${daywiseHtml}
 
     ${related.length ? `<section class="section"><div class="section-head"><h2>Related News</h2>
       <a class="see-all" href="/news">All News →</a></div>
@@ -336,6 +366,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 
