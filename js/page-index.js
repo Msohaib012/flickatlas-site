@@ -64,7 +64,7 @@
     /* Spotlight (user order 2026-10-26, revised: show 10-15): the 12 newest
        released movies per industry (was 'fresh this week' only, which capped
        Bollywood at 4). New titles join daily via the nightly seeder. */
-    const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 6 };
+    const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 13 };
     /* Most-awaited sort: /most-awaited ranks upcoming titles by rating
        (vote_average desc, then vote_count desc, then nearest date) — NOT
        byNewest. The homepage "Coming Soon & Most Awaited" rail uses this
@@ -322,7 +322,15 @@
       const tags = new Set();
       const cats = (Array.isArray(it.cats) ? it.cats : []).map(c => String(c).toLowerCase());
       const text = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
-      if (cats.includes("bollywood")) tags.add("bollywood");
+      /* KOREAN GUARD (2026-10-26, browser-verified): the feed misclassifies
+         Korean stories as 'bollywood' (Kim Ji Won K-drama Doctor X carried
+         cats ['bollywood','celebrity'] and showed in the Indian-only slider
+         labelled Bollywood). A story whose text is Korean is NEVER Indian,
+         so the feed's 'bollywood' cat is ignored for it. */
+      const isKorean = hasWord(text, "k-drama") || hasWord(text, "kdrama") ||
+        hasWord(text, "korean") || hasWord(text, "k-pop") || hasWord(text, "kpop") ||
+        hasWord(text, "seoul") || hasWord(text, "kim ji won");
+      if (cats.includes("bollywood") && !isKorean) tags.add("bollywood");
       if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
       if (cats.includes("celebrity")) tags.add("celebrity");
       if (cats.includes("viral")) tags.add("viral");
@@ -693,6 +701,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
