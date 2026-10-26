@@ -298,6 +298,18 @@ jobs:
           PYEOF
 
       # --- 14. ONE commit (always runs, even if a step failed) ---------
+      # A manual push can land while the pipeline runs (the parent pushes
+      # by hand all day). The pipeline's HTML changes are ONLY the
+      # mechanical ?v= bump, so a rebase conflict in an HTML file is
+      # resolved by taking origin/main's version and re-applying the bump
+      # (keeps the manual change AND the new ?v=). A conflict in a DATA
+      # file (js/*.js, api-*.json, out/*) is NOT auto-resolved — the run
+      # aborts the commit and the next hourly run retries from the fresh
+      # main, so no generated data is ever silently overwritten or lost.
+      # (2026-10-26: the 15:55 UTC run failed exactly this way — the
+      # parent's 1191dd63 landed mid-run and both sides touched
+      # movie/index.html; the rebase conflict killed the whole run and
+      # its 53-file commit, including that hour's new articles.)
       - name: Commit if changed
         if: always()
         run: |
@@ -319,9 +331,33 @@ jobs:
           git add -A -- '*.html'
           if ! git diff --cached --quiet; then
             git commit -m "hourly: pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
+            if ! git pull --rebase; then
+              conflicted=$(git diff --name-only --diff-filter=U || true)
+              non_html=$(printf '%s\n' "$conflicted" | grep -v '\.html$' || true)
+              if [ -n "$non_html" ]; then
+                echo "rebase conflict in non-HTML files: $non_html — aborting commit, next hourly run retries from fresh main"
+                git rebase --abort || true
+                exit 1
+              fi
+              # HTML-only conflict: resolve it DURING the rebase (do NOT
+              # abort + amend — amending keeps the old parent, so the
+              # retry rebase re-applies the manual change and conflicts
+              # again). During a rebase --ours is origin/main, so take
+              # its HTML (keeps the manual change), re-apply the ?v=
+              # bump, stage, and continue. GIT_EDITOR=true because
+              # rebase --continue opens an editor in a non-interactive
+              # runner and would otherwise fail with "Terminal is dumb".
+              echo "rebase conflict only in HTML files ($conflicted) — resolving from origin/main + re-bumping ?v="
+              for f in $conflicted; do git checkout --ours -- "$f"; done
+              NEWV="fa-$(date -u +%Y%m%d%H%M)"
+              find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
+              git add -A -- '*.html'
+              GIT_EDITOR=true git rebase --continue || { echo "rebase --continue failed — aborting, next hourly run retries"; git rebase --abort || true; exit 1; }
+            fi
+            # Push with one retry in case another push lands in between.
+            git push || { git pull --rebase && git push; }
           fi
+
 
 
 
