@@ -1,35 +1,71 @@
 {
   "connected": true,
-  "generated": "2026-10-26T07:55:37Z",
+  "generated": "2026-10-26T08:55:58Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 2,
-    "pageviews": 2,
-    "sessions": 2,
-    "avg_session_seconds": 4.7
+    "users": 3,
+    "pageviews": 15,
+    "sessions": 4,
+    "avg_session_seconds": 279.8
   },
   "last7": {
-    "users": 2,
-    "pageviews": 2,
-    "sessions": 2,
-    "avg_session_seconds": 4.7
+    "users": 3,
+    "pageviews": 15,
+    "sessions": 4,
+    "avg_session_seconds": 279.8
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
+      "views": 7,
+      "avg_time_seconds": 250.7
+    },
+    {
+      "path": "/movies",
+      "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
+      "views": 4,
+      "avg_time_seconds": 6.1
+    },
+    {
+      "path": "/news",
+      "title": "Industry News & Updates — Releases, Box Office Milestones & Premieres | FlickAtlas",
       "views": 2,
-      "avg_time_seconds": 4.7
+      "avg_time_seconds": 2.6
+    },
+    {
+      "path": "/awards",
+      "title": "Awards — Upcoming Award Shows, Dates & Latest News | FlickAtlas",
+      "views": 1,
+      "avg_time_seconds": 94.1
+    },
+    {
+      "path": "/movie",
+      "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
+      "views": 1,
+      "avg_time_seconds": 3.7
+    },
+    {
+      "path": "/movie",
+      "title": "Udta Teer (2026) — Cast, Story, Budget & Box Office | FlickAtlas",
+      "views": 0,
+      "avg_time_seconds": 0.0
+    },
+    {
+      "path": "/news",
+      "title": "Trending News — Entertainment Headlines from Bollywood, World Cinema & Pakistan | FlickAtlas",
+      "views": 0,
+      "avg_time_seconds": 1.1
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 2,
-      "users": 2
+      "sessions": 4,
+      "users": 3
     }
   ],
   "countries": [
@@ -40,12 +76,20 @@
     {
       "country": "Pakistan",
       "users": 1
+    },
+    {
+      "country": "United States",
+      "users": 1
     }
   ],
   "devices": [
     {
       "device": "mobile",
       "users": 2
+    },
+    {
+      "device": "desktop",
+      "users": 1
     }
   ],
   "per_post": {}
