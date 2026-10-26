@@ -1,2846 +1,2907 @@
 [
- {
-  "name": "AddaToday",
-  "url": "https://www.addatoday.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "release-date calendar"
-  ],
-  "rss": "https://www.addatoday.com/feeds/posts/default",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.addatoday.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Blogger-based release-date calendar (Atom feed via /feeds/posts/default)."
- },
- {
-  "name": "Bollywood Hungama",
-  "url": "https://www.bollywoodhungama.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "box office figures",
-   "release dates",
-   "cast",
-   "news"
-  ],
-  "rss": "https://www.bollywoodhungama.com/rss/news.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.bollywoodhungama.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": true,
-  "day_wise_exposure": "Daily collections published in the site's Box Office section (article pages — /box-office/ verified live with Day 1 listings on 23 Oct 2026); the general news RSS carries news only, no BO tables.",
-  "notes": "Industry authority; own box-office data."
- },
- {
-  "name": "FilmiBeat",
-  "url": "https://www.filmibeat.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "cast & credits",
-   "release dates",
-   "movie info"
-  ],
-  "rss": "https://www.filmibeat.com/rss/feeds/filmibeat-fb.xml",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.filmibeat.com/sitemap_news.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": false,
-  "day_wise_exposure": "No structured day-wise tables; box-office figures appear inside per-film pages and news articles. Feed verified: 50 items, feed build 23 Oct 2026 02:38 IST (film/bollywood section feeds also exist under /rss/feeds/, e.g. bollywood-fb.xml).",
-  "notes": "Structured per-film pages at massive scale (Greynium CMS)."
- },
- {
-  "name": "Gadgets 360 Entertainment",
-  "url": "https://www.gadgets360.com/entertainment",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "release dates",
-   "upcoming lists",
-   "OTT release info"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: homepage and /rss return 403 (bot wall) on every attempt. Site itself is alive (NDTV brand; entertainment lists verified updated within days in the 22 Oct 2026 competitor scan). Feed/sitemap NOT verified — recheck from a residential IP or browser."
- },
- {
-  "name": "Koimoi",
-  "url": "https://www.koimoi.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "box office figures (day-wise)",
-   "news",
-   "reviews"
-  ],
-  "rss": "https://www.koimoi.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.koimoi.com/news-sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": true,
-  "day_wise_exposure": "Day-wise collection articles flow through the main RSS feed (verified in feed, e.g. 'Box Office Collection Day 20' items on 22 Oct 2026) plus per-industry 'Box Office Collection & Verdicts' tracker pages on the site.",
-  "notes": "Best-in-class day-wise BO tables with verdicts."
- },
- {
-  "name": "NRIPage",
-  "url": "https://www.nripage.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "news",
-   "box office updates (diaspora)"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: 403 on repeated attempts (intermittent connection failures too). Site alive per 22 Oct 2026 scan (article dated 22 Oct 2026). Feed/sitemap NOT verified."
- },
- {
-  "name": "Pinkvilla",
-  "url": "https://www.pinkvilla.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "news",
-   "box office",
-   "celebrity"
-  ],
-  "rss": "https://www.pinkvilla.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.pinkvilla.com/news-sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": false,
-  "day_wise_exposure": "Publishes box-office collection articles (incl. day-wise during major releases) as regular news articles; no structured day-wise table product found — articles only.",
-  "notes": "Also a top India celebrity-daily source (see Celebrity Daily — India)."
- },
- {
-  "name": "Sacnilk",
-  "url": "https://www.sacnilk.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "box office figures (day-wise",
-   "territory-wise)"
-  ],
-  "rss": "https://www.sacnilk.com/rss.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.sacnilk.com/sitemap-index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": true,
-  "day_wise_exposure": "THE day-wise model: dedicated per-movie collection pages and day-wise record pages (verified live: /box-office-records/Highest_Day_Wise_Collection_List returned 200 on 23 Oct 2026), PLUS day-wise collection articles inside the main RSS feed (verified: 'Drishyam 3 Day 20 Box Office', 'Jailer 2 Day 8 Advance Booking' items on 22 Oct 2026).",
-  "notes": "Deepest Indian BO archive; the source other outlets cite."
- },
- {
-  "name": "ShowPulp",
-  "url": "https://showpulp.com/",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "box office figures with budgets/verdicts"
-  ],
-  "rss": "https://showpulp.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://showpulp.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": false,
-  "day_wise_exposure": "Weekly box-office trackers with budgets and verdicts — not a daily day-wise source.",
-  "notes": "Transparent sourcing (cross-checks BH/Sacnilk/Pinkvilla)."
- },
- {
-  "name": "UpcomingZone",
-  "url": "https://www.upcomingzone.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "upcoming movies",
-   "release dates",
-   "cast"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.upcomingzone.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed found (probed homepage links + common paths) — page-watch + sitemap-watch only."
- },
- {
-  "name": "Filmfare",
-  "url": "https://www.filmfare.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "celebrity news",
-   "events",
-   "appearances",
-   "awards"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.filmfare.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No working feed found (/feed and /rss = 404, no feed links in homepage head) — sitemap-watch + page-watch."
- },
- {
-  "name": "Times of India — Entertainment",
-  "url": "https://timesofindia.indiatimes.com/entertainment",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "celebrity news",
-   "spottings",
-   "announcements",
-   "box office"
-  ],
-  "rss": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://timesofindia.indiatimes.com/sitemap/today",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Entertainment RSS verified by channel title ('Entertainment - Times of India') with items dated 23 Oct 2026 — one of the freshest feeds in the registry."
- },
- {
-  "name": "Bollywood Life",
-  "url": "https://www.bollywoodlife.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "celebrity news",
-   "TV news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 0,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "UNREACHABLE from the verification network: connection failure (status 0) on homepage, feed and sitemap across repeated attempts. A major India Today Group entertainment brand and alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "Tellychakkar",
-  "url": "https://www.tellychakkar.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "TV news",
-   "entertainment news",
-   "celebrity interviews"
-  ],
-  "rss": "https://www.tellychakkar.com/rss.xml",
-  "rss_newest": "2026-09-06",
-  "sitemap": "https://www.tellychakkar.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed works but its newest item is dated 6 Sep 2026 — stale against the live daily site; page-watch as backup. India's biggest TV-news brand."
- },
- {
-  "name": "Hindustan Times — Entertainment",
-  "url": "https://www.hindustantimes.com/entertainment",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "box office",
-   "celebrity news"
-  ],
-  "rss": "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.hindustantimes.com/sitemap/news.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Entertainment RSS verified fresh (items dated 23 Oct 2026); news sitemap verified. Major national newspaper's entertainment desk."
- },
- {
-  "name": "Indian Express — Entertainment",
-  "url": "https://indianexpress.com/entertainment/",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "reviews",
-   "interviews"
-  ],
-  "rss": "https://indianexpress.com/section/entertainment/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://indianexpress.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Section feed verified fresh (23 Oct 2026). Entertainment URL redirects to /section/entertainment/."
- },
- {
-  "name": "India Today — Movies",
-  "url": "https://www.indiatoday.in/movies",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "movie news",
-   "box office",
-   "reviews"
-  ],
-  "rss": "https://www.indiatoday.in/rss/1206533",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.indiatoday.in/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Movies RSS verified fresh (23 Oct 2026). India Today Group's film desk."
- },
- {
-  "name": "News18 — Entertainment",
-  "url": "https://www.news18.com/entertainment/",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "celebrity news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major Network18 brand, alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "Firstpost — Entertainment",
-  "url": "https://www.firstpost.com/entertainment",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "reviews"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major Network18 brand, alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "Zee News — Entertainment",
-  "url": "https://zeenews.india.com/entertainment",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "celebrity news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major Zee Media brand, alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "Mid-Day — Entertainment",
-  "url": "https://www.mid-day.com/entertainment",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "celebrity news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.mid-day.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed found (probed /rss and section feed paths — 404); sitemap verified — sitemap-watch + page-watch. Mumbai's big tabloid entertainment desk."
- },
- {
-  "name": "DNA India — Entertainment",
-  "url": "https://www.dnaindia.com/entertainment",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "entertainment news",
-   "celebrity news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major national brand, alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "Bollywood Bubble",
-  "url": "https://www.bollywoodbubble.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "celebrity news",
-   "interviews",
-   "photos"
-  ],
-  "rss": "https://www.bollywoodbubble.com/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.bollywoodbubble.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Celebrity-interview-led digital outlet."
- },
- {
-  "name": "MissMalini",
-  "url": "https://www.missmalini.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "celebrity news",
-   "lifestyle",
-   "entertainment news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 403,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Pioneer Indian celebrity/lifestyle blog brand, alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "Instant Bollywood",
-  "url": "https://www.instantbollywood.com",
-  "scopes": [
-   "Bollywood / India",
-   "Celebrity Daily — India"
-  ],
-  "data_types": [
-   "celebrity news",
-   "photos",
-   "sightings"
-  ],
-  "rss": "https://www.instantbollywood.com/feed/",
-  "rss_newest": "2026-03-16",
-  "sitemap": "https://www.instantbollywood.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed works but is STALE (newest item 16 Mar 2026) — an Instagram-first paparazzi brand whose website updates rarely; treat feed as low-priority, page-watch as backup."
- },
- {
-  "name": "IndiaGlitz",
-  "url": "https://www.indiaglitz.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "news",
-   "reviews",
-   "box office updates",
-   "trailers"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Pan-India portal with Bollywood plus Tamil/Telugu/Malayalam/Kannada desks — model for a high-volume headline river and per-language sections. Homepage verified live and fresh. From the verification network the /rss path returned 403 and /sitemap.xml serves a language-chooser page, so no feed/sitemap recorded — recheck from a browser."
- },
- {
-  "name": "Aaj Tak — Entertainment",
-  "url": "https://www.aajtak.in/entertainment",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "news (Hindi)",
-   "celebrity",
-   "photo galleries",
-   "reviews"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Entertainment section of India's most-watched Hindi news brand — verified live and fresh on 23 Oct 2026; model for Hindi headline formulas and photo-story items. /sitemap.xml returns 404 and no public feed URL could be verified from this network."
- },
- {
-  "name": "NDTV Movies",
-  "url": "https://movies.ndtv.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "news",
-   "reviews",
-   "box office updates"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "NDTV's dedicated movies vertical. A Movies feed is listed on the NDTV RSS index pages (ndtv.com/rss and movies.ndtv.com/rss — both verified live), but the direct feed URL and the sitemap returned 403 from the verification network, so neither is recorded — recheck from a browser."
- },
- {
-  "name": "Times Now — Entertainment",
-  "url": "https://www.timesnownews.com/entertainment-news",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "news",
-   "box office collection (day-wise articles)",
-   "reviews",
-   "TV episode updates"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": true,
-  "day_wise_exposure": "Publishes day-wise box-office collection articles as regular news (verified: 'Jailer 2 Box Office Collection Day 8' article, 23 Oct 2026 — day figure, % change vs previous day and a language-wise split with show counts; figures credited to tracker data, no structured BO tables of its own).",
-  "notes": "Times Network's entertainment desk with Bollywood / South / Web Series / TV / Hollywood / Reviews / Korean sections on one hub — model for desk-tagged hub organization and the day-wise article formula at mainstream scale. Section verified live and fresh; sitemap fetch was 403 from the verification network and no public feed URL verified."
- },
- {
-  "name": "Film Companion",
-  "url": "https://www.filmcompanion.in",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "reviews",
-   "interviews",
-   "features",
-   "box office news"
-  ],
-  "rss": "https://www.filmcompanion.in/feed",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.filmcompanion.in/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Critic-led long-form outlet: structured credits strip at the top of reviews, one-line verdict deks on homepage cards, named-critic bylines with author bios — the depth model for reviews and features."
- },
- {
-  "name": "OTTplay",
-  "url": "https://www.ottplay.com",
-  "scopes": [
-   "Bollywood / India"
-  ],
-  "data_types": [
-   "OTT release info",
-   "streaming availability",
-   "recommendations"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.ottplay.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "HT Media's OTT aggregator covering 30+ platforms — model for the OTT / where-to-watch section. Sitemap index verified (movie / show / article sitemaps); no public news feed offered, discovery runs off the sitemaps."
- },
- {
-  "name": "Box Office Mojo",
-  "url": "https://www.boxofficemojo.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "box office figures (domestic/worldwide)",
-   "release calendar"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "NO public RSS feed and NO XML sitemap (sitemap.xml = 404, no Sitemap line in robots.txt) — page-watch only. Publishes daily domestic box-office pages + worldwide totals on site pages. Owned by IMDb/Amazon; robots.txt restricts automated mining — use as a browser reference for figures."
- },
- {
-  "name": "CinemaBlend",
-  "url": "https://www.cinemablend.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "upcoming-movie guides",
-   "news"
-  ],
-  "rss": "https://www.cinemablend.com/feeds.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.cinemablend.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Collider",
-  "url": "https://collider.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "news",
-   "release dates",
-   "interviews"
-  ],
-  "rss": "https://collider.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://collider.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "ComingSoon.net",
-  "url": "https://www.comingsoon.net",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "release dates",
-   "digital release dates",
-   "news"
-  ],
-  "rss": "https://www.comingsoon.net/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.comingsoon.net/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "FirstShowing.net",
-  "url": "https://www.firstshowing.net",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "trailers",
-   "posters",
-   "release dates"
-  ],
-  "rss": "https://www.firstshowing.net/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.firstshowing.net/news-sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "IMDb",
-  "url": "https://www.imdb.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "cast & credits database",
-   "filmographies"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 202,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BOT-WALLED: returns HTTP 202 bot-challenge to automated fetches. The global cast/credits reference database — browser/manual reference only, no verified feed or sitemap. (FlickAtlas is competitor-based, NOT IMDb-based; IMDb stays a fallback reference.)"
- },
- {
-  "name": "MovieWeb",
-  "url": "https://movieweb.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "news",
-   "trailers",
-   "reviews"
-  ],
-  "rss": "https://movieweb.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://movieweb.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Screen Rant",
-  "url": "https://screenrant.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "news",
-   "cast explainers",
-   "release dates"
-  ],
-  "rss": "https://screenrant.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://screenrant.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "The Numbers",
-  "url": "https://www.the-numbers.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "box office figures",
-   "production budgets"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed links on homepage and no XML sitemap (sitemap.xml = 404, no robots Sitemap line) — page-watch only. Deepest US budget data; daily/weekly charts on pages."
- },
- {
-  "name": "Variety",
-  "url": "https://variety.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "industry news",
-   "box office",
-   "reviews"
-  ],
-  "rss": "https://variety.com/feed/rss/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://variety.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). The flagship Hollywood trade (PMC)."
- },
- {
-  "name": "Deadline",
-  "url": "https://deadline.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "industry news",
-   "box office",
-   "casting news"
-  ],
-  "rss": "https://deadline.com/feed/rss/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://deadline.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Breaking industry news trade (PMC); box-office items carry a '– Box Office' headline suffix."
- },
- {
-  "name": "The Hollywood Reporter",
-  "url": "https://www.hollywoodreporter.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "industry news",
-   "reviews",
-   "features"
-  ],
-  "rss": "https://www.hollywoodreporter.com/feed/rss/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.hollywoodreporter.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Third of the big three Hollywood trades."
- },
- {
-  "name": "Rotten Tomatoes",
-  "url": "https://www.rottentomatoes.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "ratings database",
-   "movie/TV info",
-   "news"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.rottentomatoes.com/sitemaps/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No public RSS feed (/feed and /rss = 404); sitemap verified via robots.txt — sitemap-watch + page-watch. The global ratings reference."
- },
- {
-  "name": "TheWrap",
-  "url": "https://www.thewrap.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "industry news",
-   "box office analysis"
-  ],
-  "rss": "https://www.thewrap.com/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.thewrap.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Industry trade with strong box-office analysis."
- },
- {
-  "name": "Box Office Pro",
-  "url": "https://www.boxofficepro.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "box office data",
-   "forecasts",
-   "exhibition news"
-  ],
-  "rss": "https://www.boxofficepro.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.boxofficepro.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (newest 22 Oct 2026). The theatrical exhibition industry's own box-office publication."
- },
- {
-  "name": "Screen Daily",
-  "url": "https://www.screendaily.com",
-  "scopes": [
-   "International (US / Hollywood)",
-   "UK"
-  ],
-  "data_types": [
-   "industry news",
-   "international box office",
-   "festival coverage"
-  ],
-  "rss": "https://www.screendaily.com/45202.rss",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.screendaily.com/GoogleSiteMapIndex.aspx",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed discovered from homepage and verified (newest 22 Oct 2026); sitemap index verified. UK-based global film trade."
- },
- {
-  "name": "IndieWire",
-  "url": "https://www.indiewire.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "film/TV news",
-   "reviews",
-   "festival coverage"
-  ],
-  "rss": "https://www.indiewire.com/feed/rss/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.indiewire.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). PMC's indie/festival-leaning title."
- },
- {
-  "name": "Vulture",
-  "url": "https://www.vulture.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "entertainment news",
-   "recaps",
-   "criticism"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.vulture.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed found (probed /rss, /feed, /rss/index.xml — all 404); sitemap verified — sitemap-watch + page-watch. New York Magazine's entertainment vertical."
- },
- {
-  "name": "The Playlist",
-  "url": "https://theplaylist.net",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "film/TV news",
-   "reviews",
-   "trailers"
-  ],
-  "rss": "https://theplaylist.net/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://theplaylist.net/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (newest 22 Oct 2026)."
- },
- {
-  "name": "JoBlo",
-  "url": "https://www.joblo.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "movie news",
-   "trailers",
-   "reviews"
-  ],
-  "rss": "https://www.joblo.com/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.joblo.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Long-running fan-oriented movie news brand."
- },
- {
-  "name": "SlashFilm",
-  "url": "https://www.slashfilm.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "movie/TV news",
-   "features",
-   "explainers"
-  ],
-  "rss": "https://www.slashfilm.com/category/news/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.slashfilm.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "News-category feed discovered from homepage and verified fresh (23 Oct 2026)."
- },
- {
-  "name": "Empire",
-  "url": "https://www.empireonline.com",
-  "scopes": [
-   "International (US / Hollywood)",
-   "UK"
-  ],
-  "data_types": [
-   "film news",
-   "reviews",
-   "features"
-  ],
-  "rss": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com",
-  "rss_newest": "2026-10-23",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed served via Bauer's aggregator endpoint (discovered from homepage) and verified fresh (23 Oct 2026). No XML sitemap found (/sitemap.xml, /sitemap_index.xml, /sitemap-index.xml all 404) — feed + page-watch. The UK's biggest film magazine, global readership."
- },
- {
-  "name": "Total Film (GamesRadar)",
-  "url": "https://www.gamesradar.com/totalfilm/",
-  "scopes": [
-   "International (US / Hollywood)",
-   "UK"
-  ],
-  "data_types": [
-   "film news",
-   "reviews",
-   "features"
-  ],
-  "rss": "https://www.gamesradar.com/feeds.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.gamesradar.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Total Film's web home is GamesRadar (Future plc); /total-film/ redirects to /totalfilm/. Feed is the site-wide GamesRadar feed, verified (newest 22 Oct 2026)."
- },
- {
-  "name": "TVLine",
-  "url": "https://www.tvline.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "TV news",
-   "TV schedules",
-   "episode news"
-  ],
-  "rss": "https://www.tvline.com/category/news/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.tvline.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "News-category feed discovered from homepage, verified fresh (23 Oct 2026). Penske's TV-first news brand."
- },
- {
-  "name": "The Futon Critic",
-  "url": "http://www.thefutoncritic.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "TV schedules",
-   "premiere dates",
-   "network press releases"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "http://thefutoncritic.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "RSS path answers 403 and /feed 404 from this network — feed NOT verified; sitemap verified. The TV-listings database: premiere/return dates by month, network fall grids, renewal/cancellation status, episode-level listings."
- },
- {
-  "name": "TV Guide",
-  "url": "https://www.tvguide.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "TV schedules",
-   "listings",
-   "streaming guides"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.tvguide.com/news/latest.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed (/feed, /rss = 404); latest-news sitemap verified. Listings + per-service 'What's New' guides + What to Watch picks."
- },
- {
-  "name": "Gold Derby",
-  "url": "https://www.goldderby.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "award-show coverage",
-   "awards predictions",
-   "entertainment news"
-  ],
-  "rss": "https://www.goldderby.com/feed/rss/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.goldderby.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Awards-prediction product: per-race prediction pages with user/expert leaderboards for Oscars/Emmys/Grammys."
- },
- {
-  "name": "AwardsWatch",
-  "url": "https://awardswatch.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "award-show coverage",
-   "reviews",
-   "festival coverage"
-  ],
-  "rss": "https://awardswatch.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://awardswatch.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (newest 22 Oct 2026). Awards-season specialist."
- },
- {
-  "name": "Decider",
-  "url": "https://decider.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "OTT/streaming guides",
-   "what-to-stream picks",
-   "reviews"
-  ],
-  "rss": "https://decider.com/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://decider.com/sitemap-2014.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026); robots-listed sitemap verified. OTT guide organised BY STREAMING SERVICE (per-service hubs for Netflix/Hulu/Max/Peacock…) plus a 'What to Watch' rail."
- },
- {
-  "name": "JustWatch",
-  "url": "https://www.justwatch.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "OTT/streaming guides",
-   "where-to-watch data"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No public RSS feed and no XML sitemap (/feed, /rss, /sitemap.xml all 404) — page/API-watch only. The global streaming-availability guide (New / Popular / coming-soon rails per provider)."
- },
- {
-  "name": "Reelgood",
-  "url": "https://reelgood.com/us",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "OTT/streaming guides",
-   "where-to-watch data"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://reelgood.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed (/feed, /rss = 404); sitemap verified. Streaming aggregator/guide."
- },
- {
-  "name": "What's on Netflix",
-  "url": "https://www.whats-on-netflix.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "OTT/streaming guides",
-   "Netflix release dates"
-  ],
-  "rss": "https://www.whats-on-netflix.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.whats-on-netflix.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (newest 22 Oct 2026). Single-service (Netflix) release-date/library specialist."
- },
- {
-  "name": "Trailer Addict",
-  "url": "https://www.traileraddict.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "trailers",
-   "first looks"
-  ],
-  "rss": "https://www.traileraddict.com/rss",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://traileraddict.com/sitemaps/maps.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Trailer feed verified fresh (23 Oct 2026); sitemap verified. Trailers/first-look specialist."
- },
- {
-  "name": "SpoilerTV",
-  "url": "https://www.spoilertv.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "TV news",
-   "episode guides",
-   "spoilers"
-  ],
-  "rss": "https://www.spoilertv.com/feeds/posts/default",
-  "rss_newest": null,
-  "sitemap": "https://www.spoilertv.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Blogger Atom feed verified (200; newest-item date not parsed from the Atom variant). Episode-guide/spoiler specialist."
- },
- {
-  "name": "Rolling Stone",
-  "url": "https://www.rollingstone.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "film & TV news",
-   "reviews",
-   "music",
-   "features"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": null,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "The culture magazine — long-form film/TV/music features and reviews; a depth model alongside the trades. Domain is blocked by the verification fetcher (policy), so feed/sitemap are NOT verified — recheck from a browser or residential IP."
- },
- {
-  "name": "Vanity Fair",
-  "url": "https://www.vanityfair.com",
-  "scopes": [
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "Hollywood features",
-   "awards coverage",
-   "reviews"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": null,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Prestige long-form Hollywood coverage and an awards-season agenda-setter (Hollywood Issue, Oscar party). Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
- },
- {
-  "name": "ARY Digital HD (YouTube)",
-  "url": "https://www.youtube.com/@ARYDigitalasia",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "YouTube Dramas"
-  ],
-  "data_types": [
-   "full drama episodes on YouTube",
-   "episode release signal",
-   "teasers/promos"
-  ],
-  "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4JCksJF76g_MdzPVBJoC3Q",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "YouTube channel RSS (channel ID UC4JCksJF76g_MdzPVBJoC3Q) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'ARY Digital HD (YouTube)'."
- },
- {
-  "name": "BrieflyShort",
-  "url": "http://www.brieflyshort.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "drama cast",
-   "release dates",
-   "timings"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 0,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Reachable only over http://www from the verification network (https handshake fails here; /sitemap.xml on http = 404). Feed NOT verified — page-watch only, recheck from another network."
- },
- {
-  "name": "Daily Showbiz",
-  "url": "https://dailyshowbiz.net",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "showbiz news (high volume)"
-  ],
-  "rss": "https://dailyshowbiz.net/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://dailyshowbiz.net/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Dawn — Images/ICON",
-  "url": "https://www.dawn.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "Celebrity Daily — Pakistan"
-  ],
-  "data_types": [
-   "entertainment news",
-   "reviews"
-  ],
-  "rss": "https://www.dawn.com/feeds/home/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.dawn.com/feeds/sitemap",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Main Dawn home feed verified fresh (22 Oct 2026); entertainment runs in its Images/ICON sections. Also a Pakistan celebrity-news source."
- },
- {
-  "name": "DramaFlight",
-  "url": "https://dramaflight.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "drama cast",
-   "episodes",
-   "timings"
-  ],
-  "rss": "https://dramaflight.com/feed/",
-  "rss_newest": "2026-09-01",
-  "sitemap": "https://dramaflight.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed newest item 1 Sep 2026 — stale/slow updater (matches 22 Oct scan: sampled page ~61 days old). Low freshness priority."
- },
- {
-  "name": "DramaPur",
-  "url": "https://dramapur.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "per-drama cast",
-   "release dates",
-   "timings"
-  ],
-  "rss": "https://dramapur.com/feed/",
-  "rss_newest": "2026-09-23",
-  "sitemap": "https://dramapur.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Slow cadence confirmed by feed (newest 23 Sep 2026) — matches 'a few posts a month'."
- },
- {
-  "name": "Dramas.pk",
-  "url": "https://dramas.pk",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "drama schedules/timings",
-   "cast",
-   "actor bios",
-   "episode info"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://dramas.pk/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed found — sitemap-watch + page-watch. Closest PK structural rival: daily drama schedules, 368 dramas, 821 actor bios (22 Oct 2026 scan)."
- },
- {
-  "name": "Green TV Entertainment (YouTube)",
-  "url": "https://www.youtube.com/@GreenEntertainmentTV",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "YouTube Dramas"
-  ],
-  "data_types": [
-   "full drama episodes on YouTube",
-   "episode release signal",
-   "teasers/promos"
-  ],
-  "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF2ltLX1dnPa6-L1paPaMzw",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "YouTube channel RSS (channel ID UCF2ltLX1dnPa6-L1paPaMzw) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'Green TV Entertainment (YouTube)'."
- },
- {
-  "name": "HAR PAL GEO (YouTube)",
-  "url": "https://www.youtube.com/@harpalgeoofficial",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "YouTube Dramas"
-  ],
-  "data_types": [
-   "full drama episodes on YouTube",
-   "episode release signal",
-   "teasers/promos"
-  ],
-  "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe9JSDmyqNgA_l2BzGHq1Ug",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "YouTube channel RSS (channel ID UCe9JSDmyqNgA_l2BzGHq1Ug) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'HAR PAL GEO (YouTube)'."
- },
- {
-  "name": "HUM TV (YouTube)",
-  "url": "https://www.youtube.com/@HUMTV",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "YouTube Dramas"
-  ],
-  "data_types": [
-   "full drama episodes on YouTube",
-   "episode release signal",
-   "teasers/promos"
-  ],
-  "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEeEQxm6qc_qaTE7qTV5aLQ",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "YouTube channel RSS (channel ID UCEeEQxm6qc_qaTE7qTV5aLQ) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'HUM TV (YouTube)'."
- },
- {
-  "name": "Parhlo",
-  "url": "https://www.parhlo.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "Celebrity Daily — Pakistan"
-  ],
-  "data_types": [
-   "celebrity news",
-   "drama stories"
-  ],
-  "rss": "https://www.parhlo.com/feed",
-  "rss_newest": "2026-10-20",
-  "sitemap": "https://www.parhlo.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Showbiz Daily (Blogspot)",
-  "url": "http://showbiz-daily.blogspot.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "daily drama schedules/episodes"
-  ],
-  "rss": "https://showbiz-daily.blogspot.com/feeds/posts/default",
-  "rss_newest": "2026-10-22",
-  "sitemap": "http://showbiz-daily.blogspot.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Blogspot Atom feed (/feeds/posts/default) verified fresh — daily drama schedule source."
- },
- {
-  "name": "Showbiz Secret",
-  "url": "https://showbizsecret.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "actor bios",
-   "drama cast"
-  ],
-  "rss": "https://showbizsecret.com/feed/",
-  "rss_newest": "2026-07-04",
-  "sitemap": "https://showbizsecret.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed works but appears STALE: newest feed item 4 Jul 2026 while the site posts more often — treat feed as unreliable; page-watch the site as backup."
- },
- {
-  "name": "HUM TV (official site)",
-  "url": "https://www.hum.tv",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "official drama listings",
-   "schedules",
-   "promos"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 526,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "UNREACHABLE from verification network: HTTP 526 (CDN origin SSL error) on homepage, feed and sitemap. The broadcaster's official site is alive — browser/manual reference; feed NOT verified. Episode signal is covered by the HUM TV YouTube entry."
- },
- {
-  "name": "ARY Digital (official site)",
-  "url": "https://arydigital.tv",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "official drama listings",
-   "schedules"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://arydigital.tv/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No working RSS feed found (/feed/ answers 200 but is not a feed document); sitemap verified — sitemap-watch + page-watch."
- },
- {
-  "name": "GEO TV",
-  "url": "https://www.geo.tv",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "entertainment news",
-   "drama listings"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.geo.tv/assets/uploads/google_news_latest.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No working RSS feed found (/feed and /rss answer 200 HTML, not feeds); Google-news sitemap from robots.txt verified — sitemap-watch + page-watch. Har Pal Geo is the group's entertainment channel brand."
- },
- {
-  "name": "Green Entertainment (official site)",
-  "url": "https://www.greenentertainment.tv",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "official drama listings",
-   "schedules"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Official site confirmed via the channel's own YouTube descriptions. No RSS feed (/feed/ = 404) and no sitemap (/sitemap.xml = 404) — page-watch only."
- },
- {
-  "name": "Galaxy Lollywood",
-  "url": "https://galaxylollywood.com",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "Celebrity Daily — Pakistan"
-  ],
-  "data_types": [
-   "showbiz news",
-   "box office reports",
-   "reviews"
-  ],
-  "rss": "https://galaxylollywood.com/feed/",
-  "rss_newest": "2024-02-29",
-  "sitemap": "https://galaxylollywood.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed is DORMANT — newest item 29 Feb 2024 — while the site itself still loads; treat as page-watch only. Pakistan's best-known film-portal brand (news, reviews, own box-office reports)."
- },
- {
-  "name": "ARY News — Entertainment",
-  "url": "https://arynews.tv",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "entertainment news",
-   "celebrity",
-   "drama industry"
-  ],
-  "rss": "https://arynews.tv/category/entertainment/feed/",
-  "rss_newest": "2025-10-28",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Entertainment desk of Pakistan's biggest TV-news web operation — complements the ARY Digital channel entry with news-side coverage. Category feed verified working; its newest item (2025-10-28 in the fetched copy) lags the site's main feed, which is fresher."
- },
- {
-  "name": "The News — Instep",
-  "url": "https://www.thenews.com.pk/magazine/instep-today",
-  "scopes": [
-   "Pakistan (Lollywood / TV dramas)",
-   "Celebrity Daily — Pakistan"
-  ],
-  "data_types": [
-   "features",
-   "interviews",
-   "reviews",
-   "industry analysis"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Pakistan's longest-running entertainment Sunday magazine (The News International) — weekly long-form features, interviews and criticism; the depth model for Pakistani features. Magazine archive verified live; no public feed found."
- },
- {
-  "name": "AsianWiki",
-  "url": "https://asianwiki.com",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "Korean drama/film database",
-   "cast",
-   "air dates"
-  ],
-  "rss": "https://blog.asianwiki.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "RSS = AsianWiki's official news/casting BLOG feed (verified: 10 items, newest 22 Oct 2026). The main wiki's MediaWiki RecentChanges feed returns an empty channel (0 items) and its api.php errors — database itself is page-watch only."
- },
- {
-  "name": "Dramabeans",
-  "url": "https://dramabeans.com",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "episode recaps",
-   "news roundups"
-  ],
-  "rss": "https://dramabeans.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://dramabeans.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "DramaWiki (D-Addicts)",
-  "url": "https://wiki.d-addicts.com",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "upcoming K-drama slates by network",
-   "air dates",
-   "cast"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Bot-challenge interstitial ('One moment, please...') blocks automated feed access, including its MediaWiki RecentChanges feed — page-watch via browser only."
- },
- {
-  "name": "HanCinema",
-  "url": "https://www.hancinema.net",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "Korean film/drama database",
-   "cast",
-   "upcoming"
-  ],
-  "rss": "https://feeds.feedburner.com/hancinema/AUJj",
-  "rss_newest": "2026-09-16",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Only feed is a FeedBurner mirror (linked from homepage) and it is STALE — newest item 16 Sep 2026 while the site updates daily. Prefer page-watch of the homepage/new-additions; treat feed as backup signal only."
- },
- {
-  "name": "Kdrama Kisses",
-  "url": "https://kdramakisses.com",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "K-drama news",
-   "trailers",
-   "reviews"
-  ],
-  "rss": "https://kdramakisses.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://kdramakisses.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "MyDramaList",
-  "url": "https://mydramalist.com",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "drama database",
-   "cast",
-   "episode guides"
-  ],
-  "rss": "https://mydramalist.com/rss",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh. No sitemap found (Cloudflare-protected) — feed + page-watch."
- },
- {
-  "name": "Soompi",
-  "url": "https://www.soompi.com",
-  "scopes": [
-   "South Korea (English)",
-   "Celebrity Daily — Korea (English)"
-  ],
-  "data_types": [
-   "K-drama/K-film news",
-   "casting",
-   "premiere dates"
-  ],
-  "rss": "https://www.soompi.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.soompi.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "VVIP Times",
-  "url": "https://vviptimes.com",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "release dates",
-   "cast",
-   "where-to-watch"
-  ],
-  "rss": "https://vviptimes.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://vviptimes.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "allkpop",
-  "url": "https://www.allkpop.com",
-  "scopes": [
-   "South Korea (English)",
-   "Celebrity Daily — Korea (English)"
-  ],
-  "data_types": [
-   "K-celebrity news",
-   "announcements",
-   "events"
-  ],
-  "rss": "https://www.allkpop.com/rss_xml/lab.php",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.allkpop.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Koreaboo",
-  "url": "https://www.koreaboo.com",
-  "scopes": [
-   "South Korea (English)",
-   "Celebrity Daily — Korea (English)"
-  ],
-  "data_types": [
-   "K-celebrity news",
-   "sightings",
-   "announcements"
-  ],
-  "rss": "https://www.koreaboo.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.koreaboo.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Yonhap News Agency — Entertainment",
-  "url": "https://en.yna.co.kr",
-  "scopes": [
-   "South Korea (English)"
-  ],
-  "data_types": [
-   "entertainment wire news",
-   "K-pop & K-drama industry"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "South Korea's national news wire (English service) — the primary source most K-entertainment outlets rewrite from; model for wire-speed factual items. Homepage verified live and current on 23 Oct 2026; /sitemap.xml returns 404 and no public RSS verified."
- },
- {
-  "name": "British Comedy Guide",
-  "url": "https://www.comedy.co.uk",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "British comedy database",
-   "episode guides"
-  ],
-  "rss": "http://feeds.feedburner.com/BritishComedyNews",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.comedy.co.uk/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "British Period Dramas",
-  "url": "https://britishperioddramas.com",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "period-drama news",
-   "premiere dates"
-  ],
-  "rss": "https://britishperioddramas.com/feed/",
-  "rss_newest": "2026-10-21",
-  "sitemap": "https://britishperioddramas.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Digital Spy",
-  "url": "https://www.digitalspy.com",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "TV/movie news",
-   "spoilers",
-   "release dates"
-  ],
-  "rss": "https://www.digitalspy.com/rss/default.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.digitalspy.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Flickering Myth",
-  "url": "https://www.flickeringmyth.com",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "film/TV news",
-   "trailers",
-   "reviews"
-  ],
-  "rss": "https://www.flickeringmyth.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.flickeringmyth.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Geektown",
-  "url": "https://www.geektown.co.uk",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "UK TV air dates",
-   "premiere dates",
-   "renewal status"
-  ],
-  "rss": "https://www.geektown.co.uk/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "http://www.geektown.co.uk/post-sitemap1.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "I Talk Telly",
-  "url": "https://www.italktelly.com",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "confirmed UK premiere dates"
-  ],
-  "rss": "https://www.italktelly.com/blog-feed.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (Squarespace blog-feed.xml). No sitemap found."
- },
- {
-  "name": "Radio Times",
-  "url": "https://www.radiotimes.com",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "TV/film news",
-   "cast guides",
-   "episode info",
-   "release dates"
-  ],
-  "rss": "https://www.radiotimes.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.radiotimes.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "TellyMix",
-  "url": "https://tellymix.co.uk",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "upcoming UK shows",
-   "TV news"
-  ],
-  "rss": "https://tellymix.co.uk/feed",
-  "rss_newest": "2026-10-21",
-  "sitemap": "https://tellymix.co.uk/news-sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "What to Watch (What's on TV)",
-  "url": "https://www.whattowatch.com/",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "TV news",
-   "soaps",
-   "streaming guides"
-  ],
-  "rss": "https://www.whattowatch.com/feeds.xml",
-  "rss_newest": "2026-10-21",
-  "sitemap": "https://www.whattowatch.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "whatsontv.co.uk now redirects to whattowatch.com (Future plc rebrand of What's on TV). Feed verified (newest 21 Oct 2026); sitemap verified."
- },
- {
-  "name": "Daily Mail — TV & Showbiz",
-  "url": "https://www.dailymail.co.uk/tvshowbiz",
-  "scopes": [
-   "UK",
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity news",
-   "photos",
-   "TV"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": null,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "MailOnline's TV & Showbiz vertical — among the world's highest-traffic entertainment pages; the photo-led, caption-driven celebrity format. Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
- },
- {
-  "name": "Metro — Entertainment",
-  "url": "https://metro.co.uk/entertainment",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "entertainment news",
-   "TV",
-   "showbiz"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": null,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Entertainment desk of one of the UK's highest-traffic free news sites — a volume model for showbiz/TV news. Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
- },
- {
-  "name": "Mirror — Showbiz",
-  "url": "https://www.mirror.co.uk",
-  "scopes": [
-   "UK"
-  ],
-  "data_types": [
-   "showbiz news",
-   "celebrity",
-   "TV"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": null,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "The Mirror's showbiz desk (the 3AM brand) — UK tabloid celebrity and TV coverage at scale. Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
- },
- {
-  "name": "E! News",
-  "url": "https://www.eonline.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity news",
-   "events",
-   "red carpet"
-  ],
-  "rss": "https://www.eonline.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh; no sitemap found."
- },
- {
-  "name": "Just Jared",
-  "url": "https://www.justjared.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity photos",
-   "sightings",
-   "events"
-  ],
-  "rss": "https://www.justjared.com/feed/",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.justjared.com/wp-sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "People",
-  "url": "https://people.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity news",
-   "events",
-   "appearances",
-   "photos"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 402,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BOT-WALLED: HTTP 402 to automated fetches (Dotdash Meredith bot protection) on every attempt. Site is a top US celebrity brand and alive — browser/manual reference only; feed NOT verified."
- },
- {
-  "name": "TMZ",
-  "url": "https://www.tmz.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity spottings",
-   "breaking celebrity news"
-  ],
-  "rss": "https://www.tmz.com/rss.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.tmz.com/sitemaps/index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Entertainment Weekly",
-  "url": "https://ew.com",
-  "scopes": [
-   "Celebrity Daily — US / Global",
-   "International (US / Hollywood)"
-  ],
-  "data_types": [
-   "celebrity news",
-   "entertainment news",
-   "features"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://ew.com/sitemap.xml",
-  "site_loads": false,
-  "http_status": 402,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "BOT-WALLED: HTTP 402 to automated fetches (Dotdash Meredith, same wall as People) — BUT its sitemap.xml itself answers 200 and is verified. Feed NOT verified (402). Browser/manual reference for articles."
- },
- {
-  "name": "Famous Birthdays",
-  "url": "https://www.famousbirthdays.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity birthdays",
-   "celebrity bios"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed and no XML sitemap found — page-watch only. Date-first celebrity-birthday database: Today/Tomorrow birthday rails, person cards (name, age, profession), trending-people ranking."
- },
- {
-  "name": "The Famous People",
-  "url": "https://www.thefamouspeople.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity birthdays",
-   "biographies"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "No RSS feed and no XML sitemap found — page-watch only. Biography + birthday database."
- },
- {
-  "name": "Page Six",
-  "url": "https://pagesix.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity news",
-   "gossip",
-   "photos"
-  ],
-  "rss": "https://pagesix.com/feed/",
-  "rss_newest": "2026-10-01",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "New York Post's celebrity desk — the short-paragraph, photo-dense celebrity item at industrial volume; structural model for Celebrity Today items. Feed verified working. /sitemap.xml serves an HTML page and the WP sitemap could not be confirmed, so no sitemap recorded."
- },
- {
-  "name": "US Weekly",
-  "url": "https://www.usmagazine.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity news",
-   "royals",
-   "photos"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": null,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "One of America's biggest celebrity weeklies (Us Weekly). Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
- },
- {
-  "name": "Entertainment Tonight",
-  "url": "https://www.etonline.com",
-  "scopes": [
-   "Celebrity Daily — US / Global"
-  ],
-  "data_types": [
-   "celebrity news",
-   "TV",
-   "exclusives"
-  ],
-  "rss": "https://www.etonline.com/news/rss",
-  "rss_newest": "2026-10-23",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Web arm of the ET TV franchise — credential-first ledes, long quote-block articles and section feeds (Latest Stories / TV / Movies / Music listed at /rss). Homepage and news feed verified live and fresh."
- },
- {
-  "name": "Diva Magazine Pakistan",
-  "url": "https://www.divamagazine.pk",
-  "scopes": [
-   "Celebrity Daily — Pakistan"
-  ],
-  "data_types": [
-   "celebrity news",
-   "events",
-   "lifestyle"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": null,
-  "site_loads": false,
-  "http_status": 0,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "UNREACHABLE from the verification network: connection failure (000) on https and http, www and bare domain, repeated attempts. Not counted as verified — recheck from another network before relying on it."
- },
- {
-  "name": "Something Haute",
-  "url": "https://www.somethinghaute.com",
-  "scopes": [
-   "Celebrity Daily — Pakistan"
-  ],
-  "data_types": [
-   "celebrity news",
-   "events",
-   "fashion",
-   "interviews"
-  ],
-  "rss": "https://somethinghaute.com/feed/",
-  "rss_newest": "2026-10-20",
-  "sitemap": "https://somethinghaute.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "HELLO! Pakistan (H! Pakistan Magazine)",
-  "url": "https://www.hmagpak.com",
-  "scopes": [
-   "Celebrity Daily — Pakistan",
-   "Pakistan (Lollywood / TV dramas)"
-  ],
-  "data_types": [
-   "celebrity news",
-   "fashion",
-   "lifestyle"
-  ],
-  "rss": null,
-  "rss_newest": null,
-  "sitemap": "https://www.hmagpak.com/sitemap_news.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "The magazine's old domain (hellopakistanmag.com) is parked — it redirects to a domain-for-sale page; publishing now happens at hmagpak.com (verified live, news sitemap verified). No working RSS feed found (/rss answers 200 but is not a feed document)."
- },
- {
-  "name": "HELLO! Magazine",
-  "url": "https://www.hellomagazine.com",
-  "scopes": [
-   "Celebrity Daily — UK"
-  ],
-  "data_types": [
-   "celebrity and royal news",
-   "events",
-   "appearances"
-  ],
-  "rss": "https://www.hellomagazine.com/feeds/rss/any/any/any/50.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.hellomagazine.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "UK-born celebrity/royal magazine with a global edition."
- },
- {
-  "name": "OK! Magazine UK",
-  "url": "https://www.ok.co.uk",
-  "scopes": [
-   "Celebrity Daily — UK"
-  ],
-  "data_types": [
-   "celebrity news",
-   "royal/showbiz events",
-   "appearances"
-  ],
-  "rss": "https://www.ok.co.uk/rss.xml",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://www.ok.co.uk/map_news.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": ""
- },
- {
-  "name": "Oddity Central",
-  "url": "https://www.odditycentral.com",
-  "scopes": [
-   "Viral — US / Global"
-  ],
-  "data_types": [
-   "viral news",
-   "odd news"
-  ],
-  "rss": "https://www.odditycentral.com/feed",
-  "rss_newest": "2026-09-18",
-  "sitemap": null,
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified but slow (newest item 18 Sep 2026). Long-running odd/viral-news blog — inherently non-political."
- },
- {
-  "name": "Interesting Engineering",
-  "url": "https://interestingengineering.com",
-  "scopes": [
-   "Viral — US / Global"
-  ],
-  "data_types": [
-   "viral news",
-   "inventions & tech"
-  ],
-  "rss": "https://interestingengineering.com/feed",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://interestingengineering.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). Inventions, robots, vehicles, engineering feats — core viral-stream material, non-political."
- },
- {
-  "name": "New Atlas",
-  "url": "https://newatlas.com",
-  "scopes": [
-   "Viral — US / Global"
-  ],
-  "data_types": [
-   "viral news",
-   "inventions & gadgets"
-  ],
-  "rss": "https://newatlas.com/index.rss",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://newatlas.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). New inventions, concept vehicles, gadgets — non-political."
- },
- {
-  "name": "Futurism",
-  "url": "https://futurism.com",
-  "scopes": [
-   "Viral — US / Global"
-  ],
-  "data_types": [
-   "viral news",
-   "science & future tech"
-  ],
-  "rss": "https://futurism.com/feed",
-  "rss_newest": "2026-10-22",
-  "sitemap": "https://futurism.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (newest 22 Oct 2026). Future-tech/science viral stories."
- },
- {
-  "name": "ScienceAlert",
-  "url": "https://www.sciencealert.com",
-  "scopes": [
-   "Viral — US / Global"
-  ],
-  "data_types": [
-   "viral news",
-   "science news"
-  ],
-  "rss": "https://www.sciencealert.com/feed/gn/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.sciencealert.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed discovered from homepage and verified fresh (23 Oct 2026). Science stories with viral reach."
- },
- {
-  "name": "Bored Panda",
-  "url": "https://www.boredpanda.com",
-  "scopes": [
-   "Viral — US / Global"
-  ],
-  "data_types": [
-   "viral news",
-   "viral stories"
-  ],
-  "rss": "https://www.boredpanda.com/feed/",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.boredpanda.com/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified fresh (23 Oct 2026). The global viral-story mill — screen out listicle filler, keep genuine viral moments."
- },
- {
-  "name": "Hindustan Times — Trending",
-  "url": "https://www.hindustantimes.com/trending",
-  "scopes": [
-   "Viral — India"
-  ],
-  "data_types": [
-   "viral news",
-   "trending stories"
-  ],
-  "rss": "https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml",
-  "rss_newest": "2026-10-23",
-  "sitemap": "https://www.hindustantimes.com/sitemap/news.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Trending RSS verified fresh (23 Oct 2026). Mixed general stream — the viral pipeline must apply the standing NON-POLITICAL screen before use."
- },
- {
-  "name": "Storypick",
-  "url": "https://www.storypick.com",
-  "scopes": [
-   "Viral — India"
-  ],
-  "data_types": [
-   "viral news",
-   "human-interest stories"
-  ],
-  "rss": "https://storypick.com/feed/",
-  "rss_newest": "2026-03-31",
-  "sitemap": "https://www.storypick.com/sitemap_index.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed works but is STALE (newest item 31 Mar 2026) while the brand remains a known Indian viral/human-interest name — low-priority, page-watch backup."
- },
- {
-  "name": "Mangobaaz",
-  "url": "https://www.mangobaaz.com",
-  "scopes": [
-   "Viral — Pakistan"
-  ],
-  "data_types": [
-   "viral news",
-   "entertainment/social stories"
-  ],
-  "rss": "https://www.mangobaaz.com/feed/",
-  "rss_newest": "2026-10-21",
-  "sitemap": "https://www.mangobaaz.com/wp-sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (newest 21 Oct 2026). Pakistan's best-known viral/entertainment publisher — apply the non-political screen to general items."
- },
- {
-  "name": "LADbible",
-  "url": "https://www.ladbible.com",
-  "scopes": [
-   "Viral — UK"
-  ],
-  "data_types": [
-   "viral news",
-   "social/viral stories"
-  ],
-  "rss": "https://www.ladbible.com/index.rss",
-  "rss_newest": null,
-  "sitemap": "https://www.ladbible.com/sitemap/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (200, feed-shaped; item dates not parsed). UK's biggest social/viral publisher."
- },
- {
-  "name": "UNILAD",
-  "url": "https://www.unilad.com",
-  "scopes": [
-   "Viral — UK"
-  ],
-  "data_types": [
-   "viral news",
-   "social/viral stories"
-  ],
-  "rss": "https://www.unilad.com/index.rss",
-  "rss_newest": null,
-  "sitemap": "https://www.unilad.com/sitemap/sitemap.xml",
-  "site_loads": true,
-  "http_status": 200,
-  "verified": "2026-10-23",
-  "day_wise": null,
-  "day_wise_exposure": null,
-  "notes": "Feed verified (200, feed-shaped; item dates not parsed). LADbible Group's sister viral brand."
- }
+  {
+    "name": "AddaToday",
+    "url": "https://www.addatoday.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "release-date calendar"
+    ],
+    "rss": "https://www.addatoday.com/feeds/posts/default",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.addatoday.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Blogger-based release-date calendar (Atom feed via /feeds/posts/default)."
+  },
+  {
+    "name": "Bollywood Hungama",
+    "url": "https://www.bollywoodhungama.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "box office figures",
+      "release dates",
+      "cast",
+      "news"
+    ],
+    "rss": "https://www.bollywoodhungama.com/rss/news.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.bollywoodhungama.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": true,
+    "day_wise_exposure": "Daily collections published in the site's Box Office section (article pages — /box-office/ verified live with Day 1 listings on 23 Oct 2026); the general news RSS carries news only, no BO tables.",
+    "notes": "Industry authority; own box-office data."
+  },
+  {
+    "name": "FilmiBeat",
+    "url": "https://www.filmibeat.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "cast & credits",
+      "release dates",
+      "movie info"
+    ],
+    "rss": "https://www.filmibeat.com/rss/feeds/filmibeat-fb.xml",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.filmibeat.com/sitemap_news.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": false,
+    "day_wise_exposure": "No structured day-wise tables; box-office figures appear inside per-film pages and news articles. Feed verified: 50 items, feed build 23 Oct 2026 02:38 IST (film/bollywood section feeds also exist under /rss/feeds/, e.g. bollywood-fb.xml).",
+    "notes": "Structured per-film pages at massive scale (Greynium CMS)."
+  },
+  {
+    "name": "Gadgets 360 Entertainment",
+    "url": "https://www.gadgets360.com/entertainment",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "release dates",
+      "upcoming lists",
+      "OTT release info"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: homepage and /rss return 403 (bot wall) on every attempt. Site itself is alive (NDTV brand; entertainment lists verified updated within days in the 22 Oct 2026 competitor scan). Feed/sitemap NOT verified — recheck from a residential IP or browser."
+  },
+  {
+    "name": "Koimoi",
+    "url": "https://www.koimoi.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "box office figures (day-wise)",
+      "news",
+      "reviews"
+    ],
+    "rss": "https://www.koimoi.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.koimoi.com/news-sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": true,
+    "day_wise_exposure": "Day-wise collection articles flow through the main RSS feed (verified in feed, e.g. 'Box Office Collection Day 20' items on 22 Oct 2026) plus per-industry 'Box Office Collection & Verdicts' tracker pages on the site.",
+    "notes": "Best-in-class day-wise BO tables with verdicts."
+  },
+  {
+    "name": "NRIPage",
+    "url": "https://www.nripage.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "news",
+      "box office updates (diaspora)"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: 403 on repeated attempts (intermittent connection failures too). Site alive per 22 Oct 2026 scan (article dated 22 Oct 2026). Feed/sitemap NOT verified."
+  },
+  {
+    "name": "Pinkvilla",
+    "url": "https://www.pinkvilla.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "news",
+      "box office",
+      "celebrity"
+    ],
+    "rss": "https://www.pinkvilla.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.pinkvilla.com/news-sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": false,
+    "day_wise_exposure": "Publishes box-office collection articles (incl. day-wise during major releases) as regular news articles; no structured day-wise table product found — articles only.",
+    "notes": "Also a top India celebrity-daily source (see Celebrity Daily — India)."
+  },
+  {
+    "name": "Sacnilk",
+    "url": "https://www.sacnilk.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "box office figures (day-wise",
+      "territory-wise)"
+    ],
+    "rss": "https://www.sacnilk.com/rss.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.sacnilk.com/sitemap-index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": true,
+    "day_wise_exposure": "THE day-wise model: dedicated per-movie collection pages and day-wise record pages (verified live: /box-office-records/Highest_Day_Wise_Collection_List returned 200 on 23 Oct 2026), PLUS day-wise collection articles inside the main RSS feed (verified: 'Drishyam 3 Day 20 Box Office', 'Jailer 2 Day 8 Advance Booking' items on 22 Oct 2026).",
+    "notes": "Deepest Indian BO archive; the source other outlets cite."
+  },
+  {
+    "name": "ShowPulp",
+    "url": "https://showpulp.com/",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "box office figures with budgets/verdicts"
+    ],
+    "rss": "https://showpulp.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://showpulp.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": false,
+    "day_wise_exposure": "Weekly box-office trackers with budgets and verdicts — not a daily day-wise source.",
+    "notes": "Transparent sourcing (cross-checks BH/Sacnilk/Pinkvilla)."
+  },
+  {
+    "name": "UpcomingZone",
+    "url": "https://www.upcomingzone.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "upcoming movies",
+      "release dates",
+      "cast"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.upcomingzone.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed found (probed homepage links + common paths) — page-watch + sitemap-watch only."
+  },
+  {
+    "name": "Filmfare",
+    "url": "https://www.filmfare.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "celebrity news",
+      "events",
+      "appearances",
+      "awards"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.filmfare.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No working feed found (/feed and /rss = 404, no feed links in homepage head) — sitemap-watch + page-watch."
+  },
+  {
+    "name": "Times of India — Entertainment",
+    "url": "https://timesofindia.indiatimes.com/entertainment",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "celebrity news",
+      "spottings",
+      "announcements",
+      "box office"
+    ],
+    "rss": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://timesofindia.indiatimes.com/sitemap/today",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Entertainment RSS verified by channel title ('Entertainment - Times of India') with items dated 23 Oct 2026 — one of the freshest feeds in the registry."
+  },
+  {
+    "name": "Bollywood Life",
+    "url": "https://www.bollywoodlife.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "celebrity news",
+      "TV news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 0,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "UNREACHABLE from the verification network: connection failure (status 0) on homepage, feed and sitemap across repeated attempts. A major India Today Group entertainment brand and alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "Tellychakkar",
+    "url": "https://www.tellychakkar.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "TV news",
+      "entertainment news",
+      "celebrity interviews"
+    ],
+    "rss": "https://www.tellychakkar.com/rss.xml",
+    "rss_newest": "2026-09-06",
+    "sitemap": "https://www.tellychakkar.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed works but its newest item is dated 6 Sep 2026 — stale against the live daily site; page-watch as backup. India's biggest TV-news brand."
+  },
+  {
+    "name": "Hindustan Times — Entertainment",
+    "url": "https://www.hindustantimes.com/entertainment",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "box office",
+      "celebrity news"
+    ],
+    "rss": "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.hindustantimes.com/sitemap/news.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Entertainment RSS verified fresh (items dated 23 Oct 2026); news sitemap verified. Major national newspaper's entertainment desk."
+  },
+  {
+    "name": "Indian Express — Entertainment",
+    "url": "https://indianexpress.com/entertainment/",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "reviews",
+      "interviews"
+    ],
+    "rss": "https://indianexpress.com/section/entertainment/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://indianexpress.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Section feed verified fresh (23 Oct 2026). Entertainment URL redirects to /section/entertainment/."
+  },
+  {
+    "name": "India Today — Movies",
+    "url": "https://www.indiatoday.in/movies",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "movie news",
+      "box office",
+      "reviews"
+    ],
+    "rss": "https://www.indiatoday.in/rss/1206533",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.indiatoday.in/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Movies RSS verified fresh (23 Oct 2026). India Today Group's film desk."
+  },
+  {
+    "name": "News18 — Entertainment",
+    "url": "https://www.news18.com/entertainment/",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "celebrity news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major Network18 brand, alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "Firstpost — Entertainment",
+    "url": "https://www.firstpost.com/entertainment",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "reviews"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major Network18 brand, alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "Zee News — Entertainment",
+    "url": "https://zeenews.india.com/entertainment",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "celebrity news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major Zee Media brand, alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "Mid-Day — Entertainment",
+    "url": "https://www.mid-day.com/entertainment",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "celebrity news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.mid-day.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed found (probed /rss and section feed paths — 404); sitemap verified — sitemap-watch + page-watch. Mumbai's big tabloid entertainment desk."
+  },
+  {
+    "name": "DNA India — Entertainment",
+    "url": "https://www.dnaindia.com/entertainment",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "entertainment news",
+      "celebrity news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Major national brand, alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "Bollywood Bubble",
+    "url": "https://www.bollywoodbubble.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "celebrity news",
+      "interviews",
+      "photos"
+    ],
+    "rss": "https://www.bollywoodbubble.com/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.bollywoodbubble.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Celebrity-interview-led digital outlet."
+  },
+  {
+    "name": "MissMalini",
+    "url": "https://www.missmalini.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "celebrity news",
+      "lifestyle",
+      "entertainment news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 403,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BLOCKED from verification network: 403 (bot wall) on homepage, feed and sitemap. Pioneer Indian celebrity/lifestyle blog brand, alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "Instant Bollywood",
+    "url": "https://www.instantbollywood.com",
+    "scopes": [
+      "Bollywood / India",
+      "Celebrity Daily — India"
+    ],
+    "data_types": [
+      "celebrity news",
+      "photos",
+      "sightings"
+    ],
+    "rss": "https://www.instantbollywood.com/feed/",
+    "rss_newest": "2026-03-16",
+    "sitemap": "https://www.instantbollywood.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed works but is STALE (newest item 16 Mar 2026) — an Instagram-first paparazzi brand whose website updates rarely; treat feed as low-priority, page-watch as backup."
+  },
+  {
+    "name": "IndiaGlitz",
+    "url": "https://www.indiaglitz.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "news",
+      "reviews",
+      "box office updates",
+      "trailers"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Pan-India portal with Bollywood plus Tamil/Telugu/Malayalam/Kannada desks — model for a high-volume headline river and per-language sections. Homepage verified live and fresh. From the verification network the /rss path returned 403 and /sitemap.xml serves a language-chooser page, so no feed/sitemap recorded — recheck from a browser."
+  },
+  {
+    "name": "Aaj Tak — Entertainment",
+    "url": "https://www.aajtak.in/entertainment",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "news (Hindi)",
+      "celebrity",
+      "photo galleries",
+      "reviews"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Entertainment section of India's most-watched Hindi news brand — verified live and fresh on 23 Oct 2026; model for Hindi headline formulas and photo-story items. /sitemap.xml returns 404 and no public feed URL could be verified from this network."
+  },
+  {
+    "name": "NDTV Movies",
+    "url": "https://movies.ndtv.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "news",
+      "reviews",
+      "box office updates"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "NDTV's dedicated movies vertical. A Movies feed is listed on the NDTV RSS index pages (ndtv.com/rss and movies.ndtv.com/rss — both verified live), but the direct feed URL and the sitemap returned 403 from the verification network, so neither is recorded — recheck from a browser."
+  },
+  {
+    "name": "Times Now — Entertainment",
+    "url": "https://www.timesnownews.com/entertainment-news",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "news",
+      "box office collection (day-wise articles)",
+      "reviews",
+      "TV episode updates"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": true,
+    "day_wise_exposure": "Publishes day-wise box-office collection articles as regular news (verified: 'Jailer 2 Box Office Collection Day 8' article, 23 Oct 2026 — day figure, % change vs previous day and a language-wise split with show counts; figures credited to tracker data, no structured BO tables of its own).",
+    "notes": "Times Network's entertainment desk with Bollywood / South / Web Series / TV / Hollywood / Reviews / Korean sections on one hub — model for desk-tagged hub organization and the day-wise article formula at mainstream scale. Section verified live and fresh; sitemap fetch was 403 from the verification network and no public feed URL verified."
+  },
+  {
+    "name": "Film Companion",
+    "url": "https://www.filmcompanion.in",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "reviews",
+      "interviews",
+      "features",
+      "box office news"
+    ],
+    "rss": "https://www.filmcompanion.in/feed",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.filmcompanion.in/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Critic-led long-form outlet: structured credits strip at the top of reviews, one-line verdict deks on homepage cards, named-critic bylines with author bios — the depth model for reviews and features."
+  },
+  {
+    "name": "OTTplay",
+    "url": "https://www.ottplay.com",
+    "scopes": [
+      "Bollywood / India"
+    ],
+    "data_types": [
+      "OTT release info",
+      "streaming availability",
+      "recommendations"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.ottplay.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "HT Media's OTT aggregator covering 30+ platforms — model for the OTT / where-to-watch section. Sitemap index verified (movie / show / article sitemaps); no public news feed offered, discovery runs off the sitemaps."
+  },
+  {
+    "name": "Box Office Mojo",
+    "url": "https://www.boxofficemojo.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "box office figures (domestic/worldwide)",
+      "release calendar"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "NO public RSS feed and NO XML sitemap (sitemap.xml = 404, no Sitemap line in robots.txt) — page-watch only. Publishes daily domestic box-office pages + worldwide totals on site pages. Owned by IMDb/Amazon; robots.txt restricts automated mining — use as a browser reference for figures."
+  },
+  {
+    "name": "CinemaBlend",
+    "url": "https://www.cinemablend.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "upcoming-movie guides",
+      "news"
+    ],
+    "rss": "https://www.cinemablend.com/feeds.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.cinemablend.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Collider",
+    "url": "https://collider.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "news",
+      "release dates",
+      "interviews"
+    ],
+    "rss": "https://collider.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://collider.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "ComingSoon.net",
+    "url": "https://www.comingsoon.net",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "release dates",
+      "digital release dates",
+      "news"
+    ],
+    "rss": "https://www.comingsoon.net/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.comingsoon.net/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "FirstShowing.net",
+    "url": "https://www.firstshowing.net",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "trailers",
+      "posters",
+      "release dates"
+    ],
+    "rss": "https://www.firstshowing.net/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.firstshowing.net/news-sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "IMDb",
+    "url": "https://www.imdb.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "cast & credits database",
+      "filmographies"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 202,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BOT-WALLED: returns HTTP 202 bot-challenge to automated fetches. The global cast/credits reference database — browser/manual reference only, no verified feed or sitemap. (FlickAtlas is competitor-based, NOT IMDb-based; IMDb stays a fallback reference.)"
+  },
+  {
+    "name": "MovieWeb",
+    "url": "https://movieweb.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "news",
+      "trailers",
+      "reviews"
+    ],
+    "rss": "https://movieweb.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://movieweb.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Screen Rant",
+    "url": "https://screenrant.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "news",
+      "cast explainers",
+      "release dates"
+    ],
+    "rss": "https://screenrant.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://screenrant.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "The Numbers",
+    "url": "https://www.the-numbers.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "box office figures",
+      "production budgets"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed links on homepage and no XML sitemap (sitemap.xml = 404, no robots Sitemap line) — page-watch only. Deepest US budget data; daily/weekly charts on pages."
+  },
+  {
+    "name": "Variety",
+    "url": "https://variety.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "industry news",
+      "box office",
+      "reviews"
+    ],
+    "rss": "https://variety.com/feed/rss/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://variety.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). The flagship Hollywood trade (PMC)."
+  },
+  {
+    "name": "Deadline",
+    "url": "https://deadline.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "industry news",
+      "box office",
+      "casting news"
+    ],
+    "rss": "https://deadline.com/feed/rss/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://deadline.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Breaking industry news trade (PMC); box-office items carry a '– Box Office' headline suffix."
+  },
+  {
+    "name": "The Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "industry news",
+      "reviews",
+      "features"
+    ],
+    "rss": "https://www.hollywoodreporter.com/feed/rss/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.hollywoodreporter.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Third of the big three Hollywood trades."
+  },
+  {
+    "name": "Rotten Tomatoes",
+    "url": "https://www.rottentomatoes.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "ratings database",
+      "movie/TV info",
+      "news"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.rottentomatoes.com/sitemaps/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No public RSS feed (/feed and /rss = 404); sitemap verified via robots.txt — sitemap-watch + page-watch. The global ratings reference."
+  },
+  {
+    "name": "TheWrap",
+    "url": "https://www.thewrap.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "industry news",
+      "box office analysis"
+    ],
+    "rss": "https://www.thewrap.com/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.thewrap.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Industry trade with strong box-office analysis."
+  },
+  {
+    "name": "Box Office Pro",
+    "url": "https://www.boxofficepro.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "box office data",
+      "forecasts",
+      "exhibition news"
+    ],
+    "rss": "https://www.boxofficepro.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.boxofficepro.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (newest 22 Oct 2026). The theatrical exhibition industry's own box-office publication."
+  },
+  {
+    "name": "Screen Daily",
+    "url": "https://www.screendaily.com",
+    "scopes": [
+      "International (US / Hollywood)",
+      "UK"
+    ],
+    "data_types": [
+      "industry news",
+      "international box office",
+      "festival coverage"
+    ],
+    "rss": "https://www.screendaily.com/45202.rss",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.screendaily.com/GoogleSiteMapIndex.aspx",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed discovered from homepage and verified (newest 22 Oct 2026); sitemap index verified. UK-based global film trade."
+  },
+  {
+    "name": "IndieWire",
+    "url": "https://www.indiewire.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "film/TV news",
+      "reviews",
+      "festival coverage"
+    ],
+    "rss": "https://www.indiewire.com/feed/rss/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.indiewire.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). PMC's indie/festival-leaning title."
+  },
+  {
+    "name": "Vulture",
+    "url": "https://www.vulture.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "entertainment news",
+      "recaps",
+      "criticism"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.vulture.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed found (probed /rss, /feed, /rss/index.xml — all 404); sitemap verified — sitemap-watch + page-watch. New York Magazine's entertainment vertical."
+  },
+  {
+    "name": "The Playlist",
+    "url": "https://theplaylist.net",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "film/TV news",
+      "reviews",
+      "trailers"
+    ],
+    "rss": "https://theplaylist.net/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://theplaylist.net/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (newest 22 Oct 2026)."
+  },
+  {
+    "name": "JoBlo",
+    "url": "https://www.joblo.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "movie news",
+      "trailers",
+      "reviews"
+    ],
+    "rss": "https://www.joblo.com/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.joblo.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Long-running fan-oriented movie news brand."
+  },
+  {
+    "name": "SlashFilm",
+    "url": "https://www.slashfilm.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "movie/TV news",
+      "features",
+      "explainers"
+    ],
+    "rss": "https://www.slashfilm.com/category/news/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.slashfilm.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "News-category feed discovered from homepage and verified fresh (23 Oct 2026)."
+  },
+  {
+    "name": "Empire",
+    "url": "https://www.empireonline.com",
+    "scopes": [
+      "International (US / Hollywood)",
+      "UK"
+    ],
+    "data_types": [
+      "film news",
+      "reviews",
+      "features"
+    ],
+    "rss": "https://rss.onebauer.media/api/feed-aggregator?hostname=https://www.empireonline.com",
+    "rss_newest": "2026-10-23",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed served via Bauer's aggregator endpoint (discovered from homepage) and verified fresh (23 Oct 2026). No XML sitemap found (/sitemap.xml, /sitemap_index.xml, /sitemap-index.xml all 404) — feed + page-watch. The UK's biggest film magazine, global readership."
+  },
+  {
+    "name": "Total Film (GamesRadar)",
+    "url": "https://www.gamesradar.com/totalfilm/",
+    "scopes": [
+      "International (US / Hollywood)",
+      "UK"
+    ],
+    "data_types": [
+      "film news",
+      "reviews",
+      "features"
+    ],
+    "rss": "https://www.gamesradar.com/feeds.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.gamesradar.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Total Film's web home is GamesRadar (Future plc); /total-film/ redirects to /totalfilm/. Feed is the site-wide GamesRadar feed, verified (newest 22 Oct 2026)."
+  },
+  {
+    "name": "TVLine",
+    "url": "https://www.tvline.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "TV news",
+      "TV schedules",
+      "episode news"
+    ],
+    "rss": "https://www.tvline.com/category/news/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.tvline.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "News-category feed discovered from homepage, verified fresh (23 Oct 2026). Penske's TV-first news brand."
+  },
+  {
+    "name": "The Futon Critic",
+    "url": "http://www.thefutoncritic.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "TV schedules",
+      "premiere dates",
+      "network press releases"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "http://thefutoncritic.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "RSS path answers 403 and /feed 404 from this network — feed NOT verified; sitemap verified. The TV-listings database: premiere/return dates by month, network fall grids, renewal/cancellation status, episode-level listings."
+  },
+  {
+    "name": "TV Guide",
+    "url": "https://www.tvguide.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "TV schedules",
+      "listings",
+      "streaming guides"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.tvguide.com/news/latest.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed (/feed, /rss = 404); latest-news sitemap verified. Listings + per-service 'What's New' guides + What to Watch picks."
+  },
+  {
+    "name": "Gold Derby",
+    "url": "https://www.goldderby.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "award-show coverage",
+      "awards predictions",
+      "entertainment news"
+    ],
+    "rss": "https://www.goldderby.com/feed/rss/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.goldderby.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Awards-prediction product: per-race prediction pages with user/expert leaderboards for Oscars/Emmys/Grammys."
+  },
+  {
+    "name": "AwardsWatch",
+    "url": "https://awardswatch.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "award-show coverage",
+      "reviews",
+      "festival coverage"
+    ],
+    "rss": "https://awardswatch.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://awardswatch.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (newest 22 Oct 2026). Awards-season specialist."
+  },
+  {
+    "name": "Decider",
+    "url": "https://decider.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "OTT/streaming guides",
+      "what-to-stream picks",
+      "reviews"
+    ],
+    "rss": "https://decider.com/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://decider.com/sitemap-2014.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026); robots-listed sitemap verified. OTT guide organised BY STREAMING SERVICE (per-service hubs for Netflix/Hulu/Max/Peacock…) plus a 'What to Watch' rail."
+  },
+  {
+    "name": "JustWatch",
+    "url": "https://www.justwatch.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "OTT/streaming guides",
+      "where-to-watch data"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No public RSS feed and no XML sitemap (/feed, /rss, /sitemap.xml all 404) — page/API-watch only. The global streaming-availability guide (New / Popular / coming-soon rails per provider)."
+  },
+  {
+    "name": "Reelgood",
+    "url": "https://reelgood.com/us",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "OTT/streaming guides",
+      "where-to-watch data"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://reelgood.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed (/feed, /rss = 404); sitemap verified. Streaming aggregator/guide."
+  },
+  {
+    "name": "What's on Netflix",
+    "url": "https://www.whats-on-netflix.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "OTT/streaming guides",
+      "Netflix release dates"
+    ],
+    "rss": "https://www.whats-on-netflix.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.whats-on-netflix.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (newest 22 Oct 2026). Single-service (Netflix) release-date/library specialist."
+  },
+  {
+    "name": "Trailer Addict",
+    "url": "https://www.traileraddict.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "trailers",
+      "first looks"
+    ],
+    "rss": "https://www.traileraddict.com/rss",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://traileraddict.com/sitemaps/maps.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Trailer feed verified fresh (23 Oct 2026); sitemap verified. Trailers/first-look specialist."
+  },
+  {
+    "name": "SpoilerTV",
+    "url": "https://www.spoilertv.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "TV news",
+      "episode guides",
+      "spoilers"
+    ],
+    "rss": "https://www.spoilertv.com/feeds/posts/default",
+    "rss_newest": null,
+    "sitemap": "https://www.spoilertv.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Blogger Atom feed verified (200; newest-item date not parsed from the Atom variant). Episode-guide/spoiler specialist."
+  },
+  {
+    "name": "Rolling Stone",
+    "url": "https://www.rollingstone.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "film & TV news",
+      "reviews",
+      "music",
+      "features"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": null,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "The culture magazine — long-form film/TV/music features and reviews; a depth model alongside the trades. Domain is blocked by the verification fetcher (policy), so feed/sitemap are NOT verified — recheck from a browser or residential IP."
+  },
+  {
+    "name": "Vanity Fair",
+    "url": "https://www.vanityfair.com",
+    "scopes": [
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "Hollywood features",
+      "awards coverage",
+      "reviews"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": null,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Prestige long-form Hollywood coverage and an awards-season agenda-setter (Hollywood Issue, Oscar party). Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
+  },
+  {
+    "name": "ARY Digital HD (YouTube)",
+    "url": "https://www.youtube.com/@ARYDigitalasia",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "YouTube Dramas"
+    ],
+    "data_types": [
+      "full drama episodes on YouTube",
+      "episode release signal",
+      "teasers/promos"
+    ],
+    "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4JCksJF76g_MdzPVBJoC3Q",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "YouTube channel RSS (channel ID UC4JCksJF76g_MdzPVBJoC3Q) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'ARY Digital HD (YouTube)'."
+  },
+  {
+    "name": "BrieflyShort",
+    "url": "http://www.brieflyshort.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "drama cast",
+      "release dates",
+      "timings"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 0,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Reachable only over http://www from the verification network (https handshake fails here; /sitemap.xml on http = 404). Feed NOT verified — page-watch only, recheck from another network."
+  },
+  {
+    "name": "Daily Showbiz",
+    "url": "https://dailyshowbiz.net",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "showbiz news (high volume)"
+    ],
+    "rss": "https://dailyshowbiz.net/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://dailyshowbiz.net/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Dawn — Images/ICON",
+    "url": "https://www.dawn.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "Celebrity Daily — Pakistan"
+    ],
+    "data_types": [
+      "entertainment news",
+      "reviews"
+    ],
+    "rss": "https://www.dawn.com/feeds/home/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.dawn.com/feeds/sitemap",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Main Dawn home feed verified fresh (22 Oct 2026); entertainment runs in its Images/ICON sections. Also a Pakistan celebrity-news source."
+  },
+  {
+    "name": "DramaFlight",
+    "url": "https://dramaflight.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "drama cast",
+      "episodes",
+      "timings"
+    ],
+    "rss": "https://dramaflight.com/feed/",
+    "rss_newest": "2026-09-01",
+    "sitemap": "https://dramaflight.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed newest item 1 Sep 2026 — stale/slow updater (matches 22 Oct scan: sampled page ~61 days old). Low freshness priority."
+  },
+  {
+    "name": "DramaPur",
+    "url": "https://dramapur.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "per-drama cast",
+      "release dates",
+      "timings"
+    ],
+    "rss": "https://dramapur.com/feed/",
+    "rss_newest": "2026-09-23",
+    "sitemap": "https://dramapur.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Slow cadence confirmed by feed (newest 23 Sep 2026) — matches 'a few posts a month'."
+  },
+  {
+    "name": "Dramas.pk",
+    "url": "https://dramas.pk",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "drama schedules/timings",
+      "cast",
+      "actor bios",
+      "episode info"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://dramas.pk/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed found — sitemap-watch + page-watch. Closest PK structural rival: daily drama schedules, 368 dramas, 821 actor bios (22 Oct 2026 scan)."
+  },
+  {
+    "name": "Green TV Entertainment (YouTube)",
+    "url": "https://www.youtube.com/@GreenEntertainmentTV",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "YouTube Dramas"
+    ],
+    "data_types": [
+      "full drama episodes on YouTube",
+      "episode release signal",
+      "teasers/promos"
+    ],
+    "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF2ltLX1dnPa6-L1paPaMzw",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "YouTube channel RSS (channel ID UCF2ltLX1dnPa6-L1paPaMzw) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'Green TV Entertainment (YouTube)'."
+  },
+  {
+    "name": "HAR PAL GEO (YouTube)",
+    "url": "https://www.youtube.com/@harpalgeoofficial",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "YouTube Dramas"
+    ],
+    "data_types": [
+      "full drama episodes on YouTube",
+      "episode release signal",
+      "teasers/promos"
+    ],
+    "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe9JSDmyqNgA_l2BzGHq1Ug",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "YouTube channel RSS (channel ID UCe9JSDmyqNgA_l2BzGHq1Ug) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'HAR PAL GEO (YouTube)'."
+  },
+  {
+    "name": "HUM TV (YouTube)",
+    "url": "https://www.youtube.com/@HUMTV",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "YouTube Dramas"
+    ],
+    "data_types": [
+      "full drama episodes on YouTube",
+      "episode release signal",
+      "teasers/promos"
+    ],
+    "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEeEQxm6qc_qaTE7qTV5aLQ",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "YouTube channel RSS (channel ID UCEeEQxm6qc_qaTE7qTV5aLQ) verified: 16 entries, newest upload 2026-10-22. Channel page title verified as 'HUM TV (YouTube)'."
+  },
+  {
+    "name": "Parhlo",
+    "url": "https://www.parhlo.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "Celebrity Daily — Pakistan"
+    ],
+    "data_types": [
+      "celebrity news",
+      "drama stories"
+    ],
+    "rss": "https://www.parhlo.com/feed",
+    "rss_newest": "2026-10-20",
+    "sitemap": "https://www.parhlo.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Showbiz Daily (Blogspot)",
+    "url": "http://showbiz-daily.blogspot.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "daily drama schedules/episodes"
+    ],
+    "rss": "https://showbiz-daily.blogspot.com/feeds/posts/default",
+    "rss_newest": "2026-10-22",
+    "sitemap": "http://showbiz-daily.blogspot.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Blogspot Atom feed (/feeds/posts/default) verified fresh — daily drama schedule source."
+  },
+  {
+    "name": "Showbiz Secret",
+    "url": "https://showbizsecret.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "actor bios",
+      "drama cast"
+    ],
+    "rss": "https://showbizsecret.com/feed/",
+    "rss_newest": "2026-07-04",
+    "sitemap": "https://showbizsecret.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed works but appears STALE: newest feed item 4 Jul 2026 while the site posts more often — treat feed as unreliable; page-watch the site as backup."
+  },
+  {
+    "name": "HUM TV (official site)",
+    "url": "https://www.hum.tv",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "official drama listings",
+      "schedules",
+      "promos"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 526,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "UNREACHABLE from verification network: HTTP 526 (CDN origin SSL error) on homepage, feed and sitemap. The broadcaster's official site is alive — browser/manual reference; feed NOT verified. Episode signal is covered by the HUM TV YouTube entry."
+  },
+  {
+    "name": "ARY Digital (official site)",
+    "url": "https://arydigital.tv",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "official drama listings",
+      "schedules"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://arydigital.tv/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No working RSS feed found (/feed/ answers 200 but is not a feed document); sitemap verified — sitemap-watch + page-watch."
+  },
+  {
+    "name": "GEO TV",
+    "url": "https://www.geo.tv",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "entertainment news",
+      "drama listings"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.geo.tv/assets/uploads/google_news_latest.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No working RSS feed found (/feed and /rss answer 200 HTML, not feeds); Google-news sitemap from robots.txt verified — sitemap-watch + page-watch. Har Pal Geo is the group's entertainment channel brand."
+  },
+  {
+    "name": "Green Entertainment (official site)",
+    "url": "https://www.greenentertainment.tv",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "official drama listings",
+      "schedules"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Official site confirmed via the channel's own YouTube descriptions. No RSS feed (/feed/ = 404) and no sitemap (/sitemap.xml = 404) — page-watch only."
+  },
+  {
+    "name": "Galaxy Lollywood",
+    "url": "https://galaxylollywood.com",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "Celebrity Daily — Pakistan"
+    ],
+    "data_types": [
+      "showbiz news",
+      "box office reports",
+      "reviews"
+    ],
+    "rss": "https://galaxylollywood.com/feed/",
+    "rss_newest": "2024-02-29",
+    "sitemap": "https://galaxylollywood.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed is DORMANT — newest item 29 Feb 2024 — while the site itself still loads; treat as page-watch only. Pakistan's best-known film-portal brand (news, reviews, own box-office reports)."
+  },
+  {
+    "name": "ARY News — Entertainment",
+    "url": "https://arynews.tv",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "entertainment news",
+      "celebrity",
+      "drama industry"
+    ],
+    "rss": "https://arynews.tv/category/entertainment/feed/",
+    "rss_newest": "2025-10-28",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Entertainment desk of Pakistan's biggest TV-news web operation — complements the ARY Digital channel entry with news-side coverage. Category feed verified working; its newest item (2025-10-28 in the fetched copy) lags the site's main feed, which is fresher."
+  },
+  {
+    "name": "The News — Instep",
+    "url": "https://www.thenews.com.pk/magazine/instep-today",
+    "scopes": [
+      "Pakistan (Lollywood / TV dramas)",
+      "Celebrity Daily — Pakistan"
+    ],
+    "data_types": [
+      "features",
+      "interviews",
+      "reviews",
+      "industry analysis"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Pakistan's longest-running entertainment Sunday magazine (The News International) — weekly long-form features, interviews and criticism; the depth model for Pakistani features. Magazine archive verified live; no public feed found."
+  },
+  {
+    "name": "AsianWiki",
+    "url": "https://asianwiki.com",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "Korean drama/film database",
+      "cast",
+      "air dates"
+    ],
+    "rss": "https://blog.asianwiki.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "RSS = AsianWiki's official news/casting BLOG feed (verified: 10 items, newest 22 Oct 2026). The main wiki's MediaWiki RecentChanges feed returns an empty channel (0 items) and its api.php errors — database itself is page-watch only."
+  },
+  {
+    "name": "Dramabeans",
+    "url": "https://dramabeans.com",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "episode recaps",
+      "news roundups"
+    ],
+    "rss": "https://dramabeans.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://dramabeans.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "DramaWiki (D-Addicts)",
+    "url": "https://wiki.d-addicts.com",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "upcoming K-drama slates by network",
+      "air dates",
+      "cast"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Bot-challenge interstitial ('One moment, please...') blocks automated feed access, including its MediaWiki RecentChanges feed — page-watch via browser only."
+  },
+  {
+    "name": "HanCinema",
+    "url": "https://www.hancinema.net",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "Korean film/drama database",
+      "cast",
+      "upcoming"
+    ],
+    "rss": "https://feeds.feedburner.com/hancinema/AUJj",
+    "rss_newest": "2026-09-16",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Only feed is a FeedBurner mirror (linked from homepage) and it is STALE — newest item 16 Sep 2026 while the site updates daily. Prefer page-watch of the homepage/new-additions; treat feed as backup signal only."
+  },
+  {
+    "name": "Kdrama Kisses",
+    "url": "https://kdramakisses.com",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "K-drama news",
+      "trailers",
+      "reviews"
+    ],
+    "rss": "https://kdramakisses.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://kdramakisses.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "MyDramaList",
+    "url": "https://mydramalist.com",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "drama database",
+      "cast",
+      "episode guides"
+    ],
+    "rss": "https://mydramalist.com/rss",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh. No sitemap found (Cloudflare-protected) — feed + page-watch."
+  },
+  {
+    "name": "Soompi",
+    "url": "https://www.soompi.com",
+    "scopes": [
+      "South Korea (English)",
+      "Celebrity Daily — Korea (English)"
+    ],
+    "data_types": [
+      "K-drama/K-film news",
+      "casting",
+      "premiere dates"
+    ],
+    "rss": "https://www.soompi.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.soompi.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "VVIP Times",
+    "url": "https://vviptimes.com",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "release dates",
+      "cast",
+      "where-to-watch"
+    ],
+    "rss": "https://vviptimes.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://vviptimes.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "allkpop",
+    "url": "https://www.allkpop.com",
+    "scopes": [
+      "South Korea (English)",
+      "Celebrity Daily — Korea (English)"
+    ],
+    "data_types": [
+      "K-celebrity news",
+      "announcements",
+      "events"
+    ],
+    "rss": "https://www.allkpop.com/rss_xml/lab.php",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.allkpop.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Koreaboo",
+    "url": "https://www.koreaboo.com",
+    "scopes": [
+      "South Korea (English)",
+      "Celebrity Daily — Korea (English)"
+    ],
+    "data_types": [
+      "K-celebrity news",
+      "sightings",
+      "announcements"
+    ],
+    "rss": "https://www.koreaboo.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.koreaboo.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Yonhap News Agency — Entertainment",
+    "url": "https://en.yna.co.kr",
+    "scopes": [
+      "South Korea (English)"
+    ],
+    "data_types": [
+      "entertainment wire news",
+      "K-pop & K-drama industry"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "South Korea's national news wire (English service) — the primary source most K-entertainment outlets rewrite from; model for wire-speed factual items. Homepage verified live and current on 23 Oct 2026; /sitemap.xml returns 404 and no public RSS verified."
+  },
+  {
+    "name": "British Comedy Guide",
+    "url": "https://www.comedy.co.uk",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "British comedy database",
+      "episode guides"
+    ],
+    "rss": "http://feeds.feedburner.com/BritishComedyNews",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.comedy.co.uk/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "British Period Dramas",
+    "url": "https://britishperioddramas.com",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "period-drama news",
+      "premiere dates"
+    ],
+    "rss": "https://britishperioddramas.com/feed/",
+    "rss_newest": "2026-10-21",
+    "sitemap": "https://britishperioddramas.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Digital Spy",
+    "url": "https://www.digitalspy.com",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "TV/movie news",
+      "spoilers",
+      "release dates"
+    ],
+    "rss": "https://www.digitalspy.com/rss/default.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.digitalspy.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Flickering Myth",
+    "url": "https://www.flickeringmyth.com",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "film/TV news",
+      "trailers",
+      "reviews"
+    ],
+    "rss": "https://www.flickeringmyth.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.flickeringmyth.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Geektown",
+    "url": "https://www.geektown.co.uk",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "UK TV air dates",
+      "premiere dates",
+      "renewal status"
+    ],
+    "rss": "https://www.geektown.co.uk/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "http://www.geektown.co.uk/post-sitemap1.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "I Talk Telly",
+    "url": "https://www.italktelly.com",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "confirmed UK premiere dates"
+    ],
+    "rss": "https://www.italktelly.com/blog-feed.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (Squarespace blog-feed.xml). No sitemap found."
+  },
+  {
+    "name": "Radio Times",
+    "url": "https://www.radiotimes.com",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "TV/film news",
+      "cast guides",
+      "episode info",
+      "release dates"
+    ],
+    "rss": "https://www.radiotimes.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.radiotimes.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "TellyMix",
+    "url": "https://tellymix.co.uk",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "upcoming UK shows",
+      "TV news"
+    ],
+    "rss": "https://tellymix.co.uk/feed",
+    "rss_newest": "2026-10-21",
+    "sitemap": "https://tellymix.co.uk/news-sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "What to Watch (What's on TV)",
+    "url": "https://www.whattowatch.com/",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "TV news",
+      "soaps",
+      "streaming guides"
+    ],
+    "rss": "https://www.whattowatch.com/feeds.xml",
+    "rss_newest": "2026-10-21",
+    "sitemap": "https://www.whattowatch.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "whatsontv.co.uk now redirects to whattowatch.com (Future plc rebrand of What's on TV). Feed verified (newest 21 Oct 2026); sitemap verified."
+  },
+  {
+    "name": "Daily Mail — TV & Showbiz",
+    "url": "https://www.dailymail.co.uk/tvshowbiz",
+    "scopes": [
+      "UK",
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity news",
+      "photos",
+      "TV"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": null,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "MailOnline's TV & Showbiz vertical — among the world's highest-traffic entertainment pages; the photo-led, caption-driven celebrity format. Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
+  },
+  {
+    "name": "Metro — Entertainment",
+    "url": "https://metro.co.uk/entertainment",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "entertainment news",
+      "TV",
+      "showbiz"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": null,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Entertainment desk of one of the UK's highest-traffic free news sites — a volume model for showbiz/TV news. Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
+  },
+  {
+    "name": "Mirror — Showbiz",
+    "url": "https://www.mirror.co.uk",
+    "scopes": [
+      "UK"
+    ],
+    "data_types": [
+      "showbiz news",
+      "celebrity",
+      "TV"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": null,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "The Mirror's showbiz desk (the 3AM brand) — UK tabloid celebrity and TV coverage at scale. Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
+  },
+  {
+    "name": "E! News",
+    "url": "https://www.eonline.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity news",
+      "events",
+      "red carpet"
+    ],
+    "rss": "https://www.eonline.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh; no sitemap found."
+  },
+  {
+    "name": "Just Jared",
+    "url": "https://www.justjared.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity photos",
+      "sightings",
+      "events"
+    ],
+    "rss": "https://www.justjared.com/feed/",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.justjared.com/wp-sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "People",
+    "url": "https://people.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity news",
+      "events",
+      "appearances",
+      "photos"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 402,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BOT-WALLED: HTTP 402 to automated fetches (Dotdash Meredith bot protection) on every attempt. Site is a top US celebrity brand and alive — browser/manual reference only; feed NOT verified."
+  },
+  {
+    "name": "TMZ",
+    "url": "https://www.tmz.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity spottings",
+      "breaking celebrity news"
+    ],
+    "rss": "https://www.tmz.com/rss.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.tmz.com/sitemaps/index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Entertainment Weekly",
+    "url": "https://ew.com",
+    "scopes": [
+      "Celebrity Daily — US / Global",
+      "International (US / Hollywood)"
+    ],
+    "data_types": [
+      "celebrity news",
+      "entertainment news",
+      "features"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://ew.com/sitemap.xml",
+    "site_loads": false,
+    "http_status": 402,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "BOT-WALLED: HTTP 402 to automated fetches (Dotdash Meredith, same wall as People) — BUT its sitemap.xml itself answers 200 and is verified. Feed NOT verified (402). Browser/manual reference for articles."
+  },
+  {
+    "name": "Famous Birthdays",
+    "url": "https://www.famousbirthdays.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity birthdays",
+      "celebrity bios"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed and no XML sitemap found — page-watch only. Date-first celebrity-birthday database: Today/Tomorrow birthday rails, person cards (name, age, profession), trending-people ranking."
+  },
+  {
+    "name": "The Famous People",
+    "url": "https://www.thefamouspeople.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity birthdays",
+      "biographies"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "No RSS feed and no XML sitemap found — page-watch only. Biography + birthday database."
+  },
+  {
+    "name": "Page Six",
+    "url": "https://pagesix.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity news",
+      "gossip",
+      "photos"
+    ],
+    "rss": "https://pagesix.com/feed/",
+    "rss_newest": "2026-10-01",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "New York Post's celebrity desk — the short-paragraph, photo-dense celebrity item at industrial volume; structural model for Celebrity Today items. Feed verified working. /sitemap.xml serves an HTML page and the WP sitemap could not be confirmed, so no sitemap recorded."
+  },
+  {
+    "name": "US Weekly",
+    "url": "https://www.usmagazine.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity news",
+      "royals",
+      "photos"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": null,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "One of America's biggest celebrity weeklies (Us Weekly). Domain blocked by the verification fetcher (policy) — feed/sitemap NOT verified; recheck from a browser."
+  },
+  {
+    "name": "Entertainment Tonight",
+    "url": "https://www.etonline.com",
+    "scopes": [
+      "Celebrity Daily — US / Global"
+    ],
+    "data_types": [
+      "celebrity news",
+      "TV",
+      "exclusives"
+    ],
+    "rss": "https://www.etonline.com/news/rss",
+    "rss_newest": "2026-10-23",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Web arm of the ET TV franchise — credential-first ledes, long quote-block articles and section feeds (Latest Stories / TV / Movies / Music listed at /rss). Homepage and news feed verified live and fresh."
+  },
+  {
+    "name": "Diva Magazine Pakistan",
+    "url": "https://www.divamagazine.pk",
+    "scopes": [
+      "Celebrity Daily — Pakistan"
+    ],
+    "data_types": [
+      "celebrity news",
+      "events",
+      "lifestyle"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": null,
+    "site_loads": false,
+    "http_status": 0,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "UNREACHABLE from the verification network: connection failure (000) on https and http, www and bare domain, repeated attempts. Not counted as verified — recheck from another network before relying on it."
+  },
+  {
+    "name": "Something Haute",
+    "url": "https://www.somethinghaute.com",
+    "scopes": [
+      "Celebrity Daily — Pakistan"
+    ],
+    "data_types": [
+      "celebrity news",
+      "events",
+      "fashion",
+      "interviews"
+    ],
+    "rss": "https://somethinghaute.com/feed/",
+    "rss_newest": "2026-10-20",
+    "sitemap": "https://somethinghaute.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "HELLO! Pakistan (H! Pakistan Magazine)",
+    "url": "https://www.hmagpak.com",
+    "scopes": [
+      "Celebrity Daily — Pakistan",
+      "Pakistan (Lollywood / TV dramas)"
+    ],
+    "data_types": [
+      "celebrity news",
+      "fashion",
+      "lifestyle"
+    ],
+    "rss": null,
+    "rss_newest": null,
+    "sitemap": "https://www.hmagpak.com/sitemap_news.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "The magazine's old domain (hellopakistanmag.com) is parked — it redirects to a domain-for-sale page; publishing now happens at hmagpak.com (verified live, news sitemap verified). No working RSS feed found (/rss answers 200 but is not a feed document)."
+  },
+  {
+    "name": "HELLO! Magazine",
+    "url": "https://www.hellomagazine.com",
+    "scopes": [
+      "Celebrity Daily — UK"
+    ],
+    "data_types": [
+      "celebrity and royal news",
+      "events",
+      "appearances"
+    ],
+    "rss": "https://www.hellomagazine.com/feeds/rss/any/any/any/50.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.hellomagazine.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "UK-born celebrity/royal magazine with a global edition."
+  },
+  {
+    "name": "OK! Magazine UK",
+    "url": "https://www.ok.co.uk",
+    "scopes": [
+      "Celebrity Daily — UK"
+    ],
+    "data_types": [
+      "celebrity news",
+      "royal/showbiz events",
+      "appearances"
+    ],
+    "rss": "https://www.ok.co.uk/rss.xml",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://www.ok.co.uk/map_news.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": ""
+  },
+  {
+    "name": "Oddity Central",
+    "url": "https://www.odditycentral.com",
+    "scopes": [
+      "Viral — US / Global"
+    ],
+    "data_types": [
+      "viral news",
+      "odd news"
+    ],
+    "rss": "https://www.odditycentral.com/feed",
+    "rss_newest": "2026-09-18",
+    "sitemap": null,
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified but slow (newest item 18 Sep 2026). Long-running odd/viral-news blog — inherently non-political."
+  },
+  {
+    "name": "Interesting Engineering",
+    "url": "https://interestingengineering.com",
+    "scopes": [
+      "Viral — US / Global"
+    ],
+    "data_types": [
+      "viral news",
+      "inventions & tech"
+    ],
+    "rss": "https://interestingengineering.com/feed",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://interestingengineering.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). Inventions, robots, vehicles, engineering feats — core viral-stream material, non-political."
+  },
+  {
+    "name": "New Atlas",
+    "url": "https://newatlas.com",
+    "scopes": [
+      "Viral — US / Global"
+    ],
+    "data_types": [
+      "viral news",
+      "inventions & gadgets"
+    ],
+    "rss": "https://newatlas.com/index.rss",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://newatlas.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). New inventions, concept vehicles, gadgets — non-political."
+  },
+  {
+    "name": "Futurism",
+    "url": "https://futurism.com",
+    "scopes": [
+      "Viral — US / Global"
+    ],
+    "data_types": [
+      "viral news",
+      "science & future tech"
+    ],
+    "rss": "https://futurism.com/feed",
+    "rss_newest": "2026-10-22",
+    "sitemap": "https://futurism.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (newest 22 Oct 2026). Future-tech/science viral stories."
+  },
+  {
+    "name": "ScienceAlert",
+    "url": "https://www.sciencealert.com",
+    "scopes": [
+      "Viral — US / Global"
+    ],
+    "data_types": [
+      "viral news",
+      "science news"
+    ],
+    "rss": "https://www.sciencealert.com/feed/gn/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.sciencealert.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed discovered from homepage and verified fresh (23 Oct 2026). Science stories with viral reach."
+  },
+  {
+    "name": "Bored Panda",
+    "url": "https://www.boredpanda.com",
+    "scopes": [
+      "Viral — US / Global"
+    ],
+    "data_types": [
+      "viral news",
+      "viral stories"
+    ],
+    "rss": "https://www.boredpanda.com/feed/",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.boredpanda.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified fresh (23 Oct 2026). The global viral-story mill — screen out listicle filler, keep genuine viral moments."
+  },
+  {
+    "name": "Hindustan Times — Trending",
+    "url": "https://www.hindustantimes.com/trending",
+    "scopes": [
+      "Viral — India"
+    ],
+    "data_types": [
+      "viral news",
+      "trending stories"
+    ],
+    "rss": "https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml",
+    "rss_newest": "2026-10-23",
+    "sitemap": "https://www.hindustantimes.com/sitemap/news.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Trending RSS verified fresh (23 Oct 2026). Mixed general stream — the viral pipeline must apply the standing NON-POLITICAL screen before use."
+  },
+  {
+    "name": "Storypick",
+    "url": "https://www.storypick.com",
+    "scopes": [
+      "Viral — India"
+    ],
+    "data_types": [
+      "viral news",
+      "human-interest stories"
+    ],
+    "rss": "https://storypick.com/feed/",
+    "rss_newest": "2026-03-31",
+    "sitemap": "https://www.storypick.com/sitemap_index.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed works but is STALE (newest item 31 Mar 2026) while the brand remains a known Indian viral/human-interest name — low-priority, page-watch backup."
+  },
+  {
+    "name": "Mangobaaz",
+    "url": "https://www.mangobaaz.com",
+    "scopes": [
+      "Viral — Pakistan"
+    ],
+    "data_types": [
+      "viral news",
+      "entertainment/social stories"
+    ],
+    "rss": "https://www.mangobaaz.com/feed/",
+    "rss_newest": "2026-10-21",
+    "sitemap": "https://www.mangobaaz.com/wp-sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (newest 21 Oct 2026). Pakistan's best-known viral/entertainment publisher — apply the non-political screen to general items."
+  },
+  {
+    "name": "LADbible",
+    "url": "https://www.ladbible.com",
+    "scopes": [
+      "Viral — UK"
+    ],
+    "data_types": [
+      "viral news",
+      "social/viral stories"
+    ],
+    "rss": "https://www.ladbible.com/index.rss",
+    "rss_newest": null,
+    "sitemap": "https://www.ladbible.com/sitemap/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (200, feed-shaped; item dates not parsed). UK's biggest social/viral publisher."
+  },
+  {
+    "name": "UNILAD",
+    "url": "https://www.unilad.com",
+    "scopes": [
+      "Viral — UK"
+    ],
+    "data_types": [
+      "viral news",
+      "social/viral stories"
+    ],
+    "rss": "https://www.unilad.com/index.rss",
+    "rss_newest": null,
+    "sitemap": "https://www.unilad.com/sitemap/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-23",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Feed verified (200, feed-shaped; item dates not parsed). LADbible Group's sister viral brand."
+  },
+  {
+    "name": "Rolling Stone Music",
+    "url": "https://www.rollingstone.com/music/",
+    "scopes": [
+      "Music"
+    ],
+    "data_types": [
+      "music news",
+      "album news",
+      "artist news"
+    ],
+    "rss": "https://www.rollingstone.com/music/feed/",
+    "rss_newest": "2026-10-26",
+    "sitemap": "https://www.rollingstone.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-26",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Music-news specialist; feed verified live (10 items, newest 26 Oct 2026). Added 2026-10-26 so the News Music tag gets real articles."
+  },
+  {
+    "name": "Billboard",
+    "url": "https://www.billboard.com/",
+    "scopes": [
+      "Music"
+    ],
+    "data_types": [
+      "music news",
+      "charts",
+      "artist news"
+    ],
+    "rss": "https://www.billboard.com/feed/",
+    "rss_newest": "2026-10-26",
+    "sitemap": "https://www.billboard.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-26",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Music-news authority; feed verified live (10 items, newest 26 Oct 2026). Added 2026-10-26 so the News Music tag gets real articles."
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/",
+    "scopes": [
+      "Tech"
+    ],
+    "data_types": [
+      "tech news"
+    ],
+    "rss": "https://techcrunch.com/feed/",
+    "rss_newest": "2026-10-26",
+    "sitemap": "https://techcrunch.com/sitemap.xml",
+    "site_loads": true,
+    "http_status": 200,
+    "verified": "2026-10-26",
+    "day_wise": null,
+    "day_wise_exposure": null,
+    "notes": "Tech-news source; feed verified live (20 items, newest 26 Oct 2026). Added 2026-10-26 so the News Tech tag gets real articles. Entertainment-relevant tech stories only (fetch.py blocks the blind Movies fallback for tech sources)."
+  }
 ]
