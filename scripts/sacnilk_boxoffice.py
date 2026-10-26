@@ -85,6 +85,22 @@ RECENT_WINDOW_DAYS = 90  # only titles released within the last 90 days
 EXPECTED_CAP_DAYS = 45   # a theatrical run rarely reports beyond 45 days
 INR_PER_USD = 94.65      # site FA_RATES — same as boxoffice_extract
 
+# Slug overrides (PERMANENT fix, 2026-10-26): Sacnilk's slug for a
+# film is not always what slugify() builds from the TMDB title.
+# Sacnilk names franchise films by their series number and language
+# ("Drishyam 3" -> Drishyam_3_Hindi_2026), while TMDB titles them by
+# their subtitle ("Drishyam: The Conclusion" -> slugify gives
+# Drishyam_The_Conclusion_2026, which 404s). Keyed by TMDB id; the
+# fetch path uses the override when present (both the /movie/ page
+# and the quicknews page — the quicknews slug is the same base).
+# A future wrong slug is a one-line addition here, not a code change.
+# Verified 2026-10-26: Drishyam_3_Hindi_2026 returns HTTP 200 with
+# day-wise cards on /movie/ and the Box Office Summary table on
+# /quicknews/ Day 24.
+SLUG_OVERRIDES = {
+    "1269325": "Drishyam_3_Hindi_2026",  # Drishyam: The Conclusion
+}
+
 # The daywise header is byte-identical to apply-auto.py's ON PURPOSE:
 # both writers must emit the same header, or the file flip-flops
 # between two headers on every hourly run (a spurious diff + deploy).
@@ -565,7 +581,7 @@ def main():
             if not need:
                 print(f"  skip {title} ({tid}): {why}")
                 continue
-            slug = slugify(title, year)
+            slug = SLUG_OVERRIDES.get(tid) or slugify(title, year)
             if not slug:
                 print(f"  skip {title} ({tid}): empty slug")
                 continue
@@ -674,4 +690,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
