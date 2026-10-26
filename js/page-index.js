@@ -61,10 +61,10 @@
        shows the FIRST N items of the exact ordered list its See All page
        shows — no distinct-title skipping, no one-item rails. The See All
        page lists the full pool in the same order. */
-    /* Spotlight is UNCAPPED (user order 2026-10-26): every currently-running
-       movie this week shows in the rail; new titles join daily via the
-       nightly seeder as soon as they are eligible (released + fresh). */
-    const HOME_LIMITS = { soon: 6, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 6 };
+    /* Spotlight (user order 2026-10-26, revised: show 10-15): the 12 newest
+       released movies per industry (was 'fresh this week' only, which capped
+       Bollywood at 4). New titles join daily via the nightly seeder. */
+    const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 6 };
     /* Most-awaited sort: /most-awaited ranks upcoming titles by rating
        (vote_average desc, then vote_count desc, then nearest date) — NOT
        byNewest. The homepage "Coming Soon & Most Awaited" rail uses this
@@ -80,12 +80,14 @@
       const ind = industry === "international" ? "world" : "bollywood";
       const items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
       if (kind === "spotlight") {
-        /* Fresh first, same fallback as /movies: when no fresh released
-           title exists, the full released pool is used so the rail is
-           never empty while published movies exist. */
+        /* Owner order 2026-10-26: show 10-15 on the homepage (was 4-5:
+           the old 'fresh this week' rule capped Bollywood at the 4 movies
+           released in the last 7 days). Now the 12 NEWEST released movies
+           (fresh first by sort order). Bollywood has only 8 released
+           titles in the catalogue, so its tab shows 8 (all of them) until
+           the seeder adds more; World shows 12. */
         const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x)).sort(byNewest);
-        const fresh = rel.filter(x => freshReleased(x));
-        return fresh.length ? fresh : rel;
+        return rel.slice(0, 12);
       }
       if (kind === "soon") return items.filter(x => isUpcoming(x)).sort(byMostAwaited);
       return items.filter(x => isUpcoming(x)).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
@@ -382,7 +384,7 @@
           <div class="news-slider-viewport">${slides.map(({ it, img, primary }, i) => {
             const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
             return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
-              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" alt="" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" onerror="this.onerror=null;this.src='${UI.esc(img)}'"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
+              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" alt="" ${i === 0 ? 'fetchpriority="high"' : ''} decoding="async" onerror="this.onerror=null;this.src='${UI.esc(img)}'"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
               <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
               ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
             </a>`;
@@ -691,6 +693,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
