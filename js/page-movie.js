@@ -103,6 +103,27 @@
     const writers = [...new Map(crew.filter(c => ["Writer", "Screenplay", "Story", "Author"].includes(c.job)).map(c => [c.id, c])).values()];
     const crewLink = (p) => `<a href="/person?id=${p.id}">${UI.esc(p.name)}</a>`;
 
+    /* Crew groups: key crew jobs from the one title's credits
+       (deduped, capped at 6 per group — same pattern as the show
+       page's "Creators & Crew" card). Directors/Writers also appear
+       in the Facts table; Producers, Executive Producers, Music and
+       Cinematography appear nowhere else on this page. */
+    const crewGroups = [];
+    const seenCrew = new Set();
+    for (const [label, jobs] of [
+      ["Directors", ["Director"]],
+      ["Writers", ["Writer", "Screenplay", "Story", "Author"]],
+      ["Producers", ["Producer"]],
+      ["Executive Producers", ["Executive Producer"]],
+      ["Music", ["Original Music Composer", "Music"]],
+      ["Cinematography", ["Director of Photography"]],
+    ]) {
+      const list = crew.filter(c => c && jobs.includes(c.job) && c.name && !seenCrew.has(c.id))
+        .slice(0, 6).map(c => ({ id: c.id, name: c.name, job: c.job }));
+      list.forEach(c => seenCrew.add(c.id));
+      if (list.length) crewGroups.push([label, list]);
+    }
+
     /* Official trailer: baked into the published entry (official
        YouTube trailer only). Absent when none exists — no section. */
     const trailerKey = pub.trailer && /^[A-Za-z0-9_-]{11}$/.test(pub.trailer.key || "") ? pub.trailer.key : "";
@@ -177,6 +198,10 @@
       <button type="button" class="btn more-btn" data-target="castMore" data-more="Show More Cast" data-less="Show Less" onclick="UI.toggleMore(this)">Show More Cast</button>` : ""}
       <p class="prov-note">Full credited cast with photos and filmographies on each person's FlickAtlas profile.</p></div>` : ""}
 
+    ${crewGroups.length ? `<div class="content-card"><h2>Crew</h2>
+      <div class="crew-groups">${crewGroups.map(([label, people]) => `<div class="crew-group"><h4>${UI.esc(label)}</h4>
+        <ul>${people.map(p => `<li><a href="/person?id=${p.id}">${UI.esc(p.name)}</a><span class="crew-job">${UI.esc(p.job || "")}</span></li>`).join("")}</ul></div>`).join("")}</div></div>` : ""}
+
     ${daywiseHtml}
 
     ${similar.length ? `<section class="section"><div class="section-head"><h2>Similar Movies</h2></div>
@@ -202,7 +227,12 @@
         ...(castTop.length ? { "actor": castTop.slice(0, 5).map(p => ({ "@type": "Person", "name": p.name })) } : {}),
       }
     });
+
+    /* Explore More navigation (same as the show page): section links
+       + a search link for this title. Best effort, never blocks. */
+    try { UI.mountTopSearches(main, [title]); } catch (_) {}
   } catch (e) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
