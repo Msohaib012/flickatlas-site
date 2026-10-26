@@ -142,6 +142,16 @@ jobs:
         run: |
           python3 scripts/apply-auto.py
 
+      # --- 5b. OTT data (hourly, cheap) ---------------------------------
+      # Rebuild js/ott-data.js from the just-written catalogue (classify
+      # only, no API calls; writes only when changed). title-seed.py
+      # also rebuilds it on its gated run; this hourly step covers
+      # catalogue changes from any other step (apply-auto, backfill).
+      - name: Rebuild OTT data
+        id: ott
+        continue-on-error: true
+        run: python3 scripts/build_ott.py || echo "ott-data rebuild failed, continuing"
+
       # --- 6. Multi-source box office (hourly) ---------------------------
       # Per-site readers fetch day-wise INDIA NET figures into
       # out/boxoffice-staging/<source>.json; the averaging engine
@@ -358,7 +368,7 @@ jobs:
         run: |
           git config user.name "Msohaib012"
           git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js
+          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js
           git add api-news.json api-trends.json
           git add js/stats-pipeline.json js/stats-traffic.json js/stats-health.json
           git add out/orchestrator-state.json
@@ -414,6 +424,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
