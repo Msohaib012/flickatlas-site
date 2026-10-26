@@ -634,6 +634,7 @@ def main():
     rank_count = int(os.environ.get("RANK_COUNT", "60"))
     pending = [item for item in queue if fingerprint(item) not in processed]
     ordered = list(queue)
+    ranked_count = 0  # headlines Gemini actually ranked this run
     if pending:
         if rank_count > 0:
             candidates = sorted(pending, key=_published_ts,
@@ -643,6 +644,7 @@ def main():
             gemini_calls += 1
             ranked, dup_pairs = rank_stories(keys, candidates)
             if ranked:
+                ranked_count = len(candidates)
                 # Semantic dedup: these are the same story as a
                 # higher-ranked item (different wording). Record them as
                 # processed duplicates so they are never retried and never
@@ -759,7 +761,8 @@ def main():
 
     out = {"generated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
            "count": len(articles), "articles": articles,
-           "box_office": box_rows, "skipped": skipped}
+           "box_office": box_rows, "skipped": skipped,
+           "ranked": ranked_count, "unprocessed": len(pending)}
     with open(batch_path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
     with open(processed_path, "w", encoding="utf-8") as f:
@@ -771,4 +774,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

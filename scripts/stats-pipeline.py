@@ -194,6 +194,8 @@ def main():
         "run_url": (gem_run or {}).get("url"),
         "generated_at": batch.get("generated"),
         "picked": int(batch.get("count") or len(batch_articles)),
+        "read": int(batch.get("ranked") or 0) or None,
+        "unprocessed": int(batch.get("unprocessed") or 0) or None,
         "per_category": dict(batch_cats),
         "skipped": len(batch.get("skipped") or []),
         "posts_created": len(feed_entries) if feed_entries else None,
@@ -268,4 +270,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
