@@ -358,7 +358,7 @@ jobs:
         run: |
           git config user.name "Msohaib012"
           git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js js/daywise-data.js js/published-titles.js
+          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js
           git add api-news.json api-trends.json
           git add js/stats-pipeline.json js/stats-traffic.json js/stats-health.json
           git add out/orchestrator-state.json
@@ -384,6 +384,12 @@ jobs:
             git commit -m "hourly: pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             if ! git pull --rebase; then
               conflicted=$(git diff --name-only --diff-filter=U || true)
+              if [ -z "$conflicted" ]; then
+                echo "pull --rebase failed WITHOUT a rebase conflict (no unmerged files) — likely unstaged changes:"
+                git status --porcelain
+                git rebase --abort || true
+                exit 1
+              fi
               non_html=$(printf '%s\n' "$conflicted" | grep -v '\.html$' || true)
               if [ -n "$non_html" ]; then
                 echo "rebase conflict in non-HTML files: $non_html — aborting commit, next hourly run retries from fresh main"
@@ -408,6 +414,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
