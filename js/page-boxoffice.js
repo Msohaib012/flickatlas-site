@@ -6,9 +6,10 @@
    yet recorded" state — they are NOT dropped. Each card links to
    /movie?id=<id>, where the full day-wise detail lives. No period
    pills, no ranking charts, no verdict/club filters — the old dashboard
-   confused readers. The industry nav (All / Bollywood / World Cinema)
-   remains, as a simple filter on the same cards list — same filter
-   values as the Movies page (?f=bollywood, ?f=international).
+   confused readers. The industry filter (All / Bollywood / World Cinema) is a .fa-select
+   in-page dropdown on the same cards list — same filter values as the
+   Movies page (?f=bollywood, ?f=international), never a native
+   <select> popup.
    Lollywood was removed from this page (user order 2026-10-26);
    Pakistani titles show under All only. Bollywood means ALL Indian
    movies — Hindi, Tamil, Telugu and every other Indian-language film
@@ -78,11 +79,19 @@
     <header class="page-hero bo-intro"><p class="bo-key">Dated collections and reported grosses</p><h1>Box Office</h1>
       <p>Box office collections of the latest released movies — today's reported collection, the last 7 days and the recorded total. Tap a movie for its full day-wise detail.</p>
       <p><a href="/box-office/milestones">Box Office Milestones — 1000 Crore Club &amp; top collections →</a></p></header>
-    <nav class="bo-scope" aria-label="Box office industry"><a class="chip${f === "all" ? " on" : ""}" href="/box-office"${f === "all" ? ' aria-current="page"' : ""}>All industries</a><a class="chip${f === "bollywood" ? " on" : ""}" href="/box-office?f=bollywood"${f === "bollywood" ? ' aria-current="page"' : ""}>Bollywood</a><a class="chip${f === "international" ? " on" : ""}" href="/box-office?f=international"${f === "international" ? ' aria-current="page"' : ""}>World Cinema</a></nav>
+    <div id="chipHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="indSelectLabel"><span class="filter-select-label" id="indSelectLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="indTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="indOptions" aria-labelledby="indSelectLabel indValue"><span class="fa-select-value" id="indValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="indOptions" role="listbox" aria-labelledby="indSelectLabel" hidden></div></div></div>
+    </div></div>
     <section class="section" data-sec="box-office">${picks.length ? picks.map(p => boCardHtml(p.entry, p.rows)).join("") : `<p style="color:var(--muted)">No box office data available yet.</p>`}</section>
     ${UI.rateNote()}
   </div>`;
+  /* Industry dropdown: picking an industry loads the same filtered list
+     the old nav links opened (?f=bollywood / ?f=international). */
+  UI.mountFaSelect(document.querySelector("#chipHost .filter-select"),
+    [{ value: "all", label: "All industries" }, { value: "bollywood", label: "Bollywood" }, { value: "international", label: "World Cinema" }],
+    f, (v) => { location.href = v === "all" ? "/box-office" : `/box-office?f=${v}`; });
 })();
+
 
 
 

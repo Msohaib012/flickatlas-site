@@ -1,6 +1,7 @@
-/* FlickAtlas — Celebrities hub: people browse with §4 filter chips (All ·
-   Bollywood · World Cinema · Pakistani · Actors · Actresses ·
-   Directors) + a sampled Star Power comparison. PUBLISHED-ONLY: the people
+/* FlickAtlas — Celebrities hub: people browse with a .fa-select in-page
+   dropdown (All · Bollywood · World Cinema · Pakistani · Actors ·
+   Actresses · Directors) + a sampled Star Power comparison — never a
+   native <select> popup. PUBLISHED-ONLY: the people
    pool comes from published titles only — one credits call per published
    title (single-title, same as the detail pages) plus the fresh
    FA_CELEBRITY_TODAY feed. Never a live people catalogue (no popularPeople,
@@ -27,7 +28,9 @@
     <div class="page-hero"><h1>Celebrities</h1>
       <p>Celebrity profiles with biographies, photos and screen credits.</p></div>
     <div id="bdayHost"></div>
-    <div id="chipHost">${UI.chipRow(FILTERS, f)}</div>
+    <div id="chipHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="celSelectLabel"><span class="filter-select-label" id="celSelectLabel">Filter</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="celTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="celOptions" aria-labelledby="celSelectLabel celValue"><span class="fa-select-value" id="celValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="celOptions" role="listbox" aria-labelledby="celSelectLabel" hidden></div></div></div>
+    </div></div>
     <p class="fcount" id="fcount"></p>
     <div class="people-grid" id="grid">${UI.skelCards(12)}</div>
     <div id="emptyHost"></div>
@@ -55,7 +58,15 @@
     fcount.textContent = items.length ? `${items.length} celebrit${items.length === 1 ? "y" : "ies"}` : "";
     emptyHost.innerHTML = items.length ? "" : UI.stateMsg("No celebrities match this filter among published titles yet.", false);
   }
-  UI.wireChips(main.querySelector("#chipHost"), k => { f = k; render(); });
+  const celDd = UI.mountFaSelect(main.querySelector("#chipHost .filter-select"),
+    FILTERS.map(([value, label]) => ({ value, label })),
+    f, (v) => { f = v; UI.setParam("f", f === "all" ? "" : f); render(); });
+  window.addEventListener("popstate", () => {
+    f = UI.getParam("f", "all");
+    if (!FILTERS.some(([k]) => k === f)) f = "all";
+    celDd.setValue(f);
+    render();
+  });
 
   /* ---------- Star Power: recorded FlickAtlas collections, published titles only ----------
      A star's total is the sum of the recorded day-wise collections of the
@@ -159,3 +170,4 @@
     grid.innerHTML = UI.stateMsg("Could not load celebrities. Please try again.");
   }
 })();
+

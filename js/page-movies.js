@@ -1,5 +1,6 @@
-/* FlickAtlas — Movies hub with §4 filter chips: Bollywood · World Cinema
-   as the primary industries, with legacy scopes and ratings kept visible.
+/* FlickAtlas — Movies hub with .fa-select in-page dropdowns: Category
+   (Bollywood · World Cinema · All · US Films · Lollywood · Top Rated),
+   Year, Sort by, Genre and Type — never a native <select> popup.
    PUBLISHED-ONLY (2026-10-25 rebuild): every title comes from
    window.FA_PUBLISHED — TMDB is a data source, not a catalogue, so
    nothing is fetched live. K-Drama filter REMOVED (spec §6). Published
@@ -19,7 +20,8 @@
   const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "World Cinema"]];
   const MORE_FILTERS = [["all", "All"], ["hollywood", "US Films"], ["lollywood", "Lollywood"], ["top", "Top Rated"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
-  const seeAllEntry = UI.getParam("seeall", "") === "1";
+  /* The Category dropdown covers every f value, so the old ?seeall=1
+     entry split (chips vs dropdown) is gone — one control always. */
   let f = UI.getParam("f", "bollywood");
   let sort = UI.getParam("s", "recent");
   if (!["popular", "recent"].includes(sort)) sort = "recent";
@@ -36,15 +38,12 @@
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Movies</h1>
       <p>Filter movies and TV series by industry, year or rating; open a title for details.</p></div>
-    <div id="chipHost"><div data-filter-scope="main">${UI.chipRow(MAIN_FILTERS, f, "bollywood")}</div>
-      ${seeAllEntry
-        ? `<div class="filter-select listing-custom-filter" role="group" aria-labelledby="moviesFilterLabel"><span class="filter-select-label" id="moviesFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="moreFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="moreFilterOptions" aria-labelledby="moviesFilterLabel moreFilterValue"><span id="moreFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="moreFilterOptions" role="listbox" aria-labelledby="moviesFilterLabel" hidden></div></div><select class="fsel" id="moreFilterSel" aria-label="Additional movie category filter" aria-hidden="true" tabindex="-1" hidden><option value="">Choose a filter</option>${MORE_FILTERS.map(([key, label]) => `<option value="${UI.esc(key)}">${UI.esc(label)}</option>`).join("")}</select></div>`
-        : `<div class="listing-more-filters"><p class="filter-group-label">More categories</p><div data-filter-scope="more">${UI.chipRow(MORE_FILTERS, f, "bollywood")}</div></div>`}
-      <div class="listing-select-row">
-        <div class="filter-select" role="group" aria-labelledby="yearSelectLabel"><span class="filter-select-label" id="yearSelectLabel">Year</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="yearTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="yearOptions" aria-labelledby="yearSelectLabel yearValue"><span id="yearValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="yearOptions" role="listbox" aria-labelledby="yearSelectLabel" hidden></div></div><select class="fsel" id="yearSel" aria-label="Filter by year" aria-hidden="true" tabindex="-1" hidden></select></div>
-        <div class="filter-select" role="group" aria-labelledby="sortSelectLabel"><span class="filter-select-label" id="sortSelectLabel">Sort by</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="sortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortOptions" aria-labelledby="sortSelectLabel sortValue"><span id="sortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="sortOptions" role="listbox" aria-labelledby="sortSelectLabel" hidden></div></div><select class="fsel" id="sortSel" aria-label="Sort movies" aria-hidden="true" tabindex="-1" hidden><option value="recent">Newest first</option><option value="popular">Most Popular</option></select></div>
-        <div class="filter-select" role="group" aria-labelledby="genreSelectLabel"><span class="filter-select-label" id="genreSelectLabel">Genre</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="genreTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="genreOptions" aria-labelledby="genreSelectLabel genreValue"><span id="genreValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="genreOptions" role="listbox" aria-labelledby="genreSelectLabel" hidden></div></div><select class="fsel" id="genreSel" aria-label="Filter by genre" aria-hidden="true" tabindex="-1" hidden><option value="">All Genres</option></select></div>
-        <div class="filter-select" role="group" aria-labelledby="typeSelectLabel"><span class="filter-select-label" id="typeSelectLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="typeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="typeOptions" aria-labelledby="typeSelectLabel typeValue"><span id="typeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="typeOptions" role="listbox" aria-labelledby="typeSelectLabel" hidden></div></div><select class="fsel" id="typeSel" aria-label="Filter by type" aria-hidden="true" tabindex="-1" hidden><option value="movie">Movies</option><option value="tv">TV Series</option><option value="all">All</option></select></div>
+    <div id="chipHost"><div class="listing-select-row">
+        <div class="filter-select" role="group" aria-labelledby="catSelectLabel"><span class="filter-select-label" id="catSelectLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="catTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="catOptions" aria-labelledby="catSelectLabel catValue"><span class="fa-select-value" id="catValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="catOptions" role="listbox" aria-labelledby="catSelectLabel" hidden></div></div></div>
+        <div class="filter-select" role="group" aria-labelledby="yearSelectLabel"><span class="filter-select-label" id="yearSelectLabel">Year</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="yearTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="yearOptions" aria-labelledby="yearSelectLabel yearValue"><span class="fa-select-value" id="yearValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="yearOptions" role="listbox" aria-labelledby="yearSelectLabel" hidden></div></div></div>
+        <div class="filter-select" role="group" aria-labelledby="sortSelectLabel"><span class="filter-select-label" id="sortSelectLabel">Sort by</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="sortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortOptions" aria-labelledby="sortSelectLabel sortValue"><span class="fa-select-value" id="sortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="sortOptions" role="listbox" aria-labelledby="sortSelectLabel" hidden></div></div></div>
+        <div class="filter-select" role="group" aria-labelledby="genreSelectLabel"><span class="filter-select-label" id="genreSelectLabel">Genre</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="genreTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="genreOptions" aria-labelledby="genreSelectLabel genreValue"><span class="fa-select-value" id="genreValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="genreOptions" role="listbox" aria-labelledby="genreSelectLabel" hidden></div></div></div>
+        <div class="filter-select" role="group" aria-labelledby="typeSelectLabel"><span class="filter-select-label" id="typeSelectLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="typeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="typeOptions" aria-labelledby="typeSelectLabel typeValue"><span class="fa-select-value" id="typeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="typeOptions" role="listbox" aria-labelledby="typeSelectLabel" hidden></div></div></div>
       </div></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading movies…</p>
     <div class="grid" id="grid">${UI.skelCards(12)}</div>
@@ -53,87 +52,24 @@
   const grid = main.querySelector("#grid");
   const fcount = main.querySelector("#fcount");
   const emptyHost = main.querySelector("#emptyHost");
-  const genreSel = main.querySelector("#genreSel");
-  const sortSel = main.querySelector("#sortSel"); sortSel.value = sort;
-  const typeSel = main.querySelector("#typeSel"); typeSel.value = t;
-  const moreFilterSel = main.querySelector("#moreFilterSel");
-  if (moreFilterSel) moreFilterSel.value = MORE_FILTERS.some(([key]) => key === f) ? f : "";
-  if (g) genreSel.value = g;
-
-  function mountSelectMenu(select) {
-    const host = select.closest(".filter-select");
-    const trigger = host.querySelector(".fa-select-trigger");
-    const label = host.querySelector("[id$='Value']");
-    const listbox = host.querySelector('[role="listbox"]');
-    let activeIndex = 0, opened = false, typeAhead = "", typeAheadTimer;
-    function activate(index) {
-      const options = [...listbox.querySelectorAll('[role="option"]')];
-      if (!options.length) return;
-      activeIndex = (index + options.length) % options.length;
-      const active = options[activeIndex];
-      trigger.setAttribute("aria-activedescendant", active.id);
-      options.forEach((option, i) => option.classList.toggle("is-active", i === activeIndex));
-      active.scrollIntoView?.({ block: "nearest" });
-    }
-    function sync() {
-      const options = [...select.options];
-      const selectedIndex = options.findIndex(option => option.value === select.value);
-      activeIndex = selectedIndex >= 0 ? selectedIndex : 0;
-      label.textContent = options[activeIndex]?.textContent || "Choose an option";
-      listbox.innerHTML = options.map((option, index) => `<div class="fa-select-option" id="${listbox.id}-option-${index}" role="option" aria-selected="${index === activeIndex}" data-index="${index}"><span>${UI.esc(option.textContent)}</span><span class="fa-select-check" aria-hidden="true">✓</span></div>`).join("");
-      if (opened) activate(activeIndex);
-    }
-    function close(restoreFocus = false) {
-      if (!opened) return;
-      opened = false; listbox.hidden = true; trigger.setAttribute("aria-expanded", "false");
-      trigger.removeAttribute("aria-activedescendant");
-      if (restoreFocus) trigger.focus();
-    }
-    function open() {
-      sync(); if (!select.options.length) return;
-      opened = true; listbox.hidden = false; trigger.setAttribute("aria-expanded", "true");
-      activate(activeIndex);
-    }
-    function choose() {
-      const option = select.options[activeIndex]; if (!option) return;
-      select.value = option.value;
-      select.dispatchEvent(new Event("change", { bubbles: true }));
-      close(true);
-    }
-    trigger.addEventListener("click", () => opened ? close() : open());
-    trigger.addEventListener("keydown", event => {
-      if (event.key === "Escape" && opened) { event.preventDefault(); close(); return; }
-      if (event.key === "Tab" && opened) { close(); return; }
-      if (["ArrowDown", "ArrowUp", "Home", "End"].includes(event.key)) {
-        event.preventDefault();
-        if (!opened) open();
-        else if (event.key === "ArrowDown") activate(activeIndex + 1);
-        else if (event.key === "ArrowUp") activate(activeIndex - 1);
-        else if (event.key === "Home") activate(0);
-        else activate(select.options.length - 1);
-        return;
-      }
-      if ((event.key === "Enter" || event.key === " ") && opened) { event.preventDefault(); choose(); return; }
-      if (event.key.length === 1 && !event.ctrlKey && !event.metaKey && !event.altKey) {
-        typeAhead += event.key.toLocaleLowerCase();
-        const match = [...select.options].findIndex(option => option.textContent.trim().toLocaleLowerCase().startsWith(typeAhead));
-        if (match >= 0) { if (!opened) open(); activate(match); event.preventDefault(); }
-        clearTimeout(typeAheadTimer); typeAheadTimer = setTimeout(() => { typeAhead = ""; }, 700);
-      }
+  /* All five filters are the shared UI.mountFaSelect component (options
+     as JS objects — no native <select> anywhere on this page). Category,
+     Sort and Type mount now (static options); Year and Genre mount below,
+     once their option lists are built from the pool. */
+  const filterHosts = main.querySelector("#chipHost").querySelectorAll(".filter-select");
+  const catDd = UI.mountFaSelect(filterHosts[0],
+    FILTERS.map(([value, label]) => ({ value, label })),
+    f, (v) => setFilter(v));
+  const sortDd = UI.mountFaSelect(filterHosts[2],
+    [{ value: "recent", label: "Newest first" }, { value: "popular", label: "Most Popular" }],
+    sort, (v) => { sort = v; UI.setParam("s", sort === "recent" ? "" : "popular"); render(); });
+  const typeDd = UI.mountFaSelect(filterHosts[4],
+    [{ value: "movie", label: "Movies" }, { value: "tv", label: "TV Series" }, { value: "all", label: "All" }],
+    t, (v) => {
+      t = ["movie", "tv", "all"].includes(v) ? v : "movie";
+      UI.setParam("t", t === "movie" ? "" : t);
+      render();
     });
-    listbox.addEventListener("click", event => {
-      const option = event.target.closest('[role="option"]'); if (!option) return;
-      activeIndex = Number(option.dataset.index); choose();
-    });
-    select.addEventListener("change", sync);
-    document.addEventListener("pointerdown", event => { if (opened && !host.contains(event.target)) close(); });
-    sync();
-    return { sync };
-  }
-  const sortMenu = mountSelectMenu(sortSel);
-  const genreMenu = mountSelectMenu(genreSel);
-  const typeMenu = mountSelectMenu(typeSel);
-  const moreFilterMenu = moreFilterSel ? mountSelectMenu(moreFilterSel) : null;
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Entries carry a baked `industry` (bollywood | pakistani | world)
@@ -182,28 +118,23 @@
      genre select from the pool so the filter works (audit fix: the select
      used to stay at "All Genres" and any ?g= was cleared as stale). */
   const genreList = [...new Set(pool.flatMap(x => Array.isArray(x.genres) ? x.genres : []))].sort((a, b) => a.localeCompare(b));
-  genreList.forEach(gName => {
-    const opt = document.createElement("option");
-    opt.value = gName; opt.textContent = gName;
-    genreSel.appendChild(opt);
-  });
   if (g && !genreList.includes(g)) g = ""; /* unknown genre param -> All */
-  genreSel.value = g;
-  genreMenu.sync();
+  const genreDd = UI.mountFaSelect(filterHosts[3],
+    [{ value: "", label: "All Genres" }, ...genreList.map(gName => ({ value: gName, label: gName }))],
+    g, (v) => { g = v; UI.setParam("g", g); render(); });
 
   /* Year dropdown: one option per year present in the released pool,
      default = latest year. A custom .fa-select (in-page panel, never the
      Android popup a native <select> becomes) — the same component as
      Sort / Genre on this page. */
-  const yearSel = main.querySelector("#yearSel");
-  years.forEach(yr => {
-    const opt = document.createElement("option");
-    opt.value = yr; opt.textContent = yr;
-    yearSel.appendChild(opt);
-  });
-  yearSel.value = y;
-  const yearMenu = mountSelectMenu(yearSel);
-  yearMenu.sync();
+  const yearDd = UI.mountFaSelect(filterHosts[1],
+    years.map(yr => ({ value: String(yr), label: String(yr) })),
+    y, (v) => {
+      y = v;
+      if (!years.includes(y)) y = years[0] || "";
+      UI.setParam("y", y === (years[0] || "") ? "" : y);
+      render();
+    });
 
   function render() {
     const items = pool.filter(x => {
@@ -236,68 +167,33 @@
         : "No titles have been published yet.", false);
   }
 
-  const chipHost = main.querySelector("#chipHost");
-  const mainFilterHost = main.querySelector('[data-filter-scope="main"]');
-  function syncSeeAllFilters() {
-    if (!seeAllEntry) return;
-    moreFilterSel.value = MORE_FILTERS.some(([key]) => key === f) ? f : "";
-    moreFilterMenu.sync();
-    mainFilterHost.querySelectorAll("[data-f]").forEach(link => {
-      const active = link.dataset.f === f;
-      link.classList.toggle("on", active);
-      if (active) link.setAttribute("aria-current", "page"); else link.removeAttribute("aria-current");
-    });
-  }
-  function setSeeAllFilter(key) {
+  /* setFilter: the single Category dropdown covers every f value
+     (Bollywood / World Cinema / All / US Films / Lollywood / Top Rated),
+     so no separate industry chips are needed any more. */
+  function setFilter(key) {
     f = FILTERS.some(([candidate]) => candidate === key) ? key : "bollywood";
     UI.setParam("f", f === "bollywood" ? "" : f);
-    syncSeeAllFilters();
     render();
   }
-  if (seeAllEntry) {
-    mainFilterHost.querySelectorAll("a[data-f]").forEach(link => link.addEventListener("click", event => {
-      if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-      event.preventDefault();
-      setSeeAllFilter(link.dataset.f);
-    }));
-    moreFilterSel.addEventListener("change", () => setSeeAllFilter(moreFilterSel.value || "bollywood"));
-    syncSeeAllFilters();
-  } else {
-    UI.wireChips(chipHost, (key) => { f = key; render(); }, "bollywood");
-  }
-  sortSel.addEventListener("change", () => { sort = sortSel.value; UI.setParam("s", sort === "recent" ? "" : "popular"); render(); });
-  typeSel.addEventListener("change", () => {
-    t = ["movie", "tv", "all"].includes(typeSel.value) ? typeSel.value : "movie";
-    UI.setParam("t", t === "movie" ? "" : t);
-    render();
-  });
-  genreSel.addEventListener("change", () => {
-    g = genreSel.value;
-    UI.setParam("g", g);
-    render();
-  });
-  yearSel.addEventListener("change", () => {
-    y = yearSel.value;
-    if (!years.includes(y)) y = years[0] || "";
-    UI.setParam("y", y === (years[0] || "") ? "" : y);
-    render();
-  });
   window.addEventListener("popstate", () => {
-    f = UI.getParam("f", "bollywood"); if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
+    f = FILTERS.some(([candidate]) => candidate === UI.getParam("f", "bollywood")) ? UI.getParam("f", "bollywood") : "bollywood";
     g = UI.getParam("g", "");
     if (g && !genreList.includes(g)) g = ""; /* unknown genre -> All */
     sort = UI.getParam("s", "recent"); if (!["popular", "recent"].includes(sort)) sort = "recent";
+    t = UI.getParam("t", "movie"); if (!["movie", "tv", "all"].includes(t)) t = "movie";
     y = UI.getParam("y", "");
     if (!years.includes(y)) y = years[0] || "";
-    t = UI.getParam("t", "movie"); if (!["movie", "tv", "all"].includes(t)) t = "movie";
-    sortSel.value = sort; genreSel.value = g; yearSel.value = y; typeSel.value = t;
-    if (seeAllEntry) syncSeeAllFilters();
-    sortMenu.sync(); genreMenu.sync(); yearMenu.sync(); typeMenu.sync();
+    catDd.setValue(f);
+    sortDd.setValue(sort);
+    typeDd.setValue(t);
+    genreDd.setValue(g);
+    yearDd.setValue(y);
     render();
   });
 
   render();
 })();
+
 
 
 

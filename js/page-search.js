@@ -7,7 +7,9 @@
    calling TMDB. Episode posts ARE searchable — they live in FA_ARTICLES
    (headlines like "Bano Episode 13 — Watch on Geo TV") and appear under
    the News group. All matching is local and instant — no pagination,
-   no loading states. */
+   no loading states. Results carry a .fa-select in-page dropdown
+   (All / Movies / TV / People / News) that shows only one result
+   group at a time — never a native <select> popup. */
 (function () {
   UI.mountChrome("");
   const main = document.getElementById("app");
@@ -135,7 +137,22 @@
     return `<section class="search-group" aria-labelledby="search-${key}"><h2 id="search-${key}">${label} <small>(${rows.length} loaded match${rows.length === 1 ? "" : "es"})</small></h2>${rows.length ? `<div class="search-results">${cards}</div>` : empty}</section>`;
   }
 
-  results.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${categories.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${categories.map(c => section(c[0])).join("")}`;
+  /* Result-type dropdown: All results, or one group (Movies / TV /
+     People / News). The jump nav and the sections below follow it. */
+  let show = "all";
+  results.innerHTML = `<div id="searchFilterHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="searchSelectLabel"><span class="filter-select-label" id="searchSelectLabel">Show</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="searchTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="searchOptions" aria-labelledby="searchSelectLabel searchValue"><span class="fa-select-value" id="searchValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="searchOptions" role="listbox" aria-labelledby="searchSelectLabel" hidden></div></div></div>
+    </div></div><div id="searchGroups"></div>`;
+  const groupsHost = results.querySelector("#searchGroups");
+  function renderResults() {
+    const shown = show === "all" ? categories : categories.filter(([key]) => key === show);
+    groupsHost.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${shown.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${shown.map(c => section(c[0])).join("")}`;
+  }
+  UI.mountFaSelect(results.querySelector("#searchFilterHost .filter-select"),
+    [{ value: "all", label: "All results" }, ...categories.map(([key, label]) => ({ value: key, label }))],
+    show, (v) => { show = v; renderResults(); });
+  renderResults();
 })();
+
 
 

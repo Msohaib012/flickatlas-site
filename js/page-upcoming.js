@@ -1,6 +1,7 @@
-/* FlickAtlas — Release Calendar (§3 calendar-native, §4 chips): movies + TV
-   premieres in ONE dated, month-grouped list. Bollywood and World Cinema
-   are primary industries; format, month and legacy Pakistani scopes remain available.
+/* FlickAtlas — Release Calendar (§3 calendar-native): movies + TV
+   premieres in ONE dated, month-grouped list, with a .fa-select in-page
+   Category dropdown (All · Bollywood · World Cinema · Movies · TV ·
+   This Month · Pakistani) — never a native <select> popup.
    PUBLISHED-ONLY (2026-10-25 rebuild): every release comes from
    window.FA_PUBLISHED entries whose release/air date is in the future —
    TMDB is a data source, not a catalogue, so nothing is fetched live.
@@ -32,20 +33,31 @@
     main.innerHTML = `<div class="wrap">
       <div class="page-hero"><h1>Official Trailers</h1>
         <p>Official trailers for published movies and TV shows — newest first. Open a title to watch its trailer.</p></div>
-      <p class="fcount">${items.length ? `${items.length} trailer${items.length === 1 ? "" : "s"}` : ""}</p>
-      <div id="trWrap">${items.length ? "" : UI.stateMsg("No official trailers have been published yet.", false)}</div>
+      <div id="trFilterHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="trTypeLabel"><span class="filter-select-label" id="trTypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="trTypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="trTypeOptions" aria-labelledby="trTypeLabel trTypeValue"><span class="fa-select-value" id="trTypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="trTypeOptions" role="listbox" aria-labelledby="trTypeLabel" hidden></div></div></div>
+    </div></div>
+      <p class="fcount" id="trCount">${items.length ? `${items.length} trailer${items.length === 1 ? "" : "s"}` : ""}</p>
+      <div id="trWrap"></div>
     </div>`;
     const wrap = main.querySelector("#trWrap");
-    if (items.length) {
-      wrap.innerHTML = `<div class="tl-list">${items.map(x => { const [, mm, dd] = (dateOf(x) || "").split("-"); const detailHref = `/${x.type === "tv" ? "show" : "movie"}?id=${x.id}#official-trailer`; return `
+    const trCount = main.querySelector("#trCount");
+    let show = "all";
+    function renderTrailers() {
+      const list = show === "all" ? items : items.filter(x => x.type === show);
+      trCount.textContent = list.length ? `${list.length} trailer${list.length === 1 ? "" : "s"}` : "";
+      wrap.innerHTML = list.length ? `<div class="tl-list">${list.map(x => { const [, mm, dd] = (dateOf(x) || "").split("-"); const detailHref = `/${x.type === "tv" ? "show" : "movie"}?id=${x.id}#official-trailer`; return `
         <a class="tl-row" href="${detailHref}">
           <span class="tl-date"><b>${dd ? parseInt(dd, 10) : "—"}</b><span>${mm ? MONTHS_S[parseInt(mm, 10) - 1] : ""}</span></span>
           <img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()">
           <span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b>
           <span>${UI.fmtDate(dateOf(x))}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""} · Official trailer</span></span>
           <span class="tag-chip">${UI.esc((x.industry === "world") ? "World Cinema" : UI.industryTag(x))}</span>
-        </a>`; }).join("")}</div>`;
+        </a>`; }).join("")}</div>` : UI.stateMsg("No official trailers have been published yet.", false);
     }
+    UI.mountFaSelect(main.querySelector("#trFilterHost .filter-select"),
+      [{ value: "all", label: "All trailers" }, { value: "movie", label: "Movies" }, { value: "tv", label: "TV Series" }],
+      show, (v) => { show = v; renderTrailers(); });
+    renderTrailers();
     return;
   }
   UI.mountChrome("/upcoming");
@@ -59,7 +71,6 @@
   const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "World Cinema"]];
   const MORE_FILTERS = [["all", "All"], ["movies", "Movies"], ["tv", "TV"], ["month", "This Month"], ["pakistani", "Pakistani"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
-  const seeAllEntry = UI.getParam("seeall", "") === "1";
   let f = UI.getParam("f", "bollywood");
   let sort = UI.getParam("s", "nearest"); if (sort !== "nearest") sort = "nearest";
   if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
@@ -67,91 +78,22 @@
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Upcoming Releases</h1>
       <p>Upcoming movie and TV dates by month; dates may change.</p></div>
-    <div id="chipHost"><div data-filter-scope="main">${UI.chipRow(MAIN_FILTERS, f, "bollywood")}</div>
-      ${seeAllEntry
-        ? `<div class="filter-select listing-custom-filter" role="group" aria-labelledby="upcomingFilterLabel"><span class="filter-select-label" id="upcomingFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="moreFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="moreFilterOptions" aria-labelledby="upcomingFilterLabel moreFilterValue"><span id="moreFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="moreFilterOptions" role="listbox" aria-labelledby="upcomingFilterLabel" hidden></div></div><select class="fsel" id="moreFilterSel" aria-label="Additional upcoming category filter" aria-hidden="true" tabindex="-1" hidden><option value="">Choose a filter</option>${MORE_FILTERS.map(([key, label]) => `<option value="${UI.esc(key)}">${UI.esc(label)}</option>`).join("")}</select></div>`
-        : `<div class="listing-more-filters"><p class="filter-group-label">More categories</p><div data-filter-scope="more">${UI.chipRow(MORE_FILTERS, f, "bollywood")}</div></div>`}</div>
+    <div id="chipHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="upFilterLabel"><span class="filter-select-label" id="upFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="upFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="upFilterOptions" aria-labelledby="upFilterLabel upFilterValue"><span class="fa-select-value" id="upFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="upFilterOptions" role="listbox" aria-labelledby="upFilterLabel" hidden></div></div></div>
+    </div></div>
     <p class="sec-sub">Nearest first · movies and TV premieres</p>
     <p class="fcount" id="fcount"></p>
     <div id="upWrap">${UI.skelCards(8)}</div>
   </div>`;
   const wrap = main.querySelector("#upWrap");
   const fcount = main.querySelector("#fcount");
-  const moreFilterSel = main.querySelector("#moreFilterSel");
-  if (moreFilterSel) moreFilterSel.value = MORE_FILTERS.some(([key]) => key === f) ? f : "";
+  /* The Category dropdown covers every f value (Bollywood / World
+     Cinema / All / Movies / TV / This Month / Pakistani) via the shared
+     UI.mountFaSelect component — no native <select>, no local menu copy. */
   const MONTHS_S = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-
-  function mountFilterMenu(select) {
-    const host = select.closest(".filter-select");
-    const trigger = host.querySelector(".fa-select-trigger");
-    const label = host.querySelector("[id$='Value']");
-    const listbox = host.querySelector('[role="listbox"]');
-    let activeIndex = 0, opened = false, typeAhead = "", typeAheadTimer;
-    function activate(index) {
-      const options = [...listbox.querySelectorAll('[role="option"]')];
-      if (!options.length) return;
-      activeIndex = (index + options.length) % options.length;
-      const active = options[activeIndex];
-      trigger.setAttribute("aria-activedescendant", active.id);
-      options.forEach((option, i) => option.classList.toggle("is-active", i === activeIndex));
-      active.scrollIntoView?.({ block: "nearest" });
-    }
-    function sync() {
-      const options = [...select.options];
-      const selectedIndex = options.findIndex(option => option.value === select.value);
-      activeIndex = selectedIndex >= 0 ? selectedIndex : 0;
-      label.textContent = options[activeIndex]?.textContent || "Choose a filter";
-      listbox.innerHTML = options.map((option, index) => `<div class="fa-select-option" id="${listbox.id}-option-${index}" role="option" aria-selected="${index === activeIndex}" data-index="${index}"><span>${UI.esc(option.textContent)}</span><span class="fa-select-check" aria-hidden="true">✓</span></div>`).join("");
-      if (opened) activate(activeIndex);
-    }
-    function close(restoreFocus = false) {
-      if (!opened) return;
-      opened = false; listbox.hidden = true; trigger.setAttribute("aria-expanded", "false");
-      trigger.removeAttribute("aria-activedescendant");
-      if (restoreFocus) trigger.focus();
-    }
-    function open() {
-      sync(); if (!select.options.length) return;
-      opened = true; listbox.hidden = false; trigger.setAttribute("aria-expanded", "true");
-      activate(activeIndex);
-    }
-    function choose() {
-      const option = select.options[activeIndex]; if (!option) return;
-      select.value = option.value;
-      select.dispatchEvent(new Event("change", { bubbles: true }));
-      close(true);
-    }
-    trigger.addEventListener("click", () => opened ? close() : open());
-    trigger.addEventListener("keydown", event => {
-      if (event.key === "Escape" && opened) { event.preventDefault(); close(); return; }
-      if (event.key === "Tab" && opened) { close(); return; }
-      if (["ArrowDown", "ArrowUp", "Home", "End"].includes(event.key)) {
-        event.preventDefault();
-        if (!opened) open();
-        else if (event.key === "ArrowDown") activate(activeIndex + 1);
-        else if (event.key === "ArrowUp") activate(activeIndex - 1);
-        else if (event.key === "Home") activate(0);
-        else activate(select.options.length - 1);
-        return;
-      }
-      if ((event.key === "Enter" || event.key === " ") && opened) { event.preventDefault(); choose(); return; }
-      if (event.key.length === 1 && !event.ctrlKey && !event.metaKey && !event.altKey) {
-        typeAhead += event.key.toLocaleLowerCase();
-        const match = [...select.options].findIndex(option => option.textContent.trim().toLocaleLowerCase().startsWith(typeAhead));
-        if (match >= 0) { if (!opened) open(); activate(match); event.preventDefault(); }
-        clearTimeout(typeAheadTimer); typeAheadTimer = setTimeout(() => { typeAhead = ""; }, 700);
-      }
-    });
-    listbox.addEventListener("click", event => {
-      const option = event.target.closest('[role="option"]'); if (!option) return;
-      activeIndex = Number(option.dataset.index); choose();
-    });
-    select.addEventListener("change", sync);
-    document.addEventListener("pointerdown", event => { if (opened && !host.contains(event.target)) close(); });
-    sync();
-    return { sync };
-  }
-  const moreFilterMenu = moreFilterSel ? mountFilterMenu(moreFilterSel) : null;
+  const catDd = UI.mountFaSelect(main.querySelector("#chipHost .filter-select"),
+    FILTERS.map(([value, label]) => ({ value, label })),
+    f, (v) => setFilter(v));
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Upcoming = entries whose release/air date is in the future.
@@ -209,42 +151,19 @@
     }
     wrap.innerHTML = html || UI.stateMsg("No upcoming releases have been published yet.", false);
   }
-  const chipHost = main.querySelector("#chipHost");
-  const mainFilterHost = main.querySelector('[data-filter-scope="main"]');
-  function syncSeeAllFilters() {
-    if (!seeAllEntry) return;
-    moreFilterSel.value = MORE_FILTERS.some(([key]) => key === f) ? f : "";
-    moreFilterMenu.sync();
-    mainFilterHost.querySelectorAll("[data-f]").forEach(link => {
-      const active = link.dataset.f === f;
-      link.classList.toggle("on", active);
-      if (active) link.setAttribute("aria-current", "page"); else link.removeAttribute("aria-current");
-    });
-  }
-  function setSeeAllFilter(key) {
+  function setFilter(key) {
     f = FILTERS.some(([candidate]) => candidate === key) ? key : "bollywood";
     UI.setParam("f", f === "bollywood" ? "" : f);
-    syncSeeAllFilters();
     render();
-  }
-  if (seeAllEntry) {
-    mainFilterHost.querySelectorAll("a[data-f]").forEach(link => link.addEventListener("click", event => {
-      if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-      event.preventDefault();
-      setSeeAllFilter(link.dataset.f);
-    }));
-    moreFilterSel.addEventListener("change", () => setSeeAllFilter(moreFilterSel.value || "bollywood"));
-    syncSeeAllFilters();
-  } else {
-    UI.wireChips(chipHost, (key) => { f = key; render(); }, "bollywood");
   }
   window.addEventListener("popstate", () => {
     f = UI.getParam("f", "bollywood"); if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
     sort = UI.getParam("s", "nearest"); if (sort !== "nearest") sort = "nearest";
-    if (seeAllEntry) syncSeeAllFilters();
+    catDd.setValue(f);
     render();
   });
 
   render();
 })();
+
 

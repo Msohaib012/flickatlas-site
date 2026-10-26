@@ -11,7 +11,9 @@
    Totals are India-net sums of the reported day-wise rows. Figures are
    displayed with UI.fmtMoney (USD stored, converted at display time in
    the visitor's chosen currency); club membership is tested in ₹ crore
-   (USD x 94.65 / 1e7), the same rate as FA_RATES. */
+   (USD x 94.65 / 1e7), the same rate as FA_RATES. The page carries a
+   .fa-select in-page Section dropdown (All / one club or top list) —
+   never a native <select> popup. */
 (async function () {
   UI.mountChrome("/box-office/milestones");
   const main = document.getElementById("app");
@@ -105,12 +107,32 @@
       <div class="tl-list">${list.map((s, i) => rowHtml(s, s[top.key], i + 1)).join("")}</div></div>`;
   };
 
-  const sections = [...CLUBS.map(clubSection), ...TOPS.map(topSection)].filter(Boolean).join("");
+  /* One entry per rendered section (club or top list); the dropdown
+     shows All, or one section at a time. */
+  const sectionEntries = [
+    ...CLUBS.map(c => ({ key: `club-${c.crore}`, label: c.title, html: clubSection(c) })),
+    ...TOPS.map(t => ({ key: `top-${t.key}`, label: t.title, html: topSection(t) }))
+  ].filter(x => x.html);
+  let section = "all";
   main.innerHTML = `<div class="wrap bo-dashboard">
     <header class="page-hero bo-intro"><p class="bo-key">Box office records</p><h1>Box Office Milestones</h1>
       <p>Indian movies crossing 100, 300, 500 and 1000 crore, and the biggest Day 1, first-weekend, Week 1 and Month 1 collections — from FlickAtlas day-wise box office records. Tap a movie for its full day-wise detail.</p>
       <p><a href="/box-office">&larr; Back to Box Office</a></p></header>
-    ${sections || `<p style="color:var(--muted)">No milestone data yet — day-wise collections are still being recorded. Check back soon.</p>`}
+    <div id="msFilterHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="msSectionLabel"><span class="filter-select-label" id="msSectionLabel">Section</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="msSectionTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="msSectionOptions" aria-labelledby="msSectionLabel msSectionValue"><span class="fa-select-value" id="msSectionValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="msSectionOptions" role="listbox" aria-labelledby="msSectionLabel" hidden></div></div></div>
+    </div></div>
+    <div id="msSections"></div>
     ${UI.rateNote()}
   </div>`;
+  const sectionsHost = document.getElementById("msSections");
+  function renderSections() {
+    const list = section === "all" ? sectionEntries : sectionEntries.filter(x => x.key === section);
+    sectionsHost.innerHTML = list.length ? list.map(x => x.html).join("")
+      : `<p style="color:var(--muted)">No milestone data yet — day-wise collections are still being recorded. Check back soon.</p>`;
+  }
+  UI.mountFaSelect(document.querySelector("#msFilterHost .filter-select"),
+    [{ value: "all", label: "All sections" }, ...sectionEntries.map(x => ({ value: x.key, label: x.label }))],
+    section, (v) => { section = v; renderSections(); });
+  renderSections();
 })();
+

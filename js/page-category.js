@@ -6,7 +6,8 @@
    viral international only. Legacy params map: lollywood → pakistani,
    hollywood/international → world (old kdrama links fall back to bollywood).
    Follows the page-movies.js / page-tv.js pattern (same poster cards,
-   same All/Movies/TV chips, same recency sort). */
+   same recency sort). The Type filter is a .fa-select in-page dropdown
+   (All / Movies / TV Shows) — never a native <select> popup. */
 (async function () {
   const CATS = {
     bollywood: { label: "Bollywood", desc: "Hindi cinema — the biggest stars, openings and collections." },
@@ -34,7 +35,9 @@
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>${UI.esc(info.label)}</h1>
       <p>${UI.esc(info.desc)}</p></div>
-    <div id="chipHost">${UI.chipRow(TYPE_FILTERS, t)}</div>
+    <div id="chipHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="typeSelectLabel"><span class="filter-select-label" id="typeSelectLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="typeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="typeOptions" aria-labelledby="typeSelectLabel typeValue"><span class="fa-select-value" id="typeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="typeOptions" role="listbox" aria-labelledby="typeSelectLabel" hidden></div></div></div>
+    </div></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading titles…</p>
     <div class="grid" id="grid">${UI.skelCards(12)}</div>
     <div id="emptyHost"></div>
@@ -89,50 +92,27 @@
         : `No ${info.label} titles have been published yet.`, false);
   }
 
-  /* Audit fix: UI.wireChips is hardcoded to the `f` param, but this page's
-     filter is `t`. Using it wrote BOTH ?f= and ?t= to the URL, made
-     middle-click / new-tab open ?f= (ignored on load, so the filter showed
-     "All"), and pushed a spurious history entry on back-button (wireChips'
-     popstate handler calls setParam, which pushStates). Local wiring keeps
-     everything on `t`, including the chip hrefs. */
+  /* Type filter is a .fa-select in-page dropdown (All / Movies / TV
+     Shows). Everything stays on the `t` param — no `f` param is written,
+     so back-button and new-tab links behave (the old chip wiring wrote
+     both ?f= and ?t=). */
   const chipHost = main.querySelector("#chipHost");
-  const markTypeChips = (key) => {
-    chipHost.querySelectorAll("[data-f]").forEach(x => {
-      const active = x.dataset.f === key;
-      x.classList.toggle("on", active);
-      if (active) x.setAttribute("aria-current", "page"); else x.removeAttribute("aria-current");
+  const typeDd = UI.mountFaSelect(chipHost.querySelector(".filter-select"),
+    TYPE_FILTERS.map(([value, label]) => ({ value, label: label === "TV Shows" ? "TV Shows" : label })),
+    t, (v) => {
+      t = v;
+      UI.setParam("t", t === "all" ? "" : t);
+      render();
     });
-  };
-  const syncTypeChipHrefs = () => {
-    chipHost.querySelectorAll("[data-f]").forEach(a => {
-      const u = new URL(a.getAttribute("href") || location.href, location.href);
-      const key = a.dataset.f;
-      if (key === "all") u.searchParams.delete("t"); else u.searchParams.set("t", key);
-      u.searchParams.delete("f");
-      a.setAttribute("href", u.pathname + u.search + u.hash);
-    });
-  };
-  chipHost.querySelectorAll("[data-f]").forEach(b => b.addEventListener("click", event => {
-    if (event.button > 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-    event.preventDefault();
-    t = b.dataset.f;
-    const u = new URL(location.href);
-    if (t === "all") u.searchParams.delete("t"); else u.searchParams.set("t", t);
-    u.searchParams.delete("f");
-    history.pushState(null, "", u);
-    syncTypeChipHrefs();
-    markTypeChips(t);
-    render();
-  }));
   window.addEventListener("popstate", () => {
     t = UI.getParam("t", "all");
     if (!TYPE_FILTERS.some(([k]) => k === t)) t = "all";
-    markTypeChips(t);
+    typeDd.setValue(t);
     render();
   });
-  syncTypeChipHrefs();
 
   render();
 })();
+
 
 

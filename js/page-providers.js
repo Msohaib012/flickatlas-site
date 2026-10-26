@@ -7,7 +7,9 @@
    built them from live TMDB popular-title lists, a catalogue leak that
    also featured an unpublished popular movie. Names only, never links,
    never "watch now" buttons, and no availability is claimed for a
-   specific title. At most ONE featured title card. */
+   specific title. At most ONE featured title card. The region cards
+   carry a .fa-select in-page Region dropdown (All / one country) —
+   never a native <select> popup. */
 (async function () {
   UI.mountChrome("/where-to-watch");
   const main = document.getElementById("app");
@@ -64,17 +66,31 @@
         <div class="grid">${UI.posterCard(featured, featured.type === "tv" ? "tv" : "movie", UI.industryTag(featured))}</div>
         ${lines.length ? `<dl class="facts-table">${lines.map(([region, text]) => `<div class="fact-row"><dt>${UI.esc(region)}</dt><dd>${UI.esc(text)}</dd></div>`).join("")}</dl>` : `<p class="prov-note">No provider listings reported for this title right now.</p>`}
       </div>`;
-    const regionHtml = REGIONS.map(([code, label]) => {
+    const regionCard = ([code, label]) => {
       const names = [...(byRegion.get(code) || [])].sort();
       return `<div class="content-card"><h2>${UI.esc(label)}</h2>
         ${names.length ? `<p>${names.map(n => UI.esc(n)).join(" · ")}</p>
         <p class="prov-note">Providers seen across published titles in ${UI.esc(label)} — stream, rent and buy. A provider listed here does not mean every title is available on it.</p>`
         : `<p class="prov-note">No provider listings reported for ${UI.esc(label)} from the published titles.</p>`}
       </div>`;
-    }).join("");
-    host.innerHTML = featuredHtml + regionHtml +
+    };
+    let region = "all";
+    host.innerHTML = featuredHtml +
+      `<div id="wtwFilterHost"><div class="listing-select-row listing-select-row--single">
+      <div class="filter-select" role="group" aria-labelledby="wtwRegionLabel"><span class="filter-select-label" id="wtwRegionLabel">Region</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="wtwRegionTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="wtwRegionOptions" aria-labelledby="wtwRegionLabel wtwRegionValue"><span class="fa-select-value" id="wtwRegionValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="wtwRegionOptions" role="listbox" aria-labelledby="wtwRegionLabel" hidden></div></div></div>
+    </div></div><div id="wtwRegions"></div>` +
       `<p class="prov-note">FlickAtlas does not stream video and does not link to any platform. Provider names come from TMDB watch/providers data for published titles only; availability is per-title and changes over time.</p>`;
+    const regionsHost = host.querySelector("#wtwRegions");
+    function renderRegions() {
+      const list = region === "all" ? REGIONS : REGIONS.filter(([code]) => code === region);
+      regionsHost.innerHTML = list.map(regionCard).join("");
+    }
+    UI.mountFaSelect(host.querySelector("#wtwFilterHost .filter-select"),
+      [{ value: "all", label: "All regions" }, ...REGIONS.map(([code, label]) => ({ value: code, label }))],
+      region, (v) => { region = v; renderRegions(); });
+    renderRegions();
   } catch (e) {
     host.innerHTML = UI.stateMsg("Provider information could not be loaded. Please try again.");
   }
 })();
+

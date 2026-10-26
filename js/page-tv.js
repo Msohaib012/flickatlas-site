@@ -1,6 +1,8 @@
-/* FlickAtlas — TV & Web Series hub with §4 filter chips: All (mixed) ·
-   Bollywood · World Cinema · US Films · Lollywood · This Year · Top Rated +
-   a Genre select. Chips are ?f= URL-param filters over the loaded pool.
+/* FlickAtlas — TV & Web Series hub with .fa-select in-page dropdowns:
+   Category (All · Bollywood · World Cinema · US Films · Lollywood ·
+   This Year · Top Rated) + Genre. Dropdowns are ?f= / ?g= URL-param
+   filters over the loaded pool — never a native <select> (Android
+   renders it as a modal popup).
    PUBLISHED-ONLY (2026-10-25 rebuild): every show comes from
    window.FA_PUBLISHED — TMDB is a data source, not a catalogue, so
    nothing is fetched live. K-Drama filter REMOVED (spec §6). Published
@@ -25,9 +27,11 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>TV Shows</h1>
-      <p>Filter TV series by genre; open a show for cast and episode details.</p></div>
-    <div id="chipHost">${UI.chipRow(FILTERS, f)}
-      <div class="listing-select-row listing-select-row--single"><label class="filter-select"><span>Genre</span><select class="fsel" id="genreSel" aria-label="Filter by genre"><option value="">All Genres</option></select></label></div></div>
+      <p>Filter TV series by category or genre; open a show for cast and episode details.</p></div>
+    <div id="chipHost"><div class="listing-select-row">
+      <div class="filter-select" role="group" aria-labelledby="catSelectLabel"><span class="filter-select-label" id="catSelectLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="catTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="catOptions" aria-labelledby="catSelectLabel catValue"><span class="fa-select-value" id="catValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="catOptions" role="listbox" aria-labelledby="catSelectLabel" hidden></div></div></div>
+      <div class="filter-select" role="group" aria-labelledby="genreSelectLabel"><span class="filter-select-label" id="genreSelectLabel">Genre</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="genreTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="genreOptions" aria-labelledby="genreSelectLabel genreValue"><span class="fa-select-value" id="genreValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="genreOptions" role="listbox" aria-labelledby="genreSelectLabel" hidden></div></div></div>
+    </div></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading shows…</p>
     <div class="grid" id="grid">${UI.skelCards(12)}</div>
     <div id="emptyHost"></div>
@@ -35,8 +39,6 @@
   const grid = main.querySelector("#grid");
   const fcount = main.querySelector("#fcount");
   const emptyHost = main.querySelector("#emptyHost");
-  const genreSel = main.querySelector("#genreSel");
-  if (g) genreSel.value = g;
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Entries carry a baked `industry` (bollywood | pakistani | world)
@@ -71,13 +73,14 @@
      genre select from the pool so the filter works (audit fix: the select
      used to stay at "All Genres" and any ?g= was cleared as stale). */
   const genreList = [...new Set(pool.flatMap(x => Array.isArray(x.genres) ? x.genres : []))].sort((a, b) => a.localeCompare(b));
-  genreList.forEach(gName => {
-    const opt = document.createElement("option");
-    opt.value = gName; opt.textContent = gName;
-    genreSel.appendChild(opt);
-  });
   if (g && !genreList.includes(g)) g = ""; /* unknown genre param -> All */
-  genreSel.value = g;
+  const chipHost = main.querySelector("#chipHost");
+  const catDd = UI.mountFaSelect(chipHost.querySelectorAll(".filter-select")[0],
+    FILTERS.map(([value, label]) => ({ value, label })),
+    f, (v) => { f = v; UI.setParam("f", f === "all" ? "" : f); render(); });
+  const genreDd = UI.mountFaSelect(chipHost.querySelectorAll(".filter-select")[1],
+    [{ value: "", label: "All Genres" }, ...genreList.map(gName => ({ value: gName, label: gName }))],
+    g, (v) => { g = v; UI.setParam("g", g); render(); });
 
   function render() {
     const year = String(new Date().getFullYear());
@@ -103,22 +106,20 @@
         : "No shows have been published yet.", false);
   }
 
-  UI.wireChips(main.querySelector("#chipHost"), (key) => { f = key; render(); });
-  genreSel.addEventListener("change", () => {
-    g = genreSel.value;
-    UI.setParam("g", g);
-    render();
-  });
-  /* Genre is independent of the category chips; browser history restores both. */
+  /* Category and genre are independent dropdowns; browser history restores both. */
   window.addEventListener("popstate", () => {
+    f = UI.getParam("f", "all");
+    if (!FILTERS.some(([k]) => k === f)) f = "all";
     g = UI.getParam("g", "");
     if (g && !genreList.includes(g)) g = ""; /* unknown genre -> All */
-    genreSel.value = g;
+    catDd.setValue(f);
+    genreDd.setValue(g);
     render();
   });
 
   render();
 })();
+
 
 
 
