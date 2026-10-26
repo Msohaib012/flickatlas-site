@@ -4999,5 +4999,193 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 16:38:33 GMT"
+  },
+  "fojdjl": {
+    "id": "fojdjl",
+    "type": "news",
+    "headline": "Bano Episode 14 — Watch on Geo TV",
+    "dek": "Bano episode 14 aired on 2026-10-26 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 14 aired on 2026-10-26 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=M47Qhiy9uBc"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 14 aired on 2026-10-26.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=M47Qhiy9uBc",
+      "YouTube views: 464,818."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/M47Qhiy9uBc/hqdefault.jpg",
+        "caption": "Bano Episode 14",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-26T17:00:15Z"
+  },
+  "4z97ka": {
+    "id": "4z97ka",
+    "type": "news",
+    "headline": "Uswah Episode 34 — Watch on Geo TV",
+    "dek": "Uswah episode 34 aired on 2026-10-26 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 34 aired on 2026-10-26 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=eDcvO_Xwd-Y"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 34 aired on 2026-10-26.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=eDcvO_Xwd-Y",
+      "YouTube views: 2,290,913."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/eDcvO_Xwd-Y/hqdefault.jpg",
+        "caption": "Uswah Episode 34",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-26T15:00:37Z"
+  },
+  "rswjqo": {
+    "id": "rswjqo",
+    "type": "news",
+    "headline": "Khushi Episode 44 — Watch on HUM TV",
+    "dek": "Khushi episode 44 aired on 2026-10-26 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 44 aired on 2026-10-26 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=vYpGvoR4onc"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 44 aired on 2026-10-26.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=vYpGvoR4onc",
+      "YouTube views: 791,318."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/vYpGvoR4onc/hqdefault.jpg",
+        "caption": "Khushi Episode 44",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-26T15:00:18Z"
+  },
+  "1kvo9sn": {
+    "id": "1kvo9sn",
+    "type": "news",
+    "headline": "Izzat Episode 37 — Watch on ARY Digital",
+    "dek": "Izzat episode 37 aired on 2026-10-26 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 37 aired on 2026-10-26 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=iU0pJZbBu8M"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 37 aired on 2026-10-26.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=iU0pJZbBu8M",
+      "YouTube views: 15,942."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/iU0pJZbBu8M/hqdefault.jpg",
+        "caption": "Izzat Episode 37",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-26T15:00:11Z"
+  },
+  "3xp57c": {
+    "id": "3xp57c",
+    "type": "news",
+    "headline": "Dastoor Episode 66 — Watch on Green TV",
+    "dek": "Dastoor episode 66 aired on 2026-10-26 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 66 aired on 2026-10-26 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Kprtp5hg2iA"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 66 aired on 2026-10-26.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Kprtp5hg2iA",
+      "YouTube views: 342,681.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Kprtp5hg2iA/hqdefault.jpg",
+        "caption": "Dastoor Episode 66",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-26T14:45:34Z"
   }
 };
