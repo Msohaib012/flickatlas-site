@@ -311,6 +311,60 @@ def extract_story_links(page_url, body):
     return links
 
 
+# ---------------------------------------------------------------- fingerprints
+# Gemini ke fingerprint ka VERBATIM port (scripts/gemini_batch.py se).
+# Queue prune ke liye zaroori hai ke yahan compute hua fingerprint bilkul
+# wahi ho jo gemini_batch.py ne processed.json likhte waqt compute kiya tha
+# — is liye regex, STOP set aur sha256[:20] bilkul same hain, koi "behtari" nahi.
+# Fact fingerprint: leading entity + day + rupee amounts + publish date.
+# Do differently-worded articles about the same film+day+amount match;
+# a different day or a different amount does NOT match (it is an update).
+RUPEE_RE = re.compile(
+    r"(?:rs\.?|inr|₹)\s*([\d,]+(?:\.\d+)?)\s*(crore|cr|lakh|million)?",
+    re.IGNORECASE)
+DAY_RE = re.compile(r"\bday\s*(\d+)\b", re.IGNORECASE)
+STOP = set("the a an and or of to in on for with after amid at by from as is "
+           "are was were be been has have had will would its it this that "
+           "box office collection collections earns earned nets net gross "
+           "day india worldwide total".split())
+
+
+def norm_words(text):
+    t = re.sub(r"[^a-z0-9 ]", " ", (text or "").lower())
+    return {w for w in t.split() if w not in STOP and len(w) > 1}
+
+
+def _norm_unit(unit):
+    """'cr' and 'crore' are the same unit; normalise so differently-worded
+    titles about the same amount share one fingerprint."""
+    u = (unit or "").lower()
+    if u in ("cr", "crore"):
+        return "crore"
+    return u
+
+
+def fingerprint(item):
+    """Fact fingerprint: leading entity + day + rupee amounts + publish date.
+    Two differently-worded articles about the same film+day+amount match;
+    a different day or a different amount does NOT match (it is an update).
+    The full wording is deliberately NOT in the fingerprint — the script
+    matches facts, not prose."""
+    title = item.get("title") or ""
+    # leading entity: the first 2 capitalised words (usually the film/person
+    # name, which titles lead with). Falls back to the first 2 content words.
+    caps = [w.lower() for w in re.findall(r"[A-Za-z0-9][\w'\-]*", title)
+            if w[0].isupper() or any(c.isdigit() for c in w)]
+    entity = ",".join(caps[:2]) if caps else ",".join(
+        sorted(norm_words(title))[:2])
+    amounts = sorted({f"{m.group(1)}:{_norm_unit(m.group(2))}"
+                      for m in RUPEE_RE.finditer(title)})
+    days = sorted({m.group(1) for m in DAY_RE.finditer(title)})
+    pub = (item.get("published") or "")[:10]
+    key = "|".join([entity, ",".join(days), ",".join(amounts), pub])
+    import hashlib
+    return hashlib.sha256(key.encode("utf-8")).hexdigest()[:20]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--registry", required=True)
@@ -328,6 +382,23 @@ def main():
 
     os.makedirs(args.out, exist_ok=True)
     os.makedirs(os.path.join(args.out, "categories"), exist_ok=True)
+    # Queue prune ke liye processed.json load karo: Gemini ne jo stories
+    # pehle hi process kar li hain (published / quality-rejected /
+    # duplicate), wo queue se hata di jayengi taake queue sirf PENDING
+    # stories dikhaye. processed.json ki keys fingerprints hain, values
+    # me url hai — dono se match karo (fingerprint + url). File na mile
+    # ya kharab ho to dono sets khaali — fetch kabhi crash nahi karega.
+    processed_path = os.path.join(args.out, "processed.json")
+    try:
+        with open(processed_path, encoding="utf-8") as f:
+            processed = json.load(f)
+    except Exception:
+        processed = {}
+    if not isinstance(processed, dict):
+        processed = {}
+    processed_fps = set(processed.keys())
+    processed_urls = {rec.get("url") for rec in processed.values()
+                      if isinstance(rec, dict) and rec.get("url")}
     seen_path = os.path.join(args.out, "seen.json")
     state_path = os.path.join(args.out, "state.json")
     seen = json.load(open(seen_path, encoding="utf-8")) if os.path.exists(seen_path) else {}
@@ -564,6 +635,26 @@ def main():
                 duplicates.append(dup)
     queue = representatives
 
+    # --- Queue prune: already-processed stories hatao ---
+    # CLUSTERING KE BAAD, representative level par. Representative ka
+    # fingerprint processed.json me ho YA us ka URL processed me ho to
+    # poora cluster queue se nikal jata hai (cluster ke baaki members
+    # duplicates.json me rehte hain — sirf queue chhota hota hai).
+    # stories.json / duplicates.json / report.json ke stories-duplicates
+    # counts NAHI badalte (wo upar clusters se ban chuke hain); sirf
+    # queue.json + per-category files + report.json ka queue_total
+    # pruned queue dikhate hain — queue count = pending count.
+    pruned = 0
+    if processed_fps or processed_urls:
+        kept = []
+        for rep in queue:
+            if fingerprint(rep) in processed_fps or rep.get("url") in processed_urls:
+                pruned += 1
+                continue
+            kept.append(rep)
+        queue = kept
+    print(f"pruned {pruned} already-processed stories from queue")
+
     by_cat = {name: [] for name, _ in CATEGORIES}
     for q in queue:
         by_cat[q["category"]].append(q)
@@ -609,3 +700,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
