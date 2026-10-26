@@ -27,12 +27,15 @@ DETECTION (spike-proven 2026-10-26):
     q="Episode" + videoDuration=long + order=date) returns the full
     episodes; filter to the official channelId (excludes reuploads),
     confirm duration >= 20 min + read viewCount via videos.list.
-  - The 7 official full-episode channels (verified via videos.list
-    channelId; PK 2026-10-26, IN/BD 2026-10-26):
+  - The 4 official full-episode channels (verified via videos.list
+    channelId; PK 2026-10-26):
       HUM TV               UCEeEQxm6qc_qaTE7qTV5aLQ  (TMDB network 1204)
       ARY Digital HD       UC4JCksJF76g_MdzPVBJoC3Q  (TMDB network 815)
       HAR PAL GEO          UCe9JSDmyqNgA_l2BzGHq1Ug  (TMDB networks 751/1843)
       Green TV Entertainment UCF2ltLX1dnPa6-L1paPaMzw (TMDB network 7134)
+    DISABLED 2026-10-26 (user's bar: official channels whose episodes
+    regularly pass 1M views — all three were far below it: StarPlus
+    42-8,085, StarPlus Classics 10-16,332, Rtv 597-39,225):
       StarPlus (IN)        UC-LPIU24bQXVljUXivKEeRQ  (Hindi classics)
       StarPlus Classics (IN) UC-0Rh4XQdw2jV8N7rqDJj0Q (Hindi classics)
       Rtv Drama Serial (BD) UCLRgwoSpvgFGuzMeSzWG6xQ (Bengali serials)
@@ -92,6 +95,11 @@ MIN_FULL_EPISODE_SEC = 20 * 60  # PK full episodes are 35-45 min; clips < 15
 # their floor is 15 min (clips are still < 15 min on every channel).
 # PK keeps the 20-min floor — its detection is untouched.
 MIN_FULL_EPISODE_SEC_INTL = 15 * 60
+# Minimum views for a NON-Pakistani channel's episode to be posted
+# (user's bar, 2026-10-26): only official verified channels whose
+# episodes regularly pass 1M views. PK channels are exempt — their
+# episodes grow to 1M+ over days and the 48h lookback catches them.
+MIN_VIEWS_INTL = 1_000_000
 
 # (display name, YouTube channel id, TMDB network ids, news-feed
 # category, search.list query). Feed category must be one the news feed
@@ -100,14 +108,22 @@ MIN_FULL_EPISODE_SEC_INTL = 15 * 60
 # is the closest existing filter), "international" (everything else —
 # the news page shows it as World Cinema). Search query is per-channel
 # (see docstring): PK "Episode", StarPlus "Full Ep", Rtv "Ep".
+# Intl channels are DISABLED as of 2026-10-26 (below the 1M-view bar);
+# the "bollywood"/"international" categories and per-channel queries
+# stay for any future intl channel that passes MIN_VIEWS_INTL.
 CHANNELS = [
     ("HUM TV", "UCEeEQxm6qc_qaTE7qTV5aLQ", [1204], "pakistan", "Episode"),
     ("ARY Digital", "UC4JCksJF76g_MdzPVBJoC3Q", [815], "pakistan", "Episode"),
     ("Geo TV", "UCe9JSDmyqNgA_l2BzGHq1Ug", [751, 1843], "pakistan", "Episode"),
     ("Green TV", "UCF2ltLX1dnPa6-L1paPaMzw", [7134], "pakistan", "Episode"),
-    ("StarPlus", "UC-LPIU24bQXVljUXivKEeRQ", [], "bollywood", "Full Ep"),
-    ("StarPlus Classics", "UC-0Rh4XQdw2jV8N7rqDJj0Q", [], "bollywood", "Full Ep"),
-    ("Rtv Drama Serial", "UCLRgwoSpvgFGuzMeSzWG6xQ", [], "international", "Ep"),
+    # DISABLED 2026-10-26 — user's bar: only official verified channels
+    # whose episodes regularly pass 1M views. All three were far below
+    # (StarPlus 42-8,085; StarPlus Classics 10-16,332; Rtv 597-39,225),
+    # so their 54 posted episodes were removed from the site the same day.
+    # Re-enable ONLY if the channel's episodes regularly pass MIN_VIEWS_INTL.
+    # ("StarPlus", "UC-LPIU24bQXVljUXivKEeRQ", [], "bollywood", "Full Ep"),
+    # ("StarPlus Classics", "UC-0Rh4XQdw2jV8N7rqDJj0Q", [], "bollywood", "Full Ep"),
+    # ("Rtv Drama Serial", "UCLRgwoSpvgFGuzMeSzWG6xQ", [], "international", "Ep"),
 ]
 CHANNEL_BY_YT_ID = {c[1]: c[0] for c in CHANNELS}
 RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
@@ -743,6 +759,15 @@ def main():
     feed_have = {e.get("id") for e in feed_entries}
     posted = 0
     for ep in new_eps:
+        # Non-PK channels: only post episodes with 1M+ views (see
+        # MIN_VIEWS_INTL). Skipped episodes stay out of `known`, so a
+        # later run posts them once they cross 1M within the lookback.
+        if (ep.get("cats") or ["pakistan"]) != ["pakistan"] and \
+                (ep.get("views") or 0) < MIN_VIEWS_INTL:
+            print(f"  skip (intl below 1M views): {ep['drama']} "
+                  f"Ep {ep['episode']} ({ep['channel']}, "
+                  f"{ep.get('views', 0):,} views)")
+            continue
         enrich_from_tmdb(tmdb_key, ep, pool)
         art = build_article(ep)
         aid = art["id"]
