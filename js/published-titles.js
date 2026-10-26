@@ -38,7 +38,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 16+",
     "release_date": "2026-10-16",
-    "runtime": 138
+    "runtime": 138,
+    "providers": []
   },
   "1375156": {
     "id": 1375156,
@@ -76,7 +77,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 13+",
     "release_date": "2026-10-23",
-    "runtime": 137
+    "runtime": 137,
+    "providers": []
   },
   "1400940": {
     "id": 1400940,
@@ -119,7 +121,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "A",
     "release_date": "2026-10-19",
-    "runtime": 109
+    "runtime": 109,
+    "providers": []
   },
   "1058424": {
     "id": 1058424,
@@ -162,7 +165,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "A",
     "release_date": "2026-07-15",
-    "runtime": 157
+    "runtime": 157,
+    "providers": []
   },
   "656908": {
     "id": 656908,
@@ -207,7 +211,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U",
     "release_date": "2026-11-04",
-    "runtime": 195
+    "runtime": 195,
+    "providers": []
   },
   "1389172": {
     "id": 1389172,
@@ -246,7 +251,15 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 13+",
     "release_date": "2026-10-09",
-    "runtime": 116
+    "runtime": 116,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "328722": {
     "id": 328722,
@@ -306,7 +319,8 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Saqib Khan",
       "Umera Ahmed"
-    ]
+    ],
+    "providers": []
   },
   "969681": {
     "id": 969681,
@@ -349,7 +363,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 13+",
     "release_date": "2026-07-29",
-    "runtime": 145
+    "runtime": 145,
+    "providers": []
   },
   "1101412": {
     "id": 1101412,
@@ -392,7 +407,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 13+",
     "release_date": "2026-09-01",
-    "runtime": 98
+    "runtime": 98,
+    "providers": []
   },
   "891621": {
     "id": 891621,
@@ -437,7 +453,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U",
     "release_date": "2026-10-30",
-    "runtime": 117
+    "runtime": 117,
+    "providers": []
   },
   "1453407": {
     "id": 1453407,
@@ -480,7 +497,15 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 16+",
     "release_date": "2026-10-23",
-    "runtime": 124
+    "runtime": 124,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "338286": {
     "id": 338286,
@@ -535,7 +560,8 @@ window.FA_PUBLISHED = {
     ],
     "created_by": [
       "Abu Aleeha"
-    ]
+    ],
+    "providers": []
   },
   "791523": {
     "id": 791523,
@@ -578,7 +604,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "PG-13",
     "release_date": "2026-10-19",
-    "runtime": 132
+    "runtime": 132,
+    "providers": []
   },
   "1562642": {
     "id": 1562642,
@@ -620,7 +647,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 13+",
     "release_date": "2026-11-04",
-    "runtime": 90
+    "runtime": 90,
+    "providers": []
   },
   "336288": {
     "id": 336288,
@@ -679,7 +707,8 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Syed Wajahat Hussain",
       "Faiza Iftikhar"
-    ]
+    ],
+    "providers": []
   },
   "1198654": {
     "id": 1198654,
@@ -722,7 +751,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "R",
     "release_date": "2026-09-10",
-    "runtime": 100
+    "runtime": 100,
+    "providers": []
   },
   "1153576": {
     "id": 1153576,
@@ -766,7 +796,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 16+",
     "release_date": "2026-10-13",
-    "runtime": 120
+    "runtime": 120,
+    "providers": []
   },
   "1003596": {
     "id": 1003596,
@@ -809,7 +840,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "+13",
     "release_date": "2026-12-16",
-    "runtime": 165
+    "runtime": 165,
+    "providers": []
   },
   "1423191": {
     "id": 1423191,
@@ -854,7 +886,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "A",
     "release_date": "2026-09-16",
-    "runtime": 95
+    "runtime": 95,
+    "providers": []
   },
   "1496785": {
     "id": 1496785,
@@ -893,7 +926,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 16+",
     "release_date": "2026-10-30",
-    "runtime": 0
+    "runtime": 0,
+    "providers": []
   },
   "1269325": {
     "id": 1269325,
@@ -937,7 +971,8 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U/A 16+",
     "release_date": "2026-10-02",
-    "runtime": 148
+    "runtime": 148,
+    "providers": []
   },
   "337617": {
     "id": 337617,
@@ -993,7 +1028,8 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Umera Ahmed",
       "Haseeb Hasan"
-    ]
+    ],
+    "providers": []
   },
   "1480856": {
     "id": 1480856,
@@ -1040,6 +1076,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-21",
-    "runtime": 77
+    "runtime": 77,
+    "providers": []
   }
 };

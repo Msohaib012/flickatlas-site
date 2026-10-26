@@ -26,6 +26,21 @@ Record assembly is NOT duplicated here: it reuses scripts/publish-titles.py
 importlib, so the baked entry shape is byte-identical to the existing
 seed titles (no cast/crew arrays — the detail pages fetch credits live).
 
+OTT providers (2026-10-26): every entry also gets a `providers` field
+— the TMDB watch/providers flatrate (streaming) list for the title,
+IN region first, US as fallback. Shape (baked in so the OTT page can
+name platforms without a live call):
+  "providers": [{"name": "Netflix",
+                 "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+                 "region": "IN", "type": "flatrate"}]
+Empty list [] when TMDB has no streaming provider for the title (most
+new/upcoming titles and TV dramas have none — they are in cinemas or
+on TV/YouTube, not on a TMDB-tracked streamer). Enrichment is
+best-effort: one extra API call per title, only the flatrate list is
+kept, and a failure never drops the title (it is written with
+providers []). Existing titles get providers from
+scripts/backfill_providers.py (one-time), not from this seeder.
+
 Rules (selection, in order):
   - skip titles already in FA_PUBLISHED (by TMDB id)
   - skip titles with no poster_path
@@ -164,6 +179,46 @@ def fetch_typed(tid, media_type, key, pt):
     else:
         path = f"/tv/{tid}?append_to_response=videos,content_ratings"
     return pt.tmdb_get(path, key)
+
+
+def fetch_providers(tid, media_type, key):
+    """TMDB watch/providers for one title -> providers list (best-effort).
+
+    GET /{movie|tv}/{id}/watch/providers. IN flatrate (streaming)
+    first, US flatrate as fallback. Each provider is
+    {name, logo_path, region, type}. Only the flatrate list is kept
+    (rent/buy are not streaming, and the OTT page is streaming-only).
+    Returns [] when TMDB has no streaming provider for the title, or
+    on any failure — never raises, so a providers failure can never
+    drop a title from the seeder run."""
+    try:
+        data = tmdb_get(f"/{media_type}/{tid}/watch/providers", key)
+    except Exception as e:
+        print(f"  providers {tid}: request failed ({e})",
+              file=sys.stderr)
+        return []
+    if not data:
+        return []
+    results = data.get("results") or {}
+    for region in ("IN", "US"):
+        entry = results.get(region) or {}
+        flatrate = entry.get("flatrate") or []
+        if not flatrate:
+            continue
+        out = []
+        for p in flatrate:
+            name = (p.get("provider_name") or "").strip()
+            if not name:
+                continue
+            out.append({
+                "name": name,
+                "logo_path": p.get("logo_path") or "",
+                "region": region,
+                "type": "flatrate",
+            })
+        if out:
+            return out
+    return []
 
 
 def parse_date(value):
@@ -316,16 +371,29 @@ def main():
                   "poster/title")
             skipped += 1
             continue
+        # Providers enrichment (best-effort): TMDB watch/providers,
+        # IN first, US fallback. A failure never drops the title —
+        # it is written with providers [].
+        try:
+            entry["providers"] = fetch_providers(tid, found_media, key)
+        except Exception as e:
+            print(f"  providers {tid}: enrichment failed ({e})")
+            entry["providers"] = []
+        prov = ", ".join(p.get("name")
+                         for p in entry["providers"]) or "none"
+        time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s
         if args.dry_run:
             print(f"  would add {tid} ({entry['title']}, "
                   f"{found_media}, {entry['industry']}, from {source}, "
-                  f"trailer {'Y' if entry['trailer'] else 'none'})")
+                  f"trailer {'Y' if entry['trailer'] else 'none'}, "
+                  f"providers {prov})")
             added.append(entry)
             continue
         published[tid] = entry
         print(f"  added {tid} ({entry['title']}, {found_media}, "
               f"{entry['industry']}, from {source}, "
-              f"trailer {'Y' if entry['trailer'] else 'none'})")
+              f"trailer {'Y' if entry['trailer'] else 'none'}, "
+              f"providers {prov})")
         added.append(entry)
         time.sleep(0.3)
 
@@ -342,4 +410,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

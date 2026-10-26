@@ -5,9 +5,11 @@
    FlickAtlasOTT weekly rows, no TMDB streaming discover fallback).
    Exactly ONE featured title is shown (site rule: one item per listing).
    No watch/download buttons; availability is text only, never links.
-   Published entries carry no provider data, so no platform is named
-   here — provider info must be baked into FA_PUBLISHED before this page
-   can list it. */
+   Provider info is baked into FA_PUBLISHED (scripts/title-seed.py
+   enriches every entry with a providers list from the TMDB
+   watch/providers API; scripts/backfill_providers.py filled the
+   existing titles). The featured title names its streaming
+   platforms below, when TMDB reports any. */
 (async function () {
   UI.mountChrome("/ott");
   const main = document.getElementById("app");
@@ -46,6 +48,8 @@
   host.innerHTML = `<div class="grid">${UI.posterCard(featured, type, tagFor(featured))}</div>
     ${featured.overview ? `<div class="content-card"><h2>${UI.esc(UI.titleOf(featured))}</h2>
       <p class="article-summary">${UI.esc(featured.overview.slice(0, 240))}</p>
+      ${(featured.providers && featured.providers.length) ? `<p class="prov-list">Streaming on: ${featured.providers.map(p => UI.esc(p.name)).join(" \u00b7 ")}</p>` : ""}
       <p><a class="btn btn-teal" href="/${type === "tv" ? "show" : "movie"}?id=${featured.id}">Open full details →</a></p></div>` : ""}
     <p class="prov-note">Featured title — the newest published title on FlickAtlas. Platform availability is reported as information only and may change. FlickAtlas does not stream video.</p>`;
 })();
+
