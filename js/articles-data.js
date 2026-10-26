@@ -1767,5 +1767,703 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-26T07:07:50Z"
+  },
+  "16h3tk3": {
+    "id": "16h3tk3",
+    "type": "news",
+    "headline": "Bano Episode 13 — Watch on Geo TV",
+    "dek": "Bano episode 13 aired on 2026-10-25 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 13 aired on 2026-10-25 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Ft8N6fW0NDw"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 13 aired on 2026-10-25.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Ft8N6fW0NDw",
+      "YouTube views: 1,487,225."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Ft8N6fW0NDw/hqdefault.jpg",
+        "caption": "Bano Episode 13",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-25T17:00:35Z"
+  },
+  "2dsql": {
+    "id": "2dsql",
+    "type": "news",
+    "headline": "Zehar Episode 20 — Watch on HUM TV",
+    "dek": "Zehar episode 20 aired on 2026-10-25 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar Episode 20 aired on 2026-10-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=xs7JUFIXfkU"
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar Episode 20 aired on 2026-10-25.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=xs7JUFIXfkU",
+      "YouTube views: 312,790."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/xs7JUFIXfkU/hqdefault.jpg",
+        "caption": "Zehar Episode 20",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-25T17:00:32Z"
+  },
+  "15q9ki2": {
+    "id": "15q9ki2",
+    "type": "news",
+    "headline": "Nashtar Episode 24 — Watch on Geo TV",
+    "dek": "Nashtar episode 24 aired on 2026-10-25 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 24 aired on 2026-10-25 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=N9D72GXB_2Q"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 24 aired on 2026-10-25.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=N9D72GXB_2Q",
+      "YouTube views: 4,307,243.",
+      "TMDB: Nashtar (id 332312)."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/N9D72GXB_2Q/hqdefault.jpg",
+        "caption": "Nashtar Episode 24",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-25T16:00:37Z"
+  },
+  "kr4rln": {
+    "id": "kr4rln",
+    "type": "news",
+    "headline": "Mohabbat Mukhtasir Episode 5 — Watch on HUM TV",
+    "dek": "Mohabbat Mukhtasir episode 5 aired on 2026-10-25 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mohabbat Mukhtasir Episode 5 aired on 2026-10-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Zc_69zANejo"
+        ]
+      }
+    ],
+    "facts": [
+      "Mohabbat Mukhtasir Episode 5 aired on 2026-10-25.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Zc_69zANejo",
+      "YouTube views: 841,702."
+    ],
+    "entities": {
+      "titles": [
+        "Mohabbat Mukhtasir"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Zc_69zANejo/hqdefault.jpg",
+        "caption": "Mohabbat Mukhtasir Episode 5",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-25T16:00:32Z"
+  },
+  "idg5hm": {
+    "id": "idg5hm",
+    "type": "news",
+    "headline": "Izzat Episode 36 — Watch on ARY Digital",
+    "dek": "Izzat episode 36 aired on 2026-10-25 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 36 aired on 2026-10-25 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=0c5lfnA8mLU"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 36 aired on 2026-10-25.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=0c5lfnA8mLU",
+      "YouTube views: 60,112."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/0c5lfnA8mLU/hqdefault.jpg",
+        "caption": "Izzat Episode 36",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-25T15:00:22Z"
+  },
+  "1bsarhy": {
+    "id": "1bsarhy",
+    "type": "news",
+    "headline": "Khushi Episode 43 — Watch on HUM TV",
+    "dek": "Khushi episode 43 aired on 2026-10-25 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 43 aired on 2026-10-25 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=xWes3sjnCTQ"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 43 aired on 2026-10-25.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=xWes3sjnCTQ",
+      "YouTube views: 1,229,578."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/xWes3sjnCTQ/hqdefault.jpg",
+        "caption": "Khushi Episode 43",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-25T15:00:15Z"
+  },
+  "9ojltd": {
+    "id": "9ojltd",
+    "type": "news",
+    "headline": "Uswah Episode 33 — Watch on Geo TV",
+    "dek": "Uswah episode 33 aired on 2026-10-25 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 33 aired on 2026-10-25 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=CnE1PAh7aGA"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 33 aired on 2026-10-25.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=CnE1PAh7aGA",
+      "YouTube views: 3,621,380."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/CnE1PAh7aGA/hqdefault.jpg",
+        "caption": "Uswah Episode 33",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-25T15:00:05Z"
+  },
+  "13utb8c": {
+    "id": "13utb8c",
+    "type": "news",
+    "headline": "Dastoor Episode 65 — Watch on Green TV",
+    "dek": "Dastoor episode 65 aired on 2026-10-25 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 65 aired on 2026-10-25 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=ARMsOqEQFSQ"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 65 aired on 2026-10-25.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=ARMsOqEQFSQ",
+      "YouTube views: 570,880.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ARMsOqEQFSQ/hqdefault.jpg",
+        "caption": "Dastoor Episode 65",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-25T14:45:27Z"
+  },
+  "1an6esq": {
+    "id": "1an6esq",
+    "type": "news",
+    "headline": "Zehar Episode 19 — Watch on HUM TV",
+    "dek": "Zehar episode 19 aired on 2026-10-24 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar Episode 19 aired on 2026-10-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=zivWlTzHTJs"
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar Episode 19 aired on 2026-10-24.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=zivWlTzHTJs",
+      "YouTube views: 526,986."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/zivWlTzHTJs/hqdefault.jpg",
+        "caption": "Zehar Episode 19",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-24T17:00:35Z"
+  },
+  "1apfgqk": {
+    "id": "1apfgqk",
+    "type": "news",
+    "headline": "Bano Episode 12 — Watch on Geo TV",
+    "dek": "Bano episode 12 aired on 2026-10-24 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 12 aired on 2026-10-24 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=DMlPnlj4AC8"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 12 aired on 2026-10-24.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=DMlPnlj4AC8",
+      "YouTube views: 2,782,359."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/DMlPnlj4AC8/hqdefault.jpg",
+        "caption": "Bano Episode 12",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-24T17:00:01Z"
+  },
+  "g3nrlo": {
+    "id": "g3nrlo",
+    "type": "news",
+    "headline": "Nashtar Episode 23 — Watch on Geo TV",
+    "dek": "Nashtar episode 23 aired on 2026-10-24 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 23 aired on 2026-10-24 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=RGY13TU3m9g"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "In this episode of Nashtar, Berira visits a beach community with her family and explores local life, wearing a traditional embroidered cap gifted by the villagers. While there, she encounters Daud, who is watching over the area. Berira remembers how she almost drowned in the sea and reflects on her complex feelings toward Daud, feeling a mix of longing and emotional distance as she recalls her past. \n\nLater, back at home, Berira struggles with her feelings of isolation. Daud intervenes when an intoxicated man wanders into the house and causes a disturbance, angrily confronting the intruder to protect the household's privacy and safety. Meanwhile, conversations among family members highlight the tensions and expectations surrounding Daud’s status and Berira's presence. As night falls, Berira reflects on the realities of her situation, realizing the deep emotional divide between them. The episode ends on a contemplative note as both characters grapple with their unresolved feelings and the stark differences in their worlds."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 23 aired on 2026-10-24.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=RGY13TU3m9g",
+      "YouTube views: 6,970,045.",
+      "TMDB: Nashtar (id 332312).",
+      "Story summary added 2026-10-26."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/RGY13TU3m9g/hqdefault.jpg",
+        "caption": "Nashtar Episode 23",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-24T16:00:30Z"
+  },
+  "1xugstn": {
+    "id": "1xugstn",
+    "type": "news",
+    "headline": "Dar Episode 25 — Watch on ARY Digital",
+    "dek": "Dar episode 25 aired on 2026-10-24 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar Episode 25 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=X6qfF2t9fmQ"
+        ]
+      }
+    ],
+    "facts": [
+      "Dar Episode 25 aired on 2026-10-24.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=X6qfF2t9fmQ",
+      "YouTube views: 4,605,871."
+    ],
+    "entities": {
+      "titles": [
+        "Dar"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/X6qfF2t9fmQ/hqdefault.jpg",
+        "caption": "Dar Episode 25",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-24T16:00:25Z"
+  },
+  "1iubew9": {
+    "id": "1iubew9",
+    "type": "news",
+    "headline": "Aangan Episode 8 — Watch on HUM TV",
+    "dek": "Aangan episode 8 aired on 2026-10-24 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 8 aired on 2026-10-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=TRw-sCeKlT0"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 8 aired on 2026-10-24.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=TRw-sCeKlT0",
+      "YouTube views: 984,112.",
+      "TMDB: Aangan (id 90172)."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Rabia Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/TRw-sCeKlT0/hqdefault.jpg",
+        "caption": "Aangan Episode 8",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-24T16:00:09Z"
+  },
+  "1nvg78": {
+    "id": "1nvg78",
+    "type": "news",
+    "headline": "Khushi Episode 42 — Watch on HUM TV",
+    "dek": "Khushi episode 42 aired on 2026-10-24 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 42 aired on 2026-10-24 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=bd7lGGYIhN8"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 42 aired on 2026-10-24.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=bd7lGGYIhN8",
+      "YouTube views: 1,590,979."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/bd7lGGYIhN8/hqdefault.jpg",
+        "caption": "Khushi Episode 42",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-24T15:00:28Z"
+  },
+  "103djpd": {
+    "id": "103djpd",
+    "type": "news",
+    "headline": "Izzat Episode 35 — Watch on ARY Digital",
+    "dek": "Izzat episode 35 aired on 2026-10-24 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 35 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=9fB47_fsW-0"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 35 aired on 2026-10-24.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=9fB47_fsW-0",
+      "YouTube views: 43,154."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/9fB47_fsW-0/hqdefault.jpg",
+        "caption": "Izzat Episode 35",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-24T15:00:21Z"
+  },
+  "1mur217": {
+    "id": "1mur217",
+    "type": "news",
+    "headline": "Uswah Episode 32 — Watch on Geo TV",
+    "dek": "Uswah episode 32 aired on 2026-10-24 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 32 aired on 2026-10-24 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=iZIdealp0j4"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 32 aired on 2026-10-24.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=iZIdealp0j4",
+      "YouTube views: 5,337,644."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/iZIdealp0j4/hqdefault.jpg",
+        "caption": "Uswah Episode 32",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-24T15:00:15Z"
+  },
+  "43x8iz": {
+    "id": "43x8iz",
+    "type": "news",
+    "headline": "Bulbulay Season 2 Episode 379 — Watch on ARY Digital",
+    "dek": "Bulbulay Season 2 episode 379 aired on 2026-10-24 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bulbulay Season 2 Episode 379 aired on 2026-10-24 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=oSDXI0CmCyQ"
+        ]
+      }
+    ],
+    "facts": [
+      "Bulbulay Season 2 Episode 379 aired on 2026-10-24.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=oSDXI0CmCyQ",
+      "YouTube views: 486,439."
+    ],
+    "entities": {
+      "titles": [
+        "Bulbulay Season 2"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/oSDXI0CmCyQ/hqdefault.jpg",
+        "caption": "Bulbulay Season 2 Episode 379",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-24T14:56:34Z"
+  },
+  "1nfjzft": {
+    "id": "1nfjzft",
+    "type": "news",
+    "headline": "Dastoor Episode 64 — Watch on Green TV",
+    "dek": "Dastoor episode 64 aired on 2026-10-24 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 64 aired on 2026-10-24 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=nwNWjkYic9A"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 64 aired on 2026-10-24.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=nwNWjkYic9A",
+      "YouTube views: 743,388.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/nwNWjkYic9A/hqdefault.jpg",
+        "caption": "Dastoor Episode 64",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-24T14:45:34Z"
   }
 };
