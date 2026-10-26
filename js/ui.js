@@ -22,7 +22,7 @@ const UI = (() => {
   const pageQuery = () => new URLSearchParams(location.search);
   /* Source-aware navigation: bounded URLs, same-origin returns, natural history. */
   const detailPaths = new Set(['/movie','/show','/person','/news-item','/box-office-day']);
-  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/celebrity-today','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms']);
+  const localRoutes = new Set(['/','/movies','/tv','/movie','/show','/person','/search','/category','/news','/news-item','/box-office','/box-office-day','/upcoming','/most-awaited','/trailers','/celebrities','/ott','/episode-guides','/where-to-watch','/airing-today','/awards','/about','/privacy','/contact','/dmca','/terms']);
   const routePath = path => path === '/index.html' ? '/' : path.replace(/\.html$/, '');
   const navigationFallback = () => ({'/movie':'/movies?f=bollywood','/show':'/tv','/person':'/celebrities','/news-item':'/news','/box-office-day':'/box-office'}[routePath(location.pathname)] || '/');
   function safeMovieSource(value) {
@@ -57,7 +57,7 @@ const UI = (() => {
   function movieReturnUrl() { return returnContext().url; }
   function returnLabel(url) {
     const path = routePath(new URL(url, location.origin).pathname);
-    const names = {'/':'Home','/movies':'Movies','/tv':'TV & Web Series','/search':'Search results','/category':'Category','/box-office':'Box Office','/upcoming':'Upcoming releases','/most-awaited':'Most Awaited','/trailers':'Trailers','/celebrities':'Celebrities','/celebrity-today':'Celebrity Today','/news':'News','/ott':'OTT releases','/episode-guides':'Episode guides','/awards':'Awards','/movie':'Movie details','/show':'Show details','/person':'Profile','/box-office-day':'Box Office details'};
+    const names = {'/':'Home','/movies':'Movies','/tv':'TV & Web Series','/search':'Search results','/category':'Category','/box-office':'Box Office','/upcoming':'Upcoming releases','/most-awaited':'Most Awaited','/trailers':'Trailers','/celebrities':'Celebrities','/news':'News','/ott':'OTT releases','/episode-guides':'Episode guides','/awards':'Awards','/movie':'Movie details','/show':'Show details','/person':'Profile','/box-office-day':'Box Office details'};
     return '← ' + (names[path] || 'Back');
   }
   function movieReturnLabel() { return returnLabel(movieReturnUrl()); }
@@ -474,15 +474,6 @@ const UI = (() => {
     return String(name || "?").trim().split(/\s+/).map(w => w[0]).slice(0, 2).join("").toUpperCase() || "?";
   }
 
-  /* Celebrity Today — engine-fed (v2-classified registry feeds, TMDB-
-     verified names; wording slot-composed by the engine). Renders ONLY
-     items that are genuinely fresh (< 24h old) with celebrity/what/when
-     filled; anything else returns "" so the homepage falls back to its
-     honestly-named "Celebrities in Spotlight" rail — stale items are
-     never dressed up as today's news. */
-  /* Celebrity Today items carry no id in the engine export — their stable
-     id is the FNV-1a hash of the source story URL (same scheme as news),
-     computed identically here and on the event page. */
   /* ---------- Box-office PERIODS (correction 8): Today / 7 Days /
      30 Days figures computed ONLY from real engine day-wise rows
      (FA_DAYWISE) — latest row = Today, trailing rows summed for the
@@ -593,39 +584,6 @@ const UI = (() => {
     const trailer = wrap.querySelector("#official-trailer");
     if (trailer && trailer.parentNode === wrap) trailer.insertAdjacentHTML("beforebegin", exploreLinksHtml(links));
     else wrap.insertAdjacentHTML("beforeend", exploreLinksHtml(links));
-  }
-
-  function celebItemId(it) {
-    if (!it) return "";
-    let h = 0x811c9dc5;
-    const s = String(it.source_url || (it.celebrity + "|" + it.when) || "");
-    for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 0x01000193); }
-    return (h >>> 0).toString(36);
-  }
-  function celebHeadline(it) {
-    return `${it.celebrity || ""} ${String(it.what || "").replace(/\s+—\s+/g, " ")}`.trim();
-  }
-  function celebTodaySection(data) {
-    const now = Date.now();
-    const items = ((data && data.items) || []).filter(it => {
-      if (!it || !it.celebrity || !it.what || !it.when) return false;
-      const t = Date.parse(it.when);
-      return !isNaN(t) && t <= now + 3600 * 1000 && (now - t) < 24 * 3600 * 1000;
-    });
-    if (!items.length) return "";
-    items.sort((a, b) => Date.parse(b.when) - Date.parse(a.when)); /* newest first */
-    /* Each item is an EVENT and opens its own event page (§6.6 correction) —
-       never the person's biography page; type must match the label. */
-    const rows = items.slice(0, 8).map(it => `
-      <a class="news-item" href="/celebrity-today?item=${encodeURIComponent(celebItemId(it))}">
-        <span class="news-txt"><b>${esc(celebHeadline(it))}</b>
-        <span>${relTime(Date.parse(it.when))}</span></span>
-      </a>`).join("");
-    return `<section class="section">
-      <div class="section-head"><h2>Celebrity Today</h2>
-      <a class="see-all" href="/celebrity-today">See All →</a></div>
-      <p style="color:var(--muted);margin:-6px 0 14px;max-width:70ch">What the stars are up to right now — appearances, events and announcements, as they happen.</p>
-      <div class="news-list">${rows}</div></section>`;
   }
 
   function posterCard(item, type, tag, rank, extraMeta) {
@@ -776,10 +734,11 @@ const UI = (() => {
 
   return { esc, img, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard,
-    skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, topSearchesHtml, mountTopSearches, dayNumOf, boPeriodData, boPeriodHtml, celebTodaySection,
-    freshCutoff, isFresh, newsId, newsItemPath, celebItemId, celebHeadline,
+    skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, topSearchesHtml, mountTopSearches, dayNumOf, boPeriodData, boPeriodHtml,
+    freshCutoff, isFresh, newsId, newsItemPath,
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 

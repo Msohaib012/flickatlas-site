@@ -1078,5 +1078,314 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-21",
     "runtime": 77,
     "providers": []
+  },
+  "1637705": {
+    "id": 1637705,
+    "type": "movie",
+    "title": "#Cult",
+    "poster_path": "/8jPyjKZE2Bnm3esvDmWZyGA8mkr.jpg",
+    "backdrop_path": "/lFD4A4HKW2XWnZ0w97P0uQvmVHD.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
+    "industry": "world",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "runtime": 0,
+    "providers": []
+  },
+  "1780005": {
+    "id": 1780005,
+    "type": "movie",
+    "title": "Surviving Hurricane Otis",
+    "poster_path": "/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+    "backdrop_path": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "vote_average": 5.7,
+    "vote_count": 27,
+    "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-23",
+    "runtime": 97,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1374689": {
+    "id": 1374689,
+    "type": "movie",
+    "title": "Pyre",
+    "poster_path": "/h8bmRYjBq5NnByC4kxgvaNfR7Fs.jpg",
+    "backdrop_path": "/2IOQb9cl99JHgyTLCdyRXniT4Ew.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the Himalayan Mountain range, a rural village loses its inhabitants to the city’s allure while an elderly couple, Padam Singh and Tulsi, live in desolate isolation. Their days are filled with routine and occasional humour as they mask their loneliness. Their son’s absence gnaws at them, and when a letter arrives promising his return, it reignites their hearts with joy and anticipation. However, the reunion does not unfold as expected, shattering their hopes. As the film climaxes, the spectator is confronted with a more rueful plight, deeply engaging the audience’s empathy.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U",
+    "release_date": "2026-10-30",
+    "runtime": 111,
+    "providers": []
+  },
+  "1389379": {
+    "id": 1389379,
+    "type": "movie",
+    "title": "Ranabaali",
+    "poster_path": "/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
+    "backdrop_path": "/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+    "vote_average": 4.0,
+    "vote_count": 2,
+    "overview": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+    "industry": "world",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History",
+      "Action",
+      "Drama"
+    ],
+    "tagline": "The legend of the cursed land",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te",
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-15",
+    "runtime": 179,
+    "providers": []
+  },
+  "1612811": {
+    "id": 1612811,
+    "type": "movie",
+    "title": "Disco",
+    "poster_path": "/yZ3AeO4bGYkSVT4onkAbLPTOSXe.jpg",
+    "backdrop_path": "/nXeFm7r4mkxP4wMnS9i2lCORGxw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "runtime": 0,
+    "providers": []
+  },
+  "1451944": {
+    "id": 1451944,
+    "type": "movie",
+    "title": "Lust Stories 3",
+    "poster_path": "/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
+    "backdrop_path": "/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg",
+    "vote_average": 6.182,
+    "vote_count": 11,
+    "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en",
+      "ml",
+      "mr"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-09-18",
+    "runtime": 165,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "337185": {
+    "id": 337185,
+    "type": "tv",
+    "title": "Bano",
+    "poster_path": "/ptDBZ32OYqsrlGxh8VfQAg6OBR6.jpg",
+    "backdrop_path": "/ctsvnPykIzoMYnrm1egUXuhtPpe.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When love is consumed by the flames of hatred, nothing remains the same. Hearts are wounded, relationships are tested, and the chaos spreads far beyond those caught in its path.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-13",
+    "networks": [
+      "Har Pal Geo"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "Har Pal Geo",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-10-13",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Furqan Adam"
+    ],
+    "providers": []
   }
 };

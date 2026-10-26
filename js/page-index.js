@@ -203,13 +203,6 @@
        no TMDB lookup runs — enrichment is skipped. */
     const searchesHtml = `<section class="section" data-sec="trending-searches" id="homeTrendingSearches"><h2>Trending Searches</h2><p role="status">Loading trend feed…</p></section>`;
 
-    /* ---------- Celebrities: engine-fed "Celebrity Today" when the data
-       engine's v2-classified items are fresh (< 24h — enforced inside
-       UI.celebTodaySection). No TMDB-people fallback: when nothing is
-       fresh today, the section renders nothing. ---------- */
-    const celebTodayHtml = (UI.celebTodaySection(window.FA_CELEBRITY_TODAY) || "")
-      .replaceAll('class="news-list"', 'class="editorial-grid"').replaceAll('class="news-item"', 'class="editorial-card"');
-
     /* ---------- Box Office: recently-released published movies, newest
        first (release date DESC) — the same pool and order as /box-office.
        Today / 7-day sums come only from the reported rows; "Recorded" is
@@ -359,8 +352,8 @@
 
     /* Homepage order (MASTER-STRUCTURE §2 as amended by fix round 2,
        Bug F — Bollywood FIRST and more than half the page):
-       hero → Bollywood Spotlight → Bollywood Coming Soon → Celebrity
-       Today → Box Office → mixed trending → Coming Soon calendar →
+       hero → Bollywood Spotlight → Bollywood Coming Soon →
+       Box Office → mixed trending → Coming Soon calendar →
        Trending Searches → Trending News → awards → Lollywood →
        Pakistani dramas. K-Drama, birthdays, OTT and episode strips are
        gone: they had no published data source. ("Star Spotlight" stays
@@ -369,7 +362,6 @@
       ${heroHtml}
       ${bollyHtml}
       ${bollySoonHtml}
-      ${celebTodayHtml}
       ${boHtml}
       ${mixedHtml}
       ${upHtml}
@@ -498,6 +490,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
