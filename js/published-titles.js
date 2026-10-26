@@ -77,5 +77,695 @@ window.FA_PUBLISHED = {
     "certification": "U/A 13+",
     "release_date": "2026-10-23",
     "runtime": 137
+  },
+  "1400940": {
+    "id": 1400940,
+    "type": "movie",
+    "title": "Clayface",
+    "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "backdrop_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "vote_average": 7.6,
+    "vote_count": 188,
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "f7jlCqdtwdM",
+      "name": "The Plane",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 44000000,
+    "revenue": 46500000,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "tagline": "Look fear in the face.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-10-19",
+    "runtime": 109
+  },
+  "1058424": {
+    "id": 1058424,
+    "type": "movie",
+    "title": "Hope",
+    "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+    "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+    "vote_average": 6.784,
+    "vote_count": 341,
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "OFaJzL83y0Q",
+      "name": "Official English Trailer [Dubbed]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 46000000,
+    "revenue": 41212538,
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Action"
+    ],
+    "tagline": "Is this how it ends?",
+    "status": "Released",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "A",
+    "release_date": "2026-07-15",
+    "runtime": 157
+  },
+  "656908": {
+    "id": 656908,
+    "type": "movie",
+    "title": "Ramayana: Rise of a Legend",
+    "poster_path": "/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
+    "backdrop_path": "/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "AYkPRN874m8",
+      "name": "New Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 250000000,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "tagline": "Our truth. Our history",
+    "status": "Post Production",
+    "production_countries": [
+      "IN",
+      "GB"
+    ],
+    "spoken_languages": [
+      "hi",
+      "sa"
+    ],
+    "certification": "U",
+    "release_date": "2026-11-04",
+    "runtime": 195
+  },
+  "1389172": {
+    "id": 1389172,
+    "type": "movie",
+    "title": "Reporting Live",
+    "poster_path": "/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
+    "backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+    "vote_average": 7.0,
+    "vote_count": 8,
+    "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "Some stories refuse to be buried.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-09",
+    "runtime": 116
+  },
+  "328722": {
+    "id": 328722,
+    "type": "tv",
+    "title": "Dar-E-Nijaat",
+    "poster_path": "/wyoODxEuzQQtfnPAV2Lb5nfWRrY.jpg",
+    "backdrop_path": "/xZGjvBTR7zWU3xsYxLn0l2f65cm.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": {
+      "key": "oBu20gLPMZs",
+      "name": "Dar-e-Nijaat Official Teaser | Sheheryar Munawar & Dur-e-Fishan | Coming Soon | ARY Digital",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-08-01",
+    "networks": [
+      "ARY Digital"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 25,
+    "channel": "ARY Digital",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 25,
+        "air_date": "2026-08-01",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Saqib Khan",
+      "Umera Ahmed"
+    ]
+  },
+  "969681": {
+    "id": 969681,
+    "type": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+    "vote_average": 8.474,
+    "vote_count": 6163,
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "P3uI5sLosKU",
+      "name": "Final Trailer (Peter’s Journey)",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 225000000,
+    "revenue": 2517281128,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "tagline": "A brand new day starts now.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-07-29",
+    "runtime": 145
+  },
+  "1101412": {
+    "id": 1101412,
+    "type": "movie",
+    "title": "Fall 2: Deadpoint",
+    "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+    "vote_average": 7.288,
+    "vote_count": 668,
+    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "trailer": {
+      "key": "Krs0VDIjhmE",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 3000000,
+    "revenue": 9256541,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "Are you down?",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-09-01",
+    "runtime": 98
+  },
+  "891621": {
+    "id": 891621,
+    "type": "movie",
+    "title": "Wild Horse Nine",
+    "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+    "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
+    "vote_average": 9.0,
+    "vote_count": 3,
+    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "kqxuamKxRTo",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "Sometimes you've got to do a terrible thing for the greater good.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "certification": "U",
+    "release_date": "2026-10-30",
+    "runtime": 117
+  },
+  "1453407": {
+    "id": 1453407,
+    "type": "movie",
+    "title": "Gajab Raat",
+    "poster_path": "/cEPqJ2HboM9KBj4CtVJFeCFojae.jpg",
+    "backdrop_path": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+    "vote_average": 5.9,
+    "vote_count": 5,
+    "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "BwFuJbHNE4o",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-23",
+    "runtime": 124
+  },
+  "338286": {
+    "id": 338286,
+    "type": "tv",
+    "title": "Circle Story",
+    "poster_path": "/duVVRPklZiDDw03fFVPAVkbC6tp.jpg",
+    "backdrop_path": "/EjpMcfQtZoLBb2t2fN3aU9gV0q.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "We all live inside a circle. Some are bound by relationships, some by poverty, some by power, some by ambition and some by the choices they cannot escape. Circle is a collection of 16 compelling stories of people caught in extraordinary circumstances; each fighting, accepting or breaking the circle that controls their lives.\n\nIts an anthology exploring the invisible circles that shape our lives. Each episode enters a new world, follows a new character and reveals a different struggle, but ultimately asks one universal question:\n\nWill they remain inside the circle, or find the courage to break it?",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-02",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-10-02",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Abu Aleeha"
+    ]
+  },
+  "791523": {
+    "id": 791523,
+    "type": "movie",
+    "title": "Wildwood",
+    "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "vote_average": 8.852,
+    "vote_count": 54,
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "bJQGtSeLPII",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 100000000,
+    "revenue": 4289386,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tagline": "How far would you go for those you love?",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-10-19",
+    "runtime": 132
+  },
+  "1562642": {
+    "id": 1562642,
+    "type": "movie",
+    "title": "Ghost Soldier",
+    "poster_path": "/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "backdrop_path": "/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "UKaWzMf9Ybc",
+      "name": "New Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "He's not a threat, he's a guarantee.",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-11-04",
+    "runtime": 90
+  },
+  "336288": {
+    "id": 336288,
+    "type": "tv",
+    "title": "Mitti De Baway",
+    "poster_path": "/7ea80sGJCyTdzga1g02sg8GOqsh.jpg",
+    "backdrop_path": "/1P9BSYPtss6R9vbnayHvWdBJHWw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in the heart of Punjab, Mitti De Baway is a timeless tale of love, pride, class, and destiny. Bano, a woman from a respected family in Wazirabad, falls deeply in love with Baala, a dhol player from Mitranawali. Bound by family honor, Bano denies their love and chooses her family over him, leaving Baala heartbroken. Years later, fate brings them together again in Faisalabad, where both are married with children. Their unresolved love resurfaces, but fear, resentment, and revenge pull them apart once more. As destiny reunites them for a third time, old rivalries, betrayal, and family conflicts stand in their way. Though they eventually forgive each other and accept the love they could never escape, an old enemy returns, turning their long-awaited reunion into a heartbreaking tragedy.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "pa",
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-23",
+    "networks": [
+      "Green TV Entertainment"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 14,
+    "channel": "Green TV Entertainment",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 14,
+        "air_date": "2026-09-23",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Syed Wajahat Hussain",
+      "Faiza Iftikhar"
+    ]
+  },
+  "1198654": {
+    "id": 1198654,
+    "type": "movie",
+    "title": "Bad Apples",
+    "poster_path": "/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+    "backdrop_path": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+    "vote_average": 6.848,
+    "vote_count": 99,
+    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "4nhu80EmVQE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "It only takes one.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-09-10",
+    "runtime": 100
+  },
+  "1153576": {
+    "id": 1153576,
+    "type": "movie",
+    "title": "Street Fighter",
+    "poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "backdrop_path": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+    "vote_average": 6.4,
+    "vote_count": 180,
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "JP"
+    ],
+    "trailer": {
+      "key": "U6sbm1OaJb8",
+      "name": "New Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 82000000,
+    "revenue": 79638634,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "tagline": "Ready. Set. Fight.",
+    "status": "Released",
+    "production_countries": [
+      "JP",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-13",
+    "runtime": 120
   }
 };
