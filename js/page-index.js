@@ -436,23 +436,24 @@
       <p class="sec-sub">Pakistani movies &amp; dramas only, latest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
-    /* Drama episodes (user order 2026-10-26): EPISODE cards,
-       not drama posters — the latest YouTube episode posts, newest first.
+    /* Drama episodes (user order 2026-10-26, LIST format 21:37 PKT):
+       a VERTICAL LIST — NOT poster cards and NOT a slider. One row per
+       episode, thumbnail LEFT + title/date RIGHT, side by side.
        Episode articles come from FA_ARTICLES (loaded before this script);
        identified by the episode headline pattern "— Watch on <channel>"
        (the same pattern the episode-guides hub uses — every episode post
-       carries it and no news article does). Each card links to its episode
+       carries it and no news article does). Each row links to its episode
        detail page (/news-item?id=<article_id>). This is NOT a duplicate of
        Lollywood: Lollywood lists Pakistani TITLES (poster cards); this
        lists EPISODES. First 6. */
-    const episodeCard = (a) => {
+    const episodeRow = (a) => {
       const img = (a.images && a.images[0] && a.images[0].url) || "";
       const channel = (a.images && a.images[0] && a.images[0].source) || "";
       const date = (a.published || "").slice(0, 10);
-      return `<a class="card" href="${UI.newsItemPath(a)}">
-        <span class="card-poster">${img ? `<img src="${UI.esc(img)}" alt="${UI.esc(a.headline || "")}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
-        <span class="card-body"><span class="card-title">${UI.esc(a.headline || "")}</span>
-        <span class="card-meta">${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
+      return `<a class="ep-row" href="${UI.newsItemPath(a)}">
+        <span class="ep-thumb">${img ? `<img src="${UI.esc(img)}" alt="${UI.esc(a.headline || "")}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+        <span class="ep-info"><b>${UI.esc(a.headline || "")}</b>
+        <span>${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
       </a>`;
     };
     /* ---------- Pakistani Dramas (user order 2026-10-26): POSTER cards
@@ -478,7 +479,7 @@
       <div class="section-head"><h2><a href="/episode-guides" style="color:inherit">Drama Episodes</a></h2>
       <a class="see-all" href="/episode-guides">See All →</a></div>
       <p class="sec-sub">Latest drama episodes from YouTube channels, newest first; open an episode for its story summary.</p>
-      <div class="scroller">${epLatest.map(a => episodeCard(a)).join("")}</div></section>` : "";
+      <div class="tl-list">${epLatest.map(a => episodeRow(a)).join("")}</div></section>` : "";
 
     /* ---------- Awards strip (fix round 2, Bug F): the next dated
        ceremonies — mirrors the verified SHOWS data in js/page-awards.js
@@ -641,6 +642,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
