@@ -1,140 +1,168 @@
+/* FlickAtlas — Trending Topics (rebuilt 2026-10-26, Sacnilk-style).
+   The old module rendered "Trending Searches" from /api/trends, a
+   Google-Trends phrase feed (api-trends.json) that went stale (last
+   generated 2026-10-24) and was generic, not entertainment-focused
+   ("rbny vs inter miami", "helen mirren"). It is retired: this module
+   no longer fetches /api/trends at all.
+   The new list is the site's OWN box-office content — the same
+   articles the Trending News section shows — rendered as a simple
+   ranked list like Sacnilk's Trending Topics ("Jailer 2 Box Office
+   Collection Day 11", "Udta Teer Box Office Collection Day 3",
+   "Ramayana First Day Advance Booking Report"). Each row is the
+   article headline + a relative date, linking to the article.
+   Source: (1) window.FA_ARTICLES (already loaded on the homepage),
+   filtered to box-office articles, newest first; (2) if FA_ARTICLES
+   is unavailable, fetch /api/news and filter the same way.
+   If there are no box-office articles, the section hides itself
+   (nothing rendered) rather than showing a stale or generic list.
+   Public API is unchanged (window.FATrendingSearches.mount) so
+   page-index.js needs no change. The `limit` / `context` options
+   page-index.js passes belonged to the old trends feed and are
+   ignored; the module always shows its own top 8. */
 (function (root) {
   'use strict';
-  const API = '/api/trends';
-  const words = value => String(value || '').match(/[\p{L}\p{N}]+/gu) || [];
-  function validPhrase(q) { return typeof q === 'string' && q.trim().split(/\s+/).filter(part => /[\p{L}\p{N}]/u.test(part)).length >= 2; }
-  function normalized(value) { return String(value || '').normalize('NFKC').toLocaleLowerCase(); }
-  function linkFor(q) { return '/search?q=' + encodeURIComponent(String(q)); }
-  function fullNameMatch(q, news, name) {
-    const haystack = new Set(words(normalized(q + ' ' + (news || ''))));
-    const tokens = words(normalized(name));
-    return tokens.length > 0 && tokens.every(token => haystack.has(token));
+  var TOP_N = 8;
+  var NEWS_TIMEOUT_MS = 8000;
+
+  function safe(value) {
+    return String(value == null ? '' : value).replace(/[&<>"']/g, function (ch) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch];
+    });
   }
-  function metadataMatch(q, news, entry) {
-    const names = [entry.title, entry.name, entry.original_name, entry.original_title].filter(Boolean);
-    return names.some(name => fullNameMatch(q, news, name));
+
+  function articleTitle(a) {
+    return String((a && (a.headline || a.title)) || '').trim();
   }
-  function countryLanguage(entry, country, language) {
-    const countries = [].concat(entry.origin_country || [], entry.production_countries || [], entry.countries || []).map(c => typeof c === 'string' ? c : c.iso_3166_1 || c.code || '');
-    if (entry._query_origin_country) countries.push(entry._query_origin_country);
-    const lang = String(entry.original_language || '').toLowerCase();
-    return countries.includes(country) && lang === language;
+
+  /* A box-office topic: the headline (or type) mentions box office.
+     FA_ARTICLES type is always "news", so the headline is the real
+     signal; the type check covers feeds that tag it. */
+  function isBoxOffice(a) {
+    if (!a) return false;
+    var h = articleTitle(a).toLowerCase();
+    var t = String(a.type || '').toLowerCase();
+    return h.indexOf('box office') !== -1 || t.indexOf('box office') !== -1 || t.indexOf('boxoffice') !== -1;
   }
-  function classify(item, context) {
-    const explicit = String(item.industry || item.category || item.group || item.type || '').toLowerCase();
-    if (/bollywood|hindi cinema/.test(explicit)) return 'bollywood';
-    if (/hollywood|us cinema/.test(explicit)) return 'hollywood';
-    if (/pakistan|lollywood/.test(explicit)) return 'pakistan';
-    const pools = [['bollywood', context.bollywood, e => countryLanguage(e, 'IN', 'hi')], ['hollywood', context.international, e => countryLanguage(e, 'US', 'en')], ['pakistan', context.pakistan, e => countryLanguage(e, 'PK', 'ur')]];
-    for (const [key, list, test] of pools) if ((list || []).some(e => e && metadataMatch(item.q, item.news, e) && test(e))) return key;
-    if (item._query_origin_country === 'IN' && context._query_origin_country === 'IN') return 'bollywood';
-    return 'other';
+
+  /* Numeric ms timestamp for sorting/dating. FA_ARTICLES carries
+     `published` as an RFC date string (several timezone spellings);
+     /api/news carries `ts` as ms. Unparseable -> 0 (sinks to bottom). */
+  function articleTime(a) {
+    if (!a) return 0;
+    if (typeof a.ts === 'number' && isFinite(a.ts) && a.ts > 0) return a.ts;
+    if (a.published) {
+      var t = Date.parse(String(a.published));
+      if (isFinite(t)) return t;
+    }
+    return 0;
   }
-  function prepare(items, context) {
-    const seen = new Set();
-    return (Array.isArray(items) ? items : []).filter(item => item && validPhrase(item.q)).map(item => {
-      const key = normalized(item.q) + '|' + normalized(item.geo);
-      if (seen.has(key)) return null;
-      seen.add(key);
-      return { item, group: classify(item, context || {}) };
-    }).filter(Boolean);
-  }
-  function safe(value) { return String(value == null ? '' : value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch])); }
-  function signalFor(item) {
-    const direction = String(item.direction || item.trend || '').toLowerCase();
-    if (item.breakout === true || direction === 'breakout' || String(item.traffic || '').toLowerCase() === 'breakout') return '<span class="trend-signal">Breakout · source reported</span>';
-    if (item.rising === true || direction === 'rising' || direction === 'up') return '<span class="trend-signal"><span aria-hidden="true">↑</span> Rising · source reported</span>';
-    if (direction === 'falling' || direction === 'down') return '<span class="trend-signal"><span aria-hidden="true">↓</span> Falling · source reported</span>';
+
+  function relDate(a) {
+    var UI = root.UI || {};
+    var t = articleTime(a);
+    if (!t) return '';
+    if (typeof UI.relTime === 'function') return UI.relTime(t);
+    if (typeof UI.fmtDate === 'function') {
+      try { return UI.fmtDate(new Date(t).toISOString().slice(0, 10)); } catch (_) { return ''; }
+    }
     return '';
   }
-  function render(items, context, generated, overrides) {
-    const rows = prepare(items, context);
-    let html = '<section class="trend-groups trend-mixed" aria-labelledby="trending-searches-title"><header class="trend-groups__header"><div><h2 id="trending-searches-title">Trending Searches</h2><p>Search phrases across regions · feed order</p></div><button type="button" class="trend-groups__refresh">Refresh</button></header>';
-    if (!rows.length) html += '<p class="trend-groups__empty">No trend searches are available right now. Try refreshing later.</p>';
-    else {
-      html += '<ol class="trend-mixed-list">';
-      rows.forEach(({ item }, index) => {
-        const volume = /\d/.test(String(item.traffic ?? '')) ? '<span class="trend-volume" title="Approximate source-reported search volume">' + safe(item.traffic) + ' searches (approx.)</span>' : '';
-        const geo = safe(item.geo || 'Region not supplied');
-        const signal = signalFor(item);
-        const news = item.news ? '<span class="trend-news">' + safe(item.news) + '</span>' : '';
-        // Decorative category marker, not evidence of rising search traffic.
-        const marker = '<span class="trend-search-icon" aria-hidden="true"><svg class="fa-trend-mark" viewBox="0 0 48 48" width="24" height="24" focusable="false"><circle cx="24" cy="24" r="23" fill="#07332E"/><circle cx="24" cy="24" r="22" fill="none" stroke="#174C44" stroke-width="1"/><path d="m11.5 31 9-9 5.4 5.4L37 16.3" fill="none" stroke="#C7E4DB" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M29.8 16.3H37v7.2" fill="none" stroke="#C7E4DB" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>';
-        html += '<li class="trend-mixed-item"><a class="editorial-search-card trend-search-row" href="' + safe(linkFor(item.q)) + '">' + marker + '<span class="trend-search-rank" aria-hidden="true">' + (index + 1) + '</span><span class="editorial-search-card__body"><span class="editorial-search-card__term">' + safe(item.q) + '</span><span class="trend-search-meta"><span class="trend-country">' + geo + '</span>' + volume + (signal ? '<span>' + signal + '</span>' : '') + '</span>' + news + '</span></a></li>';
-      });
-      html += '</ol>';
+
+  function topicPath(a) {
+    var UI = root.UI || {};
+    if (UI && typeof UI.newsItemPath === 'function') return UI.newsItemPath(a);
+    if (a && a.id) return '/news-item?id=' + encodeURIComponent(String(a.id));
+    return '#';
+  }
+
+  /* Primary source: FA_ARTICLES, already on the page. Returns the
+     newest box-office articles, top TOP_N. */
+  function topicsFromArticles() {
+    var src = root.FA_ARTICLES;
+    if (!src) return [];
+    var arr = Array.isArray(src)
+      ? src.slice()
+      : Object.keys(src).map(function (k) { return src[k]; });
+    var list = arr.filter(function (a) { return a && articleTitle(a) && isBoxOffice(a); });
+    list.sort(function (a, b) { return articleTime(b) - articleTime(a); });
+    return list.slice(0, TOP_N);
+  }
+
+  /* Fallback source: /api/news, same filter and order. */
+  async function topicsFromNews() {
+    var ctl = null;
+    var timer = null;
+    try {
+      if (typeof AbortController === 'function') {
+        ctl = new AbortController();
+        timer = setTimeout(function () { ctl.abort(); }, NEWS_TIMEOUT_MS);
+      }
+      var r = await root.fetch('/api/news', ctl ? { signal: ctl.signal } : undefined);
+      if (!r.ok) throw new Error('news http ' + r.status);
+      var j = await r.json();
+      var items = (j && Array.isArray(j.items)) ? j.items : [];
+      var list = items.filter(function (a) { return a && articleTitle(a) && isBoxOffice(a); });
+      list.sort(function (a, b) { return articleTime(b) - articleTime(a); });
+      return list.slice(0, TOP_N);
+    } finally {
+      if (timer) clearTimeout(timer);
     }
-    html += '<p class="trend-groups__freshness">Source: Google Trends. Refresh checks the available feed; cached source data may lag. This is not a live search counter.</p></section>';
+  }
+
+  /* Sacnilk-style ranked list. Reuses the existing trend styles
+     (.trend-groups / .trend-mixed-list / .trend-mixed-item /
+     .trend-search-row / .editorial-search-card__term /
+     .trend-search-meta). The rank number is forced visible with an
+     inline display override: style.css hides .trend-search-rank
+     inside .trend-mixed (the old design showed a decorative icon
+     instead), and this module drops that icon — the rank is the
+     honest marker now. */
+  function render(topics) {
+    var html = '<section class="trend-groups trend-mixed" aria-labelledby="trending-topics-title">'
+      + '<header class="trend-groups__header"><div>'
+      + '<h2 id="trending-topics-title">Trending Topics</h2>'
+      + '<p>Box office collections and advance booking, newest first</p>'
+      + '</div></header>'
+      + '<ol class="trend-mixed-list">';
+    topics.forEach(function (a, i) {
+      var date = relDate(a);
+      html += '<li class="trend-mixed-item">'
+        + '<a class="editorial-search-card trend-search-row" href="' + safe(topicPath(a)) + '">'
+        + '<span class="trend-search-rank" style="display:block" aria-hidden="true">' + (i + 1) + '</span>'
+        + '<span class="editorial-search-card__body">'
+        + '<span class="editorial-search-card__term">' + safe(articleTitle(a)) + '</span>'
+        + (date ? '<span class="trend-search-meta"><span>' + safe(date) + '</span></span>' : '')
+        + '</span></a></li>';
+    });
+    html += '</ol></section>';
     return html;
   }
-  function listOf(value) { return Array.isArray(value) ? value : value && Array.isArray(value.results) ? value.results : []; }
-  async function enrich(items, lookup, details, context) {
-    const overrides = new Map();
-    if (typeof lookup !== 'function' || typeof details !== 'function') return overrides;
-    const targets = (items || []).filter(item => item && validPhrase(item.q) && classify(item, context || {}) === 'other').slice(0, 6);
-    let cursor = 0;
-    async function worker() {
-      while (cursor < targets.length) {
-        const item = targets[cursor++];
-        try {
-          let found = listOf(await lookup(item.q));
-          if (!found.length) found = listOf(await lookup(words(item.q).slice(0, 2).join(' ')));
-          const candidate = found.find(entry => entry && metadataMatch(item.q, item.news, entry));
-          if (!candidate) continue;
-          let type, id, credit;
-          if (candidate.media_type === 'person' || (candidate.known_for && !candidate.media_type)) {
-            const credits = candidate.known_for || [];
-            credit = credits.find(e => e && (e.media_type === 'movie' || e.media_type === 'tv') && e.id != null);
-            if (!credit) continue;
-            type = credit.media_type; id = credit.id;
-          } else { type = candidate.media_type === 'tv' ? 'tv' : candidate.media_type === 'movie' ? 'movie' : null; id = candidate.id; }
-          if (!type || id == null) continue;
-          const data = await details(type, id);
-          const valid = type === 'movie' ? (countryLanguage(data || {}, 'US', 'en') ? 'hollywood' : countryLanguage(data || {}, 'IN', 'hi') ? 'bollywood' : countryLanguage(data || {}, 'PK', 'ur') ? 'pakistan' : null) : (countryLanguage(data || {}, 'US', 'en') ? 'hollywood' : countryLanguage(data || {}, 'IN', 'hi') ? 'bollywood' : countryLanguage(data || {}, 'PK', 'ur') ? 'pakistan' : null);
-          if (valid) overrides.set(normalized(item.q) + '|' + normalized(item.geo), valid);
-        } catch (_) { /* Optional enrichment never alters source data. */ }
-      }
-    }
-    await Promise.all(Array.from({ length: Math.min(2, targets.length) }, worker));
-    return overrides;
-  }
+
   function mount(host, options) {
-    if (!host) throw new Error('TrendingSearches.mount requires a host element');
-    options = options || {};
-    const context = options.context || {};
-    const limit = options.limit || null;
-    let generation = 0;
+    if (!host) throw new Error('TrendingTopics.mount requires a host element');
+    var generation = 0;
     async function load() {
-      const current = ++generation;
-      host.innerHTML = '<section class="trend-groups"><h2>Trending Searches</h2><p role="status">Loading trend feed…</p></section>';
-      try {
-        const response = await root.fetch(API);
-        if (!response.ok) throw new Error('Trends request failed (' + response.status + ').');
-        const data = await response.json();
-        if (current !== generation || host.isConnected === false) return;
-        const items = (data && Array.isArray(data.items) ? data.items : []).slice(0, limit || undefined);
-        host.innerHTML = render(items, context, data && data.generated);
-        const button = host.querySelector('.trend-groups__refresh');
-        if (button) button.addEventListener('click', load);
-        enrich(items, options.lookup, options.details, context).then(overrides => {
-          if (overrides.size && current === generation && host.isConnected !== false) {
-            host.innerHTML = render(items, context, data && data.generated, overrides);
-            const next = host.querySelector('.trend-groups__refresh');
-            if (next) next.addEventListener('click', load);
-          }
-        });
-      } catch (error) {
-        if (current !== generation || host.isConnected === false) return;
-        host.innerHTML = '<section class="trend-groups"><h2>Trending Searches</h2><p class="trend-groups__error" role="alert">Could not load the trend feed. ' + safe(error && error.message || '') + '</p><button type="button" class="trend-groups__refresh">Retry</button></section>';
-        const button = host.querySelector('.trend-groups__refresh');
-        if (button) button.addEventListener('click', load);
+      var current = ++generation;
+      var topics = topicsFromArticles();
+      if (!topics.length) {
+        try { topics = await topicsFromNews(); } catch (_) { topics = []; }
       }
+      if (current !== generation || host.isConnected === false) return;
+      if (!topics.length) {
+        /* No box-office articles: hide the section entirely instead
+           of showing a stale or generic list. */
+        if (typeof host.remove === 'function') host.remove();
+        else { host.innerHTML = ''; host.style.display = 'none'; }
+        return;
+      }
+      host.innerHTML = render(topics);
     }
-    host.innerHTML = '<section class="trend-groups"><h2>Trending Searches</h2><button type="button" class="trend-groups__refresh">Refresh</button></section>';
-    const button = host.querySelector('.trend-groups__refresh');
-    button.addEventListener('click', load);
     load();
     return { refresh: load };
   }
-  root.FATrendingSearches = { mount, helpers: { validPhrase, linkFor, classify, prepare, render } };
+
+  root.FATrendingSearches = {
+    mount: mount,
+    helpers: { isBoxOffice: isBoxOffice, topicsFromArticles: topicsFromArticles, render: render }
+  };
 })(typeof window !== 'undefined' ? window : globalThis);
