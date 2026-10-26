@@ -1288,5 +1288,159 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-26T06:09:50+05:30"
+  },
+  "1fhs8f0": {
+    "id": "1fhs8f0",
+    "type": "news",
+    "headline": "Jailer 2 Box Office: Rajinikanth Starrer Becomes Kollywood's First ₹700 Crore Grosser",
+    "dek": "Nelson Dilipkumar's directorial venture has shattered records in just 11 days, overtaking 2.0 to become the highest-grossing Tamil film in history.",
+    "body": [
+      {
+        "h": "A Historic Milestone at the Global Box Office",
+        "p": [
+          "The cinematic landscape of Kollywood has witnessed a monumental achievement as Jailer 2 officially claims the title of the highest-grossing Tamil film of all time. Directed by Nelson Dilipkumar and starring superstar Rajinikanth, the action-packed sequel achieved this historic feat within a mere 11 days of its theatrical run. Surpassing previous benchmarks set by long-standing blockbusters, the movie has successfully crossed the unprecedented ₹700-crore threshold globally.",
+          "Industry analysts note that the momentum for the Sun Pictures production shows no signs of slowing down. During its second weekend, the feature pulled in staggering numbers internationally and domestically, proving that audience enthusiasm remains at an all-time high. With strong daily grosses still rolling in, trade circles are already speculating about the possibility of the film inching closer to even loftier financial milestones."
+        ]
+      },
+      {
+        "h": "Domestic Dominance and International Reach",
+        "p": [
+          "In the domestic market, the Rajinikanth vehicle recorded an impressive single-day net collection on its eleventh day, reflecting a robust surge in ticket sales. This latest haul propelled its cumulative domestic net earnings close to the coveted ₹400-crore milestone. Achieving this feat places the project in an elite tier of domestic performers alongside its own predecessor and Vijay's hit movie Leo.",
+          "Beyond domestic borders, the international appeal of the franchise has proven to be a massive driving force. Overseas territories contributed significantly to the overall tally, accumulating tens of millions in foreign currency and pushing the worldwide gross well past the ₹710-crore mark. This balanced performance across local and global markets underscores the widespread popularity of the lead actor."
+        ]
+      },
+      {
+        "h": "Dethroning Previous Record Holders",
+        "p": [
+          "The journey to the top involved eclipsing several massive titles that previously dominated the upper echelons of Tamil cinema history. Jailer 2 successfully overtook the eight-year-old lifetime record previously held by the science-fiction spectacle 2.0. Along the way, it also surpassed other heavy hitters including Leo, the first part of the franchise, and another recent tentpole release, Coolie.",
+          "By crossing ₹700 crore worldwide, the movie has carved out a unique space in Indian cinema history. It stands proudly as the seventh South Indian film to breach this elite financial tier and marks the eighteenth Indian film overall to enter the exclusive club, further cementing the global footprint of regional language cinema."
+        ]
+      },
+      {
+        "h": "Behind the Success: Cast and Crew",
+        "p": [
+          "The project marks a notable departure for Rajinikanth, who historically has been hesitant to sign on for sequels to his legendary blockbusters. Reprising his celebrated role as 'Tiger' Muthuvel Pandian, the veteran actor leads a sprawling ensemble cast that blends returning fan favorites with prominent fresh faces. Actors such as Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik return from the original installment.",
+          "Adding to the cinematic spectacle are high-profile additions and cameo appearances featuring esteemed names from across Indian cinema, including S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Vidya Balan, Anna Rajan, Jatin Sarna, Hrithik Roshan, Mohanlal, Shiva Rajkumar, and Jackie Shroff. The sonic landscape of the movie, crucial to its high-energy pacing, was crafted by composer Anirudh Ravichander."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 became the highest-grossing Tamil film of all time in 11 days.",
+      "The film is Kollywood's first ₹700 crore grosser, reaching a worldwide gross of ₹710 crore.",
+      "It surpassed 2.0's eight-year-old record of ₹691 crore.",
+      "On its 11th day, the film earned ₹25.70 crore net in India.",
+      "The domestic net collection after 11 days stands at ₹398 crore.",
+      "International earnings reached $25.6 million after 11 days."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Vijay",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Anna Rajan",
+        "Jatin Sarna",
+        "Hrithik Roshan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Jackie Shroff",
+        "Anirudh Ravichander",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0",
+        "Leo",
+        "Jailer",
+        "Coolie"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/Jailer_2__1792989920673_8tt3_1792989920789_0b88_c34212f1-6cb0-474a-af04-918c14c4e906_wDwu.jpg",
+        "caption": "Jailer 2 Box Office: Rajinikanth Starrer Becomes Kollywood's First ₹700 Crore Grosser",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 10:48:44 +0530"
+  },
+  "d4fl6s": {
+    "id": "d4fl6s",
+    "type": "news",
+    "headline": "Ramayana Advance Booking Crosses ₹20 Crore 10 Days Before Release",
+    "dek": "Ranbir Kapoor and Yash's upcoming film Nitesh Tiwari's Ramayana Part One has crossed ₹20 crore in worldwide pre-sales ten days before its release, with strong demand in Telugu states and North America.",
+    "body": [
+      {
+        "h": "Strong Advance Bookings Across Territories",
+        "p": [
+          "Advance bookings for Nitesh Tiwari's ambitious mythological adaptation Ramayana Part One have maintained a steady momentum following a strong start on Dussehra. The pre-sales period began fifteen days prior to the film's scheduled arrival ahead of Diwali, immediately drawing a massive wave of ticket purchases for the opening day. Although the initial frenetic pace has experienced a slight plateau, the overall trajectory continues to show positive growth for the large-scale cinematic spectacle.",
+          "Domestically, the film has already crossed the ₹10 crore threshold in advance bookings alone, with audiences purchasing more than two lakh tickets for the opening day. While the Hindi version initially dominated the pre-sales entirely, ticket windows for Kannada and Telugu screenings have progressively opened over the last two days, expanding the domestic footprint across multiple languages."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown and Regional Demand",
+        "p": [
+          "The Hindi version currently drives the majority of the pre-sales, accounting for 87 percent of the total advance collections and offering tickets across more than 4,200 shows nationwide for day one. Meanwhile, the Kannada version has expanded to approximately 100 screens, successfully crossing the ₹1 crore mark with select centers recording up to 80 percent occupancy for morning screenings.",
+          "Despite opening in only 10 to 15 screens so far, the Telugu version has surged forward with remarkable speed, hurtling toward the ₹40 lakh mark. Out of a modest total of 44 Telugu shows currently available for booking, four have already been declared houseful, highlighting intense regional enthusiasm even before widespread ticketing has commenced."
+        ]
+      },
+      {
+        "h": "International Pre-Sales and Overseas Buzz",
+        "p": [
+          "Beyond domestic borders, Ramayana has benefited from substantial buzz in overseas markets, notably in North America where paid previews are scheduled for November 4, the eve of the official theatrical rollout. According to tracking data from Sacnilk, the project has accumulated $550,000 from these preview tickets alone.",
+          "In addition to the preview numbers, the feature has grossed $400,000 for its opening day across other international territories. Combined with domestic figures, these overseas earnings pushed the worldwide advance-booking gross past the ₹20 crore mark by the end of October 25, exactly ten days before the premiere."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Distribution Details",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana is structured as a two-part cinematic event produced by Namit Malhotra’s Prime Focus Studios in partnership with DNEG and Yash’s Monster Mind Creations. The star-studded ensemble features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.",
+          "The first installment is slated for a worldwide release on November 5, 2026, followed by the second part scheduled for Diwali 2027. The project will release in Hindi, Tamil, Telugu, Kannada, and Malayalam, backed by a global IMAX rollout, with Sony Pictures managing worldwide distribution outside India and Dharma Productions handling the Hindi-speaking market."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana grossed over ₹20 crore in pre-sales 10 days ahead of its release.",
+      "The film crossed the ₹10 crore mark in advance bookings in India, selling over 2 lakh tickets for day one.",
+      "The Hindi version accounts for 87% of the advance bookings.",
+      "The Kannada version crossed the ₹1 crore mark with around 100 screens open.",
+      "The Telugu shows opened in 10-15 screens and are heading toward ₹40 lakh.",
+      "In North America, the film sold $550K in tickets for paid previews on November 4.",
+      "Overseas territories grossed $400K for the release day.",
+      "Four of the 44 Telugu shows are already houseful.",
+      "The Hindi version is selling tickets for over 4200 shows across India for day 1.",
+      "Ramayana Part One is scheduled for worldwide release on November 5, 2026, and Part Two is set for Diwali 2027."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part One"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/logo/Ramayana_1792991558532_uX11_1792991558801_GEi7_28405d6a-e401-44a9-aeaf-8e12528d1c6c_diDW.jpg",
+        "caption": "Ramayana Advance Booking Crosses ₹20 Crore 10 Days Before Release",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 10:51:54 +0530"
   }
 };
