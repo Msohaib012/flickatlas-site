@@ -2,32 +2,32 @@
  "today_pkt": "2026-10-27",
  "sources": 139,
  "status": {
-  "ok": 96,
-  "error": 17,
-  "unchanged": 24,
+  "ok": 94,
+  "error": 16,
+  "unchanged": 27,
   "baseline": 2
  },
- "queue_total": 94,
- "stories_total": 96,
+ "queue_total": 77,
+ "stories_total": 80,
  "duplicates_removed": 0,
  "categories": {
-  "Box Office": 0,
-  "Awards": 4,
-  "Trailers": 1,
-  "Music / OST": 3,
-  "Episodes": 1,
+  "Box Office": 1,
+  "Awards": 1,
+  "Trailers": 2,
+  "Music / OST": 1,
+  "Episodes": 2,
   "Upcoming releases": 0,
-  "OTT / Streaming": 10,
-  "TV & Dramas": 0,
-  "Celebrity news & events": 3,
-  "Movies": 72,
-  "Entertainment viral": 0
+  "OTT / Streaming": 6,
+  "TV & Dramas": 2,
+  "Celebrity news & events": 1,
+  "Movies": 59,
+  "Entertainment viral": 2
  },
  "dropped": {
+  "not-today": 21,
   "section-page": 46,
-  "no-date": 204,
-  "not-today": 16,
-  "fallback-blocked-non-entertainment": 3
+  "no-date": 1,
+  "fallback-blocked-non-entertainment": 2
  },
  "per_source": [
   {
@@ -74,10 +74,10 @@
   },
   {
    "source": "Pinkvilla",
-   "status": "error",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "HTTP 404 (bot-block ho sakta hai)"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Sacnilk",
@@ -131,7 +131,7 @@
   {
    "source": "Hindustan Times — Entertainment",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
@@ -271,14 +271,14 @@
   {
    "source": "ComingSoon.net",
    "status": "ok",
-   "new": 8,
+   "new": 10,
    "total": 20,
    "note": ""
   },
   {
    "source": "FirstShowing.net",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
@@ -299,7 +299,7 @@
   {
    "source": "Screen Rant",
    "status": "ok",
-   "new": 8,
+   "new": 9,
    "total": 10,
    "note": ""
   },
@@ -313,14 +313,14 @@
   {
    "source": "Variety",
    "status": "ok",
-   "new": 5,
+   "new": 2,
    "total": 10,
    "note": ""
   },
   {
    "source": "Deadline",
    "status": "ok",
-   "new": 4,
+   "new": 3,
    "total": 12,
    "note": ""
   },
@@ -335,7 +335,7 @@
    "source": "Rotten Tomatoes",
    "status": "ok",
    "new": 0,
-   "total": 39703,
+   "total": 62673,
    "note": ""
   },
   {
@@ -343,7 +343,7 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "ParseError: unbound prefix: line 240, column 2"
+   "note": "ParseError: unbound prefix: line 505, column 2"
   },
   {
    "source": "Box Office Pro",
@@ -362,7 +362,7 @@
   {
    "source": "IndieWire",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 12,
    "note": ""
   },
@@ -370,34 +370,34 @@
    "source": "Vulture",
    "status": "ok",
    "new": 0,
-   "total": 32007,
+   "total": 32020,
    "note": ""
   },
   {
    "source": "The Playlist",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "status": "ok",
+   "new": 1,
+   "total": 25,
+   "note": ""
   },
   {
    "source": "JoBlo",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 30,
    "note": ""
   },
   {
    "source": "SlashFilm",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
   {
    "source": "Empire",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -411,7 +411,7 @@
   {
    "source": "TVLine",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
@@ -432,23 +432,23 @@
   {
    "source": "Gold Derby",
    "status": "ok",
-   "new": 3,
+   "new": 1,
    "total": 12,
    "note": ""
   },
   {
    "source": "AwardsWatch",
-   "status": "ok",
-   "new": 1,
-   "total": 10,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Decider",
-   "status": "ok",
-   "new": 2,
-   "total": 10,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "JustWatch",
@@ -466,10 +466,10 @@
   },
   {
    "source": "What's on Netflix",
-   "status": "ok",
-   "new": 1,
-   "total": 30,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Trailer Addict",
@@ -480,22 +480,22 @@
   },
   {
    "source": "SpoilerTV",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 25,
+   "note": ""
   },
   {
    "source": "Rolling Stone",
    "status": "ok",
-   "new": 1,
+   "new": 3,
    "total": 105,
    "note": ""
   },
   {
    "source": "Vanity Fair",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 74,
    "note": ""
   },
@@ -712,7 +712,7 @@
   {
    "source": "Yonhap News Agency — Entertainment",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 70,
    "note": ""
   },
@@ -733,30 +733,30 @@
   {
    "source": "Digital Spy",
    "status": "ok",
-   "new": 1,
+   "new": 2,
    "total": 30,
    "note": ""
   },
   {
    "source": "Flickering Myth",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
   {
    "source": "Geektown",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 10,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "I Talk Telly",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 20,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Radio Times",
@@ -796,14 +796,14 @@
   {
    "source": "Mirror — Showbiz",
    "status": "ok",
-   "new": 3,
+   "new": 1,
    "total": 140,
    "note": ""
   },
   {
    "source": "E! News",
    "status": "ok",
-   "new": 6,
+   "new": 2,
    "total": 30,
    "note": ""
   },
@@ -852,14 +852,14 @@
   {
    "source": "Page Six",
    "status": "ok",
-   "new": 3,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "US Weekly",
    "status": "ok",
-   "new": 11,
+   "new": 6,
    "total": 72,
    "note": ""
   },
@@ -901,7 +901,7 @@
   {
    "source": "OK! Magazine UK",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 25,
    "note": ""
   },
