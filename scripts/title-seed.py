@@ -83,7 +83,7 @@ CONFIG_JS = os.path.join(ROOT, "js", "config.js")
 PUBLISH_TITLES = os.path.join(ROOT, "scripts", "publish-titles.py")
 
 FIRST_RUN_MAX = 15
-DAILY_MAX = 6
+DAILY_MAX = 4  # his order 2026-10-26: 4 new titles/day, in sequence, newest first
 FRESH_DAYS = 90
 
 # (source name, media type, TMDB list path) — order is the round-robin
@@ -277,33 +277,62 @@ def fetch_lists(key):
     return out
 
 
+def _item_date(item, media):
+    """Sort key date: release_date for movies, first_air_date for tv."""
+    return (item.get("release_date") or item.get("first_air_date") or "")
+
+
 def select(lists, published, cap):
-    """List-level selection: apply the cheap rules, then round-robin
-    across sources to the cap. Returns [(tid, media, source)] in
-    attempt order."""
+    """List-level selection: apply the cheap rules, sort each source
+    newest-first, then round-robin across sources to the cap.
+    Returns [(tid, media, source)] in attempt order.
+
+    Order (his order 2026-10-26): newest to oldest, in strict
+    sequence — the next 4 after the last 4, never jumping ahead.
+    Upcoming is the exception: nearest release first (ascending),
+    so it never jumps to next year's titles. Released content is
+    newest first (descending). Titles with no date sort last.
+    The source order rotates daily (day-of-year offset) so a 4/day
+    cap does not starve the last sources — with a fixed order the
+    first 4 sources would be picked every day and pk_dramas /
+    pk_movies would never be reached."""
     per_source = {}
     for name, media, _ in SOURCES:
-        seen_here = []
+        seen_here = {}
         for item in lists.get(name) or []:
             tid = str(item.get("id") or "")
             if not tid.isdigit():
                 continue
             if tid in published:
                 continue
+            if tid in seen_here:
+                continue
             if not item.get("poster_path"):
                 continue
             if media == "movie" and not movie_fresh(item, date.today()):
                 continue
             # tv: no list-level date rule (currency checked on details)
-            seen_here.append(tid)
-        # dedup within this source, keeping list (popularity) order
-        per_source[name] = list(dict.fromkeys(seen_here))
+            seen_here[tid] = _item_date(item, media)
+        # Sort by date: upcoming ascending (nearest first), everything
+        # else descending (newest first); no-date items last in both.
+        if name == "upcoming":
+            items = sorted(seen_here.items(),
+                           key=lambda kv: (kv[1] == "", kv[1]))
+        else:
+            items = sorted(seen_here.items(),
+                           key=lambda kv: (kv[1] != "", kv[1]),
+                           reverse=True)
+        per_source[name] = [tid for tid, _ in items]
+    # Rotate the source order daily so every source gets picked over
+    # a 3-day cycle (4 picks/day x 3 days = 12 slots for 6 sources).
+    offset = date.today().toordinal() % len(SOURCES)
+    ordered = SOURCES[offset:] + SOURCES[:offset]
     # Round-robin: best of each source first, then 2nd of each, ...
     picked, seen = [], set()
     i = 0
     while len(picked) < cap:
         progressed = False
-        for name, media, _ in SOURCES:
+        for name, media, _ in ordered:
             if len(picked) >= cap:
                 break
             items = per_source.get(name) or []
@@ -410,5 +439,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
