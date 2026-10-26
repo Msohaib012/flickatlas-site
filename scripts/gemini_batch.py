@@ -13,8 +13,12 @@ already clustered by scripts/fetch.py), and for each NEW story:
      = one group; same title different information = different groups).
      Each group's representative (highest-ranked member) is processed;
      the other members are recorded in out/processed.json as duplicates
-     (never retried, never counted in the daily cap). The write loop
-     then processes in ranked order. A failed/empty ranking falls back
+     (never retried, never counted in the daily cap). The rank call ALSO
+     assigns each candidate its TRUE category (the script's hinted
+     category is keyword-based and often wrong); the write loop then
+     attempts items ROUND-ROBIN across those categories — one per
+     category first, repeats only on a second pass — so one batch never
+     lands in a single category. A failed/empty ranking falls back
      to queue order; missing/invalid groups skip dedup only.
   1. Computes a FACT fingerprint (film/person + day + rupee amounts + date)
      from the title/URL — NOT the wording — so two differently-worded
@@ -265,6 +269,13 @@ RANK_SCHEMA = {
         "ranked": {"type": "array", "items": {"type": "integer"}},
         "groups": {"type": "array", "items": {"type": "array",
                                                "items": {"type": "integer"}}},
+        # OPTIONAL: one category per candidate, in the same index order
+        # as the input list (categories[i] = candidate i's category).
+        # Gemini assigns the TRUE category (the script's hinted category
+        # is keyword-based and often wrong); the caller uses this to
+        # round-robin across categories so one batch never lands in a
+        # single category. Old-format responses without it still work.
+        "categories": {"type": "array", "items": {"type": "string"}},
     },
     "required": ["ranked", "groups"],
 }
@@ -350,9 +361,15 @@ magazine (Bollywood, Pakistani dramas, Hollywood, world cinema).
 
 Below are {n} fresh entertainment stories (title, outlet, category,
 publish time). Rank them by NEWSWORTHINESS — most newsworthy first.
-Return ONLY JSON with two fields:
-{{"ranked": [3, 0, 12, ...], "groups": [[3, 7], [0], [12, 5], ...]}}
+Return ONLY JSON with these fields:
+{{"ranked": [3, 0, 12, ...], "groups": [[3, 7], [0], [12, 5], ...], "categories": ["box_office", "movies", ...]}}
 - "ranked": every index exactly once, most newsworthy first.
+- "categories": one category per story, in the SAME order as the
+  numbered list below (categories[i] is story [i]'s category). Pick
+  from: movies, tv_dramas, episodes, box_office, celebrities_events,
+  upcoming_releases, ott_streaming, trailers, awards, music_ost, viral.
+  Use your judgment — correct the hinted category shown with each story
+  when it is wrong.
 - "groups": group stories about the SAME event/story together, even if
   the title wording differs. Same title but DIFFERENT information =
   different groups. Different title but SAME information = same group.
@@ -411,11 +428,38 @@ def _published_ts(item):
     return dt.timestamp() if dt else 0.0
 
 
+def round_robin_order(ordered, cat_of):
+    """Reorder ranked items so the write loop attempts one per category
+    before any repeat: [best of cat A, best of cat B, ... , 2nd of A,
+    2nd of B, ...]. Items keep ranked order within a category;
+    categories are ordered by first appearance in `ordered`. With
+    batch_size 4 and 4+ distinct categories, the first 4 attempted are
+    one per category; with fewer categories, the second pass fills the
+    batch with repeats. cat_of(item) -> category slug."""
+    by_cat = {}
+    for item in ordered:
+        by_cat.setdefault(cat_of(item), []).append(item)
+    out = []
+    i = 0
+    while True:
+        progressed = False
+        for items in by_cat.values():
+            if i < len(items):
+                out.append(items[i])
+                progressed = True
+        if not progressed:
+            break
+        i += 1
+    return out
+
+
 def rank_stories(keys, candidates):
-    """One Gemini call ranking candidate items by newsworthiness AND
-    grouping stories about the same event (semantic dedup — the script's
-    fingerprint only sees titles/numbers, Gemini's brain sees meaning).
-    Returns (ordered, dup_pairs):
+    """One Gemini call ranking candidate items by newsworthiness, grouping
+    stories about the same event (semantic dedup — the script's
+    fingerprint only sees titles/numbers, Gemini's brain sees meaning),
+    AND assigning each candidate its TRUE category (the script's hinted
+    category is keyword-based and often wrong — Gemini corrects it).
+    Returns (ordered, dup_pairs, cat_map):
     - ordered: the candidate list reordered best-first, with each
       duplicate group's representative only (representative = the group
       member ranked highest). Candidates Gemini omits from 'ranked' go
@@ -423,10 +467,13 @@ def rank_stories(keys, candidates):
     - dup_pairs: [(duplicate_item, representative_item), ...] for every
       non-representative group member, so the caller can record them as
       processed duplicates.
-    Returns (None, []) on ranking failure (caller falls back to queue
-    order). When 'groups' is missing/empty/invalid but 'ranked' is fine,
-    dedup is skipped and (ordered, []) is returned — ranking order kept,
-    no item dropped."""
+    - cat_map: {id(candidate_item): gemini_category_slug} — one entry
+      per candidate. Invalid/missing entries fall back to the item's
+      script category, then to "movies".
+    Returns (None, [], {}) on ranking failure (caller falls back to
+    queue order). When 'groups' is missing/empty/invalid but 'ranked' is
+    fine, dedup is skipped and (ordered, [], cat_map) is returned —
+    ranking order kept, no item dropped."""
     lines = []
     for i, item in enumerate(candidates):
         lines.append(
@@ -436,10 +483,24 @@ def rank_stories(keys, candidates):
             f"{(item.get('published') or '').strip()}")
     result = call_gemini(keys, RANK_PROMPT.format(n=len(candidates),
                                                   items="\n".join(lines)),
-                         schema=RANK_SCHEMA, max_tokens=1024)
+                         schema=RANK_SCHEMA, max_tokens=2048)
     if not result:
-        return None, []
+        return None, [], {}
     ranked = result.get("ranked") or []
+    # Gemini-assigned categories, parallel to the candidate list. Validate
+    # each slug; fall back to the script category, then "movies".
+    raw_cats = result.get("categories")
+    cat_map = {}
+    for i, item in enumerate(candidates):
+        c = None
+        if isinstance(raw_cats, list) and i < len(raw_cats):
+            v = raw_cats[i]
+            if isinstance(v, str) and v.strip() in CATEGORIES:
+                c = v.strip()
+        if c is None:
+            s = item.get("category") or ""
+            c = s if s in CATEGORIES else "movies"
+        cat_map[id(item)] = c
     seen, order = set(), []
     for idx in ranked:
         # JSON booleans are ints in Python — exclude them explicitly.
@@ -448,7 +509,7 @@ def rank_stories(keys, candidates):
             seen.add(idx)
             order.append(idx)
     if not order:
-        return None, []
+        return None, [], {}
     for i in range(len(candidates)):
         if i not in seen:
             order.append(i)
@@ -457,7 +518,7 @@ def rank_stories(keys, candidates):
     # field skips dedup — ranking order is kept, nothing is dropped.
     groups = result.get("groups")
     if not isinstance(groups, list) or not groups:
-        return ordered, []
+        return ordered, [], cat_map
     rank_pos = {idx: pos for pos, idx in enumerate(order)}
     group_of, rep_of = {}, {}
     gid = 0
@@ -478,7 +539,7 @@ def rank_stories(keys, candidates):
         rep_of[gid] = rep
         gid += 1
     if not rep_of:
-        return ordered, []
+        return ordered, [], cat_map
     ordered, dup_pairs = [], []
     for idx in order:
         if idx not in group_of or idx == rep_of[group_of[idx]]:
@@ -486,7 +547,7 @@ def rank_stories(keys, candidates):
         else:
             dup_pairs.append((candidates[idx],
                               candidates[rep_of[group_of[idx]]]))
-    return ordered, dup_pairs
+    return ordered, dup_pairs, cat_map
 
 
 def resolve_tmdb_id(film, api_key):
@@ -635,6 +696,7 @@ def main():
     pending = [item for item in queue if fingerprint(item) not in processed]
     ordered = list(queue)
     ranked_count = 0  # headlines Gemini actually ranked this run
+    cat_map = {}  # id(item) -> Gemini-assigned category (rank call)
     if pending:
         if rank_count > 0:
             candidates = sorted(pending, key=_published_ts,
@@ -642,7 +704,7 @@ def main():
             print(f"rank: {len(pending)} unprocessed, ranking newest "
                   f"{len(candidates)}")
             gemini_calls += 1
-            ranked, dup_pairs = rank_stories(keys, candidates)
+            ranked, dup_pairs, cat_map = rank_stories(keys, candidates)
             if ranked:
                 ranked_count = len(candidates)
                 # Semantic dedup: these are the same story as a
@@ -677,9 +739,19 @@ def main():
     else:
         print("rank: nothing unprocessed — skipping ranking")
 
+    # Category-diverse attempt order: one per category first (Gemini's
+    # categories from the rank call; script category as fallback — e.g.
+    # when ranking failed and `ordered` fell back to queue order).
+    # The write loop below is unchanged; it just attempts items in this
+    # order, so the first batch_size that pass are one per category.
+    def _cat_of(item):
+        c = cat_map.get(id(item)) or item.get("category") or "movies"
+        return c if c in CATEGORIES else "movies"
+    attempt_order = round_robin_order(ordered, _cat_of)
+
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
     articles, box_rows, skipped = [], [], []
-    for item in ordered:
+    for item in attempt_order:
         if len(articles) >= batch_size:
             break
         if gemini_calls >= max_calls:
@@ -759,6 +831,7 @@ def main():
             "processed_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         }
 
+    print(f"batch categories: {', '.join(a.get('category') for a in articles)}")
     out = {"generated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
            "count": len(articles), "articles": articles,
            "box_office": box_rows, "skipped": skipped,
@@ -774,5 +847,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
