@@ -524,6 +524,55 @@ def merge_daywise(daywise, rows, by_tmdb, today):
     return added, updated, changes
 
 
+def write_stage(stage_dir, rows, by_tmdb, today):
+    """Write the per-source staging JSON for the multi-source averaging
+    engine (scripts/multisource_boxoffice.py):
+        {tmdb_id: [{day, date, collection_inr_cr, source: "sacnilk"}]}
+    Only rows that pass the SAME gates as merge_daywise (published +
+    validate_box_row) are included, so the staging file never carries
+    a figure the merge would have rejected. Deterministic (sorted,
+    no timestamps) so an unchanged file never triggers a spurious
+    pipeline commit. Returns True when the file was written."""
+    staged = {}
+    for row in rows:
+        tid = str(row.get("tmdb_id") or "").strip()
+        pub = by_tmdb.get(tid)
+        if pub is None:
+            continue
+        ok, _reason = boxoffice_extract.validate_box_row(
+            row, pub, article=None, today=today)
+        if not ok:
+            continue
+        day = row.get("day")
+        if not isinstance(day, int) or day < 1:
+            continue
+        entry = {"day": int(day),
+                 "date": row.get("date") or "",
+                 "collection_inr_cr": round(
+                     float(row.get("collection_inr_crore") or 0), 2),
+                 "source": "sacnilk"}
+        staged.setdefault(tid, []).append(entry)
+    for tid in staged:
+        staged[tid].sort(key=lambda r: r["day"])
+    os.makedirs(stage_dir, exist_ok=True)
+    path = os.path.join(stage_dir, "sacnilk.json")
+    content = json.dumps(staged, ensure_ascii=False, indent=2,
+                         sort_keys=True) + "\n"
+    existing = ""
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            existing = f.read()
+    if existing == content:
+        print(f"sacnilk: staging {path} unchanged")
+        return False
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+    n = sum(len(v) for v in staged.values())
+    print(f"sacnilk: staging {path} written ({n} row(s), "
+          f"{len(staged)} movie(s))")
+    return True
+
+
 def main():
     ap = argparse.ArgumentParser(
         description="Sacnilk box-office page reader: fetch each "
@@ -534,6 +583,11 @@ def main():
     ap.add_argument("--dry-run", action="store_true",
                     help="print the rows it would write, write nothing "
                          "(default)")
+    ap.add_argument("--stage", default=None, metavar="DIR",
+                    help="also write the per-source staging JSON "
+                         "(<DIR>/sacnilk.json) for the multi-source "
+                         "averaging engine; does not change the "
+                         "--apply behaviour")
     ap.add_argument("--limit", type=int, default=MAX_TITLES,
                     help="max titles to fetch per run (default 30)")
     ap.add_argument("--root", default=ROOT, help="repo root")
@@ -703,6 +757,8 @@ def main():
     for tid, day, coll, kind in changes:
         name = by_tmdb.get(tid, {}).get("title", tid)
         print(f"  {kind}: {name} ({tid}) Day {day} ${coll:,}")
+    if args.stage and not args.dry_run:
+        write_stage(args.stage, all_rows, by_tmdb, today)
     if not do_write:
         print("sacnilk: DRY-RUN — nothing written")
         return 0
@@ -733,6 +789,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

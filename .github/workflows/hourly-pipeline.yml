@@ -141,17 +141,35 @@ jobs:
         run: |
           python3 scripts/apply-auto.py
 
-      # --- 6. Sacnilk box office (gated, daily 20:00 UTC) --------------
-      # Fetches each published movie's Sacnilk page and merges its
-      # day-wise collections into js/daywise-data.js. Runs after
-      # apply-auto so it reads the latest daywise file. Every 6 hours
-      # (02, 08, 14, 20 UTC) so live-day figures stay fresh;
-      # the state gate catches up a dropped run.
-      - name: Sacnilk box office
-        id: sacnilk
-        if: steps.decide.outputs.run_sacnilk == 'true'
+      # --- 6. Multi-source box office (hourly) ---------------------------
+      # Per-site readers fetch day-wise INDIA NET figures into
+      # out/boxoffice-staging/<source>.json; the averaging engine
+      # (scripts/multisource_boxoffice.py) means them per movie+day and
+      # is the SOLE writer of js/daywise-data.js. Sacnilk still runs on
+      # its 6h gate (02, 08, 14, 20 UTC) with --apply (keeps the
+      # advance-data.js write) plus --stage (its staging file); the
+      # staging files are committed so they persist across runs (a fresh
+      # checkout has no staging otherwise). A reader that is missing or
+      # fails is skipped — the engine averages whatever is present.
+      # The step never commits by itself; step 14's single commit picks
+      # up daywise-data.js / staging / sidecar only if changed.
+      - name: Multi-source box office
+        id: multisource
         continue-on-error: true
-        run: python3 scripts/sacnilk_boxoffice.py --apply
+        env:
+          RUN_SACNILK: ${{ steps.decide.outputs.run_sacnilk }}
+        run: |
+          mkdir -p out/boxoffice-staging
+          if [ "$RUN_SACNILK" = "true" ]; then
+            python3 scripts/sacnilk_boxoffice.py --apply --stage out/boxoffice-staging || echo "sacnilk stage failed, continuing with existing staging"
+          else
+            echo "sacnilk gated off this hour (runs 02/08/14/20 UTC)"
+          fi
+          python3 scripts/fnn_boxoffice.py --stage out/boxoffice-staging || echo "filmynewsnetwork reader failed/missing, continuing"
+          python3 scripts/wp_boxoffice.py --stage out/boxoffice-staging || echo "wordpress reader failed/missing, continuing"
+          python3 scripts/bollybourse_boxoffice.py --stage out/boxoffice-staging || echo "bollybourse reader failed/missing, continuing"
+          python3 scripts/varanasiboxoffice_boxoffice.py --stage out/boxoffice-staging || echo "varanasiboxoffice reader failed/missing, continuing"
+          python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
 
       # --- 7. publish panel-approved articles (always) -----------------
       - name: Publish approved articles
@@ -237,7 +255,8 @@ jobs:
           TITLE_OUTCOME: ${{ steps.title.outcome }}
           GEMINI_OUTCOME: ${{ steps.gemini.outcome }}
           APPLY_OUTCOME: ${{ steps.applyauto.outcome }}
-          SACNILK_OUTCOME: ${{ steps.sacnilk.outcome }}
+          SACNILK_OUTCOME: ${{ steps.multisource.outcome }}
+          MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
           TRAFFIC_OUTCOME: ${{ steps.traffic.outcome }}
@@ -286,6 +305,8 @@ jobs:
                   ("publish", os.environ.get("PUBLISH_OUTCOME")),
                   ("convert_news", os.environ.get("FEED_OUTCOME")),
                   ("stats_traffic", os.environ.get("TRAFFIC_OUTCOME")),
+                  ("multisource_boxoffice",
+                   os.environ.get("MULTISOURCE_OUTCOME")),
                   ("version_bump", os.environ.get("BUMP_OUTCOME"))]:
               rec = steps.setdefault(name, {})
               rec["last_status"] = outcome or "unknown"
@@ -319,6 +340,14 @@ jobs:
           git add api-news.json api-trends.json
           git add js/stats-pipeline.json js/stats-traffic.json js/stats-health.json
           git add out/orchestrator-state.json
+          # Multi-source box office: staging files must persist across
+          # runs (a fresh checkout has no staging, so the engine would
+          # lose the 6h-gated Sacnilk figures); the sidecar is the
+          # per-figure source provenance. Both are deterministic (no
+          # timestamps), so they only stage a change when data actually
+          # changed — no spurious hourly commit.
+          git add out/boxoffice-staging || true
+          git add out/multisource-boxoffice.json || true
           # out/ files may not exist yet on the first run; add them one
           # at a time, tolerating absence.
           for f in out/gemini-batch.json out/processed.json out/auto-feed.json \
@@ -357,6 +386,7 @@ jobs:
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
           fi
+
 
 
 
