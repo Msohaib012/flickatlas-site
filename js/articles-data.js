@@ -2788,5 +2788,312 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 26 Oct 2026 11:28:53 +0530"
+  },
+  "1qath7j": {
+    "id": "1qath7j",
+    "type": "news",
+    "headline": "Ranabaali Box Office Collection Day 10: Telugu Drama Enters Rashmika Mandanna’s Top 10 Post-COVID Grossers",
+    "dek": "Despite facing a sluggish theatrical run and losing numerous shows in its second weekend, the period drama Ranabaali crosses a major milestone by overtaking Sita Ramam globally.",
+    "body": [
+      {
+        "h": "A Slow Theatrical Journey",
+        "p": [
+          "The Telugu period drama Ranabaali has experienced a relatively slow run at the box office since its release. Bringing together the popular onscreen pairing of actor Vijay Deverakonda and actress Rashmika Mandanna, the film generated substantial anticipation prior to its theatrical debut. Having previously shared great chemistry in Geetha Govindam and Dear Comrade, the real-life couple's reunion on screen was widely talked about by fans and industry trackers alike.",
+          "However, despite the immense initial hype surrounding the project, the movie ultimately fell short of expectations commercially. While ticket sales have not matched the peak projections set by their previous collaborations, the feature has managed to carve out a notable achievement by securing a spot among the leading post-pandemic releases for its lead actress."
+        ]
+      },
+      {
+        "h": "Second Weekend Earnings and Theater Drops",
+        "p": [
+          "As the movie transitioned into its second weekend, it faced considerable hurdles at the box office, notably losing more than 500 shows across its exhibition network. This reduction in screen count naturally led to a noticeable downward trend in daily ticket sales compared to the high numbers witnessed during its opening weekend.",
+          "Focusing specifically on the tenth day of its theatrical run, the feature brought in 2.9 crore net in India on its second Sunday. During this particular day, it played across 1,578 shows while recording an occupancy rate of 36 percent. Factoring in the rest of the weekend, the second weekend as a whole contributed a total of 7.8 crore net domestically."
+        ]
+      },
+      {
+        "h": "Milestones and Worldwide Totals",
+        "p": [
+          "Following the completion of its first ten days in cinemas, the cumulative net total for the Telugu drama in India rests at 53 crore, which converts to 62.4 crore. When factoring in the international markets, where the feature collected an additional 12.05 crore, the overall worldwide gross collection reaches a solid 74.45 crore.",
+          "The production carried a reported making budget estimated between 120 and 150 crore. While the overall box office trajectory has seen slower momentum, crossing the 74 crore global mark represents a notable milestone for the cast and crew involved in the lavish period project."
+        ]
+      },
+      {
+        "h": "Overtaking Sita Ramam Globally",
+        "p": [
+          "A key highlight of this ten-day update is that Ranabaali has successfully surpassed the global lifetime collection of Sita Ramam. In the latter film, Rashmika Mandanna played a pivotal role alongside co-stars Dulquer Salmaan and Mrunal Thakur, which had finished its theatrical run with a worldwide total of 65.49 crore.",
+          "By cruising past that benchmark to land at a worldwide gross of 74.45 crore, the Rahul Sankrityan directorial successfully captures the tenth position on the list of highest-grossing post-COVID films featuring Rashmika Mandanna."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Cast Details",
+        "p": [
+          "Ranabaali is directed by filmmaker Rahul Sankrityan and backed by producers Naveen Yerneni and Yalamanchili Ravi Shankar. The film was brought to the big screen under the prominent banners of Mythri Movie Makers and T-Series Films, and officially opened to audiences on October 16, 2026.",
+          "Alongside the main leads Vijay Deverakonda and Rashmika Mandanna, the expansive cast features several notable international and domestic actors, including Arnold Vosloo, Easwari Rao, Luke McGibney, and Vladimir Angelove, rounding out the period ensemble."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranabaali was released on October 16, 2026.",
+      "The film's budget was reported to be 120-150 crore.",
+      "On its 2nd Sunday, the film earned 2.9 crore against 1578 shows with an occupancy rate of 36%.",
+      "In its second weekend, the film earned a total of 7.8 crore net in India.",
+      "The net total of Ranabaali after 10 days stands at 53 crore, translating to 62.4 crore.",
+      "Overseas, the film has earned 12.05 crore.",
+      "The worldwide total of Ranabaali stands at 74.45 crore.",
+      "Sita Ramam earned 65.49 crore worldwide during its theatrical run."
+    ],
+    "entities": {
+      "people": [
+        "Rashmika Mandanna",
+        "Vijay Deverakonda",
+        "Rahul Sankrityan",
+        "Naveen Yerneni",
+        "Yalamanchili Ravi Shankar",
+        "Arnold Vosloo",
+        "Easwari Rao",
+        "Luke McGibney",
+        "Vladimir Angelove",
+        "Dulquer Salmaan",
+        "Mrunal Thakur"
+      ],
+      "titles": [
+        "Ranabaali",
+        "Sita Ramam",
+        "Geetha Govindam",
+        "Dear Comrade",
+        "Pushpa 2",
+        "Chhaava",
+        "Animal",
+        "Pushpa",
+        "Varisu",
+        "Thamma",
+        "Sikandar",
+        "Cocktail 2",
+        "Kuberaa"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/ranabaali-box-office-collection-day-10-unlocks-new-milestone-for-rashmika-mandanna-post-covid-01.jpg",
+        "caption": "Ranabaali Box Office Collection Day 10: Telugu Drama Enters Rashmika Mandanna’s Top 10 Post-COVID Grossers",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 06:35:15 +0000"
+  },
+  "1dhukox": {
+    "id": "1dhukox",
+    "type": "news",
+    "headline": "Central Board of Film Certification Experiences Major Security Scare as Documents for Over 500 Films Are Exposed",
+    "dek": "A reported security breach on the CBFC e-Cinepramaan portal leaves confidential scripts, cut orders, and distribution agreements for more than 500 projects vulnerable.",
+    "body": [
+      {
+        "h": "The Incident and Initial Discovery",
+        "p": [
+          "The Central Board of Film Certification has encountered a severe data security scare after confidential materials tied to upwards of 500 cinematic titles were allegedly compromised. The exposed data reportedly remained accessible through digital archiving platforms for a period spanning multiple days before the security lapse was finally detected and brought to light.",
+          "While initial assessments indicate that the actual media files and final film reels were not directly leaked, the situation has ignited intense industry-wide anxiety. Filmmakers, production banners, and various stakeholders are questioning the efficacy of existing security frameworks designed to protect proprietary information submitted during mandatory official compliance processes."
+        ]
+      },
+      {
+        "h": "Nature of the Compromised Documents",
+        "p": [
+          "Among the sensitive records allegedly exposed through the system are unreleased film scripts, detailed synopses, and pivotal plot points. For creators of upcoming features, the premature disclosure of narrative structures, character arcs, and unexpected twists poses a direct threat to carefully planned promotional rollouts and audience engagement strategies prior to theatrical or streaming debuts.",
+          "Additionally, the vulnerability compromised official records concerning censor cut orders and modifications mandated during the evaluation process. These files typically detail editorial changes and creative choices that production teams intend to keep under wraps until official public clearances are finalised, leaving creators with little recourse to manage the narrative."
+        ]
+      },
+      {
+        "h": "Business and Commercial Vulnerabilities",
+        "p": [
+          "Beyond creative storylines and editorial notes, the security lapse reportedly extended to private distribution agreements and intricate licensing fee details. These documents encompass sensitive commercial information for both domestic and international projects, including revenue-sharing models, intellectual property clauses, and binding contractual terms established between studios and distribution partners.",
+          "The public exposure of such proprietary business data risks disrupting active negotiations and exposing confidential financial arrangements within the broader entertainment sector. Industry participants have voiced alarm over how commercially sensitive documentation of this magnitude could remain accessible through online archiving platforms without immediate detection."
+        ]
+      },
+      {
+        "h": "Industry Reactions and Official Response",
+        "p": [
+          "The revelation prompted swift reactions from prominent industry figures, including producer and market expert Girish Johar. Taking to social media via X, formerly Twitter, Johar publicly noted that documents ranging from scripts to distribution pacts had been exposed, confirming that the regulatory body had initiated an internal investigation and security audit to determine the scope of the failure.",
+          "The incident centers around the e-Cinepramaan portal, the dedicated online interface utilised by production houses to navigate the mandatory certification procedures. Because applicants are required to upload comprehensive project details and sensitive collateral to the platform, the breach has cast a harsh spotlight on the digital safety protocols guarding state-managed entertainment databases."
+        ]
+      }
+    ],
+    "facts": [
+      "Over 500 film titles were linked to the exposed confidential documents.",
+      "The data exposure occurred through the CBFC's e-Cinepramaan portal.",
+      "Documents remained accessible through digital archiving platforms for several days.",
+      "Exposed materials included unreleased scripts, censor cut orders, and distribution agreements.",
+      "Girish Johar shared information regarding the security breach on X.",
+      "The article was published on October 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Girish Johar",
+        "Soumyabrata Gupta"
+      ],
+      "titles": [
+        "e-Cinepramaan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156406756,thumbsize-51048,width-1280,height-720,resizemode-75/156406756.jpg",
+        "caption": "Central Board of Film Certification Experiences Major Security Scare as Documents for Over 500 Films Are Exposed",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T09:55:38Z"
+  },
+  "7b0j5q": {
+    "id": "7b0j5q",
+    "type": "news",
+    "headline": "Suriya Manifested Working With Jithu Madhavan Ahead Of Tamil Debut In ‘Scene’",
+    "dek": "Popular actor Suriya shared his excitement about joining forces with Malayalam director Jithu Madhavan for the upcoming action-comedy film ‘Scene’, expressing amazement at how quickly his wish came true.",
+    "body": [
+      {
+        "h": "A Dream Collaboration Realized Rapidly",
+        "p": [
+          "Suriya is gearing up for his highly anticipated cinematic venture titled ‘Scene’, a project that brings acclaimed Malayalam filmmaker Jithu Madhavan into the Tamil film industry. Widely recognized for his successful directorial efforts in Malayalam cinema such as ‘Romancham’ and ‘Aavesham’, Jithu Madhavan takes the director's chair for this upcoming multi-talented feature. Ahead of the film's scheduled theatrical premiere, Suriya opened up about how deeply he admired Jithu's previous filmography, admitting that he had quietly hoped and manifested an opportunity to collaborate with the visionary director.",
+          "Speaking directly to fans and media gathered at a pre-release promotional event held in Dubai, the leading actor expressed genuine surprise regarding how swiftly the opportunity materialized. He mentioned that he never anticipated the partnership would happen quite this soon in his career. The mutual admiration between the actor and the director set an enthusiastic tone for the event, highlighting the excitement surrounding the upcoming cross-industry collaboration."
+        ]
+      },
+      {
+        "h": "An Instant Connection Over Narration",
+        "p": [
+          "Recalling the very first time Jithu Madhavan narrated the script of ‘Scene’, Suriya shared a fascinating anecdote about his usual demeanor during story pitches versus his reaction this time around. The actor noted that he typically maintains a quiet, reserved posture when filmmakers pitch stories to him, listening intently without interrupting. However, the script for ‘Scene’ completely shattered his usual routine, capturing his attention and winning him over within the first few minutes of the narration.",
+          "Suriya described how he unexpectedly broke into laughter just moments into the story pitch, thoroughly enjoying the narrative arc and comedic elements woven into the script. This immediate comedic and emotional connection proved to be the deciding factor for the actor, assuring him that Jithu’s distinct storytelling voice would translate exceptionally well onto the big screen."
+        ]
+      },
+      {
+        "h": "Welcoming New Talents to Tamil Cinema",
+        "p": [
+          "The production of ‘Scene’ also serves as a significant bridge for various acclaimed Malayalam artists making their official debut in Tamil cinema. During the Dubai event, Suriya took a moment to shower praise on his co-star Nazriya Nazim, commending her natural acting prowess and formidable screen presence. He specifically highlighted her character, Maya, noting that Jithu had crafted and fully realized the role with exceptional depth and beauty.",
+          "In addition to Nazriya, Suriya extended a warm welcome to young Malayalam actor Naslen, who is stepping into the Tamil film sphere with this project. Suriya expressed admiration for Naslen's prior performances and voiced his strong hope that the young actor will continue to take on many more Tamil projects in the future, thanking him for the magical energy he brought to the set."
+        ]
+      },
+      {
+        "h": "A Fresh Technical Crew and Musical Synergy",
+        "p": [
+          "Beyond the principal cast, ‘Scene’ marks the notable entry of composer Sushin Shyam into the Tamil film industry. Sushin joins forces once again with Jithu Madhavan, recreating the musical synergy that powered some of their most popular Malayalam projects together. This creative pairing is expected to give the film a distinct sonic identity that complements its narrative tone.",
+          "Furthermore, Suriya made sure to express gratitude toward the entire technical crew behind the film. He acknowledged that several key department members spanning music, cinematography, choreography, and editing are making their official debuts in Tamil cinema through this project, lending a fresh and innovative perspective to its overall execution."
+        ]
+      },
+      {
+        "h": "Plot Details and Worldwide Theatrical Release",
+        "p": [
+          "Positioned as a stylish action-comedy, ‘Scene’ promises to blend high-octane mass action sequences seamlessly with humour and romantic subplots. Suriya takes on the central role of Imbaraj IPS, a dedicated police officer navigating the dramatic events of the narrative. Alongside Suriya, Nazriya, and Naslen, the star-studded cast features notable performances from Anandraj, Lal, and Raj Priyan in pivotal supporting roles.",
+          "Fans eagerly awaiting the film will not have to wait much longer, as ‘Scene’ is officially scheduled for a worldwide theatrical release on November 6, 2026. The release timing intentionally coincides with the festive Diwali celebrations, positioning it as a major holiday attraction at the box office."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya stars in the upcoming film titled ‘Scene’.",
+      "Jithu Madhavan is the director of ‘Scene’ and is known for ‘Romancham’ and ‘Aavesham’.",
+      "‘Scene’ marks Jithu Madhavan's directorial debut in Tamil cinema.",
+      "The pre-release event for the film took place in Dubai.",
+      "Sushin Shyam is the composer for the film, marking his entry into Tamil cinema.",
+      "Nazriya Nazim plays the character Maya in the film.",
+      "Naslen makes his Tamil cinema debut with ‘Scene’.",
+      "Suriya plays the character Imbaraj IPS, a police officer, in the movie.",
+      "Other cast members include Anandraj, Lal, and Raj Priyan.",
+      "The film is scheduled for a worldwide theatrical release on November 6, 2026, coinciding with Diwali."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Sushin Shyam",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan"
+      ],
+      "titles": [
+        "Scene",
+        "Romancham",
+        "Aavesham"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135204591,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya Manifested Working With Jithu Madhavan Ahead Of Tamil Debut In ‘Scene’",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T11:54:30+05:30"
+  },
+  "12dxxow": {
+    "id": "12dxxow",
+    "type": "news",
+    "headline": "Filmmaker Sulagna Chatterjee Questions Organisers After Shilpa Rao's Set is Cut Short at Mumbai Festival",
+    "dek": "Filmmaker Sulagna Chatterjee has criticized the organizers of the Bollywood Music Project after singer Shilpa Rao's live set was abruptly interrupted, questioning why fellow performer Himesh Reshammiya was allowed to continue despite similar scheduling delays.",
+    "body": [
+      {
+        "h": "Abrupt Interruption at the Mumbai Music Festival",
+        "p": [
+          "The live music scene in Mumbai recently experienced a wave of controversy following an unexpected disruption during a major festival performance. Renowned playback singer Shilpa Rao found her set brought to an abrupt and premature halt, leaving both the artist and her audience stunned. The incident took place during the Bollywood Music Project, an event that brings together prominent names from the Indian music industry for large-scale live performances.",
+          "According to eyewitness accounts and subsequent reports, technical difficulties began plaguing the stage early in the set. Despite microphones failing and operational hiccups interrupting the flow of the music, the singer maintained her composure and continued to deliver popular tracks to an appreciative audience. However, the situation quickly deteriorated as the evening progressed, culminating in a sudden blackout of the stage lights while she was still performing."
+        ]
+      },
+      {
+        "h": "Eyewitness Account by Filmmaker Sulagna Chatterjee",
+        "p": [
+          "Filmmaker Sulagna Chatterjee, who was present at the venue, offered a detailed and critical perspective on how the events unfolded. Recalling the evening in a media interview, Chatterjee noted that the festival had already fallen behind its scheduled timeline when the vocalist took the stage around the evening slot. Despite initial hurdles, the performance progressed with several well-received tracks before descending into confusion.",
+          "Chatterjee described the jarring moment when the stage lights went dark and another act immediately commenced on an adjacent stage. Left standing in the dark, the singer attempted to address the crowd and offer a proper farewell. Yet, this final interaction was similarly cut short when competing sound systems drowned out her voice with the next scheduled performance, leaving attendees disheartened by the lack of basic courtesy shown to a veteran artist."
+        ]
+      },
+      {
+        "h": "Discrepancy in Treatment of Performing Artists",
+        "p": [
+          "A central point of contention raised by Chatterjee involves the apparent double standard applied to different acts on the festival lineup. Pointing to the management of fellow musician Himesh Reshammiya, the filmmaker questioned why similar scheduling restrictions were not enforced universally. While technical teams reportedly attempted to curtail Reshammiya's performance due to time constraints, he was ultimately permitted to extend his set to complete his planned medleys.",
+          "This contrast in handling sparked immediate debates regarding artist management and scheduling fairness at large-scale entertainment events. Critics and festival attendees argued that established artists who have contributed significantly to the cinematic and musical landscape deserve equal consideration and respect, particularly when operational delays stem from logistical issues outside of the performers' control."
+        ]
+      },
+      {
+        "h": "Artist's Emotional Response and Fan Support",
+        "p": [
+          "Following the premature conclusion of her appearance, Rao turned to social media to share her profound disappointment with her followers. In an emotional statement posted online, she described feeling heartbroken over having her time with the Mumbai audience cut short. She emphasized the deep emotional connection she shares with her listeners, noting that their unwavering support and continued chanting of her name provided comfort amidst the frustration.",
+          "The singer expressed gratitude toward the crowds who refused to disperse quietly even after the sound systems had been powered down. Promising to return to the city for a complete and uninterrupted performance, her message resonated widely across digital platforms, drawing sympathy from fans and peers alike who condemned the mishandling of her live segment."
+        ]
+      },
+      {
+        "h": "Organisers Issue Public Apology and Cite Venue Curfew Rules",
+        "p": [
+          "In response to the mounting public backlash, the management team behind the Bollywood Music Project released an official statement addressing the controversy. They extended a deep apology to the vocalist, acknowledging her immense stature, enduring legacy, and exceptional artistic contributions to the entertainment industry. The organisers clarified that they held the highest regard for her talent and deeply regretted their inability to showcase her full set.",
+          "Explaining the root cause of the disruption, the organisers attributed the incident to complex festival logistics and compounding delays from earlier acts running past their allotted times. They stated that strict local authority guidelines and legally mandated venue curfew regulations left them with no operational alternative, forcing a premature end to the performance despite their intentions."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident occurred on October 24, 2026, at the Bollywood Music Project in Mumbai.",
+      "Shilpa Rao took the stage at approximately 8.30 pm.",
+      "Sulagna Chatterjee recounted the events in an interview with Mid-Day.",
+      "Other performers on the lineup included Himesh Reshammiya, Hariharan, Euphoria, Anu Malik, Shahid Mallya, and Kutle Khan."
+    ],
+    "entities": {
+      "people": [
+        "Shilpa Rao",
+        "Sulagna Chatterjee",
+        "Himesh Reshammiya",
+        "Kutle Khan",
+        "Hariharan",
+        "Anu Malik",
+        "Shahid Mallya"
+      ],
+      "titles": [
+        "Tose Naina Lage",
+        "Khuda Jaane",
+        "Kalank",
+        "Chuttamalle",
+        "Bollywood Music Project"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135204241,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Filmmaker Sulagna Chatterjee Questions Organisers After Shilpa Rao's Set is Cut Short at Mumbai Festival",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-26T11:32:37+05:30"
   }
 };
