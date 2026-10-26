@@ -126,6 +126,127 @@ SOURCES = [
      "&primary_release_date.lte={horizon}&sort_by=popularity.desc"),
 ]
 
+# --- Drama tracker <-> published catalogue sync (owner order 2026-10-26) ---
+# The episode tracker (scripts/episode-guides.py) posts episodes for any
+# drama on the 4 official PK channels, but it takes the drama name from the
+# YouTube video title — which is often a SHORT name ("Dar", "Zehar") while
+# TMDB / FA_PUBLISHED uses the full name ("Dar-E-Nijaat", "Zehar-e-Mohabbat").
+# That is why the Pakistani Dramas list and the Drama Episodes list showed
+# different dramas (only Bano overlapped, 2026-10-26). The rule that keeps
+# them in sync: on every seeder run, reconcile_tracker_dramas() reads the
+# tracker's episode dramas from FA_ARTICLES and publishes any that are
+# missing, so published ⊇ episode dramas. It NEVER guesses: a drama is added
+# only when (a) it is in DRAMA_ALIASES (a verified mapping), or (b) a TMDB
+# search returns exactly ONE Pakistani/Urdu result with a poster whose name
+# matches the tracker name exactly. Anything ambiguous is logged + skipped.
+# Titles in NON_DRAMA_TITLES are never published as dramas (a chat show
+# and a sitcom the tracker picks up as "episodes").
+DRAMA_ALIASES = {
+    "Dar": 328722,          # tracker short name -> Dar-E-Nijaat (published)
+    "Zehar": 332593,        # tracker short name -> Zehar-e-Mohabbat
+    # Aangan: TMDB has TWO entries for it (90172 and 337270, both PK/Urdu,
+    # first_air 2018-12-20), so the reconcile search is ambiguous and skips
+    # it. 90172 is the canonical one — its overview matches the tracker's
+    # episode text verbatim ("Set before 1940s, a Hindustani family..."),
+    # it has 36 episodes on Hum TV; 337270 is a stub (1 ep, no network).
+    "Aangan": 90172,
+}
+NON_DRAMA_TITLES = {
+    "Exclusive Chat with Zahid Ahmed",  # interview/chat show, not a drama
+    "Bulbulay Season 2",                # sitcom, not a drama serial
+    "Bulbulay",                          # same show, short name
+}
+
+
+def reconcile_tracker_dramas(key, published, pt, out_dir):
+    """Publish any Pakistani drama the episode tracker found but the
+    catalogue does not have yet. Returns the list of added entries.
+    Defensive by design: any failure is logged and the seeder continues;
+    nothing is ever removed or modified, only added. A drama is added
+    only on a verified alias or an unambiguous single TMDB match."""
+    added = []
+    try:
+        arts_path = os.path.join(out_dir, "articles-data.js")
+        articles = pt.read_js_map(arts_path, "FA_ARTICLES")
+    except Exception as e:
+        print(f"  reconcile dramas: cannot read articles-data.js ({e})")
+        return added
+    # Drama names from episode headlines ("<Drama> Episode N — Watch on ...").
+    names = set()
+    for a in (articles or {}).values():
+        h = (a or {}).get("headline") or ""
+        if "Watch on" not in h:
+            continue
+        m = re.match(r"^(.*?)\s+Episode\s+\d+", h)
+        name = (m.group(1).strip() if m else h.split(" — ")[0].strip())
+        if name:
+            names.add(name)
+    for name in sorted(names):
+        if name in NON_DRAMA_TITLES:
+            print(f"  reconcile dramas: SKIP {name!r} (not a drama)")
+            continue
+        # Already published under this name (or its alias target)?
+        tid = DRAMA_ALIASES.get(name)
+        if tid is not None and str(tid) in published:
+            continue
+        if tid is None:
+            # Exact-name match against published titles.
+            if any((v or {}).get("title") == name for v in published.values()):
+                continue
+            # Resolve via TMDB search: exactly ONE PK/Urdu poster result
+            # whose name matches exactly, else skip (never guess).
+            try:
+                data = tmdb_get(
+                    "/search/tv?query=" + urllib.parse.quote(name), key)
+            except Exception as e:
+                print(f"  reconcile dramas: search failed for {name!r} ({e})")
+                continue
+            cands = []
+            for r in (data or {}).get("results") or []:
+                if not r.get("poster_path"):
+                    continue
+                if (r.get("original_language") != "ur"
+                        and "PK" not in (r.get("origin_country") or [])):
+                    continue
+                if str(r.get("name") or "").strip().lower() != name.lower():
+                    continue
+                cands.append(r)
+            if len(cands) != 1:
+                print(f"  reconcile dramas: SKIP {name!r} "
+                      f"({len(cands)} unambiguous TMDB matches)")
+                continue
+            tid = cands[0]["id"]
+            if str(tid) in published:
+                continue
+        try:
+            details = fetch_typed(tid, "tv", key, pt)
+        except Exception as e:
+            print(f"  reconcile dramas: fetch failed for {name!r} ({tid}, {e})")
+            continue
+        if not details:
+            print(f"  reconcile dramas: no TMDB title {tid} for {name!r}")
+            continue
+        entry = pt.build_entry(details, "tv", ["tv"],
+                               time.strftime("%Y-%m-%d", time.gmtime()))
+        if not entry.get("poster_path") or not entry.get("title"):
+            print(f"  reconcile dramas: SKIP {name!r} (no poster/title)")
+            continue
+        if entry.get("industry") != "pakistani":
+            print(f"  reconcile dramas: SKIP {name!r} "
+                  f"(industry {entry.get('industry')!r})")
+            continue
+        try:
+            entry["providers"] = fetch_providers(tid, "tv", key)
+        except Exception:
+            entry["providers"] = []
+        published[str(tid)] = entry
+        added.append(entry)
+        print(f"  reconcile dramas: added {tid} ({entry['title']}, "
+              f"tracker name {name!r})")
+        time.sleep(0.3)
+    return added
+
+
 TMDB_BASE = "https://api.themoviedb.org/3"
 
 
@@ -454,6 +575,18 @@ def main():
           f"ceiling {cap} (first run: {len(published) <= 2})"
           f"{' [DRY RUN]' if args.dry_run else ''}")
 
+    # Drama sync (owner order 2026-10-26): publish any Pakistani drama
+    # the episode tracker found but the catalogue lacks, so the Pakistani
+    # Dramas list and the Drama Episodes list stay in sync. Defensive:
+    # a failure here never breaks the seeder run.
+    try:
+        rec = reconcile_tracker_dramas(key, published, pt,
+                                       os.path.dirname(args.out))
+        if rec:
+            print(f"title-seed: drama reconcile +{len(rec)}")
+    except Exception as e:
+        print(f"title-seed: drama reconcile failed ({e})", file=sys.stderr)
+
     lists = fetch_lists(key)
     picked = select(lists, published, cap)
     print(f"title-seed: {len(picked)} candidates selected")
@@ -527,6 +660,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

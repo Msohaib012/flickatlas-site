@@ -2606,5 +2606,447 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-22",
     "runtime": 157,
     "providers": []
+  },
+  "90172": {
+    "id": 90172,
+    "type": "tv",
+    "title": "Aangan",
+    "poster_path": "/niWwOYDNQr2PsqYR18CWigAKetK.jpg",
+    "backdrop_path": null,
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2018-12-20",
+    "networks": [
+      "Hum TV"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 36,
+    "channel": "Hum TV",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 36,
+        "air_date": "2018-12-20",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "329481": {
+    "id": 329481,
+    "type": "tv",
+    "title": "Dastoor",
+    "poster_path": "/wJ2TepR9FrqFJnsuVuFsDCPsr7x.jpg",
+    "backdrop_path": "/1EO8EsKdmQzih4YQyZBqGbbxl3B.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-07-31",
+    "networks": [
+      "Green TV Entertainment"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "Green TV Entertainment",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-07-31",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Kamran Akbar Khan"
+    ],
+    "providers": []
+  },
+  "335901": {
+    "id": 335901,
+    "type": "tv",
+    "title": "Izzat",
+    "poster_path": "/ry2IIyi0AANqAOYRals0hPTB5l7.jpg",
+    "backdrop_path": "/gqYqqPmpal2EiuOw2GCs4O8LFDs.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Family tensions rise as preparations for a birthday celebration highlight underlying financial disparities and strained relationships. Disagreements over property, career expectations, and personal choices challenge the unity of the household. As the event nears, these complex dynamics threaten to disrupt what should be a joyful occasion.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-20",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-09-20",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "335091": {
+    "id": 335091,
+    "type": "tv",
+    "title": "Khushi",
+    "poster_path": "/sZDUVsECLWcrQuQ3vmWu3fFohKU.jpg",
+    "backdrop_path": "/xXViRGhvsD7mMMZ7jXEI3tWGeBf.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khushi is a captivating story of love, relationships, and the choices that shape our destiny. As life unfolds, every decision brings new challenges, unexpected turns, and moments that test the strength of love and family bonds. ❤️",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-13",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-09-13",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Haseeb Ali"
+    ],
+    "providers": []
+  },
+  "337079": {
+    "id": 337079,
+    "type": "tv",
+    "title": "Mohabbat Mukhtasir",
+    "poster_path": "/pWof22SIRfVhgvAChfI4A65EoNZ.jpg",
+    "backdrop_path": "/hwmf0a8XftJNIRT6ZhniEZWvxiO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Some stories are written by fate, while others are shaped by love, sacrifice, and the choices we make. ❤️✨\n\nPresenting Mohabbat Mukhtasir, a captivating drama serial that explores the complexities of relationships, the power of emotions, and the unexpected turns of life.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-27",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-09-27",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Meer Sikandar"
+    ],
+    "providers": []
+  },
+  "332312": {
+    "id": 332312,
+    "type": "tv",
+    "title": "Nashtar",
+    "poster_path": "/zfgmHmbGujNNaS5bltuah3TSAB4.jpg",
+    "backdrop_path": null,
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "overview": "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-08-21",
+    "networks": [
+      "Har Pal Geo"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Har Pal Geo",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-08-21",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Abdullah Kadwani",
+      "Asad Qureshi"
+    ],
+    "providers": []
+  },
+  "336291": {
+    "id": 336291,
+    "type": "tv",
+    "title": "Uswah",
+    "poster_path": "/uXbq7ocjd60PLMRVOSW9yYJXhNX.jpg",
+    "backdrop_path": "/oHJNHsaeTqU3tcQyrvDIrW0Dob8.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-23",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-09-23",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ali Akbar"
+    ],
+    "providers": []
+  },
+  "332593": {
+    "id": 332593,
+    "type": "tv",
+    "title": "Zehar-e-Mohabbat",
+    "poster_path": "/qWXYbvIFU3mNWVnBRXQFBA3mmmI.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Sometimes, The Heart Understands Something The Mind Takes Longer To Accept.\"❤️✨\n\nZehar-e-Mohabbat - A Compelling Story About The Fine Line Between Trust, Attachment, And Truth..🦋",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-08-22",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-08-22",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Saqib Zafar Khan"
+    ],
+    "providers": []
   }
 };
