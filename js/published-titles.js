@@ -767,5 +767,279 @@ window.FA_PUBLISHED = {
     "certification": "U/A 16+",
     "release_date": "2026-10-13",
     "runtime": 120
+  },
+  "1003596": {
+    "id": 1003596,
+    "type": "movie",
+    "title": "Avengers: Doomsday",
+    "poster_path": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+    "backdrop_path": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "X1aFkAkFASk",
+      "name": "Special Look",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "+13",
+    "release_date": "2026-12-16",
+    "runtime": 165
+  },
+  "1423191": {
+    "id": 1423191,
+    "type": "movie",
+    "title": "Resident Evil",
+    "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "vote_average": 7.309,
+    "vote_count": 1069,
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "mNd1gb19A-c",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 75000000,
+    "revenue": 384481000,
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "tagline": "A new era of evil.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "DE",
+      "FR"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-09-16",
+    "runtime": 95
+  },
+  "1496785": {
+    "id": 1496785,
+    "type": "movie",
+    "title": "Aadarsha Kutumbam House No: 47 - AK47",
+    "poster_path": "/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
+    "backdrop_path": "/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
+    "industry": "world",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Action",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-30",
+    "runtime": 0
+  },
+  "1269325": {
+    "id": 1269325,
+    "type": "movie",
+    "title": "Drishyam: The Conclusion",
+    "poster_path": "/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+    "backdrop_path": "/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+    "vote_average": 7.591,
+    "vote_count": 11,
+    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "MFQFxsDWbA8",
+      "name": "Drishyam: The Conclusion - Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-02",
+    "runtime": 148
+  },
+  "337617": {
+    "id": 337617,
+    "type": "tv",
+    "title": "Rutba",
+    "poster_path": "/nhxoH9ZipPhn2yKee9uS7Lmknzq.jpg",
+    "backdrop_path": "/wcom4DlHk3UWl87TZvwUmN3qUSm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A relationship built on respect. A bond meant to be protected. But what happens when the very person meant to honour it begins to forget its worth?",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-06",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 2,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 15,
+        "air_date": "2026-10-06",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Umera Ahmed",
+      "Haseeb Hasan"
+    ]
+  },
+  "1480856": {
+    "id": 1480856,
+    "type": "movie",
+    "title": "Hanging by a Wire",
+    "poster_path": "/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+    "backdrop_path": "/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+    "vote_average": 5.0,
+    "vote_count": 3,
+    "overview": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
+    "industry": "pakistani",
+    "original_language": "en",
+    "origin_country": [
+      "PK",
+      "GB",
+      "US"
+    ],
+    "trailer": {
+      "key": "XOiBpu4oWxo",
+      "name": "HANGING BY A WIRE | OFFICIAL TRAILER",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-26",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US",
+      "PK"
+    ],
+    "spoken_languages": [
+      "en",
+      "ur"
+    ],
+    "certification": "",
+    "release_date": "2026-10-21",
+    "runtime": 77
   }
 };
