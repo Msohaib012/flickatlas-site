@@ -9,7 +9,9 @@ name: Stats — pipeline
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    # Every 6h (was hourly): pipeline stats do not need hourly
+    # freshness, and each commit burns one of Vercel's 100 deploys/day.
+    - cron: '5 */6 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -41,4 +43,5 @@ jobs:
             git pull --rebase
             git push
           fi
+
 
