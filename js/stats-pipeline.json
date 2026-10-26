@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-26T01:55:24Z",
+  "generated": "2026-10-26T03:55:23Z",
   "fetch": {
-    "status": "success",
-    "run_id": 40254811152,
-    "started_at": "2026-10-26T01:33:41Z",
-    "finished_at": "2026-10-26T01:35:12Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40254811152",
+    "status": "in_progress",
+    "run_id": 40266410572,
+    "started_at": "2026-10-26T03:55:13Z",
+    "finished_at": "2026-10-26T03:55:19Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40266410572",
     "sources_total": 136,
     "sources_ok": 92,
     "sources_error": 20,
@@ -44,14 +44,14 @@
       "Viral — Pakistan": 1,
       "Viral — UK": 2
     },
-    "next_run": "2026-10-26T02:35:00Z"
+    "next_run": "2026-10-26T04:35:00Z"
   },
   "gemini": {
-    "status": "success",
-    "run_id": 40256058720,
-    "started_at": "2026-10-26T01:49:07Z",
-    "finished_at": "2026-10-26T01:49:30Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40256058720",
+    "status": "in_progress",
+    "run_id": 40266402061,
+    "started_at": "2026-10-26T03:55:07Z",
+    "finished_at": "2026-10-26T03:55:13Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40266402061",
     "generated_at": "2026-10-26T01:49:25Z",
     "picked": 2,
     "per_category": {
@@ -59,15 +59,15 @@
     },
     "skipped": 0,
     "posts_created": 2,
-    "next_run": "2026-10-26T02:50:00Z"
+    "next_run": "2026-10-26T04:50:00Z"
   },
   "publish": {
-    "status": "success",
-    "run_id": 40254729341,
-    "started_at": "2026-10-26T01:32:38Z",
-    "finished_at": "2026-10-26T01:32:50Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40254729341",
-    "next_run": "2026-10-26T02:10:00Z"
+    "status": "in_progress",
+    "run_id": 40266406485,
+    "started_at": "2026-10-26T03:55:10Z",
+    "finished_at": "2026-10-26T03:55:15Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40266406485",
+    "next_run": "2026-10-26T04:10:00Z"
   },
   "posts": {
     "total": 18,
