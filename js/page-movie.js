@@ -186,7 +186,7 @@
     const trailerName = pub.trailer && pub.trailer.name ? pub.trailer.name : "";
 
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
-    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office", { titleId: id }) : "";
+    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office (India Net)", { titleId: id }) : "";
 
     /* Advance booking (user order 2026-10-26): upcoming days' advance
        figures from window.FA_ADVANCE (js/advance-data.js, produced by
@@ -381,6 +381,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 
