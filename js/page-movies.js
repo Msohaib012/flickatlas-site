@@ -133,11 +133,14 @@
   const todayStr = () => new Date().toISOString().slice(0, 10);
   const published = () => Object.values(window.FA_PUBLISHED || {});
   const dateOf = x => x.release_date || "";
-  /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
-     published_at desc, then release date desc. "Popular" sorts by rating
+  /* Homepage rule (correction 9, as amended 2026-10-26 by user order):
+     recency-sorted everywhere, newest first — RELEASE DATE desc (the
+     latest release leads, then going back); published_at only breaks
+     ties. The old published_at-first sort scrambled the order whenever
+     titles were published in batches. "Popular" sorts by rating
      (published entries carry no TMDB popularity score). */
-  const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
-    || dateOf(b).localeCompare(dateOf(a));
+  const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a))
+    || (b.published_at || "").localeCompare(a.published_at || "");
   const byPopular = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
     || (b.vote_count || 0) - (a.vote_count || 0);
 
@@ -239,4 +242,5 @@
 
   render();
 })();
+
 

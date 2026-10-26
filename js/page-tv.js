@@ -45,10 +45,13 @@
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
   const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
   const dateOf = x => x.first_air_date || "";
-  /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
-     published_at desc, then first-air date desc. */
-  const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
-    || dateOf(b).localeCompare(dateOf(a));
+  /* Homepage rule (correction 9, as amended 2026-10-26 by user order):
+     recency-sorted everywhere, newest first — FIRST-AIR DATE desc (the
+     latest premiere leads, then going back); published_at only breaks
+     ties. The old published_at-first sort scrambled the order whenever
+     titles were published in batches. */
+  const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a))
+    || (b.published_at || "").localeCompare(a.published_at || "");
   const byPopular = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
     || (b.vote_count || 0) - (a.vote_count || 0);
 
@@ -116,5 +119,6 @@
 
   render();
 })();
+
 
 

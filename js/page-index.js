@@ -35,14 +35,15 @@
        FA_PUBLISHED is written by the pipeline (js/published-titles.js),
        keyed by TMDB id. Guarded: an absent file means "nothing published
        yet", never a crash and never a live TMDB fetch. Sort: newest
-       first (published_at desc, then release/air date desc) — the
-       homepage recency rule. Each section shows the first HOME_LIMITS
-       items of its See All page's ordered list (no distinct-title
-       skipping, no one-item rails). */
+       first by RELEASE/AIR DATE desc (user order 2026-10-26 — the latest
+       release leads, then going back); published_at only breaks ties.
+       Each section shows the first HOME_LIMITS items of its See All
+       page's ordered list (no distinct-title skipping, no one-item
+       rails). */
     const pubAll = () => Object.values(window.FA_PUBLISHED || {});
     const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
     const dateOf = (x) => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
-    const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "") || dateOf(b).localeCompare(dateOf(a));
+    const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a)) || (b.published_at || "").localeCompare(a.published_at || "");
     const isReleased = (x) => { const d = dateOf(x); return !!d && d <= today; };
     const isUpcoming = (x) => { const d = dateOf(x); return !!d && d > today; };
     const freshReleased = (x) => isReleased(x) && UI.isFresh(x);
@@ -88,29 +89,27 @@
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
-    /* ---------- HERO = LIVE BOX-OFFICE CAROUSEL (§2.1, correction 6 —
-       Sacnilk model): the newest day-wise title that is published, with
-       its baked-in art from FA_PUBLISHED. Slides with engine day-wise
-       data lead: latest day collection + running total + "collections
-       through {date}" label. No live TMDB details fetch — a day-wise
-       title that is not published simply has no slide. Info links only;
-       no play/watch button. ------- */
+    /* ---------- HERO = latest currently-running movies (user order
+       2026-10-26): max 4 slides, the 4 NEWEST published movies that are
+       currently running (released + fresh = in cinemas now), newest
+       first. A slide is "live" when the title has day-wise rows (Day N
+       collection + running total); otherwise it shows Release Date +
+       "Now in Cinemas" (the non-live branch of heroSlideHtml). No live
+       TMDB fetch — a title with no day-wise rows simply has no live
+       stats. ------- */
     const dwData = window.FA_DAYWISE || {};
-    const dwKeys = Object.keys(dwData).sort((a, b) => {
-      const lastOf = (k) => { const rows = dwData[k]; return Array.isArray(rows) && rows.length ? (rows[rows.length - 1].date || "") : ""; };
-      return lastOf(b).localeCompare(lastOf(a));
+    const heroPool = pubAll()
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x))
+      .sort(byNewest);
+    const heroSlides = heroPool.slice(0, 4).map(entry => {
+      const rows = dwData[String(entry.id)];
+      if (Array.isArray(rows) && rows.length) {
+        const total = rows.reduce((s, r) => s + (r.collection || 0), 0);
+        const last = rows[rows.length - 1];
+        return { d: entry, live: true, total, last, dayN: UI.dayNumOf(last) };
+      }
+      return { d: entry, live: false };
     });
-    const heroSlides = [];
-    for (const dwId of dwKeys) {
-      if (heroSlides.length >= 1) break;
-      const rows = dwData[dwId];
-      if (!Array.isArray(rows) || !rows.length) continue;
-      const entry = (window.FA_PUBLISHED || {})[String(dwId)];
-      if (!entry || !entry.backdrop_path) continue;
-      const total = rows.reduce((s, r) => s + (r.collection || 0), 0);
-      const last = rows[rows.length - 1];
-      heroSlides.push({ d: entry, live: true, total, last, dayN: UI.dayNumOf(last) });
-    }
 
     const heroSlideHtml = (s, idx) => {
       const hd = s.d;
@@ -173,17 +172,21 @@
     const bollySoon = publishedFor("soon", "bollywood").slice(0, HOME_LIMITS.soon);
     const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${switchButtons("soon")}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1)).join("")}</div></section>` : "";
 
-    /* ---------- Lollywood + Pakistani dramas: Pakistani released titles,
-       fresh-first (falls back to all released, same as the other rails),
-       newest first. First 6 each — the same ordered pool their See All
-       pages list. ---------- */
+    /* ---------- Lollywood: Pakistani released titles, fresh-first (falls
+       back to all released, same as the other rails), newest first. The
+       filter is strict (industry === "pakistani") — verified 2026-10-26
+       against live FA_PUBLISHED: only 3 Pakistani titles exist (all TV
+       dramas, all correctly industry=pakistani) and no non-Pakistani
+       title leaks in. First 6 — the same ordered pool the Lollywood See
+       All page lists. (Pakistani EPISODES live in the rail below, not
+       here — titles and episodes are separate sections by user order.)
+       ---------- */
     const releasedPool = (pred) => {
       const rel = pubAll().filter(x => x && x.poster_path && isReleased(x) && pred(x)).sort(byNewest);
       const fresh = rel.filter(x => freshReleased(x));
       return fresh.length ? fresh : rel;
     };
     const lollyLatest = releasedPool(x => (x.industry || "") === "pakistani").slice(0, HOME_LIMITS.lollywood);
-    const pkLatest = releasedPool(x => (x.industry || "") === "pakistani" && typeOf(x) === "tv").slice(0, HOME_LIMITS.dramas);
 
     /* ---------- Newest published titles, all industries: same pool and
        order as /movies?f=all&s=recent (released movies, fresh-first with
@@ -207,11 +210,13 @@
     const celebTodayHtml = (UI.celebTodaySection(window.FA_CELEBRITY_TODAY) || "")
       .replaceAll('class="news-list"', 'class="editorial-grid"').replaceAll('class="news-item"', 'class="editorial-card"');
 
-    /* ---------- Box Office: published titles with real day-wise rows
-       (FA_DAYWISE). Today / 7-day sums come only from the reported rows;
-       "Recorded" is the sum of the tracked days (never a lifetime gross —
-       FA_PUBLISHED carries no revenue figure). First 8 cards in day-wise
-       order; no section at all when no published title has data. ---------- */
+    /* ---------- Box Office: recently-released published movies, newest
+       first (release date DESC) — the same pool and order as /box-office.
+       Today / 7-day sums come only from the reported rows; "Recorded" is
+       the sum of the tracked days (never a lifetime gross — FA_PUBLISHED
+       carries no revenue figure). Titles with no day-wise rows yet show
+       an honest "Not reported" state. First 8 cards; no section at all
+       when no published movie qualifies. ---------- */
     const boCardHtml = (entry, rows) => {
       const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
       const weekStart = new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10);
@@ -224,19 +229,18 @@
       const date = entry.release_date || "";
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div></dl></a>`;
+      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${clean.length ? UI.fmtMoney(totalSum) : missing}</dd></div></dl></a>`;
     };
-    /* Every published title with day-wise rows, in the SAME order
-       /box-office lists its day-wise titles (dwKeys: latest recorded
-       date first). First 8, each as a boCardHtml card. */
-    const boPicks = [];
-    for (const dwId of dwKeys) {
-      if (boPicks.length >= HOME_LIMITS.boxoffice) break;
-      const rows = dwData[dwId];
-      if (!Array.isArray(rows) || !rows.length) continue;
-      const entry = (window.FA_PUBLISHED || {})[String(dwId)];
-      if (entry && entry.poster_path) boPicks.push({ entry, rows });
-    }
+    /* Box Office (user order 2026-10-26): the SAME pool and order as
+       /box-office — recently-released published movies, newest first
+       (release date DESC). A title qualifies if it is released and (has
+       day-wise rows OR is fresh); titles with no rows yet show an honest
+       "not yet recorded" state in the card. First 8. */
+    const boHasRows = (x) => { const r = dwData[String(x.id)]; return Array.isArray(r) && r.length > 0; };
+    const boPool = pubAll()
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && (boHasRows(x) || UI.isFresh(x)))
+      .sort(byNewest);
+    const boPicks = boPool.slice(0, HOME_LIMITS.boxoffice).map(entry => ({ entry, rows: dwData[String(entry.id)] || [] }));
     const boHtml = boPicks.length ? `<section class="section" data-sec="box-office">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office">See All →</a></div>
@@ -307,13 +311,34 @@
       <p class="sec-sub">Recent Pakistani films and dramas with listed dates; newest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
-    /* Pakistani dramas rail: the newest published Pakistani dramas, with
-       their channel tags. No live channel-pool fetch. */
-    const pkRailHtml = pkLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
-      <div class="section-head"><h2>Pakistani YouTube Dramas — Latest</h2>
+    /* Pakistani episode releases (user order 2026-10-26): EPISODE cards,
+       not drama posters — the latest YouTube episode posts, newest first.
+       Episode articles come from FA_ARTICLES (loaded before this script);
+       identified by the episode headline pattern "— Watch on <channel>"
+       (the same pattern the episode-guides hub uses — every episode post
+       carries it and no news article does). Each card links to its episode
+       detail page (/news-item?id=<article_id>). This is NOT a duplicate of
+       Lollywood: Lollywood lists Pakistani TITLES (poster cards); this
+       lists EPISODES. First 6. */
+    const episodeCard = (a) => {
+      const img = (a.images && a.images[0] && a.images[0].url) || "";
+      const channel = (a.images && a.images[0] && a.images[0].source) || "";
+      const date = (a.published || "").slice(0, 10);
+      return `<a class="card" href="${UI.newsItemPath(a)}">
+        <span class="card-poster">${img ? `<img src="${UI.esc(img)}" alt="${UI.esc(a.headline || "")}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+        <span class="card-body"><span class="card-title">${UI.esc(a.headline || "")}</span>
+        <span class="card-meta">${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
+      </a>`;
+    };
+    const epArticles = Object.values(window.FA_ARTICLES || {})
+      .filter(a => a && a.id && (a.headline || "").includes("Watch on") && a.published)
+      .sort((a, b) => String(b.published || "").localeCompare(String(a.published || "")));
+    const epLatest = epArticles.slice(0, HOME_LIMITS.dramas);
+    const pkRailHtml = epLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
+      <div class="section-head"><h2>Latest Episode Releases</h2>
       <a class="see-all" href="/episode-guides">Episode Guides →</a></div>
-      <p class="sec-sub">Currently running Pakistani dramas; open a card for details.</p>
-      <div class="scroller">${pkLatest.map(x => UI.posterCard(x, "tv", x.channel || "Pakistani Drama")).join("")}</div></section>` : "";
+      <p class="sec-sub">Newest Pakistani drama episodes, latest first; open an episode for its story summary.</p>
+      <div class="scroller">${epLatest.map(a => episodeCard(a)).join("")}</div></section>` : "";
 
     /* ---------- Awards strip (fix round 2, Bug F): the next dated
        ceremonies — mirrors the verified SHOWS data in js/page-awards.js
@@ -473,4 +498,5 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 

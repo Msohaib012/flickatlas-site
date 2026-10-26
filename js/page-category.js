@@ -48,11 +48,14 @@
      and `type` ("movie" | "tv"). */
   const published = () => Object.values(window.FA_PUBLISHED || {});
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
-  /* Homepage rule (correction 9): recency-sorted everywhere, newest first —
-     published_at desc, then release/air date desc — so this page shows the
-     SAME title the homepage section shows, not a different one. */
-  const byNewest = (a, b) => (b.published_at || "").localeCompare(a.published_at || "")
-    || dateOf(b).localeCompare(dateOf(a));
+  /* Homepage rule (correction 9, as amended 2026-10-26 by user order):
+     recency-sorted everywhere, newest first — RELEASE/AIR DATE desc (the
+     latest release leads, then going back); published_at only breaks
+     ties. The old published_at-first sort scrambled the order whenever
+     titles were published in batches — so this page shows the SAME title
+     the homepage section shows, not a different one. */
+  const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a))
+    || (b.published_at || "").localeCompare(a.published_at || "");
 
   /* Industry tag for cards: UI.industryTag now returns "World Cinema" for
      world-industry titles (fixed in ui.js) — the explicit label is kept
@@ -131,4 +134,5 @@
 
   render();
 })();
+
 

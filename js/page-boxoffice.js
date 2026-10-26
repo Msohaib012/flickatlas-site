@@ -1,7 +1,9 @@
-/* FlickAtlas — Box Office hub (simplified 2026-10-26): a plain listing of
+/* FlickAtlas — Box Office hub (user order 2026-10-26): a plain listing of
    the SAME cards as the homepage Box Office section — one card per
-   published title with real day-wise rows (FA_DAYWISE), in the same
-   order (latest recorded date first). Each card links to
+   recently-released published MOVIE, newest first (release date DESC).
+   A title qualifies if it is released and (has real day-wise rows in
+   FA_DAYWISE OR is fresh); titles with no rows yet show an honest "not
+   yet recorded" state — they are NOT dropped. Each card links to
    /movie?id=<id>, where the full day-wise detail lives. No period
    pills, no ranking charts, no verdict/club filters — the old dashboard
    confused readers. Only the industry nav (All / Bollywood) remains,
@@ -17,11 +19,6 @@
 
   const today = new Date().toISOString().slice(0, 10);
   const dw = window.FA_DAYWISE || {};
-  const entryOf = (id) => (window.FA_PUBLISHED || {})[String(id)] || null;
-  const dwKeysByLastDate = () => Object.keys(dw).sort((a, b) => {
-    const lastOf = (k) => { const rows = dw[k]; return Array.isArray(rows) && rows.length ? (rows[rows.length - 1].date || "") : ""; };
-    return lastOf(b).localeCompare(lastOf(a));
-  });
 
   /* Card markup — copied verbatim from the homepage Box Office section
      (js/page-index.js boCardHtml), so a title looks identical here and
@@ -39,7 +36,7 @@
     const date = entry.release_date || "";
     const missing = '<span class="fa-box-unavailable">Not reported</span>';
     const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-    return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div></dl></a>`;
+    return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} UTC"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} UTC"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div><div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${clean.length ? UI.fmtMoney(totalSum) : missing}</dd></div></dl></a>`;
   };
 
   /* Industry filter: ?f=bollywood shows Bollywood titles only; anything
@@ -48,18 +45,17 @@
   if (f !== "bollywood") f = "all";
   const industry = f === "bollywood" ? "bollywood" : null;
 
-  /* Every published title with real day-wise rows, in the same order the
-     homepage uses (latest recorded date first). No cap — this page IS the
-     See All. */
-  const picks = [];
-  for (const dwId of dwKeysByLastDate()) {
-    const rows = dw[dwId];
-    if (!Array.isArray(rows) || !rows.length) continue;
-    const entry = entryOf(dwId);
-    if (!entry || !entry.poster_path) continue;
-    if (industry && entry.industry !== industry) continue;
-    picks.push({ entry, rows });
-  }
+  /* Every recently-released published MOVIE, newest first (release date
+     DESC) — the same pool and order the homepage Box Office section
+     uses. A title qualifies if it is released and (has day-wise rows OR
+     is fresh); titles with no rows yet are included with an honest
+     "not yet recorded" state. No cap — this page IS the See All. */
+  const hasRows = (x) => { const r = dw[String(x.id)]; return Array.isArray(r) && r.length > 0; };
+  const picks = Object.values(window.FA_PUBLISHED || {})
+    .filter(x => x && x.type === "movie" && x.poster_path && x.release_date && x.release_date <= today && (hasRows(x) || UI.isFresh(x)))
+    .sort((a, b) => (b.release_date || "").localeCompare(a.release_date || ""))
+    .filter(x => !industry || x.industry === industry)
+    .map(entry => ({ entry, rows: dw[String(entry.id)] || [] }));
 
   main.innerHTML = `<div class="wrap bo-dashboard">
     <header class="page-hero bo-intro"><p class="bo-key">Dated collections and reported grosses</p><h1>Box Office</h1>
@@ -69,3 +65,4 @@
     ${UI.rateNote()}
   </div>`;
 })();
+
