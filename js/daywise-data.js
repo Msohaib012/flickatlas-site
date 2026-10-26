@@ -4,37 +4,52 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-16",
       "day": "Day 1",
-      "collection": 343574
+      "collection": 343370
     },
     {
       "date": "2026-10-17",
       "day": "Day 2",
-      "collection": 422860
+      "collection": 422610
     },
     {
       "date": "2026-10-18",
       "day": "Day 3",
-      "collection": 465146
+      "collection": 464871
     },
     {
       "date": "2026-10-19",
       "day": "Day 4",
-      "collection": 280145
+      "collection": 279979
     },
     {
       "date": "2026-10-20",
       "day": "Day 5",
-      "collection": 459861
+      "collection": 459588
     },
     {
       "date": "2026-10-21",
       "day": "Day 6",
-      "collection": 211430
+      "collection": 211305
     },
     {
       "date": "2026-10-22",
       "day": "Day 7",
-      "collection": 158573
+      "collection": 158479
+    },
+    {
+      "date": "2026-10-23",
+      "day": "Day 8",
+      "collection": 63391
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Day 9",
+      "collection": 95087
+    },
+    {
+      "date": "2026-10-25",
+      "day": "Day 10",
+      "collection": 100370
     }
   ],
   "1375156": [
@@ -57,6 +72,267 @@ window.FA_DAYWISE = {
       "date": "2026-10-26",
       "day": "Day 4",
       "collection": 101426
+    }
+  ],
+  "1400940": [
+    {
+      "date": "2026-10-19",
+      "day": "Day 1",
+      "collection": 79239
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Day 2",
+      "collection": 105652
+    },
+    {
+      "date": "2026-10-21",
+      "day": "Day 3",
+      "collection": 97200
+    }
+  ],
+  "1153576": [
+    {
+      "date": "2026-10-13",
+      "day": "Day 1",
+      "collection": 110935
+    },
+    {
+      "date": "2026-10-14",
+      "day": "Day 2",
+      "collection": 153196
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Day 3",
+      "collection": 166931
+    },
+    {
+      "date": "2026-10-16",
+      "day": "Day 4",
+      "collection": 82409
+    },
+    {
+      "date": "2026-10-17",
+      "day": "Day 5",
+      "collection": 107765
+    },
+    {
+      "date": "2026-10-18",
+      "day": "Day 6",
+      "collection": 61278
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Day 7",
+      "collection": 43317
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Day 8",
+      "collection": 10565
+    },
+    {
+      "date": "2026-10-21",
+      "day": "Day 9",
+      "collection": 24300
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Day 10",
+      "collection": 25357
+    }
+  ],
+  "1423191": [
+    {
+      "date": "2026-09-16",
+      "day": "Day 1",
+      "collection": 274696
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Day 2",
+      "collection": 353936
+    },
+    {
+      "date": "2026-09-18",
+      "day": "Day 3",
+      "collection": 375066
+    },
+    {
+      "date": "2026-09-19",
+      "day": "Day 4",
+      "collection": 132066
+    },
+    {
+      "date": "2026-09-20",
+      "day": "Day 5",
+      "collection": 158479
+    },
+    {
+      "date": "2026-09-21",
+      "day": "Day 6",
+      "collection": 153196
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Day 7",
+      "collection": 105652
+    },
+    {
+      "date": "2026-09-23",
+      "day": "Day 8",
+      "collection": 70787
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Day 9",
+      "collection": 139461
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Day 10",
+      "collection": 134179
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Day 11",
+      "collection": 38035
+    },
+    {
+      "date": "2026-09-27",
+      "day": "Day 12",
+      "collection": 52826
+    },
+    {
+      "date": "2026-09-28",
+      "day": "Day 13",
+      "collection": 42261
+    },
+    {
+      "date": "2026-09-29",
+      "day": "Day 14",
+      "collection": 47544
+    },
+    {
+      "date": "2026-09-30",
+      "day": "Day 15",
+      "collection": 19017
+    },
+    {
+      "date": "2026-10-01",
+      "day": "Day 16",
+      "collection": 17961
+    },
+    {
+      "date": "2026-10-02",
+      "day": "Day 17",
+      "collection": 20074
+    },
+    {
+      "date": "2026-10-03",
+      "day": "Day 18",
+      "collection": 6339
+    },
+    {
+      "date": "2026-10-04",
+      "day": "Day 19",
+      "collection": 7396
+    },
+    {
+      "date": "2026-10-05",
+      "day": "Day 20",
+      "collection": 5283
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Day 21",
+      "collection": 5283
+    },
+    {
+      "date": "2026-10-07",
+      "day": "Day 22",
+      "collection": 6339
+    },
+    {
+      "date": "2026-10-08",
+      "day": "Day 23",
+      "collection": 12678
+    },
+    {
+      "date": "2026-10-09",
+      "day": "Day 24",
+      "collection": 13735
+    },
+    {
+      "date": "2026-10-10",
+      "day": "Day 25",
+      "collection": 5283
+    },
+    {
+      "date": "2026-10-11",
+      "day": "Day 26",
+      "collection": 5283
+    },
+    {
+      "date": "2026-10-12",
+      "day": "Day 27",
+      "collection": 6339
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Day 28",
+      "collection": 2113
+    },
+    {
+      "date": "2026-10-14",
+      "day": "Day 29",
+      "collection": 2113
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Day 30",
+      "collection": 3170
+    },
+    {
+      "date": "2026-10-16",
+      "day": "Day 31",
+      "collection": 4226
+    },
+    {
+      "date": "2026-10-17",
+      "day": "Day 32",
+      "collection": 2113
+    },
+    {
+      "date": "2026-10-18",
+      "day": "Day 33",
+      "collection": 3170
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Day 34",
+      "collection": 2113
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Day 35",
+      "collection": 1057
+    },
+    {
+      "date": "2026-10-21",
+      "day": "Day 36",
+      "collection": 1057
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Day 37",
+      "collection": 2113
+    },
+    {
+      "date": "2026-10-23",
+      "day": "Day 38",
+      "collection": 3170
     }
   ]
 };
