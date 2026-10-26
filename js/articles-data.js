@@ -26,6 +26,12 @@ window.FA_ARTICLES = {
           "Chef Damu earned a doctorate in Hotel Management and Catering Technology from the University of Madras in 2004, reportedly becoming the first Indian chef to achieve a PhD in the field. He also secured a Guinness World Record in December 2010 for completing the longest individual cooking marathon by preparing 617 dishes over 24 hours.",
           "In recognition of his contributions to the culinary arts, he was conferred India's prestigious Padma Shri civilian honor in 2025."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned chef and television personality Damodharan Kothandaraman has passed away at the age of 72 in Chennai following a period of illness. He was widely known for his television shows, acting roles, a PhD in Hotel Management, a Guinness World Record, and the Padma Shri award he received in 2025."
+        ]
       }
     ],
     "facts": [
@@ -66,38 +72,54 @@ window.FA_ARTICLES = {
     "dek": "The Tamil action sequel Jailer 2 experienced a significant 66.6% revenue jump on its second Saturday, pushing its cumulative domestic net collections to ₹373 crore according to tracking data.",
     "body": [
       {
-        "h": "Box Office Recovery and Milestone Earnings",
+        "h": "Day 10 Revenue Recovery",
         "p": [
-          "Jailer 2 experienced a notable revenue recovery on Saturday, October 24, following a decline in earnings during the previous day. According to tracking figures from Sacnilk, the Tamil-language film collected an estimated ₹24.15 crore net in India on Day 10, representing a 66.6% increase compared to the ₹14.50 crore earned on Day 9.",
+          "Jailer 2 experienced a notable revenue recovery on Saturday, October 24, following a decline in earnings during the previous day. According to tracking figures from Sacnilk, the Tamil-language film collected an estimated ₹24.15 crore net in India on Day 10, representing a 66.6% increase compared to the ₹14.50 crore earned on Day 9."
+        ]
+      },
+      {
+        "h": "Cumulative Domestic Collections",
+        "p": [
           "With these latest figures factored in, the cumulative domestic net collection for the feature has reached an estimated ₹373 crore. Simultaneously, the domestic gross collection has advanced to ₹436.80 crore over the same ten-day theatrical span."
         ]
       },
       {
-        "h": "International Performance and Global Totals",
+        "h": "International Performance",
         "p": [
-          "The theatrical run extends globally, with the Nelson Dilipkumar directorial pulling in an additional ₹10 crore in overseas gross during its tenth day in cinemas. This international contribution elevated the film's total overseas gross to ₹229.50 crore.",
+          "The theatrical run extends globally, with the Nelson Dilipkumar directorial pulling in an additional ₹10 crore in overseas gross during its tenth day in cinemas. This international contribution elevated the film's total overseas gross to ₹229.50 crore."
+        ]
+      },
+      {
+        "h": "Worldwide Totals",
+        "p": [
           "Combined with domestic figures, the worldwide gross for Jailer 2 has climbed to an estimated ₹666.30 crore as it approaches the ₹670 crore milestone. The production originally opened worldwide on October 15."
         ]
       },
       {
-        "h": "Language-Wise Breakdown of Domestic Earnings",
+        "h": "Language Breakdown of Domestic Earnings",
         "p": [
           "Domestic revenue on Saturday was led predominantly by the Tamil version, which contributed ₹16.25 crore net across 5,545 shows while maintaining an occupancy rate of 46.2%. The Telugu edition brought in an estimated ₹4.40 crore from 1,835 shows, registering a 38.4% occupancy level.",
           "Meanwhile, the Hindi version generated ₹2.90 crore net from 4,008 shows with a 20% occupancy rate. The Kannada language run added a further ₹60 lakh from 203 shows, marking a 41% occupancy rate for the territory."
         ]
       },
       {
-        "h": "Theatrical Trajectory and First-Week Run",
+        "h": "First Week Theatrical Trajectory",
         "p": [
           "The feature debuted on October 15 with a strong opening day of ₹59.70 crore net in India. Following the launch, daily domestic earnings saw fluctuations, moving from ₹37.10 crore on Friday, October 16, to ₹47.25 crore on Saturday and ₹55.85 crore on Sunday.",
           "Subsequent weekday numbers included ₹42.35 crore on Monday and ₹46.80 crore on Tuesday, before descending to ₹28.15 crore on Wednesday. By the end of its first full week in cinemas, the film had accumulated a domestic net total of ₹334.35 crore."
         ]
       },
       {
-        "h": "Cast, Crew, and Sequel Context",
+        "h": "Cast and Production Background",
         "p": [
           "Jailer 2 serves as a direct sequel to the 2023 release Jailer, with lead actor Rajinikanth reprising his celebrated role as the retired jailer Tiger Muthuvel Pandian. Returning cast members from the original installment include Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik.",
           "The expanded ensemble cast also features S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan. The project is written and directed by Nelson Dilipkumar, produced by Kalanithi Maran under the Sun Pictures banner, and features a musical score composed by Anirudh Ravichander."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 saw a notable revenue surge on its tenth day in theaters, bringing its cumulative domestic net collections to ₹373 crore. The film's worldwide gross has reached an estimated ₹666.30 crore as it nears the ₹670 crore landmark. Directed by Nelson Dilipkumar, the action sequel stars Rajinikanth reprising his role as Tiger Muthuvel Pandian."
         ]
       }
     ],
@@ -156,22 +178,43 @@ window.FA_ARTICLES = {
       {
         "h": "Official Clarification Issued",
         "p": [
-          "Recent media narratives surrounding Bollywood actor Tiger Shroff have been firmly addressed by his official representative. Reports had circulated across various entertainment portals claiming that the performer had given a formal statement to the Mumbai Police's crime branch following a dangerous security incident. According to these now-refuted stories, the actor was supposedly in profound shock after being targeted in an armed attack and reportedly informed law enforcement that he held personal grievances against no one.",
+          "Recent media narratives surrounding Bollywood actor Tiger Shroff have been firmly addressed by his official representative. Reports had circulated across various entertainment portals claiming that the performer had given a formal statement to the Mumbai Police's crime branch following a dangerous security incident. According to these now-refuted stories, the actor was supposedly in profound shock after being targeted in an armed attack and reportedly informed law enforcement that he held personal grievances against no one."
+        ]
+      },
+      {
+        "h": "Rejection of Fabricated Reports",
+        "p": [
           "However, the actor's camp has chosen to set the record straight with an unequivocal rejection of these fabricated narratives. The representative stated clearly that the reports lack any factual basis and that no such interaction ever occurred. Emphasizing the falsity of the claims, the spokesperson noted that the quotes and emotional reactions attributed to the film star were entirely manufactured by outlets seeking sensationalism."
         ]
       },
       {
         "h": "Details Of The Security Incident",
         "p": [
-          "The rumors arose in the wake of a alarming public safety breach that took place on October 18. While leaving a gathering in his automobile situated in the Juhu neighborhood of Mumbai, the action star became the target of an armed assault. Three individuals mounted on a motorcycle approached and fired shots toward his vehicle, sending shockwaves through the local community and the broader entertainment industry.",
+          "The rumors arose in the wake of a alarming public safety breach that took place on October 18. While leaving a gathering in his automobile situated in the Juhu neighborhood of Mumbai, the action star became the target of an armed assault. Three individuals mounted on a motorcycle approached and fired shots toward his vehicle, sending shockwaves through the local community and the broader entertainment industry."
+        ]
+      },
+      {
+        "h": "Suspects Apprehended Quickly",
+        "p": [
           "Fortunately, the actor managed to escape the violent encounter completely unharmed. Regrettably, the gunfire resulted in injuries to other individuals present at the scene, specifically his driver and a nearby bystander. Swift action from local law enforcement led to the apprehension of three primary suspects shortly after the terrifying ordeal unfolded in the bustling suburb."
         ]
       },
       {
         "h": "Wider Industry Implications",
         "p": [
-          "Incidents of this magnitude inevitably cast a harsh spotlight on the personal security and vulnerability of prominent public figures. The sudden attack on a mainstream celebrity has sparked intense conversations among industry observers regarding the everyday risks faced by famous personalities. Questions have naturally emerged concerning whether high-profile stars are increasingly restricted in their daily lives, essentially becoming isolated by the very fame they command.",
+          "Incidents of this magnitude inevitably cast a harsh spotlight on the personal security and vulnerability of prominent public figures. The sudden attack on a mainstream celebrity has sparked intense conversations among industry observers regarding the everyday risks faced by famous personalities. Questions have naturally emerged concerning whether high-profile stars are increasingly restricted in their daily lives, essentially becoming isolated by the very fame they command."
+        ]
+      },
+      {
+        "h": "Ongoing Investigations Continue",
+        "p": [
           "As investigations by the authorities continue to progress, the entertainment community remains shaken by the brazen nature of the crime. Observers and fans alike have expressed relief that the actor emerged physically unscathed from the crossfire, even as debates surrounding celebrity protection protocols gain renewed urgency across media platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official representative of actor Tiger Shroff has firmly denied media reports that he gave a statement to the Mumbai Police's crime branch following an armed assault. The security incident occurred on October 18 when three individuals on a motorcycle fired shots toward the actor's vehicle in Mumbai, leaving his driver and a bystander injured while the actor escaped unharmed."
         ]
       }
     ],
@@ -212,9 +255,14 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Plot Overview and Narrative Arc",
+        "h": "Plot Overview",
         "p": [
-          "The cinematic narrative centers around a police investigation triggered by deeply unsettling circumstances. Specifically, the main plot kicks off when a deceased body vanishes from official police custody, creating a chaotic scenario for the local law enforcement agency.",
+          "The cinematic narrative centers around a police investigation triggered by deeply unsettling circumstances. Specifically, the main plot kicks off when a deceased body vanishes from official police custody, creating a chaotic scenario for the local law enforcement agency."
+        ]
+      },
+      {
+        "h": "The Investigation",
+        "p": [
           "The central protagonist, serving as a dedicated police officer, takes charge of the difficult inquiry. As he digs deeper into the unsettling mystery, his path crosses with an enigmatic individual, forcing him to navigate numerous hazards to expose the absolute truth."
         ]
       },
@@ -226,17 +274,23 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Technical Craft and Behind-the-Scenes Crew",
+        "h": "Technical Craft",
         "p": [
           "A robust technical team contributed to the making of the project, with Yash credited for developing the original story and screenplay. K Sai Krishna Reddy functioned in the capacity of creative producer to maintain the artistic direction.",
           "The visual aesthetics were captured by cinematographer Ravindranath T, while SJ Shivakiran took charge of editing the footage. The atmospheric soundscape and musical compositions were crafted by Marcus M and sound effects specialist Ethiraaj."
         ]
       },
       {
-        "h": "Streaming Platform and Multilingual Availability",
+        "h": "Streaming Details",
         "p": [
           "The feature film has been scheduled to arrive on the subscription video-on-demand service Netflix. Viewers can expect the digital broadcast to commence globally on October 30, 2026.",
           "To cater to a broader audience across different regions, the digital release will be accessible in multiple languages, encompassing Telugu, Tamil, Kannada, Malayalam, and Hindi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Following its theatrical run, the Telugu crime action film Sub-Inspector Yugandhar is scheduled to premiere globally on Netflix on October 30, 2026. The movie stars Aadi Saikumar as a police officer investigating a case where a deceased body vanishes from custody. It will be available in multiple languages including Telugu, Tamil, Kannada, Malayalam, and Hindi."
         ]
       }
     ],
@@ -293,31 +347,52 @@ window.FA_ARTICLES = {
     "dek": "GV Prakash Kumar and Kayadu Lohar starrer Immortal, which hit the big screen in September 2026, is officially heading to digital platforms for home viewing.",
     "body": [
       {
-        "h": "Transition From Theatres to Digital Screens",
+        "h": "Digital Streaming Premiere",
         "p": [
-          "The Tamil language feature film Immortal, which initially made its theatrical debut earlier in the autumn, is preparing for its digital streaming premiere. Following its run in cinemas, the project is scheduled to become available for audiences who prefer watching movies from the comfort of their homes.",
+          "The Tamil language feature film Immortal, which initially made its theatrical debut earlier in the autumn, is preparing for its digital streaming premiere. Following its run in cinemas, the project is scheduled to become available for audiences who prefer watching movies from the comfort of their homes."
+        ]
+      },
+      {
+        "h": "SonyLIV Release Details",
+        "p": [
           "SonyLIV has officially announced the upcoming digital streaming availability for the movie. Viewers across regions who missed the theatrical run can soon access the title online through the designated platform starting from the end of October."
         ]
       },
       {
-        "h": "Plot and Narrative Premise",
+        "h": "Plot Setup in Chennai",
         "p": [
-          "The storyline of the feature film introduces an ancient supernatural mystery before shifting its primary setting to present-day Chennai. The narrative centers around a young printing press employee named Magi, who embarks on a quest to find budget-friendly housing within the city limits.",
+          "The storyline of the feature film introduces an ancient supernatural mystery before shifting its primary setting to present-day Chennai. The narrative centers around a young printing press employee named Magi, who embarks on a quest to find budget-friendly housing within the city limits."
+        ]
+      },
+      {
+        "h": "Mysterious Encounters",
+        "p": [
           "During his search, Magi encounters a mysterious woman known as Sindhu residing in an upscale apartment. She offers him a surprisingly affordable room, which he promptly accepts, setting off a sequence of strange events as he grows closer to her and uncovers disturbing secrets regarding her past."
         ]
       },
       {
-        "h": "Cast and Character Lineup",
+        "h": "Lead Performances",
         "p": [
-          "The leading roles in the romantic horror feature are portrayed by GV Prakash Kumar and Kayadu Lohar. Their on-screen dynamic forms the core of the narrative as their relationship takes unexpected and unusual turns.",
+          "The leading roles in the romantic horror feature are portrayed by GV Prakash Kumar and Kayadu Lohar. Their on-screen dynamic forms the core of the narrative as their relationship takes unexpected and unusual turns."
+        ]
+      },
+      {
+        "h": "Supporting Cast Ensemble",
+        "p": [
           "Supporting performances in the movie are delivered by an ensemble cast featuring T. M. Karthik, Kumar Natarajan, Lollu Sabha Maaran, Aaditya Kathir, Arshu Maharjan, Pema Tsamchoe, and Sunita Shrestha, who round out the principal characters."
         ]
       },
       {
-        "h": "Behind the Scenes and Technical Crew",
+        "h": "Production and Creative Team",
         "p": [
           "Immortal was written and directed by Mariyappan Chinna, with production duties handled by Arunkumar Dhanasekaran under the banner of AK Film Factory. The creative vision of the director is supported by several technical professionals.",
           "The crew includes Arun Radhakrishnan as the cinematographer, Rajesh M as the editor, and Sam CS, who handled both the music composition and songwriting. Additionally, Siva Sankar served as the art director, while stunt choreography was managed by R. Sakthi Saravanan and G. N. Murugan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Tamil romantic horror feature Immortal is scheduled to premiere on SonyLIV starting at the end of October following its theatrical run. Starring GV Prakash Kumar and Kayadu Lohar, the film follows a young printing press employee in Chennai who uncovers disturbing secrets after moving in with a mysterious woman. Written and directed by Mariyappan Chinna, the project was produced under the banner of AK Film Factory."
         ]
       }
     ],
@@ -369,38 +444,54 @@ window.FA_ARTICLES = {
     "dek": "The Nitesh Tiwari directorial has crossed the $2 million milestone in worldwide advance bookings eleven days before its theatrical premiere, driven by strong international and domestic demand.",
     "body": [
       {
-        "h": "Early Global Momentum for the Mythological Epic",
+        "h": "Global Pre-Sales Milestone",
         "p": [
-          "The highly anticipated cinematic project Ramayana: Part 1 has officially crossed the $2 million threshold in reported worldwide advance bookings. This early financial milestone encompasses both the scheduled preview screenings on November 4 and the primary opening-day reservations slated for November 5. With ticket sales reaching approximately 225,000 across tracked international territories and India, the production has generated an estimated 20.50 crore in advance gross.",
+          "The highly anticipated cinematic project Ramayana: Part 1 has officially crossed the $2 million threshold in reported worldwide advance bookings. This early financial milestone encompasses both the scheduled preview screenings on November 4 and the primary opening-day reservations slated for November 5. With ticket sales reaching approximately 225,000 across tracked international territories and India, the production has generated an estimated 20.50 crore in advance gross."
+        ]
+      },
+      {
+        "h": "Early Enthusiasm and Release Timing",
+        "p": [
           "Reaching this substantial figure eleven days prior to the official theatrical release highlights considerable early enthusiasm among moviegoers. Such rapid pre-sales demonstrate a robust appetite for the mythological epic, establishing a firm foundation as the promotional campaign enters its final stretch."
         ]
       },
       {
-        "h": "Strong International Markets and Domestic Contribution",
+        "h": "Domestic and North American Demand",
         "p": [
-          "India continues to serve as the largest individual contributor to the early box-office figures, bringing in over $1.20 million for the opening day alone. Meanwhile, North America has emerged as a crucial overseas market, particularly capitalising on Wednesday preview screenings ahead of the standard Thursday release schedule.",
+          "India continues to serve as the largest individual contributor to the early box-office figures, bringing in over $1.20 million for the opening day alone. Meanwhile, North America has emerged as a crucial overseas market, particularly capitalising on Wednesday preview screenings ahead of the standard Thursday release schedule."
+        ]
+      },
+      {
+        "h": "International Expansion",
+        "p": [
           "In addition to North America, audience engagement is widening across the United Kingdom, Australia, and several European territories. This geographical expansion underscores the appeal of a Hindi-led production reaching well beyond traditional overseas strongholds, supported by established international audiences for Indian cinema."
         ]
       },
       {
-        "h": "Breakdown of Pre-Sales and Preview Screenings",
+        "h": "Breakdown of Numbers",
         "p": [
           "A detailed look at the numbers reveals strong early figures across multiple windows. North American previews ahead of November 4 have accounted for over $550,000, while overseas markets on November 5 contribute another $400,000 plus. When combined with India's opening day numbers, the total opening-day figures excluding previews sit at over $1.60 million.",
           "When factoring in the special preview screenings, the cumulative worldwide combined total reaches $2.15 million, translating to roughly 20.50 crore. The strong preview response is viewed as a positive indicator for building early momentum among overseas fans, especially in regions where premium formats heavily influence opening-weekend performances."
         ]
       },
       {
-        "h": "Star-Studded Cast and Creative Leadership",
+        "h": "Cast and Crew",
         "p": [
           "The scale of the project is further amplified by its notable creative team and ensemble cast. Directed by Nitesh Tiwari and produced by Namit Malhotra, the film brings together prominent stars from various cinematic industries to portray legendary characters from the epic narrative.",
           "The principal cast features Ranbir Kapoor stepping into the role of Lord Rama, alongside Sai Pallavi as Sita. Additionally, Yash takes on the character of Ravana, while Sunny Deol is cast as Hanuman, combining pan-Indian star power to attract a broad demographic of viewers."
         ]
       },
       {
-        "h": "Future Projections as the Release Date Approaches",
+        "h": "Release Projections",
         "p": [
           "As the theatrical launch draws closer, industry observers will be watching to see if ticket sales accelerate further. The current momentum is expected to grow as additional theatres and show allocations are finalized and opened to the public.",
           "The ultimate test for the blockbuster will be whether casual moviegoers and broader audiences rush to secure tickets as regular cinema schedules become more widely accessible in the days leading up to the premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The film Ramayana: Part 1, directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, Yash, and Sunny Deol, has surpassed $2 million in global pre-sales eleven days ahead of its release. India and North America lead the early ticket sales, alongside strong engagement in the United Kingdom, Australia, and Europe. Industry observers anticipate further ticket momentum as the premiere date approaches."
         ]
       }
     ],
@@ -451,38 +542,54 @@ window.FA_ARTICLES = {
     "dek": "Months after promising a historically accurate feature-length film, tech billionaire Elon Musk shares a 7-minute AI-generated episode of The Odyssey on X.",
     "body": [
       {
-        "h": "The Launch of the AI Odyssey",
+        "h": "The AI Odyssey Release",
         "p": [
-          "Tech billionaire Elon Musk has taken a step toward fulfilling his ambitious pledge to adapt Homer's classic epic using artificial intelligence. His platform shared the initial 7-minute episode of an AI-generated series based on The Odyssey.",
+          "Tech billionaire Elon Musk has taken a step toward fulfilling his ambitious pledge to adapt Homer's classic epic using artificial intelligence. His platform shared the initial 7-minute episode of an AI-generated series based on The Odyssey."
+        ]
+      },
+      {
+        "h": "Grok Imagine Tool",
+        "p": [
           "The release follows a previous 3-minute short that was shared on the social media platform earlier in the year. The latest project utilizes the Grok Imagine tool to bring the ancient Greek text to life in a video format."
         ]
       },
       {
-        "h": "Collaborations and Creative Direction",
+        "h": "Creative Collaboration",
         "p": [
           "While the initiative stems from Musk's artificial intelligence tools, the recent release credited specific external entities for the creative collaboration. Wonder Studios and director Dev Walker were recognized for their involvement in the AI filmmaking process.",
           "Both collaborating names specialize in the emerging field of artificial intelligence filmmaking, helping shape the visual output delivered in this initial episodic release on the X platform."
         ]
       },
       {
-        "h": "Background of Musk's Pledge",
+        "h": "Musk's Original Pledge",
         "p": [
-          "In July, Elon Musk first announced plans to produce a full-length feature version of the ancient Greek poem. He claimed at the time that the resulting project would remain historically accurate and true to the art of Homer.",
+          "In July, Elon Musk first announced plans to produce a full-length feature version of the ancient Greek poem. He claimed at the time that the resulting project would remain historically accurate and true to the art of Homer."
+        ]
+      },
+      {
+        "h": "Timeline for the Project",
+        "p": [
           "The tech mogul initially set a timeline indicating that the AI-driven adaptation would be ready before the end of 2026, sparking widespread discussion across the entertainment and technology sectors."
         ]
       },
       {
-        "h": "Industry Backlash and Criticism",
+        "h": "Hollywood Backlash",
         "p": [
           "The announcement of an AI-driven classical adaptation drew sharp criticism from established Hollywood filmmakers. Director Scott Derrickson publicly dismissed the project and criticized Musk's understanding of cinema on social media.",
           "Derrickson pulled no punches in his online response, arguing that the billionaire's opinions on art held no value and claiming he stopped reading books in his youth."
         ]
       },
       {
-        "h": "Controversy Surrounding Traditional Films",
+        "h": "Criticism of Traditional Films",
         "p": [
           "Musk's venture into AI filmmaking has frequently coincided with his vocal criticisms of traditional Hollywood productions. He previously took aim at another project's casting choices, specifically targeting actors Elliot Page and Lupita Nyong'o.",
           "The tech entrepreneur alleged that those casting decisions were made solely to satisfy academy representation and inclusion standards for award eligibility, lobbing accusations at the film's director."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tech billionaire Elon Musk released a 7-minute AI-generated episode of The Odyssey on X using the Grok Imagine tool. The project involves Wonder Studios and director Dev Walker, following Musk's earlier pledge to produce a historically accurate feature adaptation by the end of 2026. The initiative has faced backlash from Hollywood director Scott Derrickson and coincides with Musk's criticisms of traditional film casting choices."
         ]
       }
     ],
@@ -526,31 +633,57 @@ window.FA_ARTICLES = {
     "dek": "The creator of the iconic wandering hero has officially handed over sole writing duties to his younger brother, Andrew Child, concluding a nearly three-decade literary run.",
     "body": [
       {
-        "h": "The End of an Era for a Literary Icon",
+        "h": "The End of an Era",
         "p": [
-          "For nearly thirty years, the towering, unstoppable former military policeman Jack Reacher has wandered across America, solving complex mysteries and dispensing rough justice. However, the creative force behind these thrilling adventures has finally decided to step back from the demanding daily writing process. Lee Child first introduced readers to his wandering protagonist in the 1997 publication of Killing Floor, instantly establishing one of the most commercially successful thriller book franchises in modern publishing history.",
+          "For nearly thirty years, the towering, unstoppable former military policeman Jack Reacher has wandered across America, solving complex mysteries and dispensing rough justice. However, the creative force behind these thrilling adventures has finally decided to step back from the demanding daily writing process. Lee Child first introduced readers to his wandering protagonist in the 1997 publication of Killing Floor, instantly establishing one of the most commercially successful thriller book franchises in modern publishing history."
+        ]
+      },
+      {
+        "h": "A Major Turning Point",
+        "p": [
           "That initial breakout success paved the way for a massive multi-decade journey. Across dozens of gripping installments, the character captured the imaginations of millions of readers worldwide. Now, following the arrival of Chain Reaction, the author has confirmed that his active involvement in authoring the novels has essentially concluded, marking a major turning point for the beloved book series."
         ]
       },
       {
-        "h": "Passing the Torch to Andrew Child",
+        "h": "Passing the Torch",
         "p": [
-          "With Lee stepping down from primary writing duties, the literary future of the franchise rests firmly in the hands of his younger brother, Andrew Child. The generational handoff has been gradual rather than abrupt, allowing readers to adjust smoothly to the shifting creative dynamic. The transition began when the brothers collaborated directly on the 2020 novel The Sentinel, testing the waters for a shared creative partnership.",
+          "With Lee stepping down from primary writing duties, the literary future of the franchise rests firmly in the hands of his younger brother, Andrew Child. The generational handoff has been gradual rather than abrupt, allowing readers to adjust smoothly to the shifting creative dynamic. The transition began when the brothers collaborated directly on the 2020 novel The Sentinel, testing the waters for a shared creative partnership."
+        ]
+      },
+      {
+        "h": "Smooth Transition",
+        "p": [
           "Following that initial joint effort, Lee progressively delegated more responsibility across subsequent releases. By the time Chain Reaction arrived, Andrew had taken over the vast majority of the writing workload. This structured transition plan ensured that the signature tone, gritty atmosphere, and unrelenting pacing of the books remained completely intact under new authorship."
         ]
       },
       {
-        "h": "A Unique and Untouched Creative Process",
+        "h": "A Hands-Off Approach",
         "p": [
-          "Remarkably, Lee's detachment from the current books is total. In an exclusive interview, the veteran author revealed that he does not view any drafts or outlines during the developmental stages. Instead, he waits until the completed manuscript is officially delivered to the publisher, reading the final product out of sheer personal interest just like any other fan of the series.",
+          "Remarkably, Lee's detachment from the current books is total. In an exclusive interview, the veteran author revealed that he does not view any drafts or outlines during the developmental stages. Instead, he waits until the completed manuscript is officially delivered to the publisher, reading the final product out of sheer personal interest just like any other fan of the series."
+        ]
+      },
+      {
+        "h": "Organic Philosophy",
+        "p": [
           "This hands-off approach mirrors the fiercely independent creative style that Lee maintained throughout his decades at the helm. He noted that the books have always relied entirely on improvisation rather than rigid outlining or long-term structural planning. Because Andrew shares this exact organic philosophy toward storytelling, neither author ever truly knows how a specific narrative will unfold until the final page is reached."
         ]
       },
       {
-        "h": "Legacy and Ongoing Cultural Impact",
+        "h": "Legacy and Impact",
         "p": [
-          "The decision to hand over the keys to the franchise secures the long-term viability of the character without diluting the creative integrity that made him famous. Reacher's transition from a solitary creation to a successfully shared family enterprise highlights the enduring appeal of the wandering hero archetype in contemporary thriller fiction.",
+          "The decision to hand over the keys to the franchise secures the long-term viability of the character without diluting the creative integrity that made him famous. Reacher's transition from a solitary creation to a successfully shared family enterprise highlights the enduring appeal of the wandering hero archetype in contemporary thriller fiction."
+        ]
+      },
+      {
+        "h": "Relentless Spirit",
+        "p": [
           "As Andrew continues to chart new territories for the protagonist, the foundational groundwork laid by Lee ensures the franchise remains a towering pillar in the genre. Fans can rest assured that while the original architect has stepped away from the typewriter, the relentless spirit of the stories remains completely unchanged."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lee Child has officially stepped away from writing the Jack Reacher novels after nearly thirty years, handing over sole writing duties to his younger brother, Andrew Child. The transition began with a collaboration on the 2020 novel The Sentinel and progressed until Andrew took over the majority of the writing for Chain Reaction. Lee now maintains a completely hands-off approach, reading only the finished published manuscripts."
         ]
       }
     ],
@@ -595,38 +728,49 @@ window.FA_ARTICLES = {
     "dek": "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer has registered a strong opening weekend, collecting over ₹19 crore in its first three days at the box office.",
     "body": [
       {
-        "h": "Opening Weekend Box Office Performance",
+        "h": "Opening Weekend Box Office",
         "p": [
-          "The newly released spy comedy Udta Teer, featuring Ayushmann Khurrana and Sara Ali Khan, has charted a steady course at the box office during its opening weekend. Competing against other recent theatrical titles like Nayyi Navelli and Prahaar, the film managed to outpace early expectations right from its opening day in cinemas.",
+          "The newly released spy comedy Udta Teer, featuring Ayushmann Khurrana and Sara Ali Khan, has charted a steady course at the box office during its opening weekend. Competing against other recent theatrical titles like Nayyi Navelli and Prahaar, the film managed to outpace early expectations right from its opening day in cinemas."
+        ]
+      },
+      {
+        "h": "Weekend Growth and Totals",
+        "p": [
           "After finishing its first day with a respectable haul, the movie experienced noticeable growth over the subsequent weekend days, culminating in a solid total by the end of Sunday. Industry tracking data has highlighted the film's upward trajectory as it navigates the current theatrical landscape."
         ]
       },
       {
-        "h": "Day-by-Day Earnings Breakdown",
+        "h": "Day-by-Day Earnings",
         "p": [
           "On its release day this Friday, Udta Teer leveled up above expectations to collect ₹4.10 crore. Favorable early reviews played a pivotal role in boosting audience turnout, setting a positive stage for the remainder of the weekend.",
           "Building on this momentum, the film witnessed a substantial surge on Saturday, adding ₹7.25 crore to its tally. According to tracking updates on Sacnilk, the feature continued to grow on Sunday, pulling in an additional ₹8.10 crore and bringing its cumulative three-day opening weekend collection to a robust ₹19.45 crore."
         ]
       },
       {
-        "h": "Industry Reactions and Urban Trends",
+        "h": "Trade Analysis and Urban Trends",
         "p": [
           "Trade analyst Taran Adarsh took to social media to highlight the film's impressive theatrical pull, noting a notable jump of over 76 percent in collections from Friday to Saturday. He pointed out that major multiplexes situated across urban centers experienced strong occupancies, with national chains doubling their business on the second day.",
           "Beyond traditional hubs like Mumbai, several other urban centers reported strong footfalls for the spy comedy. Cities such as Bengaluru, Kolkata, Jaipur, Hyderabad, Pune, and Chennai contributed significantly to the weekend numbers, though maintaining this momentum through the upcoming weekdays will be crucial for a strong Week 1 total."
         ]
       },
       {
-        "h": "Plot and Premise of the Spy Comedy",
+        "h": "Plot and Premise",
         "p": [
           "Udta Teer offers a quirky take on the spy genre, centering on a Pakistani intelligence operative portrayed by Ayushmann Khurrana. Following an unexpected blast, the protagonist loses his memory and mistakenly comes to believe that he is an officer belonging to India's Counter-Terrorism Squad.",
           "This case of mistaken identity triggers a sequence of comedic and action-heavy situations, entangling the character in a convoluted cross-border espionage operation alongside co-star Sara Ali Khan."
         ]
       },
       {
-        "h": "Cast and Crew Details",
+        "h": "Cast and Crew",
         "p": [
           "The project marks the directorial debut of Akash A Kaushik, who previously contributed as a writer to mainstream cinematic hits such as Housefull 4, Bhool Bhulaiyaa 2, and Bhool Bhulaiyaa 3. His background in comedy writing reflects heavily on the narrative tone of the new release.",
           "In addition to the lead pair, the film features an ensemble supporting cast including Rahul Bose, Ram Kapoor, Suhail Nayyar, Gulshan Grover, the late Mukul Dev, Raghubir Yadav, Brijendra Kala, Supriya Pilgaonkar, and Sandeep Anand."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The spy comedy Udta Teer, starring Ayushmann Khurrana and Sara Ali Khan, earned a cumulative opening weekend collection of ₹19.45 crore. Directed by Akash A Kaushik, the film follows an amnesiac Pakistani intelligence operative who believes he is part of India's Counter-Terrorism Squad."
         ]
       }
     ],
@@ -699,6 +843,12 @@ window.FA_ARTICLES = {
           "The revelation of the romance first emerged during the weekend, quickly drawing widespread interest from pop culture observers and media outlets alike. Representatives for both Brady and Swanepoel have not immediately offered public comments regarding the reports. The tight-lipped nature of their outings reflects a mutual desire to keep their private lives shielded from the relentless glare of celebrity journalism.",
           "Earlier in January, Brady addressed his personal schedule when questioned about his dating life following a New Year's Eve sighting. At the time, the former sports star noted that his primary focus remained firmly anchored in his work commitments and his children, emphasizing that he enjoys maintaining an active schedule filled with meaningful projects and positive collaborations."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tom Brady and Candice Swanepoel have been quietly seeing each other while residing in Miami, taking extreme measures to avoid media attention. Both stars are parents balancing their demanding careers, families, and co-parenting responsibilities following previous high-profile relationships. Representatives have not commented on the reports as the couple continues to keep their romance private."
+        ]
       }
     ],
     "facts": [
@@ -760,38 +910,54 @@ window.FA_ARTICLES = {
     "dek": "A closer look at the recent domestic box office reveals a tight race for the top spot between Clayface and You Can See Everything, alongside a staggering drop for Street Fighter.",
     "body": [
       {
-        "h": "The Battle For The Weekend Crown",
+        "h": "The Box Office Race",
         "p": [
-          "The recent domestic box office played host to a closely contested race for the number one position between two very different cinematic offerings. Ultimately, the superhero film Clayface managed to edge out the competition, securing the top spot despite strong momentum from rival releases. Even though the feature centers around a villain rather than a traditional hero, comic book adaptations continue to demonstrate significant pulling power at the ticket counters across the nation.",
+          "The recent domestic box office played host to a closely contested race for the number one position between two very different cinematic offerings. Ultimately, the superhero film Clayface managed to edge out the competition, securing the top spot despite strong momentum from rival releases. Even though the feature centers around a villain rather than a traditional hero, comic book adaptations continue to demonstrate significant pulling power at the ticket counters across the nation."
+        ]
+      },
+      {
+        "h": "Weekend Totals",
+        "p": [
           "However, its victory margin was remarkably slim, with only a few million dollars separating the top two contenders. Clayface managed to pull in a domestic haul of twenty-four million dollars over the weekend across three thousand four hundred and fifty-eight theaters. Hot on its heels was You Can See Everything, which finished its weekend run with nineteen million five hundred thousand dollars in the United States, bringing its cumulative domestic gross to forty-five million one hundred and forty-five thousand four hundred and seventy-six dollars."
         ]
       },
       {
-        "h": "Rising Momentum For Documentaries",
+        "h": "Documentary Growth",
         "p": [
-          "The strong performance displayed by You Can See Everything indicates a noticeable upward trajectory compared to its previous frame. The documentary, which revolves around a businesswoman convicted of fraud and features the creative efforts of figures like Nathan Fielder and A24, saw an increase in its box office takings. This growth was largely propelled by a greater number of theater chains choosing to pick up and screen the film for wider audiences.",
+          "The strong performance displayed by You Can See Everything indicates a noticeable upward trajectory compared to its previous frame. The documentary, which revolves around a businesswoman convicted of fraud and features the creative efforts of figures like Nathan Fielder and A24, saw an increase in its box office takings. This growth was largely propelled by a greater number of theater chains choosing to pick up and screen the film for wider audiences."
+        ]
+      },
+      {
+        "h": "Potential Chart Topper",
+        "p": [
           "With word of mouth continuing to spread and viewers actively discussing its contents, speculation has grown regarding whether it could capture the number one spot during its third week in release. Observers note that it missed conquering Clayface by a relatively narrow margin. Furthermore, with a clear release schedule ahead leading into the Halloween frame, industry watchers believe a climb to the top might still be within reach."
         ]
       },
       {
-        "h": "A Steep Plunge For Street Fighter",
+        "h": "Street Fighter Slump",
         "p": [
           "While the battle at the top generated considerable discussion, the most alarming narrative emerging from the weekend figures centered around Street Fighter. Following a strong opening week that landed it at number one, the video game adaptation experienced a massive seventy-two percent drop in ticket sales. Its latest weekend gross dropped down to eight million six hundred thousand dollars, elevating its total domestic gross to forty-six million nine hundred and thirty-nine thousand dollars across three thousand five hundred and seventy-five theaters.",
           "This dramatic slump raises serious questions regarding the longevity of the feature in commercial cinemas, particularly given the steepness of the decline in returns. Studio executives will likely be evaluating what lessons can be learned from the sharp downturn. Speculation remains over how much longer the production will manage to retain its screens as word-of-mouth reactions ripple through the consumer base."
         ]
       },
       {
-        "h": "Analyzing Video Game Adaptations",
+        "h": "Comparing Video Game Adaptations",
         "p": [
           "The sharp decline experienced by Street Fighter does not necessarily point toward a broader audience fatigue surrounding video game adaptations as a genre. Evidence to the contrary can be found in the enduring box office presence of Resident Evil, which continues to hang on to the tenth position on the charts. Resident Evil boasts a staggering total domestic take of one hundred and fifty-three million six hundred and eighty-one thousand dollars over thirty-eight days of release.",
           "Instead of genre fatigue, analysts point to differing critical receptions as a vital dividing factor between the two titles. While Resident Evil launched to critical acclaim, Street Fighter was met with notably rough reviews from critics. Such negative initial reactions likely deterred everyday moviegoers, convincing many consumers that the adaptation was better saved for a future streaming release rather than a theater trip."
         ]
       },
       {
-        "h": "Broader Chart Performers And Legacy",
+        "h": "Wider Chart Performers",
         "p": [
           "Beyond the primary contenders, the wider box office chart featured a mix of fresh releases and lingering holdovers. Newcomer Wildwood debuted with eleven million dollars from two thousand nine hundred and forty-two theaters, while Wicker opened at five million seven hundred and fifty thousand dollars across one thousand four hundred and seventy-one locations. Other titles such as Other Mommy, Sense and Sensibility, Whalefall, and Verity continued to pull in varying sums across domestic screens.",
           "As the industry processes these weekend statistics, discussions continue around how studios plan their release strategies and franchise aspirations. Whether major studio backers originally greenlit projects like Street Fighter with the expectation of launching a sprawling cinematic universe remains a point of industry curiosity. For now, the shifting landscape highlights the unpredictable nature of contemporary theatrical audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Clayface narrowly secured the number one spot at the domestic box office over You Can See Everything. Meanwhile, Street Fighter suffered a dramatic seventy-two percent drop in ticket sales during its second weekend. Other titles like Wildwood and Wicker also made their debuts on domestic screens."
         ]
       }
     ],
@@ -835,7 +1001,7 @@ window.FA_ARTICLES = {
     "dek": "The specialty film market sees robust movement across limited and moderate releases, with documentary NAZA passing a major box office threshold following its acquisition by Neon.",
     "body": [
       {
-        "h": "The Box Office Milestone For NAZA",
+        "h": "The NAZA Milestone",
         "p": [
           "The specialty film circuit has witnessed a significant achievement as the documentary NAZA officially cleared the one million dollar threshold over the weekend. Originally self-distributed by producer The Guardian, the explosive Israel-Gaza project was recently acquired mid-theatrical rollout by Neon.",
           "Directed by Yuval Abraham and Rachel Szor, who are previous Oscar-winning directors for No Other Land, the Venice-premiering feature is projected to bring in seventy-four thousand five hundred dollars across seventy-three screens during its fourth week in release, pushing its overall cumulative total to one million and seventy thousand dollars.",
@@ -843,15 +1009,20 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Strong Performances Across Limited Releases",
+        "h": "Limited Release Highlights",
         "p": [
-          "Beyond the success of NAZA, several other limited releases made notable waves at the specialty box office. Netflix venture La Bola Negra expanded to nine theaters, generating a robust three-day gross of two hundred and forty-five thousand dollars during its second week on the big screen, bringing its cumulative total to six hundred and fifty thousand dollars.",
+          "Beyond the success of NAZA, several other limited releases made notable waves at the specialty box office. Netflix venture La Bola Negra expanded to nine theaters, generating a robust three-day gross of two hundred and forty-five thousand dollars during its second week on the big screen, bringing its cumulative total to six hundred and fifty thousand dollars."
+        ]
+      },
+      {
+        "h": "Streaming And Star Vehicles",
+        "p": [
           "The TIFF Audience Award-winner found a top-performing theater at Alamo Brooklyn, marking a historic moment as the streaming giant officially accompanies one of its films into traditional theatrical venues with recorded box office grosses. Meanwhile, Sony Pictures Classics debuted The Only Living Pickpocket in New York across six locations, pulling in one hundred and fifty-six thousand dollars.",
           "Starring John Turturro and receiving critical acclaim, the picture was heavily boosted by audience question-and-answer sessions, with AMC Lincoln Square leading the charge locally with thirty-three thousand dollars."
         ]
       },
       {
-        "h": "Cannes Winners And International Entries",
+        "h": "Festival And International Entries",
         "p": [
           "International and festival-acclaimed titles also carved out solid footprints in a crowded specialty market. Neon's Cannes Palme d'Or-winning drama Fjord brought in three hundred and thirty thousand dollars during its third weekend, elevating its cumulative earnings to six hundred and ninety-four thousand dollars.",
           "Mubi introduced Paweł Pawlikowski's Cannes Best Director-winner, Fatherland, to four locations across New York and Los Angeles, resulting in an opening weekend of eighty-three thousand eight hundred dollars. The distributor reported overwhelming audience demand, marked by sold-out screenings across all participating venues.",
@@ -859,7 +1030,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Moderate And Wide Releases On The Circuit",
+        "h": "Moderate Release Tier",
         "p": [
           "In the moderate release tier, Black Bear's Wicker, featuring Olivia Colman and Alexander Skarsgard, resonated strongly with female audiences. The feature debuted in fifth place with five million seven hundred and fifty thousand dollars across one thousand four hundred and seventeen screens.",
           "Other mid-scale openers included Sony's Klara and the Sun, which brought in seven25 thousand dollars at eight hundred and eighty locations, and Bleecker Street's A Talent for Murder starring Helen Mirren as Patricia Highsmith, which secured seven hundred and seventeen thousand eight hundred dollars over three days across eight hundred and seventy-six locations.",
@@ -867,11 +1038,17 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Wider Expansion And Major Contenders",
+        "h": "Wide Releases And Expansion",
         "p": [
           "On the wider theatrical front, A24's You Can See Everything continued to dominate the fall indie crown, landing in second place during an expansion to two thousand six hundred and fifty-five screens with an estimated gross of nineteen million five hundred thousand dollars and a cumulative total of forty-five million one hundred thousand dollars.",
           "Fathom Entertainment presented Laika's stop-motion animation Wildwood, which debuted in third place on two thousand seven hundred and seventy-nine screens with eleven million seven hundred and eighty thousand dollars.",
           "Focus Features continued the run of Sense and Sensibility, their latest Jane Austen adaptation, which brought in three million four hundred thousand dollars on two thousand five hundred and seventy-two screens during its second week for a cumulative total of sixteen million seven hundred thousand dollars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The documentary NAZA surpassed one million dollars at the box office following its acquisition by Neon. Across the specialty market, numerous limited, moderate, and wide releases such as La Bola Negra, Fjord, and You Can See Everything also generated significant theatrical grosses."
         ]
       }
     ],
@@ -952,12 +1129,17 @@ window.FA_ARTICLES = {
       {
         "h": "Clayface Dominates Weekend Openings",
         "p": [
-          "The domestic box office charts witnessed a strong debut from DC Studios as the R-rated body horror picture Clayface secured the leading position. Distributed through a combined effort by Paramount and Warner Bros, the feature managed an estimated launch of 24 million dollars across 3,458 theater locations.",
+          "The domestic box office charts witnessed a strong debut from DC Studios as the R-rated body horror picture Clayface secured the leading position. Distributed through a combined effort by Paramount and Warner Bros, the feature managed an estimated launch of 24 million dollars across 3,458 theater locations."
+        ]
+      },
+      {
+        "h": "Audience Reception and Production Budget",
+        "p": [
           "The Batman spin-off project benefited from favorable audience reception, securing an A- CinemaScore. Given its reported production expenditure of 44 million dollars, industry analysts view the opening weekend performance as a solid foundation for its theatrical run."
         ]
       },
       {
-        "h": "Cast and Creative Team Behind the Batman Spin-Off",
+        "h": "Cast and Creative Team",
         "p": [
           "In front of the camera, the film features actor Tom Rhys Harries in the lead role. He portrays an emerging film star who undertakes a violent revenge campaign after suffering a botched medical procedure.",
           "Behind the scenes, directing duties for the spin-off were handled by filmmaker James Watkins, whose work shaped the tone of the R-rated body horror narrative."
@@ -971,17 +1153,28 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Other Notable Chart Debuts and Holdovers",
+        "h": "Other Notable Chart Debuts",
         "p": [
-          "Elsewhere on the weekend charts, Fathom Entertainment introduced Laika's acclaimed animated feature Wildwood at number three, pulling in 11.8 million dollars from 2,779 sites with international sales managed by FilmNation. Meanwhile, Paramount's Street Fighter experienced a steep 72 percent drop in its second weekend, taking fourth place with 8.6 million dollars from 3,575 locations for a cumulative 46.9 million dollars.",
+          "Elsewhere on the weekend charts, Fathom Entertainment introduced Laika's acclaimed animated feature Wildwood at number three, pulling in 11.8 million dollars from 2,779 sites with international sales managed by FilmNation. Meanwhile, Paramount's Street Fighter experienced a steep 72 percent drop in its second weekend, taking fourth place with 8.6 million dollars from 3,575 locations for a cumulative 46.9 million dollars."
+        ]
+      },
+      {
+        "h": "Top Five and Demographic Data",
+        "p": [
           "Black Bear entered the top five with its Sundance selection Wicker, starring Olivia Colman and Alexander Skarsgard, which accumulated 5.8 million dollars. Directed by Alex Huston Fischer and Eleanor Wilson, the historical romantic tale attracted an audience demographic consisting of 79 percent female viewers, 45 percent white viewers, and 42 percent individuals aged 25 to 43."
         ]
       },
       {
-        "h": "Specialty Releases and Overall Market Health",
+        "h": "Specialty Releases and Market Health",
         "p": [
           "In limited release, Netflix expanded La Bola Negra to nine cinemas during its second weekend, allowing the Spanish Oscar submission and awards contender to earn 245,000 dollars toward an early 650,000 dollar total ahead of its December 2 streaming release. Neon's documentary acquisition NAZA, directed by Yuval Abraham and Rachel Szor, added 74,500 dollars across 73 screens to cross the 1 million dollar threshold after four weekends.",
           "Overall box office receipts for the weekend reached 94.9 million dollars according to Rentrak data, representing a 21.8 percent increase over the comparable session from the previous year. Cumulative earnings for the year-to-date have advanced to 8.4 billion dollars, tracking 20.2 percent ahead of the pace set at the same point in 2025."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Studios' R-rated body horror picture Clayface opened at the top of the North American box office with an estimated 24 million dollars. Meanwhile, A24's documentary You Can See Everything continued a strong run by expanding its reach and pulling in 19.5 million dollars in its second session."
         ]
       }
     ],
@@ -1049,28 +1242,33 @@ window.FA_ARTICLES = {
     "dek": "Independent Film Company has released the first official trailer for Ken Sanzel's crime thriller starring Nicolas Cage, Justin Long, and Shelley Hennig.",
     "body": [
       {
-        "h": "A New Transformative Role for Nicolas Cage",
+        "h": "A New Transformative Role",
         "p": [
-          "Nicolas Cage continues his streak of eccentric and captivating screen performances with an entirely unique look in his latest project. Known for seamlessly transitioning between deeply emotional dramas and intensely unsettling antagonists, the celebrated actor embraces another bizarre transformation for his newest feature.",
+          "Nicolas Cage continues his streak of eccentric and captivating screen performances with an entirely unique look in his latest project. Known for seamlessly transitioning between deeply emotional dramas and intensely unsettling antagonists, the celebrated actor embraces another bizarre transformation for his newest feature."
+        ]
+      },
+      {
+        "h": "The S.O.B. Visual Shift",
+        "p": [
           "Sporting dark curls, oversized glasses, and a distinctive prosthetic nose, Cage steps into the shoes of a criminal known by the moniker The S.O.B. The official trailer showcases his striking visual shift, offering audiences a glimpse into a project that promises to lean heavily into the unpredictable nature of his career choices."
         ]
       },
       {
-        "h": "Plot Details and Setting",
+        "h": "Diner Setting and CIA Plot",
         "p": [
           "Set entirely over the course of a single violent night, the narrative unfolds inside a small-town diner renowned for its breakfast menu. However, the establishment's famous pancakes quickly take a back seat when a group of dangerous individuals converges on the location, bringing a wave of trouble with them.",
           "At the center of the chaos is a high-stakes conflict revolving around a hard drive packed with sensitive and potentially damaging information regarding the CIA. Following a botched heist, Cage's con-man character finds himself retreating to the remote diner, sparking a chaotic standoff against rogue federal agents and other interested parties."
         ]
       },
       {
-        "h": "Behind the Camera and Ensemble Cast",
+        "h": "Cast and Crew",
         "p": [
           "The film reunites Nicolas Cage with filmmaker Ken Sanzel, who previously directed the actor in Kill Chain. Sanzel takes the reins as both writer and director, orchestrating a tense atmosphere where shifting loyalties dictate who survives the night.",
           "Joining Cage in the ensemble cast are Justin Long and Shelley Hennig, with Hennig portraying a local waitress harboring her own secretive agenda. The supporting cast further features prominent talents including Lauren German, Ravi Patel, Brandon Mychal Smith, Kelly Greyson, Jaylen Moore, and Michael Sirow."
         ]
       },
       {
-        "h": "Blending Tension with Absurd Humor",
+        "h": "Dark Humor and Tension",
         "p": [
           "While the central plot deals with a dangerous battle for a valuable CIA hard drive, the promotional footage hints at a darkly humorous undertone. The trailer expertly contrasts high-tension criminal threats with casual banter concerning the quality of the restaurant's breakfast offerings.",
           "This juxtaposition gives the narrative a deliberately absurd edge, allowing lethal confrontations to unfold alongside comedic exchanges about the titular diner food. It sets the stage for a chaotic night where arguments over morning meals share space with life-or-death survival."
@@ -1081,6 +1279,12 @@ window.FA_ARTICLES = {
         "p": [
           "Fans eager to witness Nicolas Cage's latest cinematic transformation will not have to wait much longer. Independent Film Company has slated the project for a simultaneous theatrical and digital rollout.",
           "The feature is scheduled to arrive in select theaters and on digital streaming platforms on November 20, inviting viewers to experience a chaotic evening where trust is scarce and survival demands more than just a weapon."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Independent Film Company has released the trailer for Ken Sanzel's crime thriller starring Nicolas Cage, Justin Long, and Shelley Hennig. The film follows a con-man hiding out in a remote diner with a valuable CIA hard drive, leading to a violent and darkly humorous standoff. It is scheduled for a simultaneous theatrical and digital release on November 20."
         ]
       }
     ],
@@ -1136,38 +1340,59 @@ window.FA_ARTICLES = {
     "dek": "Rajinikanth's action thriller Jailer 2 maintains a strong box office momentum, crossing the Rs 710 crore mark globally following a robust second weekend.",
     "body": [
       {
-        "h": "Continuing Box Office Momentum on the Second Sunday",
+        "h": "Second Sunday Momentum",
         "p": [
-          "The theatrical run of the newly released action thriller starring veteran superstar Rajinikanth witnessed a notable upswing in earnings as it concluded its second weekend. Bringing in a strong collection during Sunday screenings, the movie demonstrated its continued appeal among audiences across various regions. Industry trackers and public reports highlight that the feature has successfully maintained high engagement levels well past its opening week, showing consistent footfalls in theaters nationwide.",
+          "The theatrical run of the newly released action thriller starring veteran superstar Rajinikanth witnessed a notable upswing in earnings as it concluded its second weekend. Bringing in a strong collection during Sunday screenings, the movie demonstrated its continued appeal among audiences across various regions. Industry trackers and public reports highlight that the feature has successfully maintained high engagement levels well past its opening week, showing consistent footfalls in theaters nationwide."
+        ]
+      },
+      {
+        "h": "Screenings and Eleventh Day Rise",
+        "p": [
           "The film recorded a significant number of screenings across the country on its eleventh day, allowing it to register a notable percentage increase compared to its previous day's tally. Exhibitors and trade analysts noted that evening and afternoon show slots drew particularly heavy crowds, contributing heavily to the overall daily net revenue generated within domestic territories."
         ]
       },
       {
-        "h": "Breaking Down Domestic and International Figures",
+        "h": "Domestic and International Figures",
         "p": [
-          "In terms of cumulative financial performance, the movie has amassed massive figures since its initial premiere. Total domestic net collections have reached substantial heights, complemented by strong domestic gross tallies. International markets have additionally proven to be a vital revenue driver, adding consistent daily grosses from overseas territories to elevate the cumulative worldwide gross past the monumental threshold.",
+          "In terms of cumulative financial performance, the movie has amassed massive figures since its initial premiere. Total domestic net collections have reached substantial heights, complemented by strong domestic gross tallies. International markets have additionally proven to be a vital revenue driver, adding consistent daily grosses from overseas territories to elevate the cumulative worldwide gross past the monumental threshold."
+        ]
+      },
+      {
+        "h": "Opening Week and Weekend Comparison",
+        "p": [
           "While the second weekend performance demonstrated impressive staying power—pulling in a strong three-day net total across Friday, Saturday, and Sunday—these figures arrive on the heels of a massive opening week. Although current daily earnings sit below the record-breaking heights established on the very first day of release, the film continues to command thousands of shows daily with steady occupancy percentages."
         ]
       },
       {
-        "h": "Multi-Language Performance and Regional Dominance",
+        "h": "Multi-Language Appeal",
         "p": [
-          "The project's box office triumph is heavily anchored by its performance across multiple regional languages. The Tamil version naturally captured the lion's share of the domestic earnings, commanding a vast majority of the total net revenue with high overall theater occupancy. At the same time, versions released in Telugu, Hindi, and Kannada also contributed meaningfully to the overall tally, proving the widespread multi-lingual appeal of the lead star.",
+          "The project's box office triumph is heavily anchored by its performance across multiple regional languages. The Tamil version naturally captured the lion's share of the domestic earnings, commanding a vast majority of the total net revenue with high overall theater occupancy. At the same time, versions released in Telugu, Hindi, and Kannada also contributed meaningfully to the overall tally, proving the widespread multi-lingual appeal of the lead star."
+        ]
+      },
+      {
+        "h": "State-Wise Distribution",
+        "p": [
           "State-wise distribution reports emphasize that Tamil Nadu remained the primary contributor to the gross collection figures, followed closely by Karnataka and the Andhra Pradesh-Telangana region. Kerala and other parts of the country rounded out the regional contributions, pushing total reported state-wise gross collections past the thirty-crore mark for the specific Sunday window alone."
         ]
       },
       {
-        "h": "Plot Background and Character Context",
+        "h": "Plot and Character Context",
         "p": [
           "Directed to appeal to fans of high-octane commercial cinema, the narrative centers on the protagonist Tiger Muthuvel Pandian, a retired jailer portrayed by Rajinikanth. The storyline kicks into high gear when an unexpected and dangerous threat from the criminal underworld shatters the tranquility of his everyday life, forcing him to step back into his former ruthless persona.",
           "The ensuing conflict drives the core of the action thriller, as the seasoned protagonist sets out to neutralize antagonistic forces and safeguard his family. This mixture of emotional stakes and signature action sequences has resonated strongly with moviegoers, fueling the massive attendance numbers recorded at ticket windows globally."
         ]
       },
       {
-        "h": "Audience Attendance and Trade Significance",
+        "h": "Attendance and Global Milestones",
         "p": [
           "Cumulative theatrical attendance has seen millions of tickets sold since the feature premiered, reflecting the enduring superstardom of the lead actor. Sunday screenings alone registered massive footfalls across various territories, with different language versions displaying varying degrees of peak viewing hours, ranging from strong evening turnouts to respectable morning and afternoon occupancies.",
           "As public and industry sources continue to monitor the performance of this blockbuster, final figures are expected to adjust slightly as official studio verifications are completed. Nevertheless, the milestone achievement of crossing the Rs 710 crore global threshold solidifies its place as one of the major commercial successes of the theatrical calendar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action thriller featuring the retired jailer Tiger Muthuvel Pandian continues its strong box office performance past its opening week. Driven by multi-language appeal and strong domestic and international screenings, the film has crossed the Rs 710 crore global threshold."
         ]
       }
     ],
@@ -1212,45 +1437,56 @@ window.FA_ARTICLES = {
     "dek": "The highly anticipated cinematic adaptation directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash is demonstrating phenomenal momentum at the ticket windows prior to its theatrical debut.",
     "body": [
       {
-        "h": "Strong Opening Momentum and Advance Booking Figures",
+        "h": "Strong Opening Momentum",
         "p": [
-          "The much-awaited mythological epic 'Ramayana: Rise of a Legend' is witnessing an extraordinary wave of early interest, quickly approaching the significant Rs 25 crore mark in pre-release ticket sales. As the feature prepares for its grand theatrical rollout, tracking data compiled by Films Discourse indicates exceptional enthusiasm from audiences across the country.",
+          "The much-awaited mythological epic 'Ramayana: Rise of a Legend' is witnessing an extraordinary wave of early interest, quickly approaching the significant Rs 25 crore mark in pre-release ticket sales. As the feature prepares for its grand theatrical rollout, tracking data compiled by Films Discourse indicates exceptional enthusiasm from audiences across the country."
+        ]
+      },
+      {
+        "h": "Advance Booking Figures",
+        "p": [
           "Early box office tallies reveal that the feature has already moved approximately 2.16 lakh admissions across 161 urban centers. This initial surge has translated into an estimated gross total of Rs 12.50 crore strictly through advance reservations for its opening weekend."
         ]
       },
       {
-        "h": "Breakdown of Gross and Net Collections",
+        "h": "Collections and Blocked Seats",
         "p": [
           "Analyzing the financial metrics reveals a nuanced picture of the pre-sale performance. When excluding specifically blocked seats, the net collection generated by these early reservations sits at an estimated Rs 10.57 crore.",
           "However, factoring in all currently blocked inventory significantly elevates the figures, bringing the reported gross collection closer to the projected milestones at an impressive Rs 23.28 crore, setting the stage for a blockbuster opening week."
         ]
       },
       {
-        "h": "Regional Dominance Led by Maharashtra and Mumbai",
+        "h": "Regional and City Dominance",
         "p": [
           "Geographically, the state of Maharashtra has emerged as the clear frontrunner in driving these advance booking numbers. Audiences within the state have secured a remarkable 46,937 tickets, contributing an estimated Rs 3.20 crore to the pre-release tally.",
           "At the city level, Mumbai stands proudly at the forefront of metropolitan ticket sales. The city alone accounted for 27,959 purchased admissions, generating an estimated collection of Rs 2.07 crore and cementing its status as a primary stronghold for the film."
         ]
       },
       {
-        "h": "Language and Format Preferences Among Audiences",
+        "h": "Language and Format Preferences",
         "p": [
           "A closer look at the linguistic distribution shows that the Hindi version is overwhelmingly driving the pre-sale momentum. Reports indicate that 1,84,010 tickets for the Hindi-language screenings have been snapped up by eager fans, yielding an estimated Rs 10.98 crore.",
           "In terms of presentation formats, immersive 3D screenings are capturing a substantial share of the excitement. While specific tallies vary across reporting entries—with one dataset indicating 1,28,575 tickets generating Rs 6.51 crore and another pointing to 1,41,183 tickets bringing in Rs 7.10 crore—the format is undeniably proving to be a major draw for moviegoers."
         ]
       },
       {
-        "h": "Star-Studded Cast and Creative Leadership",
+        "h": "Cast and Creative Leadership",
         "p": [
           "The immense pre-release traction can largely be attributed to its stellar ensemble cast and celebrated creative team. Helmed by acclaimed director Nitesh Tiwari, the project brings together some of the biggest names in Indian cinema to breathe new life into the timeless epic.",
           "Ranbir Kapoor takes on the revered role of Lord Ram, while Yash steps into the formidable persona of Ravana. The film also features Sai Pallavi as Sita, Sunny Deol as Hanuman, and Ravie Dubey as Lakshman, creating a powerhouse lineup for the worldwide theatrical launch."
         ]
       },
       {
-        "h": "Anticipation and Global Theatrical Launch",
+        "h": "Global Theatrical Launch",
         "p": [
           "The massive advance ticket sales underscore the sky-high expectations surrounding the first part of this ambitious cinematic journey. Industry analysts and fans alike are watching the numbers closely as the release date approaches.",
           "With a scheduled worldwide theatrical premiere on Thursday, November 5, 2026, 'Ramayana: Part 1' is poised to make a monumental splash at the box office, potentially rewriting opening-weekend records upon its arrival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The film 'Ramayana: Rise of a Legend' is approaching Rs 25 crore in advance ticket sales ahead of its worldwide theatrical premiere on November 5, 2026. Directed by Nitesh Tiwari, the movie features stars like Ranbir Kapoor and Yash, with strong early momentum driven largely by Hindi screenings, 3D formats, and strong sales in Maharashtra and Mumbai."
         ]
       }
     ],
@@ -1296,31 +1532,57 @@ window.FA_ARTICLES = {
     "dek": "Nelson Dilipkumar's directorial venture has shattered records in just 11 days, overtaking 2.0 to become the highest-grossing Tamil film in history.",
     "body": [
       {
-        "h": "A Historic Milestone at the Global Box Office",
+        "h": "A Historic Milestone",
         "p": [
-          "The cinematic landscape of Kollywood has witnessed a monumental achievement as Jailer 2 officially claims the title of the highest-grossing Tamil film of all time. Directed by Nelson Dilipkumar and starring superstar Rajinikanth, the action-packed sequel achieved this historic feat within a mere 11 days of its theatrical run. Surpassing previous benchmarks set by long-standing blockbusters, the movie has successfully crossed the unprecedented ₹700-crore threshold globally.",
+          "The cinematic landscape of Kollywood has witnessed a monumental achievement as Jailer 2 officially claims the title of the highest-grossing Tamil film of all time. Directed by Nelson Dilipkumar and starring superstar Rajinikanth, the action-packed sequel achieved this historic feat within a mere 11 days of its theatrical run. Surpassing previous benchmarks set by long-standing blockbusters, the movie has successfully crossed the unprecedented ₹700-crore threshold globally."
+        ]
+      },
+      {
+        "h": "Box Office Momentum",
+        "p": [
           "Industry analysts note that the momentum for the Sun Pictures production shows no signs of slowing down. During its second weekend, the feature pulled in staggering numbers internationally and domestically, proving that audience enthusiasm remains at an all-time high. With strong daily grosses still rolling in, trade circles are already speculating about the possibility of the film inching closer to even loftier financial milestones."
         ]
       },
       {
-        "h": "Domestic Dominance and International Reach",
+        "h": "Domestic Dominance",
         "p": [
-          "In the domestic market, the Rajinikanth vehicle recorded an impressive single-day net collection on its eleventh day, reflecting a robust surge in ticket sales. This latest haul propelled its cumulative domestic net earnings close to the coveted ₹400-crore milestone. Achieving this feat places the project in an elite tier of domestic performers alongside its own predecessor and Vijay's hit movie Leo.",
+          "In the domestic market, the Rajinikanth vehicle recorded an impressive single-day net collection on its eleventh day, reflecting a robust surge in ticket sales. This latest haul propelled its cumulative domestic net earnings close to the coveted ₹400-crore milestone. Achieving this feat places the project in an elite tier of domestic performers alongside its own predecessor and Vijay's hit movie Leo."
+        ]
+      },
+      {
+        "h": "International Reach",
+        "p": [
           "Beyond domestic borders, the international appeal of the franchise has proven to be a massive driving force. Overseas territories contributed significantly to the overall tally, accumulating tens of millions in foreign currency and pushing the worldwide gross well past the ₹710-crore mark. This balanced performance across local and global markets underscores the widespread popularity of the lead actor."
         ]
       },
       {
-        "h": "Dethroning Previous Record Holders",
+        "h": "Dethroning Previous Records",
         "p": [
-          "The journey to the top involved eclipsing several massive titles that previously dominated the upper echelons of Tamil cinema history. Jailer 2 successfully overtook the eight-year-old lifetime record previously held by the science-fiction spectacle 2.0. Along the way, it also surpassed other heavy hitters including Leo, the first part of the franchise, and another recent tentpole release, Coolie.",
+          "The journey to the top involved eclipsing several massive titles that previously dominated the upper echelons of Tamil cinema history. Jailer 2 successfully overtook the eight-year-old lifetime record previously held by the science-fiction spectacle 2.0. Along the way, it also surpassed other heavy hitters including Leo, the first part of the franchise, and another recent tentpole release, Coolie."
+        ]
+      },
+      {
+        "h": "Exclusive Cinematic Club",
+        "p": [
           "By crossing ₹700 crore worldwide, the movie has carved out a unique space in Indian cinema history. It stands proudly as the seventh South Indian film to breach this elite financial tier and marks the eighteenth Indian film overall to enter the exclusive club, further cementing the global footprint of regional language cinema."
         ]
       },
       {
-        "h": "Behind the Success: Cast and Crew",
+        "h": "Cast and Crew Details",
         "p": [
-          "The project marks a notable departure for Rajinikanth, who historically has been hesitant to sign on for sequels to his legendary blockbusters. Reprising his celebrated role as 'Tiger' Muthuvel Pandian, the veteran actor leads a sprawling ensemble cast that blends returning fan favorites with prominent fresh faces. Actors such as Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik return from the original installment.",
+          "The project marks a notable departure for Rajinikanth, who historically has been hesitant to sign on for sequels to his legendary blockbusters. Reprising his celebrated role as 'Tiger' Muthuvel Pandian, the veteran actor leads a sprawling ensemble cast that blends returning fan favorites with prominent fresh faces. Actors such as Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik return from the original installment."
+        ]
+      },
+      {
+        "h": "Music and Cameos",
+        "p": [
           "Adding to the cinematic spectacle are high-profile additions and cameo appearances featuring esteemed names from across Indian cinema, including S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Vidya Balan, Anna Rajan, Jatin Sarna, Hrithik Roshan, Mohanlal, Shiva Rajkumar, and Jackie Shroff. The sonic landscape of the movie, crucial to its high-energy pacing, was crafted by composer Anirudh Ravichander."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Directed by Nelson Dilipkumar and starring Rajinikanth, Jailer 2 has become the highest-grossing Tamil film of all time within 11 days. The Sun Pictures production has surpassed ₹700 crore globally, overtaking previous records held by films like 2.0 and Leo."
         ]
       }
     ],
@@ -1404,6 +1666,12 @@ window.FA_ARTICLES = {
           "Directed by Nitesh Tiwari, Ramayana is structured as a two-part cinematic event produced by Namit Malhotra’s Prime Focus Studios in partnership with DNEG and Yash’s Monster Mind Creations. The star-studded ensemble features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.",
           "The first installment is slated for a worldwide release on November 5, 2026, followed by the second part scheduled for Diwali 2027. The project will release in Hindi, Tamil, Telugu, Kannada, and Malayalam, backed by a global IMAX rollout, with Sony Pictures managing worldwide distribution outside India and Dharma Productions handling the Hindi-speaking market."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's upcoming mythological film Ramayana Part One has surpassed ₹20 crore in global advance bookings ten days prior to its release. The movie features a star-studded cast including Ranbir Kapoor and Yash, with strong ticket demand reported across domestic languages and international markets like North America."
+        ]
       }
     ],
     "facts": [
@@ -1450,35 +1718,61 @@ window.FA_ARTICLES = {
     "dek": "The highly anticipated mythological drama starring Ranbir Kapoor and Yash has crossed Rs 20.50 crore in worldwide advance gross ahead of its November global release.",
     "body": [
       {
-        "h": "Global Pre-Sales Surge Past Key Milestone",
+        "h": "Global Pre-Sales Surge",
         "p": [
-          "The upcoming theatrical spectacle Ramayana has officially surpassed the Rs 20 crore mark in global advance bookings. Eagerness for the ambitious project has translated into strong early numbers across international territories.",
+          "The upcoming theatrical spectacle Ramayana has officially surpassed the Rs 20 crore mark in global advance bookings. Eagerness for the ambitious project has translated into strong early numbers across international territories."
+        ]
+      },
+      {
+        "h": "Global Gross and Sales Milestones",
+        "p": [
           "Reports indicate that the production has accumulated roughly Rs 20.50 crore globally in advance gross earnings. This robust tally accounts for both opening day commitments and prepaid preview screenings scheduled ahead of the formal premiere.",
           "With ticket sales crossing 2.25 lakh worldwide by Monday, October 26, the mythological drama demonstrates formidable pulling power in overseas markets long before domestic previews kick off."
         ]
       },
       {
-        "h": "High Stakes and Festive Release Timing",
+        "h": "Release Timing and Scale",
         "p": [
           "Positioned as one of the most prominent cinematic releases of 2026, the Nitesh Tiwari directorial is slated to arrive during the festive Diwali week. The global rollout is scheduled for November 5.",
-          "The feature carries immense financial weight, being mounted on a massive multi-thousand crore budget that encompasses both the current installment and its planned sequel. Producers intend to deliver an uncompromised premium theatrical presentation.",
+          "The feature carries immense financial weight, being mounted on a massive multi-thousand crore budget that encompasses both the current installment and its planned sequel. Producers intend to deliver an uncompromised premium theatrical presentation."
+        ]
+      },
+      {
+        "h": "Formats and Languages",
+        "p": [
           "Audiences will be able to experience the title across multiple advanced formats including 2D, 3D, IMAX 3D, 4DX 3D, and 3D Screen X. Furthermore, the project will be distributed in Hindi, Tamil, Kannada, Telugu, Malayalam, and English."
         ]
       },
       {
-        "h": "Negotiations and Booking Dynamics in India",
+        "h": "Domestic Booking Friction",
         "p": [
           "While international markets secured early access, advance ticket sales inside India faced specific procedural roadblocks. The domestic window opened following Dussehra on October 20 after initial friction was addressed.",
-          "Reports pointed to a disagreement between distributors and exhibitors regarding revenue-sharing terms. Distributors reportedly requested a 60 percent share for the opening week, scaling down to 50 percent in the second week and 40 percent in the third week.",
+          "Reports pointed to a disagreement between distributors and exhibitors regarding revenue-sharing terms. Distributors reportedly requested a 60 percent share for the opening week, scaling down to 50 percent in the second week and 40 percent in the third week."
+        ]
+      },
+      {
+        "h": "Exhibitor Negotiations",
+        "p": [
           "These requested figures exceed standard industry practices for major blockbusters, which typically feature a 52.5 percent distributor share for the first week. Consequently, concerned exhibitors engaged in ongoing negotiations to finalize terms."
         ]
       },
       {
-        "h": "Premium Pricing and Starcast Appeal",
+        "h": "Ticket Pricing and Public Interest",
         "p": [
-          "Ticket pricing for the feature has sparked significant public discussion, particularly in major metro areas. Premium multiplexes and select theaters are witnessing houseful trends despite pricing reaching up to Rs 3000 per seat.",
+          "Ticket pricing for the feature has sparked significant public discussion, particularly in major metro areas. Premium multiplexes and select theaters are witnessing houseful trends despite pricing reaching up to Rs 3000 per seat."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
           "The ensemble cast brings together major industry names including Ranbir Kapoor, Yash, Sai Pallavi, Sunny Deol, Ravi Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta.",
           "Production duties for the massive venture are handled by Namit Malhotra’s Prime Focus Studios alongside Yash’s Monster Mind Creations, uniting prominent creative forces for the mythological adaptation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming mythological drama Ramayana has crossed Rs 20.50 crore in worldwide advance gross earnings ahead of its November global release. The project is directed by Nitesh Tiwari, produced by Prime Focus Studios and Monster Mind Creations, and features an ensemble cast including Ranbir Kapoor and Yash."
         ]
       }
     ],
@@ -1524,45 +1818,56 @@ window.FA_ARTICLES = {
     "dek": "Actor Yash is expanding his participation in Nitesh Tiwari's upcoming mythological epic Ramayana beyond his on-screen role and co-production duties, with his banner taking responsibility for the film's regional release in Karnataka.",
     "body": [
       {
-        "h": "Expanding Creative and Business Footprint",
+        "h": "Expanding Creative Footprint",
         "p": [
-          "Renowned actor Yash is taking on a much larger responsibility for the highly anticipated cinematic adaptation Ramayana. Aside from portraying the pivotal character of Ravana and serving as a co-producer, the star is stepping directly into regional distribution through his very own production banner, Monster Mind Creations.",
+          "Renowned actor Yash is taking on a much larger responsibility for the highly anticipated cinematic adaptation Ramayana. Aside from portraying the pivotal character of Ravana and serving as a co-producer, the star is stepping directly into regional distribution through his very own production banner, Monster Mind Creations."
+        ]
+      },
+      {
+        "h": "Regional Distribution Strategy",
+        "p": [
           "The establishment of a dedicated distribution wing within his company represents a major milestone for the enterprise. Rather than simply relying on outside distributors for his home state, Yash has positioned his banner at the absolute center of the Karnataka release strategy, demonstrating a hands-on approach to the film's commercial journey."
         ]
       },
       {
-        "h": "Leveraging Star Power in the Regional Market",
+        "h": "Star Power Impact",
         "p": [
           "With a massive, dedicated fan following throughout Karnataka and across the rest of the country, Yash commands considerable influence at the box office. His company taking over local distribution is expected to be a deciding factor in how successfully the project rolls out across cinema halls in the region.",
           "This strategic alignment guarantees that local audiences will experience a well-orchestrated rollout. The arrangement ensures that the star's immense regional popularity directly supports the overarching marketing and distribution framework established for the epic drama."
         ]
       },
       {
-        "h": "An Ambitious Two-Part Mythological Undertaking",
+        "h": "Project Scope and Scale",
         "p": [
           "At the helm of this massive cinematic project is director Nitesh Tiwari, widely recognized for his work on acclaimed films such as Dangal and Chhichhore. The production is structured as a sweeping two-part cinematic adaptation inspired by the timeless Indian epic.",
           "The production scale matches the mythological scope of the narrative, relying heavily on cutting-edge visual effects and detailed production design. Jointly backed by Prime Focus Studios and Monster Mind Creations, the venture is designed to deliver a grand theatrical spectacle across multiple languages."
         ]
       },
       {
-        "h": "A Power-Packed Ensemble Cast",
+        "h": "Ensemble Cast",
         "p": [
           "The film features a colossal ensemble cast that brings together prominent faces from various major film industries. Ranbir Kapoor steps into the sacred role of Lord Rama, while Sai Pallavi portrays Sita.",
           "Additionally, veteran actor Sunny Deol joins the lineup as Lord Hanuman, alongside Yash rounding out the primary antagonists as Ravana. This star-studded casting choice is intended to broaden the appeal of the project across diverse demographic segments."
         ]
       },
       {
-        "h": "A Comprehensive Domestic and Global Network",
+        "h": "Domestic and Global Network",
         "p": [
           "While Monster Mind Creations anchors the distribution in Karnataka, a complex network of established industry partners has been assembled to handle other vital territories. Sony Pictures has secured the international distribution rights, ensuring a broad overseas footprint.",
           "Within India, distribution responsibilities are divided among heavyweights. Dharma Productions oversees Hindi-speaking markets in North India, producer Dil Raju manages Andhra Pradesh and Telangana, Think Studios takes charge of Tamil Nadu, and E4 Entertainment, headed by Mukesh Mehta, handles Kerala."
         ]
       },
       {
-        "h": "Global Release Timeline and Anticipation",
+        "h": "Release Timeline",
         "p": [
           "The initial installment, Ramayana: Part 1, is officially slated for a worldwide theatrical premiere on November 5, 2026. The movie will debut across multiple languages and premium large formats to maximize its visual and auditory impact.",
           "With the regional distribution puzzle pieces now locking into place through Monster Mind Creations, promotional momentum continues to build. Exhibitors and fans alike are eagerly tracking developments as the makers prepare to bring the legendary tale to life on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Yash is expanding his involvement in Nitesh Tiwari's upcoming two-part mythological epic Ramayana by having his banner, Monster Mind Creations, handle theatrical distribution in Karnataka. The film features an ensemble cast including Ranbir Kapoor, Sai Pallavi, and Sunny Deol, with global and domestic distribution handled by various studio partners. Ramayana: Part 1 is scheduled for a worldwide theatrical release on November 5, 2026."
         ]
       }
     ],
@@ -1618,29 +1923,55 @@ window.FA_ARTICLES = {
       {
         "h": "Official Title and Theatrical Launch",
         "p": [
-          "Yash Raj Films has officially pulled the curtain back on the official title of its highly anticipated cinematic venture, putting an end to months of speculation surrounding the project. Formerly identified as Ali Abbas Zafar's untitled next, the venture is now officially named Beparwah. Alongside the title revelation, the makers treated fans to a teaser poster, arriving exactly five months before the feature hits the big screen globally.",
+          "Yash Raj Films has officially pulled the curtain back on the official title of its highly anticipated cinematic venture, putting an end to months of speculation surrounding the project. Formerly identified as Ali Abbas Zafar's untitled next, the venture is now officially named Beparwah. Alongside the title revelation, the makers treated fans to a teaser poster, arriving exactly five months before the feature hits the big screen globally."
+        ]
+      },
+      {
+        "h": "Release Date and Production",
+        "p": [
           "The theatrical rollout is strategically scheduled for March 26, 2027. This launch date has been carefully chosen to coincide with the Good Friday holiday period, capitalizing on the extended weekend window to draw large crowds to theaters worldwide. Production on the film involved extensive schedules overseas, with significant portions of the principal photography taking place in the United Kingdom."
         ]
       },
       {
-        "h": "Creative Collaboration Between Zafar and Chopra",
+        "h": "Zafar and Chopra Reunion",
         "p": [
-          "Beparwah marks a significant reunion between filmmaker Ali Abbas Zafar and producer Aditya Chopra, adding another chapter to their long-standing professional partnership. This project represents their fifth collaboration under the prestigious Yash Raj Films banner. Their previous cinematic ventures together include Mere Brother Ki Dulhan in 2011, Gunday in 2014, Sultan in 2016, and Tiger Zinda Hai in 2017.",
+          "Beparwah marks a significant reunion between filmmaker Ali Abbas Zafar and producer Aditya Chopra, adding another chapter to their long-standing professional partnership. This project represents their fifth collaboration under the prestigious Yash Raj Films banner. Their previous cinematic ventures together include Mere Brother Ki Dulhan in 2011, Gunday in 2014, Sultan in 2016, and Tiger Zinda Hai in 2017."
+        ]
+      },
+      {
+        "h": "Director Career Highlights",
+        "p": [
           "Both Sultan and Tiger Zinda Hai proved to be massive box-office blockbusters featuring Salman Khan in the lead role. Beyond his work with YRF, Zafar has directed major commercial films like Bharat in 2019 and Bade Miyan Chote Miyan in 2024, as well as political thriller streaming content. For Beparwah, Zafar shares writing credits on the script alongside producer Aditya Chopra."
         ]
       },
       {
-        "h": "A Fresh On-Screen Pairing",
+        "h": "Ahaan Panday's Role",
         "p": [
-          "The upcoming feature brings together two of the industry's most talked-about young talents for their very first cinematic pairing. Ahaan Panday steps into the project following his breakthrough success in Mohit Suri's musical romantic drama Saiyaara, where he starred opposite Aneet Padda. That 2025 release established him as a major commercial draw and earned widespread acclaim.",
+          "The upcoming feature brings together two of the industry's most talked-about young talents for their very first cinematic pairing. Ahaan Panday steps into the project following his breakthrough success in Mohit Suri's musical romantic drama Saiyaara, where he starred opposite Aneet Padda. That 2025 release established him as a major commercial draw and earned widespread acclaim."
+        ]
+      },
+      {
+        "h": "Sharvari's Filmography",
+        "p": [
           "Opposite him is Sharvari, who began her journey with YRF in Bunty Aur Babli 2 before expanding her range through projects like the horror-comedy Munjya and an appearance in Alpha alongside Alia Bhatt. Most recently, Sharvari was seen sharing the screen with Vedang Raina in Main Vaapas Aaunga, which premiered in June 2026."
         ]
       },
       {
-        "h": "Supporting Cast and Extended Ensemble",
+        "h": "Supporting Cast and Antagonist",
         "p": [
-          "In addition to the lead pair, Beparwah boasts a prominent supporting ensemble designed to elevate the high-stakes narrative. Veteran actor Bobby Deol is slated to feature in the production, bringing his seasoned screen presence to the narrative. The cast also includes Aaishvary Thackeray, the grandson of Shiv Sena founder Bal Thackeray, who is reported to essay the primary antagonist role.",
+          "In addition to the lead pair, Beparwah boasts a prominent supporting ensemble designed to elevate the high-stakes narrative. Veteran actor Bobby Deol is slated to feature in the production, bringing his seasoned screen presence to the narrative. The cast also includes Aaishvary Thackeray, the grandson of Shiv Sena founder Bal Thackeray, who is reported to essay the primary antagonist role."
+        ]
+      },
+      {
+        "h": "Commercial Expectations",
+        "p": [
           "The combination of an established antagonist track, prominent supporting names, and a leading romantic duo positions the project as one of the major commercial attractions of the 2027 theatrical calendar. YRF continues to build anticipation by rolling out promotional materials well in advance of the March premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yash Raj Films has titled its upcoming romantic action-drama Beparwah, starring Ahaan Panday and Sharvari. Directed by Ali Abbas Zafar and co-written with Aditya Chopra, the film is scheduled for a worldwide theatrical release on March 26, 2027. The project also features Bobby Deol and Aaishvary Thackeray in supporting roles."
         ]
       }
     ],
@@ -1706,31 +2037,57 @@ window.FA_ARTICLES = {
     "dek": "A reported major digital agreement involving Kamal Haasan's production banner and JioHotstar has surfaced, connecting high-profile projects starring Rajinikanth, Sivakarthikeyan, and Haasan himself.",
     "body": [
       {
-        "h": "A Major Digital Shift in Tamil Cinema",
+        "h": "A Major Digital Shift",
         "p": [
-          "Reports have emerged indicating that actor and producer Kamal Haasan's production banner, Raaj Kamal Films International, has locked a substantial three-film agreement with JioHotstar. The digital arrangement reportedly encompasses high-profile upcoming titles featuring prominent names in the South Indian film industry.",
+          "Reports have emerged indicating that actor and producer Kamal Haasan's production banner, Raaj Kamal Films International, has locked a substantial three-film agreement with JioHotstar. The digital arrangement reportedly encompasses high-profile upcoming titles featuring prominent names in the South Indian film industry."
+        ]
+      },
+      {
+        "h": "Trade Attention",
+        "p": [
           "The reported package deal has drawn considerable attention from trade analysts and movie enthusiasts alike because the negotiations allegedly took place while the films were still in active production or, in some cases, before principal photography even commenced."
         ]
       },
       {
-        "h": "The Lineup: Dharman and Seyon",
+        "h": "Rajinikanth's Dharman",
         "p": [
-          "The first prominent title linked to this digital package is Dharman, which features veteran star Rajinikanth in the lead. Directed by Ashwath Marimuthu, the project marks Rajinikanth's 173rd feature film and showcases him in a distinct role as a doctor, with early promotional material depicting a bloodied scalpel.",
+          "The first prominent title linked to this digital package is Dharman, which features veteran star Rajinikanth in the lead. Directed by Ashwath Marimuthu, the project marks Rajinikanth's 173rd feature film and showcases him in a distinct role as a doctor, with early promotional material depicting a bloodied scalpel."
+        ]
+      },
+      {
+        "h": "Sivakarthikeyan and Haasan Projects",
+        "p": [
           "The second film tied to the reported agreement is Seyon, starring Sivakarthikeyan under the direction of filmmaker Sivakumar Murugesan. A third project featuring Kamal Haasan in the starring role rounds out the rumored three-film bundle, though details regarding its cast and crew remain under wraps."
         ]
       },
       {
-        "h": "Financial Certainty and Strategic Advantage",
+        "h": "Financial Certainty",
         "p": [
-          "Industry observers note that package deals of this scale provide production houses with vital financial security during the filming stages. By securing digital streaming rights early, producers can better manage production budgets and cash flow.",
+          "Industry observers note that package deals of this scale provide production houses with vital financial security during the filming stages. By securing digital streaming rights early, producers can better manage production budgets and cash flow."
+        ]
+      },
+      {
+        "h": "Platform Strategy",
+        "p": [
           "Simultaneously, streaming platforms benefit by locking down anticipated regional content well in advance, thereby strengthening their long-term digital libraries and ensuring steady subscriber engagement."
         ]
       },
       {
-        "h": "A Producer-Star Alliance",
+        "h": "Star Power Dynamics",
         "p": [
-          "The involvement of enduring contemporaries like Kamal Haasan and Rajinikanth in a collaborative producer-star dynamic has heightened interest in the venture. Their respective star power, combined with the rising box-office appeal of Sivakarthikeyan, makes the package a noteworthy development in modern Tamil cinema economics.",
+          "The involvement of enduring contemporaries like Kamal Haasan and Rajinikanth in a collaborative producer-star dynamic has heightened interest in the venture. Their respective star power, combined with the rising box-office appeal of Sivakarthikeyan, makes the package a noteworthy development in modern Tamil cinema economics."
+        ]
+      },
+      {
+        "h": "Lack of Official Confirmation",
+        "p": [
           "Despite widespread industry discussion and reports from outlets such as ABP regarding the massive scale of the agreement, neither Raaj Kamal Films International nor JioHotstar has released an official confirmation regarding the financial terms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kamal Haasan's production banner, Raaj Kamal Films International, has reportedly secured a major three-film digital package with JioHotstar. The agreement covers upcoming films starring Rajinikanth, Sivakarthikeyan, and Kamal Haasan himself. However, neither the production house nor the streaming platform has officially confirmed the arrangement."
         ]
       }
     ],
@@ -2594,29 +2951,55 @@ window.FA_ARTICLES = {
       {
         "h": "Opening Weekend Surge",
         "p": [
-          "The domestic box office has welcomed a fresh wave of comedy as Udta Teer wrapped up its initial three-day run with impressive figures, coming tantalizingly close to the 20 crore milestone. Directed by newcomer Akash A Kaushik, the feature pairs lead actors Ayushmann Khurrana and Sara Ali Khan in a narrative that blends humor with a distinct patriotic twist.",
+          "The domestic box office has welcomed a fresh wave of comedy as Udta Teer wrapped up its initial three-day run with impressive figures, coming tantalizingly close to the 20 crore milestone. Directed by newcomer Akash A Kaushik, the feature pairs lead actors Ayushmann Khurrana and Sara Ali Khan in a narrative that blends humor with a distinct patriotic twist."
+        ]
+      },
+      {
+        "h": "Audience Momentum",
+        "p": [
           "From its very first screenings, the title demonstrated steady momentum across various regional circuits. Audiences turned out in large numbers, pushing the project toward a solid financial start for its backers and setting the stage for an encouraging theatrical journey."
         ]
       },
       {
         "h": "Day 3 Collection Breakdown",
         "p": [
-          "Building upon a positive Saturday upswing, the project witnessed an even larger surge on its third day. On Sunday, October 25, the film brought in a net collection of 8.21 crore, translating to a gross domestic total of 9.85 crore for the day.",
+          "Building upon a positive Saturday upswing, the project witnessed an even larger surge on its third day. On Sunday, October 25, the film brought in a net collection of 8.21 crore, translating to a gross domestic total of 9.85 crore for the day."
+        ]
+      },
+      {
+        "h": "Cumulative Total",
+        "p": [
           "This performance marked a striking 100.24 percent increase compared to its opening day net collection of 4.10 crore. Across its first three days, the feature accumulated a cumulative net domestic total of 19.56 crore."
         ]
       },
       {
         "h": "Day-Wise Tracking",
         "p": [
-          "A closer look at the trajectory reveals consistent upward movement since the initial release. On Day 1, the feature opened with 4.1 crore net, followed by a jump to 7.25 crore on Day 2, and concluding the weekend with 8.21 crore on Day 3.",
+          "A closer look at the trajectory reveals consistent upward movement since the initial release. On Day 1, the feature opened with 4.1 crore net, followed by a jump to 7.25 crore on Day 2, and concluding the weekend with 8.21 crore on Day 3."
+        ]
+      },
+      {
+        "h": "Family Attendance",
+        "p": [
           "This steady escalation highlighted strong word-of-mouth endorsement among moviegoers, particularly benefiting from robust family attendance during prime afternoon and evening showtimes throughout the weekend."
         ]
       },
       {
-        "h": "Production Backing and Future Outlook",
+        "h": "Production Backing",
         "p": [
-          "The theatrical venture is a collaborative effort between Dharma Productions and Sikhya Entertainment. It features production credits from Karan Johar, Adar Poonawalla, Apoorva Mehta, Guneet Monga Kapoor, and Achin Jain.",
+          "The theatrical venture is a collaborative effort between Dharma Productions and Sikhya Entertainment. It features production credits from Karan Johar, Adar Poonawalla, Apoorva Mehta, Guneet Monga Kapoor, and Achin Jain."
+        ]
+      },
+      {
+        "h": "Future Outlook",
+        "p": [
           "Thanks to sharp comedic writing and positive audience reception, the feature stands in a favorable position to maintain steady numbers during the weekdays as pre-Diwali celebrations approach."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Udta Teer, a comedy directed by Akash A Kaushik and starring Ayushmann Khurrana and Sara Ali Khan, concluded its opening weekend with a cumulative net domestic total of 19.56 crore. The film witnessed a 100.24 percent increase on Sunday, October 25, bringing in a net collection of 8.21 crore. Backed by Dharma Productions and Sikhya Entertainment, the project is positioned well to maintain steady numbers during the weekdays."
         ]
       }
     ],
@@ -2704,6 +3087,12 @@ window.FA_ARTICLES = {
           "Reflecting further on the cultural and moral magnitude of the epic, Kapoor acknowledged that while achieving the absolute perfection of Lord Rama is humanly impossible, striving to learn from his timeless ideals remains a vital takeaway for everyone.",
           "The actor's reflections highlighted how major cinematic ventures can double as profound spiritual exercises, pushing performers to reevaluate their own values while handling narratives deeply embedded in the cultural fabric of millions."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ranbir Kapoor discussed his upcoming role as Lord Rama in Ramayana during a Diwali special episode of Kaun Banega Crorepati hosted by Amitabh Bachchan. He revealed how his initial fear transformed into profound gratitude and how welcoming his daughter Raha coincided with this introspective journey. The special broadcast was scheduled to air on October 29 and 30 on Sony Entertainment Television."
+        ]
       }
     ],
     "facts": [
@@ -2742,7 +3131,12 @@ window.FA_ARTICLES = {
       {
         "h": "Marking a Decade in Seoul",
         "p": [
-          "Netflix co-chief executive Ted Sarandos traveled to the South Korean capital over the weekend to participate in a massive celebration commemorating ten years of investment in the region's entertainment industry. The milestone event took place at Sangam Oil Tank Culture Park, a repurposed industrial petroleum storage site that now functions as a vibrant cultural complex in western Seoul.",
+          "Netflix co-chief executive Ted Sarandos traveled to the South Korean capital over the weekend to participate in a massive celebration commemorating ten years of investment in the region's entertainment industry. The milestone event took place at Sangam Oil Tank Culture Park, a repurposed industrial petroleum storage site that now functions as a vibrant cultural complex in western Seoul."
+        ]
+      },
+      {
+        "h": "Netflix Janchi Fan Festival",
+        "p": [
           "The festivities, officially titled Netflix Janchi, served as a focal point for fans and creators alike. The two-day gathering welcomed over ten thousand attendees who engaged with interactive gaming booths, themed activity areas, exclusive merchandise, and live musical performances, while online broadcasts of the event pulled in an additional 3.58 million cumulative views."
         ]
       },
@@ -2756,7 +3150,12 @@ window.FA_ARTICLES = {
       {
         "h": "Record-Breaking Viewership and Data",
         "p": [
-          "To underscore the commercial viability of its regional catalog, Netflix released a comprehensive set of viewership statistics during the anniversary. Korean programming currently stands as the platform's most-watched non-English content category, with more than eighty percent of global subscribers having watched at least one Korean title.",
+          "To underscore the commercial viability of its regional catalog, Netflix released a comprehensive set of viewership statistics during the anniversary. Korean programming currently stands as the platform's most-watched non-English content category, with more than eighty percent of global subscribers having watched at least one Korean title."
+        ]
+      },
+      {
+        "h": "Billion Viewing Hours Milestone",
+        "p": [
           "Since the company began publishing its global Top 10 rankings, over two hundred Korean titles have appeared on the charts. Furthermore, productions from the region generated more than twelve billion viewing hours between April 2025 and March 2026, trailing only U.S. content in overall country-of-origin volume."
         ]
       },
@@ -2772,6 +3171,12 @@ window.FA_ARTICLES = {
         "p": [
           "Looking forward, Sarandos offered attendees a comprehensive preview of upcoming Korean projects slated for the platform. These announcements featured veteran actors and high-profile directors, highlighting upcoming ventures like Lee Chang-dong's Possible Love and the period drama Tantara.",
           "Additional titles highlighted during the presentation included the supernatural fantasy Grand Galaxy Hotel, the thriller series She, Wolf, the highly anticipated second season of All of Us Are Dead, and a live-action adaptation of the anime property Solo Leveling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix co-CEO Ted Sarandos traveled to Seoul to celebrate ten years of the company's investment in Korean content with a major fan event. The milestone comes despite corporate leadership changes and layoffs at headquarters, highlighting South Korea's status as the platform's leading non-English content provider with massive viewership metrics. Sarandos also previewed several upcoming projects during the anniversary celebration."
         ]
       }
     ],
@@ -2849,31 +3254,52 @@ window.FA_ARTICLES = {
     "dek": "Pop star Nick Jonas shares a heartwarming carousel of backstage moments, cozy snapshots with wife Priyanka Chopra, and a tender hug from his daughter Malti Marie.",
     "body": [
       {
-        "h": "A Peek Behind the Curtain of Tour Life",
+        "h": "A Peek Behind the Curtain",
         "p": [
-          "Pop artist Nick Jonas recently treated his social media followers to a visual diary capturing the multifaceted nature of his daily routine. Between high-energy concert stages and quiet domestic interludes, the singer offered an intimate look at how he balances a demanding touring schedule with a fulfilling family life alongside his wife, acclaimed actor Priyanka Chopra, and their young daughter.",
+          "Pop artist Nick Jonas recently treated his social media followers to a visual diary capturing the multifaceted nature of his daily routine. Between high-energy concert stages and quiet domestic interludes, the singer offered an intimate look at how he balances a demanding touring schedule with a fulfilling family life alongside his wife, acclaimed actor Priyanka Chopra, and their young daughter."
+        ]
+      },
+      {
+        "h": "Concert Life and Coffee",
+        "p": [
           "The shared compilation featured dynamic snapshots of Nick performing live alongside his brothers and bandmates, Kevin Jonas and Joe Jonas. Interspersed among the concert highlights were grounded, everyday moments that showcased the musician enjoying a peaceful morning coffee and even partaking in a routine skincare session utilizing a face mask while relaxing behind the scenes."
         ]
       },
       {
-        "h": "Tender Family Moments and Personal Milestones",
+        "h": "Embracing Fatherhood and Romance",
         "p": [
-          "Among the most celebrated images in the digital carousel was a heartwarming scene capturing a sweet father-daughter interaction. Little Malti Marie was highlighted running enthusiastically to embrace her father backstage, creating an unforgettable memory for the proud parents. Additionally, the post featured a cozy photograph of Nick and Priyanka sharing an affectionate moment together.",
+          "Among the most celebrated images in the digital carousel was a heartwarming scene capturing a sweet father-daughter interaction. Little Malti Marie was highlighted running enthusiastically to embrace her father backstage, creating an unforgettable memory for the proud parents. Additionally, the post featured a cozy photograph of Nick and Priyanka sharing an affectionate moment together."
+        ]
+      },
+      {
+        "h": "Captions and Fan Reactions",
+        "p": [
           "The pop star accompanied the diverse collection of images with a characteristically brief yet energetic caption, noting simply that he was fully immersed in the rhythm of his current schedule. The post quickly drew widespread attention from fans eager to witness these candid glimpses of the high-profile family."
         ]
       },
       {
-        "h": "Reflecting on the Jonas Brothers' Journey",
+        "h": "Reflecting on Past Challenges",
         "p": [
           "Beyond his immediate family updates, Nick recently opened up about professional history during a podcast appearance alongside Madhu Chopra, Priyanka's mother. The conversation touched upon the factors that culminated in the Jonas Brothers' temporary disbandment in 2013 prior to their triumphant musical reunion in 2013's successor eras.",
           "He elaborated on the internal pressures of maintaining sustained success at a young age, describing a creative environment strained by growing pains and apprehension regarding industry collaboration. The singer candidly discussed his tendency to overthink creative processes, likening the pressure to tightening a screw until the material gives way, thereby emphasizing the ongoing quest for artistic balance."
         ]
       },
       {
-        "h": "A Modern Transnational Romance",
+        "h": "A Transnational Romance",
         "p": [
-          "The journey of Nick Jonas and Priyanka Chopra remains one of the most closely followed cross-cultural romances in modern entertainment. The pair initially crossed paths at a Vanity Fair Oscar party in February 2017 before transitioning into a committed relationship by May of the following year.",
+          "The journey of Nick Jonas and Priyanka Chopra remains one of the most closely followed cross-cultural romances in modern entertainment. The pair initially crossed paths at a Vanity Fair Oscar party in February 2017 before transitioning into a committed relationship by May of the following year."
+        ]
+      },
+      {
+        "h": "Weddings and Family Expansion",
+        "p": [
           "Following a swift engagement in July 2018, the couple solidified their bond through magnificent wedding ceremonies held in Jodhpur, Rajasthan, honoring both Christian and Hindu traditions. Their family expanded further in January 2022 with the arrival of their daughter, Malti Marie, welcomed via surrogacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nick Jonas shared a social media visual diary showcasing his tour life alongside family moments with his wife Priyanka Chopra and daughter Malti Marie. He also discussed the history of the Jonas Brothers and his past creative pressures during a podcast appearance. The couple's relationship history spans from meeting in 2017 to their 2018 wedding and the birth of their daughter in 2022."
         ]
       }
     ],
@@ -2915,38 +3341,54 @@ window.FA_ARTICLES = {
     "dek": "Despite facing a sluggish theatrical run and losing numerous shows in its second weekend, the period drama Ranabaali crosses a major milestone by overtaking Sita Ramam globally.",
     "body": [
       {
-        "h": "A Slow Theatrical Journey",
+        "h": "Anticipation and Initial Hype",
         "p": [
-          "The Telugu period drama Ranabaali has experienced a relatively slow run at the box office since its release. Bringing together the popular onscreen pairing of actor Vijay Deverakonda and actress Rashmika Mandanna, the film generated substantial anticipation prior to its theatrical debut. Having previously shared great chemistry in Geetha Govindam and Dear Comrade, the real-life couple's reunion on screen was widely talked about by fans and industry trackers alike.",
+          "The Telugu period drama Ranabaali has experienced a relatively slow run at the box office since its release. Bringing together the popular onscreen pairing of actor Vijay Deverakonda and actress Rashmika Mandanna, the film generated substantial anticipation prior to its theatrical debut. Having previously shared great chemistry in Geetha Govindam and Dear Comrade, the real-life couple's reunion on screen was widely talked about by fans and industry trackers alike."
+        ]
+      },
+      {
+        "h": "Commercial Performance Reality",
+        "p": [
           "However, despite the immense initial hype surrounding the project, the movie ultimately fell short of expectations commercially. While ticket sales have not matched the peak projections set by their previous collaborations, the feature has managed to carve out a notable achievement by securing a spot among the leading post-pandemic releases for its lead actress."
         ]
       },
       {
-        "h": "Second Weekend Earnings and Theater Drops",
+        "h": "Second Weekend Challenges",
         "p": [
-          "As the movie transitioned into its second weekend, it faced considerable hurdles at the box office, notably losing more than 500 shows across its exhibition network. This reduction in screen count naturally led to a noticeable downward trend in daily ticket sales compared to the high numbers witnessed during its opening weekend.",
+          "As the movie transitioned into its second weekend, it faced considerable hurdles at the box office, notably losing more than 500 shows across its exhibition network. This reduction in screen count naturally led to a noticeable downward trend in daily ticket sales compared to the high numbers witnessed during its opening weekend."
+        ]
+      },
+      {
+        "h": "Tenth Day and Weekend Earnings",
+        "p": [
           "Focusing specifically on the tenth day of its theatrical run, the feature brought in 2.9 crore net in India on its second Sunday. During this particular day, it played across 1,578 shows while recording an occupancy rate of 36 percent. Factoring in the rest of the weekend, the second weekend as a whole contributed a total of 7.8 crore net domestically."
         ]
       },
       {
-        "h": "Milestones and Worldwide Totals",
+        "h": "Box Office Totals and Budget",
         "p": [
           "Following the completion of its first ten days in cinemas, the cumulative net total for the Telugu drama in India rests at 53 crore, which converts to 62.4 crore. When factoring in the international markets, where the feature collected an additional 12.05 crore, the overall worldwide gross collection reaches a solid 74.45 crore.",
           "The production carried a reported making budget estimated between 120 and 150 crore. While the overall box office trajectory has seen slower momentum, crossing the 74 crore global mark represents a notable milestone for the cast and crew involved in the lavish period project."
         ]
       },
       {
-        "h": "Overtaking Sita Ramam Globally",
+        "h": "Surpassing Sita Ramam Globally",
         "p": [
           "A key highlight of this ten-day update is that Ranabaali has successfully surpassed the global lifetime collection of Sita Ramam. In the latter film, Rashmika Mandanna played a pivotal role alongside co-stars Dulquer Salmaan and Mrunal Thakur, which had finished its theatrical run with a worldwide total of 65.49 crore.",
           "By cruising past that benchmark to land at a worldwide gross of 74.45 crore, the Rahul Sankrityan directorial successfully captures the tenth position on the list of highest-grossing post-COVID films featuring Rashmika Mandanna."
         ]
       },
       {
-        "h": "Behind the Scenes and Cast Details",
+        "h": "Cast and Crew Details",
         "p": [
           "Ranabaali is directed by filmmaker Rahul Sankrityan and backed by producers Naveen Yerneni and Yalamanchili Ravi Shankar. The film was brought to the big screen under the prominent banners of Mythri Movie Makers and T-Series Films, and officially opened to audiences on October 16, 2026.",
           "Alongside the main leads Vijay Deverakonda and Rashmika Mandanna, the expansive cast features several notable international and domestic actors, including Arnold Vosloo, Easwari Rao, Luke McGibney, and Vladimir Angelove, rounding out the period ensemble."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu period drama Ranabaali, starring Vijay Deverakonda and Rashmika Mandanna, has reached a worldwide gross of 74.45 crore after ten days in theaters. Despite facing a slow theatrical run and losing numerous shows, the film successfully surpassed the global lifetime collection of Sita Ramam. This milestone places Ranabaali among Rashmika Mandanna's top ten post-COVID grossing films."
         ]
       }
     ],
@@ -3006,23 +3448,38 @@ window.FA_ARTICLES = {
     "dek": "A reported security breach on the CBFC e-Cinepramaan portal leaves confidential scripts, cut orders, and distribution agreements for more than 500 projects vulnerable.",
     "body": [
       {
-        "h": "The Incident and Initial Discovery",
+        "h": "Security Scare at Film Board",
         "p": [
-          "The Central Board of Film Certification has encountered a severe data security scare after confidential materials tied to upwards of 500 cinematic titles were allegedly compromised. The exposed data reportedly remained accessible through digital archiving platforms for a period spanning multiple days before the security lapse was finally detected and brought to light.",
+          "The Central Board of Film Certification has encountered a severe data security scare after confidential materials tied to upwards of 500 cinematic titles were allegedly compromised. The exposed data reportedly remained accessible through digital archiving platforms for a period spanning multiple days before the security lapse was finally detected and brought to light."
+        ]
+      },
+      {
+        "h": "Industry Anxiety",
+        "p": [
           "While initial assessments indicate that the actual media files and final film reels were not directly leaked, the situation has ignited intense industry-wide anxiety. Filmmakers, production banners, and various stakeholders are questioning the efficacy of existing security frameworks designed to protect proprietary information submitted during mandatory official compliance processes."
         ]
       },
       {
-        "h": "Nature of the Compromised Documents",
+        "h": "Exposed Scripts and Plot Points",
         "p": [
-          "Among the sensitive records allegedly exposed through the system are unreleased film scripts, detailed synopses, and pivotal plot points. For creators of upcoming features, the premature disclosure of narrative structures, character arcs, and unexpected twists poses a direct threat to carefully planned promotional rollouts and audience engagement strategies prior to theatrical or streaming debuts.",
+          "Among the sensitive records allegedly exposed through the system are unreleased film scripts, detailed synopses, and pivotal plot points. For creators of upcoming features, the premature disclosure of narrative structures, character arcs, and unexpected twists poses a direct threat to carefully planned promotional rollouts and audience engagement strategies prior to theatrical or streaming debuts."
+        ]
+      },
+      {
+        "h": "Censor Cut Orders",
+        "p": [
           "Additionally, the vulnerability compromised official records concerning censor cut orders and modifications mandated during the evaluation process. These files typically detail editorial changes and creative choices that production teams intend to keep under wraps until official public clearances are finalised, leaving creators with little recourse to manage the narrative."
         ]
       },
       {
         "h": "Business and Commercial Vulnerabilities",
         "p": [
-          "Beyond creative storylines and editorial notes, the security lapse reportedly extended to private distribution agreements and intricate licensing fee details. These documents encompass sensitive commercial information for both domestic and international projects, including revenue-sharing models, intellectual property clauses, and binding contractual terms established between studios and distribution partners.",
+          "Beyond creative storylines and editorial notes, the security lapse reportedly extended to private distribution agreements and intricate licensing fee details. These documents encompass sensitive commercial information for both domestic and international projects, including revenue-sharing models, intellectual property clauses, and binding contractual terms established between studios and distribution partners."
+        ]
+      },
+      {
+        "h": "Risk of Disrupting Negotiations",
+        "p": [
           "The public exposure of such proprietary business data risks disrupting active negotiations and exposing confidential financial arrangements within the broader entertainment sector. Industry participants have voiced alarm over how commercially sensitive documentation of this magnitude could remain accessible through online archiving platforms without immediate detection."
         ]
       },
@@ -3031,6 +3488,12 @@ window.FA_ARTICLES = {
         "p": [
           "The revelation prompted swift reactions from prominent industry figures, including producer and market expert Girish Johar. Taking to social media via X, formerly Twitter, Johar publicly noted that documents ranging from scripts to distribution pacts had been exposed, confirming that the regulatory body had initiated an internal investigation and security audit to determine the scope of the failure.",
           "The incident centers around the e-Cinepramaan portal, the dedicated online interface utilised by production houses to navigate the mandatory certification procedures. Because applicants are required to upload comprehensive project details and sensitive collateral to the platform, the breach has cast a harsh spotlight on the digital safety protocols guarding state-managed entertainment databases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A reported security breach on the Central Board of Film Certification portal left confidential scripts, cut orders, and distribution agreements for more than 500 films accessible on digital archiving platforms. Industry figures noted the incident, prompting the regulatory body to launch an internal investigation and security audit."
         ]
       }
     ],
@@ -3067,38 +3530,54 @@ window.FA_ARTICLES = {
     "dek": "Popular actor Suriya shared his excitement about joining forces with Malayalam director Jithu Madhavan for the upcoming action-comedy film ‘Scene’, expressing amazement at how quickly his wish came true.",
     "body": [
       {
-        "h": "A Dream Collaboration Realized Rapidly",
+        "h": "A Dream Collaboration",
         "p": [
-          "Suriya is gearing up for his highly anticipated cinematic venture titled ‘Scene’, a project that brings acclaimed Malayalam filmmaker Jithu Madhavan into the Tamil film industry. Widely recognized for his successful directorial efforts in Malayalam cinema such as ‘Romancham’ and ‘Aavesham’, Jithu Madhavan takes the director's chair for this upcoming multi-talented feature. Ahead of the film's scheduled theatrical premiere, Suriya opened up about how deeply he admired Jithu's previous filmography, admitting that he had quietly hoped and manifested an opportunity to collaborate with the visionary director.",
+          "Suriya is gearing up for his highly anticipated cinematic venture titled ‘Scene’, a project that brings acclaimed Malayalam filmmaker Jithu Madhavan into the Tamil film industry. Widely recognized for his successful directorial efforts in Malayalam cinema such as ‘Romancham’ and ‘Aavesham’, Jithu Madhavan takes the director's chair for this upcoming multi-talented feature. Ahead of the film's scheduled theatrical premiere, Suriya opened up about how deeply he admired Jithu's previous filmography, admitting that he had quietly hoped and manifested an opportunity to collaborate with the visionary director."
+        ]
+      },
+      {
+        "h": "Surprise in Dubai",
+        "p": [
           "Speaking directly to fans and media gathered at a pre-release promotional event held in Dubai, the leading actor expressed genuine surprise regarding how swiftly the opportunity materialized. He mentioned that he never anticipated the partnership would happen quite this soon in his career. The mutual admiration between the actor and the director set an enthusiastic tone for the event, highlighting the excitement surrounding the upcoming cross-industry collaboration."
         ]
       },
       {
-        "h": "An Instant Connection Over Narration",
+        "h": "Shattering the Routine",
         "p": [
-          "Recalling the very first time Jithu Madhavan narrated the script of ‘Scene’, Suriya shared a fascinating anecdote about his usual demeanor during story pitches versus his reaction this time around. The actor noted that he typically maintains a quiet, reserved posture when filmmakers pitch stories to him, listening intently without interrupting. However, the script for ‘Scene’ completely shattered his usual routine, capturing his attention and winning him over within the first few minutes of the narration.",
+          "Recalling the very first time Jithu Madhavan narrated the script of ‘Scene’, Suriya shared a fascinating anecdote about his usual demeanor during story pitches versus his reaction this time around. The actor noted that he typically maintains a quiet, reserved posture when filmmakers pitch stories to him, listening intently without interrupting. However, the script for ‘Scene’ completely shattered his usual routine, capturing his attention and winning him over within the first few minutes of the narration."
+        ]
+      },
+      {
+        "h": "Immediate Laughter",
+        "p": [
           "Suriya described how he unexpectedly broke into laughter just moments into the story pitch, thoroughly enjoying the narrative arc and comedic elements woven into the script. This immediate comedic and emotional connection proved to be the deciding factor for the actor, assuring him that Jithu’s distinct storytelling voice would translate exceptionally well onto the big screen."
         ]
       },
       {
-        "h": "Welcoming New Talents to Tamil Cinema",
+        "h": "Welcoming New Cast",
         "p": [
           "The production of ‘Scene’ also serves as a significant bridge for various acclaimed Malayalam artists making their official debut in Tamil cinema. During the Dubai event, Suriya took a moment to shower praise on his co-star Nazriya Nazim, commending her natural acting prowess and formidable screen presence. He specifically highlighted her character, Maya, noting that Jithu had crafted and fully realized the role with exceptional depth and beauty.",
           "In addition to Nazriya, Suriya extended a warm welcome to young Malayalam actor Naslen, who is stepping into the Tamil film sphere with this project. Suriya expressed admiration for Naslen's prior performances and voiced his strong hope that the young actor will continue to take on many more Tamil projects in the future, thanking him for the magical energy he brought to the set."
         ]
       },
       {
-        "h": "A Fresh Technical Crew and Musical Synergy",
+        "h": "Technical Crew",
         "p": [
           "Beyond the principal cast, ‘Scene’ marks the notable entry of composer Sushin Shyam into the Tamil film industry. Sushin joins forces once again with Jithu Madhavan, recreating the musical synergy that powered some of their most popular Malayalam projects together. This creative pairing is expected to give the film a distinct sonic identity that complements its narrative tone.",
           "Furthermore, Suriya made sure to express gratitude toward the entire technical crew behind the film. He acknowledged that several key department members spanning music, cinematography, choreography, and editing are making their official debuts in Tamil cinema through this project, lending a fresh and innovative perspective to its overall execution."
         ]
       },
       {
-        "h": "Plot Details and Worldwide Theatrical Release",
+        "h": "Release and Plot",
         "p": [
           "Positioned as a stylish action-comedy, ‘Scene’ promises to blend high-octane mass action sequences seamlessly with humour and romantic subplots. Suriya takes on the central role of Imbaraj IPS, a dedicated police officer navigating the dramatic events of the narrative. Alongside Suriya, Nazriya, and Naslen, the star-studded cast features notable performances from Anandraj, Lal, and Raj Priyan in pivotal supporting roles.",
           "Fans eagerly awaiting the film will not have to wait much longer, as ‘Scene’ is officially scheduled for a worldwide theatrical release on November 6, 2026. The release timing intentionally coincides with the festive Diwali celebrations, positioning it as a major holiday attraction at the box office."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Suriya stars as police officer Imbaraj IPS in the upcoming action-comedy film 'Scene', directed by Malayalam filmmaker Jithu Madhavan. The movie features a supporting cast including Nazriya Nazim, Naslen, Anandraj, Lal, and Raj Priyan, with music by Sushin Shyam. It is scheduled for a worldwide theatrical release on November 6, 2026, coinciding with Diwali."
         ]
       }
     ],
@@ -3147,38 +3626,54 @@ window.FA_ARTICLES = {
     "dek": "Filmmaker Sulagna Chatterjee has criticized the organizers of the Bollywood Music Project after singer Shilpa Rao's live set was abruptly interrupted, questioning why fellow performer Himesh Reshammiya was allowed to continue despite similar scheduling delays.",
     "body": [
       {
-        "h": "Abrupt Interruption at the Mumbai Music Festival",
+        "h": "Abrupt Interruption at the Festival",
         "p": [
-          "The live music scene in Mumbai recently experienced a wave of controversy following an unexpected disruption during a major festival performance. Renowned playback singer Shilpa Rao found her set brought to an abrupt and premature halt, leaving both the artist and her audience stunned. The incident took place during the Bollywood Music Project, an event that brings together prominent names from the Indian music industry for large-scale live performances.",
+          "The live music scene in Mumbai recently experienced a wave of controversy following an unexpected disruption during a major festival performance. Renowned playback singer Shilpa Rao found her set brought to an abrupt and premature halt, leaving both the artist and her audience stunned. The incident took place during the Bollywood Music Project, an event that brings together prominent names from the Indian music industry for large-scale live performances."
+        ]
+      },
+      {
+        "h": "Technical Difficulties and Blackout",
+        "p": [
           "According to eyewitness accounts and subsequent reports, technical difficulties began plaguing the stage early in the set. Despite microphones failing and operational hiccups interrupting the flow of the music, the singer maintained her composure and continued to deliver popular tracks to an appreciative audience. However, the situation quickly deteriorated as the evening progressed, culminating in a sudden blackout of the stage lights while she was still performing."
         ]
       },
       {
-        "h": "Eyewitness Account by Filmmaker Sulagna Chatterjee",
+        "h": "Chatterjee's Eyewitness Account",
         "p": [
-          "Filmmaker Sulagna Chatterjee, who was present at the venue, offered a detailed and critical perspective on how the events unfolded. Recalling the evening in a media interview, Chatterjee noted that the festival had already fallen behind its scheduled timeline when the vocalist took the stage around the evening slot. Despite initial hurdles, the performance progressed with several well-received tracks before descending into confusion.",
+          "Filmmaker Sulagna Chatterjee, who was present at the venue, offered a detailed and critical perspective on how the events unfolded. Recalling the evening in a media interview, Chatterjee noted that the festival had already fallen behind its scheduled timeline when the vocalist took the stage around the evening slot. Despite initial hurdles, the performance progressed with several well-received tracks before descending into confusion."
+        ]
+      },
+      {
+        "h": "Stage Lights Go Dark",
+        "p": [
           "Chatterjee described the jarring moment when the stage lights went dark and another act immediately commenced on an adjacent stage. Left standing in the dark, the singer attempted to address the crowd and offer a proper farewell. Yet, this final interaction was similarly cut short when competing sound systems drowned out her voice with the next scheduled performance, leaving attendees disheartened by the lack of basic courtesy shown to a veteran artist."
         ]
       },
       {
-        "h": "Discrepancy in Treatment of Performing Artists",
+        "h": "Artist Discrepancies and Fairness",
         "p": [
           "A central point of contention raised by Chatterjee involves the apparent double standard applied to different acts on the festival lineup. Pointing to the management of fellow musician Himesh Reshammiya, the filmmaker questioned why similar scheduling restrictions were not enforced universally. While technical teams reportedly attempted to curtail Reshammiya's performance due to time constraints, he was ultimately permitted to extend his set to complete his planned medleys.",
           "This contrast in handling sparked immediate debates regarding artist management and scheduling fairness at large-scale entertainment events. Critics and festival attendees argued that established artists who have contributed significantly to the cinematic and musical landscape deserve equal consideration and respect, particularly when operational delays stem from logistical issues outside of the performers' control."
         ]
       },
       {
-        "h": "Artist's Emotional Response and Fan Support",
+        "h": "Social Media and Fan Support",
         "p": [
           "Following the premature conclusion of her appearance, Rao turned to social media to share her profound disappointment with her followers. In an emotional statement posted online, she described feeling heartbroken over having her time with the Mumbai audience cut short. She emphasized the deep emotional connection she shares with her listeners, noting that their unwavering support and continued chanting of her name provided comfort amidst the frustration.",
           "The singer expressed gratitude toward the crowds who refused to disperse quietly even after the sound systems had been powered down. Promising to return to the city for a complete and uninterrupted performance, her message resonated widely across digital platforms, drawing sympathy from fans and peers alike who condemned the mishandling of her live segment."
         ]
       },
       {
-        "h": "Organisers Issue Public Apology and Cite Venue Curfew Rules",
+        "h": "Organisers Apology and Curfew Rules",
         "p": [
           "In response to the mounting public backlash, the management team behind the Bollywood Music Project released an official statement addressing the controversy. They extended a deep apology to the vocalist, acknowledging her immense stature, enduring legacy, and exceptional artistic contributions to the entertainment industry. The organisers clarified that they held the highest regard for her talent and deeply regretted their inability to showcase her full set.",
           "Explaining the root cause of the disruption, the organisers attributed the incident to complex festival logistics and compounding delays from earlier acts running past their allotted times. They stated that strict local authority guidelines and legally mandated venue curfew regulations left them with no operational alternative, forcing a premature end to the performance despite their intentions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sulagna Chatterjee criticized Bollywood Music Project organizers after singer Shilpa Rao's live set was abruptly cut short due to a stage blackout and competing sound systems. Chatterjee questioned why a similar scheduling restriction was not applied to Himesh Reshammiya, who was allowed to extend his set. Organisers later issued an apology, citing venue curfew regulations and scheduling delays from earlier acts."
         ]
       }
     ],
@@ -3304,6 +3799,12 @@ window.FA_ARTICLES = {
           "A direct comparison reveals that Drishyam 2 outperformed Drishyam 3 during their respective fourth weekends. The second installment managed to earn 6.4 crore, or 90.78 percent more, than the third film during the exact same timeframe.",
           "This outcome indicates that the second chapter of the Hindi franchise maintained a more resilient long-term box office trajectory throughout its entire theatrical run compared to its successor."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Ajay Devgn-starred crime thriller Drishyam 3 collected over 7 crore net during its fourth weekend, bringing its cumulative domestic net earnings to 369.3 crore. Despite this strong performance and becoming the most-watched film in the franchise, it was outperformed during its fourth weekend by its predecessor, Drishyam 2."
+        ]
       }
     ],
     "facts": [
@@ -3351,29 +3852,55 @@ window.FA_ARTICLES = {
       {
         "h": "Looking Back at a Missed Marvel Opportunity",
         "p": [
-          "In a candid discussion about her extensive acting career, Amanda Seyfried recently revisited her decision to turn down a prominent superhero role within the Marvel Cinematic Universe. The performer, who is forty years old, explained that she was initially offered the part of Gamora in the popular sci-fi franchise Guardians of the Galaxy. Although the character ultimately became a defining role for fellow actress Zoe Saldana, Seyfried chose to pass on the opportunity when it was first presented to her.",
+          "In a candid discussion about her extensive acting career, Amanda Seyfried recently revisited her decision to turn down a prominent superhero role within the Marvel Cinematic Universe. The performer, who is forty years old, explained that she was initially offered the part of Gamora in the popular sci-fi franchise Guardians of the Galaxy. Although the character ultimately became a defining role for fellow actress Zoe Saldana, Seyfried chose to pass on the opportunity when it was first presented to her."
+        ]
+      },
+      {
+        "h": "Hollywood Trivia and Career Choices",
+        "p": [
           "The casting decision has since become a notable piece of Hollywood trivia, especially given the monumental success of the film and its subsequent sequels. While discussing her career choices during a retrospective event with the SAG-AFTRA Foundation, Seyfried touched upon the resurfaced interview moments that shed light on her reasoning from years prior."
         ]
       },
       {
         "h": "Skepticism Over the Talking Tree and Raccoon",
         "p": [
-          "At the time the project was being developed, Seyfried felt strongly that the unique premise of the movie might not resonate with audiences. She admitted that the concept of featuring a talking tree and a talking raccoon felt entirely too risky for her career trajectory. Fearing that the unusual cinematic elements could lead to a critical failure, she opted to protect her professional standing by declining the part.",
+          "At the time the project was being developed, Seyfried felt strongly that the unique premise of the movie might not resonate with audiences. She admitted that the concept of featuring a talking tree and a talking raccoon felt entirely too risky for her career trajectory. Fearing that the unusual cinematic elements could lead to a critical failure, she opted to protect her professional standing by declining the part."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Miscalculations",
+        "p": [
           "Reflecting on her mindset during that period, she noted that she believed the film had a significant chance of turning out poorly. With a humorous perspective on her past miscalculation, the actress acknowledged that she was clearly incorrect about the ultimate reception of the blockbuster hit."
         ]
       },
       {
         "h": "Personal Preferences and Makeup Trailers",
         "p": [
-          "Beyond her doubts regarding the movie's box-office potential, Seyfried had several practical concerns about the physical demands of playing an alien superhero. She expressed a strong dislike for spending prolonged hours sitting in a makeup chair, noting that she simply cannot sit still for long periods of time. Furthermore, the extensive prosthetics and specialized appearance required for the character did not align with her personal comfort.",
+          "Beyond her doubts regarding the movie's box-office potential, Seyfried had several practical concerns about the physical demands of playing an alien superhero. She expressed a strong dislike for spending prolonged hours sitting in a makeup chair, noting that she simply cannot sit still for long periods of time. Furthermore, the extensive prosthetics and specialized appearance required for the character did not align with her personal comfort."
+        ]
+      },
+      {
+        "h": "Aversion to Stunts and Green Screens",
+        "p": [
           "The actress also pointed out her general aversion to performing stunts, dealing with heights, and acting against green screens where she would have to pretend the entire world around her existed only in imagination. She emphasized her need for tangible physical elements to hold onto during a performance rather than relying entirely on CGI environments."
         ]
       },
       {
         "h": "Valuing Human Connections in Acting",
         "p": [
-          "For Seyfried, creative fulfillment often comes from working closely with other performers on grounded, real-life narratives. She has previously shared that filming a scene centered on human interaction and genuine emotional discussions feels much more rewarding to her than participating in large-scale fantasy productions.",
+          "For Seyfried, creative fulfillment often comes from working closely with other performers on grounded, real-life narratives. She has previously shared that filming a scene centered on human interaction and genuine emotional discussions feels much more rewarding to her than participating in large-scale fantasy productions."
+        ]
+      },
+      {
+        "h": "No Regrets Over Franchise Appearance",
+        "p": [
           "Even with the benefit of hindsight, the actress maintains that she does not regret turning down the role. She made the decision based on what she wanted for herself and her future family, prioritizing personal peace and career contentment over a major franchise appearance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amanda Seyfried discusses why she declined the role of Gamora in Guardians of the Galaxy. She cited fears of the film failing due to its unusual premise, as well as her dislike for extensive makeup, stunts, and green-screen acting. Despite the film's massive success, she holds no regrets about her decision."
         ]
       }
     ],
@@ -3411,29 +3938,55 @@ window.FA_ARTICLES = {
       {
         "h": "The Festive Season Kicks Off",
         "p": [
-          "Bollywood's highly anticipated Diwali party calendar is officially underway, drawing immense interest from fans and media alike. The celebratory season was set into motion by actor Ayushmann Khurrana and his wife, Tahira Kashyap, who hosted an exclusive festive bash at their Mumbai residence on Friday. The star-studded opening event welcomed several prominent figures from the film industry, including prominent filmmaker Karan Johar, actors Sara Ali Khan and Twinkle Khanna, alongside producer Bhushan Kumar, marking a glamorous start to weeks of festivities.",
+          "Bollywood's highly anticipated Diwali party calendar is officially underway, drawing immense interest from fans and media alike. The celebratory season was set into motion by actor Ayushmann Khurrana and his wife, Tahira Kashyap, who hosted an exclusive festive bash at their Mumbai residence on Friday. The star-studded opening event welcomed several prominent figures from the film industry, including prominent filmmaker Karan Johar, actors Sara Ali Khan and Twinkle Khanna, alongside producer Bhushan Kumar, marking a glamorous start to weeks of festivities."
+        ]
+      },
+      {
+        "h": "Traditions and New Realities",
+        "p": [
           "These annual celebrations are a staple of the Hindi film industry calendar, offering a rare glimpse into the social lives of its biggest stars. While fans eagerly track every guest list and outfit, the initial gathering at the Khurrana residence signals the beginning of a packed schedule spanning late October and November. However, the atmosphere surrounding these high-profile events is noticeably different this year, with organizers and attendees navigating new security realities that have cast a shadow of caution over the usual revelry."
         ]
       },
       {
         "h": "Heightened Security and Media Restrictions",
         "p": [
-          "Behind the glamour and flashing lights, a sense of caution prevails across the entertainment district. Following a recent firing incident that targeted actor Tiger Shroff, security protocols have been drastically tightened for major industry gatherings. According to veteran paparazzi figure Pallav Paliwal, media personnel were not invited to cover the opening party at the Khurrana household. This exclusion points to a broader shift in how celebrity events are managing crowd control and media access during a tense period.",
+          "Behind the glamour and flashing lights, a sense of caution prevails across the entertainment district. Following a recent firing incident that targeted actor Tiger Shroff, security protocols have been drastically tightened for major industry gatherings. According to veteran paparazzi figure Pallav Paliwal, media personnel were not invited to cover the opening party at the Khurrana household. This exclusion points to a broader shift in how celebrity events are managing crowd control and media access during a tense period."
+        ]
+      },
+      {
+        "h": "Verification and Access Controls",
+        "p": [
           "The security tightening extends beyond private residences into major industry events. Paliwal noted that for a recent prominent awards ceremony, media professionals were strictly required to present their Aadhaar cards for entry verification. Industry insiders expect similar stringent identification checks and restricted media zones to be enforced across upcoming Diwali parties. Despite these tight controls, photographers have managed to map out a tentative calendar of the major bashes scheduled for the weeks ahead."
         ]
       },
       {
-        "h": "The Festive Calendar: Late October to Early November",
+        "h": "Late October Celebrations",
         "p": [
-          "The lineup of upcoming celebrations features some of the industry's most influential hosts and producers. On October 30, producer Anand Pandit is scheduled to host a grand bash, with anticipated attendees including actors Kriti Sanon and Sidharth Malhotra. Additionally, Kriti Sanon is reportedly planning to host her own celebration, though specific dates have yet to be officially confirmed. These gatherings promise to keep the social circuit buzzing as the festival of lights approaches its peak.",
+          "The lineup of upcoming celebrations features some of the industry's most influential hosts and producers. On October 30, producer Anand Pandit is scheduled to host a grand bash, with anticipated attendees including actors Kriti Sanon and Sidharth Malhotra. Additionally, Kriti Sanon is reportedly planning to host her own celebration, though specific dates have yet to be officially confirmed. These gatherings promise to keep the social circuit buzzing as the festival of lights approaches its peak."
+        ]
+      },
+      {
+        "h": "November Party Lineup",
+        "p": [
           "Moving into November, the calendar grows even busier. Producer Ramesh Taurani is set to host his annual party on November 2, though industry regular Salman Khan may reportedly miss the event this time around. Following closely on November 3, hosts Akshay Kumar and Twinkle Khanna will welcome guests to their celebration. The calendar also highlights high-profile events hosted by designer Manish Malhotra on November 5, which traditionally draws a massive turnout of top-tier celebrities, and producer Ektaa R Kapoor on November 7."
         ]
       },
       {
-        "h": "Notable Absences and Canceled Gatherings",
+        "h": "Notable Absences",
         "p": [
-          "While several major bashes are locked into the schedule, not every celebrity host is returning to the party circuit this year. Actor Dia Mirza Rekhi, who welcomed an intimate gathering of friends and colleagues for the festivities last year, has decided not to host a gathering this time around. Similarly, filmmaker Nikkhil Advani, who threw a widely discussed Diwali bash in 2025, has confirmed that he will skipping hosting duties for the current festive season.",
+          "While several major bashes are locked into the schedule, not every celebrity host is returning to the party circuit this year. Actor Dia Mirza Rekhi, who welcomed an intimate gathering of friends and colleagues for the festivities last year, has decided not to host a gathering this time around. Similarly, filmmaker Nikkhil Advani, who threw a widely discussed Diwali bash in 2025, has confirmed that he will skipping hosting duties for the current festive season."
+        ]
+      },
+      {
+        "h": "A Monitored Season",
+        "p": [
           "These selective cancellations highlight a more subdued approach by certain members of the fraternity, balancing personal comfort and safety against the traditional obligation of hosting large-scale industry parties. As the remaining hosts finalize their guest lists and security arrangements, the 2026 Bollywood Diwali season is shaping up to be a heavily monitored and tightly managed affair compared to the uninhibited celebrations of previous years."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood's Diwali party season has begun with an event hosted by Ayushmann Khurrana and Tahira Kashyap. Celebrations face stricter security protocols and media restrictions following a recent incident targeting Tiger Shroff. Despite some cancellations and tighter access controls, several major bashes remain scheduled through late October and November."
         ]
       }
     ],
@@ -3486,38 +4039,59 @@ window.FA_ARTICLES = {
     "dek": "Recent episodes of the BBC One soap bring heartbreaking revelations to Walford as Lee Carter's struggles come to light alongside complications surrounding Mick Carter's legal status.",
     "body": [
       {
-        "h": "The Return of Nancy Carter and Surprising Claims",
+        "h": "Nancy Returns to Walford",
         "p": [
-          "Viewers tuning into the latest episodes of EastEnders on BBC iPlayer and BBC One have been met with a wave of heavy emotional drama centering on the Carter family. The trouble began when Nancy Carter made her return to Walford heavily pregnant, acting as a surrogate for her brother Lee Carter and his now-estranged partner, Jess Fang.",
+          "Viewers tuning into the latest episodes of EastEnders on BBC iPlayer and BBC One have been met with a wave of heavy emotional drama centering on the Carter family. The trouble began when Nancy Carter made her return to Walford heavily pregnant, acting as a surrogate for her brother Lee Carter and his now-estranged partner, Jess Fang."
+        ]
+      },
+      {
+        "h": "The Search for Jess",
+        "p": [
           "Upon her arrival, Lee claimed that Jess had abandoned both him and Nancy, cutting off all contact and refusing to be involved in plans for the incoming child. This prompted Linda Carter to intervene, forcing Lee to embark on a search alongside her to track Jess down and sort out the mounting domestic turmoil."
         ]
       },
       {
-        "h": "Jess Fang's Counter-Revelations and Alcoholism Struggle",
+        "h": "Jess Confronts the Family",
         "p": [
-          "The situation took a sharp turn when Linda and Lee returned from their fruitless search to find Jess waiting for them in Walford. Jess immediately flipped the narrative, disclosing that it was actually Lee who had abandoned her after she confronted him about a deeply serious personal issue: his growing battle with alcoholism.",
+          "The situation took a sharp turn when Linda and Lee returned from their fruitless search to find Jess waiting for them in Walford. Jess immediately flipped the narrative, disclosing that it was actually Lee who had abandoned her after she confronted him about a deeply serious personal issue: his growing battle with alcoholism."
+        ]
+      },
+      {
+        "h": "Grief and Addiction",
+        "p": [
           "When confronted in front of his family, Lee vehemently denied the accusations and fled the scene. However, a private conversation between Jess and Linda revealed that Lee had turned heavily to drinking following the apparent death of his father, Mick Carter, struggling immensely to accept the devastating loss even after Mick's declaration of death was officially rescinded."
         ]
       },
       {
-        "h": "Linda Catches Lee in a Lie",
+        "h": "Linda Catches Lee",
         "p": [
           "Determined to get to the bottom of the turmoil, Linda tracked her son down to a park bench. Despite her probing, Lee continued to maintain his innocence, blaming Jess for their relationship breakdown and insisting he was merely grieving Mick rather than dealing with an alcohol addiction.",
           "The truth came crashing down when Linda noticed a bottle of orange juice left behind by Lee. Upon smelling the container, she realized it was laced with vodka, confirming that her son had been lying to her face. When Linda confronted him with this damning discovery, Lee deflected by pointing out her own historical struggles with alcoholism, arguing that their respective situations were entirely different."
         ]
       },
       {
-        "h": "Complications for Nancy and Future Uncertainties",
+        "h": "Nancy's Decision",
         "p": [
-          "Amid the colliding stories and the toxic, dysfunctional environment now surrounding the household, Nancy reached a firm conclusion regarding her pregnancy. Believing the unfolding chaos was entirely unhealthy, she resolved that the child she is carrying should not be anywhere near Lee and Jess.",
+          "Amid the colliding stories and the toxic, dysfunctional environment now surrounding the household, Nancy reached a firm conclusion regarding her pregnancy. Believing the unfolding chaos was entirely unhealthy, she resolved that the child she is carrying should not be anywhere near Lee and Jess."
+        ]
+      },
+      {
+        "h": "Family Questions",
+        "p": [
           "As the dust settles on these latest dramatic developments, major questions loom over the Carter family. Viewers are left wondering if Linda can successfully guide her son through the exact same demons she has personally fought, and what broader impact Mick being legally alive will ultimately have on their lives moving forward."
         ]
       },
       {
-        "h": "Upcoming Twists and Cast Exits on the Horizon",
+        "h": "Upcoming Cast Changes",
         "p": [
           "The current emotional landscape is set to become even more complicated with upcoming casting shifts in Walford. Fans are already aware that Charlie Brooks is slated to make a brief return as Janine Carter, who served as Linda's nemesis and Mick's scheming wife during the time of his apparent death on Christmas Day 2022.",
           "With Janine's impending return and ongoing discussions regarding Linda's eventual exit from the soap alongside her children in 2027, these current storylines are expected to lay heavy groundwork for future heartbreak and dramatic fireworks in the iconic BBC drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nancy Carter returns to Walford pregnant as a surrogate for Lee Carter and Jess Fang, leading to conflicting accounts of abandonment and alcoholism struggles related to Mick Carter's past disappearance. Linda discovers Lee has been hiding vodka in his juice, while Nancy decides the chaotic environment is unsuitable for her unborn child. Future episodes promise further drama with Janine Carter's return and impending cast exits."
         ]
       }
     ],
@@ -3597,6 +4171,12 @@ window.FA_ARTICLES = {
           "Originally hitting screens on July 1, 1994, the feature established itself as a massive box office blockbuster thanks to its thrilling narrative pace, mass-appealing action sequences, and a powerhouse ensemble cast. The film brought together notable screen presences including Naseeruddin Shah, Akshay Kumar, Suniel Shetty, Raveena Tandon, Paresh Rawal, Gulshan Grover, Raza Murad, Sadashiv Amrapurkar, and Poonam Jhawer. Their combined performances helped cement the project as a defining commercial entertainer of the decade.",
           "Beyond its narrative grit and action choreography, the film achieved legendary status largely due to its timeless soundtrack composed by Viju Shah. The upcoming theatrical run offers fans a fresh opportunity to experience legendary chart-topping numbers like 'Tu Cheez Badi Hai Mast Mast' and 'Tip Tip Barsa Paani' in an enhanced 4K format. Whether this nostalgia trip can carve out a profitable space while sharing marquee space with a mammoth competitor remains one of the season's most intriguing box office questions."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trimurti Films is bringing the 1994 blockbuster Mohra back to cinemas in a new 4K format on November 6 during the Diwali week. The re-release faces major box office competition from the upcoming epic Ramayana. Despite this, distributors have broader plans to bring back several other vintage titles to the big screen."
+        ]
       }
     ],
     "facts": [
@@ -3663,29 +4243,45 @@ window.FA_ARTICLES = {
       {
         "h": "The Crucial First Monday Test",
         "p": [
-          "The theatrical run of the spy comedy Udta Teer entered a critical phase today as the film faced its first Monday test on October 26, 2026. Following an energetic opening weekend, the Ayushmann Khurrana and Sara Ali Khan starrer experienced the anticipated slowdown in ticket sales as the workweek commenced.",
+          "The theatrical run of the spy comedy Udta Teer entered a critical phase today as the film faced its first Monday test on October 26, 2026. Following an energetic opening weekend, the Ayushmann Khurrana and Sara Ali Khan starrer experienced the anticipated slowdown in ticket sales as the workweek commenced."
+        ]
+      },
+      {
+        "h": "Box Office Tracking",
+        "p": [
           "Industry tracking via Sacnilk provided early live updates indicating that the feature had brought in approximately 96 lakh by the afternoon of its fourth day. This early figure contributed to pushing the domestic net earnings to a total of 20.51 crore, while overall India gross collections moved past the 24 crore threshold to stand at approximately 24.50 crore."
         ]
       },
       {
-        "h": "Weekend Momentum and Strong Growth",
+        "h": "Opening and Weekend Momentum",
         "p": [
-          "Udta Teer launched into cinemas with a decent opening day collection of 4.10 crore. The production gradually built its momentum over the succeeding days, culminating in a robust weekend performance that was bolstered by 6,020 shows across domestic screens.",
+          "Udta Teer launched into cinemas with a decent opening day collection of 4.10 crore. The production gradually built its momentum over the succeeding days, culminating in a robust weekend performance that was bolstered by 6,020 shows across domestic screens."
+        ]
+      },
+      {
+        "h": "Sunday Surge",
+        "p": [
           "A particularly strong Sunday performance saw the spy comedy record a notable 13.1 percent jump in earnings, pulling in 8.20 crore net. This healthy weekend surge successfully elevated the cumulative three-day India gross figures to 23.37 crore, with total domestic net earnings reaching 19.55 crore prior to the weekday transition."
         ]
       },
       {
-        "h": "Spy Comedy Premise and Creative Team",
+        "h": "Premise and Creative Team",
         "p": [
           "Directed by filmmaker Aakash Kaushik, Udta Teer combines elements of espionage with lighthearted comedy, featuring a distinct narrative centered around a memory-loss twist. The plot revolves around a Pakistani spy who crosses into India, subsequently loses his memory, and mistakenly adopts the belief that he is an Indian citizen.",
           "The feature is backed by prominent production banners including Karan Johar's Dharma Productions and Sikhya Entertainment, bringing together a high-profile creative team to helm this unique cross-border comedic caper."
         ]
       },
       {
-        "h": "Ensemble Cast and Occupancy Trends",
+        "h": "Cast and Occupancy Trends",
         "p": [
           "Alongside lead actors Ayushmann Khurrana and Sara Ali Khan, the movie showcases a diverse supporting ensemble. Notable names featured in the cast include Rahul Bose, Ram Kapoor, Gulshan Grover, Mukul Dev, Suhail Nayyar, and Supriya Pilgaonkar, adding considerable weight to the cinematic presentation.",
           "As the film transitioned into its fourth day of theatrical release, morning shows recorded an occupancy rate of 6.69 percent, reflecting the expected weekday softening of audience numbers following the weekend rush."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The spy comedy film Udta Teer, starring Ayushmann Khurrana and Sara Ali Khan, experienced an anticipated weekday slowdown on its first Monday. The movie crossed the 24 crore mark in total India gross collections following a strong opening weekend."
         ]
       }
     ],
@@ -3762,6 +4358,12 @@ window.FA_ARTICLES = {
           "Anticipation for the feature has been steadily building through various promotional milestones. Prior to the arrival of the trailer, the production team unveiled the official movie poster, offering fans an initial aesthetic look at the project. These marketing steps are designed to build momentum ahead of the film's theatrical debut.",
           "Marking your calendars, Pratap is officially scheduled to land in cinema halls on November 20, 2026. As the release date approaches, cinephiles and fans of action-heavy thrillers await further promotional content to learn more about the dark turns awaiting the protagonist."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official trailer for the action drama Pratap has been released, starring Amit Sadh as an encounter specialist turned inmate and Esha Deol in a prominent role. The film uses a non-linear narrative to explore the protagonist's past and present imprisonment while maintaining the mystery behind his downfall. Pratap is scheduled to release in theaters on November 20, 2026."
+        ]
       }
     ],
     "facts": [
@@ -3802,36 +4404,52 @@ window.FA_ARTICLES = {
       {
         "h": "The Return of James Reece",
         "p": [
-          "Four years after its initial premiere, Amazon's high-octane action thriller adaptation has finally made its long-awaited comeback. Based on the 2018 novel of the same name by Jack Carr, the series originally introduced audiences to Chris Pratt as James Reece, a Navy SEAL who returned home questioning his own memory about a catastrophic covert mission.",
+          "Four years after its initial premiere, Amazon's high-octane action thriller adaptation has finally made its long-awaited comeback. Based on the 2018 novel of the same name by Jack Carr, the series originally introduced audiences to Chris Pratt as James Reece, a Navy SEAL who returned home questioning his own memory about a catastrophic covert mission."
+        ]
+      },
+      {
+        "h": "Reacher and the New Season",
+        "p": [
           "Following a middle spin-off show centered on the character of Neagley and Alan Ritchson's dominating run with Reacher, the second season of Pratt's series has officially arrived. Released just five days ago, the new episodes waste no time thrusting the wandering one-man army back into the center of dangerous global events."
         ]
       },
       {
-        "h": "A Globe-Trotting Conspiracy",
+        "h": "Adapting True Believer",
         "p": [
-          "The Terminal List Season 2 draws its primary inspiration from Jack Carr's second novel, True Believer. This new chapter sends James Reece across the globe on a violent journey of redemption as he attempts to find a fresh sense of purpose.",
+          "The Terminal List Season 2 draws its primary inspiration from Jack Carr's second novel, True Believer. This new chapter sends James Reece across the globe on a violent journey of redemption as he attempts to find a fresh sense of purpose."
+        ]
+      },
+      {
+        "h": "Uncovering a Global Conspiracy",
+        "p": [
           "Along the way, Reece uncovers an intricate and dangerous conspiracy that spans from Moscow to Langley. Furthermore, the unfolding mystery digs deep into his own family's history, raising the personal stakes significantly as he confronts fresh threats."
         ]
       },
       {
-        "h": "Global Streaming Dominance",
+        "h": "Streaming Chart Dominance",
         "p": [
           "Despite facing mixed critical reception compared to its stablemate Reacher, the second season has had zero trouble finding an massive audience. Within just five days of its release, the show surged past Alan Ritchson's series to claim the title of the biggest streaming series worldwide on Prime Video's global top 10 chart.",
           "In addition to its international success, the thriller secured the number one spot on the United States streaming charts. This rapid ascent demonstrates that viewers remain deeply enthusiastic about the high-stakes action delivered by Pratt."
         ]
       },
       {
-        "h": "Critical Reception and Future Prospects",
+        "h": "Critical Scores and Future Ideas",
         "p": [
           "While Reacher has maintained steady acclaim, The Terminal List has proven to be notably more divisive among critics and viewers alike. The second season currently holds a 57% approval rating from critics alongside an 89% score from audiences on Rotten Tomatoes.",
           "Although Amazon has not yet issued an official green light for a third outing, the platform is widely expected to renew the series. Pratt has expressed immense enthusiasm for continuing the journey, noting that he and the creative team have plenty of ideas and a strong desire to keep telling these stories."
         ]
       },
       {
-        "h": "Looking Ahead to Savage Son",
+        "h": "Potential Savage Son Plans",
         "p": [
           "Looking further into the future of the franchise, creator Jack Carr has already outlined plans for a potential third season. According to Carr, subsequent adaptations would likely draw from the third book in the series, Savage Son.",
           "That potential storyline would pit James Reece against the Russian mafia in a visceral, primal game of cat and mouse. Alongside the expanding Reacher franchise, these hits solidify Prime Video as a premier destination for no-nonsense action entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Pratt returns as James Reece in the second season of Prime Video's action thriller, which is adapted from Jack Carr's novel True Believer. Within five days of its release, the new season surpassed Reacher to become the biggest global hit on Prime Video. While the show has received a divisive critical response, it holds strong audience scores and potential plans for a third season based on Savage Son."
         ]
       }
     ],
@@ -3899,6 +4517,12 @@ window.FA_ARTICLES = {
           "Domestically, the momentum is reflected in strong localized demand, highlighted by six houseful shows already being locked in prior to release. Notably, Bengaluru has surpassed Mumbai in pre-sales figures for the multi-starrer event.",
           "With main screen allocations continuing to open up worldwide, industry observers note that the project's box office momentum could potentially double during the final week leading up to the premiere."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mythological drama Ramayana, directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, has grossed $2 million in overseas pre-sales ahead of its November 5, 2026 theatrical release. This early surge places the film among the top 10 global openers of 2026, surpassing Alia Bhatt's Alpha. Strong demand spans across international regions and domestic markets, with Bengaluru leading pre-sales figures."
+        ]
       }
     ],
     "facts": [
@@ -3948,21 +4572,31 @@ window.FA_ARTICLES = {
       {
         "h": "Production Begins in Mumbai",
         "p": [
-          "Filming is officially underway in Mumbai for the upcoming comedy-drama titled Long Years Ago. The project brings together a notable international ensemble featuring Bollywood stars Saif Ali Khan and Vidya Balan alongside French actress Mélanie Laurent. Production is currently progressing under the direction of Ritesh Batra, who also co-wrote the film.",
+          "Filming is officially underway in Mumbai for the upcoming comedy-drama titled Long Years Ago. The project brings together a notable international ensemble featuring Bollywood stars Saif Ali Khan and Vidya Balan alongside French actress Mélanie Laurent. Production is currently progressing under the direction of Ritesh Batra, who also co-wrote the film."
+        ]
+      },
+      {
+        "h": "Production Partners and Studios",
+        "p": [
           "The project hails from the film and TV production outfit Poetic License, founded by Adeel Ahmed and Batra. They are producing the feature in partnership with Jio Studios and Good Chaos. Jyoti Deshpande is producing on behalf of Jio Studios, while Mike Goodridge and Teresa Moneo of Good Chaos serve as executive producers alongside Siddharth Mehra."
         ]
       },
       {
         "h": "Plot and Setting",
         "p": [
-          "Set in the year 1991, the narrative of Long Years Ago centers on a family struggling with unspoken words and emotional distance. The official premise describes it as a story about a household that has gone too long without addressing what truly matters, ultimately forcing the characters to find the necessary words.",
-          "Director Ritesh Batra expressed his deep enthusiasm for bringing the project to life with such a distinguished cast. He noted his honor in working with Khan, Balan, and Laurent to translate characters that hold personal significance for him onto the screen."
+          "Set in the year 1991, the narrative of Long Years Ago centers on a family struggling with unspoken words and emotional distance. The official premise describes it as a story about a household that has gone too long without addressing what truly matters, ultimately forcing the characters to find the necessary words."
         ]
       },
       {
-        "h": "Cast Reflections and Reunions",
+        "h": "Director and Cast Reactions",
         "p": [
-          "Saif Ali Khan shared his immediate connection to the material, praising Batra's unique ability to tell deeply personal stories that resonate across cultures. He highlighted his excitement about collaborating with Laurent, Balan, and the rest of the production team.",
+          "Director Ritesh Batra expressed his deep enthusiasm for bringing the project to life with such a distinguished cast. He noted his honor in working with Khan, Balan, and Laurent to translate characters that hold personal significance for him onto the screen.",
+          "Saif Ali Khan shared his immediate connection to the material, praising Batra's unique ability to tell deeply personal stories that resonate across cultures. He highlighted his excitement about collaborating with Laurent, Balan, and the rest of the production team."
+        ]
+      },
+      {
+        "h": "Cast Reunions and Reflections",
+        "p": [
           "For Vidya Balan, the project marks a special reunion with Saif Ali Khan. Balan noted that she has long hoped to work with Batra, whose storytelling she admires for its sensitivity and honesty. She pointed out that reuniting with Khan adds extra significance, as he starred alongside her in her debut film, Parineeta.",
           "Mélanie Laurent recalled meeting Batra fifteen years ago at the Marrakech Film Festival, where they shared a dream of eventually collaborating in Mumbai. She expressed great honor and happiness in joining the new venture."
         ]
@@ -3975,10 +4609,16 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "The Ensemble and Producing Team",
+        "h": "The Ensemble Background",
         "p": [
           "The starring trio brings extensive global acclaim. Saif Ali Khan is widely recognized for his work in Dil Chahta Hai, Omkara, and the streaming series Sacred Games. Vidya Balan is a National Award-winning actor known for major screen performances. Mélanie Laurent holds a César award and has earned international fame through prominent roles in Inglourious Basterds and Now You See Me.",
           "Executive producer Siddharth Mehra, a former A24 executive, launched the label Total Monsoon and oversaw shows such as Beef and Mo for Netflix. His recent slate includes the prequel series Crystal Lake, which premiered on Peacock and Sky, alongside upcoming productions like Superfakes for A24."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production is underway in Mumbai for the comedy-drama Long Years Ago, directed by Ritesh Batra and set in 1991. The film stars Saif Ali Khan, Vidya Balan, and Mélanie Laurent as part of its international ensemble. The project is a collaboration between Poetic License, Jio Studios, and Good Chaos."
         ]
       }
     ],
@@ -4043,38 +4683,59 @@ window.FA_ARTICLES = {
     "dek": "A brand-new tabletop adaptation titled Fight! Mortal Kombat 1 has successfully crushed its Kickstarter goals, bringing strategic card combat to fans ahead of future franchise developments.",
     "body": [
       {
-        "h": "A Successful Tabletop Crowdfunding Campaign",
+        "h": "Tabletop Expansion",
         "p": [
-          "The enduring legacy of the Mortal Kombat property continues to expand beyond traditional screens and consoles into the tabletop space. Cryptozoic Entertainment recently launched a Kickstarter campaign for a brand-new project titled Fight! Mortal Kombat 1 - Deck-Building Game, which has quickly captured the attention of enthusiasts worldwide.",
+          "The enduring legacy of the Mortal Kombat property continues to expand beyond traditional screens and consoles into the tabletop space. Cryptozoic Entertainment recently launched a Kickstarter campaign for a brand-new project titled Fight! Mortal Kombat 1 - Deck-Building Game, which has quickly captured the attention of enthusiasts worldwide."
+        ]
+      },
+      {
+        "h": "Kickstarter Success",
+        "p": [
           "Although the fundraising period has not yet concluded, the campaign has dramatically outperformed expectations. It quickly blew past its initial financial target of approximately $60,000, surging ahead to accumulate a total of more than $220,000 in backing."
         ]
       },
       {
-        "h": "Mechanics and Gameplay Design",
+        "h": "Fight Engine Design",
         "p": [
-          "Designed as the newest addition to the Cerberus deck-building game family, the project utilizes an entirely new framework known as the Fight! Engine. This system was engineered from the ground up to deliver a dynamic two-player experience while remaining optimized to accommodate additional participants.",
+          "Designed as the newest addition to the Cerberus deck-building game family, the project utilizes an entirely new framework known as the Fight! Engine. This system was engineered from the ground up to deliver a dynamic two-player experience while remaining optimized to accommodate additional participants."
+        ]
+      },
+      {
+        "h": "Kombatant Gameplay",
+        "p": [
           "Players are given the opportunity to select their favorite Kombatants from Mortal Kombat 1, tailor their own unique playstyles, and execute elaborate kombos. The design aims to replicate the competitive tension of a traditional fighting game on a tabletop surface, culminating in the execution of overpowered fatalities whenever an opponent is defeated."
         ]
       },
       {
-        "h": "Contents and Planned Expansions",
+        "h": "Box Contents",
         "p": [
-          "For supporters who choose to back the campaign at the appropriate level, the standard offering comes packed with a comprehensive assortment of components. Inside the box, players will find 242 standard cards, nine tarot-sized Kombatant cards, four health tracker cards, four health markers, 18 korpse tokens, and a rulebook.",
+          "For supporters who choose to back the campaign at the appropriate level, the standard offering comes packed with a comprehensive assortment of components. Inside the box, players will find 242 standard cards, nine tarot-sized Kombatant cards, four health tracker cards, four health markers, 18 korpse tokens, and a rulebook."
+        ]
+      },
+      {
+        "h": "Expansions",
+        "p": [
           "In addition to the core box contents, the manufacturer has outlined plans for future post-launch support to keep the gameplay fresh and engaging. Three full expansions are currently mapped out for release further down the road, which will introduce additional characters and cards to the experience."
         ]
       },
       {
-        "h": "Player Counts and Replayability",
+        "h": "Match Duration",
         "p": [
           "The physical card game is tailored to support groups ranging from two to four players. A standard one-versus-one match is designed to move at a brisk pace, taking approximately thirty minutes or less to complete.",
           "Overall session lengths for larger groups generally range from thirty to forty-five minutes depending on participant counts. The quick turnaround times and distinct strategic pathways contribute to high levels of replayability."
         ]
       },
       {
-        "h": "Broader Franchise Context",
+        "h": "Franchise Footprint",
         "p": [
           "This tabletop release arrives as the broader Mortal Kombat franchise continues to maintain a massive multi-medium footprint. From its origins as a 1992 arcade phenomenon to numerous cinematic adaptations and ongoing video game iterations, the series remains culturally prominent.",
           "For devoted followers of the franchise, diving into the tabletop adaptation offers a compelling way to pass the time while the community awaits further official details regarding the next major interactive installment in development."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cryptozoic Entertainment has launched a successful Kickstarter campaign for the Fight! Mortal Kombat 1 deck-building game, greatly surpassing its initial financial goal. The tabletop adaptation utilizes the new Fight!"
         ]
       }
     ],
@@ -4131,7 +4792,12 @@ window.FA_ARTICLES = {
       {
         "h": "The Shift in Global Streaming Charts",
         "p": [
-          "A new survival drama has successfully captured the attention of audiences worldwide, bringing an end to the streaming dominance of Ben Affleck's latest directorial venture on Netflix. After claiming the coveted number one spot on the platform's global top ten charts for nearly two weeks, Affleck's thriller has finally slipped to second place.",
+          "A new survival drama has successfully captured the attention of audiences worldwide, bringing an end to the streaming dominance of Ben Affleck's latest directorial venture on Netflix. After claiming the coveted number one spot on the platform's global top ten charts for nearly two weeks, Affleck's thriller has finally slipped to second place."
+        ]
+      },
+      {
+        "h": "Global Success of Surviving Hurricane Otis",
+        "p": [
           "The challenger taking over the crown is Surviving Hurricane Otis, a Mexican survival drama that quickly climbed the ranks to secure the top position. At the time of reporting, the feature holds the number one spot across more than twenty countries globally, including major regions like the United States, Canada, Argentina, Brazil, Austria, and Turkey."
         ]
       },
@@ -4143,24 +4809,30 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Plot and Themes of Surviving Hurricane Otis",
+        "h": "Plot and Themes",
         "p": [
           "Surviving Hurricane Otis centers on two estranged brothers who work as deckhands on a yacht located in the coastal resort city of Acapulco. Their already strained relationship faces the ultimate test when a catastrophic Category 5 hurricane strikes unexpectedly, forcing them to reconcile their differences and risk their lives to protect the vessel for a wealthy owner while fighting to stay alive.",
           "Beyond its core narrative as a high-stakes survival family drama, the production incorporates deeper social commentary. It examines themes of classism, highlighting the exploitation and hardships faced by low-income local workers employed within major tourist destinations."
         ]
       },
       {
-        "h": "True-Life Inspirations and Production Details",
+        "h": "True-Life Inspirations",
         "p": [
-          "The narrative is rooted in a harrowing real-life story from the 2023 natural disaster, taking inspiration from Acapulco sailors Marlon Valdez and Jonathan Chino. Though depicted in the movie as half-brothers, Valdez and Chino are actually close friends who miraculously survived the severe storm despite remaining behind on their ships.",
-          "Production of the feature involved close collaboration with these real-life survivors, who served as advisers and worked directly with lead actors Benny Emmanuel and Kristyan Ferrer. Netflix produced the film in partnership with Perro Azul, shooting the entire project on location in Acapulco, Mexico."
+          "The narrative is rooted in a harrowing real-life story from the 2023 natural disaster, taking inspiration from Acapulco sailors Marlon Valdez and Jonathan Chino. Though depicted in the movie as half-brothers, Valdez and Chino are actually close friends who miraculously survived the severe storm despite remaining behind on their ships."
         ]
       },
       {
-        "h": "Cast, Crew, and Competition",
+        "h": "Production Details and Cast",
         "p": [
+          "Production of the feature involved close collaboration with these real-life survivors, who served as advisers and worked directly with lead actors Benny Emmanuel and Kristyan Ferrer. Netflix produced the film in partnership with Perro Azul, shooting the entire project on location in Acapulco, Mexico.",
           "The Mexican survival drama was directed by Jorge Michel Grau, who also co-wrote the screenplay alongside José Leonor Alejandro and Venancio Villalobos. The ensemble cast features performers such as Benny Emmanuel, Kristyan Ferrer, Andrew Leland Rogers, Mónica Del Carmen, Gonzalo Vega Jr., Mónica Jiménez, and Octavio Michel Grau, with the film carrying a total runtime of ninety-six minutes.",
           "In addition to surpassing Ben Affleck's Animals, the survival thriller managed to outpace several other prominent horror and genre titles on the streaming service, including Weapons, The Addams Family, Primate, and One Missed Call, cementing its massive worldwide appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Mexican survival drama Surviving Hurricane Otis has dethroned Ben Affleck's Animals to claim the number one spot on Netflix's global charts. Inspired by real events from a 2023 natural disaster in Acapulco, the film follows two deckhands struggling to survive a catastrophic Category 5 hurricane. It has outpaced multiple genre titles to achieve worldwide streaming success across more than twenty countries."
         ]
       }
     ],
@@ -4267,6 +4939,12 @@ window.FA_ARTICLES = {
           "Ahead of its widespread commercial rollout, the production is set to hold a high-profile world premiere at the Academy Museum of Motion Pictures in Los Angeles. The gala event features a Diwali-themed red carpet and an exclusive 3D screening for invited attendees.",
           "Looking beyond the initial release, discussions are already underway regarding the franchise's trajectory. While a second instalment was initially targeted for a Diwali 2027 window, internal reports indicate that the release may shift to Diwali 2028 to grant the filmmakers adequate production time."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's upcoming mythological epic Ramayana: Part One has surpassed †20.50 crore in worldwide advance ticket sales ahead of its November 5, 2026, release. The film features a star-studded cast including Ranbir Kapoor, Sai Pallavi, Yash, Sunny Deol, and Ravie Dubey, and is backed by a multi-lingual release strategy spanning various premium formats and global territories."
+        ]
       }
     ],
     "facts": [
@@ -4309,21 +4987,36 @@ window.FA_ARTICLES = {
       {
         "h": "Sudden Passing of a Legendary Voice Talent",
         "p": [
-          "The animation community is mourning the loss of Eric Bauza, a prolific and celebrated voice actor who became the modern voice for many timeless animated figures. His family released a statement on his official Instagram account confirming his sudden death on Sunday. The announcement highlighted his legacy as an Emmy Award-winning talent who shaped the contemporary iterations of famous animated personalities.",
+          "The animation community is mourning the loss of Eric Bauza, a prolific and celebrated voice actor who became the modern voice for many timeless animated figures. His family released a statement on his official Instagram account confirming his sudden death on Sunday. The announcement highlighted his legacy as an Emmy Award-winning talent who shaped the contemporary iterations of famous animated personalities."
+        ]
+      },
+      {
+        "h": "Medical Examiner Findings",
+        "p": [
           "Authorities from the Los Angeles County Medical Examiner determined that his passing was due to natural causes. Specifically, the medical examiner cited hypertensive cardiovascular disease, a condition associated with high blood pressure, as the primary cause of death at his residence. Contributing health factors noted in the report included sleep apnea and class 2 obesity."
         ]
       },
       {
         "h": "Defining the Modern Looney Tunes Universe",
         "p": [
-          "Bauza left an indelible mark on animation history by stepping into the monumental shoes required to voice Warner Bros. legendary stable of animated characters. He became the primary voice behind iconic figures such as Bugs Bunny and Daffy Duck, ensuring these classic personas remained vibrant for new generations of viewers.",
+          "Bauza left an indelible mark on animation history by stepping into the monumental shoes required to voice Warner Bros. legendary stable of animated characters. He became the primary voice behind iconic figures such as Bugs Bunny and Daffy Duck, ensuring these classic personas remained vibrant for new generations of viewers."
+        ]
+      },
+      {
+        "h": "Portraying Beloved Characters",
+        "p": [
           "His vocal versatility extended far beyond just the leading duo of the Looney Tunes franchise. Throughout his extensive career, he also portrayed other beloved residents of that animated world, including Porky Pig, Tweety Bird, Elmer Fudd, Marvin the Martian, and the swift Road Runner."
         ]
       },
       {
         "h": "A Prolific Career Beyond Warner Bros.",
         "p": [
-          "While deeply associated with classic cartoons, Bauza's talent found a home across numerous major television networks and franchises. His impressive resume featured credits in contemporary favorites such as Teen Titans Go!, Muppet Babies, The Adventures of Puss in Boots, and Teenage Mutant Ninja Turtles.",
+          "While deeply associated with classic cartoons, Bauza's talent found a home across numerous major television networks and franchises. His impressive resume featured credits in contemporary favorites such as Teen Titans Go!, Muppet Babies, The Adventures of Puss in Boots, and Teenage Mutant Ninja Turtles."
+        ]
+      },
+      {
+        "h": "Extensive Acting Credits",
+        "p": [
           "Across his illustrious journey in the entertainment industry, the Canadian-born performer accumulated more than 400 acting credits. This immense body of work underscored his relentless work ethic and his exceptional adaptability as a vocal artist capable of fitting into diverse animated landscapes."
         ]
       },
@@ -4332,6 +5025,12 @@ window.FA_ARTICLES = {
         "p": [
           "Bauza's contributions to children's and family entertainment did not go unnoticed by his peers and industry critics. Over the course of his professional endeavors, he earned three Children's and Family Emmy Awards in recognition of his outstanding voice-over performances.",
           "Died at the age of 46, Bauza leaves behind a monumental footprint in the realm of voice acting. Friends, fans, and colleagues continue to remember him not only for the legendary cartoon characters he voiced, but for the genuine warmth and dedication he brought to his craft."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Eric Bauza, an Emmy-winning voice actor known for voicing iconic characters like Bugs Bunny and Daffy Duck, has died at age 46 due to natural causes. His extensive career included over 400 credits across various popular television networks and franchises. He is remembered by family, colleagues, and fans for his monumental contributions to animation."
         ]
       }
     ],
@@ -4374,19 +5073,29 @@ window.FA_ARTICLES = {
       {
         "h": "A Grand Vision Finds a New Audience",
         "p": [
-          "Renowned filmmaker Ridley Scott has long been celebrated for delivering unforgettable cinematic spectacles that push the boundaries of visual storytelling. Throughout a decades-long career, the visionary director has helmed iconic motion pictures spanning multiple genres, leaving an indelible imprint on modern cinema. While some of his ambitious historical features have sparked intense debates among cinephiles upon their initial theatrical debuts, his works consistently find ways to captivate viewers long after leaving the big screen.",
+          "Renowned filmmaker Ridley Scott has long been celebrated for delivering unforgettable cinematic spectacles that push the boundaries of visual storytelling. Throughout a decades-long career, the visionary director has helmed iconic motion pictures spanning multiple genres, leaving an indelible imprint on modern cinema. While some of his ambitious historical features have sparked intense debates among cinephiles upon their initial theatrical debuts, his works consistently find ways to captivate viewers long after leaving the big screen."
+        ]
+      },
+      {
+        "h": "Revisiting the Ancient Roman Empire",
+        "p": [
           "Among his extensive filmography, few titles hold as cherished a place in popular culture as his legendary early 2000s historical drama. That original feature established a defining cinematic standard with memorable dialogue and unforgettable performances. When the studio greenlit a continuation, expectations were exceptionally high for the legendary director to recreate the timeless magic of the arena on an even grander scale."
         ]
       },
       {
-        "h": "The Legacy Continues in the Colosseum",
+        "h": "Vengeance in the Colosseum",
         "p": [
-          "The continuation transports viewers back to the ancient Roman Empire, centering on a new protagonist forced into slavery following an invasion by Roman legions. Driven by a fierce desire for retribution against corrupt rulers, the character ascends through the ranks of fighters in the Colosseum, mirroring the thematic arc of freedom and vengeance seen in the original classic. This narrative thread anchors the sweeping scale of the production.",
+          "The continuation transports viewers back to the ancient Roman Empire, centering on a new protagonist forced into slavery following an invasion by Roman legions. Driven by a fierce desire for retribution against corrupt rulers, the character ascends through the ranks of fighters in the Colosseum, mirroring the thematic arc of freedom and vengeance seen in the original classic. This narrative thread anchors the sweeping scale of the production."
+        ]
+      },
+      {
+        "h": "Massive Scale and Star Cast",
+        "p": [
           "Assembling a prominent roster of talent, the legacy project featured acclaimed actors stepping into prominent roles alongside returning faces from the beloved original cast. The production leaned heavily into massive set pieces, trading the introspective tones of its predecessor for an unbridled theatrical spectacle designed to overwhelm the senses and test the limits of historical filmmaking."
         ]
       },
       {
-        "h": "Box Office Struggles and Critical Reception",
+        "h": "Box Office and Critical Reception",
         "p": [
           "Despite boasting an enormous budget and a star-studded ensemble, the ambitious feature faced substantial hurdles upon its theatrical release. Financial returns failed to match the hefty investment required to bring the ancient world to life, ultimately resulting in an underwhelming commercial performance that fell short of industry expectations.",
           "Critical reception was generally favorable yet somewhat divided regarding the narrative execution. Reviewers praised the heightened action sequences and standout performances—particularly highlighting a scene-stealing turn from one of the film's primary antagonists—while ordinary viewers expressed an even higher level of enthusiasm, paving the way for its eventual redemption on digital platforms."
@@ -4397,6 +5106,12 @@ window.FA_ARTICLES = {
         "p": [
           "As home viewing takes center stage, the epic has found a welcoming home on digital distribution networks. Audiences who skipped the theatrical exhibition are now discovering the sweeping cinematography and high-stakes drama from the comfort of their living rooms, fueling a major surge in popularity.",
           "This newfound momentum demonstrates how modern entertainment consumption habits can breathe fresh life into historical adventures that struggled during their initial theatrical windows. The streaming boom continues to redefine commercial success for large-scale motion pictures, ensuring that ambitious directorial visions ultimately connect with the wide audiences they were crafted for."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ridley Scott's historical epic faced financial hurdles and underwhelming commercial performance during its initial theatrical run despite a star-studded cast and massive budget. However, the film is now experiencing a major surge in popularity and finding new life as home audiences discover its grand scale on digital distribution networks."
         ]
       }
     ],
@@ -4459,21 +5174,36 @@ window.FA_ARTICLES = {
       {
         "h": "A Triple Triumph for Stefan Djordjevic",
         "p": [
-          "The recent ceremony at Porto Montenegro in Tivat brought immense recognition to Serbian filmmaker Stefan Djordjevic, whose documentary-drama project secured the evening's highest honor. The acclaimed feature claimed the title for best film, while also earning Djordjevic the accolades for best director and best debut.",
+          "The recent ceremony at Porto Montenegro in Tivat brought immense recognition to Serbian filmmaker Stefan Djordjevic, whose documentary-drama project secured the evening's highest honor. The acclaimed feature claimed the title for best film, while also earning Djordjevic the accolades for best director and best debut."
+        ]
+      },
+      {
+        "h": "Production and Background",
+        "p": [
           "Produced by Dragana Jovovic, the victorious feature blends elements of documentary storytelling, traditional fiction, and personal memory. According to critical reviews following its initial world premiere in the Tiger competition at the Rotterdam Film Festival, the movie serves as a deeply emotional tribute dedicated to the filmmaker's late mother."
         ]
       },
       {
         "h": "Celebrating Regional Talent and Performances",
         "p": [
-          "Beyond the major sweep by Djordjevic's project, the awards event honored several other notable cinematic achievements from across the region. Noomi Rapace earned the best actress prize for her compelling performance in 'Mother', a film directed by Teona Strugar Mitevska.",
+          "Beyond the major sweep by Djordjevic's project, the awards event honored several other notable cinematic achievements from across the region. Noomi Rapace earned the best actress prize for her compelling performance in 'Mother', a film directed by Teona Strugar Mitevska."
+        ]
+      },
+      {
+        "h": "Acting and Writing Awards",
+        "p": [
           "In the corresponding male acting category, Andrija Kuzmanovic received the best actor honor for his work in 'Yugo Florida', directed by Vladimir Tagic. Additional acting recognition included the AFA Rising Star trophy awarded to Arif Jakup for his role in 'DJ Ahmet', directed by Georgi M. Unkovski, while Hana Jusic took home the best screenplay prize for 'God Will Not Help'."
         ]
       },
       {
         "h": "Television Victories for 'The Hollow'",
         "p": [
-          "The television categories were notably led by the series 'The Hollow', which was created by Amra Baksic Camo and Danis Tanovic. The production successfully clinched the award for best TV series during the Saturday evening gala.",
+          "The television categories were notably led by the series 'The Hollow', which was created by Amra Baksic Camo and Danis Tanovic. The production successfully clinched the award for best TV series during the Saturday evening gala."
+        ]
+      },
+      {
+        "h": "Individual TV Honors",
+        "p": [
           "Individual performances within the winning show also received high praise from the voting body. Snezana Vidovic was named best actress in a TV series for her contribution to 'The Hollow', and her co-star Feja Stukan secured the award for best actor in a TV series."
         ]
       },
@@ -4488,6 +5218,12 @@ window.FA_ARTICLES = {
         "h": "Additional Honors and Cinema Distribution",
         "p": [
           "The ceremony also highlighted achievements outside of production, acknowledging excellence in bringing movies to audiences. An AFA Award recognizing outstanding success in cinema distribution was presented for Igor Seregi's feature 'Wedding'."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Stefan Djordjevic's documentary-drama 'Wind, Talk to Me' dominated the Adriatic Film & TV Awards in Porto Montenegro by winning best film, best director, and best debut. The event also honored numerous other regional talents, including actors Noomi Rapace and Andrija Kuzmanovic, alongside the television series 'The Hollow'. Winners were determined by over 800 members of the Film and TV Academy of the Adriatic Region."
         ]
       }
     ],
@@ -4553,29 +5289,55 @@ window.FA_ARTICLES = {
       {
         "h": "The South Indian Box Office Landscape",
         "p": [
-          "The theatrical circuit across southern India showcased diverse commercial outcomes over the weekend spanning from October 23 to October 25, 2026. While big-budget spectacles driven by iconic star power commanded massive ticket sales in major urban centers, distinct sleeper hits demonstrated that word-of-mouth momentum could sustain long-running theatrical runs against newer arrivals.",
+          "The theatrical circuit across southern India showcased diverse commercial outcomes over the weekend spanning from October 23 to October 25, 2026. While big-budget spectacles driven by iconic star power commanded massive ticket sales in major urban centers, distinct sleeper hits demonstrated that word-of-mouth momentum could sustain long-running theatrical runs against newer arrivals."
+        ]
+      },
+      {
+        "h": "Industry Analysis and Monthly Metrics",
+        "p": [
           "Industry analysts evaluated the weekend figures against broader monthly metrics, revealing how major titles fit into the cumulative earnings of their respective regional languages during October. The varying paces of collection across Tamil, Telugu, Malayalam, and Kannada industries highlighted shifting audience preferences and the varying impacts of forthcoming festive competition."
         ]
       },
       {
-        "h": "Jailer 2 Sets New Global and Regional Benchmarks",
+        "h": "Jailer 2 Dominates Global Box Office",
         "p": [
-          "Headlined by superstar Rajinikanth, Jailer 2 continued its extraordinary box office dominance by pulling in a massive second-weekend India gross of ₹75.30 crore. This stellar performance met the upper expectations of early trade forecasts and propelled the action-heavy sequel past the lifetime collections of 2.0 to become the highest-grossing Tamil film worldwide, reaching an impressive ₹710.35 crore in just eleven days.",
+          "Headlined by superstar Rajinikanth, Jailer 2 continued its extraordinary box office dominance by pulling in a massive second-weekend India gross of ₹75.30 crore. This stellar performance met the upper expectations of early trade forecasts and propelled the action-heavy sequel past the lifetime collections of 2.0 to become the highest-grossing Tamil film worldwide, reaching an impressive ₹710.35 crore in just eleven days."
+        ]
+      },
+      {
+        "h": "Historic Records and Ticket Sales",
+        "p": [
           "Furthermore, the film secured the highest second-Sunday net in Kollywood history with a ₹17.35 crore collection, eclipsing the record previously held by its predecessor. On digital ticketing platforms like BookMyShow, the film surpassed the original Jailer's lifetime ticket sales during its second Saturday alone, cementing its status as a historic commercial phenomenon."
         ]
       },
       {
-        "h": "Premada Oorali and Regional Contenders",
+        "h": "Premada Oorali Achieves Milestone",
         "p": [
-          "In the Kannada film industry, the sleeper hit Premada Oorali delivered a stunning performance by raking in ₹10.36 crore in India gross during its fifth weekend. This late-stage surge outperformed the second-weekend earnings of several prominent new releases, pushing the film into the elite group of Kannada features that have crossed the ₹100 crore India net milestone.",
+          "In the Kannada film industry, the sleeper hit Premada Oorali delivered a stunning performance by raking in ₹10.36 crore in India gross during its fifth weekend. This late-stage surge outperformed the second-weekend earnings of several prominent new releases, pushing the film into the elite group of Kannada features that have crossed the ₹100 crore India net milestone."
+        ]
+      },
+      {
+        "h": "Regional Contenders and Openers",
+        "p": [
           "Meanwhile, the Telugu release Ranabaali achieved several career milestones for Vijay Deverakonda by entering his top five worldwide openers and crossing the ₹50 crore India net threshold during its second weekend. Conversely, the Malayalam release Titans experienced a more modest opening weekend, accumulating a total India gross of ₹2.26 crore over its first four days primarily within Kerala."
         ]
       },
       {
-        "h": "Upcoming Festive Clashes and Market Adjustments",
+        "h": "Upcoming Festive Clashes",
         "p": [
-          "As the theatrical calendar approaches the lucrative Diwali holiday period, exhibitors and distributors face complex scheduling challenges. Upcoming late-October and early-November releases, including the multi-language epic Ramayana: Part 1 alongside regional titles like Scene and Mookuthi Amman 2, threaten to squeeze the screen allocations of current box office leaders.",
+          "As the theatrical calendar approaches the lucrative Diwali holiday period, exhibitors and distributors face complex scheduling challenges. Upcoming late-October and early-November releases, including the multi-language epic Ramayana: Part 1 alongside regional titles like Scene and Mookuthi Amman 2, threaten to squeeze the screen allocations of current box office leaders."
+        ]
+      },
+      {
+        "h": "Market Adjustments and Momentum",
+        "p": [
           "The final distribution of theater screens will prove vital in determining whether established holdovers like Jailer 2 and Premada Oorali can maintain their momentum against a wave of high-profile festive competitors aiming to capture family audiences across South India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 shattered Tamil records by grossing ₹710.35 crore worldwide in eleven days during its second weekend. Meanwhile, the Kannada sleeper hit Premada Oorali stunned observers with a strong fifth weekend, crossing the ₹100 crore India net milestone. Other regional films like Ranabaali and Titans also posted notable collection figures across the southern Indian box office."
         ]
       }
     ],
@@ -4630,38 +5392,49 @@ window.FA_ARTICLES = {
     "dek": "The latest installment in Dominic Savage's acclaimed female-led anthology series tackles the complex themes of modern relationships and toxic masculinity.",
     "body": [
       {
-        "h": "First Look at the New Channel 4 Project",
+        "h": "First Look at I Am Helen",
         "p": [
-          "Channel 4 has officially released the trailer for its upcoming two-part series titled I Am Helen. The project brings together notable talent, starring Nicola Coughlan and Joe Cole in leading roles.",
+          "Channel 4 has officially released the trailer for its upcoming two-part series titled I Am Helen. The project brings together notable talent, starring Nicola Coughlan and Joe Cole in leading roles."
+        ]
+      },
+      {
+        "h": "Trailer Details and Advice",
+        "p": [
           "The promotional footage offers audiences a glimpse into the narrative tension, highlighting a moment where Cole's character, Steve, receives advice from a masculine confidante who states that being cast as the bad guy is tough for men."
         ]
       },
       {
-        "h": "Expanding the Acclaimed Anthology Format",
+        "h": "Anthology Background",
         "p": [
           "I Am Helen forms part of Dominic Savage's well-known I Am anthology series, which focuses heavily on telling character-driven female stories. Savage shares creation duties on this particular chapter with Coughlan.",
           "The overarching franchise has previously achieved significant acclaim and recognition. Notably, an earlier entry in the series titled I Am Ruth earned a BAFTA award for actress Kate Winslet."
         ]
       },
       {
-        "h": "Exploring Themes of Modern Relationships",
+        "h": "Modern Relationships and Perspectives",
         "p": [
           "This new installment centers its narrative around the hot-button topic of toxic masculinity and how it impacts contemporary partnerships. The storyline is told entirely through a female perspective.",
           "Through this lens, the two-part drama examines the various pressures and expectations placed upon women, while simultaneously confronting the tangible damage generated by toxic masculine behaviors in modern romance."
         ]
       },
       {
-        "h": "Context within Contemporary Media Landscape",
+        "h": "Media Context and Prior Stars",
         "p": [
           "The arrival of I Am Helen follows closely behind other high-profile entertainment projects addressing the manosphere and related cultural phenomena. Examples include Netflix's Adolescence and Inside the Manosphere by Louis Theroux.",
           "By tackling pressing contemporary issues, the series follows in the footsteps of prior I Am installments that featured performances from prominent actors such as Letitia Wright, Samantha Morton, and Gemma Chan."
         ]
       },
       {
-        "h": "Production and Distribution Details",
+        "h": "Production and Funding",
         "p": [
           "Behind the scenes, the series is brought to the screen by Me+ You Productions. Production duties for the project are handled jointly by Krishnendu Majumdar and Dominic Savage.",
           "Financial backing for the I Am series is provided via co-funding from Sky Studios. Meanwhile, international distribution rights for the television project are managed by NBCUniversal Global TV Distribution."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Channel 4 has released a trailer for the two-part series I Am Helen, starring Nicola Coughlan and Joe Cole. Created by Dominic Savage and Coughlan, the drama explores modern relationships and toxic masculinity from a female perspective. The project is produced by Me+ You Productions with co-funding from Sky Studios."
         ]
       }
     ],
@@ -4734,6 +5507,12 @@ window.FA_ARTICLES = {
           "The much-anticipated cinematic adaptation is spearheaded by acclaimed director Nitesh Tiwari and backed by producer Namit Malhotra, designed deliberately as an ambitious two-part franchise chronicling the Hindu epic. The inaugural installment, officially titled Ramayana: Part 1 or Ramayana: Rise of a Legend, boasts a staggering global canvas and features a massive star-studded ensemble. Alongside Kapoor, Pallavi, and Dubey, the blockbuster boasts Yash as Ravana, Sunny Deol as Hanuman, Rakul Preet Singh as Surpanakha, Arun Govil as King Dashrath, Lara Dutta as Kaikeyi, and Sheeba Chadha as Manthara.",
           "Musical soundscapes for the project are being crafted by legendary composers A.R. Rahman and Hans Zimmer, ensuring a global sonic footprint that matches the scale of the visuals. Scheduled for a major worldwide theatrical premiere on November 5, 2026, the feature will roll out simultaneously across multiple languages including Hindi, Tamil, Telugu, Kannada, and Malayalam, utilizing premium screening formats such as IMAX. Meanwhile, the second chapter of the grand narrative already holds a projected release window targeting the Diwali holiday season in 2027."
         ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor discussed his initial fears and subsequent gratitude regarding playing Lord Ram in Nitesh Tiwari's upcoming multi-part epic Ramayana during an appearance on Kaun Banega Crorepati. Joined by co-stars Sai Pallavi and Ravie Dubey, the cast shared how the project involves deep personal and spiritual preparation. The ambitious first installment is scheduled for worldwide release on November 5, 2026."
+        ]
       }
     ],
     "facts": [
@@ -4789,29 +5568,45 @@ window.FA_ARTICLES = {
       {
         "h": "Controversy erupts over historical storyline",
         "p": [
-          "South Korean actor Kim Ji Won's latest television project, Doctor X: Mafia in White, has achieved massive ratings success while simultaneously drawing intense public backlash. The medical drama encountered severe criticism following the broadcast of its sixth episode, which incorporated elements of the 1980 Gwangju Democratic Uprising into the narrative. The inclusion of such a sensitive historical event in a medical series has triggered a formal petition submitted before South Korea's National Assembly.",
+          "South Korean actor Kim Ji Won's latest television project, Doctor X: Mafia in White, has achieved massive ratings success while simultaneously drawing intense public backlash. The medical drama encountered severe criticism following the broadcast of its sixth episode, which incorporated elements of the 1980 Gwangju Democratic Uprising into the narrative. The inclusion of such a sensitive historical event in a medical series has triggered a formal petition submitted before South Korea's National Assembly."
+        ]
+      },
+      {
+        "h": "Demands for halting the broadcast",
+        "p": [
           "The petition demands that the broadcast of the series be halted immediately and calls for a thorough review of the production process. According to reports from the Korea Herald, the petitioner questioned the rationale behind weaving a politically charged historical chapter into a drama not traditionally rooted in politics. Furthermore, the submission argued that the narrative choices could be perceived as pushing a specific political viewpoint, causing discomfort among sections of the viewing audience."
         ]
       },
       {
-        "h": "Specific historical references in the episode",
+        "h": "Specific medical and historical elements",
         "p": [
-          "The controversy centers on the sixth episode, which was broadcast on October 24. During this installment, Kim Ji Won's character, a surgeon named Gye Soo Jeung, attempts the delicate procedure of removing a bullet that has remained lodged in a patient's brain for 46 years. This medical condition is tied directly to the military crackdown on pro-democracy demonstrators in Gwangju that took place in May 1980.",
+          "The controversy centers on the sixth episode, which was broadcast on October 24. During this installment, Kim Ji Won's character, a surgeon named Gye Soo Jeung, attempts the delicate procedure of removing a bullet that has remained lodged in a patient's brain for 46 years. This medical condition is tied directly to the military crackdown on pro-democracy demonstrators in Gwangju that took place in May 1980."
+        ]
+      },
+      {
+        "h": "Visual cues and Gwangju context",
+        "p": [
           "Sharp-eyed viewers identified several distinct visual and narrative cues within the episode referencing the historical event. These included a bus bearing the number 518, an explicit nod to May 18, 1980, when the pro-democracy movement commenced. Additionally, the episode featured a fictional former president bearing a resemblance to Chun Doo Hwan arriving at the hospital unconscious. The Gwangju uprising, which spanned from May 18 to 27, 1980, remains a profoundly significant and emotionally charged chapter in the nation's journey toward democracy."
         ]
       },
       {
-        "h": "Production response and online petition process",
+        "h": "Petition progress and producer response",
         "p": [
           "The online petition submitted through the National Assembly platform successfully garnered the requisite 100 signatures needed to advance to the review stage for public disclosure. Beyond examining the production methods, the petitioner insists that the show be removed from the airwaves. The mounting criticism has placed the production team under intense public scrutiny.",
           "Amid the escalating backlash, the series' chief producer, Lee Ok Gyu, addressed the controversy cryptically on social media by sharing the show's promotional poster accompanied by the caption \"no fear.\" The post offered no further elaboration, leaving observers to debate whether the message was intended as a defiant stance against the criticism. Lee has not issued any subsequent public clarifications regarding the post."
         ]
       },
       {
-        "h": "Background and high viewership ratings",
+        "h": "Adaptation background and high ratings",
         "p": [
           "Doctor X: Mafia in White follows the professional journey of Gye Soo Jeung, a gifted and unconventional surgeon who actively combats administrative corruption within the hospital system. The series serves as a Korean adaptation of the popular Japanese medical drama franchise Doctor-X: Surgeon Michiko Daimon. For lead actor Kim Ji Won, the project represents her highly anticipated return to television two years after her starring role in the massive hit Queen of Tears.",
           "Despite the swirling controversy, audience viewership has remained remarkably strong. The series debuted with impressive nationwide ratings of 11.4% and 14.9% for its first two episodes, marking the highest miniseries premiere ratings in South Korea for the year 2026 at the time. The momentum continued to build as the sixth episode drove the peak viewership numbers even higher, reaching 21.3%."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kim Ji Won's medical drama Doctor X: Mafia in White has sparked public backlash and a formal National Assembly petition following its sixth episode, which referenced the 1980 Gwangju Democratic Uprising. Despite demands to halt the broadcast and review production methods, the series has continued to achieve high viewership ratings amid the controversy."
         ]
       }
     ],
@@ -4854,31 +5649,57 @@ window.FA_ARTICLES = {
     "dek": "Lead star Robert Pattinson has provided a fresh update on the production status of the upcoming superhero sequel, confirming cameras are rolling again after a brief pause.",
     "body": [
       {
-        "h": "Production Resumes on the Highly Anticipated Sequel",
+        "h": "Production Restarts After Stoppage",
         "p": [
-          "The production schedule for the upcoming superhero sequel has officially restarted following a temporary stoppage earlier in the autumn. Leading man Robert Pattinson shared the news, indicating that cameras are active once more and that he is personally scheduled to rejoin the set within days.",
+          "The production schedule for the upcoming superhero sequel has officially restarted following a temporary stoppage earlier in the autumn. Leading man Robert Pattinson shared the news, indicating that cameras are active once more and that he is personally scheduled to rejoin the set within days."
+        ]
+      },
+      {
+        "h": "Initial Filming in London",
+        "p": [
           "Filming for the project originally commenced in London earlier in the year during the month of May. However, momentum slowed down significantly when operations were forced to pause at the beginning of October due to an urgent family matter requiring the attention of director Matt Reeves."
         ]
       },
       {
-        "h": "Steven Soderbergh Joins the Production Team",
+        "h": "Steven Soderbergh Steps In",
         "p": [
-          "In a surprising and supportive twist, filmmaker Steven Soderbergh has stepped in to assist with principal photography while Matt Reeves navigates his personal situation and continues overseeing the broader creative vision of the film.",
+          "In a surprising and supportive twist, filmmaker Steven Soderbergh has stepped in to assist with principal photography while Matt Reeves navigates his personal situation and continues overseeing the broader creative vision of the film."
+        ]
+      },
+      {
+        "h": "Collaborative Effort on Set",
+        "p": [
           "Pattinson lauded this collaborative move as completely selfless, highlighting that Soderbergh offered his expertise simply to help get the project across the finish line and into the editing room. With the script largely crafted by Reeves, the addition of another acclaimed director ensures the production maintains its high standard."
         ]
       },
       {
-        "h": "Revised Release Timeline",
+        "h": "Release Date Delayed",
         "p": [
-          "Fans eagerly awaiting the continuation of the Gotham City saga will have to exercise a bit more patience following a shift in the distribution schedule. Although the feature was initially slated to hit cinema screens in October 2027, the timetable has shifted.",
+          "Fans eagerly awaiting the continuation of the Gotham City saga will have to exercise a bit more patience following a shift in the distribution schedule. Although the feature was initially slated to hit cinema screens in October 2027, the timetable has shifted."
+        ]
+      },
+      {
+        "h": "Tentative Premiere in 2028",
+        "p": [
           "The studio has now established a tentative premiere date of 18 February 2028. This adjustment accommodates the recent production hiatus while allowing the creative team sufficient time to finalize post-production work."
         ]
       },
       {
-        "h": "Returning Faces and New Additions",
+        "h": "Returning Cast Members",
         "p": [
-          "While specific plot details remain tightly under wraps, casting confirmations have revealed a robust ensemble for the upcoming motion picture. Robert Pattinson will reprise his role as the titular hero, alongside Andy Serkis returning as the loyal butler Alfred and Colin Farrell back as the infamous villain Oswald Cobblepot, also known as The Penguin.",
+          "While specific plot details remain tightly under wraps, casting confirmations have revealed a robust ensemble for the upcoming motion picture. Robert Pattinson will reprise his role as the titular hero, alongside Andy Serkis returning as the loyal butler Alfred and Colin Farrell back as the infamous villain Oswald Cobblepot, also known as The Penguin."
+        ]
+      },
+      {
+        "h": "New Characters Join the Cast",
+        "p": [
           "The narrative will also expand its roster with notable new characters. Sebastian Stan is slated to join the franchise as Harvey Dent, who eventually transforms into the adversary Two-Face, with Charles Dance portraying his father Charles Dent, and Scarlett Johansson stepping in as Gilda Dent."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production on the upcoming superhero sequel has resumed after a brief pause caused by a family matter requiring the attention of director Matt Reeves. Filmmaker Steven Soderbergh has stepped in to assist with principal photography during this time. Consequently, the release date has shifted to a tentative premiere of 18 February 2028."
         ]
       }
     ],
@@ -4925,31 +5746,57 @@ window.FA_ARTICLES = {
     "dek": "Keanu Reeves is taking over the lead role in Jaume Collet-Serra's upcoming Netflix thriller Maelstrom after Alan Ritchson exited the project.",
     "body": [
       {
-        "h": "Keanu Reeves Joins Netflix Action Project",
+        "h": "Keanu Reeves Joins Netflix",
         "p": [
-          "Streaming giant Netflix has officially secured action icon Keanu Reeves to headline its upcoming feature film Maelstrom. The high-profile project brings the veteran actor into a gritty new thriller environment, tapping into his extensive background in high-octane physical cinema. Fans of the actor can anticipate another intense performance as he anchors the narrative core of this ambitious production.",
+          "Streaming giant Netflix has officially secured action icon Keanu Reeves to headline its upcoming feature film Maelstrom. The high-profile project brings the veteran actor into a gritty new thriller environment, tapping into his extensive background in high-octane physical cinema. Fans of the actor can anticipate another intense performance as he anchors the narrative core of this ambitious production."
+        ]
+      },
+      {
+        "h": "Star Power and Production",
+        "p": [
           "The casting shift comes as a major development for the movie, quickly pivoting attention back to the streaming platform's robust slate of original action features. Reeves brings immense star power and a proven track record in the genre, immediately elevating the profile of the film as it moves further into its active production pipeline."
         ]
       },
       {
-        "h": "Jaume Collet-Serra Takes the Director's Chair",
+        "h": "Director Jaume Collet-Serra",
         "p": [
-          "Directing duties for Maelstrom fall to Jaume Collet-Serra, who continues his creative partnership with Netflix following their previous collaboration on the airport-set thriller Carry-On. Collet-Serra is well-known for handling tense, fast-paced cinematic environments, making him a fitting choice to helm a survival-centric action premise.",
+          "Directing duties for Maelstrom fall to Jaume Collet-Serra, who continues his creative partnership with Netflix following their previous collaboration on the airport-set thriller Carry-On. Collet-Serra is well-known for handling tense, fast-paced cinematic environments, making him a fitting choice to helm a survival-centric action premise."
+        ]
+      },
+      {
+        "h": "Visual Requirements and Execution",
+        "p": [
           "The filmmaker's background in guiding high-stakes thrillers ensures that the intense visual requirements of the script will be met with seasoned execution. His ongoing relationship with the streaming service further demonstrates confidence in his ability to deliver commercial genre entertainment."
         ]
       },
       {
-        "h": "Alan Ritchson Departs the Feature",
+        "h": "Alan Ritchson Departs Project",
         "p": [
-          "The production experienced a notable shakeup prior to Reeves coming aboard, as Reacher star Alan Ritchson abruptly dropped out of the leading role. Ritchson had initially been attached to spearhead the movie before exiting the production under undisclosed circumstances.",
+          "The production experienced a notable shakeup prior to Reeves coming aboard, as Reacher star Alan Ritchson abruptly dropped out of the leading role. Ritchson had initially been attached to spearhead the movie before exiting the production under undisclosed circumstances."
+        ]
+      },
+      {
+        "h": "Swift Casting Replacement",
+        "p": [
           "While the exact reasoning behind the departure of the Reacher actor was not made public, the swift casting replacement ensured that the film's momentum did not stall. Reeves stepped into the vacant role shortly after the vacancy was created."
         ]
       },
       {
-        "h": "Decades-Old Spec Script Inspiration",
+        "h": "Decades-Old Spec Script",
         "p": [
-          "The origins of Maelstrom stretch back decades, rooted in a long-in-limbo spec script that dates all the way back to 1993. When the screenplay was initially conceived and pitched to Warner Bros. during that era, it was famously described as being akin to Die Hard set inside a hurricane.",
+          "The origins of Maelstrom stretch back decades, rooted in a long-in-limbo spec script that dates all the way back to 1993. When the screenplay was initially conceived and pitched to Warner Bros. during that era, it was famously described as being akin to Die Hard set inside a hurricane."
+        ]
+      },
+      {
+        "h": "Finding a Home at Netflix",
+        "p": [
           "This unique premise promises a claustrophobic yet explosive battle for survival against extreme weather elements. The long-gestating concept has finally found a home at Netflix, where modern filmmaking technology can fully realize the ambitious storm-bound premise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Keanu Reeves has been cast as the lead in Netflix's upcoming thriller Maelstrom, replacing Alan Ritchson after his departure from the project. The film will be directed by Jaume Collet-Serra and is based on a spec script originally conceived in 1993."
         ]
       }
     ],
@@ -4989,32 +5836,58 @@ window.FA_ARTICLES = {
     "dek": "Amazon's streaming platform has shared the first official look at Terrell T.O., an upcoming documentary chronicling the extraordinary career and turbulent public journey of NFL legend Terrell Owens.",
     "body": [
       {
-        "h": "The Arrival of Terrell T.O. on Prime Video",
+        "h": "Prime Video Announces New Documentary",
         "p": [
-          "Streamers have continually expanded their sports documentary catalogs, and Prime Video is now preparing to add a major title centered on one of football's most polarizing figures. The platform has officially distributed the preview for Terrell T.O., a biographical feature dedicated to NFL Hall of Famer Terrell Owens.",
+          "Streamers have continually expanded their sports documentary catalogs, and Prime Video is now preparing to add a major title centered on one of football's most polarizing figures. The platform has officially distributed the preview for Terrell T.O., a biographical feature dedicated to NFL Hall of Famer Terrell Owens."
+        ]
+      },
+      {
+        "h": "Global Release Date Scheduled",
+        "p": [
           "Scheduled to arrive globally on November 5, 2026, the project will launch exclusively on the streaming service, reaching audiences across more than 240 countries and territories. The production traces the wide receiver from his early childhood days all the way to his eventual induction into the Pro Football Hall of Fame."
         ]
       },
       {
-        "h": "Examining a Hall of Fame Career and Its Controversies",
+        "h": "Athletic Success and Public Debate",
         "p": [
-          "The newly published preview highlights both the glorious athletic triumphs and the fierce public debates that defined the star player's time on the gridiron. Entering the league as a third-round selection in the 1996 NFL Draft out of the University of Tennessee at Chattanooga, the athlete quickly established himself as a dominant force.",
+          "The newly published preview highlights both the glorious athletic triumphs and the fierce public debates that defined the star player's time on the gridiron. Entering the league as a third-round selection in the 1996 NFL Draft out of the University of Tennessee at Chattanooga, the athlete quickly established himself as a dominant force."
+        ]
+      },
+      {
+        "h": "Friction and Locker Room Disagreements",
+        "p": [
           "Beyond his incredible pass-catching statistics, his theatrical touchdown celebrations and distinct playing style turned him into a household name. However, these same traits often generated friction, leading to widely publicized locker room disagreements, tense media exchanges, and intense public scrutiny regarding his conduct within a team framework."
         ]
       },
       {
-        "h": "A Comprehensive Look Beyond the Gridiron",
+        "h": "Personal Matters and Reflection",
         "p": [
           "While the documentary heavily focuses on professional accomplishments, it also delves deeply into personal matters. The narrative investigates family relationships, private hardships, and the ways in which the former football star challenged traditional expectations surrounding athlete self-expression.",
           "Present-day footage captures the retired athlete reflecting extensively on his history while charting a fresh course for the future. Viewers can expect an intimate glimpse into how he is navigating the next chapter of his life away from the competitive pressures of professional sports."
         ]
       },
       {
-        "h": "Star-Studded Interview Lineup and Production Team",
+        "h": "Notable Figures and Teammates",
         "p": [
-          "To provide a well-rounded perspective on his complex legacy, the film incorporates commentary from numerous notable figures who crossed paths with the receiver throughout his career. Former San Francisco 49ers teammates Steve Young and Jerry Rice contribute insights, alongside former quarterbacks Jeff Garcia and Tony Romo.",
-          "The lineup of speaking heads also features Dallas Cowboys owner Jerry Jones, former Philadelphia Eagles coach Andy Reid, and former teammates Isaiah 'Ike' Reese and Freddie Mitchell. Media personalities Jemele Hill and Skip Bayless round out the contributors by analyzing his public image and career impact.",
+          "To provide a well-rounded perspective on his complex legacy, the film incorporates commentary from numerous notable figures who crossed paths with the receiver throughout his career. Former San Francisco 49ers teammates Steve Young and Jerry Rice contribute insights, alongside former quarterbacks Jeff Garcia and Tony Romo."
+        ]
+      },
+      {
+        "h": "Coaches, Owners, and Media Analysts",
+        "p": [
+          "The lineup of speaking heads also features Dallas Cowboys owner Jerry Jones, former Philadelphia Eagles coach Andy Reid, and former teammates Isaiah 'Ike' Reese and Freddie Mitchell. Media personalities Jemele Hill and Skip Bayless round out the contributors by analyzing his public image and career impact."
+        ]
+      },
+      {
+        "h": "Production and Direction Team",
+        "p": [
           "Behind the scenes, the project is presented by Prime Video Sports and Skydance Sports. NFL Films produced the feature in collaboration with House of Nonfiction, with Alexandria Stapleton taking the helm as director and producer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has announced the upcoming global release of Terrell T.O., a new documentary chronicling the life and career of NFL Hall of Famer Terrell Owens. Set to premiere on November 5, 2026, the film explores his athletic achievements, public scrutiny, and personal life through archival footage and interviews with former teammates, coaches, and analysts. The project is presented by Prime Video Sports and Skydance Sports, and produced by NFL Films and House of Nonfiction under director Alexandria Stapleton."
         ]
       }
     ],
@@ -5062,31 +5935,57 @@ window.FA_ARTICLES = {
     "dek": "The stars of the hit action thriller series sit down for an exclusive interview covering executive producer Jared Shaw, narrative impacts from the prequel, and dream musical choices.",
     "body": [
       {
-        "h": "Cast Members Highlight Executive Producer Jared Shaw",
+        "h": "Highlighting Executive Producer Jared Shaw",
         "p": [
-          "In a recent discussion regarding the upcoming continuation of the popular action series, leading cast members Chris Pratt and Constance Wu took time to highlight the integral contributions of executive producer Jared Shaw. Their remarks shed light on the collaborative environment behind the scenes of the intense production.",
+          "In a recent discussion regarding the upcoming continuation of the popular action series, leading cast members Chris Pratt and Constance Wu took time to highlight the integral contributions of executive producer Jared Shaw. Their remarks shed light on the collaborative environment behind the scenes of the intense production."
+        ]
+      },
+      {
+        "h": "Shaping the Gritty Atmosphere",
+        "p": [
           "The recognition from the primary stars emphasizes how essential the creative team has been in shaping the gritty atmosphere that fans have come to expect from the intense military thriller franchise since its initial debut."
         ]
       },
       {
-        "h": "Navigating the Dark Wolf Prequel Impact on Season 2",
+        "h": "Expanding the Television Universe",
         "p": [
-          "As the television universe expands, the narrative landscape continues to shift with the introduction of new storytelling avenues. Pratt and Wu addressed how the development of the Dark Wolf prequel series directly intersects with and influences the overarching plotlines awaiting audiences in the upcoming sophomore season.",
+          "As the television universe expands, the narrative landscape continues to shift with the introduction of new storytelling avenues. Pratt and Wu addressed how the development of the Dark Wolf prequel series directly intersects with and influences the overarching plotlines awaiting audiences in the upcoming sophomore season."
+        ]
+      },
+      {
+        "h": "Layered Narrative and Continuity",
+        "p": [
           "Interweaving backstory with ongoing contemporary threats creates a complex web of motivations for the characters, ensuring that viewers returning for the next chapter will encounter a richer, more layered narrative experience rooted in established continuity."
         ]
       },
       {
-        "h": "Dream Needle Drops and Musical Ambitions",
+        "h": "Auditory Atmosphere and Music",
         "p": [
-          "Beyond the dramatic stakes and tactical action sequences, the conversation turned toward the auditory atmosphere of the show. Both actors shared their personal preferences for ideal needle drops that they believe would elevate future suspenseful moments.",
+          "Beyond the dramatic stakes and tactical action sequences, the conversation turned toward the auditory atmosphere of the show. Both actors shared their personal preferences for ideal needle drops that they believe would elevate future suspenseful moments."
+        ]
+      },
+      {
+        "h": "Creative Investment in Production",
+        "p": [
           "Music plays a critical role in anchoring the tension in high-octane thrillers, and the stars' creative insights demonstrate a deep personal investment in every artistic facet of the production as it prepares for its eventual release."
         ]
       },
       {
-        "h": "Continuing the Momentum of a Major Streaming Hit",
+        "h": "Sustained Global Fanbase Interest",
         "p": [
-          "The anticipation surrounding the continuation of the franchise reflects its strong standing within the modern streaming landscape. The involvement of established talent like Chris Pratt and Constance Wu ensures sustained high-level interest from a dedicated global fanbase.",
+          "The anticipation surrounding the continuation of the franchise reflects its strong standing within the modern streaming landscape. The involvement of established talent like Chris Pratt and Constance Wu ensures sustained high-level interest from a dedicated global fanbase."
+        ]
+      },
+      {
+        "h": "High Expectations for Evolving Arcs",
+        "p": [
           "With production details slowly emerging and promotional interviews offering tantalizing glimpses into the writers' room, expectations remain exceptionally high for how the creative team will handle the evolving arcs of these beloved television characters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Pratt and Constance Wu discuss the upcoming season of their action series, highlighting the contributions of executive producer Jared Shaw. They explore how the Dark Wolf prequel connects to the plot of the next season and share their musical preferences for the show. The interview underscores the ongoing anticipation for the streaming hit's return."
         ]
       }
     ],

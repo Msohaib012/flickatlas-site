@@ -452,7 +452,7 @@ table.data img{width:38px;height:56px;object-fit:cover;border-radius:7px;backgro
   background:var(--card);color:var(--teal-dark);font-weight:600;font-size:.88rem;text-decoration:none}
 .ts-pill:hover{border-color:var(--teal);color:var(--teal);text-decoration:none}
 .kw-chips{display:flex;flex-wrap:wrap;gap:8px}
-.kw-chip{background:var(--soft);color:var(--teal-dark);font-size:.82rem;font-weight:600;
+.kw-chip{display:inline-block;max-width:100%;background:var(--soft);color:var(--teal-dark);font-size:.82rem;font-weight:600;
   padding:5px 12px;border-radius:999px;text-transform:capitalize}
 .tag-chip{display:inline-block;background:var(--soft);color:var(--teal-dark);font-size:.72rem;
   font-weight:800;letter-spacing:.04em;text-transform:uppercase;padding:3px 9px;border-radius:999px}
@@ -947,6 +947,43 @@ h2[id^="explore-section-"],h3[id^="explore-section-"]{scroll-margin-top:24px}
   font-size: .84rem;
   line-height: 1.45;
   overflow-wrap: anywhere;
+}
+
+/* ---------- homepage Trending News thumbnails (user order 2026-10-27):
+   thumbnail LEFT + title/date RIGHT, like the episode .ep-row rows.
+   The grid layout is unchanged; only rows with an image get the thumb.
+   Thumb is small (72px, 64px on phones) so the title keeps its room. */
+.editorial-card--thumb {
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+}
+.editorial-card__thumb {
+  flex: none;
+  width: 72px;
+  height: 54px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--soft, #EAF4F1);
+}
+.editorial-card__thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.editorial-card__body {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  justify-content: center;
+}
+.editorial-card__body .editorial-card__title { margin: 0; }
+@media (max-width: 480px) {
+  .editorial-card__thumb { width: 64px; height: 48px; }
+  .editorial-card--thumb { gap: 10px; padding: 10px 12px; }
 }
 @media (min-width: 600px) {
   .editorial-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
@@ -1992,6 +2029,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .rv-sw{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
 .rv-sw h3{margin-top:14px}
 @media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}
+
 
 
 

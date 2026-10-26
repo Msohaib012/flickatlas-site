@@ -610,9 +610,9 @@
      the existing .content-card. Articles with no images render exactly
      as today — this block is empty. A failed image removes its whole
      figure (no broken image, no orphan credit). */
-  const imagesHtml = isEpisode ? epHeroHtml : (article.images || []).filter(im => im && im.url).map(im => `
+  const imagesHtml = isEpisode ? epHeroHtml : (article.images || []).filter(im => im && im.url).map((im, ii) => `
     <figure class="content-card" style="margin-top:14px">
-      <img src="${UI.esc(UI.newsImg(im.url, 900))}" alt="${UI.esc(im.caption || article.headline || "")}" loading="lazy" decoding="async" style="max-width:100%;border-radius:12px" onerror="this.onerror=null;this.src='${UI.esc(im.url)}'">
+      <img src="${UI.esc(UI.newsImg(im.url, 720))}" srcset="${UI.esc(UI.newsImg(im.url, 400))} 400w, ${UI.esc(UI.newsImg(im.url, 720))} 720w" sizes="(max-width:640px) 100vw, 720px" alt="${UI.esc(im.caption || article.headline || "")}" ${ii === 0 ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"'} decoding="async" style="max-width:100%;border-radius:12px" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='${UI.esc(im.url)}'">
       ${im.caption ? `<p class="article-summary" style="margin-top:8px">${UI.esc(im.caption)}</p>` : ""}
       <p class="img-credit">Image: ${UI.esc(im.source || "TMDB")}</p>
     </figure>`).join("");
@@ -714,13 +714,18 @@
       }
     }
     if (tsTemplates.length) {
-      /* Top Searches phrases render here as their own section. */
+      /* Top Searches phrases render here as their own section. The
+         .kw-chips flex container keeps each phrase as one whole pill:
+         a pill wraps to the next line as a unit and is never split
+         mid-phrase (the old <p> wrapper let long phrases break across
+         lines on phones). */
       const topHtml = `<section class="section"><div class="section-head"><h2>Top Searches</h2></div>
-        <p>${tsTemplates.map(t => `<a class="kw-chip" href="/search?q=${encodeURIComponent(t)}">${UI.esc(t)}</a>`).join(" ")}</p></section>`;
+        <div class="kw-chips">${tsTemplates.map(t => `<a class="kw-chip" href="/search?q=${encodeURIComponent(t)}">${UI.esc(t)}</a>`).join("")}</div></section>`;
       main.querySelector(".wrap").insertAdjacentHTML("beforeend", topHtml);
     }
   }
 })();
+
 
 
 

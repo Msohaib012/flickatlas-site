@@ -336,10 +336,15 @@ Write ONE original article from the source article below. Do NOT copy
 sentences from the source; rewrite everything in your own words.
 
 Rules:
-- Detailed, not concise: 4-6 body sections, 2-3 original paragraphs each,
-  roughly 500-700 words of body text. Full, substantive paragraphs.
+- Detailed, not concise: 6-8 body sections, 1-2 original paragraphs each,
+  roughly 500-700 words of body text in total. Full, substantive
+  paragraphs — more short sections with clear headings, so a reader can
+  scan the article and jump to the part they want.
 - Cover the news itself, background and context, the people or titles
   involved, reactions or significance, and records or legacy.
+- End with a final section headed "News Overview": 2-3 sentences recapping
+  the story in your own words, adding no new facts, numbers, dates, names
+  or quotes beyond what the sections above already state.
 - Pick the final category from this list only: movies, tv_dramas,
   episodes, box_office, celebrities_events, upcoming_releases,
   ott_streaming, trailers, awards, music_ost, viral.
@@ -930,6 +935,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

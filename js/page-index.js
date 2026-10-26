@@ -527,7 +527,7 @@
           <div class="news-slider-viewport">${slides.map(({ it, img, primary }, i) => {
             const meta = Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : "";
             return `<a class="news-slide${i === 0 ? " active" : ""}" href="${UI.newsItemPath(it)}" style="display:${i === 0 ? "block" : "none"}">
-              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" alt="" ${i === 0 ? 'fetchpriority="high"' : ''} decoding="async" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src='${UI.esc(img)}';}else{this.style.display='none';this.parentElement.style.background='linear-gradient(135deg,#0e3b2e,#14532d)';}"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
+              <span class="news-slide-img"><img src="${UI.newsImg(img, 800)}" srcset="${UI.newsImg(img, 400)} 400w, ${UI.newsImg(img, 800)} 800w" sizes="(max-width:640px) 100vw, 800px" alt="" ${i === 0 ? 'fetchpriority="high"' : ''} decoding="async" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.removeAttribute('srcset');this.src='${UI.esc(img)}';}else{this.style.display='none';this.parentElement.style.background='linear-gradient(135deg,#0e3b2e,#14532d)';}"><span class="news-slide-tag">${UI.esc(SLIDERTAGLABEL[primary] || primary)}</span></span>
               <span class="news-slide-body"><span class="news-slide-title">${UI.esc(it.title || "")}</span>
               ${meta ? `<span class="news-slide-meta">${UI.esc(meta)}</span>` : ""}</span>
             </a>`;
@@ -588,6 +588,11 @@
       return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
         || /youtube\.com\/watch|youtu\.be\//i.test(l);
     };
+    /* Trending News filter options (same 12 categories as /news,
+       js/page-news.js FILTERS). The dropdown itself is the page's
+       existing mountFaSelect (Drama Episodes filter, same component). */
+    const NEWS_FILTERS = [["bollywood", "Bollywood"], ["lollywood", "Lollywood"], ["kollywood", "Kollywood"], ["world", "World Cinema"], ["pakistan", "Pakistan"], ["celebrity", "Celebrity"], ["viral", "Viral"], ["award", "Award"], ["ott", "OTT"], ["music", "Music"], ["tech", "Tech"]];
+    const NEWS_FILTER_LABEL = Object.fromEntries(NEWS_FILTERS);
     const fillHomeNews = async () => {
       const host = document.getElementById("homeNews");
       if (!host) return;
@@ -603,10 +608,6 @@
         if (!j.items || !j.items.length) throw new Error("news empty");
         const feedItems = j.items.filter(it => !isEpisodeItem(it));
         const CATLABEL = { bollywood: "Bollywood", world: "World Cinema", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral" };
-        const arts = feedItems.slice(0, HOME_LIMITS.news).map(it => ({
-          ...it,
-          cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
-        }));
         /* The slider gets the FULL feed (not the 7-item Trending News cap):
            it needs the whole feed to find 8 Indian (bollywood/kollywood)
            items with images. No second fetch — same j.items, normalised
@@ -616,17 +617,57 @@
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
         }));
         try { renderNewsSlider(sliderArts); } catch (_) { document.getElementById("homeNewsSlider")?.remove(); }
+        /* Trending News filter (user order 2026-10-27, clarified 02:16
+           PKT): homepage filters are DROPDOWNS in one single line — one
+           .fa-select in-page dropdown (same component as /news and the
+           Drama Episodes filter), never a native <select> popup and
+           never wrapping chips. Filters the same feed the /news
+           dropdown filters (deriveTags, same as /news), newest 7 of
+           the filtered list. Thumbnails (user order 2026-10-27): each
+           row with an article image renders thumb-left / title-right
+           like the episode .ep-row rows; rows without an image keep
+           today's text card. */
+        const fa = window.FA_ARTICLES || {};
+        const filterPool = feedItems.map(it => ({
+          ...it,
+          cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
+        }));
+        let homeFilter = "all";
         host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
           <a class="see-all" href="/news">See All →</a></div>
-          <p class="sec-sub">Recent published headlines, newest first.</p>
-          <div class="editorial-grid">${arts.map(it => {
+          <p class="sec-sub" id="homeNewsSub">Recent published headlines, newest first.</p>
+          <div id="chipHost"><div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="homeNewsFilterLabel"><span id="homeNewsFilterLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="homeNewsFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="homeNewsFilterOptions" aria-labelledby="homeNewsFilterLabel homeNewsFilterValue"><span class="fa-select-value" id="homeNewsFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="homeNewsFilterOptions" role="listbox" aria-labelledby="homeNewsFilterLabel" hidden></div></div></div></div></div>
+          <div class="editorial-grid" id="homeNewsGrid"></div>`;
+        const grid = host.querySelector("#homeNewsGrid");
+        const sub = host.querySelector("#homeNewsSub");
+        const renderHomeNewsGrid = () => {
+          const list = (homeFilter === "all" ? filterPool : filterPool.filter(it => deriveTags(it).includes(homeFilter))).slice(0, HOME_LIMITS.news);
+          sub.textContent = homeFilter === "all"
+            ? "Recent published headlines, newest first."
+            : `${list.length} headline${list.length === 1 ? "" : "s"} · ${NEWS_FILTER_LABEL[homeFilter] || homeFilter}`;
+          grid.innerHTML = list.map(it => {
+            const art = fa[it.id] || {};
+            const imgs = Array.isArray(art.images) ? art.images : [];
+            const img = imgs.length && imgs[0] && imgs[0].url ? String(imgs[0].url) : "";
             const categories = (Array.isArray(it.cats) ? it.cats : []).map(c => CATLABEL[c] || c);
             const meta = [categories.length ? categories.join(" · ") : "", Number.isFinite(it.ts) && it.ts > 0 ? UI.relTime(it.ts) : ""].filter(Boolean);
+            if (img) {
+              return `<a class="editorial-card editorial-card--thumb" href="${UI.newsItemPath(it)}">
+              <span class="editorial-card__thumb"><img src="${UI.esc(UI.newsImg(img, 200))}" alt="" loading="lazy" decoding="async" onerror="this.remove()"></span>
+              <span class="editorial-card__body"><span class="editorial-card__title">${UI.esc(it.title)}</span>
+              ${meta.length ? `<span class="editorial-card__meta">${meta.map(UI.esc).join(" · ")}</span>` : ""}</span>
+            </a>`;
+            }
             return `<a class="editorial-card" href="${UI.newsItemPath(it)}">
               <span class="editorial-card__title">${UI.esc(it.title)}</span>
               ${meta.length ? `<span class="editorial-card__meta">${meta.map(UI.esc).join(" · ")}</span>` : ""}
             </a>`;
-          }).join("")}</div>`;
+          }).join("");
+        };
+        mountFaSelect(host.querySelector("#chipHost .filter-select"),
+          [{ value: "all", label: "All" }, ...NEWS_FILTERS.map(([k, label]) => ({ value: k, label }))],
+          "all", (value) => { homeFilter = value; renderHomeNewsGrid(); });
+        renderHomeNewsGrid();
       } catch (_) {
         host.remove();
         document.getElementById("homeNewsSlider")?.remove();
@@ -1094,6 +1135,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
