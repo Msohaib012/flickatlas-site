@@ -38,22 +38,30 @@
   const indLabel = (pub) => IND_LABEL[pub.industry] || UI.industryTag(pub) || "";
   const titleDate = (x) => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   /* Similar / You May Also Like — FA_PUBLISHED only, same industry
-     first, then same type, newest first (release date DESC, published
-     date only breaks ties), up to 6. Same medium only: a movie page
+     first, then same type, up to 6. Same medium only: a movie page
      never recommends a TV show (it would link to /movie?id=<tv id>
-     and land on "not published"). */
+     and land on "not published").
+     UPCOMING pages (user order 2026-10-26): the current title has not
+     released yet, so Similar shows UPCOMING titles only (not released
+     ones), nearest date first — and the section is headed
+     "Similar Upcoming". RELEASED pages keep the released-only list,
+     newest first, headed "Similar Movies". */
   const similarPublished = (pub) => {
     const todayS = TMDB.today();
+    const isUpcoming = titleDate(pub) && titleDate(pub) > todayS;
     const cands = Object.values(window.FA_PUBLISHED || {})
       .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type
-        && titleDate(x) && titleDate(x) <= todayS);
+        && titleDate(x) && (isUpcoming ? titleDate(x) > todayS : titleDate(x) <= todayS));
     cands.sort((a, b) =>
       ((b.industry === pub.industry) - (a.industry === pub.industry)) ||
       ((b.type === pub.type) - (a.type === pub.type)) ||
-      titleDate(b).localeCompare(titleDate(a)) ||
+      (isUpcoming
+        ? titleDate(a).localeCompare(titleDate(b))
+        : titleDate(b).localeCompare(titleDate(a))) ||
       String(b.published_at || "").localeCompare(String(a.published_at || "")));
     return cands.slice(0, 6);
   };
+  const similarHeading = titleDate(pub) && titleDate(pub) > TMDB.today() ? "Similar Upcoming" : "Similar Movies";
 
   /* Related News — articles whose PRIMARY entity (entities.titles[0])
      is this title. Match: exact name, substring (min 6 chars), or a
@@ -245,7 +253,7 @@
         <span>${a.published ? UI.relTime(Date.parse(a.published)) : ""}</span></span>
       </a>`).join("")}</div></section>` : ""}
 
-    ${similar.length ? `<section class="section"><div class="section-head"><h2>Similar Movies</h2></div>
+    ${similar.length ? `<section class="section"><div class="section-head"><h2>${similarHeading}</h2></div>
       <div class="grid">${similar.map(x => UI.posterCard(x, "movie", UI.industryTag(x))).join("")}</div></section>` : ""}
 
     ${`<section class="section" id="audiencePulse"><div class="section-head"><h2>Audience Pulse</h2></div>
@@ -328,6 +336,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 
