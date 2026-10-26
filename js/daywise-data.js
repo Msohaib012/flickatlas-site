@@ -94,7 +94,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 11",
-      "collection": 34865,
+      "collection": 36978,
       "overseas": 5283,
       "shows": 1299,
       "occupancy": 7.7,
@@ -123,7 +123,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 3",
-      "collection": 880085,
+      "collection": 882198,
       "overseas": 198627,
       "shows": 5947,
       "occupancy": 24.4,
@@ -132,7 +132,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 4",
-      "collection": 331749,
+      "collection": 345483,
       "overseas": 105652,
       "shows": 5801,
       "occupancy": 12.5,
@@ -750,7 +750,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 12",
-      "collection": 1016376,
+      "collection": 1040676,
       "overseas": 264131,
       "shows": 10558,
       "occupancy": 18.8,
@@ -977,7 +977,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 25",
-      "collection": 109878,
+      "collection": 116218,
       "overseas": 26413,
       "shows": 3133,
       "occupancy": 9.6,
