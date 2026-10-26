@@ -17,7 +17,7 @@
   });
 
   const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "World Cinema"]];
-  const MORE_FILTERS = [["all", "All"], ["hollywood", "US Films"], ["lollywood", "Lollywood"], ["year", "This Year"], ["top", "Top Rated"]];
+  const MORE_FILTERS = [["all", "All"], ["hollywood", "US Films"], ["lollywood", "Lollywood"], ["top", "Top Rated"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
   const seeAllEntry = UI.getParam("seeall", "") === "1";
   let f = UI.getParam("f", "bollywood");
@@ -34,6 +34,7 @@
         ? `<div class="filter-select listing-custom-filter" role="group" aria-labelledby="moviesFilterLabel"><span class="filter-select-label" id="moviesFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="moreFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="moreFilterOptions" aria-labelledby="moviesFilterLabel moreFilterValue"><span id="moreFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="moreFilterOptions" role="listbox" aria-labelledby="moviesFilterLabel" hidden></div></div><select class="fsel" id="moreFilterSel" aria-label="Additional movie category filter" aria-hidden="true" tabindex="-1" hidden><option value="">Choose a filter</option>${MORE_FILTERS.map(([key, label]) => `<option value="${UI.esc(key)}">${UI.esc(label)}</option>`).join("")}</select></div>`
         : `<div class="listing-more-filters"><p class="filter-group-label">More categories</p><div data-filter-scope="more">${UI.chipRow(MORE_FILTERS, f, "bollywood")}</div></div>`}
       <div class="listing-select-row">
+        <div class="filter-select" role="group" aria-labelledby="yearSelectLabel"><span class="filter-select-label" id="yearSelectLabel">Year</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="yearTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="yearOptions" aria-labelledby="yearSelectLabel yearValue"><span id="yearValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="yearOptions" role="listbox" aria-labelledby="yearSelectLabel" hidden></div></div><select class="fsel" id="yearSel" aria-label="Filter by year" aria-hidden="true" tabindex="-1" hidden></select></div>
         <div class="filter-select" role="group" aria-labelledby="sortSelectLabel"><span class="filter-select-label" id="sortSelectLabel">Sort by</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="sortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortOptions" aria-labelledby="sortSelectLabel sortValue"><span id="sortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="sortOptions" role="listbox" aria-labelledby="sortSelectLabel" hidden></div></div><select class="fsel" id="sortSel" aria-label="Sort movies" aria-hidden="true" tabindex="-1" hidden><option value="recent">Newest first</option><option value="popular">Most Popular</option></select></div>
         <div class="filter-select" role="group" aria-labelledby="genreSelectLabel"><span class="filter-select-label" id="genreSelectLabel">Genre</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="genreTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="genreOptions" aria-labelledby="genreSelectLabel genreValue"><span id="genreValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="genreOptions" role="listbox" aria-labelledby="genreSelectLabel" hidden></div></div><select class="fsel" id="genreSel" aria-label="Filter by genre" aria-hidden="true" tabindex="-1" hidden><option value="">All Genres</option></select></div>
       </div></div>
@@ -145,16 +146,18 @@
     || (b.vote_count || 0) - (a.vote_count || 0);
 
   /* Hub shows released movies only (future-dated titles live on /upcoming).
-     Freshness first (site rule: nothing older than 3 months on listings);
-     fall back to the full published pool so the page is never empty while
-     published movies exist. */
-  const pool = (() => {
-    const today = todayStr();
-    const released = published().filter(x => x && x.id && x.type === "movie"
-      && /^\d{4}-\d{2}-\d{2}$/.test(x.release_date || "") && x.release_date <= today);
-    const fresh = released.filter(UI.isFresh);
-    return fresh.length ? fresh : released;
-  })();
+     YEARLY (user order 2026-10-27): the hub is organised by release year —
+     the Year dropdown picks one year (default: the latest year present in
+     the data) and the list shows that year's released movies, newest
+     first. The 3-month freshness rule does NOT gate this hub: a year view
+     is an explicit browse of that year's catalogue, so the pool is all
+     released movies and render() applies the year gate. */
+  const released = published().filter(x => x && x.id && x.type === "movie"
+    && /^\d{4}-\d{2}-\d{2}$/.test(x.release_date || "") && x.release_date <= todayStr());
+  const years = [...new Set(released.map(x => (x.release_date || "").slice(0, 4)))].sort().reverse();
+  let y = UI.getParam("y", "");
+  if (!years.includes(y)) y = years[0] || "";
+  const pool = released;
 
   /* Genres ARE baked into published entries (rich fields) — populate the
      genre select from the pool so the filter works (audit fix: the select
@@ -169,14 +172,27 @@
   genreSel.value = g;
   genreMenu.sync();
 
+  /* Year dropdown: one option per year present in the released pool,
+     default = latest year. A custom .fa-select (in-page panel, never the
+     Android popup a native <select> becomes) — the same component as
+     Sort / Genre on this page. */
+  const yearSel = main.querySelector("#yearSel");
+  years.forEach(yr => {
+    const opt = document.createElement("option");
+    opt.value = yr; opt.textContent = yr;
+    yearSel.appendChild(opt);
+  });
+  yearSel.value = y;
+  const yearMenu = mountSelectMenu(yearSel);
+  yearMenu.sync();
+
   function render() {
-    const year = String(new Date().getFullYear());
     const items = pool.filter(x => {
+      if (y && (x.release_date || "").slice(0, 4) !== y) return false;
       if (f === "bollywood" && x.industry !== "bollywood") return false;
       if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
       if (f === "international" && x.industry !== "world") return false;
       if (f === "lollywood" && x.industry !== "pakistani") return false;
-      if (f === "year" && (x.release_date || "").slice(0, 4) !== year) return false;
       /* "Top Rated" is a sort-by-rating view, not a gate: the old gate
          (rating >= 7.5 AND vote_count >= 300) could never match published
          titles (vote_count 2-3), so the filter always showed empty. */
@@ -187,7 +203,7 @@
       : sort === "recent" ? byNewest(a, b) : byPopular(a, b));
     grid.innerHTML = items.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, "movie", tagFor(x))}</div>`).join("");
-    fcount.textContent = `${items.length} movie${items.length === 1 ? "" : "s"}`;
+    fcount.textContent = `${items.length} movie${items.length === 1 ? "" : "s"}${y ? ` · ${y}` : ""}`;
     emptyHost.innerHTML = items.length ? ""
       : UI.stateMsg(pool.length
         ? "No movies match this filter right now."
@@ -229,14 +245,22 @@
     UI.setParam("g", g);
     render();
   });
+  yearSel.addEventListener("change", () => {
+    y = yearSel.value;
+    if (!years.includes(y)) y = years[0] || "";
+    UI.setParam("y", y === (years[0] || "") ? "" : y);
+    render();
+  });
   window.addEventListener("popstate", () => {
     f = UI.getParam("f", "bollywood"); if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
     g = UI.getParam("g", "");
     if (g && !genreList.includes(g)) g = ""; /* unknown genre -> All */
     sort = UI.getParam("s", "recent"); if (!["popular", "recent"].includes(sort)) sort = "recent";
-    sortSel.value = sort; genreSel.value = g;
+    y = UI.getParam("y", "");
+    if (!years.includes(y)) y = years[0] || "";
+    sortSel.value = sort; genreSel.value = g; yearSel.value = y;
     if (seeAllEntry) syncSeeAllFilters();
-    sortMenu.sync(); genreMenu.sync();
+    sortMenu.sync(); genreMenu.sync(); yearMenu.sync();
     render();
   });
 

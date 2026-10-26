@@ -545,8 +545,8 @@
     /* ---------- Lollywood: latest Pakistani releases (computed above). ---------- */
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Latest Pakistani Releases</h2>
-      <a class="see-all" href="/category?cat=lollywood">See All →</a></div>
-      <p class="sec-sub">Pakistani movies &amp; dramas only, latest first.</p>
+      <a class="see-all" href="/category?cat=lollywood&t=movie">See All →</a></div>
+      <p class="sec-sub">Pakistani movies, latest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
     /* Drama episodes (user order 2026-10-26, LIST format 21:37 PKT):
@@ -757,6 +757,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
