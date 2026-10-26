@@ -1,0 +1,58 @@
+name: Title seeder (TMDB titles)
+# SEPARATE title system (Sacnilk model): the news pipeline writes
+# ARTICLES but never adds TITLE pages — this workflow picks titles from
+# TMDB lists and publishes them as FA_PUBLISHED entries, so the Movies /
+# Spotlight / Trending / Dramas sections fill up. Titles are TMDB FACTS
+# (no AI, no approval gate) — they go live directly.
+#   scripts/title-seed.py — fetches 5 TMDB lists (trending, now-playing,
+#   upcoming, Bollywood discover, Pakistani-dramas discover), applies the
+#   freshness / poster / dedup rules, round-robins across sources to the
+#   cap (15 first run, 5/day after), assembles each title with
+#   scripts/publish-titles.py and appends it to js/published-titles.js.
+#   A run that finds no new titles commits nothing and deploys nothing.
+# Requires repo secret TMDB_API_KEY (same key as js/config.js); the
+# script falls back to js/config.js when the secret is missing.
+on:
+  schedule:
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Seed TMDB titles
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/title-seed.py
+      - name: Bump asset version when titles changed
+        run: |
+          # Browsers cache static assets immutably per ?v= URL, so new
+          # titles behind the same ?v= would keep serving the old file.
+          if git diff --quiet js/published-titles.js; then
+            echo "titles unchanged, keeping ?v="
+          else
+            NEWV="fa-$(date -u +%Y%m%d%H%M)"
+            echo "bumping ?v= to $NEWV"
+            find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
+          fi
+      - name: Commit if changed
+        run: |
+          git config user.name "Msohaib012"
+          git config user.email "200891737+Msohaib012@users.noreply.github.com"
+          git add js/published-titles.js
+          git add -A -- '*.html'
+          if ! git diff --cached --quiet; then
+            git commit -m "auto: title seed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi

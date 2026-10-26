@@ -1,0 +1,329 @@
+#!/usr/bin/env python3
+"""Seed chosen TMDB titles into js/published-titles.js (title seeder).
+
+FlickAtlas is published-only: TMDB is a data source, not a catalogue.
+The news pipeline writes ARTICLES but never adds TITLE pages — that is
+why the catalogue stays at 2 titles while news grows. This script is
+the SEPARATE title system (Sacnilk model): it picks titles from TMDB
+lists and publishes them as FA_PUBLISHED entries, so the Movies /
+Spotlight / Trending / Dramas sections fill up.
+
+Sources (TMDB lists, page 1 each):
+  trending     — /trending/movie/week (global trending)
+  now_playing  — /movie/now_playing?region=IN (in cinemas now, India)
+  upcoming     — /movie/upcoming?region=IN (coming soon, India)
+  bollywood    — /discover/movie?with_original_language=hi (Hindi films;
+               the movie lists above are world-dominated by popularity,
+               so Bollywood needs its own source)
+  pk_dramas    — /discover/tv?with_origin_country=PK (Pakistani dramas)
+
+Record assembly is NOT duplicated here: it reuses scripts/publish-titles.py
+(fetch_title, build_entry, read_js_map, write_js_map, HEADER) via
+importlib, so the baked entry shape is byte-identical to the existing
+seed titles (no cast/crew arrays — the detail pages fetch credits live).
+
+Rules (selection, in order):
+  - skip titles already in FA_PUBLISHED (by TMDB id)
+  - skip titles with no poster_path
+  - movies: skip when release_date is in the past and older than
+    FRESH_DAYS (90); future (upcoming) dates always pass
+  - tv: no date rule at list level (a long-running drama's first air
+    date is old but it may still be airing); currency is checked at
+    details level instead (last_air_date / next episode / status)
+  - dedup within the run (a title can appear in several lists)
+  - round-robin across the 5 sources so the batch is mixed, capped at
+    FIRST_RUN_MAX (15) on the first run (<=2 published titles) and
+    DAILY_MAX (5) otherwise
+Details-level rules (after fetching each picked id):
+  - tv: skip when not currently airing (no episode in the last
+    FRESH_DAYS, no next episode scheduled, status not Returning Series)
+  - skip when the assembled entry has no poster or no title
+
+Usage:
+  TMDB_API_KEY=<key> title-seed.py [--dry-run] [--out js/published-titles.js]
+  --dry-run fetches + assembles but does NOT write the file.
+The key comes from TMDB_API_KEY, --key, or js/config.js (TMDB_KEY) —
+it is never hardcoded and never printed.
+Exits 0; prints what it did.
+"""
+import argparse
+import importlib.util
+import json
+import os
+import re
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+from datetime import date, timedelta
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_OUT = os.path.join(ROOT, "js", "published-titles.js")
+CONFIG_JS = os.path.join(ROOT, "js", "config.js")
+PUBLISH_TITLES = os.path.join(ROOT, "scripts", "publish-titles.py")
+
+FIRST_RUN_MAX = 15
+DAILY_MAX = 5
+FRESH_DAYS = 90
+
+# (source name, media type, TMDB list path) — order is the round-robin
+# priority (first pick of each source first).
+SOURCES = [
+    ("trending", "movie",
+     "/trending/movie/week"),
+    ("now_playing", "movie",
+     "/movie/now_playing?region=IN"),
+    ("upcoming", "movie",
+     "/movie/upcoming?region=IN"),
+    ("bollywood", "movie",
+     "/discover/movie?with_original_language=hi&sort_by=popularity.desc"),
+    ("pk_dramas", "tv",
+     # Air-date filter (first_air_date.gte, {cutoff} = 90 days ago):
+     # popularity-sorted PK discover is dominated by ENDED all-time hits
+     # (Meri Zindagi Hai Tu, Tamasha) that the currency check then drops.
+     # Restricting to recent premieres surfaces currently-airing dramas
+     # (Dar-E-Nijaat, Rutba, Mitti De Baway, ...).
+     "/discover/tv?with_origin_country=PK&first_air_date.gte={cutoff}"
+     "&sort_by=popularity.desc"),
+]
+
+TMDB_BASE = "https://api.themoviedb.org/3"
+
+
+def load_publish_titles():
+    """Import scripts/publish-titles.py by path (hyphenated filename)."""
+    spec = importlib.util.spec_from_file_location(
+        "publish_titles", PUBLISH_TITLES)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def read_key(args):
+    """TMDB key: --key, then TMDB_API_KEY, then js/config.js TMDB_KEY.
+    Returns "" when none is found (caller reports it, never the value)."""
+    if args.key:
+        return args.key
+    env = os.environ.get("TMDB_API_KEY", "").strip()
+    if env:
+        return env
+    if os.path.exists(CONFIG_JS):
+        with open(CONFIG_JS, encoding="utf-8") as f:
+            raw = f.read()
+        m = re.search(r'TMDB_KEY:\s*"([^"]+)"', raw)
+        if m:
+            return m.group(1)
+    return ""
+
+
+def tmdb_get(path, key):
+    """GET one TMDB endpoint. Returns parsed JSON, or None on failure."""
+    url = (TMDB_BASE + path +
+           ("&" if "?" in path else "?") +
+           "api_key=" + urllib.parse.quote(key))
+    req = urllib.request.Request(url, headers={
+        "Accept": "application/json",
+        "User-Agent": "FlickAtlas-title-seed/1.0",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        print(f"  TMDB {e.code} on {path}", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"  TMDB error on {path}: {e}", file=sys.stderr)
+        return None
+
+
+def fetch_typed(tid, media_type, key, pt):
+    """Fetch details for a KNOWN media type (no movie-first guessing).
+
+    publish-titles.fetch_title tries movie first, then tv — but TMDB
+    movie and tv ids share a namespace, so a tv id can collide with a
+    different movie (e.g. tv 303911 = Meri Zindagi Hai Tu, movie 303911
+    = Miss 420). The seeder knows the media type from the source list,
+    so it fetches the right endpoint directly."""
+    if media_type == "movie":
+        path = f"/movie/{tid}?append_to_response=videos,release_dates"
+    else:
+        path = f"/tv/{tid}?append_to_response=videos,content_ratings"
+    return pt.tmdb_get(path, key)
+
+
+def parse_date(value):
+    """YYYY-MM-DD -> date, or None when missing/unparseable."""
+    if not value:
+        return None
+    try:
+        y, m, d = (int(p) for p in str(value).strip().split("-"))
+        return date(y, m, d)
+    except (ValueError, TypeError):
+        return None
+
+
+def movie_fresh(item, today):
+    """Movies: a past release older than FRESH_DAYS is stale; a future
+    (upcoming) date always passes."""
+    d = parse_date(item.get("release_date"))
+    if d is None:
+        return True
+    if d > today:
+        return True
+    return (today - d).days <= FRESH_DAYS
+
+
+def tv_is_current(details):
+    """TV currency (matches the pk-dramas.js CURRENT definition): an
+    episode aired inside the window, a next episode is scheduled, or
+    it premiered inside the window."""
+    today = date.today()
+    if details.get("status") == "Returning Series":
+        return True
+    if details.get("next_episode_to_air"):
+        return True
+    last = parse_date(details.get("last_air_date"))
+    if last and (today - last).days <= FRESH_DAYS:
+        return True
+    first = parse_date(details.get("first_air_date"))
+    if first and (today - first).days <= FRESH_DAYS:
+        return True
+    return False
+
+
+def fetch_lists(key):
+    """Fetch page 1 of every source list. Returns {source: [items]}.
+    {cutoff} in a path is the freshness cutoff (FRESH_DAYS ago)."""
+    cutoff = (date.today() - timedelta(days=FRESH_DAYS)).isoformat()
+    out = {}
+    for name, media, path in SOURCES:
+        data = tmdb_get(path.format(cutoff=cutoff), key)
+        items = (data or {}).get("results") or []
+        out[name] = items
+        print(f"  {name}: {len(items)} candidates "
+              f"(total {((data or {}).get('total_results'))})")
+        time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s
+    return out
+
+
+def select(lists, published, cap):
+    """List-level selection: apply the cheap rules, then round-robin
+    across sources to the cap. Returns [(tid, media, source)] in
+    attempt order."""
+    per_source = {}
+    for name, media, _ in SOURCES:
+        seen_here = []
+        for item in lists.get(name) or []:
+            tid = str(item.get("id") or "")
+            if not tid.isdigit():
+                continue
+            if tid in published:
+                continue
+            if not item.get("poster_path"):
+                continue
+            if media == "movie" and not movie_fresh(item, date.today()):
+                continue
+            # tv: no list-level date rule (currency checked on details)
+            seen_here.append(tid)
+        # dedup within this source, keeping list (popularity) order
+        per_source[name] = list(dict.fromkeys(seen_here))
+    # Round-robin: best of each source first, then 2nd of each, ...
+    picked, seen = [], set()
+    i = 0
+    while len(picked) < cap:
+        progressed = False
+        for name, media, _ in SOURCES:
+            if len(picked) >= cap:
+                break
+            items = per_source.get(name) or []
+            if i < len(items) and items[i] not in seen:
+                seen.add(items[i])
+                picked.append((items[i], media, name))
+                progressed = True
+        if not progressed:
+            break
+        i += 1
+    return picked
+
+
+def main():
+    ap = argparse.ArgumentParser(
+        description="Seed TMDB titles into js/published-titles.js")
+    ap.add_argument("--key", default=None,
+                    help="TMDB API key (or TMDB_API_KEY env var, "
+                         "or js/config.js TMDB_KEY)")
+    ap.add_argument("--out", default=DEFAULT_OUT,
+                    help="output file (default: js/published-titles.js)")
+    ap.add_argument("--dry-run", action="store_true",
+                    help="fetch + assemble but do NOT write the file")
+    args = ap.parse_args()
+
+    key = read_key(args)
+    if not key:
+        print("title-seed: no TMDB key — set TMDB_API_KEY, --key, or "
+              "js/config.js TMDB_KEY", file=sys.stderr)
+        return 2
+
+    pt = load_publish_titles()
+    published = pt.read_js_map(args.out, "FA_PUBLISHED")
+    cap = FIRST_RUN_MAX if len(published) <= 2 else DAILY_MAX
+    print(f"title-seed: {len(published)} titles published; "
+          f"cap {cap} (first run: {len(published) <= 2})"
+          f"{' [DRY RUN]' if args.dry_run else ''}")
+
+    lists = fetch_lists(key)
+    picked = select(lists, published, cap)
+    print(f"title-seed: {len(picked)} candidates selected")
+
+    today = time.strftime("%Y-%m-%d", time.gmtime())
+    added, skipped = [], 0
+    for tid, media, source in picked:
+        try:
+            details = fetch_typed(tid, media, key, pt)
+        except Exception as e:
+            print(f"  SKIP {tid} ({source}): TMDB request failed ({e})")
+            skipped += 1
+            continue
+        if details is None:
+            print(f"  SKIP {tid} ({source}): no such title on TMDB")
+            skipped += 1
+            continue
+        found_media = media
+        if found_media == "tv" and not tv_is_current(details):
+            print(f"  SKIP {tid} ({source}): tv not currently airing")
+            skipped += 1
+            continue
+        categories = (["movies"] if found_media == "movie" else ["tv"])
+        entry = pt.build_entry(details, found_media, categories, today)
+        if not entry.get("poster_path") or not entry.get("title"):
+            print(f"  SKIP {tid} ({source}): assembled entry has no "
+                  "poster/title")
+            skipped += 1
+            continue
+        if args.dry_run:
+            print(f"  would add {tid} ({entry['title']}, "
+                  f"{found_media}, {entry['industry']}, from {source}, "
+                  f"trailer {'Y' if entry['trailer'] else 'none'})")
+            added.append(entry)
+            continue
+        published[tid] = entry
+        print(f"  added {tid} ({entry['title']}, {found_media}, "
+              f"{entry['industry']}, from {source}, "
+              f"trailer {'Y' if entry['trailer'] else 'none'})")
+        added.append(entry)
+        time.sleep(0.3)
+
+    if not args.dry_run:
+        changed = pt.write_js_map(args.out, "FA_PUBLISHED", published,
+                                  pt.HEADER)
+        print(f"title-seed: +{len(added)} new, {skipped} skipped | "
+              f"file changed: {changed}")
+    else:
+        print(f"title-seed (dry run): would add {len(added)}, "
+              f"{skipped} skipped | file NOT written")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
