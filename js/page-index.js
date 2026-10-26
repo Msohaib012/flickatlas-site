@@ -444,6 +444,21 @@
         <span class="card-meta">${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
       </a>`;
     };
+    /* ---------- Pakistani Dramas (user order 2026-10-26): POSTER cards
+       of the published Pakistani TV dramas, newest first (by first_air_date).
+       Sits ABOVE the Drama Episodes rail: the user picks a drama poster,
+       opens its show page, and that page lists the drama's episodes (each
+       linking to its own episode page). Movies are NOT here — they live in
+       Lollywood above. ---------- */
+    const pkDramas = pubAll()
+      .filter(x => x && x.poster_path && typeOf(x) === "tv" && (x.industry || "") === "pakistani")
+      .sort(byNewest);
+    const pkDramasHtml = pkDramas.length ? `<section class="section" id="homeDramas" data-sec="pk-drama-list">
+      <div class="section-head"><h2>Pakistani Dramas</h2>
+      <a class="see-all" href="/dramas">See All →</a></div>
+      <p class="sec-sub">Pakistani dramas, newest first; open a drama for its episode list.</p>
+      <div class="scroller">${pkDramas.slice(0, HOME_LIMITS.dramas).map(x => UI.posterCard(x, "tv", "Pakistani Drama")).join("")}</div></section>` : "";
+
     const epArticles = Object.values(window.FA_ARTICLES || {})
       .filter(a => a && a.id && (a.headline || "").includes("Watch on") && a.published)
       .sort((a, b) => String(b.published || "").localeCompare(String(a.published || "")));
@@ -476,7 +491,7 @@
        hero → Bollywood Spotlight → Bollywood Coming Soon →
        Box Office → mixed trending → Coming Soon calendar →
        Trending Searches → Trending News → awards → Lollywood →
-       Pakistani dramas. K-Drama, birthdays, OTT and episode strips are
+       Pakistani Dramas (posters) → Drama Episodes. K-Drama, birthdays, OTT and episode strips are
        gone: they had no published data source. ("Star Spotlight" stays
        removed by user order.) */
     main.innerHTML = `<div class="wrap">
@@ -491,6 +506,7 @@
       ${newsHtml}
       ${awardsStripHtml}
       ${lollyHtml}
+      ${pkDramasHtml}
       ${pkRailHtml}
     </div>`;
     rendered = true;
@@ -614,6 +630,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 

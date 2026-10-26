@@ -1,11 +1,12 @@
-/* FlickAtlas — Episode Guides hub (/episode-guides): the episode list.
-   Drama episodes — every episode post, newest first. Episodes come
-   from the YouTube episode tracker (scripts/episode-guides.py): each
-   new episode gets an info post the same day, and the top episodes by
-   views get an AI story summary added gradually. This page lists the
-   EPISODES directly — no drama cards, no seasons (Pakistani dramas
-   have no seasons; seasons are an OTT thing). Each episode links to
-   its own detail page (/news-item?id=<article_id>).
+/* FlickAtlas — Episode Guides hub (/episode-guides): the episode LIST.
+   Drama episodes — every episode post, newest first, as a LIST (user
+   order 2026-10-26): one row per episode (episode title + drama name +
+   date), NOT poster cards. A drama filter (chips) at the top narrows the
+   list to one drama. Each row links to its own detail page
+   (/news-item?id=<article_id>). Episodes come from the YouTube episode
+   tracker (scripts/episode-guides.py): each new episode gets an info
+   post the same day, and the top episodes by views get an AI story
+   summary added gradually.
    Identification: primary = /out/episodes.json (the tracker's state
    file — drama, episode, channel, views, article_id, summary, all
    structured); fallback = FA_ARTICLES headline pattern
@@ -23,41 +24,36 @@
     <div class="page-hero"><h1>Drama — Episode Guides</h1>
       <p>Latest drama episodes from YouTube channels, newest first, with a story summary when one is ready.</p></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading episodes…</p>
+    <div id="dramaFilterHost"></div>
     <div id="guideHost"><div class="sk" style="height:280px;border-radius:22px"></div></div>
   </div>`;
   const fcount = main.querySelector("#fcount");
+  const filterHost = main.querySelector("#dramaFilterHost");
   const host = main.querySelector("#guideHost");
 
   const fmtViews = (n) => (typeof n === "number" && n > 0) ? n.toLocaleString("en-US") : "";
-  const trunc = (s, n) => {
-    const t = String(s || "").replace(/\s+/g, " ").trim();
-    if (t.length <= n) return t;
-    return t.slice(0, n).replace(/\s+\S*$/, "") + "…";
-  };
+  const MONTHS_S = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-  /* One episode card: drama + episode, air date, channel, views,
-     story summary when one exists, and a link to the episode's own
-     detail page. No seasons — Pakistani dramas have none. */
-  function epCard(e) {
+  /* One episode ROW (list layout, user order 2026-10-26): date block +
+     title (drama — episode) + meta (air date · channel · views). Links
+     to the episode's own detail page. No poster, no summary in the row
+     — the summary lives on the episode page. */
+  function epRow(e) {
     const epLabel = (e.isFinale && !e.episode) ? "Final Episode"
       : `Episode ${e.episode}${e.isFinale ? " (Finale)" : ""}`;
     const title = `${e.drama} — ${epLabel}`;
+    const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
+    const d = (e.published || "").slice(0, 10);
+    const parts = d ? d.split("-") : [];
+    const dd = parts[2] ? parseInt(parts[2], 10) : null;
+    const mm = parts[1] ? parseInt(parts[1], 10) : null;
     const air = e.published ? UI.fmtDate(e.published) : "";
     const views = fmtViews(e.views);
-    const sum = trunc(e.summary, 280);
-    const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
-    return `<div class="content-card"><div style="display:flex;gap:14px;flex-wrap:wrap;align-items:flex-start">
-      ${e.thumb ? `<a href="${href}"><img src="${UI.esc(e.thumb)}" alt="" loading="lazy" style="width:140px;border-radius:12px" onerror="this.remove()"></a>` : ""}
-      <div style="flex:1;min-width:200px">
-        <h2 style="margin-top:0"><a href="${href}">${UI.esc(title)}</a></h2>
-        <dl class="facts-table">
-          ${air ? `<div class="fact-row"><dt>Air Date</dt><dd>${UI.esc(air)}</dd></div>` : ""}
-          ${e.channel ? `<div class="fact-row"><dt>Channel</dt><dd>${UI.esc(e.channel)}</dd></div>` : ""}
-          ${views ? `<div class="fact-row"><dt>Views</dt><dd>${UI.esc(views)}</dd></div>` : ""}
-        </dl>
-        ${sum ? `<p class="article-summary">${UI.esc(sum)}</p>` : ""}
-        <p><a class="btn btn-teal" href="${href}">Open episode →</a></p>
-      </div></div></div>`;
+    const meta = [air, e.channel, views ? `${views} views` : ""].filter(Boolean).join(" · ");
+    return `<a class="tl-row" href="${href}">
+      <span class="tl-date"><b>${dd || "—"}</b><span>${mm ? MONTHS_S[mm - 1] : ""}</span></span>
+      <span class="tl-info"><b>${UI.esc(title)}</b><span>${UI.esc(meta)}</span></span>
+    </a>`;
   }
 
   /* Primary: /out/episodes.json — the tracker's state file. Each
@@ -129,11 +125,35 @@
       host.innerHTML = UI.stateMsg("No drama episodes have been published yet. New episodes appear here as they air on YouTube.", false);
       return;
     }
-    fcount.textContent = `${eps.length} episode${eps.length === 1 ? "" : "s"}`;
-    host.innerHTML = eps.map(epCard).join("");
+    /* Drama filter (user order 2026-10-26): chips for every drama in
+       the list, newest-first order preserved; "All Dramas" is default. */
+    let activeDrama = "";
+    const dramas = [...new Set(eps.map(e => e.drama))].sort((a, b) => a.localeCompare(b));
+    const renderList = () => {
+      const list = activeDrama ? eps.filter(e => e.drama === activeDrama) : eps;
+      fcount.textContent = `${list.length} episode${list.length === 1 ? "" : "s"}${activeDrama ? ` · ${activeDrama}` : ""}`;
+      host.innerHTML = list.length
+        ? `<div class="tl-list">${list.map(epRow).join("")}</div>`
+        : UI.stateMsg("No episodes for this drama yet.", false);
+    };
+    if (dramas.length > 1) {
+      filterHost.innerHTML = `<nav class="tabs" aria-label="Filter by drama">${["", ...dramas].map(d =>
+        `<button type="button" data-drama="${UI.esc(d)}"${d === activeDrama ? ' class="on" aria-current="true"' : ""}>${d ? UI.esc(d) : "All Dramas"}</button>`).join("")}</nav>`;
+      filterHost.addEventListener("click", (ev) => {
+        const btn = ev.target.closest("button[data-drama]");
+        if (!btn) return;
+        activeDrama = btn.dataset.drama;
+        filterHost.querySelectorAll("button[data-drama]").forEach(b => {
+          const on = b.dataset.drama === activeDrama;
+          b.classList.toggle("on", on);
+          if (on) b.setAttribute("aria-current", "true"); else b.removeAttribute("aria-current");
+        });
+        renderList();
+      });
+    }
+    renderList();
   } catch (e) {
     fcount.textContent = "Episode guides could not be loaded.";
     host.innerHTML = UI.stateMsg("Could not load episode guides. Please try again.");
   }
 })();
-
