@@ -54,7 +54,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 11",
-      "collection": 28526
+      "collection": 36978
     }
   ],
   "1375156": [
@@ -71,12 +71,12 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 3",
-      "collection": 867406
+      "collection": 866350
     },
     {
       "date": "2026-10-26",
       "day": "Day 4",
-      "collection": 263074
+      "collection": 332805
     }
   ],
   "1400940": [
@@ -94,6 +94,11 @@ window.FA_DAYWISE = {
       "date": "2026-10-21",
       "day": "Day 3",
       "collection": 97200
+    },
+    {
+      "date": "2026-10-22",
+      "day": "Day 4",
+      "collection": 31696
     }
   ],
   "1153576": [
@@ -359,7 +364,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 4",
-      "collection": 27470
+      "collection": 29583
     }
   ],
   "1785611": [
@@ -394,6 +399,11 @@ window.FA_DAYWISE = {
       "date": "2026-10-25",
       "day": "Day 3",
       "collection": 264131
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Day 4",
+      "collection": 79239
     }
   ],
   "1389379": [
@@ -446,6 +456,11 @@ window.FA_DAYWISE = {
       "date": "2026-10-25",
       "day": "Day 10",
       "collection": 306392
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Day 11",
+      "collection": 132066
     }
   ],
   "1234139": [
@@ -503,6 +518,11 @@ window.FA_DAYWISE = {
       "date": "2026-10-25",
       "day": "Day 11",
       "collection": 2715267
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Day 12",
+      "collection": 998415
     }
   ],
   "1269325": [
@@ -629,7 +649,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-26",
       "day": "Day 25",
-      "collection": 85578
+      "collection": 110935
     }
   ]
 };

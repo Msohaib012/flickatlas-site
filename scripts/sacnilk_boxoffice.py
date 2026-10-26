@@ -609,11 +609,37 @@ def main():
         # Only the current day is overlaid from quicknews (it is the
         # fresher source for that day); completed days keep the
         # verified /movie/ card values, and quicknews fills any gap.
-        try:
-            rel_date = date.fromisoformat(rel)
-            cur_day = (today - rel_date).days + 1
-        except ValueError:
-            cur_day = None
+        # LIVE-DAY FIX (2026-10-26): cur_day comes from Sacnilk's own
+        # Day 1 date (the anchor), NOT from the TMDB release_date in
+        # published-titles.js. TMDB's date can be the global/premiere
+        # date while Sacnilk's Day 1 is the Indian theatrical release:
+        # Jailer 2's TMDB date is 2026-10-14 but Sacnilk Day 1 is
+        # 2026-10-15, so the old release-based cur_day was 13 (tomorrow,
+        # 404) instead of 12 (today) and the live figure was missed.
+        # Same off-by-N hits Clayface (+4d) and Street Fighter (+3d).
+        # The anchor is the parsed Day 1 date from the /movie/ page we
+        # just fetched; fall back to the release date only when the
+        # page has no Day 1. (build_rows uses the same anchor rule.)
+        anchor = None
+        if 1 in per_day:
+            year_hint = today.year
+            m = re.search(r"\b(\d{4})\b", per_day[1][0])
+            if m:
+                year_hint = int(m.group(1))
+            try:
+                anchor = parse_day_date(per_day[1][0], year_hint)
+            except Exception:
+                anchor = None
+        base = anchor
+        if base is None:
+            try:
+                base = date.fromisoformat(rel)
+            except ValueError:
+                base = None
+        cur_day = (today - base).days + 1 if base is not None else None
+        if anchor is not None and rel and anchor != date.fromisoformat(rel):
+            print(f"  sacnilk: {title}: Day 1 anchor {anchor} != "
+                  f"release {rel} — quicknews day from anchor")
         if cur_day is not None and cur_day >= 1:
             qn_html = fetch_quicknews(slug, cur_day)
             time.sleep(POLITE_DELAY)
@@ -625,6 +651,15 @@ def main():
                 if qn_per_day:
                     print(f"  sacnilk: {title}: quicknews Day {cur_day} "
                           f"table has {len(qn_per_day)} day(s)")
+                    if cur_day not in qn_per_day:
+                        print(f"  sacnilk: {title}: quicknews Day "
+                              f"{cur_day} table has NO row for today "
+                              f"({today.isoformat()}) — figure not "
+                              f"published yet")
+                else:
+                    print(f"  sacnilk: {title}: quicknews Day {cur_day} "
+                          f"has no summary table — today "
+                          f"({today.isoformat()}) not published yet")
                 if qn_adv is not None:
                     adv_day, adv_date_s, adv_cr = qn_adv
                     adv_date = parse_advance_date(adv_date_s, today)
@@ -643,6 +678,14 @@ def main():
                             print(f"  sacnilk: {title}: advance "
                                   f"Day {adv_day} ({adv_date.isoformat()}) "
                                   f"Rs{adv_cr:.2f} Cr")
+            else:
+                # VISIBLE missing-today log (2026-10-26): a failed
+                # quicknews fetch used to be silent, so a missing today
+                # looked like "no data" instead of "not published yet".
+                # fetch_quicknews already prints the HTTP status.
+                print(f"  sacnilk: {title}: quicknews Day {cur_day} "
+                      f"unavailable — today ({today.isoformat()}) not "
+                      f"on quicknews; /movie/ cards only")
         rows = build_rows(entry, per_day, url, today)
         print(f"  sacnilk: {title}: {len(rows)} rows from "
               f"{len(versions)} language version(s), "
@@ -690,5 +733,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
