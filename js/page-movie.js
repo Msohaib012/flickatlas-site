@@ -374,11 +374,6 @@
       }
     });
 
-    /* Explore More navigation (same as the show page): section links
-       + a search link for this title. Best effort, never blocks.
-       Placement is handled inside UI.mountTopSearches (user order
-       2026-10-26): right below the Story Summary, above Movie Facts. */
-    try { UI.mountTopSearches(main, [title]); } catch (_) {}
   } catch (e) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }

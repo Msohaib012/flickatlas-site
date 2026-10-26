@@ -577,60 +577,6 @@ const UI = (() => {
       <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. Territory and gross/net basis are not specified in this data. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"} — open any day for its own collection page.</p></div>`;
   }
 
-  /* Explore More contains navigation, not descriptive keywords or measured trends. */
-  function exploreLinksHtml(links) {
-    if (!links.length) return "";
-    return `<section class="section ts-block"><div class="section-head"><h2>Explore More</h2></div><p class="sec-sub">Jump to a section or search FlickAtlas for related records.</p><nav class="explore-grid" aria-label="Explore this page">${links.map(link => `<a class="explore-link" href="${esc(link.href)}"><span>${esc(link.label)}</span><span aria-hidden="true">→</span></a>`).join("")}</nav></section>`;
-  }
-  async function topSearchesHtml(entities) {
-    return exploreLinksHtml([...new Set((entities || []).map(x => String(x || "").trim()).filter(Boolean))].slice(0, 5).map(title => ({label:`Search “${title}”`,href:`/search?q=${encodeURIComponent(title)}`})));
-  }
-  /* templates (3rd arg): "Top Searches" phrases, e.g. "Jailer 2 box office
-     collection" — built by the caller from entities the page actually
-     resolved to. Rendered as search links after the section links. */
-  function mountTopSearches(main, entities, templates) {
-    if (!main) return;
-    const wrap = main.querySelector(".wrap") || main;
-    if (wrap.querySelector(".ts-block")) return;
-    const headings = [...main.querySelectorAll("h2,h3")].filter(heading => /facts|cast|crew|box office|where to watch|episode|filmography|related/i.test(heading.textContent));
-    const combinedCrew = headings.some(heading => /cast.*crew/i.test(heading.textContent));
-    const links = [], labels = new Set();
-    for (const heading of headings) {
-      const label = heading.textContent.trim();
-      if (combinedCrew && /^crew$/i.test(label) || labels.has(label.toLowerCase())) continue;
-      if (!heading.id) { let n = links.length + 1; while (document.getElementById(`explore-section-${n}`)) n++; heading.id = `explore-section-${n}`; }
-      links.push({label,href:`#${encodeURIComponent(heading.id)}`}); labels.add(label.toLowerCase());
-      if (links.length === 5) break;
-    }
-    const title = (entities || []).map(x => String(x || "").trim()).find(Boolean);
-    if (title) links.push({label:`Search “${title}”`,href:`/search?q=${encodeURIComponent(title)}`});
-    for (const t of (templates || [])) {
-      const phrase = String(t || "").trim();
-      if (!phrase || labels.has(phrase.toLowerCase())) continue;
-      links.push({label: phrase, href: `/search?q=${encodeURIComponent(phrase)}`});
-      labels.add(phrase.toLowerCase());
-      if (links.length >= 12) break;
-    }
-    if (!links.length) return;
-    /* USER ORDER 2026-10-26: Explore More (Jumps) sits right BELOW the
-       Story section when one exists; when there is no Story, it goes
-       higher up (after the first content block), never buried at the
-       bottom. (Never appendChild() the trailer — that would rip it out
-       of its own container and break the page layout.) */
-    const storyCard = wrap.querySelector("#story-summary") ||
-      [...wrap.querySelectorAll(".content-card")].find(el => {
-        const h = el.querySelector("h2");
-        return h && /^(story|story summary|the story so far)$/i.test(h.textContent.trim());
-      });
-    if (storyCard) {
-      storyCard.insertAdjacentHTML("afterend", exploreLinksHtml(links));
-      return;
-    }
-    const firstBlock = wrap.querySelector(".detail-hero, .content-card, .section");
-    if (firstBlock) firstBlock.insertAdjacentHTML("afterend", exploreLinksHtml(links));
-    else wrap.insertAdjacentHTML("beforeend", exploreLinksHtml(links));
-  }
-
   function posterCard(item, type, tag, rank, extraMeta) {
     const t = type || (item.media_type === "tv" ? "tv" : "movie");
     const href = t === "tv" ? `/show?id=${item.id}` : `/movie?id=${item.id}`;
@@ -783,7 +729,7 @@ const UI = (() => {
 
   return { esc, img, newsImg, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard,
-    skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, topSearchesHtml, mountTopSearches, dayNumOf, boPeriodData, boPeriodHtml,
+    skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, newsId, newsItemPath,
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
 })();

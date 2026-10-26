@@ -553,9 +553,6 @@
           ? `<div class="fact-row"><dt>${UI.esc(r.k)}</dt><dd>${UI.esc(r.v)}</dd></div>`
           : `<div class="fact-row"><dd>${UI.esc(r.v)}</dd></div>`).join("")}</dl></div>`;
     }
-    /* id="story-summary": the Explore More (Jumps) anchor — the
-       jumps block sits right below the Story, per the 2026-10-26
-       placement rule. */
     if (epInfo.summaryText) {
       epSummaryHtml = `<div class="content-card" id="story-summary" style="margin-top:14px"><h2>Story Summary</h2>
       ${epInfo.summaryText.split(/\n\s*\n/).map(p => `<p class="article-summary">${UI.escRich(p.trim())}</p>`).join("")}</div>`;
@@ -704,13 +701,10 @@
       }
     }
     if (tsTemplates.length) {
-      /* mountTopSearches only takes (main, entities) — a third templates
-         argument is silently dropped, so the phrase links are rendered
-         here as their own section instead of being passed to it. */
+      /* Top Searches phrases render here as their own section. */
       const topHtml = `<section class="section"><div class="section-head"><h2>Top Searches</h2></div>
         <p>${tsTemplates.map(t => `<a class="kw-chip" href="/search?q=${encodeURIComponent(t)}">${UI.esc(t)}</a>`).join(" ")}</p></section>`;
       main.querySelector(".wrap").insertAdjacentHTML("beforeend", topHtml);
-      UI.mountTopSearches(main, tsEntities);
     }
   }
 })();

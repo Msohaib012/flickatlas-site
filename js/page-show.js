@@ -425,7 +425,6 @@
       }
     });
 
-    try { UI.mountTopSearches(main, [name]); } catch (_) {}
   } catch (e) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this show. Please try again.")}</div>`;
   }
