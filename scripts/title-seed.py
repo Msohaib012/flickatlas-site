@@ -655,6 +655,20 @@ def main():
     # authentic TMDB trending list on every seeder run so the homepage
     # section stays fresh daily.
     refresh_trending(key, os.path.dirname(args.out), args.dry_run)
+
+    # OTT section (owner order 2026-10-27): rebuild js/ott-data.js from
+    # the just-written catalogue so new titles with providers join the
+    # OTT section automatically. Best-effort: a failure here never
+    # breaks the seeder run. Skipped on dry runs (nothing was written).
+    if not args.dry_run:
+        try:
+            import build_ott  # same scripts/ dir
+            build_ott.build(
+                os.path.join(os.path.dirname(args.out), "ott-data.js"),
+                args.out)
+        except Exception as e:
+            print(f"title-seed: ott-data rebuild failed ({e})",
+                  file=sys.stderr)
     return 0
 
 

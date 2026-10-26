@@ -610,6 +610,39 @@ const UI = (() => {
     </a>`;
   }
 
+  /* OTT card (owner order 2026-10-27): the posterCard layout plus the
+     streaming-platform logos + names and a date line. The date is the
+     title's RELEASE date (ott-data.js carries date_kind "release") and
+     is labelled as such — "Released 23 October 2026" for titles already
+     streaming, "Releasing 29 October 2026" for coming titles — never
+     as a streaming start date. opts: {coming, providers, tag}. */
+  function ottCard(item, opts) {
+    const o = opts || {};
+    const t = item.type === "tv" ? "tv" : "movie";
+    const href = t === "tv" ? `/show?id=${item.id}` : `/movie?id=${item.id}`;
+    const p = img(item.poster_path, "w342");
+    const title = titleOf(item);
+    const date = item.release_date || item.first_air_date || "";
+    const dateText = date
+      ? (o.coming ? `Releasing ${fmtDate(date)}` : `Released ${fmtDate(date)}`)
+      : "";
+    const provs = Array.isArray(o.providers) ? o.providers
+      : (Array.isArray(item.providers) ? item.providers : []);
+    const logos = provs.filter(pr => pr && pr.logo_path).map(pr =>
+      `<img class="ott-prov-logo" src="${img(pr.logo_path, "w92")}" alt="${esc(pr.name)}" title="${esc(pr.name)}" loading="lazy" decoding="async" onerror="this.remove()">`).join("");
+    const names = provs.map(pr => pr && pr.name).filter(Boolean).join(" · ");
+    return `<a class="card ott-card" href="${href}">
+      <span class="card-poster">${p
+        ? `<img src="${p}" alt="${esc(title)} poster" loading="lazy" decoding="async" onerror="this.remove()">`
+        : `<span class="noimg"><span>${esc(initials(title))}</span></span>`}
+      </span>
+      <span class="card-body"><span class="card-title">${esc(title)}</span>
+      <span class="card-meta">${esc(dateText)}${o.tag ? ` · ${esc(o.tag)}` : ""}</span>
+      ${logos || names ? `<span class="ott-prov-row">${logos}${names ? `<span class="ott-prov-names">${esc(names)}</span>` : ""}</span>` : `<span class="ott-prov-row"><span class="ott-prov-names">Streaming availability not reported</span></span>`}
+      </span>
+    </a>`;
+  }
+
   function skelCards(n = 6) {
     return Array.from({ length: n }, () => `<span class="card skel"><span class="card-poster sk"></span><span class="sk sk-line"></span><span class="sk sk-line short"></span></span>`).join("");
   }
@@ -728,7 +761,7 @@ const UI = (() => {
   }
 
   return { esc, img, newsImg, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
-    fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard,
+    fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, newsId, newsItemPath,
     relTime, chipRow, getParam, setParam, wireChips, applyFilter };
