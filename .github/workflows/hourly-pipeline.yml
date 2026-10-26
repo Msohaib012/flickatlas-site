@@ -67,6 +67,7 @@ jobs:
               "run_episode": hour in (19, 1, 7, 13) or overdue("episode_guides", 6),
               "run_title": hour == 18 or overdue("title_seed", 24),
               "run_sacnilk": hour == 20 or overdue("sacnilk_boxoffice", 24),
+              "run_celebrity": hour == 6 or overdue("celebrity_seed", 24),
               "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
               "run_stats_health": hour == 6 or overdue("stats_health", 24),
           }
@@ -152,7 +153,18 @@ jobs:
         continue-on-error: true
         run: python3 scripts/sacnilk_boxoffice.py --apply
 
-      # --- 7. publish panel-approved articles (always) -----------------
+      # --- 7. Celebrity Today (gated, daily 06:00 UTC) ------------------
+      # Refreshes js/celebrity-data.js from TMDB trending people. The
+      # file must be rewritten at least daily (the site only shows items
+      # <24h fresh). One run/day; the state gate catches up a dropped
+      # 06:00 run.
+      - name: Celebrity Today
+        id: celebrity
+        if: steps.decide.outputs.run_celebrity == 'true'
+        continue-on-error: true
+        run: python3 scripts/celebrity_seed.py --apply
+
+      # --- 8. publish panel-approved articles (always) -----------------
       - name: Publish approved articles
         id: publish
         continue-on-error: true
@@ -170,13 +182,13 @@ jobs:
             -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
 
-      # --- 8. rebuild news feed (always, AFTER all article writers) ---
+      # --- 9. rebuild news feed (always, AFTER all article writers) ---
       - name: Rebuild news feed
         id: feed
         continue-on-error: true
         run: python3 scripts/convert-news.py
 
-      # --- 9. GA4 traffic stats (always) -------------------------------
+      # --- 10. GA4 traffic stats (always) -------------------------------
       - name: GA4 traffic stats
         id: traffic
         continue-on-error: true
@@ -187,7 +199,7 @@ jobs:
           pip install google-analytics-data
           python3 scripts/stats-traffic.py
 
-      # --- 10. pipeline stats (gated, every 6h) -------------------------
+      # --- 11. pipeline stats (gated, every 6h) -------------------------
       # NOTE: scripts/stats-pipeline.py MUST be updated first — it
       # queries the Actions API for news-refresh.yml / auto-pipeline.yml
       # / publish.yml by filename (see DESIGN.md §7). Point it at
@@ -200,7 +212,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/stats-pipeline.py
 
-      # --- 11. site health (gated, daily 06:00 UTC) --------------------
+      # --- 12. site health (gated, daily 06:00 UTC) --------------------
       - name: Site health
         id: health
         if: steps.decide.outputs.run_stats_health == 'true'
@@ -214,7 +226,7 @@ jobs:
           pip install google-auth requests
           python3 scripts/stats-health.py
 
-      # --- 12. ONE ?v= bump (was up to 4 separate rewrites/hour) -------
+      # --- 13. ONE ?v= bump (was up to 4 separate rewrites/hour) -------
       - name: Bump asset version when content changed
         id: bump
         continue-on-error: true
@@ -227,7 +239,7 @@ jobs:
             find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
           fi
 
-      # --- 13. record per-step health + last-run times ------------------
+      # --- 14. record per-step health + last-run times ------------------
       - name: Write orchestrator state
         if: always()
         env:
@@ -237,6 +249,7 @@ jobs:
           GEMINI_OUTCOME: ${{ steps.gemini.outcome }}
           APPLY_OUTCOME: ${{ steps.applyauto.outcome }}
           SACNILK_OUTCOME: ${{ steps.sacnilk.outcome }}
+          CELEBRITY_OUTCOME: ${{ steps.celebrity.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
           TRAFFIC_OUTCOME: ${{ steps.traffic.outcome }}
@@ -246,6 +259,7 @@ jobs:
           RUN_EPISODE: ${{ steps.decide.outputs.run_episode }}
           RUN_TITLE: ${{ steps.decide.outputs.run_title }}
           RUN_SACNILK: ${{ steps.decide.outputs.run_sacnilk }}
+          RUN_CELEBRITY: ${{ steps.decide.outputs.run_celebrity }}
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
         run: |
@@ -267,6 +281,8 @@ jobs:
                              os.environ.get("TITLE_OUTCOME")),
               "sacnilk_boxoffice": (os.environ.get("RUN_SACNILK") == "true",
                                     os.environ.get("SACNILK_OUTCOME")),
+              "celebrity_seed": (os.environ.get("RUN_CELEBRITY") == "true",
+                                 os.environ.get("CELEBRITY_OUTCOME")),
               "stats_pipeline": (os.environ.get("RUN_STATS_PIPE") == "true",
                                  os.environ.get("STATS_PIPE_OUTCOME")),
               "stats_health": (os.environ.get("RUN_HEALTH") == "true",
@@ -296,7 +312,7 @@ jobs:
           print(f"orchestrator state written: {json.dumps(state)}")
           PYEOF
 
-      # --- 14. ONE commit (always runs, even if a step failed) ---------
+      # --- 15. ONE commit (always runs, even if a step failed) ---------
       - name: Commit if changed
         if: always()
         run: |
@@ -321,3 +337,4 @@ jobs:
             git pull --rebase
             git push
           fi
+
