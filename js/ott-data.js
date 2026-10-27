@@ -15,6 +15,32 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-10-28",
+      "date_kind": "digital",
+      "id": 1727734,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-29",
+      "date_kind": "digital",
+      "id": 1515692,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-29",
       "date_kind": "release",
       "id": 1657630,
@@ -34,11 +60,37 @@ window.FA_OTT = {
       "country": "IN",
       "date": "2026-10-30",
       "date_kind": "digital",
+      "id": 1290035,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-30",
+      "date_kind": "digital",
       "id": 1802464,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-31",
+      "date_kind": "digital",
+      "id": 1416310,
+      "providers": [
+        {
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
         }
       ],
       "type": "movie"

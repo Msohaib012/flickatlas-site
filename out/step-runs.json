@@ -468,6 +468,45 @@
      "detail": "87 stories, 0 duplicates removed, 81 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:34:14Z",
+    "run_id": "40587623714",
+    "status": "success",
+    "checked": {
+     "candidates": 210,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Jeremy Clarkson slams council delays over The Farmer’s Dog’s car park plans",
+      "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
+      "How A CBS News Insider Responded After Dan Rather Criticized The Company",
+      "I Have Never Been A Fan Of Sense And Sensibility, But The Latest Adaptation Inspired Me",
+      "Did Shia LaBeouf Have Beef With Hilary Duff And Lizzie McGuire? Co-Star Spilled Tea Decades Later",
+      "Alexander Skarsgård’s Wicker Co-Star Had A Funny (And Relatable) Reaction To His Full-Frontal Look",
+      "8 Forgotten Psychological Thrillers Based on Books That Are Perfect From Start to Finish",
+      "'Heated Rivalry's Connor Storrie Officially Eyes Major MCU Role",
+      "The 7 Greatest Samurai TV Shows, Ranked",
+      "Stephen King’s Weirdest Horror Remake Started With This 13-Episode Cult Classic",
+      "'Resident Evil' Officially Returns to Netflix This Weekend",
+      "Prime Video's 'Tomb Raider' Reboot Officially Scores Endorsement From Beloved Franchise Star",
+      "‘A Quiet Place’ Meets ‘Jurassic Park’ in Adam Driver’s Sci-Fi Free Streaming Hit",
+      "The BBC's Perfect 'The Rookie' Replacement Officially Sets U.S. Return",
+      "Netflix’s 'The Lincoln Lawyer' Will Officially Not Return in 2026",
+      "Forget ‘Game of Thrones,’ Brandon Sanderson's Beloved Book Series Could Be The New Hit Fantasy Show",
+      "Coyote vs. Acme Surprises Looney Tunes Fans With Oscar Campaign in Unexpected Category",
+      "Bizarre Fox TV Show With Steve-O & More Celebrities Gets Season 2 Renewal",
+      "RJ Mitte’s Mom Shares Heartbreaking Tribute to Breaking Bad Star: ‘We Are Lost’",
+      "Josh Hartnett & Ben Affleck Are Both Dominating Netflix 25 Years After Pearl Harbor"
+     ],
+     "updated": [],
+     "count": 122,
+     "detail": "124 stories, 1 duplicates removed, 86 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -674,6 +713,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T20:13:18Z",
     "run_id": "40575816743",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:34:15Z",
+    "run_id": "40587623714",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -904,6 +961,24 @@
      "detail": "now 6, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T21:34:43Z",
+    "run_id": "40587623714",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
@@ -1054,6 +1129,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1312,6 +1397,24 @@
      "detail": "+0 new rows, 0 updated rows, 196 unchanged"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T21:41:13Z",
+    "run_id": "40587623714",
+    "status": "success",
+    "checked": {
+     "candidates": 196,
+     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 192 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -1469,6 +1572,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1745,6 +1858,24 @@
      "detail": "api-news.json 86 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:41:15Z",
+    "run_id": "40587623714",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 82 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -1890,6 +2021,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2087,6 +2228,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -2223,6 +2374,23 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:34:15Z",
+    "run_id": "40587623714",
+    "status": "success",
+    "checked": {
+     "candidates": 0,
+     "detail": "daily cap 40/40 reached; batch skipped"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "cap"
    }
   ],
   "overseas_ai": [
@@ -2341,6 +2509,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2473,6 +2651,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -2649,6 +2837,21 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -2781,6 +2984,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -2899,6 +3112,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3025,6 +3248,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -3047,8 +3280,30 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "tavily_boxoffice": [
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T21:41:23Z",
+    "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T20:31:39Z"
+ "updated_at": "2026-10-27T21:41:23Z"
 }
