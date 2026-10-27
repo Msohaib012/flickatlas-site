@@ -1,46 +1,46 @@
 {
  "steps": {
   "apply_auto": {
-   "last_run": "2026-10-27T18:58:42Z",
+   "last_run": "2026-10-27T19:36:24Z",
    "last_status": "success"
   },
   "convert_news": {
-   "last_run": "2026-10-27T18:58:42Z",
+   "last_run": "2026-10-27T19:36:24Z",
    "last_status": "success"
   },
   "episode_guides": {
-   "last_run": "2026-10-27T14:00:22Z",
-   "last_status": "skipped"
+   "last_run": "2026-10-27T19:36:24Z",
+   "last_status": "success"
   },
   "fetch": {
-   "last_run": "2026-10-27T18:58:42Z",
+   "last_run": "2026-10-27T19:36:24Z",
    "last_status": "success"
   },
   "gemini_batch": {
-   "last_run": "2026-10-27T18:58:42Z",
+   "last_run": "2026-10-27T19:36:24Z",
    "last_status": "success"
   },
   "gemini_reviews": {
-   "last_status": "skipped",
-   "last_run": "2026-10-27T09:47:58Z"
+   "last_status": "success",
+   "last_run": "2026-10-27T19:36:24Z"
   },
   "metadata_refresh": {
    "last_status": "skipped"
   },
   "multisource_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-10-27T18:58:42Z"
+   "last_run": "2026-10-27T19:36:24Z"
   },
   "overseas_ai": {
    "last_status": "skipped",
    "last_run": "2026-10-27T08:57:58Z"
   },
   "providers_backfill": {
-   "last_run": "2026-10-26T02:00:00Z",
-   "last_status": "skipped"
+   "last_run": "2026-10-27T19:36:24Z",
+   "last_status": "success"
   },
   "publish": {
-   "last_run": "2026-10-27T18:58:42Z",
+   "last_run": "2026-10-27T19:36:24Z",
    "last_status": "success"
   },
   "sacnilk_boxoffice": {
@@ -53,10 +53,10 @@
   },
   "stats_pipeline": {
    "last_run": "2026-10-27T18:58:42Z",
-   "last_status": "success"
+   "last_status": "skipped"
   },
   "stats_traffic": {
-   "last_run": "2026-10-27T18:58:42Z",
+   "last_run": "2026-10-27T19:36:24Z",
    "last_status": "success"
   },
   "tavily_boxoffice": {
@@ -65,16 +65,16 @@
   },
   "title_seed": {
    "last_run": "2026-10-27T18:58:42Z",
-   "last_status": "success"
+   "last_status": "skipped"
   },
   "trending_weekly": {
-   "last_status": "success",
+   "last_status": "skipped",
    "last_run": "2026-10-27T18:58:42Z"
   },
   "version_bump": {
    "last_status": "success",
-   "last_run": "2026-10-27T18:58:42Z"
+   "last_run": "2026-10-27T19:36:24Z"
   }
  },
- "updated_at": "2026-10-27T18:58:42Z"
+ "updated_at": "2026-10-27T19:36:24Z"
 }

@@ -12,6 +12,29 @@
    entry. A critic average from BollyMovieReviewz is stored under
    "critic" (score_10 = raw/5 * 10) and shown beside the review. */
 window.FA_REVIEWS = {
+  "1046304": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 7.5,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 8.5,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "While the film leans more toward a deliberate and poignant spiritual road movie rather than an outright comedy, it grounds its entertainment in the everyday drama of an average Thai family. The narrative captures the natural charm of a squabbling yet endearing extended family navigating their pilgrimage. It finds its engaging moments in the relatable underbelly of ordinary life.",
+    "overall": 8.0,
+    "performances": "The cast of mostly first-time actors, featuring Amara Ramnarong, Surachai Ningsanond, Jirawut Chiwaruck, Yaneenan Jiraphatjittrin, and Klaichan Phunman, brings natural charm and chemistry to their roles. Surachai Ningsanond, known as an award-winning Elvis Presley impersonator in Thailand, plays Sakol with calm authority. The actors convincingly portray an extended family through absorbing conversations and quiet gestures.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In Sompot Chidgasornpongse's drama, a man takes his sick mother and nine family members on a single-day temple pilgrimage across contemporary Thailand. This poignant family road trip is born from a boss predicting the mother may die soon. The journey serves as a drama of forgiveness, a reckoning with personal faith, and a portrait of the diverging roles of Buddhism across generations.",
+    "strengths": [
+      "poignant family road trip",
+      "natural charm from first-time actors",
+      "excellent portrait of Buddhism across generations",
+      "absorbing conversations and quiet gestures"
+    ],
+    "verdict": "9 Temples to Heaven is a deeply reflective and spiritual road movie that successfully captures the everyday dynamics and faith of an ordinary Thai family. Backed by strong, natural performances and sensitive direction by Sompot Chidgasornpongse, it offers a rewarding and poignant watch. Recommended for audiences interested in thoughtful dramas about family, tradition, and modernity.",
+    "weaknesses": "At 140 minutes, the film's running time proves somewhat short of tension, and it does not always put its finger on the elements worth pursuing. The deliberate pace and slow-burn nature of the journey might test the patience of viewers looking for a tighter narrative drive."
+  },
   "1058424": {
     "categories": {
       "Action & Cinematography": 8.0,
@@ -35,6 +58,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Hope (2026) is a deeply demented and divisive alien invasion film that delivers high-octane spectacle and audacious thrills at the cost of narrative focus. Director Na Hong-jin takes major risks that pay off visually and action-wise during the first two hours, though the second half falters significantly. Recommended for sci-fi fans seeking sheer spectacle and monster movie action, provided they can stomach a messy and unresolved conclusion.",
     "weaknesses": "Despite a strong opening, the film suffers from a dramatic downturn from a great movie to a disappointing one as it loses focus. Every new idea demands more screen time with a whole lot of filler, resulting in a divisive second half that leaves audiences scratching their heads. By the end, the narrative fails to resolve its central conflicts, turning into trash for some viewers."
+  },
+  "1081010": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.5,
+      "Music & BGM": 7.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "The film primarily focuses on high-stakes courtroom drama and the gravity of historical criminal trials rather than heavy humor. Comedy elements are minimal, with brief comedic moments by Karunesh Talwar, though the core narrative remains grounded in a serious crime and drama genre.",
+    "overall": 7.5,
+    "performances": "Rajkummar Rao delivers a standout performance as public prosecutor Ujjwal Nikam, capturing the immense burden of the high-profile case. Wamiqa Gabbi, Jaideep Ahlawat, Sikandar Kher, Ashish Vidhyarthi, and Ritvik Sahore round out the cast with strong support, contributing significantly to the dramatic weight of the feature.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Prahaar: The Untold Story of Ujjwal Nikam follows public prosecutor Ujjwal Nikam as he takes on one of the most high-profile criminal cases in India's history during the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. The biographical drama revisits defining criminal trials in Indian history, exploring legal battles and Pakistan's role in sponsoring terrorism. Nikam must confront the immense personal and professional burden of a case that defines his legacy in his unwavering pursuit of justice.",
+    "strengths": [
+      "Honest portrayal of the 26/11 Mumbai terror attacks",
+      "Standout performances by Rajkummar Rao and Jaideep Ahlawat",
+      "Skillful navigation of a sensitive narrative",
+      "Avoidance of heavy-handed propaganda"
+    ],
+    "verdict": "Prahaar: The Untold Story of Ujjwal Nikam offers an honest, commendable look at a defining chapter in Indian legal history anchored by powerful lead performances. While pacing issues in the first half and some unnecessary family drama elements hold it back, it succeeds as a rare, propaganda-avoiding courtroom drama. Recommended for viewers interested in biographical crime dramas and high-stakes legal proceedings.",
+    "weaknesses": "Reviewers note that the first half of the film feels stretched and that unnecessary family drama parts tend to weigh down the pacing, suggesting a tighter runtime would have benefited the narrative."
   },
   "1084409": {
     "categories": {
@@ -104,6 +150,100 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Street Fighter delivers a loud, colorful, and surprisingly watchable video game adaptation that prioritizes a good time over strict narrative sense. While it has its storytelling shortcomings, strong stunt work and an engaging dynamic between Ryu and Ken make it worth a watch for fans of the franchise. It earns a solid recommendation for anyone looking for a fun, action-packed martial arts ride.",
     "weaknesses": "The film suffers from a lack of narrative coherence and an embrace of nonsensical storytelling that may test some viewers. With a refreshing disregard for tangible reality, the plot sometimes struggles to maintain a steady momentum across its runtime."
+  },
+  "1154730": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 8.0,
+      "Direction": 9.0,
+      "Music & BGM": 7.0,
+      "Performances": 9.0,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "The 145-minute film manages to be happy and funny while remaining heartbreaking, often doing so within the very same scenes. It captures school trip mechanics with an immersive approach based on improvised moments, reflecting the ups and downs of teenage life. The entertainment value stems from the naturalistic portrayal of youth culture, laughter, bravado, and first flings.",
+    "overall": 8.5,
+    "performances": "The film is beautifully acted by a talented cast that includes Colas Quignard, Antonia Buresi, Mitia Capellier-Audat, Suzanne Gerin, and Hadya Fofana. The actors deliver a sensitive and naturalistic portrayal of youth, grounding the shifting power dynamics and emotional volatility of adolescence. Their performances successfully capture the spontaneity of improvised moments and the bruising pressure points of teenage life.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation. These kids, members of a Latin class on a weeklong school trip, navigate the mercurial nature of young group dynamics, self-esteem, and power games. The narrative increasingly emphasizes a student named Toni who cruises on Grindr, pines after James, and ultimately reveals the film as a tragedy.",
+    "strengths": [
+      "immersion through improvised moments",
+      "sensitive direction by Marine Atlan",
+      "beautifully acted cast",
+      "captures complex teen dynamics",
+      "gorgeous southern light and atmosphere"
+    ],
+    "verdict": "Marine Atlan's sensitive debut is an immersive and moving exploration of youth that balances laughter with heartbreak over its 145-minute runtime. Anchored by wonderful acting and immense formal control, it is a devastating yet tender portrait of adolescence. Recommended for viewers seeking an authentic, beautifully observed drama about the complexities of growing up.",
+    "weaknesses": "Despite the strong overall reception, some elements of the tragedy arrive feeling somewhat weightless, inevitable, and perfunctory. Furthermore, for all the focus placed on him, the character of Toni may not feel memorably distinct to every viewer, which can make certain narrative beats land with less impact than intended."
+  },
+  "1176962": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 7.5,
+      "Direction": 9.0,
+      "Music & BGM": 7.0,
+      "Performances": 9.5,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "The film features a darkly funny exploration of identity and freedom rooted in its historical premise. While it is primarily an immaculately controlled folk tragedy, the clever subterfuge and subversion of patriarchal norms lend the narrative a sharp, understated entertainment value. It balances its tense agrarian setting with these witty undercurrents of gender privilege.",
+    "overall": 8.5,
+    "performances": "Sandra Hüller anchors the film with a blazing vitality, getting completely lost in her character's male persona with the aid of excellent prosthetics and make-up. Silently observant for much of the time, her performance is punctuated by startling moments of raging anger and distinct character tics. Supporting cast members such as Godehard Giese round out the ensemble in this sharp historical drama.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set just after the Thirty Years' War in a 17th-century German Protestant village, a former soldier named Rose arrives claiming to be the heir to an abandoned farmstead. Inspired by documented accounts of women pretending to be men in Europe, Rose seeks to live a normal life with the privileges of a man. As the soldier attempts to settle down and buy a stream, the villagers' suspicions grow, ultimately forcing a reckoning.",
+    "strengths": [
+      "Sandra Hüller's astonishing lead performance",
+      "Markus Schleinzer's confident direction",
+      "Striking black-and-white cinematography",
+      "A compelling exploration of gender privilege and historical tragedy"
+    ],
+    "verdict": "Markus Schleinzer's Rose is a striking and immaculately controlled period drama that benefits immensely from Sandra Hüller's commanding lead performance. Blending historical tragedy with sharp social commentary, it stands as a worthwhile and provocative viewing experience. Recommended for fans of thoughtful historical dramas and masterclass acting.",
+    "weaknesses": "While the film is told with confidence and brisk pacing, the heavy atmosphere and deceptive simplicity of the folk tragedy may test some viewers looking for faster narrative momentum. The looming historical weight and tragic shadow hanging over the narrative also mean the film resists traditional crowd-pleasing resolutions, keeping tension simmering rather than offering easy release."
+  },
+  "1178602": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.5,
+      "Music & BGM": 7.5,
+      "Performances": 8.5,
+      "Story & Screenplay": 8.0
+    },
+    "comedy": "While the film is an enigmatic drama rather than a traditional comedy, it offers a fascinating and highly diverting study of an unhappy family group. Its entertainment value stems from Petzoldian alienation and a strangely restorative, sun-dappled noir atmosphere. The tension arises from the psychological dynamics between characters rather than any humorous moments.",
+    "overall": 8.0,
+    "performances": "Paula Beer delivers a magnificent lead performance as a troubled young woman who feels something is missing in her life. She is strongly supported by Petzold regulars Barbara Auer and Matthias Brandt in their roles as parents deeply scarred by the death of their child. The main cast also features Enno Trebs and Philip Froissant, all contributing to the film's affecting portrayals.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Following a tragic car crash that claims the life of her boyfriend, piano student Laura is taken in by Betty, a witness to the accident who nurses her back to health. Living with Betty's family in the German countryside offers initial comfort, but as time passes, Laura begins to question their true intentions. Christian Petzold's enigmatic drama explores themes of letting go, unfolding with meandering mysteries and a quiet, unassuming resolution.",
+    "strengths": [
+      "Compact and masterful direction by Christian Petzold",
+      "Magnificent, affecting lead performance by Paula Beer",
+      "Engaging exploration of letting go and mystery",
+      "Atmospheric sun-dappled noir style",
+      "Strong supporting performances from Barbara Auer and Matthias Brandt"
+    ],
+    "verdict": "Christian Petzold has crafted another compact, elegant, and enigmatic drama that rewards patient viewers with strong acting and atmospheric tension. While its quiet resolution and unconventional narrative choices may not satisfy everyone, its masterclass in tone and performance makes it a worthwhile watch. Recommended for fans of thoughtful European drama and psychological mysteries.",
+    "weaknesses": "Some viewers may find that the film does not fully deliver on all of its narrative promises, featuring a quiet resolution and a rejection of traditional narrative climaxes. The meandering mysteries and pacing could leave audiences wanting a more conventional payoff. It treads familiar psychological ground that might feel somewhat constrained to those looking for faster-paced thrills."
+  },
+  "1186823": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "While primarily a biographical sports drama, the entertainment value stems from the unique premise of introducing sumo wrestling to an Indian setting. The film focuses on the protagonist's journey and her unconventional path rather than traditional comedic tropes. The narrative relies on the inspiring atmosphere of the sports world to keep viewers engaged.",
+    "overall": 6.5,
+    "performances": "Shriyam Bhagnani leads the cast as Hetal Dave, portraying India's first professional female sumo wrestler with a heartbreaking sincerity and determination. The supporting cast, featuring Chaitanya Sharma, Nitesh Pandey, and Anubha Fatehpuria, help ground the narrative in the protagonist's familial and societal struggles.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Directed by Jayant Rohatgi and inspired by the life of Hetal Dave, India's first professional female sumo wrestler, Sumo Didi follows a young woman discovering sumo by chance. Facing a steep road to improvement, she combats societal prejudice, body shaming, familial expectations, and financial hardships to achieve international sporting recognition, even traveling to Japan for rigorous training. The film unfolds with simplicity, presenting a unique underdog sports biographical tale.",
+    "strengths": [
+      "Unusual and rare protagonist rarely seen on screen",
+      "Inspired by the real-life story of Hetal Dave",
+      "Strong themes of body positivity and overcoming prejudice",
+      "Sincere and straightforward narrative storytelling"
+    ],
+    "verdict": "Sumo Didi is a sincere and earnest sports biographical drama that brings an unusual real-life Indian sumo wrestler to the screen. While it treads familiar territory and suffers from some predictable cliches, its focus on body positivity and a rare protagonist makes it worth a watch for fans of inspiring underdog stories.",
+    "weaknesses": "Despite its heartfelt sincerity and unique premise, some reviewers note that the film falls into a familiar, banal path and is let down by cliches. The traditional underdog setup occasionally struggles to rise above predictable storytelling beats."
   },
   "1195803": {
     "categories": {
@@ -199,6 +339,52 @@ window.FA_REVIEWS = {
     "verdict": "Drishyam: The Conclusion successfully provides the closure its premise demands while delivering thrilling moments for fans of the franchise. Despite a tiring finish and a formula that struggles not to show its age, it remains a worthwhile watch. It is recommended for those invested in the accumulated mythology of Vijay Salgaonkar.",
     "weaknesses": "The film faces the challenge of repeatedly revisiting the same crime, family, and cat-and-mouse formula, which risks showing its age. Reviewers noted a tiring finish, indicating that it might not be the most spellbinding or fitting farewell the franchise deserved."
   },
+  "1290035": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 7.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "The film functions as an old-fashioned family drama dressed up as a new-age entertainer that viewers describe as a fun movie with good comedy scenes. It relies heavily on its charm and entertainment value to keep the audience engaged through its premise and family dynamics.",
+    "overall": 6.5,
+    "performances": "The cast features strong contributions from Biju Menon, Sreenath Bhasi, Vinay Forrt, Grace Antony, and Ganapathi S. Poduval. Reviewers specifically highlight the good performances from Biju Menon and Pauly Valsan, with Menon's screen presence making the old-fashioned family entertainer watchable.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set against the coastal backdrop of Chellanam, Avaraachan & Sons follows Avarachan, a heavy-drinking, wayward, and rowdy father whose reckless actions frequently ignite trouble. The narrative explores his children and the various family and social relationships that shape their lives. It also touches upon the usual story of a son abandoned by his mother and his life over the years, ending with associated events.",
+    "strengths": [
+      "good performances",
+      "fun comedy scenes",
+      "Biju Menon's charm",
+      "enjoyable background score",
+      "coastal backdrop of Chellanam"
+    ],
+    "verdict": "Avaraachan & Sons is at best harmless if viewed with a lenient eye, offering a traditional family drama experience. While it features a familiar setup, the strong performances and fun comedic moments make it a decent watch for fans of the cast. Recommended as a casual, old-fashioned family entertainer.",
+    "weaknesses": "The film relies on a 'lot many times' seen usual story that can feel like an old-fashioned family drama dressed up as a new-age entertainer. Reviewers note it sometimes has a wafer-thin narrative that requires leniency from the audience, as it relies too heavily on lead charm to compensate for familiar plotting."
+  },
+  "1355228": {
+    "categories": {
+      "Action & Cinematography": 5.0,
+      "Comedy & Entertainment": 4.0,
+      "Direction": 4.0,
+      "Music & BGM": 6.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 3.0
+    },
+    "comedy": "As a dark and violent thriller dealing with a mother's trauma and abduction, the film does not focus on traditional comedy or lighthearted entertainment. Its tone remains grim, deeply unsettling, and uncomfortable to sit through rather than humorous. The entertainment value relies entirely on the tense premise of a desperate hunt.",
+    "overall": 4.5,
+    "performances": "The cast features Taapsee Pannu, Ishwak Singh, Mita Vashisht, Swastika Mukherjee, and Chhaya Kadam. Reviewers note that the acting is generally good with no complaints, showcasing Taapsee Pannu's intense rage as the lead mother.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Gandhari is a thriller directed by Devashish Makhija that follows a mother who loses both her eyesight and her daughter in a kidnapping. Taking matters into her own hands, she sets out to hunt down those responsible for her child's abduction. The narrative begins as a crime thriller with an interesting concept before quickly losing its way.",
+    "strengths": [
+      "Good acting from the cast",
+      "An interesting starting concept",
+      "Arresting reflection of society for the most part"
+    ],
+    "verdict": "Gandhari struggles to maintain its initial promise, descending into a messy second half despite solid lead performances. Viewers looking for a tightly wound thriller may find it a difficult watch. It is recommended primarily for hardcore fans of the cast.",
+    "weaknesses": "The script feels confused and stitched together, with logic going missing as the story quickly loses its way. Reviewers note that the thriller lacks anything remotely intriguing enough to keep viewers on the edge, rendering it a seriously weak film overall."
+  },
   "1371730": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -254,6 +440,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Udta Teer is a fun and entertaining spy comedy with a genuinely interesting premise. It doesn't maintain the same freshness throughout, but the performances and first-half humour make it a worthwhile watch. If you enjoy Ayushmann's comedy and quirky Bollywood entertainers, this one is worth giving a chance.",
     "weaknesses": "The second half becomes more serious and complicated, with multiple twists and identity changes that can become difficult to follow. Some songs slow down the momentum, and the film doesn't maintain the same comedic energy throughout."
+  },
+  "1377455": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.5,
+      "Music & BGM": 7.0,
+      "Performances": 8.5,
+      "Story & Screenplay": 8.0
+    },
+    "comedy": "As a short drama exploring a serious power dynamic in a school setting, the film does not focus on traditional humour or lighthearted entertainment value. Instead, its engagement comes entirely from the dramatic tension between the characters and the unfolding narrative. The premise drives the emotional weight rather than any comedic elements.",
+    "overall": 8.0,
+    "performances": "Lou Goossens delivers an amazing lead performance as fifteen-year-old Cas, bringing strong emotional depth to the screen. The cast also features Willem Herbots, Chinyere Brown, Sueli Besson, and Elliot Lafontaine supporting the production. The acting effectively grounds the central power struggle between student and trainee teacher.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Fifteen-year-old Cas poses for his school's trainee teacher and amateur photographer Jard in this 2025 Belgian short drama. As Cas becomes painfully aware of the distinct power imbalance between them, he attempts to reverse their dynamic. Directed by Jasper De Maeseneer, the narrative centers on this tense psychological struggle.",
+    "strengths": [
+      "Amazing lead performance by Lou Goossens",
+      "Compelling central premise about power dynamics",
+      "Effective direction by Jasper De Maeseneer",
+      "Tight 25-minute runtime"
+    ],
+    "verdict": "Shutterspeed is a compelling 25-minute Belgian drama that benefits greatly from Jasper De Maeseneer's direction and Lou Goossens' standout performance. It offers a tense look at power dynamics and makes for a worthwhile watch. Recommended for fans of character-driven short films.",
+    "weaknesses": "While the dramatic premise is strong, viewers might find that short-form dramas exploring psychological power struggles carry a familiar narrative setup. The brevity of a 25-minute runtime leaves limited room to fully expand on every nuance of the evolving relationship between Cas and Jard."
   },
   "1389172": {
     "categories": {
@@ -324,6 +533,29 @@ window.FA_REVIEWS = {
     "verdict": "Clayface is a gritty, R-rated horror throwback that gets the job done for Halloween with plenty of delicious squirms. Though it takes some time to find its groove, horror fans looking for a grotesque comic book adaptation should check it out.",
     "weaknesses": "Reviewers note that the film is underbaked and takes a while to find its groove. It can feel a bit tentative in exploring its horror territory and wants to tell a sympathetic villain origin story without fully trusting the audience to handle moral complexity."
   },
+  "1416310": {
+    "categories": {
+      "Action & Cinematography": 5.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 4.5,
+      "Music & BGM": 5.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 4.0
+    },
+    "comedy": "The film leans more heavily into its terrifying premise and thriller elements than any lighthearted humor. The entertainment value hinges on the tension of Aman's desperate situation with his boss and the supernatural threat he encounters. Reviewers note it functions as a creaky, crawling thriller with characters making questionable choices under pressure. Any enjoyment comes from watching the spiraling nightmare unfold rather than traditional comedic relief.",
+    "overall": 4.5,
+    "performances": "The cast features performances by Chandan Roy, Faisal Malik, Aamir Dalvi, and Dheer Hira. While overall viewer reactions to the film's structure and plot are mixed, the acting talent brings the frantic ride-share scenario to life. The ensemble navigates the escalating terror of the journey.",
+    "source": "FlickAtlas Review",
+    "story_plot": "The Last Ride is a thriller directed by Vijesh Rajan and starring Chandan Roy, Faisal Malik, Aamir Dalvi, and Dheer Hira. The plot follows Aman, a migrant ride-share driver in Mumbai who attempts to steal his exploitative boss's taxi to secure a dowry for his sister's wedding. However, his plan spirals into a nightmare when his last-minute passenger turns out to be a Chudail, a demonic witch.",
+    "strengths": [
+      "Compelling initial premise",
+      "Engaging supernatural twist",
+      "Solid acting from the main cast",
+      "Tense atmosphere"
+    ],
+    "verdict": "The Last Ride offers a dark, supernatural ride with an interesting migrant worker premise and an eerie witch encounter, but its execution stumbles. While the acting performances carry the weight of the journey, the uneven narrative may leave some viewers disappointed. It is recommended only for horror fans willing to overlook its structural flaws.",
+    "weaknesses": "The film struggles with a creaky, crawling thriller structure that can feel like a head-slapper with characters making questionable choices. It stumbles out of the gate and can leave a bad taste in the viewer's mouth by the end. The simplistic plot requires a lot of work to keep audiences intrigued throughout."
+  },
   "1423191": {
     "categories": {
       "Action & Cinematography": 7.5,
@@ -347,6 +579,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Resident Evil succeeds as a simple, exciting, and scary live-action video game adaptation directed by Zach Cregger. It provides a relentless good time that works well for both longtime fans and newcomers alike. Recommended for anyone looking for a fast-paced theatrical horror thrill ride.",
     "weaknesses": "While the film is a blast and delivers plenty of excitement, the mixture of horror and comedy can sometimes counteract the serious stakes of the survival plot. Additionally, some viewers might find that the premise leans heavily into familiar video game tropes and arcade-like limitations."
+  },
+  "1437703": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 7.0,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "As a drama and comedy blend, the film derives its light and dramatic moments from the unusual premise of an isolated woman forced to share her space with unexpected guests. The interactions between the characters drive the entertainment value of the narrative. While not a traditional laugh-out-loud comedy, the premise carries a unique charm based on the shifting dynamics in the apartment.",
+    "overall": 7.5,
+    "performances": "The film features a cast that includes Bastián Escobar, Teresa Sánchez, Hugo Ramírez, Enrique Arreola, and Liam Rivera. The performances anchor the unfolding drama between the tenants and their reluctant host. The actors help bring the nuanced, intimate premise to life without relying on melodrama.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Olga lives a strictly regulated life without attachments in a vast apartment block. Out of financial necessity, she rents a room in her apartment to a man who also sneaks in his nine-year-old son, prompting an unlikely bond to form. Her carefully controlled world begins to shift as their lives become intertwined against her will.",
+    "strengths": [
+      "Humbly poignant direction by Fernando Eimbcke",
+      "Affirms lineage with great children's auteurs like Lamorisse and Truffaut",
+      "Engaging central premise about unlikely bonds",
+      "Fresh score on Rotten Tomatoes"
+    ],
+    "verdict": "Flies is a humbly poignant drama directed by Fernando Eimbcke that delivers a delicate character study. It earns praise for its grounded approach and echoes the sensibilities of classic children's auteurs. Recommended for viewers looking for a quiet, character-driven story about unexpected connections.",
+    "weaknesses": "The film carries the risk of a familiar setup regarding reluctant roommates and unexpected friendships, which may feel predictable to some viewers. Because the narrative relies heavily on its intimate apartment dynamic, it has limited scope and may feel slight for those seeking broader cinematic conflict."
   },
   "1451944": {
     "categories": {
@@ -418,6 +673,75 @@ window.FA_REVIEWS = {
     "verdict": "Hanging by a Wire is a brisk and enthralling documentary-thriller that successfully captures a harrowing moment in northern Pakistan. While it leaves some questions unanswered and lacks broader context, its nail-biting tension and clever use of archival footage make it a worthwhile watch. Recommended for fans of fast-paced real-life survival stories.",
     "weaknesses": "Despite its gripping nature, reviewers point out that the film is not told thoroughly enough and craves proper context. Many questions and the broader background are left dangling due to a lack of deeper testimony, making it feel a bit rushed."
   },
+  "1497970": {
+    "categories": {
+      "Action & Cinematography": 5.5,
+      "Comedy & Entertainment": 4.5,
+      "Direction": 4.0,
+      "Music & BGM": 6.0,
+      "Performances": 5.0,
+      "Story & Screenplay": 3.5
+    },
+    "comedy": "The film relies on the chaotic rivalry of its central animated characters and a culture-clash premise. Reviewers note it as a loud and confusing Chinese cartoon featuring the Hanna-Barbera characters in a bizarre adventure. While some viewers feel it looks really fun, others find the humor exhausting and nonsensical.",
+    "overall": 4.5,
+    "performances": "The voice cast includes John Shang, Ruan Yifei, Jiang Wen, Shun Zi, and Lan Long, directed by Zhang Gang. The actors bring the animated characters and mythological setting to life within this bizarre culture-clash curio. The performances support the whimsical yet chaotic tone of the production.",
+    "source": "FlickAtlas Review",
+    "story_plot": "During a museum chase where Tom serves as a security guard trainee, Tom and Jerry activate a magical astral compass. This artifact transports the famously feuding cat and mouse to Golden City, a fantastical ancient Chinese world with magical gargoyles guarding a temple. Still holding the compass, Tom is initially mistaken for a god sent to protect the neighboring village.",
+    "strengths": [
+      "Familiar animated cat-and-mouse duo",
+      "Creative mythological setting",
+      "Colorful visual premise"
+    ],
+    "verdict": "Tom and Jerry: Forbidden Compass places the veteran Hanna-Barbera characters into an ill-fitting, chaotic narrative rooted in Chinese mythology. Due to its confusing plot and exhausting execution, viewers might want to skip this culture-clash curio unless they are intensely curious about the unusual premise.",
+    "weaknesses": "The film suffers from a nonsensical movie structure with no clear plot, delivering a loud, boring, exhausting, and confusing experience. Reviewers point out that it features messy and meaningless references to Chinese culture, feeling like a painful-to-watch version of the classic characters."
+  },
+  "1515692": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 8.5,
+      "Direction": 9.0,
+      "Music & BGM": 7.0,
+      "Performances": 9.0,
+      "Story & Screenplay": 9.0
+    },
+    "comedy": "The film blends its emotional core with plenty of humor, offering a fun viewing experience that keeps audiences engaged. Reviewers note that the story is often funny as the gangster is forced to confront bizarre and vulnerable situations while locked away. The inherent absurdity of the setup generates natural laughs without compromising the film's serious narrative themes.",
+    "overall": 8.5,
+    "performances": "The cast features exceptional performances, highlighted by the child artist who steals the show with an unbelievable display of talent. Lijomol Jose delivers a notable performance as Baththa's wife, Kanimma, alongside top cast members Vijay Sethupathi, Sai Prithviraj, Sahasra Sree, and Santhy Balachandran. Reviewers praise the beautiful casting and the incredible depth brought to the character dynamics.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set in 1986 Madras, the film follows a timid eight-year-old boy who accidentally traps a feared gangster inside a deserted school toilet for a few days. As the gangster faces hunger, loneliness, and vulnerability, an unlikely bond forms between the two that changes their lives forever. This wholesome and heartwarming premise delivers an emotionally resonant story about men and their fears.",
+    "strengths": [
+      "Wholesome and heartwarming story",
+      "Superb narration from the director",
+      "Unbelievable child artist performance",
+      "Brilliant writing and filmmaking",
+      "No dull or overdone moments"
+    ],
+    "verdict": "Baththa is a brilliant, emotionally resonant film that never compromises on its writing or filmmaking. With superb narration and outstanding performances across the board, it offers a refreshing and heartwarming take on unexpected bonds. Highly recommended for viewers looking for a meaningful and entertaining cinematic experience.",
+    "weaknesses": "While the film is largely praised for its tight execution and brilliant writing, a premise involving a prolonged confinement in a school restroom carries narrative risks of pacing fatigue. Such a singular, constrained setup requires careful handling to prevent the middle stretches from testing the audience's suspension of disbelief. Reviewers note that navigating this unconventional setup demands patience, though the payoff ultimately justifies the journey."
+  },
+  "1593350": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "The film leans primarily into emotional and dramatic beats rather than heavy humor, centering on the interpersonal relationships and personal growth of its characters. While web reviewers mention elements like a powerful story about grief and forgiveness, the entertainment value is driven by the romantic drama and the emotional journey of the protagonists. The premise offers an engaging look at past relationships and healing without relying on explicit comedic routines or specific jokes.",
+    "overall": 7.0,
+    "performances": "The cast features performances by Aegan, Sridevi Apalla, Femina George, Adhirchi Arun, and Subramanian Sethu under the direction of Yuvaraj Chinnasamy. While specific character portrayals are tied closely to the emotional narrative of romance, drama, and past grief, the actors effectively ground the complex relational dynamics. Web reviewers highlight that the project delivers a powerful story about forgiveness and emotional depth.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Haiku is a romantic drama directed by Yuvaraj Chinnasamy that explores second chances and healing. The story follows Mano, who was once immature and possessive in his relationship with his first love, Kodi, before long-distance struggles and insecurities ruined it. Years later, a more mature Mano meets Nivi, an independent girl recovering from a toxic relationship with Arul, and helps her rediscover true love. However, doubts and insecurities threaten their bond when Nivi learns of Mano's toxic past.",
+    "strengths": [
+      "powerful story about grief and forgiveness",
+      "engaging exploration of second chances",
+      "solid performances from the cast",
+      "thoughtful look at toxic pasts and healing"
+    ],
+    "verdict": "Haiku (2026) offers a heartfelt and emotionally resonant romantic drama about healing, forgiveness, and the complexities of second love. Driven by a capable cast including Aegan and Sridevi Apalla, it successfully navigates the heavy themes of past trauma and personal growth. Fans of emotional romantic dramas will find it worth a watch, provided they do not mind a familiar narrative structure.",
+    "weaknesses": "The film relies on a somewhat familiar romantic drama setup involving past insecurities and toxic relationships that may feel predictable to some viewers. Additionally, the narrative hurdles surrounding long-distance struggles and hidden pasts could lead to pacing issues in the second half. Web feedback also points to mixed thematic interpretations, reflecting a compact plot that forces viewers to parse the salient features of the story."
+  },
   "1606527": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -440,6 +764,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "418 delivers enough effective scares and a strong performance from Chaithra J Achar to satisfy horror fans looking for a decent Indian thriller. However, its half-hearted execution holds it back from greatness. It is worth a watch for genre enthusiasts, though expectations for the overarching story should be kept moderate.",
     "weaknesses": "Despite a promising start and effective scares, the film ultimately suffers from a half-hearted narrative structure. Reviewers note that the execution stumbles as the story progresses, making it feel less than fully realized."
+  },
+  "1649061": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 8.0,
+      "Music & BGM": 6.5,
+      "Performances": 8.5,
+      "Story & Screenplay": 8.0
+    },
+    "comedy": "As a drama centering on grief, modern conflict, and traditional compassion in Punjab, the film does not focus on humor or traditional comedic relief. Its entertainment value relies instead on its expansive narrative and tranquil picture of India's storied region. The tone remains serious and contemplative throughout its runtime.",
+    "overall": 7.5,
+    "performances": "The film features a talented cast including Naseeruddin Shah, Mita Vashisht, Suvinder Vicky, Diya Kamboj, and Harwinder Singh Aujla. Reviewers specifically highlight Naseeruddin Shah, noting that he shines and successfully reclaims the plurality of Punjab in Gurvinder Singh's poignant portrait.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set in present-day Punjab, Rehmat presents three interconnected stories adapted from short stories by acclaimed author Ajeet Cour. The narrative follows a woman who secretly shelters a wounded stranger in her home while his family endures grief and difficult choices. Meanwhile, a mysterious elderly man arrives in a village and calls himself God.",
+    "strengths": [
+      "Poignant portrait of Punjab's plurality",
+      "Strong central performances led by Naseeruddin Shah",
+      "Thoughtful adaptation of Ajeet Cour's short stories",
+      "Quiet tussle between traditional compassion and modern conflict"
+    ],
+    "verdict": "Gurvinder Singh's Rehmat is a poignant and tranquil drama that brings the plurality of Punjab to the screen with the help of a stellar cast. It serves as an antidote to fractured times through its exploration of traditional compassion versus modern conflict. Recommended for viewers who appreciate thoughtful, character-driven international cinema.",
+    "weaknesses": "While the film offers a tranquil and striking picture of its setting, its expansive narrative and quiet tone may test the patience of viewers looking for faster pacing. The interconnected stories also run the risk of feeling slightly dispersed across its 157-minute runtime."
   },
   "1654581": {
     "categories": {
@@ -493,6 +840,75 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Ali G: Who Iz I? brings back Sacha Baron Cohen's iconic character for a transatlantic mockumentary adventure about impending fatherhood. While it delivers scattered laughs and outrageous moments, its muddled satire and dated humor make it a mixed bag. Recommended for devoted fans of the character, though others may find its bad taste and tonal shifts trying.",
     "weaknesses": "The film struggles with muddled political satire and dated humor, presenting some scattered laughs that may not land for everyone. By turning Ali G into the doofus antihero of his own absurdist saga, the movie faces challenges that distance it from the guerrilla comedy style of previous outings."
+  },
+  "1728425": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "The film leans into its premise with the lighthearted lifestyle contrast of a privileged cinephile seeking adventure in his ancestral village. While search results and synopses do not detail specific jokes, the entertainment value stems from the playful pursuit of main-character energy.",
+    "overall": 6.5,
+    "performances": "The cast features Raghav Vartak, Dr. Nilesh Mane, Sudarshan Deshmukh, Vedika Kulkarni, and Atul Parchure. The actors bring the drama, adventure, and family dynamics to life as the protagonist navigates his new world and forms unlikely friendships.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Bored and privileged, a drama-hungry Gen Z cinephile believes his life has zero plot and leaves the city for his ancestral village. Seeking main-character energy, he hopes life will give him something worth talking about. Soon, an unlikely friendship, a new world, and one unexpected twist turn his own life into the story he has been waiting for.",
+    "strengths": [
+      "Interesting Gen Z protagonist premise",
+      "Engaging ancestral village setting",
+      "Solid ensemble cast",
+      "Blend of drama and adventure"
+    ],
+    "verdict": "Magazine (2026) offers a 110-minute journey of self-discovery, family, and adventure directed by Shubham Sanjay Shevade. It is a reasonable watch for those looking for a light dramatic premise, though viewers should expect a familiar narrative structure.",
+    "weaknesses": "The narrative relies heavily on a familiar fish-out-of-water setup which can lead to predictable beats. Without extensive critical commentary from reviewers on deeper thematic depth, the story risks treading well-worn paths."
+  },
+  "1756758": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 8.0,
+      "Direction": 8.5,
+      "Music & BGM": 6.5,
+      "Performances": 8.0,
+      "Story & Screenplay": 8.0
+    },
+    "comedy": "The film brings a super fun energy through its frantic time-loop premise and escalating workplace stress. Reviewers have praised its entertaining and lighthearted approach to a night gone completely wrong. The humor stems naturally from the piling disasters and Kunga's desperate attempts to handle the situation.",
+    "overall": 8.0,
+    "performances": "The cast features Tenzin Yeshi, Rinzin Ngodup, Stephanie Jeane, David Montalvo, and Francesca Gamba bringing the chaotic momo shop to life. Tenzin Yeshi also directs the project, steering the ensemble through the rapidly unfolding events. The performances keep the high-energy premise grounded and engaging.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Kunga faces a wildly chaotic night at a Queens momo shop just fifteen minutes before closing time. Between a homeless regular, his girlfriend bringing serious news, and immigration officers arriving for the Mexican chef, pressure mounts. When the clock strikes midnight, Kunga finds himself trapped in a time loop, reliving the same frantic fifteen minutes repeatedly.",
+    "strengths": [
+      "Super fun premise",
+      "Engaging time-loop concept",
+      "Charming shoestring budget execution",
+      "Lively ensemble cast"
+    ],
+    "verdict": "Midnight Momo is a super fun and inventive indie comedy that makes great use of its constrained setting. Led by Tenzin Yeshi and a dedicated cast, it delivers an entertaining ride through a sci-fi time loop. Recommended for fans of creative low-budget comedies.",
+    "weaknesses": "A familiar time-loop structure runs the risk of repeating repetitive beats if not handled tightly across its runtime. The frantic pacing required to maintain the fifteen-minute loop could potentially wear thin during the second half. Additionally, the micro-budget constraints mean viewers should not expect massive technical spectacles."
+  },
+  "1770836": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "The film leans into its drama and romance rather than overt humor, centering its entertainment value on the gripping premise of working-class life. The interactions between the characters drive the engagement without relying on traditional comedic relief. It maintains a serious tone as it navigates the emotional and moral complexities of its setting.",
+    "overall": 6.5,
+    "performances": "The cast features Ashwitha Hegde, Anjan Nagendra, Gopalkrishna Deshpande, Sharath Lohitashwa, and Veena Sundar bringing the working-class characters to life. Reviewers praise the film as an emotionally powerful experience, highlighting the dedication of the ensemble. Their portrayals ground the romantic and moral dilemmas central to the plot.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set in an industrial area and town on the Karnataka-Tamil Nadu border, Border Diaries (2026) explores the lives of people working in the region. The narrative focuses on emotional borders, love, morality, and survival amidst the struggles of working-class life. Characters like Manjula and Dore find love against this backdrop before crime enters the picture.",
+    "strengths": [
+      "emotionally powerful narrative",
+      "engaging working-class setting",
+      "strong cast performances",
+      "focus on moral and emotional borders"
+    ],
+    "verdict": "Border Diaries (2026) is an emotionally powerful and engaging drama that successfully captures the complexities of love and survival along the Karnataka-Tamil Nadu border. Backed by a dedicated cast, it offers a worthwhile experience for fans of grounded character-driven stories. Recommended for viewers looking for a heartfelt regional drama.",
+    "weaknesses": "While the premise offers a compelling look at border life, the setup can occasionally feel familiar or tread familiar thematic ground. The pacing and structure may risk stretching the narrative thin across its industrial backdrop."
   },
   "1772549": {
     "categories": {
@@ -570,6 +986,75 @@ window.FA_REVIEWS = {
     "verdict": "Hotel Utopia (2026) offers an intriguing documentary look at an abandoned mountain hotel and the people seeking a new home there. While it shares its name with various global resorts and party spots, viewers interested in the sociological premise will find an engaging premise. It is recommended for those curious about modern digital nomadism and socialist-era backdrops, though expectations should be managed regarding traditional narrative pacing.",
     "weaknesses": "The primary weakness lies in the potential confusion between the documentary's focus on an abandoned Bulgarian hotel and the numerous unrelated commercial hotels found in web search results. Additionally, a lack of detailed cast information limits traditional performance analysis."
   },
+  "1793054": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 5.5,
+      "Music & BGM": 6.0,
+      "Performances": 6.5,
+      "Story & Screenplay": 5.5
+    },
+    "comedy": "The film leans primarily into mystery, drama, psychological elements, and suspense rather than heavy humor. Its entertainment value relies heavily on the central disappearance mystery and the dramatic conflict surrounding the husband's search for help.",
+    "overall": 5.5,
+    "performances": "The film stars Varun Sandesh, Shweta Basu Prasad, Mohith, Praveen, and Jabardasth Sathya Sri. Varun Sandesh and Shweta Basu Prasad do well in their respective roles, delivering solid performances that help anchor the mysterious storyline.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Naa Wife Missing follows a newly married couple whose happy life takes a mysterious turn when the wife suddenly disappears. As the husband seeks help, doubts about her past and hidden secrets begin to surface. Directed by Swathi Prakash Mantripragada, the Telugu OTT thriller combines psychological elements, drama, emotions, conflict, and suspense.",
+    "strengths": [
+      "Engaging moments in the thriller",
+      "Neat twists",
+      "Good lead performances by Varun Sandesh and Shweta Basu Prasad",
+      "Interesting psychological and suspense themes"
+    ],
+    "verdict": "Naa Wife Missing is an okayish thriller featuring neat twists and commendable performances from Varun Sandesh and Shweta Basu Prasad. While it has some engaging moments, it falls short of its full potential due to a lack of emotional depth and a rushed runtime. It is worth a watch for fans of Telugu OTT thrillers looking for a quick mystery.",
+    "weaknesses": "The movie needed more emotional depth, and the decision to keep the runtime crisp was not a wise move, causing the overall impact to fall short. Additionally, the quality of the movie is not quite on par with some regional counterparts."
+  },
+  "1794929": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.5,
+      "Direction": 6.0,
+      "Music & BGM": 6.0,
+      "Performances": 7.5,
+      "Story & Screenplay": 5.5
+    },
+    "comedy": "As a drama framed around the 2002 NatWest Final and a young girl challenging societal expectations, the film focuses more on its historical and emotional coming-of-age premise than on heavy humor. Its entertainment value relies primarily on the fascinating premise of weaving cricket into a narrative about freedom and personal identity. The storytelling draws viewers into its cultural backdrop rather than relying on traditional comedic relief.",
+    "overall": 6.0,
+    "performances": "The cast features Plabita Borthakur, Ankur Vikal, Samidha Guru, Twisha Joshi, and Krishna Gokani, bringing life to the traditional setting and the central coming-of-age narrative. Reviewers on the web note that the actors' performances are incredible, standing out as a bright spot in the production. The emotional delivery helps ground Tara's journey against the backdrop of a nation finding its voice.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Doosra is a Hindi-language drama directed by Abhinay Deo that intertwines a coming-of-age saga with the iconic 2002 NatWest cricket final. It follows Tara, a young girl in a traditional Indian setting who challenges societal expectations, finding her truth and voice alongside a nation's belief in itself. A billion people and the young protagonist work to defy centuries of prejudice to discover their identity through cricket.",
+    "strengths": [
+      "fascinating narrative premise",
+      "incredible actor performances",
+      "strong thematic connection to cricket",
+      "compelling coming-of-age themes"
+    ],
+    "verdict": "Doosra presents an interesting experiment that weaves cricket and a young girl's personal liberation into a single narrative. While the incredible actor performances and fascinating premise offer plenty of intrigue, the film ultimately falls short of its ambitious goals. Viewers interested in sports-themed dramas and coming-of-age stories may still find it worth a look.",
+    "weaknesses": "Despite its interesting experiment and strong performances, reviewers note that the film ultimately falls short. Fashioned as a coming-of-age saga, the ambitious storytelling struggles to maintain its momentum, leading to a narrative that does not quite reach its full potential."
+  },
+  "1799668": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 8.5,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "While the film is classified primarily as a family drama rather than a traditional comedy, it maintains an engaging and entertaining atmosphere throughout its runtime. The narrative relies heavily on character tension and psychological friction rather than lighthearted jokes. The tone remains grounded in its intense desert setting.",
+    "overall": 8.0,
+    "performances": "The film features a talented cast including Yashpal Sharma, Alka Amin, Vivek Pareek, Bhavani Singh Chauhan, and Parveen Choudhary under the direction of Anand Singh Chouhan. Reviewers highlight that the performances are impressive and contribute significantly to the film's dramatic weight. The actors effectively convey the high-stakes psychological friction within their isolated household.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set against the vast expanse of the Thar desert, Dhood (Sandstorm) follows an isolated family whose desperate wishes and psychological friction trigger a dark domestic countdown. This atmospheric family drama threatens to reduce their household entirely into dust. Reviewers note that the film offers an entertaining experience with an engaging storyline.",
+    "strengths": [
+      "haunting desert-world setting",
+      "engaging storyline",
+      "impressive performances",
+      "atmospheric premise"
+    ],
+    "verdict": "Dhood (Sandstorm) is an intriguing, atmospheric, and promising film that deserves to be watched for its story, performances, and haunting desert-world setting. It provides an entertaining experience anchored by strong acting and a unique backdrop. Recommended for viewers who appreciate intense family dramas.",
+    "weaknesses": "While the film has many strengths, viewers should be mindful of potential pacing issues typical of intense family dramas set in isolated locations. The heavy psychological friction might feel overwhelming for audiences seeking lighter entertainment. Additionally, the dark domestic countdown leaves limited room for narrative relief."
+  },
   "791523": {
     "categories": {
       "Action & Cinematography": 8.5,
@@ -615,6 +1100,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Klara and the Sun offers an ambitious science fiction premise and a winsome lead performance from Jenna Ortega, but it ultimately struggles to maintain its momentum after a promising start. Due to its muddled plot threads and unfulfilled emotional resolutions, viewers looking for a cohesive dystopian drama may find it a disappointing adaptation.",
     "weaknesses": "After a promising first act, the film stumbles in perplexing and muddled ways as it tries to tie up its odd and jangling plot threads. Reviewers note that it never quite finds the emotional resolution it shoots for, with ambitious themes that ultimately go undelivered and spiritual symbolism that feels fumbled."
+  },
+  "869152": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.5,
+      "Direction": 6.0,
+      "Music & BGM": 6.0,
+      "Performances": 6.5,
+      "Story & Screenplay": 5.5
+    },
+    "comedy": "The film blends comedy with fantasy and thriller elements as the characters embark on their unpredictable journey. The entertainment value stems from the unusual partnership between a small-time gangster and a young programmer. While reviewers note mixed elements in storytelling, the premise offers an intriguing setup for the characters.",
+    "overall": 6.0,
+    "performances": "The cast features Jayasurya, Vinayakan, Adam Sabiq, Baby Jean, and Bhagath Manuel. Based on reviewer feedback, projects of this nature often benefit from a strong cast even when the writing faces criticism. The actors bring life to the dynamic between the gangster, the programmer, and the mysterious driver.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Titans is a 2026 fantasy, comedy, and thriller directed by Prince Joy, following small-time gangster Antony Yakuza as he teams up with young programmer Anwar for a major heist. They are joined by a mysterious driver named Rejimon, but Rejimon is not who he seems. Their simple crime soon turns into a strange and unpredictable journey where reality itself begins to blur.",
+    "strengths": [
+      "intriguing fantasy premise",
+      "great production quality",
+      "ambitious scope",
+      "strong cast"
+    ],
+    "verdict": "Titans (2026) is an ambitious fantasy and thriller directed by Prince Joy that showcases great production quality and a strong cast including Jayasurya and Vinayakan. While some aspects of the writing and execution feel inadequate, its unique blend of a heist and blurring reality makes it worth a look for fans of fantasy. Viewers looking for an unpredictable genre experiment may find it interesting despite its flaws.",
+    "weaknesses": "Reviewers of similar projects point out that inadequate or weak writing can hinder an ambitious concept. The execution occasionally struggles to maintain its momentum as the reality-blurring journey unfolds. This can lead to a preachy tone at its core that might not resonate with every viewer."
   },
   "969681": {
     "categories": {

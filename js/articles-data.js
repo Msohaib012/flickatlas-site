@@ -10215,5 +10215,248 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-26T16:00:31Z"
+  },
+  "ym70kw": {
+    "id": "ym70kw",
+    "type": "news",
+    "headline": "Bano Episode 15 — Watch on Geo TV",
+    "dek": "Bano episode 15 aired on 2026-10-27 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 15 aired on 2026-10-27 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=qmUSWiPJaaE"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 15 aired on 2026-10-27.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=qmUSWiPJaaE",
+      "YouTube views: 410,263."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/qmUSWiPJaaE/hqdefault.jpg",
+        "caption": "Bano Episode 15",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-27T17:00:24Z"
+  },
+  "1pqt1i5": {
+    "id": "1pqt1i5",
+    "type": "news",
+    "headline": "Hurmat Episode 8 — Watch on HUM TV",
+    "dek": "Hurmat episode 8 aired on 2026-10-27 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 8 aired on 2026-10-27 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=O5zs__9FJsM"
+        ]
+      },
+      {
+        "h": "About Hurmat",
+        "p": [
+          "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 8 aired on 2026-10-27.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=O5zs__9FJsM",
+      "YouTube views: 1,971,978.",
+      "TMDB: Hurmat (id 337670)."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": [
+        "Dananeer Mobeen",
+        "Shahveer Jaffery",
+        "Ali Tahir",
+        "Javed Sheikh",
+        "Anoushay Abbasi"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/O5zs__9FJsM/hqdefault.jpg",
+        "caption": "Hurmat Episode 8",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-27T16:00:27Z"
+  },
+  "16nnktg": {
+    "id": "16nnktg",
+    "type": "news",
+    "headline": "Uswah Episode 35 — Watch on Geo TV",
+    "dek": "Uswah episode 35 aired on 2026-10-27 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 35 aired on 2026-10-27 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=4bgABoFcScw"
+        ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Uswah ek khuddaar aur mehnati larki hai jo apni parhai aur ghar walon ko support karne ke liye kaam karti hai, aur us ka cousin Mahbir us se mohabbat karta hai. Lekin university mein us ki mulaqaat Essa se hoti hai jo pehle academic rival banta hai aur phir aik achanak mor ki wajah se Uswah ki zindagi badal jaati hai. Halaton ke tehet Uswah ko aik na chaahi relationship mein phansna parta hai jahan us ki Essa se lagataar laraai aur misunderstanding rehti hain. Waqt ke sath dono ke talluq mein naye imtehaan aur family tensions aati hain, jis se yeh dekhna baqi hai ke kya Uswah aur Essa kisi faislay tak pohnch paate hain ya nahi. Episode 35, 27 October 2026 ko Geo TV par nashar hui."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 35 aired on 2026-10-27.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=4bgABoFcScw",
+      "YouTube views: 2,134,333.",
+      "Story summary added 2026-10-27."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/4bgABoFcScw/hqdefault.jpg",
+        "caption": "Uswah Episode 35",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-27T15:00:38Z"
+  },
+  "1jeez6l": {
+    "id": "1jeez6l",
+    "type": "news",
+    "headline": "Khushi Episode 45 — Watch on HUM TV",
+    "dek": "Khushi episode 45 aired on 2026-10-27 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 45 aired on 2026-10-27 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=e0e5DJyyAIQ"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 45 aired on 2026-10-27.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=e0e5DJyyAIQ",
+      "YouTube views: 676,361."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/e0e5DJyyAIQ/hqdefault.jpg",
+        "caption": "Khushi Episode 45",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-27T15:00:03Z"
+  },
+  "1jslpyw": {
+    "id": "1jslpyw",
+    "type": "news",
+    "headline": "Izzat Episode 38 — Watch on ARY Digital",
+    "dek": "Izzat episode 38 aired on 2026-10-27 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 38 aired on 2026-10-27 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=P2r4Q7TaN5I"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 38 aired on 2026-10-27.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=P2r4Q7TaN5I",
+      "YouTube views: 22,834."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/P2r4Q7TaN5I/hqdefault.jpg",
+        "caption": "Izzat Episode 38",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-27T15:00:01Z"
+  },
+  "zidstc": {
+    "id": "zidstc",
+    "type": "news",
+    "headline": "Dastoor Episode 67 — Watch on Green TV",
+    "dek": "Dastoor episode 67 aired on 2026-10-27 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 67 aired on 2026-10-27 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=gXXtDYiNeLA"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 67 aired on 2026-10-27.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=gXXtDYiNeLA",
+      "YouTube views: 318,680.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/gXXtDYiNeLA/hqdefault.jpg",
+        "caption": "Dastoor Episode 67",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-27T14:45:26Z"
   }
 };

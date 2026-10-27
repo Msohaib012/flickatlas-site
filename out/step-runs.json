@@ -390,6 +390,45 @@
      "detail": "197 stories, 1 duplicates removed, 63 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T19:26:40Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 130,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "The Weird Reason Marvel Fans Think Deadpool Will Appear in Avengers: Doomsday",
+      "The 10 Greatest Vampire Thrillers of All Time, Ranked",
+      "Taylor Sheridan’s Ambitious TV Gamble Has Finally Paid Off",
+      "The Best of Korean Entertainment Officially Has a New Free Streaming Home",
+      "Alfred Hitchcock's Most Terrifying Movie Is Officially Getting a HBO Remake",
+      "Sabrina’s Melissa Joan Hart Cast as The Black Widow in New Serial Killer Movie",
+      "Celine Dion & Paul McCartney Join Forces for Idris Elba’s New Movie",
+      "Dwayne Johnson Proves He’s Disney+’s MVP Actor as 3 of His Movies Dominate Streaming",
+      "Pride and Prejudice Netflix Show Poster With Rumored 007 Actor Sets Trailer Release Date",
+      "Michael Chiklis Says Liam Neeson’s Gesture Made The Mongoose for Him | Interview",
+      "Jennifer Lawrence’s Hair Mask Initially Smelled So Bad Her Husband Issued an Ultimatum",
+      "One of Netflix's Most Popular Shows of All Time Crosses Major Milestone Ahead of Season 5",
+      "HBO's Record-Breaking Sci-Fi Western Loses Crown to Steamy New 8-Episode Thriller That's No. 1 Worldwide",
+      "8 Near-Perfect Apple TV Sci-Fi Shows That Will Hook You in the First 10 Minutes",
+      "Massive Superhero Horror Series Returns With Official New Adaptation",
+      "Netflix's New Dungeons & Dragons Series Is Making TV History",
+      "The New James Bond May Be Trading Muscle for Intelligence",
+      "The Last Of Us Season 3 Is Officially Switching Villains",
+      "New Stephen King-Celebrated Mystery Thriller Instantly Conquers Streaming After Just 1 Day",
+      "Final Fantasy 9: Integrity Officially Unveiled"
+     ],
+     "updated": [],
+     "count": 50,
+     "detail": "52 stories, 0 duplicates removed, 78 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -560,6 +599,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T18:52:29Z",
     "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T19:26:45Z",
+    "run_id": "40568906467",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -754,6 +811,24 @@
      "detail": "now 6, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T19:27:22Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 11,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -888,6 +963,16 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
@@ -1088,6 +1173,24 @@
      "detail": "+0 new rows, 11 updated rows, 131 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T19:32:36Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 142,
+     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 138 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -1199,6 +1302,46 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T19:36:15Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 84,
+     "detail": "released movies without a review; Tavily searches: 44"
+    },
+    "changed": {
+     "added": [
+      "9 Temples to Heaven (1046304)",
+      "Avaraachan & Sons (1290035)",
+      "Baththa (1515692)",
+      "Border Diaries (1770836)",
+      "Dhood (Sandstorm) (1799668)",
+      "Doosra (1794929)",
+      "Flies (1437703)",
+      "Gandhari (1355228)",
+      "Haiku (1593350)",
+      "La Gradiva (1154730)",
+      "Magazine (1728425)",
+      "Midnight Momo (1756758)",
+      "Miroirs No. 3 (1178602)",
+      "Naa Wife Missing (1793054)",
+      "Prahaar: The Untold Story of Ujjwal Nikam (1081010)",
+      "Rehmat (1649061)",
+      "Rose (1176962)",
+      "Shutterspeed (1377455)",
+      "Sumo Didi (1186823)",
+      "The Last Ride (1416310)",
+      "Titans (869152)",
+      "Tom and Jerry: Forbidden Compass (1497970)"
+     ],
+     "updated": [],
+     "count": 22
+    },
+    "reason": null
    }
   ],
   "convert_news": [
@@ -1417,6 +1560,24 @@
      "detail": "api-news.json 86 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T19:36:17Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 86,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 86 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -1530,6 +1691,32 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T19:26:45Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 16 new detected"
+    },
+    "changed": {
+     "added": [
+      "Bano Ep 15",
+      "Hurmat Ep 8",
+      "Uswah Ep 35",
+      "Khushi Ep 45",
+      "Izzat Ep 38",
+      "Dastoor Ep 67"
+     ],
+     "updated": [
+      "Uswah Ep 35"
+     ],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "title_seed": [
@@ -1703,6 +1890,16 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -1805,6 +2002,23 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T19:26:45Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": {
+     "candidates": 0,
+     "detail": "daily cap 40/40 reached; batch skipped"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "cap"
    }
   ],
   "overseas_ai": [
@@ -1903,6 +2117,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T18:58:42Z",
     "run_id": "40563697871",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2014,6 +2238,21 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 243,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
@@ -2161,6 +2400,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -2273,6 +2527,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -2371,6 +2635,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T18:58:42Z",
     "run_id": "40563697871",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2477,8 +2751,30 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "providers_backfill": [
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-27T19:36:24Z",
+    "run_id": "40568906467",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ]
  },
- "updated_at": "2026-10-27T18:58:42Z"
+ "updated_at": "2026-10-27T19:36:24Z"
 }
