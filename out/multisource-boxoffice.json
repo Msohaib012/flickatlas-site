@@ -364,8 +364,7 @@
           "overseas": {
             "crore": 2.5,
             "sources": {
-              "overseas-backfill": 2.5,
-              "sacnilk": 2.5
+              "overseas-backfill": 2.5
             },
             "value": 264131
           },
@@ -402,21 +401,24 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 7.8
+              "filmynewsnetwork": 7.8,
+              "moviemint": 38.6
             },
-            "value": 7.8
+            "value": 23.2
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 530
+              "filmynewsnetwork": 530,
+              "moviemint": 4
             },
-            "value": 530
+            "value": 267
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 11940
+              "filmynewsnetwork": 11940,
+              "moviemint": 402
             },
-            "value": 11940
+            "value": 6171
           }
         },
         "india": true,
@@ -1611,8 +1613,7 @@
           "overseas": {
             "crore": 0.25,
             "sources": {
-              "overseas-backfill": 0.25,
-              "sacnilk": 0.25
+              "overseas-backfill": 0.25
             },
             "value": 26413
           },
@@ -1648,21 +1649,24 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 4.9
+              "filmynewsnetwork": 4.9,
+              "moviemint": 2.1
             },
-            "value": 4.9
+            "value": 3.5
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 234
+              "filmynewsnetwork": 234,
+              "moviemint": 1
             },
-            "value": 234
+            "value": 118
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 2184
+              "filmynewsnetwork": 2184,
+              "moviemint": 6
             },
-            "value": 2184
+            "value": 1095
           }
         },
         "india": true,
@@ -2161,8 +2165,7 @@
             "crore": 1.0,
             "sources": {
               "overseas-ai": 1.0,
-              "overseas-backfill": 1.0,
-              "sacnilk": 1.0
+              "overseas-backfill": 1.0
             },
             "value": 105652
           },
@@ -2334,8 +2337,7 @@
           "overseas": {
             "crore": 0.15,
             "sources": {
-              "overseas-backfill": 0.15,
-              "sacnilk": 0.15
+              "overseas-backfill": 0.15
             },
             "value": 15848
           },
@@ -3442,8 +3444,7 @@
           "overseas": {
             "crore": 1.9,
             "sources": {
-              "overseas-backfill": 1.9,
-              "sacnilk": 1.9
+              "overseas-backfill": 1.9
             },
             "value": 200740
           },
@@ -3573,8 +3574,7 @@
           "overseas": {
             "crore": 0.05,
             "sources": {
-              "overseas-backfill": 0.05,
-              "sacnilk": 0.05
+              "overseas-backfill": 0.05
             },
             "value": 5283
           },

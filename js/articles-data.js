@@ -7139,5 +7139,208 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 01:49:48 +0000"
+  },
+  "ueedhs": {
+    "id": "ueedhs",
+    "type": "news",
+    "headline": "Maxxing Named Dictionary.com Word of the Year for 2026",
+    "dek": "Dictionary.com has officially crowned 'maxxing' as its 2026 Word of the Year, highlighting a cultural shift toward total optimization across various aspects of modern life.",
+    "body": [
+      {
+        "h": "Introduction to the Word of the Year",
+        "p": [
+          "Dictionary.com has officially crowned 'maxxing' as its Word of the Year for 2026. Defined as the practice of pursuing an activity to the fullest, the term reflects a broader cultural obsession with personal and professional optimization."
+        ]
+      },
+      {
+        "h": "Definition and Common Usage",
+        "p": [
+          "According to Dictionary.com, the term serves as a linguistic manifestation of a society that increasingly values optimization. It can be used independently or attached as a suffix to describe various lifestyle choices.",
+          "Social media users frequently employ derivatives like 'looksmaxxing' to describe efforts to improve physical appearance or 'tokenmaxxing' to refer to maximizing artificial intelligence use in the workplace."
+        ]
+      },
+      {
+        "h": "Historical Origins in Gaming",
+        "p": [
+          "The linguistic roots of maxxing trace back to terms like maximum, maximize, and max, along with older phrases like maxing out credit cards. These paved the way for the gaming strategy known as min-maxing, where players cultivate a character's strengths so excessively that their weaknesses become irrelevant."
+        ]
+      },
+      {
+        "h": "Evolution and Viral Spin-Offs",
+        "p": [
+          "Acquired by Gen Z and Gen Alpha lexicons, the term picked up an extra letter 'x' and evolved to function as a noun, verb, adjective, or adverb. Archived internet data indicates that related terms like moneymaxxing, statusmaxxing, and surgerymaxxing were already in circulation by 2021, following early iterations of looksmaxxing dating back to 2015."
+        ]
+      },
+      {
+        "h": "Mainstream Transition in 2025 and 2026",
+        "p": [
+          "Although viral spin-offs circulated in niche digital corners for years, the primary root word truly entered mainstream conversation by late 2025. Over the past year, searches for maxxing itself skyrocketed exponentially as the term began standing firmly on its own independent of specific compounds."
+        ]
+      },
+      {
+        "h": "Runners-Up for the 2026 Title",
+        "p": [
+          "Each year, Dictionary.com evaluates a shortlist of nominees before selecting a final winner. Maxxing competed against terms such as 'Affordability', which highlighted financial accessibility concerns, and 'Data center', which surged due to artificial intelligence developments."
+        ]
+      },
+      {
+        "h": "Other Contenders",
+        "p": [
+          "Additional nominees included 'Odyssey', a word capturing long wanderings that gained attention alongside Christopher Nolan’s film of the same name, and 'Unc', a Gen Z slang clipping of uncle used to describe someone perceived as out of touch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dictionary.com selected 'maxxing' as its 2026 Word of the Year to reflect a culture increasingly focused on optimization. The term evolved from gaming strategies and niche internet slang into a mainstream phenomenon accompanied by various viral spin-offs."
+        ]
+      }
+    ],
+    "facts": [
+      "Dictionary.com named 'maxxing' the Word of the Year for 2026.",
+      "Looksmaxxing had evidence of existing as far back as 2015.",
+      "Related terms like moneymaxxing, statusmaxxing, and surgerymaxxing were circulating by 2021 at the latest.",
+      "Nominees for the Word of the Year included Affordability, Data center, Odyssey, and Unc."
+    ],
+    "entities": {
+      "people": [
+        "Trisha Sengupta",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Odyssey"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/Maxxing_Dictionary_Com_Word_Of_The_Year_2026_1793066476999_uDlH_1793066477308_hMHG_8457552f-e257-489c-a3b8-b3021a178829_Hv4j.jpg",
+        "caption": "Maxxing Named Dictionary.com Word of the Year for 2026",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 07:33:40 +0530"
+  },
+  "z8hzgj": {
+    "id": "z8hzgj",
+    "type": "news",
+    "headline": "DC Comics To Crown A New Smartest Superhero As Mr. Terrific Surpasses Batman",
+    "dek": "Michael Holt is set to become the smartest character in the DC Universe with a cosmic upgrade in the upcoming Justice League Unlimited #27.",
+    "body": [
+      {
+        "h": "The Peak of Non-Powered Intellect",
+        "p": [
+          "In the expansive landscape of comic book heroes, characters who lack innate supernatural or technological abilities often rely on distinct attributes to survive. Among these, Batman stands as the most famous unpowered hero, utilizing his brilliant mind, exceptional fighting techniques, vast financial resources, and unyielding determination to police Gotham City.",
+          "Bruce Wayne has long held a reputation as one of the smartest minds in the entire DC Universe. Alongside other brilliant figures in the Bat Family such as Barbara Gordon and Tim Drake, various other clever heroes utilize their intellects instead of brute force, including Ted Kord as Blue Beetle, Michael Holt as Mr. Terrific, Renee Montoya as The Question, and John Henry Irons as Steel."
+        ]
+      },
+      {
+        "h": "Michael Holt Takes the Crown",
+        "p": [
+          "That hierarchy is about to shift dramatically in the coming months. Michael Holt, traditionally known as the third-smartest man on Earth since his introduction in 1997's Spectre #54, is scheduled to claim the number one spot.",
+          "Solicitations for January's Justice League Unlimited #27 indicate that his intellect will expand across the cosmos as he heads toward absolute godhood. This monumental shift arrives after a massive power-up on the planet Dronnda."
+        ]
+      },
+      {
+        "h": "The Source of Cosmic Enhancement",
+        "p": [
+          "The transformation began when Mr. Terrific absorbed the entire reservoir of powers contained within the Justice League power bank located on Dronnda. After effortlessly defeating Despero using these copied abilities, he made the controversial choice to retain the powers rather than returning them to the storage bank.",
+          "Explaining his decision to Guy Gardner and Hawkgirl, Michael noted that his brain now operates at super-speed and that keeping the abilities allows him to achieve the greatest good."
+        ]
+      },
+      {
+        "h": "A Dangerous Path Toward Godhood",
+        "p": [
+          "Despite his noble intentions, acquiring such immense capabilities appears to carry severe consequences. Solicitations warn that absolute power may corrupt him completely, leaving only the remaining members of the Justice League capable of holding him back.",
+          "Art accompanying the upcoming issue shows Mr. Terrific seated upon a throne featuring an upside-down omega symbol, with Ray Palmer standing on his shoulder, hinting at a darker future."
+        ]
+      },
+      {
+        "h": "Alignment With The Atom",
+        "p": [
+          "Ray Palmer, also known as The Atom, has been navigating his own troubling journey within the pages of Justice League Unlimited. His path ultimately intersects with Michael Holt as both heroes begin working toward shared goals.",
+          "Previously, Ray expressed strong doubts to Batman regarding the team's amnesty program for former supervillains, though his concerns were dismissed. He later attempted to convince several teammates that participants in the DC K.O. tournament were being manipulated by Darkseid."
+        ]
+      },
+      {
+        "h": "Potential Threat to the Multiverse",
+        "p": [
+          "The combination of Ray Palmer's growing paranoia and Mr. Terrific's emerging god complex creates a dangerous recipe for disaster. Batman and other heroes are reportedly alarmed by these developments, which could lead to direct conflict.",
+          "If Michael and Ray take actions they believe serve the greater protection of the multiverse, they might inadvertently assist Darkseid before the ultimate villain re-emerges from the shadows."
+        ]
+      },
+      {
+        "h": "Publication Details",
+        "p": [
+          "Fans won't have to wait much longer to see how this cosmic storyline unfolds. Justice League Unlimited #27 is scheduled for publication on Wednesday, January 27, by DC Comics.",
+          "The issue is written by Mark Waid with artwork provided by Dan Mora, continuing the creative direction of the ongoing series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mr. Terrific is set to surpass Batman as the smartest hero in the DC Universe due to a massive power enhancement on the planet Dronnda. This cosmic upgrade pushes him toward godhood and potential corruption, aligning him with the increasingly paranoid Atom in a storyline releasing in January."
+        ]
+      }
+    ],
+    "facts": [
+      "Adam Holmes published the story on October 26, 2026.",
+      "Michael Holt was introduced in 1997's Spectre #54.",
+      "Justice League Unlimited #27 will be released on Wednesday, January 27.",
+      "Justice League Unlimited #27 is written by Mark Waid with art by Dan Mora."
+    ],
+    "entities": {
+      "people": [
+        "Adam Holmes",
+        "Mark Waid",
+        "Dan Mora",
+        "Bruce Wayne",
+        "Barbara Gordon",
+        "Tim Drake",
+        "Ted Kord",
+        "Michael Holt",
+        "Renee Montoya",
+        "John Henry Irons",
+        "Terry Sloane",
+        "Guy Gardner",
+        "Hawkgirl",
+        "Ray Palmer",
+        "Airwave",
+        "Black Canary",
+        "Doctor Occult",
+        "Darkseid",
+        "Scott Snyder",
+        "James Tynion IV",
+        "Brian Michael Bendis",
+        "Gardner Fox",
+        "Keith Giffen",
+        "J.M. DeMatteis",
+        "Grant Morrison",
+        "Joe Kelly",
+        "Geoff Johns",
+        "Jim Cheung",
+        "Jorge Jiménez",
+        "Mike Sekowsky",
+        "Dick Dillin",
+        "Kevin Maguire",
+        "Howard Porter",
+        "Doug Mahnke",
+        "Jim Lee",
+        "Ivan Reis",
+        "Jason Fabok"
+      ],
+      "titles": [
+        "Justice League Unlimited",
+        "Justice League Unlimited #27",
+        "Spectre #54"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/batman-cv1-variant-dell-otto.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "DC Comics To Crown A New Smartest Superhero As Mr. Terrific Surpasses Batman",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 02:00:28 GMT"
   }
 };
