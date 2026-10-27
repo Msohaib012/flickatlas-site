@@ -1,0 +1,42 @@
+{
+ "days": [
+  {
+   "date": "2026-10-27",
+   "fetch_new": 70,
+   "gemini_drafts": 2,
+   "published_today": 58,
+   "posts_total": 204,
+   "approved": null,
+   "rejected": null,
+   "per_category": {
+    "Box Office": 0,
+    "Awards": 1,
+    "Trailers": 3,
+    "Music / OST": 1,
+    "Episodes": 3,
+    "Upcoming releases": 0,
+    "OTT / Streaming": 6,
+    "TV & Dramas": 0,
+    "Celebrity news & events": 1,
+    "Movies": 51,
+    "Entertainment viral": 0
+   },
+   "hours_fetch": {
+    "21": 70
+   },
+   "hours_gemini": {
+    "13": 2
+   }
+  }
+ ],
+ "heatmap": {
+  "1": {
+   "21": 70
+  }
+ },
+ "guards": {
+  "last_report_hash": "75967c9d7fde5cb6a7b14297069e6402bd33854e",
+  "last_gemini_generated": "2026-10-27T08:49:05Z"
+ },
+ "updated_at": "2026-10-27T16:16:27Z"
+}
