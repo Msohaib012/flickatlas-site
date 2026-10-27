@@ -312,6 +312,45 @@
      "detail": "69 stories, 1 duplicates removed, 56 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T17:52:10Z",
+    "run_id": "40554360943",
+    "status": "success",
+    "checked": {
+     "candidates": 385,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Bigg Boss 20: Kushal Tanwar REACTS To Arishfa's Taunt: Mujhe Padhai Karna Ka Mauka...",
+      "Koffee With Karan 9 Episode 3 Release Date: Who Are The Guests? What To Expect From Karan Johar Show New Ep?",
+      "Bigg Boss 20 Episode 52 Written Update: Scout Nominates Love Gill, Arishfa Slams Gullu Over Education Dig",
+      "EXCLUSIVE! Suraj Sonik On Celebrity Security Amid Tiger Shroff Attack: Safety Shouldn't Be A Privilege...",
+      "Rutba Episode 7 Release Time In India: Will Hadi Lock Horns With Meer Over Housing Society Issue?",
+      "Netaji Subhas Chandra Bose's grandnephew says 'Fauzi' teaser 'ought to be pulled down'",
+      "SRK and Kareena Kapoor reunite for ‘King’ song shoot in Mumbai",
+      "Eminem’s ex-employee pleads guilty to copyright infringement over $50K leak",
+      "Esha Deol chooses father Dharmendra when asked about the perfect husband in Bollywood",
+      "Salim Merchant buys commercial property in Mumbai’s Santacruz West for Rs 12.85 crore",
+      "Udta Teer box office collection day 5: Ayushmann Khurrana, Sara Ali Khan’s spy comedy faces another weekday test as it crosses  ₹25.76 crore",
+      "Jailer 2 box office collection day 13: Rajinikanth's action entertainer slows down after strong second weekend, earns  ₹6.96 crore on 2nd Tuesday",
+      "pretty tough to stop those guys mitchell santner reacts after new zealands loss to india in 3rd t20i 3077137.html",
+      "photo gallery from ranbir kapoor ramayana to ayushmann khurrana yeh prem mol liya 5 films to watch this november 3223115",
+      "EXCLUSIVE: Kanika Maheshwari’s GG Turns Everyday Conversations Into Lessons In Awareness; Actress Says, “Intelligence Is Also About Knowing What to Do When It Matters Most”",
+      "i lived my premkatha with salman khan nyrraa m banerji reveals how she first met salman khan",
+      "uttar pradesh cm yogi adityanath laughing reaction viral over comedian harsh gujral up crime jokes video tmovf dskc 2681699 2026 10 27",
+      "balika vadhu fame navika kotia calls off engagement to businessman mazen mody dating another girl tmovh 2681718 2026 10 27",
+      "dune part three final trailer timothee chalamet zendaya face off in epic conclusion of denis villeneuve trilogy article 156418085",
+      "bts v kim taehyung takes turn to flaunt jungkooks camera skills in brand new photos army in love with reverse pov article 156417612"
+     ],
+     "updated": [],
+     "count": 297,
+     "detail": "310 stories, 1 duplicates removed, 75 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -446,6 +485,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T16:10:16Z",
     "run_id": "40537843667",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T17:52:11Z",
+    "run_id": "40554360943",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -604,6 +661,24 @@
      "detail": "now 5, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T17:52:11Z",
+    "run_id": "40554360943",
+    "status": "success",
+    "checked": {
+     "candidates": 10,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 5, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -698,6 +773,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T16:16:27Z",
     "run_id": "40537843667",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -866,6 +951,24 @@
      "detail": "+0 new rows, 4 updated rows, 138 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T17:56:58Z",
+    "run_id": "40554360943",
+    "status": "success",
+    "checked": {
+     "candidates": 142,
+     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "+0 new rows, 13 updated rows, 129 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -953,6 +1056,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T16:16:27Z",
     "run_id": "40537843667",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1139,6 +1252,24 @@
      "detail": "api-news.json 87 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T17:57:00Z",
+    "run_id": "40554360943",
+    "status": "success",
+    "checked": {
+     "candidates": 86,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 86 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -1228,6 +1359,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-27T16:16:27Z",
     "run_id": "40537843667",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1352,6 +1493,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -1434,6 +1585,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "overseas_ai": [
@@ -1512,6 +1673,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T16:16:27Z",
     "run_id": "40537843667",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1599,6 +1770,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T16:16:27Z",
     "run_id": "40537843667",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -1720,6 +1901,21 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -1807,6 +2003,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -1885,6 +2091,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T16:16:27Z",
     "run_id": "40537843667",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1971,8 +2187,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T17:57:09Z",
+    "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T16:16:27Z"
+ "updated_at": "2026-10-27T17:57:09Z"
 }
