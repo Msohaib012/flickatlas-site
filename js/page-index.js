@@ -114,23 +114,25 @@
       return map;
     };
     const trackerPromise = loadTracker();
-    /* TV order 2026-10-27: Spotlight, Coming Soon and OTT include TV
-       series alongside movies (Box Office stays movies-only). `type`
-       is "movie" | "tv" | "all" (default "all" so the Release Calendar,
-       which does not pass a type, keeps its old mixed pool). TV series
-       are NOT split by the Bollywood/World industry tabs — the 13
-       published series are Pakistani dramas (industry "pakistani"),
-       which match neither tab, so a TV filter that kept the industry
-       gate would always show empty. Movies keep the industry gate.
-       Streaming-first MOVIES stay out of Spotlight (the earlier
-       exclusion order stands); TV series are a different content type
-       and belong here even when they stream. */
+    /* TV order 2026-10-27, revised 2026-10-27 (owner order): the
+       Movie/TV Type filter lives ONLY in OTT now — Spotlight and
+       Coming Soon are movies-only, so no homepage UI passes "tv" or
+       "all" to them any more. `type` is "movie" | "tv" | "all"
+       (default "all" so the Release Calendar, which does not pass a
+       type, keeps its old mixed pool). TV series ARE split by the
+       Bollywood/World industry tabs here (fix 2026-10-27): the old
+       rule let TV bypass the industry gate, so Bollywood + TV showed
+       the 13 Pakistani dramas — the bug the owner reported. There is
+       no Bollywood TV series in the catalogue, so an industry-gated
+       TV view is honestly empty instead of showing the wrong
+       industry's dramas. Streaming-first MOVIES stay out of
+       Spotlight (the earlier exclusion order stands). */
     const publishedFor = (kind, industry, type = "all") => {
       const ind = industry === "international" ? "world" : "bollywood";
       const items = pubAll().filter(x => x && x.poster_path && inIndustry(x, ind));
       const byType = (list) => type === "movie" ? list.filter(x => typeOf(x) === "movie")
         : type === "tv" ? list.filter(x => typeOf(x) === "tv") : list;
-      const releasedTv = () => pubAll()
+      const releasedTv = () => items
         .filter(x => x && x.poster_path && typeOf(x) === "tv" && isReleased(x)).sort(byNewest);
       if (kind === "spotlight") {
         /* Owner order 2026-10-26: show 10-15 on the homepage (was 4-5:
@@ -248,23 +250,25 @@
       <a class="see-all" href="${href}">See All →</a></div>
       ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
-    /* Homepage filter row (TV order 2026-10-27, corrected 2026-10-27):
-       Industry + Type as .fa-select in-page dropdowns side by side in
-       ONE horizontal line (.home-filter-row) — never chips, never a
-       native <select>. Used by Spotlight, Coming Soon and OTT only;
-       Box Office and the Release Calendar keep the chip switcher.
-       Default type is Movies (the sections' current view is unchanged
-       on load); TV series are one tap away. */
+    /* Homepage filter row (TV order 2026-10-27, corrected 2026-10-27,
+       revised 2026-10-27 owner order): Industry + Type as .fa-select
+       in-page dropdowns side by side in ONE horizontal line
+       (.home-filter-row) — never chips, never a native <select>.
+       OTT keeps BOTH dropdowns; Spotlight and Coming Soon are
+       movies-only, so they get the Industry dropdown alone
+       (withType=false) and no Type dropdown. Box Office and the
+       Release Calendar keep the chip switcher. Default type is
+       Movies (the sections' current view is unchanged on load). */
     const TYPE_OPTIONS = [{ value: "movie", label: "Movies" }, { value: "tv", label: "TV Series" }, { value: "all", label: "All" }];
     const INDUSTRY_OPTIONS = [{ value: "bollywood", label: "Bollywood" }, { value: "international", label: "World Cinema" }];
-    const homeFilterRow = (kind) => `<div class="home-filter-row" data-filter-row="${kind}">
+    const homeFilterRow = (kind, withType = true) => `<div class="home-filter-row" data-filter-row="${kind}">
       <div class="filter-select" role="group" aria-labelledby="${kind}IndLabel"><span id="${kind}IndLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}IndTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}IndOptions" aria-labelledby="${kind}IndLabel ${kind}IndValue"><span class="fa-select-value" id="${kind}IndValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}IndOptions" role="listbox" aria-labelledby="${kind}IndLabel" hidden></div></div></div>
-      <div class="filter-select" role="group" aria-labelledby="${kind}TypeLabel"><span id="${kind}TypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}TypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}TypeOptions" aria-labelledby="${kind}TypeLabel ${kind}TypeValue"><span class="fa-select-value" id="${kind}TypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}TypeOptions" role="listbox" aria-labelledby="${kind}TypeLabel" hidden></div></div></div>
+      ${withType ? `<div class="filter-select" role="group" aria-labelledby="${kind}TypeLabel"><span id="${kind}TypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}TypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}TypeOptions" aria-labelledby="${kind}TypeLabel ${kind}TypeValue"><span class="fa-select-value" id="${kind}TypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}TypeOptions" role="listbox" aria-labelledby="${kind}TypeLabel" hidden></div></div></div>` : ""}
     </div>`;
     const bollyReleased = publishedFor("spotlight", "bollywood", "movie");
-    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${homeFilterRow("spotlight")}<p class="sec-sub">Movies and TV series running now, newest first; filter by industry and type.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
+    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<p class="sec-sub">Movies running now, newest first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
     const bollySoon = publishedFor("soon", "bollywood", "movie").slice(0, HOME_LIMITS.soon);
-    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${homeFilterRow("soon")}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
+    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${homeFilterRow("soon", false)}<p class="sec-sub">Most awaited first; dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
 
     /* ---------- Lollywood: Pakistani released titles, fresh-first (falls
        back to all released, same as the other rails), newest first. The
@@ -985,13 +989,15 @@
       window.addEventListener("popstate", () => activate(new URL(location.href).searchParams.get(key) === "international" ? "international" : "bollywood", false));
     });
     /* Homepage dropdown filters (TV order 2026-10-27, corrected
-       2026-10-27): Spotlight, Coming Soon and OTT filter by Industry +
-       Type with the .home-filter-row dropdowns above — one row, never
-       chips. Box Office and the Release Calendar keep the chip
-       switcher wired just above. Default type is Movies. The See All
-       link carries the type (?t=tv / ?t=all) so the See All page opens
-       on the same view; Movies is the See All default, so no param is
-       needed for it. */
+       2026-10-27, revised 2026-10-27 owner order): OTT filters by
+       Industry + Type with the .home-filter-row dropdowns above —
+       one row, never chips. Spotlight and Coming Soon are
+       movies-only (Industry dropdown alone — no Type dropdown, so
+       state.type stays "movie" and their See All links carry no ?t=
+       param). Box Office and the Release Calendar keep the chip
+       switcher wired just above. The OTT See All link carries the
+       type (?t=tv / ?t=all) so the /ott page opens on the same view;
+       Movies is the See All default, so no param is needed for it. */
     const typeLabel = (t) => t === "tv" ? "TV Series" : t === "all" ? "All" : "Movies";
     const typeParam = (t) => t === "movie" ? "" : `&t=${t}`;
     document.querySelectorAll("[data-filter-row]").forEach(row => {
@@ -1022,8 +1028,8 @@
           ? `/movies?f=${industry}&s=recent&seeall=1${typeParam(type)}`
           : `/most-awaited?f=${industry}${typeParam(type)}`;
         section.querySelector(".sec-sub").textContent = kind === "spotlight"
-          ? "Movies and TV series running now, newest first · " + industryLabel(industry) + " · " + typeLabel(type)
-          : "Most awaited first; dates may change · " + industryLabel(industry) + " · " + typeLabel(type);
+          ? "Movies running now, newest first · " + industryLabel(industry)
+          : "Most awaited first; dates may change · " + industryLabel(industry);
         const result = section.querySelector("[data-results]");
         const items = kind === "spotlight" ? publishedFor(kind, industry, type) : publishedFor(kind, industry, type).slice(0, HOME_LIMITS.soon);
         result.innerHTML = items.length
@@ -1038,7 +1044,9 @@
         history.pushState(null, "", u);
         render();
       });
-      UI.mountFaSelect(selects[1], TYPE_OPTIONS, state.type, (v) => { state.type = v; render(); });
+      /* Spotlight / Coming Soon have no Type dropdown (movies-only) —
+         selects[1] is undefined there; mounting it would throw. */
+      if (selects[1]) UI.mountFaSelect(selects[1], TYPE_OPTIONS, state.type, (v) => { state.type = v; render(); });
       if (state.industry !== "bollywood") render();
     });
     /* Wiring steps are guarded individually: a failure here must never
