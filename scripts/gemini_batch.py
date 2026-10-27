@@ -714,6 +714,17 @@ def main():
     if today_count >= daily_cap:
         print(f"daily cap reached ({today_count}/{daily_cap} today) — "
               "nothing to publish, skipping batch.")
+        if step_runs is not None:
+            # Record the REAL reason: without this the aggregate step
+            # synthesizes "no-new-data" for the run and the cap stays
+            # invisible in the panel. (Owner decision: raise vs keep.)
+            step_runs.record(
+                "gemini_batch", status="success",
+                checked={"candidates": 0,
+                         "detail": f"daily cap {today_count}/{daily_cap} "
+                                   "reached; batch skipped"},
+                changed={"added": [], "updated": [], "count": 0},
+                reason="cap")
         return 0
     # The batch may only fill the remaining room under the cap.
     batch_size = min(batch_size, daily_cap - today_count)

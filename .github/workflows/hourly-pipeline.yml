@@ -78,6 +78,10 @@ jobs:
               # fresh providers) + catch-up if a Sunday was missed.
               "run_metadata": (now.weekday() == 6 and hour == 18)
                               or overdue("metadata_refresh", 168),
+              # Daily OTT providers backfill: 02:00 UTC + 24h overdue
+              # catch-up. Seeded with an old last_run so the first run
+              # after this lands fires once, then it runs daily.
+              "run_providers": hour == 2 or overdue("providers_backfill", 24),
           }
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               for k, v in flags.items():
@@ -154,7 +158,11 @@ jobs:
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          BATCH_SIZE: '4'
+          # Batch size 2 (the script's designed pace): with 4/run the
+          # 40/day cap was exhausted by ~09:00 UTC and the site went
+          # stale for 15h. At 2/run the same 40 articles spread across
+          # the whole day. DAILY_CAP itself is unchanged (owner call).
+          BATCH_SIZE: '2'
           DAILY_CAP: '40'
           RANK_COUNT: '100'
         run: python3 scripts/gemini_batch.py
@@ -171,6 +179,21 @@ jobs:
       # only, no API calls; writes only when changed). title-seed.py
       # also rebuilds it on its gated run; this hourly step covers
       # catalogue changes from any other step (apply-auto, backfill).
+      # --- 5b. Refresh OTT providers (daily) ------------------------
+      # Backfill TMDB watch-providers into js/published-titles.js so
+      # the OTT rebuild below sees fresh providers. The seeder only
+      # bakes providers for NEW titles; titles published before the
+      # providers feature (2026-10-26) have none, so OTT stays thin
+      # without this. Runs 02:00 UTC + 24h overdue catch-up. The
+      # script writes only when something changed.
+      - name: Refresh OTT providers (daily)
+        id: providers
+        if: steps.decide.outputs.run_providers == 'true'
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/backfill_providers.py --apply
+
       - name: Rebuild OTT data
         id: ott
         continue-on-error: true
@@ -403,6 +426,8 @@ jobs:
           RUN_TRENDING: ${{ steps.decide.outputs.run_trending }}
           RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
           METADATA_OUTCOME: ${{ steps.metadata.outcome }}
+          RUN_PROVIDERS: ${{ steps.decide.outputs.run_providers }}
+          PROVIDERS_OUTCOME: ${{ steps.providers.outcome }}
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
@@ -439,6 +464,8 @@ jobs:
                                os.environ.get("HEALTH_OUTCOME")),
               "metadata_refresh": (os.environ.get("RUN_METADATA") == "true",
                                    os.environ.get("METADATA_OUTCOME")),
+              "providers_backfill": (os.environ.get("RUN_PROVIDERS") == "true",
+                                     os.environ.get("PROVIDERS_OUTCOME")),
           }
           for name, (ran, outcome) in gated.items():
               rec = steps.setdefault(name, {})
@@ -502,6 +529,8 @@ jobs:
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
           RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
+          RUN_PROVIDERS: ${{ steps.decide.outputs.run_providers }}
+          PROVIDERS_OUTCOME: ${{ steps.providers.outcome }}
         run: python3 scripts/step_runs.py --aggregate
 
       # --- 13c. Record daily history (always, never fatal) --------------

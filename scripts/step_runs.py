@@ -93,6 +93,7 @@ STEP_FILES = {
     "stats_health": ("Stats / Health", ["js/stats-health.json"]),
     "metadata_refresh": ("Spotlight / Coming Soon / Most Awaited",
                          ["js/published-titles.js"]),
+    "providers_backfill": ("OTT", ["js/published-titles.js"]),
 }
 
 
@@ -205,6 +206,7 @@ def aggregate(path=DEFAULT_PATH):
         ("stats_pipeline", "RUN_STATS_PIPE", "STATS_PIPE_OUTCOME"),
         ("stats_health", "RUN_HEALTH", "HEALTH_OUTCOME"),
         ("metadata_refresh", "RUN_METADATA", "METADATA_OUTCOME"),
+        ("providers_backfill", "RUN_PROVIDERS", "PROVIDERS_OUTCOME"),
     ]
     for step, flag_env, outcome_env in plan:
         recs = steps.get(step) or []
