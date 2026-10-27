@@ -117,6 +117,45 @@
      "detail": "152 stories, 2 duplicates removed, 77 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T12:52:19Z",
+    "run_id": "40506965660",
+    "status": "success",
+    "checked": {
+     "candidates": 228,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Gondhal trailer out: Santosh Davakhar’s Oscar-submitted film to release in seven languages on November 13, 2026",
+      "Sumo Didi: From Mumbai's Oval Maidan To Japan- 5 Milestones That Shaped Hetal Dave's Sumo Wrestling Career",
+      "EXCLUSIVE! Rohit Chaudhary On Fans Calling Him 'Vertical King' After Rickshaw Romeo's Success: I Always Say...",
+      "The Odyssey Worldwide Box Office: Set To Wrap Up Its Theatrical Run With A Staggering Global Haul",
+      "Udta Teer Worldwide Box Office Day 4: Ayushmann Khurrana & Sara Ali Khan’s Film Crosses 30 Crore Mark Globally!",
+      "Resident Evil Box Office: Zach Cregger’s Hit Helps Franchise Beat Pokémon To Become The 2nd Biggest Video Game Adaptation",
+      "cid director bp singh passes away at 77 after suffering a heart attack 86811.html",
+      "imran khan gets relief as bombay high court extends protection until november 2_ 86812.html",
+      "'Ramayana' makers release BTS video with peek at theme park, museum and more",
+      "Alia Bhatt, Raha spotted in Goa while Ranbir promotes Ramayana: PIC",
+      "Vignesh Shivan misses Dhanush, calls him father figure",
+      "‘Obsession’ Hindi OTT release: Kriti, Varun lend their voices to Hindi version; where to watch",
+      "All you need to know about the docuseries ‘The One About Matthew Perry’",
+      "Anand Deverakonda sticks up for brother Vijay Deverakonda, amplifies post claiming Ranabaali's performance ‘slaps negativity in face’",
+      "Scoop | Sila co-stars Harshvardhan Rane and Karan Veer Mehra unfollow each other on social media",
+      "Robert Pattinson confirms The Batman Part II filming has resumed, thanks Steven Soderbergh for helping Matt Reeves amid his break over family matter",
+      "Janhvi Kapoor says Shikhar Pahariya took break from studies in London and moved to Juhu to be near her after Sridevi’s death",
+      "Ranbir Kapoor has hilarious explanation for Sai Pallavi choosing to become actor over a doctor on Amitabh Bachchan's KBC 18. Watch",
+      "Music Review: Nickelback is in familiar form on cameo-heavy 'Everything Under the Sun'",
+      "Keerthy Suresh says she could have played Gangubai Kathiawadi, praises Alia Bhatt"
+     ],
+     "updated": [],
+     "count": 153,
+     "detail": "159 stories, 0 duplicates removed, 69 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -161,6 +200,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T11:52:19Z",
     "run_id": "40499152321",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T12:52:20Z",
+    "run_id": "40506965660",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -229,6 +286,24 @@
      "detail": "now 5, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T12:52:20Z",
+    "run_id": "40506965660",
+    "status": "success",
+    "checked": {
+     "candidates": 10,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 5, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -273,6 +348,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T11:57:05Z",
     "run_id": "40499152321",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -333,6 +418,24 @@
      "detail": "+0 new rows, 11 updated rows, 127 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T12:57:00Z",
+    "run_id": "40506965660",
+    "status": "success",
+    "checked": {
+     "candidates": 138,
+     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 127 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -370,6 +473,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T11:57:05Z",
     "run_id": "40499152321",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -430,6 +543,24 @@
      "detail": "api-news.json 87 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T12:57:02Z",
+    "run_id": "40506965660",
+    "status": "success",
+    "checked": {
+     "candidates": 87,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 87 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -458,6 +589,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-27T11:57:05Z",
     "run_id": "40499152321",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -532,6 +673,16 @@
      "count": 18
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -560,6 +711,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T11:57:05Z",
     "run_id": "40499152321",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -596,6 +757,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
@@ -624,6 +795,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T11:57:05Z",
     "run_id": "40499152321",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -675,6 +856,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -707,6 +903,21 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 64,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
@@ -735,6 +946,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T11:57:05Z",
     "run_id": "40499152321",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -771,8 +992,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T12:57:12Z",
+    "run_id": "40506965660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T11:57:05Z"
+ "updated_at": "2026-10-27T12:57:12Z"
 }
