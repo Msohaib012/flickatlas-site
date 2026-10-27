@@ -1686,6 +1686,12 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .editorial-grid { gap: 10px; }
 .editorial-card { min-height: 0; padding: 13px 14px 12px 17px; border-radius: 12px; box-shadow: 0 2px 10px #07332e0b; }
 .editorial-card::before { width: 2px; inset-block: 11px; }
+
+/* Owner order 2026-10-27: no green side line on Trending News cards
+   (/news #newsWrap + homepage #homeNews). Other editorial-card and
+   .news-item surfaces keep their accent. */
+#newsWrap .editorial-card::before,
+#homeNews .editorial-card::before { display: none; }
 .editorial-card__title,
 .editorial-card .news-txt b { font-size: .9rem; font-weight: 650; line-height: 1.45; }
 .editorial-card__meta,
@@ -2029,6 +2035,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .rv-sw{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
 .rv-sw h3{margin-top:14px}
 @media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}
+
 
 
 
