@@ -10160,5 +10160,60 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 13:40:44 +0530"
+  },
+  "10y6rf6": {
+    "id": "10y6rf6",
+    "type": "news",
+    "headline": "Hurmat Episode 7 — Watch on HUM TV",
+    "dek": "Hurmat episode 7 aired on 2026-10-26 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 7 aired on 2026-10-26 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=w6hU2MPkgik"
+        ]
+      },
+      {
+        "h": "About Hurmat",
+        "p": [
+          "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
+        ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Yeh drama mohabbat, ghuroor aur rishton ki aazmaish ki aik kahani hai, jahan izzat ki sakht shartoun aur dil ki khwahishon ke darmiyan kashmakash dikhayi gayi hai. Chhupe huwe raaz aur galatfehmiyan nazuk rishton ko kamzor kar deti hain aur qurbaniyan haqeeqat se takrati hain. Kya waqt ke sath taqdeer tute huwe rishton ko jor payegi ya sab ke dilon par gehri chhor jayegi? Episode 7, 26 October 2026 ko HUM TV par nashar hui."
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 7 aired on 2026-10-26.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=w6hU2MPkgik",
+      "YouTube views: 7,711,798.",
+      "TMDB: Hurmat (id 337670).",
+      "Story summary added 2026-10-27."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": [
+        "Dananeer Mobeen",
+        "Shahveer Jaffery",
+        "Ali Tahir",
+        "Javed Sheikh",
+        "Anoushay Abbasi"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/w6hU2MPkgik/hqdefault.jpg",
+        "caption": "Hurmat Episode 7",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-26T16:00:31Z"
   }
 };

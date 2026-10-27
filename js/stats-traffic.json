@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-27T12:57:10Z",
+  "generated": "2026-10-27T14:00:22Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 3,
-    "pageviews": 102,
-    "sessions": 7,
-    "avg_session_seconds": 1024.2
+    "users": 5,
+    "pageviews": 125,
+    "sessions": 10,
+    "avg_session_seconds": 921.5
   },
   "last7": {
-    "users": 15,
-    "pageviews": 444,
-    "sessions": 41,
-    "avg_session_seconds": 1169.2
+    "users": 17,
+    "pageviews": 467,
+    "sessions": 44,
+    "avg_session_seconds": 1135.9
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 113,
-      "avg_time_seconds": 1298.4
+      "views": 135,
+      "avg_time_seconds": 1236.1
     },
     {
       "path": "/movie",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 40,
-      "users": 15
+      "sessions": 43,
+      "users": 17
     },
     {
       "source": "(not set)",
@@ -98,19 +98,23 @@
       "users": 9
     },
     {
+      "country": "Germany",
+      "users": 2
+    },
+    {
+      "country": "Pakistan",
+      "users": 2
+    },
+    {
       "country": "(not set)",
       "users": 1
     },
     {
-      "country": "Germany",
+      "country": "India",
       "users": 1
     },
     {
       "country": "Netherlands",
-      "users": 1
-    },
-    {
-      "country": "Pakistan",
       "users": 1
     },
     {
@@ -129,7 +133,7 @@
     },
     {
       "device": "mobile",
-      "users": 5
+      "users": 7
     }
   ],
   "per_post": {}

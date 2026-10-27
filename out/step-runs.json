@@ -156,6 +156,45 @@
      "detail": "159 stories, 0 duplicates removed, 69 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T13:54:59Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": {
+     "candidates": 250,
+     "detail": "RSS/Atom items across 139 sources; 20 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Imran Khan gets interim relief as Bombay High Court puts FRRO’s ‘Leave India Notice’ on hold till November 2",
+      "Meethe Mein Kya Hai: Amit Trivedi Strikes Nostalgic Chord; Brings Festive Cheer With ‘Ichak Dana Bichak Dana’",
+      "Love In Disguise Episode 4 Dailymotion: Where & How To Watch Love In Disguise Ep 4 With English Subtitles?",
+      "Rise And Fall 2 Written Update Oct 27 Ep 32: Swara’s Husband Praises Shehzad Poonawalla; Shreya Criticise Him",
+      "Which Are Malaika Arora's Favourite Places To Visit In Abu Dhabi? Filmibeat TripTales EXCLUSIVE",
+      "Ramayana Box Office USA Premiere Advance Sales VS Dhurandhar 2 Pre-Sales: Ranbir Kapoor Or Ranveer Singh Who Performed Better With 9 Days Remaining!",
+      "Avengers: Doomsday North America Box Office: Marvel’s December Blockbuster Could Rewrite History With The Biggest Domestic Debut Ever",
+      "The Pitt Actor Noah Wyle Named People Magazine’s S*xiest Man Alive; Actor Says ‘Not in Million Years’ Did He Expect It",
+      "6 Malayalam and Tamil OTT Releases to Watch This Week: Vijay Sethupathi’s Baththa, Avaraachan and Sons to Jason Sanjay’s Sigma",
+      "Vrushakarma Synopsis: Naga Chaitanya’s obsessed archaeologist races against time for impending doom? Find Out",
+      "Bigg Boss Malayalam 8: Mohanlal’s show sees Rahul Easwar bag ticket to 12th week; Shijin leads eviction vote",
+      "Top Highest Grossing Kollywood Films Worldwide: Superstar Rajinikanth starrer Jailer 2 first to Rs. 700 Cr",
+      "exclusive sara ali khan on why she said yes for udta teer 86814.html",
+      "exclusive sara ali khan on her bond with saif ali khan and growing up in a single parent household 86813.html",
+      "shanaya kapoor cut her hair ditched makeup for student of the year after dark reveals reema maya 86817.html",
+      "Shaan performs MJ's 'Billie Jean' with moonwalk at concert; netizens call him 'Michael Jackshaan'",
+      "Nazriya hits back at trolls after criticism over her 'Scene' event outfit",
+      "Tiger Shroff firing case: Mumbai Police invoke MCOCA against all accused",
+      "The Pitt actor Noah Wyle named as People’s Sexiest Man Alive 2026, says he never saw it coming",
+      "Cheap copy: King poster sparks Dhurandhar 2 comparisons over fiery aesthetic"
+     ],
+     "updated": [],
+     "count": 160,
+     "detail": "164 stories, 0 duplicates removed, 86 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -218,6 +257,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T12:52:20Z",
     "run_id": "40506965660",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T13:55:04Z",
+    "run_id": "40515635206",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -304,6 +361,24 @@
      "detail": "now 5, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T13:55:04Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": {
+     "candidates": 10,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 5, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -358,6 +433,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T12:57:12Z",
     "run_id": "40506965660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -436,6 +521,24 @@
      "detail": "+0 new rows, 11 updated rows, 127 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T14:00:13Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": {
+     "candidates": 138,
+     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 127 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -483,6 +586,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T12:57:12Z",
     "run_id": "40506965660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -561,6 +674,24 @@
      "detail": "api-news.json 87 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:00:15Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": {
+     "candidates": 87,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 87 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -603,6 +734,27 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T13:55:04Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": {
+     "candidates": 19,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 6 new detected"
+    },
+    "changed": {
+     "added": [
+      "Hurmat Ep 7"
+     ],
+     "updated": [
+      "Hurmat Ep 7"
+     ],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "title_seed": [
@@ -683,6 +835,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -721,6 +883,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T12:57:12Z",
     "run_id": "40506965660",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -767,6 +939,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
@@ -809,6 +991,21 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 55,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
@@ -871,6 +1068,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 23,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -918,6 +1130,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -956,6 +1178,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T12:57:12Z",
     "run_id": "40506965660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1002,8 +1234,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T14:00:22Z",
+    "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T12:57:12Z"
+ "updated_at": "2026-10-27T14:00:22Z"
 }
