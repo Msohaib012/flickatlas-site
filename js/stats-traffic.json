@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-10-27T09:47:57Z",
+  "generated": "2026-10-27T10:50:48Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 2
   },
   "today": {
     "users": 3,
@@ -13,39 +13,39 @@
   "last7": {
     "users": 15,
     "pageviews": 433,
-    "sessions": 37,
-    "avg_session_seconds": 1184.9
+    "sessions": 39,
+    "avg_session_seconds": 1219.5
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
       "views": 107,
-      "avg_time_seconds": 1198.1
+      "avg_time_seconds": 1392.9
     },
     {
       "path": "/movie",
       "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
       "views": 75,
-      "avg_time_seconds": 304.2
+      "avg_time_seconds": 278.2
     },
     {
       "path": "/news-item",
       "title": "News Story | FlickAtlas",
       "views": 56,
-      "avg_time_seconds": 253.3
+      "avg_time_seconds": 39.1
     },
     {
       "path": "/movies",
       "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
       "views": 33,
-      "avg_time_seconds": 164.4
+      "avg_time_seconds": 123.7
     },
     {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
       "views": 23,
-      "avg_time_seconds": 11.2
+      "avg_time_seconds": 11.4
     },
     {
       "path": "/show",
@@ -63,7 +63,7 @@
       "path": "/episode-guides",
       "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
       "views": 13,
-      "avg_time_seconds": 12.9
+      "avg_time_seconds": 11.1
     },
     {
       "path": "/flickatlas-site/",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 37,
+      "sessions": 38,
       "users": 15
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 9,
-      "users": 2
+      "sessions": 2,
+      "users": 1
     }
   ],
   "countries": [
@@ -98,7 +98,7 @@
       "users": 9
     },
     {
-      "country": "",
+      "country": "(not set)",
       "users": 1
     },
     {

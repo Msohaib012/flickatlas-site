@@ -39,6 +39,45 @@
      "detail": "95 stories, 0 duplicates removed, 58 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T10:45:48Z",
+    "run_id": "40490740775",
+    "status": "success",
+    "checked": {
+     "candidates": 196,
+     "detail": "RSS/Atom items across 139 sources; 17 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "SCOOP: Salman Khan’s Maatrubhumi STILL awaits CBFC screening despite government clearance; November 13 release eyed to avoid clashes with Yeh Prem Mol Liya, Eetha",
+      "CID producer BP Singh dies of heart attack; Ashoke Pandit pays tribute, calls him “a brilliant filmmaker”",
+      "Bigg Boss 20 Episode 52 Dailymotion: Arishfa Calls Gullu 'Battameez', Mahhi-Amrapali FIGHT. What Went WRONG?",
+      "418 Box Office Collection Day 4: Chaithra J Achar Starrer Crosses ₹8 Cr India Net, Nears ₹12 Cr Worldwide",
+      "Bigg Boss 20 Weekend Ka Var Episode 42 Dailymotion: Salman Grills Qazi-Asif After Gullu-Nakul's FIGHT. WHY?",
+      "Ramayana USA Advance Booking Collection: Ranbir's Film Beats Adipurush Presales; Did It Surpass Dhurandhar 2?",
+      "EXCLUSIVE! 'This Is Devotion': Ankit Mohan On Playing Bajrangbali; Calls Dara Singh His 'Favorite'",
+      "Scene Box Office: How Much Does Suriya’s Film Need To Earn To Achieve His Biggest Opening Post-COVID?",
+      "Student Of The Year – After Dark Trailer Review: Shanaya Kapoor Walks Through A Familiar Gate For An Entirely Unfamiliar Situation!",
+      "Resident Evil China Box Office: Zach Cregger’s Horror Hit Ranks As The 2nd Biggest Hollywood Horror Post-COVID",
+      "Drishyam 3 Box Office Day 25: Less Than 5 Crore Away From Becoming The 3rd Most Profitable Bollywood Film Of 2026!",
+      "From ₹100 Crore to ₹700 Crore: How Rajinikanth Redefined Tamil Cinema's Box Office Records Across Generations",
+      "diljit dosanjh visits taj mahal ahead of india tour 86803.html",
+      "nanis bloody romeo adds dhurandhar actor vivek sinha to its cast reports 86804.html",
+      "AR Rahman calls ‘Ramayana’ the biggest film of his career",
+      "'Malikappuram' director Vishnu Sasi’s next with Vaibhav titled ‘Manikandaa’",
+      "Imran Khan’s ‘leave India’ notice put on hold, Bombay High Court grants interim relief until November 2",
+      "‘Nothing will happen, that is an oral assurance’: Govt assures Imran Khan he won't have to leave India tomorrow",
+      "Radhika Apte questions why female actors face scrutiny for action roles",
+      "Imran Khan gets interim relief, court pauses leave India order till November 2"
+     ],
+     "updated": [],
+     "count": 119,
+     "detail": "122 stories, 0 duplicates removed, 74 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -59,6 +98,24 @@
      "detail": "+0 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T10:45:50Z",
+    "run_id": "40490740775",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -67,6 +124,24 @@
     "category": "OTT",
     "run_at": "2026-10-27T09:42:54Z",
     "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 4, coming 5"
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T10:45:50Z",
+    "run_id": "40490740775",
     "status": "success",
     "checked": {
      "candidates": 9,
@@ -107,6 +182,16 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
@@ -125,6 +210,24 @@
      "updated": [],
      "count": 11,
      "detail": "+0 new rows, 11 updated rows, 127 unchanged"
+    },
+    "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T10:50:38Z",
+    "run_id": "40490740775",
+    "status": "success",
+    "checked": {
+     "candidates": 138,
+     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "+0 new rows, 12 updated rows, 126 unchanged"
     },
     "reason": null
    }
@@ -148,6 +251,16 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
@@ -156,6 +269,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T09:47:50Z",
     "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 87,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 87 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T10:50:40Z",
+    "run_id": "40490740775",
     "status": "success",
     "checked": {
      "candidates": 87,
@@ -180,6 +311,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
@@ -188,6 +329,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-27T09:47:58Z",
     "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -204,6 +355,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "overseas_ai": [
@@ -216,6 +377,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
@@ -224,6 +395,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T09:47:58Z",
     "run_id": "40482720997",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -245,6 +426,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -253,6 +449,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T09:47:58Z",
     "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -269,6 +475,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "metadata_refresh": [
@@ -281,8 +497,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T10:50:48Z",
+    "run_id": "40490740775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T09:47:58Z"
+ "updated_at": "2026-10-27T10:50:48Z"
 }
