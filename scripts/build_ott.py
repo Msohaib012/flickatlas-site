@@ -65,6 +65,13 @@ import urllib.parse
 import urllib.request
 from datetime import date, timedelta
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_PUBLISHED = os.path.join(ROOT, "js", "published-titles.js")
 DEFAULT_OUT = os.path.join(ROOT, "js", "ott-data.js")
@@ -418,10 +425,21 @@ def main():
     ap.add_argument("--refresh-digital", action="store_true",
                     help="ignore the digital cache and re-fetch TMDB")
     args = ap.parse_args()
-    build(args.out, args.published, args.dry_run, args.tmdb_key,
-          args.digital_days, args.digital_cache, args.refresh_digital)
+    now_n, coming_n, changed = build(
+        args.out, args.published, args.dry_run, args.tmdb_key,
+        args.digital_days, args.digital_cache, args.refresh_digital)
+    if step_runs is not None and not args.dry_run:
+        step_runs.record(
+            "ott", status="success",
+            checked={"candidates": now_n + coming_n,
+                     "detail": "OTT now/coming titles from the published "
+                               "catalogue"},
+            changed={"added": [], "updated": [], "count": 0,
+                     "detail": "now %d, coming %d" % (now_n, coming_n)},
+            reason=None if changed else "no-new-data")
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+

@@ -52,6 +52,13 @@ import sys
 import time
 import urllib.request
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 try:
@@ -468,6 +475,16 @@ def main():
             existing_content = f.read()
     if existing_content == content:
         log("staging %s unchanged" % args.out)
+        if step_runs is not None:
+            step_runs.record(
+                "overseas_ai", status="success",
+                checked={"candidates": len(made) + len(skipped)
+                         + len(failed),
+                         "detail": "published movies with missing "
+                                   "overseas day figures; Tavily "
+                                   "searches: %d" % searches_total},
+                changed={"added": [], "updated": [], "count": 0},
+                reason="no-new-data")
         return 0
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
@@ -475,8 +492,19 @@ def main():
     log("staging %s written (%d movie(s), %d day(s))"
         % (args.out, len(merged),
            sum(len(v) for v in merged.values())))
+    if step_runs is not None:
+        step_runs.record(
+            "overseas_ai", status="success",
+            checked={"candidates": len(made) + len(skipped)
+                     + len(failed),
+                     "detail": "published movies with missing overseas "
+                               "day figures; Tavily searches: %d"
+                               % searches_total},
+            changed={"added": ["%s (%s)" % (t, i) for t, i, _ in made],
+                     "updated": [], "count": len(made)})
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+

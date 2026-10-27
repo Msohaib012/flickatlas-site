@@ -126,6 +126,40 @@ def pick_trailer(details):
     return None
 
 
+def pick_release_date(details, media_type):
+    """Baked release date for a movie: India theatrical (type 3, IN)
+    first, then the earliest theatrical date in any region, then the
+    TMDB primary date. A festival premiere (type 1) or limited
+    release (type 2) must never be the baked date when a theatrical
+    date exists — the primary date IS often the festival premiere
+    (e.g. Hotel Utopia: only a DOK Leipzig premiere exists, so no
+    theatrical date is available anywhere and the primary date is
+    still used — see the note in build_entry). TV: first_air_date,
+    unchanged."""
+    if media_type != "movie":
+        return details.get("first_air_date") or ""
+    results = ((details.get("release_dates") or {}).get("results")
+               or [])
+
+    def theatrical_dates(entry):
+        out = []
+        for r in (entry or {}).get("release_dates") or []:
+            if r.get("type") == 3 and r.get("release_date"):
+                out.append(str(r["release_date"])[:10])
+        return sorted(out)
+
+    by_country = {str(r.get("iso_3166_1") or "").upper(): r
+                  for r in results}
+    in_theatrical = theatrical_dates(by_country.get("IN"))
+    if in_theatrical:
+        return in_theatrical[0]
+    all_theatrical = sorted(
+        d for r in results for d in theatrical_dates(r))
+    if all_theatrical:
+        return all_theatrical[0]
+    return details.get("release_date") or ""
+
+
 def pick_certification(details, media_type):
     """Theatrical/content certification, or "" when TMDB has none.
 
@@ -221,7 +255,14 @@ def build_entry(details, media_type, categories, published_at):
         "certification": pick_certification(details, media_type),
     }
     if media_type == "movie":
-        entry["release_date"] = details.get("release_date") or ""
+        # Baked date: India theatrical first (fix 2026-10-27) — the
+        # TMDB primary date is often a festival premiere in another
+        # country, not the India release. NOTE: a title with NO
+        # theatrical date anywhere (festival-only, e.g. Hotel Utopia)
+        # still bakes its primary date — there is no better date to
+        # use, and changing that needs a product decision (it is a
+        # world title whose only release IS the festival premiere).
+        entry["release_date"] = pick_release_date(details, media_type)
         entry["runtime"] = details.get("runtime") or 0
     else:
         entry["first_air_date"] = details.get("first_air_date") or ""
@@ -320,3 +361,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

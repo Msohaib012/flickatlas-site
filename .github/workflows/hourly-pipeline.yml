@@ -73,6 +73,11 @@ jobs:
               "run_overseas": hour == 8 or overdue("overseas_ai", 24),
               "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
               "run_stats_health": hour == 6 or overdue("stats_health", 24),
+              # Weekly metadata refresh: Sunday 18:00 UTC (same hour
+              # the seeder runs, so the OTT rebuild in this run sees
+              # fresh providers) + catch-up if a Sunday was missed.
+              "run_metadata": (now.weekday() == 6 and hour == 18)
+                              or overdue("metadata_refresh", 168),
           }
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               for k, v in flags.items():
@@ -120,6 +125,22 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 scripts/title-seed.py
+
+      # --- 3b. weekly metadata refresh (Sunday 18:00 UTC + catch-up) --
+      # Re-fetch TMDB metadata for already-published titles (poster,
+      # overview, release_date incl. the India theatrical date, trailer,
+      # providers). TMDB fields ONLY — editorial fields (reviews,
+      # summaries, manual corrections, box-office rows) are never
+      # touched (see scripts/refresh-metadata.py). Runs right after
+      # the seeder so the OTT rebuild in this same run sees fresh
+      # providers.
+      - name: Refresh published metadata (weekly)
+        id: metadata
+        if: steps.decide.outputs.run_metadata == 'true'
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/refresh-metadata.py
 
       # --- 4. Gemini batch (always) -----------------------------------
       - name: Gemini batch (draft + structured data)
@@ -376,6 +397,12 @@ jobs:
           RUN_SACNILK: ${{ steps.decide.outputs.run_sacnilk }}
           RUN_TAVILY: ${{ steps.decide.outputs.run_tavily }}
           RUN_REVIEWS: ${{ steps.decide.outputs.run_reviews }}
+          # RUN_TRENDING was missing here until 2026-10-27 (fix 3):
+          # the state step read RUN_TRENDING but it was never passed,
+          # so trending_weekly NEVER got a last_run even when it ran.
+          RUN_TRENDING: ${{ steps.decide.outputs.run_trending }}
+          RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
+          METADATA_OUTCOME: ${{ steps.metadata.outcome }}
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
@@ -410,6 +437,8 @@ jobs:
                                  os.environ.get("STATS_PIPE_OUTCOME")),
               "stats_health": (os.environ.get("RUN_HEALTH") == "true",
                                os.environ.get("HEALTH_OUTCOME")),
+              "metadata_refresh": (os.environ.get("RUN_METADATA") == "true",
+                                   os.environ.get("METADATA_OUTCOME")),
           }
           for name, (ran, outcome) in gated.items():
               rec = steps.setdefault(name, {})
@@ -437,6 +466,44 @@ jobs:
           print(f"orchestrator state written: {json.dumps(state)}")
           PYEOF
 
+      # --- 13b. per-step run records (stats dashboard data) -----------
+      # Every pipeline step that ran writes its own record into
+      # out/step-runs.json (see scripts/step_runs.py). This step fills
+      # in the steps that did NOT record (gate off, failed before
+      # their record call, or not yet instrumented) so the panel's
+      # stats dashboard always has a row per step per run. It reads
+      # the step outcomes + decide flags from env (same pattern as
+      # step 13) and matches records by run id — steps that already
+      # recorded this run are left alone.
+      - name: Record step runs
+        if: always()
+        env:
+          FETCH_OUTCOME: ${{ steps.fetch.outcome }}
+          EPISODE_OUTCOME: ${{ steps.episode.outcome }}
+          TITLE_OUTCOME: ${{ steps.title.outcome }}
+          GEMINI_OUTCOME: ${{ steps.gemini.outcome }}
+          APPLY_OUTCOME: ${{ steps.applyauto.outcome }}
+          OTT_OUTCOME: ${{ steps.ott.outcome }}
+          TRENDING_OUTCOME: ${{ steps.trending.outcome }}
+          OVERSEAS_OUTCOME: ${{ steps.overseas.outcome }}
+          MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
+          REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
+          PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
+          FEED_OUTCOME: ${{ steps.feed.outcome }}
+          TRAFFIC_OUTCOME: ${{ steps.traffic.outcome }}
+          STATS_PIPE_OUTCOME: ${{ steps.statspipe.outcome }}
+          HEALTH_OUTCOME: ${{ steps.health.outcome }}
+          METADATA_OUTCOME: ${{ steps.metadata.outcome }}
+          RUN_EPISODE: ${{ steps.decide.outputs.run_episode }}
+          RUN_TITLE: ${{ steps.decide.outputs.run_title }}
+          RUN_REVIEWS: ${{ steps.decide.outputs.run_reviews }}
+          RUN_TRENDING: ${{ steps.decide.outputs.run_trending }}
+          RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
+          RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
+          RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
+          RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
+        run: python3 scripts/step_runs.py --aggregate
+
       # --- 14. ONE commit (always runs, even if a step failed) ---------
       # A manual push can land while the pipeline runs (the parent pushes
       # by hand all day). The pipeline's HTML changes are ONLY the
@@ -453,68 +520,21 @@ jobs:
       - name: Commit if changed
         id: commit
         if: always()
-        run: |
-          git config user.name "Msohaib012"
-          git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js js/trending-topics.js
-          git add api-news.json api-trends.json
-          git add js/stats-pipeline.json js/stats-traffic.json js/stats-health.json
-          git add out/orchestrator-state.json
-          # Multi-source box office: staging files must persist across
-          # runs (a fresh checkout has no staging, so the engine would
-          # lose the 6h-gated Sacnilk figures); the sidecar is the
-          # per-figure source provenance. Both are deterministic (no
-          # timestamps), so they only stage a change when data actually
-          # changed — no spurious hourly commit.
-          git add out/boxoffice-staging || true
-          git add out/multisource-boxoffice.json || true
-          # out/ files may not exist yet on the first run; add them one
-          # at a time, tolerating absence.
-          for f in out/gemini-batch.json out/bmr-reviews.json out/processed.json out/auto-feed.json \
-                   out/episodes.json out/episode-feed.json out/publish-export.json \
-                   out/queue.json out/seen.json out/state.json out/report.json \
-                   out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json; do
-            [ -f "$f" ] && git add "$f"
-          done
-          git add out/categories || true
-          git add -A -- '*.html'
-          if ! git diff --cached --quiet; then
-            git commit -m "hourly: pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            if ! git pull --rebase; then
-              conflicted=$(git diff --name-only --diff-filter=U || true)
-              if [ -z "$conflicted" ]; then
-                echo "pull --rebase failed WITHOUT a rebase conflict (no unmerged files) — likely unstaged changes:"
-                git status --porcelain
-                git rebase --abort || true
-                exit 1
-              fi
-              non_html=$(printf '%s\n' "$conflicted" | grep -v '\.html$' || true)
-              if [ -n "$non_html" ]; then
-                echo "rebase conflict in non-HTML files: $non_html — aborting commit, next hourly run retries from fresh main"
-                git rebase --abort || true
-                exit 1
-              fi
-              # HTML-only conflict: resolve it DURING the rebase (do NOT
-              # abort + amend — amending keeps the old parent, so the
-              # retry rebase re-applies the manual change and conflicts
-              # again). During a rebase --ours is origin/main, so take
-              # its HTML (keeps the manual change), re-apply the ?v=
-              # bump, stage, and continue. GIT_EDITOR=true because
-              # rebase --continue opens an editor in a non-interactive
-              # runner and would otherwise fail with "Terminal is dumb".
-              echo "rebase conflict only in HTML files ($conflicted) — resolving from origin/main + re-bumping ?v="
-              for f in $conflicted; do git checkout --ours -- "$f"; done
-              NEWV="fa-$(date -u +%Y%m%d%H%M)"
-              find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
-              git add -A -- '*.html'
-              GIT_EDITOR=true git rebase --continue || { echo "rebase --continue failed — aborting, next hourly run retries"; git rebase --abort || true; exit 1; }
-            fi
-            # Push with one retry in case another push lands in between.
-            git push || { git pull --rebase && git push; }
-            echo "committed=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "committed=false" >> "$GITHUB_OUTPUT"
-          fi
+        env:
+          # Keys the commit-retry script's regenerators need when a
+          # data file conflicts during the rebase (title-seed needs
+          # TMDB; reviews/trending need Gemini + Tavily). The other
+          # regenerators need no keys.
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: bash scripts/commit_with_retry.sh
 
       # --- 15. Deploy to Cloudflare (only when the run committed) -------
       # Static-asset deploy via the Cloudflare API (see
@@ -528,6 +548,7 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: python3 scripts/cloudflare_deploy.py
+
 
 
 

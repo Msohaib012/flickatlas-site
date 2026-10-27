@@ -79,6 +79,13 @@ except Exception:  # pragma: no cover - local runs without the batch module
     PIPELINE_CALL = None
     PIPELINE_KEYS = lambda: []  # noqa: E731
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 MODEL_FALLBACK = "gemini-3.5-flash"
 MIN_OVERVIEW = 100
 TMDB_API = "https://api.themoviedb.org/3"
@@ -579,8 +586,21 @@ def main():
             log("%s unchanged" % args.reviews_out)
     else:
         log("no new reviews; %s untouched" % args.reviews_out)
+    if step_runs is not None:
+        reason = None
+        if not made:
+            reason = "error" if failed else "no-new-data"
+        step_runs.record(
+            "gemini_reviews",
+            checked={"candidates": len(movies),
+                     "detail": "released movies without a review; "
+                               "Tavily searches: %d" % searches_total},
+            changed={"added": ["%s (%s)" % (t, i) for t, i, _ in made],
+                     "updated": [], "count": len(made)},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

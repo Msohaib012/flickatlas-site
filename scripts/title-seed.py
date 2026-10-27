@@ -8,13 +8,19 @@ the SEPARATE title system (Sacnilk model): it picks titles from TMDB
 lists and publishes them as FA_PUBLISHED entries, so the Movies /
 Spotlight / Trending / Dramas sections fill up.
 
-Sources (TMDB lists, page 1 each):
+Sources (TMDB lists — pages 1-2 for the movie lists, page 1 otherwise):
   trending     — /trending/movie/week (global trending)
   now_playing  — /movie/now_playing?region=IN (in cinemas now, India)
   upcoming     — /movie/upcoming?region=IN (coming soon, India)
   bollywood    — /discover/movie?with_original_language=hi (Hindi films;
                the movie lists above are world-dominated by popularity,
                so Bollywood needs its own source)
+  india_window — /discover/movie?region=IN, India release date inside
+               the fresh window (last 7 days .. next 7 days). Page-1-
+               only lists are popularity-sorted, so small/regional
+               releases (Dhood, Doosra, Crime 302 — now_playing pages
+               2-4, 2026-10-23) NEVER surfaced (audit 2026-10-27 §4a);
+               this date-filtered source finds them by DATE, not rank.
   pk_dramas    — /discover/tv?with_origin_country=PK (Pakistani dramas)
   pk_movies    — /discover/movie?with_origin_country=PK (Pakistani
                films — Lollywood had dramas only, no movies, because
@@ -77,6 +83,13 @@ import urllib.parse
 import urllib.request
 from datetime import date, timedelta
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break the seeder run.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_OUT = os.path.join(ROOT, "js", "published-titles.js")
 CONFIG_JS = os.path.join(ROOT, "js", "config.js")
@@ -97,6 +110,12 @@ FRESH_DAYS = 90
 
 # (source name, media type, TMDB list path) — order is the round-robin
 # priority (first pick of each source first).
+# PAGES: how many pages of each source to read. The movie lists are
+# popularity-sorted, so page 1 alone is blind to small/regional
+# releases (audit 2026-10-27 §4a: 8 films from 2026-10-23 sat on
+# now_playing pages 2-4 and could NEVER arrive). Pages 1-2 + the
+# date-filtered india_window source close that gap (spike-tested
+# 2026-10-27: all 13 missing targets found).
 SOURCES = [
     ("trending", "movie",
      "/trending/movie/week"),
@@ -106,6 +125,16 @@ SOURCES = [
      "/movie/upcoming?region=IN"),
     ("bollywood", "movie",
      "/discover/movie?with_original_language=hi&sort_by=popularity.desc"),
+    ("india_window", "movie",
+     # India releases inside the fresh window, by DATE not rank:
+     # {fresh_start} = 7 days ago, {fresh_end} = 7 days ahead.
+     # The release_date filter matches any regional release date, so
+     # a film whose India date is in the window shows up even when
+     # its primary date is outside it (TMDB quirk, audit §8) — the
+     # fresh/backfill split below still uses the primary date, so an
+     # extra candidate is never wrongly forced in as "fresh".
+     "/discover/movie?region=IN&release_date.gte={fresh_start}"
+     "&release_date.lte={fresh_end}&sort_by=popularity.desc"),
     ("pk_dramas", "tv",
      # Air-date filter (first_air_date.gte, {cutoff} = 90 days ago):
      # popularity-sorted PK discover is dominated by ENDED all-time hits
@@ -125,6 +154,14 @@ SOURCES = [
      "&primary_release_date.gte={cutoff}"
      "&primary_release_date.lte={horizon}&sort_by=popularity.desc"),
 ]
+
+# Pages read per source (see SOURCES comment above).
+SOURCE_PAGES = {
+    "now_playing": 2,
+    "upcoming": 2,
+    "bollywood": 2,
+    "india_window": 2,
+}
 
 # --- Drama tracker <-> published catalogue sync (owner order 2026-10-26) ---
 # The episode tracker (scripts/episode-guides.py) posts episodes for any
@@ -435,18 +472,32 @@ def tv_is_current(details):
 
 
 def fetch_lists(key):
-    """Fetch page 1 of every source list. Returns {source: [items]}.
-    {cutoff} in a path is the freshness cutoff (FRESH_DAYS ago)."""
+    """Fetch every source list (pages 1..SOURCE_PAGES, default 1).
+    Returns {source: [items]}. {cutoff} in a path is the freshness
+    cutoff (FRESH_DAYS ago); {fresh_start}/{fresh_end} bound the
+    fresh window (7 days either side of today)."""
     cutoff = (date.today() - timedelta(days=FRESH_DAYS)).isoformat()
     horizon = (date.today() + timedelta(days=FRESH_DAYS)).isoformat()
+    fresh_start = (date.today() - timedelta(days=FRESH_WINDOW_DAYS)).isoformat()
+    fresh_end = (date.today() + timedelta(days=FRESH_WINDOW_DAYS)).isoformat()
     out = {}
     for name, media, path in SOURCES:
-        data = tmdb_get(path.format(cutoff=cutoff, horizon=horizon), key)
-        items = (data or {}).get("results") or []
+        pages = SOURCE_PAGES.get(name, 1)
+        items = []
+        total = None
+        for page in range(1, pages + 1):
+            paged = path.format(cutoff=cutoff, horizon=horizon,
+                                fresh_start=fresh_start,
+                                fresh_end=fresh_end)
+            sep = "&" if "?" in paged else "?"
+            data = tmdb_get(f"{paged}{sep}page={page}", key)
+            items.extend((data or {}).get("results") or [])
+            if total is None:
+                total = (data or {}).get("total_results")
+            time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s
         out[name] = items
-        print(f"  {name}: {len(items)} candidates "
-              f"(total {((data or {}).get('total_results'))})")
-        time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s
+        print(f"  {name}: {len(items)} candidates (pages {pages}, "
+              f"total {total})")
     return out
 
 
@@ -579,9 +630,11 @@ def main():
     # the episode tracker found but the catalogue lacks, so the Pakistani
     # Dramas list and the Drama Episodes list stay in sync. Defensive:
     # a failure here never breaks the seeder run.
+    reconciled = []
     try:
         rec = reconcile_tracker_dramas(key, published, pt,
                                        os.path.dirname(args.out))
+        reconciled = rec or []
         if rec:
             print(f"title-seed: drama reconcile +{len(rec)}")
     except Exception as e:
@@ -669,11 +722,35 @@ def main():
         except Exception as e:
             print(f"title-seed: ott-data rebuild failed ({e})",
                   file=sys.stderr)
+
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # Dry runs record nothing (nothing was written).
+    if step_runs is not None and not args.dry_run:
+        cand = sum(len(v) for v in lists.values())
+        added_names = ([f"{e.get('title')} ({e.get('id')})"
+                        for e in added]
+                       + [f"{e.get('title')} ({e.get('id')})"
+                          for e in reconciled])
+        reason = None
+        if not added_names:
+            reason = "source-fail" if cand == 0 else "no-new-data"
+        step_runs.record(
+            "title_seed",
+            checked={"candidates": cand,
+                     "sources": {n: len(v) for n, v in lists.items()},
+                     "picked": len(picked), "skipped": skipped,
+                     "cap": cap,
+                     "detail": "now_playing/upcoming/bollywood p1-2 + "
+                               "india_window discover p1-2 + trending/pk p1"},
+            changed={"added": added_names, "updated": [],
+                     "count": len(added_names)},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

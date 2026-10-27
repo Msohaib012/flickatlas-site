@@ -95,6 +95,13 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "out")
 CONFIG_JS = os.path.join(ROOT, "js", "config.js")
@@ -957,6 +964,7 @@ def main():
             feed_entries = []
     feed_have = {e.get("id") for e in feed_entries}
     posted = 0
+    posted_names = []
     for ep in new_eps:
         # Pakistani Dramas only (user order 2026-10-26): the episode's
         # drama must be on the site's published Pakistani TV list
@@ -1003,6 +1011,7 @@ def main():
                     "ts": ts if ts is not None else int(time.time() * 1000)})
                 feed_have.add(aid)
         posted += 1
+        posted_names.append(f"{ep['drama']} Ep {ep['episode']}")
         print(f"  + {ep['drama']} Ep {ep['episode']} ({ep['channel']}, "
               f"{ep.get('views', 0):,} views) -> {aid}")
     if dry:
@@ -1020,6 +1029,8 @@ def main():
             print(f"episode-feed: {len(feed_entries)} entries")
 
     # ---- 4. summary backlog: top by VIEWS, 1/run, max 2/day, never redo
+    made = 0
+    summary_names = []
     if dry:
         pending = [e for e in known.values() if not e.get("summary")]
         pending.sort(key=lambda e: e.get("views") or 0, reverse=True)
@@ -1067,6 +1078,8 @@ def main():
                 ep["summary"] = summary
                 ep["summary_at"] = iso_now()
                 made += 1
+                summary_names.append(
+                    f"{ep['drama']} Ep {ep['episode']}")
                 print(f"  summary done ({len(summary)} chars)")
             if made:
                 write_js_map(
@@ -1078,10 +1091,25 @@ def main():
     if not dry:
         save_state({"episodes": known})
     print("episode-guides: done")
+    if step_runs is not None and not dry:
+        reason = None
+        if posted == 0 and made == 0:
+            reason = "no-new-data"
+        step_runs.record(
+            "episode_guides", status="success",
+            checked={"candidates": len(candidates),
+                     "detail": "YouTube episodes on the 4 official PK "
+                               "channels (+ intl 1M+ views); "
+                               "%d new detected" % len(new_eps)},
+            changed={"added": posted_names,
+                     "updated": summary_names,
+                     "count": posted + made},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 

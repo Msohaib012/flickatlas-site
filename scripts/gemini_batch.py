@@ -72,6 +72,13 @@ from email.utils import parsedate_to_datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import boxoffice_extract
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.environ.get("OUT_DIR", os.path.join(ROOT, "out"))
 
@@ -930,11 +937,25 @@ def main():
         json.dump(processed, f, ensure_ascii=False, indent=1)
     print(f"batch: {len(articles)} articles, {len(box_rows)} box-office rows, "
           f"{len(skipped)} skipped -> {batch_path}")
+    if step_runs is not None:
+        reason = None
+        if not articles and not box_rows:
+            reason = "no-new-data"
+        step_runs.record(
+            "gemini_batch", status="success",
+            checked={"candidates": len(articles) + len(skipped),
+                     "detail": "news queue items drafted this run; "
+                               "%d still unprocessed" % len(pending)},
+            changed={"added": [a.get("headline") or a.get("title") or ""
+                               for a in articles],
+                     "updated": [], "count": len(articles)},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

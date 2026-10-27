@@ -65,6 +65,13 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 UA = "FlickAtlasFetch/2.0 (+https://flickatlas.co.uk) fetch-script"
 TIMEOUT = 20
 
@@ -695,9 +702,30 @@ def main():
     for r in report:
         if r["status"] == "error":
             print(f"  [error] {r['source']}: {r['note']}")
+    if step_runs is not None:
+        errors = [r for r in report if r.get("status") == "error"]
+        reason = None
+        if report and len(errors) == len(report):
+            reason = "source-fail"
+        elif len(queue) == 0:
+            reason = "no-new-data"
+        step_runs.record(
+            "fetch", status="success",
+            checked={"candidates": len(stories) + len(dropped),
+                     "detail": "RSS/Atom items across %d sources; "
+                               "%d source(s) errored"
+                               % (len(report), len(errors))},
+            changed={"added": [q.get("title") or "" for q in queue[:20]],
+                     "updated": [], "count": len(queue),
+                     "detail": "%d stories, %d duplicates removed, "
+                               "%d dropped" % (len(stories),
+                                               len(duplicates),
+                                               len(dropped))},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

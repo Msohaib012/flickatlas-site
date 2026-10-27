@@ -83,6 +83,13 @@ import re
 import sys
 from datetime import date
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 INR_PER_USD = 94.65  # site FA_RATES — same as sacnilk_boxoffice.py
 
 # The daywise header is byte-identical to apply-auto.py's and
@@ -575,6 +582,14 @@ def main():
         for src, tid, day, why in rejected:
             print(f"  rejected: {src} {tid} "
                   f"{'Day ' + str(day) if day else ''}: {why}")
+        if step_runs is not None and not args.dry_run:
+            step_runs.record(
+                "multisource_boxoffice", status="success",
+                checked={"candidates": 0,
+                         "detail": "staging files empty or all rejected"},
+                changed={"added": [], "updated": [], "count": 0},
+                reason=("source-fail" if skipped_files
+                        else "no-new-data"))
         return 0
 
     finalized = finalize(collected, extras_collected, args.primary)
@@ -623,9 +638,26 @@ def main():
     }
     side_changed = write_json_if_changed(sidecar_path, sidecar)
     print(f"multisource: sidecar {sidecar_path} written: {side_changed}")
+    if step_runs is not None and not args.dry_run:
+        reason = None
+        if added + updated == 0:
+            reason = ("source-fail" if skipped_files
+                      else "no-new-data")
+        step_runs.record(
+            "multisource_boxoffice", status="success",
+            checked={"candidates": n_figs,
+                     "detail": "%d collected staging rows from readers; "
+                               "%d averaged across 2+ sources"
+                               % (len(collected), n_multi)},
+            changed={"added": [], "updated": [],
+                     "count": added + updated,
+                     "detail": "+%d new rows, %d updated rows, %d "
+                               "unchanged" % (added, updated, unchanged)},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

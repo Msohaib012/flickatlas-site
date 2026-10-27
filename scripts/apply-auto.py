@@ -33,6 +33,13 @@ import time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import boxoffice_extract
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "out")
 
@@ -260,9 +267,27 @@ def main():
             print("processed.json: article ids filled in")
 
     print(f"articles file changed: {art_changed} | daywise changed: {day_changed}")
+    if step_runs is not None:
+        reason = None
+        if added == 0 and bo_added == 0 and bo_updated == 0:
+            reason = "no-new-data"
+        step_runs.record(
+            "apply_auto", status="success",
+            checked={"candidates": len(articles) + len(box_rows),
+                     "detail": "draft articles + box-office rows from "
+                               "out/gemini-batch.json"},
+            changed={"added": [a.get("headline") or ""
+                               for a in articles if a.get("_article_id")],
+                     "updated": [],
+                     "count": added + bo_added + bo_updated,
+                     "detail": "+%d articles, +%d box-office rows, "
+                               "%d rows updated"
+                               % (added, bo_added, bo_updated)},
+            reason=reason)
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

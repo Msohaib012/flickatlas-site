@@ -17,6 +17,13 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "out")
 
@@ -310,24 +317,48 @@ def main():
     queue_path = os.path.join(OUT_DIR, "queue.json")
     registry_path = os.path.join(ROOT, "scripts", "registry.json")
     news = build_news(queue_path, registry_path)
-    with open(os.path.join(ROOT, "api-news.json"), "w", encoding="utf-8") as f:
+    news_path = os.path.join(ROOT, "api-news.json")
+    old_ids = set()
+    try:
+        with open(news_path, encoding="utf-8") as f:
+            old_ids = {it.get("id") for it in
+                       json.load(f).get("items") or []}
+    except Exception:
+        old_ids = set()
+    new_items = [it for it in (news.get("items") or [])
+                 if it.get("id") not in old_ids]
+    with open(news_path, "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=1)
     print(f"api-news.json: {news['count']} items")
     trends_path = os.path.join(ROOT, "api-trends.json")
+    trends_count = 0
     try:
         trends = fetch_trends()
         if trends["items"]:
             with open(trends_path, "w", encoding="utf-8") as f:
                 json.dump(trends, f, ensure_ascii=False, indent=1)
+            trends_count = len(trends["items"])
             print(f"api-trends.json: {len(trends['items'])} items")
         else:
             print("api-trends.json: no trends fetched, kept existing file")
     except Exception as e:
         print(f"api-trends.json: failed ({e}), kept existing file")
+    if step_runs is not None:
+        step_runs.record(
+            "convert_news", status="success",
+            checked={"candidates": news.get("count", 0),
+                     "detail": "feed entries from out/queue.json"},
+            changed={"added": [it.get("title") or "" for it in new_items],
+                     "updated": [], "count": len(new_items),
+                     "detail": "api-news.json %d items, api-trends.json "
+                               "%d items" % (news.get("count", 0),
+                                             trends_count)},
+            reason=None if new_items else "no-new-data")
 
 
 if __name__ == "__main__":
     main()
+
 
 
 

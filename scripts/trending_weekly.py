@@ -39,6 +39,13 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
+try:
+    # Per-run record for the stats dashboard (out/step-runs.json).
+    # A missing/broken helper must never break this script.
+    import step_runs
+except Exception:  # noqa: BLE001 - record helper is best-effort
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
@@ -457,6 +464,13 @@ def main(argv=None):
     if not tkeys:
         log("SKIP: no TAVILY_API_KEY (set TAVILY_API_KEY / "
             "TAVILY_API_KEY_BACKUP) — leaving trending-topics.js alone")
+        if step_runs is not None:
+            step_runs.record("trending_weekly", status="success",
+                             checked={"candidates": 0,
+                                      "detail": "Tavily keys missing"},
+                             changed={"added": [], "updated": [],
+                                      "count": 0},
+                             reason="source-fail")
         return 0
     gkeys = gemini_keys()
     if not gkeys:
@@ -465,12 +479,29 @@ def main(argv=None):
     results = search_week(tkeys)
     if not results:
         log("SKIP: no search results — leaving trending-topics.js alone")
+        if step_runs is not None:
+            step_runs.record("trending_weekly", status="success",
+                             checked={"candidates": 0,
+                                      "detail": "Tavily week search "
+                                                "returned no results"},
+                             changed={"added": [], "updated": [],
+                                      "count": 0},
+                             reason="source-fail")
         return 0
     articles = recent_articles(root)
     titles = published_titles(root)
     topics = build_topics(results, articles, titles, gkeys)
     if not topics:
         log("SKIP: no grounded topics — leaving trending-topics.js alone")
+        if step_runs is not None:
+            step_runs.record("trending_weekly", status="success",
+                             checked={"candidates": len(results),
+                                      "detail": "Tavily week search "
+                                                "results, no grounded "
+                                                "topics"},
+                             changed={"added": [], "updated": [],
+                                      "count": 0},
+                             reason="no-new-data")
         return 0
 
     content = (HEADER + "\nwindow.FA_TRENDING_TOPICS = " +
@@ -481,14 +512,28 @@ def main(argv=None):
             existing = f.read()
     if existing == content:
         log(f"trending-topics.js unchanged ({len(topics)} topics)")
+        if step_runs is not None:
+            step_runs.record("trending_weekly", status="success",
+                             checked={"candidates": len(results),
+                                      "detail": "Tavily week search results"},
+                             changed={"added": [], "updated": [],
+                                      "count": 0},
+                             reason="no-new-data")
         return 0
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(content)
     log(f"trending-topics.js written ({len(topics)} topics)")
     for t in topics:
         log(f"  - {t['date']} {t['title']} -> {t['url']}")
+    if step_runs is not None:
+        step_runs.record("trending_weekly", status="success",
+                         checked={"candidates": len(results),
+                                  "detail": "Tavily week search results"},
+                         changed={"added": [t.get("title") for t in topics],
+                                  "updated": [], "count": len(topics)})
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
