@@ -6,18 +6,27 @@ Twice a day (08:00 and 18:00 UTC, gated in the hourly pipeline) this
 script searches for TODAY's India Net figure for every ACTIVE movie
 with day-wise rows, and writes them to out/boxoffice-staging/tavily.json
 so the averaging engine (scripts/multisource_boxoffice.py) can mean
-them with the readers' figures as usual.
+them with the readers' figures as usual. Two date rules keep the
+target day honest: (1) before 06:00 IST the target is YESTERDAY —
+the 18:00 UTC run executes at ~00:30 IST, when the new day's figures
+do not exist yet; (2) when today's figure is not found and the
+baseline genuinely lacks YESTERDAY's row, the same results are tried
+for yesterday (same acceptance guards) — sources publish a day's
+figure the next morning, so this is the only way a gap ever fills.
 
   * REFILL: a movie missing today's figure gets one when search finds
-    a usable final-or-live figure for today.
+    a usable final-or-live figure for today; a movie missing
+    yesterday's figure gets that one instead (gap-fill, same guards).
   * UPDATE: a movie that already has today's figure gets it REFRESHED
     with the latest search-backed value (live figures move during the
     day; the 2x/day runs track that).
-  * ONLY today's figure is ever written. Past days are never rewritten
-    from Tavily — history stays with the readers. The staging file is
-    rewritten from scratch every run with only today's accepted rows;
-    when a run accepts nothing it writes {} so a stale live figure can
-    never linger and drag a past day's mean down.
+  * ONLY the target day's figure is ever written (today; yesterday
+    only as a gap-fill when its row is missing). Days older than
+    yesterday are never rewritten from Tavily — history stays with
+    the readers. The staging file is rewritten from scratch every run
+    with only the accepted rows; when a run accepts nothing it writes
+    {} so a stale live figure can never linger and drag a past day's
+    mean down.
 
 Acceptance rules (a figure is written ONLY when ALL hold):
   * the result is a day-wise block/table/prose for THIS movie;
@@ -288,8 +297,22 @@ def main():
         os.path.dirname(os.path.abspath(__file__)))
     staging_dir = args.stage or os.path.join(
         root, "out", "boxoffice-staging")
-    today = (date.fromisoformat(args.today) if args.today
-             else datetime.now(IST).date())
+    if args.today:
+        today = date.fromisoformat(args.today)
+    else:
+        now_ist = datetime.now(IST)
+        today = now_ist.date()
+        if now_ist.hour < 6:
+            # Before 06:00 IST the box-office day is still yesterday:
+            # figures for the new IST day do not exist yet, and the
+            # 18:00 UTC run executes at ~00:30 IST. Target yesterday
+            # so that run searches for the day that just ended (whose
+            # evening trackers are published) instead of the day that
+            # just began (whose figures exist nowhere).
+            today = today - timedelta(days=1)
+            print(f"tavily: early-morning IST run — targeting "
+                  f"yesterday {today} (figures for {now_ist.date()} "
+                  f"are not published yet)")
     today_strs = today_strings(today)
 
     pub = read_js_map(os.path.join(root, "js", "published-titles.js"))
@@ -348,14 +371,18 @@ def main():
                   "(run ended)")
             continue
         # Yesterday's figure + today's existing figure (update guards).
+        # day_before_cr guards the yesterday-gap fallback below.
         yesterday_cr = None
         existing_today_cr = None
+        day_before_cr = None
         for r in rows_sorted:
             try:
                 dnum = int(re.sub(r"\D", "", str(r.get("day", "0"))) or 0)
                 cr = float(r.get("collection", 0)) * 94.65 / 1e7
             except (TypeError, ValueError):
                 continue
+            if dnum == expected_day - 2:
+                day_before_cr = cr
             if dnum == expected_day - 1:
                 yesterday_cr = cr
             if dnum == expected_day:
@@ -392,6 +419,32 @@ def main():
         cr, url, why = pick_figure(results, expected_day, today,
                                    today_strs, yesterday_cr,
                                    existing_today_cr)
+        if cr is None and expected_day >= 2 and yesterday_cr is None:
+            # Gap-fill: sources publish a day's figure the NEXT
+            # morning, so today's tracker often does not exist yet at
+            # run time. Fill a genuinely MISSING yesterday row from
+            # the same results, with the same acceptance guards
+            # (date-tied to yesterday, day must match, sanity bands).
+            # Never fires when yesterday's row already exists.
+            yday = today - timedelta(days=1)
+            why_today = why
+            cr, url, why = pick_figure(
+                results, expected_day - 1, yday, today_strings(yday),
+                day_before_cr, None)
+            if cr is not None:
+                staging[str(tid)] = [{
+                    "day": expected_day - 1,
+                    "date": yday.isoformat(),
+                    "collection_inr_cr": round(cr, 2),
+                    "source": "tavily",
+                    "source_url": url,
+                }]
+                n_written += 1
+                print(f"tavily: {tid} {title}: Day {expected_day - 1} "
+                      f"(yesterday, gap-fill) Rs {cr:.2f} Cr "
+                      f"(via {slot}) — {why}")
+                continue
+            why = f"today: {why_today}; yesterday: {why}"
         if cr is None:
             print(f"tavily: {tid} {title}: no usable figure "
                   f"(expected Day {expected_day}) — {why}")
@@ -408,7 +461,7 @@ def main():
               f"Rs {cr:.2f} Cr (via {slot}) — {why}")
 
     print(f"tavily: queried {n_queried} movie(s), wrote "
-          f"{n_written} today figure(s)")
+          f"{n_written} figure(s) (today + yesterday gap-fills)")
     if args.dry_run:
         print("tavily: DRY-RUN — staging not written")
         print(json.dumps(staging, ensure_ascii=False, indent=2,
@@ -423,3 +476,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

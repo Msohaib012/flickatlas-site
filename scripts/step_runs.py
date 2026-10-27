@@ -81,6 +81,7 @@ STEP_FILES = {
     "ott": ("OTT", ["js/ott-data.js"]),
     "trending_weekly": ("Trending Topics", ["js/trending-topics.js"]),
     "overseas_ai": ("Box Office", ["out/boxoffice-staging/overseas-ai.json"]),
+    "tavily_boxoffice": ("Box Office", ["out/boxoffice-staging/tavily.json"]),
     "multisource_boxoffice": ("Box Office", ["js/daywise-data.js",
                                              "js/advance-data.js",
                                              "out/multisource-boxoffice.json",
@@ -198,6 +199,7 @@ def aggregate(path=DEFAULT_PATH):
         ("ott", None, "OTT_OUTCOME"),
         ("trending_weekly", "RUN_TRENDING", "TRENDING_OUTCOME"),
         ("overseas_ai", "RUN_OVERSEAS", "OVERSEAS_OUTCOME"),
+        ("tavily_boxoffice", "RUN_TAVILY", "TAVILY_OUTCOME"),
         ("multisource_boxoffice", None, "MULTISOURCE_OUTCOME"),
         ("gemini_reviews", "RUN_REVIEWS", "REVIEWS_OUTCOME"),
         ("publish", None, "PUBLISH_OUTCOME"),
@@ -277,3 +279,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

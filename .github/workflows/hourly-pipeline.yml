@@ -514,6 +514,7 @@ jobs:
           TRENDING_OUTCOME: ${{ steps.trending.outcome }}
           OVERSEAS_OUTCOME: ${{ steps.overseas.outcome }}
           MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
+          TAVILY_OUTCOME: ${{ steps.multisource.outcome }}
           REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
@@ -528,6 +529,7 @@ jobs:
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
+          RUN_TAVILY: ${{ steps.decide.outputs.run_tavily }}
           RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
           RUN_PROVIDERS: ${{ steps.decide.outputs.run_providers }}
           PROVIDERS_OUTCOME: ${{ steps.providers.outcome }}
@@ -594,6 +596,7 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: python3 scripts/cloudflare_deploy.py
+
 
 
 
