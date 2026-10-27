@@ -1294,6 +1294,24 @@
      "detail": "+0 new rows, 75 updated rows, 121 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T20:31:39Z",
+    "run_id": "40576069758",
+    "status": "success",
+    "checked": {
+     "candidates": 196,
+     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "+0 new rows, 0 updated rows, 196 unchanged"
+    },
+    "reason": "no-new-data"
    }
   ],
   "gemini_reviews": [
@@ -1697,6 +1715,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T20:21:24Z",
     "run_id": "40575816743",
+    "status": "success",
+    "checked": {
+     "candidates": 86,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 86 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T20:31:39Z",
+    "run_id": "40576069758",
     "status": "success",
     "checked": {
      "candidates": 86,
@@ -3014,5 +3050,5 @@
    }
   ]
  },
- "updated_at": "2026-10-27T20:21:34Z"
+ "updated_at": "2026-10-27T20:31:39Z"
 }
