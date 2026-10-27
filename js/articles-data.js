@@ -8838,5 +8838,367 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 06:00:04 +0000"
+  },
+  "1uyi35d": {
+    "id": "1uyi35d",
+    "type": "news",
+    "headline": "Jay-Z Officially Confirmed to Headline the 2027 Super Bowl Halftime Show",
+    "dek": "Following months of speculation and a massive anniversary tour, the legendary rap icon is set to take the world's biggest stage next February.",
+    "body": [
+      {
+        "h": "The Long-Awaited Announcement",
+        "p": [
+          "The entertainment world has finally received confirmation that rap icon Jay-Z will headline the upcoming Super Bowl halftime show. After months of heavy speculation that included various rumoured names circulating in the media, the official word arrived to cement the artist's upcoming performance.",
+          "The monumental event is scheduled to take place on February 14, bringing one of music's most influential figures to the massive sports and entertainment spectacle."
+        ]
+      },
+      {
+        "h": "Celebrating Three Decades of Music",
+        "p": [
+          "This high-profile performance will serve as a grand celebration of the Roc Nation founder's 30 years in the music industry. The milestone highlights a remarkable career trajectory that spans from his classic early work to global cultural dominance.",
+          "Reflecting on the achievement, the artist noted the incredible path from releasing foundational music to finally standing on the ultimate halftime stage, describing the opportunity as a true dream come true."
+        ]
+      },
+      {
+        "h": "Setting the Stage at SoFi Stadium",
+        "p": [
+          "The grand concert will be hosted at California’s SoFi Stadium, a familiar venue for the performer who recently wrapped up a massive, sold-out world tour. Those recent global dates included high-energy performances in major cities such as London, Paris, and various locations across the United States.",
+          "His recent tour closing dates at the very same California venue featured an array of star-studded cameo appearances, building massive anticipation for what he might bring to the upcoming football championship event."
+        ]
+      },
+      {
+        "h": "Star-Studded Collaborations and Family Ties",
+        "p": [
+          "During his recent concert run, the stage played host to notable figures including Scarface, DJ Khaled, John Legend, Dr. Dre, and Snoop Dogg. Fans also witnessed special appearances from family members, notably his daughter Blue Ivy and his legendary wife, Beyoncé.",
+          "Given these recent collaborative showcases, rampant speculation has naturally turned toward whether members of his famous family or past tour guests might join him for surprise appearances during the big game."
+        ]
+      },
+      {
+        "h": "A Historic Partnership with the NFL",
+        "p": [
+          "The artist's entertainment company, Roc Nation, has been producing the iconic halftime spectacle since 2019, making his eventual transition to the performing side an anticipated milestone. NFL Commissioner Roger Goodell revealed that when their partnership first began, he had a single request: that the rap mogul take the stage himself whenever the timing felt right.",
+          "Executives from Apple Music also shared their enthusiasm, highlighting his profound and undeniable impact on global music culture after years of collaborating to bring top-tier talent to the historic stage."
+        ]
+      },
+      {
+        "h": "Joining an Elite Roster of Legends",
+        "p": [
+          "Stepping into this role places the rapper alongside a prestigious lineage of past halftime headliners. Previous artists who have commanded the massive global broadcast include major names like Kendrick Lamar, Rihanna, The Weeknd, and Madonna.",
+          "The announcement follows a line of critically acclaimed performances, keeping alive the tradition of delivering unforgettable spectacles that capture the attention of millions of viewers worldwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jay-Z has been officially confirmed to headline the Super Bowl halftime show taking place on February 14 at SoFi Stadium in California. The performance will celebrate his 30 years in the music industry, building on years of creative partnership between the NFL and his entertainment company, Roc Nation."
+        ]
+      }
+    ],
+    "facts": [
+      "Jay-Z is confirmed as the Super Bowl 2027 halftime show performer.",
+      "The event takes place on February 14 at SoFi Stadium in California.",
+      "The performance celebrates Jay-Z's 30 years in the music industry.",
+      "Roc Nation has produced the Super Bowl halftime show since 2019."
+    ],
+    "entities": {
+      "people": [
+        "Jay-Z",
+        "Miley Cyrus",
+        "Scarface",
+        "DJ Khaled",
+        "John Legend",
+        "Dr. Dre",
+        "Snoop Dogg",
+        "Blue Ivy",
+        "Beyoncé",
+        "Kendrick Lamar",
+        "Rihanna",
+        "The Weeknd",
+        "Madonna",
+        "Roger Goodell",
+        "Oliver Schusser",
+        "Bad Bunny"
+      ],
+      "titles": [
+        "Reasonable Doubt"
+      ]
+    },
+    "images": [],
+    "published": "2026-10-27T07:17:54Z"
+  },
+  "1qpxchr": {
+    "id": "1qpxchr",
+    "type": "news",
+    "headline": "Netflix Docuseries 'The One About Matthew Perry' Examines the Actor's Lifelong Struggle With Addiction",
+    "dek": "A new three-part documentary directed by Mary Robertson offers an intimate, heartbreaking look at Matthew Perry's battles with substance abuse, featuring accounts from his family and closest friends.",
+    "body": [
+      {
+        "h": "An Intimate Portrait Without High-Profile Cameos",
+        "p": [
+          "The new three-part Netflix docuseries takes a deeply personal approach to chronicling the life of the late actor, notably choosing to forgo interviews with his famous television castmates. Figures like his fellow 'Friends' stars did not sit down for the project, nor did longtime companion and 'Simpsons' voice actor Hank Azaria, or other notable past collaborators.",
+          "Whether driven by production access constraints or intentional creative choices, the absence of widespread star power allows the narrative to focus more sharply on a vulnerable chronicle. Instead of Hollywood prestige, the project centers on a straightforward and profoundly somber examination of how immense talent and comedic success could not shield a person from a chronic disease."
+        ]
+      },
+      {
+        "h": "Family and Friends Step Forward as Narration Guides",
+        "p": [
+          "Serving as the unofficial central guide of the documentary is Mia Perry Bowick, the younger half-sister of the actor who works as a therapist. She openly recounts the surreal experience of sharing a beloved sibling with the global monoculture during the absolute peak of his television fame.",
+          "Bowick is joined by trusted companions such as Roger Castillo and David Pressman, who reminisce about early pre-fame days spent hanging out with Perry and Azaria at the Formosa Cafe in West Hollywood. The lineup of interviewees also extends to past romantic partners and even a younger acquaintance from a rehabilitation facility who bonded with him across an age gap."
+        ]
+      },
+      {
+        "h": "Relying on Established Facts and Personal Archives",
+        "p": [
+          "Because the actor was remarkably open about his recovery journey later in life—most notably through his 2022 memoir—the series does not drop major bombshell revelations or uncover entirely unknown biographical territory. An introductory title card explicitly frames the program as the life story told collectively by family, friends, and the late actor himself through archival materials.",
+          "Director Mary Robertson avoids gimmicks or speculative techniques, utilizing recorded archival clips and previously publicized audio of the actor's own voice. Hearing his words, such as a youthful prayer pleading for fame while acknowledging that consequences eventually followed, adds a searing layer of authenticity to the tragic narrative."
+        ]
+      },
+      {
+        "h": "Contextualizing the Sitcom Success Within a Broader Life",
+        "p": [
+          "It remains impossible to explore the performer's trajectory without examining his defining role, bringing in perspectives from writer Jeff Strauss and former NBC Entertainment president Warren Littlefield. The project successfully places the massive cultural run of the hit sitcom in the middle of a much larger, more complex personal history.",
+          "The timeline maps his upbringing, feeling caught between the separate households of his remarried parents, and highlights the later career attempts like 'Studio 60 on the Sunset Strip' that collided with ongoing addiction struggles. Furthermore, the 2021 television reunion special is highlighted as a period of immense personal anxiety, compounded by online scrutiny regarding his appearance while he was silently recovering from severe medical complications."
+        ]
+      },
+      {
+        "h": "Tracing the Long Road of Relapse and Medical Crises",
+        "p": [
+          "The extended runtime of a multi-part series affords adequate space to demonstrate the exhausting, start-and-stop nature of the battle against substance dependence. Troubles began when prescribed painkillers were administered following an on-set injury while shooting the 1997 feature film 'Fools Rush In', sparking cyclical periods of detox and relapse.",
+          "Milestones along this difficult path included a life-threatening coma induced by gastrointestinal perforation tied to opioid overuse in 2018. The documentary methodically lays out these harrowing medical milestones through firsthand recollections from those who witnessed the deterioration up close."
+        ]
+      },
+      {
+        "h": "Addressing the Legal Aftermath and Final Days",
+        "p": [
+          "The closing moments of the program confront the grim reality of the star's passing due to an acute overdose of ketamine, detailing the subsequent criminal convictions handed down to dealers and live-in assistant Kenneth Iwamasa. Iwamasa admitted to administering the fatal drug, a factual detour that brings legal experts like a former U.S. Attorney into the conversation.",
+          "This abrupt shift into legal territory receives emotional grounding from Bowick, who delivers a sharp condemnation of the live-in assistant's enabling behavior and failure to notify family members. Through these perspectives, well-known headlines are reframed through the eyes of individuals who suffered the deepest personal impacts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new three-part documentary directed by Mary Robertson explores the life and struggles of the late television star through interviews with his family, close friends, and former partners rather than his famous castmates. The project examines his decades-long battle with substance abuse, career pressures, and the tragic circumstances surrounding his death from a ketamine overdose."
+        ]
+      }
+    ],
+    "facts": [
+      "The docuseries is titled 'The One About Matthew Perry'.",
+      "The series is directed by Mary Robertson.",
+      "The docuseries consists of three parts and is available on Netflix.",
+      "Matthew Perry died from a ketamine overdose in the fall of 2023.",
+      "Mia Perry Bowick is Matthew Perry's younger half-sister.",
+      "Matthew Perry released a memoir in 2022.",
+      "Perry suffered a sepsis-induced coma in 2018 resulting from opiate use.",
+      "Perry took prescribed painkillers after an on-set injury while filming the 1997 film 'Fools Rush In'."
+    ],
+    "entities": {
+      "people": [
+        "Matthew Perry",
+        "Mary Robertson",
+        "Hank Azaria",
+        "Bradley Whitford",
+        "Aaron Sorkin",
+        "Mia Perry Bowick",
+        "Roger Castillo",
+        "David Pressman",
+        "Jonathan Lynn",
+        "Jeff Strauss",
+        "Warren Littlefield",
+        "Kenneth Iwamasa"
+      ],
+      "titles": [
+        "The One About Matthew Perry",
+        "Friends",
+        "The Simpsons",
+        "Quiet on Set",
+        "The Whole Nine Yards",
+        "Fools Rush In",
+        "Studio 60 on the Sunset Strip"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/The_One_About_Matthew_Perry_n_S1_E1_00_09_46_19.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Netflix Docuseries 'The One About Matthew Perry' Examines the Actor's Lifelong Struggle With Addiction",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 07:01:00 +0000"
+  },
+  "b15m7m": {
+    "id": "b15m7m",
+    "type": "news",
+    "headline": "Randeep Hooda Discusses Working with John Cena in Matchbox: The Movie and Directing Future",
+    "dek": "Randeep Hooda shares his experience of sharing screen space with John Cena in Matchbox: The Movie, reuniting with Extraction director Sam Hargrave, and his plans for future directorial ventures.",
+    "body": [
+      {
+        "h": "International Project and John Cena",
+        "p": [
+          "Randeep Hooda has expanded his international cinematic footprint by starring in Matchbox: The Movie. This latest project allowed him to share screen space with wrestler-turned-actor John Cena, offering Hooda a fresh perspective on his co-star's talents.",
+          "While Cena is often recognized for his online persona, Hooda observed a completely different side of him on set, noting his immense focus and acting capabilities."
+        ]
+      },
+      {
+        "h": "Praise for Cena's Acting and Dedication",
+        "p": [
+          "Offering high praise for John Cena, Randeep Hooda emphasized that his colleague possesses far greater acting skills than public perception typically suggests. Hooda witnessed this dedication firsthand while performing alongside him in shared scenes.",
+          "During their time working together, the actors bonded over shared inspirations, discovering a mutual appreciation for action icon Arnold Schwarzenegger."
+        ]
+      },
+      {
+        "h": "Cena's Indian Fandom and WWE Ties",
+        "p": [
+          "Conversations between the co-stars often touched upon John Cena's massive popularity in India, a following the actor is well aware of and deeply appreciates. Hooda and Cena discussed everything from his famous blue suit worn in the country to his massive demographic appeal stretching from children to grandparents.",
+          "Hooda noted the surreal experience of watching Cena prepare for and leave for a wrestling match in the middle of their production schedule."
+        ]
+      },
+      {
+        "h": "Reunion with Sam Hargrave",
+        "p": [
+          "Matchbox: The Movie also facilitated a joyful reunion between Randeep Hooda and director Sam Hargrave. The two previously collaborated on the 2020 hit Extraction, building a strong creative shorthand.",
+          "Hooda expressed great enthusiasm for the project, citing the impressive action sequences and compelling character arc that Hargrave designed for him. Many crew members from Extraction were also involved, creating a nostalgic atmosphere on set."
+        ]
+      },
+      {
+        "h": "National Film Award and Directorial Ambitions",
+        "p": [
+          "On the home front, Randeep Hooda recently achieved a major career milestone by winning his first National Film Award as a director for Veer Savarkar. This accolade has naturally sparked curiosity regarding his future behind the camera.",
+          "While acting remains his primary passion, Hooda acknowledged that directing provides a unique and thrilling canvas where numerous artistic disciplines merge to give an artist entirely new wings."
+        ]
+      },
+      {
+        "h": "Future Scripts and Producing Plans",
+        "p": [
+          "Looking ahead, Randeep Hooda is actively developing several new scripts and evaluating how he wants to approach future directorial projects. He also intends to take on producing roles for upcoming ventures.",
+          "Although the National Award recognition has inspired him to experiment more with filmmaking, Hooda reiterated that acting will forever remain his first love, and he will step back into the director's chair only when his scripts feel fully prepared."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Randeep Hooda opens up about his experience starring alongside John Cena in Matchbox: The Movie and reuniting with Extraction director Sam Hargrave. He also discusses his recent National Film Award win for Veer Savarkar and shares his future plans regarding acting, producing, and directing."
+        ]
+      }
+    ],
+    "facts": [
+      "Randeep Hooda starred in Matchbox: The Movie with John Cena.",
+      "Matchbox reunited Randeep Hooda with Extraction director Sam Hargrave.",
+      "Extraction was released in 2020.",
+      "Randeep Hooda won his first National Film Award as a director for Veer Savarkar."
+    ],
+    "entities": {
+      "people": [
+        "Randeep Hooda",
+        "John Cena",
+        "Sam Hargrave",
+        "Arnold Schwarzenegger"
+      ],
+      "titles": [
+        "Matchbox: The Movie",
+        "Extraction",
+        "Veer Savarkar"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/850210751_18373760329243633_6791841181775393265_n__1793083818012_aV4z_1793083818149_suSo_f4ad4f21-38d4-449c-b76c-a9274d8eae3e_71pK.jpg",
+        "caption": "Randeep Hooda Discusses Working with John Cena in Matchbox: The Movie and Directing Future",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 12:23:57 +0530"
+  },
+  "1ji8j5i": {
+    "id": "1ji8j5i",
+    "type": "news",
+    "headline": "Vikrant Massey Looks Back at His National Award-Winning Role as 12th Fail Reaches Three-Year Milestone",
+    "dek": "Actor Vikrant Massey opens up about the emotional depth, sequential filming, and unscripted moments that went into portraying real-life IPS officer Manoj Kumar Sharma.",
+    "body": [
+      {
+        "h": "Celebrating Three Years of a Modern Classic",
+        "p": [
+          "Marking three years since its theatrical release, the acclaimed biographical drama continues to draw praise for its raw emotional resonance and authentic storytelling. Chronicling the grueling journey of a young man fighting against all odds, the feature has cemented its place in contemporary cinema. Viewers have continually lauded the project for its unflinching portrayal of grit, perseverance, and triumph over adversity.",
+          "At the heart of this success is the lead performance, which captured the collective imagination of moviegoers nationwide. The role not only connected deeply with audiences on an emotional level but also earned widespread critical acclaim. This appreciation culminated in top honors, marking a major milestone for the star's illustrious film career."
+        ]
+      },
+      {
+        "h": "Embodying IPS Officer Manoj Kumar Sharma",
+        "p": [
+          "Bringing a real-life public servant to the silver screen requires immense dedication and a profound understanding of the character's internal struggles. The narrative follows the arduous path of an individual striving to clear a notoriously difficult civil services examination. Through careful choices and an earnest delivery, the lead actor managed to breathe life into the inspirational journey.",
+          "The creative vision behind the lens played a critical role in shaping the final output. The director orchestrated an environment where genuine emotions could surface naturally during pivotal sequences. This careful cultivation of tone allowed the depiction of resilience to feel grounded and entirely believable."
+        ]
+      },
+      {
+        "h": "The Mechanics of Sequential Filming",
+        "p": [
+          "One of the most defining aspects of the production process was the choice to shoot the vast majority of scenes in chronological order. Approximately eighty-five percent of the picture followed this sequential approach, altering how the cast experienced the narrative arc. By living through the trials step by step, the primary artist built an authentic sense of exhaustion and relief.",
+          "This methodology proved particularly vital for the climactic examination results sequence. Having already navigated weeks of simulated hardship and extensive preparation, the emotional breakdown required very little artificial enhancement. The journey mirrored the character's actual trials, lending an organic weight to the resolution."
+        ]
+      },
+      {
+        "h": "Unscripted Impulses and Physicality",
+        "p": [
+          "Spontaneous physical expressions often elevate a great performance into an unforgettable cinematic memory. During the intense moment of realizing he had finally cleared the examination, a specific gesture emerged without prior planning. The instinctive clasping of the knee happened entirely by chance as the character's accumulated burdens finally lifted.",
+          "This unscripted reaction captured the overwhelming relief of a final, desperate attempt succeeding against steep odds. The performer noted that such impulses arise naturally when an actor has fully immersed themselves in the psychological weight of the narrative. It underscored the exhaustion of a protagonist who had poured every ounce of remaining energy into the endeavor."
+        ]
+      },
+      {
+        "h": "Observation Over Formal Training",
+        "p": [
+          "Without a traditional background in dramatic institutions, the actor relies on alternative methods to construct complex personas. Extensive observation of daily life and maintaining personal journals serve as primary tools for character building. Logging specific thoughts and behavioral traits provides a reliable reservoir of reference material when tackling demanding roles.",
+          "This unique preparation style enables a deep connection with underdogs and individuals fighting against systemic hurdles. By anchoring performances in meticulous observation rather than rigid formulas, the star consistently delivers grounded and relatable portrayals across diverse cinematic projects."
+        ]
+      },
+      {
+        "h": "Resilience Echoed Through Notable Dialogues",
+        "p": [
+          "Memorable lines within the screenplay often encapsulate the overarching theme of unyielding determination. A standout reference to legendary mountaineers highlights the difference between those who achieve mainstream renown and those who break barriers in silence. Comparing extreme mountaineering milestones to the protagonist's barefoot journey emphasizes an isolated struggle devoid of safety nets.",
+          "This tenacity defines the core message of the biographical drama, reminding viewers of the power inherent in quiet persistence. The sentiment resonates far beyond the cinematic universe, offering an inspiring blueprint for anyone confronting monumental life challenges without conventional advantages."
+        ]
+      },
+      {
+        "h": "Looking Toward Future Real-Life Portraits",
+        "p": [
+          "Building upon the momentum of this career-defining milestone, the celebrated performer continues to seek out demanding roles. Upcoming projects include another biographical feature titled White, where he is slated to portray spiritual leader Sri Sri Ravi Shankar. This choice demonstrates a continued commitment to interpreting multifaceted real-life personalities on film.",
+          "As the legacy of his past triumphs grows, fans eagerly anticipate how these upcoming cinematic ventures will unfold. The dedication to authentic storytelling ensures that his future filmography will remain anchored in compelling, character-driven narratives."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vikrant Massey recently reflected on his National Award-winning performance in 12th Fail as the film marked its third anniversary. He discussed how shooting most of the movie in sequence and relying on personal journals helped him authentically portray IPS officer Manoj Kumar Sharma."
+        ]
+      }
+    ],
+    "facts": [
+      "12th Fail completed three years of its theatrical release on October 27, 2026.",
+      "Vikrant Massey won his first National Film Award for Best Actor for his role as IPS officer Manoj Kumar Sharma.",
+      "Vidhu Vinod Chopra directed 12th Fail.",
+      "Approximately 85% of the film was shot in sequence.",
+      "Vikrant Massey is set to portray spiritual leader Sri Sri Ravi Shankar in an upcoming biopic titled White."
+    ],
+    "entities": {
+      "people": [
+        "Vikrant Massey",
+        "Manoj Kumar Sharma",
+        "Vidhu Vinod Chopra",
+        "Edmund Hillary",
+        "Sherpa Ang Rita",
+        "Sri Sri Ravi Shankar",
+        "Grinell Jacinto"
+      ],
+      "titles": [
+        "12th Fail",
+        "White"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/10/Vikrant-Massey-Reflects-On-His-National-Award-Winning-Performance-In-12th-Fail.webp",
+        "caption": "Vikrant Massey Looks Back at His National Award-Winning Role as 12th Fail Reaches Three-Year Milestone",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 07:08:33 +0000"
   }
 };
