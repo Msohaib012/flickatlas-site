@@ -507,6 +507,45 @@
      "detail": "124 stories, 1 duplicates removed, 86 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:55:55Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": {
+     "candidates": 88,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "'Harry Potter' series casts Jasper Talbot and Hannah Chinn as James and Lily Potter",
+      "Pokémon Is Officially Pulling the Plug on One of Its Biggest Games",
+      "5 Netflix Sci-Fi Shows With No Bad Seasons, Ranked",
+      "Crystal Lake Season 2 Update Teases More Fan-Favorite Friday the 13th Characters’ Arrivals",
+      "Spider-Man: Brand New Day’s Multi-Platform Streaming Success Leaves MCU Fans With One Question",
+      "Daredevil’s Charlie Cox Reveals Why Born Again’s Cancellation Feels Like a ‘Gift’",
+      "Amy Poehler & Hugh Laurie Uncover Artifacts in First Trailer for New Streaming Adventure Series",
+      "Every Nathan Fillion TV Show, Ranked (From Firefly To Lanterns)",
+      "Elmo Is Going as Meryl Streep’s Evil Fashion Editor Miranda Priestly for Halloween This Year",
+      "Jafar Panahi Now Faces a Five-Year Prison Term in New Ruling on Top of His Previous One-Year Conviction",
+      "Bunny Levine’s Final Film ‘Omi’ Premieres at Austin Film Festival – Watch the Trailer –  Film News in Brief",
+      "Banijay & Don’t Tell Comedy Strike Strategic Partnership",
+      "Connor Storrie in Talks to Star in ‘Ghost Rider’ With Ryan Gosling",
+      "Heated Rivalry’s Connor Storrie in talks to join Ryan Gosling in Marvel’s Ghost Rider",
+      "SM Denies Rumors Of Banning A2O LITE Challenge Among Its Artists",
+      "bournemouth train station accident fall 37816727",
+      "weather maps forecast cold temperature 37816353",
+      "Every ‘Halloween’ Movie Ranked From Worst to Best Based on Rotten Tomatoes Scores",
+      "Demi Lovato Says She’s Fine After Possible Allergic Reaction Leads to Hospital Visit",
+      "Is Connor Storrie Joining the MCU? ‘Heated Rivalry’ Star In Talks to Join Ryan Gosling’s ‘Ghost Rider’"
+     ],
+     "updated": [],
+     "count": 31,
+     "detail": "32 stories, 0 duplicates removed, 56 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -731,6 +770,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T21:34:15Z",
     "run_id": "40587623714",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:56:02Z",
+    "run_id": "40590525953",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -979,6 +1036,24 @@
      "detail": "now 6, coming 9"
     },
     "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T21:56:03Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -1139,6 +1214,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T21:41:23Z",
     "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1415,6 +1500,24 @@
      "detail": "+0 new rows, 4 updated rows, 192 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T22:01:07Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": {
+     "candidates": 196,
+     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 192 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -1582,6 +1685,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T21:41:23Z",
     "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1876,6 +1989,24 @@
      "detail": "api-news.json 82 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T22:01:09Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 82 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -2035,6 +2166,29 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T21:56:02Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Hurmat Ep 8",
+      "Khushi Ep 45",
+      "Bano Ep 15",
+      "Dastoor Ep 67",
+      "Izzat Ep 38"
+     ],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "title_seed": [
@@ -2238,6 +2392,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -2391,6 +2555,23 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T21:56:02Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": {
+     "candidates": 0,
+     "detail": "daily cap 40/40 reached; batch skipped"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "cap"
    }
   ],
   "overseas_ai": [
@@ -2519,6 +2700,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T21:41:23Z",
     "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2665,6 +2856,21 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 40,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
@@ -2852,6 +3058,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -2994,6 +3215,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -3122,6 +3353,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T21:41:23Z",
     "run_id": "40587623714",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3258,6 +3499,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -3290,6 +3541,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -3302,8 +3563,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T22:01:16Z",
+    "run_id": "40590525953",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T21:41:23Z"
+ "updated_at": "2026-10-27T22:01:16Z"
 }

@@ -10228,13 +10228,20 @@ window.FA_ARTICLES = {
           "Bano Episode 15 aired on 2026-10-27 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=qmUSWiPJaaE"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Yeh kahani aik middle-class larki Bano ki hai jo apne bimar baap ka sahara banti hai aur Murtaza se mohabbat karti hai. Shehryar ki pehli biwi Mehrunisa ke videsh jaane ke baad, Shehryar ki shadi Bano se ho jati hai jo apni nayi zindagi mein kai mushkilat ka samna karti hai. Waqt ke sath Shehryar ke dil mein Bano ke liye jazbaat badalne lagte hain lekin Mehrunisa ki wapsi un ki khushiyon ko khatre mein daal deti hai. Episode 15, 27 October 2026 ko Geo TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 15 aired on 2026-10-27.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=qmUSWiPJaaE",
-      "YouTube views: 410,263."
+      "YouTube views: 410,263.",
+      "Story summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10269,6 +10276,12 @@ window.FA_ARTICLES = {
         "p": [
           "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Yeh drama mohabbat, guroor aur rishton ki aazmaish ki aik kahani hai, jahan izzat ki sakht shartein aur dil ki ankahee khwahishein aapas mein takrati hain. Raaz aur galatfehmiyon ke bojh tale nazuk rishte bikharne lagte hain aur qurbaniyan haqeeqat ke samne aa jati hain. Kya waqt ke zakhmon ko taqdeer bhar sakegi ya yeh dil par hamesha ke liye koi gehra nishaan chhor jayegi? Episode 8, 27 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -10276,7 +10289,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=O5zs__9FJsM",
       "YouTube views: 1,971,978.",
-      "TMDB: Hurmat (id 337670)."
+      "TMDB: Hurmat (id 337670).",
+      "Story summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10353,13 +10367,20 @@ window.FA_ARTICLES = {
           "Khushi Episode 45 aired on 2026-10-27 on HUM TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=e0e5DJyyAIQ"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Yeh drama mohabbat, rishton aur insaan ki zindagi ke faislon ki ek dilchasp kahani hai. Zindagi ke safar mein har naya faisla naye imtihaan, mushkilat aur rishton ki mazbooti ka test le kar aata hai. Yeh jazbaat aur taqdeer ki kashmakash se bhari hui ek aisi kahani hai jo family bonds aur pyaar ki asli taaqat ko dikhati hai. Episode 45, 27 October 2026 ko HUM TV par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Khushi Episode 45 aired on 2026-10-27.",
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=e0e5DJyyAIQ",
-      "YouTube views: 676,361."
+      "YouTube views: 676,361.",
+      "Story summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10388,13 +10409,20 @@ window.FA_ARTICLES = {
           "Izzat Episode 38 aired on 2026-10-27 on ARY Digital. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=P2r4Q7TaN5I"
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Izzat ki episode 38, 27 October 2026 ko ARY Digital par nashar hui."
+        ]
       }
     ],
     "facts": [
       "Izzat Episode 38 aired on 2026-10-27.",
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=P2r4Q7TaN5I",
-      "YouTube views: 22,834."
+      "YouTube views: 22,834.",
+      "Story summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10429,6 +10457,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Story Summary",
+        "p": [
+          "Yeh drama mohabbat, qurbani aur khandan ke andar chalne wale ikhtilafat ki ek jazbati kahani hai. Is mein ek maan aur betiyon ki mushkil zindagi ka safar dikhaya gaya hai jahan unhein tootey rishton aur waqt ke badalte faislon ka saamna karna parta hai. Yeh dard, maafi aur doosre mauqon ki aik aisi kahani hai jo zindagi ke mukhtalif rang samete hue hai. Episode 67, 27 October 2026 ko Green TV par nashar hui."
+        ]
       }
     ],
     "facts": [
@@ -10436,7 +10470,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=gXXtDYiNeLA",
       "YouTube views: 318,680.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Story summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
