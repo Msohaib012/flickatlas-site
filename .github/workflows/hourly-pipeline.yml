@@ -536,17 +536,20 @@ jobs:
           TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
         run: bash scripts/commit_with_retry.sh
 
-      # --- 15. Deploy to Cloudflare (only when the run committed) -------
+      # --- 15. Deploy to Cloudflare (always) ------------------------------
       # Static-asset deploy via the Cloudflare API (see
-      # scripts/cloudflare_deploy.py). Gated on the commit step's output
-      # so a no-change hour costs no deploy. The script exits 0 with a
-      # warning when CLOUDFLARE_API_TOKEN is not set yet, so the pipeline
-      # keeps working until the secret is added.
+      # scripts/cloudflare_deploy.py). UNCONDITIONAL since 12fb0d96: the
+      # old gate ("only when the run committed") meant a manual push with
+      # no pipeline changes sat undeployed until the next content-changing
+      # run. The script exits 0 with a warning when CLOUDFLARE_API_TOKEN
+      # is not set yet, so the pipeline keeps working until the secret is
+      # added.
       - name: Deploy to Cloudflare
         id: cfdeploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: python3 scripts/cloudflare_deploy.py
+
 
 
 
