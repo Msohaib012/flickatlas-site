@@ -7726,5 +7726,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 03:22:47 +0000"
+  },
+  "1j8jx79": {
+    "id": "1j8jx79",
+    "type": "news",
+    "headline": "Rajinikanth's Jailer 2 Crosses Rs 400 Crore India Nett and Reaches Rs 733 Crore Globally in 12 Days",
+    "dek": "Superstar Rajinikanth's action film Jailer 2 has surpassed the Rs 400-crore nett mark in India despite a slowdown on its second Monday, touching a worldwide gross of over Rs 733 crore.",
+    "body": [
+      {
+        "h": "Reaching the Rs 400 Crore Milestone",
+        "p": [
+          "The action-packed entertainer starring superstar Rajinikanth has successfully crossed the significant milestone of Rs 400 crore in domestic nett collections. This achievement arrives on the twelfth day of its theatrical run, highlighting the strong financial momentum the project has maintained since its debut.",
+          "Trade tracking figures show that the cumulative domestic nett has climbed to Rs 408.15 crore, driven by a solid opening week and a rewarding second weekend."
+        ]
+      },
+      {
+        "h": "Second Monday Box Office Performance",
+        "p": [
+          "On its second Monday, October 26, the film experienced a noticeable dip in daily earnings, pulling in Rs 9.45 crore across domestic screens. This reflected a 63.2 percent reduction when compared to the robust Rs 25.70 crore collected on the preceding Sunday.",
+          "The drop signals a standard weekday cooling period after energetic weekend turnouts, with the overall domestic occupancy averaging 19.8 percent across all supported language versions."
+        ]
+      },
+      {
+        "h": "Second Weekend Recovery",
+        "p": [
+          "Before the weekday decline, the feature experienced a steady recovery through its second weekend following a modest second Friday collection of Rs 14.50 crore. Saturday brought in Rs 24.15 crore, while Sunday served as the highest earning day of the weekend at Rs 25.70 crore.",
+          "Altogether, the three-day weekend contributed a total of Rs 64.35 crore nett domestically before momentum transitioned into the subsequent weekday slump."
+        ]
+      },
+      {
+        "h": "Language-Wise Contributions",
+        "p": [
+          "The Tamil version remained the primary engine for domestic revenue, generating Rs 5.65 crore on Monday across 4,518 shows with a 25.1 percent occupancy rate. Telugu screenings followed with Rs 2 crore from 1,771 shows, while Hindi screenings brought in Rs 1.40 crore.",
+          "Kannada language screenings added a further Rs 40 lakh to the domestic tally, with Hindi presentations recording the lowest occupancy rates among the four language variants."
+        ]
+      },
+      {
+        "h": "Regional State-Wise Gross Breakdown",
+        "p": [
+          "Geographically, Tamil Nadu remained the strongest regional market, contributing Rs 4 crore in gross collections on Monday. Karnataka followed closely with Rs 2.35 crore, while Andhra Pradesh and Telangana together brought in Rs 1.90 crore.",
+          "Kerala contributed Rs 1.25 crore and the rest of India added Rs 1.50 crore, bringing the tracked state-wise gross total for the day to Rs 11 crore."
+        ]
+      },
+      {
+        "h": "Global Gross and Opening Week Context",
+        "p": [
+          "Worldwide, the movie has accumulated a massive gross of Rs 733.35 crore by its twelfth day. This global total comprises Rs 477.85 crore from domestic gross earnings and Rs 255.50 crore originating from international overseas markets.",
+          "This builds heavily upon its initial week in theaters, where it collected an opening week domestic nett of Rs 334.35 crore following its October 15 premiere with a Rs 59.70 crore opening day."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Direction",
+        "p": [
+          "Helmed by director Nelson Dilipkumar, the movie features an ensemble cast that includes Rajinikanth alongside Ramya Krishnan, Mohanlal, Yogi Babu, Vinayakan, Vidya Balan, Hrithik Roshan, Jackie Shroff, Shiva Rajkumar, and Vijay Sethupathi.",
+          "The technical team comprises cinematographer Vijay Kartik Kannan, music composer Anirudh Ravichander, and editor R Nirmal, who together shaped the theatrical presentation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has crossed Rs 400 crore in India nett and reached a worldwide gross of Rs 733.35 crore by its twelfth day in theaters. Despite a sharp slowdown on its second Monday, the film continues to grow its cumulative box-office total following a strong opening week and a lucrative second weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth’s Jailer 2 crossed Rs 400 crore India nett in 12 days.",
+      "The worldwide gross reached Rs 733.35 crore in 12 days.",
+      "The second Monday collection on October 26, 2026, was Rs 9.45 crore India nett.",
+      "The cumulative domestic nett reached Rs 408.15 crore.",
+      "Sunday collections were Rs 25.70 crore.",
+      "The film opened on October 15 with Rs 59.70 crore.",
+      "Opening week accumulated Rs 334.35 crore India nett.",
+      "Second Friday collection was Rs 14.50 crore.",
+      "Second Saturday collection was Rs 24.15 crore.",
+      "The second weekend three-day total was Rs 64.35 crore nett.",
+      "Tamil version earned Rs 5.65 crore on Monday across 4,518 shows.",
+      "Telugu screenings collected Rs 2 crore from 1,771 shows.",
+      "Hindi version contributed Rs 1.40 crore across 3,949 shows.",
+      "Kannada screenings added Rs 40 lakh from 212 shows.",
+      "Tamil Nadu grossed Rs 4 crore on Monday.",
+      "Karnataka contributed Rs 2.35 crore.",
+      "Andhra Pradesh and Telangana combined contributed Rs 1.90 crore.",
+      "Kerala added Rs 1.25 crore.",
+      "Rest of India contributed Rs 1.50 crore.",
+      "Tracked state-wise gross total on Monday stood at Rs 11 crore.",
+      "Cumulative India gross stands at Rs 477.85 crore.",
+      "Overseas markets contributed Rs 255.50 crore."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Ramya Krishnan",
+        "Mohanlal",
+        "Yogi Babu",
+        "Vinayakan",
+        "Vidya Balan",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Shiva Rajkumar",
+        "Vijay Sethupathi",
+        "Vijay Kartik Kannan",
+        "Anirudh Ravichander",
+        "R Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/the-rajinikanth-led-film-is-among-the-fastest-films-to-cross-the-300-crore-milestone-in-the-country-223232908-16x9.png?VersionId=asXxXXoM0k.r32wpYZPdUhlN71szMhTL",
+        "caption": "Rajinikanth's Jailer 2 Crosses Rs 400 Crore India Nett and Reaches Rs 733 Crore Globally in 12 Days",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 09:50:32 +0530"
+  },
+  "ku6dkq": {
+    "id": "ku6dkq",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
+    "dek": "Shah Rukh Khan's highly anticipated action entertainer King has reaffirmed its December 24, 2026 theatrical release with a striking new poster, putting renewed emphasis on the makers' commitment to the Christmas schedule.",
+    "body": [
+      {
+        "h": "Release Date Reconfirmed",
+        "p": [
+          "Shah Rukh Khan's upcoming action entertainer King has officially reaffirmed its December 24, 2026 theatrical release date. A striking new promotional poster was unveiled to put renewed emphasis on the makers' commitment to the Christmas holiday schedule.",
+          "The project had previously faced speculation regarding a possible postponement. With several major Hollywood films arriving during the same festive window, rumors had circulated about the Hindi feature shifting its launch."
+        ]
+      },
+      {
+        "h": "Poster Visuals and Character Look",
+        "p": [
+          "The newly released promotional artwork prominently displays the original December release date. It signals clearly that the production team is pressing ahead with its announced plans rather than seeking an alternative window.",
+          "The visual features Shah Rukh Khan walking through a burning structure. He sports a silver-haired look, a rugged outfit, a bloodied appearance, and a red rose held between his teeth to highlight a darker action-driven style."
+        ]
+      },
+      {
+        "h": "Holiday Competition and Strategy",
+        "p": [
+          "King is scheduled to arrive shortly after two major Hollywood productions, Avengers: Doomsday and Dune: Part Three, both slated for December 18. This proximity could create strong competition for premium-format screens.",
+          "Despite potential challenges regarding IMAX and multiplex show allocations, an opening on December 24 places the film directly ahead of Christmas Day and the subsequent New Year holiday period to maximize festive footfalls."
+        ]
+      },
+      {
+        "h": "Previous Speculation Addressed",
+        "p": [
+          "Shah Rukh Khan had previously addressed postponement rumors during an online interaction on September 15. He dismissed suggestions that the film would shift its theatrical arrival.",
+          "During that interaction, the superstar acknowledged the extensive work involved in bringing the project to the screen. He noted that director Siddharth Anand devoted considerable effort to large-scale action sequences while blending in emotion and comedy."
+        ]
+      },
+      {
+        "h": "Creative Team and Star-Studded Ensemble",
+        "p": [
+          "The film marks a major reunion between Shah Rukh Khan and director Siddharth Anand following their commercially successful collaboration on Pathaan in 2023. It is jointly produced by Red Chillies Entertainment and Marflix Pictures.",
+          "King features a prominent ensemble cast that includes Deepika Padukone, Suhana Khan, Abhishek Bachchan, Jaideep Ahlawat, Arshad Warsi, and Abhay Verma. The project holds special significance as Suhana Khan's theatrical feature debut alongside her father."
+        ]
+      },
+      {
+        "h": "Anticipation and Next Steps",
+        "p": [
+          "The movie represents Shah Rukh Khan's return to the big screen following his December 2023 release Dunki. The extended gap between releases has built substantial expectations among fans and industry watchers.",
+          "With the release date firmly reiterated through fresh promotional material, attention will now pivot toward the official trailer, promotional campaigns, and advance-booking rollouts as December approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's action entertainer King has reaffirmed its December 24, 2026 theatrical release through a fiery new poster featuring the superstar in a rugged, bloodied look. The project, directed by Siddharth Anand and co-starring Suhana Khan and Deepika Padukone, stands firm on its holiday release despite approaching Hollywood competition."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's King is scheduled for release on December 24, 2026.",
+      "The new poster was released on October 27, 2026.",
+      "Avengers: Doomsday and Dune: Part Three are scheduled for December 18.",
+      "Shah Rukh Khan addressed postponement rumors during a #AskSRK interaction on September 15.",
+      "King reunites Shah Rukh Khan and Siddharth Anand after Pathaan in 2023.",
+      "The film is produced by Red Chillies Entertainment and Marflix Pictures.",
+      "The cast includes Deepika Padukone, Suhana Khan, Abhishek Bachchan, Jaideep Ahlawat, Arshad Warsi, and Abhay Verma.",
+      "King marks Shah Rukh Khan's return to theatres after Dunki in December 2023."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Abhay Verma"
+      ],
+      "titles": [
+        "King",
+        "Avengers: Doomsday",
+        "Dune: Part Three",
+        "Pathaan",
+        "Dunki"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028197.jpg",
+        "caption": "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 04:39:37 +0000"
+  },
+  "t1p0y3": {
+    "id": "t1p0y3",
+    "type": "news",
+    "headline": "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
+    "dek": "Filmmaker Ritesh Batra has begun production on his next directorial venture, Long Years Ago, bringing together Saif Ali Khan, Vidya Balan, and French actress Mélanie Laurent.",
+    "body": [
+      {
+        "h": "The Star-Studded Collaboration",
+        "p": [
+          "Director Ritesh Batra has officially commenced production on his upcoming project titled Long Years Ago. The film boasts a prominent cast featuring Saif Ali Khan, Vidya Balan, and French actress Mélanie Laurent. This feature marks a notable cinematic collaboration that unites Saif and Vidya on screen once again after a gap of nineteen years.",
+          "The production is heavily supported by Jio Studios under the leadership of Jyoti Deshpande. Deshpande previously handled production duties for Dhurandhar as well, adding further industry weight to this period family comedy-drama."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "Long Years Ago is chronologically positioned in the year 1991. The narrative revolves around a household that has spent an extended period steering clear of critical dialogues. When circumstances finally compel the relatives to voice suppressed emotions and long-hidden sentiments, the plot unfolds into a family comedy-drama.",
+          "Principal photography for the venture is taking place largely within the city of Mumbai, capturing the flavor of the early nineties domestic setting envisioned by the director."
+        ]
+      },
+      {
+        "h": "Director and Cast Perspectives",
+        "p": [
+          "Ritesh Batra shared his enthusiasm regarding the ensemble cast, expressing deep honor in collaborating with the three lead artists. He noted his excitement at watching them breathe life into figures that remain deeply personal to him.",
+          "Saif Ali Khan mentioned that he felt an immediate connection to the narrative upon first reading it. He voiced eagerness for international audiences to witness the emotional journey the movie aims to deliver."
+        ]
+      },
+      {
+        "h": "Vidya Balan's Long-Awaited Wish",
+        "p": [
+          "Vidya Balan revealed that a partnership with Batra has been on her personal wish list for over a decade. Her desire to work with him solidified after she watched his acclaimed 2013 feature The Lunchbox, which had featured Irrfan Khan and Nimrat Kaur.",
+          "Now, nearly thirteen years after the release of that breakout film, Vidya finally gets her opportunity to collaborate with the acclaimed director."
+        ]
+      },
+      {
+        "h": "Mélanie Laurent's International Addition",
+        "p": [
+          "The inclusion of French actress Mélanie Laurent brings an international element to the cast of the film. Laurent recounted a fifteen-year history with Batra, having initially crossed paths with him at the Marrakech Film Festival.",
+          "During that initial encounter a decade and a half ago, the two had shared a mutual ambition to collaborate on a Mumbai-based project eventually. Laurent stated that she fell in love with the script immediately and felt honored to join the production."
+        ]
+      },
+      {
+        "h": "Filmmaker and Actor Backgrounds",
+        "p": [
+          "Director Ritesh Batra has built a recognized career through projects like The Lunchbox, Our Souls at Night, and Photograph. More recently, he directed the opening block of the Netflix series Unaccustomed Earth.",
+          "Meanwhile, Saif Ali Khan's recent credits include Priyadarshan's Haiwaan, and Vidya Balan was recently seen featured in Jailer 2, which starred Rajinikanth."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ritesh Batra has begun shooting his 1991-set family comedy-drama Long Years Ago in Mumbai, starring Saif Ali Khan, Vidya Balan, and Mélanie Laurent. The project marks a 19-year onscreen reunion for Saif and Vidya while fulfilling the actress's long-standing wish to work with the director of The Lunchbox."
+        ]
+      }
+    ],
+    "facts": [
+      "Saif Ali Khan and Vidya Balan are starring in Long Years Ago.",
+      "The film is directed by Ritesh Batra.",
+      "Mélanie Laurent is also starring in the movie.",
+      "The story is set in 1991.",
+      "The project reunites Saif and Vidya after 19 years.",
+      "Filming is taking place largely in Mumbai.",
+      "The film is backed by Jio Studios, led by Jyoti Deshpande.",
+      "Ritesh Batra previously directed The Lunchbox in 2013, which starred Irrfan Khan and Nimrat Kaur.",
+      "Batra also directed Our Souls at Night, Photograph, and the first block of Netflix series Unaccustomed Earth.",
+      "Saif Ali Khan was recently seen in Priyadarshan's Haiwaan.",
+      "Vidya Balan was part of Jailer 2, starring Rajinikanth.",
+      "Mélanie Laurent first met Ritesh Batra 15 years ago at the Marrakech Film Festival."
+    ],
+    "entities": {
+      "people": [
+        "Saif Ali Khan",
+        "Vidya Balan",
+        "Ritesh Batra",
+        "Mélanie Laurent",
+        "Jyoti Deshpande",
+        "Irrfan Khan",
+        "Nimrat Kaur",
+        "Priyadarshan",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Long Years Ago",
+        "The Lunchbox",
+        "Dhurandhar",
+        "Our Souls at Night",
+        "Photograph",
+        "Unaccustomed Earth",
+        "Haiwaan",
+        "Jailer 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/saif-ali-khan--viyda-balan-27524164-16x9_0.jpg?VersionId=77MTgliisHse2dQxPeWJFlCwuRVzKk.I",
+        "caption": "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 09:26:29 +0530"
+  },
+  "1gtw52x": {
+    "id": "1gtw52x",
+    "type": "news",
+    "headline": "XLOV's Hyun Sidelined From Upcoming Showcase Following Practice Leg Injury",
+    "dek": "Hyun from the musical group XLOV will be absent from the upcoming comeback showcase due to a leg injury sustained during practice sessions.",
+    "body": [
+      {
+        "h": "The Unfortunate Incident",
+        "p": [
+          "Preparation for major musical returns often demands intense physical exertion, which unfortunately can lead to unexpected health setbacks for performers. For members of modern pop groups, grueling rehearsal schedules are a standard part of the routine leading up to a fresh release.",
+          "During a recent practice session leading into a high-profile promotional cycle, a member of the performance lineup experienced a sudden physical mishap that will temporarily alter their scheduled appearances."
+        ]
+      },
+      {
+        "h": "Impact on the Comeback Showcase",
+        "p": [
+          "The timing of any physical injury is particularly challenging when it coincides with a heavily anticipated musical rollout designed to engage fans and media alike. Showcase events serve as the vital first introduction of new material to the public.",
+          "Due to the recent leg injury, the affected performer will be unable to take part in the upcoming introductory showcase performance, leaving fans wondering how the group will manage their choreography adjustments."
+        ]
+      },
+      {
+        "h": "Focus on Recovery and Health",
+        "p": [
+          "In the fast-paced entertainment industry, management teams typically prioritize the long-term well-being of their artists over immediate promotional obligations when medical issues arise.",
+          "Medical evaluations following practice mishaps usually dictate the timeline for rehabilitation, ensuring that artists can return to the stage safely without risking further physical complications."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Support",
+        "p": [
+          "Followers of the group quickly flooded digital spaces with messages of encouragement and sympathy upon hearing the news of the setback. Community support remains a cornerstone of the fandom experience during difficult moments.",
+          "Devotees expressed hopes for a swift and complete recovery, emphasizing that the health of the artist always comes before any promotional schedule or live performance."
+        ]
+      },
+      {
+        "h": "Group Dynamics and Adjustments",
+        "p": [
+          "When a key member is sidelined right before a major launch, the remaining performers must rapidly adapt their routines to accommodate the sudden change in formation.",
+          "Stage blocking, choreography spacing, and vocal distributions often undergo rapid revisions to ensure the group can still deliver a cohesive and engaging presentation during promotional appearances."
+        ]
+      },
+      {
+        "h": "Broader Context of K-Culture Performance Demands",
+        "p": [
+          "The rigorous standards upheld within the entertainment sector highlight the intense physical commitment required of idols and performers striving for perfection.",
+          "Incidents of this nature shed light on the hidden physical toll of rigorous dance practices and the constant pressure performers face while preparing for major career milestones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hyun from XLOV will miss the group's comeback showcase after suffering a leg injury during practice. The unexpected medical setback has prompted adjustments to the group's promotional plans while fans rally to send supportive messages for a speedy recovery."
+        ]
+      }
+    ],
+    "facts": [
+      "Hyun belongs to the group XLOV.",
+      "Hyun injured a leg during practice.",
+      "The injury will cause Hyun to miss the comeback showcase.",
+      "The published date of the report is Thu, 08 May 2025."
+    ],
+    "entities": {
+      "people": [
+        "Hyun"
+      ],
+      "titles": [
+        "XLOV"
+      ]
+    },
+    "images": [],
+    "published": "Tue, 27 Oct 2026 04:20:00 EDT"
   }
 };

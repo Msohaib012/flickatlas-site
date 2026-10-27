@@ -1,33 +1,97 @@
 {
-  "1375156": [
+  "1234139": [
     {
-      "collection_inr_cr": 4.1,
-      "date": "2026-10-23",
+      "collection_inr_cr": 59.7,
+      "date": "2026-10-15",
       "day": 1,
       "estimate": false,
-      "occupancy_pct": 13.0,
+      "occupancy_pct": 55.4,
       "source": "flickonclick"
     },
     {
-      "collection_inr_cr": 7.25,
-      "date": "2026-10-24",
+      "collection_inr_cr": 37.1,
+      "date": "2026-10-16",
       "day": 2,
       "estimate": false,
-      "occupancy_pct": 21.0,
+      "occupancy_pct": 48.2,
       "source": "flickonclick"
     },
     {
-      "collection_inr_cr": 8.1,
-      "date": "2026-10-25",
+      "collection_inr_cr": 47.25,
+      "date": "2026-10-17",
       "day": 3,
       "estimate": false,
-      "occupancy_pct": 25.0,
+      "occupancy_pct": 53.9,
       "source": "flickonclick"
     },
     {
-      "collection_inr_cr": 3.2,
-      "date": "2026-10-26",
+      "collection_inr_cr": 55.85,
+      "date": "2026-10-18",
       "day": 4,
+      "estimate": false,
+      "occupancy_pct": 62.0,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 42.35,
+      "date": "2026-10-19",
+      "day": 5,
+      "estimate": false,
+      "occupancy_pct": 49.9,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 46.8,
+      "date": "2026-10-20",
+      "day": 6,
+      "estimate": false,
+      "occupancy_pct": 53.4,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 28.15,
+      "date": "2026-10-21",
+      "day": 7,
+      "estimate": false,
+      "occupancy_pct": 34.8,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 17.15,
+      "date": "2026-10-22",
+      "day": 8,
+      "estimate": false,
+      "occupancy_pct": 25.2,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 14.5,
+      "date": "2026-10-23",
+      "day": 9,
+      "estimate": false,
+      "occupancy_pct": 26.7,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 24.15,
+      "date": "2026-10-24",
+      "day": 10,
+      "estimate": false,
+      "occupancy_pct": 35.8,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 25.7,
+      "date": "2026-10-25",
+      "day": 11,
+      "estimate": false,
+      "occupancy_pct": 38.0,
+      "source": "flickonclick"
+    },
+    {
+      "collection_inr_cr": 11.0,
+      "date": "2026-10-26",
+      "day": 12,
       "estimate": true,
       "source": "flickonclick"
     }
