@@ -103,10 +103,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 12",
-      "collection": 11622,
-      "shows": 608,
-      "occupancy": 8.1,
-      "tickets": 8760
+      "collection": 13735,
+      "shows": 702,
+      "occupancy": 8.7,
+      "tickets": 10526
     }
   ],
   "1375156": [
@@ -149,10 +149,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 5",
-      "collection": 78183,
-      "shows": 2604,
-      "occupancy": 10.4,
-      "tickets": 58322
+      "collection": 94031,
+      "shows": 2949,
+      "occupancy": 11.3,
+      "tickets": 72092
     }
   ],
   "1400940": [
@@ -504,7 +504,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 5",
-      "collection": 14791
+      "collection": 16904
     }
   ],
   "1785611": [
@@ -541,9 +541,9 @@ window.FA_DAYWISE = {
       "date": "2026-10-27",
       "day": "Day 5",
       "collection": 2113,
-      "shows": 187,
-      "occupancy": 3.7,
-      "tickets": 1200
+      "shows": 210,
+      "occupancy": 3.5,
+      "tickets": 1270
     }
   ],
   "1606527": [
@@ -689,10 +689,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 12",
-      "collection": 47544,
-      "shows": 681,
-      "occupancy": 15.9,
-      "tickets": 37409
+      "collection": 54939,
+      "shows": 872,
+      "occupancy": 15.8,
+      "tickets": 49625
     }
   ],
   "1234139": [
@@ -807,10 +807,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 13",
-      "collection": 250396,
-      "shows": 4527,
-      "occupancy": 12.1,
-      "tickets": 169358
+      "collection": 297940,
+      "shows": 5478,
+      "occupancy": 12.6,
+      "tickets": 219206
     }
   ],
   "1269325": [
@@ -1042,10 +1042,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 26",
-      "collection": 32752,
-      "shows": 1400,
-      "occupancy": 10.1,
-      "tickets": 26300
+      "collection": 38035,
+      "shows": 1556,
+      "occupancy": 10.7,
+      "tickets": 30533
     }
   ]
 };

@@ -1,0 +1,288 @@
+{
+ "steps": {
+  "fetch": [
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T09:42:52Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 153,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Ali Abbas Zafar wraps up shooting for Ahaan Panday-Sharvari starrer Beparwah; says returning to YRF feels like “coming back home”",
+      "Happy Birthday Aditi Rao Hydari: Yeh Saali Zindagi to Heeramandi; 8 Unforgettable Performances Of The Diva",
+      "New OTT Releases This Week (October 26-November 1, 2026): Obsession, Baththa, Akka and More Movies and Series on Netflix, JioHotstar and ZEE5",
+      "Net, Gross, Share, Footfalls: How Indian Box Office Is Actually Counted",
+      "star trek actor walter koenig passes away at 90 in los angeles 86800.html",
+      "photos vijay deverakonda shares snippets of his memorable weekend in abu dhabi 86802.html",
+      "'The man who almost killed Bachchan': Puneet didn't get work for 6 yrs after Coolie accident",
+      "Janhvi reveals Shikhar Pahariya left studies in London to support her after Sridevi's death",
+      "Rahul Vijay and Archana Iyer’s ‘AH’ postponed to November 12",
+      "Thalapathy Vijay's son Jason Sanjay's 'Sigma' OTT release date OUT",
+      "Shah Rukh's 'King' poster sparks online debate, netizens draw parallels with 'Dhurandhar 2'",
+      "CID, Aahat creator BP Singh dies at 75 | Dayanand Shetty aka Daya remembers the veteran, ‘He had not been well…’",
+      "Esha Deol names father Dharmendra as her idea of a perfect husband , talks about family's support during ups and downs of life",
+      "Varun Dhawan and Kriti Sanon lend their voices to Curry Barker's $522 million blockbuster Obsession's Hindi version on JioHotstar",
+      "Vidyut Jammwal reacts as his Tiger Shroff remark becomes AI meme ft. Barcelona coach",
+      "Eventually, I would want somebody with me: Isha Malviya on finding love again",
+      "Udta Teer Box Office Day 4: Ayushmann Khurrana-Led Spy Comedy Passes The Monday Test With Flying Colors; Grosses Rs 3.85 Cr",
+      "diljit dosanjh in agra visited taj mahal before aura india tour delhi concert tmovj dskc 2681293 2026 10 27",
+      "shanaya kapoor web series student of the year after dark trailer review karan johar tmovj dskc 2681334 2026 10 27",
+      "nicki minaz cardi b catfight trump comment us white house secretary rttm dskc 2681290 2026 10 27"
+     ],
+     "updated": [],
+     "count": 93,
+     "detail": "95 stories, 0 duplicates removed, 58 dropped"
+    },
+    "reason": null
+   }
+  ],
+  "apply_auto": [
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T09:42:54Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   }
+  ],
+  "ott": [
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T09:42:54Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 4, coming 5"
+    },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T09:43:02Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 20,
+     "detail": "Tavily week search results"
+    },
+    "changed": {
+     "added": [
+      "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
+      "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
+      "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
+      "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
+      "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
+      "Barry Keoghan Opens Up About Undergoing Cosmetic Skin-Tightening Treatments",
+      "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
+      "Jailer 2"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
+   }
+  ],
+  "multisource_boxoffice": [
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T09:47:39Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 138,
+     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 127 unchanged"
+    },
+    "reason": null
+   }
+  ],
+  "gemini_reviews": [
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T09:47:48Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "released movies without a review; Tavily searches: 2"
+    },
+    "changed": {
+     "added": [
+      "Hotel Utopia (1791529)"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
+   }
+  ],
+  "convert_news": [
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T09:47:50Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": {
+     "candidates": 87,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 87 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
+   }
+  ],
+  "episode_guides": [
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "title_seed": [
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "gemini_batch": [
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   }
+  ],
+  "overseas_ai": [
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "publish": [
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   }
+  ],
+  "stats_traffic": [
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
+   }
+  ],
+  "stats_pipeline": [
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "stats_health": [
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "metadata_refresh": [
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T09:47:58Z",
+    "run_id": "40482720997",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ]
+ },
+ "updated_at": "2026-10-27T09:47:58Z"
+}

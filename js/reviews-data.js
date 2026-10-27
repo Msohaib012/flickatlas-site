@@ -451,6 +451,13 @@ window.FA_REVIEWS = {
       "Story & Screenplay": 4.5
     },
     "comedy": "Reviewers note that the film is neither funny nor entirely on point with its treatment of the supernatural. The humor attempts to showcase elements like an Indian Administrative Service officer waxing eloquent about his bride, but it struggles to land effectively. While some teasers and early moments promised a fresh blend of humor, the overall entertainment value remains limited.",
+    "critic": {
+      "count": 8,
+      "raw": "2.28/5",
+      "score_10": 4.6,
+      "source": "BollyMovieReviewz",
+      "url": "https://www.bollymoviereviewz.com/2026/10/nayyi-navelli-review.html"
+    },
     "overall": 5.5,
     "performances": "The cast features Yami Gautam Dhar, Anurag Thakur, Adinath Kothare, Sushmita Mukherjee, Prateek Pachori, Mita Vashisht, and Aaditya Kulshreshth. Audiences and reviewers highlighted some great acting by the supporting cast, particularly in the first half of the film.",
     "source": "FlickAtlas Review",
@@ -462,14 +469,7 @@ window.FA_REVIEWS = {
       "talented lead cast including Yami Gautam Dhar"
     ],
     "verdict": "Nayyi Navelli is considered a complete disappointment and a cringe-worthy experience by some viewers who found the second half weak. While it features a talented cast and an interesting premise involving a bride suspected of witchcraft, it struggles to deliver on its comedic and supernatural promises. Skip this one unless you are deeply curious about Bollywood's latest horror-comedy releases.",
-    "weaknesses": "Reviewers describe the movie as a muddled mix of mythology and horror that becomes chaotic and forgettable. The storyline feels boring in parts, with poor execution and a struggle to effectively blend social commentary, horror, and humor. Ultimately, the film fails to maintain its momentum as it progresses.",
-    "critic": {
-      "source": "BollyMovieReviewz",
-      "score_10": 4.6,
-      "raw": "2.28/5",
-      "count": 8,
-      "url": "https://www.bollymoviereviewz.com/2026/10/nayyi-navelli-review.html"
-    }
+    "weaknesses": "Reviewers describe the movie as a muddled mix of mythology and horror that becomes chaotic and forgettable. The storyline feels boring in parts, with poor execution and a struggle to effectively blend social commentary, horror, and humor. Ultimately, the film fails to maintain its momentum as it progresses."
   },
   "1727734": {
     "categories": {
@@ -546,6 +546,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Surviving Hurricane Otis delivers a worthwhile dramatic experience filled with emotion, thrills, and themes of extreme courage. It is recommended for audiences looking for an intense survival story based on a real disaster. Viewers should stay invested in the journey of the brothers as they face the devastating storm.",
     "weaknesses": "The film has flaws inherent in its familiar disaster survival setup, which some viewers might find standard. While it succeeds in creating high tension and drama, the narrative pacing may occasionally test viewer patience during the unfolding catastrophe."
+  },
+  "1791529": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 6.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The documentary and travel descriptions offer a diverse mix of environments, from peaceful retreats to party-oriented towns. Entertainment value stems from exploring these distinct settings and the human desires for a perfect getaway. The premise relies on observing different groups of people seeking paradise, offering an engaging look at modern travel and lifestyle aspirations.",
+    "overall": 6.5,
+    "performances": "The top cast is not available for this documentary directed by Julia Groteclaes, which focuses instead on real individuals such as digital nomads, investors, and the last remaining villager. Reviewers of various similarly-named hotel locations frequently praise amazing staff and service, though individual cinematic performances are not the central focus of this documentary.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In an abandoned hotel deep in the Bulgarian mountains, digital nomads search for a new home while investors hope for profit. Meanwhile, the last villager revels in days gone by, all driven by the longing for #happyland in a place shaped by a socialist past. Web sources and reviews instead highlight various different real-world resorts and hotels globally named Utopia, ranging from stunning all-inclusive spots in Alanya to party towns in Ksamil.",
+    "strengths": [
+      "Intriguing documentary premise",
+      "Exploration of human longing for paradise",
+      "Diverse real-world resort comparisons",
+      "Engaging setting in the Bulgarian mountains"
+    ],
+    "verdict": "Hotel Utopia (2026) offers an intriguing documentary look at an abandoned mountain hotel and the people seeking a new home there. While it shares its name with various global resorts and party spots, viewers interested in the sociological premise will find an engaging premise. It is recommended for those curious about modern digital nomadism and socialist-era backdrops, though expectations should be managed regarding traditional narrative pacing.",
+    "weaknesses": "The primary weakness lies in the potential confusion between the documentary's focus on an abandoned Bulgarian hotel and the numerous unrelated commercial hotels found in web search results. Additionally, a lack of detailed cast information limits traditional performance analysis."
   },
   "791523": {
     "categories": {
