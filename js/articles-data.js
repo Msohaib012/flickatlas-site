@@ -2139,7 +2139,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Bano ab bhi uss ghar mein rehti hai jahan uske sath bura sulook kiya jata hai, aur woh akelay hi apni zindagi ki mushkilat ka samna kar rahi hai. Shariyar ki maan apni zid aur gurur ki wajah se usko accept nahi kar rahi, aur woh chahti hai ke Bano ko kisi tarah wahan se nikal diya jaye. Woh apne khandan ki izzat aur routh ke liye Bano ke khilaf chalne ki koshish karti hai, lekin Bano ki mazbooti aur sabr usay mazeed tabaah karne se rokta hai. Episode ke aakhir mein shariyar ki maan aur unka khandan kisi baray faislay par soch raha hai, jo Bano ki zindagi mein mazeed mushkilat paida kar sakta hai."
         ]
@@ -2181,7 +2181,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein police, Seth ki ghar chori ke silsilay mein aati hai aur Anzala ke kehne par Waqar ko shamil-e- tafteesh kiya jata hai. Waqar par ilzaam lagta hai ke us ne zewrat chori kiye hain aur Seth ke qatal mein bhi wohi shamil hai. Anzala ko jab Waqar ki sachai pata chalti hai to woh police station ja kar Waqar ko khoob sunati hai aur us par gussa nikaalti hai. Dusri taraf, Waqar ki maa thanay ja kar police se apnay betay se milnay ki minnat karti hai, lekin inspector usay inkaar kar deta hai. Episode ke aakhir mein Anzala aur Arham aik sath hotay hain aur Anzala apnay dil ki baatein Arham se share karti hai."
         ]
@@ -2229,7 +2229,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Yeh episode is waqiyat se shuru hoti hai ke Dawood beach par kisi se milta hai aur phir wahan se wapas aa jata hai, uske baad Mehar uske paas aati hai aur dono samandar ke kinare baith kar baatein karte hain, aur Dawood Mehar ko wahan se jaane ka kehta hai, Mehar city chali jati hai, kuch dino baad Dawood city me wapas aata hai aur Mehar se milta hai, episode ek khubsurat manzar aur dawood ke sochne ke andaz ke sath khatam ho jati hai."
         ]
@@ -2276,7 +2276,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Misbah aur Moiz ki office meeting dikhayi gayi hai jahan Misbah presentation deti hai aur Moiz us ki hosla afzai karta hai. Baad mein Moiz aur Misbah aik sath bus mein safar karte hain aur aik café mein baith kar baat karte hain jahan Misbah apne past ke baare mein batati hai. Episode ke aakhir mein Moiz Misbah ko bike par ghar chhorne aata hai jahan Misbah ki ammi gate par khadi hoti hain aur Moiz ko dekh leti hain."
         ]
@@ -2318,7 +2318,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Saima pareshan baith kar apnay khyalon mein gum hai aur apnay ghar ka maahol dekhti hai, phir wo apnay shohar aur susraal walon ke sath apnay puranay ghar wapas janay ki baat karti hai jahan usay sukoon milta tha. Anas apnay dost ya wakil ke sath mil kar kuch paison aur ghaatay ka muamla karta hai aur unhein black mail karnay ki koshish karta hai, jiss par unkay beech taiz behas hoti hai. Dusri taraf, Saima ki behen ki shadi ka zikar ghar walon mein chalta hai, lekin wo shadi se inkaar karti hai aur ghar mein is baat par tension aur bahas shuru ho jati hai, jabke baqi sab apnay mamlaat mein masroof nazar atay hain."
         ]
@@ -2360,7 +2360,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein, Khushi aur Samira, Humna ko shopping ke liye mall le kar jaati hain. Khushi aur Samira wahan shopping mein masroof rehti hain aur Humna unki baton se pareshan mehsoos karti hai. Is dauran, Saim ki maa Samira aur Humna ko Islamabad jane ke liye kehti hain taake wo apni bhatiji ke sath Humna ki mangni kar sakein. Jab Saim ko is bare mein pata chalta hai, to wo apni maa se naraz hota hai aur kehta hai ke wo abhi shadi nahi karna chahta. Saim ki maa is baat par zid karti hain aur kehti hain ke wo unki har baat manega. Yeh sab dekh kar Humna bohat pareshan ho jati hai aur uske baad wo apne room mein aakar roti hai. Saim usko phone karne ki koshish karta hai lekin Humna phone nahi uthati. Aakhir mein, episode is dar aur pareshani ke mahol mein khatam hoti hai jahan Humna aur Saim dono pareshan hain."
         ]
@@ -2402,7 +2402,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Uswah ke is episode mein Uswah ki ammi ki tabiyat achanak kharab ho jati hai aur unhein hospital le jaya jata hai, jahan doctor kehti hain ke unhein heart attack hua hai aur unhein ICU mein observation par rakha gaya hai. Hospital ke bahar sab ghar walay bohat pareshan hotay hain, aur Uswah ki behnain aur baki log ro ro kar dua karte hain. Ammi ke hosh mein aane ke baad Uswah unke paas jati hai aur ammi Uswah ko gale lagakar uski khairiyat aur uske ghar walo ke baray mein poochti hain. Baad mein ghar aakar Fariha aur Eisa ke darmiyan is baat par bahas aur ladaai hoti hai ke Eisa kyun hospital nahi gaya tha aur usne phone kyun nahi uthaya tha, aur episode ishi kashmakash aur larai ke sath khatam hoti hai."
         ]
@@ -2450,7 +2450,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Shiza Amara aur Alyaan ke sath hospital mein hai aur Alyaan ki tabiyat ko lekar pareshan hai, jab ke Alyaan behosh hai aur doctor kehta hai ke hosh aane mein waqt lagega. Amara apne past ki dukh bhari baatein Shiza ko batati hai ke kaise usne badle ke liye Alyaan se shaadi ki thi kyunke Alyaan ke gharwalon ne uske maa baap ko barbad kiya tha. Shiza Amara ko samjhati hai ke Alyaan beqasoor hai aur usne apnon ki ghalti ki saza pa li hai. Baad mein Alyaan ko hosh aa jata hai, lekin woh Amara se naraz hota hai aur usse door rehne ka kehta hai kyunke use sach pata chal chuka hota hai. Episode ke aakhir mein Amara rote hue Alyaan ke paas khari hoti hai aur usse maafi maangti hai, jab ke Alyaan apne ghar ki khushgawar yaadon aur Amara ke sath pehle ke palon ko yaad karke rote hue use wahan se chale jaane ko kehta hai."
         ]
@@ -2499,7 +2499,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Waqar, Arham aur Umama ko blackmail kar ke unse paise maang raha hai, aur unhe dhamki deta hai ke agar unhone baat nahi mani toh wo sab sach sabko bata dega. Idhar Umama apnay ghar ke safe mein check aur jewelry dhoondhti hai lekin wahan kuch nahi milta, jis se ghar mein chori ka shaq paida ho jata hai. Aakhir mein police ghar aati hai aur yeh kehti hai ke unhone Yasmeen ko pakad liya hai jo us \"zehar\" ka hissa thi, aur sab log yeh sun kar shock reh jate hain."
         ]
@@ -2541,7 +2541,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Bano ko Noor madam ke ghar se wapas bula liya jata hai. Ab Bano wahan rehna shuru kar deti hai aur ghar ke sab log us se khush ho kar miltay hain. Doosri taraf, Shari ki biwi Mehrunisa Bano ke khilaf chalain chalti rehti hain aur Bano par shaq kiya jata hai. Episode ke aakhir mein Tuba apni maa Noor se baat karti hai ke Bano ko is tarah pareshan nahi karna chahiye."
         ]
@@ -2589,7 +2589,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Barey Sahab aur Beebi Sai ki kahani aage barhti hai. Beebi Sai ki zid par sab log mahiya-geeron ki basti ki sair karne jaate hain, jahan Beebi Sai bachon ke sath khush hoti hain aur ek bachhi se kapray ki topi le kar pehnti hain. Usi waqt wahan ek shakhs Beebi Sai ke sath badtameezi karne ki koshish karta hai, jise dekh kar Shah Daud aakar us shakhs ki khub pitai karta hai. Bad mein Shah Daud Beebi Sai se naraz hota hai ke wo aisi jagahon par kyun jati hain, lekin Beebi Sai wahan se apne ghar wapas aane ki zid karti hain. Raat ko jab Beebi Sai apne ghar mein hoti hain, to ek shakhs unhe aakar pareshan karta hai, jis par Shah Daud aakar phir us shakhs ko saza deta hai aur wahan se nikal deta hai. Episode ka ikhtitam is khayal par hota hai ke Shah Daud aur Beebi Sai ke darmiyan kashmakash jari hai aur dono apne jazbaat ke sath akele hain."
         ]
@@ -2636,7 +2636,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Zaryab aur Zariyaat ka safar shuru hota hai. Rastay mein Zariyaat ro parti hai kyunki wo apne purane gham se nikal nahi pa rahi. Jab wo dono us ghar pochtay hain jahan Zaryab ko rehna hai, wahan Zariyaat ko kuch cheezain aisi milti hain jo ussay shak mein daal deti hain. Zariyaat ka dil udas ho jata hai aur wo wahan khud ko akela mehsoos karti hai, jabke Zaryab uss par bharosa nahi karta aur wo chup chap apni halat ke sath jee rahi hoti hai. Episode ka aakhir Zariyaat ki be-basi aur akelaypan par hota hai."
         ]
@@ -2684,7 +2684,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Safdar ghar se chala jata hai aur is se sab log bohat udaas ho jatay hain, khas tor par Chammi aur uski walida. Safdar ke walid aik raat Chammi aur Aliya ko samjhatay hain aur dono ko khush dekhna chahtay hain. Ek din jab sab log aangan mein bethay hotay hain to aik postman Safdar ka khat aur money order le kar aata hai, jise dekh kar sab ko hairat aur dukh hota hai ke Safdar ne paisay wapas bhej diye hain. Dusri taraf, Kusum aur uski kahani ke baray mein ghar mein baatein shuru ho jati hain, aur wo kisi aur ke sath bhaag jati hai, jis se parivar mein aur zyadah pareshani phail jati hai. Episode ke aakhir mein, Safdar ke ghar walay aur baqi kirdaar is naye halaat aur dukh ko bardasht karne ki koshish kar rahe hain."
         ]
@@ -2733,7 +2733,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Khushi aur Us ki family ke beech ki kashmakash dikhayi gayi hai. Us ke father aur baqi ghar wale is baat par zordar behas karte hain ke Khushi ko apni marzi ke khilaf aik rishtay ke liye raazi hona chahiye, jabkay Khushi is faislay se bohot pareshan aur dukhi hai. Akhir mein, episode aik tension bhare mood aur anay walay mushkil waqt ke sath khatam hoti hai."
         ]
@@ -2775,7 +2775,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Rania aur Anas ke rishtay aur ghar walon ki fikar dikhayi gayi hai. Rania ki halat dekh kar uski ammi aur Anus ke darmiyan baat hoti hai, aur wo Anus se kehte hain ke agar wo dono aik sath khush reh saktay hain to unki shadi ki baat aagay barhayein. Anas ki life mein chalne wali pareshaniyon aur uske jazbaat ka bhi zikar hota hai. Episode ke aakhir mein Rania apni parhai aur kaam mein masroof rehtay huay thak kar so jati hai aur ek pur-sukoon lamhay ke sath episode khatam ho jati hai."
         ]
@@ -2817,7 +2817,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Uswah ki maa aur Uswah ki aapas mein baat hoti hai jahan Uswah ki maa use samjhati hai ke wo Mahabir se shadi ki baat kare. Dusri taraf Mahabir ki ammi ghar mein aakar Uswah aur uski family ke sath shadi ka ahem rista tay karti hain, jisse ghar mein khushi ka mahol ban jata hai. Lekin Mahabir ke khandan mein is riste ko lekar thori khichtan aur bahas bhi hoti hai, khas tor par Mahabir ke walid aur unke ghar walon ke beech. Episode ke aakhir mein Uswah ko ek call aati hai jo uske liye pareshani ka sabab banti hai, aur wo ek nayi mushkil mein phans jati hai."
         ]
@@ -2859,7 +2859,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Nabeel aur Khoobsurat rent na dene ki wajah se ghar se bahar nikal diye jaate hain aur Butt Sahab ke sath baith kar rent ka intezam karne ki koshish karte hain. Khoobsurat aur Nabeel ki Zoya Begum aur Mustaqeem ke sath nok-jhonk hoti rehti hai kyunki woh rent mangne par door aur windows band kar lete hain. Aakhir mein Nabeel aur Khoobsurat rent ka paisa le aate hain magar pata chalta hai ke woh notes jaali hain, jis par woh pareshan ho kar dobara Nabeel ko dhundne nikalte hain."
         ]
@@ -2907,7 +2907,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Dastoor ke is episode mein Alihaan ki bua Alihaan ki sachai dadi ko batati hain aur kehti hain ke Amara, jo ke Alihaan ki biwi hai, waheen sab ki zimmedaar hai. Dadi Alihaan ko samajhane ki koshish karti hain ke Amara asal mein wo nahi hai jo wo dikhti hai, lekin Alihaan apni biwi ki tarafdari karta hai aur unki baat maanne se inkar kar deta hai. Baad mein, jab Alihaan ko yeh pata chalta hai ke Amara ne ghar uske naam karwaya tha aur wo uski nani ki beti hai, to use aik bara sadma lagta hai aur woh gadi chalate hue pareshani mein aakar accident ka shikar ho jata hai. Hospital mein jab Amara ko Alihaan ke accident ki khabar milti hai, to wo ro padti hai aur sab ke samne apne aansu aur bebasi ka izhaar karti hai. Episode ke aakhir mein Alihaan ICU mein hota hai aur uski halat nazuk hoti hai, jis par sab ghar wale bohot pareshan aur fikar-mand hain."
         ]
@@ -3724,7 +3724,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein host Hassan Choudary Pakistani actor Zahid Ahmed se unke career, naye projects aur drama industry ke badaltay huay trends par baat karte hain. Zahid apnay kaam, characters aur aam taur par alag tarah ke roles chunnay ke baray mein khul kar batate hain. Zahid yeh bhi discuss karte hain ke OTT platforms aur social media ki wajah se drama industry mein kya tabdeeliyan aa rahi hain aur independent producers ke liye naye mauqay kaise ban rahe hain. Aakhir mein host aur Zahid viewers ko aage anay walay waqt mein behtar aur achhi stories ki umeed dilate hain aur azaadana guftagu ke baad episode khatam ho jati hai."
         ]
@@ -6032,7 +6032,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein shuruwat mein Sheriyar aur Minu ki baat cheet dikhayi jaati hai, jahan Minu usey poochti hai ke wo itni subah kahan ja raha hai. Phir office ke scene mein, ek colleague report lekar aata hai aur unki guftagu hoti hai. Agle scene mein, Bano aur ghar ki doosri aurton ke beech kuch tension aur baatein hoti hain. Ek daur mein Sheriyar Bano se baahar garden mein milta hai aur kehta hai ke agar usey kisi cheez ki zaroorat ho to wo uske paas aa sakti hai. episode ke aakhir mein ek bade dinner table ka scene aata hai jahan sabhi log ikathay hain aur achanak ek ahem khulasa ya mudda uthta hai jis par sabhi hairan reh jaate hain."
         ]
@@ -6074,7 +6074,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Uswah aur Shahryar apas mein baat karte hain jahan Uswah pareshan hoti hai aur Shahryar usko manata hai. Doosri taraf, Uswah ki ammi hospital mein admit hoti hain jahan unka ilaj chal raha hota hai aur gharwalay unka khayal rakh rahe hotay hain. Baad mein, Uswah aur Shahryar car mein baith kar kahin jatay hain aur aapas mein kuch gham-o-ghussa aur mohabbat ki baatein karte hain. Akhir mein, Uswah aur Shahryar ghar wapas aatay hain jahan Uswah khana nahi khati aur Shahryar usko khud pyar se khana khilanay ki koshish karta hai."
         ]
@@ -6116,7 +6116,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is episode mein Humna aur Saim chup kar ghar se bhaag kar aik sath chale jaate hain, aur Humna ke ghar walon ko jab is baat ka pata chalta hai to sab bohot pareshan aur gusse mein aa jaate hain. Humna ki ammi is baat par bohot roti aur gussa hoti hain ke Humna ne unki izzat mitti mein mila di. Aakhir mein Saim aur Humna wapas aa jaate hain aur ghar walon ke saamne aate hi sab ke hosh udd jaate hain."
         ]
@@ -6158,7 +6158,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Is video mein Anus aur Rutba car mein safar kar rahe hain, jahan Anus baaton baaton mein Europe chalne ki baat karta hai aur Rutba ko diamond ki ring dene ka wada karta hai. Office puhanch kar Anus aur uske partner ki baat hoti hai, aur ghar akar Anus TV par drugs ke barhte hue cases ki news dekhta hai. Jab Anus Rutba se poochta hai ke use kis ki call aayi thi aur school bag mein kya tha, to Rutba gusse mein ajati hai aur dono mein behas shuru ho jati hai, jis par Anus gusse mein Rutba ko thappad maar deta hai. Rutba ro kar apni saas se shikayat karti hai aur apna saman pack karke wapas apne maike chali jati hai, jahan uski behan Rania use samjhane ki koshish karti hai. Aakhir mein Anus phool lekar Rutba ko manane ke liye uske ghar jata hai, aur sabke samne apni galti ka izhar karke Rutba se maafi mangta hai."
         ]
@@ -6206,7 +6206,7 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
           "Aalizah ki asal sachai sab ke samne aane ke baad sab log hairan reh jate hain aur Amara ko dukh hota hai ke usne kisi se dhohkha khaya hai. Shiza sab ko samjhane ki koshish karti hai ke usne kuch galat nahi kiya lekin koi uski baat nahi sunta. Is sab ke darmiyan, Aalizah aur uske khandan ke beech ki dushmani aur bhi gehra ho jati hai aur episode ek aur tension bhare cliffhanger par khatam ho jata hai."
         ]
@@ -10181,9 +10181,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Yeh drama mohabbat, ghuroor aur rishton ki aazmaish ki aik kahani hai, jahan izzat ki sakht shartoun aur dil ki khwahishon ke darmiyan kashmakash dikhayi gayi hai. Chhupe huwe raaz aur galatfehmiyan nazuk rishton ko kamzor kar deti hain aur qurbaniyan haqeeqat se takrati hain. Kya waqt ke sath taqdeer tute huwe rishton ko jor payegi ya sab ke dilon par gehri chhor jayegi? Episode 7, 26 October 2026 ko HUM TV par nashar hui."
+          "Is episode mein Tabish aur Hurmat car mein kahin ja rahe hain aur Tabish car rokk kar Hurmat ko apni muhabbat ka izhar karta hai aur unke darmiyan achi guftagu hoti hai. Hurmat jab ghar wapas aati hai aur apne kamre mein baithti hai, toh woh Tabish ki di hui angoothi utaar kar apni diary par rakh deti hai. Agle din university mein Hurmat apni saheliyon ke sath baithi hoti hai, jahan woh Tabish ke sath apni shadi aur uske behavior ke bare mein baat karti hai. Hurmat keti hai ke usko Tabish se ab shadi nahi karni aur woh apni is relationship se confuse hai. Uske baad Hurmat apne ghar aati hai jahan Tabish apni walda ko Hurmat ke ghar shadi ki date tay karne ke liye bhejta hai. Hurmat ki ami aur baaki log is baat par khush hote hain, lekin Hurmat pareshaan hoti hai. Episode ke ek aur scene mein Wajid, jo purane dinon se ghar chala gaya tha, wapas aata hai aur jab woh aakar batata hai ke uske baap (Hurmat ke dada ya kisi buzurag) ka intiqal ventilator par ho gaya hai, toh ghar mein aur Hurmat par ek dam khauf aur ghum ka aalam chha jata hai. Episode ka aakhri scene yeh dikhata hai ke Hurmat aur Tabish car mein kahin pahunchte hain jahan Hurmat pareshaan dikhti hai aur Tabish ke sath kisi khamosh manzar par baith kar apni pareshani aur khauf ke bare mein soch rahi hoti hai."
         ]
       }
     ],
@@ -10193,7 +10193,8 @@ window.FA_ARTICLES = {
       "Watch the full episode: https://www.youtube.com/watch?v=w6hU2MPkgik",
       "YouTube views: 7,711,798.",
       "TMDB: Hurmat (id 337670).",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10230,9 +10231,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Yeh kahani aik middle-class larki Bano ki hai jo apne bimar baap ka sahara banti hai aur Murtaza se mohabbat karti hai. Shehryar ki pehli biwi Mehrunisa ke videsh jaane ke baad, Shehryar ki shadi Bano se ho jati hai jo apni nayi zindagi mein kai mushkilat ka samna karti hai. Waqt ke sath Shehryar ke dil mein Bano ke liye jazbaat badalne lagte hain lekin Mehrunisa ki wapsi un ki khushiyon ko khatre mein daal deti hai. Episode 15, 27 October 2026 ko Geo TV par nashar hui."
+          "Is episode mein Mehrunnisa ko sab ke samne insult kiya jata hai kyunke usne Bano ko thappar mara tha. Shari aur Mehrunnisa ki bahas hoti hai jahan Shari kehta hai ke woh Bano ko chorh nahi sakta kyunke Bano Mehrunnisa ke zulm ki nishani ban chuki hai, jabke Mehrunnisa divorce ki baat karti hai. Baad mein, Mehrunnisa Bano ke paas ja kar usse zaleel karti hai aur usse ganda hua garden saaf karne ka kehti hai. Bano chupchap safai karne lagti hai.\n\nEk dusri jagah, Murtaza aur Farhana ki shadi ke baad ki kashmakash dikhayi jati hai. Farhana office mein Javed se Murtaza ki performance report leti hai aur samajhti hai ke Murtaza ka koi alag maqsad hai. Ghar par, Rumi bhabhi ko tang karti hai aur apni saasu ma ke kehne par woh, uski ami aur Kallo Bano se milne uske ghar jaane ka plan banate hain. Jab Bano ko pata chalta hai ke uske ghar wale aa rahe hain aur woh usko is halat mein dekhenge, toh woh pareshan ho jati hai. Shari usse kehta hai ke woh use hospital le chalega aur baki sab dekh liya jayega, lekin Rumi aur baqi ghar wale aa jate hain. Episode yahi khatam hota hai ke woh sab Bano ke ghar ke gate par khade hain."
         ]
       }
     ],
@@ -10241,7 +10242,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=qmUSWiPJaaE",
       "YouTube views: 410,263.",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10278,9 +10280,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Yeh drama mohabbat, guroor aur rishton ki aazmaish ki aik kahani hai, jahan izzat ki sakht shartein aur dil ki ankahee khwahishein aapas mein takrati hain. Raaz aur galatfehmiyon ke bojh tale nazuk rishte bikharne lagte hain aur qurbaniyan haqeeqat ke samne aa jati hain. Kya waqt ke zakhmon ko taqdeer bhar sakegi ya yeh dil par hamesha ke liye koi gehra nishaan chhor jayegi? Episode 8, 27 October 2026 ko HUM TV par nashar hui."
+          "Is episode ki shuruaat mein Hurmat apne doston ke sath café mein baith kar apni pareshaniyaan aur Tabish se juda hone ki baatein karti hai. Woh ghar wapas aati hai aur apne baap se kehti hai ke woh Tabish se shaadi nahi karna chahti, jis par uske baap ko bahut gussa aata hai aur woh usey danta hai. Is baat ka gham itna gehra hota hai ke Hurmat ke baap ki tabiyat kharab ho jaati hai aur unka intiqal ho jata hai. Pure ghar mein matam aur rona-dhona shuru ho jata hai. \n\nBaad mein, Hurmat ki ammi aur baaki rishtedaar mil kar yeh faisla karte hain ke unhe sabhi ko samhalna hoga, aur ammi Hurmat ki shadi Tabish se karne ki baat karti hain taake ghar ki zimmedari aur halat theek rahein. Tabish aur uski ammi bhi ghar aate hain aur Hurmat ka haal-chaal poochte hain, lekin Hurmat chup rehti hai. Episode ka aakhri scene is tarah khatam hota hai ke Tabish Hurmat se milne aata hai aur usko dilasa deta hai ke woh is mushkil waqt mein uske sath hai, jabke Hurmat khamosh aur pareshan nazar aati hai."
         ]
       }
     ],
@@ -10290,7 +10292,8 @@ window.FA_ARTICLES = {
       "Watch the full episode: https://www.youtube.com/watch?v=O5zs__9FJsM",
       "YouTube views: 1,971,978.",
       "TMDB: Hurmat (id 337670).",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10327,9 +10330,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Uswah ek khuddaar aur mehnati larki hai jo apni parhai aur ghar walon ko support karne ke liye kaam karti hai, aur us ka cousin Mahbir us se mohabbat karta hai. Lekin university mein us ki mulaqaat Essa se hoti hai jo pehle academic rival banta hai aur phir aik achanak mor ki wajah se Uswah ki zindagi badal jaati hai. Halaton ke tehet Uswah ko aik na chaahi relationship mein phansna parta hai jahan us ki Essa se lagataar laraai aur misunderstanding rehti hain. Waqt ke sath dono ke talluq mein naye imtehaan aur family tensions aati hain, jis se yeh dekhna baqi hai ke kya Uswah aur Essa kisi faislay tak pohnch paate hain ya nahi. Episode 35, 27 October 2026 ko Geo TV par nashar hui."
+          "Is episode ki shuruat mein Eesaa kitchen mein Uswah ke paas baitha hota hai aur usse baat karne ki koshish karta hai kyunki Uswah naraz hoti hai. Eesaa pyaar se maafi maangta hai aur usse khana khane ke liye kehta hai. Jab Uswah nahi maanti toh Eesaa mazaq mein kehta hai ke woh khud apne haath se khilayega, aur yeh sunkar Uswah halki si muskurahat chupane ki koshish karti hai. Aage, Uswah ki ammi aur uske abba ke beech baat hoti hai jahan abba kehte hain ke Uswah aur Eesaa ka rishta zid ban chuka hai aur Faria ki tarah Uswah bhi apni marzi kar rahi hai, lekin ammi samjhati hain ke Uswah ko waqt dena chahiye.\n\nBaad mein, ek scene mein Faria apne abba se baat karti hai aur ro kar kehti hai ke woh Eesaa ke baghair nahi reh sakti aur abba se binti karti hai ke woh uski aur Eesaa ki judaai ko khatam kar dein. Abba bohot dukhi hote hain aur aakhirkar Faria ki khushi ke liye apna faisla wapas le lete hain jisse Faria bohot khush ho jati hai.\n\nHospital ke scene mein, Eesaa aur Faria ki ammi bimar bistar par hain. Uswah, Eesaa aur doosri behnein wahan maujood hain. Ammi sabka shukriya ada karti hain ke Uswah unhe milne aayi aur sabko dua deti hain. Jab Eesaa wahan se nikalne lagta hai, toh woh Uswah ke kehne par Anaya ko ghar drop karne ka kehta hai. Raste mein Anaya aur Eesaa ki gari mein halki phulki baatein hoti hain.\n\nAakhir mein, jab Uswah ghar wapas aati hai toh dekhti hai ke ghar ko tala laga hua hai aur uske paas chabi nahi hoti. Woh pareshan ho jati hai aur Eesaa ko phone karti hai lekin Eesaa ka phone nahi lagta. Woh phone ghoomne lagti hai aur tense ho kar idhar udhar dekhti hai, aur episode yahin ek suspenseful cliffhanger par khatam ho jata hai."
         ]
       }
     ],
@@ -10338,7 +10341,8 @@ window.FA_ARTICLES = {
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=4bgABoFcScw",
       "YouTube views: 2,134,333.",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10369,9 +10373,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Yeh drama mohabbat, rishton aur insaan ki zindagi ke faislon ki ek dilchasp kahani hai. Zindagi ke safar mein har naya faisla naye imtihaan, mushkilat aur rishton ki mazbooti ka test le kar aata hai. Yeh jazbaat aur taqdeer ki kashmakash se bhari hui ek aisi kahani hai jo family bonds aur pyaar ki asli taaqat ko dikhati hai. Episode 45, 27 October 2026 ko HUM TV par nashar hui."
+          "Is episode ki shuruaat mein ghar ke sabhi log is baat par baith kar baat karte hain ke jo kuch Hamna ne kiya, woh ghalat tha lekin usay mazeed saza dena ya uske saath sakhti karna theek nahi, kyun ke is se woh baaghi ban sakti hai. Khushi aur dusre sabhi log is baat par aapas mein behas karte hain. Baad mein, Atya aur Saim aapas mein baat karte hain ke Saim ko Hamna ko wapas nahi chodna chahiye tha. Khushi apni behan ya ghar walon se narazgi aur apni maa (Ruksana) ke gusse ki wajah se pareshan hai. Ek scene mein, Atya aur Ruksana baith kar is baat par chinta zahir karti hain ke Hamna ne ghar walon ki izzat mitti mein mila di.\n\nAage chalkar, Khushi Saim se milti hai aur Saim use batata hai ke Baba un dono ki shadi ke liye razi ho gaye hain aur ghar wale maan gaye hain, jis par Khushi bohat khush hoti hai aur Ruksana ko phone kar ke ye khushkhabri deti hai. Lekin Ruksana ko jab ye pata chalta hai ke Hamna abhi bhi Saim ke sath hai aur uske liye rishta tay ho gaya hai, to Ruksana ki tabiyat kharab ho jati hai aur usay heart attack jaisa daura padta hai. Episode ke aakhir mein, Aamar aur Khushi kamre mein baith kar aapas mein baat karte hain, jahan Aamar ka mood upset hota hai aur woh Khushi ke sawalon ke jawab deta hai, aur episode yahin khatam hota hai."
         ]
       }
     ],
@@ -10380,7 +10384,8 @@ window.FA_ARTICLES = {
       "Channel: HUM TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=e0e5DJyyAIQ",
       "YouTube views: 676,361.",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10411,9 +10416,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Izzat ki episode 38, 27 October 2026 ko ARY Digital par nashar hui."
+          "Is episode mein Rania, Rayan ke sath beach par jati hai jahan woh usay buggy chalana sikhata hai aur phool deta hai. Rayan apni family ko chalane ke liye kuch paise bhi deta hai. Bad mein, Rania aur Rayan car mein beth kar baatein karte hain, jahan Rania apni family ke baray mein baat karti hai aur Rayan usay aik khilona car gift karta hai. Dusri taraf, Mohsin aur uski family mein tension shuru ho jati hai jab woh Rania ki shaadi ki video dekhte hain. Mohsin aur uski family ko yeh bataya jata hai ke Rania ki shadi kisi aur se ho gayi hai, jis par Mohsin bohot gussa hota hai aur apni biwi ke sath behas karta hai. Mohsin apne betay aur beti ko sunata hai aur kehta hai ke is tarah ke halaat mein family ki izzat kharab ho rahi hai. Episode ke aakhir mein Mohsin aur uski family pareshan dikhayi dete hain jab woh Rania ke baray mein mazeed sochte hain."
         ]
       }
     ],
@@ -10422,7 +10427,8 @@ window.FA_ARTICLES = {
       "Channel: ARY Digital.",
       "Watch the full episode: https://www.youtube.com/watch?v=P2r4Q7TaN5I",
       "YouTube views: 22,834.",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
@@ -10459,9 +10465,9 @@ window.FA_ARTICLES = {
         ]
       },
       {
-        "h": "Story Summary",
+        "h": "Episode Summary",
         "p": [
-          "Yeh drama mohabbat, qurbani aur khandan ke andar chalne wale ikhtilafat ki ek jazbati kahani hai. Is mein ek maan aur betiyon ki mushkil zindagi ka safar dikhaya gaya hai jahan unhein tootey rishton aur waqt ke badalte faislon ka saamna karna parta hai. Yeh dard, maafi aur doosre mauqon ki aik aisi kahani hai jo zindagi ke mukhtalif rang samete hue hai. Episode 67, 27 October 2026 ko Green TV par nashar hui."
+          "Is episode mein Shiza apne ghar aati hai jahan Ali aur uski behen Shaza maujood hain. Shaza aur Ali ki baaton se Shiza ko andaza hota hai ke unhein ammi ke bare mein sab pata chal gaya hai. Shiza, Ali ke paas aati hai aur kehti hai ke agar Alena ko sach pata chal gaya hai toh dadi ko bhi pata chal gaya hoga, aur is par Ali kehta hai ke usey Shiza par poora bharosa hai aur is mamle ko zyada serious lene ki zaroorat nahi hai. Dusri taraf, ammi (dadi) aur Shiza aapas mein baat karti hain jahan dadi gusse mein aur pareshan hoti hain ke Amara ne itna bara qadam uthaya aur unhein bataya nahi, aur woh Shiza se kehti hain ke agar woh rok sakti hain toh Ali aur Amara ki talaq ko rok lein. Amara aur Ali ke beech bhi kuch baat hoti hai. Episode ke aakhir mein Shiza apni ammi ko phone karti hai aur unse poochti hai ke woh kahan hain aur wapas aane ki baat karti hai, aur episode yahin par khatam hojata hai."
         ]
       }
     ],
@@ -10471,7 +10477,8 @@ window.FA_ARTICLES = {
       "Watch the full episode: https://www.youtube.com/watch?v=gXXtDYiNeLA",
       "YouTube views: 318,680.",
       "TMDB: Dastoor (id 329481).",
-      "Story summary added 2026-10-27."
+      "Story summary added 2026-10-27.",
+      "Episode summary added 2026-10-27."
     ],
     "entities": {
       "titles": [
