@@ -4,8 +4,9 @@
 Pakistani dramas air ~3-4 episodes per channel daily (HUM TV, ARY Digital,
 Har Pal Geo, Green TV = ~12-20 new episodes/day). This script picks each
 new full episode up from YouTube and posts it the SAME DAY, then adds an
-AI story summary in ROMAN URDU, GRADUALLY, to the top episodes (picked
-by VIEWS).
+AI story summary in ROMAN URDU to EVERY episode, in the same run that
+detects it (owner order 2026-10-28: however many episodes arrive in one
+day, all of them get a summary, instantly).
 
 TIERED (owner-approved 2026-10-26):
   1. INFO POST (every episode, same day, NO AI): title, episode number,
@@ -15,15 +16,18 @@ TIERED (owner-approved 2026-10-26):
      go to out/episode-feed.json (kept for the tracker's own record;
      no longer merged into the news feed — owner order 2026-10-27:
      episodes are not news).
-  2. STORY SUMMARY (top 1-2 episodes/day, by VIEWS, gradual backlog):
+  2. STORY SUMMARY (EVERY episode, same run — owner order 2026-10-28):
      ROMAN URDU, 2-4 sentences, grounded ONLY in the episode's YouTube
      title + description (model gemini-3.5-flash-lite, keys
      GEMINI_API_KEY_1..6, same rotation as scripts/gemini_batch.py).
      A thin description (cast list / promo only) gets a minimal
      factual line instead of an invented plot — never re-summarize.
-     Max 2/day, 1/run. (fileData video-watching was the old route,
-     ~218K VIDEO tokens/episode; superseded 2026-10-27 — the function
-     is kept in the file for manual use only.)
+     No functional cap: safety ceiling 50/day, 50/run (observed max
+     16 detected in one run, 7 posted/day — the ceiling never binds;
+     it only stops a runaway loop from burning keys). (fileData
+     video-watching was the old route, ~218K VIDEO tokens/episode;
+     superseded 2026-10-27 — the function is kept in the file for
+     manual use only.)
 
 DETECTION (spike-proven 2026-10-26):
   - Channel RSS feeds WORK but list ZERO full episodes in their 15-item
@@ -76,7 +80,8 @@ Env:
   GEMINI_API_KEY_1..6   (at least one required for summaries; without
                          them the script still posts info posts and
                          skips summaries)
-  SUMMARY_PER_RUN       (default 1; max 2/day overall)
+  SUMMARY_PER_RUN       (default 50; safety ceiling 50/day — never binds
+                         in practice; owner order 2026-10-28)
   EPISODE_LOOKBACK_HOURS (default 48; how far back to search)
 
 Usage: episode-guides.py [--dry-run]
@@ -114,7 +119,11 @@ PUBLISHED_JS = os.path.join(ROOT, "js", "published-titles.js")
 DRAMA_ALIASES = {"dar": "Dar-E-Nijaat", "zehar": "Zehar-e-Mohabbat"}
 
 MODEL = "gemini-3.5-flash-lite"
-SUMMARY_MAX_PER_DAY = 2
+# Safety ceiling only (owner order 2026-10-28: every episode gets its
+# summary in the run that detects it). Observed max 16 detected in one
+# run, 7 posted/day — 50 never binds; it only stops a runaway loop
+# from burning Gemini keys.
+SUMMARY_MAX_PER_DAY = 50
 MIN_FULL_EPISODE_SEC = 20 * 60  # PK full episodes are 35-45 min; clips < 15
 # International channels: StarPlus full episodes run 18-19 min, so
 # their floor is 15 min (clips are still < 15 min on every channel).
@@ -891,8 +900,8 @@ def main():
                     help="detect + match + report, no writes, no Gemini")
     args = ap.parse_args()
     dry = args.dry_run
-    per_run = int(os.environ.get("SUMMARY_PER_RUN", "1") or "1")
-    per_run = max(0, min(per_run, 2))
+    per_run = int(os.environ.get("SUMMARY_PER_RUN", "50") or "50")
+    per_run = max(0, min(per_run, SUMMARY_MAX_PER_DAY))
     lookback = int(os.environ.get("EPISODE_LOOKBACK_HOURS", "48") or "48")
 
     tmdb_key = read_tmdb_key()
@@ -1028,7 +1037,8 @@ def main():
                 json.dump({"feed": feed_entries}, f, ensure_ascii=False, indent=1)
             print(f"episode-feed: {len(feed_entries)} entries")
 
-    # ---- 4. summary backlog: top by VIEWS, 1/run, max 2/day, never redo
+    # ---- 4. summary backlog: EVERY episode without a summary, same run
+    # (owner order 2026-10-28); backlog ordered by views desc, never redo
     made = 0
     summary_names = []
     if dry:
@@ -1110,6 +1120,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

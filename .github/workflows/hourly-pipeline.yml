@@ -117,7 +117,7 @@ jobs:
           GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
-          SUMMARY_PER_RUN: '1'
+          SUMMARY_PER_RUN: '50'
           EPISODE_LOOKBACK_HOURS: '48'
         run: python3 scripts/episode-guides.py
 
@@ -596,6 +596,7 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: python3 scripts/cloudflare_deploy.py
+
 
 
 

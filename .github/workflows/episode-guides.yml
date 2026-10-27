@@ -4,8 +4,9 @@ name: Episode guides (YouTube tracker)
 #   scripts/episode-guides.py — detects new full episodes (YouTube Data
 #   API search per channel, RSS fallback), writes an INFO POST for every
 #   new episode the same day (no AI) into js/articles-data.js, and adds
-#   an AI story summary (Gemini fileData) GRADUALLY to the top 1-2
-#   episodes/day picked by VIEWS. State + backlog in out/episodes.json.
+#   an AI story summary (Gemini, title+description grounded) to EVERY
+#   episode in the same run that detects it (owner order 2026-10-28).
+#   State + backlog in out/episodes.json.
 #   A run that finds no new episodes commits nothing and deploys nothing.
 # Requires repo secret YOUTUBE_DATA_API_KEY for primary detection
 # (without it the script falls back to RSS, which lists zero full
@@ -44,7 +45,7 @@ jobs:
           GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
-          SUMMARY_PER_RUN: '1'
+          SUMMARY_PER_RUN: '50'
           EPISODE_LOOKBACK_HOURS: '48'
         run: python3 scripts/episode-guides.py
       - name: Rebuild news feed (episode posts reach /api/news)
@@ -78,5 +79,6 @@ jobs:
             git pull --rebase
             git push
           fi
+
 
 
