@@ -990,6 +990,24 @@
      "detail": "api-news.json 87 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T16:04:34Z",
+    "run_id": "40535488399",
+    "status": "success",
+    "checked": {
+     "candidates": 87,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 87 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -1735,5 +1753,5 @@
    }
   ]
  },
- "updated_at": "2026-10-27T15:57:00Z"
+ "updated_at": "2026-10-27T16:04:34Z"
 }
