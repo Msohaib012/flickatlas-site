@@ -9200,5 +9200,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 07:08:33 +0000"
+  },
+  "1gw7793": {
+    "id": "1gw7793",
+    "type": "news",
+    "headline": "Jailer 2 Reaches ₹733 Crore Worldwide in 12 Days, But ₹1,000 Crore Milestone Appears Difficult",
+    "dek": "Rajinikanth's latest action sequel has shattered multiple Kollywood box office records globally, yet several market barriers explain why a run to the elite ₹1,000 crore club remains out of reach.",
+    "body": [
+      {
+        "h": "Phenomenal Worldwide Momentum",
+        "p": [
+          "Rajinikanth's high-profile sequel, Jailer 2, has captured the attention of moviegoers worldwide by accumulating an impressive ₹733.35 crore in just twelve days of release. This achievement marks a historic milestone for Kollywood, demonstrating the veteran actor's enduring commercial pulling power.",
+          "Despite outperforming several notable predecessors in regional language markets during the same timeframe, the film faces a challenging road ahead if it hopes to cross the coveted ₹1,000 crore worldwide barrier."
+        ]
+      },
+      {
+        "h": "Strong Regional Performance Versus KGF Chapter 2",
+        "p": [
+          "A closer look at domestic numbers reveals that the sequel's ₹368.20 crore southern-language net is roughly 16 percent higher than the corresponding twelve-day collection of the Kannada blockbuster KGF Chapter 2.",
+          "However, at the exact same point in its theatrical run, KGF Chapter 2 had already surged to ₹912.30 crore globally. This stark contrast highlights how crucial auxiliary markets are to achieving massive worldwide totals."
+        ]
+      },
+      {
+        "h": "The Hindi Market and Multiplex Restrictions",
+        "p": [
+          "A major hurdle for Jailer 2 has been its performance in the Hindi belt. Major national multiplex chains declined to screen the movie outside of South India because of disputes surrounding its shortened theatrical-to-OTT release window.",
+          "While this distribution bottleneck undoubtedly impacted potential ticket sales, market analysts note that screen availability alone does not fully account for the vast earnings gap between the film and top-tier pan-Indian hits."
+        ]
+      },
+      {
+        "h": "Comparisons with Past ₹1,000 Crore Blockbusters",
+        "p": [
+          "Historical data from past massive grossers like Baahubali 2, Pushpa 2, RRR, KGF Chapter 2, and Kalki 2898 AD shows that all of them cultivated exceptionally strong Hindi audiences alongside their regional footholds.",
+          "Rajinikanth's own previous sci-fi spectacle 2.0 serves as a relevant precedent. Despite wide distribution and co-starring Akshay Kumar, it finished with a Hindi net of ₹188.23 crore, remaining below the Hindi revenues of every southern film in the ₹1,000 crore club."
+        ]
+      },
+      {
+        "h": "Admissions and Ticket Pricing Breakdown",
+        "p": [
+          "Comparing Jailer 2 directly with Pushpa 2 over their respective opening twelve days highlights stark differences in footfalls and demand. Pushpa 2 drew roughly 2.04 crore Hindi admissions across 2,14,108 shows, whereas Jailer 2 managed 22.88 lakh footfalls across 54,005 shows.",
+          "Average revenue per ticket was ₹281 for Pushpa 2 compared to ₹211 for the Rajinikanth starrer. Matching Pushpa's per-admission revenue would have only yielded a modest increase, underscoring that broader audience demand, rather than pricing, was the primary differentiator."
+        ]
+      },
+      {
+        "h": "Exceptional Overseas Strength",
+        "p": [
+          "In contrast to its modest domestic Hindi figures, Jailer 2 has performed exceptionally well in international territories. Its overseas gross has already surpassed the lifetime international earnings of KGF Chapter 2.",
+          "Furthermore, the film is closing in on the final international figures recorded by Kalki 2898 AD, proving that its box office limitations stem primarily from specific domestic market dynamics rather than weak overseas appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has grossed ₹733.35 crore worldwide in twelve days, setting new benchmarks for Kollywood while outpacing several prior hits in regional and overseas markets. However, limited Hindi belt demand, multiplex restrictions, and lower footfalls compared to historic blockbusters indicate that reaching the ₹1,000 crore milestone is improbable."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 earned ₹733.35 crore worldwide in 12 days.",
+      "The southern-language net for Jailer 2 stands at ₹368.20 crore.",
+      "KGF Chapter 2 had accumulated ₹912.30 crore worldwide at the same 12-day stage.",
+      "KGF Chapter 2's lifetime overseas gross was exceeded by Jailer 2.",
+      "Baahubali 2 achieved a worldwide gross of ₹1,788.06 crore and a Hindi net of ₹510.99 crore.",
+      "Pushpa 2 achieved a worldwide gross of ₹1,742.10 crore and a Hindi net of ₹812.14 crore.",
+      "RRR achieved a worldwide gross of ₹1,230.00 crore and a Hindi net of ₹272.78 crore.",
+      "KGF Chapter 2 achieved a worldwide gross of ₹1,215.00 crore and a Hindi net of ₹435.33 crore.",
+      "Kalki 2898 AD achieved a worldwide gross of ₹1,042.25 crore and a Hindi net of ₹293.13 crore.",
+      "Jailer 2's Hindi net over 12 days is ₹39.95 crore.",
+      "Rajinikanth's 2.0 finished with a Hindi net of ₹188.23 crore.",
+      "Pushpa 2's 12-day Hindi gross was ₹574.14 crore with 2.04 crore footfalls across 2,14,108 shows.",
+      "Jailer 2's 12-day Hindi gross was ₹48.21 crore with 22.88 lakh footfalls across 54,005 shows.",
+      "Gross per ticket for Pushpa 2 was ₹281 and for Jailer 2 was ₹211.",
+      "Jailer 2's overseas gross over 12 days is ₹255.50 crore."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Akshay Kumar",
+        "Christa Lincy"
+      ],
+      "titles": [
+        "Jailer 2",
+        "KGF Chapter 2",
+        "Baahubali 2",
+        "Pushpa 2",
+        "RRR",
+        "Kalki 2898 AD",
+        "2.0",
+        "Leo",
+        "Coolie"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028204.jpg",
+        "caption": "Jailer 2 Reaches ₹733 Crore Worldwide in 12 Days, But ₹1,000 Crore Milestone Appears Difficult",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 07:38:16 +0000"
+  },
+  "lzeen0": {
+    "id": "lzeen0",
+    "type": "news",
+    "headline": "Kriti Sanon and Varun Dhawan Join Forces for Hindi Dub of Global Blockbuster Obsession",
+    "dek": "Popular Bollywood actors Kriti Sanon and Varun Dhawan are lending their voices to the Hindi-language version of Curry Barker's smash hit film Obsession ahead of its digital premiere.",
+    "body": [
+      {
+        "h": "The OTT Premiere Announcement",
+        "p": [
+          "Curry Barker's widely acclaimed feature film Obsession is scheduled to arrive on digital platforms via The Peacock Hub on JioHotstar. The streaming release date is locked for October 30, bringing the major international hit to smaller screens following an impressive theatrical run."
+        ]
+      },
+      {
+        "h": "A Desi Twist for the Digital Debut",
+        "p": [
+          "To cater to local audiences, the streaming release features a special Hindi-dubbed version. Prominent Bollywood stars Kriti Sanon and Varun Dhawan have stepped in to provide the voice acting for the central characters in this localized adaptation."
+        ]
+      },
+      {
+        "h": "Voice Cast Assignments",
+        "p": [
+          "In this Hindi interpretation of the global hit, actress Kriti Sanon has lent her voice to the character of Nikki. Meanwhile, her co-star Varun Dhawan has dubbed the dialogue for the character of Bear."
+        ]
+      },
+      {
+        "h": "Global Success and Original Cast",
+        "p": [
+          "The theatrical version of the movie achieved massive commercial milestones, crossing half a billion dollars in collections worldwide. The original English language edition stars Inde Navarrette and Michael Johnston, whose performances drove the film's international triumph."
+        ]
+      },
+      {
+        "h": "Kriti Sanon Shares Her Dubbing Experience",
+        "p": [
+          "Kriti expressed great enthusiasm for the gripping and quirky nature of the project. She noted that she has never tackled such an edgy persona before, making this voice-acting debut for another actor's performance a uniquely challenging and enjoyable milestone."
+        ]
+      },
+      {
+        "h": "Varun Dhawan's Perspective on the Project",
+        "p": [
+          "Varun revealed that participating in the Hindi dub allowed him to appreciate the movie on a deeper level. Working closely with the material helped him notice subtle narrative details that he might have overlooked during an initial viewing."
+        ]
+      },
+      {
+        "h": "Reuniting Past Co-Stars",
+        "p": [
+          "This latest creative partnership marks another collaboration between Kriti Sanon and Varun Dhawan. The duo previously worked together on the silver screen in popular Bollywood titles including Dilwale and Bhediya."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actors Kriti Sanon and Varun Dhawan are teaming up again to provide Hindi voiceovers for Curry Barker's global blockbuster Obsession ahead of its JioHotstar debut on October 30. The international hit, which originally starred Inde Navarrette and Michael Johnston, brings the actors back together following their earlier collaborations in Dilwale and Bhediya."
+        ]
+      }
+    ],
+    "facts": [
+      "Kriti Sanon and Varun Dhawan are teaming up for the Hindi version of Obsession.",
+      "Obsession is directed by Curry Barker.",
+      "The film will premiere on The Peacock Hub on JioHotstar on October 30, 2026.",
+      "The film grossed over half a billion USD globally.",
+      "Kriti Sanon voices the character Nikki.",
+      "Varun Dhawan voices the character Bear.",
+      "The original theatrical version features Inde Navarrette and Michael Johnston.",
+      "Kriti Sanon and Varun Dhawan previously starred together in Dilwale and Bhediya."
+    ],
+    "entities": {
+      "people": [
+        "Kriti Sanon",
+        "Varun Dhawan",
+        "Curry Barker",
+        "Inde Navarrette",
+        "Michael Johnston"
+      ],
+      "titles": [
+        "Obsession",
+        "Dilwale",
+        "Bhediya"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/oct/obsessionsoooooo1793083248.jpg",
+        "caption": "Kriti Sanon and Varun Dhawan Join Forces for Hindi Dub of Global Blockbuster Obsession",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-10-27T12:31:51+05:30"
+  },
+  "1ydlxa4": {
+    "id": "1ydlxa4",
+    "type": "news",
+    "headline": "Jay-Z Named Super Bowl 2027 Headliner While Fans Rally for Beyoncé Guest Appearance",
+    "dek": "Jay-Z has been announced as the headliner for the upcoming Super Bowl Halftime Show, prompting widespread fan speculation and immediate requests for Beyoncé to join him on stage.",
+    "body": [
+      {
+        "h": "The Official Headliner Announcement",
+        "p": [
+          "The NFL, Apple Music, and Roc Nation formally revealed that Jay-Z will serve as the headline act for the Apple Music Super Bowl LXI Halftime Show. The major entertainment event is scheduled to take place on February 14, 2027, at SoFi Stadium located in Inglewood, California.",
+          "The grand reveal was made public during the halftime broadcast of a Monday Night Football game featuring the Dallas Cowboys against the Philadelphia Eagles. A promotional teaser video utilized audio from an older track to build anticipation before confirming the placement of the legendary artist."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Demands for Beyoncé",
+        "p": [
+          "Immediately following the major headliner reveal, internet users and music enthusiasts flooded social media platforms with discussions about potential guest performers. A significant wave of online commentary focused on demanding that Beyoncé join her husband on the massive halftime stage.",
+          "While viewers expressed excitement over the possibility of a powerful joint performance utilizing their shared musical history, official sources confirmed that no guest artists have been finalized or announced for the upcoming performance yet."
+        ]
+      },
+      {
+        "h": "Unique Dynamics of Roc Nation Involvement",
+        "p": [
+          "The selection of Jay-Z as the primary performer stands out due to his professional connection with Roc Nation, the organization that has produced and advised on the Super Bowl halftime production since 2019. Media outlets pointed out that this placement puts the executive in charge of choosing acts directly into the spotlight.",
+          "Over the years, the partnership between the league and Roc Nation has successfully brought numerous high-profile artists to the stage, earning multiple Emmy nominations and wins for the executive producer team behind the annual mid-game spectacular."
+        ]
+      },
+      {
+        "h": "Prior Super Bowl History and Legacy",
+        "p": [
+          "The fervent desire from supporters for a dual appearance is heavily rooted in previous high-profile Super Bowl history. Beyoncé previously headlined a major halftime show in 2013 and later returned as a special guest performer during the milestone Super Bowl 50 event in 2016.",
+          "As a couple married since 2008 with iconic collaborative songs in their shared catalog, fans view the Valentine's Day scheduling of the 2027 game as an ideal backdrop for a memorable family milestone during the global broadcast."
+        ]
+      },
+      {
+        "h": "Artist Reflections and League Support",
+        "p": [
+          "Following the official announcement, the headlining artist released a statement through the league expressing gratitude for a thirty-year journey in music, work, and culture leading up to this ultimate milestone.",
+          "NFL leadership echoed this sentiment, revealing that a standing request had existed since the inception of their partnership for the artist to take the stage whenever the timing felt completely appropriate."
+        ]
+      },
+      {
+        "h": "Broadcast and Viewing Details",
+        "p": [
+          "Super Bowl LXI is set to air across multiple platforms, marking a return to ABC for the first time in two decades alongside simultaneous broadcasts and streaming options for domestic and international audiences.",
+          "Regional rights holders will manage local transmissions globally, ensuring fans across different countries can tune into the event while awaiting further updates regarding the final lineup."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jay-Z has been officially confirmed as the headliner for the upcoming Super Bowl LXI Halftime Show taking place in Inglewood, California. The announcement has sparked intense fan speculation and widespread online calls for Beyoncé to appear as a guest performer during the event."
+        ]
+      }
+    ],
+    "facts": [
+      "Jay-Z will headline the Apple Music Super Bowl LXI Halftime Show on February 14, 2027.",
+      "The venue for the event is SoFi Stadium in Inglewood, California.",
+      "The announcement was made during the Dallas Cowboys versus Philadelphia Eagles Monday Night Football game on October 26, 2026.",
+      "Roc Nation has produced and advised on the Super Bowl halftime show since 2019.",
+      "Beyoncé headlined the Super Bowl XLVII halftime show on February 3, 2013, and performed as a guest during Super Bowl 50 on February 7, 2016.",
+      "Jay-Z and Beyoncé have been married since 2008."
+    ],
+    "entities": {
+      "people": [
+        "Jay-Z",
+        "Beyoncé",
+        "Roger Goodell",
+        "Scott Van Pelt",
+        "Jason Kelce",
+        "Kelly Rowland",
+        "Michelle Williams",
+        "Coldplay",
+        "Bruno Mars",
+        "Shakira",
+        "Jennifer Lopez",
+        "The Weeknd",
+        "Dr. Dre",
+        "Rihanna",
+        "Usher",
+        "Kendrick Lamar",
+        "Bad Bunny",
+        "Hamish Hamilton"
+      ],
+      "titles": [
+        "Apple Music Super Bowl LXI Halftime Show",
+        "Public Service Announcement (Interlude)",
+        "The Black Album",
+        "Super Bowl XLVII",
+        "Super Bowl 50",
+        "Crazy in Love",
+        "Reasonable Doubt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/10/nexus-image_64kb-1.webp",
+        "caption": "Jay-Z Named Super Bowl 2027 Headliner While Fans Rally for Beyoncé Guest Appearance",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 07:47:51 +0000"
+  },
+  "mlf587": {
+    "id": "mlf587",
+    "type": "news",
+    "headline": "Mahaveer Jain Films Reveals Title And Festive Release Window For Upcoming Devotional Drama Starring Ravi Kishan",
+    "dek": "The production banner has officially announced the title Mera Yaar Bajrangi - Dosti Ho Toh Aisi, featuring Ravi Kishan in a unique role, slated for a grand theatrical arrival during the festival season of 2027.",
+    "body": [
+      {
+        "h": "Announcement of Title and Festive Launch",
+        "p": [
+          "Mahaveer Jain Films has officially revealed the title and scheduled release window for their upcoming cinematic venture. Titled Mera Yaar Bajrangi - Dosti Ho Toh Aisi, the devotional drama project is moving forward with plans for a major theatrical rollout.",
+          "The makers have locked in the festival of lights period for the upcoming launch. Audiences can expect the feature to arrive in cinemas during the Diwali celebrations of 2027."
+        ]
+      },
+      {
+        "h": "First Look Poster and Visual Imagery",
+        "p": [
+          "The newly unveiled promotional poster offers a glimpse into the distinctive tone of the movie. It highlights the lead actor, Ravi Kishan, presenting a powerful yet understated appearance.",
+          "A central element of the poster features a symbolic fist bump connecting a common individual, marked by a rudraksha and raksha sutra, with the deity Bajrang Bali, adorned in a Shri Ram naam patka and rudraksha mala, united by a subtle divine spark."
+        ]
+      },
+      {
+        "h": "Exploring the Theme of Divine Companionship",
+        "p": [
+          "The narrative shifts away from traditional large-scale mythological epics to focus intimately on a personal bond. The core premise examines the relationship between a devotee and the divine figure.",
+          "According to insiders connected to the production, the storyline explores the contemporary search for genuine companionship. It poses the heartfelt premise of what might happen if the deity himself becomes an individual's closest confidant."
+        ]
+      },
+      {
+        "h": "Ravi Kishan's Heartland Persona",
+        "p": [
+          "Actor Ravi Kishan takes on the central role following a successful streak across both streaming platforms and traditional cinema. In this project, he adopts a different kind of character setup.",
+          "The performer will portray a pious, simple-hearted common man rooted in the heartland, presenting a side of his acting repertoire that viewers have not witnessed previously."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "The project brings together notable creative forces behind and in front of the camera. The script and overall direction are handled by Amit Aarryan.",
+          "On the production front, the movie is presented by Mahaveer Jain Film and produced by Mahaveer Jain Films. They are collaborating alongside Ratpack Stories to bring the vision to fruition."
+        ]
+      },
+      {
+        "h": "Context within Recent Devotional Trends",
+        "p": [
+          "This upcoming project arrives at a time when audiences have demonstrated substantial enthusiasm for content grounded in faith and spiritual themes. Earlier examples such as OMG Oh My God, Kantara, and Hanuman Ansh illustrate a growing appetite for these narratives.",
+          "While those previous projects explored different storytelling angles, Mera Yaar Bajrangi aims to carve its own niche by centering entirely on an interpersonal, friendly dynamic with the almighty."
+        ]
+      },
+      {
+        "h": "Anticipation and Promotional Expectations",
+        "p": [
+          "The creative team harbors strong confidence that the striking promotional materials will successfully capture public attention. They anticipate that the initial visual campaign will generate significant online discussion.",
+          "By sparking curiosity and connecting emotionally with viewers, the producers hope to build steady momentum leading up to the scheduled theatrical opening."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mahaveer Jain Films has officially announced the title Mera Yaar Bajrangi - Dosti Ho Toh Aisi for their upcoming devotional drama starring Ravi Kishan. The film, directed by Amit Aarryan, is scheduled for a grand theatrical release during Diwali in 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Mahaveer Jain Films announced the title Mera Yaar Bajrangi - Dosti Ho Toh Aisi.",
+      "The film is scheduled for a Diwali 2027 release in cinemas.",
+      "Ravi Kishan stars in the lead role.",
+      "The film is written and directed by Amit Aarryan.",
+      "The project is produced by Mahaveer Jain Films in association with Ratpack Stories."
+    ],
+    "entities": {
+      "people": [
+        "Ravi Kishan",
+        "Amit Aarryan",
+        "Mahaveer Jain"
+      ],
+      "titles": [
+        "Mera Yaar Bajrangi - Dosti Ho Toh Aisi",
+        "Hanuman Ansh",
+        "OMG Oh My God",
+        "Kantara"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/10/Mera-Yaar-Bajrangi-1.jpg",
+        "caption": "Mahaveer Jain Films Reveals Title And Festive Release Window For Upcoming Devotional Drama Starring Ravi Kishan",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 12:55:00 +0200"
   }
 };
