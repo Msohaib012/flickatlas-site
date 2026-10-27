@@ -8485,5 +8485,358 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 05:22:05 +0000"
+  },
+  "15qm8bq": {
+    "id": "15qm8bq",
+    "type": "news",
+    "headline": "You Can See Everything Enters A24's Top 10 Domestic Grossers",
+    "dek": "The documentary You Can See Everything has achieved a major milestone at the North American box office, securing a spot among A24's highest-earning titles.",
+    "body": [
+      {
+        "h": "Box Office Milestone in North America",
+        "p": [
+          "The documentary You Can See Everything has made waves at the North American box office, officially securing a place inside A24's all-time top ten highest-grossing domestic films. Its strong theatrical run has captured widespread attention from industry analysts and moviegoers alike.",
+          "With momentum continuing to build, the feature is steadily climbing higher on prestigious studio leaderboards, marking a notable commercial triumph for the distributor."
+        ]
+      },
+      {
+        "h": "Second Weekend Surge and Screen Count",
+        "p": [
+          "During its second weekend in theaters, the documentary pulled in an impressive $19.5 million domestically. This figure represents a robust 25% increase compared to its initial opening weekend performance.",
+          "Fueling this impressive growth, the film was granted 1,800 additional screens across North America following its strong debut week, directly contributing to its sustained ticket sales."
+        ]
+      },
+      {
+        "h": "Ten-Day Gross and Weekend Breakdown",
+        "p": [
+          "Over a span of just ten days, the feature's total North American box office earnings reached a cumulative $45.1 million, according to data from Box Office Mojo.",
+          "The second three-day weekend saw a steady daily intake, kicking off with $6.1 million on Friday, rising to $6.9 million on Saturday, and closing out the weekend with $6.4 million on Sunday."
+        ]
+      },
+      {
+        "h": "Standing Among A24 All-Time Grossers",
+        "p": [
+          "Sitting at number ten on A24's all-time domestic list, You Can See Everything trails just behind Primetime, which holds a domestic gross of $46.5 million.",
+          "Industry projections suggest the documentary could finish its theatrical run with a domestic haul between $90 million and $100 million, potentially catapulting it into the top three highest-grossing A24 releases of all time."
+        ]
+      },
+      {
+        "h": "Documentary Rankings and History",
+        "p": [
+          "Beyond its success within the studio's catalog, the film stands as the third highest-grossing documentary of all time domestically.",
+          "Furthermore, it has achieved the distinction of becoming the third highest-grossing non-music documentary in cinematic history."
+        ]
+      },
+      {
+        "h": "Premise and Release Details",
+        "p": [
+          "The documentary begins thirty-four days prior to the imprisonment of notorious Theranos founder Elizabeth Holmes, tracking her as she invites a skeptical film crew to document her daily life.",
+          "What begins as an intimate look into her world ultimately expands into a complex, three-year narrative journey. The film was officially released to theaters on October 16."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The A24 documentary You Can See Everything has entered the studio's top ten domestic grossers following a strong second weekend. Totaling $45.1 million over ten days, the feature continues to perform exceptionally well in North American theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "The documentary You Can See Everything was released on October 16.",
+      "The film collected $19.5 million in its second weekend at the domestic box office.",
+      "The second weekend collection was up 25% from its opening weekend.",
+      "The film received 1,800 more screens in its second week.",
+      "The ten-day North American box office total reached $45.1 million.",
+      "Friday's collection during the second weekend was $6.1 million.",
+      "Saturday's collection during the second weekend was $6.9 million.",
+      "Sunday's collection during the second weekend was $6.4 million.",
+      "Primetime has a domestic gross of $46.5 million.",
+      "Projected domestic run earnings are estimated between $90 million and $100 million.",
+      "The documentary begins 34 days before Theranos founder Elizabeth Holmes is sent to prison."
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Holmes"
+      ],
+      "titles": [
+        "You Can See Everything",
+        "Primetime",
+        "Backrooms",
+        "Marty Supreme",
+        "Everything Everywhere All at Once",
+        "Civil War",
+        "Uncut Gems",
+        "Lady Bird",
+        "Talk to Me",
+        "The Drama",
+        "Street Fighter",
+        "Clayface vs Joker 2",
+        "Joker 2",
+        "Ranabaali",
+        "Jailer 2",
+        "Pratap",
+        "Hanuman Ansh",
+        "Border 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/you-can-see-everything-north-america-box-office-makes-history-for-a24-cracking-its-top-10-domestic-grossers-01.jpg",
+        "caption": "You Can See Everything Enters A24's Top 10 Domestic Grossers",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 05:59:49 +0000"
+  },
+  "3152s9": {
+    "id": "3152s9",
+    "type": "news",
+    "headline": "Kriti Sanon and Varun Dhawan Lend Voices for Hindi Version of Hollywood Thriller Obsession on OTT",
+    "dek": "Curry Baker's Hollywood thriller Obsession is coming to JioHotstar with a desi twist, featuring voiceovers by Bollywood stars Kriti Sanon and Varun Dhawan.",
+    "body": [
+      {
+        "h": "Introduction to the Hindi Release",
+        "p": [
+          "Curry Baker's Hollywood thriller Obsession is officially receiving a localized Hindi version for its upcoming streaming debut. The film, which previously had a successful theatrical run, will soon be available for audiences to watch with a distinct desi twist.",
+          "The project brings together prominent Bollywood names to voice the lead characters, adding a fresh layer of appeal for fans of Hindi cinema who want to experience the international thriller in their native language."
+        ]
+      },
+      {
+        "h": "Star Voice Cast Details",
+        "p": [
+          "Bollywood actors Kriti Sanon and Varun Dhawan have officially boarded the project to lend their voices for the Hindi language version. Kriti has provided the voice for the character named Nikki, while Varun has stepped in to voice the character called Bear.",
+          "This marks a unique collaboration where mainstream Hindi film stars participate in voicing international cinematic roles for an OTT platform release."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Release Timing",
+        "p": [
+          "The uncut versions of both the Hindi dubbed and original English editions of Obsession are scheduled to premiere on October 30 at 7 pm. Viewers can catch the movie streaming on The Peacock Hub via JioHotstar.",
+          "The digital rollout allows fans across the country to access the thriller from the comfort of their homes following its theatrical window."
+        ]
+      },
+      {
+        "h": "Kriti Sanon's Experience on the Project",
+        "p": [
+          "In an official statement, Kriti Sanon expressed her admiration for Curry Baker's directorial work and the performances of the original lead cast members, including Inde Navarrette and Michael Johnston. She described the narrative as a gripping, quirky, and twisted story.",
+          "The actress noted that she had never explored an edgy character like Nikki before, making the experience both exciting and challenging. This project marks the first time Kriti has lent her voice to another actor's performance, a debut she found immense joy in taking on."
+        ]
+      },
+      {
+        "h": "Varun Dhawan's Perspective on Voicing Bear",
+        "p": [
+          "Varun Dhawan shared that working on the Hindi version of Obsession offered him a chance to view the story from a completely different perspective. Immersing himself in the role allowed him to enjoy the movie even more closely.",
+          "The actor mentioned noticing numerous subtle details that could easily be missed during an initial viewing, enhancing his appreciation for the thriller and making him eager for audiences to spot them too."
+        ]
+      },
+      {
+        "h": "Box Office Background and Production History",
+        "p": [
+          "Before its digital premiere, Curry Baker's film achieved strong commercial numbers during its theatrical run. In the Indian market, the horror movie collected Rs 84.90 crore, alongside a massive worldwide gross of Rs 3,851.14 crore.",
+          "The film is a collaborative production involving Blumhouse Productions, Capstone Studios, and Tea Shop Productions. It originally made its premiere at the Toronto International Film Festival last year before hitting Indian theatres on May 29 of this year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actors Kriti Sanon and Varun Dhawan are providing voiceovers for the characters Nikki and Bear in the Hindi version of Curry Baker's Hollywood thriller Obsession. The uncut Hindi and English editions are set to premiere on October 30 at 7 pm on The Peacock Hub via JioHotstar, following a successful theatrical run that earned Rs 84.90 crore in India and Rs 3,851.14 crore worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Kriti Sanon and Varun Dhawan provided voiceovers for Nikki and Bear in the Hindi version of Obsession.",
+      "The uncut Hindi and English versions premiere on October 30 at 7 pm on The Peacock Hub on JioHotstar.",
+      "The movie stars Inde Navarrette and Michael Johnston in lead roles.",
+      "The film collected Rs 84.90 crore in India and Rs 3,851.14 crore worldwide.",
+      "The horror film was produced by Blumhouse Productions, Capstone Studios, and Tea Shop Productions.",
+      "It was released theatrically in India on May 29 this year and previously premiered at the Toronto International Film Festival last year."
+    ],
+    "entities": {
+      "people": [
+        "Kriti Sanon",
+        "Varun Dhawan",
+        "Curry Baker",
+        "Inde Navarrette",
+        "Michael Johnston"
+      ],
+      "titles": [
+        "Obsession"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156413108,thumbsize-1551605,width-1280,height-720,resizemode-75/156413108.jpg",
+        "caption": "Kriti Sanon and Varun Dhawan Lend Voices for Hindi Version of Hollywood Thriller Obsession on OTT",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-27T07:00:16Z"
+  },
+  "1p9duyw": {
+    "id": "1p9duyw",
+    "type": "news",
+    "headline": "Meghan Markle Set for Special Guest Appearance on 'Junior MasterChef Australia' in 2027",
+    "dek": "The Duchess of Sussex will travel to Australia with her family to appear alongside host Poh Ling Yeow on the popular cooking competition series.",
+    "body": [
+      {
+        "h": "The Announcement",
+        "p": [
+          "Meghan Markle has lined up a brand-new television appearance scheduled for the year 2027. According to reports from People, the Duchess of Sussex is set to appear as a special guest on the popular competitive cooking series Junior MasterChef Australia.",
+          "Initial rumors had suggested she might take on a full hosting role for the program. However, it has been confirmed that she will instead participate as a guest star, bringing her enthusiasm for food and cooking to the hit reality television format."
+        ]
+      },
+      {
+        "h": "Family Trip to Australia",
+        "p": [
+          "Alongside her television commitments, Meghan is planning to spend several weeks in Australia. She will be accompanied by her husband, Prince Harry, as well as their two children, Prince Archie and Princess Lilibet.",
+          "This extended family stay aligns with her shooting schedule for the culinary program, allowing the family to travel together for the international television production."
+        ]
+      },
+      {
+        "h": "Meghan's Personal Statement",
+        "p": [
+          "Expressing her enthusiasm for the project, the Duchess noted her previous positive experience filming with the MasterChef team. She mentioned that working with the production crew this past April made her decision to return an easy one.",
+          "She also highlighted her passion for cooking with her own children at home. Meghan shared that she is greatly looking forward to witnessing the creative dishes that the young culinary talents will prepare in the kitchen."
+        ]
+      },
+      {
+        "h": "Collaboration with Host Poh Ling Yeow",
+        "p": [
+          "On the program, Meghan will team up with host Poh Ling Yeow to mentor and support the next generation of young chefs. Poh expressed excitement about reuniting with Meghan following their previous collaboration earlier in the year.",
+          "The host remarked that she anticipates plenty of wonderful surprises and a touch of mischief from the young contestants during the upcoming season of the cooking competition."
+        ]
+      },
+      {
+        "h": "Previous Television Work",
+        "p": [
+          "This upcoming appearance follows other recent television projects involving the Duchess. Earlier in the year, she made an appearance on MasterChef Australia as a guest judge.",
+          "Prior to the confirmation of her role on the junior cooking series, rumors had circulated suggesting she might join the cast of another popular Netflix program."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Meghan Markle will travel to Australia in 2027 with Prince Harry, Prince Archie, and Princess Lilibet to appear as a special guest on Junior MasterChef Australia. She will work alongside host Poh Ling Yeow, returning to the franchise following her previous guest judge appearance earlier in the year."
+        ]
+      }
+    ],
+    "facts": [
+      "Meghan Markle will appear on Junior MasterChef Australia in 2027 as a special guest.",
+      "She plans to be in Australia for a few weeks with Prince Harry, Prince Archie, and Princess Lilibet.",
+      "Meghan previously appeared on MasterChef Australia as a guest judge earlier in the year.",
+      "Poh Ling Yeow is the host of Junior MasterChef Australia."
+    ],
+    "entities": {
+      "people": [
+        "Meghan Markle",
+        "Prince Harry",
+        "Prince Archie",
+        "Princess Lilibet",
+        "Poh Ling Yeow",
+        "Thomas Markle"
+      ],
+      "titles": [
+        "Junior MasterChef Australia",
+        "MasterChef Australia",
+        "Still We Met",
+        "Beverly Hills, 90210"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/10/meghan-markle-junior-masterchef.jpg",
+        "caption": "Meghan Markle Set for Special Guest Appearance on 'Junior MasterChef Australia' in 2027",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 05:53:46 +0000"
+  },
+  "rb5dk8": {
+    "id": "rb5dk8",
+    "type": "news",
+    "headline": "Ahn Bo Hyun Steps Into Historical Terrain For Upcoming Series Sacred Jewel",
+    "dek": "The actor takes on the role of a young commander leading a desperate expedition during the Goryeo Dynasty in the upcoming historical drama.",
+    "body": [
+      {
+        "h": "First Look At Sacred Jewel",
+        "p": [
+          "The production team behind the upcoming series Sacred Jewel has officially revealed initial character stills featuring lead actor Ahn Bo Hyun. The sneak peek offers audiences their very first impression of his transformation for the historical project, generating anticipation among fans of the star.",
+          "Set against a turbulent historical backdrop, the newly released promotional images highlight the actor's intense presence and commitment to his latest television role."
+        ]
+      },
+      {
+        "h": "Historical Setting Of The Goryeo Dynasty",
+        "p": [
+          "The narrative unfolds during the year 1258 in the Goryeo Dynasty, capturing a grim period when the kingdom faces imminent collapse. After enduring three decades of relentless warfare against Mongolia, the nation stands on the absolute brink of defeat.",
+          "Against this desperate canvas, the plot centers on a hazardous expedition unit venturing onto dangerous battlefields to locate a legendary relic known as the Avalokitesvara Bead."
+        ]
+      },
+      {
+        "h": "The Quest For The Sacred Relic",
+        "p": [
+          "The central plot device of the series is the Avalokitesvara Bead, a revered object believed to possess divine powers capable of defending and safeguarding the entire nation.",
+          "Alongside the perilous mission of the expeditionary fighters, the storyline weaves in the journey of a princess who strives to rescue the brave members of the unit as they undertake their vital national assignment."
+        ]
+      },
+      {
+        "h": "Meet Commander Baek Gyeol",
+        "p": [
+          "Ahn Bo Hyun stars in the production as Baek Gyeol, serving as a young commander and the leader of the special mission convoy responsible for transporting the sacred relic.",
+          "Baek Gyeol originates from the royal palace guard as a young general. Despite his feelings for the emperor's daughter, he embarks on a dangerous journey alongside Yabyeolcho warriors to secure the fate of his country."
+        ]
+      },
+      {
+        "h": "Character Transformation And Persona",
+        "p": [
+          "The newly published stills demonstrate Ahn Bo Hyun's complete physical and emotional immersion into the character of Baek Gyeol, sporting long hair and tailored historical garments.",
+          "His thoughtful expression showcases a profound gravity, hinting at a complex inner life. The character balances the resilience of a veteran fighter with the intense passion of youth."
+        ]
+      },
+      {
+        "h": "Duality And Devotion",
+        "p": [
+          "Beneath an exterior defined by restraint and dignity, Baek Gyeol harbors raw emotions and steadfast devotion toward the woman he loves within the royal family.",
+          "Audiences are left anticipating the difficult decisions and internal evolution the commander will face while juggling his heavy military duties and personal attachments."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule",
+        "p": [
+          "The historical drama Sacred Jewel has been officially scheduled to make its premiere in December, bringing its epic tale of survival and duty to television screens.",
+          "Viewers are encouraged to look out for further updates as the broadcast window approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Upcoming historical drama Sacred Jewel has shared first-look stills of lead actor Ahn Bo Hyun as commander Baek Gyeol. Set in 1258 during the Goryeo Dynasty, the series follows an expedition searching for a divine relic while a princess attempts to save them, with the show premiering in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Sacred Jewel is set in the year 1258 during the Goryeo Dynasty.",
+      "The kingdom has faced 30 years of war with Mongolia.",
+      "Ahn Bo Hyun plays Baek Gyeol, a young commander and special-mission leader.",
+      "The character is tasked with transporting the Avalokitesvara Bead.",
+      "Sacred Jewel is slated to premiere in December."
+    ],
+    "entities": {
+      "people": [
+        "Ahn Bo Hyun",
+        "S Kim"
+      ],
+      "titles": [
+        "Sacred Jewel",
+        "Yumi's Cells"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/10/27144832/sacred-jewel-04-1.jpeg",
+        "caption": "Ahn Bo Hyun Steps Into Historical Terrain For Upcoming Series Sacred Jewel",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 06:00:04 +0000"
   }
 };
