@@ -2,32 +2,33 @@
  "today_pkt": "2026-10-27",
  "sources": 139,
  "status": {
-  "ok": 83,
+  "ok": 82,
   "error": 17,
-  "unchanged": 37,
+  "unchanged": 38,
   "baseline": 2
  },
- "queue_total": 51,
- "stories_total": 52,
- "duplicates_removed": 0,
+ "queue_total": 36,
+ "stories_total": 39,
+ "duplicates_removed": 1,
  "categories": {
-  "Box Office": 5,
-  "Awards": 0,
-  "Trailers": 1,
+  "Box Office": 4,
+  "Awards": 1,
+  "Trailers": 2,
   "Music / OST": 1,
-  "Episodes": 4,
-  "Upcoming releases": 1,
-  "OTT / Streaming": 3,
-  "TV & Dramas": 1,
-  "Celebrity news & events": 0,
-  "Movies": 34,
-  "Entertainment viral": 1
+  "Episodes": 5,
+  "Upcoming releases": 0,
+  "OTT / Streaming": 0,
+  "TV & Dramas": 0,
+  "Celebrity news & events": 2,
+  "Movies": 21,
+  "Entertainment viral": 0
  },
  "dropped": {
   "section-page": 46,
-  "slug-title": 5,
+  "slug-title": 2,
+  "not-today": 1,
   "no-date": 3,
-  "fallback-blocked-non-entertainment": 4
+  "fallback-blocked-non-entertainment": 1
  },
  "per_source": [
   {
@@ -40,14 +41,14 @@
   {
    "source": "Bollywood Hungama",
    "status": "ok",
-   "new": 2,
+   "new": 3,
    "total": 30,
    "note": ""
   },
   {
    "source": "FilmiBeat",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 30,
    "note": ""
   },
@@ -61,7 +62,7 @@
   {
    "source": "Koimoi",
    "status": "ok",
-   "new": 3,
+   "new": 2,
    "total": 20,
    "note": ""
   },
@@ -82,7 +83,7 @@
   {
    "source": "Sacnilk",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
@@ -145,7 +146,7 @@
   {
    "source": "India Today — Movies",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 20,
    "note": ""
   },
@@ -181,7 +182,7 @@
    "source": "DNA India — Entertainment",
    "status": "ok",
    "new": 0,
-   "total": 78,
+   "total": 77,
    "note": ""
   },
   {
@@ -216,7 +217,7 @@
    "source": "Aaj Tak — Entertainment",
    "status": "ok",
    "new": 1,
-   "total": 256,
+   "total": 257,
    "note": ""
   },
   {
@@ -229,8 +230,8 @@
   {
    "source": "Times Now — Entertainment",
    "status": "ok",
-   "new": 3,
-   "total": 118,
+   "new": 1,
+   "total": 117,
    "note": ""
   },
   {
@@ -264,23 +265,23 @@
   {
    "source": "Collider",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "ComingSoon.net",
-   "status": "ok",
-   "new": 2,
-   "total": 20,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "FirstShowing.net",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 20,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "IMDb",
@@ -299,7 +300,7 @@
   {
    "source": "Screen Rant",
    "status": "ok",
-   "new": 0,
+   "new": 2,
    "total": 10,
    "note": ""
   },
@@ -319,10 +320,10 @@
   },
   {
    "source": "Deadline",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 12,
+   "note": ""
   },
   {
    "source": "The Hollywood Reporter",
@@ -410,10 +411,10 @@
   },
   {
    "source": "TVLine",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "The Futon Critic",
@@ -431,10 +432,10 @@
   },
   {
    "source": "Gold Derby",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 12,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "AwardsWatch",
@@ -453,7 +454,7 @@
   {
    "source": "JustWatch",
    "status": "ok",
-   "new": 3,
+   "new": 0,
    "total": 334,
    "note": ""
   },
@@ -502,7 +503,7 @@
   {
    "source": "ARY Digital HD (YouTube)",
    "status": "ok",
-   "new": 3,
+   "new": 5,
    "total": 15,
    "note": ""
   },
@@ -523,8 +524,8 @@
   {
    "source": "Dawn — Images/ICON",
    "status": "ok",
-   "new": 0,
-   "total": 26,
+   "new": 2,
+   "total": 25,
    "note": ""
   },
   {
@@ -551,14 +552,14 @@
   {
    "source": "Green TV Entertainment (YouTube)",
    "status": "ok",
-   "new": 4,
+   "new": 2,
    "total": 15,
    "note": ""
   },
   {
    "source": "HAR PAL GEO (YouTube)",
    "status": "ok",
-   "new": 4,
+   "new": 6,
    "total": 15,
    "note": ""
   },
@@ -677,21 +678,21 @@
   {
    "source": "MyDramaList",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
   {
    "source": "Soompi",
    "status": "ok",
-   "new": 4,
+   "new": 2,
    "total": 30,
    "note": ""
   },
   {
    "source": "VVIP Times",
    "status": "ok",
-   "new": 4,
+   "new": 3,
    "total": 10,
    "note": ""
   },
@@ -712,7 +713,7 @@
   {
    "source": "Yonhap News Agency — Entertainment",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 71,
    "note": ""
   },
@@ -733,7 +734,7 @@
   {
    "source": "Digital Spy",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
@@ -746,10 +747,10 @@
   },
   {
    "source": "Geektown",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "I Talk Telly",
@@ -760,10 +761,10 @@
   },
   {
    "source": "Radio Times",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 30,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "TellyMix",
@@ -783,20 +784,20 @@
    "source": "Daily Mail — TV & Showbiz",
    "status": "ok",
    "new": 2,
-   "total": 83,
+   "total": 82,
    "note": ""
   },
   {
    "source": "Metro — Entertainment",
    "status": "ok",
-   "new": 0,
-   "total": 108,
+   "new": 1,
+   "total": 106,
    "note": ""
   },
   {
    "source": "Mirror — Showbiz",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 141,
    "note": ""
   },
@@ -894,7 +895,7 @@
   {
    "source": "HELLO! Magazine",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },

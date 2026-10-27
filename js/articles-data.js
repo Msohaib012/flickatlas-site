@@ -9581,5 +9581,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 12:55:00 +0200"
+  },
+  "1n8i5z3": {
+    "id": "1n8i5z3",
+    "type": "news",
+    "headline": "Prashanth Neel-Backed Horror Film 418 Encounters Major Box Office Drop on Monday",
+    "dek": "The Telugu horror film 418 experienced a sharp decline on its first Monday, collecting 86 lakh and bringing its total net earnings to 8.51 crore.",
+    "body": [
+      {
+        "h": "Initial Box Office Performance and Opening Weekend",
+        "p": [
+          "The Telugu horror feature 418 debuted in cinemas on October 23, entering the box office arena without any major headlining stars in its cast. Presented by acclaimed filmmaker Prashanth Neel, known for his work on KGF, the project managed to secure a solid opening day and sustained favorable momentum throughout its opening weekend.",
+          "Audience turnout remained relatively steady across the first few days, allowing the picture to build a respectable initial foundation. However, this early stability faced a severe test as the first weekday arrived, challenging the sustaining power of the horror title in theaters."
+        ]
+      },
+      {
+        "h": "The First Monday Test and Steep Decline",
+        "p": [
+          "On its fourth day in theaters, the horror drama encountered a significant slump in ticket sales, failing the critical Monday test. The feature brought in just 86 lakh on Day 4, marking a sharp decrease of approximately 67.55% compared to its opening day figures.",
+          "A drop exceeding forty percent on the initial Monday typically signals a failure to retain momentum, and this near-crash leaves the picture heavily reliant on positive word-of-mouth to stimulate recovery and drive future ticket sales."
+        ]
+      },
+      {
+        "h": "Detailed Day-Wise Breakdown of Collections",
+        "p": [
+          "An examination of the daily figures reveals the trajectory of the feature since its theatrical rollout. On Day 1, the film established its highest single-day collection at 2.65 crore.",
+          "The subsequent days saw minor fluctuations before the steep weekday fall. Day 2 and Day 3 both registered collections of 2.5 crore each, bringing the four-day cumulative net total to 8.51 crore, which translates to a gross total of 10.04 crore."
+        ]
+      },
+      {
+        "h": "Standing Among Post-COVID Tollywood Horror Films",
+        "p": [
+          "In the broader context of post-COVID Telugu horror cinema, the feature has secured a place on the genre's regional chart. It currently stands as the ninth-highest-grossing film within this specific category for the post-pandemic era.",
+          "Despite securing a spot in the top ten, it ranks as the lowest-grossing Telugu horror release of 2026. To improve its standing, the picture would need to double its current earnings to surpass the net total of the 2026 release Raakaasa."
+        ]
+      },
+      {
+        "h": "Plot Premise and Supernatural Setting",
+        "p": [
+          "The narrative unfolds within a medical college located in a remote village, centering on a building where Room No. 418 has remained locked and forbidden for fifteen years. An eighteen-year-old medical student named Vivek Shankar arrives at the institution and gets assigned to the adjacent Room No. 417.",
+          "Soon after moving into the neighboring room, Vivek begins encountering bizarre and frightening supernatural events. As he tries to discover the secrets hidden behind the sealed door, his perception of reality starts to break down."
+        ]
+      },
+      {
+        "h": "Production Team and Creative Direction",
+        "p": [
+          "The cinematic project benefits from the creative backing of Prashanth Neel, whose association brought considerable attention to the horror thriller. The production blends a mysterious location with psychological horror tropes to shape its suspenseful atmosphere.",
+          "Behind the camera, Dinesh Divakaran managed the cinematography, capturing the eerie tone of the remote medical college, while Venky GG provided the musical composition to heighten the suspense."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prashanth Neel's backed horror film 418 experienced a severe 68 percent drop on its first Monday, collecting 86 lakh and bringing its four-day net total to 8.51 crore. The Telugu film, which follows a medical student facing supernatural occurrences near a sealed room, now needs strong word-of-mouth to recover."
+        ]
+      }
+    ],
+    "facts": [
+      "418 released in theaters on October 23",
+      "Day 1 collection was 2.65 crore",
+      "Day 2 collection was 2.5 crore",
+      "Day 3 collection was 2.5 crore",
+      "Day 4 collection was 86 lakh",
+      "Net total after four days is 8.51 crore",
+      "Gross total after four days is 10.04 crore",
+      "Day 4 drop was 67.55%"
+    ],
+    "entities": {
+      "people": [
+        "Prashanth Neel",
+        "Vivek Shankar",
+        "Dinesh Divakaran",
+        "Venky GG",
+        "Raakaasa"
+      ],
+      "titles": [
+        "418",
+        "KGF",
+        "Raakaasa",
+        "The RajaSaab",
+        "Virupaksha",
+        "Korean Kanakaraju",
+        "Kishkindhapuri",
+        "Maa Oori Polimera 2",
+        "Mangalavaaram",
+        "Shambhala",
+        "Love Me If You Dare!"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/418-box-office-collection-day-4-prashanth-neel-backed-horror-film-fails-monday-test-01.jpg",
+        "caption": "Prashanth Neel-Backed Horror Film 418 Encounters Major Box Office Drop on Monday",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 08:16:18 +0000"
+  },
+  "1i2qvvq": {
+    "id": "1i2qvvq",
+    "type": "news",
+    "headline": "Shanaya Kapoor Takes On Double Role and OTT Debut in Student of the Year: After Dark Trailer",
+    "dek": "JioHotstar has dropped the thrilling trailer for Student of the Year: After Dark, a campus-set murder mystery that brings a darker edge to the popular film franchise.",
+    "body": [
+      {
+        "h": "A Darker Twist on a Familiar Campus",
+        "p": [
+          "JioHotstar has officially released the promotional trailer for Student of the Year: After Dark, steering the well-known campus franchise into entirely unexpected territory. Instead of focusing solely on lighthearted teenage romance and friendly rivalry, this new iteration introduces a gripping murder mystery.",
+          "The newly unveiled footage offers viewers a glimpse into a gritty, angsty environment tailored for today's youth. By infusing the classic school setting with high-stakes danger and suspense, the project completely reimagines the commercial tropes associated with the original films."
+        ]
+      },
+      {
+        "h": "Shanaya Kapoor Leads in a Double Role",
+        "p": [
+          "The upcoming project serves as the official OTT debut for actor Shanaya Kapoor. Adding to the challenge of her first major streaming appearance, Kapoor takes on a demanding double role as twin sisters with drastically different outlooks.",
+          "She portrays Aayesha Malik, a popular student whose tragic and mysterious death sets the entire narrative in motion. Alongside Aayesha, Kapoor plays her twin sister Aditi, who refuses to accept the official narrative that the death was merely an accident."
+        ]
+      },
+      {
+        "h": "Uncovering Secrets at St. Teresa's",
+        "p": [
+          "Driven by a relentless need to uncover what really happened to her sister, Aditi enrolls at St. Teresa's school. She actively participates in the institution's legendary Student of the Year competition to get closer to the truth.",
+          "As she navigates the corridors of the competitive academy, Aditi finds herself surrounded by potential suspects, including her sister's former friends and rivals. The contest effectively doubles as an active investigation, with every single interaction holding hidden dangers."
+        ]
+      },
+      {
+        "h": "Exploring Contrasting Personalities",
+        "p": [
+          "Reflecting on her dual performance, Shanaya Kapoor noted that portraying two distinct characters proved to be both immensely challenging and rewarding. She emphasized that while the sisters share identical appearances, their underlying personalities and personal choices could not be more dissimilar.",
+          "The actor also shared that the darker narrative arc was the primary factor that attracted her to the venture. She expressed excitement over participating in a fresh adaptation where the overall stakes stretch far beyond winning a simple trophy."
+        ]
+      },
+      {
+        "h": "Director Reema Maya on Youthful Ambition",
+        "p": [
+          "Director Reema Maya sought to examine the intense pressures that modern youth face regarding academic and social success. She aimed to highlight the destructive nature of an all-consuming desire to win, which can easily shatter lifelong friendships and consume an individual.",
+          "Maya explained that she thoroughly enjoyed dissecting the psychology behind standard commercial character archetypes. By turning the competition into a vehicle for a murder investigation, she crafted a world where every young, ambitious character remains under intense suspicion."
+        ]
+      },
+      {
+        "h": "Cast and Premiere Details",
+        "p": [
+          "Produced under the banner of Dharmatic Entertainment, the upcoming web series features a diverse ensemble cast alongside the lead star. Notable names appearing in the project include Abhinav Singh, Divik Sharma, Manya Grover, and Deeya Damani.",
+          "Additional performances come from Adi Malik, Sheeba Chaddha, and Vivek Gomber. Fans looking forward to the release can stream the show exclusively on JioHotstar when it premieres on November 13, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "JioHotstar has released the trailer for Student of the Year: After Dark, a murder mystery series that reimagines the campus franchise for streaming audiences. The show marks Shanaya Kapoor's OTT debut in a double role as twin sisters, heading a cast directed by Reema Maya and produced by Dharmatic Entertainment ahead of its November 13, 2026 premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Shanaya Kapoor plays twin sisters Aayesha Malik and Aditi.",
+      "The series is directed by Reema Maya.",
+      "The project is produced by Dharmatic Entertainment.",
+      "The show stars Abhinav Singh, Divik Sharma, Manya Grover, Deeya Damani, Adi Malik, Sheeba Chaddha, and Vivek Gomber.",
+      "The series premieres on JioHotstar on November 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shanaya Kapoor",
+        "Reema Maya",
+        "Abhinav Singh",
+        "Divik Sharma",
+        "Manya Grover",
+        "Deeya Damani",
+        "Adi Malik",
+        "Sheeba Chaddha",
+        "Vivek Gomber",
+        "Karan Johar"
+      ],
+      "titles": [
+        "Student of the Year: After Dark",
+        "Student Of The Year",
+        "Student Of The Year 2",
+        "Student Of The Year 3"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/SOTY-After-Dark-trailer.jpeg",
+        "caption": "Shanaya Kapoor Takes On Double Role and OTT Debut in Student of the Year: After Dark Trailer",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 13:41:42 +0200"
+  },
+  "1oa5r96": {
+    "id": "1oa5r96",
+    "type": "news",
+    "headline": "Marathi Thriller Gondhal Drops Global Trailer Ahead of Academy Awards Campaign",
+    "dek": "Santosh Davakhar's culturally rooted Marathi feature Gondhal, carrying India's hopes at the 99th Academy Awards, reveals its international trailer featuring a gripping 25-minute single-take opening sequence.",
+    "body": [
+      {
+        "h": "International Trailer Introduces Cultural Thriller",
+        "p": [
+          "The global promotional video for the Marathi-language thriller Gondhal has officially debuted, marking a significant step in the picture's international awards push. Selected by the Film Federation of India from a pool of thirty-three submissions, the project serves as India's official entry for the 99th Academy Awards.",
+          "The newly released footage offers audiences worldwide a comprehensive look at the rural setting and tense atmosphere of the feature. Directed by Santosh Davakhar, the narrative unfolds over the course of a single night in a village in Maharashtra, utilizing a traditional folk performance as the chilling background for a narrative involving betrayal and a botched scheme."
+        ]
+      },
+      {
+        "h": "Plot Centered Around a Traditional Folk Ritual",
+        "p": [
+          "Rather than serving merely as visual dressing, the ancient ritual known as Gondhal acts as the primary engine for the plot. The ceremony typically combines music, dance, and narrative performance to invoke deities, but here it collides with dangerous human motives. The story focuses on Suman, a young wife trapped in an unhappy marriage who manipulates her lover Sarjerao's obsession with the ritual.",
+          "Suman pushes Sarjerao toward eliminating her husband Anand so she can ultimately escape with another man named Sahebrao, also known as Murali. The official plot synopsis outlines how a sacred village ceremony devolves into a desperate game of crime and consequence before the morning light breaks."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "Ishitaa Deshmukh anchors the production in the lead role of Suman, portraying a woman attempting to seize control of her fate. Nishad Bhoir plays Sarjerao, the obsessed lover whose fixation becomes a dangerous tool in Suman's hands, while Yogesh Sohoni portrays the unsuspecting husband, Anand.",
+          "Anuj Prabhu steps into the role of Sahebrao, the lover targeted for the escape plan. The supporting ensemble features notable names including Kishor Kadam as an elder figure connected to the ritual named Bhivaba, alongside Suresh Vishwakarma, Maadhavi Juvekar, Aishwarya Shinde, Kailash Waghmare, and Poonam Patil."
+        ]
+      },
+      {
+        "h": "Technical Highlights and Ilaiyaraaja's Score",
+        "p": [
+          "Beyond its selection for the Oscars, the project has attracted industry attention for distinct technical achievements, notably its score by veteran composer Ilaiyaraaja. Having marked fifty years in Indian cinema in the preceding year, this marks the first time a film featuring his music has been chosen as India's official Academy Award submission.",
+          "Another striking technical element is the opening sequence, which runs as an unbroken single take lasting approximately twenty-five minutes. Cinematographer Amalendu Chaudhary and editor Ashish Mhatre managed the sequence, with Mhatre noting that shooting the continuous segment required seven full days of rigorous preparation."
+        ]
+      },
+      {
+        "h": "Director's Vision and Festival Acclaim",
+        "p": [
+          "Director Santosh Davakhar has expressed a desire to showcase the rich cultural traditions of the country to international audiences, steering away from narratives solely fixated on hardship. His work on the picture previously earned him the Silver Peacock for Best Director at the International Film Festival of India, where jury members likened the tone to a Shakespearean fable set in reality.",
+          "Additional accolades followed at the Pune International Film Festival, where Davakhar once again secured the Best Director prize and Amalendu Chaudhary was honored for best cinematography. The feature makes history as the fourth Marathi language project to be chosen as India's official Oscar contender, following previous entries like Shwaas, Harishchandrachi Factory, and Court."
+        ]
+      },
+      {
+        "h": "Theatrical Release Plans and Absence of OTT Partner",
+        "p": [
+          "Audiences across India will have the opportunity to view the picture in theaters when it receives a pan-Indian theatrical rollout in multiple languages including Marathi, Hindi, Tamil, Telugu, Malayalam, and Kannada. The feature originally debuted in cinemas in late 2025 and returned for special paid screenings following the boost from its Oscar selection.",
+          "Regarding digital availability, no official streaming partner or premiere schedule has been announced. The filmmaker has emphasized that the project was crafted specifically for the big-screen environment, leaving fans to experience it exclusively in theaters as the awards campaign for the 99th Academy Awards progresses toward the ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "Gondhal is India's official entry for the 99th Academy Awards.",
+      "The Film Federation of India selected the film from 33 submissions on September 18, 2026.",
+      "The global trailer was released on October 26, 2026.",
+      "The film's pan-India theatrical release is scheduled for November 13, 2026.",
+      "The film opens with an unbroken single take lasting roughly 25 minutes.",
+      "Santosh Davakhar is the director, writer, and producer of the film.",
+      "Ilaiyaraaja composed the music and background score for the film.",
+      "The 99th Academy Awards are scheduled for March 14, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Sougata Nandi",
+        "Santosh Davakhar",
+        "Ishitaa Deshmukh",
+        "Nishad Bhoir",
+        "Yogesh Sohoni",
+        "Anuj Prabhu",
+        "Kishor Kadam",
+        "Suresh Vishwakarma",
+        "Maadhavi Juvekar",
+        "Aishwarya Shinde",
+        "Kailash Waghmare",
+        "Poonam Patil",
+        "Diksha Davakhar",
+        "Jayesh Sawant",
+        "Ravindra Navle",
+        "Ilaiyaraaja",
+        "Ashish Mhatre",
+        "Amalendu Chaudhary",
+        "Devendra Fadnavis"
+      ],
+      "titles": [
+        "Gondhal",
+        "Shwaas",
+        "Harishchandrachi Factory",
+        "Court",
+        "Ramayana",
+        "Mangal Rang",
+        "Beparwah",
+        "Hanuman Ansh",
+        "Ganesh Dust To Stardust",
+        "Bhed Bakri Bhoot",
+        "Call of Duty",
+        "Sinbad",
+        "Maelstrom",
+        "The Pet Cemetery Murders",
+        "Love in Disguise",
+        "Hope",
+        "The Ordinary Jackpot",
+        "Black Clover",
+        "Ghosts",
+        "The Simpsons",
+        "Treehouse of Horror XXXVII"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/09/A_still_from_Gondhal.webp",
+        "caption": "Marathi Thriller Gondhal Drops Global Trailer Ahead of Academy Awards Campaign",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 08:04:49 +0000"
+  },
+  "1bltqaq": {
+    "id": "1bltqaq",
+    "type": "news",
+    "headline": "Peter Berg Confirms Call of Duty Movie Focuses on the Cost of War Rather Than Comic Book Tropes",
+    "dek": "Director Peter Berg and writer Taylor Sheridan are bringing emotional weight and nuanced characters to the upcoming Paramount and Skydance adaptation.",
+    "body": [
+      {
+        "h": "Director's Vision for the Adaptation",
+        "p": [
+          "Director Peter Berg has offered clear insights into the upcoming adaptation of the mega-hit video game franchise, assuring audiences that the project will steer clear of standard comic book tropes. Instead of treating its soldiers as cartoon heroes or invincible figures, the film aims to portray them as complex human beings dealing with very real burdens.",
+          "Speaking to ComicBook in late October 2026, Berg emphasized that the production is designed to carry substantial emotional weight rather than serving as a mindless action spectacle. The creative team is deliberately aiming for a dramatic and grounded exploration of military life."
+        ]
+      },
+      {
+        "h": "Drawing Inspiration from Modern Warfare",
+        "p": [
+          "The cinematic project specifically draws from the Modern Warfare storyline, centering around iconic figures such as Captain Price, Soap, Ghost, and Alex. Berg highlighted that these characters provide a strong foundation for rich dramatic storytelling because of their nuanced arcs and the intrinsic soul of the Modern Warfare universe.",
+          "While acknowledging that violence, military hardware, and combat are inherent parts of the franchise, Berg stressed that those elements exist on top of a much deeper thematic core. The narrative is fundamentally about the heavy toll paid by warriors who place themselves in harm's way."
+        ]
+      },
+      {
+        "h": "The Creative Partnership with Taylor Sheridan",
+        "p": [
+          "Screenwriter Taylor Sheridan, widely known for his work on Yellowstone, Sicario, and Hell or High Water, penned the script for the film. Berg noted that he and Sheridan share a mutual understanding of what the source material requires to feel authentic and resonant.",
+          "This shared vision ensures that the movie retains a strong soul and a sharp focus on the consequences of armed conflict, setting it apart from standard popcorn action shooters that prioritize quantity over quality."
+        ]
+      },
+      {
+        "h": "Escaping the Popcorn Shooter Mold",
+        "p": [
+          "Given that Call of Duty is one of the largest entertainment properties globally—boasting 1 billion players and $35 billion in lifetime revenue according to Paramount—a project of this magnitude could easily have devolved into pure, unadulterated popcorn entertainment.",
+          "However, Berg's approach signals an intentional departure from mindless spectacle, bringing an artistic seriousness reminiscent of his earlier military-focused films like Lone Survivor and The Kingdom."
+        ]
+      },
+      {
+        "h": "Evolution of the Director's Perspective",
+        "p": [
+          "Berg's current embrace of the franchise marks a notable evolution from his previous remarks. Back in 2013, the filmmaker offered sharp criticism of war video games, labeling them pathetic and referring to the medium as keyboard courage.",
+          "His pivot to praising the storytelling and characters of the Modern Warfare universe in late 2026 demonstrates a profound change in perspective, treating the source material with genuine artistic respect rather than viewing it as a promotional obligation."
+        ]
+      },
+      {
+        "h": "Production Timeline and Release Details",
+        "p": [
+          "Paramount officially locked in the theatrical release date during its CinemaCon presentation in April 2026, scheduling the wide release for June 30, 2028. The film is a collaborative production involving Skydance, Paramount, and Activision Blizzard Studios.",
+          "As the project moves steadily toward its 2028 premiere in domestic and international markets, the studio has yet to announce casting decisions or specific plot details beyond its foundation in the Modern Warfare setting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Peter Berg stated that the upcoming Call of Duty movie will focus on the emotional cost of war and complex human characters rather than comic book heroes. Written by Taylor Sheridan and produced by Paramount and Skydance, the film is scheduled for a theatrical release on June 30, 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "The Call of Duty movie is scheduled to arrive in theaters on June 30, 2028.",
+      "Peter Berg is directing the film and co-writing with Taylor Sheridan.",
+      "The production companies involved are Paramount, Skydance, and Activision Blizzard Studios.",
+      "The film draws its storyline from the Modern Warfare universe, featuring characters like Captain Price, Soap, Ghost, and Alex.",
+      "Paramount has cited 1 billion players and $35 billion in lifetime revenue for the Call of Duty franchise.",
+      "Taylor Sheridan's notable previous works include Yellowstone, Sicario, and Hell or High Water.",
+      "Paramount announced the release date during its CinemaCon presentation in April 2026."
+    ],
+    "entities": {
+      "people": [
+        "Peter Berg",
+        "Taylor Sheridan",
+        "Saikat Nandy"
+      ],
+      "titles": [
+        "Call of Duty",
+        "Modern Warfare",
+        "Yellowstone",
+        "Sicario",
+        "Hell or High Water",
+        "Lone Survivor",
+        "The Kingdom",
+        "The Mosquito Bowl"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/10/image-2026-10-24T044247.001.webp",
+        "caption": "Peter Berg Confirms Call of Duty Movie Focuses on the Cost of War Rather Than Comic Book Tropes",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 08:12:04 +0000"
   }
 };

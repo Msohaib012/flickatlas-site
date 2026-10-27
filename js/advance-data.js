@@ -4,14 +4,14 @@ window.FA_ADVANCE = {
     {
       "date": "2026-10-28",
       "day": "Day 6",
-      "collection": 174326
+      "collection": 178553
     }
   ],
   "1389379": [
     {
       "date": "2026-10-28",
       "day": "Day 13",
-      "collection": 133122
+      "collection": 132066
     }
   ]
 };
