@@ -115,6 +115,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-09-03",
+      "date_kind": "release",
+      "id": 1355228,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2025-08-27",
       "date_kind": "release",
       "id": 1178602,

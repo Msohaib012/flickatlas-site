@@ -3864,5 +3864,557 @@ window.FA_PUBLISHED = {
       "Nadeem Siddique"
     ],
     "providers": []
+  },
+  "1756758": {
+    "id": 1756758,
+    "type": "movie",
+    "title": "Midnight Momo",
+    "poster_path": "/fSi1YdG0Te2CHUbyG05gCMCiz9w.jpg",
+    "backdrop_path": null,
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Kunga’s having a hell of a night. It’s 15 minutes to closing at the Queens momo shop where he works and things are just heating up. A homeless regular comes in for his nightly leftovers. Kunga’s girlfriend arrives with something serious to talk about. Immigration officers show up looking for the Mexican chef. Then, just as everything is boiling over, the clock strikes midnight and Kunga finds himself right back where he started — trapped in the same chaotic 15 minutes over and over.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Science Fiction"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-09-20",
+    "date_kind": "festival",
+    "runtime": 83,
+    "providers": []
+  },
+  "1186823": {
+    "id": 1186823,
+    "type": "movie",
+    "title": "Sumo Didi",
+    "poster_path": "/qrDFJdUBAqdiwcd0e0ajGpWtUPo.jpg",
+    "backdrop_path": "/2MllO3l2S13r7Dv87SA5TTVZ50s.jpg",
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "Hetal, a talented wrestler, discovers sumo by chance, but her road to improvement is very steep. Unwilling to give up her dream, she goes to Japan and endures rigorous training. A unique Indian sumo girl movie!",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "hJL9MdogzTk",
+      "name": "Sumo Didi | Official Trailer | Hindi Zee 5 Original Film | Shriyam Bhagnani | Premieres 23rd Oct",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2023-10-27",
+    "date_kind": "release",
+    "runtime": 118,
+    "providers": []
+  },
+  "1794929": {
+    "id": 1794929,
+    "type": "movie",
+    "title": "Doosra",
+    "poster_path": "/lIY3gG1sO6KkXLgmv0o9d23ykBP.jpg",
+    "backdrop_path": "/ftWFF6CgMXEmnVa7pI6XhDgjPkk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The 2002 NatWest Final was more than a cricketing victory for India. It was a moment when a nation found its voice, and a young girl found the courage to speak her truth.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "India's other freedom struggle!",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 78,
+    "providers": []
+  },
+  "1728425": {
+    "id": 1728425,
+    "type": "movie",
+    "title": "Magazine",
+    "poster_path": "/6U3kKFTT3o3vI2LGyMr2ZMLRCXR.jpg",
+    "backdrop_path": "/9JFe6r2f7y47L1mf7Njz41pSBxT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bored, privileged, and convinced his life has zero plot, a drama-hungry Gen Z cinephile leaves the city for his ancestral village in search of some main-character energy, hoping life will finally give him something worth talking about, but an unlikely friendship, a new world, and one unexpected twist soon turn his own life into the story he's been waiting for.",
+    "industry": "world",
+    "original_language": "mr",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 135000,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Family"
+    ],
+    "tagline": "In search of a home, I found my story.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "mr"
+    ],
+    "certification": "U",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": []
+  },
+  "1593350": {
+    "id": 1593350,
+    "type": "movie",
+    "title": "Haiku",
+    "poster_path": "/thZGedKvZnnvuLpNWEA1nmalM7K.jpg",
+    "backdrop_path": "/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Haiku is a heartfelt romantic drama about second chances and healing. Mano, once an immature and possessive college boy, loses his first love Kodi, a bold and caring girl from a traditional Coimbatore family, after his insecurities and long-distance struggles ruin their relationship. Years later, Mano, now more mature, meets Nivi, an independent, lower-middle-class girl raised by a single mother, who is recovering from a toxic relationship with Arul. Mano helps Nivi rediscover what true love means, while Nivi gives Mano a chance to love without control and without fear. But when Nivi learns about Mano’s toxic past with Kodi, doubts and insecurities threaten their bond. HAIKU beautifully explores how first love may break us, but second love teaches us to heal, forgive, and love better.",
+    "industry": "world",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 143,
+    "providers": []
+  },
+  "1740967": {
+    "id": 1740967,
+    "type": "movie",
+    "title": "Orijinal",
+    "poster_path": "/6awkjiQxV4y8R19cDuHvBg85iyK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 132,
+    "providers": []
+  },
+  "1770836": {
+    "id": 1770836,
+    "type": "movie",
+    "title": "Border Diaries",
+    "poster_path": "/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in an industrial area on the Karnataka-Tamil Nadu border, the story explores the lives of people working there and focuses on emotional borders, love, morality, and survival.",
+    "industry": "world",
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "kn"
+    ],
+    "certification": "",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1793054": {
+    "id": 1793054,
+    "type": "movie",
+    "title": "Naa Wife Missing",
+    "poster_path": "/cYCHjfZAZyodVpiznfUReKexLNp.jpg",
+    "backdrop_path": "/dRQwqDOnBe9ZTZFRXrxoVD9Ol82.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A newly married couple's happy life takes a mysterious turn when the wife suddenly disappears. As the husband seeks help, doubts about her past and hidden secrets begin to surface.",
+    "industry": "world",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "wuqxTM4_Ma4",
+      "name": "Na Wife Missing Trailer | Varun Sandesh | Shweta Basu | Premieres On Oct 22nd | An Aha Original",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-22",
+    "date_kind": "release",
+    "runtime": 138,
+    "providers": []
+  },
+  "869152": {
+    "id": 869152,
+    "type": "movie",
+    "title": "Titans",
+    "poster_path": "/sjVZFosphZzsiTHjMaUM5aR9Lrt.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Small-time gangster Antony Yakuza teams up with young programmer Anwar to pull off a major heist, with mysterious driver Rejimon joining them. But Rejimon is not who he seems, and their simple crime soon turns into a strange, unpredictable journey where reality itself begins to blur.",
+    "industry": "world",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-22",
+    "date_kind": "release",
+    "runtime": 126,
+    "providers": []
+  },
+  "1327835": {
+    "id": 1327835,
+    "type": "movie",
+    "title": "Mookuthi Amman 2",
+    "poster_path": "/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
+    "backdrop_path": "/aWopAufKHvBP0dTfZgfjEav8Ryp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
+    "industry": "world",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1355228": {
+    "id": 1355228,
+    "type": "movie",
+    "title": "Gandhari",
+    "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+    "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+    "vote_average": 7.4,
+    "vote_count": 35,
+    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-09-03",
+    "date_kind": "release",
+    "runtime": 117,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1515692": {
+    "id": 1515692,
+    "type": "movie",
+    "title": "Baththa",
+    "poster_path": "/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+    "backdrop_path": "/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
+    "vote_average": 8.2,
+    "vote_count": 4,
+    "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+    "industry": "world",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "QAMyuZSvqWI",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Action"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-01",
+    "date_kind": "release",
+    "runtime": 159,
+    "providers": []
+  },
+  "337266": {
+    "id": 337266,
+    "type": "tv",
+    "title": "Tark-e-Tamanna",
+    "poster_path": "/eXbkdSIbqHfQgzrUu9N0ECZzTZL.jpg",
+    "backdrop_path": "/oQHuemDtUcb0eqzpfopEVWMwYr4.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When hearts are consumed by hatred, love seems like an impossible dream.\n\nBut sometimes, the strongest emotions hide behind the deepest resentment.\n\nCan two souls find their way to love, or will hatred destroy every chance of togetherness?",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-28",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-09-28",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Nawaz Khan"
+    ],
+    "providers": []
   }
 };

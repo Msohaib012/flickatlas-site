@@ -351,6 +351,45 @@
      "detail": "310 stories, 1 duplicates removed, 75 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T18:52:13Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 260,
+     "detail": "RSS/Atom items across 139 sources; 15 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Where The Mask Ends Ep 21 Release Time: Will Spite Drive Lord Han To Accuse Wei Rao Of Embezzlement & Treason?",
+      "The Lament Of Autumn Episodes 29-30 Release Time: Will Ping Jung Finally Confess Her Feelings To Chang Xuan?",
+      "Meesaya Murukku 2 OTT Release Date: When And Where To Watch Hiphop Tamizha Adhi And Ketika Sharma's Film",
+      "Ramayana Faces Unexpected Competition? Akshay Kumar’s Film To Clash With Ranbir Starrer But There’s A Twist",
+      "Bigg Boss 20: Manish Goel Calls Out Scout's Double Standards: Kisiki Sharafat Ko Kamzori Nahi Samjhana",
+      "Heart Of The Beast Worldwide Box Office: Inches Away From Beating 2nd Highest-Grossing Insidious Film Soon!",
+      "Meesaya Murukku 2 OTT Release: When and where to watch Hiphop Tamizha Adhi’s music comedy drama online",
+      "Mookuthi Amman 2: Nayanthara’s fantasy sequel to run 2 and a half hours? Here’s what we know",
+      "SRK's 'King' poster draws comparisons with 'Dhurandhar 2' on social media",
+      "icc congratulates richard kettleborough on completing 100 test umpiring milestone 3077139.html",
+      "madhuri dixit husband dr nene reacts over insecurity with wife stardom successful marriage secret tmovj dskc 2681142 2026 10 27",
+      "young sheldon actress emily osment felt uncomfortable while shooting kissing scene with 12 year younger actor mortana jordan tmova dskc 2680377 2026 10 27",
+      "karwa chauth 2026 delhi ncr moonrise weather amid cyclone arnab details mmtm 2681739 2026 10 27",
+      "shah rukh khan kareena kapoor to recreate chammak challo vibe with king dance number article 156418175",
+      "former bigbang member seungri to become father amid legal troubles marriage plans revealed report article 156418296",
+      "txt soobin faces funeral wreath protest plans amid gay deepfake row fans ask why target the victim article 156418137",
+      "jailer 2 box office update rajinikanth film hits rs 400 crore in india grosses rs 700 crore worldwide article 156418306",
+      "meghan markle joins junior masterchef australia as co host alongside poh ling yeow article 156418320",
+      "DWTS's Carrie Ann Inaba Addressed How She Cleared The Air With 'Deeply Hurt' Jenna Johnson After Liftgate",
+      "Marina Sirtis' Tearful Tribute To Walter Koenig Reminds Us All That Star Trek Creates Strong Bonds"
+     ],
+     "updated": [],
+     "count": 195,
+     "detail": "197 stories, 1 duplicates removed, 63 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -503,6 +542,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T17:52:11Z",
     "run_id": "40554360943",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T18:52:29Z",
+    "run_id": "40563697871",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -679,6 +736,24 @@
      "detail": "now 5, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T18:52:29Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 11,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -787,6 +862,32 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T18:52:38Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 20,
+     "detail": "Tavily week search results"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
+      "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
+      "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
+      "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
+      "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
+      "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
+      "Director Rajiv Rai Clarifies Mohra Re-Release Plans And Denies Diwali Clash With Ramayana",
+      "Shanaya Kapoor Takes On Double Role and OTT Debut in Student of the Year: After Dark Trailer"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
@@ -969,6 +1070,24 @@
      "detail": "+0 new rows, 13 updated rows, 129 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T18:58:28Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 142,
+     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 131 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -1066,6 +1185,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T17:57:09Z",
     "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1270,6 +1399,24 @@
      "detail": "api-news.json 86 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T18:58:30Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 86,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 86 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -1369,6 +1516,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-27T17:57:09Z",
     "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1503,6 +1660,49 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T18:52:29Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": {
+     "candidates": 213,
+     "sources": {
+      "trending": 20,
+      "now_playing": 40,
+      "upcoming": 34,
+      "bollywood": 40,
+      "india_window": 40,
+      "pk_dramas": 20,
+      "pk_movies": 19
+     },
+     "picked": 14,
+     "skipped": 1,
+     "cap": 20,
+     "detail": "now_playing/upcoming/bollywood p1-2 + india_window discover p1-2 + trending/pk p1"
+    },
+    "changed": {
+     "added": [
+      "Midnight Momo (1756758)",
+      "Sumo Didi (1186823)",
+      "Doosra (1794929)",
+      "Magazine (1728425)",
+      "Haiku (1593350)",
+      "Orijinal (1740967)",
+      "Border Diaries (1770836)",
+      "Naa Wife Missing (1793054)",
+      "Titans (869152)",
+      "Mookuthi Amman 2 (1327835)",
+      "Gandhari (1355228)",
+      "Baththa (1515692)",
+      "Tark-e-Tamanna (337266)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "gemini_batch": [
@@ -1595,6 +1795,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "overseas_ai": [
@@ -1683,6 +1893,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T17:57:09Z",
     "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1780,6 +2000,16 @@
     "category": "Trending News",
     "run_at": "2026-10-27T17:57:09Z",
     "run_id": "40554360943",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
     "status": "success",
     "checked": null,
     "changed": null,
@@ -1916,6 +2146,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -2013,6 +2258,21 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 46,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
@@ -2101,6 +2361,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T17:57:09Z",
     "run_id": "40554360943",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2197,8 +2467,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T18:58:42Z",
+    "run_id": "40563697871",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T17:57:09Z"
+ "updated_at": "2026-10-27T18:58:42Z"
 }
