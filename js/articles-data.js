@@ -9972,5 +9972,193 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 08:12:04 +0000"
+  },
+  "dug08j": {
+    "id": "dug08j",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 480 Crore India Gross Amid Weekday Slump",
+    "dek": "Nelson Dilipkumar's action sequel Jailer 2 maintains a steady theatrical presence, crossing Rs 409 crore in net domestic earnings as it progresses through its second-week run.",
+    "body": [
+      {
+        "h": "Continuing Box Office Momentum",
+        "p": [
+          "The theatrical journey of the action entertainer Jailer 2 continues to capture attention as the film approaches another major financial milestone domestically. Headlined by veteran star Rajinikanth and directed by filmmaker Nelson Dilipkumar, the sequel has successfully sustained viewer interest across multiple linguistic versions during its extended run.",
+          "Industry tracking indicates that the feature is steadily advancing toward a massive domestic gross figure of Rs 480 crore. Even as it navigates through standard weekday dips following robust weekend numbers, the production continues to hold ground across theaters nationwide."
+        ]
+      },
+      {
+        "h": "Strong Opening and First Week Performance",
+        "p": [
+          "Jailer 2 began its box office journey with an exceptional opening day, pulling in a substantial Rs 59.70 crore net in India. This strong start set the tone for a lucrative opening week, during which the movie accumulated an impressive Rs 334.35 crore net.",
+          "The film's appeal resonated strongly with audiences across Tamil, Telugu, and Hindi markets, allowing it to post double-digit daily figures well into its second week of exhibition before experiencing the expected weekday deceleration."
+        ]
+      },
+      {
+        "h": "Day 13 Live Tracking and Language Breakdown",
+        "p": [
+          "As the feature entered its thirteenth day in cinemas, live estimates placed its single-day net collection at Rs 1.29 crore from nearly 3,000 tracked shows across the country. The regional breakdown shows the Tamil version leading the charge with Rs 0.75 crore from over 1,200 shows.",
+          "Meanwhile, the Telugu version contributed Rs 0.35 crore across its dedicated screenings, and the Hindi version added Rs 0.19 crore. These ongoing figures elevate the picture's total domestic net collection past Rs 409 crore, with the overall India gross reaching approximately Rs 479.37 crore."
+        ]
+      },
+      {
+        "h": "Detailed Day-Wise Earnings Overview",
+        "p": [
+          "A closer examination of the daily trajectory highlights the film's consistent drawing power. Following its massive Rs 334.35 crore first week, the movie brought in Rs 17.15 crore on Day 8 and Rs 14.50 crore on Day 9.",
+          "The subsequent weekend saw surges with Rs 24.15 crore on Day 10 and Rs 25.70 crore on Day 11, before tapering to Rs 9.45 crore on Day 12 and the live Day 13 estimate of Rs 1.29 crore, culminating in an overall net of Rs 409.44 crore."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Helmed by director Nelson Dilipkumar, Jailer 2 features Rajinikanth reprising his dynamic role as Tiger Muthuvel Pandian. The high-profile cast also includes prominent names such as Mohanlal, Shivarajkumar, Ramya Krishnan, Mithun Chakraborty, S. J. Suryah, and Yogi Babu.",
+          "Musical contributions by Anirudh Ravichander have further enhanced the action entertainer's appeal, helping drive audiences to theaters across different language territories."
+        ]
+      },
+      {
+        "h": "Milestones and Global Aspirations",
+        "p": [
+          "With the domestic net crossing significant thresholds, conversations have naturally turned toward the possibility of the project making history as Kollywood's first feature to cross the monumental Rs 1000 crore mark globally. Worldwide gross figures have reportedly already surpassed Rs 730 crore.",
+          "Industry analysts continue to monitor these metrics closely as final studio updates are awaited to confirm the exact figures of this commercial run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action sequel Jailer 2, directed by Nelson Dilipkumar, is nearing Rs 480 crore in India gross collections as it maintains a steady run despite a weekday dip. Having accumulated over Rs 409 crore in net domestic earnings, the multi-lingual feature continues to draw audiences with strong contributions from its Tamil, Telugu, and Hindi versions."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth stars in Jailer 2 directed by Nelson Dilipkumar",
+      "Jailer 2 Day 1 net collection was Rs 59.70 crore",
+      "First week net collection was Rs 334.35 crore",
+      "Day 8 collection was Rs 17.15 crore",
+      "Day 9 collection was Rs 14.50 crore",
+      "Day 10 collection was Rs 24.15 crore",
+      "Day 11 collection was Rs 25.70 crore",
+      "Day 12 collection on Monday, October 26, was Rs 9.45 crore",
+      "Day 13 live net collection was Rs 1.29 crore",
+      "Total India net collection reached Rs 409.44 crore",
+      "Total India gross collection reached Rs 479.37 crore",
+      "Worldwide gross has reportedly surpassed Rs 730 crore"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Mohanlal",
+        "Shivarajkumar",
+        "Ramya Krishnan",
+        "Mithun Chakraborty",
+        "S. J. Suryah",
+        "Yogi Babu",
+        "Anirudh Ravichander"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135228562,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 480 Crore India Gross Amid Weekday Slump",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-27T13:48:33+05:30"
+  },
+  "1opacar": {
+    "id": "1opacar",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Could Delay Indian Premiere to Avoid Clash with Ramayana",
+    "dek": "PVR INOX Pictures is reportedly weighing a postponement of the Japanese monster film in India to dodge a direct box office and IMAX competition with the big-budget epic Ramayana.",
+    "body": [
+      {
+        "h": "Potential Schedule Shift in India",
+        "p": [
+          "PVR INOX Pictures is reportedly weighing the possibility of pushing back the Indian release of Godzilla Minus Zero. The distributor is considering the move to avoid a direct theatrical confrontation with the high-profile epic Ramayana.",
+          "While initial trade tracking pointed to a November 6 release for the monster feature, no official confirmation regarding a revised date has been issued yet. Ramayana is slated to arrive in cinemas a day earlier on November 5."
+        ]
+      },
+      {
+        "h": "The IMAX Screen Space Dilemma",
+        "p": [
+          "Reports indicate that Godzilla Minus Zero might secure only a single daily screening at several IMAX locations if it opens alongside the mythological drama. The vast majority of premium-format slots are anticipated to go to the Nitesh Tiwari directorial.",
+          "Because Godzilla Minus Zero is the first Japanese production filmed specifically for IMAX, access to these specialized formats is considered vital for its theatrical presentation. Delaying the rollout could theoretically open up more premium screens once the initial rush for the epic subsides."
+        ]
+      },
+      {
+        "h": "Weighing Risks and Rewards",
+        "p": [
+          "Postponing the monster film presents distinct strategic hurdles for the distributor. Altering the release calendar can disrupt carefully planned marketing campaigns and diminish the momentum generated by the international rollout schedule.",
+          "Furthermore, exhibitors note that shifting dates provides no absolute guarantee of securing additional IMAX screens. Availability during subsequent weeks depends heavily on competing releases and ongoing audience demand."
+        ]
+      },
+      {
+        "h": "Global and Domestic Release Timelines",
+        "p": [
+          "Godzilla Minus Zero holds a scheduled release date of November 3 in Japan and November 6 in North America. The official worldwide release calendar leaves the specific Indian arrival unconfirmed.",
+          "Directed by Takashi Yamazaki, the feature follows the critical success of the Academy Award-winning Godzilla Minus One. Meanwhile, Ramayana is gearing up for a worldwide theatrical launch on November 5."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The competing Indian epic, titled Ramayana: Rise of the Legend, boasts an extensive ensemble cast led by Ranbir Kapoor as Lord Ram and Sai Pallavi as Sita. The project also features Yash as Raavan, Ravi Dubey as Lakshman, Rakul Preet Singh as Surpanakha, Kunal Kapoor as Lord Indra, and Vivek Oberoi as Vidyutjiva.",
+          "Helmed by director Nitesh Tiwari, the massive production has commanded immense media attention and holds expectations of dominating premium screens during its opening weekend."
+        ]
+      },
+      {
+        "h": "Exhibitor Flexibility and Demand",
+        "p": [
+          "A potential postponement would primarily afford theatres greater flexibility in scheduling showtimes based on immediate audience demand rather than forcing a split of premium slots. However, because Ramayana is expected to claim the lion's share of IMAX auditoriums anyway, shifting dates may yield only marginal gains in total screenings.",
+          "Distributors remain tasked with balancing the theoretical advantage of dodging a major box-office clash against the unpredictability of finding a more favorable exhibition window later on."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "PVR INOX Pictures is reportedly considering delaying the Indian release of Godzilla Minus Zero to avoid an IMAX screen clash with the upcoming epic Ramayana. While shifting the date could potentially ease premium format competition, it introduces marketing uncertainties and no guarantee of better screen availability later."
+        ]
+      }
+    ],
+    "facts": [
+      "PVR INOX Pictures is reportedly considering postponing Godzilla Minus Zero in India.",
+      "Godzilla Minus Zero was previously planned for a November 6 release.",
+      "Ramayana is scheduled to arrive in theatres on November 5.",
+      "Ramayana: Rise of the Legend is directed by Nitesh Tiwari.",
+      "Godzilla Minus Zero is directed by Takashi Yamazaki.",
+      "Ramayana: Rise of the Legend stars Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, Ravi Dubey as Lakshman, Yash as Raavan, Rakul Preet Singh as Surpanakha, Kunal Kapoor as Lord Indra, and Vivek Oberoi as Vidyutjiva.",
+      "Godzilla Minus Zero is scheduled to release in Japan on November 3 and North America on November 6."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Takashi Yamazaki",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Kunal Kapoor",
+        "Vivek Oberoi",
+        "Prachi arya"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Godzilla Minus One",
+        "Ramayana: Rise of the Legend"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/ramayana-vs-godzilla-minus-zero-270823617-16x9_0.jpg?VersionId=FoqzioSILtKAt5t.JuHEWzHEs_kgsNqu",
+        "caption": "Godzilla Minus Zero Could Delay Indian Premiere to Avoid Clash with Ramayana",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 13:40:44 +0530"
   }
 };

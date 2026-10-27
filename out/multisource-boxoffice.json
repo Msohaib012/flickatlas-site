@@ -210,6 +210,7 @@
               "filmynewsnetwork": 55.1,
               "flickonclick": 55.4,
               "moviemint": 56.7,
+              "overseas-ai": 55.4,
               "overseas-backfill": 55.4,
               "sacnilk": 55.4
             },
@@ -218,7 +219,6 @@
           "overseas": {
             "crore": 57.0,
             "sources": {
-              "overseas-ai": 57.0,
               "overseas-backfill": 57.0
             },
             "value": 6022187
@@ -227,10 +227,11 @@
             "sources": {
               "filmynewsnetwork": 14767,
               "moviemint": 18686,
+              "overseas-ai": 16599,
               "overseas-backfill": 16599,
               "sacnilk": 16599
             },
-            "value": 16663
+            "value": 16650
           },
           "tickets": {
             "sources": {
@@ -266,20 +267,22 @@
             "value": 36.0
           },
           "overseas": {
-            "crore": 16.0,
+            "crore": 13.0,
             "sources": {
+              "overseas-ai": 10.0,
               "overseas-backfill": 16.0
             },
-            "value": 1690438
+            "value": 1373481
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 8419,
               "moviemint": 12518,
+              "overseas-ai": 11591,
               "overseas-backfill": 11591,
               "sacnilk": 11591
             },
-            "value": 11030
+            "value": 11142
           },
           "tickets": {
             "sources": {
@@ -399,38 +402,38 @@
         }
       },
       "13": {
-        "collection_inr_cr": 2.13,
-        "collection_usd": 225040,
+        "collection_inr_cr": 2.37,
+        "collection_usd": 250396,
         "date": "2026-10-27",
         "extras": {
           "occupancy": {
             "sources": {
               "filmynewsnetwork": 11.1,
-              "moviemint": 12.8
+              "moviemint": 13.0
             },
-            "value": 11.9
+            "value": 12.1
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 5620,
-              "moviemint": 3206
+              "moviemint": 3434
             },
-            "value": 4413
+            "value": 4527
           },
           "tickets": {
             "sources": {
               "filmynewsnetwork": 204994,
-              "moviemint": 122631
+              "moviemint": 133722
             },
-            "value": 163812
+            "value": 169358
           }
         },
         "india": true,
         "sources": {
-          "bollybourse": 1.85,
+          "bollybourse": 2.25,
           "filmynewsnetwork": 3.19,
-          "moviemint": 1.65,
-          "sacnilk": 1.85
+          "moviemint": 1.77,
+          "sacnilk": 2.25
         }
       },
       "2": {
@@ -443,15 +446,15 @@
               "filmynewsnetwork": 47.4,
               "flickonclick": 48.2,
               "moviemint": 49.3,
+              "overseas-ai": 48.2,
               "overseas-backfill": 48.2,
               "sacnilk": 48.2
             },
-            "value": 48.3
+            "value": 48.2
           },
           "overseas": {
             "crore": 43.0,
             "sources": {
-              "overseas-ai": 43.0,
               "overseas-backfill": 43.0
             },
             "value": 4543053
@@ -494,6 +497,7 @@
               "filmynewsnetwork": 53.8,
               "flickonclick": 53.9,
               "moviemint": 55.7,
+              "overseas-ai": 53.9,
               "overseas-backfill": 53.9,
               "sacnilk": 53.9
             },
@@ -510,10 +514,11 @@
             "sources": {
               "filmynewsnetwork": 12807,
               "moviemint": 16019,
+              "overseas-ai": 14604,
               "overseas-backfill": 14604,
               "sacnilk": 14604
             },
-            "value": 14508
+            "value": 14528
           },
           "tickets": {
             "sources": {
@@ -543,6 +548,7 @@
               "filmynewsnetwork": 61.0,
               "flickonclick": 62.0,
               "moviemint": 64.1,
+              "overseas-ai": 62.0,
               "overseas-backfill": 62.0,
               "sacnilk": 62.0
             },
@@ -559,10 +565,11 @@
             "sources": {
               "filmynewsnetwork": 13669,
               "moviemint": 16827,
+              "overseas-ai": 15473,
               "overseas-backfill": 15473,
               "sacnilk": 15473
             },
-            "value": 15360
+            "value": 15383
           },
           "tickets": {
             "sources": {
@@ -690,26 +697,29 @@
               "filmynewsnetwork": 32.9,
               "flickonclick": 34.8,
               "moviemint": 35.8,
+              "overseas-ai": 34.8,
               "overseas-backfill": 34.8,
               "sacnilk": 34.8
             },
             "value": 34.6
           },
           "overseas": {
-            "crore": 6.5,
+            "crore": 6.75,
             "sources": {
+              "overseas-ai": 7.0,
               "overseas-backfill": 6.5
             },
-            "value": 686741
+            "value": 713154
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 12318,
               "moviemint": 15549,
+              "overseas-ai": 14470,
               "overseas-backfill": 14470,
               "sacnilk": 14470
             },
-            "value": 14202
+            "value": 14255
           },
           "tickets": {
             "sources": {
@@ -1650,38 +1660,38 @@
         }
       },
       "26": {
-        "collection_inr_cr": 0.27,
-        "collection_usd": 28526,
+        "collection_inr_cr": 0.31,
+        "collection_usd": 32752,
         "date": "2026-10-27",
         "extras": {
           "occupancy": {
             "sources": {
               "filmynewsnetwork": 10.4,
-              "moviemint": 9.3
+              "moviemint": 9.8
             },
-            "value": 9.9
+            "value": 10.1
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 1690,
-              "moviemint": 1028
+              "moviemint": 1111
             },
-            "value": 1359
+            "value": 1400
           },
           "tickets": {
             "sources": {
               "filmynewsnetwork": 32553,
-              "moviemint": 17621
+              "moviemint": 20046
             },
-            "value": 25087
+            "value": 26300
           }
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.16,
+          "bollybourse": 0.21,
           "filmynewsnetwork": 0.48,
-          "moviemint": 0.21,
-          "sacnilk": 0.21
+          "moviemint": 0.24,
+          "sacnilk": 0.3
         }
       },
       "3": {
@@ -2200,38 +2210,38 @@
         }
       },
       "5": {
-        "collection_inr_cr": 0.65,
-        "collection_usd": 68674,
+        "collection_inr_cr": 0.74,
+        "collection_usd": 78183,
         "date": "2026-10-27",
         "extras": {
           "occupancy": {
             "sources": {
               "filmynewsnetwork": 10.4,
-              "moviemint": 10.1
+              "moviemint": 10.3
             },
-            "value": 10.2
+            "value": 10.4
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 3114,
-              "moviemint": 1931
+              "moviemint": 2095
             },
-            "value": 2522
+            "value": 2604
           },
           "tickets": {
             "sources": {
               "filmynewsnetwork": 70009,
-              "moviemint": 41987
+              "moviemint": 46634
             },
-            "value": 55998
+            "value": 58322
           }
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.51,
+          "bollybourse": 0.67,
           "filmynewsnetwork": 1.06,
-          "moviemint": 0.52,
-          "sacnilk": 0.51
+          "moviemint": 0.58,
+          "sacnilk": 0.67
         }
       }
     },
@@ -2251,12 +2261,12 @@
             "value": 56.5
           },
           "overseas": {
-            "crore": 5.58,
+            "crore": 5.4,
             "sources": {
-              "overseas-ai": 5.75,
+              "overseas-ai": 5.4,
               "overseas-backfill": 5.4
             },
-            "value": 589540
+            "value": 570523
           },
           "shows": {
             "sources": {
@@ -2380,38 +2390,38 @@
         }
       },
       "12": {
-        "collection_inr_cr": 0.39,
-        "collection_usd": 41204,
+        "collection_inr_cr": 0.45,
+        "collection_usd": 47544,
         "date": "2026-10-27",
         "extras": {
           "occupancy": {
             "sources": {
               "filmynewsnetwork": 15.0,
-              "moviemint": 16.0
+              "moviemint": 16.9
             },
-            "value": 15.5
+            "value": 15.9
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 855,
-              "moviemint": 469
+              "moviemint": 507
             },
-            "value": 662
+            "value": 681
           },
           "tickets": {
             "sources": {
               "filmynewsnetwork": 45833,
-              "moviemint": 25509
+              "moviemint": 28985
             },
-            "value": 35671
+            "value": 37409
           }
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.26,
+          "bollybourse": 0.43,
           "filmynewsnetwork": 0.58,
-          "moviemint": 0.28,
-          "sacnilk": 0.43
+          "moviemint": 0.32,
+          "sacnilk": 0.46
         }
       },
       "2": {
@@ -2478,6 +2488,7 @@
           "overseas": {
             "crore": 1.5,
             "sources": {
+              "overseas-ai": 1.5,
               "overseas-backfill": 1.5
             },
             "value": 158479
@@ -2486,10 +2497,11 @@
             "sources": {
               "filmynewsnetwork": 2064,
               "moviemint": 2536,
+              "overseas-ai": 2515,
               "overseas-backfill": 2302,
               "sacnilk": 2302
             },
-            "value": 2301
+            "value": 2344
           },
           "tickets": {
             "sources": {
@@ -2667,6 +2679,7 @@
           "overseas": {
             "crore": 0.35,
             "sources": {
+              "overseas-ai": 0.35,
               "overseas-backfill": 0.35
             },
             "value": 36978
@@ -2675,6 +2688,7 @@
             "sources": {
               "filmynewsnetwork": 1889,
               "moviemint": 2339,
+              "overseas-ai": 2112,
               "overseas-backfill": 2112,
               "sacnilk": 2112
             },
@@ -2900,13 +2914,13 @@
         }
       },
       "5": {
-        "collection_inr_cr": 0.09,
-        "collection_usd": 9509,
+        "collection_inr_cr": 0.11,
+        "collection_usd": 11622,
         "date": "2026-10-23",
         "india": true,
         "sources": {
-          "bollybourse": 0.09,
-          "sacnilk": 0.09
+          "bollybourse": 0.11,
+          "sacnilk": 0.11
         }
       }
     },
@@ -3410,6 +3424,7 @@
           "overseas": {
             "crore": 0.5,
             "sources": {
+              "overseas-ai": 0.5,
               "overseas-backfill": 0.5
             },
             "value": 52826
@@ -3443,16 +3458,24 @@
           "overseas": {
             "crore": 0.5,
             "sources": {
+              "overseas-ai": 0.5,
               "overseas-backfill": 0.5
             },
             "value": 52826
           },
           "shows": {
             "sources": {
+              "overseas-ai": 1826,
               "overseas-backfill": 1826,
               "sacnilk": 1826
             },
             "value": 1826
+          },
+          "tickets": {
+            "sources": {
+              "overseas-ai": 188285
+            },
+            "value": 188285
           }
         },
         "india": true,
@@ -3494,12 +3517,12 @@
         }
       },
       "5": {
-        "collection_inr_cr": 0.2,
-        "collection_usd": 21130,
+        "collection_inr_cr": 0.22,
+        "collection_usd": 23244,
         "date": "2026-10-27",
         "india": true,
         "sources": {
-          "sacnilk": 0.2
+          "sacnilk": 0.22
         }
       }
     },
@@ -3646,38 +3669,38 @@
         }
       },
       "12": {
-        "collection_inr_cr": 0.09,
-        "collection_usd": 9509,
+        "collection_inr_cr": 0.11,
+        "collection_usd": 11622,
         "date": "2026-10-27",
         "extras": {
           "occupancy": {
             "sources": {
               "filmynewsnetwork": 8.1,
-              "moviemint": 7.9
+              "moviemint": 8.2
             },
-            "value": 8.0
+            "value": 8.1
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 743,
-              "moviemint": 433
+              "moviemint": 473
             },
-            "value": 588
+            "value": 608
           },
           "tickets": {
             "sources": {
               "filmynewsnetwork": 10774,
-              "moviemint": 6049
+              "moviemint": 6747
             },
-            "value": 8412
+            "value": 8760
           }
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.06,
+          "bollybourse": 0.08,
           "filmynewsnetwork": 0.16,
-          "moviemint": 0.07,
-          "sacnilk": 0.08
+          "moviemint": 0.08,
+          "sacnilk": 0.1
         }
       },
       "2": {
@@ -3924,10 +3947,11 @@
             "sources": {
               "filmynewsnetwork": 8.3,
               "moviemint": 8.4,
+              "overseas-ai": 9.9,
               "overseas-backfill": 9.0,
               "sacnilk": 9.0
             },
-            "value": 8.7
+            "value": 8.9
           },
           "overseas": {
             "crore": 0.1,
@@ -3941,10 +3965,11 @@
             "sources": {
               "filmynewsnetwork": 3649,
               "moviemint": 4692,
+              "overseas-ai": 4539,
               "overseas-backfill": 4539,
               "sacnilk": 4539
             },
-            "value": 4355
+            "value": 4392
           },
           "tickets": {
             "sources": {
@@ -4176,13 +4201,13 @@
         }
       },
       "5": {
-        "collection_inr_cr": 0.11,
-        "collection_usd": 11622,
+        "collection_inr_cr": 0.14,
+        "collection_usd": 14791,
         "date": "2026-10-27",
         "india": true,
         "sources": {
-          "bollybourse": 0.1,
-          "sacnilk": 0.12
+          "bollybourse": 0.12,
+          "sacnilk": 0.15
         }
       }
     },
