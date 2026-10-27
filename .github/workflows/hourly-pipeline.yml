@@ -451,6 +451,7 @@ jobs:
       # movie/index.html; the rebase conflict killed the whole run and
       # its 53-file commit, including that hour's new articles.)
       - name: Commit if changed
+        id: commit
         if: always()
         run: |
           git config user.name "Msohaib012"
@@ -510,7 +511,23 @@ jobs:
             fi
             # Push with one retry in case another push lands in between.
             git push || { git pull --rebase && git push; }
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "committed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      # --- 15. Deploy to Cloudflare (only when the run committed) -------
+      # Static-asset deploy via the Cloudflare API (see
+      # scripts/cloudflare_deploy.py). Gated on the commit step's output
+      # so a no-change hour costs no deploy. The script exits 0 with a
+      # warning when CLOUDFLARE_API_TOKEN is not set yet, so the pipeline
+      # keeps working until the secret is added.
+      - name: Deploy to Cloudflare
+        id: cfdeploy
+        if: steps.commit.outputs.committed == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python3 scripts/cloudflare_deploy.py
 
 
 
