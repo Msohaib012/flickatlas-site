@@ -113,6 +113,22 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2025-08-27",
+      "date_kind": "release",
+      "id": 1178602,
+      "providers": [
+        {
+          "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+          "name": "MUBI"
+        },
+        {
+          "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+          "name": "MUBI Amazon Channel"
+        }
+      ],
+      "type": "movie"
     }
   ]
 };

@@ -3061,6 +3061,808 @@ window.FA_PUBLISHED = {
       "Saqib Zafar Khan"
     ],
     "providers": []
+  },
+  "1803812": {
+    "id": 1803812,
+    "type": "movie",
+    "title": "Patakka Guddiyan",
+    "poster_path": "/iXzierTllivIAPYxwfQjcY6x5Ui.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Roohi, a simple girl, is the complete opposite of her twin sister Mahi, who is sharp, daring, and mischievous. As the story progresses, layers of suspense and drama unfold.",
+    "industry": "world",
+    "original_language": "pa",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "pa"
+    ],
+    "certification": "NR",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 127,
+    "providers": []
+  },
+  "1437703": {
+    "id": 1437703,
+    "type": "movie",
+    "title": "Flies",
+    "poster_path": "/8msXampT9kNOyyKaWkfGZ0bZIzR.jpg",
+    "backdrop_path": "/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+    "vote_average": 7.3,
+    "vote_count": 23,
+    "overview": "Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": {
+      "key": "wtuCOy5ZW6A",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "6",
+    "release_date": "2026-07-01",
+    "date_kind": "release",
+    "runtime": 101,
+    "providers": []
+  },
+  "1497970": {
+    "id": 1497970,
+    "type": "movie",
+    "title": "Tom and Jerry: Forbidden Compass",
+    "poster_path": "/5qttWFjsO62k88civZaDMHiBTvy.jpg",
+    "backdrop_path": "/9VM1KI9sVZETl0d00FK7CnBzxiw.jpg",
+    "vote_average": 6.6,
+    "vote_count": 61,
+    "overview": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": {
+      "key": "4280xkO7x0w",
+      "name": "Official Trailer Drop",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 2730116,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tagline": "The cat and mouse chase never ends!",
+    "status": "Released",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": []
+  },
+  "1187038": {
+    "id": 1187038,
+    "type": "movie",
+    "title": "Manduka",
+    "poster_path": "/yrPf3xKqWYv8GjIwsQZI8nyDYaY.jpg",
+    "backdrop_path": "/nn57ukin9IJ1i1io8EWWLQESpuj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A girl suffering from schizophrenia accidentally meets four criminals. Meanwhile in an hide and seek with Police and the criminals lies the mystery.",
+    "industry": "world",
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 6,
+    "revenue": 10,
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "Innocence can be a crime",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn"
+    ],
+    "certification": "UA",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": []
+  },
+  "1046304": {
+    "id": 1046304,
+    "type": "movie",
+    "title": "9 Temples to Heaven",
+    "poster_path": "/6Qb11di83PyJpuJpNlxvJvi1kBd.jpg",
+    "backdrop_path": "/aTxI4pigee5Gj7mDGPy8Bj3xsn7.jpg",
+    "vote_average": 9.0,
+    "vote_count": 2,
+    "overview": "A man takes his sick mother and nine family members on a single-day temple pilgrimage after his boss predicts she may die soon.",
+    "industry": "world",
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": {
+      "key": "m02q5G9rjSw",
+      "name": "Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "9 temples. 9 family members. One hope to change Grandma's fate.",
+    "status": "Released",
+    "production_countries": [
+      "TH",
+      "NO",
+      "FR",
+      "SG",
+      "CN",
+      "HK",
+      "ID"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "certification": "13+",
+    "release_date": "2026-09-17",
+    "date_kind": "release",
+    "runtime": 140,
+    "providers": []
+  },
+  "1799668": {
+    "id": 1799668,
+    "type": "movie",
+    "title": "Dhood (Sandstorm)",
+    "poster_path": "/8WHWC29DJvSV8woUwDinjFmuVLR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set against the vast expanse of the Thar desert, an isolated family's desperate wishes and psychological friction trigger a dark domestic countdown, threatening to reduce their household entirely into dust",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 97,
+    "providers": []
+  },
+  "1806780": {
+    "id": 1806780,
+    "type": "movie",
+    "title": "Mr. Lucky",
+    "poster_path": "/Yq3P6LODu7GtLR4cZoEF89esJR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lakshman, an IT professional ironically nicknamed Lucky, finds himself trapped in a life full of misfortune. Everything changes when a mysterious cap turns his luck around, taking his life in unexpected directions.",
+    "industry": "world",
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "qkIUq5zUPPs",
+      "name": "MR LUCKY – OFFICIAL Trailer| Harshith Rangaswamy | Raam Tej | Srinidhi Bengaluru | MRT Music",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Fantasy"
+    ],
+    "tagline": "LUCK COMES WITH A COST",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1416310": {
+    "id": 1416310,
+    "type": "movie",
+    "title": "The Last Ride",
+    "poster_path": "/8cww6EM2bwdq59gGQXj2xdEMiWb.jpg",
+    "backdrop_path": "/suUd1i6SCo70Q9lv2wFSqgdhbxC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Desperate to secure a dowry for his sister's wedding and escape his exploitative boss, Aman – a migrant ride-share driver in Mumbai – decides to steal his boss's taxi. But his plan spirals into a nightmare when his last minute passenger turns out to be a Chudail (a demonic witch).",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2025-07-05",
+    "date_kind": "release",
+    "runtime": 23,
+    "providers": []
+  },
+  "1649061": {
+    "id": 1649061,
+    "type": "movie",
+    "title": "Rehmat",
+    "poster_path": "/aNE73bgIUqQNCiB2FV4qaDyySKS.jpg",
+    "backdrop_path": "/vKmexluijDwAn8wgMelHzl83IIG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Three interconnected stories in present-day Punjab. A woman secretly shelters a wounded stranger within her home, while his family endures the weight of grief and impossible choices. Meanwhile, a mysterious elderly man arrives in a village, calling himself God.",
+    "industry": "world",
+    "original_language": "pa",
+    "origin_country": [
+      "IN",
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN",
+      "FR"
+    ],
+    "spoken_languages": [
+      "pa",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-08-06",
+    "date_kind": "festival",
+    "runtime": 157,
+    "providers": []
+  },
+  "1154730": {
+    "id": 1154730,
+    "type": "movie",
+    "title": "La Gradiva",
+    "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+    "backdrop_path": "/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
+    "vote_average": 7.0,
+    "vote_count": 11,
+    "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": {
+      "key": "5yY6V9MbEoE",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "IT"
+    ],
+    "spoken_languages": [
+      "fr",
+      "it",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-21",
+    "date_kind": "release",
+    "runtime": 145,
+    "providers": []
+  },
+  "1176962": {
+    "id": 1176962,
+    "type": "movie",
+    "title": "Rose",
+    "poster_path": "/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
+    "backdrop_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+    "vote_average": 7.7,
+    "vote_count": 57,
+    "overview": "In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": {
+      "key": "KrmkNoxS6t4",
+      "name": "Official International Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "AT",
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "+13",
+    "release_date": "2026-04-17",
+    "date_kind": "release",
+    "runtime": 94,
+    "providers": []
+  },
+  "1794887": {
+    "id": 1794887,
+    "type": "movie",
+    "title": "Dreamboat",
+    "poster_path": "/wD316ePLIz0uOU1kaLmNheed6dv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When an underground musician’s unconventional romance with her beloved pillow is violently cut short by her mother, she spirals into a delirious odyssey through Mumbai, where her friendships, desires, and grip on reality are tested by an enigmatic homeless poet. As she searches for love and connection in an increasingly alienating city, the abandoned pillow begins to develop a will of its own.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-29",
+    "date_kind": "festival",
+    "runtime": 24,
+    "providers": []
+  },
+  "1178602": {
+    "id": 1178602,
+    "type": "movie",
+    "title": "Miroirs No. 3",
+    "poster_path": "/fcy6ZmdrwzW8TtiDY4ZxDEDk6yl.jpg",
+    "backdrop_path": "/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
+    "vote_average": 6.6,
+    "vote_count": 59,
+    "overview": "After a car crash kills her boyfriend, piano student Laura is taken in by Betty, who witnessed the accident. Living with Betty's family brings comfort, but Laura starts questioning their intentions as time passes.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": {
+      "key": "PqNG8EWydW0",
+      "name": "Official US Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 827346,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "NR",
+    "release_date": "2025-08-27",
+    "date_kind": "release",
+    "runtime": 86,
+    "providers": [
+      {
+        "name": "MUBI",
+        "logo_path": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MUBI Amazon Channel",
+        "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1377455": {
+    "id": 1377455,
+    "type": "movie",
+    "title": "Shutterspeed",
+    "poster_path": "/dmCPux38aIcOiVoQF8k2kC7NLqk.jpg",
+    "backdrop_path": "/uffTWESXIoyhDonrDI1lwelga8f.jpg",
+    "vote_average": 9.8,
+    "vote_count": 7,
+    "overview": "Fifteen-year-old Cas poses for his school’s trainee teacher and amateur photographer Jard. When he becomes painfully aware of the power imbalance between them, he seeks to reverse their dynamic.",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "BE"
+    ],
+    "trailer": {
+      "key": "9MuG29zxe8w",
+      "name": "Shutterspeed | Trailer | Film Fest Gent 2025",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BE"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "",
+    "release_date": "2025-06-26",
+    "date_kind": "festival",
+    "runtime": 25,
+    "providers": []
+  },
+  "1402181": {
+    "id": 1402181,
+    "type": "movie",
+    "title": "Scene",
+    "poster_path": "/o07oEIsJLPLbLWMCX54fZbUYh9y.jpg",
+    "backdrop_path": "/zYiUafcGC7JqK01GYbkimBYNaUR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A serious crime hunt with a not so serious team.",
+    "industry": "world",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 2421932,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta",
+      "ml"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1081010": {
+    "id": 1081010,
+    "type": "movie",
+    "title": "Prahaar: The Untold Story of Ujjwal Nikam",
+    "poster_path": "/wTrBTNfHHmpPwiB9rpn0tGbSW1m.jpg",
+    "backdrop_path": "/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "overview": "Public prosecutor Ujjwal Nikam takes on one of the most high-profile criminal cases in India’s history, leading the prosecution in the trial of Ajmal Kasab following the 26/11 Mumbai terror attacks. As he battles to uncover the truth and secure justice, Nikam must confront the immense personal and professional burden of a case that will define his legacy.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "No gun, no bullets, only evidence and the truth!",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en",
+      "mr",
+      "ur"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 141,
+    "providers": []
+  },
+  "1290035": {
+    "id": 1290035,
+    "type": "movie",
+    "title": "Avaraachan & Sons",
+    "poster_path": "/wRKg0WoPV0D3bCl1B5jJtcRdU1Z.jpg",
+    "backdrop_path": "/cn5RbvKzrYskQhDkofDaJYjcv1D.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
+    "industry": "world",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "NR",
+    "release_date": "2026-10-02",
+    "date_kind": "release",
+    "runtime": 150,
+    "providers": []
+  },
+  "337670": {
+    "id": 337670,
+    "type": "tv",
+    "title": "Hurmat",
+    "poster_path": "/mxRs8kaLfNQClZpnyuH67jjwF6v.jpg",
+    "backdrop_path": "/8EY4AKC79MKP1hoYJFfdPehrUNn.jpg",
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-27",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-04",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-10-04",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Nadeem Siddique"
+    ],
+    "providers": []
   }
 };
-
