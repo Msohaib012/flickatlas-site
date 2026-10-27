@@ -6703,5 +6703,441 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 00:01:00 +0000"
+  },
+  "1pkr2ti": {
+    "id": "1pkr2ti",
+    "type": "news",
+    "headline": "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
+    "dek": "The billionaire rap icon and Roc Nation founder will take the stage at SoFi Stadium on Valentine's Day in 2027.",
+    "body": [
+      {
+        "h": "The Halftime Announcement",
+        "p": [
+          "Jay-Z has officially been chosen to headline the 2027 Apple Music Super Bowl LXI Halftime Show. The major entertainment announcement was made public during the halftime broadcast of the Cowboys versus Eagles game on Monday Night Football."
+        ]
+      },
+      {
+        "h": "Reaction From Sports Analysts",
+        "p": [
+          "Broadcasters and analysts shared their enthusiasm regarding the selection during the broadcast. Scott Van Pelt noted that the performance will take place at SoFi on Valentine's Day, while analyst Jason Kelce praised the artist as the greatest of all time, pointing out his extensive catalog of stadium-ready hits."
+        ]
+      },
+      {
+        "h": "Role With Roc Nation",
+        "p": [
+          "While Puck was first to report the upcoming headlining news, the rap icon has already been heavily involved with the event behind the scenes. Through his company Roc Nation, he has curated the halftime show as part of an ongoing partnership with the NFL that began in 2019 and was later renewed in 2024."
+        ]
+      },
+      {
+        "h": "Event Logistics and Location",
+        "p": [
+          "Super Bowl LXI is scheduled to take place on Sunday, February 14, at SoFi Stadium in Inglewood, California, which serves as the home venue for the Los Angeles Rams and the Los Angeles Chargers. The broadcast of the game will air live on ABC and ESPN."
+        ]
+      },
+      {
+        "h": "Preceding Performances",
+        "p": [
+          "Jay-Z follows in the footsteps of Grammy-winning artist Bad Bunny, who delivered an Emmy-winning performance earlier this year during Super Bowl LX at Levi's Stadium in Santa Clara, California. Bad Bunny's 13-minute set featured a string of his biggest hits and a narrative centered on love and unity."
+        ]
+      },
+      {
+        "h": "Historical Partnership and Controversy",
+        "p": [
+          "The collaboration between Jay-Z and the NFL originated in 2019 to work on entertainment and social activism through the Inspire Change initiative, following backlash over the league's treatment of former player Colin Kaepernick. This partnership has previously drawn criticism from Kaepernick regarding the alignment between the rapper and the organization."
+        ]
+      },
+      {
+        "h": "Prestige of the Halftime Stage",
+        "p": [
+          "By taking the headlining spot, Jay-Z joins an elite group of legendary performers who have graced the NFL's biggest entertainment stage. This roster includes prominent names such as his wife Beyoncé, Kendrick Lamar, Michael Jackson, Rihanna, Madonna, Lady Gaga, Bruce Springsteen, Usher, and The Rolling Stones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jay-Z has been named as the headliner for the 2027 Apple Music Super Bowl LXI Halftime Show, which will take place on Valentine's Day at SoFi Stadium. The billionaire rapper, who already curates the show through Roc Nation, follows previous performers like Bad Bunny in taking on the marquee musical event."
+        ]
+      }
+    ],
+    "facts": [
+      "Jay-Z will headline the 2027 Apple Music Super Bowl LXI Halftime Show.",
+      "The news was announced during the Cowboys vs. Eagles game on Monday Night Football.",
+      "Super Bowl LXI will take place on Sunday, Feb. 14, at SoFi Stadium in Inglewood, California.",
+      "The game will air on ABC and ESPN.",
+      "Jay-Z's company Roc Nation began its partnership with the NFL in 2019 and was renewed in 2024.",
+      "Bad Bunny headlined Super Bowl LX earlier in the year."
+    ],
+    "entities": {
+      "people": [
+        "Jay-Z",
+        "Bad Bunny",
+        "Scott Van Pelt",
+        "Jason Kelce",
+        "Blue Ivy Carter",
+        "John Legend",
+        "DJ Khaled",
+        "Beyoncé",
+        "Kendrick Lamar",
+        "Michael Jackson",
+        "Rihanna",
+        "Madonna",
+        "Lady Gaga",
+        "Bruce Springsteen",
+        "Diana Ross",
+        "Katy Perry",
+        "The Weeknd",
+        "Usher",
+        "Bruno Mars",
+        "Colin Kaepernick",
+        "Neil Young",
+        "Donald J. Trump",
+        "Jack Antonoff",
+        "Ed Sheeran",
+        "Macklemore",
+        "Elvis Presley",
+        "Billy Corgan",
+        "Marilyn Manson",
+        "Walter Koenig",
+        "Chekov",
+        "Eric Bauza",
+        "Bugs Bunny",
+        "Daffy Duck",
+        "Emily Osment",
+        "Montana Jordan",
+        "Bill Maher",
+        "Elon Musk",
+        "Nolan",
+        "Alan Dysert",
+        "Olivia Rodrigo",
+        "Jason Sudeikis",
+        "Breanna Stewart"
+      ],
+      "titles": [
+        "Super Bowl LXI",
+        "Super Bowl LX",
+        "Tití Me Preguntó",
+        "Eoo",
+        "BAILE INoLVIDABLE",
+        "El Apagón",
+        "CAFÉ CON RON",
+        "MONACO",
+        "NUEVAYoL",
+        "DtMF",
+        "Rockin' in the Free World",
+        "Bluey",
+        "Star Trek",
+        "Young Sheldon",
+        "The Odyssey",
+        "All My Children",
+        "Ted Lasso",
+        "Love Trapped",
+        "The Bachelor"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2260592240-1.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 01:54:13 +0000"
+  },
+  "rqoklw": {
+    "id": "rqoklw",
+    "type": "news",
+    "headline": "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
+    "dek": "Christopher Nolan's epic adaptation shatters records, overtaking superhero blockbusters without relying on a cape or standard comic book IP.",
+    "body": [
+      {
+        "h": "Breaking the R-Rated Ceiling",
+        "p": [
+          "For years, studio executives treated an R rating as an inherent ceiling at the box office, assuming adult-only restrictions limited how high a movie could climb. Previous box office records for R-rated features were almost entirely dominated by the comic book genre, from Joker in 2019 to Deadpool & Wolverine in 2024. Industry conventional wisdom suggested that only superhero branding possessed the widespread appeal necessary to push an adult-restricted feature into the billion-dollar club.",
+          "Christopher Nolan's historical adaptation has completely rewritten that narrative. By crossing the threshold to become the highest-grossing R-rated film in history, the project proved that mature spectacles do not require spandex or established comic book logos to attract massive global audiences."
+        ]
+      },
+      {
+        "h": "A Historic Milestone at the Global Box Office",
+        "p": [
+          "The milestone was officially unlocked when the film climbed past Deadpool & Wolverine's $1.338 billion worldwide haul, reaching $1.352 billion and continuing to soar. It eventually surged to a global total of roughly $1.79 billion, making it the first R-rated release in cinema history to clear the $1.7 billion mark.",
+          "This performance has also rewritten internal milestones for its studio. The blockbuster stands as the biggest film in Universal's century-plus history, overtaking Jurassic World, and serves as Christopher Nolan's own career-best by a wide margin over The Dark Knight Rises."
+        ]
+      },
+      {
+        "h": "Extraordinary Endurance and Premium Formats",
+        "p": [
+          "The project launched on July 17 with an estimated $123 million domestic opening, marking one of the strongest R-rated debuts on record. However, its true defining characteristic has been its remarkable theatrical endurance rather than just a massive opening weekend.",
+          "The feature benefited from unusually slim weekend drops and an IMAX 70mm engagement that reportedly sold out for seven consecutive weeks. Premium formats drove a staggering share of the financial haul, with IMAX alone contributing more than $350 million to the global total."
+        ]
+      },
+      {
+        "h": "Jon Bernthal's Monumental Year",
+        "p": [
+          "At the center of this historic run is actor Jon Bernthal, whose participation in two major 2026 releases borders on the absurd for a character actor. In Christopher Nolan's epic, Bernthal plays Menelaus of Sparta opposite Matt Damon's Odysseus, anchoring the Sparta sequence where Tom Holland's Telemachus arrives searching for his missing father.",
+          "Bernthal has spoken about the demanding physical toll required for the role, particularly during the Trojan horse sequence which involved extended periods submerged in freezing water while his castmates stayed dry above."
+        ]
+      },
+      {
+        "h": "A Record-Breaking Double Feature",
+        "p": [
+          "Beyond his role in the highest-grossing R-rated movie of all time, Bernthal also reunited with Tom Holland as Frank Castle in Spider-Man: Brand New Day. That superhero release shattered domestic records and pushed past $2.5 billion worldwide.",
+          "This rare dual presence places a supporting character actor squarely inside both of the year's two biggest cinematic juggernauts, a distinction typically reserved exclusively for A-list leading stars."
+        ]
+      },
+      {
+        "h": "Awards Buzz and Future Targets",
+        "p": [
+          "With stellar box office legs carrying the film more than three months into its theatrical run, speculation has already turned toward the upcoming awards season. The Walking Dead alumnus may not be finished collecting career milestones just yet.",
+          "On the commercial front, the feature's next international target is Zootopia 2 and its $1.867 billion global benchmark. Given how stubbornly the epic has held its ground in theaters, underestimating its remaining theatrical stamina would be a mistake."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Christopher Nolan's The Odyssey has officially surpassed Deadpool & Wolverine to become the highest-grossing R-rated movie of all time, reaching a global total of roughly $1.79 billion. Featuring performances by Jon Bernthal, Matt Damon, and Tom Holland, the film achieved unprecedented box office endurance without relying on superhero branding.",
+          "The historic run highlights a massive year for Bernthal, who appears in both of the year's top-grossing films, while setting new benchmarks for Universal Pictures and the director's career."
+        ]
+      }
+    ],
+    "facts": [
+      "Jon Bernthal plays Menelaus of Sparta in The Odyssey.",
+      "Matt Damon stars as Odysseus in The Odyssey.",
+      "Tom Holland plays Telemachus in The Odyssey.",
+      "The Odyssey surpassed Deadpool & Wolverine to become the highest-grossing R-rated movie ever.",
+      "The Odyssey reached $1.352 billion worldwide to pass Deadpool & Wolverine's $1.338 billion.",
+      "The global total of The Odyssey climbed to roughly $1.79 billion.",
+      "The Odyssey opened on July 17 with about $123 million domestically.",
+      "IMAX alone contributed north of $350 million to the film's box office.",
+      "The Odyssey is Universal's biggest film in its century-plus history ahead of Jurassic World.",
+      "Spider-Man: Brand New Day passed $2.5 billion worldwide.",
+      "Zootopia 2 has a global benchmark of $1.867 billion."
+    ],
+    "entities": {
+      "people": [
+        "Jon Bernthal",
+        "Christopher Nolan",
+        "Matt Damon",
+        "Tom Holland",
+        "Omar Faruque",
+        "Jason Statham",
+        "Mark Wahlberg",
+        "Ridley Scott",
+        "Brad Pitt"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Deadpool & Wolverine",
+        "Joker",
+        "Jurassic World",
+        "The Dark Knight Rises",
+        "Spider-Man: Brand New Day",
+        "The Walking Dead",
+        "Zootopia 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/jon-bernthal-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 01:00:16 GMT"
+  },
+  "mdvdaa": {
+    "id": "mdvdaa",
+    "type": "news",
+    "headline": "Paul Giamatti, Nico Parker, and Sam Nivola Cast in Takashi Yamazaki's Grandgear",
+    "dek": "The director of Godzilla Minus One has secured his main cast for the upcoming English-language mech film produced by J. J. Abrams.",
+    "body": [
+      {
+        "h": "The Main Cast Announcement",
+        "p": [
+          "Filmmaker Takashi Yamazaki has officially secured the primary actors for his upcoming English-language directorial debut, titled Grandgear. Reports from Deadline confirm that Paul Giamatti, Nico Parker, and Sam Nivola have all signed on to star in the project.",
+          "The casting news marks a significant milestone for the production, which is being produced by J. J. Abrams. The film will serve as Yamazaki's first foray into Hollywood feature filmmaking following his recent breakout success."
+        ]
+      },
+      {
+        "h": "Rigorous Audition Processes",
+        "p": [
+          "The path to securing the lead roles involved a detailed and demanding selection process. According to trade reports, Yamazaki conducted multiple chemistry tests to ensure the young stars had the necessary dynamic to carry the film.",
+          "While two-time Oscar nominee Paul Giamatti was personally headhunted for his specific role, actors Nico Parker and Sam Nivola had to go through their paces thoroughly to prove their capability for the project."
+        ]
+      },
+      {
+        "h": "Under Wraps Plot and Mech Action",
+        "p": [
+          "Specific plot details regarding Grandgear remain heavily guarded by the studio. However, early glimpses of the project have given audiences a better idea of what to expect.",
+          "Sony previously showcased test footage of a mech-based brawl at CinemaCon, leading to strong comparisons to Pacific Rim. Observers note that Yamazaki possesses a distinct talent for finding human emotion within stories driven by monsters and machines."
+        ]
+      },
+      {
+        "h": "Director Takashi Yamazaki's Momentum",
+        "p": [
+          "Director Takashi Yamazaki has experienced a whirlwind of professional activity following the 2023 release of Godzilla Minus One. That film's massive success propelled him onto the international stage and earned him an Academy Award.",
+          "In addition to Grandgear, the filmmaker has been managing multiple high-profile endeavors. His slate includes a massive sequel titled Godzilla Minus Zero as well as a separate mysterious sci-fi epic called Nue at 20th Century Studios."
+        ]
+      },
+      {
+        "h": "Production Timeline and Schedules",
+        "p": [
+          "As the production gears up for its next phases, the exact timeline is subject to potential adjustments. Principal photography for Grandgear is scheduled to commence in 2027.",
+          "A previously discussed release window of February 2028 has neither been officially canceled nor formally confirmed. With Yamazaki simultaneously juggling multiple major sci-fi and action projects, schedules may continue to shift."
+        ]
+      },
+      {
+        "h": "Upcoming Godzilla Release",
+        "p": [
+          "Before cameras roll on Grandgear, audiences will soon have the chance to experience Yamazaki's next major cinematic offering. The upcoming IMAX epic Godzilla Minus Zero is set to arrive in theaters very soon.",
+          "Described as an action romp inspired by classics like Aliens and Terminator 2, the film is scheduled to stomp into IMAX screens on November 3 before expanding to cinemas everywhere on November 6."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Takashi Yamazaki has cast Paul Giamatti, Nico Parker, and Sam Nivola in his upcoming Hollywood mech movie Grandgear, produced by J. J. Abrams. The production is slated to begin filming in 2027 following the director's work on Godzilla Minus Zero."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on 27th October 2026",
+      "Godzilla Minus One was released in 2023",
+      "Grandgear is produced by J. J. Abrams",
+      "Paul Giamatti is a two-time Oscar nominee",
+      "Production on Grandgear is due to get underway in 2027",
+      "Godzilla Minus Zero releases in IMAX on November 3 and in cinemas on November 6"
+    ],
+    "entities": {
+      "people": [
+        "Paul Giamatti",
+        "Nico Parker",
+        "Sam Nivola",
+        "Takashi Yamazaki",
+        "J. J. Abrams",
+        "Guillermo del Toro"
+      ],
+      "titles": [
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Grandgear",
+        "How To Train Your Dragon",
+        "The White Lotus",
+        "Pacific Rim",
+        "Nue",
+        "Aliens",
+        "Terminator 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.bauerhosting.com/celebrity/sites/42/2026/10/Grandgear.jpg?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
+        "caption": "Paul Giamatti, Nico Parker, and Sam Nivola Cast in Takashi Yamazaki's Grandgear",
+        "source": "Empire"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 01:03:16 +0000"
+  },
+  "pn3khr": {
+    "id": "pn3khr",
+    "type": "news",
+    "headline": "Macklemore Launches Free Palestine Tour Featuring Ed Sheeran's Former Backing Band",
+    "dek": "Following his removal from Ed Sheeran's tour, Macklemore has initiated his own benefit concert series in Dublin alongside supporting artists and activists.",
+    "body": [
+      {
+        "h": "The Kickoff in Dublin",
+        "p": [
+          "Macklemore officially launched his benefit concert series on Monday night at the 3Arena in Dublin. The event marked the beginning of his self-organized tour following his sudden departure from another major concert lineup.",
+          "Organizers kept the performance lineup secret prior to the event, building anticipation for the sold-out opening night of the three-city concert series."
+        ]
+      },
+      {
+        "h": "Star-Studded Benefit Lineup",
+        "p": [
+          "The Dublin concert featured a diverse group of musicians and performers who joined Macklemore on stage. Among them were Hozier, Kneecap, Palestinian-American DJ and producer DJ Habibeats, Palestinian singer-songwriter Lina Makoul, and M1 of Dead Prez.",
+          "Crucially, Boega—the backing band that previously withdrew from Ed Sheeran's tour in solidarity with Macklemore—also performed at the sold-out event."
+        ]
+      },
+      {
+        "h": "Special Guest Speakers and Humanitarian Focus",
+        "p": [
+          "In addition to musical performances, the evening featured appearances by prominent activists and speakers. Irish actor Liam Cunningham, psychotherapist and activist Nadia Greenspan, and organizer Samir Eskanda addressed the audience.",
+          "Cunningham emphasized onstage that enjoying the night did not mean ignoring the hardships in Gaza, but rather honoring the life and humanity that Palestinians strive to protect."
+        ]
+      },
+      {
+        "h": "Supporting Palestinian Relief Organizations",
+        "p": [
+          "All financial proceeds collected from the concert series are directed toward organizations aiding the Palestinian movement. These funds target essential medical provisions, food supplies, and humanitarian assistance.",
+          "A published press release highlighted that the funds also support education, community advocacy, and policy changes globally, focusing heavily on families and communities impacted by the conflict in Gaza."
+        ]
+      },
+      {
+        "h": "Background on the Ed Sheeran Tour Controversy",
+        "p": [
+          "The tour stems from an earlier controversy when Macklemore was removed from Ed Sheeran's tour. Messina Touring Group, Sheeran's promoter, stated that several venues threatened to cancel shows if Macklemore remained on the bill due to his pro-Palestine remarks.",
+          "Sheeran later addressed the situation publicly, explaining that while he avoids being an activist musician, the ordeal highlighted complex arguments regarding freedom of speech and venue pre-approval."
+        ]
+      },
+      {
+        "h": "Macklemore's Perspective on Artist Activism",
+        "p": [
+          "When announcing his new tour via social media, Macklemore reflected on a broader shift in expectations for musicians. He asserted that remaining apolitical during a humanitarian crisis is no longer acceptable.",
+          "He encouraged fellow artists to educate themselves, engage with communities, and utilize their platforms to push back against attempts at censorship."
+        ]
+      },
+      {
+        "h": "Remaining Tour Dates",
+        "p": [
+          "The three-date concert run continues immediately following the Dublin opening. The artist is scheduled to perform at the Accor Arena in Paris.",
+          "The final stop of the current announced series will take place at the OVO Arena Wembley in London."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Macklemore launched his Free Palestine Tour in Dublin after being dropped from Ed Sheeran's tour over his political statements. The sold-out benefit concert featured various artists, including Sheeran's former backing band, with all proceeds supporting humanitarian causes in Gaza."
+        ]
+      }
+    ],
+    "facts": [
+      "Macklemore kicked off his Free Palestine Tour on Monday night in Dublin",
+      "The Dublin concert took place at the 3Arena",
+      "The tour features three sold-out shows",
+      "The Paris concert is scheduled at the Accor Arena on Oct. 29",
+      "The London concert is scheduled at the OVO Arena Wembley on Oct. 30",
+      "Artists on the Dublin lineup included Hozier, Kneecap, DJ Habibeats, Lina Makoul, and M1 of Dead Prez",
+      "Boega is the backing band that dropped out of Ed Sheeran's tour",
+      "Special guest speakers in Dublin included Liam Cunningham, Nadia Greenspan, and Samir Eskanda"
+    ],
+    "entities": {
+      "people": [
+        "Macklemore",
+        "Ed Sheeran",
+        "Hozier",
+        "DJ Habibeats",
+        "Lina Makoul",
+        "M1",
+        "Liam Cunningham",
+        "Nadia Greenspan",
+        "Samir Eskanda",
+        "Kimberly Nordyke"
+      ],
+      "titles": [
+        "Loop Tour",
+        "Free Palestine Tour",
+        "Star Trek",
+        "All My Children",
+        "Ted Lasso",
+        "The Bachelor"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2153053738-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Macklemore Launches Free Palestine Tour Featuring Ed Sheeran's Former Backing Band",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 01:49:48 +0000"
   }
 };
