@@ -20,6 +20,17 @@ already clustered by scripts/fetch.py), and for each NEW story:
      category first, repeats only on a second pass — so one batch never
      lands in a single category. A failed/empty ranking falls back
      to queue order; missing/invalid groups skip dedup only.
+     The rank pool ALSO carries a per-category top-up (build_candidate_
+     pool): the newest 2 pending items of every category missing from
+     the newest RANK_COUNT, so a slow category's stories are never
+     invisible to the rank call. And the write loop enforces a
+     NEEDS-BASED DAILY ALLOCATION (CATEGORY_QUOTAS, sums to DAILY_CAP,
+     owner principle 2026-10-28): every category gets a guaranteed
+     share by need — more where the need is higher, less where lower —
+     so all categories move together and none is starved while another
+     feasts. A category whose quota is full is deferred while categories
+     with room remain; leftover room goes to any category with fresh
+     items, so the day's budget is never wasted.
   1. Computes a FACT fingerprint (film/person + day + rupee amounts + date)
      from the title/URL — NOT the wording — so two differently-worded
      articles about the same film+day+amount share one fingerprint.
@@ -89,6 +100,60 @@ TMDB_IMG = "https://image.tmdb.org/t/p"  # same base as site CONFIG.IMG
 CATEGORIES = ["movies", "tv_dramas", "episodes", "box_office",
               "celebrities_events", "upcoming_releases", "ott_streaming",
               "trailers", "awards", "music_ost", "viral"]
+
+# Needs-based daily allocation (owner principle 2026-10-28): all
+# categories move TOGETHER — none starved, none feasting; more where
+# the need is higher, less where it is lower, by need. The quotas sum
+# to DAILY_CAP (40 in the workflow); the total cap still binds, and
+# leftover room flows to any category with fresh items (see main()).
+# Why each number (from the 2026-10-26/27 published splits + supply):
+#   movies 6, box_office 6 — the high-volume core; box_office was
+#     taking 9-12/day, but the day-wise FIGURES come from the
+#     multisource reader, not these articles, so 6 covers the real
+#     collection news and frees slots for the rest.
+#   celebrities_events 5 — was 8-10/day; 5 covers significant news,
+#     routine gossip already ranks low.
+#   upcoming_releases 4, ott_streaming 4 — daily announcements and
+#     OTT releases; OTT is thin and needs steady feeding.
+#   tv_dramas 4 — Pakistani dramas air daily and need daily coverage
+#     (the owner's example). Episode SUMMARIES are separate: they have
+#     their own budget in scripts/episode-guides.py
+#     (SUMMARY_MAX_PER_DAY=2, 1/run) and do NOT draw from this cap.
+#   trailers 3 — teasers/trailers drop daily; 3 covers the big ones.
+#   episodes 2, awards 2, music_ost 2, viral 2 — a guaranteed floor:
+#     each was 0-1/day (starved), never zero again while fresh items
+#     exist. Unused quota flows to leftovers, never wasted.
+CATEGORY_QUOTAS = {
+    "movies": 6,
+    "box_office": 6,
+    "celebrities_events": 5,
+    "upcoming_releases": 4,
+    "ott_streaming": 4,
+    "tv_dramas": 4,
+    "trailers": 3,
+    "episodes": 2,
+    "awards": 2,
+    "music_ost": 2,
+    "viral": 2,
+}
+
+# Display name (scripts/fetch.py classify) -> pipeline slug. The queue's
+# script category is keyword-based and often wrong; it is used ONLY to
+# make sure every category is represented in the rank pool (the rank
+# call assigns the true category). Unmapped names fall back to "movies".
+SCRIPT_CATEGORY_TO_SLUG = {
+    "Box Office": "box_office",
+    "Awards": "awards",
+    "Trailers": "trailers",
+    "Music / OST": "music_ost",
+    "Episodes": "episodes",
+    "Upcoming releases": "upcoming_releases",
+    "OTT / Streaming": "ott_streaming",
+    "TV & Dramas": "tv_dramas",
+    "Celebrity news & events": "celebrities_events",
+    "Movies": "movies",
+    "Entertainment viral": "viral",
+}
 
 # ---------------------------------------------------------------- fingerprints
 RUPEE_RE = re.compile(
@@ -470,6 +535,56 @@ def round_robin_order(ordered, cat_of):
     return out
 
 
+def script_category_slug(item):
+    """Queue item's script category (fetch.py display name) -> slug.
+    Only used for rank-pool representation; the rank call assigns the
+    true category. Unknown names fall back to "movies"."""
+    return SCRIPT_CATEGORY_TO_SLUG.get(
+        (item.get("category") or "").strip(), "movies")
+
+
+def published_today_by_category(processed, today):
+    """Articles published today (UTC) per FINAL category. Same counting
+    rule as the daily cap: quality-rejected and duplicates do not count
+    (they were never published). The category recorded in processed.json
+    is the final one from the write call — that is the ground truth."""
+    counts = {c: 0 for c in CATEGORIES}
+    for rec in processed.values():
+        if str(rec.get("processed_at", ""))[:10] != today:
+            continue
+        if rec.get("quality_rejected") or rec.get("duplicate"):
+            continue
+        cat = rec.get("category") or "movies"
+        counts[cat if cat in CATEGORIES else "movies"] += 1
+    return counts
+
+
+def build_candidate_pool(pending, rank_count):
+    """Rank pool: the newest `rank_count` pending items, PLUS a
+    per-category top-up. Without the top-up, a slow category's items
+    age out of the newest-100 pool within ~2h of fetch (the queue
+    turns over fast) and are never ranked at all — no quota can save
+    an item the rank call never sees. The top-up adds the newest 2
+    pending items of every slug-category missing from the pool, so
+    every category with fresh items is always in front of Gemini.
+    Pool size is at most rank_count + 2 per category."""
+    newest = sorted(pending, key=_published_ts, reverse=True)
+    pool = newest[:rank_count]
+    in_pool = {id(it) for it in pool}
+    have = {script_category_slug(it) for it in pool}
+    beyond = {}
+    for item in newest[rank_count:]:
+        beyond.setdefault(script_category_slug(item), []).append(item)
+    for cat, items in beyond.items():
+        if cat in have:
+            continue
+        for item in items[:2]:
+            if id(item) not in in_pool:
+                pool.append(item)
+                in_pool.add(id(item))
+    return pool
+
+
 def rank_stories(keys, candidates):
     """One Gemini call ranking candidate items by newsworthiness, grouping
     stories about the same event (semantic dedup — the script's
@@ -729,6 +844,20 @@ def main():
     # The batch may only fill the remaining room under the cap.
     batch_size = min(batch_size, daily_cap - today_count)
 
+    # Needs-based daily allocation (owner principle 2026-10-28): every
+    # category gets a guaranteed share of the day's DAILY_CAP, by need.
+    # A category whose quota is full is deferred while categories with
+    # room remain; leftover room goes to any category with fresh items.
+    # The quotas sum to 40 (= the workflow's DAILY_CAP); if DAILY_CAP
+    # ever changes, the total cap still binds and the overflow below
+    # fills the rest, so no scaling logic is needed here.
+    published_by_cat = published_today_by_category(processed, today)
+    quota_left = {c: max(0, CATEGORY_QUOTAS.get(c, 0)
+                         - published_by_cat.get(c, 0))
+                  for c in CATEGORIES}
+    print(f"quota today: published {published_by_cat}; "
+          f"remaining {quota_left}")
+
     # ---- RANK stage (two-stage pipeline) --------------------------------
     # The queue holds ~260 stories but each run writes only 2 posts. In
     # queue order alone, the tail is never even read. So: rank the newest
@@ -746,10 +875,9 @@ def main():
     cat_map = {}  # id(item) -> Gemini-assigned category (rank call)
     if pending:
         if rank_count > 0:
-            candidates = sorted(pending, key=_published_ts,
-                                reverse=True)[:rank_count]
+            candidates = build_candidate_pool(pending, rank_count)
             print(f"rank: {len(pending)} unprocessed, ranking newest "
-                  f"{len(candidates)}")
+                  f"{len(candidates)} (incl. per-category top-up)")
             gemini_calls += 1
             ranked, dup_pairs, cat_map = rank_stories(keys, candidates)
             if ranked:
@@ -795,6 +923,23 @@ def main():
         c = cat_map.get(id(item)) or item.get("category") or "movies"
         return c if c in CATEGORIES else "movies"
     attempt_order = round_robin_order(ordered, _cat_of)
+
+    # Quota-first attempt order: items whose PREDICTED category still
+    # has daily quota room go first (round-robin across those
+    # categories); items whose category quota is full go last as
+    # leftover fill, so an unused quota never wastes budget. Predicted
+    # category = the rank call's assignment (script category fallback);
+    # the FINAL category is decided by the write call and counted in
+    # processed.json, so a rank-vs-final misprediction can overshoot a
+    # quota by one — the total DAILY_CAP still binds, and the next run
+    # sees the category over quota and defers it.
+    preferred = [it for it in attempt_order
+                 if quota_left.get(_cat_of(it), 0) > 0]
+    overflow = [it for it in attempt_order
+                if quota_left.get(_cat_of(it), 0) <= 0]
+    attempt_order = preferred + overflow
+    print(f"quota: {len(preferred)} under-quota first, "
+          f"{len(overflow)} leftover")
 
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
     # Published titles (for box-office tmdb_id resolution): local,
@@ -952,11 +1097,20 @@ def main():
         reason = None
         if not articles and not box_rows:
             reason = "no-new-data"
+        # Per-category split published today (final categories), so the
+        # panel shows whether all categories are moving together.
+        today_split = {c: published_by_cat.get(c, 0)
+                       + sum(1 for a in articles
+                             if a.get("category") == c)
+                       for c in CATEGORIES}
+        split_txt = ", ".join(f"{c} {today_split[c]}/{CATEGORY_QUOTAS[c]}"
+                              for c in CATEGORIES)
         step_runs.record(
             "gemini_batch", status="success",
             checked={"candidates": len(articles) + len(skipped),
                      "detail": "news queue items drafted this run; "
-                               "%d still unprocessed" % len(pending)},
+                               "%d still unprocessed; today by category: "
+                               "%s" % (len(pending), split_txt)},
             changed={"added": [a.get("headline") or a.get("title") or ""
                                for a in articles],
                      "updated": [], "count": len(articles)},
