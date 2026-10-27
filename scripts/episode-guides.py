@@ -4,7 +4,7 @@
 Pakistani dramas air ~3-4 episodes per channel daily (HUM TV, ARY Digital,
 Har Pal Geo, Green TV = ~12-20 new episodes/day). This script picks each
 new full episode up from YouTube and posts it the SAME DAY, then adds an
-AI story summary in ROMAN URDU to EVERY episode, in the same run that
+AI episode summary in ROMAN URDU to EVERY episode, in the same run that
 detects it (owner order 2026-10-28: however many episodes arrive in one
 day, all of them get a summary, instantly).
 
@@ -16,18 +16,25 @@ TIERED (owner-approved 2026-10-26):
      go to out/episode-feed.json (kept for the tracker's own record;
      no longer merged into the news feed — owner order 2026-10-27:
      episodes are not news).
-  2. STORY SUMMARY (EVERY episode, same run — owner order 2026-10-28):
-     ROMAN URDU, 2-4 sentences, grounded ONLY in the episode's YouTube
-     title + description (model gemini-3.5-flash-lite, keys
-     GEMINI_API_KEY_1..6, same rotation as scripts/gemini_batch.py).
-     A thin description (cast list / promo only) gets a minimal
-     factual line instead of an invented plot — never re-summarize.
-     No functional cap: safety ceiling 50/day, 50/run (observed max
-     16 detected in one run, 7 posted/day — the ceiling never binds;
-     it only stops a runaway loop from burning keys). (fileData
-     video-watching was the old route, ~218K VIDEO tokens/episode;
-     superseded 2026-10-27 — the function is kept in the file for
-     manual use only.)
+  2. EPISODE SUMMARY (EVERY episode, same run — owner order 2026-10-28):
+     ROMAN URDU, ~120-180 words, written by Gemini WATCHING the
+     episode's own YouTube link (fileData video route, model
+     gemini-3.5-flash-lite, keys GEMINI_API_KEY_1..6, same rotation as
+     scripts/gemini_batch.py) — what happens in THAT episode, in order.
+     NEVER grounded in the description text: the YouTube description
+     is the drama's premise, identical across episodes, so it can only
+     ever produce the drama's story, never the episode's. NEVER fall
+     back to premise/description text and NEVER invent: if fileData
+     fails for an episode, record the failure (summary_error on the
+     episode) and leave it WITHOUT a summary — it stays in the
+     backlog. No functional cap: safety ceiling 50/day, 50/run
+     (observed max 16 detected in one run, 7 posted/day — the ceiling
+     never binds; it only stops a runaway loop from burning keys).
+     (fileData was the proven route from the 2026-10-25 spike and the
+     2026-10-26 redo of 24 episodes. The 2026-10-27 switch to
+     description-text summaries was a REPEAT MISS — it wrote the
+     drama's premise for every episode — reverted 2026-10-28 on the
+     owner's order: episode summary, not story summary.)
 
 DETECTION (spike-proven 2026-10-26):
   - Channel RSS feeds WORK but list ZERO full episodes in their 15-item
@@ -687,26 +694,28 @@ def enrich_from_tmdb(tmdb_key, ep, pool):
 
 # ---------------------------------------------------------------- Gemini
 def call_gemini_filedata(keys, video_url, drama, epno):
-    """Watch the episode (fileData, YouTube URL) and write a ~180-word
-    story summary in our own words. Proven spike 2026-10-25: fileData
-    on gemini-3.5-flash-lite, ~217K VIDEO tokens/episode. Returns the
-    summary text or None. Tries each key in turn (rotation).
-
-    SUPERSEDED 2026-10-27: the backlog now uses
-    call_gemini_text_summary (Roman Urdu, title+description grounded);
-    this function is kept for manual use only."""
+    """Watch the episode (fileData, YouTube URL) and write a ~120-180
+    word EPISODE summary in Roman Urdu, in our own words. Proven spike
+    2026-10-25 and the 2026-10-26 redo of 24 episodes: fileData on
+    gemini-3.5-flash-lite, ~217K VIDEO tokens/episode. Returns the
+    summary text or None. Tries each key in turn (rotation). The last
+    failure is kept on call_gemini_filedata.last_error for the caller
+    to record. NEVER grounded in the description — the description is
+    the drama's premise, identical across episodes."""
     prompt = (
-        f"Watch this Pakistani drama episode and write a story summary "
-        f"in your own words, about 180 words.\n\n"
+        f"Is Pakistani drama episode ko dekho aur sirf IS episode mein "
+        f"jo kuch hota hai uska summary apne alfaz mein Roman Urdu "
+        f"(Latin script) mein likho, taqreeban 120-180 words.\n\n"
         f"Drama: {drama}, Episode {epno if epno else '(final episode)'}.\n\n"
-        f"Cover what actually happens in the episode: the main plot "
-        f"beats in order, the key character moments, and how it ends "
-        f"(including any cliffhanger). Do NOT invent events, dialogue or "
-        f"names that are not in the episode. Do NOT copy the video "
-        f"description. Write in clear, engaging English, as a magazine "
-        f"episode guide.\n\n"
-        f"Return ONLY the summary text — no headings, no preamble, no "
-        f"bullet list.")
+        f"Is episode ke main waqiyat tartib se likho, key character "
+        f"moments, aur episode kahan khatam hota hai (cliffhanger ho to "
+        f"woh bhi). Sirf wohi likho jo is episode mein dikhaya gaya "
+        f"hai — episode ke waqiyat, dialogue ya naam invent mat karo. "
+        f"Video ki description copy mat karo. Drama ki overall kahani "
+        f"ya premise mat likho — sirf is episode ke waqiyat.\n\n"
+        f"Sirf summary text likho — koi heading, preamble ya bullet "
+        f"list nahi.")
+    call_gemini_filedata.last_error = None
     for key in keys:
         try:
             body = json.dumps({
@@ -726,148 +735,137 @@ def call_gemini_filedata(keys, video_url, drama, epno):
             # Video ingestion takes a while — 5 min timeout.
             with urllib.request.urlopen(req, timeout=300) as r:
                 resp = json.load(r)
+            usage = (resp.get("usageMetadata") or {})
+            if usage.get("totalTokenCount"):
+                print(f"  gemini fileData tokens used: "
+                      f"{usage.get('totalTokenCount'):,}")
             text = resp["candidates"][0]["content"]["parts"][0]["text"]
             text = (text or "").strip()
             if len(text) < 50:
                 print("  gemini summary too short, treating as failure")
+                call_gemini_filedata.last_error = "summary too short"
                 continue
             return text
         except Exception as e:
+            call_gemini_filedata.last_error = str(e)
             print(f"  gemini key ...{key[-4:]} fileData failed: {e}")
             continue
     print("  gemini: all keys failed for this episode")
     return None
 
 
-def air_date(ep):
-    """'25 October 2026' from the episode's published timestamp."""
-    try:
-        return datetime.fromisoformat(
-            (ep.get("published") or "").replace("Z", "+00:00")
-            ).strftime("%d %B %Y")
-    except Exception:
-        return (ep.get("published") or "")[:10]
-
-
-def story_text_from_description(desc, title=""):
-    """Strip YouTube boilerplate from a video description; keep the
-    story-ish prose a summary may be grounded in. Returns '' when the
-    description holds no story (cast list / promo only)."""
-    if not desc:
-        return ""
-    lines = desc.split("\n")
-    out = []
-    title_norm = re.sub(r"\W+", " ", (title or "").lower()).strip()
-    for ln in lines:
-        s = ln.strip()
-        if not s:
-            continue
-        low = s.lower()
-        if any(k in low for k in [
-                "thanks for watching", "click here", "subscribe",
-                "bell icon", "download", "visit 👉", "aryplus",
-                "is now available in the us", "share the news",
-                "watch all the episode", "playlist?list=", "timing :",
-                "http://", "https://", "director :", "writer :",
-                "cast :", "digitally presented by"]):
-            continue
-        if s.startswith("#"):
-            continue
-        if title_norm and re.sub(r"\W+", " ", low).strip() == title_norm:
-            continue
-        # Bare cast-name lines: <=3 words, no sentence punctuation.
-        words = s.split()
-        if len(words) <= 3 and not re.search(r"[.!?,;:]", s):
-            continue
-        out.append(s)
-    text = " ".join(out)
-    text = re.split(
-        r"(Pakistani Drama Industry's biggest Platform|"
-        r"Subscribe to the YouTube channel)", text)[0]
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def minimal_summary(ep):
-    """Factual one-liner for episodes whose description carries no
-    story (never invent plot)."""
-    n = ep.get("episode")
-    ep_label = f"Episode {n}" if n else "Aakhri episode"
-    return (f"{ep.get('drama') or 'Drama'} ki {ep_label.lower()}, "
-            f"{air_date(ep)} ko {ep.get('channel') or 'TV'} par nashar hui.")
-
-
-def call_gemini_text_summary(keys, title, story, drama, epno):
-    """Write a 2-4 sentence story summary in ROMAN URDU, grounded only
-    in the episode's YouTube title + description story text. Returns
-    the summary text or None. Tries each key in turn (rotation)."""
-    prompt = (
-        "Neeche ek Pakistani drama ki YouTube description se li gayi "
-        "kahani ki tafseel hai. Isay Roman Urdu (Latin script) mein 2-4 "
-        "jumlon mein dobara likho — natural, aam bol-chaal wali Roman "
-        "Urdu, jaisay Pakistan mein log likhte hain. Sirf wohi likho jo "
-        "tafseel mein maujood hai; episode ke khaas waqiyat, dialogue ya "
-        "naam invent mat karo. Yeh drama ki overall kahani ka khulasa "
-        "hai, kisi ek episode ke waqiyat nahi — is liye 'is episode "
-        "mein' likh kar koi waqiya mat batao. Koi heading, bullet ya "
-        "English jumla mat likho — sirf Roman Urdu summary.\n\n"
-        f"Drama: {drama}, Episode {epno if epno else '(final episode)'}.\n"
-        f"Video title: {title}\nTafseel: {story}")
-    for key in keys:
+def summarise_episode(keys, ep):
+    """Roman Urdu EPISODE summary for one episode: Gemini watches the
+    episode's own YouTube link (fileData) and summarises what happens
+    in THAT episode. NEVER description/premise text, NEVER invented
+    plot. Returns the summary text, or None when fileData fails — the
+    failure is recorded on the episode (summary_error) and the episode
+    stays in the backlog WITHOUT a summary. A failure less than 6h old
+    is not retried in this run (avoids hammering a video fileData
+    cannot read)."""
+    err = ep.get("summary_error") or {}
+    if err.get("at"):
         try:
-            body = json.dumps({
-                "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {"maxOutputTokens": 512},
-            }).encode("utf-8")
-            req = urllib.request.Request(
-                f"https://generativelanguage.googleapis.com/v1beta/models/"
-                f"{MODEL}:generateContent",
-                data=body,
-                headers={"x-goog-api-key": key,
-                         "Content-Type": "application/json"})
-            with urllib.request.urlopen(req, timeout=120) as r:
-                resp = json.load(r)
-            text = resp["candidates"][0]["content"]["parts"][0]["text"]
-            text = (text or "").strip()
-            if len(text) < 30:
-                print("  gemini summary too short, treating as failure")
-                continue
-            return text
-        except Exception as e:
-            print(f"  gemini key ...{key[-4:]} text summary failed: {e}")
-            continue
-    print("  gemini: all keys failed for this episode")
-    return None
-
-
-def summarise_episode(keys, yt_key, ep):
-    """Roman Urdu summary for one episode (backlog path). Fetches the
-    video description via videos.list (1 quota unit); a thin/no-story
-    description -> minimal factual line (no Gemini call, never
-    invented plot). Returns the summary text, or None only when
-    Gemini fails (so the episode stays in the backlog)."""
-    desc = ""
-    title = ep.get("title") or ""
-    if yt_key:
-        try:
-            det = yt_get(yt_key, "/videos",
-                         {"part": "snippet", "id": ep["video_id"]})
-            items = det.get("items") or []
-            if items:
-                desc = (items[0].get("snippet") or {}).get("description") or ""
-                title = (items[0].get("snippet") or {}).get("title") or title
-        except Exception as e:
-            print(f"  videos.list for summary failed: {e}")
-    story = story_text_from_description(desc, title)
-    if len(story) < 200:
-        return minimal_summary(ep)
-    summary = call_gemini_text_summary(keys, title, story[:3000],
-                                       ep["drama"], ep.get("episode"))
-    if not summary:
+            failed_at = datetime.fromisoformat(
+                err["at"].replace("Z", "+00:00"))
+            if datetime.now(timezone.utc) - failed_at < timedelta(hours=6):
+                print("  summary skipped: fileData failed <6h ago, "
+                      "retry later")
+                return None
+        except Exception:
+            pass
+    url = ep.get("url") or ""
+    if not url:
+        print("  summary failed: episode has no YouTube URL")
+        ep["summary_error"] = {"at": iso_now(),
+                               "error": "no YouTube URL"}
         return None
-    n = ep.get("episode")
-    ep_label = f"Episode {n}" if n else "Aakhri episode"
-    return (summary + f" {ep_label}, {air_date(ep)} ko "
-            f"{ep.get('channel') or 'TV'} par nashar hui.")
+    summary = call_gemini_filedata(keys, url, ep.get("drama"),
+                                   ep.get("episode"))
+    if not summary:
+        ep["summary_error"] = {
+            "at": iso_now(),
+            "error": (getattr(call_gemini_filedata, "last_error", None)
+                      or "all keys failed")}
+        return None
+    ep.pop("summary_error", None)
+    return summary
+
+
+def clear_rewrite_summaries(known, spec):
+    """EPISODE_REWRITE="Drama|Ep,Drama|Ep": clear the summary of the
+    listed episodes so the backlog pass re-summarises them (fileData).
+    Returns how many were cleared. Empty spec = no-op."""
+    if not (spec or "").strip():
+        return 0
+    wanted = set()
+    for part in spec.split(","):
+        if "|" not in part:
+            continue
+        dname, enum = part.split("|", 1)
+        try:
+            wanted.add((norm_name(dname.strip()), int(enum.strip())))
+        except ValueError:
+            continue
+    cleared = 0
+    for ep in known.values():
+        if (norm_name(ep.get("drama") or ""),
+                ep.get("episode")) in wanted:
+            if ep.get("summary"):
+                ep["summary"] = None
+                ep["summary_at"] = None
+                ep.pop("summary_error", None)
+                cleared += 1
+                print(f"  rewrite: cleared summary for "
+                      f"{ep['drama']} Ep {ep['episode']}")
+    return cleared
+
+
+def rename_summary_headings(articles, known):
+    """Rename old 'Story Summary' sections to 'Episode Summary' on
+    articles whose episode already has a summary. Content untouched,
+    no Gemini call. Idempotent; drops a duplicate old section if a
+    new one already exists. Returns how many were renamed/dropped."""
+    renamed = 0
+    for ep in known.values():
+        if not ep.get("summary"):
+            continue
+        art = articles.get(ep.get("article_id") or "")
+        if not isinstance(art, dict):
+            continue
+        body = art.get("body") or []
+        has_new = any((s.get("h") or "") == "Episode Summary"
+                      for s in body if isinstance(s, dict))
+        new_body = []
+        for s in body:
+            if isinstance(s, dict) and (s.get("h") or "") == "Story Summary":
+                if has_new:
+                    renamed += 1
+                    continue  # drop the duplicate old section
+                s = dict(s)
+                s["h"] = "Episode Summary"
+                has_new = True
+                renamed += 1
+            new_body.append(s)
+        art["body"] = new_body
+    return renamed
+
+
+def write_summary_to_article(art, summary):
+    """Write a summary into an article body: replace an existing
+    Story/Episode Summary section, else append a fresh
+    'Episode Summary' section. Returns 'replaced' or 'appended'."""
+    body = art.get("body") or []
+    for s in body:
+        if isinstance(s, dict) and (s.get("h") or "") in (
+                "Story Summary", "Episode Summary"):
+            s["h"] = "Episode Summary"
+            s["p"] = [summary]
+            art["body"] = body
+            return "replaced"
+    body.append({"h": "Episode Summary", "p": [summary]})
+    art["body"] = body
+    return "appended"
 
 
 # ---------------------------------------------------------------- state
@@ -923,6 +921,16 @@ def main():
     state = load_state()
     known = state.get("episodes") or {}
 
+    # ---- 0. rewrite (manual): EPISODE_REWRITE="Drama|Ep,Drama|Ep" —
+    # clear the summary of listed episodes so the backlog pass below
+    # re-summarises them (fileData). Used to replace premise summaries
+    # written by the old description-text route (owner order
+    # 2026-10-28). Empty = no-op.
+    n_cleared = clear_rewrite_summaries(
+        known, os.environ.get("EPISODE_REWRITE", ""))
+    if n_cleared:
+        print(f"rewrite: {n_cleared} episode(s) queued for re-summary")
+
     # ---- 1. detect
     if yt_key:
         print("detection: YouTube Data API (primary)")
@@ -964,6 +972,15 @@ def main():
 
     # ---- 3. info posts (no AI, every new episode, same day)
     articles = read_js_map(ARTICLES_JS, "FA_ARTICLES")
+
+    # ---- 3b. rename old heading: articles whose summary section still
+    # says "Story Summary" (written by the old route) get the correct
+    # "Episode Summary" label — content untouched, no Gemini call.
+    # Runs every run; idempotent. Persisted by the articles write below.
+    n_renamed = rename_summary_headings(articles, known)
+    if n_renamed:
+        print(f"headings: renamed {n_renamed} 'Story Summary' section(s) "
+              f"to 'Episode Summary'")
     feed_entries = []
     if os.path.exists(EPISODE_FEED_JSON):
         try:
@@ -1041,6 +1058,7 @@ def main():
     # (owner order 2026-10-28); backlog ordered by views desc, never redo
     made = 0
     summary_names = []
+    failed_names = []
     if dry:
         pending = [e for e in known.values() if not e.get("summary")]
         pending.sort(key=lambda e: e.get("views") or 0, reverse=True)
@@ -1067,24 +1085,23 @@ def main():
             for ep in pending[:budget]:
                 print(f"  summarising {ep['drama']} Ep {ep['episode']} "
                       f"({ep.get('views', 0):,} views)…")
-                # Roman Urdu summary (title+description grounded;
-                # thin description -> minimal factual line, never
-                # invented). None only when Gemini fails: stays queued.
-                summary = summarise_episode(
-                    gkeys, yt_key, ep)
+                # Roman Urdu EPISODE summary: Gemini watches the
+                # episode's own YouTube link (fileData). None only when
+                # fileData fails: stays queued, no summary written.
+                summary = summarise_episode(gkeys, ep)
                 if not summary:
+                    failed_names.append(
+                        f"{ep['drama']} Ep {ep['episode']}")
                     print("  summary failed — stays in backlog")
                     continue
-                # Append the summary to the live article (same id, no dup).
+                # Write the summary into the live article (same id):
+                # replace an existing Story/Episode Summary section,
+                # else append a fresh "Episode Summary" section.
                 art = articles.get(ep.get("article_id") or "")
                 if isinstance(art, dict):
-                    body = art.get("body") or []
-                    if not any((s.get("h") or "") == "Story Summary"
-                               for s in body if isinstance(s, dict)):
-                        body.append({"h": "Story Summary", "p": [summary]})
-                        art["body"] = body
+                    write_summary_to_article(art, summary)
                     art["facts"] = (art.get("facts") or []) + [
-                        f"Story summary added {iso_now()[:10]}."]
+                        f"Episode summary added {iso_now()[:10]}."]
                 ep["summary"] = summary
                 ep["summary_at"] = iso_now()
                 made += 1
@@ -1105,12 +1122,14 @@ def main():
         reason = None
         if posted == 0 and made == 0:
             reason = "no-new-data"
+        detail = ("YouTube episodes on the 4 official PK channels "
+                  "(+ intl 1M+ views); %d new detected" % len(new_eps))
+        if failed_names:
+            detail += ("; %d summary failure(s): %s"
+                       % (len(failed_names), ", ".join(failed_names)))
         step_runs.record(
             "episode_guides", status="success",
-            checked={"candidates": len(candidates),
-                     "detail": "YouTube episodes on the 4 official PK "
-                               "channels (+ intl 1M+ views); "
-                               "%d new detected" % len(new_eps)},
+            checked={"candidates": len(candidates), "detail": detail},
             changed={"added": posted_names,
                      "updated": summary_names,
                      "count": posted + made},
@@ -1120,6 +1139,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 
