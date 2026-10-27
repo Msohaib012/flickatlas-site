@@ -504,6 +504,22 @@ jobs:
           RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
         run: python3 scripts/step_runs.py --aggregate
 
+      # --- 13c. Record daily history (always, never fatal) --------------
+      # Appends today's totals (fetch/AI/publish counts, per-category
+      # split, hourly buckets) to out/daily-history.json so the panel can
+      # render the 14-day chart, heatmap, deltas, sparklines and hourly
+      # usage chart from REAL data. Guards inside the script stop any
+      # double counting (report hash, gemini generated timestamp, max()
+      # for publish/posts). continue-on-error + the script's own
+      # always-exit-0 mean this step can never fail the run.
+      - name: Record daily history
+        id: dailyhistory
+        if: always()
+        continue-on-error: true
+        env:
+          PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
+        run: python3 scripts/daily_history.py
+
       # --- 14. ONE commit (always runs, even if a step failed) ---------
       # A manual push can land while the pipeline runs (the parent pushes
       # by hand all day). The pipeline's HTML changes are ONLY the
