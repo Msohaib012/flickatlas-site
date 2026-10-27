@@ -64,8 +64,21 @@ MIME = {".html": "text/html", ".css": "text/css",
         ".xml": "application/xml", ".webmanifest": "application/manifest+json",
         ".md": "text/markdown"}
 
-WORKER_CODE = b"""export default {
+WORKER_CODE = b"""// FlickAtlas Worker: static assets + /api/* rewrites (same mapping as
+// vercel.json). /api/news -> /api-news.json, /api/trends -> /api-trends.json.
+// The JSON files are regenerated hourly by the pipeline and deployed as
+// static assets; serving their bytes unchanged keeps the frontend contract
+// exact (the frontend fetches /api/news with no query params and expects
+// {generated, count, items: [...]}). Everything else passes through to
+// the static assets. Only GET/HEAD are rewritten.
+const API_REWRITES = { "/api/news": "/api-news.json", "/api/trends": "/api-trends.json" };
+export default {
   async fetch(request, env) {
+    const url = new URL(request.url);
+    const target = API_REWRITES[url.pathname];
+    if (target && (request.method === "GET" || request.method === "HEAD")) {
+      return env.ASSETS.fetch(new Request(new URL(target, url), request));
+    }
     return env.ASSETS.fetch(request);
   }
 };
