@@ -8109,5 +8109,381 @@ window.FA_ARTICLES = {
     },
     "images": [],
     "published": "Tue, 27 Oct 2026 04:20:00 EDT"
+  },
+  "121iziu": {
+    "id": "121iziu",
+    "type": "news",
+    "headline": "Director Rajiv Rai Clarifies Mohra Re-Release Plans And Denies Diwali Clash With Ramayana",
+    "dek": "Filmmaker Rajiv Rai has cleared the air regarding the upcoming theatrical re-run of his 1994 hit action thriller Mohra, explaining why the classic will skip multiplex chains and why it is not competing with Ramayana.",
+    "body": [
+      {
+        "h": "Addressing The Re-Release Buzz",
+        "p": [
+          "Recent speculation indicated that the iconic 1994 action film Mohra, featuring prominent actors Akshay Kumar, Suniel Shetty, and Raveena Tandon, was heading back to the big screen during the Diwali festival period. This initial chatter pointed toward a direct box office showdown against the highly anticipated blockbuster Ramayana.",
+          "However, filmmaker Rajiv Rai stepped forward to set the record straight during an exclusive conversation from Koh Samui, Thailand. While confirming that the popular nineties hit is indeed returning to cinemas, the director offered a very different picture of how and where the rollout will actually unfold across the country."
+        ]
+      },
+      {
+        "h": "The Strategy Behind Single Screens",
+        "p": [
+          "Rather than a massive nationwide multiplex blitz, the filmmaker noted that the project is rolling out in a very restricted and localized fashion. The classic feature is currently planned to navigate various smaller centers gradually over a timeframe spanning approximately half a year.",
+          "This methodical touring strategy mirrors the handling of his recent feature Zora, which made its own way back to audiences on October 23. Furthermore, the director hinted that several other classic titles from his catalog might potentially follow a similar theatrical trail in the future."
+        ]
+      },
+      {
+        "h": "Avoiding Multiplex Chains And High Costs",
+        "p": [
+          "A major factor driving the decision to stay away from large chains like PVR comes down to economic realities. Steep ticket pricing structures and demanding Virtual Print Fee charges imposed by major chains make wide modern releases impractical for older titles.",
+          "Because legacy movies have already been viewed extensively by the public over the decades, incoming commercial returns from standard runs tend to be quite minimal. The filmmaker views this entire undertaking as an experimental exercise rather than a major commercial venture."
+        ]
+      },
+      {
+        "h": "No Direct Rivalry With Ramayana",
+        "p": [
+          "Addressing rumors about going head-to-head with Ramayana, the director firmly rejected the notion of any intentional clash. He explained that because several other titles shifted their dates away from the holiday window, a clear opening emerged within smaller markets.",
+          "The festival timing was chosen simply as an auspicious occasion to initiate the rollout rather than an aggressive competitive move. He further pointed out that a single major release cannot possibly occupy every single cinema screen across the nation simultaneously."
+        ]
+      },
+      {
+        "h": "Targeting Nostalgic Audiences",
+        "p": [
+          "Logistical constraints mean that major metropolitan hubs like Mumbai might not even secure screen space for the throwback screening. Consequently, the possibility of a direct conflict with other high-profile holiday titles remains virtually nonexistent.",
+          "Even though vintage titles have largely exhausted their commercial appeal in mainstream markets, a dedicated segment of viewers maintains a strong appetite for theatrical viewings. The targeted screenings exist specifically to cater to fans wanting to experience retro favorites in a theatrical setting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Rajiv Rai has clarified that the 1994 action hit Mohra will return to cinemas in a limited capacity across single screens rather than multiplex chains. He emphasized that the modest re-release is not competing with Ramayana and is simply taking advantage of open slots in smaller centers during the holiday season."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohra originally released in 1994",
+      "Akshay Kumar, Suniel Shetty, and Raveena Tandon starred in Mohra",
+      "Rajiv Rai directed Mohra",
+      "Zora re-released on October 23",
+      "Bollywood Hungama reported on the re-release plans on October 26"
+    ],
+    "entities": {
+      "people": [
+        "Rajiv Rai",
+        "Akshay Kumar",
+        "Suniel Shetty",
+        "Raveena Tandon",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Gulshan Grover",
+        "Naseeruddin Shah",
+        "Paresh Rawal"
+      ],
+      "titles": [
+        "Mohra",
+        "Ramayana",
+        "Zora",
+        "Gupt",
+        "Tridev",
+        "Yudh",
+        "Vidhaata"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/Rajiv-Rai.jpeg",
+        "caption": "Director Rajiv Rai Clarifies Mohra Re-Release Plans And Denies Diwali Clash With Ramayana",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 10:11:04 +0200"
+  },
+  "chn2b2": {
+    "id": "chn2b2",
+    "type": "news",
+    "headline": "Shah Rukh Khan Unveils Fiery New Poster For Upcoming Movie King",
+    "dek": "The superstar has shared a brand new promotional image for his upcoming action project, offering fans a glimpse into his romantic yet intense character.",
+    "body": [
+      {
+        "h": "The New Promotional Release",
+        "p": [
+          "Bollywood icon Shah Rukh Khan recently shared an exciting new promotional poster for his forthcoming theatrical feature titled King, giving cinephiles a fresh look at his character. The actor utilized his social media platforms to circulate the image, instantly generating massive engagement across the internet.",
+          "The visual presentation showcases the superstar stepping through active flames while gripping a firearm and clenching a rose between his teeth. His fierce expression highlights the gritty tone of the project, merging elements of intense action with his celebrated romantic persona."
+        ]
+      },
+      {
+        "h": "A Nod To A Classic Persona",
+        "p": [
+          "Accompanying the poster reveal, the actor shared a clever caption referencing his iconic 1999 movie Baadshah. By declaring himself a lover rather than a killer, he paid homage to his rich cinematic history while teasing the dual nature of his upcoming role.",
+          "Fans immediately recognized the dialogue nod to his past romantic-thriller days, celebrating the actor's playful reference on Instagram. The caption further solidified the anticipation surrounding his distinct character arc in the feature."
+        ]
+      },
+      {
+        "h": "Release Timeline And Schedule",
+        "p": [
+          "The theatrical release for King is officially locked in for December 24, 2026, positioning the project as a major Christmas box-office attraction. Makers initially announced this holiday schedule earlier this year.",
+          "An earlier milestone occurred on November 2, 2025, when the official title dropped alongside Shah Rukh Khan's birthday celebrations. That initial glimpse introduced audiences to a silver-haired avatar uttering the striking dialogue, 'Darr nahi, dehshat hoon.'"
+        ]
+      },
+      {
+        "h": "Addressing Trailer Inquiries",
+        "p": [
+          "Regarding the much-awaited full-length trailer, the leading star recently addressed eager fans during an interactive AskSRK session on social media. When questioned about the delay, he clarified that there was no deliberate withholding of promotional footage.",
+          "He assured supporters that the creative team is investing proper time to craft promotional material that accurately honors the film's quality. He playfully advised followers to maintain patience and look forward to everything arriving prior to the December launch."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The upcoming project features a prominent lineup of notable actors alongside the lead star. The ensemble includes Suhana Khan, Deepika Padukone, Abhishek Bachchan, and Rani Mukerji.",
+          "Additional cast members attached to the production feature Jaideep Ahlawat, Raghav Juyal, and Saurabh Shukla. This diverse group brings together multiple generations of cinematic talent under one banner."
+        ]
+      },
+      {
+        "h": "Collaboration And Family Milestones",
+        "p": [
+          "King represents a creative reunion between Shah Rukh Khan and director Siddharth Anand following their successful collaboration on Pathaan in 2023. Their previous venture established a strong working rapport that continues into this new cinematic journey.",
+          "Furthermore, the project marks a significant career milestone by pairing Shah Rukh with his daughter, Suhana Khan, on the big screen for the very first time. Suhana previously made her formal acting debut in 2023 with The Archies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan has released a brand new poster for his upcoming film King, directed by Siddharth Anand and scheduled to arrive in cinemas on December 24, 2026. The project features an ensemble cast including Suhana Khan, Deepika Padukone, Abhishek Bachchan, and Rani Mukerji, while marking a reunion between the star and director following their 2023 collaboration."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan plays a lover in the new poster of King at age 60.",
+      "King is directed by Siddharth Anand.",
+      "The film releases in cinemas on December 24, 2026.",
+      "The cast includes Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukerji, Jaideep Ahalawat, Raghav Juyal, and Saurabh Shukla.",
+      "The film's title was revealed on November 2, 2025, coinciding with Shah Rukh's birthday.",
+      "King is Shah Rukh Khan's second collaboration with Siddharth Anand after Pathaan (2023).",
+      "Suhana Khan made her acting debut with The Archies in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Siddharth Anand",
+        "Jaideep Ahalawat",
+        "Raghav Juyal",
+        "Saurabh Shukla",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "King",
+        "Baadshah",
+        "Pathaan",
+        "The Archies"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/King_1793076045826_AIEX_1793076045975_HR2P_3cb6fe97-5b2f-4598-89c3-fcc3dc090cd6_gQRB.jpg",
+        "caption": "Shah Rukh Khan Unveils Fiery New Poster For Upcoming Movie King",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 10:13:52 +0530"
+  },
+  "pl17oj": {
+    "id": "pl17oj",
+    "type": "news",
+    "headline": "AMPAS Plans to Expand Standalone Qualifying Festivals for the International Film Oscar",
+    "dek": "During an appearance at the Tokyo Film Festival, Academy CEO Bill Kramer discussed plans to broaden pathways for the International Film Oscar category, along with insights on global membership and the upcoming move to YouTube.",
+    "body": [
+      {
+        "h": "Expanding International Festival Qualifiers",
+        "p": [
+          "The Academy of Motion Picture Arts and Sciences is actively looking to increase the number of film festivals that can operate as standalone qualifiers for the International Film Oscar category. Speaking during an interview at the Tokyo Film Festival, AMPAS Chief Executive Officer Bill Kramer confirmed that the organization intends to broaden this feeder network.",
+          "Under rules introduced in May, top awards from Berlin, Busan, Cannes, Sundance, Toronto, and Venice already allow winning films to be automatically submitted for the category alongside traditional country-selected entries."
+        ]
+      },
+      {
+        "h": "Ensuring Global Representation and Juried Standards",
+        "p": [
+          "According to Kramer, the initial group of six festivals was chosen specifically because they feature juried awards, a criterion that is not universal across all global events. The initiative forms a core part of the Academy's wider strategy to handle the international category in a more holistic way.",
+          "The leadership remains in constant communication with festivals worldwide to secure proper geographic representation and invite a larger volume of global cinema into the competitive conversation."
+        ]
+      },
+      {
+        "h": "Broadening Apertures for Filmmakers",
+        "p": [
+          "This push toward inclusivity follows earlier rule changes designed to tear down traditional submission barriers. A notable prior step allowed refugee filmmakers displaced from their home countries to have their movies put forward by a host-country committee.",
+          "Kramer emphasized that these cumulative reforms are meant to create a broader aperture for participation, ensuring that talented creators from diverse backgrounds have clear avenues to submit their work."
+        ]
+      },
+      {
+        "h": "A Globally Minded Academy Membership",
+        "p": [
+          "The organizational shifts coincide with a measurable transformation within the Academy itself, where 25 percent of the total membership now resides outside the United States. Kramer attributes this trend to profound global shifts in how films are both produced and consumed.",
+          "He noted that traditional boundaries separating domestic and international cinema, classic titles from first-run releases, and live-action from animation or documentaries have blurred significantly, partly accelerated by viewing habits adopted during the pandemic."
+        ]
+      },
+      {
+        "h": "Transitioning the Oscars to YouTube",
+        "p": [
+          "This increasingly global audience served as a primary rationale for selecting YouTube as the future broadcast home of the Academy Awards. Starting in 2029, the Google-owned service will take over hosting duties from ABC, which has broadcast the ceremony since 1976.",
+          "The agreement covers the 101st Oscars through 2033. Kramer highlighted that the platform enables simultaneous global reach to 2.5 billion people across more than 30 languages while offering enhanced control over fan engagement."
+        ]
+      },
+      {
+        "h": "Protecting Artistic Freedom on Streaming Platforms",
+        "p": [
+          "As major tech companies and streaming entities take over live entertainment broadcasts—such as Netflix handling The Actor Awards and Prime Video taking on the Emmys—questions regarding editorial oversight naturally arise. However, Kramer firmly stated that strict policies protect the Academy's output.",
+          "When questioned about potential interference reminiscent of past tech-industry missteps, Kramer stressed that censorship is strictly prohibited at the Academy, the Oscars, and on its broadcast platform, adding that Google and YouTube fully understand this stance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "AMPAS CEO Bill Kramer announced at the Tokyo Film Festival that the Academy plans to increase the number of film festivals serving as standalone qualifiers for the International Film Oscar category. Alongside these structural changes, Kramer discussed the organization's expanding international membership and defended the upcoming broadcast transition to YouTube starting in 2029."
+        ]
+      }
+    ],
+    "facts": [
+      "Bill Kramer is the CEO of AMPAS.",
+      "The announcement was made during an interview at the Tokyo Film Festival in October 2026.",
+      "Lynette Howell Taylor is the AMPAS President.",
+      "Meredith Shea is the Chief Membership, Impact and Industry Officer.",
+      "Current standalone qualifying festivals include Berlin, Busan, Cannes, Sundance, Toronto, and Venice.",
+      "25% of Academy membership currently resides outside the United States.",
+      "YouTube won the rights to host the Academy Awards starting in 2029 through 2033.",
+      "ABC has broadcast the Oscars since 1976 under a Disney deal running through 2028.",
+      "YouTube's first broadcast will be the 101st Oscars ceremony, reaching an estimated 2.5 billion people in over 30 languages.",
+      "The Tokyo Film Festival runs until November 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Bill Kramer",
+        "Zac Ntim",
+        "Milcho Manchevski",
+        "Alfonso Cuarón",
+        "Flávio Bolsonaro",
+        "Lula",
+        "Lynette Howell Taylor",
+        "Meredith Shea",
+        "Rolf de Heer",
+        "Alan Ritchson",
+        "Keanu Reeves",
+        "George Clooney",
+        "Luca Guadagnino",
+        "Ritesh Batra",
+        "Saif Ali Khan",
+        "Vidya Balan",
+        "Mélanie Laurent",
+        "Adam Brody",
+        "Julian Fellowes",
+        "Casey Bloys",
+        "Donald Trump",
+        "Bill Maher",
+        "Neil Young",
+        "Rain Spencer",
+        "Noah Jupe"
+      ],
+      "titles": [
+        "Sister Brother Manhole Cover",
+        "Y Tu Mamá También",
+        "Maelstrom",
+        "Smear",
+        "Artificial",
+        "The Lunchbox",
+        "Long Years Ago",
+        "Nobody Wants This",
+        "Baywatch",
+        "The Gilded Age"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2024/06/Bill-Kramer.jpg?w=1024",
+        "caption": "AMPAS Plans to Expand Standalone Qualifying Festivals for the International Film Oscar",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 05:39:51 +0000"
+  },
+  "10bge8n": {
+    "id": "10bge8n",
+    "type": "news",
+    "headline": "Barry Keoghan Opens Up About Undergoing Cosmetic Skin-Tightening Treatments",
+    "dek": "The Oscar nominee shared insights into his skincare routine with facialist Nilam Holmes, discussing the therapeutic benefits and his upcoming role as Ringo Starr.",
+    "body": [
+      {
+        "h": "Skincare Journey Revealed",
+        "p": [
+          "Oscar-nominated actor Barry Keoghan recently shared that he has undergone cosmetic skincare procedures, including a specific skin-tightening treatment. The thirty-four-year-old performer appeared in a promotional video alongside London-based facialist Nilam Holmes to discuss his routine.",
+          "Holmes noted that she has collaborated with the actor across various film projects and advertising campaigns, praising the mutual trust established throughout their professional relationship."
+        ]
+      },
+      {
+        "h": "Inside the Treatment",
+        "p": [
+          "During the video feature, the actor described his visits as therapeutic and relaxing experiences. He emphasized that taking care of one's appearance contributes positively to personal confidence and overall well-being.",
+          "The specialist performing the procedure highlighted the noticeable improvements in his skin over recent years. The specific skin-tightening procedure featured is known as Xerf, which marked his second time undergoing the process."
+        ]
+      },
+      {
+        "h": "Financial Investment",
+        "p": [
+          "Cosmetic procedures of this nature require a substantial financial commitment. According to reports from The Daily Beast, a package of two treatments totals approximately four thousand five hundred pounds, which equates to about six thousand dollars."
+        ]
+      },
+      {
+        "h": "Facing Online Scrutiny",
+        "p": [
+          "Earlier in the year, the Saltburn star addressed the persistent online bullying he has faced regarding his physical appearance. He confessed that the negative commentary negatively influenced his professional life, causing him to retreat from public view and feel reluctant to venture outside."
+        ]
+      },
+      {
+        "h": "Upcoming Cinematic Projects",
+        "p": [
+          "Beyond his skincare routines, the performer is preparing for a significant cinematic undertaking involving filmmaker Sam Mendes. The ambitious project consists of four distinct biographical films centered on The Beatles, with a dedicated feature for each individual band member.",
+          "As part of his preparation, he will portray Ringo Starr. He recently gathered alongside fellow cast members Paul Mescal, Harris Dickinson, and Joseph Quinn to recreate a famous historical photograph from 1964."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Barry Keoghan discussed his recent skin-tightening treatments with facialist Nilam Holmes, noting how the procedures improve his self-confidence. The disclosure follows previous struggles with online bullying regarding his appearance, while he simultaneously prepares to portray Ringo Starr in an upcoming biographical film project directed by Sam Mendes."
+        ]
+      }
+    ],
+    "facts": [
+      "Barry Keoghan is 34 years old.",
+      "Barry Keoghan is an Oscar nominee.",
+      "Nilam Holmes is a facialist based in London.",
+      "The skin-tightening treatment is called Xerf.",
+      "Two treatments cost £4,500 or about $6,000.",
+      "Sam Mendes is directing four films about The Beatles.",
+      "Barry Keoghan is playing Ringo Starr."
+    ],
+    "entities": {
+      "people": [
+        "Barry Keoghan",
+        "Nilam Holmes",
+        "Sam Mendes",
+        "Paul Mescal",
+        "Harris Dickinson",
+        "Joseph Quinn",
+        "Ringo Starr"
+      ],
+      "titles": [
+        "Saltburn",
+        "The Beatles"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/10/barry-keoghan-cosmetic-procedure.jpg",
+        "caption": "Barry Keoghan Opens Up About Undergoing Cosmetic Skin-Tightening Treatments",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 05:22:05 +0000"
   }
 };
