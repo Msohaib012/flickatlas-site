@@ -121,14 +121,14 @@
       "tickets": 655408
     },
     {
-      "collection_gross_inr_cr": 0.01,
-      "collection_inr_cr": 0.0,
+      "collection_gross_inr_cr": 0.04,
+      "collection_inr_cr": 0.04,
       "date": "2026-10-27",
       "day": 13,
-      "occupancy_pct": 38.6,
-      "shows": 4,
+      "occupancy_pct": 9.4,
+      "shows": 105,
       "source": "moviemintbo",
-      "tickets": 402
+      "tickets": 2021
     }
   ],
   "1269325": [
@@ -383,14 +383,14 @@
       "tickets": 55887
     },
     {
-      "collection_gross_inr_cr": 0.0,
-      "collection_inr_cr": 0.0,
+      "collection_gross_inr_cr": 0.01,
+      "collection_inr_cr": 0.01,
       "date": "2026-10-27",
       "day": 26,
-      "occupancy_pct": 2.1,
-      "shows": 1,
+      "occupancy_pct": 5.7,
+      "shows": 50,
       "source": "moviemintbo",
-      "tickets": 6
+      "tickets": 483
     }
   ],
   "1375156": [
@@ -433,6 +433,16 @@
       "shows": 5994,
       "source": "moviemintbo",
       "tickets": 157031
+    },
+    {
+      "collection_gross_inr_cr": 0.03,
+      "collection_inr_cr": 0.02,
+      "date": "2026-10-27",
+      "day": 5,
+      "occupancy_pct": 6.4,
+      "shows": 139,
+      "source": "moviemintbo",
+      "tickets": 2015
     }
   ],
   "1389379": [
@@ -545,6 +555,16 @@
       "shows": 1713,
       "source": "moviemintbo",
       "tickets": 111804
+    },
+    {
+      "collection_gross_inr_cr": 0.0,
+      "collection_inr_cr": 0.0,
+      "date": "2026-10-27",
+      "day": 12,
+      "occupancy_pct": 0.2,
+      "shows": 2,
+      "source": "moviemintbo",
+      "tickets": 1
     }
   ],
   "1654581": [
@@ -657,6 +677,16 @@
       "shows": 1359,
       "source": "moviemintbo",
       "tickets": 17148
+    },
+    {
+      "collection_gross_inr_cr": 0.0,
+      "collection_inr_cr": 0.0,
+      "date": "2026-10-27",
+      "day": 12,
+      "occupancy_pct": 5.2,
+      "shows": 26,
+      "source": "moviemintbo",
+      "tickets": 218
     }
   ]
 }

@@ -7342,5 +7342,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 27 Oct 2026 02:00:28 GMT"
+  },
+  "pvhqny": {
+    "id": "pvhqny",
+    "type": "news",
+    "headline": "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
+    "dek": "Rajinikanth's action comedy Jailer 2 continues its impressive box office run, crossing ₹408 crore domestically and nearing ₹734 crore worldwide by its twelfth day in theatres.",
+    "body": [
+      {
+        "h": "Reaching the ₹400 Crore Domestic Milestone",
+        "p": [
+          "Rajinikanth's latest cinematic outing has officially crossed a major domestic financial milestone. Tracking data indicates that the film accumulated an estimated ₹9.45 crore net across the country on its twelfth day, pushing its overall domestic net collections past the ₹400 crore threshold to reach a cumulative total of ₹408.15 crore.",
+          "This latest single-day addition reflects the ongoing audience engagement with the project during its second week in cinemas, cementing its status as a major commercial success across domestic territories."
+        ]
+      },
+      {
+        "h": "Global Gross Revenue Nears ₹734 Crore",
+        "p": [
+          "Beyond domestic borders, the film has continued to pull in substantial numbers from international markets. Overseas box office contributions added an estimated ₹2.50 crore gross on Monday, bringing the total overseas gross collection to ₹255.50 crore.",
+          "Combined with domestic gross figures, the worldwide gross collection for the action-comedy sequel has now climbed to an impressive ₹733.35 crore, highlighting its wide appeal outside of India."
+        ]
+      },
+      {
+        "h": "Analyzing the Weekday Dip Following the Second Weekend",
+        "p": [
+          "The twelfth-day performance followed a robust second weekend that saw recovery across ticket counters following prior weekday lulls. During that preceding weekend, the feature brought in ₹14.50 crore net on Friday, ₹24.15 crore on Saturday, and ₹25.70 crore net on Sunday.",
+          "Monday's earnings of ₹9.45 crore net represented a typical weekday drop of approximately 63.2% compared to the figures recorded on the preceding Sunday, aligning with standard box office trends for second-week runs."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown of Day 12 Collections",
+        "p": [
+          "The domestic collections on the twelfth day were distributed across multiple language versions, with the original Tamil version capturing the largest share. The Tamil screenings brought in an estimated ₹5.65 crore net from 4,518 tracked shows, registering a 25.1% occupancy rate.",
+          "Meanwhile, the Telugu version contributed ₹2 crore net with 24.2% occupancy, the Hindi version added ₹1.40 crore net with an 11% occupancy rate, and the Kannada version recorded ₹40 lakh net while achieving the highest individual occupancy rate of the day at 32%."
+        ]
+      },
+      {
+        "h": "Overall Theatrical Occupancy and Show Counts",
+        "p": [
+          "The overall engagement across the country on the twelfth day was monitored through a tracked total of 10,450 shows spanning various regions and languages. Across all these participating venues, the overall theatre occupancy rate stood at 19.8%.",
+          "While lower than the peak numbers seen during the opening weekend, this sustained participation level across thousands of screens helped keep the daily collections comfortably in the upper single digits."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Background",
+        "p": [
+          "Written and directed by Nelson Dilipkumar, Jailer 2 serves as the continuation of the 2023 hit film Jailer. The project is backed by producer Kalanithi Maran under the Sun Pictures banner, bringing back Rajinikanth to portray the protagonist, retired jailer Tiger Muthuvel Pandian.",
+          "The film features returning cast members alongside a slew of new additions and high-profile cameo appearances. Anirudh Ravichander provided the musical score, Vijay Kartik Kannan managed the cinematography, and R. Nirmal edited the feature."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 surpassed ₹408 crore in domestic net collections by its twelfth day in theatres, supported by a strong worldwide gross of ₹733.35 crore. Despite a 63.2% drop on Monday compared to Sunday, the multilingual action comedy continued to draw audiences across its Tamil, Telugu, Hindi, and Kannada versions."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 crossed ₹400 crore in India net collections on Monday, October 26",
+      "Day 12 India net collection was estimated at ₹9.45 crore",
+      "Cumulative domestic net collection reached ₹408.15 crore",
+      "Worldwide gross collection reached ₹733.35 crore",
+      "Sunday, October 25 collection was ₹25.70 crore net",
+      "Monday earnings declined by approximately 63.2% compared to Sunday",
+      "Total domestic gross collection stands at ₹477.85 crore",
+      "Overseas gross collection reached ₹255.50 crore",
+      "Friday, October 23 collection was ₹14.50 crore net",
+      "Saturday, October 24 collection was ₹24.15 crore net",
+      "Day 12 overall theatre occupancy was 19.8%",
+      "Tamil version collected ₹5.65 crore net with 25.1% occupancy",
+      "Telugu version earned ₹2 crore with 24.2% occupancy",
+      "Hindi version collected ₹1.40 crore net with 11% occupancy",
+      "Kannada version added ₹40 lakh with 32% occupancy",
+      "Nelson Dilipkumar is the writer and director",
+      "Kalanithi Maran is the producer under the Sun Pictures banner",
+      "Rajinikanth plays Tiger Muthuvel Pandian",
+      "Release date was October 15, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Vijay Sethupathi",
+        "Vinayakan",
+        "Jackie Shroff",
+        "Hrithik Roshan",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/jailer2-23121793069934.jpg",
+        "caption": "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 08:30:04 +0530"
+  },
+  "9faau2": {
+    "id": "9faau2",
+    "type": "news",
+    "headline": "Drishyam 3 Box Office Day 25: Ajay Devgn Thriller Crosses Milestone Amid Slowdown",
+    "dek": "Ajay Devgn's crime thriller Drishyam 3: The Conclusion continues its theatrical journey, experiencing a dip on its fourth Monday while pushing its cumulative domestic earnings higher.",
+    "body": [
+      {
+        "h": "The Box Office Journey Enters Week Four",
+        "p": [
+          "The theatrical run of the prominent crime thriller has entered its fourth week, showcasing remarkable stamina despite a natural cooling off period at the ticket counters. While fresh cinematic releases continue to vie for viewer attention across the country, this installment maintains a steady presence in cinemas nationwide.",
+          "Industry trackers note that although the explosive momentum seen during the initial weeks has tapered off, the film continues to pull in loyal audiences as it crosses significant milestones in its extended run."
+        ]
+      },
+      {
+        "h": "Fourth Monday Collections and Recent Dips",
+        "p": [
+          "On its twenty-fifth day in theatres, the feature brought in a net collection of Rs 1.05 crore across 3,127 active shows throughout the domestic market. This figure represents a notable 65 percent drop compared to the business it generated on the preceding day.",
+          "Despite this weekday decline, the cumulative domestic net total for the film has climbed to Rs 369.95 crore, while the gross collection within India has reached an impressive Rs 443.15 crore."
+        ]
+      },
+      {
+        "h": "International Performance and Global Totals",
+        "p": [
+          "Beyond domestic borders, the cinematic venture has continued to add to its overseas tally, pulling in an additional Rs 25 lakh during its fourth Monday screenings.",
+          "This international contribution elevates the overseas gross to a substantial Rs 131.50 crore, bringing the combined worldwide gross collection of the movie to a staggering Rs 574.65 crore."
+        ]
+      },
+      {
+        "h": "A Look Back at Weekly Earnings",
+        "p": [
+          "The picture began its commercial journey with a massive opening week, accumulating a phenomenal Rs 245.50 crore. This was followed by a solid second week that added another Rs 87.50 crore to the ledger.",
+          "During its third week, the feature brought in Rs 28.85 crore. As it transitioned into its fourth week, it registered daily figures starting with Rs 1.40 crore on Day 22, before rising to Rs 2.65 crore and Rs 3 crore on the subsequent two days, leading up to the latest Monday figures."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Direction",
+        "p": [
+          "Directed by Abhishek Pathak, the suspenseful drama brings back Ajay Devgn in his acclaimed role as the resourceful protagonist Vijay Salgaonkar, who must navigate fresh legal scrutiny and threats to his family.",
+          "The stellar ensemble cast also features prominent actors such as Tabu, Shriya Saran, Ishita Dutta, Mrunal Jadhav, Rajat Kapoor, Prakash Raj, and Jaideep Ahlawat, contributing to the dramatic weight of the narrative."
+        ]
+      },
+      {
+        "h": "Plot Background and Release Context",
+        "p": [
+          "The storyline picks up years after the protagonist successfully eluded law enforcement, forcing him to defend the elaborate alibis he constructed when a renewed investigation threatens to unravel his past.",
+          "The picture officially opened in cinemas on October 2, 2026, quickly establishing itself as a major box office contender before settling into its current steady phase of its theatrical exhibition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's thriller Drishyam 3: The Conclusion recorded Rs 1.05 crore net in India on its twenty-fifth day, marking a 65 percent drop on its fourth Monday. The film's overall domestic net collection has now reached Rs 369.95 crore, with worldwide gross figures standing at Rs 574.65 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam 3 earned Rs 1.05 crore net in India on Day 25.",
+      "The film played across 3,127 shows on its twenty-fifth day.",
+      "The India net total reached Rs 369.95 crore.",
+      "The India gross stands at Rs 443.15 crore.",
+      "Overseas gross reached Rs 131.50 crore.",
+      "Worldwide gross reached Rs 574.65 crore.",
+      "Week one collection was Rs 245.50 crore.",
+      "Week two collection was Rs 87.50 crore.",
+      "Week three collection was Rs 28.85 crore.",
+      "The film was released in theatres on October 2, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Abhishek Pathak",
+        "Tabu",
+        "Shriya Saran",
+        "Ishita Dutta",
+        "Mrunal Jadhav",
+        "Rajat Kapoor",
+        "Prakash Raj",
+        "Jaideep Ahlawat"
+      ],
+      "titles": [
+        "Drishyam 3: The Conclusion"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135223240,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Drishyam 3 Box Office Day 25: Ajay Devgn Thriller Crosses Milestone Amid Slowdown",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-27T08:26:01+05:30"
+  },
+  "dccu7d": {
+    "id": "dccu7d",
+    "type": "news",
+    "headline": "Jay-Z Set to Headline the Super Bowl Halftime Show",
+    "dek": "The rapper and producer will take center stage at the upcoming Super Bowl festivities in Inglewood, California.",
+    "body": [
+      {
+        "h": "Stepping Into the Spotlight",
+        "p": [
+          "After years behind the scenes helping produce the entertainment, music mogul Jay-Z is finally taking the stage himself. The NFL, Apple Music, and Roc Nation jointly announced that the iconic rapper will serve as the headline performer for the upcoming halftime show."
+        ]
+      },
+      {
+        "h": "The Road to the Stage",
+        "p": [
+          "NFL Commissioner Roger Goodell shared that he had always hoped Jay-Z would perform whenever the timing felt right. Reflecting on his career journey from his debut album to the biggest stage in sports, the artist described the opportunity as a true continuation of a dream."
+        ]
+      },
+      {
+        "h": "Partnership and Previous Resistance",
+        "p": [
+          "Since 2019, Jay-Z's company Roc Nation has partnered with the NFL to curate and advise on entertainment presentations. In the early stages of the collaboration, the artist maintained that he wanted no part of performing himself, explicitly telling league leadership that the partnership could not be about his own stage appearances."
+        ]
+      },
+      {
+        "h": "An Illustrious Musical Legacy",
+        "p": [
+          "Born Shawn Carter, the rapper boasts an impressive list of accolades, including twenty-five Grammy Awards and eighty-nine nominations. His extensive catalog includes acclaimed records like The Blueprint and The Black Album, alongside timeless collaborations and solo hits."
+        ]
+      },
+      {
+        "h": "Recent Live Performances and Guests",
+        "p": [
+          "The announcement arrives on the heels of major concert celebrations commemorating the thirtieth anniversary of his debut album, Reasonable Doubt. Recent tour dates featured high-profile guest appearances from artists such as his daughter Blue Ivy, Rihanna, Eminem, and Dr. Dre."
+        ]
+      },
+      {
+        "h": "Business Ventures and Honors",
+        "p": [
+          "Beyond his music career, the Brooklyn-born artist has built a formidable empire as an entrepreneur and executive, co-founding Roc-A-Fella Records and founding Roc Nation. He has also earned historic inductions into the Songwriters Hall of Fame and the Rock and Roll Hall of Fame."
+        ]
+      },
+      {
+        "h": "Production Team and Emmy Success",
+        "p": [
+          "Roc Nation will executive produce the upcoming halftime performance, with direction by Hamish Hamilton. Recent iterations of the halftime show have achieved significant critical acclaim and multiple Emmy wins."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rapper and producer Jay-Z will headline the Super Bowl halftime show after previously serving in an advisory and production role with the NFL through Roc Nation. The artist expressed excitement over the milestone, which coincides with celebrations of his musical catalog and extensive career."
+        ]
+      }
+    ],
+    "facts": [
+      "Jay-Z will headline the Super Bowl halftime show on Feb. 14 at SoFi Stadium in Inglewood, California.",
+      "Roc Nation has partnered with the NFL since 2019.",
+      "Jay-Z has won 25 Grammy Awards and received 89 nominations.",
+      "Reasonable Doubt is his 1996 debut album.",
+      "Jay-Z was inducted into the Songwriters Hall of Fame in 2017 and the Rock and Roll Hall of Fame in 2021."
+    ],
+    "entities": {
+      "people": [
+        "Jay-Z",
+        "Roger Goodell",
+        "Hamish Hamilton",
+        "Blue Ivy",
+        "Scarface",
+        "John Legend",
+        "DJ Khaled",
+        "Dr. Dre",
+        "Snoop Dogg",
+        "Too $hort",
+        "Beyonce",
+        "Rihanna",
+        "Eminem",
+        "Nas",
+        "Alicia Keys",
+        "Bad Bunny",
+        "Kendrick Lamar"
+      ],
+      "titles": [
+        "Reasonable Doubt",
+        "The Blueprint",
+        "The Black Album",
+        "Hard Knock Life (Ghetto Anthem)",
+        "99 Problems",
+        "Empire State of Mind",
+        "The Story of O.J.",
+        "Dead Presidents"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135223795,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jay-Z Set to Headline the Super Bowl Halftime Show",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-27T09:14:34+05:30"
+  },
+  "fi5s5j": {
+    "id": "fi5s5j",
+    "type": "news",
+    "headline": "George Takei Remembers Star Trek Co-Star and Best Man Walter Koenig Following His Death at 90",
+    "dek": "Longtime friend and co-star George Takei has shared an emotional tribute following the passing of Walter Koenig, remembering their decades-long bond.",
+    "body": [
+      {
+        "h": "Passing of an Icon",
+        "p": [
+          "Walter Koenig, celebrated widely for his portrayal of Ensign Pavel Chekov in the legendary science fiction franchise Star Trek, passed away at the age of ninety. His death occurred at his residence located in North Hollywood, California, on a Sunday.",
+          "While an exact medical diagnosis was not disclosed by his representative, his passing was attributed to old age. The news has sparked an outpouring of grief from admirers and peers alike."
+        ]
+      },
+      {
+        "h": "A Lifelong Bond Formed on the Enterprise",
+        "p": [
+          "George Takei came forward to honor his late colleague and close friend through a heartfelt message shared on Instagram. The two actors first crossed paths aboard the fictional bridge of the starship Enterprise during the production of the show in the 1960s.",
+          "Their professional association blossomed into a personal companionship that endured for nearly six decades. Takei reflected fondly on the decades they spent supporting one another both on and off the screen."
+        ]
+      },
+      {
+        "h": "A Special Wedding Role",
+        "p": [
+          "The depth of their friendship extended far beyond their television collaboration into their personal milestones. When Takei and Brad married in 2008, Koenig played a pivotal role in the ceremony by standing beside them as their best man.",
+          "Takei also noted a unique calendar coincidence involving their respective milestones. Koenig celebrated his ninetieth birthday on September 14, which happened to fall on the exact same day that Takei and Brad marked their eighteenth wedding anniversary."
+        ]
+      },
+      {
+        "h": "Beyond Ensign Chekov",
+        "p": [
+          "Remembering his late friend, Takei emphasized that Koenig was much more than his famous television character. He described him as a talented writer, an educator, a deeply reflective individual, and a steadfast companion.",
+          "Throughout his life, Koenig cultivated a reputation for thoughtfulness and creativity that resonated with those who worked closely with him. His multifaceted career left a lasting impression on the entertainment community."
+        ]
+      },
+      {
+        "h": "Gratitude Toward the Fandom",
+        "p": [
+          "In his public farewell, Takei made a point to address the dedicated community of followers who supported Koenig throughout his journey. He offered gratitude on behalf of his late friend to the admirers who cherished his work over many years.",
+          "Takei assured supporters that Koenig held a reciprocal affection for the fan base. He concluded his tribute with a wish for peaceful rest and a steady navigational course for his longtime peer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Walter Koenig, renowned for playing Ensign Pavel Chekov in Star Trek, passed away at age ninety at his North Hollywood home. His co-star and longtime friend George Takei shared an emotional Instagram tribute recalling their decades of friendship, his role as best man at Takei's wedding, and his life beyond the iconic franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Walter Koenig died at the age of 90.",
+      "He passed away on Sunday, October 25, 2026.",
+      "His death occurred at his home in North Hollywood, California.",
+      "He was best known for playing Ensign Pavel Chekov on Star Trek.",
+      "George Takei and Brad married in 2008.",
+      "Walter Koenig served as best man at their wedding.",
+      "Koenig turned 90 on September 14, the same day Takei and Brad celebrated their 18th wedding anniversary."
+    ],
+    "entities": {
+      "people": [
+        "George Takei",
+        "Walter Koenig",
+        "Brad",
+        "Ensign Pavel Chekov"
+      ],
+      "titles": [
+        "Star Trek"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/10/walter-koenig-george-takei-tribute.jpg",
+        "caption": "George Takei Remembers Star Trek Co-Star and Best Man Walter Koenig Following His Death at 90",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 03:22:47 +0000"
   }
 };
