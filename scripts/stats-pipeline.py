@@ -105,8 +105,11 @@ def next_run(minutes, now):
 
 
 def latest_run(workflow_file, token):
-    """Latest run of a workflow file via the Actions API. None on failure."""
-    url = f"{API}/repos/{REPO}/actions/workflows/{workflow_file}/runs?per_page=1"
+    """Latest COMPLETED run of a workflow file via the Actions API. None on failure.
+    Skips the currently-running run: this step runs inside the hourly pipeline
+    itself, so the newest run is always itself mid-flight and the file would
+    otherwise show a perpetual 'in_progress'."""
+    url = f"{API}/repos/{REPO}/actions/workflows/{workflow_file}/runs?per_page=5"
     req = urllib.request.Request(url, headers={
         "Accept": "application/vnd.github+json",
         "User-Agent": "flickatlas-stats-pipeline"})
@@ -119,9 +122,10 @@ def latest_run(workflow_file, token):
         print(f"stats-pipeline: Actions API failed for {workflow_file}: {e}")
         return None
     runs = data.get("workflow_runs") or []
-    if not runs:
+    completed = [r for r in runs if r.get("status") == "completed"]
+    if not completed:
         return None
-    r = runs[0]
+    r = completed[0]
     return {
         "status": (r.get("conclusion") or r.get("status") or "unknown"),
         "run_id": r.get("id"),
@@ -271,6 +275,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 
