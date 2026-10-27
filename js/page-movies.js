@@ -104,6 +104,9 @@
      are a different content type and are never excluded. */
   const released = published().filter(x => {
     if (!x || !x.id || !x.poster_path) return false;
+    /* Festival-only titles (date_kind="festival", owner decision
+       2026-10-27) are not released — they live on /upcoming. */
+    if (x.date_kind === "festival") return false;
     const d = dateOf(x);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(d) || d > todayStr()) return false;
     if (typeOf(x) === "tv") return true;
@@ -193,6 +196,7 @@
 
   render();
 })();
+
 
 
 

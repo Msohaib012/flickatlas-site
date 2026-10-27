@@ -105,7 +105,7 @@
   const today = new Date().toISOString().slice(0, 10);
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   const items = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.id && x.poster_path && dateOf(x) > today)
+    .filter(x => x && x.id && x.poster_path && (dateOf(x) > today || x.date_kind === "festival"))
     .map(x => ({ ...x, _date: dateOf(x) }))
     .sort((a, b) => a._date.localeCompare(b._date)
       || (b.published_at || "").localeCompare(a.published_at || ""))
@@ -165,5 +165,6 @@
 
   render();
 })();
+
 
 

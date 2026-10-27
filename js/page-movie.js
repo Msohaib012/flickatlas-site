@@ -48,10 +48,13 @@
      newest first, headed "Similar Movies". */
   const similarPublished = (pub) => {
     const todayS = TMDB.today();
-    const isUpcoming = titleDate(pub) && titleDate(pub) > todayS;
+    /* Festival-only titles (date_kind="festival", owner decision
+       2026-10-27) count as upcoming — a festival premiere is not a
+       release — so their Similar rail shows upcoming titles. */
+    const isUpcoming = (titleDate(pub) && titleDate(pub) > todayS) || pub.date_kind === "festival";
     const cands = Object.values(window.FA_PUBLISHED || {})
       .filter(x => x && x.id != null && String(x.id) !== String(pub.id) && x.type === pub.type
-        && titleDate(x) && (isUpcoming ? titleDate(x) > todayS : titleDate(x) <= todayS)
+        && titleDate(x) && (isUpcoming ? (titleDate(x) > todayS || x.date_kind === "festival") : (titleDate(x) <= todayS && x.date_kind !== "festival"))
         /* Owner order 2026-10-27: streaming-only titles (OTT "now", no
            box-office rows) do not belong in Similar Movies on a
            released title's page. Upcoming pages are untouched — an
@@ -433,6 +436,7 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
+
 
 
 

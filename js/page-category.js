@@ -71,7 +71,7 @@
   const pool = (() => {
     const today = new Date().toISOString().slice(0, 10);
     const inCategory = published().filter(x => x && x.id && x.industry === cat
-      && dateOf(x) && dateOf(x) <= today);
+      && dateOf(x) && dateOf(x) <= today && x.date_kind !== "festival");
     const fresh = inCategory.filter(UI.isFresh);
     return (fresh.length ? fresh : inCategory).sort(byNewest);
   })();
@@ -113,6 +113,7 @@
 
   render();
 })();
+
 
 
 

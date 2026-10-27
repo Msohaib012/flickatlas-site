@@ -160,6 +160,29 @@ def pick_release_date(details, media_type):
     return details.get("release_date") or ""
 
 
+def is_festival_only(details, media_type):
+    """True when a movie's ONLY release dates anywhere are type-1
+    (premiere/festival) — no theatrical (3), digital (4) or physical
+    (5) release exists in any region. A limited theatrical run
+    (type 2) or any other dated release counts as a release, so the
+    title is NOT festival-only. A title with no release_dates at all
+    is not festival-only either (unknown, not festival). TV never is.
+    Owner decision 2026-10-27: festival-only titles do not fit in
+    released/Spotlight — they stay upcoming (Coming Soon) until a
+    real release date exists."""
+    if media_type != "movie":
+        return False
+    results = ((details.get("release_dates") or {}).get("results")
+               or [])
+    seen_types = set()
+    for entry in results:
+        for r in (entry or {}).get("release_dates") or []:
+            t = r.get("type")
+            if isinstance(t, int):
+                seen_types.add(t)
+    return bool(seen_types) and seen_types == {1}
+
+
 def pick_certification(details, media_type):
     """Theatrical/content certification, or "" when TMDB has none.
 
@@ -257,12 +280,16 @@ def build_entry(details, media_type, categories, published_at):
     if media_type == "movie":
         # Baked date: India theatrical first (fix 2026-10-27) — the
         # TMDB primary date is often a festival premiere in another
-        # country, not the India release. NOTE: a title with NO
-        # theatrical date anywhere (festival-only, e.g. Hotel Utopia)
-        # still bakes its primary date — there is no better date to
-        # use, and changing that needs a product decision (it is a
-        # world title whose only release IS the festival premiere).
+        # country, not the India release. A title with NO theatrical
+        # date anywhere (festival-only, e.g. Hotel Utopia) still bakes
+        # its primary date — there is no better date to use — but it
+        # is flagged date_kind="festival" (owner decision 2026-10-27:
+        # festival-only titles do not fit in released/Spotlight), and
+        # the frontend treats flagged titles as upcoming until a real
+        # release date exists. Non-festival movies bake "release".
         entry["release_date"] = pick_release_date(details, media_type)
+        entry["date_kind"] = ("festival" if is_festival_only(details, media_type)
+                              else "release")
         entry["runtime"] = details.get("runtime") or 0
     else:
         entry["first_air_date"] = details.get("first_air_date") or ""
@@ -338,6 +365,13 @@ def main():
                              if existing else published_at)
         entry = build_entry(details, media_type, categories,
                             keep_published_at)
+        # Re-publishing must not drop the entry's providers:
+        # build_entry does not fetch them (the seeder attaches them
+        # separately), so a wholesale rebuild would silently delete
+        # them. Festival rule 2026-10-27: recomputing one title's
+        # entry must leave everything else untouched.
+        if existing is not None and "providers" in existing:
+            entry["providers"] = existing["providers"]
         if existing is not None and existing == entry:
             print(f"  unchanged {tid} ({entry['title']}, {media_type})")
             continue
@@ -361,4 +395,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

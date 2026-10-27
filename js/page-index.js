@@ -44,8 +44,14 @@
     const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
     const dateOf = (x) => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
     const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a)) || (b.published_at || "").localeCompare(a.published_at || "");
-    const isReleased = (x) => { const d = dateOf(x); return !!d && d <= today; };
-    const isUpcoming = (x) => { const d = dateOf(x); return !!d && d > today; };
+    /* Festival-only titles (date_kind="festival", owner decision
+       2026-10-27) do not fit in released/Spotlight — a festival
+       premiere is not a release. They stay upcoming (Coming Soon)
+       until a real theatrical/digital date exists, even when the
+       festival date itself has passed. */
+    const isFestivalOnly = (x) => x && x.date_kind === "festival";
+    const isReleased = (x) => { const d = dateOf(x); return !!d && d <= today && !isFestivalOnly(x); };
+    const isUpcoming = (x) => { const d = dateOf(x); return !!d && (d > today || isFestivalOnly(x)); };
     const freshReleased = (x) => isReleased(x) && UI.isFresh(x);
     const inIndustry = (x, industry) => (x.industry || "") === industry;
 
@@ -210,7 +216,7 @@
         stats.push(["Total So Far", UI.fmtMoney(s.total)]);
       } else {
         if (hd.release_date) stats.push(["Release Date", UI.fmtDate(hd.release_date)]);
-        stats.push(["Status", hd.release_date && hd.release_date <= today ? "Now in Cinemas" : "Coming Soon"]);
+        stats.push(["Status", hd.release_date && hd.release_date <= today && hd.date_kind !== "festival" ? "Now in Cinemas" : "Coming Soon"]);
       }
       /* Inline display styles (fix round 2, Bug A): slide visibility must
          NOT depend on the stylesheet alone — a stale cached CSS file left
@@ -348,7 +354,7 @@
        "not yet recorded" state in the card. First 8. */
     const boHasRows = (x) => { const r = dwData[String(x.id)]; return Array.isArray(r) && r.length > 0; };
     const boPool = pubAll()
-      .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && (boHasRows(x) || UI.isFresh(x)) && !UI.isStreamingOnly(x))
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && x.date_kind !== "festival" && (boHasRows(x) || UI.isFresh(x)) && !UI.isStreamingOnly(x))
       .sort(byNewest);
     /* Box Office by industry (user order 2026-10-26): the same pool as
        /box-office, split by industry for the homepage switcher — the
@@ -1155,6 +1161,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 

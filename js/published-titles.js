@@ -1423,6 +1423,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 29,
     "providers": []
   },
@@ -1508,6 +1509,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 26,
     "providers": []
   },
@@ -1547,6 +1549,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 65,
     "providers": []
   },
@@ -1587,6 +1590,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 16,
     "providers": []
   },
@@ -1625,6 +1629,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 24,
     "providers": []
   },
@@ -1699,6 +1704,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 85,
     "providers": []
   },
@@ -1737,6 +1743,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 21,
     "providers": []
   },
@@ -1775,6 +1782,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 8,
     "providers": []
   },
@@ -1811,6 +1819,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 29,
     "providers": []
   },
@@ -1885,6 +1894,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 24,
     "providers": []
   },
@@ -1924,6 +1934,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-29",
+    "date_kind": "festival",
     "runtime": 13,
     "providers": []
   },
@@ -2146,6 +2157,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-27",
+    "date_kind": "festival",
     "runtime": 86,
     "providers": []
   },
@@ -2184,6 +2196,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-10-28",
+    "date_kind": "festival",
     "runtime": 95,
     "providers": []
   },
@@ -3050,3 +3063,4 @@ window.FA_PUBLISHED = {
     "providers": []
   }
 };
+

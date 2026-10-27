@@ -74,7 +74,12 @@ TMDB_FIELDS_MOVIE = {
     "vote_count", "overview", "industry", "original_language",
     "origin_country", "trailer", "budget", "revenue", "genres",
     "tagline", "status", "production_countries", "spoken_languages",
-    "certification", "release_date", "runtime",
+    "certification", "release_date", "runtime", "date_kind",
+    # date_kind (festival-only flag, owner decision 2026-10-27) is
+    # recomputed by every refresh: a title that gains a theatrical
+    # date flips festival -> release, and vice versa. It is a
+    # non-empty string either way, so the "never blank" safeguard
+    # never blocks it.
 }
 TMDB_FIELDS_TV = {
     "title", "poster_path", "backdrop_path", "vote_average",
@@ -299,3 +304,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

@@ -58,8 +58,11 @@
      vote_count desc, then nearest date). The rail shows the first 6;
      this page shows ALL of them — that is what "See All" means.
      Movies only (owner order 2026-10-27) — TV series live in OTT. */
+  /* Festival-only titles (date_kind="festival", owner decision
+     2026-10-27) stay upcoming even when the festival date has
+     passed — a festival premiere is not a release. */
   const upcomingAll = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.id && x.poster_path && dateOf(x) > today)
+    .filter(x => x && x.id && x.poster_path && (dateOf(x) > today || x.date_kind === "festival"))
     .sort((a, b) => (b.vote_average || 0) - (a.vote_average || 0)
       || (b.vote_count || 0) - (a.vote_count || 0)
       || dateOf(a).localeCompare(dateOf(b)));
@@ -84,6 +87,7 @@
      sections with different dropdown counts. */
   render();
 })();
+
 
 
 
