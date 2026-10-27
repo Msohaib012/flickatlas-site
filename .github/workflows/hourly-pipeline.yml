@@ -544,10 +544,10 @@ jobs:
       # keeps working until the secret is added.
       - name: Deploy to Cloudflare
         id: cfdeploy
-        if: steps.commit.outputs.committed == 'true'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: python3 scripts/cloudflare_deploy.py
+
 
 
 

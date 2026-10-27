@@ -1,0 +1,28 @@
+# Deploy now — panel "Deploy now" target.
+# workflow_dispatch only, no content steps: checks out main and deploys
+# it to Cloudflare via scripts/cloudflare_deploy.py. Cloudflare has no
+# deploy cap, so this is safe to run any time. Completes in minutes.
+# Concurrency group flickatlas-site-writes keeps it serialized against
+# the pipeline and the per-step workflows.
+name: Deploy now
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Deploy to Cloudflare
+        id: cfdeploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python3 scripts/cloudflare_deploy.py

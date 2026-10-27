@@ -1,0 +1,59 @@
+# Overseas AI gap-filler (standalone dispatch) — mirrors
+# hourly-pipeline.yml step 5d (Overseas AI gap-filler) exactly: same env,
+# same invocation with the same fallback, same commit + deploy tail.
+# NOTE: this step only writes out/boxoffice-staging/overseas-ai.json;
+# the figures are averaged into js/daywise-data.js by the box-office
+# engine (step 6 / boxoffice.yml) on its next run, so a standalone
+# overseas dispatch should be followed by a boxoffice dispatch (or the
+# next hourly run) for the figures to reach the site.
+name: Overseas AI gap-filler
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  overseas:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Overseas AI gap-filler
+        id: overseas
+        continue-on-error: true
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+        run: python3 scripts/overseas_ai.py --out out/boxoffice-staging/overseas-ai.json || echo "overseas-ai failed/missing, continuing"
+      - name: Commit if changed
+        id: commit
+        if: always()
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: bash scripts/commit_with_retry.sh
+      - name: Deploy to Cloudflare
+        id: cfdeploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python3 scripts/cloudflare_deploy.py

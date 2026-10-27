@@ -1,0 +1,65 @@
+# Box office (standalone dispatch) — mirrors hourly-pipeline.yml step 6
+# (Multi-source box office) exactly, except the sacnilk / tavily gates
+# are dropped: a manual dispatch IS the request to run them, so both
+# readers run unconditionally here (in the hourly file they run on the
+# 02/08/14/20 UTC and 08:00/18:00 UTC gates). All other reader
+# invocations, fallbacks, env and the commit + deploy tail are copied
+# verbatim from hourly-pipeline.yml.
+# NOTE: scripts/varanasiboxoffice_boxoffice.py does not exist on main
+# yet — the hourly step already tolerates that via its `|| echo`
+# fallback, and this copy inherits the same fallback.
+name: Box office
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  boxoffice:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Multi-source box office
+        id: multisource
+        continue-on-error: true
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: |
+          mkdir -p out/boxoffice-staging
+          python3 scripts/sacnilk_boxoffice.py --apply --stage out/boxoffice-staging || echo "sacnilk stage failed, continuing with existing staging"
+          python3 scripts/fnn_boxoffice.py --stage out/boxoffice-staging || echo "filmynewsnetwork reader failed/missing, continuing"
+          python3 scripts/wp_boxoffice.py --stage out/boxoffice-staging --reviews-out out/bmr-reviews.json || echo "wordpress reader failed/missing, continuing"
+          python3 scripts/bollybourse_boxoffice.py --stage out/boxoffice-staging || echo "bollybourse reader failed/missing, continuing"
+          python3 scripts/moviemint_boxoffice.py --stage out/boxoffice-staging || echo "moviemint reader failed/missing, continuing"
+          python3 scripts/filmibeat_boxoffice.py --stage out/boxoffice-staging || echo "filmibeat reader failed/missing, continuing"
+          python3 scripts/varanasiboxoffice_boxoffice.py --stage out/boxoffice-staging || echo "varanasiboxoffice reader failed/missing, continuing"
+          python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging || echo "tavily gap-filler failed/missing, continuing"
+          python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
+      - name: Commit if changed
+        id: commit
+        if: always()
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: bash scripts/commit_with_retry.sh
+      - name: Deploy to Cloudflare
+        id: cfdeploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python3 scripts/cloudflare_deploy.py

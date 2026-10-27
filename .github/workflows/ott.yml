@@ -1,0 +1,45 @@
+# OTT data rebuild (standalone dispatch) — mirrors hourly-pipeline.yml
+# step 5b (Rebuild OTT data) exactly: same invocation, no env, same
+# commit + deploy tail.
+name: OTT rebuild
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  ott:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild OTT data
+        id: ott
+        continue-on-error: true
+        run: python3 scripts/build_ott.py || echo "ott-data rebuild failed, continuing"
+      - name: Commit if changed
+        id: commit
+        if: always()
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: bash scripts/commit_with_retry.sh
+      - name: Deploy to Cloudflare
+        id: cfdeploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: python3 scripts/cloudflare_deploy.py
