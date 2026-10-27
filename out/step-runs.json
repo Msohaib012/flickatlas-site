@@ -195,6 +195,45 @@
      "detail": "164 stories, 0 duplicates removed, 86 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:52:00Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": {
+     "candidates": 236,
+     "detail": "RSS/Atom items across 139 sources; 17 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Vardhaan Puri to star in Param Veer, a film based on the 1971 Battle of Gangasagar",
+      "Bigg Boss 20 Fight Alert: Gullu Gets Into Ugly Fight With Yung DSA; Latter Says 'Tere Jaise Ko Salary Pe...'",
+      "Param Veer: Vardhaan Puri Excited To Lead War Film; Calls It 'Tribute To Bravehearts Who Shaped Our History'",
+      "Love In Disguise Episode 4 Ending TWIST: Did Yi Jun Really Fire Jae Hui? Duo's Drunk Moment Leads To A Kiss?",
+      "photos ananya panday sizzles in a red hot look 86822.html",
+      "janhvi kapoor reveals how shikhar pahariya supported her after sridevis death 86823.html",
+      "ranbir kapoor has a witty take on why sai pallavi chose acting over medicine 86821.html",
+      "shah rukh khans new king poster released karan johar and other celebs react 86818.html",
+      "photos khushi kapoor brings a modern twist to festive fashion in purple for a pre diwali party 86816.html",
+      "Susan Saint James, Emmy-winning star of 'The Name of the Game', passes away at 80",
+      "Vishal's injury on the sets of 'Purushan' EXPLAINED",
+      "Yeh Rishta Kya Kehlata Hai actor Navika Kotia calls off engagement to entrepreneur Mazen Mody; he is now dating Ritika Badiani",
+      "Akshay Kumar's 32-year-old film to clash with Ramayana, Mumbai may miss out",
+      "janhvi kapoor reveals shikhar pahariya put studies on hold to be by her side after sridevis death",
+      "actress sweta keswani said wont sleep for work director asked to meet at night casting couch tmovh 2681579 2026 10 27",
+      "karwa chauth free mehndi mela mehrauli delhi registeration ladies scheme festival mmtm 2681670 2026 10 27",
+      "in case she needs me janhvi kapoor reveals shikhar pahariya put his london studies on hold after sridevis death article 156416967",
+      "kutle khan addresses shilpa raos abruptly cut short concert the trolling and negativity are very unfortunate article 156417220",
+      "bigg boss 20 love gill breaks down again says meri baat mat karo scoutop ki girlfriend kaashvi ko bura lagega article 156417074",
+      "Maggie Sajak Penned A Sweet Tribute To Her Father Pat For His 80th Birthday (With Adorable Videos)"
+     ],
+     "updated": [],
+     "count": 161,
+     "detail": "164 stories, 1 duplicates removed, 72 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -275,6 +314,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T13:55:04Z",
     "run_id": "40515635206",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:52:01Z",
+    "run_id": "40525028552",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -379,6 +436,24 @@
      "detail": "now 5, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T14:52:01Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": {
+     "candidates": 10,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 5, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -443,6 +518,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T14:00:22Z",
     "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -539,6 +624,24 @@
      "detail": "+0 new rows, 11 updated rows, 127 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-27T14:59:41Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": {
+     "candidates": 142,
+     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 75,
+     "detail": "+0 new rows, 75 updated rows, 67 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -596,6 +699,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T14:00:22Z",
     "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -692,6 +805,24 @@
      "detail": "api-news.json 87 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:59:43Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": {
+     "candidates": 87,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 87 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -755,6 +886,16 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
@@ -845,6 +986,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -897,6 +1048,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "overseas_ai": [
@@ -945,6 +1106,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T14:00:22Z",
     "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1006,6 +1177,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_traffic": [
@@ -1083,6 +1264,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 25,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -1140,6 +1336,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -1188,6 +1394,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T14:00:22Z",
     "run_id": "40515635206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1244,8 +1460,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-27T14:59:52Z",
+    "run_id": "40525028552",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T14:00:22Z"
+ "updated_at": "2026-10-27T14:59:52Z"
 }
