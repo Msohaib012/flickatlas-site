@@ -59,7 +59,8 @@ stage_all() {
   for f in out/gemini-batch.json out/bmr-reviews.json out/processed.json out/auto-feed.json \
            out/episodes.json out/episode-feed.json out/publish-export.json \
            out/queue.json out/seen.json out/state.json out/report.json \
-           out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json; do
+           out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json \
+           out/daily-history.json; do
     [ -f "$f" ] && git add "$f"
   done
   [ -e out/categories ] && git add out/categories || true
