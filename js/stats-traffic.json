@@ -1,101 +1,101 @@
 {
   "connected": true,
-  "generated": "2026-10-26T23:02:18Z",
+  "generated": "2026-10-27T01:02:45Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 2,
-    "pageviews": 11,
-    "sessions": 2,
-    "avg_session_seconds": 1755.4
+    "users": 3,
+    "pageviews": 91,
+    "sessions": 5,
+    "avg_session_seconds": 1359.1
   },
   "last7": {
-    "users": 14,
-    "pageviews": 353,
-    "sessions": 34,
-    "avg_session_seconds": 1192.9
+    "users": 15,
+    "pageviews": 433,
+    "sessions": 37,
+    "avg_session_seconds": 1184.9
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 96,
-      "avg_time_seconds": 1163.3
+      "views": 107,
+      "avg_time_seconds": 1198.1
     },
     {
       "path": "/movie",
       "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-      "views": 57,
-      "avg_time_seconds": 324.2
+      "views": 75,
+      "avg_time_seconds": 304.2
     },
     {
       "path": "/news-item",
       "title": "News Story | FlickAtlas",
-      "views": 44,
-      "avg_time_seconds": 271.5
+      "views": 56,
+      "avg_time_seconds": 253.3
     },
     {
       "path": "/movies",
       "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
-      "views": 27,
-      "avg_time_seconds": 178.9
+      "views": 33,
+      "avg_time_seconds": 164.4
     },
     {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
-      "views": 22,
-      "avg_time_seconds": 12.4
+      "views": 23,
+      "avg_time_seconds": 11.2
     },
     {
       "path": "/show",
       "title": "TV Show Details — Seasons, Cast & Story | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 21.8
+      "views": 17,
+      "avg_time_seconds": 19.9
+    },
+    {
+      "path": "/upcoming",
+      "title": "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 20.4
     },
     {
       "path": "/episode-guides",
       "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
-      "views": 11,
-      "avg_time_seconds": 13.6
+      "views": 13,
+      "avg_time_seconds": 12.9
     },
     {
       "path": "/flickatlas-site/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 11,
+      "views": 12,
       "avg_time_seconds": 4.8
     },
     {
       "path": "/news",
       "title": "Industry News & Updates — Releases, Box Office Milestones & Premieres | FlickAtlas",
-      "views": 9,
-      "avg_time_seconds": 7.1
-    },
-    {
-      "path": "/upcoming",
-      "title": "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
-      "views": 8,
-      "avg_time_seconds": 13.3
+      "views": 10,
+      "avg_time_seconds": 6.9
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 34,
-      "users": 14
+      "sessions": 37,
+      "users": 15
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 8,
+      "sessions": 9,
       "users": 2
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 8
+      "users": 9
     },
     {
       "country": "",
@@ -125,7 +125,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 9
+      "users": 10
     },
     {
       "device": "mobile",

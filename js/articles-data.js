@@ -6240,5 +6240,468 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-26T14:45:34Z"
+  },
+  "1vz5hi7": {
+    "id": "1vz5hi7",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 12: Rajinikanth Starrer Earns Rs 9.45 Cr on Monday",
+    "dek": "Rajinikanth's action entertainer Jailer 2 witnessed a decline in earnings on its second Monday, crossing the Rs 400 crore domestic net milestone while its worldwide gross reached Rs 733.35 crore.",
+    "body": [
+      {
+        "h": "Second Monday Box Office Decline",
+        "p": [
+          "The action-packed drama Jailer 2 experienced a noticeable drop in ticket sales as it entered its second Monday, collecting Rs 9.45 crore in India net earnings. This figure represents a 63.2% decline compared to the previous day's reported earnings of Rs 25.70 crore.",
+          "Despite the weekday slowdown across its 10,450 shows, the movie managed to surpass a major box office threshold by crossing the Rs 400 crore domestic net milestone."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Global Gross",
+        "p": [
+          "With the latest figures added to its tally, the cumulative domestic gross for Jailer 2 stands at an impressive Rs 477.85 crore. Meanwhile, international markets continue to bolster the project's financial run.",
+          "Overseas box office collections contributed an additional Rs 2.50 crore on Monday, pushing the cumulative overseas gross to a notable Rs 255.50 crore and bringing the worldwide gross to a staggering Rs 733.35 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version of the film remained the primary driver of revenue, bringing in Rs 5.65 crore across 4,518 shows with an overall occupancy of 26.31%. Telugu screenings followed, contributing Rs 2 crore from 1,771 shows.",
+          "The Hindi language version added Rs 1.40 crore through 3,949 screenings, while the Kannada version contributed 40 lakhs from 212 shows, demonstrating varied regional engagement across the country."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Across Screenings",
+        "p": [
+          "Audience turnout varied throughout the day across different languages. The Tamil screenings recorded 17.85% in the morning, climbing to 26.92% in the afternoon, 31.15% in the evening, and concluding with 29.31% at night.",
+          "Meanwhile, Hindi language screenings saw lower overall engagement starting at 9.83% in the morning and reaching 16.08% at night, whereas Telugu shows maintained steady numbers ranging from 13.67% in the morning to 21.17 during the night slots."
+        ]
+      },
+      {
+        "h": "State-Wise Gross Contributions",
+        "p": [
+          "State-level data highlighted strong regional support led by Tamil Nadu, which generated Rs 4 crore in gross earnings on Monday. Karnataka followed closely as a major contributor with Rs 2.35 crore.",
+          "Other regions also added to the daily total, with Andhra Pradesh and Telangana combining for Rs 1.90 crore, Kerala contributing Rs 1.25 crore, and remaining Indian markets adding Rs 1.50 crore to reach a tracked state-wise gross total of Rs 11 crore."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Footfall Statistics",
+        "p": [
+          "Directed by filmmaker Nelson Dilipkumar, the film features an ensemble cast including superstar Rajinikanth, Ramya Krishnan, Mohanlal, Yogi Babu, Vinayakan, Vidya Balan, Hrithik Roshan, Jackie Shroff, Shivarajkumar, and Vijay Sethupathi.",
+          "The technical crew features music composer Anirudh Ravichander, cinematographer Vijay Kartik Kannan, and editor R. Nirmal. During Monday alone, the project recorded 714,175 ticket sales, lifting cumulative theatrical footfalls to 27,139,185."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 saw a sharp drop in collections on its second Monday, pulling in Rs 9.45 crore in India net earnings. Despite the weekday slowdown following a strong second weekend, the action entertainer pushed its domestic net past the Rs 400 crore mark and its worldwide gross to Rs 733.35 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth's 'Jailer 2' earned Rs 9.45 cr on Monday, October 26.",
+      "Worldwide gross reached Rs 733.35 cr.",
+      "India net earnings crossed the Rs 400 cr milestone.",
+      "India gross collection stands at Rs 477.85 cr.",
+      "Tamil screenings earned Rs 5.65 cr.",
+      "Telugu shows earned Rs 2 cr.",
+      "Hindi version contributed Rs 1.40 cr.",
+      "Kannada added Rs 40 lakhs.",
+      "Overseas markets generated Rs 2.50 cr on Monday.",
+      "Cumulative overseas gross reached Rs 255.50 cr.",
+      "Ticket sales reached 714,175 during the day with total footfalls at 27,139,185.",
+      "Domestic net collection dropped 63.2% from Sunday's Rs 25.70 cr.",
+      "Monday occupancy across all languages stood at 19.8%.",
+      "Film opened in theatres on October 15 with Rs 59.70 cr.",
+      "Opening week accumulated Rs 334.35 cr.",
+      "Second weekend collected Rs 14.50 cr on Friday, October 23, and Rs 24.15 cr on Saturday.",
+      "Sunday domestic net collection was Rs 25.70 cr.",
+      "Tamil Nadu generated Rs 4 cr in gross earnings on Monday.",
+      "Karnataka contributed Rs 2.35 cr.",
+      "Andhra Pradesh and Telangana accounted for Rs 1.90 cr.",
+      "Kerala added Rs 1.25 cr.",
+      "Remaining Indian markets contributed Rs 1.50 cr.",
+      "Tracked state-wise gross total was Rs 11 cr.",
+      "Directed by Nelson Dilipkumar.",
+      "Cast includes Rajinikanth, Ramya Krishnan, Mohanlal, Yogi Babu, Vinayakan, Vidya Balan, Hrithik Roshan, Jackie Shroff, Shivarajkumar, and Vijay Sethupathi.",
+      "Cinematography by Vijay Kartik Kannan, music by Anirudh Ravichander, and editing by R. Nirmal."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Ramya Krishnan",
+        "Mohanlal",
+        "Yogi Babu",
+        "Vinayakan",
+        "Vidya Balan",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Shivarajkumar",
+        "Vijay Sethupathi",
+        "Vijay Kartik Kannan",
+        "Anirudh Ravichander",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135221911,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 12: Rajinikanth Starrer Earns Rs 9.45 Cr on Monday",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-27T05:31:39+05:30"
+  },
+  "1bbivss": {
+    "id": "1bbivss",
+    "type": "news",
+    "headline": "Takashi Yamazaki Set to Direct English-Language Debut 'Grandgear' for Sony Pictures",
+    "dek": "The Oscar-winning filmmaker behind the Godzilla franchise is stepping into English-language cinema with a new project produced by J.J. Abrams.",
+    "body": [
+      {
+        "h": "The Directorial Transition",
+        "p": [
+          "Takashi Yamazaki, the celebrated Japanese filmmaker known for his Oscar-winning work, is preparing to step into English-language filmmaking. He has signed on to direct an upcoming feature titled Grandgear for Sony Pictures. This project marks a major milestone in his career as he transitions to Hollywood storytelling.",
+          "Yamazaki previously captured global attention and secured an Academy Award for visual effects on Godzilla Minus One. His distinct creative vision has cemented his status as a prominent international director."
+        ]
+      },
+      {
+        "h": "Production Team and Creative Control",
+        "p": [
+          "The production of Grandgear brings together notable industry heavyweights. J.J. Abrams is producing the movie through his company Robot, working alongside fellow producer Glen Zipper.",
+          "In addition to his directing duties, Yamazaki penned the original screenplay for the film. Despite the high-profile team involved, exact plot details remain heavily guarded and undisclosed to the public."
+        ]
+      },
+      {
+        "h": "Casting and Talent Lineup",
+        "p": [
+          "The project has begun assembling a talented ensemble cast. Sam Nivola and Nico Parker have officially joined the ongoing production of Grandgear.",
+          "Furthermore, Paul Giamatti is currently in discussions to join the cast. Giamatti has been generating awards buzz for his starring role in A24’s The Debut."
+        ]
+      },
+      {
+        "h": "Background of the Filmmaker",
+        "p": [
+          "Takashi Yamazaki made history in 2024 by becoming the first director to win the Academy Award for visual effects since Stanley Kubrick. This historic achievement followed the massive global success of Godzilla Minus One, which hauled 113 million dollars worldwide.",
+          "Following that breakout hit, Yamazaki directed the upcoming sequel Godzilla Minus Zero. That follow-up feature is scheduled for a United States theatrical release on November 6 through GKids."
+        ]
+      },
+      {
+        "h": "Profile of Cast Member Sam Nivola",
+        "p": [
+          "Cast addition Sam Nivola brings a strong resume to Grandgear. He previously earned an Actor Award nomination for his performance in The White Lotus and has appeared in White Noise and Maestro.",
+          "Additionally, Nivola stars in the mystery series Phony on Hulu, which recently premiered its episodes in the United States."
+        ]
+      },
+      {
+        "h": "Profile of Cast Member Nico Parker",
+        "p": [
+          "Co-star Nico Parker brings her own slate of recent accolades to the production. She won the 2024 Sundance US Dramatic special jury award for breakthrough performance in Searchlight’s Suncoast.",
+          "Parker was also nominated for a supporting actress Bafta for her work in the HBO series The Last Of Us. Beyond television, she played the female lead in the live-action adaptation of How To Train Your Dragon for DreamWorks Animation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Oscar-winning director Takashi Yamazaki is set to make his English-language film debut with Grandgear for Sony Pictures, produced by J.J. Abrams and Glen Zipper. The production has added Sam Nivola and Nico Parker to its cast, with Paul Giamatti also in talks to join."
+        ]
+      }
+    ],
+    "facts": [
+      "Takashi Yamazaki won a visual effects Oscar for Godzilla Minus One in 2024.",
+      "Godzilla Minus One grossed $113m worldwide.",
+      "Godzilla Minus Zero is scheduled to open in the US on November 6 through GKids.",
+      "Sam Nivola and Nico Parker have joined the production of Grandgear.",
+      "Paul Giamatti is in talks to join the cast of Grandgear."
+    ],
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "J.J. Abrams",
+        "Sam Nivola",
+        "Nico Parker",
+        "Paul Giamatti",
+        "Glen Zipper",
+        "Stanley Kubrick"
+      ],
+      "titles": [
+        "Grandgear",
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "The Debut",
+        "The White Lotus",
+        "White Noise",
+        "Maestro",
+        "Phony",
+        "Suncoast",
+        "The Last Of Us",
+        "How To Train Your Dragon"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/9/1/1490791_yamazaki_takashi_from__godzilla_minus_one__at_red_carpet_of_the_tokyo_international_film_festival_2023_53348355520_cropped_2_8912_crop.jpg",
+        "caption": "Takashi Yamazaki Set to Direct English-Language Debut 'Grandgear' for Sony Pictures",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Mon, 26 Oct 2026 23:38:00 GMT"
+  },
+  "1hplk5k": {
+    "id": "1hplk5k",
+    "type": "news",
+    "headline": "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
+    "dek": "Director Takashi Yamazaki is bringing his upcoming American feature Grandgear to life with newly confirmed leads Sam Nivola and Nico Parker, alongside Paul Giamatti.",
+    "body": [
+      {
+        "h": "Main Cast Confirmed for Grandgear",
+        "p": [
+          "The upcoming science-fiction blockbuster Grandgear has officially locked in its primary starring roles. Following reports from Deadline, actors Sam Nivola and Nico Parker have been confirmed to headline the feature. Additionally, veteran actor Paul Giamatti is currently in negotiations to join the production.",
+          "This high-profile project marks the American directorial debut for Takashi Yamazaki. Yamazaki is handling multiple creative duties on the film, serving simultaneously as writer, director, and producer for the original sci-fi endeavor."
+        ]
+      },
+      {
+        "h": "Production Teams and Release Plans",
+        "p": [
+          "Behind the scenes, Grandgear brings together major industry production houses. J.J. Abrams and his company Bad Robot are on board to produce alongside Glen Zipper. Sony Pictures has already claimed a definitive theatrical release date for the movie.",
+          "The studio scheduled the sci-fi project to premiere on January 14, 2028. Principal photography for the film is slated to begin in 2027, paving the way for its eventual arrival on the big screen."
+        ]
+      },
+      {
+        "h": "Action-Packed Sci-Fi Vibe",
+        "p": [
+          "While specific narrative details remain tightly under wraps, early promotional material has offered a glimpse into the visual style of the film. Teaser footage shown at CinemaCon 2026 revealed towering mechanical units that drew stylistic comparisons to Pacific Rim and Transformers.",
+          "Industry descriptions have characterized the project as a full-scale science fiction spectacle. Notably, the narrative is constructed to unfold through a grounded perspective."
+        ]
+      },
+      {
+        "h": "Background on Director Takashi Yamazaki",
+        "p": [
+          "Takashi Yamazaki enters this American production on the heels of major international success. He directed the critically acclaimed smash hit Godzilla Minus One and returned to helm the follow-up feature, Godzilla Minus Zero.",
+          "His latest kaiju sequel focuses on Godzilla confronting his arch-enemy King Ghidorah. That film generated widespread critical praise following its New York Film Festival premiere on September 26, 2026, holding a 96% score on Rotten Tomatoes ahead of its theatrical debut on November 6, 2026."
+        ]
+      },
+      {
+        "h": "Background on Sam Nivola",
+        "p": [
+          "Lead actor Sam Nivola brings a variety of television and film credits to Grandgear. He is recognized by audiences for portraying Lochlan Ratliff during the third season of White Lotus.",
+          "His filmography includes appearances in Eileen and Maestro, alongside his role in the Hulu original series Phony. He comes from an artistic family as the son of actors Emily Mortimer and Alessandro Nivola."
+        ]
+      },
+      {
+        "h": "Background on Nico Parker",
+        "p": [
+          "Co-star Nico Parker has built a notable resume across major film and television properties. She recently portrayed Astrid Hofferson in How to Train Your Dragon and is set to reprise that character in the sequel scheduled for June 11, 2027.",
+          "Her past credits feature roles in Dumbo, Bridget Jones: Mad About the Boy, and Sarah Miller in HBO's adaptation of The Last of Us. She is the daughter of actor Thandiwe Newton and director Ol Parker."
+        ]
+      },
+      {
+        "h": "Background on Paul Giamatti",
+        "p": [
+          "Actor Paul Giamatti, who is in talks to join the cast, is celebrated for numerous acclaimed performances. His career features prominent turns in American Splendor, Sideways, Straight Outta Compton, and The Holdovers.",
+          "Recently, Giamatti appeared as the primary villain in the first season of Star Trek: Starfleet Academy. He will also star alongside Julianne Moore in The Debut, which opens on December 11, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Takashi Yamazaki has officially set Sam Nivola and Nico Parker to star in his upcoming sci-fi blockbuster Grandgear, with PaulGiamatti in talks to join. Produced by Bad Robot and slated for a January 14, 2028 release by Sony Pictures, the film promises giant mech action akin to Pacific Rim."
+        ]
+      }
+    ],
+    "facts": [
+      "Grandgear is directed by Takashi Yamazaki.",
+      "Sam Nivola and Nico Parker have been cast in lead roles for Grandgear.",
+      "Paul Giamatti is in talks to join Grandgear.",
+      "Grandgear will be released on January 14, 2028, by Sony Pictures.",
+      "Production for Grandgear is scheduled to begin in 2027.",
+      "Godzilla Minus Zero premiered at the New York Film Festival on September 26, 2026.",
+      "Godzilla Minus Zero releases in theaters on November 6, 2026.",
+      "How to Train Your Dragon 2 is set for release on June 11, 2027.",
+      "The Debut is set for release on December 11, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Richard Fink",
+        "Takashi Yamazaki",
+        "J.J. Abrams",
+        "Glen Zipper",
+        "Sam Nivola",
+        "Nico Parker",
+        "Paul Giamatti",
+        "Julianne Moore",
+        "Emily Mortimer",
+        "Alessandro Nivola",
+        "Thandiwe Newton",
+        "Ol Parker"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "Grandgear",
+        "American Splendor",
+        "Sideways",
+        "Straight Outta Compton",
+        "The Holdovers",
+        "Star Trek: Starfleet Academy",
+        "The Debut",
+        "White Lotus",
+        "Eileen",
+        "Maestro",
+        "Phony",
+        "Lars and the Real Girl",
+        "The Brutalist",
+        "How to Train Your Dragon",
+        "How to Train Your Dragon 2",
+        "Dumbo",
+        "Bridget Jones: Mad About the Boy",
+        "The Last of Us",
+        "Westworld",
+        "Office Romance"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/09/godzilla-minus-zero.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 00:09:23 GMT"
+  },
+  "1gyfb7s": {
+    "id": "1gyfb7s",
+    "type": "news",
+    "headline": "Disney+ and Channel 4 Announce Landmark UK Partnership Including Linear Network Integration",
+    "dek": "A major new collaboration will bring Channel 4 shows and its live linear network to Disney+ subscribers across the UK and Ireland starting next year.",
+    "body": [
+      {
+        "h": "A Historic Streaming and Linear Agreement",
+        "p": [
+          "Disney and Channel 4 have officially finalized a groundbreaking content partnership tailored for the UK and Ireland. Under this newly forged agreement, a selection of notable Channel 4 programming will become accessible directly through the Disney+ platform starting at the beginning of next year.",
+          "In what marks a true first for the UK television market, the deal goes beyond on-demand content by making the entire Channel 4 linear network available for streaming within Disney+. Viewers will experience day-and-date access alongside hundreds of hours of on-demand entertainment."
+        ]
+      },
+      {
+        "h": "Key Titles Featured in the Partnership",
+        "p": [
+          "Subscribers can look forward to watching high-profile Channel 4 series as part of the initial rollout. Confirmed highlights heading to the platform include the enduring reality favorite Celebrity SAS: Who Dares Wins and the highly anticipated drama Maya, which stars Bella Ramsey.",
+          "The catalog expansion will also incorporate hundreds of hours of on-demand titles. Among these are Russell T. Davies' Tip Toe and Nicola Coughlan's Big Mood, ensuring a diverse array of contemporary British storytelling for platform users."
+        ]
+      },
+      {
+        "h": "Demographic Synergy and Audience Reach",
+        "p": [
+          "Channel 4 CEO Priya Dogra noted that public service broadcasters and streaming giants like Disney possess minimal audience overlap, creating a naturally complementary dynamic. Audiences build unique viewing habits across multiple platforms, making widespread availability essential.",
+          "Karl Holmes, Disney+ EMEA general manager, pointed out that Disney+ commands a notably younger demographic. Approximately forty percent of the streaming service's viewership over the past year has originated from individuals aged 16 to 34."
+        ]
+      },
+      {
+        "h": "Building on European Expansion Strategies",
+        "p": [
+          "This latest pact follows a pattern established over a year ago when Disney+ initiated local network collaborations in Europe. A previous content-swapping arrangement with ITV brought shows like The Bear to ITVX while routing titles like Love Island to Disney.",
+          "Following similar agreements with Germany's ZDF and Spain's Atresmedia, executives confirmed that the Channel 4 alliance is broader in scope. The team utilized lessons learned from the ITV partnership to prioritize current, high-impact, buzzy programming."
+        ]
+      },
+      {
+        "h": "Strategic Vision for Industry Ecosystems",
+        "p": [
+          "For Priya Dogra, who assumed her role less than a year ago, this collaboration represents her latest major strategic maneuver. It follows a significant advertising arrangement with the Skydance UK network 5 and discussions regarding broader multi-platform visibility.",
+          "Dogra emphasized the necessity of engaging with the wider media ecosystem rather than attempting to build scale independently in every sector. Partnering with aligned organizations allows the network to maximize its reach across the UK and Ireland."
+        ]
+      },
+      {
+        "h": "Future Outlook and Rollout Plans",
+        "p": [
+          "While exact numerical quotas for future incoming titles were not specified, Karl Holmes indicated that a steady, regular tempo of new Channel 4 releases will populate the platform following the initial launch early next year.",
+          "Both companies intend to build further upon this initial collaboration in the years ahead. Additional specifics concerning the rollout and specific programming schedules will be disclosed by the companies in due course."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney and Channel 4 have established a landmark content and linear network deal for the UK and Ireland, bringing shows like Maya and Celebrity SAS: Who Dares Wins to Disney+ starting next year. Executives from both companies highlighted the non-overlapping, complementary nature of their audiences as a driving force behind the partnership. This agreement expands on Disney's previous European network collaborations while supporting Channel 4's strategy to broaden its reach across diverse viewing platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Disney and Channel 4 struck a UK content deal.",
+      "The Channel 4 linear network will become available on Disney+ in a UK first.",
+      "Shows like Celebrity SAS: Who Dares Wins and Maya will drop on Disney+ at the start of next year.",
+      "The deal covers the UK and Ireland.",
+      "Karl Holmes is the Disney+ EMEA general manager.",
+      "Priya Dogra is the Channel 4 CEO.",
+      "Disney+ viewing skews younger, with around 40% of viewing over the past year coming from 16-34 year olds.",
+      "Channel 4 already licenses Disney content like Abbott Elementary, The X Files, and Scandal.",
+      "Disney previously struck a content-swapping deal with ITV.",
+      "Dogra has been in post less than a year."
+    ],
+    "entities": {
+      "people": [
+        "Max Goldbart",
+        "Nicola Coughlan",
+        "Christiane Amanpour",
+        "Tina Brown",
+        "Daisy Haggard",
+        "Bella Ramsey",
+        "Karl Holmes",
+        "Russell T. Davies",
+        "Priya Dogra",
+        "Ted Sarandos",
+        "Alan Ritchson",
+        "Keanu Reeves",
+        "Adam Brody",
+        "Takashi Yamazaki",
+        "J.J. Abrams",
+        "George Clooney",
+        "Betty Gilpin",
+        "Adam Scott",
+        "Laverne Cox",
+        "Clark Gregg",
+        "Alan Dysert",
+        "Indio Downey",
+        "Jack Falahee",
+        "Saphira Moran",
+        "Jackie Earle Haley"
+      ],
+      "titles": [
+        "I Am Helen",
+        "The Ex Files",
+        "Maya",
+        "Celebrity SAS: Who Dares Wins",
+        "Coven Academy",
+        "Tip Toe",
+        "Big Mood",
+        "Gogglebox",
+        "Abbott Elementary",
+        "The X Files",
+        "Scandal",
+        "The Bear",
+        "The Kardashians",
+        "Love Island",
+        "Mr Bates vs the Post Office",
+        "Maelstrom",
+        "Nobody Wants This",
+        "Baywatch",
+        "Grandgear",
+        "Godzilla Minus One",
+        "Smear",
+        "All My Children",
+        "Love In Vein",
+        "American Psycho",
+        "Fuxi: Four Tales Of Feasting",
+        "The Block"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/06/Maya-2.jpg?w=1024",
+        "caption": "Disney+ and Channel 4 Announce Landmark UK Partnership Including Linear Network Integration",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 27 Oct 2026 00:01:00 +0000"
   }
 };
