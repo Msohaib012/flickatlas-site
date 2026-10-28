@@ -253,28 +253,6 @@
     "notes": "Entertainment RSS verified by channel title ('Entertainment - Times of India') with items dated 23 Oct 2026 — one of the freshest feeds in the registry."
   },
   {
-    "name": "Bollywood Life",
-    "url": "https://www.bollywoodlife.com",
-    "scopes": [
-      "Bollywood / India",
-      "Celebrity Daily — India"
-    ],
-    "data_types": [
-      "entertainment news",
-      "celebrity news",
-      "TV news"
-    ],
-    "rss": null,
-    "rss_newest": null,
-    "sitemap": null,
-    "site_loads": false,
-    "http_status": 0,
-    "verified": "2026-10-23",
-    "day_wise": null,
-    "day_wise_exposure": null,
-    "notes": "UNREACHABLE from the verification network: connection failure (status 0) on homepage, feed and sitemap across repeated attempts. A major India Today Group entertainment brand and alive — browser/manual reference only; feed NOT verified."
-  },
-  {
     "name": "Tellychakkar",
     "url": "https://www.tellychakkar.com",
     "scopes": [
@@ -2515,27 +2493,6 @@
     "day_wise": null,
     "day_wise_exposure": null,
     "notes": "Web arm of the ET TV franchise — credential-first ledes, long quote-block articles and section feeds (Latest Stories / TV / Movies / Music listed at /rss). Homepage and news feed verified live and fresh."
-  },
-  {
-    "name": "Diva Magazine Pakistan",
-    "url": "https://www.divamagazine.pk",
-    "scopes": [
-      "Celebrity Daily — Pakistan"
-    ],
-    "data_types": [
-      "celebrity news",
-      "events",
-      "lifestyle"
-    ],
-    "rss": null,
-    "rss_newest": null,
-    "sitemap": null,
-    "site_loads": false,
-    "http_status": 0,
-    "verified": "2026-10-23",
-    "day_wise": null,
-    "day_wise_exposure": null,
-    "notes": "UNREACHABLE from the verification network: connection failure (000) on https and http, www and bare domain, repeated attempts. Not counted as verified — recheck from another network before relying on it."
   },
   {
     "name": "Something Haute",

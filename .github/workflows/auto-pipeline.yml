@@ -47,7 +47,7 @@ jobs:
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          BATCH_SIZE: '4'
+          BATCH_SIZE: '2'
           DAILY_CAP: '40'
           RANK_COUNT: '100'
         run: python3 scripts/gemini_batch.py
@@ -68,23 +68,12 @@ jobs:
             find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
           fi
       - name: Commit if changed
-        run: |
-          git config user.name "Msohaib012"
-          git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js js/daywise-data.js api-news.json api-trends.json
-          # out/ batch files may not exist yet on the first run (no Gemini
-          # keys -> batch skips); git add fails on a missing pathspec, so
-          # add them one at a time, tolerating absence.
-          for f in out/gemini-batch.json out/processed.json out/auto-feed.json; do
-            [ -f "$f" ] && git add "$f"
-          done
-          git add -A -- '*.html'
-          if ! git diff --cached --quiet; then
-            git commit -m "auto: gemini batch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
-          fi
-
-
-
-
+        # Commit-with-retry (stall fix 2026-10-28): on conflict the articles
+        # regenerate via apply-auto.py from this run's out/gemini-batch.json
+        # (gemini_batch.py is deliberately NOT re-run — no double cap spend).
+        env:
+          RETRY_ADD: "js/articles-data.js js/daywise-data.js api-news.json api-trends.json out/gemini-batch.json out/processed.json out/auto-feed.json"
+          RETRY_REGEN: "python3 scripts/apply-auto.py && python3 scripts/convert-news.py"
+          RETRY_MESSAGE: "auto: gemini batch"
+          RETRY_HTML_BUMP: "1"
+        run: bash scripts/commit_with_retry_standalone.sh

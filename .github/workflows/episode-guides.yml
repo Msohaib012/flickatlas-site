@@ -71,22 +71,24 @@ jobs:
             find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
           fi
       - name: Commit if changed
-        run: |
-          git config user.name "Msohaib012"
-          git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js api-news.json api-trends.json
-          # out/ state files may not exist yet on the first run; git add
-          # fails on a missing pathspec, so add them one at a time.
-          for f in out/episodes.json out/episode-feed.json; do
-            [ -f "$f" ] && git add "$f"
-          done
-          git add -A -- '*.html'
-          if ! git diff --cached --quiet; then
-            git commit -m "auto: episode guides $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
-          fi
-
-
-
-
+        # Commit-with-retry (stall fix 2026-10-28): the naive pull --rebase
+        # + push dropped the whole run when a manual push landed mid-run
+        # (2026-10-28 run 40598408647 lost 7 episode summaries this way).
+        # On conflict the data files regenerate via episode-guides.py.
+        env:
+          RETRY_ADD: "js/articles-data.js api-news.json api-trends.json out/episodes.json out/episode-feed.json"
+          RETRY_REGEN: "python3 scripts/episode-guides.py"
+          RETRY_MESSAGE: "auto: episode guides"
+          RETRY_HTML_BUMP: "1"
+          YOUTUBE_DATA_API_KEY: ${{ secrets.YOUTUBE_DATA_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          SUMMARY_PER_RUN: '50'
+          EPISODE_LOOKBACK_HOURS: '48'
+          EPISODE_REWRITE: ${{ inputs.rewrite }}
+        run: bash scripts/commit_with_retry_standalone.sh

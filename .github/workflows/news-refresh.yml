@@ -22,7 +22,6 @@ jobs:
       - name: Fetch feeds and build news JSON
         env:
           PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
-          VERCEL_PROTECTION_BYPASS: ${{ secrets.VERCEL_PROTECTION_BYPASS }}
         run: |
           python3 scripts/fetch.py --registry scripts/registry.json --out out
           # Published articles' feed entries: the news-item page looks a story
@@ -30,20 +29,16 @@ jobs:
           # articles whose source story aged out of today's fetch must be
           # merged into the feed or they show "moved on". Non-fatal if the
           # panel call fails — the feed still builds from today's queue.
-          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+          curl -sS -X POST "https://flickatlas-admin.hidden-decodes.workers.dev/api/assistant/publish-export" \
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
-            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
           python3 scripts/convert-news.py
       - name: Commit if changed
-        run: |
-          git config user.name "Msohaib012"
-          git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add out api-news.json api-trends.json
-          if ! git diff --cached --quiet; then
-            git commit -m "news: refresh feed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
-          fi
-
-
+        # Commit-with-retry (stall fix 2026-10-28): on conflict the feed
+        # rebuilds via convert-news.py from this run's out/queue.json.
+        env:
+          RETRY_ADD: "out api-news.json api-trends.json"
+          RETRY_REGEN: "python3 scripts/convert-news.py"
+          RETRY_MESSAGE: "news: refresh feed"
+          RETRY_HTML_BUMP: "0"
+        run: bash scripts/commit_with_retry_standalone.sh

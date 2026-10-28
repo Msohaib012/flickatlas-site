@@ -42,15 +42,15 @@ jobs:
           GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
         run: python3 scripts/stats-health.py
       - name: Commit if changed
-        run: |
-          git config user.name "Msohaib012"
-          git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/stats-health.json
-          if ! git diff --cached --quiet; then
-            git commit -m "stats: health $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
-          fi
-
-
-
+        # Commit-with-retry (stall fix 2026-10-28): on conflict the health
+        # JSON rebuilds via stats-health.py (same env as the check step).
+        env:
+          RETRY_ADD: "js/stats-health.json"
+          RETRY_REGEN: "python3 scripts/stats-health.py"
+          RETRY_MESSAGE: "stats: health"
+          RETRY_HTML_BUMP: "0"
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          DMCA_STATUS_JSON: ${{ secrets.DMCA_STATUS_JSON }}
+          SEARCH_CONSOLE_STATUS_JSON: ${{ secrets.SEARCH_CONSOLE_STATUS_JSON }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
+        run: bash scripts/commit_with_retry_standalone.sh

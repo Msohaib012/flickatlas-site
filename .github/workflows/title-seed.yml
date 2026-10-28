@@ -49,15 +49,13 @@ jobs:
             find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
           fi
       - name: Commit if changed
-        run: |
-          git config user.name "Msohaib012"
-          git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/published-titles.js
-          git add -A -- '*.html'
-          if ! git diff --cached --quiet; then
-            git commit -m "auto: title seed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
-          fi
-
-
+        # Commit-with-retry (stall fix 2026-10-28): same naive-commit loss
+        # as episode-guides — on conflict the titles regenerate via
+        # title-seed.py (TMDB lists + date rules are deterministic).
+        env:
+          RETRY_ADD: "js/published-titles.js"
+          RETRY_REGEN: "python3 scripts/title-seed.py"
+          RETRY_MESSAGE: "auto: title seed"
+          RETRY_HTML_BUMP: "1"
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: bash scripts/commit_with_retry_standalone.sh
