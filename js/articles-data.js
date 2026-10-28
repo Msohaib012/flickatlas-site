@@ -12765,5 +12765,219 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-28T10:42:48Z"
+  },
+  "1h9f8o5": {
+    "id": "1h9f8o5",
+    "type": "news",
+    "headline": "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
+    "dek": "Prime Video's hit series Reacher has dominated the streaming charts, securing the number one position with billions of minutes viewed.",
+    "body": [
+      {
+        "h": "The Streaming Champion Rises",
+        "p": [
+          "The streaming landscape features numerous high-stakes action series, yet one title has climbed above the fierce competition to claim the top rank worldwide. Driven by massive audience engagement, the program outpaced several high-profile contenders on various platforms.",
+          "With explosive thrills and a dedicated fanbase, the project established itself as a dominant force in modern home entertainment."
+        ]
+      },
+      {
+        "h": "Origins of the Nomad Hero",
+        "p": [
+          "Adapted from the popular novels by author Lee Child and brought to television by developer Nick Santora, the show centers on a former U.S. Army military police officer turned drifter. The protagonist made his debut on Prime Video in 2022, quickly becoming a defining benchmark for the action genre.",
+          "Over multiple seasons, the main character faces small-town murder accusations, avenges fallen army colleagues, goes undercover for the DEA, and unravels dangerous conspiracies."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Audience Reach",
+        "p": [
+          "The production has consistently earned praise from critics, achieving impressive approval ratings on review aggregators and helping establish its lead actor as a prominent action icon. Often grouped into the subgenre of Dad TV, the series resonates strongly with viewers who appreciate straightforward storytelling.",
+          "September Nielsen data confirmed the show's dominance, placing it at the very top of streaming original rankings with an enormous four point six billion minutes viewed."
+        ]
+      },
+      {
+        "h": "Fierce Competition on the Charts",
+        "p": [
+          "While taking the crown, the action thriller competed against several major titles from different networks and streaming services. Notable runners-up included an Apple TV comedy, a franchise spin-off series, and intense espionage dramas from rival platforms.",
+          "These competitors pulled in millions of views of their own, highlighting just how crowded and competitive the current television market truly is."
+        ]
+      },
+      {
+        "h": "Future Seasons and Adaptations",
+        "p": [
+          "Following this extraordinary level of success, the platform has already secured renewals for both a fifth and sixth season, ensuring the character will remain on screens for years to come. Season five is officially set to adapt the twentieth book in the literary series, titled Make Me.",
+          "The upcoming storyline will follow the hero into a small Midwestern town and through a desperate race spanning several major cities against various thugs and assassins."
+        ]
+      },
+      {
+        "h": "Expanding Cast and Creative Vision",
+        "p": [
+          "New actors joining the roster for the upcoming chapters include Jay Baruchel, Kevin Durand, Amanda Ip, and Ciara Bravo. Author Lee Child has previewed the next narrative arc as particularly intense, setting high expectations for fans.",
+          "Audiences can anticipate the return of the action icon when the next season officially debuts in the coming year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video's action thriller series Reacher secured the number one spot on streaming charts with four point six billion minutes viewed according to September data. The adaptation of Lee Child's novels, starring Alan Ritchson and developed by Nick Santora, has already been renewed through a sixth season with upcoming casting additions."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Oct 28, 2026",
+      "Reacher achieved 4.6 billion minutes viewed in September",
+      "Ted Lasso reached 3.6 billion minutes",
+      "Neagley reached 3.3 billion minutes",
+      "Lioness reached 3.3 billion minutes",
+      "Monster: The Lizzie Borden Story reached 3.1 billion minutes",
+      "Season 5 will be based on the book Make Me released in 2015",
+      "Season 5 debuts in 2027",
+      "Reacher Season 1 premiered on February 3, 2022"
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Fuge",
+        "Taylor Sheridan",
+        "Chris Pratt",
+        "Lee Child",
+        "Nick Santora",
+        "Alan Ritchson",
+        "Jay Baruchel",
+        "Kevin Durand",
+        "Amanda Ip",
+        "Ciara Bravo",
+        "Maria Sten",
+        "Sam Hill",
+        "Gary Fleder",
+        "Omar Madha",
+        "Carol Banker",
+        "Julian Holmes",
+        "Lin Oeding",
+        "M.J. Bassett",
+        "Norberto Barba",
+        "Stephen Surjik",
+        "Thomas Vincent",
+        "Cait Duffy",
+        "Michael J. Gutierrez",
+        "Lillian L Wang",
+        "Scott Sullivan",
+        "Nora Jobling"
+      ],
+      "titles": [
+        "Lioness",
+        "Marshals",
+        "The Terminal List",
+        "The Night Agent",
+        "Reacher",
+        "Ted Lasso",
+        "Neagley",
+        "Monster: The Lizzie Borden Story",
+        "The Gentlemen",
+        "SEAL Team",
+        "Beauty in Black",
+        "Outer Banks",
+        "Silo",
+        "Make Me",
+        "How to Train Your Dragon",
+        "The Naked Gun",
+        "Transplant",
+        "Cherry"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/mv5bztcwm2rinwytnzk4yy00zgu4ltgxyjqtnwu1yjzlzjlhmji2xkeyxkfqcgc-_v1_.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 11:00:14 GMT"
+  },
+  "1gvtjck": {
+    "id": "1gvtjck",
+    "type": "news",
+    "headline": "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch",
+    "dek": "Find out when and where to watch the third episode of Koffee With Karan Season 9 featuring guest stars Varun Dhawan, Janhvi Kapoor, and Arjun Kapoor.",
+    "body": [
+      {
+        "h": "Introduction to the Final Season",
+        "p": [
+          "Karan Johar's popular chat show, Koffee With Karan, has returned for its ninth installment. This latest outing is particularly notable as it has been announced as the final season of the long-running program, drawing significant attention from audiences and media alike.",
+          "The current season has consistently generated considerable buzz across various platforms, largely driven by the high-profile guest list curated for the farewell run of the iconic television show."
+        ]
+      },
+      {
+        "h": "Previous Episodes and Viral Moments",
+        "p": [
+          "The ninth season commenced on October 14, featuring Salman Khan as the premiere guest. His distinctive presence and candid remarks immediately captured widespread public interest and set the tone for the subsequent installments.",
+          "Following the premiere, the second episode featured Rashmika Mandanna and Vijay Deverakonda. Their appearance sparked massive online conversations regarding their relationship, making it one of the most widely discussed segments of the series so far."
+        ]
+      },
+      {
+        "h": "Guest Lineup for Episode 3",
+        "p": [
+          "Attention has now shifted toward the third episode of the season. The upcoming segment features actors Varun Dhawan and Janhvi Kapoor, who previously starred together and are often referred to as a cinematic pair.",
+          "In addition to the main duo, actor Arjun Kapoor will appear as a special guest on the show, adding another dynamic to the interactions on the famous couch."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Details",
+        "p": [
+          "Viewers looking forward to the third episode can tune in on October 28, 2026. The full episode is scheduled to release at 7 pm on that evening.",
+          "The program will be available to stream in full high definition exclusively on the OTT platform JioHotstar for audiences wishing to watch the broadcast."
+        ]
+      },
+      {
+        "h": "What to Expect from the Conversation",
+        "p": [
+          "The upcoming episode promises a significant amount of humor, with Janhvi Kapoor and Varun Dhawan sharing playful banter and candid responses about their experiences.",
+          "Among the topics discussed, the duo will touch upon a period when host Karan Johar reportedly stopped communicating with them and how that situation affected them."
+        ]
+      },
+      {
+        "h": "Special Dynamics and Humor",
+        "p": [
+          "Arjun Kapoor's inclusion as a special guest is expected to elevate the entertainment value of the evening. His established camaraderie with Varun Dhawan will likely provide numerous lighthearted moments for the viewers.",
+          "Overall, the third episode is shaping up to be an energetic installment filled with humor and unscripted exchanges between the participants."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The third episode of Koffee With Karan Season 9 features Varun Dhawan, Janhvi Kapoor, and special guest Arjun Kapoor. The episode is set to release on October 28, 2026, at 7 pm on JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "Koffee With Karan Season 9 is the final season of the chat show.",
+      "Season 9 started on October 14.",
+      "Salman Khan was the first guest of Season 9.",
+      "Rashmika Mandanna and Vijay Deverakonda graced the second episode.",
+      "Episode 3 features Varun Dhawan and Janhvi Kapoor.",
+      "Arjun Kapoor is a special guest in Episode 3.",
+      "Episode 3 releases on October 28, 2026, at 7pm.",
+      "The platform to watch Episode 3 is JioHotstar."
+    ],
+    "entities": {
+      "people": [
+        "Karan Johar",
+        "Salman Khan",
+        "Rashmika Mandanna",
+        "Vijay Deverakonda",
+        "Varun Dhawan",
+        "Janhvi Kapoor",
+        "Arjun Kapoor"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Bawaal"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/kwks9ep3feature-26271793186586.jpg",
+        "caption": "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 16:55:29 +0530"
   }
 };

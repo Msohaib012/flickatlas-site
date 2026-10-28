@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T14:52:00Z",
-    "run_id": "40525028552",
-    "status": "success",
-    "checked": {
-     "candidates": 236,
-     "detail": "RSS/Atom items across 139 sources; 17 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Vardhaan Puri to star in Param Veer, a film based on the 1971 Battle of Gangasagar",
-      "Bigg Boss 20 Fight Alert: Gullu Gets Into Ugly Fight With Yung DSA; Latter Says 'Tere Jaise Ko Salary Pe...'",
-      "Param Veer: Vardhaan Puri Excited To Lead War Film; Calls It 'Tribute To Bravehearts Who Shaped Our History'",
-      "Love In Disguise Episode 4 Ending TWIST: Did Yi Jun Really Fire Jae Hui? Duo's Drunk Moment Leads To A Kiss?",
-      "photos ananya panday sizzles in a red hot look 86822.html",
-      "janhvi kapoor reveals how shikhar pahariya supported her after sridevis death 86823.html",
-      "ranbir kapoor has a witty take on why sai pallavi chose acting over medicine 86821.html",
-      "shah rukh khans new king poster released karan johar and other celebs react 86818.html",
-      "photos khushi kapoor brings a modern twist to festive fashion in purple for a pre diwali party 86816.html",
-      "Susan Saint James, Emmy-winning star of 'The Name of the Game', passes away at 80",
-      "Vishal's injury on the sets of 'Purushan' EXPLAINED",
-      "Yeh Rishta Kya Kehlata Hai actor Navika Kotia calls off engagement to entrepreneur Mazen Mody; he is now dating Ritika Badiani",
-      "Akshay Kumar's 32-year-old film to clash with Ramayana, Mumbai may miss out",
-      "janhvi kapoor reveals shikhar pahariya put studies on hold to be by her side after sridevis death",
-      "actress sweta keswani said wont sleep for work director asked to meet at night casting couch tmovh 2681579 2026 10 27",
-      "karwa chauth free mehndi mela mehrauli delhi registeration ladies scheme festival mmtm 2681670 2026 10 27",
-      "in case she needs me janhvi kapoor reveals shikhar pahariya put his london studies on hold after sridevis death article 156416967",
-      "kutle khan addresses shilpa raos abruptly cut short concert the trolling and negativity are very unfortunate article 156417220",
-      "bigg boss 20 love gill breaks down again says meri baat mat karo scoutop ki girlfriend kaashvi ko bura lagega article 156417074",
-      "Maggie Sajak Penned A Sweet Tribute To Her Father Pat For His 80th Birthday (With Adorable Videos)"
-     ],
-     "updated": [],
-     "count": 161,
-     "detail": "164 stories, 1 duplicates removed, 72 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T15:52:15Z",
     "run_id": "40534977345",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "56 stories, 0 duplicates removed, 64 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T11:44:36Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": {
+     "candidates": 203,
+     "detail": "RSS/Atom items across 137 sources; 17 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Sudhir Mishra SLAMS IndiGo after luggage containing his medicines is left behind in Delhi: “Extremely disappointing and frustrating”",
+      "Could Yash’s Ravana steal the thunder from Ranbir Kapoor’s Lord Ram? The STAR POWER battle inside Ramayana",
+      "Koffee With Karan Season 9 Ep3 Release Time: Here's When Janhvi, Varun & Arjun's Episode Will Premiere",
+      "BP Singh Funeral: CID Actors Pay Last Respect, Get Teary-Eyed Remembering Their 'Guru'",
+      "Pehla Pyaar Doosri Baar Box Office: Luv Ranjan’s Romantic Drama Scores 2.5 Crore+ In 5 Days",
+      "Adultery Ending Explained: Do Tom & Beth Stay Together After Breaking Two Families?",
+      "Maddock Films Drops New Poster As Shraddha Kapoor's Eetha Trailer Arrives on October 30",
+      "fauzi controversy chandra kumar bose writes to ib minister ashwini vaishnaw 86842.html",
+      "makers of ranbir kapoors ramayana to make theme park interactive museum 86837.html",
+      "Radhika hits back at trolls body-shaming Alia in ‘Alpha’, saying male action heroes face no such scrutiny",
+      "Nayanthara is ‘Forever Grateful’ to Sundar C for ‘Mookuthi Amman 2'",
+      "Jamie Lee Curtis pays tribute to Susan Saint James",
+      "‘Ravana is not all bad’: Sai Pallavi says key takeaway from Ramayana is to spot the Ravana in us and make changes over time",
+      "Steven Soderbergh incredibly generous to help finish 'The Batman Part II': Robert Pattinson",
+      "Manoj Bajpayee recalls career low before Raajneeti, Gangs Of Wasseypur; says meetings with Neeraj Pandey, Anurag Kashyap changed everything",
+      "Bounce back? From where? Katrina Kaif scoffs at postpartum body-shaming",
+      "buying an oled tv in 2026 start with your room not spec sheet 3077175.html",
+      "kansai nerolac paints presents har din diwali offering a chance to win a gold coin every day this festive season 3077178.html",
+      "adipurush was bad but dont challenge songs manoj muntashir defends track record amid ramayana comparisons 3077177.html",
+      "diljit dosanjh delhi concert to have 2000 guards pedestrian only zone around stadium"
+     ],
+     "updated": [],
+     "count": 132,
+     "detail": "134 stories, 1 duplicates removed, 69 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T14:52:01Z",
-    "run_id": "40525028552",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1402,27 +1384,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T11:44:51Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
+      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T14:52:01Z",
-    "run_id": "40525028552",
-    "status": "success",
-    "checked": {
-     "candidates": 10,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 5, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1836,19 +1821,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T11:44:51Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2094,27 +2087,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T16:16:15Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": {
-     "candidates": 142,
-     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 138 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2528,19 +2513,27 @@
      "detail": "+0 new rows, 10 updated rows, 198 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T11:49:59Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 10,
+     "detail": "+0 new rows, 10 updated rows, 198 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2800,27 +2793,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T16:04:34Z",
-    "run_id": "40535488399",
-    "status": "success",
-    "checked": {
-     "candidates": 87,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 87 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3270,19 +3255,30 @@
      "detail": "api-news.json 88 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T11:50:01Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": {
+     "candidates": 85,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
+      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 85 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3570,19 +3566,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3845,19 +3841,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4256,19 +4252,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T11:44:51Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 132 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 6/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
+      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4522,19 +4528,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4839,24 +4845,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 25,
+     "count": 214,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5171,19 +5177,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5428,19 +5434,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5675,19 +5681,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T14:59:52Z",
-    "run_id": "40525028552",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5917,6 +5923,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -6109,6 +6125,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6281,8 +6307,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T11:50:09Z",
+    "run_id": "40682070889",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T10:47:48Z"
+ "updated_at": "2026-10-28T11:50:09Z"
 }
