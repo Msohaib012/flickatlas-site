@@ -13712,5 +13712,309 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 10:25:27 -0400"
+  },
+  "1htymk6": {
+    "id": "1htymk6",
+    "type": "news",
+    "headline": "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
+    "dek": "The streamer’s upcoming six-part adaptation of Jane Austen’s classic novel stars Emma Corrin as Elizabeth Bennet and Jack Lowden as Mr. Darcy, with a release date set for December 3.",
+    "body": [
+      {
+        "h": "First Look at the Netflix Adaptation",
+        "p": [
+          "The complete trailer for Netflix's upcoming limited series adaptation of Pride and Prejudice has officially been revealed. Based on the celebrated book by Jane Austen, the upcoming project is scheduled to premiere on the streaming platform on December 3.",
+          "The preview video begins on a rooftop with Emma Corrin portraying Elizabeth Bennet and Freya Mavor as Jane Bennet discussing their future prospects. Elizabeth notes her options of becoming either a governess and a spinster or a wife and a mother before expressing a desire to converse about alternative topics."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The six-part production serves as a classic, faithful adaptation of the original novel. It was written by Dolly Alderton and is directed by Euros Lyn, bringing together a stellar ensemble cast to breathe new life into the beloved characters.",
+          "Alongside Emma Corrin and Jack Lowden taking on the central roles of Elizabeth Bennet and Mr. Darcy, the series features Olivia Colman as Mrs. Bennet and Rufus Sewell as Mr. Bennett. Additional cast members include Freya Mavor as Jane Bennet, Jamie Demetriou as Mr. Collins, and Daryl McCormack as Mr. Bingley."
+        ]
+      },
+      {
+        "h": "Expanding the Bennet Family and Acquaintances",
+        "p": [
+          "Viewers are given additional glimpses of various other residents of Longbourn and beyond throughout the footage. The preview highlights Rhea Norwood as Lydia Bennett, alongside Hopey Parish and Hollie Avery portraying Mary and Kitty Bennett.",
+          "The clip also showcases Louis Partridge as Mr. George Wickham and Siena Kelly as Caroline Bingley. The sequence concludes with a humorous exchange where Olivia Colman questions why Rufus Sewell's character, Mr. Bennett, remains entirely silent throughout the trailer."
+        ]
+      },
+      {
+        "h": "Notable Additions and Crossovers",
+        "p": [
+          "Actress Fiona Shaw joins the production as the formidable Lady Catherine de Bourgh. She can be spotted peering out from the back of a carriage while dressed in dark attire.",
+          "Interestingly, the trailer features a visual parallel where Jack Lowden's Mr. Darcy skips rocks on a lake. This moment mirrors a similar scene in Georgia Oakley's recent film adaptation of Jane Austen's Sense and Sensibility."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Production Team",
+        "p": [
+          "Writer and executive producer Dolly Alderton expressed her enthusiasm for retelling the iconic romance during the cast reveal during production. She noted that Austen's work acts as the fundamental blueprint for the romantic comedy genre.",
+          "Additional executive producers on the Lookout Point project include Laura Lankester, Will Johnston, and Louise Mutter. Emma Corrin also serves as an executive producer, marking their debut in that specific role."
+        ]
+      },
+      {
+        "h": "A Legacy of Classic Adaptations",
+        "p": [
+          "Jane Austen's timeless novels have captivated audiences and inspired generations of filmmakers for over 200 years. Pride and Prejudice remains one of her most celebrated works, renowned for its sharp social commentary and enduring love story.",
+          "Production company Lookout Point, a BBC Studios company led by Lankester, Johnston, and Mutter, boasts a portfolio including Renegade Nell, Happy Valley, Gentleman Jack, and A Suitable Boy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the full trailer for its upcoming six-part limited series adaptation of Jane Austen's Pride and Prejudice, scheduled to debut on December 3. Written by Dolly Alderton and directed by Euros Lyn, the project stars Emma Corrin and Jack Lowden alongside an ensemble cast including Olivia Colman and Rufus Sewell."
+        ]
+      }
+    ],
+    "facts": [
+      "The Netflix limited series adaptation of Pride and Prejudice arrives on the streamer December 3.",
+      "The six-part series is written by Dolly Alderton and directed by Euros Lyn.",
+      "Emma Corrin stars as Elizabeth Bennet and Jack Lowden stars as Mr. Darcy.",
+      "Olivia Colman plays Mrs. Bennet and Rufus Sewell plays Mr. Bennett.",
+      "Fiona Shaw portrays Lady Catherine de Bourgh."
+    ],
+    "entities": {
+      "people": [
+        "Dessi Gomez",
+        "Amy Poehler",
+        "Rain Spencer",
+        "Noah Jupe",
+        "Jane Austen",
+        "Emma Corrin",
+        "Freya Mavor",
+        "Olivia Colman",
+        "Rufus Sewell",
+        "Jack Lowden",
+        "George Mackay",
+        "Daisy Edgar Jones",
+        "Georgia Oakley",
+        "Fiona Shaw",
+        "Rhea Norwood",
+        "Hopey Parish",
+        "Hollie Avery",
+        "Louis Partridge",
+        "Jamie Demetriou",
+        "Dolly Alderton",
+        "Euros Lyn",
+        "Daryl McCormack",
+        "Siena Kelly",
+        "Laura Lankester",
+        "Will Johnston",
+        "Louise Mutter",
+        "Emerald Fennell",
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Esme Creed-Miles",
+        "Catriona Balfe",
+        "Kate Winslet",
+        "Emma Thompson",
+        "Alan Rickman",
+        "Hugh Grant",
+        "Vikram Seth",
+        "Hasan Piker",
+        "Scott Jennings",
+        "Stephen Fry",
+        "Jane Horrocks",
+        "Russell Brand",
+        "Aiden Turner",
+        "Keanu Reeves",
+        "Alan Ritchson",
+        "Sarah Snook",
+        "Tom Spezialy",
+        "David Heyman",
+        "Olivia Holt",
+        "Jaimie Alexander",
+        "Rohan Campbell",
+        "Scout Taylor-Compton",
+        "Alfred Robles",
+        "Gabriel Iglesias",
+        "Sian Heder"
+      ],
+      "titles": [
+        "Pride and Prejudice",
+        "Sense and Sensibility",
+        "Sanditon",
+        "Everything I Know About Love",
+        "Good Material",
+        "Heartstopper",
+        "Nosferatu",
+        "Black Mirror",
+        "Slow Horses",
+        "Benediction",
+        "The Favourite",
+        "The Crown",
+        "The Diplomat",
+        "Scoop",
+        "Industry",
+        "Stath Lets Flats",
+        "Barbie",
+        "Wake Up Dead Man: A Knives Out Mystery",
+        "Good Luck to You, Leo Grande",
+        "Bad Sisters",
+        "Harry Potter",
+        "Wuthering Heights",
+        "Renegade Nell",
+        "Happy Valley",
+        "Gentleman Jack",
+        "A Suitable Boy",
+        "Life 2.0",
+        "Baywatch",
+        "Star Trek",
+        "Oktoberfest",
+        "Maelstrom",
+        "The Birds",
+        "Survive: The Game",
+        "Lord Of The Rings: The Rings Of Power",
+        "Being Heumann",
+        "CODA",
+        "La Bola Negra"
+      ]
+    },
+    "keywords": [
+      "Pride and Prejudice Netflix series",
+      "Emma Corrin Pride and Prejudice",
+      "Jack Lowden Mr Darcy Netflix",
+      "Jane Austen Netflix adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/PP_Episodic_Image_39.jpg?w=1024",
+        "caption": "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 15:48:24 +0000"
+  },
+  "14y6b12": {
+    "id": "14y6b12",
+    "type": "news",
+    "headline": "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait",
+    "dek": "Apple TV has yet to announce a season 5 renewal for Ted Lasso, but the soccer dramedy's fourth season was a record-breaking hit with subscribers.",
+    "body": [
+      {
+        "h": "Record Viewership Figures",
+        "p": [
+          "Nielsen has revealed that viewers watched 3.6 billion minutes of Ted Lasso from September 1 to 30. Although this timeframe skips the first half of the season, the available data sets a new record for the series and establishes it as the second-most streamed original series in September.",
+          "During that same monthly period, only Prime Video's Reacher generated more streaming minutes viewed, coming in at 4.6 billion. Other prominent titles finishing in the Top 10 alongside Ted Lasso included Neagley, Lioness, and Monster: The Lizzie Borden Story."
+        ]
+      },
+      {
+        "h": "Background and Return of the Cast",
+        "p": [
+          "After three seasons, it initially appeared that Ted Lasso had concluded its run. However, co-creator, co-showrunner, and star Jason Sudeikis eventually reprised his role as the optimistic soccer coach.",
+          "Several key cast members returned for the fourth season alongside Sudeikis, including Hannah Waddingham, Brett Goldstein, Jeremy Swift, Juno Temple, and Brendan Hunt. The narrative focus for this iteration shifted from the men's team to the women's team."
+        ]
+      },
+      {
+        "h": "Premiere Success on Apple TV",
+        "p": [
+          "The series has consistently proven to be a massive draw throughout its entire broadcasting run. Following its initial debut in 2020, the audience continued to expand steadily over time.",
+          "When the show returned in August, viewers consumed 296.6 million minutes of the season 4 premiere within the first two days alone. This milestone marked an all-time new viewership record specifically for Apple TV."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Awards History",
+        "p": [
+          "Critics have showered overwhelming praise on Ted Lasso since its inception. The production has successfully earned Certified Fresh status on Rotten Tomatoes for every single season, with individual scores ranging from 80% to 98%.",
+          "The show currently maintains an average critical score of 90% alongside an 81% rating among general audiences. This sustained success has translated smoothly into awards season dominance, yielding 13 Emmys, two Golden Globes, and three SAG Awards."
+        ]
+      },
+      {
+        "h": "Season 4 Finale Developments",
+        "p": [
+          "Jason Sudeikis has openly discussed his desire to continue developing the series further. The season 4 finale introduced major changes, such as Zelda Southport's growing control over AFC Richmond and Roy Kent taking over as Chelsea FC's new manager.",
+          "Additional plot developments included Rebecca Welton and Matthijs getting engaged, and Alice Chilton earning a promotion to head coach. This specific promotion creates multiple narrative pathways for a prospective fifth season, especially with Ted now operating in an assistant manager position."
+        ]
+      },
+      {
+        "h": "Future Outlook and Renewal Status",
+        "p": [
+          "Although Apple TV has not yet issued an official season 5 renewal announcement, the recent Nielsen data indicates substantial demand. The numbers conclusively prove that the comedy-drama is currently experiencing unprecedented popularity.",
+          "This strong viewer engagement serves as a highly positive indicator for the future of the franchise, keeping fans hopeful that the story of AFC Richmond will continue."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ted Lasso has achieved record-breaking viewership on Apple TV and Nielsen charts during its fourth season, capturing billions of streaming minutes despite an official season 5 renewal remaining unannounced. The widespread acclaim and major narrative shifts from the latest finale suggest strong potential for the series to move forward."
+        ]
+      }
+    ],
+    "facts": [
+      "Viewers watched 3.6 billion minutes of Ted Lasso from September 1 to 30 according to Nielsen.",
+      "Ted Lasso season 4 ended three weeks prior to the report.",
+      "Prime Video's Reacher had 4.6 billion streaming minutes viewed in September.",
+      "Ted Lasso debuted in August 2020.",
+      "Viewers watched 296.6 million minutes of the season 4 premiere in the first two days.",
+      "Ted Lasso has won 13 Emmys, two Golden Globes, and three SAG Awards."
+    ],
+    "entities": {
+      "people": [
+        "Jeff Dodge",
+        "Randy Jackson",
+        "Nick Cannon",
+        "Heidi Klum",
+        "Mel B",
+        "John Cena",
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Brett Goldstein",
+        "Jeremy Swift",
+        "Juno Temple",
+        "Brendan Hunt",
+        "Zelda Southport",
+        "Roy Kent",
+        "Rebecca Welton",
+        "Matthijs",
+        "Alice Chilton",
+        "Bill Lawrence",
+        "Joe Kelly",
+        "Jeff Ingold",
+        "Bill Wrubel",
+        "Liza Katzer",
+        "Jane Becker",
+        "Declan Lowney",
+        "Jack Burditt",
+        "Leann Bowen",
+        "Jamie Lee",
+        "Andrew Warren",
+        "Ashley Nicole Black",
+        "Phoebe Walsh",
+        "Tina Pawlik",
+        "Sasha Garron",
+        "Sarah Walker",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "Ted Lasso",
+        "Reacher",
+        "Neagley",
+        "Lioness",
+        "Monster: The Lizzie Borden Story",
+        "The Gentlemen",
+        "SEAL Team",
+        "Beauty in Black",
+        "Outer Banks",
+        "Silo"
+      ]
+    },
+    "keywords": [
+      "Ted Lasso",
+      "Jason Sudeikis",
+      "Ted Lasso season 4",
+      "Ted Lasso season 5"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/roy-ted-beard-ted-lasso-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 15:19:51 GMT"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T19:26:40Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 130,
-     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "The Weird Reason Marvel Fans Think Deadpool Will Appear in Avengers: Doomsday",
-      "The 10 Greatest Vampire Thrillers of All Time, Ranked",
-      "Taylor Sheridan’s Ambitious TV Gamble Has Finally Paid Off",
-      "The Best of Korean Entertainment Officially Has a New Free Streaming Home",
-      "Alfred Hitchcock's Most Terrifying Movie Is Officially Getting a HBO Remake",
-      "Sabrina’s Melissa Joan Hart Cast as The Black Widow in New Serial Killer Movie",
-      "Celine Dion & Paul McCartney Join Forces for Idris Elba’s New Movie",
-      "Dwayne Johnson Proves He’s Disney+’s MVP Actor as 3 of His Movies Dominate Streaming",
-      "Pride and Prejudice Netflix Show Poster With Rumored 007 Actor Sets Trailer Release Date",
-      "Michael Chiklis Says Liam Neeson’s Gesture Made The Mongoose for Him | Interview",
-      "Jennifer Lawrence’s Hair Mask Initially Smelled So Bad Her Husband Issued an Ultimatum",
-      "One of Netflix's Most Popular Shows of All Time Crosses Major Milestone Ahead of Season 5",
-      "HBO's Record-Breaking Sci-Fi Western Loses Crown to Steamy New 8-Episode Thriller That's No. 1 Worldwide",
-      "8 Near-Perfect Apple TV Sci-Fi Shows That Will Hook You in the First 10 Minutes",
-      "Massive Superhero Horror Series Returns With Official New Adaptation",
-      "Netflix's New Dungeons & Dragons Series Is Making TV History",
-      "The New James Bond May Be Trading Muscle for Intelligence",
-      "The Last Of Us Season 3 Is Officially Switching Villains",
-      "New Stephen King-Celebrated Mystery Thriller Instantly Conquers Streaming After Just 1 Day",
-      "Final Fantasy 9: Integrity Officially Unveiled"
-     ],
-     "updated": [],
-     "count": 50,
-     "detail": "52 stories, 0 duplicates removed, 78 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T20:13:17Z",
     "run_id": "40575816743",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "197 stories, 0 duplicates removed, 90 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:52:47Z",
+    "run_id": "40720026277",
+    "status": "success",
+    "checked": {
+     "candidates": 260,
+     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Kaun Banega Crorepati 18: Why Ranbir Felt Like Chuha When He Proposed Alia Bhatt?",
+      "Mitti De Baway Ep11 Release Time In India Dailymotion: Will Baala Confess Love To Qamrunnisa?",
+      "Aditi Govitrikar praises Shah Rukh Khan’s 'professionalism and warmth on set' - Exclusive",
+      "Silambarasan’s ‘Arasan’ Diwali promo secret revealed",
+      "In 1996; Burt Reynolds blew through USD 60m fortune; filed for bankruptcy with USD 11M debt",
+      "Janhvi Kapoor says she should have been more vigilant about the objectification in Peddi, admits the role propagated sexual assualt in the narrative",
+      "opinion policy and infrastructure are turning nep into tangible classroom gains in uttar pradesh 3077189.html",
+      "Sara Ali Khan Notes Saif Ali Khan Never Begging People To Give Her Films’; Says, “I Live With A Single Mother, Not A Father Negotiating My Contracts”",
+      "diljit dosanjh delhi concert 2000 security guards at jawaharlal nehru stadium amid security concerns tmovg dskc 2682357 2026 10 28",
+      "himesh reshammiya scolds indian idol winner rishi singh showing attitude insulting legends amit sana tmovh dskc 2682679 2026 10 28",
+      "mika singh marriage plan age 50 actor wedding wish details mmtm 2682688 2026 10 28",
+      "koffee with karan 9 janhvi kapoor confirms her relationship with shikhar pahariya reveals marriage plans article 156423357",
+      "varun dhawan called karan johar a child amid fight over chand mera dil hjtihh clash kwk host says i was hurt article 156422350",
+      "janhvi kapoor calls peddi a violating experience says narrative promoted sxual assault i could have been more vigilant kwk9 article 156423215",
+      "shehzada dhami takes dig at bigg boss 20 makers says profit from controversy amid scoutop kaashvi hiranandani love gill row article 156423320",
+      "Travis Kelce Had An A+ Reaction To Prince William Trolling Him Over That Photo With Taylor Swift",
+      "Popping Up In NCIS: Origins Was A ‘Weird’ Moment For Emily Wickersham (Hint: The Basement Was Involved)",
+      "‘Slow Horses’ Star Jack Lowden Is Officially Mr. Darcy in First Look at Netflix’s New 6-Part ‘Pride and Prejudice’ Remake",
+      "Nicolas Cage’s Madden Transformation Has Fans Calling It a ‘Disrespectful’ Disaster",
+      "Marvel Fans Think Connor Storrie’s Villain Is Another Ghost Rider"
+     ],
+     "updated": [],
+     "count": 179,
+     "detail": "191 stories, 1 duplicates removed, 69 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T19:26:45Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1417,27 +1399,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:53:39Z",
+    "run_id": "40720026277",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
+      "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T19:27:22Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 11,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1851,19 +1836,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T15:53:39Z",
+    "run_id": "40720026277",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2093,27 +2086,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T20:31:39Z",
-    "run_id": "40576069758",
-    "status": "success",
-    "checked": {
-     "candidates": 196,
-     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "+0 new rows, 0 updated rows, 196 unchanged"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2527,49 +2512,27 @@
      "detail": "+0 new rows, 85 updated rows, 123 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T15:58:51Z",
+    "run_id": "40720026277",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "+0 new rows, 12 updated rows, 196 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T19:36:15Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 84,
-     "detail": "released movies without a review; Tavily searches: 44"
-    },
-    "changed": {
-     "added": [
-      "9 Temples to Heaven (1046304)",
-      "Avaraachan & Sons (1290035)",
-      "Baththa (1515692)",
-      "Border Diaries (1770836)",
-      "Dhood (Sandstorm) (1799668)",
-      "Doosra (1794929)",
-      "Flies (1437703)",
-      "Gandhari (1355228)",
-      "Haiku (1593350)",
-      "La Gradiva (1154730)",
-      "Magazine (1728425)",
-      "Midnight Momo (1756758)",
-      "Miroirs No. 3 (1178602)",
-      "Naa Wife Missing (1793054)",
-      "Prahaar: The Untold Story of Ujjwal Nikam (1081010)",
-      "Rehmat (1649061)",
-      "Rose (1176962)",
-      "Shutterspeed (1377455)",
-      "Sumo Didi (1186823)",
-      "The Last Ride (1416310)",
-      "Titans (869152)",
-      "Tom and Jerry: Forbidden Compass (1497970)"
-     ],
-     "updated": [],
-     "count": 22
-    },
-    "reason": null
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2799,27 +2762,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T20:21:24Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": {
-     "candidates": 86,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 86 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3284,35 +3239,30 @@
      "detail": "api-news.json 78 items, api-trends.json 0 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T19:26:45Z",
-    "run_id": "40568906467",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:58:53Z",
+    "run_id": "40720026277",
     "status": "success",
     "checked": {
-     "candidates": 22,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 16 new detected"
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 15",
-      "Hurmat Ep 8",
-      "Uswah Ep 35",
-      "Khushi Ep 45",
-      "Izzat Ep 38",
-      "Dastoor Ep 67"
+      "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
+      "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait"
      ],
-     "updated": [
-      "Uswah Ep 35"
-     ],
-     "count": 7
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 0 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3598,19 +3548,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3840,26 +3790,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T19:26:45Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 40/40 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4301,19 +4244,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:53:39Z",
+    "run_id": "40720026277",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 179 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 3/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
+      "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4567,24 +4520,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 243,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4909,24 +4857,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 6,
+     "count": 304,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5236,19 +5184,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5493,19 +5441,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5740,19 +5688,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5978,6 +5926,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-28T15:02:18Z",
     "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5988,16 +5946,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-27T19:36:24Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-27T20:21:34Z",
     "run_id": "40575816743",
     "status": "skipped",
@@ -6220,6 +6168,16 @@
     "category": "OTT",
     "run_at": "2026-10-28T15:02:18Z",
     "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6446,6 +6404,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
@@ -6468,8 +6436,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:59:00Z",
+    "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T15:02:18Z"
+ "updated_at": "2026-10-28T15:59:00Z"
 }
