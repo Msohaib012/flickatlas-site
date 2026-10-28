@@ -12581,5 +12581,189 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 09:59:14 +0000"
+  },
+  "1hfp9fa": {
+    "id": "1hfp9fa",
+    "type": "news",
+    "headline": "Kartik Aaryan Roped In To Lead Vivek Agnihotri's Operation Sindoor",
+    "dek": "Actor Kartik Aaryan will headline Vivek Agnihotri's upcoming film Operation Sindoor, focusing on the aftermath of the April 2025 Pahalgam terror attack and India's retaliation.",
+    "body": [
+      {
+        "h": "The Major Collaboration",
+        "p": [
+          "Bollywood actor Kartik Aaryan is reportedly set to take on the lead role in director Vivek Agnihotri's upcoming feature titled Operation Sindoor. This upcoming project marks the very first time the actor and director are working together on a film.",
+          "Announced earlier in the year, the movie will examine the aftermath of the tragic Pahalgam terror attack in the Baisaran Valley of Kashmir. The incident saw twenty-six individuals lose their lives after being shot by terrorists."
+        ]
+      },
+      {
+        "h": "Focus On Real-Life Events",
+        "p": [
+          "According to reports, Operation Sindoor will offer a hard-hitting narrative regarding India's precise military retaliation following the terror strike in Pahalgam. The filmmaker has noted that the story is rooted in reality and backed by extensive ground-level research.",
+          "The creative approach aims to confront the tragedy through factual clarity and cinematic storytelling, involving collaboration with multiple wings of the Indian Armed Forces."
+        ]
+      },
+      {
+        "h": "Source Material And Production",
+        "p": [
+          "The cinematic project draws its foundation from a book authored by Lt General KJS 'Tiny' Dhillon. The book is titled Operation Sindoor: The Untold Story of India’s Deep Strikes Inside Pakistan.",
+          "On the production front, the movie is a joint venture between Bhushan Kumar's T-Series and Vivek Agnihotri's banner, I Am Buddha Productions."
+        ]
+      },
+      {
+        "h": "Kartik's True-Story Credentials",
+        "p": [
+          "For Kartik Aaryan, this cinematic venture marks his third project rooted in real-life events. He previously starred in Kabir Khan's Chandu Champion and the upcoming Captain India directed by Shimit Amin.",
+          "His portrayal of Murlikant Petkar, India’s first individual Paralympic gold medalist, in Chandu Champion earned the actor his first National Award for Best Actor."
+        ]
+      },
+      {
+        "h": "A Busy Slate Of Upcoming Projects",
+        "p": [
+          "Aside from Operation Sindoor, Kartik maintains a packed schedule with several high-profile releases. He has teamed up with Karan Johar for a mythological creature comedy named Naagzilla, directed by Mrighdeep Singh Lamba and co-starring Preity Mukhundhan, slated for a February 12, 2027 release.",
+          "Other commitments include an ambitious high-budget mytho-creature action film with Dharma Productions, a romantic musical with Sreeleela directed by Anurag Basu in April 2027, an aviation rescue drama titled Captain India releasing on August 13 where he plays a pilot, and an untitled sports drama with Kabir Khan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kartik Aaryan will star in Vivek Agnihotri's Operation Sindoor, a film centered on the aftermath of the April 2025 Pahalgam terror attack. The project adapts material from Lt General KJS 'Tiny' Dhillon's book and is jointly backed by T-Series and I Am Buddha Productions."
+        ]
+      }
+    ],
+    "facts": [
+      "Kartik Aaryan will star in Vivek Agnihotri's Operation Sindoor.",
+      "The film is based on the aftermath of the April 2025 Pahalgam terror attack in Baisaran Valley, Kashmir.",
+      "The Pahalgam attack resulted in 26 people being shot dead by terrorists.",
+      "The film is based on Lt General KJS 'Tiny' Dhillon’s book Operation Sindoor: The Untold Story of India’s Deep Strikes Inside Pakistan.",
+      "Operation Sindoor is backed by Bhushan Kumar's T-Series and Vivek's I Am Buddha Productions.",
+      "Naagzilla releases in theatres on February 12, 2027.",
+      "Anurag Basu's romantic musical starring Kartik and Sreeleela releases in April 2027.",
+      "Captain India releases on August 13."
+    ],
+    "entities": {
+      "people": [
+        "Kartik Aaryan",
+        "Vivek Agnihotri",
+        "Mudit Bhatnagar",
+        "Murlikant Petkar",
+        "Kabir Khan",
+        "Shimit Amin",
+        "Lt General KJS 'Tiny' Dhillon",
+        "Bhushan Kumar",
+        "Karan Johar",
+        "Mrighdeep Singh Lamba",
+        "Preity Mukhundhan",
+        "Anurag Basu",
+        "Sreeleela"
+      ],
+      "titles": [
+        "Operation Sindoor",
+        "The Kashmir Files",
+        "Pyaar Ka Punchnama",
+        "Chandu Champion",
+        "Captain India",
+        "Chak De India",
+        "Operation Sindoor: The Untold Story of India’s Deep Strikes Inside Pakistan",
+        "Naagzilla"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156421826,thumbsize-54209,width-1280,height-720,resizemode-75/156421826.jpg",
+        "caption": "Kartik Aaryan Roped In To Lead Vivek Agnihotri's Operation Sindoor",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-28T10:42:48Z"
+  },
+  "196xm51": {
+    "id": "196xm51",
+    "type": "news",
+    "headline": "Karan Johar Celebrates Decade of 'Ae Dil Hai Mushkil' With Notes on Unrequited Love",
+    "dek": "As the romantic drama marks its 10th anniversary, director Karan Johar reflects on the power of one-sided love, embraces the film's flaws, and thanks his stellar cast.",
+    "body": [
+      {
+        "h": "Marking a Decade of Cinema",
+        "p": [
+          "The romantic drama directed by filmmaker Karan Johar completed ten years on Wednesday. To celebrate the milestone, the director penned a heartfelt social media post reflecting on the journey of the movie.",
+          "Released a decade ago, the feature continues to evoke strong nostalgia among audiences who remember its grand scale and emotional resonance."
+        ]
+      },
+      {
+        "h": "Exploring the Power of One-Sided Love",
+        "p": [
+          "At the core of the narrative is the theme of unrequited affection, which the director described as deeply personal. He noted that the project emerged from his own pursuits of longing and vulnerability.",
+          "According to the filmmaker, loving someone does not require sympathy or remorse, nor does it demand reciprocation. Instead, he argued that genuine affection is an act of total selflessness."
+        ]
+      },
+      {
+        "h": "Embracing Imperfections and Polarised Reviews",
+        "p": [
+          "Upon its initial release, the feature encountered mixed reactions, particularly regarding the developments in its third act. Critics and viewers pointed out various narrative flaws.",
+          "Despite the varied reception, the director maintained that he would present the story in the exact same manner today. He emphasized that artistic conviction must ultimately override conventional logic."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "The motion picture brought together a prominent lead lineup featuring Ranbir Kapoor, Anushka Sharma, and Aishwarya Rai Bachchan. Their performances brought the complex emotional dynamics to life.",
+          "In addition to the primary trio, the project featured notable appearances by other stars, including Fawad Khan, Shah Rukh Khan, Alia Bhatt, and Lisa Haydon."
+        ]
+      },
+      {
+        "h": "Creating the Ideal 'Vatavaran' on Set",
+        "p": [
+          "The director made sure to express gratitude toward the entire working crew and principal actors for establishing a wonderful working environment. He credited them with generating the perfect 'vatavaran' during production.",
+          "Their collaboration allowed the director to execute his cinematic vision authentically, resulting in powerful interpretations of the characters."
+        ]
+      },
+      {
+        "h": "An Enduring Musical Legacy",
+        "p": [
+          "Beyond its storytelling, the project left behind a massively popular musical footprint. Compositions such as the title track, 'Channa Mereya', 'Bulleya', 'The Breakup Song', and 'Cutipie' remain widely celebrated.",
+          "A decade later, these tracks continue to resonate with fans just as strongly as they did during the initial premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Karan Johar celebrated the 10th anniversary of his directorial venture 'Ae Dil Hai Mushkil' on Wednesday by sharing reflections on unrequited love and the film's personal significance to him. He thanked the cast, including Ranbir Kapoor, Anushka Sharma, Aishwarya Rai Bachchan, and guest stars like Shah Rukh Khan and Fawad Khan, for bringing his vision to life despite the polarised reviews the project originally received."
+        ]
+      }
+    ],
+    "facts": [
+      "Ae Dil Hai Mushkil completed 10 years on Wednesday, October 28, 2026.",
+      "The film was directed by Karan Johar.",
+      "The primary cast includes Ranbir Kapoor, Anushka Sharma, and Aishwarya Rai Bachchan.",
+      "Special appearances in the film were made by Shah Rukh Khan, Alia Bhatt, Lisa Haydon, and Fawad Khan.",
+      "Popular songs from the film include Channa Mereya, Ae Dil Hai Mushkil title track, Bulleya, The Breakup Song, and Cutipie."
+    ],
+    "entities": {
+      "people": [
+        "Karan Johar",
+        "Ranbir Kapoor",
+        "Anushka Sharma",
+        "Aishwarya Rai Bachchan",
+        "Shah Rukh Khan",
+        "Alia Bhatt",
+        "Lisa Haydon",
+        "Fawad Khan"
+      ],
+      "titles": [
+        "Ae Dil Hai Mushkil",
+        "Channa Mereya",
+        "Bulleya",
+        "The Breakup Song",
+        "Cutipie"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://english.cdn.zeenews.com/sites/default/files/2026/10/28/1992243-karan-johar.jpg",
+        "caption": "Karan Johar Celebrates Decade of 'Ae Dil Hai Mushkil' With Notes on Unrequited Love",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-10-28T10:42:48Z"
   }
 };
