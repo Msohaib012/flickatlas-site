@@ -213,6 +213,28 @@ def title_meta(entry):
     kws.append("%s %s" % (title, "review" if is_tv else "movie review"))
     if (entry.get("budget") or 0) > 0:
         kws.append("%s budget" % title)
+    # Visible == meta (owner rule): the detail pages show a Top Searches
+    # dropdown built from the entry's own data (js/page-movie.js,
+    # js/page-show.js) — the same phrases belong in the meta keywords.
+    if not is_tv:
+        if entry.get("trailer"):
+            kws.append("%s trailer" % title)
+        if entry.get("release_date"):
+            kws.append("%s release date" % title)
+        if entry.get("overview"):
+            kws.append("%s story" % title)
+        if entry.get("providers"):
+            kws.append("%s watch online" % title)
+    else:
+        if entry.get("overview"):
+            kws.append("%s story" % title)
+        kws.append("%s episodes" % title)
+        if (entry.get("number_of_seasons") or 0) > 1:
+            kws.append("%s season %d" % (
+                title, entry["number_of_seasons"]))
+        if entry.get("industry") == "pakistani":
+            kws.append("%s latest episode" % title)
+            kws.append("%s watch online" % title)
     if is_tv:
         if entry.get("industry") == "pakistani":
             kws.append("Pakistani dramas 2026" if year == "2026" else "Pakistani dramas")
