@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T17:52:10Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": {
-     "candidates": 385,
-     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20: Kushal Tanwar REACTS To Arishfa's Taunt: Mujhe Padhai Karna Ka Mauka...",
-      "Koffee With Karan 9 Episode 3 Release Date: Who Are The Guests? What To Expect From Karan Johar Show New Ep?",
-      "Bigg Boss 20 Episode 52 Written Update: Scout Nominates Love Gill, Arishfa Slams Gullu Over Education Dig",
-      "EXCLUSIVE! Suraj Sonik On Celebrity Security Amid Tiger Shroff Attack: Safety Shouldn't Be A Privilege...",
-      "Rutba Episode 7 Release Time In India: Will Hadi Lock Horns With Meer Over Housing Society Issue?",
-      "Netaji Subhas Chandra Bose's grandnephew says 'Fauzi' teaser 'ought to be pulled down'",
-      "SRK and Kareena Kapoor reunite for ‘King’ song shoot in Mumbai",
-      "Eminem’s ex-employee pleads guilty to copyright infringement over $50K leak",
-      "Esha Deol chooses father Dharmendra when asked about the perfect husband in Bollywood",
-      "Salim Merchant buys commercial property in Mumbai’s Santacruz West for Rs 12.85 crore",
-      "Udta Teer box office collection day 5: Ayushmann Khurrana, Sara Ali Khan’s spy comedy faces another weekday test as it crosses  ₹25.76 crore",
-      "Jailer 2 box office collection day 13: Rajinikanth's action entertainer slows down after strong second weekend, earns  ₹6.96 crore on 2nd Tuesday",
-      "pretty tough to stop those guys mitchell santner reacts after new zealands loss to india in 3rd t20i 3077137.html",
-      "photo gallery from ranbir kapoor ramayana to ayushmann khurrana yeh prem mol liya 5 films to watch this november 3223115",
-      "EXCLUSIVE: Kanika Maheshwari’s GG Turns Everyday Conversations Into Lessons In Awareness; Actress Says, “Intelligence Is Also About Knowing What to Do When It Matters Most”",
-      "i lived my premkatha with salman khan nyrraa m banerji reveals how she first met salman khan",
-      "uttar pradesh cm yogi adityanath laughing reaction viral over comedian harsh gujral up crime jokes video tmovf dskc 2681699 2026 10 27",
-      "balika vadhu fame navika kotia calls off engagement to businessman mazen mody dating another girl tmovh 2681718 2026 10 27",
-      "dune part three final trailer timothee chalamet zendaya face off in epic conclusion of denis villeneuve trilogy article 156418085",
-      "bts v kim taehyung takes turn to flaunt jungkooks camera skills in brand new photos army in love with reverse pov article 156417612"
-     ],
-     "updated": [],
-     "count": 297,
-     "detail": "310 stories, 1 duplicates removed, 75 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T18:52:13Z",
     "run_id": "40563697871",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "69 stories, 0 duplicates removed, 64 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:29:57Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 73,
+     "detail": "RSS/Atom items across 137 sources; 19 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "dileeps cult comedy classic kalyanaraman to return to theatres in 4k_ 86829.html",
+      "mataji at 100 the woman who turned a spiritual mission into a family 3077188.html",
+      "61 Years Later, Daredevil’s Classic Villain Officially Returns With a Terrifying New Look",
+      "Absolute Batman’s Biggest Twist Could Change Bruce Wayne Forever",
+      "Peter Medak Dies: ‘The Ruling Class’ & ‘Romeo Is Bleeding’ Director Was 88",
+      "BBC “Disappointed” As Staff Plan Industrial Action Vote Over Job Cuts",
+      "a court of splintered harmony review sarah j maas acotar 6.html",
+      "gilded age club email newsletter launch.html",
+      "Director Sean Durkin Behind Series Adaptations Of Chad Harbach’s College-Set Books ‘The Art Of Fielding’ & ‘The Brightness’ For A24",
+      "‘Behemoth!’ Trailer: Pedro Pascal Comes Home In Tony Gilroy’s Movie Music Drama",
+      "Danielle Harris documentary explores the life of the Halloween scream queen",
+      "Yeh Jhumka Kiska hai 😱😡 | Dur e Fishan | Dar e Nijaat | ARY Digital Drama",
+      "At least 64 people killed in Spain as two high-speed trains collide",
+      "Mohabbat Haqeeqat Thi Ya Weham 💔 #shorts #shortsfeed #komalmeer #danyalzafar #raqaas #greentv",
+      "Palat Gaya Khail! Zulm Ki Dastan Mustafa Ko Suna Di Gayi | Hiba Aziz - Danial Afzal | Dastoor",
+      "Har Note Par Sign Kar Diye Maine 🥰 #shorts #shortsfeed #sumaiyyabukhsh #humayunashraf #madaar",
+      "Tom Brady romance Candice Swanepoel Joan Smalls.html",
+      "Hasan Piker Sues Scott Jennings for $72.5 Million For Falsely Claiming He Supports Lynchings",
+      "tyler cameron jokes he went out like jackass after dwts exit",
+      "Win a one night stay at the newly reopened Holiday Inn London - Heathrow M4, Jct.4"
+     ],
+     "updated": [],
+     "count": 23,
+     "detail": "24 stories, 0 duplicates removed, 49 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T17:52:11Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1411,27 +1393,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:30:49Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
+      "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T17:52:11Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": {
-     "candidates": 10,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 5, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1845,19 +1830,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T13:30:49Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2103,27 +2096,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T19:32:36Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 142,
-     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 138 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2537,19 +2522,27 @@
      "detail": "+0 new rows, 9 updated rows, 199 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T13:37:13Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 200 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2809,27 +2802,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T18:58:30Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 86,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 86 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3288,19 +3273,30 @@
      "detail": "api-news.json 82 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:37:15Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 83,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88",
+      "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 83 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3595,19 +3591,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T13:30:00Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3870,19 +3873,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4311,19 +4314,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:30:49Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 23 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
+      "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4577,19 +4590,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4909,24 +4922,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 200,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5236,19 +5249,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5498,19 +5516,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5745,19 +5763,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T17:57:09Z",
-    "run_id": "40554360943",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5987,6 +6005,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -6209,6 +6237,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6411,8 +6449,30 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "keywords_refresh": [
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:37:23Z",
+    "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T13:20:39Z"
+ "updated_at": "2026-10-28T13:37:23Z"
 }

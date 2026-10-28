@@ -13323,5 +13323,205 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 13:00:00 +0000"
+  },
+  "ksfck7": {
+    "id": "ksfck7",
+    "type": "news",
+    "headline": "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
+    "dek": "Twitch streamer Hasan Piker has launched a massive legal battle against conservative commentator Scott Jennings, alleging his remarks on a podcast episode crossed the line into defamation.",
+    "body": [
+      {
+        "h": "The Core Allegations",
+        "p": [
+          "Twitch streamer Hasan Piker has officially initiated legal action against conservative commentator and CNN contributor Scott Jennings. Piker filed a defamation lawsuit seeking $72.5 million in damages, stemming from an episode of Jennings' podcast that aired on August 11.",
+          "According to court documents, Piker alleges that Jennings broadcasted a distorted mashup of his streaming clips. The lawsuit claims that the edited video falsely attributed statements to Piker suggesting he advocates for a return to historical atrocities."
+        ]
+      },
+      {
+        "h": "Disputing the Podcast Claims",
+        "p": [
+          "The focal point of the legal complaint centers around audio where Piker allegedly stated that society should return to a time when lynchings occurred. The lawsuit argues that Jennings highlighted these remarks to Black voters, framing them as a genuine political platform for the streamer.",
+          "Legal representatives for Piker maintain that the original commentary was entirely sarcastic. They argue that Piker was mocking a different individual's remarks rather than offering any form of endorsement for violence or illegal acts."
+        ]
+      },
+      {
+        "h": "Legal Arguments and Retraction Demands",
+        "p": [
+          "Piker's legal team contends that the statements made on the podcast crossed the boundary from standard political disagreement into malicious falsehoods. They emphasized in the filing that these remarks were presented as factual assertions about Piker's actual advocacies.",
+          "Before escalating the matter to a formal lawsuit, Piker's attorneys attempted to resolve the issue directly. They dispatched a formal letter to Jennings demanding a complete retraction, but received no response or acknowledgment."
+        ]
+      },
+      {
+        "h": "Impact on Reputation and Livelihood",
+        "p": [
+          "The multi-million dollar damage claim reflects the perceived severity of the reputational harm caused by the broadcast. Piker argues that the allegations have directly damaged his professional standing and his capacity to earn a living.",
+          "As a prominent left-wing political streamer, public perception is vital to Piker's career. The lawsuit asserts that associating him with support for lynchings creates significant professional and personal liabilities."
+        ]
+      },
+      {
+        "h": "Background and Context",
+        "p": [
+          "This legal confrontation highlights the ongoing tensions between prominent digital content creators and traditional political commentators. Both figures occupy influential spaces in contemporary political discourse, often clashing over ideological lines.",
+          "Attempts to secure a comment from Scott Jennings regarding the pending litigation have not yet yielded a response. The case continues to draw widespread attention from observers of media law and digital politics."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hasan Piker has filed a $72.5 million defamation lawsuit against Scott Jennings following an August 11 podcast episode where Jennings featured manipulated clips of Piker. Piker's legal team states the clips were sarcastic remarks taken out of context to falsely claim he supported lynchings, and a prior demand for a retraction went unanswered."
+        ]
+      }
+    ],
+    "facts": [
+      "Hasan Piker sued Scott Jennings for $72.5 million.",
+      "The lawsuit alleges defamation over claims that Piker supports lynchings.",
+      "The disputed podcast episode aired on August 11.",
+      "Scott Jennings is a conservative commentator and CNN contributor.",
+      "Hasan Piker is a left-wing Twitch streamer."
+    ],
+    "entities": {
+      "people": [
+        "Hasan Piker",
+        "Scott Jennings"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Hasan Piker",
+      "Scott Jennings",
+      "Hasan Piker lawsuit",
+      "Scott Jennings defamation"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/21/16by9/2026/10/28/213371b06b854cf4892fd6569e7006d9_xl.jpg",
+        "caption": "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-10-28T06:27:28-07:00"
+  },
+  "1hec3yx": {
+    "id": "1hec3yx",
+    "type": "news",
+    "headline": "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88",
+    "dek": "The Hungarian-British filmmaker behind The Changeling, The Krays, and extensive television work has died in Los Angeles at the age of 88.",
+    "body": [
+      {
+        "h": "Passing of a Veteran Director",
+        "p": [
+          "The acclaimed Hungarian-British film and television director Peter Medak has passed away at the age of 88. His family announced that he died peacefully on Tuesday, October 27, in Los Angeles. While a specific cause of death was not disclosed, his passing marks the end of a prolific career spanning six decades across feature films, television, and the arts.",
+          "Throughout his extensive working life, Medak earned a reputation as a dedicated filmmaker whose credits ranged from cult classics to widely recognized critical successes. His death leaves behind a rich legacy in both cinema and television production, noted by colleagues and family members alike."
+        ]
+      },
+      {
+        "h": "Early Life and Upbringing in Budapest",
+        "p": [
+          "Born in Budapest, Hungary, in 1937, Medak discovered an early fascination with motion pictures at just eight years old when an aunt gifted him a 35-millimeter hand-cranked projector along with a strip of film. However, his formative years were heavily marked by political turmoil under the Communist regime.",
+          "When he was 13 years old, he was banned from attending school because his father was labeled a capitalist and imprisoned for years. With his mother working in a plastics factory and his brother having passed away, Medak spent long stretches alone, observing the world from their apartment window, an experience he later credited with shaping his observant perspective."
+        ]
+      },
+      {
+        "h": "Escape to England and Career Beginnings",
+        "p": [
+          "In 1956, at the age of 18, Medak fled to England. He began his professional journey as a trainee at Associated British-Pathe, gaining hands-on experience on major British production sets before quickly advancing to assistant director roles on projects such as The Great Armored Car Swindle and The Phantom of the Opera.",
+          "His early industry contributions soon caught the attention of MCA Universal Pictures. In 1963, the studio brought him to Los Angeles under a television-directing contract, where he worked on series like Court Martial, laying the groundwork for his future in American television."
+        ]
+      },
+      {
+        "h": "Feature Films and Critical Acclaim",
+        "p": [
+          "Paramount signed Medak in 1967 to helm his debut feature, Negatives, starring Glenda Jackson. He followed this with two celebrated black comedies in 1972: A Day in the Death of Joe Egg, starring Alan Bates, and The Ruling Class, featuring Peter O'Toole. The latter earned Medak a nomination for the Palme d'Or, while O'Toole received an Academy Award nomination.",
+          "Over the course of his career, Medak directed 27 feature films, gaining renown as an actors' director. His notable filmography includes The Changeling starring George C. Scott, The Krays featuring Martin and Gary Kemp, Let Him Have It, and Romeo Is Bleeding with Gary Oldman."
+        ]
+      },
+      {
+        "h": "Television Work and Music Ventures",
+        "p": [
+          "In addition to his feature work, Medak maintained a prolific career in television directing, accumulating 59 episodic credits. His television portfolio included acclaimed and influential series such as Homicide: Life on the Street, Chicago Hope, The Wire, and Breaking Bad.",
+          "Beyond traditional film and television, Medak possessed a deep passion for music. He directed some of the earliest music videos for prominent artists like Peter Gabriel and Pink Floyd, and applied his vision to the opera realm by directing La voix humaine with Julia Migenes, staging Salome in Minneapolis, and working on Rigoletto with the Los Angeles Opera."
+        ]
+      },
+      {
+        "h": "Documentary Success and Personal Philosophy",
+        "p": [
+          "In 2018, Medak released the documentary The Ghost of Peter Sellers, which earned critical acclaim and won Best Documentary at the Beverly Hills Film Festival. His enduring dedication to the craft was encapsulated in his own reflection on filmmaking: \"If it's in your blood, directing... you never stop directing and it doesn't matter that you're alone in your mind, dreaming or imagining things but you're always making a movie.\"",
+          "Medak is survived by his children Christopher, Joshua, Karen, and Cornelia Medak, as well as his grandchildren Sacha, Marlowe, Ryden, Oliver, and Anders. He was previously married to Katherine La Kermance, Carolyn Seymour, and Julia Migenes, and was in a relationship with Christine Wagner."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned film and television director Peter Medak has died at the age of 88 in Los Angeles. With a career spanning six decades, he directed 27 feature films and numerous television episodes, leaving behind a lasting legacy in the entertainment industry."
+        ]
+      }
+    ],
+    "facts": [
+      "Peter Medak died on Tuesday, October 27, in Los Angeles at the age of 88.",
+      "He was born in Budapest, Hungary in 1937.",
+      "He directed 27 feature films and 59 episodes of television across a 60-year career.",
+      "His notable films include The Ruling Class, The Changeling, The Krays, and Romeo Is Bleeding.",
+      "His 2018 documentary The Ghost of Peter Sellers won Best Documentary at the Beverly Hills Film Festival."
+    ],
+    "entities": {
+      "people": [
+        "Peter Medak",
+        "George C. Scott",
+        "Gary Oldman",
+        "Martin Kemp",
+        "Gary Kemp",
+        "Peter O'Toole",
+        "Glenda Jackson",
+        "Alan Bates",
+        "Peter Gabriel",
+        "Julia Migenes",
+        "Christopher Medak",
+        "Joshua Medak",
+        "Karen Medak",
+        "Cornelia Medak",
+        "Sacha",
+        "Marlowe",
+        "Ryden",
+        "Oliver",
+        "Anders",
+        "Katherine La Kermance",
+        "Carolyn Seymour",
+        "Christine Wagner"
+      ],
+      "titles": [
+        "The Ruling Class",
+        "The Changeling",
+        "Romeo Is Bleeding",
+        "The Krays",
+        "The Great Armored Car Swindle",
+        "The Phantom of the Opera",
+        "Court Martial",
+        "Negatives",
+        "A Day in the Death of Joe Egg",
+        "Let Him Have It",
+        "The Ghost of Peter Sellers",
+        "Homicide: Life on the Street",
+        "Chicago Hope",
+        "The Wire",
+        "Breaking Bad",
+        "La voix humaine",
+        "Salome",
+        "Rigoletto"
+      ]
+    },
+    "keywords": [
+      "Peter Medak",
+      "The Ruling Class director",
+      "Peter Medak death",
+      "The Changeling director"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/image1.jpeg?w=1024",
+        "caption": "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 13:24:49 +0000"
   }
 };
