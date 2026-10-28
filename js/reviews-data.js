@@ -454,6 +454,28 @@ window.FA_REVIEWS = {
     "verdict": "Drishyam: The Conclusion successfully provides the closure its premise demands while delivering thrilling moments for fans of the franchise. Despite a tiring finish and a formula that struggles not to show its age, it remains a worthwhile watch. It is recommended for those invested in the accumulated mythology of Vijay Salgaonkar.",
     "weaknesses": "The film faces the challenge of repeatedly revisiting the same crime, family, and cat-and-mouse formula, which risks showing its age. Reviewers noted a tiring finish, indicating that it might not be the most spellbinding or fitting farewell the franchise deserved."
   },
+  "1283515": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 4.0,
+      "Direction": 4.0,
+      "Music & BGM": 6.0,
+      "Performances": 5.0,
+      "Story & Screenplay": 4.0
+    },
+    "comedy": "The movie relies on pulpy fun and metafictional gimmicks rather than traditional comedic scenes. Reviewers note that the script explains its various narrative games as they happen, leaving viewers to wonder which character is the rottenest. Some audiences may even find themselves laughing with derision throughout the psychosexual drama.",
+    "overall": 4.5,
+    "performances": "The cast features Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, and Ismael Cruz Cordova under the direction of Michael Showalter. Reviewers offer mixed opinions, with some stating that the lead actors phone it in and feature paper-thin characterization. Conversely, others highlight Anne Hathaway as playing multiple versions of Verity and relishing every moment.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Lowen Ashleigh is hired to ghostwrite for best-selling thriller author Verity Crawford, who is known for writing from the perspective of villains. While working, Lowen uncovers Verity's autobiographical notes at an extravagant lake house. This discovery draws Lowen into a lethal conspiracy centered on truth, believability, and credibility.",
+    "strengths": [
+      "reams of pulpy fun",
+      "metafictional gimmicks",
+      "Anne Hathaway's performance"
+    ],
+    "verdict": "Michael Showalter's adaptation of Colleen Hoover's novel is a woeful endeavor that struggles to engage beyond its pulpy premise. Despite some campy elements and Anne Hathaway's presence, the film delivers a vapid experience with an eye-rolling plot. Most viewers are advised to skip this dismal psychosexual drama.",
+    "weaknesses": "The film suffers from bumpy pacing, an eye-rolling plot, and paper-thin characters. Reviewers describe it as a shallow approximation of an erotic thriller with a protagonist who lacks inner life or stakes, resulting in a vapid psychosexual drama that blinks right when it should bite."
+  },
   "1290035": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -555,6 +577,30 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Udta Teer is a fun and entertaining spy comedy with a genuinely interesting premise. It doesn't maintain the same freshness throughout, but the performances and first-half humour make it a worthwhile watch. If you enjoy Ayushmann's comedy and quirky Bollywood entertainers, this one is worth giving a chance.",
     "weaknesses": "The second half becomes more serious and complicated, with multiple twists and identity changes that can become difficult to follow. Some songs slow down the momentum, and the film doesn't maintain the same comedic energy throughout."
+  },
+  "1376400": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "While not a traditional comedy, the film leans into a fun and entertaining B-movie energy that delivers squirm-inducing thrills. It embraces its creature-feature formula without taking itself too seriously, making the horror an amusingly creepy experience. Reviewers highlight the entertaining nature of watching the terrifying scenario unfold.",
+    "overall": 6.5,
+    "performances": "Matilda Lutz leads the cast as Serena, joined by Gary Anthony Stennette, Elena Sanz, Andrea Scott Méndez, and Isabella Marie Egizi. The actors ground the tense apartment building invasion with committed turns against the multi-legged threat. The performances help sell the skin-crawling nature of the monster feature.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Tenants at the Paradiso Palms apartments must fight for their survival against a deadly spider invasion. Serena, played by Matilda Lutz, is caught up in the horrific events alongside other residents. The building manager may be their only hope as the arachnid threat grows.",
+    "strengths": [
+      "Creepy spider horror atmosphere",
+      "Effective use of confined spaces",
+      "Superb spider animation",
+      "Fun B-movie energy",
+      "Engaging pace"
+    ],
+    "verdict": "Crawlers is a taut, squirm-inducing creature feature that delivers plenty of fun for fans of spooky season horror. While it follows a familiar formula, effective pacing and skin-crawling moments make it an entertaining watch. Recommended for horror enthusiasts looking for a creepy spider thriller.",
+    "weaknesses": "The film leans heavily on a familiar creature-feature formula that bears a distractingly similar premise to previous spider movies. It can be undeniably bad in places and stays mostly within safe genre lines. Viewers looking for profound narrative innovation may find the plot somewhat derivative."
   },
   "1377455": {
     "categories": {
@@ -670,6 +716,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "The Last Ride offers a dark, supernatural ride with an interesting migrant worker premise and an eerie witch encounter, but its execution stumbles. While the acting performances carry the weight of the journey, the uneven narrative may leave some viewers disappointed. It is recommended only for horror fans willing to overlook its structural flaws.",
     "weaknesses": "The film struggles with a creaky, crawling thriller structure that can feel like a head-slapper with characters making questionable choices. It stumbles out of the gate and can leave a bad taste in the viewer's mouth by the end. The simplistic plot requires a lot of work to keep audiences intrigued throughout."
+  },
+  "1422041": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.5,
+      "Music & BGM": 7.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "As a drama focusing on war, history, and unfinished love stories under the grip of fascism, the film leans away from traditional comedy. Its entertainment value relies instead on its novelistic approach, historical consciousness, and poetic portrait of homosexuality. The narrative offers a deeply vulnerable and confident exploration of queer storytelling rather than conventional humorous diversions.",
+    "overall": 8.0,
+    "performances": "The film features a notable cast including Guitarricadelafuente, Miguel Bernardeau, Carlos González, Milo Quifes, and Lola Dueñas. The ensemble brings emotional truth and vulnerability to this era-spanning tale. Their grounded portrayals successfully navigate the complex, interconnected lives of men facing repression and historical hardship.",
+    "source": "FlickAtlas Review",
+    "story_plot": "La bola negra tells an epic, sprawling story that spans three connected timelines across 75 years of history. The triptych tale intertwines the lives of three men linked by sexuality and desire, pain, and legacy. It includes a 1932 neorealist tale of a closeted young man seeking membership at a casino, a tragic wartime romance in 1937, and a 2017 lo-fi drama about a historian investigating these events.",
+    "strengths": [
+      "Epic and sprawling storytelling across three connected timelines",
+      "Grounded by emotional truth and historical consciousness",
+      "Co-written by Los Javis and Alberto Conejero with a novelistic approach",
+      "Prize-winning production with strong festival recognition"
+    ],
+    "verdict": "La bola negra is a powerful, era-spanning ode to queer storytellers that successfully reclaims emotional truth from history. While its sprawling triptych structure can feel slightly ungainly, the film is well worth checking out for its ambition and poetic depth. It comes recommended for viewers looking for a moving, historically conscious drama.",
+    "weaknesses": "Despite its ambitious and moving scope, the film can occasionally feel slightly ungainly as it balances its multiple historical eras and heavy thematic elements. The sprawling structure and dense narrative weight may test the pacing for some viewers during its extensive runtime."
   },
   "1423191": {
     "categories": {
@@ -856,6 +925,53 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Baththa is a brilliant, emotionally resonant film that never compromises on its writing or filmmaking. With superb narration and outstanding performances across the board, it offers a refreshing and heartwarming take on unexpected bonds. Highly recommended for viewers looking for a meaningful and entertaining cinematic experience.",
     "weaknesses": "While the film is largely praised for its tight execution and brilliant writing, a premise involving a prolonged confinement in a school restroom carries narrative risks of pacing fatigue. Such a singular, constrained setup requires careful handling to prevent the middle stretches from testing the audience's suspension of disbelief. Reviewers note that navigating this unconventional setup demands patience, though the payoff ultimately justifies the journey."
+  },
+  "1561726": {
+    "categories": {
+      "Action & Cinematography": 5.5,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 5.0,
+      "Music & BGM": 6.0,
+      "Performances": 6.5,
+      "Story & Screenplay": 4.0
+    },
+    "comedy": "The film attempts to channel the spirit of late-20th-century crime comedies and caper films with a tart, slightly farcical and lightly sardonic tone. Reviewers note that the movie knows it is ridiculous, which aids its watchability even if the writing struggles to fully land its comedic and emotional aspirations. It relies on standard genre machinery and a Guy Ritchie-esque mood board to drive its entertainment value.",
+    "overall": 5.0,
+    "performances": "Stanley Tucci leads the cast as the felonious Roger Cavendish, bringing his established range to the caper alongside Simona Tabasco, who plays Italian tech whiz Chiara. The ensemble cast also features Victor Belmondo, Eliott Margueron, and Barbara Lo Gaglio. While the screenplay squanders some of its emotional potential, the actors do what they can with the material provided.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In Masterplan, a legendary thief named Roger Cavendish sets his sights on stealing the Mona Lisa by recruiting two young strangers, only to reveal they are his long-lost children and he is their father. The newly reunited family is thrown into a chaotic heist, utilizing a criminal underworld version of Tinder to enlist help from Italian tech whiz Chiara. Along the way, the crew engages in plenty of thievery, manipulation, and twists as they attempt to pull off the caper.",
+    "strengths": [
+      "Stanley Tucci leading the cast",
+      "A colorful world conjured by director Thomas Vincent",
+      "A stylish musical mood reminiscent of Bond and Shaft",
+      "An intriguing initial heist premise involving the Mona Lisa"
+    ],
+    "verdict": "Masterplan leans heavily on familiar caper tropes and a high-concept premise involving the Mona Lisa, but ultimately falters under the weight of a weak screenplay. While Stanley Tucci's presence and a colorful visual style offer some watchability, the overall execution feels empty. It is a strictly skippable streaming option for viewers seeking a truly sharp crime comedy.",
+    "weaknesses": "Despite a promising setup, the screenplay fails at every level by squandering its emotional throughline and leaving the estranged-sibling and father dynamics feeling half-assed. The writing offers an unconvincing veneer of sentimentality over routine plot machinery, hampered further by a torrent of harsh language and content issues."
+  },
+  "1578079": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.5,
+      "Music & BGM": 8.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 8.0
+    },
+    "comedy": "While the film leans heavily into darker and more emotional dramatic territory, its entertainment value stems from an engaging and surprising story. Rather than offering traditional comedic relief, it immerses viewers in its world through boldly emotional and transportive storytelling. The overall experience relies more on its deeply emotional journey and imaginative elements than on lighthearted humour.",
+    "overall": 7.5,
+    "performances": "The film features strong lead performances from a cast that includes Sananth, Rishikanth, Keerthy Suresh, Jeeva Subramanian, and Ramachandran Durairaj. Reviewers highlight the bold and expressive nature of these lead performances, noting how they help immerse the audience in the characters' feelings. However, some criticism has been raised regarding casting choices, such as a cis-male performer being cast as a trans woman.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set in rural Tamil Nadu within a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable. Their lives are ultimately transformed by the arrival of Dorothy, a compassionate woman who quietly challenges the societal norms around them. At its heart, the narrative explores gender norms in India's Tamil region and the long, winding road to becoming your innermost self.",
+    "strengths": [
+      "Boldly emotional lead performances",
+      "Expressive cinematography and excellent camerawork",
+      "Extremely good music",
+      "Brilliant editing at a breakneck pace",
+      "Engaging and surprising story"
+    ],
+    "verdict": "Dorothy offers a deeply emotional and transportive cinematic experience that will make viewers reassess their views on life through its empathetic nature. While it suffers from some heavy-handed elements, relentless darkness, and controversial casting choices, its brilliant pacing, strong music, and powerful performances make it a compelling watch. Recommended for audiences looking for a bold and dramatic exploration of gender norms and identity.",
+    "weaknesses": "Despite its many strengths, Dorothy has rough edges and faces friction from being unrelentingly bleak to the point where everything feeds into a pervasive darkness. Reviewers note that the violence against women eventually becomes the only thing one of the main characters sees, leading to rote visual depictions of women in agony. Additionally, the character of Dorothy can feel a bit too heavy-handed and jarring as a lynchpin for unravelling the film."
   },
   "1593350": {
     "categories": {
