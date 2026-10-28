@@ -175,9 +175,11 @@
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
     /* ---------- HERO = latest currently-running movies (user order
-       2026-10-26): max 4 slides, the 4 NEWEST published movies that are
-       currently running (released + fresh = in cinemas now), newest
-       first. A slide is "live" when the title has day-wise rows (Day N
+       2026-10-28): 5 slides — first 2 Indian (industry "bollywood"),
+       remaining 3 international ("world" + "pakistani"), newest-first
+       within each bucket. If a bucket is short, the other bucket fills
+       the remaining slots newest-first, so the hero stays full whenever
+       the pool allows. A slide is "live" when the title has day-wise rows (Day N
        collection + running total); otherwise it shows Release Date +
        "Now in Cinemas" (the non-live branch of heroSlideHtml). No live
        TMDB fetch — a title with no day-wise rows simply has no live
@@ -190,7 +192,18 @@
     const heroPool = pubAll()
       .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x) && !UI.isStreamingOnly(x))
       .sort(byNewest);
-    const heroSlides = heroPool.slice(0, 4).map(entry => {
+    /* Owner order 2026-10-28: first 2 slides Indian, remaining 3
+       international, newest-first within each bucket. Short bucket =>
+       the other bucket fills the rest newest-first (hero stays full
+       whenever the pool allows; never fewer slides than the pool has). */
+    const heroIndian = heroPool.filter(x => x.industry === "bollywood");
+    const heroIntl = heroPool.filter(x => x.industry !== "bollywood");
+    const heroPicked = heroIndian.slice(0, 2)
+      .concat(heroIntl.slice(0, 3))
+      .concat(heroIndian.slice(2))
+      .concat(heroIntl.slice(3))
+      .slice(0, 5);
+    const heroSlides = heroPicked.map(entry => {
       const rows = dwData[String(entry.id)];
       if (Array.isArray(rows) && rows.length) {
         const total = rows.reduce((s, r) => s + (r.collection || 0), 0);
@@ -1161,6 +1174,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
