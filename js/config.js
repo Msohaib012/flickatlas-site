@@ -5,7 +5,7 @@
 const CONFIG = {
   TMDB_KEY: "340b676f5c88561441b6e38be7f15866",
   IMG: "https://image.tmdb.org/t/p",
-  BASE: "https://flickatlas.vercel.app",
+  BASE: "https://flickatlas.co.uk",
   SITE: "FlickAtlas",
   EMAIL: "mkdrivedata@gmail.com"
 };

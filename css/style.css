@@ -202,9 +202,9 @@ h3{font-size:1.05rem;font-weight:700}
   display:flex;flex-direction:column;justify-content:flex-start}
 .hero-kicker{display:inline-block;background:var(--emerald);color:#04362B;font-weight:800;
   font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;padding:5px 11px;border-radius:999px;margin-bottom:12px;align-self:flex-start}
-.hero-in h1{color:#fff;margin-bottom:10px}
+.hero-in h1,.hero-in h2{color:#fff;margin-bottom:10px;font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;font-weight:800;letter-spacing:-.02em}
 /* hero titles never sprawl: two lines maximum, like the synopsis */
-.hero-slide h1{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.hero-slide h1,.hero-slide h2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .hero-in p{color:#D8EDE8;font-size:.98rem;max-width:52ch}
 /* hero synopsis is a banner teaser: two lines maximum, never a synopsis
    wall running over the artwork (hero cleanup) */
@@ -634,7 +634,7 @@ tr.dw-total td:first-child{box-shadow:inset 3px 0 0 var(--teal)}
   .hero-kicker{white-space:nowrap}
   .brand-name{font-size:1.18rem}
   .logo-ic{width:36px;height:36px}
-  .hero-in h1{font-size:1.55rem}
+  .hero-in h1,.hero-in h2{font-size:1.55rem}
   .tl-date{width:50px}
 }
 

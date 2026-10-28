@@ -215,6 +215,10 @@
 
     const heroSlideHtml = (s, idx) => {
       const hd = s.d;
+      // SEO: one H1 per page — only the first hero slide carries the H1;
+      // slides 2-5 use H2 (same visual styling, see css/style.css
+      // .hero-in h1/.hero-in h2). Previously all 5 slides were H1s.
+      const titleTag = idx === 0 ? "h1" : "h2";
       const indLabel = hd.industry === "bollywood" ? "Bollywood" : hd.industry === "pakistani" ? "Pakistani" : "World Cinema";
       /* One single meta line (hero cleanup + mobile organisation): rating ·
          year, inline on one line. Sits directly under the title. */
@@ -241,7 +245,7 @@
         <div class="hero-in">
           <div class="hero-title-row"><div class="hero-title-copy">
           <span class="hero-kicker">${s.live ? `<span class="live-dot"></span>Live Box Office · ${indLabel}` : `Featured · ${indLabel}`}</span>
-          <h1>${UI.esc(UI.titleOf(hd))}</h1>
+          <${titleTag}>${UI.esc(UI.titleOf(hd))}</${titleTag}>
           ${metaHtml}
           </div>${hd.poster_path ? `<img class="hero-mini-poster" data-movie-id="${hd.id}" src="${UI.img(hd.poster_path, "w342")}" alt="${UI.esc(UI.titleOf(hd))} poster" width="228" height="342" loading="${idx === 0 ? "eager" : "lazy"}" decoding="async" onerror="this.remove()">` : ""}</div>
           <p class="hero-syn">${UI.esc((hd.overview || "").slice(0, 200))}${(hd.overview || "").length > 200 ? "…" : ""}</p>

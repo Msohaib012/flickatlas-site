@@ -554,6 +554,22 @@ jobs:
           PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
         run: python3 scripts/daily_history.py
 
+      # --- 13d. SEO assets (always, never fatal) ----------------------
+      # Regenerate js/seo-meta.json + sitemap.xml + robots.txt from the
+      # live data (scripts/seo_assets.py, stdlib only, deterministic —
+      # no timestamps, so the files only change when the DATA changes).
+      # The Worker injects per-URL <title>/meta/OG/JSON-LD for the
+      # client-rendered detail shells (/movie, /show, /news-item,
+      # /box-office-day, /category) from js/seo-meta.json; the sitemap
+      # lists every listing + detail + article URL for Google.
+      # continue-on-error: a generator failure must never fail the run
+      # (the previous hour's files stay live and keep working).
+      - name: SEO assets
+        id: seoassets
+        if: always()
+        continue-on-error: true
+        run: python3 scripts/seo_assets.py
+
       # --- 14. ONE commit (always runs, even if a step failed) ---------
       # A manual push can land while the pipeline runs (the parent pushes
       # by hand all day). The pipeline's HTML changes are ONLY the
@@ -625,6 +641,7 @@ jobs:
             -d "{\"ref\":\"main\",\"inputs\":{\"pipeline_run_id\":\"${{ github.run_id }}\"}}")
           echo "watchdog dispatch HTTP $code"
           [ "$code" = "204" ] || echo "watchdog dispatch failed (non-fatal)"
+
 
 
 
