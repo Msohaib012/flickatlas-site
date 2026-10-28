@@ -1,33 +1,33 @@
 {
   "connected": true,
-  "generated": "2026-10-28T18:00:29Z",
+  "generated": "2026-10-28T19:02:16Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 2,
-    "pageviews": 27,
-    "sessions": 7,
-    "avg_session_seconds": 54.2
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
     "users": 27,
-    "pageviews": 520,
-    "sessions": 66,
-    "avg_session_seconds": 852.9
+    "pageviews": 534,
+    "sessions": 67,
+    "avg_session_seconds": 853.4
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 165,
-      "avg_time_seconds": 831.8
+      "views": 168,
+      "avg_time_seconds": 822.0
     },
     {
       "path": "/movie",
       "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-      "views": 75,
-      "avg_time_seconds": 301.4
+      "views": 77,
+      "avg_time_seconds": 279.1
     },
     {
       "path": "/news-item",
@@ -82,7 +82,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 65,
+      "sessions": 66,
       "users": 27
     },
     {

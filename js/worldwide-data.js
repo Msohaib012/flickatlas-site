@@ -32,13 +32,94 @@ window.FA_WORLDWIDE = {
     "total_usd": 827346
   },
   "1195803": {
-    "as_of": "2026-10-26",
-    "domestic_usd": 5750000,
-    "note": "Opening-weekend domestic $5.75M from 1,471 theatres; no international gross reported yet.",
-    "scope": "domestic-opening-weekend",
-    "source": "JoBlo / Associated Press (Rentrak)",
-    "title": "Wicker",
-    "total_usd": 5750000
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.boxofficemojo.com/title/tt29611136",
+    "total_usd": 2360000
+  },
+  "1283515": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.the-numbers.com/movie/Verity-(2026)",
+    "total_usd": 62618776
+  },
+  "1290035": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.imdb.com/title/tt34792531",
+    "total_usd": 109835
+  },
+  "1371730": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 1274219009
+  },
+  "1376400": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 1274219009
+  },
+  "1416312": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 1274219009
+  },
+  "1422041": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.boxofficemojo.com/title/tt35511966",
+    "total_usd": 17086006
+  },
+  "1480856": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 69995385
+  },
+  "1561726": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 913000000
+  },
+  "1596275": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 1274219009
+  },
+  "1727734": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.themirror.com/entertainment/movies/ali-g-movie-box-office-2084964",
+    "total_usd": 4600000
+  },
+  "1770836": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.boxofficemojo.com/release/rl939951617",
+    "total_usd": 2177678
+  },
+  "1780005": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://www.theknot.com/us/surviving-hurricane-otis-fullmovie-onl-and-4khd-free-available-now",
+    "total_usd": 152000000
+  },
+  "1793054": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 69995385
+  },
+  "1799668": {
+    "as_of": "2026-10-28",
+    "scope": "worldwide",
+    "source": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+    "total_usd": 913000000
   },
   "791523": {
     "as_of": "2026-10-28",
@@ -51,14 +132,10 @@ window.FA_WORLDWIDE = {
     "total_usd": 16600000
   },
   "858035": {
-    "as_of": "2026-10-27",
-    "domestic_usd": 701059,
-    "intl_usd": 668601,
-    "note": "Wikipedia box office $1.4M agrees (rounded).",
+    "as_of": "2026-10-28",
     "scope": "worldwide",
-    "source": "The Numbers, via Techloy",
-    "title": "Klara and the Sun",
-    "total_usd": 1370000
+    "source": "https://www.boxofficemojo.com/title/tt14371256",
+    "total_usd": 300000
   },
   "969681": {
     "as_of": "2026-10-28",

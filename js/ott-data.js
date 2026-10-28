@@ -143,9 +143,37 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-16",
+      "date_kind": "release",
+      "id": 1561726,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-09",
       "date_kind": "release",
       "id": 1389172,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-25",
+      "date_kind": "release",
+      "id": 1578079,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",

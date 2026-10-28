@@ -5361,5 +5361,530 @@ window.FA_PUBLISHED = {
     ],
     "release_date": "2025-04-16",
     "runtime": 138
+  },
+  "1800255": {
+    "id": 1800255,
+    "type": "movie",
+    "title": "Enemy Of The Smuggler",
+    "poster_path": "/pDZxgWM1t2fTOB5IUyPJGlDFthl.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Inspired by real customs investigations, a relentless battle unfolds against organized smuggling networks, exposing the hidden world of coastal operations, airport cartels and the officers determined to stop them.",
+    "industry": "bollywood",
+    "popularity": 3.3834,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1416312": {
+    "id": 1416312,
+    "type": "movie",
+    "title": "Little Thomas",
+    "poster_path": "/6cByO46CKFlvQ9cgpv4RBQE6TnB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In early 1990s Goa, seven year old Thomas and his family navigate thr ups and downs in their lives.",
+    "industry": "bollywood",
+    "popularity": 2.2585,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "0i7p58V9W3k",
+      "name": "Little Thomas Teaser | Gulshan Devaiah, Rasika Duggal, Hridansh, Kaushal Oza | Releasing Oct 23",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 125,
+    "providers": []
+  },
+  "1170608": {
+    "id": 1170608,
+    "type": "movie",
+    "title": "Dune: Part Three",
+    "poster_path": "/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+    "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "industry": "world",
+    "popularity": 47.9783,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "uJqaGLmZpGo",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 200000000,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "tagline": "The epic conclusion.",
+    "status": "Post Production",
+    "production_countries": [
+      "US",
+      "AE"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "+13",
+    "release_date": "2026-12-18",
+    "date_kind": "release",
+    "runtime": 150,
+    "providers": []
+  },
+  "1561726": {
+    "id": 1561726,
+    "type": "movie",
+    "title": "Masterplan",
+    "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "backdrop_path": "/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+    "vote_average": 7.036,
+    "vote_count": 183,
+    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+    "industry": "world",
+    "popularity": 150.9867,
+    "original_language": "en",
+    "origin_country": [
+      "FR",
+      "US"
+    ],
+    "trailer": {
+      "key": "gc0t8AfMP6k",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr",
+      "it",
+      "de"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1283515": {
+    "id": 1283515,
+    "type": "movie",
+    "title": "Verity",
+    "poster_path": "/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+    "backdrop_path": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+    "vote_average": 6.4,
+    "vote_count": 273,
+    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+    "industry": "world",
+    "popularity": 138.1498,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "xdPMKhjMSFs",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 40000000,
+    "revenue": 161987040,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "There is no light where we're going.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-10-02",
+    "date_kind": "release",
+    "runtime": 121,
+    "providers": []
+  },
+  "1422041": {
+    "id": 1422041,
+    "type": "movie",
+    "title": "LA BOLA NEGRA",
+    "poster_path": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "vote_average": 8.1,
+    "vote_count": 128,
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "industry": "world",
+    "popularity": 63.3714,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "lBVxKt0gKDY",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 11100000,
+    "revenue": 34474399,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "tagline": "Love leaves a legacy.",
+    "status": "Released",
+    "production_countries": [
+      "ES",
+      "FR"
+    ],
+    "spoken_languages": [
+      "es",
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 159,
+    "providers": []
+  },
+  "1376400": {
+    "id": 1376400,
+    "type": "movie",
+    "title": "Crawlers",
+    "poster_path": "/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+    "backdrop_path": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+    "vote_average": 6.157,
+    "vote_count": 35,
+    "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+    "industry": "world",
+    "popularity": 74.9515,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "4DowjB87tRE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "Skin will crawl.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-09-24",
+    "date_kind": "release",
+    "runtime": 80,
+    "providers": []
+  },
+  "1145110": {
+    "id": 1145110,
+    "type": "movie",
+    "title": "King",
+    "poster_path": "/74fHULlTBMGGLusfFBVAkMAZbce.jpg",
+    "backdrop_path": "/tInyP783MTHruydmJMSo7mfag1U.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
+    "industry": "bollywood",
+    "popularity": 5.1165,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "NR",
+    "release_date": "2026-12-24",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1578079": {
+    "id": 1578079,
+    "type": "movie",
+    "title": "Dorothy",
+    "poster_path": "/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
+    "backdrop_path": "/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
+    "vote_average": 8.5,
+    "vote_count": 8,
+    "overview": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
+    "industry": "bollywood",
+    "popularity": 12.9137,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "jcBG6U5iX8Y",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "A",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 146,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "336579": {
+    "id": 336579,
+    "type": "tv",
+    "title": "Hum Bhi Ji Lain",
+    "poster_path": "/hVV5DJHBvcSSJY47k8Gi04YjGqy.jpg",
+    "backdrop_path": "/2qnfEf0jr17GuSok3dIMTOKQJSG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Hum Bhi Ji Lain is an emotional family drama about Sadia (Faiza Hasan), a sister who becomes a mother to her siblings after losing their parents. Her love and sacrifices hold the family together, but as her siblings grow older, her protection begins to feel like control.\n\nWhat happens when the people you love the most start wanting to make their own choices? Can a family stay together when love, sacrifice, and control collide?",
+    "industry": "pakistani",
+    "popularity": 2.3229,
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-09-24",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-09-24",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Mehtab Chauhan"
+    ],
+    "providers": []
+  },
+  "1652448": {
+    "id": 1652448,
+    "type": "movie",
+    "title": "Memoona and Sheralam",
+    "poster_path": "/ubvkSRsY24NwUYXlvcSDpJaFSqJ.jpg",
+    "backdrop_path": "/xkK23fX0sf1VG6m4hRzJhVzlHlx.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in a 1900s Pashtun village, this tragic short film follows the lives of Sher Alam and Memoona, whose marriage is rooted in a long-standing childhood promise. While their life begins with quiet affection, the peace is shattered by the poison of jealousy and local rumors.  When an innocent interaction is twisted into a scandal by a resentful friend, Sher Alam is consumed by suspicion and the crushing pressure of social \"honor\". His inability to trust leads to a final, devastating decision that destroys their lives and leaves a haunting legacy in the mountains",
+    "industry": "pakistani",
+    "popularity": 0.4605,
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "A single rumor. A moment of doubt. A lifetime of regret.",
+    "status": "In Production",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "release_date": "2026-12-16",
+    "date_kind": "release",
+    "runtime": 25,
+    "providers": []
   }
 };
