@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-28T01:58:15Z",
+  "generated": "2026-10-28T03:02:13Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
     "users": 1,
-    "pageviews": 11,
-    "sessions": 3,
-    "avg_session_seconds": 87.7
+    "pageviews": 18,
+    "sessions": 4,
+    "avg_session_seconds": 76.3
   },
   "last7": {
     "users": 26,
-    "pageviews": 504,
-    "sessions": 64,
-    "avg_session_seconds": 825.7
+    "pageviews": 511,
+    "sessions": 65,
+    "avg_session_seconds": 813.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 157,
-      "avg_time_seconds": 813.1
+      "views": 160,
+      "avg_time_seconds": 797.3
     },
     {
       "path": "/movie",
@@ -82,7 +82,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 62,
+      "sessions": 63,
       "users": 26
     },
     {

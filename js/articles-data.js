@@ -10700,5 +10700,215 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 06:31:21 +0530"
+  },
+  "16tcqet": {
+    "id": "16tcqet",
+    "type": "news",
+    "headline": "Ranbir Kapoor, Yash, and Sai Pallavi headline global premiere of Ramayana: Rise of a Legend in Los Angeles",
+    "dek": "The lead cast of Nitesh Tiwari's mythological epic walked the red carpet for an exclusive 3D screening at the Academy Museum of Motion Pictures in Los Angeles.",
+    "body": [
+      {
+        "h": "Global Premiere in Los Angeles",
+        "p": [
+          "The much-anticipated mythological epic Ramayana: Rise of a Legend celebrated its grand worldwide debut in Los Angeles, drawing immense attention from fans and media alike. The main cast members gathered to launch the project internationally through an exclusive red carpet event.",
+          "Attendees and admirers caught the very first glimpses of the ambitious project during this major introductory phase held abroad."
+        ]
+      },
+      {
+        "h": "Red Carpet Appearances by the Lead Stars",
+        "p": [
+          "Ranbir Kapoor arrived at the venue dressed in a sparkling silver bandhgala while greeting supporters outside. Yash stepped onto the carpet alongside his wife Radhika Pandit, wearing a dark outfit paired with sunglasses and a detailed brooch, while Radhika wore a green and gold silk saree.",
+          "Sai Pallavi completed the main trio's look by opting for a red zardosi saree with detailed embroidery, keeping her styling simple and traditional."
+        ]
+      },
+      {
+        "h": "Venue and Screening Details",
+        "p": [
+          "The special 3D presentation took place at the David Geffen Theatre, situated within the Academy Museum of Motion Pictures. This initial viewing was strictly restricted to invited guests.",
+          "Social media feeds featured packed screening rooms filled with both domestic and international attendees waiting to witness the footage."
+        ]
+      },
+      {
+        "h": "Notable Attendees and Interactions",
+        "p": [
+          "Beyond the primary cast and crew, several notable figures from the entertainment industry joined the festivities. Jada Pinkett Smith, Rohini Iyer, Benji Kelly, and Gisella Marengo were among those spotted at the gathering.",
+          "Highlights from the red carpet included a warm embrace shared between Ranbir Kapoor and Yash in front of photographers."
+        ]
+      },
+      {
+        "h": "Production Background and Creative Team",
+        "p": [
+          "Nitesh Tiwari serves as the director of the film, with Namit Malhotra taking on production duties. The narrative adapts the classic ancient Indian epic for modern cinema audiences.",
+          "The central plot centers on the exile of Rama, the abduction of Sita by Ravana, and the subsequent confrontation representing the victory of righteousness over malevolence."
+        ]
+      },
+      {
+        "h": "Cast and Release Schedule",
+        "p": [
+          "The extensive star-studded cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Sunny Deol as Hanuman, and Ravie Dubey as Lakshman. Additional supporting performers include Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Adinath Kothare, Arun Govil, Indira Krishnan, and Lara Dutta.",
+          "The theatrical rollout is scheduled globally for October 5, followed by paid preview screenings starting on November 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The primary cast of Ramayana: Rise of a Legend attended an exclusive invite-only global premiere in Los Angeles. The event featured red carpet appearances by the lead actors alongside international celebrities prior to the film's upcoming theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Rama in Ramayana: Rise of a Legend.",
+      "Yash plays Ravana.",
+      "Sai Pallavi plays Maa Sita.",
+      "The global premiere took place in Los Angeles.",
+      "The screening was held at the David Geffen Theatre at the Academy Museum of Motion Pictures.",
+      "The premiere began at 7 am IST on October 28, 2026.",
+      "The film is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "Sunny Deol plays Hanuman and Ravie Dubey appears as Lakshman.",
+      "The film will release worldwide on October 5, with paid premieres from November 4."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Radhika Pandit",
+        "Jada Pinkett Smith",
+        "Rohini Iyer",
+        "Benji Kelly",
+        "Gisella Marengo",
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/ramayana-cast-at-global-premiere-283111701-16x9_0.jpg?VersionId=9APUlE2I7WROklIfKlYRwcKCHAGguJBk",
+        "caption": "Ranbir Kapoor, Yash, and Sai Pallavi headline global premiere of Ramayana: Rise of a Legend in Los Angeles",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 08:11:42 +0530"
+  },
+  "ry6268": {
+    "id": "ry6268",
+    "type": "news",
+    "headline": "Dancing With the Stars Suffers Shocking Double Elimination as Horror Movie Night Sends Two Couples Home",
+    "dek": "ABC's hit competition series experienced a major shake-up during its Halloween-themed episode, while behind-the-scenes insights shed light on salaries, pairings, and rigorous rehearsal schedules.",
+    "body": [
+      {
+        "h": "The Double Elimination Shock",
+        "p": [
+          "During the October 27 episode of Dancing With the Stars, viewers experienced a massive surprise when the ABC competition cut two couples from the running. Coming just one week after a safe week for all contestants, the horror movie-themed night proved fatal for two specific pairs after seven weeks in the ballroom.",
+          "Baseball player Jackson Olson and his professional partner Emma Slater found themselves eliminated despite scoring a season-high 35 out of 40 for their contemporary routine. They were joined in the exit by Bachelor Nation alumnus Tyler Cameron and his partner Sharna Burgess, who fell short after pulling in the lowest combined scores from judges and audiences over a two-week period."
+        ]
+      },
+      {
+        "h": "Reflections From the Eliminated Stars",
+        "p": [
+          "Following the tough news, both departing celebrities shared their gratitude and regrets regarding their time on the program. Olson expressed that participating had been a long-term goal since the previous year, highlighting his appreciation for his partner Slater throughout the journey.",
+          "Cameron expressed disappointment over his Viennese Waltz performance earlier in the evening, which earned a score of 26 out of 40, feeling that he let Burgess down. Nevertheless, he praised his partner's dedication and noted the positive personal developments he has experienced."
+        ]
+      },
+      {
+        "h": "Val Chmerkovskiy Returns to the Ballroom",
+        "p": [
+          "The evening also marked the return of professional dancer Val Chmerkovskiy, who performed an Argentine tango with partner Jenna Dewan after serving a one-week suspension. Chmerkovskiy had been benched following controversial remarks referencing the 2022 Oscars slap during a discussion about judge Carrie Ann Inaba's critique of his wife, Jenna Johnson.",
+          "During the pre-performance package and on stage, Chmerkovskiy apologized for his previous comments, while Dewan graciously accepted the apology and expressed her happiness at his return. Meanwhile, Inaba clarified that she and Johnson had resolved their differences following a disagreement over lift rules during a previous episode."
+        ]
+      },
+      {
+        "h": "Behind the Scenes: Contestant and Pro Salaries",
+        "p": [
+          "Recent disclosures from various podcasts and reports have shed light on the financial side of the reality competition. Reports from 2019 indicated that celebrity contestants earned a base of $125,000 for rehearsals and the first two weeks, scaling up to a maximum of $295,000, though former winner Bobby Bones claimed on a podcast that he made closer to $400,000 by reaching the end.",
+          "Professional dancers also see their compensation tied to how long they last in the competition. While pros are guaranteed pay for a specific number of weeks even if eliminated early, reaching the finale secures their full season salary along with an extra bonus, though winning does not grant a cash prize split."
+        ]
+      },
+      {
+        "h": "The Secretive Partner Pairing Process",
+        "p": [
+          "When it comes to matching celebrities with professional partners, the dancers themselves have virtually no say in the decision. According to veteran pros, assignments are kept strictly confidential until the moment they meet live on camera to capture authentic reactions.",
+          "Production teams deliberate carefully when making these choices, factoring in height, build, personality, and overall compatibility. Former showrunners noted that avoiding poor matches is vital to ensuring a smooth and enjoyable experience for both the participants and the viewers."
+        ]
+      },
+      {
+        "h": "Intense Rehearsal Schedules and Costume Creation",
+        "p": [
+          "Life as a competitor or professional on the show requires a massive time commitment, with daily four-hour rehearsals leaving little room for rest. Dancers often juggle blocking, camera work, choreography study, and producer meetings across a nearly continuous weekly schedule.",
+          "At the same time, the costume department faces a rapid turnaround, crafting custom outfits for each routine in five days or less. Designers work with roughly twenty staff members and a separate tailor shop to ensure fresh looks every week without repeating competitive costumes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dancing With the Stars eliminated two couples during its recent horror-themed episode following combined low scores. The broadcast also featured the return of a suspended professional dancer and highlighted behind-the-scenes operations regarding pay, pairings, and grueling weekly preparations."
+        ]
+      }
+    ],
+    "facts": [
+      "The Dancing With the Stars episode aired on October 27.",
+      "Jackson Olson and Emma Slater achieved a score of 35 out of 40.",
+      "Tyler Cameron and Sharna Burgess received a score of 26 out of 40 for their Viennese Waltz.",
+      "Val Chmerkovskiy was benched for the October 20 episode.",
+      "Carrie Ann Inaba commented on the situation in an Instagram post on October 25."
+    ],
+    "entities": {
+      "people": [
+        "Jackson Olson",
+        "Emma Slater",
+        "Tyler Cameron",
+        "Sharna Burgess",
+        "Shirley Ballas",
+        "Val Chmerkovskiy",
+        "Jenna Dewan",
+        "Alan Bersten",
+        "Will Smith",
+        "Carrie Ann Inaba",
+        "Jenna Johnson",
+        "Harry Shum Jr.",
+        "Bobby Bones",
+        "Jason Tartick",
+        "Kelly Stafford",
+        "Hank Winchester",
+        "Adam Rippon",
+        "Joey Graziadei",
+        "Lindsay Arnold",
+        "Maggie Sellers",
+        "Rob Wade",
+        "Rylee Arnold",
+        "Stephen Nedoroscik",
+        "Joe Vulpis",
+        "Britt Stewart",
+        "Daniela Gschwendtner",
+        "Steven Norman Lee",
+        "Tate Madden"
+      ],
+      "titles": [
+        "Dancing With the Stars"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261027/b657ea26-4bd7-48b9-be27-e985694469fe_1793134187.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Dancing With the Stars Suffers Shocking Double Elimination as Horror Movie Night Sends Two Couples Home",
+        "source": "E! News"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 02:10:00 GMT"
   }
 };
