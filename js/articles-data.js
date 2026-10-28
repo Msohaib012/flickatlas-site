@@ -13161,5 +13161,167 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 12:36:43 GMT"
+  },
+  "9w8w6n": {
+    "id": "9w8w6n",
+    "type": "news",
+    "headline": "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child",
+    "dek": "The acclaimed actress opens up in a new interview about motherhood, cosmetic procedures, and why she chose to undergo a breast lift following her second pregnancy.",
+    "body": [
+      {
+        "h": "Opening Up About Postpartum Changes",
+        "p": [
+          "Award-winning actress Jennifer Lawrence has recently shared candid details regarding her physical transformation following motherhood. In a recent media appearance, the Hollywood star verified that she underwent a breast lift procedure after welcoming her second child.",
+          "The conversation highlighted how her body evolved across multiple pregnancies, providing fans with an honest look into the personal choices public figures make when dealing with postpartum physical shifts."
+        ]
+      },
+      {
+        "h": "Previous Discussions With The Media",
+        "p": [
+          "This latest revelation builds upon comments Lawrence previously made during an extensive 2025 interview with a major publication. At that time, she reflected on filming a nude scene for a comedy project released in 2023.",
+          "She noted that while her physical form largely recovered after her initial pregnancy, the arrival of her second child brought much more noticeable and permanent changes to her body."
+        ]
+      },
+      {
+        "h": "The Influence of a Film Career",
+        "p": [
+          "When questioned about whether her profession as a prominent movie star uniquely influenced her decision to seek cosmetic surgery, Lawrence offered a pragmatic perspective.",
+          "She admitted that while her high-profile career might have accelerated her journey to the doctor's office, she likely would have pursued the procedure regardless of her celebrity status."
+        ]
+      },
+      {
+        "h": "Perspectives on Other Cosmetic Treatments",
+        "p": [
+          "Beyond discussing her breast lift, the actress touched on various other beauty enhancements and anti-aging treatments during her conversation with the press.",
+          "She mentioned that she intentionally avoids dermal fillers due to how they can alter appearance on high-definition camera lenses, though she humorously hinted at potential future procedures like a facelift."
+        ]
+      },
+      {
+        "h": "Balancing Motherhood and Personal Image",
+        "p": [
+          "Lawrence also reflected on the daily realities of raising children while maintaining a polished outward appearance. She expressed a desire to embody the concept of a stylish and confident mother.",
+          "Even during routine morning school drop-offs when she might feel overwhelmed internally, her personal goal remains presenting an organized and put-together exterior to the world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jennifer Lawrence recently confirmed in an interview that she underwent a breast lift after experiencing significant postpartum body changes following her second child. The actress discussed how her high-profile career influenced the decision while also sharing her views on aging, cosmetic treatments, and balancing the demands of motherhood."
+        ]
+      }
+    ],
+    "facts": [
+      "Jennifer Lawrence confirmed she underwent a breast lift after her second child.",
+      "She discussed the procedure during an interview with The Cut on Tuesday.",
+      "She previously spoke about the impact of motherhood in a 2025 interview with The New Yorker.",
+      "She starred in the comedy film No Hard Feelings in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Jennifer Lawrence"
+      ],
+      "titles": [
+        "No Hard Feelings",
+        "The New Yorker",
+        "The Cut"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/35/16by9/2026/10/28/35b1fc7a5562445db54f92d0a110e00d_xl.jpg",
+        "caption": "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-10-28T05:58:10-07:00"
+  },
+  "b02s6m": {
+    "id": "b02s6m",
+    "type": "news",
+    "headline": "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie",
+    "dek": "A fresh trailer for The Cat in the Hat: Rainy Day Mayhem offers an exclusive look at the multiplayer video game coming ahead of a brand new movie.",
+    "body": [
+      {
+        "h": "Introduction to Rainy Day Mayhem",
+        "p": [
+          "A brand new trailer has arrived for the upcoming party video game titled The Cat in the Hat: Rainy Day Mayhem. Developed by Outright Games, this interactive title arrives ahead of a brand new movie adaptation.",
+          "The project draws direct inspiration from the popular children's book written by Dr. Seuss. It marks a significant milestone as the iconic feline's first-ever appearance in a multiplayer video game format."
+        ]
+      },
+      {
+        "h": "Trailer Reveals and Gameplay Features",
+        "p": [
+          "The newly released footage showcases previously unseen levels and vibrant multiplayer minigames that highlight the mischievous personality of the main character. The title focuses on fast-paced, family-friendly fun designed for casual players.",
+          "Gamers will have the opportunity to select from several familiar characters, including Sally, Johnny, Thing 1, Thing 2, and Little Cat A. These figures accompany the Cat in the Hat and the Cautious Fish throughout the journey."
+        ]
+      },
+      {
+        "h": "Multiplayer Modes and Challenges",
+        "p": [
+          "Designed for friends and family to enjoy together, the title supports local multiplayer for up to four participants. Players engage in various competitive challenges and fast-paced rounds of Find the Cat.",
+          "Participants can earn points and complete their sticker collections to unlock up to eighteen different minigames. Additionally, the software includes customisable options to adjust the difficulty settings."
+        ]
+      },
+      {
+        "h": "Platform Availability and Launch Details",
+        "p": [
+          "Outright Games has scheduled the official release of the title for October 30, 2026. Fans can purchase and play the game across multiple platforms.",
+          "The supported hardware includes the Nintendo Switch, PlayStation 4, PlayStation 5, Xbox Series X|S, and Windows PC."
+        ]
+      },
+      {
+        "h": "Legacy and Background Context",
+        "p": [
+          "The interactive experience builds upon a story that has entertained generations of readers. By blending classic narrative elements with modern interactive mechanics, the project celebrates the enduring legacy of the source material.",
+          "The release serves to introduce the beloved fictional universe to an entirely new generation of young players through engaging digital entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new trailer for The Cat in the Hat: Rainy Day Mayhem showcases upcoming multiplayer minigames and interactive family adventures ahead of a brand new movie. Developed by Outright Games and based on the Dr. Seuss classic, the title launches on October 30, 2026, for multiple gaming platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "The Cat in the Hat: Rainy Day Mayhem releases on October 30, 2026.",
+      "The game is developed by Outright Games.",
+      "Playable characters include Sally, Johnny, Thing 1, Thing 2, and Little Cat A.",
+      "The game supports local multiplayer for up to four players.",
+      "Players can unlock up to 18 minigames.",
+      "Platforms include Nintendo Switch, PlayStation 4, PlayStation 5, Xbox Series X|S, and Windows PC."
+    ],
+    "entities": {
+      "people": [
+        "Mintu Kumar Tomar",
+        "Dr. Seuss",
+        "Bill Hader",
+        "James Gunn",
+        "Zendaya",
+        "Jennifer Lawrence",
+        "Ryan Gosling",
+        "Chris Hemsworth"
+      ],
+      "titles": [
+        "The Cat in the Hat",
+        "The Cat in the Hat: Rainy Day Mayhem",
+        "Spider-Man: Brand New Day",
+        "Man of Tomorrow",
+        "Coyote vs. Acme",
+        "Ghost Rider",
+        "Extraction 3",
+        "Hot Wheels Monster Trucks: Stunt Mayhem",
+        "TMNT: Mutant Mayhem",
+        "The Muppets Mayhem"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Deepesh-personal-1200-_-675-21.png?resize=1200,630",
+        "caption": "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 13:00:00 +0000"
   }
 };

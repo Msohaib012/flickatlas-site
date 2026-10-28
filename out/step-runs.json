@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T16:10:14Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": {
-     "candidates": 125,
-     "detail": "RSS/Atom items across 139 sources; 18 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Hurmat Episode 8 Release Time In India: Will Hurmat Ask Her Father To Call Off Engagement With Tabish?",
-      "Ajith Kumar starrer Dare Devil to feature Sreeleela? Adhik Ravichandran to begin filming on November 12",
-      "Suriya starrer Scene initially intended for Fahadh Faasil and Nazriya in Malayalam? Jithu Madhavan spills the tea",
-      "Jailer 2 Crosses $27M Overseas Surpassing KGF 2 to Enter Top 6 With North America Contributing 27%",
-      "K-pop Comebacks & Tours Coming in Late 2026 / Early 2027: What to Know",
-      "Lingusamy recalls the trouble with Vishal's ‘Sandakozhi 2’",
-      "Kutle Khan responds to criticism over Shilpa Rao’s interrupted set at Bollywood Music Project, says organisers instructed him to resume performance",
-      "the one about matthew perry review netflix documentary offers moving look at chandler bing beyond friends review 156417765",
-      "hbo harry potter series adds young wizard parents and ron brother charlie weasley article 156417635",
-      "Alfonso Ribeiro Responds After DWTS Alum Alexa PenaVega Claims It’s ‘Rigged’",
-      "9 Years Later, Ridley Scott Is Officially Returning to His Unfinished Alien Story",
-      "One Piece Trailer Gives Straw Hat Pirates Fans a Perfect Video Game Crossover They’ll Love",
-      "Man of Tomorrow’s Matthew Lillard Gives Big Hint About His DCU Character: ‘Very James Gunn’",
-      "Jean-Claude Van Damme's 97-Minute Action Thriller Classic Was Secretly Remade a Year Later as a $7.7 Million Bomb",
-      "Anya Taylor-Joy's $2.3 Billion Fantasy Adventure Franchise Gets Sequel Status Update",
-      "Outlander Star Returns To The Scottish Highlands In A Brand-New Trilogy",
-      "John Travolta's November 1963 Promises Truth About Kennedy Assassination In New Clip",
-      "Prime Video's 8-Part Sci-Fi Thriller Series Is Cyberpunk Done Right",
-      "Virtue and a Sledgehammer Review: This Is Meant To Hurt You",
-      "Chani Leads An Assassination Conspiracy Against Paul In Bloody Dune: Part 3"
-     ],
-     "updated": [],
-     "count": 66,
-     "detail": "69 stories, 1 duplicates removed, 56 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T17:52:10Z",
     "run_id": "40554360943",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "163 stories, 0 duplicates removed, 78 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:14:38Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 133,
+     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Rise And Fall 2: Priyanka Chahar Choudhary Slams Fahad Ahmed For 'Paid Fans' Dig: Paltan Real...",
+      "Bigg Boss 20 Episode 53 OTT Release Time Today: Love’s Breakdown; When Will New Ep Premiere On JioHotstar",
+      "Pehla Pyaar Doosri Baar Witnesses Positive Mid-Week Momentum As Audiences Show Love For Six Newcomers",
+      "Ramayana Overseas Box Office: Can Ranbir Kapoor Break Animal's $13.19M Opening Weekend Record?",
+      "Here's how Nani-Anjana Yelavarthy's love story began",
+      "gautam gulati disrespects host virender sehwag former cricketer walkout calls contestants criminal rise and fall tmovh dskc 2682518 2026 10 28",
+      "Christopher Lloyd Was Shook When Michael J. Fox Took Over Back To The Future’s Marty (But Not For The Reason I Thought)",
+      "The Punisher Officially Beats Spider-Man at His Own Game",
+      "The Cat in the Hat Trailer Previews Rainy Day Mayhem Adventure Ahead of New Movie | Exclusive",
+      "Netflix’s Greatest Crime Thriller Is Officially Better Than 'The Night Agent'",
+      "6 Biggest 'Friends' Reveals From Netflix's Matthew Perry Documentary",
+      "Dungeons & Dragons: World of Warcraft Officially Delayed Ahead Of Release",
+      "Jumanji Invades Reality In Open World's Epic New Preview",
+      "PlayStation Plus Makes 3 Hit Games Completely Free Until November 2",
+      "Today's Wordle Hints & Answer - October 28, 2026 (Puzzle #1957)",
+      "Line Of Fire Ignores The Most Salacious Hollingsworth Crime For The Worse",
+      "8-Episode Prometheus Sequel Divides Fans Even More Than Ridley Scott's Movie",
+      "The Monster Squad Is The Goonies' Horror Twin & It's Streaming Free",
+      "Annecy Title ‘Cloud Girl’ Flies To International Buyers For SC Films",
+      "‘Talk To Me’ Backer Head Gear Opens U.S. Arm With Ambitious Indie Investment Plan"
+     ],
+     "updated": [],
+     "count": 66,
+     "detail": "69 stories, 0 duplicates removed, 64 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T16:10:16Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1408,27 +1390,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:15:07Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child",
+      "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T16:10:16Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": {
-     "candidates": 10,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 5, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1842,19 +1827,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T13:15:07Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2100,27 +2093,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T18:58:28Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 142,
-     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 131 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2534,19 +2519,27 @@
      "detail": "+0 new rows, 12 updated rows, 196 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T13:20:29Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+0 new rows, 9 updated rows, 199 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2806,27 +2799,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T17:57:00Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": {
-     "candidates": 86,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 86 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3282,19 +3267,30 @@
      "detail": "api-news.json 80 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:20:30Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie",
+      "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 82 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3582,19 +3578,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T13:14:41Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3857,19 +3860,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4288,19 +4291,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:15:07Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 66 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 7/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child",
+      "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4554,19 +4567,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4881,19 +4894,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 162,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5208,19 +5226,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5470,19 +5488,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5717,19 +5735,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T16:16:27Z",
-    "run_id": "40537843667",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5959,6 +5977,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -6171,6 +6199,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6363,8 +6401,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T13:20:39Z",
+    "run_id": "40694426573",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T12:59:21Z"
+ "updated_at": "2026-10-28T13:20:39Z"
 }
