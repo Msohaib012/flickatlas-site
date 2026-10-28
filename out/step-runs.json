@@ -624,6 +624,45 @@
      "detail": "26 stories, 0 duplicates removed, 50 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T23:56:58Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": {
+     "candidates": 122,
+     "detail": "RSS/Atom items across 139 sources; 19 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "I Didn’t See It Coming When Elmo Did A Perfect Impression Of SNL’s Lorne Michaels",
+      "Apple TV’s Cyberpunk Sci-Fi Saga Officially Passes Major Streaming Milestone",
+      "CBS’ ‘Reacher’ Replacement Is a Streaming Hit on Paramount+",
+      "Seth Rogen's New Psychological Relationship Thriller Officially Takes Over HBO Max",
+      "Netflix’s ‘BioShock’ Movie Gets First Official Update After 4 Years of Delays",
+      "Greta Lee Is Officially Ready to Leave Sci-Fi Tech Behind",
+      "Marvel Studios Eyes Major TV Star as Villain in Ryan Gosling's 'Ghost Rider'",
+      "The CW Deserves Kudos For Successfully Adapting One Of The Greatest Superhero Teams Of All Time",
+      "Dave Bautista’s One Piece Replacement Confirms A New Era For Prime Video",
+      "Ancestral Memory Meets AI in Himalayan Drama ‘Shirjara: Song of Grandmother’ at Tokyo Gap-Financing Market",
+      "Punk Band Guitar Wolf Rocks Back Into Takeuchi Tetsuro’s ‘Wild Zero Overdrive’ at Tokyo Gap-Financing Market",
+      "Young Storytellers Creates The Jamie Tarses Fund To Support Writing Programs In L.A. Public Schools",
+      "The Hollywood Reporter Tops National Arts & Entertainment Journalism Awards With 96 Noms, More Than Any Other Outlet",
+      "Tokyo Film Festival Director Takeo Hisamatsu Wants More Money, More Parties and a Bigger Global Profile for Japanese Cinema",
+      "TheWrap Lands 26 National Arts & Entertainment Journalism Award Noms, Including Best Website",
+      "Christina Applegate Says She’s ‘Getting Worse’ Since MS Misdiagnosis, but Will Continue ‘MeSsy’ Podcast",
+      "Why industry experts believe now is the right time for China-Brazil co-productions",
+      "Star Trek’s William Shatner and George Takei pay tribute to Walter Koenig",
+      "g flip and chrishell stause relationship timeline breakup 1235648498",
+      "“Love In Disguise” And “Between Steps” Both Rise To Their Highest Ratings Yet"
+     ],
+     "updated": [],
+     "count": 64,
+     "detail": "65 stories, 0 duplicates removed, 57 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -902,6 +941,24 @@
     "category": "Trending News",
     "run_at": "2026-10-27T23:11:28Z",
     "run_id": "40599861384",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-27T23:56:58Z",
+    "run_id": "40605407648",
     "status": "success",
     "checked": {
      "candidates": 7,
@@ -1204,6 +1261,24 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-27T23:56:58Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -1394,6 +1469,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-27T23:16:56Z",
     "run_id": "40599861384",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1724,6 +1809,24 @@
      "detail": "+0 new rows, 4 updated rows, 192 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T00:02:09Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": {
+     "candidates": 201,
+     "detail": "198 collected staging rows from readers; 86 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+2 new rows, 7 updated rows, 189 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -1921,6 +2024,16 @@
     "category": "Reviews",
     "run_at": "2026-10-27T23:16:56Z",
     "run_id": "40599861384",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2269,6 +2382,24 @@
      "detail": "api-news.json 82 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T00:02:11Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 80 items, api-trends.json 0 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -2486,6 +2617,16 @@
      "count": 7
     },
     "reason": null
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
@@ -2719,6 +2860,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -2923,6 +3074,23 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-27T23:56:58Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": {
+     "candidates": 0,
+     "detail": "daily cap 40/40 reached; batch skipped"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "cap"
    }
   ],
   "overseas_ai": [
@@ -3081,6 +3249,16 @@
     "category": "Box Office",
     "run_at": "2026-10-27T23:16:56Z",
     "run_id": "40599861384",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3267,6 +3445,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_traffic": [
@@ -3499,6 +3687,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -3671,6 +3874,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -3829,6 +4042,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-27T23:16:56Z",
     "run_id": "40599861384",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3995,6 +4218,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -4057,6 +4290,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -4099,8 +4342,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T00:02:22Z",
+    "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-27T23:16:56Z"
+ "updated_at": "2026-10-28T00:02:22Z"
 }
