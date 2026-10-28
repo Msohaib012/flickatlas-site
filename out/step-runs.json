@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T15:52:15Z",
-    "run_id": "40534977345",
-    "status": "success",
-    "checked": {
-     "candidates": 289,
-     "detail": "RSS/Atom items across 139 sources; 17 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "King: Is Shah Rukh Khan's New Poster Copied From Dhurandhar 2 & Raging Fire 2? Fans Decode",
-      "What Rashmika-Vijay Koffee With Karan Debate Says About How We Judge Love, Commitment & Each Other",
-      "Kriti Sanon’s Unsettling Smile Gives Fans Chills, Netizens Can’t Wait To Hear Her as Nikki",
-      "Charmed By A Southern Monster: Release Date Date & All We Know About Bravo’s First Scripted Microdrama Starring Craig Conover",
-      "Koffee With Karan S9 OTT Verdict: Karan Johar’s Talk Show Creates History As The First Indian English Title On Ormax’s Top 10 List!",
-      "Kamal Haasan's RKFI Reportedly Secures 400+ Cr Rights Package for Three Films, Including Rajinikanth's Dharman",
-      "Hanuman Ansh North America Box Office Closes at $2.795M With 54% Share of Overseas Gross",
-      "5 hollywood films that put modern relationships under the microscope 86820.amp",
-      "Trisha to play Jayalalithaa in JM Bashir's 'Puratchi Thalaivar MGR'?",
-      "'Ramayana' actor Suhail Nayyar asks fans for blessings; backs film’s young Indian VFX artists",
-      "Govinda's mother quit acting when his father told her people will ogle at her: 'Shaved her head'",
-      "Juan Gabriel purchased his Florida real estate for USD 1.3 million; it is now up for sale for USD 39 million",
-      "Music composer Salim Merchant buys commercial property in Mumbai’s Santacruz for  ₹12.85 crore",
-      "shiney ahuja now left bollywood rape case tihar jail struggles selling clothes settled in abroad life changed tmovf 2681530 2026 10 27",
-      "diljit dosanjh enjoys taj mahal visit amid tight security ahead of october 30 delhi concert watch article 156417485",
-      "king poster karan johar cheers for one and only shah rukh khan ananya panday and others give a shoutout article 156417286",
-      "ramayana vs godzilla minus zero averted japanese biggie avoids clash with ranbir kapoor yash film in india article 156417442",
-      "sara ali khan on nepotism debate ive not had a father going to offices begging people to take me in films article 156417507",
-      "lust stories 3 song puranpoli gets a music video featuring vijay varma vikramaditya motwane exclusive article 156417572",
-      "upcoming ott releases in november 2026 the lord of the rings rings of power to student of the year after dark article 156417249"
-     ],
-     "updated": [],
-     "count": 215,
-     "detail": "222 stories, 1 duplicates removed, 67 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T16:10:14Z",
     "run_id": "40537843667",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "134 stories, 1 duplicates removed, 69 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T12:52:49Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": {
+     "candidates": 241,
+     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Bigg Boss Kannada 13 Voting Trends: Who Will Get HIGHEST Votes In BBK 13 Online Voting Results?",
+      "Rise And Fall 2 Ep Highlights (Oct 28): New Wild Card Entry? Sehwag’s Naagin Vs Nevla Dig At Shehzad-Priyanka",
+      "Udta Teer: New Song ‘Jai Hind’ Celebrates National Pride, Adds A Patriotic Note To Ayushmann Khurrana’s Film",
+      "Premada Oorali Box Office: Kannada Blockbuster Stuns With A Whopping 1164x Opening Day Multiplier!",
+      "Ebenezer Release Date Update: When To Watch Johnny Depp’s Reimagining Of Charles Dickens A Christmas Carol In Theaters",
+      "The Cat In The Hat First Reactions Out: Bill Hader’s Animated Film Gets Rave Reviews, Hailed As The “Best Seuss Film”",
+      "Ramayana Early Reactions Out: Ranbir Kapoor & Yash Starrer Hailed As An “Immersive Cinematic Experience” – Here’s What Viewers Say!",
+      "The Wolves Of Real Estate Ending Explained: How Does The Documentary End For The Alexander Brothers?",
+      "johnny depp on playing ebenezer scrooge i was looking for a different way 86844.html",
+      "ravana was not all bad sai pallavi on what viewers should expect from ramayana 86840.html",
+      "ramayana early reviews ranbir kapoor yash hailed as epic draws lotr comparisons 86841.html",
+      "taylor swift makes history as youngest nashville songwriters hall of fame inductee 86838.html",
+      "i meditate for everyones happiness every morning venkatesh 86843.html",
+      "Nitish Bharadwaj shares ‘Mangal Rang’ line from 'Ramayana'; asks, 'Can someone read between the lines?'",
+      "Ramayana: Sai Pallavi’s Ravana remark splits netizens",
+      "Katrina says Vicky has a superpower of being 100 present as a father: 'Incredible husband'",
+      "Superstar Rajinikanth’s box office power: INDUSTRY HITS that SILENCED critics",
+      "'Adipurush' lyricist Manoj Muntashir reacts to 'Ramayana' song comparisons: 'Didn’t write qawwalis'",
+      "Sharvari dances with Madhuri: Actor calls it surreal honour",
+      "When Ranveer Singh Spoke About The Art Of Transformation Saying, “If I Get Into A Character And You Don’t See A Trace Of Me That’s…”"
+     ],
+     "updated": [],
+     "count": 161,
+     "detail": "163 stories, 0 duplicates removed, 78 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T15:52:16Z",
-    "run_id": "40534977345",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1405,27 +1387,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T12:53:49Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
+      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T15:52:16Z",
-    "run_id": "40534977345",
-    "status": "success",
-    "checked": {
-     "candidates": 10,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 5, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1839,19 +1824,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T12:53:50Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2097,27 +2090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T17:56:58Z",
-    "run_id": "40554360943",
-    "status": "success",
-    "checked": {
-     "candidates": 142,
-     "detail": "142 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 13,
-     "detail": "+0 new rows, 13 updated rows, 129 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2531,19 +2516,27 @@
      "detail": "+0 new rows, 10 updated rows, 198 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T12:59:04Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "+0 new rows, 12 updated rows, 196 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2803,27 +2796,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T16:16:18Z",
-    "run_id": "40537843667",
-    "status": "success",
-    "checked": {
-     "candidates": 87,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 87 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3276,19 +3261,30 @@
      "detail": "api-news.json 85 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T12:59:06Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
+      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3576,19 +3572,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3851,19 +3847,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4272,19 +4268,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T12:53:49Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 161 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 7/4, ott_streaming 2/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
+      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4538,19 +4544,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4860,24 +4866,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 182,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5187,19 +5193,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5444,19 +5455,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 71,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5691,19 +5707,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T15:57:00Z",
-    "run_id": "40534977345",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5933,6 +5949,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -6135,6 +6161,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6317,8 +6353,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T12:59:21Z",
+    "run_id": "40691165295",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T11:50:09Z"
+ "updated_at": "2026-10-28T12:59:21Z"
 }

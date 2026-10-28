@@ -12979,5 +12979,187 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 16:55:29 +0530"
+  },
+  "1ds0vu5": {
+    "id": "1ds0vu5",
+    "type": "news",
+    "headline": "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
+    "dek": "A dedicated team of developers has unveiled a striking first trailer for Super Mario Adventure, a classic 3D platformer built entirely within Super Mario Sunshine.",
+    "body": [
+      {
+        "h": "The Unveiling of Super Mario Adventure",
+        "p": [
+          "A brand new fan-made project titled Super Mario Adventure has recently captured the attention of the gaming community following the release of its debut promotional video. Shared online by a user named Reitcent over on Twitter/X, the footage showcases a classic 3D platformer experience designed specifically for the GameCube era.",
+          "The ambitious undertaking is being developed by a group known as Team Elements. Utilizing the Better Sunshine Engine, the creators have managed to build this title directly within the framework of Super Mario Sunshine, resulting in a visually nostalgic project that immediately resonates with retro enthusiasts."
+        ]
+      },
+      {
+        "h": "A Nod to GameCube Era Aesthetics",
+        "p": [
+          "The newly revealed footage presents quintessential platforming elements that feel right at home with early 2000s gaming sensibilities. Fans reviewing the promotional material have noted how successfully the developers have captured the distinct visual textures and unique aesthetic style of that specific hardware generation.",
+          "Rather than simply skinning an existing title, the project operates as an original 3D platformer concept. It effectively explores what an alternate timeline might have looked like if the GameCube had received a different core entry in the legendary franchise during its active lifespan."
+        ]
+      },
+      {
+        "h": "Community Excitement and Early Reactions",
+        "p": [
+          "Following the trailer's premiere on YouTube, enthusiastic viewers flooded the comments section to share their praise and anticipation for the eventual release. Many expressed deep admiration for the uncanny recreation of vintage video game styling, highlighting the appeal of the era's characteristic texture work.",
+          "Other community members discussed how refreshing it is to see creative interpretations of the classic formula, with several noting that the project sparks curiosity about what could have been. The positive reception underscores the enduring passion surrounding retro Nintendo hardware and its modding communities."
+        ]
+      },
+      {
+        "h": "Development Status and Release Timeline",
+        "p": [
+          "As of the current writing, Team Elements has not yet provided a definitive release date for the project. Because fan-driven passion projects are built without financial remuneration, the development team is taking a measured approach, indicating that the game will simply launch whenever it is fully ready.",
+          "The lack of a strict schedule is widely accepted by the community, who understand the voluntary and time-intensive nature of such fan-made endeavors. Consequently, supporters are content to monitor updates patiently as development continues behind the scenes."
+        ]
+      },
+      {
+        "h": "Broader Context Within the Franchise",
+        "p": [
+          "This fan-made creation arrives at a time when the broader gaming community continues to await official news regarding the next mainline entry in the series. Nintendo has kept quiet about its next flagship 3D Mario installment, leaving a significant gap since the launch of the critically acclaimed Odyssey in 2017.",
+          "While ardent fans frequently indulge in retro titles and community-driven modifications to fill the void, ongoing rumors suggest that 2027 might finally bring official announcements concerning the future of the beloved platforming franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Team Elements has revealed a trailer for Super Mario Adventure, an original 3D platformer built inside Super Mario Sunshine using the Better Sunshine Engine. While no official release date has been shared for the passion project, it has already drawn widespread praise from fans awaiting the next evolution of the classic franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer for Super Mario Adventure was published on October 28, 2026.",
+      "The game is being made within Super Mario Sunshine using the Better Sunshine Engine.",
+      "Super Mario Adventure is developed by Team Elements.",
+      "The last flagship 3D Mario platformer was 2017's Odyssey."
+    ],
+    "entities": {
+      "people": [
+        "James Lynch",
+        "Reitcent"
+      ],
+      "titles": [
+        "Super Mario Adventure",
+        "Super Mario Sunshine",
+        "Super Mario Odyssey",
+        "Sonic Adventure",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends",
+        "Zelda: Ocarina Of Time",
+        "Dragon Ball"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/super-mario-sunshine-mario.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 12:00:20 GMT"
+  },
+  "xxbeaz": {
+    "id": "xxbeaz",
+    "type": "news",
+    "headline": "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim",
+    "dek": "Following a successful run that captured the attention of critics and moviegoers alike, Alan Ritchson's latest cinematic vehicle Runner prepares to expand its audience through an upcoming digital release.",
+    "body": [
+      {
+        "h": "Introduction To The Project",
+        "p": [
+          "Actor Alan Ritchson continues to build upon his growing reputation as a contemporary action star with his latest cinematic endeavor.",
+          "Known widely for his commanding presence on television, the performer has successfully transitioned his physical intensity onto the big screen through a series of prominent film appearances."
+        ]
+      },
+      {
+        "h": "Critical Reception And Audience Response",
+        "p": [
+          "The high-octane feature recently captured significant attention, performing exceptionally well among reviewers and general audiences following its debut.",
+          "Critical reception for the project has been notably positive, helping to solidify its status as a standout entry within the modern action genre."
+        ]
+      },
+      {
+        "h": "Upcoming Streaming Expansion",
+        "p": [
+          "Building on its theatrical momentum, the adrenaline-fueled motion picture is now officially poised to reach an even broader audience via an upcoming digital streaming release.",
+          "This forthcoming platform debut allows home viewers to experience the fast-paced narrative and intense set pieces firsthand."
+        ]
+      },
+      {
+        "h": "Core Creative Team And Production",
+        "p": [
+          "Behind the camera, the production was guided by director Scott Waugh, who brought the narrative's pulse-pounding vision to life.",
+          "The screenplay itself was penned by writers Tommy White and Miles Hubley, establishing the foundation for the feature's brisk pacing."
+        ]
+      },
+      {
+        "h": "Cast And Character Details",
+        "p": [
+          "The film features Alan Ritchson in a leading role as Hank Malone, anchoring the story's heavy dramatic and physical demands.",
+          "He is joined on screen by co-star Owen Wilson, who portrays a character named Ben, adding a dynamic presence to the ensemble."
+        ]
+      },
+      {
+        "h": "Behind The Scenes",
+        "p": [
+          "Production duties for the project involved a dedicated team of producers working closely alongside the lead actor.",
+          "The collaborative producing efforts of Alan Ritchson, Deborah Glover, Jeffrey Greenstein, Mark Fasano, and Todd Garner helped shepherd the project from conception to its final release."
+        ]
+      },
+      {
+        "h": "Runtime And Classification",
+        "p": [
+          "The motion picture carries a PG-13 age rating and spans a swift runtime of approximately 97 minutes, ensuring a tight narrative structure.",
+          "This concise duration keeps the focus squarely on the continuous momentum of the action, comedy, and thriller elements."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alan Ritchson's latest action thriller titled Runner is preparing for its streaming release after earning strong marks from critics and audiences following its September 11, 2026 debut. Directed by Scott Waugh and co-starring Owen Wilson, the PG-13 feature brings its high-octane energy to home screens."
+        ]
+      }
+    ],
+    "facts": [
+      "Alan Ritchson stars in Runner as Hank Malone.",
+      "Owen Wilson stars in Runner as Ben.",
+      "The film was directed by Scott Waugh.",
+      "The writers of the film are Tommy White and Miles Hubley.",
+      "The producers include Alan Ritchson, Deborah Glover, Jeffrey Greenstein, Mark Fasano, and Todd Garner.",
+      "The release date of the film is September 11, 2026.",
+      "The runtime of the film is 97 minutes.",
+      "The film is rated PG-13 and belongs to the action, comedy, and thriller genres."
+    ],
+    "entities": {
+      "people": [
+        "Alan Ritchson",
+        "Scott Waugh",
+        "Hank Malone",
+        "Owen Wilson",
+        "Ben",
+        "Tommy White",
+        "Miles Hubley",
+        "Deborah Glover",
+        "Jeffrey Greenstein",
+        "Mark Fasano",
+        "Todd Garner",
+        "Adele Ankers-Range"
+      ],
+      "titles": [
+        "Reacher",
+        "Runner",
+        "Saving Private Ryan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/alan-ritchson-in-runner.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 12:36:43 GMT"
   }
 };
