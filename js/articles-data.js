@@ -11288,5 +11288,206 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 04:08:50 +0000"
+  },
+  "19oobjn": {
+    "id": "19oobjn",
+    "type": "news",
+    "headline": "Jailer 2 Kerala Box Office Day 13 Creates History at ₹72.85 Cr, Breaks Baahubali 2's 9-Year Record",
+    "dek": "Rajinikanth's Jailer 2 has officially overtaken SS Rajamouli's Baahubali 2 in Kerala by reaching ₹72.85 crore gross by Day 13.",
+    "body": [
+      {
+        "h": "Breaking a Nine-Year Record in Kerala",
+        "p": [
+          "A historic theatrical benchmark in Kerala has finally been shattered after standing firm for nearly a decade. Rajinikanth's latest action spectacle has officially surpassed the long-standing box office record held by SS Rajamouli's epic.",
+          "Achieving this milestone in just thirteen days, the Nelson Dilipkumar directorial has claimed the title of the highest-grossing non-Malayalam film in the state's cinematic history."
+        ]
+      },
+      {
+        "h": "How Baahubali 2 Maintained Its Throne",
+        "p": [
+          "Back in 2017, Baahubali 2 captivated audiences nationwide due to massive curiosity surrounding the central narrative question and director SS Rajamouli's grand vision. It quickly outpaced previous contenders like Vikram's I.",
+          "The film went on to run in hundreds of theatres over several weeks, establishing a high lifetime collection benchmark that remained untouched by subsequent pan-India releases for nine years."
+        ]
+      },
+      {
+        "h": "Fall of Previous Pan-India Blockbusters",
+        "p": [
+          "Over the nine-year period, several high-profile films featuring major stars such as Prabhas, Yash, Vijay, and Allu Arjun arrived in theatres. Big titles like KGF Chapter 2 and Leo generated massive hype but fell short of the ultimate target.",
+          "Market dynamics in Kerala require sustained audience interest beyond initial fan bases, making long-term dominance difficult for outside-language releases competing against a robust local Malayalam industry."
+        ]
+      },
+      {
+        "h": "The Unique Strengths of Jailer 2",
+        "p": [
+          "Jailer 2 benefited heavily from the established popularity of its predecessor, which introduced Rajinikanth's Muthuvel Pandian character to regional viewers. The combination of signature action, humour, and music worked strongly in its favor.",
+          "Furthermore, Mohanlal's special association with the franchise through his character Mathew helped bridge the gap with local Malayalam audiences, driving heavy initial interest."
+        ]
+      },
+      {
+        "h": "Early Momentum and Screen Presence",
+        "p": [
+          "The theatrical run was supported by robust pre-release demand, generating over ₹1.61 crore in Kerala advance bookings within the first hour alone.",
+          "A wide distribution footprint featuring a release across approximately 800 screens provided the film with substantial early access to eager moviegoers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 collected ₹72.85 crore gross in Kerala by Day 13, breaking Baahubali 2's nine-year record to become the highest-grossing non-Malayalam film in the state.",
+          "The film achieved this milestone thanks to strong early advance bookings, a wide screen count, and the combined appeal of its star cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected ₹72.85 crore gross in Kerala by Day 13.",
+      "Baahubali 2 held a lifetime collection of approximately ₹72.25 crore in Kerala.",
+      "The record had stood for nine years since 2017.",
+      "Jailer 2 generated more than ₹1.61 crore in Kerala advance bookings within the first hour.",
+      "The film released across approximately 800 screens."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Christa Lincy",
+        "SS Rajamouli",
+        "Nelson Dilipkumar",
+        "Prabhas",
+        "Yash",
+        "Vijay",
+        "Allu Arjun",
+        "Mohanlal",
+        "Lokesh Kanagaraj",
+        "Anirudh Ravichander"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Baahubali 2",
+        "KGF Chapter 2",
+        "Leo",
+        "Jailer",
+        "Kantara Chapter 1",
+        "Vikram",
+        "Kalki 2898 AD",
+        "Coolie",
+        "RRR",
+        "I",
+        "Pulimurugan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028218.jpg",
+        "caption": "Jailer 2 Kerala Box Office Day 13 Creates History at ₹72.85 Cr, Breaks Baahubali 2's 9-Year Record",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 05:09:12 +0000"
+  },
+  "fauofw": {
+    "id": "fauofw",
+    "type": "news",
+    "headline": "Dune: Part Three Final Trailer Teases Darker Turn for Paul Atreides Amid Chani Rebellions and Robert Pattinson Threat",
+    "dek": "Warner Bros. has revealed the final trailer for Denis Villeneuve’s upcoming sci-fi epic, highlighting a fractured romance, new characters, and a global theatrical showdown.",
+    "body": [
+      {
+        "h": "Introduction to the Final Preview",
+        "p": [
+          "Warner Bros. has officially unveiled the final trailer for Denis Villeneuve’s highly anticipated sci-fi epic Dune: Part Three. Released on October 27, the nearly three-minute promotional preview plunges Timothée Chalamet’s character into deeper turmoil than ever before.",
+          "The footage establishes a much darker narrative tone, showing the emperor dealing with severe conspiracies, a fractured personal life, and the devastating consequences left behind by years of relentless warfare across the cosmos."
+        ]
+      },
+      {
+        "h": "Paul Atreides Faces the Weight of His Rule",
+        "p": [
+          "The trailer opens with Paul utilizing the Bene Gesserit Voice to interrogate Princess Irulan, portrayed by Florence Pugh, regarding a covert plot to assassinate him. His shaved head and severe demeanor visually communicate the significant passage of time since the events of the second film.",
+          "Reverend Mother Mohiam, played by Charlotte Rampling, delivers a telling voiceover emphasizing the immense scale of his empire by noting that Muad'Dib has conquered a thousand worlds. Yet, this absolute authority has seemingly corrupted his original ideals."
+        ]
+      },
+      {
+        "h": "The Irony of Becoming the Oppressor",
+        "p": [
+          "As his empire expands, Paul drifts further away from his former self, culminating in a poignant confession where he admits to becoming the exact oppressor that Chani had sworn to fight.",
+          "This realization highlights the bitter irony of his legendary journey, echoing the prophetic fears he once tried to escape and explaining why his closest allies are beginning to distance themselves from his reign."
+        ]
+      },
+      {
+        "h": "Chani’s Rebellion and Potential Twists",
+        "p": [
+          "One of the most striking revelations in the trailer is Zendaya’s character taking a direct stand against Paul, fighting his forces and challenging him over the future of their children. While the original book kept her loyal, the film appears to chart a different path.",
+          "However, industry speculation and the inclusion of Robert Pattinson as the Face Dancer Scytale leave room for narrative twists, raising questions about whether Chani is genuinely rebelling or if an imposter is at work."
+        ]
+      },
+      {
+        "h": "Return of Fan-Favorite Characters",
+        "p": [
+          "Robert Pattinson joins the franchise as Scytale, a pivotal figure driving the conspiracy to neutralize the emperor and put an end to his galactic rule. His character promises a formidable new obstacle for the reigning monarch.",
+          "Additionally, Jason Momoa makes his return, though this time as Hayt, a ghola created from Duncan Idaho’s genetic material by the Bene Tleilaxu. Paul tasks Hayt with protecting his family, though his true loyalty remains uncertain."
+        ]
+      },
+      {
+        "h": "Expanding the Next Generation",
+        "p": [
+          "Anya Taylor-Joy also reappears as Alia Atreides in a tense scene testing Hayt's allegiance, pointing toward deep-seated dangers brewing within the inner circle of the ruling family.",
+          "The preview provides brief glimpses of Paul and Chani’s twins, Leto II and Ghanima, portrayed by Nakoa-Wolf Momoa and Ida Brooke, indicating that the cinematic narrative will navigate the source material's timeline in unique ways."
+        ]
+      },
+      {
+        "h": "Global Release and Box Office Clash",
+        "p": [
+          "Featuring a star-studded ensemble cast that includes Timothée Chalamet, Zendaya, Robert Pattinson, Florence Pugh, Jason Momoa, and Anya Taylor-Joy, the blockbuster aims to captivate audiences worldwide.",
+          "The movie is officially scheduled to hit theatres globally on December 18, 2026, setting the stage for a massive box office showdown against Marvel’s Avengers: Doomsday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Warner Bros. released the final trailer for Denis Villeneuve's Dune: Part Three, showcasing a darker narrative where Timothée Chalamet's Paul Atreides confronts political conspiracies, a fractured relationship with Zendaya's Chani, and new threats from characters played by Robert Pattinson and Jason Momoa. The blockbuster feature is slated to arrive in global cinemas on December 18, 2026, where it will open opposite Marvel's Avengers: Doomsday."
+        ]
+      }
+    ],
+    "facts": [
+      "Dune: Part Three final trailer was released on October 27, 2026.",
+      "The film is scheduled to release in theatres worldwide on December 18, 2026.",
+      "Dune: Part Three will go head-to-head at the box office with Marvel’s Avengers: Doomsday.",
+      "Denis Villeneuve is the director of the film.",
+      "Timothée Chalamet plays Paul Atreides.",
+      "Zendaya plays Chani.",
+      "Florence Pugh plays Princess Irulan.",
+      "Charlotte Rampling plays Reverend Mother Mohiam.",
+      "Robert Pattinson plays Scytale.",
+      "Jason Momoa plays Hayt.",
+      "Anya Taylor-Joy plays Alia Atreides.",
+      "Leto II and Ghanima are played by Nakoa-Wolf Momoa and Ida Brooke."
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Timothée Chalamet",
+        "Zendaya",
+        "Florence Pugh",
+        "Charlotte Rampling",
+        "Robert Pattinson",
+        "Jason Momoa",
+        "Anya Taylor-Joy",
+        "Nakoa-Wolf Momoa",
+        "Ida Brooke",
+        "Frank Herbert",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "Dune: Part Two",
+        "Dune Messiah",
+        "Avengers: Doomsday"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/28/1600x900/logo/Screenshot_2026-10-28_100431_1793162081792_cX0F_1793162088485_28d7_7fbf260c-8d3e-4883-9f0f-1e1d9213b003_fH9b.png",
+        "caption": "Dune: Part Three Final Trailer Teases Darker Turn for Paul Atreides Amid Chani Rebellions and Robert Pattinson Threat",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 10:55:24 +0530"
   }
 };
