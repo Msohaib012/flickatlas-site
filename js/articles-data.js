@@ -12413,5 +12413,173 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-28T14:49:09+05:30"
+  },
+  "rvsqof": {
+    "id": "rvsqof",
+    "type": "news",
+    "headline": "Russell Brand Takes the Stand as Defense Opens Testimony at Southwark Crown Court",
+    "dek": "British entertainer Russell Brand appeared in court to forcefully reject all allegations against him as his legal team launched its defense on Tuesday.",
+    "body": [
+      {
+        "h": "The Defense Begins Its Case",
+        "p": [
+          "The legal proceedings for British media personality Russell Brand entered a pivotal new phase as his defense team formally presented its case at Southwark Crown Court. Observers and reporters closely followed the development as the proceedings transitioned from the prosecution's presentation to the testimonies called by Brand's representatives.",
+          "This shift marks a major milestone in the ongoing trial, offering the defense an opportunity to place its own narrative and evidence before the court following weeks of detailed testimony from various other parties involved in the legal matter."
+        ]
+      },
+      {
+        "h": "Brand Takes the Stand",
+        "p": [
+          "In a prominent courtroom appearance, Russell Brand stepped forward to take the stand himself. Dressed in a blazer and an open white shirt, he stated his full name for the record and directly confronted the accusations brought against him.",
+          "Responding to a series of questions posed by his legal representative, Ian Winter, Brand offered firm and vocal denials to every single charge read out in the courtroom, ensuring his voice was clearly heard throughout the chamber."
+        ]
+      },
+      {
+        "h": "Addressing the Specific Charges",
+        "p": [
+          "The entertainer faces multiple serious legal accusations originating from six separate women. These formal counts include three charges of rape and three counts of sexual assault.",
+          "Additionally, a prior charge of indecent assault was recently altered by the presiding judge, leading to a modified count of attempted indecent assault that is also being addressed during the course of the trial."
+        ]
+      },
+      {
+        "h": "Fame and Personal History Discussed",
+        "p": [
+          "During the questioning led by his lawyer, Brand reflected on the trajectory of his celebrity status during the timeframe when the alleged incidents occurred. He was specifically asked about his marriage to former wife Katy Perry.",
+          "Describing the extent of his public profile at the time, Brand characterized his level of notoriety as staggering, noting that this immense wave of fame brought about a profound and dramatic shift in his daily life."
+        ]
+      },
+      {
+        "h": "Courtroom Coverage and Monitoring",
+        "p": [
+          "Media organizations have maintained a continuous presence throughout the legal proceedings. Reporters have utilized live video feeds provided directly from the courtroom since the very beginning of the trial.",
+          "This constant stream of updates allows international observers and news agencies to track the step-by-step developments of the case as testimony unfolds day by day at Southwark Crown Court."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Russell Brand took the stand at Southwark Crown Court to forcefully deny all charges against him as his defense team launched its case. The entertainer faces multiple allegations involving six women, while legal proceedings continue to be monitored through courtroom video feeds."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand took the stand at Southwark Crown Court on October 28, 2026.",
+      "His lawyer is Ian Winter.",
+      "Brand faces three charges of rape, three counts of sexual assault, and one count of attempted indecent assault.",
+      "The allegations involve six women.",
+      "Brand was previously married to Katy Perry."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Ian Winter",
+        "Katy Perry",
+        "Max Goldbart"
+      ],
+      "titles": []
+    },
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2300622162-e1792662491351.jpg?w=1024",
+        "caption": "Russell Brand Takes the Stand as Defense Opens Testimony at Southwark Crown Court",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 10:19:29 +0000"
+  },
+  "5aq01z": {
+    "id": "5aq01z",
+    "type": "news",
+    "headline": "Keanu Reeves Steps Into Netflix Action Thriller Maelstrom",
+    "dek": "Iconic action star Keanu Reeves has taken over the lead role in Netflix's upcoming thriller Maelstrom, stepping in after Alan Ritchson departed the project.",
+    "body": [
+      {
+        "h": "The Casting Change",
+        "p": [
+          "Keanu Reeves has officially joined the cast of the upcoming Netflix action thriller Maelstrom. He takes over the leading role following the departure of Alan Ritchson, who had been the first cast member announced for the project.",
+          "Ritchson, known for his work in Reacher and War Machine, stepped away from the film for reasons that have not been publicly disclosed, leading to the high-profile recasting with Reeves."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "The film will be directed by Jaume Collet-Serra, whose previous work with the streaming platform includes the hit project Carry-On.",
+          "The screenplay was written by Mark Bianculli. Bianculli took over scripting duties from an original draft by the late Gregory Fitzpatrick, which had initially been ordered by Warner Bros. all the way back in 1993."
+        ]
+      },
+      {
+        "h": "Production and Leadership",
+        "p": [
+          "Production duties for the thriller are being managed by Jeff Robinov alongside Tabitha Shick, who represents Talking Pictures.",
+          "Current reports indicate that Maelstrom is sitting firmly in the pre-production stage as the team prepares for eventual filming schedules."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers around a Federal Marshal who is given the assignment of protecting the fiancée of an arms dealer who has turned witness.",
+          "The core of the conflict takes place over a single brutal night when a hurricane cuts off all communication channels, leaves the characters stranded without reinforcements, and unleashes the dealer's henmen directly onto their safe house."
+        ]
+      },
+      {
+        "h": "Reeves' History with Netflix",
+        "p": [
+          "While Keanu Reeves is globally recognized for massive theatrical franchises like John Wick and The Matrix, as well as voicing Shadow the Hedgehog in the Sonic series, he has also worked with Netflix previously.",
+          "His past projects with the streaming service include appearances in the comedy Always Be My Maybe and the drama film To the Bone. Additionally, he remains attached to star in a long-in-development adaptation of the comic book BRZRKR."
+        ]
+      },
+      {
+        "h": "Release Timeline Expectations",
+        "p": [
+          "At present, Netflix has not provided a confirmed release date or a specific release window for Maelstrom.",
+          "Industry observers anticipate that once a concrete filming schedule is established, a clearer picture of when the film might debut will emerge, with current expectations pointing vaguely toward a potential 2028 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Keanu Reeves has replaced Alan Ritchson as the lead in Netflix's upcoming action thriller Maelstrom, directed by Jaume Collet-Serra and scripted by Mark Bianculli. The film follows a Federal Marshal protecting a witness's fiancée during a hurricane siege, with production currently in the pre-production phase."
+        ]
+      }
+    ],
+    "facts": [
+      "Keanu Reeves replaced Alan Ritchson in Maelstrom",
+      "Jaume Collet-Serra is directing Maelstrom",
+      "Mark Bianculli wrote the script",
+      "Gregory Fitzpatrick wrote the original draft in 1993 for Warner Bros.",
+      "Jeff Robinov and Tabitha Shick are producing",
+      "Maelstrom is currently in pre-production"
+    ],
+    "entities": {
+      "people": [
+        "Keanu Reeves",
+        "Alan Ritchson",
+        "Jaume Collet-Serra",
+        "Mark Bianculli",
+        "Gregory Fitzpatrick",
+        "Jeff Robinov",
+        "Tabitha Shick"
+      ],
+      "titles": [
+        "Maelstrom",
+        "Carry-On",
+        "Reacher",
+        "War Machine",
+        "John Wick",
+        "The Matrix",
+        "Sonic",
+        "Always Be My Maybe",
+        "To the Bone",
+        "BRZRKR"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/maelstrom-netflix-action-thriller-keanu-reeves-preview.jpg",
+        "caption": "Keanu Reeves Steps Into Netflix Action Thriller Maelstrom",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 09:59:14 +0000"
   }
 };
