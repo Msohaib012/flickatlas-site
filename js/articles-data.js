@@ -10500,5 +10500,205 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-27T14:45:26Z"
+  },
+  "1k0m0g8": {
+    "id": "1k0m0g8",
+    "type": "news",
+    "headline": "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+    "dek": "Warner Bros. has released the final trailer for Denis Villeneuve's sci-fi trilogy closer, showcasing the dark consequences of Paul Atreides's reign.",
+    "body": [
+      {
+        "h": "Final Trailer Release",
+        "p": [
+          "Warner Bros. has officially rolled out the final preview for the upcoming blockbuster Dune: Part Three. The freshly dropped footage offers audiences a deeper look into the concluding chapter of the cinematic journey directed by Denis Villeneuve.",
+          "The promotional clip focuses heavily on the transformation of the main character into an uncompromising emperor, setting the stage for a darker narrative arc as the global theatrical release approaches on December 18."
+        ]
+      },
+      {
+        "h": "The Reign of Muad'Dib",
+        "p": [
+          "Set nearly two decades after the events where Paul Atreides takes control of the Imperium, the narrative depicts his evolution into a tyrannical dictator known as Muad’Dib. Instead of being celebrated as a hero, he now confronts the catastrophic fallout stemming from his earlier holy war.",
+          "The newly unveiled footage details his desperate struggle to retain absolute power across the cosmos while navigating complex political conspiracies and mounting rebellions that threaten the desert planet Arrakis and billions of lives."
+        ]
+      },
+      {
+        "h": "Fractured Alliances",
+        "p": [
+          "A major focal point of the final preview is the deepening emotional and political schism between Emperor Paul and Chani. Once romantic partners, Chani now firmly stands among the faction of enemies actively opposing his oppressive regime.",
+          "This broken bond adds a layer of personal tragedy to the escalating interplanetary conflict, driving a wedge between characters who previously fought side by side."
+        ]
+      },
+      {
+        "h": "Literary Background",
+        "p": [
+          "This third instalment serves as the cinematic adaptation of Frank Herbert’s 1969 novel Dune Messiah. The source material has provided the creative foundation for Villeneuve to explore the darker themes of absolute power and the corrupting nature of absolute authority.",
+          "The upcoming film acts as the trilogy closer, bringing the epic science fiction saga to its dramatic and definitive conclusion on the big screen."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "Timothee Chalamet reprises his role as Paul Atreides, starring alongside Zendaya who returns as Chani. The ensemble also welcomes back Rebecca Ferguson as Lady Jessica, Florence Pugh as Princess Irulan, Javier Bardem as Stilgar, Anya Taylor-Joy as Alia Atreides, and Jason Momoa returning as Duncan Idaho.",
+          "Additionally, the franchise introduces a major new face with Robert Pattinson joining the cast to portray the primary antagonist, the Face Dancer Scytale."
+        ]
+      },
+      {
+        "h": "Production and Distribution",
+        "p": [
+          "The project is backed by Legendary Pictures and Warner Bros Pictures, with Warner Bros handling the worldwide theatrical distribution. A large team of producers is attached to the film, including Mary Parent, Cale Boyter, Patrick McCormick, Tanya Lapointe, and Denis Villeneuve.",
+          "The executive production team features Joshua Grode, Herbert W Gains, Thomas Tull, Brian Herbert, Kim Herbert, and Byron Merritt, ensuring continuity with the previous entries in the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Warner Bros. released the final trailer for Denis Villeneuve's Dune: Part Three, showcasing Timothee Chalamet's Paul Atreides as a tyrannical emperor facing the fallout of his holy war. The sci-fi trilogy closer, adapted from Frank Herbert's 1969 novel Dune Messiah, is scheduled to release worldwide in cinemas on December 18."
+        ]
+      }
+    ],
+    "facts": [
+      "The final trailer for Dune: Part Three was released by Warner Bros. on October 28, 2026.",
+      "The film is directed by Denis Villeneuve and is adapted from Frank Herbert’s 1969 novel Dune Messiah.",
+      "Dune: Part Three is scheduled to hit cinemas worldwide on December 18.",
+      "The narrative is set nearly two decades after Paul seized control of the Imperium.",
+      "Robert Pattinson joins the franchise as the primary antagonist, the Face Dancer Scytale.",
+      "The film stars Timothee Chalamet, Zendaya, Rebecca Ferguson, Florence Pugh, Javier Bardem, Anya Taylor-Joy, and Jason Momoa."
+    ],
+    "entities": {
+      "people": [
+        "Timothee Chalamet",
+        "Denis Villeneuve",
+        "Zendaya",
+        "Frank Herbert",
+        "Rebecca Ferguson",
+        "Florence Pugh",
+        "Javier Bardem",
+        "Anya Taylor-Joy",
+        "Jason Momoa",
+        "Robert Pattinson",
+        "Mary Parent",
+        "Cale Boyter",
+        "Patrick McCormick",
+        "Tanya Lapointe",
+        "Joshua Grode",
+        "Herbert W Gains",
+        "Thomas Tull",
+        "Brian Herbert",
+        "Kim Herbert",
+        "Byron Merritt",
+        "Anurag Bohra"
+      ],
+      "titles": [
+        "Dune 3",
+        "Dune: Part Three",
+        "Dune Messiah"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/dune-3-final-trailer-timothee-chalamets-paul-faces-fallout-of-his-rule-as-dictator-283500166-16x9_0.png?VersionId=w3bvoCE4RCvJhM6eIVZW8XQJ6H0owmGf",
+        "caption": "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 06:09:09 +0530"
+  },
+  "1rh3nae": {
+    "id": "1rh3nae",
+    "type": "news",
+    "headline": "Ramayana: Rise of Legend Targets Dangal Decade-Old Record",
+    "dek": "With a massive global strategy and a reported budget of Rs 2,000 crore, Ranbir Kapoor and Sai Pallavi's upcoming epic aims to challenge Aamir Khan's historic milestone.",
+    "body": [
+      {
+        "h": "The Decade-Old Benchmark",
+        "p": [
+          "For nearly ten years, Aamir Khan's sports drama has remained unchallenged at the top of the worldwide box-office charts for Hindi cinema. Driven by an unprecedented wave in China, the film crossed the Rs 2,000-crore mark globally, leaving subsequent blockbusters trailing behind.",
+          "That enduring record has created a monumental ceiling for the industry. Now, a new contender arrives with comparable scale, intent, and global ambitions to test whether that decade-old benchmark can finally be surpassed."
+        ]
+      },
+      {
+        "h": "Scale and Worldwide Ambition",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Rise of Legend is scheduled for a simultaneous worldwide theatrical release across premium formats on November 5. The project features an ensemble cast including Ranbir Kapoor, Sai Pallavi, and Yash.",
+          "Mounting a production of this magnitude requires enormous financial backing. Industry estimates place the project's budget at around Rs 2,000 crore, positioning it as one of the most expensive ventures in Indian cinema history."
+        ]
+      },
+      {
+        "h": "The Legacy of Dhurandhar 2",
+        "p": [
+          "Before this upcoming clash, recent releases have demonstrated how close contemporary Hindi films can get to the top tier. The Ranveer Singh-starrer Dhurandhar: The Revenge concluded its theatrical run with a global gross of roughly Rs 1,850 crore.",
+          "Significantly, that impressive total was achieved without the massive international tailwinds that propelled older record holders, sparking fresh conversations about the expanding global potential of domestic releases."
+        ]
+      },
+      {
+        "h": "Decoding the Financial Math",
+        "p": [
+          "A multi-thousand-crore investment brings unique financial pressures and trade calculations. Using standard commercial multipliers, a project of this scale faces steep theatrical recovery targets before counting non-theatrical revenues.",
+          "Trade analysts suggest that a massive opening weekend is merely the starting point. Sustaining ticket sales over weeks will be essential to offset production costs and achieve true profitability."
+        ]
+      },
+      {
+        "h": "Advance Bookings and Early Momentum",
+        "p": [
+          "Early indicators ahead of the premiere show active engagement from moviegoers. Sacnilk reported that global advance bookings had crossed Rs 20 crore, comprising roughly Rs 11.81 crore from domestic sales and block bookings, alongside about $2 million internationally.",
+          "While these figures point to strong initial curiosity, industry observers note that early booking momentum alone cannot guarantee long-term box-office endurance."
+        ]
+      },
+      {
+        "h": "Cautionary Tales from Recent Releases",
+        "p": [
+          "The pitfalls of relying solely on pre-release buzz were recently highlighted by Yash's Toxic. Despite massive initial anticipation and a prominent star cast, the film's post-release trajectory fell short of expectations, finishing with a worldwide gross of around Rs 340 crore against a significant budget.",
+          "Such examples serve as a reminder that negative word-of-mouth can quickly erode a film's momentum after opening weekend, making audience satisfaction critical for survival."
+        ]
+      },
+      {
+        "h": "Universal Themes and Global Reach",
+        "p": [
+          "To match historical records, an epic must travel beyond its domestic audience and resonate across international territories. While the source material carries deep cultural familiarity in India, it must translate into a compelling cinematic experience for global viewers.",
+          "Whether the production can create the kind of emotional connection that turns a theatrical event into a worldwide phenomenon remains the central question as the release date approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of Legend, directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, arrives in theatres worldwide on November 5 with a reported budget of Rs 2,000 crore. The film aims to challenge Aamir Khan's decade-old Rs 2,000-crore worldwide record set by Dangal."
+        ]
+      }
+    ],
+    "facts": [
+      "Dangal's worldwide record has stood for nearly a decade.",
+      "Ramayana: Rise of Legend releases worldwide on November 5.",
+      "Dangal grossed around Rs 538 crore domestically in India.",
+      "Box Office India lists Dangal's China collection at approximately Rs 1,226 crore.",
+      "Dhanurandhar: The Revenge finished its run with a reported worldwide gross of around Rs 1,850 crore.",
+      "Sacnilk reported that worldwide advance bookings crossed Rs 20 crore on October 27.",
+      "Toxic finished with a collection of around Rs 340 crore against a cost of Rs 450-500 crore."
+    ],
+    "entities": {
+      "people": [
+        "Aamir Khan",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ranveer Singh",
+        "Yash",
+        "Vineeta Kumar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of Legend",
+        "Dangal",
+        "Dhurandhar: The Revenge",
+        "Toxic"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/ramayana-vs-dangal--and-a-10-year-wait-story-for-rs-2-000-crore-box-office-280058248-16x9_0.jpg?VersionId=XTY5Q.sK4We10YX4cVslF8vGD.opHZgU",
+        "caption": "Ramayana: Rise of Legend Targets Dangal Decade-Old Record",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 06:31:21 +0530"
   }
 };

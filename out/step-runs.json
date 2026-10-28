@@ -663,6 +663,45 @@
      "detail": "65 stories, 0 duplicates removed, 57 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T01:52:24Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 188,
+     "detail": "RSS/Atom items across 139 sources; 22 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "'Premada Oorali' BO day 33",
+      "Singer Donnie Iris passes away at 83 years old",
+      "'Drishyam 3: The Conclusion' day 26: Ajay Devgn’s film earns Rs 1.25 cr on Tuesday",
+      "'Udta Teer' day 5: Ayushmann and Sara's film earns Rs 38.53 cr worldwide",
+      "Matthew Perry’s sister recalls ‘Friends’ cast's emotional reunion at funeral",
+      "'Titans' BO day 6 vs 'Orijinal': Jayasurya's film earns Rs 2.67 cr gross",
+      "'Ranabaali' BO day 12: Weekday slowdown",
+      "'Jailer 2' BO day 13: Rajinikanth's action film earns Rs 7.50 cr in India",
+      "Connor Storrie to play villain in Ryan Gosling's 'Ghost Rider'?",
+      "Love in Disguise review: Yim Si Wan and Seol In Ah's gender-bending K-drama romcom serves laughs and chemistry even when murder mystery falls flat",
+      "Director Rajiv Rai says replacing Sanjay Dutt in Yudh after actor faced personal issues cost him their friendship",
+      "Ramayana vs Dangal, and a 10 year wait story for Rs 2,000 crore box office",
+      "Dune 3 final trailer: Timothee Chalamet's Paul faces fallout of his rule as dictator",
+      "indian idol legends returns mohammad danish flirts with shilpa shetty salman ali himesh reshammiya reaction tmovf dskc 2681792 2026 10 28",
+      "hrithik roshan ex wife sussanne khan on her boyfriend arslan goni divorce marriage affair bollywood mmtc 2681304 2026 10 28",
+      "scene to mookuthi amman 2 upcoming south indian movie releases in november 2026 article 156418949",
+      "vishal health update actor undergoes physiotherapy after injuring back during purushan shoot article 156419034",
+      "did parineeti chopra ignore jennifer winget at shaque success party latter breaks silence article 156418983",
+      "Bruce Campbell's 'Reservoir Dogs' Meets 'Birdman' Thriller Resurfaces on Free Streaming",
+      "Netflix’s 10/10 Heist Thriller Officially Steals the Streaming Crown"
+     ],
+     "updated": [],
+     "count": 126,
+     "detail": "126 stories, 18 duplicates removed, 62 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -969,6 +1008,27 @@
      "updated": [],
      "count": 4,
      "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T01:52:51Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+      "Ramayana: Rise of Legend Targets Dangal Decade-Old Record"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
    }
@@ -1279,6 +1339,24 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T01:52:51Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -1479,6 +1557,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-28T00:02:22Z",
     "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -1827,6 +1915,24 @@
      "detail": "+2 new rows, 7 updated rows, 189 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T01:58:02Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 202,
+     "detail": "201 collected staging rows from readers; 86 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+3 new rows, 6 updated rows, 192 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -2034,6 +2140,16 @@
     "category": "Reviews",
     "run_at": "2026-10-28T00:02:22Z",
     "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2400,6 +2516,27 @@
      "detail": "api-news.json 80 items, api-trends.json 0 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T01:58:04Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+      "Ramayana: Rise of Legend Targets Dangal Decade-Old Record"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -2627,6 +2764,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T01:52:35Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
@@ -2870,6 +3024,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -3091,6 +3255,26 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T01:52:51Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 126 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+      "Ramayana: Rise of Legend Targets Dangal Decade-Old Record"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
@@ -3259,6 +3443,16 @@
     "category": "Box Office",
     "run_at": "2026-10-28T00:02:22Z",
     "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3455,6 +3649,21 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 200,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
@@ -3702,6 +3911,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -3884,6 +4108,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -4052,6 +4286,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-28T00:02:22Z",
     "run_id": "40605407648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -4228,6 +4472,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -4300,6 +4554,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -4352,8 +4616,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T01:58:15Z",
+    "run_id": "40617419764",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T00:02:22Z"
+ "updated_at": "2026-10-28T01:58:15Z"
 }
