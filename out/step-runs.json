@@ -780,6 +780,45 @@
      "detail": "63 stories, 2 duplicates removed, 56 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T04:52:05Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": {
+     "candidates": 119,
+     "detail": "RSS/Atom items across 139 sources; 20 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "SCOOP: Godzilla Minus Zero's India release likely to be PUSHED to November 20 due to Ramayana's two-week IMAX exclusivity",
+      "Saiyami Kher Set To Make International Debut With An Indo-Russian Drama; 'This Was A Completely Different...'",
+      "Entertainment News LIVE Today: Ramayana Cast Attend LA Premiere; YRKKH Actress Call Off Engagement",
+      "Dancing With The Stars 35 Episode 8 Eviction: DOUBLE Elimination! Who Got Evicted On DWTS Horror Movie Night?",
+      "Ramayana Box Office: Can Ranbir Kapoor Match KGF 2's 9.9x Hindi Growth and Baahubali 2's Pan-India Success?",
+      "Yash celebrates his roots in Kannada cinema at ‘Ramayana’ premiere: WATCH",
+      "Amitabh Bachchan’s Juhu homes have an interesting history",
+      "Sara Ali Khan says she had no godfather in Bollywood, no father ‘begging people to take me in their films’",
+      "Dwayne Johnson sparks Taylor Swift fan backlash after Instagram account appears to like video attacking her musical abilities",
+      "Gal Gadot sends strong message after voting in Israel, calls on citizens to choose change amid crucial election",
+      "Nitesh Tiwari shuts down trolls saying AI used for Ramayana dubbing. Watch",
+      "cm bhagwant mann honours captains of all 6 teams participating in the championship 3077143.html",
+      "naseeruddin shah said main dimagi naxal condemns violence against students jamia millia islamia tmovg dskc 2681849 2026 10 28",
+      "ramayana grand premiere los angeles ranbir kapoor yash sai pallavi grand entry hollywood chants jai shri ram tmova dskc 2681899 2026 10 28",
+      "actress sweta keswani admits having one night stand many times no shame married two times tmovh 2681690 2026 10 28",
+      "up lucknow comedian harsh gujral and cm yogi adityanath laughing viral video crime mmtc 2681886 2026 10 28",
+      "cyclone arnab 100 trains cancelled flights suspended as storm hits andhra coast article 156419329",
+      "delhi aqi hits 225on october 28 imd forecasts mainly clear skies partly cloudy conditions by afternoon article 156418991",
+      "not suriya fahadh faasil nazriya were set to star in scene jithu madhavan reveals article 156419587",
+      "yeh rishta kya kehlata hai actress navika kotia calls off engagement with businessman mazen mody article 156419527"
+     ],
+     "updated": [],
+     "count": 55,
+     "detail": "55 stories, 0 duplicates removed, 64 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -1151,6 +1190,27 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T04:52:19Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Godzilla Minus Zero India Theatrical Debut Expected to Move to November Due to Ramayana IMAX Window",
+      "Can Ranbir Kapoor's Ramayana Match KGF 2 and Baahubali 2's Pan-India Success?"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1513,6 +1573,24 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T04:52:19Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -1743,6 +1821,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-28T03:58:06Z",
     "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2145,6 +2233,24 @@
      "detail": "+0 new rows, 13 updated rows, 192 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T04:57:34Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": {
+     "candidates": 206,
+     "detail": "206 collected staging rows from readers; 91 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+1 new rows, 8 updated rows, 197 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -2382,6 +2488,16 @@
     "category": "Reviews",
     "run_at": "2026-10-28T03:58:06Z",
     "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2811,6 +2927,27 @@
      "detail": "api-news.json 84 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T04:57:36Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": {
+     "candidates": 86,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Godzilla Minus Zero India Theatrical Debut Expected to Move to November Due to Ramayana IMAX Window",
+      "Can Ranbir Kapoor's Ramayana Match KGF 2 and Baahubali 2's Pan-India Success?"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 86 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -3071,6 +3208,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-28T03:58:06Z",
     "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3344,6 +3491,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-28T03:58:06Z",
     "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3629,6 +3786,26 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T04:52:19Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 55 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 3/6, celebrities_events 0/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Godzilla Minus Zero India Theatrical Debut Expected to Move to November Due to Ramayana IMAX Window",
+      "Can Ranbir Kapoor's Ramayana Match KGF 2 and Baahubali 2's Pan-India Success?"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
@@ -3827,6 +4004,16 @@
     "category": "Box Office",
     "run_at": "2026-10-28T03:58:06Z",
     "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -4065,6 +4252,21 @@
      "added": [],
      "updated": [],
      "count": 198,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 180,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
@@ -4360,6 +4562,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
@@ -4577,6 +4789,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -4775,6 +4997,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-28T03:58:06Z",
     "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -4981,6 +5213,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -5083,6 +5325,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -5165,8 +5417,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T04:57:42Z",
+    "run_id": "40634576874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T03:58:06Z"
+ "updated_at": "2026-10-28T04:57:42Z"
 }
