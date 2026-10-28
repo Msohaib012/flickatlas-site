@@ -30,11 +30,9 @@ jobs:
       - name: Fetch publish export from panel
         env:
           PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
-          VERCEL_PROTECTION_BYPASS: ${{ secrets.VERCEL_PROTECTION_BYPASS }}
         run: |
-          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+          curl -sS -X POST "https://flickatlas-admin.hidden-decodes.workers.dev/api/assistant/publish-export" \
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
-            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o /tmp/export.json
           python3 scripts/apply-publish.py /tmp/export.json js/articles-data.js
           # Feed merge: the news-item page looks a story up in /api/news
@@ -42,9 +40,8 @@ jobs:
           # be in the feed or they show "moved on". convert-news.py merges
           # the export's feed entries and filters the feed to written-only
           # articles. Non-fatal if the panel call fails.
-          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+          curl -sS -X POST "https://flickatlas-admin.hidden-decodes.workers.dev/api/assistant/publish-export" \
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
-            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
           python3 scripts/convert-news.py || echo "feed merge failed, continuing with articles only"
       - name: Bump asset version when articles changed
@@ -60,16 +57,150 @@ jobs:
             find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
           fi
       - name: Commit if changed
+        # Publish-specific commit-with-retry (3 attempts). A manual push can
+        # land while the publish run is in flight (2026-10-27 run
+        # 40458294735 died exactly here on a rebase/push conflict with the
+        # hourly pipeline) — a whole publish must never be dropped for that.
+        # Conflict resolution DURING the rebase (never abort-and-lose):
+        #   *.html                — take origin/main's version, re-apply the ?v= bump
+        #   js/articles-data.js   — take origin/main's, REGENERATE via
+        #                           apply-publish.py from this run's /tmp/export.json
+        #                           (it overwrites with the export content, so the
+        #                           regenerated file is exactly this run's publish)
+        #   out/publish-export.json — restore from this run's /tmp/export.json
+        #                           (same payload the step fetched twice)
+        #   api-news.json         — take origin/main's, REGENERATE via
+        #                           convert-news.py (reads the restored
+        #                           out/publish-export.json + the previous
+        #                           api-news.json carry-forward, so both
+        #                           sides' feed entries survive; MUST run
+        #                           AFTER apply-publish.py — the feed filter
+        #                           only keeps items present in
+        #                           js/articles-data.js)
+        #   api-trends.json       — take origin/main's version, no regeneration
+        #                           (regenerates on the next hourly run)
+        # A regenerator that fails leaves the file at origin/main's version
+        # (warning logged, rebase continues) — one file's regen failure must
+        # not drop the publish. Do NOT reuse scripts/commit_with_retry.sh:
+        # its conflict map regenerates articles-data.js via apply-auto.py,
+        # which is the hourly pipeline's generator and would silently
+        # rewrite publish output.
         run: |
           git config user.name "Msohaib012"
           git config user.email "200891737+Msohaib012@users.noreply.github.com"
-          git add js/articles-data.js api-news.json api-trends.json out/publish-export.json
-          git add -A -- '*.html'
-          if ! git diff --cached --quiet; then
-            git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase
-            git push
-          fi
+
+          publish_resolve_conflicts() {
+            local conflicted tries f
+            tries=0
+            while [ $tries -lt 3 ]; do
+              tries=$((tries + 1))
+              conflicted=$(git diff --name-only --diff-filter=U || true)
+              if [ -z "$conflicted" ]; then
+                if GIT_EDITOR=true git rebase --continue; then return 0; fi
+                if git diff --name-only --diff-filter=U | grep -q .; then continue; fi
+                echo "publish-retry: rebase --continue failed without a conflict — aborting this attempt"
+                git rebase --abort || true
+                return 1
+              fi
+              echo "publish-retry: resolving rebase conflicts: $conflicted"
+              local regen_articles="" regen_news="" html_conflict=""
+              for f in $conflicted; do
+                case "$f" in
+                  *.html)
+                    git checkout --ours -- "$f"
+                    html_conflict=1
+                    ;;
+                  js/articles-data.js)
+                    git checkout --ours -- "$f"
+                    regen_articles=1
+                    ;;
+                  out/publish-export.json)
+                    # Same payload as /tmp/export.json (fetched twice above).
+                    git checkout --ours -- "$f" 2>/dev/null || true
+                    if [ -f /tmp/export.json ]; then cp /tmp/export.json out/publish-export.json; fi
+                    ;;
+                  api-news.json)
+                    git checkout --ours -- "$f"
+                    regen_news=1
+                    ;;
+                  *)
+                    # api-trends.json and anything else: origin/main's
+                    # version, no regeneration (regenerates next run).
+                    echo "publish-retry: $f takes origin/main's version (regenerates next run)"
+                    git checkout --ours -- "$f"
+                    ;;
+                esac
+              done
+              if [ -n "$html_conflict" ]; then
+                NEWV="fa-$(date -u +%Y%m%d%H%M)"
+                echo "publish-retry: re-bumping ?v= to $NEWV"
+                find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
+                git add -A -- '*.html'
+              fi
+              # Regenerate articles FIRST (convert-news.py filters the feed
+              # by what is published in js/articles-data.js).
+              if [ -n "$regen_articles" ]; then
+                echo "publish-retry: regenerating articles-data.js via apply-publish.py"
+                if ! python3 scripts/apply-publish.py /tmp/export.json js/articles-data.js; then
+                  echo "publish-retry: WARNING apply-publish.py failed — articles-data.js stays at origin/main's version"
+                  git checkout --ours -- js/articles-data.js 2>/dev/null || true
+                fi
+                git add js/articles-data.js 2>/dev/null || true
+              fi
+              if [ -n "$regen_news" ]; then
+                echo "publish-retry: regenerating api-news.json via convert-news.py"
+                if ! python3 scripts/convert-news.py; then
+                  echo "publish-retry: WARNING convert-news.py failed — api-news.json stays at origin/main's version"
+                  git checkout --ours -- api-news.json 2>/dev/null || true
+                fi
+                git add api-news.json 2>/dev/null || true
+              fi
+              git add -u
+              if GIT_EDITOR=true git rebase --continue; then return 0; fi
+              if git diff --name-only --diff-filter=U | grep -q .; then continue; fi
+              echo "publish-retry: rebase --continue failed without a conflict — aborting this attempt"
+              git rebase --abort || true
+              return 1
+            done
+            echo "publish-retry: too many rebase stops — aborting this attempt"
+            git rebase --abort || true
+            return 1
+          }
+
+          publish_attempt() {
+            git add js/articles-data.js api-news.json api-trends.json out/publish-export.json
+            git add -A -- '*.html'
+            if ! git diff --cached --quiet; then
+              git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)" || return 1
+              echo "publish-retry: committed this run's changes"
+            else
+              echo "publish-retry: nothing to commit"
+            fi
+            # Explicit `origin main`: the rebase must not depend on the
+            # checkout's upstream-tracking config.
+            if ! git pull --rebase origin main; then
+              echo "publish-retry: pull --rebase conflicted — resolving during the rebase"
+              publish_resolve_conflicts || return 1
+            fi
+            # Push with one inner retry for a push race (another push
+            # landing in between). If the inner rebase conflicts, the
+            # outer loop retries the whole attempt.
+            git push origin main || { git pull --rebase origin main && git push origin main; } || return 1
+            return 0
+          }
+
+          n=0
+          while [ $n -lt 3 ]; do
+            n=$((n + 1))
+            echo "publish-retry: attempt $n/3"
+            if publish_attempt; then
+              echo "publish-retry: done (attempt $n)"
+              exit 0
+            fi
+            echo "publish-retry: attempt $n failed"
+          done
+          echo "publish-retry: all 3 attempts failed — next publish run retries from fresh main"
+          exit 1
 
 
 

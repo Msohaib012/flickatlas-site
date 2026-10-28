@@ -100,12 +100,10 @@ jobs:
         continue-on-error: true
         env:
           PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
-          VERCEL_PROTECTION_BYPASS: ${{ secrets.VERCEL_PROTECTION_BYPASS }}
         run: |
           python3 scripts/fetch.py --registry scripts/registry.json --out out
-          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+          curl -sS -X POST "https://flickatlas-admin.hidden-decodes.workers.dev/api/assistant/publish-export" \
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
-            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
 
       # --- 2. episode tracker (gated) ---------------------------------
@@ -331,16 +329,13 @@ jobs:
         continue-on-error: true
         env:
           PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
-          VERCEL_PROTECTION_BYPASS: ${{ secrets.VERCEL_PROTECTION_BYPASS }}
         run: |
-          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+          curl -sS -X POST "https://flickatlas-admin.hidden-decodes.workers.dev/api/assistant/publish-export" \
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
-            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o /tmp/export.json
           python3 scripts/apply-publish.py /tmp/export.json js/articles-data.js
-          curl -sS -X POST "https://flickatlas-admin-live.vercel.app/api/assistant/publish-export" \
+          curl -sS -X POST "https://flickatlas-admin.hidden-decodes.workers.dev/api/assistant/publish-export" \
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
-            -H "x-vercel-protection-bypass: $VERCEL_PROTECTION_BYPASS" \
             -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
 
       # --- 8. rebuild news feed (always, AFTER all article writers) ---
