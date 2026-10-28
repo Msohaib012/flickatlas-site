@@ -12236,5 +12236,182 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 08:37:31 +0000"
+  },
+  "70cjic": {
+    "id": "70cjic",
+    "type": "news",
+    "headline": "Bombay High Court Dismisses IMPPA Dispute Award Involving Nikhil Dwivedi's Production Banner",
+    "dek": "The Bombay High Court has delivered a major ruling favoring producer Nikhil Dwivedi and his company Saffron Magicworks by officially setting aside an earlier arbitration decision.",
+    "body": [
+      {
+        "h": "The High Court Ruling",
+        "p": [
+          "In a prominent legal update for producer Nikhil Dwivedi and his banner Saffron Magicworks, the Bombay High Court has officially dismissed an award issued against the production company. The contested decision, originally dated July 3, 2026, and handed down through industry channels, has now been completely set aside, thereby concluding the ongoing judicial proceedings regarding the matter.",
+          "According to official filings released by the production house, the final order nullifies the conclusions reached by the dispute resolution body. The court formally recorded that the entire suit stands fully disposed of, meaning no further motions or pending applications require consideration by the bench."
+        ]
+      },
+      {
+        "h": "Background of the Interim Protection",
+        "p": [
+          "This ultimate resolution is the culmination of earlier judicial interventions that protected the production house from immediate penalties. Specifically, an interim directive issued on September 9, 2026, by Justice Arif S Doctor had previously barred the industry association from branding Saffron Magicworks as a defaulter based on the disputed ruling.",
+          "During those initial hearings, legal representation for the opposing side explicitly assured the court that the contested verdict would not be acted upon. Armed with this assurance and seeking shield against implementation consequences, Saffron Magicworks pursued a full challenge against the validity of the internal dispute mechanism's conclusions."
+        ]
+      },
+      {
+        "h": "The Final Order and Association Absence",
+        "p": [
+          "In the concluding directive issued on October 23, 2026, Justice Arif S Doctor specifically focused on the posture of the Indian Motion Picture Producers' Association. The bench highlighted that since the association's committee originated the challenged award, the body could not logically claim to be legally aggrieved by its nullification.",
+          "Furthermore, records indicate that despite receiving proper legal notice and service of documents, the association failed to make any formal appearance or representation across the multiple dates scheduled for the hearings."
+        ]
+      },
+      {
+        "h": "Controversy Over Public Statements",
+        "p": [
+          "Beyond the core legal arguments, friction arose concerning how the court's earlier directives were communicated to the public. Saffron Magicworks strongly contended that public announcements issued by the association regarding the case were materially misleading, particularly concerning whether formal judicial restraints had been imposed.",
+          "The production company maintained that the September directives unambiguously barred any classification of default stemming from the July adjudication. They argued that any narrative suggesting a lack of court restraint directly contradicted the explicit text found in the fourth paragraph of the interim order."
+        ]
+      },
+      {
+        "h": "Legal Representation and Counsel",
+        "p": [
+          "A robust team of advocates steered the legal strategy for Saffron Magicworks throughout the court battles. The roster of legal professionals included Rashmin Khandekar, Dhruva Gandhi, Madhu Gadodia, Vivek Dwivedi, Vinita Dandekar, and Aryan Garg.",
+          "The external legal counsel operated under the instructions of the firm Anand and Naik, while coordinate efforts within the company were supervised closely by the enterprise Chief Legal Officer, Kartikeya Desai."
+        ]
+      },
+      {
+        "h": "Broader Implications and Legal Standing",
+        "p": [
+          "By officially setting aside the award and closing the suit, the court has brought a definitive close to this chapter of friction between the production banner and the trade association. However, the ruling leaves all remaining statutory rights, broader contentions, and potential remedies open for both parties under the framework of the law.",
+          "This resolution eliminates the looming threat of punitive industry tagging, allowing Saffron Magicworks to operate freely without the shadow of the previously contested dispute resolution penalties."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Bombay High Court set aside an IMPPA dispute award against Nikhil Dwivedi's Saffron Magicworks, ending the active suit and pending applications. The final October 2026 order follows an earlier September interim protection order that had stopped the trade association from declaring the production house a defaulter."
+        ]
+      }
+    ],
+    "facts": [
+      "The Bombay High Court set aside an award dated July 3, 2026.",
+      "The award was passed against Nikhil Dwivedi’s Saffron Magicworks by IMPPA.",
+      "Justice Arif S Doctor passed an interim order on September 9, 2026.",
+      "Justice Arif S Doctor issued the latest order on October 23, 2026.",
+      "The legal team for Saffron Magicworks included advocates Rashmin Khandekar, Dhruva Gandhi, Madhu Gadodia, Vivek Dwivedi, Vinita Dandekar, and Aryan Garg, instructed by Anand and Naik.",
+      "Kartikeya Desai serves as the Chief Legal Officer for Saffron Magicworks."
+    ],
+    "entities": {
+      "people": [
+        "Nikhil Dwivedi",
+        "Arif S Doctor",
+        "Rashmin Khandekar",
+        "Dhruva Gandhi",
+        "Madhu Gadodia",
+        "Vivek Dwivedi",
+        "Vinita Dandekar",
+        "Aryan Garg",
+        "Kartikeya Desai"
+      ],
+      "titles": [
+        "Saffron Magicworks"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/10/Nikhil-620.jpeg",
+        "caption": "Bombay High Court Dismisses IMPPA Dispute Award Involving Nikhil Dwivedi's Production Banner",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 14:40:04 +0200"
+  },
+  "1wcdbwg": {
+    "id": "1wcdbwg",
+    "type": "news",
+    "headline": "Suriya Explores Early Morning Devotion at Tiruchendur Temple Leading Up to 'Scene' Premiere",
+    "dek": "Renowned South Indian actor Suriya was spotted participating in early morning prayers at the Tiruchendur Arulmigu Subramania Swamy Temple as anticipation peaks for his upcoming holiday release.",
+    "body": [
+      {
+        "h": "Early Morning Temple Visit",
+        "p": [
+          "Renowned actor Suriya recently made headlines by arriving early in the morning at the revered Tiruchendur Arulmigu Subramania Swamy Temple. Draped in traditional white garments, the star sought blessings at the prominent Murugan shrine located in the Thoothukudi district.",
+          "His unexpected presence during the dawn hours caught many devotees off guard, instantly drawing a large crowd of admirers eager to witness the actor offering his prayers inside the temple complex."
+        ]
+      },
+      {
+        "h": "Interacting With Devotees",
+        "p": [
+          "As word of his presence spread among the morning worshippers, fans quickly gathered around the star hoping for a brief interaction or a glimpse of their favorite actor. Suriya remained composed and engaged respectfully with the surrounding crowd during the visit.",
+          "Clips and recordings of the actor navigating through the temple premises rapidly circulated across various online platforms, heightening excitement among his massive fan following."
+        ]
+      },
+      {
+        "h": "Timing Ahead of Festive Release",
+        "p": [
+          "The pilgrimage to the holy site coincides with a critical juncture for the actor, arriving just days before the scheduled theatrical debut of his highly anticipated feature film titled 'Scene'.",
+          "While numerous followers speculated that the actor's spiritual trip was a gesture to pray for the box office success of his upcoming project, Suriya has not made any official public statements regarding his intentions behind the visit."
+        ]
+      },
+      {
+        "h": "Censor Certification and Arrival",
+        "p": [
+          "The theatrical rollout for 'Scene' received a major boost after the project successfully secured a U/A censor certificate from authorities, clearing all hurdles for its grand public premiere.",
+          "The movie is slated to hit the silver screens during the festive Diwali window on November 6, positioning it as a major contender for audience attention against other holiday releases."
+        ]
+      },
+      {
+        "h": "Director and Creative Vision",
+        "p": [
+          "The upcoming Tamil project is helmed by director Jithu Madhavan, a filmmaker who has previously earned acclaim for his successful Malayalam cinematic ventures such as 'Romancham' and 'Aavesham'.",
+          "The director's signature style brings a distinct blend of action, comedy, and dark humor to the table, creating a unique cross-industry collaboration that has further amplified pre-release curiosity."
+        ]
+      },
+      {
+        "h": "Character and Ensemble Cast",
+        "p": [
+          "In this upcoming feature, Suriya steps into the shoes of Deputy Superintendent of Police Inbaraj Pandian IPS, portraying a law enforcement officer characterized by a bold and unconventional attitude.",
+          "The main cast also features performances by Nazriya Nazim and Naslen alongside supporting actors Anand Raj, Lal, and John Vijay, with musical compositions handled by Sushin Shyam."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Suriya visited the Tiruchendur Arulmigu Subramania Swamy Temple for early morning prayers ahead of his film 'Scene' releasing on November 6. The movie, directed by Jithu Madhavan, features an ensemble cast and has received a U/A certificate for its festive premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya visited the Tiruchendur Arulmigu Subramania Swamy Temple",
+      "The temple visit took place on October 28, 2026",
+      "'Scene' is scheduled to release on November 6, 2026",
+      "The film received a U/A certificate",
+      "Jithu Madhavan is the director of 'Scene'",
+      "Suriya plays Deputy Superintendent of Police Inbaraj Pandian IPS"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Anand Raj",
+        "Lal",
+        "John Vijay",
+        "Sushin Shyam"
+      ],
+      "titles": [
+        "Scene",
+        "Romancham",
+        "Aavesham"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135259399,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya Explores Early Morning Devotion at Tiruchendur Temple Leading Up to 'Scene' Premiere",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-28T14:49:09+05:30"
   }
 };
