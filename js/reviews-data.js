@@ -59,6 +59,29 @@ window.FA_REVIEWS = {
     "verdict": "Hope (2026) is a deeply demented and divisive alien invasion film that delivers high-octane spectacle and audacious thrills at the cost of narrative focus. Director Na Hong-jin takes major risks that pay off visually and action-wise during the first two hours, though the second half falters significantly. Recommended for sci-fi fans seeking sheer spectacle and monster movie action, provided they can stomach a messy and unresolved conclusion.",
     "weaknesses": "Despite a strong opening, the film suffers from a dramatic downturn from a great movie to a disappointing one as it loses focus. Every new idea demands more screen time with a whole lot of filler, resulting in a divisive second half that leaves audiences scratching their heads. By the end, the narrative fails to resolve its central conflicts, turning into trash for some viewers."
   },
+  "1061474": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "Reviewers note that the film is cute, fun, and wonderfully entertaining, offering a heartfelt cinematic reset. The entertainment value stems from its bright, hopeful approach and earnest character dynamics rather than traditional stand-up routines or specific comedic gags. It delivers an optimistic premise that engages audiences seeking a sincere pop myth.",
+    "overall": 6.5,
+    "performances": "David Corenswet delivers a knockout performance as Superman and Clark Kent, successfully capturing the affectionate awkwardness of the character. The top cast also features Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, and Nathan Fillion. Reviewers generally praise the earnestness brought to these iconic roles.",
+    "source": "FlickAtlas Review",
+    "story_plot": "As a journalist in Metropolis, Superman embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent. The film presents a cinematic reset for the Man of Steel under the direction of James Gunn. It explores optimistic hope rising against cynicism, featuring elements like the fortress of solitude and the justice gang.",
+    "strengths": [
+      "Heartfelt cinematic reset",
+      "Knockout lead performance by David Corenswet",
+      "Optimistic and hopeful tone",
+      "Care and sincerity in restoring the hero's classic nature"
+    ],
+    "verdict": "Superman (2025) offers a sincere, bright, and entertaining cinematic reset for the DC universe. While it has its flaws and divides some critics regarding its idealistic approach, it remains a heartfelt watch with a standout lead performance. It is recommended for fans looking for an optimistic and altruistic take on the Man of Steel.",
+    "weaknesses": "Some reviewers found parts of the movie to be a mess, pointing to idealistic approaches that can feel simplistic or unrealistic. Additional criticisms highlight perceived weaknesses in portrayal, annoying elements like a barking dog, and comparisons to previous cinematic iterations that left certain viewers disappointed."
+  },
   "1081010": {
     "categories": {
       "Action & Cinematography": 7.0,
@@ -127,6 +150,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Fall 2: Deadpoint functions as a decent popcorn thriller for fans of extreme survival premises, but it struggles under the weight of a familiar formula and uneven production qualities. While it offers a handful of harrowing sequences and committed acting, its exhausting pacing and weak second half make it a mixed experience. Viewers seeking high-altitude thrills may find intermittent entertainment, but many will likely be disappointed by its shortcomings.",
     "weaknesses": "The film suffers from a predictable story that follows a basic formula, alongside less convincing special effects, really poor CG environments, and visually uninteresting elements. Some critics also point to poorly paced sequences, horrendous ADR, and characters making non-sensical decisions that ultimately lead to a bizarre ending."
+  },
+  "1112426": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 8.5,
+      "Direction": 7.5,
+      "Music & BGM": 7.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The film functions as a horror comedy that hits all the right notes with its humour and entertainment value. Reviewers note that the movie is hilarious in the sheets and fantastic in the first half, establishing its premise at a languorous pace while remaining entertaining as hell.",
+    "overall": 7.5,
+    "performances": "The cast features Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurana, Abhishek Banerjee, and Pankaj Tripathi in this highly anticipated Bollywood release. The performances bring the horror comedy genre to life, supported by a talented ensemble cast.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Following the events of Stree, the town of Chanderi is haunted once again as women are mysteriously abducted by a terrifying headless entity. It is up to Vicky and his friends to step up, save their town, and protect their loved ones. Directed by Amar Kaushik, the sequel expands on the lore of a universe haunted by spirits at war.",
+    "strengths": [
+      "hilarious comedy",
+      "strong first half",
+      "engaging premise",
+      "talented cast"
+    ],
+    "verdict": "Stree 2 is a headless wonder that delivers plenty of laughs and makes for an ambitious horror comedy experience. While the second half is a bit disappointing, the strong performances and entertaining humour make it worth a watch for fans of the franchise.",
+    "weaknesses": "Despite a fantastic start, the screenplay starts to feel disappointing in the second half. Reviewers note that while the first half establishes the premise at a languorous pace, the later portions do not quite maintain that initial momentum."
   },
   "1153576": {
     "categories": {
@@ -292,6 +338,29 @@ window.FA_REVIEWS = {
     "verdict": "Bad Apples is a dark comedy-drama that offers an unsettling and anxious viewing experience, bolstered by fantastic acting. While it struggles with tonal shifts and a weak ending, it remains a worthwhile watch for fans of dark satire. It is recommended to watch with no expectations.",
     "weaknesses": "Despite the strong performances and dark humour, the film suffers from serious issues with drastic tonal shifts. Reviewers note that it is a mess because it plays like a social realist drama for too much of its running time, and the ending ultimately falls flat."
   },
+  "1233413": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "While not primarily a comedy, the film blends multiple genres and a creative kaleidoscope of ideas to entertain audiences. Its high-concept premise and dramatic stakes leave viewers' heads spinning with its intense mix of feelings. The entertainment value stems largely from the atmospheric tension and the complex dynamic between the twin brothers.",
+    "overall": 7.5,
+    "performances": "Michael B. Jordan takes on a dual performance as the bootlegging brothers Smoke and Stack, attempting to be smoldering, imposing, and heroic. The cast also features strong turns from Hailee Steinfeld, Miles Caton, Jack O'Connell, and Wunmi Mosaku. Reviewers note that Jordan's dual role grounds the ambitious genre-hybrid tale.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Attempting to leave their troubled lives behind, twin brothers named Smoke and Stack return to their hometown to start again. Set in 1930s Mississippi during Jim Crow and Prohibition, they soon discover that an even greater evil is waiting to welcome them back. The narrative weaves together elements of horror, thriller, and the history of the blues.",
+    "strengths": [
+      "ambitious and audacious genre-bending scope",
+      "strong lead dual performance by Michael B. Jordan",
+      "rich exploration of familial grief and the history of blues music",
+      "atmospheric 1930s Mississippi setting"
+    ],
+    "verdict": "Sinners is a bold and creative genre hybrid directed by Ryan Coogler that links the past and present with music and blood. Despite a weaker second half that leaves some narrative threads dangling, its unique ambition and strong lead performances make it worth a watch for fans of dark, atmospheric thrillers.",
+    "weaknesses": "Some reviewers noted that the ambitious designs ultimately conform too heavily to genre conventions. Others pointed out that the storytelling structure has wrinkles that were not fully ironed out, resulting in a weak finish that lets go too soon after an amazing start."
+  },
   "1234139": {
     "categories": {
       "Action & Cinematography": 7.5,
@@ -315,6 +384,52 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Jailer 2 delivers a satisfying sequel that keeps most hands on deck for a rousing ride. Despite an uneven second half, strong performances and a solid emotional core make it worth the watch. Fans of the first film and Rajinikanth will find plenty to enjoy here.",
     "weaknesses": "The second half of the film tends to be a bit uneven with a complete action-orientation. The narrative can feel somewhat messy and contrived as it unpacks emotional baggage and follows its larger ambitions."
+  },
+  "1234821": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 7.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "Functioning primarily as a popcorn summer blockbuster and an adventurous thrill ride, the film delivers big action and entertainment value without relying heavily on traditional comedic moments. The narrative moves at a brisk pace with no wasted minutes, keeping audiences engaged through its high-stakes premise and perilous island survival scenarios.",
+    "overall": 6.5,
+    "performances": "The film features a top cast including Scarlett Johansson, Mahershala Ali, Jonathan Bailey, Rupert Friend, and Manuel Garcia-Rulfo. Reviewers note that the movie features good characters brought to life by this talented ensemble, contributing to the overall adventure.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett leads a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. Zora's operation intersects with a civilian family whose boating expedition was capsized, leaving them all stranded on an island. Here, they come face-to-face with a sinister, shocking discovery that has been hidden from the world for decades.",
+    "strengths": [
+      "beautiful imagery and cinematography",
+      "Alexandre Desplat's score featuring wisps of the iconic theme",
+      "thrilling dinosaur scenes",
+      "solid performances from the cast"
+    ],
+    "verdict": "Jurassic World Rebirth is a very okay, middling popcorn summer blockbuster that offers enough beautiful imagery, thrilling dinosaur scenes, and nostalgic touches to satisfy franchise fans. While it may not break significant new ground, it provides an entertaining ride for those looking for standard adventure fare.",
+    "weaknesses": "Despite its best efforts to pay homage to the original, the movie has been described by some as the reheated nachos of a franchise with nowhere to go. It ultimately falls into familiar territory, feeling like just another entry that follows a predictable playbook rather than a genuine extension of the cinematic universe."
+  },
+  "1245700": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 8.0,
+      "Music & BGM": 6.5,
+      "Performances": 8.5,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "As a dark crime thriller and a stark, disturbing drama, the film contains no traditional humour or lighthearted moments. Its entertainment value relies entirely on its gritty premise, the suspense of the police pursuit, and the grim exploration of a chilling real-life case.",
+    "overall": 7.5,
+    "performances": "The ensemble features an amazing cast including Vikrant Massey, Deepak Dobriyal, Akash Khurana, Darshan Jariwala, and Baharul Islam. Reviewers highlight Vikrant Massey's stellar performance in the role of the ruthless Prem Singh. The acting across the mostly male ensemble is praised as great.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Inspired by a shocking real-life case and infamous serial murders, Sector 36 tells the story of several children who disappear at the hands of a ruthless killer named Prem Singh. A corrupt cop is forced to pursue the chilling case at all costs, uncovering dark aspects of human nature. The Hindi crime thriller is a brutal, hard-to-stomach story that tackles horrific themes.",
+    "strengths": [
+      "Amazing cast performances",
+      "Great direction",
+      "Compelling real-life inspiration",
+      "Chilling portrayal of dark themes"
+    ],
+    "verdict": "Sector 36 is a disturbing, horrific, and brutal movie that delivers a stark and necessary story about dark themes. Backed by great direction and stellar performances from Vikrant Massey and the cast, it is recommended for mature audiences who can stomach its graphic violence. Viewer discretion is strongly advised.",
+    "weaknesses": "The film features extremely graphic violent scenes and a brutal narrative that makes it hard to watch for many viewers. Some viewers note that the dialogues are too simplistic and the editing can feel choppy at places. Additionally, it may not fully capture the raw horror of the real events and is definitely not suitable for children."
   },
   "1269325": {
     "categories": {
@@ -603,6 +718,29 @@ window.FA_REVIEWS = {
     "verdict": "Flies is a humbly poignant drama directed by Fernando Eimbcke that delivers a delicate character study. It earns praise for its grounded approach and echoes the sensibilities of classic children's auteurs. Recommended for viewers looking for a quiet, character-driven story about unexpected connections.",
     "weaknesses": "The film carries the risk of a familiar setup regarding reluctant roommates and unexpected friendships, which may feel predictable to some viewers. Because the narrative relies heavily on its intimate apartment dynamic, it has limited scope and may feel slight for those seeking broader cinematic conflict."
   },
+  "1440157": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 7.0,
+      "Music & BGM": 6.0,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "As a biographical drama centered on royal history and biographical events, the film does not focus on comedy or lighthearted humour. Its entertainment value relies instead on the dramatic unfolding of historical lives and relationships. Audiences looking for laughs will find none here, as the tone remains serious throughout.",
+    "overall": 6.5,
+    "performances": "The cast features Joan Collins as the Duchess of Windsor, alongside Isabella Rossellini, Laurent Lafitte, Miranda Richardson, and Charles Dance. The performances anchor the biographical drama, bringing notable screen presence to their respective historical roles. The ensemble works within the framework provided by director Mike Newell and screenwriter Louise Fennell.",
+    "source": "FlickAtlas Review",
+    "story_plot": "My Duchess is a British biographical drama film that documents the later years in the life of Wallis Simpson. The story tells of the final years of the woman who married King Edward VIII and broke up the monarchy. Directed by Mike Newell, the film explores this historical premise.",
+    "strengths": [
+      "Strong leading cast led by Joan Collins",
+      "Fascinating biographical subject matter",
+      "Directed by Mike Newell",
+      "Engaging royal history premise"
+    ],
+    "verdict": "My Duchess offers a solid biographical drama exploration of Wallis Simpson's later years, anchored by a recognizable cast including Joan Collins and Isabella Rossellini. While it may not break new ground beyond its historical premise, it is worth a watch for fans of royal history and British drama. Recommended for those interested in the aftermath of the monarchy's famous split.",
+    "weaknesses": "The biographical drama carries inherent risks of feeling familiar or predictable given how widely covered its historical figures are. Without any particular narrative twists beyond the established history, parts of the film may tread over well-worn ground. Viewers looking for high-octane excitement or unexpected elements might find the dramatic pace slow."
+  },
   "1451944": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -741,6 +879,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Haiku (2026) offers a heartfelt and emotionally resonant romantic drama about healing, forgiveness, and the complexities of second love. Driven by a capable cast including Aegan and Sridevi Apalla, it successfully navigates the heavy themes of past trauma and personal growth. Fans of emotional romantic dramas will find it worth a watch, provided they do not mind a familiar narrative structure.",
     "weaknesses": "The film relies on a somewhat familiar romantic drama setup involving past insecurities and toxic relationships that may feel predictable to some viewers. Additionally, the narrative hurdles surrounding long-distance struggles and hidden pasts could lead to pacing issues in the second half. Web feedback also points to mixed thematic interpretations, reflecting a compact plot that forces viewers to parse the salient features of the story."
+  },
+  "1596275": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "While not primarily a comedy, the film leans into the entertaining and dramatic dynamics of its high-stakes romance premise. The tension between the public deception and the private reality offers plenty of potential for lighthearted friction and romance tropes. The setup draws comparisons to popular formula-driven romance narratives, focusing heavily on the interpersonal dynamics between the lead characters. Its entertainment value relies primarily on the engaging backdrop of motor racing and the central relationship.",
+    "overall": 6.5,
+    "performances": "The cast features Lisa-Marie Koroll and Amin Baahmed as the mechanic and the driver bound by the fake engagement, alongside Gustav Schmidt, Mišel Matičević, and Lucie Heinze. Reviewers note that the performances are solid, anchoring the romantic setup effectively. The actors navigate the central dynamic between the ambitious mechanic and the scandalous racing star with commitment.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Drive - The Pretenders is a romance set in the world of motor racing, following a race car mechanic who fakes an engagement with a scandalous racing star. Officially, the arrangement is meant to protect the driver's reputation, but she secretly enters the scheme for her own chance behind the wheel. As they spend time together, what starts as a lie soon threatens to destroy everything as real feelings develop between them. The film is available on Prime Video and is directed by Sergej Moya.",
+    "strengths": [
+      "attractive visuals",
+      "solid performances",
+      "engaging motor racing setting",
+      "strong initial setup"
+    ],
+    "verdict": "Drive - The Pretenders delivers a straightforward and attractive motor racing romance with solid performances from its cast. While it carries some risks with underdeveloped characterisation, it remains an entertaining watch for fans of the genre. It comes recommended for a casual evening streaming on Prime Video if you enjoy high-stakes romance tropes set against a racing backdrop.",
+    "weaknesses": "Despite an attractive setup and solid acting, the film suffers from underdeveloped characterisation. The familiar romance tropes can occasionally feel predictable as the narrative progresses. Viewers looking for deep narrative complexity might find certain elements of the execution a bit thin."
   },
   "1606527": {
     "categories": {
@@ -1055,6 +1216,30 @@ window.FA_REVIEWS = {
     "verdict": "Dhood (Sandstorm) is an intriguing, atmospheric, and promising film that deserves to be watched for its story, performances, and haunting desert-world setting. It provides an entertaining experience anchored by strong acting and a unique backdrop. Recommended for viewers who appreciate intense family dramas.",
     "weaknesses": "While the film has many strengths, viewers should be mindful of potential pacing issues typical of intense family dramas set in isolated locations. The heavy psychological friction might feel overwhelming for audiences seeking lighter entertainment. Additionally, the dark domestic countdown leaves limited room for narrative relief."
   },
+  "687163": {
+    "categories": {
+      "Action & Cinematography": 7.5,
+      "Comedy & Entertainment": 8.5,
+      "Direction": 9.0,
+      "Music & BGM": 7.0,
+      "Performances": 9.5,
+      "Story & Screenplay": 9.5
+    },
+    "comedy": "Reviewers note that the storyline features funny and emotional moments that enhance the overall entertainment value. The sci-fi adventure maintains a well-paced narrative that relies on its engaging characters and relationship dynamics rather than forced gags. The witty undertones and lighthearted beats complement the heavier existential stakes of saving the universe.",
+    "overall": 9.0,
+    "performances": "Ryan Gosling delivers one of the best performances of his career as Dr. Ryland Grace, earning widespread praise for his grounded and compelling portrayal. The cast also features Sandra Hüller, James Ortiz, Lionel Boyce, and Milana Vayntrub supporting the narrative. Additionally, the character Rocky stands out as one of the most lovable creations put on screen in years.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Science teacher Ryland Grace wakes up on a spaceship light years away from home with no memory of who he is or how he got there. As his memory slowly returns, he realizes he must solve the mystery of a substance causing the sun to die out and save Earth from extinction. Along his space journey, he travels toward a distant star and encounters a surprising extraterrestrial being whose own world is under threat.",
+    "strengths": [
+      "Ryan Gosling's career-best performance",
+      "Engaging and lovable character Rocky",
+      "Brilliant space scenes and visuals",
+      "Focus on friendship and sacrifice",
+      "Well-paced narrative across its runtime"
+    ],
+    "verdict": "Project Hail Mary is a brilliant, emotional space adventure that succeeds as aspirational blockbuster cinema. With stellar lead performances and a heartfelt core about friendship and sacrifice, it easily ranks among the best science fiction adaptations in years. Highly recommended for fans of the genre and moviegoers looking for a memorable cinematic journey.",
+    "weaknesses": "A small number of critics offered more measured takes, noting that the film occasionally tries to balance too much. Nitpicks and minor quibbles also point out that it leans into a more unhurried and relaxed cinematic vacation style rather than a relentless sci-fi thriller."
+  },
   "791523": {
     "categories": {
       "Action & Cinematography": 8.5,
@@ -1123,6 +1308,30 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Titans (2026) is an ambitious fantasy and thriller directed by Prince Joy that showcases great production quality and a strong cast including Jayasurya and Vinayakan. While some aspects of the writing and execution feel inadequate, its unique blend of a heist and blurring reality makes it worth a look for fans of fantasy. Viewers looking for an unpredictable genre experiment may find it interesting despite its flaws.",
     "weaknesses": "Reviewers of similar projects point out that inadequate or weak writing can hinder an ambitious concept. The execution occasionally struggles to maintain its momentum as the reality-blurring journey unfolds. This can lead to a preachy tone at its core that might not resonate with every viewer."
+  },
+  "911430": {
+    "categories": {
+      "Action & Cinematography": 8.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.5,
+      "Music & BGM": 7.0,
+      "Performances": 7.5,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "While the film leans into familiar sports movie tropes and can feel a bit cheesy, it delivers a genuinely enjoyable and entertaining ride. The entertainment value comes from the intense races and the dynamic between the veteran lead and his younger teammate. It offers an engaging balance of high-octane racing and character-driven moments.",
+    "overall": 7.5,
+    "performances": "Brad Pitt stars as the savvy racing veteran Sonny Hayes, making sure the human element remains at the forefront behind the wheel. The cast also features Damson Idris, Javier Bardem, Kerry Condon, and Tobias Menzies. Reviewers note that while the supporting actor performances can lean towards cheesy, Pitt anchors the film with a strong screen presence.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team and mentor a young hotshot driver. While chasing one more chance at glory, Sonny navigates a strained relationship with the self-absorbed talent. The loud, muscular drama explores mentorship and stardom on the track.",
+    "strengths": [
+      "Visually stunning racing sequences",
+      "Impeccable technical direction",
+      "Strong performances by Brad Pitt",
+      "Engaging racing to drama ratio",
+      "Pulse-pounding track intensity"
+    ],
+    "verdict": "F1 may not be a historic pole position or revolutionise its genre, but it is a flawed yet genuinely enjoyable and thrilling ride. Director Joseph Kosinski delivers a visually striking motorsport movie that is well worth watching for its technical brilliance and intense racing. Recommended for fans of high-speed sports dramas.",
+    "weaknesses": "The film features a wafer-thin, predictable story that does not break new ground in the well-worn sports movie genre. Additionally, the message presented by the end of the movie may leave some viewers feeling a bit cold."
   },
   "969681": {
     "categories": {

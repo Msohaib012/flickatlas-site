@@ -14450,5 +14450,240 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 17:01:00 +0000"
+  },
+  "1sz4ky6": {
+    "id": "1sz4ky6",
+    "type": "news",
+    "headline": "Bano Episode 16 — Watch on Geo TV",
+    "dek": "Bano episode 16 aired on 2026-10-28 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 16 aired on 2026-10-28 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=EIaqw35nUZk"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Murtaza office mein kaam kar raha hai jab uski boss aakar usse pochtati hai ke woh yahan kyun hai aur kis ke kehne par aaya hai. Woh kehti hai ke agar woh sach bata dega toh usse naukri se nahi nikala jayega. Murtaza kehta hai ke woh ameer banna chahta hai kyunki is duniya mein sab kuch paisa hi hai, aur uske paas bohat saara paisa aana chahiye. Idhar ghar par, Mehrunnisa aur baki log Bano ke ghar aate hain jahan Bano ki tabiyat kharab hone ki wajah se Noor baji aur baki sab naraz hote hain aur unko wahan se chalne ko kehte hain. Bano aur uske chacha ka rishta achha chal raha hota hai aur woh dono waqt bitate hain. Ek din jab Bano phone par busy hoti hai, tab uske chacha usey kisi aur ke sath dekh lete hain jis par woh thora naraz hota hai, lekin baad mein sab theek ho jata hai aur woh dono baaten karte hain. Episode ke aakhir mein, Bano udas hoti hai aur akele baith kar sochti hai jabki chacha bhi pareshan hote hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 16 aired on 2026-10-28.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=EIaqw35nUZk",
+      "YouTube views: 346,769.",
+      "Episode summary added 2026-10-28."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/EIaqw35nUZk/hqdefault.jpg",
+        "caption": "Bano Episode 16",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-28T17:00:29Z"
+  },
+  "vugi16": {
+    "id": "vugi16",
+    "type": "news",
+    "headline": "Izzat Episode 39 — Watch on ARY Digital",
+    "dek": "Izzat episode 39 aired on 2026-10-28 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 39 aired on 2026-10-28 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=hbmOyvT7jvY"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein yeh dikhaya gaya ke Saima ki tabiyat kharab ho jati hai aur doctor kehte hain ke usko dengue ho sakta hai, isliye usko ghar mein hi aaram karne ko kaha jata hai. Rania aur baqi sab Saima ki dekhbhaal karte hain aur uski tabiyat par pareshan hote hain. Uske baad Saima ko hospital le jana parta hai kyunki uski halat aur zyada kharab ho jati hai aur bukhar nahi utarta. Hospital mein doctor uski mazeed test reports ke bare mein batate hain. Ghar wale Saima ko lekar pareshan hain aur uske liye dua karte hain. Episode ke end mein Saima ki halat par sabhi ghar wale mazeed pareshan dikhai dete hain aur sabhi uske paas jama hote hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 39 aired on 2026-10-28.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=hbmOyvT7jvY",
+      "YouTube views: 11,791.",
+      "Episode summary added 2026-10-28."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/hbmOyvT7jvY/hqdefault.jpg",
+        "caption": "Izzat Episode 39",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-28T15:00:34Z"
+  },
+  "1h0aif3": {
+    "id": "1h0aif3",
+    "type": "news",
+    "headline": "Khushi Episode 46 — Watch on HUM TV",
+    "dek": "Khushi episode 46 aired on 2026-10-28 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 46 aired on 2026-10-28 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=KFWag8aMzsQ"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Humna apni ma (Atia) ke ghar wapas aati hai aur uske peeche Aamar bhi aata hai. Atia ko gussa hai aur woh Humna ko akele kahin jane ya Sam ke ghar jaane se rokti hai. Humna aur Aamar jab car mein baithte hain, toh Aamar usse poochta hai ke woh kyun chup aur pareshan hai, par Humna baat taal deti hai.\n\nGhar lautne par Humna aur Aamar ki khushgawari par Atia ki narazgi barkarar rehti hai. Atia chahti hai ke yeh r रिश्ता khatam ho, lekin Chachu aur baqi ghar wale is riste ke haq mein hain, jabke Atia aur Ruksana ki purani dosti ki wajah se kuch pecheedgiyan hain.\n\nBaad mein, Aamar ki ma (Ruksana) aur baaki ghar walon ke darmiyan bahas hoti hai. Atia jab Ruksana aur uske khandan ke baare mein baat karti hai, toh woh nahi chahti ke Humna ki shadi Sam ke sath ho. Aamar aur Humna ki shadi ke liye koshishein jaari rehti hain, lekin atia aur doosre rishtedaron ki taraf se rukawatein aur taane aate hain. Episode ke aakhir mein Ruksana aur baqi family ke beech talkhi barhti hai aur riste par mazeed sawal uthte hain, aur episode ek tanaao bhare mahol par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 46 aired on 2026-10-28.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=KFWag8aMzsQ",
+      "YouTube views: 594,772.",
+      "Episode summary added 2026-10-28."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/KFWag8aMzsQ/hqdefault.jpg",
+        "caption": "Khushi Episode 46",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-28T15:00:10Z"
+  },
+  "wbw549": {
+    "id": "wbw549",
+    "type": "news",
+    "headline": "Uswah Episode 36 — Watch on Geo TV",
+    "dek": "Uswah episode 36 aired on 2026-10-28 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 36 aired on 2026-10-28 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=s5dWuK6FySU"
+        ]
+      },
+      {
+        "h": "About Uswah",
+        "p": [
+          "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah apni behan Anaya se phone par baat karti hai aur usay batati hai ke woh kitni pareshan thi kyunke uske phone ki battery khatam ho gayi thi aur miscalls aa gayi thin. Uswah jab Isa se milti hai to usse mafi mangti hai aur kehti hai ke usne gusse mein galat baatein sunadi thin kyunke woh Anaya ke ghar par hone ka soch rahi thi, magar Isa gussa hota hai aur kehti hai ke usne itna bada ilzaam kyun lagaya. Baad mein Uswah aik buzurgh (Ebrahim Uncle) se milti hai jo usay deen aur namaz ki ehmiyat samjhate hain, jiske baad woh dil se namaz ada karti hai aur usay sakoon milta hai. Dosri taraf, Uswah ki saas aur Ebrahim Uncle aaps mein baat karte hain ke kaise deen aur shariyat ki taleemat ko apnana chahiye. Episode ke aakhir mein Uswah ki saas aur family uski maa ki tabiyat aur baqi mamlaat par baat karte hain, aur episode yahin par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 36 aired on 2026-10-28.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=s5dWuK6FySU",
+      "YouTube views: 1,843,612.",
+      "TMDB: Uswah (id 336291).",
+      "Episode summary added 2026-10-28."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": [
+        "Omer Shahzad",
+        "Sania Shamshad",
+        "Haroon Shahid",
+        "Ammara Malik"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/s5dWuK6FySU/hqdefault.jpg",
+        "caption": "Uswah Episode 36",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-28T15:00:01Z"
+  },
+  "1hztyr0": {
+    "id": "1hztyr0",
+    "type": "news",
+    "headline": "Dastoor Episode 68 — Watch on Green TV",
+    "dek": "Dastoor episode 68 aired on 2026-10-28 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 68 aired on 2026-10-28 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=wZtx_kGnhXA"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Ali na ke chacha Salman aur unki bewi ka zikr hota hai, aur Salman Ali na ki tareef karte hain ke usne Aliyaar ka bohot sath diya hai. Idhar Ali na apni nani se milti hai, jahan nani khush hoti hai ke Ali na aur Aliyaar sath hain, lekin nani ye bhi kehti hain ke Ali na ne Ammara ka bohot bura kiya hai aur woh ab bhi khoya-khoya rehta hai. Iske baad, Sheza aakar Ammara ke khilaf gussa nikalti hai aur kehti hai ke usne Aliyaar se shadi sirf jaydad ke liye ki thi, jiski wajah se Mustafa aur baki ghar wale pareshan hojate hain.\n\nAliyaar phir se Ammara ko call karta hai, lekin Ammara ke phone uthane par woh use kehta hai ke woh ab usko mazeed call na kare kyunki woh uske liye mar chuka hai. Yeh sunkar Ammara bohot pareshan hoti hai aur rodeti hai. Nani Ali na ko samjhati hain ke use Ammara ke sath narazgi khatam karni chahiye, lekin Ali na apni zidd par qaim rehti hai ke Ammara ne unka sab kuch chheen liya hai.\n\nBad mein, nani Salman se milti hain aur Salman unhe batata hai ke Mustafa ne Aliyaar ki shadi Ali na se karne ka faisla kiya hai. Salman kehta hai ke ab unhe in mamlon mein zyada dakhal nahi dena chahiye. Episode ke end mein, nani Ammara ko samjhati hain ke agar usne koi ghalat tareeqay se cheezein haasil ki hain toh uska anjam bura hi hoga, aur Ammara ye sab sunkar khamosh rehti hai. Episode yahi khatam hojata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 68 aired on 2026-10-28.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=wZtx_kGnhXA",
+      "YouTube views: 271,183.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-10-28."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/wZtx_kGnhXA/hqdefault.jpg",
+        "caption": "Dastoor Episode 68",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-28T14:45:31Z"
   }
 };
