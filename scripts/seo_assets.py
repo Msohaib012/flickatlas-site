@@ -11,7 +11,8 @@ changes, so the hourly run does not force a spurious commit.
 Outputs:
   sitemap.xml      — one urlset: all listing pages + every movie/show
                      detail URL + every news article URL + every
-                     day-wise box-office URL + category URLs.
+                     day-wise box-office URL (one per film per day,
+                     no limit) + category URLs.
   robots.txt       — Allow / (except /api/), Sitemap: flickatlas.co.uk.
   js/seo-meta.json — compact per-URL meta map the Cloudflare Worker
                      reads to inject <title>/meta/OG/JSON-LD into the
@@ -29,6 +30,7 @@ Meta rules (owner: accurate titles, never page-name + site-name):
   - No invented titles, no keyword stuffing.
 """
 import json
+import math
 import os
 import re
 import sys
@@ -440,6 +442,38 @@ def xml_esc(s):
              .replace(">", "&gt;").replace('"', "&quot;"))
 
 
+def _day_num(row, idx):
+    """Mirror of js/ui.js UI.dayNumOf: first integer in the row's `day`
+    label ("Day 12" -> 12), else the row's position (1-based)."""
+    m = re.search(r"(\d+)", str((row or {}).get("day") or ""))
+    return int(m.group(1)) if m else idx + 1
+
+
+def _valid_day_rows(rows):
+    """The day rows the day-wise page itself renders, in page order
+    (mirror of js/page-boxoffice-day.js `valid` + dedup + sort): a
+    YYYY-MM-DD date and a finite collection >= 0, one entry per day
+    number, sorted by day number. Only these days have a real page."""
+    seen = set()
+    out = []
+    for i, r in enumerate(rows or []):
+        if not isinstance(r, dict):
+            continue
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", str(r.get("date") or "")):
+            continue
+        c = r.get("collection")
+        if (type(c) not in (int, float) or not math.isfinite(c)
+                or c < 0):
+            continue
+        n = _day_num(r, i)
+        if n in seen:
+            continue
+        seen.add(n)
+        out.append((n, r))
+    out.sort(key=lambda t: t[0])
+    return out
+
+
 def build_sitemap(lastmods):
     urls = []
     for path, freq, prio, src in STATIC_PAGES:
@@ -456,10 +490,18 @@ def build_sitemap(lastmods):
         lm = e.get("_pub") or lastmods["max"]
         urls.append(("%s/news-item?id=%s" % (BASE, slug), lm, "weekly", "0.7"))
     for tid in sorted(DAYWISE, key=lambda x: int(x)):
-        rows = DAYWISE[tid]
-        lm = (rows[-1].get("date") if rows else None) or lastmods["max"]
-        urls.append(("%s/box-office-day?title=%s" % (BASE, tid), lm,
-                     "daily", "0.8"))
+        # NO LIMIT (owner order 2026-10-28: 1-to-all, every post even
+        # the smallest): one URL per film per day, not one per film.
+        # Each day is a real page — the Worker injects a day-specific
+        # title (daywiseTitle) and the page renders that day's
+        # collection — so each day gets its own URL with that day's
+        # date as lastmod. The bare ?title= URL is NOT listed: it
+        # renders the same content as the latest day, so listing it
+        # next to the latest-day URL would be a duplicate.
+        for n, r in _valid_day_rows(DAYWISE[tid]):
+            lm = r.get("date") or lastmods["max"]
+            urls.append(("%s/box-office-day?title=%s&day=%d"
+                         % (BASE, tid, n), lm, "daily", "0.8"))
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for loc, lm, freq, prio in urls:
@@ -539,4 +581,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
