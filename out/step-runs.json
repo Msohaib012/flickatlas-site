@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T09:42:52Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": {
-     "candidates": 153,
-     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ali Abbas Zafar wraps up shooting for Ahaan Panday-Sharvari starrer Beparwah; says returning to YRF feels like “coming back home”",
-      "Happy Birthday Aditi Rao Hydari: Yeh Saali Zindagi to Heeramandi; 8 Unforgettable Performances Of The Diva",
-      "New OTT Releases This Week (October 26-November 1, 2026): Obsession, Baththa, Akka and More Movies and Series on Netflix, JioHotstar and ZEE5",
-      "Net, Gross, Share, Footfalls: How Indian Box Office Is Actually Counted",
-      "star trek actor walter koenig passes away at 90 in los angeles 86800.html",
-      "photos vijay deverakonda shares snippets of his memorable weekend in abu dhabi 86802.html",
-      "'The man who almost killed Bachchan': Puneet didn't get work for 6 yrs after Coolie accident",
-      "Janhvi reveals Shikhar Pahariya left studies in London to support her after Sridevi's death",
-      "Rahul Vijay and Archana Iyer’s ‘AH’ postponed to November 12",
-      "Thalapathy Vijay's son Jason Sanjay's 'Sigma' OTT release date OUT",
-      "Shah Rukh's 'King' poster sparks online debate, netizens draw parallels with 'Dhurandhar 2'",
-      "CID, Aahat creator BP Singh dies at 75 | Dayanand Shetty aka Daya remembers the veteran, ‘He had not been well…’",
-      "Esha Deol names father Dharmendra as her idea of a perfect husband , talks about family's support during ups and downs of life",
-      "Varun Dhawan and Kriti Sanon lend their voices to Curry Barker's $522 million blockbuster Obsession's Hindi version on JioHotstar",
-      "Vidyut Jammwal reacts as his Tiger Shroff remark becomes AI meme ft. Barcelona coach",
-      "Eventually, I would want somebody with me: Isha Malviya on finding love again",
-      "Udta Teer Box Office Day 4: Ayushmann Khurrana-Led Spy Comedy Passes The Monday Test With Flying Colors; Grosses Rs 3.85 Cr",
-      "diljit dosanjh in agra visited taj mahal before aura india tour delhi concert tmovj dskc 2681293 2026 10 27",
-      "shanaya kapoor web series student of the year after dark trailer review karan johar tmovj dskc 2681334 2026 10 27",
-      "nicki minaz cardi b catfight trump comment us white house secretary rttm dskc 2681290 2026 10 27"
-     ],
-     "updated": [],
-     "count": 93,
-     "detail": "95 stories, 0 duplicates removed, 58 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T10:45:48Z",
     "run_id": "40490740775",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "173 stories, 6 duplicates removed, 76 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:17:54Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 93,
+     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Ramayana producer Namit Malhotra calls Los Angeles premiere his “Oscar moment” ahead of November 5 release",
+      "Filmibeat TripTales EXCLUSIVE! Malaika Arora Shares Why Abu Dhabi Should On Your Travel List This Diwali",
+      "Scene Censor Report: Suriya, Nazriya Nazim And Naslen Film Gets U/A Certificate, Runtime Revealed",
+      "King: Shah Rukh Khan's New Poster Leaves Fans In Awe Of His Fierce Avatar, Say ‘Biggest Tsunami Loading..’",
+      "Lupin Part 4 Ending Explained: Who Is The Copycat, And Does Assane Die?",
+      "'Drishyam 3 The Conclusion' BO Day 27 [LIVE]: Chases Rs 375 crore India net mark",
+      "Ramayana first reactions: Viewers compare Ranbir Kapoor-Yash's film to Lord of the Rings, music receives mixed response",
+      "Robert Downey Jr and Chris Evans have a Diwali surprise for Indian Marvel fans as Avengers: Doomsday gets early release",
+      "Sai Pallavi shares update on Ramayana Part 2 shooting at LA world premiere. Watch",
+      "Ramayana early reviews: Ranbir's Lord Rama called pure, Yash's Ravana a standout",
+      "cricketer virender sehwag shouts at priyanka chahar choudhary swara bhaskar shehzad poonawalla tehseen poonawalla video tmovb dskc 2682227 2026 10 28",
+      "yeh jawaani hai deewani to animal 7 ranbir kapoor characters fans still remember photo gallery 156420369",
+      "ABC’s News10 Reporter Leaving After 4 Months, Reveals Reason",
+      "Jennifer Lawrence’s ‘Sexy Mom’ Goal Comes With a Boob Job",
+      "53-Episode Netflix Thriller Series Is A Different Kind Of Political Drama",
+      "#Rutba Upcoming EP 8 | #HibaBukhari | #TalhaChahour | #ZahidAhmed | #MehwishHayat | #shorts",
+      "Best Scene | Rutba | Mehwish Hayat | Talha Chahour | ARY Digital",
+      "'Conscience does not permit': LHC's Justice Kayani resigns, cites executive's growing control over judiciary",
+      "9 Indian-sponsored terrorists killed in Balochistan IBOs: ISPR",
+      "Main Khandani Larki Hoon 😡 #shorts #hibaaziz #danialafzalkhan #areejmohyudin #dastoor #greentv"
+     ],
+     "updated": [],
+     "count": 34,
+     "detail": "34 stories, 0 duplicates removed, 59 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T09:42:54Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1387,27 +1369,30 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:18:05Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
+      "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T09:42:54Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 4, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1821,35 +1806,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T08:18:05Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T09:43:02Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": {
-     "candidates": 20,
-     "detail": "Tavily week search results"
-    },
-    "changed": {
-     "added": [
-      "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
-      "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
-      "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
-      "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
-      "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
-      "Barry Keoghan Opens Up About Undergoing Cosmetic Skin-Tightening Treatments",
-      "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
-      "Jailer 2"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2095,27 +2072,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T12:57:00Z",
-    "run_id": "40506965660",
-    "status": "success",
-    "checked": {
-     "candidates": 138,
-     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 127 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2529,28 +2498,27 @@
      "detail": "+0 new rows, 11 updated rows, 197 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T08:29:16Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 84,
+     "detail": "+0 new rows, 84 updated rows, 124 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T09:47:48Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "released movies without a review; Tavily searches: 2"
-    },
-    "changed": {
-     "added": [
-      "Hotel Utopia (1791529)"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2810,27 +2778,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T12:57:02Z",
-    "run_id": "40506965660",
-    "status": "success",
-    "checked": {
-     "candidates": 87,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 87 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3265,19 +3225,30 @@
      "detail": "api-news.json 80 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:29:18Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
+      "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 82 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3576,19 +3547,19 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3889,19 +3860,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4250,19 +4221,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:18:05Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 34 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 0/5, upcoming_releases 4/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
+      "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4492,19 +4473,31 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T08:19:48Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": {
+     "candidates": 18,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 36"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Nayyi Navelli (1654581)",
+      "Ranabaali (1389379)",
+      "Udta Teer (1375156)"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4789,24 +4782,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 185,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5121,19 +5114,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5383,19 +5381,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5630,19 +5628,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T09:47:58Z",
-    "run_id": "40482720997",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5872,6 +5870,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -6014,6 +6022,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6136,8 +6154,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T08:29:27Z",
+    "run_id": "40655569818",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ]
  },
- "updated_at": "2026-10-28T07:57:53Z"
+ "updated_at": "2026-10-28T08:29:27Z"
 }

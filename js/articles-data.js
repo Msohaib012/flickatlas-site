@@ -11884,5 +11884,190 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 07:46:36 +0000"
+  },
+  "1wys4gi": {
+    "id": "1wys4gi",
+    "type": "news",
+    "headline": "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
+    "dek": "Marvel Cinematic Universe stars Robert Downey Jr. and Chris Evans sent festive greetings to Indian fans while announcing that Avengers: Doomsday will premiere in India a day ahead of its United States release.",
+    "body": [
+      {
+        "h": "Festive Greetings From MCU Stars",
+        "p": [
+          "Marvel Studios delighted Indian followers with a special festive message from prominent franchise figures Robert Downey Jr. and Chris Evans. Released in celebration of Diwali, the video featured the two actors greeting the nation with a traditional \"Namaste India!\"",
+          "The actors used the holiday message to draw a parallel between the festive transition from darkness to light and the dramatic shifts unfolding within the expansive superhero continuity."
+        ]
+      },
+      {
+        "h": "An Early Premiere for Indian Audiences",
+        "p": [
+          "Alongside their festive wishes, the duo revealed that the upcoming tentpole film Avengers: Doomsday will arrive in Indian cinemas on December 17. This scheduling places the local release one full day ahead of the official United States premiere.",
+          "To maximize accessibility across the region, studio plans indicate that the blockbuster will launch in English, Hindi, Tamil, and Telugu."
+        ]
+      },
+      {
+        "h": "Cast Reunions and New Dynamics",
+        "p": [
+          "The upcoming project brings together a massive ensemble combining long-standing franchise veterans with fresh faces making their series debuts. Familiar players such as Chris Hemsworth, Anthony Mackie, Tom Hiddleston, Sebastian Stan, Letitia Wright, and Paul Rudd are set to return alongside Evans.",
+          "At the same time, the narrative will introduce newcomers to the team dynamic, including Simu Liu, Florence Pugh, David Harbour, Lewis Pullman, and several others."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Production Team",
+        "p": [
+          "Directorial duties for the massive crossover event are handled by the filmmaking duo Anthony and Joe Russo. The screenplay has been penned by longtime franchise contributor Stephen McFeely.",
+          "On the production side, the feature is spearheaded by Kevin Feige alongside Louis D’Esposito and Jonathan Schwartz, working to bridge legacy characters with a new wave of protectors."
+        ]
+      },
+      {
+        "h": "Robert Downey Jr.’s Shift to Doctor Doom",
+        "p": [
+          "The project marks a major structural shift for Robert Downey Jr., who returns to the overarching narrative not as a hero, but as the antagonist Doctor Doom. The actor previously discussed the unique experience of wearing the character's mask and hood.",
+          "Reflecting on the change, he noted the unusual sensation of watching his former heroic colleagues gather on the opposite side of the camera while observing elements of the cinematic universe he had previously missed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Downey Jr. and Chris Evans delivered a Diwali video greeting to Indian fans and announced that Avengers: Doomsday will premiere in India on December 17, a day prior to its US debut. The multilingual release is directed by Anthony and Joe Russo and features an ensemble cast blending returning veterans with franchise newcomers."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases in India on December 17, 2026.",
+      "The US release of Avengers: Doomsday is on December 18, 2026.",
+      "The film will be released in English, Hindi, Tamil, and Telugu.",
+      "Directors of the film are Anthony and Joe Russo.",
+      "Producers include Kevin Feige, Louis D’Esposito, and Jonathan Schwartz.",
+      "The screenwriter for the film is Stephen McFeely."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Hayley Atwell",
+        "Anthony Russo",
+        "Joe Russo",
+        "Kevin Feige",
+        "Louis D’Esposito",
+        "Jonathan Schwartz",
+        "Stephen McFeely",
+        "Chris Hemsworth",
+        "Anthony Mackie",
+        "Winston Duke",
+        "Tom Hiddleston",
+        "Sebastian Stan",
+        "Letitia Wright",
+        "Paul Rudd",
+        "Wyatt Russell",
+        "Simu Liu",
+        "Tenoch Huerta Mejia",
+        "Mabel Cadena",
+        "Florence Pugh",
+        "Danny Ramirez",
+        "David Harbour",
+        "Hannah John-Kamen",
+        "Lewis Pullman",
+        "India Rose Hemsworth",
+        "Wesley Holloway",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Avengers: Doomsday"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/28/1600x900/logo/IMG_5912_1793170961598_Tjxm_1793170977710_t5wh_8e709220-6509-4951-a159-f06e635f4f26_ZjLJ.jpeg",
+        "caption": "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 12:57:54 +0530"
+  },
+  "w12eml": {
+    "id": "w12eml",
+    "type": "news",
+    "headline": "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere",
+    "dek": "Early reactions from the Los Angeles premiere of Ramayana: The Rise of a Legend highlight standout performances from Ranbir Kapoor and Yash, alongside praise for the film's visual effects and music.",
+    "body": [
+      {
+        "h": "Los Angeles Premiere Generates Early Buzz",
+        "p": [
+          "Ramayana: The Rise of a Legend drew enthusiastic early reviews following its special screening at the David Geffen Theatre at the Academy Museum of Motion Pictures in Los Angeles. Viewers shared their initial thoughts on Letterboxd, with many awarding the mythological epic top ratings.",
+          "The early responses focus on the emotional scope, soundtrack, and visual effects of the feature, offering the first glimpse into how international and domestic audiences are receiving the ambitious project."
+        ]
+      },
+      {
+        "h": "Performances of the Lead Cast",
+        "p": [
+          "The central performances received substantial attention from early screening attendees. Ranbir Kapoor's portrayal of Lord Rama was commended for its absolute purity and the subtle way the character expresses emotion, while Yash's performance as Ravana emerged as a major standout, with some viewers describing certain moments as disturbingly intense.",
+          "Sai Pallavi rounds out the principal cast as Goddess Sita. The lead actors also walked the red carpet together in Los Angeles prior to the screening, joined by producer and creator team members."
+        ]
+      },
+      {
+        "h": "Music and Emotional Impact",
+        "p": [
+          "Reviewers frequently noted the emotional resonance of the narrative, with one attendee who had never previously watched an Indian film stating that they were moved to tears by the conclusion. The soundtrack was described by viewers as divine and capable of grounding the mythological subject matter.",
+          "Audience members also highlighted the film's climax, noting that it generated excitement and a strong desire to revisit the film in theatres alongside family."
+        ]
+      },
+      {
+        "h": "Visual Effects and Technical Execution",
+        "p": [
+          "Visual effects formed another major talking point in the early reactions. Reviewers specifically pointed to the work done by DNEG, suggesting that their visual effects standards rival or exceed those of major international studios.",
+          "The overall cinematic experience was praised for staying true to the core narrative and intent of the source material while delivering world-class production values."
+        ]
+      },
+      {
+        "h": "Red Carpet Appearances",
+        "p": [
+          "The global premiere brought the principal cast together for a prominent red carpet appearance. Ranbir Kapoor arrived in a shimmery silver bandhgala to greet fans, while Yash attended alongside his wife Radhika Pandit, wearing an all-black ensemble complemented by an ornate Ravana brooch.",
+          "Sai Pallavi chose a traditional red zardozi saree with intricate embroidery and minimal makeup for the international screening event."
+        ]
+      },
+      {
+        "h": "Release Details and Production Team",
+        "p": [
+          "Ramayana: The Rise of a Legend is directed by Nitesh Tiwari. The production is a collaborative effort involving Namit Malhotra’s Prime Focus Studios, DNEG, and Yash’s Monster Mind Creations.",
+          "The film is scheduled for its official release in India on November 5, with further audience reviews expected to follow as the theatrical premiere approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: The Rise of a Legend held its premiere in Los Angeles at the Academy Museum of Motion Pictures, generating positive early reviews that praised Ranbir Kapoor, Yash, and the film's visual effects. Directed by Nitesh Tiwari, the mythological epic is set to release in India on November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: The Rise of a Legend had its premiere in Los Angeles at the David Geffen Theatre at the Academy Museum of Motion Pictures.",
+      "The film stars Ranbir Kapoor as Lord Rama, Yash as Ravana, and Sai Pallavi as Goddess Sita.",
+      "Ramayana: The Rise of a Legend is directed by Nitesh Tiwari.",
+      "The film is scheduled to release in India on November 5.",
+      "The film is produced by Namit Malhotra’s Prime Focus Studios in collaboration with DNEG and Yash’s Monster Mind Creations."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Radhika Pandit",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: The Rise of a Legend"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/ramayana-28270844-16x9_0.jpg?VersionId=BQrzysnZ9g9djuuaiwOlloEzyurw39vI",
+        "caption": "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 13:06:23 +0530"
   }
 };
