@@ -2,6 +2,32 @@
 window.FA_OTT = {
   "coming": [
     {
+      "country": "US",
+      "date": "2026-10-28",
+      "date_kind": "digital",
+      "id": 1596275,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-28",
+      "date_kind": "digital",
+      "id": 1727734,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "IN",
       "date": "2026-10-29",
       "date_kind": "digital",
@@ -92,22 +118,6 @@ window.FA_OTT = {
     }
   ],
   "now": [
-    {
-      "date": "2026-10-28",
-      "date_kind": "release",
-      "id": 1596275,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
-        }
-      ],
-      "type": "movie"
-    },
     {
       "date": "2026-10-23",
       "date_kind": "release",

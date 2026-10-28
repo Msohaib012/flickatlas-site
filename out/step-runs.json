@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T20:13:17Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": {
-     "candidates": 168,
-     "detail": "RSS/Atom items across 139 sources; 15 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Russell Brand says all sexual encounters were consensual; cleared of 1 count",
-      "HBO’s ‘Mare of Easttown’ Replacement Will Have a “Completely Different” Cast for Season 2",
-      "The 8 Best Pikachu Replacement Pokémon",
-      "15 Best Stand-Up Comedy Specials on Netflix Right Now",
-      "Kim Kardashian Recalls Kris Jenner & Caitlyn’s Furious Showdown After a Shocking Verdict",
-      "GTA 6 Fan Can Get Paid Nearly $900 to Play the Game, But There’s a Catch",
-      "Marshals Season 2 Casting Update Gives SEAL Team Fans The Reunion They’ve Been Waiting For",
-      "Kevin Jonas Reveals Embarrassing NSFW Photo Mishap: ‘I’m Such a Moron’",
-      "Popular Fox TV Show With Johnny Knoxville Gets Unexpected Spin-off",
-      "Jessica Biel & Justin Timberlake Have a Surprising Rule for Their Son’s Acting Career",
-      "Horror Star Danielle Harris Revisits Her Iconic Halloween Role in New Movie, Watch Trailer",
-      "What's Coming to Netflix in November 2026? Everything Arriving Next Month",
-      "HBO's 'Harry Potter' Series Officially Sets up a Key Battle of Hogwarts Moment the Movies Left Out",
-      "63 Years Later, HBO Is Officially Remaking Alfred Hitcock's Classic Thriller",
-      "'Dancing With the Stars' Judge Urges Rule Change for Lifts After Pro's Suspension",
-      "The Gilded Age Season 4 Debuts To New Series-Record Rotten Tomatoes Score",
-      "Young Sheldon Character Officially Returning To TBBT Universe 5 Years Later",
-      "Every Upcoming Live-Action Disney Remake In Development",
-      "Billy Bob Thornton's New Landman Season 3 Role Sets Up A Yellowstone Crossover",
-      "‘Crystal Lake’ Hits 1.3 Billion Minutes Watched in 11 Days, Becoming Peacock’s No. 4 Scripted Debut Ever"
-     ],
-     "updated": [],
-     "count": 85,
-     "detail": "87 stories, 0 duplicates removed, 81 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T21:34:14Z",
     "run_id": "40587623714",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "191 stories, 1 duplicates removed, 69 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T16:52:23Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": {
+     "candidates": 298,
+     "detail": "RSS/Atom items across 137 sources; 20 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Overseas Advance Booking: Ranbir’s Film Crosses $2.5Million After Strong Reviews Post LA Premiere",
+      "Chiranjeevi-Srikanth Odela Film Reportedly Shelved Amid Questions Over The Paradise's Box Office Performance",
+      "jumanji open world trailer teases a new adventure as the game enters the real world 86847.html",
+      "Janhvi admits 'Peddi' was 'extreme objectification': 'It was a violating experience'",
+      "Radhika recalls being told to wear revealing clothes for an action scene: 'Even if there's nudity..'",
+      "Varun Dhawan says Ranbir Kapoor is so good as a father to Raha that he feels ashamed for himself in comparison with how he fights with Lara",
+      "Peddi propagated sexual assault, extreme objectification: Janhvi admits film's flaws",
+      "74 year old zeenat aman reacts on bold image said off camera women is different tmovf dskc 2682702 2026 10 28",
+      "delhi aqi 229 vivek vihar air pollution imd prediction weather forecast details mmtm 2682703 2026 10 28",
+      "varun dhawan regrets flexing about his success compared to ranveer singh ranbir kapoor on koffee with karan it jinxed me article 156423670",
+      "the hunger games jennifer lawrence calls her return as katniss everdeen and reunion with co stars unbelievable article 156423667",
+      "It Was Jennifer Aniston Who Reached Out First At Matthew Perry’s Funeral (But The Entire Friends Cast Showed)",
+      "Wheel Of Fortune's Latest Episode Featured So Many Contestant Fails My Jaw Was On The Floor",
+      "The 6 Most Amazing Books of the 2010s, Ranked",
+      "‘Scrubs’ Stars Officially Reunite in Sneak Peek From New Sinister Christmas Horror Movie",
+      "60 Years Later, Star Trek Officially Brings Back an Iconic Character for a New Release",
+      "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie | Exclusive",
+      "Spider-Man Fans Think One of Marvel’s Most Controversial Stories Ever Was Just Retconned",
+      "Glenn Close Movie That Was a Major Awards Contender Is Now Streaming for Free",
+      "Don’t Miss: All 6 Seasons of Hit Medical Show To Be Removed From Netflix Soon"
+     ],
+     "updated": [],
+     "count": 203,
+     "detail": "216 stories, 1 duplicates removed, 82 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T20:13:18Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1420,27 +1402,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T16:53:48Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand",
+      "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T20:13:18Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": {
-     "candidates": 11,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1854,19 +1839,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T16:53:48Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": {
+     "candidates": 32,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 23, coming 9"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2096,27 +2089,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T21:41:13Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": {
-     "candidates": 196,
-     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 192 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2530,19 +2515,27 @@
      "detail": "+0 new rows, 12 updated rows, 196 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T16:58:51Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 10,
+     "detail": "+0 new rows, 10 updated rows, 198 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2772,27 +2765,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T20:31:39Z",
-    "run_id": "40576069758",
-    "status": "success",
-    "checked": {
-     "candidates": 86,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 86 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3260,19 +3245,30 @@
      "detail": "api-news.json 80 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T16:58:53Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie",
+      "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 82 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3558,19 +3554,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3800,26 +3796,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T20:13:18Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 40/40 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4264,19 +4253,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T16:53:48Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 203 still unprocessed; today by category: movies 8/6, tv_dramas 4/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 3/4, trailers 3/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand",
+      "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4530,19 +4529,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4872,19 +4871,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 231,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5194,19 +5198,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5451,19 +5455,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5698,19 +5702,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5940,19 +5944,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-27T20:21:34Z",
-    "run_id": "40575816743",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6178,6 +6182,16 @@
     "category": "OTT",
     "run_at": "2026-10-28T15:59:00Z",
     "run_id": "40720026277",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6414,6 +6428,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
@@ -6446,8 +6470,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-28T16:59:00Z",
+    "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T15:59:00Z"
+ "updated_at": "2026-10-28T16:59:00Z"
 }

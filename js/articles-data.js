@@ -8107,7 +8107,13 @@ window.FA_ARTICLES = {
         "XLOV"
       ]
     },
-    "images": [{"url": "https://www.allkpop.com/upload/2026/10/content/270028/1793075324-xlov-i-concept-header.jpg", "caption": "XLOV's Hyun Sidelined From Upcoming Showcase Following Practice Leg Injury", "source": "allkpop"}],
+    "images": [
+      {
+        "url": "https://www.allkpop.com/upload/2026/10/content/270028/1793075324-xlov-i-concept-header.jpg",
+        "caption": "XLOV's Hyun Sidelined From Upcoming Showcase Following Practice Leg Injury",
+        "source": "allkpop"
+      }
+    ],
     "published": "Tue, 27 Oct 2026 04:20:00 EDT"
   },
   "121iziu": {
@@ -8923,7 +8929,13 @@ window.FA_ARTICLES = {
         "Reasonable Doubt"
       ]
     },
-    "images": [{"url": "https://metro.co.uk/wp-content/uploads/2026/10/SEC_318363748-5b21_1793093070.jpg?quality=90&amp;strip=all&amp;w=1200&amp;h=630&amp;crop=1", "caption": "Jay-Z Officially Confirmed to Headline the 2027 Super Bowl Halftime Show", "source": "Metro"}],
+    "images": [
+      {
+        "url": "https://metro.co.uk/wp-content/uploads/2026/10/SEC_318363748-5b21_1793093070.jpg?quality=90&amp;strip=all&amp;w=1200&amp;h=630&amp;crop=1",
+        "caption": "Jay-Z Officially Confirmed to Headline the 2027 Super Bowl Halftime Show",
+        "source": "Metro"
+      }
+    ],
     "published": "2026-10-27T07:17:54Z"
   },
   "1qpxchr": {
@@ -14016,6 +14028,222 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 15:19:51 GMT"
+  },
+  "xk9w6b": {
+    "id": "xk9w6b",
+    "type": "news",
+    "headline": "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand",
+    "dek": "Production has officially concluded on the third installment of Netflix's hit action franchise, paving the way for a major year for the series in 2027.",
+    "body": [
+      {
+        "h": "Production Concludes in Thailand",
+        "p": [
+          "Principal photography for the highly anticipated action sequel Extraction 3 has officially wrapped following a demanding production schedule in Thailand. Star Chris Hemsworth marked the milestone by sharing off-duty moments spent diving, fishing, and temple-hopping alongside his sons between active shooting days.",
+          "The concluding leg of the shoot in Thailand followed months of intensive production work that kicked off earlier in the year. The completion of filming signals a major milestone for the upcoming Netflix project, which has been in development since its initial confirmation."
+        ]
+      },
+      {
+        "h": "From Sydney Backdrops to Thai Locations",
+        "p": [
+          "Before moving operations to Southeast Asia, the core of the production took place across Sydney and the New South Wales South Coast. This initial phase utilized local production backing to create hundreds of jobs and featured high-octane set pieces involving principal cast members.",
+          "The production later shifted to specific international locations, including Ratchaburi in Thailand. Interestingly, this region had previously served as a stand-in location for Dhaka during the production of the very first film in the franchise."
+        ]
+      },
+      {
+        "h": "Star-Studded Returning and New Cast",
+        "p": [
+          "Chris Hemsworth reprises his signature role as the battle-hardened mercenary Tyler Rake. He is joined once again by Golshifteh Farahani as Nik Khan and Idris Elba returning as the mysterious operative Alcott.",
+          "The expanded ensemble also introduces notable additions to the franchise. Pierce Brosnan joins the cast in an undisclosed role, alongside international action stars such as Don Lee, Joe Taslim, Chi Lewis-Parry, and Siena Agudong."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Graphic Novel Roots",
+        "p": [
+          "Director Sam Hargrave returns to helm the action franchise for a third time, bringing his signature style back to the screen. The screenplay for the third outing is penned by David Weil, taking over writing responsibilities from Joe Russo.",
+          "Despite the creative shifts in the writer's room, the Russo brothers remain closely attached as producers through their banner AGBO. The cinematic universe continues to draw inspiration from the original graphic novel Ciudad."
+        ]
+      },
+      {
+        "h": "A Massive Year for the Franchise in 2027",
+        "p": [
+          "Netflix has not yet announced an official release date for the third movie, but industry watchers anticipate a debut in the latter half of 2027. Past patterns suggest a careful post-production window to ensure the action sequences meet franchise standards.",
+          "The upcoming film is part of a much larger expansion for the intellectual property on the streaming platform. Alongside the main sequel, two additional projects set in the same universe have also completed filming phases."
+        ]
+      },
+      {
+        "h": "Expanding the Mercenary Universe",
+        "p": [
+          "The broader franchise expansion includes Mercenary, an eight-episode television series centering on a protagonist navigating dangerous factions in Libya. That series wrapped production after shooting across multiple international locations.",
+          "Additionally, a Korean spin-off titled Tygo focuses on a former child soldier turned mercenary. Starring Don Lee, the movie connects directly back to the main film narrative through overlapping character arcs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Hemsworth has officially finished filming Extraction 3 in Thailand, marking the end of a production window that began in Australia. The upcoming Netflix sequel features a returning cast alongside new additions and sets the stage for a massive franchise expansion throughout 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Chris Hemsworth wrapped filming on Extraction 3 in Thailand on October 28th, 2026.",
+      "Extraction 3 was first confirmed at TUDUM in June 2023.",
+      "Filming for Extraction 3 began in Sydney and the NSW South Coast in July 2026.",
+      "The production budget is estimated in the $50 million to $100 million range.",
+      "Samargrave returns as director, with a script by David Weil.",
+      "Three Extraction titles are expected to land on Netflix across 2027."
+    ],
+    "entities": {
+      "people": [
+        "Chris Hemsworth",
+        "Idris Elba",
+        "Golshifteh Farahani",
+        "Pierce Brosnan",
+        "Don Lee",
+        "Joe Taslim",
+        "Chi Lewis-Parry",
+        "Siena Agudong",
+        "Sam Hargrave",
+        "David Weil",
+        "Joe Russo",
+        "Ande Parks",
+        "Fernando León González",
+        "Eric Skillman"
+      ],
+      "titles": [
+        "Extraction 3",
+        "Extraction 2",
+        "Extraction",
+        "Avengers: Doomsday",
+        "Ciudad",
+        "Citadel",
+        "Hunters",
+        "MobLand",
+        "The Raid",
+        "Mortal Kombat",
+        "28 Years Later",
+        "Carrie",
+        "Mercenary",
+        "The Walking Dead",
+        "Tygo",
+        "Squid Game",
+        "The Roundup"
+      ]
+    },
+    "keywords": [
+      "Extraction 3",
+      "Chris Hemsworth Extraction 3",
+      "Extraction 3 Netflix release",
+      "Extraction franchise 2027"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/extraction-3-wraps-filming.jpg",
+        "caption": "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 16:38:36 +0000"
+  },
+  "k4xyk0": {
+    "id": "k4xyk0",
+    "type": "news",
+    "headline": "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie",
+    "dek": "The Asylum has released an exclusive trailer for its upcoming horror adaptation of Charles Dickens' classic 1843 novella, starring Dominic Keating as the cruel businessman.",
+    "body": [
+      {
+        "h": "First Look at The Asylum's New Horror Project",
+        "p": [
+          "A fresh cinematic take on a classic holiday tale is on the horizon, courtesy of production company The Asylum. An exclusive trailer has debuted for Ebenezer Scrooge: A Christmas Carol Horror, providing audiences with their first glimpse at a terrifying interpretation of Charles Dickens' renowned 1843 novella.",
+          "This upcoming project arrives ahead of a separate adaptation centering on the same literary figure starring Johnny Depp. The newly released preview offers fans an early look at the distinct creative choices made for this fright-filled reimagining."
+        ]
+      },
+      {
+        "h": "Plot and Official Synopsis",
+        "p": [
+          "The newly revealed official synopsis sets a grim tone for the narrative, detailing the plight of the central character. When the cruel businessman Ebenezer Scrooge is visited by uninvited ghosts on Christmas Eve, he faces a stark choice.",
+          "The ruthless protagonist must decide whether to heed the spectral warnings and change his ways for the better, or stubbornly remain cold-hearted and merciless as his haunting begins."
+        ]
+      },
+      {
+        "h": "Trailer Breakdown and Key Scenes",
+        "p": [
+          "The trailer immediately establishes the protagonist's deep disdain for the holiday season. Dominic Keating stars as Ebenezer Scrooge, declaring early in the footage that there is no feast to be found in the past, present, or future.",
+          "As the preview continues, supernatural forces quickly close in on the terrified businessman. The haunting figures demand that he heed their warnings and announce that his reckoning has arrived, leading to frantic pleas and a final jump scare."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Behind the camera, the horror film is directed by filmmaker Marcel Walz. The screenplay for the chilling adaptation was penned by writer Joshua Pruett.",
+          "Alongside lead actor Dominic Keating, the supporting cast features performances from Bryan Barron and Matthew Gademske, rounding out the ensemble for the feature."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Fans eager to witness this frightening cinematic interpretation will not have to wait long. The Asylum has scheduled Ebenezer Scrooge: A Christmas Carol Horror for a digital release.",
+          "The horror film will officially become available to watch on October 30, 2026, just ahead of the holiday season."
+        ]
+      },
+      {
+        "h": "Context Within Holiday Adaptations",
+        "p": [
+          "The release of this frightening adaptation coincides with broader public interest in various depictions of the iconic Charles Dickens character. The project stands out for bringing a uniquely gruesome approach to a story traditionally associated with warmth and redemption.",
+          "By subverting the source material into the horror genre, the filmmakers provide a starkly different viewing option compared to other holiday-themed projects currently circulating in pop culture."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Asylum has exclusively debuted a trailer for Ebenezer Scrooge: A Christmas Carol Horror, directed by Marcel Walz and starring Dominic Keating. The film offers a dark horror twist on Charles Dickens' 1843 novella and is scheduled for a digital release on October 30, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Ebenezer Scrooge: A Christmas Carol Horror is an upcoming movie by The Asylum.",
+      "The film is a horror take on Charles Dickens' 1843 novella A Christmas Carol.",
+      "Dominic Keating plays Ebenezer Scrooge.",
+      "The movie is directed by Marcel Walz.",
+      "The script was written by Joshua Pruett.",
+      "The cast includes Bryan Barron and Matthew Gademske.",
+      "The film will be released digitally on October 30, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Mintu Kumar Tomar",
+        "Charles Dickens",
+        "Johnny Depp",
+        "Dominic Keating",
+        "Marcel Walz",
+        "Joshua Pruett",
+        "Bryan Barron",
+        "Matthew Gademske",
+        "Glenn Close",
+        "Jennifer Lawrence",
+        "Chris Hemsworth",
+        "Barry Keoghan",
+        "Walton Goggins"
+      ],
+      "titles": [
+        "Ebenezer Scrooge: A Christmas Carol Horror",
+        "A Christmas Carol",
+        "Avengers: Doomsday",
+        "Extraction 3"
+      ]
+    },
+    "keywords": [
+      "Ebenezer Scrooge A Christmas Carol Horror",
+      "The Asylum Ebenezer Scrooge movie",
+      "Dominic Keating Ebenezer Scrooge",
+      "Marcel Walz horror movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Ebenezer-Scrooge-A-Christmas-Carol-Horror-Trailer-Unveils-The-Asylums-Take-on-Johnny-Depp-Movie-Exclusive.jpg?resize=1200,630",
+        "caption": "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 16:50:07 +0000"
   }
 };
-
