@@ -71,7 +71,10 @@ jobs:
               return age_h > interval_h + 1  # interval + 1h grace
 
           flags = {
-              "run_episode": hour in (19, 1, 7, 13) or overdue("episode_guides", 6),
+              # 2026-10-29 (owner order): dramas air 6pm-12am PKT, so episode
+              # gates are the evening/night window only (18/20/22/00 PKT =
+              # 13/15/17/19 UTC); morning/day gates removed as wasted runs.
+              "run_episode": hour in (13, 15, 17, 19) or overdue("episode_guides", 6),
               "run_title": hour == 18 or overdue("title_seed", 24),
               "run_sacnilk": hour in (2, 8, 14, 20) or overdue("sacnilk_boxoffice", 24),
               "run_tavily": hour in (8, 18) or overdue("tavily_boxoffice", 12),
@@ -679,6 +682,7 @@ jobs:
             -d "{\"ref\":\"main\",\"inputs\":{\"pipeline_run_id\":\"${{ github.run_id }}\"}}")
           echo "watchdog dispatch HTTP $code"
           [ "$code" = "204" ] || echo "watchdog dispatch failed (non-fatal)"
+
 
 
 
