@@ -95,6 +95,8 @@ STEP_FILES = {
     "metadata_refresh": ("Spotlight / Coming Soon / Most Awaited",
                          ["js/published-titles.js"]),
     "providers_backfill": ("OTT", ["js/published-titles.js"]),
+    "keywords_refresh": ("Trending News", ["js/articles-data.js",
+                                           "out/keyword-refresh.json"]),
 }
 
 
@@ -209,6 +211,7 @@ def aggregate(path=DEFAULT_PATH):
         ("stats_health", "RUN_HEALTH", "HEALTH_OUTCOME"),
         ("metadata_refresh", "RUN_METADATA", "METADATA_OUTCOME"),
         ("providers_backfill", "RUN_PROVIDERS", "PROVIDERS_OUTCOME"),
+        ("keywords_refresh", "RUN_KEYWORDS", "KEYWORDS_OUTCOME"),
     ]
     for step, flag_env, outcome_env in plan:
         recs = steps.get(step) or []
@@ -279,4 +282,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

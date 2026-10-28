@@ -89,6 +89,12 @@ jobs:
               # catch-up. Seeded with an old last_run so the first run
               # after this lands fires once, then it runs daily.
               "run_providers": hour == 2 or overdue("providers_backfill", 24),
+              # Daily keyword refresh (owner order 2026-10-28): Gemini
+              # refreshes news-article keywords once a day, 03:00 UTC
+              # + 24h overdue catch-up. One batched call, max 15
+              # articles/day — it publishes nothing and does not draw
+              # from DAILY_CAP (see scripts/refresh-keywords.py).
+              "run_keywords": hour == 3 or overdue("keywords_refresh", 24),
           }
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
               for k, v in flags.items():
@@ -340,6 +346,28 @@ jobs:
             -H "Authorization: Bearer $PANEL_IMPORT_TOKEN" \
             -H "Content-Type: application/json" -d '{}' -o out/publish-export.json || echo "publish-export unavailable, continuing without published entries"
 
+      # --- 7b. Refresh article keywords (daily, Gemini) --------------
+      # One batched Gemini call refreshes keywords for up to 15 news
+      # articles (oldest-keywords-first; articles missing keywords go
+      # first; refreshed < 7 days ago are skipped). Only the `keywords`
+      # field is touched — headline/body/facts are never rewritten.
+      # Runs 03:00 UTC + 24h overdue catch-up. No keys -> SKIP exit 0.
+      # The refresh uses ONE Gemini call/day and does NOT draw from
+      # DAILY_CAP (it publishes no articles). See
+      # scripts/refresh-keywords.py.
+      - name: Refresh article keywords (daily)
+        id: keywords
+        if: steps.decide.outputs.run_keywords == 'true'
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+        run: python3 scripts/refresh-keywords.py
+
       # --- 8. rebuild news feed (always, AFTER all article writers) ---
       - name: Rebuild news feed
         id: feed
@@ -431,6 +459,8 @@ jobs:
           METADATA_OUTCOME: ${{ steps.metadata.outcome }}
           RUN_PROVIDERS: ${{ steps.decide.outputs.run_providers }}
           PROVIDERS_OUTCOME: ${{ steps.providers.outcome }}
+          RUN_KEYWORDS: ${{ steps.decide.outputs.run_keywords }}
+          KEYWORDS_OUTCOME: ${{ steps.keywords.outcome }}
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
@@ -469,6 +499,8 @@ jobs:
                                    os.environ.get("METADATA_OUTCOME")),
               "providers_backfill": (os.environ.get("RUN_PROVIDERS") == "true",
                                      os.environ.get("PROVIDERS_OUTCOME")),
+              "keywords_refresh": (os.environ.get("RUN_KEYWORDS") == "true",
+                                   os.environ.get("KEYWORDS_OUTCOME")),
           }
           for name, (ran, outcome) in gated.items():
               rec = steps.setdefault(name, {})
@@ -536,6 +568,8 @@ jobs:
           RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
           RUN_PROVIDERS: ${{ steps.decide.outputs.run_providers }}
           PROVIDERS_OUTCOME: ${{ steps.providers.outcome }}
+          RUN_KEYWORDS: ${{ steps.decide.outputs.run_keywords }}
+          KEYWORDS_OUTCOME: ${{ steps.keywords.outcome }}
         run: python3 scripts/step_runs.py --aggregate
 
       # --- 13c. Record daily history (always, never fatal) --------------
@@ -641,6 +675,7 @@ jobs:
             -d "{\"ref\":\"main\",\"inputs\":{\"pipeline_run_id\":\"${{ github.run_id }}\"}}")
           echo "watchdog dispatch HTTP $code"
           [ "$code" = "204" ] || echo "watchdog dispatch failed (non-fatal)"
+
 
 
 

@@ -4,7 +4,12 @@
 Reads out/gemini-batch.json (from scripts/gemini_batch.py) and:
   1. Appends each article to js/articles-data.js (window.FA_ARTICLES),
      id = FNV-1a of the source link, base-36 — the same id the site's
-     news-item page and feed use. Skips ids already present.
+     news-item page and feed use. Skips ids already present. Every
+     record carries "keywords" (4-5 trending search phrases, written
+     by Gemini at write time in scripts/gemini_batch.py); when a draft
+     arrives without them, they are derived from the article's own
+     entities — the record NEVER has empty keywords (owner order
+     2026-10-28).
   2. Merges box-office rows into js/daywise-data.js (window.FA_DAYWISE):
      keyed by TMDB id; a row for the same film+day is UPDATED (a correction
      replaces the old number, it never creates a second post/row), otherwise
@@ -98,6 +103,99 @@ def parse_ts(published):
     return int(dt.timestamp() * 1000)
 
 
+# ---------------------------------------------------------------- keywords
+# Field contract (owner order 2026-10-28; shared with the frontend and
+# scripts/refresh-keywords.py): every article record carries "keywords",
+# an array of 4-5 plain strings — trending search phrases for THIS story.
+# MIRRORED from scripts/gemini_batch.py — keep the three copies in sync.
+KEYWORDS_WANT = 5
+KEYWORDS_MIN = 4
+
+
+def clean_keyword_phrase(value):
+    """One keyword phrase: plain text, no URLs, no markup, <= 80 chars."""
+    s = re.sub(r"\s+", " ", str(value or "")).strip()
+    if not s or len(s) > 80 or "http" in s.lower() or "<" in s:
+        return ""
+    return s
+
+
+def derive_keywords_from_entities(entities, headline=""):
+    """Keywords derived from an article's own entities (no Gemini call).
+    Plain names first (people, then titles), then specific "{person}
+    {title}" combos — never generic suffixes. Falls back to the
+    headline's capitalised name sequences, then the headline itself,
+    so the result is never empty when a headline exists."""
+    ents = entities or {}
+    people = [clean_keyword_phrase(p)
+              for p in (ents.get("people") or [])]
+    titles = [clean_keyword_phrase(t)
+              for t in (ents.get("titles") or [])]
+    out = []
+    for name in people[:2] + titles[:2]:
+        if name and name.lower() not in {o.lower() for o in out}:
+            out.append(name)
+    for p in people[:2]:
+        for t in titles[:1]:
+            combo = clean_keyword_phrase(f"{p} {t}")
+            if combo and combo.lower() not in {o.lower() for o in out}:
+                out.append(combo)
+            if len(out) >= KEYWORDS_WANT:
+                break
+        if len(out) >= KEYWORDS_WANT:
+            break
+    if len(out) < KEYWORDS_MIN:
+        # Headline's leading entity first ("Jailer 2", "Doosra") —
+        # the capitalised-sequence scan below would return a generic
+        # phrase such as "Box Office Collection" instead.
+        lead = re.match(r"([A-Z][a-z]+(?:\s+\d+)?)", headline or "")
+        if lead and lead.group(1).lower() not in {
+                "the", "a", "an", "in", "on", "at", "to", "of", "for",
+                "new", "latest", "top", "first", "big", "breaking"}:
+            s = clean_keyword_phrase(lead.group(1))
+            if s and s.lower() not in {o.lower() for o in out}:
+                out.append(s)
+    if len(out) < KEYWORDS_MIN:
+        seqs = re.findall(
+            r"\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b",
+            headline or "")
+        for s in seqs:
+            s = clean_keyword_phrase(s)
+            if s and s.lower() not in {o.lower() for o in out}:
+                out.append(s)
+            if len(out) >= KEYWORDS_MIN:
+                break
+    if not out and headline:
+        h = clean_keyword_phrase(headline)
+        if h:
+            out.append(h)
+    return out[:KEYWORDS_WANT]
+
+
+def normalize_keywords(article):
+    """A batch article's keywords, cleaned and guaranteed non-empty.
+    Keeps Gemini's phrases (first 5, deduped), tops up from the
+    article's own entities when fewer than 4 survive, and falls back
+    to entities-only when the batch carried nothing usable."""
+    raw = article.get("keywords") or []
+    out = []
+    for kw in raw if isinstance(raw, list) else []:
+        s = clean_keyword_phrase(kw)
+        if s and s.lower() not in {o.lower() for o in out}:
+            out.append(s)
+        if len(out) >= KEYWORDS_WANT:
+            break
+    if len(out) < KEYWORDS_MIN:
+        for s in derive_keywords_from_entities(
+                article.get("entities") or {},
+                article.get("headline") or ""):
+            if s.lower() not in {o.lower() for o in out}:
+                out.append(s)
+            if len(out) >= KEYWORDS_WANT:
+                break
+    return out
+
+
 def main():
     batch_path = os.path.join(OUT_DIR, "gemini-batch.json")
     if os.path.exists(batch_path):
@@ -151,6 +249,9 @@ def main():
             "body": body,
             "facts": [str(x) for x in (a.get("facts") or [])],
             "entities": a.get("entities") or {"titles": [], "people": []},
+            # Keywords at write time: Gemini's phrases from the batch,
+            # normalised here (entities fallback) — never empty.
+            "keywords": normalize_keywords(a),
             # spec §5: carry the pipeline's images through verbatim
             # (url/caption/source only); articles without one get [].
             "images": [{"url": str(im.get("url") or ""),
@@ -289,5 +390,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 

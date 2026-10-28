@@ -61,7 +61,7 @@ stage_all() {
            out/episodes.json out/episode-feed.json out/publish-export.json \
            out/queue.json out/seen.json out/state.json out/report.json \
            out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json \
-           out/daily-history.json; do
+           out/daily-history.json out/keyword-refresh.json; do
     [ -f "$f" ] && git add "$f"
   done
   [ -e out/categories ] && git add out/categories || true
@@ -281,4 +281,5 @@ while [ $n -lt $MAX_ATTEMPTS ]; do
 done
 echo "commit-retry: all $MAX_ATTEMPTS attempts failed — next hourly run retries from fresh main"
 exit 1
+
 

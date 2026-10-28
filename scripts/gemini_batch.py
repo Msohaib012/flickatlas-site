@@ -39,7 +39,11 @@ already clustered by scripts/fetch.py), and for each NEW story:
   3. Fetches the source article text (browser UA, r.jina.ai fallback).
   4. Calls Gemini (key rotation across GEMINI_API_KEY_1..6) with a
      structured-output schema: the draft article + its final category
-     (one of the 11 pipeline categories) + optional box-office row.
+     (one of the 11 pipeline categories) + optional box-office row +
+     `keywords` (4-5 trending search phrases for THIS story, written
+     by Gemini at write time — owner order 2026-10-28; see
+     normalize_keywords() for the entities fallback, so a draft never
+     ships without keywords).
   5. Attaches an `images` array to each article (spec §5): the article's
      main title's TMDB poster/backdrop (source "TMDB"), else the source
      page's own og:image (source = the outlet NAME only). Empty when
@@ -284,6 +288,105 @@ def body_word_count(body):
     return total
 
 
+# ---------------------------------------------------------------- keywords
+# Field contract (owner order 2026-10-28; shared with the frontend and
+# scripts/refresh-keywords.py): every article record carries "keywords",
+# an array of 4-5 plain strings — trending search phrases for THIS story,
+# grounded in the article's own facts/entities. The generic extras
+# ("latest news", "biography", ...) are added by the frontend, never
+# stored here. The record must NEVER have empty keywords: Gemini writes
+# them at write time, and every writer below falls back to the article's
+# own entities (then its headline) when the model omits them.
+# These helpers are MIRRORED in scripts/apply-auto.py and
+# scripts/refresh-keywords.py — keep the three copies in sync.
+KEYWORDS_WANT = 5
+KEYWORDS_MIN = 4
+
+
+def clean_keyword_phrase(value):
+    """One keyword phrase: plain text, no URLs, no markup, <= 80 chars."""
+    s = re.sub(r"\s+", " ", str(value or "")).strip()
+    if not s or len(s) > 80 or "http" in s.lower() or "<" in s:
+        return ""
+    return s
+
+
+def derive_keywords_from_entities(entities, headline=""):
+    """Keywords derived from an article's own entities (no Gemini call).
+    Plain names first (people, then titles), then specific "{person}
+    {title}" combos — never generic suffixes. Falls back to the
+    headline's capitalised name sequences, then the headline itself,
+    so the result is never empty when a headline exists."""
+    ents = entities or {}
+    people = [clean_keyword_phrase(p)
+              for p in (ents.get("people") or [])]
+    titles = [clean_keyword_phrase(t)
+              for t in (ents.get("titles") or [])]
+    out = []
+    for name in people[:2] + titles[:2]:
+        if name and name.lower() not in {o.lower() for o in out}:
+            out.append(name)
+    for p in people[:2]:
+        for t in titles[:1]:
+            combo = clean_keyword_phrase(f"{p} {t}")
+            if combo and combo.lower() not in {o.lower() for o in out}:
+                out.append(combo)
+            if len(out) >= KEYWORDS_WANT:
+                break
+        if len(out) >= KEYWORDS_WANT:
+            break
+    if len(out) < KEYWORDS_MIN:
+        # Headline's leading entity first ("Jailer 2", "Doosra") —
+        # the capitalised-sequence scan below would return a generic
+        # phrase such as "Box Office Collection" instead.
+        lead = re.match(r"([A-Z][a-z]+(?:\s+\d+)?)", headline or "")
+        if lead and lead.group(1).lower() not in {
+                "the", "a", "an", "in", "on", "at", "to", "of", "for",
+                "new", "latest", "top", "first", "big", "breaking"}:
+            s = clean_keyword_phrase(lead.group(1))
+            if s and s.lower() not in {o.lower() for o in out}:
+                out.append(s)
+    if len(out) < KEYWORDS_MIN:
+        seqs = re.findall(
+            r"\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b",
+            headline or "")
+        for s in seqs:
+            s = clean_keyword_phrase(s)
+            if s and s.lower() not in {o.lower() for o in out}:
+                out.append(s)
+            if len(out) >= KEYWORDS_MIN:
+                break
+    if not out and headline:
+        h = clean_keyword_phrase(headline)
+        if h:
+            out.append(h)
+    return out[:KEYWORDS_WANT]
+
+
+def normalize_keywords(result):
+    """Gemini's keywords for one draft, cleaned and guaranteed
+    non-empty. Keeps the model's phrases (first 5, deduped), tops up
+    from the article's own entities when fewer than 4 survive, and
+    falls back to entities-only when the model gave nothing usable."""
+    raw = result.get("keywords") or []
+    out = []
+    for kw in raw if isinstance(raw, list) else []:
+        s = clean_keyword_phrase(kw)
+        if s and s.lower() not in {o.lower() for o in out}:
+            out.append(s)
+        if len(out) >= KEYWORDS_WANT:
+            break
+    if len(out) < KEYWORDS_MIN:
+        for s in derive_keywords_from_entities(
+                result.get("entities") or {},
+                result.get("headline") or ""):
+            if s.lower() not in {o.lower() for o in out}:
+                out.append(s)
+            if len(out) >= KEYWORDS_WANT:
+                break
+    return out
+
+
 def quality_check(result):
     """Returns (ok, reason). A thin/generic draft is rejected, never published."""
     headline = (result.get("headline") or "").strip()
@@ -330,8 +433,14 @@ ARTICLE_SCHEMA = {
             "collection_inr_crore": {"type": "number"},
             "sources": {"type": "array", "items": {"type": "string"}},
         }},
+        # Keywords at write time (owner order 2026-10-28): Gemini writes
+        # the draft's trending search phrases in the SAME call that
+        # writes the article — never a separate step, never empty (the
+        # caller normalises with normalize_keywords() and falls back to
+        # the article's own entities when the model omits them).
+        "keywords": {"type": "array", "items": {"type": "string"}},
     },
-    "required": ["category", "headline", "dek", "body", "facts"],
+    "required": ["category", "headline", "dek", "body", "facts", "keywords"],
 }
 
 # RANK stage schema: Gemini returns the candidate indices ordered most
@@ -422,6 +531,14 @@ Rules:
   ott_streaming, trailers, awards, music_ost, viral.
 - facts: a list of plain factual statements (numbers, dates, names).
 - entities: titles (films/shows) and people named in the article.
+- keywords: 4-5 short search phrases a reader would actually type into
+  Google to find THIS story right now (e.g. "Operation Sindoor film",
+  "Kartik Aaryan Operation Sindoor"). Build each phrase ONLY from the
+  people, titles, events and facts in THIS article — never invent a
+  person, film or event that is not in the source. Plain phrases only:
+  no generic suffixes such as "latest news", "biography", "upcoming
+  movies" (the site adds those itself). At least one phrase must name
+  the story's main film/show when the article is about one.
 - box_office: ONLY if the article is about a film's box-office
   collections. Give the film name, the day number (1 = release day),
   the date (YYYY-MM-DD), and the collection for THAT day in INR crore
@@ -994,6 +1111,9 @@ def main():
             "body": result.get("body") or [],
             "facts": result.get("facts") or [],
             "entities": result.get("entities") or {"titles": [], "people": []},
+            # Keywords at write time: Gemini's phrases, normalised
+            # (entities fallback inside) — never empty.
+            "keywords": normalize_keywords(result),
             "images": build_images(result, item, page_image, tmdb_key),
             "source_url": url,
             "source": item.get("source") or "",
@@ -1120,6 +1240,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 
