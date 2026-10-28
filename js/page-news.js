@@ -81,7 +81,14 @@
     const tags = new Set();
     const cats = (Array.isArray(it.cats) ? it.cats : []).map(c => String(c).toLowerCase());
     const text = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
-    if (cats.includes("bollywood")) tags.add("bollywood");
+    /* KOREAN GUARD (mirrors js/page-index.js, 2026-10-26): the feed has
+       misfiled Korean stories under cats "bollywood" — a story whose
+       text is Korean is NEVER Indian, so the feed's "bollywood" cat is
+       ignored for it. */
+    const isKorean = hasWord(text, "k-drama") || hasWord(text, "kdrama") ||
+      hasWord(text, "korean") || hasWord(text, "k-pop") || hasWord(text, "kpop") ||
+      hasWord(text, "seoul") || hasWord(text, "kim ji won");
+    if (cats.includes("bollywood") && !isKorean) tags.add("bollywood");
     if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
     if (cats.includes("celebrity")) tags.add("celebrity");
     if (cats.includes("viral")) tags.add("viral");
@@ -92,6 +99,22 @@
     if (hasWord(text, "bollywood") || text.includes("₹")) tags.add("bollywood");
     if (hasWord(text, "tamil") || hasWord(text, "kollywood") || hasWord(text, "tamil cinema") ||
         hasWord(text, "telugu") || hasWord(text, "tollywood")) tags.add("kollywood");
+    /* Indian-language stories belong in Bollywood (owner order
+       2026-10-28: Bollywood = ALL India-related) — Tamil/Telugu keep
+       their Kollywood tag as well, Malayalam/Kannada/Punjabi/Marathi/
+       Bengali/Gujarati stories gain the Bollywood tag here. */
+    if (hasWord(text, "tamil") || hasWord(text, "telugu") || hasWord(text, "malayalam") ||
+        hasWord(text, "mollywood") || hasWord(text, "kannada") || hasWord(text, "sandalwood") ||
+        hasWord(text, "punjabi") || hasWord(text, "marathi") || hasWord(text, "bengali") ||
+        hasWord(text, "gujarati") || text.includes("₹")) tags.add("bollywood");
+    /* Indian-language stories belong in Bollywood (owner order
+       2026-10-28: Bollywood = ALL India-related) — Tamil/Telugu keep
+       their Kollywood tag as well, Malayalam/Kannada/Punjabi/Marathi/
+       Bengali/Gujarati stories gain the Bollywood tag here. */
+    if (hasWord(text, "tamil") || hasWord(text, "telugu") || hasWord(text, "malayalam") ||
+        hasWord(text, "mollywood") || hasWord(text, "kannada") || hasWord(text, "sandalwood") ||
+        hasWord(text, "punjabi") || hasWord(text, "marathi") || hasWord(text, "bengali") ||
+        hasWord(text, "gujarati") || text.includes("₹")) tags.add("bollywood");
     if (hasWord(text, "lollywood") || hasWord(text, "pakistani") || hasWord(text, "hum tv") ||
         hasWord(text, "ary") || hasWord(text, "geo tv") || hasWord(text, "green tv")) tags.add("lollywood");
     if (hasWord(text, "award") || hasWord(text, "filmfare") || hasWord(text, "oscar") ||
@@ -104,6 +127,16 @@
         hasWord(text, "album") || hasWord(text, "singer") || hasWord(text, "composer")) tags.add("music");
     if (hasWord(text, "ai") || hasWord(text, "tech") || hasWord(text, "technology") ||
         hasWord(text, "artificial intelligence") || hasWord(text, "app") || hasWord(text, "gadget")) tags.add("tech");
+    /* Bollywood and World Cinema are mutually exclusive (owner order
+       2026-10-28): an Indian or Pakistani story is never World Cinema,
+       even when the feed filed it under "international". Runs last so
+       keyword-derived tags above are all counted. */
+    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) tags.delete("world");
+    /* Bollywood and World Cinema are mutually exclusive (owner order
+       2026-10-28): an Indian or Pakistani story is never World Cinema,
+       even when the feed filed it under "international". Runs last so
+       keyword-derived tags above are all counted. */
+    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) tags.delete("world");
     return TAGKEYS.filter(k => tags.has(k));
   };
 
@@ -248,5 +281,6 @@
     wrap.innerHTML = UI.stateMsg("The news feed is unavailable right now. Please try again later.", false);
   }
 })();
+
 
 

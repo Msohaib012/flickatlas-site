@@ -223,19 +223,33 @@ def pick_certification(details, media_type):
     return ""
 
 
+INDIAN_LANGS = {"hi", "ta", "te", "ml", "kn", "pa", "bn", "mr", "gu", "or", "as"}
+
+
 def derive_industry(details):
-    """bollywood = Hindi-language, India origin.
-    pakistani = Pakistan origin (any language) OR Urdu-language.
-    world = everything else."""
+    """Industry rule (owner order 2026-10-28) — the ROOT CAUSE fix.
+    bollywood = ALL Indian titles: any Indian language (Hindi, Tamil,
+    Telugu, Malayalam, Kannada, Punjabi, Bengali, Marathi, Gujarati,
+    Odia, Assamese) OR India origin/production country (e.g. an
+    English-language Indian film). The old rule (lang == "hi" AND
+    "IN" in countries) filed all 21 non-Hindi Indian titles as "world".
+    pakistani = Pakistan origin (any language) OR Urdu-language
+    (unless India is also an origin country — an Indian Urdu film
+    is Indian).
+    world = everything else (only international, never Indian)."""
     lang = str(details.get("original_language") or "").lower()
     countries = [str(c).upper()
                  for c in (details.get("origin_country") or [])]
     if not countries:
         countries = [str(c.get("iso_3166_1") or "").upper()
                      for c in (details.get("production_countries") or [])]
-    if "PK" in countries or lang == "ur":
+    if "PK" in countries or (lang == "ur" and "IN" not in countries):
         return "pakistani"
-    if lang == "hi" and "IN" in countries:
+    if "IN" in countries or lang in INDIAN_LANGS:
+        return "bollywood"
+    spoken = [str((s or {}).get("iso_639_1") or "").lower()
+              for s in (details.get("spoken_languages") or [])]
+    if not countries and any(s in INDIAN_LANGS for s in spoken):
         return "bollywood"
     return "world"
 
@@ -254,6 +268,11 @@ def build_entry(details, media_type, categories, published_at):
         "vote_count": details.get("vote_count"),
         "overview": details.get("overview") or "",
         "industry": derive_industry(details),
+        # popularity (2026-10-28): the Coming Soon sort uses it as the
+        # "most awaited" tiebreak (same-date titles). It was dropped
+        # before, so no published entry had any awaited-signal at all —
+        # raw vote_average of 1–7 votes decided the order instead.
+        "popularity": details.get("popularity") or 0,
         "original_language": details.get("original_language") or "",
         "origin_country": list(details.get("origin_country") or []),
         "trailer": pick_trailer(details),
@@ -395,5 +414,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 

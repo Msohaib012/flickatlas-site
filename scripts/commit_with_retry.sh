@@ -41,7 +41,7 @@ stage_all() {
   # fails ENTIRELY when one pathspec is missing, which would leave
   # other files unstaged and break the pull --rebase below.
   local f
-  for f in js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js js/trending-topics.js \
+  for f in js/articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js js/trending-topics.js js/worldwide-data.js \
            js/seo-meta.json sitemap.xml robots.txt \
            api-news.json api-trends.json \
            js/stats-pipeline.json js/stats-traffic.json js/stats-health.json \
@@ -281,5 +281,6 @@ while [ $n -lt $MAX_ATTEMPTS ]; do
 done
 echo "commit-retry: all $MAX_ATTEMPTS attempts failed — next hourly run retries from fresh main"
 exit 1
+
 
 

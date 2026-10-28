@@ -100,8 +100,13 @@ h3{font-size:1.05rem;font-weight:700}
    inside was top-flowed, so a 2-line title + 3-line date pushed the
    platform row down on one card and the logos landed at different
    heights. Fix: the card is a flex column, the body grows (flex:1),
-   the date line reserves exactly 3 lines (the longest meta at the
-   118px mobile column width) and the platform row is pinned to the
+   the date line used to reserve exactly 3 lines (the longest meta at
+   the 118px mobile column width) — but the 3-line clamp cut the
+   longest now-meta ("Released 23 October 2026 · Bollywood · Movie")
+   to "…", hiding the type pill (owner report 2026-10-28). The meta
+   now wraps fully instead: the card is a flex column and the platform
+   row is pinned to the bottom with margin-top:auto, so the logos
+   still line up across a row. The platform row is pinned to the
    bottom with margin-top:auto — every card in a row shares one height
    and the logos line up. The platform row is also a FIXED single line
    (36px = one 28px logo + padding/border; names truncate with an
@@ -112,7 +117,7 @@ h3{font-size:1.05rem;font-weight:700}
    markup. */
 .ott-card{display:flex;flex-direction:column;height:100%}
 .ott-card .card-body{flex:1;display:flex;flex-direction:column}
-.ott-card .card-meta{line-height:1.4;min-height:4.2em;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.ott-card .card-meta{line-height:1.4;display:block;overflow:visible}
 .ott-card .ott-prov-row{margin-top:auto;flex-wrap:nowrap;overflow:hidden;height:36px}
 .ott-card .ott-prov-names{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 /* Movie/TV type tag (TV order 2026-10-27): a small pill badge on every
@@ -2035,6 +2040,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .rv-sw{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}
 .rv-sw h3{margin-top:14px}
 @media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}
+
 
 
 

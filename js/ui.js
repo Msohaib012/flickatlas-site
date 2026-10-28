@@ -14,12 +14,11 @@ const UI = (() => {
   /* ---------- External news images: downscale for fast loading ----------
      News/article images come from many external sources at full resolution,
      so pages load slowly. newsImg(url, w) returns a lighter version:
-     - If the URL already carries a plain integer `w=` param, shrink that
-       param (and scale `h=` proportionally so the crop stays true) instead
-       of proxying — one less hop. Only when the param is a plain integer;
-       otherwise the URL is proxied.
-     - Otherwise route through images.weserv.nl (free resize proxy):
+     - ALWAYS route through images.weserv.nl (free resize proxy):
        ?url=<encoded>&w=<w>&q=70&output=jpg (resize to width w, quality 70).
+       (2026-10-28: the old w=-param branch returned the source origin
+       directly, and those direct origin fetches stall/fail on the
+       owner's slow mobile data while proxied copies load.)
      - Non-http(s) URLs and local/TMDB paths are returned unchanged.
      Callers keep an onerror fallback to the ORIGINAL url, so the image
      still loads if the proxy is ever down. */
@@ -31,20 +30,60 @@ const UI = (() => {
     let u;
     try { u = new URL(clean); } catch (_) { return url; }
     if (u.protocol !== "http:" && u.protocol !== "https:") return url;
-    const wp = u.searchParams.get("w");
-    if (wp && /^\d+$/.test(wp)) {
-      const oldW = parseInt(wp, 10);
-      if (oldW > width) {
-        const hp = u.searchParams.get("h");
-        if (hp && /^\d+$/.test(hp)) u.searchParams.set("h", String(Math.max(1, Math.round(parseInt(hp, 10) * width / oldW))));
-        u.searchParams.set("w", String(width));
-      }
-      return u.toString();
-    }
+    /* IMAGES FIX 2026-10-28: no direct-origin branch any more — every
+       news/episode image goes through the weserv proxy first. The
+       original URL survives only as the imgFail retry (data-fb),
+       never as the first src. */
     /* &we = without enlargement: never upscale an image that is already
        smaller than the target width (e.g. a 480px YouTube thumbnail
        asked for w=900 would otherwise come back 3x heavier). */
     return "https://images.weserv.nl/?url=" + encodeURIComponent(clean) + "&w=" + width + "&q=70&output=jpg&we";
+  }
+  /* ---------- Image failure fallback (2026-10-28) ----------
+     A blank pale thumb box is what the owner saw on his phone: every
+     news/episode <img> used onerror="this.remove()", so ANY transient
+     failure (slow mobile data, a dropped connection) permanently
+     deleted the image and left the empty .editorial-card__thumb /
+     .ep-thumb box behind. imgFail never removes the <img>:
+       1st failure -> retry the ORIGINAL source URL once (data-fb);
+       2nd failure -> the branded placeholder below. It is a data URI,
+     so it cannot fail to load; a thumb can never be blank again. */
+  const PLACEHOLDER_IMG = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(
+    "<svg xmlns='http://www.w3.org/2000/svg' width='800' height='450'>" +
+    "<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>" +
+    "<stop offset='0' stop-color='#0e3b2e'/><stop offset='1' stop-color='#14532d'/>" +
+    "</linearGradient></defs><rect width='800' height='450' fill='url(#g)'/>" +
+    "<text x='400' y='225' font-family='Arial,sans-serif' font-size='44' font-weight='bold' " +
+    "fill='#ffffff' text-anchor='middle'>FlickAtlas</text></svg>");
+  function imgFail(el) {
+    if (!el) return;
+    if (!el.dataset.fbDone && el.dataset.fb) {
+      el.dataset.fbDone = "1";
+      el.removeAttribute("srcset");
+      if (el.src !== el.dataset.fb) { el.src = el.dataset.fb; return; }
+    }
+    el.onerror = null;
+    el.removeAttribute("srcset");
+    if (el.src !== PLACEHOLDER_IMG) el.src = PLACEHOLDER_IMG;
+  }
+  /* One <img> tag for a news/article image: proxied src (newsImg),
+     original kept as data-fb for the imgFail retry, no-referrer so a
+     hotlink-sensitive origin cannot 403 on the site's Referer, and an
+     explicit loading mode (above-the-fold thumbs pass "eager").
+     o: { loading, fetchpriority, srcset, sizes, alt, extra } */
+  function newsThumbImg(url, w, o) {
+    o = o || {};
+    const src = newsImg(url, w);
+    const srcset = o.srcset
+      ? ` srcset="${esc(newsImg(url, 400))} 400w, ${esc(newsImg(url, 800))} 800w" sizes="${esc(o.sizes || "(max-width:640px) 100vw, 800px")}"`
+      : "";
+    return `<img src="${esc(src)}"${srcset} data-fb="${esc(url)}" alt="${esc(o.alt || "")}" loading="${o.loading || "lazy"}"${o.fetchpriority ? ` fetchpriority="${o.fetchpriority}"` : ""} decoding="async" referrerpolicy="no-referrer" onerror="UI.imgFail(this)"${o.extra ? ` ${o.extra}` : ""}>`;
+  }
+  /* One <img> tag for an episode thumbnail (YouTube i.ytimg.com):
+     same treatment — proxied first (480w, never upscaled), original
+     as the retry, placeholder as the last resort. */
+  function epThumbImg(url, alt, loading) {
+    return `<img src="${esc(newsImg(url, 480))}" data-fb="${esc(url)}" alt="${esc(alt || "")}" loading="${loading || "lazy"}" decoding="async" referrerpolicy="no-referrer" onerror="UI.imgFail(this)">`;
   }
   const qs = (obj) => new URLSearchParams(Object.entries(obj)
     .filter(([, v]) => v !== undefined && v !== null && v !== "")).toString();
@@ -195,14 +234,68 @@ const UI = (() => {
     return `${d} ${MONTHS_L[mo - 1]} ${y}`;
   }
   const ratingText = (d) => { const r = rating(d); return r ? `${r}/10` : ""; };
-  /* Industry label from a title's original language — used in mixed feeds */
+  /* ---------- Industry classification (owner order 2026-10-28) ----------
+     ONE canonical rule, used by every filter on the site:
+     "Bollywood" = ALL Indian titles — Hindi, Tamil (Kollywood), Telugu
+     (Tollywood), Malayalam, Kannada, Punjabi, Bengali, Marathi, Gujarati,
+     Odia, Assamese, or any title produced in India (origin/production
+     country IN, e.g. an English-language Indian film such as Dreamboat).
+     "World Cinema" = ONLY international (non-Indian, non-Pakistani)
+     titles — a Tamil/Telugu/... title is NEVER World Cinema.
+     "Pakistani" = Pakistan origin (any language) or Urdu language
+     (unless India is also an origin country — an Indian Urdu film is
+     Indian). Precedence: Pakistani first, then Indian, then World.
+     The baked `industry` field is NOT trusted on its own: the seeder
+     used to file every non-Hindi Indian title as "world" (21 of the 99
+     live titles), so every filter derives the industry from language +
+     countries at render time. industryOf() returns the canonical key
+     (bollywood | pakistani | world); isIndian()/isPakistani() are the
+     predicates; industryTag() is the display label. */
+  const INDIAN_LANGS = ["hi", "ta", "te", "ml", "kn", "pa", "bn", "mr", "gu", "or", "as"];
+  const INDUSTRY_LABEL = { bollywood: "Bollywood", pakistani: "Pakistani", world: "World Cinema" };
+  function _titleCountries(x) {
+    const out = [];
+    for (const c of (x && x.origin_country) || []) if (c) out.push(String(c).toUpperCase());
+    for (const c of (x && x.production_countries) || []) {
+      const v = typeof c === "string" ? c : (c && c.iso_3166_1);
+      if (v) out.push(String(v).toUpperCase());
+    }
+    return out;
+  }
+  function _spokenLangs(x) {
+    return ((x && x.spoken_languages) || []).map(l => typeof l === "string" ? l : (l && l.iso_639_1)).filter(Boolean);
+  }
+  function isPakistani(x) {
+    if (!x) return false;
+    const cs = _titleCountries(x);
+    if (cs.includes("PK")) return true;
+    if (x._ind === "lollywood" || x._ind === "pakistani" || x._countryQuery === "PK") return true;
+    /* The baked `industry` is trusted for Pakistani only when India is
+       NOT also an origin country: the old seeder filed any Urdu-language
+       title as Pakistani, so an Indian Urdu film would be baked
+       "pakistani" while its origin says IN. */
+    if (x.industry === "pakistani" && !cs.includes("IN")) return true;
+    /* Urdu alone signals Pakistani — unless India is also an origin
+       country, in which case it is an Indian Urdu title. */
+    return (x.original_language || "") === "ur" && !cs.includes("IN");
+  }
+  function isIndian(x) {
+    if (!x || isPakistani(x)) return false;
+    const cs = _titleCountries(x);
+    if (cs.includes("IN")) return true;
+    if (INDIAN_LANGS.includes(x.original_language || "")) return true;
+    /* No country data at all: fall back to spoken languages, so a
+       title whose origin was never recorded is still filed Indian when
+       it is spoken in an Indian language. */
+    if (!cs.length && _spokenLangs(x).some(l => INDIAN_LANGS.includes(l))) return true;
+    return false;
+  }
+  function industryOf(x) {
+    return isPakistani(x) ? "pakistani" : isIndian(x) ? "bollywood" : "world";
+  }
+  /* Industry label from a title — used in mixed feeds and on cards. */
   function industryTag(item) {
-    const l = (item && item.original_language) || "";
-    const countries = item?.origin_country || item?.production_countries?.map(c => c.iso_3166_1) || [];
-    if (item?._ind === "lollywood" || item?._ind === "pakistani" || item?._countryQuery === "PK" || countries.includes("PK")) return "Pakistani";
-    if (l === "hi") return "Bollywood";
-    if (l === "ur") return "Pakistani";
-    return "World Cinema";
+    return INDUSTRY_LABEL[industryOf(item)] || "World Cinema";
   }
   function monthLabel(s) {
     const [y, m] = String(s || "").split("-");
@@ -1001,13 +1094,14 @@ const UI = (() => {
     return n;
   }
 
-  return { esc, img, newsImg, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
+  return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
-    freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath,
+    freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
     relTime, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 

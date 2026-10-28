@@ -104,6 +104,11 @@ FIRST_RUN_MAX = 15
 # - SAFETY_CEILING is a hard cap per run so a bad source list can
 #   never dump a massive batch at once.
 FRESH_WINDOW_DAYS = 7
+# Trending drip (2026-10-28): non-fresh TMDB-trending titles added per
+# seeder run, ahead of the general backfill — so the Trending Worldwide
+# rail gains the titles TMDB says are trending a few at a time
+# ("thori thori kar ke") instead of starving behind BACKFILL_PER_DAY.
+TRENDING_DRIP_PER_RUN = 5
 BACKFILL_PER_DAY = 4
 SAFETY_CEILING = 20
 FRESH_DAYS = 90
@@ -395,7 +400,9 @@ def fetch_providers(tid, media_type, key):
     """TMDB watch/providers for one title -> providers list (best-effort).
 
     GET /{movie|tv}/{id}/watch/providers. IN flatrate (streaming)
-    first, US flatrate as fallback. Each provider is
+    first, US flatrate as fallback, PK flatrate third (2026-10-28:
+    Pakistani dramas have no IN/US listing, so without PK they can
+    never gain providers and OTT TV Series stays empty). Each provider is
     {name, logo_path, region, type}. Only the flatrate list is kept
     (rent/buy are not streaming, and the OTT page is streaming-only).
     Returns [] when TMDB has no streaming provider for the title, or
@@ -410,7 +417,7 @@ def fetch_providers(tid, media_type, key):
     if not data:
         return []
     results = data.get("results") or {}
-    for region in ("IN", "US"):
+    for region in ("IN", "US", "PK"):
         entry = results.get(region) or {}
         flatrate = entry.get("flatrate") or []
         if not flatrate:
@@ -521,21 +528,30 @@ def _is_fresh(date_str, today):
 def _round_robin(ordered, per_source, cap, picked, seen):
     """One round-robin pass over `ordered` sources, taking from
     per_source[name] lists in order, until cap or exhaustion.
-    Appends (tid, media, source) to picked. Returns the new count."""
-    i = 0
+    Appends (tid, media, source) to picked. Returns the new count.
+    Items already in `seen` are skipped, not counted as a round: an
+    earlier phase's picks must not consume this pass's rounds
+    (2026-10-28: the trending drip's 5 picks blocked Phase 2 from
+    reaching the older trending titles behind them, so the drip
+    could never drain)."""
+    idx = {name: 0 for name, _, _ in ordered}
     while len(picked) < cap:
         progressed = False
         for name, media, _ in ordered:
             if len(picked) >= cap:
                 break
             items = per_source.get(name) or []
-            if i < len(items) and items[i] not in seen:
-                seen.add(items[i])
-                picked.append((items[i], media, name))
-                progressed = True
+            while idx[name] < len(items) and items[idx[name]] in seen:
+                idx[name] += 1
+            if idx[name] >= len(items):
+                continue
+            tid = items[idx[name]]
+            idx[name] += 1
+            seen.add(tid)
+            picked.append((tid, media, name))
+            progressed = True
         if not progressed:
             break
-        i += 1
     return picked
 
 
@@ -547,7 +563,9 @@ def select(lists, published, cap):
     Pace (his order 2026-10-26): NO fixed daily quota.
     Phase 1 (fresh): every title released in the last 7 days or
     releasing in the next 7 days is picked — however many there are,
-    that is the need. Phase 2 (backfill): older titles, at most
+    that is the need. Phase 1b (trending drip, 2026-10-28): non-fresh
+    titles from the TMDB trending list, at most TRENDING_DRIP_PER_RUN
+    per run, ahead of the general backfill. Phase 2 (backfill): older titles, at most
     BACKFILL_PER_DAY, newest first, in strict sequence. The hard
     SAFETY_CEILING caps the whole run so a bad source list can never
     dump a massive batch. Upcoming is sorted nearest-first (ascending)
@@ -569,7 +587,12 @@ def select(lists, published, cap):
                 continue
             if not item.get("poster_path"):
                 continue
-            if media == "movie" and not movie_fresh(item, today):
+            # Trending source is exempt from the 90-day freshness gate:
+            # a title on TMDB /trending/movie/week is trending NOW, so
+            # its release age is irrelevant (2026-10-28: Obsession
+            # 2026-05-13 and Moana 2026-07-08 were trending but
+            # unseedable because of this gate).
+            if name != "trending" and media == "movie" and not movie_fresh(item, today):
                 continue
             # tv: no list-level date rule (currency checked on details)
             seen_here[tid] = _item_date(item, media)
@@ -595,6 +618,20 @@ def select(lists, published, cap):
     picked, seen = [], set()
     # Phase 1: ALL fresh titles (up to the safety ceiling).
     _round_robin(ordered, fresh, cap, picked, seen)
+    # Phase 1b — TRENDING DRIP (2026-10-28): non-fresh trending titles
+    # enter a few per run, ahead of the general backfill, so the
+    # Trending Worldwide rail keeps gaining the titles TMDB says are
+    # trending instead of starving behind the 4/day backfill queue
+    # (2026-10-28: 9 of the 20 trending IDs were stuck in backfill).
+    # Titles that leave TMDB trending drop out of the rail at render
+    # time, because the rail renders only the current FA_TRENDING list.
+    for tid in (backfill.get("trending") or [])[:TRENDING_DRIP_PER_RUN]:
+        if len(picked) >= cap:
+            break
+        if tid in seen:
+            continue
+        seen.add(tid)
+        picked.append((tid, "movie", "trending"))
     # Phase 2: backfill, at most BACKFILL_PER_DAY (and under ceiling).
     backfill_cap = min(cap, len(picked) + BACKFILL_PER_DAY)
     _round_robin(ordered, backfill, backfill_cap, picked, seen)
@@ -750,6 +787,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

@@ -51,7 +51,7 @@
           <img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()">
           <span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b>
           <span>${UI.fmtDate(dateOf(x))}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""} · Official trailer</span></span>
-          <span class="tag-chip">${UI.esc((x.industry === "world") ? "World Cinema" : UI.industryTag(x))}</span>
+          <span class="tag-chip">${UI.esc(UI.industryTag(x))}</span>
         </a>`; }).join("")}</div>` : UI.stateMsg("No official trailers have been published yet.", false);
     }
     UI.mountFaSelect(main.querySelector("#trFilterHost .filter-select"),
@@ -101,7 +101,7 @@
      the baked official trailer object (null when none exists).
      Industry tag for cards: "World Cinema" for world-industry titles
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
-  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  const tagFor = (x) => UI.industryTag(x);
   const today = new Date().toISOString().slice(0, 10);
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   const items = Object.values(window.FA_PUBLISHED || {})
@@ -116,9 +116,12 @@
     const list = items.filter(x => {
       if (f === "movies") return x.type === "movie";
       if (f === "tv") return x.type === "tv";
-      if (f === "bollywood") return x.industry === "bollywood";
-      if (f === "pakistani") return x.industry === "pakistani";
-      if (f === "international") return x.industry === "world";
+      /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
+         titles (canonical UI.industryOf), World Cinema = only
+         international. */
+      if (f === "bollywood") return UI.industryOf(x) === "bollywood";
+      if (f === "pakistani") return UI.industryOf(x) === "pakistani";
+      if (f === "international") return UI.industryOf(x) === "world";
       if (f === "month") return (x._date || "").slice(0, 7) === ym;
       return true;
     });
@@ -165,6 +168,7 @@
 
   render();
 })();
+
 
 
 

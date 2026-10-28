@@ -10,7 +10,7 @@
    (All / Movies / TV Shows) — never a native <select> popup. */
 (async function () {
   const CATS = {
-    bollywood: { label: "Bollywood", desc: "Hindi cinema — the biggest stars, openings and collections." },
+    bollywood: { label: "Bollywood", desc: "Indian cinema — Hindi, Tamil, Telugu, Malayalam, Kannada, Punjabi, Bengali, Marathi and every Indian language: the biggest stars, openings and collections." },
     world: { label: "World Cinema", desc: "International films and series from around the world." },
     pakistani: { label: "Pakistani", desc: "The latest Pakistani films and dramas, newest first." },
   };
@@ -63,14 +63,17 @@
   /* Industry tag for cards: UI.industryTag now returns "World Cinema" for
      world-industry titles (fixed in ui.js) — the explicit label is kept
      as a harmless guard. */
-  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  const tagFor = (x) => UI.industryTag(x);
   /* Freshness first (site rule: nothing older than 3 months on listings);
      fall back to the full published category pool so the page is never
      empty while published titles exist for this industry. Released
      titles only — future-dated titles live on /upcoming. */
   const pool = (() => {
     const today = new Date().toISOString().slice(0, 10);
-    const inCategory = published().filter(x => x && x.id && x.industry === cat
+    /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
+       titles (canonical UI.industryOf), World Cinema = only
+       international — never the baked `industry` alone. */
+    const inCategory = published().filter(x => x && x.id && UI.industryOf(x) === cat
       && dateOf(x) && dateOf(x) <= today && x.date_kind !== "festival");
     const fresh = inCategory.filter(UI.isFresh);
     return (fresh.length ? fresh : inCategory).sort(byNewest);
@@ -113,6 +116,7 @@
 
   render();
 })();
+
 
 
 

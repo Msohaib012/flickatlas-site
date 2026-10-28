@@ -28,6 +28,22 @@ figure the next morning, so this is the only way a gap ever fills.
     {} so a stale live figure can never linger and drag a past day's
     mean down.
 
+PASS 2 — WORLDWIDE GAP-FILL (added 2026-10-28): the loop above only
+ever touches titles that ALREADY have day-wise rows, so a title with
+no rows at all — every international title Sacnilk never covers
+(A Talent for Murder, Love Language, Klara and the Sun, Wildwood,
+Wicker, ...) — could never gain a figure, and the live multisource
+output proves it: 18/18 titles carry a Sacnilk figure, Tavily 0.
+Pass 2 queries released movies with NO day-wise rows for a reported
+WORLDWIDE (or domestic, where that is all that exists) theatrical
+total and stages it as out/boxoffice-staging/tavily-worldwide.json
+for scripts/worldwide_boxoffice.py. Worldwide totals are NEVER
+written to tavily.json / day-wise — different number, different file.
+Acceptance is strict (pick_worldwide): the $ figure must sit in a
+segment that says worldwide/global/total, must be a plausible
+theatrical total, and must not be a budget figure. If uncertain,
+write NOTHING for that movie — never invent.
+
 Acceptance rules (a figure is written ONLY when ALL hold):
   * the result is a day-wise block/table/prose for THIS movie;
   * the figure is tied to TODAY (a today date string in the result, or
@@ -276,6 +292,60 @@ def pick_figure(results, expected_day, today, today_strs,
     return None, None, "no usable figure"
 
 
+USD_RE = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)\s*(million|billion)?", re.IGNORECASE)
+SCOPE_RE = re.compile(r"\b(worldwide|global|domestic|international|budget)\b", re.IGNORECASE)
+
+
+def pick_worldwide(results, today, today_strs):
+    """Pick a reported worldwide theatrical total (USD) from Tavily
+    results. Returns (usd, source_url, why) or (None, None, why).
+
+    Strict by design — the $ figure must be GOVERNED by a worldwide /
+    global label: the nearest scope word (worldwide / global / domestic /
+    international / budget) in the 80 chars before the figure must be
+    worldwide or global. A figure governed by domestic / international /
+    budget is rejected (verified failure 2026-10-28: a naive
+    'worldwide anywhere in the window' rule took Wildwood's DOMESTIC
+    $13.7M for its worldwide $16.6M, because 'Worldwide $16.6M' sat
+    48 chars after the domestic figure). A figure with NO scope word
+    before it is accepted only when 'worldwide'/'global' appears in its
+    +/-80-char window and the window contains no domestic/international
+    mention at all. Bare 'Box office $X' totals with no worldwide label
+    are REJECTED — the seed (scripts/worldwide-seed.json) covers those;
+    Tavily is a bonus path, never a guesser. If uncertain, NOTHING is
+    returned."""
+    for res in results:
+        url = res.get("url", "") or ""
+        title = res.get("title", "") or ""
+        content = res.get("content", "") or ""
+        if any(b in url.lower() for b in BLOCKED_DOMAINS):
+            continue
+        blob_low = (title + "\n" + content).lower()
+        if "box office" not in blob_low and "gross" not in blob_low:
+            continue
+        for m in USD_RE.finditer(content):
+            try:
+                num = float(m.group(1).replace(",", ""))
+            except ValueError:
+                continue
+            unit = (m.group(2) or "").lower()
+            usd = num * (1e9 if unit == "billion" else 1e6 if unit == "million" else 1)
+            if not (10000 <= usd <= 3000000000):
+                continue
+            before = content[max(0, m.start() - 80):m.start()]
+            scopes = list(SCOPE_RE.finditer(before))
+            if scopes:
+                nearest = scopes[-1].group(1).lower()
+                if nearest in ("worldwide", "global"):
+                    return int(round(usd)), url, f"worldwide total from {url}"
+                continue  # governed by domestic / international / budget
+            window = content[max(0, m.start() - 80):min(len(content), m.end() + 80)].lower()
+            if ("worldwide" in window or "global" in window) and \
+                    "domestic" not in window and "international" not in window:
+                return int(round(usd)), url, f"worldwide total from {url}"
+    return None, None, "no usable worldwide total"
+
+
 def main():
     ap = argparse.ArgumentParser(
         description="Tavily box-office gap-filler: refill + update "
@@ -460,6 +530,72 @@ def main():
         print(f"tavily: {tid} {title}: Day {expected_day} "
               f"Rs {cr:.2f} Cr (via {slot}) — {why}")
 
+    # PASS 2 — WORLDWIDE GAP-FILL (2026-10-28): titles with NO day-wise
+    # rows at all. See module docstring. Writes tavily-worldwide.json;
+    # never touches tavily.json / day-wise.
+    ww_staging = {}
+    n_ww_queried = n_ww_written = 0
+    for tid_s, ent in sorted(pub.items(),
+                          key=lambda kv: int(kv[0]) if str(kv[0]).isdigit() else 0):
+        if (daywise.get(tid_s) or []):
+            continue
+        ent = ent or {}
+        if ent.get("type", "movie") != "movie":
+            continue
+        if ent.get("date_kind") == "festival":
+            continue
+        rel = (ent.get("release_date") or "").strip()
+        if not rel or rel > today.isoformat():
+            continue
+        try:
+            age = (today - date.fromisoformat(rel)).days
+        except ValueError:
+            continue
+        if age > 90:
+            continue
+        title = ent.get("title") or ""
+        if not title:
+            continue
+        query = f"{title} box office worldwide total gross"
+        n_ww_queried += 1
+        try:
+            if args.fixture_dir:
+                with open(os.path.join(args.fixture_dir,
+                                       f"ww-{tid_s}.json"),
+                          encoding="utf-8") as f:
+                    data = json.load(f)
+                slot = "fixture"
+            else:
+                data, slot = tavily_search(query, keys)
+                time.sleep(1)  # politeness between searches
+        except FileNotFoundError:
+            print(f"tavily-ww: {tid_s} {title}: no fixture — skipped")
+            continue
+        except Exception as e:
+            print(f"tavily-ww: {tid_s} {title}: search failed "
+                  f"({type(e).__name__}) — skipped")
+            continue
+        results = data.get("results", []) if isinstance(data, dict) else []
+        usd, url, why = pick_worldwide(results, today, today_strs)
+        if usd is None:
+            print(f"tavily-ww: {tid_s} {title}: no usable worldwide total — {why}")
+            continue
+        ww_staging[str(tid_s)] = {"total_usd": usd, "scope": "worldwide",
+                                   "source": url, "as_of": today.isoformat()}
+        n_ww_written += 1
+        print(f"tavily-ww: {tid_s} {title}: ${usd:,} worldwide (via {slot}) — {why}")
+    print(f"tavily-ww: queried {n_ww_queried} movie(s), wrote "
+          f"{n_ww_written} worldwide total(s)")
+    if args.dry_run:
+        print("tavily-ww: DRY-RUN — staging not written")
+        print(json.dumps(ww_staging, ensure_ascii=False, indent=2,
+                         sort_keys=True))
+    else:
+        ww_path = os.path.join(staging_dir, "tavily-worldwide.json")
+        ww_changed = write_json_if_changed(ww_path, ww_staging)
+        print(f"tavily-ww: staging {ww_path} written: {ww_changed} "
+              f"({len(ww_staging)} movie(s))")
+
     print(f"tavily: queried {n_queried} movie(s), wrote "
           f"{n_written} figure(s) (today + yesterday gap-fills)")
     if args.dry_run:
@@ -476,4 +612,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 

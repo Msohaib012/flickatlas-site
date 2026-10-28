@@ -8107,7 +8107,7 @@ window.FA_ARTICLES = {
         "XLOV"
       ]
     },
-    "images": [],
+    "images": [{"url": "https://www.allkpop.com/upload/2026/10/content/270028/1793075324-xlov-i-concept-header.jpg", "caption": "XLOV's Hyun Sidelined From Upcoming Showcase Following Practice Leg Injury", "source": "allkpop"}],
     "published": "Tue, 27 Oct 2026 04:20:00 EDT"
   },
   "121iziu": {
@@ -8923,7 +8923,7 @@ window.FA_ARTICLES = {
         "Reasonable Doubt"
       ]
     },
-    "images": [],
+    "images": [{"url": "https://metro.co.uk/wp-content/uploads/2026/10/SEC_318363748-5b21_1793093070.jpg?quality=90&amp;strip=all&amp;w=1200&amp;h=630&amp;crop=1", "caption": "Jay-Z Officially Confirmed to Headline the 2027 Super Bowl Halftime Show", "source": "Metro"}],
     "published": "2026-10-27T07:17:54Z"
   },
   "1qpxchr": {
@@ -14018,3 +14018,4 @@ window.FA_ARTICLES = {
     "published": "Wed, 28 Oct 2026 15:19:51 GMT"
   }
 };
+

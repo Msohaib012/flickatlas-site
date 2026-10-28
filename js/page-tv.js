@@ -45,7 +45,7 @@
      and `type` ("movie" | "tv"). No live TMDB calls anywhere.
      Industry tag for cards: "World Cinema" for world-industry titles
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
-  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  const tagFor = (x) => UI.industryTag(x);
   const dateOf = x => x.first_air_date || "";
   /* Homepage rule (correction 9, as amended 2026-10-26 by user order):
      recency-sorted everywhere, newest first — FIRST-AIR DATE desc (the
@@ -85,10 +85,13 @@
   function render() {
     const year = String(new Date().getFullYear());
     const items = pool.filter(x => {
-      if (f === "bollywood" && x.industry !== "bollywood") return false;
-      if (f === "international" && x.industry !== "world") return false;
-      if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
-      if (f === "lollywood" && x.industry !== "pakistani") return false;
+      /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
+         titles (canonical UI.industryOf), World Cinema = only
+         international. */
+      if (f === "bollywood" && UI.industryOf(x) !== "bollywood") return false;
+      if (f === "international" && UI.industryOf(x) !== "world") return false;
+      if (f === "hollywood" && !(UI.industryOf(x) === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
+      if (f === "lollywood" && UI.industryOf(x) !== "pakistani") return false;
       if (f === "year" && (x.first_air_date || "").slice(0, 4) !== year) return false;
       /* "Top Rated" is a sort-by-rating view, not a gate: the old gate
          (rating >= 7.5 AND vote_count >= 200) could never match published
@@ -119,6 +122,7 @@
 
   render();
 })();
+
 
 
 

@@ -242,6 +242,67 @@ def extract_page_image(html, base_url):
     return url
 
 
+def fetch_page_image(url):
+    """Image-only retry (2026-10-28 images fix): fetch_article_text can
+    miss a page's og:image on a transient failure, and the article then
+    ships with images: [] — its homepage/news cards render with no
+    thumbnail at all (e.g. the 2026-10-27 Jay-Z / Metro story, whose
+    og:image was live all along). Called only when page_image is empty,
+    so it costs nothing on the normal path: up to 2 direct attempts
+    with full browser headers, og:image / twitter:image only."""
+    if not url:
+        return ""
+    headers = {"User-Agent": BROWSER_UA,
+               "Accept": "text/html,application/xhtml+xml",
+               "Accept-Language": "en-US,en;q=0.9"}
+    for attempt in (1, 2):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=20) as r:
+                raw = r.read().decode("utf-8", "ignore")
+            image = extract_page_image(raw, url)
+            if image:
+                return image
+        except Exception as e:
+            print(f"  fetch_page_image {url[:60]} attempt {attempt}: {e}")
+    # Last resort: the r.jina.ai reader mirror (already used for article
+    # text). Some outlets 403 urllib outright (Metro did on 2026-10-28)
+    # while the mirror renders fine. Its markdown carries the article's
+    # images as ![alt](url) — take the first same-host content image,
+    # skipping favicons, author headshots and logos. A CAPTCHA wall
+    # (allkpop, 2026-10-28) yields nothing usable, and "" is returned
+    # rather than an invented URL.
+    try:
+        host = urllib.parse.urlparse(url).netloc.lower()
+        req = urllib.request.Request("https://r.jina.ai/" + url,
+                                     headers={"User-Agent": BROWSER_UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            md = r.read().decode("utf-8", "ignore")
+        for m in re.finditer(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", md):
+            cand = m.group(1).strip()
+            low = cand.lower()
+            if urllib.parse.urlparse(cand).netloc.lower() != host:
+                continue
+            if not re.search(r"\.(jpe?g|png|webp)(\?|$)", low):
+                continue
+            if any(bad in low for bad in ("favicon", "headshot", "avatar", "logo")):
+                continue
+            return cand
+    except Exception as e:
+        print(f"  fetch_page_image jina {url[:60]}: {e}")
+    return ""
+
+
+# ---------------------------------------------------------------- quality gate
+# Google safety: mass-published thin AI content is treated as scaled-content
+# spam (March 2024 core update). The pipeline therefore publishes FEW, LONG,
+# fact-rich articles. A draft must clear every bar below to go live.
+MIN_BODY_WORDS = 300
+MIN_SECTIONS = 3
+MIN_FACTS = 4
+
+
+
 def fetch_article_text(url):
     """Direct fetch with a browser UA; r.jina.ai fallback.
     Returns (text, image_url): the article text (or '') and the source
@@ -1079,6 +1140,8 @@ def main():
         url = item.get("url") or ""
         print(f"[{len(articles)+1}/{batch_size}] {title[:80]}")
         text, page_image = fetch_article_text(url)
+        if not page_image:
+            page_image = fetch_page_image(url)
         if len(text) < 400:
             print("  source unreadable, skipping (no Gemini call, quota saved)")
             skipped.append({"url": url, "reason": "source-unreadable"})
@@ -1240,6 +1303,7 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
 

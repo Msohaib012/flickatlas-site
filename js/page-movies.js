@@ -7,7 +7,14 @@
    entries carry a baked `industry` (bollywood | pakistani | world);
    "US Films" is the US-English slice of world, "Lollywood" is the
    Pakistani industry. Genres ARE baked into published entries (rich
-   fields), so the genre select is populated from the pool. */
+   fields), so the genre select is populated from the pool.
+   TRENDING MODE (2026-10-28, user order): `?f=trending` is a dedicated
+   view — the homepage "Trending Worldwide" See All lands here. It shows
+   ONLY window.FA_TRENDING (TMDB /trending/movie/week, top 20, in rank
+   order) matched to published movies with a poster. No year gate, no
+   industry gate, no recency/popularity re-sort: the order IS the TMDB
+   trending rank. When FA_TRENDING is missing/empty the page says so
+   honestly — it never falls back to the full catalogue. */
 (async function () {
   UI.mountChrome("/movies");
   const main = document.getElementById("app");
@@ -20,12 +27,14 @@
   const MAIN_FILTERS = [["bollywood", "Bollywood"], ["international", "World Cinema"]];
   const MORE_FILTERS = [["all", "All"], ["hollywood", "US Films"], ["lollywood", "Lollywood"], ["top", "Top Rated"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
+  const TRENDING_FILTER = "trending"; /* dedicated view, not a chip */
   /* The Category dropdown covers every f value, so the old ?seeall=1
      entry split (chips vs dropdown) is gone — one control always. */
   let f = UI.getParam("f", "bollywood");
   let sort = UI.getParam("s", "recent");
   if (!["popular", "recent"].includes(sort)) sort = "recent";
-  if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
+  if (!(f === TRENDING_FILTER || FILTERS.some(([k]) => k === f))) f = "bollywood";
+  const isTrending = () => f === TRENDING_FILTER;
   let g = UI.getParam("g", "");
   /* TV order 2026-10-27: the hub lists movies AND TV series, with a
      Type dropdown (Movies / TV Series / All). Default is Movies, so
@@ -36,8 +45,8 @@
   if (!["movie", "tv", "all"].includes(t)) t = "movie";
 
   main.innerHTML = `<div class="wrap">
-    <div class="page-hero"><h1>Movies</h1>
-      <p>Filter movies and TV series by industry, year or rating; open a title for details.</p></div>
+    <div class="page-hero"><h1 id="moviesTitle">Movies</h1>
+      <p id="moviesSub">Filter movies and TV series by industry, year or rating; open a title for details.</p></div>
     <div id="chipHost"><div class="listing-select-row">
         <div class="filter-select" role="group" aria-labelledby="catSelectLabel"><span class="filter-select-label" id="catSelectLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="catTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="catOptions" aria-labelledby="catSelectLabel catValue"><span class="fa-select-value" id="catValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="catOptions" role="listbox" aria-labelledby="catSelectLabel" hidden></div></div></div>
         <div class="filter-select" role="group" aria-labelledby="yearSelectLabel"><span class="filter-select-label" id="yearSelectLabel">Year</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="yearTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="yearOptions" aria-labelledby="yearSelectLabel yearValue"><span class="fa-select-value" id="yearValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="yearOptions" role="listbox" aria-labelledby="yearSelectLabel" hidden></div></div></div>
@@ -76,7 +85,7 @@
      and `type` ("movie" | "tv"). No live TMDB calls anywhere.
      Industry tag for cards: "World Cinema" for world-industry titles
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
-  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  const tagFor = (x) => UI.industryTag(x);
   const todayStr = () => new Date().toISOString().slice(0, 10);
   const published = () => Object.values(window.FA_PUBLISHED || {});
   const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
@@ -139,19 +148,72 @@
       render();
     });
 
+  /* Trending pool: FA_TRENDING order (TMDB /trending/movie/week) matched
+     to published movies with a poster. Deliberately NOT release-gated:
+     a title trending this week belongs here even if it released months
+     ago or is still upcoming (TMDB trending includes both — same
+     eligibility as the homepage rail in page-index.js). The list is
+     only as long as the overlap between FA_TRENDING and FA_PUBLISHED;
+     the seeder (title-seed.py) now prioritises trending titles so the
+     overlap grows a few titles per run instead of starving in the
+     general 4/day backfill. */
+  const trendingPool = (Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : [])
+    .map(id => (window.FA_PUBLISHED || {})[String(id)])
+    .filter(x => x && x.id && x.type === "movie" && x.poster_path);
+
+  const heroTitle = main.querySelector("#moviesTitle");
+  const heroSub = main.querySelector("#moviesSub");
+  function syncHero() {
+    if (isTrending()) {
+      heroTitle.textContent = "Trending Worldwide";
+      heroSub.textContent = "This week's most-trending movies, worldwide — refreshed daily from TMDB. Only titles trending right now appear here.";
+    } else {
+      heroTitle.textContent = "Movies";
+      heroSub.textContent = "Filter movies and TV series by industry, year or rating; open a title for details.";
+    }
+  }
+  /* Year + Sort do not apply to the trending rank order, so hide them
+     in trending mode (Genre still applies, preserving rank order). */
+  function syncTrendingUI() {
+    const show = !isTrending();
+    [filterHosts[1], filterHosts[2]].forEach(host => {
+      if (host) host.style.display = show ? "" : "none";
+    });
+    syncHero();
+  }
+
   function render() {
+    syncTrendingUI();
+    if (isTrending()) {
+      /* Trending-only: rank order from FA_TRENDING, genre filter only.
+         NO fallback to the full catalogue — an empty/missing trending
+         list renders an honest empty state (same rule as the homepage
+         rail, user order 2026-10-26). */
+      const items = trendingPool.filter(x =>
+        !g || (Array.isArray(x.genres) && x.genres.includes(g)));
+      grid.innerHTML = items.map(x =>
+        `<div class="fcell" data-fitem>${UI.posterCard(x, "movie", tagFor(x))}</div>`).join("");
+      fcount.textContent = `${items.length} trending movie${items.length === 1 ? "" : "s"} · in TMDB trending order · refreshed daily`;
+      emptyHost.innerHTML = items.length ? ""
+        : UI.stateMsg(trendingPool.length
+          ? "No trending titles match this genre right now."
+          : "Nothing is trending right now — check back soon.", false);
+      return;
+    }
     const items = pool.filter(x => {
       if (y && dateOf(x).slice(0, 4) !== y) return false;
       if (t === "movie" && typeOf(x) !== "movie") return false;
       if (t === "tv" && typeOf(x) !== "tv") return false;
-      /* TV series are not split by industry (same rule as the
-         homepage): the industry gates below apply to movies only. */
-      if (typeOf(x) !== "tv") {
-        if (f === "bollywood" && x.industry !== "bollywood") return false;
-        if (f === "hollywood" && !(x.industry === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
-        if (f === "international" && x.industry !== "world") return false;
-        if (f === "lollywood" && x.industry !== "pakistani") return false;
-      }
+      /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
+         titles (canonical UI.industryOf), World Cinema = only
+         international — the gates apply to TV series too. (The old
+         "TV series are not split by industry" bypass let Bollywood+TV
+         show Pakistani dramas — the same bug the homepage fixed on
+         2026-10-27.) "US Films" stays the US-English slice of World. */
+      if (f === "bollywood" && UI.industryOf(x) !== "bollywood") return false;
+      if (f === "hollywood" && !(UI.industryOf(x) === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
+      if (f === "international" && UI.industryOf(x) !== "world") return false;
+      if (f === "lollywood" && UI.industryOf(x) !== "pakistani") return false;
       /* "Top Rated" is a sort-by-rating view, not a gate: the old gate
          (rating >= 7.5 AND vote_count >= 300) could never match published
          titles (vote_count 2-3), so the filter always showed empty. */
@@ -174,12 +236,12 @@
      (Bollywood / World Cinema / All / US Films / Lollywood / Top Rated),
      so no separate industry chips are needed any more. */
   function setFilter(key) {
-    f = FILTERS.some(([candidate]) => candidate === key) ? key : "bollywood";
+    f = (key === TRENDING_FILTER || FILTERS.some(([candidate]) => candidate === key)) ? key : "bollywood";
     UI.setParam("f", f === "bollywood" ? "" : f);
     render();
   }
   window.addEventListener("popstate", () => {
-    f = FILTERS.some(([candidate]) => candidate === UI.getParam("f", "bollywood")) ? UI.getParam("f", "bollywood") : "bollywood";
+    f = (UI.getParam("f", "bollywood") === TRENDING_FILTER || FILTERS.some(([candidate]) => candidate === UI.getParam("f", "bollywood"))) ? UI.getParam("f", "bollywood") : "bollywood";
     g = UI.getParam("g", "");
     if (g && !genreList.includes(g)) g = ""; /* unknown genre -> All */
     sort = UI.getParam("s", "recent"); if (!["popular", "recent"].includes(sort)) sort = "recent";
@@ -196,6 +258,7 @@
 
   render();
 })();
+
 
 
 

@@ -58,7 +58,7 @@
     const map = new Map();
     const pub = window.FA_PUBLISHED || {};
     for (const t of Object.values(pub)) {
-      if (!t || t.type !== "tv" || (t.industry || "") !== "pakistani") continue;
+      if (!t || t.type !== "tv" || UI.industryOf(t) !== "pakistani") continue;
       const name = String(t.title || "").trim();
       if (name) map.set(normName(name), name);
     }
@@ -92,7 +92,7 @@
     const meta = [air, e.channel].filter(Boolean).join(" · ");
     const thumb = e.thumb || "";
     return `<a class="ep-row" href="${href}">
-      <span class="ep-thumb">${thumb ? `<img src="${UI.esc(thumb)}" alt="${UI.esc(title)}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+      <span class="ep-thumb">${thumb ? UI.epThumbImg(thumb, title) : `<span class="noimg"><span>EP</span></span>`}</span>
       <span class="ep-info"><b>${UI.esc(title)}</b><span>${UI.esc(meta)}</span></span>
     </a>`;
   }
@@ -282,3 +282,4 @@
     host.innerHTML = UI.stateMsg("Could not load episode guides. Please try again.");
   }
 })();
+

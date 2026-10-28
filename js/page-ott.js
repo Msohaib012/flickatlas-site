@@ -9,7 +9,11 @@
    as /box-office (Bollywood = industry "bollywood" OR origin_country
    includes "IN"; World Cinema = industry "world" AND NOT Indian).
    Type filter (?t=, TV order 2026-10-27): Movies / TV Series / All —
-   default Movies; TV series are not split by industry. Both filters
+   default Movies. Industry rule 2026-10-28: TV follows the SAME
+   industry gate as movies (Bollywood = all India-related, World
+   Cinema = only international. Pakistani dramas NEVER appear on
+   OTT (owner correction 2026-10-28 21:10: dramas are a separate
+   category, YouTube-sourced — OTT carries only movies + TV series). Both filters
    are .fa-select in-page dropdowns (See All filters are dropdowns,
    never a native <select> popup). Each card shows the OTT platform
    logo + names and the date — the confirmed streaming date where TMDB
@@ -31,24 +35,30 @@
   let f = UI.getParam("f", "all");
   if (!["bollywood", "international"].includes(f)) f = "all";
   /* TV order 2026-10-27: Type filter (?t=), default Movies — the
-     homepage OTT See All link carries ?t=. TV series are not split by
-     industry (same rule as the homepage). */
+     homepage OTT See All link carries ?t=. Industry rule 2026-10-28:
+     TV follows the SAME industry gate as movies (see inFilter);
+     the 2026-10-27 "TV ignores industry" rule is superseded. */
   let t = UI.getParam("t", "movie");
   if (!["movie", "tv", "all"].includes(t)) t = "movie";
-  const isIndian = (x) => (x.origin_country || []).includes("IN");
-  /* Bollywood and World Cinema are mutually exclusive: an Indian film
-     belongs in Bollywood even when the seeder filed it under industry
-     "world", so World Cinema excludes Indian titles too (same rule as
-     /box-office). */
+  /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
+     titles, World Cinema = only international — canonical
+     UI.industryOf(). TV follows the SAME gate as movies.
+     Owner correction 2026-10-28 21:10: Pakistani dramas are a SEPARATE
+     category (YouTube-sourced), NOT TV series — they NEVER appear on
+     OTT, not even under f=all. Excluded CATEGORICALLY here, not via
+     providers or the industry gate: all 15 catalogue "TV" entries
+     today are Pakistani dramas. */
   const inFilter = (x) => {
+    if (UI.industryOf(x) === "pakistani") return false;
     if (t === "movie" && (x.type || "movie") !== "movie") return false;
     if (t === "tv" && (x.type || "movie") !== "tv") return false;
-    if ((x.type || "movie") === "tv") return true; /* TV ignores industry */
     return f === "all" ? true
-      : f === "bollywood" ? (x.industry === "bollywood" || isIndian(x))
-      : (x.industry === "world" && !isIndian(x));
+      : f === "bollywood" ? UI.industryOf(x) === "bollywood"
+      : UI.industryOf(x) === "world";
   };
-  const tagFor = (x) => (x && x.industry === "world") ? "World Cinema" : UI.industryTag(x);
+  /* Local tag dropped 2026-10-28 (merge): the fixed UI.industryTag()
+     now labels Indian titles correctly, so the canonical tag is used. */
+  const tagFor = (x) => UI.industryTag(x);
   const today = new Date().toISOString().slice(0, 10);
 
   /* Groups: FA_OTT first; derive the same groups from FA_PUBLISHED
@@ -83,11 +93,21 @@
     date: g.date,
     dateKind: g.date_kind,
   });
-  const groupHtml = (title, note, list) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
+  /* Empty states name the active filters (2026-10-28: a bare
+     "Nothing reported here yet" never said which Industry/Type was
+     empty). */
+  const emptyNote = (coming) => {
+    const typeNoun = t === "tv" ? "TV series" : t === "all" ? "titles" : "movies";
+    const indNoun = f === "all" ? "any industry" : f === "bollywood" ? "Bollywood" : "World Cinema";
+    return coming
+      ? `No upcoming OTT releases reported for ${indNoun} ${typeNoun} yet — new titles join automatically when streaming availability is confirmed.`
+      : `No ${typeNoun} streaming on OTT for ${indNoun} yet — new titles join automatically when streaming availability is confirmed.`;
+  };
+  const groupHtml = (title, note, list, coming) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
     <p class="ott-group-note">${note}</p>
     ${list.length
       ? `<div class="grid">${list.map(cardHtml).join("")}</div>`
-      : `<p class="prov-note">Nothing reported here yet — new titles join automatically when streaming availability is confirmed.</p>`}
+      : `<p class="prov-note">${emptyNote(coming)}</p>`}
   </div>`;
 
   const nowList = entriesFor(groups.now);
@@ -97,8 +117,8 @@
     const now = entriesFor(groups.now);
     const coming = entriesFor(groups.coming);
     main.querySelector("#ottGroups").innerHTML =
-      groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", now)
-      + groupHtml("Coming to OTT", "Streaming date where confirmed by TMDB, otherwise the title's release date — the platform is announced.", coming);
+      groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", now, false)
+      + groupHtml("Coming to OTT", "Streaming date where confirmed by TMDB, otherwise the title's release date — the platform is announced.", coming, true);
   }
 
   main.innerHTML = `<div class="wrap">
@@ -109,8 +129,8 @@
       <div class="filter-select" role="group" aria-labelledby="typeSelectLabel"><span class="filter-select-label" id="typeSelectLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="typeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="typeOptions" aria-labelledby="typeSelectLabel typeValue"><span class="fa-select-value" id="typeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="typeOptions" role="listbox" aria-labelledby="typeSelectLabel" hidden></div></div></div>
     </div></div>
     <div id="ottGroups">
-    ${groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", nowList)}
-    ${groupHtml("Coming to OTT", "Streaming date where confirmed by TMDB, otherwise the title's release date — the platform is announced.", comingList)}
+    ${groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", nowList, false)}
+    ${groupHtml("Coming to OTT", "Streaming date where confirmed by TMDB, otherwise the title's release date — the platform is announced.", comingList, true)}
     </div>
     <p class="prov-note">FlickAtlas does not stream video and does not link to any platform. Provider names and logos come from TMDB watch/providers data for published titles only; availability is per-title and changes over time.</p>
   </div>`;
@@ -122,4 +142,5 @@
     [{ value: "movie", label: "Movies" }, { value: "tv", label: "TV Series" }, { value: "all", label: "All" }],
     t, (v) => { t = v; UI.setParam("t", t === "movie" ? "" : t); renderGroups(); });
 })();
+
 

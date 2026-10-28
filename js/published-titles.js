@@ -2078,7 +2078,20 @@ window.FA_PUBLISHED = {
     "certification": "",
     "release_date": "2026-10-28",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1629064": {
     "id": 1629064,
@@ -4416,5 +4429,937 @@ window.FA_PUBLISHED = {
       "Nawaz Khan"
     ],
     "providers": []
+  },
+  "79352": {
+    "id": 79352,
+    "type": "tv",
+    "title": "Sacred Games",
+    "poster_path": "/uEbNtFbK4At9WBDGap23lt1qO9n.jpg",
+    "backdrop_path": "/qtac9X9lSLqZFbxS71347N8MiID.jpg",
+    "vote_average": 7.775,
+    "vote_count": 267,
+    "overview": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "tagline": "The Righteous. The Ruthless. Everyone wants to play.",
+    "status": "Canceled",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "hi",
+      "mr",
+      "pa"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2018-07-06",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 16
+  },
+  "84105": {
+    "id": 84105,
+    "type": "tv",
+    "title": "Mirzapur",
+    "poster_path": "/p0qM8hhlMF5DuxHBzl2EZR6TehX.jpg",
+    "backdrop_path": "/3dV7pWAdwIPKR2lMIACMfObXdgK.jpg",
+    "vote_average": 8.0,
+    "vote_count": 197,
+    "overview": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir who will stop at nothing to inherit his father's legacy. An incident at a wedding procession forces him to cross paths with Ramakant Pandit, an upstanding lawyer, and his sons, Guddu and Bablu. It snowballs into a game of ambition, power and greed that threatens the fabric of this lawless city.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2018-11-15",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 29
+  },
+  "101352": {
+    "id": 101352,
+    "type": "tv",
+    "title": "Panchayat",
+    "poster_path": "/8ivTX5q2otqXvH815BcOhxVkTPW.jpg",
+    "backdrop_path": "/iZ8EtGAqKWZdRJPzWfFseNfVxjh.jpg",
+    "vote_average": 8.2,
+    "vote_count": 159,
+    "overview": "Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh. Stuck between crazy villagers and a difficult village lifestyle Abhishek starts his job with the sole motivation of getting out of there as soon as possible, for which he even prepares for CAT.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2020-03-05",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 5,
+    "number_of_episodes": 32
+  },
+  "93352": {
+    "id": 93352,
+    "type": "tv",
+    "title": "The Family Man",
+    "poster_path": "/tE1NUJqw9gV6AVjQ1GTK78LbWJ9.jpg",
+    "backdrop_path": "/eEzKigDI64OomZV6VTJvoPGmVu1.jpg",
+    "vote_average": 7.718,
+    "vote_count": 209,
+    "overview": "The story of a middle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorists, he also has to protect his family from the impact of his secretive, high-pressure, and low paying job.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "ta",
+      "en"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2019-09-20",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 26
+  },
+  "111188": {
+    "id": 111188,
+    "type": "tv",
+    "title": "Scam 1992: The Harshad Mehta Story",
+    "poster_path": "/cBVPwBSVNSVtQocQfyHPFqoIohj.jpg",
+    "backdrop_path": "/tTYP1npvBU90NthceezScfXGiOl.jpg",
+    "vote_average": 8.3,
+    "vote_count": 160,
+    "overview": "Set in 1980's & 90's Bombay, Scam 1992 follows the life of Harshad Mehta - a stockbroker who single-handedly took the stock market to dizzying heights & his catastrophic downfall. Being directed by National Award-winning filmmaker Hansal Mehta, the series is based on journalist Debashis Basu & Sucheta Dalal's book \"The Scam\".",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "Risk Hai Toh Ishq Hai",
+    "status": "Ended",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "gu",
+      "hi"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "VI movies and tv",
+        "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2020-10-09",
+    "networks": [
+      "SonyLIV"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 10
+  },
+  "96677": {
+    "id": 96677,
+    "type": "tv",
+    "title": "Lupin",
+    "poster_path": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+    "backdrop_path": "/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+    "vote_average": 7.7,
+    "vote_count": 2739,
+    "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "Two Lupins. One too many.",
+    "status": "Returning Series",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2021-01-08",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 25
+  },
+  "120911": {
+    "id": 120911,
+    "type": "tv",
+    "title": "The Terminal List",
+    "poster_path": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+    "backdrop_path": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+    "vote_average": 8.0,
+    "vote_count": 1287,
+    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "tagline": "The mission isn't over.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2022-06-30",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 16
+  },
+  "105248": {
+    "id": 105248,
+    "type": "tv",
+    "title": "Cyberpunk: Edgerunners",
+    "poster_path": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "backdrop_path": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+    "vote_average": 8.505,
+    "vote_count": 2100,
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "JP",
+      "PL",
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Crime"
+    ],
+    "tagline": "New legends. Same Night City.",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP",
+      "PL",
+      "US"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2022-09-13",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 20
+  },
+  "220542": {
+    "id": 220542,
+    "type": "tv",
+    "title": "The Apothecary Diaries",
+    "poster_path": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "vote_average": 8.7,
+    "vote_count": 689,
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2023-10-22",
+    "networks": [
+      "Nippon TV",
+      "RAB",
+      "TVI",
+      "JRT",
+      "YBC"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 60
+  },
+  "119051": {
+    "id": 119051,
+    "type": "tv",
+    "title": "Wednesday",
+    "poster_path": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+    "backdrop_path": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+    "vote_average": 8.327,
+    "vote_count": 10926,
+    "overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Comedy"
+    ],
+    "tagline": "The wait has been torture.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2022-11-23",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 3,
+    "number_of_episodes": 16
+  },
+  "1245700": {
+    "id": 1245700,
+    "type": "movie",
+    "title": "Sector 36",
+    "poster_path": "/pbVcZmmcfqk35Q9hNxRoR7JPiVp.jpg",
+    "backdrop_path": "/as8fZuf0c8V2iMO43kw13hc6a9V.jpg",
+    "vote_average": 7.0,
+    "vote_count": 99,
+    "overview": "When several children disappear at the hands of a serial killer in Sector 36, a corrupt cop is forced to pursue the chilling case at all costs.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "Justice gets personal.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2024-08-18",
+    "runtime": 124
+  },
+  "1112426": {
+    "id": 1112426,
+    "type": "movie",
+    "title": "Stree 2",
+    "poster_path": "/nfnhwfUEFuSOxxf4jDdBlY6Lccw.jpg",
+    "backdrop_path": "/fVV0A67kDjTTQ4CvUn8LoletRmI.jpg",
+    "vote_average": 6.7,
+    "vote_count": 112,
+    "overview": "Following the events of 'Stree', the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and friends to save their town and loved ones.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "tagline": "Sarkatein Ka Aatank",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2024-08-15",
+    "runtime": 143
+  },
+  "687163": {
+    "id": 687163,
+    "type": "movie",
+    "title": "Project Hail Mary",
+    "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+    "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "vote_average": 8.633,
+    "vote_count": 8567,
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "tagline": "Believe in the Hail Mary.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "zh",
+      "en",
+      "ja",
+      "ru",
+      "es"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-03-15",
+    "runtime": 157
+  },
+  "1061474": {
+    "id": 1061474,
+    "type": "movie",
+    "title": "Superman",
+    "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+    "backdrop_path": "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+    "vote_average": 7.323,
+    "vote_count": 5679,
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "tagline": "Look up.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es",
+      "hr"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2025-07-09",
+    "runtime": 130
+  },
+  "1234821": {
+    "id": 1234821,
+    "type": "movie",
+    "title": "Jurassic World Rebirth",
+    "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+    "vote_average": 6.242,
+    "vote_count": 3893,
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "tagline": "A new era is born.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2025-06-23",
+    "runtime": 134
+  },
+  "911430": {
+    "id": 911430,
+    "type": "movie",
+    "title": "F1",
+    "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+    "backdrop_path": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+    "vote_average": 7.831,
+    "vote_count": 4919,
+    "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "Let's ride.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "da",
+      "en",
+      "de",
+      "es"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2025-06-25",
+    "runtime": 156
+  },
+  "1233413": {
+    "id": 1233413,
+    "type": "movie",
+    "title": "Sinners",
+    "poster_path": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+    "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+    "vote_average": 7.514,
+    "vote_count": 5444,
+    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "Dance with the devil.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "zh",
+      "en",
+      "yo"
+    ],
+    "certification": "",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2025-04-16",
+    "runtime": 138
   }
 };

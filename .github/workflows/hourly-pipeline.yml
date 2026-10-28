@@ -303,6 +303,10 @@ jobs:
             echo "tavily gated off this hour (runs 08:00/18:00 UTC)"
           fi
           python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
+          # Worldwide totals (2026-10-28): merges *-worldwide.json staging
+          # (Tavily pass 2) + scripts/worldwide-seed.json into
+          # js/worldwide-data.js. Never touches day-wise.
+          python3 scripts/worldwide_boxoffice.py --staging out/boxoffice-staging || echo "worldwide totals failed/missing, continuing"
 
       # --- 6b. Movie reviews (Gemini, gated) ---------------------------
       # Fills js/reviews-data.js for released movies that have no review
@@ -675,6 +679,7 @@ jobs:
             -d "{\"ref\":\"main\",\"inputs\":{\"pipeline_run_id\":\"${{ github.run_id }}\"}}")
           echo "watchdog dispatch HTTP $code"
           [ "$code" = "204" ] || echo "watchdog dispatch failed (non-fatal)"
+
 
 
 

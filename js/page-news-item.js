@@ -562,7 +562,7 @@
     const heroFb = epInfo.videoId ? `https://i.ytimg.com/vi/${epInfo.videoId}/mqdefault.jpg` : heroSrc;
     if (heroSrc) {
       epHeroHtml = `<figure class="content-card" style="margin-top:14px;background:var(--soft)">
-      <img src="${UI.esc(heroSrc)}" alt="${UI.esc((im0 && im0.caption) || article.headline || "")}" loading="eager" fetchpriority="high" decoding="async" style="width:100%;display:block;border-radius:12px;aspect-ratio:4/3;object-fit:cover;background:var(--soft)" onerror="if(!this.dataset.fb){this.dataset.fb=1;this.src='${UI.esc(heroFb)}';}else{this.style.display='none';}">
+      <img src="${UI.esc(UI.newsImg(heroSrc, 900))}" data-fb="${UI.esc(heroFb)}" alt="${UI.esc((im0 && im0.caption) || article.headline || "")}" loading="eager" fetchpriority="high" decoding="async" referrerpolicy="no-referrer" style="width:100%;display:block;border-radius:12px;aspect-ratio:4/3;object-fit:cover;background:var(--soft)" onerror="UI.imgFail(this)">
       <p class="img-credit">Image: ${UI.esc((im0 && im0.source) || epChannel || "YouTube")}</p>
     </figure>`;
     }
@@ -599,7 +599,7 @@
         const channel = (a.images && a.images[0] && a.images[0].source) || "";
         const date = (a.published || "").slice(0, 10);
         return `<a class="ep-row" href="${UI.newsItemPath(a)}">
-        <span class="ep-thumb">${img ? `<img src="${UI.esc(img)}" alt="${UI.esc(a.headline || "")}" loading="lazy" decoding="async" onerror="this.remove()">` : `<span class="noimg"><span>EP</span></span>`}</span>
+        <span class="ep-thumb">${img ? UI.epThumbImg(img, a.headline || "") : `<span class="noimg"><span>EP</span></span>`}</span>
         <span class="ep-info"><b>${UI.esc(a.headline || "")}</b>
         <span>${date ? UI.esc(UI.fmtDate(date)) : ""}${channel ? ` · ${UI.esc(channel)}` : ""}</span></span>
       </a>`;
@@ -614,11 +614,12 @@
      image and a small muted credit line under it, "Image: <source>".
      The credit uses the existing .img-credit class; the image sits in
      the existing .content-card. Articles with no images render exactly
-     as today — this block is empty. A failed image removes its whole
-     figure (no broken image, no orphan credit). */
+     as today — this block is empty. A failed image retries the
+     original once, then shows the branded FlickAtlas placeholder
+     (UI.imgFail) — never a broken icon, never a blank box. */
   const imagesHtml = isEpisode ? epHeroHtml : (article.images || []).filter(im => im && im.url).map((im, ii) => `
     <figure class="content-card" style="margin-top:14px">
-      <img src="${UI.esc(UI.newsImg(im.url, 720))}" srcset="${UI.esc(UI.newsImg(im.url, 400))} 400w, ${UI.esc(UI.newsImg(im.url, 720))} 720w" sizes="(max-width:640px) 100vw, 720px" alt="${UI.esc(im.caption || article.headline || "")}" ${ii === 0 ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"'} decoding="async" style="max-width:100%;border-radius:12px" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='${UI.esc(im.url)}'">
+      ${UI.newsThumbImg(im.url, 720, { srcset: true, sizes: "(max-width:640px) 100vw, 720px", loading: ii === 0 ? "eager" : "lazy", fetchpriority: ii === 0 ? "high" : "", alt: im.caption || article.headline || "", extra: 'style="max-width:100%;border-radius:12px"' })}
       ${im.caption ? `<p class="article-summary" style="margin-top:8px">${UI.esc(im.caption)}</p>` : ""}
       <p class="img-credit">Image: ${UI.esc(im.source || "TMDB")}</p>
     </figure>`).join("");
@@ -685,79 +686,9 @@
       ...(article.dek ? { "description": article.dek.slice(0, 200) } : {}) }
   });
 
-  /* Top Searches (keywords round 2026-10-28): the phrases people
-     actually search for THIS story — built ONLY from the article's own
-     entities (article.entities). The old code took the main person from
-     relPeople[0] / enrich.pd — a TMDB multi-search + popularity sort —
-     and that put "Robert Downey Jr." pills on a Kartik Aaryan story
-     (caught live 2026-10-28): the person MUST come from this article,
-     never a TMDB popularity-sorted resolution.
-     News-specific (max 5): the main person + the project, the project's
-     release date / cast / trailer, the second person + the project.
-     Extras (max 4): the generic person phrases (Latest News / Upcoming
-     Movies / Biography / New Movie) for the main person. When the
-     article has no entities, the headline's own capitalized subject is
-     the fallback (as before) — never a random person.
-     EPISODE pages (user order 2026-10-26): the keywords are for THIS
-     episode — the phrases people actually search, "online watch"
-     style — never "watch on <channel>" phrasing. The bare "Episode N",
-     "latest episode" and "today episode" were missing and are now in.
-     All phrases render inside ONE custom .fa-select dropdown (never a
-     native <select>, which Chrome on Android renders as a modal popup)
-     so the page stays short; choosing a phrase opens /search?q=<phrase>.
-     The same phrases go into the meta keywords (scripts/seo_assets.py
-     news_meta) so the visible keywords and the metadata match. */
-  {
-    const dedupe = (arr) => { const seen = new Set(); return arr.filter(x => { const k = String(x || "").trim(); if (!k || seen.has(k)) return false; seen.add(k); return true; }); };
-    const ents = (article && article.entities) || {};
-    const entPeople = (ents.people || []).map(s => String(s || "").trim()).filter(Boolean);
-    const entTitles = (ents.titles || []).map(s => String(s || "").trim()).filter(Boolean);
-    let kwPhrases = [];
-    if (isEpisode) {
-      const epLabel = epIsFinale ? "Last Episode" : `Episode ${epNum}`;
-      kwPhrases = dedupe([
-        `${epDrama} ${epLabel}`,
-        `${epDrama} ${epLabel} online watch`,
-        `${epDrama} ${epLabel} watch online`,
-        `${epDrama} ${epLabel} full episode`,
-        ...(epChannel ? [`${epDrama} ${epLabel} ${epChannel}`] : []),
-        `${epDrama} drama ${epLabel}`,
-        `${epDrama} latest episode`,
-        `${epDrama} today episode`,
-      ]);
-    } else {
-      let p0 = entPeople[0] || "";
-      const p1 = entPeople[1] || "";
-      const t0 = entTitles[0] || "";
-      const specPhrases = [];
-      if (p0 && t0) specPhrases.push(`${p0} ${t0}`);
-      if (t0) { specPhrases.push(`${t0} release date`); specPhrases.push(`${t0} cast`); }
-      if (p1 && t0) specPhrases.push(`${p1} ${t0}`);
-      if (t0) specPhrases.push(`${t0} trailer`);
-      if (!t0 && p0 && p1) specPhrases.push(`${p0} ${p1}`);
-      if (!specPhrases.length && !p0) {
-        const seq = [...headline.matchAll(/\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b/g)].map(m => m[1])[0];
-        if (seq) p0 = seq;
-      }
-      const extraPhrases = [];
-      if (p0) {
-        if (specPhrases.length || entPeople.length) extraPhrases.push(`${p0} latest news`, `${p0} upcoming movies`, `${p0} biography`, `${p0} new movie`);
-        else extraPhrases.push(`${p0} latest news`, `${p0} news`, `${p0} biography`, `${p0} latest`);
-      }
-      kwPhrases = dedupe([...specPhrases.slice(0, 5), ...extraPhrases.slice(0, 4)]);
-    }
-    if (kwPhrases.length) {
-      const topHtml = `<section class="section"><div class="section-head"><h2 id="kwSelectLabel">Top Searches</h2></div>
-        <div class="fa-select" id="kwSelect"><button type="button" class="fa-select-trigger" id="kwSelectTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="kwSelectOptions" aria-labelledby="kwSelectLabel kwSelectValue"><span class="fa-select-value" id="kwSelectValue">Keyword chuno</span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="kwSelectOptions" role="listbox" aria-labelledby="kwSelectLabel" hidden></div></div></section>`;
-      main.querySelector(".wrap").insertAdjacentHTML("beforeend", topHtml);
-      const host = main.querySelector("#kwSelect");
-      if (host) {
-        const opts = [{ value: "", label: "Keyword chuno" }].concat(kwPhrases.map(p => ({ value: p, label: p })));
-        UI.mountFaSelect(host, opts, "", v => { if (v) location.href = "/search?q=" + encodeURIComponent(v); });
-      }
-    }
-  }
+  /* Top Searches removed (owner order 2026-10-28): keywords live in metadata only (scripts/seo_assets.py). */
 })();
+
 
 
 

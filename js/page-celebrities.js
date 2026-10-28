@@ -41,9 +41,11 @@
   const emptyHost = main.querySelector("#emptyHost");
   const spWrap = main.querySelector("#spWrap");
 
-  /* Published entries carry a baked industry: bollywood | pakistani | world. */
-  const indOf = t => (t && t.industry === "bollywood") ? "bollywood"
-    : (t && t.industry === "pakistani") ? "pakistani" : "world";
+  /* Industry of a published title — canonical UI.industryOf() (owner
+     order 2026-10-28): Bollywood = ALL Indian titles, World Cinema =
+     only international. A person's _inds follow their titles, so a
+     Tamil/Telugu star now counts as Bollywood, not World. */
+  const indOf = t => UI.industryOf(t);
 
   let pool = [];
   function render() {
@@ -170,4 +172,5 @@
     grid.innerHTML = UI.stateMsg("Could not load celebrities. Please try again.");
   }
 })();
+
 

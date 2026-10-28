@@ -165,7 +165,7 @@
 
   const dateOf = (x) => (x && (x.first_air_date || "")) || "";
   const allDramas = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.id && x.poster_path && (x.type || x.media_type) === "tv" && (x.industry || "") === "pakistani");
+    .filter(x => x && x.id && x.poster_path && (x.type || x.media_type) === "tv" && UI.industryOf(x) === "pakistani");
 
   if (!allDramas.length) {
     fcount.textContent = "No Pakistani dramas have been published yet.";
@@ -188,3 +188,4 @@
     "newest", (value) => { sort = value; renderGrid(); });
   renderGrid();
 })();
+
