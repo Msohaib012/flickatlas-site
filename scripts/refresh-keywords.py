@@ -14,18 +14,17 @@ Design (quota-safe, never destructive):
     refresh does NOT draw from DAILY_CAP (it publishes no articles)
     and costs ~1 Gemini call/day against the ~70 the batch already
     makes. The 15/day article cap bounds the work.
-  * Rotation: articles MISSING keywords go first (oldest published
-    first — this is the day-1 backlog: 153/153 live articles had no
-    keywords field when this landed), then articles whose keywords are
-    older than KEYWORDS_REFRESH_DAYS (default 7), oldest-refreshed
-    first. Nothing starves: the cycle covers the whole catalogue in
-    ~11 days at 15/day, then keeps every article within ~11 days old.
+  * Owner rule (2026-10-28): keywords are written when the post is
+    made; ONE refresh 3 days later (REFRESH_AFTER_DAYS, default 3).
+    Per group (news / episode articles) only the 15 NEWEST due posts
+    are refreshed (POOL_PER_GROUP, default 15) — older due posts are
+    dropped, never carried forward. A post refreshed once is never
+    refreshed again. A missing keywords field qualifies on the same
+    age rule (wipe repair) — the panel publish-export used to rebuild
+    js/articles-data.js from an allow-list without "keywords"
+    (fixed in the panel worker 2026-10-28, but the repair path stays).
   * State lives in out/keyword-refresh.json (committed — see
     scripts/commit_with_retry.sh): {aid: {refreshed_at, source}}.
-    A missing keywords field always qualifies again, even when the
-    state says refreshed — the panel publish-export rebuilds
-    js/articles-data.js from an allow-list without "keywords", so a
-    panel publish can wipe the field and the next refresh restores it.
   * Gemini failure (no keys, all keys 429/5xx, bad JSON) skips the
     WHOLE run: old keywords stay untouched, never blanked, and the
     run records reason "source-fail". Per-article bad output falls
@@ -33,10 +32,13 @@ Design (quota-safe, never destructive):
   * Only the "keywords" field is written — headline/body/facts/
     entities are never touched. The file's header comment is
     preserved verbatim. The script is idempotent: a second run the
-    same day finds nothing due (all candidates refreshed < 7 days
-    ago) and records "no-new-data".
+    same day finds nothing due (everything due was refreshed) and
+    records "no-new-data".
   * Every run records itself in out/step-runs.json via step_runs
     ("keywords_refresh") with the closed reason vocabulary.
+  * Movie/show/day-wise keywords are formulaic from their own fields
+    and regenerate hourly via scripts/seo_assets.py — this Gemini
+    refresh covers news + episode articles only.
 
 Grounding: every refreshed phrase must share a content word (>= 4
 letters) with the article's own headline/entities/dek — a phrase
@@ -50,7 +52,8 @@ Env:
   GEMINI_API_KEY_1..6 (at least one required; same rotation as
   scripts/gemini_batch.py — the caller is imported from there)
   KEYWORDS_MAX_PER_DAY (default 15)
-  KEYWORDS_REFRESH_DAYS (default 7)
+  KEYWORDS_REFRESH_AFTER_DAYS (default 3)
+  KEYWORDS_POOL_PER_GROUP (default 15)
 """
 import json
 import os
@@ -81,7 +84,8 @@ ART_PATH = os.path.join(ROOT, "js", "articles-data.js")
 STATE_PATH = os.path.join(OUT_DIR, "keyword-refresh.json")
 
 MAX_PER_DAY = int(os.environ.get("KEYWORDS_MAX_PER_DAY", "15"))
-REFRESH_DAYS = int(os.environ.get("KEYWORDS_REFRESH_DAYS", "7"))
+REFRESH_AFTER_DAYS = int(os.environ.get("KEYWORDS_REFRESH_AFTER_DAYS", "3"))
+POOL_PER_GROUP = int(os.environ.get("KEYWORDS_POOL_PER_GROUP", "15"))
 KEYWORDS_WANT = 5
 KEYWORDS_MIN = 4
 
@@ -315,27 +319,46 @@ def _refreshed_ts(rec):
         return 0.0
 
 
+_EP_HEADLINE_RE = re.compile(r"\bEpisode\s+\d+\b|\bLast Episode\b",
+                                 re.I)
+
+
+def _is_episode(article):
+    """Episode articles (Pakistani drama episodes) form their own
+    refresh group — they live in the same articles file but are a
+    different section on the site from news."""
+    return bool(_EP_HEADLINE_RE.search(article.get("headline") or ""))
+
+
 def select_candidates(articles, state, now_ts):
-    """Today's refresh set, oldest first, capped at MAX_PER_DAY:
-    (1) articles missing the keywords field — the backlog, oldest
-    published first (a wiped field always qualifies again, even when
-    the state says refreshed); (2) articles whose keywords were
-    refreshed more than REFRESH_DAYS ago, oldest-refreshed first."""
+    """Today's refresh set under the owner rule (2026-10-28): one
+    refresh per post, 3 days after it was published; per group
+    (news / episode) only the 15 NEWEST due posts are taken — older
+    due posts are dropped, never carried forward. A post refreshed
+    once is never refreshed again (state record + keywords present);
+    a missing keywords field qualifies on the same age rule, even
+    when the state says refreshed (wipe repair)."""
     refreshed = state.get("articles") or {}
-    cutoff = now_ts - REFRESH_DAYS * 86400
-    missing, stale = [], []
+    due_after = now_ts - REFRESH_AFTER_DAYS * 86400
+    groups = {"news": [], "episode": []}
     for aid, art in articles.items():
         if not isinstance(art, dict) or not (art.get("headline") or ""):
             continue
-        if not art.get("keywords"):
-            missing.append((aid, art))
-            continue
-        if _refreshed_ts(refreshed.get(aid)) < cutoff:
-            stale.append((aid, art))
-    missing.sort(key=lambda t: _published_ts(t[1].get("published")))
-    stale.sort(key=lambda t: (_refreshed_ts(refreshed.get(t[0])),
-                              _published_ts(t[1].get("published"))))
-    return (missing + stale)[:MAX_PER_DAY]
+        if _published_ts(art.get("published")) > due_after:
+            continue  # not 3 days old yet — its one refresh is later
+        if aid in refreshed and art.get("keywords"):
+            continue  # already refreshed once — never again
+        groups["episode" if _is_episode(art) else "news"].append(
+            (aid, art))
+    picked = []
+    for group in ("news", "episode"):
+        due = groups[group]
+        due.sort(key=lambda t: _published_ts(t[1].get("published")),
+                 reverse=True)
+        picked.extend(due[:POOL_PER_GROUP])
+    picked.sort(key=lambda t: _published_ts(t[1].get("published")),
+                reverse=True)
+    return picked[:MAX_PER_DAY]
 
 
 def _prompt_item(aid, art):
@@ -384,7 +407,7 @@ def main(argv=None):
     candidates = select_candidates(articles, state, now_ts)
     print(f"refresh-keywords: {len(articles)} articles, "
           f"{len(candidates)} due today (cap {MAX_PER_DAY}, "
-          f"{REFRESH_DAYS}-day skip)")
+          f"3-day rule, newest {POOL_PER_GROUP} per group)")
     if not candidates:
         record("success",
                {"candidates": 0,
