@@ -685,52 +685,80 @@
       ...(article.dek ? { "description": article.dek.slice(0, 200) } : {}) }
   });
 
-  /* Top Searches (audit round, ORDER H): phrases built only from the
-     entities this story actually resolved to (or, failing that, the
-     headline's own capitalized subject) — never random keywords.
+  /* Top Searches (keywords round 2026-10-28): the phrases people
+     actually search for THIS story — built ONLY from the article's own
+     entities (article.entities). The old code took the main person from
+     relPeople[0] / enrich.pd — a TMDB multi-search + popularity sort —
+     and that put "Robert Downey Jr." pills on a Kartik Aaryan story
+     (caught live 2026-10-28): the person MUST come from this article,
+     never a TMDB popularity-sorted resolution.
+     News-specific (max 5): the main person + the project, the project's
+     release date / cast / trailer, the second person + the project.
+     Extras (max 4): the generic person phrases (Latest News / Upcoming
+     Movies / Biography / New Movie) for the main person. When the
+     article has no entities, the headline's own capitalized subject is
+     the fallback (as before) — never a random person.
      EPISODE pages (user order 2026-10-26): the keywords are for THIS
      episode — the phrases people actually search, "online watch"
-     style — never "watch on <channel>" phrasing. */
+     style — never "watch on <channel>" phrasing. The bare "Episode N",
+     "latest episode" and "today episode" were missing and are now in.
+     All phrases render inside ONE custom .fa-select dropdown (never a
+     native <select>, which Chrome on Android renders as a modal popup)
+     so the page stays short; choosing a phrase opens /search?q=<phrase>.
+     The same phrases go into the meta keywords (scripts/seo_assets.py
+     news_meta) so the visible keywords and the metadata match. */
   {
-    const tsEntities = [], tsTemplates = [];
+    const dedupe = (arr) => { const seen = new Set(); return arr.filter(x => { const k = String(x || "").trim(); if (!k || seen.has(k)) return false; seen.add(k); return true; }); };
+    const ents = (article && article.entities) || {};
+    const entPeople = (ents.people || []).map(s => String(s || "").trim()).filter(Boolean);
+    const entTitles = (ents.titles || []).map(s => String(s || "").trim()).filter(Boolean);
+    let kwPhrases = [];
     if (isEpisode) {
-      tsEntities.push(epDrama);
       const epLabel = epIsFinale ? "Last Episode" : `Episode ${epNum}`;
-      tsTemplates.push(
+      kwPhrases = dedupe([
+        `${epDrama} ${epLabel}`,
         `${epDrama} ${epLabel} online watch`,
         `${epDrama} ${epLabel} watch online`,
         `${epDrama} ${epLabel} full episode`,
         ...(epChannel ? [`${epDrama} ${epLabel} ${epChannel}`] : []),
         `${epDrama} drama ${epLabel}`,
-      );
+        `${epDrama} latest episode`,
+        `${epDrama} today episode`,
+      ]);
     } else {
-      const pName = (enrich.pd && enrich.pd.name) || (relPeople[0] && relPeople[0].name) || "";
-      const tName = enrich.td ? UI.titleOf(enrich.td) : (relTitles[0] ? UI.titleOf(relTitles[0]) : "");
-      if (pName) {
-        tsEntities.push(pName);
-        tsTemplates.push(`${pName} latest news`, `${pName} upcoming movies`, `${pName} biography`, `${pName} new movie`);
-      }
-      if (tName) {
-        tsEntities.push(tName);
-        tsTemplates.push(`${tName} box office collection`, `${tName} release date`, `${tName} cast`, `${tName} budget`);
-      }
-      if (!tsTemplates.length) {
+      let p0 = entPeople[0] || "";
+      const p1 = entPeople[1] || "";
+      const t0 = entTitles[0] || "";
+      const specPhrases = [];
+      if (p0 && t0) specPhrases.push(`${p0} ${t0}`);
+      if (t0) { specPhrases.push(`${t0} release date`); specPhrases.push(`${t0} cast`); }
+      if (p1 && t0) specPhrases.push(`${p1} ${t0}`);
+      if (t0) specPhrases.push(`${t0} trailer`);
+      if (!t0 && p0 && p1) specPhrases.push(`${p0} ${p1}`);
+      if (!specPhrases.length && !p0) {
         const seq = [...headline.matchAll(/\b([A-Z][a-z]+(?:\s+(?:[A-Z][a-z]+|De|Di|Da|Van|Von)){1,2})\b/g)].map(m => m[1])[0];
-        if (seq) { tsEntities.push(seq); tsTemplates.push(`${seq} latest news`, `${seq} news`, `${seq} biography`, `${seq} latest`); }
+        if (seq) p0 = seq;
       }
+      const extraPhrases = [];
+      if (p0) {
+        if (specPhrases.length || entPeople.length) extraPhrases.push(`${p0} latest news`, `${p0} upcoming movies`, `${p0} biography`, `${p0} new movie`);
+        else extraPhrases.push(`${p0} latest news`, `${p0} news`, `${p0} biography`, `${p0} latest`);
+      }
+      kwPhrases = dedupe([...specPhrases.slice(0, 5), ...extraPhrases.slice(0, 4)]);
     }
-    if (tsTemplates.length) {
-      /* Top Searches phrases render here as their own section. The
-         .kw-chips flex container keeps each phrase as one whole pill:
-         a pill wraps to the next line as a unit and is never split
-         mid-phrase (the old <p> wrapper let long phrases break across
-         lines on phones). */
-      const topHtml = `<section class="section"><div class="section-head"><h2>Top Searches</h2></div>
-        <div class="kw-chips">${tsTemplates.map(t => `<a class="kw-chip" href="/search?q=${encodeURIComponent(t)}">${UI.esc(t)}</a>`).join("")}</div></section>`;
+    if (kwPhrases.length) {
+      const topHtml = `<section class="section"><div class="section-head"><h2 id="kwSelectLabel">Top Searches</h2></div>
+        <div class="fa-select" id="kwSelect"><button type="button" class="fa-select-trigger" id="kwSelectTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="kwSelectOptions" aria-labelledby="kwSelectLabel kwSelectValue"><span class="fa-select-value" id="kwSelectValue">Keyword chuno</span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="kwSelectOptions" role="listbox" aria-labelledby="kwSelectLabel" hidden></div></div></section>`;
       main.querySelector(".wrap").insertAdjacentHTML("beforeend", topHtml);
+      const host = main.querySelector("#kwSelect");
+      if (host) {
+        const opts = [{ value: "", label: "Keyword chuno" }].concat(kwPhrases.map(p => ({ value: p, label: p })));
+        UI.mountFaSelect(host, opts, "", v => { if (v) location.href = "/search?q=" + encodeURIComponent(v); });
+      }
     }
   }
 })();
+
 
 
 

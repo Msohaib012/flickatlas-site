@@ -350,6 +350,26 @@
     };
     const relatedHasEp = related.some(isEpisodeArticle);
 
+    /* Top Searches (keywords round 2026-10-28): the show had NO visible
+       keywords section at all. Phrases come only from this show's own
+       data — its name, top cast, seasons/episodes and (Pakistani dramas)
+       the latest-episode searches people actually type. Nothing is
+       invented: a phrase appears only when its data exists on this page.
+       They render in ONE custom .fa-select dropdown (never a native
+       <select>); choosing a phrase opens /search?q=<phrase>. */
+    const kwDedupe = (arr) => { const seen = new Set(); return arr.filter(x => { const k = String(x || "").trim(); if (!k || seen.has(k)) return false; seen.add(k); return true; }); };
+    const latestSeasonNum = seasons.length ? Math.max(...seasons.map(s2 => Number(s2.season_number) || 0)) : 0;
+    const kwPhrases = kwDedupe([
+      name,
+      `${name} cast`,
+      `${name} review`,
+      `${name} story`,
+      ...(epCount ? [`${name} episodes`] : []),
+      ...(latestSeasonNum > 1 ? [`${name} season ${latestSeasonNum}`] : []),
+      ...(cast.length ? [`${cast[0].name} ${name}`] : []),
+      ...(isPakistani ? [`${name} latest episode`, `${name} watch online`] : []),
+    ]);
+
     main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/tv">← TV &amp; Web Series</a></p>
     <div class="detail-hero">
@@ -403,6 +423,9 @@
     ${similar.length ? `<section class="section"><div class="section-head"><h2>Similar Shows</h2></div>
       <div class="grid">${similar.map(x => UI.posterCard(x, "tv", UI.industryTag(x))).join("")}</div>
       <p class="img-credit">Images: TMDB</p></section>` : ""}
+
+    ${kwPhrases.length ? `<section class="section"><div class="section-head"><h2 id="kwSelectLabel">Top Searches</h2></div>
+      <div class="fa-select" id="kwSelect"><button type="button" class="fa-select-trigger" id="kwSelectTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="kwSelectOptions" aria-labelledby="kwSelectLabel kwSelectValue"><span class="fa-select-value" id="kwSelectValue">Keyword chuno</span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="kwSelectOptions" role="listbox" aria-labelledby="kwSelectLabel" hidden></div></div></section>` : ""}
   </div>`;
 
     UI.setSEO({
@@ -425,9 +448,16 @@
       }
     });
 
+    const kwHost = document.getElementById("kwSelect");
+    if (kwHost && kwPhrases.length) {
+      const opts = [{ value: "", label: "Keyword chuno" }].concat(kwPhrases.map(p => ({ value: p, label: p })));
+      UI.mountFaSelect(kwHost, opts, "", v => { if (v) location.href = "/search?q=" + encodeURIComponent(v); });
+    }
+
   } catch (e) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this show. Please try again.")}</div>`;
   }
 })();
+
 
 

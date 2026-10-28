@@ -69,6 +69,24 @@
   const running = clean.filter(r => r._n <= day).reduce((s, r) => s + r.collection, 0);
   const poster = UI.img(d.poster_path, "w342");
 
+  /* Top Searches (keywords round 2026-10-28): the day-wise page had NO
+     visible keywords section at all. Phrases come only from this page's
+     own data — the film title, the day number and (only when the
+     published entry actually has one) the budget. They render in ONE
+     custom .fa-select dropdown (never a native <select>); choosing a
+     phrase opens /search?q=<phrase>. The same terms are in the meta
+     keywords (scripts/seo_assets.py daywise_meta) so visible and
+     metadata match. */
+  const kwDedupe = (arr) => { const seen = new Set(); return arr.filter(x => { const k = String(x || "").trim(); if (!k || seen.has(k)) return false; seen.add(k); return true; }); };
+  const kwPhrases = kwDedupe([
+    `${title} box office collection`,
+    `${title} box office collection day wise`,
+    `${title} day ${day} collection`,
+    title,
+    "box office collection",
+    ...(d.budget && Number(d.budget) > 0 ? [`${title} budget`] : []),
+  ]);
+
   main.innerHTML = `<div class="wrap">
     <p class="article-crumb"><a href="/movie?id=${encodeURIComponent(titleId)}">← ${UI.esc(title)}</a> · <a href="/box-office">Box Office</a></p>
     <section class="detail-hero">
@@ -87,7 +105,15 @@
       </div></div>
       <p class="prov-note">That day's reported collection and the running sum of the recorded days so far; missing days are excluded, not counted as zero.</p></div>
     ${UI.dailyCollectionCard(clean, String(titleId))}
+    ${kwPhrases.length ? `<section class="section"><div class="section-head"><h2 id="kwSelectLabel">Top Searches</h2></div>
+      <div class="fa-select" id="kwSelect"><button type="button" class="fa-select-trigger" id="kwSelectTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="kwSelectOptions" aria-labelledby="kwSelectLabel kwSelectValue"><span class="fa-select-value" id="kwSelectValue">Keyword chuno</span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="kwSelectOptions" role="listbox" aria-labelledby="kwSelectLabel" hidden></div></div></section>` : ""}
   </div>`;
+
+  const kwHost = document.getElementById("kwSelect");
+  if (kwHost && kwPhrases.length) {
+    const opts = [{ value: "", label: "Keyword chuno" }].concat(kwPhrases.map(p => ({ value: p, label: p })));
+    UI.mountFaSelect(kwHost, opts, "", v => { if (v) location.href = "/search?q=" + encodeURIComponent(v); });
+  }
 
   UI.setSEO({
     title: `${title} — Day ${day} Box Office (${UI.fmtDate(row.date)}) | FlickAtlas`,
@@ -96,3 +122,4 @@
     image: poster || ""
   });
 })();
+

@@ -258,6 +258,79 @@ def title_meta(entry):
             "ld": ld, "year": year, "industry": entry.get("industry")}
 
 
+_EP_RE = re.compile(
+    r"^(.+?)\s+Episode\s+(\d+)\s*(?:\(Finale\))?\s*[—–-]\s*Watch on\s+(.+)$",
+    re.I)
+_EP_FIN_RE = re.compile(
+    r"^(.+?)\s*[—–-]?\s*Last Episode\s*[—–-]\s*Watch on\s+(.+)$", re.I)
+
+
+def parse_episode_headline(headline):
+    """Mirror of js/page-news-item.js parseEpisodeHeadline: returns
+    (drama, label, channel) for episode posts, else None."""
+    s = re.sub(r"\s+", " ", str(headline or "")).strip()
+    m = _EP_RE.match(s)
+    if m:
+        return (m.group(1).strip(), "Episode %d" % int(m.group(2)),
+                (m.group(3) or "").strip())
+    m = _EP_FIN_RE.match(s)
+    if m:
+        return (m.group(1).strip(), "Last Episode",
+                (m.group(2) or "").strip())
+    return None
+
+
+def news_topic_phrases(entry):
+    """News-specific search phrases for one article, built ONLY from the
+    article's own entities — the SAME phrases the article page shows in
+    its Top Searches dropdown (js/page-news-item.js), so the visible
+    keywords and the metadata match (owner rule). The main person is
+    entities.people[0] of THIS article, never a TMDB resolution.
+    Episode posts use the episode phrase set (same as the page's
+    episode branch) instead."""
+    headline = (entry.get("headline") or "").strip()
+    ep = parse_episode_headline(headline)
+    if ep:
+        drama, label, channel = ep
+        out = ["%s %s" % (drama, label),
+               "%s %s online watch" % (drama, label),
+               "%s %s watch online" % (drama, label),
+               "%s %s full episode" % (drama, label)]
+        if channel:
+            out.append("%s %s %s" % (drama, label, channel))
+        out += ["%s drama %s" % (drama, label),
+                "%s latest episode" % drama,
+                "%s today episode" % drama]
+        return out
+    ents = entry.get("entities") or {}
+    people = [str(p).strip() for p in (ents.get("people") or [])
+              if str(p).strip()]
+    titles = [str(t).strip() for t in (ents.get("titles") or [])
+              if str(t).strip()]
+    p0 = people[0] if people else ""
+    p1 = people[1] if len(people) > 1 else ""
+    t0 = titles[0] if titles else ""
+    out = []
+    if p0 and t0:
+        out.append("%s %s" % (p0, t0))
+    if t0:
+        out.append("%s release date" % t0)
+        out.append("%s cast" % t0)
+    if p1 and t0:
+        out.append("%s %s" % (p1, t0))
+    if t0:
+        out.append("%s trailer" % t0)
+    if not t0 and p0 and p1:
+        out.append("%s %s" % (p0, p1))
+    seen = set()
+    res = []
+    for x in out:
+        if x not in seen:
+            seen.add(x)
+            res.append(x)
+    return res[:5]
+
+
 def news_meta(entry):
     headline = (entry.get("headline") or "").strip()
     dek = (entry.get("dek") or "").strip()
@@ -265,11 +338,29 @@ def news_meta(entry):
     t = headline + " | FlickAtlas"
     ents = entry.get("entities") or {}
     kws = []
-    for p in (ents.get("people") or [])[:3]:
-        kws.append(p)
-    for ti in (ents.get("titles") or [])[:2]:
-        kws.append(ti)
+    # Meta keywords = the article's own keywords field first (written by
+    # Gemini at write time, refreshed daily - owner order 2026-10-28),
+    # so the metadata carries the same phrases the page shows; entities
+    # are the fallback for articles that predate the keywords field.
+    for kw in (entry.get("keywords") or [])[:5]:
+        if isinstance(kw, str) and kw.strip():
+            s = kw.strip()
+            if s.lower() not in {x.lower() for x in kws}:
+                kws.append(s)
+    if not kws:
+        for p in (ents.get("people") or [])[:3]:
+            kws.append(p)
+        for ti in (ents.get("titles") or [])[:2]:
+            kws.append(ti)
+    kws += news_topic_phrases(entry)
     kws += ["entertainment news", "Bollywood news", "FlickAtlas"]
+    seen = set()
+    deduped = []
+    for k in kws:
+        if k not in seen:
+            seen.add(k)
+            deduped.append(k)
+    kws = deduped
     imgs = entry.get("images") or []
     img = imgs[0].get("url") if imgs and imgs[0].get("url") else (
         BASE + "/icon-512.png")
@@ -426,3 +517,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
