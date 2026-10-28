@@ -452,12 +452,16 @@
 
     /* ---------- Trending News (§2.7): the SAME feed /news renders
        (/api/news), first 7 headlines, same editorial-card markup (title
-       + meta). When the feed is unreachable or empty, the section
-       removes itself. ---------- */
+       + meta). NEWS EXPIRY (owner order 2026-10-28): only headlines from
+       the last 24 hours are listed (UI.isNewsFresh) — older items stay
+       in the data and on their article pages, they just leave the
+       listings. When the feed is unreachable or empty, the section
+       removes itself; when the feed has only stale items, the section
+       stays and says so honestly. ---------- */
     const newsHtml = `<section class="section" id="homeNews" data-sec="news">
       <div class="section-head"><h2>Trending News</h2>
       <a class="see-all" href="/news">See All →</a></div>
-      <p class="sec-sub">Recent published headlines, newest first.</p>
+      <p class="sec-sub">Pichle 24 ghante ki khabrein — newest first.</p>
       <div class="sk" style="height:120px;border-radius:14px"></div></section>`;
     /* News slider (user order 2026-10-26): directly below the hero, the
        SAME articles as Trending News (newest first) as image slides.
@@ -633,7 +637,11 @@
         if (!r.ok) throw new Error("news http " + r.status);
         const j = await r.json();
         if (!j.items || !j.items.length) throw new Error("news empty");
-        const feedItems = j.items.filter(it => !isEpisodeItem(it));
+        /* NEWS EXPIRY (owner order 2026-10-28): the feed carries 48 h
+           of items (convert-news.py), but the listings show only the
+           last 24 h. One filter here covers BOTH the slider and the
+           Trending News grid below — both derive from feedItems. */
+        const feedItems = j.items.filter(it => !isEpisodeItem(it) && UI.isNewsFresh(it));
         const CATLABEL = { bollywood: "Bollywood", world: "World Cinema", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral" };
         /* The slider gets the FULL feed (not the 7-item Trending News cap):
            it needs the whole feed to find 8 Indian (bollywood/kollywood)
@@ -662,7 +670,7 @@
         let homeFilter = "all";
         host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
           <a class="see-all" href="/news">See All →</a></div>
-          <p class="sec-sub" id="homeNewsSub">Recent published headlines, newest first.</p>
+          <p class="sec-sub" id="homeNewsSub">Pichle 24 ghante ki khabrein — newest first.</p>
           <div id="chipHost"><div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="homeNewsFilterLabel"><span id="homeNewsFilterLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="homeNewsFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="homeNewsFilterOptions" aria-labelledby="homeNewsFilterLabel homeNewsFilterValue"><span class="fa-select-value" id="homeNewsFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="homeNewsFilterOptions" role="listbox" aria-labelledby="homeNewsFilterLabel" hidden></div></div></div></div></div>
           <div class="editorial-grid" id="homeNewsGrid"></div>`;
         const grid = host.querySelector("#homeNewsGrid");
@@ -670,8 +678,17 @@
         const renderHomeNewsGrid = () => {
           const list = (homeFilter === "all" ? filterPool : filterPool.filter(it => deriveTags(it).includes(homeFilter))).slice(0, HOME_LIMITS.news);
           sub.textContent = homeFilter === "all"
-            ? "Recent published headlines, newest first."
+            ? "Pichle 24 ghante ki khabrein — newest first."
             : `${list.length} headline${list.length === 1 ? "" : "s"} · ${NEWS_FILTER_LABEL[homeFilter] || homeFilter}`;
+          /* Empty state (owner order 2026-10-28): when nothing fresh
+             arrived in the last 24 h, say so honestly — never fill the
+             grid with old items. */
+          if (!list.length) {
+            grid.innerHTML = UI.stateMsg(filterPool.length
+              ? "Is category me pichle 24 ghante me koi khabar nahi aayi."
+              : "Pichle 24 ghante me koi nayi khabar nahi aayi.", false);
+            return;
+          }
           grid.innerHTML = list.map(it => {
             const art = fa[it.id] || {};
             const imgs = Array.isArray(art.images) ? art.images : [];

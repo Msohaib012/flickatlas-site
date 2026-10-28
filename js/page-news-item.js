@@ -54,7 +54,12 @@
     clearTimeout(to);
     if (!r.ok) throw new Error("news http " + r.status);
     const j = await r.json();
-    items = j.items || [];
+    /* NEWS EXPIRY (owner order 2026-10-28): the feed carries 48 h of
+       items, but the rails on this page show only the last 24 h. One
+       filter here covers the "More Headlines" rail and the "moved on"
+       list below. A >24 h article itself still renders — the lookup
+       below falls back to its FA_ARTICLES entry, as designed. */
+    items = (j.items || []).filter(UI.isNewsFresh);
   } catch (e) {
     if (!fullArt) {
       main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the news feed right now. Please try again.")}
@@ -68,7 +73,8 @@
   if (!it && fullArt) {
     /* Published article, no longer in the live feed window — render it
        from the article itself (headline + publish date, no feed
-       categories). The "More Headlines" rail below is empty. */
+       categories). The "More Headlines" rail below shows the fresh
+       headlines from the last 24 hours. */
     it = { id, title: fullArt.headline, ts: fullArt.published || null, cats: [] };
   }
   if (!it) {

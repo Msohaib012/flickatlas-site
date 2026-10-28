@@ -914,6 +914,25 @@ const UI = (() => {
     return d + (d === 1 ? " day ago" : " days ago");
   }
 
+  /* ---------- News expiry (owner order 2026-10-28) ----------
+     A news headline is LISTED only within 24 hours of its own
+     timestamp (it.ts, ms epoch). Rolling 24 h — a duration, so no
+     timezone conversion is needed; PKT only matters for the label
+     ("Pichle 24 ghante ki khabrein"). Older items stay in the data
+     (FA_ARTICLES + api-news.json, whose own window is 48 h) and stay
+     reachable by direct link / article page — only LISTINGS filter.
+     Items with no usable timestamp are kept: never hide on missing
+     data. */
+  const NEWS_TTL_MS = 24 * 60 * 60 * 1000;
+  function isNewsFresh(it) {
+    const ts = it && it.ts;
+    if (!Number.isFinite(ts) || ts <= 0) return true;
+    return Date.now() - ts <= NEWS_TTL_MS;
+  }
+  function filterNewsFresh(items) {
+    return (items || []).filter(isNewsFresh);
+  }
+
   /* ---------- Filter chips (MASTER-STRUCTURE §4) ----------
      Locked standard: every hub has a chip row, first chip "All" (everything
      mixed, the default); chips are URL-param filters (?f=) applied client-side
@@ -981,7 +1000,7 @@ const UI = (() => {
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath,
-    relTime, chipRow, getParam, setParam, wireChips, applyFilter };
+    relTime, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
 

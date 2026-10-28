@@ -29,7 +29,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Trending News</h1>
-      <p>All entertainment headlines in one mixed feed — Bollywood, Lollywood, Kollywood, awards, OTT, music, tech and more. Tap a tag to see only that list.</p></div>
+      <p>All entertainment headlines in one mixed feed — Bollywood, Lollywood, Kollywood, awards, OTT, music, tech and more. Tap a tag to see only that list. Sirf pichle 24 ghante ki khabrein dikhayi jati hain.</p></div>
     <div id="chipHost"><div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="newsFilterLabel"><span id="newsFilterLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="newsFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="newsFilterOptions" aria-labelledby="newsFilterLabel newsFilterValue"><span class="fa-select-value" id="newsFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="newsFilterOptions" role="listbox" aria-labelledby="newsFilterLabel" hidden></div></div></div></div></div>
     <p class="fcount" id="fcount"></p>
     <div id="newsWrap"><div class="sk" style="height:220px;border-radius:14px"></div></div>
@@ -111,7 +111,12 @@
     const list = (items || []).filter(it => f === "all" || (it.tags || []).includes(f)).slice(0, 48);
     fcount.textContent = list.length ? `${list.length} headline${list.length === 1 ? "" : "s"}` : "";
     if (!list.length) {
-      wrap.innerHTML = UI.stateMsg("No headlines are listed in this category right now. Try another category.", false);
+      /* Empty state (owner order 2026-10-28): when NO fresh news exists
+         at all, say that plainly — a category with no fresh items keeps
+         the category message instead. */
+      wrap.innerHTML = UI.stateMsg(!(items || []).length
+        ? "Pichle 24 ghante me koi nayi khabar nahi aayi."
+        : "No headlines are listed in this category right now. Try another category.", false);
       return;
     }
     wrap.innerHTML = `<div class="editorial-grid">${list.map(it => {
@@ -227,7 +232,10 @@
     /* Normalise feed categories to the page's labels: the feed still
        classifies some items "international" (shown here as World Cinema);
        Korea-only items keep no category label and appear under All. */
-    items = j.items.filter(it => !isEpisodeItem(it)).map(it => {
+    /* NEWS EXPIRY (owner order 2026-10-28): the feed carries 48 h of
+       items (convert-news.py), but this page lists only the last 24 h
+       (UI.isNewsFresh). Older items stay on their article pages. */
+    items = j.items.filter(it => !isEpisodeItem(it) && UI.isNewsFresh(it)).map(it => {
       const norm = {
         ...it,
         cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
