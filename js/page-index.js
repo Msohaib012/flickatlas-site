@@ -53,13 +53,34 @@
     const isReleased = (x) => { const d = dateOf(x); return !!d && d <= today && !isFestivalOnly(x); };
     const isUpcoming = (x) => { const d = dateOf(x); return !!d && (d > today || isFestivalOnly(x)); };
     const freshReleased = (x) => isReleased(x) && UI.isFresh(x);
+    /* Spotlight recency (2026-10-28, user report: 2023/2025 titles on the
+       rail): "Movies running now" is a 60-day window — a theatrical run
+       is ~8 weeks, and the section's own sub-text promises "running now".
+       Live counts 2026-10-28 (released on/before today): Bollywood 12 of
+       14 in window (drops The Last Ride 2025-07-05, Sumo Didi 2023-10-27),
+       World 28 of 33. After the standing streaming-only exclusion the
+       Bollywood rail shows 8 (Gajab Raat, Reporting Live, Lust Stories 3
+       and Gandhari are streaming-only) and the World rail stays full at
+       12 — 8 is the true count of theatrically-running Bollywood movies
+       today; no window can make it 12 without breaking the streaming-only
+       exclusion or re-adding old titles. A 90-day window keeps the same
+       titles (nothing sits between 2026-07-30 and 2026-08-29); 60 days is
+       the tighter "running now" reading. Sort stays byNewest; festival +
+       streaming-only exclusions unchanged. */
+    const SPOTLIGHT_WINDOW_DAYS = 60;
+    const spotlightCutoff = (() => {
+      const d = new Date(today + "T00:00:00Z");
+      d.setUTCDate(d.getUTCDate() - SPOTLIGHT_WINDOW_DAYS);
+      return d.toISOString().slice(0, 10);
+    })();
+    const inSpotlightWindow = (x) => { const d = dateOf(x); return !!d && d >= spotlightCutoff; };
     const inIndustry = (x, industry) => (x.industry || "") === industry;
 
     /* Published titles for a homepage rail, by kind + industry. Returns
        the FULL ordered pool (no slice, no distinct filtering) — the caller
        slices HOME_LIMITS items off the front.
-       kind "spotlight": released movies, fresh-first (falls back to all
-         released, same as /movies), newest first.
+       kind "spotlight": released movies in the last 60 days ("running
+         now"), newest first — old titles never reach the rail.
        kind "soon": upcoming movies + TV, most-awaited sort (rating desc,
          then nearest date — same as /most-awaited).
        kind "calendar": upcoming movies + TV, nearest date first. */
@@ -144,10 +165,12 @@
         /* Owner order 2026-10-26: show 10-15 on the homepage (was 4-5:
            the old 'fresh this week' rule capped Bollywood at the 4 movies
            released in the last 7 days). Now the 12 NEWEST released movies
-           (fresh first by sort order). Bollywood has only 8 released
-           titles in the catalogue, so its tab shows 8 (all of them) until
-           the seeder adds more; World shows 12. */
-        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x) && !UI.isStreamingOnly(x)).sort(byNewest);
+           in the 60-day "running now" window (inSpotlightWindow, above).
+           Live 2026-10-28: Bollywood 12 in-window, World 28 — the
+           Bollywood rail shows 8 after the streaming-only exclusion,
+           the World rail stays full at 12. New titles join daily via
+           the nightly seeder. */
+        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x) && inSpotlightWindow(x) && !UI.isStreamingOnly(x)).sort(byNewest);
         if (type === "tv") return releasedTv().slice(0, 12);
         if (type === "all") {
           /* "All" must visibly show BOTH types: a plain newest-first
@@ -1195,6 +1218,7 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
 
 
 
