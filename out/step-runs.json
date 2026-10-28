@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T21:34:14Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": {
-     "candidates": 210,
-     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Jeremy Clarkson slams council delays over The Farmer’s Dog’s car park plans",
-      "Movie Review: In 'Everest: The Other Side,' tragedy and triumph intermingle on the peaks of Nepal",
-      "How A CBS News Insider Responded After Dan Rather Criticized The Company",
-      "I Have Never Been A Fan Of Sense And Sensibility, But The Latest Adaptation Inspired Me",
-      "Did Shia LaBeouf Have Beef With Hilary Duff And Lizzie McGuire? Co-Star Spilled Tea Decades Later",
-      "Alexander Skarsgård’s Wicker Co-Star Had A Funny (And Relatable) Reaction To His Full-Frontal Look",
-      "8 Forgotten Psychological Thrillers Based on Books That Are Perfect From Start to Finish",
-      "'Heated Rivalry's Connor Storrie Officially Eyes Major MCU Role",
-      "The 7 Greatest Samurai TV Shows, Ranked",
-      "Stephen King’s Weirdest Horror Remake Started With This 13-Episode Cult Classic",
-      "'Resident Evil' Officially Returns to Netflix This Weekend",
-      "Prime Video's 'Tomb Raider' Reboot Officially Scores Endorsement From Beloved Franchise Star",
-      "‘A Quiet Place’ Meets ‘Jurassic Park’ in Adam Driver’s Sci-Fi Free Streaming Hit",
-      "The BBC's Perfect 'The Rookie' Replacement Officially Sets U.S. Return",
-      "Netflix’s 'The Lincoln Lawyer' Will Officially Not Return in 2026",
-      "Forget ‘Game of Thrones,’ Brandon Sanderson's Beloved Book Series Could Be The New Hit Fantasy Show",
-      "Coyote vs. Acme Surprises Looney Tunes Fans With Oscar Campaign in Unexpected Category",
-      "Bizarre Fox TV Show With Steve-O & More Celebrities Gets Season 2 Renewal",
-      "RJ Mitte’s Mom Shares Heartbreaking Tribute to Breaking Bad Star: ‘We Are Lost’",
-      "Josh Hartnett & Ben Affleck Are Both Dominating Netflix 25 Years After Pearl Harbor"
-     ],
-     "updated": [],
-     "count": 122,
-     "detail": "124 stories, 1 duplicates removed, 86 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T21:55:55Z",
     "run_id": "40590525953",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "216 stories, 1 duplicates removed, 82 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T17:52:59Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": {
+     "candidates": 258,
+     "detail": "RSS/Atom items across 137 sources; 13 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Nooru Kodi Vaanavil OTT Release Date: When And Where To Watch Harish Kalyan And Siddhi Idnani's Film Online",
+      "Nykaaland 2026: Taapsee Pannu, Nitanshi Goel & Shanaya Kapoor Add Glam As Nykaaland 4.0 Draws 30,000 Visitors",
+      "Katrina Kaif On Postpartum Weight Trolls: Won't Let 'Winds Of Opinion' Affect This Lovely Part Of Life",
+      "Don't Question The Songs: Manoj Muntashir On Adipurush Amid Ramayana Comparisons",
+      "Shahid Kapoor, Mira Rajput's Latest Ad Taps Nostalgia With ‘Woh Kisna Hai’- Deets Inside",
+      "Manish Wadhwa Of Sony SAB’s Hastinapur Ke Veer: Teamwork Is Understanding Each Other’s Strengths",
+      "Jumanji Open World Drops New Trailer: Dwayne Johnson Returns for One Last Game - Release Date Update",
+      "Jailer: Does Nelson wish to release Rajinikanth starrer in Black and White, like Spider Noir? Here’s what we know",
+      "KHxRK: Rajinikanth and Kamal Haasan’s reunion movie to go on floors by May 2027? Here’s what we know",
+      "4 Telugu OTT Releases to Watch This Week: Fahadh Faasil’s Don’t Trouble The Trouble to Aadi Saikumar’s SI Yugandhar",
+      "Hanuman Ansh Final Worldwide Box Office Collections: Neem Karoli Baba film heads to close historic run at Rs 439 crore globally",
+      "Anirudh Ravichander and Kavya Maran Marriage: From invitation to celeb list; Here’s everything about wedding",
+      "Varun Dhawan calls Ranbir Kapoor an 'amazing' dad on 'KWK9': 'He is so good as a father'",
+      "Tamannaah breaks silence on Annu Kapoor's 'dudhiya badan' remark: 'If we start...'",
+      "Udta Teer box office collection day 6: Ayushmann Khurrana and Sara Ali Khan's spy comedy sees no growth, crosses  ₹28 crore",
+      "Jailer 2 box office collection day 14: Rajinikanth film slows down midweek, crosses  ₹420 crore so far",
+      "She has everything: Actor Zoya Hussain backs Aneet Padda as a future leading star",
+      "captain smit machchhar head stitches uae honour flydubai attack 3077190.html",
+      "kwk 9 janhvi kapoor on peddi controversy says i could have done more it was a violating experience",
+      "miss india priyadarshini chatterjee secretly married intimate wedding photos liplock with husband romance tmovh 2682748 2026 10 28"
+     ],
+     "updated": [],
+     "count": 177,
+     "detail": "188 stories, 0 duplicates removed, 70 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T21:34:15Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1423,27 +1405,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T17:54:09Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Tark-e-Tamanna Episode 16 Promo Released Highlighting Zain Baig and Janice Tessa",
+      "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs International Film Awards"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T21:34:43Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1857,19 +1842,27 @@
      "detail": "now 23, coming 9"
     },
     "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T17:54:09Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": {
+     "candidates": 32,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 23, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2099,27 +2092,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T22:01:07Z",
-    "run_id": "40590525953",
-    "status": "success",
-    "checked": {
-     "candidates": 196,
-     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 192 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2533,19 +2518,27 @@
      "detail": "+0 new rows, 10 updated rows, 198 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T18:00:17Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "+0 new rows, 12 updated rows, 196 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2775,27 +2768,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T21:41:15Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": {
-     "candidates": 82,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 82 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3266,19 +3251,30 @@
      "detail": "api-news.json 82 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T18:00:20Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs International Film Awards",
+      "Tark-e-Tamanna Episode 16 Promo Released Highlighting Zain Baig and Janice Tessa"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3564,19 +3560,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3806,26 +3802,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T21:34:15Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 40/40 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4273,19 +4262,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T17:54:09Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 177 still unprocessed; today by category: movies 8/6, tv_dramas 5/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 3/4, trailers 3/3, awards 2/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Tark-e-Tamanna Episode 16 Promo Released Highlighting Zain Baig and Janice Tessa",
+      "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs International Film Awards"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4539,19 +4538,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4886,24 +4885,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 205,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5208,19 +5207,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5465,19 +5469,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5712,19 +5716,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5950,6 +5954,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-28T16:59:00Z",
     "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5960,16 +5974,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-27T22:01:16Z",
     "run_id": "40590525953",
     "status": "skipped",
@@ -6192,6 +6196,16 @@
     "category": "OTT",
     "run_at": "2026-10-28T16:59:00Z",
     "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6202,16 +6216,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-27T21:41:23Z",
-    "run_id": "40587623714",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-27T22:01:16Z",
     "run_id": "40590525953",
     "status": "skipped",
@@ -6434,6 +6438,16 @@
     "category": "Box Office",
     "run_at": "2026-10-28T16:59:00Z",
     "run_id": "40729919700",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6480,8 +6494,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-28T18:00:29Z",
+    "run_id": "40739517084",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T16:59:00Z"
+ "updated_at": "2026-10-28T18:00:29Z"
 }

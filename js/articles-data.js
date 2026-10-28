@@ -14245,5 +14245,210 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 16:50:07 +0000"
+  },
+  "1seioo4": {
+    "id": "1seioo4",
+    "type": "news",
+    "headline": "Tark-e-Tamanna Episode 16 Promo Released Highlighting Zain Baig and Janice Tessa",
+    "dek": "HUM TV has launched the official promotional teaser for the upcoming sixteenth episode of Tark-e-Tamanna, starring Mirza Zain Baig and Janice Tessa.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Episode",
+        "p": [
+          "Audiences following the dramatic narrative of the television serial Tark-e-Tamanna have received a fresh preview for its upcoming sixteenth chapter. The official promotional teaser gives viewers a glimpse into the next phase of the ongoing storyline.",
+          "The short video highlights key character dynamics and sets expectations for dramatic turns as the broadcast date approaches on HUM TV."
+        ]
+      },
+      {
+        "h": "Lead Cast and Performances",
+        "p": [
+          "The television project features notable television actors Mirza Zain Baig and Janice Tessa in prominent roles. Their performances drive the central conflicts and emotional arcs of the series.",
+          "Both actors bring depth to their respective characters, capturing the complex feelings that define the narrative trajectory of the program."
+        ]
+      },
+      {
+        "h": "Creative Team and Production",
+        "p": [
+          "Behind the scenes, the series is shaped by a skilled creative team. The script is penned by writer Rehana Aftab, who establishes the dramatic stakes of the plot.",
+          "Direction is handled by Nawaz Khan, while the production is backed by Momina Duraid Productions, ensuring high production standards for television viewers."
+        ]
+      },
+      {
+        "h": "Thematic Exploration",
+        "p": [
+          "At its core, the serial delves into heavy emotional questions regarding human relationships, specifically exploring whether intense animosity can evolve into affection or if it signifies the absolute exhaustion of all feelings.",
+          "This thematic exploration forms the foundation of the conflicts faced by the lead characters throughout the broadcast run."
+        ]
+      },
+      {
+        "h": "Broadcast Details",
+        "p": [
+          "The promotional clip specifies that the sixteenth episode is scheduled to premiere tomorrow at 10 PM. Viewers can tune in to watch the broadcast on television and digital platforms.",
+          "The channel continues to roll out episodes regularly, maintaining steady engagement from fans of the drama serial."
+        ]
+      },
+      {
+        "h": "Audience Reception and Availability",
+        "p": [
+          "As part of its digital strategy, the network makes promotional content and full episodes accessible online via YouTube. Fans have actively viewed and discussed the latest teaser.",
+          "The digital release allows international and local audiences alike to stay connected with the unfolding plotlines without missing key developments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HUM TV has released the promotional video for episode 16 of Tark-e-Tamanna, featuring Mirza Zain Baig and Janice Tessa. Written by Rehana Aftab and directed by Nawaz Khan under Momina Duraid Productions, the episode is set to premiere tomorrow at 10 PM."
+        ]
+      }
+    ],
+    "facts": [
+      "Tark-e-Tamanna Episode 16 promo was released on October 28, 2026.",
+      "The episode features Mirza Zain Baig and Janice Tessa.",
+      "The show is broadcast by HUM TV.",
+      "The writer of the show is Rehana Aftab.",
+      "The director of the show is Nawaz Khan.",
+      "The production company is Momina Duraid Productions."
+    ],
+    "entities": {
+      "people": [
+        "Zain Baig",
+        "Janice Tessa",
+        "Rehana Aftab",
+        "Nawaz Khan",
+        "Mirza Zain Baig"
+      ],
+      "titles": [
+        "Tark-e-Tamanna"
+      ]
+    },
+    "keywords": [
+      "Tark-e-Tamanna Episode 16",
+      "Mirza Zain Baig",
+      "Janice Tessa",
+      "HUM TV dramas"
+    ],
+    "images": [],
+    "published": "2026-10-28T17:45:04+00:00"
+  },
+  "6rmawj": {
+    "id": "6rmawj",
+    "type": "news",
+    "headline": "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs International Film Awards",
+    "dek": "The acclaimed A24 feature is set to collect the prestigious group distinction at the upcoming festival ceremony.",
+    "body": [
+      {
+        "h": "The Vanguard Award Announcement",
+        "p": [
+          "The Palm Springs International Film Awards has officially selected A24's motion picture The Invite as the recipient of its distinguished Vanguard Award. This special group honor is dedicated to recognizing an exceptional cinematic project by celebrating the collective achievements of its director and main cast members.",
+          "Festival organizers revealed that the prize will be accepted during a special ceremony, marking another major milestone for the production following its extensive run of critical praise and audience acclaim."
+        ]
+      },
+      {
+        "h": "Star-Studded Attendance Confirmed",
+        "p": [
+          "Director and lead actor Olivia Wilde, alongside prominent cast members Seth Rogen, Penélope Cruz, and Edward Norton, have all confirmed their personal attendance at the presentation event. Their presence highlights the collaborative effort that defined the movie's production.",
+          "The presentation gala is scheduled to take place on January 7, 2027, hosted at the Palm Springs Convention Center. The wider festival event will subsequently run from January 7 through January 18, 2027, with official presentation backing provided by Kering and corporate sponsorship from Entertainment Tonight."
+        ]
+      },
+      {
+        "h": "Festival Chairman Praise",
+        "p": [
+          "Festival Chairman Nachhattar Singh Chandi offered high praise for the project, noting that Olivia Wilde successfully delivered a feature that balances sharp comedy with deep humanity. He highlighted her dual role as both director and performer alongside three of the industry's most compelling actors.",
+          "According to Chandi, every member of the principal cast contributes an irreplaceable quality to the narrative, forging an enduring impact that resonates with viewers long after the final credits finish playing. The committee expressed great enthusiasm for celebrating this creative team."
+        ]
+      },
+      {
+        "h": "Plot and Themes",
+        "p": [
+          "The narrative follows an unpredictable evening sparked by a routine dinner party between two neighboring couples. What begins as a simple gathering quickly evolves into an unexpected series of personal revelations, hidden desires, and profound human connections.",
+          "Beneath its biting comedic surface, the project serves as a heartfelt exploration of modern intimacy, the complexities of marriage, and the intricate ways people navigate love. The screenplay was adapted for the screen by Will McCormack and Rashida Jones."
+        ]
+      },
+      {
+        "h": "Critical Reception and Accolades",
+        "p": [
+          "Ever since its celebrated premiere at the Sundance Film Festival, the feature has enjoyed remarkable success as both a cultural talking point and a commercial box office hit. Viewers have consistently gravitated toward its witty humor and genuine emotional grounding.",
+          "This momentum recently translated into four major Gotham Award nominations, spanning categories such as Best Feature, Best Adapted Screenplay, the Gotham Audience Award, and an Outstanding Supporting Performance nod specifically for Penélope Cruz."
+        ]
+      },
+      {
+        "h": "Vanguard Award Legacy",
+        "p": [
+          "Receiving the Vanguard Award places the production into an elite tier of cinematic history, joining a prestigious roster of past honorees that includes Academy Award Best Picture winners Green Book and The Shape of Water.",
+          "Other notable past recipients include high-profile Best Picture nominees like Belfast, Emilia Pérez, Hamnet, Killers of the Flower Moon, La La Land, Little Miss Sunshine, The Fabelmans, and The Trial of the Chicago 7."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Palm Springs International Film Awards has named A24's The Invite as the winner of the Vanguard Award, with key creators and stars set to attend the January 2027 ceremony. This latest honor adds to a wave of acclaim that includes multiple Gotham Award nominations following the movie's successful Sundance debut."
+        ]
+      }
+    ],
+    "facts": [
+      "The Palm Springs International Film Awards announced A24's The Invite as the Vanguard Award recipient.",
+      "Olivia Wilde, Seth Rogen, Penélope Cruz, and Edward Norton are confirmed to attend the event.",
+      "The award presentation will take place on January 7, 2027, at the Palm Springs Convention Center.",
+      "The festival will run from January 7-18, 2027.",
+      "The event is presented by Kering and sponsored by Entertainment Tonight.",
+      "Nachhattar Singh Chandi is the Festival Chairman.",
+      "The screenplay was adapted by Will McCormack and Rashida Jones.",
+      "The film received four Gotham Award nominations, including Best Feature, Best Adapted Screenplay, Outstanding Supporting Performance for Penélope Cruz, and the Gotham Audience Award."
+    ],
+    "entities": {
+      "people": [
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz",
+        "Edward Norton",
+        "Nachhattar Singh Chandi",
+        "Will McCormack",
+        "Rashida Jones",
+        "Erik Anderson",
+        "Andrew Carden",
+        "Mark Johnson",
+        "Daniel Pemberton"
+      ],
+      "titles": [
+        "The Invite",
+        "Green Book",
+        "The Shape of Water",
+        "Belfast",
+        "Emilia Pérez",
+        "Hamnet",
+        "Killers of the Flower Moon",
+        "La La Land",
+        "Little Miss Sunshine",
+        "The Fabelmans",
+        "The Trial of the Chicago 7",
+        "Artificial",
+        "Real Women Have Curves",
+        "Swoon",
+        "Better Tomorrow",
+        "Y tu mamá también",
+        "Long Day's Journey into Night",
+        "Ray Gunn",
+        "Tangles",
+        "I Play Rocky",
+        "Behemoth!",
+        "Fjord",
+        "The Debut",
+        "Gentle Monster"
+      ]
+    },
+    "keywords": [
+      "The Invite film",
+      "Olivia Wilde The Invite",
+      "Palm Springs International Film Awards",
+      "The Invite Vanguard Award"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/awardswatch.com/wp-content/uploads/2026/10/The-Invite-Vanguard-Award-scaled.jpg?fit=1200%2C675&#038;ssl=1",
+        "caption": "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs International Film Awards",
+        "source": "AwardsWatch"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 17:01:00 +0000"
   }
 };
