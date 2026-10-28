@@ -85,13 +85,16 @@ jobs:
           WATCHDOG_PIPELINE_RUN_ID: ${{ inputs.pipeline_run_id }}
         run: python3 scripts/ai_watch.py
 
-      # Commit the verdict (only when it changed — a backup SKIP writes
-      # nothing, so this step is a no-op then). Retry script = the stall
-      # fix's standalone committer; no regeneration (see header).
-      - name: Commit verdict if changed
+      # Commit the verdict + the full state summary (only when they
+      # changed — a backup SKIP writes nothing, so this step is a no-op
+      # then). Retry script = the stall fix's standalone committer; no
+      # regeneration (see header). The state file is the owner's "save
+      # all the data" order: every hour's full summary stays in git
+      # history next to its verdict.
+      - name: Commit verdict + state if changed
         if: always()
         env:
-          RETRY_ADD: out/ai-watch.json
+          RETRY_ADD: out/ai-watch.json out/ai-watch-state.json
           RETRY_REGEN: ''
           RETRY_MESSAGE: 'watchdog: hourly verdict'
           RETRY_HTML_BUMP: '0'

@@ -29,7 +29,10 @@ Every run:
   4. Calls Gemini (key rotation GEMINI_API_KEY_1..6, model
      gemini-3.5-flash-lite, responseSchema) with the SYSTEM SPEC doc +
      the state summary, and writes out/ai-watch.json (verdicts +
-     auto-fix log + checked_at PKT).
+     auto-fix log + checked_at PKT). The FULL state summary is ALSO
+     saved every run to out/ai-watch-state.json (owner order
+     2026-10-28: "save kar le data sara") — git history keeps every
+     hour's summary, so nothing the watchdog saw is ever lost.
 
 NEVER-FAIL CONTRACT: this script exits 0 always. 429/quota, missing
 state files, a bad Gemini reply, or any exception -> a minimal
@@ -55,6 +58,15 @@ WATCH_PATH = os.path.join(OUT_DIR, "ai-watch.json")
 SPEC_PATH = os.path.join(REPO_ROOT, "docs", "WATCHDOG-SYSTEM.md")
 FLAG_PATH = os.path.join(REPO_ROOT, "data", "automation-state.json")
 REGISTRY_PATH = os.path.join(REPO_ROOT, "scripts", "registry.json")
+
+
+def state_path():
+    # Full per-run state summary (out/ai-watch-state.json). Derived from
+    # OUT_DIR at call time (not a module constant) so tests that re-point
+    # OUT_DIR get the right file. Owner order 2026-10-28: save ALL the
+    # data — the summary is committed next to the verdict every run, and
+    # the git history keeps a permanent record of every hour.
+    return os.path.join(OUT_DIR, "ai-watch-state.json")
 
 MODEL = "gemini-3.5-flash-lite"
 GH_API = "https://api.github.com"
@@ -1083,6 +1095,16 @@ def main():
     save_json(WATCH_PATH, out)
     log(f"wrote {WATCH_PATH} ({len(out['verdicts'])} verdicts, "
         f"{len(out['autofixes'])} autofixes, source={verdict_source})")
+    # Owner order 2026-10-28: save ALL the data. The full state summary
+    # (everything this run saw: steps, categories, fetch report, Gemini
+    # batch, failed-step log tail, recovery) is saved next to the
+    # verdict. The verdict never depends on it — a failed save only
+    # logs, it never fails the run.
+    try:
+        save_json(state_path(), state)
+        log(f"wrote {state_path()} (full state summary)")
+    except Exception as e:
+        log(f"state summary save failed (verdict unaffected): {e}")
     return 0
 
 

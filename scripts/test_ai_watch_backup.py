@@ -144,6 +144,13 @@ class Harness:
         except Exception:
             return None
 
+    def state(self):
+        try:
+            with open(self.mod.state_path()) as f:
+                return json.load(f)
+        except Exception:
+            return None
+
 
 def utc_hour(dt):
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:00:00Z")
@@ -214,6 +221,12 @@ check("backup missing verdict: mode=backup",
 check("backup missing verdict: history has entry",
       w is not None and any(
           x.get("pipeline_hour") == PREV_HOUR for x in w.get("history", [])))
+s = h.state()
+check("backup missing verdict: full state summary saved",
+      s is not None and s.get("watchdog", {}).get("pipeline_hour") == PREV_HOUR)
+check("backup missing verdict: state has five-modes evidence",
+      s is not None and isinstance(s.get("five_modes"), dict)
+      and len(s.get("five_modes", {})) == 5)
 
 # --- 6. backup + 2 consecutive failures -> NO dispatch ---
 fails = [run_row("completed", "failure",
@@ -254,6 +267,10 @@ check("primary verdict-present: target hour from run created_at",
       w is not None and w.get("pipeline_hour") == "2026-10-28T08:00:00Z")
 check("primary: mode=primary", w is not None and w.get("mode") == "primary")
 check("primary: no recovery dispatch", h.dispatch_calls == [])
+s = h.state()
+check("primary: full state summary saved",
+      s is not None and s.get("watchdog", {}).get("mode") == "primary"
+      and s.get("watchdog", {}).get("pipeline_hour") == "2026-10-28T08:00:00Z")
 
 # --- 9. ai_watch off -> skipped, no Gemini, no dispatch ---
 h = Harness("backup", flag={"automation": True, "ai_watch": False,

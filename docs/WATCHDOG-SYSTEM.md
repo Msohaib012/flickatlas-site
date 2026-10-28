@@ -276,6 +276,13 @@ enough for one Gemini call):
 - **Panel queue total** lives panel-side (Flickposts `data/queue.json`,
   ~4,829 items). The site pipeline cannot read it; the panel section
   shows it from its own queue data.
+- **Saving all the data (owner order 2026-10-28):** the full state
+  summary is ALSO written every run to `out/ai-watch-state.json` and
+  committed next to the verdict — every hour's complete summary stays
+  in the repo's git history forever. The verdict file itself keeps
+  only the last 6 hours of history; the state file is the permanent
+  record. Full raw GitHub Action logs are NOT saved (they live in
+  GitHub for 90 days; the failed step's log tail IS in the state).
 
 ## 12. Auto-fix rules (ONLY these — safe, mechanical, reversible)
 
@@ -379,6 +386,11 @@ enough for one Gemini call):
 
 - One verdict per step (18) + per category (11) + titles + daywise +
   tavily = 32 verdicts. Verdict text in Roman Urdu, Latin script.
+- **Full data saved:** every run also writes `out/ai-watch-state.json`
+  — the complete state summary (steps, categories, fetch report,
+  Gemini batch, failed-step log tail, recovery, mode + hour). Both
+  files are committed together, so the git history holds a permanent
+  record of every hour: verdict + the exact data it was based on.
 - The panel Ghar section **"AI ki nazar"** renders this file: plain
   list (theek / khaali / purana / update chahiye + kya karna hai) +
   auto-fix log + last check time (PKT 24h) + the re-dispatch record
