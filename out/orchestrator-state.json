@@ -1,23 +1,23 @@
 {
  "steps": {
   "apply_auto": {
-   "last_run": "2026-10-28T13:37:23Z",
+   "last_run": "2026-10-28T15:02:18Z",
    "last_status": "success"
   },
   "convert_news": {
-   "last_run": "2026-10-28T13:37:23Z",
+   "last_run": "2026-10-28T15:02:18Z",
    "last_status": "success"
   },
   "episode_guides": {
    "last_run": "2026-10-28T13:37:23Z",
-   "last_status": "success"
+   "last_status": "skipped"
   },
   "fetch": {
-   "last_run": "2026-10-28T13:37:23Z",
+   "last_run": "2026-10-28T15:02:18Z",
    "last_status": "success"
   },
   "gemini_batch": {
-   "last_run": "2026-10-28T13:37:23Z",
+   "last_run": "2026-10-28T15:02:18Z",
    "last_status": "success"
   },
   "gemini_reviews": {
@@ -29,7 +29,7 @@
   },
   "multisource_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-10-28T13:37:23Z"
+   "last_run": "2026-10-28T15:02:18Z"
   },
   "overseas_ai": {
    "last_status": "skipped",
@@ -40,12 +40,12 @@
    "last_status": "skipped"
   },
   "publish": {
-   "last_run": "2026-10-28T13:37:23Z",
+   "last_run": "2026-10-28T15:02:18Z",
    "last_status": "success"
   },
   "sacnilk_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-10-28T09:07:07Z"
+   "last_run": "2026-10-28T15:02:18Z"
   },
   "stats_health": {
    "last_run": "2026-10-28T06:13:53Z",
@@ -56,7 +56,7 @@
    "last_status": "skipped"
   },
   "stats_traffic": {
-   "last_run": "2026-10-28T13:37:23Z",
+   "last_run": "2026-10-28T15:02:18Z",
    "last_status": "success"
   },
   "tavily_boxoffice": {
@@ -73,11 +73,11 @@
   },
   "version_bump": {
    "last_status": "success",
-   "last_run": "2026-10-28T13:37:23Z"
+   "last_run": "2026-10-28T15:02:18Z"
   },
   "keywords_refresh": {
    "last_status": "skipped"
   }
  },
- "updated_at": "2026-10-28T13:37:23Z"
+ "updated_at": "2026-10-28T15:02:18Z"
 }

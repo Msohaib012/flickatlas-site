@@ -13523,5 +13523,194 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 13:24:49 +0000"
+  },
+  "1czdrwl": {
+    "id": "1czdrwl",
+    "type": "news",
+    "headline": "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
+    "dek": "Fans of Jake Gyllenhaal have only days left to stream his psychological thriller Nightcrawler on Netflix before it departs the platform.",
+    "body": [
+      {
+        "h": "The Impending Departure From Netflix",
+        "p": [
+          "Subscribers in North America face a limited window to stream Jake Gyllenhaal's acclaimed feature Nightcrawler. The psychological thriller is officially scheduled to leave Netflix, with October 31 serving as the final day subscribers can watch it on the platform before its removal on November 1.",
+          "At present, no new streaming home has been announced for the title following its departure from Netflix. While viewers will still retain the option to purchase or rent the film digitally, anyone hoping to catch it via a subscription streaming service will need to act quickly."
+        ]
+      },
+      {
+        "h": "An Iconic Performance by Jake Gyllenhaal",
+        "p": [
+          "Released in 2014, the film stands as a defining entry in Jake Gyllenhaal's career, showcasing his talent for inhabiting complex and morally gray characters. In this 117-minute R-rated picture, the actor portrays Louis Bloom, an ambitious and unsettling criminal who stumbles into the ruthless world of crime journalism.",
+          "Gyllenhaal commands the screen with an unwavering intensity, crafting a protagonist who is simultaneously charming and deeply disturbing. Supported by a talented cast that includes Rene Russo, Bill Paxton, and Riz Ahmed, Gyllenhaal delivers a standout turn that many critics and fans still regard as his finest cinematic work."
+        ]
+      },
+      {
+        "h": "A Sharp Indictment of the Modern Media",
+        "p": [
+          "Beyond its tense atmosphere and psychological depth, the film offers a pointed commentary on contemporary media landscapes. The narrative serves as a stark critique of sensationalism in local news, exploring how extreme headlines and shocking imagery are leveraged to capture viewer attention.",
+          "The dynamic between Louis Bloom and Rene Russo's character Nina highlights the compromises made in pursuit of ratings and profit. Together, their characters illustrate a system driven by greed, privilege, and the constant demand for sensational stories."
+        ]
+      },
+      {
+        "h": "The Complicity of the Audience",
+        "p": [
+          "Director Dan Gilroy designed the project to challenge viewers, pointing an accusing finger not just at news stations, but at the public consuming the broadcasts. In a 2014 interview, Gilroy noted that the narrative intended to implicate everyday viewers as active participants in the cycle of sensationalized media.",
+          "By consuming these broadcasts like fast food, audiences continually fuel the demand for graphic and sensationalized stories. This deeper thematic layer elevates the production beyond a standard thriller, securing its enduring critical acclaim."
+        ]
+      },
+      {
+        "h": "Critical Reception and Legacy",
+        "p": [
+          "The combination of sharp social commentary and a chilling lead performance has allowed the movie to maintain an exceptional reputation over the years. It currently holds a near-perfect 95 percent score on Rotten Tomatoes, reflecting its lasting impact on audiences and critics alike.",
+          "Despite notable award season snubs upon its initial theatrical run, the picture has cemented its status as a modern masterpiece in the thriller genre. Its exploration of ambition, media ethics, and societal complicity remains just as relevant today."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jake Gyllenhaal's acclaimed 2014 psychological thriller Nightcrawler is leaving Netflix in North America on November 1, leaving fans with only days to stream it. The film, directed by Dan Gilroy and starring Gyllenhaal alongside Rene Russo, Bill Paxton, and Riz Ahmed, remains celebrated for its sharp critique of media sensationalism and its near-perfect 95 percent Rotten Tomatoes rating."
+        ]
+      }
+    ],
+    "facts": [
+      "Jake Gyllenhaal starred in Nightcrawler released in 2014",
+      "Nightcrawler has a runtime of 117 minutes",
+      "The film was directed by Dan Gilroy",
+      "The cast includes Rene Russo, Bill Paxton, and Riz Ahmed",
+      "Nightcrawler is leaving Netflix in North America on November 1, 2026",
+      "The film holds a 95 percent Rotten Tomatoes score"
+    ],
+    "entities": {
+      "people": [
+        "Jake Gyllenhaal",
+        "Dan Gilroy",
+        "Rene Russo",
+        "Bill Paxton",
+        "Riz Ahmed",
+        "David Lancaster",
+        "Jennifer Fox",
+        "Tony Gilroy",
+        "Michel Litvak"
+      ],
+      "titles": [
+        "Nightcrawler",
+        "Brokeback Mountain",
+        "Jarhead",
+        "Zodiac"
+      ]
+    },
+    "keywords": [
+      "Jake Gyllenhaal Nightcrawler",
+      "Nightcrawler leaving Netflix",
+      "Dan Gilroy film Nightcrawler",
+      "Nightcrawler streaming removal"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/jake-gyllenhaal-sitting-in-a-booth-in-nightcrawler.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 14:45:18 GMT"
+  },
+  "nbhzbs": {
+    "id": "nbhzbs",
+    "type": "news",
+    "headline": "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'",
+    "dek": "A-list celebrities, music legends, and art VIPs including Sabrina Carpenter and Paul Simon have been spotted attending New York screenings of the acclaimed Spanish film.",
+    "body": [
+      {
+        "h": "Star-Studded Screenings in New York",
+        "p": [
+          "A growing flock of high-profile celebrities and art world VIPs has been turning out for special screenings of the Spanish period drama 'La Bola Negra' in New York City. Venues such as the Paris Theater and the Angelika Film Center have become hotspots for notable figures eager to catch the feature.",
+          "The crowd of attendees highlights the widespread industry interest surrounding the project as it continues its theatrical rollout."
+        ]
+      },
+      {
+        "h": "A-List Attendees and Cultural Icons",
+        "p": [
+          "Among the prominent names spotted in the audience are pop star Sabrina Carpenter, legendary musician Paul Simon, and acclaimed actor F. Murray Abraham. They were joined by photographer Nan Goldin and actor Zachary Quinto.",
+          "Other cultural figures and performers taking in the screenings include comedian Matt Rogers, content creator Matt Bernstein, and former 'Glee' star Kevin McHale."
+        ]
+      },
+      {
+        "h": "Directors and Festival Success",
+        "p": [
+          "The ambitious cinematic project is helmed by the directorial duo Javier Ambrossi and Javier Calvo. Their work on the film has earned substantial praise across the global festival circuit.",
+          "Prior to its current theatrical expansion, the picture picked up accolades at numerous prominent events, including the film festivals in Toronto, San Sebastián, the Hamptons, Busan, Sydney, Santa Fe, Chicago, and Minneapolis."
+        ]
+      },
+      {
+        "h": "Premise and Artistic Inspiration",
+        "p": [
+          "Spanning multiple time periods, the narrative explores the interconnected lives of three gay men across distinct eras set in 1932, 1937, and 2017.",
+          "The creative vision for the feature draws direct inspiration from the literary works of renowned Spanish poet and playwright Federico García Lorca."
+        ]
+      },
+      {
+        "h": "Box Office Milestones and Critical Acclaim",
+        "p": [
+          "The feature has achieved remarkable commercial milestones on the exhibition front, securing the highest per-screen average ever recorded for a Spanish-language film.",
+          "Additionally, it holds the second-highest per-screen average for any non-English film in history, trailing only the 2000s Best Picture winner 'Parasite'."
+        ]
+      },
+      {
+        "h": "Distribution and Oscar Momentum",
+        "p": [
+          "Netflix acquired the worldwide rights to the project during the Cannes Film Festival and is currently expanding its theatrical footprint.",
+          "Industry observers are increasingly tipping the period drama as a serious contender for a Best Picture nomination at the upcoming Academy Awards."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Celebrities including Sabrina Carpenter and Paul Simon have been attending New York screenings of the Spanish period piece 'La Bola Negra', directed by Javier Ambrossi and Javier Calvo.",
+          "The film, acquired by Netflix in Cannes and inspired by Federico García Lorca, is gaining strong Oscar momentum alongside historic per-screen box office averages."
+        ]
+      }
+    ],
+    "facts": [
+      "Sabrina Carpenter, Paul Simon, F. Murray Abraham, Nan Goldin, Zachary Quinto, Matt Rogers, Matt Bernstein, and Kevin McHale attended screenings",
+      "Screenings took place at the Paris Theater and Angelika Film Center in NYC",
+      "The film is directed by Javier Ambrossi and Javier Calvo",
+      "Netflix bought the film in Cannes",
+      "The film follows three gay men in 1932, 1937, and 2017",
+      "The movie is inspired by Federico García Lorca"
+    ],
+    "entities": {
+      "people": [
+        "Sabrina Carpenter",
+        "Paul Simon",
+        "F. Murray Abraham",
+        "Nan Goldin",
+        "Zachary Quinto",
+        "Matt Rogers",
+        "Matt Bernstein",
+        "Kevin McHale",
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Federico García Lorca"
+      ],
+      "titles": [
+        "La Bola Negra",
+        "Glee",
+        "Parasite"
+      ]
+    },
+    "keywords": [
+      "La Bola Negra film",
+      "Sabrina Carpenter La Bola Negra",
+      "Javier Ambrossi Javier Calvo",
+      "Federico Garcia Lorca film Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/146736189.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 10:25:27 -0400"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T18:52:13Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 260,
-     "detail": "RSS/Atom items across 139 sources; 15 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Where The Mask Ends Ep 21 Release Time: Will Spite Drive Lord Han To Accuse Wei Rao Of Embezzlement & Treason?",
-      "The Lament Of Autumn Episodes 29-30 Release Time: Will Ping Jung Finally Confess Her Feelings To Chang Xuan?",
-      "Meesaya Murukku 2 OTT Release Date: When And Where To Watch Hiphop Tamizha Adhi And Ketika Sharma's Film",
-      "Ramayana Faces Unexpected Competition? Akshay Kumar’s Film To Clash With Ranbir Starrer But There’s A Twist",
-      "Bigg Boss 20: Manish Goel Calls Out Scout's Double Standards: Kisiki Sharafat Ko Kamzori Nahi Samjhana",
-      "Heart Of The Beast Worldwide Box Office: Inches Away From Beating 2nd Highest-Grossing Insidious Film Soon!",
-      "Meesaya Murukku 2 OTT Release: When and where to watch Hiphop Tamizha Adhi’s music comedy drama online",
-      "Mookuthi Amman 2: Nayanthara’s fantasy sequel to run 2 and a half hours? Here’s what we know",
-      "SRK's 'King' poster draws comparisons with 'Dhurandhar 2' on social media",
-      "icc congratulates richard kettleborough on completing 100 test umpiring milestone 3077139.html",
-      "madhuri dixit husband dr nene reacts over insecurity with wife stardom successful marriage secret tmovj dskc 2681142 2026 10 27",
-      "young sheldon actress emily osment felt uncomfortable while shooting kissing scene with 12 year younger actor mortana jordan tmova dskc 2680377 2026 10 27",
-      "karwa chauth 2026 delhi ncr moonrise weather amid cyclone arnab details mmtm 2681739 2026 10 27",
-      "shah rukh khan kareena kapoor to recreate chammak challo vibe with king dance number article 156418175",
-      "former bigbang member seungri to become father amid legal troubles marriage plans revealed report article 156418296",
-      "txt soobin faces funeral wreath protest plans amid gay deepfake row fans ask why target the victim article 156418137",
-      "jailer 2 box office update rajinikanth film hits rs 400 crore in india grosses rs 700 crore worldwide article 156418306",
-      "meghan markle joins junior masterchef australia as co host alongside poh ling yeow article 156418320",
-      "DWTS's Carrie Ann Inaba Addressed How She Cleared The Air With 'Deeply Hurt' Jenna Johnson After Liftgate",
-      "Marina Sirtis' Tearful Tribute To Walter Koenig Reminds Us All That Star Trek Creates Strong Bonds"
-     ],
-     "updated": [],
-     "count": 195,
-     "detail": "197 stories, 1 duplicates removed, 63 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T19:26:40Z",
     "run_id": "40568906467",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "24 stories, 0 duplicates removed, 49 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T14:52:13Z",
+    "run_id": "40709929141",
+    "status": "success",
+    "checked": {
+     "candidates": 287,
+     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Janhvi Kapoor On Peddi Controversy, Being Sexualised: I Should Have Made Bigger Scene...",
+      "Bigg Boss 20: Why Is Qazi Touqeer Getting Lesser Screen Time After Weekend Ka Vaar? Netizens UPSET With...",
+      "Jailer 2 Karnataka Box Office Day 14 Prediction: Rajinikanth's Film Eyes ₹85 Cr, Kannada Version Crosses ₹8 Cr",
+      "Bigg Boss 20 EXCLUSIVE! Scout OP Aka Tanmay’s Mother On His ‘Close’ Bond With Love Gill: Kaashvi Was Upset…",
+      "Ramayana Advance Booking Day 1 (India): Ranbir's Film Crosses 14cr; Creates THIS Record 8 Days Before Release",
+      "Box Office: Can Yash Make History By Becoming The First Star To Deliver Three 100 Crore Grossers In Karnataka?",
+      "photos hrithik roshan shares a wholesome wish for sussanne khan 86845.html",
+      "exclusive shanaya kapoor on carrying forward student of the years legacy with after dark series 86836.html",
+      "Manoj Bajpayee says the industry is a bullsh*t, nobody appreciates",
+      "'Ajith Kumar sir is the real 'Daredevil'’: Director Adhik reveals",
+      "Trisha Krishnan turns heads in a red 'Astral Saree' with floral lace blouse worth nearly Rs 2 lakh",
+      "Hrithik pens birthday note for ex-wife Sussanne, Saba reacts",
+      "Inside Anirudh Ravichander and Kavya Maran's wedding invitation",
+      "Manoj Bajpayee on how making first move led to 'Raajneeti', 'Wasseypur' and 'Special 26'",
+      "In 1999, Hugh Grant’s blue-doored home featured in ‘Notting Hill’; now the home costs USD 10M",
+      "Hrithik Roshan says he is proud of the challenges ex-wife Sussanne Khan ha faced and overcome, calls her the best mother to sons Hrehaan and Hridaan",
+      "Will always be cheering for you: Hrithik's warm birthday note for Sussanne",
+      "ramayana mangal rang song ar rahman backlash old tamil song enna solla pogirai viral same tune tmovj dskc 2681386 2026 10 28",
+      "virender sehwag walksout mid show shouts at bihar manish kashyap najafgarh gangsters murder video tmovf dskc 2682519 2026 10 28",
+      "love gill emotional breakdown cried uncontrollably after scout nominated kaashvi reaction tmovh dskc 2682590 2026 10 28"
+     ],
+     "updated": [],
+     "count": 192,
+     "detail": "197 stories, 0 duplicates removed, 90 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T18:52:29Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1414,27 +1396,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T14:53:55Z",
+    "run_id": "40709929141",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
+      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T18:52:29Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 11,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1848,35 +1833,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T14:53:55Z",
+    "run_id": "40709929141",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T18:52:38Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 20,
-     "detail": "Tavily week search results"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
-      "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
-      "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
-      "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
-      "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
-      "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
-      "Director Rajiv Rai Clarifies Mohra Re-Release Plans And Denies Diwali Clash With Ramayana",
-      "Shanaya Kapoor Takes On Double Role and OTT Debut in Student of the Year: After Dark Trailer"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2106,27 +2083,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T20:21:22Z",
-    "run_id": "40575816743",
-    "status": "success",
-    "checked": {
-     "candidates": 196,
-     "detail": "196 collected staging rows from readers; 86 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 75,
-     "detail": "+0 new rows, 75 updated rows, 121 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2540,19 +2509,27 @@
      "detail": "+0 new rows, 8 updated rows, 200 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T15:02:02Z",
+    "run_id": "40709929141",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 85,
+     "detail": "+0 new rows, 85 updated rows, 123 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2812,27 +2789,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T19:36:17Z",
-    "run_id": "40568906467",
-    "status": "success",
-    "checked": {
-     "candidates": 86,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 86 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3294,19 +3263,30 @@
      "detail": "api-news.json 83 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:02:04Z",
+    "run_id": "40709929141",
+    "status": "success",
+    "checked": {
+     "candidates": 78,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
+      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 78 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3608,52 +3588,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T18:52:29Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": {
-     "candidates": 213,
-     "sources": {
-      "trending": 20,
-      "now_playing": 40,
-      "upcoming": 34,
-      "bollywood": 40,
-      "india_window": 40,
-      "pk_dramas": 20,
-      "pk_movies": 19
-     },
-     "picked": 14,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "now_playing/upcoming/bollywood p1-2 + india_window discover p1-2 + trending/pk p1"
-    },
-    "changed": {
-     "added": [
-      "Midnight Momo (1756758)",
-      "Sumo Didi (1186823)",
-      "Doosra (1794929)",
-      "Magazine (1728425)",
-      "Haiku (1593350)",
-      "Orijinal (1740967)",
-      "Border Diaries (1770836)",
-      "Naa Wife Missing (1793054)",
-      "Titans (869152)",
-      "Mookuthi Amman 2 (1327835)",
-      "Gandhari (1355228)",
-      "Baththa (1515692)",
-      "Tark-e-Tamanna (337266)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3883,19 +3830,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4334,19 +4281,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T14:53:54Z",
+    "run_id": "40709929141",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 192 still unprocessed; today by category: movies 7/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 3/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
+      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4600,19 +4557,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4937,24 +4894,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 189,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5264,24 +5221,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 46,
+     "count": 19,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5526,19 +5483,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5773,19 +5730,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T18:58:42Z",
-    "run_id": "40563697871",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6011,6 +5968,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-28T13:37:23Z",
     "run_id": "40696251129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6247,6 +6214,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6459,6 +6436,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
@@ -6471,8 +6458,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-28T15:02:18Z",
+    "run_id": "40709929141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T13:37:23Z"
+ "updated_at": "2026-10-28T15:02:18Z"
 }
