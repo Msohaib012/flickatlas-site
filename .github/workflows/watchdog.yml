@@ -1,0 +1,98 @@
+# AI watchdog — hourly guard loop (docs/WATCHDOG-SYSTEM.md)
+#
+# The watchdog is its OWN workflow, not a pipeline step (owner rule
+# 2026-10-28: "watchdog bhi GitHub/Gemini ki tarah so na jaye").
+#
+# TWO TRIGGERS — the watchdog never depends on the system it watches:
+#   PRIMARY — the hourly pipeline dispatches this workflow AFTER the
+#     deploy step, with its run id (inputs.pipeline_run_id). The verdict
+#     covers the UTC hour that pipeline run was created in.
+#   BACKUP — own schedule (25 * * * * UTC). Why :25 and not :10: a
+#     dispatcher-dispatched pipeline starts at :50 and finishes as late
+#     as :20 (16–30 min runs), so a :10 check would false-positive on a
+#     pipeline that is still running and re-dispatch it. By :25 every
+#     start path (:35 schedule → done by :05, :50 dispatcher → done by
+#     :20) has had time to land its verdict. The backup checks whether a
+#     verdict for the PREVIOUS hour already exists: yes -> SKIP (no Gemini
+#     call, no write); no -> verdict from the (stale) state + ONE recovery
+#     re-dispatch of the hourly pipeline (max 1/hour; never when the
+#     pipeline failed 2 hours in a row). In-flight checks make a false
+#     "missing" impossible (see scripts/ai_watch.py).
+#
+# Sequence every hour: fetch -> Gemini batch -> publish/commit (updates)
+# -> Cloudflare deploy -> watchdog check (this workflow, dispatched by
+# the pipeline). The backup only ever checks the PREVIOUS hour — it
+# never chases the current hour's pipeline.
+#
+# The script exits 0 ALWAYS and never fails the workflow run; the commit
+# step uses scripts/commit_with_retry_standalone.sh (3-attempt rebase
+# retry, same as the other standalone workflows). A conflicted
+# out/ai-watch.json takes origin/main's version (no regeneration — the
+# verdict is hourly and ephemeral; the next hour writes a fresh one).
+# The watchdog NEVER re-runs gemini_batch, never deletes published data,
+# never changes caps, never touches keys/secrets, never edits site
+# content or code. Kill switch: data/automation-state.json key ai_watch
+# (missing file = ON); the script only READS it.
+
+name: AI watchdog (hourly guard)
+
+on:
+  workflow_dispatch:
+    inputs:
+      pipeline_run_id:
+        description: 'Hourly pipeline run id this check covers (primary trigger, dispatched by the pipeline after deploy)'
+        required: false
+        default: ''
+  schedule:
+    # :25 UTC — backup trigger, previous hour only (see header comment).
+    - cron: '25 * * * *'
+
+# One watchdog at a time: a late primary and the :25 backup must never
+# write the verdict file together. Queued runs wait (no cancel — a
+# queued primary still carries that hour's verdict).
+concurrency:
+  group: flickatlas-watchdog
+  cancel-in-progress: false
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    permissions:
+      # contents: write — commit out/ai-watch.json.
+      # actions: write — workflow_dispatch calls (recovery re-dispatch of
+      # the hourly pipeline, and reading run lists for the in-flight /
+      # consecutive-failure guards).
+      contents: write
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: AI watchdog check
+        id: watch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          WATCHDOG_MODE: ${{ github.event_name == 'workflow_dispatch' && 'primary' || 'backup' }}
+          WATCHDOG_PIPELINE_RUN_ID: ${{ inputs.pipeline_run_id }}
+        run: python3 scripts/ai_watch.py
+
+      # Commit the verdict (only when it changed — a backup SKIP writes
+      # nothing, so this step is a no-op then). Retry script = the stall
+      # fix's standalone committer; no regeneration (see header).
+      - name: Commit verdict if changed
+        if: always()
+        env:
+          RETRY_ADD: out/ai-watch.json
+          RETRY_REGEN: ''
+          RETRY_MESSAGE: 'watchdog: hourly verdict'
+          RETRY_HTML_BUMP: '0'
+        run: bash scripts/commit_with_retry_standalone.sh

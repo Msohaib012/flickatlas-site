@@ -31,7 +31,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      actions: read
+      # actions: write — the last step dispatches the AI watchdog workflow
+      # (POST /actions/workflows/watchdog.yml/dispatches). Same repo only.
+      actions: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -597,6 +599,33 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: python3 scripts/cloudflare_deploy.py
+
+      # --- 16. Dispatch the AI watchdog (its own workflow) ------------------
+      # The watchdog is NO LONGER a pipeline step (owner rule 2026-10-28:
+      # "watchdog bhi GitHub/Gemini ki tarah so na jaye"). It runs as its
+      # own workflow (.github/workflows/watchdog.yml): this step dispatches
+      # it AFTER the deploy, so the check always sees the deployed site
+      # and the verdict covers this run's hour (derived from the run id).
+      # The watchdog workflow also has its own :25 UTC schedule as a
+      # backup — if this dispatch never happens (pipeline missed/failed),
+      # the backup run still checks the hour and re-dispatches the
+      # pipeline once. if: always() — a failed pipeline still gets
+      # judged. Best-effort: a failed dispatch never fails the run.
+      - name: Dispatch AI watchdog
+        id: dispatch-watchdog
+        if: always()
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/watchdog.yml/dispatches" \
+            -d "{\"ref\":\"main\",\"inputs\":{\"pipeline_run_id\":\"${{ github.run_id }}\"}}")
+          echo "watchdog dispatch HTTP $code"
+          [ "$code" = "204" ] || echo "watchdog dispatch failed (non-fatal)"
+
 
 
 
