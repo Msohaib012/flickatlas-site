@@ -741,6 +741,45 @@
      "detail": "73 stories, 0 duplicates removed, 59 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T03:52:24Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": {
+     "candidates": 119,
+     "detail": "RSS/Atom items across 139 sources; 23 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali Box Office Collection Day 12: Vijay Deverakonda's Film Nears ₹77 Cr Worldwide, India Net Hits ₹55 Cr",
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth's Film Nears ₹750 Cr Worldwide, India Net Crosses ₹415 Cr",
+      "Barry Keoghan undergoes skin-tightening treatment amid trolling",
+      "Suriya's ‘Scene’ was first planned with Fahadh Faasil",
+      "When Leslie Lewis revealed why his collaboration with Michael Jackson never happened",
+      "Diljit Dosanjh’s Delhi concert on October 30: 2,000 guards, no car zones, traffic curbs and pedestrian-only zone planned amid security concerns",
+      "Subhas Chandra Bose's grandnephew writes to I&B minister, demands strict action against ‘trivialisation of Netaji’ in Prabhas' Fauzi teaser",
+      "Fauzi row: Netaji's grandnephew writes to I&B Minister, demands teaser ban",
+      "Took semester break, stayed close: Janhvi on Shikhar's support after Sridevi's death",
+      "hanuman ansh producer anupriya nagar completes graduation at 21 neem karoli baba tmova 2681852 2026 10 28",
+      "sudan drone attack nyala darfur civil war casualties human rights emergency lawyers msf rapid support forces united nations mmtc 2681844 2026 10 28",
+      "ramayana director nitesh tiwari shuts down ai dubbing rumours but there is a catch article 156419312",
+      "danny masterson appeal in rape case rejected that 70s show stars 30 year prison sentence stands article 156419378",
+      "trisha as jayalalitha in mgr biopic cm vijay as next pm jm bashir makes big revelation article 156419218",
+      "Henry Cavill's 'The Mummy' Replacement Is Officially Back on Prime Video",
+      "The Perfect ‘Breaking Bad’ Cast if the Show Were Made in 2026",
+      "5 Thriller Miniseries Where Every Episode Is a 10/10, Ranked",
+      "‘VisionQuest’s Most Misunderstood Character Finally Gets Redemption in Episode 6",
+      "Why There’s No The Terminal List Season 2 Episode 9 This Week",
+      "Daily Show’s Kevin Bleyer, Who Wrote Barack Obama’s Speech, Dies at 54"
+     ],
+     "updated": [],
+     "count": 61,
+     "detail": "63 stories, 2 duplicates removed, 56 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -1091,6 +1130,27 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T03:52:37Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Globally",
+      "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1435,6 +1495,24 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T03:52:37Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -1655,6 +1733,16 @@
     "category": "Trending Topics",
     "run_at": "2026-10-28T03:02:15Z",
     "run_id": "40623275076",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2039,6 +2127,24 @@
      "detail": "+0 new rows, 79 updated rows, 126 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T03:57:57Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": {
+     "candidates": 206,
+     "detail": "205 collected staging rows from readers; 90 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "+0 new rows, 13 updated rows, 192 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -2266,6 +2372,16 @@
     "category": "Reviews",
     "run_at": "2026-10-28T03:02:15Z",
     "run_id": "40623275076",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -2674,6 +2790,27 @@
      "detail": "api-news.json 82 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T03:57:59Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": {
+     "candidates": 84,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Globally",
+      "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 84 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -2924,6 +3061,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-28T03:02:15Z",
     "run_id": "40623275076",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3191,6 +3338,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
@@ -3452,6 +3609,26 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T03:52:37Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 61 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Globally",
+      "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
@@ -3640,6 +3817,16 @@
     "category": "Box Office",
     "run_at": "2026-10-28T03:02:15Z",
     "run_id": "40623275076",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3863,6 +4050,21 @@
      "added": [],
      "updated": [],
      "count": 210,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 198,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
@@ -4143,6 +4345,21 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
@@ -4350,6 +4567,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
@@ -4538,6 +4765,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-28T03:02:15Z",
     "run_id": "40623275076",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -4734,6 +4971,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -4826,6 +5073,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -4898,8 +5155,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T03:58:06Z",
+    "run_id": "40628958259",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T03:02:15Z"
+ "updated_at": "2026-10-28T03:58:06Z"
 }

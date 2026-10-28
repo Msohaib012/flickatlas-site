@@ -10910,5 +10910,203 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 02:10:00 GMT"
+  },
+  "i3rgbe": {
+    "id": "i3rgbe",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Globally",
+    "dek": "Rajinikanth's Jailer 2 maintains a strong theatrical run, crossing Rs 415 crore in domestic net collections and closing in on the Rs 750 crore worldwide milestone by its thirteenth day.",
+    "body": [
+      {
+        "h": "Global Milestone in Sight",
+        "p": [
+          "The action drama Jailer 2 has continued its impressive theatrical journey, accumulating an estimated worldwide gross of Rs 744 crore by the conclusion of Tuesday, October 27, according to tracking data from Sacnilk.",
+          "With only a small gap remaining to hit the Rs 750 crore threshold, the film is performing steadily during its second week on the big screen."
+        ]
+      },
+      {
+        "h": "Domestic Net Collections on Day 13",
+        "p": [
+          "On its thirteenth day in theatres, the movie brought in an estimated Rs 7.50 crore net across India.",
+          "This followed a Monday collection of roughly Rs 9.45 crore, indicating a standard weekday downward adjustment of about 20.6 percent in daily earnings."
+        ]
+      },
+      {
+        "h": "Cumulative Earnings and Overseas Contribution",
+        "p": [
+          "The latest figures push the film's cumulative domestic net total to Rs 415.65 crore, while the domestic gross has reached Rs 486.50 crore.",
+          "International territories added an estimated Rs 2 crore on Tuesday, lifting the cumulative overseas gross to Rs 257.50 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version remained the primary contributor to domestic revenues on Tuesday, bringing in an estimated Rs 4.15 crore net from 4,620 shows with a 21.2 percent occupancy rate.",
+          "Meanwhile, the Telugu version generated Rs 1.65 crore net, the Hindi version earned Rs 1.45 crore net, and the Kannada version added Rs 25 lakh to the total across their respective screenings."
+        ]
+      },
+      {
+        "h": "Audience Footfall and Show Counts",
+        "p": [
+          "Across all four linguistic versions, the movie was screened across an estimated 10,664 shows on its thirteenth day.",
+          "Data indicates that approximately 6.09 lakh tickets were purchased on Tuesday alone, bringing the cumulative estimated ticket sales to roughly 2.77 crore."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The sequel features superstar Rajinikanth reprising his prominent role as the retired jailer Tiger Muthuvel Pandian, alongside returning actors Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik.",
+          "New additions to the ensemble include S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan, alongside special cameo appearances by notable stars like Mohanlal, Shiva Rajkumar, Hrithik Roshan, Jackie Shroff, Vijay Sethupathi, and Vinayakan."
+        ]
+      },
+      {
+        "h": "Direction and Background",
+        "p": [
+          "Jailer 2 was written and directed by Nelson Dilipkumar and produced by Kalanithi Maran under the Sun Pictures banner, following the massive success of the original 2023 film.",
+          "The technical crew features music director Anirudh Ravichander, cinematographer Vijay Kartik Kannan, and editor R. Nirmal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 reached an estimated worldwide gross of Rs 744 crore by October 27, 2026, driven by strong domestic net collections crossing Rs 415.65 crore. Directed by Nelson Dilipkumar and produced by Sun Pictures, the sequel continues a successful second week in multiple languages globally."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 reached an estimated worldwide gross of Rs 744 crore by Tuesday, October 27, 2026.",
+      "The film recorded an India net collection of Rs 7.50 crore on Day 13.",
+      "The cumulative domestic net collection reached Rs 415.65 crore.",
+      "Jailer 2 was released worldwide on October 15, 2026.",
+      "The film was directed by Nelson Dilipkumar and produced by Kalanithi Maran under Sun Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi",
+        "Vinayakan",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/jailer2-57951793156461.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Globally",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 08:32:29 +0530"
+  },
+  "kvl1zj": {
+    "id": "kvl1zj",
+    "type": "news",
+    "headline": "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival",
+    "dek": "During a visit to the Tokyo International Film Festival, top executives from the Academy of Motion Picture Arts and Sciences emphasized a commitment to honoring human-driven creativity while detailing ongoing adjustments to international feature film rules.",
+    "body": [
+      {
+        "h": "Upholding Human Creativity in the Age of Artificial Intelligence",
+        "p": [
+          "As modern cinematic workflows increasingly incorporate automated technology, the leadership of the Academy of Motion Picture Arts and Sciences remains firm on its core values. Academy president Lynette Howell Taylor addressed the topic during a recent industry appearance, noting that digital tools have been utilized in post-production for roughly a decade.",
+          "Despite these technological advancements, Howell Taylor stressed that the organization will continuously prioritize human achievement. She acknowledged that while technical innovations can improve the viewing experience, the core of any recognized project must rely on human-driven effort, while also pointing out valid industry concerns regarding transparency and copyright."
+        ]
+      },
+      {
+        "h": "Refining Qualification Pathways for International Features",
+        "p": [
+          "The organization is also evaluating the newly established pathway for the international feature film category. Under guidelines introduced for the 99th Oscars, non-English-language projects can secure eligibility by capturing top honors at six major international film festivals, bypassing the traditional requirement of being an official national selection.",
+          "Meredith Shea, the chief membership, impact and industry officer, noted that the International Feature Executive Committee will constantly assess these standards to ensure they accurately represent filmmakers globally. This approach mirrors existing qualification frameworks already utilized for documentary and short film categories."
+        ]
+      },
+      {
+        "h": "Creating Multiple Avenues for Exiled and Global Artists",
+        "p": [
+          "Recent updates to eligibility rules are specifically designed to assist creators working far from their native countries. Academy CEO Bill Kramer highlighted that past adjustments allow refugee filmmakers living abroad to represent the nations granting them asylum.",
+          "These structural adaptations work in tandem with festival-based qualifications to provide alternative routes for entry. By removing the sole reliance on home-country submissions, the institution aims to open doors for a wider array of global storytellers."
+        ]
+      },
+      {
+        "h": "Expanding International Representation and Membership",
+        "p": [
+          "The leadership delegation's presence in Japan underscores a broader international outreach initiative. Kramer noted that non-U.S. participants now account for a quarter of the total membership, reflecting a steady shift in the demographic makeup of the voting body.",
+          "By engaging directly with foreign film communities in regions like Rio, Marrakesh, Morelia, Busan, and Tokyo, the organization seeks to connect with current members and cultivate relationships with emerging international talent."
+        ]
+      },
+      {
+        "h": "Addressing Economic Barriers and Leveling the Playing Field",
+        "p": [
+          "Recognizing that promotional expenses can disadvantage smaller film industries in South and Southeast Asia, Academy executives discussed ways to mitigate financial hurdles. Howell Taylor reiterated that while the institution does not dictate promotional spending, conversations regarding accessibility remain ongoing.",
+          "To ensure fair consideration, the Academy utilizes its internal screening platform, where every submitted title is presented under uniform conditions. Furthermore, voting members operate under an honor system requiring them to view all contenders within a specific category before casting ballots."
+        ]
+      },
+      {
+        "h": "Preparing for Future Broadcasts and Global Reach",
+        "p": [
+          "Looking ahead to the 2029 ceremony, the organization is preparing for its first broadcast under a new agreement with YouTube. Kramer explained that the partnership aims to expand the viewer base by potentially reaching billions of users worldwide with multi-language viewing options.",
+          "With international viewership already rivaling domestic metrics, the digital shift is expected to enhance direct audience engagement. Meanwhile, Amy Homma, director and president of the Academy Museum of Motion Pictures, highlighted the institution's ongoing commitment to preserving international film histories and featuring Asian and Asian American cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Academy leaders visiting the Tokyo International Film Festival confirmed that future awards will continue to honor human-driven craftsmanship despite the rise of artificial intelligence. Additionally, executives discussed potential adjustments to international feature qualification rules and emphasized the organization's ongoing efforts toward global inclusivity and wider international membership."
+        ]
+      }
+    ],
+    "facts": [
+      "Lynette Howell Taylor is the Academy president.",
+      "Bill Kramer is the Academy CEO.",
+      "Meredith Shea is the chief membership, impact and industry officer.",
+      "Amy Homma is the director and president of the Academy Museum of Motion Pictures and Academy Collection.",
+      "The new international feature rules apply starting with the 99th Oscars.",
+      "There are six qualifying festivals for the international feature route under the new rules.",
+      "Non-U.S. membership currently stands at 25%.",
+      "The partnership with YouTube is set for the 2029 ceremony.",
+      "The Academy Museum opened in 2021."
+    ],
+    "entities": {
+      "people": [
+        "Lynette Howell Taylor",
+        "Bill Kramer",
+        "Meredith Shea",
+        "Amy Homma",
+        "Andrey Zvyagintsev"
+      ],
+      "titles": [
+        "Minotaur",
+        "Project Hail Mary",
+        "KPop Demon Hunters",
+        "The Land of Jinn",
+        "Shirjara: Song of Grandmother",
+        "Wild Zero Overdrive"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 03:48:43 +0000"
   }
 };

@@ -1,6 +1,6 @@
 {
   "connected": true,
-  "generated": "2026-10-28T03:02:13Z",
+  "generated": "2026-10-28T03:58:06Z",
   "realtime": {
     "active_users": 0
   },
@@ -13,27 +13,27 @@
   "last7": {
     "users": 26,
     "pageviews": 511,
-    "sessions": 65,
-    "avg_session_seconds": 813.7
+    "sessions": 63,
+    "avg_session_seconds": 892.3
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
       "views": 160,
-      "avg_time_seconds": 797.3
+      "avg_time_seconds": 881.5
     },
     {
       "path": "/movie",
       "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
       "views": 75,
-      "avg_time_seconds": 278.2
+      "avg_time_seconds": 301.4
     },
     {
       "path": "/news-item",
       "title": "News Story | FlickAtlas",
       "views": 58,
-      "avg_time_seconds": 39.8
+      "avg_time_seconds": 47.0
     },
     {
       "path": "/movies",
@@ -63,7 +63,7 @@
       "path": "/episode-guides",
       "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
       "views": 13,
-      "avg_time_seconds": 11.1
+      "avg_time_seconds": 12.9
     },
     {
       "path": "/flickatlas-site/",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 63,
+      "sessions": 62,
       "users": 26
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 4,
-      "users": 2
+      "sessions": 1,
+      "users": 1
     }
   ],
   "countries": [
@@ -98,8 +98,8 @@
       "users": 13
     },
     {
-      "country": "",
-      "users": 3
+      "country": "(not set)",
+      "users": 4
     },
     {
       "country": "Germany",
@@ -116,10 +116,6 @@
     {
       "country": "United Kingdom",
       "users": 2
-    },
-    {
-      "country": "(not set)",
-      "users": 1
     },
     {
       "country": "Brazil",
