@@ -858,6 +858,41 @@
      "detail": "59 stories, 0 duplicates removed, 57 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T06:08:29Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": {
+     "candidates": 68,
+     "detail": "RSS/Atom items across 139 sources; 20 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Clayface North America Box Office: DC’s Body Horror Is Set To Surpass Lee Cronin’s The Mummy",
+      "Ayyana Mane 2 Ending Explained: Who Killed Nagalambike? Divine Curse Or Human Greed?",
+      "James Bond Casting Buzz Heats Up as Jacob Elordi and Jack Lowden Emerge Among Top Contenders",
+      "Johnny Carson bought a four-acre Malibu estate for $9.5 million in 1984; after owners sought $81.5 million, it sold for $40 million",
+      "Netflix’s Allen Trailer Reveals an Alien Reunion From the Studio Behind Bluey",
+      "Stargate SG-1: Asgard Officially Arrives March 2027",
+      "The Expanse Star's 3-Season Apple TV Series Is Hard Sci-Fi Done Right",
+      "Korean Webtoon Adaptations, ‘The Vanishing Act’ Lead 2027 Vertical Slate Unveiled by COL Group, V47 and Virtue Asia",
+      "Thai Forest Spirit Horror ‘Cher,’ First Thai Winner at Frontières, Joins Tokyo Gap-Financing Market",
+      "Summer Vacation: Episodes 1-2 (First Impressions)",
+      "KARA's Nicole to host ENA audition show 'MYSTIC' with Sandara Park and Kep1er's Xiaoting",
+      "Tyler Hynes to Host Free Screening of His 2026 Hallmark Christmas Movie Before It Airs on TV",
+      "Kim Kardashian reveals ‘big burden’ of co-parenting with former husband Kanye West",
+      "BMG Signs Australia’s Parcels to Global Publishing Deal",
+      "season 1",
+      "AEN20261028007600315"
+     ],
+     "updated": [],
+     "count": 16,
+     "detail": "16 stories, 0 duplicates removed, 52 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
@@ -1271,6 +1306,27 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T06:08:41Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
+      "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1669,6 +1725,24 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T06:08:41Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
@@ -1923,27 +1997,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T09:47:39Z",
-    "run_id": "40482720997",
-    "status": "success",
-    "checked": {
-     "candidates": 138,
-     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 127 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2357,6 +2423,24 @@
      "detail": "+0 new rows, 12 updated rows, 194 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T06:13:41Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": {
+     "candidates": 206,
+     "detail": "206 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 202 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -2618,27 +2702,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T10:50:40Z",
-    "run_id": "40490740775",
-    "status": "success",
-    "checked": {
-     "candidates": 87,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 87 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3067,6 +3143,27 @@
      "detail": "api-news.json 86 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T06:13:43Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": {
+     "candidates": 85,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
+      "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 85 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -3347,6 +3444,16 @@
     "category": "Drama Episodes",
     "run_at": "2026-10-28T05:57:41Z",
     "run_id": "40640318001",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3640,6 +3747,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-28T05:57:41Z",
     "run_id": "40640318001",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -3965,6 +4082,26 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T06:08:41Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 16 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 5/6, celebrities_events 0/5, upcoming_releases 3/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
+      "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
@@ -4183,6 +4320,16 @@
     "category": "Box Office",
     "run_at": "2026-10-28T05:57:41Z",
     "run_id": "40640318001",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -4451,6 +4598,21 @@
      "added": [],
      "updated": [],
      "count": 201,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 184,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
@@ -4766,6 +4928,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
@@ -5003,6 +5175,21 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 54,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
@@ -5225,6 +5412,21 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "metadata_refresh": [
@@ -5447,6 +5649,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -5569,6 +5781,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -5671,8 +5893,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T06:13:53Z",
+    "run_id": "40641926845",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-28T05:57:41Z"
+ "updated_at": "2026-10-28T06:13:53Z"
 }

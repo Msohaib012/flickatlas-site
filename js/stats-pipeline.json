@@ -1,30 +1,30 @@
 {
-  "generated": "2026-10-28T03:02:13Z",
+  "generated": "2026-10-28T06:13:50Z",
   "fetch": {
     "status": "success",
-    "run_id": 40617419764,
-    "started_at": "2026-10-28T01:50:31Z",
-    "finished_at": "2026-10-28T01:58:29Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40617419764",
+    "run_id": 40640318001,
+    "started_at": "2026-10-28T05:50:31Z",
+    "finished_at": "2026-10-28T05:57:55Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40640318001",
     "sources_total": 139,
-    "sources_ok": 87,
-    "sources_error": 21,
-    "sources_unchanged": 29,
+    "sources_ok": 82,
+    "sources_error": 20,
+    "sources_unchanged": 35,
     "sources_other": 2,
-    "stories_queued": 73,
-    "stories_new": 73,
+    "stories_queued": 16,
+    "stories_new": 16,
     "duplicates_removed": 0,
     "per_category": {
-      "Box Office": 2,
-      "Awards": 3,
-      "Trailers": 0,
-      "Music / OST": 2,
-      "Episodes": 4,
-      "Upcoming releases": 0,
-      "OTT / Streaming": 3,
+      "Box Office": 1,
+      "Awards": 0,
+      "Trailers": 1,
+      "Music / OST": 0,
+      "Episodes": 1,
+      "Upcoming releases": 1,
+      "OTT / Streaming": 0,
       "TV & Dramas": 1,
-      "Celebrity news & events": 1,
-      "Movies": 57,
+      "Celebrity news & events": 0,
+      "Movies": 11,
       "Entertainment viral": 0
     },
     "per_scope": {
@@ -46,39 +46,39 @@
       "Music": 2,
       "Tech": 1
     },
-    "next_run": "2026-10-28T03:35:00Z"
+    "next_run": "2026-10-28T06:35:00Z"
   },
   "gemini": {
     "status": "success",
-    "run_id": 40617419764,
-    "started_at": "2026-10-28T01:50:31Z",
-    "finished_at": "2026-10-28T01:58:29Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40617419764",
-    "generated_at": "2026-10-28T02:52:45Z",
+    "run_id": 40640318001,
+    "started_at": "2026-10-28T05:50:31Z",
+    "finished_at": "2026-10-28T05:57:55Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40640318001",
+    "generated_at": "2026-10-28T06:08:41Z",
     "picked": 2,
-    "read": 73,
-    "unprocessed": 73,
+    "read": 16,
+    "unprocessed": 16,
     "per_category": {
-      "movies": 1,
-      "tv_dramas": 1
+      "box_office": 1,
+      "upcoming_releases": 1
     },
-    "skipped": 1,
+    "skipped": 0,
     "posts_created": 2,
-    "next_run": "2026-10-28T03:35:00Z"
+    "next_run": "2026-10-28T06:35:00Z"
   },
   "publish": {
     "status": "success",
-    "run_id": 40617419764,
-    "started_at": "2026-10-28T01:50:31Z",
-    "finished_at": "2026-10-28T01:58:29Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40617419764",
-    "next_run": "2026-10-28T03:35:00Z"
+    "run_id": 40640318001,
+    "started_at": "2026-10-28T05:50:31Z",
+    "finished_at": "2026-10-28T05:57:55Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40640318001",
+    "next_run": "2026-10-28T06:35:00Z"
   },
   "posts": {
-    "total": 228,
-    "articles": 129,
+    "total": 236,
+    "articles": 137,
     "titles": 99,
-    "today": 4,
+    "today": 12,
     "article_categories": {
       "glx1ay": "celebrities_events",
       "1bzs50a": "ott_streaming",
@@ -175,20 +175,26 @@
       "1k0m0g8": "trailers",
       "1rh3nae": "box_office",
       "16tcqet": "movies",
-      "ry6268": "tv_dramas"
+      "ry6268": "tv_dramas",
+      "i3rgbe": "box_office",
+      "kvl1zj": "awards",
+      "vr9sai": "upcoming_releases",
+      "1cifoet": "box_office",
+      "19oobjn": "box_office",
+      "fauofw": "upcoming_releases",
+      "6u591s": "box_office",
+      "1ndy9b3": "upcoming_releases"
     }
   },
   "queue": {
-    "total": 73,
+    "total": 16,
     "per_category": {
-      "Movies": 57,
-      "OTT / Streaming": 3,
-      "Box Office": 2,
-      "Music / OST": 2,
+      "Box Office": 1,
+      "Movies": 11,
+      "Trailers": 1,
       "TV & Dramas": 1,
-      "Episodes": 4,
-      "Awards": 3,
-      "Celebrity news & events": 1
+      "Episodes": 1,
+      "Upcoming releases": 1
     }
   }
 }

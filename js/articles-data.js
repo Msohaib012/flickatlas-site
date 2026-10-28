@@ -11489,5 +11489,189 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 10:55:24 +0530"
+  },
+  "6u591s": {
+    "id": "6u591s",
+    "type": "news",
+    "headline": "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
+    "dek": "Tom Rhys Harries stars in the latest R-rated DCU entry, which is making significant waves at the box office and closing in on major milestone figures.",
+    "body": [
+      {
+        "h": "Introduction To The Box Office Clash",
+        "p": [
+          "The theatrical landscape is currently witnessing an intriguing horror showdown in North America. The DCU's newest cinematic offering has been steadily climbing the charts and is now poised to outpace another notable genre release from earlier this year.",
+          "Fueled by favourable audience reception and strong word of mouth, this R-rated feature is proving to be a formidable contender in the current theatrical climate."
+        ]
+      },
+      {
+        "h": "First Monday And Domestic Performance",
+        "p": [
+          "On its first Monday in North American theatres, the film brought in $2.3 million. Although this represented a drop of roughly 59% compared to its Sunday earnings, the figure still outpaced comparable releases such as Kraven the Hunter and Birds of Prey during their respective Monday runs.",
+          "Following these figures, the domestic gross for the feature reached a total of $26.3 million within its initial four days of release."
+        ]
+      },
+      {
+        "h": "Chasing The Mummy",
+        "p": [
+          "According to data from Box Office Mojo, the Tom Rhys Harries-headlined picture is closing the gap on Lee Cronin's reimagined monster movie, which relies on an exorcism-themed plot involving an ancient Egyptian demon.",
+          "While Lee Cronin's film finished its domestic theatrical run with a total of $29.1 million despite mixed reviews, the DCU title sits less than $4 million away from overtaking that domestic benchmark."
+        ]
+      },
+      {
+        "h": "Global Collections And Momentum",
+        "p": [
+          "On a global scale, the body-horror feature has accumulated $47.4 million, divided between $26.3 million domestically and $21.1 million internationally. It is now rapidly approaching the $50 million threshold worldwide.",
+          "With robust ongoing momentum, industry projections suggest the movie could challenge the worldwide figures of competing horror entries and potentially secure its position as a top-performing DCU release of the year in the coming weeks."
+        ]
+      },
+      {
+        "h": "Premise And Themes",
+        "p": [
+          "The narrative centers on a rising Hollywood actor whose existence undergoes a terrifying metamorphosis, transforming him into a revenge-driven monster.",
+          "The story delves into complex themes including the loss of personal identity, the dark consequences of scientific ambition, and corrosive romantic attachments."
+        ]
+      },
+      {
+        "h": "Release Context",
+        "p": [
+          "Marking the DCU's first venture into body horror, the project arrived in cinemas on October 23. It also follows comparative tracking against earlier franchise entries, such as Joker 2."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The DCU body-horror film starring Tom Rhys Harries is closing in on the North American box office total of Lee Cronin's The Mummy after a strong opening week. Having secured significant domestic and international earnings, the movie continues to perform well as it approaches major global milestones following its October release."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: October 23",
+      "First Monday North America collection: $2.3 million",
+      "Four-day domestic gross: $26.3 million",
+      "International collection: $21.1 million",
+      "Worldwide collection: $47.4 million",
+      "The Mummy domestic collection: $29.1 million",
+      "The Mummy worldwide collection: $90.5 million",
+      "Kraven the Hunter first Monday gross: $821k",
+      "Birds of Prey first Monday gross: $2.2 million"
+    ],
+    "entities": {
+      "people": [
+        "Tom Rhys Harries",
+        "Lee Cronin",
+        "Craig Conover",
+        "Shah Rukh Khan",
+        "Yash"
+      ],
+      "titles": [
+        "Clayface",
+        "The Mummy",
+        "Kraven the Hunter",
+        "Birds of Prey",
+        "Street Fighter",
+        "Joker 2",
+        "Ayyana Mane 2",
+        "Ramayana",
+        "Heart Of The Beast",
+        "Insidious",
+        "Charmed By A Southern Monster",
+        "Baadshah",
+        "King"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/clayface-box-office-dcs-r-rated-horror-eyes-a-new-milestone-against-lee-cronins-the-mummy-01.jpg",
+        "caption": "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 06:05:17 +0000"
+  },
+  "1ndy9b3": {
+    "id": "1ndy9b3",
+    "type": "news",
+    "headline": "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027",
+    "dek": "Fans of Stargate SG-1 can look forward to a new die-cast collectible of the iconic Asgard warship O'Neill, scheduled to ship in March 2027.",
+    "body": [
+      {
+        "h": "The Return of an Iconic Starship",
+        "p": [
+          "Master Replicas is expanding its lineup of franchise memorabilia by introducing a brand-new die-cast collectible that recreates the famous Asgard warship, the O'Neill. First introduced to audiences during Season 4 of Stargate SG-1, the vessel holds a special place in the hearts of longtime viewers.",
+          "The spacecraft originally debuted in the opening episode titled Small Victories, showcasing the pinnacle of Asgard engineering designed specifically to combat the relentless Replicators."
+        ]
+      },
+      {
+        "h": "Design and Specifications",
+        "p": [
+          "The upcoming collectible measures approximately seven inches long, six inches wide, and two inches tall. Unlike standard plastic merchandise, the model features a durable die-cast construction.",
+          "Developers built the replica utilizing the original visual-effects files from Stargate SG-1, ensuring the spacecraft matches its on-screen appearance with high accuracy. The package also includes a dedicated display stand so collectors can pair it with previously released items like the Bilskirnir model."
+        ]
+      },
+      {
+        "h": "Pre-order and Shipping Details",
+        "p": [
+          "Collectors interested in acquiring the piece can currently pre-order the item for $84.99. Current manufacturer schedules point toward a shipping window in March 2027.",
+          "The creators note that this release timeline remains provisional and subject to change. Furthermore, the promotional images currently available online consist of digital renders instead of photographs of the final manufactured product."
+        ]
+      },
+      {
+        "h": "Background on Small Victories",
+        "p": [
+          "The legendary warship was named in honor of Colonel Jack O'Neill following its introduction in Season 4. Its maiden voyage also marked its final mission when Samantha Carter devised a strategy to sacrifice the vessel to defeat the Replicators.",
+          "The episode remains memorable for its dual plotlines, which featured Thor seeking help from Major Carter while O'Neill and Teal'c fought a Replicator infestation on a Russian submarine."
+        ]
+      },
+      {
+        "h": "Wider Franchise Developments",
+        "p": [
+          "This collectible announcement arrives during an eventful period for the broader Stargate universe. Earlier in the year, Amazon MGM Studios stepped away from a planned revival led by Martin Gero.",
+          "Fortunately, reports from October confirmed that WandaVision and Agatha All Along creator Jac Schaeffer is developing a brand-new television series for Amazon MGM Studios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Master Replicas is releasing a new die-cast model of the Asgard warship O'Neill from Stargate SG-1, with shipping tentatively scheduled for March 2027. This collectible release accompanies broader franchise developments, including a new television series in development under Jac Schaeffer."
+        ]
+      }
+    ],
+    "facts": [
+      "Master Replicas is releasing the Asgard Ship O'Neill Die-Cast Model.",
+      "The model measures approximately 7 inches long, 6 inches wide, and 2 inches tall.",
+      "The pre-order price is $84.99.",
+      "Shipping is expected in March 2027.",
+      "Jac Schaeffer is developing a new Stargate television series for Amazon MGM Studios."
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Becher",
+        "Thor",
+        "Major Carter",
+        "O'Neill",
+        "Teal'c",
+        "Jack O'Neill",
+        "Samantha Carter",
+        "Martin Gero",
+        "WandaVision",
+        "Agatha All Along",
+        "Jac Schaeffer",
+        "Brad Wright"
+      ],
+      "titles": [
+        "Stargate SG-1",
+        "Small Victories",
+        "O'Neill",
+        "Bilskirnir"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/stargate-sg-1-crew-lined-up-in-uniform.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 06:00:18 GMT"
   }
 };
