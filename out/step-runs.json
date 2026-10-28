@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-27T10:45:48Z",
-    "run_id": "40490740775",
-    "status": "success",
-    "checked": {
-     "candidates": 196,
-     "detail": "RSS/Atom items across 139 sources; 17 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "SCOOP: Salman Khan’s Maatrubhumi STILL awaits CBFC screening despite government clearance; November 13 release eyed to avoid clashes with Yeh Prem Mol Liya, Eetha",
-      "CID producer BP Singh dies of heart attack; Ashoke Pandit pays tribute, calls him “a brilliant filmmaker”",
-      "Bigg Boss 20 Episode 52 Dailymotion: Arishfa Calls Gullu 'Battameez', Mahhi-Amrapali FIGHT. What Went WRONG?",
-      "418 Box Office Collection Day 4: Chaithra J Achar Starrer Crosses ₹8 Cr India Net, Nears ₹12 Cr Worldwide",
-      "Bigg Boss 20 Weekend Ka Var Episode 42 Dailymotion: Salman Grills Qazi-Asif After Gullu-Nakul's FIGHT. WHY?",
-      "Ramayana USA Advance Booking Collection: Ranbir's Film Beats Adipurush Presales; Did It Surpass Dhurandhar 2?",
-      "EXCLUSIVE! 'This Is Devotion': Ankit Mohan On Playing Bajrangbali; Calls Dara Singh His 'Favorite'",
-      "Scene Box Office: How Much Does Suriya’s Film Need To Earn To Achieve His Biggest Opening Post-COVID?",
-      "Student Of The Year – After Dark Trailer Review: Shanaya Kapoor Walks Through A Familiar Gate For An Entirely Unfamiliar Situation!",
-      "Resident Evil China Box Office: Zach Cregger’s Horror Hit Ranks As The 2nd Biggest Hollywood Horror Post-COVID",
-      "Drishyam 3 Box Office Day 25: Less Than 5 Crore Away From Becoming The 3rd Most Profitable Bollywood Film Of 2026!",
-      "From ₹100 Crore to ₹700 Crore: How Rajinikanth Redefined Tamil Cinema's Box Office Records Across Generations",
-      "diljit dosanjh visits taj mahal ahead of india tour 86803.html",
-      "nanis bloody romeo adds dhurandhar actor vivek sinha to its cast reports 86804.html",
-      "AR Rahman calls ‘Ramayana’ the biggest film of his career",
-      "'Malikappuram' director Vishnu Sasi’s next with Vaibhav titled ‘Manikandaa’",
-      "Imran Khan’s ‘leave India’ notice put on hold, Bombay High Court grants interim relief until November 2",
-      "‘Nothing will happen, that is an oral assurance’: Govt assures Imran Khan he won't have to leave India tomorrow",
-      "Radhika Apte questions why female actors face scrutiny for action roles",
-      "Imran Khan gets interim relief, court pauses leave India order till November 2"
-     ],
-     "updated": [],
-     "count": 119,
-     "detail": "122 stories, 0 duplicates removed, 74 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-27T11:51:59Z",
     "run_id": "40499152321",
     "status": "success",
@@ -932,27 +893,48 @@
      "detail": "34 stories, 0 duplicates removed, 59 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:55:06Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 110,
+     "detail": "RSS/Atom items across 137 sources; 19 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
+      "EXCLUSIVE! Vishakha Singh On Seven-Year Journey Behind Real Kashmir Football Club’s Emmy Nomination",
+      "\"Before Akka, I didn't know I could play a female gangster\": Keerthy Suresh on Becoming Bhavani",
+      "Ramayana: Ranbir Reveals Secret To Strong Relationships; Shares Raha’s Morning Ritual Has A Big B Connection",
+      "Will Vivian Dsena Return To Supernatural Romance Genre With Werewolf Twist? Ekta Kapoor Fuels Speculation",
+      "avengers doomsdays robert downey jr and chris evans wish india a happy diwali 86832.html",
+      "nazriya nazim shares scene outfit photos after facing trolls over dubai event look 86827.html",
+      "allu arjun prabhas rajinikanth and yashs films rewrite indian box office records 86828.html",
+      "radhika apte reveals zeenat aman was the inspiration behind her look in akka 86831.html",
+      "'Jailer 2' BO Day 14 [LIVE]: Rajinikanth’s action drama crosses Rs 416 crore",
+      "Operation Sindoor: Kartik to lead Vivek's military film",
+      "Manoj Muntashir defends songs of Adipurush amid comparisons to Ramayana: ‘I didn’t write qawwalis'",
+      "Nayanthara calls Mookuthi Amman 2 special, thanks director and producer in new note",
+      "Kartik Aaryan to star in Vivek Agnihotri's Operation Sindoor",
+      "At 75, Rajinikanth is still the box office beast with 12 Rs 100 crore blockbusters",
+      "EXCLUSIVE: Taapsee Pannu Recalls People Being Stunt When She Bagged Shah Rukh Khan’s Dunki; Says, “No One Could Digest It”",
+      "anjali arora gets legal notice seeking rs 1 20 crore over kanpur event row report",
+      "bigg boss 20 qazi touqeer praises arijit singhs passion refuses to reveal his past says kahani mereko pata hai",
+      "katrina kaif rejects the pressure to bounce back after childbirth says shell take her time yes girl please",
+      "voices are dubbed by real artists nitesh tiwari clarifies ai isnt used for ramayanas voice dubbing"
+     ],
+     "updated": [],
+     "count": 51,
+     "detail": "52 stories, 0 duplicates removed, 58 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-27T10:45:50Z",
-    "run_id": "40490740775",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1390,27 +1372,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:55:22Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
+      "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-27T10:45:50Z",
-    "run_id": "40490740775",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 4, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1824,19 +1809,27 @@
      "detail": "now 6, coming 9"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-28T08:55:22Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 6, coming 9"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2082,27 +2075,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-27T14:00:13Z",
-    "run_id": "40515635206",
-    "status": "success",
-    "checked": {
-     "candidates": 138,
-     "detail": "138 collected staging rows from readers; 85 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 127 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2516,19 +2501,27 @@
      "detail": "+0 new rows, 84 updated rows, 124 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T09:06:58Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 208,
+     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 82,
+     "detail": "+0 new rows, 82 updated rows, 126 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2788,27 +2781,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-27T14:00:15Z",
-    "run_id": "40515635206",
-    "status": "success",
-    "checked": {
-     "candidates": 87,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 87 items, api-trends.json 0 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3246,19 +3231,30 @@
      "detail": "api-news.json 82 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-28T09:07:00Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 84,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
+      "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 84 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3557,19 +3553,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3870,19 +3866,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4241,19 +4237,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-28T08:55:22Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 51 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 1/5, upcoming_releases 5/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
+      "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4495,19 +4501,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-28T08:57:13Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": {
+     "candidates": 18,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 36"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 (1234139)",
+      "Nayyi Navelli (1654581)",
+      "Ranabaali (1389379)",
+      "Udta Teer (1375156)"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4797,24 +4815,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 167,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5129,19 +5147,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5391,19 +5414,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5638,19 +5661,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-27T10:50:48Z",
-    "run_id": "40490740775",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5880,6 +5903,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
@@ -6032,6 +6065,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
@@ -6164,8 +6207,18 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-28T09:07:07Z",
+    "run_id": "40659724692",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ]
  },
- "updated_at": "2026-10-28T08:29:27Z"
+ "updated_at": "2026-10-28T09:07:07Z"
 }

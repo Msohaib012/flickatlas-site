@@ -12069,5 +12069,172 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 13:06:23 +0530"
+  },
+  "87lu9f": {
+    "id": "87lu9f",
+    "type": "news",
+    "headline": "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
+    "dek": "Actor Kartik Aaryan is set to headline Vivek Agnihotri's upcoming film Operation Sindoor, a project inspired by real events and based on Lieutenant General KJS 'Tiny' Dhillon's book.",
+    "body": [
+      {
+        "h": "First-Time Collaboration Revealed",
+        "p": [
+          "Bollywood actor Kartik Aaryan and filmmaker Vivek Agnihotri are joining forces for the very first time in an upcoming feature titled Operation Sindoor. According to reports from Variety India, the project brings together two prominent figures from the Hindi film industry to tell a gripping story rooted in real-life events.",
+          "The announcement of this collaboration has generated substantial buzz across entertainment circles, marking a significant shift in the kind of subjects Kartik Aaryan is choosing to helm as a leading man."
+        ]
+      },
+      {
+        "h": "Source Material and Real-Life Roots",
+        "p": [
+          "The narrative of Operation Sindoor draws heavily from Lieutenant General KJS 'Tiny' Dhillon's published work titled Operation Sindoor: The Untold Story of India's Deep Strikes Inside Pakistan. Furthermore, the film is deeply connected to the aftermath of the April 2025 terror attack in Pahalgam.",
+          "Director Vivek Agnihotri previously stated that the project stems from thorough, ground-level research conducted in close partnership with various wings of the Indian Armed Forces to ensure factual clarity on screen."
+        ]
+      },
+      {
+        "h": "Production Backing and Creative Team",
+        "p": [
+          "Behind the scenes, Operation Sindoor is being supported by prominent industry banners. The movie is backed by Bhushan Kumar's T-Series alongside Vivek Agnihotri's own production company, I Am Buddha Productions.",
+          "Agnihotri is widely recognized for his past directorial ventures that deal with intense geopolitical and historical themes, including The Tashkent Files, The Kashmir Files, The Vaccine War, and The Bengal Files."
+        ]
+      },
+      {
+        "h": "Kartik Aaryan's Current and Future Schedule",
+        "p": [
+          "Before diving fully into Operation Sindoor, Kartik Aaryan has to wrap up his ongoing work on Captain India, which is being directed by Shimit Amin and set against the backdrop of the Houthi conflict in Yemen.",
+          "Beyond these two titles, the actor maintains a busy lineup of upcoming theatrical releases spanning multiple genres, such as the creature feature Naagzilla, an untitled romantic musical with Anurag Basu, and a biographical sports drama about Kashmiri athlete Tajamul Islam."
+        ]
+      },
+      {
+        "h": "Production Status and Remaining Details",
+        "p": [
+          "As of now, further specifics regarding the rest of the main cast members and the official theatrical release date for Operation Sindoor remain unannounced by the makers.",
+          "Audience members and trade analysts will have to wait for subsequent updates from the production houses to learn when filming will officially commence on the floors."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kartik Aaryan will star in Vivek Agnihotri's upcoming real-events drama Operation Sindoor, marking their first collaboration. The movie draws inspiration from Lieutenant General KJS 'Tiny' Dhillon's book and the aftermath of the Pahalgam terror attack."
+        ]
+      }
+    ],
+    "facts": [
+      "Kartik Aaryan will star in Vivek Agnihotri's Operation Sindoor.",
+      "The project is based on Lieutenant General KJS 'Tiny' Dhillon's book, Operation Sindoor: The Untold Story of India's Deep Strikes Inside Pakistan.",
+      "The film is rooted in the aftermath of the April 2025 Pahalgam terror attack.",
+      "The movie is backed by Bhushan Kumar's T-Series and I Am Buddha Productions."
+    ],
+    "entities": {
+      "people": [
+        "Kartik Aaryan",
+        "Vivek Agnihotri",
+        "KJS 'Tiny' Dhillon",
+        "Shimit Amin",
+        "Bhushan Kumar"
+      ],
+      "titles": [
+        "Operation Sindoor",
+        "Operation Sindoor: The Untold Story of India's Deep Strikes Inside Pakistan",
+        "Captain India",
+        "The Tashkent Files",
+        "The Kashmir Files",
+        "The Vaccine War",
+        "The Bengal Files",
+        "Naagzilla"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/kartik-aaryan--vivek-agnihotri-283129937-16x9_0.jpg?VersionId=RUOSbFHuab_fikYEk71wReRLKN8O4DnL",
+        "caption": "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 14:02:59 +0530"
+  },
+  "1i1vp5s": {
+    "id": "1i1vp5s",
+    "type": "news",
+    "headline": "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival",
+    "dek": "During a high-profile panel in Tokyo, Academy leadership discussed expanding international membership, diversifying the ceremony's reach, and introducing new pathways for global film submissions.",
+    "body": [
+      {
+        "h": "An Expanding International Footprint",
+        "p": [
+          "The Academy of Motion Picture Arts and Sciences is maintaining its commitment to a worldwide perspective despite growing isolationist political climates. Speaking at the Tokyo International Film Festival, Academy CEO Bill Kramer emphasized that the organization is actively widening its international reach across multiple programming initiatives.",
+          "A key indicator of this ongoing transformation is the composition of the Academy's voting body itself. Over the course of a single decade, the proportion of members residing outside the United States has surged dramatically from just 5 percent up to 25 percent."
+        ]
+      },
+      {
+        "h": "Embracing Diverse Tastes and Milestones",
+        "p": [
+          "This intentional diversification of the membership has begun to visibly reshape the annual Academy Awards race. Rather than keeping international cinema confined strictly to its designated category, voting members have increasingly injected foreign films and talent into broader races, including the prestigious best picture competition.",
+          "Leadership frequently points to the historic victory of the acclaimed film Parasite as a definitive turning point. That watershed moment fundamentally altered how the institution perceives the boundaries and potential of worldwide cinema on Hollywood's biggest stage."
+        ]
+      },
+      {
+        "h": "A Landmark Global Streaming Partnership",
+        "p": [
+          "To cultivate even deeper connections with cinephiles around the planet, the organization brokered a major distribution deal with YouTube. Following the conclusion of the traditional ABC broadcast arrangement in 2028, the agreement grants the video platform exclusive global rights to stream the ceremony live and free of charge from 2029 through 2033.",
+          "The strategic move is projected to bring the awards show simultaneously to an estimated 2.5 billion individuals spanning more than 30 languages. By offering a unified format accessible to everyone at once, the Academy hopes to capture an unprecedented worldwide audience."
+        ]
+      },
+      {
+        "h": "High-Level Delegation Visits Tokyo",
+        "p": [
+          "The recent announcements were delivered during a panel discussion held in a sleek tower located in Tokyo's Hibiya district. The appearance marked a major presence by the organization at the 39th edition of the Tokyo International Film Festival.",
+          "Kramer was joined on stage by a robust executive delegation. The panel featured Academy president Lynette Howell Taylor alongside Meredith Shea, who serves as the chief membership, impact and industry officer, with moderation provided by festival director Takeo Hisamatsu."
+        ]
+      },
+      {
+        "h": "New Festival Pathway for International Films",
+        "p": [
+          "Alongside demographic shifts, the leadership unveiled a brand new qualification route for the best international feature film category starting with the 99th Academy Awards. Under this supplementary system, non-English-language movies can secure contention by winning top honors at select major film festivals, bypassing the traditional requirement of being chosen by a national committee.",
+          "The designated qualifying events and prizes comprise the Palme d'Or at Cannes, the Golden Lion at Venice, the Golden Bear at Berlin, the Busan Award for best film at Busan, the World Cinema Grand Jury Prize at Sundance, and the Platform Award at Toronto."
+        ]
+      },
+      {
+        "h": "Addressing Omissions and Future Expansion",
+        "p": [
+          "The inclusion of regional competitor Busan while omitting the host city's own event sparked notable discussions among local industry attendees. During the audience question-and-answer period, participants pressed Kramer regarding whether the Tokyo International Film Festival might soon join the roster of qualifying events.",
+          "While offering no immediate confirmation, Kramer suggested that the organization is open to broadening the scope of approved festivals over time. He encouraged local stakeholders to stay tuned as the initiative continues to develop its foundational stages."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Academy CEO Bill Kramer spoke at the Tokyo International Film Festival to highlight the organization's growing international membership and its efforts to globalize the Oscars. Key announcements included a future streaming partnership with YouTube and a new festival-winner qualification pathway for the international feature film category."
+        ]
+      }
+    ],
+    "facts": [
+      "Bill Kramer is the CEO of the Academy of Motion Picture Arts and Sciences.",
+      "The percentage of Academy members based outside the U.S. has risen from 5 percent a decade ago to 25 percent.",
+      "The Academy has approximately 70 Japanese members.",
+      "The YouTube agreement grants exclusive global rights to stream the Oscars from 2029 through 2033.",
+      "The YouTube broadcast will reach an estimated 2.5 billion people in over 30 languages.",
+      "The delegation appeared at the 39th Tokyo International Film Festival.",
+      "The new international feature film pathway begins with the 99th Academy Awards.",
+      "The six qualifying festivals include Cannes, Venice, Berlin, Busan, Sundance, and Toronto."
+    ],
+    "entities": {
+      "people": [
+        "Bill Kramer",
+        "Lynette Howell Taylor",
+        "Meredith Shea",
+        "Takeo Hisamatsu"
+      ],
+      "titles": [
+        "Parasite"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/Bill-Kramer-Portrait-Horizontal-Publicity-H-2022.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 08:37:31 +0000"
   }
 };
