@@ -5,7 +5,12 @@ const UI = (() => {
   const esc = (s) => String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
-  const img = (path, size = "w500") => path ? `${CONFIG.IMG}/${size}${path}` : "";
+  // TMDB image paths are always "/<name>.<ext>" (optionally with subdirs).
+  // Anything else (quotes, spaces, a full URL, "javascript:") is rejected
+  // so a poisoned path can never break out of the <img src="..."> attribute
+  // it is interpolated into — callers fall back to the no-image placeholder.
+  const img = (path, size = "w500") => (typeof path === "string" && /^\/[A-Za-z0-9._\/-]+$/.test(path))
+    ? `${CONFIG.IMG}/${size}${path}` : "";
   /* ---------- External news images: downscale for fast loading ----------
      News/article images come from many external sources at full resolution,
      so pages load slowly. newsImg(url, w) returns a lighter version:
@@ -1003,6 +1008,7 @@ const UI = (() => {
     relTime, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
+
 
 
 
