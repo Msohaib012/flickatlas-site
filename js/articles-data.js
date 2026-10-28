@@ -11673,5 +11673,216 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 28 Oct 2026 06:00:18 GMT"
+  },
+  "tkj91g": {
+    "id": "tkj91g",
+    "type": "news",
+    "headline": "Early Reactions and First Impressions Surface from the Los Angeles Premiere of Nitesh Tiwari's Ramayana",
+    "dek": "Anticipation reaches a fever pitch as initial reviews, audience reactions, and detailed inside reports emerge from the exclusive Los Angeles screening of the highly awaited mythological epic.",
+    "body": [
+      {
+        "h": "Grand Scale and Massive Ambition",
+        "p": [
+          "Nitesh Tiwari's ambitious mythological epic Ramayana has generated intense industry buzz ahead of its scheduled release. Built on a massive reported budget of Rs 4000 crore, the film stands out as one of the most expensive projects in the history of Indian cinema. The production scale is immediately evident to viewers, showcasing extensive world-building across prominent mythological locations such as Ayodhya, Chitrakoot, Lanka, and Mithila.",
+          "As part of its promotional rollout and efforts to build international momentum, the makers organized a grand premiere screening in Los Angeles. Initial reactions from overseas audiences have highlighted the sheer visual magnitude of the project, pointing to heavy investments in technical execution and large-scale action set pieces."
+        ]
+      },
+      {
+        "h": "Stellar Ensemble and Key Performances",
+        "p": [
+          "The feature boasts a massive multi-star cast featuring Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash in the role of Ravana. Yash also serves as a co-producer and holds theatrical distribution rights for the movie in Karnataka. Additional supporting and featured cast members include Sunny Deol, Ravi Dubey, Lara Dutta, Vivek Oberoi, Rakul Preet Singh, Sheeba Chaddha, Arun Govil, and Kunal Kapoor.",
+          "Early viewer reports offer mixed notes on the performances. While Ranbir Kapoor and Sai Pallavi deliver solid turns as the central divine couple, reports suggest that the emotional weight and traditional aura do not always fully resonate. Conversely, Yash's portrayal of Ravana has emerged as a major highlight of the project, drawing considerable praise particularly during his introduction sequences."
+        ]
+      },
+      {
+        "h": "Visual Spectacle Versus Emotional Resonance",
+        "p": [
+          "Initial critique from the screening suggests a distinct division between technical achievement and narrative impact. Reviewers noted that while the film remains largely faithful to Valmiki's text, it leans heavily into spectacle and action sequences at the expense of character drama and deeper emotional engagement.",
+          "Some viewers observed that the second half tends to drag because of where Part 1 concludes, stretching limited plot material through extended action blocks. Observers also pointed out that certain sequences exhibit a noticeable studio or green screen feel alongside cartoonish asura depictions, though specific highlights like the Jatayu fight sequence in IMAX received strong appreciation."
+        ]
+      },
+      {
+        "h": "Music and Sound Design Divisions",
+        "p": [
+          "The musical score and background audio have become focal points of early discussions. Conceived as an Indian-Hollywood blend, the musical direction received mixed reviews from attendees at the premiere.",
+          "Several reports indicate that the musical score falls short of carrying the required divinity and emotional depth expected from a story of this magnitude. While certain segments and individual songs landed well with the audience, critics argued that the overall fusion approach largely backfired and failed to establish a consistent emotional connection."
+        ]
+      },
+      {
+        "h": "Runtime Adjustments and Format Variations",
+        "p": [
+          "Ahead of its broader theatrical rollout, details regarding the film's runtime have been a subject of interest among fans and industry analysts. The original cut of the movie runs for a duration of 3 hours and 15 minutes.",
+          "For the international English version specifically prepared for global audiences, the runtime has been reduced by 30 minutes to tighten the pacing and streamline the narrative flow for overseas markets."
+        ]
+      },
+      {
+        "h": "Climax and Cliffhanger Teasers",
+        "p": [
+          "Discussion surrounding the film's conclusion has centered heavily on its unexpected ending. The narrative wraps up with a cliffhanger designed to shock and amaze the audience.",
+          "This final sequence serves to introduce Sunny Deol in his first look as Hanuman ji, setting up a major hook for subsequent installments and leaving viewers talking long after the screening concluded."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Early reviews from the Los Angeles premiere of Nitesh Tiwari's high-budget mythological epic Ramayana indicate a division between its massive visual scale and its emotional resonance. While performances by stars like Ranbir Kapoor, Sai Pallavi, and Yash drew attention alongside a cliffhanger ending introducing Sunny Deol as Hanuman ji, critics noted shortcomings in the musical score and narrative pacing."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is scheduled for release on November 5, 2026.",
+      "The budget of Ramayana is reported at Rs 4000 crore.",
+      "The film's runtime is 3 hours and 15 minutes, reduced by 30 minutes for the English version.",
+      "The Los Angeles premiere of the film took place on or around October 28, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Arun Govil",
+        "Kunal Kapoor",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/ramayanalapremierefeature-61041793169472.jpg",
+        "caption": "Early Reactions and First Impressions Surface from the Los Angeles Premiere of Nitesh Tiwari's Ramayana",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 12:20:23 +0530"
+  },
+  "vznkkb": {
+    "id": "vznkkb",
+    "type": "news",
+    "headline": "Udta Teer Box Office Day 5: Ayushmann Khurrana's Spy Comedy Records Growth On Tuesday",
+    "dek": "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer continues its steady theatrical run, recording growth on Tuesday and breezing past the Rs 30 crore mark.",
+    "body": [
+      {
+        "h": "Introduction To The Box Office Run",
+        "p": [
+          "The theatrical journey of Udta Teer has remained remarkably stable since its global premiere on Friday. Blending high-concept comedy with the thrills typical of a spy narrative, the film has captured audience interest well beyond its opening weekend.",
+          "Box office figures confirm that the feature maintained positive momentum heading into the weekdays, culminating in an upward tick in collections by the fifth day of its theatrical run."
+        ]
+      },
+      {
+        "h": "Tuesday Collection Breakdown",
+        "p": [
+          "Fresh trade reports indicate that the feature experienced a favorable surge on Tuesday following a steady hold on Monday. The spy comedy brought in Rs 4.08 crore in gross figures alongside a nett collection of Rs 3.40 crore.",
+          "This latest single-day boost successfully elevated the overall all-India gross collection to Rs 31.40 crore within just four days in theaters."
+        ]
+      },
+      {
+        "h": "Day-Wise Earnings Overview",
+        "p": [
+          "The film opened on Friday with a gross collection of Rs 4.92 crore, setting a solid foundation for the opening weekend. Numbers climbed significantly over the next two days, reaching Rs 8.70 crore on Saturday and peaking at Rs 9.85 crore on Sunday.",
+          "Although collections adjusted to Rs 3.85 crore on Monday, the subsequent bounce to Rs 4.08 crore on Tuesday demonstrates sustained interest among moviegoers."
+        ]
+      },
+      {
+        "h": "Audience Reception And Offers",
+        "p": [
+          "Buoyed by positive word-of-mouth recommendations and appreciation for its quirky humor, the movie is maintaining a strong pace in national theaters. Observers note that if this momentum holds, reaching the Rs 50 crore milestone appears quite achievable.",
+          "In addition to positive reviews, the production team rolled out a buy-two-get-one-free ticket promotion, known as a BOGO code, to further encourage audiences visiting theaters."
+        ]
+      },
+      {
+        "h": "Cast And Production Details",
+        "p": [
+          "Directed and written by Aakash Kaushik, Udta Teer features a prominent ensemble cast led by Ayushmann Khurrana and Sara Ali Khan. The project is backed by prominent producers including Karan Johar, Adar Poonawalla, Guneet Monga, Apoorva Mehta, and Achin Jain under Dharma Productions and Sikhya Entertainment.",
+          "The supporting cast features well-known names such as Rahul Bose, Ram Kapoor, Gulshan Grover, Mukul Dev, Suhail Nayyar, Supriya Pilgaonkar, Brijendra Kala, and Sandeep Anand."
+        ]
+      },
+      {
+        "h": "Critical Response And Review",
+        "p": [
+          "Critical reception for the feature has been largely favorable, with publications like Bollywood Bubble awarding it a four-star rating. Reviewers praised the film for successfully fusing the excitement of a spy thriller with the lighthearted laughter of a comedy.",
+          "Critics also highlighted that the project stands out by proving that a spy narrative does not always require relentless seriousness or over-the-top action sequences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer saw a growth in collections on Tuesday, bringing its total all-India gross past the Rs 30 crore mark. Backed by positive word of mouth and promotional offers, the Aakash Kaushik directorial continues to hold a steady presence in theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "Udta Teer released globally on Friday.",
+      "Tuesday gross collection was Rs 4.08 crore.",
+      "Tuesday nett collection was Rs 3.40 crore.",
+      "Total all-India gross collection reached Rs 31.40 crore in 4 days.",
+      "Day 1 gross was Rs 4.92 crore.",
+      "Day 2 gross was Rs 8.70 crore.",
+      "Day 3 gross was Rs 9.85 crore.",
+      "Day 4 gross was Rs 3.85 crore.",
+      "Day 5 gross was Rs 4.08 crore.",
+      "The film was written and directed by Aakash Kaushik.",
+      "Producers include Karan Johar, Adar Poonawalla, Guneet Monga, Apoorva Mehta, and Achin Jain.",
+      "Banners involved are Dharma Productions and Sikhya Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sara Ali Khan",
+        "Aakash Kaushik",
+        "Karan Johar",
+        "Adar Poonawalla",
+        "Guneet Monga",
+        "Apoorva Mehta",
+        "Achin Jain",
+        "Rahul Bose",
+        "Ram Kapoor",
+        "Gulshan Grover",
+        "Mukul Dev",
+        "Suhail Nayyar",
+        "Supriya Pilgaonkar",
+        "Brijendra Kala",
+        "Sandeep Anand",
+        "Grinell Jacinto"
+      ],
+      "titles": [
+        "Udta Teer",
+        "Bhootni Ka",
+        "Choozay",
+        "Chann",
+        "Jailer 2",
+        "Prahaar",
+        "Nayyi Navelli",
+        "GG",
+        "CID",
+        "Aahat",
+        "Student Of The Year: After Dark",
+        "KING",
+        "Devil Wears Prada 2",
+        "Son Of Sardaar 2",
+        "Metro…In Dino",
+        "Naagin 6",
+        "Tum Mere Ho",
+        "Ranabaali",
+        "Gunmaaster G9"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/10/Udta-Teer-Box-Office-Day-5-Ayushmann-Khurrana-Spy-Comedy-Witnesses-Growth-On-Tuesday.webp",
+        "caption": "Udta Teer Box Office Day 5: Ayushmann Khurrana's Spy Comedy Records Growth On Tuesday",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 07:46:36 +0000"
   }
 };
