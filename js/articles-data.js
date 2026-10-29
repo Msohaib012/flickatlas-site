@@ -18068,5 +18068,221 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 15:44:53 GMT"
+  },
+  "iswls8": {
+    "id": "iswls8",
+    "type": "news",
+    "headline": "You Can See Everything and Clayface Battle for the Top Box Office Spot Over a Slow Halloween Weekend",
+    "dek": "Major studios avoid the holiday frame entirely, leaving holdovers like Wildwood, Wicker, and Street Fighter to round out the top five as trick-or-treaters keep audiences away from theaters.",
+    "body": [
+      {
+        "h": "The Halloween Box Office Slowdown",
+        "p": [
+          "With Halloween falling on a Saturday, the box office faces a notoriously quiet weekend as audiences turn their attention to trick-or-treating, costume parties, and handing out candy instead of heading to movie theaters. Recognizing this holiday dip, major studios have cleared the calendar, leaving zero major studio releases to challenge the festive weekend.",
+          "The historical precedent for this frame is particularly bleak. Last year's Halloween weekend plummeted to a dismal $55.5 million, marking the lowest grossing frame in more than 30 years and setting a challenging benchmark for current theatrical runs."
+        ]
+      },
+      {
+        "h": "You Can See Everything Seeks Continuation of Surge",
+        "p": [
+          "A24's documentary about Elizabeth Holmes, titled You Can See Everything, is aiming for a first-place finish with a predicted $12 million to $17 million in its third weekend. Directed by Nathan Fielder and Lance Oppenheim, the film has consistently beaten expectations every week since its debut.",
+          "The documentary experienced an impressive 25% bump in its sophomore frame and currently boasts a domestic total of $45.1 million, positioning it as a formidable contender for the weekend crown."
+        ]
+      },
+      {
+        "h": "Clayface Mounts a Strong Defense",
+        "p": [
+          "Challenging for the top spot is Warner Bros. and DC Studios' body-horror origin story, Clayface. The film won the previous weekend with $24 million and secured an A-minus grade from CinemaScore.",
+          "Despite its strong initial reception, horror features typically face an uphill battle when a holiday like Halloween draws crowds away from indoor screenings. Current projections place its second-weekend gross between $10 million and $15 million."
+        ]
+      },
+      {
+        "h": "Holdovers Round Out the Top Five",
+        "p": [
+          "Laika's stop-motion fantasy film Wildwood is tracking comfortably for third place with anticipated earnings of $6 million to $8 million. The picture initially opened to $12.3 million—surpassing estimates by over $1 million—and maintains a pristine 100% score on Rotten Tomatoes alongside an A CinemaScore.",
+          "Further down the chart, Wicker and Street Fighter are projected to scrap for the remaining positions in the top five, with both titles looking at roughly $4 million each."
+        ]
+      },
+      {
+        "h": "Fresh Additions Face Quiet Debuts",
+        "p": [
+          "A small wave of new releases arrives in theaters with limited expectations of breaking into the top tier. Briarcliff's Christmas-themed horror movie Christmas at the Kringles enters as the widest new platform release.",
+          "Additional fresh arrivals include Samuel Goldwyn's action-thriller The Mongoose starring Liam Neeson, Disney's IMAX documentary Everest: The Other Side, and Sony Classics' expansion of The Only Living Pickpocket in New York starring John Turturro."
+        ]
+      },
+      {
+        "h": "Projected Weekend Rankings",
+        "p": [
+          "Industry tracking anticipates You Can See Everything to lead the box office charts with $14 million, closely followed by Clayface at $12 million.",
+          "The remaining projected top five positions include Wildwood at $7 million, alongside Wicker and Street Fighter, which are both expected to pull in $4 million."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A quiet Halloween weekend devoid of major studio openings leaves holdovers You Can See Everything and Clayface to battle for the number one box office position. Previous holiday frames have historically struggled, setting a modest stage for these competing films and steady holdovers like Wildwood.",
+          "As trick-or-treaters keep audiences away from cinemas, a handful of specialty newcomers debut with modest expectations while established hits attempt to sustain their momentum."
+        ]
+      }
+    ],
+    "facts": [
+      "Halloween lands on a Saturday.",
+      "Last year's Halloween frame brought in $55.5 million.",
+      "You Can See Everything is an Elizabeth Holmes documentary from A24.",
+      "You Can See Everything has a domestic total of $45.1 million.",
+      "Clayface is a body-horror origin story from Warner Bros. and DC Studios.",
+      "Clayface won the previous weekend with $24 million and earned an A-minus CinemaScore.",
+      "Wildwood is a Laika stop-motion fantasy that opened to $12.3 million.",
+      "Christmas at the Kringles has a running time of one hour, 38 minutes and is rated R.",
+      "Everest: The Other Side has a running time of one hour, 50 minutes and is rated PG-13.",
+      "The Mongoose has a running time of one hour, 38 minutes and is rated R.",
+      "The Only Living Pickpocket in New York has a running time of one hour, 28 minutes and is rated R."
+    ],
+    "entities": {
+      "people": [
+        "Denton Davidson",
+        "Sandra HÃ¼ller",
+        "Luca Guadagnino",
+        "Nathan Fielder",
+        "Lance Oppenheim",
+        "Kevin Lewis",
+        "Jimmy Chin",
+        "Elizabeth Chai Vasarhelyi",
+        "Jim Morrison",
+        "Hilaree Nelson",
+        "Mark Vanselow",
+        "Liam Neeson",
+        "Noah Segan",
+        "John Turturro"
+      ],
+      "titles": [
+        "Rose",
+        "Artificial",
+        "You Can See Everything",
+        "Nuisance Bear",
+        "Clayface",
+        "Wildwood",
+        "Wicker",
+        "Street Fighter",
+        "Christmas at the Kringles",
+        "The Mongoose",
+        "Everest: The Other Side",
+        "The Only Living Pickpocket in New York",
+        "Coyote vs. Acme",
+        "Dracula"
+      ]
+    },
+    "keywords": [
+      "You Can See Everything film",
+      "Clayface box office",
+      "Wildwood movie weekend",
+      "Halloween box office 2026"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/10/rematch.jpg?w=650",
+        "caption": "You Can See Everything and Clayface Battle for the Top Box Office Spot Over a Slow Halloween Weekend",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 15:00:00 +0000"
+  },
+  "vl05a3": {
+    "id": "vl05a3",
+    "type": "news",
+    "headline": "Smile 3 Moves Forward With David Bruckner as Director",
+    "dek": "Paramount Pictures advances development on Smile 3 with a new director taking over the franchise.",
+    "body": [
+      {
+        "h": "Franchise Expansion",
+        "p": [
+          "The popular horror property is officially moving forward with a third installment at Paramount Pictures. Following the massive success of the earlier entries, the studio is preparing to expand the terrifying universe."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Changes",
+        "p": [
+          "A major creative shift is taking place behind the camera as the series continues. Parker Finn, who created the property and directed the first two films, will not direct the upcoming installment.",
+          "Instead, horror veteran David Bruckner has signed on to direct the project. Additionally, Nick Antosca is writing the screenplay for the upcoming film."
+        ]
+      },
+      {
+        "h": "Parker Finn's Continued Role",
+        "p": [
+          "Although stepping down from directing duties, Parker Finn will remain involved with the production. He will serve as a producer alongside Temple Hill to keep the foundational story intact.",
+          "Finn is currently focusing his attention on directing an upcoming remake of the 1981 supernatural thriller Possession."
+        ]
+      },
+      {
+        "h": "Director's Background",
+        "p": [
+          "David Bruckner enters the franchise with a strong reputation in the horror genre. He is widely recognized for his work on The Night House and the Hellraiser reboot.",
+          "His current slate also includes developing a reboot of The Blob, directing The Caretaker starring Sydney Sweeney, and working on Mice for A24."
+        ]
+      },
+      {
+        "h": "Setting Up the Next Chapter",
+        "p": [
+          "Specific plot details for the third film are currently being kept under wraps by the studio. However, Parker Finn has provided the initial roadmap and framework for the upcoming narrative.",
+          "The new creative team will need to address the massive public fallout from the previous movie's conclusion, which left the curse unleashed on a large scale."
+        ]
+      },
+      {
+        "h": "Box Office Success and Legacy",
+        "p": [
+          "The horror series quickly established itself as a modern genre cornerstone, transforming a disturbing grin into a powerful symbol of trauma. The previous films have collectively grossed over $350 million worldwide.",
+          "The upcoming project will test whether the property can successfully maintain its terrifying momentum under a brand-new creative leadership."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount Pictures is officially advancing development on Smile 3 with David Bruckner stepping in as director. While Parker Finn transitions to a producing role to focus on directing Possession, the new creative team will build upon the existing framework set up by the previous films."
+        ]
+      }
+    ],
+    "facts": [
+      "Smile 3 is officially moving forward at Paramount Pictures.",
+      "David Bruckner is the new director for Smile 3.",
+      "Nick Antosca is writing the script for Smile 3.",
+      "Parker Finn is stepping down as director but remains on board as a producer alongside Temple Hill.",
+      "The Smile franchise has grossed over $350 million worldwide."
+    ],
+    "entities": {
+      "people": [
+        "David Bruckner",
+        "Parker Finn",
+        "Nick Antosca",
+        "Sydney Sweeney",
+        "Colleen Hoover"
+      ],
+      "titles": [
+        "Smile",
+        "Smile 2",
+        "Smile 3",
+        "The Night House",
+        "Hellraiser",
+        "Verity",
+        "Possession",
+        "The Blob",
+        "The Caretaker",
+        "Mice"
+      ]
+    },
+    "keywords": [
+      "Smile 3",
+      "David Bruckner",
+      "Parker Finn",
+      "Nick Antosca",
+      "Smile 2"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/naomi-scott-in-smile-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Smile 3 Moves Forward With David Bruckner as Director",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 15:02:28 GMT"
   }
 };
