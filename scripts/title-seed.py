@@ -8,13 +8,17 @@ the SEPARATE title system (Sacnilk model): it picks titles from TMDB
 lists and publishes them as FA_PUBLISHED entries, so the Movies /
 Spotlight / Trending / Dramas sections fill up.
 
-Sources (TMDB lists — pages 1-2 for the movie lists, page 1 otherwise):
+Sources (TMDB lists — bounded page counts in SOURCE_PAGES, default one page):
   trending     — /trending/movie/week (global trending)
   now_playing  — /movie/now_playing?region=IN (in cinemas now, India)
   upcoming     — /movie/upcoming?region=IN (coming soon, India)
   bollywood    — /discover/movie?with_original_language=hi (Hindi films;
                the movie lists above are world-dominated by popularity,
                so Bollywood needs its own source)
+  hindi_recent_movies — Hindi-only recent releases, sorted by primary date
+               rather than all-time popularity (last 90 days)
+  hindi_recent_tv — Hindi-language recent premieres, sorted by first-air
+               date rather than global popularity (last 90 days)
   india_window — /discover/movie?region=IN, India release date inside
                the fresh window (last 7 days .. next 7 days). Page-1-
                only lists are popularity-sorted, so small/regional
@@ -56,7 +60,7 @@ Rules (selection, in order):
     date is old but it may still be airing); currency is checked at
     details level instead (last_air_date / next episode / status)
   - dedup within the run (a title can appear in several lists)
-  - round-robin across the 6 sources so the batch is mixed, capped at
+  - round-robin across the configured sources so the batch is mixed, capped at
     FIRST_RUN_MAX (15) on the first run (<=2 published titles) and
     DAILY_MAX (5) otherwise
 Details-level rules (after fetching each picked id):
@@ -136,6 +140,15 @@ SOURCES = [
      "/movie/upcoming?region=IN"),
     ("bollywood", "movie",
      "/discover/movie?with_original_language=hi&sort_by=popularity.desc"),
+    ("hindi_recent_movies", "movie",
+     # Keep the existing broad/popularity source for its current purpose;
+     # this bounded 90-day source ensures recent Hindi releases are not
+     # hidden beyond its first two popularity-ranked pages. Upcoming Hindi
+     # films remain covered by the existing upcoming/Bollywood sources.
+     "/discover/movie?with_original_language=hi"
+     "&primary_release_date.gte={cutoff}"
+     "&primary_release_date.lte={today}"
+     "&sort_by=primary_release_date.desc"),
     ("india_window", "movie",
      # India releases inside the fresh window, by DATE not rank:
      # {fresh_start} = 7 days ago, {fresh_end} = 7 days ahead.
@@ -169,6 +182,15 @@ SOURCES = [
      # is already trending; this catches new series before they trend.
      "/discover/tv?first_air_date.gte={cutoff}"
      "&first_air_date.lte={horizon}&sort_by=popularity.desc"),
+    ("hindi_recent_tv", "tv",
+     # Dedicated Hindi recent-TV discovery: the general new_tv feed below
+     # is global and popularity-ranked, so lower-ranked Hindi premieres
+     # can sit beyond its first two pages. Only already-premiered series
+     # enter this recent feed; future shows remain in new_tv/upcoming paths.
+     "/discover/tv?with_original_language=hi"
+     "&first_air_date.gte={cutoff}"
+     "&first_air_date.lte={today}"
+     "&sort_by=first_air_date.desc"),
     ("pk_movies", "movie",
      # Pakistani films (Lollywood). PRIMARY release date, not plain
      # release_date: the plain filter matches ANY regional re-release
@@ -190,6 +212,8 @@ SOURCE_PAGES = {
     "world_window": 2,
     "new_tv": 2,
     "trending_tv": 1,
+    "hindi_recent_movies": 5,
+    "hindi_recent_tv": 5,
 }
 
 # --- Drama tracker <-> published catalogue sync (owner order 2026-10-26) ---
@@ -530,6 +554,7 @@ def fetch_lists(key):
     fresh window (7 days either side of today)."""
     cutoff = (date.today() - timedelta(days=FRESH_DAYS)).isoformat()
     horizon = (date.today() + timedelta(days=FRESH_DAYS)).isoformat()
+    today = date.today().isoformat()
     fresh_start = (date.today() - timedelta(days=FRESH_WINDOW_DAYS)).isoformat()
     fresh_end = (date.today() + timedelta(days=FRESH_WINDOW_DAYS)).isoformat()
     out = {}
@@ -540,7 +565,7 @@ def fetch_lists(key):
         for page in range(1, pages + 1):
             paged = path.format(cutoff=cutoff, horizon=horizon,
                                 fresh_start=fresh_start,
-                                fresh_end=fresh_end)
+                                fresh_end=fresh_end, today=today)
             sep = "&" if "?" in paged else "?"
             data = tmdb_get(f"{paged}{sep}page={page}", key)
             items.extend((data or {}).get("results") or [])
@@ -865,8 +890,8 @@ def main():
                      "sources": {n: len(v) for n, v in lists.items()},
                      "picked": len(picked), "skipped": skipped,
                      "cap": cap,
-                     "detail": "now_playing/upcoming/bollywood p1-2 + "
-                               "india_window discover p1-2 + trending/pk p1"},
+                     "detail": "Hindi recent movies/TV date-ranked p1-5 + "
+                               "existing regional/trending sources retained"},
             changed={"added": added_names, "updated": [],
                      "count": len(added_names)},
             reason=reason)
@@ -875,7 +900,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
 
 
 

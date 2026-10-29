@@ -29,6 +29,7 @@ jobs:
           node --check js/page-index.js
           node scripts/test_listing_order.js
           node scripts/test_ott_boxoffice_display.js
+          python3 scripts/test_recent_hindi_discovery.py
       - name: Offline viewer-review regression tests
         run: |
           node --check scripts/worker.mjs
