@@ -18517,5 +18517,215 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 16:35:49 +0000"
+  },
+  "qm2q8m": {
+    "id": "qm2q8m",
+    "type": "news",
+    "headline": "MGM+ Reveals First-Look Photos for 'Bosch: Start Of Watch' Prequel Series",
+    "dek": "MGM+ has shared initial photographs of Cameron Monaghan and Omari Hardwick in the upcoming prequel series Bosch: Start of Watch, which is scheduled to premiere in January.",
+    "body": [
+      {
+        "h": "First-Look Images Released",
+        "p": [
+          "MGM+ has provided audiences with an initial glimpse of its upcoming prequel series, Bosch: Start of Watch, featuring stars Cameron Monaghan and Omari Hardwick. The newly released photographs showcase the main actors ahead of the show's scheduled January debut.",
+          "The streaming network distributed these images to build anticipation for the origin story, highlighting the atmospheric setting and the central partnership between the two lead characters."
+        ]
+      },
+      {
+        "h": "Premise and Background",
+        "p": [
+          "The narrative of Bosch: Start of Watch serves as an origin story for the iconic detective Harry Bosch, originally created by author Michael Connelly. Set in 1992 Los Angeles, the plot transports viewers back to the earliest days of Bosch's career in law enforcement.",
+          "During this period, Los Angeles is portrayed as a city on the edge, characterized by severe racial tension, widespread gang violence, and a deeply fractured Los Angeles Police Department. The storyline follows a 26-year-old Bosch navigating these dangerous conditions."
+        ]
+      },
+      {
+        "h": "Plot and Conflict",
+        "p": [
+          "Amid routine police calls and escalating public unrest, the young rookie finds himself entangled in a high-profile heist. This event pulls him into a complex network of criminal corruption.",
+          "The unfolding situation challenges his dedication to his duties and puts his loyalty to the badge to the ultimate test, ultimately shaping his future as the detective driven by the personal code that everybody counts or nobody counts."
+        ]
+      },
+      {
+        "h": "Cast and Characters",
+        "p": [
+          "Cameron Monaghan steps into the role of rookie police officer Harry Bosch, while Omari Hardwick portrays veteran officer Eli Bridges, who serves alongside him.",
+          "The supporting cast features Ariana Guerra as Rosa and JD Pardo as Cory as series regulars. Additional appearances include Kathleen Wilhoite, William Fichtner, Rafi Gavron, Raphael Sbarge, Azita Ghanizada, Kenneth Miller, Seamus Dever, Ryan McPartlin, Marco Rodriguez, and Shelli Boone across the eight-episode season."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The prequel series is produced by Fabel Entertainment. Tom Bernardo and Brian Anthony serve as co-creators and executive producers, with Bernardo also taking on the responsibilities of showrunner.",
+          "Additional executive producers include Michael Connelly, Henrik Bastin, Jamie Boscardin Martin, Stephen Kay, and Jasmine Russ. Mark Douglas works as a co-executive producer, and Theresa Snider acts as co-executive producer for Hieronymus Pictures."
+        ]
+      },
+      {
+        "h": "Premiere Schedule and Regions",
+        "p": [
+          "Bosch: Start of Watch is set to premiere on Sunday, January 10, launching with the release of its first two episodes. Subsequent episodes will air on a weekly schedule leading up to the season finale on Sunday, February 21.",
+          "The series will be available for streaming on MGM+ across multiple territories, including the United States, United Kingdom, Belgium, Ireland, Italy, Germany, Netherlands, Spain, and Latin America."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MGM+ has released first-look photos of Cameron Monaghan and Omari Hardwick for the upcoming prequel series Bosch: Start of Watch. The show explores the 1992 Los Angeles origins of detective Harry Bosch and is scheduled to premiere on January 10."
+        ]
+      }
+    ],
+    "facts": [
+      "Cameron Monaghan stars as rookie cop Harry Bosch",
+      "Omari Hardwick stars as veteran officer Eli Bridges",
+      "The series is set in 1992 Los Angeles",
+      "The show premieres on Sunday, January 10 with two episodes",
+      "The finale airs on Sunday, February 21",
+      "The series consists of eight episodes",
+      "Michael Connelly is the author of the original book series"
+    ],
+    "entities": {
+      "people": [
+        "Cameron Monaghan",
+        "Omari Hardwick",
+        "Michael Connelly",
+        "Tom Bernardo",
+        "Brian Anthony",
+        "Ariana Guerra",
+        "JD Pardo",
+        "Kathleen Wilhoite",
+        "William Fichtner",
+        "Rafi Gavron",
+        "Raphael Sbarge",
+        "Azita Ghanizada",
+        "Kenneth Miller",
+        "Seamus Dever",
+        "Ryan McPartlin",
+        "Marco Rodriguez",
+        "Shelli Boone",
+        "Henrik Bastin",
+        "Jamie Boscardin Martin",
+        "Stephen Kay",
+        "Jasmine Russ",
+        "Mark Douglas",
+        "Theresa Snider"
+      ],
+      "titles": [
+        "Bosch: Start of Watch",
+        "Bosch"
+      ]
+    },
+    "keywords": [
+      "Bosch: Start of Watch",
+      "Cameron Monaghan Bosch",
+      "Omari Hardwick Bosch",
+      "Michael Connelly Bosch prequel"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/Bosch-start-of-watch.jpg?w=1024",
+        "caption": "MGM+ Reveals First-Look Photos for 'Bosch: Start Of Watch' Prequel Series",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 18:33:44 +0000"
+  },
+  "1vgesfi": {
+    "id": "1vgesfi",
+    "type": "news",
+    "headline": "Universal Music Group Reports $3.78 Billion in Revenue for Q3 2026",
+    "dek": "The world's largest record company announced its third-quarter financial results, highlighting growth in recorded music and publishing alongside leadership commentary on artificial intelligence.",
+    "body": [
+      {
+        "h": "Third Quarter Financial Performance",
+        "p": [
+          "Universal Music Group delivered its quarterly earnings report, revealing total revenues of 3.394 billion euros, which equates to approximately $3.78 billion. This figure represents a nearly 12 percent increase compared to the previous year.",
+          "The results underscore continued financial expansion for the global music enterprise, driven by multiple revenue streams across recorded music and publishing divisions."
+        ]
+      },
+      {
+        "h": "Recorded Music and Publishing Growth",
+        "p": [
+          "Recorded music revenue experienced notable gains, growing nearly 15 percent overall to reach 2.55 billion euros, or $2.84 billion. Even when excluding the impact of the Downtown Music acquisition, recorded revenue still grew by just over 7 percent.",
+          "Meanwhile, music publishing revenue climbed to 590 million euros, translating to roughly $659 million. This marked a 7.5 percent total increase, or about 1.5 percent without accounting for Downtown Music."
+        ]
+      },
+      {
+        "h": "Top Performing Artists and Catalogues",
+        "p": [
+          "During the third quarter, the company benefited from strong project releases across a diverse roster of prominent acts. Major commercial performers cited in the report included Mrs. Green Apple, Olivia Rodrigo, Stray Kids, Ariana Grande, and The Beatles.",
+          "These high-profile contributions helped fuel broader consumption trends across physical and digital formats during the quarter."
+        ]
+      },
+      {
+        "h": "Subscription and Physical Sales",
+        "p": [
+          "Subscription-based revenue climbed to roughly $2 billion, marking an 18 percent jump year-over-year, or an 8 percent growth when excluding the Downtown acquisition. Physical product sales also performed well, jumping 15 percent to reach 392 million euros, or about $437 million.",
+          "Conversely, merchandise revenue experienced a downturn of about 4.6 percent, coming in at 248 million euros, or roughly $277 million, which the company attributed to a lower volume of major tours."
+        ]
+      },
+      {
+        "h": "Executive Commentary on Strategy",
+        "p": [
+          "Chairman and CEO Sir Lucian Grainge addressed stakeholders during the earnings call, specifically highlighting the Downtown Music purchase as the company's most significant acquisition since EMI.",
+          "Grainge emphasized that the financial outcomes reflect the enduring value of supporting extraordinary talent and innovative technology, while pointing to ongoing efforts to make operations faster, more focused, and efficient."
+        ]
+      },
+      {
+        "h": "Concerns Over Artificial Intelligence",
+        "p": [
+          "A substantial portion of Grainge's opening remarks on the earnings call focused on the proliferation of artificial intelligence and the challenges posed by synthetic content. He warned that the scale of the problem currently outpaces progress, citing examples of blues charts being polluted by AI tracks imitating emotional impact.",
+          "Advocating for protective measures, Grainge argued that AI slop degrades the fan experience and diverts value from real musicians, suggesting that synthetic content should be paid out at lower rates to discourage industrial-scale production."
+        ]
+      },
+      {
+        "h": "Recent Corporate Reorganization",
+        "p": [
+          "The financial report follows a notable round of corporate restructuring that took place two weeks prior to the earnings announcement. That period involved executive departures, including Def Jam CEO Tunji Balogun and Republic Records chief Jim Roppo, alongside several leadership changes at Interscope."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Universal Music Group announced $3.78 billion in revenue for the third quarter of 2026, reflecting a nearly 12 percent increase from the previous year. Chairman and CEO Sir Lucian Grainge discussed strong contributions from major artists, subscription growth, and pressing concerns regarding artificial intelligence content in the music industry."
+        ]
+      }
+    ],
+    "facts": [
+      "Universal Music Group posted 3.394 billion euros or about $3.78 billion in revenue in its third quarter",
+      "Recorded revenue grew nearly 15 percent overall to 2.55 billion euros or $2.84 billion",
+      "Music publishing revenue grew to 590 million euros or about $659 million",
+      "Subscription revenue grew to about $2 billion",
+      "Physical revenue jumped 15 percent at 392 million euros or about $437 million",
+      "Merchandise revenue fell about 4.6 percent to 248 million euros or about $277 million"
+    ],
+    "entities": {
+      "people": [
+        "Sir Lucian Grainge",
+        "Mrs. Green Apple",
+        "Olivia Rodrigo",
+        "Stray Kids",
+        "Ariana Grande",
+        "The Beatles",
+        "Tunji Balogun",
+        "Jim Roppo"
+      ],
+      "titles": [
+        "Downtown Music",
+        "EMI"
+      ]
+    },
+    "keywords": [
+      "Universal Music Group Q3 2026 revenue",
+      "Sir Lucian Grainge Universal Music Group",
+      "Universal Music Group AI slop",
+      "Universal Music Group earnings report"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2277213878.jpg?crop=0px%2C134px%2C3520px%2C1972px&#038;resize=1440%2C810",
+        "caption": "Universal Music Group Reports $3.78 Billion in Revenue for Q3 2026",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 18:21:51 +0000"
   }
 };

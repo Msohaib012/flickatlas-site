@@ -7456,5 +7456,934 @@ window.FA_PUBLISHED = {
     "pakistan_theatrical_release_date": "2026-03-21",
     "pakistan_release_source": "https://www.instagram.com/p/DWJJpewCE3R/",
     "providers": []
+  },
+  "1806232": {
+    "id": 1806232,
+    "type": "movie",
+    "title": "Tum Mere Ho",
+    "poster_path": "/iQyd8w6xPjTrOeYImdt70EEQ0zv.jpg",
+    "backdrop_path": "/lIXF6aD648qiDYnDlplVfKxuCO0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Tum Mere Ho is a heartfelt romance starring Gurmeet Choudhary and Isha Malviya, exploring love, emotions, and the unexpected turns that bring two hearts together.",
+    "industry": "bollywood",
+    "popularity": 2.1575,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-23",
+    "date_kind": "release",
+    "runtime": 134,
+    "providers": []
+  },
+  "340197": {
+    "id": 340197,
+    "type": "tv",
+    "title": "Hostel Haadsa",
+    "poster_path": "/wMkBcZHgXnU4GjLhjwqiWU3MlpR.jpg",
+    "backdrop_path": "/tZlle24lBhAaMSvM34pON8Z4wKm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A fearless skeptic unravels a haunted hostel's legend, only to become its next target.",
+    "industry": "bollywood",
+    "popularity": 1.4362,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-28",
+    "networks": [
+      "ZEE5"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 7,
+    "channel": "ZEE5",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 7,
+        "air_date": "2026-10-28",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Sachin Gotad"
+    ],
+    "providers": []
+  },
+  "1541477": {
+    "id": 1541477,
+    "type": "movie",
+    "title": "You, Me, Us",
+    "poster_path": "/4Gw8ukw5aAUP1uzNtYZ0CNTUy5A.jpg",
+    "backdrop_path": "/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+    "vote_average": 4.125,
+    "vote_count": 4,
+    "overview": "A couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities.",
+    "industry": "world",
+    "popularity": 2.2612,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it",
+      "de"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "313699": {
+    "id": 313699,
+    "type": "tv",
+    "title": "Balaraw: Blood Island",
+    "poster_path": "/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
+    "backdrop_path": "/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
+    "industry": "world",
+    "popularity": 4.7178,
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [
+      "tl"
+    ],
+    "certification": "M18",
+    "first_air_date": "2026-10-29",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-29",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1810711": {
+    "id": 1810711,
+    "type": "movie",
+    "title": "Dilwali diwali",
+    "poster_path": "/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
+    "backdrop_path": "/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 0.2523,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "321221": {
+    "id": 321221,
+    "type": "tv",
+    "title": "Minimum Wage",
+    "poster_path": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+    "backdrop_path": "/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+    "vote_average": 9.4,
+    "vote_count": 5,
+    "overview": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
+    "industry": "world",
+    "popularity": 22.3575,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "SO4CU9P8--8",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2026-10-26",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 14,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 14,
+        "air_date": "2026-10-26",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Jeremy Garelick",
+      "Will Phelps"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "316702": {
+    "id": 316702,
+    "type": "tv",
+    "title": "Final Table",
+    "poster_path": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+    "backdrop_path": "/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+    "vote_average": 8.6,
+    "vote_count": 5,
+    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "industry": "world",
+    "popularity": 34.3372,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Bring the perfect dish to life.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-10-24",
+    "networks": [
+      "JTBC"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "JTBC",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-10-24",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1810428": {
+    "id": 1810428,
+    "type": "movie",
+    "title": "in the heart there is a stone",
+    "poster_path": "/m8EhM8J49CyNUNPHGMxFcdyPMi3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Naomi calls Matteo and compares him to the sea: how can you ask the waves to be anything other than waves? To have known him is enough. His answer is less enthusiastic, and finding herself emptier than she had thought, she heads into a rocky valley to find inner connection: to hear what the rocks, trees, and wind have to say about it all.",
+    "industry": "world",
+    "popularity": 0.1359,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "festival",
+    "runtime": 26,
+    "providers": []
+  },
+  "314360": {
+    "id": 314360,
+    "type": "tv",
+    "title": "YAGA",
+    "poster_path": "/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+    "backdrop_path": "/lVCFOjUDlZLMvTJxQ2t78MjTIqL.jpg",
+    "vote_average": 6.909,
+    "vote_count": 11,
+    "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+    "industry": "world",
+    "popularity": 50.7564,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": {
+      "key": "NZgbgXAlK_Q",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-23",
+    "networks": [
+      "Crave"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Crave",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-23",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Kat Sandler"
+    ],
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "AMC Plus Apple TV channel",
+        "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "AMC+ Amazon Channel",
+        "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "AMC+",
+        "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "286171": {
+    "id": 286171,
+    "type": "tv",
+    "title": "Tigers Sniff the Rose",
+    "poster_path": "/5OuUPWLwr5JKLZBhzF7antNWdvY.jpg",
+    "backdrop_path": "/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+    "vote_average": 9.3,
+    "vote_count": 3,
+    "overview": "Princess Danyang, Mu Wanyao, a formidable and arrogant royal, is married to Yan Shang, a cunning scholar of humble origins. Amid court intrigues, they move from rivalry and mutual suspicion to reconciliation, becoming powerful allies who join forces to break political deadlocks and safeguard peace.",
+    "industry": "world",
+    "popularity": 22.3421,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": {
+      "key": "taRLq2g43AA",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Side by side, through life and death.",
+    "status": "Returning Series",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "NC16",
+    "first_air_date": "2026-10-23",
+    "networks": [
+      "Tencent Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 40,
+    "channel": "Tencent Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 40,
+        "air_date": "2026-10-23",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "WeTV",
+        "logo_path": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1810021": {
+    "id": 1810021,
+    "type": "movie",
+    "title": "Bullseye",
+    "poster_path": "/nyYjUkykewLXg62P7fVgklkJypx.jpg",
+    "backdrop_path": "/ulgxx0f8u3HXtTQIpD0LYkYifZg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Fed up with her inability to orgasm, Fran seeks out a local porn star hoping he'll finally get her rocks off. The only problem...he's gay. However, his will to help leads Fran to finally discover pleasure in the most unexpected of places.",
+    "industry": "world",
+    "popularity": 0.5566,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "festival",
+    "runtime": 21,
+    "providers": []
+  },
+  "1805448": {
+    "id": 1805448,
+    "type": "movie",
+    "title": "Married to the Filipino Mafia",
+    "poster_path": "/kiaFdNrF6BIoYj2s3uwulOkEwOr.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Meet the Filipino Mafia Family.  “Blood is thicker than water. We’re happy to spill yours.”  Marrying into this family? Good luck.",
+    "industry": "world",
+    "popularity": 1.2527,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1804764": {
+    "id": 1804764,
+    "type": "movie",
+    "title": "Life Sure Is Sweet",
+    "poster_path": "/GDToleMYHHcfAilqtqIgnLOOsl.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two years in the making, \"Life Sure Is Sweet\" is a independent coming-of-age snowboard documentary produced by the creative collective TDI (Technically Doing It). Featuring an all-Black and Brown crew of riders travelling and filming across the globe, the film moves beyond high-level action sports progression to explore deep themes of cultural identity, community, lifelong friendship, and charting your own path in the mountains.",
+    "industry": "world",
+    "popularity": 0.5946,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1803407": {
+    "id": 1803407,
+    "type": "movie",
+    "title": "Journey to the End of the Ego",
+    "poster_path": "/7ugX2Ko26wFzXS971M8Yit2NLn5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The scene is the almost mythical landscape of Ben Loyal, one of Scotland's most remote mountains towering over the Arctic Ocean. The cliff is one of the finest sweeps of clean unclimbed rock to be found anywhere in the land. The climber is the thought-provoking controversial live-wire, who goes by the name of Franco Cookson. This is the epic story of the UK's most dangerous trad route and the 105 days of climbing it took to realise one man's dream; 'Nothing is Lost' E12 7a.",
+    "industry": "world",
+    "popularity": 0.8143,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 40,
+    "providers": []
+  },
+  "1802542": {
+    "id": 1802542,
+    "type": "movie",
+    "title": "Over Stregen",
+    "poster_path": "/4rUeQ5iCDqgS6D017dTtwQhdKJR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.7176,
+    "original_language": "da",
+    "origin_country": [
+      "DK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "DK"
+    ],
+    "spoken_languages": [],
+    "certification": "11",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1799016": {
+    "id": 1799016,
+    "type": "movie",
+    "title": "Douvina",
+    "poster_path": "/ydmnIblAKjSd3dcnKLC2KrIYL9z.jpg",
+    "backdrop_path": "/vg7HxFceP9Y6XSaPtV6SZAhuE5O.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film is a silent invitation to contemplation: on the winding paths of preserving memory, on what slips through our fingers in the present, and on our own place in the face of the departure of those we love, the disappearance of places, and the subtle marks we leave along the way.",
+    "industry": "world",
+    "popularity": 1.2633,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "10",
+    "release_date": "2026-11-05",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1798500": {
+    "id": 1798500,
+    "type": "movie",
+    "title": "Mono No Aware",
+    "poster_path": "/wLq40BesSs4LPgD1p3Xc8sSqgkT.jpg",
+    "backdrop_path": "/kt28PKbeqr34P5jNUS9bEijuzCg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The spiritual journey of a human being -an idealized model, a prophet of purity- on the path toward the Nietzschean Übermensch, reinterpreted through a contemporary lens. From the social darkness of the Camel, taking its steps through a desert of melancholy and solitude, to the verbal force of the Lion, reflected in its absolute moral freedom and freedom of thought, up to the birth of the Child, the very manifesto of innocence, ruled by instinct, physical ecstasy, a continuous search for the Self, and constant linguistic experimentation.",
+    "industry": "world",
+    "popularity": 0.5538,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "CAMEL, LION, CHILD.",
+    "status": "In Production",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it",
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 91,
+    "providers": []
+  },
+  "1796580": {
+    "id": 1796580,
+    "type": "movie",
+    "title": "The Whores Feast",
+    "poster_path": "/qoCMjlsubC4zCSNovKRgYcuZPcS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Filmed during a shared harvest dinner with organizers and collaborators, The Whores Feast brings together Ceyenne Doroshow of G.L.I.T.S., Victoria Von Blaque of Trans Equity Consulting, Lisa 张小华 of Red Canary Song, and Amalia Valentine of Decrim NY. Their conversation lingers over nourishment, labor, chosen family, honoring the collective practices of care that sustain communities through ongoing precarity.",
+    "industry": "world",
+    "popularity": 1.172,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1795690": {
+    "id": 1795690,
+    "type": "movie",
+    "title": "Hit the Books, Harry!",
+    "poster_path": "/fDL7CJQxQd4504xexfC4np6KvHd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A stressed, under-prepared college student spots a girl across the empty library as he crams for his exams.",
+    "industry": "world",
+    "popularity": 0.8846,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 117,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-05",
+    "date_kind": "festival",
+    "runtime": 2,
+    "providers": []
+  },
+  "1791401": {
+    "id": 1791401,
+    "type": "movie",
+    "title": "La Esquina tá en Candela",
+    "poster_path": "/513gBZi1lWjwWWGPgInDc24VqLd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a man bursts into a grocery store armed and demanding to talk with somebody, an ordinary afternoon turns into chaos in the neighborhood.",
+    "industry": "world",
+    "popularity": 1.3523,
+    "original_language": "es",
+    "origin_country": [
+      "DO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
   }
 };

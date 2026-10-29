@@ -112,7 +112,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-28",
       "day": "Day 13",
-      "collection": 26413,
+      "collection": 27470,
       "shows": 1287,
       "occupancy": 6.4,
       "tickets": 13388,
@@ -121,7 +121,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 14",
-      "collection": 20074,
+      "collection": 22187,
       "shows": 990,
       "occupancy": 6.0,
       "tickets": 8252,
@@ -186,7 +186,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 189118,
+      "collection": 228209,
       "shows": 4449,
       "occupancy": 9.7,
       "tickets": 77774,
@@ -239,7 +239,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 7",
-      "collection": 22187
+      "collection": 28526
     }
   ],
   "1153576": [
@@ -590,7 +590,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 26413
+      "collection": 31696
     }
   ],
   "1785611": [
@@ -814,7 +814,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-28",
       "day": "Day 13",
-      "collection": 101426,
+      "collection": 100370,
       "shows": 1473,
       "occupancy": 16.1,
       "tickets": 77021,
@@ -823,7 +823,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 14",
-      "collection": 71844,
+      "collection": 80296,
       "shows": 1104,
       "occupancy": 15.8,
       "tickets": 46128,
@@ -951,7 +951,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-28",
       "day": "Day 14",
-      "collection": 723719,
+      "collection": 737454,
       "shows": 10477,
       "occupancy": 14.6,
       "tickets": 452652,
@@ -960,7 +960,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 15",
-      "collection": 442684,
+      "collection": 509245,
       "shows": 7783,
       "occupancy": 12.4,
       "tickets": 237774,
@@ -1214,7 +1214,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 28",
-      "collection": 68674,
+      "collection": 80296,
       "shows": 2409,
       "occupancy": 7.8,
       "tickets": 28304,

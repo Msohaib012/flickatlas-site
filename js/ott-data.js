@@ -100,6 +100,34 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-26",
+      "date_kind": "release",
+      "id": 321221,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-24",
+      "date_kind": "release",
+      "id": 316702,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-10-23",
       "date_kind": "release",
       "id": 338918,
@@ -111,6 +139,42 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-23",
+      "date_kind": "release",
+      "id": 314360,
+      "providers": [
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+          "name": "AMC+"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-23",
+      "date_kind": "release",
+      "id": 286171,
+      "providers": [
+        {
+          "logo_path": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+          "name": "WeTV"
         }
       ],
       "type": "tv"
