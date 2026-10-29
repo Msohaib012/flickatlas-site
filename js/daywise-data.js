@@ -121,10 +121,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 14",
-      "collection": 2113,
-      "shows": 218,
-      "occupancy": 4.7,
-      "tickets": 1797
+      "collection": 4226,
+      "shows": 312,
+      "occupancy": 5.2,
+      "tickets": 2872
     }
   ],
   "1375156": [
@@ -185,10 +185,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 28526,
-      "shows": 1060,
-      "occupancy": 6.2,
-      "tickets": 14806
+      "collection": 35922,
+      "shows": 1430,
+      "occupancy": 6.8,
+      "tickets": 21132
     }
   ],
   "1400940": [
@@ -237,7 +237,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 7",
-      "collection": 1057
+      "collection": 2113
     }
   ],
   "1153576": [
@@ -588,7 +588,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 1057
+      "collection": 3170
     }
   ],
   "1785611": [
@@ -641,9 +641,9 @@ window.FA_DAYWISE = {
       "date": "2026-10-29",
       "day": "Day 7",
       "collection": 1057,
-      "shows": 89,
-      "occupancy": 0.9,
-      "tickets": 151
+      "shows": 115,
+      "occupancy": 2.0,
+      "tickets": 405
     }
   ],
   "1606527": [
@@ -816,10 +816,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 14",
-      "collection": 10565,
-      "shows": 192,
-      "occupancy": 9.8,
-      "tickets": 7843
+      "collection": 20074,
+      "shows": 357,
+      "occupancy": 14.1,
+      "tickets": 17507
     }
   ],
   "1234139": [
@@ -952,10 +952,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 15",
-      "collection": 41204,
-      "shows": 1494,
-      "occupancy": 7.7,
-      "tickets": 35966
+      "collection": 75013,
+      "shows": 2314,
+      "occupancy": 9.7,
+      "tickets": 70792
     }
   ],
   "1269325": [
@@ -1205,10 +1205,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 28",
-      "collection": 8452,
-      "shows": 520,
-      "occupancy": 5.7,
-      "tickets": 5648
+      "collection": 11622,
+      "shows": 740,
+      "occupancy": 6.1,
+      "tickets": 8475
     }
   ],
   "1497970": [

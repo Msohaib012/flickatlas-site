@@ -15747,5 +15747,196 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 04:38:09 +0000"
+  },
+  "nhby92": {
+    "id": "nhby92",
+    "type": "news",
+    "headline": "Milwaukee Brewers Secure First World Series Title in Franchise History",
+    "dek": "The Milwaukee Brewers capped off a dominant 2026 season by defeating the Tampa Bay Rays to claim their first-ever World Series championship.",
+    "body": [
+      {
+        "h": "A Historic Victory",
+        "p": [
+          "The Milwaukee Brewers achieved a monumental milestone on October 28, 2026, by winning their first-ever World Series championship in the franchise's 57-year history. The team's triumph marked the culmination of decades of anticipation for the small-market club.",
+          "Supporters and players celebrated the long-awaited victory, which brought the ultimate title home to the city of Milwaukee and the state."
+        ]
+      },
+      {
+        "h": "Honoring Bob Uecker",
+        "p": [
+          "The late Bob Uecker, the beloved longtime radio announcer who spent 54 years in the booth, remained a central spiritual presence for the team during their championship run. Though he passed away prior to the 2026 conclusion, his legacy was honored deeply.",
+          "Manager Pat Murphy shared a lighthearted and touching message during his post-game speech, channeling what he joked was a text message from Uecker from the great beyond praising the team's historic accomplishment."
+        ]
+      },
+      {
+        "h": "Dominant Postseason Run",
+        "p": [
+          "Entering the postseason with the best record in Major League Baseball, the Brewers proved their dominance throughout October. They powered through the bracket by sweeping the two-time defending champion Los Angeles Dodgers in the NLCS.",
+          "Continuing their stellar momentum into the final stage, they defeated the Tampa Bay Rays in a gentleman's sweep, taking the series four games to one."
+        ]
+      },
+      {
+        "h": "World Series Matchup Details",
+        "p": [
+          "The championship series featured intense competition, with Milwaukee securing narrow one-run victories in each of the first two games before decisively crushing Tampa Bay 10-0 in Game 3.",
+          "Although the Rays rebounded with a 4-3 victory in Game 4, the Brewers shut down any hopes of a comeback by dominating the final contest from the second inning onward."
+        ]
+      },
+      {
+        "h": "Standout Performances and MVP Honors",
+        "p": [
+          "Catcher William Contreras delivered crucial plays for Milwaukee and was ultimately named the World Series MVP. His performance in the final game included driving in Christian Yelich to secure the team's final run in the sixth inning.",
+          "Tampa Bay put up a late fight in the bottom of the ninth when Chandler Simpson doubled to deep right field, allowing Liam Hicks to score, but it was not enough to halt Milwaukee's celebration."
+        ]
+      },
+      {
+        "h": "Small-Market Triumph",
+        "p": [
+          "Securing the title is considered a phenomenal feat for a franchise operating within baseball's smallest market. Over more than half a century of existence, the club had never previously captured the final game of the season.",
+          "The 2026 championship permanently alters the narrative of the franchise, cementing the roster as legends in baseball history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Milwaukee Brewers won their first World Series championship on October 28, 2026, defeating the Tampa Bay Rays four games to one. Manager Pat Murphy honored late broadcaster Bob Uecker after the win, while catcher William Contreras earned MVP honors for his standout performance throughout the series."
+        ]
+      }
+    ],
+    "facts": [
+      "The Milwaukee Brewers won their first World Series championship on October 28, 2026.",
+      "The franchise has been in existence for 57 years.",
+      "Manager Pat Murphy shared a humorous message attributed to late radio announcer Bob Uecker.",
+      "The Brewers swept the Los Angeles Dodgers in the NLCS.",
+      "The Brewers defeated the Tampa Bay Rays four games to one in the World Series.",
+      "Game 3 of the World Series ended with a 10-0 score.",
+      "Tampa Bay won Game 4 with a 4-3 score.",
+      "Catcher William Contreras was named the World Series MVP.",
+      "In the final game, William Contreras drove in Christian Yelich in the 6th inning to make it 4-0.",
+      "Chandler Simpson hit a double in the bottom of the 9th inning allowing Liam Hicks to score for Tampa Bay."
+    ],
+    "entities": {
+      "people": [
+        "Bob Uecker",
+        "Pat Murphy",
+        "William Contreras",
+        "Christian Yelich",
+        "Chandler Simpson",
+        "Liam Hicks"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Milwaukee Brewers World Series",
+      "Pat Murphy Bob Uecker",
+      "William Contreras World Series MVP",
+      "Milwaukee Brewers Tampa Bay Rays 2026"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2302475326.jpg?w=1024",
+        "caption": "Milwaukee Brewers Secure First World Series Title in Franchise History",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 05:49:54 +0000"
+  },
+  "1m8p0ry": {
+    "id": "1m8p0ry",
+    "type": "news",
+    "headline": "Ramayana: Part One Overseas Pre-Sales Surpass Rs 24 Crore Ahead of Worldwide Release",
+    "dek": "Ranbir Kapoor and Nitesh Tiwari's upcoming cinematic adaptation of the Indian epic has crossed $2.58 million in international advance bookings, outperforming early domestic pre-sales figures.",
+    "body": [
+      {
+        "h": "International Advance Bookings Surge",
+        "p": [
+          "The highly anticipated cinematic venture Ramayana: Part One has kicked off its global box-office journey with impressive international pre-sales. The film has crossed the $2.58 million mark, translating to approximately Rs 24.5 crore in overseas advance bookings.",
+          "This strong international momentum has currently outpaced the movie's early domestic figures in India by around Rs 6.4 crore, setting a robust foundation ahead of its theatrical debut."
+        ]
+      },
+      {
+        "h": "North America Dominates Overseas Markets",
+        "p": [
+          "North America has emerged as the primary driver of international pre-sales for the Nitesh Tiwari directorial, contributing $1.91 million which accounts for nearly 74 per cent of all overseas advance ticket sales.",
+          "Other international territories have also chipped in steadily, with the UK and Ireland recording $268,800, Australia and New Zealand bringing in $248,300, and Germany contributing $86,400 alongside other global markets."
+        ]
+      },
+      {
+        "h": "Domestic Pre-Sales and Language Breakdown",
+        "p": [
+          "Back home in India, Ramayana: Part One has recorded a gross advance booking total of Rs 15.56 crore, which includes blocked seats. Excluding those specific seats, the domestic collection stands at Rs 12.77 crore across nearly 2.97 lakh tickets sold in 6,382 shows spanning 191 cities.",
+          "The Hindi version is leading the domestic charge overwhelmingly, bringing in Rs 13.06 crore. Meanwhile, the Kannada version has secured Rs 2.04 crore, and the Telugu version stands at Rs 46.38 lakh."
+        ]
+      },
+      {
+        "h": "Leading Cities Across India",
+        "p": [
+          "Advance demand within the country is heavily anchored by major metropolitan areas. The National Capital Region leads domestic city-wise sales with Rs 2.87 crore.",
+          "Bengaluru follows closely with Rs 2.45 crore, Mumbai records Rs 2.16 crore, Hyderabad contributes Rs 83.14 lakh, and Pune accounts for Rs 64.03 lakh in advance ticket purchases."
+        ]
+      },
+      {
+        "h": "About the Epic Adaptation",
+        "p": [
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra, Ramayana: Part One represents the first chapter of a planned two-part epic adaptation. The star-studded cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+          "The ensemble further includes Sunny Deol portraying Hanuman and Ravie Dubey essaying Lakshman, building immense anticipation for its grand theatrical rollout."
+        ]
+      },
+      {
+        "h": "Release Schedule and Expectations",
+        "p": [
+          "With just seven days remaining until the official worldwide release, theatre capacities and show counts are expected to evolve. The film is officially scheduled to open in cinemas globally on November 5, with paid premieres commencing a day earlier on November 4.",
+          "Trade analysts are watching closely to see if domestic demand will accelerate in the final week to match the remarkable momentum already established in international territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has achieved $2.58 million in international advance bookings, outperforming its Rs 15.56 crore gross domestic pre-sales ahead of its November 5 theatrical release. North America leads the overseas markets while the Hindi version dominates domestic collections, with the film directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash."
+        ]
+      }
+    ],
+    "facts": [
+      "International advance bookings for Ramayana: Part One reached $2.58 million or approximately Rs 24.5 crore.",
+      "Domestic advance bookings in India stand at Rs 15.56 crore gross including blocked seats, and Rs 12.77 crore excluding them.",
+      "North America contributed $1.91 million to the overseas pre-sales.",
+      "The UK and Ireland recorded $268,800 in advance bookings.",
+      "Australia and New Zealand recorded $248,300 in advance bookings.",
+      "Germany contributed $86,400 to international pre-sales.",
+      "The Hindi version collected Rs 13.06 crore in domestic pre-sales.",
+      "The Kannada version collected Rs 2.04 crore in domestic pre-sales.",
+      "The Telugu version collected Rs 46.38 lakh in domestic pre-sales.",
+      "NCR led Indian cities with Rs 2.87 crore, followed by Bengaluru at Rs 2.45 crore and Mumbai at Rs 2.16 crore.",
+      "The film is scheduled for a worldwide theatrical release on November 5, with paid premieres on November 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ramayana advance booking",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/ramayana-box-office-291114658-16x9_0.jpg?VersionId=gkrCc5AxbJMGJUK6kyePnFfFj3BJYDX8",
+        "caption": "Ramayana: Part One Overseas Pre-Sales Surpass Rs 24 Crore Ahead of Worldwide Release",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 11:03:19 +0530"
   }
 };
