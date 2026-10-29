@@ -208,9 +208,23 @@ def load_js_window(path, varname):
 
 
 def parse_date(value):
-    """Parse an article `published` string (several spellings) -> date."""
+    """Parse an article `published` string (several spellings) -> date.
+
+    Articles carry BOTH spellings: ISO 8601 ("2026-10-25T11:02:13.828Z",
+    "2026-10-20") and RFC 2822 ("Sun, 25 Oct 2026 18:39:48 +0200").
+    email.utils alone raises on ISO, so before 2026-10-28 every
+    ISO-dated article was silently invisible to recent_articles() —
+    and the final 7-day guard in build_topics() could never drop
+    anything, because the dates it checks are ISO. Try ISO first,
+    then RFC.
+    """
     if not value:
         return None
+    try:
+        return datetime.fromisoformat(
+            str(value).replace("Z", "+00:00")).date()
+    except Exception:
+        pass
     try:
         from email.utils import parsedate_to_datetime
         dt = parsedate_to_datetime(str(value))

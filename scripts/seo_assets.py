@@ -75,7 +75,6 @@ STATIC_PAGES = [
     ("/tv", "daily", "0.9", "titles"),
     ("/box-office", "daily", "0.9", "daywise"),
     ("/box-office/milestones", "weekly", "0.8", "daywise"),
-    ("/box-office-day", "daily", "0.8", "daywise"),
     ("/upcoming", "daily", "0.9", "titles"),
     ("/most-awaited", "daily", "0.8", "titles"),
     ("/ott", "daily", "0.8", "titles"),
@@ -114,7 +113,12 @@ def parse_date(s):
         return None
     s = s.strip()
     try:
-        if "T" in s:
+        # ISO dates start with YYYY-MM-DD. Do NOT test `"T" in s`: RFC822
+        # dates contain a capital T in "GMT" and in Tue/Thu, which sent
+        # them down the ISO branch, raised, and silently dropped
+        # datePublished/dateModified for 49/159 articles (all the GMT- and
+        # Tue/Thu-dated ones). Fixed 2026-10-28 (claude-seo audit).
+        if re.match(r"^\d{4}-\d{2}-\d{2}", s):
             return datetime.fromisoformat(
                 s.replace("Z", "+00:00")).date().isoformat()
         return parsedate_to_datetime(s).date().isoformat()
@@ -504,10 +508,11 @@ def build_sitemap(lastmods):
                          % (BASE, tid, n), lm, "daily", "0.8"))
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for loc, lm, freq, prio in urls:
-        out.append("  <url><loc>%s</loc><lastmod>%s</lastmod>"
-                   "<changefreq>%s</changefreq><priority>%s</priority></url>"
-                   % (xml_esc(loc), lm, freq, prio))
+    # SEO audit 2026-10-28 (claude-seo): Google ignores <changefreq>
+    # and <priority> — emit loc + lastmod only.
+    for loc, lm, _freq, _prio in urls:
+        out.append("  <url><loc>%s</loc><lastmod>%s</lastmod></url>"
+                   % (xml_esc(loc), lm))
     out.append("</urlset>")
     return "\n".join(out) + "\n", len(urls)
 
@@ -565,7 +570,15 @@ def main():
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write(sitemap)
     with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
-        f.write("User-agent: *\nAllow: /\nDisallow: /api/\n\n"
+        # SEO audit 2026-10-28 (claude-seo): /news and the homepage news
+        # sections render from /api/news only, and robots Disallow: /api/
+        # blocks Googlebot from fetching it — the feed is invisible to the
+        # crawler. Allow the three public read-only JSON feeds (longest
+        # match wins over Disallow: /api/); everything else under /api/
+        # stays disallowed.
+        f.write("User-agent: *\nAllow: /\nAllow: /api/news\n"
+                "Allow: /api/trends\nAllow: /api/reviews\n"
+                "Disallow: /api/\n\n"
                 "Sitemap: %s/sitemap.xml\n" % BASE)
 
     print("seo_assets: %d titles (%d movies, %d tv), %d articles, "

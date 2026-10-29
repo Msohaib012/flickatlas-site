@@ -124,6 +124,12 @@ FRESH_DAYS = 90
 SOURCES = [
     ("trending", "movie",
      "/trending/movie/week"),
+    ("trending_tv", "tv",
+     # 2026-10-28: there was NO international TV source at all — TMDB
+     # /trending/tv/week was 20/20 missing from the catalogue, so the
+     # OTT TV rails could never fill. Currency is checked on details
+     # (tv_is_current), like pk_dramas.
+     "/trending/tv/week"),
     ("now_playing", "movie",
      "/movie/now_playing?region=IN"),
     ("upcoming", "movie",
@@ -140,6 +146,15 @@ SOURCES = [
      # extra candidate is never wrongly forced in as "fresh".
      "/discover/movie?region=IN&release_date.gte={fresh_start}"
      "&release_date.lte={fresh_end}&sort_by=popularity.desc"),
+    ("world_window", "movie",
+     # World releases inside the fresh window, by PRIMARY release date:
+     # every other movie source is IN-region (now_playing/upcoming/
+     # india_window), so a US/EU release not playing in India never
+     # entered any candidate list — World Cinema fell 3-4 days behind
+     # (2026-10-28 audit: 11/20 of now_playing-IN page 1 missing).
+     # Date-sorted, not popularity-sorted, so small releases surface.
+     "/discover/movie?primary_release_date.gte={fresh_start}"
+     "&primary_release_date.lte={fresh_end}&sort_by=primary_release_date.desc"),
     ("pk_dramas", "tv",
      # Air-date filter (first_air_date.gte, {cutoff} = 90 days ago):
      # popularity-sorted PK discover is dominated by ENDED all-time hits
@@ -148,6 +163,12 @@ SOURCES = [
      # (Dar-E-Nijaat, Rutba, Mitti De Baway, ...).
      "/discover/tv?with_origin_country=PK&first_air_date.gte={cutoff}"
      "&sort_by=popularity.desc"),
+    ("new_tv", "tv",
+     # Newly-premiering international series (first_air_date in the
+     # 90-day window, popularity desc): trending_tv only surfaces what
+     # is already trending; this catches new series before they trend.
+     "/discover/tv?first_air_date.gte={cutoff}"
+     "&first_air_date.lte={horizon}&sort_by=popularity.desc"),
     ("pk_movies", "movie",
      # Pakistani films (Lollywood). PRIMARY release date, not plain
      # release_date: the plain filter matches ANY regional re-release
@@ -166,6 +187,9 @@ SOURCE_PAGES = {
     "upcoming": 2,
     "bollywood": 2,
     "india_window": 2,
+    "world_window": 2,
+    "new_tv": 2,
+    "trending_tv": 1,
 }
 
 # --- Drama tracker <-> published catalogue sync (owner order 2026-10-26) ---
@@ -632,9 +656,48 @@ def select(lists, published, cap):
             continue
         seen.add(tid)
         picked.append((tid, "movie", "trending"))
+    # Phase 1b (TV): the same drip for the new trending_tv source —
+    # without it, trending series starve behind the 4/day backfill
+    # queue exactly like trending movies did (2026-10-28: 20/20
+    # trending_tv titles missing from the catalogue).
+    for tid in (backfill.get("trending_tv") or [])[:TRENDING_DRIP_PER_RUN]:
+        if len(picked) >= cap:
+            break
+        if tid in seen:
+            continue
+        seen.add(tid)
+        picked.append((tid, "tv", "trending_tv"))
     # Phase 2: backfill, at most BACKFILL_PER_DAY (and under ceiling).
+    # GLOBAL newest-first (2026-10-28 fix): the old per-source
+    # round-robin let a 2023 title from an early source jump ahead of
+    # an Oct title from a later source while the 4/day cap stayed fixed
+    # — the queue drained in source order, not date order (2026-10-28:
+    # Sumo Didi 2023 was picked while Verity 2026-10-02 waited). The
+    # cap is unchanged (owner order: 4/day); only the ORDER is now
+    # truly newest-first: released by date desc, then upcoming by date
+    # asc, no-date last. Dates are read from per_source (the
+    # fresh/backfill split above drops them).
     backfill_cap = min(cap, len(picked) + BACKFILL_PER_DAY)
-    _round_robin(ordered, backfill, backfill_cap, picked, seen)
+    media_of = {n: m for n, m, _ in SOURCES}
+    released, upcoming, nodate = [], [], []
+    for n, v in per_source.items():
+        if n in ("trending", "trending_tv"):
+            continue  # handled by Phase 1b above
+        for tid, d in v:
+            if tid in seen or _is_fresh(d, today):
+                continue
+            (nodate if not d else
+             upcoming if d > today.isoformat() else
+             released).append((tid, d, media_of[n], n))
+    released.sort(key=lambda t: t[1], reverse=True)
+    upcoming.sort(key=lambda t: t[1])
+    for tid, _d, media, source in released + upcoming + nodate:
+        if len(picked) >= backfill_cap:
+            break
+        if tid in seen:
+            continue
+        seen.add(tid)
+        picked.append((tid, media, source))
     return picked
 
 

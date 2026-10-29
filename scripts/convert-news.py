@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Convert fetch.py out/queue.json -> api-news.json (+ Google Trends -> api-trends.json).
+"""Convert fetch.py out/queue.json -> api-news.json (+ trending searches -> api-trends.json).
+
+api-trends source: Google Trends daily RSS first; Google removed that
+endpoint (HTTP 404 for US and IN, verified 2026-10-28), so the feed
+falls back to Tavily week search (same queries as
+scripts/trending_weekly.py). Without either leg the old file is kept
+and a loud WARNING is printed — the feed must never freeze silently.
 
 api-news shape matches the site's live /api/news:
   {"generated": iso, "count": N,
@@ -279,8 +285,39 @@ def build_news(queue_path, registry_path):
     }
 
 
-def fetch_trends():
-    """Google Trends daily searches (US + IN) -> {generated, items:[{q,traffic,geo,news}]}."""
+TAVILY_URL = "https://api.tavily.com/search"
+# Same focused week queries as scripts/trending_weekly.py, split by
+# geo so the items keep their US/IN split.
+TREND_SEARCH_QUERIES = [
+    ("IN", "trending Bollywood movies this week box office collection"),
+    ("IN", "trending entertainment news India this week"),
+    ("IN", "viral movie news this week India"),
+    ("US", "Hollywood trending movies this week box office"),
+    ("US", "trending entertainment news Hollywood this week"),
+]
+
+
+def _now_iso():
+    return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
+
+def tavily_keys():
+    keys = []
+    for name in ("TAVILY_API_KEY", "TAVILY_API_KEY_BACKUP"):
+        k = os.environ.get(name, "").strip()
+        if k:
+            keys.append(k)
+    return keys
+
+
+def fetch_trends_google():
+    """Google Trends daily searches (US + IN) -> [{q, traffic, geo, news}].
+
+    The RSS endpoint this reads (trends.google.com/trends/
+    trendingsearches/daily/rss) returns HTTP 404 since ~Oct 2026, so
+    this leg normally yields [] now; it is kept first so the feed
+    heals itself if Google ever restores the endpoint.
+    """
     found = []
     for geo in ("US", "IN"):
         url = f"https://trends.google.com/trends/trendingsearches/daily/rss?geo={geo}"
@@ -307,10 +344,73 @@ def fetch_trends():
             if title:
                 found.append({"q": title, "traffic": traffic, "geo": geo,
                               "news": news_items[:3]})
-    return {
-        "generated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "items": found[:12],
-    }
+    return found
+
+
+def fetch_trends_tavily():
+    """Tavily week search -> [{q, traffic, geo, news}] (fallback leg).
+
+    Shape is unchanged; traffic is "" — Tavily reports no search-volume
+    numbers and no figure is invented. q is the trending story title
+    (the same headline-style text Google's feed carried as the query).
+    """
+    keys = tavily_keys()
+    if not keys:
+        print("trends tavily: no TAVILY_API_KEY, skipping fallback")
+        return []
+    found, seen = [], set()
+    for geo, query in TREND_SEARCH_QUERIES:
+        results, last_err = [], None
+        for key in keys:
+            try:
+                body = json.dumps({
+                    "query": query, "search_depth": "basic",
+                    "time_range": "week", "max_results": 5,
+                }).encode("utf-8")
+                req = urllib.request.Request(
+                    TAVILY_URL, data=body, method="POST",
+                    headers={"Authorization": "Bearer " + key,
+                             "Content-Type": "application/json"})
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    results = json.load(r).get("results") or []
+                break
+            except Exception as e:
+                last_err = e
+                continue
+        if not results:
+            print(f"trends tavily {geo} failed: {last_err}")
+            continue
+        for r in results:
+            title = (r.get("title") or "").strip()
+            if not title or title.lower() in seen:
+                continue
+            seen.add(title.lower())
+            found.append({"q": title, "traffic": "", "geo": geo,
+                          "news": [title]})
+            if len(found) >= 12:
+                break
+        if len(found) >= 12:
+            break
+    return found
+
+
+def fetch_trends():
+    """Trending searches -> {generated, items:[{q,traffic,geo,news}], source}.
+
+    Google RSS first, Tavily week search as fallback. "source" records
+    which leg produced the items ("google-rss" | "tavily" | "none").
+    """
+    google = fetch_trends_google()
+    if google:
+        return {"generated": _now_iso(), "items": google[:12],
+                "source": "google-rss"}
+    tavily = fetch_trends_tavily()
+    if tavily:
+        print(f"api-trends.json: Google RSS dead, Tavily fallback: "
+              f"{len(tavily)} items")
+        return {"generated": _now_iso(), "items": tavily[:12],
+                "source": "tavily"}
+    return {"generated": _now_iso(), "items": [], "source": "none"}
 
 
 def main():
@@ -338,9 +438,17 @@ def main():
             with open(trends_path, "w", encoding="utf-8") as f:
                 json.dump(trends, f, ensure_ascii=False, indent=1)
             trends_count = len(trends["items"])
-            print(f"api-trends.json: {len(trends['items'])} items")
+            print(f"api-trends.json: {len(trends['items'])} items "
+                  f"(source={trends.get('source')})")
         else:
-            print("api-trends.json: no trends fetched, kept existing file")
+            _old = ""
+            try:
+                with open(trends_path, encoding="utf-8") as _f:
+                    _old = json.load(_f).get("generated") or ""
+            except Exception:
+                pass
+            print(f"WARNING: api-trends.json STALE since {_old or 'unknown'} "
+                  f"(Google RSS dead + Tavily fallback empty) — kept existing file")
     except Exception as e:
         print(f"api-trends.json: failed ({e}), kept existing file")
     if step_runs is not None:
