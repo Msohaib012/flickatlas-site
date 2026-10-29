@@ -68,4 +68,34 @@ assert.deepEqual(articles.map(x=>x.id),['a','b','z']);
 assert(read('js/page-news.js').includes('(Number(b.ts) || 0) - (Number(a.ts) || 0)'));
 assert.match(read('js/page-guides.js'),/Date\.parse\(value \|\| ""\)/);
 assert.match(srcIndex,/dateOf\(a\)\.localeCompare\(dateOf\(b\)\)/); // future calendar remains nearest-first
-console.log('Listing order and OTT eligibility fixtures passed.');
+// 2026 Pakistan theatrical rail: exact mapped IDs, source-backed local dates, complete pool and newest-first ordering.
+const catalogSource = read('js/published-titles.js');
+const pkExpected = [
+  ['1610901','Aag Lagay Basti Mein','2026-03-20'],
+  ['1649259','Bullah','2026-03-21'],
+  ['1680581','Mera Lyari','2026-05-08'],
+  ['1703707','Luv Di Saun','2026-05-26'],
+  ['1699721','Psycho','2026-05-27'],
+  ['1702608','Zombeid','2026-05-27'],
+  ['1787584','Sheroes','2026-10-02']
+];
+const pkRecords = pkExpected.map(([id,title,date]) => {
+  const block = catalogSource.match(new RegExp('"'+id+'"\\s*:\\s*\\{([\\s\\S]*?)\\n  \\}'));
+  assert(block, `missing mapped Pakistani release ${title} (${id})`);
+  assert(block[1].includes(`"title": "${title}"`));
+  assert(block[1].includes(`"pakistan_theatrical_release_date": "${date}"`));
+  assert.ok(block[1].includes('"pakistan_release_source": "https://'));
+  return {title,date};
+}).sort(dateDesc);
+assert.deepEqual(pkRecords.map(x=>x.date),['2026-10-02','2026-05-27','2026-05-27','2026-05-26','2026-05-08','2026-03-21','2026-03-20']);
+assert.doesNotMatch(catalogSource,/"title": "Hanging by a Wire"[\s\S]{0,2000}"pakistan_theatrical_release_date"/);
+assert.match(srcIndex,/pakistan_theatrical_release_date/);
+assert.ok(srcIndex.includes('pakistan_release_source && /^https:'));
+assert.match(srcIndex,/f=lollywood&amp;y=\$\{currentYear\}&amp;s=recent/);
+assert.match(srcMovies,/f === "lollywood" && y === UI\.todayPKT\(\)\.slice\(0, 4\)/);
+assert.match(srcMovies,/x\.pakistan_theatrical_release_date > UI\.todayPKT\(\)/);
+console.log('Listing order, OTT eligibility, and Pakistan theatrical fixtures passed.');
+
+// Catalog is consumed by Python JSON readers as well as JavaScript.
+JSON.parse(catalogSource.split("window.FA_PUBLISHED = ")[1].trim().replace(/;$/, ""));
+assert.ok(!srcIndex.includes('.filter(x => x && x.poster_path && typeOf(x) === "movie"\n        && UI.industryOf(x) === "pakistani"'));

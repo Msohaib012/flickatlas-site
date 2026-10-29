@@ -45,7 +45,7 @@
        rails). */
     const pubAll = () => Object.values(window.FA_PUBLISHED || {});
     const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
-    const dateOf = (x) => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
+    const dateOf = (x) => typeOf(x) === "tv" ? (x.first_air_date || "") : ((UI.industryOf(x) === "pakistani" && x.pakistan_theatrical_release_date && x.pakistan_release_source) ? x.pakistan_theatrical_release_date : (x.release_date || ""));
     const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a)) || (b.published_at || "").localeCompare(a.published_at || "");
     const byOldest = (a, b) => dateOf(a).localeCompare(dateOf(b)) || (a.published_at || "").localeCompare(b.published_at || "");
     /* A future festival premiere can appear in Coming Soon while its date
@@ -318,9 +318,11 @@
        in their separate episodes section. ---------- */
     const currentYear = today.slice(0, 4);
     const lollyLatest = pubAll()
-      .filter(x => x && x.poster_path && typeOf(x) === "movie"
-        && UI.industryOf(x) === "pakistani" && isReleased(x)
-        && dateOf(x).slice(0, 4) === currentYear)
+      .filter(x => x && typeOf(x) === "movie"
+        && UI.industryOf(x) === "pakistani" && x.pakistan_theatrical_release_date
+        && /^\d{4}-\d{2}-\d{2}$/.test(x.pakistan_theatrical_release_date)
+        && x.pakistan_release_source && /^https:\/\//.test(x.pakistan_release_source)
+        && dateOf(x) <= today && dateOf(x).slice(0, 4) === currentYear)
       .sort(byNewest);
 
     /* ---------- Trending Worldwide: AUTHENTIC trending only (user order
@@ -746,8 +748,8 @@
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Pakistani movies released in ${currentYear}</h2>
       <a class="see-all" href="/movies?f=lollywood&amp;y=${currentYear}&amp;s=recent">See All →</a></div>
-      <p class="sec-sub">All published Pakistani movie releases from ${currentYear} · newest first.</p>
-      <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
+      <p class="sec-sub">Confirmed Pakistan theatrical releases in ${currentYear} · newest first.</p>
+      <div class="scroller">${lollyLatest.map(x => UI.posterCard({ ...x, release_date: dateOf(x) }, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
     /* Drama episodes (user order 2026-10-26, LIST format 21:37 PKT):
        a VERTICAL LIST — NOT poster cards and NOT a slider. One row per

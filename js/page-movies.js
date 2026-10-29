@@ -99,7 +99,7 @@
   const inSpotlightWindow = (x) => { const d = dateOf(x); return !!d && d >= spotlightCutoff; };
   const published = () => Object.values(window.FA_PUBLISHED || {});
   const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
-  const dateOf = x => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
+  const dateOf = x => typeOf(x) === "tv" ? (x.first_air_date || "") : (f === "lollywood" && x.pakistan_theatrical_release_date && x.pakistan_release_source ? x.pakistan_theatrical_release_date : (x.release_date || ""));
   /* Normal Movies hub date order is newest first — RELEASE DATE desc,
      with published_at only breaking ties. The homepage Spotlight See All
      view below intentionally overrides that to oldest-first within the
@@ -124,16 +124,20 @@
      exclusion order stands — this is the Spotlight See All); TV series
      are a different content type and are never excluded. */
   const released = published().filter(x => {
-    if (!x || !x.id || !x.poster_path) return false;
+    if (!x || !x.id) return false;
+    const confirmedPK = f === "lollywood" && UI.industryOf(x) === "pakistani"
+      && /^\d{4}-\d{2}-\d{2}$/.test(x.pakistan_theatrical_release_date || "")
+      && /^https:\/\//.test(x.pakistan_release_source || "");
+    if (!x.poster_path && !confirmedPK) return false;
     /* Festival-only titles (date_kind="festival", owner decision
        2026-10-27) are not released — they live on /upcoming. */
-    if (x.date_kind === "festival") return false;
+    if (x.date_kind === "festival" && !confirmedPK) return false;
     const d = dateOf(x);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(d) || d > todayStr()) return false;
     if (typeOf(x) === "tv") return true;
-    return typeOf(x) === "movie" && !UI.isStreamingOnly(x);
+    return typeOf(x) === "movie" && (confirmedPK || !UI.isStreamingOnly(x));
   });
-  const years = [...new Set(released.map(x => dateOf(x).slice(0, 4)))].sort().reverse();
+  const years = [...new Set(released.map(x => dateOf(x).slice(0, 4)).concat(published().filter(x => x && x.type === "movie" && UI.industryOf(x) === "pakistani" && x.pakistan_theatrical_release_date && x.pakistan_release_source).map(x => x.pakistan_theatrical_release_date.slice(0, 4))))].sort().reverse();
   let y = UI.getParam("y", "");
   if (!years.includes(y)) y = years[0] || "";
   const pool = released;
@@ -205,7 +209,7 @@
       const items = trendingPool.filter(x =>
         !g || (Array.isArray(x.genres) && x.genres.includes(g)));
       grid.innerHTML = items.map(x =>
-        `<div class="fcell" data-fitem>${UI.posterCard(x, "movie", tagFor(x))}</div>`).join("");
+        `<div class="fcell" data-fitem>${UI.posterCard(f === "lollywood" ? { ...x, release_date: dateOf(x) } : x, "movie", tagFor(x))}</div>`).join("");
       fcount.textContent = `${items.length} trending movie${items.length === 1 ? "" : "s"} · in weekly trending eligibility · newest release date first · refreshed daily`;
       emptyHost.innerHTML = items.length ? ""
         : UI.stateMsg(trendingPool.length
@@ -242,6 +246,8 @@
       if (f === "hollywood" && !(UI.industryOf(x) === "world" && x.original_language === "en" && (x.origin_country || []).includes("US"))) return false;
       if (f === "international" && UI.industryOf(x) !== "world") return false;
       if (f === "lollywood" && UI.industryOf(x) !== "pakistani") return false;
+      /* Current-year Lollywood is a source-confirmed Pakistan theatrical scope; older years retain the full catalog. */
+      if (f === "lollywood" && y === UI.todayPKT().slice(0, 4) && (!x.pakistan_theatrical_release_date || !x.pakistan_release_source || !/^https:\/\//.test(x.pakistan_release_source) || x.pakistan_theatrical_release_date.slice(0, 4) !== y || x.pakistan_theatrical_release_date > UI.todayPKT())) return false;
       /* "Top Rated" is a sort-by-rating view, not a gate: the old gate
          (rating >= 7.5 AND vote_count >= 300) could never match published
          titles (vote_count 2-3), so the filter always showed empty. */
@@ -252,7 +258,7 @@
       : sort === "oldest" ? byOldest(a, b)
       : sort === "recent" ? byNewest(a, b) : byPopular(a, b));
     grid.innerHTML = items.map(x =>
-      `<div class="fcell" data-fitem>${UI.posterCard(x, typeOf(x), tagFor(x), undefined, undefined, true)}</div>`).join("");
+      `<div class="fcell" data-fitem>${UI.posterCard(f === "lollywood" ? { ...x, release_date: dateOf(x) } : x, typeOf(x), tagFor(x), undefined, undefined, true)}</div>`).join("");
     const noun = t === "movie" ? "movie" : t === "tv" ? "TV series" : "title";
     fcount.textContent = `${items.length} ${noun}${items.length === 1 ? "" : "s"}${y ? ` · ${y}` : ""}`;
     emptyHost.innerHTML = items.length ? ""

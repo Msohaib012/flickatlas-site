@@ -7127,5 +7127,301 @@ window.FA_PUBLISHED = {
       "https://www.netflix.com/title/81772075",
       "https://www.bollywoodhungama.com/news/bollywood/akka-teaser-out-netflix-confirms-october-30-premiere-for-keerthy-suresh-and-radhika-apte-starrer/"
     ]
+  },
+  "1610901": {
+    "id": 1610901,
+    "type": "movie",
+    "title": "Aag Lagay Basti Mein",
+    "poster_path": "/2s4YHDSl8Qp4iImSNMKdQ9u87EF.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Barkat is an honest, hard-working man struggling to make ends meet alongside his wife, Almaas, who has grown tired of their modest life. Working as cleaners, the couple decides to turn to petty crime in hopes of improving their financial situation. What begins as small, calculated risks soon spirals into something far bigger, drawing the couple into the world of seasoned criminals. As guns, chases, and escalating chaos enter their lives, Barkat and Almaas find their domestic relationship increasingly entangled with crime and danger. Blending dark comedy with crime drama, the story explores ambition, greed, and the unintended consequences of trying to take shortcuts to a better life",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Comedy"
+    ],
+    "tagline": "Izzat ka nawala",
+    "status": "Released",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "hi",
+      "pa",
+      "ur"
+    ],
+    "certification": "15",
+    "release_date": "2026-03-21",
+    "runtime": 140,
+    "providers": [],
+    "pakistan_theatrical_release_date": "2026-03-20",
+    "pakistan_release_source": "https://www.nueplex.com/movie/AagLagayBastiMeinPakistani.html",
+    "popularity": 3.4025,
+    "date_kind": "release"
+  },
+  "1680581": {
+    "id": 1680581,
+    "type": "movie",
+    "title": "Mera Lyari",
+    "poster_path": "/uQ0WVR0lBagGtRF4wFDNsI8Miss.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A story resilience, identity and the courage to rise, even when the odds are stacked against you.",
+    "industry": "pakistani",
+    "original_language": "en",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Every Fight Has A Beginning",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "U",
+    "release_date": "2026-05-08",
+    "runtime": 98,
+    "providers": [],
+    "pakistan_theatrical_release_date": "2026-05-08",
+    "pakistan_release_source": "https://tribune.com.pk/story/2607389/mera-lyari-premieres-to-strong-audience-response",
+    "popularity": 1.1322,
+    "date_kind": "release"
+  },
+  "1703707": {
+    "id": 1703707,
+    "type": "movie",
+    "title": "Luv Di Saun",
+    "poster_path": "/1ZopszaQZflrFtf3FDjKI5DWfTV.jpg",
+    "backdrop_path": "/bkulWfMmPVznkapfofaoxjUAWCY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story follows a young man from Lahore’s inner city who falls in love with a woman facing social restrictions and personal struggles. Their relationship develops amid violence, emotional conflict, and opposition from society. The film explores themes of love, destiny, womanhood, and sacrifice against the cultural backdrop of Old Lahore.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "M",
+    "release_date": "2026-05-27",
+    "runtime": 142,
+    "providers": [],
+    "pakistan_theatrical_release_date": "2026-05-26",
+    "pakistan_release_source": "https://www.facebook.com/CinepaxLtd/posts/double-the-movies-double-the-eid-entertainment-premiere-shows-of-zombeid-and-luv/966404262667684/",
+    "popularity": 0.6885,
+    "date_kind": "release"
+  },
+  "1699721": {
+    "id": 1699721,
+    "type": "movie",
+    "title": "Psycho",
+    "poster_path": "/mJuiQlIOf4RFw6L4zLdyfWBkggP.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A psychological thriller exploring the fragile boundary between perception and reality, where characters confront their inner demons and moral conflicts while navigating suspense-driven events that challenge identity, truth, and human nature.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 800000,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "ur"
+    ],
+    "certification": "",
+    "release_date": "2026-05-27",
+    "runtime": 145,
+    "providers": [],
+    "pakistan_theatrical_release_date": "2026-05-27",
+    "pakistan_release_source": "https://images.dawn.com/news/1195361/review-after-promising-to-shed-light-on-mental-health-psycho-does-the-opposite",
+    "popularity": 1.9024,
+    "date_kind": "release"
+  },
+  "1702608": {
+    "id": 1702608,
+    "type": "movie",
+    "title": "Zombeid",
+    "poster_path": "/gy8Y1TELd0guAYcBP5QHnI7Xp6V.jpg",
+    "backdrop_path": null,
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "A couple Stuck in a down park on Chand Raat with zombies, must keep them contained to save Eid.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "tagline": "Chaos.",
+    "status": "Released",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-05-27",
+    "runtime": 105,
+    "providers": [],
+    "pakistan_theatrical_release_date": "2026-05-27",
+    "pakistan_release_source": "https://tribune.com.pk/story/2611216/fahad-mustafa-pens-letter-to-punjab-government-seeking-relaxation-in-cinema-timings",
+    "popularity": 1.5086,
+    "date_kind": "release"
+  },
+  "1787584": {
+    "id": 1787584,
+    "type": "movie",
+    "title": "Sheroes",
+    "poster_path": "/svq7Nm0vp54g1HkQmO0ZlnRfi82.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An anthology film featuring three distinct, gripping stories titled Artist, Gear Up, and Punch.",
+    "industry": "pakistani",
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "The stories of Nisa",
+    "status": "Released",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "release_date": "2026-10-02",
+    "runtime": 100,
+    "providers": [],
+    "pakistan_theatrical_release_date": "2026-10-02",
+    "pakistan_release_source": "https://www.thenews.pk/print/1440973-geo-films-sheroes-continues-successful-run-in-cinemas",
+    "popularity": 1.4456,
+    "date_kind": "release"
+  },
+  "1649259": {
+    "id": 1649259,
+    "type": "movie",
+    "title": "Bullah",
+    "poster_path": "/4tfvF8aVdFuG3bf4js3YCtXb4uo.jpg",
+    "backdrop_path": "/dD0xY8iP3C8DBy0nhe1Fgrsqoo5.jpg",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "overview": "After his father is murdered, a vigilante seeks revenge against those responsible.",
+    "industry": "pakistani",
+    "popularity": 1.7837,
+    "original_language": "pa",
+    "origin_country": [],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-29T11:05:06.935041+00:00",
+    "source": "tmdb",
+    "budget": 253047,
+    "revenue": 1084488,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "ur",
+      "pa"
+    ],
+    "certification": "15",
+    "release_date": "2026-03-20",
+    "date_kind": "release",
+    "runtime": 108,
+    "pakistan_theatrical_release_date": "2026-03-21",
+    "pakistan_release_source": "https://www.instagram.com/p/DWJJpewCE3R/",
+    "providers": []
   }
 };
