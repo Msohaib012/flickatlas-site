@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+Allow: /api/news
+Allow: /api/trends
+Allow: /api/reviews
 Disallow: /api/
 
 Sitemap: https://flickatlas.co.uk/sitemap.xml

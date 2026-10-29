@@ -16135,5 +16135,176 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 06:43:29 +0000"
+  },
+  "so7l1b": {
+    "id": "so7l1b",
+    "type": "news",
+    "headline": "Cannes-Winning Director Jafar Panahi Sentenced to Five Years in Prison by Iranian Court",
+    "dek": "Acclaimed filmmaker Jafar Panahi has been handed a prison term of over five years in absentia by a Tehran court, alongside travel and social media restrictions, according to his legal representative.",
+    "body": [
+      {
+        "h": "The Court Verdict",
+        "p": [
+          "A judicial body in Iran has delivered a prison sentence of five years and one month to celebrated director Jafar Panahi in absentia. Legal counsel Mostafa Nili confirmed the decision, stating that the Tehran Revolutionary Court also ordered the seizure of all assets belonging to his client.",
+          "In addition to the custodial sentence, the judgment includes restrictive measures preventing the artist from using social media and leaving the nation for a duration of two years. Official state media reports circulating the news omitted specific details regarding the exact nature of the charges."
+        ]
+      },
+      {
+        "h": "Discovery of the Conviction",
+        "p": [
+          "The legal team uncovered the ruling after the filmmaker noticed his financial accounts had been frozen, which led his attorney to investigate at the sentence enforcement office of the Culture and Media Prosecutor's Office. Nili noted that notice of the hearing was never served to the defense.",
+          "The lawyer mentioned that his client had traveled back into the country during the military conflict involving Israel and the United States that commenced on February 28. It remains uncertain whether the director is currently residing within the country."
+        ]
+      },
+      {
+        "h": "Ongoing Legal Hurdles",
+        "p": [
+          "This recent ruling adds to a growing list of legal troubles for the 66-year-old artist, who currently faces three active pending cases. Earlier in the year, a judicial rejection dismissed his appeal against a one-year term issued previously for alleged anti-state propaganda.",
+          "The international film community continues to monitor his situation closely, as Iranian authorities maintain strict surveillance over prominent artists, creative workers, and media figures whose projects examine societal and political themes."
+        ]
+      },
+      {
+        "h": "Festival Accolades and Career Highlights",
+        "p": [
+          "Despite decades of state-imposed restrictions, the director has maintained a prominent profile on the global cinema circuit. Last year, he earned the top honor at the Cannes Film Festival for his acclaimed motion picture It Was Just an Accident.",
+          "His international recognition dates back decades, beginning with his debut feature The White Balloon earning a major honor at Cannes in 1995. Over the years, he has built a reputation for crafting critical perspectives on modern Iranian society."
+        ]
+      },
+      {
+        "h": "History of Censorship and Defiance",
+        "p": [
+          "The auteur has faced persistent friction with authorities, including a twenty-year prohibition on filmmaking and international travel issued in 2010 following his support of anti-government demonstrations. Although initially handed a six-year prison sentence back then, he served only a brief two-month period before gaining release on bail.",
+          "Known for finding creative ways to bypass state censorship, he famously smuggled his documentary This is Not a Film out to Cannes hidden inside a cake on a flash drive. His subsequent 2015 project Taxi featured him operating a vehicle as a driver while filming entirely within the cabin, and he endured another lengthy detention in 2022 following filmmaker protests."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Iranian authorities sentenced acclaimed filmmaker Jafar Panahi in absentia to over five years in prison alongside property confiscation and multi-year travel and social media bans. The legal development highlights the ongoing challenges faced by prominent artists under strict state surveillance and censorship in the region."
+        ]
+      }
+    ],
+    "facts": [
+      "Jafar Panahi was sentenced in absentia to five years and one month in prison.",
+      "The Tehran Revolutionary Court ordered the confiscation of all his movable and immovable property.",
+      "A two-year ban on social media activity and a two-year travel ban were also imposed.",
+      "His lawyer is Mostafa Nili.",
+      "Jafar Panahi is 66 years old.",
+      "He won the top prize at last year's Cannes Film Festival for It Was Just an Accident.",
+      "His debut film The White Balloon won an award for best first feature at Cannes in 1995."
+    ],
+    "entities": {
+      "people": [
+        "Jafar Panahi",
+        "Mostafa Nili"
+      ],
+      "titles": [
+        "It Was Just an Accident",
+        "The White Balloon",
+        "This is Not a Film",
+        "Taxi"
+      ]
+    },
+    "keywords": [
+      "Jafar Panahi prison sentence",
+      "It Was Just an Accident film",
+      "Mostafa Nili lawyer",
+      "Tehran Revolutionary Court"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/jafar-panahi-295355385-16x9_0.jpg?VersionId=yT.b_3roarRW42nIShX_nOg3P0_uMz7q",
+        "caption": "Cannes-Winning Director Jafar Panahi Sentenced to Five Years in Prison by Iranian Court",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 12:25:29 +0530"
+  },
+  "13gdut2": {
+    "id": "13gdut2",
+    "type": "news",
+    "headline": "Ranbir Kapoor Details Proposal to Alia Bhatt in Kenya",
+    "dek": "Ranbir Kapoor revealed on Kaun Banega Crorepati 18 that he proposed to Alia Bhatt in Maasai Mara with three lions standing nearby.",
+    "body": [
+      {
+        "h": "The Kenyan Proposal Story",
+        "p": [
+          "Ranbir Kapoor shared the dramatic and humorous details of how he proposed to Alia Bhatt during an appearance on the television game show Kaun Banega Crorepati 18, hosted by Amitabh Bachchan. The actor recounted how a romantic gesture in the middle of the wilderness was unexpectedly joined by three wild lions situated a short distance away."
+        ]
+      },
+      {
+        "h": "Planning the Secret Moment",
+        "p": [
+          "The actor had meticulously organized the surprise during their trip to Maasai Mara, ensuring that their guide and driver were briefed on taking photographs from afar. Understanding the importance of capturing memories for social media, Ranbir wanted to make sure they had photographic proof of the special milestone."
+        ]
+      },
+      {
+        "h": "Encountering the Wildlife",
+        "p": [
+          "While the proposal itself went according to plan, the presence of three 'babbar sher' roughly 100 feet away added an intense element to the proceedings. When Amitabh Bachchan playfully nudged him about needing pictorial proof of the wild encounter, Ranbir leaned into the humor of the situation."
+        ]
+      },
+      {
+        "h": "A Mouse and a Lioness",
+        "p": [
+          "Describing the scene with vivid imagery, Ranbir referred to Alia as his 'lioness' while comparing his own posture down on one knee in front of the dangerous predators to that of a 'mouse'. The memorable comparison provided lighthearted entertainment for both the host and the television audience."
+        ]
+      },
+      {
+        "h": "Family and Timeline",
+        "p": [
+          "Following their relationship milestones, the couple officially tied the knot on April 14, 2022, in a quiet, intimate ceremony held at their Mumbai residence attended by close relatives and friends. They later welcomed their daughter, Raha, into the world on November 6 of that same year."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Projects",
+        "p": [
+          "On the professional front, Ranbir Kapoor is currently gearing up to portray Lord Rama in director Nitesh Tiwari's upcoming cinematic project, Ramayana: Part 1. The grand feature also boasts a notable cast including Sai Pallavi as Sita, Yash as Ravana, and Sunny Deol as Hanuman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor shared on Kaun Banega Crorepati 18 how he proposed to Alia Bhatt in Maasai Mara with three lions nearby. The couple later married in Mumbai and welcomed their daughter before Ranbir began work on Ramayana: Part 1."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor proposed to Alia Bhatt in Maasai Mara",
+      "Three lions were about 100 feet away during the proposal",
+      "Ranbir and Alia married on April 14, 2022",
+      "Their daughter Raha was born on November 6, 2022",
+      "Ranbir Kapoor stars as Lord Rama in Ramayana: Part 1"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Amitabh Bachchan",
+        "Raha",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati 18",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ranbir Kapoor Alia Bhatt proposal",
+      "Kaun Banega Crorepati 18 Ranbir Kapoor",
+      "Ranbir Kapoor Maasai Mara lions",
+      "Ramayana Part 1 Ranbir Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/alia-bhatt-and-ranbir-kapoor-29254236-16x9_0.jpg?VersionId=RKuJKxqqtPa7Bn4rzzH5HYbFWvtzFvcQ",
+        "caption": "Ranbir Kapoor Details Proposal to Alia Bhatt in Kenya",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 12:58:00 +0530"
   }
 };
