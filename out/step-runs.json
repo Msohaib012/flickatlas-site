@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T05:52:01Z",
-    "run_id": "40640318001",
-    "status": "success",
-    "checked": {
-     "candidates": 116,
-     "detail": "RSS/Atom items across 139 sources; 20 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "WHY Did YRKKH Actress Navika Kotia End Her Engagement With Mazen Mody? Fiancé Dating THIS Actress Now?",
-      "418 Box Office Collection Day 5: Chaithra J Achar's Horror Thriller Sees 23% Drop, Crosses ₹12 Crore Worldwide",
-      "Rise And Fall 2 Episode 33 OTT Release Time Today: Gautam Gulati Vs Manish; Where Will New Ep Premiere?",
-      "Ramayana: Yash Says “Where You Start Can Never Define How Far You Can Go” At Grand LA Premiere, Celebrates Indian Cinema On Global Stage",
-      "Ramayana Box Office Day 1 Advance Booking (8 Days To Go): Inches Away From Entering Bollywood’s Top 3 Opening Day Pre-Sales Of 2026",
-      "Jailer 2 Kerala Box Office Day 13 Creates History at ₹72.85 Cr, Breaks Baahubali 2's 9-Year Record",
-      "Tiger Shroff to resume 'Lag Jaa Gale' shoot in November with extra security",
-      "Maachis 30th anniversary: Gulzar says film reflected truth of extremism",
-      "'We are not claiming that 'Titans' is a cult classic': Director",
-      "Freddie Prinze Jr. and Sarah Michelle Gellar’s son, Rocky, looks like his father in a new pic",
-      "Shah Rukh Khan’s birthday plans change",
-      "Robin Williams’ 640-acre Napa estate sold for $18.1 million after its asking price dropped from $35 million following years on the market",
-      "Dune Part Three final trailer breakdown: Timothée Chalamet's Paul Atreides faces Chani’s rebellion and Robert Pattinson’s deadly plot",
-      "Yash takes pride in Kannada roots at Ramayana's Los Angeles premiere, Namit Malhotra says film wouldn't have happened without him",
-      "Indian Idol fame Amit Sana says Bollywood’s ‘big insecurity’ made him feel pressured, admits he didn’t want to sing some songs",
-      "Yash brings Ravana bling to Ramayana LA premiere with 10-headed gold brooch. Pics",
-      "The Pitt star Noah Wyle named 2026's sexiest man alive",
-      "Ellarigu Namaskara: Yash puts Kannada on global stage at Ramayana premiere",
-      "shah rukh khan king poster sparks dhurandhar 2 comparisons over fiery aesthetic cheap copy tmovg dskc 2681935 2026 10 28",
-      "ramayana premier la music a r rehman kun faya kun rttm dskc 2681681 2026 10 28"
-     ],
-     "updated": [],
-     "count": 59,
-     "detail": "59 stories, 0 duplicates removed, 57 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T06:08:29Z",
     "run_id": "40641926845",
     "status": "success",
@@ -932,30 +893,48 @@
      "detail": "45 stories, 0 duplicates removed, 51 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T05:52:15Z",
-    "run_id": "40640318001",
+    "run_at": "2026-10-29T03:52:00Z",
+    "run_id": "40814392703",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 119,
+     "detail": "RSS/Atom items across 137 sources; 18 source(s) errored"
     },
     "changed": {
      "added": [
-      "Jailer 2 Kerala Box Office Day 13 Creates History at ₹72.85 Cr, Breaks Baahubali 2's 9-Year Record",
-      "Dune: Part Three Final Trailer Teases Darker Turn for Paul Atreides Amid Chani Rebellions and Robert Pattinson Threat"
+      "Ramayana: Sai Pallavi Says 'Ravana Is Not All Bad' At LA Premiere; Triggers Debate Online - Viral Video",
+      "The Traitors Telugu Episode 7-9 Release Time Today: What To Expect? Here’s When New Episodes Will Premiere",
+      "Jailer 2 Box Office Collection Day 14: Rajinikanth's Film Nears ₹760 Cr Worldwide, India Net Crosses ₹423 Cr",
+      "Hayden Panettiere’s death ruled as 'accidental drug overdose' as investigation officially closes",
+      "‘Titans’ earns Rs 2.82 crore; ‘Orijinal’ mints Rs 70 lakh",
+      "‘Ranabaali’ BO day 13: Vijay Deverakonda starrer earns Rs 56.38 crore in India",
+      "Jennifer Lawrence talks about returning as Katniss Everdeen to the ‘Hunger Games’ franchise",
+      "Janhvi Kapoor's cheeky dating advice to Veer Pahariya on Koffee With Karan has internet calling it a dig at Tara Sutaria",
+      "Exclusive | Upasana Singh takes over as CINTAA president after Dhindoshi court ruling; alleges  ₹73 lakh FD transfer",
+      "caption it delhi traffic advisory issued for diljit dosanjh concert at jln stadium on oct 30 check affected roads diversions 3223215",
+      "ranbir kapoor proposed alia bhatt in kenya jungle around 3 lions kaun banega crorepati amitabh bachchan tmovf 2682761 2026 10 29",
+      "puneet issar slams naseeruddin shah over selective criticism says if you dont like govt tmova rpti 2682914 2026 10 29",
+      "karwa chauth 2026 priyanka chopra diy mehendi uses traditional indian hack nick jonas malti connection photos article 156425421",
+      "ranbir kapoor recalls proposing to alia bhatt in jungle teen babbar sher the meri sherni article 156425436",
+      "hayden panettiere death probe closed police confirm accidental death article 156425409",
+      "jennifer lawrence reveals unauthorised crew members were present during die my love nude scene shoot i came down hard article 156425284",
+      "Game of Thrones Meets Star Wars in HBO Max's Near-Perfect Space Opera",
+      "Alan Ritchson’s Best ‘Reacher’ Quote Still Defines Prime Video’s Action Thriller 4 Years Later",
+      "Margot Robbie's ‘The Road’ Replacement Sci-Fi Thriller Is Officially on Free Streaming",
+      "5 Classic Books That Are a Masterclass in Prose"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 61,
+     "detail": "62 stories, 0 duplicates removed, 57 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1423,27 +1402,30 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T03:52:13Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwide",
+      "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore Globally"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+2 articles, +0 box-office rows, 5 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T05:52:15Z",
-    "run_id": "40640318001",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1857,19 +1839,27 @@
      "detail": "now 26, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T03:52:13Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": {
+     "candidates": 33,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 26, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2115,27 +2105,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T06:13:41Z",
-    "run_id": "40641926845",
-    "status": "success",
-    "checked": {
-     "candidates": 206,
-     "detail": "206 collected staging rows from readers; 94 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 202 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2549,19 +2531,27 @@
      "detail": "+0 new rows, 87 updated rows, 203 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T03:57:44Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": {
+     "candidates": 291,
+     "detail": "291 collected staging rows from readers; 99 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "+1 new rows, 13 updated rows, 277 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2804,30 +2794,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T06:13:43Z",
-    "run_id": "40641926845",
-    "status": "success",
-    "checked": {
-     "candidates": 85,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
-      "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 85 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3292,19 +3271,30 @@
      "detail": "api-news.json 76 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T03:57:52Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": {
+     "candidates": 74,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore Globally",
+      "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwide"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 74 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3562,19 +3552,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3835,29 +3825,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T05:52:15Z",
-    "run_id": "40640318001",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 59 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 4/6, celebrities_events 0/5, upcoming_releases 2/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 Kerala Box Office Day 13 Creates History at ₹72.85 Cr, Breaks Baahubali 2's 9-Year Record",
-      "Dune: Part Three Final Trailer Teases Darker Turn for Paul Atreides Amid Chani Rebellions and Robert Pattinson Threat"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4302,19 +4282,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T03:52:13Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 61 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 4/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwide",
+      "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore Globally"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4568,24 +4558,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 201,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4905,19 +4890,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 314,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5222,19 +5212,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5484,19 +5479,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5731,19 +5726,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5969,6 +5964,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T02:55:08Z",
     "run_id": "40807972280",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5979,16 +5984,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T06:13:53Z",
     "run_id": "40641926845",
     "status": "skipped",
@@ -6215,22 +6210,22 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T05:57:41Z",
-    "run_id": "40640318001",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T06:13:53Z",
     "run_id": "40641926845",
     "status": "skipped",
@@ -6453,6 +6448,16 @@
     "category": "Box Office",
     "run_at": "2026-10-29T02:55:08Z",
     "run_id": "40807972280",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T03:57:58Z",
+    "run_id": "40814392703",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6589,8 +6594,41 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T03:57:51Z",
+    "run_id": "40814392703",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "‘Ramayana: Rise of a Legend’ Surges Toward Rs 25 Crore in Advance Bookings Ahead",
+      "Jailer 2 Box Office Collection Day 11: Rajinikanth's Action Thriller Crosses Rs ",
+      "Nicolas Cage Unveils Trailer for Crime Thriller Best Pancakes in the County",
+      "DC Studios' Clayface Claims Top Spot at North American Box Office While You Can ",
+      "Clayface Dominates Box Office Over You Can See Everything As Street Fighter Plum",
+      "Specialty Box Office Roundup: Israel-Gaza Documentary 'NAZA' Crosses The One Mil",
+      "Fresh Insights Uncover the Under-the-Radar Romance Between Tom Brady and Candice",
+      "Lee Child Officially Steps Away From Writing Jack Reacher Novels After 29 Years",
+      "Elon Musk Releases First AI-Generated Odyssey Episode Via Grok",
+      "Udta Teer Box Office Collection Day 3: Ayushmann Khurrana and Sara Ali Khan Film",
+      "Tamil Romantic Horror Film Immortal Secures SonyLIV OTT Release Date",
+      "Bano Episode 13 — Watch on Geo TV",
+      "Zehar Episode 20 — Watch on HUM TV",
+      "Representative For Tiger Shroff Refutes Claims Regarding Statement Made To Mumba",
+      "Nashtar Episode 24 — Watch on Geo TV"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-10-29T02:55:08Z"
+ "updated_at": "2026-10-29T03:57:58Z"
 }

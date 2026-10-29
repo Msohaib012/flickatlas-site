@@ -141,14 +141,14 @@
       "tickets": 491814
     },
     {
-      "collection_gross_inr_cr": 0.0,
-      "collection_inr_cr": 0.0,
+      "collection_gross_inr_cr": 0.03,
+      "collection_inr_cr": 0.02,
       "date": "2026-10-29",
       "day": 15,
-      "occupancy_pct": 7.9,
-      "shows": 5,
+      "occupancy_pct": 5.5,
+      "shows": 95,
       "source": "moviemintbo",
-      "tickets": 84
+      "tickets": 1011
     }
   ],
   "1269325": [
@@ -423,14 +423,14 @@
       "tickets": 48038
     },
     {
-      "collection_gross_inr_cr": 0.0,
-      "collection_inr_cr": 0.0,
+      "collection_gross_inr_cr": 0.01,
+      "collection_inr_cr": 0.01,
       "date": "2026-10-29",
       "day": 28,
-      "occupancy_pct": 5.4,
-      "shows": 1,
+      "occupancy_pct": 5.7,
+      "shows": 43,
       "source": "moviemintbo",
-      "tickets": 15
+      "tickets": 416
     }
   ],
   "1375156": [
@@ -495,14 +495,14 @@
       "tickets": 139940
     },
     {
-      "collection_gross_inr_cr": 0.0,
-      "collection_inr_cr": 0.0,
+      "collection_gross_inr_cr": 0.02,
+      "collection_inr_cr": 0.02,
       "date": "2026-10-29",
       "day": 7,
-      "occupancy_pct": 8.1,
-      "shows": 6,
+      "occupancy_pct": 5.5,
+      "shows": 128,
       "source": "moviemintbo",
-      "tickets": 66
+      "tickets": 1564
     }
   ],
   "1389379": [
@@ -635,6 +635,16 @@
       "shows": 1588,
       "source": "moviemintbo",
       "tickets": 85140
+    },
+    {
+      "collection_gross_inr_cr": 0.0,
+      "collection_inr_cr": 0.0,
+      "date": "2026-10-29",
+      "day": 14,
+      "occupancy_pct": 2.2,
+      "shows": 3,
+      "source": "moviemintbo",
+      "tickets": 12
     }
   ],
   "1654581": [
@@ -767,6 +777,16 @@
       "shows": 1341,
       "source": "moviemintbo",
       "tickets": 13791
+    },
+    {
+      "collection_gross_inr_cr": 0.0,
+      "collection_inr_cr": 0.0,
+      "date": "2026-10-29",
+      "day": 14,
+      "occupancy_pct": 4.3,
+      "shows": 25,
+      "source": "moviemintbo",
+      "tickets": 177
     }
   ]
 }

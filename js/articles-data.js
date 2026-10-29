@@ -239,6 +239,12 @@ window.FA_ARTICLES = {
         "source": "Bollywood Hungama",
         "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/620x450-25102026-15.jpg.jpeg"
       }
+    ],
+    "keywords": [
+      "Tiger Shroff statement Mumbai Police",
+      "Tiger Shroff representative denies claims",
+      "Tiger Shroff armed assault reports",
+      "Tiger Shroff spokesperson"
     ]
   },
   "1bzs50a": {
@@ -435,7 +441,13 @@ window.FA_ARTICLES = {
         "source": "FilmiBeat"
       }
     ],
-    "published": "Sun, 25 Oct 2026 22:36:11 +0530"
+    "published": "Sun, 25 Oct 2026 22:36:11 +0530",
+    "keywords": [
+      "Immortal Tamil romantic horror film",
+      "GV Prakash Kumar Kayadu Lohar Immortal",
+      "Immortal SonyLIV OTT release date",
+      "Immortal streaming"
+    ]
   },
   "d7k5jf": {
     "id": "d7k5jf",
@@ -624,7 +636,13 @@ window.FA_ARTICLES = {
         "source": "Variety"
       }
     ],
-    "published": "Sun, 25 Oct 2026 17:22:45 +0000"
+    "published": "Sun, 25 Oct 2026 17:22:45 +0000",
+    "keywords": [
+      "Elon Musk AI generated Odyssey episode",
+      "The Odyssey Grok Imagine",
+      "Elon Musk X video release",
+      "Dev Walker The Odyssey"
+    ]
   },
   "1ph01p6": {
     "id": "1ph01p6",
@@ -719,7 +737,13 @@ window.FA_ARTICLES = {
         "source": "Collider"
       }
     ],
-    "published": "Sun, 25 Oct 2026 17:30:15 GMT"
+    "published": "Sun, 25 Oct 2026 17:30:15 GMT",
+    "keywords": [
+      "Lee Child stops writing Jack Reacher novels",
+      "Andrew Child Jack Reacher books",
+      "Lee Child 29 years writing",
+      "Lee Child Killing Floor author"
+    ]
   },
   "p8t4vn": {
     "id": "p8t4vn",
@@ -815,7 +839,13 @@ window.FA_ARTICLES = {
         "source": "Hindustan Times — Entertainment"
       }
     ],
-    "published": "Sun, 25 Oct 2026 22:38:42 +0530"
+    "published": "Sun, 25 Oct 2026 22:38:42 +0530",
+    "keywords": [
+      "Udta Teer box office collection day 3",
+      "Ayushmann Khurrana Sara Ali Khan Udta Teer",
+      "Udta Teer opening weekend",
+      "Ayushmann Khurrana spy comedy"
+    ]
   },
   "v7hfvy": {
     "id": "v7hfvy",
@@ -901,7 +931,13 @@ window.FA_ARTICLES = {
         "source": "Page Six"
       }
     ],
-    "published": "Sun, 25 Oct 2026 13:47:29 -0400"
+    "published": "Sun, 25 Oct 2026 13:47:29 -0400",
+    "keywords": [
+      "Tom Brady Candice Swanepoel romance",
+      "Tom Brady Miami residence",
+      "Candice Swanepoel and Tom Brady",
+      "Tom Brady relationship"
+    ]
   },
   "1p82ig9": {
     "id": "1p82ig9",
@@ -992,7 +1028,13 @@ window.FA_ARTICLES = {
         "source": "CinemaBlend"
       }
     ],
-    "published": "Sun, 25 Oct 2026 20:01:39 +0000"
+    "published": "Sun, 25 Oct 2026 20:01:39 +0000",
+    "keywords": [
+      "Clayface box office over You Can See Everything",
+      "Street Fighter domestic box office drop",
+      "Clayface twenty-four million dollars",
+      "You Can See Everything weekend"
+    ]
   },
   "1onxhn1": {
     "id": "1onxhn1",
@@ -1118,7 +1160,13 @@ window.FA_ARTICLES = {
         "source": "Deadline"
       }
     ],
-    "published": "Sun, 25 Oct 2026 19:31:12 +0000"
+    "published": "Sun, 25 Oct 2026 19:31:12 +0000",
+    "keywords": [
+      "NAZA documentary box office milestone",
+      "Yuval Abraham Rachel Szor NAZA film",
+      "NAZA Neon acquisition",
+      "Israel Gaza documentary NAZA"
+    ]
   },
   "537d1w": {
     "id": "537d1w",
@@ -1233,7 +1281,13 @@ window.FA_ARTICLES = {
         "source": "Screen Daily"
       }
     ],
-    "published": "Sun, 25 Oct 2026 21:57:00 GMT"
+    "published": "Sun, 25 Oct 2026 21:57:00 GMT",
+    "keywords": [
+      "Clayface box office North America",
+      "DC Studios Clayface 24 million",
+      "You Can See Everything A24 documentary",
+      "Clayface opening weekend"
+    ]
   },
   "wgqs6t": {
     "id": "wgqs6t",
@@ -1331,7 +1385,13 @@ window.FA_ARTICLES = {
         "source": "Collider"
       }
     ],
-    "published": "Sun, 25 Oct 2026 22:15:14 GMT"
+    "published": "Sun, 25 Oct 2026 22:15:14 GMT",
+    "keywords": [
+      "Nicolas Cage Best Pancakes in the County trailer",
+      "Best Pancakes in the County crime thriller",
+      "Ken Sanzel Best Pancakes in the County",
+      "Nicolas Cage The S.O.B."
+    ]
   },
   "8j0xk3": {
     "id": "8j0xk3",
@@ -1428,7 +1488,13 @@ window.FA_ARTICLES = {
         "source": "Times of India — Entertainment"
       }
     ],
-    "published": "2026-10-26T05:34:48+05:30"
+    "published": "2026-10-26T05:34:48+05:30",
+    "keywords": [
+      "Jailer 2 box office collection day 11",
+      "Rajinikanth Jailer 2 worldwide",
+      "Jailer 2 action thriller earnings",
+      "Rajinikanth film Rs 710 crore"
+    ]
   },
   "irj2bg": {
     "id": "irj2bg",
@@ -1523,7 +1589,13 @@ window.FA_ARTICLES = {
         "source": "Times of India — Entertainment"
       }
     ],
-    "published": "2026-10-26T06:09:50+05:30"
+    "published": "2026-10-26T06:09:50+05:30",
+    "keywords": [
+      "Ramayana Rise of a Legend advance bookings",
+      "Ranbir Kapoor Yash Ramayana film",
+      "Nitesh Tiwari Ramayana November release",
+      "Ramayana Rise of a Legend tickets"
+    ]
   },
   "1fhs8f0": {
     "id": "1fhs8f0",
@@ -2165,7 +2237,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-25T17:00:35Z"
+    "published": "2026-10-25T17:00:35Z",
+    "keywords": [
+      "Bano episode 13 Geo TV",
+      "Watch Bano episode 13",
+      "Bano Geo TV broadcast",
+      "Bano episode 2026-10-25"
+    ]
   },
   "2dsql": {
     "id": "2dsql",
@@ -2207,7 +2285,13 @@ window.FA_ARTICLES = {
         "source": "HUM TV"
       }
     ],
-    "published": "2026-10-25T17:00:32Z"
+    "published": "2026-10-25T17:00:32Z",
+    "keywords": [
+      "Zehar episode 20 HUM TV",
+      "Watch Zehar episode 20",
+      "Zehar HUM TV broadcast",
+      "Zehar episode 2026-10-25"
+    ]
   },
   "15q9ki2": {
     "id": "15q9ki2",
@@ -2260,7 +2344,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-25T16:00:37Z"
+    "published": "2026-10-25T16:00:37Z",
+    "keywords": [
+      "Nashtar episode 24 Geo TV",
+      "Watch Nashtar episode 24",
+      "Danish Taimoor Nashtar Geo TV",
+      "Nashtar episode 2026-10-25"
+    ]
   },
   "kr4rln": {
     "id": "kr4rln",
@@ -15252,5 +15342,215 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 07:54:58 +0530"
+  },
+  "1mo1rw2": {
+    "id": "1mo1rw2",
+    "type": "news",
+    "headline": "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwide",
+    "dek": "Vijay Deverakonda and Rashmika Mandanna's period drama Ranabaali maintains a steady theatrical run, crossing the Rs 75 crore milestone worldwide by its thirteenth day.",
+    "body": [
+      {
+        "h": "The Box Office Journey",
+        "p": [
+          "The period drama Ranabaali, featuring leading stars Vijay Deverakonda and Rashmika Mandanna, continues to draw audiences to theatres across multiple regions. Despite facing a slight dip in weekday ticket sales, the movie successfully crossed a major worldwide milestone on its thirteenth day of release.",
+          "Trade trackers report that the film's consistent performance over nearly two weeks has helped it cement its position at the box office. Industry analysts are closely monitoring its trajectory as it approaches its third weekend in cinemas."
+        ]
+      },
+      {
+        "h": "Day 13 Collections and Totals",
+        "p": [
+          "On its thirteenth theatrical day, Ranabaali added approximately Rs 1.03 crore to its tally across 1,488 shows in India. This latest single-day collection brings the cumulative domestic net earnings to an estimated Rs 56.38 crore.",
+          "When factoring in gross figures, the total India gross stands at roughly Rs 65.45 crore. Combined with overseas earnings that reached an estimated Rs 12.15 crore by day twelve, the worldwide gross collection has successfully surpassed the Rs 75 crore mark to reach Rs 76.45 crore."
+        ]
+      },
+      {
+        "h": "Theatrical Occupancy Rates",
+        "p": [
+          "Audience turnout remained relatively stable throughout the thirteenth day, resulting in an overall theater occupancy of 16.43%. Morning shows opened with a 14.67% occupancy rate before seeing a slight uptick during afternoon screenings.",
+          "The evening shows recorded the highest footfall of the day at 18%, while night screenings concluded the day with a steady 15.42% occupancy, reflecting sustained interest from moviegoers."
+        ]
+      },
+      {
+        "h": "Day-Wise Box Office Breakdown",
+        "p": [
+          "Ranabaali launched its box office journey with a robust Rs 9.25 crore on its opening day, followed by Rs 7.30 crore on day two and Rs 7.50 crore on day three. While weekday numbers fluctuated, the first week established a strong foundation for the film.",
+          "Subsequent days saw collections moderate, with day four bringing in Rs 5.40 crore, day five hitting Rs 7.10 crore, and day six earning Rs 5.50 crore. By the end of the first week on day seven, the film collected Rs 3.15 crore, moving into its second week with steady smaller increments."
+        ]
+      },
+      {
+        "h": "Premise and Historical Setting",
+        "p": [
+          "Directed by filmmaker Rahul Sankrityan, Ranabaali is deeply rooted in British colonial history. The narrative transports viewers back to the tumultuous period of the Madras Famine of 1876-1878, focusing heavily on the hardships endured by the people of Rayalaseema.",
+          "The story highlights themes of resistance against colonial exploitation and British atrocities. The production utilizes this dark historical backdrop to frame an intense tale of survival and rebellion."
+        ]
+      },
+      {
+        "h": "Star Cast and Creative Team",
+        "p": [
+          "Vijay Deverakonda stars as Singanamala Bobbili Ranabaali, a rugged protagonist who rises up against colonial oppressors. The role required the actor to undergo specialized horse-riding training to authentically portray the intense character.",
+          "Rashmika Mandanna stars alongside him as Jayamma, a pivotal figure who anchors his personal journey and the overarching resistance. Additionally, Hollywood actor Arnold Vosloo, recognized for his work in The Mummy, features as the primary antagonist Sir Theodore Hector, while the musical score is crafted by Ajay-Atul."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vijay Deverakonda and Rashmika Mandanna's period drama Ranabaali crossed the Rs 75 crore worldwide gross mark by its thirteenth day in theaters. Directed by Rahul Sankrityan, the film has achieved an estimated India net total of Rs 56.38 crore while eyeing further milestones in its upcoming weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranabaali released in theatres on October 16, 2026.",
+      "The film collected Rs 1.03 crore on Day 13.",
+      "Total India net collections reached an estimated Rs 56.38 crore after day 13.",
+      "Total India gross collections stand at an estimated Rs 65.45 crore.",
+      "Overseas gross total reached an estimated Rs 12.15 crore by day 12.",
+      "Worldwide gross collection stands at Rs 76.45 crore.",
+      "The film had an overall occupancy of 16.43% on day 13 across 1,488 shows.",
+      "Day 1 collection was Rs 9.25 crore, Day 2 was Rs 7.30 crore, Day 3 was Rs 7.50 crore, Day 4 was Rs 5.40 crore, Day 5 was Rs 7.10 crore, Day 6 was Rs 5.50 crore, Day 7 was Rs 3.15 crore, Day 8 was Rs 2.10 crore, Day 9 was Rs 2.80 crore, Day 10 was Rs 2.90 crore, Day 11 was Rs 1.25 crore, and Day 12 was Rs 1.10 crore.",
+      "The story is set during the Madras Famine of 1876-1878.",
+      "Rahul Sankrityan is the director of the film."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Rahul Sankrityan",
+        "Arnold Vosloo",
+        "Ajay-Atul"
+      ],
+      "titles": [
+        "Ranabaali",
+        "The Mummy"
+      ]
+    },
+    "keywords": [
+      "Ranabaali film box office",
+      "Vijay Deverakonda Ranabaali collection",
+      "Rashmika Mandanna Ranabaali movie",
+      "Ranabaali day 13 earnings"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135287547,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-29T08:28:34+05:30"
+  },
+  "mm75uu": {
+    "id": "mm75uu",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore Globally",
+    "dek": "Rajinikanth's action comedy Jailer 2 continues its steady box office journey, crossing ₹423 crore in domestic net collections and nearing the ₹760 crore milestone worldwide after fourteen days in theatres.",
+    "body": [
+      {
+        "h": "Day 14 Box Office Performance",
+        "p": [
+          "The theatrical run of Rajinikanth's latest action comedy witnessed a natural weekday dip as it completed two full weeks on the big screen. According to data provided by Sacnilk, the feature added ₹6.55 crore net across the country on Wednesday, October 28.",
+          "This latest single-day collection represents a 21.1% decline compared to the previous day's figures when the movie brought in ₹8.30 crore. Despite the downward trend typical of mid-week numbers, the overall domestic net total advanced to ₹423 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution and Occupancy",
+        "p": [
+          "The film's nationwide run was distributed across a vast network of 10,542 shows spanning multiple regional languages. Among all linguistic versions, the Tamil language presentation maintained the strongest foothold with impressive audience engagement.",
+          "The Tamil version pulled in ₹3.65 crore net from 4,553 shows, securing a 20.1% occupancy rate. Meanwhile, the Telugu version generated ₹1.50 crore from 1,736 shows with 19.1% occupancy, the Hindi variant contributed ₹1.20 crore from 4,040 shows with a 10% occupancy, and the Kannada version added ₹20 lakh from 213 shows maintaining a 20% occupancy level."
+        ]
+      },
+      {
+        "h": "Worldwide Gross and Overseas Earnings",
+        "p": [
+          "On the global front, the movie accumulated an additional ₹2.50 crore in overseas gross revenue on its fourteenth day. This pushed the cumulative international earnings to a notable ₹260.50 crore.",
+          "Combined with a domestic gross standing at ₹495 crore, the worldwide gross collection reached ₹755.50 crore. These strong figures place the project firmly on the cusp of the ₹760 crore milestone as it prepares to enter its third theatrical week."
+        ]
+      },
+      {
+        "h": "Comparing First and Second Week Earnings",
+        "p": [
+          "A look back at the film's weekly trajectory highlights its massive opening momentum followed by a predictable stabilization phase. During its inaugural week in cinemas, the project accumulated a stellar ₹334.35 crore net in India.",
+          "As the feature transitioned into its second week, collections adjusted to a total of ₹105.80 crore during those seven days. While lower than the record-breaking opening week, this sustained footfall reflects continued interest among audiences."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Creative Team",
+        "p": [
+          "The action comedy is written and directed by Nelson Dilipkumar, serving as the official sequel to the 2023 hit film Jailer. Kalanithi Maran backed the production under the prestigious Sun Pictures banner, featuring superstar Rajinikanth reprising his role as the retired jailer Tiger Muthuvel Pandian.",
+          "The ensemble cast brings back familiar faces including Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik alongside prominent new additions like S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan. The project also features high-profile cameo appearances by Mohanlal, Shiva Rajkumar, Hrithik Roshan, Jackie Shroff, and Vijay Sethupathi."
+        ]
+      },
+      {
+        "h": "Technical Credits and Release Timeline",
+        "p": [
+          "Behind the scenes, the creative framework was shaped by composer Anirudh Ravichander, who provided the musical score. Cinematography was managed by Vijay Kartik Kannan, while R. Nirmal handled editing duties.",
+          "The cinematic outing was launched worldwide on October 15, 2026, capturing widespread attention across domestic and international territories right from its premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 recorded a domestic net collection of ₹6.55 crore on its fourteenth day, bringing its total India net earnings to ₹423 crore. Backed by strong overseas contributions, the worldwide gross collection climbed to ₹755.50 crore as the movie approaches its third week in cinemas."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected ₹6.55 crore net in India on Wednesday, October 28.",
+      "The total domestic net collection reached ₹423 crore after 14 days.",
+      "The worldwide gross collection reached ₹755.50 crore after 14 days.",
+      "The Day 14 collection showed a 21.1% drop compared to ₹8.30 crore on Tuesday.",
+      "The film was screened across 10,542 shows on Day 14.",
+      "The Tamil version earned ₹3.65 crore net from 4,553 shows with 20.1% occupancy.",
+      "The Telugu version earned ₹1.50 crore from 1,736 shows with 19.1% occupancy.",
+      "The Hindi version earned ₹1.20 crore from 4,040 shows with 10% occupancy.",
+      "The Kannada version earned ₹20 lakh from 213 shows with 20% occupancy.",
+      "Overseas gross collection reached ₹260.50 crore after adding ₹2.50 crore on Day 14.",
+      "Domestic gross stands at ₹495 crore.",
+      "Second week collection was ₹105.80 crore.",
+      "Opening week collection was ₹334.35 crore net in India.",
+      "Nelson Dilipkumar wrote and directed Jailer 2, a sequel to the 2023 film Jailer.",
+      "Kalanithi Maran produced the film under the Sun Pictures banner.",
+      "Jailer 2 was released worldwide on October 15, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 worldwide collection",
+      "Jailer 2 Day 14 collection",
+      "Jailer 2 India net"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/jailer2-40581793242454.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore Globally",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 08:25:53 +0530"
   }
 };

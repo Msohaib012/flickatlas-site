@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-29T01:57:59Z",
+  "generated": "2026-10-29T03:57:58Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 2,
-    "pageviews": 14,
-    "sessions": 3,
-    "avg_session_seconds": 204.6
+    "users": 3,
+    "pageviews": 15,
+    "sessions": 4,
+    "avg_session_seconds": 154.7
   },
   "last7": {
-    "users": 30,
-    "pageviews": 578,
-    "sessions": 75,
-    "avg_session_seconds": 808.1
+    "users": 31,
+    "pageviews": 579,
+    "sessions": 76,
+    "avg_session_seconds": 797.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
       "views": 195,
-      "avg_time_seconds": 754.9
+      "avg_time_seconds": 755.1
     },
     {
       "path": "/movie",
@@ -68,7 +68,7 @@
     {
       "path": "/flickatlas-site/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 12,
+      "views": 13,
       "avg_time_seconds": 4.8
     },
     {
@@ -82,13 +82,13 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 74,
-      "users": 30
+      "sessions": 75,
+      "users": 31
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 3,
+      "sessions": 2,
       "users": 1
     }
   ],
@@ -130,14 +130,14 @@
       "users": 1
     },
     {
-      "country": "Sweden",
+      "country": "Israel",
       "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 22
+      "users": 23
     },
     {
       "device": "mobile",
