@@ -249,9 +249,10 @@
   try {
     let eps = await episodesFromState();
     if (!eps || !eps.length) eps = episodesFromArticles();
-    eps.sort((a, b) =>
-      String(b.published || "").localeCompare(String(a.published || "")) ||
-      ((b.episode || 0) - (a.episode || 0)));
+    const publishedMs = value => { const ms = Date.parse(value || ""); return Number.isFinite(ms) ? ms : 0; };
+    eps.sort((a, b) => publishedMs(b.published) - publishedMs(a.published)
+      || ((b.episode || 0) - (a.episode || 0))
+      || String(a.articleId || "").localeCompare(String(b.articleId || "")));
     if (!eps.length) {
       fcount.textContent = "No episode guides yet.";
       host.innerHTML = UI.stateMsg("No drama episodes have been published yet. New episodes appear here as they air on YouTube.", false);

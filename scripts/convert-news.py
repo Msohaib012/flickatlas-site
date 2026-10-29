@@ -301,6 +301,35 @@ def _now_iso():
     return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
 
+def trends_discovery_due(record, now):
+    """Daily UTC 18:00 Tavily gate, with a 24h cooldown and 25h catch-up."""
+    def parsed(value):
+        try:
+            dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+            return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt.astimezone(timezone.utc)
+        except (TypeError, ValueError):
+            return None
+    last_attempt = parsed(record.get("last_tavily_attempt", record.get("last_attempt")))
+    if last_attempt and (now - last_attempt).total_seconds() < 24 * 3600:
+        return False
+    if now.astimezone(timezone.utc).hour == 18:
+        return True
+    last_success = parsed(record.get("last_tavily_success", record.get("last_successful_check")))
+    return bool(last_success and (now - last_success).total_seconds() >= 25 * 3600)
+
+
+def google_trends_due(record, now):
+    """At most one RSS fetch per hour, including failed attempts."""
+    value = record.get("last_google_attempt")
+    try:
+        last = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        if last.tzinfo is None:
+            last = last.replace(tzinfo=timezone.utc)
+        return (now - last.astimezone(timezone.utc)).total_seconds() >= 3600
+    except (TypeError, ValueError):
+        return True
+
+
 def tavily_keys():
     keys = []
     for name in ("TAVILY_API_KEY", "TAVILY_API_KEY_BACKUP"):
@@ -310,41 +339,89 @@ def tavily_keys():
     return keys
 
 
-def fetch_trends_google():
-    """Google Trends daily searches (US + IN) -> [{q, traffic, geo, news}].
+GOOGLE_RSS_URL = "https://trends.google.com/trending/rss?geo={}"
+GOOGLE_NAMESPACE = "https://trends.google.com/trending/rss"
+GOOGLE_MAX_AGE = 24 * 3600
 
-    The RSS endpoint this reads (trends.google.com/trends/
-    trendingsearches/daily/rss) returns HTTP 404 since ~Oct 2026, so
-    this leg normally yields [] now; it is kept first so the feed
-    heals itself if Google ever restores the endpoint.
-    """
-    found = []
-    for geo in ("US", "IN"):
-        url = f"https://trends.google.com/trends/trendingsearches/daily/rss?geo={geo}"
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        try:
-            with urllib.request.urlopen(req, timeout=30) as r:
-                data = r.read()
-        except Exception as e:
-            print(f"trends {geo} fetch failed: {e}")
+
+def _local_name(tag):
+    return tag.rsplit("}", 1)[-1]
+
+
+def _child_text(node, name):
+    for child in node.iter():
+        if _local_name(child.tag) == name and child is not node:
+            return (child.text or "").strip()
+    return ""
+
+
+def parse_google_rss(data, geo, observed_at):
+    """Parse one Google feed, preserving source timestamps and related URLs."""
+    root = ET.fromstring(data)
+    fresh = []
+    stale_count = 0
+    for item in root.iter():
+        if _local_name(item.tag) != "item":
+            continue
+        q = _child_text(item, "title")
+        raw_date = _child_text(item, "pubDate")
+        if not q or not raw_date:
             continue
         try:
-            root = ET.fromstring(data)
+            started = parsedate_to_datetime(raw_date)
+            if started.tzinfo is None:
+                started = started.replace(tzinfo=timezone.utc)
+            started = started.astimezone(timezone.utc)
         except Exception:
             continue
-        ns = {"ht": "https://trends.google.com/trends/api"}
-        for item in root.iter("item"):
-            title = (item.findtext("title") or "").strip()
-            traffic = (item.findtext("ht:approx_traffic", namespaces=ns) or "").strip()
-            news_items = []
-            for n in item.findall("ht:news_item", ns):
-                t = (n.findtext("ht:news_item_title", namespaces=ns) or "").strip()
-                if t:
-                    news_items.append(t)
+        age = (observed_at - started).total_seconds()
+        if age < 0 or age > GOOGLE_MAX_AGE:
+            stale_count += 1
+            continue
+        related = []
+        for related_node in item.iter():
+            if _local_name(related_node.tag) != "news_item":
+                continue
+            title = _child_text(related_node, "news_item_title")
+            url = _child_text(related_node, "news_item_url")
             if title:
-                found.append({"q": title, "traffic": traffic, "geo": geo,
-                              "news": news_items[:3]})
-    return found
+                related.append({"title": title, "url": url})
+        official = GOOGLE_RSS_URL.format(geo)
+        fresh.append({
+            "q": q, "traffic": _child_text(item, "approx_traffic"), "geo": geo,
+            "trending_started_at": started.isoformat().replace("+00:00", "Z"),
+            "observed_at": observed_at.isoformat().replace("+00:00", "Z"),
+            "feed_url": official, "news": related,
+        })
+    return fresh, stale_count
+
+
+def fetch_trends_google(now=None, opener=None):
+    """Fetch both current Google RSS feeds, returning evidence and attempt status."""
+    now = now or datetime.now(timezone.utc)
+    opener = opener or urllib.request.urlopen
+    found, successes, stale = [], 0, 0
+    errors = []
+    for geo in ("US", "IN"):
+        url = GOOGLE_RSS_URL.format(geo)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        try:
+            with opener(req, timeout=30) as response:
+                data = response.read()
+            items, old_count = parse_google_rss(data, geo, now)
+            successes += 1
+            stale += old_count
+            found.extend(items)
+        except Exception as exc:
+            errors.append(f"{geo}: {exc}")
+            print(f"trends {geo} fetch/parse failed: {exc}")
+    if successes:
+        status = "ok" if found or stale == 0 else "upstream-stale"
+        if not found and stale:
+            status = "upstream-stale"
+        return {"source": "google-rss", "checked_at": now.isoformat().replace("+00:00", "Z"),
+                "status": status, "items": found[:100]}, successes, errors
+    return None, 0, errors
 
 
 def fetch_trends_tavily():
@@ -400,9 +477,9 @@ def fetch_trends():
     Google RSS first, Tavily week search as fallback. "source" records
     which leg produced the items ("google-rss" | "tavily" | "none").
     """
-    google = fetch_trends_google()
-    if google:
-        return {"generated": _now_iso(), "items": google[:12],
+    google = fetch_trends_google()[0]
+    if google and google["items"]:
+        return {"generated": _now_iso(), "items": google["items"][:12],
                 "source": "google-rss"}
     tavily = fetch_trends_tavily()
     if tavily:
@@ -431,26 +508,84 @@ def main():
         json.dump(news, f, ensure_ascii=False, indent=1)
     print(f"api-news.json: {news['count']} items")
     trends_path = os.path.join(ROOT, "api-trends.json")
-    trends_count = 0
+    status_path = os.path.join(OUT_DIR, "trends-discovery-state.json")
     try:
-        trends = fetch_trends()
-        if trends["items"]:
-            with open(trends_path, "w", encoding="utf-8") as f:
-                json.dump(trends, f, ensure_ascii=False, indent=1)
-            trends_count = len(trends["items"])
-            print(f"api-trends.json: {len(trends['items'])} items "
-                  f"(source={trends.get('source')})")
+        with open(status_path, encoding="utf-8") as f:
+            discovery_state = json.load(f)
+    except (OSError, ValueError):
+        discovery_state = {}
+    now_utc = datetime.now(timezone.utc)
+    trends_count = 0
+    google_evidence_path = os.path.join(OUT_DIR, "google-trends-evidence.json")
+    google_items = []
+    try:
+        with open(google_evidence_path, encoding="utf-8") as f:
+            google_items = json.load(f).get("items") or []
+    except (OSError, ValueError):
+        pass
+    # A transport error preserves the last-good evidence file, but old rows
+    # must not be presented as current or suppress the scheduled fallback.
+    current_google_items = []
+    for item in google_items:
+        try:
+            observed = datetime.fromisoformat(item["observed_at"].replace("Z", "+00:00"))
+            if observed.tzinfo is None:
+                observed = observed.replace(tzinfo=timezone.utc)
+            age = (now_utc - observed.astimezone(timezone.utc)).total_seconds()
+            if 0 <= age <= GOOGLE_MAX_AGE:
+                current_google_items.append(item)
+        except (KeyError, TypeError, ValueError):
+            continue
+    if google_trends_due(discovery_state, now_utc):
+        discovery_state["last_google_attempt"] = now_utc.isoformat(timespec="seconds").replace("+00:00", "Z")
+        evidence, successes, errors = fetch_trends_google(now_utc)
+        if evidence is not None:
+            # A successfully parsed empty feed is valid evidence. A fully stale
+            # result deliberately replaces current items with none.
+            with open(google_evidence_path, "w", encoding="utf-8") as f:
+                json.dump(evidence, f, ensure_ascii=False, indent=1)
+            google_items = evidence["items"]
+            current_google_items = google_items
+            discovery_state["last_google_success"] = evidence["checked_at"]
+            discovery_state["last_google_status"] = evidence["status"]
+            discovery_state.pop("last_google_error", None)
         else:
-            _old = ""
-            try:
-                with open(trends_path, encoding="utf-8") as _f:
-                    _old = json.load(_f).get("generated") or ""
-            except Exception:
-                pass
-            print(f"WARNING: api-trends.json STALE since {_old or 'unknown'} "
-                  f"(Google RSS dead + Tavily fallback empty) — kept existing file")
-    except Exception as e:
-        print(f"api-trends.json: failed ({e}), kept existing file")
+            # Leave last-good evidence (including checked_at) intact.
+            discovery_state["last_google_status"] = "error"
+            discovery_state["last_google_error"] = "; ".join(errors)[:500]
+    else:
+        print("Google Trends RSS: hourly gate closed")
+
+    # Public compatibility feed still caps Google items at 12. The dedicated
+    # evidence file retains up to 100 rows for downstream intersection.
+    if current_google_items:
+        trends = {"generated": _now_iso(), "items": current_google_items[:12], "source": "google-rss"}
+        with open(trends_path, "w", encoding="utf-8") as f:
+            json.dump(trends, f, ensure_ascii=False, indent=1)
+        trends_count = len(trends["items"])
+
+    # Tavily is a separate, paid discovery fallback: daily UTC 18:00 only,
+    # and only when Google currently supplies no items.
+    if not current_google_items and trends_discovery_due(discovery_state, now_utc):
+        discovery_state["last_tavily_attempt"] = now_utc.isoformat(timespec="seconds").replace("+00:00", "Z")
+        try:
+            tavily = fetch_trends_tavily()
+            if tavily:
+                trends = {"generated": _now_iso(), "items": tavily[:12], "source": "tavily"}
+                with open(trends_path, "w", encoding="utf-8") as f:
+                    json.dump(trends, f, ensure_ascii=False, indent=1)
+                trends_count = len(trends["items"])
+                discovery_state["last_tavily_success"] = now_utc.isoformat(timespec="seconds").replace("+00:00", "Z")
+                print(f"api-trends.json: {len(tavily)} items (source=tavily)")
+            else:
+                print("Tavily fallback empty; kept existing api-trends.json")
+        except Exception as e:
+            print(f"Tavily fallback failed ({e}), kept existing api-trends.json")
+    elif not current_google_items:
+        print("Tavily fallback: daily gate closed; kept existing api-trends.json")
+    os.makedirs(OUT_DIR, exist_ok=True)
+    with open(status_path, "w", encoding="utf-8") as f:
+        json.dump(discovery_state, f, ensure_ascii=False, indent=1)
     if step_runs is not None:
         step_runs.record(
             "convert_news", status="success",
@@ -466,7 +601,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-

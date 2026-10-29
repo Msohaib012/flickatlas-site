@@ -2041,6 +2041,17 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .rv-sw h3{margin-top:14px}
 @media(max-width:640px){.rv-row{grid-template-columns:140px 1fr 48px}.rv-sw{grid-template-columns:1fr}}
 
+/* Source checks are not publication promises; compact and accessible. */
+.refresh-cycles-wrap{margin-top:28px;margin-bottom:24px;min-width:0}
+.refresh-cycles{border:1px solid var(--line);border-radius:12px;background:var(--card,#fff);font-size:.88rem;line-height:1.55}
+.refresh-cycles>summary{padding:14px 16px;font-weight:700;cursor:pointer;color:var(--ink)}
+.refresh-cycles__content{padding:0 16px 16px;overflow-wrap:anywhere}
+.refresh-cycles__content dl{margin:14px 0}
+.refresh-cycles__content dt{font-weight:700;margin-top:16px}
+.refresh-cycles__content dd{margin:4px 0 0;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.refresh-cycles__content p{margin:5px 0}
+.refresh-cycles__note{font-size:.8rem;color:var(--muted)}
+@media(max-width:440px){.refresh-cycles>summary{padding:12px}.refresh-cycles__content{padding:0 12px 12px}}
 
 
 

@@ -59,7 +59,8 @@
   /* Local tag dropped 2026-10-28 (merge): the fixed UI.industryTag()
      now labels Indian titles correctly, so the canonical tag is used. */
   const tagFor = (x) => UI.industryTag(x);
-  const today = new Date().toISOString().slice(0, 10);
+  const today = UI.todayPKT();
+  const tvNowCutoff = (() => { const d = new Date(today + "T00:00:00Z"); d.setUTCDate(d.getUTCDate() - 30); return d.toISOString().slice(0, 10); })();
 
   /* Groups: FA_OTT first; derive the same groups from FA_PUBLISHED
      when ott-data.js has not loaded, so the page never goes blank. */
@@ -67,8 +68,8 @@
     const now = [], coming = [];
     for (const x of Object.values(window.FA_PUBLISHED || {})) {
       if (!x || !x.id || !x.poster_path || !(x.providers || []).length) continue;
-      const d = x.release_date || x.first_air_date || "";
-      if (!d) continue;
+      const d = x.release_date || "";
+      if (!d || (x.type || "movie") === "tv") continue;
       (d <= today ? now : coming).push({
         id: x.id, type: x.type || "movie", providers: x.providers,
         date: d, date_kind: "release",
@@ -82,10 +83,24 @@
   const groups = (ott && Array.isArray(ott.now) && Array.isArray(ott.coming))
     ? ott : deriveFromPublished();
   const pub = window.FA_PUBLISHED || {};
-  const entriesFor = (group) => (group || [])
+  const entriesFor = (group, groupName) => (group || [])
     .map(g => ({ g, x: pub[String(g.id)] }))
-    .filter(({ x }) => x && x.poster_path)
-    .filter(({ x }) => inFilter(x));
+    .filter(({ g, x }) => {
+      if (!x || !x.poster_path || !Array.isArray(g.providers) || !g.providers.length) return false;
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(String(g.date || ""))) return false;
+      if ((x.type || "movie") === "tv") {
+        if (UI.industryOf(x) === "pakistani") return false;
+        const air = String(x.first_air_date || "");
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(air)) return false;
+        if (groupName === "now" && (air > today || air < tvNowCutoff || g.date !== air)) return false;
+        if (groupName === "coming" && (g.date <= today || !["digital", "streaming", "ott"].includes(String(g.date_kind || "").toLowerCase()))) return false;
+      }
+      if (groupName === "now" && g.date > today) return false;
+      if (groupName === "coming" && g.date <= today) return false;
+      return true;
+    })
+    .filter(({ x }) => inFilter(x))
+    .sort((a, b) => groupName === "now" ? String(b.g.date).localeCompare(String(a.g.date)) : String(a.g.date).localeCompare(String(b.g.date)));
   const cardHtml = ({ g, x }) => UI.ottCard(x, {
     coming: (g.date || "") > today,
     providers: g.providers,
@@ -101,7 +116,7 @@
     const indNoun = f === "all" ? "any industry" : f === "bollywood" ? "Bollywood" : "World Cinema";
     return coming
       ? `No upcoming OTT releases reported for ${indNoun} ${typeNoun} yet — new titles join automatically when streaming availability is confirmed.`
-      : `No ${typeNoun} streaming on OTT for ${indNoun} yet — new titles join automatically when streaming availability is confirmed.`;
+      : `${t === "tv" ? "No confirmed recent OTT series" : `No ${typeNoun} streaming on OTT`} for ${indNoun} yet — new titles join automatically when streaming availability is confirmed.`;
   };
   const groupHtml = (title, note, list, coming) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
     <p class="ott-group-note">${note}</p>
@@ -110,12 +125,12 @@
       : `<p class="prov-note">${emptyNote(coming)}</p>`}
   </div>`;
 
-  const nowList = entriesFor(groups.now);
-  const comingList = entriesFor(groups.coming);
+  const nowList = entriesFor(groups.now, "now");
+  const comingList = entriesFor(groups.coming, "coming");
 
   function renderGroups() {
-    const now = entriesFor(groups.now);
-    const coming = entriesFor(groups.coming);
+    const now = entriesFor(groups.now, "now");
+    const coming = entriesFor(groups.coming, "coming");
     main.querySelector("#ottGroups").innerHTML =
       groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", now, false)
       + groupHtml("Coming to OTT", "Streaming date where confirmed by TMDB, otherwise the title's release date — the platform is announced.", coming, true);

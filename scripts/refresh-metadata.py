@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Weekly metadata refresh for already-published FlickAtlas titles.
+"""Daily metadata refresh for already-published FlickAtlas titles.
 
 The seeder never touches a title once it is published, so poster /
 overview / release_date / trailer / providers freeze at bake time
@@ -30,8 +30,8 @@ Scope: movies with a baked release_date within [today-90d,
 today+90d] (plus entries with no baked date at all — they need one),
 and TV that is currently airing. Newest first, capped at --max
 (default 50) titles per run so a bad TMDB day can never rewrite the
-whole catalogue. Weekly cadence (Sunday 18:00 UTC + 7-day overdue
-catch-up in the hourly pipeline).
+whole catalogue. Daily cadence (06:00 UTC + 25-hour overdue catch-up
+in the hourly pipeline).
 
 Usage:
   TMDB_API_KEY=<key> refresh-metadata.py [--dry-run]
@@ -205,7 +205,7 @@ def fetch_providers_safe(tid, media, key, ts):
 
 def main():
     ap = argparse.ArgumentParser(
-        description="Weekly TMDB metadata refresh for published titles")
+        description="Daily TMDB metadata refresh for published titles")
     ap.add_argument("--key", default=None)
     ap.add_argument("--out", default=DEFAULT_OUT)
     ap.add_argument("--max", type=int, default=DEFAULT_MAX,
@@ -235,7 +235,7 @@ def main():
           f"{len(scoped)} in scope, refreshing {len(todo)} "
           f"(max {args.max}){' [DRY RUN]' if args.dry_run else ''}")
 
-    updated, checked = [], 0
+    updated, checked, failed = [], 0, 0
     for entry in todo:
         tid = str(entry.get("id"))
         media = entry.get("type") or "movie"
@@ -243,9 +243,11 @@ def main():
             details = ts.fetch_typed(tid, media, key, pt)
         except Exception as e:
             print(f"  SKIP {tid}: TMDB request failed ({e})")
+            failed += 1
             continue
         if details is None:
             print(f"  SKIP {tid}: no such title on TMDB")
+            failed += 1
             continue
         fresh = pt.build_entry(details, media,
                                list(entry.get("categories") or []),
@@ -260,7 +262,7 @@ def main():
             merged["providers"] = prov
             changed.append("providers")
         checked += 1
-        time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s
+        time.sleep(0.3)  # Conservative pacing across separate TMDB requests
         if not changed:
             continue
         if args.dry_run:
@@ -289,17 +291,23 @@ def main():
     if step_runs is not None and not args.dry_run:
         names = [f"{t} ({i})" for t, i, _ in updated]
         reason = None
-        if not updated:
+        status = "success"
+        if todo and checked == 0 and failed:
+            reason = "source-fail"
+            status = "failed"
+        elif not updated:
             reason = "no-new-data"
         step_runs.record(
-            "metadata_refresh",
-            checked={"candidates": len(todo),
+            "metadata_refresh", status=status,
+            checked={"candidates": len(todo), "valid": checked,
+                     "failed": failed,
                      "detail": "published titles in the 90-day window, "
-                               "newest first"},
+                               "newest first; counts are valid detail "
+                               "responses and failed detail requests"},
             changed={"added": [], "updated": names,
                      "count": len(updated)},
             reason=reason)
-    return 0
+    return 1 if todo and checked == 0 and failed else 0
 
 
 if __name__ == "__main__":

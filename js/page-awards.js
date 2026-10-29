@@ -69,7 +69,8 @@
     const r = await fetch("/api/news");
     if (!r.ok) throw new Error("news");
     const j = await r.json();
-    const hits = (j.items || []).filter(x => /\b(award|awards|oscar|oscars|golden globe|filmfare|iifa|bafta|national film award|award winner|award winners|wins best|best actor|best actress|best film|best picture|nomination|nominated)\b/i.test(x.title || "")).slice(0, 8);
+    const hits = (j.items || []).filter(x => /\b(award|awards|oscar|oscars|golden globe|filmfare|iifa|bafta|national film award|award winner|award winners|wins best|best actor|best actress|best film|best picture|nomination|nominated)\b/i.test(x.title || ""))
+      .sort((a, b) => (Number(b.ts) || 0) - (Number(a.ts) || 0) || String(a.id || "").localeCompare(String(b.id || ""))).slice(0, 8);
     const host = document.getElementById("awNews");
     if (host) {
       host.innerHTML = hits.length ? `<div class="news-list">${hits.map(x => `

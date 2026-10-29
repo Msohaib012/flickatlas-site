@@ -275,7 +275,7 @@
       };
       norm.tags = deriveTags(norm);
       return norm;
-    });
+    }).sort((a, b) => (Number(b.ts) || 0) - (Number(a.ts) || 0) || String(a.id || "").localeCompare(String(b.id || "")));
     render();
   } catch (e) {
     wrap.innerHTML = UI.stateMsg("The news feed is unavailable right now. Please try again later.", false);

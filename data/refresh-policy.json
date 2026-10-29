@@ -1,0 +1,447 @@
+{
+ "scheduler": "Existing hourly workflow at :35 UTC; scheduled slots are targets, not guaranteed upstream update times.",
+ "note": "Checks do not guarantee a provider changed its data. Failures keep last-good data without advancing successful-check time. Editorial approval and publication caps are unchanged.",
+ "cycles": [
+  {
+   "id": "hero",
+   "label": "Hero Banner",
+   "cadence": "Title discovery every 12h; active/recent-title metadata daily (existing 50-title cap); selection rebuilt from published data.",
+   "sources": [
+    "title_seed",
+    "metadata_refresh"
+   ],
+   "order": "Newest release first"
+  },
+  {
+   "id": "spotlight",
+   "label": "Spotlight / Lollywood / Dramas",
+   "cadence": "Title discovery every 12h; active/recent-title metadata daily (existing 50-title cap).",
+   "sources": [
+    "title_seed",
+    "metadata_refresh"
+   ],
+   "order": "Newest release or first-air date first"
+  },
+  {
+   "id": "coming",
+   "label": "Coming Soon / Most Awaited / Release Calendar",
+   "cadence": "Title discovery every 12h; confirmed release dates checked daily.",
+   "sources": [
+    "title_seed",
+    "metadata_refresh"
+   ],
+   "order": "Nearest upcoming date first"
+  },
+  {
+   "id": "ott",
+   "label": "Now on OTT / OTT Coming Soon",
+   "cadence": "Digital dates every 12h; active-title metadata and missing-provider enrichment daily; cached local display rebuilt hourly.",
+   "sources": [
+    "ott_digital",
+    "metadata_refresh",
+    "providers_backfill"
+   ],
+   "order": "Now: newest first. Coming: nearest date first"
+  },
+  {
+   "id": "worldwide",
+   "label": "Trending Worldwide",
+   "cadence": "Global TMDB weekly top-20 checked every 6h; published movies only.",
+   "sources": [
+    "trending_worldwide"
+   ],
+   "order": "Newest release first within the eligible global set"
+  },
+  {
+   "id": "topics",
+   "label": "Trending Topics",
+   "cadence": "Google Trends RSS (US/India) checked hourly; only fresh trend proof matching published articles. Old or unavailable proof hides the section.",
+   "sources": [
+    "trending_weekly"
+   ],
+   "order": "Newest published article first, not search-volume rank"
+  },
+  {
+   "id": "boxoffice",
+   "label": "Box Office",
+   "cadence": "Sacnilk every 3h; FNN every 4h; WordPress/BollyBourse/Filmibeat every 6h; MovieMint daily. Local averaging hourly.",
+   "sources": [
+    "sacnilk_boxoffice",
+    "fnn_boxoffice",
+    "wp_boxoffice",
+    "bollybourse_boxoffice",
+    "filmibeat_boxoffice",
+    "moviemint_boxoffice"
+   ],
+   "order": "Newest movie release first"
+  },
+  {
+   "id": "news",
+   "label": "News / Trailers / Awards news",
+   "cadence": "Working RSS hourly; explicitly slow RSS every 6h; sitemap/homepage every 12h; unverified/blocked sources daily. External trend fallback daily.",
+   "sources": [],
+   "order": "Newest published article first"
+  },
+  {
+   "id": "episodes",
+   "label": "Drama Episodes",
+   "cadence": "Checks at 18:35, 20:35, 22:35 and 00:35 PKT; missed-slot recovery only in the evening window.",
+   "sources": [
+    "episode_guides"
+   ],
+   "order": "Newest episode publication first"
+  },
+  {
+   "id": "reviews",
+   "label": "Reviews / Keywords",
+   "cadence": "Reviews and article-keyword refresh daily.",
+   "sources": [
+    "gemini_reviews",
+    "keywords_refresh"
+   ],
+   "order": "Newest published item first; explicit rankings keep their own meaning"
+  }
+ ],
+ "checks": {
+  "episode_guides": {
+   "hours_utc": [
+    13,
+    15,
+    17,
+    19
+   ],
+   "hours_pkt": [
+    18,
+    20,
+    22,
+    0
+   ],
+   "interval_hours": 6,
+   "last_success": null,
+   "last_attempt": "2026-10-29T04:57:55Z",
+   "status": "skipped"
+  },
+  "title_seed": {
+   "hours_utc": [
+    6,
+    18
+   ],
+   "hours_pkt": [
+    11,
+    23
+   ],
+   "interval_hours": 12,
+   "last_success": null,
+   "last_attempt": "2026-10-28T19:02:17Z",
+   "status": "skipped"
+  },
+  "trending_worldwide": {
+   "hours_utc": [
+    0,
+    6,
+    12,
+    18
+   ],
+   "hours_pkt": [
+    5,
+    11,
+    17,
+    23
+   ],
+   "interval_hours": 6,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "sacnilk_boxoffice": {
+   "hours_utc": [
+    2,
+    5,
+    8,
+    11,
+    14,
+    17,
+    20,
+    23
+   ],
+   "hours_pkt": [
+    7,
+    10,
+    13,
+    16,
+    19,
+    22,
+    1,
+    4
+   ],
+   "interval_hours": 3,
+   "last_success": "2026-10-29T02:55:08Z",
+   "last_attempt": "2026-10-29T02:55:08Z",
+   "status": "success"
+  },
+  "fnn_boxoffice": {
+   "hours_utc": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+   ],
+   "hours_pkt": [
+    5,
+    9,
+    13,
+    17,
+    21,
+    1
+   ],
+   "interval_hours": 4,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "wp_boxoffice": {
+   "hours_utc": [
+    0,
+    6,
+    12,
+    18
+   ],
+   "hours_pkt": [
+    5,
+    11,
+    17,
+    23
+   ],
+   "interval_hours": 6,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "bollybourse_boxoffice": {
+   "hours_utc": [
+    0,
+    6,
+    12,
+    18
+   ],
+   "hours_pkt": [
+    5,
+    11,
+    17,
+    23
+   ],
+   "interval_hours": 6,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "filmibeat_boxoffice": {
+   "hours_utc": [
+    0,
+    6,
+    12,
+    18
+   ],
+   "hours_pkt": [
+    5,
+    11,
+    17,
+    23
+   ],
+   "interval_hours": 6,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "moviemint_boxoffice": {
+   "hours_utc": [
+    8
+   ],
+   "hours_pkt": [
+    13
+   ],
+   "interval_hours": 24,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "tavily_boxoffice": {
+   "hours_utc": [
+    8,
+    18
+   ],
+   "hours_pkt": [
+    13,
+    23
+   ],
+   "interval_hours": 12,
+   "last_success": "2026-10-28T19:02:17Z",
+   "last_attempt": "2026-10-28T19:02:17Z",
+   "status": "success"
+  },
+  "gemini_reviews": {
+   "hours_utc": [
+    19
+   ],
+   "hours_pkt": [
+    0
+   ],
+   "interval_hours": 24,
+   "last_success": null,
+   "last_attempt": "2026-10-28T21:03:08Z",
+   "status": "skipped"
+  },
+  "trending_weekly": {
+   "hours_utc": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "hours_pkt": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "interval_hours": 1,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "overseas_ai": {
+   "hours_utc": [
+    8
+   ],
+   "hours_pkt": [
+    13
+   ],
+   "interval_hours": 24,
+   "last_success": null,
+   "last_attempt": "2026-10-28T09:07:07Z",
+   "status": "skipped"
+  },
+  "stats_pipeline": {
+   "hours_utc": [
+    0,
+    6,
+    12,
+    18
+   ],
+   "hours_pkt": [
+    5,
+    11,
+    17,
+    23
+   ],
+   "interval_hours": 6,
+   "last_success": "2026-10-29T06:57:47Z",
+   "last_attempt": "2026-10-29T06:57:47Z",
+   "status": "success"
+  },
+  "stats_health": {
+   "hours_utc": [
+    6
+   ],
+   "hours_pkt": [
+    11
+   ],
+   "interval_hours": 24,
+   "last_success": "2026-10-29T06:57:47Z",
+   "last_attempt": "2026-10-29T06:57:47Z",
+   "status": "success"
+  },
+  "metadata_refresh": {
+   "hours_utc": [
+    6
+   ],
+   "hours_pkt": [
+    11
+   ],
+   "interval_hours": 24,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "skipped"
+  },
+  "providers_backfill": {
+   "hours_utc": [
+    2
+   ],
+   "hours_pkt": [
+    7
+   ],
+   "interval_hours": 24,
+   "last_success": null,
+   "last_attempt": "2026-10-29T02:55:08Z",
+   "status": "skipped"
+  },
+  "ott_digital": {
+   "hours_utc": [
+    0,
+    12
+   ],
+   "hours_pkt": [
+    5,
+    17
+   ],
+   "interval_hours": 12,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
+  "keywords_refresh": {
+   "hours_utc": [
+    3
+   ],
+   "hours_pkt": [
+    8
+   ],
+   "interval_hours": 24,
+   "last_success": null,
+   "last_attempt": "2026-10-29T03:57:58Z",
+   "status": "skipped"
+  }
+ }
+}

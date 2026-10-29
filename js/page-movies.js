@@ -10,10 +10,9 @@
    fields), so the genre select is populated from the pool.
    TRENDING MODE (2026-10-28, user order): `?f=trending` is a dedicated
    view — the homepage "Trending Worldwide" See All lands here. It shows
-   ONLY window.FA_TRENDING (TMDB /trending/movie/week, top 20, in rank
-   order) matched to published movies with a poster. No year gate, no
-   industry gate, no recency/popularity re-sort: the order IS the TMDB
-   trending rank. When FA_TRENDING is missing/empty the page says so
+   ONLY the first 20 window.FA_TRENDING IDs matched to published movies
+   with a poster, displayed newest release date first. Membership remains
+   the strict weekly trending/published intersection; no fallback. When FA_TRENDING is missing/empty the page says so
    honestly — it never falls back to the full catalogue. */
 (async function () {
   UI.mountChrome("/movies");
@@ -170,9 +169,10 @@
      the seeder (title-seed.py) now prioritises trending titles so the
      overlap grows a few titles per run instead of starving in the
      general 4/day backfill. */
-  const trendingPool = (Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : [])
-    .map(id => (window.FA_PUBLISHED || {})[String(id)])
-    .filter(x => x && x.id && x.type === "movie" && x.poster_path);
+  const trendingPool = [...new Set((Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : []).slice(0, 20).map(String))]
+    .map(id => (window.FA_PUBLISHED || {})[id])
+    .filter(x => x && x.id && x.type === "movie" && x.poster_path)
+    .sort(byNewest);
 
   const heroTitle = main.querySelector("#moviesTitle");
   const heroSub = main.querySelector("#moviesSub");
@@ -206,7 +206,7 @@
         !g || (Array.isArray(x.genres) && x.genres.includes(g)));
       grid.innerHTML = items.map(x =>
         `<div class="fcell" data-fitem>${UI.posterCard(x, "movie", tagFor(x))}</div>`).join("");
-      fcount.textContent = `${items.length} trending movie${items.length === 1 ? "" : "s"} · in TMDB trending order · refreshed daily`;
+      fcount.textContent = `${items.length} trending movie${items.length === 1 ? "" : "s"} · in weekly trending eligibility · newest release date first · refreshed daily`;
       emptyHost.innerHTML = items.length ? ""
         : UI.stateMsg(trendingPool.length
           ? "No trending titles match this genre right now."
@@ -217,13 +217,13 @@
        is opened from the homepage rail (?seeall=1, default filters) it
        must show the SAME set, in the SAME order, as the homepage
        Spotlight rail — released movies in the 60-day "running now"
-       window, oldest release date first, streaming-only excluded. The yearly hub
+       window, newest release date first, streaming-only excluded. The yearly hub
        pool (19 Bollywood titles) is a different set; the year gate
        does not apply here. Changing any filter drops out of See All
        mode into the normal yearly browse. */
     const seeAll = UI.getParam("seeall", "") === "1"
       && (f === "bollywood" || f === "international")
-      && sort === "oldest" && t === "movie" && !g && y === (years[0] || "");
+      && sort === "recent" && t === "movie" && !g && y === (years[0] || "");
     const items = pool.filter(x => {
       if (seeAll) {
         if (typeOf(x) !== "movie") return false;

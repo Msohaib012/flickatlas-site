@@ -82,26 +82,20 @@ BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 # Gates in PKT (from docs/WATCHDOG-SYSTEM.md §7) — used by the
 # deterministic fallback verdicts when Gemini is unavailable.
-GATES_PKT = {
-    "fetch": "har ghante",
-    "gemini_batch": "har ghante (cap 40/day)",
-    "apply_auto": "har ghante",
-    "convert_news": "har ghante",
-    "ott": "har ghante",
-    "publish": "har ghante (manzoori par)",
-    "stats_traffic": "har ghante",
-    "multisource_boxoffice": "07:00 / 13:00 / 19:00 / 01:00 PKT",
-    "episode_guides": "00:00 / 06:00 / 12:00 / 18:00 PKT",
-    "title_seed": "23:00 PKT",
-    "gemini_reviews": "00:00 PKT",
-    "trending_weekly": "23:00 PKT",
-    "overseas_ai": "13:00 PKT",
-    "tavily_boxoffice": "13:00 + 23:00 PKT",
-    "stats_pipeline": "har 6 ghante",
-    "stats_health": "11:00 PKT",
-    "metadata_refresh": "Itwaar 23:00 PKT",
-    "providers_backfill": "07:00 PKT",
-}
+# Import the same tested clocks as the orchestrator; avoid stale watchdog
+# hints claiming weekly metadata or daily-only title/global-trend checks.
+from pipeline_schedule import POLICIES as SOURCE_POLICIES
+GATES_PKT = {name: " / ".join(f"{(h + 5) % 24:02d}:35" for h in pol["hours"]) + " PKT slots"
+             for name, pol in SOURCE_POLICIES.items()}
+GATES_PKT.update({
+    "fetch": "working RSS hourly; slow RSS 6h; sitemap/homepage 12h; blocked daily",
+    "gemini_batch": "har ghante (cap 40/day unchanged)",
+    "apply_auto": "har ghante", "convert_news": "local feed + Google RSS hourly; paid fallback daily",
+    "ott": "cached local rebuild hourly; digital 12h; providers daily",
+    "publish": "har ghante (manzoori par)", "stats_traffic": "har ghante",
+    "multisource_boxoffice": "local averaging hourly; direct sources 3h/4h/6h/daily",
+    "trending_weekly": "local published-article intersection hourly; only fresh Google RSS trend proof",
+})
 
 # step -> standalone workflow that may be re-dispatched on failure.
 # Only idempotent + cap-free steps. gemini_batch is NEVER here (cap);

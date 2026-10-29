@@ -217,6 +217,48 @@ def now_iso():
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
+def source_cadence(entry):
+    """Return (tier, hours) from explicit registry verification evidence."""
+    notes = (entry.get("notes") or "").lower()
+    blocked = (entry.get("http_status") in (403, 429) or
+               entry.get("site_loads") is False or "blocked" in notes or
+               "not verified" in notes)
+    if blocked:
+        return "daily", 24
+    if entry.get("rss"):
+        if re.search(r"\b(stale|slow|outdated|inactive)\b", notes):
+            return "6h", 6
+        return "hourly", 1
+    if entry.get("sitemap") or entry.get("url"):
+        return "12h", 12
+    return "daily", 24
+
+
+def _state_time(value):
+    try:
+        dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt.astimezone(timezone.utc)
+    except (TypeError, ValueError):
+        return None
+
+
+def source_due(entry, record, now):
+    """Scheduled UTC gates plus one interval+1h catch-up, with attempt cooldown."""
+    tier, hours = source_cadence(entry)
+    hour = now.astimezone(timezone.utc).hour
+    slots = {1: set(range(24)), 6: {0, 6, 12, 18},
+             12: {0, 12}, 24: {18}}[hours]
+    last_attempt = _state_time(record.get("last_attempt"))
+    if last_attempt and (now - last_attempt).total_seconds() < hours * 3600:
+        return False, tier
+    if hour in slots:
+        return True, tier
+    success = _state_time(record.get("last_successful_check"))
+    if success and (now - success).total_seconds() >= (hours + 1) * 3600:
+        return True, tier
+    return False, tier
+
+
 def fetch(url, etag=None, last_mod=None):
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
@@ -412,10 +454,20 @@ def main():
     state = json.load(open(state_path, encoding="utf-8")) if os.path.exists(state_path) else {}
 
     queue, dropped, report = [], [], []
+    skipped_sources = set()
+    now_utc = datetime.now(timezone.utc)
     for entry in registry:
         name = entry["name"]
         st = state.get(name, {})
         rec = {"source": name, "status": "", "new": 0, "total": 0, "note": ""}
+
+        due, cadence = source_due(entry, st, now_utc)
+        if not due:
+            rec.update(status="not_due", note=f"{cadence} cadence: check not due")
+            skipped_sources.add(name)
+            report.append(rec)
+            continue
+        st["last_attempt"] = now_utc.isoformat(timespec="seconds")
 
         def consider(source, title, url, pub_raw, via, note, pkt_date, future):
             """Today + category filter. Returns True agar queue mein gaya."""
@@ -508,6 +560,8 @@ def main():
                     entry["rss"], st.get("etag"), st.get("last_modified"))
                 if status == 304:
                     rec.update(status="unchanged", note="304, feed badli nahi")
+                    st["last_successful_check"] = now_utc.isoformat(timespec="seconds")
+                    state[name] = st
                     report.append(rec)
                     continue
                 items = parse_feed(body)[: args.max_items]
@@ -556,9 +610,24 @@ def main():
             rec.update(status="error", note=f"HTTP {e.code} (bot-block ho sakta hai)")
         except Exception as e:
             rec.update(status="error", note=f"{type(e).__name__}: {str(e)[:120]}")
+        if rec["status"] in ("ok", "baseline", "unchanged"):
+            st["last_successful_check"] = now_utc.isoformat(timespec="seconds")
         rec["new"] = len([q for q in queue if q["source"] == name])
         state[name] = st
         report.append(rec)
+
+    # Preserve pending stories for sources skipped by the cadence gate.
+    if skipped_sources:
+        try:
+            with open(os.path.join(args.out, "queue.json"), encoding="utf-8") as f:
+                previous_queue = json.load(f)
+            queued_urls = {q.get("url") for q in queue}
+            for old in previous_queue:
+                if old.get("source") in skipped_sources and old.get("url") not in queued_urls:
+                    queue.append(old)
+                    queued_urls.add(old.get("url"))
+        except (OSError, ValueError, TypeError):
+            pass
 
     # --- Story clustering (v4): ek kahani = ek post ---
     # URL dedupe kaafi nahi: doosri site ki wohi khabar alag URL se aati hai.
@@ -727,5 +796,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-

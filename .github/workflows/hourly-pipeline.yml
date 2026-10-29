@@ -40,76 +40,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      # --- decide which time-gated steps run this hour ---------------
-      # Clock gate (matches the old crons) OR state gate (catch-up when
-      # a whole hourly run was dropped by GitHub's scheduler).
-      # State file MUST be seeded from the live last-run times before
-      # the first run — an unseeded state falls back to clock-only.
+      # Source clocks, success-only catch-up and bounded retries live in one
+      # tested helper. Missing state remains clock-only (no bootstrap burst).
       - name: Decide gated steps
         id: decide
-        run: |
-          python3 - <<'PYEOF'
-          import json, os
-          from datetime import datetime, timezone
-          now = datetime.now(timezone.utc)
-          hour = now.hour
-          state_path = "out/orchestrator-state.json"
-          state = {}
-          if os.path.exists(state_path):
-              with open(state_path, encoding="utf-8") as f:
-                  state = json.load(f)
-          else:
-              print("WARNING: no orchestrator state yet — clock gates only; "
-                    "seed out/orchestrator-state.json before the first run")
-
-          def overdue(step, interval_h):
-              last = (state.get("steps", {}).get(step, {}) or {}).get("last_run")
-              if not last:
-                  return False  # unseeded: do NOT bootstrap-fire
-              age_h = (now - datetime.fromisoformat(
-                  last.replace("Z", "+00:00"))).total_seconds() / 3600.0
-              return age_h > interval_h + 1  # interval + 1h grace
-
-          flags = {
-              # 2026-10-29 (owner order): dramas air 6pm-12am PKT, so episode
-              # gates are the evening/night window only (18/20/22/00 PKT =
-              # 13/15/17/19 UTC); morning/day gates removed as wasted runs.
-              "run_episode": hour in (13, 15, 17, 19) or overdue("episode_guides", 6),
-              # 2026-10-28 (freshness fix): the seeder ran once daily at
-              # 18 UTC, so a title released in the morning waited up to
-              # a full day plus the 4/day backfill queue — the site
-              # showed 3-4-day-old titles. Twice daily (06 + 18 UTC =
-              # 11:00 + 23:00 PKT); the 24h overdue guard stays as
-              # catch-up, and the 4/day backfill cap is unchanged.
-              "run_title": hour in (6, 18) or overdue("title_seed", 24),
-              "run_sacnilk": hour in (2, 8, 14, 20) or overdue("sacnilk_boxoffice", 24),
-              "run_tavily": hour in (8, 18) or overdue("tavily_boxoffice", 12),
-              "run_reviews": hour == 19 or overdue("gemini_reviews", 24),
-              "run_trending": hour == 18 or overdue("trending_weekly", 24),
-              "run_overseas": hour == 8 or overdue("overseas_ai", 24),
-              "run_stats_pipeline": hour % 6 == 0 or overdue("stats_pipeline", 6),
-              "run_stats_health": hour == 6 or overdue("stats_health", 24),
-              # Weekly metadata refresh: Sunday 18:00 UTC (same hour
-              # the seeder runs, so the OTT rebuild in this run sees
-              # fresh providers) + catch-up if a Sunday was missed.
-              "run_metadata": (now.weekday() == 6 and hour == 18)
-                              or overdue("metadata_refresh", 168),
-              # Daily OTT providers backfill: 02:00 UTC + 24h overdue
-              # catch-up. Seeded with an old last_run so the first run
-              # after this lands fires once, then it runs daily.
-              "run_providers": hour == 2 or overdue("providers_backfill", 24),
-              # Daily keyword refresh (owner order 2026-10-28): Gemini
-              # refreshes news-article keywords once a day, 03:00 UTC
-              # + 24h overdue catch-up. One batched call, max 15
-              # articles/day — it publishes nothing and does not draw
-              # from DAILY_CAP (see scripts/refresh-keywords.py).
-              "run_keywords": hour == 3 or overdue("keywords_refresh", 24),
-          }
-          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
-              for k, v in flags.items():
-                  out.write(f"{k}={'true' if v else 'false'}\n")
-          print(f"hour={hour} UTC flags={flags}")
-          PYEOF
+        run: python3 scripts/pipeline_schedule.py decide
 
       # --- 1. fetch (always): the queue gemini_batch reads ------------
       - name: Fetch news queue
@@ -151,7 +86,17 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 scripts/title-seed.py
 
-      # --- 3b. weekly metadata refresh (Sunday 18:00 UTC + catch-up) --
+      # A successful title-seed snapshot in this same slot suppresses a
+      # duplicate request. Other slots fetch only one global trending page.
+      - name: Check global trending movies (6h)
+        id: worldwide_trending
+        if: steps.decide.outputs.run_worldwide == 'true'
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/refresh_trending.py
+
+      # --- 3b. published metadata refresh (daily 06 UTC + catch-up) --
       # Re-fetch TMDB metadata for already-published titles (poster,
       # overview, release_date incl. the India theatrical date, trailer,
       # providers). TMDB fields ONLY — editorial fields (reviews,
@@ -159,7 +104,7 @@ jobs:
       # touched (see scripts/refresh-metadata.py). Runs right after
       # the seeder so the OTT rebuild in this same run sees fresh
       # providers.
-      - name: Refresh published metadata (weekly)
+      - name: Refresh published metadata (daily)
         id: metadata
         if: steps.decide.outputs.run_metadata == 'true'
         continue-on-error: true
@@ -215,30 +160,21 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 scripts/backfill_providers.py --apply
 
+      - name: Check OTT digital dates (12h)
+        id: digital
+        if: steps.decide.outputs.run_digital == 'true'
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/build_ott.py --refresh-digital
+
       - name: Rebuild OTT data
         id: ott
         continue-on-error: true
-        run: python3 scripts/build_ott.py || echo "ott-data rebuild failed, continuing"
+        run: python3 scripts/build_ott.py --cached-only
 
-      # --- 5c. Trending Topics (daily, search + AI) --------------------
-      # Rebuild js/trending-topics.js (this week's topics only):
-      # Tavily search (4 queries, time_range=week) + Gemini selection.
-      # Runs 18:00 UTC (after the title seeder) + 24h overdue
-      # catch-up. No keys -> SKIP exit 0.
-      - name: Trending Topics (weekly)
-        id: trending
-        if: steps.decide.outputs.run_trending == 'true'
-        continue-on-error: true
-        env:
-          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
-          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
-          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
-          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
-          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
-          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
-          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
-        run: python3 scripts/trending_weekly.py || echo "trending-weekly failed, continuing"
+      # Trending Topics is reconciled after the feed below: local-only
+      # intersection of fresh Google RSS proof and published articles.
 
       # --- 5d. Overseas AI gap-filler (daily) -------------------------
       # Fills MISSING per-day overseas figures only (never rewrites a
@@ -270,8 +206,8 @@ jobs:
       # Per-site readers fetch day-wise INDIA NET figures into
       # out/boxoffice-staging/<source>.json; the averaging engine
       # (scripts/multisource_boxoffice.py) means them per movie+day and
-      # is the SOLE writer of js/daywise-data.js. Sacnilk still runs on
-      # its 6h gate (02, 08, 14, 20 UTC) with --apply (keeps the
+      # is the SOLE writer of js/daywise-data.js. Sacnilk runs on
+      # its 3h gate (02, 05, 08, 11, 14, 17, 20, 23 UTC) with --apply (keeps the
       # advance-data.js write) plus --stage (its staging file); the
       # staging files are committed so they persist across runs (a fresh
       # checkout has no staging otherwise). A reader that is missing or
@@ -296,16 +232,16 @@ jobs:
         run: |
           mkdir -p out/boxoffice-staging
           if [ "$RUN_SACNILK" = "true" ]; then
-            python3 scripts/sacnilk_boxoffice.py --apply --stage out/boxoffice-staging || echo "sacnilk stage failed, continuing with existing staging"
+            python3 scripts/run_source.py sacnilk_boxoffice -- python3 scripts/sacnilk_boxoffice.py --apply --stage '{stage}'  || echo "sacnilk stage failed, continuing with existing staging"
           else
-            echo "sacnilk gated off this hour (runs 02/08/14/20 UTC)"
+            echo "sacnilk source gate off (3h slots)"
           fi
-          python3 scripts/fnn_boxoffice.py --stage out/boxoffice-staging || echo "filmynewsnetwork reader failed/missing, continuing"
-          python3 scripts/wp_boxoffice.py --stage out/boxoffice-staging --reviews-out out/bmr-reviews.json || echo "wordpress reader failed/missing, continuing"
-          python3 scripts/bollybourse_boxoffice.py --stage out/boxoffice-staging || echo "bollybourse reader failed/missing, continuing"
-          python3 scripts/moviemint_boxoffice.py --stage out/boxoffice-staging || echo "moviemint reader failed/missing, continuing"
-          python3 scripts/filmibeat_boxoffice.py --stage out/boxoffice-staging || echo "filmibeat reader failed/missing, continuing"
-          python3 scripts/varanasiboxoffice_boxoffice.py --stage out/boxoffice-staging || echo "varanasiboxoffice reader failed/missing, continuing"
+          python3 scripts/run_source.py fnn_boxoffice -- python3 scripts/fnn_boxoffice.py --stage '{stage}' --out '{out}' || echo "filmynewsnetwork reader failed/missing, continuing"
+          python3 scripts/run_source.py --reviews-out out/bmr-reviews.json wp_boxoffice -- python3 scripts/wp_boxoffice.py --stage '{stage}' --out '{out}' --reviews-out '{reviews}' || echo "wordpress reader failed/missing, continuing"
+          python3 scripts/run_source.py bollybourse_boxoffice -- python3 scripts/bollybourse_boxoffice.py --stage '{stage}' --out '{out}' || echo "bollybourse reader failed/missing, continuing"
+          python3 scripts/run_source.py moviemint_boxoffice -- python3 scripts/moviemint_boxoffice.py --stage '{stage}' --out '{out}' || echo "moviemint reader failed/missing, continuing"
+          python3 scripts/run_source.py filmibeat_boxoffice -- python3 scripts/filmibeat_boxoffice.py --stage '{stage}' --out '{out}' || echo "filmibeat reader failed/missing, continuing"
+          # Optional Varanasi reader is not configured in this checkout.
           if [ "$RUN_TAVILY" = "true" ]; then
             python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging || echo "tavily gap-filler failed/missing, continuing"
           else
@@ -386,12 +322,16 @@ jobs:
         id: feed
         continue-on-error: true
         env:
-          # api-trends.json fallback source (2026-10-28): Google killed
-          # the Trends RSS endpoint (HTTP 404) — fetch_trends() falls
-          # back to Tavily week search when these keys are present.
+          # Free current Google RSS hourly; paid Tavily fallback daily only.
+          # Paid search coverage is NEVER accepted as Trending Topics proof.
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
         run: python3 scripts/convert-news.py
+
+      - name: Reconcile published Trending Topics (local only)
+        id: trending
+        continue-on-error: true
+        run: python3 scripts/trending_weekly.py --reconcile-only
 
       # --- 9. GA4 traffic stats (always) -------------------------------
       - name: GA4 traffic stats
@@ -436,8 +376,8 @@ jobs:
         id: bump
         continue-on-error: true
         run: |
-          if git diff --quiet js/articles-data.js js/published-titles.js; then
-            echo "articles and titles unchanged, keeping ?v="
+          if git diff --quiet -- js/articles-data.js js/published-titles.js js/daywise-data.js js/advance-data.js js/worldwide-data.js js/ott-data.js js/trending-data.js js/trending-topics.js js/reviews-data.js; then
+            echo "public data assets unchanged, keeping ?v="
           else
             NEWV="fa-$(date -u +%Y%m%d%H%M)"
             echo "bumping ?v= to $NEWV"
@@ -483,98 +423,7 @@ jobs:
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
-        run: |
-          python3 - <<'PYEOF'
-          import json, os
-          from datetime import datetime, timezone
-          now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-          path = "out/orchestrator-state.json"
-          state = {"steps": {}}
-          if os.path.exists(path):
-              with open(path, encoding="utf-8") as f:
-                  state = json.load(f)
-          steps = state.setdefault("steps", {})
-          # gated steps: record last_run only when they actually ran
-          gated = {
-              "episode_guides": (os.environ.get("RUN_EPISODE") == "true",
-                                 os.environ.get("EPISODE_OUTCOME")),
-              "title_seed": (os.environ.get("RUN_TITLE") == "true",
-                             os.environ.get("TITLE_OUTCOME")),
-              "sacnilk_boxoffice": (os.environ.get("RUN_SACNILK") == "true",
-                                    os.environ.get("SACNILK_OUTCOME")),
-              "tavily_boxoffice": (os.environ.get("RUN_TAVILY") == "true",
-                                   os.environ.get("TAVILY_OUTCOME")),
-              "overseas_ai": (os.environ.get("RUN_OVERSEAS") == "true",
-                              os.environ.get("OVERSEAS_OUTCOME")),
-              "gemini_reviews": (os.environ.get("RUN_REVIEWS") == "true",
-                                 os.environ.get("REVIEWS_OUTCOME")),
-              "trending_weekly": (os.environ.get("RUN_TRENDING") == "true",
-                                 os.environ.get("TRENDING_OUTCOME")),
-              "stats_pipeline": (os.environ.get("RUN_STATS_PIPE") == "true",
-                                 os.environ.get("STATS_PIPE_OUTCOME")),
-              "stats_health": (os.environ.get("RUN_HEALTH") == "true",
-                               os.environ.get("HEALTH_OUTCOME")),
-              "metadata_refresh": (os.environ.get("RUN_METADATA") == "true",
-                                   os.environ.get("METADATA_OUTCOME")),
-              "providers_backfill": (os.environ.get("RUN_PROVIDERS") == "true",
-                                     os.environ.get("PROVIDERS_OUTCOME")),
-              "keywords_refresh": (os.environ.get("RUN_KEYWORDS") == "true",
-                                   os.environ.get("KEYWORDS_OUTCOME")),
-          }
-          # Gated steps: last_status/last_run record the LAST ACTUAL
-          # RUN only. (Before 2026-10-28 the loop overwrote last_status
-          # with "skipped" every hour a gated step did not run, so the
-          # health view could not tell "ran fine yesterday" from
-          # "never ran" — e.g. trending_weekly showed last_status
-          # "skipped" with last_run 2026-10-27 even though it ran.)
-          for name, (ran, outcome) in gated.items():
-              rec = steps.setdefault(name, {})
-              if ran:
-                  rec["last_status"] = outcome or "unknown"
-                  rec["last_run"] = now
-          # hourly steps: last status each run (health view reads this)
-          for name, outcome in [
-                  ("fetch", os.environ.get("FETCH_OUTCOME", "unknown")),
-                  ("gemini_batch", os.environ.get("GEMINI_OUTCOME")),
-                  ("apply_auto", os.environ.get("APPLY_OUTCOME")),
-                  ("publish", os.environ.get("PUBLISH_OUTCOME")),
-                  ("convert_news", os.environ.get("FEED_OUTCOME")),
-                  ("stats_traffic", os.environ.get("TRAFFIC_OUTCOME")),
-                  ("multisource_boxoffice",
-                   os.environ.get("MULTISOURCE_OUTCOME")),
-                  ("version_bump", os.environ.get("BUMP_OUTCOME"))]:
-              rec = steps.setdefault(name, {})
-              rec["last_status"] = outcome or "unknown"
-              rec["last_run"] = now
-          # Trending Topics freshness guard: the generated file is
-          # deterministic (rewritten only when the top-8 set changes),
-          # so a stuck rebuild is invisible from the file alone. Flag
-          # it here so the health view/panel can show it: stale when
-          # the newest entry is older than 3 days (7-day window minus
-          # margin), or the file is missing/unreadable.
-          try:
-              import re as _re
-              with open("js/trending-topics.js", encoding="utf-8") as _f:
-                  _src = _f.read()
-              _dates = _re.findall(r'"date"\s*:\s*"(\d{4}-\d{2}-\d{2})"', _src)
-              _newest = max(_dates) if _dates else ""
-              _age = (datetime.now(timezone.utc).date()
-                      - datetime.strptime(_newest, "%Y-%m-%d").date()).days \
-                  if _newest else 99
-              _stale = _age > 3
-          except Exception:
-              _newest, _age, _stale = "", 99, True
-          _trec = steps.setdefault("trending_weekly", {})
-          _trec["stale"] = _stale
-          _trec["newest_entry"] = _newest
-          print(f"trending_weekly freshness: newest={_newest} "
-                f"age_days={_age} stale={_stale}")
-          state["updated_at"] = now
-          os.makedirs("out", exist_ok=True)
-          with open(path, "w", encoding="utf-8") as f:
-              json.dump(state, f, ensure_ascii=False, indent=1)
-          print(f"orchestrator state written: {json.dumps(state)}")
-          PYEOF
+        run: python3 scripts/pipeline_schedule.py record
 
       # --- 13b. per-step run records (stats dashboard data) -----------
       # Every pipeline step that ran writes its own record into

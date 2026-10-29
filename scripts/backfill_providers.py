@@ -26,6 +26,11 @@ import os
 import sys
 import time
 
+try:
+    import step_runs
+except Exception:  # best-effort run telemetry
+    step_runs = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_OUT = os.path.join(ROOT, "js", "published-titles.js")
 TITLE_SEED = os.path.join(ROOT, "scripts", "title-seed.py")
@@ -101,7 +106,7 @@ def main():
             print(f"  would update {tid} ({entry.get('title') or '?'}, "
                   f"{media}): providers {prov}")
         updated += 1
-        time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s
+        time.sleep(0.3)  # Conservative pacing across separate TMDB requests
 
     if args.apply:
         changed = pt.write_js_map(args.out, "FA_PUBLISHED", published,
@@ -113,7 +118,21 @@ def main():
         print(f"backfill-providers (dry run): would update {updated}, "
               f"{skipped} skipped, {unchanged} already have providers "
               f"| file NOT written")
-    return 0
+    if step_runs is not None and args.apply:
+        failed_all = processed > 0 and updated == 0 and skipped == processed
+        reason = "source-fail" if failed_all else (
+            "no-new-data" if processed == 0 or updated == 0 else None)
+        detail = ("missing-provider titles fetched; processed counts only "
+                  "upstream requests; zero processed means unchanged check, "
+                  "not a new upstream fetch")
+        step_runs.record(
+            "providers_backfill", status="failed" if failed_all else "success",
+            checked={"candidates": processed, "processed": processed,
+                     "succeeded": updated, "failed": skipped,
+                     "already_have_providers": unchanged, "detail": detail},
+            changed={"added": [], "updated": [], "count": updated},
+            reason=reason)
+    return 1 if processed > 0 and updated == 0 and skipped == processed else 0
 
 
 if __name__ == "__main__":

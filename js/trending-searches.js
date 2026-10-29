@@ -1,210 +1,66 @@
-/* FlickAtlas — Trending Topics, WEEKLY ONLY (rebuilt 2026-10-27).
-   Rule (user order): only what is trending THIS WEEK appears here.
-   An item may enter the list only if its date is within the last 7
-   days; anything older is dropped even if the list gets short.
-   The old module had no date window at all — it took the 8 newest
-   box-office articles, so a slow news week (or a stalled pipeline)
-   left month-old items on the page.
-
-   Sources, in order:
-   (1) window.FA_TRENDING_TOPICS (js/trending-topics.js, generated
-       daily by scripts/trending_weekly.py from Tavily search +
-       Gemini): curated topics of the week, each already dated within
-       the last 7 days and linked to a site page. The client still
-       re-checks the window — a stale generated file can never leak
-       old items onto the page.
-   (2) window.FA_ARTICLES, filtered to box-office articles dated
-       within the last 7 days, newest first.
-   (3) /api/news, same filter.
-   If nothing is within the window, the section hides itself rather
-   than showing a stale list.
-   Public API is unchanged (window.FATrendingSearches.mount) so
-   page-index.js needs no change. */
+/* FlickAtlas — current Google RSS trends intersected with published articles. */
 (function (root) {
   'use strict';
-  var TOP_N = 8;
-  var NEWS_TIMEOUT_MS = 8000;
-  var WINDOW_MS = 7 * 24 * 60 * 60 * 1000;
-
-  function safe(value) {
-    return String(value == null ? '' : value).replace(/[&<>"']/g, function (ch) {
-      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch];
+  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 3 * 3600000, TREND_MAX_AGE_MS = 24 * 3600000;
+  var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN'};
+  var GENERIC = {movie:1,movies:1,film:1,films:1,news:1,today:1,'box':1,'office':1,collection:1,collections:1,latest:1,trending:1,trend:1,viral:1,breaking:1,entertainment:1,cinema:1,update:1,updates:1};
+  var STOP = {a:1,an:1,the:1,and:1,or:1,of:1,to:1,in:1,on:1,for:1,with:1,at:1,by:1,from:1,is:1,are:1,was:1,were:1,be:1,been:1,this:1,that:1,these:1,those:1,his:1,her:1,its:1,their:1,has:1,have:1,had:1};
+  function safe(value) { return String(value == null ? '' : value).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function items(data) { return Array.isArray(data) ? data : data && typeof data === 'object' ? Object.keys(data).map(function(k){return data[k];}) : []; }
+  function title(a) { return String(a && (a.headline || a.title) || '').trim(); }
+  function date(a) { var t = Date.parse(a && (a.published || a.date)); return isFinite(t) ? t : 0; }
+  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){if((w.length>2||/^\d+$/.test(w))&&!STOP[w])out[w]=1;}); return out; }
+  function countShared(a,b,excludeGeneric) { var n=0; Object.keys(a).forEach(function(w){if(b[w]&&(!excludeGeneric||!GENERIC[w]))n++;}); return n; }
+  function within(t, now) { return !!t && t >= now - WINDOW_MS && t <= now; }
+  function canonical(id) { return '/news-item?id=' + encodeURIComponent(String(id)); }
+  function external(url) {
+    try { var u = new URL(String(url)); if (!/^https?:$/.test(u.protocol)) return false; var h=u.hostname.toLowerCase().replace(/\.$/,'');
+      return !(h==='flickatlas.co.uk'||h.endsWith('.flickatlas.co.uk')||h==='flickatlas.com'||h.endsWith('.flickatlas.com')||(h.indexOf('flickatlas')===0&&h.endsWith('.hidden-decodes.workers.dev')));
+    } catch (_) { return false; }
+  }
+  function termIn(term, text) { if(!term)return false; var escaped=term.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/\s+/g,'\\s+'); return new RegExp('(^|[^a-z0-9])'+escaped+'(?=$|[^a-z0-9])','i').test(String(text||'')); }
+  function validRelated(list) { return (Array.isArray(list)?list:[]).filter(function(r){return r&&String(r.title||'').trim()&&external(r.url);}); }
+  function validProof(p, headline, now) {
+    if(!p||p.source!=='google-rss'||!FEEDS[p.geo]||p.source_url!==FEEDS[p.geo])return false;
+    var obs=Date.parse(p.observed_at), start=Date.parse(p.started_at);
+    if(!isFinite(obs)||obs>now||now-obs>FEED_MAX_AGE_MS||!isFinite(start)||start>now||now-start>TREND_MAX_AGE_MS)return false;
+    var term=String(p.term||'').trim(), tw=words(term), hw=words(headline), rel=validRelated(p.related);
+    if(!Object.keys(tw).length||Object.keys(tw).some(function(w){return GENERIC[w];})||!termIn(term,headline)||!rel.length)return false;
+    var rw=Object.create(null); rel.forEach(function(r){var w=words(r.title);Object.keys(w).forEach(function(k){rw[k]=1;});});
+    if(Object.keys(tw).length===1){var context=rel.map(function(r){return r.title;}).join(' ');if(!termIn(term,context)||countShared(hw,rw,true)<2||!/(\bmovie\b|\bfilm\b|\bbox office\b|\bcinema\b|\bactor\b|\bactress\b|\brelease\b|\btrailer\b|\bcollection\b)/i.test(context))return false;}
+    if(countShared(hw,rw,true)<1)return false;
+    return true;
+  }
+  function validTopics(payload, articles, now) {
+    if (!payload || payload.source!=='google-rss' || payload.status!=='ok' || !Array.isArray(payload.topics)) return [];
+    var checked=Date.parse(payload.checked_at);
+    if(!isFinite(checked)||checked>now||now-checked>FEED_MAX_AGE_MS)return [];
+    var byId=Object.create(null);
+    items(articles).forEach(function(a){if(a&&a.id!=null)byId[String(a.id)]=a;});
+    var seen=Object.create(null), output=[];
+    payload.topics.forEach(function(t){
+      if(!t||!t.article_id||seen[String(t.article_id)])return;
+      var id=String(t.article_id), article=byId[id], dt=article&&date(article);
+      if(!article||!title(article)||!within(dt,now)||String(t.title||'').trim()!==title(article)||t.url!==canonical(id))return;
+      if(!validProof(t.trend_proof,title(article),now))return;
+      seen[id]=true; output.push({title:title(article),url:canonical(id),time:dt});
     });
+    output.sort(function(a,b){return b.time-a.time||(a.url<b.url?-1:a.url>b.url?1:0);});
+    return output.slice(0,TOP_N);
   }
-
-  function articleTitle(a) {
-    return String((a && (a.headline || a.title)) || '').trim();
-  }
-
-  /* A box-office topic: the headline (or type) mentions box office.
-     FA_ARTICLES type is always "news", so the headline is the real
-     signal; the type check covers feeds that tag it. */
-  function isBoxOffice(a) {
-    if (!a) return false;
-    var h = articleTitle(a).toLowerCase();
-    var t = String(a.type || '').toLowerCase();
-    return h.indexOf('box office') !== -1 || t.indexOf('box office') !== -1 || t.indexOf('boxoffice') !== -1;
-  }
-
-  /* Numeric ms timestamp for sorting/dating. FA_ARTICLES carries
-     `published` as an RFC date string (several timezone spellings);
-     /api/news carries `ts` as ms; the generated topics file carries
-     `date` as an ISO date string. Unparseable -> 0 (dropped by the
-     window filter, never shown). */
-  function articleTime(a) {
-    if (!a) return 0;
-    if (typeof a.ts === 'number' && isFinite(a.ts) && a.ts > 0) return a.ts;
-    if (a.date) {
-      var d = Date.parse(String(a.date));
-      if (isFinite(d)) return d;
-    }
-    if (a.published) {
-      var t = Date.parse(String(a.published));
-      if (isFinite(t)) return t;
-    }
-    return 0;
-  }
-
-  /* Strict 7-day window: only items dated within the last 7 days.
-     Future-dated items (clock skew / bad data) are dropped too. */
-  function withinWindow(t, now) {
-    if (!t || !isFinite(t)) return false;
-    return t >= now - WINDOW_MS && t <= now;
-  }
-
-  function relDateMs(t) {
-    var UI = root.UI || {};
-    if (!t) return '';
-    if (typeof UI.relTime === 'function') return UI.relTime(t);
-    if (typeof UI.fmtDate === 'function') {
-      try { return UI.fmtDate(new Date(t).toISOString().slice(0, 10)); } catch (_) { return ''; }
-    }
-    return '';
-  }
-
-  function topicPath(a) {
-    var UI = root.UI || {};
-    if (a && a.url) return String(a.url);
-    if (UI && typeof UI.newsItemPath === 'function') return UI.newsItemPath(a);
-    if (a && a.id) return '/news-item?id=' + encodeURIComponent(String(a.id));
-    return '#';
-  }
-
-  /* Primary source: the generated weekly file. Entries are already
-     curated + dated within the week; the window is re-checked here
-     so a stale file can never leak old items. */
-  function topicsFromFile(now) {
-    var src = root.FA_TRENDING_TOPICS;
-    if (!Array.isArray(src)) return [];
-    var list = src.filter(function (t) {
-      return t && articleTitle(t) && t.url && withinWindow(articleTime(t), now);
-    }).map(function (t) {
-      return { title: articleTitle(t), url: String(t.url), time: articleTime(t) };
-    });
-    list.sort(function (a, b) { return b.time - a.time; });
-    return list.slice(0, TOP_N);
-  }
-
-  /* Fallback source: FA_ARTICLES, box-office only, within the week,
-     newest first. */
-  function topicsFromArticles(now) {
-    var src = root.FA_ARTICLES;
-    if (!src) return [];
-    var arr = Array.isArray(src)
-      ? src.slice()
-      : Object.keys(src).map(function (k) { return src[k]; });
-    var list = arr.filter(function (a) {
-      return a && articleTitle(a) && isBoxOffice(a) &&
-        withinWindow(articleTime(a), now);
-    });
-    list.sort(function (a, b) { return articleTime(b) - articleTime(a); });
-    return list.slice(0, TOP_N).map(function (a) {
-      return { title: articleTitle(a), url: topicPath(a), time: articleTime(a) };
-    });
-  }
-
-  /* Fallback source: /api/news, same filter and order. */
-  async function topicsFromNews(now) {
-    var ctl = null;
-    var timer = null;
-    try {
-      if (typeof AbortController === 'function') {
-        ctl = new AbortController();
-        timer = setTimeout(function () { ctl.abort(); }, NEWS_TIMEOUT_MS);
-      }
-      var r = await root.fetch('/api/news', ctl ? { signal: ctl.signal } : undefined);
-      if (!r.ok) throw new Error('news http ' + r.status);
-      var j = await r.json();
-      var items = (j && Array.isArray(j.items)) ? j.items : [];
-      var list = items.filter(function (a) {
-        return a && articleTitle(a) && isBoxOffice(a) &&
-          withinWindow(articleTime(a), now);
-      });
-      list.sort(function (a, b) { return articleTime(b) - articleTime(a); });
-      return list.slice(0, TOP_N).map(function (a) {
-        return { title: articleTitle(a), url: topicPath(a), time: articleTime(a) };
-      });
-    } finally {
-      if (timer) clearTimeout(timer);
-    }
-  }
-
-  /* Sacnilk-style ranked list. Reuses the existing trend styles
-     (.trend-groups / .trend-mixed-list / .trend-mixed-item /
-     .trend-search-row / .editorial-search-card__term /
-     .trend-search-meta). The rank number is forced visible with an
-     inline display override: style.css hides .trend-search-rank
-     inside .trend-mixed (the old design showed a decorative icon
-     instead), and this module drops that icon — the rank is the
-     honest marker now. */
+  function relDate(t) { var ui=root.UI||{}; if(typeof ui.relTime==='function')return ui.relTime(t); if(typeof ui.fmtDate==='function'){try{return ui.fmtDate(new Date(t).toISOString().slice(0,10));}catch(_){}} return ''; }
   function render(topics) {
-    var html = '<section class="trend-groups trend-mixed" aria-labelledby="trending-topics-title">'
-      + '<header class="trend-groups__header"><div>'
-      + '<h2 id="trending-topics-title">Trending Topics</h2>'
-      + '<p>What is trending this week, newest first</p>'
-      + '</div></header>'
-      + '<ol class="trend-mixed-list">';
-    topics.forEach(function (a, i) {
-      var date = relDateMs(a.time);
-      html += '<li class="trend-mixed-item">'
-        + '<a class="editorial-search-card trend-search-row" href="' + safe(a.url) + '">'
-        + '<span class="trend-search-rank" style="display:block" aria-hidden="true">' + (i + 1) + '</span>'
-        + '<span class="editorial-search-card__body">'
-        + '<span class="editorial-search-card__term">' + safe(a.title) + '</span>'
-        + (date ? '<span class="trend-search-meta"><span>' + safe(date) + '</span></span>' : '')
-        + '</span></a></li>';
-    });
-    html += '</ol></section>';
-    return html;
+    if(!topics.length)return '';
+    var html='<section class="trend-groups trend-mixed" aria-labelledby="trending-topics-title"><header class="trend-groups__header"><div><h2 id="trending-topics-title">Trending Topics</h2><p>Current Google search trends · published articles only · newest first · checked hourly</p></div></header><ol class="trend-mixed-list">';
+    topics.forEach(function(a,i){var d=relDate(a.time);html+='<li class="trend-mixed-item"><a class="editorial-search-card trend-search-row" href="'+safe(a.url)+'"><span class="trend-search-rank" style="display:block" aria-hidden="true">'+(i+1)+'</span><span class="editorial-search-card__body"><span class="editorial-search-card__term">'+safe(a.title)+'</span>'+(d?'<span class="trend-search-meta"><span>'+safe(d)+'</span></span>':'')+'</span></a></li>';});
+    return html+'</ol></section>';
   }
-
-  function mount(host, options) {
-    if (!host) throw new Error('TrendingTopics.mount requires a host element');
-    var generation = 0;
-    async function load() {
-      var current = ++generation;
-      var now = Date.now();
-      var topics = topicsFromFile(now);
-      if (!topics.length) topics = topicsFromArticles(now);
-      if (!topics.length) {
-        try { topics = await topicsFromNews(now); } catch (_) { topics = []; }
-      }
-      if (current !== generation || host.isConnected === false) return;
-      if (!topics.length) {
-        /* Nothing trending this week: hide the section entirely
-           instead of showing a stale list. */
-        if (typeof host.remove === 'function') host.remove();
-        else { host.innerHTML = ''; host.style.display = 'none'; }
-        return;
-      }
-      host.innerHTML = render(topics);
-    }
-    load();
-    return { refresh: load };
+  function mount(host) {
+    if(!host)throw new Error('TrendingTopics.mount requires a host element');
+    function load(){var topics=validTopics(root.FA_TRENDING_TOPICS,root.FA_ARTICLES,Date.now());if(host.isConnected===false)return;host.innerHTML=render(topics);if(!topics.length){if(typeof host.remove==='function')host.remove();else host.style.display='none';}}
+    load();return {refresh:load};
   }
-
-  root.FATrendingSearches = {
-    mount: mount,
-    helpers: { isBoxOffice: isBoxOffice, topicsFromArticles: topicsFromArticles, topicsFromFile: topicsFromFile, withinWindow: withinWindow, render: render }
-  };
-})(typeof window !== 'undefined' ? window : globalThis);
+  root.FATrendingSearches={mount:mount,helpers:{validTopics:validTopics,validProof:validProof,render:render,withinWindow:within,canonical:canonical}};
+})(typeof window!=='undefined'?window:globalThis);
+  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){if((w.length>2||/^\d+$/.test(w))&&!STOP[w])out[w]=1;}); return out; }
+  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){if((w.length>2||/^\d+$/.test(w))&&!STOP[w])out[w]=1;}); return out; }

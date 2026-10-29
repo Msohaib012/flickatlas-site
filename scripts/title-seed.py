@@ -368,41 +368,62 @@ TRENDING_HEADER = (
     "do not edit by hand. Ordered by TMDB trending rank. */")
 
 
+def _source_recorder():
+    try:
+        import pipeline_schedule
+        return pipeline_schedule
+    except Exception:
+        return None
+
+
 def refresh_trending(key, out_dir, dry_run=False):
-    """Fetch /trending/movie/week and write the top 20 movie IDs to
-    js/trending-data.js as window.FA_TRENDING. Best effort — a failure
-    never breaks the title seed. (User order 2026-10-26: the homepage
-    'Trending Worldwide' section must be AUTHENTIC trending titles,
-    not the newest-released fallback pool.)"""
+    """Refresh the authentic global top-20 movie trending snapshot."""
+    if dry_run:
+        # Dry runs may inspect the source but must never touch source state.
+        try:
+            tmdb_get("/trending/movie/week", key)
+        except Exception as e:
+            print(f"title-seed: trending refresh failed ({e})")
+        return False
+    recorder = _source_recorder()
     try:
         data = tmdb_get("/trending/movie/week", key)
-        items = (data or {}).get("results") or []
-        ids = [int(it["id"]) for it in items
-               if it.get("id") and it.get("poster_path")][:20]
+        results = (data or {}).get("results")
+        if not isinstance(results, list) or not results:
+            raise ValueError("invalid or empty results")
+        top = results[:20]
+        if any(not isinstance(it, dict) or not it.get("id") for it in top):
+            raise ValueError("invalid top-20 result")
+        # TMDB ordering is authoritative: take first 20, then poster filter.
+        ids = [int(it["id"]) for it in top if it.get("poster_path")]
+        if not ids:
+            raise ValueError("top 20 contains no poster-bearing titles")
     except Exception as e:
         print(f"title-seed: trending refresh failed ({e})")
-        return False
-    if not ids:
-        print("title-seed: trending refresh: no IDs, skipping write")
+        if recorder:
+            try: recorder.record_source("trending_worldwide", False, str(e))
+            except Exception: pass
         return False
     path = os.path.join(out_dir, "trending-data.js")
     content = (TRENDING_HEADER + "\nwindow.FA_TRENDING = " +
                json.dumps(ids) + ";\n")
-    if dry_run:
-        print(f"title-seed (dry run): would write {path} "
-              f"({len(ids)} trending IDs)")
+    try:
+        existing = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
+        if existing != content:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(content)
+            print(f"title-seed: trending-data.js written ({len(ids)} IDs)")
+        else:
+            print(f"title-seed: trending-data.js unchanged ({len(ids)} IDs)")
+        if recorder:
+            recorder.record_source("trending_worldwide", True,
+                                   f"valid top {len(ids)} snapshot")
+        return True
+    except Exception as e:
+        if recorder:
+            try: recorder.record_source("trending_worldwide", False, str(e))
+            except Exception: pass
         return False
-    existing = ""
-    if os.path.exists(path):
-        with open(path, encoding="utf-8") as f:
-            existing = f.read()
-    if existing == content:
-        print(f"title-seed: trending-data.js unchanged ({len(ids)} IDs)")
-        return False
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"title-seed: trending-data.js written ({len(ids)} IDs)")
-    return True
 
 
 def fetch_typed(tid, media_type, key, pt):

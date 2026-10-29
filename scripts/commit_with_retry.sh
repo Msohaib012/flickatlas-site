@@ -45,7 +45,7 @@ stage_all() {
            js/seo-meta.json sitemap.xml robots.txt \
            api-news.json api-trends.json \
            js/stats-pipeline.json js/stats-traffic.json js/stats-health.json \
-           out/orchestrator-state.json out/step-runs.json \
+           out/orchestrator-state.json out/step-runs.json data/refresh-policy.json \
            out/multisource-boxoffice.json; do
     [ -f "$f" ] && git add "$f"
   done
@@ -61,7 +61,8 @@ stage_all() {
            out/episodes.json out/episode-feed.json out/publish-export.json \
            out/queue.json out/seen.json out/state.json out/report.json \
            out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json \
-           out/daily-history.json out/keyword-refresh.json; do
+           out/daily-history.json out/keyword-refresh.json out/source-refresh-state.json \
+           out/trends-discovery-state.json out/google-trends-evidence.json; do
     [ -f "$f" ] && git add "$f"
   done
   [ -e out/categories ] && git add out/categories || true
@@ -189,7 +190,7 @@ resolve_and_continue() {
     fi
     if [ -n "$regen_ott" ]; then
       echo "commit-retry: regenerating ott-data.js via build_ott.py"
-      if ! python3 scripts/build_ott.py; then
+      if ! python3 scripts/build_ott.py --cached-only; then
         echo "commit-retry: WARNING build_ott.py failed — ott-data.js stays at origin/main's version"
         git checkout --ours -- js/ott-data.js 2>/dev/null || true
       fi
@@ -205,7 +206,7 @@ resolve_and_continue() {
     fi
     if [ -n "$regen_trending" ]; then
       echo "commit-retry: regenerating trending-topics.js via trending_weekly.py"
-      if ! python3 scripts/trending_weekly.py; then
+      if ! python3 scripts/trending_weekly.py --reconcile-only; then
         echo "commit-retry: WARNING trending_weekly.py failed — trending-topics.js stays at origin/main's version"
         git checkout --ours -- js/trending-topics.js 2>/dev/null || true
       fi
