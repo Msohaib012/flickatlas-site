@@ -41,6 +41,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 307478,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "country": "IN",
       "date": "2026-10-31",
       "date_kind": "digital",

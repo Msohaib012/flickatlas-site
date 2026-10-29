@@ -5886,5 +5886,70 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 25,
     "providers": []
+  },
+  "307478": {
+    "id": 307478,
+    "type": "tv",
+    "title": "The Perfect Lie",
+    "poster_path": "/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+    "backdrop_path": "/hglYTJIswg5p3YA3V85B2dhvnNj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+    "industry": "world",
+    "popularity": 7.3504,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-28",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "tagline": "The one who's been lying is you.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "15",
+    "first_air_date": "2026-10-30",
+    "networks": [
+      "MBC"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "MBC",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-10-30",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Baek Jae-young"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   }
 };
