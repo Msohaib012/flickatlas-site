@@ -58,8 +58,29 @@ assert.match(yesterdayOnly, /<dt>Today · 29 Oct<\/dt>/);
 assert.doesNotMatch(yesterdayOnly, /<dt>Today · 28 Oct<\/dt>/);
 assert.match(yesterdayOnly, /<dt>Today · 29 Oct<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
 assert.match(yesterdayOnly, /<dt>Recorded<\/dt><dd>\$2<\/dd>/);
+const listingSource = fs.readFileSync(path.join(__dirname, '..', 'js/page-boxoffice.js'), 'utf8');
+const listingStart = listingSource.indexOf('  const boCardHtml = (entry, rows) => {');
+const listingEnd = listingSource.indexOf('\n  };', listingStart);
+assert(listingStart >= 0 && listingEnd > listingStart, 'Box Office listing card anchor changed');
+const listingCardCode = listingSource.slice(listingStart, listingEnd + '\n  };'.length) + '\nboCardHtml;';
+for (const [scope, label] of [
+  ['domestic-only-so-far', 'Domestic reported to date'],
+  ['domestic-opening-weekend', 'Domestic opening weekend'],
+  ['worldwide', 'Worldwide total'],
+  ['unknown-scope', 'Reported figure'],
+]) {
+  const world = { '1': { total_usd: 12345, scope, source: 'Fixture', as_of: today } };
+  const homeHtml = vm.runInNewContext(cardCode, { UI, todayIST: today, window: { FA_WORLDWIDE: world } })(entry, []);
+  const listingHtml = vm.runInNewContext(listingCardCode, { UI, todayIST: today, window: { FA_WORLDWIDE: world } })(entry, []);
+  assert.match(homeHtml, new RegExp(`<dt>${label}<\\/dt>`), `homepage label for ${scope}`);
+  assert.match(listingHtml, new RegExp(`<dt>${label}<\\/dt>`), `listing label for ${scope}`);
+  if (scope !== 'worldwide') {
+    assert.doesNotMatch(homeHtml, /<dt>Worldwide total<\/dt>/, `homepage must not imply worldwide scope for ${scope}`);
+    assert.doesNotMatch(listingHtml, /<dt>Worldwide total<\/dt>/, `listing must not imply worldwide scope for ${scope}`);
+  }
+}
 const zeroToday = card(entry, [{ date: today, collection: 0 }]);
 assert.match(zeroToday, /<dt>Today · 29 Oct<\/dt><dd>\$0<\/dd>/, 'reported zero is not missing data');
 const noRows = card(entry, []);
 assert.match(noRows, /<dt>Today · 29 Oct<\/dt>/, 'empty cards still label the requested reporting day');
-console.log('Homepage OTT fallback and Box Office reporting-day display fixtures passed.');
+console.log('Homepage OTT fallback and homepage/listing Box Office scope fixtures passed.');
