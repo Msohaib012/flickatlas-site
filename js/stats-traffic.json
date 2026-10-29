@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-28T23:34:19Z",
+  "generated": "2026-10-29T01:01:38Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 1,
-    "pageviews": 1,
-    "sessions": 1,
-    "avg_session_seconds": 39.6
+    "users": 2,
+    "pageviews": 13,
+    "sessions": 3,
+    "avg_session_seconds": 204.6
   },
   "last7": {
-    "users": 29,
-    "pageviews": 565,
-    "sessions": 73,
-    "avg_session_seconds": 822.4
+    "users": 30,
+    "pageviews": 577,
+    "sessions": 75,
+    "avg_session_seconds": 808.1
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 187,
-      "avg_time_seconds": 779.7
+      "views": 194,
+      "avg_time_seconds": 754.9
     },
     {
       "path": "/movie",
@@ -54,16 +54,16 @@
       "avg_time_seconds": 19.9
     },
     {
+      "path": "/episode-guides",
+      "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 11.1
+    },
+    {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
       "views": 14,
       "avg_time_seconds": 20.4
-    },
-    {
-      "path": "/episode-guides",
-      "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 12.9
     },
     {
       "path": "/flickatlas-site/",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 72,
-      "users": 29
+      "sessions": 74,
+      "users": 30
     },
     {
       "source": "(not set)",
@@ -95,7 +95,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 15
+      "users": 16
     },
     {
       "country": "(not set)",
@@ -137,7 +137,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 21
+      "users": 22
     },
     {
       "device": "mobile",

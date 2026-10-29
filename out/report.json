@@ -2,30 +2,33 @@
  "today_pkt": "2026-10-29",
  "sources": 137,
  "status": {
-  "ok": 87,
-  "error": 19,
-  "unchanged": 29,
+  "ok": 90,
+  "error": 22,
+  "unchanged": 23,
   "baseline": 2
  },
- "queue_total": 45,
- "stories_total": 46,
- "duplicates_removed": 0,
+ "queue_total": 87,
+ "stories_total": 87,
+ "duplicates_removed": 11,
  "categories": {
-  "Box Office": 1,
+  "Box Office": 0,
   "Awards": 1,
-  "Trailers": 1,
-  "Music / OST": 1,
-  "Episodes": 0,
+  "Trailers": 0,
+  "Music / OST": 3,
+  "Episodes": 4,
   "Upcoming releases": 0,
-  "OTT / Streaming": 3,
-  "TV & Dramas": 2,
-  "Celebrity news & events": 4,
-  "Movies": 32,
+  "OTT / Streaming": 7,
+  "TV & Dramas": 1,
+  "Celebrity news & events": 2,
+  "Movies": 69,
   "Entertainment viral": 0
  },
  "dropped": {
   "section-page": 46,
-  "not-today": 15,
+  "slug-junk": 1,
+  "no-date": 3,
+  "sports-section": 1,
+  "not-today": 6,
   "fallback-blocked-non-entertainment": 2
  },
  "per_source": [
@@ -87,10 +90,10 @@
   },
   {
    "source": "ShowPulp",
-   "status": "unchanged",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "UpcomingZone",
@@ -109,7 +112,7 @@
   {
    "source": "Times of India — Entertainment",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 20,
    "note": ""
   },
@@ -123,7 +126,7 @@
   {
    "source": "Hindustan Times — Entertainment",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 30,
    "note": ""
   },
@@ -137,7 +140,7 @@
   {
    "source": "India Today — Movies",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   },
@@ -207,7 +210,7 @@
   {
    "source": "Aaj Tak — Entertainment",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 255,
    "note": ""
   },
@@ -243,7 +246,7 @@
    "source": "Box Office Mojo",
    "status": "ok",
    "new": 0,
-   "total": 99,
+   "total": 101,
    "note": ""
   },
   {
@@ -256,16 +259,16 @@
   {
    "source": "Collider",
    "status": "ok",
-   "new": 7,
+   "new": 10,
    "total": 10,
    "note": ""
   },
   {
    "source": "ComingSoon.net",
-   "status": "ok",
-   "new": 1,
-   "total": 20,
-   "note": ""
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "FirstShowing.net",
@@ -284,14 +287,14 @@
   {
    "source": "MovieWeb",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 10,
    "note": ""
   },
   {
    "source": "Screen Rant",
    "status": "ok",
-   "new": 6,
+   "new": 7,
    "total": 10,
    "note": ""
   },
@@ -305,14 +308,14 @@
   {
    "source": "Variety",
    "status": "ok",
-   "new": 3,
+   "new": 4,
    "total": 10,
    "note": ""
   },
   {
    "source": "Deadline",
    "status": "ok",
-   "new": 1,
+   "new": 3,
    "total": 12,
    "note": ""
   },
@@ -347,7 +350,7 @@
   {
    "source": "Screen Daily",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 5,
    "note": ""
   },
@@ -361,23 +364,23 @@
   {
    "source": "Vulture",
    "status": "ok",
-   "new": 0,
-   "total": 32025,
+   "new": 1,
+   "total": 32026,
    "note": ""
   },
   {
    "source": "The Playlist",
-   "status": "ok",
-   "new": 1,
-   "total": 25,
-   "note": ""
-  },
-  {
-   "source": "JoBlo",
    "status": "unchanged",
    "new": 0,
    "total": 0,
    "note": "304, feed badli nahi"
+  },
+  {
+   "source": "JoBlo",
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "SlashFilm",
@@ -396,7 +399,7 @@
   {
    "source": "Total Film (GamesRadar)",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -424,7 +427,7 @@
   {
    "source": "Gold Derby",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 12,
    "note": ""
   },
@@ -445,8 +448,8 @@
   {
    "source": "JustWatch",
    "status": "ok",
-   "new": 1,
-   "total": 329,
+   "new": 19,
+   "total": 330,
    "note": ""
   },
   {
@@ -473,7 +476,7 @@
   {
    "source": "SpoilerTV",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 25,
    "note": ""
   },
@@ -487,16 +490,16 @@
   {
    "source": "Vanity Fair",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 72,
    "note": ""
   },
   {
    "source": "ARY Digital HD (YouTube)",
-   "status": "error",
-   "new": 0,
-   "total": 0,
-   "note": "HTTP 404 (bot-block ho sakta hai)"
+   "status": "ok",
+   "new": 1,
+   "total": 15,
+   "note": ""
   },
   {
    "source": "BrieflyShort",
@@ -507,10 +510,10 @@
   },
   {
    "source": "Daily Showbiz",
-   "status": "unchanged",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "Dawn — Images/ICON",
@@ -577,10 +580,10 @@
   },
   {
    "source": "Showbiz Secret",
-   "status": "unchanged",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "HUM TV (official site)",
@@ -640,10 +643,10 @@
   },
   {
    "source": "Dramabeans",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 7,
+   "note": ""
   },
   {
    "source": "DramaWiki (D-Addicts)",
@@ -675,22 +678,22 @@
   },
   {
    "source": "Soompi",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "VVIP Times",
-   "status": "unchanged",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "allkpop",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -704,7 +707,7 @@
   {
    "source": "Yonhap News Agency — Entertainment",
    "status": "ok",
-   "new": 0,
+   "new": 2,
    "total": 70,
    "note": ""
   },
@@ -717,10 +720,10 @@
   },
   {
    "source": "British Period Dramas",
-   "status": "error",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "URLError: <urlopen error timed out>"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Digital Spy",
@@ -731,10 +734,10 @@
   },
   {
    "source": "Flickering Myth",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 30,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Geektown",
@@ -745,10 +748,10 @@
   },
   {
    "source": "I Talk Telly",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "Radio Times",
@@ -774,35 +777,35 @@
   {
    "source": "Daily Mail — TV & Showbiz",
    "status": "ok",
-   "new": 5,
-   "total": 83,
+   "new": 7,
+   "total": 81,
    "note": ""
   },
   {
    "source": "Metro — Entertainment",
    "status": "ok",
    "new": 0,
-   "total": 103,
+   "total": 104,
    "note": ""
   },
   {
    "source": "Mirror — Showbiz",
    "status": "ok",
-   "new": 0,
-   "total": 140,
+   "new": 3,
+   "total": 139,
    "note": ""
   },
   {
    "source": "E! News",
    "status": "ok",
-   "new": 1,
+   "new": 4,
    "total": 30,
    "note": ""
   },
   {
    "source": "Just Jared",
    "status": "ok",
-   "new": 1,
+   "new": 4,
    "total": 25,
    "note": ""
   },
@@ -844,14 +847,14 @@
   {
    "source": "Page Six",
    "status": "ok",
-   "new": 1,
+   "new": 3,
    "total": 10,
    "note": ""
   },
   {
    "source": "US Weekly",
    "status": "ok",
-   "new": 5,
+   "new": 1,
    "total": 72,
    "note": ""
   },
@@ -879,7 +882,7 @@
   {
    "source": "HELLO! Magazine",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 30,
    "note": ""
   },
@@ -920,10 +923,10 @@
   },
   {
    "source": "ScienceAlert",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Bored Panda",
@@ -948,10 +951,10 @@
   },
   {
    "source": "Mangobaaz",
-   "status": "unchanged",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "304, feed badli nahi"
+   "note": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "LADbible",
@@ -963,21 +966,21 @@
   {
    "source": "UNILAD",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 25,
    "note": ""
   },
   {
    "source": "Rolling Stone Music",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "Billboard",
    "status": "ok",
-   "new": 1,
+   "new": 4,
    "total": 10,
    "note": ""
   },

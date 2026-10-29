@@ -14685,5 +14685,187 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-28T14:45:31Z"
+  },
+  "ged0uq": {
+    "id": "ged0uq",
+    "type": "news",
+    "headline": "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
+    "dek": "Rockstar Games' highly anticipated title could require up to 210 GB of space, potentially setting a new franchise record.",
+    "body": [
+      {
+        "h": "Upcoming Release Approaches",
+        "p": [
+          "Less than a month remains until the official arrival of Grand Theft Auto VI, generating immense anticipation across the gaming community. Despite the high level of excitement surrounding Rockstar Games' upcoming title, complete plot details remain firmly under wraps.",
+          "Players are already aware of their playable characters and the general setting, but many details about the experience are still emerging as the launch date draws closer."
+        ]
+      },
+      {
+        "h": "Digital Distribution Debates",
+        "p": [
+          "Recent reports indicate that Grand Theft Auto VI may skip a traditional physical release, featuring digital distribution instead. Some reports suggest physical copies might only include a code rather than a disc, sparking discussions among players.",
+          "This approach aligns with a broader industry trend toward digital distribution, though it has still caused considerable surprise and upset among dedicated fans."
+        ]
+      },
+      {
+        "h": "Collector Editions and Marketing Surprises",
+        "p": [
+          "The lead-up to the launch has brought several unexpected announcements. PlayStation previously announced plans to halt physical video game production shortly before the digital-only details for Grand Theft Auto VI emerged.",
+          "Additionally, the game's collector's edition came with a steep price tag while surprisingly omitting a physical copy of the game. Even the initial promotional look at the title caused an uproar after debuting on Netflix hours before reaching social media."
+        ]
+      },
+      {
+        "h": "Record-Breaking Storage Demands",
+        "p": [
+          "Beyond distribution news, reports suggest that Grand Theft Auto VI might demand a staggering amount of storage space on player consoles. According to social media user @PlayStationSize and Insider Gamer, the game could feature a file size of 210 GB.",
+          "If confirmed, this massive requirement would make it one of the largest video games ever created and easily the biggest file size in the entire franchise history."
+        ]
+      },
+      {
+        "h": "Comparing Past Rockstar Titles",
+        "p": [
+          "To put this rumored file size into perspective, Rockstar's previous major release, Red Dead Redemption II, required approximately 200 GB of storage space. Grand Theft Auto VI is poised to push past that benchmark.",
+          "Industry observers note that given the vast scope of modern open-world titles, large file sizes are becoming increasingly common for high-end productions."
+        ]
+      },
+      {
+        "h": "Map Scale and Hardware Expectations",
+        "p": [
+          "Reports indicate that the map of Grand Theft Auto VI is roughly twice the size of Grand Theft Auto V, providing context for the immense data requirements. A vastly expanded virtual world naturally demands more memory and storage.",
+          "As of writing, neither PlayStation nor Rockstar has officially confirmed these storage figures, leaving open the possibility that the final file size could change prior to release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Grand Theft Auto VI approaches its launch amid discussions regarding digital-only distribution and massive hardware requirements. Reports from @PlayStationSize and Insider Gamer indicate the title may demand 210 GB of storage space, surpassing previous franchise records."
+        ]
+      }
+    ],
+    "facts": [
+      "Less than a month remains until GTA 6 releases.",
+      "Grand Theft Auto VI may have a file size of 210 GB.",
+      "Red Dead Redemption II was about 200 GB large.",
+      "The map of GTA 6 is reportedly twice the size of Grand Theft Auto V."
+    ],
+    "entities": {
+      "people": [
+        "Erielle Sudario"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "Red Dead Redemption II",
+        "Grand Theft Auto V"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI file size",
+      "GTA 6 storage space",
+      "Rockstar Games Grand Theft Auto VI",
+      "Grand Theft Auto VI 210 GB"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/grand-theft-auto-vi_-an-extended-look-2026-poster.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 28 Oct 2026 23:50:12 GMT"
+  },
+  "16ab6em": {
+    "id": "16ab6em",
+    "type": "news",
+    "headline": "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95",
+    "dek": "The acclaimed actress, known for her roles in Breaking Away and Suddenly Susan, died at her Manhattan home using New York State medical aid-in-laws following a terminal cancer diagnosis.",
+    "body": [
+      {
+        "h": "Passing of a Television Icon",
+        "p": [
+          "Hollywood has lost a cherished matriarch of the small screen following the death of veteran actress Barbara Barrie at the age of 95. Her representative issued a statement confirming that the performer passed away inside her Manhattan home. She chose to utilize end-of-life care permitted under the New York State Medical Aid in Dying statute, a regulation she had actively supported and championed during her later years.",
+          "The celebrated performer had been facing a terminal cancer diagnosis prior to her peaceful passing surrounded by medical assistance. Her career spanned decades of memorable television and film projects, earning her deep admiration from colleagues and audiences alike who remembered her warmth and incredible versatility across various genres."
+        ]
+      },
+      {
+        "h": "Acclaimed Film and Stage Career",
+        "p": [
+          "Barrie established herself as a formidable talent across both motion pictures and theatrical stages during a career lasting more than fifty-five years. She garnered critical acclaim and an Academy Award nomination for her remarkable work in the 1979 feature Breaking Away. Years prior to her Oscar recognition, she also secured a prestigious Tony nomination for her performance in the original Broadway staging of Stephen Sondheim's iconic musical Company.",
+          "Beyond these high-profile milestones, her impressive filmography included award-winning turns, such as taking home the Cannes Best Actress prize. Hailing from Chicago, her journey into the performing arts began around the age of 11 at a community theater, eventually leading her to share space and collaborate with legends like James Dean."
+        ]
+      },
+      {
+        "h": "Beloved Television Roles",
+        "p": [
+          "Television audiences welcomed Barrie into their living rooms through numerous classic series and recurring television mom personas. Among her most recognizable characters was Nana in the hit comedy Suddenly Susan, which solidified her status as a comforting presence on weekly broadcasts across the country.",
+          "Her extensive television resume did not stop there, as she also made memorable guest appearances on modern hit programs including Nurse Jackie and Law & Order: SVU. Whether playing a matriarch or a sharp-witted character actor, she consistently brought depth and authenticity to every script she tackled."
+        ]
+      },
+      {
+        "h": "Balancing Stardom and Family Life",
+        "p": [
+          "While maintaining a prolific acting schedule, Barrie prioritized her marriage to director Jay Malcolm Harnick, with whom she remained until his passing in 2007. The couple raised two children together, daughter Jane and son Aaron, which heavily influenced how she chose her acting projects throughout her lifetime.",
+          "The dedicated mother once noted that the vast majority of her professional work took place while she was married and raising her children. She deliberately selected roles that fit around her domestic responsibilities, only stepping away for parts that truly captured her artistic interest."
+        ]
+      },
+      {
+        "h": "Philosophy on the Craft",
+        "p": [
+          "In a 2024 interview on the program How Art Changed Me, the One Potato, Two Potato star reflected deeply on the simplicity and discipline required in acting. She articulated that an artist must strip away all unnecessary temperament and distractions to focus entirely on the human being they are portraying on screen or stage.",
+          "She acknowledged that mastering this pure approach to performance required many years of dedication and experience. That unwavering commitment to truth in acting formed the backbone of a career that outlasted changing industry trends and captured generations of fans."
+        ]
+      },
+      {
+        "h": "Advocacy and Legacy",
+        "p": [
+          "Barrie's legacy extends far beyond her performances on stage and screen, touching legislative realms through her advocacy for end-of-life choices. By choosing to utilize the New York State Medical Aid in Dying law, she lived out her final principles regarding personal autonomy and compassionate care.",
+          "Her passing marks the conclusion of a remarkable era for classic Hollywood and television talent. She leaves behind a rich tapestry of work that continues to inspire actors, entertain viewers, and serve as a masterclass in honest storytelling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Oscar-nominated actress Barbara Barrie died at 95 in her Manhattan home following a terminal cancer diagnosis. Her representative confirmed that her passing was medically assisted in accordance with the New York State Medical Aid in Dying law, an initiative she strongly advocated for. She leaves behind a legendary career spanning over fifty-five years across film, television, and Broadway."
+        ]
+      }
+    ],
+    "facts": [
+      "Barbara Barrie died at 95 years old.",
+      "Her passing was medically assisted under the New York State Medical Aid in Dying law.",
+      "She received an Academy Award nomination for the 1979 film Breaking Away.",
+      "She earned a Tony nomination for the original run of Stephen Sondheim's musical Company.",
+      "She was married to director Jay Malcolm Harnick until his death in 2007.",
+      "She had two children, daughter Jane and son Aaron."
+    ],
+    "entities": {
+      "people": [
+        "Barbara Barrie",
+        "Jay Malcolm Harnick",
+        "Stephen Sondheim",
+        "James Dean",
+        "Jane Harnick",
+        "Aaron Harnick"
+      ],
+      "titles": [
+        "Suddenly Susan",
+        "Nurse Jackie",
+        "Law Order: SVU",
+        "Breaking Away",
+        "Company",
+        "One Potato, Two Potato"
+      ]
+    },
+    "keywords": [
+      "Barbara Barrie",
+      "Barbara Barrie death",
+      "Breaking Away Barbara Barrie",
+      "Suddenly Susan cast"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261028/dba327bb-862c-4a8c-9ad5-1a09aec3b78e_1793232016.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95",
+        "source": "E! News"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 00:10:19 GMT"
   }
 };
