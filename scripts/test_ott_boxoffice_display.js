@@ -131,6 +131,8 @@ assert.deepEqual(rankedCap, ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2', 'b1
 assert.deepEqual(rankedCap.slice(0, 8), ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2']);
 assert.match(source, /const boPicks = boPoolFor\("bollywood"\)\.slice\(0, HOME_LIMITS\.boxoffice\)/);
 assert.match(source, /kind === "boxoffice" \? boPoolFor\(industry\)\.slice\(0, HOME_LIMITS\.boxoffice\)/);
+const boxOfficeSubtitle = '14-day releases first · worldwide collections, then popularity · older titles only if needed';
+assert.equal(source.split(boxOfficeSubtitle).length - 1, 2, 'initial and tab-switched subtitles both describe worldwide collections');
 
 const gateFixture = [
   makeCandidate('age14', '2026-10-16', 'bollywood', worldwideRows([{ date: '2026-10-17', collection: 20 }])),

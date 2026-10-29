@@ -1090,7 +1090,7 @@
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}&s=oldest` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=oldest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "14-day releases first · collections, then popularity · older titles only if needed · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "14-day releases first · worldwide collections, then popularity · older titles only if needed · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
@@ -1288,7 +1288,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
 
 
 
