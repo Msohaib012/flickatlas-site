@@ -350,10 +350,11 @@
 
     /* ---------- Box Office homepage: active-film leaders, per industry.
        Prefer releases from the latest 14 days. Within each age group,
-       rank titles with numeric daily reports in the latest 14 IST reporting
-       dates by reported sum, then use Movies' existing Popular order
-       (rating, votes, newest release) to fill missing slots. Never invent
-       collection amounts; older releases enter only after recent ones. ---------- */
+       rank titles with numeric daily rows explicitly scoped as worldwide in
+       the latest 14 IST reporting dates by reported sum, then use Movies'
+       existing Popular order (rating, votes, newest release) to fill missing
+       slots. India Net, domestic, and other-territory data never display or
+       rank as worldwide; older releases enter only after recent ones. ---------- */
     const boxOfficeReleaseCutoffDate = new Date(today + "T00:00:00Z");
     boxOfficeReleaseCutoffDate.setUTCDate(boxOfficeReleaseCutoffDate.getUTCDate() - 14);
     const boxOfficeReleaseCutoff = boxOfficeReleaseCutoffDate.toISOString().slice(0, 10);
@@ -370,7 +371,9 @@
       return `${+m[3]} ${MO[mo - 1]}`;
     };
     const boCardHtml = (entry, rows) => {
-      const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
+      const clean = (rows || []).filter(r => r && r.scope === "worldwide"
+        && typeof r.date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(r.date)
+        && Number.isFinite(r.collection) && r.collection >= 0);
       /* The Today cell requests the current IST reporting day. An older
          source row must not relabel today's missing figure as yesterday. */
       const latestDate = todayIST;
@@ -382,14 +385,13 @@
       const todaySum = todayRows.reduce((s, r) => s + r.collection, 0);
       const weekSum = weekRows.reduce((s, r) => s + r.collection, 0);
       const weekDays = new Set(weekRows.map(r => r.date)).size;
-      const totalSum = clean.reduce((s, r) => s + r.collection, 0);
       const date = entry.release_date || "";
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(todayIST)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) { const scope = String(ww.scope || ""); const label = scope === "domestic-only-so-far" ? "Domestic reported to date" : scope === "domestic-opening-weekend" ? "Domestic opening weekend" : scope === "worldwide" ? "Worldwide total" : "Reported figure"; const descriptor = scope === "domestic-only-so-far" ? "Domestic collection reported to date" : scope === "domestic-opening-weekend" ? "Domestic opening-weekend collection" : scope === "worldwide" ? "Worldwide theatrical total" : "Reported box-office figure"; return `<div title="${UI.esc(descriptor)} · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>${UI.esc(label)}</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; } return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
+      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Worldwide box office summary"><div title="Today's reported worldwide collection · ${UI.esc(todayIST)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 worldwide dates reported" : "No worldwide daily rows reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 worldwide days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (ww && ww.scope === "worldwide" && Number.isFinite(ww.total_usd) && ww.total_usd >= 0) return `<div title="Worldwide theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")}"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="No published worldwide total; India Net, domestic, and other-territory figures are intentionally omitted"><dt>Worldwide total</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
     };
-    /* Box Office sort: source-backed 14-day sums first, then the site's
-       existing Movies > Popular order for titles without valid rows.
+    /* Box Office sort: source-backed 14-day worldwide sums first, then the
+       site's existing Movies > Popular order for titles without valid rows.
        Duplicate report dates are ambiguous, so they are not used to rank
        by collection. */
     const boRecentTotals = new Map();
@@ -399,7 +401,7 @@
       if (!Array.isArray(rows)) return false;
       const byDate = new Map();
       for (const r of rows) {
-        if (!r || typeof r.date !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(r.date)
+        if (!r || r.scope !== "worldwide" || typeof r.date !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(r.date)
           || r.date < boxOfficeReportStart || r.date > todayIST
           || !Number.isFinite(r.collection) || r.collection < 0) continue;
         if (byDate.has(r.date)) return false;
@@ -455,7 +457,7 @@
     const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
-      ${switchButtons("boxoffice")}<p class="sec-sub">14-day releases first · collections, then popularity · older titles only if needed · Bollywood</p>
+      ${switchButtons("boxoffice")}<p class="sec-sub">14-day releases first · worldwide collections, then popularity · older titles only if needed · Bollywood</p>
       <div data-results>${boPicks.length ? boPicks.map(p => boCardHtml(p.entry, p.rows)).join("") : '<p role="status">No recent reported collections for Bollywood releases.</p>'}</div>
     </section>` : "";
 
@@ -1286,7 +1288,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
 
 
 
