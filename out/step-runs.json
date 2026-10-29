@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T09:52:19Z",
-    "run_id": "40667393379",
-    "status": "success",
-    "checked": {
-     "candidates": 167,
-     "detail": "RSS/Atom items across 137 sources; 13 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Bombay High Court sets aside IMPPA’s award against Nikhil Dwivedi’s Saffron Magicworks",
-      "Happy Birthday Aditi Rao Hydari:  Royal Lineage to Her Acclaimed Career; 5 Fascinating Facts About Actress",
-      "Halloween 2026: 10 Must-Watch Horror Movies For Ultimate Spooky Halloween Night",
-      "The Paradise Box Office (Closing Collection): Ends Its Run As Nani’s Highest-Grossing Film By A Margin!",
-      "Wildwood Worldwide Box Office: Guess How Much Laika’s Critically Acclaimed Film Needs To Break Even!",
-      "Noah Wyle vs Jonathan Bailey Net Worth 2026: Who Has A Bigger Fortune, The Pitt Star Or The Bridgerton Heartthrob?",
-      "Inji Vellam: Vijay Sethupathi and Sai Pallavi’s romantic film to release on January 29, 2027? Here’s what we know",
-      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's film collects Rs 1.25 crore on 4th Tuesday, nears Rs 360 crore mark",
-      "Yash and Radhika Pandit set couple goals at ‘Ramayana’ premiere",
-      "Sudhir Mishra slams airline: Filmmaker hits out over lost bag",
-      "Katrina on post-partum weight: 'Its their choice, if they still view it through a harsh lens'",
-      "Suriya visits Tiruchendur temple ahead of 'Scene' release",
-      "Radhika Apte talks about avoiding South films, says fair-skinned North Indian female actors were favoured over local talent",
-      "Govinda recalls mother's struggles after she became a heroine, reveals why she shaved her head and became a Sadhvi",
-      "Katrina Kaif says Vicky Kaushal is 100% present with son Vihaan even after 18-hour workdays, reveals their romantic dinners have taken a backseat",
-      "Sara Ali Khan says father Saif 'never begged people' to take her in films",
-      "video israel elections result 2026 netanyahu bloc ahead with 56 seats after half of votes counted 3223162",
-      "the pitt star noah wyle named 2026 sexiest man alive tmovg 2682316 2026 10 28",
-      "who is former miss switzerland beatrice keul accused donald trump of rape allegation tmovh dskc 2681783 2026 10 28",
-      "reem shaikh reveals no hindu muslim interfaith marriage mother painful divorce roza namaz affair elvish yadav tmovb 2682270 2026 10 28"
-     ],
-     "updated": [],
-     "count": 93,
-     "detail": "96 stories, 0 duplicates removed, 71 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T10:21:37Z",
     "run_id": "40671266222",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "128 stories, 2 duplicates removed, 76 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T09:52:55Z",
-    "run_id": "40667393379",
+    "run_at": "2026-10-29T08:51:23Z",
+    "run_id": "40845061256",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 104,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Bombay High Court Dismisses IMPPA Dispute Award Involving Nikhil Dwivedi's Production Banner",
-      "Suriya Explores Early Morning Devotion at Tiruchendur Temple Leading Up to 'Scene' Premiere"
+      "Bhumi Pednekar reunites with Akshay Kumar for Priyadarshan’s next comedy",
+      "Bigg Boss 20 Episode 54 OTT Release Time Today: Gullu-Yung Physical Fight; When Will New Ep Premiere Online",
+      "Baththa Now Streaming On OTT: Where To Watch Vijay Sethupathi And Lijomol Jose Film Online",
+      "The Traitors Telugu Episode 7-9 Dailymotion: Where To Stream Traitors Telugu On OTT? Is it Available For Free?",
+      "Drishyam 3 Box Office: Falls Short Of Drishyam 2’s 31-Day Streak Of Earning 1 Crore Net Daily",
+      "Jailer 2 Box Office Collection Day 14: Enjoys 73 Crore In ROI, Almost 51% Less Than Its Predecessor",
+      "Ramayana Fever Reaches Pakistan as Karachi Hindus Display Film Poster at Temple",
+      "Imran seeks FRRO evidence: Actor demands OCI show-cause documents",
+      "'Jailer 2' BO Day 15 [LIVE]: Rajinikanth's film nears Rs 500 crore India",
+      "Mirzapur: The Movie Ott: When and where to watch",
+      "Sai Pallavi says partner should be a good person who owns mistakes",
+      "Siddharth’s sweet birthday note for wife Aditi Rao Hydari",
+      "Faisal Malik teases wild twists and drastic turns in Panchayat Season 5",
+      "Tamannaah Bhatia is unbothered by Annu Kapoor's ‘misogynist’ remark on her complexion, says she's focused on work",
+      "Pride and Prejudice trailer: Emma Corrin and Jack Lowden bring new life to Jane Austen’s classic romance in Netflix series",
+      "Sai Pallavi reveals what she seeks in a life partner",
+      "Udta Teer Director Aakash A Kaushik Reveals Mukul Dev’s Operation Sindoor Dialogue Was Added Via AI; Shares, “His Death Came As A Shock To Me”",
+      "41 Episodes Of Netflix's Best Heist Show Deliver A Masterclass In Plot Twists",
+      "AI Can Critique Shakespeare But Can’t Write It, Russo Brothers’ AGBO Execs Tell Tokyo Market",
+      "Japan IP Market to Return to Cannes in 2027 as Tokyo Partnership Continues"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 97,
+     "detail": "97 stories, 1 duplicates removed, 7 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T08:51:40Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Bhumi Pednekar to Join Akshay Kumar in Priyadarshan's Upcoming Comedy",
+      "Netflix Unveils Trailer for Pride and Prejudice Series Starring Emma Corrin and Jack Lowden"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T09:52:56Z",
-    "run_id": "40667393379",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 26, coming 8"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T08:51:40Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 33,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 26, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2119,27 +2109,29 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T09:04:09Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "lzeen0",
+      "3152s9"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T09:57:53Z",
-    "run_id": "40667393379",
-    "status": "success",
-    "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 197 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2553,19 +2545,27 @@
      "detail": "+0 new rows, 9 updated rows, 282 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T09:04:07Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 91,
+     "detail": "+0 new rows, 91 updated rows, 202 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2808,30 +2808,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T10:26:30Z",
-    "run_id": "40671266222",
-    "status": "success",
-    "checked": {
-     "candidates": 86,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Russell Brand Takes the Stand as Defense Opens Testimony at Southwark Crown Court",
-      "Keanu Reeves Steps Into Netflix Action Thriller Maelstrom"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 86 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3296,19 +3285,30 @@
      "detail": "api-news.json 62 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:04:09Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 58,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Bhumi Pednekar to Join Akshay Kumar in Priyadarshan's Upcoming Comedy",
+      "Netflix Unveils Trailer for Pride and Prejudice Series Starring Emma Corrin and Jack Lowden"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 58 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3566,19 +3566,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3839,29 +3839,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T09:52:55Z",
-    "run_id": "40667393379",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 93 still unprocessed; today by category: movies 4/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 2/5, upcoming_releases 5/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Bombay High Court Dismisses IMPPA Dispute Award Involving Nikhil Dwivedi's Production Banner",
-      "Suriya Explores Early Morning Devotion at Tiruchendur Temple Leading Up to 'Scene' Premiere"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4306,19 +4296,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T08:51:40Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 97 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Bhumi Pednekar to Join Akshay Kumar in Priyadarshan's Upcoming Comedy",
+      "Netflix Unveils Trailer for Pride and Prejudice Series Starring Emma Corrin and Jack Lowden"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4548,24 +4548,32 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T08:53:45Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": {
+     "candidates": 21,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 40"
+    },
+    "changed": {
+     "added": [
+      "Drishyam: The Conclusion (1269325)",
+      "Jailer 2 (1234139)",
+      "Nayyi Navelli (1654581)",
+      "Ranabaali (1389379)",
+      "Udta Teer (1375156)"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 177,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4885,24 +4893,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
+     "count": 206,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5217,19 +5225,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5479,19 +5487,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5726,19 +5734,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5964,6 +5972,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T07:57:55Z",
     "run_id": "40838021767",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5974,16 +5992,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T10:26:39Z",
     "run_id": "40671266222",
     "status": "skipped",
@@ -6206,6 +6214,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T07:57:55Z",
     "run_id": "40838021767",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6216,16 +6234,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T09:58:03Z",
-    "run_id": "40667393379",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T10:26:39Z",
     "run_id": "40671266222",
     "status": "skipped",
@@ -6452,6 +6460,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
@@ -6657,8 +6675,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:04:28Z",
+    "run_id": "40845061256",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T07:57:55Z"
+ "updated_at": "2026-10-29T09:04:28Z"
 }

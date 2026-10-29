@@ -28,6 +28,12 @@
       "source": "overseas-ai"
     },
     {
+      "date": "2026-10-20",
+      "day": 6,
+      "overseas_inr_cr": 10.0,
+      "source": "overseas-ai"
+    },
+    {
       "date": "2026-10-21",
       "day": 7,
       "occupancy_pct": 34.8,
@@ -55,12 +61,22 @@
       "source": "overseas-ai"
     }
   ],
+  "1269325": [
+    {
+      "date": "2026-10-03",
+      "day": 2,
+      "overseas_inr_cr": 38.5,
+      "source": "overseas-ai"
+    }
+  ],
   "1375156": [
     {
       "date": "2026-10-23",
       "day": 1,
       "overseas_inr_cr": 1.5,
-      "source": "overseas-ai"
+      "shows": 6265,
+      "source": "overseas-ai",
+      "tickets": 13
     },
     {
       "date": "2026-10-24",
@@ -84,6 +100,7 @@
       "date": "2026-10-27",
       "day": 5,
       "overseas_inr_cr": 1.0,
+      "shows": 5854,
       "source": "overseas-ai"
     }
   ],
@@ -123,7 +140,6 @@
       "date": "2026-10-24",
       "day": 9,
       "overseas_inr_cr": 0.4,
-      "shows": 1569,
       "source": "overseas-ai"
     },
     {

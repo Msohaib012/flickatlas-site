@@ -1,53 +1,73 @@
 {
  "AddaToday": {
   "etag": null,
-  "last_modified": "Wed, 28 Oct 2026 17:08:23 GMT"
+  "last_modified": "Wed, 28 Oct 2026 17:08:23 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Bollywood Hungama": {
-  "etag": "\"6ae2f981-2aaf2\"",
-  "last_modified": "Thu, 29 Oct 2026 07:45:05 GMT"
+  "etag": "\"6ae30790-2a9ab\"",
+  "last_modified": "Thu, 29 Oct 2026 08:45:04 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "FilmiBeat": {
   "etag": null,
-  "last_modified": "Thu, 29 Oct 2026 07:50:42 GMT"
+  "last_modified": "Thu, 29 Oct 2026 08:50:41 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Gadgets 360 Entertainment": {},
  "Koimoi": {
-  "etag": "W/\"aa6dface54e417745d6c9e3bf3226355\"",
-  "last_modified": "Thu, 29 Oct 2026 07:20:55 GMT"
+  "etag": "W/\"81e27ee28ece98a2c12fcb918856eda5\"",
+  "last_modified": "Thu, 29 Oct 2026 08:33:05 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "NRIPage": {},
  "Pinkvilla": {
   "etag": "W/\"3313c23b925b6936cd6e7371323bb1f2\"",
-  "last_modified": "Wed, 28 Oct 2026 17:45:04 GMT"
+  "last_modified": "Wed, 28 Oct 2026 17:45:04 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00"
  },
  "Sacnilk": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "ShowPulp": {
   "etag": "\"3ad88e6df28bbddea9b271e2ac24a8ef\"",
-  "last_modified": "Wed, 28 Oct 2026 19:38:48 GMT"
+  "last_modified": "Wed, 28 Oct 2026 19:38:48 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "UpcomingZone": {},
  "Filmfare": {},
  "Times of India — Entertainment": {
-  "etag": "\"09a6647ba281e627ce9bd888c5aa6c96d-gzip\"",
-  "last_modified": "Thu, 29 Oct 2026 07:35:49 GMT"
+  "etag": "\"0c3c7ae9efa26b8bbba8937c572d7c751-gzip\"",
+  "last_modified": "Thu, 29 Oct 2026 08:39:55 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Bollywood Life": {},
  "Tellychakkar": {},
  "Hindustan Times — Entertainment": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Indian Express — Entertainment": {
   "etag": "W/\"bc73e5b4792f2a84b30e1c3ef88ace57\"",
-  "last_modified": "Sat, 24 Oct 2026 19:26:16 GMT"
+  "last_modified": "Sat, 24 Oct 2026 19:26:16 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00"
  },
  "India Today — Movies": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "News18 — Entertainment": {},
  "Firstpost — Entertainment": {},
@@ -201,8 +221,10 @@
   ]
  },
  "Bollywood Bubble": {
-  "etag": "W/\"c69efaa9ee86b05cc29e6240c345af49\"",
-  "last_modified": "Thu, 29 Oct 2026 07:25:22 GMT"
+  "etag": "W/\"400dce1e60253fb54bb6e3e13f93c760\"",
+  "last_modified": "Thu, 29 Oct 2026 08:21:05 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "MissMalini": {
   "links": [
@@ -641,7 +663,9 @@
  },
  "Film Companion": {
   "etag": null,
-  "last_modified": "Thu, 29 Oct 2026 07:27:34 GMT"
+  "last_modified": "Thu, 29 Oct 2026 08:50:50 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "OTTplay": {},
  "Box Office Mojo": {
@@ -749,30 +773,42 @@
  },
  "CinemaBlend": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Collider": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "ComingSoon.net": {
-  "etag": "W/\"db8ed41dc4781dc2f6ae864d73649cd0\"",
-  "last_modified": "Thu, 29 Oct 2026 06:47:10 GMT"
+  "etag": "W/\"bdfa5667b33dfd63f67606f8a2cdaf9b\"",
+  "last_modified": "Thu, 29 Oct 2026 08:06:38 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "FirstShowing.net": {
-  "etag": "\"f9ca593462dbcf169710d55d36e0aa81\"",
-  "last_modified": "Thu, 29 Oct 2026 07:36:59 GMT"
+  "etag": "\"2b7cce3de4cef0cd42eaeefa74178b61\"",
+  "last_modified": "Thu, 29 Oct 2026 08:37:02 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "IMDb": {
   "links": []
  },
  "MovieWeb": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Screen Rant": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "The Numbers": {
   "links": [
@@ -886,72 +922,103 @@
   ]
  },
  "Variety": {
-  "etag": "W/\"163681eab705bd6501ae74ff2989ddf7\"",
-  "last_modified": "Thu, 29 Oct 2026 07:44:55 GMT"
+  "etag": "W/\"06fbea14c5ea8b1a8dd5ad6bcbbacf3b\"",
+  "last_modified": "Thu, 29 Oct 2026 08:28:02 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Deadline": {
-  "etag": "W/\"9cc54f92e615e1f45c77d99f4b3fe33a\"",
-  "last_modified": "Thu, 29 Oct 2026 07:13:22 GMT"
+  "etag": "W/\"7a35c5ff34efdc3f7f4d680ba50b5293\"",
+  "last_modified": "Thu, 29 Oct 2026 08:33:03 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "The Hollywood Reporter": {
-  "etag": "W/\"4a36568bbe4e814ddaa02aff0906dcce\"",
-  "last_modified": "Thu, 29 Oct 2026 07:09:48 GMT"
+  "etag": "W/\"89887449948a9334a951bfa663a2a970\"",
+  "last_modified": "Thu, 29 Oct 2026 08:43:28 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Rotten Tomatoes": {},
  "TheWrap": {
   "etag": "\"fe960cb8df5a380b736ded0da64651df\"",
-  "last_modified": "Thu, 29 Oct 2026 05:08:39 GMT"
+  "last_modified": "Thu, 29 Oct 2026 05:08:39 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Box Office Pro": {
   "etag": "\"d8cda96d762b8c9ee4656bdb6b57f2f9\"",
-  "last_modified": "Fri, 23 Oct 2026 20:08:02 GMT"
+  "last_modified": "Fri, 23 Oct 2026 20:08:02 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00"
  },
  "Screen Daily": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "IndieWire": {
   "etag": "W/\"7ee889760bb60ec5eefb148ca8cdc38d\"",
-  "last_modified": "Thu, 29 Oct 2026 01:17:15 GMT"
+  "last_modified": "Thu, 29 Oct 2026 01:17:15 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Vulture": {},
  "The Playlist": {
   "etag": "W/\"fec8080bbfdb3ba1e081069471375ecc\"",
-  "last_modified": "Wed, 28 Oct 2026 23:25:27 GMT"
+  "last_modified": "Wed, 28 Oct 2026 23:25:27 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "JoBlo": {
   "etag": "W/\"0dd2de0af9d4a4e4498c1114952c0e59\"",
-  "last_modified": "Thu, 29 Oct 2026 00:17:57 GMT"
+  "last_modified": "Thu, 29 Oct 2026 00:17:57 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "SlashFilm": {
   "etag": "\"593b211ba663dc5da133bb45b51a7234\"",
-  "last_modified": "Thu, 29 Oct 2026 03:23:25 GMT"
+  "last_modified": "Thu, 29 Oct 2026 03:23:25 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Empire": {
-  "etag": "\"dfsipp2u4bdftw\"",
-  "last_modified": null
+  "etag": "\"17j41cxchyvdftw\"",
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Total Film (GamesRadar)": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "TVLine": {
-  "etag": "\"d57fc08ac368f91e7f5d75fa017e2745\"",
-  "last_modified": "Thu, 29 Oct 2026 01:49:24 GMT"
+  "etag": "\"fd6c4e41ffdc8f0349c2fb4e6999d995\"",
+  "last_modified": "Thu, 29 Oct 2026 08:25:00 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "The Futon Critic": {},
  "TV Guide": {},
  "Gold Derby": {
-  "etag": "W/\"ac0c954cae981b0684f3d63f6a77b3bc\"",
-  "last_modified": "Thu, 29 Oct 2026 07:39:15 GMT"
+  "etag": "W/\"4ff810a6a68453fdd7fae178e43b26eb\"",
+  "last_modified": "Thu, 29 Oct 2026 08:15:19 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "AwardsWatch": {
   "etag": null,
-  "last_modified": "Wed, 28 Oct 2026 18:55:40 GMT"
+  "last_modified": "Wed, 28 Oct 2026 18:55:40 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Decider": {
   "etag": "W/\"2deb666bdb0172e117b85497fb90c29f\"",
-  "last_modified": "Wed, 28 Oct 2026 22:21:02 GMT"
+  "last_modified": "Wed, 28 Oct 2026 22:21:02 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "JustWatch": {
   "links": [
@@ -1292,15 +1359,21 @@
  "Reelgood": {},
  "What's on Netflix": {
   "etag": null,
-  "last_modified": "Wed, 28 Oct 2026 21:33:22 GMT"
+  "last_modified": "Wed, 28 Oct 2026 21:33:22 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Trailer Addict": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "SpoilerTV": {
   "etag": "W/\"99bfc429223a172ecf34ad322222ed3f93e072ee965c55897369e0396475e683\"",
-  "last_modified": "Thu, 29 Oct 2026 03:00:00 GMT"
+  "last_modified": "Thu, 29 Oct 2026 03:00:00 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Rolling Stone": {
   "links": [
@@ -1490,18 +1563,24 @@
  },
  "ARY Digital HD (YouTube)": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "BrieflyShort": {
   "links": []
  },
  "Daily Showbiz": {
   "etag": "\"7d287d2cef43a8600d2e162194f816f4\"",
-  "last_modified": "Wed, 28 Oct 2026 16:08:44 GMT"
+  "last_modified": "Wed, 28 Oct 2026 16:08:44 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Dawn — Images/ICON": {
   "etag": null,
-  "last_modified": "Thu, 29 Oct 2026 07:48:30 GMT"
+  "last_modified": "Thu, 29 Oct 2026 08:51:02 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "DramaFlight": {
   "etag": "W/\"dbc2ff451430b62966162d3bdcf03559\"",
@@ -1514,23 +1593,33 @@
  "Dramas.pk": {},
  "Green TV Entertainment (YouTube)": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "HAR PAL GEO (YouTube)": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "HUM TV (YouTube)": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Parhlo": {
   "etag": "W/\"b5ada3c9e945db33171f76430c89dc2e\"",
-  "last_modified": "Tue, 27 Oct 2026 13:40:31 GMT"
+  "last_modified": "Tue, 27 Oct 2026 13:40:31 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Showbiz Daily (Blogspot)": {
   "etag": "W/\"48f1344293b9db3bb95cdbcc3e69b6c9c28b9f9a7b81dbf9fd52f8694cbd4f45\"",
-  "last_modified": "Thu, 29 Oct 2026 05:19:50 GMT"
+  "last_modified": "Thu, 29 Oct 2026 05:19:50 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Showbiz Secret": {
   "etag": "\"05a9679042d6f87dd8055d02c4699957\"",
@@ -1547,11 +1636,15 @@
  },
  "Galaxy Lollywood": {
   "etag": "\"556046ca2f098941447ba38da6d7a681\"",
-  "last_modified": "Wed, 16 Oct 2024 21:46:19 GMT"
+  "last_modified": "Wed, 16 Oct 2024 21:46:19 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "ARY News — Entertainment": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "The News — Instep": {
   "links": [
@@ -1605,12 +1698,16 @@
   ]
  },
  "AsianWiki": {
-  "etag": "W/\"378f62c1f82226a49276280eb587255f\"",
-  "last_modified": "Thu, 29 Oct 2026 07:42:04 GMT"
+  "etag": "W/\"daa0555220f2a9628e9b243fbe5b2854\"",
+  "last_modified": "Thu, 29 Oct 2026 08:10:51 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Dramabeans": {
   "etag": "W/\"6a4ccd497c3ab1ce46cef3c9e74268cc\"",
-  "last_modified": "Thu, 29 Oct 2026 06:00:22 GMT"
+  "last_modified": "Thu, 29 Oct 2026 06:00:22 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "DramaWiki (D-Addicts)": {},
  "HanCinema": {
@@ -1619,27 +1716,39 @@
  },
  "Kdrama Kisses": {
   "etag": null,
-  "last_modified": "Thu, 29 Oct 2026 07:00:11 GMT"
+  "last_modified": "Thu, 29 Oct 2026 07:00:11 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "MyDramaList": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Soompi": {
-  "etag": "W/\"05b3b8c47095d885fb9805600ea97ccc\"",
-  "last_modified": "Thu, 29 Oct 2026 07:47:15 GMT"
+  "etag": "W/\"4acc68b96133fe53a651397518836867\"",
+  "last_modified": "Thu, 29 Oct 2026 08:46:11 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "VVIP Times": {
   "etag": "\"a6c51847baf071bdc4d7a4370c740332\"",
-  "last_modified": "Thu, 29 Oct 2026 05:14:23 GMT"
+  "last_modified": "Thu, 29 Oct 2026 05:14:23 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "allkpop": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Koreaboo": {
-  "etag": "\"4ccbd5145179378cda165e4d37790c33\"",
-  "last_modified": "Thu, 29 Oct 2026 07:04:06 GMT"
+  "etag": "\"1253d09f8a95b93581e046bed5fee5d2\"",
+  "last_modified": "Thu, 29 Oct 2026 08:43:21 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Yonhap News Agency — Entertainment": {
   "links": [
@@ -1719,39 +1828,57 @@
  },
  "British Comedy Guide": {
   "etag": null,
-  "last_modified": "Wed, 28 Oct 2026 16:43:54 GMT"
+  "last_modified": "Wed, 28 Oct 2026 16:43:54 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "British Period Dramas": {
   "etag": "\"c039c2695b2f10bf152f6b725930d1ed\"",
-  "last_modified": "Sat, 24 Oct 2026 13:00:45 GMT"
+  "last_modified": "Sat, 24 Oct 2026 13:00:45 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Digital Spy": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Flickering Myth": {
   "etag": null,
-  "last_modified": "Thu, 29 Oct 2026 07:43:25 GMT"
+  "last_modified": "Thu, 29 Oct 2026 07:43:25 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Geektown": {
   "etag": "W/\"d40b0e380736d5e3de09bf7fcc5422e4\"",
-  "last_modified": "Wed, 28 Oct 2026 17:09:52 GMT"
+  "last_modified": "Wed, 28 Oct 2026 17:09:52 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "I Talk Telly": {
   "etag": null,
-  "last_modified": "Wed, 28 Oct 2026 23:13:12 GMT"
+  "last_modified": "Wed, 28 Oct 2026 23:13:12 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Radio Times": {
-  "etag": "523810760ee716bfa2b06897906de7438af14707",
-  "last_modified": null
+  "etag": "d47ef66829170aceb92b770c8d571a4c15ac513c",
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "TellyMix": {
   "etag": null,
-  "last_modified": "Tue, 27 Oct 2026 20:34:57 GMT"
+  "last_modified": "Tue, 27 Oct 2026 20:34:57 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "What to Watch (What's on TV)": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Daily Mail — TV & Showbiz": {
   "links": [
@@ -2091,17 +2218,23 @@
   ]
  },
  "E! News": {
-  "etag": "\"bc53-s+k3LeCcYZbrIZTaLF3wGLP4fi0\"",
-  "last_modified": null
+  "etag": "\"bc53-0fBf0FWAkjxWe42QdwRf87GeaCY\"",
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Just Jared": {
   "etag": "\"64c1d3b97ae91b146809cc6e9082c0df\"",
-  "last_modified": "Thu, 29 Oct 2026 06:50:46 GMT"
+  "last_modified": "Thu, 29 Oct 2026 06:50:46 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "People": {},
  "TMZ": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Entertainment Weekly": {},
  "Famous Birthdays": {
@@ -2210,7 +2343,9 @@
  },
  "Page Six": {
   "etag": "W/\"f21e8b462a21fe4c894f67d961dee6e5\"",
-  "last_modified": "Wed, 28 Oct 2026 19:55:07 GMT"
+  "last_modified": "Wed, 28 Oct 2026 19:55:07 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "US Weekly": {
   "links": [
@@ -2289,50 +2424,70 @@
   ]
  },
  "Entertainment Tonight": {
-  "etag": "W/\"1793260264\"",
-  "last_modified": "Thu, 29 Oct 2026 07:51:04 GMT"
+  "etag": "W/\"1793263579\"",
+  "last_modified": "Thu, 29 Oct 2026 08:46:19 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Diva Magazine Pakistan": {},
  "Something Haute": {
   "etag": "\"42c673b1c8a7eb66cca99b55bf461b40\"",
-  "last_modified": "Tue, 20 Oct 2026 08:08:11 GMT"
+  "last_modified": "Tue, 20 Oct 2026 08:08:11 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "HELLO! Pakistan (H! Pakistan Magazine)": {},
  "HELLO! Magazine": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "OK! Magazine UK": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Oddity Central": {
   "etag": null,
   "last_modified": "Sun, 25 Oct 2026 01:53:50 GMT"
  },
  "Interesting Engineering": {
-  "etag": "W/\"d53fad519bbf59bc579b87311099e1c4\"",
-  "last_modified": "Thu, 29 Oct 2026 06:57:56 GMT"
+  "etag": "W/\"aa1e305186e92e26ddc4af01621f4521\"",
+  "last_modified": "Thu, 29 Oct 2026 08:45:06 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "New Atlas": {
   "etag": null,
-  "last_modified": "Thu, 29 Oct 2026 07:49:27 GMT"
+  "last_modified": "Thu, 29 Oct 2026 08:50:59 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Futurism": {
   "etag": "W/\"7d68f009a76a6862268d81146eb958b6\"",
-  "last_modified": "Thu, 29 Oct 2026 07:47:27 GMT"
+  "last_modified": "Thu, 29 Oct 2026 08:45:50 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "ScienceAlert": {
   "etag": "W/\"f9bc4fc2715492346e466b14086ac472\"",
-  "last_modified": "Thu, 29 Oct 2026 01:00:00 GMT"
+  "last_modified": "Thu, 29 Oct 2026 01:00:00 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Bored Panda": {
-  "etag": "\"942bb9a3aac889ebd3e3ad303978493d\"",
-  "last_modified": "Thu, 29 Oct 2026 07:26:58 GMT"
+  "etag": "\"730d06f51d306d85e491370251c7168e\"",
+  "last_modified": "Thu, 29 Oct 2026 07:54:18 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Hindustan Times — Trending": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Storypick": {
   "etag": "W/\"47403b195970eccd3af1e8f0ce438c27\"",
@@ -2340,15 +2495,21 @@
  },
  "Mangobaaz": {
   "etag": "\"a2ffb71588950bf0de9c93dcb9f09223\"",
-  "last_modified": "Wed, 28 Oct 2026 13:09:59 GMT"
+  "last_modified": "Wed, 28 Oct 2026 13:09:59 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "LADbible": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "UNILAD": {
   "etag": null,
-  "last_modified": null
+  "last_modified": null,
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "TMDB": {
   "links": [
@@ -2656,15 +2817,21 @@
   ]
  },
  "Rolling Stone Music": {
-  "etag": "W/\"cfba3f8cf3d86e5cea3647ff4c4650e8\"",
-  "last_modified": "Thu, 29 Oct 2026 04:48:18 GMT"
+  "etag": "W/\"89def72e95c893c5fd789e2879bbe798\"",
+  "last_modified": "Thu, 29 Oct 2026 08:25:55 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "Billboard": {
-  "etag": "W/\"3d34a55caf5fcf22c4bd9c26470634a0\"",
-  "last_modified": "Thu, 29 Oct 2026 06:48:00 GMT"
+  "etag": "W/\"ed0c19b360987a44d31f1f831fe69845\"",
+  "last_modified": "Thu, 29 Oct 2026 08:44:37 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  },
  "TechCrunch": {
   "etag": "W/\"ef152aa030224c26632d4e143c1a188d\"",
-  "last_modified": "Thu, 29 Oct 2026 03:10:00 GMT"
+  "last_modified": "Thu, 29 Oct 2026 03:10:00 GMT",
+  "last_attempt": "2026-10-29T08:50:39+00:00",
+  "last_successful_check": "2026-10-29T08:50:39+00:00"
  }
 }

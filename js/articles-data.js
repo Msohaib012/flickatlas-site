@@ -16306,5 +16306,211 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 12:58:00 +0530"
+  },
+  "1ea6hp0": {
+    "id": "1ea6hp0",
+    "type": "news",
+    "headline": "Bhumi Pednekar to Join Akshay Kumar in Priyadarshan's Upcoming Comedy",
+    "dek": "The dynamic acting pair is set to share the screen once again for a 1970s-set feature film that marks a major career milestone for its director.",
+    "body": [
+      {
+        "h": "A Major Reunion on the Silver Screen",
+        "p": [
+          "Bollywood is gearing up for a notable onscreen pairing as Bhumi Pednekar officially boards an upcoming comedy project. She is set to star alongside Akshay Kumar, marking their third joint venture in the film industry. The upcoming venture follows closely after their previous work together, bringing the two performers back to collaborate four years after they were last seen sharing cinematic space.",
+          "Industry circles have generated significant buzz regarding this casting choice, confirming that the lead actress has signed on to play a prominent role. Director Priyadarshan himself has validated these reports, establishing that the leading lady is locked in for the upcoming production."
+        ]
+      },
+      {
+        "h": "A Milestone Project for Priyadarshan",
+        "p": [
+          "This upcoming cinematic venture carries substantial historical weight for its director. The movie officially stands as Priyadarshan's ninety-ninth film at the helm of a directorial project. Over decades in the industry, the prolific filmmaker has built a massive body of work, making this upcoming release a notable entry in his career trajectory.",
+          "With production preparations underway, the creative team has structured a timeline that will take the project onto the floors toward the end of the year. The schedule points to filming beginning in the final week of November 2026."
+        ]
+      },
+      {
+        "h": "Stepping Back into the 1970s",
+        "p": [
+          "Narrative details indicate that the film will transport audiences several decades into the past. The story is reportedly anchored in the 1970s era, providing a distinct stylistic backdrop for the unfolding narrative. Within this period setting, Akshay Kumar is slated to portray a tiger hunter.",
+          "While specific plot points remain tightly under wraps, early indications suggest that the movie will balance comedic beats with its historical environment. Some initial discussions pointed toward potential themes involving wildlife conservation interwoven with the narrative's comedy and thriller elements, though the makers have kept a tight lid on an official detailed synopsis."
+        ]
+      },
+      {
+        "h": "Continuing a Collaborative History",
+        "p": [
+          "The upcoming comedy strengthens an established working relationship between the two lead performers. Their past ventures include prominent appearances in Toilet: Ek Prem Katha, which established their onscreen chemistry for audiences nationwide. They later reunited for Raksha Bandhan, which hit theaters in 2022 under the direction of Aanand L Rai.",
+          "This upcoming project promises to place the duo into an entirely different narrative context compared to their previous dramas and social comedies, shifting the atmosphere into a period-specific comedic landscape."
+        ]
+      },
+      {
+        "h": "Production Logistics and Filming Locations",
+        "p": [
+          "Behind the scenes, the film is backed by prominent producer Ramesh Taurani, who is steering the production through his banner. The filming schedule is projected to span approximately three months once principal photography kicks off.",
+          "Location scouts have targeted multiple regions for the shoot. Rajasthan and Mumbai have emerged as primary destinations for capturing the required period look and feel, while Bhopal is also under serious consideration as an additional shooting site."
+        ]
+      },
+      {
+        "h": "Supporting Cast Speculation",
+        "p": [
+          "Beyond the main leads, industry whispers point to additional veteran talent joining the ensemble. Reports have circulated suggesting that seasoned actors Annu Kapoor and Rajpal Yadav could potentially feature in supporting capacities.",
+          "As of now, official disclosures regarding their exact characters or the depth of their involvement in the narrative have not been formally released by the production team, leaving fans waiting for further casting announcements."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bhumi Pednekar is set to reunite with Akshay Kumar for director Priyadarshan's ninety-ninth film, a 1970s-set comedy where Kumar will play a tiger hunter. The project, produced by Ramesh Taurani, is scheduled to begin shooting in late November 2026 across locations including Mumbai, Rajasthan, and potentially Bhopal."
+        ]
+      }
+    ],
+    "facts": [
+      "Bhumi Pednekar is reuniting with Akshay Kumar for a Priyadarshan film.",
+      "This project marks Priyadarshan's 99th film as a director.",
+      "Filming is expected to begin in the last week of November 2026.",
+      "Akshay Kumar will play a tiger hunter in the 1970s-set comedy.",
+      "The film is produced by Ramesh Taurani.",
+      "Bhumi Pednekar and Akshay Kumar previously starred together in Toilet: Ek Prem Katha and Raksha Bandhan."
+    ],
+    "entities": {
+      "people": [
+        "Bhumi Pednekar",
+        "Akshay Kumar",
+        "Priyadarshan",
+        "Ramesh Taurani",
+        "Annu Kapoor",
+        "Rajpal Yadav",
+        "Aanand L Rai",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Raksha Bandhan",
+        "Toilet: Ek Prem Katha"
+      ]
+    },
+    "keywords": [
+      "Bhumi Pednekar",
+      "Akshay Kumar",
+      "Priyadarshan",
+      "Raksha Bandhan"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/Bhumi-Akshay-reunite-for-Priyadarshan-next.jpeg",
+        "caption": "Bhumi Pednekar to Join Akshay Kumar in Priyadarshan's Upcoming Comedy",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 14:12:56 +0200"
+  },
+  "o4ok1v": {
+    "id": "o4ok1v",
+    "type": "news",
+    "headline": "Netflix Unveils Trailer for Pride and Prejudice Series Starring Emma Corrin and Jack Lowden",
+    "dek": "A fresh six-part adaptation of Jane Austen's classic romance featuring Emma Corrin and Jack Lowden is set to premiere on Netflix this December.",
+    "body": [
+      {
+        "h": "Introduction to the New Adaptation",
+        "p": [
+          "Audiences are preparing for another journey into the world of Elizabeth Bennet and Mr Darcy as Netflix releases the official preview for its upcoming serialized version of Pride and Prejudice.",
+          "The promotional footage offers an initial look at the emotional complexities, romantic tension, and domestic misunderstandings that continue to sustain Jane Austen's narrative across generations."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "The six-part project highlights Emma Corrin as Elizabeth Bennet alongside Jack Lowden taking on the role of Mr Darcy. The ensemble also includes Olivia Colman, Rufus Sewell, and Fiona Shaw.",
+          "Beyond the primary romance, the story places renewed emphasis on the societal expectations and pressures weighing heavily on women during that era, where marital choices dictated their long-term futures."
+        ]
+      },
+      {
+        "h": "Exploring the Trailer Highlights",
+        "p": [
+          "The preview sequence begins with Elizabeth and her sister Jane, played by Freya Mavor, discussing their limited options for the future while lounging on the rooftop at Longbourn.",
+          "Olivia Colman injects a sense of urgency into Mrs Bennet as she attempts to secure wealthy partners for her five daughters, famously uttering the novel's iconic opening sentence."
+        ]
+      },
+      {
+        "h": "Development of the Central Romance",
+        "p": [
+          "Jack Lowden portrays a more guarded iteration of Mr Darcy, with the trailer showcasing subtle moments of growing fascination between him and Elizabeth during social gatherings.",
+          "The narrative builds upon their initial hesitation to admit their mutual attraction, establishing the foundation for wounded pride and unspoken longing."
+        ]
+      },
+      {
+        "h": "Supporting Ensemble and Key Figures",
+        "p": [
+          "A diverse supporting lineup rounds out the production, featuring Jamie Demetriou as Mr Collins and Daryl McCormack portraying the warm and affable Mr Bingley.",
+          "Louis Partridge appears as the charming Mr Wickham, while Fiona Shaw embodies the formidable Lady Catherine de Bourgh alongside Elizabeth's remaining sisters."
+        ]
+      },
+      {
+        "h": "Legacy of Previous Screen Adaptations",
+        "p": [
+          "Revisiting Pride and Prejudice comes with high expectations given the lasting popularity of prior interpretations, such as the 1995 BBC miniseries and the 2005 cinematic release.",
+          "Earlier treatments, including the 1980 television version and the 1940 Hollywood film, each offered unique interpretations of the beloved literary work."
+        ]
+      },
+      {
+        "h": "Creative Vision and Release Details",
+        "p": [
+          "Scriptwriter Dolly Alderton and director Euros Lyn have worked to inject modern authenticity and social commentary into the familiar plot while preserving the core elements of the book.",
+          "The six-part program is scheduled to become available for streaming on Netflix on December 3."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the first full trailer for its upcoming six-part adaptation of Pride and Prejudice, starring Emma Corrin and Jack Lowden.",
+          "Penned by Dolly Alderton and directed by Euros Lyn, the series is scheduled to premiere on December 3."
+        ]
+      }
+    ],
+    "facts": [
+      "The series consists of six parts.",
+      "Emma Corrin stars as Elizabeth and Jack Lowden stars as Darcy.",
+      "Other cast members include Olivia Colman, Rufus Sewell, and Fiona Shaw.",
+      "The series is penned by Dolly Alderton and directed by Euros Lyn.",
+      "The release date is set for December 3."
+    ],
+    "entities": {
+      "people": [
+        "Emma Corrin",
+        "Jack Lowden",
+        "Olivia Colman",
+        "Rufus Sewell",
+        "Fiona Shaw",
+        "Freya Mavor",
+        "Jamie Demetriou",
+        "Daryl McCormack",
+        "Louis Partridge",
+        "Hopey Parish",
+        "Hollie Avery",
+        "Rhea Norwood",
+        "Colin Firth",
+        "Jennifer Ehle",
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Dolly Alderton",
+        "Euros Lyn",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Pride and Prejudice"
+      ]
+    },
+    "keywords": [
+      "Pride and Prejudice",
+      "Emma Corrin",
+      "Jack Lowden",
+      "Netflix Pride and Prejudice",
+      "Dolly Alderton"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/29/1600x900/logo/Emma_Corrin_Jack_Lowden_1793257180964_Q2xO_1793257181082_5IdH_c6fc8d7a-dfef-48cc-82c6-0b6efb13b96c_HOeJ.jpg",
+        "caption": "Netflix Unveils Trailer for Pride and Prejudice Series Starring Emma Corrin and Jack Lowden",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 13:18:00 +0530"
   }
 };
