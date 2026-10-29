@@ -1,12 +1,12 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-10-29T08:29:59Z",
-   "last_run": "2026-10-29T08:29:59Z",
+   "last_attempt_at": "2026-10-29T12:51:59Z",
+   "last_run": "2026-10-29T12:51:59Z",
    "last_status": "success",
-   "last_success": "2026-10-29T08:29:59Z",
+   "last_success": "2026-10-29T12:51:59Z",
    "consecutive_failures": 0,
-   "detail": "Actual TMDB global weekly top-20 verified read-only; corrected stale display snapshot only."
+   "detail": "valid top 20 snapshot"
   },
   "sacnilk_boxoffice": {
    "last_attempt_at": "2026-10-29T11:56:03Z",
@@ -17,10 +17,10 @@
    "detail": "validated 292 rows; 1 staging files changed"
   },
   "fnn_boxoffice": {
-   "last_attempt_at": "2026-10-29T08:59:05Z",
-   "last_run": "2026-10-29T08:59:05Z",
+   "last_attempt_at": "2026-10-29T12:54:34Z",
+   "last_run": "2026-10-29T12:54:34Z",
    "last_status": "success",
-   "last_success": "2026-10-29T08:59:05Z",
+   "last_success": "2026-10-29T12:54:34Z",
    "consecutive_failures": 0,
    "detail": "validated 79 rows; 1 staging files changed"
   },
@@ -31,7 +31,39 @@
    "last_success": "2026-10-29T09:01:55Z",
    "consecutive_failures": 0,
    "detail": "validated 78 rows; 1 staging files changed"
+  },
+  "ott_digital": {
+   "last_attempt_at": "2026-10-29T12:53:35Z",
+   "last_run": "2026-10-29T12:53:35Z",
+   "last_status": "success",
+   "last_success": "2026-10-29T12:53:35Z",
+   "consecutive_failures": 0,
+   "detail": "6 digital titles; registry 821"
+  },
+  "wp_boxoffice": {
+   "last_attempt_at": "2026-10-29T12:55:13Z",
+   "last_run": "2026-10-29T12:55:13Z",
+   "last_status": "success",
+   "last_success": "2026-10-29T12:55:13Z",
+   "consecutive_failures": 0,
+   "detail": "validated 37 rows; 1 staging files changed"
+  },
+  "bollybourse_boxoffice": {
+   "last_attempt_at": "2026-10-29T12:55:36Z",
+   "last_run": "2026-10-29T12:55:36Z",
+   "last_status": "success",
+   "last_success": "2026-10-29T12:55:36Z",
+   "consecutive_failures": 0,
+   "detail": "validated 98 rows; 1 staging files changed"
+  },
+  "filmibeat_boxoffice": {
+   "last_attempt_at": "2026-10-29T12:56:00Z",
+   "last_run": "2026-10-29T12:56:00Z",
+   "last_status": "success",
+   "last_success": "2026-10-29T12:56:00Z",
+   "consecutive_failures": 0,
+   "detail": "validated 29 rows; 1 staging files changed"
   }
  },
- "updated_at": "2026-10-29T11:56:03Z"
+ "updated_at": "2026-10-29T12:56:00Z"
 }

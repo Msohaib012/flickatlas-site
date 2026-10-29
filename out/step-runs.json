@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T12:52:49Z",
-    "run_id": "40691165295",
-    "status": "success",
-    "checked": {
-     "candidates": 241,
-     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss Kannada 13 Voting Trends: Who Will Get HIGHEST Votes In BBK 13 Online Voting Results?",
-      "Rise And Fall 2 Ep Highlights (Oct 28): New Wild Card Entry? Sehwag’s Naagin Vs Nevla Dig At Shehzad-Priyanka",
-      "Udta Teer: New Song ‘Jai Hind’ Celebrates National Pride, Adds A Patriotic Note To Ayushmann Khurrana’s Film",
-      "Premada Oorali Box Office: Kannada Blockbuster Stuns With A Whopping 1164x Opening Day Multiplier!",
-      "Ebenezer Release Date Update: When To Watch Johnny Depp’s Reimagining Of Charles Dickens A Christmas Carol In Theaters",
-      "The Cat In The Hat First Reactions Out: Bill Hader’s Animated Film Gets Rave Reviews, Hailed As The “Best Seuss Film”",
-      "Ramayana Early Reactions Out: Ranbir Kapoor & Yash Starrer Hailed As An “Immersive Cinematic Experience” – Here’s What Viewers Say!",
-      "The Wolves Of Real Estate Ending Explained: How Does The Documentary End For The Alexander Brothers?",
-      "johnny depp on playing ebenezer scrooge i was looking for a different way 86844.html",
-      "ravana was not all bad sai pallavi on what viewers should expect from ramayana 86840.html",
-      "ramayana early reviews ranbir kapoor yash hailed as epic draws lotr comparisons 86841.html",
-      "taylor swift makes history as youngest nashville songwriters hall of fame inductee 86838.html",
-      "i meditate for everyones happiness every morning venkatesh 86843.html",
-      "Nitish Bharadwaj shares ‘Mangal Rang’ line from 'Ramayana'; asks, 'Can someone read between the lines?'",
-      "Ramayana: Sai Pallavi’s Ravana remark splits netizens",
-      "Katrina says Vicky has a superpower of being 100 present as a father: 'Incredible husband'",
-      "Superstar Rajinikanth’s box office power: INDUSTRY HITS that SILENCED critics",
-      "'Adipurush' lyricist Manoj Muntashir reacts to 'Ramayana' song comparisons: 'Didn’t write qawwalis'",
-      "Sharvari dances with Madhuri: Actor calls it surreal honour",
-      "When Ranveer Singh Spoke About The Art Of Transformation Saying, “If I Get Into A Character And You Don’t See A Trace Of Me That’s…”"
-     ],
-     "updated": [],
-     "count": 161,
-     "detail": "163 stories, 0 duplicates removed, 78 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T13:14:38Z",
     "run_id": "40694426573",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "225 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T12:53:49Z",
-    "run_id": "40691165295",
+    "run_at": "2026-10-29T12:51:58Z",
+    "run_id": "40876623758",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 256,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
-      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim"
+      "Bigg Boss Telugu 10 Elimination Voting Week 8: Who Is In Bottom 3? Sudheer, Shiva, Varshini Or Ramakrishna",
+      "Hunkkaar: The Roar: Did You Know Raghubir Yadav Suffered A Heart Attack Before Shooting An Intense Scene",
+      "Sigma OTT Release Date And Platform: When And Where To Watch Sundeep Kishan And Faria Abdullah's Film Online",
+      "Tiger Shroff Firing Case: MCOCA Court Remands 11 Accused In Police Custody Till Nov 6",
+      "SRK King News UPDATE: Siddharth Anand Teases Fans With CRYPTIC Countdown Again On X; Teaser Coming Next Week?",
+      "'We Support You, ScoutOP': Kaashvi Hiranandani and Gaming Community Rally Behind Scout Amid Bigg Boss 20 Journey",
+      "The Only Living Pickpocket In New York Ending Explained: How Does Harry Pull Off His Last Con?",
+      "Matthew Perry Almost Lost His Iconic Friends Role As Chandler Because Of A Failed TV Pilot",
+      "The Blair Witch Project Box Office: How The Horror Movie Was Shot For Under $100,000 & Made $248 Million",
+      "Premada Oorali Box Office Collections: Kannada film collects Rs 1 crore on 5th Wednesday, grosses Rs 115 crore in 34 days",
+      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's thriller collects Rs 80 lakh on 4th Wednesday, nears theatrical end",
+      "OM Chapter 1: Dhanush starrer to NOT be a ‘serialised story’ with sequel; Director says ‘Like tree with many branches’",
+      "Jumanji Open World Trailer: Dwayne Johnson Returns for Final Adventure With Karen Gillan, Jack Black and Kevin Hart",
+      "Baththa Review: Vijay Sethupathi’s wholesome comedy drama turns into a journey of self discovery",
+      "Udta Teer Day 6 Box Office Collections: Ayushmann Khurrana's spy comedy dips by 15 per cent on Wednesday, collects Rs 27.50 crore in 6 days",
+      "Jailer 2 Box Office Collections: Rajinikanth starrer records another drop on 2nd Wednesday, approaches Rs 475 crore mark in India",
+      "obsession varun dhawan and kriti sanons act is totally on point in this video 86861.html",
+      "bhumi pednekar joins akshay kumar in priyadarshans 99th directorial venture 86860.html",
+      "exclusive keerthy suresh on why she earlier did small roles in big ticket south films 86859.html",
+      "anupam kher urges people to watch ramayana for this reason 86858.html"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 169,
+     "detail": "170 stories, 3 duplicates removed, 86 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,45 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T12:52:57Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Siddharth Anand Teases Shah Rukh Khan Fans With Cryptic Countdown For King",
+      "Chiranjeevi Steps Into Streaming with Netflix Talk Show Megaverse"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T12:53:50Z",
-    "run_id": "40691165295",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T13:15:07Z",
-    "run_id": "40694426573",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1825,45 @@
      "detail": "now 43, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T12:53:35Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": {
+     "candidates": 48,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 43, coming 5"
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T12:53:35Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": {
+     "candidates": 48,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 43, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2150,27 +2140,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T12:59:04Z",
-    "run_id": "40691165295",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T12:56:02Z",
+    "run_id": "40876623758",
     "status": "success",
     "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
-     "detail": "+0 new rows, 12 updated rows, 196 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2584,19 +2573,27 @@
      "detail": "+0 new rows, 90 updated rows, 203 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T12:56:00Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 282 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2839,30 +2836,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T13:20:30Z",
-    "run_id": "40694426573",
-    "status": "success",
-    "checked": {
-     "candidates": 82,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie",
-      "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 82 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3327,19 +3313,30 @@
      "detail": "api-news.json 64 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T12:56:02Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": {
+     "candidates": 66,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Siddharth Anand Teases Shah Rukh Khan Fans With Cryptic Countdown For King",
+      "Chiranjeevi Steps Into Streaming with Netflix Talk Show Megaverse"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 66 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3597,19 +3594,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3870,29 +3867,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T12:53:49Z",
-    "run_id": "40691165295",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 161 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 7/4, ott_streaming 2/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
-      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4337,19 +4324,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T12:52:57Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 169 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 4/4, ott_streaming 3/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Siddharth Anand Teases Shah Rukh Khan Fans With Cryptic Countdown For King",
+      "Chiranjeevi Steps Into Streaming with Netflix Talk Show Megaverse"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4592,24 +4589,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 182,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4929,24 +4921,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 178,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5261,24 +5253,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 71,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5523,19 +5515,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 65,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5770,19 +5767,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6008,6 +6005,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T11:56:13Z",
     "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6018,16 +6025,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T13:20:39Z",
     "run_id": "40694426573",
     "status": "skipped",
@@ -6250,6 +6247,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T11:56:13Z",
     "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6260,16 +6267,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T12:59:21Z",
-    "run_id": "40691165295",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T13:20:39Z",
     "run_id": "40694426573",
     "status": "skipped",
@@ -6492,6 +6489,16 @@
     "category": "Box Office",
     "run_at": "2026-10-29T11:56:13Z",
     "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6741,8 +6748,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T12:56:10Z",
+    "run_id": "40876623758",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T11:56:13Z"
+ "updated_at": "2026-10-29T12:56:10Z"
 }

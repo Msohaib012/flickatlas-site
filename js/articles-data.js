@@ -17109,5 +17109,183 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 11:03:41 +0000"
+  },
+  "1spdtvm": {
+    "id": "1spdtvm",
+    "type": "news",
+    "headline": "Siddharth Anand Teases Shah Rukh Khan Fans With Cryptic Countdown For King",
+    "dek": "Director Siddharth Anand has sparked widespread speculation on social media with a cryptic X post, while reports suggest Shah Rukh Khan may skip his annual fan meet-and-greet on his 61st birthday to shoot for the film.",
+    "body": [
+      {
+        "h": "Anticipation Builds Around Shah Rukh Khan's Birthday",
+        "p": [
+          "As October draws to a close and November approaches, followers of Shah Rukh Khan are gearing up for the superstar's upcoming birthday celebrations. Following the recent rollout of a brand new poster, enthusiasm has reached a fever pitch as audiences look forward to major promotional updates regarding his highly anticipated project, King.",
+          "Fueling this excitement, filmmaker Siddharth Anand has once again captured the attention of the internet by sharing a cryptic countdown message on the platform formerly known as Twitter. The mysterious social media activity has immediately set off fervent discussions across fan communities regarding what might be in store for November 2."
+        ]
+      },
+      {
+        "h": "The Cryptic Social Media Countdown Explained",
+        "p": [
+          "The buzz began when Siddharth Anand posted a singular word, \"It's\", on X on Thursday, October 29, 2026. This brief drop closely mirrors the phrasing from a previous video announcement in January 2026, which originally opened with the declaration \"It's time to roar\" alongside the film's release date.",
+          "Observant followers quickly formulated a countdown theory based on the timing leading up to Monday, November 2. With Thursday marking the start, speculation suggests the sequence might continue with subsequent words arriving daily, though no formal confirmation has been issued by the makers regarding whether these posts are officially tied to an upcoming teaser."
+        ]
+      },
+      {
+        "h": "Birthday Meet-And-Greet Reportedly Cancelled",
+        "p": [
+          "While November 2 traditionally brings thousands of dedicated admirers to Mannat to catch a glimpse of the actor, reports indicate that this year's celebrations will look quite different. According to a Mid-Day report, the customary fan meeting has been called off for this birthday.",
+          "The decision stems from a busy production schedule, as the actor is expected to be deeply occupied with shooting back-to-back songs for the Siddharth Anand directorial. Furthermore, the iconic wave from Mannat has already been absent in recent years due to the family relocating during the property's ongoing renovation work."
+        ]
+      },
+      {
+        "h": "An All-Star Cast Joins The Project",
+        "p": [
+          "Helmed by director Siddharth Anand, King brings together an extensive ensemble of notable names from the film industry. The star-studded lineup features Suhana Khan, Abhishek Bachchan, Abhay Verma, and Raghav Juyal.",
+          "In addition to the primary cast, the movie includes important performances by Rani Mukerji, Deepika Padukone, Arshad Warsi, and Jaideep Ahlawat, establishing a massive collaborative effort for the upcoming silver screen venture."
+        ]
+      },
+      {
+        "h": "Pattern of Mysterious Teasers By The Director",
+        "p": [
+          "Director Siddharth Anand is no stranger to generating online chatter through calculated social media hints. The filmmaker has previously utilized similar mysterious posts to build enormous momentum ahead of major project reveals.",
+          "Because of this established pattern, fans remain highly vigilant for any additional word drops over the weekend, hoping that the ongoing sequence will ultimately culminate in the much-awaited video teaser release on the superstar's special day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Siddharth Anand has sparked teaser speculations for Shah Rukh Khan's upcoming film King by posting a cryptic countdown on X ahead of the superstar's 61st birthday on November 2. Meanwhile, reports indicate that the annual fan meet-and-greet has been cancelled as the actor remains busy shooting songs for the star-studded project."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's birthday falls on Monday, November 2, 2026.",
+      "Siddharth Anand posted the word \"It's\" on X on Thursday, October 29, 2026.",
+      "Shah Rukh Khan is turning 61.",
+      "King is directed by Siddharth Anand and features Suhana Khan, Abhishek Bachchan, Abhay Verma, Raghav Juyal, Rani Mukerji, Deepika Padukone, Arshad Warsi, and Jaideep Ahlawat."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Abhay Verma",
+        "Raghav Juyal",
+        "Rani Mukerji",
+        "Deepika Padukone",
+        "Arshad Warsi",
+        "Jaideep Ahlawat"
+      ],
+      "titles": [
+        "King"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King update",
+      "Shah Rukh Khan birthday teaser",
+      "King movie cast"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/feature53-21391793275846.jpg",
+        "caption": "Siddharth Anand Teases Shah Rukh Khan Fans With Cryptic Countdown For King",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 17:41:38 +0530"
+  },
+  "100hn07": {
+    "id": "100hn07",
+    "type": "news",
+    "headline": "Chiranjeevi Steps Into Streaming with Netflix Talk Show Megaverse",
+    "dek": "The veteran actor is heading to Netflix for the first time to host Megaverse, a chat show honouring the rich heritage and legends of Telugu cinema.",
+    "body": [
+      {
+        "h": "A New Chapter on Streaming",
+        "p": [
+          "Iconic star Chiranjeevi is expanding his illustrious career by making his official Netflix debut with an upcoming talk show titled Megaverse. Stepping away from his conventional big-screen roles, the celebrated actor is set to connect with fans through an intimate and engaging television format.",
+          "The project marks a major milestone for the streaming platform as it collaborates with one of Indian cinema’s most recognizable faces. By moving into the digital space, the megastar continues to evolve and reach audiences in fresh ways."
+        ]
+      },
+      {
+        "h": "Celebrating Telugu Cinema",
+        "p": [
+          "Megaverse is designed as a heartfelt tribute to the stories, stars, and milestones that have defined Telugu cinema over the decades. The programme promises to highlight the cultural impact and larger-than-life journeys of the industry's most prominent icons.",
+          "With Chiranjeevi serving as the emotional anchor of the show, viewers can expect candid conversations and deep insights into the filmmaking world. His lifelong association with cinema makes him the ideal guide to explore this rich legacy."
+        ]
+      },
+      {
+        "h": "First Guests and Production",
+        "p": [
+          "Production on the series is currently underway, with filming having officially begun. Early reports indicate that well-known Telugu comedy actors Brahmanandam, Sunil, and Satya will appear as the inaugural guests on the programme.",
+          "The series is backed by multiple production houses, including Gold Box Entertainments, Atom Media Ventures, and Sol Production LLP. Netflix is expected to reveal further details and a definitive release date in the near future."
+        ]
+      },
+      {
+        "h": "A Familiar Host",
+        "p": [
+          "Hosting is not entirely new territory for Chiranjeevi, who previously presented Meelo Evaru Koteeswarudu, the Telugu language adaptation of the popular game show format Kaun Banega Crorepati. His natural charm and wit made him a favourite with television audiences.",
+          "The upcoming Netflix series will leverage this exact conversational skill, allowing fans to witness a more personal and spontaneous side of the legendary performer that standard films rarely capture."
+        ]
+      },
+      {
+        "h": "Recent and Upcoming Films",
+        "p": [
+          "In addition to his television endeavours, Chiranjeevi maintains a heavily packed schedule on the cinematic front. He was recently seen in Anil Ravipudi’s Mana Shankara Vara Prasad Garu, which debuted in theatres on January 12, 2026.",
+          "Looking ahead, the actor has several high-profile projects lined up, including Bobby Kolli’s action drama Kaaka, scheduled for a theatrical release on January 14, 2027, alongside the fantasy action-adventure film Vishwambhara directed by Vassishta."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Megastar Chiranjeevi is making his Netflix debut by hosting the new talk show Megaverse, which celebrates the heritage and legends of Telugu cinema. Production is currently underway with actors Brahmanandam, Sunil, and Satya lined up as the first guests, adding to the actor's busy lineup of upcoming cinematic projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Chiranjeevi is making his Netflix debut with Megaverse.",
+      "Brahmanandam, Sunil, and Satya are reported to be the first guests on the talk show.",
+      "Mana Shankara Vara Prasad Garu released in theatres on January 12, 2026.",
+      "Kaaka is scheduled for a theatrical release on January 14, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Chiranjeevi",
+        "Brahmanandam",
+        "Sunil",
+        "Satya",
+        "Anil Ravipudi",
+        "Bobby Kolli",
+        "Anaswara Rajan",
+        "Nivetha Pethuraj",
+        "Vassishta",
+        "Srikanth Odela",
+        "Puri Jagannadh"
+      ],
+      "titles": [
+        "Megaverse",
+        "Meelo Evaru Koteeswarudu",
+        "Kaun Banega Crorepati",
+        "Mana Shankara Vara Prasad Garu",
+        "Kaaka",
+        "Vishwambhara"
+      ]
+    },
+    "keywords": [
+      "Chiranjeevi",
+      "Megaverse",
+      "Chiranjeevi Netflix show",
+      "Mana Shankara Vara Prasad Garu"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/29/1600x900/logo/438537-img-20260818-wa0019_1793275293040_a6Bq_1793275297671_Q1rh_941482d1-5b9e-4158-b7e2-27ad89a8edff_IuI2.webp",
+        "caption": "Chiranjeevi Steps Into Streaming with Netflix Talk Show Megaverse",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 17:40:11 +0530"
   }
 };
