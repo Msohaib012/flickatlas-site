@@ -1,0 +1,32 @@
+# FlickAtlas
+
+> FlickAtlas is your global guide to movies and TV shows — full cast & crew,
+> budgets vs box office earnings, upcoming release dates and celebrity
+> filmographies for Bollywood, World Cinema and Lollywood (Pakistani cinema
+> and drama serials). Figures are reported from named sources; where no
+> reliable figure exists the page says so instead of guessing.
+
+## Sections
+
+- [Home](https://flickatlas.co.uk/): Spotlight, Coming Soon, Box Office, Now on OTT, Trending Worldwide, Release Calendar, Pakistani Dramas.
+- [Movies](https://flickatlas.co.uk/movies): all published movies, filterable by industry (Bollywood / World Cinema / Pakistani), year and sort.
+- [TV Shows](https://flickatlas.co.uk/tv): all published TV series.
+- [Box Office](https://flickatlas.co.uk/box-office): day-wise India Net and overseas collections, with worldwide totals where reported.
+- [Coming Soon / Most Awaited](https://flickatlas.co.uk/most-awaited): upcoming releases and festival titles.
+- [Now on OTT](https://flickatlas.co.uk/ott): movies and TV series currently streaming, by platform.
+- [News](https://flickatlas.co.uk/news): entertainment headlines; each story has its own page.
+- [Pakistani Dramas](https://flickatlas.co.uk/dramas): drama serials with per-episode guides and summaries.
+- [Celebrities](https://flickatlas.co.uk/celebrities): actor and director profiles with filmographies.
+- [Trailers](https://flickatlas.co.uk/trailers): latest trailers.
+- [About](https://flickatlas.co.uk/about): what FlickAtlas covers and how figures are sourced.
+- [Contact](https://flickatlas.co.uk/contact): contact the FlickAtlas team.
+
+## Notes for AI readers
+
+- Detail pages are addressed as /movie?id=<TMDB id>, /show?id=<TMDB id>,
+  /news-item?id=<story id> and /box-office-day?title=<TMDB id>&day=<n>.
+  The full list of detail URLs is in /sitemap.xml.
+- Box office figures are day-wise India Net unless a page states a worldwide
+  total; "Not reported" means no reliable figure was found, not zero.
+- News listings show only the last 24 hours of headlines; older stories stay
+  reachable at their own URLs.

@@ -108,7 +108,13 @@ non-empty. No `.js`/`.css` file failed validation.
 
 - `/api/news` — live entertainment feed. Used by `page-index.js`, `page-news.js`,
   `page-news-item.js`, `page-awards.js`, `page-search.js`.
-- `/api/trends` — trending searches. Used by `trending-searches.js` (`const API = '/api/trends'`).
+- `/api/trends` — trending searches. NOTE (2026-10-28): NOT used by any
+  live site code — `trending-searches.js` was rewritten 2026-10-26
+  (bb2564e) to render Trending Topics from `js/trending-topics.js`
+  and never fetches `/api/trends`. The feed is rebuilt hourly by
+  `convert-news.py` (Google Trends RSS, dead since Oct 2026 —
+  HTTP 404 — with a Tavily week-search fallback) and kept for
+  future use.
 - `js/config.js` also mentions `api/sitemap.js` (server-side sitemap generator) — not
   referenced by page JS and not downloadable (serverless function code is not served).
 
