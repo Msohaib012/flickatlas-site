@@ -175,11 +175,34 @@
     /* Name matching is punctuation-insensitive: TMDB writes
        "Ahn Hyo-seop" where headlines write "Ahn Hyo Seop". */
     const norm = (s) => String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
+    const PUB = window.FA_PUBLISHED || {};
+    const publishedTitles = Object.values(PUB).filter(x => x && (x.type === "movie" || x.type === "tv"));
+    const preferredTitleIds = [];
+    const articleTitleNames = [
+      ...((fullArt && fullArt.entities && Array.isArray(fullArt.entities.titles)) ? fullArt.entities.titles : []),
+      ...((it.entities && Array.isArray(it.entities.titles)) ? it.entities.titles : []),
+      ...((fullArt && Array.isArray(fullArt.titles)) ? fullArt.titles : []),
+      ...(Array.isArray(it.titles) ? it.titles : []),
+    ];
+    for (const raw of articleTitleNames) {
+      const name = typeof raw === "string" ? raw : (raw && (raw.title || raw.name)) || "";
+      const rawId = raw && typeof raw === "object" ? raw.id : null;
+      const byId = rawId == null ? null : PUB[String(rawId)];
+      const match = byId && (byId.type === "movie" || byId.type === "tv")
+        ? byId : publishedTitles.find(x => norm(UI.titleOf(x)) === norm(name));
+      if (!match) continue;
+      const key = String(match.id);
+      if (seenT.has(key)) continue;
+      seenT.add(key);
+      preferredTitleIds.push(key);
+      relTitles.push({ ...match, title: UI.titleOf(match), media_type: match.type });
+    }
     const headNorm = norm(headline);
     const takeMulti = (res) => {
       for (const x of res || []) {
-        if ((x.media_type === "movie" || x.media_type === "tv") && x.poster_path && !seenT.has(x.id) && titleFits(x)) {
-          seenT.add(x.id); relTitles.push(x);
+        const key = String(x.id);
+        if ((x.media_type === "movie" || x.media_type === "tv") && x.poster_path && !seenT.has(key) && titleFits(x)) {
+          seenT.add(key); relTitles.push(x);
         } else if (x.media_type === "person" && x.profile_path && !seenP.has(x.id) &&
           norm(x.name).length >= 4 && headNorm.includes(norm(x.name))) {
           seenP.add(x.id); relPeople.push(x);
@@ -204,7 +227,12 @@
         if (relPeople.length >= 2) break;
       }
     }
-    relTitles.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
+    const preferredRank = new Map(preferredTitleIds.map((id, i) => [id, i]));
+    relTitles.sort((a, b) => {
+      const ar = preferredRank.has(String(a.id)) ? preferredRank.get(String(a.id)) : Number.MAX_SAFE_INTEGER;
+      const br = preferredRank.has(String(b.id)) ? preferredRank.get(String(b.id)) : Number.MAX_SAFE_INTEGER;
+      return ar - br || (b.popularity || 0) - (a.popularity || 0);
+    });
     relTitles = relTitles.slice(0, 4);
     relPeople.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
     relPeople = relPeople.slice(0, 4);
@@ -214,7 +242,6 @@
        the survivors from the published entry itself (correct type,
        title and poster). People are fine as-is: a person page is a
        single-record profile, not a catalogue listing. */
-    const PUB = window.FA_PUBLISHED || {};
     relTitles = relTitles
       .map(x => PUB[String(x.id)])
       .filter(x => x && (x.type === "movie" || x.type === "tv"))
@@ -699,7 +726,5 @@
 
   /* Top Searches removed (owner order 2026-10-28): keywords live in metadata only (scripts/seo_assets.py). */
 })();
-
-
 
 
