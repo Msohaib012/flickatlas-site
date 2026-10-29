@@ -15938,5 +15938,202 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 11:03:19 +0530"
+  },
+  "cio2rc": {
+    "id": "cio2rc",
+    "type": "news",
+    "headline": "Ramayana Producer Namit Malhotra Responds to Viral Buzz About a Mahabharata Collaboration with SS Rajamouli",
+    "dek": "While attending the Los Angeles premiere of his upcoming mythological film Ramayana, producer Namit Malhotra addressed online rumors concerning a potential adaptation of the Mahabharata alongside acclaimed filmmaker SS Rajamouli.",
+    "body": [
+      {
+        "h": "The Viral Red Carpet Question",
+        "p": [
+          "While walking the red carpet at the Los Angeles premiere of his grand mythological project, producer Namit Malhotra found himself addressing persistent internet chatter. As excitement builds around his upcoming cinematic interpretation of the Indian epic, fans and reviewers alike have begun speculating about what his next major undertaking might be.",
+          "During a brief exchange on the red carpet, a reviewer directly questioned Malhotra about a heavily circulated fan theory. The interviewer asked the producer when he planned to team up with visionary filmmaker SS Rajamouli to bring the Mahabharata to the big screen, instantly drawing attention across digital platforms."
+        ]
+      },
+      {
+        "h": "Malhotra Reacts to the Rumors",
+        "p": [
+          "The direct question regarding a collaborative project with the legendary director elicited a lighthearted response from the producer. Rather than confirming or denying any active plans for a Mahabharata adaptation, Malhotra chose to praise his industry peer warmly.",
+          "Addressing the filmmaker's reputation, Malhotra described him as a legendary director and offered his best wishes for his future successes. When the interviewer urged him to consider joining forces with the filmmaker for the epic, Malhotra emphasized a broader vision for the industry, stating that it is time for all of Indian cinema to succeed collectively."
+        ]
+      },
+      {
+        "h": "Building an Expanded Cinematic Universe",
+        "p": [
+          "While the producer did not verify any ongoing discussions about the Mahabharata, his current slate remains remarkably ambitious. He is actively expanding his multi-part adaptation of the Ramayana into a massive, interconnected mythological cinematic universe designed to captivate global audiences.",
+          "Recent reports confirmed that this expansive storytelling approach will soon incorporate various spin-off features and standalone projects. These planned additions will spotlight specific characters from the main narrative, including standalone explorations for figures such as Surpanakha, Jatayu, Indrajit, Angad, and a dedicated project featuring Sunny Deol as Lord Hanuman."
+        ]
+      },
+      {
+        "h": "Mutual Respect and Industry Admiration",
+        "p": [
+          "Although an official partnership between the producer and the famed director has not been announced, the two prominent figures have frequently expressed public admiration for each other's work. This visible mutual respect has significantly fueled ongoing speculation among cinema enthusiasts regarding a dream collaboration down the line.",
+          "Previously, the acclaimed director lauded the impressive scale and grand ambition behind the upcoming Nitesh Tiwari directorial venture. In response, Malhotra expressed his gratitude on social media, thanking him for the encouraging words and drawing a parallel in their shared mission to elevate Indian storytelling onto the world stage."
+        ]
+      },
+      {
+        "h": "Upcoming Release Schedule",
+        "p": [
+          "Anticipation for the foundational film of this expanding universe continues to reach fever pitch as its theatrical debut approaches. Directed by Nitesh Tiwari and spearheaded by the producer's grand vision, the movie features a star-studded main cast including Ranbir Kapoor, Sai Pallavi, and Yash.",
+          "The first instalment is officially scheduled for a worldwide theatrical release on November 5. Meanwhile, planning for the franchise's future is already well underway, with the second instalment slated to hit cinemas during the Diwali holiday in 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra responded to viral fan theories about a potential Mahabharata film with SS Rajamouli while attending the Los Angeles premiere of Ramayana. While making no official announcement regarding a collaboration, Malhotra praised the legendary director and focused attention on the massive multi-part mythological universe he is currently building."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra is the producer of Ramayana.",
+      "SS Rajamouli is a filmmaker.",
+      "Ramayana stars Ranbir Kapoor, Sai Pallavi, and Yash.",
+      "Ramayana is directed by Nitesh Tiwari.",
+      "The first instalment of Ramayana releases worldwide on November 5.",
+      "The second instalment of Ramayana is slated for a Diwali 2027 release."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "SS Rajamouli",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Surpanakha",
+        "Jatayu",
+        "Indrajit",
+        "Angad",
+        "Lord Hanuman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Mahabharata"
+      ]
+    },
+    "keywords": [
+      "Namit Malhotra Mahabharata",
+      "SS Rajamouli Ramayana producer",
+      "Ramayana movie release date",
+      "Namit Malhotra SS Rajamouli"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135293691,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana Producer Namit Malhotra Responds to Viral Buzz About a Mahabharata Collaboration with SS Rajamouli",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-29T12:00:28+05:30"
+  },
+  "zufqje": {
+    "id": "zufqje",
+    "type": "news",
+    "headline": "International Girl Group KATseye Announces Expanded Tour Dates Across Asia and Australia",
+    "dek": "The acclaimed pop act has added eleven fresh concert dates to their schedule, bringing their extensive live performances to multiple new regions early next year.",
+    "body": [
+      {
+        "h": "Expanding the Live Itinerary",
+        "p": [
+          "The internationally recognized music ensemble has officially extended their ongoing concert series, adding eleven brand-new performance dates spanning across Asia, Australia, and New Zealand. This upcoming leg of the schedule is set to kick off in early 2027, giving loyal supporters in these regions an opportunity to experience the group live on stage.",
+          "Promoted by Live Nation, the newly announced leg begins on January 27 at the Yokohama Arena in Japan. From there, the routing travels through major metropolitan areas before concluding its run on March 5 at Spark Arena."
+        ]
+      },
+      {
+        "h": "Tour Stops and Schedule Details",
+        "p": [
+          "Following the opening performance in Japan, the itinerary includes stops in Manila, Hong Kong, Seoul, Cebu, Singapore, Bangkok, and Taipei. After taking a scheduled ten-day break, the performers will head down under for concerts in Sydney and Melbourne.",
+          "The general ticket sales for these newly added international performances are scheduled to open up to the public on Friday, November 6 at local times through the official group web portal."
+        ]
+      },
+      {
+        "h": "Returning to Friendly Territories",
+        "p": [
+          "This upcoming journey marks a swift return for the musicians, who previously visited the region earlier in the year for promotional activities, fan question-and-answer sessions, and industry showcases.",
+          "Members previously expressed a strong fondness for their time abroad, with bandmate Lara Raj sharing with media networks that the group deeply enjoyed their stay and would happily spend extended periods performing there again."
+        ]
+      },
+      {
+        "h": "Lineup Questions and Member Hiatus",
+        "p": [
+          "While the schedule is firmly set, questions remain regarding the exact roster of performers who will take the stage for these international dates, specifically concerning member Sophia Laforteza.",
+          "The management label previously initiated a temporary leave for Laforteza to prioritize her personal wellness and mental health. However, recent announcements from the label indicate a planned return to live performances in January, aligning well with the start of the Asia routing."
+        ]
+      },
+      {
+        "h": "Recent Milestones and Album Success",
+        "p": [
+          "The group has been busy establishing major chart achievements, currently navigating their first-ever arena tour across North America. These concurrent dates celebrate their recent musical releases, including a successful album that claimed the top spot on major charts earlier in the year.",
+          "This recent musical milestone follows a previous release that also performed remarkably well on survey charts, further cementing the ensemble's growing global presence and commercial appeal."
+        ]
+      },
+      {
+        "h": "Documentary Release and Media Presence",
+        "p": [
+          "Alongside their live music endeavors, supporters can also explore a recently launched documentary feature that chronicles the group's journey. The project is currently accessible for digital viewing across streaming platforms in domestic and international regions.",
+          "The ensemble also recently made a high-profile appearance at a major fashion event, where several members shared updates regarding future touring plans and member returns."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The international pop ensemble KATSEYE has expanded their concert schedule with eleven new performances across Asia, Australia, and New Zealand for early next year. General ticket sales begin on November 6, while questions surrounding the complete touring lineup and member returns continue to circulate alongside their ongoing North American arena run."
+        ]
+      }
+    ],
+    "facts": [
+      "The Wildworld Tour expands with 11 new shows across Asia, Australia, and New Zealand.",
+      "The new leg starts on January 27 at Yokohama Arena in Yokohama, Japan.",
+      "The tour concludes on March 5 at Auckland's Spark Arena.",
+      "The general onsale for the concerts begins Friday, November 6 at 2pm local time.",
+      "Lara Raj, Megan Skiendiel, Yoonchae Jeong, and Daniela Avanzini performed at the Victoria's Secret Fashion Show 2026.",
+      "Sophia Laforteza went on a temporary hiatus in April for mental health and wellness.",
+      "The album WILD reached No. 1 on the Billboard 200 in August."
+    ],
+    "entities": {
+      "people": [
+        "Yoonchae Jeong",
+        "Megan Skiendiel",
+        "Lara Raj",
+        "Daniela Avanzini",
+        "Sophia Laforteza",
+        "Hayden Panettiere",
+        "Forrest Frank",
+        "J. Cole",
+        "Kendrick Lamar",
+        "Nicki Minaj",
+        "Donald Trump",
+        "Taylor Swift",
+        "George Strait",
+        "Lee Thomas Miller",
+        "NE-YO",
+        "Travis Kelce",
+        "Prince William"
+      ],
+      "titles": [
+        "WILD",
+        "Beautiful Chaos",
+        "KATSEYE: WILD HEARTS",
+        "The Jesus Generation"
+      ]
+    },
+    "keywords": [
+      "KATSEYE Wildworld Tour",
+      "KATSEYE Asia Australia dates",
+      "KATSEYE tour tickets November 6",
+      "Sophia Laforteza return KATSEYE"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/10/P108QSNG-e1792420817723.jpg?w=1024",
+        "caption": "International Girl Group KATseye Announces Expanded Tour Dates Across Asia and Australia",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 06:43:29 +0000"
   }
 };

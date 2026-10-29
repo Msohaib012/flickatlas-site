@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T08:17:54Z",
-    "run_id": "40655569818",
-    "status": "success",
-    "checked": {
-     "candidates": 93,
-     "detail": "RSS/Atom items across 139 sources; 16 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana producer Namit Malhotra calls Los Angeles premiere his “Oscar moment” ahead of November 5 release",
-      "Filmibeat TripTales EXCLUSIVE! Malaika Arora Shares Why Abu Dhabi Should On Your Travel List This Diwali",
-      "Scene Censor Report: Suriya, Nazriya Nazim And Naslen Film Gets U/A Certificate, Runtime Revealed",
-      "King: Shah Rukh Khan's New Poster Leaves Fans In Awe Of His Fierce Avatar, Say ‘Biggest Tsunami Loading..’",
-      "Lupin Part 4 Ending Explained: Who Is The Copycat, And Does Assane Die?",
-      "'Drishyam 3 The Conclusion' BO Day 27 [LIVE]: Chases Rs 375 crore India net mark",
-      "Ramayana first reactions: Viewers compare Ranbir Kapoor-Yash's film to Lord of the Rings, music receives mixed response",
-      "Robert Downey Jr and Chris Evans have a Diwali surprise for Indian Marvel fans as Avengers: Doomsday gets early release",
-      "Sai Pallavi shares update on Ramayana Part 2 shooting at LA world premiere. Watch",
-      "Ramayana early reviews: Ranbir's Lord Rama called pure, Yash's Ravana a standout",
-      "cricketer virender sehwag shouts at priyanka chahar choudhary swara bhaskar shehzad poonawalla tehseen poonawalla video tmovb dskc 2682227 2026 10 28",
-      "yeh jawaani hai deewani to animal 7 ranbir kapoor characters fans still remember photo gallery 156420369",
-      "ABC’s News10 Reporter Leaving After 4 Months, Reveals Reason",
-      "Jennifer Lawrence’s ‘Sexy Mom’ Goal Comes With a Boob Job",
-      "53-Episode Netflix Thriller Series Is A Different Kind Of Political Drama",
-      "#Rutba Upcoming EP 8 | #HibaBukhari | #TalhaChahour | #ZahidAhmed | #MehwishHayat | #shorts",
-      "Best Scene | Rutba | Mehwish Hayat | Talha Chahour | ARY Digital",
-      "'Conscience does not permit': LHC's Justice Kayani resigns, cites executive's growing control over judiciary",
-      "9 Indian-sponsored terrorists killed in Balochistan IBOs: ISPR",
-      "Main Khandani Larki Hoon 😡 #shorts #hibaaziz #danialafzalkhan #areejmohyudin #dastoor #greentv"
-     ],
-     "updated": [],
-     "count": 34,
-     "detail": "34 stories, 0 duplicates removed, 59 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T08:55:06Z",
     "run_id": "40659724692",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "45 stories, 0 duplicates removed, 55 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T08:18:05Z",
-    "run_id": "40655569818",
+    "run_at": "2026-10-29T06:52:10Z",
+    "run_id": "40831659585",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 110,
+     "detail": "RSS/Atom items across 137 sources; 18 source(s) errored"
     },
     "changed": {
      "added": [
-      "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
-      "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere"
+      "Varun Sharma and makers of Naam – To Live Is War part ways amid scheduling commitments",
+      "Fool In Love Episode 7 Release Timings TODAY: Will Ing-Yok's Secret Romance Turn Into A Breakup Drama?",
+      "Yeh Rishta Kya Kehlata Hai Written Update Oct 29: AbhiMaan Hope Maira Forgets Kabir, He Can't Burn Her Photo",
+      "Director Rajkumar Periasamy Reveals How Mammootty Came On Board For Dhanush's OM",
+      "Clayface North America Box Office: Batman’s Villain Leaves Behind Lee Cronin’s The Mummy",
+      "Karan Johar Meets Scotland’s First Minister John Swinney As Bollywood Eyes New Filming Destinations",
+      "Jailer 2 North America Box Office: Becomes Kollywood’s Highest-Grossing Film Of All Time In 13 Days",
+      "Opinion: Ramayana Is Not About Songs But Story — Why Dialogues Matter Most",
+      "Manoj Muntashir Admits Adipurush Dialogues Were Bad But Defends Its Songs",
+      "Pankaj Tripathi reacts to Mirzapur making top 10 global shows list 9 times",
+      "Namit Malhotra making 'Mahabharata' with SS Rajamouli? - WATCH",
+      "Samay says he is chilling with his girlfriend; sparks fresh buzz",
+      "Karan Johar on ghosting Varun Dhawan after film clash on KWK episode with Janhvi Kapoor",
+      "Ranbir reunites with 'YJHD' co-star Poorna at 'Ramayana' premiere",
+      "Preity Zinta’s Karwa Chauth; actor jokes moon is missing",
+      "Varun Dhawan regrets his ‘8 hits in a row’ boast against Ranbir Kapoor, Ranveer Singh on Koffee With Karan, says he jinxed his success",
+      "Sharvari dances with OG Rajshri heroine Madhuri Dixit to Yeh Prem Mol Liya song, calls it a ‘surreal’ moment with her idol",
+      "Digital world isolates people, cinema offers collective experience, says Imtiaz Ali",
+      "bitcoin since trump s return and what the senate s clarity act defeat means for india 3077201.html",
+      "didnt get iit cse ai first ug programmes are opening up new pathways 3077199.html"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 52,
+     "detail": "52 stories, 0 duplicates removed, 58 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T06:52:23Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Producer Namit Malhotra Responds to Viral Buzz About a Mahabharata Collaboration with SS Rajamouli",
+      "International Girl Group KATseye Announces Expanded Tour Dates Across Asia and Australia"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T08:18:05Z",
-    "run_id": "40655569818",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 26, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T06:52:23Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": {
+     "candidates": 33,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 26, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2119,27 +2109,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T08:29:16Z",
-    "run_id": "40655569818",
-    "status": "success",
-    "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 84,
-     "detail": "+0 new rows, 84 updated rows, 124 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2553,19 +2535,27 @@
      "detail": "+0 new rows, 11 updated rows, 280 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T06:57:33Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": {
+     "candidates": 291,
+     "detail": "291 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 280 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2808,30 +2798,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T09:07:00Z",
-    "run_id": "40659724692",
-    "status": "success",
-    "checked": {
-     "candidates": 84,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
-      "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 84 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3296,19 +3275,30 @@
      "detail": "api-news.json 70 items, api-trends.json 0 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T06:57:35Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": {
+     "candidates": 72,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "International Girl Group KATseye Announces Expanded Tour Dates Across Asia and Australia",
+      "Ramayana Producer Namit Malhotra Responds to Viral Buzz About a Mahabharata Collaboration with SS Rajamouli"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 72 items, api-trends.json 0 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3566,19 +3556,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3839,29 +3829,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T08:18:05Z",
-    "run_id": "40655569818",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 34 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 0/5, upcoming_releases 4/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
-      "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4306,31 +4286,29 @@
      "count": 2
     },
     "reason": null
-   }
-  ],
-  "overseas_ai": [
+   },
    {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T08:19:48Z",
-    "run_id": "40655569818",
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T06:52:23Z",
+    "run_id": "40831659585",
     "status": "success",
     "checked": {
-     "candidates": 18,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 36"
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 52 still unprocessed; today by category: movies 3/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
     },
     "changed": {
      "added": [
-      "Jailer 2 (1234139)",
-      "Nayyi Navelli (1654581)",
-      "Ranabaali (1389379)",
-      "Udta Teer (1375156)"
+      "Ramayana Producer Namit Malhotra Responds to Viral Buzz About a Mahabharata Collaboration with SS Rajamouli",
+      "International Girl Group KATseye Announces Expanded Tour Dates Across Asia and Australia"
      ],
      "updated": [],
-     "count": 4
+     "count": 2
     },
     "reason": null
-   },
+   }
+  ],
+  "overseas_ai": [
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4572,24 +4550,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 185,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4909,24 +4882,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 197,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5241,19 +5214,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5498,22 +5476,27 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 59,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
     "run_at": "2026-10-28T09:07:07Z",
     "run_id": "40659724692",
     "status": "skipped",
@@ -5740,22 +5723,27 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-28T09:07:07Z",
     "run_id": "40659724692",
     "status": "skipped",
@@ -5978,6 +5966,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T05:57:33Z",
     "run_id": "40825697302",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5988,16 +5986,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T09:07:07Z",
     "run_id": "40659724692",
     "status": "skipped",
@@ -6220,6 +6208,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T05:57:33Z",
     "run_id": "40825697302",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6230,16 +6228,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T08:29:27Z",
-    "run_id": "40655569818",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T09:07:07Z",
     "run_id": "40659724692",
     "status": "success",
@@ -6462,6 +6450,16 @@
     "category": "Box Office",
     "run_at": "2026-10-29T05:57:33Z",
     "run_id": "40825697302",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6651,8 +6649,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T06:57:47Z",
+    "run_id": "40831659585",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T05:57:33Z"
+ "updated_at": "2026-10-29T06:57:47Z"
 }
