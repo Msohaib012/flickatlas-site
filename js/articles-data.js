@@ -18727,5 +18727,237 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 18:21:51 +0000"
+  },
+  "sqzlt": {
+    "id": "sqzlt",
+    "type": "news",
+    "headline": "Bano Episode 17 — Watch on Geo TV",
+    "dek": "Bano episode 17 aired on 2026-10-29 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 17 aired on 2026-10-29 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=8pgIPRr2hWo"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Mehar-un-nisa apni beti Bano se kehti hai ke woh Sharyar ka khayal rakhey kyun ke yeh uski zimmedari hai. Mehar-un-nisa aur Zarfsha ka behas hota hai jo Bano ko apne haath se granola aur yogurt deti hai. Bano ke husband uske paas aate hain aur newspaper aur porridge offer karte hain. Zarfsha apney baap se kehti hai ke woh usko aur Noor-un-nisa ko alag karein aur Noor-un-nisa ko chhor dein. Mehar-un-nisa aur Zarfsha baat karte hain ke Noor-un-nisa ko kaise alag kiya jaye. Murtaza aur Mehar-un-nisa ki meeting hoti hai jahan woh apne project discuss karte hain. Mehar-un-nisa aur Sharyar ki baat hoti hai. Bano ki phone par Rumi se baat hoti hai jo usse poochti hai ke sab theek hai ya nahi. Bano udas ho jaati hai jab Rumi usse shadi ke baare mein baat karti hai. Episode yahan khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 17 aired on 2026-10-29.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=8pgIPRr2hWo",
+      "YouTube views: 483,141.",
+      "Episode summary added 2026-10-29."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/8pgIPRr2hWo/hqdefault.jpg",
+        "caption": "Bano Episode 17",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-29T17:00:00Z"
+  },
+  "1btctpu": {
+    "id": "1btctpu",
+    "type": "news",
+    "headline": "Miranda Hart Opens Up About Emotional Return to Television on Celebrity Traitors Following 10-Year Battle with ME",
+    "dek": "The comedian and actress discusses how her body went into shock during her comeback on the BBC reality show after spending years bedbound by myalgic encephalomyelitis and Lyme disease.",
+    "body": [
+      {
+        "h": "A Welcome Return to the Spotlight",
+        "p": [
+          "Comedian Miranda Hart recently marked her major television comeback by joining the cast of the BBC programme Celebrity Traitors. The project serves as her first significant television appearance since her popular self-titled sitcom concluded in 2015. While she has made brief appearances elsewhere over the years, chronic illness forced her to step back from the spotlight for an extended period.",
+          "Speaking about her return, Hart expressed immense excitement to be back on screen, describing how the opportunity felt like a breath of fresh air after years of staying indoors. Her involvement in the reality competition brought a wave of enthusiasm from fans eager to see her back on television."
+        ]
+      },
+      {
+        "h": "The Long Struggle with ME and Lyme Disease",
+        "p": [
+          "Behind her cheerful public persona, the 53-year-old star has spent the last decade battling severe health issues. Hart revealed that she suffered from myalgic encephalomyelitis, commonly known as ME or chronic fatigue syndrome, which was ultimately traced back to a bacterial infection from Lyme disease.",
+          "At the height of her illness, Hart was left entirely bedbound and unable to leave her house for months at a time. She detailed her harrowing health journey in her 2024 autobiography, explaining how the condition stripped away her joy and left her dealing with an invisible chronic illness that required immense resilience to endure."
+        ]
+      },
+      {
+        "h": "Initial Misdiagnosis Over Three Decades",
+        "p": [
+          "The path to discovering the root cause of her suffering was remarkably arduous. Medical professionals took 33 years to correctly identify that Hart was battling Lyme disease, having initially mislabelled her symptoms as agoraphobia, an anxiety disorder connected to unfamiliar environments.",
+          "The prolonged uncertainty surrounding her health added layers of difficulty to her daily life. Managing debilitating fatigue and physical pain without clear answers for decades made her eventual recovery and return to work all the more significant."
+        ]
+      },
+      {
+        "h": "Experiencing Shock on Set",
+        "p": [
+          "Returning to a high-intensity television environment was no small feat for someone who had spent years recovering in isolation. During an appearance on This Morning alongside hosts Dermot O'Leary and Sian Welby, Hart admitted that her body went into a state of shock upon her return.",
+          "Comparing the experience to a boarding school outward-bound trip or a murder mystery weekend, she noted that while her enthusiasm carried her through, the physical toll was palpable. She still deals with elements of fatigue and pain, requiring courage to take such a massive step forward."
+        ]
+      },
+      {
+        "h": "Emotional Connections and Viral Moments",
+        "p": [
+          "Filming the BBC show also brought deep emotional resonance. Hart became particularly emotional when fellow contestant Joe left the programme, highlighting the strong bonds and connections formed during the competition.",
+          "Her reflections on friendship and thriving despite suffering have since resonated widely, turning her words about connection into a viral voiceover trend across social media platforms. Fans have also playfully challenged her to perform her trademark sitcom gallop down the castle corridors."
+        ]
+      },
+      {
+        "h": "Support from Husband Richard Fairs",
+        "p": [
+          "Throughout her time filming in Scotland, Hart was supported by her husband, Richard Fairs, whom she married in October 2024. The couple traveled together to Inverness for the production of the series.",
+          "Having her husband nearby provided steady support as she navigated the physical and emotional demands of participating in the hit television show while continuing to manage her ongoing recovery."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Miranda Hart marked her major TV comeback on Celebrity Traitors after a 10-year battle with ME and Lyme disease that left her bedbound. She revealed that her body went into shock during the emotional experience, having previously faced a 33-year delay in receiving her correct diagnosis."
+        ]
+      }
+    ],
+    "facts": [
+      "Miranda Hart is 53 years old.",
+      "Her sitcom Miranda ended in 2015.",
+      "She battled ME and Lyme disease for 10 years.",
+      "It took medics 33 years to discover she had Lyme disease.",
+      "She married Richard Fairs in October 2024."
+    ],
+    "entities": {
+      "people": [
+        "Miranda Hart",
+        "Dermot O'Leary",
+        "Sian Welby",
+        "Joe",
+        "Richard Fairs"
+      ],
+      "titles": [
+        "Celebrity Traitors",
+        "Miranda",
+        "This Morning"
+      ]
+    },
+    "keywords": [
+      "Miranda Hart Celebrity Traitors",
+      "Miranda Hart ME Lyme disease",
+      "Miranda Hart TV return",
+      "Celebrity Traitors BBC"
+    ],
+    "images": [],
+    "published": "2026-10-29T19:53:09Z"
+  },
+  "108ek5i": {
+    "id": "108ek5i",
+    "type": "news",
+    "headline": "Oscar Winner Jessie Buckley Set for West End Return on Modest Daily Rate",
+    "dek": "Academy Award winner Jessie Buckley is stepping away from multi-million-pound movie paydays to star in a new play on London's West End for a standard union rate.",
+    "body": [
+      {
+        "h": "The West End Commitment",
+        "p": [
+          "Academy Award-winning actress Jessie Buckley is taking on a prominent new theatrical role in London, trading massive film paychecks for a modest company wage. Despite commanding fees reaching up to £4.5 million per movie, the 36-year-old performer will receive a daily rate of just £140 for her upcoming stage run.",
+          "She is set to star in the new play Afterbirth at the intimate 400-seat Royal Court Theatre. According to the venue's artistic director, David Byrne, Buckley will adhere to the exact same union-agreed company rate applied to every other actor in the production."
+        ]
+      },
+      {
+        "h": "Rehearsals and Performance Pay",
+        "p": [
+          "Buckley will take to the stage for eight performances each week throughout the limited engagement of Afterbirth. For her weekly efforts, she will collect a total of £971, matching the compensation structure experienced by other high-profile stars such as John Lithgow, Tilda Swinton, and Gary Oldman since Byrne took leadership of the institution in 2024.",
+          "This egalitarian wage structure stands in stark contrast to reported financial arrangements at other West End venues, where major Hollywood names have occasionally commanded upwards of £20,000 per week."
+        ]
+      },
+      {
+        "h": "About the Play Afterbirth",
+        "p": [
+          "Written by Nina Segal and directed by Maria Aberg, Afterbirth offers a raw look at early parenthood and life following childbirth. The production has been characterized as a funny, furious, and unflinching exploration of its subject matter.",
+          "The play is scheduled to make its world debut on January 15, 2028, and will continue its run at the Royal Court Theatre until February 26 of that same year."
+        ]
+      },
+      {
+        "h": "A Broader Season of New Works",
+        "p": [
+          "The Royal Court Theatre's broader upcoming slate features a wide array of world premieres and high-profile productions. Among the highlights is The Apology, featuring Emmy-winner Tobias Menzies alongside V, which explores themes of sexual violence and family trauma from March to April.",
+          "Additionally, the venue will host the European premiere of Branden Jacobs-Jenkins's acclaimed drama Purpose, alongside Juliet Stevenson leading Ciara Elizabeth Smyth's domestic thriller The Briar Patch, and Georgie Dettmer's military veteran drama War Face."
+        ]
+      },
+      {
+        "h": "Nurturing Emerging Talent",
+        "p": [
+          "Alongside established names, the theatre continues its tradition of supporting new voices through open-submission initiatives. The venue reviews upwards of 3,000 new plays annually to select participants for its dedicated festivals.",
+          "The programming also includes the return of the Young Playwrights Award festival, providing a platform for teenage writers aged 13 to 18 from across the United Kingdom to showcase their creative output."
+        ]
+      },
+      {
+        "h": "Artistic Director's Vision",
+        "p": [
+          "Reflecting on the ambitious line-up, artistic director David Byrne emphasized the unique draw of the Royal Court for artists wanting to engage with original material. He noted that the theatre provides an environment of untrodden snow where writers and actors can build totally original plays.",
+          "Following the institution's 70th-anniversary celebrations, Byrne expressed immense pride in assembling a collection of adventurous, knotty new works that could only find a suitable home on their stage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Oscar-winning actress Jessie Buckley will star in the upcoming West End play Afterbirth at the Royal Court Theatre for a standard union rate of £140 a day. Despite previously earning up to £4.5 million per film, she will earn £971 a week for eight performances as part of the theatre's commitment to equal company pay."
+        ]
+      }
+    ],
+    "facts": [
+      "Jessie Buckley is 36 years old.",
+      "Jessie Buckley won the Best Actress Oscar for the film Hamnet.",
+      "Jessie Buckley will be paid £140 a day for her West End role.",
+      "Afterbirth will run at the Royal Court Theatre on London's West End.",
+      "David Byrne is the artistic director of the Royal Court Theatre.",
+      "Jessie Buckley will be paid £971 a week for eight performances.",
+      "Afterbirth opens on January 15, 2028 and runs until February 26, 2028.",
+      "Afterbirth is written by Nina Segal and directed by Maria Aberg."
+    ],
+    "entities": {
+      "people": [
+        "Jessie Buckley",
+        "David Byrne",
+        "John Lithgow",
+        "Tilda Swinton",
+        "Gary Oldman",
+        "Nina Segal",
+        "Maria Aberg",
+        "Branden Jacobs-Jenkins",
+        "Tobias Menzies",
+        "V",
+        "Juliet Stevenson",
+        "Ciara Elizabeth Smyth",
+        "Georgie Dettmer",
+        "Benjamin Kuffour",
+        "Alex Medland",
+        "Aneesha Srinivasan"
+      ],
+      "titles": [
+        "Afterbirth",
+        "Hamnet",
+        "Purpose",
+        "The Apology",
+        "The Crown",
+        "The Briar Patch",
+        "War Face",
+        "Working Men",
+        "We're Gonna Kill Billy"
+      ]
+    },
+    "keywords": [
+      "Jessie Buckley Afterbirth",
+      "Jessie Buckley West End",
+      "Royal Court Theatre Afterbirth",
+      "Jessie Buckley £140 a day"
+    ],
+    "images": [],
+    "published": "2026-10-29T19:53:09Z"
   }
 };

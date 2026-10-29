@@ -500,6 +500,29 @@ window.FA_REVIEWS = {
     "verdict": "Avaraachan & Sons is at best harmless if viewed with a lenient eye, offering a traditional family drama experience. While it features a familiar setup, the strong performances and fun comedic moments make it a decent watch for fans of the cast. Recommended as a casual, old-fashioned family entertainer.",
     "weaknesses": "The film relies on a 'lot many times' seen usual story that can feel like an old-fashioned family drama dressed up as a new-age entertainer. Reviewers note it sometimes has a wafer-thin narrative that requires leniency from the audience, as it relies too heavily on lead charm to compensate for familiar plotting."
   },
+  "1294189": {
+    "categories": {
+      "Action & Cinematography": 8.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "As a physical, old-school action thriller, the film relies heavily on its high-octane premise rather than explicit comedic moments. Its entertainment value stems from the thrilling dynamic of a televised pursuit and a public rooting for the fugitive. The overall tone remains serious and focused on the tension of the cross-country escape.",
+    "overall": 7.0,
+    "performances": "Liam Neeson stars in the lead role as the decorated war veteran, delivering a decent performance that anchors the narrative. The cast also features Marisa Tomei, Ving Rhames, Michael Chiklis, and Brett Tucker. Together, they support a familiar structure driven by the central character's plight.",
+    "source": "FlickAtlas Review",
+    "story_plot": "A falsely accused war hero, Ryan Fang Flanagan, finds himself with nothing left to lose and leads police on an epic, televised cross-country car chase. He receives help from members of his former Special Forces Army battalion along the way. Meanwhile, a fascinated public closely monitors the pursuit and roots for his safe getaway.",
+    "strengths": [
+      "Propulsive pacing",
+      "Impressive stunt work",
+      "Entertaining action and chase sequences",
+      "Nostalgic old-school action thriller feel"
+    ],
+    "verdict": "The Mongoose is a solid choice for viewers who miss physical, old-school action thrillers featuring practical cars, roads, helicopters, and stunt work. While the story and premise feel familiar, the entertaining chase sequences and Liam Neeson's lead performance make it worth a watch.",
+    "weaknesses": "The film tends to suffer from a familiar setup that does not significantly reinvent the typical Liam Neeson-style action thriller. Reviewers note that the story and overall structure can feel a bit weak as the narrative progresses, leaning heavily on tropes seen in past genre entries."
+  },
   "1355228": {
     "categories": {
       "Action & Cinematography": 5.0,
@@ -926,6 +949,29 @@ window.FA_REVIEWS = {
     "verdict": "Baththa is a brilliant, emotionally resonant film that never compromises on its writing or filmmaking. With superb narration and outstanding performances across the board, it offers a refreshing and heartwarming take on unexpected bonds. Highly recommended for viewers looking for a meaningful and entertaining cinematic experience.",
     "weaknesses": "While the film is largely praised for its tight execution and brilliant writing, a premise involving a prolonged confinement in a school restroom carries narrative risks of pacing fatigue. Such a singular, constrained setup requires careful handling to prevent the middle stretches from testing the audience's suspension of disbelief. Reviewers note that navigating this unconventional setup demands patience, though the payoff ultimately justifies the journey."
   },
+  "1541477": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 7.0,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The film blends drama and comedy through a constant and hilarious negotiation between its contrasting lead characters. Their opposing world views create humorous friction as every disagreement gives way to love, complicity, and a constant struggle. The premise offers an entertaining look at their relationship as they try to navigate their new adventure together.",
+    "overall": 7.0,
+    "performances": "The film stars Elio Germano as the family-minded Simone and Maria Chiara Giannetta as the independent Lucia, supported by Lidia Vitale, Anna Bonaiuto, Diop Virginia, and Caterina Guzzanti. Reviewers note that young Olga upstages the adults whenever she appears, delivering a performance that is very pleasing and delightful.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In the Italian drama film You, Me, Us, a couple faces the difficult path to adoption, determined to become parents despite their complex vulnerabilities. Simone is a methodical man who loves rules and family celebrations, while Lucia is a free-spirited, independent woman who is allergic to conventions and has always been opposed to motherhood. When they pursue adoption, their opposing backgrounds and world views put their love and relationship to the test, bringing their deepest fears and desires to the surface.",
+    "strengths": [
+      "Strong lead performances from Elio Germano and Maria Chiara Giannetta",
+      "Engaging contrast between the two main characters",
+      "Heartfelt exploration of adoption and relationships",
+      "Delightful supporting presence by young Olga"
+    ],
+    "verdict": "You, Me, Us is a heartfelt dramedy anchored by the strong chemistry of its lead actors as they navigate the challenges of adoption. It offers a pleasant and entertaining watch for fans of character-driven Italian drama. Recommended for anyone looking for a warm exploration of love and identity.",
+    "weaknesses": "While the premise is engaging, the narrative runs the risk of relying on a familiar romantic comedy setup for its adoption storyline. Viewers looking for a deeply unique plot may find some familiar beats along the way."
+  },
   "1561726": {
     "categories": {
       "Action & Cinematography": 5.5,
@@ -1042,6 +1088,53 @@ window.FA_REVIEWS = {
     "verdict": "418 delivers enough effective scares and a strong performance from Chaithra J Achar to satisfy horror fans looking for a decent Indian thriller. However, its half-hearted execution holds it back from greatness. It is worth a watch for genre enthusiasts, though expectations for the overarching story should be kept moderate.",
     "weaknesses": "Despite a promising start and effective scares, the film ultimately suffers from a half-hearted narrative structure. Reviewers note that the execution stumbles as the story progresses, making it feel less than fully realized."
   },
+  "1610901": {
+    "categories": {
+      "Action & Cinematography": 7.5,
+      "Comedy & Entertainment": 8.5,
+      "Direction": 7.5,
+      "Music & BGM": 7.5,
+      "Performances": 8.5,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "The film blends dark comedy with crime drama, functioning as a fun-filled comedy of errors that strikes a balanced tone between humor and action. Reviewers highlight great comic timing from cast members like Mahira Khan and Tabish Hashmi, who help drive the film's entertainment value. It offers an engaging experience driven by ambition, greed, and the unintended consequences of taking shortcuts.",
+    "overall": 8.0,
+    "performances": "The main cast features performances from Fahad Mustafa, Mahira Khan, Javed Sheikh, Tabish Hashmi, and Salahuddin Tunio. Reviewers specifically praise the great chemistry between the leads and the strong comic timing delivered by Mahira Khan and Tabish Hashmi. Tabish Hashmi receives notable mention for his big-screen debut feeling completely natural and spot on.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Barkat is an honest, hard-working cleaner struggling to make ends meet alongside his wife, Almaas, who is tired of their modest life. The couple turns to petty crime to improve their financial situation, but their small risks quickly spiral out of control and pull them into the dangerous world of seasoned criminals. As guns, chases, and escalating chaos enter the picture, their domestic lives become thoroughly entangled with crime and danger.",
+    "strengths": [
+      "Great comic timing",
+      "Strong chemistry between leads",
+      "Fun-filled comedy of errors",
+      "Engaging blend of action and humor",
+      "Enjoyable title track"
+    ],
+    "verdict": "Aag Lagay Basti Mein delivers an entertaining and chaotic ride that balances dark comedy and crime drama effectively. Thanks to strong performances and solid comic execution, it is well worth a trip to the cinema. Strongly recommended for audiences looking for a fun Pakistani film experience.",
+    "weaknesses": "Some reviewers noted that the film could have been edited better to make it shorter. Additionally, it features vulgar gestures, cursing, and language that makes it less suitable for watching with younger kids."
+  },
+  "1629064": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.5,
+      "Music & BGM": 6.5,
+      "Performances": 8.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The film brings a vibrant, fanciful, and exuberant tone to its immigrant story, blending an entertaining premise with big emotions. While it deals with serious themes of prejudice and cultural walls, the lively spirit of the protagonist keeps the narrative engaging. The production offers a stylized look at life in the Latino barrio without relying on traditional sitcom gags.",
+    "overall": 7.0,
+    "performances": "The cast features strong work led by Mexican actor, dancer, and singer Juan Daniel García Treviño as the migrant protagonist Liborio. He is joined by a notable ensemble cast including Leslie Grace, Rubén Blades, Eddie Marsan, and Rosario Dawson. Reviewers specifically highlight the strong lead performance that anchors this fanciful and emotional tale.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Campeón Gabacho follows Liborio, an endearing and mischievous young migrant whose only talent is taking punches. Escaping a harsh reality in Mexico, he crosses the Rio Grande to find a better life in the United States and settles in a soundstage-recreated Jackson Heights in New York City. Through his fists, his love, and his words, he faces cultural walls and prejudices to become an improbable local boxing champion and hero in an unknown land.",
+    "strengths": [
+      "Strong lead performance by Juan Daniel García Treviño",
+      "Vibrant and stylized visual storytelling",
+      "Big on emotions and kinetic energy",
+      "Fanciful take on the immigrant experience"
+    ],
+    "verdict": "Jonás Cuarón's Campeón Gabacho is a vibrant, beautifully stylized effort that packs a punch with its emotional core and strong lead performance. While it flirts with familiarity and narrative clichés in its latter half, its kinetic energy and unique protagonist make it a worthwhile watch. Recommended for audiences looking for a colorful and heartfelt immigrant story.",
+    "weaknesses": "Despite its energetic direction and visual flair, the film can feel light on subtlety and occasionally falls into cliché. Some viewers may find that the narrative struggles to fully land its thematic message about migrants, with a final stretch that feels somewhat prescindible."
+  },
   "1649061": {
     "categories": {
       "Action & Cinematography": 6.5,
@@ -1094,6 +1187,100 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Nayyi Navelli is considered a complete disappointment and a cringe-worthy experience by some viewers who found the second half weak. While it features a talented cast and an interesting premise involving a bride suspected of witchcraft, it struggles to deliver on its comedic and supernatural promises. Skip this one unless you are deeply curious about Bollywood's latest horror-comedy releases.",
     "weaknesses": "Reviewers describe the movie as a muddled mix of mythology and horror that becomes chaotic and forgettable. The storyline feels boring in parts, with poor execution and a struggle to effectively blend social commentary, horror, and humor. Ultimately, the film fails to maintain its momentum as it progresses."
+  },
+  "1657630": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "The film does not focus on comedy, keeping its tone serious and focused on its thrilling, supernatural premise. Entertainment value is instead derived from the suspenseful jungle setting and the eerie confrontation with an ancient presence. It relies strictly on tension rather than lightheartedness or jokes.",
+    "overall": 6.5,
+    "performances": "The cast features Claudio Cataño, Alejandro Buitrago, Hector Sánchez, Andrea Olaya, and Quique Sanmartin. Reviewers note that performances in genre tales of this type can offer lovely central highlights and uniformly excellent execution. The actors ground the elite military unit facing these terrifying jungle anomalies.",
+    "source": "FlickAtlas Review",
+    "story_plot": "An elite military unit embarks on a mission deep into the South American jungle. There, they encounter a deadly supernatural force and an ancient presence that continues to claim anyone entering its domain. The narrative weaves in atmospheric elements of spiritualism and historical context.",
+    "strengths": [
+      "Engaging premise",
+      "Atmospheric setting",
+      "Strong central performances",
+      "Rich historical context"
+    ],
+    "verdict": "The Awakening provides an atmospheric and engaging genre experience anchored by solid performances, though it suffers from narrative stumbles in its latter half. It is recommended for fans of supernatural thrillers who appreciate an eerie jungle setting.",
+    "weaknesses": "The story struggles with clarity and spirals a little out of control in the final scenes. While it offers the low-key pleasures of an old-fashioned thriller, the plot can feel muddled and fails to develop with enough consistency."
+  },
+  "1674938": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 7.0,
+      "Direction": 8.5,
+      "Music & BGM": 8.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "As a melancholic and deeply moving drama, the film focuses heavily on cultural preservation, memory, and a tense life-threatening journey rather than lighthearted humor. Entertainment value is derived from its rich storytelling and the emotional resonance of the three women traversing landscapes scarred by hydropower projects. The narrative relies on dramatic urgency and cultural elements like an old Kinnauri folksong rather than traditional comedic relief. Viewers looking for light entertainment will find a serious, poignant premise instead of jokes or comedic setups.",
+    "overall": 8.0,
+    "performances": "While specific top cast member names are not available, the film features a midwife, an elderly grandmother, and a teenage granddaughter embarking on a vital journey. The production is deeply rooted in real-life family history from Kinnaur, lending authentic cultural weight to the roles portrayed on screen. Reviewers highlight the remarkable achievement of the project within its short runtime, supported by a rich tapestry of memory and land. The interaction between the three women anchors the emotional core of this brief cinematic journey.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In the remote Himalayan village of Kandar, a midwife faces a life-threatening childbirth without medical recourse and must find a healing wild herb. She is joined by an elderly grandmother and her teenage granddaughter on a journey across lands scarred by hydropower projects that uncovers the erosion of ecology and memory. Guided by an old Kinnauri folksong, the three women experience a convergence of tradition and technology that revives a fading language, a disappearing landscape, and deep kinship with the earth. Director Nihaarika Negi built the film from years of conversation with her family in Kinnaur, including her aunt who worked as a midwife.",
+    "strengths": [
+      "hauntingly beautiful visuals",
+      "remarkably achieved in barely thirty minutes",
+      "deeply moving exploration of memory and land",
+      "rooted in real-life family conversations from Kinnaur",
+      "poignant convergence of tradition and technology"
+    ],
+    "verdict": "Tenfa is a remarkable and hauntingly beautiful achievement that makes a powerful impression in barely thirty minutes of screen time. It offers a deeply moving, visually rich look at a disappearing culture, anchored by personal family history and a compelling Himalayan journey. Recommended for viewers seeking thoughtful, melancholic drama rooted in real-world ecological and cultural preservation.",
+    "weaknesses": "The brevity of the thirty-minute runtime may leave some viewers desiring a more expansive exploration of the complex issues surrounding hydropower projects and cultural erosion. Because the premise relies heavily on a melancholic mood and a singular life-threatening catalyst, the emotional weight can feel compressed. The film runs the risk of rushing through its dense thematic material regarding disappearing landscapes and language in such a short window."
+  },
+  "1699721": {
+    "categories": {
+      "Action & Cinematography": 8.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 10.0,
+      "Music & BGM": 9.0,
+      "Performances": 9.5,
+      "Story & Screenplay": 9.5
+    },
+    "comedy": "The film functions strictly as a tense thriller rather than a comedy, focusing heavily on psychological unease and suspense. Its entertainment value derives entirely from its dark material and thrilling premise rather than any humorous elements.",
+    "overall": 9.5,
+    "performances": "The top cast features Shaan Shahid, Sonya Husyn, and Javed Sheikh, working alongside director Shaan Shahid. Reviewers note that the actors are in perfect sync with the material, delivering incredibly well-acted portrayals that ground the psychological tension.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Psycho is a psychological thriller that explores the fragile boundary between perception and reality. Characters confront their inner demons and moral conflicts while navigating suspense-driven events that challenge identity, truth, and human nature. The film engages with dark material, leading audiences through suspenseful and disturbing turns.",
+    "strengths": [
+      "top-notch direction",
+      "incredibly well acted",
+      "superb sound design",
+      "relentless and screechy score",
+      "extremely creepy and unnerving suspense"
+    ],
+    "verdict": "Psycho (2026) is an exceptionally crafted psychological thriller that delivers relentless suspense and brilliant direction. With standout performances and top-tier technical elements, it is strongly recommended for fans of intense and gripping cinema.",
+    "weaknesses": "While the film is widely regarded as a classic thriller, the dark and demanding material may present a disturbing experience for some viewers. Additionally, the complex navigation of identity and moral conflict requires close attention to fully appreciate the psychological depth."
+  },
+  "1703707": {
+    "categories": {
+      "Action & Cinematography": 5.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 4.5,
+      "Music & BGM": 6.0,
+      "Performances": 6.5,
+      "Story & Screenplay": 4.0
+    },
+    "comedy": "The film does not focus heavily on traditional comedy, as its primary genre is a dramatic romance dealing with intense emotional conflict and social restrictions. However, some reviewers note that it offers enjoyable moments and can serve as a decent one-time watch that keeps viewers engaged. Its entertainment value relies more on the dramatic premise and character interactions rather than lighthearted humor.",
+    "overall": 5.0,
+    "performances": "The cast features Farhan Saeed, Rana Ejaz, Mamya Shajaffar, and Mehrunisa Iqbal under the direction of Imran Malik. Reviewers highlighted the chemistry between Farhan Saeed and Mamya Shajaffar, noting that their pairing feels fresh and works well on screen. Farhan Saeed received particular praise for being very good in his role, especially during intense scenes.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Luv Di Saun is a drama and romance directed by Imran Malik that follows a young man from the inner city of Lahore. He falls in love with a woman dealing with personal struggles and social restrictions amidst violence, emotional conflict, and societal opposition. The film explores themes of sacrifice, destiny, womanhood, and love against the cultural backdrop of Old Lahore. The story unfolds over its runtime as the couple faces various hardships.",
+    "strengths": [
+      "Chemistry between Farhan Saeed and Mamya Shajaffar",
+      "Old Lahore vibes beautifully captured",
+      "Engaging moments for a one-time watch",
+      "Strong intense scenes"
+    ],
+    "verdict": "Luv Di Saun is a mixed bag that primarily appeals to fans of its lead actors through its strong chemistry and Old Lahore setting. However, due to its thin story, poor craftsmanship, and sound design issues, it may only satisfy viewers looking for a casual one-time watch. Recommendation is reserved for dedicated fans of the cast.",
+    "weaknesses": "Reviewers pointed out that the film is poorly crafted and offers little substance to the audience, resulting in an absolute washout in content. Additionally, the story stretches thin with a plot worth very little actual screen time, and the production suffers from bad sound design while remaining constricted to a few sets."
   },
   "1727734": {
     "categories": {
@@ -1240,6 +1427,29 @@ window.FA_REVIEWS = {
     "verdict": "Surviving Hurricane Otis delivers a worthwhile dramatic experience filled with emotion, thrills, and themes of extreme courage. It is recommended for audiences looking for an intense survival story based on a real disaster. Viewers should stay invested in the journey of the brothers as they face the devastating storm.",
     "weaknesses": "The film has flaws inherent in its familiar disaster survival setup, which some viewers might find standard. While it succeeds in creating high tension and drama, the narrative pacing may occasionally test viewer patience during the unfolding catastrophe."
   },
+  "1783159": {
+    "categories": {
+      "Action & Cinematography": 4.5,
+      "Comedy & Entertainment": 4.0,
+      "Direction": 5.0,
+      "Music & BGM": 5.0,
+      "Performances": 5.0,
+      "Story & Screenplay": 4.5
+    },
+    "comedy": "The documentary leans into its conceptual premise rather than traditional humor or overt gags. The entertainment value stems from the fascinating behind-the-scenes look at how characters are constructed for the screen. It keeps the tone focused on the filmmaking process itself rather than lighter comedic beats. Viewers looking for lighthearted fun will find a more thought-provoking exploration instead.",
+    "overall": 4.5,
+    "performances": "The film features actor Nawazuddin Siddiqui and director Dibakar Banerjee as key participants in the documentary. Customer reviews do not detail specific acting techniques, but the cast's involvement centers on exploring the reality behind fictional character creation. Siddiqui's preparation to inhabit a role forms a core focal point of the documentary's progression.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Actor Nawazuddin Siddiqui is tasked with studying Ashok, the actual resident of the room the actor is going to inhabit for the filming of Star, Dibakar Banerjee's short in Bombay Talkies. The fiction director, the documentary filmmakers, and the actor bit by bit construct the lead character, Porandar Vithal. Ashok feeds this construction through his own life, pondering the nature and cost of the cinematic process. Customer feedback on the project is mixed, with some reviewers highlighting positive aspects while others report mixed experiences.",
+    "strengths": [
+      "Fascinating behind-the-scenes premise",
+      "Insightful look at the cinematic process",
+      "Strong participation from Nawazuddin Siddiqui and Dibakar Banerjee",
+      "Thought-provoking exploration of character creation"
+    ],
+    "verdict": "The Ordinary Star offers a unique documentary gaze into the invasive nature of filmmaking and the cost of cinematic creation. With mixed customer reviews and a specialized focus, it is best recommended for dedicated cinephiles interested in the mechanics of acting and direction. While it features intriguing contributions from its cast, general viewers might want to approach with tempered expectations.",
+    "weaknesses": "Customer feedback on the project remains quite mixed, suggesting that the documentary approach may not fully engage all viewers. The conceptual nature of the storytelling can lead to a range of experiences, where some might find the execution less compelling than the initial premise. Without traditional narrative structures, parts of the film may test the patience of audiences looking for a conventional storyline."
+  },
   "1791529": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -1286,6 +1496,52 @@ window.FA_REVIEWS = {
     "verdict": "Naa Wife Missing is an okayish thriller featuring neat twists and commendable performances from Varun Sandesh and Shweta Basu Prasad. While it has some engaging moments, it falls short of its full potential due to a lack of emotional depth and a rushed runtime. It is worth a watch for fans of Telugu OTT thrillers looking for a quick mystery.",
     "weaknesses": "The movie needed more emotional depth, and the decision to keep the runtime crisp was not a wise move, causing the overall impact to fall short. Additionally, the quality of the movie is not quite on par with some regional counterparts."
   },
+  "1794830": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 5.5,
+      "Music & BGM": 6.0,
+      "Performances": 5.5,
+      "Story & Screenplay": 5.0
+    },
+    "comedy": "The film leans heavily into its dramatic and supernatural premise rather than traditional humor. Entertainment value comes from the unfolding magical turn and the emotional weight of the narrative. Reviewers do not highlight specific comedic gags or lighthearted elements within the runtime.",
+    "overall": 5.5,
+    "performances": "The short film stars Nimisha Nair, Sarah Hashmi, and Shobhna Bhardwaj under the direction of Ambarien Alqadar. While specific acting reviews for these cast members are limited in the provided sources, the drama relies on its small ensemble to anchor the New Delhi setting and the protagonist's rebellious journey.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set in a working-class neighborhood in New Delhi, the 16-minute drama follows a girl's rebellion that takes an unexpected magical turn. Reviewers note that such stories can involve deep topics, superpowers, and murder mysteries, though some audiences find certain aspects miserable or difficult to watch. The narrative explores themes of growth, loss, and unexpected twists.",
+    "strengths": [
+      "intriguing New Delhi setting",
+      "unexpected magical twist",
+      "compact 16-minute runtime",
+      "directed by Ambarien Alqadar"
+    ],
+    "verdict": "Stray Girls is a brief, 16-minute Bollywood drama that offers an intriguing glimpse into a New Delhi neighborhood rebellion with a magical twist. While its dark and difficult tone may not appeal to every viewer, it remains a notable short work directed by Ambarien Alqadar. Recommended for curious viewers looking for a quick, unconventional narrative.",
+    "weaknesses": "Some reviewers find material with similar titles to be miserable or difficult to watch, indicating that the tone may alienate certain viewers. Additionally, the brief 16-minute runtime leaves limited room to fully develop its complex themes of rebellion and magic."
+  },
+  "1794887": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "The film brings a whimsical fantasy and comedic premise built around unconventional romances, a mysterious pillow, and dramatic shenanigans through the city. Reviewers note fun vacation vibes and lighthearted drama, though much of the humour relies on the sheer absurdity of the main character's situation rather than traditional stand-up beats.",
+    "overall": 7.0,
+    "performances": "The cast features Sofia Ashraf, Supriya Joshi, Prayrak Mehta, Sarita Chaddha, and Gurpal Singh under the direction of Aastha Tiku. While direct critical notices for this specific ensemble are sparse, reviewers of related works in the search results praise well-developed characters, relatable protagonists, and wonderful performances by actors handling tricky dual personas.",
+    "source": "FlickAtlas Review",
+    "story_plot": "When an underground musician's romance with her pillow is cut short by her mother, she embarks on a delirious odyssey through Mumbai. Her friendships, desires, and reality are tested by an enigmatic homeless poet as the abandoned pillow begins to develop a will of its own. Other reviews and stories touch upon cruise ship romances, academic careers threatened by old silent movie personas, and characters navigating dramatic shenanigans.",
+    "strengths": [
+      "Striking emotional underlayers within the fantastic",
+      "A unique and unusual storyline premise",
+      "Relatable main characters navigating bizarre scenarios",
+      "Clear production and engaging exploration of relationships"
+    ],
+    "verdict": "Dreamboat offers a surreal, imaginative fantasy comedy that leans heavily into its unusual premise and emotional underlayers. While its brief runtime and eccentric plot may not work for everyone, it remains a striking and unique watch for adventurous viewers.",
+    "weaknesses": "The short runtime and surreal premise risk leaving certain plot threads feeling cut off or underdeveloped. Viewers looking for a straightforward narrative might find the transition between reality and the bizarre journey through Mumbai difficult to fully grasp."
+  },
   "1794929": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -1309,6 +1565,52 @@ window.FA_REVIEWS = {
     "verdict": "Doosra presents an interesting experiment that weaves cricket and a young girl's personal liberation into a single narrative. While the incredible actor performances and fascinating premise offer plenty of intrigue, the film ultimately falls short of its ambitious goals. Viewers interested in sports-themed dramas and coming-of-age stories may still find it worth a look.",
     "weaknesses": "Despite its interesting experiment and strong performances, reviewers note that the film ultimately falls short. Fashioned as a coming-of-age saga, the ambitious storytelling struggles to maintain its momentum, leading to a narrative that does not quite reach its full potential."
   },
+  "1798181": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "The film does not focus on humor, functioning instead as a dramatic and psychological experience rather than a comedy. Its entertainment value relies entirely on the premise, atmosphere, and the tense interactions between characters. Audiences looking for lighthearted laughs will not find them here, as the tone remains serious throughout.",
+    "overall": 6.5,
+    "performances": "Reviewers note that the actors do a capable job, with Odessa Young acting as a capable final girl whose fierceness is tempered by the hint of repressed romance. Other cast members listed include Joe Cole, Lewis Gribben, Siobhan Finneran, Francis Magee, and Rory McCann. The performances lean heavily into the psychological and emotional nature of the story.",
+    "source": "FlickAtlas Review",
+    "story_plot": "A social-media influencer goes in search of an old, forgotten folk singer named Naseem Bano, whose claim to fame was an off-hand compliment from Nusrat Fateh Ali Khan in 1988. He wants her to sing for his Instagram feed, but she has forgotten herself until a late-night flash of memory in the hospital. Meanwhile, reviews describe a chilling folk-horror thriller and a sinister campfire tale of guilt, need, fear, and madness set in a 19th-century isolated fishing outpost.",
+    "strengths": [
+      "chilling folk-horror atmosphere",
+      "psychological and emotional depth",
+      "capable performances from the cast",
+      "steadily mounting sense of unease"
+    ],
+    "verdict": "The Damned offers a chilling folk-horror thriller experience driven by atmospherics and psychological tension rather than cheap shocks. While it suffers from a predictable strategy and a final act that fails to fully deliver, it remains worth a watch for fans of atmospheric horror.",
+    "weaknesses": "Reviewers mention that the film can be a frustrating experience that fumbles the ball at almost every turn and just doesn't quite come together. The final act, intended to be spooky or otherworldly, does not do an excellent job, and the overall strategy can feel fairly predictable."
+  },
+  "1798823": {
+    "categories": {
+      "Action & Cinematography": 7.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 7.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "While the dramatic setup of the film leaves little room for traditional gags or jokes, the interactions carry a sharp, strained tension between the characters. The entertainment value stems from the emotional friction of the road trip premise rather than lighthearted humor. Reviewers note that certain strange or absurd cinematic moments can evoke unexpected amusement, though the core of the experience remains dramatic.",
+    "overall": 7.0,
+    "performances": "The cast features Rajshri Deshpande, Archana Patel, and Vijay Maurya in a grounded Indian dramatic setting. The actors navigate the heavy emotional beats of grief and youthful resentment with conviction. Their portrayal of strained relationships anchors the brief narrative.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Directed by Swapnil S. Sonawane, the 26-minute Hindi drama follows Ambika as she drives her late best friend's 13-year-old son, Dhruv, back to boarding school after a sudden death. Their car ride is tense due to Dhruv's unexplained animosity, which escalates when careless driving destroys his prized windmill science project. The journey reaches a turning point when the boy confronts her with a painful shared secret.",
+    "strengths": [
+      "emotional road trip premise",
+      "compact 26-minute runtime",
+      "strong lead performances",
+      "poignant shared secret climax"
+    ],
+    "verdict": "Distance is a concise, emotional 26-minute drama that delivers a poignant snapshot of grief and strained bonds. Bolstered by its committed cast, it offers a worthwhile watch for fans of intimate storytelling, provided they do not mind its abrupt brevity.",
+    "weaknesses": "The short runtime leaves limited room to deeply explore the complex history between the characters, potentially making the narrative feel brief or abrupt. Appreciation of the dramatic tone and its strange, tense atmosphere may vary significantly from viewer to viewer."
+  },
   "1799668": {
     "categories": {
       "Action & Cinematography": 6.5,
@@ -1331,6 +1633,121 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Dhood (Sandstorm) is an intriguing, atmospheric, and promising film that deserves to be watched for its story, performances, and haunting desert-world setting. It provides an entertaining experience anchored by strong acting and a unique backdrop. Recommended for viewers who appreciate intense family dramas.",
     "weaknesses": "While the film has many strengths, viewers should be mindful of potential pacing issues typical of intense family dramas set in isolated locations. The heavy psychological friction might feel overwhelming for audiences seeking lighter entertainment. Additionally, the dark domestic countdown leaves limited room for narrative relief."
+  },
+  "1801513": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 7.0,
+      "Performances": 6.0,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "The film approaches its emotional and domestic premise with a grounded tone rather than focusing on traditional comedic elements. Reviewers note that related media can sometimes be a mixed bag of silly or funny moments, but this short concentrates primarily on the realistic relationship between a mother and her daughter. Its entertainment value stems from the emotional narrative and the exploration of daily life in the slum.",
+    "overall": 6.5,
+    "performances": "The cast and vocal performances center around the characters of Vimal and her daughter Sonali as they navigate their aspirations and learning challenges. Specific top cast details are not available for this animated short. The portrayal of their relationship highlights the emotional core of the narrative as depicted in the synopsis.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In Mumbai's Bhavani Nagar slum, domestic worker Vimal and her daughter Sonali reflect on education and ambition. Vimal never attended school and hoped Sonali would secure an office job, but Sonali was diagnosed as a slow learner. Directed by Eisha Nair, the animated short film portrays their bond with work, learning, and each other.",
+    "strengths": [
+      "Touching premise about education and ambition",
+      "Engaging focus on a mother-daughter bond",
+      "Grounded setting in a Mumbai slum",
+      "Thoughtful direction by Eisha Nair"
+    ],
+    "verdict": "Heartbeat is a brief and poignant animated short that offers a touching look at a mother and daughter in Mumbai. While its short runtime limits deeper exploration, the emotional bond between Vimal and Sonali makes it worth a watch. It is recommended for viewers interested in character-driven animated dramas.",
+    "weaknesses": "Because the runtime is only 8 minutes, the exploration of the heavy themes regarding education and being a slow learner feels somewhat brief. Viewers looking for a fully expanded narrative might find the short length leaves certain character arcs under-explored. The familiar dramatic setup also runs the risk of treading predictable emotional ground."
+  },
+  "1803288": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 6.5,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "While the sources do not focus heavily on humor, the film's premise offers an atmospheric and reflective experience. Its entertainment value relies on the premise of a sinking Himalayan town and the inhabitants reflecting on home. The brevity of the 24-minute runtime keeps the focus squarely on its central themes rather than comedic diversions.",
+    "overall": 6.5,
+    "performances": "The top cast for this 24-minute film is not available in the provided details. Reviewers discussing similar thematic or source materials note a mix of character dynamics, though specific acting credits remain unspecified here. The focus rests primarily on the town residents reflecting on home.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Directed by Pulkit Tomar, The Sinking Monastery of Light is a 24-minute Bollywood film in Hindi. The story follows the residents of a Himalayan town as it sinks under its own weight. Amidst this premise, the inhabitants reflect on the meaning and memory of home.",
+    "strengths": [
+      "Unique Himalayan town premise",
+      "Reflective thematic focus",
+      "Concise 24-minute runtime",
+      "Atmospheric setting"
+    ],
+    "verdict": "The Sinking Monastery of Light offers a brief, reflective look at residents in a sinking Himalayan town. Clocking in at 24 minutes, it is a short watch that may appeal to those interested in its unique premise. Overall, it serves as a modest cinematic meditation.",
+    "weaknesses": "The extremely short runtime of 24 minutes may leave viewers wanting more depth regarding the town sinking under its own weight. Furthermore, with top cast details unavailable, the audience has little specific character information to anchor onto during the reflections."
+  },
+  "1803295": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 6.0,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "The film does not focus on traditional humour or lighthearted entertainment, keeping its tone serious and grounded in its dramatic premise. Instead of leaning into comedy, the short runtime centers tightly on the emotional internal world of its young protagonist and the heavy silence surrounding her. Reviewers and the synopsis point toward a contemplative atmosphere rather than any comedic elements. The overall viewing experience relies entirely on character mood and the exploration of uncertainty.",
+    "overall": 6.5,
+    "performances": "The top cast list is not available, meaning specific actor names and their individual roles cannot be confirmed from the provided sources. Because details regarding the cast are missing, reviewers do not offer specific commentary on individual acting performances in the available facts. The drama inherently places a heavy burden on its young lead to convey isolation and quiet questioning without much spoken dialogue. Viewers must experience the narrative through the protagonist's silent journey rather than standout ensemble interactions.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Delicate Darling is a 13-minute Hindi drama directed by Pearl Malik. The coming-of-age story follows a young girl as she searches for answers while everyone around her seems to have already decided there are none. As certainty slips further out of reach, she finds herself increasingly alone with something no one is willing to name, learning for the first time that silence can make you question yourself before you begin to question the world.",
+    "strengths": [
+      "directed by Pearl Malik",
+      "concise 13-minute runtime",
+      "thought-provoking coming-of-age premise",
+      "focuses on the power of silence"
+    ],
+    "verdict": "Delicate Darling offers a brief, quiet look at a young girl facing isolation and self-doubt in a 13-minute drama directed by Pearl Malik. While the premise is intriguing for fans of thoughtful coming-of-age shorts, the lack of available cast information and reviewer details makes it an uncertain watch. Viewers who appreciate atmospheric, silent storytelling may find it worth a short look.",
+    "weaknesses": "The total absence of a listed top cast leaves the acting talent entirely unverified by the available facts. Furthermore, the minimalist 13-minute premise risks leaving key narrative questions unanswered, and the limited search results provide no elaboration on how the plot unfolds. Without reviewer consensus on pacing or specific scenes, it is difficult to gauge how well the emotional weight lands."
+  },
+  "1803308": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 7.0,
+      "Direction": 8.5,
+      "Music & BGM": 7.0,
+      "Performances": 7.5,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "While the documentary is not a comedy, it offers a visually splendid and transporting experience into a different world and way of life. The entertainment value lies in its fascinating exploration of ancestral knowledge and the intersection of rural traditions with modern technology. It provides a peaceful yet engaging glimpse into everyday survival and environmental preservation.",
+    "overall": 8.0,
+    "performances": "Because the documentary focuses on real women across Arunachal Pradesh preserving their forest knowledge, traditional cast performances are not applicable in a fictional sense. The subjects documented display a profound and authentic connection to their environment as they gather plants and interact with the woods. Their daily routines and lab analyses form the grounded human core of the film.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Across Arunachal Pradesh, women carry generations of ancestral forest knowledge by gathering plants, herbs, and other produce to sustain their families. Directed by Ananya Kashyap, the documentary follows a deceptively simple rhythm of rural life, feeding animals, and simple earth living. It showcases a journey into an extraordinary way of life where gathering mushrooms and analyzing taxonomy in a lab meet modern technology.",
+    "strengths": [
+      "Visually splendid journey into an extraordinary way of life",
+      "Striking juxtaposition of rural earth living and modern technology",
+      "Insightful look at ancestral forest knowledge in Arunachal Pradesh",
+      "Fascinating use of cool microscope and lab effects"
+    ],
+    "verdict": "Adi Nyemeh – Daughters of the Forest is a visually splendid and thought-provoking 29-minute documentary directed by Ananya Kashyap. It successfully transports the audience to a different world where ancient traditions meet modern technology. Recommended for viewers interested in cultural documentaries and environmental preservation.",
+    "weaknesses": "The documentary's short 29-minute runtime may leave viewers wanting a deeper exploration of the growing social, economic, and environmental pressures mentioned in the synopsis. Additionally, the deceptive simplicity of its rhythm might feel understated for audiences seeking a more fast-paced narrative structure."
+  },
+  "1806232": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.5,
+      "Direction": 6.0,
+      "Music & BGM": 10.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "The film leans heavily into its intense romantic and dramatic premise rather than standard comedic relief, though some reviewers have noted elements of chaotically sincere entertainment. The entertainment value stems primarily from the picturesque settings, dramatic tensions, and the unfolding dynamics between the lead characters. It offers a familiar love story setup complete with unexpected turns and emotional highs and lows.",
+    "overall": 6.5,
+    "performances": "The film stars Gurmeet Choudhary as Akash and Isha Malviya as Tamannah, with both looking breathtaking in the love story. The main cast also features Shaan R Grover, Anushka Luhar, and Romanch Mehta in various roles. Reviewers highlight the strong presence of the leads as they navigate the emotional landscape of the narrative.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Tum Mere Ho is a heartfelt Hindi romantic drama directed by Ashish Panda that explores love, emotions, and unexpected twists. The narrative kicks off in picturesque Thailand, where Akash runs a skydiving company and escapes a toxic relationship for a family wedding. There, fate intervenes as he crosses paths with Tamannah, a vibrant and free-spirited woman. Their union faces obstacles from love and someone playing the villain.",
+    "strengths": [
+      "breathtaking lead performances",
+      "picturesque Thailand settings",
+      "stellar 10/10 music score",
+      "pure, unadulterated love story"
+    ],
+    "verdict": "Tum Mere Ho is a soothing reminder of pure, unadulterated love featuring breathtaking leads and fantastic music. While it works within a familiar romantic template, it offers enough emotional beats and picturesque scenery to recommend for fans of Bollywood romance.",
+    "weaknesses": "The film relies on a familiar love story setup that can feel a bit traditional. Some viewers may find certain narrative turns less innovative compared to contemporary romantic dramas."
   },
   "687163": {
     "categories": {
