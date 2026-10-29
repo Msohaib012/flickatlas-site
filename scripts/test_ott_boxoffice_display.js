@@ -79,6 +79,96 @@ for (const [scope, label] of [
     assert.doesNotMatch(listingHtml, /<dt>Worldwide total<\/dt>/, `listing must not imply worldwide scope for ${scope}`);
   }
 }
+
+// Homepage Box Office ranking: <=14-day releases first; within each age
+// group, source-backed 14-day report sums first, then existing Popular order.
+const rankingStart = source.indexOf('    const boxOfficeReleaseCutoffDate =');
+const rankingEnd = source.indexOf('    const boHasKind =', rankingStart);
+assert(rankingStart >= 0 && rankingEnd > rankingStart, 'homepage 14-day ranking anchors changed');
+const rankingCode = source.slice(rankingStart, rankingEnd) + '\nboPoolFor;';
+const rankingUI = {
+  industryOf: x => x.industry || 'world',
+  isStreamingOnly: x => !!x.streamingOnly,
+  titleOf: x => x.title || String(x.id),
+  esc: x => String(x ?? ''), img: x => x, fmtDate: x => x, fmtMoney: n => String(n),
+};
+const makeCandidate = (id, release, industry, dailyRows, extra = {}) => ({
+  id, title: String(id), type: 'movie', poster_path: '/poster.jpg', release_date: release,
+  industry, dailyRows, vote_average: 0, vote_count: 0, ...extra,
+});
+const rankHome = (fixtures, industry = 'bollywood') => {
+  const dwData = Object.fromEntries(fixtures.map(x => [String(x.id), x.dailyRows || []]));
+  const choose = vm.runInNewContext(rankingCode, {
+    today: '2026-10-30', todayIST: '2026-10-30', UI: rankingUI, window: {
+      FA_WORLDWIDE: { noRows: { total_usd: 999999999 }, old: { total_usd: 999999999 } },
+    },
+    pubAll: () => fixtures, dwData, typeOf: x => x.type || 'movie',
+  });
+  return normalize(choose(industry).map(x => x.id));
+};
+const capFixture = Array.from({ length: 10 }, (_, i) => makeCandidate(
+  `b${i}`, '2026-10-23', 'bollywood', [{ date: '2026-10-30', collection: (i + 1) * 100 }]
+));
+const rankedCap = rankHome(capFixture);
+assert.deepEqual(rankedCap, ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2', 'b1', 'b0']);
+assert.deepEqual(rankedCap.slice(0, 8), ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2']);
+assert.match(source, /const boPicks = boPoolFor\("bollywood"\)\.slice\(0, HOME_LIMITS\.boxoffice\)/);
+assert.match(source, /kind === "boxoffice" \? boPoolFor\(industry\)\.slice\(0, HOME_LIMITS\.boxoffice\)/);
+
+const gateFixture = [
+  makeCandidate('age14', '2026-10-16', 'bollywood', [{ date: '2026-10-17', collection: 20 }]),
+  makeCandidate('age15', '2026-10-15', 'bollywood', [{ date: '2026-10-30', collection: 999999 }], { vote_average: 10 }),
+  makeCandidate('outside-report-window', '2026-10-30', 'bollywood', [{ date: '2026-10-16', collection: 999999 }], { vote_average: 8 }),
+  makeCandidate('future-report', '2026-10-30', 'bollywood', [{ date: '2026-10-31', collection: 999999 }], { vote_average: 7 }),
+  makeCandidate('future-release', '2026-10-31', 'bollywood', [{ date: '2026-10-30', collection: 999999 }], { vote_average: 10 }),
+  makeCandidate('noRows', '2026-10-30', 'bollywood', [], { vote_average: 9, vote_count: 10000 }),
+  makeCandidate('zero-only', '2026-10-30', 'bollywood', [{ date: '2026-10-30', collection: 0 }]),
+  makeCandidate('string-amount', '2026-10-30', 'bollywood', [{ date: '2026-10-30', collection: '999999' }], { vote_average: 6 }),
+  makeCandidate('duplicate-day', '2026-10-30', 'bollywood', [
+    { date: '2026-10-30', collection: 400 }, { date: '2026-10-30', collection: 600 },
+  ], { vote_average: 5 }),
+  makeCandidate('old-data', '2026-10-10', 'bollywood', [{ date: '2026-10-29', collection: 100 }]),
+  makeCandidate('old-noRows', '2026-10-12', 'bollywood', [], { vote_average: 10, vote_count: 100000 }),
+  makeCandidate('streaming-only', '2026-10-30', 'bollywood', [{ date: '2026-10-30', collection: 999999 }], { streamingOnly: true }),
+  makeCandidate('festival', '2026-10-30', 'bollywood', [{ date: '2026-10-30', collection: 999999 }], { date_kind: 'festival' }),
+  makeCandidate('series', '2026-10-30', 'bollywood', [{ date: '2026-10-30', collection: 999999 }], { type: 'tv' }),
+  makeCandidate('pakistani', '2026-10-30', 'pakistani', [{ date: '2026-10-30', collection: 999999 }]),
+  makeCandidate('world-a', '2026-10-23', 'world', [{ date: '2026-10-29', collection: 100 }]),
+  makeCandidate('world-b', '2026-10-25', 'world', [{ date: '2026-10-30', collection: 300 }]),
+  makeCandidate('world-noRows', '2026-10-24', 'world', [], { vote_average: 9 }),
+  makeCandidate('world-old-data', '2026-10-10', 'world', [{ date: '2026-10-30', collection: 500 }]),
+  makeCandidate('world-old-noRows', '2026-10-12', 'world', [], { vote_average: 8 }),
+];
+const rankedGate = rankHome(gateFixture);
+assert.deepEqual(rankedGate, [
+  'age14', 'zero-only', 'noRows', 'outside-report-window', 'future-report', 'string-amount', 'duplicate-day',
+  'age15', 'old-data', 'old-noRows',
+], 'recent releases lead; reported rows rank first within each age group, then popularity');
+assert.deepEqual(rankedGate.slice(0, 8), [
+  'age14', 'zero-only', 'noRows', 'outside-report-window', 'future-report', 'string-amount', 'duplicate-day', 'age15',
+], 'an older release fills the eighth slot only after recent releases are exhausted');
+assert.deepEqual(rankHome(gateFixture, 'international'), [
+  'world-b', 'world-a', 'world-noRows', 'world-old-data', 'world-old-noRows',
+], 'World Cinema is independently ranked and uses older titles only after recent ones');
+assert.deepEqual(rankHome([
+  makeCandidate('tie-old-release', '2026-10-22', 'bollywood', [{ date: '2026-10-30', collection: 100 }]),
+  makeCandidate('tie-new-release', '2026-10-23', 'bollywood', [{ date: '2026-10-30', collection: 100 }]),
+  makeCandidate('tie-old-report', '2026-10-24', 'bollywood', [{ date: '2026-10-29', collection: 100 }]),
+]), ['tie-new-release', 'tie-old-release', 'tie-old-report'], 'ties break by latest report, then release date');
+assert.deepEqual(rankHome([
+  makeCandidate('popular-tie-old', '2026-10-21', 'bollywood', [], { vote_average: 8, vote_count: 100 }),
+  makeCandidate('popular-tie-new', '2026-10-22', 'bollywood', [], { vote_average: 8, vote_count: 100 }),
+  makeCandidate('popular-more-votes', '2026-10-18', 'bollywood', [], { vote_average: 8, vote_count: 200 }),
+  makeCandidate('popular-lower-rating', '2026-10-30', 'bollywood', [], { vote_average: 7, vote_count: 10000 }),
+]), ['popular-more-votes', 'popular-tie-new', 'popular-tie-old', 'popular-lower-rating'], 'fallback uses existing rating/vote order, newest release breaks ties');
+
+const picksStart = listingSource.indexOf('  const picks =');
+const picksEnd = listingSource.indexOf('\n  main.innerHTML', picksStart);
+assert(picksStart >= 0 && picksEnd > picksStart, 'Box Office See All selector anchor changed');
+const seeAllSelector = listingSource.slice(picksStart, picksEnd);
+assert.match(seeAllSelector, /\.sort\(\(a, b\) => \(b\.release_date \|\| ""\)\.localeCompare\(a\.release_date \|\| ""\)/);
+assert.doesNotMatch(seeAllSelector, /\.slice\(/, 'See All remains uncapped and newest-first');
+
 const zeroToday = card(entry, [{ date: today, collection: 0 }]);
 assert.match(zeroToday, /<dt>Today · 29 Oct<\/dt><dd>\$0<\/dd>/, 'reported zero is not missing data');
 const noRows = card(entry, []);

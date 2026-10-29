@@ -348,13 +348,18 @@
        no TMDB lookup runs — enrichment is skipped. */
     const searchesHtml = `<section class="section" data-sec="trending-searches" id="homeTrendingSearches"><h2>Trending Searches</h2><p role="status">Loading trend feed…</p></section>`;
 
-    /* ---------- Box Office: recently-released published movies, newest
-       first (release date DESC) — the same pool and order as /box-office.
-       Today / 7-day sums come only from the reported rows; "Recorded" is
-       the sum of the tracked days (never a lifetime gross — FA_PUBLISHED
-       carries no revenue figure). Titles with no day-wise rows yet show
-       an honest "Not reported" state. First 8 cards; no section at all
-       when no published movie qualifies. ---------- */
+    /* ---------- Box Office homepage: active-film leaders, per industry.
+       Prefer releases from the latest 14 days. Within each age group,
+       rank titles with numeric daily reports in the latest 14 IST reporting
+       dates by reported sum, then use Movies' existing Popular order
+       (rating, votes, newest release) to fill missing slots. Never invent
+       collection amounts; older releases enter only after recent ones. ---------- */
+    const boxOfficeReleaseCutoffDate = new Date(today + "T00:00:00Z");
+    boxOfficeReleaseCutoffDate.setUTCDate(boxOfficeReleaseCutoffDate.getUTCDate() - 14);
+    const boxOfficeReleaseCutoff = boxOfficeReleaseCutoffDate.toISOString().slice(0, 10);
+    const boxOfficeReportStartDate = new Date(todayIST + "T00:00:00Z");
+    boxOfficeReportStartDate.setUTCDate(boxOfficeReportStartDate.getUTCDate() - 13);
+    const boxOfficeReportStart = boxOfficeReportStartDate.toISOString().slice(0, 10);
     /* Short "26 Oct" date for the Today cell (compact for mobile). */
     const shortDate = (s) => {
       const m = String(s || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
@@ -383,21 +388,59 @@
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
       return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(todayIST)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) { const scope = String(ww.scope || ""); const label = scope === "domestic-only-so-far" ? "Domestic reported to date" : scope === "domestic-opening-weekend" ? "Domestic opening weekend" : scope === "worldwide" ? "Worldwide total" : "Reported figure"; const descriptor = scope === "domestic-only-so-far" ? "Domestic collection reported to date" : scope === "domestic-opening-weekend" ? "Domestic opening-weekend collection" : scope === "worldwide" ? "Worldwide theatrical total" : "Reported box-office figure"; return `<div title="${UI.esc(descriptor)} · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>${UI.esc(label)}</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; } return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
     };
-    /* Box Office sort (2026-10-28 fix): release date DESC, then published_at
-       DESC, then recorded total DESC (India-Net rows, else the worldwide
-       fallback total). The old release-date-only sort left every title
-       sharing a release date (e.g. all five 23 Oct 2026 releases) in
-       arbitrary catalogue order, which read as unsorted. */
-    const boTotal = (x) => { const r = dwData[String(x.id)] || []; const s = r.reduce((a, rw) => a + (rw.collection || 0), 0); if (s) return s; const w = (window.FA_WORLDWIDE || {})[String(x.id)]; return (w && w.total_usd) || 0; };
-    const boSort = (a, b) => byNewest(a, b) || (boTotal(b) - boTotal(a));
-    /* Box Office (user order 2026-10-26): the SAME pool and order as
-       /box-office — recently-released published movies, newest first
-       (release date DESC). A title qualifies if it is released and (has
-       day-wise rows OR is fresh); titles with no rows yet show an honest
-       "not yet recorded" state in the card. First 8. */
-    const boHasRows = (x) => { const r = dwData[String(x.id)]; return Array.isArray(r) && r.length > 0; };
+    /* Box Office sort: source-backed 14-day sums first, then the site's
+       existing Movies > Popular order for titles without valid rows.
+       Duplicate report dates are ambiguous, so they are not used to rank
+       by collection. */
+    const boRecentTotals = new Map();
+    const boLatestReports = new Map();
+    const boHasRecentRows = (x) => {
+      const rows = dwData[String(x.id)];
+      if (!Array.isArray(rows)) return false;
+      const byDate = new Map();
+      for (const r of rows) {
+        if (!r || typeof r.date !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(r.date)
+          || r.date < boxOfficeReportStart || r.date > todayIST
+          || !Number.isFinite(r.collection) || r.collection < 0) continue;
+        if (byDate.has(r.date)) return false;
+        byDate.set(r.date, r.collection);
+      }
+      if (!byDate.size) return false;
+      const values = Array.from(byDate.values());
+      const sum14 = values.reduce((sum, amount) => sum + amount, 0);
+      const id = String(x.id);
+      boRecentTotals.set(id, sum14);
+      boLatestReports.set(id, Array.from(byDate.keys()).sort().pop() || "");
+      return true;
+    };
+    const boTotal = (x) => boRecentTotals.get(String(x.id)) || 0;
+    const boPopularSort = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
+      || (b.vote_count || 0) - (a.vote_count || 0)
+      || (b.release_date || "").localeCompare(a.release_date || "")
+      || (b.published_at || "").localeCompare(a.published_at || "")
+      || String(UI.titleOf(a) || "").localeCompare(String(UI.titleOf(b) || ""));
+    const boSort = (a, b) => {
+      const aRecentRelease = a.release_date >= boxOfficeReleaseCutoff;
+      const bRecentRelease = b.release_date >= boxOfficeReleaseCutoff;
+      if (aRecentRelease !== bRecentRelease) return aRecentRelease ? -1 : 1;
+      const aId = String(a.id), bId = String(b.id);
+      const aHasReports = boRecentTotals.has(aId), bHasReports = boRecentTotals.has(bId);
+      if (aHasReports !== bHasReports) return bHasReports ? 1 : -1;
+      if (!aHasReports) return boPopularSort(a, b);
+      return boTotal(b) - boTotal(a)
+        || (boLatestReports.get(bId) || "").localeCompare(boLatestReports.get(aId) || "")
+        || (b.release_date || "").localeCompare(a.release_date || "")
+        || boPopularSort(a, b);
+    };
+    /* Homepage keeps recent releases first, then uses older published
+       movies only when needed to fill the eight-card industry tab. See All
+       keeps its complete, uncapped newest-first selector. */
     const boPool = pubAll()
-      .filter(x => x && typeOf(x) === "movie" && x.poster_path && (x.release_date || "") && (x.release_date || "") <= today && x.date_kind !== "festival" && (boHasRows(x) || UI.isFresh(x)) && !UI.isStreamingOnly(x))
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path
+        && typeof x.release_date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(x.release_date)
+        && x.release_date <= today
+        && x.date_kind !== "festival" && !UI.isStreamingOnly(x))
+      .map(x => { boHasRecentRows(x); return x; })
       .sort(boSort);
     /* Box Office by industry (user order 2026-10-26): the same pool as
        /box-office, split by industry for the homepage switcher — the
@@ -412,8 +455,8 @@
     const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
-      ${switchButtons("boxoffice")}<p class="sec-sub">Recently-released films, newest first · Bollywood</p>
-      <div data-results>${boPicks.map(p => boCardHtml(p.entry, p.rows)).join("")}</div>
+      ${switchButtons("boxoffice")}<p class="sec-sub">14-day releases first · collections, then popularity · older titles only if needed · Bollywood</p>
+      <div data-results>${boPicks.length ? boPicks.map(p => boCardHtml(p.entry, p.rows)).join("") : '<p role="status">No recent reported collections for Bollywood releases.</p>'}</div>
     </section>` : "";
 
     /* ---------- OTT (owner order 2026-10-27): the separate OTT
@@ -1045,7 +1088,7 @@
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}&s=oldest` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=oldest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "Recently-released films, newest first · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "14-day releases first · collections, then popularity · older titles only if needed · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
@@ -1243,9 +1286,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
-
-
 
 
 
