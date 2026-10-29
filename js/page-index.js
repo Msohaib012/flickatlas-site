@@ -1137,7 +1137,7 @@
         if (kind === "ott") {
           section.querySelector("h2").textContent = "OTT";
           link.href = `/ott?f=${industry}${typeParam(type)}`;
-          section.querySelector(".sec-sub").textContent = "Movies now streaming, and what's coming next · " + industryLabel(industry) + " · " + typeLabel(type);
+          section.querySelector(".sec-sub").textContent = (type === "tv" ? "Recent TV premieres and confirmed upcoming OTT dates" : "Movies now streaming, and what's coming next") + " · " + industryLabel(industry) + " · " + typeLabel(type);
           const nowHost = section.querySelector('[data-results="now"]');
           const comingHost = section.querySelector('[data-results="coming"]');
           const nowItems = ottFor("now", industry, type);
@@ -1146,8 +1146,14 @@
              Industry=Bollywood + Type=TV Series the old "for Bollywood
              yet" line hid which filter was empty). */
           const ottTypeNoun = type === "tv" ? "TV series" : type === "all" ? "titles" : "movies";
-          if (nowHost) nowHost.innerHTML = nowItems.length ? nowItems.map(p => ottCardHtml(p, false)).join("") : `<p role="status">No ${ottTypeNoun} streaming on OTT for ${industryLabel(industry)} yet.</p>`;
-          if (comingHost) comingHost.innerHTML = comingItems.length ? comingItems.map(p => ottCardHtml(p, true)).join("") : `<p role="status">No upcoming OTT releases reported for ${industryLabel(industry)} ${type === "tv" ? "TV series" : "movies"} yet.</p>`;
+          const nowEmpty = type === "tv"
+            ? `No recent series premiere is confirmed in the published ${industryLabel(industry)} catalogue (past 30 days). Older streaming series are excluded from this latest-releases view.`
+            : `No ${ottTypeNoun} streaming on OTT for ${industryLabel(industry)} yet.`;
+          const comingEmpty = type === "tv"
+            ? `No published ${industryLabel(industry)} TV series has a confirmed upcoming OTT date.`
+            : `No upcoming OTT releases reported for ${industryLabel(industry)} ${ottTypeNoun} yet.`;
+          if (nowHost) nowHost.innerHTML = nowItems.length ? nowItems.map(p => ottCardHtml(p, false)).join("") : `<p class="ott-empty" role="status">${nowEmpty}</p>`;
+          if (comingHost) comingHost.innerHTML = comingItems.length ? comingItems.map(p => ottCardHtml(p, true)).join("") : `<p class="ott-empty" role="status">${comingEmpty}</p>`;
           return;
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : "Coming Soon & Most Awaited";
@@ -1282,7 +1288,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
 
 
 

@@ -2057,3 +2057,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 
 
 
+
+/* Empty OTT rails are explanatory text, not a narrow poster-card cell. */
+.ott-group .scroller:has(> .ott-empty){display:block}
+.ott-group .ott-empty{width:100%;margin:0;color:var(--muted);line-height:1.6}

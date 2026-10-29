@@ -427,8 +427,8 @@
     const renderList = (items) => {
       const list = main.querySelector("#viewerList");
       if (!list) return;
-      list.innerHTML = items.length ? items.map(renderReviewItem).join("")
-        : `<p class="prov-note">No viewer reviews yet \u2014 be the first to rate this movie.</p>`;
+      /* The aggregate line above owns the sole empty-state copy. */
+      list.innerHTML = items.length ? items.map(renderReviewItem).join("") : "";
     };
     const loadReviews = async () => {
       try {
@@ -542,7 +542,6 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
-
 
 
 
