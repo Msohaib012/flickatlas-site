@@ -140,6 +140,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-22",
+      "date_kind": "release",
+      "id": 1727734,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-21",
       "date_kind": "release",
       "id": 339474,
@@ -202,6 +218,22 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-01",
+      "date_kind": "release",
+      "id": 1515692,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-09-25",
@@ -511,6 +543,18 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2023-10-27",
+      "date_kind": "release",
+      "id": 1186823,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
         }
       ],
       "type": "movie"

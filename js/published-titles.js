@@ -2510,7 +2510,20 @@ window.FA_PUBLISHED = {
     "certification": "R",
     "release_date": "2026-10-22",
     "runtime": 89,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1371730": {
     "id": 1371730,
@@ -3955,7 +3968,14 @@ window.FA_PUBLISHED = {
     "release_date": "2023-10-27",
     "date_kind": "release",
     "runtime": 118,
-    "providers": []
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1794929": {
     "id": 1794929,
@@ -4373,7 +4393,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-01",
     "date_kind": "release",
     "runtime": 159,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Netflix Standard with Ads",
+        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "337266": {
     "id": 337266,

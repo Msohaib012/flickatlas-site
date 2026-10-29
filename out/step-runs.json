@@ -1433,24 +1433,6 @@
    {
     "step": "ott",
     "category": "OTT",
-    "run_at": "2026-10-28T15:53:39Z",
-    "run_id": "40720026277",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
     "run_at": "2026-10-28T16:53:48Z",
     "run_id": "40729919700",
     "status": "success",
@@ -1861,6 +1843,24 @@
      "detail": "now 43, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T15:40:51Z",
+    "run_id": "",
+    "status": "success",
+    "checked": {
+     "candidates": 51,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 46, coming 5"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
@@ -6039,16 +6039,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T15:59:00Z",
     "run_id": "40720026277",
     "status": "skipped",
@@ -6275,6 +6265,27 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T15:40:18Z",
+    "run_id": "",
+    "status": "success",
+    "checked": {
+     "candidates": 107,
+     "processed": 107,
+     "succeeded": 107,
+     "failed": 0,
+     "already_have_providers": 45,
+     "detail": "missing-provider titles fetched; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 107
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
@@ -6785,5 +6796,5 @@
    }
   ]
  },
- "updated_at": "2026-10-29T14:59:07Z"
+ "updated_at": "2026-10-29T15:40:51Z"
 }
