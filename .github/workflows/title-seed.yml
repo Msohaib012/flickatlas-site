@@ -37,25 +37,27 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 scripts/title-seed.py
-      - name: Bump asset version when titles changed
+      - name: Bump asset versions when generated data changes
         run: |
-          # Browsers cache static assets immutably per ?v= URL, so new
-          # titles behind the same ?v= would keep serving the old file.
-          if git diff --quiet js/published-titles.js; then
-            echo "titles unchanged, keeping ?v="
+          # Titles, OTT groups, and trending IDs are all browser-cached
+          # generated assets; bump URLs when any of them changes.
+          if git diff --quiet -- js/published-titles.js js/ott-data.js js/trending-data.js; then
+            echo "generated assets unchanged, keeping ?v="
           else
             NEWV="fa-$(date -u +%Y%m%d%H%M)"
             echo "bumping ?v= to $NEWV"
             find . -name '*.html' -not -path './.git/*' -exec sed -i -E "s/\?v=[A-Za-z0-9_-]+/?v=$NEWV/g" {} +
           fi
       - name: Commit if changed
-        # Commit-with-retry (stall fix 2026-10-28): same naive-commit loss
-        # as episode-guides — on conflict the titles regenerate via
-        # title-seed.py (TMDB lists + date rules are deterministic).
+        # Publish the catalogue, OTT/trending sidecars, and run receipt as
+        # one atomic change; the helper fails closed on undeclared outputs.
         env:
-          RETRY_ADD: "js/published-titles.js"
+          RETRY_ADD: >-
+            js/published-titles.js js/ott-data.js js/trending-data.js
+            out/step-runs.json out/source-refresh-state.json
           RETRY_REGEN: "python3 scripts/title-seed.py"
           RETRY_MESSAGE: "auto: title seed"
           RETRY_HTML_BUMP: "1"
+          RETRY_STRICT_OUTPUTS: "1"
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: bash scripts/commit_with_retry_standalone.sh

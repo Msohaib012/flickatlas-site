@@ -89,6 +89,66 @@ class RecentHindiDiscoveryTests(unittest.TestCase):
             self.assertEqual(sorted(pages), ["1", "2", "3", "4", "5"], source)
             self.assertEqual(len(lists[source]), 5, source)
 
+    def test_hindi_recent_sources_keep_fresh_slots_under_global_cap(self):
+        lists = {name: [] for name, _media, _path in SEED.SOURCES}
+        next_id = 2000
+        for name, media, _path in SEED.SOURCES:
+            count = 4 if name in SEED.HINDI_RECENT_SOURCES else 1
+            for _ in range(count):
+                item = {"id": str(next_id), "poster_path": "/poster.jpg"}
+                next_id += 1
+                if media == "movie":
+                    item["release_date"] = self.today
+                else:
+                    item["first_air_date"] = self.today
+                lists[name].append(item)
+
+        with patch.object(SEED, "date", FixedDate):
+            picked = SEED.select(lists, {}, SEED.SAFETY_CEILING)
+
+        counts = {name: sum(source == name for _tid, _media, source in picked)
+                  for name, _media, _path in SEED.SOURCES}
+        self.assertLessEqual(len(picked), SEED.SAFETY_CEILING)
+        for name in SEED.HINDI_RECENT_SOURCES:
+            self.assertGreaterEqual(counts[name], 2, name)
+        # The bounded Hindi reserve does not displace the existing sources.
+        for name, _media, _path in SEED.SOURCES:
+            if name not in SEED.HINDI_RECENT_SOURCES:
+                self.assertGreaterEqual(counts[name], 1, name)
+
+    def test_hindi_recent_backfill_reserve_leaves_global_slots(self):
+        lists = {name: [] for name, _media, _path in SEED.SOURCES}
+        next_id = 3000
+        for name, media, _path in SEED.SOURCES:
+            if name not in SEED.HINDI_RECENT_SOURCES:
+                continue
+            for days_ago in (30, 31, 32):
+                item = {"id": str(next_id), "poster_path": "/poster.jpg"}
+                next_id += 1
+                field = "release_date" if media == "movie" else "first_air_date"
+                item[field] = (FixedDate.today() - timedelta(days=days_ago)).isoformat()
+                lists[name].append(item)
+        # These broader all-language sources are newer than the Hindi
+        # candidates, so without a bounded reserve they would consume all
+        # four daily backfill slots.
+        for name, media in (("world_window", "movie"), ("new_tv", "tv")):
+            for days_ago in (12, 13, 14, 15):
+                item = {"id": str(next_id), "poster_path": "/poster.jpg"}
+                next_id += 1
+                field = "release_date" if media == "movie" else "first_air_date"
+                item[field] = (FixedDate.today() - timedelta(days=days_ago)).isoformat()
+                lists[name].append(item)
+
+        with patch.object(SEED, "date", FixedDate):
+            picked = SEED.select(lists, {}, SEED.SAFETY_CEILING)
+
+        counts = {name: sum(source == name for _tid, _media, source in picked)
+                  for name, _media, _path in SEED.SOURCES}
+        self.assertEqual(len(picked), SEED.BACKFILL_PER_DAY)
+        for name in SEED.HINDI_RECENT_SOURCES:
+            self.assertEqual(counts[name], 1, name)
+        self.assertEqual(counts["world_window"] + counts["new_tv"], 2)
+
     def test_existing_all_indian_language_sources_remain(self):
         # Keep the broad existing Hindi/popularity and all-language/region
         # discovery sources; the UI's shared classifier remains untouched.

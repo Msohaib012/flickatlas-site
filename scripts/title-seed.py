@@ -60,9 +60,10 @@ Rules (selection, in order):
     date is old but it may still be airing); currency is checked at
     details level instead (last_air_date / next episode / status)
   - dedup within the run (a title can appear in several lists)
-  - round-robin across the configured sources so the batch is mixed, capped at
-    FIRST_RUN_MAX (15) on the first run (<=2 published titles) and
-    DAILY_MAX (5) otherwise
+  - reserve up to two fresh slots for each date-ranked Hindi Recent source;
+    the rest of the safety ceiling stays in the existing all-source mix
+  - reserve at most two of the four daily backfill slots for Hindi Recent
+    movies/TV, leaving at least two slots for the global newest-first pool
 Details-level rules (after fetching each picked id):
   - tv: skip when not currently airing (no episode in the last
     FRESH_DAYS, no next episode scheduled, status not Returning Series)
@@ -116,6 +117,10 @@ TRENDING_DRIP_PER_RUN = 5
 BACKFILL_PER_DAY = 4
 SAFETY_CEILING = 20
 FRESH_DAYS = 90
+HINDI_RECENT_SOURCES = ("hindi_recent_movies", "hindi_recent_tv")
+HINDI_RECENT_PER_SOURCE = 2
+HINDI_FRESH_RESERVE_MAX = HINDI_RECENT_PER_SOURCE * len(HINDI_RECENT_SOURCES)
+HINDI_BACKFILL_RESERVE_MAX = 2
 
 # (source name, media type, TMDB list path) — order is the round-robin
 # priority (first pick of each source first).
@@ -625,24 +630,55 @@ def _round_robin(ordered, per_source, cap, picked, seen):
     return picked
 
 
+def _reserve_source_slots(source_names, candidates, quotas, max_total,
+                          picked, seen, media_of):
+    """Take a small fair reserve from named sources, skipping duplicates.
+
+    `candidates` maps each source to an ordered list of TMDB IDs. The
+    per-source quotas and total limit are both hard bounds; unused slots
+    remain available to the ordinary all-source selector.
+    """
+    counts = {name: 0 for name in source_names}
+    positions = {name: 0 for name in source_names}
+    taken = 0
+    while taken < max_total:
+        progressed = False
+        for name in source_names:
+            if taken >= max_total:
+                break
+            if counts[name] >= quotas.get(name, 0):
+                continue
+            items = candidates.get(name) or []
+            while positions[name] < len(items) and items[positions[name]] in seen:
+                positions[name] += 1
+            if positions[name] >= len(items):
+                continue
+            tid = items[positions[name]]
+            positions[name] += 1
+            seen.add(tid)
+            picked.append((tid, media_of[name], name))
+            counts[name] += 1
+            taken += 1
+            progressed = True
+        if not progressed:
+            break
+    return counts
+
+
 def select(lists, published, cap):
     """List-level selection: apply the cheap rules, sort each source
     newest-first, then pick in two phases. Returns [(tid, media,
     source)] in attempt order.
 
-    Pace (his order 2026-10-26): NO fixed daily quota.
-    Phase 1 (fresh): every title released in the last 7 days or
-    releasing in the next 7 days is picked — however many there are,
-    that is the need. Phase 1b (trending drip, 2026-10-28): non-fresh
-    titles from the TMDB trending list, at most TRENDING_DRIP_PER_RUN
-    per run, ahead of the general backfill. Phase 2 (backfill): older titles, at most
-    BACKFILL_PER_DAY, newest first, in strict sequence. The hard
-    SAFETY_CEILING caps the whole run so a bad source list can never
-    dump a massive batch. Upcoming is sorted nearest-first (ascending)
-    so it never jumps to next year's titles; released content is
-    newest first (descending). Titles with no date sort last.
-    The source order rotates daily (day-of-year offset) so no source
-    is starved."""
+    Pace (owner order 2026-10-26): no fixed overall daily quota.
+    Fresh titles are selected first, with up to two guaranteed slots for
+    each date-ranked Hindi Recent source; ordinary round-robin across all
+    sources fills the remaining fresh capacity. The trending drip remains
+    ahead of backfill. Of the four daily backfill slots, at most two are
+    reserved fairly for Hindi Recent movies/TV and at least two remain for
+    the existing global newest-first pool. SAFETY_CEILING is still the hard
+    cap. Upcoming titles sort nearest-first; released titles sort newest
+    first. The source order still rotates daily for the unreserved pool."""
     today = date.today()
     per_source = {}
     for name, media, _ in SOURCES:
@@ -686,8 +722,20 @@ def select(lists, published, cap):
     backfill = {n: [t for t, d in v if not _is_fresh(d, today)]
                 for n, v in per_source.items()}
     picked, seen = [], set()
-    # Phase 1: ALL fresh titles (up to the safety ceiling).
+    media_of = {n: m for n, m, _ in SOURCES}
+    # These dedicated date-ranked Hindi sources would otherwise depend on
+    # the rotating global source order when fresh lists exceed the cap.
+    fresh_reserve = min(HINDI_FRESH_RESERVE_MAX, cap // 4)
+    _reserve_source_slots(
+        HINDI_RECENT_SOURCES, fresh,
+        {n: HINDI_RECENT_PER_SOURCE for n in HINDI_RECENT_SOURCES},
+        fresh_reserve, picked, seen, media_of)
+    # Phase 1: all remaining fresh titles, in the existing rotating mix.
     _round_robin(ordered, fresh, cap, picked, seen)
+    hindi_counts = {n: 0 for n in HINDI_RECENT_SOURCES}
+    for _tid, _media, source in picked:
+        if source in hindi_counts:
+            hindi_counts[source] += 1
     # Phase 1b — TRENDING DRIP (2026-10-28): non-fresh trending titles
     # enter a few per run, ahead of the general backfill, so the
     # Trending Worldwide rail keeps gaining the titles TMDB says are
@@ -714,6 +762,9 @@ def select(lists, published, cap):
         seen.add(tid)
         picked.append((tid, "tv", "trending_tv"))
     # Phase 2: backfill, at most BACKFILL_PER_DAY (and under ceiling).
+    # Up to two slots go fairly to recent Hindi sources; at least two
+    # remain in the global newest-first pool, so this does not replace
+    # the existing all-language sources or daily backfill limit.
     # GLOBAL newest-first (2026-10-28 fix): the old per-source
     # round-robin let a 2023 title from an early source jump ahead of
     # an Oct title from a later source while the 4/day cap stayed fixed
@@ -723,8 +774,19 @@ def select(lists, published, cap):
     # truly newest-first: released by date desc, then upcoming by date
     # asc, no-date last. Dates are read from per_source (the
     # fresh/backfill split above drops them).
-    backfill_cap = min(cap, len(picked) + BACKFILL_PER_DAY)
-    media_of = {n: m for n, m, _ in SOURCES}
+    backfill_start = len(picked)
+    backfill_cap = min(cap, backfill_start + BACKFILL_PER_DAY)
+    remaining_quota = {
+        n: max(0, HINDI_RECENT_PER_SOURCE - hindi_counts[n])
+        for n in HINDI_RECENT_SOURCES
+    }
+    backfill_slots = backfill_cap - backfill_start
+    global_backfill_floor = min(2, backfill_slots)
+    backfill_reserve = min(HINDI_BACKFILL_RESERVE_MAX,
+                           max(0, backfill_slots - global_backfill_floor))
+    _reserve_source_slots(
+        HINDI_RECENT_SOURCES, backfill, remaining_quota,
+        backfill_reserve, picked, seen, media_of)
     released, upcoming, nodate = [], [], []
     for n, v in per_source.items():
         if n in ("trending", "trending_tv"):
@@ -900,9 +962,6 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-
-
 
 
 
