@@ -16730,5 +16730,190 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 09:30:12 GMT"
+  },
+  "srl73a": {
+    "id": "srl73a",
+    "type": "news",
+    "headline": "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
+    "dek": "Rajinikanth's high-grossing action spectacle is on the verge of hitting a major domestic landmark within fourteen days of its theatrical run.",
+    "body": [
+      {
+        "h": "The Journey to Five Hundred Crores",
+        "p": [
+          "The action-packed Tamil venture featuring veteran actor Rajinikanth stands at an impressive ₹495 crore in domestic gross earnings after completing a fourteen-day run. Mainstream tracking reports indicate that the feature has also amassed an India net total of ₹423 crore during this timeframe.",
+          "With a mere gap of ₹5 crore separating the feature from a monumental domestic landmark, analysts anticipate the threshold will be crossed shortly. This achievement places the project in an elite tier of domestic performers within the regional industry."
+        ]
+      },
+      {
+        "h": "Chasing Historical Precedents",
+        "p": [
+          "Upon crossing the anticipated threshold, the production will cement its status as only the second Tamil motion picture to achieve the domestic benchmark. The sci-fi successor 2.0 previously set the high-water mark for the industry with an approximate domestic gross collection of ₹519 crore.",
+          "Despite falling slightly short of that specific historical figure thus far, the current contender has already outpaced its predecessor on a global scale. Worldwide figures place the latest blockbuster significantly ahead of previous lifetime tallies for major regional releases."
+        ]
+      },
+      {
+        "h": "Breaking Global Records",
+        "p": [
+          "Beyond domestic milestones, the Rajinikanth starrer has established itself as the highest-earning Tamil film worldwide. Total global receipts have climbed past ₹755.50 crore, effortlessly overshadowing the previous global best set by 2.0.",
+          "Trade trackers note that this widespread commercial success stems from strong turnout across traditional strongholds as well as overseas markets. The sheer velocity of ticket sales has redefined expectations for commercial cinema originating from the southern film industries."
+        ]
+      },
+      {
+        "h": "Steady Weekday Stability",
+        "p": [
+          "Daily earnings have naturally moderated following an extraordinary opening weekend, marking the typical settling phase for a high-profile event film. The fourteenth day recorded a lower single-day haul compared to earlier sessions as the majority of eager fans secured tickets during the initial launch phase.",
+          "Even with the cooling momentum, weekend occupancies demonstrated that sustained consumer interest remains healthy. Strong footfalls during the second weekend contributed a substantial portion of revenue despite the absence of a holiday window."
+        ]
+      },
+      {
+        "h": "Contrasting Regional Contributions",
+        "p": [
+          "A notable aspect of the current run involves the disparity in contributions from northern territories compared to earlier multi-language hits. While previous blockbusters capitalized on widespread multiplex availability and prominent northern casting to secure massive Hindi revenues, the current release navigated certain distribution hurdles.",
+          "Restrictions on theatrical runs stemming from digital streaming window disagreements limited major multiplex chains from screening the Hindi version widely. Consequently, the domestic surge has relied primarily on regional audiences in Tamil and Telugu markets to drive the bulk of the box office."
+        ]
+      },
+      {
+        "h": "Upcoming Festive Screen Wars",
+        "p": [
+          "The immediate challenge ahead involves navigating a crowded theatrical calendar featuring several high-profile festival releases. Major upcoming titles equipped with premium large-format screens are scheduled to debut shortly, putting pressure on existing runners to retain prime showtimes.",
+          "Exhibitors face difficult choices regarding screen allocations as new contenders enter the market. Sustaining momentum through the holiday period will depend heavily on continued audience demand and favorable word-of-mouth recommendations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has reached ₹495 crore in India gross after 14 days, positioning itself to become only the second Tamil film to cross the ₹500 crore domestic milestone. Despite distribution hurdles in northern markets, the feature has broken global records for Tamil cinema with worldwide earnings exceeding ₹755.50 crore while preparing to face stiff competition from upcoming festival releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 stands at ₹495 crore India gross after 14 days.",
+      "The film has an India net of ₹423 crore.",
+      "2.0 collected approximately ₹519 crore India gross.",
+      "Jailer 2 earned ₹755.50 crore worldwide, surpassing 2.0's ₹691 crore lifetime collection.",
+      "Day 14 gross was ₹7.55 crore.",
+      "The film opened with ₹70.25 crore gross.",
+      "Jailer 2 collected ₹391.55 crore India gross in its first eight-day extended week.",
+      "Collections rose from ₹17 crore on Friday to ₹28.25 crore on Saturday and ₹30.05 crore on Sunday during the second weekend.",
+      "The Hindi version has earned around ₹51 crore in 14 days.",
+      "Ramayana: Part One arrives on November 5, and Suriya's Scene and Nayanthara's Mookuthi Amman 2 follow on November 6."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Akshay Kumar",
+        "Suriya",
+        "Nayanthara"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0",
+        "Ramayana: Part One",
+        "Scene",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2",
+      "Jailer 2 India gross",
+      "Jailer 2 collections"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028246.jpg",
+        "caption": "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 09:00:21 +0000"
+  },
+  "1fko0e8": {
+    "id": "1fko0e8",
+    "type": "news",
+    "headline": "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby",
+    "dek": "During a game show appearance, actor Ranbir Kapoor shared an amusing and thrilling anecdote about his proposal to Alia Bhatt in Kenya, complete with wildlife and a humorous self-comparison.",
+    "body": [
+      {
+        "h": "A Memorable Television Appearance",
+        "p": [
+          "Bollywood star Ranbir Kapoor recently reflected on his personal life while appearing as a guest on Kaun Banega Crorepati 18. Hosted by the legendary Amitabh Bachchan, the platform gave the actor a chance to share behind-the-scenes details about his romantic proposal to his wife, Alia Bhatt.",
+          "The revelation offered fans an entertaining look into one of the most talked-about relationships in the Hindi film industry, blending romance with unexpected wildlife adventure."
+        ]
+      },
+      {
+        "h": "Planning the Maasai Mara Getaway",
+        "p": [
+          "The romantic gesture took place during a vacation the couple took to Maasai Mara in Kenya. Eager to create a lasting memory, Ranbir meticulously planned how he would ask the crucial question.",
+          "Knowing how much his partner values photographs, especially for sharing on social media platforms like Instagram, the actor ensured that the moment would be properly documented from afar."
+        ]
+      },
+      {
+        "h": "Preplanning and Coordination",
+        "p": [
+          "To pull off the surprise, Ranbir took advance measures by tipping their local guide and driver before setting out into the wilderness. He instructed them to halt the vehicle in the middle of the jungle.",
+          "He had brought a ring from home and intended to drop down on one knee while the guide and driver captured the sequence using a camera from a safe distance."
+        ]
+      },
+      {
+        "h": "An Unexpected Wildlife Encounter",
+        "p": [
+          "The romantic scenario, however, quickly took a dramatic and wild turn when nature intervened. As Ranbir prepared to present the ring, he noticed three lions roaming roughly 100 feet away from them.",
+          "Prompted by the host Amitabh Bachchan, who jokingly asked for photographic evidence of the bizarre situation, the actor detailed just how close the predators were during the pivotal moment."
+        ]
+      },
+      {
+        "h": "The Lion and the Mouse Metaphor",
+        "p": [
+          "Describing the tense yet comical atmosphere, Ranbir offered a witty metaphor regarding the power dynamic of the moment. He humorously referred to Alia as his fierce lioness while casting himself in the role of a timid mouse.",
+          "With the wild cats lingering nearby, he dropped to one knee and asked the question, calling the entire episode an extraordinary event that remains vividly etched in his memory."
+        ]
+      },
+      {
+        "h": "Milestones in Their Relationship",
+        "p": [
+          "Following their adventurous engagement, Ranbir Kapoor and Alia Bhatt officially tied the knot on April 14, 2022. The intimate wedding ceremony took place at their Mumbai home, surrounded by family members and close friends.",
+          "Later that same year, on November 6, 2022, the couple welcomed their daughter, Raha, marking another major milestone in their family life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor shared an amusing story on Kaun Banega Crorepati 18 about proposing to Alia Bhatt in Maasai Mara with three lions nearby. The couple later married in April 2022 and welcomed their daughter Raha in November of that year."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor appeared on Kaun Banega Crorepati 18 hosted by Amitabh Bachchan.",
+      "The proposal took place during a holiday in Maasai Mara, Kenya.",
+      "Three lions were approximately 100 feet away during the proposal.",
+      "Ranbir and Alia Bhatt married on April 14, 2022, in Mumbai.",
+      "They welcomed their daughter, Raha, on November 6, 2022."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Amitabh Bachchan",
+        "Raha"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati 18"
+      ]
+    },
+    "keywords": [
+      "Ranbir Kapoor Alia Bhatt proposal",
+      "Ranbir Kapoor Kaun Banega Crorepati 18",
+      "Alia Bhatt Maasai Mara trip",
+      "Ranbir Kapoor lions proposal"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135298008,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-29T14:15:30+05:30"
   }
 };

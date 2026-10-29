@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T10:42:36Z",
-    "run_id": "40673990146",
-    "status": "success",
-    "checked": {
-     "candidates": 120,
-     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Premada Oorali Box Office Collection Day 33: Shree Raam-Rangayana Raghu Film Nears ₹145 Crore Worldwide",
-      "Scam 1992 Leads IMDb’s 10 Years Of Indian Streaming Most Popular Show’s List",
-      "Yash's Biggest Box Office Records Before Ramayana: Can He Break KGF 2's ₹1,215 Cr and Enter ₹1,000 Cr Club Again?",
-      "In 2014, Taylor Swift filmed ‘Blank Space’ at Oheka Castle; it sold at auction for USD 72 million",
-      "Radhika Apte slams trolls criticising Alia Bhatt's physique in Alpha, calls out double standards for female actors in action roles",
-      "ae dil hai mushkil clocks 10 years karan johar on one sided love thanks cast for creating perfect vatavaran on sets 3077174.html",
-      "EXCLUSIVE: Soniya Bansal On Turning A Year Older, Singing Two Films And No Longer Rushing Through Life",
-      "diljit dosanjh delhi concert gets major security boost 2000 guards to be deployed amid threat concerns report article 156421817",
-      "kartik aaryan to star in vivek agnihotri operation sindoor film based on pahalgam terror attack aftermath article 156421579",
-      "yeh prem mol liya sharvari honoured to dance alongside og rajshri heroine madhuri dixit watch article 156421838",
-      "tata wpl auction 2027 live updates womens premier league players prices purse full team squads of mi rcb dc gg and upw liveblog 156421775",
-      "17 Years Later, This Sherlock Holmes Quote Still Defines the Character",
-      "Pirates of the Caribbean Director’s Western Masterpiece Officially Finds a New Streamer",
-      "Clint Eastwood's Classic Thriller Is Still His Greatest Movie 22 Years Later",
-      "The 10 Most Suspenseful Movies in Film History",
-      "‘Call of Duty’ Director’s Cult Favorite War Thriller Officially Hits Streaming",
-      "Ridley Scott's Long-Awaited 148-Minute Action Epic Is Officially One of Netflix's Biggest Streaming Hits",
-      "PlayStation Plus November 2026 Free Games Lineup Officially Update",
-      "Zelda: Wind Waker, Twilight Princess, Skyward Sword Officially Returning In New Collection",
-      "GTA 6 Fans Are Being Offered $900 And A Free Copy Of The Game"
-     ],
-     "updated": [],
-     "count": 55,
-     "detail": "56 stories, 0 duplicates removed, 64 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T11:44:36Z",
     "run_id": "40682070889",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "100 stories, 1 duplicates removed, 1 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T10:42:48Z",
-    "run_id": "40673990146",
+    "run_at": "2026-10-29T10:20:39Z",
+    "run_id": "40856792844",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 97,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Kartik Aaryan Roped In To Lead Vivek Agnihotri's Operation Sindoor",
-      "Karan Johar Celebrates Decade of 'Ae Dil Hai Mushkil' With Notes on Unrequited Love"
+      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal",
+      "The Traitors Telugu: Who Is Shravya Varma? Is Ram Gopal Varma’s Niece The Mastermind Behind The Mind Games?",
+      "Bigg Boss 20 Elimination Update: Will Gullu Get Evicted For Violating BB Rules? Here’s What Fans Have To Say",
+      "Immortal OTT Release Time: When And Where To Watch GV Prakash Kumar And Kayadu Lohar Film Online",
+      "Ali Fazal Gets Emotional As Mirzapur Is Named Most-Watched Show Of The Decade, Says Guddu Pandit’s Love Is Spe",
+      "Udta Teer Box Office Collection Day 6: Becomes Ayushmann Khurrana’s 5th Highest-Grossing Film Post-COVID",
+      "Dorothy Box Office (Closing Collection): Wraps Up With Nearly 60% ROI",
+      "Jailer 2 Box Office Nears ₹500 Cr India Gross to Become Only 2nd Tamil Film to Do So",
+      "Ahaan's new avatar: Vijay hails ‘immensely talented’ star",
+      "Rishab Shetty remembers Puneeth Rajkumar on fifth death anniversary",
+      "Dhanush follows Vijay’s footsteps as 'OM' actor's political entry buzz grows",
+      "Ranbir reveals how he proposed to Alia: 'There were three lions, my sherni, main chuha banke..'",
+      "Janhvi Kapoor finally confirms she is dating Shikhar Pahariya, reveals marriage plans on Koffee With Karan",
+      "Jamie Dornan says Viggo Mortensen will always be his Aragorn in ''Lord of the Rings''",
+      "Tiger Shroff To Resume Lag Jaa Gale Shoot Weeks After Shooting Incident; Location Details Under Wraps",
+      "The 10 Greatest Live Rock Albums Released in the 70s, Ranked",
+      "This Star Wars Line Is Still the Greatest Quote in Franchise History",
+      "‘Pokémon’ Fans Are Officially Running Out of Time To Catch 3 New Pokémon",
+      "A New James Bond Officially Joins The Iconic Franchise Today",
+      "‘Godzilla Minus One’ U.S. Success ‘Wasn’t a Strategy; We Just Tried,’ Says Toho CEO at Tokyo Festival"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 88,
+     "detail": "97 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T10:20:59Z",
+    "run_id": "40856792844",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
+      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T10:42:48Z",
-    "run_id": "40673990146",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 26, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T10:20:59Z",
+    "run_id": "40856792844",
+    "status": "success",
+    "checked": {
+     "candidates": 33,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 26, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2136,27 +2126,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T10:47:38Z",
-    "run_id": "40673990146",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T10:21:01Z",
+    "run_id": "40856792844",
     "status": "success",
     "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
-     "detail": "+0 new rows, 10 updated rows, 198 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2570,19 +2559,27 @@
      "detail": "+0 new rows, 3 updated rows, 290 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T10:20:59Z",
+    "run_id": "40856792844",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 289 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2825,30 +2822,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T11:50:01Z",
-    "run_id": "40682070889",
-    "status": "success",
-    "checked": {
-     "candidates": 85,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
-      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 85 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3313,19 +3299,30 @@
      "detail": "api-news.json 60 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T10:21:01Z",
+    "run_id": "40856792844",
+    "status": "success",
+    "checked": {
+     "candidates": 62,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
+      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 62 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3583,19 +3580,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3856,29 +3853,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T10:42:48Z",
-    "run_id": "40673990146",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 55 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 6/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Kartik Aaryan Roped In To Lead Vivek Agnihotri's Operation Sindoor",
-      "Karan Johar Celebrates Decade of 'Ae Dil Hai Mushkil' With Notes on Unrequited Love"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4323,19 +4310,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T10:20:59Z",
+    "run_id": "40856792844",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 88 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
+      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4578,24 +4575,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 184,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4915,24 +4907,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
+     "count": 185,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5242,19 +5234,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5504,19 +5501,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5751,19 +5748,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5989,6 +5986,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T09:52:30Z",
     "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5999,16 +6006,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T11:50:09Z",
     "run_id": "40682070889",
     "status": "skipped",
@@ -6231,6 +6228,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T09:52:30Z",
     "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6241,16 +6248,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T10:47:48Z",
-    "run_id": "40673990146",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T11:50:09Z",
     "run_id": "40682070889",
     "status": "skipped",
@@ -6473,6 +6470,16 @@
     "category": "Box Office",
     "run_at": "2026-10-29T09:52:30Z",
     "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6702,8 +6709,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T10:21:10Z",
+    "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T09:52:30Z"
+ "updated_at": "2026-10-29T10:21:10Z"
 }
