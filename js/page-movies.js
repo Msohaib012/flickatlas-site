@@ -87,6 +87,17 @@
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
   const tagFor = (x) => UI.industryTag(x);
   const todayStr = () => new Date().toISOString().slice(0, 10);
+  /* Spotlight window (owner order 2026-10-28, same 60-day window as
+     page-index.js): "Movies running now" is 60 days back from the IST
+     today. Used only by the ?seeall=1 Spotlight view below. */
+  const SPOTLIGHT_WINDOW_DAYS = 60;
+  const spotlightCutoff = (() => {
+    const ist = new Date(Date.now() + (330 + new Date().getTimezoneOffset()) * 60000).toISOString().slice(0, 10);
+    const d = new Date(ist + "T00:00:00Z");
+    d.setUTCDate(d.getUTCDate() - SPOTLIGHT_WINDOW_DAYS);
+    return d.toISOString().slice(0, 10);
+  })();
+  const inSpotlightWindow = (x) => { const d = dateOf(x); return !!d && d >= spotlightCutoff; };
   const published = () => Object.values(window.FA_PUBLISHED || {});
   const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
   const dateOf = x => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
@@ -200,8 +211,23 @@
           : "Nothing is trending right now — check back soon.", false);
       return;
     }
+    /* Homepage Spotlight See All (owner order 2026-10-28): when the page
+       is opened from the homepage rail (?seeall=1, default filters) it
+       must show the SAME set, in the SAME order, as the homepage
+       Spotlight rail — released movies in the 60-day "running now"
+       window, newest first, streaming-only excluded. The yearly hub
+       pool (19 Bollywood titles) is a different set; the year gate
+       does not apply here. Changing any filter drops out of See All
+       mode into the normal yearly browse. */
+    const seeAll = UI.getParam("seeall", "") === "1"
+      && (f === "bollywood" || f === "international")
+      && sort === "recent" && t === "movie" && !g && y === (years[0] || "");
     const items = pool.filter(x => {
-      if (y && dateOf(x).slice(0, 4) !== y) return false;
+      if (seeAll) {
+        if (typeOf(x) !== "movie") return false;
+        if (UI.isStreamingOnly(x)) return false;
+        if (!inSpotlightWindow(x)) return false;
+      } else if (y && dateOf(x).slice(0, 4) !== y) return false;
       if (t === "movie" && typeOf(x) !== "movie") return false;
       if (t === "tv" && typeOf(x) !== "tv") return false;
       /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian

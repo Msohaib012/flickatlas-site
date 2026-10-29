@@ -13,9 +13,9 @@
     title: "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
     desc: "FlickAtlas is your global guide to movies and TV shows — full cast & crew, budgets vs box office earnings, upcoming release dates and celebrity filmographies for Bollywood, World Cinema and Lollywood.",
     path: "/",
-    jsonld: { "@context": "https://schema.org", "@type": "WebSite",
-      "name": "FlickAtlas", "url": CONFIG.BASE + "/",
-      "description": "Global movie & TV information: cast, budgets, box office, upcoming releases and celebrity filmographies." }
+    /* SEO audit 2026-10-28 (claude-seo): no jsonld here — the home shell
+       already carries the WebSite block WITH SearchAction; the JS copy
+       added a second WebSite block without it. */
   });
 
   main.innerHTML = `<div class="wrap">
@@ -99,7 +99,10 @@
     /* Spotlight (user order 2026-10-26, revised: show 10-15): the 12 newest
        released movies per industry (was 'fresh this week' only, which capped
        Bollywood at 4). New titles join daily via the nightly seeder. */
-    const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 13, ott: 7 };
+    /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
+       AT LEAST as many titles as the homepage movies rail (Spotlight,
+       12 cards) — the old ott:7 cap bound the rails before the data did. */
+    const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 13, ott: 12 };
     /* Coming Soon sort (2026-10-28 fix — twin of byComingSoon in
        js/page-most-awaited.js; the rail and that page must stay in
        identical order). The old sort was raw vote_average desc. No
@@ -509,7 +512,7 @@
       ottFor("now", ind).length > 0 || ottFor("coming", ind).length > 0);
     const ottHtml = ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
       <div class="section-head"><h2>OTT</h2>
-      <a class="see-all" href="/ott">See All →</a></div>
+      <a class="see-all" href="/ott?f=bollywood">See All →</a></div>
       ${homeFilterRow("ott")}<p class="sec-sub">Movies now streaming, and what's coming next · Bollywood</p>
       <div class="ott-group"><h3>Now on OTT</h3><div class="scroller" data-results="now">${ottRailHtml(ottFor("now", "bollywood", "movie"), false)}</div></div>
       <div class="ott-group"><h3>Coming to OTT</h3><div class="scroller" data-results="coming">${ottRailHtml(ottFor("coming", "bollywood", "movie"), true)}</div></div>

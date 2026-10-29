@@ -523,7 +523,7 @@
       jsonld: {
         "@context": "https://schema.org", "@type": "Movie",
         "name": title,
-        "url": `https://flickatlas.vercel.app/movie?id=${encodeURIComponent(id)}`,
+        "url": CONFIG.BASE + `/movie?id=${encodeURIComponent(id)}`,
         ...(pub.release_date ? { "datePublished": pub.release_date } : {}),
         ...(pub.overview ? { "description": pub.overview.slice(0, 300) } : {}),
         ...(genres.length ? { "genre": genres } : {}),

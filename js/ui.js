@@ -968,6 +968,16 @@ const UI = (() => {
 
   /* SEO: canonical / OG / twitter / JSON-LD all derive from CONFIG.BASE */
   function setSEO({ title, desc, path = "/", type = "website", image = "", jsonld = null, noindex }) {
+    /* SEO audit 2026-10-28 (claude-seo): when the Worker has already injected
+       the real meta it adds <meta name="fa-seo" content="server">. In that
+       case the JS copy must NOT overwrite it — raw HTML and the rendered DOM
+       must agree on title / description / OG / canonical / JSON-LD, and there
+       must be exactly one JSON-LD block. Without the marker (local dev, or a
+       page the Worker does not inject on) this stays the fallback that fills
+       the generic shell. Not-found / noindex paths never carry the marker
+       (the Worker only injects when a seo-meta.json entry exists), so those
+       setSEO calls still run. */
+    if (document.head.querySelector('meta[name="fa-seo"]')) return;
     if (title) document.title = title;
     const url = CONFIG.BASE + path;
     const put = (attr, key, val) => {
@@ -1005,11 +1015,45 @@ const UI = (() => {
   /* Relative time for news rows: "12 min ago", "3 hrs ago", "2 days ago" */
   function relTime(ts) {
     if (!ts) return "";
+    /* SEO audit 2026-10-28 (claude-seo): news-item pages passed the ISO
+       published string straight in, so (Date.now() - ts) was NaN and pages
+       showed "NaN days ago". Coerce strings via Date.parse; unparseable
+       values render nothing instead of NaN. */
+    if (typeof ts === "string") ts = Date.parse(ts);
+    if (!Number.isFinite(ts)) return "";
     const s = Math.max(0, (Date.now() - ts) / 1000);
     if (s < 3600) return Math.max(1, Math.floor(s / 60)) + " min ago";
     if (s < 86400) return Math.floor(s / 3600) + (Math.floor(s / 3600) === 1 ? " hr ago" : " hrs ago");
     const d = Math.floor(s / 86400);
     return d + (d === 1 ? " day ago" : " days ago");
+  }
+
+  /* ---------- 12-hour clock time (owner order 2026-10-28) ----------
+     The site's ONLY clock formatter: 12-hour with AM/PM, always the
+     site's PKT/IST day = UTC + 5:30 — the SAME 330-minute offset
+     page-index.js / page-boxoffice.js already use for "Today in IST"
+     (Asia/Karachi itself is UTC+5:00, so Intl timeZone must NOT be
+     used here: it would shift every site time by 30 minutes).
+     0 -> 12 AM, 12 -> 12 PM, 13-23 -> 1-11 PM, minutes zero-padded,
+     hour NOT zero-padded ("1:00 PM", "11:33 PM").
+     Accepts a Date, epoch ms, or an ISO/RFC date string. opts.suffix
+     (default true) appends " PKT". Invalid input -> "".
+     NOTE: no page renders an absolute clock time today (dates go through
+     fmtDate, timestamps through relTime) — this helper exists so any
+     future clock display is 12-hour by construction. */
+  function fmtTime12h(input, opts) {
+    const suffix = !opts || opts.suffix !== false;
+    let ms = NaN;
+    if (input && typeof input.getTime === "function") ms = input.getTime(); // Date (duck-typed: works across realms)
+    else if (typeof input === "number" && Number.isFinite(input)) ms = input;
+    else if (typeof input === "string" && input.trim()) ms = Date.parse(input);
+    if (!Number.isFinite(ms)) return "";
+    const d = new Date(ms + 330 * 60000); // site PKT/IST day offset
+    const h24 = d.getUTCHours(), mm = d.getUTCMinutes();
+    const ap = h24 < 12 ? "AM" : "PM";
+    const h12 = h24 % 12 === 0 ? 12 : h24 % 12;
+    const out = h12 + ":" + String(mm).padStart(2, "0") + " " + ap;
+    return suffix ? out + " PKT" : out;
   }
 
   /* ---------- News expiry (owner order 2026-10-28) ----------
@@ -1098,7 +1142,7 @@ const UI = (() => {
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
-    relTime, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
+    relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
 

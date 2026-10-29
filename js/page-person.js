@@ -125,7 +125,7 @@
       jsonld: {
         "@context": "https://schema.org", "@type": "Person",
         "name": name,
-        "url": `https://flickatlas.vercel.app/person?id=${encodeURIComponent(id)}`,
+        "url": CONFIG.BASE + `/person?id=${encodeURIComponent(id)}`,
         ...(photo ? { "image": photo } : {}),
         ...(p.birthday ? { "birthDate": p.birthday } : {}),
         ...(p.place_of_birth ? { "birthPlace": p.place_of_birth } : {}),
