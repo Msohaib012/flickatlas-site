@@ -14867,5 +14867,206 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 00:10:19 GMT"
+  },
+  "1dsf5v1": {
+    "id": "1dsf5v1",
+    "type": "news",
+    "headline": "David Bruckner to Direct Smile 3 With Parker Finn Producing",
+    "dek": "The Hellraiser reboot director will take the helm for the third installment of Paramount's horror franchise, while original creator Parker Finn transitions to a producing role.",
+    "body": [
+      {
+        "h": "Directing the Next Nightmare",
+        "p": [
+          "Horror enthusiast circles have a new reason to celebrate as filmmaker David Bruckner has officially committed to direct Smile 3 for Paramount. Following the success of the previous entries, the studio is expanding its terror-filled universe with a brand-new creative voice at the helm.",
+          "Bruckner brings substantial genre pedigree to the project. He previously directed the 2022 Hellraiser reboot for Hulu, alongside acclaimed atmospheric horror features such as The Night House and The Ritual."
+        ]
+      },
+      {
+        "h": "Behind the Creative Handover",
+        "p": [
+          "Parker Finn, who created, wrote, and directed the first two Smile films, is stepping back from the director's chair but remains deeply involved in the franchise. Finn developed and pitched the narrative framework for this upcoming third entry.",
+          "While Bruckner takes over directorial duties, Finn will actively guide the project as a producer. Additionally, Jonathan Fass has boarded the upcoming sequel to serve as executive producer."
+        ]
+      },
+      {
+        "h": "The Writing Team and Vision",
+        "p": [
+          "The script for Smile 3 is being written by Nick Antosca. The creative team aims to maintain the psychological tension that defined the earlier cinematic chapters.",
+          "Finn previously expressed his desire for future iterations of the property to expand significantly in scale. However, he also emphasized that the storytelling must preserve its intimate, character-driven impact on a human level."
+        ]
+      },
+      {
+        "h": "Bruckner's Busy Slate",
+        "p": [
+          "In addition to taking on Smile 3, David Bruckner has several other prominent projects in various stages of development. He is attached to direct Universal Pictures' adaptation of Marcus Kliewer's book The Caretaker, starring Sydney Sweeney.",
+          "Furthermore, Bruckner is lined up to helm the horror film Mice for A24 and is actively writing and developing a remake of the classic creature feature The Blob."
+        ]
+      },
+      {
+        "h": "Parker Finn's Studio Deal",
+        "p": [
+          "Parker Finn's ongoing collaboration with Paramount Pictures stems from a first-look deal he signed with the studio back in 2023. This partnership continues to yield major opportunities for the filmmaker.",
+          "Alongside his production duties on Smile 3, Finn is directing Paramount's upcoming remake of Possession, which features a starring cast that includes Callum Turner and Margaret Qualley."
+        ]
+      },
+      {
+        "h": "Franchise Legacy and Success",
+        "p": [
+          "The Smile franchise holds a formidable record at the box office. The original 2022 movie emerged as the top-grossing original horror film of that year.",
+          "Collectively, the property has proven to be a massive financial success for the studio, pulling in more than 350 million dollars worldwide across its theatrical runs."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "David Bruckner has signed on to direct Smile 3 for Paramount, with original creator Parker Finn transitioning to a producing role and Nick Antosca penning the script. The upcoming horror sequel builds on a highly successful franchise that has grossed over 350 million dollars worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "David Bruckner will direct Smile 3 for Paramount.",
+      "Nick Antosca is writing the script for Smile 3.",
+      "Parker Finn developed the framework and will produce Smile 3.",
+      "Jonathan Fass is executive producing Smile 3.",
+      "David Bruckner directed the 2022 Hellraiser reboot, The Night House, and The Ritual.",
+      "Parker Finn signed a first-look deal with Paramount Pictures in 2023.",
+      "Parker Finn is directing Paramount's Possession remake starring Callum Turner and Margaret Qualley.",
+      "The Smile franchise has grossed more than $350 million worldwide."
+    ],
+    "entities": {
+      "people": [
+        "David Bruckner",
+        "Parker Finn",
+        "Nick Antosca",
+        "Jonathan Fass",
+        "Marcus Kliewer",
+        "Sydney Sweeney",
+        "Callum Turner",
+        "Margaret Qualley"
+      ],
+      "titles": [
+        "Smile 3",
+        "Smile 2",
+        "Smile",
+        "Hellraiser",
+        "The Night House",
+        "The Ritual",
+        "The Caretaker",
+        "Mice",
+        "The Blob",
+        "Possession"
+      ]
+    },
+    "keywords": [
+      "David Bruckner Smile 3",
+      "Parker Finn Smile 3",
+      "Nick Antosca Smile 3 script",
+      "Smile 3 Paramount movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-1430580761-e1793234090104.jpg?w=1104&#038;h=622&#038;crop=1",
+        "caption": "David Bruckner to Direct Smile 3 With Parker Finn Producing",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 00:53:54 +0000"
+  },
+  "gzv1z0": {
+    "id": "gzv1z0",
+    "type": "news",
+    "headline": "‘Avengers: Doomsday’ and ‘Dune: Part Three’ December Box Office Clash Set to Make History",
+    "dek": "An epic box office showdown is brewing in December between Marvel's latest blockbuster and the conclusion of the sci-fi franchise.",
+    "body": [
+      {
+        "h": "The December Box Office Showdown",
+        "p": [
+          "The final month of the year is gearing up for a monumental cinematic battle as two major Hollywood titles prepare to debut on the big screen. Marvel Studios and Denis Villeneuve are bringing forth their heavily anticipated films, creating high expectations for theater owners and moviegoers alike. Industry watchers anticipate that this competitive release window could break records and deliver the biggest opening weekend in the history of cinema.",
+          "Both features have generated immense public interest long before their official theatrical arrivals. The clash highlights the ongoing drawing power of major cinematic franchises and tentpole releases during the lucrative holiday viewing period."
+        ]
+      },
+      {
+        "h": "Advance Booking Momentum and Sales",
+        "p": [
+          "Advance ticket sales indicate a staggering level of demand for these upcoming December releases. Reports suggest that the Marvel entry is outpacing its science-fiction competitor significantly in early ticket sales, pulling in numbers several times higher than the rival franchise. Global projections for the superhero epic estimate a massive domestic opening haul ranging between USD 300 million and USD 400 million.",
+          "Furthermore, the Marvel blockbuster has already crossed impressive financial milestones months ahead of its premiere. Global presales have surpassed USD 125 million, while domestic US advance sales have cleared the USD 50 million mark, with the vast majority of purchasers opting for premium large-format screens."
+        ]
+      },
+      {
+        "h": "Records Set by the Sci-Fi Epic",
+        "p": [
+          "While trailing in overall raw sales volume, the science-fiction epic is carving out impressive records of its own. The film has secured the highest advance booking figures ever recorded for an IMAX release within the United States, demonstrating profound enthusiasm from core genre enthusiasts.",
+          "Current tracking indicators suggest that the feature is heading toward a franchise-record domestic opening weekend exceeding USD 100 million. This performance highlights the enduring popularity of the adaptation of Frank Herbert's universe."
+        ]
+      },
+      {
+        "h": "Historical Marvel Openings Context",
+        "p": [
+          "The massive projections for the latest Marvel offering place it in elite company alongside previous heavy-hitting releases from the studio. North American box office history is currently led by titles such as 'Spider-Man: Brand New Day', which pulled in USD 360 million, and 'Avengers: Endgame', which achieved USD 357 million.",
+          "Other notable entries on the all-time top opening list include 'Spider-Man: No Way Home' at USD 260 million and 'Avengers: Infinity War' at USD 257 million. The upcoming December release aims to challenge or even surpass these monumental historical benchmarks."
+        ]
+      },
+      {
+        "h": "Early Release Plans in India",
+        "p": [
+          "Marvel Studios has implemented a strategic international rollout plan by granting the superhero feature an early release in Indian theaters. The movie is scheduled to arrive on Thursday, December 17, 2026, beating the official US release date by a single day.",
+          "This announcement was accompanied by a special promotional Diwali message featuring returning cast members Robert Downey Jr., who portrays Doctor Doom, and Chris Evans, reprising his role as Steve Rogers. The regional distribution will span multiple languages, including English, Hindi, Tamil, and Telugu."
+        ]
+      },
+      {
+        "h": "IMAX Re-releases and Narrative Conclusion",
+        "p": [
+          "As the science-fiction conclusion approaches its December 18 US release date, the studio is building anticipation through special theatrical events. The first two installments of the series are scheduled to return to IMAX screens starting November 13, with select regions booking screenings through November 17.",
+          "These special engagement screenings will offer audiences an exclusive preview of the third installment, highlighting a notable 19-year time jump that propels the narrative forward to conclude the saga."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel's 'Avengers: Doomsday' and 'Dune: Part Three' are heading toward a major December box office showdown projected to set historic weekend records. The Marvel film is dominating early ticket sales and securing an early release in India, while the sci-fi epic is setting IMAX advance booking milestones ahead of their late-year theatrical debuts."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is scheduled for release in India on December 17, 2026",
+      "Dune: Part Three is scheduled for release in the US on December 18, 2026",
+      "Global presales for Avengers: Doomsday have surpassed USD 125 million",
+      "Spider-Man: Brand New Day opened with USD 360 million",
+      "Avengers: Endgame opened with USD 357 million",
+      "Spider-Man: No Way Home opened with USD 260 million",
+      "Avengers: Infinity War opened with USD 257 million"
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Frank Herbert"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Dune: Part Three",
+        "Spider-Man: Brand New Day",
+        "Avengers: Endgame",
+        "Spider-Man: No Way Home",
+        "Avengers: Infinity War",
+        "Dune: Part One",
+        "Dune: Part Two"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Dune Part Three",
+      "Robert Downey Jr",
+      "Chris Evans"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135284753,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Avengers: Doomsday’ and ‘Dune: Part Three’ December Box Office Clash Set to Make History",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-29T05:57:40+05:30"
   }
 };
