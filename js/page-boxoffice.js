@@ -23,10 +23,10 @@
     path: "/box-office"
   });
 
-  /* Today in IST (2026-10-28 fix): box-office dates are IST dates (Sacnilk /
-     the pipeline run on IST). The old UTC date was still yesterday for the
-     first 5.5 hours of the PKT/IST day, so 'Today' showed the wrong date. */
-  const today = new Date(Date.now() + (330 + new Date().getTimezoneOffset()) * 60000).toISOString().slice(0, 10);
+  /* Movie eligibility follows Pakistan-local release date; collections
+     themselves remain keyed to the India (IST) reporting day. */
+  const today = UI.todayPKT();
+  const todayIST = UI.todayIST();
   const dw = window.FA_DAYWISE || {};
 
   /* Card markup — copied verbatim from the homepage Box Office section
@@ -35,9 +35,11 @@
      rows; "Recorded" is the sum of the tracked days. */
   const boCardHtml = (entry, rows) => {
     const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
-    const weekStart = new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10);
-    const todayRows = clean.filter(r => r.date === today);
-    const weekRows = clean.filter(r => r.date >= weekStart && r.date <= today);
+    const weekStartDate = new Date(todayIST + "T00:00:00Z");
+    weekStartDate.setUTCDate(weekStartDate.getUTCDate() - 6);
+    const weekStart = weekStartDate.toISOString().slice(0, 10);
+    const todayRows = clean.filter(r => r.date === todayIST);
+    const weekRows = clean.filter(r => r.date >= weekStart && r.date <= todayIST);
     const todaySum = todayRows.reduce((s, r) => s + r.collection, 0);
     const weekSum = weekRows.reduce((s, r) => s + r.collection, 0);
     const weekDays = new Set(weekRows.map(r => r.date)).size;
@@ -45,7 +47,7 @@
     const date = entry.release_date || "";
     const missing = '<span class="fa-box-unavailable">Not reported</span>';
     const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-    return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} IST"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded (India Net)</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) return `<div title="Reported ${UI.esc(ww.scope === "domestic-only-so-far" || ww.scope === "domestic-opening-weekend" ? "domestic" : "worldwide")} theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded (India Net)</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
+    return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(todayIST)} IST"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded (India Net)</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) return `<div title="Reported ${UI.esc(ww.scope === "domestic-only-so-far" || ww.scope === "domestic-opening-weekend" ? "domestic" : "worldwide")} theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded (India Net)</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
   };
 
   /* Industry filter (?f=): bollywood = ALL Indian movies (industry
@@ -100,7 +102,6 @@
     [{ value: "all", label: "All industries" }, { value: "bollywood", label: "Bollywood" }, { value: "international", label: "World Cinema" }],
     f, (v) => { location.href = v === "all" ? "/box-office" : `/box-office?f=${v}`; });
 })();
-
 
 
 

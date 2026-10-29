@@ -1,26 +1,22 @@
 /* FlickAtlas — Coming Soon & Most Awaited hub (/most-awaited): the See All
    page for the homepage "Coming Soon & Most Awaited" rail. It lists the
-   FULL upcoming pool in the EXACT order the rail shows — nearest dated
-   release first, festival-only titles (past festival premiere, no
-   commercial date yet) after them — the rail shows the first 12, this
-   page shows all of them. Industry dropdown (All · Bollywood ·
-   World Cinema) mirrors the rail's switcher; the page reads ?f= on load.
+   FULL future-dated movie pool in the EXACT order the rail shows — oldest
+   upcoming release date first; titles whose only festival date has passed
+   are excluded — the rail shows the first 12, this page shows all of them.
+   Industry dropdown (All · Bollywood · World Cinema) mirrors the rail's
+   switcher; the page reads ?f= on load.
    MOVIES ONLY (owner order 2026-10-27): the Movie/TV Type filter was
    removed — TV series live in OTT. The ?t= param is ignored.
    PUBLISHED-ONLY: from window.FA_PUBLISHED entries whose release date
    is in the future. Nothing is fetched live.
-   SORT FIX 2026-10-28: the old sort was raw vote_average desc. No
-   published entry carries a TMDB popularity score and the whole
-   upcoming pool's biggest vote_count is 7, so a 1-vote 10.0 (Midnight
-   Momo) and a 7-vote 9.8 (Shutterspeed, festival June 2025) floated to
-   the top of World Cinema ahead of real Oct 2026 releases. The new
-   sort (byComingSoon, below) is date-first within tiers instead. */
+   Date sorting is explicit and switchable: oldest release date first by
+   default, or newest release date first when selected. */
 (async function () {
   UI.mountChrome("/most-awaited");
   const main = document.getElementById("app");
   UI.setSEO({
     title: "Coming Soon & Most Awaited — Upcoming Movies | FlickAtlas",
-    desc: "All upcoming movies on FlickAtlas, nearest releases first — festival premieres listed after dated releases. The full list behind the homepage Coming Soon & Most Awaited rail.",
+    desc: "All future-dated movies on FlickAtlas, sorted by release date. The full list behind the homepage Coming Soon & Most Awaited rail.",
     path: "/most-awaited"
   });
 
@@ -30,6 +26,8 @@
      dead zone) that left this page stuck on "Loading FlickAtlas…". */
   let f = UI.getParam("f", "all");
   if (!["all", "bollywood", "international", "pakistani"].includes(f)) f = "all";
+  let sort = UI.getParam("s", "oldest");
+  if (!["oldest", "newest"].includes(sort)) sort = "oldest";
   /* Owner order 2026-10-27: movies only — the Movie/TV Type filter was
      removed (TV series live in OTT). The ?t= param is ignored; the page
      always shows movies. Industry is the only filter, a .fa-select
@@ -37,9 +35,10 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Coming Soon &amp; Most Awaited</h1>
-      <p>All upcoming titles, nearest first — festival premieres after dated releases.</p></div>
+      <p>Upcoming movies only. Sort by release date; expired festival dates are not upcoming.</p></div>
     <div id="chipHost"><div class="listing-select-row">
       <div class="filter-select" role="group" aria-labelledby="indSelectLabel"><span class="filter-select-label" id="indSelectLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="indTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="indOptions" aria-labelledby="indSelectLabel indValue"><span class="fa-select-value" id="indValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="indOptions" role="listbox" aria-labelledby="indSelectLabel" hidden></div></div></div>
+      <div class="filter-select" role="group" aria-labelledby="sortSelectLabel"><span class="filter-select-label" id="sortSelectLabel">Sort by</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="sortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortOptions" aria-labelledby="sortSelectLabel sortValue"><span class="fa-select-value" id="sortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="sortOptions" role="listbox" aria-labelledby="sortSelectLabel" hidden></div></div></div>
     </div></div>
     <p class="fcount" id="fcount" aria-live="polite">Loading upcoming titles…</p>
     <div class="grid" id="grid">${UI.skelCards(6)}</div>
@@ -55,7 +54,7 @@
   /* The pick respects the ?f= filter the homepage and footer links pass
      (?f=bollywood / ?f=international), so every industry link shows its
      own single title (the filter itself is read above, before the HTML). */
-  const today = new Date().toISOString().slice(0, 10);
+  const today = UI.todayPKT();
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
      titles, World Cinema = only international — canonical
@@ -66,53 +65,25 @@
      branch is gone with the Type filter — TV can no longer leak in. */
   const inIndustry = x => f === "all" ? true
     : f === "international" ? UI.industryOf(x) === "world" : UI.industryOf(x) === f;
-  /* Coming Soon sort (2026-10-28 fix — same function as byComingSoon in
-     js/page-index.js; the rail and this page must stay in identical
-     order). Two tiers:
-     Tier 0 — dated releases (date in the future, any date_kind):
-       nearest date first; same date: TMDB popularity desc (baked by
-       scripts/publish-titles.py, 0 on older entries), then vote_count
-       desc, then vote_average desc, then title. Popularity/votes are
-       only tiebreaks — a raw vote_average sort is meaningless here:
-       no entry has a popularity score yet and the biggest vote_count
-       in the whole upcoming pool is 7.
-     Tier 1 — festival-only titles whose festival date has PASSED
-       (date_kind "festival", date <= today): they stay in Coming Soon
-       per the 2026-10-27 owner decision (a festival premiere is not a
-       release, never in released/Spotlight) but they must not outrank
-       dated releases — most recent festival first, then the same
-       popularity/votes tiebreaks. This is what drops Shutterspeed
-       (festival 26 June 2025, 9.8/7 votes) from #2 to the bottom of
-       the World rail instead of ahead of 29–30 Oct 2026 releases.
-     NOTE: Bayesian shrinkage alone would NOT fix this — with m=25 and
-     the pool's mean rated score C≈8.93, Shutterspeed still scores
-     ≈9.12 vs Wild Horse Nine ≈8.94. The tiering is the fix. */
-  const byComingSoon = (a, b) => {
-    const tier = (x) => (x.date_kind === "festival" && dateOf(x) <= today) ? 1 : 0;
-    const ta = tier(a), tb = tier(b);
-    if (ta !== tb) return ta - tb;
-    const dateCmp = ta === 0
+  /* Oldest release date = nearest upcoming date; newest release date =
+     farthest future date. Ratings only break ties on the same date. */
+  const byReleaseDate = (a, b) => (sort === "oldest"
       ? dateOf(a).localeCompare(dateOf(b))
-      : dateOf(b).localeCompare(dateOf(a));
-    return dateCmp
+      : dateOf(b).localeCompare(dateOf(a)))
       || (b.popularity || 0) - (a.popularity || 0)
       || (b.vote_count || 0) - (a.vote_count || 0)
       || (b.vote_average || 0) - (a.vote_average || 0)
       || String(a.title || "").localeCompare(String(b.title || ""));
-  };
-  /* Full pool, same order as the homepage rail (byComingSoon, above).
+  /* Full pool, same order as the homepage rail (byReleaseDate, above).
      The rail shows the first 12; this page shows ALL of them — that is
      what "See All" means. Movies only (owner order 2026-10-27) — TV
      series live in OTT. */
-  /* Festival-only titles (date_kind="festival", owner decision
-     2026-10-27) stay upcoming even when the festival date has
-     passed — a festival premiere is not a release. */
+  /* Past festival premieres are not upcoming unless a current future
+     commercial release date has been published. */
   const upcomingAll = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.id && x.poster_path && (dateOf(x) > today || x.date_kind === "festival"))
-    .sort(byComingSoon);
+    .filter(x => x && x.id && x.poster_path && dateOf(x) > today && (x.type || "movie") === "movie");
   function render() {
-    const upcoming = upcomingAll.filter(x => inIndustry(x)
-      && (x.type || "movie") === "movie");
+    const upcoming = upcomingAll.filter(x => inIndustry(x)).sort(byReleaseDate);
     if (!upcoming.length) {
       fcount.textContent = "0 upcoming titles";
       grid.innerHTML = UI.stateMsg("No upcoming titles have been published yet.", false);
@@ -122,18 +93,26 @@
     grid.innerHTML = upcoming.map(x => `<div class="fcell" data-fitem>${UI.posterCard(x, x.type || "movie", tagFor(x), undefined, undefined, true)}</div>`).join("");
   }
   const chipHost = main.querySelector("#chipHost");
-  UI.mountFaSelect(chipHost.querySelectorAll(".filter-select")[0],
+  const industryDd = UI.mountFaSelect(chipHost.querySelectorAll(".filter-select")[0],
     [{ value: "all", label: "All" }, { value: "bollywood", label: "Bollywood" }, { value: "international", label: "World Cinema" }],
     f, (v) => { f = v; UI.setParam("f", f === "all" ? "" : f); render(); });
+  const sortDd = UI.mountFaSelect(chipHost.querySelectorAll(".filter-select")[1],
+    [{ value: "oldest", label: "Oldest release date" }, { value: "newest", label: "Newest release date" }],
+    sort, (v) => { sort = v; UI.setParam("s", sort === "oldest" ? "" : sort); render(); });
   /* No Type mount: the filter is removed with its dropdown (owner order
      2026-10-27). No `if (selects[1])` guard is needed here — unlike
      page-index.js, this mount is page-specific, not shared across
      sections with different dropdown counts. */
+  window.addEventListener("popstate", () => {
+    f = UI.getParam("f", "all");
+    if (!["all", "bollywood", "international", "pakistani"].includes(f)) f = "all";
+    sort = UI.getParam("s", "oldest");
+    if (!["oldest", "newest"].includes(sort)) sort = "oldest";
+    industryDd.setValue(f);
+    sortDd.setValue(sort);
+    render();
+  });
   render();
 })();
-
-
-
-
 
 

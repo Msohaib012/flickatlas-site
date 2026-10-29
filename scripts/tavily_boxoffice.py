@@ -90,10 +90,10 @@ TAVILY_URL = "https://api.tavily.com/search"
 MAX_DAY_CR = 120.0
 ACTIVE_WINDOW_DAYS = 7  # last baseline row within this many days
 
-# A source whose day-wise table is a language split presented as India
-# totals. Verified 2026-10-26/27: Bollywood Hungama's Jailer 2 table
-# shows Day 1 Rs 2.56 Cr (Hindi version only) vs all-India ~Rs 59.70 Cr.
-BLOCKED_DOMAINS = ("bollywoodhungama.com",)
+# Sources that cannot support the claimed collection: Bollywood Hungama's
+# Jailer 2 table is a language split, and TheKnot URL found in a Tavily
+# result was unrelated movie-streaming spam, not box-office reporting.
+BLOCKED_DOMAINS = ("bollywoodhungama.com", "theknot.com")
 
 # Poison words checked ONLY in a tight window around the figure
 # (+/-100 chars), so a film's language in the article header, or a
@@ -294,9 +294,53 @@ def pick_figure(results, expected_day, today, today_strs,
 
 USD_RE = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)\s*(million|billion)?", re.IGNORECASE)
 SCOPE_RE = re.compile(r"\b(worldwide|global|domestic|international|budget)\b", re.IGNORECASE)
+GENERIC_CHART_RE = re.compile(
+    r"(?:^|[/_.?&])(?:lists?|charts?|rankings?)(?:$|[/_.?&])|"
+    r"\b(?:highest|top)[\s_-]+grossing[\s_-]+(?:films|movies|worldwide)\b|"
+    r"\ball[\s_-]+time[\s_-]+(?:box[\s_-]+office|grossing)"
+    r"[\s_-]+(?:lists?|charts?|rankings?)\b", re.IGNORECASE)
 
 
-def pick_worldwide(results, today, today_strs):
+def _normalized_title_text(text):
+    return re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).strip()
+
+
+def generic_chart_source(url, result_title=""):
+    """Identify a leaderboard/chart result, not a title-specific source."""
+    text = ((url or "") + " " + (result_title or "")).lower().replace("%20", " ")
+    return bool(GENERIC_CHART_RE.search(text))
+
+
+def result_mentions_film(movie_title, result_title, content):
+    """Require a whole-word title match in a supplied source context.
+
+    Call this on the local text around a figure, not just the search result
+    headline. Parenthetical alternate titles are allowed, so
+    ``Dhood (Sandstorm)`` can match a source that calls it ``Dhood``.
+    """
+    aliases = [movie_title or ""]
+    aliases.append(re.sub(r"\s*\([^)]*\)\s*$", "", movie_title or "").strip())
+    hay = " " + _normalized_title_text((result_title or "") + " " + (content or "")) + " "
+    for alias in aliases:
+        normalized = _normalized_title_text(alias)
+        if len(normalized.split()) == 1 and len(normalized) < 4:
+            continue
+        if normalized and (" " + normalized + " ") in hay:
+            return True
+    return False
+
+
+def figure_sentence_context(text, start, end):
+    """Return the sentence containing a candidate figure, conservatively."""
+    separators = ".!?;\n"
+    left = max((text.rfind(ch, 0, start) for ch in separators), default=-1)
+    right_edges = [pos for ch in separators
+                   if (pos := text.find(ch, end)) >= 0]
+    right = min(right_edges, default=len(text))
+    return text[left + 1:right]
+
+
+def pick_worldwide(results, movie_title):
     """Pick a reported worldwide theatrical total (USD) from Tavily
     results. Returns (usd, source_url, why) or (None, None, why).
 
@@ -314,16 +358,29 @@ def pick_worldwide(results, today, today_strs):
     are REJECTED — the seed (scripts/worldwide-seed.json) covers those;
     Tavily is a bonus path, never a guesser. If uncertain, NOTHING is
     returned."""
+    title_tied_to_figure = False
     for res in results:
         url = res.get("url", "") or ""
         title = res.get("title", "") or ""
         content = res.get("content", "") or ""
         if any(b in url.lower() for b in BLOCKED_DOMAINS):
             continue
+        # Leaderboards and chart pages can attach a popular film's figure
+        # to any search query, even if the target title appears elsewhere.
+        if generic_chart_source(url, title):
+            continue
         blob_low = (title + "\n" + content).lower()
         if "box office" not in blob_low and "gross" not in blob_low:
             continue
         for m in USD_RE.finditer(content):
+            # The target title must appear in the same source sentence as
+            # THIS candidate figure; a headline or nearby paragraph about
+            # another title does not make every amount in the article belong
+            # to the search target.
+            context = figure_sentence_context(content, m.start(), m.end())
+            if not result_mentions_film(movie_title, "", context):
+                continue
+            title_tied_to_figure = True
             try:
                 num = float(m.group(1).replace(",", ""))
             except ValueError:
@@ -343,6 +400,8 @@ def pick_worldwide(results, today, today_strs):
             if ("worldwide" in window or "global" in window) and \
                     "domestic" not in window and "international" not in window:
                 return int(round(usd)), url, f"worldwide total from {url}"
+    if not title_tied_to_figure:
+        return None, None, "no figure was tied to the target film in source context"
     return None, None, "no usable worldwide total"
 
 
@@ -576,12 +635,13 @@ def main():
                   f"({type(e).__name__}) — skipped")
             continue
         results = data.get("results", []) if isinstance(data, dict) else []
-        usd, url, why = pick_worldwide(results, today, today_strs)
+        usd, url, why = pick_worldwide(results, title)
         if usd is None:
             print(f"tavily-ww: {tid_s} {title}: no usable worldwide total — {why}")
             continue
         ww_staging[str(tid_s)] = {"total_usd": usd, "scope": "worldwide",
-                                   "source": url, "as_of": today.isoformat()}
+                                   "source": url, "title": title,
+                                   "as_of": today.isoformat()}
         n_ww_written += 1
         print(f"tavily-ww: {tid_s} {title}: ${usd:,} worldwide (via {slot}) — {why}")
     print(f"tavily-ww: queried {n_ww_queried} movie(s), wrote "
@@ -612,5 +672,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-

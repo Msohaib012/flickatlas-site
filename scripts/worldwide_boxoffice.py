@@ -39,6 +39,7 @@ This file is stdlib only.
 import argparse
 import json
 import os
+import re
 import sys
 from datetime import date
 
@@ -50,6 +51,11 @@ WORLDWIDE_HEADER = (
     "theatrical total in USD (NOT day-wise, NOT India Net). Shown only as "
     "a labelled fallback on Box Office cards for titles with no India-Net "
     "day-wise rows. */")
+GENERIC_CHART_RE = re.compile(
+    r"(?:^|[/_.?&])(?:lists?|charts?|rankings?)(?:$|[/_.?&])|"
+    r"\b(?:highest|top)[\s_-]+grossing[\s_-]+(?:films|movies|worldwide)\b|"
+    r"\ball[\s_-]+time[\s_-]+(?:box[\s_-]+office|grossing)"
+    r"[\s_-]+(?:lists?|charts?|rankings?)\b", re.IGNORECASE)
 
 
 def read_json(path):
@@ -82,6 +88,12 @@ def usable(entry):
             and 10000 <= total <= 3000000000)
 
 
+def generic_chart_source(entry):
+    """Reject a leaderboard URL as per-title proof for staged totals."""
+    source = str((entry or {}).get("source") or "").lower().replace("%20", " ")
+    return "theknot.com" in source or bool(GENERIC_CHART_RE.search(source))
+
+
 def merge(seed, staging_files):
     """seed: {tmdb: entry}; staging_files: list of {tmdb: entry} dicts.
     Returns (merged, notes) where notes lists human-readable decisions."""
@@ -95,6 +107,9 @@ def merge(seed, staging_files):
     for name, staging in staging_files:
         for tid, entry in sorted(staging.items()):
             tid = str(tid)
+            if generic_chart_source(entry):
+                notes.append(f"{tid}: staging {name} generic leaderboard source ignored")
+                continue
             if not usable(entry):
                 notes.append(f"{tid}: staging {name} entry unusable, ignored")
                 continue

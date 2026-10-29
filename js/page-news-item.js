@@ -544,6 +544,16 @@
   const displayFacts = (article.facts || []).filter(f =>
     !(whenText && String(f.k || "").toLowerCase() === "published") &&
     !((it.cats || []).length && String(f.k || "").toLowerCase() === "coverage"));
+  const boxOfficeText = article.headline || it.title || "";
+  const isBoxOfficePost = /box[\s-]?office|collection|worldwide gross/i.test(boxOfficeText);
+  const relatedMovie = enrich.td && enrich.td.type === "movie" ? enrich.td : null;
+  const postDaywiseCard = isBoxOfficePost && relatedMovie && enrich.daywise && enrich.daywise.length
+    ? UI.daywiseCard(enrich.daywise, "Day-Wise Box Office (India Net + Overseas)", { titleId: relatedMovie.id }) : "";
+  const relatedMovieReleasedRecently = relatedMovie && relatedMovie.release_date
+    && relatedMovie.release_date <= UI.todayPKT() && UI.isFresh(relatedMovie);
+  const postDaywiseHtml = postDaywiseCard || (isBoxOfficePost && relatedMovieReleasedRecently
+    ? `<div class="content-card" style="margin-top:14px"><h2>Day-Wise Box Office</h2><p>Daily collection figures for this movie have not been reported to FlickAtlas yet. Only sourced rows appear here; missing amounts are not estimated.</p></div>`
+    : "");
 
   /* ---------- Episode layout blocks (only for episode pages).
      Order: Episode Details table → Story Summary → YouTube embed,
@@ -656,6 +666,7 @@
       ${(article.body || []).map(sec => `<div class="content-card" style="margin-top:14px"><h2>${UI.esc(sec.h)}</h2>
         ${(sec.p || []).map(p => `<p class="article-summary">${UI.escRich(p)}</p>`).join("")}</div>`).join("")}
     </div>
+    ${postDaywiseHtml}
     ${displayFacts.length ? `<div class="content-card" style="margin-top:14px"><h2>Story Details</h2>
       <dl class="facts-table">${displayFacts.map(f =>
         (typeof f === "string" || !f.k)
@@ -688,8 +699,6 @@
 
   /* Top Searches removed (owner order 2026-10-28): keywords live in metadata only (scripts/seo_assets.py). */
 })();
-
-
 
 
 

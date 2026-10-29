@@ -24,10 +24,10 @@
       <div class="scroller">${UI.skelCards(6)}</div></section>
   </div>`;
 
-  /* Today in IST (2026-10-28 fix): box-office dates are IST dates (Sacnilk /
-     the pipeline run on IST). The old UTC date was still yesterday for the
-     first 5.5 hours of the PKT/IST day, so 'Today' showed the wrong date. */
-  const today = new Date(Date.now() + (330 + new Date().getTimezoneOffset()) * 60000).toISOString().slice(0, 10);
+  /* Category transitions follow the user's Pakistan-local date. Box-office
+     reports keep their separately defined India (IST) reporting day. */
+  const today = UI.todayPKT();
+  const todayIST = UI.todayIST();
   const cutoff = UI.freshCutoff();
   /* Audit fix: the outer catch used to wipe the whole rendered homepage
      whenever a post-render step threw. `rendered` tracks whether the page
@@ -47,14 +47,13 @@
     const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
     const dateOf = (x) => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
     const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a)) || (b.published_at || "").localeCompare(a.published_at || "");
-    /* Festival-only titles (date_kind="festival", owner decision
-       2026-10-27) do not fit in released/Spotlight — a festival
-       premiere is not a release. They stay upcoming (Coming Soon)
-       until a real theatrical/digital date exists, even when the
-       festival date itself has passed. */
+    const byOldest = (a, b) => dateOf(a).localeCompare(dateOf(b)) || (a.published_at || "").localeCompare(b.published_at || "");
+    /* A future festival premiere can appear in Coming Soon while its date
+       is still ahead; once that date passes it is no longer upcoming and
+       does not masquerade as a theatrical release in Spotlight. */
     const isFestivalOnly = (x) => x && x.date_kind === "festival";
     const isReleased = (x) => { const d = dateOf(x); return !!d && d <= today && !isFestivalOnly(x); };
-    const isUpcoming = (x) => { const d = dateOf(x); return !!d && (d > today || isFestivalOnly(x)); };
+    const isUpcoming = (x) => { const d = dateOf(x); return !!d && d > today; };
     const freshReleased = (x) => isReleased(x) && UI.isFresh(x);
     /* Spotlight recency (2026-10-28, user report: 2023/2025 titles on the
        rail): "Movies running now" is a 60-day window — a theatrical run
@@ -68,8 +67,9 @@
        today; no window can make it 12 without breaking the streaming-only
        exclusion or re-adding old titles. A 90-day window keeps the same
        titles (nothing sits between 2026-07-30 and 2026-08-29); 60 days is
-       the tighter "running now" reading. Sort stays byNewest; festival +
-       streaming-only exclusions unchanged. */
+       the tighter "running now" reading. The retained pool is ordered by
+       release date oldest-first; festival and streaming-only exclusions
+       remain in effect. */
     const SPOTLIGHT_WINDOW_DAYS = 60;
     const spotlightCutoff = (() => {
       const d = new Date(today + "T00:00:00Z");
@@ -86,53 +86,29 @@
     /* Published titles for a homepage rail, by kind + industry. Returns
        the FULL ordered pool (no slice, no distinct filtering) — the caller
        slices HOME_LIMITS items off the front.
-       kind "spotlight": released movies in the last 60 days ("running
-         now"), newest first — old titles never reach the rail.
-       kind "soon": upcoming movies, byComingSoon sort (dated releases
-         nearest first, past-festival titles after them — same as
-         /most-awaited).
-       kind "calendar": upcoming movies + TV, nearest date first. */
+       kind "spotlight": movies released in the last 60 days, oldest
+         release date first so newly released titles keep their date place.
+       kind "soon": future-dated movies only, nearest release date first.
+       kind "calendar": future-dated movies + TV, oldest date first. */
     /* Homepage limits (2026-10-26, homepage/See-All match): every section
        shows the FIRST N items of the exact ordered list its See All page
        shows — no distinct-title skipping, no one-item rails. The See All
        page lists the full pool in the same order. */
-    /* Spotlight (user order 2026-10-26, revised: show 10-15): the 12 newest
-       released movies per industry (was 'fresh this week' only, which capped
-       Bollywood at 4). New titles join daily via the nightly seeder. */
+    /* Spotlight shows its recent-release pool in chronological order;
+       it is not artificially capped, so newly released titles retain
+       their correct date position at the end of the ordered rail. */
     /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
        AT LEAST as many titles as the homepage movies rail (Spotlight,
        12 cards) — the old ott:7 cap bound the rails before the data did. */
     const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 13, ott: 12 };
-    /* Coming Soon sort (2026-10-28 fix — twin of byComingSoon in
-       js/page-most-awaited.js; the rail and that page must stay in
-       identical order). The old sort was raw vote_average desc. No
-       published entry carries a TMDB popularity score and the whole
-       upcoming pool's biggest vote_count is 7, so a 1-vote 10.0
-       (Midnight Momo) and a 7-vote 9.8 (Shutterspeed, festival June
-       2025) floated to the top of World Cinema ahead of real Oct 2026
-       releases. New sort, two tiers: Tier 0 = dated releases (date in
-       the future), nearest date first; same date: popularity desc
-       (baked by scripts/publish-titles.py, 0 on older entries), then
-       vote_count desc, then vote_average desc, then title. Tier 1 =
-       festival-only titles whose festival date has PASSED — they stay
-       in Coming Soon per the 2026-10-27 owner decision but must not
-       outrank dated releases; most recent festival first, then the
-       same tiebreaks. Bayesian shrinkage alone would NOT fix this
-       (m=25, pool mean C≈8.93: Shutterspeed ≈9.12 still beats Wild
-       Horse Nine ≈8.94) — the tiering is the fix. */
-    const byComingSoon = (a, b) => {
-      const tier = (x) => (x.date_kind === "festival" && dateOf(x) <= today) ? 1 : 0;
-      const ta = tier(a), tb = tier(b);
-      if (ta !== tb) return ta - tb;
-      const dateCmp = ta === 0
-        ? dateOf(a).localeCompare(dateOf(b))
-        : dateOf(b).localeCompare(dateOf(a));
-      return dateCmp
+    /* Coming Soon order (shared with /most-awaited): only future-dated
+       movies enter; sort by nearest release date, then use stable ratings
+       and title tie-breaks for entries sharing the same date. */
+    const byComingSoon = (a, b) => dateOf(a).localeCompare(dateOf(b))
         || (b.popularity || 0) - (a.popularity || 0)
         || (b.vote_count || 0) - (a.vote_count || 0)
         || (b.vote_average || 0) - (a.vote_average || 0)
         || String(UI.titleOf(a) || "").localeCompare(String(UI.titleOf(b) || ""));
-    };
     /* Industry tag for cards: UI.industryTag now returns "World Cinema" for
        world-industry titles (fixed in ui.js) — the explicit label is kept
        as a harmless guard. */
@@ -204,7 +180,7 @@
            Bollywood rail shows 8 after the streaming-only exclusion,
            the World rail stays full at 12. New titles join daily via
            the nightly seeder. */
-        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x) && inSpotlightWindow(x) && !UI.isStreamingOnly(x)).sort(byNewest);
+        const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x) && inSpotlightWindow(x) && !UI.isStreamingOnly(x)).sort(byOldest);
         if (type === "tv") return releasedTv().slice(0, 12);
         if (type === "all") {
           /* "All" must visibly show BOTH types: a plain newest-first
@@ -346,9 +322,9 @@
       ${withType ? `<div class="filter-select" role="group" aria-labelledby="${kind}TypeLabel"><span id="${kind}TypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}TypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}TypeOptions" aria-labelledby="${kind}TypeLabel ${kind}TypeValue"><span class="fa-select-value" id="${kind}TypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}TypeOptions" role="listbox" aria-labelledby="${kind}TypeLabel" hidden></div></div></div>` : ""}
     </div>`;
     const bollyReleased = publishedFor("spotlight", "bollywood", "movie");
-    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=recent&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<p class="sec-sub">Movies running now, newest first; filter by industry.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
+    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&s=oldest&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<p class="sec-sub">Movies running now, oldest release date first; new releases keep their date position.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
     const bollySoon = publishedFor("soon", "bollywood", "movie").slice(0, HOME_LIMITS.soon);
-    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood">See All →</a></div>${homeFilterRow("soon", false)}<p class="sec-sub">Nearest releases first; festival premieres follow · dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
+    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood&s=oldest">See All →</a></div>${homeFilterRow("soon", false)}<p class="sec-sub">Upcoming movies only · oldest release date first (nearest date first); dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
 
     /* ---------- Lollywood: Pakistani released titles, fresh-first (falls
        back to all released, same as the other rails), newest first. The
@@ -409,9 +385,11 @@
       const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
       /* Date of the latest reported day-wise row — the "Today" figure's date. */
       const latestDate = clean.reduce((mx, r) => (r.date > mx ? r.date : mx), "");
-      const weekStart = new Date(Date.now() - 6 * 864e5).toISOString().slice(0, 10);
-      const todayRows = clean.filter(r => r.date === today);
-      const weekRows = clean.filter(r => r.date >= weekStart && r.date <= today);
+      const weekStartDate = new Date(todayIST + "T00:00:00Z");
+      weekStartDate.setUTCDate(weekStartDate.getUTCDate() - 6);
+      const weekStart = weekStartDate.toISOString().slice(0, 10);
+      const todayRows = clean.filter(r => r.date === todayIST);
+      const weekRows = clean.filter(r => r.date >= weekStart && r.date <= todayIST);
       const todaySum = todayRows.reduce((s, r) => s + r.collection, 0);
       const weekSum = weekRows.reduce((s, r) => s + r.collection, 0);
       const weekDays = new Set(weekRows.map(r => r.date)).size;
@@ -419,7 +397,7 @@
       const date = entry.release_date || "";
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(today)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(today)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) return `<div title="Reported ${UI.esc(ww.scope === "domestic-only-so-far" || ww.scope === "domestic-opening-weekend" ? "domestic" : "worldwide")} theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
+      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(todayIST)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) return `<div title="Reported ${UI.esc(ww.scope === "domestic-only-so-far" || ww.scope === "domestic-opening-weekend" ? "domestic" : "worldwide")} theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
     };
     /* Box Office sort (2026-10-28 fix): release date DESC, then published_at
        DESC, then recorded total DESC (India-Net rows, else the worldwide
@@ -525,9 +503,9 @@
     const upList = publishedFor("calendar", "bollywood").slice(0, HOME_LIMITS.calendar);
     const upHtml = hasKind("calendar") ? `<section class="section" data-sec="coming-soon" id="homeCalendar">
       <div class="section-head"><h2>Coming Soon — Release Calendar</h2>
-      <a class="see-all" href="/upcoming?f=bollywood&s=nearest&seeall=1">See All →</a></div>
+      <a class="see-all" href="/upcoming?f=bollywood&s=oldest&seeall=1">See All →</a></div>
       ${switchButtons("calendar")}
-      <p class="sec-sub">Announced film and series dates, nearest first; dates may change.</p>
+      <p class="sec-sub">Upcoming release and premiere dates only · oldest release date first.</p>
       <div class="tl-list" data-results>
         ${upList.length ? upList.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>'}
       </div></section>` : "";
@@ -1102,8 +1080,8 @@
           return;
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
-        link.href = kind === "spotlight" ? `/movies?f=${industry}&s=recent&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=nearest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "All movies running now, newest first · " + industryLabel(industry) : kind === "soon" ? "Nearest releases first; festival premieres follow · " + industryLabel(industry) : kind === "boxoffice" ? "Recently-released films, newest first · " + industryLabel(industry) : "Announced film and series dates, nearest first · " + industryLabel(industry);
+        link.href = kind === "spotlight" ? `/movies?f=${industry}&s=oldest&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}&s=oldest` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=oldest&seeall=1`;
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, oldest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "Recently-released films, newest first · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
@@ -1160,11 +1138,11 @@
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : "Coming Soon & Most Awaited";
         link.href = kind === "spotlight"
-          ? `/movies?f=${industry}&s=recent&seeall=1${typeParam(type)}`
+          ? `/movies?f=${industry}&s=oldest&seeall=1${typeParam(type)}`
           : `/most-awaited?f=${industry}${typeParam(type)}`;
         section.querySelector(".sec-sub").textContent = kind === "spotlight"
-          ? "Movies running now, newest first · " + industryLabel(industry)
-          : "Nearest releases first; festival premieres follow · " + industryLabel(industry);
+          ? "Movies running now, oldest release date first · " + industryLabel(industry)
+          : "Upcoming movies only, oldest release date first · " + industryLabel(industry);
         const result = section.querySelector("[data-results]");
         const items = kind === "spotlight" ? publishedFor(kind, industry, type) : publishedFor(kind, industry, type).slice(0, HOME_LIMITS.soon);
         result.innerHTML = items.length
@@ -1290,12 +1268,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
-
-
-
-
-
 
 
 

@@ -195,7 +195,11 @@
     const trailerName = pub.trailer && pub.trailer.name ? pub.trailer.name : "";
 
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
-    const daywiseHtml = rows && rows.length ? UI.daywiseCard(rows, "Day-Wise Box Office (India Net + Overseas)", { titleId: id }) : "";
+    const daywiseCardHtml = rows && rows.length
+      ? UI.daywiseCard(rows, "Day-Wise Box Office (India Net + Overseas)", { titleId: id }) : "";
+    const daywiseHtml = daywiseCardHtml || (pub.release_date && pub.release_date <= UI.todayPKT() && UI.isFresh(pub)
+      ? `<div class="content-card"><h2>Day-Wise Box Office</h2><p>Daily collection figures for this movie have not been reported to FlickAtlas yet. This page will show sourced rows when they are available; missing amounts are not estimated.</p></div>`
+      : "");
 
     /* Advance booking (user order 2026-10-26): upcoming days' advance
        figures from window.FA_ADVANCE (js/advance-data.js, produced by
@@ -538,7 +542,6 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
-
 
 
 

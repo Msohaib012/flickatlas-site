@@ -5,6 +5,17 @@ const UI = (() => {
   const esc = (s) => String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  /* Release dates are market-local, and FlickAtlas box-office days are
+     explicitly reported in India time. Never compare them to UTC midnight. */
+  const todayInZone = (timeZone) => {
+    const parts = new Intl.DateTimeFormat("en-CA", {
+      timeZone, year: "numeric", month: "2-digit", day: "2-digit"
+    }).formatToParts(new Date());
+    const values = Object.fromEntries(parts.map(p => [p.type, p.value]));
+    return `${values.year}-${values.month}-${values.day}`;
+  };
+  const todayIST = () => todayInZone("Asia/Kolkata");
+  const todayPKT = () => todayInZone("Asia/Karachi");
   // TMDB image paths are always "/<name>.<ext>" (optionally with subdirs).
   // Anything else (quotes, spaces, a full URL, "javascript:") is rejected
   // so a poisoned path can never break out of the <img src="..."> attribute
@@ -450,7 +461,7 @@ const UI = (() => {
     return m ? parseInt(m[1], 10) : idx + 1;
   }
   function bollywoodRows(rows) {
-    const today = new Date().toISOString().slice(0, 10), seen = new Set();
+    const today = todayIST(), seen = new Set();
     return rows.map((r, i) => ({ ...r, _day: dayNumOf(r, i) })).filter(r => {
       if (!/^\d{4}-\d{2}-\d{2}$/.test(r.date || "") || r.date > today ||
         !Number.isFinite(Date.parse(r.date + "T00:00:00Z")) || new Date(r.date + "T00:00:00Z").toISOString().slice(0, 10) !== r.date ||
@@ -1138,16 +1149,13 @@ const UI = (() => {
     return n;
   }
 
-  return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
+  return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, todayIST, todayPKT, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
     relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
-
-
-
 
 
 

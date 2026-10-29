@@ -32,7 +32,7 @@
      entry split (chips vs dropdown) is gone — one control always. */
   let f = UI.getParam("f", "bollywood");
   let sort = UI.getParam("s", "recent");
-  if (!["popular", "recent"].includes(sort)) sort = "recent";
+  if (!["popular", "recent", "oldest"].includes(sort)) sort = "recent";
   if (!(f === TRENDING_FILTER || FILTERS.some(([k]) => k === f))) f = "bollywood";
   const isTrending = () => f === TRENDING_FILTER;
   let g = UI.getParam("g", "");
@@ -70,8 +70,8 @@
     FILTERS.map(([value, label]) => ({ value, label })),
     f, (v) => setFilter(v));
   const sortDd = UI.mountFaSelect(filterHosts[2],
-    [{ value: "recent", label: "Newest first" }, { value: "popular", label: "Most Popular" }],
-    sort, (v) => { sort = v; UI.setParam("s", sort === "recent" ? "" : "popular"); render(); });
+    [{ value: "recent", label: "Newest release date first" }, { value: "oldest", label: "Oldest release date first" }, { value: "popular", label: "Most Popular" }],
+    sort, (v) => { sort = v; UI.setParam("s", sort === "recent" ? "" : sort); render(); });
   const typeDd = UI.mountFaSelect(filterHosts[4],
     [{ value: "movie", label: "Movies" }, { value: "tv", label: "TV Series" }, { value: "all", label: "All" }],
     t, (v) => {
@@ -86,14 +86,14 @@
      Industry tag for cards: "World Cinema" for world-industry titles
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
   const tagFor = (x) => UI.industryTag(x);
-  const todayStr = () => new Date().toISOString().slice(0, 10);
+  const todayStr = () => UI.todayPKT();
   /* Spotlight window (owner order 2026-10-28, same 60-day window as
      page-index.js): "Movies running now" is 60 days back from the IST
      today. Used only by the ?seeall=1 Spotlight view below. */
   const SPOTLIGHT_WINDOW_DAYS = 60;
   const spotlightCutoff = (() => {
-    const ist = new Date(Date.now() + (330 + new Date().getTimezoneOffset()) * 60000).toISOString().slice(0, 10);
-    const d = new Date(ist + "T00:00:00Z");
+    const pkt = UI.todayPKT();
+    const d = new Date(pkt + "T00:00:00Z");
     d.setUTCDate(d.getUTCDate() - SPOTLIGHT_WINDOW_DAYS);
     return d.toISOString().slice(0, 10);
   })();
@@ -101,14 +101,16 @@
   const published = () => Object.values(window.FA_PUBLISHED || {});
   const typeOf = (x) => (x && (x.type || x.media_type)) || "movie";
   const dateOf = x => typeOf(x) === "tv" ? (x.first_air_date || "") : (x.release_date || "");
-  /* Homepage rule (correction 9, as amended 2026-10-26 by user order):
-     recency-sorted everywhere, newest first — RELEASE DATE desc (the
-     latest release leads, then going back); published_at only breaks
-     ties. The old published_at-first sort scrambled the order whenever
-     titles were published in batches. "Popular" sorts by rating
-     (published entries carry no TMDB popularity score). */
+  /* Normal Movies hub date order is newest first — RELEASE DATE desc,
+     with published_at only breaking ties. The homepage Spotlight See All
+     view below intentionally overrides that to oldest-first within the
+     recent-release window, so titles keep their chronological position.
+     "Popular" sorts by rating (published entries carry no TMDB popularity
+     score). */
   const byNewest = (a, b) => dateOf(b).localeCompare(dateOf(a))
     || (b.published_at || "").localeCompare(a.published_at || "");
+  const byOldest = (a, b) => dateOf(a).localeCompare(dateOf(b))
+    || (a.published_at || "").localeCompare(b.published_at || "");
   const byPopular = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
     || (b.vote_count || 0) - (a.vote_count || 0);
 
@@ -215,13 +217,13 @@
        is opened from the homepage rail (?seeall=1, default filters) it
        must show the SAME set, in the SAME order, as the homepage
        Spotlight rail — released movies in the 60-day "running now"
-       window, newest first, streaming-only excluded. The yearly hub
+       window, oldest release date first, streaming-only excluded. The yearly hub
        pool (19 Bollywood titles) is a different set; the year gate
        does not apply here. Changing any filter drops out of See All
        mode into the normal yearly browse. */
     const seeAll = UI.getParam("seeall", "") === "1"
       && (f === "bollywood" || f === "international")
-      && sort === "recent" && t === "movie" && !g && y === (years[0] || "");
+      && sort === "oldest" && t === "movie" && !g && y === (years[0] || "");
     const items = pool.filter(x => {
       if (seeAll) {
         if (typeOf(x) !== "movie") return false;
@@ -247,6 +249,7 @@
       return true;
     });
     items.sort((a, b) => f === "top" ? byPopular(a, b)
+      : sort === "oldest" ? byOldest(a, b)
       : sort === "recent" ? byNewest(a, b) : byPopular(a, b));
     grid.innerHTML = items.map(x =>
       `<div class="fcell" data-fitem>${UI.posterCard(x, typeOf(x), tagFor(x), undefined, undefined, true)}</div>`).join("");
@@ -270,7 +273,7 @@
     f = (UI.getParam("f", "bollywood") === TRENDING_FILTER || FILTERS.some(([candidate]) => candidate === UI.getParam("f", "bollywood"))) ? UI.getParam("f", "bollywood") : "bollywood";
     g = UI.getParam("g", "");
     if (g && !genreList.includes(g)) g = ""; /* unknown genre -> All */
-    sort = UI.getParam("s", "recent"); if (!["popular", "recent"].includes(sort)) sort = "recent";
+    sort = UI.getParam("s", "recent"); if (!["popular", "recent", "oldest"].includes(sort)) sort = "recent";
     t = UI.getParam("t", "movie"); if (!["movie", "tv", "all"].includes(t)) t = "movie";
     y = UI.getParam("y", "");
     if (!years.includes(y)) y = years[0] || "";
@@ -284,8 +287,6 @@
 
   render();
 })();
-
-
 
 
 

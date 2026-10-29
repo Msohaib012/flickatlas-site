@@ -72,16 +72,17 @@
   const MORE_FILTERS = [["all", "All"], ["movies", "Movies"], ["tv", "TV"], ["month", "This Month"], ["pakistani", "Pakistani"]];
   const FILTERS = [...MAIN_FILTERS, ...MORE_FILTERS];
   let f = UI.getParam("f", "bollywood");
-  let sort = UI.getParam("s", "nearest"); if (sort !== "nearest") sort = "nearest";
+  let sort = UI.getParam("s", "oldest"); if (!["oldest", "newest"].includes(sort)) sort = "oldest";
   if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Upcoming Releases</h1>
       <p>Upcoming movie and TV dates by month; dates may change.</p></div>
-    <div id="chipHost"><div class="listing-select-row listing-select-row--single">
+    <div id="chipHost"><div class="listing-select-row">
       <div class="filter-select" role="group" aria-labelledby="upFilterLabel"><span class="filter-select-label" id="upFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="upFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="upFilterOptions" aria-labelledby="upFilterLabel upFilterValue"><span class="fa-select-value" id="upFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="upFilterOptions" role="listbox" aria-labelledby="upFilterLabel" hidden></div></div></div>
+      <div class="filter-select" role="group" aria-labelledby="upSortLabel"><span class="filter-select-label" id="upSortLabel">Sort by</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="upSortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="upSortOptions" aria-labelledby="upSortLabel upSortValue"><span class="fa-select-value" id="upSortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="upSortOptions" role="listbox" aria-labelledby="upSortLabel" hidden></div></div></div>
     </div></div>
-    <p class="sec-sub">Nearest first · movies and TV premieres</p>
+    <p class="sec-sub">Upcoming release and premiere dates only · oldest release date first.</p>
     <p class="fcount" id="fcount"></p>
     <div id="upWrap">${UI.skelCards(8)}</div>
   </div>`;
@@ -94,6 +95,9 @@
   const catDd = UI.mountFaSelect(main.querySelector("#chipHost .filter-select"),
     FILTERS.map(([value, label]) => ({ value, label })),
     f, (v) => setFilter(v));
+  const sortDd = UI.mountFaSelect(main.querySelectorAll("#chipHost .filter-select")[1],
+    [{ value: "oldest", label: "Oldest release date" }, { value: "newest", label: "Newest release date" }],
+    sort, (v) => { sort = v; UI.setParam("s", sort === "oldest" ? "" : sort); render(); });
 
   /* Published titles only: window.FA_PUBLISHED, keyed by TMDB id.
      Upcoming = entries whose release/air date is in the future.
@@ -102,18 +106,15 @@
      Industry tag for cards: "World Cinema" for world-industry titles
      (UI.industryTag now returns "World Cinema" — fixed in ui.js; the local override is a harmless guard). */
   const tagFor = (x) => UI.industryTag(x);
-  const today = new Date().toISOString().slice(0, 10);
+  const today = UI.todayPKT();
   const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
   const items = Object.values(window.FA_PUBLISHED || {})
-    .filter(x => x && x.id && x.poster_path && (dateOf(x) > today || x.date_kind === "festival"))
-    .map(x => ({ ...x, _date: dateOf(x) }))
-    .sort((a, b) => a._date.localeCompare(b._date)
-      || (b.published_at || "").localeCompare(a.published_at || ""))
-    .slice(0, 120);
+    .filter(x => x && x.id && x.poster_path && dateOf(x) > today)
+    .map(x => ({ ...x, _date: dateOf(x) }));
 
   function render() {
-    const ym = new Date().toISOString().slice(0, 7);
-    const list = items.filter(x => {
+    const ym = today.slice(0, 7);
+    const filteredItems = items.filter(x => {
       if (f === "movies") return x.type === "movie";
       if (f === "tv") return x.type === "tv";
       /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
@@ -125,6 +126,10 @@
       if (f === "month") return (x._date || "").slice(0, 7) === ym;
       return true;
     });
+    const list = filteredItems.slice()
+      .sort((a, b) => (sort === "oldest" ? a._date.localeCompare(b._date) : b._date.localeCompare(a._date))
+        || (b.published_at || "").localeCompare(a.published_at || ""))
+      .slice(0, 120);
     fcount.textContent = list.length ? `${list.length} upcoming release${list.length === 1 ? "" : "s"}` : "";
     if (!list.length) {
       wrap.innerHTML = UI.stateMsg(items.length
@@ -161,14 +166,11 @@
   }
   window.addEventListener("popstate", () => {
     f = UI.getParam("f", "bollywood"); if (!FILTERS.some(([k]) => k === f)) f = "bollywood";
-    sort = UI.getParam("s", "nearest"); if (sort !== "nearest") sort = "nearest";
+    sort = UI.getParam("s", "oldest"); if (!["oldest", "newest"].includes(sort)) sort = "oldest";
     catDd.setValue(f);
+    sortDd.setValue(sort);
     render();
   });
 
   render();
 })();
-
-
-
-
