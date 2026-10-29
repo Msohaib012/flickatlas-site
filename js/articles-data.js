@@ -15068,5 +15068,189 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-29T05:57:40+05:30"
+  },
+  "y062wl": {
+    "id": "y062wl",
+    "type": "news",
+    "headline": "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 750 Crore Globally",
+    "dek": "The action drama starring Superstar Rajinikanth experiences a 21.1% decline on its fourteenth day at the box office while continuing its strong march toward major milestones.",
+    "body": [
+      {
+        "h": "Milestone Achievement for Tamil Cinema",
+        "p": [
+          "The high-octane action drama headlined by Superstar Rajinikanth has etched its name in history by becoming the highest grossing Tamil film ever. Its total domestic net collections have successfully surpassed the significant milestone of Rs. 400 crore, maintaining strong momentum since its theatrical debut.",
+          "Despite a noticeable downward shift in daily earnings during its second week, the project continues to hold substantial ground at ticket windows across various regions and languages."
+        ]
+      },
+      {
+        "h": "Day 14 Box Office Performance and Drop",
+        "p": [
+          "Data compiled by trade analyst Sacnilk indicates that the feature brought in over Rs. 6.55 crore on its fourteenth day. This figure reflects a 21.1% decrease compared to the collections registered on the preceding Tuesday.",
+          "The earnings on Day 14 were distributed across a total of 10,542 screenings nationwide, pointing to a sustained, albeit cooling, audience turnout as the second week concluded."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution Breakdown",
+        "p": [
+          "The primary revenue driver remains the Tamil version, which contributed over Rs. 3.65 crore from 4,553 shows. Meanwhile, the Telugu version generated Rs. 1.50 crore across 1,736 shows.",
+          "Hindi screenings brought in an additional Rs. 1.20 crore through 4,040 shows, while the Kannada version managed Rs. 20 lakh over 213 shows."
+        ]
+      },
+      {
+        "h": "Total Indian Net and Gross Totals",
+        "p": [
+          "Following the latest updates, the cumulative India net collection for the movie stands at an impressive Rs. 423 crore. Additionally, the overall India gross collections have reached Rs. 495 crore.",
+          "These figures reflect the steady accumulation of ticket sales across consecutive days since the film opened in theaters on October 15."
+        ]
+      },
+      {
+        "h": "Global Collections and International Reach",
+        "p": [
+          "On the international front, the venture collected over Rs. 2.50 crore on Day 13 alone, pushing the total overseas gross to an estimated Rs. 258 crore.",
+          "With strong overseas numbers supporting its domestic tally, the worldwide gross has climbed to Rs. 745.45 crore, bringing it tantalizingly close to the Rs. 750 crore mark globally."
+        ]
+      },
+      {
+        "h": "Plot, Director, and Star-Studded Cast",
+        "p": [
+          "Directed by Nelson Dilipkumar, the narrative serves as a sequel to the 2023 blockbuster. It centers on the retired jailer Tiger Muthuvel Pandian, whose peaceful existence gets shattered by a fresh threat from the criminal underground.",
+          "The ensemble cast features prominent names such as Vidya Balan, Suraj Venjaramoodu, S. J. Suryah, Vijay Sethupathi, Mithun Chakraborty, and Jackie Shroff, alongside special cameo appearances by Malayalam superstar Mohanlal, Hrithik Roshan, and Shiva Rajkumar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action drama 'Jailer 2' has crossed Rs. 423 crore in India net collections and reached a worldwide gross of Rs. 745.45 crore by its fourteenth day. Despite seeing a 21.1% decline on Day 14 with Rs. 6.55 crore, the Nelson Dilipkumar directorial remains poised to hit the Rs. 750 crore milestone globally."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 released on October 15, 2026",
+      "Day 14 collection was Rs 6.55 crore",
+      "Total India net collection stands at Rs 423 crore",
+      "Total India gross collection stands at Rs 495 crore",
+      "Worldwide gross collection stands at Rs 745.45 crore",
+      "Total overseas gross stands at Rs 258 crore",
+      "The film experienced a 21.1% drop on Day 14"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Vidya Balan",
+        "Suraj Venjaramoodu",
+        "S. J. Suryah",
+        "Vijay Sethupathi",
+        "Mithun Chakraborty",
+        "Jackie Shroff",
+        "Mohanlal",
+        "Hrithik Roshan",
+        "Shiva Rajkumar"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 day 14 collection",
+      "Jailer 2 worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135286310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 750 Crore Globally",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-29T07:33:38+05:30"
+  },
+  "q15yl7": {
+    "id": "q15yl7",
+    "type": "news",
+    "headline": "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting protesting students in a new video",
+    "dek": "Veteran actor Naseeruddin Shah has released a fiery video defending students at Jamia Millia Islamia, JNU, and SRFTI, while questioning government actions and turning familiar political labels back on those in power.",
+    "body": [
+      {
+        "h": "Actor Issues Defiant Video Message",
+        "p": [
+          "Veteran actor Naseeruddin Shah has released a powerful video statement in which he proudly embraces labels typically assigned to critics by political figures. Declaring himself an intellectual Naxal, the actor directly addressed the administration regarding its approach to student activists across the country.",
+          "The footage features Shah speaking out against what he perceives as targeted crackdowns on educational hubs. His remarks focus heavily on the welfare of young scholars and the preservation of academic independence."
+        ]
+      },
+      {
+        "h": "Reversing Political Labels",
+        "p": [
+          "During his address, Shah tackled terms like anti-national and the tukde-tukde gang, which he noted are frequently deployed by self-appointed watchmen against dissenting voices. Instead of accepting these designations, he directed the tukde-tukde label straight back at the government.",
+          "He questioned the motives of individuals surrounding the administration, describing them as dishonest and foolish. According to Shah, the actions taken against academic spaces pose a direct risk to the nation's democratic framework."
+        ]
+      },
+      {
+        "h": "Highlighting Key Educational Institutions",
+        "p": [
+          "The actor specifically highlighted three major centers of learning during his commentary: Jawaharlal Nehru University, the Satyajit Ray Film and Television Institute, and Jamia Millia Islamia. He noted a recurring pattern of student oppression across these campuses.",
+          "His comments on Jamia align with ongoing student demands for a firm timeline regarding student union elections, which have been absent since 2006, alongside approval for the union constitution."
+        ]
+      },
+      {
+        "h": "Invocation of Revolutionary Verse",
+        "p": [
+          "To emphasize his stance on resistance, Shah recited lines from Bismil Azimabadi's classic revolutionary poem, Sarfaroshi Ki Tamanna. The verse speaks directly about the enduring desire for freedom and tests the resolve of those wielding authority.",
+          "This poetic inclusion served to underscore his warning that current mistreatment of student demonstrators will remain in the public memory and will not be easily erased."
+        ]
+      },
+      {
+        "h": "Criticism of Media and IT Cells",
+        "p": [
+          "Shah also directed sharp criticism toward partisan digital networks and specific media outlets, using strong phrasing to describe obedient broadcasting entities. He accused them of endlessly spreading falsehoods to defend the ruling party.",
+          "Addressing the Bharatiya Janata Party's IT cell directly, he challenged them to deploy all their resources, maintaining that the determination of the country's youth remains unbroken."
+        ]
+      },
+      {
+        "h": "History of Student Advocacy",
+        "p": [
+          "This recent commentary follows a pattern of outspoken support from the actor regarding campus protests. Earlier, he stood with students at SRFTI who engaged in an indefinite sit-in following campus violence.",
+          "Additionally, he voiced disapproval in July regarding the administration's handling of NEET 2026 examination irregularities and related protests led by the Cockroach Janata Party."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Naseeruddin Shah released a fiery video defending protesting students at Jamia Millia Islamia, JNU, and SRFTI while labeling the government as a tukde-tukde gang and calling himself a dimagi Naxal. He criticized partisan media and the BJP's IT cell, warning that the youth's spirit cannot be broken."
+        ]
+      }
+    ],
+    "facts": [
+      "Naseeruddin Shah released a video on October 29, 2026.",
+      "Student union elections at Jamia have not been held since 2006.",
+      "Shah referenced the poem Sarfaroshi Ki Tamanna by Bismil Azimabadi.",
+      "Institutions named by Shah include JNU, SRFTI, and Jamia Millia Islamia."
+    ],
+    "entities": {
+      "people": [
+        "Naseeruddin Shah",
+        "Bismil Azimabadi",
+        "Anisha Rao"
+      ],
+      "titles": [
+        "Sarfaroshi Ki Tamanna"
+      ]
+    },
+    "keywords": [
+      "Naseeruddin Shah",
+      "Jamia Millia Islamia",
+      "dimagi Naxal video",
+      "SRFTI JNU student protests"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/naseeruddin-shah-calls-himself-a-dimagi-naxal-295052707-16x9_0.jpg?VersionId=BbdRjxFU7forpzLiO.Dhgozns.eUvw1L",
+        "caption": "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting protesting students in a new video",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 07:54:58 +0530"
   }
 };
