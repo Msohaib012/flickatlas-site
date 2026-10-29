@@ -259,6 +259,51 @@ def derive_industry(details):
     return "world"
 
 
+PRESERVED_OWNER_FIELDS = (
+    "providers", "ott_release_date", "ott_release_provider",
+    "ott_release_source", "pakistan_theatrical_release_date",
+    "pakistan_release_source",
+)
+
+
+def preserve_owner_fields(entry, existing):
+    """Keep verified owner annotations when rebuilding a TMDB entry."""
+    if isinstance(existing, dict):
+        for key in PRESERVED_OWNER_FIELDS:
+            if key in existing:
+                entry[key] = existing[key]
+    return entry
+
+
+def preserve_verified_ott_provider(existing, fetched):
+    """Keep an independently confirmed OTT platform if TMDB omits it.
+
+    `fetched is None` means the provider request failed and callers should
+    leave the current provider field untouched. An empty list is a successful
+    response; retain only the old provider matching the source-verified OTT
+    premiere annotation, while accepting any other TMDB providers returned.
+    """
+    if fetched is None:
+        return None
+    result = [dict(p) for p in fetched if isinstance(p, dict)]
+    if not isinstance(existing, dict):
+        return result
+    verified = str(existing.get("ott_release_provider") or "").strip().casefold()
+    if not verified:
+        return result
+    if any(str(p.get("name") or "").strip().casefold() == verified
+           for p in result):
+        return result
+    for provider in existing.get("providers") or []:
+        if (isinstance(provider, dict)
+                and str(provider.get("name") or "").strip().casefold() == verified):
+            if not any(str(p.get("name") or "").strip().casefold() == verified
+                       for p in result):
+                result.append(dict(provider))
+            break
+    return result
+
+
 def build_entry(details, media_type, categories, published_at):
     """Build the FA_PUBLISHED entry for one title (spec §1a fields,
     including the RICH DETAIL FIELDS — baked in here so the detail
@@ -394,8 +439,8 @@ def main():
         # separately), so a wholesale rebuild would silently delete
         # them. Festival rule 2026-10-27: recomputing one title's
         # entry must leave everything else untouched.
-        if existing is not None and "providers" in existing:
-            entry["providers"] = existing["providers"]
+        if existing is not None:
+            entry = preserve_owner_fields(entry, existing)
         if existing is not None and existing == entry:
             print(f"  unchanged {tid} ({entry['title']}, {media_type})")
             continue

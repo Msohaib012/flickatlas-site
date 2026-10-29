@@ -20,8 +20,9 @@ SAFEGUARDS (owner order — never touch editorial data):
     field it used to have (a missing overview / a zeroed budget is
     treated as "unknown", not as "deleted").
   - Providers are re-fetched separately: a failed providers request
-    leaves the existing providers alone (an empty list is only
-    written when TMDB actually returns no flatrate entry).
+    leaves the existing providers alone. When TMDB returns no flatrate
+    entry, an independently source-verified `ott_release_provider` and
+    its matching existing provider record are retained.
   - Release dates use the India-theatrical rule (pick_release_date
     in publish-titles.py), so a festival premiere stops being the
     baked date as soon as a theatrical date exists.
@@ -258,6 +259,8 @@ def main():
             prov = fetch_providers_safe(tid, media, key, ts)
         except Exception:
             prov = None
+        if prov is not None:
+            prov = pt.preserve_verified_ott_provider(entry, prov)
         if prov is not None and prov != entry.get("providers"):
             merged["providers"] = prov
             changed.append("providers")

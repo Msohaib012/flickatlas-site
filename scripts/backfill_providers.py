@@ -97,6 +97,7 @@ def main():
                   f"providers fetch failed ({e})")
             skipped += 1
             continue
+        providers = pt.preserve_verified_ott_provider(entry, providers)
         prov = ", ".join(p.get("name") for p in providers) or "none"
         if args.apply:
             entry["providers"] = providers

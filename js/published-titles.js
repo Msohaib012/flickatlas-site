@@ -5951,5 +5951,1181 @@ window.FA_PUBLISHED = {
         "type": "flatrate"
       }
     ]
+  },
+  "338918": {
+    "id": 338918,
+    "type": "tv",
+    "title": "Chaar Yaar",
+    "poster_path": "/z6WSxbaMdFQ9OLeHihaPJyVND4D.jpg",
+    "backdrop_path": "/ndO5LTzLPYqh8o65VLF8oReIewE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A story of four middle-class boys, their dreams, setbacks and friendship being their armour. A fateful decision leads them to take a step that changes the course of their lives trapping them between gangsters and cops. What once held them together slowly tears their bond. With their armour shattered, their enemies close in and fate serves up a bill for their crimes.",
+    "industry": "bollywood",
+    "popularity": 13.3639,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "Lz32CdVzzsM",
+      "name": "Chaar Yaar - Watch Now | ‪@Puravjha_, Naman Jain, Saqib Ayub, Prayrak Mehta | Prime Video IN",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "M18",
+    "first_air_date": "2026-10-23",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-23",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Vinay Waikul",
+      "Hussain Zaidi"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "339474": {
+    "id": 339474,
+    "type": "tv",
+    "title": "Matargashti",
+    "poster_path": "/893gkwRt9MgC9V77gtY2jYp1emp.jpg",
+    "backdrop_path": "/j828iPebwS024JRovFzHacpI4rW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
+    "industry": "bollywood",
+    "popularity": 4.1106,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "rWSIkdNCAX4",
+      "name": "Matargashti | Watch Now | Rajesh Kumar, Adrija Sinha | Netflix India",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-21",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 5,
+    "channel": "",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 5,
+        "air_date": "2026-10-21",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "337806": {
+    "id": 337806,
+    "type": "tv",
+    "title": "Least Eligible Bachelor",
+    "poster_path": "/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
+    "backdrop_path": "/y7jCp3fZuKEyw6F3I8tseyJyl2L.jpg",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "overview": "A bachelor struggling to find a bride because of his looks moves to Hyderabad for a fresh start, only to discover that his potential match is his colleague at work.",
+    "industry": "bollywood",
+    "popularity": 16.5468,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "oxvsaLPuQFc",
+      "name": "Least Eligible Bachelor – Official Teaser | Harsha Chemudu | Hyper Aadi | A WIN Original Series",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2026-10-09",
+    "networks": [
+      "Netflix",
+      "ETV Win"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-10-09",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Babu Degala"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "302882": {
+    "id": 302882,
+    "type": "tv",
+    "title": "#Love",
+    "poster_path": "/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
+    "backdrop_path": "/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+    "vote_average": 8.7,
+    "vote_count": 3,
+    "overview": "The pragmatic creator of a dating app and her adventurous competitor test their theories about love in a 60-day challenge to find their ideal partner.",
+    "industry": "bollywood",
+    "popularity": 6.3274,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2026-10-02",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-10-02",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Soundarya Rajinikanth",
+      "Balaji Mohan"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "333483": {
+    "id": 333483,
+    "type": "tv",
+    "title": "Hunkkaar: The Roar",
+    "poster_path": "/uL2qCVBou6WYMRxMbP5olmBpTjD.jpg",
+    "backdrop_path": "/6zENIpSZvMGh2gfMKBeatpRtgX.jpg",
+    "vote_average": 8.0,
+    "vote_count": 3,
+    "overview": "When a teenager accuses a revered cult leader of sexual assault, it sparks a national conflict. As the truth unravels, the line between faith and justice blurs.",
+    "industry": "bollywood",
+    "popularity": 5.9955,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "k_P_O1zAVug",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "The Truth Shall Roar",
+    "status": "Ended",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "A",
+    "first_air_date": "2026-09-25",
+    "networks": [
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "JioHotstar",
+    "episode_run_time": [
+      56
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-09-25",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Karan Kapadia",
+      "Nitya Mehra"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "285147": {
+    "id": 285147,
+    "type": "tv",
+    "title": "Shaque: Trust No One",
+    "poster_path": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+    "backdrop_path": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
+    "vote_average": 7.7,
+    "vote_count": 9,
+    "overview": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
+    "industry": "bollywood",
+    "popularity": 6.605,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "WPPcfRd-JzE",
+      "name": "Shaque: Trust No One | Official Trailer | Parineeti Chopra, Tahir Raj B, Jennifer Winget | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-09-24",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 7,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 7,
+        "air_date": "2026-09-24",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Renzil D'Silva",
+      "Siddharth P. Malhotra"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "332061": {
+    "id": 332061,
+    "type": "tv",
+    "title": "Prince of Mollywood",
+    "poster_path": "/82TCOlAlhhuTkMclDTDR4bo6lQI.jpg",
+    "backdrop_path": "/56uvaQfYILSBI9O37Vi9ad7mCHX.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "Firoz has one dream: become a Pan-Indian superstar. But everyone around him has other plans. His friends are experts at ruining things. Vappa Mammali turns producer hoping one flop will send him straight back to the family business. Umma is busy finding him a bride on matrimony sites. And then there's his girlfriend.",
+    "industry": "bollywood",
+    "popularity": 5.4556,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "iqt1LS57AcM",
+      "name": "Hotstar Specials | Prince of Mollywood | Dain Davis | Sept 11 | JioHotstar",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "Firoz dreams of becoming an actor, but his millionaire dad stands in his way.",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "kn",
+      "ml",
+      "ta",
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-09-11",
+    "networks": [
+      "Asianet",
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 28,
+    "channel": "Asianet",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 28,
+        "air_date": "2026-09-11",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Shani Khader"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "249863": {
+    "id": 249863,
+    "type": "tv",
+    "title": "The Revolutionaries",
+    "poster_path": "/5fLyYAxXWP4BxZCBN79NV1eiT4d.jpg",
+    "backdrop_path": "/uImwvxPG2klY0VyybGPt5zRJVMc.jpg",
+    "vote_average": 7.667,
+    "vote_count": 3,
+    "overview": "The Revolutionaries narrates the inspiring tale of brave young Indian freedom fighters who fought for ending British Raj with their unwavering spirit and ideology.",
+    "industry": "bollywood",
+    "popularity": 5.6987,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "5HkDfG5BhCU",
+      "name": "The Revolutionaries - Official Trailer | Bhuvan Bam, Rohit Saraf, Pratibha Ranta, Gurfateh Pirzada",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "bn",
+      "en",
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-09-11",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-09-11",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Nikkhil Advani"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "331750": {
+    "id": 331750,
+    "type": "tv",
+    "title": "The Court",
+    "poster_path": "/iXUtd6fpt15vMZSO6du1uXQjcmv.jpg",
+    "backdrop_path": "/qcdCBnnarlsSCnjL0ikIngLlRQp.jpg",
+    "vote_average": 10.0,
+    "vote_count": 3,
+    "overview": "A young lawyer, brilliant with case details, struggles to find her place within the legal fraternity. Her two opponents: her celebrated father and her stammer.",
+    "industry": "bollywood",
+    "popularity": 10.5753,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "JxRMtZxUxHU",
+      "name": "Hotstar Specials | The Court | Streaming from September 4 | JioHotstar | Promo",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-09-04",
+    "networks": [
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 52,
+    "channel": "JioHotstar",
+    "episode_run_time": [
+      24
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 52,
+        "air_date": "2026-09-04",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Bala SB",
+      "Srihari Jagannathan"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "316970": {
+    "id": 316970,
+    "type": "tv",
+    "title": "Jagamae Sangeetham",
+    "poster_path": "/aEfuAAgMpePYJc99wFe19dMVst4.jpg",
+    "backdrop_path": "/b8pcIMqEAhLZ9EkYjqIPloGRrTT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in Vaikuntapuram, a sacred temple town nestled between the banks of the Godavari and the neon lights of pop stardom, a disciplined heir to a musical throne and a fame-weary singer strike a forbidden chord. To protect a century of heritage, they must navigate a landscape of family secrets, masked identities, and the heavy price of finding their own voices.",
+    "industry": "bollywood",
+    "popularity": 6.1796,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "tbiXRFXVuMs",
+      "name": "Jagamae Sangeetham - Official Trailer | Prime Video India",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "NC16",
+    "first_air_date": "2026-09-04",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-09-04",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Palnati Surya Pratap"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "332299": {
+    "id": 332299,
+    "type": "tv",
+    "title": "Clean Up Company",
+    "poster_path": "/sVMcco0EdfDvFpyPlHU9n6RPrQj.jpg",
+    "backdrop_path": "/7D4GLfjuGyJZeLOuoPKllW9e6n9.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "3 boys stumble upon an opportunity to make easy money by getting rid of dead bodies in a small city marred by gang wars. Things quickly take a turn for the worse and they end up neck deep in trouble fighting to survive.",
+    "industry": "bollywood",
+    "popularity": 2.9702,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "llpl-JJPEAI",
+      "name": "Clean Up Company – Trailer | Amey Wagh, Vishal Jethwa, Ajitesh Gupta, Ravi Kishan | Prime Video",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "हर खून साफ़",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "A",
+    "first_air_date": "2026-08-21",
+    "networks": [
+      "Amazon MX Player"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Amazon MX Player",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-08-21",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "328818": {
+    "id": 328818,
+    "type": "tv",
+    "title": "108 Base Hospital Uri",
+    "poster_path": "/9C7Ih4K9ptTZlyFbjl0l2pHk1G8.jpg",
+    "backdrop_path": "/klGL1W8xcu1irWqb3TcBXnm8VyM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Resilient army doctors at 108 Base Hospital, Uri, navigate personal and professional battles whilst saving lives in a conflict-torn zone.",
+    "industry": "bollywood",
+    "popularity": 2.7595,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2026-08-15",
+    "networks": [
+      "Colors",
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 22,
+    "channel": "Colors",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 22,
+        "air_date": "2026-08-15",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Juggernaut Productions"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "284753": {
+    "id": 284753,
+    "type": "tv",
+    "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+    "poster_path": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+    "backdrop_path": "/vVvqbcR7VgnN8SgXrZhRwOSWMgQ.jpg",
+    "vote_average": 7.3,
+    "vote_count": 15,
+    "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+    "industry": "bollywood",
+    "popularity": 7.8844,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "The  Untold Story of the Kargil War",
+    "status": "Ended",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "hi"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-08-07",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-08-07",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Abhijeet Singh Parmar",
+      "Kushal Srivastava"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "328817": {
+    "id": 328817,
+    "type": "tv",
+    "title": "Yeh Fitoor Tera",
+    "poster_path": "/26anGsoVCiEbj2yOHSNGOBlR3mD.jpg",
+    "backdrop_path": "/bDLq46NRkXWvN8crog5JDAdJyaY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Reclusive Saumya finds the strength to reclaim her life when she meets Jeet, a free-spirited rebel. A passionate love story blooms in the heart of Prayagraj.",
+    "industry": "bollywood",
+    "popularity": 4.3429,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2026-08-05",
+    "networks": [
+      "StarPlus"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 67,
+    "channel": "StarPlus",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 67,
+        "air_date": "2026-08-05",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ved Raj"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "328402": {
+    "id": 328402,
+    "type": "tv",
+    "title": "Adarsh Baal Vidyalaya",
+    "poster_path": "/1XbcSqURUvhgu2nnoQRZ7cXmTsJ.jpg",
+    "backdrop_path": "/ollKqYShmjhBOKsV60pmPP9ara3.jpg",
+    "vote_average": 7.8,
+    "vote_count": 15,
+    "overview": "A relaxed principal tries to reform a failing public school, triggering a messy transformation as misfit teachers work to repair the system one lesson at a time.",
+    "industry": "bollywood",
+    "popularity": 6.2437,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "9QDfABKdqe0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2026-07-24",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 7,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 7,
+        "air_date": "2026-07-24",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Biswapati Sarkar",
+      "Sameer Saxena"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "313101": {
+    "id": 313101,
+    "type": "tv",
+    "title": "Musafir Cafe",
+    "poster_path": "/1SbKjtoRKIpVQG5iYnumnfQIqhd.jpg",
+    "backdrop_path": "/2C15EiKyfLrWAWbjqpHvumgOtNk.jpg",
+    "vote_average": 7.1,
+    "vote_count": 15,
+    "overview": "Chander feels an undeniable connection with Sudha. Years later, he builds a new life in the hills with Preeti, but memories of the past linger.",
+    "industry": "bollywood",
+    "popularity": 8.1718,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2026-07-24",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-07-24",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Sharanya Rajgopal"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "243555": {
+    "id": 243555,
+    "type": "tv",
+    "title": "Akka",
+    "poster_path": "/cF0Ao5K99yDAWU1UFR72IbIc3OD.jpg",
+    "backdrop_path": "/cVUKFfws4upCB4ytz5uGIONIiRc.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+    "industry": "bollywood",
+    "popularity": 5.3871,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-29",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "A",
+    "first_air_date": "2026-10-30",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-10-30",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Dharmaraj Shetty"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "ott_release_date": "2026-10-30",
+    "ott_release_provider": "Netflix",
+    "ott_release_source": [
+      "https://www.netflix.com/title/81772075",
+      "https://www.bollywoodhungama.com/news/bollywood/akka-teaser-out-netflix-confirms-october-30-premiere-for-keerthy-suresh-and-radhika-apte-starrer/"
+    ]
   }
 };

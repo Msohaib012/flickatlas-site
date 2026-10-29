@@ -16,8 +16,12 @@ const validGroup = (g,x,kind) => {
   if (x.type === 'tv') {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(x.first_air_date||'')) return false;
     if (kind === 'now' && (x.first_air_date > today || g.date !== x.first_air_date)) return false;
-    if (kind === 'coming' && !['digital','streaming','ott'].includes(g.date_kind)) return false;
-  }
+    if (kind === 'coming') {
+      const src = Array.isArray(x.ott_release_source) ? x.ott_release_source : [x.ott_release_source];
+      if (g.date !== x.ott_release_date || !src.some(u => typeof u === 'string' && u.startsWith('https://')) || x.ott_release_provider !== g.providers[0]) return false;
+      if (!['digital','streaming','ott'].includes(g.date_kind)) return false;
+    }
+  } else if (kind === 'coming' && g.date_kind !== 'digital') return false;
   return true;
 };
 const srcIndex=read('js/page-index.js'), srcMovies=read('js/page-movies.js'), srcOtt=read('js/page-ott.js');
@@ -49,12 +53,14 @@ for(const [g,x,k] of [
  [group('2026-10-10'),tv('2026-10-10',{poster:false}),'now'],
  [group('2026-11-01','release'),tv('2026-11-01'),'coming']
 ]) assert(!validGroup(g,x,k));
-assert(validGroup(group('2026-10-30','digital'),tv('2026-10-30'),'coming'));
-assert(validGroup(group('2026-11-02','digital'),tv('2026-11-02'),'coming'));
+assert(validGroup(group('2026-10-30','digital'),tv('2026-10-30',{ott_release_date:'2026-10-30',ott_release_provider:'Netflix',ott_release_source:'https://example.com/source'}),'coming'));
+assert(validGroup(group('2026-11-02','digital'),tv('2026-11-02',{ott_release_date:'2026-11-02',ott_release_provider:'Netflix',ott_release_source:'https://example.com/source'}),'coming'));
+assert(!validGroup(group('2026-11-02','release'),{published:true,poster:true,type:'movie'},'coming'));
 assert.match(srcOtt,/No TV series currently streaming on OTT/);
-assert.match(srcOtt,/confirmed future streaming date/);
+assert.match(srcOtt,/source-backed OTT date/);
 assert.match(srcOtt,/date_kind \|\| ""/);
 assert.match(srcIndex,/air > today \|\| d !== air/);
+assert.match(srcIndex,/group === \"coming\" && typeOf\(x\) === \"movie\"/);
 assert.doesNotMatch(srcIndex,/cutoffDate/);
 // RFC dates sort by actual timestamp rather than lexical display strings; ties break reproducibly.
 const articles=[{id:'z',published:'Wed, 28 Oct 2026 12:00:00 GMT'},{id:'a',published:'2026-10-29T11:00:00Z'},{id:'b',published:'2026-10-29T11:00:00Z'}].sort(publishedChronology);

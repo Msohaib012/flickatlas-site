@@ -68,16 +68,22 @@
     for (const x of Object.values(window.FA_PUBLISHED || {})) {
       if (!x || !x.id || !x.poster_path || !(x.providers || []).length) continue;
       const isTv = (x.type || "movie") === "tv";
-      const d = isTv ? (x.first_air_date || "") : (x.release_date || "");
-      if (!d) continue;
       if (isTv) {
-        if (d <= today) now.push({ id: x.id, type: "tv", providers: x.providers, date: d, date_kind: "release" });
+        const air = x.first_air_date || "";
+        if (air && air <= today) now.push({ id: x.id, type: "tv", providers: x.providers, date: air, date_kind: "release" });
+        const d = String(x.ott_release_date || "");
+        const planned = String(x.ott_release_provider || "").trim().toLowerCase();
+        const sources = Array.isArray(x.ott_release_source) ? x.ott_release_source : [x.ott_release_source];
+        const hasSource = sources.some(u => typeof u === "string" && u.trim().startsWith("https://"));
+        const matching = x.providers.filter(pr => pr && planned && String(pr.name || "").trim().toLowerCase() === planned);
+        if (/^\d{4}-\d{2}-\d{2}$/.test(d) && d > today && hasSource && matching.length) {
+          coming.push({ id: x.id, type: "tv", providers: matching.slice(0, 1), date: d, date_kind: "digital" });
+        }
         continue;
       }
-      (d <= today ? now : coming).push({
-        id: x.id, type: x.type || "movie", providers: x.providers,
-        date: d, date_kind: "release",
-      });
+      const d = x.release_date || "";
+      if (d && d <= today) now.push({ id: x.id, type: "movie", providers: x.providers, date: d, date_kind: "release" });
+      // A future theatrical release date is not an OTT release date.
     }
     now.sort((a, b) => b.date.localeCompare(a.date));
     coming.sort((a, b) => a.date.localeCompare(b.date));
@@ -92,12 +98,21 @@
     .filter(({ g, x }) => {
       if (!x || !x.poster_path || !Array.isArray(g.providers) || !g.providers.length) return false;
       if (!/^\d{4}-\d{2}-\d{2}$/.test(String(g.date || ""))) return false;
-      if ((x.type || "movie") === "tv") {
+      const isTv = (x.type || "movie") === "tv";
+      if (isTv) {
         if (UI.industryOf(x) === "pakistani") return false;
         const air = String(x.first_air_date || "");
         if (!/^\d{4}-\d{2}-\d{2}$/.test(air)) return false;
         if (groupName === "now" && (air > today || g.date !== air)) return false;
-        if (groupName === "coming" && (g.date <= today || !["digital", "streaming", "ott"].includes(String(g.date_kind || "").toLowerCase()))) return false;
+        if (groupName === "coming") {
+          const planned = String(x.ott_release_provider || "").trim().toLowerCase();
+          const sources = Array.isArray(x.ott_release_source) ? x.ott_release_source : [x.ott_release_source];
+          const hasSource = sources.some(u => typeof u === "string" && u.trim().startsWith("https://"));
+          const providerMatches = g.providers.some(pr => pr && planned && String(pr.name || "").trim().toLowerCase() === planned);
+          if (g.date <= today || g.date !== x.ott_release_date || !hasSource || !providerMatches || !["digital", "streaming", "ott"].includes(String(g.date_kind || "").toLowerCase())) return false;
+        }
+      } else if (groupName === "coming" && String(g.date_kind || "").toLowerCase() !== "digital") {
+        return false;
       }
       if (groupName === "now" && g.date > today) return false;
       if (groupName === "coming" && g.date <= today) return false;
@@ -137,7 +152,7 @@
     const coming = entriesFor(groups.coming, "coming");
     main.querySelector("#ottGroups").innerHTML =
       groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", now, false)
-      + groupHtml("Coming to OTT", "TV series appear only with a confirmed future streaming date. Movie dates may reflect the title's announced release date when OTT platform data exists.", coming, true);
+      + groupHtml("Coming to OTT", "Movies appear only with a confirmed digital date; TV series need a source-backed OTT date and matching platform.", coming, true);
   }
 
   main.innerHTML = `<div class="wrap">
@@ -149,7 +164,7 @@
     </div></div>
     <div id="ottGroups">
     ${groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", nowList, false)}
-    ${groupHtml("Coming to OTT", "TV series appear only with a confirmed future streaming date. Movie dates may reflect the title's announced release date when OTT platform data exists.", comingList, true)}
+    ${groupHtml("Coming to OTT", "Movies appear only with a confirmed digital date; TV series need a source-backed OTT date and matching platform.", comingList, true)}
     </div>
     <p class="prov-note">FlickAtlas does not stream video and does not link to any platform. Provider names and logos come from TMDB watch/providers data for published titles only; availability is per-title and changes over time.</p>
   </div>`;

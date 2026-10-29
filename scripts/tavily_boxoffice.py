@@ -247,16 +247,22 @@ def tavily_search(query, keys):
 
 
 def pick_figure(results, expected_day, today, today_strs,
-                yesterday_cr, existing_today_cr):
-    """Pick today's India Net figure from Tavily results.
+                yesterday_cr, existing_today_cr, movie_title=None,
+                with_evidence=False):
+    """Pick a regex-grounded India Net candidate from Tavily results.
 
-    Returns (crore, source_url, why) or (None, None, why)."""
+    Returns (crore, source_url, why); with_evidence=True appends a small
+    evidence record for the later Gemini review. Existing callers retain
+    the original three-value contract.
+    """
     for res in results:
         url = res.get("url", "")
         title = res.get("title", "") or ""
         content = res.get("content", "") or ""
         host = url.lower()
         if any(b in host for b in BLOCKED_DOMAINS):
+            continue
+        if movie_title and not result_mentions_film(movie_title, title, content):
             continue
         # Date tie: the result must be about today. A day-tracker title
         # ("... Day 13 ...") counts; otherwise a today date string must
@@ -288,8 +294,20 @@ def pick_figure(results, expected_day, today, today_strs,
                 continue
             if existing_today_cr and cr < 0.5 * existing_today_cr:
                 continue
-            return cr, url, f"day {day} from {url}"
-    return None, None, "no usable figure"
+            why = f"day {day} from {url}"
+            evidence = {
+                "source_url": url,
+                "result_title": title,
+                "content": content[:5000],
+                "quote": seg,
+                "day": day,
+                "date": today.isoformat(),
+                "collection_inr_cr": round(cr, 2),
+            }
+            return ((cr, url, why, evidence) if with_evidence
+                    else (cr, url, why))
+    return ((None, None, "no usable figure", None) if with_evidence
+            else (None, None, "no usable figure"))
 
 
 USD_RE = re.compile(r"\$\s*([\d,]+(?:\.\d+)?)\s*(million|billion)?", re.IGNORECASE)
@@ -420,12 +438,18 @@ def main():
                          "DIR/<tmdb_id>.json instead of calling the API")
     ap.add_argument("--dry-run", action="store_true",
                     help="print what it would write, write nothing")
+    ap.add_argument("--evidence-out", default=None,
+                    help="write India Net candidates/evidence here and defer "
+                         "tavily.json until Gemini verifies them")
     args = ap.parse_args()
 
     root = args.root or os.path.dirname(
         os.path.dirname(os.path.abspath(__file__)))
     staging_dir = args.stage or os.path.join(
         root, "out", "boxoffice-staging")
+    evidence_path = (None if not args.evidence_out else
+                     (args.evidence_out if os.path.isabs(args.evidence_out)
+                      else os.path.join(root, args.evidence_out)))
     if args.today:
         today = date.fromisoformat(args.today)
     else:
@@ -458,9 +482,13 @@ def main():
     if not keys and not args.fixture_dir:
         print("tavily: SKIP — no TAVILY_API_KEY / TAVILY_API_KEY_BACKUP "
               "set (add the GitHub repo secrets); staging untouched")
+        if evidence_path and not args.dry_run:
+            write_json_if_changed(evidence_path, {
+                "status": "skipped_no_tavily_key", "candidates": []})
         return 0
 
     staging = {}
+    candidates = []
     n_queried = n_written = 0
     for tid in sorted(daywise.keys(), key=lambda t: int(t)):
         rows = daywise.get(tid) or []
@@ -545,9 +573,9 @@ def main():
                   f"({type(e).__name__}) — skipped")
             continue
         results = data.get("results", []) if isinstance(data, dict) else []
-        cr, url, why = pick_figure(results, expected_day, today,
-                                   today_strs, yesterday_cr,
-                                   existing_today_cr)
+        cr, url, why, evidence = pick_figure(
+            results, expected_day, today, today_strs, yesterday_cr,
+            existing_today_cr, movie_title=title, with_evidence=True)
         if cr is None and expected_day >= 2 and yesterday_cr is None:
             # Gap-fill: sources publish a day's figure the NEXT
             # morning, so today's tracker often does not exist yet at
@@ -557,10 +585,16 @@ def main():
             # Never fires when yesterday's row already exists.
             yday = today - timedelta(days=1)
             why_today = why
-            cr, url, why = pick_figure(
+            cr, url, why, evidence = pick_figure(
                 results, expected_day - 1, yday, today_strings(yday),
-                day_before_cr, None)
+                day_before_cr, None, movie_title=title,
+                with_evidence=True)
             if cr is not None:
+                candidates.append({
+                    "candidate_id": f"{tid}:{expected_day - 1}:{yday.isoformat()}",
+                    "tmdb_id": str(tid), "title": title,
+                    **(evidence or {}),
+                })
                 staging[str(tid)] = [{
                     "day": expected_day - 1,
                     "date": yday.isoformat(),
@@ -578,6 +612,11 @@ def main():
             print(f"tavily: {tid} {title}: no usable figure "
                   f"(expected Day {expected_day}) — {why}")
             continue
+        candidates.append({
+            "candidate_id": f"{tid}:{expected_day}:{today.isoformat()}",
+            "tmdb_id": str(tid), "title": title,
+            **(evidence or {}),
+        })
         staging[str(tid)] = [{
             "day": expected_day,
             "date": today.isoformat(),
@@ -660,8 +699,18 @@ def main():
           f"{n_written} figure(s) (today + yesterday gap-fills)")
     if args.dry_run:
         print("tavily: DRY-RUN — staging not written")
-        print(json.dumps(staging, ensure_ascii=False, indent=2,
-                         sort_keys=True))
+        if evidence_path:
+            print(json.dumps({"status": "ok", "candidates": candidates},
+                             ensure_ascii=False, indent=2, sort_keys=True))
+        else:
+            print(json.dumps(staging, ensure_ascii=False, indent=2,
+                             sort_keys=True))
+        return 0
+    if evidence_path:
+        changed = write_json_if_changed(evidence_path, {
+            "status": "ok", "candidates": candidates})
+        print(f"tavily: evidence {evidence_path} written: {changed} "
+              f"({len(candidates)} candidate(s)); Gemini review required")
         return 0
     path = os.path.join(staging_dir, "tavily.json")
     changed = write_json_if_changed(path, staging)

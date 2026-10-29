@@ -768,6 +768,10 @@ def main():
     today = time.strftime("%Y-%m-%d", time.gmtime())
     added, skipped = [], 0
     for tid, media, source in picked:
+        # This seeder adds titles only; never rebuild an existing published
+        # record and drop owner-verified OTT/theatrical date annotations.
+        if str(tid) in published:
+            continue
         try:
             details = fetch_typed(tid, media, key, pt)
         except Exception as e:

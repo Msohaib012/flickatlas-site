@@ -100,7 +100,7 @@
     /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
        AT LEAST as many titles as the homepage movies rail (Spotlight,
        12 cards) — the old ott:7 cap bound the rails before the data did. */
-    const HOME_LIMITS = { soon: 12, calendar: 6, trending: 6, boxoffice: 8, news: 7, lollywood: 6, dramas: 13, ott: 12 };
+    const HOME_LIMITS = { soon: 12, calendar: 8, trending: 6, boxoffice: 8, news: 7, dramas: 13, ott: 12 };
     /* Coming Soon order (shared with /most-awaited): only future-dated
        movies enter; sort by nearest release date, then use stable ratings
        and title tie-breaks for entries sharing the same date. */
@@ -207,26 +207,19 @@
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
-    /* ---------- HERO = latest currently-running movies (user order
-       2026-10-28): 5 slides — first 2 Indian (industry "bollywood"),
-       remaining 3 international ("world" + "pakistani"), newest-first
-       within each bucket. If a bucket is short, the other bucket fills
-       the remaining slots newest-first, so the hero stays full whenever
-       the pool allows. A slide is "live" when the title has day-wise rows (Day N
-       collection + running total); otherwise it shows Release Date +
-       "Now in Cinemas" (the non-live branch of heroSlideHtml). No live
-       TMDB fetch — a title with no day-wise rows simply has no live
-       stats. Streaming-only titles NEVER enter the pool (user order
-       2026-10-27, same UI.isStreamingOnly rule as Spotlight/Box
-       Office): a Netflix title with no day-wise rows must not claim
-       "Now in Cinemas". Theatrical titles that later reach OTT keep
-       their day-wise rows and stay. ------- */
+    /* ---------- HERO = five latest currently-running Indian films only.
+       UI.industryOf(x)==="bollywood" is the site's all-Indian-cinema
+       classification (Hindi, Tamil, Telugu and other Indian languages),
+       not a Hindi-only filter. Keep the existing release freshness and
+       streaming-only exclusions; never fill a slot with a non-Indian
+       title. ---------- */
     const dwData = window.FA_DAYWISE || {};
     const heroPool = pubAll()
-      .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x) && UI.isFresh(x) && !UI.isStreamingOnly(x))
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x)
+        && UI.industryOf(x) === "bollywood" && UI.isFresh(x) && !UI.isStreamingOnly(x))
       .sort(byNewest);
-    /* Strict latest-first means chronology across the eligible pool, not
-       separate industry buckets; retain the existing eligibility gates. */
+    /* Strict newest-first among eligible Indian releases; never backfill
+       a missing slot with a non-Indian film. */
     const heroPicked = heroPool.slice(0, 5);
     const heroSlides = heroPicked.map(entry => {
       const rows = dwData[String(entry.id)];
@@ -318,23 +311,17 @@
     const bollySoon = publishedFor("soon", "bollywood", "movie").slice(0, HOME_LIMITS.soon);
     const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood&s=oldest">See All →</a></div>${homeFilterRow("soon", false)}<p class="sec-sub">Upcoming movies only · oldest release date first (nearest date first); dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
 
-    /* ---------- Lollywood: Pakistani released titles, fresh-first (falls
-       back to all released, same as the other rails), newest first. The
-       filter is strict (industry === "pakistani") — verified 2026-10-26
-       against live FA_PUBLISHED: only 3 Pakistani titles exist (all TV
-       dramas, all correctly industry=pakistani) and no non-Pakistani
-       title leaks in. First 6 — the same ordered pool the Lollywood See
-       All page lists. (Pakistani EPISODES live in the rail below, not
-       here — titles and episodes are separate sections by user order.)
-       ---------- */
-    const releasedPool = (pred) => {
-      const rel = pubAll().filter(x => x && x.poster_path && isReleased(x) && pred(x)).sort(byNewest);
-      const fresh = rel.filter(x => freshReleased(x));
-      return fresh.length ? fresh : rel;
-    };
-    /* Lollywood = Pakistani MOVIES only (user order 2026-10-26): Pakistani TV
-       dramas (type "tv") are excluded — they live in the episodes rail, not here. */
-    const lollyLatest = releasedPool(x => UI.industryOf(x) === "pakistani" && typeOf(x) === "movie").slice(0, HOME_LIMITS.lollywood);
+    /* ---------- Lollywood: every published Pakistani movie released in
+       the current calendar year, newest first. No freshness fallback or
+       rail cap: older parts of the year must not disappear just because
+       the catalogue has few recent entries. Pakistani TV dramas remain
+       in their separate episodes section. ---------- */
+    const currentYear = today.slice(0, 4);
+    const lollyLatest = pubAll()
+      .filter(x => x && x.poster_path && typeOf(x) === "movie"
+        && UI.industryOf(x) === "pakistani" && isReleased(x)
+        && dateOf(x).slice(0, 4) === currentYear)
+      .sort(byNewest);
 
     /* ---------- Trending Worldwide: AUTHENTIC trending only (user order
        2026-10-26). Renders ONLY from window.FA_TRENDING — a list of TMDB
@@ -478,8 +465,15 @@
           if (group === "now" && (air > today || d !== air)) return false;
           /* TV upcoming requires explicit digital/streaming date evidence;
              a provider + future first-air date is not OTT confirmation. */
-          if (group === "coming" && (d <= today || !["digital", "streaming", "ott"].includes(String(g.date_kind || "").toLowerCase()))) return false;
+          if (group === "coming") {
+            const planned = String(x.ott_release_provider || "").trim().toLowerCase();
+            const sources = Array.isArray(x.ott_release_source) ? x.ott_release_source : [x.ott_release_source];
+            const hasSource = sources.some(u => typeof u === "string" && u.trim().startsWith("https://"));
+            const providerMatches = Array.isArray(g.providers) && g.providers.some(pr => pr && planned && String(pr.name || "").trim().toLowerCase() === planned);
+            if (d <= today || g.date !== x.ott_release_date || !hasSource || !providerMatches || !["digital", "streaming", "ott"].includes(String(g.date_kind || "").toLowerCase())) return false;
+          }
         }
+        if (group === "coming" && typeOf(x) === "movie" && String(g.date_kind || "").toLowerCase() !== "digital") return false;
         if (group === "now" && d > today) return false;
         if (group === "coming" && d <= today) return false;
         /* Owner correction 2026-10-28 21:10 PKT: Pakistani dramas are a
@@ -748,11 +742,11 @@
       }
     };
 
-    /* ---------- Lollywood: latest Pakistani releases (computed above). ---------- */
+    /* ---------- Lollywood: all Pakistani movies released this year. ---------- */
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
-      <div class="section-head"><h2>Lollywood — Latest Pakistani Releases</h2>
-      <a class="see-all" href="/category?cat=lollywood&t=movie">See All →</a></div>
-      <p class="sec-sub">Pakistani movies, latest first.</p>
+      <div class="section-head"><h2>Lollywood — Pakistani movies released in ${currentYear}</h2>
+      <a class="see-all" href="/movies?f=lollywood&amp;y=${currentYear}&amp;s=recent">See All →</a></div>
+      <p class="sec-sub">All published Pakistani movie releases from ${currentYear} · newest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard(x, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
     /* Drama episodes (user order 2026-10-26, LIST format 21:37 PKT):

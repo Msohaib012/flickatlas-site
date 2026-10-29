@@ -1,10 +1,6 @@
-# Box office (standalone dispatch) — mirrors hourly-pipeline.yml step 6
-# (Multi-source box office) exactly, except the sacnilk / tavily gates
-# are dropped: a manual dispatch IS the request to run them, so both
-# readers run unconditionally here (in the hourly file they run on the
-# 02/08/14/20 UTC and 08:00/18:00 UTC gates). All other reader
-# invocations, fallbacks, env and the commit + deploy tail are copied
-# verbatim from hourly-pipeline.yml.
+# Box office (standalone dispatch) — mirrors hourly-pipeline.yml step 6:
+# direct readers -> Tavily evidence -> Gemini cited review -> deterministic
+# multisource finalizer. Manual dispatch runs the readers/search unconditionally.
 # NOTE: scripts/varanasiboxoffice_boxoffice.py does not exist on main
 # yet — the hourly step already tolerates that via its `|| echo`
 # fallback, and this copy inherits the same fallback.
@@ -27,12 +23,24 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Offline regression checks
+        run: |
+          node scripts/test_listing_order.js
+          python3 scripts/test_gemini_boxoffice.py
+          python3 scripts/test_boxoffice_integrity.py
+          python3 scripts/test_tmdb_refresh.py
       - name: Multi-source box office
         id: multisource
         continue-on-error: true
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
         run: |
           mkdir -p out/boxoffice-staging
           python3 scripts/sacnilk_boxoffice.py --apply --stage out/boxoffice-staging || echo "sacnilk stage failed, continuing with existing staging"
@@ -42,7 +50,10 @@ jobs:
           python3 scripts/moviemint_boxoffice.py --stage out/boxoffice-staging || echo "moviemint reader failed/missing, continuing"
           python3 scripts/filmibeat_boxoffice.py --stage out/boxoffice-staging || echo "filmibeat reader failed/missing, continuing"
           python3 scripts/varanasiboxoffice_boxoffice.py --stage out/boxoffice-staging || echo "varanasiboxoffice reader failed/missing, continuing"
-          python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging || echo "tavily gap-filler failed/missing, continuing"
+          EVIDENCE="$RUNNER_TEMP/flickatlas-tavily-evidence.json"
+          rm -f "$EVIDENCE"
+          python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging --evidence-out "$EVIDENCE" || echo "tavily search failed; retaining last-good Tavily staging"
+          python3 scripts/gemini_boxoffice.py --evidence "$EVIDENCE" --staging out/boxoffice-staging --out out/boxoffice-staging/tavily.json || echo "Gemini review failed; retaining last-good Tavily staging"
           python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
       - name: Commit if changed
         id: commit

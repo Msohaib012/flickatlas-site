@@ -40,6 +40,13 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Offline regression checks
+        run: |
+          node scripts/test_listing_order.js
+          python3 scripts/test_gemini_boxoffice.py
+          python3 scripts/test_boxoffice_integrity.py
+          python3 scripts/test_tmdb_refresh.py
+
       # Source clocks, success-only catch-up and bounded retries live in one
       # tested helper. Missing state remains clock-only (no bootstrap burst).
       - name: Decide gated steps
@@ -214,13 +221,12 @@ jobs:
       # fails is skipped — the engine averages whatever is present.
       # The step never commits by itself; step 14's single commit picks
       # up daywise-data.js / staging / sidecar only if changed.
-      # Tavily gap-filler (2x/day, 08:00 + 18:00 UTC): searches Tavily
-      # for TODAY's India Net figure for every active movie and writes
-      # out/boxoffice-staging/tavily.json — both refilling a missing
-      # today figure and refreshing one that already exists (live
-      # figures move during the day). It never rewrites past days. The
-      # engine then re-averages as usual. Without the TAVILY_API_KEY
-      # secrets the script prints SKIP and exits 0.
+      # Tavily (2x/day) searches current India Net candidates. Its raw URL,
+      # result title, quote and snippet go to RUNNER_TEMP; Gemini receives
+      # those results plus same-day direct-reader values and can only accept
+      # a verbatim cited quote. The Python engine then computes the final
+      # mean; Gemini is not an extra numerical vote. Same-reader-domain
+      # Tavily results are excluded to avoid double-counting.
       - name: Multi-source box office
         id: multisource
         continue-on-error: true
@@ -229,6 +235,12 @@ jobs:
           RUN_TAVILY: ${{ steps.decide.outputs.run_tavily }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
         run: |
           mkdir -p out/boxoffice-staging
           if [ "$RUN_SACNILK" = "true" ]; then
@@ -243,9 +255,12 @@ jobs:
           python3 scripts/run_source.py filmibeat_boxoffice -- python3 scripts/filmibeat_boxoffice.py --stage '{stage}' --out '{out}' || echo "filmibeat reader failed/missing, continuing"
           # Optional Varanasi reader is not configured in this checkout.
           if [ "$RUN_TAVILY" = "true" ]; then
-            python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging || echo "tavily gap-filler failed/missing, continuing"
+            EVIDENCE="$RUNNER_TEMP/flickatlas-tavily-evidence.json"
+            rm -f "$EVIDENCE"
+            python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging --evidence-out "$EVIDENCE" || echo "tavily search failed; retaining last-good Tavily staging"
+            python3 scripts/gemini_boxoffice.py --evidence "$EVIDENCE" --staging out/boxoffice-staging --out out/boxoffice-staging/tavily.json || echo "Gemini review failed; retaining last-good Tavily staging"
           else
-            echo "tavily gated off this hour (runs 08:00/18:00 UTC)"
+            echo "tavily/Gemini verification gated off this hour (runs 08:00/18:00 UTC)"
           fi
           python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
           # Worldwide totals (2026-10-28): merges *-worldwide.json staging

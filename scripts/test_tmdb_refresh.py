@@ -6,12 +6,23 @@ HERE=os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0,HERE)
 def load(name,file):
  s=importlib.util.spec_from_file_location(name,os.path.join(HERE,file)); m=importlib.util.module_from_spec(s); s.loader.exec_module(m); return m
 sys.modules['step_runs']=types.SimpleNamespace(record=lambda *a,**k: None)
-ts=load('title_seed_test','title-seed.py'); ott=load('build_ott_test','build_ott.py')
+ts=load('title_seed_test','title-seed.py'); ott=load('build_ott_test','build_ott.py'); pt=load('publish_titles_test','publish-titles.py')
 passn=0
 def check(name, condition):
  global passn
  if not condition: raise AssertionError(name)
  passn+=1
+
+# Custom source-verified annotations survive a TMDB metadata rebuild.
+entry={'title':'Akka'}
+existing={'providers':[{'name':'Netflix'}],'ott_release_date':'2026-10-30','ott_release_provider':'Netflix','ott_release_source':['https://example.com/source'],'pakistan_theatrical_release_date':'2026-03-20','pakistan_release_source':'https://example.com/pk'}
+pt.preserve_owner_fields(entry,existing)
+check('owner-verified OTT and theatrical metadata survives refresh',all(entry.get(k)==v for k,v in existing.items()))
+retained=pt.preserve_verified_ott_provider(existing,[])
+check('source-confirmed Netflix survives empty provider refresh',retained==existing['providers'])
+check('TMDB provider request failure means preserve existing value',pt.preserve_verified_ott_provider(existing,None) is None)
+merged=pt.preserve_verified_ott_provider(existing,[{'name':'Prime Video','logo_path':'/p.png'}])
+check('other TMDB providers are kept alongside confirmed platform',set(x['name'] for x in merged)=={'Netflix','Prime Video'})
 
 # source recorder mock
 records=[]
@@ -81,15 +92,20 @@ with tempfile.TemporaryDirectory() as d:
  check('429 failure recorded',records[-1][0][1] is False)
  ott.tmdb_get=oldget
 
-# Provider-listed TV remains in Now after its premiere; future TV needs a confirmed digital OTT date.
+# Provider-listed TV remains in Now after its premiere. Future TV needs an explicit source-backed OTT date plus a matching provider; future movie theatrical dates alone are excluded.
 today='2026-10-29'
-pub={'old':{'id':1,'type':'tv','first_air_date':'2020-01-01','providers':[{'name':'Netflix'}]},'recent':{'id':2,'type':'tv','first_air_date':'2026-10-20','providers':[{'name':'Netflix'}]},'future_unconfirmed':{'id':4,'type':'tv','first_air_date':'2026-11-01','providers':[{'name':'Netflix'}]},'future_confirmed':{'id':5,'type':'tv','first_air_date':'2026-11-07','providers':[{'name':'Netflix'}]},'movie':{'id':3,'type':'movie','release_date':'2026-11-05','providers':[{'name':'Netflix'}]}}
-digital={'5':{'date':'2026-11-09','country':'IN','note':'Netflix'}}
-now,coming,_=ott.classify(pub,today,digital)
+netflix=[{'name':'Netflix','logo_path':'/n.png'}]
+pub={'old':{'id':1,'type':'tv','first_air_date':'2020-01-01','providers':netflix},'recent':{'id':2,'type':'tv','first_air_date':'2026-10-20','providers':netflix},'future_unconfirmed':{'id':4,'type':'tv','first_air_date':'2026-11-01','providers':netflix},'future_digital_cache_only':{'id':5,'type':'tv','first_air_date':'2026-11-07','providers':netflix},'future_confirmed':{'id':6,'type':'tv','first_air_date':'2026-10-30','ott_release_date':'2026-10-30','ott_release_provider':'Netflix','ott_release_source':'https://example.com/confirmed','providers':netflix},'future_bad_provider':{'id':7,'type':'tv','first_air_date':'2026-10-30','ott_release_date':'2026-10-30','ott_release_provider':'ZEE5','ott_release_source':'https://example.com/confirmed','providers':netflix},'movie':{'id':3,'type':'movie','release_date':'2026-11-05','providers':netflix},'movie_unconfirmed':{'id':8,'type':'movie','release_date':'2026-11-06','providers':netflix}}
+digital={'5':{'date':'2026-11-09','country':'IN','note':'Netflix'},'3':{'date':'2026-11-05','country':'IN','note':'Netflix'}}
+now,coming,_=ott.classify(pub,today,digital,{'Netflix':'/n.png'})
 check('older provider-listed TV remains in Now',any(x['id']==1 for x in now))
 check('recent provider-listed TV remains in Now',any(x['id']==2 for x in now))
+check('Now on OTT sorts newest first', [x['id'] for x in now]==[2,1])
 check('future TV premiere without OTT date is excluded from Coming',all(x['id']!=4 for x in coming))
-check('future TV with confirmed digital OTT date enters Coming',any(x['id']==5 and x['date']=='2026-11-09' and x['date_kind']=='digital' for x in coming))
-check('future movie remains confirmed dated Coming',any(x['id']==3 and x['date']=='2026-11-05' for x in coming))
+check('future TV digital cache alone is not evidence',all(x['id']!=5 for x in coming))
+check('TV with source-backed date and matching platform enters Coming',any(x['id']==6 and x['date']=='2026-10-30' and x['date_kind']=='digital' for x in coming))
+check('TV source with provider mismatch is excluded',all(x['id']!=7 for x in coming))
+check('future movie appears only with a confirmed digital date',any(x['id']==3 and x['date']=='2026-11-05' and x['date_kind']=='digital' for x in coming))
+check('future movie without digital evidence is excluded',all(x['id']!=8 for x in coming))
 check('coming dates ascending', [x['date'] for x in coming]==sorted(x['date'] for x in coming))
 print(f'PASS: {passn} TMDB refresh tests')
