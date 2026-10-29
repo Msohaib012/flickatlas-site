@@ -1,2 +1,2 @@
 /* FlickAtlas Trending Topics: current Google search trends intersected with published news. */
-window.FA_TRENDING_TOPICS = {"source":"google-rss","status":"ok","checked_at":"2026-10-29T11:56:05.521012Z","topics":[]};
+window.FA_TRENDING_TOPICS = {"source":"google-rss","status":"ok","checked_at":"2026-10-29T13:52:14.338034Z","topics":[]};

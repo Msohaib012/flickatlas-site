@@ -17287,5 +17287,205 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 17:40:11 +0530"
+  },
+  "1js6tkh": {
+    "id": "1js6tkh",
+    "type": "news",
+    "headline": "Jumanji Open World Trailer: Dwayne Johnson Returns for Final Adventure With Karen Gillan, Jack Black and Kevin Hart",
+    "dek": "Dwayne Johnson is all set to be seen in Jumanji: Open World for the third time with Jake Kasdan at the helm.",
+    "body": [
+      {
+        "h": "The Final Adventure Begins",
+        "p": [
+          "The beloved adventure franchise is returning for one final thrilling ride with Jumanji: Open World. The main lead actor has unveiled the latest trailer for the highly anticipated action-comedy, teasing a fresh twist that takes the characters beyond the traditional boundaries of the game. Packed with signature action, humor, and unexpected surprises, the movie is gearing up for a major holiday release.",
+          "Fans have eagerly awaited any peek at this installment, which promises to cap off the modern reboot trilogy in grand fashion. The newly dropped preview offers a fast-paced look at the chaotic situations and high-stakes peril that the core team must navigate once more."
+        ]
+      },
+      {
+        "h": "A Dangerous Reality Collision",
+        "p": [
+          "Directed by Jake Kasdan, the new trailer introduces a thrilling premise as the dangerous world of Jumanji spills directly into reality. After surviving the countless digital challenges in previous adventures, the heroes now face an unprecedented threat unlike anything they have encountered before.",
+          "With the game's characters and environmental hazards bleeding into the real world, the lines between the virtual universe and everyday existence begin to blur. This creates a chaotic new mission where the stakes are higher than ever for everyone involved."
+        ]
+      },
+      {
+        "h": "Reuniting the Iconic Ensemble",
+        "p": [
+          "The upcoming film brings back the franchise's much-loved ensemble cast, featuring Dwayne Johnson, Kevin Hart, Jack Black, and Karen Gillan in their signature avatars. Their dynamic chemistry has been a core pillar of the recent films, and this final outing promises even more comedic banter and brave heroics.",
+          "In addition to the main four, Nick Jonas also returns to the fold. The expansive supporting lineup includes Alex Wolff, Madison Iseman, Morgan Turner, Ser’Darius Blain, Rhys Darby, and Danny DeVito, rounding out the familiar faces from the previous chapters."
+        ]
+      },
+      {
+        "h": "Building on a Legacy",
+        "p": [
+          "This upcoming picture follows the massive success of Jumanji: Welcome to the Jungle which released in 2017, and Jumanji: The Next Level from 2019. Those films successfully reimagined the original 1995 classic starring Robin Williams for a brand-new generation of moviegoers.",
+          "Director Jake Kasdan returns behind the camera to helm the project, ensuring creative consistency across the modern trilogy. The production team also features notable figures, with Matt Tolmach, Dwayne Johnson, Dany Garcia, and Hiram Garcia serving among the producers."
+        ]
+      },
+      {
+        "h": "Global Theatrical Release Details",
+        "p": [
+          "Jumanji: Open World is officially scheduled to release in cinemas worldwide on December 25, 2026. This prime Christmas slot positions the film to capture family audiences and holiday moviegoers looking for a major cinematic spectacle.",
+          "For viewers in India, Sony Pictures Entertainment India has announced plans to release the film in multiple languages, including English, Hindi, Tamil, and Telugu, ensuring a wide regional reach across the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Jumanji: Open World has been released, featuring the return of Dwayne Johnson, Karen Gillan, Jack Black, and Kevin Hart for a final adventure directed by Jake Kasdan. Scheduled to release worldwide on December 25, 2026, the film follows the plot of the game's world spilling into reality."
+        ]
+      }
+    ],
+    "facts": [
+      "Dwayne Johnson stars in Jumanji: Open World",
+      "Jake Kasdan is the director of the film",
+      "Jumanji: Open World is scheduled to release on December 25, 2026",
+      "Sony Pictures Entertainment India is releasing the film in English, Hindi, Tamil and Telugu",
+      "Previous films in the series include Jumanji: Welcome to the Jungle from 2017 and Jumanji: The Next Level from 2019"
+    ],
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Karen Gillan",
+        "Jack Black",
+        "Kevin Hart",
+        "Jake Kasdan",
+        "Nick Jonas",
+        "Alex Wolff",
+        "Madison Iseman",
+        "Morgan Turner",
+        "Ser’Darius Blain",
+        "Rhys Darby",
+        "Danny DeVito",
+        "Matt Tolmach",
+        "Dany Garcia",
+        "Hiram Garcia",
+        "Robin Williams"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "Jumanji: Welcome to the Jungle",
+        "Jumanji: The Next Level",
+        "Jumanji"
+      ]
+    },
+    "keywords": [
+      "Jumanji Open World",
+      "Dwayne Johnson Jumanji Open World trailer",
+      "Jumanji Open World release date",
+      "Jake Kasdan Jumanji Open World"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-10/1811664423_jumanji-open-world.webp",
+        "caption": "Jumanji Open World Trailer: Dwayne Johnson Returns for Final Adventure With Karen Gillan, Jack Black and Kevin Hart",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 13:57:04 +0530"
+  },
+  "gz9q05": {
+    "id": "gz9q05",
+    "type": "news",
+    "headline": "Netflix Set to Release Action Thriller Never Surrender Next Month",
+    "dek": "An ordinary grandfather with a violent military past unleashes Rambo-style tactics to protect his grandchildren from ruthless criminals in the upcoming Netflix original Never Surrender.",
+    "body": [
+      {
+        "h": "Introduction to Netflix's New Action Hero",
+        "p": [
+          "Netflix is preparing to launch a brand new original action thriller titled Never Surrender next month. The streaming platform has positioned the film as a showcase for a unique kind of action protagonist, blending the fierce intensity of classic genre icons with a fresh family dynamic.",
+          "Instead of focusing on a standard action parent, the upcoming movie introduces audiences to an action grandparent. The narrative pushes the boundaries of the aged action hero trope to hard-hitting limits."
+        ]
+      },
+      {
+        "h": "Inspiration and Cinematic Influences",
+        "p": [
+          "The aging action hero has enjoyed widespread popularity over the years, driven by performances like Liam Neeson in Taken and the enduring film careers of genre legends such as Sylvester Stallone, Arnold Schwarzenegger, Jackie Chan, and Keanu Reeves.",
+          "Never Surrender draws inspiration from these iconic figures while incorporating the raw, dusty martial arts spectacle seen in modern hits like The Raid and The Furious. The result is a gritty new one-man army narrative for thriller fans."
+        ]
+      },
+      {
+        "h": "Plot and Setting in Central Java",
+        "p": [
+          "The story centers on an unassuming grandfather living a quiet life alone in a small village in Central Java. His routine is disrupted when he must care for his two grandchildren, whom he has not seen in a long time.",
+          "Trouble eventually catches up with them from Jakarta when a group of ruthless criminals storms their home. Trapped in a life-threatening situation, the grandfather and his grandchildren face a stark choice: surrender or fight back."
+        ]
+      },
+      {
+        "h": "Tactical Survival and Rambo-Style Action",
+        "p": [
+          "Although appearing to be a normal elder, the grandfather is revealed to be a former soldier possessing the lethal skillset required to neutralize violent villains. He leaps into action to defend his family using tactical ingenuity.",
+          "Viewers can expect Rambo-style booby traps, effortless weapon disarms, and tense survival tactics, including covering the grandchildren's faces in war paint as danger closes in."
+        ]
+      },
+      {
+        "h": "Director, Cast, and Production Background",
+        "p": [
+          "Never Surrender hails from Indonesia and is also known by the alternative title Serangan Balik. The film is directed by Sidharta Tata, who previously helmed the acclaimed revenge outing Ikatan Darah, also known as Blood Ties.",
+          "The feature stars Lukman Sardi as Eyang Hari, alongside Callista Arum as Putri, Sulthan Hamonangan as Dimas, Derby Romero as Bastian, and Donny Alamsyah. The production is produced by Kimo Stamboel and Edwin Nazir."
+        ]
+      },
+      {
+        "h": "Streaming Details and Release Information",
+        "p": [
+          "Combining tactical action, martial arts prowess, and emotional family drama, Never Surrender aims to establish itself as a major sleeper hit on the streaming platform.",
+          "Fans will not have to wait long to see the movie, as it is scheduled to land on Netflix on November 12, 2026, with a TV-MA rating and a runtime of 137 minutes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix is set to release the Indonesian action thriller Never Surrender on November 12, 2026. Directed by Sidharta Tata and starring Lukman Sardi, the film follows a former soldier grandfather defending his grandchildren from ruthless criminals in Central Java."
+        ]
+      }
+    ],
+    "facts": [
+      "Never Surrender releases on Netflix on November 12, 2026",
+      "The film has a runtime of 137 minutes and is rated TV-MA",
+      "Sidharta Tata is the director of the film",
+      "Lukman Sardi stars as Eyang Hari",
+      "Callista Arum, Sulthan Hamonangan, Derby Romero, and Donny Alamsyah are part of the cast",
+      "The story is set in a small village in Central Java"
+    ],
+    "entities": {
+      "people": [
+        "Sidharta Tata",
+        "Lukman Sardi",
+        "Callista Arum",
+        "Sulthan Hamonangan",
+        "Derby Romero",
+        "Donny Alamsyah",
+        "Kimo Stamboel",
+        "Edwin Nazir",
+        "Liam Neeson",
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger",
+        "Jackie Chan",
+        "Keanu Reeves"
+      ],
+      "titles": [
+        "Never Surrender",
+        "Serangan Balik",
+        "Taken",
+        "The Raid",
+        "The Furious",
+        "Ikatan Darah",
+        "Blood Ties"
+      ]
+    },
+    "keywords": [
+      "Never Surrender Netflix",
+      "Sidharta Tata Never Surrender",
+      "Lukman Sardi Never Surrender",
+      "Serangan Balik movie"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/z-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Set to Release Action Thriller Never Surrender Next Month",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 11:59:43 GMT"
   }
 };
