@@ -18284,5 +18284,238 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 15:02:28 GMT"
+  },
+  "paul37": {
+    "id": "paul37",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise on the Reaping Eyes Massive Opening",
+    "dek": "Lionsgate's upcoming prequel project enters tracking with expectations for a strong domestic debut over the Thanksgiving corridor.",
+    "body": [
+      {
+        "h": "Tracking Indicates Strong Opening",
+        "p": [
+          "Lionsgate is positioning itself to revitalize the Thanksgiving box office season with its highly anticipated franchise entry. Early tracking metrics suggest a domestic floor starting at sixty million dollars for the opening stretch.",
+          "Industry competitors and analysts are closely monitoring the project, with several estimates indicating that the three-day holiday figures could climb even higher, potentially exceeding seventy million dollars in the United States."
+        ]
+      },
+      {
+        "h": "Release Details and Direction",
+        "p": [
+          "The feature film is scheduled to arrive in cinemas on November 20. Franchise director Francis Lawrence returns to helm the latest installment in the cinematic universe.",
+          "This release marks the sixth feature film in the overarching series, bringing audiences back to the familiar dystopian landscape of Panem for another major theatrical event."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Chapters",
+        "p": [
+          "A debut in this projected range represents a notable upward trajectory compared to the previous installment in the franchise. The Ballad of Songbirds Snakes opened domestically to forty-four point six million dollars before finishing its run.",
+          "That earlier title faced unique challenges, including a release window during the Covid era and a bow shortly after the conclusion of the actors strike in 2023. Despite those hurdles, it eventually reached significant global totals."
+        ]
+      },
+      {
+        "h": "Premise and Timeline",
+        "p": [
+          "The narrative shifts focus to a period twenty-four years before the primary events of the original Hunger Games story. The plot begins precisely on the morning of the reaping for the fiftieth tournament, also identified as the Second Quarter Quell.",
+          "Joseph Zada steps into the role of a younger version of Haymitch Abernathy, originally played by Woody Harrelson. Meanwhile, Jesse Plemons portrays a younger iteration of Plutarch Heavensbee, previously brought to life by Philip Seymour Hoffman."
+        ]
+      },
+      {
+        "h": "Promotional Momentum and Trailers",
+        "p": [
+          "Public interest has been amplified by extensive promotional campaigns, including recent fan gatherings in London and upcoming events in Los Angeles. The studio has benefited from strong audience engagement across various platforms.",
+          "Trailer metrics have proven especially robust, generating one hundred nine million views during its initial twenty-four-hour window. This performance ranks it as the second most watched trailer ever for a Lionsgate release, trailing only Michael."
+        ]
+      },
+      {
+        "h": "Demographic Appeal and Comparisons",
+        "p": [
+          "Audience interest spans diverse demographics, showing particular strength among female viewers while maintaining solid figures among younger male demographics. Ticket buyer metrics place it alongside prominent recent theatrical releases.",
+          "Overall preference indicators place the film ahead of titles like The Devil Wares Prada 2 and on par with other major contemporary releases in terms of early consumer enthusiasm."
+        ]
+      },
+      {
+        "h": "Franchise Legacy and Book Sales",
+        "p": [
+          "The broader literary property spans five novels that have accumulated global sales exceeding one hundred million copies across fifty-two languages. The cinematic adaptations have collectively surpassed three point four billion dollars worldwide.",
+          "The underlying book achieved substantial commercial success during its initial release week, moving over one point five million copies globally and establishing a new record for the literary series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate anticipates a strong Thanksgiving box office debut for The Hunger Games: Sunrise on the Reaping, with early tracking projecting an opening of sixty million dollars or more.",
+          "The prequel, directed by Francis Lawrence and starring Joseph Zada and Jesse Plemons, builds on the success of a bestselling novel and substantial trailer viewership."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping is scheduled to release on November 20.",
+      "Early tracking suggests a domestic opening floor of $60M+.",
+      "The previous film, The Ballad of Songbirds Snakes, opened to $44.6M stateside.",
+      "The story is set 24 years before the events of The Hunger Games, starting on the morning of the 50th Hunger Games (Second Quarter Quell).",
+      "Joseph Zada stars as a younger Haymitch Abernathy and Jesse Plemons stars as a younger Plutarch Heavensbee.",
+      "The trailer generated 109 million views in its first 24 hours.",
+      "The novel sold over 1.5 million copies worldwide in its first week."
+    ],
+    "entities": {
+      "people": [
+        "Anthony D'Alessandro",
+        "Armando Iannucci",
+        "James McAvoy",
+        "Alicia Vikander",
+        "Taron Egerton",
+        "Cal Brunker",
+        "Michael",
+        "Noah Kahan",
+        "Francis Lawrence",
+        "Coriolanus Snow",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Jesse Plemons",
+        "Philip Seymour Hoffman",
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Suzanne Collins",
+        "Ralph Fiennes",
+        "Glenn Close",
+        "Kieran Culkin",
+        "Elle Fanning",
+        "Mckenna Grace",
+        "Maya Hawke",
+        "Whitney Peak",
+        "Kelvin Harrison Jr.",
+        "Hannah Waddingham",
+        "Gregory Nava",
+        "Delores Huerta",
+        "Scott Jennings",
+        "Hasan Piker",
+        "William Shatner",
+        "Walter Koenig",
+        "Stephen Fry",
+        "Jane Horrocks"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "PAW Patrol 4",
+        "The Hunger Games",
+        "The Hunger Games: The Ballad of Songbirds Snakes",
+        "Wicked",
+        "Beetlejuice Beetlejuice",
+        "Catching Fire",
+        "Mockingjay",
+        "Moana 2",
+        "Gladiator 2",
+        "Wicked: For Good",
+        "Zootopia 2",
+        "Ted Lasso",
+        "The Diplomat",
+        "Star Trek",
+        "Life 2.0",
+        "Spider-Man",
+        "The Odyssey",
+        "Klara and the Sun",
+        "A Few Good Men",
+        "Other Desert Cities",
+        "860"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping box office",
+      "Sunrise on the Reaping movie release date",
+      "Francis Lawrence Hunger Games prequel",
+      "Joseph Zada Haymitch Abernathy"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/solstice-unit-250924-00408rc3-crop-e1793289117114.jpg?w=1024",
+        "caption": "The Hunger Games: Sunrise on the Reaping Eyes Massive Opening",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 16:32:42 +0000"
+  },
+  "1ddhckm": {
+    "id": "1ddhckm",
+    "type": "news",
+    "headline": "Bloodborne Animated Film Making Progress With New Writer and Director",
+    "dek": "Producer Sean McLoughlin, known as Jacksepticeye, shares that the Bloodborne animated movie project has advanced significantly with creative talent now attached.",
+    "body": [
+      {
+        "h": "Production Progress on the Animated Project",
+        "p": [
+          "The upcoming animated adaptation of the popular title has advanced considerably since its initial unveiling. According to producer Sean McLoughlin, the project is moving through the pipeline at a much faster pace than observed earlier in the year.",
+          "Key creative roles have been filled to guide the production forward. Although specific names remain unannounced, a writer and a director are officially onboard to shape the narrative."
+        ]
+      },
+      {
+        "h": "Mapping Out the Gothic Narrative",
+        "p": [
+          "The story for the upcoming film is currently being developed to fit within the distinct gothic atmosphere established by FromSoftware. Creators have dedicated time to plotting out narrative beats and ensuring the direction respects the source material.",
+          "With key story milestones mapped out, the team feels confident about the current trajectory. Future announcements are anticipated to share minor teases regarding the plot and introduce the talent leading the adaptation."
+        ]
+      },
+      {
+        "h": "Producer Passion and Fan Reactions",
+        "p": [
+          "The producer, widely recognized online as Jacksepticeye, has previously expressed a deep personal connection to the franchise. Having documented a strong affinity for FromSoftware titles, he emphasized that protecting the integrity of the intellectual property remains a top priority.",
+          "Despite personal dedication and enthusiasm for the project, initial public reception encountered considerable pushback. Reports indicate that a vast majority of early responses to the adaptation announcement expressed heavy skepticism regarding the creative direction."
+        ]
+      },
+      {
+        "h": "Addressing Quality and Creative Control",
+        "p": [
+          "In response to community concerns, the production team has maintained that the IP is being handled with great care. Assurances were given that the final product would align with standards worthy of the original game's legacy.",
+          "The creative team insists that safeguards are in place to prevent the project from steering away from the core elements that fans cherish about the universe."
+        ]
+      },
+      {
+        "h": "Contrast with the Gaming Front",
+        "p": [
+          "While the cinematic adaptation sees steady movement, the video game front has remained largely stagnant for enthusiasts. Players continue to wait for updates, a modernization patch, or a sequel that has yet to materialize.",
+          "The lack of official attention toward the original interactive title on gaming platforms makes the development of the animated feature a rare source of active news for followers of the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Bloodborne animated film project is advancing steadily with a mystery writer and director now attached to map out the narrative. Despite facing initial skepticism from a large portion of the fanbase, the producer has assured supporters that the adaptation is in dedicated hands while the game itself sees no active updates."
+        ]
+      }
+    ],
+    "facts": [
+      "Sean McLoughlin is also known as Jacksepticeye.",
+      "The Bloodborne movie was initially announced in April.",
+      "An unnamed writer and director are now attached to the project.",
+      "Around 80 percent of initial responses to the movie announcement were critical."
+    ],
+    "entities": {
+      "people": [
+        "Sean McLoughlin",
+        "Jacksepticeye",
+        "Tom Simons",
+        "Bradley Russell"
+      ],
+      "titles": [
+        "Bloodborne",
+        "RuneScape",
+        "BioShock",
+        "Fallout",
+        "The Suicide Squad"
+      ]
+    },
+    "keywords": [
+      "Bloodborne movie",
+      "Jacksepticeye Bloodborne",
+      "Bloodborne animated adaptation",
+      "Sean McLoughlin Bloodborne"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/hH6Fn5kUuz4UtnEDeBgCfc-1920-80.jpg",
+        "caption": "Bloodborne Animated Film Making Progress With New Writer and Director",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 16:35:49 +0000"
   }
 };
