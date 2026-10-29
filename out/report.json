@@ -2,30 +2,30 @@
  "today_pkt": "2026-10-30",
  "sources": 137,
  "status": {
-  "ok": 55,
+  "ok": 58,
   "not_due": 52,
-  "unchanged": 22,
-  "error": 8
+  "unchanged": 20,
+  "error": 7
  },
- "queue_total": 255,
- "stories_total": 261,
+ "queue_total": 260,
+ "stories_total": 268,
  "duplicates_removed": 0,
  "categories": {
-  "Box Office": 3,
+  "Box Office": 4,
   "Awards": 0,
   "Trailers": 1,
   "Music / OST": 12,
-  "Episodes": 1,
-  "Upcoming releases": 1,
-  "OTT / Streaming": 10,
+  "Episodes": 3,
+  "Upcoming releases": 2,
+  "OTT / Streaming": 13,
   "TV & Dramas": 3,
-  "Celebrity news & events": 11,
-  "Movies": 211,
+  "Celebrity news & events": 12,
+  "Movies": 208,
   "Entertainment viral": 2
  },
  "dropped": {
-  "not-today": 5,
-  "fallback-blocked-non-entertainment": 3
+  "not-today": 6,
+  "fallback-blocked-non-entertainment": 2
  },
  "per_source": [
   {
@@ -108,7 +108,7 @@
   {
    "source": "Times of India — Entertainment",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 20,
    "note": ""
   },
@@ -248,21 +248,21 @@
   {
    "source": "CinemaBlend",
    "status": "ok",
-   "new": 1,
+   "new": 2,
    "total": 30,
    "note": ""
   },
   {
    "source": "Collider",
    "status": "ok",
-   "new": 2,
+   "new": 8,
    "total": 10,
    "note": ""
   },
   {
    "source": "ComingSoon.net",
    "status": "ok",
-   "new": 7,
+   "new": 3,
    "total": 20,
    "note": ""
   },
@@ -283,14 +283,14 @@
   {
    "source": "MovieWeb",
    "status": "ok",
-   "new": 0,
+   "new": 4,
    "total": 10,
    "note": ""
   },
   {
    "source": "Screen Rant",
    "status": "ok",
-   "new": 9,
+   "new": 10,
    "total": 10,
    "note": ""
   },
@@ -304,14 +304,14 @@
   {
    "source": "Variety",
    "status": "ok",
-   "new": 4,
+   "new": 3,
    "total": 10,
    "note": ""
   },
   {
    "source": "Deadline",
    "status": "ok",
-   "new": 3,
+   "new": 0,
    "total": 12,
    "note": ""
   },
@@ -334,7 +334,7 @@
    "status": "error",
    "new": 0,
    "total": 0,
-   "note": "ParseError: unbound prefix: line 1132, column 2"
+   "note": "ParseError: unbound prefix: line 1552, column 2"
   },
   {
    "source": "Box Office Pro",
@@ -352,10 +352,10 @@
   },
   {
    "source": "IndieWire",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "status": "ok",
+   "new": 1,
+   "total": 12,
+   "note": ""
   },
   {
    "source": "Vulture",
@@ -395,16 +395,16 @@
   {
    "source": "Total Film (GamesRadar)",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 30,
    "note": ""
   },
   {
    "source": "TVLine",
-   "status": "unchanged",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "The Futon Critic",
@@ -471,10 +471,10 @@
   },
   {
    "source": "SpoilerTV",
-   "status": "ok",
+   "status": "unchanged",
    "new": 0,
-   "total": 25,
-   "note": ""
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Rolling Stone",
@@ -555,10 +555,10 @@
   },
   {
    "source": "HUM TV (YouTube)",
-   "status": "error",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "HTTP 404 (bot-block ho sakta hai)"
+   "total": 15,
+   "note": ""
   },
   {
    "source": "Parhlo",
@@ -674,10 +674,10 @@
   },
   {
    "source": "Soompi",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "VVIP Times",
@@ -689,7 +689,7 @@
   {
    "source": "allkpop",
    "status": "ok",
-   "new": 2,
+   "new": 7,
    "total": 30,
    "note": ""
   },
@@ -724,7 +724,7 @@
   {
    "source": "Digital Spy",
    "status": "ok",
-   "new": 1,
+   "new": 0,
    "total": 30,
    "note": ""
   },
@@ -794,14 +794,14 @@
   {
    "source": "E! News",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 30,
    "note": ""
   },
   {
    "source": "Just Jared",
    "status": "ok",
-   "new": 5,
+   "new": 6,
    "total": 25,
    "note": ""
   },
@@ -843,7 +843,7 @@
   {
    "source": "Page Six",
    "status": "ok",
-   "new": 3,
+   "new": 0,
    "total": 10,
    "note": ""
   },
@@ -878,7 +878,7 @@
   {
    "source": "HELLO! Magazine",
    "status": "ok",
-   "new": 2,
+   "new": 1,
    "total": 30,
    "note": ""
   },
@@ -927,7 +927,7 @@
   {
    "source": "Bored Panda",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
@@ -969,21 +969,21 @@
   {
    "source": "Rolling Stone Music",
    "status": "ok",
-   "new": 2,
+   "new": 0,
    "total": 10,
    "note": ""
   },
   {
    "source": "Billboard",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 10,
    "note": ""
   },
   {
    "source": "TechCrunch",
    "status": "ok",
-   "new": 0,
+   "new": 1,
    "total": 20,
    "note": ""
   }

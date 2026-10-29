@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T00:55:23Z",
-    "run_id": "40796656529",
-    "status": "success",
-    "checked": {
-     "candidates": 146,
-     "detail": "RSS/Atom items across 137 sources; 22 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Exclusive | Bhumi Pednekkar set to reunite with Akshay Kumar in Priyadarshan's next film",
-      "Sai Pallavi says she wants a life partner who is not self-centered, owns up to his mistakes and knows how to cook",
-      "Anurag Kashyap made Gangs of Wasseypur sets feel like a playground, never flaunted authority: Short film Aakhiri Ride makers",
-      "‘Little Britain’ star David Walliams facing misconduct allegations, dropped from upcoming movie: Report",
-      "Angh review: Theja Rio weighs progress against cultural loss in Nagaland",
-      "ranbir kapoor meets his fan at california during ramayana world premiere share success advice tmov dskc 2682620 2026 10 29",
-      "Florence Pugh Would Love For You To Know She's Not American",
-      "‘Frasier’ Star Kelsey Grammer Officially Set for Directorial Debut Ahead of X-Men Return",
-      "Harry Potter Director's '80s Cult Classic Is Officially a Streaming Hit Again on HBO Max",
-      "The Best Marvel Movie of the Last Few Years Gets New Release Ahead of 'Doomsday'",
-      "Prime Video Officially Revives Sylvester Stallone’s 0% Rotten Tomatoes Crime Thriller",
-      "These 10 Pixar Movies Are Officially the Best of All Time",
-      "Netflix’s Best ‘Reacher’ Replacement Will Officially End in 2027",
-      "10 Most Perfect Sitcoms of the Last 15 Years, Ranked",
-      "‘28 Years Later’ and ‘Last Tango in Halifax’ Stars Officially Lead New WWII Movie",
-      "The Spy Franchise That Inspired ‘Reacher’ Will Officially Not Return in 2026",
-      "'GTA 6' Reportedly Breaks Massive Franchise Record Ahead of Release",
-      "Smile 3 Officially Moves Forward With New Director As Franchise Creator Steps Back",
-      "Over 35 Major Easter Eggs, Comics References, And MCU Ties In VisionQuest Episodes 5 & 6",
-      "Netflix's 34-Episode Dystopian Series Is So Good, Even Its Worst Episode Beats Most Sci-Fi Shows"
-     ],
-     "updated": [],
-     "count": 87,
-     "detail": "87 stories, 11 duplicates removed, 59 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T01:51:53Z",
     "run_id": "40802822442",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "261 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T00:55:36Z",
-    "run_id": "40796656529",
+    "run_at": "2026-10-29T23:51:29Z",
+    "run_id": "40975821228",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 276,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
-      "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95"
+      "Candace Cameron Bure Got Candid On TV About ‘Nasty Things’ People Have Said About Her",
+      "Andy Cohen Teased More Real Housewives Cities Could Be Coming, And I Have Some Ideas",
+      "One of TV's Best Sci-Fi Thrillers Officially Becomes Netflix's No. 1 Series in America",
+      "Stephen King’s Favorite Horror Movie of 2026 Officially Wins Big on Streaming",
+      "The 8 Best Final Shots in DC Movies, Ranked",
+      "The 10 Best Netflix Movies Based on Books, Ranked",
+      "Jenna Ortega's Sci-Fi Bomb Officially Cancels International Theatrical Release",
+      "Hugh Jackman's Divisive Action Thriller Is Officially HBO Max's No. 1 Movie",
+      "Disney's Biggest Box Office Bomb of 2026 Officially Redeems Itself on Streaming",
+      "'Dexter: Resurrection' Recap: What To Remember Before Paramount+'s Thriller Series Returns",
+      "Khloé Kardashian’s Ex Lamar Odom Joins OnlyFans With a Surprising Promise",
+      "Zachary Levi & Parks and Rec Star Cast in Faith-Based Comedy TV Show, Shazam! Star Gives Statement",
+      "Why Dave Bautista Turned Down Peacemaker DC Role Explained by James Gunn",
+      "'Obsession' Director Curry Barker Releases Free 5-Minute Short Film After $500 Million Hit",
+      "35 Years Later, ‘Calvin and Hobbes’s Wisest Quote Remains Unbeaten",
+      "Will Smith's 117-Minute Action Thriller Flop Is Officially Being Cut From Free Streaming Next Month",
+      "'Scrubs' Officially Repeats the Revival's Best JD Twist With a Different Character",
+      "ABC Officially Confirms Return Of Iconic Fantasy Adaptation 23 Years Later",
+      "Dragon Ball Super: Beerus Episode 4 Release Date & Time",
+      "HBO's Harry Potter Casting Update Confirms A Devastating Truth"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 260,
+     "detail": "268 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1430,27 +1409,27 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
-   }
-  ],
-  "ott": [
+   },
    {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T02:45:10Z",
-    "run_id": "40807972280",
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T23:51:30Z",
+    "run_id": "40975821228",
     "status": "success",
     "checked": {
-     "candidates": 33,
-     "detail": "OTT now/coming titles from the published catalogue"
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0,
-     "detail": "now 26, coming 7"
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "ott": [
    {
     "step": "ott",
     "category": "OTT",
@@ -1864,19 +1843,27 @@
      "detail": "now 50, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T23:51:30Z",
+    "run_id": "40975821228",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 50, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2223,27 +2210,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T01:01:30Z",
-    "run_id": "40796656529",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T23:55:56Z",
+    "run_id": "40975821228",
     "status": "success",
     "checked": {
-     "candidates": 289,
-     "detail": "286 collected staging rows from readers; 95 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
-     "detail": "+3 new rows, 7 updated rows, 276 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2657,19 +2643,27 @@
      "detail": "+0 new rows, 3 updated rows, 308 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T23:55:54Z",
+    "run_id": "40975821228",
+    "status": "success",
+    "checked": {
+     "candidates": 311,
+     "detail": "311 collected staging rows from readers; 103 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 89,
+     "detail": "+0 new rows, 89 updated rows, 222 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2925,30 +2919,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T01:01:32Z",
-    "run_id": "40796656529",
-    "status": "success",
-    "checked": {
-     "candidates": 78,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
-      "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 78 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3419,19 +3402,27 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T23:55:56Z",
+    "run_id": "40975821228",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3703,19 +3694,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3990,29 +3981,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T00:55:36Z",
-    "run_id": "40796656529",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 87 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 0/6, celebrities_events 1/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
-      "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4460,19 +4441,26 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T23:51:30Z",
+    "run_id": "40975821228",
+    "status": "success",
+    "checked": {
+     "candidates": 0,
+     "detail": "daily cap 40/40 reached; batch skipped"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "cap"
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4715,24 +4703,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 182,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5057,24 +5040,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 21,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5399,24 +5377,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 49,
+     "count": 13,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5661,19 +5639,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5908,19 +5886,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6150,19 +6128,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T01:57:59Z",
-    "run_id": "40802822442",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6403,19 +6381,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6645,19 +6623,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T01:01:40Z",
-    "run_id": "40796656529",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6910,8 +6888,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T23:56:05Z",
+    "run_id": "40975821228",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T22:51:38Z"
+ "updated_at": "2026-10-29T23:56:05Z"
 }
