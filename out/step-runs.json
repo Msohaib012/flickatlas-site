@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T13:29:57Z",
-    "run_id": "40696251129",
-    "status": "success",
-    "checked": {
-     "candidates": 73,
-     "detail": "RSS/Atom items across 137 sources; 19 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "dileeps cult comedy classic kalyanaraman to return to theatres in 4k_ 86829.html",
-      "mataji at 100 the woman who turned a spiritual mission into a family 3077188.html",
-      "61 Years Later, Daredevil’s Classic Villain Officially Returns With a Terrifying New Look",
-      "Absolute Batman’s Biggest Twist Could Change Bruce Wayne Forever",
-      "Peter Medak Dies: ‘The Ruling Class’ & ‘Romeo Is Bleeding’ Director Was 88",
-      "BBC “Disappointed” As Staff Plan Industrial Action Vote Over Job Cuts",
-      "a court of splintered harmony review sarah j maas acotar 6.html",
-      "gilded age club email newsletter launch.html",
-      "Director Sean Durkin Behind Series Adaptations Of Chad Harbach’s College-Set Books ‘The Art Of Fielding’ & ‘The Brightness’ For A24",
-      "‘Behemoth!’ Trailer: Pedro Pascal Comes Home In Tony Gilroy’s Movie Music Drama",
-      "Danielle Harris documentary explores the life of the Halloween scream queen",
-      "Yeh Jhumka Kiska hai 😱😡 | Dur e Fishan | Dar e Nijaat | ARY Digital Drama",
-      "At least 64 people killed in Spain as two high-speed trains collide",
-      "Mohabbat Haqeeqat Thi Ya Weham 💔 #shorts #shortsfeed #komalmeer #danyalzafar #raqaas #greentv",
-      "Palat Gaya Khail! Zulm Ki Dastan Mustafa Ko Suna Di Gayi | Hiba Aziz - Danial Afzal | Dastoor",
-      "Har Note Par Sign Kar Diye Maine 🥰 #shorts #shortsfeed #sumaiyyabukhsh #humayunashraf #madaar",
-      "Tom Brady romance Candice Swanepoel Joan Smalls.html",
-      "Hasan Piker Sues Scott Jennings for $72.5 Million For Falsely Claiming He Supports Lynchings",
-      "tyler cameron jokes he went out like jackass after dwts exit",
-      "Win a one night stay at the newly reopened Holiday Inn London - Heathrow M4, Jct.4"
-     ],
-     "updated": [],
-     "count": 23,
-     "detail": "24 stories, 0 duplicates removed, 49 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T14:52:13Z",
     "run_id": "40709929141",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "169 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T13:30:49Z",
-    "run_id": "40696251129",
+    "run_at": "2026-10-29T14:51:27Z",
+    "run_id": "40895512998",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 315,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
-      "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88"
+      "Junglywood trailer out: Shaan R Grover leads a thriller set against Bollywood’s insider-outsider divide",
+      "Ranbir Kapoor, Nitesh Tiwari, and others discuss Ramayana’s values with students from 500 schools; special episode to stream on JioHotstar",
+      "Gunmaaster G9 song ‘Dard-E-Dil Dard-E-Jigar’ to drop on October 30; Himesh Reshammiya and Akasa Singh reunite for new track",
+      "Mitti De Baway Ep12 Release Time In India Dailymotion: Baala To Marry Qamrunnisa; Billo To Kill Peer Ji?",
+      "Karwa Chauth 2026 Chand Timings Delhi: When Will Riddhima Kapoor Break Fast? Moonrise Time In Noida Is...",
+      "Karwa Chauth 2026 LIVE Updates: Shilpa Shetty, Shahid Kapoor's Wife Mira Celebrate In Style- PICS Inside",
+      "Fool In Love Episode 7 Ending SHOCKER: Post-Breakup DRAMA! Did Yok's Jealousy EXPLODE Over Ing's New Flame?",
+      "Sharvari Jamenis (Kon Yashwant Pansare), Genelia (Ved)- 5 Actors Who Made Memorable Comeback After Break",
+      "KWK S9: Janhvi Opens Up On Wedding Plans With Shikhar; Reveals How He Supported Her Post Sridevi’s Demise",
+      "EXCLUSIVE! Saumya Uniyal Says Playing Charu In Netflix's Matargashti Felt Like Manifestation: I Wrote In Diary",
+      "Bigg Boss 20 Episode 54 Dailymotion: Gullu-Yung DSA's FIGHT Turns Physical. Arishfa Vs Scout, Uditi Slams Him",
+      "Sub-Inspector Yugandhar OTT Release Date And Platform: When And Where To Watch Aadi Saikumar's Film Online",
+      "Junglywood Trailer Out NOW: Insiders x Outsiders CLASH; A Fresh Insight Into The Dark World Of Film Industry",
+      "The One About Matthew Perry X Review: “Heartbreaking”, & “Important Watch” – Fans Get Emotional",
+      "Aakasamlo Oka Tara 2nd Single: Dulquer Salmaan starrer goes down melodious route with GV Prakash’s Radhe Radhe",
+      "ChiruOdela: Chiranjeevi and Srikanth Odela starrer by Nani shelved after Paradise’s failure? Here’s what we know",
+      "Karthik Subbaraj reveals how Shankar changed his original ‘Game Changer’ story",
+      "Islamic cleric issues 'fatwa' for Sara Ali Khans's visit to Kedarnath, calls it 'haraam'",
+      "Tamil Nadu theatre owners seek 6 am shows, 2 am screenings",
+      "Diljit Dosanjh Delhi Concert: Metro services to run till midnight on Oct 30"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 291,
+     "detail": "293 stories, 5 duplicates removed, 22 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T14:54:29Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Cast and Makers of Ramayana Engage with Thousands of Students in Special Educational Initiative Ahead of Film's Release",
+      "Netflix Unveils New Trailer for Pride and Prejudice Adaptation Starring Emma Corrin"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T14:53:55Z",
-    "run_id": "40709929141",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 43, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T14:54:29Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": {
+     "candidates": 48,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 43, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2164,27 +2154,28 @@
      "count": 0
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T14:59:00Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": {
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "cio2rc"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T13:37:13Z",
-    "run_id": "40696251129",
-    "status": "success",
-    "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 8,
-     "detail": "+0 new rows, 8 updated rows, 200 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2598,19 +2589,27 @@
      "detail": "+0 new rows, 3 updated rows, 290 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T14:58:58Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 90,
+     "detail": "+0 new rows, 90 updated rows, 203 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2853,30 +2852,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T15:02:04Z",
-    "run_id": "40709929141",
-    "status": "success",
-    "checked": {
-     "candidates": 78,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
-      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 78 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3341,26 +3329,30 @@
      "detail": "api-news.json 68 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T14:59:00Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": {
+     "candidates": 70,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Cast and Makers of Ramayana Engage with Thousands of Students in Special Educational Initiative Ahead of Film's Release",
+      "Netflix Unveils New Trailer for Pride and Prejudice Adaptation Starring Emma Corrin"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 70 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T13:30:00Z",
-    "run_id": "40696251129",
-    "status": "success",
-    "checked": {
-     "candidates": 22,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3611,19 +3603,19 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3884,29 +3876,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T13:30:49Z",
-    "run_id": "40696251129",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 23 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
-      "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4351,19 +4333,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T14:54:29Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 291 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 5/4, ott_streaming 4/4, trailers 2/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Cast and Makers of Ramayana Engage with Thousands of Students in Special Educational Initiative Ahead of Film's Release",
+      "Netflix Unveils New Trailer for Pride and Prejudice Adaptation Starring Emma Corrin"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4606,24 +4598,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 200,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4943,24 +4930,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 215,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5280,19 +5267,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5542,19 +5534,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5789,19 +5781,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6027,6 +6019,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T13:52:22Z",
     "run_id": "40885665339",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6037,16 +6039,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T15:02:18Z",
     "run_id": "40709929141",
     "status": "skipped",
@@ -6269,6 +6261,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T13:52:22Z",
     "run_id": "40885665339",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6279,16 +6281,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T15:02:18Z",
     "run_id": "40709929141",
     "status": "skipped",
@@ -6515,19 +6507,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-28T13:37:23Z",
-    "run_id": "40696251129",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6780,8 +6772,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T14:59:07Z",
+    "run_id": "40895512998",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T13:52:22Z"
+ "updated_at": "2026-10-29T14:59:07Z"
 }
