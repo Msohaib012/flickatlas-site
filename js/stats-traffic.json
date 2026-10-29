@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-29T10:21:10Z",
+  "generated": "2026-10-29T11:56:13Z",
   "realtime": {
-    "active_users": 3
+    "active_users": 0
   },
   "today": {
-    "users": 5,
-    "pageviews": 30,
-    "sessions": 7,
-    "avg_session_seconds": 279.5
+    "users": 8,
+    "pageviews": 51,
+    "sessions": 11,
+    "avg_session_seconds": 307.0
   },
   "last7": {
-    "users": 33,
-    "pageviews": 594,
-    "sessions": 79,
-    "avg_session_seconds": 784.4
+    "users": 36,
+    "pageviews": 615,
+    "sessions": 83,
+    "avg_session_seconds": 763.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 204,
-      "avg_time_seconds": 740.1
+      "views": 214,
+      "avg_time_seconds": 712.4
     },
     {
       "path": "/movie",
@@ -44,8 +44,8 @@
     {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
-      "views": 25,
-      "avg_time_seconds": 11.1
+      "views": 26,
+      "avg_time_seconds": 10.6
     },
     {
       "path": "/show",
@@ -56,8 +56,8 @@
     {
       "path": "/episode-guides",
       "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 11.1
+      "views": 15,
+      "avg_time_seconds": 10.4
     },
     {
       "path": "/upcoming",
@@ -82,26 +82,26 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 77,
-      "users": 33
+      "sessions": 80,
+      "users": 36
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 2,
+      "sessions": 3,
       "users": 1
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 1,
+      "sessions": 2,
       "users": 1
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 17
+      "users": 20
     },
     {
       "country": "(not set)",
@@ -143,11 +143,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 23
+      "users": 25
     },
     {
       "device": "mobile",
-      "users": 10
+      "users": 11
     }
   ],
   "per_post": {}

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T11:44:36Z",
-    "run_id": "40682070889",
-    "status": "success",
-    "checked": {
-     "candidates": 203,
-     "detail": "RSS/Atom items across 137 sources; 17 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sudhir Mishra SLAMS IndiGo after luggage containing his medicines is left behind in Delhi: “Extremely disappointing and frustrating”",
-      "Could Yash’s Ravana steal the thunder from Ranbir Kapoor’s Lord Ram? The STAR POWER battle inside Ramayana",
-      "Koffee With Karan Season 9 Ep3 Release Time: Here's When Janhvi, Varun & Arjun's Episode Will Premiere",
-      "BP Singh Funeral: CID Actors Pay Last Respect, Get Teary-Eyed Remembering Their 'Guru'",
-      "Pehla Pyaar Doosri Baar Box Office: Luv Ranjan’s Romantic Drama Scores 2.5 Crore+ In 5 Days",
-      "Adultery Ending Explained: Do Tom & Beth Stay Together After Breaking Two Families?",
-      "Maddock Films Drops New Poster As Shraddha Kapoor's Eetha Trailer Arrives on October 30",
-      "fauzi controversy chandra kumar bose writes to ib minister ashwini vaishnaw 86842.html",
-      "makers of ranbir kapoors ramayana to make theme park interactive museum 86837.html",
-      "Radhika hits back at trolls body-shaming Alia in ‘Alpha’, saying male action heroes face no such scrutiny",
-      "Nayanthara is ‘Forever Grateful’ to Sundar C for ‘Mookuthi Amman 2'",
-      "Jamie Lee Curtis pays tribute to Susan Saint James",
-      "‘Ravana is not all bad’: Sai Pallavi says key takeaway from Ramayana is to spot the Ravana in us and make changes over time",
-      "Steven Soderbergh incredibly generous to help finish 'The Batman Part II': Robert Pattinson",
-      "Manoj Bajpayee recalls career low before Raajneeti, Gangs Of Wasseypur; says meetings with Neeraj Pandey, Anurag Kashyap changed everything",
-      "Bounce back? From where? Katrina Kaif scoffs at postpartum body-shaming",
-      "buying an oled tv in 2026 start with your room not spec sheet 3077175.html",
-      "kansai nerolac paints presents har din diwali offering a chance to win a gold coin every day this festive season 3077178.html",
-      "adipurush was bad but dont challenge songs manoj muntashir defends track record amid ramayana comparisons 3077177.html",
-      "diljit dosanjh delhi concert to have 2000 guards pedestrian only zone around stadium"
-     ],
-     "updated": [],
-     "count": 132,
-     "detail": "134 stories, 1 duplicates removed, 69 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T12:52:49Z",
     "run_id": "40691165295",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "97 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T11:44:51Z",
-    "run_id": "40682070889",
+    "run_at": "2026-10-29T11:51:18Z",
+    "run_id": "40868487761",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 244,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
-      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch"
+      "BREAKING: Ram Gopal Varma in LEGAL TROUBLE over Rs. 29.67 crores! Production house warns filmmakers, OTT platforms against dealing with RGV without NOC",
+      "Abundantia Entertainment, invideo begin production on AI-assisted film Beta Builder, starring Mayur More and Ashlesha Thakur",
+      "Format Is Tough But People...: What Made Amit Sana Say YES To Indian Idol Legends Return? EXCLUSIVE",
+      "Ganga Mai Ki Betiyan Amandeep Sidhu Opens Up On Championing Empowerment Through",
+      "Avaraachan And Sons OTT Release Date And Platform: When And Where To Watch Biju Menon & Sreenath Bhasi's Film",
+      "Neeraj Yadav Suicide Case: Late Para Athlete's Family DENIES Female Friend's Claims? Check EXPLOSIVE Update",
+      "Koffee With Karan S9: Varun Dhawan Calls Ranbir An Amazing Father; Reveals His Daughter Lara Fights With Him",
+      "Don't Trouble The Trouble OTT Release Date And Platform: When And Where To Watch Fahadh Faasil's Telugu Film",
+      "Baththa Movie Review: Vijay Sethupathi’s Film Shows Even A Dreaded Gangster Can Have A Heart Of Gold – All He Needs Is 8 Days In A Bathroom!",
+      "Chiranjeevi’s Megaverse: Megastar Chiranjeevi Makes His Netflix Debut With New Show",
+      "Drishyam 3 North America Box Office: Earns 81% More Than Drishyam 2, Emerging As A Big Hit!",
+      "Koffee With Karan S9: Hey Janhvi Kapoor, Owning The Peddi Controversy Proves You’re A Real Star — Nazar Teeka On Your Chemistry With Varun!",
+      "Box Office: Can Ranbir Kapoor Hit The 2000 Crore Milestone Post-COVID With Ramayana? Here’s How Much He Needs!",
+      "Ajith Kumar's Daredevil Set to Begin Shooting November 12 as Buzz Continues to Build",
+      "Kriti Sanon's Hindi Dubbing for Obsession Draws Attention Ahead of OTT Release",
+      "'Madhubala, Dilip Kumar are burried close to each other at Juhu Kabrastan,' reveals her sister",
+      "Ayushmaan and Samiksha engaged: Couple share proposal photos",
+      "Namo Narayana’s untold story: Lesser-known facts about Rajinikanth’s co-star",
+      "Gurdas Maan backs Daler Mehndi: ‘Artists are human too’ - EXCLUSIVE",
+      "Ashwiny’s emotional note: Filmmaker pens magic happens post"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 219,
+     "detail": "225 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T11:51:40Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
+      "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T11:44:51Z",
-    "run_id": "40682070889",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 26, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T11:51:40Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": {
+     "candidates": 48,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 43, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2143,27 +2133,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T11:49:59Z",
-    "run_id": "40682070889",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T11:56:06Z",
+    "run_id": "40868487761",
     "status": "success",
     "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
-     "detail": "+0 new rows, 10 updated rows, 198 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2577,19 +2566,27 @@
      "detail": "+0 new rows, 4 updated rows, 289 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T11:56:04Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 90,
+     "detail": "+0 new rows, 90 updated rows, 203 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2832,30 +2829,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T12:59:06Z",
-    "run_id": "40691165295",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
-      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3320,19 +3306,30 @@
      "detail": "api-news.json 62 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T11:56:06Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": {
+     "candidates": 64,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
+      "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 64 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3590,19 +3587,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3863,29 +3860,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T11:44:51Z",
-    "run_id": "40682070889",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 132 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 6/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
-      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4330,19 +4317,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T11:51:40Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 219 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
+      "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4585,24 +4582,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 214,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4922,19 +4914,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 194,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5249,19 +5246,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 23,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5511,19 +5513,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5758,19 +5760,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5996,6 +5998,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T10:21:10Z",
     "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6006,16 +6018,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T12:59:21Z",
     "run_id": "40691165295",
     "status": "skipped",
@@ -6238,6 +6240,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T10:21:10Z",
     "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6248,16 +6260,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T11:50:09Z",
-    "run_id": "40682070889",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T12:59:21Z",
     "run_id": "40691165295",
     "status": "skipped",
@@ -6480,6 +6482,16 @@
     "category": "Box Office",
     "run_at": "2026-10-29T10:21:10Z",
     "run_id": "40856792844",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6719,8 +6731,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T11:56:13Z",
+    "run_id": "40868487761",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T10:21:10Z"
+ "updated_at": "2026-10-29T11:56:13Z"
 }

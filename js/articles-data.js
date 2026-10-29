@@ -16915,5 +16915,199 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-29T14:15:30+05:30"
+  },
+  "mptwdl": {
+    "id": "mptwdl",
+    "type": "news",
+    "headline": "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
+    "dek": "The 106-minute 1995 sci-fi action thriller starring Academy Award winners Denzel Washington and Russell Crowe is making its way to a major streaming platform.",
+    "body": [
+      {
+        "h": "A Forgotten Sci-Fi Collaboration",
+        "p": [
+          "Academy Award winners Denzel Washington and Russell Crowe share the screen in a long-forgotten science fiction action thriller that is finally securing a new digital home. While both performers have firmly cemented their statuses as Hollywood legends and two of the finest actors of all time, they were not immune to early critical setbacks. This panned genre effort gives fans a chance to watch two major icons go head-to-head during the formative years of their celebrated careers."
+        ]
+      },
+      {
+        "h": "Plot and Premise of Virtuosity",
+        "p": [
+          "Directed by Brett Leonard, the 106-minute feature Virtuosity transports viewers to a futuristic 1999. Denzel Washington stars as Parker Barnes, a former police officer imprisoned for killing the psychopath responsible for his family's murder. While behind bars, Barnes is recruited to test an experimental virtual reality program designed to capture a dangerous computer-generated villain named SID 6.7.",
+          "Russell Crowe takes on the role of SID 6.7 with a scenery-chewing performance. The digital entity is modeled after hundreds of deranged serial killers and criminals, including the exact murderer who destroyed Barnes' family. Naturally, the program manages to escape its digital confines to wreak havoc in the physical world, leaving Barnes as the sole person capable of stopping the violent rampage."
+        ]
+      },
+      {
+        "h": "Critical Reception and Time Capsule Appeal",
+        "p": [
+          "Despite boasting two powerhouse leads and an ambitious high concept, Virtuosity faced harsh reviews upon its initial release. The film currently holds scores of 29% from critics and 32% from audiences on Rotten Tomatoes. Even so, modern viewers can appreciate the movie as a fascinating time capsule of millennial aspirations and early cinematic fears surrounding artificial intelligence.",
+          "Washington delivers a reliably magnetic performance in a project vastly different from his typical dramatic roles, while Crowe serves up a grandstanding villain that evokes comparisons to both The Terminator and the Joker. It has evolved into a pitch-perfect guilty pleasure that is well-suited for rediscovery on digital platforms."
+        ]
+      },
+      {
+        "h": "Upcoming Streaming Launch",
+        "p": [
+          "Fans looking to revisit or discover the 1995 thriller can stream it very soon. Paramount+ has officially slated the sci-fi action flick for a streaming release on November 1, 2026, giving the cult classic a fresh opportunity to connect with a broader audience."
+        ]
+      },
+      {
+        "h": "Reuniting in American Gangster",
+        "p": [
+          "Virtuosity was not the sole collaboration between its two leads. The actors reunited years later for the 2007 crime drama American Gangster, which placed them on opposing sides of the law once more. That subsequent project fared significantly better with critics, earning a Certified Fresh rating of 81% on Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 1995 sci-fi action thriller Virtuosity, starring Denzel Washington and Russell Crowe, is scheduled to arrive on Paramount+ on November 1, 2026. Although the film originally received negative reviews from critics and audiences alike, it remains a notable cult classic featuring two future Oscar-winning icons."
+        ]
+      }
+    ],
+    "facts": [
+      "Denzel Washington and Russell Crowe star in Virtuosity.",
+      "Virtuosity has a runtime of 106 minutes.",
+      "The film was directed by Brett Leonard.",
+      "Virtuosity is scheduled to stream on Paramount+ on November 1, 2026.",
+      "The film holds Rotten Tomatoes scores of 29% from critics and 32% from audiences.",
+      "Denzel Washington and Russell Crowe also starred together in 2007's American Gangster."
+    ],
+    "entities": {
+      "people": [
+        "Denzel Washington",
+        "Russell Crowe",
+        "Brett Leonard",
+        "Eric Bernt",
+        "Kelly Lynch",
+        "Alanna Ubach",
+        "Jonathan Fuge"
+      ],
+      "titles": [
+        "Virtuosity",
+        "Cry Freedom",
+        "Glory",
+        "Malcolm X",
+        "Philadelphia",
+        "Romper Stomper",
+        "Proof",
+        "The Lawnmower Man",
+        "Training Day",
+        "American Gangster",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Virtuosity film",
+      "Denzel Washington Virtuosity",
+      "Russell Crowe Virtuosity",
+      "Paramount+ Virtuosity release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/z-7.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 11:30:16 GMT"
+  },
+  "1wxt9rw": {
+    "id": "1wxt9rw",
+    "type": "news",
+    "headline": "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities",
+    "dek": "Ajith Kumar's 64th film, Daredevil, is scheduled to commence production following Diwali, reuniting the star with director Adhik Ravichandran for an extensive multi-city schedule.",
+    "body": [
+      {
+        "h": "Shooting Schedule and Locations",
+        "p": [
+          "The much-anticipated production for Ajith Kumar's 64th cinematic venture, titled Daredevil, is officially gearing up to begin filming on November 12. The schedule will commence right after the Diwali celebrations, with the traditional muhurat shot locked in for 8:05 AM.",
+          "According to updates from the production unit, the filming roadmap is extensive and will run until February 2027. The first phase of shooting is planned across multiple international and domestic locations, including Hyderabad, Malaysia, and Bangkok."
+        ]
+      },
+      {
+        "h": "The Creative Team Behind the Project",
+        "p": [
+          "Director Adhik Ravichandran is steering the project, marking another collaboration with the actor following their previous commercial outing. The creative synergy also welcomes composer Anirudh Ravichander to provide the musical score, marking his fourth collaboration with Ajith Kumar.",
+          "Behind the scenes, the project holds personal significance as the maiden venture for Bravehearts Production, the banner belonging to Ajith's wife, Shalini Ajithkumar. The title announcement in early August also coincided with Ajith completing 34 years in the film industry."
+        ]
+      },
+      {
+        "h": "Origins and Long-Term Development",
+        "p": [
+          "The concept driving Daredevil has a surprisingly long backstory within the team. Director Adhik Ravichandran shared that this core idea was originally intended to be their very first collaborative project before time and budgetary limitations forced them to pivot and develop Good Bad Ugly instead.",
+          "The premise of Daredevil was subsequently narrated to Ajith Kumar during the shoot of Good Bad Ugly, earning an enthusiastic nod from the leading man. This shared history has given the upcoming venture a unique foundation, turning a delayed concept into a highly anticipated reality."
+        ]
+      },
+      {
+        "h": "Building on Previous Success",
+        "p": [
+          "The reunion between the actor and director comes on the heels of the commercial turnaround delivered by Good Bad Ugly in 2025. While Magizh Thirumeni's Vidaamuyarchi grossed ₹135.65 crore worldwide, Good Bad Ugly nearly doubled those figures with a total collection of ₹248.25 crore.",
+          "That project capitalized on unapologetic fan service and Ajith's flamboyant gangster persona, Red Dragon. The strong box-office performance cemented Adhik's understanding of the actor's mass appeal, setting high expectations for how they will handle their upcoming film."
+        ]
+      },
+      {
+        "h": "Cast Details and Limited Lineup",
+        "p": [
+          "Casting announcements have generated considerable buzz, with the creative team initially keeping details under tight wraps. Adhik Ravichandran has now confirmed that prominent young star Sreeleela will play the female lead opposite Ajith Kumar, marking her major entry into Tamil cinema alongside a top star.",
+          "The supporting cast features a mix of seasoned veterans and familiar faces, including R. Parthiban, Prabhu, and Sunil, who previously appeared in Good Bad Ugly. The unit has opted for a limited cast size, ensuring that every character has a meaningful contribution to the narrative."
+        ]
+      },
+      {
+        "h": "Career Context and Expectations",
+        "p": [
+          "Daredevil arrives at a unique juncture in Ajith Kumar's career, as he has spent recent years dividing his time between acting projects and professional racing commitments. An upcoming documentary chronicling his racing journey has also added to the heightened public interest surrounding his career moves.",
+          "With a tighter storyline, a focused ensemble, and a straightforward commercial narrative, the team aims to deliver a lean and energetic cinematic experience. If the production stays on track, the film is poised to be a major highlight among Tamil releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajith Kumar's 64th film, Daredevil, is set to begin shooting on November 12 with director Adhik Ravichandran and composer Anirudh Ravichander. The film features a cast including Sreeleela and follows the team's successful collaboration on Good Bad Ugly."
+        ]
+      }
+    ],
+    "facts": [
+      "Ajith Kumar's 64th film is titled Daredevil.",
+      "Shooting is set to begin on November 12, 2026.",
+      "The muhurat shot is timed for 8:05 AM.",
+      "Filming is scheduled to run until February 2027.",
+      "The first schedule covers Hyderabad, Malaysia, and Bangkok.",
+      "Adhik Ravichandran is the director of Daredevil.",
+      "Anirudh Ravichander is the music composer.",
+      "Shalini Ajithkumar's banner is Bravehearts Production.",
+      "Good Bad Ugly released in April 2025.",
+      "Good Bad Ugly collected ₹248.25 crore worldwide.",
+      "Vidaamuyarchi collected ₹135.65 crore worldwide.",
+      "Sreeleela, R. Parthiban, Prabhu, and Sunil are in the cast."
+    ],
+    "entities": {
+      "people": [
+        "Ajith Kumar",
+        "Adhik Ravichandran",
+        "Sreeleela",
+        "Anirudh Ravichander",
+        "Shalini Ajithkumar",
+        "Magizh Thirumeni",
+        "R. Parthiban",
+        "Prabhu",
+        "Sunil"
+      ],
+      "titles": [
+        "Daredevil",
+        "Good Bad Ugly",
+        "Vidaamuyarchi"
+      ]
+    },
+    "keywords": [
+      "Ajith Kumar Daredevil",
+      "Adhik Ravichandran Daredevil",
+      "Daredevil film shooting",
+      "Sreeleela Ajith Kumar film"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028251.jpg",
+        "caption": "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 11:03:41 +0000"
   }
 };

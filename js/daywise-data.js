@@ -121,7 +121,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 14",
-      "collection": 10565,
+      "collection": 11622,
       "shows": 602,
       "occupancy": 5.7,
       "tickets": 6020
@@ -185,7 +185,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 78183,
+      "collection": 90861,
       "shows": 2558,
       "occupancy": 8.1,
       "tickets": 44726
@@ -237,7 +237,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-25",
       "day": "Day 7",
-      "collection": 7396
+      "collection": 10565
     }
   ],
   "1153576": [
@@ -588,7 +588,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 11622
+      "collection": 15848
     }
   ],
   "1785611": [
@@ -697,7 +697,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 19017
+      "collection": 30639
     }
   ],
   "1389379": [
@@ -812,7 +812,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-28",
       "day": "Day 13",
-      "collection": 102483,
+      "collection": 101426,
       "shows": 1473,
       "occupancy": 16.1,
       "tickets": 77021,
@@ -821,7 +821,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 14",
-      "collection": 35922,
+      "collection": 42261,
       "shows": 644,
       "occupancy": 13.8,
       "tickets": 31116
@@ -957,7 +957,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 15",
-      "collection": 182779,
+      "collection": 213418,
       "shows": 4368,
       "occupancy": 10.4,
       "tickets": 141278
@@ -1210,7 +1210,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 28",
-      "collection": 30639,
+      "collection": 35922,
       "shows": 1365,
       "occupancy": 6.7,
       "tickets": 16924
@@ -1415,7 +1415,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 8",
-      "collection": 2113
+      "collection": 4226
     }
   ],
   "1515692": [
