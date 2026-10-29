@@ -24,6 +24,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Offline OTT and Box Office display regression tests
+        run: |
+          node --check js/page-index.js
+          node scripts/test_listing_order.js
+          node scripts/test_ott_boxoffice_display.js
       - name: Offline viewer-review regression tests
         run: |
           node --check scripts/worker.mjs

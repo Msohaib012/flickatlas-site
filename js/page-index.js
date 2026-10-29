@@ -366,8 +366,9 @@
     };
     const boCardHtml = (entry, rows) => {
       const clean = (rows || []).filter(r => r && r.date && typeof r.collection === "number");
-      /* Date of the latest reported day-wise row — the "Today" figure's date. */
-      const latestDate = clean.reduce((mx, r) => (r.date > mx ? r.date : mx), "");
+      /* The Today cell requests the current IST reporting day. An older
+         source row must not relabel today's missing figure as yesterday. */
+      const latestDate = todayIST;
       const weekStartDate = new Date(todayIST + "T00:00:00Z");
       weekStartDate.setUTCDate(weekStartDate.getUTCDate() - 6);
       const weekStart = weekStartDate.toISOString().slice(0, 10);
@@ -440,9 +441,19 @@
            premiere alone is not evidence of a confirmed OTT date. */
         if (isTv) {
           if (d <= today) now.push({ id: x.id, type: "tv", providers: x.providers, date: d, date_kind: "release" });
+          const plannedDate = String(x.ott_release_date || "");
+          const planned = String(x.ott_release_provider || "").trim().toLowerCase();
+          const sources = Array.isArray(x.ott_release_source) ? x.ott_release_source : [x.ott_release_source];
+          const hasSource = sources.some(u => typeof u === "string" && u.trim().startsWith("https://"));
+          const matching = x.providers.filter(pr => pr && planned && String(pr.name || "").trim().toLowerCase() === planned);
+          if (/^\d{4}-\d{2}-\d{2}$/.test(plannedDate) && plannedDate > today && hasSource && matching.length) {
+            coming.push({ id: x.id, type: "tv", providers: matching.slice(0, 1), date: plannedDate, date_kind: "digital" });
+          }
           continue;
         }
-        (d <= today ? now : coming).push({ id: x.id, type: typeOf(x), providers: x.providers, date: d, date_kind: "release" });
+        /* A future theatrical date is never a confirmed digital date.
+           Movie Coming entries require the generated digital-date data. */
+        if (d <= today) now.push({ id: x.id, type: typeOf(x), providers: x.providers, date: d, date_kind: "release" });
       }
       now.sort((a, b) => b.date.localeCompare(a.date));
       coming.sort((a, b) => a.date.localeCompare(b.date));
@@ -1232,7 +1243,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
 
 
 
