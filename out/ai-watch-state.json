@@ -1,14 +1,14 @@
 {
- "checked_at_pkt": "2026-10-29 23:57 PKT",
+ "checked_at_pkt": "2026-10-30 00:56 PKT",
  "steps": [
   {
    "step": "apply_auto",
    "gate_pkt": "har ghante",
-   "last_check_pkt": "2026-10-29 23:52",
+   "last_check_pkt": "2026-10-30 00:53",
    "check_age_min": 4,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:52",
+   "last_real_run_pkt": "2026-10-30 00:53",
    "last_real_age_h": 0.1,
    "last_real_status": "success",
    "detail": "draft articles + box-office rows from out/gemini-batch.json"
@@ -16,11 +16,11 @@
   {
    "step": "convert_news",
    "gate_pkt": "local feed + Google RSS hourly; paid fallback daily",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:56",
+   "last_real_run_pkt": "2026-10-30 00:56",
    "last_real_age_h": 0.0,
    "last_real_status": "success",
    "detail": "feed entries from out/queue.json"
@@ -28,67 +28,67 @@
   {
    "step": "episode_guides",
    "gate_pkt": "18:35 / 20:35 / 22:35 / 00:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
-   "check_age_min": 0,
-   "last_check_status": "skipped",
-   "reason": "gate",
-   "last_real_run_pkt": "2026-10-29 21:15",
-   "last_real_age_h": 2.7,
+   "last_check_pkt": "2026-10-30 00:52",
+   "check_age_min": 4,
+   "last_check_status": "success",
+   "reason": null,
+   "last_real_run_pkt": "2026-10-30 00:52",
+   "last_real_age_h": 0.1,
    "last_real_status": "success",
-   "detail": ""
+   "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 14 new detected"
   },
   {
    "step": "fetch",
    "gate_pkt": "working RSS hourly; slow RSS 6h; sitemap/homepage 12h; blocked daily",
-   "last_check_pkt": "2026-10-29 23:51",
-   "check_age_min": 5,
+   "last_check_pkt": "2026-10-30 00:51",
+   "check_age_min": 6,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:51",
+   "last_real_run_pkt": "2026-10-30 00:51",
    "last_real_age_h": 0.1,
    "last_real_status": "success",
-   "detail": "RSS/Atom items across 137 sources; 11 source(s) errored"
+   "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
   },
   {
    "step": "gemini_batch",
    "gate_pkt": "har ghante (cap 40/day unchanged)",
-   "last_check_pkt": "2026-10-29 23:52",
+   "last_check_pkt": "2026-10-30 00:53",
    "check_age_min": 4,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:52",
+   "last_real_run_pkt": "2026-10-30 00:53",
    "last_real_age_h": 0.1,
    "last_real_status": "success",
-   "detail": "news queue items drafted this run; 432 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, bo"
+   "detail": "news queue items drafted this run; 271 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, bo"
   },
   {
    "step": "gemini_reviews",
    "gate_pkt": "00:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
-   "last_check_status": "skipped",
-   "reason": "gate",
-   "last_real_run_pkt": "2026-10-29 02:02",
-   "last_real_age_h": 21.9,
+   "last_check_status": "success",
+   "reason": null,
+   "last_real_run_pkt": "2026-10-30 00:56",
+   "last_real_age_h": 0.0,
    "last_real_status": "success",
-   "detail": ""
+   "detail": "released movies without a review; Tavily searches: 44"
   },
   {
    "step": "keywords_refresh",
    "gate_pkt": "08:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "skipped",
    "reason": "gate",
    "last_real_run_pkt": "2026-10-29 08:57",
-   "last_real_age_h": 15.0,
+   "last_real_age_h": 16.0,
    "last_real_status": "success",
    "detail": ""
   },
   {
    "step": "metadata_refresh",
    "gate_pkt": "11:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "skipped",
    "reason": "gate",
@@ -100,23 +100,23 @@
   {
    "step": "multisource_boxoffice",
    "gate_pkt": "local averaging hourly; direct sources 3h/4h/6h/daily",
-   "last_check_pkt": "2026-10-29 23:56",
-   "check_age_min": 0,
+   "last_check_pkt": "2026-10-30 00:53",
+   "check_age_min": 4,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:56",
-   "last_real_age_h": 0.0,
+   "last_real_run_pkt": "2026-10-30 00:53",
+   "last_real_age_h": 0.1,
    "last_real_status": "success",
    "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
   },
   {
    "step": "ott",
    "gate_pkt": "cached local rebuild hourly; digital 12h; providers daily",
-   "last_check_pkt": "2026-10-29 23:52",
+   "last_check_pkt": "2026-10-30 00:53",
    "check_age_min": 4,
    "last_check_status": "success",
    "reason": "no-new-data",
-   "last_real_run_pkt": "2026-10-29 23:52",
+   "last_real_run_pkt": "2026-10-30 00:53",
    "last_real_age_h": 0.1,
    "last_real_status": "success",
    "detail": "OTT now/coming titles from the published catalogue"
@@ -124,35 +124,35 @@
   {
    "step": "overseas_ai",
    "gate_pkt": "13:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "skipped",
    "reason": "gate",
    "last_real_run_pkt": "2026-10-29 13:53",
-   "last_real_age_h": 10.1,
+   "last_real_age_h": 11.1,
    "last_real_status": "success",
    "detail": ""
   },
   {
    "step": "providers_backfill",
    "gate_pkt": "07:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "skipped",
    "reason": "gate",
    "last_real_run_pkt": "2026-10-29 20:40",
-   "last_real_age_h": 3.3,
+   "last_real_age_h": 4.3,
    "last_real_status": "success",
    "detail": ""
   },
   {
    "step": "publish",
    "gate_pkt": "har ghante (manzoori par)",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:56",
+   "last_real_run_pkt": "2026-10-30 00:56",
    "last_real_age_h": 0.0,
    "last_real_status": "success",
    "detail": ""
@@ -160,35 +160,35 @@
   {
    "step": "stats_health",
    "gate_pkt": "11:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "skipped",
    "reason": "gate",
    "last_real_run_pkt": "2026-10-29 11:57",
-   "last_real_age_h": 12.0,
+   "last_real_age_h": 13.0,
    "last_real_status": "success",
    "detail": ""
   },
   {
    "step": "stats_pipeline",
    "gate_pkt": "05:35 / 11:35 / 17:35 / 23:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
-   "last_check_status": "success",
-   "reason": null,
+   "last_check_status": "skipped",
+   "reason": "gate",
    "last_real_run_pkt": "2026-10-29 23:56",
-   "last_real_age_h": 0.0,
+   "last_real_age_h": 1.0,
    "last_real_status": "success",
    "detail": ""
   },
   {
    "step": "stats_traffic",
    "gate_pkt": "har ghante",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "success",
    "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:56",
+   "last_real_run_pkt": "2026-10-30 00:56",
    "last_real_age_h": 0.0,
    "last_real_status": "success",
    "detail": ""
@@ -196,71 +196,71 @@
   {
    "step": "tavily_boxoffice",
    "gate_pkt": "13:35 / 23:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
-   "last_check_status": "success",
-   "reason": "no-new-data",
+   "last_check_status": "skipped",
+   "reason": "gate",
    "last_real_run_pkt": "2026-10-29 23:56",
-   "last_real_age_h": 0.0,
+   "last_real_age_h": 1.0,
    "last_real_status": "success",
    "detail": ""
   },
   {
    "step": "title_seed",
    "gate_pkt": "11:35 / 23:35 PKT slots",
-   "last_check_pkt": "2026-10-29 23:52",
-   "check_age_min": 5,
-   "last_check_status": "success",
-   "reason": null,
+   "last_check_pkt": "2026-10-30 00:56",
+   "check_age_min": 0,
+   "last_check_status": "skipped",
+   "reason": "gate",
    "last_real_run_pkt": "2026-10-29 23:52",
-   "last_real_age_h": 0.1,
+   "last_real_age_h": 1.1,
    "last_real_status": "success",
-   "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
+   "detail": ""
   },
   {
    "step": "trending_weekly",
    "gate_pkt": "local published-article intersection hourly; only fresh Google RSS trend proof",
-   "last_check_pkt": "2026-10-29 23:56",
+   "last_check_pkt": "2026-10-30 00:56",
    "check_age_min": 0,
    "last_check_status": "success",
-   "reason": null,
-   "last_real_run_pkt": "2026-10-29 23:56",
+   "reason": "no-new-data",
+   "last_real_run_pkt": "2026-10-30 00:56",
    "last_real_age_h": 0.0,
    "last_real_status": "success",
    "detail": "cached Google RSS trend/article intersection"
   }
  ],
  "today": {
+  "date": "2026-10-30",
+  "fetch_new": 71,
+  "gemini_drafts": 2,
+  "published_today": null,
+  "posts_total": 384,
+  "per_category_fetch": {
+   "Box Office": 3,
+   "Awards": 1,
+   "Trailers": 5,
+   "Music / OST": 10,
+   "Episodes": 2,
+   "Upcoming releases": 1,
+   "OTT / Streaming": 15,
+   "TV & Dramas": 2,
+   "Celebrity news & events": 11,
+   "Movies": 219,
+   "Entertainment viral": 2
+  }
+ },
+ "yesterday": {
   "date": "2026-10-29",
   "fetch_new": 2488,
   "gemini_drafts": 38,
   "published_today": 86,
-  "posts_total": 384,
-  "per_category_fetch": {
-   "Box Office": 75,
-   "Awards": 58,
-   "Trailers": 95,
-   "Music / OST": 124,
-   "Episodes": 157,
-   "Upcoming releases": 31,
-   "OTT / Streaming": 129,
-   "TV & Dramas": 65,
-   "Celebrity news & events": 75,
-   "Movies": 2314,
-   "Entertainment viral": 19
-  }
- },
- "yesterday": {
-  "date": "2026-10-28",
-  "fetch_new": 2706,
-  "gemini_drafts": 40,
-  "published_today": 28,
-  "posts_total": 252
+  "posts_total": 384
  },
  "titles": {
   "total_published": 172,
   "newest_published_at": "2026-10-29T11:05:06.935041+00:00",
-  "published_today_count": 43
+  "published_today_count": 0
  },
  "daywise": {
   "titles_with_rows": 21,
@@ -268,136 +268,102 @@
   "titles_last_row_before_yesterday": {
    "1400940": "2026-10-25",
    "1153576": "2026-10-25",
-   "1423191": "2026-10-26"
+   "1423191": "2026-10-26",
+   "1497970": "2026-10-28",
+   "1794929": "2026-10-28",
+   "1728425": "2026-10-28",
+   "1593350": "2026-10-28",
+   "1740967": "2026-10-28",
+   "1515692": "2026-10-28",
+   "1416312": "2026-10-28",
+   "1283515": "2026-10-28",
+   "1578079": "2026-10-28"
   }
  },
  "tavily": {
   "staging_file": "{}",
-  "last_run_reason": "no-new-data"
+  "last_run_reason": "gate"
  },
  "fetch_report": {
   "sources_total": 137,
   "status": {
-   "ok": 82,
-   "error": 11,
-   "unchanged": 17,
-   "not_due": 25,
-   "baseline": 2
+   "ok": 63,
+   "not_due": 52,
+   "unchanged": 19,
+   "error": 3
   },
-  "queue_total_this_run": 432,
+  "queue_total_this_run": 271,
   "categories_new_this_run": {
-   "Box Office": 7,
-   "Awards": 3,
-   "Trailers": 15,
-   "Music / OST": 13,
-   "Episodes": 13,
-   "Upcoming releases": 3,
-   "OTT / Streaming": 26,
-   "TV & Dramas": 8,
-   "Celebrity news & events": 17,
-   "Movies": 325,
+   "Box Office": 3,
+   "Awards": 1,
+   "Trailers": 5,
+   "Music / OST": 10,
+   "Episodes": 2,
+   "Upcoming releases": 1,
+   "OTT / Streaming": 15,
+   "TV & Dramas": 2,
+   "Celebrity news & events": 11,
+   "Movies": 219,
    "Entertainment viral": 2
   },
   "dropped": {
-   "slug-title": 17,
-   "section-page": 1,
-   "not-today": 1,
-   "slug-junk": 5,
-   "no-date": 1,
-   "sports-section": 7,
-   "fallback-blocked-non-entertainment": 19
+   "not-today": 38,
+   "fallback-blocked-non-entertainment": 4
   },
   "error_sources": [
    {
-    "source": "Gadgets 360 Entertainment",
-    "note": "HTTP 403 (bot-block ho sakta hai)"
-   },
-   {
-    "source": "NRIPage",
-    "note": "HTTP 403 (bot-block ho sakta hai)"
-   },
-   {
     "source": "Pinkvilla",
     "note": "HTTP 404 (bot-block ho sakta hai)"
-   },
-   {
-    "source": "Tellychakkar",
-    "note": "HTTP 403 (bot-block ho sakta hai)"
    },
    {
     "source": "Indian Express — Entertainment",
     "note": "HTTP 403 (bot-block ho sakta hai)"
    },
    {
-    "source": "News18 — Entertainment",
-    "note": "HTTP 403 (bot-block ho sakta hai)"
-   },
-   {
-    "source": "Firstpost — Entertainment",
-    "note": "HTTP 403 (bot-block ho sakta hai)"
-   },
-   {
-    "source": "Instant Bollywood",
-    "note": "HTTP 502 (bot-block ho sakta hai)"
-   },
-   {
     "source": "Box Office Pro",
-    "note": "HTTP 403 (bot-block ho sakta hai)"
-   },
-   {
-    "source": "HUM TV (official site)",
-    "note": "HTTP 526 (bot-block ho sakta hai)"
-   },
-   {
-    "source": "People",
     "note": "HTTP 403 (bot-block ho sakta hai)"
    }
   ]
  },
  "gemini_state": {
   "count": 2,
-  "generated": "2026-10-29T18:52:38Z",
-  "ranked": 108,
-  "unprocessed": 432,
-  "skipped": [
-   {
-    "url": "https://www.thewrap.com/creative-content/tv-shows/dexter-resurrection-season-2-episodes-release-dates-schedule/",
-    "reason": "already-processed"
-   }
-  ]
+  "generated": "2026-10-29T19:53:09Z",
+  "ranked": 106,
+  "unprocessed": 271,
+  "skipped": []
  },
  "five_modes": {
   "a_run_hua": {
-   "last_aggregate_update_pkt": "2026-10-29 23:56",
+   "last_aggregate_update_pkt": "2026-10-30 00:56",
    "age_min": 0
   },
   "b_updates_aaye": {
    "fetch_today_vs_yesterday": [
-    2488,
-    2706
+    71,
+    2488
    ],
    "drafts_today_vs_yesterday": [
-    38,
-    40
+    2,
+    38
    ],
    "published_today_vs_yesterday": [
-    86,
-    28
+    null,
+    86
    ],
    "posts_total_today_vs_yesterday": [
     384,
-    252
+    384
    ]
   },
   "c_gemini_chala": {
-   "last_real_run_pkt": "2026-10-29 23:52",
+   "last_real_run_pkt": "2026-10-30 00:53",
    "last_real_age_h": 0.1,
    "reason": null,
-   "drafts_today": 38,
+   "drafts_today": 2,
    "cap": "40/day"
   },
   "d_github_chala": {
-   "latest_run_id": "40935556733",
+   "latest_run_id": "40944589585",
    "failed_steps_this_run": [],
    "failed_log_tail": null
   },
@@ -407,7 +373,7 @@
  },
  "watchdog": {
   "mode": "primary",
-  "pipeline_hour": "2026-10-29T18:00:00Z",
+  "pipeline_hour": "2026-10-29T19:00:00Z",
   "pipeline_missing": false
  }
 }
