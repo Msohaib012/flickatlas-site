@@ -132,7 +132,7 @@
     /* Bollywood context (locks money display to USD, same as the other
        Bollywood pages) — set before any money is rendered. */
     const countries = pub.origin_country || [];
-    if (pub.original_language === "hi" && countries.includes("IN")) UI.setIndustryContext("bollywood");
+    if (UI.industryOf(pub) === "bollywood") UI.setIndustryContext("bollywood");
 
     const poster = UI.img(pub.poster_path, "w342");
     const backdrop = UI.img(pub.backdrop_path, "w1280");
@@ -542,7 +542,6 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
-
 
 
 

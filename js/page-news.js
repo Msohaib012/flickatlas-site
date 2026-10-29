@@ -40,9 +40,6 @@
   const CATLABEL = { bollywood: "Bollywood", lollywood: "Lollywood", kollywood: "Kollywood",
     world: "World Cinema", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral",
     award: "Award", ott: "OTT", music: "Music", tech: "Tech" };
-  /* Canonical tag order (matches the chip order) — used to sort an
-     article's tags so the meta line is always consistent. */
-  const TAGKEYS = FILTERS.map(([k]) => k).filter(k => k !== "all");
   let items = null;
 
   /* NEWS PURITY (owner order 2026-10-27): episode posts are NOT news.
@@ -59,86 +56,9 @@
       || /youtube\.com\/watch|youtu\.be\//i.test(l);
   };
 
-  /* Whole-word / whole-phrase match (case-insensitive). The last word of
-     a phrase may carry a trailing "s" (award -> awards, song -> songs),
-     so plurals match without weakening the boundary. */
-  const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const hasWord = (text, phrase) => {
-    const words = String(phrase).split(" ");
-    const pat = words.map((w, i) => escRe(w) + (i === words.length - 1 ? "s?" : "")).join("\\s+");
-    return new RegExp("\\b" + pat + "\\b", "i").test(text);
-  };
-
-  /* Tag derivation (owner order 2026-10-26). The feed's cats only ever
-     contain bollywood / pakistan / international / celebrity / korea —
-     there are no lollywood / kollywood / award / ott / music / tech
-     values in the feed, so those tags are derived from the title +
-     summary keywords. An article can carry MULTIPLE tags. Conservative:
-     only tag when the keyword is clearly present; do not guess from a
-     single ambiguous word. "Kollywood" here means South Indian cinema
-     (Tamil/Telugu), per the owner's wording. */
-  const deriveTags = (it) => {
-    const tags = new Set();
-    const cats = (Array.isArray(it.cats) ? it.cats : []).map(c => String(c).toLowerCase());
-    const text = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
-    /* KOREAN GUARD (mirrors js/page-index.js, 2026-10-26): the feed has
-       misfiled Korean stories under cats "bollywood" — a story whose
-       text is Korean is NEVER Indian, so the feed's "bollywood" cat is
-       ignored for it. */
-    const isKorean = hasWord(text, "k-drama") || hasWord(text, "kdrama") ||
-      hasWord(text, "korean") || hasWord(text, "k-pop") || hasWord(text, "kpop") ||
-      hasWord(text, "seoul") || hasWord(text, "kim ji won");
-    if (cats.includes("bollywood") && !isKorean) tags.add("bollywood");
-    if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
-    if (cats.includes("celebrity")) tags.add("celebrity");
-    if (cats.includes("viral")) tags.add("viral");
-    if (cats.includes("world") || cats.includes("international")) tags.add("world");
-    /* ₹ is the Indian rupee sign — a clean Bollywood signal for items
-       the feed misclassified (e.g. a Ramayana box-office item filed
-       under "korea"). */
-    if (hasWord(text, "bollywood") || text.includes("₹")) tags.add("bollywood");
-    if (hasWord(text, "tamil") || hasWord(text, "kollywood") || hasWord(text, "tamil cinema") ||
-        hasWord(text, "telugu") || hasWord(text, "tollywood")) tags.add("kollywood");
-    /* Indian-language stories belong in Bollywood (owner order
-       2026-10-28: Bollywood = ALL India-related) — Tamil/Telugu keep
-       their Kollywood tag as well, Malayalam/Kannada/Punjabi/Marathi/
-       Bengali/Gujarati stories gain the Bollywood tag here. */
-    if (hasWord(text, "tamil") || hasWord(text, "telugu") || hasWord(text, "malayalam") ||
-        hasWord(text, "mollywood") || hasWord(text, "kannada") || hasWord(text, "sandalwood") ||
-        hasWord(text, "punjabi") || hasWord(text, "marathi") || hasWord(text, "bengali") ||
-        hasWord(text, "gujarati") || text.includes("₹")) tags.add("bollywood");
-    /* Indian-language stories belong in Bollywood (owner order
-       2026-10-28: Bollywood = ALL India-related) — Tamil/Telugu keep
-       their Kollywood tag as well, Malayalam/Kannada/Punjabi/Marathi/
-       Bengali/Gujarati stories gain the Bollywood tag here. */
-    if (hasWord(text, "tamil") || hasWord(text, "telugu") || hasWord(text, "malayalam") ||
-        hasWord(text, "mollywood") || hasWord(text, "kannada") || hasWord(text, "sandalwood") ||
-        hasWord(text, "punjabi") || hasWord(text, "marathi") || hasWord(text, "bengali") ||
-        hasWord(text, "gujarati") || text.includes("₹")) tags.add("bollywood");
-    if (hasWord(text, "lollywood") || hasWord(text, "pakistani") || hasWord(text, "hum tv") ||
-        hasWord(text, "ary") || hasWord(text, "geo tv") || hasWord(text, "green tv")) tags.add("lollywood");
-    if (hasWord(text, "award") || hasWord(text, "filmfare") || hasWord(text, "oscar") ||
-        hasWord(text, "iifa") || hasWord(text, "national award") ||
-        hasWord(text, "best actor") || hasWord(text, "best film")) tags.add("award");
-    if (hasWord(text, "ott") || hasWord(text, "netflix") || hasWord(text, "streaming") ||
-        hasWord(text, "prime video") || hasWord(text, "disney+ hotstar") || hasWord(text, "hotstar") ||
-        hasWord(text, "jiohotstar")) tags.add("ott");
-    if (hasWord(text, "music") || hasWord(text, "soundtrack") || hasWord(text, "song") ||
-        hasWord(text, "album") || hasWord(text, "singer") || hasWord(text, "composer")) tags.add("music");
-    if (hasWord(text, "ai") || hasWord(text, "tech") || hasWord(text, "technology") ||
-        hasWord(text, "artificial intelligence") || hasWord(text, "app") || hasWord(text, "gadget")) tags.add("tech");
-    /* Bollywood and World Cinema are mutually exclusive (owner order
-       2026-10-28): an Indian or Pakistani story is never World Cinema,
-       even when the feed filed it under "international". Runs last so
-       keyword-derived tags above are all counted. */
-    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) tags.delete("world");
-    /* Bollywood and World Cinema are mutually exclusive (owner order
-       2026-10-28): an Indian or Pakistani story is never World Cinema,
-       even when the feed filed it under "international". Runs last so
-       keyword-derived tags above are all counted. */
-    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) tags.delete("world");
-    return TAGKEYS.filter(k => tags.has(k));
-  };
+  /* Homepage and /news use the same taxonomy so regional Indian stories
+     enter Bollywood and Pakistan never leaks into World Cinema. */
+  const deriveTags = UI.deriveNewsTags;
 
   function render() {
     const list = (items || []).filter(it => f === "all" || (it.tags || []).includes(f)).slice(0, 48);
@@ -281,6 +201,4 @@
     wrap.innerHTML = UI.stateMsg("The news feed is unavailable right now. Please try again later.", false);
   }
 })();
-
-
 

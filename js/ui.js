@@ -262,7 +262,8 @@ const UI = (() => {
      countries at render time. industryOf() returns the canonical key
      (bollywood | pakistani | world); isIndian()/isPakistani() are the
      predicates; industryTag() is the display label. */
-  const INDIAN_LANGS = ["hi", "ta", "te", "ml", "kn", "pa", "bn", "mr", "gu", "or", "as"];
+  const INDIAN_LANGS = ["hi", "ta", "te", "ml", "kn", "pa", "bn", "mr", "gu", "or", "as",
+    "sa", "ks", "sd", "kok", "mni", "mai", "sat", "doi", "brx", "bho", "awa", "mag", "mwr", "hne", "tcy"];
   const INDUSTRY_LABEL = { bollywood: "Bollywood", pakistani: "Pakistani", world: "World Cinema" };
   function _titleCountries(x) {
     const out = [];
@@ -307,6 +308,64 @@ const UI = (() => {
   /* Industry label from a title — used in mixed feeds and on cards. */
   function industryTag(item) {
     return INDUSTRY_LABEL[industryOf(item)] || "World Cinema";
+  }
+  /* News uses text/category metadata rather than TMDB title records, so
+     it cannot call industryOf(). Keep one conservative shared tagger for
+     /news and the homepage: Indian cinema (including regional-language
+     coverage) is Bollywood; international stories are World only when
+     they are not marked India/Pakistan. */
+  const NEWS_TAG_KEYS = ["bollywood", "lollywood", "kollywood", "world", "pakistan",
+    "celebrity", "viral", "award", "ott", "music", "tech"];
+  const INDIAN_CINEMA_TERMS = ["tamil", "kollywood", "telugu", "tollywood", "malayalam",
+    "mollywood", "kannada", "sandalwood", "punjabi", "marathi", "bengali", "gujarati",
+    "odia", "oriya", "assamese", "sanskrit", "kashmiri", "konkani", "manipuri",
+    "meitei", "sindhi", "santali", "dogri", "maithili", "bhojpuri", "magahi", "bodo",
+    "haryanvi", "awadhi", "tulu"];
+  const escNewsWord = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const hasNewsWord = (text, phrase) => {
+    const words = String(phrase).split(" ");
+    const pat = words.map((w, i) => escNewsWord(w) + (i === words.length - 1 ? "s?" : "")).join("\\s+");
+    return new RegExp("\\b" + pat + "\\b", "i").test(text);
+  };
+  function deriveNewsTags(it) {
+    const tags = new Set();
+    const cats = (Array.isArray(it && it.cats) ? it.cats : []).map(c => String(c).toLowerCase());
+    const text = ((it && it.title) || "") + " " + ((it && it.summary) || "");
+    const isKorean = hasNewsWord(text, "k-drama") || hasNewsWord(text, "kdrama") ||
+      hasNewsWord(text, "korean") || hasNewsWord(text, "k-pop") || hasNewsWord(text, "kpop") ||
+      hasNewsWord(text, "seoul") || hasNewsWord(text, "kim ji won");
+    if (cats.includes("bollywood") && !isKorean) tags.add("bollywood");
+    if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
+    if (cats.includes("celebrity")) tags.add("celebrity");
+    if (cats.includes("viral")) tags.add("viral");
+    if (cats.includes("world") || cats.includes("international")) tags.add("world");
+    if (hasNewsWord(text, "pakistan") || hasNewsWord(text, "pakistani")) tags.add("pakistan");
+    if (hasNewsWord(text, "bollywood") || hasNewsWord(text, "india") || hasNewsWord(text, "indian") ||
+        text.includes("₹") || INDIAN_CINEMA_TERMS.some(term => hasNewsWord(text, term))) {
+      tags.add("bollywood");
+    }
+    if (hasNewsWord(text, "tamil") || hasNewsWord(text, "kollywood") || hasNewsWord(text, "tamil cinema") ||
+        hasNewsWord(text, "telugu") || hasNewsWord(text, "tollywood")) tags.add("kollywood");
+    if (hasNewsWord(text, "lollywood") || hasNewsWord(text, "pakistani") || hasNewsWord(text, "hum tv") ||
+        hasNewsWord(text, "ary") || hasNewsWord(text, "geo tv") || hasNewsWord(text, "green tv")) {
+      tags.add("lollywood");
+    }
+    if (hasNewsWord(text, "award") || hasNewsWord(text, "filmfare") || hasNewsWord(text, "oscar") ||
+        hasNewsWord(text, "iifa") || hasNewsWord(text, "national award") ||
+        hasNewsWord(text, "best actor") || hasNewsWord(text, "best film")) tags.add("award");
+    if (hasNewsWord(text, "ott") || hasNewsWord(text, "netflix") || hasNewsWord(text, "streaming") ||
+        hasNewsWord(text, "prime video") || hasNewsWord(text, "disney+ hotstar") ||
+        hasNewsWord(text, "hotstar") || hasNewsWord(text, "jiohotstar")) tags.add("ott");
+    if (hasNewsWord(text, "music") || hasNewsWord(text, "soundtrack") || hasNewsWord(text, "song") ||
+        hasNewsWord(text, "album") || hasNewsWord(text, "singer") || hasNewsWord(text, "composer")) tags.add("music");
+    if (hasNewsWord(text, "ai") || hasNewsWord(text, "tech") || hasNewsWord(text, "technology") ||
+        hasNewsWord(text, "artificial intelligence") || hasNewsWord(text, "app") || hasNewsWord(text, "gadget")) {
+      tags.add("tech");
+    }
+    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) {
+      tags.delete("world");
+    }
+    return NEWS_TAG_KEYS.filter(k => tags.has(k));
   }
   function monthLabel(s) {
     const [y, m] = String(s || "").split("-");
@@ -1155,14 +1214,11 @@ const UI = (() => {
 
   return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, todayIST, todayPKT, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
-    skelCards, stateMsg, setSEO, initials, industryTag, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
+    skelCards, stateMsg, setSEO, initials, industryTag, deriveNewsTags, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
     relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
-
-
-
 
 
 

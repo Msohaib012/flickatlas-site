@@ -547,68 +547,9 @@
       <div class="section-head"><h2>Latest News</h2>
       <a class="see-all" href="/news">See All →</a></div>
       <div class="sk" style="height:230px;border-radius:14px"></div></section>`;
-    /* News tag derivation — REUSED from js/page-news.js (same helpers,
-       same keyword lists, same TAGKEYS order) so a story gets the same
-       tags on the homepage slider as on /news. "Kollywood" means South
-       Indian cinema (Tamil/Telugu), per the owner's wording. */
-    const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-    const hasWord = (text, phrase) => {
-      const words = String(phrase).split(" ");
-      const pat = words.map((w, i) => escRe(w) + (i === words.length - 1 ? "s?" : "")).join("\\s+");
-      return new RegExp("\\b" + pat + "\\b", "i").test(text);
-    };
-    const TAGKEYS = ["bollywood", "lollywood", "kollywood", "world", "pakistan", "celebrity", "viral", "award", "ott", "music", "tech"];
+    /* Use the same industry/category tagging as /news. */
     const SLIDERTAGLABEL = { bollywood: "Bollywood", kollywood: "Kollywood" };
-    const deriveTags = (it) => {
-      const tags = new Set();
-      const cats = (Array.isArray(it.cats) ? it.cats : []).map(c => String(c).toLowerCase());
-      const text = ((it.title || "") + " " + (it.summary || "")).toLowerCase();
-      /* KOREAN GUARD (2026-10-26, browser-verified): the feed misclassifies
-         Korean stories as 'bollywood' (Kim Ji Won K-drama Doctor X carried
-         cats ['bollywood','celebrity'] and showed in the Indian-only slider
-         labelled Bollywood). A story whose text is Korean is NEVER Indian,
-         so the feed's 'bollywood' cat is ignored for it. */
-      const isKorean = hasWord(text, "k-drama") || hasWord(text, "kdrama") ||
-        hasWord(text, "korean") || hasWord(text, "k-pop") || hasWord(text, "kpop") ||
-        hasWord(text, "seoul") || hasWord(text, "kim ji won");
-      if (cats.includes("bollywood") && !isKorean) tags.add("bollywood");
-      if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
-      if (cats.includes("celebrity")) tags.add("celebrity");
-      if (cats.includes("viral")) tags.add("viral");
-      if (cats.includes("world") || cats.includes("international")) tags.add("world");
-      /* ₹ is the Indian rupee sign — a clean Bollywood signal for items
-         the feed misclassified (e.g. a Ramayana box-office item filed
-         under "korea"). */
-      if (hasWord(text, "bollywood") || text.includes("₹")) tags.add("bollywood");
-      if (hasWord(text, "tamil") || hasWord(text, "kollywood") || hasWord(text, "tamil cinema") ||
-          hasWord(text, "telugu") || hasWord(text, "tollywood")) tags.add("kollywood");
-      /* Indian-language stories belong in Bollywood (owner order
-         2026-10-28: Bollywood = ALL India-related) — Tamil/Telugu keep
-         their Kollywood tag as well, Malayalam/Kannada/Punjabi/Marathi/
-         Bengali/Gujarati stories gain the Bollywood tag here. */
-      if (hasWord(text, "tamil") || hasWord(text, "telugu") || hasWord(text, "malayalam") ||
-          hasWord(text, "mollywood") || hasWord(text, "kannada") || hasWord(text, "sandalwood") ||
-          hasWord(text, "punjabi") || hasWord(text, "marathi") || hasWord(text, "bengali") ||
-          hasWord(text, "gujarati") || text.includes("₹")) tags.add("bollywood");
-      if (hasWord(text, "lollywood") || hasWord(text, "pakistani") || hasWord(text, "hum tv") ||
-          hasWord(text, "ary") || hasWord(text, "geo tv") || hasWord(text, "green tv")) tags.add("lollywood");
-      if (hasWord(text, "award") || hasWord(text, "filmfare") || hasWord(text, "oscar") ||
-          hasWord(text, "iifa") || hasWord(text, "national award") ||
-          hasWord(text, "best actor") || hasWord(text, "best film")) tags.add("award");
-      if (hasWord(text, "ott") || hasWord(text, "netflix") || hasWord(text, "streaming") ||
-          hasWord(text, "prime video") || hasWord(text, "disney+ hotstar") || hasWord(text, "hotstar") ||
-          hasWord(text, "jiohotstar")) tags.add("ott");
-      if (hasWord(text, "music") || hasWord(text, "soundtrack") || hasWord(text, "song") ||
-          hasWord(text, "album") || hasWord(text, "singer") || hasWord(text, "composer")) tags.add("music");
-      if (hasWord(text, "ai") || hasWord(text, "tech") || hasWord(text, "technology") ||
-          hasWord(text, "artificial intelligence") || hasWord(text, "app") || hasWord(text, "gadget")) tags.add("tech");
-      /* Bollywood and World Cinema are mutually exclusive (owner order
-         2026-10-28): an Indian or Pakistani story is never World Cinema,
-         even when the feed filed it under "international". Runs last so
-         keyword-derived tags above are all counted. */
-      if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) tags.delete("world");
-      return TAGKEYS.filter(k => tags.has(k));
-    };
+    const deriveTags = UI.deriveNewsTags;
     /* News slider renderer (owner spec 2026-10-26, corrected 21:18 PKT,
        tags + Indian-only 2026-10-26 ~21:35 PKT):
        INDIAN-ONLY, newest 8, YouTube/Sacnilk style — a 16:9 image frame
@@ -1295,7 +1236,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
 
 
 

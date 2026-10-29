@@ -223,14 +223,19 @@ def pick_certification(details, media_type):
     return ""
 
 
-INDIAN_LANGS = {"hi", "ta", "te", "ml", "kn", "pa", "bn", "mr", "gu", "or", "as"}
+INDIAN_LANGS = {
+    "hi", "ta", "te", "ml", "kn", "pa", "bn", "mr", "gu", "or", "as",
+    "sa", "ks", "sd", "kok", "mni", "mai", "sat", "doi", "brx", "bho",
+    "awa", "mag", "mwr", "hne", "tcy",
+}
 
 
 def derive_industry(details):
     """Industry rule (owner order 2026-10-28) — the ROOT CAUSE fix.
     bollywood = ALL Indian titles: any Indian language (Hindi, Tamil,
     Telugu, Malayalam, Kannada, Punjabi, Bengali, Marathi, Gujarati,
-    Odia, Assamese) OR India origin/production country (e.g. an
+    Odia, Assamese and other regional languages) OR India origin/production
+    country (e.g. an
     English-language Indian film). The old rule (lang == "hi" AND
     "IN" in countries) filed all 21 non-Hindi Indian titles as "world".
     pakistani = Pakistan origin (any language) OR Urdu-language
@@ -414,6 +419,5 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
 
 

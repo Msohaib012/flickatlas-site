@@ -11,9 +11,9 @@
    Movies page (?f=bollywood, ?f=international), never a native
    <select> popup.
    Lollywood was removed from this page (user order 2026-10-26);
-   Pakistani titles show under All only. Bollywood means ALL Indian
-   movies — Hindi, Tamil, Telugu and every other Indian-language film
-   (industry "bollywood" OR origin_country includes "IN"). */
+   Pakistani titles show under All only. Bollywood means every Indian
+   title, whatever its language or regional film industry; World Cinema
+   means international titles outside India and Pakistan. */
 (async function () {
   UI.mountChrome("/box-office");
   const main = document.getElementById("app");
@@ -50,13 +50,10 @@
     return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Reported box office summary"><div title="Today's reported collection · ${UI.esc(todayIST)} IST"><dt>Today</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 days reported" : "No daily records reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (clean.length) return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded (India Net)</dt><dd>${UI.fmtMoney(totalSum)}</dd></div>`; if (ww && ww.total_usd) return `<div title="Reported ${UI.esc(ww.scope === "domestic-only-so-far" || ww.scope === "domestic-opening-weekend" ? "domestic" : "worldwide")} theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")} — no India-Net day-wise figures reported"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="Sum of the reported day-wise collections tracked by FlickAtlas"><dt>Recorded (India Net)</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
   };
 
-  /* Industry filter (?f=): bollywood = ALL Indian movies (industry
-     "bollywood" OR origin_country includes "IN" — Hindi, Tamil, Telugu
-     and every other Indian-language film); international = World Cinema
-     (industry "world", non-Indian, non-Pakistani); anything else shows
-     all industries. Lollywood was removed (user order 2026-10-26), so
-     ?f=lollywood falls back to All and Pakistani titles show under
-     All only. */
+  /* Industry filter (?f=) delegates to UI.industryOf(): Bollywood
+     includes all Indian-origin/Indian-language titles, while World
+     Cinema excludes both India and Pakistan. Lollywood was removed from
+     this page, so Pakistani titles remain visible under All only. */
   let f = UI.getParam("f", "all");
   if (!["bollywood", "international"].includes(f)) f = "all";
   /* Industry rule (owner order 2026-10-28): Bollywood = ALL Indian
@@ -102,7 +99,6 @@
     [{ value: "all", label: "All industries" }, { value: "bollywood", label: "Bollywood" }, { value: "international", label: "World Cinema" }],
     f, (v) => { location.href = v === "all" ? "/box-office" : `/box-office?f=${v}`; });
 })();
-
 
 
 
