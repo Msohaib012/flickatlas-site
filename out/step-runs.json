@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T14:52:13Z",
-    "run_id": "40709929141",
-    "status": "success",
-    "checked": {
-     "candidates": 287,
-     "detail": "RSS/Atom items across 137 sources; 14 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Janhvi Kapoor On Peddi Controversy, Being Sexualised: I Should Have Made Bigger Scene...",
-      "Bigg Boss 20: Why Is Qazi Touqeer Getting Lesser Screen Time After Weekend Ka Vaar? Netizens UPSET With...",
-      "Jailer 2 Karnataka Box Office Day 14 Prediction: Rajinikanth's Film Eyes ₹85 Cr, Kannada Version Crosses ₹8 Cr",
-      "Bigg Boss 20 EXCLUSIVE! Scout OP Aka Tanmay’s Mother On His ‘Close’ Bond With Love Gill: Kaashvi Was Upset…",
-      "Ramayana Advance Booking Day 1 (India): Ranbir's Film Crosses 14cr; Creates THIS Record 8 Days Before Release",
-      "Box Office: Can Yash Make History By Becoming The First Star To Deliver Three 100 Crore Grossers In Karnataka?",
-      "photos hrithik roshan shares a wholesome wish for sussanne khan 86845.html",
-      "exclusive shanaya kapoor on carrying forward student of the years legacy with after dark series 86836.html",
-      "Manoj Bajpayee says the industry is a bullsh*t, nobody appreciates",
-      "'Ajith Kumar sir is the real 'Daredevil'’: Director Adhik reveals",
-      "Trisha Krishnan turns heads in a red 'Astral Saree' with floral lace blouse worth nearly Rs 2 lakh",
-      "Hrithik pens birthday note for ex-wife Sussanne, Saba reacts",
-      "Inside Anirudh Ravichander and Kavya Maran's wedding invitation",
-      "Manoj Bajpayee on how making first move led to 'Raajneeti', 'Wasseypur' and 'Special 26'",
-      "In 1999, Hugh Grant’s blue-doored home featured in ‘Notting Hill’; now the home costs USD 10M",
-      "Hrithik Roshan says he is proud of the challenges ex-wife Sussanne Khan ha faced and overcome, calls her the best mother to sons Hrehaan and Hridaan",
-      "Will always be cheering for you: Hrithik's warm birthday note for Sussanne",
-      "ramayana mangal rang song ar rahman backlash old tamil song enna solla pogirai viral same tune tmovj dskc 2681386 2026 10 28",
-      "virender sehwag walksout mid show shouts at bihar manish kashyap najafgarh gangsters murder video tmovf dskc 2682519 2026 10 28",
-      "love gill emotional breakdown cried uncontrollably after scout nominated kaashvi reaction tmovh dskc 2682590 2026 10 28"
-     ],
-     "updated": [],
-     "count": 192,
-     "detail": "197 stories, 0 duplicates removed, 90 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T15:52:47Z",
     "run_id": "40720026277",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "293 stories, 5 duplicates removed, 22 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T14:53:55Z",
-    "run_id": "40709929141",
+    "run_at": "2026-10-29T15:51:54Z",
+    "run_id": "40905613735",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 235,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
-      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'"
+      "Rajkumar Periasamy reveals Dhanush's 'OM' plot",
+      "Selena Gomez And Demi Lovato Recreated Their Princess Protection Program Poster, And Benny Blanco Was Their Biggest Stan",
+      "A Waymo Broke Down On A One-Lane Road At Universal Orlando (And I’d Imagine Everyone Was Raging)",
+      "Forget 'True Detective,' This 10/10 Crime Thriller Miniseries Should Be Your Next Binge",
+      "8 Best Network Procedurals on TV Right Now",
+      "'Fallout' Star Officially Leaves the Wasteland Behind for Season 2 of Hit Crime Thriller",
+      "After 'Obsession' and 'Backrooms,' Here's What's Next for Horror",
+      "‘Shadowhunters’ Star Leads a New Enemies-to-Lovers Romantasy Rom-Com",
+      "Harry Potter Officially Brings Back Hermione Granger With New Release",
+      "HBO’s Harry Potter Officially Reveals New Hogwarts Design",
+      "GTA 6 Makes It Harder to Get Away With Crime With New Tracking Details",
+      "Dune: Part 3 Popcorn Buckets Give Fans Collectible Sandworms, Guild Navigator, & More",
+      "Keri Russell’s Acclaimed Netflix TV Show Renewed for Another Season After Explosive Finale",
+      "James Gunn Could Bring Harley Quinn & These DC Favorites Into DCU Canon",
+      "Harry Potter TV Show Reveals First Poster With a Magical Hogwarts Detail",
+      "Julia Roberts’ Husband Makes Her 59th Birthday Sweeter With a Loving Tribute",
+      "Amusing Trailer for Diane Morgan's 'Cunk on Cinema' Comedy Special",
+      "'Harry Potter' Reboot Officially Breaks Away From Movies in First Look at New Hogwarts Castle",
+      "Seth Rogen's Near-Perfect New Movie Officially Cements Itself as One of the Best of the Year",
+      "'Smile 3' Officially Moves Forward With New Director in Major Franchise Shakeup"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 213,
+     "detail": "218 stories, 1 duplicates removed, 17 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T16:17:02Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
+      "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T16:53:48Z",
-    "run_id": "40729919700",
-    "status": "success",
-    "checked": {
-     "candidates": 32,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 23, coming 9"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 46, coming 5"
     },
     "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T16:17:02Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": {
+     "candidates": 51,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 46, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2173,27 +2163,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T15:02:02Z",
-    "run_id": "40709929141",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T16:18:03Z",
+    "run_id": "40905613735",
     "status": "success",
     "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 85,
-     "detail": "+0 new rows, 85 updated rows, 123 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2607,19 +2596,27 @@
      "detail": "+0 new rows, 90 updated rows, 203 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T16:18:00Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+0 new rows, 9 updated rows, 284 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2862,30 +2859,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T15:58:53Z",
-    "run_id": "40720026277",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
-      "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3350,19 +3336,30 @@
      "detail": "api-news.json 70 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T16:18:03Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": {
+     "candidates": 72,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
+      "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 72 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3613,19 +3610,36 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T16:15:51Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 16 new detected"
+    },
+    "changed": {
+     "added": [
+      "Khushi Ep 47",
+      "Uswah Ep 37",
+      "Izzat Ep 40",
+      "Dastoor Ep 69"
+     ],
+     "updated": [
+      "Uswah Ep 37",
+      "Khushi Ep 47",
+      "Dastoor Ep 69",
+      "Izzat Ep 40"
+     ],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3886,29 +3900,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T14:53:54Z",
-    "run_id": "40709929141",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 192 still unprocessed; today by category: movies 7/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 7/4, ott_streaming 3/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
-      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4353,19 +4357,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T16:17:02Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 213 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 6/4, ott_streaming 5/4, trailers 2/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
+      "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4608,24 +4622,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 189,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4945,24 +4954,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 19,
+     "count": 366,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5282,19 +5291,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5544,19 +5558,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5791,19 +5805,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6033,19 +6047,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-28T15:59:00Z",
-    "run_id": "40720026277",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6286,19 +6300,19 @@
      "count": 107
     },
     "reason": null
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6528,19 +6542,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-28T15:02:18Z",
-    "run_id": "40709929141",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6793,8 +6807,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T16:18:11Z",
+    "run_id": "40905613735",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T15:40:51Z"
+ "updated_at": "2026-10-29T16:18:11Z"
 }

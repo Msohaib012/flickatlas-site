@@ -17702,5 +17702,371 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 14:15:38 GMT"
+  },
+  "1n189vp": {
+    "id": "1n189vp",
+    "type": "news",
+    "headline": "Khushi Episode 47 — Watch on HUM TV",
+    "dek": "Khushi episode 47 aired on 2026-10-29 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 47 aired on 2026-10-29 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=e8HdPkfiiWU"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Humna aur Sahil phone par baat karte hain aur ek doosre ke saath apni khushiyan aur darr baantte hain. Sahil ke ghar wale uske nikah ki tayariyan shuru kar dete hain. Sahil ki maa uske liye ek shandar nikah ki khwahish karti hain. Dusri taraf, nikah ki rasam ke doran jab sab log dua maang rahe hote hain, tab ghar mein yeh pata chalta hai ke dulhan koi aur nahi balkay Khushi hai, jo Sahil ki jagah kisi aur ke nikah ki tayari samajh kar baithi thi. Nikah ke baad Khushi ke baap, Atya bhabhi aur ghar wale use achanak ghar se ruksat kar dete hain kyunke unhein yeh rishta manzoor nahi hota. Khushi roti hui wahan se chali jaati hai aur uske baap akelay kamre mein rone lagte hain. Episode ke ikhtitam par Sahil aur Khushi apni nayi zindagi ki shuruat karte hain jabke dusri taraf Atya bhabhi aur baap apni beti ki ruksati ke baad ghamgeen aur tanhai mein hote hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 47 aired on 2026-10-29.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=e8HdPkfiiWU",
+      "YouTube views: 173,738.",
+      "Episode summary added 2026-10-29."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/e8HdPkfiiWU/hqdefault.jpg",
+        "caption": "Khushi Episode 47",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-29T15:00:29Z"
+  },
+  "aa18eo": {
+    "id": "aa18eo",
+    "type": "news",
+    "headline": "Uswah Episode 37 — Watch on Geo TV",
+    "dek": "Uswah episode 37 aired on 2026-10-29 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 37 aired on 2026-10-29 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=jqngHmcLqig"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah Zaid ko phone par apni pareshani batati hai ke woh Zaid ki wajah se apnon se larr chuki hai aur Zaid ki ammi ke bare mein shikayat karti hai. Uswah kehti hai ke Anaya aur Mahabeer ke rishte ki wajah se use wapas ghar bhej diya gaya hai, jabke ismein uska koi qasoor nahi hai. Zaid Uswah ko samajhta hai ke woh ammi aur ghar ke halaat ko samjhe aur woh khud bhi office ke kaam mein pareshan hai. Uswah ki ammi, Shaishta aur dusri khawateen baith kar baat karti hain jahan Shaishta kehti hai ke Anaya abhi choti hai aur shadi ki zimmedari nahi nibha sakti, lekin Uswah ki ammi aur baqi log is baat se gussa hote hain kyunke Anaya Mahabeer ko pasand karti hai aur usne sabke samne yeh baat keh di hai, jiski wajah se ammi ki tabiyat kharab ho jati hai aur woh rone lagti hain. Uswah ghar aakar ammi ko pareshan dekhti hai aur Anaya ko samjhati hai ke use ammi ke samne aisi baat nahi karni chahiye thi, lekin Anaya gusse mein phone wapas maangti hai aur drama dekhne lagti hai. Baad mein Uswah Faria se milti hai jo use taane deti hai ke woh Zaid ki dusri biwi hai aur Zaid ke sath Faria ki shadi ki baat yaad dilati hai, jis par Uswah aur Faria mein behas hoti hai. Episode ke aakhir mein Uswah ghar aakar ammi aur sab se baat karti hai aur apni galti maanti hai ke unhein apni zindagi mein deeni ilm ke sath duniyavi ilm bhi hasil karna chahiye tha taake aisi galtiyan na hon, aur sab khamoshi se baithay rehte hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 37 aired on 2026-10-29.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=jqngHmcLqig",
+      "YouTube views: 478,751.",
+      "Episode summary added 2026-10-29."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/jqngHmcLqig/hqdefault.jpg",
+        "caption": "Uswah Episode 37",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-29T15:00:16Z"
+  },
+  "mnuizx": {
+    "id": "mnuizx",
+    "type": "news",
+    "headline": "Izzat Episode 40 — Watch on ARY Digital",
+    "dek": "Izzat episode 40 aired on 2026-10-29 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 40 aired on 2026-10-29 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=o8dEzoBMW4I"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Ruba, jo bimar hai aur unke sar pe Rayan haath pher raha hota hai, woh sone lagti hain aur Ruba usay batati hai ke Mohsin chaly gaye hain. Rayan kehta hai ke woh thori der pehle hi gaye aur Parniya ka phone aya tha ke woh kal aa jayengi aur keh rahi thi ke abhi aaram karein aur batein na karein. Phir Taiyyab aur Mazhar ki baat hoti hai jahan Mazhar kehta hai ke waqt acha hai, Saima se baat kar lein Rayan aur Shanza ke rishte ki. Mazhar kehta hai ke usne baat ki thi magar Saima ne kaha ke woh is par kuch nahi kar sakti aur yeh Rayan ki apni marzi hai. Taiyyab kehta hai ke Saima Rayan ki maa hai, woh faisla le sakti hai aur ab toh Jalal bhai bhi nahi hain, toh Saima hi sab kuch hai. Taiyyab kehta hai ke woh khud Rayan se baat karega taqay woh Rayan ko Shanza se shadi ke liye amada kare. Taiyyab Rayan ke paas jata hai aur us se baat karta hai ke Saima aur Rayan ko Ruba aur Rayan se shadi ke mamlay mein madad karni chahiye aur Rayan se kehta hai ke woh Saima ko manaye ke woh Rayan aur Shanza ki shadi ke liye baat kare. Rayan kehta hai ke woh yeh shadi nahi hone dega aur jab tak Shanza ka baap zinda hai aur uska yeh faisla hai, woh is par qayam hai. Taiyyab kehta hai ke agar Rayan ke paas faisla hai toh woh apni behan ki shadi jahan chahe karwa sakta hai. Phir scene mein Taiyyab aur Saima ke ghar ka mahol dikhaya jata hai jahan Shanza aur baqi log hain aur Taiyyab Shanza se kehta hai ke Shanza ki shadi ke liye koi chara nahi hai aur sab us par ilzam laga rahe hain aur koi shadi nahi karega kyunki sab ko lagta hai ke woh badnaam ho chuki hai. Shanza yeh sab sun kar pareshan hoti hai aur rone lagti hai. Episode ke end mein Shanza aur Rayan ki baat hoti hai aur phir sabhi ghar wale is situation par baat karte hain aur episode aik tense mahaul par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 40 aired on 2026-10-29.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=o8dEzoBMW4I",
+      "YouTube views: 2,852.",
+      "Episode summary added 2026-10-29."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/o8dEzoBMW4I/hqdefault.jpg",
+        "caption": "Izzat Episode 40",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-29T15:00:01Z"
+  },
+  "8qmro4": {
+    "id": "8qmro4",
+    "type": "news",
+    "headline": "Dastoor Episode 69 — Watch on Green TV",
+    "dek": "Dastoor episode 69 aired on 2026-10-29 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 69 aired on 2026-10-29 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=mkCR7rDGJqg"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Amara Alyan se milti hai aur usse kehti hai ke ghar ka aadha hissa uske naam ho chuka hai aur alyan usse milna nahi chahta. Alyan ki tabiyat kharab hone ki wajah se woh rest kar raha hota hai, jab Amara uske paas jaakar purani baatein karke usse bahas karne lagti hai. Dusri taraf, Zebo-unnisa ki aisi baaton aur planning ki wajah se sab pareshan hote hain. Salman aur Zebu-unnisa aapas mein baat karte hain ke Amara aur Alyan ka r रिश्ता khatam karwaya jaye kyunki Amara kisi tarah maan nahi rahi aur dhamkiyan de rahi hai. Salman Alyan se milta hai aur kehta hai ke Amara jhoot bol rahi hai aur unhein ghar ka hissa wapas lena hoga. Episode ke aakhir mein, Shiza aati hai aur usse files sign karwanay ki koshish ki jati hai taake woh Alyan se divorce le le, aur yahan par episode khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 69 aired on 2026-10-29.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=mkCR7rDGJqg",
+      "YouTube views: 79,265.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-10-29."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/mkCR7rDGJqg/hqdefault.jpg",
+        "caption": "Dastoor Episode 69",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-29T14:45:06Z"
+  },
+  "1cfyzx4": {
+    "id": "1cfyzx4",
+    "type": "news",
+    "headline": "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
+    "dek": "The open-world survival game is getting a massive icy region update this December, aligning with the release of the upcoming film Dune: Part Three.",
+    "body": [
+      {
+        "h": "Introduction to the New Expansion",
+        "p": [
+          "The popular open-world survival game Dune: Awakening is preparing to receive a major content injection with the official announcement of Dune: Blood and Ice. Developer Funcom has revealed that this upcoming expansion will be released completely free of charge for all existing players.",
+          "Slated to arrive this December, the update coincides closely with the cinematic release of Dune: Part Three, creating a massive wave of franchise-related content for fans to enjoy across different media formats."
+        ]
+      },
+      {
+        "h": "Exploring the Frozen Region of Arrakis",
+        "p": [
+          "Previously teased under the working title of the Polar Cap update, Blood and Ice transports players away from the familiar scorching deserts of Arrakis and into a completely new frozen environment.",
+          "This icy map introduces harsh sub-zero survival challenges, forcing players to master new mechanics such as ice harvesting, utilizing specialized fabricators, and applying equipment augmentations to stay alive."
+        ]
+      },
+      {
+        "h": "Fresh Storyline and Crafting Opportunities",
+        "p": [
+          "Beyond the environmental hazards and brand-new survival map, the expansion delivers fresh points of interest and expanded crafting opportunities to keep veteran players engaged.",
+          "Additionally, Blood and Ice features a dedicated standalone storyline, giving returning survivors a compelling narrative reason to dive back into the harsh planet of Arrakis."
+        ]
+      },
+      {
+        "h": "Recent Momentum for Dune: Awakening",
+        "p": [
+          "This announcement builds upon a series of significant updates for the title following its initial PC launch in June 2025. The game expanded to PlayStation 5 and Xbox Series X/S on September 22, 2026, accompanied by a major update introducing a single-player mode and customizable difficulty settings.",
+          "Funcom also refined the multiplayer landscape by making player-versus-player combat entirely optional, overhauling the endgame, and resolving frustrating mechanics related to lost bases and vehicles."
+        ]
+      },
+      {
+        "h": "Player Growth and Cross-Play Prospects",
+        "p": [
+          "The recent console rollout successfully attracted over one million new survivors to the game earlier in the month, marking a vital period of growth for the community.",
+          "While full cross-play between personal computers and gaming consoles remains in active development without a finalized launch date, ongoing community feedback continues to guide the title's evolution."
+        ]
+      },
+      {
+        "h": "Broader Franchise Context",
+        "p": [
+          "Frank Herbert's universe has experienced a tremendous revival driven by Denis Villeneuve's cinematic adaptations, starting with Dune: Part One and Dune: Part Two.",
+          "The upcoming release of Dune: Part Three on December 18, 2026, will adapt Dune Messiah and conclude Paul Atreides' narrative arc within Villeneuve's acclaimed trilogy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Funcom has officially revealed Dune: Blood and Ice, a free December expansion for Dune: Awakening that introduces a frozen survival map and a standalone storyline. The update arrives alongside the theatrical release of Dune: Part Three and follows the game's recent successful console launch."
+        ]
+      }
+    ],
+    "facts": [
+      "Dune: Part Three releases on December 18, 2026",
+      "Dune: Blood and Ice is a free expansion arriving in December",
+      "Dune: Awakening launched on PC in June 2025",
+      "Console versions for PlayStation 5 and Xbox Series X/S launched on September 22, 2026",
+      "Over one million new survivors joined Dune: Awakening following its console release"
+    ],
+    "entities": {
+      "people": [
+        "Frank Herbert",
+        "Denis Villeneuve",
+        "Paul Atreides",
+        "Nicholas Becher"
+      ],
+      "titles": [
+        "Dune",
+        "Dune: Part One",
+        "Dune: Part Two",
+        "Dune: Part Three",
+        "Dune Messiah",
+        "Children of Dune",
+        "Dune: Awakening",
+        "Dune: Blood and Ice"
+      ]
+    },
+    "keywords": [
+      "Dune Blood and Ice",
+      "Dune Awakening expansion",
+      "Funcom Dune Awakening",
+      "Dune Part Three December 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/the-harkonnen-homeworld-in-dune.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 15:17:21 GMT"
+  },
+  "bke5yy": {
+    "id": "bke5yy",
+    "type": "news",
+    "headline": "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster",
+    "dek": "The upcoming television reboot of the iconic wizarding world has offered fans their very first glimpse of the redesigned school grounds through a newly released official poster.",
+    "body": [
+      {
+        "h": "First Official Poster Release",
+        "p": [
+          "HBO has officially rolled out the very first promotional poster for its highly anticipated television adaptation of the wizarding franchise. The release marks a major milestone as the production builds momentum toward its scheduled streaming premiere.",
+          "Fans examining the newly published artwork quickly noticed intricate details hidden within the promotional material. These initial visuals have immediately sparked widespread discussions across entertainment platforms regarding the aesthetic direction of the upcoming adaptation."
+        ]
+      },
+      {
+        "h": "A Fresh Look at Hogwarts",
+        "p": [
+          "The standout feature of the newly unveiled poster lies in the reflective surface of Dominic McLaughlin's glasses. Within this reflection, viewers are granted their initial sneak peek at how the upcoming television series will portray the legendary Hogwarts School of Witchcraft and Wizardry.",
+          "This clever reveal offers enthusiasts their first concrete piece of visual evidence regarding the architectural and atmospheric choices being made for the school grounds. It sets a distinct visual tone that separates the upcoming episodic project from its cinematic predecessors."
+        ]
+      },
+      {
+        "h": "Transitioning Away From the Original Films",
+        "p": [
+          "A major point of interest surrounding the television reboot is how thoroughly it separates itself from the legacy of the original feature films. While those beloved movies relied heavily on practical exterior locations such as Alnwick Castle in Northumberland, England, the new television production is taking a thoroughly distinct visual and structural path.",
+          "By establishing a completely separate aesthetic identity, the creative team aims to deliver a fresh interpretation of the source material. This deliberate break ensures that the television venture stands firmly on its own merit rather than merely mimicking past cinematic accomplishments."
+        ]
+      },
+      {
+        "h": "Behind the Production and Set Design",
+        "p": [
+          "Instead of utilizing historic exterior filming locations like the original movies did, the production crew has constructed a custom-built set. This brand-new physical environment has been erected at Warner Bros. Studios Leavesden in Hertfordshire, England.",
+          "To achieve the magical grandeur expected of the wizarding institution, the studio-built sets are being seamlessly blended with authentic landscapes. This combination of controlled studio craftsmanship and real-world geography is designed to bring a renewed sense of immersion to the beloved setting."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Release Schedule",
+        "p": [
+          "The upcoming episodic reboot has locked in its official home and debut timeline for eager audiences worldwide. The series is formally scheduled to launch on HBO Max, bringing the massive franchise directly into the streaming television space.",
+          "Marking a major event for holiday viewing schedules, the premiere date has been firmly set for December 25, 2026. This timing positions the ambitious project as a major tentpole attraction for the streaming service during the year-end window."
+        ]
+      },
+      {
+        "h": "Audience Reception and Fan Engagement",
+        "p": [
+          "The unveiling of the poster and the subtle Hogwarts reveal have triggered massive engagement online, drawing intense scrutiny and excitement from the fanbase. Enthusiasts have been meticulously analyzing every pixel of the promotional artwork to uncover further hints about the production.",
+          "This level of anticipation underscores the enduring global popularity of the franchise. Viewers are clearly eager to see how the episodic format will interpret classic elements of the wizarding world over an extended television run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO released the first official poster for the upcoming Harry Potter television reboot, which is set to debut on HBO Max on December 25, 2026. The promotional art features a reflection in Dominic McLaughlin's glasses that provides the very first look at the show's custom-built Hogwarts set located at Warner Bros. Studios Leavesden in Hertfordshire, England."
+        ]
+      }
+    ],
+    "facts": [
+      "HBO released the first official poster for the upcoming Harry Potter reboot on Oct 29, 2026.",
+      "The Harry Potter reboot is debuting on HBO Max on Dec. 25, 2026.",
+      "Dominic McLaughlin's glasses show the first look at Hogwarts School of Witchcraft and Wizardry.",
+      "The original Harry Potter movies used Alnwick Castle in Northumberland, England.",
+      "The show uses a custom-built set at Warner Bros. Studios Leavesden in Hertfordshire, England."
+    ],
+    "entities": {
+      "people": [
+        "Dominic McLaughlin",
+        "Richard Nebens"
+      ],
+      "titles": [
+        "Harry Potter",
+        "Ray Gunn",
+        "Insidious: Out of the Further",
+        "Mortal Kombat II",
+        "Superman"
+      ]
+    },
+    "keywords": [
+      "Harry Potter HBO Max poster",
+      "Harry Potter reboot Hogwarts set",
+      "Dominic McLaughlin Harry Potter",
+      "Warner Bros Studios Leavesden Harry Potter"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/09/harry-potter-glasses-show.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 15:44:53 GMT"
   }
 };
