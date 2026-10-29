@@ -81,12 +81,15 @@ with tempfile.TemporaryDirectory() as d:
  check('429 failure recorded',records[-1][0][1] is False)
  ott.tmdb_get=oldget
 
-# TV classification fails closed on old first_air_date, allows genuinely recent provider-listed TV.
+# Provider-listed TV remains in Now after its premiere; future TV needs a confirmed digital OTT date.
 today='2026-10-29'
-pub={'old':{'id':1,'type':'tv','first_air_date':'2020-01-01','providers':[{'name':'Netflix'}]},'recent':{'id':2,'type':'tv','first_air_date':'2026-10-20','providers':[{'name':'Netflix'}]},'movie':{'id':3,'type':'movie','release_date':'2026-11-05','providers':[{'name':'Netflix'}]}}
-now,coming,_=ott.classify(pub,today)
-check('old popular TV excluded from Now',all(x['id']!=1 for x in now))
-check('recent provider-listed TV may enter Now',any(x['id']==2 for x in now))
+pub={'old':{'id':1,'type':'tv','first_air_date':'2020-01-01','providers':[{'name':'Netflix'}]},'recent':{'id':2,'type':'tv','first_air_date':'2026-10-20','providers':[{'name':'Netflix'}]},'future_unconfirmed':{'id':4,'type':'tv','first_air_date':'2026-11-01','providers':[{'name':'Netflix'}]},'future_confirmed':{'id':5,'type':'tv','first_air_date':'2026-11-07','providers':[{'name':'Netflix'}]},'movie':{'id':3,'type':'movie','release_date':'2026-11-05','providers':[{'name':'Netflix'}]}}
+digital={'5':{'date':'2026-11-09','country':'IN','note':'Netflix'}}
+now,coming,_=ott.classify(pub,today,digital)
+check('older provider-listed TV remains in Now',any(x['id']==1 for x in now))
+check('recent provider-listed TV remains in Now',any(x['id']==2 for x in now))
+check('future TV premiere without OTT date is excluded from Coming',all(x['id']!=4 for x in coming))
+check('future TV with confirmed digital OTT date enters Coming',any(x['id']==5 and x['date']=='2026-11-09' and x['date_kind']=='digital' for x in coming))
 check('future movie remains confirmed dated Coming',any(x['id']==3 and x['date']=='2026-11-05' for x in coming))
 check('coming dates ascending', [x['date'] for x in coming]==sorted(x['date'] for x in coming))
 print(f'PASS: {passn} TMDB refresh tests')

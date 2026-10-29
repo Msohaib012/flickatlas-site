@@ -443,11 +443,16 @@
            appear on OTT, which carries only movies + TV series. */
         if (UI.industryOf(x) === "pakistani") continue;
         if (!x || !x.id || !x.poster_path || !(x.providers || []).length) continue;
-        const d = dateOf(x);
+        const isTv = typeOf(x) === "tv";
+        const d = isTv ? String(x.first_air_date || "") : dateOf(x);
         if (!d || !/^\d{4}-\d{2}-\d{2}$/.test(d)) continue;
-        /* A release/air date is usable as evidence for movie availability;
-           TV requires a canonical OTT group with its own confirmed date. */
-        if (typeOf(x) === "tv") continue;
+        /* Provider-listed, already-premiered series count as streaming now,
+           regardless of how long ago their first episode aired. A future TV
+           premiere alone is not evidence of a confirmed OTT date. */
+        if (isTv) {
+          if (d <= today) now.push({ id: x.id, type: "tv", providers: x.providers, date: d, date_kind: "release" });
+          continue;
+        }
         (d <= today ? now : coming).push({ id: x.id, type: typeOf(x), providers: x.providers, date: d, date_kind: "release" });
       }
       now.sort((a, b) => b.date.localeCompare(a.date));
@@ -468,12 +473,9 @@
         const d = String(g.date || "");
         if (!/^\d{4}-\d{2}-\d{2}$/.test(d)) return false;
         if (typeOf(x) === "tv") {
-          const cutoffDate = new Date(today + "T00:00:00Z");
-          cutoffDate.setUTCDate(cutoffDate.getUTCDate() - 30);
-          const cutoff = cutoffDate.toISOString().slice(0, 10);
           const air = String(x.first_air_date || "");
           if (!/^\d{4}-\d{2}-\d{2}$/.test(air)) return false;
-          if (group === "now" && (air > today || air < cutoff || d !== air)) return false;
+          if (group === "now" && (air > today || d !== air)) return false;
           /* TV upcoming requires explicit digital/streaming date evidence;
              a provider + future first-air date is not OTT confirmation. */
           if (group === "coming" && (d <= today || !["digital", "streaming", "ott"].includes(String(g.date_kind || "").toLowerCase()))) return false;
@@ -498,7 +500,7 @@
     const ottCardHtml = ({ g, x }, coming) => UI.ottCard(x, { coming, providers: g.providers, tag: tagFor(x), date: g.date, dateKind: g.date_kind });
     const ottRailHtml = (items, coming) => items.length
       ? items.map(p => ottCardHtml(p, coming)).join("")
-      : `<p role="status">No ${coming ? "upcoming OTT releases" : "confirmed recent OTT series or titles"} reported for this industry yet.</p>`;
+      : `<p role="status">${coming ? "No confirmed upcoming OTT dates" : "No titles currently streaming"} reported for this industry yet.</p>`;
     const ottHasKind = ["bollywood", "international"].some(ind =>
       ottFor("now", ind).length > 0 || ottFor("coming", ind).length > 0);
     const ottHtml = ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
@@ -1137,7 +1139,12 @@
         if (kind === "ott") {
           section.querySelector("h2").textContent = "OTT";
           link.href = `/ott?f=${industry}${typeParam(type)}`;
-          section.querySelector(".sec-sub").textContent = (type === "tv" ? "Recent TV premieres and confirmed upcoming OTT dates" : "Movies now streaming, and what's coming next") + " · " + industryLabel(industry) + " · " + typeLabel(type);
+          const ottSummary = type === "tv"
+            ? "TV series currently streaming; upcoming series only when OTT dates are confirmed"
+            : type === "all"
+              ? "Movies and TV series now streaming; upcoming dates where OTT availability is confirmed"
+              : "Movies now streaming, and upcoming OTT dates where confirmed";
+          section.querySelector(".sec-sub").textContent = ottSummary + " · " + industryLabel(industry) + " · " + typeLabel(type);
           const nowHost = section.querySelector('[data-results="now"]');
           const comingHost = section.querySelector('[data-results="coming"]');
           const nowItems = ottFor("now", industry, type);
@@ -1147,7 +1154,7 @@
              yet" line hid which filter was empty). */
           const ottTypeNoun = type === "tv" ? "TV series" : type === "all" ? "titles" : "movies";
           const nowEmpty = type === "tv"
-            ? `No recent series premiere is confirmed in the published ${industryLabel(industry)} catalogue (past 30 days). Older streaming series are excluded from this latest-releases view.`
+            ? `No currently streaming TV series are listed for ${industryLabel(industry)} yet.`
             : `No ${ottTypeNoun} streaming on OTT for ${industryLabel(industry)} yet.`;
           const comingEmpty = type === "tv"
             ? `No published ${industryLabel(industry)} TV series has a confirmed upcoming OTT date.`
@@ -1288,7 +1295,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
 
 
 

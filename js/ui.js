@@ -860,7 +860,11 @@ const UI = (() => {
        reads correctly as text too: "30 October 2026 · Movie" (coming),
        "Released 23 October 2026 · Bollywood · Movie" (now). */
     const nowParts = [];
-    if (dateText) nowParts.push(`${o.dateKind === "digital" ? "Streaming" : "Released"} ${esc(dateText)}`);
+    if (dateText) {
+      const dateLabel = o.dateKind === "digital" ? "Streaming"
+        : t === "tv" ? "Series premiered" : "Released";
+      nowParts.push(`${dateLabel} ${esc(dateText)}`);
+    }
     if (o.tag) nowParts.push(esc(o.tag));
     const meta = o.coming
       ? `${esc(dateText)}${dateText ? " · " : ""}<span class="type-tag">${t === "tv" ? "TV" : "Movie"}</span>`
@@ -1156,7 +1160,6 @@ const UI = (() => {
     relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
-
 
 
 
