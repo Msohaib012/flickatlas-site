@@ -15552,5 +15552,200 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 08:25:53 +0530"
+  },
+  "gnx3hf": {
+    "id": "gnx3hf",
+    "type": "news",
+    "headline": "Ranbir Kapoor and Yash Starrer Ramayana Crosses Rs 15 Crore in Advance Bookings",
+    "dek": "The upcoming mythological epic featuring Ranbir Kapoor, Sai Pallavi, and Yash has achieved a strong pre-release milestone by crossing Rs 15.57 crore in advance ticket sales seven days before hitting theaters.",
+    "body": [
+      {
+        "h": "Strong Pre-Release Momentum",
+        "p": [
+          "The highly anticipated mythological epic Ramayana is demonstrating remarkable commercial strength well ahead of its theatrical debut. With a full week remaining before its official rollout, the multi-starer project has officially surpassed the Rs 15 crore threshold in advance ticket sales across domestic markets.",
+          "Data compiled by Sacnilk indicates that the overall gross, inclusive of block seats, reached Rs 15.57 crore as of Thursday morning. This early enthusiasm underscores the intense public interest surrounding the ambitious cinematic adaptation."
+        ]
+      },
+      {
+        "h": "Ticket Sales and Show Counts",
+        "p": [
+          "Audience response has translated into substantial physical numbers, with approximately 2.97 lakh tickets sold across 6,382 shows spanning 191 cities. When excluding block bookings, the validated ticket count stands at 2.41 lakh, pointing to genuine grassroots demand.",
+          "Without accounting for block seats, the baseline advance booking collection is calculated at Rs 12.77 crore. Continuous hourly updates reveal that ticket purchases remained active even through the early morning hours."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "The Hindi iteration of the feature is spearheading the pre-release charge, contributing the lion's share of the revenue. Sacnilk figures show that the Hindi version has grossed Rs 13.07 crore, representing roughly 84 percent of the total advance receipts.",
+          "Regional versions are also performing steadily to support the pan-India release. The Kannada version secured Rs 2.04 crore in advance sales, while the Telugu version has added meaningful momentum as the project prepares for its multi-language rollout."
+        ]
+      },
+      {
+        "h": "Top Performing Cities",
+        "p": [
+          "Geographically, the National Capital Region has emerged as the premier market for the feature. Delhi-NCR generated Rs 2.87 crore through the booking of 38,666 individual tickets ahead of the premiere.",
+          "Bengaluru closely followed as the second major urban hub, registering Rs 2.45 crore in sales. These figures illustrate robust metropolitan uptake across distinct linguistic territories."
+        ]
+      },
+      {
+        "h": "Timeline and International Screening",
+        "p": [
+          "Advance booking windows for the feature officially opened on October 20, granting the production more than a week to accumulate its pre-release numbers. The theatrical release is officially locked for Thursday, November 5, 2026.",
+          "Prior to its domestic arrival, the Nitesh Tiwari directorial venture held an international premiere in Los Angeles on October 28, where it reportedly garnered a round of highly positive initial reviews."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The mythological epic Ramayana has crossed Rs 15.57 crore in advance bookings across 191 cities seven days prior to its theatrical release. The Hindi version leads the collections alongside contributions from the Kannada and Telugu versions under director Nitesh Tiwari."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana grossed Rs 15.57 crore in advance bookings including block seats as of October 29",
+      "Ramayana advance booking collection without block seats stood at Rs 12.77 crore",
+      "The film sold approximately 2.97 lakh tickets across 6,382 shows in 191 cities",
+      "Ticket count excluding block bookings stood at 2.41 lakh",
+      "The Hindi version grossed Rs 13.07 crore in advance bookings",
+      "The Kannada version grossed Rs 2.04 crore in advance bookings",
+      "Delhi-NCR recorded Rs 2.87 crore in advance ticket sales with 38,666 tickets booked",
+      "Bengaluru followed with Rs 2.45 crore in advance bookings",
+      "Advance bookings opened on October 20",
+      "The film is scheduled to release in theatres on Thursday, November 5, 2026",
+      "The film had its LA Premiere on October 28"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Soumyabrata Gupta"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana release date",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156425704,thumbsize-206549,width-1280,height-720,resizemode-75/156425704.jpg",
+        "caption": "Ranbir Kapoor and Yash Starrer Ramayana Crosses Rs 15 Crore in Advance Bookings",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-29T04:52:09Z"
+  },
+  "1av1pba": {
+    "id": "1av1pba",
+    "type": "news",
+    "headline": "Ramayana Early Premiere Reactions Draw Major Lord of the Rings Comparisons",
+    "dek": "Early reactions to Nitesh Tiwari's cinematic adaptation of the Indian epic praise its massive scale, but opinions remain divided over its heavy reliance on spectacle.",
+    "body": [
+      {
+        "h": "Los Angeles Premiere Generates Heavy Buzz",
+        "p": [
+          "The highly anticipated cinematic adaptation of the Indian epic mythology has officially generated its first wave of early responses following a special premiere screening in Los Angeles. Attendees and early reviewers immediately took to digital platforms to share their thoughts on the massive visual undertaking.",
+          "The initial wave of commentary highlights just how much scale and ambition have been poured into the project, immediately positioning it as one of the most heavily discussed cinematic events heading into the final stretch of the year."
+        ]
+      },
+      {
+        "h": "Comparisons to The Lord of the Rings",
+        "p": [
+          "Among the most notable takeaways from the premiere event were direct comparisons made between this ambitious adaptation and the legendary fantasy cinema of The Lord of the Rings franchise. One enthusiastic attendee declared that nothing quite like it exists in the current cinematic landscape.",
+          "The same viewer noted that the viewing experience evoked a specific feeling not experienced since the very first installment of the fantasy epic trilogy hit cinema screens, ultimately concluding with a suspenseful cliffhanger that left the audience shouting when the screen went dark."
+        ]
+      },
+      {
+        "h": "Praise for Lead Performances",
+        "p": [
+          "Beyond the sheer scale of the production, early responses heavily singled out the primary cast members for exceptional on-screen work. Entertainment journalists and specialized reviewers lauded the talent anchoring the narrative.",
+          "Specific notes highlighted the lead actor portraying Prince Rama as sublime, while the performer bringing the antagonist to life was described as magnetic. Another reviewer shared that the emotional weight of the lead performance successfully moved them to tears."
+        ]
+      },
+      {
+        "h": "Diverging Opinions on Spectacle and Pacing",
+        "p": [
+          "Despite the heavy praise directed at the visuals and acting, not all reactions from the early screenings leaned entirely positive. Some critics offered a more mixed assessment regarding how the narrative balances its colossal production value against its core dramatic elements.",
+          "One reviewer pointed out that the second half of the narrative tends to drag in certain places, largely attributed to lengthy action sequences that occasionally cause the overall pacing to stutter under the weight of the spectacle."
+        ]
+      },
+      {
+        "h": "Mixed Response to the Musical Collaboration",
+        "p": [
+          "The cross-cultural musical collaboration crafted for the project also drew split reactions from early attendees. The score, bringing together renowned talents like AR Rahman and Hans Zimmer, faced critique regarding its distinct blend of styles.",
+          "According to select reviewers, the attempt to merge Indian and Hollywood musical sensibilities ultimately backfired for some, leaving portions of the audience feeling that the resulting soundscape landed somewhere awkwardly in the middle without fully committing to either aesthetic."
+        ]
+      },
+      {
+        "h": "Thematic Depth and Cultural Entry Point",
+        "p": [
+          "Cast member Sai Pallavi offered distinct insights into the underlying themes of the narrative during the premiere event, noting that the character of Ravana is not written as purely villainous and encouraging audiences to reflect on inner flaws.",
+          "Additionally, the actor expressed genuine hope that international moviegoers would embrace the project as a meaningful gateway into exploring broader aspects of traditional Indian culture."
+        ]
+      },
+      {
+        "h": "Global Distribution and Release Details",
+        "p": [
+          "The grand feature is scheduled to roll out globally across more than 100 countries, bringing its sweeping retelling of the ancient myth to international audiences on November 5, 2026.",
+          "The expansive distribution strategy sees Sony Pictures handling the international rollout, while Dharma Productions takes charge of bringing the epic home to domestic theaters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Early premiere reactions from Los Angeles have sparked massive comparisons to The Lord of the Rings, praising the grand scale and strong lead performances of the upcoming epic. While critics remain divided on the pacing and the cross-cultural musical blend, the film is set for a worldwide release across more than 100 countries."
+        ]
+      }
+    ],
+    "facts": [
+      "The first reactions for Ramayana dropped on October 28, 2026.",
+      "The premiere screening took place in Los Angeles on October 27, 2026.",
+      "Ranbir Kapoor stars as Prince Rama.",
+      "Yash stars as Ravana.",
+      "Sai Pallavi plays Sita.",
+      "Nitesh Tiwari directed the adaptation.",
+      "The music was composed by AR Rahman and Hans Zimmer.",
+      "Ramayana: Rise of a Legend releases worldwide on November 5, 2026, across more than 100 countries.",
+      "Sony Pictures handles international distribution while Dharma Productions distributes domestically."
+    ],
+    "entities": {
+      "people": [
+        "Vritti Johar",
+        "Nitesh Tiwari",
+        "Rama",
+        "Ranbir Kapoor",
+        "Yash",
+        "Theresa Simoni",
+        "Venky Reviews",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana",
+        "The Lord of the Rings",
+        "Ramayana Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana first reactions",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/MixCollage-29-Oct-2026-03-37-PM-1492.jpg?resize=1200,630",
+        "caption": "Ramayana Early Premiere Reactions Draw Major Lord of the Rings Comparisons",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 04:38:09 +0000"
   }
 };
