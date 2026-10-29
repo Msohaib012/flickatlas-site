@@ -21,6 +21,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Offline viewer-review regression tests
+        run: |
+          node --check scripts/worker.mjs
+          node scripts/test_viewer_reviews.js
+          node scripts/test_viewer_review_worker.js
       - name: Deploy to Cloudflare
         id: cfdeploy
         env:

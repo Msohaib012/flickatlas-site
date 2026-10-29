@@ -382,9 +382,9 @@
         </div>
         <p class="rate-hint" id="rateHint">Tap a star to rate</p>
         <input type="text" id="rateName" maxlength="30" placeholder="Your name (optional)" autocomplete="nickname" style="width:100%;box-sizing:border-box;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:inherit;margin-bottom:12px;background:#fff;color:var(--ink)">
-        <textarea id="rateComment" rows="3" maxlength="500" placeholder="Write a comment"></textarea>
+        <textarea id="rateComment" rows="3" maxlength="500" placeholder="Write a comment (optional)"></textarea>
         <button type="button" class="btn btn-teal" id="rateSubmit">Submit Rating</button>
-        <p class="prov-note">Your review is public \u2014 it shows to everyone on FlickAtlas, with your stars and comment.</p>
+        <p class="prov-note">Your rating is public. Comments are optional. You can delete your own review from this browser.</p>
       </div>
     </section>`}
 
@@ -395,12 +395,14 @@
 
   </div>`;
 
-    /* Shared viewer reviews (owner order 2026-10-28): reviews are
-       PUBLIC — POSTed to /api/review, stored in Cloudflare KV, and shown
-       to every visitor below the form. Nothing about a review lives in
-       localStorage: the only local marker is fa-reviewed-<id> (a
-       timestamp), used solely to grey out the form for a day after you
-       post — never as the store. */
+    /* Shared viewer reviews are public in KV. A random per-review owner
+       token stays in this browser's localStorage; only its SHA-256 hash is
+       stored server-side, so only this browser can delete that review. */
+    const reviewInputError = (stars, text) => {
+      if (!Number.isInteger(stars) || stars < 1 || stars > 5) return "Please pick a star rating first.";
+      if (String(text || "").trim().length > 500) return "Please keep comments to 500 characters or fewer.";
+      return "";
+    };
     const renderStars = (n) => {
       let out = "";
       for (let i = 1; i <= 5; i++) out += `<span style="color:${i <= n ? "var(--gold)" : "var(--muted)"}">\u2605</span>`;
@@ -408,7 +410,11 @@
     };
     const renderReviewItem = (r) => {
       const when = r.at ? UI.relTime(r.at) : "";
-      return `<div class="content-card" style="margin-top:12px"><div><b>${renderStars(Number(r.s) || 0)}</b> <span style="color:var(--muted)">${UI.esc(r.n || "A FlickAtlas viewer")}${when ? ` \u00b7 ${UI.esc(when)}` : ""}</span></div><p style="margin:8px 0 0">${UI.esc(r.c || "")}</p></div>`;
+      const reviewId = typeof r.rid === "string" && /^[a-f0-9]{32}$/i.test(r.rid) ? r.rid : "";
+      const canDelete = r.mine === true && !!reviewId;
+      const text = typeof r.c === "string" ? r.c.trim() : "";
+      const deleteButton = canDelete ? `<button type="button" data-review-delete data-review-rid="${reviewId}" aria-label="Delete your review" style="margin-top:10px;padding:6px 0;border:0;background:transparent;color:var(--muted);font:inherit;text-decoration:underline;cursor:pointer">Delete your review</button>` : "";
+      return `<div class="content-card" style="margin-top:12px"><div><b>${renderStars(Number(r.s) || 0)}</b> <span style="color:var(--muted)">${UI.esc(r.n || "A FlickAtlas viewer")}${when ? ` \u00b7 ${UI.esc(when)}` : ""}</span></div>${text ? `<p style="margin:8px 0 0">${UI.esc(text)}</p>` : ""}${deleteButton}</div>`;
     };
     const aggText = (average, count) =>
       (average == null ? "No viewer reviews yet \u2014 be the first to rate this movie."
@@ -424,6 +430,74 @@
       const agg = main.querySelector("#viewerAgg");
       if (agg) agg.textContent = aggText(average, count);
     };
+    let viewerReviews = [];
+    let reviewsVersion = 0;
+    const rateKey = `fa-reviewed-${id}`;
+    const ownerKey = `fa-review-owners-${id}`;
+    const ownerTokenPattern = /^[a-f0-9]{64}$/i;
+    const reviewIdPattern = /^[a-f0-9]{32}$/i;
+    const sessionOwnerTokens = new Map();
+    let pendingOwnerToken = "";
+    const getOwnerState = () => {
+      try {
+        const saved = JSON.parse(localStorage.getItem(ownerKey) || "{}");
+        const rawItems = saved && saved.items && typeof saved.items === "object" && !Array.isArray(saved.items) ? saved.items : {};
+        const items = {};
+        Object.entries(rawItems).forEach(([rid, token]) => {
+          if (reviewIdPattern.test(rid) && ownerTokenPattern.test(token)) items[rid] = token;
+        });
+        const pending = saved && ownerTokenPattern.test(saved.pending || "") ? saved.pending : "";
+        return { items, pending };
+      } catch (_) { return { items: {}, pending: "" }; }
+    };
+    const saveOwnerState = (state) => {
+      try { localStorage.setItem(ownerKey, JSON.stringify(state)); } catch (_) {}
+    };
+    const getReviewOwnerTokens = () => {
+      const state = getOwnerState();
+      const tokens = [...Object.values(state.items), state.pending, pendingOwnerToken, ...sessionOwnerTokens.values()]
+        .filter(token => ownerTokenPattern.test(token));
+      return [...new Set(tokens)].slice(-50);
+    };
+    const getReviewOwnerTokenFor = (rid) => getOwnerState().items[rid] || sessionOwnerTokens.get(rid) || "";
+    const createReviewOwnerToken = () => {
+      try {
+        const bytes = new Uint8Array(32);
+        window.crypto.getRandomValues(bytes);
+        return [...bytes].map(b => b.toString(16).padStart(2, "0")).join("");
+      } catch (_) { return ""; }
+    };
+    const getOrCreatePendingReviewToken = () => {
+      const state = getOwnerState();
+      const current = state.pending || pendingOwnerToken;
+      if (ownerTokenPattern.test(current)) return current;
+      const token = createReviewOwnerToken();
+      if (token) {
+        pendingOwnerToken = token;
+        state.pending = token;
+        saveOwnerState(state);
+      }
+      return token;
+    };
+    const rememberReviewOwnerToken = (rid, token) => {
+      if (!reviewIdPattern.test(rid) || !ownerTokenPattern.test(token)) return;
+      sessionOwnerTokens.set(rid, token);
+      const state = getOwnerState();
+      state.items[rid] = token;
+      state.pending = "";
+      pendingOwnerToken = "";
+      const keys = Object.keys(state.items);
+      keys.slice(0, Math.max(0, keys.length - 50)).forEach(key => delete state.items[key]);
+      saveOwnerState(state);
+    };
+    const forgetReviewOwnerToken = (rid, token) => {
+      sessionOwnerTokens.delete(rid);
+      const state = getOwnerState();
+      delete state.items[rid];
+      if (state.pending === token) state.pending = "";
+      if (pendingOwnerToken === token) pendingOwnerToken = "";
+      saveOwnerState(state);
+    };
     const renderList = (items) => {
       const list = main.querySelector("#viewerList");
       if (!list) return;
@@ -431,13 +505,22 @@
       list.innerHTML = items.length ? items.map(renderReviewItem).join("") : "";
     };
     const loadReviews = async () => {
+      const version = reviewsVersion;
       try {
-        const res = await fetch(`/api/reviews?tmdb=${encodeURIComponent(id)}`);
+        const ownerTokens = getReviewOwnerTokens();
+        const options = ownerTokens.length ? { headers: { "x-review-owner-tokens": ownerTokens.join(",") }, cache: "no-store" } : undefined;
+        const res = await fetch(`/api/reviews?tmdb=${encodeURIComponent(id)}`, options);
         if (!res.ok) throw new Error("reviews " + res.status);
         const data = await res.json();
+        if (version !== reviewsVersion) return;
         paintShared(data.average == null ? null : Number(data.average), Number(data.count) || 0);
-        renderList(Array.isArray(data.items) ? data.items : []);
+        viewerReviews = Array.isArray(data.items) ? data.items : [];
+        const pending = getOwnerState().pending || pendingOwnerToken;
+        const pendingReview = pending && viewerReviews.find(item => item.mine === true && reviewIdPattern.test(item.rid || "") && !getReviewOwnerTokenFor(item.rid));
+        if (pendingReview) rememberReviewOwnerToken(pendingReview.rid, pending);
+        renderList(viewerReviews);
       } catch (_) {
+        if (version !== reviewsVersion) return;
         paintShared(null, 0);
         const card = main.querySelector("#apShared");
         if (card) { const meta = card.querySelector(".ap-meta"); if (meta) meta.textContent = "Viewer ratings unavailable"; }
@@ -449,7 +532,6 @@
     };
     loadReviews();
     try {
-      const rateKey = `fa-reviewed-${id}`;
       const stars = [...main.querySelectorAll(".rate-star")];
       const hint = main.querySelector("#rateHint");
       const comment = main.querySelector("#rateComment");
@@ -471,23 +553,76 @@
       };
       const setDone = () => {
         if (submit) { submit.disabled = true; submit.textContent = "Thanks \u2014 review posted \u2713"; }
-        if (hint) hint.textContent = "You already reviewed this movie today.";
+        if (hint) hint.textContent = "You recently rated this movie; the 24-hour limit is active.";
       };
+      const reviewList = main.querySelector("#viewerList");
+      if (reviewList) reviewList.addEventListener("click", async (event) => {
+        const button = event.target && event.target.closest ? event.target.closest("[data-review-delete]") : null;
+        if (!button) return;
+        const rid = button.getAttribute("data-review-rid") || "";
+        const review = viewerReviews.find(item => item.mine === true && item.rid === rid);
+        const ownerToken = getReviewOwnerTokenFor(rid);
+        if (!review || !ownerToken) {
+          if (hint) hint.textContent = "This browser no longer has the private key for that review.";
+          return;
+        }
+        const commentText = (typeof review.c === "string" ? review.c : "").replace(/\s+/g, " ").trim().slice(0, 100);
+        const detail = commentText ? ` — “${commentText}${review.c.length > 100 ? "…" : ""}”` : "";
+        const confirmText = `Delete your ${Number(review.s)}-star review for ${title}${detail}? It will disappear publicly, and you can rate again.`;
+        if (!window.confirm(confirmText)) return;
+        button.disabled = true;
+        button.textContent = "Deleting…";
+        try {
+          const res = await fetch("/api/review", {
+            method: "DELETE",
+            headers: { "content-type": "application/json" },
+            body: JSON.stringify({ tmdb: id, rid, ownerToken }),
+          });
+          const data = await res.json().catch(() => null);
+          if (!res.ok || !data || !data.ok) throw new Error((data && data.error) || "Could not delete this review.");
+          reviewsVersion++;
+          viewerReviews = viewerReviews.filter(item => item.rid !== rid);
+          forgetReviewOwnerToken(rid, ownerToken);
+          picked = 0;
+          paint(0);
+          const retryAfterMs = Math.max(0, Number(data.retryAfterMs) || 0);
+          if (retryAfterMs === 0) {
+            try { localStorage.removeItem(rateKey); } catch (_) {}
+            already = false;
+            if (submit) { submit.disabled = false; submit.textContent = "Submit Rating"; }
+          } else {
+            const recentAt = Date.now() - Math.max(0, 86400000 - retryAfterMs);
+            try { localStorage.setItem(rateKey, String(recentAt)); } catch (_) {}
+            already = true;
+            if (submit) { submit.disabled = true; submit.textContent = "Rate again later"; }
+          }
+          paintShared(data.average == null ? null : Number(data.average), Number(data.count) || 0);
+          renderList(viewerReviews);
+          if (hint) hint.textContent = retryAfterMs === 0
+            ? "Your review was deleted. You can submit a new rating now."
+            : "Your review was deleted. Another rating from this connection is still within the 24-hour limit.";
+        } catch (e) {
+          button.disabled = false;
+          button.textContent = "Delete your review";
+          if (hint) hint.textContent = e.message || "Could not delete this review.";
+        }
+      });
       stars.forEach(s => s.addEventListener("click", () => { if (already) return; picked = Number(s.dataset.value); paint(picked); }));
       if (already) { paint(0); setDone(); }
       if (submit) submit.addEventListener("click", async () => {
         if (already) return;
-        if (!picked) { if (hint) hint.textContent = "Please pick a star rating first."; return; }
+        const validationError = reviewInputError(picked, comment ? comment.value : "");
+        if (validationError) { if (hint) hint.textContent = validationError; return; }
         const text = (comment.value || "").trim();
-        if (!text) { if (hint) hint.textContent = "Please write a comment."; return; }
         const nm = (nameInput.value || "").trim();
+        const ownerToken = getOrCreatePendingReviewToken();
         submit.disabled = true;
         submit.textContent = "Posting\u2026";
         try {
           const res = await fetch("/api/review", {
             method: "POST",
             headers: { "content-type": "application/json" },
-            body: JSON.stringify({ tmdb: id, stars: picked, comment: text, name: nm || undefined }),
+            body: JSON.stringify({ tmdb: id, stars: picked, comment: text, name: nm || undefined, ownerToken: ownerToken || undefined }),
           });
           const data = await res.json().catch(() => null);
           if (!res.ok || !data || !data.ok) {
@@ -495,14 +630,12 @@
           }
           try { localStorage.setItem(rateKey, String(Date.now())); } catch (_) {}
           already = true;
+          reviewsVersion++;
           paintShared(data.average == null ? null : Number(data.average), Number(data.count) || 0);
           if (data.review) {
-            const list = main.querySelector("#viewerList");
-            if (list) {
-              const empty = list.querySelector(".prov-note");
-              if (empty) list.innerHTML = "";
-              list.insertAdjacentHTML("afterbegin", renderReviewItem(data.review));
-            }
+            if (ownerToken && data.review.rid) rememberReviewOwnerToken(data.review.rid, ownerToken);
+            viewerReviews = [{ ...data.review, mine: !!ownerToken }, ...viewerReviews];
+            renderList(viewerReviews);
           }
           if (comment) comment.value = "";
           if (nameInput) nameInput.value = "";
@@ -542,9 +675,6 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this movie. Please try again.")}</div>`;
   }
 })();
-
-
-
 
 
 
