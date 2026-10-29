@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T10:21:37Z",
-    "run_id": "40671266222",
-    "status": "success",
-    "checked": {
-     "candidates": 110,
-     "detail": "RSS/Atom items across 137 sources; 18 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Anushka Sen joins Bonkers Corner as brand ambassador",
-      "Param Veer Title Reveal Video: Vardhaan Puri's NEXT; Director On Taking 'Family Legacy Forward'",
-      "Hanuman Ansh North America Box Office (Closing Collection): Wraps Up Its Blockbuster Run As Bollywood’s 5th Highest-Grosser Of 2026!",
-      "exclusive shivani raghuvanshi on dupahiya working with zoya akhtar and her journey in mumbai 86835.html",
-      "sharvari dances with og rajshri heroine madhuri dixit ahead of yeh prem mol liya release 86833.html",
-      "nitesh tiwari reveals ai will be used only for lip sync in ramayana 86834.html",
-      "bhuvan bam to kusha kapila digital creators making their mark in ott 86819.amp",
-      "Sai Pallavi stuns in Rs 1.59 lakh pink saree at Ramayana LA premiere",
-      "Radhika slams South film colourism; recalls traumatic Telugu sets",
-      "Ranbir on marriage mantra with Alia, makes Raha listen to Bachchan's Hanuman Chalisa",
-      "Mira Rajput makes first TV appearance, joins Shahid Kapoor and Ishaan Khatter on The Great Indian Kapil Show",
-      "why sexual health often requires more than one specialist 3077168.html",
-      "india invite pakistan for sco civilisational dialogue forum aurangzeb khan khichi new delhi operation sindoor mmtc 2682397 2026 10 28",
-      "7 best aditi rao hydari performances you must watch on ott photo gallery 156421476",
-      "‘One Cut of the Dead’ Director Ueda Shinichiro on Turning a Microdrama Into Tokyo Feature ‘Earthlings in Love’",
-      "Amazon MGM Studios Japan ‘Doubling’ Investment to Meet Global Standards, Local Chief Buddy Marini Reveals at Tokyo Market",
-      "Russell Brand Forcefully Denies Charges As He Gives Evidence During Rape Trial",
-      "Banijay Rights Names CFO As John Wagener Exits After 20 Years",
-      "Netflix Lifts Lid On German Romantic Comedy ‘Oktoberfest’",
-      "‘Project Hail Mary,’ ‘Disclosure Day’ and Int’l Awards Contenders Pack Camerimage Lineup"
-     ],
-     "updated": [],
-     "count": 56,
-     "detail": "57 stories, 0 duplicates removed, 53 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-28T10:42:36Z",
     "run_id": "40673990146",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "97 stories, 1 duplicates removed, 7 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-28T10:21:47Z",
-    "run_id": "40671266222",
+    "run_at": "2026-10-29T09:51:15Z",
+    "run_id": "40852786618",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 101,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Russell Brand Takes the Stand as Defense Opens Testimony at Southwark Crown Court",
-      "Keanu Reeves Steps Into Netflix Action Thriller Maelstrom"
+      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal",
+      "The Traitors Telugu: Who Is Shravya Varma? Is Ram Gopal Varma’s Niece The Mastermind Behind The Mind Games?",
+      "Bigg Boss 20 Elimination Update: Will Gullu Get Evicted For Violating BB Rules? Here’s What Fans Have To Say",
+      "Immortal OTT Release Time: When And Where To Watch GV Prakash Kumar And Kayadu Lohar Film Online",
+      "Ali Fazal Gets Emotional As Mirzapur Is Named Most-Watched Show Of The Decade, Says Guddu Pandit’s Love Is Spe",
+      "Udta Teer Box Office Collection Day 6: Becomes Ayushmann Khurrana’s 5th Highest-Grossing Film Post-COVID",
+      "Dorothy Box Office (Closing Collection): Wraps Up With Nearly 60% ROI",
+      "Jailer 2 Box Office Nears ₹500 Cr India Gross to Become Only 2nd Tamil Film to Do So",
+      "Ahaan's new avatar: Vijay hails ‘immensely talented’ star",
+      "Rishab Shetty remembers Puneeth Rajkumar on fifth death anniversary",
+      "Dhanush follows Vijay’s footsteps as 'OM' actor's political entry buzz grows",
+      "Ranbir reveals how he proposed to Alia: 'There were three lions, my sherni, main chuha banke..'",
+      "Janhvi Kapoor finally confirms she is dating Shikhar Pahariya, reveals marriage plans on Koffee With Karan",
+      "Jamie Dornan says Viggo Mortensen will always be his Aragorn in ''Lord of the Rings''",
+      "Kunal Kapoor, who plays Indra Dev in Ramayana, says one of the biggest things holding India back is ‘our fear of failure’",
+      "Ramayana unveils Judi Jodi on Karwa Chauth, celebrates Rama-Sita's sacred union",
+      "Ramayana's Namit Malhotra lost 90% wealth in 2008: How he made a Rs 4,000 crore film",
+      "Tiger Shroff To Resume Lag Jaa Gale Shoot Weeks After Shooting Incident; Location Details Under Wraps",
+      "Chris Pratt Officially Returns to Streaming in 1 Month With New Military Thriller",
+      "The 10 Greatest Live Rock Albums Released in the 70s, Ranked"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 97,
+     "detail": "100 stories, 1 duplicates removed, 1 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:52:18Z",
+    "run_id": "40852786618",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Releases New Song Judi Jodi Featuring Ranbir Kapoor and Sai Pallavi on Karwa Chauth",
+      "Chris Pratt Suits Up as a Navy SEAL in Upcoming Apple TV Film Way of the Warrior Kid"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-28T10:21:48Z",
-    "run_id": "40671266222",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 6, coming 9"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 26, coming 7"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-29T09:52:18Z",
+    "run_id": "40852786618",
+    "status": "success",
+    "checked": {
+     "candidates": 33,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 26, coming 7"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2129,27 +2119,26 @@
      "count": 2
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-28T10:26:29Z",
-    "run_id": "40671266222",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-29T09:52:19Z",
+    "run_id": "40852786618",
     "status": "success",
     "checked": {
-     "candidates": 208,
-     "detail": "208 collected staging rows from readers; 94 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 24,
-     "detail": "+0 new rows, 24 updated rows, 184 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2563,19 +2552,27 @@
      "detail": "+0 new rows, 91 updated rows, 202 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T09:52:18Z",
+    "run_id": "40852786618",
+    "status": "success",
+    "checked": {
+     "candidates": 293,
+     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 290 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2818,30 +2815,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-28T10:47:40Z",
-    "run_id": "40673990146",
-    "status": "success",
-    "checked": {
-     "candidates": 88,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Kartik Aaryan Roped In To Lead Vivek Agnihotri's Operation Sindoor",
-      "Karan Johar Celebrates Decade of 'Ae Dil Hai Mushkil' With Notes on Unrequited Love"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 88 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3306,19 +3292,30 @@
      "detail": "api-news.json 58 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:52:19Z",
+    "run_id": "40852786618",
+    "status": "success",
+    "checked": {
+     "candidates": 60,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Releases New Song Judi Jodi Featuring Ranbir Kapoor and Sai Pallavi on Karwa Chauth",
+      "Chris Pratt Suits Up as a Navy SEAL in Upcoming Apple TV Film Way of the Warrior Kid"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 60 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3576,19 +3573,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3849,29 +3846,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-28T10:21:47Z",
-    "run_id": "40671266222",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 56 still unprocessed; today by category: movies 4/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 6/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Russell Brand Takes the Stand as Defense Opens Testimony at Southwark Crown Court",
-      "Keanu Reeves Steps Into Netflix Action Thriller Maelstrom"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4316,19 +4303,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:52:18Z",
+    "run_id": "40852786618",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 97 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Releases New Song Judi Jodi Featuring Ranbir Kapoor and Sai Pallavi on Karwa Chauth",
+      "Chris Pratt Suits Up as a Navy SEAL in Upcoming Apple TV Film Way of the Warrior Kid"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4571,24 +4568,19 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 168,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4908,24 +4900,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 218,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5235,19 +5227,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5497,19 +5494,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5744,19 +5741,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5982,6 +5979,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-29T09:04:28Z",
     "run_id": "40845061256",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5992,16 +5999,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-28T10:47:48Z",
     "run_id": "40673990146",
     "status": "skipped",
@@ -6224,6 +6221,16 @@
     "category": "OTT",
     "run_at": "2026-10-29T09:04:28Z",
     "run_id": "40845061256",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6234,16 +6241,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-28T10:26:39Z",
-    "run_id": "40671266222",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-28T10:47:48Z",
     "run_id": "40673990146",
     "status": "skipped",
@@ -6470,6 +6467,16 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
@@ -6685,8 +6692,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-29T09:52:30Z",
+    "run_id": "40852786618",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-29T09:04:28Z"
+ "updated_at": "2026-10-29T09:52:30Z"
 }

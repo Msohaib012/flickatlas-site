@@ -16512,5 +16512,223 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 13:18:00 +0530"
+  },
+  "1kcmygp": {
+    "id": "1kcmygp",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Releases New Song Judi Jodi Featuring Ranbir Kapoor and Sai Pallavi on Karwa Chauth",
+    "dek": "The creators of Ramayana: Part 1 have unveiled a new musical track titled Judi Jodi on Karwa Chauth, highlighting the sacred union of Lord Rama and Goddess Sita.",
+    "body": [
+      {
+        "h": "Introduction of Judi Jodi",
+        "p": [
+          "The production team behind Ramayana: Part 1 chose the festive occasion of Karwa Chauth to release a brand new song titled Judi Jodi. The track centers on the divine and eternal bond shared between Lord Rama and Goddess Sita.",
+          "Fans can access the newly launched track across multiple platforms, as it has been made available on the official YouTube channels of World of Ramayana and T-Series, alongside various prominent music streaming services."
+        ]
+      },
+      {
+        "h": "Visuals and Musical Composition",
+        "p": [
+          "Set against the thematic backdrop of the sacred wedding between Rama and Sita, the song captures themes centred around deep love, unwavering faith, and lifelong companionship.",
+          "The musical composition for this special track has been crafted by acclaimed composer AR Rahman, with the lyrical verses penned by Dr Kumar Vishwas."
+        ]
+      },
+      {
+        "h": "Multilingual Release Strategy",
+        "p": [
+          "Demonstrating a vast regional reach, the song has been released simultaneously in five distinct languages: Hindi, Tamil, Telugu, Malayalam, and Kannada.",
+          "The creative team utilized social media channels to announce the release, encouraging audiences to celebrate Karwa Chauth with an eternal and divine love story."
+        ]
+      },
+      {
+        "h": "Vocalists and Lyric Adaptations",
+        "p": [
+          "A diverse roster of celebrated singers lends their voice to the five regional versions of the track. Shreya Ghoshal performs the Hindi rendition, Heer handles the Tamil version, and Sireesha Bhagavatula sings the Telugu edition.",
+          "Additionally, Amritha Suressh brings her vocals to the Malayalam version, while Pooja Vaidyanath performs the Kannada track. Dr Kumar Vishwas wrote the lyrics across all languages, with adaptations provided by Karthik Netha for Tamil, Rakendu Mouli for Telugu, Vinayak Sasikumar for Malayalam, and Karthik Saragur for Kannada."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "Ramayana: Part 1 features a prominent ensemble cast with Ranbir Kapoor stepping into the role of Lord Rama and Sai Pallavi portraying Goddess Sita. Other major cast members include Yash as Ravana, Sunny Deol as Hanuman, and Ravi Dubey as Lakshman.",
+          "The epic cinematic project is directed by Nitesh Tiwari and produced by Namit Malhotra’s Prime Focus Studios alongside DNEG and Yash’s Monster Mind Creations."
+        ]
+      },
+      {
+        "h": "Distribution and Release Schedule",
+        "p": [
+          "The multi-part epic is planned as a two-part cinematic venture, with Ramayana: Part 1 scheduled for a worldwide theatrical release on November 5, 2026, and the second part following during Diwali 2027. Both films will screen in IMAX and arrive in Hindi, Tamil, Telugu, Kannada, and Malayalam.",
+          "Global distribution outside India is managed by Sony Pictures, while Dharma Productions handles the Hindi-speaking market theatrical release. The official music tracks are issued under the T-Series label."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of Ramayana: Part 1 released the multi-language song Judi Jodi on Karwa Chauth to celebrate the divine union of Lord Rama and Goddess Sita. Composed by AR Rahman and featuring vocals by artists like Shreya Ghoshal, the track precedes the film's worldwide premiere on November 5, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Judi Jodi was released on Karwa Chauth, October 29, 2026.",
+      "Ramayana: Part 1 is scheduled for worldwide release on November 5, 2026.",
+      "Part 2 is set for release during Diwali 2027.",
+      "The song features Ranbir Kapoor as Rama and Sai Pallavi as Sita.",
+      "AR Rahman composed the music and Dr Kumar Vishwas wrote the lyrics.",
+      "Shreya Ghoshal sang the Hindi version of the track."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "AR Rahman",
+        "Dr Kumar Vishwas",
+        "Shreya Ghoshal",
+        "Heer",
+        "Sireesha Bhagavatula",
+        "Amritha Suressh",
+        "Pooja Vaidyanath",
+        "Karthik Netha",
+        "Rakendu Mouli",
+        "Vinayak Sasikumar",
+        "Karthik Saragur",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Judi Jodi"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ranbir Kapoor",
+      "Sai Pallavi",
+      "Yash",
+      "Judi Jodi"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/judi-jodi-song-from-ramayana-29474260-16x9_0.jpg?VersionId=ObdqFp0.pBUP7p2Hm3N9SuQgSUGqAVTv",
+        "caption": "Ramayana: Part 1 Releases New Song Judi Jodi Featuring Ranbir Kapoor and Sai Pallavi on Karwa Chauth",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 14:35:22 +0530"
+  },
+  "19xe7td": {
+    "id": "19xe7td",
+    "type": "news",
+    "headline": "Chris Pratt Suits Up as a Navy SEAL in Upcoming Apple TV Film Way of the Warrior Kid",
+    "dek": "Chris Pratt is heading back to streaming with a brand new military-themed project, stepping into the role of a Navy SEAL for the upcoming Apple TV adaptation.",
+    "body": [
+      {
+        "h": "A Return to Streaming",
+        "p": [
+          "Renowned Hollywood actor Chris Pratt is officially gearing up for his next major streaming appearance, which is scheduled to arrive in just one month. Known globally for anchoring massive blockbuster cinematic universes like Marvel and Jurassic World, the actor frequently balances high-profile theatrical releases with direct-to-consumer streaming projects. His latest venture shifts him away from the silver screen and brings him back into familiar tactical territory.",
+          "The upcoming project follows a string of diverse releases for Pratt over recent months. Earlier in the year, he paired up with actress Rebecca Ferguson for the science fiction artificial intelligence thriller Mercy. Although that particular film encountered financial hurdles at the box office against its substantial production budget, it managed to find immense popularity with home audiences, surging to become one of the most-streamed titles of the year on Prime Video."
+        ]
+      },
+      {
+        "h": "Finding Box Office Redemption",
+        "p": [
+          "While some of his streaming ventures cater to audiences at home, Pratt also secured major theatrical success recently. He found swift box office redemption when he took on a prominent role in The Super Mario Galaxy Movie. That animated feature dominated ticket sales globally, officially becoming the very first film of the year to cross the coveted one-billion-dollar milestone worldwide.",
+          "Despite his massive animated hits and sci-fi excursions, militaristic and tactical roles remain a defining staple of Pratt's career. His most notable episodic television endeavor has been The Terminal List. While that gritty series commanded immense fan attention, waiting for subsequent installments has proven to be a lengthy process for viewers compared to other streaming action dramas on the market."
+        ]
+      },
+      {
+        "h": "Stepping Into Apple TV's New Military Project",
+        "p": [
+          "In a matter of weeks, Pratt will transition to a brand new platform for a military-centric narrative that shares thematic DNA with his previous gritty work, though infused with significantly more emotional heart. The project in question is Way of the Warrior Kid, an original movie slated for release on Apple TV. Anticipation for the feature has steadily mounted among action enthusiasts.",
+          "The streaming platform kicked off the promotional campaign by dropping the official first trailer for Way of the Warrior Kid earlier in the week. The promotional footage immediately showcased Pratt looking completely at home while wearing the uniform of a Navy SEAL, signaling a tone that blends high-stakes tactical discipline with a grounded, character-driven narrative arc."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team Behind the Adaptation",
+        "p": [
+          "Beyond the headline-grabbing presence of Chris Pratt, the film boasts a compelling supporting cast. Way of the Warrior Kid features performances from notable actors Linda Cardellini and Jude Hill. The collaborative effort brings together a diverse group of talent to anchor the emotional core of the streaming feature.",
+          "The narrative is directly adapted from the popular published novel of the same name. Notably, the author of the original source material, Jocko Willink, crosses over into the cinematic adaptation by taking on an acting role in the film as Coach Adam, bringing authentic military perspective directly to the screen."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Leadership",
+        "p": [
+          "The creative forces shaping the production behind the camera include a seasoned pair of filmmakers. The screenplay for the adaptation was drafted by writer Will Staples, who translated the source material into a narrative fit for a feature-length streaming release.",
+          "Directing duties for Way of the Warrior Kid were handled by filmmaker McG. Together, the creative team aims to deliver a family-friendly yet inspiring military drama that highlights resilience, mentorship, and personal growth under pressure."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The central storyline of the film revolves around a young, self-doubting protagonist who struggles with being bullied at school. Feeling isolated and lacking confidence, the kid's life begins to turn around when his uncle, a battle-tested Navy SEAL, comes to stay at his home for the summer.",
+          "Through disciplined mentorship, guidance, and tough love from his uncle, the youngster gradually discovers his inner strength. The narrative tracks his journey toward finding genuine courage and finally learning how to stand up for himself against adversity."
+        ]
+      },
+      {
+        "h": "Release Details and Availability",
+        "p": [
+          "Fans eager to watch Chris Pratt's latest military drama won't have to wait much longer. Way of the Warrior Kid is officially scheduled to premiere on Apple TV.",
+          "The movie becomes available to stream starting on November 25. Viewers and enthusiasts can tune in directly to the platform to catch the release and follow related coverage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Pratt is returning to streaming services with his upcoming Apple TV military drama Way of the Warrior Kid, scheduled for release on November 25. The film, directed by McG and adapted from the novel by Jocko Willink, also features Linda Cardellini and Jude Hill in its cast. Pratt plays a Navy SEAL uncle who helps his bullied nephew find the courage to stand up for himself."
+        ]
+      }
+    ],
+    "facts": [
+      "Chris Pratt stars in Way of the Warrior Kid on Apple TV.",
+      "Way of the Warrior Kid is scheduled to be released on November 25.",
+      "The film also stars Linda Cardellini and Jude Hill.",
+      "The movie is based on the novel by Jocko Willink.",
+      "Jocko Willink stars in the film as Coach Adam.",
+      "Will Staples wrote the script for the film.",
+      "McG is the director of the film.",
+      "Mercy was a sci-fi thriller starring Chris Pratt and Rebecca Ferguson with a $60 million budget.",
+      "The Super Mario Galaxy Movie was the first film of 2026 to hit $1 billion at the global box office."
+    ],
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "Rebecca Ferguson",
+        "Linda Cardellini",
+        "Jude Hill",
+        "Jocko Willink",
+        "Will Staples",
+        "McG"
+      ],
+      "titles": [
+        "Mercy",
+        "The Super Mario Galaxy Movie",
+        "The Terminal List",
+        "Reacher",
+        "Way of the Warrior Kid",
+        "Avengers: Doomsday",
+        "The Penguin",
+        "Star Wars: Skeleton Crew",
+        "The Chosen",
+        "House of the Dragon",
+        "Planet of the Apes"
+      ]
+    },
+    "keywords": [
+      "Way of the Warrior Kid",
+      "Chris Pratt Apple TV movie",
+      "Way of the Warrior Kid release date",
+      "Jocko Willink Way of the Warrior Kid"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/chris-pratt.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Chris Pratt Suits Up as a Navy SEAL in Upcoming Apple TV Film Way of the Warrior Kid",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 09:30:12 GMT"
   }
 };
