@@ -27,8 +27,14 @@ jobs:
       - name: Offline OTT and Box Office display regression tests
         run: |
           node --check js/page-index.js
+          node --check js/page-news-item.js
+          node --check js/page-boxoffice-day.js
+          node --check js/article-keywords.js
           node scripts/test_listing_order.js
           node scripts/test_ott_boxoffice_display.js
+          node scripts/test_article_keywords.js
+          python3 scripts/test_daywise_30day_policy.py
+          python3 scripts/test_pipeline_schedule.py
           python3 scripts/test_recent_hindi_discovery.py
           python3 scripts/test_commit_with_retry_standalone.py
       - name: Offline viewer-review regression tests

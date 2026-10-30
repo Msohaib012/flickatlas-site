@@ -11,8 +11,8 @@ changes, so the hourly run does not force a spurious commit.
 Outputs:
   sitemap.xml      — one urlset: all listing pages + every movie/show
                      detail URL + every news article URL + every
-                     day-wise box-office URL (one per film per day,
-                     no limit) + category URLs.
+                     day-wise box-office URLs through theatrical Day 30;
+                     later records remain available only in aggregate totals.
   robots.txt       — Allow / (except /api/), Sitemap: flickatlas.co.uk.
   js/seo-meta.json — compact per-URL meta map the Cloudflare Worker
                      reads to inject <title>/meta/OG/JSON-LD into the
@@ -406,6 +406,14 @@ def news_meta(entry):
                                "url": BASE + "/icon-512.png"}},
         "mainEntityOfPage": "%s/news-item?id=%s" % (BASE, entry.get("id")),
     }
+    article_kws = []
+    seen_article_kws = set()
+    for kw in (entry.get("keywords") or [])[:12]:
+        if isinstance(kw, str) and kw.strip() and kw.strip().lower() not in seen_article_kws:
+            article_kws.append(kw.strip())
+            seen_article_kws.add(kw.strip().lower())
+    if article_kws:
+        ld["keywords"] = ", ".join(article_kws)
     if pub:
         ld["datePublished"] = pub
         ld["dateModified"] = pub
@@ -424,10 +432,11 @@ def daywise_meta(entry):
     total_in = sum((r.get("collection") or 0) for r in rows)
     total_ov = sum((r.get("overseas") or 0) for r in rows)
     latest = rows[-1] if rows else {}
-    d = trunc("%s box office collection day-wise: India Net %s across %d days%s. "
-              "Day-by-day collection, shows, occupancy and tickets." % (
-                  disp, fmt_money(total_in), len(rows),
-                  (", overseas %s" % fmt_money(total_ov)) if total_ov else ""),
+    d = trunc("%s box office: India Net %s%s across %d days. "
+              "Daily breakdown ends at Day 30; later days affect totals only." % (
+                  disp, fmt_money(total_in),
+                  (", overseas %s" % fmt_money(total_ov)) if total_ov else "",
+                  len(rows)),
               160)
     kws = ", ".join([title, "%s box office collection" % title,
                      "%s box office collection day wise" % title,
@@ -454,10 +463,9 @@ def _day_num(row, idx):
 
 
 def _valid_day_rows(rows):
-    """The day rows the day-wise page itself renders, in page order
-    (mirror of js/page-boxoffice-day.js `valid` + dedup + sort): a
-    YYYY-MM-DD date and a finite collection >= 0, one entry per day
-    number, sorted by day number. Only these days have a real page."""
+    """Sitemap-eligible day rows through theatrical Day 30, in page order:
+    valid YYYY-MM-DD date, finite collection >= 0, one entry per day,
+    sorted by day number. Later rows remain in the source for totals only."""
     seen = set()
     out = []
     for i, r in enumerate(rows or []):
@@ -470,6 +478,8 @@ def _valid_day_rows(rows):
                 or c < 0):
             continue
         n = _day_num(r, i)
+        if n < 1 or n > 30:
+            continue
         if n in seen:
             continue
         seen.add(n)
@@ -494,14 +504,11 @@ def build_sitemap(lastmods):
         lm = e.get("_pub") or lastmods["max"]
         urls.append(("%s/news-item?id=%s" % (BASE, slug), lm, "weekly", "0.7"))
     for tid in sorted(DAYWISE, key=lambda x: int(x)):
-        # NO LIMIT (owner order 2026-10-28: 1-to-all, every post even
-        # the smallest): one URL per film per day, not one per film.
-        # Each day is a real page — the Worker injects a day-specific
-        # title (daywiseTitle) and the page renders that day's
-        # collection — so each day gets its own URL with that day's
-        # date as lastmod. The bare ?title= URL is NOT listed: it
-        # renders the same content as the latest day, so listing it
-        # next to the latest-day URL would be a duplicate.
+        # One URL per film per theatrical day, capped at Day 30. Later
+        # daily rows stay in the data so the totals include every reported
+        # day, but they are neither individual pages nor sitemap entries.
+        # The bare ?title= URL is not listed because it duplicates the
+        # latest day (or the totals-only fallback after Day 30).
         for n, r in _valid_day_rows(DAYWISE[tid]):
             lm = r.get("date") or lastmods["max"]
             urls.append(("%s/box-office-day?title=%s&day=%d"
@@ -594,5 +601,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-

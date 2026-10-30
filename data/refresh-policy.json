@@ -64,14 +64,15 @@
   {
    "id": "boxoffice",
    "label": "Box Office",
-   "cadence": "Sacnilk every 3h; FNN every 4h; WordPress/BollyBourse/Filmibeat every 6h; MovieMint daily. Local averaging hourly.",
+   "cadence": "Tavily search + Gemini evidence review at 13:35 and 23:35 PKT via the existing :35 UTC hourly workflow; other readers keep their current cadence. Local averaging remains hourly.",
    "sources": [
     "sacnilk_boxoffice",
     "fnn_boxoffice",
     "wp_boxoffice",
     "bollybourse_boxoffice",
     "filmibeat_boxoffice",
-    "moviemint_boxoffice"
+    "moviemint_boxoffice",
+    "tavily_boxoffice"
    ],
    "order": "Newest movie release first"
   },

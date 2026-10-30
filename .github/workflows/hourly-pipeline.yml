@@ -260,7 +260,7 @@ jobs:
             python3 scripts/tavily_boxoffice.py --stage out/boxoffice-staging --evidence-out "$EVIDENCE" || echo "tavily search failed; retaining last-good Tavily staging"
             python3 scripts/gemini_boxoffice.py --evidence "$EVIDENCE" --staging out/boxoffice-staging --out out/boxoffice-staging/tavily.json || echo "Gemini review failed; retaining last-good Tavily staging"
           else
-            echo "tavily/Gemini verification gated off this hour (runs 08:00/18:00 UTC)"
+            echo "tavily/Gemini verification gated off this hour (existing runs: 08:35/18:35 UTC = 13:35/23:35 PKT)"
           fi
           python3 scripts/multisource_boxoffice.py --staging out/boxoffice-staging
           # Worldwide totals (2026-10-28): merges *-worldwide.json staging

@@ -571,6 +571,10 @@
   const displayFacts = (article.facts || []).filter(f =>
     !(whenText && String(f.k || "").toLowerCase() === "published") &&
     !((it.cats || []).length && String(f.k || "").toLowerCase() === "coverage"));
+  const articleKeywordList = window.FAArticleKeywords
+    ? window.FAArticleKeywords.normalize(article.keywords) : [];
+  const articleKeywordsHtml = window.FAArticleKeywords
+    ? window.FAArticleKeywords.render(articleKeywordList, UI.esc) : "";
   const boxOfficeText = article.headline || it.title || "";
   const isBoxOfficePost = /box[\s-]?office|collection|worldwide gross/i.test(boxOfficeText);
   const relatedMovie = enrich.td && enrich.td.type === "movie" ? enrich.td : null;
@@ -674,6 +678,7 @@
     </header>
     ${imagesHtml}
     ${epDetailsHtml}${epSummaryHtml}${epEmbedHtml}
+    ${articleKeywordsHtml}
     ${relatedHtml}
     ${moreEpHtml}
   </div>`;
@@ -699,6 +704,7 @@
         (typeof f === "string" || !f.k)
           ? `<div class="fact-row"><dd>${UI.escRich(typeof f === "string" ? f : (f.v || ""))}</dd></div>`
           : `<div class="fact-row"><dt>${UI.esc(f.k)}</dt><dd>${UI.escRich(f.v)}</dd></div>`).join("")}</dl></div>` : ""}
+    ${articleKeywordsHtml}
     ${relatedHtml}
     ${more.length ? `<section class="section"><div class="section-head"><h2>More Headlines</h2>
       <a class="see-all" href="/news">See All →</a></div>
@@ -718,13 +724,14 @@
     jsonld: { "@context": "https://schema.org", "@type": isBollywood && !fullArt ? "WebPage" : "NewsArticle",
       "headline": article.headline || it.title,
       "url": CONFIG.BASE + `/news-item?id=${encodeURIComponent(id)}`,
+      ...(articleKeywordList.length ? { "keywords": articleKeywordList.join(", ") } : {}),
       ...(when ? { "datePublished": when.toISOString() } : {}),
       "author": { "@type": "Organization", "name": "FlickAtlas" },
       "publisher": { "@type": "Organization", "name": "FlickAtlas" },
       ...(article.dek ? { "description": article.dek.slice(0, 200) } : {}) }
   });
 
-  /* Top Searches removed (owner order 2026-10-28): keywords live in metadata only (scripts/seo_assets.py). */
+  /* Keywords are visible only when already present in the saved article record;
+     this rendering path does not generate or fetch new terms. */
 })();
-
 

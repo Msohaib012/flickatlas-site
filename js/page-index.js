@@ -350,11 +350,12 @@
 
     /* ---------- Box Office homepage: active-film leaders, per industry.
        Prefer releases from the latest 14 days. Within each age group,
-       rank titles with numeric daily rows explicitly scoped as worldwide in
-       the latest 14 IST reporting dates by reported sum, then use Movies'
-       existing Popular order (rating, votes, newest release) to fill missing
-       slots. India Net, domestic, and other-territory data never display or
-       rank as worldwide; older releases enter only after recent ones. ---------- */
+       rank titles by source-backed worldwide daily values in the latest 14
+       IST reporting dates, then use Movies' existing Popular order (rating,
+       votes, newest release) to fill missing slots. An explicit worldwide row
+       is used as-is; otherwise India Net + Overseas is worldwide only when
+       both components are reported for that same day. Never show India Net
+       alone as worldwide; older releases enter only after recent ones. ---------- */
     const boxOfficeReleaseCutoffDate = new Date(today + "T00:00:00Z");
     boxOfficeReleaseCutoffDate.setUTCDate(boxOfficeReleaseCutoffDate.getUTCDate() - 14);
     const boxOfficeReleaseCutoff = boxOfficeReleaseCutoffDate.toISOString().slice(0, 10);
@@ -370,10 +371,58 @@
       if (mo < 1 || mo > 12) return "";
       return `${+m[3]} ${MO[mo - 1]}`;
     };
+    const boWorldwideAmount = (r) => {
+      if (!r || typeof r.date !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(r.date)) return null;
+      if (r.scope === "worldwide") {
+        return Number.isFinite(r.collection) && r.collection >= 0 ? r.collection : null;
+      }
+      const scope = String(r.scope || "").trim().toLowerCase();
+      if (scope && !["india_net", "india-net", "india net"].includes(scope)) return null;
+      if (!Number.isFinite(r.collection) || r.collection < 0
+        || !Number.isFinite(r.overseas) || r.overseas < 0) return null;
+      return r.collection + r.overseas;
+    };
+    const boWorldwideRows = (rows) => {
+      const byDate = new Map();
+      const duplicateDates = new Set();
+      for (const r of rows || []) {
+        const amount = boWorldwideAmount(r);
+        if (amount === null) continue;
+        if (byDate.has(r.date)) {
+          byDate.delete(r.date);
+          duplicateDates.add(r.date);
+          continue;
+        }
+        if (!duplicateDates.has(r.date)) byDate.set(r.date, { ...r, scope: "worldwide", collection: amount });
+      }
+      return Array.from(byDate.values()).sort((a, b) => a.date.localeCompare(b.date));
+    };
+    const boDerivedWorldwideTotal = (rows, releaseDate) => {
+      if (!Array.isArray(rows) || !rows.length || !/^\d{4}-\d{2}-\d{2}$/.test(String(releaseDate || ""))) return null;
+      const byDay = new Map();
+      for (const r of rows) {
+        const m = String(r && r.day != null ? r.day : "").match(/(\d+)/);
+        const day = m ? Number(m[1]) : 0;
+        const amount = boWorldwideAmount(r);
+        if (!Number.isInteger(day) || day < 1 || amount === null || byDay.has(day)) return null;
+        byDay.set(day, { amount, date: r.date });
+      }
+      const maxDay = Math.max(...byDay.keys());
+      if (byDay.size !== maxDay || byDay.get(1).date !== releaseDate) return null;
+      let total = 0;
+      let asOf = "";
+      for (let day = 1; day <= maxDay; day++) {
+        const item = byDay.get(day);
+        const expectedDate = new Date(releaseDate + "T00:00:00Z");
+        expectedDate.setUTCDate(expectedDate.getUTCDate() + day - 1);
+        if (!item || item.date !== expectedDate.toISOString().slice(0, 10)) return null;
+        total += item.amount;
+        if (item.date > asOf) asOf = item.date;
+      }
+      return Number.isFinite(total) ? { total_usd: total, through_day: maxDay, as_of: asOf } : null;
+    };
     const boCardHtml = (entry, rows) => {
-      const clean = (rows || []).filter(r => r && r.scope === "worldwide"
-        && typeof r.date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(r.date)
-        && Number.isFinite(r.collection) && r.collection >= 0);
+      const clean = boWorldwideRows(rows);
       /* The Today cell requests the current IST reporting day. An older
          source row must not relabel today's missing figure as yesterday. */
       const latestDate = todayIST;
@@ -388,7 +437,18 @@
       const date = entry.release_date || "";
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? UI.esc(UI.titleOf(entry)) + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
-      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Worldwide box office summary"><div title="Today's reported worldwide collection · ${UI.esc(todayIST)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 worldwide dates reported" : "No worldwide daily rows reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 worldwide days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${(() => { const ww = (window.FA_WORLDWIDE || {})[String(entry.id)]; if (ww && ww.scope === "worldwide" && Number.isFinite(ww.total_usd) && ww.total_usd >= 0) return `<div title="Worldwide theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")}"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`; return `<div title="No published worldwide total; India Net, domestic, and other-territory figures are intentionally omitted"><dt>Worldwide total</dt><dd>${missing}</dd></div>`; })()}</dl></a>`;
+      const totalHtml = (() => {
+        const ww = (window.FA_WORLDWIDE || {})[String(entry.id)];
+        if (ww && ww.scope === "worldwide" && Number.isFinite(ww.total_usd) && ww.total_usd >= 0) {
+          return `<div title="Published worldwide theatrical total · ${UI.esc(ww.source || "")} · as of ${UI.esc(ww.as_of || "")}"><dt>Worldwide total</dt><dd>${UI.fmtMoney(ww.total_usd)}</dd></div>`;
+        }
+        const derived = boDerivedWorldwideTotal(rows, date);
+        if (derived) {
+          return `<div title="Sum of reported India Net + Overseas daily figures through Day ${derived.through_day} · as of ${UI.esc(derived.as_of)}"><dt>Worldwide total</dt><dd>${UI.fmtMoney(derived.total_usd)}</dd></div>`;
+        }
+        return `<div title="No complete published worldwide total; India Net alone is not shown as worldwide"><dt>Worldwide total</dt><dd>${missing}</dd></div>`;
+      })();
+      return `<a class="fa-box-latest-card" data-movie-id="${UI.esc(entry.id)}" data-release="${UI.esc(date)}" href="/movie?id=${entry.id}" aria-label="${UI.esc(UI.titleOf(entry))} — box office details"><div class="fa-box-card-head">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${UI.esc(UI.titleOf(entry))}">${UI.esc(UI.titleOf(entry))}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></div><dl aria-label="Worldwide box office summary; daily figures use India Net + Overseas only when both are reported"><div title="Today's reported worldwide collection (India Net + Overseas when both are present) · ${UI.esc(todayIST)} IST"><dt>Today${latestDate ? ` · ${shortDate(latestDate)}` : ""}</dt><dd>${todayRows.length ? UI.fmtMoney(todaySum) : missing}</dd></div><div title="${UI.esc(weekDays ? weekDays + " of 7 worldwide dates reported" : "No worldwide daily rows reported for this period")} · ${UI.esc(weekStart)} to ${UI.esc(todayIST)} IST"><dt>7 Days</dt><dd>${weekRows.length ? `${UI.fmtMoney(weekSum)}${weekDays < 7 ? `<abbr class="fa-box-partial" title="${UI.esc(weekDays + " of 7 worldwide days reported · partial")}">${weekDays}/7</abbr>` : ""}` : missing}</dd></div>${totalHtml}</dl></a>`;
     };
     /* Box Office sort: source-backed 14-day worldwide sums first, then the
        site's existing Movies > Popular order for titles without valid rows.
@@ -401,11 +461,10 @@
       if (!Array.isArray(rows)) return false;
       const byDate = new Map();
       for (const r of rows) {
-        if (!r || r.scope !== "worldwide" || typeof r.date !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(r.date)
-          || r.date < boxOfficeReportStart || r.date > todayIST
-          || !Number.isFinite(r.collection) || r.collection < 0) continue;
+        const amount = boWorldwideAmount(r);
+        if (amount === null || r.date < boxOfficeReportStart || r.date > todayIST) continue;
         if (byDate.has(r.date)) return false;
-        byDate.set(r.date, r.collection);
+        byDate.set(r.date, amount);
       }
       if (!byDate.size) return false;
       const values = Array.from(byDate.values());
@@ -1288,9 +1347,6 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
-
-
-
 
 
 

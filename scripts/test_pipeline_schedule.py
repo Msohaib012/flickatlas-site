@@ -27,6 +27,17 @@ class Gates(unittest.TestCase):
         self.assertTrue(p.due('trending_weekly', {}, at(12)))
         self.assertTrue(p.due('trending_weekly', {}, at(18)))
 
+    def test_tavily_gemini_preserves_existing_two_hourly_slots(self):
+        policy = p.POLICIES['tavily_boxoffice']
+        self.assertEqual(policy['hours'], [8, 18])
+        self.assertEqual(policy['interval_hours'], 12)
+        self.assertEqual([(hour + 5) % 24 for hour in policy['hours']],
+                         [13, 23])
+        for hour in (8, 18):
+            self.assertTrue(p.due('tavily_boxoffice', {}, at(hour)))
+        for hour in (9, 13, 17, 20):
+            self.assertFalse(p.due('tavily_boxoffice', {}, at(hour)))
+
     def test_success_only_catchup_and_duplicate_suppression(self):
         rec = {'last_success': p.iso(at(0)), 'last_run': p.iso(at(0)), 'last_status': 'success'}
         self.assertFalse(p.due('trending_worldwide', rec, at(7)))
@@ -122,6 +133,20 @@ class SourceStaging(unittest.TestCase):
         self.assertEqual([x['day'] for x in merged['1']], [1, 2])
         self.assertNotIn('2', merged)
         self.assertEqual(r.valid_data({'1': [self.row(value=float('nan'))]}), {})
+
+
+class PublicPolicy(unittest.TestCase):
+    def test_export_reports_tavily_slots_and_hourly_offset(self):
+        with tempfile.TemporaryDirectory() as td:
+            value = p.export_public(td)
+            check = value['checks']['tavily_boxoffice']
+            self.assertEqual(check['hours_utc'], [8, 18])
+            self.assertEqual(check['hours_pkt'], [13, 23])
+            self.assertIn(':35 UTC', value['scheduler'])
+            boxoffice = next(c for c in value['cycles'] if c['id'] == 'boxoffice')
+            self.assertIn('tavily_boxoffice', boxoffice['sources'])
+            for slot in ('13:35', '23:35'):
+                self.assertIn(slot, boxoffice['cadence'])
 
 
 if __name__ == '__main__':

@@ -60,6 +60,28 @@
     .sort((a, b) => a._n - b._n);
   /* No (valid) day given — show the latest recorded day instead of an empty page. */
   if (!day) day = clean.length ? clean[clean.length - 1]._n : 0;
+  if (day > 30) {
+    const poster = UI.img(d.poster_path, "w342");
+    const table = UI.dailyCollectionCard(clean, String(titleId));
+    main.innerHTML = `<div class="wrap">
+      <p class="article-crumb"><a href="/movie?id=${encodeURIComponent(titleId)}">← ${UI.esc(title)}</a> · <a href="/box-office">Box Office</a></p>
+      <section class="detail-hero"><div class="detail-in">
+        ${poster ? `<div class="detail-poster"><img src="${poster}" alt="${UI.esc(title)} poster" loading="eager" decoding="async" onerror="this.remove()"></div>` : ""}
+        <div class="detail-main"><h1>${UI.esc(title)}</h1><p class="detail-sub">Box office totals after theatrical Day 30</p></div>
+      </div></section>
+      <div class="content-card"><h2>Totals only after Day 30</h2>
+        <p>Individual day amounts are shown only for theatrical Days 1–30. Any later recorded days are included in aggregate totals, but are not displayed separately.</p>
+      </div>
+      ${table}
+    </div>`;
+    UI.setSEO({
+      title: `${title} — Box Office Totals After Day 30 | FlickAtlas`,
+      desc: `Box office reporting for ${title}: individual day-wise amounts are limited to theatrical Days 1–30; aggregate totals include every recorded day.`,
+      path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}`,
+      image: poster || "", noindex: true
+    });
+    return;
+  }
   const row = clean.find(r => r._n === day);
 
   if (!row) {
@@ -102,5 +124,4 @@
     image: poster || ""
   });
 })();
-
 

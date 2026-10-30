@@ -64,6 +64,30 @@ const worldwideDay = card(entry, [{ date: today, collection: 42, scope: 'worldwi
 assert.match(worldwideDay, /<dt>Today · 29 Oct<\/dt><dd>\$42<\/dd>/, 'only explicit worldwide daily rows may display');
 assert.match(worldwideDay, /<dt>7 Days<\/dt><dd>\$42/);
 assert.match(worldwideDay, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
+const combinedToday = card({ ...entry, release_date: today }, [{ day: 1, date: today, collection: 10, overseas: 5 }]);
+assert.match(combinedToday, /<dt>Today · 29 Oct<\/dt><dd>\$15<\/dd>/, 'India Net + Overseas is worldwide only when both same-day components are reported');
+assert.match(combinedToday, /<dt>7 Days<\/dt><dd>\$15<abbr class="fa-box-partial" title="1 of 7 worldwide days reported · partial">1\/7<\/abbr><\/dd>/);
+assert.match(combinedToday, /<dt>Worldwide total<\/dt><dd>\$15<\/dd>/, 'a complete Day 1 India Net + Overseas pair can provide a cumulative-to-date total');
+const completePairs = card(entry, [
+  { day: 1, date: '2026-10-20', collection: 10, overseas: 5 },
+  { day: 2, date: '2026-10-21', collection: 20, overseas: 7 },
+  { day: 3, date: '2026-10-22', collection: 30, overseas: 10 },
+]);
+assert.match(completePairs, /<dt>Worldwide total<\/dt><dd>\$82<\/dd>/, 'complete consecutive daily pairs sum to worldwide total');
+const incompletePairs = card(entry, [
+  { day: 1, date: '2026-10-20', collection: 10, overseas: 5 },
+  { day: 2, date: '2026-10-21', collection: 20 },
+]);
+assert.match(incompletePairs, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'missing overseas component blocks derived total');
+const mismatchedRelease = vm.runInNewContext(cardCode, { UI, todayIST: today, window: {} })(
+  entry, [{ day: 1, date: '2026-10-21', collection: 10, overseas: 5 }]
+);
+assert.match(mismatchedRelease, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'daily total cannot start after the movie release date');
+const mismatchedDayDates = card(entry, [
+  { day: 1, date: '2026-10-20', collection: 10, overseas: 5 },
+  { day: 2, date: '2026-10-23', collection: 20, overseas: 7 },
+]);
+assert.match(mismatchedDayDates, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'day labels cannot bridge missing calendar dates');
 const domesticDay = card(entry, [{ date: today, collection: 999, scope: 'domestic-only-so-far' }]);
 assert.match(domesticDay, /<dt>Today · 29 Oct<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
 const worldwideTotalWithIndiaRows = vm.runInNewContext(cardCode, {
@@ -184,13 +208,14 @@ assert.deepEqual(rankHome([
 const scopeFixture = [
   makeCandidate('world-row', '2026-10-23', 'bollywood', worldwideRows([{ date: today, collection: 20 }]), { vote_average: 0 }),
   makeCandidate('india-unscoped', '2026-10-23', 'bollywood', [{ date: today, collection: 999999999 }], { vote_average: 10 }),
+  makeCandidate('paired-india-overseas', '2026-10-23', 'bollywood', [{ day: 1, date: today, collection: 10, overseas: 5 }], { vote_average: 0 }),
   makeCandidate('domestic-row', '2026-10-23', 'bollywood', [{ date: today, collection: 999999999, scope: 'domestic-only-so-far' }], { vote_average: 9 }),
   makeCandidate('other-country-row', '2026-10-23', 'bollywood', [{ date: today, collection: 999999999, scope: 'us-domestic' }], { vote_average: 8 }),
   makeCandidate('noRows', '2026-10-23', 'bollywood', [], { vote_average: 7 }),
 ];
 assert.deepEqual(rankHome(scopeFixture), [
-  'world-row', 'india-unscoped', 'domestic-row', 'other-country-row', 'noRows',
-], 'only explicit 14-day worldwide rows outrank popularity; country/domestic rows and a lifetime worldwide total do not');
+  'world-row', 'paired-india-overseas', 'india-unscoped', 'domestic-row', 'other-country-row', 'noRows',
+], 'explicit worldwide rows and paired India Net+Overseas outrank popularity; India Net alone and domestic/country rows do not');
 
 const picksStart = listingSource.indexOf('  const picks =');
 const picksEnd = listingSource.indexOf('\n  main.innerHTML', picksStart);

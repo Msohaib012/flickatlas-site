@@ -100,6 +100,12 @@ function injectSeo(html, meta, canonical) {
   } else {
     out = out.replace(/<\/title>/i, function (m) { return m + "\n  " + '<meta name="keywords" content="' + esc(meta.k) + '">'; });
   }
+  if (meta.robots) {
+    const robotsTag = '<meta name="robots" content="' + esc(meta.robots) + '">';
+    const robotsRe = /<meta[^>]+name=["']robots["'][^>]*>/i;
+    if (robotsRe.test(out)) out = out.replace(robotsRe, robotsTag);
+    else out = out.replace(/<\/title>/i, function (m) { return m + "\n  " + robotsTag; });
+  }
   const ogType = OG_TYPE[(meta.ld && meta.ld["@type"]) || ""] || "website";
   const tags = [
     '<meta name="fa-seo" content="server">',
@@ -123,8 +129,15 @@ function injectSeo(html, meta, canonical) {
   return out;
 }
 function daywiseTitle(meta, day) {
-  if (day && /^\d+$/.test(day)) {
-    return meta.t + " Box Office Collection Day " + day + " \u2014 India Net & Overseas | FlickAtlas";
+  const requestedDay = day && /^\d+$/.test(day) ? Number(day) : 0;
+  const latestMatch = String(meta.latest_day || "").match(/\d+/);
+  const latestDay = latestMatch ? Number(latestMatch[0]) : 0;
+  const selectedDay = requestedDay || latestDay;
+  if (selectedDay > 30) {
+    return meta.t + " Box Office Totals After Day 30 \u2014 India Net & Overseas | FlickAtlas";
+  }
+  if (requestedDay) {
+    return meta.t + " Box Office Collection Day " + requestedDay + " \u2014 India Net & Overseas | FlickAtlas";
   }
   return meta.t + " Box Office Collection Day-Wise \u2014 India Net & Overseas | FlickAtlas";
 }
@@ -429,7 +442,19 @@ export default {
             const html = await res.text();
             const m2 = Object.assign({}, entry);
             if (key.indexOf("daywise:") === 0) {
-              m2.t = daywiseTitle(entry, url.searchParams.get("day"));
+              const dayParam = url.searchParams.get("day");
+              const requestedDay = dayParam && /^\d+$/.test(dayParam) ? Number(dayParam) : 0;
+              const latestMatch = String(entry.latest_day || "").match(/\d+/);
+              const selectedDay = requestedDay || (latestMatch ? Number(latestMatch[0]) : 0);
+              m2.t = daywiseTitle(entry, dayParam);
+              if (selectedDay > 30) {
+                m2.d = entry.t + " box office totals after Day 30. Day-wise amounts stop at Day 30; totals include every recorded day.";
+                if (m2.d.length > 160) m2.d = m2.d.slice(0, 157) + "...";
+                m2.robots = "noindex,follow";
+              } else if (requestedDay) {
+                m2.d = entry.t + " box office Day " + requestedDay + ". Day-wise pages cover Days 1–30; later days affect totals only.";
+                if (m2.d.length > 160) m2.d = m2.d.slice(0, 157) + "...";
+              }
             }
             const headers = new Headers(res.headers);
             headers.delete("content-length");
