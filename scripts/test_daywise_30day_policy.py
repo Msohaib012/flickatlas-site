@@ -44,7 +44,10 @@ meta = seo.daywise_meta(seo.PUBLISHED["123"])
 assert meta["days"] == 35
 assert meta["total_in"] == sum(range(1, 36)) == 630
 assert meta["total_ov"] == sum(n * 2 for n in range(1, 36)) == 1260
-assert "Day 30" in meta["d"] and "later days affect totals only" in meta["d"]
+assert len(meta["day_rows"]) == 30
+assert [row["day"] for row in meta["day_rows"]] == list(range(1, 31))
+assert "Day 31" not in " ".join(row["d"] for row in meta["day_rows"])
+assert "Days 1–30" in meta["d"] and "later days count in totals" in meta["d"]
 
 news = seo.news_meta({
     "id": "fixture-news", "headline": "Fixture headline",
@@ -56,7 +59,9 @@ page = (ROOT / "js/page-boxoffice-day.js").read_text(encoding="utf-8")
 worker = (ROOT / "scripts/worker.mjs").read_text(encoding="utf-8")
 assert "if (day > 30)" in page and "UI.dailyCollectionCard(clean, String(titleId))" in page
 assert "UI.setSEO" in page and "noindex: true" in page
+assert "const selectedDay = requestedDay || (latestMatch ? Number(latestMatch[0]) : 0);" in worker
 assert "if (selectedDay > 30)" in worker and 'm2.robots = "noindex,follow"' in worker
-assert "else if (requestedDay)" in worker and '" box office Day " + requestedDay' in worker
+assert "if (dayRow && dayRow.d)" in worker and "m2.d = dayRow.d" in worker
+assert "No reported box office collection is listed for " in worker
 assert "Box Office Totals After Day 30" in worker
 print("Day 30 policy: sitemap excludes later days; totals retain all rows; client/Worker apply totals-only/noindex; day descriptions are unique; news keywords enter JSON-LD")

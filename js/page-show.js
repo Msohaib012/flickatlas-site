@@ -36,8 +36,8 @@
   }
 
   UI.setSEO({
-    title: "TV Show Details — Cast & Story | FlickAtlas",
-    desc: "Full TV show details on FlickAtlas: episodes, cast & crew, story, ratings and frequently asked questions.",
+    title: "TV Series Details: Cast, Seasons & Episodes | FlickAtlas",
+    desc: "Explore available story, cast, season and episode information for published TV series. Details vary by title.",
     path: `/show?id=${encodeURIComponent(id)}`
   });
   main.innerHTML = `<div class="wrap">

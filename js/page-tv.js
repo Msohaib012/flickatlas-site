@@ -14,8 +14,8 @@
   UI.mountChrome("/tv");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "TV Shows — Popular Series, Seasons, Cast & Episode Info | FlickAtlas",
-    desc: "Browse popular and top rated TV shows on FlickAtlas. Open any series for its seasons, episode counts, full cast, story and ratings.",
+    title: "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
+    desc: "Browse published television series by industry, with story, cast, season and episode information where available. Coverage varies by title.",
     path: "/tv"
   });
 

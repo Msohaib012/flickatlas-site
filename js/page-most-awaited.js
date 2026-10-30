@@ -15,8 +15,8 @@
   UI.mountChrome("/most-awaited");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Coming Soon & Most Awaited — Upcoming Movies | FlickAtlas",
-    desc: "All future-dated movies on FlickAtlas, sorted by release date. The full list behind the homepage Coming Soon & Most Awaited rail.",
+    title: "Upcoming Movies: Coming Soon Releases | FlickAtlas",
+    desc: "Browse published films with future release dates, ordered by the nearest date. Filter the upcoming movie list by Bollywood or World Cinema.",
     path: "/most-awaited"
   });
 

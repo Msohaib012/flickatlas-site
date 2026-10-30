@@ -18,8 +18,8 @@
   UI.mountChrome("/box-office/milestones");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Box Office Milestones — 1000 Crore Club & Top Collections | FlickAtlas",
-    desc: "Indian movies crossing 100, 300, 500 and 1000 crore, plus the top Day 1, first-weekend, Week 1 and Month 1 collections — from FlickAtlas day-wise box office records.",
+    title: "Box Office Collection Records & Milestones | FlickAtlas",
+    desc: "Explore milestones calculated from available daily reports, including opening-day, weekend and first-week collections where the required records are present.",
     path: "/box-office/milestones"
   });
 

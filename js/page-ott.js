@@ -28,8 +28,8 @@
   UI.mountChrome("/ott");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "OTT — Now Streaming & Coming Soon | FlickAtlas",
-    desc: "Which movies have arrived on streaming and which are coming — platform logos and release dates for Bollywood and World Cinema, as information only.",
+    title: "OTT Releases: Now Available & Coming Soon | FlickAtlas",
+    desc: "See titles listed as currently on OTT and confirmed future streaming dates. Provider and date details appear only when recorded.",
     path: "/ott"
   });
 

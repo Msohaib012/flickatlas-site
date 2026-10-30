@@ -23,12 +23,12 @@
   if (!titleId || !/^\d+$/.test(titleId)) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("No film was specified for this day-wise page.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/box-office">Box Office</a></p></div>`;
-    UI.setSEO({ title: "Day-Wise Box Office Collection | FlickAtlas", desc: "One day of a film's box office story on FlickAtlas: that day's collection, the running total and the full day-wise table.", path: "/box-office-day", noindex: true });
+    UI.setSEO({ title: "Day-Wise Box Office Collection | FlickAtlas", desc: "See reported India Net and, where available, overseas collection for theatrical Days 1–30. After Day 30, pages show aggregate totals only.", path: "/box-office-day", noindex: true });
     return;
   }
   UI.setSEO({
     title: "Day-Wise Box Office Collection | FlickAtlas",
-    desc: "One day of a film's box office story on FlickAtlas: that day's collection, the running total and the full day-wise table.",
+    desc: "See reported India Net and, where available, overseas collection for theatrical Days 1–30. After Day 30, pages show aggregate totals only.",
     path: day ? `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}` : `/box-office-day?title=${encodeURIComponent(titleId)}`
   });
   main.innerHTML = `<div class="wrap"><div class="sk" style="height:280px;border-radius:22px;margin-top:22px"></div><div class="sk" style="height:180px;border-radius:14px;margin-top:18px"></div></div>`;
@@ -38,7 +38,7 @@
   if (!d || !d.title) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This film hasn't been published on FlickAtlas yet, so no day-wise collection record is available for it. Only published titles have day-wise pages.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/box-office">Box Office</a> <a class="btn" href="/search">Search published titles</a></p></div>`;
-    UI.setSEO({ title: "Day-Wise Box Office Collection | FlickAtlas", desc: "Day-wise reported box office collections on FlickAtlas.", path: "/box-office-day", noindex: true });
+    UI.setSEO({ title: "Day-Wise Box Office Collection | FlickAtlas", desc: "Individual box-office days are reported through theatrical Day 30; later records appear only in aggregate totals.", path: "/box-office-day", noindex: true });
     return;
   }
   const title = UI.titleOf(d);
@@ -87,7 +87,7 @@
   if (!row) {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("No collection record for this day.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/movie?id=${encodeURIComponent(titleId)}">${UI.esc(title)}</a> <a class="btn" href="/box-office">Box Office</a></p></div>`;
-    UI.setSEO({ title: `${title} — Day ${day} Box Office | FlickAtlas`, desc: `Day ${day} box office collection for ${title} on FlickAtlas.`, path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}` });
+    UI.setSEO({ title: `${title} — Box Office Collection Day ${day} | FlickAtlas`, desc: `Day ${day} box office collection for ${title} on FlickAtlas.`, path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}`, noindex: true });
     return;
   }
 
@@ -118,8 +118,8 @@
 
 
   UI.setSEO({
-    title: `${title} — Day ${day} Box Office (${UI.fmtDate(row.date)}) | FlickAtlas`,
-    desc: `Day ${day} box office collection for ${title} on ${UI.fmtDate(row.date)}, with the running total and the full day-wise table on FlickAtlas.`,
+    title: `${title} — Box Office Collection Day ${day} (${UI.fmtDate(row.date)}) | FlickAtlas`,
+    desc: `Day ${day} box office collection for ${title} on ${UI.fmtDate(row.date)}. Daily detail stops at Day 30; later days appear only in totals.`,
     path: `/box-office-day?title=${encodeURIComponent(titleId)}&day=${day}`,
     image: poster || ""
   });

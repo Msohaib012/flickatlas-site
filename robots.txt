@@ -1,3 +1,10 @@
+User-agent: OAI-SearchBot
+Allow: /
+Allow: /api/news
+Allow: /api/trends
+Allow: /api/reviews
+Disallow: /api/
+
 User-agent: *
 Allow: /
 Allow: /api/news

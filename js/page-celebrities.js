@@ -13,8 +13,8 @@
   UI.mountChrome("/celebrities");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Celebrities — Actor Biographies, Photos & Filmographies | FlickAtlas",
-    desc: "Meet the celebrities of FlickAtlas published titles. Open a profile for biography, photos, known-for titles and the complete filmography.",
+    title: "Cast & Filmmaker Profiles | FlickAtlas",
+    desc: "Explore people linked to published films and TV titles, with biography and selected known-for credits where available.",
     path: "/celebrities"
   });
 

@@ -18,8 +18,8 @@
   UI.mountChrome("/box-office");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Box Office — Latest Movies, Today & 7 Days | FlickAtlas",
-    desc: "Latest released movies with today's reported collections, seven-day reported sums and recorded totals. Tap a movie for its full day-wise box office detail.",
+    title: "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+    desc: "See reported movie collections for Today, the last 7 days and totals, labeled by scope. Inner pages separate India Net and overseas through Day 30.",
     path: "/box-office"
   });
 

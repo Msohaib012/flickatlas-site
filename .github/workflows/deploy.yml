@@ -41,12 +41,14 @@ jobs:
           python3 -m py_compile scripts/home_boxoffice_worldwide.py
           python3 scripts/test_home_boxoffice_worldwide.py
           python3 scripts/test_daywise_30day_policy.py
+          python3 scripts/test_sitewide_seo_metadata.py
           python3 scripts/test_pipeline_schedule.py
           python3 scripts/test_recent_hindi_discovery.py
           python3 scripts/test_commit_with_retry_standalone.py
       - name: Offline viewer-review regression tests
         run: |
           node --check scripts/worker.mjs
+          node scripts/test_worker_seo_injection.mjs
           node scripts/test_viewer_reviews.js
           node scripts/test_viewer_review_worker.js
       - name: Deploy to Cloudflare

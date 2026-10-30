@@ -17,8 +17,8 @@
     return;
   }
   UI.setSEO({
-    title: "Celebrity Profile — Biography, Photos & Filmography | FlickAtlas",
-    desc: "Celebrity biography on FlickAtlas: photos, birth details, known-for titles and a complete filmography.",
+    title: "Actor & Filmmaker Profile | FlickAtlas",
+    desc: "Explore this profile's biography and selected film or TV credits. Details vary by person.",
     path: `/person?id=${encodeURIComponent(id)}`
   });
   main.innerHTML = `<div class="wrap"><div class="sk" style="height:320px;border-radius:22px;margin-top:22px"></div><div class="sk" style="height:180px;border-radius:14px;margin-top:18px"></div></div>`;
@@ -117,8 +117,8 @@
   </div>`;
 
     UI.setSEO({
-      title: `${name} — Biography, Filmography & Known-For Titles | FlickAtlas`,
-      desc: (bioParas[0] || `${name} — biography and filmography on FlickAtlas.`).slice(0, 160),
+      title: `${name} — Bio & Selected Credits | FlickAtlas`,
+      desc: (bioParas[0] || `${name} — biography and selected movie or TV credits on FlickAtlas.`).slice(0, 160),
       path: `/person?id=${encodeURIComponent(id)}`,
       type: "profile",
       image: photo || "",

@@ -10,8 +10,8 @@
   UI.mountChrome("");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-    desc: "FlickAtlas is your global guide to movies and TV shows — full cast & crew, budgets vs box office earnings, upcoming release dates and celebrity filmographies for Bollywood, World Cinema and Lollywood.",
+    title: "Bollywood, World Cinema & Box Office | FlickAtlas",
+    desc: "Explore Bollywood and Indian cinema, World Cinema, Pakistani dramas, reported box office, OTT availability, release dates and entertainment news.",
     path: "/",
     /* SEO audit 2026-10-28 (claude-seo): no jsonld here — the home shell
        already carries the WebSite block WITH SearchAction; the JS copy

@@ -12,8 +12,8 @@
   UI.mountChrome("/news");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Trending News — Bollywood, Lollywood, Kollywood, Awards, OTT, Music & Tech Headlines | FlickAtlas",
-    desc: "All entertainment headlines in one mixed feed — Bollywood, Lollywood, Kollywood, World Cinema, Pakistan, celebrity, viral, awards, OTT, music and tech. Tap a tag to see only that list.",
+    title: "Bollywood & Entertainment News | FlickAtlas",
+    desc: "Read recent entertainment news on film and TV releases, OTT updates, awards and celebrities across Indian, Pakistani and international cinema.",
     path: "/news"
   });
 
@@ -28,7 +28,7 @@
   if (!FILTERS.some(([k]) => k === f)) f = "all";
 
   main.innerHTML = `<div class="wrap">
-    <div class="page-hero"><h1>Trending News</h1>
+    <div class="page-hero"><h1>Entertainment News</h1>
       </div>
     <div id="chipHost"><div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="newsFilterLabel"><span id="newsFilterLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="newsFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="newsFilterOptions" aria-labelledby="newsFilterLabel newsFilterValue"><span class="fa-select-value" id="newsFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="newsFilterOptions" role="listbox" aria-labelledby="newsFilterLabel" hidden></div></div></div></div></div>
     <p class="fcount" id="fcount"></p>

@@ -18,8 +18,8 @@
   UI.mountChrome("/movies");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
-    desc: "Browse popular, top rated, in-cinemas and upcoming movies on FlickAtlas. Open any film for its full cast, story, budget vs box office earnings and release details.",
+    title: "Bollywood, World & Pakistani Movies | FlickAtlas",
+    desc: "Browse movies by industry, year, genre and release order, with story and cast details where listed.",
     path: "/movies"
   });
 

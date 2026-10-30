@@ -13,7 +13,8 @@ Outputs:
                      detail URL + every news article URL + every
                      day-wise box-office URLs through theatrical Day 30;
                      later records remain available only in aggregate totals.
-  robots.txt       — Allow / (except /api/), Sitemap: flickatlas.co.uk.
+  robots.txt       — explicit OAI-SearchBot allow plus wildcard Allow /
+                     (except private /api/ paths), with public feeds allowed.
   js/seo-meta.json — compact per-URL meta map the Cloudflare Worker
                      reads to inject <title>/meta/OG/JSON-LD into the
                      client-rendered detail shells (one shell serves
@@ -36,6 +37,7 @@ import re
 import sys
 from datetime import datetime
 from email.utils import parsedate_to_datetime
+from html import unescape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = "https://flickatlas.co.uk"
@@ -49,22 +51,22 @@ INDUSTRY_LABEL = {
 
 CAT_META = {
     "bollywood": (
-        "Bollywood Movies & Shows \u2014 Cast, Box Office & Release Dates | FlickAtlas",
-        "Bollywood movies and shows on FlickAtlas \u2014 latest releases, cast & crew, "
-        "budgets vs box office collections, trailers and upcoming release dates.",
-        "Bollywood movies, Bollywood movies 2026, Hindi movies, Bollywood box office collection, Bollywood cast, FlickAtlas",
+        "Bollywood Movies & TV Shows | FlickAtlas",
+        "Browse Bollywood films and Indian-language cinema, plus related TV titles. "
+        "Explore available cast, story and release details on FlickAtlas.",
+        "Bollywood movies, Indian films, Hindi films, Bollywood TV shows",
     ),
     "world": (
-        "World Cinema Movies & Shows \u2014 Hollywood & International Films | FlickAtlas",
-        "World cinema on FlickAtlas \u2014 Hollywood and international movies and shows "
-        "with cast, budgets, box office collections and release dates.",
-        "World cinema, Hollywood movies, international movies, Hollywood movies 2026, world box office collection, FlickAtlas",
+        "World Cinema Movies & TV Shows | FlickAtlas",
+        "Browse international films and television series on FlickAtlas, including "
+        "Hollywood titles. Explore available cast, story and release information.",
+        "World Cinema movies, Hollywood films, international TV series",
     ),
     "pakistani": (
-        "Pakistani Movies & Dramas \u2014 Lollywood Films & Drama Serials | FlickAtlas",
-        "Pakistani movies and dramas on FlickAtlas \u2014 Lollywood films, drama serials, "
-        "episode guides, cast, box office and release dates.",
-        "Pakistani dramas, Pakistani movies, Lollywood movies, Pakistani drama episodes, Pakistani drama serials, FlickAtlas",
+        "Pakistani Movies & Dramas | FlickAtlas",
+        "Browse Pakistani films and drama series on FlickAtlas. Explore available "
+        "title, cast, episode and release information from the listed catalogue.",
+        "Pakistani movies, Pakistani dramas, Pakistani TV serials, Lollywood films",
     ),
 }
 
@@ -155,6 +157,101 @@ def trunc(text, n=160):
     return cut if cut else text[:n]
 
 
+def plain_text(text):
+    """Normalize a data field for safe, readable HTML metadata."""
+    text = unescape(str(text or ""))
+    text = re.sub(r"<[^>]*>", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _number(value):
+    """Return a finite numeric field, otherwise zero."""
+    if isinstance(value, bool):
+        return 0.0
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return 0.0
+    return number if math.isfinite(number) else 0.0
+
+
+def append_meta(base, text, limit=160):
+    """Append a complete or word-truncated fact without exceeding limit."""
+    text = plain_text(text)
+    room = limit - len(base) - 1
+    if not text or room < 24:
+        return base
+    return base + " " + trunc(text, room)
+
+
+def safe_keyword(value):
+    """Keep relevant information queries; reject playback/download claims."""
+    value = plain_text(value)
+    if not value or len(value) > 100:
+        return ""
+    if re.search(r"\b(?:watch|stream|download|play)\s+(?:online|now|free)\b|"
+                 r"\bonline\s+watch\b|\bfull\s+(?:movie|episode)\b",
+                 value, re.I):
+        return ""
+    return value
+
+
+def unique_keywords(values, limit=8):
+    """Clean and case-insensitively deduplicate a short keyword list."""
+    out, seen = [], set()
+    for value in values:
+        term = safe_keyword(value)
+        key = term.lower()
+        if term and key not in seen:
+            out.append(term)
+            seen.add(key)
+            if len(out) >= limit:
+                break
+    return out
+
+
+def compact_title(core, suffix="", limit=60):
+    """Keep useful title detail when it fits; drop boilerplate before names."""
+    core = plain_text(core) or "FlickAtlas"
+    brand = " | FlickAtlas"
+    detailed = core + ((" — " + suffix) if suffix else "") + brand
+    if len(detailed) <= limit:
+        return detailed
+    descriptive = core + ((" — " + suffix) if suffix else "")
+    if len(descriptive) <= limit:
+        return descriptive
+    branded = core + brand
+    if len(branded) <= limit:
+        return branded
+    # A long source title is more valuable than a forced truncation or a
+    # generic suffix. Google can display its site name separately.
+    return core
+
+
+def news_title(headline, limit=60):
+    """Use a concise article title tag without changing its visible headline."""
+    headline = plain_text(headline) or "Entertainment Update"
+    brand = " | FlickAtlas"
+    if len(headline) + len(brand) <= limit:
+        return headline + brand
+    if ":" in headline:
+        base, tail = [part.strip() for part in headline.split(":", 1)]
+        if "box office" in base.casefold():
+            base = re.sub(r"\bcollection\b", "", base, flags=re.I)
+            base = re.sub(r"\s+", " ", base).strip()
+        words = tail.split()
+        for count in range(min(6, len(words)), 0, -1):
+            suffix = " ".join(words[-count:]).strip(" .,:;—–-")
+            candidate = base + " — " + suffix + brand
+            if suffix and len(candidate) <= limit:
+                return candidate
+        if base and len(base) + len(brand) <= limit:
+            return base + brand
+    room = max(1, limit - len(brand) - 1)
+    lead = trunc(headline, room).rstrip(" .,:;—–-")
+    return lead + "…" + brand
+
+
 def img_url(entry, kind="backdrop"):
     """TMDB image: w780 backdrop preferred for OG, else w500 poster."""
     base = IMG
@@ -169,90 +266,98 @@ def img_url(entry, kind="backdrop"):
 
 def title_meta(entry):
     """Per-title (movie/TV) meta. Only facts the entry actually has."""
-    title = (entry.get("title") or "").strip()
+    title = plain_text(entry.get("title"))
     year = year_of(entry)
     ind = INDUSTRY_LABEL.get(entry.get("industry"), "World Cinema")
     is_tv = entry.get("type") == "tv"
-    kind = "series" if is_tv else "film"
-    genres = [g for g in (entry.get("genres") or [])][:2]
+    kind = "TV series" if is_tv else "film"
+    genres = [plain_text(g) for g in (entry.get("genres") or [])[:2]
+              if plain_text(g)]
     genre_txt = ", ".join(genres)
-    rating = entry.get("vote_average") or 0
-    votes = entry.get("vote_count") or 0
-    rows = DAYWISE.get(str(entry.get("id")), [])
-    total_in = sum((r.get("collection") or 0) for r in rows)
-    total_ov = sum((r.get("overseas") or 0) for r in rows)
-    has_bo = bool(rows)
+    rating = _number(entry.get("vote_average"))
+    votes = _number(entry.get("vote_count"))
+    budget = _number(entry.get("budget"))
+    rows = [r for r in (DAYWISE.get(str(entry.get("id")), []) or [])
+            if isinstance(r, dict)]
+    total_in = sum(_number(r.get("collection")) for r in rows)
+    total_ov = sum(_number(r.get("overseas")) for r in rows)
+    has_bo = any(type(r.get("collection")) in (int, float)
+                 and math.isfinite(r.get("collection"))
+                 and r.get("collection") >= 0 for r in rows)
+    has_overseas = total_ov > 0
+    overview = plain_text(entry.get("overview"))
+    release_date = entry.get("release_date") or entry.get("first_air_date") or ""
 
     disp = title + ((" (%s)" % year) if year else "")
     if is_tv:
-        t = "%s \u2014 Seasons, Episodes, Cast & Story | FlickAtlas" % disp
-    elif has_bo:
-        t = "%s \u2014 Cast, Box Office Collection & Budget | FlickAtlas" % disp
+        suffix = "TV Series & Cast"
     else:
-        t = "%s \u2014 Cast, Story, Budget & Review | FlickAtlas" % disp
+        if has_bo:
+            suffix = "Box Office Collection & Cast"
+        elif overview and budget > 0:
+            suffix = "Story & Budget"
+        elif overview:
+            suffix = "Story & Cast"
+        elif budget > 0:
+            suffix = "Budget & Cast"
+        else:
+            suffix = "Cast & Details"
+    t = compact_title(disp, suffix)
 
-    parts = []
-    art = "an" if (genre_txt and genre_txt[0].lower() in "aeiou") else "a"
-    head = "%s is %s %s%s %s" % (
-        disp, art, (genre_txt + " " if genre_txt else ""), ind, kind)
-    parts.append(head)
+    subject = (genre_txt + " " if genre_txt else "") + ind + " " + kind
+    article = "an" if subject[:1].lower() in "aeiou" else "a"
+    d = "%s is %s %s." % (disp, article, subject)
     if has_bo:
-        parts.append("India Net %s across %d days%s" % (
-            fmt_money(total_in), len(rows),
-            (" + overseas %s" % fmt_money(total_ov)) if total_ov else ""))
-    if (entry.get("budget") or 0) > 0:
-        parts.append("budget %s" % fmt_money(entry["budget"]))
+        d = append_meta(d, "India Net box office collection: %s." %
+                        fmt_money(total_in))
+        if has_overseas:
+            d = append_meta(d, "Overseas collection: %s." %
+                            fmt_money(total_ov))
+    elif overview:
+        d = append_meta(d, overview)
+    if budget > 0:
+        d = append_meta(d, "Budget: %s." % fmt_money(budget))
     if rating and votes:
-        parts.append("rated %.1f/10" % rating)
-    if entry.get("trailer"):
-        parts.append("official trailer")
-    core = ". ".join(parts) + "."
-    tail = (" Full cast, seasons, episodes and story on FlickAtlas." if is_tv
-            else " Full cast, story, budget vs box office and reviews on FlickAtlas.")
-    d = core + tail if len(core) + len(tail) <= 160 else core
-    d = trunc(d, 160)
+        d = append_meta(d, "TMDB rating: %.1f/10." % rating)
+    if is_tv:
+        seasons = int(_number(entry.get("number_of_seasons")))
+        episodes = int(_number(entry.get("number_of_episodes")))
+        if seasons:
+            d = append_meta(d, "%d seasons listed." % seasons)
+        if episodes:
+            d = append_meta(d, "%d episodes listed." % episodes)
+    elif release_date and not has_bo and not overview:
+        d = append_meta(d, "Release date: %s." % release_date)
 
     kws = [title]
+    if title:
+        kws.append("%s cast" % title)
+    if overview:
+        kws.append("%s story" % title)
+    if release_date:
+        kws.append("%s release date" % title)
     if has_bo:
         kws.append("%s box office collection" % title)
-    kws.append("%s cast" % title)
-    kws.append("%s %s" % (title, "review" if is_tv else "movie review"))
-    if (entry.get("budget") or 0) > 0:
+    if budget > 0:
         kws.append("%s budget" % title)
-    # Visible == meta (owner rule): the detail pages show a Top Searches
-    # dropdown built from the entry's own data (js/page-movie.js,
-    # js/page-show.js) — the same phrases belong in the meta keywords.
-    if not is_tv:
-        if entry.get("trailer"):
-            kws.append("%s trailer" % title)
-        if entry.get("release_date"):
-            kws.append("%s release date" % title)
-        if entry.get("overview"):
-            kws.append("%s story" % title)
-        if entry.get("providers"):
-            kws.append("%s watch online" % title)
-    else:
-        if entry.get("overview"):
-            kws.append("%s story" % title)
+    if rating and votes:
+        kws.append("%s rating" % title)
+    if entry.get("trailer"):
+        kws.append("%s trailer" % title)
+    if is_tv:
         kws.append("%s episodes" % title)
         if (entry.get("number_of_seasons") or 0) > 1:
-            kws.append("%s season %d" % (
-                title, entry["number_of_seasons"]))
+            kws.append("%s season %d" % (title, int(_number(entry["number_of_seasons"]))))
         if entry.get("industry") == "pakistani":
-            kws.append("%s latest episode" % title)
-            kws.append("%s watch online" % title)
-    if is_tv:
-        if entry.get("industry") == "pakistani":
-            kws.append("Pakistani dramas 2026" if year == "2026" else "Pakistani dramas")
             kws.append("Pakistani dramas")
         else:
-            kws.append("%s TV shows 2026" % ind if year == "2026" else "%s TV shows" % ind)
-            kws.append("%s TV shows" % ind)
+            kws.append("%s TV series" % ind)
     else:
-        if year == "2026":
-            kws.append("%s movies 2026" % ind)
-        kws.append("%s movies" % ind)
+        kws.append({"bollywood": "Indian movies", "world": "international movies",
+                    "pakistani": "Pakistani movies"}.get(
+                        entry.get("industry"), "movies"))
     kws.append("FlickAtlas")
+    kws = unique_keywords(kws, 9)
 
     ld = {
         "@context": "https://schema.org",
@@ -275,7 +380,7 @@ def title_meta(entry):
         # the specified or default range", first detected 2026-10-30).
         ld["aggregateRating"] = {
             "@type": "AggregateRating",
-            "ratingValue": round(float(rating), 1),
+            "ratingValue": round(rating, 1),
             "ratingCount": int(votes),
             "bestRating": 10,
             "worstRating": 0,
@@ -288,7 +393,7 @@ def title_meta(entry):
     else:
         if entry.get("runtime"):
             ld["duration"] = "PT%dM" % int(entry["runtime"])
-    return {"t": t, "d": d, "k": ", ".join(kws), "img": img_url(entry),
+    return {"t": t, "d": trunc(d, 160), "k": ", ".join(kws), "img": img_url(entry),
             "ld": ld, "year": year, "industry": entry.get("industry")}
 
 
@@ -327,15 +432,11 @@ def news_topic_phrases(entry):
     if ep:
         drama, label, channel = ep
         out = ["%s %s" % (drama, label),
-               "%s %s online watch" % (drama, label),
-               "%s %s watch online" % (drama, label),
-               "%s %s full episode" % (drama, label)]
+               "%s %s update" % (drama, label),
+               "%s latest episode" % drama]
         if channel:
             out.append("%s %s %s" % (drama, label, channel))
-        out += ["%s drama %s" % (drama, label),
-                "%s latest episode" % drama,
-                "%s today episode" % drama]
-        return out
+        return unique_keywords(out, 5)
     ents = entry.get("entities") or {}
     people = [str(p).strip() for p in (ents.get("people") or [])
               if str(p).strip()]
@@ -348,53 +449,28 @@ def news_topic_phrases(entry):
     if p0 and t0:
         out.append("%s %s" % (p0, t0))
     if t0:
-        out.append("%s release date" % t0)
-        out.append("%s cast" % t0)
+        out.append(t0)
+    if p0:
+        out.append(p0)
     if p1 and t0:
         out.append("%s %s" % (p1, t0))
-    if t0:
-        out.append("%s trailer" % t0)
     if not t0 and p0 and p1:
         out.append("%s %s" % (p0, p1))
-    seen = set()
-    res = []
-    for x in out:
-        if x not in seen:
-            seen.add(x)
-            res.append(x)
-    return res[:5]
+    return unique_keywords(out, 5)
 
 
 def news_meta(entry):
-    headline = (entry.get("headline") or "").strip()
-    dek = (entry.get("dek") or "").strip()
+    headline = plain_text(entry.get("headline"))
+    dek = plain_text(entry.get("dek"))
     d = trunc(dek, 160) if dek else trunc(headline, 160)
-    t = headline + " | FlickAtlas"
+    t = news_title(headline)
     ents = entry.get("entities") or {}
-    kws = []
-    # Meta keywords = the article's own keywords field first (written by
-    # Gemini at write time, refreshed daily - owner order 2026-10-28),
-    # so the metadata carries the same phrases the page shows; entities
-    # are the fallback for articles that predate the keywords field.
-    for kw in (entry.get("keywords") or [])[:5]:
-        if isinstance(kw, str) and kw.strip():
-            s = kw.strip()
-            if s.lower() not in {x.lower() for x in kws}:
-                kws.append(s)
-    if not kws:
-        for p in (ents.get("people") or [])[:3]:
-            kws.append(p)
-        for ti in (ents.get("titles") or [])[:2]:
-            kws.append(ti)
-    kws += news_topic_phrases(entry)
-    kws += ["entertainment news", "Bollywood news", "FlickAtlas"]
-    seen = set()
-    deduped = []
-    for k in kws:
-        if k not in seen:
-            seen.add(k)
-            deduped.append(k)
-    kws = deduped
+    stored = list((entry.get("keywords") or [])[:5])
+    if not stored:
+        stored = list((ents.get("people") or [])[:3])
+        stored += list((ents.get("titles") or [])[:2])
+    kws = unique_keywords(stored + news_topic_phrases(entry) +
+                          ["entertainment news", "FlickAtlas"], 10)
     imgs = entry.get("images") or []
     img = imgs[0].get("url") if imgs and imgs[0].get("url") else (
         BASE + "/icon-512.png")
@@ -412,12 +488,7 @@ def news_meta(entry):
                                "url": BASE + "/icon-512.png"}},
         "mainEntityOfPage": "%s/news-item?id=%s" % (BASE, entry.get("id")),
     }
-    article_kws = []
-    seen_article_kws = set()
-    for kw in (entry.get("keywords") or [])[:12]:
-        if isinstance(kw, str) and kw.strip() and kw.strip().lower() not in seen_article_kws:
-            article_kws.append(kw.strip())
-            seen_article_kws.add(kw.strip().lower())
+    article_kws = unique_keywords((entry.get("keywords") or [])[:12], 12)
     if article_kws:
         ld["keywords"] = ", ".join(article_kws)
     if pub:
@@ -431,28 +502,49 @@ def daywise_meta(entry):
     """Day-wise box-office page meta for one title (Worker composes the
     day-specific <title> from the &day= param; the description uses the
     film's totals, which are true for every day page)."""
-    title = (entry.get("title") or "").strip()
+    title = plain_text(entry.get("title"))
     year = year_of(entry)
     disp = title + ((" (%s)" % year) if year else "")
-    rows = DAYWISE.get(str(entry.get("id")), [])
-    total_in = sum((r.get("collection") or 0) for r in rows)
-    total_ov = sum((r.get("overseas") or 0) for r in rows)
+    rows = [r for r in (DAYWISE.get(str(entry.get("id")), []) or [])
+            if isinstance(r, dict)]
+    total_in = sum(_number(r.get("collection")) for r in rows)
+    total_ov = sum(_number(r.get("overseas")) for r in rows)
     latest = rows[-1] if rows else {}
-    d = trunc("%s box office: India Net %s%s across %d days. "
-              "Daily breakdown ends at Day 30; later days affect totals only." % (
-                  disp, fmt_money(total_in),
-                  (", overseas %s" % fmt_money(total_ov)) if total_ov else "",
-                  len(rows)),
-              160)
-    kws = ", ".join([title, "%s box office collection" % title,
-                     "%s box office collection day wise" % title,
-                     "%s day 1 collection" % title,
-                     "Bollywood box office collection" if entry.get("industry") == "bollywood"
-                     else "box office collection", "FlickAtlas"])
+    daily = []
+    for row in rows:
+        match = re.search(r"\d+", str(row.get("day") or ""))
+        day = int(match.group(0)) if match else 0
+        if not 1 <= day <= 30:
+            continue
+        amount_in = _number(row.get("collection"))
+        amount_ov = _number(row.get("overseas"))
+        date = plain_text(row.get("date"))
+        desc = "%s box office Day %d%s: India Net %s." % (
+            disp, day, (" (" + date + ")") if date else "",
+            fmt_money(amount_in))
+        if amount_ov > 0:
+            desc += " Overseas: %s." % fmt_money(amount_ov)
+        daily.append({"day": day, "date": date, "d": trunc(desc, 160)})
+    daily.sort(key=lambda item: item["day"])
+
+    d = ("%s box office: daily rows cover Days 1\u201330; later days count "
+         "in totals. India Net %s." % (disp, fmt_money(total_in)))
+    if total_ov > 0:
+        d += " Overseas total: %s." % fmt_money(total_ov)
+    d = trunc(d, 160)
+    kws = unique_keywords([
+        title,
+        "%s box office collection" % title,
+        "%s box office collection day wise" % title,
+        "%s day 1 collection" % title,
+        "Bollywood box office collection" if entry.get("industry") == "bollywood"
+        else "box office collection",
+        "FlickAtlas",
+    ], 8)
     return {"t": disp, "year": year, "days": len(rows),
             "total_in": total_in, "total_ov": total_ov,
             "latest_day": latest.get("day"), "latest_date": latest.get("date"),
-            "d": d, "k": kws, "img": img_url(entry),
+            "day_rows": daily, "d": d, "k": ", ".join(kws), "img": img_url(entry),
             "ld": title_meta(entry)["ld"]}
 
 
@@ -530,6 +622,22 @@ def build_sitemap(lastmods):
     return "\n".join(out) + "\n", len(urls)
 
 
+def build_robots():
+    """Allow search crawlers while keeping non-public API paths excluded."""
+    # OAI-SearchBot is explicitly allowed for ChatGPT Search discovery. Its
+    # specific group repeats the three public read-only feeds because robots
+    # groups do not inherit wildcard exceptions. GPTBot and Google-Extended
+    # remain governed by the existing wildcard policy; do not change training
+    # preferences implicitly.
+    return ("User-agent: OAI-SearchBot\nAllow: /\n"
+            "Allow: /api/news\nAllow: /api/trends\n"
+            "Allow: /api/reviews\nDisallow: /api/\n\n"
+            "User-agent: *\nAllow: /\nAllow: /api/news\n"
+            "Allow: /api/trends\nAllow: /api/reviews\n"
+            "Disallow: /api/\n\n"
+            "Sitemap: %s/sitemap.xml\n" % BASE)
+
+
 def main():
     global PUBLISHED, ARTICLES, DAYWISE
     PUBLISHED = read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
@@ -583,16 +691,7 @@ def main():
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write(sitemap)
     with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
-        # SEO audit 2026-10-28 (claude-seo): /news and the homepage news
-        # sections render from /api/news only, and robots Disallow: /api/
-        # blocks Googlebot from fetching it — the feed is invisible to the
-        # crawler. Allow the three public read-only JSON feeds (longest
-        # match wins over Disallow: /api/); everything else under /api/
-        # stays disallowed.
-        f.write("User-agent: *\nAllow: /\nAllow: /api/news\n"
-                "Allow: /api/trends\nAllow: /api/reviews\n"
-                "Disallow: /api/\n\n"
-                "Sitemap: %s/sitemap.xml\n" % BASE)
+        f.write(build_robots())
 
     print("seo_assets: %d titles (%d movies, %d tv), %d articles, "
           "%d daywise titles" % (

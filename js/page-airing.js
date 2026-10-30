@@ -10,8 +10,8 @@
   UI.mountChrome("/airing-today");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Airing Today — TV Shows | FlickAtlas",
-    desc: "One TV show airing today on FlickAtlas — the top reported episode date, with seasons, cast and episode details on its own page.",
+    title: "TV Episodes Airing Today | FlickAtlas",
+    desc: "See TV titles whose reported episode date matches today. Coverage is limited to published records and is not a complete local television schedule.",
     path: "/airing-today"
   });
   main.innerHTML = `<div class="wrap">

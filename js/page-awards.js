@@ -12,8 +12,8 @@
   UI.mountChrome("/awards");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Awards — Upcoming Award Shows, Dates & Latest News | FlickAtlas",
-    desc: "Browse upcoming award dates and available nominations and winners news. Listings and coverage depend on the information currently shown.",
+    title: "Film & TV Awards Calendar and News | FlickAtlas",
+    desc: "Browse award ceremonies with dates listed on FlickAtlas and read related award-season news. Dates and coverage appear only when available.",
     path: "/awards"
   });
 

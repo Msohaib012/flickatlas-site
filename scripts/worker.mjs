@@ -79,67 +79,130 @@ function esc(s) {
   return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
     .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
+function addHeadTag(html, tag) {
+  const close = /<\/head>/i;
+  if (close.test(html)) return html.replace(close, "  " + tag + "\n</head>");
+  const open = /<head\b[^>]*>/i;
+  if (open.test(html)) return html.replace(open, function (m) { return m + "\n  " + tag; });
+  return tag + html;
+}
+function setSingleMeta(html, attr, key, value) {
+  const re = new RegExp(`<meta\\b(?=[^>]*\\b${attr}=["']${key}["'])[^>]*>`, "gi");
+  const tag = '<meta ' + attr + '="' + esc(key) + '" content="' + esc(value) + '">';
+  let found = false;
+  const out = html.replace(re, function () {
+    if (found) return "";
+    found = true;
+    return tag;
+  });
+  return found ? out : addHeadTag(out, tag);
+}
+function setSingleTitle(html, value) {
+  const tag = "<title>" + esc(value) + "</title>";
+  let found = false;
+  const out = html.replace(/<title\b[^>]*>[\s\S]*?<\/title>/gi, function () {
+    if (found) return "";
+    found = true;
+    return tag;
+  });
+  return found ? out : addHeadTag(out, tag);
+}
+function setSingleCanonical(html, value) {
+  const re = /<link\b(?=[^>]*\brel=["']canonical["'])[^>]*>/gi;
+  const tag = '<link rel="canonical" href="' + esc(value) + '">';
+  let found = false;
+  const out = html.replace(re, function () {
+    if (found) return "";
+    found = true;
+    return tag;
+  });
+  return found ? out : addHeadTag(out, tag);
+}
+function pushSchemaNodes(value, nodes) {
+  if (Array.isArray(value)) {
+    value.forEach(function (item) { pushSchemaNodes(item, nodes); });
+  } else if (value && typeof value === "object") {
+    if (Array.isArray(value["@graph"])) {
+      value["@graph"].forEach(function (item) { pushSchemaNodes(item, nodes); });
+    } else {
+      nodes.push(JSON.parse(JSON.stringify(value)));
+    }
+  }
+}
+function injectMergedJsonLd(html, meta, canonical) {
+  try {
+    const nodes = [];
+    const re = /<script\b(?=[^>]*\btype=["']application\/ld\+json["'])[^>]*>([\s\S]*?)<\/script>/gi;
+    let out = html.replace(re, function (_full, body) {
+      pushSchemaNodes(JSON.parse(body), nodes);
+      return "";
+    });
+    if (meta.ld) pushSchemaNodes(meta.ld, nodes);
+    nodes.forEach(function (node) {
+      const rawTypes = node && node["@type"];
+      const types = Array.isArray(rawTypes) ? rawTypes : [rawTypes];
+      if (types.some(function (type) { return type === "WebPage" || type === "CollectionPage"; })) {
+        node.name = meta.t;
+        node.description = meta.d;
+        node.url = canonical;
+      }
+    });
+    const seen = new Set();
+    const unique = nodes.filter(function (node) {
+      const key = JSON.stringify(node);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+    if (!unique.length) return out;
+    const schema = { "@context": "https://schema.org", "@graph": unique };
+    const tag = '<script type="application/ld+json">' +
+      JSON.stringify(schema).replace(/</g, "\\u003c") + "</script>";
+    return addHeadTag(out, tag);
+  } catch (_) {
+    // A malformed legacy block must never make the page fail. Preserve the
+    // original HTML and add the verified route schema as a separate block.
+    if (!meta.ld) return html;
+    const tag = '<script type="application/ld+json">' +
+      JSON.stringify(meta.ld).replace(/</g, "\\u003c") + "</script>";
+    return addHeadTag(html, tag);
+  }
+}
 function injectSeo(html, meta, canonical) {
-  let out = html;
-  const title = esc(meta.t);
-  if (/<title>[^<]*<\/title>/i.test(out)) {
-    out = out.replace(/<title>[^<]*<\/title>/i, "<title>" + title + "</title>");
-  } else {
-    out = out.replace(/<head[^>]*>/i, function (m) { return m + "<title>" + title + "</title>"; });
-  }
-  const desc = esc(meta.d);
-  const descRe = /<meta[^>]+name=["']description["'][^>]*>/i;
-  if (descRe.test(out)) {
-    out = out.replace(descRe, '<meta name="description" content="' + desc + '">');
-  } else {
-    out = out.replace(/<\/title>/i, function (m) { return m + "\n  " + '<meta name="description" content="' + desc + '">'; });
-  }
-  const kwRe = /<meta[^>]+name=["']keywords["'][^>]*>/i;
-  if (kwRe.test(out)) {
-    out = out.replace(kwRe, '<meta name="keywords" content="' + esc(meta.k) + '">');
-  } else {
-    out = out.replace(/<\/title>/i, function (m) { return m + "\n  " + '<meta name="keywords" content="' + esc(meta.k) + '">'; });
-  }
-  if (meta.robots) {
-    const robotsTag = '<meta name="robots" content="' + esc(meta.robots) + '">';
-    const robotsRe = /<meta[^>]+name=["']robots["'][^>]*>/i;
-    if (robotsRe.test(out)) out = out.replace(robotsRe, robotsTag);
-    else out = out.replace(/<\/title>/i, function (m) { return m + "\n  " + robotsTag; });
-  }
+  let out = setSingleTitle(html, meta.t);
+  out = setSingleMeta(out, "name", "description", meta.d);
+  out = setSingleMeta(out, "name", "keywords", meta.k);
+  if (meta.robots) out = setSingleMeta(out, "name", "robots", meta.robots);
+  out = setSingleMeta(out, "name", "fa-seo", "server");
   const ogType = OG_TYPE[(meta.ld && meta.ld["@type"]) || ""] || "website";
-  const tags = [
-    '<meta name="fa-seo" content="server">',
-    '<meta property="og:title" content="' + title + '">',
-    '<meta property="og:description" content="' + desc + '">',
-    '<meta property="og:type" content="' + ogType + '">',
-    '<meta property="og:url" content="' + esc(canonical) + '">',
-    '<meta property="og:image" content="' + esc(meta.img) + '">',
-    '<meta property="og:site_name" content="FlickAtlas">',
-    '<meta name="twitter:card" content="summary_large_image">',
-    '<meta name="twitter:title" content="' + title + '">',
-    '<meta name="twitter:description" content="' + desc + '">',
-    '<meta name="twitter:image" content="' + esc(meta.img) + '">',
-    '<link rel="canonical" href="' + esc(canonical) + '">'
-  ];
-  if (meta.ld) {
-    tags.push('<script type="application/ld+json">' +
-      JSON.stringify(meta.ld).replace(/</g, "\\u003c") + "</script>");
-  }
-  out = out.replace(/<\/head>/i, function (m) { return "  " + tags.join("\n  ") + "\n" + m; });
-  return out;
+  out = setSingleMeta(out, "property", "og:title", meta.t);
+  out = setSingleMeta(out, "property", "og:description", meta.d);
+  out = setSingleMeta(out, "property", "og:type", ogType);
+  out = setSingleMeta(out, "property", "og:url", canonical);
+  out = setSingleMeta(out, "property", "og:image", meta.img);
+  out = setSingleMeta(out, "property", "og:site_name", "FlickAtlas");
+  out = setSingleMeta(out, "name", "twitter:card", "summary_large_image");
+  out = setSingleMeta(out, "name", "twitter:title", meta.t);
+  out = setSingleMeta(out, "name", "twitter:description", meta.d);
+  out = setSingleMeta(out, "name", "twitter:image", meta.img);
+  out = setSingleCanonical(out, canonical);
+  return injectMergedJsonLd(out, meta, canonical);
 }
 function daywiseTitle(meta, day) {
   const requestedDay = day && /^\d+$/.test(day) ? Number(day) : 0;
   const latestMatch = String(meta.latest_day || "").match(/\d+/);
   const latestDay = latestMatch ? Number(latestMatch[0]) : 0;
   const selectedDay = requestedDay || latestDay;
-  if (selectedDay > 30) {
-    return meta.t + " Box Office Totals After Day 30 \u2014 India Net & Overseas | FlickAtlas";
-  }
-  if (requestedDay) {
-    return meta.t + " Box Office Collection Day " + requestedDay + " \u2014 India Net & Overseas | FlickAtlas";
-  }
-  return meta.t + " Box Office Collection Day-Wise \u2014 India Net & Overseas | FlickAtlas";
+  const suffix = selectedDay > 30
+    ? "Box Office Totals After Day 30"
+    : (requestedDay ? "Box Office Day " + requestedDay : "Day-Wise Box Office");
+  const core = String(meta.t || "FlickAtlas");
+  const detailed = core + " \u2014 " + suffix + " | FlickAtlas";
+  if (detailed.length <= 60) return detailed;
+  const descriptive = core + " \u2014 " + suffix;
+  if (descriptive.length <= 60) return descriptive;
+  const branded = core + " | FlickAtlas";
+  return branded.length <= 60 ? branded : core;
 }
 
 // ---------- PUBLIC VIEWER REVIEWS (2026-10-28, owner order) ----------
@@ -474,11 +537,20 @@ export default {
               const selectedDay = requestedDay || (latestMatch ? Number(latestMatch[0]) : 0);
               m2.t = daywiseTitle(entry, dayParam);
               if (selectedDay > 30) {
-                m2.d = entry.t + " box office totals after Day 30. Day-wise amounts stop at Day 30; totals include every recorded day.";
+                m2.d = entry.t + " box office totals after Day 30. Daily amounts stop at theatrical Day 30; later reports appear only in aggregate totals.";
                 if (m2.d.length > 160) m2.d = m2.d.slice(0, 157) + "...";
                 m2.robots = "noindex,follow";
-              } else if (requestedDay) {
-                m2.d = entry.t + " box office Day " + requestedDay + ". Day-wise pages cover Days 1–30; later days affect totals only.";
+              } else {
+                const dayRow = Array.isArray(entry.day_rows)
+                  ? entry.day_rows.find(function (row) { return Number(row.day) === selectedDay; })
+                  : null;
+                if (dayRow && dayRow.d) {
+                  m2.d = dayRow.d;
+                } else {
+                  m2.d = "No reported box office collection is listed for " + entry.t +
+                    (selectedDay ? " Day " + selectedDay : "") + ".";
+                  m2.robots = "noindex,follow";
+                }
                 if (m2.d.length > 160) m2.d = m2.d.slice(0, 157) + "...";
               }
             }

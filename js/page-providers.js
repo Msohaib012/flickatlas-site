@@ -14,8 +14,8 @@
   UI.mountChrome("/where-to-watch");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Where to Watch — Streaming & Rental | FlickAtlas",
-    desc: "Where to watch, as information: which streaming platform carries a movie or series in the United States, India, Pakistan and the United Kingdom — stream, rent and buy options in plain text.",
+    title: "Streaming Availability by Country | FlickAtlas",
+    desc: "Check recorded streaming providers for films and series in the US, India, Pakistan and UK. Listings vary by title and country.",
     path: "/where-to-watch"
   });
 

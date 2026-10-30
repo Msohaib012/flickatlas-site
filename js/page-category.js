@@ -10,9 +10,9 @@
    (All / Movies / TV Shows) — never a native <select> popup. */
 (async function () {
   const CATS = {
-    bollywood: { label: "Bollywood", desc: "Indian cinema — Hindi, Tamil, Telugu, Malayalam, Kannada, Punjabi, Bengali, Marathi and every Indian language: the biggest stars, openings and collections." },
-    world: { label: "World Cinema", desc: "International films and series from around the world." },
-    pakistani: { label: "Pakistani", desc: "The latest Pakistani films and dramas, newest first." },
+    bollywood: { label: "Bollywood", desc: "Indian-language films and TV titles, with available cast, story and release information." },
+    world: { label: "World Cinema", desc: "International movies and TV series, with available story, cast and release information." },
+    pakistani: { label: "Pakistani", desc: "Pakistani movies and drama series, with available cast, episode and release information." },
   };
   /* Legacy ?cat= values from before the published-only rebuild. */
   const CAT_ALIASES = { lollywood: "pakistani", hollywood: "world", international: "world" };
@@ -23,8 +23,8 @@
   UI.mountChrome("/category");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: `${info.label} Movies & Shows — Cast, Box Office & Release Dates | FlickAtlas`,
-    desc: `Browse ${info.label} movies and shows on FlickAtlas. ${info.desc}`,
+    title: `${info.label} Movies & TV Shows | FlickAtlas`,
+    desc: `Browse ${info.label} movies and TV titles on FlickAtlas. ${info.desc}`,
     path: `/category?cat=${cat}`
   });
 

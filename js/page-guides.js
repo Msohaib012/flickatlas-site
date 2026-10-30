@@ -27,8 +27,8 @@
   UI.mountChrome("/episode-guides");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Drama Episode Guides — Latest Drama Episodes | FlickAtlas",
-    desc: "Latest drama episodes on FlickAtlas — episode number, air date, channel, views and story summary, newest first.",
+    title: "Pakistani Drama Episode Guides | FlickAtlas",
+    desc: "Browse published Pakistani drama episode updates with episode numbers, air dates and channel details where available. Coverage reflects recorded posts, not every broadcast.",
     path: "/episode-guides"
   });
 

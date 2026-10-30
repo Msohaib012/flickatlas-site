@@ -18,8 +18,8 @@
   UI.mountChrome("/dramas");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Pakistani Dramas — Latest Pakistani Drama Serials | FlickAtlas",
-    desc: "Pakistani dramas on FlickAtlas — the latest Pakistani drama serials, newest first. Open a drama for its episode list.",
+    title: "Pakistani Dramas & TV Serials | FlickAtlas",
+    desc: "Browse Pakistani drama serials on FlickAtlas, newest first, with episode information on each published title page.",
     path: "/dramas"
   });
 

@@ -23,8 +23,8 @@
     return;
   }
   UI.setSEO({
-    title: "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-    desc: "Full movie details on FlickAtlas: cast & crew, story, budget vs box office collection, trailer and ratings.",
+    title: "Movie Details: Cast & Story | FlickAtlas",
+    desc: "Explore a published film's story, cast, release information and reported box-office data where available.",
     path: `/movie?id=${encodeURIComponent(id)}`
   });
   main.innerHTML = `<div class="wrap"><div class="sk" style="height:320px;border-radius:22px;margin-top:22px"></div><div class="sk" style="height:180px;border-radius:14px;margin-top:18px"></div></div>`;
@@ -645,8 +645,8 @@
     } catch (_) {}
 
     UI.setSEO({
-      title: `${title}${year ? ` (${year})` : ""} — Cast, Story, Budget & Box Office | FlickAtlas`,
-      desc: (pub.overview || `${title} — cast, story, budget and box office on FlickAtlas.`).slice(0, 160),
+      title: `${title}${year ? ` (${year})` : ""} — ${pub.overview ? "Story & Cast" : "Cast & Details"} | FlickAtlas`,
+      desc: (pub.overview || `${title} film details and cast information on FlickAtlas.`).slice(0, 160),
       path: `/movie?id=${encodeURIComponent(id)}`,
       type: "video.movie",
       image: poster || "",

@@ -20,8 +20,8 @@
     UI.mountChrome("/trailers");
     const main = document.getElementById("app");
     UI.setSEO({
-      title: "Official Trailers — Movies & TV | FlickAtlas",
-      desc: "Official trailers for published movies and TV shows on FlickAtlas, newest first. Open a title to watch its trailer.",
+      title: "Official Movie & TV Trailers | FlickAtlas",
+      desc: "Browse official trailer links for published films and series by recorded release date. Playback is on the linked platform.",
       path: "/trailers"
     });
     const dateOf = x => x.type === "tv" ? (x.first_air_date || "") : (x.release_date || "");
@@ -63,8 +63,8 @@
   UI.mountChrome("/upcoming");
   const main = document.getElementById("app");
   UI.setSEO({
-    title: "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
-    desc: "The FlickAtlas release calendar: upcoming movies and TV premieres grouped by month, with exact release dates, ratings and cast shortcuts.",
+    title: "Upcoming Movies & TV Release Dates | FlickAtlas",
+    desc: "Browse future-dated movies and TV titles by their recorded release dates. The nearest upcoming dates appear first; release plans can change.",
     path: "/upcoming"
   });
 
