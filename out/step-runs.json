@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T10:20:39Z",
-    "run_id": "40856792844",
-    "status": "success",
-    "checked": {
-     "candidates": 97,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal",
-      "The Traitors Telugu: Who Is Shravya Varma? Is Ram Gopal Varma’s Niece The Mastermind Behind The Mind Games?",
-      "Bigg Boss 20 Elimination Update: Will Gullu Get Evicted For Violating BB Rules? Here’s What Fans Have To Say",
-      "Immortal OTT Release Time: When And Where To Watch GV Prakash Kumar And Kayadu Lohar Film Online",
-      "Ali Fazal Gets Emotional As Mirzapur Is Named Most-Watched Show Of The Decade, Says Guddu Pandit’s Love Is Spe",
-      "Udta Teer Box Office Collection Day 6: Becomes Ayushmann Khurrana’s 5th Highest-Grossing Film Post-COVID",
-      "Dorothy Box Office (Closing Collection): Wraps Up With Nearly 60% ROI",
-      "Jailer 2 Box Office Nears ₹500 Cr India Gross to Become Only 2nd Tamil Film to Do So",
-      "Ahaan's new avatar: Vijay hails ‘immensely talented’ star",
-      "Rishab Shetty remembers Puneeth Rajkumar on fifth death anniversary",
-      "Dhanush follows Vijay’s footsteps as 'OM' actor's political entry buzz grows",
-      "Ranbir reveals how he proposed to Alia: 'There were three lions, my sherni, main chuha banke..'",
-      "Janhvi Kapoor finally confirms she is dating Shikhar Pahariya, reveals marriage plans on Koffee With Karan",
-      "Jamie Dornan says Viggo Mortensen will always be his Aragorn in ''Lord of the Rings''",
-      "Tiger Shroff To Resume Lag Jaa Gale Shoot Weeks After Shooting Incident; Location Details Under Wraps",
-      "The 10 Greatest Live Rock Albums Released in the 70s, Ranked",
-      "This Star Wars Line Is Still the Greatest Quote in Franchise History",
-      "‘Pokémon’ Fans Are Officially Running Out of Time To Catch 3 New Pokémon",
-      "A New James Bond Officially Joins The Iconic Franchise Today",
-      "‘Godzilla Minus One’ U.S. Success ‘Wasn’t a Strategy; We Just Tried,’ Says Toho CEO at Tokyo Festival"
-     ],
-     "updated": [],
-     "count": 88,
-     "detail": "97 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T11:51:18Z",
     "run_id": "40868487761",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "271 stories, 1 duplicates removed, 4 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T11:51:40Z",
-    "run_id": "40868487761",
+    "run_at": "2026-10-30T09:50:39Z",
+    "run_id": "41036361612",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 271,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
-      "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities"
+      "Ahaan Panday, Vedang Raina To Sparsh Walia: Young Actors Who Are Winning Hearts With Power-Packed Performances",
+      "Scene Trailer Release Date: Suriya's Film Gets A Major Update As Audio And Trailer Launch Date Is Announced",
+      "Sa Re Ga Ma Pa 2026: Anu Malik Joins Zee TV Show As A Special Judge - UPDATE",
+      "Ibrahim Ali Khan-Palak Tiwari Breakup: Did Iggy End His 3-Yr Relationship With Palak? Was The Split Mutual?",
+      "Karwa Chauth 2026 Special: 5 Romantic Web Series and Microdramas to Watch on OTT",
+      "Akka Web Series Review Ft. Keerthy Suresh, Radhika Apte & 100 Blood-Soaked Women Killing A Superb Feminist Plot That Turns Pointless & Unnecessary!",
+      "Drishyam 3 Box Office Collection Day 28: Scores Ajay Devgn’s 3rd Biggest Week 4 Of All Time!",
+      "Clayface North America Box Office: DCU Horror Is Edging Closer To Beating Avengers: Endgame Encore Soon!",
+      "Ranabaali Box Office: Beats Kingdom To Become Vijay Deverakonda’s Biggest Post-COVID Hit",
+      "Udta Teer Box Office Collection Day 7: Becomes Ayushmann Khurrana’s 4th Highest-Grossing Film Post-COVID",
+      "Tom Cruise and Keanu Reeves in Christopher Nolan's Next Film? Viral Rumour Sparks Buzz",
+      "15 Years Of 'Ra.One': Anubhav Sinha recalls VFX gamble with SRK",
+      "Paresh Rawal says he has done over 250 films but considers only 11 of them any good, reveals his favourite roles",
+      "Karthik Subbaraj responds to criticism that Kollywood has not delivered a  ₹1000 crore hit like KGF, Pushpa yet",
+      "Pankaj Tripathi says 'Mirzapur' shattered industry myth about star-driven films being BO pull",
+      "Ramayana's global box-office roar: Rs 17 crore in India, nearing $3 million overseas",
+      "7 Majestic Avengers: Doomsday Posters Will Make You Fear Doctor Doom",
+      "Philip K. Dick & William Gibson’s Streaming War Is The Cyberpunk Event Of All Time",
+      "Annecy Winner ‘The Violinist’ Found Its Italian Co-Producers at Tokyo Market, Director Ervin Han Tells Anime Co-Production Panel",
+      "Jamie Dornan Boards ‘Nostalgie,’ Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive)"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 267,
+     "detail": "271 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1424,27 +1403,30 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:52:19Z",
+    "run_id": "41036361612",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
+      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "+2 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T12:53:35Z",
-    "run_id": "40876623758",
-    "status": "success",
-    "checked": {
-     "candidates": 48,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 43, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1858,26 +1840,27 @@
      "detail": "now 53, coming 2"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T11:56:06Z",
-    "run_id": "40868487761",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T09:52:19Z",
+    "run_id": "41036361612",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 55,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 53, coming 2"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2270,27 +2253,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T10:20:59Z",
-    "run_id": "40856792844",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T09:52:20Z",
+    "run_id": "41036361612",
     "status": "success",
     "checked": {
-     "candidates": 293,
-     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 289 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2704,19 +2686,27 @@
      "detail": "+0 new rows, 97 updated rows, 222 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T09:52:19Z",
+    "run_id": "41036361612",
+    "status": "success",
+    "checked": {
+     "candidates": 320,
+     "detail": "319 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 316 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2972,30 +2962,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T11:56:06Z",
-    "run_id": "40868487761",
-    "status": "success",
-    "checked": {
-     "candidates": 64,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Denzel Washington and Russell Crowe Sci-Fi Action Movie Virtuosity Heads to Streaming",
-      "Ajith Kumar's Daredevil Ready to Roll on November 12 After Diwali Festivities"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 64 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3460,19 +3439,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:52:20Z",
+    "run_id": "41036361612",
+    "status": "success",
+    "checked": {
+     "candidates": 81,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
+      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 81 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3737,19 +3727,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4069,29 +4059,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T10:20:59Z",
-    "run_id": "40856792844",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 88 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
-      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4536,19 +4516,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:52:19Z",
+    "run_id": "41036361612",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 267 still unprocessed; today by category: movies 5/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 3/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
+      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4790,24 +4780,19 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 185,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5127,24 +5112,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 181,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5479,19 +5464,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 19,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5741,19 +5731,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5988,19 +5978,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6256,19 +6246,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T11:56:13Z",
-    "run_id": "40868487761",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6520,19 +6510,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6762,19 +6752,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T10:21:10Z",
-    "run_id": "40856792844",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7027,8 +7017,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:52:26Z",
+    "run_id": "41036361612",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T09:07:37Z"
+ "updated_at": "2026-10-30T09:52:26Z"
 }

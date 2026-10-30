@@ -20823,5 +20823,186 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-30T08:51:53Z"
+  },
+  "g9harb": {
+    "id": "g9harb",
+    "type": "news",
+    "headline": "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
+    "dek": "Anthony and Joe Russo have released a striking new series of promotional posters for Avengers: Doomsday, placing Robert Downey Jr.’s menacing villain squarely in the spotlight alongside multiple premium viewing formats.",
+    "body": [
+      {
+        "h": "Doctor Doom Takes Center Stage",
+        "p": [
+          "Marvel Studios and the directing duo Anthony and Joe Russo have generated considerable excitement by releasing a fresh wave of promotional material for the upcoming blockbuster Avengers: Doomsday. The studio published a set of seven distinct artworks that focus entirely on the central antagonist, Doctor Doom.",
+          "Portrayed by Robert Downey Jr., the character dominates every frame of the new promotional campaign. The artwork emphasizes a menacing and mysterious visual style designed to establish the villain as a formidable threat in the forthcoming cinematic event."
+        ]
+      },
+      {
+        "h": "Showcasing Premium Theatrical Formats",
+        "p": [
+          "Alongside the striking imagery of the villain, the promotional rollout serves to spotlight the various high-end theatrical screening formats that will be available to audiences upon release.",
+          "Fans planning to experience the massive ensemble movie in theaters can choose from an array of specialized formats, including Infinity Vision, RealD 3D, HDR by Barco, Dolby Cinema, ScreenX, and 4DX."
+        ]
+      },
+      {
+        "h": "A Breakdown of the Promotional Artworks",
+        "p": [
+          "The seven newly revealed posters offer varied glimpses into the aesthetic and tone surrounding the antagonist. The first artwork portrays the character standing before stained glass, wearing a green cloak and metallic mask that give him a distinctly royal aura.",
+          "Subsequent posters feature close-up shots of the metallic mask illuminated by emerald lighting, atmospheric green fog surrounding the figure, and the villain inspecting glowing green energy. Additional designs showcase hooded figures in diverse outfits, a dramatic pose with a flowing green cloak, and a final image of the character seated regally on an immense throne."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Release Details",
+        "p": [
+          "The promotional images were shared via Instagram by directors Anthony and Joe Russo, giving eager fans another deep dive into the look of the film prior to its premiere.",
+          "Avengers: Doomsday is scheduled to arrive in cinemas on December 18, 2026. The high-profile Marvel project is being steered by the Russo brothers and is set to feature a massive ensemble cast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios and directors Anthony and Joe Russo released seven promotional posters for Avengers: Doomsday highlighting Robert Downey Jr. as Doctor Doom. The artworks showcase various premium theatrical formats ahead of the film's theatrical release on December 18, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is scheduled to arrive in theaters on December 18, 2026.",
+      "Anthony and Joe Russo are directing Avengers: Doomsday.",
+      "Robert Downey Jr. plays Doctor Doom.",
+      "Seven new promotional posters were released."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Ojas Kulkarni"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Jumanji: Open World",
+        "Dune: Part Three",
+        "Godzilla Minus Zero",
+        "VisionQuest"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Doctor Doom",
+      "Robert Downey Jr",
+      "Anthony and Joe Russo"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/marveldoctordoom.webp?resize=1200,630",
+        "caption": "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 08:22:49 +0000"
+  },
+  "1x2fmoh": {
+    "id": "1x2fmoh",
+    "type": "news",
+    "headline": "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution",
+    "dek": "Yash Raj Films presents a bold 1980s period crime drama on Netflix featuring a female-led gangland, but excessive gore and weak writing undermine a promising feminist premise.",
+    "body": [
+      {
+        "h": "Introduction and Premise",
+        "p": [
+          "Netflix has launched Akka, a five-episode period crime drama produced by Yash Raj Films and directed by Dharmaraj Shetty. Set in the 1980s within the fictional South Indian kingdom of Pernuru, the series introduces a fascinating matriarchal society. Governing an area untouched by conventional patriarchy, this female-run clan operates under strict ancestral rules that forbid marital traditions and territorial division while centering female lineage.",
+          "The project initially sparked tremendous excitement due to its unique Uno Reverse concept on traditional gangster tropes, reminiscent of a female-dominated counterpart to Mirzapur. With a stellar ensemble cast and a high-profile streaming release, the setup promised a thrilling political and psychological exploration of power dynamics dominated entirely by women."
+        ]
+      },
+      {
+        "h": "Plot Dynamics and Character Rivalries",
+        "p": [
+          "At the center of the narrative are Bhavani and Rudra, two formidable figures whose conflicting ambitions ignite a fierce rivalry within the clan. The story positions these powerful women as the driving forces behind a vast criminal syndicate, aiming to dismantle male-dominated tropes by placing female supremacy at the absolute forefront.",
+          "However, rather than building a suspenseful political thriller driven by strategy, cunning decision-making, and betrayal, the plot quickly degrades into a repetitive cycle of violence. The fierce rivalry between Bhavani and Rudra is reduced to superficial confrontations, stripping the narrative of genuine emotional stakes and complex psychological depth."
+        ]
+      },
+      {
+        "h": "Stellar Performances Among the Chaos",
+        "p": [
+          "Keerthy Suresh takes on the heavy responsibility of playing Bhavani, attempting to shoulder the weight of a powerful legacy. Despite possessing a strong screen presence, her character struggles when taking direct action, as the script restricts her to grim glares and repetitive declarations rather than strategic brilliance.",
+          "Radhika Apte delivers a resilient performance, keeping scenes alive despite the lackluster script, though her talent is frequently underutilized. Meanwhile, Tanvi Azmi brings effortless authority and class to her limited screen time, leaving viewers wishing the overarching story had focused more on her commanding presence."
+        ]
+      },
+      {
+        "h": "Production Design and 1980s Aesthetics",
+        "p": [
+          "On the technical front, Dharmaraj Shetty demonstrates a clear visual ambition. The art direction and overall aesthetics successfully recreate the texture of the 1980s, transforming village settings and regional backdrops into a distinct cinematic world.",
+          "While the action choreography is undeniably energetic, the sheer volume of combat sequences eventually works against the series. The strong production values and striking atmosphere remain the show's primary strengths, contrasting sharply with its narrative shortcomings."
+        ]
+      },
+      {
+        "h": "Where the Writing Fails",
+        "p": [
+          "The core weakness of Akka lies in its writing, which mistakes grand scale for substantive storytelling. Hundreds of female characters are introduced solely to participate in endless bloodshed, slaughtering men and each other before the audience can even learn their names or understand their motivations.",
+          "Furthermore, the five-episode runtime feels unnecessarily stretched. The pacing suffers from repeated bouts of violence and aftermath that ultimately exhaust the viewer, turning what could have been a crisp feature-length film into a grueling slog."
+        ]
+      },
+      {
+        "h": "Tone, Violence, and Overall Reception",
+        "p": [
+          "The relentless influx of gore often crosses the line from dramatic tension into sheer repulsion. Scenes featuring endless hacking and slashing create a nauseating viewing experience that alienates rather than engages the audience.",
+          "Ultimately, Akka squanders a brilliant hook and a phenomenal cast through excessive brutality and a lack of narrative focus. Viewers without a very high tolerance for graphic violence may find it best to skip this ambitious yet flawed Netflix release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yash Raj Films has released the five-episode Netflix period crime series Akka, directed by Dharmaraj Shetty and starring Keerthy Suresh alongside Radhika Apte. While the 1980s South Indian setting and matriarchal gangland premise offered a unique feminist take on the crime genre, critics noted that excessive gore and weak writing overshadowed the performances."
+        ]
+      }
+    ],
+    "facts": [
+      "Akka is a 5-episode web series streaming on Netflix.",
+      "The series is produced by Yash Raj Films and directed by Dharmaraj Shetty.",
+      "The runtime is 5 episodes of 45 minutes each in the Hindi language.",
+      "The main cast includes Keerthy Suresh, Radhika Apte, Tanvi Azmi, Monika Panwar, Mahesh Manjrekar, and Anshuman Pushkar.",
+      "The story is set in the 1980s in Pernuru, a fictional South Indian kingdom."
+    ],
+    "entities": {
+      "people": [
+        "Keerthy Suresh",
+        "Radhika Apte",
+        "Tanvi Azmi",
+        "Monika Panwar",
+        "Mahesh Manjrekar",
+        "Anshuman Pushkar",
+        "Dharmaraj Shetty"
+      ],
+      "titles": [
+        "Akka",
+        "Mirzapur",
+        "Ram-Leela",
+        "Dabba Cartel",
+        "Sarabhai VS Sarabhai",
+        "Khichdi",
+        "Bakaiti S2",
+        "Matargashti",
+        "Drishyam 3",
+        "Clayface",
+        "Avengers: Endgame",
+        "Ranabaali",
+        "Kingdom",
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "Akka Web Series",
+      "Keerthy Suresh Akka",
+      "Radhika Apte Netflix",
+      "Akka review Yash Raj Films"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/akka-web-series-revie-out-01.jpg",
+        "caption": "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Exec",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 08:50:11 +0000"
   }
 };
