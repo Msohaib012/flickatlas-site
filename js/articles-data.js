@@ -21195,5 +21195,222 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 14:30:57 +0530"
+  },
+  "qv0504": {
+    "id": "qv0504",
+    "type": "news",
+    "headline": "Ramayana Producer Namit Malhotra Recalls Losing 90% Wealth at 19 Before Backing Rs 4,000 Crore Epic",
+    "dek": "Namit Malhotra reflects on his early financial struggles during the 2008 economic downturn, his company's Oscar-winning visual effects pedigree, and his upcoming high-budget retelling of Ramayana.",
+    "body": [
+      {
+        "h": "A Journey from Garage Startup to Global Producer",
+        "p": [
+          "Producer Namit Malhotra has opened up about the immense hardships he faced early in his professional life, revealing that he lost ninety percent of his accumulated wealth back in 2008. Reflecting on his humble beginnings, he recalled starting out at just nineteen years old as a garage entrepreneur working alongside his teachers on an Apple computer.",
+          "Today, the landscape looks remarkably different for the filmmaker, whose family boasts a massive net worth estimated at sixteen thousand crore rupees according to the Hurun India Rich List for 2026. Now fifty years old, Namit stands at the helm of one of the most ambitious cinematic undertakings in modern Indian film history."
+        ]
+      },
+      {
+        "h": "The 2008 Financial Setback in Los Angeles",
+        "p": [
+          "In his quest to bridge Eastern and Western filmmaking traditions, Namit relocated to the United States in 2007 with aspirations of establishing a truly global enterprise. However, his grand ambitions faced a severe roadblock just a year later when the global financial recession crippled markets and devastated immigrant businesses across America.",
+          "Recalling those turbulent times, the producer acknowledged how close he came to losing everything during the economic downturn. Bouncing back from that catastrophic loss to spearhead a massive international production has given him a profound sense of accomplishment and disbelief at how far his career has traveled."
+        ]
+      },
+      {
+        "h": "Hosting a Special Los Angeles Showcase",
+        "p": [
+          "Ahead of his upcoming cinematic venture, Namit recently organized an exclusive special screening at the Academy Theater located in Los Angeles. He described the gathering as his very own personal Oscar moment, drawing a poetic parallel to the dreams he harbored as a teenager tinkering with computers in a makeshift workspace.",
+          "Addressing the attendees, the producer relished the opportunity to speak without interruption, celebrating the milestone in the legendary city of dreams. The event served as a prelude to the worldwide release of his upcoming project, bringing international industry peers together to witness a glimpse of the monumental retelling."
+        ]
+      },
+      {
+        "h": "An Eight-Time Oscar Winning Visual Effects Legacy",
+        "p": [
+          "A cornerstone of Namit's success lies in his visual effects powerhouse, DNEG, which has built an extraordinary reputation on the global stage. The company and its dedicated teams have triumphed at the Academy Awards on eight separate occasions, securing seven of those prestigious accolades over the past eleven years alone.",
+          "Through DNEG, Namit has collaborated with some of the most celebrated visionary directors of the modern era, including cinematic heavyweights like Christopher Nolan and Denis Villeneuve. This world-class VFX expertise forms the bedrock of the cutting-edge technology being deployed for his current cinematic adaptation."
+        ]
+      },
+      {
+        "h": "Family Roots and Gratitude for Supporters",
+        "p": [
+          "Coming from a lineage deeply rooted in the film industry as part of a third-generation movie family, Namit credited his foundational push into production to his filmmaker father. He emphasized that his initial foray into post-production and visual effects was always driven by a steadfast ultimate goal of making movies.",
+          "During his address, the producer made a point to express deep gratitude toward his parents, Nita and Naresh Malhotra, alongside his wife. He acknowledged that their unwavering support and belief in his overarching vision provided the emotional pillar necessary to weather his early financial storms."
+        ]
+      },
+      {
+        "h": "Inside the Ambitious Ramayana Project",
+        "p": [
+          "Scheduled for a worldwide multilingual theatrical rollout on November 5, the two-part screen adaptation of the timeless Indian epic Ramayana carries a staggering reported budget of four thousand crore rupees. The magnum opus is directed by Nitesh Tiwari and co-produced by Yash, positioning it as one of the largest independent productions globally.",
+          "The feature boasts a star-studded primary cast featuring Ranbir Kapoor, Sai Pallavi, and Ravi Dubey in pivotal lead roles. They are joined by an expansive supporting ensemble that includes well-known actors such as Rakul Preet Singh, Vivek Oberoi, Lara Dutta, and Arun Govil."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra reflected on losing ninety percent of his wealth during the 2008 recession at age nineteen, contrasting it with his family's current sixteen thousand crore rupee net worth. He hosted a Los Angeles showcase for his upcoming four thousand crore rupee Ramayana adaptation, highlighting his company's eight Oscar wins in visual effects.",
+          "The multilingual two-part film directed by Nitesh Tiwari and co-produced by Yash is slated for release on November 5, featuring stars like Ranbir Kapoor and Sai Pallavi."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra lost 90% of his wealth in 2008 at the age of 19.",
+      "Hurun India Rich List 2026 estimates his family's net worth at Rs 16,000 crore.",
+      "Namit Malhotra is 50 years old and moved to the US in 2007.",
+      "His company DNEG has won 8 Academy Awards in total, with 7 in the last 11 years.",
+      "Ramayana is a two-part screen adaptation directed by Nitesh Tiwari and co-produced by Yash.",
+      "The budget of Ramayana is reported to be Rs 4,000 crore.",
+      "Ramayana is scheduled for release on November 5.",
+      "The lead roles in Ramayana are played by Ranbir Kapoor, Sai Pallavi, and Ravi Dubey.",
+      "The supporting cast of Ramayana includes Rakul Preet Singh, Vivek Oberoi, Lara Dutta, and Arun Govil.",
+      "His parents are Nita and Naresh Malhotra."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Anirudh Ravichander",
+        "Priyanka Chopra",
+        "Quentin Tarantino",
+        "Nazriya Nazim",
+        "Denzel Washington",
+        "Nina Simone",
+        "RM",
+        "Sai Pallavi",
+        "Patrick Stewart",
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Nita Malhotra",
+        "Naresh Malhotra",
+        "Nitesh Tiwari",
+        "Yash",
+        "Ranbir Kapoor",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Lara Dutta",
+        "Arun Govil"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ra.One",
+        "Sankarabharanam",
+        "Adarsha Kutumbam",
+        "Mirzapur",
+        "Drishyam 3"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Namit Malhotra",
+      "Ramayana budget release date",
+      "Ranbir Kapoor Sai Pallavi Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135352919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana Producer Namit Malhotra Recalls Losing 90% Wealth at 19 Before Backing Rs 4,000 Crore Epic",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T14:27:48+05:30"
+  },
+  "po27ib": {
+    "id": "po27ib",
+    "type": "news",
+    "headline": "Priyanka Chopra Jonas joins Oscar-qualified short film We Were Here as executive producer",
+    "dek": "Global star Priyanka Chopra Jonas has boarded the Oscar-qualified Indian short film We Were Here in an executive producer role ahead of its Academy Awards campaign.",
+    "body": [
+      {
+        "h": "Priyanka Chopra Jonas Joins the Project",
+        "p": [
+          "Actor and producer Priyanka Chopra Jonas has officially associated herself with the Indian short film We Were Here, coming on board as an executive producer. Her involvement arrives as the project prepares for its upcoming Academy Awards campaign.",
+          "The acclaimed short film has gathered significant international momentum, and Chopra Jonas's attachment is expected to further elevate its visibility during the competitive awards season."
+        ]
+      },
+      {
+        "h": "Star-Studded Executive Producer Roster",
+        "p": [
+          "Alongside Priyanka Chopra Jonas, the film has also welcomed actor Andrew Scott and Tony Award-winning playwright and activist V as executive producers.",
+          "The addition of these prominent international figures strengthens the creative backing for the project as it pursues further acclaim and recognition globally."
+        ]
+      },
+      {
+        "h": "Premise and Plot of We Were Here",
+        "p": [
+          "The story centres on three retired men residing in a small Indian town who grow convinced that machines are systematically replacing human jobs. In response, they stage an unusual protest by impersonating household appliances.",
+          "Their eccentric form of resistance takes a surprising turn when the child of one of the men secures employment at an artificial intelligence company, deepening the domestic conflict."
+        ]
+      },
+      {
+        "h": "Themes Explored by Director Pranav Bhasin",
+        "p": [
+          "Written and directed by Pranav Bhasin, the comedy delves into contemporary themes such as technology, employment worries, and the underlying fear of human obsolescence.",
+          "Through the everyday lives of ordinary characters, the film crafts a witty and timely narrative about the rapid integration of automation in modern society."
+        ]
+      },
+      {
+        "h": "Festival Run and Academy Award Qualification",
+        "p": [
+          "We Were Here has completed an extensive festival circuit, screening at more than 80 international events and collecting over 20 awards along the way.",
+          "Notably, its victory at the Palm Springs International ShortFest—where it won Best Live-Action Short Film Under 15 Minutes and Best Comedy Short—secured its official eligibility for Academy Award consideration."
+        ]
+      },
+      {
+        "h": "Global Recognition and Premiere Plans",
+        "p": [
+          "The project initially held its world premiere at the Clermont-Ferrand International Short Film Festival, where it picked up the Canal Prize. It also earned accolades such as the Audience Award for Best Narrative Short at South by Southwest.",
+          "In terms of distribution, The New Yorker has acquired the short film and plans to host its premiere on the publication's official YouTube channels."
+        ]
+      },
+      {
+        "h": "Director and Production Team Reactions",
+        "p": [
+          "Director Pranav Bhasin described the backing of high-profile artists like Chopra Jonas, Scott, and V as a surreal development during the awards season.",
+          "The film itself is produced by Yash Gonsai, Dheer Momaya, and Dar Gai, with SPLF Media and Aarti Lohia serving as presenters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Priyanka Chopra Jonas has joined the Oscar-qualified Indian short film We Were Here as an executive producer alongside Andrew Scott and V. Directed by Pranav Bhasin, the comedy follows retired men protesting automation and has secured Academy Award eligibility through its festival wins."
+        ]
+      }
+    ],
+    "facts": [
+      "Priyanka Chopra Jonas joined We Were Here as an executive producer",
+      "Pranav Bhasin is the director and writer of the film",
+      "Andrew Scott and V also joined as executive producers",
+      "The film has won more than 20 awards across the international festival circuit",
+      "The New Yorker acquired the short film for its YouTube channels",
+      "The film is produced by Yash Gonsai, Dheer Momaya, and Dar Gai"
+    ],
+    "entities": {
+      "people": [
+        "Priyanka Chopra Jonas",
+        "Pranav Bhasin",
+        "Andrew Scott",
+        "V",
+        "Yash Gonsai",
+        "Dheer Momaya",
+        "Dar Gai",
+        "Aarti Lohia"
+      ],
+      "titles": [
+        "We Were Here"
+      ]
+    },
+    "keywords": [
+      "Priyanka Chopra Jonas We Were Here",
+      "We Were Here short film",
+      "Pranav Bhasin We Were Here",
+      "We Were Here Oscar qualified"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/2_1752989036965_1752989037265.jpeg",
+        "caption": "Priyanka Chopra Jonas joins Oscar-qualified short film We Were Here as executive producer",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 14:27:11 +0530"
   }
 };
