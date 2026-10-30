@@ -20276,5 +20276,175 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 09:50:32 +0200"
+  },
+  "1sope9j": {
+    "id": "1sope9j",
+    "type": "news",
+    "headline": "Sir Patrick Stewart Passes Away at 86, Tributes Pour In",
+    "dek": "Legendary actor Sir Patrick Stewart, celebrated for his iconic roles in Star Trek and X-Men, has died at the age of 86 in Los Angeles.",
+    "body": [
+      {
+        "h": "Passing of a Legend",
+        "p": [
+          "The entertainment world is in mourning following the death of beloved actor Sir Patrick Stewart at the age of 86. His family and representatives released a formal statement confirming that the legendary performer passed away at his home in Los Angeles.",
+          "Surrounded by his loved ones during his final moments, the actor left behind an extraordinary legacy spanning decades of unforgettable performances across stage and screen."
+        ]
+      },
+      {
+        "h": "Health Battle and Final Moments",
+        "p": [
+          "According to the family's official announcement, Stewart's passing followed a brief and poignant journey with Alzheimer’s disease and Lewy Body Dementia.",
+          "He spent his final moments in the loving care of his wife Sunny, surrounded by family, friends, live music, prayers, and deep emotional tributes that reflected his lifetime of dedication."
+        ]
+      },
+      {
+        "h": "Hugh Jackman's Emotional Tribute",
+        "p": [
+          "Among the first to share their grief was Hugh Jackman, who starred alongside Stewart in the X-Men franchise as Wolverine while Stewart played Professor Charles Xavier.",
+          "Jackman shared cherished photographs and recalled the profound lessons he learned from his co-star, stating that he would miss his dear friend for all of his days."
+        ]
+      },
+      {
+        "h": "Industry Honors from the Russo Brothers",
+        "p": [
+          "The Russo Brothers also paid homage to the late actor, expressing immense gratitude for having the opportunity to collaborate with someone they had deeply admired since childhood.",
+          "They praised his unmistakable presence, unmatched integrity, and the lasting lessons in humanity he imparted both on and off the screen."
+        ]
+      },
+      {
+        "h": "Marvel Studios Remembers Professor X",
+        "p": [
+          "Marvel Studios posted an emotional tribute on Instagram celebrating Stewart's definitive portrayal of Professor Charles Xavier across multiple films including the X-Men series and Logan.",
+          "The studio highlighted his grace, intelligence, and humanity, noting that his upcoming appearance in Avengers: Doomsday is expected to mark his final on-screen project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Legendary actor Sir Patrick Stewart has passed away at the age of 86 at his home in Los Angeles following a battle with Alzheimer’s disease and Lewy Body Dementia. Co-stars like Hugh Jackman, directors the Russo Brothers, and Marvel Studios shared heartfelt tributes celebrating his monumental contributions to cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Sir Patrick Stewart passed away at the age of 86.",
+      "He died at his home in Los Angeles on October 28, 2026.",
+      "His death followed a brief battle with Alzheimer’s disease and Lewy Body Dementia.",
+      "He is survived by his wife Sunny.",
+      "He is slated to appear in Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Sir Patrick Stewart",
+        "Sunny",
+        "Hugh Jackman"
+      ],
+      "titles": [
+        "Star Trek",
+        "X-Men",
+        "Logan",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Sir Patrick Stewart",
+      "Sir Patrick Stewart passes away",
+      "Hugh Jackman Patrick Stewart",
+      "Marvel Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-10/2061051346_sir-patrick-stewart-passes-away-at-86.webp",
+        "caption": "Sir Patrick Stewart Passes Away at 86, Tributes Pour In",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 11:03:33 +0530"
+  },
+  "r6bckh": {
+    "id": "r6bckh",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 15: Sets Kollywood Record With Massive Second Week",
+    "dek": "Rajinikanth's action-comedy thriller Jailer 2 achieves the biggest second week in Kollywood history, surpassing the long-standing record of 2.0 at the Indian box office.",
+    "body": [
+      {
+        "h": "Sustained Momentum in the Second Week",
+        "p": [
+          "The Rajinikanth-led action-comedy thriller Jailer 2 has continued its extraordinary theatrical run at the Indian box office, proving that its massive opening was no fluke. Even though critics pointed to a noticeable dip in collections during the second half of its run, the movie weathered the storm and pulled off historic numbers.",
+          "On its third Thursday, marking day 15 of its release, the film brought in 5.9 crore. While this represented an 18.05% drop compared to the 7.2 crore earned on day 14, the overall totals remained remarkably high as the feature pushed further into its theatrical journey."
+        ]
+      },
+      {
+        "h": "Dethroning 2.0 for Historical Top Spot",
+        "p": [
+          "By accumulating 95.2 crore during its second week alone, Jailer 2 officially registered the biggest second week of all time for Kollywood at the Indian box office. This incredible tally allowed the magnum opus to comfortably dethrone 2.0, which previously held the record with 74.05 crore for seven years.",
+          "The historic second-week list now places Jailer 2 at the very top with 95.2 crore, followed by 2.0 at 74.05 crore, the original Jailer at 62.95 crore, Amaran at 57.25 crore, and Ponniyin Selvan 1 rounding out the upper tier with 54.85 crore."
+        ]
+      },
+      {
+        "h": "Overall Indian Box Office Totals",
+        "p": [
+          "The week-wise breakdown highlights the immense scale of the film's earnings in India, beginning with an 8-day first week total of 334.35 crore. Combined with the 95.2 crore generated in week two—marking a 71.53% decline from the opening week—the cumulative net collection stands at a staggering 429.55 crore.",
+          "When translated into gross figures, the domestic total reaches 506.88 crore. Given the relentless momentum and strong footing at ticket windows, the feature now stands with a realistic chance to enter the exclusive 500 crore net club as the first Kollywood release to do so."
+        ]
+      },
+      {
+        "h": "Budget, Return on Investment, and Verdict",
+        "p": [
+          "Produced on a reported budget of 350 crore, Jailer 2 has successfully crossed its production threshold through its net earnings of 429.55 crore. Over its 15-day run, the venture has recorded a strong return on investment amounting to 79.55 crore.",
+          "Expressed as a percentage, the returns calculate to approximately 22.73%. Based on established tracking parameters, the film has officially secured a plus verdict at the box office."
+        ]
+      },
+      {
+        "h": "International Milestones",
+        "p": [
+          "Beyond its domestic dominance, the Rajinikanth starrer has made significant waves internationally. Notably, the project achieved the milestone of becoming Kollywood's highest-grossing film of all time in North America within just 13 days of release.",
+          "These overseas achievements further reinforce the global appeal of the franchise, cementing its status as a monumental commercial success across multiple territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 earned 5.9 crore on day 15, bringing its total Indian net collection to 429.55 crore against a 350 crore budget. The film secured Kollywood's biggest second week with 95.2 crore, overtaking 2.0 to claim the historic record."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 earned 5.9 crore on day 15",
+      "Day 14 collection was 7.2 crore",
+      "Week 2 total collection was 95.2 crore",
+      "Week 1 collection was 334.35 crore",
+      "Total India net collection is 429.55 crore",
+      "Total India gross collection is 506.88 crore",
+      "Budget is 350 crore",
+      "Return on investment is 79.55 crore",
+      "ROI percentage is 22.73%",
+      "2.0 second week collection was 74.05 crore"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0",
+        "Jailer",
+        "Amaran",
+        "Ponniyin Selvan 1"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Jailer 2 day 15 collection",
+      "Rajinikanth Jailer 2",
+      "Kollywood highest second week"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/jailer-2-box-office-collection-day-15-surpasses-2-0-to-register-kollywoods-biggest-2nd-week-01.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 15: Sets Kollywood Record With Massive Second Week",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 05:21:53 +0000"
   }
 };

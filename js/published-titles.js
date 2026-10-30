@@ -172,8 +172,8 @@ window.FA_PUBLISHED = {
     "id": 656908,
     "type": "movie",
     "title": "Ramayana: Rise of a Legend",
-    "poster_path": "/cK6xaYrb498y2rmMRSZmRKaCXKL.jpg",
-    "backdrop_path": "/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
+    "poster_path": "/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+    "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
@@ -200,7 +200,7 @@ window.FA_PUBLISHED = {
       "Adventure"
     ],
     "tagline": "Our truth. Our history",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN",
       "GB"
@@ -210,9 +210,10 @@ window.FA_PUBLISHED = {
       "sa"
     ],
     "certification": "U",
-    "release_date": "2026-11-04",
+    "release_date": "2026-11-05",
     "runtime": 195,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "1389172": {
     "id": 1389172,
@@ -416,8 +417,8 @@ window.FA_PUBLISHED = {
     "title": "Wild Horse Nine",
     "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "vote_average": 9.0,
-    "vote_count": 3,
+    "vote_average": 8.9,
+    "vote_count": 7,
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
     "industry": "world",
     "original_language": "en",
@@ -452,9 +453,10 @@ window.FA_PUBLISHED = {
       "es"
     ],
     "certification": "U",
-    "release_date": "2026-10-30",
+    "release_date": "2026-11-06",
     "runtime": 117,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "1453407": {
     "id": 1453407,
@@ -646,9 +648,10 @@ window.FA_PUBLISHED = {
       "en"
     ],
     "certification": "U/A 13+",
-    "release_date": "2026-11-04",
+    "release_date": "2026-11-11",
     "runtime": 90,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "336288": {
     "id": 336288,
@@ -803,8 +806,8 @@ window.FA_PUBLISHED = {
     "id": 1003596,
     "type": "movie",
     "title": "Avengers: Doomsday",
-    "poster_path": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-    "backdrop_path": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+    "poster_path": "/bl9Ha0PGgsC3erpEbJrdY9PPkUa.jpg",
+    "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
@@ -839,9 +842,10 @@ window.FA_PUBLISHED = {
       "en"
     ],
     "certification": "+13",
-    "release_date": "2026-12-16",
+    "release_date": "2026-12-17",
     "runtime": 165,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "1423191": {
     "id": 1423191,
@@ -895,10 +899,10 @@ window.FA_PUBLISHED = {
     "title": "Aadarsha Kutumbam House No: 47 - AK47",
     "poster_path": "/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
     "backdrop_path": "/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 10.0,
+    "vote_count": 1,
     "overview": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "te",
     "origin_country": [
       "IN"
@@ -913,21 +917,22 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [
       "Family",
-      "Action",
-      "Comedy"
+      "Comedy",
+      "Action"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
     "spoken_languages": [
       "te"
     ],
-    "certification": "U/A 16+",
+    "certification": "UA",
     "release_date": "2026-10-30",
-    "runtime": 0,
-    "providers": []
+    "runtime": 149,
+    "providers": [],
+    "date_kind": "release"
   },
   "1269325": {
     "id": 1269325,
@@ -1107,7 +1112,7 @@ window.FA_PUBLISHED = {
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "te",
     "origin_country": [
       "IN"
@@ -1126,17 +1131,18 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
     "spoken_languages": [
       "te"
     ],
-    "certification": "",
+    "certification": "A",
     "release_date": "2026-10-30",
-    "runtime": 0,
-    "providers": []
+    "runtime": 152,
+    "providers": [],
+    "date_kind": "release"
   },
   "1780005": {
     "id": 1780005,
@@ -1219,7 +1225,8 @@ window.FA_PUBLISHED = {
     "certification": "U",
     "release_date": "2026-10-30",
     "runtime": 111,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "1389379": {
     "id": 1389379,
@@ -1271,7 +1278,7 @@ window.FA_PUBLISHED = {
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -1298,7 +1305,8 @@ window.FA_PUBLISHED = {
     "certification": "",
     "release_date": "2026-11-06",
     "runtime": 0,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "1451944": {
     "id": 1451944,
@@ -1478,7 +1486,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
@@ -1488,7 +1496,8 @@ window.FA_PUBLISHED = {
     "certification": "U/A 13+",
     "release_date": "2026-10-30",
     "runtime": 119,
-    "providers": []
+    "providers": [],
+    "date_kind": "release"
   },
   "1798823": {
     "id": 1798823,
@@ -3116,7 +3125,7 @@ window.FA_PUBLISHED = {
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "Roohi, a simple girl, is the complete opposite of her twin sister Mahi, who is sharp, daring, and mischievous. As the story progresses, layers of suspense and drama unfold.",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "pa",
     "origin_country": [
       "IN"
@@ -3248,7 +3257,7 @@ window.FA_PUBLISHED = {
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A girl suffering from schizophrenia accidentally meets four criminals. Meanwhile in an hide and seek with Police and the criminals lies the mystery.",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "kn",
     "origin_country": [
       "IN"
@@ -3379,7 +3388,7 @@ window.FA_PUBLISHED = {
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "Lakshman, an IT professional ironically nicknamed Lucky, finds himself trapped in a life full of misfortune. Everything changes when a mysterious cap turns his luck around, taking his life in unexpected directions.",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "kn",
     "origin_country": [
       "IN"
@@ -3734,12 +3743,12 @@ window.FA_PUBLISHED = {
     "id": 1402181,
     "type": "movie",
     "title": "Scene",
-    "poster_path": "/o07oEIsJLPLbLWMCX54fZbUYh9y.jpg",
-    "backdrop_path": "/zYiUafcGC7JqK01GYbkimBYNaUR.jpg",
+    "poster_path": "/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
+    "backdrop_path": "/hag4r953Nn4maIvudN1T9wGoxkc.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "A serious crime hunt with a not so serious team.",
-    "industry": "world",
+    "overview": "Inbaraj, a police officer, is forced to reopen a case he left unfinished years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.",
+    "industry": "bollywood",
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -3766,10 +3775,10 @@ window.FA_PUBLISHED = {
       "ta",
       "ml"
     ],
-    "certification": "",
+    "certification": "U/A 16+",
     "release_date": "2026-11-06",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 149,
     "providers": []
   },
   "1081010": {
@@ -4290,7 +4299,7 @@ window.FA_PUBLISHED = {
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
-    "industry": "world",
+    "industry": "bollywood",
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -5945,8 +5954,8 @@ window.FA_PUBLISHED = {
     "title": "The Perfect Lie",
     "poster_path": "/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
     "backdrop_path": "/hglYTJIswg5p3YA3V85B2dhvnNj.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 10.0,
+    "vote_count": 1,
     "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
     "industry": "world",
     "popularity": 7.3504,
@@ -7668,7 +7677,7 @@ window.FA_PUBLISHED = {
   "1810711": {
     "id": 1810711,
     "type": "movie",
-    "title": "Dilwali diwali",
+    "title": "Dilwali Diwali",
     "poster_path": "/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
     "backdrop_path": "/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
     "vote_average": 0.0,
@@ -7699,7 +7708,7 @@ window.FA_PUBLISHED = {
     "spoken_languages": [
       "hi"
     ],
-    "certification": "",
+    "certification": "PG",
     "release_date": "2026-11-05",
     "date_kind": "release",
     "runtime": 0,
@@ -8403,6 +8412,843 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-05",
     "date_kind": "release",
     "runtime": 0,
+    "providers": []
+  },
+  "289517": {
+    "id": 289517,
+    "type": "tv",
+    "title": "Dead-End Job",
+    "poster_path": "/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
+    "backdrop_path": "/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "When a debtor is lured by a strange agency with the promise of lucrative gigs, he is soon thrust into a hellish world of terror and unpredictability.",
+    "industry": "world",
+    "popularity": 13.9828,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "Sn2ZCxOxsN0",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "50x Minimum wage guaranteed, will you accept this sweet gig?",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-10-30",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-29",
+        "name": "Limited Series"
+      }
+    ],
+    "created_by": [
+      "Han Jun-hee"
+    ],
+    "providers": []
+  },
+  "1306500": {
+    "id": 1306500,
+    "type": "movie",
+    "title": "Moon Walk",
+    "poster_path": "/r6tHsCtTnLJ7aK6B8yl25jY49Jq.jpg",
+    "backdrop_path": "/o7HQhcFyEsl7CItCZw6T9j9iWAf.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Moonwalk is a family comedy entertainer starring Prabhudeva, Yogi Babu, Aju Varghese, and Arjun Ashokan. Featuring music by A. R. Rahman, the film marks the high-profile reunion of Rahman and Prabhudeva after 30 years. Moonwalk also serves as Rahman’s acting debut. Designed as a wholesome theatrical experience, the film combines high-energy dance, music, and humor for families, children and audiences of all ages.",
+    "industry": "bollywood",
+    "popularity": 2.592,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1483525": {
+    "id": 1483525,
+    "type": "movie",
+    "title": "Possible Love",
+    "poster_path": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+    "backdrop_path": "/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+    "vote_average": 7.9,
+    "vote_count": 10,
+    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+    "industry": "world",
+    "popularity": 9.8243,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "zd3qXH9qN70",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "KR",
+      "US"
+    ],
+    "spoken_languages": [
+      "ko",
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 165,
+    "providers": []
+  },
+  "1811601": {
+    "id": 1811601,
+    "type": "movie",
+    "title": "Et si on en parlait ?",
+    "poster_path": "/hT6yx16RRzVKYbbCc8gRIoozWWz.jpg",
+    "backdrop_path": "/pMDI467mOsTNT0uaMKyZRAea1z1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.5822,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "292741": {
+    "id": 292741,
+    "type": "tv",
+    "title": "Nocturne",
+    "poster_path": "/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdrop_path": "/kn6ZSYuyeSymOp0gqJVBOMAJrTC.jpg",
+    "vote_average": 10.0,
+    "vote_count": 2,
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "industry": "world",
+    "popularity": 21.187,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "AaEy1f2Dgys",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "Outthink the killer. Outrun the lies.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2026-10-29",
+    "networks": [
+      "Apple TV"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 10,
+    "channel": "Apple TV",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2026-10-29",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Rowan Joffé"
+    ],
+    "providers": []
+  },
+  "1680033": {
+    "id": 1680033,
+    "type": "movie",
+    "title": "Appa Kutty",
+    "poster_path": "/6h0XuDkjNOTYpmdMop5nDrBREum.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 2.2077,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1809955": {
+    "id": 1809955,
+    "type": "movie",
+    "title": "HUELLAS. Echoes of State Terrorism in Mar del Plata 50 Years On",
+    "poster_path": "/6AYQfnzjBCXZzdgYfo8A7nO1bKC.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Can the sea wash everything away? Huellas reconstructs the circuit of state terrorism in Mar del Plata, 50 years after the civic-military coup. Through the testimonies of survivors, family members and specialists, the documentary probes the indelible marks left by repression and the resilience of a community that demands memory. Because history never ends, it is written.",
+    "industry": "world",
+    "popularity": 0.4104,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 66,
+    "providers": []
+  },
+  "1495662": {
+    "id": 1495662,
+    "type": "movie",
+    "title": "Lakadbaggha 2: The Monkey Business",
+    "poster_path": "/rpI1fMxh67IUgnE3T3vGNTqbbPJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Sequel to Lakadbaggha (2023). Plot TBA.",
+    "industry": "bollywood",
+    "popularity": 0.9239,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1809693": {
+    "id": 1809693,
+    "type": "movie",
+    "title": "Her Sey Dahil",
+    "poster_path": "/hl0055gbGaKACrFTyQlfCXhHilx.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3508,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 15000,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "Genel İzleyici Kitlesi",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1441306": {
+    "id": 1441306,
+    "type": "movie",
+    "title": "Sadhak Bamakhyapa",
+    "poster_path": "/rDXHAOH8dIilgQ1PWpVfCF0Z1x9.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Bamakhyapa, an Indian saint living in the 18th century, is a great devotee of Goddess Tara. Though he is against the unconventional orthodox temple practices, he uses his divine powers to help the needy.",
+    "industry": "bollywood",
+    "popularity": 0.7111,
+    "original_language": "bn",
+    "origin_country": [],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1809654": {
+    "id": 1809654,
+    "type": "movie",
+    "title": "Fuego amigo",
+    "poster_path": "/rJ2Fwh7kinUKcjKOSELzHkBAmly.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Andrés is a veteran of the Malvinas War. He works at the family transportation company. News arrives that the EAAF?the Argentine Forensic Anthropology Team?has identified the remains of his friend Damián, who fell in battle. He has started smoking again. A delegation is being organized to travel to the Islands and attend the ceremony. An old pang of guilt torments him: when Damián fell, he was a few meters behind him, firing his weapon. He always knew it wasn?t him, but the specter of friendly fire casts a shadow over his memory.",
+    "industry": "world",
+    "popularity": 0.3443,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 88,
+    "providers": []
+  },
+  "1809651": {
+    "id": 1809651,
+    "type": "movie",
+    "title": "The Diego Nobody Saw",
+    "poster_path": "/73rz6XjRDnPJ6y6gYATRjsraCzh.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An intimate documentary about Diego Armando Maradona, told from a unique perspective: through the eyes of someone who quietly stood by his side, capturing moments the world had never seen. Through exclusive photos and private videos, the film reveals Diego beyond the stadium and the myth, showing his most human side. For years, Jorge Luengo witnessed defining and everyday moments of Maradona?s life.",
+    "industry": "world",
+    "popularity": 0.3898,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 71,
+    "providers": []
+  },
+  "1809605": {
+    "id": 1809605,
+    "type": "movie",
+    "title": "Forever Mom",
+    "poster_path": "/zNAmOD7JFfQZXWHcWJc04u3NFvL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Leonora is an overwhelmed mother of two young girls and an architect whose career has been put on hold. While her husband works all day, she carries the weight of raising their children and the quiet feeling that she has lost herself somewhere along the way. One afternoon, in the middle of her daughter?s birthday party, she drives away, leaving behind the noise and contradictions of motherhood.",
+    "industry": "world",
+    "popularity": 0.5899,
+    "original_language": "es",
+    "origin_country": [
+      "CO",
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CO",
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 105,
+    "providers": []
+  },
+  "1809582": {
+    "id": 1809582,
+    "type": "movie",
+    "title": "Cervantes Follies: A Documentary",
+    "poster_path": "/plYGrkh0s8xJCauGszxZEPhDOzb.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Through interviews with its creators, footage of rehearsals, and scenes from performances in the main auditorium of the Teatro Nacional Cervantes, the film chronicles the development of a show that pays tribute to a century-old Argentine musical tradition: La Revista.",
+    "industry": "world",
+    "popularity": 0.3183,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 60,
+    "providers": []
+  },
+  "1807791": {
+    "id": 1807791,
+    "type": "movie",
+    "title": "Feral City",
+    "poster_path": "/pSt7ADuNStFtMZ78F0gTbpuONtn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A disgruntled Big City detective hunts down his prime suspect in a city known for nothing good.",
+    "industry": "world",
+    "popularity": 0.5215,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "This dirty, rotten, feral city",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 9,
+    "providers": []
+  },
+  "1807529": {
+    "id": 1807529,
+    "type": "movie",
+    "title": "Tsuri Komachi",
+    "poster_path": "/tvtdgpfZJGVaC6cOE0pP0n1fxkH.jpg",
+    "backdrop_path": "/A7m6F7If0l8L26WBpnula3Rgid6.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.6066,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-27",
+    "date_kind": "release",
+    "runtime": 105,
+    "providers": []
+  },
+  "1806454": {
+    "id": 1806454,
+    "type": "movie",
+    "title": "Ninguém vai ouvir",
+    "poster_path": "/xUxiUf1qhgH73kGTNr2cSVQqhRW.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.9086,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "18+",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1802699": {
+    "id": 1802699,
+    "type": "movie",
+    "title": "Curb Appeal",
+    "poster_path": "/tJr4EHS5FEoHowWcwM8PmFApazq.jpg",
+    "backdrop_path": "/lJsN6IAuwjc5bJlTb57jDlhSRhz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "From conception to construction, a dream home is built.",
+    "industry": "world",
+    "popularity": 0.6456,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 50,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 3,
+    "providers": []
+  },
+  "1802157": {
+    "id": 1802157,
+    "type": "movie",
+    "title": "Misión Caleb - La Película",
+    "poster_path": "/MA9gJvmWPUlsKPdPBLveLnPbzy.jpg",
+    "backdrop_path": "/6t53igLqsGvWQcQsGcTdjbqL4ws.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.7822,
+    "original_language": "es",
+    "origin_country": [
+      "PE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [
+      "PE"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1802066": {
+    "id": 1802066,
+    "type": "movie",
+    "title": "The Stationary Traveler",
+    "poster_path": "/f86sd2HjuJTcKYB60qp1A66Ie7j.jpg",
+    "backdrop_path": "/a7L5xkfFkblUPhGKqKKyqhTAMDM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two filmmakers propose to Cristián Sánchez, a cult Chilean director, to make a film. The condition is that he resurrects the characters of his classic works, but in the form of zombies. He fights to protect his artistic principles but ends up trapped in his own film.",
+    "industry": "world",
+    "popularity": 4.2707,
+    "original_language": "es",
+    "origin_country": [
+      "CL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "TE+7",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 84,
     "providers": []
   }
 };
