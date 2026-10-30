@@ -424,12 +424,30 @@
     if (Number.isFinite(rate) && rate > 0) return metric.amount / rate;
     return null;
   }
+  function positiveRankValue(item, field) {
+    const value = Number(item && item[field]);
+    return Number.isFinite(value) && value > 0 ? value : 0;
+  }
   function popularSort(a, b, ui) {
-    return (Number(b.vote_average) || 0) - (Number(a.vote_average) || 0)
-      || (Number(b.vote_count) || 0) - (Number(a.vote_count) || 0)
-      || String(b.release_date || "").localeCompare(String(a.release_date || ""))
+    // Prefer actual popularity/reach over a high rating from very few votes.
+    // A release date is only a tie-break when at least one real signal exists;
+    // two unscored titles use a stable title/ID order, not release recency.
+    const aPopularity = positiveRankValue(a, "popularity");
+    const bPopularity = positiveRankValue(b, "popularity");
+    const aVotes = positiveRankValue(a, "vote_count");
+    const bVotes = positiveRankValue(b, "vote_count");
+    const aRating = aVotes > 0 ? positiveRankValue(a, "vote_average") : 0;
+    const bRating = bVotes > 0 ? positiveRankValue(b, "vote_average") : 0;
+    const titleA = String(ui.titleOf ? ui.titleOf(a) : a.title || "");
+    const titleB = String(ui.titleOf ? ui.titleOf(b) : b.title || "");
+    const titleOrder = titleA.localeCompare(titleB);
+    const idOrder = String(a.id == null ? "" : a.id).localeCompare(String(b.id == null ? "" : b.id));
+    const popularityOrder = bPopularity - aPopularity || bVotes - aVotes || bRating - aRating;
+    if (popularityOrder) return popularityOrder;
+    if (!aPopularity && !aVotes && !bPopularity && !bVotes) return titleOrder || idOrder;
+    return String(b.release_date || "").localeCompare(String(a.release_date || ""))
       || String(b.published_at || "").localeCompare(String(a.published_at || ""))
-      || String(ui.titleOf ? ui.titleOf(b) : b.title || "").localeCompare(String(ui.titleOf ? ui.titleOf(a) : a.title || ""));
+      || titleOrder || idOrder;
   }
   function candidatePools(catalog, daywise, worldwide, snapshot, todayPKT, todayIST, ui, rates, limit) {
     const cap = Number.isInteger(limit) && limit > 0 ? limit : 8;

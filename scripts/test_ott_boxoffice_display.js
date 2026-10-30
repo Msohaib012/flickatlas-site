@@ -178,8 +178,10 @@ for (const windowKey of ['today', 'last_7_days', 'cumulative_total']) {
   `fresh reviewed ${windowKey} data replaces a local value in the homepage card`);
 }
 const directWeekly = amount => direct('last_7_days', amount);
-const bollywood = Array.from({ length: 10 }, (_, i) => movieItem(`b${i}`, 'bollywood', today));
-const world = Array.from({ length: 10 }, (_, i) => movieItem(`w${i}`, 'world', today));
+const bollywood = Array.from({ length: 10 }, (_, i) => movieItem(`b${i}`, 'bollywood', today,
+  { popularity: 100 - i, vote_count: 100 - i }));
+const world = Array.from({ length: 10 }, (_, i) => movieItem(`w${i}`, 'world', today,
+  { popularity: 100 - i, vote_count: 100 - i }));
 const reports = Object.fromEntries([...bollywood, ...world].map((x, i) => [String(x.id), { last_7_days: directWeekly((i % 10 + 1) * 100) }]));
 const picks = helper.selectHomeTitles([...bollywood, ...world], {}, {},
   { schema_version: 1, reports }, today, today, ui, { USD: 1 }, 8);
@@ -197,17 +199,38 @@ const boundary = [
 const boundaryPicks = helper.selectHomeTitles(boundary, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 8);
 assert.deepEqual(boundaryPicks.bollywood.map(x => x.id), ['day14', 'day15'],
   'Day 14 is within the 14-date release window, Day 15 falls back after it; future/streaming/festival are excluded');
+const popularityRanked = [
+  movieItem('today-unscored', 'world', today),
+  movieItem('today-rating-only', 'world', today, { vote_average: 10 }),
+  movieItem('lower-tmdb-popularity', 'world', '2026-10-30', { popularity: 2, vote_count: 1, vote_average: 10 }),
+  movieItem('high-vote-count', 'world', '2026-10-20', { vote_count: 200, vote_average: 6 }),
+  movieItem('highest-tmdb-popularity', 'world', '2026-10-18', { popularity: 9, vote_count: 2, vote_average: 4 }),
+];
+const popularityPicks = helper.selectHomeTitles(popularityRanked, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 5);
+assert.deepEqual(popularityPicks.world.map(x => x.id), [
+  'highest-tmdb-popularity', 'lower-tmdb-popularity', 'high-vote-count', 'today-rating-only', 'today-unscored',
+], 'TMDB popularity, then audience reach, ranks ahead of rating and release-date recency');
+const noSignalTie = [
+  movieItem('z-new-unscored', 'world', today),
+  movieItem('a-older-unscored', 'world', '2026-10-17'),
+];
+const noSignalPicks = helper.selectHomeTitles(noSignalTie, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 2);
+assert.deepEqual(noSignalPicks.world.map(x => x.id), ['a-older-unscored', 'z-new-unscored'],
+  'release date alone cannot break ties when neither title has popularity evidence');
 const fill = [
   ...Array.from({ length: 6 }, (_, i) => movieItem(`recent${i}`, 'world', '2026-10-30', { vote_average: 1 })),
-  movieItem('older-high', 'world', '2026-10-10', { vote_average: 9 }),
-  movieItem('older-low', 'world', '2026-10-09', { vote_average: 2 }),
+  movieItem('older-high', 'world', '2026-10-10', { popularity: 6, vote_count: 100, vote_average: 9 }),
+  movieItem('older-low', 'world', '2026-10-09', { popularity: 2, vote_count: 50, vote_average: 8 }),
 ];
 const fillPicks = helper.selectHomeTitles(fill, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 8);
-assert.deepEqual(fillPicks.world.map(x => x.id), ['recent5', 'recent4', 'recent3', 'recent2', 'recent1', 'recent0', 'older-high', 'older-low'],
-  'older popular titles fill only after eligible recent releases are exhausted');
+assert.deepEqual(fillPicks.world.map(x => x.id), ['recent0', 'recent1', 'recent2', 'recent3', 'recent4', 'recent5', 'older-high', 'older-low'],
+  'all eligible recent releases remain ahead of older titles; older slots use popularity ranking');
 
 // Frontend uses the shared selector/metric helper and does not sum a homemade worldwide amount.
 assert.match(pageSource, /FAHomeBoxOffice/);
+const homepageShell = fs.readFileSync(path.join(__dirname, '..', 'index.html'), 'utf8');
+assert.match(homepageShell, /\/js\/home-boxoffice\.js\?v=fa-\d{12}/,
+  'homepage must load a versioned helper asset so ranking changes are visible after deployment');
 assert.match(pageSource, /selectionForDisplay/);
 assert.match(fs.readFileSync(path.join(__dirname, '..', 'js/home-boxoffice.js'), 'utf8'), /api\/home-boxoffice-worldwide/);
 assert.match(pageSource, /worldwide/);
