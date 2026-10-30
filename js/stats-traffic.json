@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-10-30T19:00:09Z",
+  "generated": "2026-10-30T21:57:04Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 4
   },
   "today": {
     "users": 0,
@@ -11,17 +11,17 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 49,
-    "pageviews": 729,
-    "sessions": 110,
-    "avg_session_seconds": 677.3
+    "users": 73,
+    "pageviews": 758,
+    "sessions": 135,
+    "avg_session_seconds": 554.7
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 278,
-      "avg_time_seconds": 657.0
+      "views": 284,
+      "avg_time_seconds": 639.5
     },
     {
       "path": "/movie",
@@ -38,14 +38,14 @@
     {
       "path": "/movies",
       "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
-      "views": 33,
-      "avg_time_seconds": 123.7
+      "views": 34,
+      "avg_time_seconds": 112.6
     },
     {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
-      "views": 26,
-      "avg_time_seconds": 10.6
+      "views": 28,
+      "avg_time_seconds": 9.4
     },
     {
       "path": "/show",
@@ -62,8 +62,8 @@
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 20.4
+      "views": 15,
+      "avg_time_seconds": 17.0
     },
     {
       "path": "/flickatlas-site/",
@@ -74,34 +74,34 @@
     {
       "path": "/news",
       "title": "Industry News & Updates — Releases, Box Office Milestones & Premieres | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 6.9
+      "views": 11,
+      "avg_time_seconds": 6.1
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 98,
-      "users": 48
+      "sessions": 122,
+      "users": 72
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 10,
+      "sessions": 11,
       "users": 1
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 5,
-      "users": 3
+      "sessions": 6,
+      "users": 4
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 31
+      "users": 55
     },
     {
       "country": "(not set)",
@@ -143,7 +143,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 37
+      "users": 61
     },
     {
       "device": "mobile",
