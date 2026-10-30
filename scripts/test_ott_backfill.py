@@ -69,12 +69,16 @@ class BackfillListTests(unittest.TestCase):
                 if t["digital"] is not None:
                     self.assertRegex(t["digital"]["date"], DATE_RE)
 
-    def test_ids_unique_and_not_yet_published(self):
+    def test_ids_unique(self):
+        # Uniqueness is a permanent invariant of the list. The original
+        # "not yet published" assertion was a PRE-DRAIN invariant only:
+        # the seeder lane publishes these ids batch by batch, so once
+        # draining starts the overlap must grow — treating that as a
+        # failure blocked every hourly run from 2026-10-30 19:50 UTC.
+        # This file is deleted together with the list when the drain
+        # completes, so no published-state assertion belongs here.
         ids = [str(t["id"]) for t in self.titles]
         self.assertEqual(len(ids), len(set(ids)), "duplicate ids")
-        overlap = [i for i in ids if i in self.published_ids]
-        self.assertEqual(overlap, [],
-                         "backlog ids must not already be published")
 
     def test_counts_match_header(self):
         counts = self.doc["counts"]
