@@ -21412,5 +21412,189 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 14:27:11 +0530"
+  },
+  "1q35ksh": {
+    "id": "1q35ksh",
+    "type": "news",
+    "headline": "Vidya Balan Keeps Her Playful Banter with Rajinikanth Alive Through Jailer 2 Behind-the-Scenes Glimpses",
+    "dek": "Actress Vidya Balan continues to delight fans by sharing backstage moments from Jailer 2, keeping her popular on-screen banter with Rajinikanth alive across social media platforms.",
+    "body": [
+      {
+        "h": "The Viral On-Screen Dynamic",
+        "p": [
+          "A seemingly ordinary greeting exchange has transformed into one of the most widely discussed highlights of the feature film Jailer 2. The lighthearted and humorous interactions between the lead actors have captured public attention effortlessly.",
+          "Audiences across digital platforms have turned these specific character moments into trending topics, creating a wave of memes and cheerful conversations online."
+        ]
+      },
+      {
+        "h": "Celebrating Two Weeks in Theatres",
+        "p": [
+          "Marking the milestone of two weeks since the movie first arrived in cinemas, Vidya Balan decided to treat her followers to some exclusive behind-the-scenes material.",
+          "The newly shared glimpses offered fans a delightful peek into the production atmosphere, further fueling the ongoing excitement surrounding the project."
+        ]
+      },
+      {
+        "h": "A Cheeky Social Media Caption",
+        "p": [
+          "Accompanied by a witty caption referencing the iconic dialogue, the actress leaned directly into the ongoing internet humor associated with the release.",
+          "By writing that the evening continues, she successfully kept the playful narrative alive for supporters who have been tracking the running joke."
+        ]
+      },
+      {
+        "h": "The Running Joke of Tiger and Kantha",
+        "p": [
+          "Within the storyline, Rajinikanth portrays Tiger Muthuvel Pandian, while Vidya Balan takes on the role of Kantha. A recurring gag involves Tiger repeatedly sending morning greetings that receive no reply.",
+          "This comical dynamic struck a chord with viewers, turning their distinct on-screen chemistry into a standout element of the viewing experience."
+        ]
+      },
+      {
+        "h": "Directorial Vision and Execution",
+        "p": [
+          "Under the direction of Nelson Dilipkumar, the project has successfully blended high-stakes narrative beats with memorable character quirks that resonate with moviegoers.",
+          "The collaborative effort between the principal cast members and the filmmaker has kept audience engagement high well into the theatrical run."
+        ]
+      },
+      {
+        "h": "Sustained Public Interest",
+        "p": [
+          "Even as the feature enters its third week of exhibition, conversations regarding the lead performances and humorous exchanges refuse to fade away.",
+          "Fans continue to celebrate the unique pairing, proving that well-crafted character dynamics can leave a lasting impression long after the initial premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vidya Balan shared behind-the-scenes content from Jailer 2 to celebrate the film completing two weeks in theatres. She accompanied the post with a playful caption that keeps her viral on-screen banter with co-star Rajinikanth alive for fans online."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 has completed two weeks in theatres.",
+      "Vidya Balan shared behind-the-scenes glimpses from Jailer 2 on social media.",
+      "Nelson Dilipkumar directed Jailer 2.",
+      "Rajinikanth plays Tiger Muthuvel Pandian and Vidya Balan plays Kantha."
+    ],
+    "entities": {
+      "people": [
+        "Vidya Balan",
+        "Rajinikanth",
+        "Nelson Dilipkumar"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Vidya Balan Jailer 2",
+      "Rajinikanth Jailer 2 banter",
+      "Jailer 2 behind the scenes",
+      "Nelson Dilipkumar Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/vidyabalan-23921793352486.jpg",
+        "caption": "Vidya Balan Keeps Her Playful Banter with Rajinikanth Alive Through Jailer 2 Behind-the-Scenes Glimpses",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 15:03:24 +0530"
+  },
+  "1ggxj0q": {
+    "id": "1ggxj0q",
+    "type": "news",
+    "headline": "Mohammad Rasoulof and Shahrbanoo Sadat Reject Special Oscar Category for Exiled Filmmakers",
+    "dek": "Speaking at the Tokyo International Film Festival alongside Cate Blanchett, directors Mohammad Rasoulof and Shahrbanoo Sadat expressed their reluctance to be placed in a separate award category despite recent Academy rules changes.",
+    "body": [
+      {
+        "h": "Tokyo Festival Panel Debates Recognition for Exiled Directors",
+        "p": [
+          "At the Tokyo International Film Festival, prominent international directors Mohammad Rasoulof and Shahrbanoo Sadat addressed recent updates to Academy Award guidelines. The new rules officially make displaced and exiled filmmakers eligible to compete for Oscars, prompting discussions about how such creators are categorized within the global film industry.",
+          "The panel discussion coincided with the Japan premiere of the first five short films backed by the Displacement Film Fund. Academy leadership was notably present at the festival to observe the reception of these projects and engage with the creators behind them."
+        ]
+      },
+      {
+        "h": "Filmmakers Reject Special Categorization",
+        "p": [
+          "Despite the gesture of inclusion by the Academy, filmmakers on the panel voiced strong reservations about creating a standalone category specifically for displaced artists. Shahrbanoo Sadat expressed her distaste for such labels, describing the concept of a separate displaced category as humorous and undesirable.",
+          "Mohammad Rasoulof echoed these sentiments, explaining that his primary focus remains on his creative work and closing physical and emotional distances through storytelling. He noted that specialized categories risk introducing unnecessary complications rather than aiding artists."
+        ]
+      },
+      {
+        "h": "The Origins and Mission of the Displacement Film Fund",
+        "p": [
+          "The Displacement Film Fund originally took shape during the UNHCR's Global Refugee Forum in December 2023. Cate Blanchett, serving as a UNHCR goodwill ambassador, collaborated with corporate and foundation partners to establish an initiative that brings stories of displacement into the mainstream.",
+          "The fund aims to dismantle toxic narratives surrounding displaced persons by supporting authentic storytelling. Founding partners include Mastermind, Uniqlo, the Tamer Family Foundation, the Amahoro Coalition, and Droom en Daad, with the SP Lohia Foundation joining later."
+        ]
+      },
+      {
+        "h": "Involvement of the Hubert Bals Fund",
+        "p": [
+          "The International Film Festival Rotterdam and its Hubert Bals Fund became central to managing the initiative. Clare Stewart, managing director of IFFR, highlighted the long-standing history of supporting filmmakers from regions with limited cinematic infrastructure.",
+          "Stewart pointed out that Rasoulof's critically acclaimed feature 'The Seed of the Sacred Fig' benefited from the shifting landscape of international recognition. She questioned the necessity of creating segregated categories when broader dialogues are already successfully taking place."
+        ]
+      },
+      {
+        "h": "First Cohort and Creative Freedom",
+        "p": [
+          "The inaugural cohort of the fund, first unveiled at Cannes, includes works by Rasoulof, Sadat, Mo Harawe, Hasan Kattan, and Maryna Er Gorbach. These projects have travelled extensively through festival circuits including London, El Gouna, and São Paulo.",
+          "Blanchett emphasized that participating directors retain total creative freedom regarding their subjects and viewpoints. The supported films are not strictly required to focus directly on themes of displacement, allowing artists to explore diverse personal narratives."
+        ]
+      },
+      {
+        "h": "Personal Backgrounds and Specific Projects",
+        "p": [
+          "Rasoulof's contribution to the fund, titled 'The Sense of Water', delves into a migrant's feelings of solitude and the hurdles of learning a new language. The director shared that his personal experiences fleeing his hometown heavily influenced the quiet tone of the project.",
+          "Sadat directed 'Super Afghan Gym', a project exploring discomfort within one's own body and identity. Drawing from a life marked by multiple relocations across borders, Sadat ultimately balanced directing duties with acting in her own romantic comedy, 'No Good Men'."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Iranian director Mohammad Rasoulof and Afghan-born director Shahrbanoo Sadat voiced opposition to a separate Oscar category for exiled filmmakers during an appearance at the Tokyo International Film Festival alongside Cate Blanchett. While acknowledging the Academy's rule changes allowing displaced artists to compete, the filmmakers argued that special categorization creates unhelpful labels and distracts from their primary artistic goals."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohammad Rasoulof and Shahrbanoo Sadat spoke at the Tokyo International Film Festival.",
+      "The Displacement Film Fund presented its first five short films for their Japan premiere.",
+      "The fund originated at the UNHCR's Global Refugee Forum in December 2023.",
+      "Shahrbanoo Sadat directed the short film 'Super Afghan Gym'.",
+      "Mohammad Rasoulof directed the short film 'The Sense of Water'."
+    ],
+    "entities": {
+      "people": [
+        "Mohammad Rasoulof",
+        "Shahrbanoo Sadat",
+        "Cate Blanchett",
+        "Clare Stewart",
+        "Yanai Koji",
+        "Mo Harawe",
+        "Hasan Kattan",
+        "Maryna Er Gorbach",
+        "Yakusho Koji"
+      ],
+      "titles": [
+        "Super Afghan Gym",
+        "The Sense of Water",
+        "The Seed of the Sacred Fig",
+        "No Good Men",
+        "Perfect Days"
+      ]
+    },
+    "keywords": [
+      "Mohammad Rasoulof",
+      "Shahrbanoo Sadat",
+      "Cate Blanchett",
+      "Displacement Film Fund",
+      "Tokyo International Film Festival"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/Cate-Blanchett-and-friends.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Mohammad Rasoulof and Shahrbanoo Sadat Reject Special Oscar Category for Exiled Filmmakers",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 09:31:09 +0000"
   }
 };
