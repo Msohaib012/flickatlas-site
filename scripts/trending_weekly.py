@@ -18,6 +18,7 @@ if ROOT not in sys.path:
 TOP_N = 8
 ARTICLE_DAYS = 7
 FEED_HOURS = 3
+PROOF_HOURS = 24
 TREND_HOURS = 24
 HEADER = "/* FlickAtlas Trending Topics: current Google search trends intersected with published news. */"
 GENERIC = set("movie movies film films news today box office collection collections latest trending trend viral breaking entertainment cinema update updates".split())
@@ -30,6 +31,13 @@ def parse_dt(value):
     if not value: return None
     try:
         d = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        return d.replace(tzinfo=timezone.utc) if d.tzinfo is None else d.astimezone(timezone.utc)
+    except Exception: pass
+    try:
+        # Most published articles carry RSS-style dates (e.g. "Fri, 30 Oct 2026
+        # 10:11:48 +0530"); without this fallback they never match a trend.
+        from email.utils import parsedate_to_datetime
+        d = parsedate_to_datetime(str(value))
         return d.replace(tzinfo=timezone.utc) if d.tzinfo is None else d.astimezone(timezone.utc)
     except Exception: return None
 
@@ -104,7 +112,7 @@ def build_topics(items, articles, clock):
         geo = item.get("geo"); term = str(item.get("q") or "").strip(); source_url = FEEDS.get(geo)
         observed, started = parse_dt(item.get("observed_at")), parse_dt(item.get("trending_started_at"))
         if not source_url or item.get("feed_url") != source_url or not term or not observed or not started: continue
-        if observed > clock or clock - observed > timedelta(hours=FEED_HOURS) or started > clock or clock - started > timedelta(hours=TREND_HOURS): continue
+        if observed > clock or clock - observed > timedelta(hours=PROOF_HOURS) or started > clock or clock - started > timedelta(hours=TREND_HOURS): continue
         related = valid_related(item.get("news"))
         if not related: continue
         for article in articles:

@@ -1,7 +1,7 @@
 /* FlickAtlas — current Google RSS trends intersected with published articles. */
 (function (root) {
   'use strict';
-  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 3 * 3600000, TREND_MAX_AGE_MS = 24 * 3600000;
+  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 3 * 3600000, TREND_MAX_AGE_MS = 24 * 3600000, PROOF_MAX_AGE_MS = 24 * 3600000;
   var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN'};
   var GENERIC = {movie:1,movies:1,film:1,films:1,news:1,today:1,'box':1,'office':1,collection:1,collections:1,latest:1,trending:1,trend:1,viral:1,breaking:1,entertainment:1,cinema:1,update:1,updates:1};
   var STOP = {a:1,an:1,the:1,and:1,or:1,of:1,to:1,in:1,on:1,for:1,with:1,at:1,by:1,from:1,is:1,are:1,was:1,were:1,be:1,been:1,this:1,that:1,these:1,those:1,his:1,her:1,its:1,their:1,has:1,have:1,had:1};
@@ -23,7 +23,7 @@
   function validProof(p, headline, now) {
     if(!p||p.source!=='google-rss'||!FEEDS[p.geo]||p.source_url!==FEEDS[p.geo])return false;
     var obs=Date.parse(p.observed_at), start=Date.parse(p.started_at);
-    if(!isFinite(obs)||obs>now||now-obs>FEED_MAX_AGE_MS||!isFinite(start)||start>now||now-start>TREND_MAX_AGE_MS)return false;
+    if(!isFinite(obs)||obs>now||now-obs>PROOF_MAX_AGE_MS||!isFinite(start)||start>now||now-start>TREND_MAX_AGE_MS)return false;
     var term=String(p.term||'').trim(), tw=words(term), hw=words(headline), rel=validRelated(p.related);
     if(!Object.keys(tw).length||Object.keys(tw).some(function(w){return GENERIC[w];})||!termIn(term,headline)||!rel.length)return false;
     var rw=Object.create(null); rel.forEach(function(r){var w=words(r.title);Object.keys(w).forEach(function(k){rw[k]=1;});});

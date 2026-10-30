@@ -542,6 +542,29 @@ def main():
         if evidence is not None:
             # A successfully parsed empty feed is valid evidence. A fully stale
             # result deliberately replaces current items with none.
+            if evidence.get("status") == "ok":
+                # Rolling 24h pool: keep terms observed earlier today (still
+                # inside GOOGLE_MAX_AGE) so the Trending Topics intersection
+                # is not limited to whichever terms happen to sit in the
+                # latest hourly snapshot. Fresh rows win on (geo, term) and
+                # every kept row retains its real last-observed timestamp.
+                fresh_keys = {(it.get("geo"), str(it.get("q") or "").strip().lower())
+                              for it in evidence["items"]}
+                kept = []
+                for it in google_items:
+                    key = (it.get("geo"), str(it.get("q") or "").strip().lower())
+                    if key in fresh_keys:
+                        continue
+                    try:
+                        seen = datetime.fromisoformat(str(it["observed_at"]).replace("Z", "+00:00"))
+                        if seen.tzinfo is None:
+                            seen = seen.replace(tzinfo=timezone.utc)
+                        age = (now_utc - seen.astimezone(timezone.utc)).total_seconds()
+                    except (KeyError, TypeError, ValueError):
+                        continue
+                    if 0 <= age <= GOOGLE_MAX_AGE:
+                        kept.append(it)
+                evidence["items"] = (evidence["items"] + kept)[:100]
             with open(google_evidence_path, "w", encoding="utf-8") as f:
                 json.dump(evidence, f, ensure_ascii=False, indent=1)
             google_items = evidence["items"]

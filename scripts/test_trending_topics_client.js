@@ -8,6 +8,7 @@ const payload={source:'google-rss',status:'ok',checked_at:'2026-10-29T11:00:00Z'
 const context={Date:class extends Date{static now(){return now;}},URL,console};context.window=context;vm.runInNewContext(source,context);
 const h=context.FATrendingSearches.helpers;
 assert.strictEqual(h.validTopics(payload,[article],now).length,1);
+assert.strictEqual(h.validTopics({...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-29T02:00:00Z'}}]},[article],now).length,1);
 for(const altered of [
  {...payload,source:'tavily'},
  {...payload,status:'stale'},
@@ -17,7 +18,7 @@ for(const altered of [
  {...payload,topics:[{...topic,title:'Unrelated'}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,source_url:'https://evil.example/rss'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,geo:'US'}}]},
- {...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-29T08:59:59Z'}}]},
+ {...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-28T11:59:59Z'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-29T12:01:00Z'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,started_at:'2026-10-28T11:59:59Z'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,term:'movie'}}]},
