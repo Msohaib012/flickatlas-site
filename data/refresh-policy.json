@@ -64,7 +64,7 @@
   {
    "id": "boxoffice",
    "label": "Box Office",
-   "cadence": "Tavily search + Gemini evidence review at 13:35 and 23:35 PKT via the existing :35 UTC hourly workflow; other readers keep their current cadence. Local averaging remains hourly.",
+   "cadence": "Tavily search + Gemini evidence review at 13:35 and 23:35 PKT via the existing :35 UTC hourly workflow; other readers keep their current cadence. Local averaging remains hourly. Overseas per-day figures: Sacnilk quicknews sweep of missed completed days + grounded AI gap-filler at the 13:35 and 23:35 PKT box-office slots.",
    "sources": [
     "sacnilk_boxoffice",
     "fnn_boxoffice",
@@ -72,7 +72,8 @@
     "bollybourse_boxoffice",
     "filmibeat_boxoffice",
     "moviemint_boxoffice",
-    "tavily_boxoffice"
+    "tavily_boxoffice",
+    "overseas_ai"
    ],
    "order": "Newest movie release first"
   },
@@ -176,8 +177,8 @@
     4
    ],
    "interval_hours": 3,
-   "last_success": "2026-10-30T11:18:27Z",
-   "last_attempt": "2026-10-30T11:18:27Z",
+   "last_success": "2026-10-30T14:56:53Z",
+   "last_attempt": "2026-10-30T14:56:53Z",
    "status": "success"
   },
   "fnn_boxoffice": {
@@ -348,18 +349,20 @@
     4
    ],
    "interval_hours": 1,
-   "last_success": "2026-10-30T12:55:57Z",
-   "last_attempt": "2026-10-30T12:55:57Z",
+   "last_success": "2026-10-30T14:56:55Z",
+   "last_attempt": "2026-10-30T14:56:55Z",
    "status": "success"
   },
   "overseas_ai": {
    "hours_utc": [
-    8
+    8,
+    18
    ],
    "hours_pkt": [
-    13
+    13,
+    23
    ],
-   "interval_hours": 24,
+   "interval_hours": 12,
    "last_success": "2026-10-30T09:03:08Z",
    "last_attempt": "2026-10-30T09:03:08Z",
    "status": "success"

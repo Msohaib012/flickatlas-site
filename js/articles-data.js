@@ -22054,5 +22054,196 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 13:00:00 +0000"
+  },
+  "q06uze": {
+    "id": "q06uze",
+    "type": "news",
+    "headline": "Spanish Transport Minister Rejects Resignation Calls Following Deadly Train Disaster",
+    "dek": "Amid mounting political pressure and union backlash after a catastrophic rail collision near Toledo left at least 69 dead, Spain's transport minister remains defiant.",
+    "body": [
+      {
+        "h": "Resignation Demands Refused",
+        "p": [
+          "Spain's transport minister has firmly rejected mounting calls for his resignation following a catastrophic rail disaster that claimed dozens of lives. Opposition lawmakers and rail workers' unions have demanded immediate accountability, pointing to a severe failure in oversight after a second major rail accident occurred within a single year.",
+          "Instead of stepping down, the minister defended his immediate mandate, emphasizing that his primary focus remains on investigating the root causes of the tragedy rather than political survival."
+        ]
+      },
+      {
+        "h": "Tragic Collision Details",
+        "p": [
+          "The devastating crash occurred near the town of Urda in central Spain, when a moving train slammed directly into a stationary service at speeds reaching up to 200 kilometers per hour. The violent impact resulted in massive structural wreckage and a rapidly climbing death toll that has left the nation in shock.",
+          "Emergency services and rescue teams deployed heavy machinery to clear the debris and search for survivors, confronting harrowing scenes as identification efforts were severely hampered by the fragmentation of remains."
+        ]
+      },
+      {
+        "h": "Protocol and Control Center Controversy",
+        "p": [
+          "Investigations quickly zeroed in on actions taken by the central control center in Madrid following an initial automated signalling system failure. Officials revealed that dispatchers authorized a Renfe-operated train to proceed at normal speeds despite the presence of a stationary Iryo-operated train on the same tracks.",
+          "Leaked audio recordings indicated that standard safety protocols requiring reduced speeds under such conditions were seemingly bypassed, igniting fierce debates over whether human error or technical failures were fundamentally to blame."
+        ]
+      },
+      {
+        "h": "Safety System Upgrades Delayed",
+        "p": [
+          "Labor representatives and union leaders strongly pushed back against immediate accusations of human error, arguing that systemic infrastructure faults deserved much closer scrutiny. Public documents revealed that the line's safety system upgrade was significantly behind schedule.",
+          "Although advanced European rail standards had been widely rolled out across the country, the specific corridor linking Madrid and Seville experienced lingering delays in modernization contracts originally awarded years prior."
+        ]
+      },
+      {
+        "h": "Identification Challenges and Casualties",
+        "p": [
+          "Local authorities and regional spokespersons confirmed that forensic teams were working through dozens of autopsies to formally identify victims amidst a backdrop of lingering uncertainty regarding the final number of missing individuals.",
+          "Regional leaders acknowledged that the sheer difficulty of matching partial remains meant officials could not definitively rule out the possibility of discovering additional fatalities as recovery operations continued."
+        ]
+      },
+      {
+        "h": "Broader Political Implications",
+        "p": [
+          "The disaster has severely intensified political tensions across Spain as the country prepares for a tightly contested national election called by Prime Minister Pedro Sanchez. The prime minister publicly condemned the occurrence of two major rail catastrophes in a single year as entirely unacceptable for an advanced transportation network.",
+          "Public scrutiny continues to mount as citizens, families of victims, and political opponents demand complete transparency and thorough accountability from transport authorities regarding the structural safety of the nation's high-speed rail network."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Spain's transport minister has refused to resign despite intense political pressure and union backlash following a deadly train crash near Toledo that left at least 69 dead. Investigations focus on control center protocols and delayed signalling system upgrades as authorities struggle to identify victims amidst growing national scrutiny."
+        ]
+      }
+    ],
+    "facts": [
+      "At least 69 people died in the train crash.",
+      "The crash occurred near Urda in central Spain.",
+      "Oscar Puente is the Spanish Transport Minister.",
+      "Pedro Sanchez is the Prime Minister of Spain.",
+      "The crash happened on Wednesday.",
+      "A preliminary report was released on Thursday by AITAT.",
+      "The train was traveling between 160 and 200 kph.",
+      "The Civil Guard listed 64 people as missing.",
+      "Autopsies have been carried out on 49 bodies so far.",
+      "Esther Padilla is the spokesperson for the Castilla-La Mancha regional government.",
+      "Emiliano Garcia-Page is the Castilla-La Mancha regional leader.",
+      "The Renfe train carried 379 passengers and 7 crew.",
+      "The Iryo train carried 147 passengers and 5 crew.",
+      "Raquel Ayllón is a union leader for Adif.",
+      "A contract was awarded to Thales Espana in September 2021 for 93.8 million euros.",
+      "The contract was passed to Hitachi Rail in 2024."
+    ],
+    "entities": {
+      "people": [
+        "Oscar Puente",
+        "Pedro Sanchez",
+        "Esther Padilla",
+        "Emiliano Garcia-Page",
+        "Raquel Ayllón"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Spanish transport minister",
+      "Oscar Puente",
+      "Spain train crash",
+      "Urda train accident"
+    ],
+    "images": [
+      {
+        "url": "https://i.dawn.com/large/2026/10/30180233b25091e.webp",
+        "caption": "Spanish Transport Minister Rejects Resignation Calls Following Deadly Train Disaster",
+        "source": "Dawn — Images/ICON"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 18:11:12 +0500"
+  },
+  "kyzix3": {
+    "id": "kyzix3",
+    "type": "news",
+    "headline": "Akka Web Series Review: Keerthy Suresh and Radhika Apte Clash in Netflix's Gritty Thriller",
+    "dek": "Netflix's new crime thriller series Akka stars Keerthy Suresh and Radhika Apte in a fierce battle for power set in a fictional South Indian town.",
+    "body": [
+      {
+        "h": "Introduction to Akka",
+        "p": [
+          "Netflix has expanded its crime thriller catalog with the release of Akka, a gripping five-episode series written and directed by Dharmaraj Shetty. The project brings together two prominent actors, Keerthy Suresh and Radhika Apte, for an intense on-screen rivalry.",
+          "Set against a distinct cultural backdrop, the narrative plunges viewers into a violent world governed by revenge, historical grudges, and clashing egos. The series officially premiered on October 30, 2026, drawing attention for its unique premise and dark underworld tone."
+        ]
+      },
+      {
+        "h": "The Unique Setting of Pernuru",
+        "p": [
+          "The story unfolds in the 1980s within Pernuru, a fictional South Indian town where women hold the ultimate positions of power. For 800 years, the matriarchs known as the Akkas and their powerful sisterhood have protected and ruled this society, while men are relegated to the sidelines.",
+          "In this matriarchal domain, marriage is uncommon, the birth of a girl is widely celebrated, and nearly nine out of ten citizens are educated. However, this ancient order faces a severe threat when an outsider arrives to challenge the established hierarchy."
+        ]
+      },
+      {
+        "h": "The Clash of Bhavani and Rudra",
+        "p": [
+          "Keerthy Suresh stars as Bhavani, also known as Akka, the sacred guardian of Pernuru who commands the screen with authority and expressive eyes. Despite her tough exterior, glimpses of a simpler woman emerge through her interactions with Nanda.",
+          "Opposite her is Radhika Apte, who plays Rudra, a rebel and member of Shankar Bhai's Bombay gang. Rudra's mission is to dismantle the rule of the Akka and seek revenge against the Malemaar sect, launching a wave of crimes that terrorizes the community."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Performances",
+        "p": [
+          "Both lead actors have received praise for their committed portrayals, with their intense face-offs forming the core strength of the series. Apte steps into a never-seen-before avatar, delivering impactful dialogues and commanding attention throughout her scenes.",
+          "The central performances are bolstered by a strong supporting cast that includes Tanvi Azmi, Kiran Karmarkar, Mahesh Manjrekar, Anshuman Pushkar, Poornima Indrajith, and Vishak Nair, who add significant depth to the overarching plot."
+        ]
+      },
+      {
+        "h": "Writing, Direction, and Visual Style",
+        "p": [
+          "Dharmaraj Shetty's direction successfully captures the retro vibe, lush greenery, and dangerous atmosphere of Pernuru. The crisp editing ensures that the five-part structure remains an engaging watch for audiences who enjoy period dramas.",
+          "At the same time, the narrative explores complex contradictions, as Bhavani ultimately desires a conventional life with the man she loves, despite ruling over a society that restricts personal choice. The series also incorporates heavy bloodshed and brutal action sequences."
+        ]
+      },
+      {
+        "h": "Reception and Themes",
+        "p": [
+          "Akka delves deeply into themes of family loyalty, revenge, and the preservation of legacy, though critics note that its gritty execution sometimes leans into a male-gaze perspective. Despite mixed discussions surrounding its feminist framing, it remains a notable entry for fans of violent crime dramas.",
+          "The collision of personal stakes and societal structures creates a tense viewing experience, highlighting the heavy price of power within a closed community."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix thriller series Akka premiered on October 30, 2026, featuring a lead clash between Keerthy Suresh and Radhika Apte in a fictional South Indian town. Written and directed by Dharmaraj Shetty, the five-episode show explores a violent power struggle within a matriarchal society."
+        ]
+      }
+    ],
+    "facts": [
+      "Akka premiered on October 30, 2026",
+      "The series is written and directed by Dharmaraj Shetty",
+      "Akka consists of five episodes",
+      "Keerthy Suresh plays Bhavani aka Akka",
+      "Radhika Apte plays Rudra"
+    ],
+    "entities": {
+      "people": [
+        "Keerthy Suresh",
+        "Radhika Apte",
+        "Dharmaraj Shetty",
+        "Tanvi Azmi",
+        "Kiran Karmarkar",
+        "Mahesh Manjrekar",
+        "Anshuman Pushkar",
+        "Poornima Indrajith",
+        "Vishak Nair"
+      ],
+      "titles": [
+        "Akka"
+      ]
+    },
+    "keywords": [
+      "Akka web series",
+      "Keerthy Suresh Akka",
+      "Radhika Apte Akka",
+      "Akka Netflix thriller"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156430294,thumbsize-611113,width-1280,height-720,resizemode-75/156430294.jpg",
+        "caption": "Akka Web Series Review: Keerthy Suresh and Radhika Apte Clash in Netflix's Gritty Thriller",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T14:51:21Z"
   }
 };
