@@ -81,6 +81,8 @@ STEP_FILES = {
     "ott": ("OTT", ["js/ott-data.js"]),
     "trending_weekly": ("Trending Topics", ["js/trending-topics.js"]),
     "overseas_ai": ("Box Office", ["out/boxoffice-staging/overseas-ai.json"]),
+    "overseas_sweep": ("Box Office", ["out/boxoffice-staging/overseas-backfill.json",
+                                    "out/overseas-sweep-state.json"]),
     "tavily_boxoffice": ("Box Office", ["out/boxoffice-staging/tavily.json"]),
     "multisource_boxoffice": ("Box Office", ["js/daywise-data.js",
                                              "js/advance-data.js",

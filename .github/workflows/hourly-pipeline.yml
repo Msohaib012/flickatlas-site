@@ -185,17 +185,30 @@ jobs:
       # Trending Topics is reconciled after the feed below: local-only
       # intersection of fresh Google RSS proof and published articles.
 
-      # --- 5d. Overseas AI gap-filler (daily) -------------------------
-      # Fills MISSING per-day overseas figures only (never rewrites a
-      # figure that already exists): Tavily search (2 queries/movie) +
-      # Gemini JSON extraction, grounded only — a figure is used only if
-      # a search result states it for the matching day number; worldwide
-      # / India / totals are rejected; nothing is estimated. Writes
-      # out/boxoffice-staging/overseas-ai.json, which the engine (step 6)
-      # averages in. Runs 08:00 UTC (13:00 PKT) + 24h overdue catch-up.
-      # No keys -> SKIP exit 0. The Sacnilk reader (step 6) already
-      # captures each new day's overseas/shows/occupancy directly, so
-      # this step only covers days Sacnilk never reported.
+      # --- 5d. Overseas gap-fillers (daily) ---------------------------
+      # Fill MISSING per-day overseas figures only (never rewrite a
+      # figure that already exists). Two routes, cheapest first:
+      # (1) Sacnilk quicknews sweep (backfill_overseas.py): the reader
+      # (step 6) catches only the CURRENT day's quicknews page live, so
+      # this sweep revisits every COMPLETED day still missing overseas
+      # and parses that day's quicknews overseas-standing sentence —
+      # plain HTTPS, no API quota; attempt-marked so a figure-less day
+      # is re-fetched at most weekly; freshest titles first, page-
+      # bounded. (2) Tavily + Gemini AI filler (overseas_ai.py) for
+      # days Sacnilk never reported: grounded only — a figure is used
+      # only if a search result states it for the matching day number;
+      # worldwide / India / totals are rejected; nothing is estimated.
+      # EVERY cycle attempts EVERY movie missing overseas (owner
+      # order 2026-10-30): homepage-window titles first (last 14
+      # days, newest first), then the rest; the 48-search cap is the
+      # only limiter and any movie it cuts is stamped deferred and
+      # leads the next cycle — nothing is skipped silently. Both
+      # routes write staging JSON (overseas-backfill.json /
+      # overseas-ai.json) which the engine (step 6) averages into
+      # js/daywise-data.js in the same run.
+      # Runs at the 08:00 + 18:00 UTC Tavily slots (13:00 + 23:00
+      # PKT) + overdue catch-up.
+      # No keys -> the AI filler SKIPs exit 0; the sweep needs no keys.
       - name: Overseas AI gap-filler
         id: overseas
         if: steps.decide.outputs.run_overseas == 'true'
@@ -209,7 +222,9 @@ jobs:
           GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
-        run: python3 scripts/overseas_ai.py --out out/boxoffice-staging/overseas-ai.json || echo "overseas-ai failed/missing, continuing"
+        run: |
+          python3 scripts/backfill_overseas.py --max-pages 48 || echo "overseas sweep failed/missing, continuing"
+          python3 scripts/overseas_ai.py --out out/boxoffice-staging/overseas-ai.json --max-searches 48 || echo "overseas-ai failed/missing, continuing"
 
       # --- 6. Multi-source box office (hourly) ---------------------------
       # Per-site readers fetch day-wise INDIA NET figures into

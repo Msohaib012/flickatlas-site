@@ -1,11 +1,14 @@
-# Overseas AI gap-filler (standalone dispatch) — mirrors
-# hourly-pipeline.yml step 5d (Overseas AI gap-filler) exactly: same env,
-# same invocation with the same fallback, same commit + deploy tail.
-# NOTE: this step only writes out/boxoffice-staging/overseas-ai.json;
-# the figures are averaged into js/daywise-data.js by the box-office
-# engine (step 6 / boxoffice.yml) on its next run, so a standalone
-# overseas dispatch should be followed by a boxoffice dispatch (or the
-# next hourly run) for the figures to reach the site.
+# Overseas gap-fillers (standalone dispatch) — mirrors
+# hourly-pipeline.yml step 5d (Overseas gap-fillers) exactly: same env,
+# same invocations with the same fallbacks, same commit + deploy tail.
+# NOTE: this step only writes the staging files
+# (out/boxoffice-staging/overseas-backfill.json from the Sacnilk
+# quicknews sweep, out/boxoffice-staging/overseas-ai.json from the
+# Tavily+Gemini filler); the figures are averaged into
+# js/daywise-data.js by the box-office engine (step 6 / boxoffice.yml)
+# on its next run, so a standalone overseas dispatch should be
+# followed by a boxoffice dispatch (or the next hourly run) for the
+# figures to reach the site.
 name: Overseas AI gap-filler
 
 on:
@@ -37,7 +40,9 @@ jobs:
           GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
-        run: python3 scripts/overseas_ai.py --out out/boxoffice-staging/overseas-ai.json || echo "overseas-ai failed/missing, continuing"
+        run: |
+          python3 scripts/backfill_overseas.py --max-pages 48 || echo "overseas sweep failed/missing, continuing"
+          python3 scripts/overseas_ai.py --out out/boxoffice-staging/overseas-ai.json --max-searches 48 || echo "overseas-ai failed/missing, continuing"
       - name: Commit if changed
         id: commit
         if: always()

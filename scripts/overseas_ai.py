@@ -39,8 +39,22 @@ No keys at all -> SKIP, exit 0 (the pipeline continues; the
 Sacnilk-direct route still fills overseas where it can).
 
 Quota: missing-only. A movie whose days are all filled is never
-searched again; a new movie is searched once a day until its days
-are filled. 2 searches per movie per run.
+searched again. 2 searches per movie per run. Coverage rule (owner
+order 2026-10-30 19:27 PKT — "AI ka use karke sab ki pooch hi rakha
+karo, daily har cycle me, overseas bhi Indian bhi"): EVERY cycle
+attempts EVERY movie that is missing overseas figures — this filler
+runs at both daily Tavily slots (08:00 + 18:00 UTC, alongside the
+India-Net filler). The only limiter is the run's search budget
+(--max-searches; the pipeline passes 48, enough for the whole
+current catalogue): candidates are ordered homepage-window first
+(released within the last 14 days — the homepage selector's own
+eligibility window — newest first), then the rest newest-first;
+a movie the budget cuts is stamped "deferred" in the attempts file
+(out/overseas-ai-attempts.json) and LEADS the next cycle, so no
+title is ever skipped silently cycle after cycle. The attempts
+file also records each searched movie's missing-day signature for
+the dashboard. One movie's search/Gemini failure never blocks the
+others.
 """
 
 import argparse
@@ -328,6 +342,13 @@ def main():
                     help="extras-only staging JSON for the averaging engine")
     ap.add_argument("--limit", type=int, default=0,
                     help="max movies searched this run (0 = no limit)")
+    ap.add_argument("--max-searches", type=int, default=0,
+                    help="max Tavily searches this run (0 = no limit; "
+                         "each movie costs 2)")
+    ap.add_argument("--attempts",
+                    default="out/overseas-ai-attempts.json",
+                    help="per-movie attempt/deferral ledger "
+                         "(missing-day signature, timestamps)")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--movie", default=None,
                     help="only run one TMDB id (testing)")
@@ -369,12 +390,31 @@ def main():
         except (OSError, ValueError):
             existing = {}
 
+    # Attempt/deferral ledger: {tid: {"attempted_at": iso,
+    # "missing": "2,3,5", "deferred": bool}}. It never suppresses a
+    # movie — every candidate is attempted every cycle; it only
+    # remembers which movies the search budget cut last cycle so
+    # they lead this one (no silent starvation).
+    attempts = {}
+    if os.path.exists(args.attempts):
+        try:
+            with open(args.attempts, encoding="utf-8") as f:
+                loaded = json.load(f)
+            if isinstance(loaded, dict):
+                attempts = loaded
+        except (OSError, ValueError):
+            attempts = {}
+    now_dt = dt.datetime.now(dt.timezone.utc)
+    now_iso = now_dt.replace(microsecond=0).isoformat().replace(
+        "+00:00", "Z")
+    deferred_ids = {tid for tid, rec in attempts.items()
+                    if isinstance(rec, dict) and rec.get("deferred")}
+
     out = {}
     made, skipped, failed = [], [], []
     searches_total = 0
-    movies = sorted(published.values(),
-                    key=lambda v: str(v.get("title") or ""))
-    for movie in movies:
+    candidates = []
+    for movie in published.values():
         tid = str(movie.get("id"))
         if args.movie and tid != args.movie:
             continue
@@ -404,11 +444,68 @@ def main():
         if not missing:
             skipped.append((title, tid, "overseas complete"))
             continue
+        candidates.append({"movie": movie, "tid": tid, "title": title,
+                           "rel": rel, "baseline": baseline,
+                           "missing": missing})
+    # Priority tiers (owner order 2026-10-30): (0) movies the last
+    # cycle's budget deferred — they lead, so the budget can never
+    # starve a title; (1) the homepage window — released within the
+    # last 14 days (the homepage selector's eligibility rule; newest
+    # first); (2) everything else, newest first. Fewest missing days,
+    # then title, break ties. Stable multi-pass sort, primary last.
+    try:
+        window_start = (dt.date.fromisoformat(today)
+                        - dt.timedelta(days=14)).isoformat()
+    except ValueError:
+        window_start = today
+
+    def tier(c):
+        if c["tid"] in deferred_ids:
+            return 0
+        if c["rel"] and c["rel"] >= window_start:
+            return 1
+        return 2
+
+    def deferred_cycles(c):
+        # Fairness inside the deferred tier: the title cut by the
+        # budget in the most consecutive cycles goes first. A searched
+        # title resets to 0, so the longest-waiting title always
+        # leads eventually — provably no starvation, no timestamps.
+        rec = attempts.get(c["tid"]) or {}
+        return int(rec.get("deferred_cycles") or 0)
+
+    candidates.sort(key=lambda c: c["title"].lower())
+    candidates.sort(key=lambda c: len(c["missing"]))
+    candidates.sort(key=lambda c: c["rel"] or "", reverse=True)
+    candidates.sort(key=deferred_cycles, reverse=True)
+    candidates.sort(key=tier)
+    for cand in candidates:
+        tid, title = cand["tid"], cand["title"]
+        baseline, missing = cand["baseline"], cand["missing"]
+        signature = ",".join(str(d) for d in sorted(missing))
         if args.limit and len(made) >= args.limit:
             skipped.append((title, tid, "limit reached"))
             continue
+        if (args.max_searches
+                and searches_total + 2 > args.max_searches):
+            # The budget is the ONLY limiter. The cut is loud (log +
+            # ledger) and the movie leads the next cycle.
+            prev = attempts.get(tid) or {}
+            attempts[tid] = {
+                "attempted_at": prev.get("attempted_at"),
+                "missing": signature, "deferred": True,
+                "deferred_at": now_iso,
+                "deferred_cycles": (int(prev.get("deferred_cycles")
+                                        or 0) + 1
+                                    if prev.get("deferred") else 1)}
+            skipped.append((title, tid, "deferred — search budget"))
+            continue
         snippets, n_searches = search_overseas(title, local_tavily)
         searches_total += n_searches
+        attempts[tid] = {
+            "attempted_at": now_iso,
+            "missing": signature, "deferred": False,
+            "deferred_cycles": 0}
         if not snippets:
             skipped.append((title, tid, "no overseas snippets"))
             continue
@@ -448,6 +545,23 @@ def main():
         log("  skip %s (%s): %s" % (t, tid, why))
     for t, tid, why in failed:
         log("  FAIL %s (%s): %s" % (t, tid, why))
+
+    if not args.dry_run:
+        # Persist the ledger (only entries for movies still in the
+        # catalogue are worth keeping).
+        attempts = {tid: rec for tid, rec in attempts.items()
+                    if isinstance(rec, dict) and tid in published}
+        content = json.dumps(attempts, ensure_ascii=False, indent=2,
+                             sort_keys=True) + "\n"
+        existing_content = ""
+        if os.path.exists(args.attempts):
+            with open(args.attempts, encoding="utf-8") as f:
+                existing_content = f.read()
+        if existing_content != content:
+            os.makedirs(os.path.dirname(args.attempts) or ".",
+                        exist_ok=True)
+            with open(args.attempts, "w", encoding="utf-8") as f:
+                f.write(content)
 
     if args.dry_run:
         log("DRY-RUN — nothing written")
