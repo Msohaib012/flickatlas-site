@@ -194,6 +194,18 @@ long_headline = ("Actor and filmmaker announce a major new Hindi cinema project 
 long_article = seo.news_meta({"id": "fixture-long-news", "headline": long_headline})
 assert len(long_article["t"]) <= 60
 assert long_article["t"].endswith(" | FlickAtlas") and "…" in long_article["t"]
+assert "……" not in long_article["t"], "title truncation must not add duplicate ellipses"
+
+long_dek = ("This review covers the film's premise, cast and reported reception, "
+            "then explains where its execution falls short. " * 5)
+long_description = seo.news_meta({
+    "id": "fixture-long-description", "headline": "A detailed film review",
+    "dek": long_dek,
+})["d"]
+assert len(long_description) <= 160
+assert long_description.endswith("…"), "truncated descriptions must show an ellipsis"
+assert long_description[:-1].split()[-1] in long_dek.split(), (
+    "description truncation must keep the final word intact")
 
 robots = seo.build_robots()
 assert "User-agent: OAI-SearchBot\nAllow: /" in robots

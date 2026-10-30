@@ -157,6 +157,23 @@ def trunc(text, n=160):
     return cut if cut else text[:n]
 
 
+def trunc_description(text, n=160):
+    """Shorten a description at a word boundary and mark omitted text."""
+    text = re.sub(r"\s+", " ", (text or "").strip())
+    terminal = (".", "!", "?", "…", "。", "！", "？")
+    if len(text) < n or (len(text) == n and text.endswith(terminal)):
+        return text
+    if n <= 0:
+        return ""
+    if n == 1:
+        return "…"
+    cut = text[:n - 1].rsplit(" ", 1)[0]
+    if not cut:
+        cut = text[:n - 1]
+    cut = cut.rstrip(" ,;:-")
+    return cut if cut.endswith(terminal) else cut + "…"
+
+
 def plain_text(text):
     """Normalize a data field for safe, readable HTML metadata."""
     text = unescape(str(text or ""))
@@ -181,7 +198,7 @@ def append_meta(base, text, limit=160):
     room = limit - len(base) - 1
     if not text or room < 24:
         return base
-    return base + " " + trunc(text, room)
+    return base + " " + trunc_description(text, room)
 
 
 def safe_keyword(value):
@@ -393,7 +410,7 @@ def title_meta(entry):
     else:
         if entry.get("runtime"):
             ld["duration"] = "PT%dM" % int(entry["runtime"])
-    return {"t": t, "d": trunc(d, 160), "k": ", ".join(kws), "img": img_url(entry),
+    return {"t": t, "d": trunc_description(d, 160), "k": ", ".join(kws), "img": img_url(entry),
             "ld": ld, "year": year, "industry": entry.get("industry")}
 
 
@@ -462,7 +479,7 @@ def news_topic_phrases(entry):
 def news_meta(entry):
     headline = plain_text(entry.get("headline"))
     dek = plain_text(entry.get("dek"))
-    d = trunc(dek, 160) if dek else trunc(headline, 160)
+    d = trunc_description(dek, 160) if dek else trunc_description(headline, 160)
     t = news_title(headline)
     ents = entry.get("entities") or {}
     stored = list((entry.get("keywords") or [])[:5])
@@ -524,14 +541,14 @@ def daywise_meta(entry):
             fmt_money(amount_in))
         if amount_ov > 0:
             desc += " Overseas: %s." % fmt_money(amount_ov)
-        daily.append({"day": day, "date": date, "d": trunc(desc, 160)})
+        daily.append({"day": day, "date": date, "d": trunc_description(desc, 160)})
     daily.sort(key=lambda item: item["day"])
 
     d = ("%s box office: daily rows cover Days 1\u201330; later days count "
          "in totals. India Net %s." % (disp, fmt_money(total_in)))
     if total_ov > 0:
         d += " Overseas total: %s." % fmt_money(total_ov)
-    d = trunc(d, 160)
+    d = trunc_description(d, 160)
     kws = unique_keywords([
         title,
         "%s box office collection" % title,
