@@ -1077,7 +1077,26 @@ window.FA_PUBLISHED = {
     "certification": "",
     "release_date": "2026-10-21",
     "runtime": 77,
-    "providers": []
+    "providers": [
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1637705": {
     "id": 1637705,

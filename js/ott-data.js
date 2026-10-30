@@ -218,6 +218,26 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-10-21",
+      "date_kind": "release",
+      "id": 1480856,
+      "providers": [
+        {
+          "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+          "name": "Paramount Plus Premium"
+        },
+        {
+          "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+          "name": "Paramount Plus Essential"
+        },
+        {
+          "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+          "name": "Paramount+ Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-16",
       "date_kind": "release",
       "id": 1561726,

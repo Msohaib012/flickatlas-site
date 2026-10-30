@@ -19370,5 +19370,201 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-30T06:17:30+05:30"
+  },
+  "4gb63l": {
+    "id": "4gb63l",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 15: Rajinikanth And Hrithik Roshan Starrer Crosses Rs 765 Cr Worldwide",
+    "dek": "The action drama Jailer 2 continues its strong theatrical run on its fifteenth day, outperforming Rajinikanth's previous release Coolie at the exact same stage and touching massive global milestones.",
+    "body": [
+      {
+        "h": "The Thriving Fifteenth Day Box Office Run",
+        "p": [
+          "The theatrical run of the action drama Jailer 2 remains exceptionally strong as it enters its third week in cinemas. On its fifteenth day, the feature film brought in a net collection of Rs 5.90 cr within the domestic market.",
+          "Industry trackers noted that these earnings were registered across a vast network of 10,313 shows. Although daily revenues experienced an 18.1 percent decline compared to the previous day, the film continues to command substantial audiences nationwide."
+        ]
+      },
+      {
+        "h": "Cumulative Domestic And Global Milestones",
+        "p": [
+          "Following the latest single-day figures, the cumulative domestic net earnings for the feature have reached Rs 429.55 cr. At the same time, the overall domestic gross stands at an impressive Rs 502.65 cr.",
+          "International territories have added significantly to the film's success, contributing Rs 2 cr on Thursday alone and pushing the international gross to Rs 262.50 cr. Combined, the worldwide gross collection has now climbed past the major milestone of Rs 765.15 cr."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance And Regional Occupancy",
+        "p": [
+          "The project continues to perform across multiple language versions, with the Tamil release maintaining its lead by contributing Rs 3.20 cr from 4,462 screenings. The Telugu version brought in Rs 1.40 cr, while the Hindi version added Rs 1.10 cr and the Kannada version chipped in with Rs 20 lakh.",
+          "Occupancy rates varied slightly across regions, with the Telugu version leading at 19.1 percent. The Tamil version closely followed with 18.1 percent overall occupancy, Kannada recorded 18 percent, and the Hindi version registered 9 percent."
+        ]
+      },
+      {
+        "h": "State-Wise Contribution Across India",
+        "p": [
+          "Within the domestic circuit, the Tamil Nadu belt emerged as the highest contributor to regional gross earnings, generating Rs 2.65 cr and accounting for a large share of the tracked totals.",
+          "Other key regions also played a vital role in maintaining the film's momentum. Andhra Pradesh and Telangana jointly contributed Rs 1.30 cr, Karnataka added Rs 1.10 cr, Kerala recorded Rs 70 lakh, and remaining Indian markets collectively brought in Rs 1.10 cr."
+        ]
+      },
+      {
+        "h": "Second Week Trajectory And Daily Fluctuations",
+        "p": [
+          "After pulling in an opening week collection of Rs 334.35 cr, the feature added another Rs 95.20 cr during its second week in theatres. The second weekend proved especially lucrative, peaking with Rs 24.15 cr on Saturday and Rs 25.70 cr on Sunday.",
+          "As the new week began, collections tapered off from Monday's Rs 9.45 cr and Tuesday's Rs 8.30 cr down to Wednesday's Rs 7.20 cr, eventually settling at the Thursday figure of Rs 5.90 cr."
+        ]
+      },
+      {
+        "h": "Comparison With Rajinikanth's Previous Release",
+        "p": [
+          "The ongoing commercial success of the film becomes even more apparent when compared to Rajinikanth's earlier release, Coolie. At the exact same fifteen-day milestone, Coolie had recorded a much lower domestic net collection of Rs 2.40 cr.",
+          "Ultimately, Coolie finished its theatrical run with Rs 271.50 cr in domestic net collections and a worldwide total of Rs 493.48 cr, numbers that Jailer 2 has already surpassed significantly."
+        ]
+      },
+      {
+        "h": "Total Footfalls And Admissions",
+        "p": [
+          "Driving these monumental financial figures is a steady and immense influx of cinema-goers. On its fifteenth day alone, the feature recorded 479,990 admissions across all screening formats.",
+          "This single-day surge pushes the cumulative theatrical footfalls for the project to an impressive 28,862,750, highlighting its widespread popularity and strong staying power."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 has crossed Rs 765 cr worldwide on its fifteenth day after collecting Rs 5.90 cr net in India. The action drama starring Rajinikanth and Hrithik Roshan continues to outperform the actor's previous film Coolie at the same stage."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected Rs 5.90 cr net in India on its 15th day",
+      "The 15th day fell on Thursday, October 29, 2026",
+      "Cumulative India net earnings reached Rs 429.55 cr",
+      "Domestic gross stands at Rs 502.65 cr",
+      "International gross has reached Rs 262.50 cr",
+      "Worldwide gross collection climbed to Rs 765.15 cr",
+      "Tamil version contributed Rs 3.20 cr on day 15",
+      "Telugu version collected Rs 1.40 cr on day 15",
+      "Hindi release added Rs 1.10 cr on day 15",
+      "Kannada version contributed Rs 20 lakh on day 15",
+      "Opening week collection was Rs 334.35 cr",
+      "Second-week domestic net earnings added Rs 95.20 cr",
+      "Coolie collected Rs 2.40 cr net in India on its 15th day",
+      "Coolie total worldwide collection was Rs 493.48 cr",
+      "Jailer 2 recorded 28,862,750 cumulative footfalls"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Hrithik Roshan",
+        "Nelson Dilipkumar"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Coolie"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Hrithik Roshan film",
+      "Jailer 2 collection day 15",
+      "Jailer 2 vs Coolie",
+      "Nelson Dilipkumar movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135336821,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 15: Rajinikanth And Hrithik Roshan Starrer Crosses Rs 765 Cr Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T05:35:09+05:30"
+  },
+  "1fot0a7": {
+    "id": "1fot0a7",
+    "type": "news",
+    "headline": "DCU Batman Casting Is Approaching Soon, James Gunn Clarifies",
+    "dek": "DC Studios co-chief James Gunn reveals fresh updates regarding the search for the new cinematic Dark Knight.",
+    "body": [
+      {
+        "h": "The Search For A New Caped Crusader",
+        "p": [
+          "Four years after the establishment of DC Studios, co-chief James Gunn has provided fans with an encouraging update on the search for the DCU Batman. During a recent appearance on an official podcast alongside Jennifer Holland, Gunn addressed the long-standing speculation surrounding the iconic role and confirmed that the casting process is drawing closer.",
+          "While rumors frequently circulate regarding potential cameo appearances in upcoming projects, Gunn firmly dismissed these claims as untrue. He emphasized that the official search has not concluded yet and assured audiences that an announcement regarding the actor stepping into the cowl will happen in the near future."
+        ]
+      },
+      {
+        "h": "Prioritizing Acting Talent Over Star Power",
+        "p": [
+          "Discussing the criteria for the role, Gunn highlighted a distinct shift in how the character will be cast compared to historical precedents. He expressed excitement about prioritizing pure acting ability above traditional movie star status.",
+          "Drawing a parallel to how Superman is cast, Gunn noted that past cinematic interpretations of the Dark Knight have often relied heavily on established box office pull. For the upcoming DCU iteration, the creative team is focused entirely on finding the most capable performer for the part."
+        ]
+      },
+      {
+        "h": "Aligning Ages With David Corenswet's Superman",
+        "p": [
+          "Addressing persistent fan theories about the character's age, Gunn clarified that the new Batman will be a contemporary of David Corenswet's Superman. The two heroes will share a relatively similar age bracket rather than having a vast generational gap.",
+          "This dynamic sets the stage for the classic partnership between the two heroes. Gunn described them as future best pals and contemporaries within the overarching narrative structure of the shared universe."
+        ]
+      },
+      {
+        "h": "Early Teases And Creative Leadership",
+        "p": [
+          "Audiences were given a very brief glimpse into the potential aesthetic and tone of this new Dark Knight during a recent penultimate episode of Creature Commandos titled Priyatel Skelet. This subtle tease offered a minor preview of what to expect from the character moving forward.",
+          "Behind the camera, Andy Muschietti remains attached to direct the standalone feature. Muschietti previously directed The Flash and is now tasked with bringing this new iteration to the big screen."
+        ]
+      },
+      {
+        "h": "Adapting The Brave And The Bold",
+        "p": [
+          "The upcoming film introducing the DCU version of the hero is officially titled The Brave and the Bold. The project will draw heavy creative inspiration from the acclaimed comic book run written by Grant Morrison.",
+          "In addition to introducing the new Gotham protector, the feature will incorporate elements of the wider Bat-family into the cinematic narrative. This approach distinguishes the DCU project from separate iterations, such as the Matt Reeves films starring Robert Pattinson."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gunn stated that the casting process for the DCU Batman is approaching soon and that the character will be a contemporary of David Corenswet's Superman. Andy Muschietti is attached to direct The Brave and the Bold, which draws from Grant Morrison's comics and will remain separate from Robert Pattinson's films."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Jennifer Holland appeared on The Suicide Squad: Is It Canon? The Official Podcast",
+      "DC Studios launched four years ago",
+      "David Corenswet plays Superman",
+      "Creature Commandos featured a brief first look at the DCU Batman in an episode titled Priyatel Skelet",
+      "Andy Muschietti is attached to direct The Brave and the Bold",
+      "The Brave and the Bold is based on Grant Morrison's Batman run",
+      "Robert Pattinson stars in the Matt Reeves Batman films"
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Jennifer Holland",
+        "David Corenswet",
+        "Andy Muschietti",
+        "Grant Morrison",
+        "Robert Pattinson",
+        "Matt Reeves"
+      ],
+      "titles": [
+        "The Suicide Squad: Is It Canon? The Official Podcast",
+        "Creature Commandos",
+        "Priyatel Skelet",
+        "The Flash",
+        "The Brave and the Bold"
+      ]
+    },
+    "keywords": [
+      "James Gunn Batman casting",
+      "DCU Batman movie",
+      "The Brave and the Bold",
+      "David Corenswet Superman"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/10/Ben-Affleck-as-Batman.jpeg",
+        "caption": "DCU Batman Casting Is Approaching Soon, James Gunn Clarifies",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 23:06:46 +0000"
   }
 };
