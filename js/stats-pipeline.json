@@ -1,31 +1,31 @@
 {
-  "generated": "2026-10-29T18:56:42Z",
+  "generated": "2026-10-30T00:54:56Z",
   "fetch": {
     "status": "success",
-    "run_id": 40917441588,
-    "started_at": "2026-10-29T17:02:24Z",
-    "finished_at": "2026-10-29T17:09:41Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40917441588",
+    "run_id": 40975821228,
+    "started_at": "2026-10-29T23:50:31Z",
+    "finished_at": "2026-10-29T23:56:20Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40975821228",
     "sources_total": 137,
-    "sources_ok": 82,
-    "sources_error": 11,
-    "sources_unchanged": 17,
-    "sources_other": 27,
-    "stories_queued": 432,
-    "stories_new": 396,
-    "duplicates_removed": 0,
+    "sources_ok": 24,
+    "sources_error": 5,
+    "sources_unchanged": 4,
+    "sources_other": 104,
+    "stories_queued": 281,
+    "stories_new": 77,
+    "duplicates_removed": 13,
     "per_category": {
-      "Box Office": 7,
-      "Awards": 3,
-      "Trailers": 15,
-      "Music / OST": 13,
-      "Episodes": 13,
-      "Upcoming releases": 3,
-      "OTT / Streaming": 26,
-      "TV & Dramas": 8,
-      "Celebrity news & events": 17,
-      "Movies": 325,
-      "Entertainment viral": 2
+      "Box Office": 6,
+      "Awards": 1,
+      "Trailers": 2,
+      "Music / OST": 6,
+      "Episodes": 4,
+      "Upcoming releases": 1,
+      "OTT / Streaming": 13,
+      "TV & Dramas": 3,
+      "Celebrity news & events": 14,
+      "Movies": 228,
+      "Entertainment viral": 3
     },
     "per_scope": {
       "Bollywood / India": 30,
@@ -46,39 +46,38 @@
       "Music": 2,
       "Tech": 1
     },
-    "next_run": "2026-10-29T19:35:00Z"
+    "next_run": "2026-10-30T01:35:00Z"
   },
   "gemini": {
     "status": "success",
-    "run_id": 40917441588,
-    "started_at": "2026-10-29T17:02:24Z",
-    "finished_at": "2026-10-29T17:09:41Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40917441588",
-    "generated_at": "2026-10-29T18:52:38Z",
+    "run_id": 40975821228,
+    "started_at": "2026-10-29T23:50:31Z",
+    "finished_at": "2026-10-29T23:56:20Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40975821228",
+    "generated_at": "2026-10-30T00:51:32Z",
     "picked": 2,
-    "read": 108,
-    "unprocessed": 432,
+    "read": 100,
+    "unprocessed": 281,
     "per_category": {
-      "tv_dramas": 1,
-      "music_ost": 1
+      "celebrities_events": 2
     },
-    "skipped": 1,
+    "skipped": 0,
     "posts_created": 2,
-    "next_run": "2026-10-29T19:35:00Z"
+    "next_run": "2026-10-30T01:35:00Z"
   },
   "publish": {
     "status": "success",
-    "run_id": 40917441588,
-    "started_at": "2026-10-29T17:02:24Z",
-    "finished_at": "2026-10-29T17:09:41Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40917441588",
-    "next_run": "2026-10-29T19:35:00Z"
+    "run_id": 40975821228,
+    "started_at": "2026-10-29T23:50:31Z",
+    "finished_at": "2026-10-29T23:56:20Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/40975821228",
+    "next_run": "2026-10-30T01:35:00Z"
   },
   "posts": {
-    "total": 384,
-    "articles": 212,
+    "total": 389,
+    "articles": 217,
     "titles": 172,
-    "today": 86,
+    "today": 4,
     "article_categories": {
       "glx1ay": "celebrities_events",
       "1bzs50a": "ott_streaming",
@@ -249,23 +248,27 @@
       "paul37": "box_office",
       "1ddhckm": "movies",
       "qm2q8m": "tv_dramas",
-      "1vgesfi": "music_ost"
+      "1vgesfi": "music_ost",
+      "1btctpu": "celebrities_events",
+      "108ek5i": "celebrities_events",
+      "1oqdnso": "celebrities_events",
+      "16myipb": "celebrities_events"
     }
   },
   "queue": {
-    "total": 432,
+    "total": 281,
     "per_category": {
-      "Episodes": 13,
-      "Movies": 325,
-      "OTT / Streaming": 26,
-      "Box Office": 7,
-      "Music / OST": 13,
-      "Entertainment viral": 2,
-      "Trailers": 15,
-      "Upcoming releases": 3,
-      "TV & Dramas": 8,
-      "Awards": 3,
-      "Celebrity news & events": 17
+      "Movies": 228,
+      "Entertainment viral": 3,
+      "Celebrity news & events": 14,
+      "Awards": 1,
+      "Trailers": 2,
+      "Box Office": 6,
+      "Episodes": 4,
+      "OTT / Streaming": 13,
+      "TV & Dramas": 3,
+      "Upcoming releases": 1,
+      "Music / OST": 6
     }
   }
 }

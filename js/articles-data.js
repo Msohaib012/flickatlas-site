@@ -18959,5 +18959,211 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-10-29T19:53:09Z"
+  },
+  "1oqdnso": {
+    "id": "1oqdnso",
+    "type": "news",
+    "headline": "Patrick Stewart, Renowned Star Trek and X-Men Icon, Passes Away at 86",
+    "dek": "The legendary stage and screen actor, celebrated for his iconic roles as Captain Jean-Luc Picard and Professor Charles Xavier, has died at the age of 86 following a brief illness.",
+    "body": [
+      {
+        "h": "The Passing of a Legend",
+        "p": [
+          "Veteran actor Patrick Stewart, globally recognized for his defining portrayals in major science fiction franchises, has passed away at the age of 86. His representative confirmed that the beloved performer died at his residence in Los Angeles.",
+          "The announcement of his passing was shared by his spokesperson, who noted that he spent his final moments surrounded by his closest family and loved ones, leaving behind an unmatched cinematic and theatrical heritage."
+        ]
+      },
+      {
+        "h": "Illness and Family Surround",
+        "p": [
+          "According to official statements released by his representative Kelly Bush Novak, the actor suffered a brief illness involving Alzheimer's disease and Lewy body dementia prior to his death.",
+          "During his final moments at his home, he was in the company of his wife, singer-songwriter Sunny Ozell, alongside other cherished family members and friends who provided comfort and support."
+        ]
+      },
+      {
+        "h": "Early Life and Stage Beginnings",
+        "p": [
+          "Born in Mirfield, West Yorkshire, England, on July 13, 1940, the future star discovered an early passion for performing arts. He honed his craft by training at the Bristol Old Vic Theatre School.",
+          "He launched his professional career on stage in 1959 and later became a member of the Royal Shakespeare Company in 1966, cementing his reputation as a formidable classical stage actor through numerous Shakespearean plays."
+        ]
+      },
+      {
+        "h": "Early Screen and Television Credits",
+        "p": [
+          "Before achieving global superstardom, the actor took on various British television roles. His early appearances included parts in the long-running series Coronation Street and the historical miniseries Fall of Eagles.",
+          "These foundational television projects allowed him to transition smoothly from traditional theatre to broader television audiences, paving the way for his eventual breakthrough in international science fiction."
+        ]
+      },
+      {
+        "h": "Defining Sci-Fi Roles",
+        "p": [
+          "His career reached a monumental turning point in 1987 when he accepted the role of Captain Jean-Luc Picard in the acclaimed television series Star Trek: The Next Generation.",
+          "In addition to commanding the Enterprise, he brought another iconic character to life as Professor Charles Xavier, the telepathic leader in the X-Men film series, reprising the role across multiple sequels."
+        ]
+      },
+      {
+        "h": "Posthumous Appearances and Legacy",
+        "p": [
+          "Fans will have the opportunity to see the legendary actor on the big screen once more, as he is set to appear posthumously as Professor Charles Xavier in the upcoming Marvel Studios film Avengers: Doomsday.",
+          "His enduring contributions to theatre, television, and cinema ensure that his influence will continue to resonate deeply across generations of audiences and fellow performers alike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Patrick Stewart has passed away at the age of 86 at his Los Angeles home after battling Alzheimer's disease and Lewy body dementia. Remembered worldwide for his unforgettable performances in Star Trek and the X-Men franchise, his remarkable legacy will live on through his extensive body of work and an upcoming appearance in Avengers: Doomsday."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick Stewart died at the age of 86",
+      "He passed away on Wednesday, October 28, 2026",
+      "His death was confirmed on Thursday, October 30, 2026",
+      "He died at his home in Los Angeles",
+      "His illness involved Alzheimer's disease and Lewy body dementia",
+      "He was born on July 13, 1940, in Mirfield, West Yorkshire, England",
+      "He began his professional stage career in 1959",
+      "He joined the Royal Shakespeare Company in 1966",
+      "He was cast as Captain Jean-Luc Picard in Star Trek: The Next Generation in 1987"
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Kelly Bush Novak",
+        "Sunny Ozell",
+        "Ian McKellen"
+      ],
+      "titles": [
+        "Star Trek",
+        "X-Men",
+        "Star Trek: The Next Generation",
+        "Coronation Street",
+        "Fall of Eagles",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart",
+      "Star Trek",
+      "X-Men",
+      "Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/oct/patrickstewart11793304882.jpg",
+        "caption": "Patrick Stewart, Renowned Star Trek and X-Men Icon, Passes Away at 86",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-10-30T01:46:02+05:30"
+  },
+  "16myipb": {
+    "id": "16myipb",
+    "type": "news",
+    "headline": "Patrick Stewart Passes Away at 86 as Entertainment World Pays Tribute",
+    "dek": "The legendary stage and screen icon, renowned for his defining roles in the X-Men and Star Trek franchises, has died at the age of 86 after a battle with Alzheimer's disease and Lewy body dementia.",
+    "body": [
+      {
+        "h": "The Passing of a Sci-Fi Legend",
+        "p": [
+          "The entertainment industry is mourning the loss of legendary actor Patrick Stewart, who passed away on Wednesday at his home in Los Angeles. He was 86 years old at the time of his death.",
+          "His longtime spokesperson, Kelly Bush Novak, revealed that the star had been experiencing a brief and poignant journey with Alzheimer's disease and Lewy body dementia. Family and friends surrounded him with live music, prayer, tears, and laughter during his final moments."
+        ]
+      },
+      {
+        "h": "Defining Professor X on the Big Screen",
+        "p": [
+          "Stewart anchored the original live-action X-Men franchise adapted from Marvel comic books for 20th Century Fox. He debuted as Professor Charles Xavier in the inaugural 2000 film, bringing immense gravitas and dignity to the mutant leader.",
+          "He reprised the iconic character across multiple sequels including X2: X-Men United, X-Men: The Last Stand, and X-Men: Days of Future Past, as well as making memorable appearances in the Wolverine standalone projects and the critically acclaimed Logan."
+        ]
+      },
+      {
+        "h": "Tributes From Fellow Mutants and Co-Stars",
+        "p": [
+          "Co-star Hugh Jackman, who portrayed Wolverine alongside Stewart, took to social media to express his heartbreak. Jackman noted that he lost a tremendous friend and mentor who taught him invaluable lessons about the craft of acting.",
+          "Rebecca Romijn, the original actress behind Mystique, shared her reflections on working with Stewart across two decades. She recalled his booming theatrical voice and wonderful sense of humor, celebrating his status as a classically trained Shakespearean great."
+        ]
+      },
+      {
+        "h": "Memories From Star Trek and Television",
+        "p": [
+          "Famke Janssen, who worked with Stewart on both Star Trek: The Next Generation and the X-Men franchise where she played Jean Grey, remembered him as an absolute legend. She highlighted her early experiences opposite him when she portrayed Kamala to his Captain Picard.",
+          "Kelsey Grammer also offered heartfelt recollections of collaborating with Stewart on the X-Men movies where Grammer played Beast. Grammer praised Stewart's unforgettable guest appearance on the hit sitcom Frasier during its eleventh season."
+        ]
+      },
+      {
+        "h": "Marvel Studios and Kevin Feige Honor His Legacy",
+        "p": [
+          "Marvel Studios head Kevin Feige shared his deep admiration for the actor, recalling the awe he felt seeing Stewart step onto the original X-Men set. Feige emphasized the actor's warm charm, quiet strength, and profound mentorship of younger talent.",
+          "Marvel Studios released an official statement recognizing the extraordinary grace and humanity Stewart brought to Professor Charles Xavier. The studio noted his lasting impact on generations of fans worldwide."
+        ]
+      },
+      {
+        "h": "Final Cinematic Appearances",
+        "p": [
+          "Beyond his decades of television and film history, Stewart was slated to appear in Marvel's upcoming project Avengers: Doomsday. His involvement in the feature will bring back several original Fox-era cast members.",
+          "His enduring presence in contemporary blockbusters cemented a career that bridged classic theatrical training with massive commercial success in science fiction cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned actor Patrick Stewart passed away at the age of 86 in Los Angeles following a battle with Alzheimer's disease and Lewy body dementia. Co-stars, industry executives, and fans worldwide have shared heartfelt tributes celebrating his monumental contributions to the X-Men and Star Trek franchises."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick Stewart died on Wednesday at his home in Los Angeles at the age of 86.",
+      "His spokesperson was Kelly Bush Novak.",
+      "He played Professor Charles Xavier in 2000's X-Men, X2: X-Men United, X-Men: The Last Stand, X-Men: Days of Future Past, and Logan.",
+      "He was set to reprise his role in Marvel's upcoming Avengers: Doomsday.",
+      "Hugh Jackman played Wolverine alongside Stewart.",
+      "Rebecca Romijn portrayed Mystique.",
+      "Famke Janssen portrayed Jean Grey and appeared with him in Star Trek: The Next Generation as Kamala.",
+      "Kelsey Grammer played Beast and guest-starred alongside Stewart on Frasier's 11th season.",
+      "Kevin Feige is the head of Marvel Studios."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Kelly Bush Novak",
+        "Hugh Jackman",
+        "Ian McKellen",
+        "James Marsden",
+        "Kelsey Grammer",
+        "Alan Cumming",
+        "Rebecca Romijn",
+        "Famke Janssen",
+        "Kevin Feige",
+        "Sunny"
+      ],
+      "titles": [
+        "X-Men",
+        "X-Men: The Last Stand",
+        "X2: X-Men United",
+        "X-Men: Days of Future Past",
+        "Logan",
+        "Origins: Wolverine",
+        "The Wolverine",
+        "Avengers: Doomsday",
+        "Star Trek: The Next Generation",
+        "Frasier"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart",
+      "X-Men",
+      "Avengers Doomsday",
+      "Hugh Jackman Patrick Stewart",
+      "Patrick Stewart death"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/MCDXMEN_FE077-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Patrick Stewart Passes Away at 86 as Entertainment World Pays Tribute",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Thu, 29 Oct 2026 22:55:29 +0000"
   }
 };

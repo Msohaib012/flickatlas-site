@@ -3,44 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "IN",
-      "date": "2026-10-30",
-      "date_kind": "digital",
-      "id": 1290035,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
-      "date": "2026-10-30",
-      "date_kind": "digital",
-      "id": 1802464,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-10-30",
-      "date_kind": "digital",
-      "id": 243555,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "tv"
-    },
-    {
-      "country": "IN",
       "date": "2026-10-31",
       "date_kind": "digital",
       "id": 1416310,
@@ -67,6 +29,30 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 307478,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 243555,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
     {
       "date": "2026-10-29",
       "date_kind": "release",
