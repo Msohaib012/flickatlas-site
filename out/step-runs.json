@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T19:51:14Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": {
-     "candidates": 318,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "George Michael’s ‘Faith’ guitar sells for £234,000 amid family row auction",
-      "The One Thing Matthew Perry's Sister Loves About The Netflix Documentary Telling Her Brother's Story",
-      "3 Best Action Thrillers To Watch on Netflix This Weekend (October 31-November 1)",
-      "‘Sherlock’ and ‘Poirot’ Lead 10 Mystery Shows Streaming Free in November",
-      "Apple TV's Hit MonsterVerse Spin-Off Officially Faces Major Changes for Potential Season 3",
-      "Taylor Sheridan's Yellowstone Replacement Officially Returns in 2026",
-      "James Bond Officially Returns Today With New Release",
-      "MCU's First Major Crossover Event Was \"Superhero Soup\" For One Returning Star",
-      "From ‘The Traitors’ to ‘Avengers: Doomsday,’ Alan Cumming Has a Few Tricks Left up His Sleeve",
-      "DCU Fans’ Big Frank Grillo Plot Hole Gets Strong Response & Explanation From James Gunn",
-      "James Franco Grills Rob Lowe in Ben Shapiro’s WWII-Era Confession Trailer",
-      "The Mosquito Bowl’s Nicholas Galitzine, Bill Skarsgård, & More Talk WWII Movie | Interview",
-      "Donald Glover Cast in Netflix’s Live-Action Video Game Show as Fans Wait for Community Movie News",
-      "Ben Affleck’s Animals Finally Dethroned on Netflix Streaming by a Surprising Movie",
-      "Why Idris Elba Wasn’t Cast as Deadshot or Deathstroke in The Suicide Squad, Explained",
-      "Superman & Bloodsport Kryptonite Bullet Batte Gets DCU Canon Status Update From James Gunn",
-      "Alden Ehrenreich Almost Became Spider-Man Before Andrew Garfield, But He Had One Big Problem",
-      "Batman’s DCU Casting Gets Huge James Gunn Update, Actor’s Age Range Revealed",
-      "Second Trailer for 'Pendulum' Horror Featuring Joseph Gordon-Levitt",
-      "Apple TV's 'Godzilla' Series Eyes Major Reboot as New Titans Take Over Season 3"
-     ],
-     "updated": [],
-     "count": 271,
-     "detail": "276 stories, 0 duplicates removed, 42 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T20:51:15Z",
     "run_id": "40952592713",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "404 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T17:51:48Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": {
+     "candidates": 587,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "After Krishnavataram, Hardik Gajjar announces Tana Riri and Ajay Abhimanyu ki Mahabharat; films set for 2027 and 2028 releases",
+      "HorrorCon 2026: Sudhanshu Rai, Divay Agarwal, Karan Singh Magic- 5 Celebs To Make Delhi's Halloween Spookier",
+      "Bigg Boss 20 Weekend Ka Vaar EXCLUSIVE! Salman UPSET With Scout Over Love Gill Controversy, Questions Him",
+      "Bigg Boss 20 Episode 55 Dailymotion: Uditi Singh-Scout FIGHT As Kashvi Gets DRAGGED Ahead Of Weekend Ka Vaar",
+      "Phars Films Acquires Overseas Rights of Shah Rukh Khan's King at a Record Price for Indian Films",
+      "Barbara Barrie's daughter recalls decision to end her life with medical aid",
+      "Shraddha gets emotional at ‘Eetha’ trailer launch: 'My grandmother would be very proud of me'",
+      "Mira tells Kareena about Shahid Kapoor's support as she embraced motherhood at 21",
+      "Maharashtra FDA completes proceedings against SRK, Ajay, and Tiger over pan masala ads",
+      "Anil Kapoor recalls shooting for 'Tezaab' at Mannat before Shah Rukh bought it",
+      "James Gunn says Margot Robbie 'may be over' playing Harley Quinn",
+      "Silambarasan and Nayanthara to reunite Keerthiswaran's direction",
+      "Jailer 2 box office collection day 16: Rajinikanth film brings in  ₹431 crore ahead of its 3rd weekend; shows dip",
+      "Udta Teer box office collection day 8: Ayushmann Khurrana and Sara Ali Khan film refuses to slow down, crosses  ₹33 crore so far",
+      "Exclusive| I will soon initiate the necessary criminal proceedings: Vidnyan Mane on Palash Mucchal case",
+      "Shraddha Kapoor proud to be part of Eetha, says what matters is a good film and she does not look at how many box office records are broken",
+      "Mira Rajput tells Kareena Kapoor that embracing motherhood at the age of 21 had its challenges but Shahid Kapoor was extremely supportive",
+      "HT Exclusive | Ektaa Kapoor's new Star Plus TV show starring Gaurav Khanna and Shraddha Arya titled Dil Ki Bewafaiyaan, eyes November end launch",
+      "Ranbir-Sai Pallavi's Ramayana gets U rating with zero cuts. Check runtime",
+      "I Can't Get Over Dune 3's Popcorn Bucket Having Two Holes (And Neither Can Timothèe Chalamet)"
+     ],
+     "updated": [],
+     "count": 555,
+     "detail": "567 stories, 0 duplicates removed, 20 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-29T20:51:15Z",
-    "run_id": "40952592713",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1424,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T18:04:18Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Reacher Season 4 Reaches 66 Million Viewers as Alan Ritchson Films Season 5",
+      "Aerosmith Returns to the Stage for All-Star Hollywood Bowl Show With Dave Grohl and Johnny Depp"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T21:51:26Z",
-    "run_id": "40961126638",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 50, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1858,26 +1843,27 @@
      "detail": "now 52, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T20:56:47Z",
-    "run_id": "40952592713",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T18:04:18Z",
+    "run_id": "41101885592",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 57,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 52, coming 5"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2271,27 +2257,30 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T18:05:33Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": {
+     "candidates": 40,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "69erpd",
+      "lzeen0",
+      "3152s9"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T19:53:09Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": {
-     "candidates": 293,
-     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 290 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2705,45 +2694,27 @@
      "detail": "+0 new rows, 9 updated rows, 311 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T18:05:31Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": {
+     "candidates": 320,
+     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 312 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T19:56:18Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": {
-     "candidates": 122,
-     "detail": "released movies without a review; Tavily searches: 44"
-    },
-    "changed": {
-     "added": [
-      "Aag Lagay Basti Mein (1610901)",
-      "Adi Nyemeh – Daughters of the Forest (1803308)",
-      "Campeón Gabacho (1629064)",
-      "Damned (1798181)",
-      "Delicate Darling (1803295)",
-      "Distance (1798823)",
-      "Dreamboat (1794887)",
-      "Heartbeat (1801513)",
-      "Luv Di Saun (1703707)",
-      "Psycho (1699721)",
-      "Stray Girls (1794830)",
-      "Tenfa (1674938)",
-      "The Awakening (1657630)",
-      "The Mongoose (1294189)",
-      "The Ordinary Star (1783159)",
-      "The Sinking Monastery of Light (1803288)",
-      "Tum Mere Ho (1806232)",
-      "You, Me, Us (1541477)"
-     ],
-     "updated": [],
-     "count": 18
-    },
-    "reason": null
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2973,27 +2944,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T20:56:47Z",
-    "run_id": "40952592713",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3461,30 +3424,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T19:52:17Z",
-    "run_id": "40943687184",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T18:05:33Z",
+    "run_id": "41101885592",
     "status": "success",
     "checked": {
-     "candidates": 23,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 14 new detected"
+     "candidates": 78,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 17"
+      "Reacher Season 4 Reaches 66 Million Viewers as Alan Ritchson Films Season 5",
+      "Aerosmith Returns to the Stage for All-Star Hollywood Bowl Show With Dave Grohl and Johnny Depp"
      ],
-     "updated": [
-      "Bano Ep 17"
-     ],
-     "count": 2
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 78 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3738,19 +3701,35 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T18:04:04Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": {
+     "candidates": 24,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 15 new detected; 1 summary failure(s): Bano Ep 18"
+    },
+    "changed": {
+     "added": [
+      "Bano Ep 18",
+      "Aangan Ep 9",
+      "Nashtar Ep 25",
+      "Dar-E-Nijaat Ep 26"
+     ],
+     "updated": [
+      "Nashtar Ep 25",
+      "Dar-E-Nijaat Ep 26",
+      "Aangan Ep 9"
+     ],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4025,29 +4004,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T19:53:09Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 271 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, box_office 9/6, celebrities_events 9/5, upcoming_releases 6/4, ott_streaming 5/4, trailers 2/3, awards 0/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Miranda Hart Opens Up About Emotional Return to Television on Celebrity Traitors Following 10-Year Battle with ME",
-      "Oscar Winner Jessie Buckley Set for West End Return on Modest Daily Rate"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4492,19 +4461,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T18:04:18Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 555 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Reacher Season 4 Reaches 66 Million Viewers as Alan Ritchson Films Season 5",
+      "Aerosmith Returns to the Stage for All-Star Hollywood Bowl Show With Dave Grohl and Johnny Depp"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4746,24 +4725,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 232,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5083,24 +5057,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 6,
+     "count": 423,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5415,19 +5389,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5672,19 +5651,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5919,19 +5898,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6187,19 +6166,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6440,19 +6419,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6682,19 +6661,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T19:56:27Z",
-    "run_id": "40943687184",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6947,8 +6926,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T18:05:41Z",
+    "run_id": "41101885592",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T16:12:09Z"
+ "updated_at": "2026-10-30T18:05:41Z"
 }

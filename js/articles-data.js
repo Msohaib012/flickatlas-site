@@ -22878,5 +22878,428 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 14:19:08 +0000"
+  },
+  "wkt3ap": {
+    "id": "wkt3ap",
+    "type": "news",
+    "headline": "Bano Episode 18 — Watch on Geo TV",
+    "dek": "Bano episode 18 aired on 2026-10-30 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 18 aired on 2026-10-30 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=4B2QagkEoEc"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 18 aired on 2026-10-30.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=4B2QagkEoEc",
+      "YouTube views: 221,150."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/4B2QagkEoEc/hqdefault.jpg",
+        "caption": "Bano Episode 18",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-30T17:00:38Z"
+  },
+  "v5p23f": {
+    "id": "v5p23f",
+    "type": "news",
+    "headline": "Aangan Episode 9 — Watch on HUM TV",
+    "dek": "Aangan episode 9 aired on 2026-10-30 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 9 aired on 2026-10-30 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=rc7YotkEBGA"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Chammi ki shaadi ke baad ghar ka mahaul aur rishton ki kashmakash dikhayi gayi hai. Chammi apne kam mein busy hai aur ghar walon ki baaton se pareshan rehti hai. Mehmoor aur Tehmina ki shaadi ki baat chalti hai aur bade bhaiya aur bhabhi Tahmina ka haath mangne ki koshish karte hain. \n\nTehmina aur baaki ghar wale is riste par apni raaye dete hain, aur kuch logon ko is par aitraz bhi hota hai. Chammi ko lagta hai ki uske ghar wale uske liye pareshan hain aur uske rishte ke liye koshish kar rahe hain. \n\nEpisode ke end mein, ek naya mod aata hai jab Tehmina ka purana rista ya uske haalat saamne aate hain, aur drama kaafi jazbati ho jata hai. Ek cliffhanger par episode khatam hota hai jahan kuch raaz khulne lagte hain aur kirdaron ke jazbaat gehre ho jaate hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 9 aired on 2026-10-30.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=rc7YotkEBGA",
+      "YouTube views: 69,304.",
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/rc7YotkEBGA/hqdefault.jpg",
+        "caption": "Aangan Episode 9",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-30T16:00:22Z"
+  },
+  "fnii8": {
+    "id": "fnii8",
+    "type": "news",
+    "headline": "Nashtar Episode 25 — Watch on Geo TV",
+    "dek": "Nashtar episode 25 aired on 2026-10-30 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 25 aired on 2026-10-30 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=y6vNzw3z864"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shadaab aur Bareera aik yacht par samandar ki sair par jaate hain, jahan Shadaab Bareera se kehta hai ke woh jab chahe apne baba se milne ja sakti hai, aur unke darmiyan taaluq wahi hoga jo Bareera ko dil se qubool ho. Bareera wapas ghar aakar apne bhai ko milti hai, jo use dekhte hi hairan aur khush ho jata hai kyunki usne apne baba ko heart attack ki wajah se hospital mein admit karwaya hota hai. Dusri taraf, Tauseef ghar par akeli aur pareshan baith kar Shadaab ka intezaar kar rahi hoti hai jabki uski khala use samjhane ki koshish karti hain ke Shadaab aisi hawa ka jhoka hai jise pakdna mushkil hai. Episode ke aakhir mein, Shadaab ghar laut kar aata hai aur Tauseef se milta hai, jahan Tauseef ek pur-umeed muskurahat ke sath khadi nazar aati hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 25 aired on 2026-10-30.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=y6vNzw3z864",
+      "YouTube views: 779,065.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/y6vNzw3z864/hqdefault.jpg",
+        "caption": "Nashtar Episode 25",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-30T16:00:08Z"
+  },
+  "pp1vei": {
+    "id": "pp1vei",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 26 — Watch on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 26 aired on 2026-10-30 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 26 aired on 2026-10-30 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=dIssXLq1KLQ"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Malik sahab Abubakar ko apne ghar bulate hain aur unka bohot warm welcome karte hain. Abubakar jab Malik sahab ke ghar aata hai toh wahan ek purani tasveer dekh kar unke baray mein poochtay hain jo Malik sahab ke walid ki hoti hai. Malik sahab apni family ke baray mein batatay hain ki woh teen bhai hain aur koi behan nahi hai. Idhar Hamna khushbakht anty ko phone kar ke apni shadi ki khushkhabri sunati hai aur unse dua ki darkhwast karti hai. Woh yeh bhi poochti hai ki kya Abubakar ko is baray mein pata hai ya nahi, aur anty use kehti hain ke woh Abubakar ke liye bhi dua karein gi.\n\nBaad mein, khushbakht anty Hamna ke paas aati hain aur unhe samjhaane ki koshish karti hain ke Abubakar jaise achay insaan ko khona ya us par shaq karna galat hai. Woh kehti hain ke Abubakar aisi kisi baat ka qabil nahi hai aur Hamna ko chahiye ke woh apne naseeb aur Abubakar par bharosa rakhe. Idhar dinner table par Malik sahab Abubakar ko apni business family aur unke father ki death ke baray mein batatay hain aur kehte hain ke woh Abubakar ko ek CEO ke taur par dekhna chahte hain aur ek aisa offer dete hain jise woh inkar nahi kar sakta. Episode ke aakhir mein Abubakar aur Hamna ke darmiyan kuch moments dikhaye jatay hain jahan woh usay ek earring pehnhata hai aur kahani ek jazbati aur gehray mod par aakar khatam hoti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 26 aired on 2026-10-30.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=dIssXLq1KLQ",
+      "YouTube views: 590,454.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/dIssXLq1KLQ/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 26",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-30T16:00:01Z"
+  },
+  "1puvo0c": {
+    "id": "1puvo0c",
+    "type": "news",
+    "headline": "Reacher Season 4 Reaches 66 Million Viewers as Alan Ritchson Films Season 5",
+    "dek": "Prime Video's hit action series Reacher has pulled in massive viewership numbers for its fourth season, cementing Alan Ritchson's status as a top action star.",
+    "body": [
+      {
+        "h": "Massive Viewership Milestone",
+        "p": [
+          "Prime Video has officially announced that the fourth season of Reacher has crossed a major milestone by attracting over 66 million views since its initial release. The latest run of episodes, which broadcasted from August through mid-September, proved to be an enormous draw for subscribers across the globe.",
+          "This incredible figure reinforces the immense popularity of the streaming platform's premier action franchise, demonstrating that audiences continue to eagerly tune in for the hulking hero's gritty adventures."
+        ]
+      },
+      {
+        "h": "Alan Ritchson's Banner Year",
+        "p": [
+          "The staggering success of Reacher Season 4 arrives during what can only be described as a benchmark year for leading man Alan Ritchson. The actor has well and truly established himself as a dominant force within the Hollywood action genre.",
+          "Earlier in the year, Ritchson found massive success on Netflix with the sci-fi thriller War Machine, which hauled in nearly 140 million views and earned a sequel order. He also fronted two additional action films during the summer, Motor City and Runner, both of which enjoyed strong secondary runs on VOD and streaming services."
+        ]
+      },
+      {
+        "h": "Production on Season 5 Underway",
+        "p": [
+          "Even as celebrating the massive viewership of the fourth outing, production crews are hard at work capturing the next chapter of the saga. Alan Ritchson is currently in the middle of filming the fifth season of the series.",
+          "The confirmation for the subsequent batch of episodes was secured long before the fourth season ever premiered on the streaming platform, showcasing the deep confidence executives have in the property's ongoing trajectory."
+        ]
+      },
+      {
+        "h": "Source Material for the Next Chapter",
+        "p": [
+          "Adapting the celebrated literary creations of author Lee Child, the television adaptation has carefully mapped out its upcoming narrative arcs. Season 5 will directly draw its plot from Make Me, which marks the twentieth novel in the well-known Jack Reacher book series.",
+          "Fans of the original novels have long anticipated how the adaptation team will bring this specific book to life on screen, given its distinct tone and complex narrative twists."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Season 6",
+        "p": [
+          "The momentum for the Prime Video heavyweight shows no signs of slowing down anytime soon. In addition to the ongoing production of the fifth chapter, the streaming service has already officially renewed Reacher for Season 6.",
+          "However, producers and network executives are focusing entirely on completing the current filming block before revealing any official details regarding which specific book by Lee Child will inspire the sixth season."
+        ]
+      },
+      {
+        "h": "Legacy and Franchise Growth",
+        "p": [
+          "Since premiering its inaugural season alongside other high-profile action content back in 2022, Reacher has outpaced comparable releases in terms of sheer output and rapid renewal schedules. While other action properties take years between single outings, Prime Video has managed to roll out four comprehensive seasons in a remarkably tight timeframe.",
+          "This prolific output has allowed the adaptation to steadily build a devoted global fanbase, transforming it into a definitive anchor for the streaming service's action catalogue."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has revealed that the fourth season of its hit action series Reacher has drawn more than 66 million viewers since its release. Meanwhile, lead actor Alan Ritchson is currently filming the fifth season, which is based on Lee Child's novel Make Me, following an early renewal for a sixth season."
+        ]
+      }
+    ],
+    "facts": [
+      "Reacher Season 4 amassed over 66 million views",
+      "Season 4 ran from August to the middle of September",
+      "Alan Ritchson is currently filming Season 5",
+      "Season 5 is based on the book Make Me",
+      "Make Me is the 20th novel in Lee Child’s Jack Reacher series",
+      "Prime Video has renewed Reacher for Season 6",
+      "War Machine earned nearly 140 million views on Netflix"
+    ],
+    "entities": {
+      "people": [
+        "Alan Ritchson",
+        "Lee Child",
+        "Chris Pratt"
+      ],
+      "titles": [
+        "Reacher",
+        "War Machine",
+        "Motor City",
+        "Runner",
+        "The Terminal List",
+        "Make Me"
+      ]
+    },
+    "keywords": [
+      "Reacher Season 4",
+      "Alan Ritchson Reacher",
+      "Reacher Season 5 Make Me",
+      "Lee Child Reacher series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/reacher-alan-ritchson-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Reacher Season 4 Reaches 66 Million Viewers as Alan Ritchson Films Season 5",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 17:45:28 GMT"
+  },
+  "14yewza": {
+    "id": "14yewza",
+    "type": "news",
+    "headline": "Aerosmith Returns to the Stage for All-Star Hollywood Bowl Show With Dave Grohl and Johnny Depp",
+    "dek": "The legendary rock band ended a three-year live performance hiatus with a massive all-star concert in Los Angeles, featuring surprise guest appearances and emotional reunions.",
+    "body": [
+      {
+        "h": "The Grand Return at the Hollywood Bowl",
+        "p": [
+          "Aerosmith made a triumphant return to live performing after a three-year hiatus on Thursday night. The legendary rock group took over the Hollywood Bowl in Los Angeles for the first of two special California Dream On: Aerosmith and Friends concerts.",
+          "This marked the group's first full performance since a severe vocal injury sustained by frontman Steven Tyler in September 2023 forced them to scrap their planned Peace Out Farewell Tour and officially step away from the road."
+        ]
+      },
+      {
+        "h": "Star-Studded Collaborations and Guest Musicians",
+        "p": [
+          "For the majority of their six-song, show-ending set, Foo Fighters frontman Dave Grohl sat in on drums, replacing band co-founder Joey Kramer. The band tore through classic anthems like Toys in the Attic, Back in the Saddle, and Sweet Emotion.",
+          "Actor Johnny Depp, known for playing alongside Joe Perry in the Hollywood Vampires, also joined the stage to play guitar on Train Kept a Rollin, adding to the evening's all-star collaborative atmosphere."
+        ]
+      },
+      {
+        "h": "An Emotional Drummer Reunion",
+        "p": [
+          "Toward the end of the evening, Steven Tyler reflected on the group's historic run, noting that they remain the same band that started fifty-five and a half years ago. Following his speech, original drummer Joey Kramer emerged to embrace Tyler.",
+          "Kramer stepped behind his drum kit alongside drum tech John Douglas, who had filled in during his absence, to help deliver a rousing rendition of their 1976 hit Walk This Way."
+        ]
+      },
+      {
+        "h": "Star-Studded Covers and Supporting Sets",
+        "p": [
+          "The evening featured several other major artists celebrating the headliners' catalog. Guns N Roses delivered covers of early cuts like Nobody's Fault alongside their own tracks Welcome to the Jungle and Paradise City.",
+          "The Black Crowes, Heart, Eric Church, Sammy Hagar, and Billy Idol also took turns performing notable tracks from the band's extensive discography, showcasing their enduring influence across rock and country genres."
+        ]
+      },
+      {
+        "h": "Background on the Hiatus and Retirement",
+        "p": [
+          "In September 2023, Steven Tyler was diagnosed with a fractured larynx just three dates into what was promoted as their final tour. While the group initially postponed the outing, they ultimately canceled it and announced their official retirement from touring.",
+          "Although the veteran musicians have not clarified whether these special Los Angeles gigs serve as a permanent swan song, comedian and event host Bill Burr opened the evening by introducing them as the final two shows in Aerosmith's history."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Night Two",
+        "p": [
+          "The celebration continues with a second consecutive performance scheduled at the same venue. Event promotional materials hint at potential further guest appearances.",
+          "Future drop-ins could include original Walk This Way collaborators Run-DMC, as well as musicians like Jerry Cantrell, Pat Monahan, Marcus King, and Tom Morello."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Aerosmith returned to the live stage after a three-year hiatus with an all-star Hollywood Bowl performance featuring guests like Dave Grohl and Johnny Depp. The concert included a surprise reunion with original drummer Joey Kramer and various covers performed by rock music peers."
+        ]
+      }
+    ],
+    "facts": [
+      "Steven Tyler and Joe Perry performed during the 2025 MTV Video Music Awards on September 7, 2025",
+      "Steven Tyler was diagnosed with a fractured larynx in September 2023",
+      "Steven Tyler is 78 years old",
+      "The band started fifty-five and a half years ago",
+      "Walk This Way was a 1976 Billboard Hot 100 No. 10 hit",
+      "The California Dream On show took place on Thursday night, October 29"
+    ],
+    "entities": {
+      "people": [
+        "Steven Tyler",
+        "Joe Perry",
+        "Dave Grohl",
+        "Johnny Depp",
+        "Brad Whitford",
+        "Tom Hamilton",
+        "Joey Kramer",
+        "John Douglas",
+        "Aretha Franklin",
+        "Eric Church",
+        "Sammy Hagar",
+        "Billy Idol",
+        "Steve Stevens",
+        "Warren Haynes",
+        "Sully Erna",
+        "Bill Burr",
+        "Jerry Cantrell",
+        "Pat Monahan",
+        "Marcus King",
+        "Tom Morello"
+      ],
+      "titles": [
+        "Walk This Way",
+        "Toys in the Attic",
+        "Back in the Saddle",
+        "Sweet Emotion",
+        "Train Kept a Rollin",
+        "Nobody's Fault",
+        "Last Child",
+        "Season of Wither",
+        "Welcome to the Jungle",
+        "Paradise City",
+        "Let the Music Do the Talking",
+        "Write Me a Letter",
+        "Combination",
+        "No More No More",
+        "Chip Away the Stone",
+        "Honkin on Bobo",
+        "Janie's Got a Gun",
+        "Rag Doll",
+        "I Don't Want to Miss A Thing",
+        "Draw the Line",
+        "Helter Skelter",
+        "Livin on the Edge",
+        "Lord of the Thighs",
+        "Walkin the Dog",
+        "Make It",
+        "Lightning Strike",
+        "Rock in a Hard Place"
+      ]
+    },
+    "keywords": [
+      "Aerosmith Hollywood Bowl show",
+      "Steven Tyler vocal injury",
+      "Aerosmith Dave Grohl Johnny Depp",
+      "Aerosmith return to stage"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/10/2235245140-e1793376928599.jpg?w=1024",
+        "caption": "Aerosmith Returns to the Stage for All-Star Hollywood Bowl Show With Dave Grohl and Johnny Depp",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 17:19:39 +0000"
   }
 };
