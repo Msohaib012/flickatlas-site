@@ -17,11 +17,11 @@ window.FA_WORLDWIDE = {
     "total_usd": 774031
   },
   "1101412": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "scope": "worldwide",
     "source": "https://en.wikipedia.org/wiki/Fall_2:_Deadpoint",
     "title": "Fall 2: Deadpoint",
-    "total_usd": 20600000
+    "total_usd": 21700000
   },
   "1178602": {
     "as_of": "2026-10-28",
@@ -41,7 +41,7 @@ window.FA_WORLDWIDE = {
     "total_usd": 5750000
   },
   "791523": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "scope": "worldwide",
     "source": "https://en.wikipedia.org/wiki/Wildwood_(film)",
     "title": "Wildwood",

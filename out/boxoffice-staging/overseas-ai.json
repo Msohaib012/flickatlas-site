@@ -74,9 +74,7 @@
       "date": "2026-10-23",
       "day": 1,
       "overseas_inr_cr": 1.5,
-      "shows": 6265,
-      "source": "overseas-ai",
-      "tickets": 13
+      "source": "overseas-ai"
     },
     {
       "date": "2026-10-24",
@@ -100,7 +98,6 @@
       "date": "2026-10-27",
       "day": 5,
       "overseas_inr_cr": 1.0,
-      "shows": 5854,
       "source": "overseas-ai"
     }
   ],
@@ -145,6 +142,13 @@
     {
       "date": "2026-10-26",
       "day": 11,
+      "overseas_inr_cr": 0.05,
+      "source": "overseas-ai",
+      "tickets": 122065
+    },
+    {
+      "date": "2026-10-29",
+      "day": 14,
       "overseas_inr_cr": 0.15,
       "source": "overseas-ai"
     }
@@ -194,6 +198,14 @@
       "date": "2026-10-26",
       "day": 11,
       "overseas_inr_cr": 0.05,
+      "source": "overseas-ai"
+    }
+  ],
+  "1785611": [
+    {
+      "date": "2026-10-23",
+      "day": 1,
+      "overseas_inr_cr": 0.09,
       "source": "overseas-ai"
     }
   ]

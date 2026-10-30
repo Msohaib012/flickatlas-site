@@ -20629,5 +20629,199 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 07:37:56 +0000"
+  },
+  "ny6d2m": {
+    "id": "ny6d2m",
+    "type": "news",
+    "headline": "Composer Anirudh Steps Down From Shah Rukh Khan Starrer King Due to Scheduling Conflicts",
+    "dek": "Musician Anirudh has amicably parted ways with Siddharth Anand's upcoming actioner King owing to heavy commitments down South, while Sachin-Jigar step in to handle the soundtrack and background score.",
+    "body": [
+      {
+        "h": "A Major Shake-Up Behind the Scenes",
+        "p": [
+          "The highly anticipated action project starring Shah Rukh Khan and directed by Siddharth Anand has experienced a significant change in its crew. Composer Anirudh, widely celebrated for his energetic musical style and background compositions, will no longer be attached to the project.",
+          "Insiders close to the development revealed that the parting of ways was handled amicably following detailed discussions. The intense workload and multiple active projects down South made it impossible for the composer to dedicate the necessary time to a production of this magnitude."
+        ]
+      },
+      {
+        "h": "Sticking to a Strict Timeline",
+        "p": [
+          "The creative team behind the production is working under a rigid timeline to ensure the film meets its scheduled holiday arrival in cinemas. Siddharth Anand and the lead actor are fully committed to bringing the spectacle to audiences this Christmas without experiencing postponements.",
+          "Because the upcoming feature demands undivided attention and meticulous planning for its grand scale, the previous collaboration could not continue under the current scheduling constraints, leading both sides to choose a mutually beneficial resolution."
+        ]
+      },
+      {
+        "h": "Passing the Baton to Sachin-Jigar",
+        "p": [
+          "Following the departure of the original musician, the producers wasted no time in securing a new creative team for the soundtrack. The duo Sachin-Jigar has now been officially entrusted with the responsibility of crafting the complete album and the entire background score.",
+          "The incoming composers face the challenge of matching the high-octane energy expected from a major Hindi cinema release while putting their own unique sonic signature on the production's extensive musical requirements."
+        ]
+      },
+      {
+        "h": "A Special Musical Gift for the Megastar",
+        "p": [
+          "Despite stepping down from the broader assignment, the artist ensured his connection to the project remains intact as a tribute to the lead actor. He personally gifted the central theme track to Shah Rukh Khan as a token of deep respect for the legendary megastar.",
+          "This iconic opening composition will still feature the distinct flair associated with the original creator, allowing fans to experience that familiar touch even as the rest of the audio landscape transitions to the new musical directors."
+        ]
+      },
+      {
+        "h": "Reimagining the Soundscape",
+        "p": [
+          "The newly appointed duo will not completely discard the foundation laid by their predecessor. Instead, Sachin-Jigar are set to creatively reimagine the gifted theme track so that it seamlessly weaves into the broader musical arrangement they are building for the feature.",
+          "This hybrid approach ensures that the central auditory motif remains consistent with early expectations while the remaining score and album reflect the distinct artistic vision of the newly assigned composers."
+        ]
+      },
+      {
+        "h": "An Ambitious Production Scale",
+        "p": [
+          "The upcoming venture is positioned as a massive undertaking within Hindi cinema, designed specifically to highlight the enduring persona and cinematic aura of its principal star. Industry insiders indicate that the production is mounted on a lavish budget to create a never-before-seen visual and auditory spectacle.",
+          "Excluding the primary actor's fees and the publicity expenses, the estimated expenditures for the venture are reported to sit in the notable zone of Rs. 450 crore, with every rupee intended to show up clearly on the silver screen."
+        ]
+      },
+      {
+        "h": "Anticipation and Upcoming Campaigns",
+        "p": [
+          "Excitement surrounding the project continues to build as the release window approaches. The countdown has officially begun for a major promotional asset launch timed to coincide with the lead actor's birthday, which will serve as the formal kickoff for the actioner's marketing strategy.",
+          "Director Siddharth Anand has steadily fueled public curiosity through cryptic social media updates, keeping followers engaged as they await the first official glimpses of what is widely considered the most discussed film heading toward the 2026 calendar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Musician Anirudh has amicably exited Shah Rukh Khan's upcoming action film King due to a packed schedule, with Sachin-Jigar taking over the album and background score. However, Anirudh gifted the film's theme track to the megastar as a mark of respect, which Sachin-Jigar will reimagine for the project's overall soundscape. Directed by Siddharth Anand, the high-budget feature is slated for a Christmas release in 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh exited Shah Rukh Khan's King due to a packed schedule.",
+      "Sachin-Jigar took over the music and background score for King.",
+      "Anirudh gifted the theme track of King to Shah Rukh Khan.",
+      "King is directed by Siddharth Anand.",
+      "The film's estimated cost excluding the star's fees and PnA is Rs. 450 crore.",
+      "King is scheduled to release this Christmas in 2026."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh",
+        "Shah Rukh Khan",
+        "Sachin-Jigar",
+        "Siddharth Anand",
+        "SRK"
+      ],
+      "titles": [
+        "King"
+      ]
+    },
+    "keywords": [
+      "King film",
+      "Anirudh King exit",
+      "Shah Rukh Khan King",
+      "Sachin-Jigar King music",
+      "Siddharth Anand King"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/10/Shah-Rukh-Khan.jpg",
+        "caption": "Composer Anirudh Steps Down From Shah Rukh Khan Starrer King Due to Scheduling Conflicts",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 13:50:59 +0200"
+  },
+  "eqq3fs": {
+    "id": "eqq3fs",
+    "type": "news",
+    "headline": "ईरानी फिल्मकार जफर पनाही को पांच साल से ज्यादा की जेल की सजा, कान और ऑस्कर विजेता निर्देशक की कहानी",
+    "dek": "कान फिल्म फेस्टिवल में पुरस्कार जीतने और ऑस्कर तक पहुंचने वाले ईरान के मशहूर फिल्ममेकर जफर पनाही को उनकी गैरमौजूदगी में पांच साल से अधिक जेल की सजा सुनाई गई है।",
+    "body": [
+      {
+        "h": "सत्ता से टकराव और ताजा सजा",
+        "p": [
+          "ईरान के जाने-माने फिल्म निर्देशक जफर पनाही को एक बार फिर कानूनी शिकंजे में कस दिया गया है। तेहरान की रिवोल्यूशनरी कोर्ट की ब्रांच 26 ने उन्हें पांच साल और एक महीने जेल की सजा सुनाई है।",
+          "इस नए फैसले के तहत उनकी संपत्ति जब्त करने, दो साल तक देश छोड़ने और सोशल मीडिया का इस्तेमाल करने पर भी रोक लगाने के आदेश सामने आए हैं।"
+        ]
+      },
+      {
+        "h": "अदालती कार्रवाई और वकील का पक्ष",
+        "p": [
+          "पनाही के वकील मुस्तफा नीली के अनुसार, इस नए मुकदमे की सुनवाई और फैसलों की जानकारी खुद फिल्मकार या उनके कानूनी प्रतिनिधियों को नहीं दी गई थी।",
+          "इस नए फैसले की भनक तब लगी जब उनके बैंक खाते अचानक फ्रीज होने लगे। इसके अलावा उनके खिलाफ तीन अन्य मामले भी लंबित बताए जा रहे हैं।"
+        ]
+      },
+      {
+        "h": "कान और ऑस्कर तक पहुंची फिल्म की गूंज",
+        "p": [
+          "एक तरफ जहां पनाही कानूनी लड़ाइयों में उलझे हैं, वहीं उनकी फिल्म 'इट वाज जस्ट एन एक्सीडेंट' को दुनियाभर में भारी सराहना मिली है। साल 2025 में इस फिल्म ने कान फिल्म फेस्टिवल का प्रतिष्ठित पाल्मे डी'ओर अवॉर्ड अपने नाम किया था।",
+          "इसके बाद फिल्म को फ्रांस की तरफ से 98वें ऑस्कर समारोह में बेस्ट इंटरनेशनल फीचर फिल्म कैटेगरी के लिए भेजा गया, जहां यह नॉमिनेशन की दौड़ तक पहुंची।"
+        ]
+      },
+      {
+        "h": "स्वदेश वापसी का फैसला और खतरे",
+        "p": [
+          "विदेश में महीनों बिताने और अंतरराष्ट्रीय स्तर पर वाहवाही बटोरने के बाद पनाही ने 30 मार्च 2026 को अपने देश ईरान लौटने का फैसला किया।",
+          "वह चाहते तो विदेश में एक सुरक्षित जीवन चुन सकते थे, लेकिन उन्होंने अपनी मातृभूमि पर रहना बेहतर समझा, भले ही उन्हें इस बात का अंदेशा था कि वहां उनके लिए मुश्किलें खड़ी हो सकती हैं।"
+        ]
+      },
+      {
+        "h": "पुराना इतिहास और जेल के अनुभव",
+        "p": [
+          "पनाही का ईरानी सत्ता के साथ टकराव पुराना है। साल 2009 के चुनावों के बाद हुए विरोध प्रदर्शनों के दौरान उन्होंने खुलकर सरकार विरोधी आवाजों का समर्थन किया था।",
+          "वर्ष 2010 में उन्हें गिरफ्तार कर छह साल की सजा और 20 साल तक फिल्म निर्माण पर पाबंदी लगाई गई थी। इसके बावजूद उन्होंने कैमरे से नाता नहीं तोड़ा और गुप्त रूप से अपनी कला जारी रखी।"
+        ]
+      },
+      {
+        "h": "अतीत की गिरफ्तारियां और भूख हड़ताल",
+        "p": [
+          "साल 2022 में उन्हें फिर से गिरफ्तार किया गया था और वह तेहरान की एविन जेल में लगभग सात महीने रहे। फरवरी 2023 में रिहाई से पहले उन्होंने भूख हड़ताल भी की थी।",
+          "दिसंबर 2025 में उन्हें सरकार के खिलाफ प्रचार करने के आरोप में एक साल की सजा सुनाई गई थी, जिसे जून 2026 में बरकरार रखा गया।"
+        ]
+      },
+      {
+        "h": "अभिव्यक्ति की आजादी का संघर्ष",
+        "p": [
+          "जफर पनाही की जिंदगी और उनका काम इस बात का प्रतीक बन चुका है कि कैसे एक कलाकार तमाम पाबंदियों के बावजूद अपनी बात कहने से पीछे नहीं हटता।",
+          "उनकी फिल्में और उनका व्यक्तिगत संघर्ष आज दुनिया भर में अभिव्यक्ति की स्वतंत्रता की बहस का एक अहम हिस्सा बन चुके हैं।"
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ईरानी फिल्मकार जफर पनाही को अपनी गैरमौजूदगी में पांच साल और एक महीने की जेल की सजा सुनाई गई है, साथ ही उनकी संपत्ति जब्त करने और विदेश यात्रा पर रोक लगाने के आदेश दिए गए हैं।",
+          "उनकी फिल्म 'इट वाज जस्ट एन एक्सीडेंट' ने कान फिल्म फेस्टिवल में पाल्मे डी'ओर जीतने और ऑस्कर तक पहुंचने के बाद यह नया कानूनी संकट खड़ा हुआ है, जो सत्ता और अभिव्यक्ति की आजादी के बीच उनके लंबे संघर्ष को दर्शाता है।"
+        ]
+      }
+    ],
+    "facts": [
+      "जफर पनाही को पांच साल और एक महीने जेल की सजा सुनाई गई है।",
+      "यह फैसला तेहरान की रिवोल्यूशनरी कोर्ट की ब्रांच 26 द्वारा दिया गया है।",
+      "पनाही के वकील का नाम मुस्तफा नीली है।",
+      "फिल्म 'इट वाज जस्ट एन एक्सीडेंट' ने कान फिल्म फेस्टिवल में पाल्मे डी'ओर जीता था।",
+      "इस फिल्म को 98वें ऑस्कर समारोह में बेस्ट इंटरनेशनल फीचर फिल्म कैटेगरी के लिए भेजा गया था।",
+      "पनाही 30 मार्च 2026 को ईरान लौटे थे।",
+      "पनाही फरवरी 2023 में एविन जेल से रिहा हुए थे।"
+    ],
+    "entities": {
+      "people": [
+        "जफर पनाही",
+        "मुस्तफा नीली"
+      ],
+      "titles": [
+        "It Was Just an Accident"
+      ]
+    },
+    "keywords": [
+      "जफर पनाही",
+      "It Was Just an Accident film",
+      "ईरान जेल सजा",
+      "Cannes Palme d'Or"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ae3218c3cba2-iranian-film-maker-jafar-panahi-life-story-293554894-16x9.jpg",
+        "caption": "ईरानी फिल्मकार जफर पनाही को पांच साल से ज्यादा की जेल की सजा, कान और ऑस्कर विजेता निर्देशक की कहानी",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T08:51:53Z"
   }
 };
