@@ -386,7 +386,10 @@
       const metricFor = (windowKey) => HomeBoxOffice
         ? HomeBoxOffice.resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST) : null;
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
-      const amountHtml = (metric) => UI.esc(HomeBoxOffice.formatCurrency(metric.amount, metric.currency));
+      const amountHtml = (metric) => UI.esc(
+        metric.amount_high > metric.amount
+          ? `${HomeBoxOffice.formatCurrency(metric.amount, metric.currency)}–${HomeBoxOffice.formatCurrency(metric.amount_high, metric.currency)}`
+          : HomeBoxOffice.formatCurrency(metric.amount, metric.currency));
       const sourceHtml = (metric) => {
         if (metric.method === "paired_components" && metric.components) {
           const names = component => {

@@ -92,7 +92,13 @@
     if (windowKey === "last_7_days" && (metric.period_start !== shiftDate(todayIST, -6)
         || metric.period_end !== todayIST || metric.as_of !== todayIST)) return null;
     if (windowKey === "cumulative_total" && metric.period_end !== metric.as_of) return null;
-    return { ...metric, amount, currency, source_url: sourceUrl, method: "tavily_gemini" };
+    const out = { ...metric, amount, currency, source_url: sourceUrl, method: "tavily_gemini" };
+    // A source-stated range travels as amount + amount_high and renders as a
+    // range; a malformed or inverted upper bound is dropped, never averaged.
+    const amountHigh = number(metric.amount_high);
+    if (amountHigh === null || amountHigh <= amount) delete out.amount_high;
+    else out.amount_high = amountHigh;
+    return out;
   }
   function rowDay(row) {
     const m = String(row && row.day != null ? row.day : "").match(/\d+/);

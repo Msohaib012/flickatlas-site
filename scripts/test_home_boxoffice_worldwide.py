@@ -35,15 +35,26 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertEqual(bo.parse_amounts("Worldwide total 8.2 million EUR")[0]["currency"], "EUR")
         self.assertEqual(bo.parse_amounts("Worldwide amount 8.2 mysterycoins"), [])
 
-    def test_one_query_requests_all_three_worldwide_windows_for_a_title(self):
+    def test_each_window_gets_its_own_targeted_query(self):
         today = "2026-10-31"
-        query = bo.make_query(self.item, today)
-        self.assertIn("last 2 days (2026-10-30 through 2026-10-31)", query)
-        self.assertIn("exact 7-day window (2026-10-25 through 2026-10-31)", query)
-        self.assertIn("cumulative worldwide total as of 2026-10-31", query)
-        self.assertNotIn("gross for today", query)
-        self.assertNotIn("india net", query.lower())
-        self.assertNotIn("overseas-only", query.lower())
+        total = bo.make_query(self.item, "cumulative_total", today)
+        self.assertIn("cumulative worldwide total", total)
+        self.assertIn("as of 2026-10-31", total)
+        self.assertNotIn("last 2 days", total)
+        self.assertNotIn("opening week", total)
+        week = bo.make_query(self.item, "last_7_days", today)
+        self.assertIn("first 7 days / opening week (2026-10-25 through 2026-10-31)", week)
+        self.assertNotIn("cumulative", week)
+        two = bo.make_query(self.item, "last_2_days", today)
+        self.assertIn("last 2 days (2026-10-30 through 2026-10-31)", two)
+        self.assertNotIn("cumulative", two)
+        for query in (total, week, two):
+            self.assertIn('"Fixture Film" 2026', query)
+            self.assertNotIn("gross for today", query)
+            self.assertNotIn("india net", query.lower())
+            self.assertNotIn("overseas-only", query.lower())
+        with self.assertRaises(ValueError):
+            bo.make_query(self.item, "today", today)
 
     def test_candidate_requires_title_worldwide_scope_and_exact_window(self):
         candidate = bo.make_candidate(self.item, "today", self.result, "2026-10-31")
@@ -130,6 +141,113 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", undated, today),
             "the article publication date alone cannot establish when a cumulative total was measured")
 
+    def test_range_parser_accepts_only_explicit_same_currency_ranges(self):
+        stated = bo.parse_ranges("₹0.65 crore to ₹0.70 crore")
+        self.assertEqual([(r["amount"], r["amount_high"], r["currency"]) for r in stated],
+                         [(6_500_000, 7_000_000, "INR")])
+        bare = bo.parse_ranges("₹0.65–0.70 crore")
+        self.assertEqual([(r["amount"], r["amount_high"]) for r in bare], [(6_500_000, 7_000_000)],
+                         "a shared trailing unit applies to both bounds")
+        between = bo.parse_ranges("between $12 and $15 million")
+        self.assertEqual([(r["amount"], r["amount_high"]) for r in between], [(12_000_000, 15_000_000)])
+        self.assertEqual(bo.parse_ranges("grossed $12 million in India and $15 million overseas"), [],
+                         "two separate scope figures are not a range")
+        self.assertEqual(bo.parse_ranges("₹0.65 crore in India and ₹0.70 crore overseas"), [])
+        self.assertEqual(bo.parse_ranges("₹0.70 crore to ₹0.65 crore"), [], "an inverted range is not evidence")
+        events = bo.amount_events("worldwide total ₹0.65–0.70 crore")
+        self.assertEqual(len(events), 1)
+        self.assertTrue(events[0]["is_range"], "a stated range consumes its bounds; the low bound alone is not an event")
+
+    def bh_item_result(self):
+        item = {"id": "1806232", "title": "Tum Mere Ho", "original_title": "Tum Mere Ho",
+                "release_date": "2026-10-23", "industry": "bollywood"}
+        result = {"title": "Tum Mere Ho box office collection",
+            "content": ("Tum Mere Ho (2026), starring Gurmeet Choudhary and Ishita Chauhan, collected "
+                        "approximately ₹0.54 crore nett in India in its first week. As of October 30, 2026, "
+                        "the worldwide total of Tum Mere Ho stands at ₹0.65 crore to ₹0.70 crore so far, "
+                        "according to trade estimates."),
+            "published_date": "2026-10-30",
+            "url": "https://www.bollywoodhungama.com/news/box-office-specials/tum-mere-ho-box-office-collection/"}
+        return item, result
+
+    def test_bh_style_worldwide_range_becomes_a_range_candidate(self):
+        item, result = self.bh_item_result()
+        candidate = bo.make_candidate(item, "cumulative_total", result, "2026-10-30")
+        self.assertIsNotNone(candidate, "the BH worldwide range must survive candidate extraction")
+        self.assertEqual(candidate["amount"], 6_500_000)
+        self.assertEqual(candidate["amount_high"], 7_000_000)
+        self.assertEqual(candidate["currency"], "INR")
+        prompt = bo.build_review_prompt("2026-10-30", [candidate])
+        self.assertIn('"amount_high": 7000000.0', prompt)
+        quote = ("As of October 30, 2026, the worldwide total of Tum Mere Ho stands at "
+                 "₹0.65 crore to ₹0.70 crore so far")
+        accepted = bo.accepted_metric(candidate, {"accepted": True, "quote": quote},
+                                      "2026-10-30", "2026-10-30T09:00:00Z")
+        self.assertIsNotNone(accepted)
+        self.assertEqual(accepted["amount"], 6_500_000)
+        self.assertEqual(accepted["amount_high"], 7_000_000,
+                         "the accepted metric keeps the range; it is never collapsed or averaged")
+        self.assertEqual(accepted["source_name"], "bollywoodhungama.com")
+        low_only = bo.accepted_metric(candidate, {"accepted": True, "quote": "Tum Mere Ho worldwide total ₹0.65 crore"},
+                                      "2026-10-30", "2026-10-30T09:00:00Z")
+        self.assertIsNone(low_only, "quoting only the lower bound cannot verify a range candidate")
+        bare = {**result, "content": ("As of October 30, 2026, Tum Mere Ho has reached a worldwide "
+                                      "total of ₹0.65–0.70 crore so far at the global box office.")}
+        bare_candidate = bo.make_candidate(item, "cumulative_total", bare, "2026-10-30")
+        self.assertIsNotNone(bare_candidate)
+        self.assertEqual((bare_candidate["amount"], bare_candidate["amount_high"]), (6_500_000, 7_000_000))
+
+    def test_range_without_worldwide_scope_is_rejected(self):
+        item, result = self.bh_item_result()
+        india_only = {**result, "content": ("As of October 30, 2026, the India nett total of Tum Mere Ho "
+                                            "stands at ₹0.65 crore to ₹0.70 crore so far.")}
+        self.assertIsNone(bo.make_candidate(item, "cumulative_total", india_only, "2026-10-30"))
+
+    def test_same_title_older_year_film_never_produces_a_candidate(self):
+        item, _ = self.bh_item_result()
+        classic = {"title": "Tum Mere Ho (1990) box office",
+            "content": ("Tum Mere Ho (1990), the Aamir Khan and Juhi Chawla film, earned a worldwide "
+                        "total of ₹3.80 crore in its full run."),
+            "published_date": "2026-10-30", "url": "https://en.wikipedia.org/wiki/Tum_Mere_Ho"}
+        for window in bo.WINDOWS:
+            self.assertIsNone(bo.make_candidate(item, window, classic, "2026-10-30"),
+                              "the 1990 film's figures must never attach to the 2026 title")
+        embedded = {"title": "Tum Mere Ho box office history",
+            "content": ("As of October 30, 2026, Tum Mere Ho (1990) holds a worldwide total of "
+                        "₹3.80 crore, a figure the 2026 remake could not approach."),
+            "published_date": "2026-10-30", "url": "https://example.com/history"}
+        self.assertIsNone(bo.make_candidate(item, "cumulative_total", embedded, "2026-10-30"),
+                          "a sentence pinning the title to 1990 is rejected even inside a mixed article")
+        self.assertTrue(bo.title_year_conflict("Tum Mere Ho", "2026", "Tum Mere Ho (1990)"))
+        self.assertFalse(bo.title_year_conflict("Tum Mere Ho", "2026", "Tum Mere Ho (2026)"))
+        self.assertFalse(bo.title_year_conflict("Tum Mere Ho", "2026", "Tum Mere Ho box office"))
+
+    def test_search_budget_caps_at_40_and_prioritises_cumulative(self):
+        now = dt.datetime(2026, 10, 30, 9, 0, tzinfo=dt.timezone.utc)
+        candidates = [{"id": str(1000 + n), "title": f"Film {n}", "industry": "bollywood",
+                       "windows_to_refresh": ["last_2_days", "last_7_days", "cumulative_total"]}
+                      for n in range(16)]
+        manifest = {"selections": {"bollywood": [c["id"] for c in candidates], "world": []},
+                    "candidates": candidates}
+        queries, writes = [], []
+        def fake_tavily(query):
+            queries.append(query)
+            return []
+        previous = {"schema_version": 1, "reports": {}, "selections": {"bollywood": [], "world": []}}
+        with patch.dict(os.environ, {"TAVILY_API_KEY": "test-key", "CLOUDFLARE_API_TOKEN": "test-token"}), \
+             patch.object(bo, "run_selector", return_value=manifest):
+            summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=lambda prompt: {"reviews": []},
+                kv_read=lambda: previous, kv_write=writes.append, now=now)
+        self.assertEqual(len(queries), bo.SEARCH_BUDGET)
+        self.assertEqual(summary["query_count"], 40)
+        self.assertEqual(summary["skipped_searches"], 8, "48 window jobs minus the 40-search budget")
+        self.assertTrue(all("cumulative worldwide total" in q for q in queries[:16]),
+                        "all sixteen cumulative searches run before any lower-priority window")
+        self.assertTrue(all("opening week" in q for q in queries[16:32]))
+        self.assertTrue(all("last 2 days" in q for q in queries[32:]),
+                        "the cap cuts only the lowest-priority window")
+        self.assertEqual(len(writes), 1, "the snapshot is still written when the budget is exhausted")
+
     def test_gemini_quote_must_prove_amount_worldwide_and_window(self):
         candidate = bo.make_candidate(self.item, "today", self.result, "2026-10-31")
         quote = "Fixture Film's worldwide box-office gross for today, October 31, 2026, was $12 million."
@@ -148,7 +266,7 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertIsNone(bo.accepted_metric(candidate, {"accepted": False, "quote": ""},
                                              "2026-10-31", "2026-10-31T00:00:00Z"))
 
-    def test_one_search_per_title_yields_three_independently_reviewed_metrics(self):
+    def test_per_window_searches_yield_three_independently_reviewed_metrics(self):
         now = dt.datetime(2026, 10, 30, 20, 0, tzinfo=dt.timezone.utc)  # 01:00 PKT next day
         manifest = {"selections": {"bollywood": ["123"], "world": []}, "candidates": [
             {"id": "123", "title": "Fixture Film", "industry": "bollywood",
@@ -180,10 +298,13 @@ class WorldwideEvidenceTests(unittest.TestCase):
              patch.object(bo, "run_selector", return_value=manifest):
             summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=fake_gemini,
                 kv_read=lambda: previous, kv_write=fake_write, now=now)
-        self.assertEqual(len(queries), 1, "one Tavily search is made for this title, not once per window")
-        self.assertIn("2026-10-30 through 2026-10-31", queries[0])
-        self.assertIn("2026-10-25 through 2026-10-31", queries[0])
-        self.assertEqual(summary["query_count"], 1)
+        self.assertEqual(len(queries), 3, "one targeted Tavily search per uncovered window")
+        self.assertIn("cumulative worldwide total", queries[0],
+                      "the cumulative search runs first (highest-value window)")
+        self.assertIn("2026-10-25 through 2026-10-31", queries[1])
+        self.assertIn("2026-10-30 through 2026-10-31", queries[2])
+        self.assertEqual(summary["query_count"], 3)
+        self.assertEqual(summary["skipped_searches"], 0)
         self.assertEqual(summary["candidate_count"], 3)
         self.assertEqual(summary["accepted"]["last_2_days"], 1)
         self.assertEqual(summary["accepted"]["last_7_days"], 1)
@@ -206,7 +327,7 @@ class WorldwideEvidenceTests(unittest.TestCase):
              patch.object(bo, "run_selector", return_value=manifest):
             bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=fake_gemini,
                 kv_read=lambda: writes[0], kv_write=second_writes.append, now=now)
-        self.assertEqual(len(queries), 1)
+        self.assertEqual(len(queries), 3)
         self.assertEqual(len(second_writes), 1)
         second_report = second_writes[0]["reports"]["123"]
         self.assertEqual(set(second_report).intersection(bo.WINDOWS), set(bo.WINDOWS),

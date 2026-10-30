@@ -278,6 +278,20 @@ assert.equal(helper.directMetric(direct2(500, { period_end: '2026-10-29' }), 'la
 assert.equal(helper.directMetric(direct('last_7_days', 500), 'last_2_days', today), null,
   'a 7-day report never fills the 2-day window');
 
+// A source-stated range (amount + amount_high) survives directMetric intact
+// so the card can render it as a range; a malformed or inverted upper bound
+// is dropped, never averaged into a single figure.
+const ranged = helper.directMetric(direct('cumulative_total', 6500000,
+  { currency: 'INR', amount_high: 7000000 }), 'cumulative_total', today);
+assert.equal(ranged.amount, 6500000);
+assert.equal(ranged.amount_high, 7000000, 'a verified range keeps both bounds for display');
+assert.equal(helper.directMetric(direct('cumulative_total', 6500000, { amount_high: 6000000 }),
+  'cumulative_total', today).amount_high, undefined,
+  'an inverted amount_high is dropped rather than rendered');
+assert.equal(helper.directMetric(direct('cumulative_total', 6500000, { amount_high: '7000000' }),
+  'cumulative_total', today).amount_high, undefined,
+  'a non-numeric amount_high is dropped rather than rendered');
+
 // 14 calendar dates are release-eligible; each industry has an independent 8-card cap.
 const ui = { industryOf: x => x.industry || 'world', isStreamingOnly: x => !!x.streamingOnly,
   titleOf: x => x.title || String(x.id) };
@@ -374,6 +388,10 @@ assert.match(pageSource, /metric\.currency/);
 assert.match(pageSource, /metric\.observed_date/);
 assert.match(pageSource, /metric\.sources/);
 assert.match(pageSource, /HomeBoxOffice\.formatCurrency\(metric\.amount, metric\.currency\)/);
+assert.match(pageSource, /metric\.amount_high > metric\.amount/,
+  'a verified range renders as low–high in the metric currency, never collapsed to one figure');
+assert.match(pageSource, /HomeBoxOffice\.formatCurrency\(metric\.amount_high, metric\.currency\)/,
+  'the range upper bound uses the same source-currency formatting as the lower bound');
 assert.doesNotMatch(pageSource, /UI\.fmtMoney\(metric\.amount\)/,
   'worldwide reports must not be converted away from their source currency');
 assert.doesNotMatch(pageSource, /const boWorldwideAmount =/,
