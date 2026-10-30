@@ -123,7 +123,7 @@
   "trending_weekly": {
    "last_status": "success",
    "last_run": "2026-10-30T19:00:11Z",
-   "stale": false,
+   "stale": true,
    "newest_entry": "2026-10-28",
    "last_attempt_at": "2026-10-30T19:00:11Z",
    "last_success": "2026-10-30T18:05:32Z",
@@ -201,5 +201,5 @@
    "detail": "validated 32 rows; 0 staging files changed"
   }
  },
- "updated_at": "2026-10-30T20:59:29Z"
+ "updated_at": "2026-10-30T21:41:32Z"
 }
