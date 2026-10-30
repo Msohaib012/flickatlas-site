@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T05:51:56Z",
-    "run_id": "40825697302",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "RSS/Atom items across 137 sources; 18 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Akshay Oberoi On Why He Is Drawn To Negative Characters, Villain In Toxic To Grey Shaded Role In Gajab Raat",
-      "Footfalls, Not Crores: Finding India's Real All-Time Blockbusters",
-      "Premada Oorali vs Su From So: Two ₹100 Cr Blockbusters, but Which Had the Bigger Struggle?",
-      "Janhvi Kapoor Breaks Silence on Peddi Controversy, Admits Extreme Objectification",
-      "‘Jailer’: Rajinikanth’s 2023 film may get a black-and-white version",
-      "Mouli says ‘Donga Naa Koduku’ song pushed him out of his comfort zone",
-      "Ranbir Kapoor says he felt like a mouse while proposing to his ‘lioness’ Alia Bhatt in Masai Mara with 3 lions watching from a distance",
-      "Ramayana's overseas box-office charge beats India pre-sales, crosses Rs 24 crore",
-      "Tiger Shroff to resume work after Diwali, security tightened after firing incident",
-      "Putting other women down not funny: Internet shreds Janhvi over Veer-Tara jibe",
-      "dreamy island getaways best places to visit in andaman for a tropical holiday 3077194.html",
-      "sherlyn chopra raises temperature in bikini flaunts toned figure abs bold image tmovh 2682715 2026 10 29",
-      "imran khan ask mumbai police for proof questioned frro notice to surrender oci registration case tmova dskc 2683089 2026 10 29",
-      "kiren rijiju slams naseeruddin shah over dimagi naxal said actor harmful for indian democracy tmovh dskc 2683027 2026 10 29",
-      "who is sai prithviraj child actor in vijay sethupathis baththa dhanushs co star in d56 article 156425743",
-      "karwa chauth 2026 moonrise time live updates aaj chand kitne baje niklega chand timing puja vidhi virat katha delhi noida lucknow prayagraj gurugram liveblog 156426025",
-      "‘The Lowdown’s Martha Plimpton Reveals What To Expect From Her Sheriff in Season 2",
-      "Anne Hathaway’s Divisive $163M Movie Is No. 1, Beats Spider-Man 4 on Digital",
-      "Game Of Thrones: Flame Of The Night King Officially Announced",
-      "Forget Tulsa King, Ethan Hawke’s Crime Drama Is Back & Better Than Ever"
-     ],
-     "updated": [],
-     "count": 45,
-     "detail": "45 stories, 0 duplicates removed, 55 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T06:52:10Z",
     "run_id": "40831659585",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "316 stories, 0 duplicates removed, 10 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T05:52:07Z",
-    "run_id": "40825697302",
+    "run_at": "2026-10-30T04:51:29Z",
+    "run_id": "41005113992",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 270,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Milwaukee Brewers Secure First World Series Title in Franchise History",
-      "Ramayana: Part One Overseas Pre-Sales Surpass Rs 24 Crore Ahead of Worldwide Release"
+      "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?",
+      "Aadarsha Kutumbam House No: 47 Hit Or Flop? Early Audience Verdict On Venkatesh And Srinidhi Shetty's Film",
+      "Mirzapur The Movie's Mohit Malik On Playing Complex Characters Like Birju: We Have To Understand His Mindset",
+      "Jailer 2 Box Office Collection Day 15: Rajinikanth's Film Crosses ₹765 Cr Worldwide, India Net Nears ₹430 Cr",
+      "Pehla Pyaar Doosri Baar: Audiences Recommend Luv Ranjan’s Film For Its Fresh Cast, Music & Love Story",
+      "Rajinikanth's Jailer 2 Becomes Second Tamil Film After 2.0 to Cross 500 Crore India Gross; On Course for All Time Record",
+      "Tamil Nadu May Allow 6 AM First Shows but Will Diwali Releases Benefit?",
+      "‘Suriya49’: Suriya to reportedly team up with ‘Mandaadi’ director",
+      "Halle Berry faces new verdict in Oliver Martinez's case (Industry)",
+      "Karan Johar picks favourite looks from Ranbir Kapoor's and Shah Rukh Khan's films",
+      "'Eetha' UPDATE: Randeep Hooda's first look as Merchant is out",
+      "Karisma Kapoor on her cherished vintage timepiece that belonged to Raj Kapoor",
+      "‘Aakasamlo Oka Tara’: Dulquer Salmaan unveils second single ‘Radhe Radhe’",
+      "Patrick Stewart's final appearance as Professor X will be in Avengers: Doomsday",
+      "Mirzapur The Movie arrives on OTT with extended cut: Where to watch",
+      "One of 2026's Biggest Breakout Stars First Stole the Show in This Classic Fantasy Game",
+      "5 Agatha Christie Books You Can Finish in a Weekend",
+      "Chris Pratt Was Waiting Tables & Suddenly Entered Hollywood, Thanks To 1 Person",
+      "2 Years Ago Today, General Hospital Killed 1 of Its Most Popular Characters",
+      "Transformers Officially Unveils Decepticons Replacement In Eternal War"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 258,
+     "detail": "259 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T04:52:00Z",
+    "run_id": "41005113992",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Rajinikanth's Jailer 2 Enters Exclusive 500 Crore Domestic Gross Club",
+      "Ramayana US Advance Booking Records 27% Jump After LA Premiere"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T08:51:40Z",
-    "run_id": "40845061256",
-    "status": "success",
-    "checked": {
-     "candidates": 33,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 26, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 53, coming 2"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T04:52:00Z",
+    "run_id": "41005113992",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 53, coming 2"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2255,27 +2245,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T05:57:22Z",
-    "run_id": "40825697302",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T04:53:02Z",
+    "run_id": "41005113992",
     "status": "success",
     "checked": {
-     "candidates": 291,
-     "detail": "291 collected staging rows from readers; 102 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 280 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2689,19 +2678,27 @@
      "detail": "+0 new rows, 3 updated rows, 311 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T04:53:01Z",
+    "run_id": "41005113992",
+    "status": "success",
+    "checked": {
+     "candidates": 317,
+     "detail": "316 collected staging rows from readers; 103 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+2 new rows, 7 updated rows, 307 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2957,30 +2954,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T05:57:24Z",
-    "run_id": "40825697302",
-    "status": "success",
-    "checked": {
-     "candidates": 70,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Milwaukee Brewers Secure First World Series Title in Franchise History",
-      "Ramayana: Part One Overseas Pre-Sales Surpass Rs 24 Crore Ahead of Worldwide Release"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 70 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3448,19 +3434,30 @@
      "detail": "api-news.json 84 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T04:53:02Z",
+    "run_id": "41005113992",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Rajinikanth's Jailer 2 Enters Exclusive 500 Crore Domestic Gross Club",
+      "Ramayana US Advance Booking Records 27% Jump After LA Premiere"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 82 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3725,19 +3722,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4012,29 +4009,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T05:52:07Z",
-    "run_id": "40825697302",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 45 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Milwaukee Brewers Secure First World Series Title in Franchise History",
-      "Ramayana: Part One Overseas Pre-Sales Surpass Rs 24 Crore Ahead of Worldwide Release"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4479,19 +4466,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T04:52:00Z",
+    "run_id": "41005113992",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 258 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 5/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Rajinikanth's Jailer 2 Enters Exclusive 500 Crore Domestic Gross Club",
+      "Ramayana US Advance Booking Records 27% Jump After LA Premiere"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4734,24 +4731,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 191,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5071,24 +5063,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 209,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5418,19 +5410,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 18,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5680,19 +5677,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5927,19 +5924,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6169,19 +6166,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T06:57:47Z",
-    "run_id": "40831659585",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6433,19 +6430,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6675,19 +6672,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6940,8 +6937,18 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T04:53:11Z",
+    "run_id": "41005113992",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T03:51:38Z"
+ "updated_at": "2026-10-30T04:53:11Z"
 }

@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-30T03:51:38Z",
+  "generated": "2026-10-30T04:53:11Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 5,
-    "pageviews": 33,
-    "sessions": 6,
-    "avg_session_seconds": 601.5
+    "users": 7,
+    "pageviews": 34,
+    "sessions": 8,
+    "avg_session_seconds": 451.1
   },
   "last7": {
-    "users": 44,
-    "pageviews": 703,
-    "sessions": 99,
-    "avg_session_seconds": 695.9
+    "users": 46,
+    "pageviews": 704,
+    "sessions": 101,
+    "avg_session_seconds": 682.1
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 259,
-      "avg_time_seconds": 679.0
+      "views": 260,
+      "avg_time_seconds": 662.0
     },
     {
       "path": "/movie",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 90,
-      "users": 44
+      "sessions": 91,
+      "users": 45
     },
     {
       "source": "google",
@@ -94,14 +94,14 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 5,
-      "users": 1
+      "sessions": 6,
+      "users": 2
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 28
+      "users": 29
     },
     {
       "country": "(not set)",
@@ -109,7 +109,7 @@
     },
     {
       "country": "Germany",
-      "users": 2
+      "users": 3
     },
     {
       "country": "India",
@@ -143,7 +143,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 33
+      "users": 35
     },
     {
       "device": "mobile",

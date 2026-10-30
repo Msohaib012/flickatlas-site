@@ -19866,5 +19866,214 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 03:33:20 +0000"
+  },
+  "82kn2y": {
+    "id": "82kn2y",
+    "type": "news",
+    "headline": "Rajinikanth's Jailer 2 Enters Exclusive 500 Crore Domestic Gross Club",
+    "dek": "The Nelson Dilipkumar directorial becomes only the second Tamil film in history to cross 500 crore gross at the Indian box office.",
+    "body": [
+      {
+        "h": "Reaching the Milestone",
+        "p": [
+          "Rajinikanth has achieved another historic box office milestone as Jailer 2 crossed the 500 crore gross threshold at the Indian box office. The Nelson Dilipkumar directorial achieved this feat on Thursday, October 29, marking its 15th day in theatrical release. With this performance, the film becomes only the second Tamil production in cinema history to enter this elite domestic earnings bracket.",
+          "The only other film to previously accomplish this feat is also headlined by Rajinikanth. Shankar's 2.0 set the initial benchmark back in 2018, finishing its lifetime domestic run with approximately 520 crore in gross collections. Rajinikanth now holds both positions at the top of Tamil cinema's domestic box office records."
+        ]
+      },
+      {
+        "h": "Comparing Two Blockbusters",
+        "p": [
+          "While both films share the rare distinction of surpassing 500 crore gross domestically, their commercial journeys followed very different paths. The 2018 release 2.0 benefited immensely from a massive nationwide Hindi distribution strategy, bolstered by the presence of Akshay Kumar and extensive screenings across major multiplex chains, contributing over 240 crore from the Hindi market alone.",
+          "Conversely, Jailer 2 reached the same milestone with much lower figures from the Hindi-speaking belt, earning around 50 crore through its first 15 days. Major national chains such as PVR INOX and Cinepolis chose not to screen the dubbed version due to ongoing disputes regarding the film's four-week theatrical-to-OTT release window."
+        ]
+      },
+      {
+        "h": "Domestic Net Versus Gross",
+        "p": [
+          "An analysis of the box office numbers highlights the distinct relationship between India net and India gross figures. Jailer 2 has already outpaced 2.0 in domestic net collections, recording 429.55 crore compared to the earlier film's 407.05 crore net.",
+          "Despite trailing in net collections, 2.0 maintains a slight advantage in total India gross at 519 crore against Jailer 2's 502.65 crore. Only 16.35 crore separates the two titles, setting the stage for a dramatic race during the third weekend."
+        ]
+      },
+      {
+        "h": "Strong Southern Territory Contributions",
+        "p": [
+          "The driving force behind Jailer 2's domestic success stems from its exceptional reach across southern India. While Tamil Nadu naturally remains the strongest individual market with 195.60 crore, the combined revenues from neighboring states have provided an immense financial foundation.",
+          "Performances across Andhra Pradesh and Telangana, Karnataka, and Kerala have elevated the film's domestic standing. Furthermore, the familiarity of the franchise, supported by appearances from actors like Mohanlal and Shiva Rajkumar, helped secure strong regional viewership without heavy reliance on northern multiplexes."
+        ]
+      },
+      {
+        "h": "Sustained Momentum and Daily Holds",
+        "p": [
+          "The sequel maintained impressive daily figures deep into its theatrical run, bringing in 6.85 crore gross on its third Thursday, representing an 18.1 percent decline from the previous day. This steady momentum followed a robust extended eight-day opening week and a strong second weekend.",
+          "With fresh competition expected from upcoming Diwali releases, the third weekend will serve as a crucial test for the film's remaining box office potential and its attempt to claim the all-time domestic record."
+        ]
+      },
+      {
+        "h": "Global Standings and Overseas Strength",
+        "p": [
+          "Beyond domestic borders, Jailer 2 has already surpassed 2.0 to claim the title of the highest-grossing Tamil film worldwide. Its global collections stand at 765.15 crore, outpacing 2.0's lifetime worldwide total of 691 crore.",
+          "Overseas markets have contributed significantly to this total, with international gross collections reaching 262.50 crore compared to 172.00 crore for the 2018 predecessor, demonstrating the expanding global appetite for major Kollywood spectacles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has crossed 500 crore in India gross on its 15th day, becoming only the second Tamil film after 2.0 to achieve the milestone. Despite earning less in the Hindi market due to multiplex limitations, the sequel has relied on strong southern territories and robust worldwide earnings to challenge domestic records."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 crossed 500 crore gross at the Indian box office on Thursday, October 29, 2026, its 15th day in theatres.",
+      "2.0 earned around 520 crore India gross during its lifetime in 2018.",
+      "Jailer 2 has earned around 50+ crore Hindi gross through Day 15.",
+      "Jailer 2 15-day India Gross is ₹502.65 Cr and India Net is ₹429.55 Cr.",
+      "2.0 lifetime India Gross is ₹519.00 Cr and India Net is ₹407.05 Cr.",
+      "Jailer 2 overseas gross is ₹262.50 Cr and worldwide gross is ₹765.15 Cr.",
+      "2.0 lifetime overseas gross is ₹172.00 Cr and worldwide gross is ₹691.00 Cr.",
+      "Jailer 2 earned 6.85 crore gross on its third Thursday.",
+      "Tamil Nadu contributed ₹195.60 Cr (38.91%) to Jailer 2's India gross."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Shankar",
+        "Akshay Kumar",
+        "Mohanlal",
+        "Shiva Rajkumar"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2",
+      "Jailer 2 500 crore India gross",
+      "Jailer 2 vs 2.0 box office"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028260.jpg",
+        "caption": "Rajinikanth's Jailer 2 Enters Exclusive 500 Crore Domestic Gross Club",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 04:12:03 +0000"
+  },
+  "go3isx": {
+    "id": "go3isx",
+    "type": "news",
+    "headline": "Ramayana US Advance Booking Records 27% Jump After LA Premiere",
+    "dek": "Ranbir Kapoor, Sai Pallavi and Yash's Ramayana has recorded a significant 27% jump in US premiere advance bookings, crossing $800,000 following its Los Angeles premiere.",
+    "body": [
+      {
+        "h": "US Advance Bookings Surge",
+        "p": [
+          "The mythological epic Ramayana has experienced a major boost in its advance bookings within the United States market following its high-profile Los Angeles screening. This notable surge has propelled the film past the $800,000 threshold for its US premiere advance sales.",
+          "Industry tracking indicates that the advance sales increased from $631,000 to $800,000 within a 24-hour window. This represents a growth of approximately 27 percent, translating to an additional $169,000 generated during the period."
+        ]
+      },
+      {
+        "h": "Record Single-Day Jump",
+        "p": [
+          "The recent escalation in ticket sales stands out as the largest single-day jump recorded for the film since pre-sales opened across North America. The momentum comes at a crucial juncture right before the theatrical rollout.",
+          "With these latest figures, the feature is steadily closing the gap toward the $1 million mark established by Animal for a Hindi film's North American premiere advance bookings."
+        ]
+      },
+      {
+        "h": "Los Angeles Premiere Impact",
+        "p": [
+          "Held on October 27, the grand Los Angeles premiere was attended by key members of the cast and invited guests. The event provided the much-needed promotional push and international visibility required for a project mounted on this scale.",
+          "Early viewer reactions from the premiere have been largely encouraging. Attendees and critics have particularly highlighted the grand visual scale of the production alongside standout performances, with Yash's portrayal of Ravana drawing specific discussion."
+        ]
+      },
+      {
+        "h": "Global Scale and Direction",
+        "p": [
+          "Helmed by director Nitesh Tiwari, Ramayana has been heavily promoted on a global level, marking a pioneering promotional approach for an Indian production. Given its massive mounting, achieving robust performance across diverse overseas markets remains essential.",
+          "The project is structured as a two-part cinematic adaptation of the traditional Indian epic. Production duties are handled by Namit Malhotra, with backing from major entities including Prime Focus and DNEG."
+        ]
+      },
+      {
+        "h": "Domestic Pre-Sales Strength",
+        "p": [
+          "Alongside its international momentum, the film is performing strongly across domestic ticket windows ahead of its November 5 release date. Total gross pre-sales in India have reached approximately Rs 16.38 crore when including blocked seats.",
+          "Without accounting for blocked seats, the domestic collection stands at Rs 13.55 crore. The Hindi version commands the lion's share of these sales, followed closely by contributions from the Kannada and Telugu versions."
+        ]
+      },
+      {
+        "h": "Regional Contributions in India",
+        "p": [
+          "Within the domestic market, Delhi NCR currently leads all Indian cities in advance booking collections. Bengaluru and Mumbai are also providing substantial financial contributions to the pre-sale totals.",
+          "The multi-language appeal of the project has helped drive widespread engagement across different geographic territories in the country."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The first instalment features a prominent ensemble cast led by Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana. Additional key roles are portrayed by Sunny Deol as Lord Hanuman and Ravie Dubey as Lakshman.",
+          "The supporting cast features veteran and notable names including Arun Govil, Lara Dutta, Rakul Preet Singh, Indira Krishnan, and Kunal Kapoor. Furthermore, the musical score is a collaborative effort between AR Rahman and Hans Zimmer, blending distinct Indian and international musical expertise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The US premiere of Ramayana in Los Angeles sparked a 27 percent increase in advance bookings, pushing North American sales past $800,000. Domestically, the film has also accumulated strong pre-sales ahead of its theatrical arrival."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor, Sai Pallavi and Yash star in Ramayana",
+      "Ramayana US premiere advance bookings jumped by 27%",
+      "US premiere advance bookings crossed $800,000 after the LA premiere",
+      "Advance sales increased from $631,000 to $800,000 in 24 hours",
+      "An additional $169,000 came in during the 24-hour period",
+      "The premiere was held in Los Angeles on October 27",
+      "Domestic gross pre-sales in India reached around Rs 16.38 crore including blocked seats",
+      "Domestic collection without blocked seats stood at Rs 13.55 crore",
+      "The film releases on November 5",
+      "Nitesh Tiwari is the director of Ramayana",
+      "Namit Malhotra is the producer",
+      "AR Rahman and Hans Zimmer are the music composers"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Indira Krishnan",
+        "Kunal Kapoor",
+        "Namit Malhotra",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Mudit Bhatnagar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana US advance booking",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156431015,thumbsize-191742,width-1280,height-720,resizemode-75/156431015.jpg",
+        "caption": "Ramayana US Advance Booking Records 27% Jump After LA Premiere",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T04:52:00Z"
   }
 };
