@@ -46,6 +46,7 @@ jobs:
           python3 scripts/test_gemini_boxoffice.py
           python3 scripts/test_boxoffice_integrity.py
           python3 scripts/test_tmdb_refresh.py
+          python3 scripts/test_ott_refresh.py
 
       # Source clocks, success-only catch-up and bounded retries live in one
       # tested helper. Missing state remains clock-only (no bootstrap burst).
@@ -165,7 +166,7 @@ jobs:
         continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python3 scripts/backfill_providers.py --apply
+        run: python3 scripts/backfill_providers.py --apply --rotate 25
 
       - name: Check OTT digital dates (12h)
         id: digital

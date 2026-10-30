@@ -61,6 +61,7 @@ stage_all() {
            out/episodes.json out/episode-feed.json out/publish-export.json \
            out/queue.json out/seen.json out/state.json out/report.json \
            out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json \
+           out/providers-state.json \
            out/daily-history.json out/keyword-refresh.json out/source-refresh-state.json \
            out/trends-discovery-state.json out/google-trends-evidence.json; do
     [ -f "$f" ] && git add "$f"

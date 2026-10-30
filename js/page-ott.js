@@ -96,7 +96,10 @@
   const entriesFor = (group, groupName) => (group || [])
     .map(g => ({ g, x: pub[String(g.id)] }))
     .filter(({ g, x }) => {
-      if (!x || !x.poster_path || !Array.isArray(g.providers) || !g.providers.length) return false;
+      if (!x || !x.poster_path || !Array.isArray(g.providers)) return false;
+      /* Same rule as the homepage: Now needs a platform; a Coming
+         date-only entry (confirmed date, unnamed platform) shows. */
+      if (groupName === "now" && !g.providers.length) return false;
       if (!/^\d{4}-\d{2}-\d{2}$/.test(String(g.date || ""))) return false;
       const isTv = (x.type || "movie") === "tv";
       if (isTv) {
@@ -119,7 +122,7 @@
       return true;
     })
     .filter(({ x }) => inFilter(x))
-    .sort((a, b) => groupName === "now" ? String(b.g.date).localeCompare(String(a.g.date)) : String(a.g.date).localeCompare(String(b.g.date)));
+    .sort((a, b) => groupName === "now" ? String(b.g.date).localeCompare(String(a.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0) : String(a.g.date).localeCompare(String(b.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0));
   const cardHtml = ({ g, x }) => UI.ottCard(x, {
     coming: (g.date || "") > today,
     providers: g.providers,

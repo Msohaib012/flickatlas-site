@@ -485,7 +485,11 @@
     const ottFor = (group, industry, type = "all") => (ottGroups[group] || [])
       .map(g => ({ g, x: pubMap[String(g.id)] }))
       .filter(({ g, x }) => {
-        if (!x || !x.poster_path || !(Array.isArray(g.providers) && g.providers.length)) return false;
+        if (!x || !x.poster_path || !Array.isArray(g.providers)) return false;
+        /* Now cards must name a platform; a Coming entry whose
+           streaming date TMDB confirms without naming a platform
+           (build_ott date-only entries) still shows — date only. */
+        if (group === "now" && !g.providers.length) return false;
         const d = String(g.date || "");
         if (!/^\d{4}-\d{2}-\d{2}$/.test(d)) return false;
         if (typeOf(x) === "tv") {
@@ -518,7 +522,7 @@
         if (type === "tv" && typeOf(x) !== "tv") return false;
         return ottInIndustry(x, industry);
       })
-      .sort((a, b) => group === "now" ? String(b.g.date).localeCompare(String(a.g.date)) : String(a.g.date).localeCompare(String(b.g.date)))
+      .sort((a, b) => group === "now" ? String(b.g.date).localeCompare(String(a.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0) : String(a.g.date).localeCompare(String(b.g.date)) || (Number(b.x.popularity) || 0) - (Number(a.x.popularity) || 0))
       .slice(0, HOME_LIMITS.ott);
     const ottCardHtml = ({ g, x }, coming) => UI.ottCard(x, { coming, providers: g.providers, tag: tagFor(x), date: g.date, dateKind: g.date_kind });
     const ottRailHtml = (items, coming) => items.length
