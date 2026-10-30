@@ -376,7 +376,15 @@
       if (mo < 1 || mo > 12) return "";
       return `${+m[3]} ${MO[mo - 1]}`;
     };
-    const boPoolFor = (industry) => boSelection[industry === "international" ? "world" : "bollywood"] || [];
+    /* Owner order 2026-10-30 (19:14 PKT): the homepage Box Office rail keeps
+       the popular last-14-days selection, but DISPLAYS it oldest release
+       first (release_date ascending; ties keep the popularity order; a
+       title without a date goes last). The See All page (/box-office) is a
+       separate renderer and stays newest first with all titles. Sorting
+       here covers both the initial render and the industry switcher, which
+       both draw from this pool. */
+    const boPoolFor = (industry) => [...(boSelection[industry === "international" ? "world" : "bollywood"] || [])]
+      .sort((a, b) => String(a.release_date || "9999-12-31").localeCompare(String(b.release_date || "9999-12-31")));
     const boCardHtml = (entry) => {
       const id = String(entry.id);
       const rows = dwData[id] || [];
@@ -407,10 +415,10 @@
       const weekStart = HomeBoxOffice.shiftDate(todayIST, -6);
       return `<article class="fa-box-latest-card fa-box-latest--home" data-movie-id="${UI.esc(id)}" data-release="${UI.esc(date)}"><a class="fa-box-card-head" href="/movie?id=${encodeURIComponent(id)}" aria-label="${title} — box office details">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${title}">${title}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></a><dl aria-label="Box office figures; missing values are not estimated">${metricCell("last_2_days", "2 Days", `Figure for ${twoStart} to ${todayIST} IST`)}${metricCell("last_7_days", "7 Days", `Figure for ${weekStart} to ${todayIST} IST`)}${metricCell("cumulative_total", "Total", "Cumulative theatrical gross; source date shown below")}</dl></article>`;
     };
-    /* Only releases from the last 14 calendar dates are eligible; within
-       that pool the most popular titles come first. A tab with fewer than
-       eight eligible releases simply shows fewer cards — older titles
-       never backfill it. */
+    /* Only releases from the last 14 calendar dates are eligible, and the
+       pool is the most popular of those; boPoolFor displays them oldest
+       release first on the homepage. A tab with fewer than eight eligible
+       releases simply shows fewer cards — older titles never backfill it. */
     const boHasKind = boPoolFor("bollywood").length > 0 || boPoolFor("international").length > 0;
     const boPicks = boPoolFor("bollywood").slice(0, HOME_LIMITS.boxoffice);
     const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
@@ -1230,3 +1238,4 @@
     if (!rendered) main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load the homepage right now. Please check your connection and try again.")}</div>`;
   }
 })();
+
