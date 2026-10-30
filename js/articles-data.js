@@ -20075,5 +20075,206 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-30T04:52:00Z"
+  },
+  "69erpd": {
+    "id": "69erpd",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No 47 Early Audience Verdict: Venkatesh and Srinidhi Shetty Starrer Hits Theatres",
+    "dek": "Telugu film Aadarsha Kutumbam House No: 47, directed by Trivikram Srinivas and starring Venkatesh and Srinidhi Shetty, opened in cinemas on Friday, October 30, 2026.",
+    "body": [
+      {
+        "h": "Theatrical Release And Opening Day Debut",
+        "p": [
+          "The Telugu film Aadarsha Kutumbam House No: 47, alternatively titled AK47, officially landed in theatres on Friday, October 30, 2026. Fans and movie enthusiasts eagerly awaited the arrival of this action comedy drama following months of anticipation.",
+          "As soon as the early morning shows wrapped up on its release day, conversations surrounding the project immediately gained traction across various digital platforms and online communities."
+        ]
+      },
+      {
+        "h": "Initial Social Media Reactions And Reviews",
+        "p": [
+          "Audiences who caught the earliest screenings rushed to platforms like X to share their opening impressions and initial ratings. Early viewers highlighted the project's pacing, pointing out a strong first half followed by a solid second half.",
+          "Some social media users went as far as awarding the feature high ratings and declaring it a blockbuster, praising the overall entertainment value and watchability of the theatrical presentation."
+        ]
+      },
+      {
+        "h": "Cast And Creative Direction",
+        "p": [
+          "The movie is written and directed by Trivikram Srinivas, bringing his signature storytelling style to the big screen. The narrative centers on lead performances by Venkatesh and Srinidhi Shetty.",
+          "In addition to the main leads, the supporting cast features recognizable names such as Nara Rohith, Nivetha Pethuraj, Yuvina Parthavi, Raj Prajwal, Rao Ramesh, Satya, Brahmaji, Udaybir Sandhu, Vennela Kishore, and Raghubabu."
+        ]
+      },
+      {
+        "h": "Production And Technical Crew",
+        "p": [
+          "S. Radha Krishna, also recognized as Chinababu, produced the feature under the Haarika & Hassine Creations banner, with Smt. Mamatha serving as the presenter. The technical crew features Thaman S as the music composer and Ravi K. Chandran as the cinematographer.",
+          "Additional creative contributions came from editor Navin Nooli, art director A. S. Prakash, and action choreographer Kevin Kumar. Visual effects and animation were managed by Fortune Four Cinemas with Nikhil Koduru supervising, while Annapurna Studios handled the digital intermediate work."
+        ]
+      },
+      {
+        "h": "Commercial Outlook And Box Office Prospects",
+        "p": [
+          "Despite positive early social media chatter, industry observers note that it remains far too early to officially label Aadarsha Kutumbam House No: 47 a definitive hit or flop. Initial reactions help shape perception, but they do not guarantee long-term commercial success.",
+          "A clearer picture regarding the film's box-office standing will begin to form once it completes its opening weekend and demonstrates its holding power through the subsequent weekdays."
+        ]
+      },
+      {
+        "h": "Factors Determining The Final Verdict",
+        "p": [
+          "Determining the ultimate commercial outcome of the project requires evaluating multiple metrics beyond just the opening day response. Key performance indicators include opening weekend tallies, theatre occupancy rates, and ongoing audience word-of-mouth.",
+          "The production's ability to maintain momentum and sustain box-office collections over the coming weeks will ultimately decide whether the venture achieves long-term theatrical success."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Telugu film Aadarsha Kutumbam House No: 47 premiered in theatres on Friday, October 30, 2026, drawing early audience praise on social media after its morning shows. Directed by Trivikram Srinivas and starring Venkatesh and Srinidhi Shetty, the feature must now navigate its opening weekend before a true commercial verdict can be determined."
+        ]
+      }
+    ],
+    "facts": [
+      "Aadarsha Kutumbam House No: 47 released on Friday, October 30, 2026.",
+      "The film is written and directed by Trivikram Srinivas.",
+      "Venkatesh and Srinidhi Shetty star in the lead roles.",
+      "S. Radha Krishna produced the film under Haarika & Hassine Creations."
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh",
+        "Srinidhi Shetty",
+        "Trivikram Srinivas",
+        "Nara Rohith",
+        "Nivetha Pethuraj",
+        "Yuvina Parthavi",
+        "Raj Prajwal",
+        "Rao Ramesh",
+        "Satya",
+        "Brahmaji",
+        "Udaybir Sandhu",
+        "Vennela Kishore",
+        "Raghubabu",
+        "S. Radha Krishna",
+        "Chinababu",
+        "Mamatha",
+        "Thaman S",
+        "Ravi K. Chandran",
+        "Navin Nooli",
+        "A. S. Prakash",
+        "Kevin Kumar",
+        "Nikhil Koduru",
+        "Vivek Anand"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No 47",
+        "AK47"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No 47",
+      "Venkatesh",
+      "Srinidhi Shetty",
+      "Trivikram Srinivas",
+      "Aadarsha Kutumbam release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/aadarshakutumbamhitorflop-43381793335094.jpg",
+        "caption": "Aadarsha Kutumbam House No 47 Early Audience Verdict: Venkatesh and Srinidhi Shetty Starrer Hits Theatres",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 10:11:48 +0530"
+  },
+  "15pt1hm": {
+    "id": "15pt1hm",
+    "type": "news",
+    "headline": "Siddharth Anand Teases Fans With Cryptic Midnight Message About Shah Rukh Khan Starrer King",
+    "dek": "Filmmaker Siddharth Anand has sparked widespread speculation among movie enthusiasts by sharing a cryptic midnight social media update referencing his upcoming action project starring Shah Rukh Khan.",
+    "body": [
+      {
+        "h": "The Cryptic Midnight Message",
+        "p": [
+          "Filmmaker Siddharth Anand has once again captured the attention of Bollywood enthusiasts with a mysterious social media post shared late at night. Following an initial one-word message that simply stated \"It's\", the director posted another intriguing phrase reading \"Time For The World\".",
+          "This latest update has immediately intensified discussions across digital platforms regarding whether an official promotional asset or major announcement for the upcoming venture is imminent."
+        ]
+      },
+      {
+        "h": "Timing Fueling Birthday Speculations",
+        "p": [
+          "The timing of these cryptic updates has heavily amplified rumors of a special reveal coinciding with superstar Shah Rukh Khan's upcoming birthday on November 2. Followers are actively debating whether additional midnight surprises might be unveiled as the special date arrives.",
+          "Despite the heavy speculation building online, the director has maintained a veil of secrecy, offering no official confirmation regarding what these mysterious social media drops actually signify."
+        ]
+      },
+      {
+        "h": "Overview of the Action Thriller",
+        "p": [
+          "Helmed by director Siddharth Anand, the highly anticipated film titled King is structured as an international action thriller. The project is backed by producer Gauri Khan under the banners of Red Chillies Entertainment and Marflix Pictures.",
+          "The narrative explores the dangerous underworld journey of a deadly assassin. This core plot intersects with intense emotional conflicts and a romantic element, famously highlighted by the promotional tagline \"Qaatil Nahi.. Aashiq Hoon…\"."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The movie features superstar Shah Rukh Khan portraying the titular protagonist. He is joined by Suhana Khan in a prominent lead role, while actor Abhishek Bachchan takes on the crucial responsibility of playing the primary antagonist.",
+          "An impressive ensemble supporting cast further enriches the project, featuring performances and special appearances by Deepika Padukone, Rani Mukerji, Jaideep Ahlawat, and Raghav Juyal."
+        ]
+      },
+      {
+        "h": "Global Scale and Technical Craft",
+        "p": [
+          "Mounted on a grand international scale, the production incorporates extensive high-octane action sequences designed by foreign stunt choreographers. To bring the visual vision to life, the cutting-edge visual effects are being managed by Red Chillies VFX.",
+          "The combination of a stellar cast, high-end technical crew, and a major budget positions the project as one of the most prominent cinematic endeavors currently in development."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Moviegoers won't have to wait indefinitely to witness the spectacle on the big screen, as the makers have locked in a prime festive arrival window. The feature is officially scheduled to hit cinemas worldwide on December 24, 2026, targeting the lucrative Christmas holiday period.",
+          "Until the studio chooses to break its silence, fans will continue dissecting every online clue left by the creative team, eagerly anticipating the next official update."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Siddharth Anand posted cryptic midnight messages on social media, stirring excitement among fans regarding the upcoming action thriller King starring Shah Rukh Khan. With the superstar's birthday approaching on November 2, audiences are speculating about a potential surprise reveal ahead of the film's scheduled global theatrical release on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Siddharth Anand shared cryptic midnight social media posts on October 29, 2026.",
+      "Shah Rukh Khan's birthday is on November 2.",
+      "King is scheduled to release in cinemas worldwide on December 24, 2026.",
+      "The film is produced by Gauri Khan under Red Chillies Entertainment and Marflix Pictures.",
+      "Abhishek Bachchan plays the primary antagonist, and Suhana Khan features in a pivotal lead role."
+    ],
+    "entities": {
+      "people": [
+        "Siddharth Anand",
+        "Shah Rukh Khan",
+        "Gauri Khan",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Raghav Juyal"
+      ],
+      "titles": [
+        "King"
+      ]
+    },
+    "keywords": [
+      "King",
+      "Shah Rukh Khan",
+      "Siddharth Anand",
+      "King release date"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/10/Siddharth-Anand-drops-another-cryptic-post-about-Shah-Rukh-Khan-starrer-King-news.jpeg",
+        "caption": "Siddharth Anand Teases Fans With Cryptic Midnight Message About Shah Rukh Khan Starrer King",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 09:50:32 +0200"
   }
 };
