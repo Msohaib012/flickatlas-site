@@ -2063,3 +2063,112 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 /* Empty OTT rails are explanatory text, not a narrow poster-card cell. */
 .ott-group .scroller:has(> .ott-empty){display:block}
 .ott-group .ott-empty{width:100%;margin:0;color:var(--muted);line-height:1.6}
+
+/* ==========================================================================
+   DESKTOP OPTIMISATION (owner order 2026-10-30: "mobile me sahi he but
+   desktop ke liye UI sahi nahi bana huva"). Append-only: every rule below
+   lives inside a min-width media query, so base and mobile rules are
+   byte-identical outside these blocks and phone rendering cannot change.
+   Diagnosis (measured headless at 1280/1440/1920 vs the live site):
+   the layout was a phone layout stretched wide — poster rails kept their
+   158px columns at every width (7 visible in 1320px, phone-sized posters
+   and 14.7px titles), listing grids stayed at 173px cards, the homepage
+   and /box-office Box Office cards had NO grid at all (8 full-width
+   stacked rows), the hero's fixed 480px left its content stack pooled at
+   the top over ~180px of dead backdrop, filter dropdowns stretched to
+   ~650px each, timeline lists ran one sparse column, and the news
+   slider's 16:9 frame ballooned to ~740px tall. Pattern reference:
+   Sacnilk-style wide content sites — bigger posters, denser grids,
+   two-column lists, capped measure for media blocks.
+   ========================================================================== */
+@media (min-width:1024px){
+  /* Poster rails: desktop-sized columns. 196px in a 1320px content row
+     shows 6 full posters + a peek of the 7th (scroll affordance kept);
+     at 1024-1279 it shows 4-5. Titles/meta scale up with the cards. */
+  .scroller{grid-auto-columns:196px;gap:18px;padding-bottom:16px}
+  .people-row{grid-auto-columns:148px;gap:16px}
+  .card-title{font-size:.98rem}
+  .card-meta{font-size:.84rem}
+  /* Listing grids: fewer, larger posters per row (7 x 173px -> 6 x ~205px
+     at 1320px; 5-6 across at 1024-1279). The Bollywood body variant
+     restates .grid with higher specificity, so it is restated too. */
+  .grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:20px}
+  body[data-industry="bollywood"] .grid{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}
+  .people-grid{grid-template-columns:repeat(auto-fill,minmax(158px,1fr))}
+  .cast-grid{grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:20px}
+  /* Box Office cards finally get their grid: two per row on the homepage
+     section and on /box-office, instead of one full-width row per film.
+     The empty-state paragraph still spans the full row. */
+  #homeBoxOffice [data-results]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+  #homeBoxOffice [data-results]>p{grid-column:1/-1}
+  .bo-dashboard [data-sec="box-office"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+  .bo-dashboard [data-sec="box-office"]>p{grid-column:1/-1}
+  .fa-box-poster{flex-basis:46px;width:46px;height:69px}
+  /* Hero: centre the content stack vertically so the fixed-height slide
+     no longer pools ~180px of empty backdrop under the actions. */
+  .hero-slide .hero-in{justify-content:center}
+  /* Hero size cap (owner correction 2026-10-30 15:49: "hero banner boht
+     bara he desktop me"): the fixed 480px slide drops to 392px, the
+     right-hand poster shrinks to fit inside it (216px wide / 324px tall
+     max instead of 254/384), and the stack's own chrome (stats panel,
+     action buttons, top/bottom padding) tightens to match. Measured:
+     no slide overflows at 1024/1280/1440 (stack gaps 31-32px top,
+     39-41px bottom). The >=900px rule's right padding reserve for the
+     absolute poster is deliberately NOT overridden. */
+  .hero{margin:18px 0 4px}
+  .hero-card{height:392px;min-height:392px}
+  .hero-slide .hero-in{padding-top:22px;padding-bottom:30px}
+  .hero-slide .hero-mini-poster{width:clamp(180px,17vw,216px);max-height:324px}
+  .hero-stats{padding:8px 12px}
+  .hero-stats div b{font-size:1.05rem}
+  .hero-actions .btn{padding:9px 16px;font-size:.9rem}
+  /* Detail pages: a larger poster and roomier hero on wide screens. */
+  .detail-in{gap:32px;padding:34px}
+  .detail-poster{width:224px}
+  /* Readable measure inside full-width content cards (tables and other
+     block children are not <p> and keep the full width). */
+  .content-card>p{max-width:78ch}
+  /* Timeline lists (release calendar, episode lists): two columns
+     instead of one sparse full-width column. */
+  .tl-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  /* News slider (directly below the hero): cap the 16:9 media block so a
+     headline stops carrying a ~740px-tall image on desktop; the section
+     head stays full width. */
+  .news-slider{max-width:920px;margin-inline:auto}
+  /* News slider density (owner correction 2026-10-30 15:49: the news
+     articles below the hero are "boht bare" on desktop): the slide
+     becomes a horizontal desktop card — image on the left at 46% of a
+     980px cap, title + date on the right — so the whole slider is 290px
+     tall instead of ~860px. The carousel JS sets inline display:block
+     on the active slide, hence the !important; verified live: next/prev
+     still switch with exactly one slide visible, rendered flex. */
+  .news-slider{max-width:980px}
+  .news-slide.active{display:flex !important}
+  .news-slide-img{flex:0 0 46%;aspect-ratio:16/9}
+  .news-slide-body{flex:1 1 auto;min-width:0;align-self:center;padding:18px 22px}
+  .news-slide-title{font-size:1.12rem;-webkit-line-clamp:3}
+  /* Filter dropdowns were sized to share a 320px phone row; on desktop
+     each one stretched to ~650px. Cap the rows to a natural width. */
+  .home-filter-row{max-width:600px}
+  #app #chipHost .listing-select-row:not(.listing-select-row--single){max-width:640px}
+  /* Section rhythm for large screens. */
+  .section{margin:46px 0}
+  /* Box-office panel rows (ui.js helper): a readable thumb and bars that
+     use the row instead of capping at 520px. */
+  .bo-row{grid-template-columns:56px 1fr auto}
+  .bo-row img{width:56px;height:84px}
+  .bo-bars{max-width:680px}
+}
+@media (min-width:1280px){
+  /* Hero headline: 2.35rem — the earlier 2.8rem round made the capped
+     392px hero feel bigger again (owner correction 2026-10-30 15:49);
+     37.6px at >=1280px sits between the base clamp (40px) and mobile. */
+  .hero-in h1,.hero-in h2{font-size:2.35rem}
+  /* Facts table: three columns once the content row is ~1240px+. */
+  .facts-table{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (min-width:1700px){
+  /* Very wide monitors: let the container breathe instead of leaving
+     ~280px dead margins on both sides of a 1360px wrap. */
+  .wrap{max-width:1480px}
+}
