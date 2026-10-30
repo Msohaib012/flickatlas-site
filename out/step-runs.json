@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T21:57:03Z",
-    "run_id": "40961980544",
-    "status": "success",
-    "checked": {
-     "candidates": 283,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Marvel Studios honours 'X-Men' star Patrick Stewart",
-      "Hugh Jackman, William Shatner, And More Send Touching Tributes After Sir Patrick Stewart’s Death",
-      "It Ends With Us’ Crew Is Part Of A New Documentary, And The Director Shares Their Feelings On Blake Lively And Justin Baldoni",
-      "I've Been Counting Down To DWTS's Disney Night, But It's Leaving Something Out That Upsets Me",
-      "I Wasn’t Expecting Wildwood To Talk About Infertility, But It Was So Moving",
-      "The 10 Greatest R-Rated Neo-Noir Movies, Ranked",
-      "The 10 Best Stephen King Opening Chapters, Ranked",
-      "The 8 Most Amazing Thriller Movies Ever Made",
-      "‘Yellowstone’ Spin-Off ‘Dutton Ranch’ Officially Returns With New Release Next Month",
-      "The 10 Best Video Game Heroes of All Time, Ranked",
-      "Kevin Feige Recalls First Time Seeing Patrick Stewart on an X-Men Movie Set in Heartfelt Tribute",
-      "‘Rest Well, Captain’: Star Trek Fans Mourn Patrick Stewart in Loving Tributes",
-      "‘We’re Screwed’: David Ayer’s Suicide Squad DCU Canon Status Gets Brutal James Gunn Response",
-      "Jeffrey Dollmer Red Band Trailer Unleashes a Possessed Killer Doll in New Horror Movie",
-      "Netflix Officially Adapting Popular \"Taylor Sheridan Meets Hunger Games\" Action Franchise",
-      "Mel Gibson's 177-Minute War Epic Sets New Release 30 Years After Dominating the Oscars",
-      "20 Best Mario Kart 8 Racer & Kart Combinations",
-      "Essential Guide to Reading Miss Marple Books in Order",
-      "Patrick Stewart's Best Star Trek Line Will Always Be Relevant",
-      "All 13 Star Trek Movies Officially Set Free Streaming Release Date"
-     ],
-     "updated": [],
-     "count": 283,
-     "detail": "283 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T22:51:27Z",
     "run_id": "40968885302",
     "status": "success",
@@ -907,27 +868,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-29T22:51:28Z",
-    "run_id": "40968885302",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1393,27 +1346,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T23:51:30Z",
-    "run_id": "40975821228",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 50, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1819,26 +1764,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T22:51:30Z",
-    "run_id": "40968885302",
-    "status": "success",
-    "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2229,27 +2167,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T21:57:04Z",
-    "run_id": "40961980544",
-    "status": "success",
-    "checked": {
-     "candidates": 311,
-     "detail": "311 collected staging rows from readers; 103 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 308 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2655,19 +2585,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2897,27 +2827,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T22:51:29Z",
-    "run_id": "40968885302",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3383,19 +3305,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3665,19 +3587,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4026,26 +3948,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T21:57:04Z",
-    "run_id": "40961980544",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 40/40 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4489,19 +4404,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4754,19 +4669,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5096,19 +5011,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "success",
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5428,19 +5343,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5690,19 +5605,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5937,19 +5852,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6205,19 +6120,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6458,19 +6373,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6700,19 +6615,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T21:57:13Z",
-    "run_id": "40961980544",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6965,6 +6880,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T19:58:54Z",
+    "run_id": "41119564934",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6987,5 +6912,5 @@
    }
   ]
  },
- "updated_at": "2026-10-30T19:50:57Z"
+ "updated_at": "2026-10-30T19:58:54Z"
 }
