@@ -25,7 +25,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Pakistani Dramas</h1>
-      <p>Pakistani drama serials — open a drama for its episode list. Episode counts come from the live episode tracker and update as new episodes air.</p></div>
+      </div>
     <div id="chipHost">
       <div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="sortFilterLabel"><span id="sortFilterLabel">Sort</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="sortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortOptions" aria-labelledby="sortFilterLabel sortValue"><span class="fa-select-value" id="sortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="sortOptions" role="listbox" aria-labelledby="sortFilterLabel" hidden></div></div></div></div>
     </div>

@@ -34,7 +34,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Drama — Episode Guides</h1>
-      <p>Latest drama episodes from YouTube channels, newest first, with a story summary when one is ready.</p></div>
+      </div>
     <p class="fcount" id="fcount" aria-live="polite">Loading episodes…</p>
     <div id="chipHost"></div>
     <div id="guideHost"><div class="sk" style="height:280px;border-radius:22px"></div></div>

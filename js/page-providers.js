@@ -23,7 +23,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Where to Watch</h1>
-      <p>Streaming and rental availability, as information only — which platforms carry movies and series in each country. Availability varies by title and changes over time; check the platform for the latest catalogue.</p></div>
+      </div>
     <div id="wtwHost"><p class="eb-note" role="status">Loading provider information…</p></div>
   </div>`;
   const host = main.querySelector("#wtwHost");
@@ -69,8 +69,7 @@
     const regionCard = ([code, label]) => {
       const names = [...(byRegion.get(code) || [])].sort();
       return `<div class="content-card"><h2>${UI.esc(label)}</h2>
-        ${names.length ? `<p>${names.map(n => UI.esc(n)).join(" · ")}</p>
-        <p class="prov-note">Providers seen across published titles in ${UI.esc(label)} — stream, rent and buy. A provider listed here does not mean every title is available on it.</p>`
+        ${names.length ? `<p>${names.map(n => UI.esc(n)).join(" · ")}</p>`
         : `<p class="prov-note">No provider listings reported for ${UI.esc(label)} from the published titles.</p>`}
       </div>`;
     };
@@ -79,7 +78,7 @@
       `<div id="wtwFilterHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="wtwRegionLabel"><span class="filter-select-label" id="wtwRegionLabel">Region</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="wtwRegionTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="wtwRegionOptions" aria-labelledby="wtwRegionLabel wtwRegionValue"><span class="fa-select-value" id="wtwRegionValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="wtwRegionOptions" role="listbox" aria-labelledby="wtwRegionLabel" hidden></div></div></div>
     </div></div><div id="wtwRegions"></div>` +
-      `<p class="prov-note">FlickAtlas does not stream video and does not link to any platform. Provider names come from TMDB watch/providers data for published titles only; availability is per-title and changes over time.</p>`;
+      ``;
     const regionsHost = host.querySelector("#wtwRegions");
     function renderRegions() {
       const list = region === "all" ? REGIONS : REGIONS.filter(([code]) => code === region);

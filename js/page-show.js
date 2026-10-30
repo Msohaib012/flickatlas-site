@@ -384,7 +384,7 @@
       <div class="cast-grid">${cast.map(c => UI.personCard(c, c.character || "")).join("")}</div>
       ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => UI.personCard(c, c.character || "")).join("")}</div>
       <button type="button" class="btn more-btn" data-target="castMore" data-more="Show More Cast" data-less="Show Less" onclick="UI.toggleMore(this)">Show More Cast</button>` : ""}
-      <p class="prov-note">Full credited cast with photos and filmographies on each person's FlickAtlas profile.</p></div>` : ""}
+      </div>` : ""}
 
     ${(createdBy.length || crewGroups.length) ? `<div class="content-card"><h2>Creators &amp; Crew</h2>
       <div class="crew-groups">${createdBy.length ? `<div class="crew-group"><h4>Created by</h4>

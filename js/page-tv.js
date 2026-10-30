@@ -27,7 +27,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>TV Shows</h1>
-      <p>Filter TV series by category or genre; open a show for cast and episode details.</p></div>
+      </div>
     <div id="chipHost"><div class="listing-select-row">
       <div class="filter-select" role="group" aria-labelledby="catSelectLabel"><span class="filter-select-label" id="catSelectLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="catTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="catOptions" aria-labelledby="catSelectLabel catValue"><span class="fa-select-value" id="catValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="catOptions" role="listbox" aria-labelledby="catSelectLabel" hidden></div></div></div>
       <div class="filter-select" role="group" aria-labelledby="genreSelectLabel"><span class="filter-select-label" id="genreSelectLabel">Genre</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="genreTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="genreOptions" aria-labelledby="genreSelectLabel genreValue"><span class="fa-select-value" id="genreValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="genreOptions" role="listbox" aria-labelledby="genreSelectLabel" hidden></div></div></div>

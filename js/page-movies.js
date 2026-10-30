@@ -44,8 +44,7 @@
   if (!["movie", "tv", "all"].includes(t)) t = "movie";
 
   main.innerHTML = `<div class="wrap">
-    <div class="page-hero"><h1 id="moviesTitle">Movies</h1>
-      <p id="moviesSub">Filter movies and TV series by industry, year or rating; open a title for details.</p></div>
+    <div class="page-hero"><h1 id="moviesTitle">Movies</h1></div>
     <div id="chipHost"><div class="listing-select-row">
         <div class="filter-select" role="group" aria-labelledby="catSelectLabel"><span class="filter-select-label" id="catSelectLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="catTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="catOptions" aria-labelledby="catSelectLabel catValue"><span class="fa-select-value" id="catValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="catOptions" role="listbox" aria-labelledby="catSelectLabel" hidden></div></div></div>
         <div class="filter-select" role="group" aria-labelledby="yearSelectLabel"><span class="filter-select-label" id="yearSelectLabel">Year</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="yearTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="yearOptions" aria-labelledby="yearSelectLabel yearValue"><span class="fa-select-value" id="yearValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="yearOptions" role="listbox" aria-labelledby="yearSelectLabel" hidden></div></div></div>
@@ -179,15 +178,8 @@
     .sort(byNewest);
 
   const heroTitle = main.querySelector("#moviesTitle");
-  const heroSub = main.querySelector("#moviesSub");
   function syncHero() {
-    if (isTrending()) {
-      heroTitle.textContent = "Trending Worldwide";
-      heroSub.textContent = "This week's most-trending movies, worldwide — refreshed daily from TMDB. Only titles trending right now appear here.";
-    } else {
-      heroTitle.textContent = "Movies";
-      heroSub.textContent = "Filter movies and TV series by industry, year or rating; open a title for details.";
-    }
+    heroTitle.textContent = isTrending() ? "Trending Worldwide" : "Movies";
   }
   /* Year + Sort do not apply to the trending rank order, so hide them
      in trending mode (Genre still applies, preserving rank order). */

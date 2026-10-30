@@ -34,7 +34,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>${UI.esc(info.label)}</h1>
-      <p>${UI.esc(info.desc)}</p></div>
+      </div>
     <div id="chipHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="typeSelectLabel"><span class="filter-select-label" id="typeSelectLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="typeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="typeOptions" aria-labelledby="typeSelectLabel typeValue"><span class="fa-select-value" id="typeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="typeOptions" role="listbox" aria-labelledby="typeSelectLabel" hidden></div></div></div>
     </div></div>

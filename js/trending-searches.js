@@ -51,7 +51,7 @@
   function relDate(t) { var ui=root.UI||{}; if(typeof ui.relTime==='function')return ui.relTime(t); if(typeof ui.fmtDate==='function'){try{return ui.fmtDate(new Date(t).toISOString().slice(0,10));}catch(_){}} return ''; }
   function render(topics) {
     if(!topics.length)return '';
-    var html='<section class="trend-groups trend-mixed" aria-labelledby="trending-topics-title"><header class="trend-groups__header"><div><h2 id="trending-topics-title">Trending Topics</h2><p>Current Google search trends · published articles only · newest first · checked hourly</p></div></header><ol class="trend-mixed-list">';
+    var html='<section class="trend-groups trend-mixed" aria-labelledby="trending-topics-title"><header class="trend-groups__header"><div><h2 id="trending-topics-title">Trending Topics</h2></div></header><ol class="trend-mixed-list">';
     topics.forEach(function(a,i){var d=relDate(a.time);html+='<li class="trend-mixed-item"><a class="editorial-search-card trend-search-row" href="'+safe(a.url)+'"><span class="trend-search-rank" style="display:block" aria-hidden="true">'+(i+1)+'</span><span class="editorial-search-card__body"><span class="editorial-search-card__term">'+safe(a.title)+'</span>'+(d?'<span class="trend-search-meta"><span>'+safe(d)+'</span></span>':'')+'</span></a></li>';});
     return html+'</ol></section>';
   }

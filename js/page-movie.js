@@ -197,9 +197,9 @@
     const rows = (window.FA_DAYWISE || {})[String(id)] || null;
     const daywiseCardHtml = rows && rows.length
       ? UI.daywiseCard(rows, "Day-Wise Box Office (India Net + Overseas)", { titleId: id }) : "";
-    const daywiseHtml = daywiseCardHtml || (pub.release_date && pub.release_date <= UI.todayPKT() && UI.isFresh(pub)
-      ? `<div class="content-card"><h2>Day-Wise Box Office</h2><p>Daily collection figures for this movie have not been reported to FlickAtlas yet. This page will show sourced rows when they are available; missing amounts are not estimated.</p></div>`
-      : "");
+    /* Owner order 2026-10-30: no empty explanation card when a movie has
+       no day-wise rows — the section simply does not appear. */
+    const daywiseHtml = daywiseCardHtml || "";
 
     /* Advance booking (user order 2026-10-26): upcoming days' advance
        figures from window.FA_ADVANCE (js/advance-data.js, produced by
@@ -223,8 +223,7 @@
       return `<div class="content-card"><h2>Advance Booking</h2>
       <div class="table-scroll"><table class="data">
         <thead><tr><th>Date</th><th>Day</th><th>Advance Collection</th></tr></thead>
-        <tbody>${body}</tbody></table></div>
-      <p class="prov-note">Advance booking figures for upcoming days, as reported. These are not final collections and may change as the day closes.</p></div>`;
+        <tbody>${body}</tbody></table></div></div>`;
     })();
     /* Day-wise section (user order 2026-10-26): the actual day-wise
        card plus the advance-booking block, placed right below the
@@ -285,9 +284,6 @@
       const criticLine = critic
         ? `BollyMovieReviewz critic average: <b>${UI.esc(fmtScore(critic.score_10))}/10</b> (${UI.esc(critic.raw || "")}${critic.count ? `, ${critic.count} critics` : ""})` : "";
       const scoreNotes = [tmdbLine, criticLine].filter(Boolean).join(" · ");
-      const srcNote = review.source === "Movies Flare"
-        ? "Review by Movies Flare — scores and text from their Udta Teer review carousel."
-        : "FlickAtlas's own review, written from the film's story, cast and genres and what reviewers are saying online.";
       const strengths = Array.isArray(review.strengths) ? review.strengths.filter(Boolean) : [];
       const swHtml = (strengths.length || review.weaknesses) ? `<div class="rv-sw">
         ${strengths.length ? `<div><h3>Strengths</h3><ul class="rv-list">${strengths.map(s => `<li>${UI.esc(s)}</li>`).join("")}</ul></div>` : ""}
@@ -296,7 +292,7 @@
       return `<div class="content-card" id="movie-reviews"><h2>Reviews</h2>
       <div class="rv-head">
         <div class="rv-overall"><span class="rv-star">★</span><b>${UI.esc(fmtScore(review.overall))}<small>/10</small></b></div>
-        <div class="rv-head-txt"><b>${UI.esc(srcLabel)}</b><span>Overall rating · Source: ${UI.esc(review.source || "")}</span></div>
+        <div class="rv-head-txt"><b>${UI.esc(srcLabel)}</b><span>Overall rating</span></div>
       </div>
       ${catRows ? `<div class="rv-cats">${catRows}</div>` : ""}
       ${review.story_plot ? `<h3>Story &amp; Plot</h3><p>${UI.esc(review.story_plot)}</p>` : ""}
@@ -305,7 +301,7 @@
       ${swHtml}
       ${review.verdict ? `<h3>Final Verdict</h3><p>${UI.esc(review.verdict)}</p>` : ""}
       ${scoreNotes ? `<p class="prov-note">${scoreNotes}</p>` : ""}
-      <p class="prov-note">${UI.esc(srcNote)}</p></div>`;
+      </div>`;
     })();
 
     /* Top Searches removed (owner order 2026-10-28): keywords live in metadata only (scripts/seo_assets.py). */
@@ -336,21 +332,19 @@
         ${pub.budget ? `<div><span>Budget</span><b>${UI.fmtMoney(pub.budget)}</b></div>` : ""}
         ${pub.revenue ? `<div><span>Worldwide Gross</span><b>${UI.fmtMoney(pub.revenue)}</b></div>` : ""}
         ${verdict ? `<div><span>Verdict</span><b>${UI.esc(verdict.label)}</b></div>` : ""}
-      </div></div>
-      <p class="prov-note">Budget and gross are reported figures; the verdict is an estimate from budget vs gross, not an official declaration.</p></div>` : ""}
+      </div></div></div>` : ""}
 
     ${factRows.length ? `<div class="content-card" id="movie-facts"><h2>Movie Facts</h2>
       <dl class="facts-table">${factRows.map(([k, v]) => `<div class="fact-row"><dt>${UI.esc(k)}</dt><dd>${v}</dd></div>`).join("")}</dl></div>` : ""}
 
     ${trailerKey ? `<div class="content-card" id="official-trailer"><h2>Official Trailer</h2>
-      <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/${trailerKey}" title="Official trailer — ${UI.esc(trailerName || title)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-      <p class="prov-note">Official trailer via YouTube.</p></div>` : ""}
+      <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/${trailerKey}" title="Official trailer — ${UI.esc(trailerName || title)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>` : ""}
 
     ${castTop.length ? `<div class="content-card"><h2>Top Cast</h2>
       <div class="cast-grid">${castTop.map(c => UI.personCard(c, c.character || "")).join("")}</div>
       ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => UI.personCard(c, c.character || "")).join("")}</div>
       <button type="button" class="btn more-btn" data-target="castMore" data-more="Show More Cast" data-less="Show Less" onclick="UI.toggleMore(this)">Show More Cast</button>` : ""}
-      <p class="prov-note">Full credited cast with photos and filmographies on each person's FlickAtlas profile.</p></div>` : ""}
+      </div>` : ""}
 
     ${crewGroups.length ? `<div class="content-card"><h2>Crew</h2>
       <div class="crew-groups">${crewGroups.map(([label, people]) => `<div class="crew-group"><h4>${UI.esc(label)}</h4>
@@ -371,7 +365,6 @@
         ${rating ? `<div class="ap-card"><span class="ap-source">TMDB</span><b class="ap-score">${UI.esc(rating)}</b><span class="ap-meta">${pub.vote_count ? `${pub.vote_count.toLocaleString("en-US")} votes` : "Audience rating"}</span></div>` : `<div class="ap-card"><span class="ap-source">TMDB</span><b class="ap-score">—</b><span class="ap-meta">No audience rating yet</span></div>`}
         <div class="ap-card" id="apShared"><span class="ap-source">FlickAtlas viewers</span><b class="ap-score">—</b><span class="ap-meta">Loading viewer ratings…</span></div>
       </div>
-      <p class="prov-note">Audience rating from TMDB, plus the average of viewer reviews on FlickAtlas. BookMyShow and IMDb ratings are not available on this page yet.</p>
       <button type="button" class="btn btn-teal" onclick="document.getElementById('rateMovie').scrollIntoView({behavior:'smooth',block:'center'})">Rate ${UI.esc(title)}</button>
     </section>`}
 

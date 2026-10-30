@@ -29,7 +29,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Trending News</h1>
-      <p>All entertainment headlines in one mixed feed — Bollywood, Lollywood, Kollywood, awards, OTT, music, tech and more. Tap a tag to see only that list. Sirf pichle 24 ghante ki khabrein dikhayi jati hain.</p></div>
+      </div>
     <div id="chipHost"><div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="newsFilterLabel"><span id="newsFilterLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="newsFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="newsFilterOptions" aria-labelledby="newsFilterLabel newsFilterValue"><span class="fa-select-value" id="newsFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="newsFilterOptions" role="listbox" aria-labelledby="newsFilterLabel" hidden></div></div></div></div></div>
     <p class="fcount" id="fcount"></p>
     <div id="newsWrap"><div class="sk" style="height:220px;border-radius:14px"></div></div>
@@ -80,8 +80,7 @@
         ${meta.length ? `<span class="editorial-card__meta">${meta.map(UI.esc).join(" · ")}</span>` : ""}
       </a>`;
     }).join("")}</div>
-      <p class="prov-note">Open any headline for its own FlickAtlas article page — with the
-      story, relevant facts and related titles and people presented here.</p>`;
+`;
   }
   /* Custom in-page dropdown (user order 2026-10-27): a button showing
      the current category + a list panel that expands DOWNWARD directly

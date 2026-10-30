@@ -477,9 +477,6 @@ const UI = (() => {
       }
     }).observe(document.body, { childList: true, subtree: true });
   }
-  function rateNote() {
-    return `<details class="ccy-note"><summary>Currency reference rates</summary><p>$1 = ₹${RATES.INR} / Rs ${RATES.PKR} · ${RATES.asOf}. Display conversion only.</p></details>`;
-  }
   /* Availability info (TEXT ONLY — names of platforms per region, never links).
      Input: details["watch/providers"].results keyed by country code. */
   const REGIONS = [["US", "United States"], ["IN", "India"], ["PK", "Pakistan"], ["GB", "United Kingdom"]];
@@ -595,8 +592,7 @@ const UI = (() => {
     return `<div class="content-card"><h2>${esc(heading || "Day-Wise Box Office")}</h2>
       <div class="table-scroll"><table class="data">
         <thead><tr>${headCells.join("")}</tr></thead>
-        <tbody>${body}</tbody>${foot}</table></div>
-      <p class="prov-note">${industryContext === "bollywood" ? "India Net and overseas gross per day, as reported by the FlickAtlas data engine (multi-source average). Overseas is gross; the Total column adds India Net + overseas where both are reported for that day. Shows, occupancy and tickets are India figures where reported. A dash means the figure was not reported for that day — never estimated." : "Day-wise worldwide collections, as reported by the FlickAtlas data engine."}${o.titleId ? " Open any day for its own collection page." : ""}</p></div>`;
+        <tbody>${body}</tbody>${foot}</table></div></div>`;
   }
 
   /* ---------- Freshness window (MASTER §7.6, correction round) ----------
@@ -719,7 +715,6 @@ const UI = (() => {
       foot.innerHTML = `<footer class="site-foot"><div class="wrap foot-grid">
         <div class="foot-brand">
           <a class="brand light" href="/">${LOGO}<span class="brand-name">Flick<em>Atlas</em></span></a>
-          <p>Explore movies, series and the people behind them. Find credits, release dates and reported box office.</p>
         </div>
         <details class="foot-col" open><summary>Explore</summary><div class="foot-links">
           <a href="/movies">Movies</a><a href="/tv">TV &amp; Web Series</a><a href="/box-office">Box Office</a>
@@ -737,7 +732,6 @@ const UI = (() => {
       </div>
       <div class="wrap foot-base">
         <span>© ${new Date().getFullYear()} FlickAtlas. All rights reserved.</span>
-        <span class="foot-note">Box office verdicts are estimates.</span>
       </div></footer>`;
       const compactFooter = window.matchMedia("(max-width:900px)");
       const setFooterMode = () => foot.querySelectorAll("details.foot-col").forEach(group => { group.open = !compactFooter.matches; });
@@ -851,8 +845,7 @@ const UI = (() => {
     return `<div class="content-card"><h2>Daily Collection</h2>
       <div class="table-scroll"><table class="data">
         <thead><tr>${headCells.join("")}</tr></thead>
-        <tbody>${body}</tbody>${foot}</table></div>
-      <p class="prov-note">${industryContext === "bollywood" ? "The running sum adds only the displayed records; missing dates are not estimated. India Net and overseas gross per day; the Total column adds both where reported. Shows, occupancy and tickets are India figures where reported; a dash means not reported for that day. Source-level reconciliation has not been independently verified here." : "Day-wise collections as reported by the FlickAtlas data engine"}${capped ? " The Total collection till today line sums every recorded day, including days past Day 30." : ""} — open any day for its own collection page.</p></div>`;
+        <tbody>${body}</tbody>${foot}</table></div></div>`;
   }
 
   function posterCard(item, type, tag, rank, extraMeta, showType) {
@@ -1213,7 +1206,7 @@ const UI = (() => {
   }
 
   return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, todayIST, todayPKT, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
-    fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, rateNote, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
+    fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, deriveNewsTags, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
     relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };

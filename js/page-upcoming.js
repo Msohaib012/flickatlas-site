@@ -32,7 +32,7 @@
         || (b.published_at || "").localeCompare(a.published_at || ""));
     main.innerHTML = `<div class="wrap">
       <div class="page-hero"><h1>Official Trailers</h1>
-        <p>Official trailers for published movies and TV shows — newest first. Open a title to watch its trailer.</p></div>
+        </div>
       <div id="trFilterHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="trTypeLabel"><span class="filter-select-label" id="trTypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="trTypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="trTypeOptions" aria-labelledby="trTypeLabel trTypeValue"><span class="fa-select-value" id="trTypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="trTypeOptions" role="listbox" aria-labelledby="trTypeLabel" hidden></div></div></div>
     </div></div>
@@ -77,12 +77,12 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Upcoming Releases</h1>
-      <p>Upcoming movie and TV dates by month; dates may change.</p></div>
+      </div>
     <div id="chipHost"><div class="listing-select-row">
       <div class="filter-select" role="group" aria-labelledby="upFilterLabel"><span class="filter-select-label" id="upFilterLabel">Filter by category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="upFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="upFilterOptions" aria-labelledby="upFilterLabel upFilterValue"><span class="fa-select-value" id="upFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="upFilterOptions" role="listbox" aria-labelledby="upFilterLabel" hidden></div></div></div>
       <div class="filter-select" role="group" aria-labelledby="upSortLabel"><span class="filter-select-label" id="upSortLabel">Sort by</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="upSortTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="upSortOptions" aria-labelledby="upSortLabel upSortValue"><span class="fa-select-value" id="upSortValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="upSortOptions" role="listbox" aria-labelledby="upSortLabel" hidden></div></div></div>
     </div></div>
-    <p class="sec-sub">Upcoming release and premiere dates only · oldest release date first.</p>
+
     <p class="fcount" id="fcount"></p>
     <div id="upWrap">${UI.skelCards(8)}</div>
   </div>`;

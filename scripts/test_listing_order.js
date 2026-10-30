@@ -57,7 +57,7 @@ assert(validGroup(group('2026-10-30','digital'),tv('2026-10-30',{ott_release_dat
 assert(validGroup(group('2026-11-02','digital'),tv('2026-11-02',{ott_release_date:'2026-11-02',ott_release_provider:'Netflix',ott_release_source:'https://example.com/source'}),'coming'));
 assert(!validGroup(group('2026-11-02','release'),{published:true,poster:true,type:'movie'},'coming'));
 assert.match(srcOtt,/No TV series currently streaming on OTT/);
-assert.match(srcOtt,/source-backed OTT date/);
+assert.doesNotMatch(srcOtt,/source-backed OTT date/, 'owner order 2026-10-30: the Coming group guidance note is gone (the source-backed-date RULE itself is asserted by the validGroup cases above)');
 assert.match(srcOtt,/date_kind \|\| ""/);
 assert.match(srcIndex,/air > today \|\| d !== air/);
 assert.match(srcIndex,/group === \"coming\" && typeOf\(x\) === \"movie\"/);

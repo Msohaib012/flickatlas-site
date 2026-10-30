@@ -27,7 +27,7 @@ for(const altered of [
 ]) assert.strictEqual(h.validTopics(altered,[article],now).length,0);
 assert.strictEqual(h.validTopics(payload,[{...article,published:'2026-10-01T00:00:00Z'}],now).length,0);
 const html=h.render(h.validTopics(payload,[article],now));
-assert(html.includes('Current Google search trends'));
+assert(!html.includes('Current Google search trends'), 'owner order 2026-10-30: no guidance line under the Trending Topics heading');
 assert(html.includes('href="/news-item?id=story%201"'));
-assert(html.includes('newest first'));
+assert(!html.includes('newest first'), 'no sort caption in the rendered topics block');
 console.log('Trending topics client tests passed');

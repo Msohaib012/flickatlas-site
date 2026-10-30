@@ -582,9 +582,9 @@
     ? UI.daywiseCard(enrich.daywise, "Day-Wise Box Office (India Net + Overseas)", { titleId: relatedMovie.id }) : "";
   const relatedMovieReleasedRecently = relatedMovie && relatedMovie.release_date
     && relatedMovie.release_date <= UI.todayPKT() && UI.isFresh(relatedMovie);
-  const postDaywiseHtml = postDaywiseCard || (isBoxOfficePost && relatedMovieReleasedRecently
-    ? `<div class="content-card" style="margin-top:14px"><h2>Day-Wise Box Office</h2><p>Daily collection figures for this movie have not been reported to FlickAtlas yet. Only sourced rows appear here; missing amounts are not estimated.</p></div>`
-    : "");
+  /* Owner order 2026-10-30: no empty explanation card when the related
+     movie has no day-wise rows — the block simply does not appear. */
+  const postDaywiseHtml = postDaywiseCard || "";
 
   /* ---------- Episode layout blocks (only for episode pages).
      Order: Episode Details table → Story Summary → YouTube embed,

@@ -84,14 +84,12 @@
     .map(entry => ({ entry, rows: dw[String(entry.id)] || [] }));
 
   main.innerHTML = `<div class="wrap bo-dashboard">
-    <header class="page-hero bo-intro"><p class="bo-key">Dated collections and reported grosses</p><h1>Box Office</h1>
-      <p>Box office collections of the latest released movies — today's reported collection, the last 7 days and the recorded total. Tap a movie for its full day-wise detail.</p>
+    <header class="page-hero bo-intro"><h1>Box Office</h1>
       <p><a href="/box-office/milestones">Box Office Milestones — 1000 Crore Club &amp; top collections →</a></p></header>
     <div id="chipHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="indSelectLabel"><span class="filter-select-label" id="indSelectLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="indTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="indOptions" aria-labelledby="indSelectLabel indValue"><span class="fa-select-value" id="indValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="indOptions" role="listbox" aria-labelledby="indSelectLabel" hidden></div></div></div>
     </div></div>
     <section class="section" data-sec="box-office">${picks.length ? picks.map(p => boCardHtml(p.entry, p.rows)).join("") : `<p style="color:var(--muted)">No box office data available yet.</p>`}</section>
-    ${UI.rateNote()}
   </div>`;
   /* Industry dropdown: picking an industry loads the same filtered list
      the old nav links opened (?f=bollywood / ?f=international). */

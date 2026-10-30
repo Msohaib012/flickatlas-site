@@ -289,10 +289,10 @@
        Bollywood is FIRST and more than half the homepage — two full
        Bollywood rails + the Bollywood-led news and box office blocks
        below, before any international section appears) ---------- */
-    const rowSection = (title, href, inner, sub, sec) => inner ? `
+    const rowSection = (title, href, inner, sec) => inner ? `
       <section class="section" data-sec="${sec || ""}"><div class="section-head"><h2>${title}</h2>
       <a class="see-all" href="${href}">See All →</a></div>
-      ${sub ? `<p class="sec-sub">${sub}</p>` : ""}${inner}</section>` : "";
+      ${inner}</section>` : "";
     const switchButtons = (id) => `<div class="home-industry-switchers" role="group" aria-label="Choose industry" data-switcher="${id}">${[["bollywood","Bollywood"],["international","World Cinema"]].map(([v,l],i)=>`<button type="button" class="chip home-industry-switch${i===0?" active":""}" data-industry="${v}" aria-pressed="${i===0}">${l}</button>`).join("")}</div>`;
     /* Homepage filter row (TV order 2026-10-27, corrected 2026-10-27,
        revised 2026-10-27 owner order): Industry + Type as .fa-select
@@ -310,9 +310,9 @@
       ${withType ? `<div class="filter-select" role="group" aria-labelledby="${kind}TypeLabel"><span id="${kind}TypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}TypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}TypeOptions" aria-labelledby="${kind}TypeLabel ${kind}TypeValue"><span class="fa-select-value" id="${kind}TypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}TypeOptions" role="listbox" aria-labelledby="${kind}TypeLabel" hidden></div></div></div>` : ""}
     </div>`;
     const bollyReleased = publishedFor("spotlight", "bollywood", "movie");
-    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<p class="sec-sub">Movies running now · newest releases first.</p><div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
+    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
     const bollySoon = publishedFor("soon", "bollywood", "movie").slice(0, HOME_LIMITS.soon);
-    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood&s=oldest">See All →</a></div>${homeFilterRow("soon", false)}<p class="sec-sub">Upcoming movies only · oldest release date first (nearest date first); dates may change.</p><div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
+    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood&s=oldest">See All →</a></div>${homeFilterRow("soon", false)}<div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
 
     /* ---------- Lollywood: every published Pakistani movie released in
        the current calendar year, newest first. No freshness fallback or
@@ -344,7 +344,6 @@
       .slice(0, HOME_LIMITS.trending);
     const trendingHtml = rowSection("Trending Worldwide", "/movies?f=trending&seeall=1",
       trendingEntries.length ? `<div class="scroller">${trendingEntries.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
-      "Eligible published movies trending this week, displayed newest release date first.",
       "mixed-trending");
     /* Trending Searches: the feed itself is a published file
        (/api/trends); the context pools are published titles only, and
@@ -390,41 +389,12 @@
         metric.amount_high > metric.amount
           ? `${HomeBoxOffice.formatCurrency(metric.amount, metric.currency)}–${HomeBoxOffice.formatCurrency(metric.amount_high, metric.currency)}`
           : HomeBoxOffice.formatCurrency(metric.amount, metric.currency));
-      const sourceHtml = (metric) => {
-        if (metric.method === "paired_components" && metric.components) {
-          const names = component => {
-            const list = Array.isArray(component && component.source_names) ? component.source_names : [];
-            const shown = list.slice(0, 3).map(name => UI.esc(name));
-            if (list.length > shown.length) shown.push(`+${list.length - shown.length}`);
-            return shown.length ? shown.join(", ") : "source missing";
-          };
-          return `<span class="fa-box-source">India Net: ${names(metric.components.india_net)} · Overseas: ${names(metric.components.overseas_gross)}</span>`;
-        }
-        const sources = Array.isArray(metric.sources) && metric.sources.length
-          ? metric.sources : [{ source_name: metric.source_name, source_url: metric.source_url }];
-        const links = sources.map(source => {
-          const href = HomeBoxOffice.secureUrl(source && source.source_url);
-          if (!href) return "";
-          const label = UI.esc(source.source_name || new URL(href).hostname);
-          return `<a class="fa-box-source" href="${UI.esc(href)}" target="_blank" rel="noopener noreferrer">${label}</a>`;
-        }).filter(Boolean);
-        const shown = links.slice(0, 3);
-        if (links.length > 3) shown.push(`<span class="fa-box-source">+${links.length - 3} more</span>`);
-        return shown.length ? shown.join(" · ") : `<span class="fa-box-source">${UI.esc(metric.source_name || "Verified source")}</span>`;
-      };
-      const trackedRange = (metric) => {
-        const start = shortDate(metric.period_start || "");
-        const end = shortDate(metric.period_end || "");
-        if (!start || !end) return start || end;
-        if (metric.period_start === metric.period_end) return end;
-        const sameMonth = String(metric.period_start).slice(0, 7) === String(metric.period_end).slice(0, 7);
-        return sameMonth ? `${+String(metric.period_start).slice(8, 10)}–${end}` : `${start}–${end}`;
-      };
+      /* Owner order 2026-10-30: no provenance/guidance notes on the card —
+         the figure only. A missing figure keeps a plain dash in the
+         evidence slot so the cell is never blank. */
       const evidence = (metric) => {
-        if (!metric) return `<small class="fa-box-evidence">No collection data yet</small>`;
-        if (metric.method === "tracked_daywise")
-          return `<small class="fa-box-evidence">Tracked · ${UI.esc(trackedRange(metric))}</small>`;
-        return `<small class="fa-box-evidence">${UI.esc(metric.currency)} source currency · Source as of ${UI.esc(shortDate(metric.as_of || metric.period_end || "") || metric.as_of || "date not stated")} · Checked ${UI.esc(shortDate(metric.observed_date || metric.as_of || "") || metric.observed_date || metric.as_of || "date not stated")} · ${sourceHtml(metric)}</small>`;
+        if (!metric) return `<small class="fa-box-evidence">—</small>`;
+        return "";
       };
       const metricCell = (windowKey, label, description) => {
         const metric = metricFor(windowKey);
@@ -446,7 +416,7 @@
     const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
-      ${switchButtons("boxoffice")}<p class="sec-sub">Last 14 days only · most popular first · figures from tracked box-office data · Bollywood</p>
+      ${switchButtons("boxoffice")}
       <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>
     </section>` : "";
 
@@ -551,7 +521,7 @@
     const ottHtml = ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
       <div class="section-head"><h2>OTT</h2>
       <a class="see-all" href="/ott?f=bollywood">See All →</a></div>
-      ${homeFilterRow("ott")}<p class="sec-sub">Movies now streaming, and what's coming next · Bollywood</p>
+      ${homeFilterRow("ott")}
       <div class="ott-group"><h3>Now on OTT</h3><div class="scroller" data-results="now">${ottRailHtml(ottFor("now", "bollywood", "movie"), false)}</div></div>
       <div class="ott-group"><h3>Coming to OTT</h3><div class="scroller" data-results="coming">${ottRailHtml(ottFor("coming", "bollywood", "movie"), true)}</div></div>
     </section>` : "";
@@ -565,7 +535,6 @@
       <div class="section-head"><h2>Coming Soon — Release Calendar</h2>
       <a class="see-all" href="/upcoming?f=bollywood&s=oldest&seeall=1">See All →</a></div>
       ${switchButtons("calendar")}
-      <p class="sec-sub">Upcoming release and premiere dates only · oldest release date first.</p>
       <div class="tl-list" data-results>
         ${upList.length ? upList.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>'}
       </div></section>` : "";
@@ -581,7 +550,6 @@
     const newsHtml = `<section class="section" id="homeNews" data-sec="news">
       <div class="section-head"><h2>Trending News</h2>
       <a class="see-all" href="/news">See All →</a></div>
-      <p class="sec-sub">Pichle 24 ghante ki khabrein — newest first.</p>
       <div class="sk" style="height:120px;border-radius:14px"></div></section>`;
     /* News slider (user order 2026-10-26): directly below the hero, the
        SAME articles as Trending News (newest first) as image slides.
@@ -745,16 +713,11 @@
         let homeFilter = "all";
         host.innerHTML = `<div class="section-head"><h2>Trending News</h2>
           <a class="see-all" href="/news">See All →</a></div>
-          <p class="sec-sub" id="homeNewsSub">Pichle 24 ghante ki khabrein — newest first.</p>
           <div id="chipHost"><div class="listing-select-row listing-select-row--single"><div class="filter-select" role="group" aria-labelledby="homeNewsFilterLabel"><span id="homeNewsFilterLabel">Category</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="homeNewsFilterTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="homeNewsFilterOptions" aria-labelledby="homeNewsFilterLabel homeNewsFilterValue"><span class="fa-select-value" id="homeNewsFilterValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="homeNewsFilterOptions" role="listbox" aria-labelledby="homeNewsFilterLabel" hidden></div></div></div></div></div>
           <div class="editorial-grid" id="homeNewsGrid"></div>`;
         const grid = host.querySelector("#homeNewsGrid");
-        const sub = host.querySelector("#homeNewsSub");
         const renderHomeNewsGrid = () => {
           const list = (homeFilter === "all" ? filterPool : filterPool.filter(it => deriveTags(it).includes(homeFilter))).slice(0, HOME_LIMITS.news);
-          sub.textContent = homeFilter === "all"
-            ? "Pichle 24 ghante ki khabrein — newest first."
-            : `${list.length} headline${list.length === 1 ? "" : "s"} · ${NEWS_FILTER_LABEL[homeFilter] || homeFilter}`;
           /* Empty state (owner order 2026-10-28): when nothing fresh
              arrived in the last 24 h, say so honestly — never fill the
              grid with old items. */
@@ -797,7 +760,6 @@
     const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Pakistani movies released in ${currentYear}</h2>
       <a class="see-all" href="/movies?f=lollywood&amp;y=${currentYear}&amp;s=recent">See All →</a></div>
-      <p class="sec-sub">Confirmed Pakistan theatrical releases in ${currentYear} · newest first.</p>
       <div class="scroller">${lollyLatest.map(x => UI.posterCard({ ...x, release_date: dateOf(x) }, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
 
     /* Drama episodes (user order 2026-10-26, LIST format 21:37 PKT):
@@ -955,7 +917,6 @@
     const pkDramasHtml = pkDramas.length ? `<section class="section" id="homeDramas" data-sec="pk-drama-list">
       <div class="section-head"><h2>Pakistani Dramas</h2>
       <a class="see-all" href="/dramas">See All →</a></div>
-      <p class="sec-sub">Pakistani dramas, newest first; open a drama for its episode list.</p>
       <div class="scroller">${pkDramas.slice(0, HOME_LIMITS.dramas).map(x => UI.posterCard(x, "tv", "Pakistani Drama", null, epMetaFor(x))).join("")}</div></section>` : "";
 
     /* Drama identity of an episode article (same headline parsing as
@@ -1022,7 +983,6 @@
     const pkRailHtml = epLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
       <div class="section-head"><h2><a href="/episode-guides" style="color:inherit">Drama Episodes</a></h2>
       <a class="see-all" href="/episode-guides">See All →</a></div>
-      <p class="sec-sub">Latest drama episodes from YouTube channels, newest first; open an episode for its story summary.</p>
       <div id="homePkFilter"></div>
       <div class="tl-list" id="homePkList">${epLatest.map(a => episodeRow(a)).join("")}</div></section>` : "";
 
@@ -1072,7 +1032,6 @@
         if (kind === "ott") {
           section.querySelector("h2").textContent = "OTT";
           link.href = `/ott?f=${industry}`;
-          section.querySelector(".sec-sub").textContent = "Movies now streaming, and what's coming next · " + industryLabel(industry);
           const nowHost = section.querySelector('[data-results="now"]');
           const comingHost = section.querySelector('[data-results="coming"]');
           const nowItems = ottFor("now", industry);
@@ -1083,7 +1042,6 @@
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}&s=oldest` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=oldest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "Last 14 days only · most popular first · figures from tracked box-office data · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
@@ -1125,12 +1083,6 @@
         if (kind === "ott") {
           section.querySelector("h2").textContent = "OTT";
           link.href = `/ott?f=${industry}${typeParam(type)}`;
-          const ottSummary = type === "tv"
-            ? "TV series currently streaming; upcoming series only when OTT dates are confirmed"
-            : type === "all"
-              ? "Movies and TV series now streaming; upcoming dates where OTT availability is confirmed"
-              : "Movies now streaming, and upcoming OTT dates where confirmed";
-          section.querySelector(".sec-sub").textContent = ottSummary + " · " + industryLabel(industry) + " · " + typeLabel(type);
           const nowHost = section.querySelector('[data-results="now"]');
           const comingHost = section.querySelector('[data-results="coming"]');
           const nowItems = ottFor("now", industry, type);
@@ -1153,9 +1105,6 @@
         link.href = kind === "spotlight"
           ? `/movies?f=${industry}&seeall=1${typeParam(type)}`
           : `/most-awaited?f=${industry}${typeParam(type)}`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight"
-          ? "Movies running now, newest release date first · " + industryLabel(industry)
-          : "Upcoming movies only, oldest release date first · " + industryLabel(industry);
         const result = section.querySelector("[data-results]");
         const items = kind === "spotlight" ? publishedFor(kind, industry, type) : publishedFor(kind, industry, type).slice(0, HOME_LIMITS.soon);
         result.innerHTML = items.length

@@ -36,7 +36,7 @@
   let region = "all";
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Awards</h1>
-      <p>Upcoming dates and available nominations or winners news.</p></div>
+      </div>
     <div id="awFilterHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="awRegionLabel"><span class="filter-select-label" id="awRegionLabel">Region</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="awRegionTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="awRegionOptions" aria-labelledby="awRegionLabel awRegionValue"><span class="fa-select-value" id="awRegionValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="awRegionOptions" role="listbox" aria-labelledby="awRegionLabel" hidden></div></div></div>
     </div></div>

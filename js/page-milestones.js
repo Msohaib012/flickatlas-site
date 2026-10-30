@@ -96,14 +96,12 @@
     const list = stats.filter(s => inrCrore(s.total) >= club.crore).sort((a, b) => b.total - a.total);
     if (!list.length) return "";
     return `<div class="content-card"><h2>\uD83C\uDFC6 ${UI.esc(club.title)}</h2>
-      <p>${UI.esc(club.sub)}</p>
       <div class="tl-list">${list.map(s => rowHtml(s, s.total, 0)).join("")}</div></div>`;
   };
   const topSection = (top) => {
     const list = stats.filter(s => s.day1 !== null).sort((a, b) => b[top.key] - a[top.key]).slice(0, 10);
     if (!list.length) return "";
     return `<div class="content-card"><h2>\u23F0 ${UI.esc(top.title)}</h2>
-      <p>${UI.esc(top.sub)}</p>
       <div class="tl-list">${list.map((s, i) => rowHtml(s, s[top.key], i + 1)).join("")}</div></div>`;
   };
 
@@ -115,20 +113,18 @@
   ].filter(x => x.html);
   let section = "all";
   main.innerHTML = `<div class="wrap bo-dashboard">
-    <header class="page-hero bo-intro"><p class="bo-key">Box office records</p><h1>Box Office Milestones</h1>
-      <p>Indian movies crossing 100, 300, 500 and 1000 crore, and the biggest Day 1, first-weekend, Week 1 and Month 1 collections — from FlickAtlas day-wise box office records. Tap a movie for its full day-wise detail.</p>
+    <header class="page-hero bo-intro"><h1>Box Office Milestones</h1>
       <p><a href="/box-office">&larr; Back to Box Office</a></p></header>
     <div id="msFilterHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="msSectionLabel"><span class="filter-select-label" id="msSectionLabel">Section</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="msSectionTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="msSectionOptions" aria-labelledby="msSectionLabel msSectionValue"><span class="fa-select-value" id="msSectionValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="msSectionOptions" role="listbox" aria-labelledby="msSectionLabel" hidden></div></div></div>
     </div></div>
     <div id="msSections"></div>
-    ${UI.rateNote()}
   </div>`;
   const sectionsHost = document.getElementById("msSections");
   function renderSections() {
     const list = section === "all" ? sectionEntries : sectionEntries.filter(x => x.key === section);
     sectionsHost.innerHTML = list.length ? list.map(x => x.html).join("")
-      : `<p style="color:var(--muted)">No milestone data yet — day-wise collections are still being recorded. Check back soon.</p>`;
+      : `<p style="color:var(--muted)">No milestone data yet.</p>`;
   }
   UI.mountFaSelect(document.querySelector("#msFilterHost .filter-select"),
     [{ value: "all", label: "All sections" }, ...sectionEntries.map(x => ({ value: x.key, label: x.label }))],

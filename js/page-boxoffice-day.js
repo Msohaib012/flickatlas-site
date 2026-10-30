@@ -67,10 +67,10 @@
       <p class="article-crumb"><a href="/movie?id=${encodeURIComponent(titleId)}">← ${UI.esc(title)}</a> · <a href="/box-office">Box Office</a></p>
       <section class="detail-hero"><div class="detail-in">
         ${poster ? `<div class="detail-poster"><img src="${poster}" alt="${UI.esc(title)} poster" loading="eager" decoding="async" onerror="this.remove()"></div>` : ""}
-        <div class="detail-main"><h1>${UI.esc(title)}</h1><p class="detail-sub">Box office totals after theatrical Day 30</p></div>
+        <div class="detail-main"><h1>${UI.esc(title)}</h1></div>
       </div></section>
       <div class="content-card"><h2>Totals only after Day 30</h2>
-        <p>Individual day amounts are shown only for theatrical Days 1–30. Any later recorded days are included in aggregate totals, but are not displayed separately.</p>
+
       </div>
       ${table}
     </div>`;
@@ -112,7 +112,7 @@
         <div><span>Day ${day} (${UI.esc(UI.fmtDate(row.date))})</span><b>${UI.fmtMoney(row.collection)}</b></div>
         <div><span>Running Total (Day 1–${day})</span><b>${UI.fmtMoney(running)}</b></div>
       </div></div>
-      <p class="prov-note">That day's reported collection and the running sum of the recorded days so far; missing days are excluded, not counted as zero.</p></div>
+      </div>
     ${UI.dailyCollectionCard(clean, String(titleId))}
   </div>`;
 

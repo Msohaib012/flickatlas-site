@@ -170,8 +170,9 @@ assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, {}, 'last_7_days', 
 assert.equal(helper.needsDirectRefresh(trackedItem, trackedRows, {}, {}, 'last_7_days', today), true,
   'a window covered only by the tracked fallback is still researched by the collector');
 
-// The rendered homepage card: tracked figures labelled with their covered
-// range, a plain "Total" third cell, and no worldwide claim anywhere.
+// The rendered homepage card: tracked figures with NO provenance note
+// (owner order 2026-10-30 — figure only), a plain "Total" third cell,
+// and no worldwide claim anywhere.
 const boStart = pageSource.indexOf('    const shortDate = (s) => {');
 const boEnd = pageSource.indexOf('    /* Only releases from the last 14 calendar dates', boStart);
 assert(boStart >= 0 && boEnd > boStart, 'homepage box office card anchors changed');
@@ -185,16 +186,18 @@ const boCardHtml = vm.runInNewContext(pageSource.slice(boStart, boEnd) + '\nboCa
 const trackedCard = boCardHtml({ id: 1806232, title: 'Tum Mere Ho', release_date: '2026-10-23', poster_path: '/p.jpg' });
 assert.match(trackedCard, /\$5\.3K/, 'the 2-day tracked sum renders on the card');
 assert.match(trackedCard, /\$50\.7K/, 'the tracked total renders on the card');
-assert.match(trackedCard, /Tracked · 28–29 Oct/, 'the 2-day cell names its covered tracked range');
-assert.match(trackedCard, /Tracked · 23–29 Oct/, 'the 7-day and total cells name the full tracked range');
+assert.doesNotMatch(trackedCard, /Tracked/, 'no tracked-range note on the card — the figure only');
+assert.doesNotMatch(trackedCard, /fa-box-source|source currency|Source as of|Checked/, 'no provenance line on the card');
 assert.match(trackedCard, /<dt>Total<\/dt>/, 'the third cell is labelled Total');
 assert.doesNotMatch(trackedCard, /worldwide/i, 'the card carries no worldwide claim');
 const emptyCard = boCardHtml({ id: 424242, title: 'No Data Film', release_date: today, poster_path: '/p.jpg' });
 assert.match(emptyCard, /Not reported/);
-assert.match(emptyCard, /No collection data yet/, 'the missing-figure note no longer claims a worldwide check');
+assert.match(emptyCard, /<small class="fa-box-evidence">—<\/small>/, 'a missing figure shows a plain dash in the evidence slot');
+assert.doesNotMatch(emptyCard, /No collection data yet/);
 assert.doesNotMatch(emptyCard, /worldwide/i);
-assert.match(pageSource, /No collection data yet/);
-assert.match(pageSource, /figures from tracked box-office data/);
+assert.doesNotMatch(pageSource, /No collection data yet/);
+assert.doesNotMatch(pageSource, /figures from tracked box-office data/);
+assert.doesNotMatch(pageSource, /class="sec-sub"/, 'no guidance sub-lines anywhere on the homepage');
 assert.doesNotMatch(pageSource, /Worldwide total/);
 
 // Daily windows require complete dates since release, and include only Days 1–30.
@@ -385,8 +388,8 @@ assert.match(pageSource, /selectionForDisplay/);
 assert.match(fs.readFileSync(path.join(__dirname, '..', 'js/home-boxoffice.js'), 'utf8'), /api\/home-boxoffice-worldwide/);
 assert.match(pageSource, /worldwide/);
 assert.match(pageSource, /metric\.currency/);
-assert.match(pageSource, /metric\.observed_date/);
-assert.match(pageSource, /metric\.sources/);
+assert.doesNotMatch(pageSource, /metric\.observed_date/, 'owner order 2026-10-30: the card renders no checked/observed-date provenance');
+assert.doesNotMatch(pageSource, /metric\.sources/, 'the card renders no source list — figure only');
 assert.match(pageSource, /HomeBoxOffice\.formatCurrency\(metric\.amount, metric\.currency\)/);
 assert.match(pageSource, /metric\.amount_high > metric\.amount/,
   'a verified range renders as low–high in the metric currency, never collapsed to one figure');

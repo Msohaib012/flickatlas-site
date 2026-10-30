@@ -26,7 +26,7 @@
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>Celebrities</h1>
-      <p>Celebrity profiles with biographies, photos and screen credits.</p></div>
+      </div>
     <div id="bdayHost"></div>
     <div id="chipHost"><div class="listing-select-row listing-select-row--single">
       <div class="filter-select" role="group" aria-labelledby="celSelectLabel"><span class="filter-select-label" id="celSelectLabel">Filter</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="celTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="celOptions" aria-labelledby="celSelectLabel celValue"><span class="fa-select-value" id="celValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="celOptions" role="listbox" aria-labelledby="celSelectLabel" hidden></div></div></div>
@@ -97,7 +97,7 @@
         <td><b>${UI.fmtMoney(rw.total)}</b> <span class="muted">(${rw.count} published title${rw.count === 1 ? "" : "s"})</span></td>
         <td><a href="/${rw.biggest.title.type === "tv" ? "show" : "movie"}?id=${rw.biggest.title.id}">${UI.esc(UI.titleOf(rw.biggest.title))}</a> (${UI.fmtMoney(rw.biggest.total)})</td></tr>`).join("")}
       </tbody></table></div>
-      <p class="prov-note">Recorded day-wise collections on FlickAtlas among published titles only. It is not a worldwide gross ranking; figures cover only the days recorded here.</p></div></section>`;
+      </div></section>`;
   }
 
   /* Birthdays are drawn only from the current pool, and exclude deceased or future-dated records.

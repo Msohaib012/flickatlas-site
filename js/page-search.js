@@ -15,7 +15,7 @@
   const main = document.getElementById("app");
   const q = (UI.pageQuery().get("q") || "").trim();
   UI.setSEO({ title: q ? `Search results for “${q}” | FlickAtlas` : "Search FlickAtlas", desc: "Search published movies, TV series, people and news on FlickAtlas.", path: "/search" + (q ? `?q=${encodeURIComponent(q)}` : "") });
-  main.innerHTML = `<div class="wrap"><div class="page-hero"><h1>Search FlickAtlas</h1><p>Find published movies, series, people and news.</p></div><form class="search-form" action="/search" method="get"><input type="search" name="q" value="${UI.esc(q)}" placeholder="Try a title, person or story" aria-label="Search query"><button class="btn btn-teal" type="submit">Search</button></form><div id="results" style="margin-top:26px" aria-live="polite"></div></div>`;
+  main.innerHTML = `<div class="wrap"><div class="page-hero"><h1>Search FlickAtlas</h1></div><form class="search-form" action="/search" method="get"><input type="search" name="q" value="${UI.esc(q)}" placeholder="Try a title, person or story" aria-label="Search query"><button class="btn btn-teal" type="submit">Search</button></form><div id="results" style="margin-top:26px" aria-live="polite"></div></div>`;
   const results = main.querySelector("#results");
   if (!q) { results.innerHTML = `<p style="color:var(--muted)">Type a title, name or story above to get started.</p>`; return; }
 

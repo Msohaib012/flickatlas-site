@@ -137,11 +137,10 @@
     const typeNoun = t === "tv" ? "TV series" : t === "all" ? "titles" : "movies";
     const indNoun = f === "all" ? "any industry" : f === "bollywood" ? "Bollywood" : "World Cinema";
     return coming
-      ? `No upcoming OTT releases reported for ${indNoun} ${typeNoun} yet — new titles join automatically when streaming availability is confirmed.`
-      : `${t === "tv" ? "No TV series currently streaming on OTT" : `No ${typeNoun} streaming on OTT`} for ${indNoun} yet — new titles join automatically when streaming availability is confirmed.`;
+      ? `No upcoming OTT releases reported for ${indNoun} ${typeNoun} yet.`
+      : `${t === "tv" ? "No TV series currently streaming on OTT" : `No ${typeNoun} streaming on OTT`} for ${indNoun} yet.`;
   };
-  const groupHtml = (title, note, list, coming) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
-    <p class="ott-group-note">${note}</p>
+  const groupHtml = (title, list, coming) => `<div class="ott-group"><h3>${title} (${list.length})</h3>
     ${list.length
       ? `<div class="grid">${list.map(cardHtml).join("")}</div>`
       : `<p class="prov-note">${emptyNote(coming)}</p>`}
@@ -154,22 +153,22 @@
     const now = entriesFor(groups.now, "now");
     const coming = entriesFor(groups.coming, "coming");
     main.querySelector("#ottGroups").innerHTML =
-      groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", now, false)
-      + groupHtml("Coming to OTT", "Movies appear only with a confirmed digital date; TV series need a source-backed OTT date and matching platform.", coming, true);
+      groupHtml("Now on OTT", now, false)
+      + groupHtml("Coming to OTT", coming, true);
   }
 
   main.innerHTML = `<div class="wrap">
     <div class="page-hero"><h1>OTT</h1>
-      <p>Which movies and TV series have arrived on streaming, and which are coming — platform logos and release dates, as information only.</p></div>
+      </div>
     <div id="chipHost"><div class="listing-select-row">
       <div class="filter-select" role="group" aria-labelledby="indSelectLabel"><span class="filter-select-label" id="indSelectLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="indTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="indOptions" aria-labelledby="indSelectLabel indValue"><span class="fa-select-value" id="indValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="indOptions" role="listbox" aria-labelledby="indSelectLabel" hidden></div></div></div>
       <div class="filter-select" role="group" aria-labelledby="typeSelectLabel"><span class="filter-select-label" id="typeSelectLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="typeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="typeOptions" aria-labelledby="typeSelectLabel typeValue"><span class="fa-select-value" id="typeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="typeOptions" role="listbox" aria-labelledby="typeSelectLabel" hidden></div></div></div>
     </div></div>
     <div id="ottGroups">
-    ${groupHtml("Now on OTT", "Streaming now — platform logos shown per title.", nowList, false)}
-    ${groupHtml("Coming to OTT", "Movies appear only with a confirmed digital date; TV series need a source-backed OTT date and matching platform.", comingList, true)}
+    ${groupHtml("Now on OTT", nowList, false)}
+    ${groupHtml("Coming to OTT", comingList, true)}
     </div>
-    <p class="prov-note">FlickAtlas does not stream video and does not link to any platform. Provider names and logos come from TMDB watch/providers data for published titles only; availability is per-title and changes over time.</p>
+
   </div>`;
   const chipHost = main.querySelector("#chipHost");
   UI.mountFaSelect(chipHost.querySelectorAll(".filter-select")[0],
