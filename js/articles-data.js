@@ -22624,5 +22624,259 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 15:03:12 +0000"
+  },
+  "1ljhr28": {
+    "id": "1ljhr28",
+    "type": "news",
+    "headline": "HBO Harry Potter Series Announces Five Key Cast Additions Including Sorting Hat",
+    "dek": "The upcoming adaptation reveals new cast members for iconic magical figures like Nearly Headless Nick and the Fat Lady.",
+    "body": [
+      {
+        "h": "Introduction of Five Iconic Magical Figures",
+        "p": [
+          "HBO has officially revealed five additional cast members for the upcoming Harry Potter television adaptation. This wave of casting focuses heavily on the enchanted residents and guardians scattered throughout the sprawling halls of Hogwarts School of Witchcraft and Wizardry.",
+          "Among the newly confirmed talent are actors stepping into some of the most memorable supernatural and stationary roles from the inaugural book in the legendary fantasy series."
+        ]
+      },
+      {
+        "h": "Casting the Resident Ghosts and Portraits",
+        "p": [
+          "Leo Bill has been cast as Nearly Headless Nick, the friendly house ghost of Gryffindor. Andrew Brooke will portray the Bloody Baron, the spectral resident associated with Slytherin House.",
+          "Laura Smyth has been tapped to appear as the Fat Lady, the oil painting portrait guarding the entrance to Gryffindor Tower. Additionally, Daniel Fearn will play the Fat Friar, representing Hufflepuff House."
+        ]
+      },
+      {
+        "h": "Bringing the Sorting Hat to Life",
+        "p": [
+          "Completing this specific round of casting announcements, David Threlfall has been chosen to provide the voice of the iconic Sorting Hat. The magical artifact is responsible for placing every incoming first-year student into their respective house.",
+          "These new additions ensure that the atmospheric details and beloved supporting fixtures of the wizarding world will feature prominently in the new production."
+        ]
+      },
+      {
+        "h": "Core Trio and Distinguished Faculty",
+        "p": [
+          "The newly announced performers join an already extensive ensemble for Harry Potter and the Philosopher’s Stone. The core trio features Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger, and Alastair Stout as Ron Weasley.",
+          "They are supported by a veteran faculty lineup including John Lithgow as Albus Dumbledore, Janet McTeer as Minerva McGonagall, Paapa Essiedu as Severus Snape, and Nick Frost as Rubeus Hagrid."
+        ]
+      },
+      {
+        "h": "Wider Ensemble and Creative Team",
+        "p": [
+          "The broader cast includes Warwick Davis returning as Filius Flitwick, alongside Katherine Parkinson, Johnny Flynn, Bertie Carvel, Luke Thallon, Daniel Rigby, Bel Powley, and Paul Whitehouse.",
+          "Creative responsibilities are led by writer and executive producer Francesca Gardiner, with Mark Mylod directing multiple episodes and serving alongside executive producers including J.K. Rowling and David Heyman."
+        ]
+      },
+      {
+        "h": "Release Details and Future Seasons",
+        "p": [
+          "Production is already looking ahead to subsequent chapters, with a Season 2 cast taking shape to include Kit Harington as Gilderoy Lockhart and Lenny Rush as Dobby.",
+          "The first season of HBO's Harry Potter and the Philosopher’s Stone is scheduled to premiere on December 25, 2026, with streaming availability on HBO Max."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO has officially revealed five new cast members for its upcoming Harry Potter series, including actors for the house ghosts, the Fat Lady, and the voice of the Sorting Hat. The series is set to premiere on December 25, 2026, on HBO Max, featuring a large ensemble cast led by young newcomers and veteran actors."
+        ]
+      }
+    ],
+    "facts": [
+      "Leo Bill plays Nearly Headless Nick.",
+      "Andrew Brooke plays the Bloody Baron.",
+      "Laura Smyth plays the Fat Lady.",
+      "Daniel Fearn plays the Fat Friar.",
+      "David Threlfall provides the voice of the Sorting Hat.",
+      "Dominic McLaughlin stars as Harry Potter.",
+      "Arabella Stanton stars as Hermione Granger.",
+      "Alastair Stout stars as Ron Weasley.",
+      "John Lithgow plays Albus Dumbledore.",
+      "Janet McTeer plays Minerva McGonagall.",
+      "Paapa Essiedu plays Severus Snape.",
+      "Nick Frost plays Rubeus Hagrid.",
+      "Kit Harington will portray Gilderoy Lockhart in Season 2.",
+      "Lenny Rush will portray Dobby in Season 2.",
+      "Francesca Gardiner is the writer and executive producer.",
+      "Mark Mylod is a director and executive producer.",
+      "Harry Potter and the Philosopher’s Stone premieres on December 25, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "Leo Bill",
+        "Andrew Brooke",
+        "Laura Smyth",
+        "Daniel Fearn",
+        "David Threlfall",
+        "Dominic McLaughlin",
+        "Arabella Stanton",
+        "Alastair Stout",
+        "John Lithgow",
+        "Janet McTeer",
+        "Paapa Essiedu",
+        "Nick Frost",
+        "Warwick Davis",
+        "Katherine Parkinson",
+        "Johnny Flynn",
+        "Bertie Carvel",
+        "Luke Thallon",
+        "Daniel Rigby",
+        "Bel Powley",
+        "Paul Whitehouse",
+        "Harry Gilby",
+        "Jasper Talbot",
+        "Hannah Chinn",
+        "Kit Harington",
+        "Lenny Rush",
+        "Billy Barratt",
+        "Rafe Spall",
+        "Molly Hewitt-Richards",
+        "Jasper Ambrose",
+        "Francesca Gardiner",
+        "Mark Mylod",
+        "J.K. Rowling",
+        "Neil Blair",
+        "Ruth Kenley-Letts",
+        "David Heyman",
+        "Laura Neal",
+        "Jon Brown",
+        "Nymphadora Tonks",
+        "Cedric Diggory",
+        "Newt Scamander",
+        "Luna Lovegood",
+        "Filius Flitwick",
+        "Rowena Ravenclaw",
+        "Gilderoy Lockhart",
+        "Dobby",
+        "Tom Riddle",
+        "Arthur Weasley",
+        "Moaning Myrtle",
+        "Colin Creevey",
+        "Taylor Sheridan"
+      ],
+      "titles": [
+        "Harry Potter",
+        "Harry Potter and the Philosopher’s Stone",
+        "The Girl with the Dragon Tattoo",
+        "Children of Men",
+        "The Batman",
+        "Shameless",
+        "The Crown",
+        "Ozark",
+        "I May Destroy You",
+        "Shaun of the Dead",
+        "Game of Thrones",
+        "Succession",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo"
+      ]
+    },
+    "keywords": [
+      "Harry Potter HBO series",
+      "Nearly Headless Nick cast",
+      "Sorting Hat voice actor",
+      "Harry Potter and the Philosopher’s Stone release date",
+      "Leo Bill Harry Potter"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/harry-potter-dominic-mclaughlin-prepares-to-play-quidditch-hbo-harry-potter.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "HBO Harry Potter Series Announces Five Key Cast Additions Including Sorting Hat",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 15:01:12 GMT"
+  },
+  "71qgxa": {
+    "id": "71qgxa",
+    "type": "news",
+    "headline": "Naomi Scott and Kit Harington Traverse Time and Emotion in the New Trailer for Eternal Return",
+    "dek": "The official trailer for Yaniv Raz's upcoming romantic fantasy Eternal Return showcases a time-bending love story starring Naomi Scott and Kit Harington.",
+    "body": [
+      {
+        "h": "Introduction to Eternal Return",
+        "p": [
+          "Audiences are getting their first major look at Eternal Return, a whimsical cinematic romance that brings together Naomi Scott and Kit Harington. The newly released trailer introduces a fantastical narrative driven by themes of heartache, healing, and the pursuit of love across the boundaries of time. Following her gripping work in Smile 2, Naomi Scott pivots to a dramatically different tone in this imaginative project.",
+          "Written and directed by filmmaker Yaniv Raz, previously known for Son of Morning, the movie blends traditional romantic fantasy conventions with temporal manipulation. The newly unveiled footage highlights the unique chemistry between the two lead performers as they navigate an unconventional narrative about second chances and emotional recovery."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The story centers on a young woman named Cass, portrayed by Naomi Scott, who has closed off her heart to romantic possibilities following a profound personal tragedy. As the narrative begins, Cass has largely resigned herself to a life devoid of deep emotional connections, struggling to overcome her grief and move forward.",
+          "Her perspective shifts dramatically on her 29th birthday when she crosses paths with Virgil, played by Kit Harington. Virgil is introduced as an eccentric cartographer whose professional focus lies in mapping locations that do not actually exist, setting a mystical and unpredictable tone for their budding relationship."
+        ]
+      },
+      {
+        "h": "The Time-Travel Journey",
+        "p": [
+          "Rather than remaining a standard romantic drama, Eternal Return incorporates high-concept fantasy elements through its central premise of time travel. Virgil is determined to alter the past to help Cass heal from her old wounds, embarking on an extraordinary mission that defies the laws of reality.",
+          "Assisting the pair in their ambitious endeavor is an older character named Malcolm, brought to life by veteran actor Simon Callow. Together, this trio attempts to use time manipulation as a literal mechanism to bridge the gap between past sorrow and future happiness."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Production",
+        "p": [
+          "Yaniv Raz takes the dual helm as writer and director for the feature, guiding the ambitious fusion of magical realism and grounded emotional storytelling. The project marks another high-profile cinematic venture for its principal cast members, showcasing their versatility in handling a delicate blend of fantasy and romance.",
+          "The creative team behind the production has emphasized crafting a genuinely old-fashioned romantic atmosphere, allowing the central performances to anchor the surreal elements of time displacement and cartography."
+        ]
+      },
+      {
+        "h": "Thematic Exploration of Grief",
+        "p": [
+          "At its core, Eternal Return uses its supernatural premise to explore very human struggles with grief and emotional detachment. Cass's journey represents the universal difficulty of letting go of past trauma and opening oneself back up to vulnerability.",
+          "Virgil's cartography of nonexistent places serves as a metaphorical reflection of the emotional landscapes the characters must explore. The narrative examines whether the past can truly be rewritten or if confronting sorrow is the only true path to healing."
+        ]
+      },
+      {
+        "h": "Trailer Reception and Expectations",
+        "p": [
+          "The arrival of the trailer has generated considerable discussion among cinephiles anticipating a unique addition to the romantic fantasy genre. The footage successfully establishes the whimsical aesthetic and emotional stakes that define the feature.",
+          "With strong lead performances from Naomi Scott and Kit Harington supported by a talented cast including Simon Callow, the film positions itself as a distinct entry in contemporary romantic cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The new trailer for Yaniv Raz's romantic fantasy film Eternal Return showcases Naomi Scott and Kit Harington as they explore themes of grief and time travel. The movie follows a grieving woman who meets an eccentric cartographer on her 29th birthday, setting off on a fantastical mission to rewrite the past with the help of an older companion named Malcolm."
+        ]
+      }
+    ],
+    "facts": [
+      "Eternal Return is written and directed by Yaniv Raz.",
+      "The film stars Naomi Scott as Cass and Kit Harington as Virgil.",
+      "Simon Callow plays the character Malcolm.",
+      "The story features a cartographer who maps places that do not exist.",
+      "The plot involves a time-travel attempt on the main character's 29th birthday."
+    ],
+    "entities": {
+      "people": [
+        "Naomi Scott",
+        "Kit Harington",
+        "Yaniv Raz",
+        "Simon Callow"
+      ],
+      "titles": [
+        "Eternal Return",
+        "Smile 2",
+        "Son of Morning"
+      ]
+    },
+    "keywords": [
+      "Eternal Return film",
+      "Naomi Scott Kit Harington",
+      "Yaniv Raz Eternal Return",
+      "Eternal Return trailer"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/10/30101627/Eternal-Return-Naomi-Scott-Kit-Harington.jpg",
+        "caption": "Naomi Scott and Kit Harington Traverse Time and Emotion in the New Trailer for Eternal Return",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 14:19:08 +0000"
   }
 };

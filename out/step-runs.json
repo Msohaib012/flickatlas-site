@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T18:51:39Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": {
-     "candidates": 490,
-     "detail": "RSS/Atom items across 137 sources; 11 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Where The Mask Ends Episode 23 Release Timings TODAY: Will  Wei Rao Be Able To Rescue Her Sister?",
-      "Bigg Boss 20 Episode 54 Written Update: Kanika Mann Becomes New BB 20 Captain, Earns Immunity From...",
-      "The Lament Of Autumn Episode 33 Release Timings: Only 1 NEW Ep To Drop TODAY? When & Where To Watch?",
-      "EXCL! Emraan Hashmi A Fitness Fanatic? Ankit Shares What He Bonded Over With ‘Sweetheart’ Gunmaaster G9 Costar",
-      "Mitti De Baway Episode 13 Release Date: Here's When Baala vs Billo's Next Clash Will Happen",
-      "Netflix Top 10: The Most-Watched Shows & Movies Right Now (Late October 2026)",
-      "Udta Teer box office collection day 7: Ayushmann Khurrana and Sara Ali Khan film remains steady, collects  ₹30 crore in its first week",
-      "Jailer 2 box office collection day 15: Rajinikanth film dips further at the end of second week, earns just  ₹5 crore",
-      "No one like him: Priyanka Chopra on Nick Jonas adjusting tour dates for Karwa Chauth",
-      "muthoot forex and moneygram business partnership launched 3077227.html",
-      "we have the strongest squad possible jonathan batty hails delhi capitals wpl 2027 auction strategy after signing four players 3077228.html",
-      "wpl 2027 up warriorz scouting head neetu david backs sophie molineux as trump card 3077234.html",
-      "india s solar growth is creating a new operating challenge 3077225.html",
-      "world armwrestling para armwrestling championships 2026 inaugurated in delhi 3077229.html",
-      "video congress protest 10 lakh protestors 14 security zones delhi on edge for india bloc protest nov 1 3223270",
-      "video cyclone arnab 3 dead in andhra houses collapse crops damaged in aftermath of severe storm 3223235",
-      "video cyclone arnab destruction 224 lakh hectares damaged 4600 crore loss shocking damage figures 3223269",
-      "photo gallery rise and fall 2 from siwet shehzad s showdown to swara bhasker s casting couch escape 5 most viral moments of virender sehwag show 3223250",
-      "video israel election result arab parties signal readiness to join opposition to oust netanyahu 3223236",
-      "inside licious sizzl launch varun dhawan gen z creators and a new identity for heat and eat food"
-     ],
-     "updated": [],
-     "count": 432,
-     "detail": "439 stories, 0 duplicates removed, 51 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T19:51:14Z",
     "run_id": "40943687184",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "410 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T19:53:09Z",
-    "run_id": "40943687184",
+    "run_at": "2026-10-30T16:10:39Z",
+    "run_id": "41087413635",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 404,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Miranda Hart Opens Up About Emotional Return to Television on Celebrity Traitors Following 10-Year Battle with ME",
-      "Oscar Winner Jessie Buckley Set for West End Return on Modest Daily Rate"
+      "From Zoya Hussain in Hunkkaar 2 to Chandan Roy Sanyal in Aashram 4: 5 OTT characters we want to see return",
+      "Ramayana: Before Ranbir Kapoor's Ramayana, How Adipurush & Other Films Based On The Epic Fared At Box Office",
+      "Naagin 8 Main Cast: Will Bigg Boss 18 Fame Shrutika Arjun Join New Season Of Ekta Kapoor's Show?",
+      "Gajab Raat OTT Verdict: Manoj Bajpayee Debuts With A Roaring Viewership – Breaks 3 Opening Records On Netflix!",
+      "'Drishyam' actor Kamlesh Sawant recalls accidentally slapping Ishita Dutta on set",
+      "Shraddha Kapoor reveals she suffered muscle tear while shooting dance sequence for 'Eetha'",
+      "GV Prakash officially replaces Ilaiyaraaja in 'Pocket Novel'",
+      "Inside Saif Ali Khan's Rs 800 crore Pataudi Palace: 150 rooms, grand verandas",
+      "Since the mid-2000s, Patrick Stewart has worked with DV survivors and advocacy groups in his mother’s name",
+      "Should Morgan And Sasha Be Endgame On Nobody Wants This? We Have Conflicting Thoughts",
+      "After James Gunn Clarified The State Of Batman And Joker In The DCU, I've Got A Question",
+      "'The Princess and the Frog' Special With Original Cast Officially Confirmed for Disney+ [Exclusive]",
+      "HBO's 'Harry Potter' Series Officially Confirms the Appearance of 5 Key Characters",
+      "‘Over the Garden Wall’ Officially Gets a New Expanded Release With Never-Before-Seen Art",
+      "'Dark Matter' Boss Exposes the Biggest Threat for Season 3 After That Cliffhanger",
+      "Forget James Bond, This Revenge Sequel Turns Its Franchise Into an International Spy Thriller",
+      "Star Trek’s John Cho Joins Doctor Strange 2 Co-Lead in Brand New Horror Movie",
+      "Jack Nicholson’s Acting Retirement Gets Major Update From Michael Douglas",
+      "Daniel Radcliffe & Peter Dinklage’s Cinderella Movie Is Just a Few Weeks Away",
+      "Vision Talks to Vision in Confusing VisionQuest Clip Ahead of Episode 7"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 396,
+     "detail": "404 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1424,27 +1403,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T16:10:56Z",
+    "run_id": "41087413635",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "HBO Harry Potter Series Announces Five Key Cast Additions Including Sorting Hat",
+      "Naomi Scott and Kit Harington Traverse Time and Emotion in the New Trailer for Eternal Return"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T20:51:15Z",
-    "run_id": "40952592713",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 50, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1858,26 +1840,27 @@
      "detail": "now 52, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T19:56:19Z",
-    "run_id": "40943687184",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T16:10:56Z",
+    "run_id": "41087413635",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 57,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 52, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2268,27 +2251,29 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T16:12:01Z",
+    "run_id": "41087413635",
+    "status": "success",
+    "checked": {
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "lzeen0",
+      "3152s9"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T18:56:34Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": {
-     "candidates": 293,
-     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 13,
-     "detail": "+0 new rows, 13 updated rows, 280 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2702,19 +2687,27 @@
      "detail": "+0 new rows, 3 updated rows, 317 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T16:11:59Z",
+    "run_id": "41087413635",
+    "status": "success",
+    "checked": {
+     "candidates": 320,
+     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+0 new rows, 9 updated rows, 311 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2970,30 +2963,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T19:56:19Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Miranda Hart Opens Up About Emotional Return to Television on Celebrity Traitors Following 10-Year Battle with ME",
-      "Oscar Winner Jessie Buckley Set for West End Return on Modest Daily Rate"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3458,19 +3440,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T16:12:01Z",
+    "run_id": "41087413635",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "HBO Harry Potter Series Announces Five Key Cast Additions Including Sorting Hat",
+      "Naomi Scott and Kit Harington Traverse Time and Emotion in the New Trailer for Eternal Return"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3735,64 +3728,19 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T18:52:05Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": {
-     "candidates": 459,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 41,
-      "pk_movies": 18
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Tum Mere Ho (1806232)",
-      "Hostel Haadsa (340197)",
-      "You, Me, Us (1541477)",
-      "Balaraw: Blood Island (313699)",
-      "Dilwali diwali (1810711)",
-      "Minimum Wage (321221)",
-      "Final Table (316702)",
-      "in the heart there is a stone (1810428)",
-      "YAGA (314360)",
-      "Tigers Sniff the Rose (286171)",
-      "Bullseye (1810021)",
-      "Married to the Filipino Mafia (1805448)",
-      "Life Sure Is Sweet (1804764)",
-      "Journey to the End of the Ego (1803407)",
-      "Over Stregen (1802542)",
-      "Douvina (1799016)",
-      "Mono No Aware (1798500)",
-      "The Whores Feast (1796580)",
-      "Hit the Books, Harry! (1795690)",
-      "La Esquina tá en Candela (1791401)"
-     ],
-     "updated": [],
-     "count": 20
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4067,29 +4015,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T18:52:38Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 432 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, box_office 9/6, celebrities_events 7/5, upcoming_releases 6/4, ott_streaming 5/4, trailers 2/3, awards 0/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "MGM+ Reveals First-Look Photos for 'Bosch: Start Of Watch' Prequel Series",
-      "Universal Music Group Reports $3.78 Billion in Revenue for Q3 2026"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4534,19 +4472,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T16:10:56Z",
+    "run_id": "41087413635",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 396 still unprocessed; today by category: movies 7/6, tv_dramas 3/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 3/3, awards 2/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "HBO Harry Potter Series Announces Five Key Cast Additions Including Sorting Hat",
+      "Naomi Scott and Kit Harington Traverse Time and Emotion in the New Trailer for Eternal Return"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4788,24 +4736,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 210,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5125,24 +5068,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 254,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5457,24 +5400,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 68,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5719,19 +5662,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5966,19 +5909,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6234,19 +6177,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6487,19 +6430,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6729,19 +6672,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T18:56:44Z",
-    "run_id": "40934580555",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6994,8 +6937,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T16:12:09Z",
+    "run_id": "41087413635",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T15:20:14Z"
+ "updated_at": "2026-10-30T16:12:09Z"
 }
