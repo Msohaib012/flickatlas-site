@@ -2,54 +2,52 @@
  "today_pkt": "2026-10-30",
  "sources": 137,
  "status": {
-  "not_due": 104,
-  "ok": 24,
-  "error": 5,
-  "unchanged": 4
+  "ok": 62,
+  "not_due": 52,
+  "unchanged": 16,
+  "error": 7
  },
- "queue_total": 281,
- "stories_total": 281,
- "duplicates_removed": 13,
+ "queue_total": 334,
+ "stories_total": 343,
+ "duplicates_removed": 0,
  "categories": {
-  "Box Office": 6,
-  "Awards": 1,
-  "Trailers": 2,
-  "Music / OST": 6,
-  "Episodes": 4,
-  "Upcoming releases": 1,
-  "OTT / Streaming": 13,
+  "Box Office": 12,
+  "Awards": 4,
+  "Trailers": 5,
+  "Music / OST": 10,
+  "Episodes": 12,
+  "Upcoming releases": 0,
+  "OTT / Streaming": 10,
   "TV & Dramas": 3,
   "Celebrity news & events": 14,
-  "Movies": 228,
-  "Entertainment viral": 3
+  "Movies": 260,
+  "Entertainment viral": 4
  },
  "dropped": {
-  "section-page": 46,
-  "not-today": 15,
-  "slug-title": 3,
-  "no-date": 55
+  "not-today": 5,
+  "fallback-blocked-non-entertainment": 8
  },
  "per_source": [
   {
    "source": "AddaToday",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 25,
+   "note": ""
   },
   {
    "source": "Bollywood Hungama",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "FilmiBeat",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Gadgets 360 Entertainment",
@@ -60,10 +58,10 @@
   },
   {
    "source": "Koimoi",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "NRIPage",
@@ -74,73 +72,73 @@
   },
   {
    "source": "Pinkvilla",
-   "status": "not_due",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "HTTP 404 (bot-block ho sakta hai)"
   },
   {
    "source": "Sacnilk",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "ShowPulp",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "UpcomingZone",
-   "status": "ok",
-   "new": 0,
-   "total": 4,
-   "note": ""
-  },
-  {
-   "source": "Filmfare",
-   "status": "ok",
-   "new": 1,
-   "total": 1333,
-   "note": ""
-  },
-  {
-   "source": "Times of India — Entertainment",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "Filmfare",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "Times of India — Entertainment",
+   "status": "ok",
+   "new": 8,
+   "total": 20,
+   "note": ""
   },
   {
    "source": "Tellychakkar",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "6h cadence: check not due"
+  },
+  {
+   "source": "Hindustan Times — Entertainment",
+   "status": "ok",
+   "new": 2,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Indian Express — Entertainment",
    "status": "error",
    "new": 0,
    "total": 0,
    "note": "HTTP 403 (bot-block ho sakta hai)"
   },
   {
-   "source": "Hindustan Times — Entertainment",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Indian Express — Entertainment",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
    "source": "India Today — Movies",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
   },
   {
    "source": "News18 — Entertainment",
@@ -165,10 +163,10 @@
   },
   {
    "source": "Mid-Day — Entertainment",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 500,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "DNA India — Entertainment",
@@ -179,10 +177,10 @@
   },
   {
    "source": "Bollywood Bubble",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 15,
+   "note": ""
   },
   {
    "source": "MissMalini",
@@ -193,87 +191,87 @@
   },
   {
    "source": "Instant Bollywood",
-   "status": "error",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "HTTP 502 (bot-block ho sakta hai)"
+   "note": "6h cadence: check not due"
   },
   {
    "source": "IndiaGlitz",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 11,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Aaj Tak — Entertainment",
-   "status": "ok",
-   "new": 12,
-   "total": 253,
-   "note": ""
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "NDTV Movies",
-   "status": "error",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "HTTP 403 (bot-block ho sakta hai)"
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Times Now — Entertainment",
-   "status": "ok",
-   "new": 12,
-   "total": 120,
-   "note": ""
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Film Companion",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": ""
   },
   {
    "source": "OTTplay",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": ""
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Box Office Mojo",
-   "status": "ok",
-   "new": 1,
-   "total": 99,
-   "note": ""
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "CinemaBlend",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Collider",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 9,
+   "total": 10,
+   "note": ""
   },
   {
    "source": "ComingSoon.net",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
   },
   {
    "source": "FirstShowing.net",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
   },
   {
    "source": "IMDb",
@@ -284,129 +282,129 @@
   },
   {
    "source": "MovieWeb",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Screen Rant",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 9,
+   "total": 10,
+   "note": ""
   },
   {
    "source": "The Numbers",
-   "status": "ok",
-   "new": 16,
-   "total": 121,
-   "note": ""
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Variety",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 4,
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Deadline",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 5,
+   "total": 12,
+   "note": ""
   },
   {
    "source": "The Hollywood Reporter",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 4,
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Rotten Tomatoes",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 62673,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "TheWrap",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Box Office Pro",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Screen Daily",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "IndieWire",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Vulture",
    "status": "ok",
-   "new": 1,
-   "total": 32042,
+   "new": 10,
+   "total": 10,
    "note": ""
   },
   {
-   "source": "The Playlist",
+   "source": "Box Office Pro",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 403 (bot-block ho sakta hai)"
+  },
+  {
+   "source": "Screen Daily",
+   "status": "ok",
+   "new": 1,
+   "total": 5,
+   "note": ""
+  },
+  {
+   "source": "IndieWire",
+   "status": "ok",
+   "new": 1,
+   "total": 12,
+   "note": ""
+  },
+  {
+   "source": "Vulture",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "The Playlist",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
   },
   {
    "source": "JoBlo",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "SlashFilm",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 20,
+   "note": ""
   },
   {
    "source": "Empire",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Total Film (GamesRadar)",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "TVLine",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "The Futon Critic",
@@ -417,66 +415,66 @@
   },
   {
    "source": "TV Guide",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 65,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Gold Derby",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "AwardsWatch",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Decider",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "JustWatch",
    "status": "ok",
-   "new": 19,
-   "total": 331,
+   "new": 2,
+   "total": 12,
    "note": ""
   },
   {
-   "source": "Reelgood",
-   "status": "error",
+   "source": "AwardsWatch",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "HTTP 403 (bot-block ho sakta hai)"
+   "note": "304, feed badli nahi"
+  },
+  {
+   "source": "Decider",
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
+  },
+  {
+   "source": "JustWatch",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "Reelgood",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "What's on Netflix",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Trailer Addict",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "SpoilerTV",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 4,
+   "total": 25,
+   "note": ""
   },
   {
    "source": "Rolling Stone",
@@ -494,10 +492,10 @@
   },
   {
    "source": "ARY Digital HD (YouTube)",
-   "status": "not_due",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "HTTP 404 (bot-block ho sakta hai)"
   },
   {
    "source": "BrieflyShort",
@@ -508,80 +506,80 @@
   },
   {
    "source": "Daily Showbiz",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Dawn — Images/ICON",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "DramaFlight",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
-  },
-  {
-   "source": "DramaPur",
-   "status": "unchanged",
-   "new": 0,
-   "total": 0,
-   "note": "304, feed badli nahi"
-  },
-  {
-   "source": "Dramas.pk",
    "status": "ok",
    "new": 0,
-   "total": 1304,
+   "total": 26,
    "note": ""
   },
   {
-   "source": "Green TV Entertainment (YouTube)",
+   "source": "DramaFlight",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "6h cadence: check not due"
+  },
+  {
+   "source": "DramaPur",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "6h cadence: check not due"
+  },
+  {
+   "source": "Dramas.pk",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "Green TV Entertainment (YouTube)",
+   "status": "error",
+   "new": 0,
+   "total": 0,
+   "note": "HTTP 404 (bot-block ho sakta hai)"
   },
   {
    "source": "HAR PAL GEO (YouTube)",
-   "status": "not_due",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "HTTP 404 (bot-block ho sakta hai)"
   },
   {
    "source": "HUM TV (YouTube)",
-   "status": "not_due",
+   "status": "error",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "HTTP 404 (bot-block ho sakta hai)"
   },
   {
    "source": "Parhlo",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 6,
+   "note": ""
   },
   {
    "source": "Showbiz Daily (Blogspot)",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Showbiz Secret",
    "status": "unchanged",
    "new": 0,
    "total": 0,
    "note": "304, feed badli nahi"
+  },
+  {
+   "source": "Showbiz Secret",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "6h cadence: check not due"
   },
   {
    "source": "HUM TV (official site)",
@@ -592,185 +590,185 @@
   },
   {
    "source": "ARY Digital (official site)",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 13,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "GEO TV",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 100,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Green Entertainment (official site)",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 2,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "Galaxy Lollywood",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "ARY News — Entertainment",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "The News — Instep",
    "status": "ok",
    "new": 0,
-   "total": 47,
+   "total": 20,
    "note": ""
   },
   {
-   "source": "AsianWiki",
+   "source": "The News — Instep",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "AsianWiki",
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Dramabeans",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 7,
+   "note": ""
   },
   {
    "source": "DramaWiki (D-Addicts)",
-   "status": "error",
+   "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "HTTP 415 (bot-block ho sakta hai)"
+   "note": "12h cadence: check not due"
   },
   {
    "source": "HanCinema",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "6h cadence: check not due"
+  },
+  {
+   "source": "Kdrama Kisses",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "MyDramaList",
    "status": "ok",
    "new": 0,
    "total": 30,
    "note": ""
   },
   {
-   "source": "Kdrama Kisses",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "MyDramaList",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
    "source": "Soompi",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "VVIP Times",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "allkpop",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Koreaboo",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Yonhap News Agency — Entertainment",
    "status": "ok",
-   "new": 7,
-   "total": 70,
+   "new": 4,
+   "total": 30,
    "note": ""
   },
   {
-   "source": "British Comedy Guide",
+   "source": "VVIP Times",
+   "status": "ok",
+   "new": 10,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "allkpop",
+   "status": "ok",
+   "new": 12,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Koreaboo",
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
+  },
+  {
+   "source": "Yonhap News Agency — Entertainment",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "British Comedy Guide",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "British Period Dramas",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Digital Spy",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Flickering Myth",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Geektown",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "I Talk Telly",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "Radio Times",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "TellyMix",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "What to Watch (What's on TV)",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Daily Mail — TV & Showbiz",
@@ -795,17 +793,17 @@
   },
   {
    "source": "E! News",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 6,
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Just Jared",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 9,
+   "total": 25,
+   "note": ""
   },
   {
    "source": "People",
@@ -816,10 +814,10 @@
   },
   {
    "source": "TMZ",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 20,
+   "note": ""
   },
   {
    "source": "Entertainment Weekly",
@@ -830,24 +828,24 @@
   },
   {
    "source": "Famous Birthdays",
-   "status": "ok",
-   "new": 0,
-   "total": 23,
-   "note": ""
-  },
-  {
-   "source": "The Famous People",
-   "status": "ok",
-   "new": 8,
-   "total": 73,
-   "note": ""
-  },
-  {
-   "source": "Page Six",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "The Famous People",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "Page Six",
+   "status": "ok",
+   "new": 6,
+   "total": 10,
+   "note": ""
   },
   {
    "source": "US Weekly",
@@ -858,136 +856,136 @@
   },
   {
    "source": "Entertainment Tonight",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 2,
+   "note": ""
   },
   {
    "source": "Something Haute",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "HELLO! Pakistan (H! Pakistan Magazine)",
-   "status": "ok",
-   "new": 0,
-   "total": 1,
-   "note": ""
-  },
-  {
-   "source": "HELLO! Magazine",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "OK! Magazine UK",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Oddity Central",
-   "status": "ok",
-   "new": 0,
-   "total": 10,
-   "note": ""
-  },
-  {
-   "source": "Interesting Engineering",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "New Atlas",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Futurism",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "ScienceAlert",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Bored Panda",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Hindustan Times — Trending",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
-  },
-  {
-   "source": "Storypick",
    "status": "unchanged",
    "new": 0,
    "total": 0,
    "note": "304, feed badli nahi"
   },
   {
-   "source": "Mangobaaz",
+   "source": "HELLO! Pakistan (H! Pakistan Magazine)",
    "status": "not_due",
    "new": 0,
    "total": 0,
-   "note": "hourly cadence: check not due"
+   "note": "12h cadence: check not due"
+  },
+  {
+   "source": "HELLO! Magazine",
+   "status": "ok",
+   "new": 3,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "OK! Magazine UK",
+   "status": "ok",
+   "new": 0,
+   "total": 25,
+   "note": ""
+  },
+  {
+   "source": "Oddity Central",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "6h cadence: check not due"
+  },
+  {
+   "source": "Interesting Engineering",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "New Atlas",
+   "status": "ok",
+   "new": 1,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Futurism",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "ScienceAlert",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Bored Panda",
+   "status": "ok",
+   "new": 0,
+   "total": 10,
+   "note": ""
+  },
+  {
+   "source": "Hindustan Times — Trending",
+   "status": "ok",
+   "new": 0,
+   "total": 30,
+   "note": ""
+  },
+  {
+   "source": "Storypick",
+   "status": "not_due",
+   "new": 0,
+   "total": 0,
+   "note": "6h cadence: check not due"
+  },
+  {
+   "source": "Mangobaaz",
+   "status": "unchanged",
+   "new": 0,
+   "total": 0,
+   "note": "304, feed badli nahi"
   },
   {
    "source": "LADbible",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 25,
+   "note": ""
   },
   {
    "source": "UNILAD",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 25,
+   "note": ""
   },
   {
    "source": "Rolling Stone Music",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Billboard",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "TechCrunch",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "hourly cadence: check not due"
+   "total": 20,
+   "note": ""
   }
  ]
 }

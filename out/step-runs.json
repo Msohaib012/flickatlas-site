@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T02:44:27Z",
-    "run_id": "40807972280",
-    "status": "success",
-    "checked": {
-     "candidates": 96,
-     "detail": "RSS/Atom items across 137 sources; 18 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'Prahaar - The Ujjwal Nikam Story' day 13: Rajkummar's film crosses Rs 21 crore",
-      "'Udta Teer' Nears Rs 50 Crore: Wednesday India haul dips to Rs 2.65 crore",
-      "'Jailer 2' BO Day 14: Rajinikanth starrer eyes Rs 750 crore worldwide",
-      "Priyanka Chopra's DIY mehendi for husband Nick Jonas on Karwa Chauth has a special touch for daughter Malti Marie",
-      "Naseeruddin Shah backs Jamia students, calls himself a 'dimagi Naxal' in fiery video",
-      "hrithik roshan shares emotional post for ex wife sussanne khan girlfriend saba azad reaction viral tmovf dskc 2682740 2026 10 29",
-      "shweta keswani supports shahana goswami open multiple relationships trolling tmova dskc 2682398 2026 10 29",
-      "tamannaah bhatia gives fitting reply to annu kapoor dudhiya badan remark because you are a woman article 156425120",
-      "oscar nominated actress barbara barrie passes away at 95 article 156425163",
-      "daredevil ajith kumars next with adhik ravichandran to be opposite of good bad ugly details of cast actress shoot date article 156425140",
-      "jailer 2 box office collection day 14 rajinikanth starrer crosses rs 750 crore worldwide creates history in kerala article 156425290",
-      "A Classic Bond Girl Is Officially Returning for a New Release",
-      "Netflix Scores Big With New 10-Part Sci-Fi Action Masterpiece That's Taking Over on Streaming",
-      "8 Great Sci-Fi Books That Became Even Better Movies",
-      "Why Claudia Was Recast For Interview With The Vampire Season 2",
-      "Sex And The City: Carrie & Mr. Big's Relationship Timeline",
-      "Review: Abbott Elementary Season 6 Halloween Special",
-      "How A Former Senior Netflix Staffer Launched One Of Japan’s Buzziest Indie Cinemas",
-      "Disney Theme Parks Division Eliminates at Least 100 Jobs",
-      "Barack Obama Rips Into Trump, Conservative Media for Outcry Over His Cheesecake Factory Jab: ‘Not Serious People’"
-     ],
-     "updated": [],
-     "count": 45,
-     "detail": "45 stories, 0 duplicates removed, 51 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T03:52:00Z",
     "run_id": "40814392703",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "281 stories, 13 duplicates removed, 119 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T02:44:37Z",
-    "run_id": "40807972280",
+    "run_at": "2026-10-30T01:51:17Z",
+    "run_id": "40988201865",
     "status": "success",
     "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 356,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 750 Crore Globally",
-      "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting protesting students in a new video"
+      "'Drishyam 3: The Conclusion' Day 28: Ajay Devgn's film maintains steady run",
+      "'Prahaar' day 14: The film falls Rs 31.39 cr short of reported Rs 60 cr budget",
+      "'Premada Oorali' BO day 35: Shree Raam film nears 'KGF: Chapter 2'",
+      "'Titans' BO day 8: Jayasurya's film trails 'Aadu 3' by Rs 34.08 cr",
+      "'Udta Teer' day 7: Ayushmann's film outperforms 'Pati Patni Aur Woh Do' by 15%",
+      "'Ranabaali' BO day 14: Vijay Deverakonda's film falls",
+      "Elke Sommer of 'Pink Panther' fame, passes away at 85",
+      "'Jailer 2' BO day 15: Rajinikanth starrer outperforms 'Coolie'",
+      "Rakul Preet Singh says Ramayana is India's representation to the world, reveals Surpanakha is a very misunderstood character",
+      "Sunny Deol was apprehensive about OTT 'debut' with a non-action film like Ikka right after Border 2, recalls Netflix's Ruchikaa Kapoor Sheikh",
+      "'Lost one of the greats': Hugh Jackman and Star Trek family mourn Patrick Stewart",
+      "Alia Bhatt Laughs Uncontrollably As Orry Dresses Like K3G’s Poo, Kareena Kapoor REACTS!",
+      "Yeah, Awkwafina Has Clocked How Many Birds She's Played In Movies Lately",
+      "After Drawing 14M Viewers, NBC’s Brilliant Hit Series Officially Returns Monday",
+      "'Slow Horses' Star Officially Joins Apple TV's Upcoming 'Outlander' Replacement",
+      "8 Netflix Miniseries You Can Watch in a Weekend",
+      "‘Smile 3’ Is Officially Happening, But There’s a Major Catch",
+      "Tom Selleck’s ‘Blue Bloods’ Return Is Officially Closer Than Ever",
+      "HBO’s Jon Bernthal-Led ‘Sopranos’ Spin-Off Is Officially a Streaming Hit",
+      "Disney Officially Reveals the Most Expensive Marvel Movie of All Time"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+     "count": 334,
+     "detail": "343 stories, 0 duplicates removed, 13 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T01:51:49Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Hugh Jackman, Star Trek Cast, and Hollywood Mourn Legendary Actor Sir Patrick Stewart",
+      "Drishyam 3: The Conclusion Box Office Collection Day 28: Ajay Devgn Starrer Concludes Week 4 With Rs 373 Crore Net"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T05:52:07Z",
-    "run_id": "40825697302",
-    "status": "success",
-    "checked": {
-     "candidates": 33,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 26, coming 7"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 52, coming 2"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T01:51:49Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": {
+     "candidates": 54,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 52, coming 2"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2234,27 +2224,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T02:54:52Z",
-    "run_id": "40807972280",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T01:51:52Z",
+    "run_id": "40988201865",
     "status": "success",
     "checked": {
-     "candidates": 291,
-     "detail": "290 collected staging rows from readers; 98 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 87,
-     "detail": "+0 new rows, 87 updated rows, 203 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2668,19 +2657,27 @@
      "detail": "+3 new rows, 4 updated rows, 307 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T01:51:50Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": {
+     "candidates": 316,
+     "detail": "314 collected staging rows from readers; 103 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 311 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2936,30 +2933,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T02:54:54Z",
-    "run_id": "40807972280",
-    "status": "success",
-    "checked": {
-     "candidates": 76,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting protesting students in a new video",
-      "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 750 Crore Globally"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 76 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3427,19 +3413,30 @@
      "detail": "api-news.json 82 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T01:51:52Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": {
+     "candidates": 84,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Hugh Jackman, Star Trek Cast, and Hollywood Mourn Legendary Actor Sir Patrick Stewart",
+      "Drishyam 3: The Conclusion Box Office Collection Day 28: Ajay Devgn Starrer Concludes Week 4 With Rs 373 Crore Net"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 84 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3711,19 +3708,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3998,29 +3995,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T02:44:37Z",
-    "run_id": "40807972280",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 45 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 2/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 750 Crore Globally",
-      "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting protesting students in a new video"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4465,19 +4452,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T01:51:49Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 334 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Hugh Jackman, Star Trek Cast, and Hollywood Mourn Legendary Actor Sir Patrick Stewart",
+      "Drishyam 3: The Conclusion Box Office Collection Day 28: Ajay Devgn Starrer Concludes Week 4 With Rs 373 Crore Net"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4720,24 +4717,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 184,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5057,19 +5049,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 205,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5399,19 +5396,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5661,19 +5663,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5908,19 +5910,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6150,19 +6152,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T03:57:58Z",
-    "run_id": "40814392703",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6403,19 +6405,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6645,19 +6647,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T02:55:08Z",
-    "run_id": "40807972280",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6910,8 +6912,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T01:52:00Z",
+    "run_id": "40988201865",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T00:54:58Z"
+ "updated_at": "2026-10-30T01:52:00Z"
 }

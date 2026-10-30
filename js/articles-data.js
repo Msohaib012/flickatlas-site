@@ -19165,5 +19165,210 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 22:55:29 +0000"
+  },
+  "11t5teu": {
+    "id": "11t5teu",
+    "type": "news",
+    "headline": "Hugh Jackman, Star Trek Cast, and Hollywood Mourn Legendary Actor Sir Patrick Stewart",
+    "dek": "Veteran actor Sir Patrick Stewart, celebrated for his iconic roles in Star Trek and the X-Men franchise, has passed away at the age of 86 in Los Angeles.",
+    "body": [
+      {
+        "h": "Passing of a Screen Legend",
+        "p": [
+          "Sir Patrick Stewart, renowned across generations for his unforgettable performances on stage and screen, died at his Los Angeles home on Wednesday, October 28. The veteran actor was 86 years old at the time of his passing.",
+          "His spokesperson confirmed that Stewart had been living with Alzheimer's disease and Lewy body dementia. The final chapter of his life was described by representatives as a brief and poignant journey, leading to an immense wave of grief across the international entertainment community."
+        ]
+      },
+      {
+        "h": "An Extraordinary Career Across Universes",
+        "p": [
+          "Stewart's celebrated career spanned prestigious Shakespearean theatre alongside enduring screen franchises that shaped modern pop culture. He achieved global fame as Captain Jean-Luc Picard in Star Trek: The Next Generation and as Professor Charles Xavier in the X-Men film series.",
+          "Throughout a career spanning more than six decades, he infused monumental characters with profound emotional depth, grace, and vulnerability. His performances made the vastness of space feel familiar and taught audiences that human differences can be a source of strength."
+        ]
+      },
+      {
+        "h": "Hugh Jackman and Marvel Remember a Friend",
+        "p": [
+          "Hugh Jackman, who shared the screen with Stewart in the X-Men films including Logan, paid a deeply personal tribute to his mentor and friend. Jackman praised him as one of the true greats of stage and screen, noting how much he learned from him.",
+          "Marvel Studios and Marvel president Kevin Feige also honored the actor, remembering his extraordinary grace and humanity in defining Professor Charles Xavier. Feige recalled his warmth and generosity upon first meeting the actor during the original X-Men production."
+        ]
+      },
+      {
+        "h": "The Star Trek Family Bids Farewell",
+        "p": [
+          "Fellow captains and colleagues from the Star Trek universe shared emotional farewells following the news of his death. William Shatner remembered Stewart as a magnificent actor and friend who brought intelligence and a deep sense of humanity to the bridge of the Enterprise.",
+          "Other franchise colleagues, including Jonathan Frakes, George Takei, and Wilson Cruz, expressed their devastation. They highlighted the hope, optimism, and vision of a brighter future that Stewart's portrayal of Captain Picard inspired in millions of viewers."
+        ]
+      },
+      {
+        "h": "Memories from the X-Men Set",
+        "p": [
+          "Younger co-stars from the X-Men and Logan productions recalled Stewart's extraordinary kindness and lighthearted humor behind the scenes. Dafne Keen shared that she had been drafting an email to him just before learning of his passing, remembering his colorful reading glasses and on-set jokes.",
+          "Rebecca Romijn and filmmakers Joe and Anthony Russo also shared heartfelt tributes. The Russo Brothers, who worked with Stewart on Avengers: Doomsday, thanked him for his exceptional integrity and for teaching audiences about humanity both on and off-screen."
+        ]
+      },
+      {
+        "h": "Collaborations and Industry Honors",
+        "p": [
+          "Creator Seth MacFarlane, who collaborated with Stewart on projects such as Family Guy, American Dad!, Ted, and Blunt Talk, remembered his peerless ability to elevate ordinary dialogue. MacFarlane marveled at Stewart's enduring humility, noting how the legendary actor still felt like a novice when approaching a new set.",
+          "Major industry institutions including the Academy and SAG-AFTRA also paid homage to his immense contributions. Production designer Dave Blass and actress Minnie Driver joined collaborators worldwide in remembering his listening ear, wise advice, and lasting legacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sir Patrick Stewart passed away at his Los Angeles home at the age of 86 after living with Alzheimer's disease and Lewy body dementia. Tributes poured in from across Hollywood, with co-stars like Hugh Jackman, William Shatner, and Dafne Keen remembering his extraordinary contributions to Star Trek, X-Men, and theatre."
+        ]
+      }
+    ],
+    "facts": [
+      "Sir Patrick Stewart died at his Los Angeles home on Wednesday, October 28.",
+      "He was 86 years old.",
+      "He had been diagnosed with Alzheimer's disease and Lewy body dementia.",
+      "Hugh Jackman starred opposite Stewart in the X-Men films and Logan.",
+      "William Shatner played Captain James T Kirk in the original Star Trek series.",
+      "Dafne Keen played Laura in Logan.",
+      "SAG-AFTRA stated Stewart had been a member since 1987."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Hugh Jackman",
+        "Kevin Feige",
+        "William Shatner",
+        "Jonathan Frakes",
+        "George Takei",
+        "Wilson Cruz",
+        "Dafne Keen",
+        "Rebecca Romijn",
+        "Seth MacFarlane",
+        "Minnie Driver",
+        "Dave Blass"
+      ],
+      "titles": [
+        "Star Trek",
+        "X-Men",
+        "Star Trek: The Next Generation",
+        "Logan",
+        "Avengers: Doomsday",
+        "Star Trek: Discovery",
+        "Family Guy",
+        "American Dad!",
+        "Ted",
+        "Blunt Talk",
+        "The Wilde Wedding"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart",
+      "Hugh Jackman Patrick Stewart",
+      "Star Trek Patrick Stewart",
+      "X-Men Professor X death"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/lost-one-of-the-greats-hugh-jackman-and-star-trek-family-mourn-patrick-stewart-302907116-16x9_0.jpg?VersionId=bv9QYryLAVdtdKjmmw0EujJypwAOqKQp",
+        "caption": "Hugh Jackman, Star Trek Cast, and Hollywood Mourn Legendary Actor Sir Patrick Stewart",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 07:00:30 +0530"
+  },
+  "h1stwj": {
+    "id": "h1stwj",
+    "type": "news",
+    "headline": "Drishyam 3: The Conclusion Box Office Collection Day 28: Ajay Devgn Starrer Concludes Week 4 With Rs 373 Crore Net",
+    "dek": "Ajay Devgn's thriller maintains a steady box office run on Day 28, bringing its total domestic net collection to Rs 373 crore and continuing its strong global performance.",
+    "body": [
+      {
+        "h": "Steady Box Office Performance on Day 28",
+        "p": [
+          "Ajay Devgn's starrer thriller has successfully wrapped up another strong week in cinemas, holding onto a remarkably consistent trajectory at the ticket counters. During its twenty-eighth day in theatres, the movie brought in an estimated revenue of Rs 90 lakh.",
+          "The daily collections remained completely steady compared to the preceding day's figures. Exhibited across thousands of locations, the film continues to draw loyal audiences even well into its fourth month of release."
+        ]
+      },
+      {
+        "h": "Total Domestic and Gross Earnings",
+        "p": [
+          "With the latest additions to its tally, the domestic net collection for the feature has now reached a massive Rs 373 crore milestone. Furthermore, its overall India gross earnings have climbed to an impressive Rs 446.72 crore.",
+          "The project has sustained a robust momentum domestically across multiple weeks, proving its enduring appeal among Hindi-language moviegoers who continue to support the theatrical run."
+        ]
+      },
+      {
+        "h": "International Markets and Worldwide Gross",
+        "p": [
+          "Beyond domestic borders, the thriller has also performed admirably in overseas territories. On its fourth Thursday alone, it added another Rs 15 lakh from international markets.",
+          "This overseas addition elevates the cumulative international gross to a noteworthy Rs 132.05 crore. When combined with the domestic figures, the worldwide gross collection stands firmly at an extraordinary Rs 578.77 crore."
+        ]
+      },
+      {
+        "h": "Audience Footfalls and Occupancy Rates",
+        "p": [
+          "Ticket window metrics highlight the steady fan turnout, with the feature recording 50,619 ticket sales during its fourth Thursday. This brings the cumulative theatrical footfalls to a staggering 16,181,039 since its premiere.",
+          "The Hindi 2D version recorded an overall occupancy of 8.79% on Thursday. Morning screenings started at 7.08%, afternoon shows grew to 8.67%, evening slots registered 9.50%, and night screenings peaked with the highest occupancy of the day at 9.92%."
+        ]
+      },
+      {
+        "h": "Weekly Breakdown of Collections",
+        "p": [
+          "A look back at the weekly trajectory shows a powerful opening week that generated Rs 245.50 crore. The second week followed with another solid contribution of Rs 87.50 crore to the domestic net total.",
+          "While the third week experienced a natural decline, adding Rs 28.85 crore, the fourth week has managed to secure an additional Rs 11.15 crore so far, capping off a stellar month in cinemas."
+        ]
+      },
+      {
+        "h": "Plot Background and Narrative Conflict",
+        "p": [
+          "The storyline continues years after protagonist Vijay Salgaonkar successfully outwitted law enforcement to safeguard his family. However, shadows from his past return to threaten his carefully constructed reality.",
+          "Meera Deshmukh reappears with vengeance rather than a pursuit of justice on her mind. Complicating matters further is a formidable new Crime Branch officer determined to dissect Vijay's psychological defenses and alibis."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's film Drishyam 3: The Conclusion concluded its fourth week at the box office with an estimated Rs 90 lakh on Day 28, bringing its total domestic net collection to Rs 373 crore. Supported by strong international numbers and steady daily occupancy, the thriller has reached a worldwide gross collection of Rs 578.77 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ajay Devgn starrer Drishyam 3: The Conclusion",
+      "Day 28 collection is estimated at Rs 90 lakh",
+      "Screenings held across 3,149 shows on Thursday, October 29, 2026",
+      "Domestic net collection stands at Rs 373 crore",
+      "India gross collection stands at Rs 446.72 crore",
+      "Overseas gross collection stands at Rs 132.05 crore",
+      "Worldwide gross collection stands at Rs 578.77 crore",
+      "Ticket sales reached 50,619 on fourth Thursday",
+      "Total footfalls reached 16,181,039",
+      "First week collection was Rs 245.50 crore",
+      "Second week collection was Rs 87.50 crore",
+      "Third week collection was Rs 28.85 crore",
+      "Fourth week collection stands at Rs 11.15 crore so far"
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Mohanlal",
+        "Vijay Salgaonkar",
+        "Meera Deshmukh"
+      ],
+      "titles": [
+        "Drishyam 3: The Conclusion",
+        "Drishyam 3"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 box office collection",
+      "Drishyam 3 Day 28",
+      "Ajay Devgn Drishyam 3 earnings",
+      "Drishyam 3 total collection Rs 373 crore"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135337489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Drishyam 3: The Conclusion Box Office Collection Day 28: Ajay Devgn Starrer Concludes Week 4 With Rs 373 Crore Net",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T06:17:30+05:30"
   }
 };
