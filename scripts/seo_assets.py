@@ -24,9 +24,10 @@ Outputs:
                      "daywise:<tmdb>", "cat:<industry>".
 
 Meta rules (owner: accurate titles, never page-name + site-name):
-  - Every title/description is built ONLY from fields rendered on that page.
-  - Box office, budget, review, rating, seasons and episodes appear only
-    when their corresponding published page data is available.
+  - Movie and series titles always include their complete fixed page-template
+    labels; article titles remain the full published headline.
+  - Descriptions include only page-backed story text and factual values;
+    no unavailable budget, box-office total, rating or review score is claimed.
   - Descriptions are natural, useful snippets under 160 chars; keyword
     phrases are page-specific and never claim playback/download services.
   - No invented titles, no keyword stuffing.
@@ -302,17 +303,11 @@ def title_join(values):
     return ", ".join(values[:-1]) + " & " + values[-1]
 
 
-def compact_detail_title(core, labels, limit=90):
-    """Keep the full title and as many verified detail labels as fit."""
+def detail_title(core, labels):
+    """Keep the full source title and every fixed page-template label."""
     core = plain_text(core) or "FlickAtlas"
-    labels = list(labels)
-    while labels:
-        suffix = title_join(labels)
-        candidate = core + " — " + suffix + " | FlickAtlas"
-        if len(candidate) <= limit:
-            return candidate
-        labels.pop()
-    return core
+    suffix = title_join(labels)
+    return core + (" — " + suffix if suffix else "") + " | FlickAtlas"
 
 
 def human_date(value):
@@ -327,28 +322,9 @@ def human_date(value):
         return value
 
 
-def news_title(headline, limit=60):
-    """Use a concise article title tag without changing its visible headline."""
-    headline = plain_text(headline) or "Entertainment Update"
-    brand = " | FlickAtlas"
-    if len(headline) + len(brand) <= limit:
-        return headline + brand
-    if ":" in headline:
-        base, tail = [part.strip() for part in headline.split(":", 1)]
-        if "box office" in base.casefold():
-            base = re.sub(r"\bcollection\b", "", base, flags=re.I)
-            base = re.sub(r"\s+", " ", base).strip()
-        words = tail.split()
-        for count in range(min(6, len(words)), 0, -1):
-            suffix = " ".join(words[-count:]).strip(" .,:;—–-")
-            candidate = base + " — " + suffix + brand
-            if suffix and len(candidate) <= limit:
-                return candidate
-        if base and len(base) + len(brand) <= limit:
-            return base + brand
-    room = max(1, limit - len(brand) - 1)
-    lead = trunc(headline, room).rstrip(" .,:;—–-")
-    return lead + "…" + brand
+def news_title(headline):
+    """Use the full published article headline without adding page labels."""
+    return plain_text(headline) or "Entertainment Update"
 
 
 def img_url(entry, kind="backdrop"):
@@ -364,7 +340,7 @@ def img_url(entry, kind="backdrop"):
 
 
 def title_meta(entry):
-    """Per-title (movie/TV) meta. Only facts the entry actually has."""
+    """Use fixed page-template labels; describe only facts the page supports."""
     title = plain_text(entry.get("title"))
     year = year_of(entry)
     ind = INDUSTRY_LABEL.get(entry.get("industry"), "World Cinema")
@@ -392,7 +368,7 @@ def title_meta(entry):
         review = {}
     has_review = bool(review)
     review_story = plain_text(review.get("story_plot"))
-    has_story = bool(overview or review_story)
+    story_source = overview or review_story
     review_score = _number(review.get("overall"))
     if is_tv:
         # Pakistani dramas have an episode list, not a Seasons table. Their
@@ -405,44 +381,49 @@ def title_meta(entry):
 
     disp = title + ((" (%s)" % year) if year else "")
     if is_tv:
-        labels = []
-        if seasons:
-            labels.append("Seasons")
-        if episodes:
-            labels.append("Episodes")
-        labels.append("Cast")
-        if has_story:
-            labels.append("Story")
+        # Pakistani dramas use the episode tracker rather than a Seasons
+        # table; all other series use the Seasons + Episodes format.
+        labels = (["Episodes", "Cast", "Story"]
+                  if entry.get("industry") == "pakistani" else
+                  ["Seasons", "Episodes", "Cast", "Story"])
     else:
-        # Cast is loaded for the movie detail page; other labels require
-        # corresponding data rendered on that page.
-        labels = ["Cast"]
-        if has_bo:
-            labels.append("Box Office Collection")
-        if budget > 0:
-            labels.append("Budget")
-        if has_story:
-            labels.append("Story")
-        if has_review:
-            labels.append("Review")
-        if rating and votes:
-            labels.append("Rating")
-    t = compact_detail_title(disp, labels)
+        labels = ["Cast", "Box Office Collection", "Budget", "Story",
+                  "Review", "Rating"]
+    t = detail_title(disp, labels)
 
-    subject = (natural_join(genres) + " " if genre_txt else "") + kind
-    article = "an" if subject[:1].lower() in "aeiou" else "a"
-    d = "%s is %s %s." % (disp, article, subject)
-    details = ["cast and story" if has_story else "cast"]
+    story_snippet = (trunc_description(story_source, 55).rstrip(" .")
+                     if story_source else "")
     if is_tv:
+        subject = (natural_join(genres) + " " if genre_txt else "") + kind
+        article = "an" if subject[:1].lower() in "aeiou" else "a"
+        d = "%s is %s %s." % (disp, article, subject)
+        details = []
+        if story_snippet:
+            details.append("story: " + story_snippet)
+        details.append("cast")
         if seasons:
             details.append("%d season%s" % (seasons, "s" if seasons != 1 else ""))
         if episodes:
             details.append("%d episodes" % episodes)
+        if rating and votes:
+            details.append("TMDB rating %.1f/10" % rating)
+        if release_date:
+            details.append("first air date %s" % human_date(release_date))
+        d = append_detail_list(d, details)
     else:
+        genre_label = "/".join(genres)
+        d = ("%s: %s film." % (disp, genre_label) if genre_label else
+             "%s is a film." % disp)
+        story_part = ""
+        if story_snippet:
+            end = "" if story_snippet.endswith("…") else "."
+            story_part = " Story: " + story_snippet + end
+        details = []
+        details.append("cast")
         if has_bo:
-            detail = "box office collection: India Net %s" % fmt_money(total_in)
+            detail = "box office collection %s" % fmt_money(total_in)
             if has_overseas:
-                detail += ", overseas %s" % fmt_money(total_ov)
+                detail += ", overseas " + fmt_money(total_ov)
             details.append(detail)
         if budget > 0:
             details.append("budget %s" % fmt_money(budget))
@@ -451,36 +432,38 @@ def title_meta(entry):
             if review_score > 0:
                 review_label += " %s/10" % ("%.1f" % review_score).rstrip("0").rstrip(".")
             details.append(review_label)
-    if rating and votes:
-        details.append("TMDB rating %.1f/10" % rating)
-    if release_date:
-        date_label = "first air date" if is_tv else "release date"
-        details.append("%s %s" % (date_label, human_date(release_date)))
-    d = append_detail_list(d, details)
+        if rating and votes:
+            details.append("TMDB rating %.1f/10" % rating)
+        if release_date:
+            details.append("release date " + human_date(release_date))
+        while details:
+            candidate = d + story_part + " See " + natural_join(details) + "."
+            if len(candidate) <= 160:
+                d = candidate
+                break
+            details.pop()
 
     kws = [title]
     if title:
         kws.append("%s TV series" % title if is_tv else "%s movie" % title)
         kws.append("%s cast" % title)
-    if has_story:
         kws.append("%s story" % title)
-    if is_tv:
-        if seasons:
-            kws.extend(["%s seasons" % title, "%s season %d" % (title, seasons)])
-        if episodes:
-            kws.extend(["%s episodes" % title, "%s %d episodes" % (title, episodes)])
-    elif has_bo:
-        kws.append("%s box office collection" % title)
-    if budget > 0:
-        kws.append("%s budget" % title)
-    if has_review:
-        kws.append("%s review" % title)
-    if rating and votes:
-        kws.append("%s rating" % title)
-    if release_date:
-        kws.append("%s %s" % (title, "first air date" if is_tv else "release date"))
-    if entry.get("trailer"):
-        kws.append("%s trailer" % title)
+        if is_tv:
+            if entry.get("industry") != "pakistani":
+                kws.append("%s seasons" % title)
+            kws.append("%s episodes" % title)
+            if seasons:
+                kws.append("%s season %d" % (title, seasons))
+            if episodes:
+                kws.append("%s %d episodes" % (title, episodes))
+        else:
+            kws.extend(["%s box office collection" % title,
+                        "%s budget" % title, "%s review" % title,
+                        "%s rating" % title])
+        if release_date:
+            kws.append("%s %s" % (title, "first air date" if is_tv else "release date"))
+        if entry.get("trailer"):
+            kws.append("%s trailer" % title)
     kws.extend("%s %s" % (title, genre) for genre in genres)
     if is_tv:
         if entry.get("industry") == "pakistani":
@@ -594,10 +577,44 @@ def news_topic_phrases(entry):
     return unique_keywords(out, 5)
 
 
+def news_description(entry):
+    """Use the article dek or first published paragraph for a factual snippet.
+
+    If a dek uses a generic reference such as "the actor", prefix its primary
+    headline entity when the article record identifies it. This adds a real
+    search term without inventing facts or inserting unrelated keywords.
+    """
+    headline = plain_text(entry.get("headline"))
+    source = plain_text(entry.get("dek"))
+    if not source:
+        for section in (entry.get("body") or []):
+            if not isinstance(section, dict):
+                continue
+            paragraphs = section.get("p") or []
+            if not isinstance(paragraphs, list):
+                paragraphs = [paragraphs]
+            source = next((plain_text(p) for p in paragraphs if plain_text(p)), "")
+            if source:
+                break
+    source = source or headline
+
+    entities = entry.get("entities") or {}
+    people = [plain_text(p) for p in (entities.get("people") or []) if plain_text(p)]
+    titles = [plain_text(t) for t in (entities.get("titles") or []) if plain_text(t)]
+    candidates = titles[:1] + people[:1]
+    headline_cf = headline.casefold()
+    source_cf = source.casefold()
+    primary = next((item for item in candidates
+                    if item.casefold() in headline_cf
+                    and item.casefold() not in source_cf), "")
+    if primary:
+        source = primary + ": " + source
+    return trunc_description(source, 160)
+
+
 def news_meta(entry):
     headline = plain_text(entry.get("headline"))
-    dek = plain_text(entry.get("dek"))
-    d = trunc_description(dek, 160) if dek else trunc_description(headline, 160)
+    d = news_description(entry)
     t = news_title(headline)
     ents = entry.get("entities") or {}
     stored = list((entry.get("keywords") or [])[:5])

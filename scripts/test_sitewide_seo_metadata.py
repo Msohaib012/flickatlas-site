@@ -133,25 +133,33 @@ news_titles = [value["t"] for key, value in generated_meta.items()
 assert len(news_titles) == len(set(news_titles)), (
     "compacted article metadata titles must remain unique")
 published_for_titles = seo.read_js_map(ROOT / "js/published-titles.js", "FA_PUBLISHED")
+articles_for_titles = seo.read_js_map(ROOT / "js/articles-data.js", "FA_ARTICLES")
 for key, value in generated_meta.items():
     assert all(isinstance(value.get(field), str) and value[field].strip()
                for field in ("t", "d", "k")), f"{key}: missing title/description/keywords"
     assert len(value["d"]) <= 160, f"{key}: dynamic description exceeds 160 characters"
     assert isinstance(value.get("ld"), dict), f"{key}: missing structured data"
     family, _, item_id = key.partition(":")
-    if family in ("cat", "news"):
+    if family == "cat":
         assert len(value["t"]) <= 60, f"{key}: generated title exceeds 60 characters"
+    if family == "news":
+        record = articles_for_titles[item_id]
+        assert value["t"] == seo.plain_text(record.get("headline")), (
+            f"{key}: news title must preserve its full published headline")
     if family in ("movie", "tv"):
         record = published_for_titles[item_id]
         core = seo.plain_text(record.get("title"))
         year = seo.year_of(record)
         if year:
             core += " (%s)" % year
-        assert value["t"] == core or value["t"].startswith(core + " — "), (
-            f"{key}: detailed title must preserve the exact film/show name")
-        if value["t"] != core:
-            assert value["t"].endswith(" | FlickAtlas") and len(value["t"]) <= 90, (
-                f"{key}: detailed title must fit the limit and retain the brand")
+        if family == "movie":
+            labels = "Cast, Box Office Collection, Budget, Story, Review & Rating"
+        elif record.get("industry") == "pakistani":
+            labels = "Episodes, Cast & Story"
+        else:
+            labels = "Seasons, Episodes, Cast & Story"
+        assert value["t"] == core + " — " + labels + " | FlickAtlas", (
+            f"{key}: title must preserve the full template labels and source name")
     if key.startswith("daywise:"):
         days = [row.get("day") for row in value.get("day_rows", [])]
         assert all(isinstance(day, int) and 1 <= day <= 30 for day in days), (
@@ -167,14 +175,18 @@ movie = seo.title_meta({
     "overview": "A village accountant returns home to settle an old dispute.",
     "budget": 0, "vote_average": 0, "vote_count": 0,
 })
-assert movie["t"].startswith("Glass Lantern")
-assert "Cast" in movie["t"] and "Story" in movie["t"]
-assert not any(term in movie["t"] for term in ("Budget", "Box Office", "Review", "Rating"))
+assert movie["t"] == (
+    "Glass Lantern (2026) — Cast, Box Office Collection, Budget, Story, "
+    "Review & Rating | FlickAtlas")
 assert "Glass Lantern story" in movie["k"]
 assert "Glass Lantern release date" in movie["k"]
-assert "Glass Lantern review" not in movie["k"]
-assert "cast and story" in movie["d"].casefold()
-assert "budget" not in movie["d"].casefold() and "review" not in movie["d"].casefold()
+for phrase in ("Glass Lantern box office collection", "Glass Lantern budget",
+               "Glass Lantern review", "Glass Lantern rating"):
+    assert phrase in movie["k"]
+assert "story:" in movie["d"].casefold() and "village accountant" in movie["d"].casefold()
+assert "cast" in movie["d"].casefold()
+assert not any(term in movie["d"].casefold()
+               for term in ("budget", "box office", "review", "rating"))
 assert "streaming" not in movie["d"].casefold()
 
 seo.DAYWISE = {"999": [{"day": "Day 1", "collection": 1234567, "overseas": 0}]}
@@ -188,9 +200,9 @@ rich_movie = seo.title_meta({
     "genres": ["Drama", "Comedy"], "budget": 40000000,
     "vote_average": 8.4, "vote_count": 100,
 })
-assert "Box Office Collection" in rich_movie["t"] and "Budget" in rich_movie["t"]
-assert "Review" in rich_movie["t"] and "Rating" in rich_movie["t"]
-for phrase in ("cast and story", "box office collection", "budget", "review 7/10",
+assert rich_movie["t"] == (
+    "X (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas")
+for phrase in ("story:", "cast", "box office collection", "budget", "review 7/10",
                "tmdb rating 8.4/10"):
     assert phrase in rich_movie["d"].casefold(), f"rich movie description missing {phrase}"
 for phrase in ("X box office collection", "X budget", "X review", "X rating"):
@@ -205,6 +217,13 @@ assert world_series["t"] == (
     "Ocean Signal (2024) — Seasons, Episodes, Cast & Story | FlickAtlas")
 assert "2 seasons" in world_series["d"] and "18 episodes" in world_series["d"]
 
+empty_series = seo.title_meta({
+    "id": "202", "title": "Quiet Harbour", "type": "tv", "industry": "world",
+    "overview": "",
+})
+assert empty_series["t"] == (
+    "Quiet Harbour — Seasons, Episodes, Cast & Story | FlickAtlas")
+
 saved_tracker = seo.EPISODE_TRACKER
 seo.EPISODE_TRACKER = {"episodes": {"tracker-row": {"drama": "Dar", "episode": 25}}}
 pakistani_series = seo.title_meta({
@@ -213,7 +232,9 @@ pakistani_series = seo.title_meta({
     "number_of_seasons": 1, "number_of_episodes": 1,
 })
 seo.EPISODE_TRACKER = saved_tracker
-assert "Seasons" not in pakistani_series["t"] and "Episodes" in pakistani_series["t"]
+assert pakistani_series["t"] == (
+    "Dar-E-Nijaat (2026) — Episodes, Cast & Story | FlickAtlas")
+assert "Seasons" not in pakistani_series["t"]
 assert "25 episodes" in pakistani_series["d"], (
     "Pakistani show SEO must use the tracker count, not stale TMDB count")
 
@@ -223,17 +244,21 @@ long_movie = seo.title_meta({
     "release_date": "2026-04-10", "overview": "A reported story.",
     "budget": 0, "vote_average": 0, "vote_count": 0,
 })
-assert (long_movie["t"] == long_name + " (2026)" or
-        long_movie["t"].startswith(long_name + " (2026) — ")), (
-    "long source film names must remain intact without truncation")
+assert long_movie["t"] == (
+    long_name + " (2026) — Cast, Box Office Collection, Budget, Story, "
+    "Review & Rating | FlickAtlas"), (
+    "long source film names and every template label must remain intact")
 
 article = seo.news_meta({
-    "id": "fixture-news", "headline": "Actor joins a new Hindi drama",
-    "dek": "A short, factual announcement about the casting.",
+    "id": "fixture-news", "headline": "Actor Name joins New Hindi Drama as lead",
+    "dek": "The actor joins New Hindi Drama in a lead role.",
     "published": "2026-10-30T12:00:00Z",
     "keywords": ["Actor Name", "New Hindi Drama"],
     "entities": {"people": ["Actor Name"], "titles": ["New Hindi Drama"]},
 })
+assert article["t"] == "Actor Name joins New Hindi Drama as lead"
+assert article["d"].startswith("Actor Name: ")
+assert "New Hindi Drama" in article["d"]
 assert article["ld"]["@type"] == "NewsArticle"
 assert article["ld"]["keywords"] == "Actor Name, New Hindi Drama"
 assert article["ld"]["datePublished"] == "2026-10-30"
@@ -242,9 +267,15 @@ assert "Actor Name New Hindi Drama" in article["k"]
 long_headline = ("Actor and filmmaker announce a major new Hindi cinema project "
                  "with several further details confirmed today")
 long_article = seo.news_meta({"id": "fixture-long-news", "headline": long_headline})
-assert len(long_article["t"]) <= 60
-assert long_article["t"].endswith(" | FlickAtlas") and "…" in long_article["t"]
-assert "……" not in long_article["t"], "title truncation must not add duplicate ellipses"
+assert long_article["t"] == long_headline
+assert "| FlickAtlas" not in long_article["t"] and "…" not in long_article["t"]
+
+body_only_article = seo.news_meta({
+    "id": "fixture-body-news", "headline": "Actor Name announces a new film",
+    "body": [{"h": "The Story", "p": ["Production on the new drama begins this winter."]}],
+    "entities": {"people": ["Actor Name"]},
+})
+assert body_only_article["d"].startswith("Actor Name: Production on the new drama")
 
 long_dek = ("This review covers the film's premise, cast and reported reception, "
             "then explains where its execution falls short. " * 5)
@@ -277,18 +308,22 @@ assert live_example["t"] == you_me_us["t"]
 assert live_example["d"] == you_me_us["d"]
 assert live_example["k"] == you_me_us["k"]
 assert live_example["t"] == (
-    "You, Me, Us (2026) — Cast, Story, Review & Rating | FlickAtlas")
+    "You, Me, Us (2026) — Cast, Box Office Collection, Budget, Story, "
+    "Review & Rating | FlickAtlas")
 assert all(term in live_example["d"].casefold() for term in (
-    "cast", "story", "review", "tmdb rating", "4.1/10"))
+    "cast", "story", "adoption", "review", "tmdb rating", "4.1/10"))
 assert "budget" not in live_example["d"].casefold()
+assert "box office collection" not in live_example["d"].casefold()
 assert "You, Me, Us review" in live_example["k"]
-assert "You, Me, Us budget" not in live_example["k"]
+assert "You, Me, Us budget" in live_example["k"]
+assert "You, Me, Us box office collection" in live_example["k"]
 
 bano = next(entry for entry in seo.PUBLISHED.values()
             if entry.get("type") == "tv" and entry.get("industry") == "pakistani"
             and seo.plain_text(entry.get("title")).casefold() == "bano")
 bano_meta = seo.title_meta(bano)
-assert "Seasons" not in bano_meta["t"] and "Episodes" in bano_meta["t"]
+assert bano_meta["t"] == "Bano (2026) — Episodes, Cast & Story | FlickAtlas"
+assert "Seasons" not in bano_meta["t"]
 assert "17 episodes" in bano_meta["d"]
 
 def maximum(values):
