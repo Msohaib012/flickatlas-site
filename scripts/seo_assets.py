@@ -269,10 +269,16 @@ def title_meta(entry):
     if genres:
         ld["genre"] = genres
     if rating and votes:
+        # TMDB ratings are a 0-10 scale: bestRating/worstRating MUST be
+        # declared or Google validates ratingValue against its default
+        # 1-5 range and flags every rating above 5 ("Rating is outside
+        # the specified or default range", first detected 2026-10-30).
         ld["aggregateRating"] = {
             "@type": "AggregateRating",
             "ratingValue": round(float(rating), 1),
             "ratingCount": int(votes),
+            "bestRating": 10,
+            "worstRating": 0,
         }
     if is_tv:
         if entry.get("number_of_seasons"):
