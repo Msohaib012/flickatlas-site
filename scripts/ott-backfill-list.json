@@ -1,0 +1,1996 @@
+{
+ "generated": "2026-10-30",
+ "purpose": "One-time OTT catalogue backlog (owner order 2026-10-30): movies released 2025-01-01..2026-10-30 that TODAY carry TMDB flatrate providers but could never enter the catalogue through the seeder's rolling 90-day freshness gate. Drained FIRST by scripts/title-seed.py (BACKLOG_PER_RUN per run, outside the normal ceiling). Every entry was verified twice on TMDB (discover + title/providers endpoints; a 10-title sample re-verified on independent endpoints, 10/10 match). Delete this file once drained.",
+ "floor": {
+  "bollywood": "vote_count >= 25 AND popularity >= 2.5 (TMDB popularity is near-noise for Indian titles; vote_count is the notability signal)",
+  "world": "vote_count >= 100 AND popularity >= 30.0",
+  "providers": "flatrate present TODAY in IN (Bollywood set) or IN/US (World set); region recorded is the one the seeder's own fetch_providers picks (IN, then US, then PK)"
+ },
+ "counts": {
+  "bollywood": 60,
+  "world": 48,
+  "total": 108
+ },
+ "titles": [
+  {
+   "id": 1408162,
+   "title": "Vishwanath & Sons",
+   "release_date": "2026-08-14",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-11",
+    "country": "IN"
+   },
+   "popularity": 15.111,
+   "vote_count": 41
+  },
+  {
+   "id": 1291608,
+   "title": "Dhurandhar",
+   "release_date": "2025-12-05",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix",
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-01-30",
+    "country": "IN"
+   },
+   "popularity": 14.447,
+   "vote_count": 380
+  },
+  {
+   "id": 1582770,
+   "title": "Dhurandhar: The Revenge",
+   "release_date": "2026-03-18",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix",
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-05",
+    "country": "IN"
+   },
+   "popularity": 10.53,
+   "vote_count": 174
+  },
+  {
+   "id": 1235877,
+   "title": "Jana Nayagan",
+   "release_date": "2026-07-22",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Zee5"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-21",
+    "country": "IN"
+   },
+   "popularity": 10.46,
+   "vote_count": 25
+  },
+  {
+   "id": 1508168,
+   "title": "Bethlehem Kudumba Unit",
+   "release_date": "2026-08-21",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-02",
+    "country": "IN"
+   },
+   "popularity": 9.364,
+   "vote_count": 38
+  },
+  {
+   "id": 1122030,
+   "title": "Alpha",
+   "release_date": "2026-07-02",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-28",
+    "country": "IN"
+   },
+   "popularity": 8.227,
+   "vote_count": 34
+  },
+  {
+   "id": 1479832,
+   "title": "DC",
+   "release_date": "2026-08-06",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Sun Nxt",
+     "Sonyliv Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-04",
+    "country": "IN"
+   },
+   "popularity": 8.206,
+   "vote_count": 32
+  },
+  {
+   "id": 1441228,
+   "title": "Irumudi",
+   "release_date": "2026-08-20",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-18",
+    "country": "IN"
+   },
+   "popularity": 7.962,
+   "vote_count": 30
+  },
+  {
+   "id": 1515729,
+   "title": "Blast",
+   "release_date": "2026-05-28",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-25",
+    "country": "IN"
+   },
+   "popularity": 7.914,
+   "vote_count": 79
+  },
+  {
+   "id": 1057265,
+   "title": "Peddi",
+   "release_date": "2026-06-03",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-09",
+    "country": "IN"
+   },
+   "popularity": 7.676,
+   "vote_count": 74
+  },
+  {
+   "id": 1484913,
+   "title": "Ikka",
+   "release_date": "2026-07-10",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-10",
+    "country": "IN"
+   },
+   "popularity": 7.301,
+   "vote_count": 27
+  },
+  {
+   "id": 1239134,
+   "title": "Bhooth Bangla",
+   "release_date": "2026-04-16",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-12",
+    "country": "IN"
+   },
+   "popularity": 7.121,
+   "vote_count": 71
+  },
+  {
+   "id": 1367220,
+   "title": "Karuppu",
+   "release_date": "2026-05-14",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-12",
+    "country": "IN"
+   },
+   "popularity": 6.804,
+   "vote_count": 37
+  },
+  {
+   "id": 1109086,
+   "title": "War 2",
+   "release_date": "2025-08-13",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-11-01",
+    "country": "KR"
+   },
+   "popularity": 6.669,
+   "vote_count": 77
+  },
+  {
+   "id": 1446616,
+   "title": "Tu Yaa Main",
+   "release_date": "2026-02-11",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-04-10",
+    "country": "IN"
+   },
+   "popularity": 6.329,
+   "vote_count": 65
+  },
+  {
+   "id": 1392469,
+   "title": "Cocktail 2",
+   "release_date": "2026-06-19",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-14",
+    "country": "IN"
+   },
+   "popularity": 5.862,
+   "vote_count": 40
+  },
+  {
+   "id": 1213898,
+   "title": "Border 2",
+   "release_date": "2026-01-23",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-03-20",
+    "country": "IN"
+   },
+   "popularity": 5.859,
+   "vote_count": 38
+  },
+  {
+   "id": 1389149,
+   "title": "Accused",
+   "release_date": "2026-02-27",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-02-27",
+    "country": "IN"
+   },
+   "popularity": 5.66,
+   "vote_count": 77
+  },
+  {
+   "id": 1511417,
+   "title": "Bāhubali: The Epic",
+   "release_date": "2025-10-29",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": null,
+   "popularity": 5.644,
+   "vote_count": 48
+  },
+  {
+   "id": 1542352,
+   "title": "Youth",
+   "release_date": "2026-03-19",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-04-16",
+    "country": "IN"
+   },
+   "popularity": 5.424,
+   "vote_count": 28
+  },
+  {
+   "id": 1257960,
+   "title": "Sikandar",
+   "release_date": "2025-03-29",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-05-25",
+    "country": "IN"
+   },
+   "popularity": 5.366,
+   "vote_count": 70
+  },
+  {
+   "id": 1083637,
+   "title": "Kantara - A Legend: Chapter 1",
+   "release_date": "2025-10-02",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-10-31",
+    "country": "IN"
+   },
+   "popularity": 5.245,
+   "vote_count": 106
+  },
+  {
+   "id": 1628367,
+   "title": "Kartavya",
+   "release_date": "2026-05-15",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-05-15",
+    "country": "IN"
+   },
+   "popularity": 5.185,
+   "vote_count": 36
+  },
+  {
+   "id": 1431068,
+   "title": "Main Vaapas Aaunga",
+   "release_date": "2026-06-11",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-07",
+    "country": "IN"
+   },
+   "popularity": 5.046,
+   "vote_count": 28
+  },
+  {
+   "id": 1424217,
+   "title": "Court: State vs. A Nobody",
+   "release_date": "2025-03-14",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-04-11",
+    "country": "IN"
+   },
+   "popularity": 5.027,
+   "vote_count": 42
+  },
+  {
+   "id": 1339876,
+   "title": "Mardaani 3",
+   "release_date": "2026-01-30",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-03-27",
+    "country": "IN"
+   },
+   "popularity": 5.012,
+   "vote_count": 45
+  },
+  {
+   "id": 1433117,
+   "title": "Kara",
+   "release_date": "2026-04-30",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-05-28",
+    "country": "IN"
+   },
+   "popularity": 4.946,
+   "vote_count": 38
+  },
+  {
+   "id": 1226572,
+   "title": "Superboys of Malegaon",
+   "release_date": "2025-02-27",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-04-25",
+    "country": "US"
+   },
+   "popularity": 4.776,
+   "vote_count": 57
+  },
+  {
+   "id": 1561687,
+   "title": "Made in Korea",
+   "release_date": "2026-03-12",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-03-12",
+    "country": "IN"
+   },
+   "popularity": 4.335,
+   "vote_count": 46
+  },
+  {
+   "id": 1241634,
+   "title": "Saiyaara",
+   "release_date": "2025-07-18",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-09-12",
+    "country": "IN"
+   },
+   "popularity": 4.33,
+   "vote_count": 159
+  },
+  {
+   "id": 1508564,
+   "title": "With Love",
+   "release_date": "2026-02-06",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-03-06",
+    "country": "IN"
+   },
+   "popularity": 4.113,
+   "vote_count": 32
+  },
+  {
+   "id": 1416391,
+   "title": "Toaster",
+   "release_date": "2026-04-15",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-04-15",
+    "country": "IN"
+   },
+   "popularity": 4.087,
+   "vote_count": 38
+  },
+  {
+   "id": 1153399,
+   "title": "Coolie",
+   "release_date": "2025-08-13",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-09-11",
+    "country": "IN"
+   },
+   "popularity": 3.901,
+   "vote_count": 104
+  },
+  {
+   "id": 1225915,
+   "title": "Jewel Thief - The Heist Begins",
+   "release_date": "2025-04-24",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-04-25",
+    "country": "IN"
+   },
+   "popularity": 3.893,
+   "vote_count": 97
+  },
+  {
+   "id": 1227128,
+   "title": "Raid 2",
+   "release_date": "2025-05-01",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-06-27",
+    "country": "IN"
+   },
+   "popularity": 3.822,
+   "vote_count": 63
+  },
+  {
+   "id": 1022453,
+   "title": "The Rajasaab",
+   "release_date": "2026-01-08",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-02-06",
+    "country": "IN"
+   },
+   "popularity": 3.744,
+   "vote_count": 37
+  },
+  {
+   "id": 847742,
+   "title": "Drishyam 3",
+   "release_date": "2026-05-20",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-18",
+    "country": "IN"
+   },
+   "popularity": 3.736,
+   "vote_count": 30
+  },
+  {
+   "id": 1290190,
+   "title": "Lokah Chapter 1: Chandra",
+   "release_date": "2025-08-28",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2025-10-31",
+    "country": "IN"
+   },
+   "popularity": 3.671,
+   "vote_count": 74
+  },
+  {
+   "id": 607141,
+   "title": "Be Happy",
+   "release_date": "2025-03-14",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-03-14",
+    "country": "IN"
+   },
+   "popularity": 3.463,
+   "vote_count": 26
+  },
+  {
+   "id": 1628448,
+   "title": "Maa Behen",
+   "release_date": "2026-06-04",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-04",
+    "country": "IN"
+   },
+   "popularity": 3.436,
+   "vote_count": 26
+  },
+  {
+   "id": 1306845,
+   "title": "Jaat",
+   "release_date": "2025-04-10",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-06-05",
+    "country": "IN"
+   },
+   "popularity": 3.374,
+   "vote_count": 36
+  },
+  {
+   "id": 1561969,
+   "title": "Baramulla",
+   "release_date": "2025-11-06",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-11-07",
+    "country": "IN"
+   },
+   "popularity": 3.367,
+   "vote_count": 59
+  },
+  {
+   "id": 1169516,
+   "title": "Welcome To The Jungle",
+   "release_date": "2026-06-25",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-21",
+    "country": "IN"
+   },
+   "popularity": 3.297,
+   "vote_count": 43
+  },
+  {
+   "id": 1190511,
+   "title": "Sitaare Zameen Par",
+   "release_date": "2025-06-20",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Sony Liv",
+     "Sonyliv Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-04-03",
+    "country": "IN"
+   },
+   "popularity": 3.213,
+   "vote_count": 59
+  },
+  {
+   "id": 1060046,
+   "title": "HIT: The Third Case",
+   "release_date": "2025-04-30",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-05-29",
+    "country": "IN"
+   },
+   "popularity": 3.19,
+   "vote_count": 69
+  },
+  {
+   "id": 1273049,
+   "title": "Dragon",
+   "release_date": "2025-02-21",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-03-21",
+    "country": "IN"
+   },
+   "popularity": 3.146,
+   "vote_count": 58
+  },
+  {
+   "id": 1227739,
+   "title": "Homebound",
+   "release_date": "2025-09-26",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-11-21",
+    "country": "IN"
+   },
+   "popularity": 3.106,
+   "vote_count": 72
+  },
+  {
+   "id": 1195430,
+   "title": "Deva",
+   "release_date": "2025-01-31",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-03-28",
+    "country": "IN"
+   },
+   "popularity": 3.059,
+   "vote_count": 71
+  },
+  {
+   "id": 1473354,
+   "title": "Sarvam Maya",
+   "release_date": "2025-12-25",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-01-30",
+    "country": "IN"
+   },
+   "popularity": 3.053,
+   "vote_count": 40
+  },
+  {
+   "id": 1196943,
+   "title": "Chhaava",
+   "release_date": "2025-02-14",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-04-10",
+    "country": "IN"
+   },
+   "popularity": 2.905,
+   "vote_count": 70
+  },
+  {
+   "id": 1196364,
+   "title": "Thamma",
+   "release_date": "2025-10-21",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-12-16",
+    "country": "IN"
+   },
+   "popularity": 2.83,
+   "vote_count": 59
+  },
+  {
+   "id": 1124838,
+   "title": "Kingdom",
+   "release_date": "2025-07-30",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-08-27",
+    "country": "IN"
+   },
+   "popularity": 2.756,
+   "vote_count": 37
+  },
+  {
+   "id": 1147546,
+   "title": "The Diplomat",
+   "release_date": "2025-03-07",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-05-09",
+    "country": "IN"
+   },
+   "popularity": 2.731,
+   "vote_count": 49
+  },
+  {
+   "id": 1259024,
+   "title": "Good Bad Ugly",
+   "release_date": "2025-04-09",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-05-08",
+    "country": "IN"
+   },
+   "popularity": 2.706,
+   "vote_count": 35
+  },
+  {
+   "id": 1396869,
+   "title": "Diés Iraé",
+   "release_date": "2025-10-30",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2025-12-05",
+    "country": "IN"
+   },
+   "popularity": 2.697,
+   "vote_count": 38
+  },
+  {
+   "id": 1415974,
+   "title": "Raat Akeli Hai - The Bansal Murders",
+   "release_date": "2025-11-27",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-12-19",
+    "country": "IN"
+   },
+   "popularity": 2.662,
+   "vote_count": 33
+  },
+  {
+   "id": 1216780,
+   "title": "Nadaaniyan",
+   "release_date": "2025-03-01",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-03-07",
+    "country": "IN"
+   },
+   "popularity": 2.655,
+   "vote_count": 57
+  },
+  {
+   "id": 1070186,
+   "title": "Eko",
+   "release_date": "2025-11-21",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-12-31",
+    "country": "IN"
+   },
+   "popularity": 2.587,
+   "vote_count": 44
+  },
+  {
+   "id": 1561955,
+   "title": "Stephen",
+   "release_date": "2025-12-05",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-12-05",
+    "country": "IN"
+   },
+   "popularity": 2.542,
+   "vote_count": 25
+  },
+  {
+   "id": 1297181,
+   "title": "Madharaasi",
+   "release_date": "2025-09-04",
+   "set": "bollywood",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-10-01",
+    "country": "IN"
+   },
+   "popularity": 2.505,
+   "vote_count": 35
+  },
+  {
+   "id": 1232569,
+   "title": "Pinocchio: Unstrung",
+   "release_date": "2026-07-22",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-25",
+    "country": "US"
+   },
+   "popularity": 163.211,
+   "vote_count": 151
+  },
+  {
+   "id": 1148365,
+   "title": "Matchbox the Movie",
+   "release_date": "2026-10-05",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Apple TV",
+     "Apple TV Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-09",
+    "country": "IN"
+   },
+   "popularity": 143.602,
+   "vote_count": 538
+  },
+  {
+   "id": 1236045,
+   "title": "Animals",
+   "release_date": "2026-10-09",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-09",
+    "country": "IN"
+   },
+   "popularity": 107.033,
+   "vote_count": 641
+  },
+  {
+   "id": 1339713,
+   "title": "Obsession",
+   "release_date": "2026-05-13",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "Peacock Premium",
+     "Peacock Premium Plus"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-30",
+    "country": "IN"
+   },
+   "popularity": 104.3,
+   "vote_count": 6409
+  },
+  {
+   "id": 755898,
+   "title": "War of the Worlds",
+   "release_date": "2025-07-29",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2025-07-30",
+    "country": "US"
+   },
+   "popularity": 101.39,
+   "vote_count": 1188
+  },
+  {
+   "id": 1377237,
+   "title": "Runner",
+   "release_date": "2026-09-07",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "Angel Studios"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-13",
+    "country": "US"
+   },
+   "popularity": 98.087,
+   "vote_count": 757
+  },
+  {
+   "id": 1084244,
+   "title": "Toy Story 5",
+   "release_date": "2026-06-17",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-23",
+    "country": "IN"
+   },
+   "popularity": 97.389,
+   "vote_count": 2760
+  },
+  {
+   "id": 1108427,
+   "title": "Moana",
+   "release_date": "2026-07-08",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-08",
+    "country": "US"
+   },
+   "popularity": 89.957,
+   "vote_count": 988
+  },
+  {
+   "id": 1275779,
+   "title": "Disclosure Day",
+   "release_date": "2026-06-10",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-21",
+    "country": "US"
+   },
+   "popularity": 87.838,
+   "vote_count": 3898
+  },
+  {
+   "id": 1375646,
+   "title": "Colony",
+   "release_date": "2026-05-21",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-11-07",
+    "country": "ES"
+   },
+   "popularity": 77.261,
+   "vote_count": 1445
+  },
+  {
+   "id": 1315772,
+   "title": "Minions & Monsters",
+   "release_date": "2026-06-24",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "Peacock Premium",
+     "Peacock Premium Plus"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-11",
+    "country": "US"
+   },
+   "popularity": 73.283,
+   "vote_count": 1340
+  },
+  {
+   "id": 1083381,
+   "title": "Backrooms",
+   "release_date": "2026-05-27",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Sony Liv",
+     "Sonyliv Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-14",
+    "country": "US"
+   },
+   "popularity": 69.609,
+   "vote_count": 3926
+  },
+  {
+   "id": 1368166,
+   "title": "The Housemaid",
+   "release_date": "2025-12-18",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video"
+    ]
+   },
+   "digital": {
+    "date": "2026-02-03",
+    "country": "US"
+   },
+   "popularity": 63.126,
+   "vote_count": 3285
+  },
+  {
+   "id": 1381078,
+   "title": "Love of Your Life",
+   "release_date": "2026-10-07",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-14",
+    "country": "US"
+   },
+   "popularity": 61.727,
+   "vote_count": 179
+  },
+  {
+   "id": 83533,
+   "title": "Avatar: Fire and Ash",
+   "release_date": "2025-12-17",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-24",
+    "country": "IN"
+   },
+   "popularity": 59.444,
+   "vote_count": 4612
+  },
+  {
+   "id": 980431,
+   "title": "Avatar Aang: The Last Airbender",
+   "release_date": "2026-07-24",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-26",
+    "country": "IN"
+   },
+   "popularity": 57.96,
+   "vote_count": 1399
+  },
+  {
+   "id": 1226863,
+   "title": "The Super Mario Galaxy Movie",
+   "release_date": "2026-04-01",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-05-19",
+    "country": "US"
+   },
+   "popularity": 57.003,
+   "vote_count": 3916
+  },
+  {
+   "id": 1339274,
+   "title": "Don't Leave the Kids Alone",
+   "release_date": "2026-05-14",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "VIX ",
+     "ViX Premium Amazon Channel"
+    ]
+   },
+   "digital": null,
+   "popularity": 55.412,
+   "vote_count": 159
+  },
+  {
+   "id": 1288069,
+   "title": "Tenzing",
+   "release_date": "2026-10-09",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Apple TV",
+     "Apple TV Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-16",
+    "country": "IN"
+   },
+   "popularity": 52.489,
+   "vote_count": 218
+  },
+  {
+   "id": 1084242,
+   "title": "Zootopia 2",
+   "release_date": "2025-11-26",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-01-26",
+    "country": "US"
+   },
+   "popularity": 51.132,
+   "vote_count": 3630
+  },
+  {
+   "id": 1340206,
+   "title": "Tuner",
+   "release_date": "2026-05-21",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "Paramount Plus Premium",
+     "Paramount Plus Essential",
+     "Paramount+ Amazon Channel",
+     "Paramount+ Roku Premium Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-23",
+    "country": "US"
+   },
+   "popularity": 49.444,
+   "vote_count": 626
+  },
+  {
+   "id": 1311031,
+   "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+   "release_date": "2025-07-18",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix",
+     "Amazon Prime Video",
+     "Crunchyroll",
+     "Crunchyroll Amazon Channel",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-28",
+    "country": "US"
+   },
+   "popularity": 48.136,
+   "vote_count": 2354
+  },
+  {
+   "id": 936075,
+   "title": "Michael",
+   "release_date": "2026-04-22",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-09",
+    "country": "US"
+   },
+   "popularity": 45.302,
+   "vote_count": 4641
+  },
+  {
+   "id": 1081003,
+   "title": "Supergirl",
+   "release_date": "2026-06-24",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "HBO Max Amazon Channel",
+     "HBO Max"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-28",
+    "country": "IN"
+   },
+   "popularity": 44.154,
+   "vote_count": 2667
+  },
+  {
+   "id": 1327819,
+   "title": "Hoppers",
+   "release_date": "2026-03-04",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-04-28",
+    "country": "US"
+   },
+   "popularity": 43.886,
+   "vote_count": 2493
+  },
+  {
+   "id": 1273221,
+   "title": "Scary Movie",
+   "release_date": "2026-06-03",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-21",
+    "country": "US"
+   },
+   "popularity": 42.819,
+   "vote_count": 2090
+  },
+  {
+   "id": 1007757,
+   "title": "Swapped",
+   "release_date": "2026-05-01",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-05-01",
+    "country": "IN"
+   },
+   "popularity": 40.395,
+   "vote_count": 2281
+  },
+  {
+   "id": 1228710,
+   "title": "The Mandalorian and Grogu",
+   "release_date": "2026-05-20",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-21",
+    "country": "US"
+   },
+   "popularity": 38.079,
+   "vote_count": 1939
+  },
+  {
+   "id": 1032863,
+   "title": "The Love Hypothesis",
+   "release_date": "2026-09-23",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-23",
+    "country": "IN"
+   },
+   "popularity": 36.729,
+   "vote_count": 686
+  },
+  {
+   "id": 1212763,
+   "title": "Evil Dead Burn",
+   "release_date": "2026-07-07",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-04",
+    "country": "US"
+   },
+   "popularity": 36.579,
+   "vote_count": 1852
+  },
+  {
+   "id": 950028,
+   "title": "The Invite",
+   "release_date": "2026-06-25",
+   "set": "world",
+   "providers": {
+    "region": "US",
+    "names": [
+     "HBO Max Amazon Channel",
+     "HBO Max"
+    ]
+   },
+   "digital": {
+    "date": "2026-10-23",
+    "country": "IN"
+   },
+   "popularity": 35.889,
+   "vote_count": 890
+  },
+  {
+   "id": 454639,
+   "title": "Masters of the Universe",
+   "release_date": "2026-06-03",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-07-22",
+    "country": "US"
+   },
+   "popularity": 35.864,
+   "vote_count": 2289
+  },
+  {
+   "id": 1078605,
+   "title": "Weapons",
+   "release_date": "2025-08-04",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2025-09-09",
+    "country": "US"
+   },
+   "popularity": 34.324,
+   "vote_count": 4215
+  },
+  {
+   "id": 1265609,
+   "title": "War Machine",
+   "release_date": "2026-02-12",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-03-06",
+    "country": "IN"
+   },
+   "popularity": 34.232,
+   "vote_count": 2670
+  },
+  {
+   "id": 1297842,
+   "title": "GOAT",
+   "release_date": "2026-02-11",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-03-24",
+    "country": "US"
+   },
+   "popularity": 33.395,
+   "vote_count": 1143
+  },
+  {
+   "id": 1301421,
+   "title": "The Sheep Detectives",
+   "release_date": "2026-04-30",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-06-24",
+    "country": "US"
+   },
+   "popularity": 32.953,
+   "vote_count": 1864
+  },
+  {
+   "id": 1168190,
+   "title": "The Wrecking Crew",
+   "release_date": "2026-01-28",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-01-28",
+    "country": "US"
+   },
+   "popularity": 32.854,
+   "vote_count": 1334
+  },
+  {
+   "id": 803796,
+   "title": "KPop Demon Hunters",
+   "release_date": "2025-06-20",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-06-20",
+    "country": "IN"
+   },
+   "popularity": 32.828,
+   "vote_count": 3333
+  },
+  {
+   "id": 447273,
+   "title": "Snow White",
+   "release_date": "2025-03-19",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2025-06-11",
+    "country": "IN"
+   },
+   "popularity": 32.721,
+   "vote_count": 1781
+  },
+  {
+   "id": 1440098,
+   "title": "Drawn Together",
+   "release_date": "2026-09-09",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-09-09",
+    "country": "US"
+   },
+   "popularity": 32.571,
+   "vote_count": 228
+  },
+  {
+   "id": 1516698,
+   "title": "The Last Sunrise",
+   "release_date": "2026-08-26",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Amazon Prime Video",
+     "Amazon Prime Video with Ads"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-26",
+    "country": "US"
+   },
+   "popularity": 32.373,
+   "vote_count": 234
+  },
+  {
+   "id": 1087192,
+   "title": "How to Train Your Dragon",
+   "release_date": "2025-06-06",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2025-07-15",
+    "country": "US"
+   },
+   "popularity": 31.8,
+   "vote_count": 3213
+  },
+  {
+   "id": 1242898,
+   "title": "Predator: Badlands",
+   "release_date": "2025-11-05",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2026-01-06",
+    "country": "US"
+   },
+   "popularity": 31.664,
+   "vote_count": 3859
+  },
+  {
+   "id": 1621552,
+   "title": "Facing El Chapo",
+   "release_date": "2026-08-21",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Netflix"
+    ]
+   },
+   "digital": {
+    "date": "2026-08-21",
+    "country": "US"
+   },
+   "popularity": 31.544,
+   "vote_count": 969
+  },
+  {
+   "id": 1290821,
+   "title": "Shelter",
+   "release_date": "2026-01-28",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Lionsgate Play Apple TV Channel",
+     "Lionsgate Play Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2026-02-24",
+    "country": "US"
+   },
+   "popularity": 31.226,
+   "vote_count": 2008
+  },
+  {
+   "id": 986056,
+   "title": "Thunderbolts*",
+   "release_date": "2025-04-30",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2025-07-01",
+    "country": "US"
+   },
+   "popularity": 30.529,
+   "vote_count": 4257
+  },
+  {
+   "id": 1218925,
+   "title": "Chainsaw Man - The Movie: Reze Arc",
+   "release_date": "2025-09-19",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "Crunchyroll",
+     "Sony Liv",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "digital": {
+    "date": "2025-12-09",
+    "country": "US"
+   },
+   "popularity": 30.327,
+   "vote_count": 1265
+  },
+  {
+   "id": 617126,
+   "title": "The Fantastic 4: First Steps",
+   "release_date": "2025-07-23",
+   "set": "world",
+   "providers": {
+    "region": "IN",
+    "names": [
+     "JioHotstar"
+    ]
+   },
+   "digital": {
+    "date": "2025-09-23",
+    "country": "US"
+   },
+   "popularity": 30.12,
+   "vote_count": 4079
+  }
+ ]
+}

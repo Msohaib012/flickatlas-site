@@ -62,6 +62,11 @@ Rules (selection, in order):
   - dedup within the run (a title can appear in several lists)
   - reserve up to two fresh slots for each date-ranked Hindi Recent source;
     the rest of the safety ceiling stays in the existing all-source mix
+  - one-time OTT backlog (2026-10-30): ids in
+    scripts/ott-backfill-list.json are published FIRST, up to
+    BACKLOG_PER_RUN per run, outside the ceiling — the 90-day gate
+    above applies to source-list selection only, never to this
+    curated list (its titles are old by design and provider-verified)
   - reserve at most two of the four daily backfill slots for Hindi Recent
     movies/TV, leaving at least two slots for the global newest-first pool
 Details-level rules (after fetching each picked id):
@@ -116,6 +121,18 @@ FRESH_WINDOW_DAYS = 7
 TRENDING_DRIP_PER_RUN = 5
 BACKFILL_PER_DAY = 4
 SAFETY_CEILING = 20
+# One-time OTT catalogue backlog (owner order 2026-10-30): the rolling
+# 90-day freshness gate meant 2025 / direct-to-OTT releases could NEVER
+# enter the catalogue, so the OTT rails starved. A curated, verified
+# list (scripts/ott-backfill-list.json — TMDB ids of movies that TODAY
+# carry flatrate providers) is drained FIRST, ahead of every other
+# phase, at BACKLOG_PER_RUN per run and OUTSIDE the normal ceiling, so
+# the daily fresh flow is never starved by the drain. The list is
+# static: ids already in FA_PUBLISHED are skipped, so the lane empties
+# itself; the file can be deleted once drained. Missing/corrupt file =
+# empty backlog, never a crash.
+BACKLOG_PER_RUN = 30
+BACKLOG_LIST = os.path.join(ROOT, "scripts", "ott-backfill-list.json")
 FRESH_DAYS = 90
 HINDI_RECENT_SOURCES = ("hindi_recent_movies", "hindi_recent_tv")
 HINDI_RECENT_PER_SOURCE = 2
@@ -809,6 +826,29 @@ def select(lists, published, cap):
     return picked
 
 
+def load_backlog_ids(path=BACKLOG_LIST):
+    """Read the one-time OTT backlog list -> ordered TMDB id strings.
+
+    File shape: {"titles": [{"id": 123, ...}, ...]} (extra fields are
+    the audit record; only `id` is consumed). A missing or corrupt
+    file is an empty backlog — this lane must never break the run."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        return []
+    except Exception as e:
+        print(f"title-seed: backlog list unreadable ({e}); "
+              "treating as empty", file=sys.stderr)
+        return []
+    out = []
+    for entry in (data or {}).get("titles") or []:
+        tid = str((entry or {}).get("id") or "")
+        if tid.isdigit():
+            out.append(tid)
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser(
         description="Seed TMDB titles into js/published-titles.js")
@@ -851,6 +891,23 @@ def main():
     lists = fetch_lists(key)
     picked = select(lists, published, cap)
     print(f"title-seed: {len(picked)} candidates selected")
+
+    # One-time OTT backlog FIRST (owner order 2026-10-30): curated ids
+    # from scripts/ott-backfill-list.json, ahead of the normal picks
+    # and outside the ceiling (see BACKLOG_PER_RUN). The publish loop
+    # below applies the same details/poster/title checks and provider
+    # enrichment as any other pick; ids already published are skipped
+    # here and again in the loop, so a drained list is inert.
+    backlog_ids = [t for t in load_backlog_ids()
+                   if t not in published]
+    if backlog_ids:
+        already = {str(t) for t, _m, _s in picked}
+        front = [(t, "movie", "ott_backfill")
+                 for t in backlog_ids[:BACKLOG_PER_RUN]
+                 if t not in already]
+        picked = front + picked
+        print(f"title-seed: ott backlog {len(backlog_ids)} remaining, "
+              f"{len(front)} prepended this run")
 
     today = time.strftime("%Y-%m-%d", time.gmtime())
     added, skipped = [], 0
