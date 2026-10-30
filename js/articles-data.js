@@ -22245,5 +22245,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-30T14:51:21Z"
+  },
+  "tvndti": {
+    "id": "tvndti",
+    "type": "news",
+    "headline": "Khushi Episode 48 — Watch on HUM TV",
+    "dek": "Khushi episode 48 aired on 2026-10-30 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 48 aired on 2026-10-30 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=dReHjLpsE08"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi aur Saim ki nayi shadi ki subah ka aaghaz hota hai. Saim Saima se milne ki wajah se der se aata hai jis par Khushi thori naraz hoti hai, lekin phir Saim usey ring gift karta hai aur woh khush ho jati hai. Doosri taraf, Ammar aur Samira ke darmiyan baatcheet hoti hai jahan Ammar apni uljhanein aur Saima ka zikr karta hai, aur Samira usey samjhati hai ke woh Saima ke baare mein sochna chor de aur apni zindagi par tawajjoh de.\n\nWaqt guzartay hi, ek bara drama tab shuru hota hai jab Saima ki tabiyat kharab honay ki khabar aati hai aur Saima ke walid (baba) ko heart attack ho jata hai. Woh aspataal mein admit hotay hain aur baad mein ghar wapas aate hain. Khushi ko jab is baat ka pata chalta hai toh woh pareshan ho jati hai aur Saima ki fikar mein Saim ke sath wahan janay ka faisla karti hai. Saim aur Khushi jab Saima ke ghar aate hain, toh wahan Ammar aur doosre ghar walay unhein dekh kar gusse mein aa jatay hain. Ammar aur Khushi ke walid (baba) Khushi ko wahan dekh kar sakht na-pasandigi ka izhar kartay hain aur kehtay hain ke unka Khushi se ab koi taluq nahi hai. Episode ka ikhtitam is tense cliffhanger par hota hai jahan Khushi aur Saim wahan phans jatay hain aur ghar walay unke aane par sakht gussa hotay hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 48 aired on 2026-10-30.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=dReHjLpsE08",
+      "YouTube views: 49,775.",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/dReHjLpsE08/hqdefault.jpg",
+        "caption": "Khushi Episode 48",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-30T15:00:35Z"
+  },
+  "3uv8qo": {
+    "id": "3uv8qo",
+    "type": "news",
+    "headline": "Uswah Episode 38 — Watch on Geo TV",
+    "dek": "Uswah episode 38 aired on 2026-10-30 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 38 aired on 2026-10-30 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=N7AebpXAtvE"
+        ]
+      },
+      {
+        "h": "About Uswah",
+        "p": [
+          "Uswah is a cheerful, intelligent, and ambitious young woman from a middle-class family who works part time to support her education and help her family. Her cousin Mahbir admires her confidence and strong character, and the two develop feelings for each other. However, Uswah’s life takes an unexpected turn when she meets Essa, a wealthy and confident university student who soon becomes her academic rival.\n\nA playful moment between Uswah and Essa seems insignificant at first, but it soon changes the course of their lives. Just as Uswah prepares to marry Mahbir, an unexpected revelation leaves her trapped in a situation she never imagined. Forced to face an unwanted relationship, Uswah finds herself caught between family expectations, love, and circumstances beyond her control."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Uswah ke is episode mein Uswah apni behan ko samajhti hai ke woh apna khayal khud rakhay aur kisi aur ke liye apnay rishtay ya khushiyon ko qurban na karay. Uswah khud ko apni halat aur faislon par doshi mehsoos karti hai. Is doran, eham kirdar apnay mazi aur mushkilat par baat karte hain. Mahabir apnay walid se apne rishtay ke baray mein baat karta hai aur woh is par naraz hotay hain ke usne rishtay ko asaan samajh rakha hai. Mahabir ki walda aur ghar walay bhi is baray mein pareshan hain aur kuch faislay karne ki koshish kar rahe hain. Uswah ke ghar par bhi behan bhaiyon aur waldein ke darmiyan guftagu hoti hai jahan rishton ke faislon aur shadi ke baray mein baat hoti hai. Ek scene mein maa apne bachon ki shadi ke baray mein khush fehmi ka izhar karti hai jab ke baqi log is par mukhtalif rad-e-amal detay hain. Episode ke ikhtitam par jazbati kashmakash barqar rehti hai aur aglay episodes ki jhalak dikhayi jati hai jahan naye mod aur pareshaniyan samne anay wali hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 38 aired on 2026-10-30.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=N7AebpXAtvE",
+      "YouTube views: 128,360.",
+      "TMDB: Uswah (id 336291).",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": [
+        "Omer Shahzad",
+        "Sania Shamshad",
+        "Haroon Shahid",
+        "Ammara Malik"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/N7AebpXAtvE/hqdefault.jpg",
+        "caption": "Uswah Episode 38",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-30T15:00:33Z"
+  },
+  "f9ahwu": {
+    "id": "f9ahwu",
+    "type": "news",
+    "headline": "Izzat Episode 41 — Watch on ARY Digital",
+    "dek": "Izzat episode 41 aired on 2026-10-30 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 41 aired on 2026-10-30 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Ysq02aKxOHU"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Tayyab aur Mohsin ke darmiyan company mein baat cheet hoti hai jahan Tayyab apni galti maanta hai aur kehta hai ke usey pehle hi wahan se nikal jana chahiye tha. Mohsin apne doston ki aur apni zindagi ke hawale se baat karta hai jabke Tayyab kehta hai ke jo kuch hua usme Mohsin ne bohot overreaction diya tha. Idhar Rania aur Rutba ke beech baat cheet hoti hai jahan Rania Rutba ko samjhaati hai ke aurton ko apnay haq ke liye awaz uthani chahiye aur woh Anas ko defend karti hai jabke Rutba ghamgeen hoti hai ke sab log uske sath aisa kyun kar rahe hain. Doosri taraf Mohsin aur uski biwi ke darmiyan bhi baat cheet hoti hai jahan Mohsin kehta hai ke Anas aur Rutba ke beech kuch aur bhi masla chal raha hai aur woh Anas se sach ugalwana chahta hai. Baad mein Mohsin Rutba ke ghar jata hai jahan purana khandaan maujood hota hai aur Mohsin sab ke samne khana aur baaki cheezein deta hai. Mohsin Rutba ke baap aur baqi ghar walon se akele mil kar baithta hai aur Rutba ke mutalliq kuch baat karne ki koshish karta hai, jiske baad episode ka ikhtetam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 41 aired on 2026-10-30.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Ysq02aKxOHU",
+      "YouTube views: 830.",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Ysq02aKxOHU/hqdefault.jpg",
+        "caption": "Izzat Episode 41",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-30T15:00:02Z"
+  },
+  "1xbxgvi": {
+    "id": "1xbxgvi",
+    "type": "news",
+    "headline": "Dastoor Episode 70 — Watch on Green TV",
+    "dek": "Dastoor episode 70 aired on 2026-10-30 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 70 aired on 2026-10-30 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=P2efxUpFKUI"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Shaza aur Mustafa ke darmiyan aik baar phir past ki baaton aur Aliyaan ko lekar tana-tana shuru hota hai. Mustafa apne baap (Dadu) se is baat par behas karta hai ke unhe Shaza aur uski family ke baare mein sach pata hona chahiye, lekin Dadu kehte hain ke jo ho gaya usse bhool jana behtar hai. Shaza aur Aliyaan ke beech bhi past ko lekar ranjish hai aur Aliyaan ko dar rehta hai ke kahin woh ek doosre se door na ho jayein.\n\nDusri taraf, Dadu aur baki ghar wale Shaza aur Mustafa ke behavior se pareshan hain. Dadu gusse mein kehte hain ke agar ghar mein bado ka ehtaram nahi hai to wahan rehne ka koi faida nahi. Dadu ki tabiyat kharab ho jati hai aur unka blood pressure high ho jata hai, jisse ghar mein aur zyada tension phail jati hai.\n\nBaad mein, Aliyaan, Shaza aur Mustafa ke masail ko hal karne ke liye koshish karti hai aur Dadu ko manane ki baat karti hai. Episode ke aakhir mein, Aliyaan Mustafa ko yeh samjhati hai ke use Dadu se maafi mangni chahiye taake ghar ka mahaul theek ho sake, aur Mustafa bhi is baat par raazi ho jata hai. Episode ishi tension aur koshishon ke saath khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 70 aired on 2026-10-30.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=P2efxUpFKUI",
+      "YouTube views: 38,338.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-10-30."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/P2efxUpFKUI/hqdefault.jpg",
+        "caption": "Dastoor Episode 70",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-30T14:45:10Z"
+  },
+  "6gb9ag": {
+    "id": "6gb9ag",
+    "type": "news",
+    "headline": "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT",
+    "dek": "Thalapathy Vijay's son Jason Sanjay makes his directorial debut with the heist-action thriller Sigma, starring Sundeep Kishan, which recently premiered on Netflix to divided audience reviews.",
+    "body": [
+      {
+        "h": "The Directorial Debut on OTT",
+        "p": [
+          "The much-anticipated Tamil heist-action thriller Sigma arrived on Netflix, marking the official directorial debut of Jason Sanjay, son of prominent actor Thalapathy Vijay. The project brought significant attention prior to its digital release, drawing curiosity from fans eager to witness the filmmaker's first major cinematic venture.",
+          "By landing on the streaming platform, the movie became accessible to a wider audience, including individuals who skipped its initial theatrical run. However, the subsequent digital premiere led to a wave of online discourse as viewers shared varied assessments of the overall production."
+        ]
+      },
+      {
+        "h": "Audience Reactions and Social Media Discourse",
+        "p": [
+          "Following the digital premiere, internet users took to various social platforms to voice their unfiltered opinions regarding the narrative and direction. While a faction of viewers acknowledged the project's visual presentation, a large number expressed dissatisfaction with the execution.",
+          "Critical feedback ranged from descriptions of the feature as a below-average outing to harsher dismissals of the writing. Many felt that the core concept deserved a much stronger narrative backbone than what was ultimately delivered on screen."
+        ]
+      },
+      {
+        "h": "Sundeep Kishan Wins Praise Amid Criticism",
+        "p": [
+          "Despite the overarching narrative shortcomings, leading actor Sundeep Kishan emerged as a primary highlight for many watchers. Reviewers commended his energetic screen presence, action delivery, and comic timing throughout the runtime.",
+          "In addition to the lead actor, supporting performances by cast members like Sampath Raj received favorable nods. Audiences noted that these particular elements provided temporary relief in a film otherwise weighed down by uneven pacing and forced comedy."
+        ]
+      },
+      {
+        "h": "Visual Appeal Versus Screenplay Flaws",
+        "p": [
+          "A recurring critique directed at the production concerned its screenplay and character development. Several reviewers pointed out that the script failed to fully capitalize on the inherent tension required for a high-stakes crime story.",
+          "Although technical attributes such as the cinematography gained appreciation for keeping the project looking polished, the lack of engaging content during key heist scenes left segments of the audience underwhelmed."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The storyline centers on Guru, an individual battling severe monetary troubles while managing a library established in honor of his deceased mother. His routine existence takes a sharp turn when he becomes entangled in a dangerous operation targeting a massive hidden fortune belonging to a gambling syndicate.",
+          "Blending elements of crime, comedy, emotion, and action, the narrative tracks this risky endeavor. The ensemble cast features names such as Faria Abdullah, Raju Sundaram, Sampath Raj, Anbu Thasan, Yogi Babu, and Sheila Rajkumar alongside the primary lead."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Technical Crew",
+        "p": [
+          "Beyond the directorial efforts of Jason Sanjay, the feature enlisted notable technical talent to shape its aesthetic and auditory landscape. Thaman S handled the musical composition for the project, setting the tone for the unfolding criminal activities.",
+          "Meanwhile, Krishnan Vasant managed the cinematography responsibilities, contributing to the visual polish that earned positive remarks from viewers even when the script faced heavy scrutiny."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jason Sanjay's directorial debut Sigma premiered on Netflix on October 30, receiving mixed reviews from audiences. While viewers appreciated Sundeep Kishan's performance and the film's visual appeal, many criticized the weak screenplay and overall execution."
+        ]
+      }
+    ],
+    "facts": [
+      "Sigma premiered on Netflix on October 30",
+      "Jason Sanjay is Thalapathy Vijay's son",
+      "Sundeep Kishan plays the lead role in Sigma",
+      "Thaman S composed the music for the film",
+      "Krishnan Vasant handled the cinematography"
+    ],
+    "entities": {
+      "people": [
+        "Jason Sanjay",
+        "Sundeep Kishan",
+        "Thalapathy Vijay",
+        "Sampath Raj",
+        "Faria Abdullah",
+        "Raju Sundaram",
+        "Anbu Thasan",
+        "Yogi Babu",
+        "Sheila Rajkumar",
+        "Thaman S",
+        "Krishnan Vasant"
+      ],
+      "titles": [
+        "Sigma"
+      ]
+    },
+    "keywords": [
+      "Sigma OTT review",
+      "Jason Sanjay directorial debut",
+      "Sundeep Kishan Sigma film",
+      "Sigma Netflix release"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135365936,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T20:17:53+05:30"
+  },
+  "1jefm3u": {
+    "id": "1jefm3u",
+    "type": "news",
+    "headline": "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries",
+    "dek": "A new four-part documentary titled Andrew Tate: Toxic Empire is set to premiere on Investigation Discovery and HBO Max, diving into the controversial rise of the brothers.",
+    "body": [
+      {
+        "h": "New Docuseries Explores the Rise of Andrew and Tristan Tate",
+        "p": [
+          "A forthcoming documentary project is set to examine the controversial path to prominence taken by internet personalities Andrew and Tristan Tate. The upcoming television project highlights their massive online reach, commercial enterprises, and the heavy scrutiny surrounding them.",
+          "The project comes from Investigation Discovery and aims to provide viewers with an in-depth look at how the brothers managed to capture widespread global attention through their polarizing digital footprint."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Details",
+        "p": [
+          "The four-part docuseries is officially scheduled to premiere on November 25, 2026. Audiences can catch the initial two hours beginning at 9 p.m. ET/PT on Investigation Discovery.",
+          "Following the premiere, the program will continue with weekly episodes airing on Wednesdays. In addition to its cable broadcast, the series will be made available for streaming on HBO Max."
+        ]
+      },
+      {
+        "h": "Inside the Scope and Interviews of the Documentary",
+        "p": [
+          "The production incorporates a variety of perspectives, featuring insights from former followers, industry insiders, and investigative journalists. It also highlights accounts from individuals who assert that they were harmed by the brothers.",
+          "Through these diverse accounts, the documentary investigates the methods used by the duo to cultivate their massive digital audience, emphasizing their frequent promotion of wealth, male dominance, and controversial viewpoints regarding women."
+        ]
+      },
+      {
+        "h": "Trailer Highlights Lifestyle and Controversial Statements",
+        "p": [
+          "The newly released preview for the series opens with Andrew Tate characterizing his lifestyle as the way most men wish to live. He tells his audience that they can achieve improved lives by following his guidance.",
+          "A narrator in the trailer points out the rapid growth of his popularity amid broader cultural conversations regarding masculinity and sexism. The preview also touches on claims that internet searches for Tate at one point outpaced those for Donald Trump and Kim Kardashian combined."
+        ]
+      },
+      {
+        "h": "Business Ventures and Serious Legal Allegations",
+        "p": [
+          "The documentary delves into the business activities of the brothers, including their webcam operations, online courses, and a private network known as the War Room. The curriculum of these courses allegedly instructed men on coercive techniques for recruiting women into webcamming.",
+          "Additionally, the preview addresses severe accusations directed at the brothers, such as assault, rape, and human trafficking. While some interviewees label Tate as a predator and criticize his public persona, Andrew Tate strongly denies all accusations, asserting that he is innocent and claiming that external forces are attempting to frame him."
+        ]
+      },
+      {
+        "h": "Production Team Behind the Project",
+        "p": [
+          "The development and execution of the docuseries involve several key industry figures. Julian P. Hobbs, Elli Hakami, and Adrian Murray serve as the directors and producers guiding the project.",
+          "Their work on the series brings together the investigative reporting and narrative framing required to present the multifaceted examination of the brothers' public and private operations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Investigation Discovery has scheduled a four-part docuseries titled Andrew Tate: Toxic Empire to premiere on November 25, 2026, with streaming also available on HBO Max. Directed and produced by Julian P. Hobbs, Elli Hakami, and Adrian Murray, the program examines the brothers' rise to fame, business activities, and serious legal allegations through interviews and trailer footage."
+        ]
+      }
+    ],
+    "facts": [
+      "Andrew Tate: Toxic Empire premieres on November 25, 2026",
+      "The docuseries has four parts",
+      "It will air on Investigation Discovery and stream on HBO Max",
+      "Julian P. Hobbs, Elli Hakami, and Adrian Murray are directors and producers"
+    ],
+    "entities": {
+      "people": [
+        "Andrew Tate",
+        "Tristan Tate",
+        "Julian P. Hobbs",
+        "Elli Hakami",
+        "Adrian Murray",
+        "Donald Trump",
+        "Kim Kardashian",
+        "Surya Singh"
+      ],
+      "titles": [
+        "Andrew Tate: Toxic Empire"
+      ]
+    },
+    "keywords": [
+      "Andrew Tate Toxic Empire",
+      "Andrew and Tristan Tate docuseries",
+      "Investigation Discovery Andrew Tate",
+      "Andrew Tate HBO Max"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Tate-Brothers.jpg?resize=1200,630",
+        "caption": "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 15:03:12 +0000"
   }
 };

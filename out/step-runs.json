@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T17:03:20Z",
-    "run_id": "40917441588",
-    "status": "success",
-    "checked": {
-     "candidates": 277,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Eetha Trailer First Review: Shraddha's Film's Trailer Is A 'Mass Blockbuster'; Here's When It Will Release",
-      "Fukrey Actor Varun Sharma Exits Naam – To Live Is War After Scheduling Conflicts!",
-      "Priyanka says Nick made sure to set up his tour to be home for 'Karwa Chauth': 'No one like my guy'",
-      "Noah Wyle bought his 80-acre ranch too young; now, he calls it his sanctuary",
-      "Priyanka Chopra reveals Nick Jonas set his tour dates aside so that he could come home to celebrate Karwa Chauth with her",
-      "Kareena Kapoor and Mira Rajput discuss silly rumours and Bollywood wives in new promo from actor’s chat show What Women Want",
-      "Megaverse: Netflix unveils first poster as Chiranjeevi turns talk show host",
-      "A Spooky New Law & Order: SVU Clip Brings The Jumpscares For Curry And Griffin",
-      "DWTS' Val Chmerkovskiy Explained Why He Was Trying To Bite Jenna Dewan's Neck For So Long",
-      "Why Ben Affleck And JLo Are (Allegedly) Getting Close More Than A Year After Their Divorce",
-      "Bari Weiss Addresses 60 Minutes Concerns And How She’s Handling Backlash Against CBS News",
-      "'Unsolved Mysteries' Officially Kicks Off a Brand-New Era Today",
-      "Jason Isaacs’ New Vampire Movie Officially Arrives Just in Time for Halloween With a Chilling Sneak Peek",
-      "The 10 Most Amazing Fantasy Books Ever Written",
-      "Star Wars Officially Reveals a New Behind-the-Scenes Look at ‘The Mandalorian and Grogu’",
-      "Robert Downey Jr.'s Doctor Doom Is Officially Unleashed in New 'Avengers: Doomsday' First Look [Exclusive]",
-      "‘VisionQuest’ Star Teases What’s Next After That “Harrowing” Episode 6 Transformation",
-      "MGM+’s ‘Treasure Island’ Shows Off Its Darkly Funny Side in New Sneak Peek",
-      "‘The Walking Dead’ Star Norman Reedus Officially Returns to Horror in New R-Rated Thriller",
-      "Petunia Trailer Previews New Vanessa Marano Movie That Cat Lovers Need to See | Exclusive"
-     ],
-     "updated": [],
-     "count": 257,
-     "detail": "264 stories, 2 duplicates removed, 13 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T18:51:39Z",
     "run_id": "40934580555",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "380 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T18:52:38Z",
-    "run_id": "40934580555",
+    "run_at": "2026-10-30T15:13:19Z",
+    "run_id": "41078491129",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 429,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "MGM+ Reveals First-Look Photos for 'Bosch: Start Of Watch' Prequel Series",
-      "Universal Music Group Reports $3.78 Billion in Revenue for Q3 2026"
+      "From Zoya Hussain in Hunkkaar 2 to Chandan Roy Sanyal in Aashram 4: 5 OTT characters we want to see return",
+      "Ramayana: Before Ranbir Kapoor's Ramayana, How Adipurush & Other Films Based On The Epic Fared At Box Office",
+      "Naagin 8 Main Cast: Will Bigg Boss 18 Fame Shrutika Arjun Join New Season Of Ekta Kapoor's Show?",
+      "Gajab Raat OTT Verdict: Manoj Bajpayee Debuts With A Roaring Viewership – Breaks 3 Opening Records On Netflix!",
+      "Sigma' OTT review: Vijay's son Jason Sanjay's film gets mixed reactions",
+      "'Drishyam' actor Kamlesh Sawant recalls accidentally slapping Ishita Dutta on set",
+      "Shraddha Kapoor reveals she suffered muscle tear while shooting dance sequence for 'Eetha'",
+      "GV Prakash officially replaces Ilaiyaraaja in 'Pocket Novel'",
+      "Inside Saif Ali Khan's Rs 800 crore Pataudi Palace: 150 rooms, grand verandas",
+      "Since the mid-2000s, Patrick Stewart has worked with DV survivors and advocacy groups in his mother’s name",
+      "Should Morgan And Sasha Be Endgame On Nobody Wants This? We Have Conflicting Thoughts",
+      "After James Gunn Clarified The State Of Batman And Joker In The DCU, I've Got A Question",
+      "'The Princess and the Frog' Special With Original Cast Officially Confirmed for Disney+ [Exclusive]",
+      "HBO's 'Harry Potter' Series Officially Confirms the Appearance of 5 Key Characters",
+      "‘Over the Garden Wall’ Officially Gets a New Expanded Release With Never-Before-Seen Art",
+      "'Dark Matter' Boss Exposes the Biggest Threat for Season 3 After That Cliffhanger",
+      "Forget James Bond, This Revenge Sequel Turns Its Franchise Into an International Spy Thriller",
+      "Andrew & Tristan Tate’s Controversial Rise to Fame Explored in New TV Show, Watch Trailer",
+      "Star Trek’s John Cho Joins Doctor Strange 2 Co-Lead in Brand New Horror Movie",
+      "Jack Nicholson’s Acting Retirement Gets Major Update From Michael Douglas"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 404,
+     "detail": "410 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1424,27 +1403,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T15:20:05Z",
+    "run_id": "41078491129",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT",
+      "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T19:53:09Z",
-    "run_id": "40943687184",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 50, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1858,26 +1840,27 @@
      "detail": "now 52, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T18:56:35Z",
-    "run_id": "40934580555",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T15:20:05Z",
+    "run_id": "41078491129",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 57,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 52, coming 5"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2268,27 +2251,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T17:09:12Z",
-    "run_id": "40917441588",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T15:20:06Z",
+    "run_id": "41078491129",
     "status": "success",
     "checked": {
-     "candidates": 293,
-     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 90,
-     "detail": "+0 new rows, 90 updated rows, 203 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2702,19 +2684,27 @@
      "detail": "+0 new rows, 94 updated rows, 226 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T15:20:05Z",
+    "run_id": "41078491129",
+    "status": "success",
+    "checked": {
+     "candidates": 320,
+     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 317 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2970,30 +2960,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T18:56:35Z",
-    "run_id": "40934580555",
-    "status": "success",
-    "checked": {
-     "candidates": 78,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "MGM+ Reveals First-Look Photos for 'Bosch: Start Of Watch' Prequel Series",
-      "Universal Music Group Reports $3.78 Billion in Revenue for Q3 2026"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 78 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3458,19 +3437,30 @@
      "detail": "api-news.json 78 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T15:20:06Z",
+    "run_id": "41078491129",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries",
+      "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3718,19 +3708,36 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T15:19:35Z",
+    "run_id": "41078491129",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 17 new detected"
+    },
+    "changed": {
+     "added": [
+      "Khushi Ep 48",
+      "Uswah Ep 38",
+      "Izzat Ep 41",
+      "Dastoor Ep 70"
+     ],
+     "updated": [
+      "Uswah Ep 38",
+      "Khushi Ep 48",
+      "Dastoor Ep 70",
+      "Izzat Ep 41"
+     ],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4050,29 +4057,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T17:04:45Z",
-    "run_id": "40917441588",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 257 still unprocessed; today by category: movies 6/6, tv_dramas 0/4, episodes 0/2, box_office 9/6, celebrities_events 7/5, upcoming_releases 6/4, ott_streaming 5/4, trailers 2/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "The Hunger Games: Sunrise on the Reaping Eyes Massive Opening",
-      "Bloodborne Animated Film Making Progress With New Writer and Director"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4517,19 +4514,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T15:20:05Z",
+    "run_id": "41078491129",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 404 still unprocessed; today by category: movies 7/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 2/3, awards 2/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT",
+      "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4771,24 +4778,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 233,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5108,24 +5110,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
+     "count": 379,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5445,19 +5447,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5707,19 +5709,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5954,19 +5956,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6222,19 +6224,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6475,19 +6477,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6717,19 +6719,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T17:09:19Z",
-    "run_id": "40917441588",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6982,8 +6984,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T15:20:14Z",
+    "run_id": "41078491129",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T14:57:03Z"
+ "updated_at": "2026-10-30T15:20:14Z"
 }
