@@ -942,27 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-10-29T10:20:59Z",
-    "run_id": "40856792844",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
-      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby"
-     ],
-     "updated": [],
-     "count": 6,
-     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-10-29T11:51:40Z",
     "run_id": "40868487761",
     "status": "success",
@@ -1427,6 +1406,24 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:07:37Z",
+    "run_id": "41029487327",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1867,23 +1864,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-10-29T10:21:01Z",
-    "run_id": "40856792844",
-    "status": "success",
-    "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-10-29T11:56:06Z",
     "run_id": "40868487761",
     "status": "success",
@@ -2273,6 +2253,23 @@
      "count": 0
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T09:07:37Z",
+    "run_id": "41029487327",
+    "status": "success",
+    "checked": {
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -2981,27 +2978,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-10-29T10:21:01Z",
-    "run_id": "40856792844",
-    "status": "success",
-    "checked": {
-     "candidates": 62,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 Nears ₹500 Crore India Gross Milestone to Join Rare Tamil Cinema Club",
-      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 62 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-10-29T11:56:06Z",
     "run_id": "40868487761",
     "status": "success",
@@ -3466,6 +3442,24 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T09:07:37Z",
+    "run_id": "41029487327",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -7036,5 +7030,5 @@
    }
   ]
  },
- "updated_at": "2026-10-30T09:03:08Z"
+ "updated_at": "2026-10-30T09:07:37Z"
 }
