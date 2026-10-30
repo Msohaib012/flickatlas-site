@@ -415,18 +415,20 @@
       const title = UI.esc(UI.titleOf(entry));
       const date = entry.release_date || "";
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? title + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
+      const twoStart = HomeBoxOffice.shiftDate(todayIST, -1);
       const weekStart = HomeBoxOffice.shiftDate(todayIST, -6);
-      return `<article class="fa-box-latest-card fa-box-latest--home" data-movie-id="${UI.esc(id)}" data-release="${UI.esc(date)}"><a class="fa-box-card-head" href="/movie?id=${encodeURIComponent(id)}" aria-label="${title} — box office details">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${title}">${title}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></a><dl aria-label="Worldwide box office figures; missing values are not estimated">${metricCell("today", `Today · ${shortDate(todayIST)}`, `One explicitly worldwide figure for ${todayIST} IST`)}${metricCell("last_7_days", "7 Days", `Worldwide figure for ${weekStart} to ${todayIST} IST`)}${metricCell("cumulative_total", "Worldwide total", "Cumulative worldwide theatrical gross; source date shown below")}</dl></article>`;
+      return `<article class="fa-box-latest-card fa-box-latest--home" data-movie-id="${UI.esc(id)}" data-release="${UI.esc(date)}"><a class="fa-box-card-head" href="/movie?id=${encodeURIComponent(id)}" aria-label="${title} — box office details">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${title}">${title}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></a><dl aria-label="Worldwide box office figures; missing values are not estimated">${metricCell("last_2_days", "2 Days", `Worldwide figure for ${twoStart} to ${todayIST} IST`)}${metricCell("last_7_days", "7 Days", `Worldwide figure for ${weekStart} to ${todayIST} IST`)}${metricCell("cumulative_total", "Worldwide total", "Cumulative worldwide theatrical gross; source date shown below")}</dl></article>`;
     };
-    /* Keep the recent 14-date release pool first; within it, verified
-       worldwide 7-day collections rank ahead of existing popularity. Older
-       titles only fill a tab after its eligible recent pool is exhausted. */
+    /* Only releases from the last 14 calendar dates are eligible; within
+       that pool the most popular titles come first. A tab with fewer than
+       eight eligible releases simply shows fewer cards — older titles
+       never backfill it. */
     const boHasKind = boPoolFor("bollywood").length > 0 || boPoolFor("international").length > 0;
     const boPicks = boPoolFor("bollywood").slice(0, HOME_LIMITS.boxoffice);
     const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
-      ${switchButtons("boxoffice")}<p class="sec-sub">14-day releases first · verified worldwide 7-day gross, then popularity · only sourced worldwide figures shown · Bollywood</p>
+      ${switchButtons("boxoffice")}<p class="sec-sub">Last 14 days only · most popular first · worldwide figures from verified sources · Bollywood</p>
       <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>
     </section>` : "";
 
@@ -1059,7 +1061,7 @@
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}&s=oldest` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=oldest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "14-day releases first · verified worldwide 7-day gross, then popularity · only sourced worldwide figures shown · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "Last 14 days only · most popular first · worldwide figures from verified sources · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);

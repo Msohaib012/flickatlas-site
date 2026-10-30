@@ -85,7 +85,7 @@ try {
       const report = snapshot.reports[id] || {};
       const local = {};
       const windowsToRefresh = [];
-      for (const windowKey of ["today", "last_7_days", "cumulative_total"]) {
+      for (const windowKey of ["last_2_days", "last_7_days", "cumulative_total"]) {
         local[windowKey] = helper.resolveMetric(item, daywise[id], worldwide[id], report, windowKey, todayIST);
         if (helper.needsDirectRefresh(item, daywise[id], worldwide[id], report, windowKey, todayIST)) windowsToRefresh.push(windowKey);
       }

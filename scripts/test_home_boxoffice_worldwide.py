@@ -38,9 +38,10 @@ class WorldwideEvidenceTests(unittest.TestCase):
     def test_one_query_requests_all_three_worldwide_windows_for_a_title(self):
         today = "2026-10-31"
         query = bo.make_query(self.item, today)
-        self.assertIn("today (2026-10-31 through 2026-10-31)", query)
+        self.assertIn("last 2 days (2026-10-30 through 2026-10-31)", query)
         self.assertIn("exact 7-day window (2026-10-25 through 2026-10-31)", query)
         self.assertIn("cumulative worldwide total as of 2026-10-31", query)
+        self.assertNotIn("gross for today", query)
         self.assertNotIn("india net", query.lower())
         self.assertNotIn("overseas-only", query.lower())
 
@@ -81,6 +82,37 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertIsNotNone(bo.make_candidate(self.item, "last_7_days", anchored, today),
             "a relative 7-day claim is valid only when its endpoint is explicit")
 
+    def test_last_2_day_evidence_must_match_the_requested_period(self):
+        today = "2026-10-31"
+        self.assertEqual(bo.period_for("last_2_days", today), ("2026-10-30", "2026-10-31"))
+        exact = {"title": "Fixture Film worldwide box office",
+            "content": "For the last 2 days from 2026-10-30 through 2026-10-31, Fixture Film's worldwide theatrical gross was $22 million.",
+            "published_date": today, "url": self.result["url"]}
+        candidate = bo.make_candidate(self.item, "last_2_days", exact, today)
+        self.assertIsNotNone(candidate)
+        self.assertEqual(candidate["period_start"], "2026-10-30")
+        self.assertEqual(candidate["period_end"], today)
+        prompt = bo.build_review_prompt(today, [candidate])
+        self.assertIn("last_2_days", prompt)
+        self.assertIn("two-day period", prompt)
+        self.assertIn("2026-10-30", prompt)
+        accepted = bo.accepted_metric(candidate, {"accepted": True, "quote": exact["content"]},
+                                      today, "2026-10-31T00:00:00Z")
+        self.assertIsNotNone(accepted)
+        self.assertEqual(accepted["window"], "last_2_days")
+        self.assertEqual(accepted["period_start"], "2026-10-30")
+        self.assertEqual(accepted["as_of"], today)
+
+        vague = {**exact, "content": "Fixture Film's worldwide gross for the last 2 days was $22 million; the page was updated October 31, 2026."}
+        self.assertIsNone(bo.make_candidate(self.item, "last_2_days", vague, today),
+            "a current article date alone cannot prove that its 2-day figure covers this exact window")
+        anchored = {**exact, "content": "Fixture Film's worldwide gross for the last 2 days ending October 31, 2026 was $22 million."}
+        self.assertIsNotNone(bo.make_candidate(self.item, "last_2_days", anchored, today),
+            "a relative 2-day claim is valid only when its endpoint is explicit")
+        wrong_period = {**exact, "content": "For the last 2 days from 2026-10-29 through 2026-10-30, Fixture Film's worldwide theatrical gross was $22 million."}
+        self.assertIsNone(bo.make_candidate(self.item, "last_2_days", wrong_period, today),
+            "a 2-day figure for a different pair of dates is not evidence for this window")
+
     def test_cumulative_total_requires_total_wording_and_asof_evidence(self):
         today = "2026-10-31"
         dated = {"title": "Fixture Film worldwide box office",
@@ -120,10 +152,10 @@ class WorldwideEvidenceTests(unittest.TestCase):
         now = dt.datetime(2026, 10, 30, 20, 0, tzinfo=dt.timezone.utc)  # 01:00 PKT next day
         manifest = {"selections": {"bollywood": ["123"], "world": []}, "candidates": [
             {"id": "123", "title": "Fixture Film", "industry": "bollywood",
-             "windows_to_refresh": ["today", "last_7_days", "cumulative_total"]}
+             "windows_to_refresh": ["last_2_days", "last_7_days", "cumulative_total"]}
         ]}
         quotes = {
-            "today": "Fixture Film's worldwide box-office gross for today, October 31, 2026, was $12 million.",
+            "last_2_days": "For the last 2 days from 2026-10-30 through 2026-10-31, Fixture Film's worldwide theatrical gross was $22 million.",
             "last_7_days": "For the 7 days from 2026-10-25 through 2026-10-31, Fixture Film's worldwide theatrical gross was $52 million.",
             "cumulative_total": "As of October 31, 2026, Fixture Film's cumulative worldwide total was $120 million.",
         }
@@ -149,10 +181,11 @@ class WorldwideEvidenceTests(unittest.TestCase):
             summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=fake_gemini,
                 kv_read=lambda: previous, kv_write=fake_write, now=now)
         self.assertEqual(len(queries), 1, "one Tavily search is made for this title, not once per window")
+        self.assertIn("2026-10-30 through 2026-10-31", queries[0])
         self.assertIn("2026-10-25 through 2026-10-31", queries[0])
         self.assertEqual(summary["query_count"], 1)
         self.assertEqual(summary["candidate_count"], 3)
-        self.assertEqual(summary["accepted"]["today"], 1)
+        self.assertEqual(summary["accepted"]["last_2_days"], 1)
         self.assertEqual(summary["accepted"]["last_7_days"], 1)
         self.assertEqual(summary["accepted"]["cumulative_total"], 1)
         self.assertEqual(len(prompt_calls), 1)
@@ -160,11 +193,11 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertEqual({c["window"] for c in reviewed}, set(bo.WINDOWS))
         self.assertEqual(len(writes), 1)
         report = writes[0]["reports"]["123"]
-        self.assertEqual(report["today"]["amount"], 12_000_000)
+        self.assertEqual(report["last_2_days"]["amount"], 22_000_000)
         self.assertEqual(report["last_7_days"]["amount"], 52_000_000)
         self.assertEqual(report["cumulative_total"]["amount"], 120_000_000)
-        self.assertEqual(report["today"]["scope"], "worldwide")
-        self.assertNotIsInstance(report["today"], list, "the per-window upsert cannot append duplicates")
+        self.assertEqual(report["last_2_days"]["scope"], "worldwide")
+        self.assertNotIsInstance(report["last_2_days"], list, "the per-window upsert cannot append duplicates")
         self.assertEqual(writes[0]["selection_date_pkt"], "2026-10-31")
         self.assertEqual(writes[0]["selection_date_ist"], "2026-10-31")
         queries.clear()
@@ -178,23 +211,23 @@ class WorldwideEvidenceTests(unittest.TestCase):
         second_report = second_writes[0]["reports"]["123"]
         self.assertEqual(set(second_report).intersection(bo.WINDOWS), set(bo.WINDOWS),
                          "rerunning the same slot overwrites each window instead of appending duplicates")
-        self.assertEqual(second_report["today"]["amount"], 12_000_000)
+        self.assertEqual(second_report["last_2_days"]["amount"], 22_000_000)
         self.assertEqual(second_report["last_7_days"]["amount"], 52_000_000)
         self.assertEqual(second_report["cumulative_total"]["amount"], 120_000_000)
 
     def test_pair_metrics_are_primary_and_only_uncovered_window_uses_direct_fallback(self):
         now = dt.datetime(2026, 10, 30, 20, 0, tzinfo=dt.timezone.utc)
         today = "2026-10-31"
-        pair_today = {"scope": "worldwide", "method": "paired_components", "window": "Today",
-                      "amount": 16, "currency": "USD", "period_start": today,
+        pair_2day = {"scope": "worldwide", "method": "paired_components", "window": "last_2_days",
+                      "amount": 16, "currency": "USD", "period_start": "2026-10-30",
                       "period_end": today, "as_of": today, "observed_date": today,
                       "observed_at": "2026-10-30T20:00:00Z"}
-        pair_week = {**pair_today, "window": "Last 7 days", "amount": 112,
+        pair_week = {**pair_2day, "window": "last_7_days", "amount": 112,
                      "period_start": "2026-10-25"}
         manifest = {"selections": {"bollywood": ["123"], "world": []}, "candidates": [
             {"id": "123", "title": "Fixture Film", "industry": "bollywood",
              "windows_to_refresh": ["cumulative_total"],
-             "paired": {"today": pair_today, "last_7_days": pair_week}}
+             "paired": {"last_2_days": pair_2day, "last_7_days": pair_week}}
         ]}
         total_result = {"title": "Fixture Film worldwide box office",
             "content": "As of October 31, 2026, Fixture Film's cumulative worldwide total was $120 million.",
@@ -220,12 +253,12 @@ class WorldwideEvidenceTests(unittest.TestCase):
 
         self.assertEqual(len(queries), 1)
         self.assertEqual(summary["query_count"], 1)
-        self.assertEqual(summary["paired"]["today"], 1)
+        self.assertEqual(summary["paired"]["last_2_days"], 1)
         self.assertEqual(summary["paired"]["last_7_days"], 1)
         self.assertEqual(summary["paired"]["cumulative_total"], 0)
         report = writes[0]["reports"]["123"]
-        self.assertEqual(report["today"]["method"], "paired_components")
-        self.assertEqual(report["today"]["amount"], 16)
+        self.assertEqual(report["last_2_days"]["method"], "paired_components")
+        self.assertEqual(report["last_2_days"]["amount"], 16)
         self.assertEqual(report["last_7_days"]["amount"], 112)
         self.assertEqual(report["cumulative_total"]["method"], "tavily_gemini")
         self.assertEqual(report["cumulative_total"]["amount"], 120_000_000)
@@ -249,12 +282,13 @@ class WorldwideEvidenceTests(unittest.TestCase):
         pkt_hours = [(h + 5) % 24 for h in utc_hours]
         self.assertEqual(pkt_hours, [14, 18, 22, 1])
         self.assertIn("UTC+05:00", workflow)
-        self.assertNotIn("workflow_dispatch:", workflow)
+        self.assertIn("workflow_dispatch:", workflow_code,
+                      "the refresh must be manually dispatchable so it can be fired on demand")
         self.assertNotIn("permissions:\n  contents: write", workflow)
         self.assertIn("group: flickatlas-home-boxoffice-worldwide", workflow)
         self.assertIn("python3 scripts/home_boxoffice_worldwide.py --run", workflow)
         self.assertIn(f"HOME_BOXOFFICE_KV_NAMESPACE_ID: {bo.DEFAULT_NAMESPACE_ID}", workflow)
-        for forbidden in ("scripts/hourly-pipeline", "scripts/gemini_batch.py --", "publish", "git push", "cloudflare_deploy.py", "workflow_dispatch"):
+        for forbidden in ("scripts/hourly-pipeline", "scripts/gemini_batch.py --", "publish", "git push", "cloudflare_deploy.py"):
             self.assertNotIn(forbidden, workflow_code)
         hourly = (ROOT / ".github/workflows/hourly-pipeline.yml").read_text()
         self.assertIn("cron: '35 * * * *'", hourly, "existing hourly automation schedule must remain unchanged")

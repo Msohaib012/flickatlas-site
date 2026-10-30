@@ -4,6 +4,7 @@ name: Home worldwide Box Office refresh
 # This scheduled job writes only the isolated HOME_BOXOFFICE KV key. It does
 # not commit, deploy, publish posts, or run the repository's hourly pipeline.
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 9,13,17,20 * * *"
 

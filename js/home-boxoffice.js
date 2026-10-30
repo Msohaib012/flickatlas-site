@@ -10,7 +10,7 @@
   "use strict";
   const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
   const CURRENCY_RE = /^[A-Z]{3}$/;
-  const WINDOWS = { today: "today", last_7_days: "last_7_days", cumulative_total: "cumulative_total" };
+  const WINDOWS = { today: "today", last_2_days: "last_2_days", last_7_days: "last_7_days", cumulative_total: "cumulative_total" };
   const DAYWISE_MAX = 30;
   const STORED_SELECTION_MAX_AGE_MS = 8 * 60 * 60 * 1000;
 
@@ -80,6 +80,8 @@
         || !validDate(metric.as_of) || metric.as_of > todayIST
         || typeof metric.observed_at !== "string" || !Number.isFinite(Date.parse(metric.observed_at))) return null;
     if (windowKey === "today" && (metric.period_start !== todayIST || metric.period_end !== todayIST || metric.as_of !== todayIST)) return null;
+    if (windowKey === "last_2_days" && (metric.period_start !== shiftDate(todayIST, -1)
+        || metric.period_end !== todayIST || metric.as_of !== todayIST)) return null;
     if (windowKey === "last_7_days" && (metric.period_start !== shiftDate(todayIST, -6)
         || metric.period_end !== todayIST || metric.as_of !== todayIST)) return null;
     if (windowKey === "cumulative_total" && metric.period_end !== metric.as_of) return null;
@@ -200,6 +202,13 @@
       if (record.period_start !== todayIST || record.period_end !== todayIST || record.as_of !== todayIST
           || dates.length !== 1 || dates[0] !== todayIST
           || days[0] !== dayDistance(releaseDate, todayIST) + 1 || days[0] > DAYWISE_MAX) return null;
+    } else if (windowKey === "last_2_days") {
+      const start = shiftDate(todayIST, -1);
+      const expected = [];
+      for (let d = start < releaseDate ? releaseDate : start; d <= todayIST; d = shiftDate(d, 1)) expected.push(d);
+      if (record.period_start !== start || record.period_end !== todayIST || record.as_of !== todayIST
+          || JSON.stringify(dates) !== JSON.stringify(expected)
+          || days.some((day, i) => day !== dayDistance(releaseDate, dates[i]) + 1 || day > DAYWISE_MAX)) return null;
     } else if (windowKey === "last_7_days") {
       const start = shiftDate(todayIST, -6);
       const expected = [];
@@ -243,6 +252,22 @@
       const metric = pair && makePairedMetric("today", [pair], todayIST, todayIST, todayIST,
         todayIST, observedAt, expectedDay);
       if (metric && pairedMetric(metric, "today", todayIST, releaseDate)) out.today = metric;
+    }
+    const twoStart = shiftDate(todayIST, -1);
+    const twoPairs = [];
+    let completeTwo = true;
+    for (let d = twoStart < releaseDate ? releaseDate : twoStart; d <= todayIST; d = shiftDate(d, 1)) {
+      const matching = dayRows.filter(row => row && row.date === d);
+      if (matching.length !== 1) { completeTwo = false; break; }
+      const expectedDay = dayDistance(releaseDate, d) + 1;
+      const pair = getPair(matching[0], d, expectedDay, true);
+      if (!pair) { completeTwo = false; break; }
+      twoPairs.push(pair);
+    }
+    if (completeTwo && twoPairs.length) {
+      const metric = makePairedMetric("last_2_days", twoPairs, twoStart, todayIST, todayIST,
+        todayIST, observedAt);
+      if (metric && pairedMetric(metric, "last_2_days", todayIST, releaseDate)) out.last_2_days = metric;
     }
     const weekStart = shiftDate(todayIST, -6);
     const weekPairs = [];
@@ -318,7 +343,8 @@
   }
   function localDailyMetric(rows, windowKey, releaseDate, todayIST) {
     if (!validDate(releaseDate) || !validDate(todayIST) || releaseDate > todayIST) return null;
-    const periodStart = windowKey === "today" ? todayIST : shiftDate(todayIST, -6);
+    const periodStart = windowKey === "today" ? todayIST
+      : windowKey === "last_2_days" ? shiftDate(todayIST, -1) : shiftDate(todayIST, -6);
     const periodEnd = todayIST;
     const byDate = worldwideRows(rows, true);
     const amounts = [];
@@ -380,7 +406,7 @@
       ...provenance, evidence_quote: "", method: "explicit_worldwide_total", through_day: maxDay };
   }
   function localMetric(entry, rows, explicitTotal, windowKey, todayIST) {
-    if (windowKey === "today" || windowKey === "last_7_days")
+    if (windowKey === "today" || windowKey === "last_2_days" || windowKey === "last_7_days")
       return localDailyMetric(rows, windowKey, entry && entry.release_date, todayIST);
     if (windowKey !== "cumulative_total") return null;
     // Never add an explicit worldwide total to India Net/Overseas components.
@@ -454,27 +480,22 @@
     const cutoff = shiftDate(todayPKT, -13); // exactly 14 calendar dates, including today
     const pools = { bollywood: [], world: [] };
     for (const x of Array.isArray(catalog) ? catalog : []) {
+      // Hard 14-day rule: only releases inside the 14-date window are
+      // eligible at all. A tab with fewer eligible titles shows fewer
+      // cards; older titles never backfill it.
       if (!x || x.id == null || !x.poster_path || (x.type || x.media_type || "movie") !== "movie"
-          || !validDate(x.release_date) || x.release_date > todayPKT || x.date_kind === "festival") continue;
+          || !validDate(x.release_date) || x.release_date > todayPKT || x.release_date < cutoff
+          || x.date_kind === "festival") continue;
       if (ui && typeof ui.isStreamingOnly === "function" && ui.isStreamingOnly(x)) continue;
       const kind = ui && typeof ui.industryOf === "function" ? ui.industryOf(x) : x.industry;
       const bucket = kind === "bollywood" ? "bollywood" : kind === "world" ? "world" : "";
       if (!bucket) continue;
-      const id = String(x.id);
-      const report = snapshot && snapshot.reports && snapshot.reports[id];
-      const weekly = resolveMetric(x, (daywise || {})[id], (worldwide || {})[id], report, "last_7_days", todayIST);
-      pools[bucket].push({ item: x, id, recent: x.release_date >= cutoff, weekly,
-        weeklyUsd: rankUsd(weekly, rates), weeklyAsOf: weekly && weekly.as_of || "" });
+      pools[bucket].push({ item: x, id: String(x.id) });
     }
     for (const bucket of ["bollywood", "world"]) {
-      pools[bucket].sort((a, b) => {
-        if (a.recent !== b.recent) return a.recent ? -1 : 1;
-        if (!!a.weekly !== !!b.weekly) return a.weekly ? -1 : 1;
-        if (a.weeklyUsd !== null && b.weeklyUsd !== null && a.weeklyUsd !== b.weeklyUsd) return b.weeklyUsd - a.weeklyUsd;
-        if (a.weekly && b.weekly && a.weeklyUsd === null && b.weeklyUsd === null
-            && a.weekly.currency === b.weekly.currency && a.weekly.amount !== b.weekly.amount) return b.weekly.amount - a.weekly.amount;
-        return String(b.weeklyAsOf).localeCompare(String(a.weeklyAsOf)) || popularSort(a.item, b.item, ui);
-      });
+      // Popularity is the only ranking: TMDB popularity, then vote count,
+      // then vote average. Collection figures never outrank popularity.
+      pools[bucket].sort((a, b) => popularSort(a.item, b.item, ui));
       pools[bucket] = pools[bucket].slice(0, cap);
     }
     return pools;

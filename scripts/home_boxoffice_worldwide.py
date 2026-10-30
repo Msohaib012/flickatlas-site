@@ -39,9 +39,10 @@ TAVILY_ENDPOINT = "https://api.tavily.com/search"
 KV_ENDPOINT = "https://api.cloudflare.com/client/v4"
 PKT = ZoneInfo("Asia/Karachi")
 IST = ZoneInfo("Asia/Kolkata")
-WINDOWS = ("today", "last_7_days", "cumulative_total")
+WINDOWS = ("last_2_days", "last_7_days", "cumulative_total")
 WINDOW_LABELS = {
     "today": "today's worldwide theatrical gross",
+    "last_2_days": "the worldwide theatrical gross for the last 2 calendar days",
     "last_7_days": "the worldwide theatrical gross for the last 7 calendar days",
     "cumulative_total": "the cumulative worldwide theatrical box-office total",
 }
@@ -55,6 +56,7 @@ SCOPE_RE = re.compile(r"worldwide|world\s*wide|global|domestic|india\s*net|overs
 WORLD_RE = re.compile(r"worldwide|world\s*wide|global", re.I)
 WINDOW_RE = {
     "today": re.compile(r"\btoday\b|\b\d{4}-\d{2}-\d{2}\b|\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\s+\d{1,2},?\s+\d{4}\b", re.I),
+    "last_2_days": re.compile(r"\b(?:last|past)\s+(?:2|two)\s+days\b|\b(?:2|two)[ -]days?\b", re.I),
     "last_7_days": re.compile(r"\b(?:last|past)\s+(?:7|seven)\s+days\b|\b(?:last|past)\s+week\b|\b(?:7|seven)[ -]day(?:s)?\b", re.I),
     "cumulative_total": re.compile(r"\b(?:cumulative(?:\s+worldwide)?\s+(?:total|gross)|total\s+(?:to\s+date|so\s+far|worldwide|gross)|worldwide\s+total(?:\s+(?:to\s+date|so\s+far))?|worldwide\s+gross\s+(?:total|to\s+date|so\s+far)|global\s+total(?:\s+(?:to\s+date|so\s+far))?|global\s+gross\s+(?:total|to\s+date|so\s+far)|grossed\s+worldwide)\b", re.I),
 }
@@ -78,6 +80,8 @@ def date_shift(date_text: str, days: int) -> str:
 def period_for(window: str, today_ist: str) -> tuple[str, str]:
     if window == "today":
         return today_ist, today_ist
+    if window == "last_2_days":
+        return date_shift(today_ist, -1), today_ist
     if window == "last_7_days":
         return date_shift(today_ist, -6), today_ist
     if window == "cumulative_total":
@@ -88,11 +92,11 @@ def period_for(window: str, today_ist: str) -> tuple[str, str]:
 def make_query(item: dict[str, Any], today_ist: str) -> str:
     title = str(item.get("title") or "").strip()
     year = str(item.get("release_date") or "")[:4]
-    today_start, today_end = period_for("today", today_ist)
+    two_start, two_end = period_for("last_2_days", today_ist)
     week_start, week_end = period_for("last_7_days", today_ist)
     _, total_as_of = period_for("cumulative_total", today_ist)
     return (f'"{title}" {year} worldwide theatrical box-office report: '
-            f"gross for today ({today_start} through {today_end}); gross for the exact 7-day window "
+            f"gross for the last 2 days ({two_start} through {two_end}); gross for the exact 7-day window "
             f"({week_start} through {week_end}); cumulative worldwide total as of {total_as_of}. "
             "For each available figure, include its currency, exact period, and source citation.")
 
@@ -202,6 +206,15 @@ def window_valid(window: str, sentence: str, result_date: str, today_ist: str,
         return False
     if window == "today":
         return date_in_text(today_ist, sentence) or (re.search(r"\btoday\b", sentence, re.I) and result_date == today_ist)
+    if window == "last_2_days":
+        start = period_start or date_shift(today_ist, -1)
+        end = period_end or today_ist
+        if date_in_text(start, sentence) and date_in_text(end, sentence):
+            return True
+        relative_two_days = re.search(r"\b(?:last|past)\s+(?:2|two)\s+days\b", sentence, re.I)
+        explicit_end = date_in_text(end, sentence) or bool(re.search(
+            r"\b(?:through|ending|ended|as\s+of|up\s+to)\s+today\b", sentence, re.I))
+        return bool(relative_two_days and explicit_end and result_date == end)
     if window == "last_7_days":
         start = period_start or date_shift(today_ist, -6)
         end = period_end or today_ist
@@ -268,7 +281,8 @@ def build_review_prompt(today_ist: str, candidates: list[dict[str, Any]]) -> str
         "You are a strict evidence reviewer for a movie box-office database. Review EVERY candidate_id independently. "
         "Accept a candidate only when its quoted source excerpt explicitly identifies the same movie, "
         "states ONE worldwide/global theatrical gross in the stated currency, and proves that candidate's exact "
-        "date/window. For last_7_days, the quote must establish the listed start and end dates or an equivalent "
+        "date/window. For last_2_days, the quote must establish the listed start and end dates or an equivalent "
+        "explicitly anchored two-day period. For last_7_days, the quote must establish the listed start and end dates or an equivalent "
         "explicitly anchored seven-day period. For cumulative_total, it must establish a cumulative/total figure "
         "and the listed as-of date. Reject India Net alone, overseas alone, domestic-only, estimates, predictions, "
         "combined values not explicitly stated by that source, ambiguous currencies, unrelated films, or anything "
@@ -298,7 +312,7 @@ def accepted_metric(candidate: dict[str, Any], review: dict[str, Any], today_ist
         return None
     if not title_matches(candidate["movie_title"], "", quote) and not title_matches(candidate["movie_title"], "", candidate["excerpt"]):
         return None
-    if candidate["window"] in ("today", "last_7_days"):
+    if candidate["window"] in ("today", "last_2_days", "last_7_days"):
         start, end = candidate.get("period_start") or "", candidate.get("period_end") or today_ist
         as_of = end
     else:
@@ -519,7 +533,7 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Upsert verified same-window India Net + Overseas pairs for the homepage; use one Tavily search and Gemini review per selected title to fill missing Today, 7-day, or cumulative worldwide windows, then write the isolated Cloudflare KV snapshot.")
+    parser = argparse.ArgumentParser(description="Upsert verified same-window India Net + Overseas pairs for the homepage; use one Tavily search and Gemini review per selected title to fill missing last-2-day, 7-day, or cumulative worldwide windows, then write the isolated Cloudflare KV snapshot.")
     parser.add_argument("--run", action="store_true", help="required explicit execution switch; scheduled workflow only")
     args = parser.parse_args()
     if not args.run:
