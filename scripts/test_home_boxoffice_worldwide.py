@@ -222,7 +222,7 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertFalse(bo.title_year_conflict("Tum Mere Ho", "2026", "Tum Mere Ho (2026)"))
         self.assertFalse(bo.title_year_conflict("Tum Mere Ho", "2026", "Tum Mere Ho box office"))
 
-    def test_search_budget_caps_at_40_and_prioritises_cumulative(self):
+    def test_search_budget_caps_and_prioritises_cumulative(self):
         now = dt.datetime(2026, 10, 30, 9, 0, tzinfo=dt.timezone.utc)
         candidates = [{"id": str(1000 + n), "title": f"Film {n}", "industry": "bollywood",
                        "windows_to_refresh": ["last_2_days", "last_7_days", "cumulative_total"]}
@@ -239,14 +239,43 @@ class WorldwideEvidenceTests(unittest.TestCase):
             summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=lambda prompt: {"reviews": []},
                 kv_read=lambda: previous, kv_write=writes.append, now=now)
         self.assertEqual(len(queries), bo.SEARCH_BUDGET)
-        self.assertEqual(summary["query_count"], 40)
-        self.assertEqual(summary["skipped_searches"], 8, "48 window jobs minus the 40-search budget")
-        self.assertTrue(all("cumulative worldwide total" in q for q in queries[:16]),
-                        "all sixteen cumulative searches run before any lower-priority window")
-        self.assertTrue(all("opening week" in q for q in queries[16:32]))
-        self.assertTrue(all("last 2 days" in q for q in queries[32:]),
-                        "the cap cuts only the lowest-priority window")
+        self.assertEqual(summary["query_count"], bo.SEARCH_BUDGET)
+        self.assertEqual(summary["skipped_searches"], 48 - bo.SEARCH_BUDGET,
+                         "every job over the per-run budget is deferred, none is dropped silently")
+        self.assertTrue(all("cumulative worldwide total" in q for q in queries),
+                        "the budget is spent on the highest-priority window first")
         self.assertEqual(len(writes), 1, "the snapshot is still written when the budget is exhausted")
+        self.assertEqual(len(writes[0]["search_log"]), bo.SEARCH_BUDGET,
+                         "every executed search is recorded for the cooldown")
+
+    def test_search_cooldown_skips_windows_searched_within_24h(self):
+        now = dt.datetime(2026, 10, 30, 9, 0, tzinfo=dt.timezone.utc)
+        candidates = [{"id": "2001", "title": "Film A", "industry": "bollywood",
+                       "windows_to_refresh": ["cumulative_total", "last_7_days"]},
+                      {"id": "2002", "title": "Film B", "industry": "bollywood",
+                       "windows_to_refresh": ["cumulative_total"]}]
+        manifest = {"selections": {"bollywood": ["2001", "2002"], "world": []},
+                    "candidates": candidates}
+        queries, writes = [], []
+        def fake_tavily(query):
+            queries.append(query)
+            return []
+        previous = {"schema_version": 1, "reports": {},
+                    "selections": {"bollywood": [], "world": []},
+                    "search_log": {"2001:cumulative_total": "2026-10-30T05:00:00Z",
+                                   "2002:cumulative_total": "2026-10-29T08:00:00Z"}}
+        with patch.dict(os.environ, {"TAVILY_API_KEY": "test-key", "CLOUDFLARE_API_TOKEN": "test-token"}), \
+             patch.object(bo, "run_selector", return_value=manifest):
+            summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=lambda prompt: {"reviews": []},
+                kv_read=lambda: previous, kv_write=writes.append, now=now)
+        self.assertEqual(summary["cooldown_skips"], 1,
+                         "the window searched 4h ago is skipped; the one searched 25h ago runs")
+        self.assertEqual(len(queries), 2)
+        log = writes[0]["search_log"]
+        self.assertEqual(log["2001:cumulative_total"], "2026-10-30T05:00:00Z",
+                         "a skipped window keeps its original search stamp")
+        self.assertEqual(log["2001:last_7_days"], "2026-10-30T09:00:00Z")
+        self.assertEqual(log["2002:cumulative_total"], "2026-10-30T09:00:00Z")
 
     def test_gemini_quote_must_prove_amount_worldwide_and_window(self):
         candidate = bo.make_candidate(self.item, "today", self.result, "2026-10-31")
@@ -325,13 +354,15 @@ class WorldwideEvidenceTests(unittest.TestCase):
         second_writes = []
         with patch.dict(os.environ, {"TAVILY_API_KEY": "test-key", "CLOUDFLARE_API_TOKEN": "test-token"}), \
              patch.object(bo, "run_selector", return_value=manifest):
-            bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=fake_gemini,
+            second_summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=fake_gemini,
                 kv_read=lambda: writes[0], kv_write=second_writes.append, now=now)
-        self.assertEqual(len(queries), 3)
+        self.assertEqual(len(queries), 0,
+                         "an immediate same-slot rerun searches nothing: all three windows are on cooldown")
+        self.assertEqual(second_summary["cooldown_skips"], 3)
         self.assertEqual(len(second_writes), 1)
         second_report = second_writes[0]["reports"]["123"]
         self.assertEqual(set(second_report).intersection(bo.WINDOWS), set(bo.WINDOWS),
-                         "rerunning the same slot overwrites each window instead of appending duplicates")
+                         "the rerun carries each window's metric forward instead of appending duplicates")
         self.assertEqual(second_report["last_2_days"]["amount"], 22_000_000)
         self.assertEqual(second_report["last_7_days"]["amount"], 52_000_000)
         self.assertEqual(second_report["cumulative_total"]["amount"], 120_000_000)

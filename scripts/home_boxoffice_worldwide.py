@@ -50,7 +50,14 @@ WINDOW_PRIORITY = ("cumulative_total", "last_7_days", "last_2_days")
 # Hard cap on Tavily searches per run. Sixteen selected titles with all three
 # windows uncovered would need 48; the cap keeps the two daily Tavily keys
 # inside their shared budget, and lower-priority windows roll to the next run.
-SEARCH_BUDGET = 40
+SEARCH_BUDGET = 16
+# A (title, window) that was already searched is not re-searched for 24h:
+# trade evidence for these windows does not change every few hours, and the
+# shared Tavily quota also feeds the rest of the pipeline (owner alert
+# 2026-10-30: October usage hit 80%). With the priority order above, the
+# cooldown rotates the budget across windows over the day: cumulative first,
+# then last_7_days, then last_2_days.
+SEARCH_COOLDOWN_HOURS = 24
 WINDOW_LABELS = {
     "today": "today's worldwide theatrical gross",
     "last_2_days": "the worldwide theatrical gross for the last 2 calendar days",
@@ -615,6 +622,26 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
     if kv_write is None:
         kv_write = lambda snapshot: kv_put(token, account_id, namespace_id, snapshot)
     previous = kv_read()
+    # Search cooldown state (additive snapshot field): "<id>:<window>" -> the
+    # ISO time that window was last searched. Entries older than 7 days are
+    # pruned on write; malformed entries are ignored, never fatal.
+    def _parse_log_ts(value: Any) -> dt.datetime | None:
+        if not isinstance(value, str):
+            return None
+        try:
+            parsed = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            return None
+        return parsed if parsed.tzinfo else parsed.replace(tzinfo=dt.timezone.utc)
+    raw_log = previous.get("search_log") if isinstance(previous.get("search_log"), dict) else {}
+    search_log: dict[str, str] = {}
+    for key, value in raw_log.items():
+        ts = _parse_log_ts(value)
+        if ts is not None and (now - ts) < dt.timedelta(days=7):
+            search_log[str(key)] = value
+    def _searched_recently(key: str) -> bool:
+        ts = _parse_log_ts(raw_log.get(key))
+        return ts is not None and (now - ts) < dt.timedelta(hours=SEARCH_COOLDOWN_HOURS)
     if gemini_fn is None:
         get_keys, call = _gemini_helpers()
         keys = get_keys()
@@ -632,13 +659,19 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
     jobs = [(item, window) for window in WINDOW_PRIORITY for item in candidates
             if window in [w for w in item.get("windows_to_refresh", []) if w in WINDOWS]]
     skipped_searches: list[str] = []
+    cooldown_skips = 0
     for item, window in jobs:
+        log_key = f"{item.get('id')}:{window}"
+        if _searched_recently(log_key):
+            cooldown_skips += 1
+            continue
         if query_count >= SEARCH_BUDGET:
             skipped_searches.append(f"{item.get('title')} [{window}]")
             continue
         query_count += 1
         try:
             results = tavily_fn(make_query(item, window, today_ist))
+            search_log[log_key] = now_iso
         except Exception as exc:  # a failed search never creates a figure
             print(f"Tavily query failed for {item.get('id')} [{window}]: {type(exc).__name__}")
             continue
@@ -685,6 +718,7 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
         "selection_date_ist": today_ist,
         "selections": manifest["selections"],
         "reports": previous.get("reports", {}) if isinstance(previous.get("reports"), dict) else {},
+        "search_log": search_log,
     }
     by_id = {str(c["id"]): c for c in candidates}
     # The selector derives these only from the versioned merge sidecar and
@@ -725,6 +759,7 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
     summary = {"query_count": query_count, "candidate_count": len(drafts), "accepted": counts,
                "paired": paired_counts, "search_budget": SEARCH_BUDGET,
                "skipped_searches": len(skipped_searches),
+               "cooldown_skips": cooldown_skips,
                "selected": {k: len(v) for k, v in manifest["selections"].items()},
                "updated_at": now_iso, "timezone": "Asia/Karachi"}
     print(json.dumps(summary, sort_keys=True))
