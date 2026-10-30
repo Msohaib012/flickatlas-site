@@ -9250,5 +9250,2436 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 84,
     "providers": []
+  },
+  "1408162": {
+    "id": 1408162,
+    "type": "movie",
+    "title": "Vishwanath & Sons",
+    "poster_path": "/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+    "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+    "vote_average": 7.0,
+    "vote_count": 41,
+    "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
+    "industry": "bollywood",
+    "popularity": 15.1109,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 26596745,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta",
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-08-14",
+    "date_kind": "release",
+    "runtime": 161,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1291608": {
+    "id": 1291608,
+    "type": "movie",
+    "title": "Dhurandhar",
+    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+    "backdrop_path": "/snYOXem8pUGOffnLbbGq4aB1pg4.jpg",
+    "vote_average": 7.337,
+    "vote_count": 380,
+    "overview": "In the early 2000s, an undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
+    "industry": "bollywood",
+    "popularity": 14.4469,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "o--C7AH5SuI",
+      "name": "Watch Now [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 24000000,
+    "revenue": 136599112,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "pa",
+      "ur"
+    ],
+    "certification": "A",
+    "release_date": "2025-12-05",
+    "date_kind": "release",
+    "runtime": 214,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1582770": {
+    "id": 1582770,
+    "type": "movie",
+    "title": "Dhurandhar: The Revenge",
+    "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "backdrop_path": "/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+    "vote_average": 7.3,
+    "vote_count": 174,
+    "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "industry": "bollywood",
+    "popularity": 10.5296,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "NHk7scrb_9I",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 14330000,
+    "revenue": 152900759,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "The Story of the Unknown Men Unfolds.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "pa"
+    ],
+    "certification": "A",
+    "release_date": "2026-03-19",
+    "date_kind": "release",
+    "runtime": 235,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1235877": {
+    "id": 1235877,
+    "type": "movie",
+    "title": "Jana Nayagan",
+    "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+    "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+    "vote_average": 5.0,
+    "vote_count": 25,
+    "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+    "industry": "bollywood",
+    "popularity": 10.4599,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "The Torch Bearer of Democracy",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "A",
+    "release_date": "2026-07-23",
+    "date_kind": "release",
+    "runtime": 183,
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1508168": {
+    "id": 1508168,
+    "type": "movie",
+    "title": "Bethlehem Kudumba Unit",
+    "poster_path": "/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+    "backdrop_path": "/zms3m4kVz7RXmobU1B0nhrvUEmP.jpg",
+    "vote_average": 8.1,
+    "vote_count": 38,
+    "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+    "industry": "bollywood",
+    "popularity": 9.3638,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-08-21",
+    "date_kind": "release",
+    "runtime": 155,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1122030": {
+    "id": 1122030,
+    "type": "movie",
+    "title": "Alpha",
+    "poster_path": "/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+    "backdrop_path": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+    "vote_average": 5.044,
+    "vote_count": 34,
+    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+    "industry": "bollywood",
+    "popularity": 8.2272,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "YP1uSAggr6Y",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 10500000,
+    "revenue": 1856084,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-07-03",
+    "date_kind": "release",
+    "runtime": 141,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1479832": {
+    "id": 1479832,
+    "type": "movie",
+    "title": "DC",
+    "poster_path": "/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+    "backdrop_path": "/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
+    "vote_average": 7.8,
+    "vote_count": 32,
+    "overview": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence.",
+    "industry": "bollywood",
+    "popularity": 8.2062,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 2646327,
+    "revenue": 10585310,
+    "genres": [
+      "Romance",
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta",
+      "hi"
+    ],
+    "certification": "A",
+    "release_date": "2026-08-07",
+    "date_kind": "release",
+    "runtime": 142,
+    "providers": [
+      {
+        "name": "Sun Nxt",
+        "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1441228": {
+    "id": 1441228,
+    "type": "movie",
+    "title": "Irumudi",
+    "poster_path": "/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+    "backdrop_path": "/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+    "vote_average": 6.4,
+    "vote_count": 30,
+    "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+    "industry": "bollywood",
+    "popularity": 7.9621,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "lqlYx4MdsAY",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-08-21",
+    "date_kind": "release",
+    "runtime": 152,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1515729": {
+    "id": 1515729,
+    "type": "movie",
+    "title": "Blast",
+    "poster_path": "/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
+    "backdrop_path": "/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+    "vote_average": 7.8,
+    "vote_count": 79,
+    "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+    "industry": "bollywood",
+    "popularity": 7.9136,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "aM5OLvxFBO4",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 798851,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "Blood bound. Battle ready.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-05-28",
+    "date_kind": "release",
+    "runtime": 143,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1057265": {
+    "id": 1057265,
+    "type": "movie",
+    "title": "Peddi",
+    "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+    "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+    "vote_average": 5.6,
+    "vote_count": 74,
+    "overview": "In a village that doesn't officially exist, a laborer's unmatched athletic talent becomes his weapon to fight for his people's right to be recognized.",
+    "industry": "bollywood",
+    "popularity": 7.6763,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "AdEE5xFQelY",
+      "name": "Peddi Official Trailer (Telugu) | Ram Charan | Janhvi Kapoor | A R Rahman | Buchi Babu Sana",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 36500000,
+    "revenue": 35700000,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "Hurt. Bruised. But not beaten.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-06-04",
+    "date_kind": "release",
+    "runtime": 189,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1484913": {
+    "id": 1484913,
+    "type": "movie",
+    "title": "Ikka",
+    "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "vote_average": 5.648,
+    "vote_count": 27,
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+    "industry": "bollywood",
+    "popularity": 7.3007,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "Some trials don't end in court.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-07-10",
+    "date_kind": "release",
+    "runtime": 141,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1239134": {
+    "id": 1239134,
+    "type": "movie",
+    "title": "Bhooth Bangla",
+    "poster_path": "/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+    "vote_average": 5.599,
+    "vote_count": 71,
+    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+    "industry": "bollywood",
+    "popularity": 7.121,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "XW1RkKiRnsg",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 14000000,
+    "revenue": 20000000,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-04-17",
+    "date_kind": "release",
+    "runtime": 163,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1367220": {
+    "id": 1367220,
+    "type": "movie",
+    "title": "Karuppu",
+    "poster_path": "/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+    "backdrop_path": "/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+    "vote_average": 6.4,
+    "vote_count": 37,
+    "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+    "industry": "bollywood",
+    "popularity": 6.8036,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "vH0Q5t_JUng",
+      "name": "Official Trailer (Telugu)",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 39080459,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-05-15",
+    "date_kind": "release",
+    "runtime": 152,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1109086": {
+    "id": 1109086,
+    "type": "movie",
+    "title": "War 2",
+    "poster_path": "/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+    "backdrop_path": "/pKIRUTnwY3YYU9urSdsuobdcliP.jpg",
+    "vote_average": 6.0,
+    "vote_count": 77,
+    "overview": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+    "industry": "bollywood",
+    "popularity": 6.6686,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 47000000,
+    "revenue": 3096145,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN",
+      "ES",
+      "IT",
+      "AT"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2025-08-14",
+    "date_kind": "release",
+    "runtime": 173,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1446616": {
+    "id": 1446616,
+    "type": "movie",
+    "title": "Tu Yaa Main",
+    "poster_path": "/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "backdrop_path": "/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+    "vote_average": 6.4,
+    "vote_count": 65,
+    "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+    "industry": "bollywood",
+    "popularity": 6.3289,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Romance"
+    ],
+    "tagline": "Like. Share. Survive.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-02-13",
+    "date_kind": "release",
+    "runtime": 145,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1392469": {
+    "id": 1392469,
+    "type": "movie",
+    "title": "Cocktail 2",
+    "poster_path": "/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+    "backdrop_path": "/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
+    "vote_average": 5.6,
+    "vote_count": 40,
+    "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
+    "industry": "bollywood",
+    "popularity": 5.8623,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 15872640,
+    "revenue": 12947333,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "A",
+    "release_date": "2026-06-19",
+    "date_kind": "release",
+    "runtime": 150,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1213898": {
+    "id": 1213898,
+    "type": "movie",
+    "title": "Border 2",
+    "poster_path": "/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+    "backdrop_path": "/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+    "vote_average": 7.5,
+    "vote_count": 38,
+    "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+    "industry": "bollywood",
+    "popularity": 5.8594,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 33000000,
+    "revenue": 21000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "pa"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-01-23",
+    "date_kind": "release",
+    "runtime": 201,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1389149": {
+    "id": 1389149,
+    "type": "movie",
+    "title": "Accused",
+    "poster_path": "/3FAQTMv64JINU5Pk6mePXQbze4M.jpg",
+    "backdrop_path": "/8QRMlkCMFNKZM2ApnIaut5t4snf.jpg",
+    "vote_average": 5.7,
+    "vote_count": 77,
+    "overview": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage fractures and the truth blurs. Her wife must decide whether to walk away, or fight for the woman the world is turning against.",
+    "industry": "bollywood",
+    "popularity": 5.6599,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-02-27",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1511417": {
+    "id": 1511417,
+    "type": "movie",
+    "title": "Bāhubali: The Epic",
+    "poster_path": "/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+    "backdrop_path": "/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg",
+    "vote_average": 6.5,
+    "vote_count": 48,
+    "overview": "When a mysterious child is found by a tribal couple near a roaring waterfall, they raise him as their own. As he grows, Sivudu is drawn to the world beyond the cliffs, where he discovers the ancient kingdom of Mahishmati, ruled by a cruel tyrant, haunted by rebellion, and bound to his past. What begins as a quest for love soon unravels a legacy of betrayal, sacrifice, and a forgotten prince.",
+    "industry": "bollywood",
+    "popularity": 5.644,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 65000000,
+    "revenue": 3500000,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn",
+      "hi",
+      "ml",
+      "ta",
+      "te"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2025-10-31",
+    "date_kind": "release",
+    "runtime": 224,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1542352": {
+    "id": 1542352,
+    "type": "movie",
+    "title": "Youth",
+    "poster_path": "/odMKGyeC2rGuvr3Yy7S8txD0sFx.jpg",
+    "backdrop_path": "/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+    "vote_average": 6.9,
+    "vote_count": 28,
+    "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+    "industry": "bollywood",
+    "popularity": 5.4244,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 752800,
+    "revenue": 7528000,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-03-19",
+    "date_kind": "release",
+    "runtime": 141,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1257960": {
+    "id": 1257960,
+    "type": "movie",
+    "title": "Sikandar",
+    "poster_path": "/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+    "backdrop_path": "/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
+    "vote_average": 4.8,
+    "vote_count": 70,
+    "overview": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
+    "industry": "bollywood",
+    "popularity": 5.3664,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 23500000,
+    "revenue": 24727058,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2025-03-30",
+    "date_kind": "release",
+    "runtime": 133,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1083637": {
+    "id": 1083637,
+    "type": "movie",
+    "title": "Kantara - A Legend: Chapter 1",
+    "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+    "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+    "vote_average": 7.3,
+    "vote_count": 106,
+    "overview": "While exploring Kantara's mystical forest, Bangra's King Vijayendra dies during the Kadamba reign. Rajashekara seals their realm. Prince Kulashekara massacres to reopen it. Berme, seeking wealth, crosses the divide.",
+    "industry": "bollywood",
+    "popularity": 5.2448,
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "TMQUFhWm8C0",
+      "name": "Official Trailer [ENG SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 14000000,
+    "revenue": 91000000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2025-10-02",
+    "date_kind": "release",
+    "runtime": 165,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1628367": {
+    "id": 1628367,
+    "type": "movie",
+    "title": "Kartavya",
+    "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+    "backdrop_path": "/3uDyPIGNZ6OxGPaFgGs47JhNUuK.jpg",
+    "vote_average": 6.9,
+    "vote_count": 36,
+    "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+    "industry": "bollywood",
+    "popularity": 5.1854,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "WnoY3M1eaeE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-05-15",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1431068": {
+    "id": 1431068,
+    "type": "movie",
+    "title": "Main Vaapas Aaunga",
+    "poster_path": "/wHTNsZxvlfRAndc52hGlbdCUXKS.jpg",
+    "backdrop_path": "/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+    "vote_average": 7.2,
+    "vote_count": 28,
+    "overview": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+    "industry": "bollywood",
+    "popularity": 5.0456,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 7300000,
+    "revenue": 9300000,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "A story of love and longing.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "ur",
+      "pa"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-06-12",
+    "date_kind": "release",
+    "runtime": 167,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1424217": {
+    "id": 1424217,
+    "type": "movie",
+    "title": "Court: State vs. A Nobody",
+    "poster_path": "/4pEX67LJd7ZIqYWtksBtOgQEGcQ.jpg",
+    "backdrop_path": "/efMmUfbqfMTtheqjcWiHDtxcXbA.jpg",
+    "vote_average": 7.4,
+    "vote_count": 42,
+    "overview": "A determined lawyer takes on a high-stakes case to defend a 19-year-old boy, challenging a system that has already branded him guilty.",
+    "industry": "bollywood",
+    "popularity": 5.0267,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "urrUjvUFhxE",
+      "name": "Court - State Vs A Nobody Trailer | Nani | Priyadarshi | Ram Jagadeesh | 14th March In Theatres",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 7817325,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2025-03-14",
+    "date_kind": "release",
+    "runtime": 149,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1339876": {
+    "id": 1339876,
+    "type": "movie",
+    "title": "Mardaani 3",
+    "poster_path": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+    "backdrop_path": "/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+    "vote_average": 7.6,
+    "vote_count": 45,
+    "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
+    "industry": "bollywood",
+    "popularity": 5.0116,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "V4TJKSEftkU",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "Rescue begins.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-01-30",
+    "date_kind": "release",
+    "runtime": 131,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1433117": {
+    "id": 1433117,
+    "type": "movie",
+    "title": "Kara",
+    "poster_path": "/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+    "backdrop_path": "/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
+    "vote_average": 6.0,
+    "vote_count": 38,
+    "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+    "industry": "bollywood",
+    "popularity": 4.9461,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Action"
+    ],
+    "tagline": "Sometimes, staying dangerous is the only way to stay alive.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-04-30",
+    "date_kind": "release",
+    "runtime": 161,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1226572": {
+    "id": 1226572,
+    "type": "movie",
+    "title": "Superboys of Malegaon",
+    "poster_path": "/kLMLaZa0Mu4BqPhA2eYbduFjcD0.jpg",
+    "backdrop_path": "/kQ35sVT8EBlsX9yilHi1zP4jd3l.jpg",
+    "vote_average": 7.588,
+    "vote_count": 57,
+    "overview": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+    "industry": "bollywood",
+    "popularity": 4.7755,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "9O3ukqnnVNQ",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "There are no rules in filmmaking.",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2025-02-28",
+    "date_kind": "release",
+    "runtime": 128,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1561687": {
+    "id": 1561687,
+    "type": "movie",
+    "title": "Made in Korea",
+    "poster_path": "/n6gCKjagOFsU4arFngUq2QqR1jv.jpg",
+    "backdrop_path": "/5MaWBfAxdlbsqDpq8mjCBNVoLM3.jpg",
+    "vote_average": 7.1,
+    "vote_count": 46,
+    "overview": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
+    "industry": "bollywood",
+    "popularity": 4.3355,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "ko",
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-03-12",
+    "date_kind": "release",
+    "runtime": 113,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1241634": {
+    "id": 1241634,
+    "type": "movie",
+    "title": "Saiyaara",
+    "poster_path": "/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "backdrop_path": "/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+    "vote_average": 6.374,
+    "vote_count": 159,
+    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "industry": "bollywood",
+    "popularity": 4.3295,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 5500000,
+    "revenue": 63539300,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2025-07-18",
+    "date_kind": "release",
+    "runtime": 150,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1571955": {
+    "id": 1571955,
+    "type": "movie",
+    "title": "Collision Course",
+    "poster_path": "/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+    "industry": "world",
+    "popularity": 5.4625,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "8hVLhaK619k",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es",
+      "pt"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "336240": {
+    "id": 336240,
+    "type": "tv",
+    "title": "A Couple of Lies",
+    "poster_path": "/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
+    "backdrop_path": "/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.",
+    "industry": "world",
+    "popularity": 3.3692,
+    "original_language": "sv",
+    "origin_country": [
+      "SE"
+    ],
+    "trailer": {
+      "key": "ARYGWtBnQEA",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [],
+    "spoken_languages": [
+      "sv"
+    ],
+    "certification": "M18",
+    "first_air_date": "2026-10-30",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 4,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 4,
+        "air_date": "2026-10-30",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Amanda Högberg",
+      "Axel Stjärne"
+    ],
+    "providers": []
+  },
+  "337316": {
+    "id": 337316,
+    "type": "tv",
+    "title": "Lagan Lagi",
+    "poster_path": "/wIIeZSMFguqkuxf2dMjuL4ab43C.jpg",
+    "backdrop_path": "/59WHj70i2GjwUie1Bv2Jw0y03iL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?",
+    "industry": "pakistani",
+    "popularity": 1.0926,
+    "original_language": "ur",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "ur"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-06",
+    "networks": [
+      "ARY Digital"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "ARY Digital",
+    "episode_run_time": [
+      40
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-11-06",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Bilawal Hussain Abbasi"
+    ],
+    "providers": []
+  },
+  "330613": {
+    "id": 330613,
+    "type": "tv",
+    "title": "The Rules",
+    "poster_path": "/oSRuYY6z5CezBjb24kA1EgK3DlG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Metha, a man burdened by a buried past, attempts to start over by taking a night shift job at a mysterious convenience store. However, the store operates under a set of strange, inviolable rules—rules that, when broken, unleash supernatural death. Night after night, Metha is forced to confront the uncanny forces within the store… and the sins he once committed, from which there is no escape.",
+    "industry": "world",
+    "popularity": 56.4738,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-28",
+    "networks": [
+      "Viu"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Viu",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-28",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1789549": {
+    "id": 1789549,
+    "type": "movie",
+    "title": "The Birthday​ Gift​",
+    "poster_path": "/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+    "backdrop_path": "/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+    "industry": "world",
+    "popularity": 4.482,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "14",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 86,
+    "providers": []
+  },
+  "1812448": {
+    "id": 1812448,
+    "type": "movie",
+    "title": "Balade Mentale",
+    "poster_path": "/wSqHyRCiVj8aZwyPyxuYTyLKgZH.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1801880": {
+    "id": 1801880,
+    "type": "movie",
+    "title": "Once Upon a Rex",
+    "poster_path": "/2A4BTC5E02ThUrJJha7SdhW5TIV.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A documentary reminiscing on the 70 years history of a beloved cinema in Padua.",
+    "industry": "world",
+    "popularity": 0.4389,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 500,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Lo schermo più grande di Padova",
+    "status": "Planned",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 30,
+    "providers": []
+  },
+  "1801840": {
+    "id": 1801840,
+    "type": "movie",
+    "title": "Un ángel para Maruja",
+    "poster_path": "/nEAWKVr7eDFLquII0ijucYtBy5l.jpg",
+    "backdrop_path": "/zORyetudj8vUCKgObx7Fh5CnfwX.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "All but resigned to being trapped on the ground by an illness that makes orientation in flight impossible, a pigeon finds refuge in the home of Maruja, a lonely old woman determined to help the bird return to the sky.",
+    "industry": "world",
+    "popularity": 1.5178,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 13,
+    "providers": []
+  },
+  "1801769": {
+    "id": 1801769,
+    "type": "movie",
+    "title": "Annapurna: Dreams and Nightmares",
+    "poster_path": "/iikjn5fMCNWU4RGy7k6HdOPihkA.jpg",
+    "backdrop_path": "/ohd4HoGJMYouMDflxqIhdcUPkrO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Annapurna: Dreams and Nightmares is a 2026 documentary film by Thin Air Cinematics that challenges the traditional \"man-conquers-mountain\" story by exploring high-altitude mountaineering through failure, fear and human obsession  Filmed over 13 years, spanning 6 expeditions on 5 different climbing routes, this deeply personal documentary is an unflinching exploration into the life and mind of a high-altitude climber.  What begins with a dream becomes obsession, and ultimately a reckoning with why we climb in the first place.",
+    "industry": "world",
+    "popularity": 1.8389,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Adventure"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 115,
+    "providers": []
+  },
+  "1800287": {
+    "id": 1800287,
+    "type": "movie",
+    "title": "Grace Comes Crashing",
+    "poster_path": "/ktZGBUn6Ds6kj0hZ1sZPwd9tdnO.jpg",
+    "backdrop_path": "/avZcrnSdweinNF8mwCxrp5BDZGC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As a strange red lichen spreads across the countryside, Geryon confronts the emergence of sexual desire and an animal metamorphosis that drives him to flee into the mountains.",
+    "industry": "world",
+    "popularity": 1.8003,
+    "original_language": "es",
+    "origin_country": [
+      "CO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 20000,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "tagline": "A gothic fable of desire and erotic awakening",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 17,
+    "providers": []
+  },
+  "1800127": {
+    "id": 1800127,
+    "type": "movie",
+    "title": "Inventario de invisibles",
+    "poster_path": "/ftqkucwQrgeNnjnfh1tk9BxjIbc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The project was developed in collaboration with scientists from CONICET and the National University of the Northeast, who have been conducting research in the area for over four decades. Together with them, we delved into the thresholds of other geological eras, exploring interspecies coexistence and dialogues.",
+    "industry": "world",
+    "popularity": 0.7922,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 18,
+    "providers": []
+  },
+  "1799076": {
+    "id": 1799076,
+    "type": "movie",
+    "title": "Only Old Friends Left Alive",
+    "poster_path": "/2uSKcpxjpZsqt8YEVYnXEDeRD8M.jpg",
+    "backdrop_path": "/rq9z8SOdJITRhfOKMyJ3y6PmYzC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Retired Lao Cao and Xiao Lai, two old men, sit on opposite sides of a drinking table under an arcade in Taipei. They toast and talk nonsense like this every day, and they have done it for more than thirty years. A young director who meant only to watch somehow ends up at the table too, spending many absurd and moving nights with them. Years pass. Someone leaves, someone falls ill, and some relationships are repaired and then break again. The two men are old, they are nearly done with drink, and they no longer see each other often.",
+    "industry": "world",
+    "popularity": 1.0744,
+    "original_language": "zh",
+    "origin_country": [
+      "TW"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "TW"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1798383": {
+    "id": 1798383,
+    "type": "movie",
+    "title": "Wolves Up Close with Bertie Gregory",
+    "poster_path": "/fopmDU345HPkMC9iUaNQEY0uRkk.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
+    "industry": "world",
+    "popularity": 1.3947,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "3hCMUaREGL8",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 44,
+    "providers": []
+  },
+  "1797861": {
+    "id": 1797861,
+    "type": "movie",
+    "title": "Home",
+    "poster_path": "/bYmrCus7OzIrPG0sGJAdnZ8a4ma.jpg",
+    "backdrop_path": "/3wxp6ylIG1uS7nqZhEaJwdRcose.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Where does the Ukrainian road home begin and where does it end? The poetic journey follows a Ukrainian actress, Yelyzaveta, who emigrated to Lithuania, traveling back to her homeland country ravaged by war. Will we reach the final destination? How to reach home? Relatives? How to get back to the past which no longer exists? Can we wake up from the dream?",
+    "industry": "world",
+    "popularity": 1.7878,
+    "original_language": "lt",
+    "origin_country": [
+      "LT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "LT"
+    ],
+    "spoken_languages": [
+      "xx"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 11,
+    "providers": []
+  },
+  "1507696": {
+    "id": 1507696,
+    "type": "movie",
+    "title": "Apocalypse Z: New World",
+    "poster_path": "/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
+    "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "vote_average": 9.0,
+    "vote_count": 3,
+    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "industry": "world",
+    "popularity": 6.7398,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "BIEzwpyawtw",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-09",
+    "date_kind": "release",
+    "runtime": 96,
+    "providers": []
+  },
+  "1290418": {
+    "id": 1290418,
+    "type": "movie",
+    "title": "The Cycle",
+    "poster_path": "/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+    "backdrop_path": "/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+    "vote_average": 6.736,
+    "vote_count": 72,
+    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+    "industry": "world",
+    "popularity": 97.9522,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "m8vcBN8uza8",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 5431,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "tagline": "You can't bury the past forever.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-09-24",
+    "date_kind": "release",
+    "runtime": 111,
+    "providers": [
+      {
+        "name": "AMC Plus Apple TV channel",
+        "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "AMC+ Amazon Channel",
+        "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Shudder",
+        "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1503762": {
+    "id": 1503762,
+    "type": "movie",
+    "title": "Sense and Sensibility",
+    "poster_path": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "backdrop_path": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+    "vote_average": 7.4,
+    "vote_count": 97,
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "industry": "world",
+    "popularity": 93.898,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "OFLyW0lxFU0",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 25000000,
+    "revenue": 30408363,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "No one knows your heart like a sister.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG",
+    "release_date": "2026-09-23",
+    "date_kind": "release",
+    "runtime": 132,
+    "providers": []
+  },
+  "1465063": {
+    "id": 1465063,
+    "type": "movie",
+    "title": "Forgotten Island",
+    "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+    "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "vote_average": 7.665,
+    "vote_count": 130,
+    "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "industry": "world",
+    "popularity": 119.5326,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "PhgY8cOJiQA",
+      "name": "Get Tickets",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 80000000,
+    "revenue": 68128381,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "tagline": "No memory left behind.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "tl"
+    ],
+    "certification": "U",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": []
+  },
+  "1377237": {
+    "id": 1377237,
+    "type": "movie",
+    "title": "Runner",
+    "poster_path": "/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+    "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+    "vote_average": 8.312,
+    "vote_count": 761,
+    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "industry": "world",
+    "popularity": 98.0867,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "B6Z9MM1LhEA",
+      "name": "UK Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-30",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 18094381,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "tagline": "Next-day delivery isn't an option.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "AU",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 97,
+    "providers": [
+      {
+        "name": "Angel Studios",
+        "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   }
 };

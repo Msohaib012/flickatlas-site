@@ -23301,5 +23301,180 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 17:19:39 +0000"
+  },
+  "1x2yub9": {
+    "id": "1x2yub9",
+    "type": "news",
+    "headline": "Madaar Episode 29 Promo Highlights New Twists on Green TV",
+    "dek": "Green TV has released the official preview for Episode 29 of its popular drama series Madaar, featuring lead actors Humayoun Ashraf and Sumaiyya Bukhsh.",
+    "body": [
+      {
+        "h": "The Latest Teaser Release",
+        "p": [
+          "Audiences following the schedule of Green TV have received a fresh preview for the upcoming installment of their favorite serial. The newly dropped promotional clip offers a glimpse into forthcoming dramatic events, generating excitement among regular viewers who tune in to follow the unfolding narrative.",
+          "The short video highlights key interactions between the primary cast members, pointing toward intense emotional sequences and shifting dynamics within the main storyline as the narrative progresses further."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Network",
+        "p": [
+          "Fans can catch the television serial regularly during the week, with fresh installments airing from Monday through Friday. The network has slotted the broadcast time firmly at 9:00 PM, allowing dedicated followers to easily incorporate the show into their evening routines.",
+          "Green TV serves as the official platform distributing the project, ensuring widespread accessibility for households who track contemporary television programming across the region."
+        ]
+      },
+      {
+        "h": "Starring Cast Members",
+        "p": [
+          "The television serial features prominent performers in the central roles, bringing depth to the character arcs. Humayoun Ashraf takes on significant responsibilities on screen, delivering a compelling performance that drives much of the central conflict.",
+          "Accompanying him is Sumaiyya Bukhsh, whose portrayal adds crucial emotional resonance to the unfolding plot. Together, the lead duo anchors the dramatic weight of the ongoing television project."
+        ]
+      },
+      {
+        "h": "Plot Background and Context",
+        "p": [
+          "The overarching narrative of the show revolves around heavy familial responsibilities following significant life losses. Specifically, after the father's passing, the character Sammar steps up to shoulder the duties of providing for and protecting his family, which includes his mother.",
+          "This premise sets up a foundation filled with trials, sacrifices, and interpersonal struggles, resonating deeply with viewers who appreciate grounded domestic storytelling and character-driven drama."
+        ]
+      },
+      {
+        "h": "Audience Reception and Engagement",
+        "p": [
+          "Since hitting digital platforms, the promotional clip has quickly drawn thousands of views from eager fans tracking the show's progress online. Viewers have taken to comment sections to share their enthusiasm and anticipation for the upcoming broadcast.",
+          "The strong digital footprint underscores the dedicated fanbase surrounding the project, with enthusiasts frequently discussing plot theories and character developments across various social channels."
+        ]
+      },
+      {
+        "h": "Music and Accompanying Soundtracks",
+        "p": [
+          "Beyond the episodes themselves, the production features dedicated musical compositions that enhance the viewing atmosphere. The official soundtrack, often searched by fans, complements the emotional tone established by the directors and writers.",
+          "These musical elements play a vital role in cementing the mood of pivotal scenes, further elevating the overall presentation of the television drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Green TV has shared the promotional preview for Episode 29 of the drama Madaar, starring Humayoun Ashraf and Sumaiyya Bukhsh. The series airs weekday nights at 9:00 PM, following Sammar as he takes care of his family after his father's death."
+        ]
+      }
+    ],
+    "facts": [
+      "Madaar Episode 29 airs on Green TV",
+      "The show broadcasts Monday to Friday at 9:00 PM",
+      "Humayoun Ashraf and Sumaiyya Bukhsh star in the series",
+      "Sammar takes on responsibility for his family including his mother after the father's death"
+    ],
+    "entities": {
+      "people": [
+        "Humayoun Ashraf",
+        "Sumaiyya Bukhsh",
+        "Sammar"
+      ],
+      "titles": [
+        "Madaar"
+      ]
+    },
+    "keywords": [
+      "Madaar Episode 29",
+      "Humayoun Ashraf Madaar",
+      "Sumaiyya Bukhsh Green TV",
+      "Madaar drama promo"
+    ],
+    "images": [
+      {
+        "url": "https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f49a.png",
+        "caption": "Madaar Episode 29 Promo Highlights New Twists on Green TV",
+        "source": "Green TV Entertainment (YouTube)"
+      }
+    ],
+    "published": "2026-10-30T17:30:36+00:00"
+  },
+  "x77d04": {
+    "id": "x77d04",
+    "type": "news",
+    "headline": "Brad Pitt's New Survival Thriller Shrinks Screen Count as It Targets $200 Million Milestone",
+    "dek": "The survival thriller starring Brad Pitt and directed by David Ayer experiences a theater reduction by Paramount as it nears the $200 million global box office threshold.",
+    "body": [
+      {
+        "h": "The Box Office Journey",
+        "p": [
+          "As a variety of films draw younger demographics into cinemas, a counter-programming choice aimed at older audiences has emerged as a major theatrical performer. Spending over a month on the big screen, the survival thriller has successfully navigated intense competition from multiple directions.",
+          "After maintaining steady momentum during its initial weeks, the feature experienced a modest drop in subsequent frames. As it approaches its seventh weekend in release, distribution studio Paramount has trimmed its screen count across domestic locations."
+        ]
+      },
+      {
+        "h": "Theater Reductions and Global Targets",
+        "p": [
+          "Trade reports indicate that the survival picture has officially been pulled from 1,800 theaters. Despite this significant scaling back of its theatrical footprint, the project continues its steady climb toward a major commercial milestone.",
+          "The film is actively pursuing the $200 million threshold at the worldwide box office. This financial trajectory is supported by favorable critical reviews and enthusiastic word-of-mouth approval from its primary demographic of mature moviegoers."
+        ]
+      },
+      {
+        "h": "Brad Pitt's Recent Momentum",
+        "p": [
+          "Leading man Brad Pitt enters this project on the heels of the most commercially successful venture of his professional life. His previous outing, the sports drama F1, hauled in approximately $630 million globally in 2025 and subsequently secured a Best Picture nomination at the Academy Awards.",
+          "The new survival project pairs the seasoned actor with a director who has also experienced a strong wave of career success and audience favor."
+        ]
+      },
+      {
+        "h": "Reuniting With David Ayer",
+        "p": [
+          "The thriller marks a reunion between Pitt and filmmaker David Ayer, who previously collaborated on the war drama Fury. Ayer has recently enjoyed a strong streak in the commercial action sphere.",
+          "The director rebuilt his standing within major Hollywood studios through a pair of successful action vehicles starring Jason Statham. Both The Beekeeper and A Working Man established Ayer as a dependable crowd-pleaser."
+        ]
+      },
+      {
+        "h": "Outperforming Past Collaborations",
+        "p": [
+          "Ayer's recent Jason Statham projects earned widespread appreciation from ticket buyers for their direct, unpretentious action delivery. However, his latest venture alongside Brad Pitt has managed to surpass those prior titles in scale and audience reach.",
+          "The combination of a high-profile leading actor and an action-oriented director has resonated well with mature audiences looking for counter-programming against youth-focused blockbusters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt's latest survival thriller has been removed from 1,800 theaters by Paramount as it enters its seventh weekend on the big screen. Directed by David Ayer, the film is currently eyeing the $200 million global box office mark following a strong run of positive audience and critical reception."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt starred in the 2025 sports drama F1, which made around $630 million worldwide and earned a Best Picture Oscar nomination.",
+      "David Ayer directed both The Beekeeper and A Working Man, two action films starring Jason Statham.",
+      "Brad Pitt previously worked with director David Ayer on the film Fury.",
+      "The new survival thriller starring Brad Pitt has been removed from 1,800 theaters by Paramount as it enters its seventh weekend.",
+      "The survival thriller is targeting the $200 million mark at the worldwide box office."
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "David Ayer",
+        "Jason Statham",
+        "Rohan Naahar",
+        "Francois Ozon",
+        "David Fincher"
+      ],
+      "titles": [
+        "F1",
+        "Fury",
+        "The Beekeeper",
+        "A Working Man",
+        "You Can See Everything",
+        "Clayface",
+        "Street Fighter"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt survival thriller",
+      "David Ayer movie box office",
+      "Brad Pitt Paramount theater count",
+      "Brad Pitt F1 film success"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/heart-of-the-beast-1-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Brad Pitt's New Survival Thriller Shrinks Screen Count as It Targets $200 Million Milestone",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 17:46:12 GMT"
   }
 };

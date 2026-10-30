@@ -317,6 +317,18 @@ window.FA_OTT = {
     {
       "date": "2026-09-25",
       "date_kind": "release",
+      "id": 1377237,
+      "providers": [
+        {
+          "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+          "name": "Angel Studios"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-25",
+      "date_kind": "release",
       "id": 1578079,
       "providers": [
         {
@@ -337,6 +349,26 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-09-24",
+      "date_kind": "release",
+      "id": 1290418,
+      "providers": [
+        {
+          "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-09-24",
@@ -433,6 +465,30 @@ window.FA_OTT = {
     {
       "date": "2026-08-21",
       "date_kind": "release",
+      "id": 1508168,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-08-21",
+      "date_kind": "release",
+      "id": 1441228,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-08-21",
+      "date_kind": "release",
       "id": 332299,
       "providers": [
         {
@@ -457,6 +513,34 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-08-14",
+      "date_kind": "release",
+      "id": 1408162,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-08-07",
+      "date_kind": "release",
+      "id": 1479832,
+      "providers": [
+        {
+          "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+          "name": "Sun Nxt"
+        },
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-08-07",
@@ -511,9 +595,277 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-07-23",
+      "date_kind": "release",
+      "id": 1235877,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-07-10",
+      "date_kind": "release",
+      "id": 1484913,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-07-03",
+      "date_kind": "release",
+      "id": 1122030,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-06-19",
+      "date_kind": "release",
+      "id": 1392469,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-06-12",
+      "date_kind": "release",
+      "id": 1431068,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-06-04",
+      "date_kind": "release",
+      "id": 1057265,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-05-28",
+      "date_kind": "release",
+      "id": 1515729,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-05-15",
+      "date_kind": "release",
+      "id": 1367220,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-05-15",
+      "date_kind": "release",
+      "id": 1628367,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-04-30",
+      "date_kind": "release",
+      "id": 1433117,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-04-17",
+      "date_kind": "release",
+      "id": 1239134,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-03-19",
+      "date_kind": "release",
+      "id": 1582770,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-03-19",
+      "date_kind": "release",
+      "id": 1542352,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-03-15",
       "date_kind": "release",
       "id": 687163,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-03-12",
+      "date_kind": "release",
+      "id": 1561687,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-02-27",
+      "date_kind": "release",
+      "id": 1389149,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-02-13",
+      "date_kind": "release",
+      "id": 1446616,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-01-30",
+      "date_kind": "release",
+      "id": 1339876,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-01-23",
+      "date_kind": "release",
+      "id": 1213898,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-12-05",
+      "date_kind": "release",
+      "id": 1291608,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-10-31",
+      "date_kind": "release",
+      "id": 1511417,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-10-02",
+      "date_kind": "release",
+      "id": 1083637,
       "providers": [
         {
           "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
@@ -538,6 +890,30 @@ window.FA_OTT = {
         {
           "logo_path": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
           "name": "MUBI Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-08-14",
+      "date_kind": "release",
+      "id": 1109086,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-07-18",
+      "date_kind": "release",
+      "id": 1241634,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "movie"
@@ -594,6 +970,46 @@ window.FA_OTT = {
         {
           "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
           "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-03-30",
+      "date_kind": "release",
+      "id": 1257960,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-03-14",
+      "date_kind": "release",
+      "id": 1424217,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-02-28",
+      "date_kind": "release",
+      "id": 1226572,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"

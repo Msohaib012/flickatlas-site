@@ -784,31 +784,32 @@
             "sources": {
               "filmynewsnetwork": 61.0,
               "moviemint": 64.1,
+              "overseas-ai": 62.0,
               "overseas-backfill": 62.0,
               "sacnilk": 62.0
             },
-            "value": 62.3
+            "value": 62.2
           },
           "overseas": {
-            "crore": 37.0,
+            "crore": 34.0,
             "currency": "USD",
             "date": "2026-10-18",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
-              "overseas-ai": 40.0,
               "overseas-backfill": 34.0
             },
-            "value": 3909139
+            "value": 3592182
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 13669,
               "moviemint": 16827,
+              "overseas-ai": 15473,
               "overseas-backfill": 15473,
               "sacnilk": 15473
             },
-            "value": 15360
+            "value": 15383
           },
           "tickets": {
             "sources": {
@@ -4074,10 +4075,11 @@
             "sources": {
               "filmynewsnetwork": 1148,
               "moviemint": 1765,
+              "overseas-ai": 1569,
               "overseas-backfill": 1569,
               "sacnilk": 1569
             },
-            "value": 1513
+            "value": 1524
           },
           "tickets": {
             "sources": {
@@ -6264,6 +6266,7 @@
             "sources": {
               "filmynewsnetwork": 1238,
               "moviemint": 1359,
+              "overseas-ai": 1300,
               "overseas-backfill": 1300,
               "sacnilk": 1300
             },
