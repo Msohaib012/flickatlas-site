@@ -1333,6 +1333,8 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .fa-box-latest-card dd .fa-money{min-width:0;overflow-wrap:anywhere}
 .fa-box-unavailable{font-size:.66rem;font-weight:550;color:#60746f;letter-spacing:-.02em}
 .fa-box-partial{display:inline-block;font-size:.56rem;font-weight:650;line-height:1.3;text-decoration:none;padding:1px 3px;background:#e9f3ef;border-radius:4px;color:#536a65;cursor:help}
+.fa-box-latest-card .fa-box-evidence{display:block;margin:4px 0 0;color:#60746f;font-size:.58rem;font-weight:450;line-height:1.35;overflow-wrap:anywhere}
+.fa-box-latest-card .fa-box-source{color:var(--teal-dark);text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere}
 .fa-box-latest--home .fa-box-latest-card{padding:12px}
 .fa-box-latest--home .fa-box-latest-title{font-size:.93rem}
 .fa-box-latest--home .fa-box-latest-meta{margin-bottom:8px}

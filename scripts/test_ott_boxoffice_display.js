@@ -1,37 +1,36 @@
 #!/usr/bin/env node
-// Offline tests of the actual homepage code; no source fetches or data writes.
+// Offline tests only: no source fetches, workflow dispatches, or writes.
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
-const source = fs.readFileSync(path.join(__dirname, '..', 'js/page-index.js'), 'utf8');
-const today = '2026-10-29';
+const pageSource = fs.readFileSync(path.join(__dirname, '..', 'js/page-index.js'), 'utf8');
+const helper = require('../js/home-boxoffice.js');
+const today = '2026-10-30';
+const ottToday = '2026-10-29';
+const normalize = x => JSON.parse(JSON.stringify(x));
+
+// Keep the OTT fallback contract covered while the Box Office renderer changes.
 const provider = { name: 'Netflix', logo_path: '/netflix.png' };
 const movie = (id, date, extra = {}) => ({ id, type: 'movie', poster_path: '/poster.jpg', release_date: date, providers: [provider], ...extra });
 const tv = (id, date, extra = {}) => ({ id, type: 'tv', poster_path: '/poster.jpg', first_air_date: date, providers: [provider], ...extra });
 const items = [
   movie(1, '2026-10-20'),
-  movie(2, '2026-11-01'), // A provider and future cinema date are not OTT evidence.
-  tv(3, '2026-11-02'), // A normal future TV premiere is not OTT evidence either.
+  movie(2, '2026-11-01'),
+  tv(3, '2026-11-02'),
   tv(4, '2026-10-30', { ott_release_date: '2026-10-30', ott_release_provider: 'Netflix', ott_release_source: 'https://official.example/series' }),
-  tv(5, '2018-07-06'), // Currently provider-listed old series remain eligible.
+  tv(5, '2018-07-06'),
   tv(6, '2026-11-03', { ott_release_date: '2026-11-03', ott_release_provider: 'Netflix', ott_release_source: 'http://unverified.example/series' }),
   tv(7, '2026-11-04', { ott_release_date: '2026-11-04', ott_release_provider: 'Prime Video', ott_release_source: 'https://official.example/series' }),
   tv(8, '2026-10-10', { industry: 'pakistani' }),
   movie(9, '2026-10-10', { providers: [] }),
 ];
-const fallbackStart = source.indexOf('    const ottGroups = (() => {');
-const fallbackEnd = source.indexOf('    const pubMap = {};', fallbackStart);
+const fallbackStart = pageSource.indexOf('    const ottGroups = (() => {');
+const fallbackEnd = pageSource.indexOf('    const pubMap = {};', fallbackStart);
 assert(fallbackStart >= 0 && fallbackEnd > fallbackStart, 'homepage OTT fallback anchor changed');
-const fallbackCode = source.slice(fallbackStart, fallbackEnd) + '\nottGroups;';
-const context = {
-  window: {}, today,
-  UI: { industryOf: x => x?.industry || 'bollywood' },
-  pubAll: () => items,
-  typeOf: x => x.type || 'movie',
-  dateOf: x => x.release_date || '',
-};
-const normalize = x => JSON.parse(JSON.stringify(x));
+const fallbackCode = pageSource.slice(fallbackStart, fallbackEnd) + '\nottGroups;';
+const context = { window: {}, today: ottToday, UI: { industryOf: x => x?.industry || 'bollywood' },
+  pubAll: () => items, typeOf: x => x.type || 'movie', dateOf: x => x.release_date || '' };
 const groups = normalize(vm.runInNewContext(fallbackCode, context));
 assert.deepEqual(groups.now.map(x => x.id), [1, 5]);
 assert.deepEqual(groups.coming.map(x => x.id), [4]);
@@ -40,194 +39,185 @@ assert.equal(groups.coming[0].date, '2026-10-30');
 assert.deepEqual(groups.coming[0].providers, [provider]);
 assert(!groups.coming.some(x => x.id === 2 || x.id === 3));
 const baked = { now: [{ id: 99 }], coming: [] };
-assert.equal(vm.runInNewContext(fallbackCode, { ...context, window: { FA_OTT: baked } }), baked, 'valid generated data must remain authoritative');
+assert.equal(vm.runInNewContext(fallbackCode, { ...context, window: { FA_OTT: baked } }), baked,
+  'valid generated OTT data remains authoritative');
 
-const cardStart = source.indexOf('    const boCardHtml = (entry, rows) => {');
-const cardEnd = source.indexOf('    /* Box Office sort', cardStart);
-const shortStart = source.indexOf('    const shortDate = (s) => {');
-assert(cardStart >= 0 && cardEnd > cardStart && shortStart < cardStart, 'Box Office card anchors changed');
-const cardCode = source.slice(shortStart, cardEnd) + '\nboCardHtml;';
-const UI = {
-  esc: x => String(x ?? ''), titleOf: x => x.title || 'Fixture',
-  img: x => x, fmtDate: x => x, fmtMoney: n => '$' + n,
-};
-const card = vm.runInNewContext(cardCode, { UI, todayIST: today, window: {} });
-const entry = { id: 1, title: 'Fixture', release_date: '2026-10-20', poster_path: '/poster.jpg' };
-const yesterdayOnly = card(entry, [{ date: '2026-10-28', collection: 2 }]);
-assert.match(yesterdayOnly, /<dt>Today · 29 Oct<\/dt>/);
-assert.doesNotMatch(yesterdayOnly, /<dt>Today · 28 Oct<\/dt>/);
-assert.match(yesterdayOnly, /<dt>Today · 29 Oct<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
-assert.match(yesterdayOnly, /<dt>7 Days<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
-assert.match(yesterdayOnly, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
-assert.doesNotMatch(yesterdayOnly, /\$2/, 'unscoped India Net data must not appear on homepage');
-const worldwideDay = card(entry, [{ date: today, collection: 42, scope: 'worldwide' }]);
-assert.match(worldwideDay, /<dt>Today · 29 Oct<\/dt><dd>\$42<\/dd>/, 'only explicit worldwide daily rows may display');
-assert.match(worldwideDay, /<dt>7 Days<\/dt><dd>\$42/);
-assert.match(worldwideDay, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
-const combinedToday = card({ ...entry, release_date: today }, [{ day: 1, date: today, collection: 10, overseas: 5 }]);
-assert.match(combinedToday, /<dt>Today · 29 Oct<\/dt><dd>\$15<\/dd>/, 'India Net + Overseas is worldwide only when both same-day components are reported');
-assert.match(combinedToday, /<dt>7 Days<\/dt><dd>\$15<abbr class="fa-box-partial" title="1 of 7 worldwide days reported · partial">1\/7<\/abbr><\/dd>/);
-assert.match(combinedToday, /<dt>Worldwide total<\/dt><dd>\$15<\/dd>/, 'a complete Day 1 India Net + Overseas pair can provide a cumulative-to-date total');
-const completePairs = card(entry, [
-  { day: 1, date: '2026-10-20', collection: 10, overseas: 5 },
-  { day: 2, date: '2026-10-21', collection: 20, overseas: 7 },
-  { day: 3, date: '2026-10-22', collection: 30, overseas: 10 },
-]);
-assert.match(completePairs, /<dt>Worldwide total<\/dt><dd>\$82<\/dd>/, 'complete consecutive daily pairs sum to worldwide total');
-const incompletePairs = card(entry, [
-  { day: 1, date: '2026-10-20', collection: 10, overseas: 5 },
-  { day: 2, date: '2026-10-21', collection: 20 },
-]);
-assert.match(incompletePairs, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'missing overseas component blocks derived total');
-const mismatchedRelease = vm.runInNewContext(cardCode, { UI, todayIST: today, window: {} })(
-  entry, [{ day: 1, date: '2026-10-21', collection: 10, overseas: 5 }]
-);
-assert.match(mismatchedRelease, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'daily total cannot start after the movie release date');
-const mismatchedDayDates = card(entry, [
-  { day: 1, date: '2026-10-20', collection: 10, overseas: 5 },
-  { day: 2, date: '2026-10-23', collection: 20, overseas: 7 },
-]);
-assert.match(mismatchedDayDates, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'day labels cannot bridge missing calendar dates');
-const domesticDay = card(entry, [{ date: today, collection: 999, scope: 'domestic-only-so-far' }]);
-assert.match(domesticDay, /<dt>Today · 29 Oct<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/);
-const worldwideTotalWithIndiaRows = vm.runInNewContext(cardCode, {
-  UI, todayIST: today, window: { FA_WORLDWIDE: { '1': { total_usd: 12345, scope: 'worldwide', source: 'Fixture', as_of: today } } },
-})(entry, [{ date: today, collection: 999999 }]);
-assert.match(worldwideTotalWithIndiaRows, /<dt>Worldwide total<\/dt><dd>\$12345<\/dd>/, 'India day rows cannot mask the explicit worldwide total');
-assert.doesNotMatch(worldwideTotalWithIndiaRows, /\$999999/, 'India day rows cannot appear in the worldwide card');
-const listingSource = fs.readFileSync(path.join(__dirname, '..', 'js/page-boxoffice.js'), 'utf8');
-const listingStart = listingSource.indexOf('  const boCardHtml = (entry, rows) => {');
-const listingEnd = listingSource.indexOf('\n  };', listingStart);
-assert(listingStart >= 0 && listingEnd > listingStart, 'Box Office listing card anchor changed');
-const listingCardCode = listingSource.slice(listingStart, listingEnd + '\n  };'.length) + '\nboCardHtml;';
-for (const [scope, label] of [
-  ['domestic-only-so-far', 'Domestic reported to date'],
-  ['domestic-opening-weekend', 'Domestic opening weekend'],
-  ['worldwide', 'Worldwide total'],
-  ['unknown-scope', 'Reported figure'],
-]) {
-  const world = { '1': { total_usd: 12345, scope, source: 'Fixture', as_of: today } };
-  const homeHtml = vm.runInNewContext(cardCode, { UI, todayIST: today, window: { FA_WORLDWIDE: world } })(entry, []);
-  const listingHtml = vm.runInNewContext(listingCardCode, { UI, todayIST: today, window: { FA_WORLDWIDE: world } })(entry, []);
-  assert.match(listingHtml, new RegExp(`<dt>${label}<\\/dt>`), `listing label for ${scope}`);
-  if (scope === 'worldwide') {
-    assert.match(homeHtml, /<dt>Worldwide total<\/dt><dd>\$12345<\/dd>/, 'homepage shows explicit worldwide total');
-  } else {
-    assert.match(homeHtml, /<dt>Worldwide total<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, `homepage hides non-worldwide scope ${scope}`);
-    assert.doesNotMatch(homeHtml, /\$12345/, `homepage must not show domestic or unknown amount for ${scope}`);
-    assert.doesNotMatch(homeHtml, /Domestic reported to date|Domestic opening weekend|Reported figure/);
-    assert.doesNotMatch(listingHtml, /<dt>Worldwide total<\/dt>/, `listing must not imply worldwide scope for ${scope}`);
-  }
-}
-
-// Homepage Box Office ranking: <=14-day releases first; within each age
-// group, source-backed 14-day report sums first, then existing Popular order.
-const rankingStart = source.indexOf('    const boxOfficeReleaseCutoffDate =');
-const rankingEnd = source.indexOf('    const boHasKind =', rankingStart);
-assert(rankingStart >= 0 && rankingEnd > rankingStart, 'homepage 14-day ranking anchors changed');
-const rankingCode = source.slice(rankingStart, rankingEnd) + '\nboPoolFor;';
-const rankingUI = {
-  industryOf: x => x.industry || 'world',
-  isStreamingOnly: x => !!x.streamingOnly,
-  titleOf: x => x.title || String(x.id),
-  esc: x => String(x ?? ''), img: x => x, fmtDate: x => x, fmtMoney: n => String(n),
-};
-const makeCandidate = (id, release, industry, dailyRows, extra = {}) => ({
-  id, title: String(id), type: 'movie', poster_path: '/poster.jpg', release_date: release,
-  industry, dailyRows, vote_average: 0, vote_count: 0, ...extra,
+// India Net + Overseas may form worldwide only with source-backed, exact-date,
+// same-currency components; a lone or incompatible component never qualifies.
+const pair = (day, date, collection, overseas, extra = {}) => ({ day: `Day ${day}`, date, collection, overseas, ...extra });
+const worldwideDay = (day, date, amount, extra = {}) => ({ day: `Day ${day}`, date, amount, scope: 'worldwide', currency: 'USD',
+  source_name: 'source.example', source_url: `https://source.example/day/${day}`, ...extra });
+const pairProof = (row, extra = {}) => ({
+  date: row.date, date_disagreed: false, india: true, collection_usd: row.collection,
+  collection_currency: 'USD', collection_scope: 'india_net', sources: { sacnilk: 1 },
+  extras: { overseas: { value: row.overseas, currency: 'USD', scope: 'overseas_gross',
+    date: row.date, date_disagreed: false, sources: { 'overseas-ai': 1 } } }, ...extra,
 });
-const worldwideRows = rows => rows.map(row => ({ ...row, scope: 'worldwide' }));
-const rankHome = (fixtures, industry = 'bollywood') => {
-  const dwData = Object.fromEntries(fixtures.map(x => [String(x.id), x.dailyRows || []]));
-  const choose = vm.runInNewContext(rankingCode, {
-    today: '2026-10-30', todayIST: '2026-10-30', UI: rankingUI, window: {
-      FA_WORLDWIDE: { noRows: { total_usd: 999999999, scope: 'worldwide', as_of: '2026-10-30' }, old: { total_usd: 999999999, scope: 'worldwide' } },
-    },
-    pubAll: () => fixtures, dwData, typeOf: x => x.type || 'movie',
-  });
-  return normalize(choose(industry).map(x => x.id));
+assert.equal(helper.rowWorldAmount(pair(1, today, 10, 5)), null,
+  'raw India Net + Overseas values are not accepted as an explicit worldwide row');
+assert.equal(helper.rowWorldAmount(pair(1, today, 10, null)), null, 'missing overseas component stays missing');
+assert.equal(helper.rowWorldAmount({ day: 1, date: today, collection: 20, scope: 'india_net' }), null,
+  'India Net alone is never worldwide');
+assert.equal(helper.rowWorldAmount({ day: 1, date: today, collection: 20, overseas: 5, scope: 'domestic-only' }), null,
+  'domestic-only scope is rejected');
+const explicit = helper.rowWorldAmount({ day: 1, date: today, collection: 21, overseas: 5, scope: 'worldwide', currency: 'USD',
+  source_url: 'https://worldwide.example/report', source_name: 'worldwide.example' });
+assert.equal(explicit.amount, 21, 'explicit worldwide total is used as-is, not added to components');
+assert.equal(explicit.method, 'explicit_worldwide_day');
+
+const pairRelease = '2026-10-24';
+const sourcePairs = Array.from({ length: 7 }, (_, i) => pair(i + 1, helper.shiftDate(pairRelease, i), 11, 5));
+const pairSidecar = Object.fromEntries(sourcePairs.map(row => [String(Number(row.day.match(/\d+/)[0])), pairProof(row)]));
+const pairItem = { id: 'pair-fixture', release_date: pairRelease };
+const paired = helper.pairedMetrics(pairItem, sourcePairs, pairSidecar, today, '2026-10-30T06:00:00Z');
+assert.equal(paired.today.amount, 16);
+assert.equal(paired.today.scope, 'worldwide');
+assert.equal(paired.today.method, 'paired_components');
+assert.equal(paired.today.currency, 'USD');
+assert.deepEqual(paired.today.components.india_net.source_names, ['Sacnilk']);
+assert.deepEqual(paired.today.components.overseas_gross.source_names, ['Overseas AI']);
+assert.equal(paired.last_7_days.amount, 112, 'all seven exact paired dates are summed');
+assert.equal(paired.last_7_days.pair_dates.length, 7);
+assert.equal(paired.cumulative_total.amount, 112);
+assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, paired, 'today', today).method, 'paired_components',
+  'same-window pair wins over a direct worldwide report');
+const invalidPair = (mutate) => {
+  const proof = JSON.parse(JSON.stringify(pairSidecar));
+  mutate(proof['7']);
+  return helper.pairedMetrics(pairItem, sourcePairs, proof, today, '2026-10-30T06:00:00Z');
 };
-const capFixture = Array.from({ length: 10 }, (_, i) => makeCandidate(
-  `b${i}`, '2026-10-23', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: (i + 1) * 100 }])
-));
-const rankedCap = rankHome(capFixture);
-assert.deepEqual(rankedCap, ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2', 'b1', 'b0']);
-assert.deepEqual(rankedCap.slice(0, 8), ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2']);
-assert.match(source, /const boPicks = boPoolFor\("bollywood"\)\.slice\(0, HOME_LIMITS\.boxoffice\)/);
-assert.match(source, /kind === "boxoffice" \? boPoolFor\(industry\)\.slice\(0, HOME_LIMITS\.boxoffice\)/);
-const boxOfficeSubtitle = '14-day releases first · worldwide collections, then popularity · older titles only if needed';
-assert.equal(source.split(boxOfficeSubtitle).length - 1, 2, 'initial and tab-switched subtitles both describe worldwide collections');
+assert.equal(invalidPair(proof => { proof.extras.overseas.currency = 'INR'; }).today, undefined,
+  'different component currencies are never added');
+assert.equal(invalidPair(proof => { proof.extras.overseas.date = '2026-10-29'; }).today, undefined,
+  'different component dates are never added');
+assert.equal(invalidPair(proof => { proof.date_disagreed = true; }).today, undefined,
+  'source date disagreement blocks a component');
+assert.equal(invalidPair(proof => { proof.extras.overseas.sources = {}; }).today, undefined,
+  'unprovenanced Overseas values are never added');
+assert.equal(invalidPair(proof => { proof.collection_usd += 1; }).today, undefined,
+  'sidecar and displayed inner-page India values must match');
+assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, {}, 'today', today), null,
+  'a missing pair and missing direct worldwide source stay unreported');
 
-const gateFixture = [
-  makeCandidate('age14', '2026-10-16', 'bollywood', worldwideRows([{ date: '2026-10-17', collection: 20 }])),
-  makeCandidate('age15', '2026-10-15', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 999999 }]), { vote_average: 10 }),
-  makeCandidate('outside-report-window', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-16', collection: 999999 }]), { vote_average: 8 }),
-  makeCandidate('future-report', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-31', collection: 999999 }]), { vote_average: 7 }),
-  makeCandidate('future-release', '2026-10-31', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 999999 }]), { vote_average: 10 }),
-  makeCandidate('noRows', '2026-10-30', 'bollywood', [], { vote_average: 9, vote_count: 10000 }),
-  makeCandidate('zero-only', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 0 }])),
-  makeCandidate('string-amount', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: '999999' }]), { vote_average: 6 }),
-  makeCandidate('duplicate-day', '2026-10-30', 'bollywood', worldwideRows([
-    { date: '2026-10-30', collection: 400 }, { date: '2026-10-30', collection: 600 },
-  ]), { vote_average: 5 }),
-  makeCandidate('old-data', '2026-10-10', 'bollywood', worldwideRows([{ date: '2026-10-29', collection: 100 }])),
-  makeCandidate('old-noRows', '2026-10-12', 'bollywood', [], { vote_average: 10, vote_count: 100000 }),
-  makeCandidate('streaming-only', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 999999 }]), { streamingOnly: true }),
-  makeCandidate('festival', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 999999 }]), { date_kind: 'festival' }),
-  makeCandidate('series', '2026-10-30', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 999999 }]), { type: 'tv' }),
-  makeCandidate('pakistani', '2026-10-30', 'pakistani', worldwideRows([{ date: '2026-10-30', collection: 999999 }])),
-  makeCandidate('world-a', '2026-10-23', 'world', worldwideRows([{ date: '2026-10-29', collection: 100 }])),
-  makeCandidate('world-b', '2026-10-25', 'world', worldwideRows([{ date: '2026-10-30', collection: 300 }])),
-  makeCandidate('world-noRows', '2026-10-24', 'world', [], { vote_average: 9 }),
-  makeCandidate('world-old-data', '2026-10-10', 'world', worldwideRows([{ date: '2026-10-30', collection: 500 }])),
-  makeCandidate('world-old-noRows', '2026-10-12', 'world', [], { vote_average: 8 }),
+// Daily windows require complete dates since release, and include only Days 1–30.
+const recentRelease = '2026-10-24';
+const weekRows = Array.from({ length: 7 }, (_, i) => worldwideDay(i + 1, helper.shiftDate(recentRelease, i), 11));
+const week = helper.localDailyMetric(weekRows, 'last_7_days', recentRelease, today);
+assert.equal(week.amount, 77);
+assert.equal(week.sources.length, 7, 'all source URLs for a seven-day aggregate are retained');
+assert.equal(week.observed_date, today);
+assert.equal(week.reported_days, 7);
+assert.equal(week.period_start, '2026-10-24');
+assert.equal(week.period_end, today);
+assert.equal(helper.localDailyMetric(weekRows.slice(1), 'last_7_days', recentRelease, today), null,
+  'a missing date blocks a partial 7-day worldwide amount');
+assert.equal(helper.localDailyMetric([
+  ...weekRows.slice(0, 6), worldwideDay(7, today, 11, { currency: 'INR' }),
+], 'last_7_days', recentRelease, today), null, 'currency mismatch blocks the window');
+assert.equal(helper.localDailyMetric([worldwideDay(31, today, 11)], 'today', today, today), null,
+  'Day 31 cannot appear as a daywise homepage amount');
+
+const day31Release = '2026-10-01';
+const day31Rows = Array.from({ length: 31 }, (_, i) => pair(i + 1, helper.shiftDate(day31Release, i), 1, 2));
+const day31Proof = Object.fromEntries(day31Rows.map(row => [String(Number(row.day.match(/\d+/)[0])), pairProof(row)]));
+const pairAfterDay30 = helper.pairedMetrics({ id: 'older-pair', release_date: day31Release }, day31Rows,
+  day31Proof, '2026-10-31', '2026-10-31T00:00:00Z');
+assert.equal(pairAfterDay30.today, undefined, 'Day 31 cannot appear as a paired daily figure');
+assert.equal(pairAfterDay30.last_7_days, undefined, 'a 7-day row window containing Day 31 is not shown as daywise');
+assert.equal(pairAfterDay30.cumulative_total.amount, 93, 'Day 31 may contribute to cumulative total only');
+assert.equal(pairAfterDay30.cumulative_total.through_day, 31);
+const explicitWorldwideDay31Rows = Array.from({ length: 31 }, (_, i) => worldwideDay(i + 1, helper.shiftDate(day31Release, i), 3));
+const totalDay31 = helper.localDerivedTotal(explicitWorldwideDay31Rows, day31Release, '2026-10-31');
+assert.equal(totalDay31.amount, 93, 'cumulative total may include Day 31 while no Day 31 daily figure is exposed');
+assert.equal(totalDay31.through_day, 31);
+assert.equal(totalDay31.sources.length, 31, 'cumulative worldwide total retains its contributing source URLs');
+assert.equal(helper.localDerivedTotal(day31Rows, day31Release, '2026-10-31'), null,
+  'inner-page India Net + Overseas rows never create homepage totals');
+assert.equal(helper.explicitWorldwideTotal({ scope: 'worldwide', total_usd: 9, as_of: today }, today), null,
+  'worldwide totals without a traceable HTTPS source stay unreported');
+const explicitTotal = helper.localMetric({ release_date: day31Release }, day31Rows,
+  { scope: 'worldwide', total_usd: 777, currency: 'USD', source: 'https://fixture.example/worldwide', as_of: '2026-10-31' },
+  'cumulative_total', '2026-10-31');
+assert.equal(explicitTotal.amount, 777, 'published worldwide total is never double-counted with India/overseas');
+assert.equal(explicitTotal.method, 'published_worldwide_total');
+assert.equal(helper.localDerivedTotal(day31Rows.slice(1), day31Release, '2026-10-31'), null,
+  'totals are not derived if Day 1 is missing');
+
+// Direct reports are fail-closed: exact scope, period, currency, URL, quote and Gemini review are required.
+const direct = (window, amount, extra = {}) => ({
+  scope: 'worldwide', window, amount, currency: 'USD',
+  period_start: window === 'today' ? today : '2026-10-24', period_end: today, as_of: today,
+  observed_at: '2026-10-30T00:00:00Z', source_name: 'Official source',
+  source_url: 'https://official.example/box-office', evidence_quote: 'Worldwide gross stated by source',
+  reviewed_by: 'Gemini', ...extra,
+});
+assert.equal(helper.directMetric(direct('last_7_days', 500), 'last_7_days', today).amount, 500);
+assert.equal(helper.directMetric(direct('last_7_days', 500, { scope: 'india_net' }), 'last_7_days', today), null);
+assert.equal(helper.directMetric(direct('today', 500), 'last_7_days', today), null);
+assert.equal(helper.directMetric(direct('last_7_days', 500, { currency: 'USDT' }), 'last_7_days', today), null);
+assert.equal(helper.directMetric(direct('last_7_days', 500, { source_url: 'http://unsafe.example' }), 'last_7_days', today), null);
+assert.equal(helper.directMetric(direct('last_7_days', 500, { reviewed_by: 'Unknown' }), 'last_7_days', today), null);
+
+// 14 calendar dates are release-eligible; each industry has an independent 8-card cap.
+const ui = { industryOf: x => x.industry || 'world', isStreamingOnly: x => !!x.streamingOnly,
+  titleOf: x => x.title || String(x.id) };
+const movieItem = (id, industry, release, extra = {}) => ({ id, title: String(id), type: 'movie',
+  poster_path: '/poster.jpg', release_date: release, industry, vote_average: 0, vote_count: 0, ...extra });
+const scheduledMovie = movieItem('scheduled', 'bollywood', today);
+const scheduledRows = [worldwideDay(1, today, 100)];
+const scheduledTotal = { scope: 'worldwide', total_usd: 777, currency: 'USD',
+  source_url: 'https://fixture.example/current-total', as_of: today };
+const scheduledReport = { today: direct('today', 200), last_7_days: direct('last_7_days', 250),
+  cumulative_total: direct('cumulative_total', 900) };
+for (const windowKey of ['today', 'last_7_days', 'cumulative_total']) {
+  assert.equal(helper.needsDirectRefresh(scheduledMovie, scheduledRows, scheduledTotal,
+    scheduledReport, windowKey, today), true,
+  `${windowKey} is re-queried at every scheduled slot even when a value is cached`);
+  assert.equal(helper.resolveMetric(scheduledMovie, scheduledRows, scheduledTotal,
+    scheduledReport, windowKey, today).method, 'tavily_gemini',
+  `fresh reviewed ${windowKey} data replaces a local value in the homepage card`);
+}
+const directWeekly = amount => direct('last_7_days', amount);
+const bollywood = Array.from({ length: 10 }, (_, i) => movieItem(`b${i}`, 'bollywood', today));
+const world = Array.from({ length: 10 }, (_, i) => movieItem(`w${i}`, 'world', today));
+const reports = Object.fromEntries([...bollywood, ...world].map((x, i) => [String(x.id), { last_7_days: directWeekly((i % 10 + 1) * 100) }]));
+const picks = helper.selectHomeTitles([...bollywood, ...world], {}, {},
+  { schema_version: 1, reports }, today, today, ui, { USD: 1 }, 8);
+assert.equal(picks.bollywood.length, 8);
+assert.equal(picks.world.length, 8);
+assert.deepEqual(picks.bollywood.map(x => x.id), ['b9', 'b8', 'b7', 'b6', 'b5', 'b4', 'b3', 'b2']);
+assert.deepEqual(picks.world.map(x => x.id), ['w9', 'w8', 'w7', 'w6', 'w5', 'w4', 'w3', 'w2']);
+const boundary = [
+  movieItem('day14', 'bollywood', '2026-10-17', { vote_average: 1 }),
+  movieItem('day15', 'bollywood', '2026-10-16', { vote_average: 99 }),
+  movieItem('future', 'bollywood', '2026-10-31', { vote_average: 100 }),
+  movieItem('streaming', 'bollywood', today, { streamingOnly: true, vote_average: 100 }),
+  movieItem('festival', 'bollywood', today, { date_kind: 'festival', vote_average: 100 }),
 ];
-const rankedGate = rankHome(gateFixture);
-assert.deepEqual(rankedGate, [
-  'age14', 'zero-only', 'noRows', 'outside-report-window', 'future-report', 'string-amount', 'duplicate-day',
-  'age15', 'old-data', 'old-noRows',
-], 'recent releases lead; reported rows rank first within each age group, then popularity');
-assert.deepEqual(rankedGate.slice(0, 8), [
-  'age14', 'zero-only', 'noRows', 'outside-report-window', 'future-report', 'string-amount', 'duplicate-day', 'age15',
-], 'an older release fills the eighth slot only after recent releases are exhausted');
-assert.deepEqual(rankHome(gateFixture, 'international'), [
-  'world-b', 'world-a', 'world-noRows', 'world-old-data', 'world-old-noRows',
-], 'World Cinema is independently ranked and uses older titles only after recent ones');
-assert.deepEqual(rankHome([
-  makeCandidate('tie-old-release', '2026-10-22', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 100 }])),
-  makeCandidate('tie-new-release', '2026-10-23', 'bollywood', worldwideRows([{ date: '2026-10-30', collection: 100 }])),
-  makeCandidate('tie-old-report', '2026-10-24', 'bollywood', worldwideRows([{ date: '2026-10-29', collection: 100 }])),
-]), ['tie-new-release', 'tie-old-release', 'tie-old-report'], 'ties break by latest report, then release date');
-assert.deepEqual(rankHome([
-  makeCandidate('popular-tie-old', '2026-10-21', 'bollywood', [], { vote_average: 8, vote_count: 100 }),
-  makeCandidate('popular-tie-new', '2026-10-22', 'bollywood', [], { vote_average: 8, vote_count: 100 }),
-  makeCandidate('popular-more-votes', '2026-10-18', 'bollywood', [], { vote_average: 8, vote_count: 200 }),
-  makeCandidate('popular-lower-rating', '2026-10-30', 'bollywood', [], { vote_average: 7, vote_count: 10000 }),
-]), ['popular-more-votes', 'popular-tie-new', 'popular-tie-old', 'popular-lower-rating'], 'fallback uses existing rating/vote order, newest release breaks ties');
-
-const scopeFixture = [
-  makeCandidate('world-row', '2026-10-23', 'bollywood', worldwideRows([{ date: today, collection: 20 }]), { vote_average: 0 }),
-  makeCandidate('india-unscoped', '2026-10-23', 'bollywood', [{ date: today, collection: 999999999 }], { vote_average: 10 }),
-  makeCandidate('paired-india-overseas', '2026-10-23', 'bollywood', [{ day: 1, date: today, collection: 10, overseas: 5 }], { vote_average: 0 }),
-  makeCandidate('domestic-row', '2026-10-23', 'bollywood', [{ date: today, collection: 999999999, scope: 'domestic-only-so-far' }], { vote_average: 9 }),
-  makeCandidate('other-country-row', '2026-10-23', 'bollywood', [{ date: today, collection: 999999999, scope: 'us-domestic' }], { vote_average: 8 }),
-  makeCandidate('noRows', '2026-10-23', 'bollywood', [], { vote_average: 7 }),
+const boundaryPicks = helper.selectHomeTitles(boundary, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 8);
+assert.deepEqual(boundaryPicks.bollywood.map(x => x.id), ['day14', 'day15'],
+  'Day 14 is within the 14-date release window, Day 15 falls back after it; future/streaming/festival are excluded');
+const fill = [
+  ...Array.from({ length: 6 }, (_, i) => movieItem(`recent${i}`, 'world', '2026-10-30', { vote_average: 1 })),
+  movieItem('older-high', 'world', '2026-10-10', { vote_average: 9 }),
+  movieItem('older-low', 'world', '2026-10-09', { vote_average: 2 }),
 ];
-assert.deepEqual(rankHome(scopeFixture), [
-  'world-row', 'paired-india-overseas', 'india-unscoped', 'domestic-row', 'other-country-row', 'noRows',
-], 'explicit worldwide rows and paired India Net+Overseas outrank popularity; India Net alone and domestic/country rows do not');
+const fillPicks = helper.selectHomeTitles(fill, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 8);
+assert.deepEqual(fillPicks.world.map(x => x.id), ['recent5', 'recent4', 'recent3', 'recent2', 'recent1', 'recent0', 'older-high', 'older-low'],
+  'older popular titles fill only after eligible recent releases are exhausted');
 
-const picksStart = listingSource.indexOf('  const picks =');
-const picksEnd = listingSource.indexOf('\n  main.innerHTML', picksStart);
-assert(picksStart >= 0 && picksEnd > picksStart, 'Box Office See All selector anchor changed');
-const seeAllSelector = listingSource.slice(picksStart, picksEnd);
-assert.match(seeAllSelector, /\.sort\(\(a, b\) => \(b\.release_date \|\| ""\)\.localeCompare\(a\.release_date \|\| ""\)/);
-assert.doesNotMatch(seeAllSelector, /\.slice\(/, 'See All remains uncapped and newest-first');
-
-const zeroToday = card(entry, [{ date: today, collection: 0 }]);
-assert.match(zeroToday, /<dt>Today · 29 Oct<\/dt><dd><span class="fa-box-unavailable">Not reported<\/span><\/dd>/, 'unscoped zero is not worldwide evidence');
-const worldwideZeroToday = card(entry, [{ date: today, collection: 0, scope: 'worldwide' }]);
-assert.match(worldwideZeroToday, /<dt>Today · 29 Oct<\/dt><dd>\$0<\/dd>/, 'an explicit worldwide zero remains a reported value');
-const noRows = card(entry, []);
-assert.match(noRows, /<dt>Today · 29 Oct<\/dt>/, 'empty cards still label the requested reporting day');
-console.log('Homepage OTT fallback and homepage/listing Box Office scope fixtures passed.');
+// Frontend uses the shared selector/metric helper and does not sum a homemade worldwide amount.
+assert.match(pageSource, /FAHomeBoxOffice/);
+assert.match(pageSource, /selectionForDisplay/);
+assert.match(fs.readFileSync(path.join(__dirname, '..', 'js/home-boxoffice.js'), 'utf8'), /api\/home-boxoffice-worldwide/);
+assert.match(pageSource, /worldwide/);
+assert.match(pageSource, /metric\.currency/);
+assert.match(pageSource, /metric\.observed_date/);
+assert.match(pageSource, /metric\.sources/);
+assert.match(pageSource, /HomeBoxOffice\.formatCurrency\(metric\.amount, metric\.currency\)/);
+assert.doesNotMatch(pageSource, /UI\.fmtMoney\(metric\.amount\)/,
+  'worldwide reports must not be converted away from their source currency');
+assert.doesNotMatch(pageSource, /const boWorldwideAmount =/,
+  'homepage must not keep the old ad-hoc sum/label path');
+assert.match(pageSource, /Not reported/);
+console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; 14-day eligibility and 8-per-tab selection pass.');

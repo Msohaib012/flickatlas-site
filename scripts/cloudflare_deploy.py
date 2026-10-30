@@ -55,6 +55,7 @@ SCRIPT_NAME = os.environ.get("CLOUDFLARE_WORKER_NAME", "flickatlas")
 # "flickatlas-reviews", id 51213eb8cf6f4130b41b335111e916c8. Bound to the
 # Worker as env.REVIEWS (see the bindings list in the deploy metadata).
 KV_NAMESPACE_ID = "51213eb8cf6f4130b41b335111e916c8"
+HOME_BOXOFFICE_NAMESPACE_ID = "a7e61d3db4fd44ccad5c6f85cf093d35"
 REPO_ROOT = os.environ.get("REPO_ROOT", os.getcwd())
 COMPATIBILITY_DATE = "2026-10-27"
 API_BASE = "https://api.cloudflare.com/client/v4"
@@ -213,7 +214,8 @@ def main():
         "assets": {"jwt": completion_jwt,
                    "config": {"html_handling": "auto-trailing-slash", "run_worker_first": True}},
         "bindings": [{"type": "assets", "name": "ASSETS"},
-                   {"type": "kv_namespace", "namespace_id": KV_NAMESPACE_ID, "name": "REVIEWS"}],
+                   {"type": "kv_namespace", "namespace_id": KV_NAMESPACE_ID, "name": "REVIEWS"},
+                   {"type": "kv_namespace", "namespace_id": HOME_BOXOFFICE_NAMESPACE_ID, "name": "HOME_BOXOFFICE"}],
         "compatibility_date": COMPATIBILITY_DATE,
     }).encode()
     parts = [
@@ -271,4 +273,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-

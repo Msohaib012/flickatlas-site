@@ -1,0 +1,52 @@
+name: Home worldwide Box Office refresh
+
+# Pakistan Standard Time (UTC+05:00): 14:00, 18:00, 22:00 and 01:00.
+# This scheduled job writes only the isolated HOME_BOXOFFICE KV key. It does
+# not commit, deploy, publish posts, or run the repository's hourly pipeline.
+on:
+  schedule:
+    - cron: "0 9,13,17,20 * * *"
+
+permissions:
+  contents: read
+
+# Serialize these worldwide snapshots with each other. The existing hourly
+# pipeline remains unchanged: it writes repository assets, while this job only
+# writes its separate KV namespace and therefore has no shared write target.
+concurrency:
+  group: flickatlas-home-boxoffice-worldwide
+  cancel-in-progress: false
+
+jobs:
+  refresh-worldwide-home-cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Offline selector and evidence-policy regressions
+        run: |
+          node --check js/home-boxoffice.js
+          node --check scripts/select_home_boxoffice.js
+          node scripts/test_ott_boxoffice_display.js
+          node scripts/test_home_boxoffice_worker.js
+          python3 scripts/test_multisource_boxoffice_provenance.py
+          python3 -m py_compile scripts/home_boxoffice_worldwide.py
+          python3 scripts/test_home_boxoffice_worldwide.py
+      - name: Search and review all selected worldwide windows; upsert isolated KV snapshot
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
+          GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          HOME_BOXOFFICE_KV_NAMESPACE_ID: a7e61d3db4fd44ccad5c6f85cf093d35
+        run: python3 scripts/home_boxoffice_worldwide.py --run

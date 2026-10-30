@@ -30,9 +30,16 @@ jobs:
           node --check js/page-news-item.js
           node --check js/page-boxoffice-day.js
           node --check js/article-keywords.js
+          node --check js/home-boxoffice.js
+          node --check scripts/select_home_boxoffice.js
           node scripts/test_listing_order.js
           node scripts/test_ott_boxoffice_display.js
+          node scripts/test_home_boxoffice_worker.js
           node scripts/test_article_keywords.js
+          python3 -m py_compile scripts/multisource_boxoffice.py
+          python3 scripts/test_multisource_boxoffice_provenance.py
+          python3 -m py_compile scripts/home_boxoffice_worldwide.py
+          python3 scripts/test_home_boxoffice_worldwide.py
           python3 scripts/test_daywise_30day_policy.py
           python3 scripts/test_pipeline_schedule.py
           python3 scripts/test_recent_hindi_discovery.py

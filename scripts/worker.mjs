@@ -400,6 +400,32 @@ export default {
       url.hostname = "flickatlas.co.uk";
       return Response.redirect(url.href, 301);
     }
+    if (url.pathname === "/api/home-boxoffice-worldwide") {
+      if (request.method !== "GET") {
+        return withSecHeaders(new Response(JSON.stringify({ error: "Method not allowed." }), {
+          status: 405, headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store" },
+        }));
+      }
+      if (!env.HOME_BOXOFFICE) {
+        return withSecHeaders(new Response(JSON.stringify({ error: "Worldwide Box Office data is unavailable." }), {
+          status: 503, headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store" },
+        }));
+      }
+      try {
+        const snapshot = await env.HOME_BOXOFFICE.get("current", "json");
+        const safe = snapshot && snapshot.schema_version === 1
+          && snapshot.reports && typeof snapshot.reports === "object"
+          ? snapshot
+          : { schema_version: 1, timezone: "Asia/Karachi", selections: { bollywood: [], world: [] }, reports: {} };
+        return withSecHeaders(new Response(JSON.stringify(safe), {
+          status: 200, headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store, max-age=0" },
+        }));
+      } catch (_) {
+        return withSecHeaders(new Response(JSON.stringify({ error: "Worldwide Box Office data is unavailable." }), {
+          status: 503, headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store" },
+        }));
+      }
+    }
     if (url.pathname === "/api/reviews" && request.method === "GET") {
       return withSecHeaders(await handleReviewsGet(request, env, url));
     }

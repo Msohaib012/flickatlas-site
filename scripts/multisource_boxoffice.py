@@ -385,15 +385,28 @@ def finalize_extras(extras_collected):
     for (tid, day), by_source in sorted(extras_collected.items()):
         per_field = {}
         for skey, dkey, kind, _cap in EXTRA_FIELDS:
-            vals = [(s, src[skey]) for s, (src, _d)
-                    in by_source.items() if skey in src]
-            if not vals:
+            field_rows = [(s, src[skey], source_date)
+                          for s, (src, source_date) in by_source.items()
+                          if skey in src]
+            if not field_rows:
                 continue
+            vals = [(source_id, value)
+                    for source_id, value, _source_date in field_rows]
             nums = [v for (_s, v) in vals]
             if kind == "crore":
                 mean_cr = round(sum(nums) / len(nums), 2)
                 value = round(mean_cr * 1e7 / INR_PER_USD)
+                date_counts = {}
+                for _source_id, _value, source_date in field_rows:
+                    date_counts[source_date] = date_counts.get(source_date, 0) + 1
+                majority = max(date_counts.values())
+                field_date = sorted(d for d, count in date_counts.items()
+                                    if count == majority)[0]
                 per_field[dkey] = {"value": value, "crore": mean_cr,
+                                   "date": field_date,
+                                   "date_disagreed": len(date_counts) > 1,
+                                   "currency": "USD",
+                                   "scope": "overseas_gross",
                                    "sources": {s: v for s, v in vals}}
             elif kind == "int":
                 value = int(round(sum(nums) / len(nums)))
@@ -435,8 +448,11 @@ def finalize(collected, extras_collected, primary):
         per_movie = out.setdefault(tid, {})
         per_movie[day] = {
             "date": dstr,
+            "date_disagreed": disagreed,
             "collection_inr_cr": mean_cr,
             "collection_usd": usd,
+            "collection_currency": "USD",
+            "collection_scope": "india_net",
             "sources": {s: cr for s, (cr, _d) in
                         sorted(contribs.items())},
             "india": True,
@@ -516,6 +532,25 @@ def merge_into_baseline(daywise, finalized):
             else:
                 unchanged += 1
     return added, updated, unchanged
+
+
+def make_sidecar(finalized):
+    """Serialize source contributions with explicit pair-compatibility metadata."""
+    return {
+        "schema_version": 2,
+        "rule": ("mean of the Rs Cr figures across every source that "
+                 "reports a movie+day; single source = that figure; "
+                 "India Net day-wise only; never invented. Extra fields "
+                 "(overseas/shows/occupancy/tickets) are averaged the "
+                 "same way across the sources that report each field; "
+                 "a missing field stays absent. India Net and Overseas "
+                 "carry explicit USD scope and their own source dates; "
+                 "date disagreement blocks any paired worldwide sum."),
+        "figures": {
+            tid: {str(day): fig for day, fig in sorted(days.items())}
+            for tid, days in sorted(finalized.items())
+        },
+    }
 
 
 def main():
@@ -624,18 +659,7 @@ def main():
                            DAYWISE_HEADER)
     print(f"multisource: daywise-data.js written: {changed}")
 
-    sidecar = {
-        "rule": ("mean of the Rs Cr figures across every source that "
-                 "reports a movie+day; single source = that figure; "
-                 "India Net day-wise only; never invented. Extra fields "
-                 "(overseas/shows/occupancy/tickets) are averaged the "
-                 "same way across the sources that report each field; "
-                 "a missing field stays absent."),
-        "figures": {
-            tid: {str(day): fig for day, fig in sorted(days.items())}
-            for tid, days in sorted(finalized.items())
-        },
-    }
+    sidecar = make_sidecar(finalized)
     side_changed = write_json_if_changed(sidecar_path, sidecar)
     print(f"multisource: sidecar {sidecar_path} written: {side_changed}")
     if step_runs is not None and not args.dry_run:
@@ -659,5 +683,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-
