@@ -21596,5 +21596,248 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 09:31:09 +0000"
+  },
+  "13z8opl": {
+    "id": "13z8opl",
+    "type": "news",
+    "headline": "Dhurandhar and The Ba***ds of Bollywood Shine Bright at the 2026 IIFA Awards",
+    "dek": "The latest edition of the IIFA Awards celebrated the finest cinematic and digital achievements, with Aditya Dhar's blockbuster sweeping multiple major categories while digital platforms saw strong representation.",
+    "body": [
+      {
+        "h": "A Landmark Night for Dhurandhar",
+        "p": [
+          "The theatrical circuit experienced a monumental evening as Aditya Dhar's directorial venture claimed the lion's share of accolades at the ceremony. Dominating the main competition, the film was crowned Best Film, while its helmer added several more trophies to his personal tally. Critics and audiences alike praised the project's multifaceted excellence, which resonated deeply across both artistic and technical metrics.",
+          "Among the most notable victories for the feature were individual acting honors that highlighted the strength of its principal cast. The powerhouse performer Ranveer Singh secured the Best Actor trophy for his gripping portrayal, anchoring the cinematic triumph. Meanwhile, veteran actor Sanjay Dutt was recognized in the supporting male category, further cementing the ensemble's stellar impact."
+        ]
+      },
+      {
+        "h": "Aditya Dhar Sweeps Creative Categories",
+        "p": [
+          "Beyond his primary directing win, the creative force behind the leading title proved unstoppable in the writing divisions. Aditya Dhar personally collected awards for Best Story, Best Screenplay, and Best Dialogues, showcasing his comprehensive mastery over the narrative structure. Such a clean sweep across foundational filmmaking disciplines is a rare feat at major national award functions.",
+          "The filmmaker's deep creative involvement ensured that the overarching tone remained consistent, engaging viewers from the opening frames to the credits. Industry peers and festival attendees lauded his ability to juggle multiple critical responsibilities without letting the quality of the storytelling dip in any single department."
+        ]
+      },
+      {
+        "h": "Acting Triumphs Across the Board",
+        "p": [
+          "The performance categories also spotlighted exceptional talent from competing cinematic releases that captured public imagination. Rising star Aneet Padda triumphed in the Best Actress field for her moving work in Saiyaara, marking a career-defining moment for the young talent. Additionally, Huma Qureshi earned the Best Supporting Actress distinction for her compelling turn in Jolly LLB 3, and Akshaye Khanna was acknowledged for portraying a formidable antagonist in Dhurandhar.",
+          "Debut talents similarly shared the spotlight during the evening festivities, pointing toward a vibrant future for the industry. Rasha Thadani collected the Best Debut Female award for her introduction in Azaad, while Ahaan Panday claimed the Best Debut Male honor for his contribution to Saiyaara. These emerging faces signal a fresh wave of vitality entering the mainstream entertainment ecosystem."
+        ]
+      },
+      {
+        "h": "Digital Excellence and Aryan Khan's Win",
+        "p": [
+          "As streaming platforms continue to rival traditional theatrical releases, the digital awards segment garnered immense anticipation. The Ba***ds of Bollywood seized the coveted Best Web Series title, representing a major milestone for its production team. The series also propelled Aryan Khan into the winner's circle, where he was awarded Best Web Series Direction for his directorial efforts on the project.",
+          "Further expanding the reach of web entertainment, performances within serialized narratives received widespread applause. Jaideep Ahlawat and Tillotama Shome took home the leading acting awards for Paatal Lok Season 2, while supporting turns from actors like Raghav Juyal and Anya Singh in The Ba***ds of Bollywood kept audiences thoroughly captivated."
+        ]
+      },
+      {
+        "h": "Musical and Technical Brilliance",
+        "p": [
+          "The sonic landscape of the nominated films was celebrated through dedicated music and composition categories. Shashwat Sachdev secured the Best Music Direction trophy for crafting the memorable soundscape of Dhurandhar. On the lyrical front, Irshad Kamil won Best Lyrics for the title track of Saiyaara, which also won recognition through vocal performances by Faheem Abdullah and Shreya Ghoshal.",
+          "Technical mastery was equally visible behind the camera, with professionals being honored for their meticulous craft. Vikash Nowlakha earned accolades for cinematography, and Shivkumar V. Panicker triumphed in film editing. Furthermore, special effects and sound mixing teams from projects like Chhaava and War 2 demonstrated the industry's growing prowess in high-end production values."
+        ]
+      },
+      {
+        "h": "Celebrating Diverse Stories and Formats",
+        "p": [
+          "The ceremony extended its appreciation to various alternative formats, ranging from documentaries to gritty non-scripted shows. Productions like The Roshans and The Traitors proved that audiences are consuming diverse non-fiction content with equal enthusiasm. Meanwhile, regional and specialized cinematic narratives found their voices amplified on a grand international stage.",
+          "This expansive recognition reflects a shifting paradigm where storytelling quality matters more than distribution channels. By honoring both big-budget theatrical spectacles and compact streaming gems, the event encapsulated the totality of contemporary Indian entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2026 IIFA Awards concluded with Aditya Dhar's Dhurandhar dominating the major theatrical categories, including Best Film, Best Director, and Best Actor for Ranveer Singh. Simultaneously, the digital streaming space celebrated victories for projects like The Ba***ds of Bollywood and its director Aryan Khan, alongside recognition for performances in Saiyaara and Paatal Lok Season 2."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 IIFA Awards recognized achievements in theatrical cinema and digital entertainment.",
+      "Dhurandhar won Best Film, Best Director, and Best Actor.",
+      "Aditya Dhar won Best Director, Best Story, Best Screenplay, and Best Dialogues for Dhurandhar.",
+      "Ranveer Singh won Best Actor for Dhurandhar.",
+      "Aneet Padda won Best Actress for Saiyaara.",
+      "The Ba***ds of Bollywood won Best Web Series.",
+      "Aryan Khan won Best Web Series Direction for The Ba***ds of Bollywood."
+    ],
+    "entities": {
+      "people": [
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Aneet Padda",
+        "Aryan Khan",
+        "Sanjay Dutt",
+        "Huma Qureshi",
+        "Akshaye Khanna",
+        "Shashwat Sachdev",
+        "Basharat Peer",
+        "Sumit Roy",
+        "Neeraj Ghaywan",
+        "Irshad Kamil",
+        "Faheem Abdullah",
+        "Shreya Ghoshal",
+        "Rasha Thadani",
+        "Ahaan Panday",
+        "Vikash Nowlakha",
+        "Shivkumar V. Panicker",
+        "Bosco Leslie Martis",
+        "Bishwadeep Chatterjee",
+        "Alok De",
+        "Karan Tejpal",
+        "Sanya Malhotra",
+        "Abhishek Banerjee",
+        "Monika Panwar",
+        "Avinash Tiwary",
+        "Monal Thakkar",
+        "Aditya Suhas Jambhale",
+        "Tillotama Shome",
+        "Jaideep Ahlawat",
+        "Anya Singh",
+        "Raghav Juyal",
+        "Sudip Sharma",
+        "Tamal Sen",
+        "Rahul Kanojia",
+        "Ujwal Gupta",
+        "Yami Gautam"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "The Ba***ds of Bollywood",
+        "Avatar: Fire Ash",
+        "Saiyaara",
+        "Jolly LLB 3",
+        "Homebound",
+        "Azaad",
+        "War 2",
+        "Chhaava",
+        "Baramulla",
+        "Stolen",
+        "Mrs.",
+        "Nishanchi 2",
+        "The Mehta Boys",
+        "Paatal Lok Season 2",
+        "The Roshans",
+        "The Traitors"
+      ]
+    },
+    "keywords": [
+      "Dhurandhar",
+      "The Ba***ds of Bollywood",
+      "IIFA 2026",
+      "Aditya Dhar",
+      "Ranveer Singh"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-17.43.24.jpeg",
+        "caption": "Dhurandhar and The Ba***ds of Bollywood Shine Bright at the 2026 IIFA Awards",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 17:51:28 +0200"
+  },
+  "scprgu": {
+    "id": "scprgu",
+    "type": "news",
+    "headline": "Rakul Preet Singh Unveils Striking First Look as Surpanakha in Nitesh Tiwari's Grand Cinematic Epic Ramayana",
+    "dek": "The makers of the ambitious multi-part project have officially revealed Rakul Preet Singh's royal aesthetic as Ravana’s sister, generating massive excitement for the upcoming adaptation.",
+    "body": [
+      {
+        "h": "Character Reveal Spurs Excitement",
+        "p": [
+          "The promotional campaign for the highly anticipated cinematic adaptation of the ancient Indian epic has taken another major step forward with a fresh character reveal. Producers have officially shared the initial promotional art featuring actor Rakul Preet Singh stepping into the shoes of the iconic mythical figure Surpanakha. The newly circulated poster formally introduces the performer as the Princess of Janasthan, giving eager followers their very first comprehensive look at her visual styling within the ambitious cinematic universe.",
+          "Accompanying the official media drop, the production team issued a direct confirmation of her casting with a targeted caption labelling her the royal heir of Janasthan. The newly unveiled visual presents the performer clad in a heavily ornamented traditional outfit, complemented by intricate gold accessories and a detailed crown. This elaborate design establishes the specific visual identity constructed for the character within the grand world-building efforts of the feature."
+        ]
+      },
+      {
+        "h": "An Incredible Artistic Journey",
+        "p": [
+          "Reflecting on her involvement in the massive venture, the performer expressed deep enthusiasm about stepping into such an influential role. She characterized her participation in the undertaking spearheaded by producer Namit Malhotra as an exceptionally meaningful endeavor that offered a deeply rewarding professional journey. Stepping into the shoes of a personality who commands such a vital place within the traditional narrative provided an extraordinary avenue for creative exploration.",
+          "Furthermore, she emphasized the immense privilege of contributing to a timeless narrative deeply woven into cultural traditions across multiple generations. Expressing eagerness for audiences to witness the final output, she praised the scale and vision being implemented by the creative leadership team behind the production."
+        ]
+      },
+      {
+        "h": "The Significance of Surpanakha in the Epic",
+        "p": [
+          "Within the overarching structure of the traditional source material, the character holds a remarkably influential position that triggers major plot developments. As the sister of the principal antagonist Ravana, her fateful interaction with Rama and Lakshman during their period of forest banishment serves as a major narrative turning point. This specific confrontation acts as the catalyst for a cascade of dramatic occurrences that ultimately culminate in the massive warfare between the principal forces.",
+          "Because her actions directly propel the central conflict of the tale, casting a prominent face for the part is viewed as crucial for the narrative's emotional and dramatic weight. Her inclusion ensures that the multi-part project will deeply explore the intricate web of personal motivations and familial bonds that drive the legendary conflict."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "The sweeping two-part project boasts an exceptionally high-profile lineup of prominent performers filling the central roles of the legendary characters. Leading the massive ensemble, Ranbir Kapoor takes on the mantle of Lord Rama, while Sai Pallavi portrays his consort Sita. Meanwhile, the formidable antagonist Ravana is brought to life by Yash, and the devoted deity Hanuman is played by Sunny Deol. Rounding out the primary lineup, Ravi Dubey features as the steadfast Lakshman.",
+          "This powerhouse cast brings together top-tier talent from various regional film industries, ensuring widespread multi-region appeal upon the project's eventual theatrical debut. The sheer scale of the casting choices underscores the grand ambitions of the creative team to deliver a definitive screen version of the revered text."
+        ]
+      },
+      {
+        "h": "Masterminds Behind the Camera",
+        "p": [
+          "The massive undertaking is guided by acclaimed filmmaker Nitesh Tiwari, who sits in the director's chair to helm the complex narrative structure. Behind the production efforts, Namit Malhotra’s Prime Focus Studios spearheads the venture in close cooperation with international visual effects powerhouse DNEG and Yash’s home production banner, Monster Mind Creations. This collaborative framework brings together top-tier technical and financial resources to execute the elaborate world-building required for the massive mythological project.",
+          "The scale of the production requires state-of-the-art visual design and meticulous planning to recreate the ancient kingdoms and celestial elements true to their legendary descriptions. The combined expertise of these production houses signals a high-budget cinematic spectacle designed to meet global technical standards."
+        ]
+      },
+      {
+        "h": "Global Distribution and Release Schedule",
+        "p": [
+          "Audiences won't have to wait too much longer to witness the first installment, as the makers have locked in concrete calendar dates for the theatrical rollout. The initial chapter, titled Ramayana: Part 1, is officially scheduled to premiere globally on November 5, 2026, while the subsequent continuation is slated to arrive during the festive period of Diwali 2027.",
+          "To maximize its reach, the cinematic venture will arrive in theaters across multiple regional languages including Hindi, Tamil, Telugu, Kannada, and Malayalam, alongside a specialized immersive IMAX format. On the distribution front, Sony Pictures has secured international territory rights outside the domestic market, whereas Dharma Productions will manage theatrical distribution duties specifically within the Hindi-speaking circuits across the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of the upcoming two-part epic Ramayana have released the first look of Rakul Preet Singh as Surpanakha, introducing Ravana’s sister to audiences. Directed by Nitesh Tiwari and produced by Namit Malhotra, the film features a star-studded cast including Ranbir Kapoor, Sai Pallavi, and Yash, with Part 1 scheduled for a worldwide theatrical release on November 5, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Rakul Preet Singh stars as Surpanakha in Ramayana.",
+      "The film is directed by Nitesh Tiwari.",
+      "Namit Malhotra is producing the film through Prime Focus Studios.",
+      "Ranbir Kapoor plays Lord Rama.",
+      "Sai Pallavi plays Sita.",
+      "Yash plays Ravana.",
+      "Sunny Deol plays Hanuman.",
+      "Ravi Dubey plays Lakshman.",
+      "Ramayana: Part 1 is scheduled to release on November 5, 2026.",
+      "Ramayana Part 2 is slated for Diwali 2027.",
+      "Sony Pictures handles international distribution outside India.",
+      "Dharma Productions will distribute the film in the Hindi-speaking market."
+    ],
+    "entities": {
+      "people": [
+        "Rakul Preet Singh",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana - Part II"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Rakul Preet Singh Surpanakha",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana cast",
+      "Ramayana Part 1 release date"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/10/Ramayana-First-Look-Rakul-Preet-Singh-drops-her-look-as-Surpanakha-actor-news.jpeg",
+        "caption": "Rakul Preet Singh Unveils Striking First Look as Surpanakha in Nitesh Tiwari's Grand Cinematic Epic Ramayana",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 15:51:29 +0200"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T14:51:27Z",
-    "run_id": "40895512998",
-    "status": "success",
-    "checked": {
-     "candidates": 315,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Junglywood trailer out: Shaan R Grover leads a thriller set against Bollywood’s insider-outsider divide",
-      "Ranbir Kapoor, Nitesh Tiwari, and others discuss Ramayana’s values with students from 500 schools; special episode to stream on JioHotstar",
-      "Gunmaaster G9 song ‘Dard-E-Dil Dard-E-Jigar’ to drop on October 30; Himesh Reshammiya and Akasa Singh reunite for new track",
-      "Mitti De Baway Ep12 Release Time In India Dailymotion: Baala To Marry Qamrunnisa; Billo To Kill Peer Ji?",
-      "Karwa Chauth 2026 Chand Timings Delhi: When Will Riddhima Kapoor Break Fast? Moonrise Time In Noida Is...",
-      "Karwa Chauth 2026 LIVE Updates: Shilpa Shetty, Shahid Kapoor's Wife Mira Celebrate In Style- PICS Inside",
-      "Fool In Love Episode 7 Ending SHOCKER: Post-Breakup DRAMA! Did Yok's Jealousy EXPLODE Over Ing's New Flame?",
-      "Sharvari Jamenis (Kon Yashwant Pansare), Genelia (Ved)- 5 Actors Who Made Memorable Comeback After Break",
-      "KWK S9: Janhvi Opens Up On Wedding Plans With Shikhar; Reveals How He Supported Her Post Sridevi’s Demise",
-      "EXCLUSIVE! Saumya Uniyal Says Playing Charu In Netflix's Matargashti Felt Like Manifestation: I Wrote In Diary",
-      "Bigg Boss 20 Episode 54 Dailymotion: Gullu-Yung DSA's FIGHT Turns Physical. Arishfa Vs Scout, Uditi Slams Him",
-      "Sub-Inspector Yugandhar OTT Release Date And Platform: When And Where To Watch Aadi Saikumar's Film Online",
-      "Junglywood Trailer Out NOW: Insiders x Outsiders CLASH; A Fresh Insight Into The Dark World Of Film Industry",
-      "The One About Matthew Perry X Review: “Heartbreaking”, & “Important Watch” – Fans Get Emotional",
-      "Aakasamlo Oka Tara 2nd Single: Dulquer Salmaan starrer goes down melodious route with GV Prakash’s Radhe Radhe",
-      "ChiruOdela: Chiranjeevi and Srikanth Odela starrer by Nani shelved after Paradise’s failure? Here’s what we know",
-      "Karthik Subbaraj reveals how Shankar changed his original ‘Game Changer’ story",
-      "Islamic cleric issues 'fatwa' for Sara Ali Khans's visit to Kedarnath, calls it 'haraam'",
-      "Tamil Nadu theatre owners seek 6 am shows, 2 am screenings",
-      "Diljit Dosanjh Delhi Concert: Metro services to run till midnight on Oct 30"
-     ],
-     "updated": [],
-     "count": 291,
-     "detail": "293 stories, 5 duplicates removed, 22 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T15:51:54Z",
     "run_id": "40905613735",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "320 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T16:17:02Z",
-    "run_id": "40905613735",
+    "run_at": "2026-10-30T12:52:05Z",
+    "run_id": "41058407593",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 626,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
-      "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster"
+      "Ashoke Pandit calls Naseeruddin Shah a \"compulsive abuser\" over \"Dimagi Naxal\" remark: “He should consult a psychiatrist”",
+      "Salman Khan and Sanjay Dutt to reunite on screen in Khalnayak Returns? Here's what we know",
+      "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
+      "EXCLUSIVE: Ramayana achieves a RARE feat; CBFC passes Ranbir Kapoor-starrer with ‘U’ certificate and not a SINGLE cut",
+      "Shraddha Kapoor unveils EETHA trailer as she steps into the role of Lavani legend Eetha Bai; film to release on December 4",
+      "EXCLUSIVE: CBFC mutes replaces ‘UP’ with ‘village’ in Nakhrewaalii; 'Must be some East Delhi b***h' replaced with 'Must be some cheap little witch'",
+      "Sharvari wears mother’s heirloom pink Patola saree for Yeh Prem Mol Liya promotions; says it feels like being ‘wrapped in her love and blessings’",
+      "Ramayana First Look: Rakul Preet Singh drops her look as Surpanakha; actor says playing Ravana’s sister is a “truly special experience”",
+      "Bigg Boss 20 Tweets Of Day: Kamya Punjabi Lauds Scout Amid Gullu-Yung's Fight. Reason Is...",
+      "MTV Roadies 21 Episode 5 Release Time Today: Baseer Vs Fukra Insaan; When Will Roadies Rebirth Sat Episode Air",
+      "Diwali 2026: Looking For Bollywood-Inspired Festive Looks? Take Style Cues From These Celeb Outfits",
+      "King: Anirudh QUITS SRK's Film Ahead Of Greece Wedding? But WHY? Here's What We Know About King's Music Album",
+      "IIFA Awards 2026 Full Winners List: Dhurandhar, Saiyaara & Chhaava Win Big Laurels",
+      "Jailer 2 Kerala Box Office Day 16 Prediction: Rajinikanth's Film Set To Cross ₹75 Crore, Eyes ₹80 Crore Mark",
+      "Bigg Boss Telugu 10 Double Elimination Week 8: Sudheer or Jhansi - Who Will Get Eliminated Tonight?",
+      "Sarala Subbarao Now Streaming On OTT: Where To Watch Ajay Rao And Misha Narang's Film Online",
+      "Rise And Fall 2 Written Update Oct 30 Ep 35: Will Takhta Palat Happen Again? Workers’ Plan Put Rulers On Alert",
+      "Osama Ahmad Khan, Founder of Oksa Developer, Honoured at Cultural Event in Dubai",
+      "Doctor X Mafia In White Episode 7 Release Time Today: When & Where Will New Ep Premiere Online? What To Expect",
+      "The Cat In The Hat Worldwide Box Office: Here’s How Much It Needs To Earn To Beat The Live-Action Flop"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 481,
+     "detail": "489 stories, 11 duplicates removed, 137 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1424,45 +1403,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T12:53:18Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Dhurandhar and The Ba***ds of Bollywood Shine Bright at the 2026 IIFA Awards",
+      "Rakul Preet Singh Unveils Striking First Look as Surpanakha in Nitesh Tiwari's Grand Cinematic Epic Ramayana"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T16:17:02Z",
-    "run_id": "40905613735",
-    "status": "success",
-    "checked": {
-     "candidates": 51,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 46, coming 5"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T16:51:39Z",
-    "run_id": "40915511682",
-    "status": "success",
-    "checked": {
-     "candidates": 51,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 46, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1858,26 +1822,45 @@
      "detail": "now 52, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T16:18:03Z",
-    "run_id": "40905613735",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T12:53:39Z",
+    "run_id": "41058407593",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 57,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 52, coming 5"
     },
     "reason": null
    },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T12:53:39Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": {
+     "candidates": 57,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 52, coming 5"
+    },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2268,27 +2251,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T14:58:58Z",
-    "run_id": "40895512998",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T12:55:58Z",
+    "run_id": "41058407593",
     "status": "success",
     "checked": {
-     "candidates": 293,
-     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 90,
-     "detail": "+0 new rows, 90 updated rows, 203 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2702,19 +2684,27 @@
      "detail": "+0 new rows, 95 updated rows, 224 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T12:55:56Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": {
+     "candidates": 320,
+     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 10,
+     "detail": "+1 new rows, 9 updated rows, 310 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2970,30 +2960,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T16:18:03Z",
-    "run_id": "40905613735",
-    "status": "success",
-    "checked": {
-     "candidates": 72,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
-      "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 72 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3458,19 +3437,30 @@
      "detail": "api-news.json 82 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T12:55:58Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Dhurandhar and The Ba***ds of Bollywood Shine Bright at the 2026 IIFA Awards",
+      "Rakul Preet Singh Unveils Striking First Look as Surpanakha in Nitesh Tiwari's Grand Cinematic Epic Ramayana"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3728,19 +3718,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4060,29 +4050,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T14:54:29Z",
-    "run_id": "40895512998",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 291 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 5/4, ott_streaming 4/4, trailers 2/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Cast and Makers of Ramayana Engage with Thousands of Students in Special Educational Initiative Ahead of Film's Release",
-      "Netflix Unveils New Trailer for Pride and Prejudice Adaptation Starring Emma Corrin"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4527,19 +4507,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T12:53:18Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 481 still unprocessed; today by category: movies 7/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 1/3, awards 2/2, music_ost 0/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Dhurandhar and The Ba***ds of Bollywood Shine Bright at the 2026 IIFA Awards",
+      "Rakul Preet Singh Unveils Striking First Look as Surpanakha in Nitesh Tiwari's Grand Cinematic Epic Ramayana"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4781,24 +4771,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 215,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5118,24 +5103,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 243,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5460,19 +5445,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5717,19 +5702,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 66,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5964,19 +5954,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6232,30 +6222,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T15:40:18Z",
-    "run_id": "",
-    "status": "success",
-    "checked": {
-     "candidates": 107,
-     "processed": 107,
-     "succeeded": 107,
-     "failed": 0,
-     "already_have_providers": 45,
-     "detail": "missing-provider titles fetched; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 107
-    },
-    "reason": null
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6496,19 +6475,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6738,19 +6717,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T14:59:07Z",
-    "run_id": "40895512998",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7003,8 +6982,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T12:56:15Z",
+    "run_id": "41058407593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T11:18:35Z"
+ "updated_at": "2026-10-30T12:56:15Z"
 }

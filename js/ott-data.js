@@ -42,6 +42,19 @@ window.FA_OTT = {
       "id": 1810711,
       "providers": [],
       "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1483525,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
     }
   ],
   "now": [
@@ -87,7 +100,23 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-28",
-      "date_kind": "release",
+      "date_kind": "digital",
+      "id": 1727734,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-28",
+      "date_kind": "digital",
       "id": 1596275,
       "providers": [
         {
@@ -183,7 +212,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-23",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1780005,
       "providers": [
         {
@@ -195,28 +224,12 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-23",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1453407,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-10-22",
-      "date_kind": "release",
-      "id": 1727734,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -235,7 +248,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-16",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1561726,
       "providers": [
         {
