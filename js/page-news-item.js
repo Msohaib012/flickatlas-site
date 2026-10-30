@@ -95,8 +95,13 @@
   const isBollywood = (it.cats || []).some(c => String(c).toLowerCase() === "bollywood");
   if (isBollywood) UI.setIndustryContext("bollywood");
   const headline = String(it.title || "");
-  const when = it.ts && Number.isFinite(new Date(it.ts).getTime()) ? new Date(it.ts) : null;
-  const whenText = when ? `${UI.fmtDate(when.toISOString().slice(0, 10))} · ${UI.relTime(it.ts)}` : "";
+  const feedPublished = typeof it.ts === "number" && Number.isFinite(new Date(it.ts).getTime())
+    ? new Date(it.ts).toISOString() : it.ts;
+  const canonicalNewsDate = fullArt ? UI.publicationDates(fullArt) : UI.publicationDates({ published: feedPublished });
+  const canonicalPublished = canonicalNewsDate.published;
+  const dateForLogic = canonicalPublished || (!fullArt ? it.ts : "");
+  const when = dateForLogic && Number.isFinite(new Date(dateForLogic).getTime()) ? new Date(dateForLogic) : null;
+  const whenText = when ? `${UI.fmtDate(when.toISOString().slice(0, 10))} · ${UI.relTime(when.getTime())}` : "";
   const catChips = (it.cats || []).map(c =>
     `<a class="kw-chip" href="/news?f=${encodeURIComponent(c)}">${UI.esc(CATLABEL[c] || c)}</a>`).join("");
 
@@ -671,7 +676,7 @@
     <header class="content-card article-header-card">
       <div class="article-head"><h1>${UI.esc(article.headline || it.title)}</h1></div>
       <div class="article-meta">
-        ${whenText ? `<span>${UI.esc(whenText)}</span>` : ""}
+        ${UI.publicationByline(canonicalNewsDate)}${whenText && !canonicalNewsDate.published ? `<span>${UI.esc(whenText)}</span>` : ""}
         ${catChips}
       </div>
       ${article.dek ? `<p class="article-dek">${UI.esc(article.dek)}</p>` : ""}
@@ -688,7 +693,7 @@
     <header class="content-card article-header-card">
       <div class="article-head"><h1>${UI.esc(article.headline || it.title)}</h1></div>
       <div class="article-meta">
-        ${whenText ? `<span>${UI.esc(whenText)}</span>` : ""}
+        ${UI.publicationByline(canonicalNewsDate)}${whenText && !canonicalNewsDate.published ? `<span>${UI.esc(whenText)}</span>` : ""}
         ${catChips}
       </div>
       ${article.dek ? `<p class="article-dek">${UI.esc(article.dek)}</p>` : ""}
@@ -720,12 +725,13 @@
   UI.setSEO({
     title: `${article.headline || it.title} | FlickAtlas`,
     desc: (article.dek || it.title).slice(0, 160),
-    path: `/news-item?id=${encodeURIComponent(id)}`, type: "article",
+    path: `/news-item?id=${encodeURIComponent(id)}`, type: "article", dates: canonicalNewsDate,
     jsonld: { "@context": "https://schema.org", "@type": isBollywood && !fullArt ? "WebPage" : "NewsArticle",
       "headline": article.headline || it.title,
       "url": CONFIG.BASE + `/news-item?id=${encodeURIComponent(id)}`,
       ...(articleKeywordList.length ? { "keywords": articleKeywordList.join(", ") } : {}),
-      ...(when ? { "datePublished": when.toISOString() } : {}),
+      ...(canonicalNewsDate.published ? { "datePublished": canonicalNewsDate.published } : {}),
+      ...(canonicalNewsDate.modified ? { "dateModified": canonicalNewsDate.modified } : {}),
       "author": { "@type": "Organization", "name": "FlickAtlas" },
       "publisher": { "@type": "Organization", "name": "FlickAtlas" },
       ...(article.dek ? { "description": article.dek.slice(0, 200) } : {}) }
@@ -734,4 +740,3 @@
   /* Keywords are visible only when already present in the saved article record;
      this rendering path does not generate or fetch new terms. */
 })();
-

@@ -2172,3 +2172,10 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
      ~280px dead margins on both sides of a 1360px wrap. */
   .wrap{max-width:1480px}
 }
+
+/* Canonical page publication bylines: distinct from title release dates and
+   readable on both dark detail heroes and light article headers. */
+.page-publication{display:inline-block;color:inherit;font-size:.86rem;font-weight:650;line-height:1.5;overflow-wrap:anywhere;max-width:100%}
+.page-publication time{font-variant-numeric:tabular-nums}
+.detail-publication{margin:-2px 0 10px;color:#E5F4EF;max-width:100%;overflow-wrap:anywhere}
+.article-meta .page-publication{color:var(--muted);min-width:0;max-width:100%}

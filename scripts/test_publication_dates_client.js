@@ -1,0 +1,50 @@
+const fs = require('fs'), vm = require('vm'), assert = require('assert'), path = require('path');
+const metas = new Map(), links = new Map(), nodes = [];
+const head = { querySelector(sel) { if (sel.includes('fa-seo')) return null; return metas.get(sel) || links.get(sel) || null; }, appendChild(n) { nodes.push(n); if (n.tagName === 'META') metas.set(`meta[${n.attrs.name ? `name="${n.attrs.name}"` : `property="${n.attrs.property}"`}]`, n); return n; } };
+const document = { title: '', head, body: {}, addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; }, getElementById(id) { return nodes.find(n => n.id === id) || null; }, createElement(tag) { return { tagName: tag.toUpperCase(), attrs: {}, setAttribute(k,v){this.attrs[k]=v;}, remove(){}, }; } };
+const context = { document, window: {}, location: {search:'', pathname:'/', origin:'https://example.test'}, CONFIG:{BASE:'https://example.test', SITE:'FlickAtlas'}, URL, URLSearchParams, Date, Intl, console };
+context.window = context;
+vm.runInNewContext(fs.readFileSync(path.join(__dirname,'..','js','ui.js'),'utf8'), context);
+const UI = context.UI;
+assert.deepStrictEqual(JSON.parse(JSON.stringify(UI.publicationDates({published_at:'2026-10-01',release_date:'1999-02-03'}))), {published:'2026-10-01',modified:''});
+assert.deepStrictEqual(JSON.parse(JSON.stringify(UI.publicationDates({release_date:'2024-02-02',first_air_date:'2020-01-01',metadata_updated_at:'2026-10-30'}))), {published:'',modified:''});
+assert.strictEqual(UI.publicationDates({published_at:'2026-02-30'}).published, '');
+assert.strictEqual(UI.publicationDates({published_at:'2026-02-30T12:00:00Z'}).published, '');
+assert.strictEqual(UI.publicationDates({published_at:'2026-01-02T24:00:00Z'}).published, '');
+assert.strictEqual(UI.publicationDates({published_at:'not a date',published:'2025-03-04'}).published, '2025-03-04');
+assert.strictEqual(UI.publicationDates({published_at:'2026-01-02T03:04:05+02:00'}).published, '2026-01-02T01:04:05.000Z');
+assert.strictEqual(UI.publicationDates({published:'Tue, 03 Jun 2025 10:15:30 +0530'}).published, '2025-06-03T04:45:30.000Z');
+assert.strictEqual(UI.publicationDates({published:'2026-01-02T03:04:00'}).published, '2026-01-02');
+assert.strictEqual(UI.publicationDates({published:'2026-01-02',modified_at:'2026-01-02'}).modified, '');
+assert.strictEqual(UI.publicationDates({published:'2026-01-02',modified_at:'2026-01-03'}).modified, '2026-01-03');
+assert.strictEqual(UI.publicationDates({published:'2026-01-02',modified_at:'bad',metadata_updated_at:'2026-02-01'}).modified, '');
+const stable = UI.publicationDates({published_at:'2026-01-02'});
+assert.strictEqual(JSON.stringify(UI.publicationDates({published_at:'2026-01-02'})), JSON.stringify(stable));
+const byline = UI.publicationByline({published:'2026-01-02T03:04:05.000Z',modified:'2026-01-04'});
+assert(byline.includes('class="page-publication"') && byline.includes('datetime="2026-01-02T03:04:05.000Z"') && byline.includes('2 January 2026 at 03:04 UTC') && byline.includes('Updated:'));
+assert.strictEqual(UI.publicationByline({published:''}), '');
+UI.setSEO({title:'Date test',desc:'d',path:'/movie',dates:{published:'2026-01-02',modified:'2026-01-04'},jsonld:{'@context':'https://schema.org','@type':'Movie',name:'Test',releasedEvent:{'@type':'PublicationEvent',startDate:'1999-01-01'}}});
+const schema = JSON.parse(nodes.find(n => n.id === 'fa-jsonld').textContent);
+const movie = schema['@graph'].find(x => x['@type']==='Movie'), page=schema['@graph'].find(x=>x['@type']==='WebPage');
+assert.strictEqual(movie.datePublished, undefined); assert.strictEqual(movie.releasedEvent.startDate,'1999-01-01');
+assert.strictEqual(page.datePublished,'2026-01-02'); assert.strictEqual(page.dateModified,'2026-01-04');
+const generated = JSON.parse(fs.readFileSync(path.join(__dirname,'..','js','seo-meta.json'),'utf8'));
+let checked = 0;
+for (const [file, family] of [['published-titles.js','title'],['articles-data.js','news']]) {
+  const text = fs.readFileSync(path.join(__dirname,'..','js',file),'utf8');
+  const records = JSON.parse(text.slice(text.indexOf('{'),text.lastIndexOf('}')+1));
+  for (const [id, record] of Object.entries(records)) {
+    const key = family === 'title' ? `${record.type === 'tv' ? 'tv' : 'movie'}:${id}` : `news:${id}`;
+    const dates = JSON.parse(JSON.stringify(UI.publicationDates(record)));
+    assert.deepStrictEqual(dates, {published:generated[key].published,modified:generated[key].modified}, key);
+    checked++;
+  }
+}
+const preservedTitle = document.title, preservedNodes = nodes.length;
+const originalQuery = head.querySelector;
+head.querySelector = function(selector) { return selector.includes('fa-seo') ? {} : originalQuery.call(this,selector); };
+UI.setSEO({title:'Do not replace the detailed server title',desc:'fallback',dates:{published:'2000-01-01'}});
+assert.strictEqual(document.title,preservedTitle);
+assert.strictEqual(nodes.length,preservedNodes,'server-injected metadata must remain untouched');
+console.log(`Client/server publication-date parity: ${checked} published movie, TV and article records; server SEO marker preserved.`);
+console.log('Publication dates client tests passed');

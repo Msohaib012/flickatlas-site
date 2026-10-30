@@ -12,11 +12,14 @@ const metaEntry = {
   k: keywords,
   img: 'https://image.tmdb.org/t/p/w500/glass-lantern.jpg',
   robots: 'noindex,follow',
+  published: '2026-10-30',
+  modified: '',
   ld: {
     '@context': 'https://schema.org',
     '@type': 'Movie',
     name: 'Glass Lantern',
     description,
+    releasedEvent: { '@type': 'PublicationEvent', startDate: '2026-09-22' },
   },
 };
 const shortDaywise = {
@@ -31,6 +34,13 @@ const longDaywise = {
   k: 'long film box office collection', img: metaEntry.img,
   latest_day: 'Day 1', day_rows: [{ day: 1, d: 'Day 1 collection.' }],
   ld: { '@context': 'https://schema.org', '@type': 'Movie', name: longDaywiseTitle },
+};
+const newsEntry = {
+  t: 'A real story update', d: description, k: keywords, img: metaEntry.img,
+  published: '2026-10-29T12:00:00.000Z', modified: '2026-10-30T09:00:00.000Z',
+  ld: { '@context': 'https://schema.org', '@type': 'NewsArticle',
+    headline: 'A real story update', datePublished: '2026-10-29T12:00:00.000Z',
+    dateModified: '2026-10-30T09:00:00.000Z' },
 };
 const shell = `<!doctype html><html><head>
 <title>Generic shell</title><title>Duplicate title</title>
@@ -54,7 +64,7 @@ const shell = `<!doctype html><html><head>
 <meta name="twitter:image" content="/old-image.jpg">
 <link rel="canonical" href="https://flickatlas.co.uk/movie">
 <link rel="canonical" href="https://flickatlas.co.uk/movie/">
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"FlickAtlas","description":"Homepage description"},{"@type":"WebPage","name":"Generic Movie","description":"Old page description","url":"https://flickatlas.co.uk/movie"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"FlickAtlas","description":"Homepage description"},{"@type":"WebPage","name":"Generic Movie","description":"Old page description","url":"https://flickatlas.co.uk/movie","datePublished":"2020-01-01","dateModified":"2020-01-02"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[]}</script>
 </head><body><main>Test shell</main></body></html>`;
 const assetCalls = [];
@@ -64,12 +74,14 @@ const env = {
       const url = new URL(request.url);
       assetCalls.push(url.pathname);
       if (url.pathname === '/movie/') {
-        return new Response(shell, {
+        const content = url.searchParams.get('id') === '125'
+          ? shell.replace('"@type":"WebPage"', '"@type":"Thing"') : shell;
+        return new Response(content, {
           status: 200,
           headers: { 'Content-Type': 'text/html; charset=utf-8' },
         });
       }
-      if (url.pathname === '/box-office-day/') {
+      if (url.pathname === '/box-office-day/' || url.pathname === '/news-item/') {
         return new Response(shell, {
           status: 200,
           headers: { 'Content-Type': 'text/html; charset=utf-8' },
@@ -78,6 +90,9 @@ const env = {
       if (url.pathname === '/js/seo-meta.json') {
         return new Response(JSON.stringify({
           'movie:123': metaEntry,
+          'movie:124': { ...metaEntry, published: '', modified: '' },
+          'movie:125': metaEntry,
+          'news:fixture': newsEntry,
           'daywise:456': shortDaywise,
           'daywise:789': longDaywise,
         }), {
@@ -147,7 +162,32 @@ assert.equal(findType('WebPage')?.name, title);
 assert.equal(findType('WebPage')?.url, canonical);
 assert.ok(findType('BreadcrumbList'));
 assert.equal(findType('Movie')?.name, 'Glass Lantern');
+assert.equal(findType('WebPage')?.datePublished, '2026-10-30');
+assert.equal(findType('WebPage')?.dateModified, undefined, 'stale template edit dates must be removed');
+assert.equal(findType('Movie')?.datePublished, undefined, 'film release is not page publication');
+assert.equal(findType('Movie')?.releasedEvent.startDate, '2026-09-22');
 assert.equal(metaEntry.ld.name, 'Glass Lantern', 'cached metadata must not be mutated');
+
+async function pageGraph(url) {
+  const response = await worker.fetch(new Request(url), env);
+  assert.equal(response.status, 200);
+  const text = await response.text();
+  const body = text.match(/<script\b(?=[^>]*\btype=["']application\/ld\+json["'])[^>]*>([\s\S]*?)<\/script>/i)?.[1];
+  return JSON.parse(body)['@graph'];
+}
+const newsGraph = await pageGraph('https://flickatlas.co.uk/news-item?id=fixture');
+for (const type of ['WebPage', 'NewsArticle']) {
+  const node = newsGraph.find(item => item['@type'] === type);
+  assert.equal(node.datePublished, newsEntry.published);
+  assert.equal(node.dateModified, newsEntry.modified);
+}
+const undatedGraph = await pageGraph('https://flickatlas.co.uk/movie?id=124');
+const undatedPage = undatedGraph.find(item => item['@type'] === 'WebPage');
+assert.equal(undatedPage.datePublished, undefined, 'do not invent missing publication dates');
+assert.equal(undatedPage.dateModified, undefined, 'do not retain stale template dates');
+const newPageGraph = await pageGraph('https://flickatlas.co.uk/movie?id=125');
+assert.equal(newPageGraph.find(item => item['@type'] === 'WebPage')?.datePublished,
+  metaEntry.published, 'provide a dated WebPage node when the legacy shell has none');
 
 async function pageTitle(url) {
   const page = await worker.fetch(new Request(url), env);
@@ -165,4 +205,4 @@ const longTitle = await pageTitle(
 assert.equal(longTitle, longDaywiseTitle,
   'a long film title must not receive boilerplate or be truncated');
 
-console.log('Worker SEO: unique metadata and merged JSON-LD; compact Day 31 title; long film title preserved.');
+console.log('Worker SEO: unique metadata and merged JSON-LD; genuine page dates separate from releases; compact Day 31 title; long film title preserved.');

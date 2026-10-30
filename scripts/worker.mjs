@@ -129,6 +129,20 @@ function pushSchemaNodes(value, nodes) {
     }
   }
 }
+function applyPageDates(node, meta) {
+  // These are publisher-recorded page lifecycle dates, never the film's
+  // release, the request time, a deployment, or a guessed Google crawl.
+  delete node.datePublished;
+  delete node.dateModified;
+  if (meta.published) node.datePublished = meta.published;
+  if (meta.modified) node.dateModified = meta.modified;
+  return node;
+}
+function publicationPage(meta, canonical) {
+  return applyPageDates({
+    '@type': 'WebPage', name: meta.t, description: meta.d, url: canonical,
+  }, meta);
+}
 function injectMergedJsonLd(html, meta, canonical) {
   try {
     const nodes = [];
@@ -138,15 +152,19 @@ function injectMergedJsonLd(html, meta, canonical) {
       return "";
     });
     if (meta.ld) pushSchemaNodes(meta.ld, nodes);
+    let hasPage = false;
     nodes.forEach(function (node) {
       const rawTypes = node && node["@type"];
       const types = Array.isArray(rawTypes) ? rawTypes : [rawTypes];
       if (types.some(function (type) { return type === "WebPage" || type === "CollectionPage"; })) {
+        hasPage = true;
         node.name = meta.t;
         node.description = meta.d;
         node.url = canonical;
+        applyPageDates(node, meta);
       }
     });
+    if (!hasPage && (meta.published || meta.modified)) nodes.push(publicationPage(meta, canonical));
     const seen = new Set();
     const unique = nodes.filter(function (node) {
       const key = JSON.stringify(node);
@@ -163,8 +181,12 @@ function injectMergedJsonLd(html, meta, canonical) {
     // A malformed legacy block must never make the page fail. Preserve the
     // original HTML and add the verified route schema as a separate block.
     if (!meta.ld) return html;
+    const fallbackNodes = [];
+    pushSchemaNodes(meta.ld, fallbackNodes);
+    if (meta.published || meta.modified) fallbackNodes.push(publicationPage(meta, canonical));
     const tag = '<script type="application/ld+json">' +
-      JSON.stringify(meta.ld).replace(/</g, "\\u003c") + "</script>";
+      JSON.stringify({ '@context': 'https://schema.org', '@graph': fallbackNodes })
+        .replace(/</g, "\\u003c") + "</script>";
     return addHeadTag(html, tag);
   }
 }

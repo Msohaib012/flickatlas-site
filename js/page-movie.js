@@ -125,6 +125,8 @@
      and killed the whole page on its loading skeleton.) */
   const similarHeading = titleDate(pub) && titleDate(pub) > TMDB.today() ? "Similar Upcoming" : "Similar Movies";
 
+  const pageDates = UI.publicationDates(pub);
+
   try {
     const title = UI.titleOf(pub);
     const year = UI.yearOf(pub);
@@ -315,6 +317,7 @@
         ${poster ? `<div class="detail-poster"><img src="${poster}" alt="${UI.esc(title)} poster" loading="lazy" decoding="async" onerror="this.remove()"></div>` : ""}
         <div class="detail-main">
           <h1>${UI.esc(title)}${year ? ` (${year})` : ""}</h1>
+          ${UI.publicationByline(pageDates) ? `<p class="detail-publication">${UI.publicationByline(pageDates)}</p>` : ""}
           <p class="detail-sub">${pub.tagline ? UI.esc(pub.tagline) : UI.esc([genres.join(", "), runtime, relDate].filter(Boolean).join(" · "))}</p>
           ${heroFacts.length ? `<div class="detail-facts">${heroFacts.join("")}</div>` : ""}
         </div>
@@ -648,13 +651,14 @@
       title: `${title}${year ? ` (${year})` : ""} — ${pub.overview ? "Story & Cast" : "Cast & Details"} | FlickAtlas`,
       desc: (pub.overview || `${title} film details and cast information on FlickAtlas.`).slice(0, 160),
       path: `/movie?id=${encodeURIComponent(id)}`,
+      dates: pageDates,
       type: "video.movie",
       image: poster || "",
       jsonld: {
         "@context": "https://schema.org", "@type": "Movie",
         "name": title,
         "url": CONFIG.BASE + `/movie?id=${encodeURIComponent(id)}`,
-        ...(pub.release_date ? { "datePublished": pub.release_date } : {}),
+        ...(pub.release_date ? { "releasedEvent": { "@type": "PublicationEvent", "startDate": pub.release_date } } : {}),
         ...(pub.overview ? { "description": pub.overview.slice(0, 300) } : {}),
         ...(genres.length ? { "genre": genres } : {}),
         ...(poster ? { "image": poster } : {}),

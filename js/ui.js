@@ -1033,8 +1033,59 @@ const UI = (() => {
     return `<div class="state-msg"><p>${esc(msg)}</p>${retry ? `<button class="btn btn-teal" onclick="location.reload()">Retry</button>` : ""}</div>`;
   }
 
+  /* Canonical publication dates: never infer publication from a title's
+     release/air date or from a refresh timestamp. Date-only values retain
+     date precision; timezone-less datetimes are deliberately reduced to day. */
+  function publicationDateValue(value) {
+    if (typeof value !== "string") return null;
+    const s = value.trim();
+    if (!s) return null;
+    const dateOnly = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (dateOnly) {
+      const y = +dateOnly[1], m = +dateOnly[2], d = +dateOnly[3];
+      const check = new Date(Date.UTC(y, m - 1, d));
+      if (check.getUTCFullYear() !== y || check.getUTCMonth() !== m - 1 || check.getUTCDate() !== d) return null;
+      return { value: s, day: s, millis: Date.UTC(y, m - 1, d), dateOnly: true };
+    }
+    const naive = s.match(/^(\d{4}-\d{2}-\d{2})[T ](\d{2}):(\d{2})(?::(\d{2})(?:\.\d+)?)?$/);
+    if (naive) {
+      if (+naive[2] > 23 || +naive[3] > 59 || +(naive[4] || 0) > 59) return null;
+      const day = publicationDateValue(naive[1]);
+      return day ? { ...day, value: day.day, dateOnly: true } : null;
+    }
+    // Require an explicit timezone on ISO timestamps; RFC822 timestamps
+    // are accepted by Date.parse and normalized to UTC.
+    const iso = s.match(/^(\d{4}-\d{2}-\d{2})[T ](\d{2}):(\d{2})(?::(\d{2})(?:\.\d+)?)?(?:Z|[+-]\d{2}:?\d{2})$/i);
+    if (iso && (!publicationDateValue(iso[1]) || +iso[2] > 23 || +iso[3] > 59 || +(iso[4] || 0) > 59)) return null;
+    const isoAware = !!iso;
+    const rfc = /(?:UT|GMT|UTC|Z|[ECMP][SD]T|[+-]\d{4})$/i.test(s);
+    if (!isoAware && !rfc) return null;
+    const millis = Date.parse(isoAware ? s.replace(' ', 'T') : s);
+    if (!Number.isFinite(millis)) return null;
+    const valueISO = new Date(millis).toISOString();
+    return { value: valueISO, day: valueISO.slice(0, 10), millis, dateOnly: false };
+  }
+  function publicationDates(entry) {
+    entry = entry || {};
+    const published = publicationDateValue(entry.published_at) || publicationDateValue(entry.published);
+    const modified = publicationDateValue(entry.modified_at);
+    return { published: published ? published.value : "",
+      modified: published && modified && modified.millis > published.millis ? modified.value : "" };
+  }
+  function publicationByline(dates) {
+    dates = dates || {};
+    const render = value => {
+      const parsed = publicationDateValue(value); if (!parsed) return "";
+      const shown = fmtDate(parsed.day) + (parsed.dateOnly ? "" : ` at ${parsed.value.slice(11, 16)} UTC`);
+      return `<time datetime="${esc(parsed.value)}">${esc(shown)}</time>`;
+    };
+    const published = render(dates.published); if (!published) return "";
+    const modified = render(dates.modified);
+    return `<span class="page-publication">Published: ${published}${modified ? ` · Updated: ${modified}` : ""}</span>`;
+  }
+
   /* SEO: canonical / OG / twitter / JSON-LD all derive from CONFIG.BASE */
-  function setSEO({ title, desc, path = "/", type = "website", image = "", jsonld = null, noindex }) {
+  function setSEO({ title, desc, path = "/", type = "website", image = "", jsonld = null, dates = null, noindex }) {
     /* SEO audit 2026-10-28 (claude-seo): when the Worker has already injected
        the real meta it adds <meta name="fa-seo" content="server">. In that
        case the JS copy must NOT overwrite it — raw HTML and the rendered DOM
@@ -1069,12 +1120,22 @@ const UI = (() => {
     let can = document.head.querySelector("link[rel='canonical']");
     if (!can) { can = document.createElement("link"); can.setAttribute("rel", "canonical"); document.head.appendChild(can); }
     can.setAttribute("href", url);
-    if (jsonld) {
+    if (jsonld || dates) {
+      const normalized = dates ? publicationDates({ published_at: dates.published, modified_at: dates.modified }) : null;
+      const entity = jsonld ? { ...jsonld } : null;
+      if (entity && entity["@type"] === "NewsArticle" && normalized) {
+        if (normalized.published) entity.datePublished = normalized.published; else delete entity.datePublished;
+        if (normalized.modified) entity.dateModified = normalized.modified; else delete entity.dateModified;
+      }
+      const webpage = { "@context": "https://schema.org", "@type": "WebPage", "url": url, "name": title, "description": desc,
+        ...(normalized && normalized.published ? { datePublished: normalized.published } : {}),
+        ...(normalized && normalized.modified ? { dateModified: normalized.modified } : {}) };
+      const graph = dates ? { "@context": "https://schema.org", "@graph": [...(entity ? [entity] : []), webpage] } : jsonld;
       const old = document.getElementById("fa-jsonld");
       if (old) old.remove();
       const sc = document.createElement("script");
       sc.type = "application/ld+json"; sc.id = "fa-jsonld";
-      sc.textContent = JSON.stringify(jsonld);
+      sc.textContent = JSON.stringify(graph);
       document.head.appendChild(sc);
     }
   }
@@ -1205,14 +1266,11 @@ const UI = (() => {
     return n;
   }
 
-  return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, todayIST, todayPKT, qs, pageQuery, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
+  return { esc, img, newsImg, newsThumbImg, epThumbImg, imgFail, PLACEHOLDER_IMG, todayIST, todayPKT, qs, pageQuery, publicationDates, publicationByline, movieReturnUrl, movieReturnLabel, safeMovieSource, titleOf, yearOf, rating, ratingText, star, fmtDate, monthLabel,
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, deriveNewsTags, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
     relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
-
-
-
 

@@ -118,6 +118,8 @@
     return;
   }
 
+  const pageDates = UI.publicationDates(pub);
+
   try {
     const name = UI.titleOf(pub);
     const year = UI.yearOf(pub);
@@ -361,6 +363,7 @@
         ${poster ? `<div class="detail-poster"><img src="${poster}" alt="${UI.esc(name)} poster" loading="lazy" onerror="this.remove()"></div>` : ""}
         <div class="detail-main">
           <h1>${UI.esc(name)}${year ? ` (${year})` : ""}</h1>
+          ${UI.publicationByline(pageDates) ? `<p class="detail-publication">${UI.publicationByline(pageDates)}</p>` : ""}
           ${pub.tagline ? `<p class="detail-sub">${UI.esc(pub.tagline)}</p>` : ""}
           ${heroFacts.length ? `<div class="detail-facts">${heroFacts.map(([k, v]) => `<div><span>${UI.esc(k)}</span><b>${UI.esc(v)}</b></div>`).join("")}</div>` : ""}
         </div>
@@ -413,6 +416,7 @@
       title: `${name}${year ? ` (${year})` : ""} — ${isPakistani ? "Episodes, Cast & Story" : "Seasons, Cast & Story"} | FlickAtlas`,
       desc: (pub.overview || `${name} — ${isPakistani ? "episodes" : "seasons"}, cast, crew and story on FlickAtlas.`).slice(0, 160),
       path: `/show?id=${encodeURIComponent(id)}`,
+      dates: pageDates,
       type: "video.tv_show",
       image: backdrop || poster || "",
       jsonld: {
@@ -422,7 +426,7 @@
         "url": CONFIG.BASE + `/show?id=${encodeURIComponent(id)}`,
         ...(pub.overview ? { "description": pub.overview.slice(0, 300) } : {}),
         ...(genres.length ? { "genre": genres } : {}),
-        ...(firstAir ? { "datePublished": firstAir } : {}),
+        ...(firstAir ? { "startDate": firstAir } : {}),
         ...(pub.number_of_seasons && !isPakistani ? { "numberOfSeasons": pub.number_of_seasons } : {}),
         ...(epCount ? { "numberOfEpisodes": epCount } : {}),
         ...(pub.vote_average ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": Math.round(pub.vote_average * 10) / 10, "bestRating": 10, "ratingCount": pub.vote_count || 1 } } : {}),
@@ -434,7 +438,6 @@
     main.innerHTML = `<div class="wrap">${UI.stateMsg("Could not load this show. Please try again.")}</div>`;
   }
 })();
-
 
 
 

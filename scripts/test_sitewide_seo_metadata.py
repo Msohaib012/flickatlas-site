@@ -261,8 +261,47 @@ assert article["d"].startswith("Actor Name: ")
 assert "New Hindi Drama" in article["d"]
 assert article["ld"]["@type"] == "NewsArticle"
 assert article["ld"]["keywords"] == "Actor Name, New Hindi Drama"
-assert article["ld"]["datePublished"] == "2026-10-30"
+assert article["ld"]["datePublished"] == "2026-10-30T12:00:00.000Z"
+assert "dateModified" not in article["ld"], "a fresh build is not an editorial update"
 assert "Actor Name New Hindi Drama" in article["k"]
+
+# Publication dates refer to the page, never to a movie release, refresh,
+# deployment, or Google's crawl/indexing time. Preserve known precision.
+assert seo.publication_stamp("2026-10-30") == "2026-10-30"
+assert seo.publication_stamp("2026-10-30T17:00:00+05:00") == "2026-10-30T12:00:00.000Z"
+assert seo.publication_stamp("Tue, 27 Oct 2026 23:50:00 -0500") == "2026-10-28T04:50:00.000Z"
+assert seo.publication_stamp("2026-10-30T12:00:00") == "2026-10-30"
+for invalid in (None, "", "not a date", "2026-02-30", "2026-13-01"):
+    assert seo.publication_stamp(invalid) == "", invalid
+assert seo.publication_dates({"release_date": "2026-09-22",
+                              "metadata_updated_at": "2026-10-30"}) == {
+    "published": "", "modified": ""}
+assert seo.publication_dates({"published_at": "2026-10-29", "published": "2026-09-22",
+                              "modified_at": "2026-10-30"}) == {
+    "published": "2026-10-29", "modified": "2026-10-30"}
+for edit in ("2026-10-28", "2026-10-29", "bad date"):
+    assert not seo.publication_dates({"published_at": "2026-10-29", "modified_at": edit})["modified"]
+date_fixture = {"id": "123", "title": "Date Signal", "type": "movie",
+                "industry": "world", "release_date": "2026-09-22",
+                "published_at": "2026-10-30", "overview": "A reported film story."}
+date_meta = seo.title_meta(date_fixture)
+assert date_meta["published"] == "2026-10-30"
+assert date_meta["modified"] == ""
+assert "datePublished" not in date_meta["ld"], "the Movie entity is not the web page"
+assert date_meta["ld"]["releasedEvent"] == {
+    "@type": "PublicationEvent", "startDate": "2026-09-22"}
+assert seo.title_meta(date_fixture) == date_meta, "rebuilding must not freshen dates"
+undated = seo.title_meta({**date_fixture, "published_at": ""})
+assert not undated["published"], "never fall back to the release date"
+tv_date_meta = seo.title_meta({**date_fixture, "type": "tv", "first_air_date": "2026-08-01"})
+assert tv_date_meta["published"] == "2026-10-30"
+assert tv_date_meta["ld"]["startDate"] == "2026-08-01"
+assert "datePublished" not in tv_date_meta["ld"]
+edited_article = seo.news_meta({"id": "edited", "headline": "A real editorial update",
+                               "published": "2026-10-29T12:00:00Z",
+                               "modified_at": "2026-10-30T09:00:00Z"})
+assert edited_article["ld"]["datePublished"] == "2026-10-29T12:00:00.000Z"
+assert edited_article["ld"]["dateModified"] == "2026-10-30T09:00:00.000Z"
 
 long_headline = ("Actor and filmmaker announce a major new Hindi cinema project "
                  "with several further details confirmed today")
@@ -302,6 +341,16 @@ seo.DAYWISE = seo.read_js_map(ROOT / "js/daywise-data.js", "FA_DAYWISE")
 for entry in seo.ARTICLES.values():
     entry["_pub"] = seo.parse_date(entry.get("published"))
 
+for key, value in generated_meta.items():
+    family, _, item_id = key.partition(":")
+    if family in ("movie", "tv"):
+        assert value["published"] == seo.publication_dates(seo.PUBLISHED[item_id])["published"], key
+        assert "datePublished" not in value["ld"], key
+    elif family == "news":
+        assert value["published"] == seo.publication_dates(seo.ARTICLES[item_id])["published"], key
+        assert value["ld"].get("datePublished", "") == value["published"], key
+        assert value["ld"].get("dateModified", "") == value["modified"], key
+
 you_me_us = seo.title_meta(seo.PUBLISHED["1541477"])
 live_example = generated_meta["movie:1541477"]
 assert live_example["t"] == you_me_us["t"]
@@ -324,18 +373,19 @@ bano = next(entry for entry in seo.PUBLISHED.values()
 bano_meta = seo.title_meta(bano)
 assert bano_meta["t"] == "Bano (2026) — Episodes, Cast & Story | FlickAtlas"
 assert "Seasons" not in bano_meta["t"]
-assert "17 episodes" in bano_meta["d"]
+assert "%d episodes" % seo.tv_episode_count(bano) in bano_meta["d"]
 
 def maximum(values):
     dates = [value for value in values if value]
-    return max(dates) if dates else "2026-10-28"
+    return max(dates) if dates else ""
 
+title_dates = [seo.parse_date(seo.page_lastmod(entry)) for entry in seo.PUBLISHED.values()]
+article_dates = [seo.parse_date(seo.page_lastmod(entry)) for entry in seo.ARTICLES.values()]
 lastmods = {
-    "max": maximum([entry.get("published_at") for entry in seo.PUBLISHED.values()]
-                    + [entry.get("_pub") for entry in seo.ARTICLES.values()]),
-    "titles": maximum([entry.get("published_at") for entry in seo.PUBLISHED.values()]),
-    "articles": maximum([entry.get("_pub") for entry in seo.ARTICLES.values()]),
-    "daywise": maximum([row.get("date") for rows in seo.DAYWISE.values()
+    "max": maximum(title_dates + article_dates),
+    "titles": maximum(title_dates),
+    "articles": maximum(article_dates),
+    "daywise": maximum([seo.parse_date(seo.page_lastmod(row)) for rows in seo.DAYWISE.values()
                         for row in rows]),
 }
 expected_sitemap, url_count = seo.build_sitemap(lastmods)
@@ -346,5 +396,20 @@ ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 assert len(xml_root.findall("s:url", ns)) == url_count
 assert any(node.text == "2026-10-30" for node in xml_root.findall("s:url/s:lastmod", ns))
 
+for node in xml_root.findall("s:url", ns):
+    loc = node.find("s:loc", ns).text
+    if "/box-office-day?" in loc:
+        assert node.find("s:lastmod", ns) is None, "event dates must not stand in for report-page updates"
+
+# Missing historical timestamps do not justify a release-date or global fallback.
+saved = seo.PUBLISHED, seo.ARTICLES, seo.DAYWISE
+seo.PUBLISHED = {"1": {"id": "1", "type": "movie", "release_date": "2026-09-22"}}
+seo.ARTICLES = {"undated": {"id": "undated"}}
+seo.DAYWISE = {"1": [{"day": "Day 1", "date": "2026-09-22", "collection": 123}]}
+undated_sitemap, _ = seo.build_sitemap({"max": "", "titles": "", "articles": "", "daywise": ""})
+assert "<lastmod>" not in undated_sitemap
+seo.PUBLISHED, seo.ARTICLES, seo.DAYWISE = saved
+
 print(f"Sitewide SEO: {len(shells)} unique route shells; titles/descriptions/keywords valid; "
-      "movie/news metadata data-driven; OAI SearchBot explicitly allowed; sitemap synchronized.")
+      "movie/news metadata data-driven; publication dates separate from release dates; "
+      "OAI SearchBot explicitly allowed; sitemap synchronized.")

@@ -48,7 +48,11 @@ jobs:
       - name: Offline viewer-review regression tests
         run: |
           node --check scripts/worker.mjs
+          node --check js/ui.js
+          node --check js/page-movie.js
+          node --check js/page-show.js
           node scripts/test_worker_seo_injection.mjs
+          node scripts/test_publication_dates_client.js
           node scripts/test_viewer_reviews.js
           node scripts/test_viewer_review_worker.js
       - name: Deploy to Cloudflare

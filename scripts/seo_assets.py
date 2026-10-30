@@ -37,13 +37,21 @@ import math
 import os
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = "https://flickatlas.co.uk"
 IMG = "https://image.tmdb.org/t/p"
+
+# Import-safe defaults for pure metadata helpers and offline fixtures.
+# main() replaces these with the checked-in published data before building.
+PUBLISHED = {}
+ARTICLES = {}
+DAYWISE = {}
+REVIEWS = {}
+EPISODE_TRACKER = {"episodes": {}}
 
 INDUSTRY_LABEL = {
     "bollywood": "Bollywood",
@@ -128,6 +136,52 @@ def parse_date(s):
         return parsedate_to_datetime(s).date().isoformat()
     except Exception:
         return None
+
+
+def publication_stamp(value):
+    """A genuine publication/edit date, preserving known precision.
+
+    A date-only record stays date-only; timezone-aware ISO/RFC822 values
+    become UTC ISO8601. Never infer a page date from a release/air date,
+    a metadata refresh, a crawl, or the time this generator is run.
+    """
+    if not isinstance(value, str) or not value.strip():
+        return ""
+    value = value.strip()
+    try:
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+            return datetime.strptime(value, "%Y-%m-%d").date().isoformat()
+        if re.match(r"^\d{4}-\d{2}-\d{2}", value):
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        else:
+            parsed = parsedate_to_datetime(value)
+        if parsed.tzinfo is None:
+            return parsed.date().isoformat()
+        return parsed.astimezone(timezone.utc).isoformat(
+            timespec="milliseconds").replace("+00:00", "Z")
+    except (TypeError, ValueError, OverflowError):
+        return ""
+
+
+def publication_dates(entry):
+    """First-published plus an explicitly recorded substantive edit only."""
+    published = (publication_stamp(entry.get("published_at"))
+                 or publication_stamp(entry.get("published")))
+    modified = publication_stamp(entry.get("modified_at"))
+    if published and modified:
+        def instant(value):
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+            return parsed.replace(tzinfo=parsed.tzinfo or timezone.utc)
+        if instant(modified) <= instant(published):
+            modified = ""
+    else:
+        modified = ""
+    return {"published": published, "modified": modified}
+
+
+def page_lastmod(entry):
+    dates = publication_dates(entry)
+    return dates["modified"] or dates["published"]
 
 
 def year_of(entry):
@@ -486,9 +540,16 @@ def title_meta(entry):
         "image": img_url(entry),
         "description": d,
     }
-    if year:
-        ld["datePublished"] = (entry.get("release_date")
-                               or entry.get("first_air_date"))
+    # The entity is the film/series, not the page. Its release/first-air
+    # date must not masquerade as FlickAtlas's page publication date.
+    release = parse_date(entry.get("first_air_date") if is_tv
+                         else entry.get("release_date"))
+    if release:
+        if is_tv:
+            ld["startDate"] = release
+        else:
+            ld["releasedEvent"] = {"@type": "PublicationEvent", "startDate": release}
+    ld["mainEntityOfPage"] = ld["url"]
     if genres:
         ld["genre"] = genres
     if rating and votes:
@@ -512,7 +573,8 @@ def title_meta(entry):
         if entry.get("runtime"):
             ld["duration"] = "PT%dM" % int(entry["runtime"])
     return {"t": t, "d": trunc_description(d, 160), "k": ", ".join(kws), "img": img_url(entry),
-            "ld": ld, "year": year, "industry": entry.get("industry")}
+            "ld": ld, "year": year, "industry": entry.get("industry"),
+            **publication_dates(entry)}
 
 
 _EP_RE = re.compile(
@@ -626,7 +688,7 @@ def news_meta(entry):
     imgs = entry.get("images") or []
     img = imgs[0].get("url") if imgs and imgs[0].get("url") else (
         BASE + "/icon-512.png")
-    pub = parse_date(entry.get("published"))
+    dates = publication_dates(entry)
     ld = {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
@@ -643,11 +705,12 @@ def news_meta(entry):
     article_kws = unique_keywords((entry.get("keywords") or [])[:12], 12)
     if article_kws:
         ld["keywords"] = ", ".join(article_kws)
-    if pub:
-        ld["datePublished"] = pub
-        ld["dateModified"] = pub
+    if dates["published"]:
+        ld["datePublished"] = dates["published"]
+    if dates["modified"]:
+        ld["dateModified"] = dates["modified"]
     return {"t": t, "d": d, "k": ", ".join(kws), "img": img, "ld": ld,
-            "published": pub}
+            **dates}
 
 
 def daywise_meta(entry):
@@ -746,12 +809,12 @@ def build_sitemap(lastmods):
     for tid in sorted(PUBLISHED, key=lambda x: int(x)):
         e = PUBLISHED[tid]
         page = "show" if e.get("type") == "tv" else "movie"
-        lm = e.get("published_at") or e.get("release_date") or e.get("first_air_date") or lastmods["max"]
+        lm = page_lastmod(e)
         urls.append(("%s/%s?id=%s" % (BASE, page, tid), lm, "weekly",
                      "0.9" if str(tid) in DAYWISE else "0.8"))
     for slug in sorted(ARTICLES):
         e = ARTICLES[slug]
-        lm = e.get("_pub") or lastmods["max"]
+        lm = page_lastmod(e)
         urls.append(("%s/news-item?id=%s" % (BASE, slug), lm, "weekly", "0.7"))
     for tid in sorted(DAYWISE, key=lambda x: int(x)):
         # One URL per film per theatrical day, capped at Day 30. Later
@@ -760,7 +823,9 @@ def build_sitemap(lastmods):
         # The bare ?title= URL is not listed because it duplicates the
         # latest day (or the totals-only fallback after Day 30).
         for n, r in _valid_day_rows(DAYWISE[tid]):
-            lm = r.get("date") or lastmods["max"]
+            # A collection's theatrical date is not evidence of when its
+            # report page was published/edited. lastmod is optional.
+            lm = page_lastmod(r)
             urls.append(("%s/box-office-day?title=%s&day=%d"
                          % (BASE, tid, n), lm, "daily", "0.8"))
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
@@ -768,8 +833,8 @@ def build_sitemap(lastmods):
     # SEO audit 2026-10-28 (claude-seo): Google ignores <changefreq>
     # and <priority> — emit loc + lastmod only.
     for loc, lm, _freq, _prio in urls:
-        out.append("  <url><loc>%s</loc><lastmod>%s</lastmod></url>"
-                   % (xml_esc(loc), lm))
+        lastmod = "<lastmod>%s</lastmod>" % xml_esc(lm) if lm else ""
+        out.append("  <url><loc>%s</loc>%s</url>" % (xml_esc(loc), lastmod))
     out.append("</urlset>")
     return "\n".join(out) + "\n", len(urls)
 
@@ -812,14 +877,15 @@ def main():
     # Deterministic lastmods (from the data, never "today").
     def _max(dates):
         ds = [d for d in dates if d]
-        return max(ds) if ds else "2026-10-28"
+        return max(ds) if ds else ""
+    title_dates = [parse_date(page_lastmod(e)) for e in PUBLISHED.values()]
+    article_dates = [parse_date(page_lastmod(e)) for e in ARTICLES.values()]
     lastmods = {
-        "max": _max([e.get("published_at") for e in PUBLISHED.values()]
-                    + [e.get("_pub") for e in ARTICLES.values()]),
-        "titles": _max([e.get("published_at") for e in PUBLISHED.values()]),
-        "articles": _max([e.get("_pub") for e in ARTICLES.values()]),
-        "daywise": _max([r.get("date") for rows in DAYWISE.values()
-                         for r in rows]),
+        "max": _max(title_dates + article_dates),
+        "titles": _max(title_dates),
+        "articles": _max(article_dates),
+        "daywise": _max([parse_date(page_lastmod(r)) for rows in DAYWISE.values()
+                         for r in rows if isinstance(r, dict)]),
     }
 
     meta = {}
