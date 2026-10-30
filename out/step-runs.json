@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T15:51:54Z",
-    "run_id": "40905613735",
-    "status": "success",
-    "checked": {
-     "candidates": 235,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Rajkumar Periasamy reveals Dhanush's 'OM' plot",
-      "Selena Gomez And Demi Lovato Recreated Their Princess Protection Program Poster, And Benny Blanco Was Their Biggest Stan",
-      "A Waymo Broke Down On A One-Lane Road At Universal Orlando (And I’d Imagine Everyone Was Raging)",
-      "Forget 'True Detective,' This 10/10 Crime Thriller Miniseries Should Be Your Next Binge",
-      "8 Best Network Procedurals on TV Right Now",
-      "'Fallout' Star Officially Leaves the Wasteland Behind for Season 2 of Hit Crime Thriller",
-      "After 'Obsession' and 'Backrooms,' Here's What's Next for Horror",
-      "‘Shadowhunters’ Star Leads a New Enemies-to-Lovers Romantasy Rom-Com",
-      "Harry Potter Officially Brings Back Hermione Granger With New Release",
-      "HBO’s Harry Potter Officially Reveals New Hogwarts Design",
-      "GTA 6 Makes It Harder to Get Away With Crime With New Tracking Details",
-      "Dune: Part 3 Popcorn Buckets Give Fans Collectible Sandworms, Guild Navigator, & More",
-      "Keri Russell’s Acclaimed Netflix TV Show Renewed for Another Season After Explosive Finale",
-      "James Gunn Could Bring Harley Quinn & These DC Favorites Into DCU Canon",
-      "Harry Potter TV Show Reveals First Poster With a Magical Hogwarts Detail",
-      "Julia Roberts’ Husband Makes Her 59th Birthday Sweeter With a Loving Tribute",
-      "Amusing Trailer for Diane Morgan's 'Cunk on Cinema' Comedy Special",
-      "'Harry Potter' Reboot Officially Breaks Away From Movies in First Look at New Hogwarts Castle",
-      "Seth Rogen's Near-Perfect New Movie Officially Cements Itself as One of the Best of the Year",
-      "'Smile 3' Officially Moves Forward With New Director in Major Franchise Shakeup"
-     ],
-     "updated": [],
-     "count": 213,
-     "detail": "218 stories, 1 duplicates removed, 17 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T16:50:40Z",
     "run_id": "40915511682",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "489 stories, 11 duplicates removed, 137 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T16:51:39Z",
-    "run_id": "40915511682",
+    "run_at": "2026-10-30T13:51:38Z",
+    "run_id": "41066592569",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 403,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "You Can See Everything and Clayface Battle for the Top Box Office Spot Over a Slow Halloween Weekend",
-      "Smile 3 Moves Forward With David Bruckner as Director"
+      "HUGEL to bring 'Make The Girls Dance' to India for first time, New Delhi to host exclusive edition; deets inside!",
+      "MTV Roadies 21 Episode 5 Dailymotion: Abhishek Malhan-Baseer Ali FIGHT, Who Got Selected In Roadies Rebirth?",
+      "MTV Roadies 21 Episode 1 Dailymotion: Who Will Get Selected In Roadies Rebirth? Contestants List",
+      "Bigg Boss 20 Episode 55 OTT Release Time Today: Scout OP-Uditi Ugly Fight; When Will New Ep Premiere Online",
+      "Obsession (Hindi) Ending TWIST: Did Nikki-Bear Die? Was The 'One Wish Willow' Obsession Spell Finally Broken?",
+      "Bigg Boss 20: Psychoplasty, Mike Tyson- Times When Qazi Touqeer Surprised Us With Knowledge, Intellectual Side",
+      "Gunmaaster G9: Romantic Track ‘Dard E Dil’ Featuring Emraan Hashmi & Genelia Deshmukh Unveiled!",
+      "Batman: How DC Almost Killed The Joker In His Comic Book Debut?",
+      "Premada Oorali Box Office Collections: Kannada film fetches Rs 15 crore in Week 5, targets Rs 120 crore plus closing",
+      "#Cult Twitter Review: 7 Tweets to read before watching Vishwak Sen starrer slasher horror thriller",
+      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's film collects Rs 11 crore in Week 4, targets Rs 365 crore finish",
+      "Udta Teer Box Office Collections: Ayushmann Khurrana's spy comedy wraps first week at Rs 30 crore",
+      "Jailer 2 India Box Office Collections: Rajinikanth starrer adds Week 2 over Rs 100 crore, grosses Rs 475 crore in 15 days",
+      "EXCLUSIVE: Yash's children Ayra and Yatharv watch their first film in theaters at Ramayana's LA premiere",
+      "Ramayana Gets U Certificate With No Cuts as Yash's 65-Minute Screen Time Sparks Buzz",
+      "Bhansali's production house trolled for sharing Salman-Aishwarya's PIC on karwa chauth",
+      "Kriti Sanon gets praised for recreating the 'no no no no' scene from 'Obsession'",
+      "Namo Narayana to join Rajinikanth’s 'Dharman' after successful 'Jailer 2'",
+      "Salman may reunite with Sanjay Dutt in Khalnayak Returns",
+      "Friday OTT releases (October 30, 2026): Where to watch ‘Akka’, ‘Sigma’, ‘Obsession’, and more"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 380,
+     "detail": "386 stories, 0 duplicates removed, 17 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1424,27 +1403,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T13:51:58Z",
+    "run_id": "41066592569",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
+      "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T17:04:45Z",
-    "run_id": "40917441588",
-    "status": "success",
-    "checked": {
-     "candidates": 51,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 46, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1858,26 +1840,27 @@
      "detail": "now 52, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T16:51:41Z",
-    "run_id": "40915511682",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T13:51:58Z",
+    "run_id": "41066592569",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 57,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 52, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2268,27 +2251,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T16:18:00Z",
-    "run_id": "40905613735",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T13:51:59Z",
+    "run_id": "41066592569",
     "status": "success",
     "checked": {
-     "candidates": 293,
-     "detail": "293 collected staging rows from readers; 102 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 9,
-     "detail": "+0 new rows, 9 updated rows, 284 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2702,19 +2684,27 @@
      "detail": "+1 new rows, 9 updated rows, 310 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T13:51:58Z",
+    "run_id": "41066592569",
+    "status": "success",
+    "checked": {
+     "candidates": 320,
+     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 317 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2970,30 +2960,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T16:51:41Z",
-    "run_id": "40915511682",
-    "status": "success",
-    "checked": {
-     "candidates": 74,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "You Can See Everything and Clayface Battle for the Top Box Office Spot Over a Slow Halloween Weekend",
-      "Smile 3 Moves Forward With David Bruckner as Director"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 74 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3458,36 +3437,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T16:15:51Z",
-    "run_id": "40905613735",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T13:51:59Z",
+    "run_id": "41066592569",
     "status": "success",
     "checked": {
-     "candidates": 23,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 16 new detected"
+     "candidates": 78,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Khushi Ep 47",
-      "Uswah Ep 37",
-      "Izzat Ep 40",
-      "Dastoor Ep 69"
+      "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
+      "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian"
      ],
-     "updated": [
-      "Uswah Ep 37",
-      "Khushi Ep 47",
-      "Dastoor Ep 69",
-      "Izzat Ep 40"
-     ],
-     "count": 8
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 78 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3728,19 +3701,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T13:51:41Z",
+    "run_id": "41066592569",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 13 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4060,29 +4040,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T16:17:02Z",
-    "run_id": "40905613735",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 213 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 6/4, ott_streaming 5/4, trailers 2/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Funcom Announces Free Expansion Dune: Blood And Ice For Dune: Awakening",
-      "HBO Reveals First Look at Hogwarts Castle in New Harry Potter Series Poster"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4527,19 +4497,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T13:51:57Z",
+    "run_id": "41066592569",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 380 still unprocessed; today by category: movies 7/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 2/3, awards 2/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
+      "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4781,24 +4761,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 366,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5118,24 +5093,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 215,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5455,19 +5430,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 10,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5717,19 +5697,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5964,19 +5944,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6232,19 +6212,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6485,19 +6465,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6727,19 +6707,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-29T16:18:11Z",
-    "run_id": "40905613735",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6992,8 +6972,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T13:52:12Z",
+    "run_id": "41066592569",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-10-30T12:56:15Z"
+ "updated_at": "2026-10-30T13:52:12Z"
 }

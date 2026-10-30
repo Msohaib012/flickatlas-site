@@ -21839,5 +21839,220 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 15:51:29 +0200"
+  },
+  "i3w7pz": {
+    "id": "i3w7pz",
+    "type": "news",
+    "headline": "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
+    "dek": "The upcoming action-romance Gunmaaster G9 has dropped a soulful new single titled Dard E Dil, featuring the fresh pairing of Emraan Hashmi and Genelia Deshmukh and composed by Himesh Reshammiya.",
+    "body": [
+      {
+        "h": "Introduction To Dard E Dil",
+        "p": [
+          "The makers of the forthcoming movie Gunmaaster G9 have officially launched a fresh romantic single named Dard E Dil. The newly unveiled track showcases the on-screen chemistry between lead actors Emraan Hashmi and Genelia Deshmukh, offering audiences a softer and more emotional glimpse into a project otherwise known for its heavy action and drama.",
+          "Serving as a soulful addition to the film's musical profile, the song aims to balance out the high-octane sequences featured in the main narrative. By highlighting the emotional bond between the central characters, the track establishes a distinct melodic identity for the upcoming release."
+        ]
+      },
+      {
+        "h": "Musical Composition And Creators",
+        "p": [
+          "The creative forces behind Dard E Dil include composer and singer Himesh Reshammiya, who collaborated vocally with Akasa Singh. The composition blends contrasting vocal textures to enhance the romantic tone of the piece.",
+          "The lyrics for the single were penned by Sonia Kapoor Reshammiya, adding a poetic layer that complements Himesh Reshammiya's signature musical arrangement and gives the track its distinctive emotional resonance."
+        ]
+      },
+      {
+        "h": "Insights From Himesh Reshammiya",
+        "p": [
+          "Himesh Reshammiya expressed deep enthusiasm for the release, noting that it follows the blockbuster success of previous tracks like Afsaana Banaaya Aapne and Do Do Din Ki Zindagi. Those earlier releases collectively accumulated over 300 million views across various platforms, including more than 150 million views on his dedicated YouTube channel.",
+          "The composer highlighted that this specific song holds a personal place in his heart due to its vibrant composition and the specific poetic contributions provided by his wife, Sonia."
+        ]
+      },
+      {
+        "h": "Director Aditya Datt On Family Legacy",
+        "p": [
+          "Director Aditya Datt shared that Dard E Dil carries a profound personal connection for him. Specifically, the mukhda and hook line of the track evoke memories of his grandfather, the legendary lyricist Anand Bakshi, and his iconic song Dard-E-Dil Dard-E-Jigar from the classic film Karz.",
+          "Although the newly released single is an entirely independent and fresh composition, the underlying emotional nod to his grandfather's legacy makes the project particularly meaningful to the filmmaker."
+        ]
+      },
+      {
+        "h": "Producer Perspective On The Soundscape",
+        "p": [
+          "Producer Deepak Mukut emphasized the necessity of a strong musical foundation for a movie of this scale. He noted that Gunmaaster G9 requires a soundtrack that enhances the overall viewing experience.",
+          "According to the producer, the new melody supplies a warm and heartfelt dimension that grants the starring duo of Emraan and Genelia a distinct musical high within the narrative structure."
+        ]
+      },
+      {
+        "h": "Cast And Crew Overview",
+        "p": [
+          "Alongside Emraan Hashmi and Genelia D'Souza, the feature film stars Aparshakti Khurana and Abhishek Singh. The project is directed by Aditya Datt and jointly produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir under SRE Studio LLP.",
+          "The movie is presented by Soham Rockstar Entertainment Pvt. Ltd. For distribution, PEN Marudhar is managing the all-India theatrical release, while Phar Films has taken charge of overseas distribution."
+        ]
+      },
+      {
+        "h": "Release Details And Distribution",
+        "p": [
+          "Gunmaaster G9 is categorized as an action romance and is officially scheduled for a worldwide theatrical release on November 27, 2026.",
+          "With promotional efforts now rolling out via musical additions like Dard E Dil, anticipation continues to build ahead of its scheduled arrival in cinemas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Gunmaaster G9 has released a new romantic track titled Dard E Dil, featuring lead actors Emraan Hashmi and Genelia Deshmukh. Composed and sung by Himesh Reshammiya alongside Akasa Singh with lyrics by Sonia Kapoor Reshammiya, the song adds a melodic layer to the action film directed by Aditya Datt and produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir. The film is slated for a worldwide theatrical release on November 27, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Gunmaaster G9 is scheduled for worldwide theatrical release on November 27, 2026.",
+      "The song Dard E Dil features Emraan Hashmi and Genelia Deshmukh.",
+      "Dard E Dil is composed and sung by Himesh Reshammiya and Akasa Singh.",
+      "Lyrics for Dard E Dil were written by Sonia Kapoor Reshammiya.",
+      "The film is directed by Aditya Datt.",
+      "Producers of the film include Deepak Mukut, Hunar Mukut, and Sangeeta Ahir under SRE Studio LLP.",
+      "The film stars Emraan Hashmi, Genelia D'Souza, Aparshakti Khurana, and Abhishek Singh.",
+      "Previous tracks Afsaana Banaaya Aapne and Do Do Din Ki Zindagi garnered over 300 million views across platforms."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Genelia D'Souza",
+        "Himesh Reshammiya",
+        "Akasa Singh",
+        "Sonia Kapoor Reshammiya",
+        "Aditya Datt",
+        "Anand Bakshi",
+        "Deepak Mukut",
+        "Hunar Mukut",
+        "Sangeeta Ahir",
+        "Aparshakti Khurana",
+        "Abhishek Singh"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Afsaana Banaaya Aapne",
+        "Do Do Din Ki Zindagi",
+        "Karz"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9",
+      "Emraan Hashmi",
+      "Genelia Deshmukh",
+      "Dard E Dil",
+      "Himesh Reshammiya"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/gunmaaster-g9-romantic-track-dard-e-dil-featuring-emraan-hashmi-genelia-deshmukh-unveiled.jpg",
+        "caption": "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 13:46:15 +0000"
+  },
+  "1ncc3dr": {
+    "id": "1ncc3dr",
+    "type": "news",
+    "headline": "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian",
+    "dek": "A new trailer has dropped for Cameron, a 28-minute psychological thriller directed by Sam Freedman and starring Batman and Better Call Saul actor Patrick Fabian.",
+    "body": [
+      {
+        "h": "First Look at Cameron",
+        "p": [
+          "A fresh promotional preview has been released for the upcoming psychological thriller film Cameron. The 28-minute production offers viewers an early glimpse into a tense family drama following a military family facing unimaginable circumstances.",
+          "The project is scheduled to premiere digitally on Apple TV, giving audiences an exclusive look at a narrative centered around sudden loss, grief, and an impossible return."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story revolves around Declan and Aisha O'Brien, military parents who are devastated by the news that their son has been killed in action. This tragic loss places an intense strain on their marriage, as Aisha directs her blame toward her husband for encouraging their son to enlist.",
+          "However, their mourning is upended when their son unexpectedly shows up alive on their doorstep, shifting the emotional dynamic of the household into thrilling and mysterious territory."
+        ]
+      },
+      {
+        "h": "Trailer Breakdown",
+        "p": [
+          "The promotional footage begins with Aisha answering the door to receive the devastating notification from two military officers, collapsing to the floor while Declan stands near the kitchen sink. In a striking stylistic twist, the scene repeats, but this time it is their son standing at the entrance wearing his military uniform.",
+          "The teaser concludes with an embrace between Aisha and Declan as birds chirp in the background, though both parents wear unmistakably horrified expressions on their faces instead of pure relief."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The psychological thriller features Patrick Fabian, known for his work in Batman and Better Call Saul, starring as Declan O'Brien. Tracie Thoms takes on the role of Aisha, while Aaron Woodward portrays their son, Cameron.",
+          "The broader ensemble cast includes Jeremy Denzlinger, Dominique Worsley, Tom Avery, Brandon J. Sornberger, Jahfari Simmons, and Harry Wood. The project was directed, written, and edited by Emmy winner Sam Freedman, with Sarah Whitaker serving as producer and Randi Silverman as associate producer."
+        ]
+      },
+      {
+        "h": "Director Background",
+        "p": [
+          "Filmmaker Sam Freedman brings substantial directing experience to this short psychological project. His previous directorial portfolio includes short films such as August Hotel: 12 AM and Care for Me.",
+          "In addition to his short film work, Freedman has directed episodes for television miniseries including Insignificant Other and Ghouls, establishing a background in suspenseful storytelling."
+        ]
+      },
+      {
+        "h": "Festivals and Release Details",
+        "p": [
+          "Before its wider digital debut, the project has already earned recognition on the festival circuit, securing the Best Thriller award at the HollyShorts Film Festival.",
+          "Viewers will be able to rent or purchase the 28-minute movie when it officially becomes available on Apple TV starting November 24, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An exclusive trailer has arrived for the 28-minute psychological thriller Cameron, directed by Sam Freedman and starring Patrick Fabian alongside Tracie Thoms and Aaron Woodward. The Apple TV release is scheduled for November 24, 2026, following the film's recognition at the HollyShorts Film Festival."
+        ]
+      }
+    ],
+    "facts": [
+      "October 30, 2026",
+      "Sam Freedman",
+      "Cameron",
+      "Apple TV",
+      "November 24, 2026",
+      "Patrick Fabian",
+      "Tracie Thoms",
+      "Aaron Woodward",
+      "HollyShorts Film Festival"
+    ],
+    "entities": {
+      "people": [
+        "Patrick Fabian",
+        "Sam Freedman",
+        "Tracie Thoms",
+        "Aaron Woodward",
+        "Jeremy Denzlinger",
+        "Dominique Worsley",
+        "Tom Avery",
+        "Brandon J. Sornberger",
+        "Jahfari Simmons",
+        "Harry Wood",
+        "Sarah Whitaker",
+        "Randi Silverman"
+      ],
+      "titles": [
+        "Cameron",
+        "August Hotel: 12 AM",
+        "Care for Me",
+        "Insignificant Other",
+        "Ghouls"
+      ]
+    },
+    "keywords": [
+      "Cameron trailer",
+      "Patrick Fabian Cameron movie",
+      "Sam Freedman thriller",
+      "Apple TV Cameron 2026"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/Cameron.jpg?resize=1200,630",
+        "caption": "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 13:00:00 +0000"
   }
 };
