@@ -25,12 +25,12 @@
    "detail": "validated 85 rows; 1 staging files changed"
   },
   "moviemint_boxoffice": {
-   "last_attempt_at": "2026-10-29T09:01:55Z",
-   "last_run": "2026-10-29T09:01:55Z",
+   "last_attempt_at": "2026-10-30T10:25:00Z",
+   "last_run": "2026-10-30T10:25:00Z",
    "last_status": "success",
-   "last_success": "2026-10-29T09:01:55Z",
+   "last_success": "2026-10-30T10:25:00Z",
    "consecutive_failures": 0,
-   "detail": "validated 78 rows; 1 staging files changed"
+   "detail": "validated 83 rows; 1 staging files changed"
   },
   "ott_digital": {
    "last_attempt_at": "2026-10-30T00:52:11Z",
@@ -65,5 +65,5 @@
    "detail": "validated 32 rows; 1 staging files changed"
   }
  },
- "updated_at": "2026-10-30T09:00:05Z"
+ "updated_at": "2026-10-30T10:25:00Z"
 }

@@ -21004,5 +21004,196 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 08:50:11 +0000"
+  },
+  "178x421": {
+    "id": "178x421",
+    "type": "news",
+    "headline": "Shraddha Kapoor Transforms Into a Lavani Icon in the New Trailer for Eetha",
+    "dek": "Maddock Films and Kathputli Creations have released the grand trailer for the epic musical drama Eetha, starring Shraddha Kapoor as the legendary Eetha Bai.",
+    "body": [
+      {
+        "h": "The Grand Unveiling of the Eetha Trailer",
+        "p": [
+          "Maddock Films and Kathputli Creations have officially launched the highly anticipated trailer for their upcoming cinematic project titled Eetha. The preview offers audiences an immediate glimpse into an epic musical drama that traces the remarkable trajectory of a true legend.",
+          "At the center of this grand production is actress Shraddha Kapoor, who takes on the titular role of Eetha Bai. The newly revealed footage showcases her transformation into an iconic figure of Lavani, setting the stage for a theatrical release scheduled for December 4, 2026."
+        ]
+      },
+      {
+        "h": "Stepping Into the Vibrant World of Eetha Bai",
+        "p": [
+          "The newly released trailer transports viewers directly into the rich and visually striking universe inhabited by Eetha Bai. It highlights a narrative where raw ambition routinely clashes with severe adversity, turning human passion into an engine of power.",
+          "Every single performance depicted in the preview emphasizes themes of deep courage and unwavering conviction. The footage relies heavily on evocative musical compositions, striking visual aesthetics, and intense emotional displays to build anticipation."
+        ]
+      },
+      {
+        "h": "Celebrating an Extraordinary Artistic Legacy",
+        "p": [
+          "The cinematic narrative draws profound inspiration from the real-life journey of a Lavani legend who systematically defied societal conventions. She fought against overwhelming odds to carve out a permanent place in history.",
+          "By focusing on her resilience, the film aims to celebrate the unyielding spirit of an artist whose impact spans across generations. The project positions itself as a grand spectacle specifically tailored for the big screen experience."
+        ]
+      },
+      {
+        "h": "A Distinctive Role for Shraddha Kapoor",
+        "p": [
+          "Taking on the character of Eetha Bai marks one of the most distinctive and demanding acting assignments of Shraddha Kapoor's career thus far. The actress anchors the sweeping saga with a commanding presence visible throughout the preview.",
+          "Her portrayal invites moviegoers to witness a deeply compelling story of triumph over obstacles, executed through a performance designed to leave a lasting impression on cinema audiences."
+        ]
+      },
+      {
+        "h": "The Creative Minds Behind the Camera",
+        "p": [
+          "The film brings together a dedicated crew committed to delivering a larger-than-life storytelling experience. Directorial duties are handled by Laxman Utekar, who also serves as a producer alongside Dinesh Vijan.",
+          "The backing of major banners like Maddock Films and Kathputli Creations underscores the considerable scale and ambition of this musical biographical drama."
+        ]
+      },
+      {
+        "h": "Release Details and Anticipation",
+        "p": [
+          "Fans eagerly awaiting the film's debut can mark their calendars for December 4, 2026, when Eetha officially arrives in cinemas. The combination of its lead star, musical elements, and historical inspiration has quickly made it a major talking point.",
+          "As promotional materials continue to roll out, the project stands out as a unique entry in contemporary Indian cinema, blending musical grandeur with biographical drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Maddock Films and Kathputli Creations have released the trailer for Eetha, starring Shraddha Kapoor as the legendary Eetha Bai. Directed by Laxman Utekar and produced alongside Dinesh Vijan, the epic musical drama is set to release in cinemas on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shraddha Kapoor stars as Eetha Bai in Eetha.",
+      "The film is directed by Laxman Utekar.",
+      "Dinesh Vijan and Laxman Utekar are the producers of Eetha.",
+      "Maddock Films and Kathputli Creations present the film.",
+      "Eetha releases in cinemas on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Laxman Utekar",
+        "Dinesh Vijan"
+      ],
+      "titles": [
+        "Eetha"
+      ]
+    },
+    "keywords": [
+      "Eetha",
+      "Shraddha Kapoor",
+      "Eetha Bai",
+      "Laxman Utekar",
+      "Maddock Films"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/eetha-trailer-out-shraddha-kapoor-shines-as-eetha-bai-01.jpg",
+        "caption": "Shraddha Kapoor Transforms Into a Lavani Icon in the New Trailer for Eetha",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 10:09:48 +0000"
+  },
+  "1p7ubxv": {
+    "id": "1p7ubxv",
+    "type": "news",
+    "headline": "Veteran Tamil Actor Vatsala Rajagopal Passes Away at 93 in Chennai",
+    "dek": "Vatsala Rajagopal, a beloved face in Tamil cinema and television who appeared in over 400 films, has died in Chennai at the age of 93.",
+    "body": [
+      {
+        "h": "Passing of a Veteran Performer",
+        "p": [
+          "Veteran Tamil actor Vatsala Rajagopal has passed away in Chennai at the age of 93. According to reports in Tamil media, her death on Friday was attributed to age-related ailments.",
+          "Following her passing, her mortal remains were placed at her residence in Pallavaram, Chennai, allowing the public to pay their final respects and homage to the veteran artist."
+        ]
+      },
+      {
+        "h": "Early Life and Entry into Government Service",
+        "p": [
+          "Born in Thiruvananthapuram, Vatsala developed a strong passion for dance and theatrical arts during her school years. This early creative inclination laid the groundwork for her eventual artistic pursuits.",
+          "She relocated to Chennai in 1953 following her marriage and initially took up employment as a clerk at the Accountant General's office. During her time there, she crossed paths with future legendary filmmaker K Balachander, who worked as a senior officer in the same office."
+        ]
+      },
+      {
+        "h": "Transition from Stage to Silver Screen",
+        "p": [
+          "Driven by her enduring love for acting, Vatsala joined Rasika Ranga, a prominent theatre group operated by cartoonist Sridharan. Her impressive performances on stage ultimately drew the attention of acclaimed director Mani Ratnam.",
+          "Mani Ratnam cast her in his critically acclaimed 1992 film Roja, which starred Arvind Swamy and Madhoo. Vatsala made her big screen debut playing the grandmother of Madhoo's character at around the age of 60."
+        ]
+      },
+      {
+        "h": "A Prolific Filmography of Over 400 Movies",
+        "p": [
+          "Despite entering the film industry later in life, Vatsala built an extraordinary career that spanned more than 400 films. She firmly established herself as a recognizable and comforting presence on screen, frequently portraying endearing and humorous grandmothers.",
+          "Her extensive film credits feature prominent titles such as Anniyan, Sathi Leelavathi where she portrayed Ambujam Maami, Mozhi, Rhythm, Winner, Pattiyal, Dhaam Dhoom, and Kalyana Samayal Saadham."
+        ]
+      },
+      {
+        "h": "Prominence on Tamil Television",
+        "p": [
+          "In addition to her extensive film work, Vatsala was a familiar face in households across Tamil Nadu through her work in television serials. She acted in several widely watched shows including Chithi, Anandham, Mundhanai Mudichu, and Vasantham.",
+          "She also worked alongside celebrated director Balu Mahendra, featuring in his television anthology series titled Kadhai Neram."
+        ]
+      },
+      {
+        "h": "Legacy in Entertainment",
+        "p": [
+          "Vatsala Rajagopal's remarkable journey across theatre, television, and cinema left a lasting mark on the regional entertainment landscape. Her ability to connect with audiences through multiple generations cemented her status as a cherished veteran performer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran Tamil actor Vatsala Rajagopal has died in Chennai at the age of 93 due to age-related ailments. Her expansive career included roles in over 400 films, television serials, and theatre productions after making her cinematic debut in Mani Ratnam's Roja."
+        ]
+      }
+    ],
+    "facts": [
+      "Vatsala Rajagopal died at the age of 93 on Friday, October 30, 2026.",
+      "She passed away in Chennai due to age-related ailments.",
+      "Her career included appearances in more than 400 films.",
+      "She made her film debut in Mani Ratnam's 1992 film Roja.",
+      "She was born in Thiruvananthapuram and moved to Chennai in 1953."
+    ],
+    "entities": {
+      "people": [
+        "Vatsala Rajagopal",
+        "K Balachander",
+        "Sridharan",
+        "Mani Ratnam",
+        "Arvind Swamy",
+        "Madhoo",
+        "Balu Mahendra"
+      ],
+      "titles": [
+        "Roja",
+        "Anniyan",
+        "Sathi Leelavathi",
+        "Mozhi",
+        "Rhythm",
+        "Winner",
+        "Pattiyal",
+        "Dhaam Dhoom",
+        "Kalyana Samayal Saadham",
+        "Chithi",
+        "Anandham",
+        "Mundhanai Mudichu",
+        "Vasantham",
+        "Kadhai Neram"
+      ]
+    },
+    "keywords": [
+      "Vatsala Rajagopal",
+      "Vatsala Rajagopal death",
+      "Roja",
+      "Tamil cinema"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/vatsala-rajagopal-death-300010807-16x9_0.jpg?VersionId=wLoTnwpFyA_715t0zNZWtTUOqg8ynjtQ",
+        "caption": "Veteran Tamil Actor Vatsala Rajagopal Passes Away at 93 in Chennai",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 14:30:57 +0530"
   }
 };
