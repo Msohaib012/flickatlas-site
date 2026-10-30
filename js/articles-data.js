@@ -6148,7 +6148,14 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-26T17:00:15Z"
+    "published": "2026-10-26T17:00:15Z",
+    "keywords": [
+      "Bano Episode 14 Geo TV",
+      "Watch Bano episode 14",
+      "Bano Geo TV drama",
+      "Bano",
+      "Bano Episode"
+    ]
   },
   "4z97ka": {
     "id": "4z97ka",
@@ -6442,7 +6449,13 @@ window.FA_ARTICLES = {
         "source": "Times of India — Entertainment"
       }
     ],
-    "published": "2026-10-27T05:31:39+05:30"
+    "published": "2026-10-27T05:31:39+05:30",
+    "keywords": [
+      "Jailer 2 Monday box office collection",
+      "Rajinikanth Jailer 2 earnings",
+      "Jailer 2 worldwide gross",
+      "Jailer 2 Rs 400 crore milestone"
+    ]
   },
   "1bbivss": {
     "id": "1bbivss",
@@ -6537,7 +6550,13 @@ window.FA_ARTICLES = {
         "source": "Screen Daily"
       }
     ],
-    "published": "Mon, 26 Oct 2026 23:38:00 GMT"
+    "published": "Mon, 26 Oct 2026 23:38:00 GMT",
+    "keywords": [
+      "Takashi Yamazaki Grandgear Sony Pictures",
+      "Takashi Yamazaki English-language debut",
+      "Grandgear J.J. Abrams film",
+      "Takashi Yamazaki Godzilla director"
+    ]
   },
   "1hplk5k": {
     "id": "1hplk5k",
@@ -6659,7 +6678,13 @@ window.FA_ARTICLES = {
         "source": "MovieWeb"
       }
     ],
-    "published": "Tue, 27 Oct 2026 00:09:23 GMT"
+    "published": "Tue, 27 Oct 2026 00:09:23 GMT",
+    "keywords": [
+      "Takashi Yamazaki Grandgear leads",
+      "Grandgear Sam Nivola Nico Parker",
+      "Paul Giamatti Grandgear movie",
+      "Takashi Yamazaki sci-fi blockbuster"
+    ]
   },
   "1gyfb7s": {
     "id": "1gyfb7s",
@@ -6792,7 +6817,14 @@ window.FA_ARTICLES = {
         "source": "Deadline"
       }
     ],
-    "published": "Tue, 27 Oct 2026 00:01:00 +0000"
+    "published": "Tue, 27 Oct 2026 00:01:00 +0000",
+    "keywords": [
+      "Disney+ Channel 4 UK partnership",
+      "Channel 4 linear network Disney+",
+      "Disney and Channel 4 deal",
+      "Max Goldbart",
+      "Nicola Coughlan"
+    ]
   },
   "1pkr2ti": {
     "id": "1pkr2ti",
@@ -6931,7 +6963,13 @@ window.FA_ARTICLES = {
         "source": "The Hollywood Reporter"
       }
     ],
-    "published": "Tue, 27 Oct 2026 01:54:13 +0000"
+    "published": "Tue, 27 Oct 2026 01:54:13 +0000",
+    "keywords": [
+      "Jay-Z 2027 Super Bowl LXI Halftime Show",
+      "Jay-Z Apple Music Super Bowl",
+      "Jay-Z SoFi Stadium 2027",
+      "Jay-Z Roc Nation Super Bowl"
+    ]
   },
   "rqoklw": {
     "id": "rqoklw",
@@ -7032,7 +7070,13 @@ window.FA_ARTICLES = {
         "source": "MovieWeb"
       }
     ],
-    "published": "Tue, 27 Oct 2026 01:00:16 GMT"
+    "published": "Tue, 27 Oct 2026 01:00:16 GMT",
+    "keywords": [
+      "Jon Bernthal The Odyssey movie",
+      "The Odyssey Christopher Nolan",
+      "Jon Bernthal Menelaus of Sparta",
+      "The Odyssey highest grossing"
+    ]
   },
   "mdvdaa": {
     "id": "mdvdaa",
@@ -7125,7 +7169,13 @@ window.FA_ARTICLES = {
         "source": "Empire"
       }
     ],
-    "published": "Tue, 27 Oct 2026 01:03:16 +0000"
+    "published": "Tue, 27 Oct 2026 01:03:16 +0000",
+    "keywords": [
+      "Takashi Yamazaki Grandgear cast",
+      "Paul Giamatti Grandgear movie",
+      "Takashi Yamazaki mech film",
+      "Grandgear J. J. Abrams"
+    ]
   },
   "pn3khr": {
     "id": "pn3khr",
@@ -7228,7 +7278,14 @@ window.FA_ARTICLES = {
         "source": "The Hollywood Reporter"
       }
     ],
-    "published": "Tue, 27 Oct 2026 01:49:48 +0000"
+    "published": "Tue, 27 Oct 2026 01:49:48 +0000",
+    "keywords": [
+      "Macklemore Free Palestine Tour",
+      "Macklemore Dublin concert 3Arena",
+      "Macklemore tour after Ed Sheeran",
+      "Macklemore",
+      "Ed Sheeran"
+    ]
   },
   "ueedhs": {
     "id": "ueedhs",
@@ -7308,7 +7365,14 @@ window.FA_ARTICLES = {
         "source": "Hindustan Times — Trending"
       }
     ],
-    "published": "Tue, 27 Oct 2026 07:33:40 +0530"
+    "published": "Tue, 27 Oct 2026 07:33:40 +0530",
+    "keywords": [
+      "Maxxing Dictionary.com Word of the Year",
+      "Dictionary.com 2026 Word of the Year",
+      "Maxxing optimization trend",
+      "Trisha Sengupta",
+      "Christopher Nolan"
+    ]
   },
   "z8hzgj": {
     "id": "z8hzgj",
@@ -7431,7 +7495,13 @@ window.FA_ARTICLES = {
         "source": "Screen Rant"
       }
     ],
-    "published": "Tue, 27 Oct 2026 02:00:28 GMT"
+    "published": "Tue, 27 Oct 2026 02:00:28 GMT",
+    "keywords": [
+      "Mr. Terrific surpasses Batman",
+      "DC Comics smartest superhero",
+      "Justice League Unlimited Mr. Terrific",
+      "Michael Holt DC Universe"
+    ]
   },
   "pvhqny": {
     "id": "pvhqny",
@@ -7544,7 +7614,13 @@ window.FA_ARTICLES = {
         "source": "FilmiBeat"
       }
     ],
-    "published": "Tue, 27 Oct 2026 08:30:04 +0530"
+    "published": "Tue, 27 Oct 2026 08:30:04 +0530",
+    "keywords": [
+      "Jailer 2 box office collections",
+      "Jailer 2 Day 12 earnings",
+      "Rajinikanth Jailer 2 milestone",
+      "Jailer 2 India net collection"
+    ]
   },
   "9faau2": {
     "id": "9faau2",
@@ -7636,7 +7712,13 @@ window.FA_ARTICLES = {
         "source": "Times of India — Entertainment"
       }
     ],
-    "published": "2026-10-27T08:26:01+05:30"
+    "published": "2026-10-27T08:26:01+05:30",
+    "keywords": [
+      "Drishyam 3 box office Day 25",
+      "Ajay Devgn Drishyam 3 collections",
+      "Drishyam 3 The Conclusion milestone",
+      "Drishyam 3 earnings in India"
+    ]
   },
   "dccu7d": {
     "id": "dccu7d",
@@ -7738,7 +7820,13 @@ window.FA_ARTICLES = {
         "source": "Times of India — Entertainment"
       }
     ],
-    "published": "2026-10-27T09:14:34+05:30"
+    "published": "2026-10-27T09:14:34+05:30",
+    "keywords": [
+      "Jay-Z Super Bowl Halftime Show",
+      "Jay-Z SoFi Stadium Inglewood",
+      "Jay-Z Super Bowl performance",
+      "Jay-Z and Roger Goodell"
+    ]
   },
   "fi5s5j": {
     "id": "fi5s5j",
@@ -7815,7 +7903,13 @@ window.FA_ARTICLES = {
         "source": "Just Jared"
       }
     ],
-    "published": "Tue, 27 Oct 2026 03:22:47 +0000"
+    "published": "Tue, 27 Oct 2026 03:22:47 +0000",
+    "keywords": [
+      "George Takei Walter Koenig tribute",
+      "George Takei Star Trek co-star",
+      "Walter Koenig death at 90",
+      "George Takei on Walter Koenig"
+    ]
   },
   "1j8jx79": {
     "id": "1j8jx79",
@@ -19566,5 +19660,211 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 29 Oct 2026 23:06:46 +0000"
+  },
+  "ttc3m4": {
+    "id": "ttc3m4",
+    "type": "news",
+    "headline": "Ramayana Part 1 Crosses $2.5M Overseas as India Ticket Booking Deadlock Ends",
+    "dek": "Ranbir Kapoor's epic Ramayana: Part 1 has crossed $2.5 million in international advance sales while resolving a domestic ticket-booking deadlock ahead of its November 5 release.",
+    "body": [
+      {
+        "h": "Global Advance Sales and Overseas Milestones",
+        "p": [
+          "The upcoming epic venture Ramayana: Part 1 has officially surpassed the $2.5 million milestone in international pre-sales. This strong global performance is anchored heavily by North America, which accounts for nearly three-fourths of the overseas total with roughly $1.9 million.",
+          "Additional international contributions come from the UK and Ireland at around $268K, alongside Australia and New Zealand contributing approximately $248K. Paid previews scheduled for November 4 in these regions have significantly aided this early traction."
+        ]
+      },
+      {
+        "h": "Resolving the Domestic Ticket Booking Deadlock",
+        "p": [
+          "For nearly ten days leading up to the release, prospective moviegoers faced a restricted ticket-booking rollout in domestic markets. This commercial deadlock arose from negotiations between producers and exhibitors regarding the division of early box office revenues.",
+          "The distribution standoff has reportedly ended with bookings opening up across cinemas that have finalised their terms. Remaining theatres are expected to follow suit, potentially driving a substantial surge in domestic pre-sales."
+        ]
+      },
+      {
+        "h": "Exhibitor Terms and Financial Projections",
+        "p": [
+          "The core dispute centered around two specific revenue-sharing models proposed by distributors. The first option was a three-week slab demanding 60 percent for the distributor in Week 1, 50 percent in Week 2, and 40 percent in Week 3.",
+          "The alternative option requested a flat 55 percent share for the first eleven consecutive days before reverting to standard industry terms. Exhibitors expressed hesitation over these higher-than-usual demands during peak attendance weeks."
+        ]
+      },
+      {
+        "h": "Justifying the Scale and Budget",
+        "p": [
+          "Supporters of the higher revenue share pointed to the extraordinary scale of the project, citing a reported production budget of around ₹4,000 crore spanning across its two parts. They argued that a production of this magnitude warrants more favourable financial terms.",
+          "Conversely, cinema owners highlighted the operational risks and running costs involved in dedicating a massive share of screens to a single title. They voiced concerns that setting such a precedent could alter terms for future large-scale releases."
+        ]
+      },
+      {
+        "h": "Domestic Figures Despite Limited Listings",
+        "p": [
+          "Despite the restricted availability of shows and delayed listings in single-screen and regional circuits, domestic advance sales crossed ₹16 crore gross according to tracking data. Hindi-language markets and IMAX screenings have performed particularly well.",
+          "With Tamil and Malayalam versions yet to launch fully on ticketing platforms, the current figures reflect only a partial rollout. The opening of remaining cinema chains is expected to unlock further growth."
+        ]
+      },
+      {
+        "h": "Star Cast and Creative Leadership",
+        "p": [
+          "Directed by Nitesh Tiwari, the multi-starrer mythological epic features Ranbir Kapoor portraying Lord Ram. The ensemble cast also stars Sai Pallavi as Sita and Yash in the role of Ravana.",
+          "The project has sustained strong audience buzz following the release of trailer 2 and positive early reactions emerging from its special Los Angeles premiere."
+        ]
+      },
+      {
+        "h": "Outlook Prior to the November 5 Release",
+        "p": [
+          "As the final week before the premiere gets underway, the pre-Diwali window remains favourable for theatrical attendance. Family audiences typically book their tickets closer to the release date, aiding premium format sales.",
+          "If the remaining theatres successfully open their advance bookings, the previous ten-day delay may ultimately become a minor footnote in the film's commercial run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana: Part 1 has crossed $2.5 million in overseas advance sales while resolving a domestic ticket distribution deadlock ahead of its November 5 release. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the epic has achieved strong pre-sales figures despite restricted initial listings."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 releases on November 5, 2026.",
+      "Overseas advance sales crossed $2.5 million.",
+      "Domestic advance sales crossed ₹16 crore gross.",
+      "North America contributed close to $1.9 million.",
+      "The UK and Ireland contributed around $268K.",
+      "Australia and New Zealand contributed roughly $248K.",
+      "The total budget across two parts is reported around ₹4,000 crore.",
+      "Ranbir Kapoor stars as Lord Ram.",
+      "Sai Pallavi stars as Sita.",
+      "Yash stars as Ravana.",
+      "Nitesh Tiwari is the director."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Christa Lincy"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Animal",
+        "KGF 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana advance booking",
+      "Nitesh Tiwari Ramayana release",
+      "Ramayana overseas collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028258.jpg",
+        "caption": "Ramayana Part 1 Crosses $2.5M Overseas as India Ticket Booking Deadlock Ends",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 03:12:58 +0000"
+  },
+  "1kvf42e": {
+    "id": "1kvf42e",
+    "type": "news",
+    "headline": "Disney+ Expands Hideo Kojima’s Death Stranding With New Anime, Watch Trailer",
+    "dek": "Kojima Productions announces Death Stranding Isolations, an original anime series heading to Disney+ in 2027.",
+    "body": [
+      {
+        "h": "Major Announcement at Tokyo Event",
+        "p": [
+          "Kojima Productions recently surprised fans by announcing a brand new anime series titled Death Stranding Isolations. The reveal took place during the studio's 10th anniversary event in Tokyo, which was titled BEYOND THE STRAND: The Odyssey of Creation and Endeavor.",
+          "Along with the exciting news of the upcoming series, the studio dropped the very first teaser trailer to give audiences a glimpse of what to expect."
+        ]
+      },
+      {
+        "h": "Release Window and Streaming Platform",
+        "p": [
+          "Fans eager to watch the new animated project will be able to stream it exclusively on Disney+ or other Disney Services. The release window has been officially set for the year 2027.",
+          "The newly released teaser trailer is already available for fans to watch online, building anticipation ahead of the official premiere."
+        ]
+      },
+      {
+        "h": "A Brand New Story and Characters",
+        "p": [
+          "Death Stranding Isolations breaks away completely from the events and characters of the original games. Instead of following Sam Porter Bridges and his allies, the series introduces a completely original cast of characters embarking on their own distinct adventures.",
+          "The initial teaser centers specifically on a young blonde girl who wakes up suddenly from sleep after experiencing troubling dreams of tar consuming everything around her."
+        ]
+      },
+      {
+        "h": "Setting the Scene in North America",
+        "p": [
+          "The story's synopsis places the narrative in North America during the period immediately following Sam's efforts to reconnect the continent through the Chiral Network.",
+          "As America undergoes the process of rebuilding, these newly established connections begin to trigger unforeseen consequences across the land."
+        ]
+      },
+      {
+        "h": "New Paths and Isolated Lives",
+        "p": [
+          "The narrative follows several individuals walking paths entirely different from Sam Porter Bridges. These include a wise old man, a female soldier trapped endlessly in cycles of war, and a rage-filled boy.",
+          "Additionally, the story features the young girl who previously cut herself off entirely from the wider world until unexpected chance encounters push her into an unfamiliar life."
+        ]
+      },
+      {
+        "h": "Creative Team and Animation Style",
+        "p": [
+          "E Hand Production is bringing the series to life utilizing traditional hand-drawn 2D animation techniques. Takayuki Sano serves as the director for the project.",
+          "The series composition and screenplay are written by Tow Ubukata, while Ilya Kuvshinov is responsible for designing the original characters. Hideo Kojima acts as executive producer alongside Kojima Productions as producer."
+        ]
+      },
+      {
+        "h": "Franchise Milestone and Availability",
+        "p": [
+          "Director Takayuki Sano approached the project with a strong sense of duty and responsibility, noting the unique power of entertainment to enhance consumer spirituality, a feat he believes Hideo Kojima's works consistently achieve.",
+          "This announcement comes as the broader Death Stranding franchise surpassed 27 million players worldwide as of June 2026, with existing titles like Death Stranding Director's Cut and Death Stranding 2: On the Beach remaining available on PlayStation 5 and PC."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kojima Productions announced Death Stranding Isolations, an original 2D anime series coming to Disney+ in 2027, during its 10th anniversary event in Tokyo. The project features a new cast of characters and a fresh storyline set in North America following the reconnection of the Chiral Network."
+        ]
+      }
+    ],
+    "facts": [
+      "Death Stranding Isolations is coming to Disney+ in 2027.",
+      "The announcement was made during the 10th anniversary event in Tokyo titled BEYOND THE STRAND: The Odyssey of Creation and Endeavor.",
+      "E Hand Production produces the series in traditional hand-drawn 2D animation.",
+      "Takayuki Sano directs the series, Tow Ubukata handles the screenplay, and Ilya Kuvshinov designs the original characters.",
+      "Hideo Kojima executive produces the project.",
+      "The Death Stranding series passed 27 million players worldwide as of June 2026."
+    ],
+    "entities": {
+      "people": [
+        "Hideo Kojima",
+        "Takayuki Sano",
+        "Tow Ubukata",
+        "Ilya Kuvshinov",
+        "Sam Porter Bridges",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "Death Stranding Isolations",
+        "Death Stranding",
+        "Death Stranding Director’s Cut",
+        "Death Stranding 2: On the Beach"
+      ]
+    },
+    "keywords": [
+      "Death Stranding Isolations",
+      "Death Stranding anime Disney+",
+      "Kojima Productions Death Stranding",
+      "Death Stranding Isolations trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/edited-image-2026-10-30T085523.958.webp?resize=1200,630",
+        "caption": "Disney+ Expands Hideo Kojima’s Death Stranding With New Anime, Watch Trailer",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 03:33:20 +0000"
   }
 };

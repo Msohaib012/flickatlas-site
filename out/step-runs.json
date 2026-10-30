@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T04:51:54Z",
-    "run_id": "40819989501",
-    "status": "success",
-    "checked": {
-     "candidates": 128,
-     "detail": "RSS/Atom items across 137 sources; 18 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali Box Office Day 13: Vijay Deverakonda's Film Nears ₹78 Crore Worldwide, Crosses ₹56 Crore India Net",
-      "Entertainment News Live Updates: Priyanka Flaunts Karwa Chauth Mehendi; Will Gullu Get Evicted From BB 20?",
-      "Prabhas' Biggest Opening Days: What Will Spirit Need to Break His Records?",
-      "Armaan Malik On Ramayana: Singer calls surreal Rahman–Zimmer score dream project",
-      "Anand Deverakonda backs Vijay and Rashmika amid ‘Ranabaali’ criticism",
-      "Janhvi Kapoor reveals marriage plans with Shikhar Pahariya",
-      "After SRFTI, Naseeruddin Shah shares video backing Jamia Millia Islamia students, says he is a 'proud dimagi Naxal'",
-      "Shilpa Rao shares glimpses of her interrupted performance from Bollywood Music Project, pens message for fans",
-      "Zubeen Garg's family urges Assam governor to intervene for speedy trial in death case, opposing bail pleas of accused",
-      "Upasana Singh, Nagma claim victory in Cine and TV Artistes' Association row after High Court order, say they won because they were ‘truthful’",
-      "Pyre review: Vinod Kapri's film reminds you why we need someone to grow old with",
-      "The joke's on you: Parineeti Chopra, Jennifer Winget laugh off rift rumours",
-      "govt to open textiles pli scheme for new applications from november 1 3077195.html",
-      "sana khan revealed why quits glamour world wears hijab burqa married mufti preaching islam tmova 2682248 2026 10 29",
-      "arjun bijlani gifts new car to wife neha swami karwa chauth luxury surprise tmova dskc 2682994 2026 10 29",
-      "crude oil prices fall to 114 level as us iran peace hopes offset supply risks article 156425633",
-      "delhi aqi today air quality remains poor at 237 will rain bring relief article 156425197",
-      "imran khan challenges frro oci cancellation notice seeks mumbai police report and evidence article 156425752",
-      "ranbir kapoor yash ramayana crosses rs 15 crore in advance booking 7 days before release article 156425675",
-      "sai pallavi net worth inside ramayana actress rumoured rs 47 crore empire properties cars and more article 156425649"
-     ],
-     "updated": [],
-     "count": 67,
-     "detail": "67 stories, 0 duplicates removed, 61 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-29T05:51:56Z",
     "run_id": "40825697302",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "334 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-29T04:52:09Z",
-    "run_id": "40819989501",
+    "run_at": "2026-10-30T03:51:07Z",
+    "run_id": "40999597370",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 326,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ranbir Kapoor and Yash Starrer Ramayana Crosses Rs 15 Crore in Advance Bookings",
-      "Ramayana Early Premiere Reactions Draw Major Lord of the Rings Comparisons"
+      "Priyanka Shares Inside Pics Of Her Karwa Chauth Celebrations; Reveals Nick's Special Gesture For Her",
+      "Aadarsha Kutumbam House No: 47 X Review: What Audiences Are Saying About Venkatesh-Srinidhi Shetty's Film",
+      "Karwa Chauth 2026: Aamir Khan & Gauri Spratt Arrive Hand In Hand For 1st Karwa Chauth Post Their July Wedding",
+      "Diljit Dosanjh Delhi Concert: No Parking To Closing Deadline; Here's Everything To Know About Big Event",
+      "Ramayana Part 1 Crosses $2.5M Overseas as India's Ticket Booking Deadlock Reportedly Ends",
+      "Reviewer teases Ravana's ten-headed scene - WATCH",
+      "Chiranjeevi to host ‘Megaverse’, makes digital talk show debut on Netflix",
+      "Robert Keller Kelly’s cause of death confirmed",
+      "Chiranjeevi and Srikanth Odela’s ‘ChiruOdela’ reportedly shelved",
+      "'The Chapter 1 in the title shouldn’t lead you to expect OM 2'",
+      "Ian McKellen pens moving tribute to Patrick Stewart",
+      "Mammootty's investments are mostly in things like land - REASON",
+      "Aamir Khan celebrates first Karwa Chauth with Gauri Spratt after wedding",
+      "Jason Galanis, convicted fraudster, marries Savannah Chrisley after moving into her Nashville home: Report",
+      "Ramayana's Surpanakha is very misunderstood: Rakul Preet Singh",
+      "Aamir Khan, wife Gauri Spratt celebrate first Karwa Chauth after July wedding. Watch",
+      "KING: Siddharth Anand Drops Another Cryptic Post At Midnight, Tweets, “Time For The World”",
+      "Russell Crowe's Performance in This Prime Video Crime Thriller Is So Good, It Demands a Rewatch",
+      "‘Cupertino’s Mike Colter Breaks Down Episode 4's Most Shocking Twist",
+      "The 10 Most Rewatchable Comedy Movies of All Time, Ranked"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 311,
+     "detail": "316 stories, 0 duplicates removed, 10 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-30T03:51:20Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Part 1 Crosses $2.5M Overseas as India Ticket Booking Deadlock Ends",
+      "Disney+ Expands Hideo Kojima’s Death Stranding With New Anime, Watch Trailer"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-29T07:52:29Z",
-    "run_id": "40838021767",
-    "status": "success",
-    "checked": {
-     "candidates": 34,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 26, coming 8"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,19 +1843,27 @@
      "detail": "now 53, coming 2"
     },
     "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-30T03:51:20Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": {
+     "candidates": 55,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 53, coming 2"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2248,27 +2238,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T04:57:45Z",
-    "run_id": "40819989501",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-30T03:51:29Z",
+    "run_id": "40999597370",
     "status": "success",
     "checked": {
-     "candidates": 291,
-     "detail": "290 collected staging rows from readers; 100 averaged across 2+ sources"
+     "candidates": 20,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 280 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2682,19 +2671,27 @@
      "detail": "+0 new rows, 74 updated rows, 240 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T03:51:20Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": {
+     "candidates": 316,
+     "detail": "314 collected staging rows from readers; 103 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 311 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2950,30 +2947,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-29T04:57:47Z",
-    "run_id": "40819989501",
-    "status": "success",
-    "checked": {
-     "candidates": 72,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ranbir Kapoor and Yash Starrer Ramayana Crosses Rs 15 Crore in Advance Bookings",
-      "Ramayana Early Premiere Reactions Draw Major Lord of the Rings Comparisons"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 72 items, api-trends.json 0 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3441,26 +3427,30 @@
      "detail": "api-news.json 84 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-30T03:51:28Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": {
+     "candidates": 84,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Part 1 Crosses $2.5M Overseas as India Ticket Booking Deadlock Ends",
+      "Disney+ Expands Hideo Kojima’s Death Stranding With New Anime, Watch Trailer"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 84 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-29T04:51:57Z",
-    "run_id": "40819989501",
-    "status": "success",
-    "checked": {
-     "candidates": 23,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 12 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3725,19 +3715,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4012,29 +4002,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-29T04:52:09Z",
-    "run_id": "40819989501",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 67 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 5/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ranbir Kapoor and Yash Starrer Ramayana Crosses Rs 15 Crore in Advance Bookings",
-      "Ramayana Early Premiere Reactions Draw Major Lord of the Rings Comparisons"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4479,19 +4459,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-30T03:51:20Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 311 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Part 1 Crosses $2.5M Overseas as India Ticket Booking Deadlock Ends",
+      "Disney+ Expands Hideo Kojima’s Death Stranding With New Anime, Watch Trailer"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4734,24 +4724,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 195,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5071,24 +5056,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 315,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5418,19 +5403,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5680,19 +5670,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5927,19 +5917,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6169,19 +6159,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-29T05:57:33Z",
-    "run_id": "40825697302",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6433,19 +6423,19 @@
      "count": 120
     },
     "reason": null
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6671,6 +6661,16 @@
     "category": "Box Office",
     "run_at": "2026-10-30T02:13:00Z",
     "run_id": "40989710322",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-30T03:51:38Z",
+    "run_id": "40999597370",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6681,16 +6681,6 @@
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-10-29T04:57:55Z",
-    "run_id": "40819989501",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-10-29T05:57:33Z",
     "run_id": "40825697302",
     "status": "skipped",
@@ -6917,8 +6907,41 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-30T03:51:28Z",
+    "run_id": "40999597370",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 11, 'mixed': 4}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Jay-Z Set to Headline the Super Bowl Halftime Show",
+      "George Takei Remembers Star Trek Co-Star and Best Man Walter Koenig Following Hi",
+      "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
+      "Drishyam 3 Box Office Day 25: Ajay Devgn Thriller Crosses Milestone Amid Slowdow",
+      "Maxxing Named Dictionary.com Word of the Year for 2026",
+      "DC Comics To Crown A New Smartest Superhero As Mr. Terrific Surpasses Batman",
+      "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
+      "Macklemore Launches Free Palestine Tour Featuring Ed Sheeran's Former Backing Ba",
+      "Paul Giamatti, Nico Parker, and Sam Nivola Cast in Takashi Yamazaki's Grandgear",
+      "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie E",
+      "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
+      "Jailer 2 Box Office Collection Day 12: Rajinikanth Starrer Earns Rs 9.45 Cr on M",
+      "Disney+ and Channel 4 Announce Landmark UK Partnership Including Linear Network ",
+      "Takashi Yamazaki Set to Direct English-Language Debut 'Grandgear' for Sony Pictu",
+      "Bano Episode 14 — Watch on Geo TV"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-10-30T02:13:00Z"
+ "updated_at": "2026-10-30T03:51:38Z"
 }
