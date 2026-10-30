@@ -116,6 +116,87 @@ assert.equal(missingRowPairs.last_2_days, undefined, 'a missing daywise row bloc
 assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, {}, 'today', today), null,
   'a missing pair and missing direct worldwide source stay unreported');
 
+// Owner rule 2026-10-30: a window with no verified worldwide figure falls
+// back to the tracked daywise collection (India Net + Overseas where a
+// figure is tracked), summed over the most recent tracked days and tagged
+// tracked_daywise with its covered range. Verified figures always win;
+// the retired today window never falls back; the collector still treats a
+// fallback-covered window as uncovered for worldwide research.
+const trackedItem = { id: '1806232', release_date: '2026-10-23' };
+const trackedRows = [
+  pair(1, '2026-10-23', 19017, null), pair(2, '2026-10-24', 11622, null),
+  pair(3, '2026-10-25', 8452, null), pair(4, '2026-10-26', 3170, null),
+  pair(5, '2026-10-27', 3170, null), pair(6, '2026-10-28', 3170, null),
+  pair(7, '2026-10-29', 2113, null),
+];
+const tracked2 = helper.resolveMetric(trackedItem, trackedRows, {}, {}, 'last_2_days', today);
+assert.equal(tracked2.method, 'tracked_daywise');
+assert.equal(tracked2.amount, 3170 + 2113, 'the last two tracked days are summed');
+assert.equal(tracked2.period_start, '2026-10-28');
+assert.equal(tracked2.period_end, '2026-10-29');
+assert.equal(tracked2.tracked_days, 2);
+const tracked7 = helper.resolveMetric(trackedItem, trackedRows, {}, {}, 'last_7_days', today);
+assert.equal(tracked7.amount, 19017 + 11622 + 8452 + 3170 + 3170 + 3170 + 2113,
+  'the seven most recent tracked days are summed');
+assert.equal(tracked7.period_start, '2026-10-23');
+assert.equal(tracked7.period_end, '2026-10-29');
+const trackedTotal = helper.resolveMetric(trackedItem, trackedRows, {}, {}, 'cumulative_total', today);
+assert.equal(trackedTotal.amount, tracked7.amount, 'the tracked total sums every tracked day');
+assert.equal(trackedTotal.tracked_days, 7);
+assert.deepEqual(trackedTotal.tracked_dates,
+  ['2026-10-23', '2026-10-24', '2026-10-25', '2026-10-26', '2026-10-27', '2026-10-28', '2026-10-29']);
+assert.equal(helper.resolveMetric(trackedItem, trackedRows, {}, {}, 'today', today), null,
+  'the tracked fallback never fills the retired today window');
+const trackedWithOverseas = helper.trackedMetric(
+  [pair(1, '2026-10-28', 100, 40), pair(2, '2026-10-29', 50, null)], 'cumulative_total', today);
+assert.equal(trackedWithOverseas.amount, 190,
+  'a tracked day adds its Overseas figure only when one is tracked');
+assert.equal(helper.trackedMetric([], 'last_7_days', today), null, 'no tracked days, no fallback');
+assert.equal(helper.trackedMetric(undefined, 'last_2_days', today), null);
+assert.equal(helper.resolveMetric({ id: 'none', release_date: today }, [], {}, {}, 'cumulative_total', today), null,
+  'a title with zero tracked rows stays Not reported');
+assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, paired, 'cumulative_total', today).method,
+  'paired_components', 'a verified paired total wins over the tracked fallback');
+assert.equal(helper.resolveMetric(pairItem, sourcePairs, {},
+  { last_7_days: { scope: 'worldwide', window: 'last_7_days', amount: 500, currency: 'USD',
+    period_start: '2026-10-24', period_end: today, as_of: today,
+    observed_at: '2026-10-30T00:00:00Z', source_name: 'Official source',
+    source_url: 'https://official.example/box-office',
+    evidence_quote: 'Worldwide gross stated by source', reviewed_by: 'Gemini' } },
+  'last_7_days', today).method, 'tavily_gemini',
+  'a direct verified report wins over the tracked fallback');
+assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, {}, 'last_7_days', today).method,
+  'tracked_daywise', 'the same rows fall back to tracked when no verified figure exists');
+assert.equal(helper.needsDirectRefresh(trackedItem, trackedRows, {}, {}, 'last_7_days', today), true,
+  'a window covered only by the tracked fallback is still researched by the collector');
+
+// The rendered homepage card: tracked figures labelled with their covered
+// range, a plain "Total" third cell, and no worldwide claim anywhere.
+const boStart = pageSource.indexOf('    const shortDate = (s) => {');
+const boEnd = pageSource.indexOf('    /* Only releases from the last 14 calendar dates', boStart);
+assert(boStart >= 0 && boEnd > boStart, 'homepage box office card anchors changed');
+const boCardHtml = vm.runInNewContext(pageSource.slice(boStart, boEnd) + '\nboCardHtml;', {
+  window: {}, HomeBoxOffice: helper, dwData: { '1806232': trackedRows },
+  boxOfficeWorldwide: {}, boxOfficeSnapshot: { reports: {} }, todayIST: today,
+  boSelection: { bollywood: [], world: [] },
+  UI: { esc: s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;'),
+    titleOf: x => x.title, img: () => 'https://img.example/p.jpg', fmtDate: s => s },
+});
+const trackedCard = boCardHtml({ id: 1806232, title: 'Tum Mere Ho', release_date: '2026-10-23', poster_path: '/p.jpg' });
+assert.match(trackedCard, /\$5\.3K/, 'the 2-day tracked sum renders on the card');
+assert.match(trackedCard, /\$50\.7K/, 'the tracked total renders on the card');
+assert.match(trackedCard, /Tracked · 28–29 Oct/, 'the 2-day cell names its covered tracked range');
+assert.match(trackedCard, /Tracked · 23–29 Oct/, 'the 7-day and total cells name the full tracked range');
+assert.match(trackedCard, /<dt>Total<\/dt>/, 'the third cell is labelled Total');
+assert.doesNotMatch(trackedCard, /worldwide/i, 'the card carries no worldwide claim');
+const emptyCard = boCardHtml({ id: 424242, title: 'No Data Film', release_date: today, poster_path: '/p.jpg' });
+assert.match(emptyCard, /Not reported/);
+assert.match(emptyCard, /No collection data yet/, 'the missing-figure note no longer claims a worldwide check');
+assert.doesNotMatch(emptyCard, /worldwide/i);
+assert.match(pageSource, /No collection data yet/);
+assert.match(pageSource, /figures from tracked box-office data/);
+assert.doesNotMatch(pageSource, /Worldwide total/);
+
 // Daily windows require complete dates since release, and include only Days 1–30.
 const recentRelease = '2026-10-24';
 const weekRows = Array.from({ length: 7 }, (_, i) => worldwideDay(i + 1, helper.shiftDate(recentRelease, i), 11));
@@ -317,4 +398,4 @@ for (const candidate of selectorOut.candidates) {
 }
 assert(selectorOut.candidates.some(c => c.windows_to_refresh.includes('last_2_days')),
   'selector emits last_2_days among the windows to refresh');
-console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; 14-day eligibility and 8-per-tab selection pass.');
+console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; tracked daywise fallback covers windows with no verified figure; 14-day eligibility and 8-per-tab selection pass.');

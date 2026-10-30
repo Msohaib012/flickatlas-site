@@ -1,7 +1,14 @@
-/* FlickAtlas homepage Box Office — source-backed worldwide metric resolution.
-   India Net and Overseas remain separate on each movie's inner daywise page.
-   The homepage may add them only for exact-date, same-currency, provenance-
-   complete pairs; otherwise it requires an explicit worldwide report. */
+/* FlickAtlas homepage Box Office — metric resolution in two layers.
+   1) Verified worldwide figures: an explicit worldwide report (snapshot
+      direct report, provenance-paired India Net + Overseas components, or
+      a published total). India Net and Overseas remain separate on each
+      movie's inner daywise page; the homepage adds them only for exact-
+      date, same-currency, provenance-complete pairs.
+   2) Owner rule 2026-10-30: when no verified worldwide figure resolves
+      for a window, the card falls back to the tracked daywise collection
+      that does exist (India Net plus Overseas where a figure is tracked),
+      summed over the most recent tracked days and labelled "Tracked" —
+      never presented as a worldwide figure. */
 (function (root, factory) {
   const api = factory();
   if (typeof module === "object" && module.exports) module.exports = api;
@@ -413,7 +420,52 @@
     return explicitWorldwideTotal(explicitTotal, todayIST)
       || localDerivedTotal(rows, entry && entry.release_date, todayIST);
   }
-  function resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST) {
+  function trackedDays(rows) {
+    // Normalise raw FA_DAYWISE rows into tracked days: India Net collection
+    // plus the Overseas figure when one is tracked for that date. An
+    // explicit worldwide row already carries its full amount, so nothing
+    // is added to it. The first valid row wins a duplicated date.
+    const byDate = new Map();
+    for (const row of Array.isArray(rows) ? rows : []) {
+      if (!row || !validDate(row.date) || byDate.has(row.date)) continue;
+      const scope = String(row.scope || "").trim().toLowerCase();
+      let amount = null;
+      if (scope === "worldwide") {
+        amount = number(row.amount != null ? row.amount : row.collection);
+      } else {
+        amount = number(row.collection);
+        if (amount !== null) {
+          const overseas = number(row.overseas);
+          if (overseas !== null) amount += overseas;
+        }
+      }
+      if (amount !== null) byDate.set(row.date, amount);
+    }
+    return Array.from(byDate, ([date, amount]) => ({ date, amount }))
+      .sort((a, b) => a.date.localeCompare(b.date));
+  }
+  function trackedMetric(rows, windowKey, todayIST) {
+    // The tracked fallback covers only the three homepage windows; the
+    // retired "today" window never falls back. A window resolves only
+    // when at least one tracked day exists; the covered range is the
+    // first..last date actually summed, so the card can label it honestly.
+    if (windowKey !== "last_2_days" && windowKey !== "last_7_days"
+        && windowKey !== "cumulative_total") return null;
+    let days = trackedDays(rows);
+    if (validDate(todayIST)) days = days.filter(day => day.date <= todayIST);
+    if (!days.length) return null;
+    const picked = windowKey === "cumulative_total" ? days
+      : days.slice(windowKey === "last_2_days" ? -2 : -7);
+    const amount = picked.reduce((sum, day) => sum + day.amount, 0);
+    if (!Number.isFinite(amount)) return null;
+    const first = picked[0], last = picked[picked.length - 1];
+    return { scope: "tracked", window: WINDOWS[windowKey], method: "tracked_daywise",
+      amount, currency: "USD", period_start: first.date, period_end: last.date,
+      as_of: last.date, observed_date: last.date, observed_at: null,
+      source_name: "FlickAtlas tracked daywise collection",
+      tracked_days: picked.length, tracked_dates: picked.map(day => day.date) };
+  }
+  function resolveVerifiedMetric(entry, rows, explicitTotal, report, windowKey, todayIST) {
     const paired = pairedMetric(report && report[windowKey], windowKey, todayIST, entry && entry.release_date);
     const base = localMetric(entry, rows, explicitTotal, windowKey, todayIST);
     const direct = directMetric(report && report[windowKey], windowKey, todayIST);
@@ -433,6 +485,16 @@
       && (!Number.isFinite(baseObserved) || directObserved >= baseObserved);
     if (windowKey === "cumulative_total" && direct.as_of > base.as_of) return direct;
     return directObservedLater ? direct : base;
+  }
+  function resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST) {
+    // Strict priority: a verified worldwide figure (paired components,
+    // direct snapshot report, published/local explicit total) always wins.
+    // Only when none resolves does the tracked daywise fallback apply.
+    // needsDirectRefresh below is deliberately unaffected: a window the
+    // fallback covers is still "uncovered" for the collector's worldwide
+    // research and keeps being re-queried on schedule.
+    return resolveVerifiedMetric(entry, rows, explicitTotal, report, windowKey, todayIST)
+      || trackedMetric(rows, windowKey, todayIST);
   }
   function needsDirectRefresh(entry, rows, explicitTotal, report, windowKey, todayIST) {
     // This selector is used by the four-slot refresh workflow, not a one-time
@@ -542,6 +604,6 @@
   }
   return { DATE_RE, WINDOWS, DAYWISE_MAX, emptySnapshot, safeSnapshot, loadSnapshot, directMetric,
     rowWorldAmount, pairedMetric, pairedMetrics, worldwideRows, localDailyMetric, explicitWorldwideTotal,
-    localDerivedTotal, localMetric, resolveMetric, needsDirectRefresh,
+    localDerivedTotal, localMetric, trackedDays, trackedMetric, resolveMetric, needsDirectRefresh,
     selectHomeTitles, selectionForDisplay, formatCurrency, shiftDate, validDate, secureUrl };
 });

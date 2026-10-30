@@ -351,10 +351,14 @@
        no TMDB lookup runs — enrichment is skipped. */
     const searchesHtml = `<section class="section" data-sec="trending-searches" id="homeTrendingSearches"><h2>Trending Searches</h2><p role="status">Loading trend feed…</p></section>`;
 
-    /* ---------- Box Office homepage: only explicit worldwide reports.
-       India Net and Overseas stay separate on inner movie daywise pages; the
-       homepage never adds those fields. Missing/unsafe worldwide windows are
-       supplied only by the isolated Tavily → Gemini scheduled job. ---------- */
+    /* ---------- Box Office homepage: verified worldwide reports first.
+       India Net and Overseas stay separate on inner movie daywise pages;
+       the homepage adds them only as verified worldwide figures (explicit
+       reports or strict provenance pairs from the Tavily → Gemini job).
+       Owner rule 2026-10-30: a window with no verified worldwide figure
+       falls back to the tracked daywise collection summed by the shared
+       helper and labelled "Tracked" — the card never claims a worldwide
+       figure it does not have. ---------- */
     const HomeBoxOffice = window.FAHomeBoxOffice;
     const boxOfficeSnapshot = HomeBoxOffice
       ? HomeBoxOffice.safeSnapshot(await homeBoxOfficeSnapshotPromise)
@@ -403,21 +407,32 @@
         }).filter(Boolean);
         const shown = links.slice(0, 3);
         if (links.length > 3) shown.push(`<span class="fa-box-source">+${links.length - 3} more</span>`);
-        return shown.length ? shown.join(" · ") : `<span class="fa-box-source">${UI.esc(metric.source_name || "Verified worldwide source")}</span>`;
+        return shown.length ? shown.join(" · ") : `<span class="fa-box-source">${UI.esc(metric.source_name || "Verified source")}</span>`;
       };
-      const evidence = (metric) => metric
-        ? `<small class="fa-box-evidence">${UI.esc(metric.currency)} source currency · Source as of ${UI.esc(shortDate(metric.as_of || metric.period_end || "") || metric.as_of || "date not stated")} · Checked ${UI.esc(shortDate(metric.observed_date || metric.as_of || "") || metric.observed_date || metric.as_of || "date not stated")} · ${sourceHtml(metric)}</small>`
-        : `<small class="fa-box-evidence">No verified worldwide figure</small>`;
+      const trackedRange = (metric) => {
+        const start = shortDate(metric.period_start || "");
+        const end = shortDate(metric.period_end || "");
+        if (!start || !end) return start || end;
+        if (metric.period_start === metric.period_end) return end;
+        const sameMonth = String(metric.period_start).slice(0, 7) === String(metric.period_end).slice(0, 7);
+        return sameMonth ? `${+String(metric.period_start).slice(8, 10)}–${end}` : `${start}–${end}`;
+      };
+      const evidence = (metric) => {
+        if (!metric) return `<small class="fa-box-evidence">No collection data yet</small>`;
+        if (metric.method === "tracked_daywise")
+          return `<small class="fa-box-evidence">Tracked · ${UI.esc(trackedRange(metric))}</small>`;
+        return `<small class="fa-box-evidence">${UI.esc(metric.currency)} source currency · Source as of ${UI.esc(shortDate(metric.as_of || metric.period_end || "") || metric.as_of || "date not stated")} · Checked ${UI.esc(shortDate(metric.observed_date || metric.as_of || "") || metric.observed_date || metric.as_of || "date not stated")} · ${sourceHtml(metric)}</small>`;
+      };
       const metricCell = (windowKey, label, description) => {
         const metric = metricFor(windowKey);
-        return `<div data-worldwide-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${metric ? amountHtml(metric) : missing}</dd>${evidence(metric)}</div>`;
+        return `<div data-bo-window="${windowKey}" title="${UI.esc(description)}"><dt>${UI.esc(label)}</dt><dd>${metric ? amountHtml(metric) : missing}</dd>${evidence(metric)}</div>`;
       };
       const title = UI.esc(UI.titleOf(entry));
       const date = entry.release_date || "";
       const poster = `<span class="fa-box-poster${entry.poster_path ? "" : " is-missing"}" role="img" aria-label="${entry.poster_path ? title + " poster" : "Poster unavailable"}">${entry.poster_path ? `<img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.parentElement.classList.add('is-missing');this.parentElement.setAttribute('aria-label','Poster unavailable');this.remove()">` : ""}<span aria-hidden="true">No poster</span></span>`;
       const twoStart = HomeBoxOffice.shiftDate(todayIST, -1);
       const weekStart = HomeBoxOffice.shiftDate(todayIST, -6);
-      return `<article class="fa-box-latest-card fa-box-latest--home" data-movie-id="${UI.esc(id)}" data-release="${UI.esc(date)}"><a class="fa-box-card-head" href="/movie?id=${encodeURIComponent(id)}" aria-label="${title} — box office details">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${title}">${title}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></a><dl aria-label="Worldwide box office figures; missing values are not estimated">${metricCell("last_2_days", "2 Days", `Worldwide figure for ${twoStart} to ${todayIST} IST`)}${metricCell("last_7_days", "7 Days", `Worldwide figure for ${weekStart} to ${todayIST} IST`)}${metricCell("cumulative_total", "Worldwide total", "Cumulative worldwide theatrical gross; source date shown below")}</dl></article>`;
+      return `<article class="fa-box-latest-card fa-box-latest--home" data-movie-id="${UI.esc(id)}" data-release="${UI.esc(date)}"><a class="fa-box-card-head" href="/movie?id=${encodeURIComponent(id)}" aria-label="${title} — box office details">${poster}<div class="fa-box-card-labels"><span class="fa-box-latest-title" title="${title}">${title}</span><p class="fa-box-latest-meta">Released ${UI.esc(UI.fmtDate(date))}</p></div><span class="fa-box-card-arrow" aria-hidden="true">›</span></a><dl aria-label="Box office figures; missing values are not estimated">${metricCell("last_2_days", "2 Days", `Figure for ${twoStart} to ${todayIST} IST`)}${metricCell("last_7_days", "7 Days", `Figure for ${weekStart} to ${todayIST} IST`)}${metricCell("cumulative_total", "Total", "Cumulative theatrical gross; source date shown below")}</dl></article>`;
     };
     /* Only releases from the last 14 calendar dates are eligible; within
        that pool the most popular titles come first. A tab with fewer than
@@ -428,7 +443,7 @@
     const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
-      ${switchButtons("boxoffice")}<p class="sec-sub">Last 14 days only · most popular first · worldwide figures from verified sources · Bollywood</p>
+      ${switchButtons("boxoffice")}<p class="sec-sub">Last 14 days only · most popular first · figures from tracked box-office data · Bollywood</p>
       <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>
     </section>` : "";
 
@@ -1065,7 +1080,7 @@
         }
         section.querySelector("h2").textContent = kind === "spotlight" ? "Spotlight" : kind === "soon" ? "Coming Soon & Most Awaited" : kind === "boxoffice" ? "Box Office" : "Release Calendar";
         link.href = kind === "spotlight" ? `/movies?f=${industry}&seeall=1` : kind === "soon" ? `/most-awaited?f=${industry}&s=oldest` : kind === "boxoffice" ? `/box-office?f=${industry}` : `/upcoming?f=${industry}&s=oldest&seeall=1`;
-        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "Last 14 days only · most popular first · worldwide figures from verified sources · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
+        section.querySelector(".sec-sub").textContent = kind === "spotlight" ? "Movies running now, newest release date first · " + industryLabel(industry) : kind === "soon" ? "Upcoming movies only, oldest release date first · " + industryLabel(industry) : kind === "boxoffice" ? "Last 14 days only · most popular first · figures from tracked box-office data · " + industryLabel(industry) : "Upcoming movie and TV dates, oldest first · " + industryLabel(industry);
         const limitKey = kind === "spotlight" ? "spotlight" : kind === "soon" ? "soon" : kind === "boxoffice" ? "boxoffice" : "calendar";
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
