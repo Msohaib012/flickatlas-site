@@ -12,6 +12,8 @@ import scripts.seo_assets as seo  # noqa: E402
 seo.PUBLISHED = {}
 seo.ARTICLES = {}
 seo.DAYWISE = {}
+seo.REVIEWS = seo.read_js_map(ROOT / "js/reviews-data.js", "FA_REVIEWS")
+seo.EPISODE_TRACKER = json.loads((ROOT / "out/episodes.json").read_text(encoding="utf-8"))
 
 
 class HeadMetadata(HTMLParser):
@@ -139,14 +141,17 @@ for key, value in generated_meta.items():
     family, _, item_id = key.partition(":")
     if family in ("cat", "news"):
         assert len(value["t"]) <= 60, f"{key}: generated title exceeds 60 characters"
-    if family in ("movie", "tv") and len(value["t"]) > 60:
+    if family in ("movie", "tv"):
         record = published_for_titles[item_id]
         core = seo.plain_text(record.get("title"))
         year = seo.year_of(record)
         if year:
             core += " (%s)" % year
-        assert value["t"] == core, (
-            f"{key}: long title must preserve the exact film/show name without boilerplate")
+        assert value["t"] == core or value["t"].startswith(core + " — "), (
+            f"{key}: detailed title must preserve the exact film/show name")
+        if value["t"] != core:
+            assert value["t"].endswith(" | FlickAtlas") and len(value["t"]) <= 90, (
+                f"{key}: detailed title must fit the limit and retain the brand")
     if key.startswith("daywise:"):
         days = [row.get("day") for row in value.get("day_rows", [])]
         assert all(isinstance(day, int) and 1 <= day <= 30 for day in days), (
@@ -163,10 +168,54 @@ movie = seo.title_meta({
     "budget": 0, "vote_average": 0, "vote_count": 0,
 })
 assert movie["t"].startswith("Glass Lantern")
-assert len(movie["t"]) <= 60
+assert "Cast" in movie["t"] and "Story" in movie["t"]
+assert not any(term in movie["t"] for term in ("Budget", "Box Office", "Review", "Rating"))
 assert "Glass Lantern story" in movie["k"]
 assert "Glass Lantern release date" in movie["k"]
+assert "Glass Lantern review" not in movie["k"]
+assert "cast and story" in movie["d"].casefold()
+assert "budget" not in movie["d"].casefold() and "review" not in movie["d"].casefold()
 assert "streaming" not in movie["d"].casefold()
+
+seo.DAYWISE = {"999": [{"day": "Day 1", "collection": 1234567, "overseas": 0}]}
+seo.REVIEWS["999"] = {
+    "source": "FlickAtlas Review", "story_plot": "A village story.",
+    "overall": 7.0, "verdict": "A strong and thoughtful film.",
+}
+rich_movie = seo.title_meta({
+    "id": "999", "title": "X", "type": "movie", "industry": "world",
+    "release_date": "2026-04-10", "overview": "A village accountant returns home.",
+    "genres": ["Drama", "Comedy"], "budget": 40000000,
+    "vote_average": 8.4, "vote_count": 100,
+})
+assert "Box Office Collection" in rich_movie["t"] and "Budget" in rich_movie["t"]
+assert "Review" in rich_movie["t"] and "Rating" in rich_movie["t"]
+for phrase in ("cast and story", "box office collection", "budget", "review 7/10",
+               "tmdb rating 8.4/10"):
+    assert phrase in rich_movie["d"].casefold(), f"rich movie description missing {phrase}"
+for phrase in ("X box office collection", "X budget", "X review", "X rating"):
+    assert phrase in rich_movie["k"], f"rich movie keywords missing {phrase}"
+
+world_series = seo.title_meta({
+    "id": "200", "title": "Ocean Signal", "type": "tv", "industry": "world",
+    "first_air_date": "2024-02-01", "overview": "A rescue crew faces a mystery.",
+    "number_of_seasons": 2, "number_of_episodes": 18,
+})
+assert world_series["t"] == (
+    "Ocean Signal (2024) — Seasons, Episodes, Cast & Story | FlickAtlas")
+assert "2 seasons" in world_series["d"] and "18 episodes" in world_series["d"]
+
+saved_tracker = seo.EPISODE_TRACKER
+seo.EPISODE_TRACKER = {"episodes": {"tracker-row": {"drama": "Dar", "episode": 25}}}
+pakistani_series = seo.title_meta({
+    "id": "201", "title": "Dar-E-Nijaat", "type": "tv", "industry": "pakistani",
+    "first_air_date": "2026-01-01", "overview": "A family drama.",
+    "number_of_seasons": 1, "number_of_episodes": 1,
+})
+seo.EPISODE_TRACKER = saved_tracker
+assert "Seasons" not in pakistani_series["t"] and "Episodes" in pakistani_series["t"]
+assert "25 episodes" in pakistani_series["d"], (
+    "Pakistani show SEO must use the tracker count, not stale TMDB count")
 
 long_name = "The Extraordinary Motion Picture with a Very Long Official Title"
 long_movie = seo.title_meta({
@@ -174,8 +223,9 @@ long_movie = seo.title_meta({
     "release_date": "2026-04-10", "overview": "A reported story.",
     "budget": 0, "vote_average": 0, "vote_count": 0,
 })
-assert long_movie["t"] == long_name + " (2026)", (
-    "long source film names must remain intact without generic SEO suffixes")
+assert (long_movie["t"] == long_name + " (2026)" or
+        long_movie["t"].startswith(long_name + " (2026) — ")), (
+    "long source film names must remain intact without truncation")
 
 article = seo.news_meta({
     "id": "fixture-news", "headline": "Actor joins a new Hindi drama",
@@ -220,6 +270,26 @@ seo.ARTICLES = seo.read_js_map(ROOT / "js/articles-data.js", "FA_ARTICLES")
 seo.DAYWISE = seo.read_js_map(ROOT / "js/daywise-data.js", "FA_DAYWISE")
 for entry in seo.ARTICLES.values():
     entry["_pub"] = seo.parse_date(entry.get("published"))
+
+you_me_us = seo.title_meta(seo.PUBLISHED["1541477"])
+live_example = generated_meta["movie:1541477"]
+assert live_example["t"] == you_me_us["t"]
+assert live_example["d"] == you_me_us["d"]
+assert live_example["k"] == you_me_us["k"]
+assert live_example["t"] == (
+    "You, Me, Us (2026) — Cast, Story, Review & Rating | FlickAtlas")
+assert all(term in live_example["d"].casefold() for term in (
+    "cast", "story", "review", "tmdb rating", "4.1/10"))
+assert "budget" not in live_example["d"].casefold()
+assert "You, Me, Us review" in live_example["k"]
+assert "You, Me, Us budget" not in live_example["k"]
+
+bano = next(entry for entry in seo.PUBLISHED.values()
+            if entry.get("type") == "tv" and entry.get("industry") == "pakistani"
+            and seo.plain_text(entry.get("title")).casefold() == "bano")
+bano_meta = seo.title_meta(bano)
+assert "Seasons" not in bano_meta["t"] and "Episodes" in bano_meta["t"]
+assert "17 episodes" in bano_meta["d"]
 
 def maximum(values):
     dates = [value for value in values if value]

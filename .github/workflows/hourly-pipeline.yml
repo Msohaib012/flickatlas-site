@@ -519,8 +519,9 @@ jobs:
 
       # --- 13d. SEO assets (always, never fatal) ----------------------
       # Regenerate js/seo-meta.json + sitemap.xml + robots.txt from the
-      # live data (scripts/seo_assets.py, stdlib only, deterministic —
-      # no timestamps, so the files only change when the DATA changes).
+      # live title/article/day-wise/review/episode data using the
+      # deterministic stdlib-only scripts/seo_assets.py generator.
+      # This step reads existing files; it starts no extra content jobs.
       # The Worker injects per-URL <title>/meta/OG/JSON-LD for the
       # client-rendered detail shells (/movie, /show, /news-item,
       # /box-office-day, /category) from js/seo-meta.json; the sitemap
@@ -604,7 +605,6 @@ jobs:
             -d "{\"ref\":\"main\",\"inputs\":{\"pipeline_run_id\":\"${{ github.run_id }}\"}}")
           echo "watchdog dispatch HTTP $code"
           [ "$code" = "204" ] || echo "watchdog dispatch failed (non-fatal)"
-
 
 
 

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """FlickAtlas SEO assets — regenerate sitemap.xml, robots.txt and
 js/seo-meta.json from the LIVE site data (js/published-titles.js,
-js/articles-data.js, js/daywise-data.js).
+js/articles-data.js, js/daywise-data.js, js/reviews-data.js,
+out/episodes.json).
 
 Run hourly in the pipeline (step "SEO assets", after all data-writing
 steps, before "Commit if changed"). Stdlib only, fully DETERMINISTIC:
@@ -23,11 +24,11 @@ Outputs:
                      "daywise:<tmdb>", "cat:<industry>".
 
 Meta rules (owner: accurate titles, never page-name + site-name):
-  - Every title/description is built ONLY from the entry's own fields.
-  - A fact is mentioned ONLY when the data has it (no box-office claim
-    without day-wise rows, no budget claim without budget > 0, no
-    rating claim without votes).
-  - Descriptions are truncated to ~160 chars at a word boundary.
+  - Every title/description is built ONLY from fields rendered on that page.
+  - Box office, budget, review, rating, seasons and episodes appear only
+    when their corresponding published page data is available.
+  - Descriptions are natural, useful snippets under 160 chars; keyword
+    phrases are page-specific and never claim playback/download services.
   - No invented titles, no keyword stuffing.
 """
 import json
@@ -192,6 +193,31 @@ def _number(value):
     return number if math.isfinite(number) else 0.0
 
 
+def normalized_drama_name(value):
+    return re.sub(r"[^a-z0-9]+", " ", plain_text(value).lower()).strip()
+
+
+def tv_episode_count(entry):
+    """Match the TV page: tracker count first for Pakistani dramas."""
+    fallback = int(_number(entry.get("number_of_episodes")))
+    if entry.get("industry") != "pakistani":
+        return fallback
+    name = normalized_drama_name(entry.get("title"))
+    aliases = {"dar": "dar e nijaat", "zehar": "zehar e mohabbat"}
+    records = (EPISODE_TRACKER or {}).get("episodes", {})
+    numbers = []
+    for row in records.values():
+        if not isinstance(row, dict):
+            continue
+        drama = normalized_drama_name(row.get("drama"))
+        if aliases.get(drama, drama) != name:
+            continue
+        episode = row.get("episode")
+        if type(episode) is int and episode > 0:
+            numbers.append(episode)
+    return max(numbers) if numbers else fallback
+
+
 def append_meta(base, text, limit=160):
     """Append a complete or word-truncated fact without exceeding limit."""
     text = plain_text(text)
@@ -199,6 +225,17 @@ def append_meta(base, text, limit=160):
     if not text or room < 24:
         return base
     return base + " " + trunc_description(text, room)
+
+
+def append_detail_list(base, details, limit=160):
+    """Add complete search-relevant phrases, dropping lower-priority tails."""
+    details = list(details)
+    while details:
+        addition = "Explore its " + natural_join(details) + "."
+        if len(base) + 1 + len(addition) <= limit:
+            return base + " " + addition
+        details.pop()
+    return base
 
 
 def safe_keyword(value):
@@ -243,6 +280,51 @@ def compact_title(core, suffix="", limit=60):
     # A long source title is more valuable than a forced truncation or a
     # generic suffix. Google can display its site name separately.
     return core
+
+
+def natural_join(values):
+    """Join short search phrases in readable prose."""
+    values = [plain_text(value) for value in values if plain_text(value)]
+    if len(values) < 2:
+        return values[0] if values else ""
+    if len(values) == 2:
+        return " and ".join(values)
+    return ", ".join(values[:-1]) + ", and " + values[-1]
+
+
+def title_join(values):
+    """Join compact metadata labels in the owner's title style."""
+    values = [plain_text(value) for value in values if plain_text(value)]
+    if len(values) < 2:
+        return values[0] if values else ""
+    if len(values) == 2:
+        return " & ".join(values)
+    return ", ".join(values[:-1]) + " & " + values[-1]
+
+
+def compact_detail_title(core, labels, limit=90):
+    """Keep the full title and as many verified detail labels as fit."""
+    core = plain_text(core) or "FlickAtlas"
+    labels = list(labels)
+    while labels:
+        suffix = title_join(labels)
+        candidate = core + " — " + suffix + " | FlickAtlas"
+        if len(candidate) <= limit:
+            return candidate
+        labels.pop()
+    return core
+
+
+def human_date(value):
+    """Render an ISO title date as a short, readable English date."""
+    value = plain_text(value)
+    if not value:
+        return ""
+    try:
+        parsed = datetime.fromisoformat(value[:10])
+        return "%d %s %d" % (parsed.day, parsed.strftime("%B"), parsed.year)
+    except ValueError:
+        return value
 
 
 def news_title(headline, limit=60):
@@ -305,66 +387,102 @@ def title_meta(entry):
     overview = plain_text(entry.get("overview"))
     release_date = entry.get("release_date") or entry.get("first_air_date") or ""
 
+    review = REVIEWS.get(str(entry.get("id")), {})
+    if not isinstance(review, dict):
+        review = {}
+    has_review = bool(review)
+    review_story = plain_text(review.get("story_plot"))
+    has_story = bool(overview or review_story)
+    review_score = _number(review.get("overall"))
+    if is_tv:
+        # Pakistani dramas have an episode list, not a Seasons table. Their
+        # visible episode count comes from the same tracker used by the page.
+        seasons = (0 if entry.get("industry") == "pakistani" else
+                   int(_number(entry.get("number_of_seasons"))))
+        episodes = tv_episode_count(entry)
+    else:
+        seasons = episodes = 0
+
     disp = title + ((" (%s)" % year) if year else "")
     if is_tv:
-        suffix = "TV Series & Cast"
+        labels = []
+        if seasons:
+            labels.append("Seasons")
+        if episodes:
+            labels.append("Episodes")
+        labels.append("Cast")
+        if has_story:
+            labels.append("Story")
     else:
+        # Cast is loaded for the movie detail page; other labels require
+        # corresponding data rendered on that page.
+        labels = ["Cast"]
         if has_bo:
-            suffix = "Box Office Collection & Cast"
-        elif overview and budget > 0:
-            suffix = "Story & Budget"
-        elif overview:
-            suffix = "Story & Cast"
-        elif budget > 0:
-            suffix = "Budget & Cast"
-        else:
-            suffix = "Cast & Details"
-    t = compact_title(disp, suffix)
+            labels.append("Box Office Collection")
+        if budget > 0:
+            labels.append("Budget")
+        if has_story:
+            labels.append("Story")
+        if has_review:
+            labels.append("Review")
+        if rating and votes:
+            labels.append("Rating")
+    t = compact_detail_title(disp, labels)
 
-    subject = (genre_txt + " " if genre_txt else "") + ind + " " + kind
+    subject = (natural_join(genres) + " " if genre_txt else "") + kind
     article = "an" if subject[:1].lower() in "aeiou" else "a"
     d = "%s is %s %s." % (disp, article, subject)
-    if has_bo:
-        d = append_meta(d, "India Net box office collection: %s." %
-                        fmt_money(total_in))
-        if has_overseas:
-            d = append_meta(d, "Overseas collection: %s." %
-                            fmt_money(total_ov))
-    elif overview:
-        d = append_meta(d, overview)
-    if budget > 0:
-        d = append_meta(d, "Budget: %s." % fmt_money(budget))
-    if rating and votes:
-        d = append_meta(d, "TMDB rating: %.1f/10." % rating)
+    details = ["cast and story" if has_story else "cast"]
     if is_tv:
-        seasons = int(_number(entry.get("number_of_seasons")))
-        episodes = int(_number(entry.get("number_of_episodes")))
         if seasons:
-            d = append_meta(d, "%d seasons listed." % seasons)
+            details.append("%d season%s" % (seasons, "s" if seasons != 1 else ""))
         if episodes:
-            d = append_meta(d, "%d episodes listed." % episodes)
-    elif release_date and not has_bo and not overview:
-        d = append_meta(d, "Release date: %s." % release_date)
+            details.append("%d episodes" % episodes)
+    else:
+        if has_bo:
+            detail = "box office collection: India Net %s" % fmt_money(total_in)
+            if has_overseas:
+                detail += ", overseas %s" % fmt_money(total_ov)
+            details.append(detail)
+        if budget > 0:
+            details.append("budget %s" % fmt_money(budget))
+        if has_review:
+            review_label = "review"
+            if review_score > 0:
+                review_label += " %s/10" % ("%.1f" % review_score).rstrip("0").rstrip(".")
+            details.append(review_label)
+    if rating and votes:
+        details.append("TMDB rating %.1f/10" % rating)
+    if release_date:
+        date_label = "first air date" if is_tv else "release date"
+        details.append("%s %s" % (date_label, human_date(release_date)))
+    d = append_detail_list(d, details)
 
     kws = [title]
     if title:
+        kws.append("%s TV series" % title if is_tv else "%s movie" % title)
         kws.append("%s cast" % title)
-    if overview:
+    if has_story:
         kws.append("%s story" % title)
-    if release_date:
-        kws.append("%s release date" % title)
-    if has_bo:
+    if is_tv:
+        if seasons:
+            kws.extend(["%s seasons" % title, "%s season %d" % (title, seasons)])
+        if episodes:
+            kws.extend(["%s episodes" % title, "%s %d episodes" % (title, episodes)])
+    elif has_bo:
         kws.append("%s box office collection" % title)
     if budget > 0:
         kws.append("%s budget" % title)
+    if has_review:
+        kws.append("%s review" % title)
     if rating and votes:
         kws.append("%s rating" % title)
+    if release_date:
+        kws.append("%s %s" % (title, "first air date" if is_tv else "release date"))
     if entry.get("trailer"):
         kws.append("%s trailer" % title)
+    kws.extend("%s %s" % (title, genre) for genre in genres)
     if is_tv:
-        kws.append("%s episodes" % title)
-        if (entry.get("number_of_seasons") or 0) > 1:
-            kws.append("%s season %d" % (title, int(_number(entry["number_of_seasons"]))))
         if entry.get("industry") == "pakistani":
             kws.append("Pakistani dramas")
         else:
@@ -374,7 +492,7 @@ def title_meta(entry):
                     "pakistani": "Pakistani movies"}.get(
                         entry.get("industry"), "movies"))
     kws.append("FlickAtlas")
-    kws = unique_keywords(kws, 9)
+    kws = unique_keywords(kws, 14)
 
     ld = {
         "@context": "https://schema.org",
@@ -403,10 +521,10 @@ def title_meta(entry):
             "worstRating": 0,
         }
     if is_tv:
-        if entry.get("number_of_seasons"):
-            ld["numberOfSeasons"] = entry["number_of_seasons"]
-        if entry.get("number_of_episodes"):
-            ld["numberOfEpisodes"] = entry["number_of_episodes"]
+        if seasons:
+            ld["numberOfSeasons"] = seasons
+        if episodes:
+            ld["numberOfEpisodes"] = episodes
     else:
         if entry.get("runtime"):
             ld["duration"] = "PT%dM" % int(entry["runtime"])
@@ -656,13 +774,21 @@ def build_robots():
 
 
 def main():
-    global PUBLISHED, ARTICLES, DAYWISE
+    global PUBLISHED, ARTICLES, DAYWISE, REVIEWS, EPISODE_TRACKER
     PUBLISHED = read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
                             "FA_PUBLISHED")
     ARTICLES = read_js_map(os.path.join(ROOT, "js", "articles-data.js"),
                            "FA_ARTICLES")
     DAYWISE = read_js_map(os.path.join(ROOT, "js", "daywise-data.js"),
                           "FA_DAYWISE")
+    REVIEWS = read_js_map(os.path.join(ROOT, "js", "reviews-data.js"),
+                          "FA_REVIEWS")
+    try:
+        with open(os.path.join(ROOT, "out", "episodes.json"),
+                  encoding="utf-8") as f:
+            EPISODE_TRACKER = json.load(f)
+    except (OSError, ValueError):
+        EPISODE_TRACKER = {"episodes": {}}
     for e in ARTICLES.values():
         e["_pub"] = parse_date(e.get("published"))
 
