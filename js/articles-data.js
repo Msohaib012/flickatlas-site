@@ -20446,5 +20446,188 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 05:21:53 +0000"
+  },
+  "5xb7vb": {
+    "id": "5xb7vb",
+    "type": "news",
+    "headline": "Rishab Shetty And Sandeep Singh Team Up For Two-Part Shivaji Maharaj Epic",
+    "dek": "Acclaimed actor and filmmaker Rishab Shetty is set to portray the legendary Maratha king Chhatrapati Shivaji Maharaj in an ambitious two-part historical film directed by Sandeep Singh.",
+    "body": [
+      {
+        "h": "A Grand Historical Announcement",
+        "p": [
+          "Rishab Shetty has officially joined forces with director Sandeep Singh to bring the life of the legendary 17th-century Maratha warrior king to the big screen. The monumental project is titled The Pride of Bharat: Chhatrapati Shivaji Maharaj and is envisioned as a grand two-part cinematic saga.",
+          "The announcement was made jointly by the actor, director, and producer Bhushan Kumar, accompanied by a striking portrait of the historical monarch. The creative team highlighted the deep historical significance of the venture, emphasizing that Swarajya was a foundational vision that shaped history."
+        ]
+      },
+      {
+        "h": "Production Timeline And Collaborators",
+        "p": [
+          "Makers of the ambitious period drama have confirmed that the film will officially go on floors in early 2027. This high-profile collaboration brings together prominent industry names, with T-Series backing the venture under the production of Bhushan Kumar.",
+          "For director Sandeep Singh, this monumental venture marks his debut as a feature film director. The production is slated to be released in multiple languages to cater to a widespread audience eager for grand historical storytelling."
+        ]
+      },
+      {
+        "h": "Stellar Cast And Crew Lineup",
+        "p": [
+          "Alongside Rishab Shetty, who takes on the central titular role of the Maratha ruler, the period drama features a robust supporting cast including Arjun Rampal and Vivek Oberoi in pivotal characters.",
+          "The musical landscape of the movie is set to be composed by Amit Trivedi. This project marks a significant milestone for the composer as it will be his very first Hindi historical feature film."
+        ]
+      },
+      {
+        "h": "Roots And Background Of The Project",
+        "p": [
+          "The sweeping biographical drama was initially launched shortly before the 394th birth anniversary of Shivaji Maharaj in February 2024. The film aims to chronicle the extraordinary legacy and life of the visionary leader who successfully established the Maratha kingdom.",
+          "Given the scale of the production, the two-part format is designed to thoroughly explore the historical milestones, battles, and administrative brilliance that defined the era of the revered monarch."
+        ]
+      },
+      {
+        "h": "Rishab Shetty's Upcoming Mythological Venture",
+        "p": [
+          "Apart from his commitment to the historical epic about Shivaji Maharaj, Rishab Shetty is actively preparing for another massive cinematic endeavor titled Jai Hanuman. That mythological project is being directed by Prasanth Varma, known for his work on HanuMan.",
+          "In Jai Hanuman, Shetty is set to portray Lord Hanuman. The cast for that particular mythological epic also includes Rana Daggubati, with Teja Sajja anticipated to make a special appearance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rishab Shetty will play Chhatrapati Shivaji Maharaj in a two-part historical epic directed by Sandeep Singh and produced by Bhushan Kumar, with production starting in early 2027. The multilingual project features a supporting cast including Arjun Rampal and Vivek Oberoi, alongside music by Amit Trivedi."
+        ]
+      }
+    ],
+    "facts": [
+      "Rishab Shetty is starring as Chhatrapati Shivaji Maharaj in a two-part historical epic.",
+      "The film is directed by Sandeep Singh and produced by Bhushan Kumar.",
+      "The project is scheduled to go on floors in early 2027.",
+      "The film was launched ahead of Shivaji Maharaj's 394th birth anniversary in February 2024.",
+      "Arjun Rampal and Vivek Oberoi are cast in pivotal roles.",
+      "Amit Trivedi is handling the music composition for the film.",
+      "Rishab Shetty is also set to star as Lord Hanuman in Jai Hanuman directed by Prasanth Varma."
+    ],
+    "entities": {
+      "people": [
+        "Rishab Shetty",
+        "Sandeep Singh",
+        "Bhushan Kumar",
+        "Arjun Rampal",
+        "Vivek Oberoi",
+        "Amit Trivedi",
+        "Prasanth Varma",
+        "Rana Daggubati",
+        "Teja Sajja"
+      ],
+      "titles": [
+        "The Pride of Bharat: Chhatrapati Shivaji Maharaj",
+        "Jai Hanuman",
+        "HanuMan"
+      ]
+    },
+    "keywords": [
+      "Rishab Shetty Shivaji Maharaj film",
+      "The Pride of Bharat Chhatrapati Shivaji Maharaj",
+      "Sandeep Singh director Shivaji movie",
+      "Rishab Shetty upcoming movies"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135348231,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rishab Shetty And Sandeep Singh Team Up For Two-Part Shivaji Maharaj Epic",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-30T12:12:10+05:30"
+  },
+  "1i47ew7": {
+    "id": "1i47ew7",
+    "type": "news",
+    "headline": "Mirzapur The Movie Lands on Prime Video with Extended Cut and Extra Footage",
+    "dek": "The crime thriller arrives on streaming with nearly fifteen minutes of additional scenes following a successful theatrical run.",
+    "body": [
+      {
+        "h": "Streaming Debut of the Theatrical Hit",
+        "p": [
+          "The world of Kaleen Bhaiya is back on digital screens as the feature-length adaptation of the popular crime thriller makes its premiere on Amazon Prime Video. Viewers can now stream the film in India and internationally, marking the next chapter for a property that originally began as an acclaimed streaming series.",
+          "The digital rollout occurs approximately eight weeks after the project first opened in cinemas on September 4, allowing the production to complete a substantial theatrical window before shifting to home viewing platforms."
+        ]
+      },
+      {
+        "h": "Extended Cut Details and New Footage",
+        "p": [
+          "Audiences tuning in to the digital version are treated to an extended cut that incorporates roughly fifteen minutes of additional scenes not seen during the theatrical run. This addition extends the total viewing time from about 3 hours and 17 minutes to nearly 3 hours and 31 minutes.",
+          "While creators have indicated that the extra runtime includes never-before-seen footage, specific details regarding the newly added sequences remain undisclosed, offering both returning fans and newcomers a fresh viewing experience."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Narrative Timeline",
+        "p": [
+          "Helmed by director Gurmmeet Singh and penned by writer Puneet Krishna, the cinematic project brings back familiar faces from the franchise. Pankaj Tripathi returns as Kaleen Bhaiya, alongside Ali Fazal as Guddu Pandit and Divyenndu as Munna Tripathi, accompanied by performances from Jitendra Kumar and Ravi Kishan.",
+          "The narrative is positioned within the timeline of the first season, revisiting the brutal territorial conflicts of Purvanchal. Production duties were handled by Ritesh Sidhwani and Farhan Akhtar through Excel Entertainment in partnership with Amazon MGM Studios."
+        ]
+      },
+      {
+        "h": "Theatrical Box Office Milestones",
+        "p": [
+          "The project proved that a digital-first property could successfully transition to the big screen, achieving strong commercial numbers during its run. It opened with an India net collection of ₹25.75 crore and maintained solid momentum through its opening weekend.",
+          "By its third week, the film surpassed ₹300 crore globally, eventually concluding its worldwide theatrical run with a total of ₹339.84 crore alongside strong ticket sales on BookMyShow."
+        ]
+      },
+      {
+        "h": "Franchise History and Streaming Records",
+        "p": [
+          "The digital arrival follows a history of major viewership milestones for the franchise on Prime Video. Previous installments, notably Season 3 released on July 5, 2024, set records as the platform's most-watched launch weekend title in India at the time.",
+          "That season registered engagement across almost all domestic pin codes and numerous international territories, cementing its status as one of India's major digital originals and paving the way for the development of Season 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mirzapur: The Movie has debuted on Amazon Prime Video with an extended cut featuring fifteen minutes of extra footage following its theatrical release. The film arrives after grossing ₹339.84 crore worldwide, giving fans a new version of the crime thriller ahead of the upcoming Season 4."
+        ]
+      }
+    ],
+    "facts": [
+      "Mirzapur: The Movie was released in theaters on September 4, 2026.",
+      "The film made its OTT debut on Amazon Prime Video on October 30, 2026.",
+      "The extended cut adds nearly 15 minutes of footage, bringing the runtime to nearly 3 hours and 31 minutes.",
+      "The film grossed ₹339.84 crore worldwide during its theatrical run.",
+      "Opening day India net collection was ₹25.75 crore.",
+      "Season 3 of the show was released on July 5, 2024.",
+      "Directors and writers include Gurmmeet Singh and Puneet Krishna, with a cast featuring Pankaj Tripathi, Ali Fazal, and Divyenndu."
+    ],
+    "entities": {
+      "people": [
+        "Kaleen Bhaiya",
+        "Guddu Pandit",
+        "Munna Tripathi",
+        "Gurmmeet Singh",
+        "Puneet Krishna",
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "Divyenndu",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "Ritesh Sidhwani",
+        "Farhan Akhtar"
+      ],
+      "titles": [
+        "Mirzapur The Movie",
+        "Mirzapur"
+      ]
+    },
+    "keywords": [
+      "Mirzapur The Movie OTT release",
+      "Mirzapur Prime Video extended cut",
+      "Kaleen Bhaiya film streaming",
+      "Mirzapur box office collection",
+      "Pankaj Tripathi Mirzapur movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028266.jpg",
+        "caption": "Mirzapur The Movie Lands on Prime Video with Extended Cut and Extra Footage",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 30 Oct 2026 07:37:56 +0000"
   }
 };
