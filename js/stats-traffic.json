@@ -1,6 +1,6 @@
 {
   "connected": true,
-  "generated": "2026-10-31T20:05:53Z",
+  "generated": "2026-10-31T21:51:45Z",
   "realtime": {
     "active_users": 0
   },
@@ -11,10 +11,10 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 106,
-    "pageviews": 835,
-    "sessions": 182,
-    "avg_session_seconds": 422.6
+    "users": 109,
+    "pageviews": 842,
+    "sessions": 186,
+    "avg_session_seconds": 414.4
   },
   "top_pages": [
     {
@@ -36,16 +36,16 @@
       "avg_time_seconds": 47.0
     },
     {
+      "path": "/",
+      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
+      "views": 35,
+      "avg_time_seconds": 28.5
+    },
+    {
       "path": "/movies",
       "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
       "views": 34,
       "avg_time_seconds": 112.6
-    },
-    {
-      "path": "/",
-      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 32,
-      "avg_time_seconds": 25.9
     },
     {
       "path": "/box-office",
@@ -88,8 +88,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 23,
-      "users": 8
+      "sessions": 27,
+      "users": 11
     },
     {
       "source": "(not set)",
@@ -105,7 +105,7 @@
     },
     {
       "country": "India",
-      "users": 10
+      "users": 13
     },
     {
       "country": "(not set)",
@@ -147,7 +147,11 @@
     },
     {
       "device": "mobile",
-      "users": 23
+      "users": 25
+    },
+    {
+      "device": "tablet",
+      "users": 1
     }
   ],
   "per_post": {}
