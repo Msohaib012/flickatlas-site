@@ -272,7 +272,7 @@
   "year": "2026"
  },
  "daywise:1269325": {
-  "d": "Drishyam: The Conclusion (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $39.49M. Overseas total: $14.72M.",
+  "d": "Drishyam: The Conclusion (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $39.49M. Overseas total: $14.77M.",
   "day_rows": [
    {
     "d": "Drishyam: The Conclusion (2026) box office Day 1 (2026-10-02): India Net $5.82M. Overseas: $1.95M.",
@@ -295,7 +295,7 @@
     "day": 4
    },
    {
-    "d": "Drishyam: The Conclusion (2026) box office Day 5 (2026-10-06): India Net $2.12M. Overseas: $898.0k.",
+    "d": "Drishyam: The Conclusion (2026) box office Day 5 (2026-10-06): India Net $2.12M. Overseas: $950.9k.",
     "date": "2026-10-06",
     "day": 5
    },
@@ -457,7 +457,7 @@
   },
   "t": "Drishyam: The Conclusion (2026)",
   "total_in": 39485471.0,
-  "total_ov": 14717376.0,
+  "total_ov": 14770203.0,
   "year": "2026"
  },
  "daywise:1283515": {
@@ -2415,6 +2415,41 @@
   "t": "Avengers: Doomsday (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1007757": {
+  "d": "Swapped (2026): Adventure/Animation film. Story: A small woodland creature and a majestic bird, two… See cast, budget $7, and TMDB rating 8.8/10.",
+  "img": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+  "industry": "world",
+  "k": "Swapped, Swapped movie, Swapped cast, Swapped story, Swapped box office collection, Swapped budget, Swapped review, Swapped rating, Swapped release date, Swapped trailer, Swapped Adventure, Swapped Animation, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2282,
+    "ratingValue": 8.8,
+    "worstRating": 0
+   },
+   "description": "Swapped (2026): Adventure/Animation film. Story: A small woodland creature and a majestic bird, two… See cast, budget $7, and TMDB rating 8.8/10.",
+   "duration": "PT102M",
+   "genre": [
+    "Adventure",
+    "Animation"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1007757",
+   "name": "Swapped",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-05-01"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1007757"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Swapped (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1022453": {
   "d": "The Rajasaab (2026): Fantasy/Horror film. Story: Seeking his lost grandfather, a young man enters a… See cast, budget $50M, and TMDB rating 4.8/10.",
   "img": "https://image.tmdb.org/t/p/w780/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
@@ -2448,6 +2483,41 @@
   "modified": "",
   "published": "2026-10-31",
   "t": "The Rajasaab (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1032863": {
+  "d": "The Love Hypothesis (2026): Romance/Comedy film. Story: Olive Smith, a biology PhD candidate, and Dr. Adam… See cast and TMDB rating 7.9/10.",
+  "img": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+  "industry": "world",
+  "k": "The Love Hypothesis, The Love Hypothesis movie, The Love Hypothesis cast, The Love Hypothesis story, The Love Hypothesis box office collection, The Love Hypothesis budget, The Love Hypothesis review, The Love Hypothesis rating, The Love Hypothesis release date, The Love Hypothesis trailer, The Love Hypothesis Romance, The Love Hypothesis Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 692,
+    "ratingValue": 7.9,
+    "worstRating": 0
+   },
+   "description": "The Love Hypothesis (2026): Romance/Comedy film. Story: Olive Smith, a biology PhD candidate, and Dr. Adam… See cast and TMDB rating 7.9/10.",
+   "duration": "PT112M",
+   "genre": [
+    "Romance",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1032863",
+   "name": "The Love Hypothesis",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-09-23"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1032863"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Love Hypothesis (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1046304": {
@@ -2660,6 +2730,41 @@
   "t": "Eko (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1081003": {
+  "d": "Supergirl (2026): Action/Adventure film. Story: When an unexpected and ruthless adversary strikes too… See cast, budget $175M, and TMDB rating 6.6/10.",
+  "img": "https://image.tmdb.org/t/p/w780/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+  "industry": "world",
+  "k": "Supergirl, Supergirl movie, Supergirl cast, Supergirl story, Supergirl box office collection, Supergirl budget, Supergirl review, Supergirl rating, Supergirl release date, Supergirl trailer, Supergirl Action, Supergirl Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2676,
+    "ratingValue": 6.6,
+    "worstRating": 0
+   },
+   "description": "Supergirl (2026): Action/Adventure film. Story: When an unexpected and ruthless adversary strikes too… See cast, budget $175M, and TMDB rating 6.6/10.",
+   "duration": "PT108M",
+   "genre": [
+    "Action",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1081003",
+   "name": "Supergirl",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-26"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1081003"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Supergirl (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1081010": {
   "d": "Prahaar: The Untold Story of Ujjwal Nikam (2026): Crime/Drama film. Story: Public prosecutor Ujjwal Nikam takes on one of the… See cast and review 7.5/10.",
   "img": "https://image.tmdb.org/t/p/w780/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
@@ -2693,6 +2798,41 @@
   "modified": "",
   "published": "2026-10-27",
   "t": "Prahaar: The Untold Story of Ujjwal Nikam (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1083381": {
+  "d": "Backrooms (2026): Horror/Mystery film. Story: A strange doorway appears in the basement of a… See cast, budget $10M, and TMDB rating 7.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+  "industry": "world",
+  "k": "Backrooms, Backrooms movie, Backrooms cast, Backrooms story, Backrooms box office collection, Backrooms budget, Backrooms review, Backrooms rating, Backrooms release date, Backrooms trailer, Backrooms Horror, Backrooms Mystery, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3946,
+    "ratingValue": 7.0,
+    "worstRating": 0
+   },
+   "description": "Backrooms (2026): Horror/Mystery film. Story: A strange doorway appears in the basement of a… See cast, budget $10M, and TMDB rating 7.0/10.",
+   "duration": "PT111M",
+   "genre": [
+    "Horror",
+    "Mystery"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1083381",
+   "name": "Backrooms",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-12"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1083381"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Backrooms (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1083637": {
@@ -2729,6 +2869,76 @@
   "published": "2026-10-30",
   "t": "Kantara - A Legend: Chapter 1 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
+ },
+ "movie:1084242": {
+  "d": "Zootopia 2 (2025): Animation/Adventure film. Story: After cracking the biggest case in Zootopia's… See cast, budget $150M, and TMDB rating 7.7/10.",
+  "img": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+  "industry": "world",
+  "k": "Zootopia 2, Zootopia 2 movie, Zootopia 2 cast, Zootopia 2 story, Zootopia 2 box office collection, Zootopia 2 budget, Zootopia 2 review, Zootopia 2 rating, Zootopia 2 release date, Zootopia 2 trailer, Zootopia 2 Animation, Zootopia 2 Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3638,
+    "ratingValue": 7.7,
+    "worstRating": 0
+   },
+   "description": "Zootopia 2 (2025): Animation/Adventure film. Story: After cracking the biggest case in Zootopia's… See cast, budget $150M, and TMDB rating 7.7/10.",
+   "duration": "PT108M",
+   "genre": [
+    "Animation",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1084242",
+   "name": "Zootopia 2",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2025-11-28"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1084242"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Zootopia 2 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2025"
+ },
+ "movie:1084244": {
+  "d": "Toy Story 5 (2026): Animation/Family film. Story: When Bonnie receives a Lilypad tablet as a gift and… See cast, budget $250M, and TMDB rating 8.3/10.",
+  "img": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+  "industry": "world",
+  "k": "Toy Story 5, Toy Story 5 movie, Toy Story 5 cast, Toy Story 5 story, Toy Story 5 box office collection, Toy Story 5 budget, Toy Story 5 review, Toy Story 5 rating, Toy Story 5 release date, Toy Story 5 trailer, Toy Story 5 Animation, Toy Story 5 Family, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2768,
+    "ratingValue": 8.3,
+    "worstRating": 0
+   },
+   "description": "Toy Story 5 (2026): Animation/Family film. Story: When Bonnie receives a Lilypad tablet as a gift and… See cast, budget $250M, and TMDB rating 8.3/10.",
+   "duration": "PT102M",
+   "genre": [
+    "Animation",
+    "Family"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1084244",
+   "name": "Toy Story 5",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1084244"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Toy Story 5 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
  },
  "movie:1084409": {
   "d": "A Talent for Murder (2026): Drama/Crime film. Story: A young man travels from New York to Switzerland to… See cast, review 6.5/10, and TMDB rating 6.0/10.",
@@ -2797,6 +3007,41 @@
   "modified": "",
   "published": "2026-10-26",
   "t": "Fall 2: Deadpoint (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1108427": {
+  "d": "Moana (2026): Family/Fantasy film. Story: Teenage Moana answers the Ocean's call and, for the… See cast, budget $250M, and TMDB rating 7.5/10.",
+  "img": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+  "industry": "world",
+  "k": "Moana, Moana movie, Moana cast, Moana story, Moana box office collection, Moana budget, Moana review, Moana rating, Moana release date, Moana trailer, Moana Family, Moana Fantasy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 998,
+    "ratingValue": 7.5,
+    "worstRating": 0
+   },
+   "description": "Moana (2026): Family/Fantasy film. Story: Teenage Moana answers the Ocean's call and, for the… See cast, budget $250M, and TMDB rating 7.5/10.",
+   "duration": "PT115M",
+   "genre": [
+    "Family",
+    "Fantasy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1108427",
+   "name": "Moana",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-07-10"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1108427"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Moana (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1109086": {
@@ -3000,6 +3245,41 @@
   "published": "2026-10-31",
   "t": "The Diplomat (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
+ },
+ "movie:1148365": {
+  "d": "Matchbox the Movie (2026): Action/Comedy film. Story: When a group of former childhood friends reconnect… See cast and TMDB rating 7.7/10.",
+  "img": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+  "industry": "world",
+  "k": "Matchbox the Movie, Matchbox the Movie movie, Matchbox the Movie cast, Matchbox the Movie story, Matchbox the Movie box office collection, Matchbox the Movie budget, Matchbox the Movie review, Matchbox the Movie rating, Matchbox the Movie release date, Matchbox the Movie trailer, Matchbox the Movie Action, Matchbox the Movie Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 554,
+    "ratingValue": 7.7,
+    "worstRating": 0
+   },
+   "description": "Matchbox the Movie (2026): Action/Comedy film. Story: When a group of former childhood friends reconnect… See cast and TMDB rating 7.7/10.",
+   "duration": "PT127M",
+   "genre": [
+    "Action",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1148365",
+   "name": "Matchbox the Movie",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-05"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1148365"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Matchbox the Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
  },
  "movie:1153399": {
   "d": "Coolie (2025): Action/Thriller film. Story: Deva, once living a quiet life, is shaken when his… See cast, budget $43M, and TMDB rating 6.2/10.",
@@ -3510,6 +3790,40 @@
   "t": "Bad Apples (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1212763": {
+  "d": "Evil Dead Burn (2026): Horror film. Story: After her husband's abrupt death, Alice seeks solace… See cast, budget $20M, and TMDB rating 7.6/10.",
+  "img": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+  "industry": "world",
+  "k": "Evil Dead Burn, Evil Dead Burn movie, Evil Dead Burn cast, Evil Dead Burn story, Evil Dead Burn box office collection, Evil Dead Burn budget, Evil Dead Burn review, Evil Dead Burn rating, Evil Dead Burn release date, Evil Dead Burn trailer, Evil Dead Burn Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1858,
+    "ratingValue": 7.6,
+    "worstRating": 0
+   },
+   "description": "Evil Dead Burn (2026): Horror film. Story: After her husband's abrupt death, Alice seeks solace… See cast, budget $20M, and TMDB rating 7.6/10.",
+   "duration": "PT110M",
+   "genre": [
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1212763",
+   "name": "Evil Dead Burn",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-07-10"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1212763"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Evil Dead Burn (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1213898": {
   "d": "Border 2 (2026): Action/Drama film. Story: Three idealistic soldiers in the Indian army, navy… See cast, budget $33M, review 6.5/10, and TMDB rating 7.5/10.",
   "img": "https://image.tmdb.org/t/p/w780/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
@@ -3650,6 +3964,41 @@
   "t": "Superboys of Malegaon (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1226863": {
+  "d": "The Super Mario Galaxy Movie (2026): Family/Comedy film. Story: Having thwarted Bowser's previous plot to marry… See cast, budget $110M, and TMDB rating 8.2/10.",
+  "img": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "industry": "world",
+  "k": "The Super Mario Galaxy Movie, The Super Mario Galaxy Movie movie, The Super Mario Galaxy Movie cast, The Super Mario Galaxy Movie story, The Super Mario Galaxy Movie box office collection, The Super Mario Galaxy Movie budget, The Super Mario Galaxy Movie review, The Super Mario Galaxy Movie rating, The Super Mario Galaxy Movie release date, The Super Mario Galaxy Movie trailer, The Super Mario Galaxy Movie Family, The Super Mario Galaxy Movie Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3923,
+    "ratingValue": 8.2,
+    "worstRating": 0
+   },
+   "description": "The Super Mario Galaxy Movie (2026): Family/Comedy film. Story: Having thwarted Bowser's previous plot to marry… See cast, budget $110M, and TMDB rating 8.2/10.",
+   "duration": "PT98M",
+   "genre": [
+    "Family",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1226863",
+   "name": "The Super Mario Galaxy Movie",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-04-01"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1226863"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Super Mario Galaxy Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1227128": {
   "d": "Raid 2 (2025): Crime/Drama film. Story: Set seven years after the events of the first film… See cast, TMDB rating 6.4/10, and release date 1 May 2025.",
   "img": "https://image.tmdb.org/t/p/w780/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
@@ -3718,6 +4067,76 @@
   "published": "2026-10-31",
   "t": "Homebound (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
+ },
+ "movie:1228710": {
+  "d": "The Mandalorian and Grogu (2026): Action/Adventure film. Story: The evil Empire has fallen, and Imperial warlords… See cast and budget $165M.",
+  "img": "https://image.tmdb.org/t/p/w780/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+  "industry": "world",
+  "k": "The Mandalorian and Grogu, The Mandalorian and Grogu movie, The Mandalorian and Grogu cast, The Mandalorian and Grogu story, The Mandalorian and Grogu box office collection, The Mandalorian and Grogu budget, The Mandalorian and Grogu review, The Mandalorian and Grogu rating, The Mandalorian and Grogu release date, The Mandalorian and Grogu trailer, The Mandalorian and Grogu Action, The Mandalorian and Grogu Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1941,
+    "ratingValue": 7.5,
+    "worstRating": 0
+   },
+   "description": "The Mandalorian and Grogu (2026): Action/Adventure film. Story: The evil Empire has fallen, and Imperial warlords… See cast and budget $165M.",
+   "duration": "PT132M",
+   "genre": [
+    "Action",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1228710",
+   "name": "The Mandalorian and Grogu",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-05-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1228710"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Mandalorian and Grogu (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1232569": {
+  "d": "Pinocchio: Unstrung (2026): Horror/Fantasy film. Story: Influenced by a sinister Cricket and created by… See cast, budget $500.0k, and TMDB rating 6.5/10.",
+  "img": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+  "industry": "world",
+  "k": "Pinocchio: Unstrung, Pinocchio: Unstrung movie, Pinocchio: Unstrung cast, Pinocchio: Unstrung story, Pinocchio: Unstrung box office collection, Pinocchio: Unstrung budget, Pinocchio: Unstrung review, Pinocchio: Unstrung rating, Pinocchio: Unstrung release date, Pinocchio: Unstrung trailer, Pinocchio: Unstrung Horror, Pinocchio: Unstrung Fantasy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 153,
+    "ratingValue": 6.5,
+    "worstRating": 0
+   },
+   "description": "Pinocchio: Unstrung (2026): Horror/Fantasy film. Story: Influenced by a sinister Cricket and created by… See cast, budget $500.0k, and TMDB rating 6.5/10.",
+   "duration": "PT82M",
+   "genre": [
+    "Horror",
+    "Fantasy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1232569",
+   "name": "Pinocchio: Unstrung",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-07-22"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1232569"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Pinocchio: Unstrung (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
  },
  "movie:1233413": {
   "d": "Sinners (2025): Horror/Action film. Story: Trying to leave their troubled lives behind, twin… See cast, review 7.5/10, and TMDB rating 7.5/10.",
@@ -3857,6 +4276,41 @@
   "modified": "",
   "published": "2026-10-30",
   "t": "Jana Nayagan (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1236045": {
+  "d": "Animals (2026): Thriller/Drama film. Story: When the son of an L.A. mayoral candidate is… See cast, TMDB rating 7.0/10, and release date 9 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+  "industry": "world",
+  "k": "Animals, Animals movie, Animals cast, Animals story, Animals box office collection, Animals budget, Animals review, Animals rating, Animals release date, Animals trailer, Animals Thriller, Animals Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 656,
+    "ratingValue": 7.0,
+    "worstRating": 0
+   },
+   "description": "Animals (2026): Thriller/Drama film. Story: When the son of an L.A. mayoral candidate is… See cast, TMDB rating 7.0/10, and release date 9 October 2026.",
+   "duration": "PT106M",
+   "genre": [
+    "Thriller",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1236045",
+   "name": "Animals",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-09"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1236045"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Animals (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1239134": {
@@ -4104,6 +4558,75 @@
   "t": "Dragon (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1273221": {
+  "d": "Scary Movie (2026): Comedy film. Story: Twenty-six years after outrunning a suspiciously… See cast, budget $30M, and TMDB rating 6.3/10.",
+  "img": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+  "industry": "world",
+  "k": "Scary Movie, Scary Movie movie, Scary Movie cast, Scary Movie story, Scary Movie box office collection, Scary Movie budget, Scary Movie review, Scary Movie rating, Scary Movie release date, Scary Movie trailer, Scary Movie Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2097,
+    "ratingValue": 6.3,
+    "worstRating": 0
+   },
+   "description": "Scary Movie (2026): Comedy film. Story: Twenty-six years after outrunning a suspiciously… See cast, budget $30M, and TMDB rating 6.3/10.",
+   "duration": "PT96M",
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1273221",
+   "name": "Scary Movie",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-03"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1273221"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Scary Movie (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1275779": {
+  "d": "Disclosure Day (2026): Science Fiction/Thriller film. Story: A cybersecurity expert becomes a whistleblower after… See cast and budget $115M.",
+  "img": "https://image.tmdb.org/t/p/w780/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+  "industry": "world",
+  "k": "Disclosure Day, Disclosure Day movie, Disclosure Day cast, Disclosure Day story, Disclosure Day box office collection, Disclosure Day budget, Disclosure Day review, Disclosure Day rating, Disclosure Day release date, Disclosure Day trailer, Disclosure Day Science Fiction, Disclosure Day Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3907,
+    "ratingValue": 7.4,
+    "worstRating": 0
+   },
+   "description": "Disclosure Day (2026): Science Fiction/Thriller film. Story: A cybersecurity expert becomes a whistleblower after… See cast and budget $115M.",
+   "duration": "PT146M",
+   "genre": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1275779",
+   "name": "Disclosure Day",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-12"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1275779"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Disclosure Day (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1283515": {
   "d": "Verity (2026): Mystery/Thriller film. Story: Lowen Ashleigh, hired to ghostwrite for best-selling… See cast, box office collection $1.13M, and budget $40M.",
   "img": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
@@ -4137,6 +4660,41 @@
   "modified": "",
   "published": "2026-10-28",
   "t": "Verity (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1288069": {
+  "d": "Tenzing (2026): Drama/History film. Story: A determined man embarks on a high-stakes quest—and… See cast, TMDB rating 8.3/10, and release date 9 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+  "industry": "world",
+  "k": "Tenzing, Tenzing movie, Tenzing cast, Tenzing story, Tenzing box office collection, Tenzing budget, Tenzing review, Tenzing rating, Tenzing release date, Tenzing trailer, Tenzing Drama, Tenzing History, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 225,
+    "ratingValue": 8.3,
+    "worstRating": 0
+   },
+   "description": "Tenzing (2026): Drama/History film. Story: A determined man embarks on a high-stakes quest—and… See cast, TMDB rating 8.3/10, and release date 9 October 2026.",
+   "duration": "PT126M",
+   "genre": [
+    "Drama",
+    "History"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1288069",
+   "name": "Tenzing",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-09"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1288069"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Tenzing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1290035": {
@@ -4403,6 +4961,111 @@
   "t": "Jaat (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1311031": {
+  "d": "Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025): Animation/Action film. Story: The Demon Slayer Corps are drawn into the Infinity… See cast.",
+  "img": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+  "industry": "world",
+  "k": "Demon Slayer: Kimetsu no Yaiba Infinity Castle, Demon Slayer: Kimetsu no Yaiba Infinity Castle movie, Demon Slayer: Kimetsu no Yaiba Infinity Castle cast, Demon Slayer: Kimetsu no Yaiba Infinity Castle story, Demon Slayer: Kimetsu no Yaiba Infinity Castle box office collection, Demon Slayer: Kimetsu no Yaiba Infinity Castle budget, Demon Slayer: Kimetsu no Yaiba Infinity Castle review, Demon Slayer: Kimetsu no Yaiba Infinity Castle rating, Demon Slayer: Kimetsu no Yaiba Infinity Castle release date, Demon Slayer: Kimetsu no Yaiba Infinity Castle trailer, Demon Slayer: Kimetsu no Yaiba Infinity Castle Animation, Demon Slayer: Kimetsu no Yaiba Infinity Castle Action, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2359,
+    "ratingValue": 8.8,
+    "worstRating": 0
+   },
+   "description": "Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025): Animation/Action film. Story: The Demon Slayer Corps are drawn into the Infinity… See cast.",
+   "duration": "PT156M",
+   "genre": [
+    "Animation",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1311031",
+   "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2025-09-12"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1311031"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2025"
+ },
+ "movie:1315772": {
+  "d": "Minions & Monsters (2026): Adventure/Animation film. Story: This is the rambunctious, ridiculous and totally true… See cast and budget $85M.",
+  "img": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+  "industry": "world",
+  "k": "Minions & Monsters, Minions & Monsters movie, Minions & Monsters cast, Minions & Monsters story, Minions & Monsters box office collection, Minions & Monsters budget, Minions & Monsters review, Minions & Monsters rating, Minions & Monsters release date, Minions & Monsters trailer, Minions & Monsters Adventure, Minions & Monsters Animation, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1348,
+    "ratingValue": 7.6,
+    "worstRating": 0
+   },
+   "description": "Minions & Monsters (2026): Adventure/Animation film. Story: This is the rambunctious, ridiculous and totally true… See cast and budget $85M.",
+   "duration": "PT90M",
+   "genre": [
+    "Adventure",
+    "Animation"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1315772",
+   "name": "Minions & Monsters",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-07-01"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1315772"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Minions & Monsters (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1327819": {
+  "d": "Hoppers (2026): Animation/Adventure film. Story: Scientists have discovered how to 'hop' human… See cast, budget $150M, and TMDB rating 8.1/10.",
+  "img": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+  "industry": "world",
+  "k": "Hoppers, Hoppers movie, Hoppers cast, Hoppers story, Hoppers box office collection, Hoppers budget, Hoppers review, Hoppers rating, Hoppers release date, Hoppers trailer, Hoppers Animation, Hoppers Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2497,
+    "ratingValue": 8.1,
+    "worstRating": 0
+   },
+   "description": "Hoppers (2026): Animation/Adventure film. Story: Scientists have discovered how to 'hop' human… See cast, budget $150M, and TMDB rating 8.1/10.",
+   "duration": "PT104M",
+   "genre": [
+    "Animation",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1327819",
+   "name": "Hoppers",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-03-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1327819"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Hoppers (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1327835": {
   "d": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and release date 6 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/aWopAufKHvBP0dTfZgfjEav8Ryp.jpg",
@@ -4428,6 +5091,76 @@
   "modified": "",
   "published": "2026-10-27",
   "t": "Mookuthi Amman 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1339274": {
+  "d": "Don't Leave the Kids Alone (2026): Horror/Drama film. Story: A mother moves into a new house with her two… See cast and TMDB rating 6.8/10.",
+  "img": "https://image.tmdb.org/t/p/w780/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
+  "industry": "world",
+  "k": "Don't Leave the Kids Alone, Don't Leave the Kids Alone movie, Don't Leave the Kids Alone cast, Don't Leave the Kids Alone story, Don't Leave the Kids Alone box office collection, Don't Leave the Kids Alone budget, Don't Leave the Kids Alone review, Don't Leave the Kids Alone rating, Don't Leave the Kids Alone release date, Don't Leave the Kids Alone Horror, Don't Leave the Kids Alone Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 161,
+    "ratingValue": 6.8,
+    "worstRating": 0
+   },
+   "description": "Don't Leave the Kids Alone (2026): Horror/Drama film. Story: A mother moves into a new house with her two… See cast and TMDB rating 6.8/10.",
+   "duration": "PT97M",
+   "genre": [
+    "Horror",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1339274",
+   "name": "Don't Leave the Kids Alone",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-05-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1339274"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Don't Leave the Kids Alone (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1339713": {
+  "d": "Obsession (2026): Horror/Thriller film. Story: After breaking the mysterious \"One Wish Willow\" to… See cast, budget $750.0k, and TMDB rating 8.2/10.",
+  "img": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+  "industry": "world",
+  "k": "Obsession, Obsession movie, Obsession cast, Obsession story, Obsession box office collection, Obsession budget, Obsession review, Obsession rating, Obsession release date, Obsession trailer, Obsession Horror, Obsession Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 6430,
+    "ratingValue": 8.2,
+    "worstRating": 0
+   },
+   "description": "Obsession (2026): Horror/Thriller film. Story: After breaking the mysterious \"One Wish Willow\" to… See cast, budget $750.0k, and TMDB rating 8.2/10.",
+   "duration": "PT109M",
+   "genre": [
+    "Horror",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1339713",
+   "name": "Obsession",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-05-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1339713"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Obsession (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1339876": {
@@ -4463,6 +5196,41 @@
   "modified": "",
   "published": "2026-10-30",
   "t": "Mardaani 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1340206": {
+  "d": "Tuner (2026): Crime/Music film. Story: A gifted piano tuner's meticulous skills for tuning… See cast, budget $7M, and TMDB rating 7.6/10.",
+  "img": "https://image.tmdb.org/t/p/w780/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+  "industry": "world",
+  "k": "Tuner, Tuner movie, Tuner cast, Tuner story, Tuner box office collection, Tuner budget, Tuner review, Tuner rating, Tuner release date, Tuner trailer, Tuner Crime, Tuner Music, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 627,
+    "ratingValue": 7.6,
+    "worstRating": 0
+   },
+   "description": "Tuner (2026): Crime/Music film. Story: A gifted piano tuner's meticulous skills for tuning… See cast, budget $7M, and TMDB rating 7.6/10.",
+   "duration": "PT108M",
+   "genre": [
+    "Crime",
+    "Music"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1340206",
+   "name": "Tuner",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-05-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1340206"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Tuner (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1355228": {
@@ -4533,6 +5301,76 @@
   "modified": "",
   "published": "2026-10-30",
   "t": "Karuppu (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1368166": {
+  "d": "The Housemaid (2026): Mystery/Thriller film. Story: Trying to escape her past, Millie Calloway accepts a… See cast, budget $35M, and TMDB rating 7.3/10.",
+  "img": "https://image.tmdb.org/t/p/w780/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+  "industry": "world",
+  "k": "The Housemaid, The Housemaid movie, The Housemaid cast, The Housemaid story, The Housemaid box office collection, The Housemaid budget, The Housemaid review, The Housemaid rating, The Housemaid release date, The Housemaid trailer, The Housemaid Mystery, The Housemaid Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3293,
+    "ratingValue": 7.3,
+    "worstRating": 0
+   },
+   "description": "The Housemaid (2026): Mystery/Thriller film. Story: Trying to escape her past, Millie Calloway accepts a… See cast, budget $35M, and TMDB rating 7.3/10.",
+   "duration": "PT131M",
+   "genre": [
+    "Mystery",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1368166",
+   "name": "The Housemaid",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-01-01"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1368166"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Housemaid (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1368337": {
+  "d": "The Odyssey (2026): Adventure/Action film. Story: Odysseus, the legendary King of Ithaca, embarks on a… See cast, budget $250M, and TMDB rating 8.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+  "industry": "world",
+  "k": "The Odyssey, The Odyssey movie, The Odyssey cast, The Odyssey story, The Odyssey box office collection, The Odyssey budget, The Odyssey review, The Odyssey rating, The Odyssey release date, The Odyssey trailer, The Odyssey Adventure, The Odyssey Action, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 4314,
+    "ratingValue": 8.0,
+    "worstRating": 0
+   },
+   "description": "The Odyssey (2026): Adventure/Action film. Story: Odysseus, the legendary King of Ithaca, embarks on a… See cast, budget $250M, and TMDB rating 8.0/10.",
+   "duration": "PT173M",
+   "genre": [
+    "Adventure",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1368337",
+   "name": "The Odyssey",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-07-17"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1368337"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Odyssey (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1371730": {
@@ -4630,6 +5468,41 @@
   "modified": "",
   "published": "2026-10-23",
   "t": "Udta Teer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1375646": {
+  "d": "Colony (2026): Horror/Action film. Story: Professor Se-jeong is thrust into a bloody nightmare… See cast, budget $12M, and TMDB rating 8.2/10.",
+  "img": "https://image.tmdb.org/t/p/w780/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+  "industry": "world",
+  "k": "Colony, Colony movie, Colony cast, Colony story, Colony box office collection, Colony budget, Colony review, Colony rating, Colony release date, Colony trailer, Colony Horror, Colony Action, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1462,
+    "ratingValue": 8.2,
+    "worstRating": 0
+   },
+   "description": "Colony (2026): Horror/Action film. Story: Professor Se-jeong is thrust into a bloody nightmare… See cast, budget $12M, and TMDB rating 8.2/10.",
+   "duration": "PT123M",
+   "genre": [
+    "Horror",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1375646",
+   "name": "Colony",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1375646"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Colony (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1376400": {
@@ -4735,6 +5608,104 @@
   "published": "2026-10-27",
   "t": "Shutterspeed (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
+ },
+ "movie:1381071": {
+  "d": "Godzilla Minus Zero (2026): Science Fiction/Horror film. Story: War reduced Japan to zero, and Godzilla plunged it… See cast and release date 3 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+  "industry": "world",
+  "k": "Godzilla Minus Zero, Godzilla Minus Zero movie, Godzilla Minus Zero cast, Godzilla Minus Zero story, Godzilla Minus Zero box office collection, Godzilla Minus Zero budget, Godzilla Minus Zero review, Godzilla Minus Zero rating, Godzilla Minus Zero release date, Godzilla Minus Zero trailer, Godzilla Minus Zero Science Fiction, Godzilla Minus Zero Horror, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Godzilla Minus Zero (2026): Science Fiction/Horror film. Story: War reduced Japan to zero, and Godzilla plunged it… See cast and release date 3 November 2026.",
+   "duration": "PT135M",
+   "genre": [
+    "Science Fiction",
+    "Horror"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1381071",
+   "name": "Godzilla Minus Zero",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-03"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1381071"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Godzilla Minus Zero (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1381078": {
+  "d": "Love of Your Life (2026): Romance/Drama film. Story: After a chance encounter sparks a sweeping romance… See cast and TMDB rating 6.8/10.",
+  "img": "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+  "industry": "world",
+  "k": "Love of Your Life, Love of Your Life movie, Love of Your Life cast, Love of Your Life story, Love of Your Life box office collection, Love of Your Life budget, Love of Your Life review, Love of Your Life rating, Love of Your Life release date, Love of Your Life trailer, Love of Your Life Romance, Love of Your Life Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 183,
+    "ratingValue": 6.8,
+    "worstRating": 0
+   },
+   "description": "Love of Your Life (2026): Romance/Drama film. Story: After a chance encounter sparks a sweeping romance… See cast and TMDB rating 6.8/10.",
+   "duration": "PT109M",
+   "genre": [
+    "Romance",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1381078",
+   "name": "Love of Your Life",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-07"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1381078"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Love of Your Life (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1384216": {
+  "d": "The Dog Stars (2026): Action/Thriller film. Story: After the world's population has been ravaged by a… See cast, budget $110M, and TMDB rating 7.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+  "industry": "world",
+  "k": "The Dog Stars, The Dog Stars movie, The Dog Stars cast, The Dog Stars story, The Dog Stars box office collection, The Dog Stars budget, The Dog Stars review, The Dog Stars rating, The Dog Stars release date, The Dog Stars trailer, The Dog Stars Action, The Dog Stars Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 629,
+    "ratingValue": 7.0,
+    "worstRating": 0
+   },
+   "description": "The Dog Stars (2026): Action/Thriller film. Story: After the world's population has been ravaged by a… See cast, budget $110M, and TMDB rating 7.0/10.",
+   "duration": "PT119M",
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1384216",
+   "name": "The Dog Stars",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-08-26"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1384216"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Dog Stars (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
  },
  "movie:1389149": {
   "d": "Accused (2026): Thriller/Mystery film. Story: When a celebrated queer doctor in London is accused… See cast, review 6.5/10, and TMDB rating 5.7/10.",
@@ -6386,6 +7357,34 @@
   "t": "Ghost Soldier (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1568063": {
+  "d": "Darshan (2026): Drama/Comedy film. Story: Abhinav feels trapped by his tight-knit Hindu… See cast and release date 1 June 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/94mEOVzskLkalpnxWwfzeQe5UaY.jpg",
+  "industry": "world",
+  "k": "Darshan, Darshan movie, Darshan cast, Darshan story, Darshan box office collection, Darshan budget, Darshan review, Darshan rating, Darshan release date, Darshan Drama, Darshan Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Darshan (2026): Drama/Comedy film. Story: Abhinav feels trapped by his tight-knit Hindu… See cast and release date 1 June 2026.",
+   "duration": "PT19M",
+   "genre": [
+    "Drama",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/94mEOVzskLkalpnxWwfzeQe5UaY.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1568063",
+   "name": "Darshan",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-06-01"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1568063"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Darshan (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1571955": {
   "d": "Collision Course (2026): Thriller/Drama film. Story: Spain, 2013. After robbing a bank, a getaway crash… See cast, review 6.5/10, and TMDB rating 10.0/10.",
   "img": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
@@ -7136,6 +8135,29 @@
   "t": "Orijinal (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1755818": {
+  "d": "Blind Game (2026) is a film. Story: A Cop, under suspension, is on the trail of Missing… See cast and release date 4 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/kO9q6StIAUBpfcKVtTSth7zOE2C.jpg",
+  "industry": "bollywood",
+  "k": "Blind Game, Blind Game movie, Blind Game cast, Blind Game story, Blind Game box office collection, Blind Game budget, Blind Game review, Blind Game rating, Blind Game release date, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Blind Game (2026) is a film. Story: A Cop, under suspension, is on the trail of Missing… See cast and release date 4 November 2026.",
+   "image": "https://image.tmdb.org/t/p/w500/kO9q6StIAUBpfcKVtTSth7zOE2C.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1755818",
+   "name": "Blind Game",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-04"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1755818"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Blind Game (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1756758": {
   "d": "Midnight Momo (2026): Comedy/Science Fiction film. Story: Kunga’s having a hell of a night. It’s 15 minutes to… See cast, review 8/10, and TMDB rating 10.0/10.",
   "img": "https://image.tmdb.org/t/p/w500/fSi1YdG0Te2CHUbyG05gCMCiz9w.jpg",
@@ -7320,6 +8342,33 @@
   "modified": "",
   "published": "2026-10-26",
   "t": "The Ordinary Star (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1783653": {
+  "d": "Shireen (2026): Drama film. Story: A young girl clings to the fragile routines of her… See cast, budget $3.0k, and release date 18 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/ppEKqOSIxhO4bz2E43REfkTYN3n.jpg",
+  "industry": "pakistani",
+  "k": "Shireen, Shireen movie, Shireen cast, Shireen story, Shireen box office collection, Shireen budget, Shireen review, Shireen rating, Shireen release date, Shireen Drama, Pakistani movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Shireen (2026): Drama film. Story: A young girl clings to the fragile routines of her… See cast, budget $3.0k, and release date 18 October 2026.",
+   "duration": "PT15M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ppEKqOSIxhO4bz2E43REfkTYN3n.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1783653",
+   "name": "Shireen",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-18"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1783653"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Shireen (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1785611": {
@@ -7997,6 +9046,33 @@
   "t": "Grace Comes Crashing (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1801510": {
+  "d": "Nirakar (2026): Animation film. Story: A multimedia meditation on the lives hidden behind… See cast and release date 29 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/1mAfeZjF50qe4xbaJCf9tT5uSmt.jpg",
+  "industry": "bollywood",
+  "k": "Nirakar, Nirakar movie, Nirakar cast, Nirakar story, Nirakar box office collection, Nirakar budget, Nirakar review, Nirakar rating, Nirakar release date, Nirakar Animation, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Nirakar (2026): Animation film. Story: A multimedia meditation on the lives hidden behind… See cast and release date 29 October 2026.",
+   "duration": "PT4M",
+   "genre": [
+    "Animation"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/1mAfeZjF50qe4xbaJCf9tT5uSmt.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1801510",
+   "name": "Nirakar",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1801510"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Nirakar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1801513": {
   "d": "Heartbeat (2026): Animation film. Story: In Mumbai’s Bhavani Nagar slum, domestic worker Vimal… See cast, review 6.5/10, and release date 29 October 2026.",
   "img": "https://image.tmdb.org/t/p/w500/z50R8eyn9P93CW4ReerGpcJz9Xi.jpg",
@@ -8022,6 +9098,34 @@
   "modified": "",
   "published": "2026-10-26",
   "t": "Heartbeat (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1801659": {
+  "d": "Chennai Vlog (2026): Adventure/Comedy film. Story: Finally uploading this vlog , omg istg i was so lazy… See cast and release date 19 October 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/lM3S4gFRZzzyBvUIPyHPwcTLuKP.jpg",
+  "industry": "bollywood",
+  "k": "Chennai Vlog, Chennai Vlog movie, Chennai Vlog cast, Chennai Vlog story, Chennai Vlog box office collection, Chennai Vlog budget, Chennai Vlog review, Chennai Vlog rating, Chennai Vlog release date, Chennai Vlog Adventure, Chennai Vlog Comedy, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Chennai Vlog (2026): Adventure/Comedy film. Story: Finally uploading this vlog , omg istg i was so lazy… See cast and release date 19 October 2026.",
+   "duration": "PT57M",
+   "genre": [
+    "Adventure",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/lM3S4gFRZzzyBvUIPyHPwcTLuKP.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1801659",
+   "name": "Chennai Vlog",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-10-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1801659"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Chennai Vlog (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1801769": {
@@ -8050,6 +9154,29 @@
   "modified": "",
   "published": "2026-10-30",
   "t": "Annapurna: Dreams and Nightmares (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1801787": {
+  "d": "The Day We Drowned (2026) is a film. See cast and release date 7 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/a24ysZvruIUjIOmdqCauIXUFqse.jpg",
+  "industry": "world",
+  "k": "The Day We Drowned, The Day We Drowned movie, The Day We Drowned cast, The Day We Drowned story, The Day We Drowned box office collection, The Day We Drowned budget, The Day We Drowned review, The Day We Drowned rating, The Day We Drowned release date, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "The Day We Drowned (2026) is a film. See cast and release date 7 November 2026.",
+   "image": "https://image.tmdb.org/t/p/w500/a24ysZvruIUjIOmdqCauIXUFqse.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1801787",
+   "name": "The Day We Drowned",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-07"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1801787"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Day We Drowned (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1801806": {
@@ -9446,6 +10573,41 @@
   "t": "Project Hail Mary (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:755898": {
+  "d": "War of the Worlds (2025): Science Fiction/Thriller film. Story: Will Radford is a top analyst for Homeland Security… See cast and budget $10M.",
+  "img": "https://image.tmdb.org/t/p/w780/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+  "industry": "world",
+  "k": "War of the Worlds, War of the Worlds movie, War of the Worlds cast, War of the Worlds story, War of the Worlds box office collection, War of the Worlds budget, War of the Worlds review, War of the Worlds rating, War of the Worlds release date, War of the Worlds trailer, War of the Worlds Science Fiction, War of the Worlds Thriller, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1189,
+    "ratingValue": 4.0,
+    "worstRating": 0
+   },
+   "description": "War of the Worlds (2025): Science Fiction/Thriller film. Story: Will Radford is a top analyst for Homeland Security… See cast and budget $10M.",
+   "duration": "PT91M",
+   "genre": [
+    "Science Fiction",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=755898",
+   "name": "War of the Worlds",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2025-07-29"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=755898"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "War of the Worlds (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2025"
+ },
  "movie:791523": {
   "d": "Wildwood (2026): Animation/Adventure film. Story: Prue and her classmate Curtis are drawn into a… See cast, budget $100M, review 8.5/10, and TMDB rating 8.9/10.",
   "img": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
@@ -9480,6 +10642,41 @@
   "published": "2026-10-26",
   "t": "Wildwood (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
+ },
+ "movie:83533": {
+  "d": "Avatar: Fire and Ash (2025): Science Fiction/Adventure film. Story: In the wake of the devastating war against the RDA… See cast and budget $350M.",
+  "img": "https://image.tmdb.org/t/p/w780/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+  "industry": "world",
+  "k": "Avatar: Fire and Ash, Avatar: Fire and Ash movie, Avatar: Fire and Ash cast, Avatar: Fire and Ash story, Avatar: Fire and Ash box office collection, Avatar: Fire and Ash budget, Avatar: Fire and Ash review, Avatar: Fire and Ash rating, Avatar: Fire and Ash release date, Avatar: Fire and Ash trailer, Avatar: Fire and Ash Science Fiction, Avatar: Fire and Ash Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 4626,
+    "ratingValue": 7.6,
+    "worstRating": 0
+   },
+   "description": "Avatar: Fire and Ash (2025): Science Fiction/Adventure film. Story: In the wake of the devastating war against the RDA… See cast and budget $350M.",
+   "duration": "PT198M",
+   "genre": [
+    "Science Fiction",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=83533",
+   "name": "Avatar: Fire and Ash",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2025-12-19"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=83533"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Avatar: Fire and Ash (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2025"
  },
  "movie:847742": {
   "d": "Drishyam 3 (2026): Crime/Drama film. Story: To protect his family and their dark secret… See cast, budget $21M, and TMDB rating 6.2/10.",
@@ -9649,6 +10846,41 @@
   "t": "F1 (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:936075": {
+  "d": "Michael (2026): Music/Drama film. Story: The story of Michael Jackson, one of the most… See cast, budget $250M, and TMDB rating 8.6/10.",
+  "img": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+  "industry": "world",
+  "k": "Michael, Michael movie, Michael cast, Michael story, Michael box office collection, Michael budget, Michael review, Michael rating, Michael release date, Michael trailer, Michael Music, Michael Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 4650,
+    "ratingValue": 8.6,
+    "worstRating": 0
+   },
+   "description": "Michael (2026): Music/Drama film. Story: The story of Michael Jackson, one of the most… See cast, budget $250M, and TMDB rating 8.6/10.",
+   "duration": "PT128M",
+   "genre": [
+    "Music",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=936075",
+   "name": "Michael",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-04-23"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=936075"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Michael (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:969681": {
   "d": "Spider-Man: Brand New Day (2026): Science Fiction/Action film. Story: Fighting crime full-time as Spider-Man in a world… See cast and budget $225M.",
   "img": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
@@ -9682,6 +10914,41 @@
   "modified": "",
   "published": "2026-10-26",
   "t": "Spider-Man: Brand New Day (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:980431": {
+  "d": "Avatar Aang: The Last Airbender (2026): Animation/Adventure film. Story: Avatar Aang, the world's last Airbender, learns of an… See cast and TMDB rating 9.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+  "industry": "world",
+  "k": "Avatar Aang: The Last Airbender, Avatar Aang: The Last Airbender movie, Avatar Aang: The Last Airbender cast, Avatar Aang: The Last Airbender story, Avatar Aang: The Last Airbender box office collection, Avatar Aang: The Last Airbender budget, Avatar Aang: The Last Airbender review, Avatar Aang: The Last Airbender rating, Avatar Aang: The Last Airbender release date, Avatar Aang: The Last Airbender trailer, Avatar Aang: The Last Airbender Animation, Avatar Aang: The Last Airbender Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1405,
+    "ratingValue": 9.0,
+    "worstRating": 0
+   },
+   "description": "Avatar Aang: The Last Airbender (2026): Animation/Adventure film. Story: Avatar Aang, the world's last Airbender, learns of an… See cast and TMDB rating 9.0/10.",
+   "duration": "PT99M",
+   "genre": [
+    "Animation",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=980431",
+   "name": "Avatar Aang: The Last Airbender",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-07-24"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=980431"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Avatar Aang: The Last Airbender (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "news:100hn07": {
@@ -9744,6 +11011,37 @@
   "modified": "",
   "published": "2026-10-24T15:00:21.000Z",
   "t": "Izzat Episode 35 — Watch on ARY Digital"
+ },
+ "news:106cris": {
+  "d": "Sean Bean: More than two decades after its initial theatrical run, the live-action video game adaptation Silent Hill has found new life on streaming platforms.",
+  "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/sean-bean-in-silent-hill.jpg?w=1600&amp;h=900&amp;fit=crop",
+  "k": "Silent Hill, Sean Bean Silent Hill, Silent Hill streaming HBO Max, Silent Hill movie, Sean Bean, Radha Mitchell Silent Hill, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-10-31T17:11:48.000Z",
+   "description": "Sean Bean: More than two decades after its initial theatrical run, the live-action video game adaptation Silent Hill has found new life on streaming platforms.",
+   "headline": "Sean Bean’s Horror Cult Classic Roars Back To Life On Streaming",
+   "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/sean-bean-in-silent-hill.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "keywords": "Silent Hill, Sean Bean Silent Hill, Silent Hill streaming HBO Max, Silent Hill movie",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=106cris",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=106cris"
+  },
+  "modified": "",
+  "published": "2026-10-31T17:11:48.000Z",
+  "t": "Sean Bean’s Horror Cult Classic Roars Back To Life On Streaming"
  },
  "news:108ek5i": {
   "d": "Academy Award winner Jessie Buckley is stepping away from multi-million-pound movie paydays to star in a new play on London's West End for a standard union…",
@@ -13805,6 +15103,37 @@
   "modified": "",
   "published": "2026-10-31T01:52:02.000Z",
   "t": "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle"
+ },
+ "news:1s66gx4": {
+  "d": "Fans eagerly await the latest developments as Har Pal Geo releases the teaser for Nashtar Episode 27, starring Danish Taimoor and Anmol Baloch.",
+  "img": "https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f62d.png",
+  "k": "Nashtar Episode 27, Danish Taimoor Nashtar, Anmol Baloch Har Pal Geo, Nashtar 31st October 2026, Nashtar, Danish Taimoor, Anmol Baloch Nashtar, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-10-31T16:45:10.000Z",
+   "description": "Fans eagerly await the latest developments as Har Pal Geo releases the teaser for Nashtar Episode 27, starring Danish Taimoor and Anmol Baloch.",
+   "headline": "Nashtar Episode 27 Teaser Drops Ahead of October 31st Broadcast on Har Pal Geo",
+   "image": "https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f62d.png",
+   "keywords": "Nashtar Episode 27, Danish Taimoor Nashtar, Anmol Baloch Har Pal Geo, Nashtar 31st October 2026",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1s66gx4",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1s66gx4"
+  },
+  "modified": "",
+  "published": "2026-10-31T16:45:10.000Z",
+  "t": "Nashtar Episode 27 Teaser Drops Ahead of October 31st Broadcast on Har Pal Geo"
  },
  "news:1seioo4": {
   "d": "HUM TV has launched the official promotional teaser for the upcoming sixteenth episode of Tark-e-Tamanna, starring Mirza Zain Baig and Janice Tessa.",
@@ -19320,6 +20649,105 @@
   "t": "The Terminal List (2022) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2022"
  },
+ "tv:200875": {
+  "d": "IT: Welcome to Derry (2025) is a Drama and Mystery TV series. Explore its story: In 1962, amid a spate of unexplained disappearances…, cast, and 2 seasons.",
+  "img": "https://image.tmdb.org/t/p/w780/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+  "industry": "world",
+  "k": "IT: Welcome to Derry, IT: Welcome to Derry TV series, IT: Welcome to Derry cast, IT: Welcome to Derry story, IT: Welcome to Derry seasons, IT: Welcome to Derry episodes, IT: Welcome to Derry season 2, IT: Welcome to Derry 8 episodes, IT: Welcome to Derry first air date, IT: Welcome to Derry trailer, IT: Welcome to Derry Drama, IT: Welcome to Derry Mystery, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 1733,
+    "ratingValue": 8.2,
+    "worstRating": 0
+   },
+   "description": "IT: Welcome to Derry (2025) is a Drama and Mystery TV series. Explore its story: In 1962, amid a spate of unexplained disappearances…, cast, and 2 seasons.",
+   "genre": [
+    "Drama",
+    "Mystery"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=200875",
+   "name": "IT: Welcome to Derry",
+   "numberOfEpisodes": 8,
+   "numberOfSeasons": 2,
+   "startDate": "2025-10-26",
+   "url": "https://flickatlas.co.uk/show?id=200875"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "IT: Welcome to Derry (2025) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2025"
+ },
+ "tv:213375": {
+  "d": "VisionQuest (2026) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: With a bounty on his head, Vision must confront his…, cast, and 1 season.",
+  "img": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+  "industry": "world",
+  "k": "VisionQuest, VisionQuest TV series, VisionQuest cast, VisionQuest story, VisionQuest seasons, VisionQuest episodes, VisionQuest season 1, VisionQuest 8 episodes, VisionQuest first air date, VisionQuest trailer, VisionQuest Sci-Fi & Fantasy, VisionQuest Drama, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 230,
+    "ratingValue": 8.7,
+    "worstRating": 0
+   },
+   "description": "VisionQuest (2026) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: With a bounty on his head, Vision must confront his…, cast, and 1 season.",
+   "genre": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=213375",
+   "name": "VisionQuest",
+   "numberOfEpisodes": 8,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-13",
+   "url": "https://flickatlas.co.uk/show?id=213375"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "VisionQuest (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:213562": {
+  "d": "Crystal Lake (2026) is a Drama and Mystery TV series. Explore its story: Single mother Pam Voorhees has been unable to shake…, cast, 1 season, and 8 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+  "industry": "world",
+  "k": "Crystal Lake, Crystal Lake TV series, Crystal Lake cast, Crystal Lake story, Crystal Lake seasons, Crystal Lake episodes, Crystal Lake season 1, Crystal Lake 8 episodes, Crystal Lake first air date, Crystal Lake trailer, Crystal Lake Drama, Crystal Lake Mystery, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 294,
+    "ratingValue": 8.7,
+    "worstRating": 0
+   },
+   "description": "Crystal Lake (2026) is a Drama and Mystery TV series. Explore its story: Single mother Pam Voorhees has been unable to shake…, cast, 1 season, and 8 episodes.",
+   "genre": [
+    "Drama",
+    "Mystery"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=213562",
+   "name": "Crystal Lake",
+   "numberOfEpisodes": 8,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-15",
+   "url": "https://flickatlas.co.uk/show?id=213562"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Crystal Lake (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:220542": {
   "d": "The Apothecary Diaries (2023) is an Animation and Drama TV series. Explore its story: Maomao lived a peaceful life with her apothecary…, cast, and 1 season.",
   "img": "https://image.tmdb.org/t/p/w780/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
@@ -19443,6 +20871,39 @@
   "t": "Operation Safed Sagar: The Untold Story of the Kargil War (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
+ "tv:284833": {
+  "d": "Avatar: Seven Havens (2026) is an Animation and Action & Adventure TV series. Explore its story: In a world shattered by a devastating cataclysm, a… and cast.",
+  "img": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+  "industry": "world",
+  "k": "Avatar: Seven Havens, Avatar: Seven Havens TV series, Avatar: Seven Havens cast, Avatar: Seven Havens story, Avatar: Seven Havens seasons, Avatar: Seven Havens episodes, Avatar: Seven Havens season 1, Avatar: Seven Havens 13 episodes, Avatar: Seven Havens first air date, Avatar: Seven Havens trailer, Avatar: Seven Havens Animation, Avatar: Seven Havens Action & Adventure, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 155,
+    "ratingValue": 9.0,
+    "worstRating": 0
+   },
+   "description": "Avatar: Seven Havens (2026) is an Animation and Action & Adventure TV series. Explore its story: In a world shattered by a devastating cataclysm, a… and cast.",
+   "genre": [
+    "Animation",
+    "Action & Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=284833",
+   "name": "Avatar: Seven Havens",
+   "numberOfEpisodes": 13,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-09",
+   "url": "https://flickatlas.co.uk/show?id=284833"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Avatar: Seven Havens (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:285147": {
   "d": "Shaque: Trust No One (2026) is a Crime and Mystery TV series. Explore its story: A mother receives yearly photos of her missing child, cast, and 1 season.",
   "img": "https://image.tmdb.org/t/p/w780/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
@@ -19506,6 +20967,39 @@
   "modified": "",
   "published": "2026-10-29",
   "t": "Tigers Sniff the Rose (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:288673": {
+  "d": "Carrie (2026) is a Mystery and Drama TV series. Explore its story: After her father's sudden, untimely death thrusts her…, cast, 2 seasons, and 8 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+  "industry": "world",
+  "k": "Carrie, Carrie TV series, Carrie cast, Carrie story, Carrie seasons, Carrie episodes, Carrie season 2, Carrie 8 episodes, Carrie first air date, Carrie trailer, Carrie Mystery, Carrie Drama, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 519,
+    "ratingValue": 8.3,
+    "worstRating": 0
+   },
+   "description": "Carrie (2026) is a Mystery and Drama TV series. Explore its story: After her father's sudden, untimely death thrusts her…, cast, 2 seasons, and 8 episodes.",
+   "genre": [
+    "Mystery",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=288673",
+   "name": "Carrie",
+   "numberOfEpisodes": 8,
+   "numberOfSeasons": 2,
+   "startDate": "2026-10-07",
+   "url": "https://flickatlas.co.uk/show?id=288673"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Carrie (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:289517": {
@@ -19605,6 +21099,39 @@
   "modified": "",
   "published": "2026-10-29",
   "t": "#Love (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:303745": {
+  "d": "Love in Disguise (2026) is a Comedy and Drama TV series. Explore its story: Taekang Group's successor, Yoon Yi-jun, is the prime…, cast, and 1 season.",
+  "img": "https://image.tmdb.org/t/p/w780/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+  "industry": "world",
+  "k": "Love in Disguise, Love in Disguise TV series, Love in Disguise cast, Love in Disguise story, Love in Disguise seasons, Love in Disguise episodes, Love in Disguise season 1, Love in Disguise 12 episodes, Love in Disguise first air date, Love in Disguise Comedy, Love in Disguise Drama, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 34,
+    "ratingValue": 9.2,
+    "worstRating": 0
+   },
+   "description": "Love in Disguise (2026) is a Comedy and Drama TV series. Explore its story: Taekang Group's successor, Yoon Yi-jun, is the prime…, cast, and 1 season.",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=303745",
+   "name": "Love in Disguise",
+   "numberOfEpisodes": 12,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-19",
+   "url": "https://flickatlas.co.uk/show?id=303745"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Love in Disguise (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:307478": {
@@ -20170,6 +21697,31 @@
   "t": "Hunkkaar: The Roar (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
+ "tv:334700": {
+  "d": "The Gift of Deceit (2026) is a Drama TV series. Explore its story: Desperate to find a cure for the unknown illness…, cast, 1 season, and 10 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+  "industry": "world",
+  "k": "The Gift of Deceit, The Gift of Deceit TV series, The Gift of Deceit cast, The Gift of Deceit story, The Gift of Deceit seasons, The Gift of Deceit episodes, The Gift of Deceit season 1, The Gift of Deceit 10 episodes, The Gift of Deceit first air date, The Gift of Deceit Drama, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "description": "The Gift of Deceit (2026) is a Drama TV series. Explore its story: Desperate to find a cure for the unknown illness…, cast, 1 season, and 10 episodes.",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=334700",
+   "name": "The Gift of Deceit",
+   "numberOfEpisodes": 10,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-28",
+   "url": "https://flickatlas.co.uk/show?id=334700"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "The Gift of Deceit (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
  "tv:335091": {
   "d": "Khushi (2026) is a Drama TV series. Explore its story: Khushi is a captivating story of love, relationships…, cast, and 49 episodes.",
   "img": "https://image.tmdb.org/t/p/w780/xXViRGhvsD7mMMZ7jXEI3tWGeBf.jpg",
@@ -20530,6 +22082,32 @@
   "modified": "",
   "published": "2026-10-26",
   "t": "Circle Story (2026) — Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:338390": {
+  "d": "Apsara (2026) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: Braving modern-day evils, power-blessed Sunheri is…, cast, and 1 season.",
+  "img": "https://image.tmdb.org/t/p/w780/ntfLHTLeI1DhC1bxq6sFvUO38bO.jpg",
+  "industry": "bollywood",
+  "k": "Apsara, Apsara TV series, Apsara cast, Apsara story, Apsara seasons, Apsara episodes, Apsara season 1, Apsara 12 episodes, Apsara first air date, Apsara trailer, Apsara Sci-Fi & Fantasy, Apsara Drama, Bollywood TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "description": "Apsara (2026) is a Sci-Fi & Fantasy and Drama TV series. Explore its story: Braving modern-day evils, power-blessed Sunheri is…, cast, and 1 season.",
+   "genre": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/ntfLHTLeI1DhC1bxq6sFvUO38bO.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=338390",
+   "name": "Apsara",
+   "numberOfEpisodes": 12,
+   "numberOfSeasons": 1,
+   "startDate": "2026-10-21",
+   "url": "https://flickatlas.co.uk/show?id=338390"
+  },
+  "modified": "",
+  "published": "2026-10-31",
+  "t": "Apsara (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:338918": {

@@ -13986,5 +13986,2655 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 0,
     "providers": []
+  },
+  "1232569": {
+    "id": 1232569,
+    "type": "movie",
+    "title": "Pinocchio: Unstrung",
+    "poster_path": "/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
+    "backdrop_path": "/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+    "vote_average": 6.461,
+    "vote_count": 153,
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "industry": "world",
+    "popularity": 160.3737,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "Y4lZewE6JMI",
+      "name": "Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 500000,
+    "revenue": 822910,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Mystery"
+    ],
+    "tagline": "He has no strings to hold him back now.",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en",
+      "uk"
+    ],
+    "certification": "R",
+    "release_date": "2026-07-22",
+    "date_kind": "release",
+    "runtime": 82,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1148365": {
+    "id": 1148365,
+    "type": "movie",
+    "title": "Matchbox the Movie",
+    "poster_path": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+    "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "vote_average": 7.657,
+    "vote_count": 554,
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "industry": "world",
+    "popularity": 134.5985,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "7xfqITrMDcI",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Adventure"
+    ],
+    "tagline": "Save the world, bring your friends.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-05",
+    "date_kind": "release",
+    "runtime": 127,
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1236045": {
+    "id": 1236045,
+    "type": "movie",
+    "title": "Animals",
+    "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "vote_average": 6.976,
+    "vote_count": 656,
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "industry": "world",
+    "popularity": 98.7399,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "ZkN2M4ODdys",
+      "name": "Official Trailer #2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "tagline": "Power can't protect you.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-09",
+    "date_kind": "release",
+    "runtime": 106,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "755898": {
+    "id": 755898,
+    "type": "movie",
+    "title": "War of the Worlds",
+    "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+    "vote_average": 4.04,
+    "vote_count": 1189,
+    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+    "industry": "world",
+    "popularity": 106.4088,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "d9erkpdh5o0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 10000000,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "tagline": "Your data is deadly.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2025-07-29",
+    "date_kind": "release",
+    "runtime": 91,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1084244": {
+    "id": 1084244,
+    "type": "movie",
+    "title": "Toy Story 5",
+    "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "vote_average": 8.277,
+    "vote_count": 2768,
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "industry": "world",
+    "popularity": 92.972,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "QftAW9TTmuQ",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 250000000,
+    "revenue": 1148032461,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "tagline": "It's on.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "certification": "U",
+    "release_date": "2026-06-19",
+    "date_kind": "release",
+    "runtime": 102,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1108427": {
+    "id": 1108427,
+    "type": "movie",
+    "title": "Moana",
+    "poster_path": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+    "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "vote_average": 7.474,
+    "vote_count": 998,
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "industry": "world",
+    "popularity": 84.8941,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "EEz5xbzYPKI",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 250000000,
+    "revenue": 323701468,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "tagline": "The ocean chose her for a reason.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2026-07-10",
+    "date_kind": "release",
+    "runtime": 115,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1275779": {
+    "id": 1275779,
+    "type": "movie",
+    "title": "Disclosure Day",
+    "poster_path": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+    "backdrop_path": "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+    "vote_average": 7.433,
+    "vote_count": 3907,
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "industry": "world",
+    "popularity": 80.6466,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "icDuEHSxE-w",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 115000000,
+    "revenue": 244633645,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "tagline": "We deserve to know.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ru",
+      "ko"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-06-12",
+    "date_kind": "release",
+    "runtime": 146,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1375646": {
+    "id": 1375646,
+    "type": "movie",
+    "title": "Colony",
+    "poster_path": "/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+    "backdrop_path": "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+    "vote_average": 8.21,
+    "vote_count": 1462,
+    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+    "industry": "world",
+    "popularity": 72.7638,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "LW6dpj1uCK8",
+      "name": "International Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 12000000,
+    "revenue": 53128238,
+    "genres": [
+      "Horror",
+      "Action",
+      "Science Fiction"
+    ],
+    "tagline": "Survive the hive.",
+    "status": "Released",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "A",
+    "release_date": "2026-06-19",
+    "date_kind": "release",
+    "runtime": 123,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1315772": {
+    "id": 1315772,
+    "type": "movie",
+    "title": "Minions & Monsters",
+    "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+    "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "vote_average": 7.554,
+    "vote_count": 1348,
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "industry": "world",
+    "popularity": 67.6478,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "V-O-uBaHk3c",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 85000000,
+    "revenue": 526259745,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "tagline": "Hollywood has a monster problem.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2026-07-01",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": [
+      {
+        "name": "Peacock Premium",
+        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Peacock Premium Plus",
+        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1083381": {
+    "id": 1083381,
+    "type": "movie",
+    "title": "Backrooms",
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop_path": "/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+    "vote_average": 7.001,
+    "vote_count": 3946,
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "industry": "world",
+    "popularity": 66.2259,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "0HjdiohVOik",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 10000000,
+    "revenue": 400624375,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "tagline": "See how far it goes.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en",
+      "ja",
+      "pl"
+    ],
+    "certification": "A",
+    "release_date": "2026-06-12",
+    "date_kind": "release",
+    "runtime": 111,
+    "providers": [
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1368166": {
+    "id": 1368166,
+    "type": "movie",
+    "title": "The Housemaid",
+    "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+    "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+    "vote_average": 7.251,
+    "vote_count": 3293,
+    "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+    "industry": "world",
+    "popularity": 51.6671,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "BqWH0KDqm3U",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 35000000,
+    "revenue": 400483145,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tagline": "Discover what lies behind closed doors.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-01-01",
+    "date_kind": "release",
+    "runtime": 131,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1381078": {
+    "id": 1381078,
+    "type": "movie",
+    "title": "Love of Your Life",
+    "poster_path": "/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdrop_path": "/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+    "vote_average": 6.754,
+    "vote_count": 183,
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "industry": "world",
+    "popularity": 56.6049,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "HzGx48E64Xg",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt",
+      "es",
+      "fr"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-07",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "83533": {
+    "id": 83533,
+    "type": "movie",
+    "title": "Avatar: Fire and Ash",
+    "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+    "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+    "vote_average": 7.649,
+    "vote_count": 4626,
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "industry": "world",
+    "popularity": 55.1899,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "Ma1x7ikpid8",
+      "name": "New Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 350000000,
+    "revenue": 1485999890,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tagline": "The world of Pandora will change forever.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2025-12-19",
+    "date_kind": "release",
+    "runtime": 198,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "980431": {
+    "id": 980431,
+    "type": "movie",
+    "title": "Avatar Aang: The Last Airbender",
+    "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "vote_average": 9.03,
+    "vote_count": 1405,
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "industry": "world",
+    "popularity": 55.5591,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "7b20GRFZBFE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "tagline": "The legacy reawakens.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "KR",
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG",
+    "release_date": "2026-07-24",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1226863": {
+    "id": 1226863,
+    "type": "movie",
+    "title": "The Super Mario Galaxy Movie",
+    "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+    "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "vote_average": 8.196,
+    "vote_count": 3923,
+    "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "industry": "world",
+    "popularity": 50.2744,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "En5QZmL5R1s",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 110000000,
+    "revenue": 1012203331,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "tagline": "The galaxy awaits.",
+    "status": "Released",
+    "production_countries": [
+      "JP",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG",
+    "release_date": "2026-04-01",
+    "date_kind": "release",
+    "runtime": 98,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1339274": {
+    "id": 1339274,
+    "type": "movie",
+    "title": "Don't Leave the Kids Alone",
+    "poster_path": "/7kaglo9sblVsQrKsUqaVxrfc6ag.jpg",
+    "backdrop_path": "/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
+    "vote_average": 6.801,
+    "vote_count": 161,
+    "overview": "A mother moves into a new house with her two children. One night she must leave the siblings home alone. What begins as a blast of carefree play soon turns into a claustrophobic horror story.",
+    "industry": "world",
+    "popularity": 50.6084,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "16",
+    "release_date": "2026-05-14",
+    "date_kind": "release",
+    "runtime": 97,
+    "providers": [
+      {
+        "name": "VIX",
+        "logo_path": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "ViX Premium Amazon Channel",
+        "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1288069": {
+    "id": 1288069,
+    "type": "movie",
+    "title": "Tenzing",
+    "poster_path": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+    "backdrop_path": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+    "vote_average": 8.3,
+    "vote_count": 225,
+    "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+    "industry": "world",
+    "popularity": 48.5911,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "KkYCY5YR12U",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "The ascent that made history.",
+    "status": "Released",
+    "production_countries": [
+      "AU",
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ne"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-09",
+    "date_kind": "release",
+    "runtime": 126,
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1084242": {
+    "id": 1084242,
+    "type": "movie",
+    "title": "Zootopia 2",
+    "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "vote_average": 7.666,
+    "vote_count": 3638,
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "industry": "world",
+    "popularity": 49.0597,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "sEgPQ7HKoBA",
+      "name": "International Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 150000000,
+    "revenue": 1868208796,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Family"
+    ],
+    "tagline": "They're back with a twissst.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2025-11-28",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1340206": {
+    "id": 1340206,
+    "type": "movie",
+    "title": "Tuner",
+    "poster_path": "/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+    "backdrop_path": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+    "vote_average": 7.588,
+    "vote_count": 627,
+    "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+    "industry": "world",
+    "popularity": 37.273,
+    "original_language": "en",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "trailer": {
+      "key": "XiehvETTjTQ",
+      "name": "TUNER Trailer 4K (2026) | Leo Woodall, Havana Rose Liu, Dustin Hoffman, Jean Reno | Crime, Thriller",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 7000000,
+    "revenue": 13505364,
+    "genres": [
+      "Crime",
+      "Music",
+      "Romance"
+    ],
+    "tagline": "Everybody has one hidden talent.",
+    "status": "Released",
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [
+      "he",
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-05-29",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": [
+      {
+        "name": "Paramount Plus Premium",
+        "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount Plus Essential",
+        "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Amazon Channel",
+        "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Paramount+ Roku Premium Channel",
+        "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1311031": {
+    "id": 1311031,
+    "type": "movie",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "vote_average": 8.8,
+    "vote_count": 2359,
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "industry": "world",
+    "popularity": 43.2916,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "EpAlHmuA2YM",
+      "name": "Doma [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 20000000,
+    "revenue": 793594078,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "tagline": "It's time to have some fun.",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2025-09-12",
+    "date_kind": "release",
+    "runtime": 156,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "936075": {
+    "id": 936075,
+    "type": "movie",
+    "title": "Michael",
+    "poster_path": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+    "backdrop_path": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "vote_average": 8.595,
+    "vote_count": 4650,
+    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "industry": "world",
+    "popularity": 42.1187,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "k-YAcjaLuSI",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 250000000,
+    "revenue": 1028703388,
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "tagline": "Discover the making of a king.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-04-23",
+    "date_kind": "release",
+    "runtime": 128,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1081003": {
+    "id": 1081003,
+    "type": "movie",
+    "title": "Supergirl",
+    "poster_path": "/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+    "backdrop_path": "/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+    "vote_average": 6.641,
+    "vote_count": 2676,
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "industry": "world",
+    "popularity": 39.4734,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "rbLyjarG_bU",
+      "name": "Official American Sign Language Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 175000000,
+    "revenue": 126366532,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "tagline": "Truth. Justice. Whatever.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-06-26",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": [
+      {
+        "name": "HBO Max Amazon Channel",
+        "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "HBO Max",
+        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1327819": {
+    "id": 1327819,
+    "type": "movie",
+    "title": "Hoppers",
+    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "vote_average": 8.13,
+    "vote_count": 2497,
+    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "industry": "world",
+    "popularity": 38.9126,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "PypDSyIRRSs",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 150000000,
+    "revenue": 389685783,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "tagline": "Act natural.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2026-03-06",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1273221": {
+    "id": 1273221,
+    "type": "movie",
+    "title": "Scary Movie",
+    "poster_path": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "vote_average": 6.316,
+    "vote_count": 2097,
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "industry": "world",
+    "popularity": 42.5394,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "cGgWAHXuTKc",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 30000000,
+    "revenue": 231886052,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "Every line will be crossed.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ko",
+      "pt",
+      "es"
+    ],
+    "certification": "R",
+    "release_date": "2026-06-03",
+    "date_kind": "release",
+    "runtime": 96,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1007757": {
+    "id": 1007757,
+    "type": "movie",
+    "title": "Swapped",
+    "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "vote_average": 8.844,
+    "vote_count": 2282,
+    "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+    "industry": "world",
+    "popularity": 37.4727,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "glgmAwRDP8s",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 7,
+    "revenue": 7,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "tagline": "Transform your destiny.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "ES"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2026-05-01",
+    "date_kind": "release",
+    "runtime": 102,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1228710": {
+    "id": 1228710,
+    "type": "movie",
+    "title": "The Mandalorian and Grogu",
+    "poster_path": "/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+    "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+    "vote_average": 7.5,
+    "vote_count": 1941,
+    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "industry": "world",
+    "popularity": 35.3704,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "uwild1rw7Aw",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 165000000,
+    "revenue": 345166617,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "tagline": "If you're searching for new adventure, \"this is the way.\"",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ay"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-05-22",
+    "date_kind": "release",
+    "runtime": 132,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1032863": {
+    "id": 1032863,
+    "type": "movie",
+    "title": "The Love Hypothesis",
+    "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "vote_average": 7.928,
+    "vote_count": 692,
+    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+    "industry": "world",
+    "popularity": 35.6844,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "xwdamnfS6IM",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "Fake dating. Real chemistry.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-09-23",
+    "date_kind": "release",
+    "runtime": 112,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1212763": {
+    "id": 1212763,
+    "type": "movie",
+    "title": "Evil Dead Burn",
+    "poster_path": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "backdrop_path": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "vote_average": 7.6,
+    "vote_count": 1858,
+    "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+    "industry": "world",
+    "popularity": 32.4049,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "RddZObTlmA8",
+      "name": "Tickets on Sale",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 20000000,
+    "revenue": 71491178,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "Every family has its demons.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "certification": "A",
+    "release_date": "2026-07-10",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1381071": {
+    "id": 1381071,
+    "type": "movie",
+    "title": "Godzilla Minus Zero",
+    "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "industry": "world",
+    "popularity": 21.9383,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "pWJjYoqVSjQ",
+      "name": "Official Trailer 2 [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Action"
+    ],
+    "tagline": "There is no third time. Everything ends here.",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja",
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-03",
+    "date_kind": "release",
+    "runtime": 135,
+    "providers": []
+  },
+  "1755818": {
+    "id": 1755818,
+    "type": "movie",
+    "title": "Blind Game",
+    "poster_path": "/kO9q6StIAUBpfcKVtTSth7zOE2C.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A Cop, under suspension, is on the trail of Missing Cash.",
+    "industry": "bollywood",
+    "popularity": 2.6625,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "334700": {
+    "id": 334700,
+    "type": "tv",
+    "title": "The Gift of Deceit",
+    "poster_path": "/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg",
+    "backdrop_path": "/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
+    "industry": "world",
+    "popularity": 24.6059,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-28",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 10,
+    "channel": "Netflix",
+    "episode_run_time": [
+      45
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2026-10-28",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Diane Maia",
+      "Mirna Nogueira"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1568063": {
+    "id": 1568063,
+    "type": "movie",
+    "title": "Darshan",
+    "poster_path": "/krLdz3jIVDzwO243RREoWBIJuV0.jpg",
+    "backdrop_path": "/94mEOVzskLkalpnxWwfzeQe5UaY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Abhinav feels trapped by his tight-knit Hindu community in Madrid, but craves to go out raving with his friends in search of a different kind of ecstasy. When his guru announces a visit to bless his devotees on the same night as the most important party of the year, a strange series of events augurs the collision between his two worlds.",
+    "industry": "world",
+    "popularity": 2.0158,
+    "original_language": "es",
+    "origin_country": [
+      "ES",
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES",
+      "GB"
+    ],
+    "spoken_languages": [
+      "es",
+      "sd",
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-06-01",
+    "date_kind": "festival",
+    "runtime": 19,
+    "providers": []
+  },
+  "1801787": {
+    "id": 1801787,
+    "type": "movie",
+    "title": "The Day We Drowned",
+    "poster_path": "/a24ysZvruIUjIOmdqCauIXUFqse.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.4597,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-07",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1801510": {
+    "id": 1801510,
+    "type": "movie",
+    "title": "Nirakar",
+    "poster_path": "/1mAfeZjF50qe4xbaJCf9tT5uSmt.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A multimedia meditation on the lives hidden behind ordinary homes, exploring memory, belonging, and the invisible threads that bind us together in a world of growing dissonance.",
+    "industry": "bollywood",
+    "popularity": 1.8732,
+    "original_language": "pa",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "pa"
+    ],
+    "certification": "",
+    "release_date": "2026-10-29",
+    "date_kind": "festival",
+    "runtime": 4,
+    "providers": []
+  },
+  "1384216": {
+    "id": 1384216,
+    "type": "movie",
+    "title": "The Dog Stars",
+    "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+    "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+    "vote_average": 7.04,
+    "vote_count": 629,
+    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "industry": "world",
+    "popularity": 178.2517,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "-xSxaE1ClEE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 110000000,
+    "revenue": 37416959,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "tagline": "At the end of the world, no one survives alone.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-08-26",
+    "date_kind": "release",
+    "runtime": 119,
+    "providers": []
+  },
+  "1368337": {
+    "id": 1368337,
+    "type": "movie",
+    "title": "The Odyssey",
+    "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+    "vote_average": 8.016,
+    "vote_count": 4314,
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "industry": "world",
+    "popularity": 202.8688,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "trailer": {
+      "key": "AyIZ9tiiN8I",
+      "name": "Official Countdown Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 250000000,
+    "revenue": 1796113523,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "tagline": "Defy the gods.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-07-17",
+    "date_kind": "release",
+    "runtime": 173,
+    "providers": []
+  },
+  "1339713": {
+    "id": 1339713,
+    "type": "movie",
+    "title": "Obsession",
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "vote_average": 8.17,
+    "vote_count": 6430,
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "industry": "world",
+    "popularity": 103.2755,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "gMC8kkwbIQQ",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 750000,
+    "revenue": 525089752,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "Be careful who you wish for…",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-05-29",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "213562": {
+    "id": 213562,
+    "type": "tv",
+    "title": "Crystal Lake",
+    "poster_path": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+    "backdrop_path": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "vote_average": 8.69,
+    "vote_count": 294,
+    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+    "industry": "world",
+    "popularity": 128.6026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "Rs49eRHFD9c",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "Rage is a mother.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-15",
+    "networks": [
+      "Peacock"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Peacock",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-15",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Brad Caleb Kane"
+    ],
+    "providers": [
+      {
+        "name": "Peacock Premium",
+        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Peacock Premium Plus",
+        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "213375": {
+    "id": 213375,
+    "type": "tv",
+    "title": "VisionQuest",
+    "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdrop_path": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+    "vote_average": 8.7,
+    "vote_count": 230,
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "industry": "world",
+    "popularity": 277.2611,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "sXKnmgmbkoE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2026-10-13",
+    "networks": [
+      "Disney+"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Disney+",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-13",
+        "name": "Miniseries"
+      }
+    ],
+    "created_by": [
+      "Terry Matalas"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "284833": {
+    "id": 284833,
+    "type": "tv",
+    "title": "Avatar: Seven Havens",
+    "poster_path": "/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "backdrop_path": "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "vote_average": 8.977,
+    "vote_count": 155,
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "industry": "world",
+    "popularity": 123.6282,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "nhdh962_ee0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Family"
+    ],
+    "tagline": "New legends will rise.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-PG",
+    "first_air_date": "2026-10-09",
+    "networks": [
+      "Paramount+"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 13,
+    "channel": "Paramount+",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 13,
+        "air_date": "2026-10-09",
+        "name": "Book One: Survival"
+      }
+    ],
+    "created_by": [
+      "Michael Dante DiMartino",
+      "Bryan Konietzko"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "288673": {
+    "id": 288673,
+    "type": "tv",
+    "title": "Carrie",
+    "poster_path": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+    "backdrop_path": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+    "vote_average": 8.267,
+    "vote_count": 519,
+    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+    "industry": "world",
+    "popularity": 114.0466,
+    "original_language": "en",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "trailer": {
+      "key": "jkUw2nh6fT0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "She just wanted a friend. They gave her a fight.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-07",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-07",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 0,
+        "air_date": "",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Mike Flanagan"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "200875": {
+    "id": 200875,
+    "type": "tv",
+    "title": "IT: Welcome to Derry",
+    "poster_path": "/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "backdrop_path": "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+    "vote_average": 8.233,
+    "vote_count": 1733,
+    "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+    "industry": "world",
+    "popularity": 36.0971,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "u4JE2AyqDII",
+      "name": "Official Red Band Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "Go back to where IT all began.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2025-10-26",
+    "networks": [
+      "HBO"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 8,
+    "channel": "HBO",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2025-10-26",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 0,
+        "air_date": "",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Andy Muschietti",
+      "Barbara Muschietti",
+      "Jason Fuchs"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1801659": {
+    "id": 1801659,
+    "type": "movie",
+    "title": "Chennai Vlog",
+    "poster_path": "/h9qkwFq9A0ji9cl6dUYWAD9fKtp.jpg",
+    "backdrop_path": "/lM3S4gFRZzzyBvUIPyHPwcTLuKP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Finally uploading this vlog , omg istg i was so lazy to edit these clips and make a vlog , but yeah.",
+    "industry": "bollywood",
+    "popularity": 0.5257,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "April 2026 001",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-10-19",
+    "date_kind": "release",
+    "runtime": 57,
+    "providers": []
+  },
+  "338390": {
+    "id": 338390,
+    "type": "tv",
+    "title": "Apsara",
+    "poster_path": "/cbqrzSWdmwa7eAduFIxH6EQjkoE.jpg",
+    "backdrop_path": "/ntfLHTLeI1DhC1bxq6sFvUO38bO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Braving modern-day evils, power-blessed Sunheri is the sole protector of her celestial clan! But her blood sister Dhara stands in her way! Can she fight her?",
+    "industry": "bollywood",
+    "popularity": 4.8067,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "EFywhj5l7CE",
+      "name": "Evil Forces Seek the Divine Nectar, Divya's Life in Danger | Apsara | StarPlus #Promo",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2026-10-21",
+    "networks": [
+      "StarPlus",
+      "JioHotstar"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "StarPlus",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-10-21",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Mukta Dhond",
+      "Milind Dhond"
+    ],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "303745": {
+    "id": 303745,
+    "type": "tv",
+    "title": "Love in Disguise",
+    "poster_path": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdrop_path": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "vote_average": 9.235,
+    "vote_count": 34,
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "industry": "world",
+    "popularity": 81.8073,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "tagline": "Trickery is a game two can play.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-10-19",
+    "networks": [
+      "tvN"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "tvN",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-10-19",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Moon Soo-jeong"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1783653": {
+    "id": 1783653,
+    "type": "movie",
+    "title": "Shireen",
+    "poster_path": "/AqwiYhRk2bfXWBGRbVGMY9j9lNv.jpg",
+    "backdrop_path": "/ppEKqOSIxhO4bz2E43REfkTYN3n.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young girl clings to the fragile routines of her day as an unspoken threat closes in, until one evening, she returns home to a silence that changes everything.",
+    "industry": "pakistani",
+    "popularity": 0.904,
+    "original_language": "fa",
+    "origin_country": [
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-10-31",
+    "source": "tmdb",
+    "budget": 3000,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "fa"
+    ],
+    "certification": "",
+    "release_date": "2026-10-18",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": []
   }
 };
