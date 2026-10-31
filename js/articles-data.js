@@ -26407,5 +26407,167 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 31 Oct 2026 07:48:00 EDT"
+  },
+  "j04g73": {
+    "id": "j04g73",
+    "type": "news",
+    "headline": "HBO Max Releases Special Halloween Prequel Episode For It: Welcome To Derry",
+    "dek": "Fans of the horror series receive an unexpected treat as a thirty-minute prequel special exploring the history of the land arrives on the streaming platform.",
+    "body": [
+      {
+        "h": "Surprise Halloween Release",
+        "p": [
+          "Viewers tuning into streaming platforms for the holiday season received an unexpected surprise when a brand new chapter of a popular horror series suddenly appeared online. Rather than waiting for a full second season, enthusiasts of the terrifying television universe gained immediate access to a special thirty-minute installment.",
+          "The surprise drop served as a holiday treat, eliminating the lengthy waiting periods typically associated with major television productions and giving audiences fresh content right on the holiday itself."
+        ]
+      },
+      {
+        "h": "Exploring Ancient History",
+        "p": [
+          "Instead of focusing on the familiar shape-shifting clown that haunts the main narrative, this special installment shifts its focus far back in time. The storyline unfolds centuries before the primary events of the television series.",
+          "At the center of the plot are the members of the fictional Shokopiwah tribe. This Indigenous group previously appeared in the fourth episode of the inaugural season, and the new release delves deeper into their historical connection to the land."
+        ]
+      },
+      {
+        "h": "Synopsis And Plot Details",
+        "p": [
+          "According to the official summary provided for the release, the narrative follows three young individuals as they embark on a fateful journey into the Western Wood. During their expedition, they cross paths with a malevolent ancient entity.",
+          "The encounter highlights the deep-seated horrors that plagued the geographic location long before the modern town was ever established, expanding the overarching mythology of the franchise."
+        ]
+      },
+      {
+        "h": "Creative Team Behind The Episode",
+        "p": [
+          "The production of this special chapter was guided by a talented group of creators known for their work in television and storytelling. Directing duties were handled by Tazbah Chavez, recognized for contributions to Reservation Dogs.",
+          "The script was a collaborative writing effort penned by Cherie Dimaline and Jasmyne Flournoy, who crafted the narrative detailing the ancient encounters in the woods."
+        ]
+      },
+      {
+        "h": "Finding The Content On Streaming",
+        "p": [
+          "Following the sudden launch, some subscribers initially reported minor difficulties locating the thirty-minute special within the streaming application interface. Platform guides noted that the release could be accessed easily by checking the related section situated on the main page for the series.",
+          "The direct integration ensures that viewers searching for holiday scares can readily add the special viewing experience to their holiday watchlist without unnecessary complications."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO Max surprised viewers on October 31, 2026, by releasing a thirty-minute prequel episode titled A Story of Derry for the horror series It: Welcome to Derry. Directed by Tazbah Chavez and written by Cherie Dimaline and Jasmyne Flournoy, the special focuses on the Shokopiwah tribe centuries before the events of the main show."
+        ]
+      }
+    ],
+    "facts": [
+      "The special prequel episode is titled A Story of Derry",
+      "The episode has a runtime of 30 minutes",
+      "It was released on HBO Max on October 31, 2026",
+      "The episode is directed by Tazbah Chavez",
+      "The episode is written by Cherie Dimaline and Jasmyne Flournoy",
+      "The story focuses on the fictional Shokopiwah tribe"
+    ],
+    "entities": {
+      "people": [
+        "Hannah Shaw-Williams",
+        "Tazbah Chavez",
+        "Cherie Dimaline",
+        "Jasmyne Flournoy"
+      ],
+      "titles": [
+        "It: Welcome to Derry",
+        "A Story of Derry",
+        "Reservation Dogs"
+      ]
+    },
+    "keywords": [
+      "It Welcome to Derry prequel",
+      "A Story of Derry HBO Max",
+      "Tazbah Chavez It Welcome to Derry",
+      "Cherie Dimaline Jasmyne Flournoy"
+    ],
+    "images": [
+      {
+        "url": "https://www.slashfilm.com/img/gallery/it-welcome-to-derry-prequel-episode-released-on-hbo-max-for-halloween/l-intro-1793454963.jpg",
+        "caption": "HBO Max Releases Special Halloween Prequel Episode For It: Welcome To Derry",
+        "source": "SlashFilm"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 14:04:10 +0000"
+  },
+  "13s6ajl": {
+    "id": "13s6ajl",
+    "type": "news",
+    "headline": "Alia Bhatt Embraces Tumbbad Folklore for Halloween with Iconic Hastar Mask",
+    "dek": "Popular bollywood star Alia Bhatt surprises fans by celebrating Halloween featuring the terrifying mask of Hastar, driving anticipation for the upcoming sequel to cult folklore fantasy Tumbbad.",
+    "body": [
+      {
+        "h": "Festive Celebrations Go Folklore",
+        "p": [
+          "Bollywood actress Alia Bhatt joined in on the spooky season festivities by incorporating a distinct piece of Indian cinematic folklore into her celebrations. She shared a photo on her social media handle standing face-to-face with the terrifying and iconic mask of Hastar.",
+          "Her creative approach to the holiday immediately caught the attention of internet users. By channeling the eerie world of a celebrated fantasy film for Halloween, she added a unique twist to traditional celebrations."
+        ]
+      },
+      {
+        "h": "Amplifying Sequel Excitement",
+        "p": [
+          "The social media post featuring the legendary movie mask took online platforms by storm. Fans quickly connected her playful nod to the growing chatter and hype surrounding the much-anticipated sequel.",
+          "With the upcoming film preparing to expand its unique cinematic universe, high-profile nods from major celebrities like Bhatt serve to push public interest and anticipation to brand new heights."
+        ]
+      },
+      {
+        "h": "The Legacy of a Cult Classic",
+        "p": [
+          "The original fantasy movie has maintained a formidable reputation since its initial theatrical run, building a dedicated cult following over the years. Viewers widely regard it as an exceptional folklore-driven cinematic experience.",
+          "Its enduring popularity demonstrated immense staying power when a subsequent re-release achieved major commercial milestones, setting new benchmarks for successful Indian re-releases and winning over even more admirers."
+        ]
+      },
+      {
+        "h": "Expanding the Cinematic Universe",
+        "p": [
+          "As discussions surrounding the upcoming continuation intensify, audiences remain eager to witness the return of this dark folklore fantasy realm. The next chapter aims to present a much grander scale.",
+          "Expectations point toward an ambitious vision that will push both the narrative depth and the visual spectacle of the universe significantly further than its predecessor."
+        ]
+      },
+      {
+        "h": "Social Media Reaction",
+        "p": [
+          "The internet lit up almost instantly following the upload of the festive snapshot. Followers flooded platforms to share their excitement over the unexpected crossover between mainstream celebrity culture and indie-turned-cult horror fantasy.",
+          "The image of the star posing alongside the legendary deity's imagery demonstrated how deeply entrenched the folklore elements have become in contemporary pop culture discussions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alia Bhatt celebrated Halloween by posting a picture with the iconic Hastar mask on her social media handle, using the caption Happy Halloween and a specific hashtag. The post successfully elevated internet chatter and excitement regarding the upcoming Tumbbad 2, reminding audiences of the enduring cult status of the original folklore fantasy film."
+        ]
+      }
+    ],
+    "facts": [
+      "Alia Bhatt celebrated Halloween by posing with the Hastar mask.",
+      "She captioned her Instagram story with Happy Halloween and the hashtag HastarForHalloween.",
+      "The original film Tumbbad received a 2024 re-release that made it one of the highest-grossing Indian re-releases.",
+      "Tumbbad 2 is an upcoming sequel."
+    ],
+    "entities": {
+      "people": [
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Tumbbad",
+        "Tumbbad 2"
+      ]
+    },
+    "keywords": [
+      "Alia Bhatt Halloween",
+      "Tumbbad 2",
+      "Hastar mask",
+      "Alia Bhatt Tumbbad 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/feature73-41821793452567.jpg",
+        "caption": "Alia Bhatt Embraces Tumbbad Folklore for Halloween with Iconic Hastar Mask",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 19:10:34 +0530"
   }
 };

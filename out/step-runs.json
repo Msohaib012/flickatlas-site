@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T18:51:16Z",
-    "run_id": "41110314855",
-    "status": "success",
-    "checked": {
-     "candidates": 627,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "india emerge as growth contributor as it is likely to remain worlds fastest growing economy in 2027 report 3077263.html",
-      "ayodhya deepotsav governance management yogi adityanath ram rajya 3077236.html",
-      "netxeroc and ivys adsorption extend strategic collaboration to expand india s cbg potential 3077244.html",
-      "richard sajiun on why mentorship could be key to closing new york s electrical skills gap 3077243.html",
-      "did ibrahim ali khan palak tiwari break up after three years of dating heres what we know",
-      "maddock films and kathputli creations unveil the grand trailer of eetha starring shraddha kapoor as the legendary eetha bai",
-      "pocket fms sound of courage ep 5 spotlights minerva academys dream of bringing the football world cup to india",
-      "samantha ruth prabhu shares a glimpse of pregnancy fitness routine as she enters ninth month watch video",
-      "shah rukh khans king fever takes over cinema halls nationwide",
-      "she had multiple shades rakul preet singh calls surpanakha in ramayana a misunderstood character",
-      "siddharth anand drops another cryptic post at midnight hints at time for the world what is his hinting at",
-      "star trek and x men actor patrick stewart passes away at 86 after battling with alzheimers dementia",
-      "why were tickets for diljit dosanjhs delhi concert still available hours before the show",
-      "you might kareena kapoor khan says mira rajput may likely have baby no 3 watch video",
-      "aerosmith guns n roses black crowes hollywood bowl set list 1235650380",
-      "trump second term 100 actions forgotten 1235650305",
-      "ohio records fracking waste drinking water 1235650323",
-      "jessica lange american horror story interview 1235648802",
-      "patrick stewart a christmas carol tribute remembrance 1235650376",
-      "patrick stewart best roles 1235649980"
-     ],
-     "updated": [],
-     "count": 562,
-     "detail": "569 stories, 0 duplicates removed, 58 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T19:50:57Z",
     "run_id": "41118520934",
     "status": "success",
@@ -791,19 +752,48 @@
      "detail": "338 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T14:51:36Z",
+    "run_id": "41211996785",
+    "status": "success",
+    "checked": {
+     "candidates": 375,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "A Love Other Than Yours Ep 13 Ending TWIST: Mi Do-Tae Seung BREAKUP; Did Namgoong Make It Official With Soo-A?",
+      "Bigg Boss 20: Salman Khan Takes Dig At Scout For Not Staying Away From Love Gill: Doori Nahi Sehi...",
+      "Halloween 2026: Janhvi Kapoor Recreates Sridevi’s Iconic Nagina Look With Orry. Amrish Puri Twist Is...",
+      "Alia Bhatt Celebrates Halloween In Tumbbad Style With Iconic Hastar Mask, Leaves Fans Excited For Tumbbad 2",
+      "Halloween 2026: 5 Indian Cinema Horror Icons That Refuse To Leave Our Heads; From Stree To Tumbbad",
+      "Rise And Fall 2: Reddit Is Mighty Impressed With Swara Bhasker-Fahad's Bond: Love How She ...",
+      "Final Table K-drama Episode 3 Release Time Today: Who Plays What In The Korean Drama? Full Cast, Ep 3 Deets",
+      "The Great Indian Kapil Show 5 Shahid-Mira Episode Dailymotion: Where To Watch Kapil Sharma Show Ep 6 Free?",
+      "Doctor X Mafia In White Episode 8 Release Time Today: When, Where Will New Ep Premiere Online? What To Expect?",
+      "Exclusive! Shriyam Bhagnani On Unconventional Audition For Sumo Didi: “3 Of Us Underwent Training Before Being Finalized”",
+      "Dhoomakethu: One Wedding, 16 Attempts And A Groom Who Just Can’t Catch A Break- 3 Reasons That Make This A Must-Watch",
+      "Ramayana Advance Booking: Premium Formats Gross Over ₹4 Crore Contributing 23% From Less Than 4% of Shows",
+      "Sanjay Gupta's last rites at Versova crematorium: Abhishek, Rajpal, other celebs arrive - PICS",
+      "Janhvi recreates mother Sridevi’s iconic ‘Nagina’ look for Halloween with Orry as Rishi Kapoor",
+      "Ajay Devgn moves Bombay High Court, challenges FDA's notice on Elaichi ad",
+      "Tiger Shroff car firing case: Mumbai court sends 12th accused to police custody till Nov 6",
+      "Ben Affleck donates $100,000 to support children battling epilepsy at charity gala",
+      "Quote of the day by Ian McKellen",
+      "Janhvi Kapoor recreates mom Sridevi’s Nagina look for Halloween, calls it one of the most iconic movie moments ever",
+      "Bigg Boss 20: Salman Khan lashes out at Scout, asks why he failed to stand up for Love Gill despite claiming to share a sister-like bond with her"
+     ],
+     "updated": [],
+     "count": 353,
+     "detail": "360 stories, 1 duplicates removed, 15 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,19 +1217,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T14:51:53Z",
+    "run_id": "41211996785",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "HBO Max Releases Special Halloween Prequel Episode For It: Welcome To Derry",
+      "Alia Bhatt Embraces Tumbbad Folklore for Halloween with Iconic Hastar Mask"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1629,19 +1630,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T14:51:53Z",
+    "run_id": "41211996785",
+    "status": "success",
+    "checked": {
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 116, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2056,27 +2065,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T14:51:55Z",
+    "run_id": "41211996785",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1my79e5",
+      "o9mnxj",
+      "69erpd"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T18:59:59Z",
-    "run_id": "41110314855",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 315 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2450,19 +2462,27 @@
      "detail": "+0 new rows, 3 updated rows, 325 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T14:51:53Z",
+    "run_id": "41211996785",
+    "status": "success",
+    "checked": {
+     "candidates": 328,
+     "detail": "328 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 325 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2745,19 +2765,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3385,19 +3405,30 @@
      "detail": "api-news.json 293 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T14:51:54Z",
+    "run_id": "41211996785",
+    "status": "success",
+    "checked": {
+     "candidates": 295,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "HBO Max Releases Special Halloween Prequel Episode For It: Welcome To Derry",
+      "Alia Bhatt Embraces Tumbbad Folklore for Halloween with Iconic Hastar Mask"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 295 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3641,93 +3672,19 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T18:52:08Z",
-    "run_id": "41110314855",
-    "status": "success",
-    "checked": {
-     "candidates": 457,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 39,
-      "pk_movies": 18
-     },
-     "picked": 50,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Vishwanath & Sons (1408162)",
-      "Dhurandhar (1291608)",
-      "Dhurandhar: The Revenge (1582770)",
-      "Jana Nayagan (1235877)",
-      "Bethlehem Kudumba Unit (1508168)",
-      "Alpha (1122030)",
-      "DC (1479832)",
-      "Irumudi (1441228)",
-      "Blast (1515729)",
-      "Peddi (1057265)",
-      "Ikka (1484913)",
-      "Bhooth Bangla (1239134)",
-      "Karuppu (1367220)",
-      "War 2 (1109086)",
-      "Tu Yaa Main (1446616)",
-      "Cocktail 2 (1392469)",
-      "Border 2 (1213898)",
-      "Accused (1389149)",
-      "Bāhubali: The Epic (1511417)",
-      "Youth (1542352)",
-      "Sikandar (1257960)",
-      "Kantara - A Legend: Chapter 1 (1083637)",
-      "Kartavya (1628367)",
-      "Main Vaapas Aaunga (1431068)",
-      "Court: State vs. A Nobody (1424217)",
-      "Mardaani 3 (1339876)",
-      "Kara (1433117)",
-      "Superboys of Malegaon (1226572)",
-      "Made in Korea (1561687)",
-      "Saiyaara (1241634)",
-      "Collision Course (1571955)",
-      "A Couple of Lies (336240)",
-      "Lagan Lagi (337316)",
-      "The Rules (330613)",
-      "The Birthday​ Gift​ (1789549)",
-      "Balade Mentale (1812448)",
-      "Once Upon a Rex (1801880)",
-      "Un ángel para Maruja (1801840)",
-      "Annapurna: Dreams and Nightmares (1801769)",
-      "Grace Comes Crashing (1800287)",
-      "Inventario de invisibles (1800127)",
-      "Only Old Friends Left Alive (1799076)",
-      "Wolves Up Close with Bertie Gregory (1798383)",
-      "Home (1797861)",
-      "Apocalypse Z: New World (1507696)",
-      "The Cycle (1290418)",
-      "Sense and Sensibility (1503762)",
-      "Forgotten Island (1465063)",
-      "Runner (1377237)"
-     ],
-     "updated": [],
-     "count": 49
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4031,29 +3988,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T18:53:08Z",
-    "run_id": "41110314855",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 562 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 1/2, box_office 7/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Madaar Episode 29 Promo Highlights New Twists on Green TV",
-      "Brad Pitt's New Survival Thriller Shrinks Screen Count as It Targets $200 Million Milestone"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4451,30 +4398,29 @@
      "count": 2
     },
     "reason": null
-   }
-  ],
-  "overseas_ai": [
+   },
    {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T18:56:24Z",
-    "run_id": "41110314855",
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T14:51:52Z",
+    "run_id": "41211996785",
     "status": "success",
     "checked": {
-     "candidates": 22,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 44"
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 353 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 1/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 0/4, ott_streaming 4/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 1/2"
     },
     "changed": {
      "added": [
-      "Nayyi Navelli (1654581)",
-      "Ranabaali (1389379)",
-      "Jailer 2 (1234139)"
+      "HBO Max Releases Special Halloween Prequel Episode For It: Welcome To Derry",
+      "Alia Bhatt Embraces Tumbbad Folklore for Halloween with Iconic Hastar Mask"
      ],
      "updated": [],
-     "count": 3
+     "count": 2
     },
     "reason": null
-   },
+   }
+  ],
+  "overseas_ai": [
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4718,24 +4664,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 175,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5035,24 +4976,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 6,
+     "count": 162,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5367,24 +5308,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 66,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5629,19 +5570,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5876,19 +5817,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6132,19 +6073,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6385,19 +6326,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6627,19 +6568,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:00:11Z",
-    "run_id": "41110314855",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6892,6 +6833,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T14:52:02Z",
+    "run_id": "41211996785",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6936,5 +6887,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T13:54:34Z"
+ "updated_at": "2026-10-31T14:52:02Z"
 }
