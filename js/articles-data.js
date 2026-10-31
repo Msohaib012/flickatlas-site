@@ -24757,5 +24757,195 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T10:54:58+05:30"
+  },
+  "9pdbc4": {
+    "id": "9pdbc4",
+    "type": "news",
+    "headline": "The Odyssey North America Box Office: Christopher Nolan Epic Wraps Up Domestic Run After 105 Days",
+    "dek": "Christopher Nolan's mythological epic concludes its theatrical journey in North America, finishing with a massive domestic total and setting multiple records.",
+    "body": [
+      {
+        "h": "North American Run Ends After 105 Days",
+        "p": [
+          "Christopher Nolan's latest directorial venture has officially concluded its box office run in North America. The cinematic project spent a total of 105 days playing in theaters across the domestic region before finally bidding farewell to the big screen.",
+          "During its final days in release, the feature managed to secure modest daily figures. On its 15th Thursday, operating across 144 screens in North America, the movie brought in $34k as it wrapped up its theatrical exhibition."
+        ]
+      },
+      {
+        "h": "Domestic and Worldwide Totals",
+        "p": [
+          "The cumulative domestic earnings for the feature reached a commendable $625.6 million by the time its theatrical run closed out. This domestic haul contributed significantly to its massive global performance.",
+          "On a broader scale, tracking data from Box Office Mojo indicates that the picture has accumulated over $1.79 billion globally. Industry analysts project that the original theatrical journey will ultimately conclude right around the $1.8 billion mark worldwide."
+        ]
+      },
+      {
+        "h": "Global and IMAX Milestones",
+        "p": [
+          "The project achieved staggering success in specialized viewing formats, most notably in IMAX. Industry figures show that the film pulled in an estimated $550 million globally from IMAX screenings alone, marking an all-time record for the format.",
+          "International markets contributed heavily to the massive overall gross, bringing in an estimated $1.17 billion to complement the domestic numbers."
+        ]
+      },
+      {
+        "h": "Major Records and Rankings",
+        "p": [
+          "The mythological epic established several notable box office milestones throughout its theatrical lifespan. Most prominently, it stands as Christopher Nolan's highest-grossing film of all time.",
+          "Additionally, the picture secured its place as the second-highest-grossing film of 2026 globally, trailing just behind Spider-Man: Brand New Day. It also ranks as the second-highest-grossing R-rated film domestically of all time and represents Universal's second-biggest release ever."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Critical Reception",
+        "p": [
+          "Led by prominent Hollywood figures including Matt Damon and Anne Hathaway, the picture earned widespread acclaim upon release. Critics praised the scale and direction of the feature.",
+          "Alongside its massive commercial success, the project has also generated significant awards season buzz, widely regarded by industry observers as a major contender for upcoming Oscar recognition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Christopher Nolan's epic concluded its 105-day domestic theatrical run in North America with a total of $625.6 million, contributing to a worldwide gross of over $1.79 billion. Starring Matt Damon and Anne Hathaway, the film set multiple records including becoming Nolan's biggest hit and an all-time IMAX milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "The Odyssey ran for 105 days in North America.",
+      "The film collected $34k on its 15th Thursday across 144 screens.",
+      "Domestic closing collection reached $625.6 million.",
+      "Worldwide gross surpassed $1.79 billion.",
+      "IMAX global collection reached an estimated $550 million.",
+      "International collection reached $1.17 billion.",
+      "The film was released on July 17."
+    ],
+    "entities": {
+      "people": [
+        "Christopher Nolan",
+        "Matt Damon",
+        "Anne Hathaway"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "The Odyssey North America box office",
+      "Christopher Nolan The Odyssey closing collection",
+      "The Odyssey box office collection",
+      "Matt Damon Anne Hathaway The Odyssey"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/the-odyssey-north-america-box-office-after-105-days-christopher-nolans-epic-ends-its-run-01.jpg",
+        "caption": "The Odyssey North America Box Office: Christopher Nolan Epic Wraps Up Domestic Run After 105 Days",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 05:46:40 +0000"
+  },
+  "1ilhekb": {
+    "id": "1ilhekb",
+    "type": "news",
+    "headline": "Criminal Minds: Evolution to Conclude After 20 Seasons",
+    "dek": "Paramunt+ has announced that Criminal Minds: Evolution will wrap up its historic run in 2027, leaving the cast and fans surprised by the abrupt decision.",
+    "body": [
+      {
+        "h": "The Announcement of the Final Season",
+        "p": [
+          "Paramount+ confirmed that the long-running crime drama Criminal Minds: Evolution will officially conclude after 20 total seasons. The final episodes are scheduled to air in 2027, marking the end of an era for the beloved television franchise.",
+          "The upcoming conclusion brings together a familiar ensemble of characters, ensuring that viewers will see their favorite profilers one last time as the series prepares to wrap up its storytelling."
+        ]
+      },
+      {
+        "h": "Cast Reactions to the Abrupt Cancellation",
+        "p": [
+          "The sudden news of the cancellation caught many of the principal cast members off guard. Kirsten Vangsness, who portrays technical analyst Penelope Garcia, revealed that she learned about the network decision just 90 minutes before it became public.",
+          "Taking to social media to address her followers, Vangsness expressed bittersweet emotions about the conclusion. She noted that showrunner Erica Messer believes there are still many stories left to tell, leaving a glimmer of hope for the future."
+        ]
+      },
+      {
+        "h": "A Legacy Spanning Two Decades",
+        "p": [
+          "The franchise originally premiered on CBS in September 2005, following the psychological investigations of FBI profilers in the Behavioral Analysis Unit. After concluding its initial broadcast run in early 2020, the series was revived on Paramount+ in November 2022 under the subtitle Evolution.",
+          "Throughout its extensive broadcasting history, the property also inspired short-lived spinoff iterations including Criminal Minds: Suspect Behavior in 2011 and Criminal Minds: Beyond Borders, which ran from 2016 to 2017."
+        ]
+      },
+      {
+        "h": "Cast Members Share Sentimental Tributes",
+        "p": [
+          "Following the public announcement, various cast members turned to their personal social media platforms to express their gratitude and affection for one another. RJ Hatanaka shared a group photograph of the ensemble, praising them as an exceptional group of colleagues.",
+          "Aisha Tyler reposted the photograph with a heartfelt message calling the cast family for life, while AJ Cook shared similar sentiments. Tyler also highlighted the show's continued popularity by sharing a streaming ranking placing the title at No. 11 after accumulating massive viewing minutes."
+        ]
+      },
+      {
+        "h": "Returning Familiar Faces",
+        "p": [
+          "The final season will feature the return of several core cast members who have defined the series over the years. Viewers can expect to see Joe Mantegna, AJ Cook, Kirsten Vangsness, Aisha Tyler, RJ Hatanaka, Adam Rodriguez, and Paget Brewster reprising their roles.",
+          "The involvement of these long-standing actors provides continuity as the narrative heads toward its planned conclusion on the streaming platform in 2027."
+        ]
+      },
+      {
+        "h": "Recent Controversies and Context",
+        "p": [
+          "The cancellation news arrives amidst other notable moments for the show's cast in recent months. Earlier in the year, Paget Brewster publicly criticized a critic's negative review, defending the livelihood of the production's hundreds of crew members.",
+          "Despite such friction, the ensemble remains closely knit, frequently highlighting their shared bond and the massive audience that has continued to follow the procedural drama across its network and streaming eras."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ announced that Criminal Minds: Evolution will end after 20 seasons, with final episodes airing in 2027. Cast members including Kirsten Vangsness expressed surprise at learning the news shortly before the public announcement, while sharing emotional tributes online alongside co-stars like Aisha Tyler and RJ Hatanaka."
+        ]
+      }
+    ],
+    "facts": [
+      "Criminal Minds: Evolution is wrapping up after 20 seasons.",
+      "The final episodes will air in 2027.",
+      "The show originally began on CBS in 2005 and moved to Paramount+ in 2022.",
+      "Kirsten Vangsness found out about the cancellation 90 minutes before it was made public.",
+      "Criminal Minds ranked at No. 11 with 13.15 billion minutes watched in 2026.",
+      "Criminal Minds debuted on CBS in September 2005.",
+      "Criminal Minds: Suspect Behavior aired in 2011.",
+      "Criminal Minds: Beyond Borders ran from 2016 to 2017."
+    ],
+    "entities": {
+      "people": [
+        "Joe Mantegna",
+        "AJ Cook",
+        "Kirsten Vangsness",
+        "Aisha Tyler",
+        "RJ Hatanaka",
+        "Adam Rodriguez",
+        "Paget Brewster",
+        "Erica Messer",
+        "Tyler Green",
+        "Jennifer Jareau",
+        "Tara Lewis",
+        "Luke Alvez",
+        "Penelope Garcia",
+        "Forest Whitaker",
+        "Gary Sinise",
+        "Shealynn Scott"
+      ],
+      "titles": [
+        "Criminal Minds: Evolution",
+        "Criminal Minds",
+        "Criminal Minds: Suspect Behavior",
+        "Criminal Minds: Beyond Borders",
+        "Charlie and the Chocolate Factory"
+      ]
+    },
+    "keywords": [
+      "Criminal Minds Evolution",
+      "Criminal Minds cancellation",
+      "Kirsten Vangsness",
+      "Paramount plus Criminal Minds"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/newspress-collage-ta3sl5bx7-1793422841370.jpg?quality=75&amp;strip=all&amp;1793408478&amp;w=1024",
+        "caption": "Criminal Minds: Evolution to Conclude After 20 Seasons",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 01:24:03 -0400"
   }
 };
