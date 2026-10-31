@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T10:21:44Z",
-    "run_id": "41040047172",
-    "status": "success",
-    "checked": {
-     "candidates": 342,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Mohit Malik on playing Birju Lohar in Mirzapur The Movie: “We cannot approach a character by simply deciding whether he is good or bad”",
-      "Sara Ali Khan faces fatwa over Kedarnath Temple visit: Reports",
-      "Chaar Yaar: Ashish Chanchlani Gives Shoutout To Prime Video's 'Epic Series'; Purav Jha Says, 'Bhai Ne Bola...'",
-      "Vidya Balan Keeps Her Viral Banter With Rajinikanth Alive As She Shares Jailer 2 BTS Glimpses!",
-      "Rudravanam PS Now Streaming On OTT: Where To Watch Naresh Agastya And Banerjee's Telugu Web Series Online",
-      "Diwali Fashion Inspo: Sonam To Ananya Panday, Sheena; Actresses Who Are Nailing Indo-Western Look",
-      "Eetha Trailer Out: Shraddha Kapoor Transforms Into Legendary Eetha Bai",
-      "You Can See Everything North America Box Office: 3rd Non-Music Documentary In History To Cross $50M Domestically",
-      "Jailer 2 Nears Rajinikanth's First ₹200 Cr Tamil Nadu Milestone as GOAT's Record Comes Under Threat",
-      "Dorothy Enters Letterboxd India Top 500 At No. 475, Giving Karthik Subbaraj A Rare Film-Buff Milestone",
-      "Samantha shares ninth-month pregnancy workout video",
-      "Has Ibrahim Ali Khan broken up with Palak Tiwari?",
-      "Raghubir Yadav suffered heart attack before filming key ‘Hunkkaar’ scene",
-      "Anirudh Ravichander-Kavya Maran wedding guest list",
-      "Veteran Tamil actress Vatsala Rajagopal passes away at 93",
-      "Ramayana November 5 Release: Namit recalls losing 90% wealth",
-      "Eetha trailer: Shraddha brings Vithabai’s Lavani legacy alive",
-      "Eetha trailer out: Shraddha Kapoor celebrates Maharashtra's Lavani legacy as she transforms into Vithabai Narayangaonkar in Laxman Utekar's musical",
-      "Suriya's police officer role in Scene is different from his previous roles in Kaakha Kaakha and Singam, says director Jithu Madhavan",
-      "Indian food, 'Namaste' and Shahid Kapoor: NTX recall highlights of their second India visit"
-     ],
-     "updated": [],
-     "count": 324,
-     "detail": "326 stories, 1 duplicates removed, 16 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T10:57:59Z",
     "run_id": "41044540000",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "301 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T10:58:19Z",
-    "run_id": "41044540000",
+    "run_at": "2026-10-31T05:51:39Z",
+    "run_id": "41174175811",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 240,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Producer Namit Malhotra Recalls Losing 90% Wealth at 19 Before Backing Rs 4,000 Crore Epic",
-      "Priyanka Chopra Jonas joins Oscar-qualified short film We Were Here as executive producer"
+      "Filmmaker Sanjay Gupta passes away; director leaves behind a distinctive crime cinema legacy",
+      "Gaurav Khanna and Shraddha Arya starrer show gets its title; Star Plus unveils announcement promo of Dil Ki Bewafaiyaan",
+      "After 170+ Tracks Behind the Scenes, Vaibhav Pani Is Finally Taking His Music To The Stage With A One-Of-A-Kind Live Electronic Performance",
+      "The Odyssey North America Box Office (Closing Collection): Christopher Nolan’s Epic Wraps Up Its Domestic Run After 105 Days, Achieves 3 Major Records",
+      "Aadarsha Kutumbam Box Office Collection Day 1: Venkatesh Starrer Opens 58% Below Sankranthiki Vasthunam",
+      "Jailer 2 Box Office Collections: Rajinikanth's star vehicle smashes Rs 6 crore on 3rd Friday, grosses Rs 480 crore in 16 days",
+      "SRK's King breaks overseas rights record at Rs 175 crore",
+      "'Athimanoharam': Antony against expecting 'Narasimham'",
+      "Sree Vishnu starrer 'Comrade Kalyan' OTT release details",
+      "Pa Ranjith’s 'Vettuvam' locks Pongal 2027 release",
+      "Diljit Dosanjh takes dig at concert critics",
+      "Tom Hanks launched a coffee brand to support veterans in 2022; a 2026 report says it has helped hundreds of military families",
+      "Ramayana international reviews hail dazzling visuals, but say exhausting narrative makes Ranbir Kapoor, Yash film an 'overproduced B movie'",
+      "Sandra Bullock’s 91-acre California ranch had about 1,200 organic avocado trees; the property sold for $5.6 million in 2022",
+      "Sacred Games, Farzi motion designers call out criticism of Ramayana’s VFX, say Indians should support it ‘regardless of its flaws’",
+      "A Solvang cottage formerly owned by Dolly Parton is listed for $1.995 million; a buyer paid $185,000 for it in 1999",
+      "Halloween Special | Orry names Janhvi Kapoor his potential competition: Only Kapoor sisters can",
+      "Shah Rukh Khan’s Birthday Surprise Loading? Siddharth Anand’s Another Cryptic Posts Fuel KING Buzz",
+      "The Stargate SG-1 Franchise Official Return Announced",
+      "10 Most Lovecraftian TV Shows Of All Time"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 238,
+     "detail": "239 stories, 0 duplicates removed, 1 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T05:52:00Z",
+    "run_id": "41174175811",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana International Reviews Praise Visuals While Criticizing Exhausting Narrative",
+      "Sree Vishnu and Mahima Nambiar's Action-Comedy 'Comrade Kalyan' Lands on OTT"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T11:13:36Z",
-    "run_id": "41046463410",
-    "status": "success",
-    "checked": {
-     "candidates": 56,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 52, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1603,27 @@
      "detail": "now 87, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T10:58:20Z",
-    "run_id": "41044540000",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T05:52:00Z",
+    "run_id": "41174175811",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 91,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 87, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2036,27 +2019,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T10:25:00Z",
-    "run_id": "41040047172",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T05:52:02Z",
+    "run_id": "41174175811",
     "status": "success",
     "checked": {
-     "candidates": 320,
-     "detail": "319 collected staging rows from readers; 109 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
-     "detail": "+0 new rows, 13 updated rows, 306 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2430,19 +2412,27 @@
      "detail": "+2 new rows, 6 updated rows, 318 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T05:52:00Z",
+    "run_id": "41174175811",
+    "status": "success",
+    "checked": {
+     "candidates": 327,
+     "detail": "326 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 323 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2725,30 +2715,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T10:58:20Z",
-    "run_id": "41044540000",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Priyanka Chopra Jonas joins Oscar-qualified short film We Were Here as executive producer",
-      "Ramayana Producer Namit Malhotra Recalls Losing 90% Wealth at 19 Before Backing Rs 4,000 Crore Epic"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3161,19 +3140,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T05:52:01Z",
+    "run_id": "41174175811",
+    "status": "success",
+    "checked": {
+     "candidates": 82,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana International Reviews Praise Visuals While Criticizing Exhausting Narrative",
+      "Sree Vishnu and Mahima Nambiar's Action-Comedy 'Comrade Kalyan' Lands on OTT"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 82 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3443,19 +3433,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3759,29 +3749,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T10:22:00Z",
-    "run_id": "41040047172",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 324 still unprocessed; today by category: movies 5/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 1/4, ott_streaming 3/4, trailers 1/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Shraddha Kapoor Transforms Into a Lavani Icon in the New Trailer for Eetha",
-      "Veteran Tamil Actor Vatsala Rajagopal Passes Away at 93 in Chennai"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4179,19 +4159,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T05:52:00Z",
+    "run_id": "41174175811",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 238 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana International Reviews Praise Visuals While Criticizing Exhausting Narrative",
+      "Sree Vishnu and Mahima Nambiar's Action-Comedy 'Comrade Kalyan' Lands on OTT"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4432,24 +4422,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 191,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4749,24 +4734,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 224,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5061,19 +5046,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 22,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5318,19 +5308,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5556,6 +5546,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-31T04:57:21Z",
     "run_id": "41170179272",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5566,16 +5566,6 @@
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-30T10:58:28Z",
     "run_id": "41044540000",
     "status": "skipped",
@@ -5802,19 +5792,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6055,19 +6045,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6297,19 +6287,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T10:25:09Z",
-    "run_id": "41040047172",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6562,6 +6552,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T05:52:09Z",
+    "run_id": "41174175811",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6584,5 +6584,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T04:57:21Z"
+ "updated_at": "2026-10-31T05:52:09Z"
 }

@@ -24533,5 +24533,229 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 09:01:02 +0530"
+  },
+  "17lrgh1": {
+    "id": "17lrgh1",
+    "type": "news",
+    "headline": "Ramayana International Reviews Praise Visuals While Criticizing Exhausting Narrative",
+    "dek": "The first international reviews for Nitesh Tiwari’s upcoming epic Ramayana are out following its world premiere in Los Angeles, drawing mixed reactions for its scale and storytelling.",
+    "body": [
+      {
+        "h": "Los Angeles World Premiere and Review Embargo",
+        "p": [
+          "The first wave of international reviews for the high-profile epic Ramayana has officially arrived following a grand world premiere in Los Angeles. The review embargo for the film lifted on a recent Friday night, allowing a select group of international publications to share their initial assessments.",
+          "The movie features a star-studded cast including Ranbir Kapoor and Yash. While anticipation for the project has been immense, the first batch of critiques provides a nuanced look at how the cinematic adaptation of the classic epic is being received abroad."
+        ]
+      },
+      {
+        "h": "Praise for Visuals and Production Value",
+        "p": [
+          "Despite mixed feelings regarding the plot, several critics heaped high praise on the technical execution and grand scale of Ramayana. Reviewers highlighted the ambitious production design and visual effects as major highlights of the cinematic experience.",
+          "Avi Offer of NYC Movie Guru commended the feature as a visually dazzling action adventure backed by strong set and costume design. Similarly, Screen Rant awarded the film a 7 out of 10, calling it an impressive achievement on a purely visual and technical level."
+        ]
+      },
+      {
+        "h": "IndieWire and Other Critical Perspectives",
+        "p": [
+          "IndieWire awarded the production a 'B', describing it as an epic that successfully achieves its goal of delivering the highest possible production value. However, the reviewer noted that the final product occasionally lacks a distinct voice to make it uniquely memorable.",
+          "Other publications were less forgiving of the storytelling choices. Some critics felt the heavy reliance on high-end production overshadowed the character depth, leaving certain elements of the narrative feeling mechanical rather than organic."
+        ]
+      },
+      {
+        "h": "Criticism of Length and Stuffed Narrative",
+        "p": [
+          "Even though the English version of Ramayana runs nearly half an hour shorter than the Indian cut, the two-and-a-half-hour runtime failed to satisfy several early reviewers. Complaints centered around a bloated and exhausting narrative structure.",
+          "Some international critics described the viewing experience as emotionally hollow and overly cluttered. One reviewer bluntly compared the theatrical format unfavorably against grand serialized television productions."
+        ]
+      },
+      {
+        "h": "Comparisons to Television Formats",
+        "p": [
+          "The sheer density of the mythological material prompted discussions on whether a traditional feature film format was the ideal medium. Reviewers suggested that the sprawling plotlines required significantly more room to breathe.",
+          "Next Best Picture remarked that the movie might have worked better as a television adaptation akin to Game of Thrones, allowing the narrative to flesh out its extensive cast and world fully instead of feeling overly stuffed."
+        ]
+      },
+      {
+        "h": "Harsh Critiques and Technical Missteps",
+        "p": [
+          "Among the tougher assessments, IGN handed out a lower score of 4 out of 10. The review pointed to clunky action sequences, subpar computer-generated imagery, and awkward artificial intelligence lip-syncing as drawbacks.",
+          "Furthermore, these critical reviews emphasized that this installment represents only the first part of a larger planned cinematic journey, leaving certain structural resolutions for future entries."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Details",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman. The project is produced by Namit Malhotra’s Prime Focus Studios alongside DNEG and Yash’s Monster Mind Creations.",
+          "The film is structured as a two-part release. The first part is slated to arrive globally on November 5, with paid previews in the United States set for November 4, while the second part is scheduled for a Diwali 2027 release. Sony Pictures handles international distribution outside India, and Dharma Productions distributes in the Hindi market."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "International reviews for the Ranbir Kapoor and Yash-starrer Ramayana have emerged following its premiere in Los Angeles. While critics widely applauded the film's dazzling visuals and high production scale, they raised concerns about its exhausting and overstuffed narrative."
+        ]
+      }
+    ],
+    "facts": [
+      "The world premiere for Ramayana took place in Los Angeles.",
+      "The review embargo for the film lifted on Friday night, October 31, 2026.",
+      "Screen Rant rated the film 7 out of 10.",
+      "IndieWire gave the film a 'B' rating.",
+      "IGN rated the film 4 out of 10.",
+      "The English version of the film is almost half an hour shorter than the Indian version.",
+      "The film has a runtime of two and a half hours.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Namit Malhotra’s Prime Focus Studios, DNEG, and Yash’s Monster Mind Creations are producing the film.",
+      "The cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.",
+      "The first part of the film is scheduled for worldwide release on November 5.",
+      "Paid previews in the US are scheduled for November 4.",
+      "The second part is set for release on Diwali 2027.",
+      "Sony Pictures is handling global distribution excluding India, and Dharma Productions is handling distribution in the Hindi-speaking market."
+    ],
+    "entities": {
+      "people": [
+        "Abhimanyu Mathur",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Avi Offer",
+        "Brandon Zachary",
+        "Christian Zilko",
+        "Giovanni Lago",
+        "Siddharth Adlakha",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Sita Sings the Blues",
+        "Game of Thrones"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Yash Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana international reviews"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/31/1600x900/logo/Ramayana_first_reviews_1793422884313_CNPC_1793422884512_lj9F_8c462815-f6da-42b8-aafc-798a8a189f8c_DIIu.jpg",
+        "caption": "Ramayana International Reviews Praise Visuals While Criticizing Exhausting Narrative",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 10:49:38 +0530"
+  },
+  "nmhwie": {
+    "id": "nmhwie",
+    "type": "news",
+    "headline": "Sree Vishnu and Mahima Nambiar's Action-Comedy 'Comrade Kalyan' Lands on OTT",
+    "dek": "The Telugu theatrical release 'Comrade Kalyan' is now available for digital streaming across multiple languages following its box office run.",
+    "body": [
+      {
+        "h": "Theatrical Journey to Digital Premiere",
+        "p": [
+          "The Telugu action-comedy feature 'Comrade Kalyan' has officially transitioned from cinemas to home screens. Following its initial theatrical opening on October 9, the feature film has made its way onto a major digital streaming platform for audiences who missed it in theatres.",
+          "Viewers can now stream the movie from the comfort of their homes. This rapid shift to digital platforms allows fans of the lead actors to experience the feature without needing to visit a cinema hall."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Language Options",
+        "p": [
+          "The movie commenced its digital run on Prime Videos starting Friday, October 30. This ensures wide accessibility for regional and national viewers alike.",
+          "To cater to a diverse demographic, the feature is accessible in multiple audio options. Subscribers can stream the title in Telugu, Hindi, Tamil, Kannada, and Malayalam."
+        ]
+      },
+      {
+        "h": "Setting the Stage and Background",
+        "p": [
+          "The narrative is rooted in a distinct 1990s backdrop. It marks the directorial debut of filmmaker Janakiram Marella, who brings a specific retro atmosphere to the screen.",
+          "At the centre of the plot is Tadikonda Kalyan, portrayed by Sree Vishnu. Kalyan is depicted as a man with limited formal education who manages a village theatre on a lease agreement."
+        ]
+      },
+      {
+        "h": "Conflict and Character Arcs",
+        "p": [
+          "Parallel to Kalyan's humble life, the narrative introduces an internal security threat. IPS officer George Kutty, played by Shine Tom Chacko, is deployed to dismantle a Naxalite faction led by Master operating within nearby forested regions.",
+          "Kalyan's ordinary routine is completely upended upon the arrival of an Odia girl, played by Mahima Nambiar, who comes to the village accompanied by her parents. After she protects his mother from a perilous situation, Kalyan develops deep romantic feelings for her."
+        ]
+      },
+      {
+        "h": "Transformation into Comrade Kalyan",
+        "p": [
+          "Upon discovering that the family of the woman he loves is enduring severe financial hardship, Kalyan resolves to step in and offer assistance.",
+          "Teaming up with his companion Dubai Babu, he makes a critical decision that alters his life's trajectory, eventually turning him into 'Comrade Kalyan,' an individual pursued by law enforcement."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Crew",
+        "p": [
+          "Aside from the principal pairing of Sree Vishnu and Mahima Nambiar, the film features a robust supporting lineup including Satya, Radhika Sarathkumar, Shine Tom Chacko, and Upendra Limaye in pivotal roles.",
+          "Behind the camera, the technical crew includes music composer Vijay Bulganin, cinematographer Sai Sriram, and editor Chota K Prasad, who collectively shaped the final audio-visual presentation."
+        ]
+      },
+      {
+        "h": "Reception and Certification",
+        "p": [
+          "Upon its initial appearance in cinemas, the project garnered a mixed-to-positive response across various internet platforms. Viewers particularly commended the humorous elements woven into the script.",
+          "The Central Board of Film Certification evaluated the title and cleared it for public viewing by issuing a U/A certificate, indicating it is suitable for a general audience with parental guidance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu action-comedy 'Comrade Kalyan', starring Sree Vishnu and Mahima Nambiar, has officially premiered on Prime Videos following its October theatrical release. Directed by Janakiram Marella, the multilingual streaming title chronicles the journey of a village theatre manager who transforms into a wanted man while helping the woman he loves."
+        ]
+      }
+    ],
+    "facts": [
+      "Comrade Kalyan was released in theaters on October 9.",
+      "The film began streaming on Prime Videos on Friday, October 30.",
+      "It is available in Telugu, Hindi, Tamil, Kannada, and Malayalam.",
+      "Janakiram Marella makes his directorial debut with this film.",
+      "Sree Vishnu plays Tadikonda Kalyan.",
+      "Shine Tom Chacko plays IPS officer George Kutty.",
+      "Mahima Nambiar plays the Odia girl.",
+      "The film received a U/A certificate from the CBFC."
+    ],
+    "entities": {
+      "people": [
+        "Sree Vishnu",
+        "Mahima Nambiar",
+        "Janakiram Marella",
+        "Shine Tom Chacko",
+        "Master",
+        "Dubai Babu",
+        "Satya",
+        "Radhika Sarathkumar",
+        "Upendra Limaye",
+        "Vijay Bulganin",
+        "Sai Sriram",
+        "Chota K Prasad"
+      ],
+      "titles": [
+        "Comrade Kalyan",
+        "Thipparaa Meesam"
+      ]
+    },
+    "keywords": [
+      "Comrade Kalyan OTT release",
+      "Sree Vishnu Comrade Kalyan",
+      "Comrade Kalyan Prime Videos",
+      "Mahima Nambiar Comrade Kalyan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135389572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sree Vishnu and Mahima Nambiar's Action-Comedy 'Comrade Kalyan' Lands on OTT",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-31T10:54:58+05:30"
   }
 };
