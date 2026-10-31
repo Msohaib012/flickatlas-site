@@ -24343,5 +24343,195 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T03:52:17Z"
+  },
+  "4npt3u": {
+    "id": "4npt3u",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
+    "dek": "The upcoming action project King starring Shah Rukh Khan has secured an unprecedented overseas distribution deal, setting a new benchmark for Indian films internationally.",
+    "body": [
+      {
+        "h": "Record-Breaking International Rights Deal",
+        "p": [
+          "Shah Rukh Khan continues to dominate international markets as his upcoming movie King secures a massive overseas distribution deal. Reports indicate that the theatrical rights outside India have been purchased for a staggering Rs 175 crore.",
+          "This monumental agreement sets a brand new milestone for Indian cinema history, surpassing any previous international pre-release figures. Such a high valuation reflects the immense global stardom and box office pull of the lead actor."
+        ]
+      },
+      {
+        "h": "Shift in Distribution Partnership",
+        "p": [
+          "For this project, the overseas rights have been acquired by Phars Films, involving a significant minimum guarantee amount of Rs 175 crore. Previously, Shah Rukh Khan's major international distributions were managed by Yash Raj Films.",
+          "While Yash Raj Films famously handled massive hits like Pathaan and Jawan, Phars Films brings extensive global distribution experience to the table, having previously partnered on numerous major titles and independently managed releases like Saaho."
+        ]
+      },
+      {
+        "h": "Stantards for Commercial Success Abroad",
+        "p": [
+          "Because international distributors typically retain about half of the total box office gross, this heavy investment means the film must perform exceptionally well to turn a profit. Industry calculations suggest the movie needs to gross between 37 and 40 million dollars internationally just to break even.",
+          "In Indian currency, that translates to roughly Rs 350 to 375 crore in global gross collections. To justify the substantial minimum guarantee, the project will need to match the international earnings of past heavyweights."
+        ]
+      },
+      {
+        "h": "Challenging Previous Blockbuster Benchmarks",
+        "p": [
+          "To achieve commercial success under this agreement, King will need to replicate or exceed the overseas achievements of previous record-setters. Both Pathaan and Jawan previously pulled in around Rs 400 crore in international markets.",
+          "Furthermore, the film's financial targets align with other massive global earners like RRR and Dhurandhar 2, setting a remarkably high bar for its theatrical run."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "King is directed by Siddharth Anand, who previously collaborated with Shah Rukh Khan on the monumental Rs 1000-crore blockbuster Pathaan. The upcoming project brings together an extensive ensemble cast.",
+          "The movie features notable actors including Deepika Padukone, Abhishek Bachchan, Rani Mukerji, Jaideep Ahalawat, Raghav Juyal, and Saurabh Shukla, creating high anticipation among fans."
+        ]
+      },
+      {
+        "h": "A Special Family Collaboration",
+        "p": [
+          "A major highlight of the project is that it marks the first time Shah Rukh Khan shares screen space with his daughter, Suhana Khan. Suhana previously made her official acting debut in 2023 with The Archies.",
+          "With a strong promotional build-up and a high-profile cast, the film is scheduled to arrive in movie theaters globally during the Christmas season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming film King has sold its overseas theatrical rights for Rs 175 crore, setting a new record for Indian cinema. Directed by Siddharth Anand and co-starring Suhana Khan alongside a prominent ensemble cast, the movie is slated for a Christmas release while needing to match the massive international earnings of past blockbusters to break even."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's King sold overseas rights for Rs 175 crore",
+      "Phars Films acquired the overseas distribution rights",
+      "The film is directed by Siddharth Anand",
+      "The cast includes Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukerji, Jaideep Ahalawat, Raghav Juyal, and Saurabh Shukla",
+      "The film is scheduled to release on December 24"
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Jaideep Ahalawat",
+        "Raghav Juyal",
+        "Saurabh Shukla",
+        "Prabhas",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Jawan",
+        "Saaho",
+        "Dhurandhar 2",
+        "RRR",
+        "The Archies"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "King overseas rights",
+      "Siddharth Anand King movie",
+      "Shah Rukh Khan Suhana Khan King"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/31/1600x900/logo/King_SRK_1793420322437_yscK_1793420322580_EG36_a6ead9a6-39f5-46f8-bef1-7678d4886859_vegY.jpg",
+        "caption": "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 09:58:55 +0530"
+  },
+  "196dfm": {
+    "id": "196dfm",
+    "type": "news",
+    "headline": "Udta Teer Enters Second Week with Solid Momentum at the Box Office",
+    "dek": "Ayushmann Khurrana and Sara Ali Khan's spy comedy maintains a steady grip in theaters as it approaches the Rs 35 crore milestone.",
+    "body": [
+      {
+        "h": "Entering the Second Week with Steady Numbers",
+        "p": [
+          "The theatrical run of Udta Teer has transitioned into its second week with commendable stability. Headlined by Ayushmann Khurrana and Sara Ali Khan, the spy comedy picture managed to pull audiences into cinema halls even after completing its first full week on the silver screen.",
+          "Trade trackers observed that the drop from the initial Friday was remarkably contained, pointing to healthy word-of-mouth backing the feature. This retention allows the production to secure a strong footing as it faces the typical weekday and weekend shifts."
+        ]
+      },
+      {
+        "h": "Breakdown of the Second Friday Earnings",
+        "p": [
+          "On its second Friday, the feature brought in an estimated collection of Rs 2.75 crore at the domestic ticket windows. This figure reflects only a minor decline compared to its opening day figures, signaling that weekday exhaustion has not heavily disrupted its run.",
+          "With this latest addition, the cumulative nett collections in India have scaled up to Rs 32.75 crore after eight days of exhibition. Analysts attribute this resilient performance to steady footfall across key urban centers."
+        ]
+      },
+      {
+        "h": "Comparing the Opening Week Trajectory",
+        "p": [
+          "Looking back at its initial seven-day journey, the project experienced an encouraging opening weekend before settling into a predictable weekday routine. It opened to Rs 3.75 crore, surged to Rs 7.25 crore on Saturday, and peaked on Sunday with Rs 8.00 crore.",
+          "As the week progressed, the collections stabilized around Rs 3.00 crore on Monday and Tuesday, before tapering down to Rs 2.50 crore on Wednesday and Thursday respectively, setting up a solid foundation for the second week."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Direction",
+        "p": [
+          "The picture brings together a fresh lead pairing of Ayushmann Khurrana and Sara Ali Khan, who shoulder the narrative responsibilities of this lighthearted espionage venture. Their on-screen chemistry forms the core appeal for moviegoers seeking theatrical entertainment.",
+          "Behind the camera, the film is guided by director Aakash Kaushik, whose vision blends espionage tropes with comedic elements. The backing comes from production banners that structured the film's theatrical rollout across domestic markets."
+        ]
+      },
+      {
+        "h": "Upcoming Weekend Projections and Lifetime Outlook",
+        "p": [
+          "Industry experts anticipate that the feature will pull in an additional Rs 7 to 9 crore over the course of its second weekend. This expected surge will push the overall tally comfortably closer to the Rs 40 crore threshold.",
+          "However, the exhibition window faces an impending challenge with the arrival of major new releases, notably the much-discussed Ramayana, which will occupy significant screen space. Consequently, trade estimates project the lifetime domestic run to close somewhere between Rs 38 and 42 crore nett."
+        ]
+      },
+      {
+        "h": "Context within Recent Releases",
+        "p": [
+          "While the numbers demonstrate a stable performance, trade tracking indicates that the final tally will likely fall short of the previous release led by its principal actors, Pati Patni Aur Woh Do. Even so, maintaining a steady audience draw in a competitive marketplace remains a notable achievement.",
+          "Commercial evaluations remind observers that these figures are analytical trade estimations derived from advance booking trends and market sentiment rather than finalized accounting audits."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer entered its second week with a strong hold, collecting Rs 2.75 crore on its second Friday. Directed by Aakash Kaushik, the film's eight-day cumulative total reached Rs 32.75 crore nett in India, with projections pointing toward a final lifetime collection of Rs 38 to 42 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Udta Teer collected Rs. 2.75 crore on its 2nd Friday.",
+      "The 8-day theatrical cume reached Rs. 32.75 crore nett at the Indian box office.",
+      "The film stars Ayushmann Khurrana and Sara Ali Khan.",
+      "Udta Teer is directed by Aakash Kaushik.",
+      "Opening day collection was Rs. 3.75 cr."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sara Ali Khan",
+        "Aakash Kaushik"
+      ],
+      "titles": [
+        "Udta Teer",
+        "Pati Patni Aur Woh Do",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Udta Teer box office",
+      "Ayushmann Khurrana Udta Teer",
+      "Udta Teer 2nd Friday collections",
+      "Sara Ali Khan Udta Teer"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-10/651698933_321836950_ayushmann-k-udta-teer-webp.webp",
+        "caption": "Udta Teer Enters Second Week with Solid Momentum at the Box Office",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 09:01:02 +0530"
   }
 };

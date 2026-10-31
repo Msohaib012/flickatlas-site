@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T09:50:39Z",
-    "run_id": "41036361612",
-    "status": "success",
-    "checked": {
-     "candidates": 271,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ahaan Panday, Vedang Raina To Sparsh Walia: Young Actors Who Are Winning Hearts With Power-Packed Performances",
-      "Scene Trailer Release Date: Suriya's Film Gets A Major Update As Audio And Trailer Launch Date Is Announced",
-      "Sa Re Ga Ma Pa 2026: Anu Malik Joins Zee TV Show As A Special Judge - UPDATE",
-      "Ibrahim Ali Khan-Palak Tiwari Breakup: Did Iggy End His 3-Yr Relationship With Palak? Was The Split Mutual?",
-      "Karwa Chauth 2026 Special: 5 Romantic Web Series and Microdramas to Watch on OTT",
-      "Akka Web Series Review Ft. Keerthy Suresh, Radhika Apte & 100 Blood-Soaked Women Killing A Superb Feminist Plot That Turns Pointless & Unnecessary!",
-      "Drishyam 3 Box Office Collection Day 28: Scores Ajay Devgn’s 3rd Biggest Week 4 Of All Time!",
-      "Clayface North America Box Office: DCU Horror Is Edging Closer To Beating Avengers: Endgame Encore Soon!",
-      "Ranabaali Box Office: Beats Kingdom To Become Vijay Deverakonda’s Biggest Post-COVID Hit",
-      "Udta Teer Box Office Collection Day 7: Becomes Ayushmann Khurrana’s 4th Highest-Grossing Film Post-COVID",
-      "Tom Cruise and Keanu Reeves in Christopher Nolan's Next Film? Viral Rumour Sparks Buzz",
-      "15 Years Of 'Ra.One': Anubhav Sinha recalls VFX gamble with SRK",
-      "Paresh Rawal says he has done over 250 films but considers only 11 of them any good, reveals his favourite roles",
-      "Karthik Subbaraj responds to criticism that Kollywood has not delivered a  ₹1000 crore hit like KGF, Pushpa yet",
-      "Pankaj Tripathi says 'Mirzapur' shattered industry myth about star-driven films being BO pull",
-      "Ramayana's global box-office roar: Rs 17 crore in India, nearing $3 million overseas",
-      "7 Majestic Avengers: Doomsday Posters Will Make You Fear Doctor Doom",
-      "Philip K. Dick & William Gibson’s Streaming War Is The Cyberpunk Event Of All Time",
-      "Annecy Winner ‘The Violinist’ Found Its Italian Co-Producers at Tokyo Market, Director Ervin Han Tells Anime Co-Production Panel",
-      "Jamie Dornan Boards ‘Nostalgie,’ Starring Aidan Gillen as Washed-up Pop Star, as Executive Producer (Exclusive)"
-     ],
-     "updated": [],
-     "count": 267,
-     "detail": "271 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T10:21:44Z",
     "run_id": "41040047172",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "259 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T10:22:00Z",
-    "run_id": "41040047172",
+    "run_at": "2026-10-31T04:51:33Z",
+    "run_id": "41170179272",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 313,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Shraddha Kapoor Transforms Into a Lavani Icon in the New Trailer for Eetha",
-      "Veteran Tamil Actor Vatsala Rajagopal Passes Away at 93 in Chennai"
+      "Naagzilla producers take legal action over alleged Rs. 3.92 crores misappropriation; Mumbai court rejects anticipatory bail pleas of 3 production executives",
+      "Cult Box Office Collection Day 1: Vishwak Sen's Film Opens With ₹1.30 Crore Worldwide",
+      "Jailer 2 Box Office Collection Day 16: Rajinikanth's Film Nears ₹780 Cr Worldwide, India Net Crosses ₹435 Cr",
+      "Bigg Boss 20 Elimination Confirmed Week 8: Aamrapali, Aasif or Kanika - THIS Contestant To Get Evicted",
+      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 1: Venkatesh's Film Crosses ₹16 Crore Worldwide",
+      "Don’t Trouble The Trouble Movie Review: Abracadabra! Fahadh Faasil’s Infectious Energy Makes This Magical Ride Engaging",
+      "Premada Oorali Box Office Collections: Kannada film maintains good hold on 6th Friday, targets Rs. 125 crore end",
+      "Udta Teer 2nd Friday Box Office Collections: Ayushmann Khurrana's spy comedy enters Week 2 with GOOD hold, nears Rs 35 crore mark",
+      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's thriller enters Week 5 with Rs 1 crore, nears theatrical end",
+      "2026 Set to Become Biggest Year at Indian Box Office: 15000+ Crore in Sight With Ramayana, King, and Avengers: Doomsday Coming Next",
+      "Aadarsha Kutumbam House No 47 Box Office Collection Day 1: ₹16.65 Cr Worldwide Gross Puts Venkatesh Among Top 7 Telugu Openers of 2026",
+      "Criminal Minds’ cancelled after 20 seasons; finale to air in 2027",
+      "Did Diljit Dosanjh take a jibe at CJP for past comments? - WATCH",
+      "Michael Douglas on struggle to shake off ‘TV star' image",
+      "‘Cult’ BO collection day 1: Vishwak Sen’s film opens at Rs 1.30 crore worldwide",
+      "Michael Douglas reveals Catherine Zeta-Jones’ ultimatum about affairs before accepting actor's proposal",
+      "Sara Ali Khan's net worth grows from Rs 13 crore to Rs 41 crore",
+      "'King' UPDATE: First song to release on Shah Rukh Khan's birthday",
+      "Akshay Oberoi on working with Siddharth Anand in 'King'",
+      "Shah Rukh Khan's King sells overseas rights for  ₹175 crore, highest in Indian cinema history; film needs to out-earn Pathaan, Jawan to break even"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 296,
+     "detail": "301 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T04:52:00Z",
+    "run_id": "41170179272",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
+      "Udta Teer Enters Second Week with Solid Momentum at the Box Office"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T10:58:19Z",
-    "run_id": "41044540000",
-    "status": "success",
-    "checked": {
-     "candidates": 56,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 52, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1603,27 @@
      "detail": "now 87, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T10:25:01Z",
-    "run_id": "41040047172",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T04:52:00Z",
+    "run_id": "41170179272",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 91,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 87, coming 4"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2032,27 +2015,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T04:57:12Z",
+    "run_id": "41170179272",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "xl6qwm",
+      "1fot0a7",
+      "1gvtjck"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T09:52:19Z",
-    "run_id": "41036361612",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "319 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 316 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2426,19 +2412,27 @@
      "detail": "+0 new rows, 3 updated rows, 321 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T04:57:10Z",
+    "run_id": "41170179272",
+    "status": "success",
+    "checked": {
+     "candidates": 327,
+     "detail": "326 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+2 new rows, 6 updated rows, 318 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2721,30 +2715,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T10:25:01Z",
-    "run_id": "41040047172",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Shraddha Kapoor Transforms Into a Lavani Icon in the New Trailer for Eetha",
-      "Veteran Tamil Actor Vatsala Rajagopal Passes Away at 93 in Chennai"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3157,19 +3140,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T04:57:12Z",
+    "run_id": "41170179272",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
+      "Udta Teer Enters Second Week with Solid Momentum at the Box Office"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3439,19 +3433,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3755,29 +3749,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:52:19Z",
-    "run_id": "41036361612",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 267 still unprocessed; today by category: movies 5/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 3/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
-      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4175,19 +4159,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T04:52:00Z",
+    "run_id": "41170179272",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 296 still unprocessed; today by category: movies 3/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
+      "Udta Teer Enters Second Week with Solid Momentum at the Box Office"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4428,24 +4422,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 181,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4745,24 +4734,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 19,
+     "count": 190,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5057,19 +5046,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 22,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5314,19 +5308,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5552,6 +5546,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-31T03:52:27Z",
     "run_id": "41166075826",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5562,16 +5566,6 @@
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-30T10:25:09Z",
     "run_id": "41040047172",
     "status": "skipped",
@@ -5798,19 +5792,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6051,19 +6045,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6293,19 +6287,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:52:26Z",
-    "run_id": "41036361612",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6558,6 +6552,16 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T04:57:21Z",
+    "run_id": "41170179272",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6580,5 +6584,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T03:52:27Z"
+ "updated_at": "2026-10-31T04:57:21Z"
 }

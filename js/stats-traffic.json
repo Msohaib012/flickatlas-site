@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-10-31T03:52:27Z",
+  "generated": "2026-10-31T04:57:21Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 7,
-    "pageviews": 21,
-    "sessions": 12,
-    "avg_session_seconds": 33.6
+    "users": 9,
+    "pageviews": 23,
+    "sessions": 14,
+    "avg_session_seconds": 31.7
   },
   "last7": {
-    "users": 92,
-    "pageviews": 799,
-    "sessions": 164,
-    "avg_session_seconds": 459.6
+    "users": 94,
+    "pageviews": 801,
+    "sessions": 166,
+    "avg_session_seconds": 461.2
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
       "views": 286,
-      "avg_time_seconds": 625.9
+      "avg_time_seconds": 638.2
     },
     {
       "path": "/movie",
@@ -50,8 +50,8 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 19,
-      "avg_time_seconds": 30.9
+      "views": 21,
+      "avg_time_seconds": 29.7
     },
     {
       "path": "/show",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 147,
-      "users": 91
+      "sessions": 149,
+      "users": 93
     },
     {
       "source": "google",
@@ -94,14 +94,14 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 8,
-      "users": 4
+      "sessions": 4,
+      "users": 2
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 70
+      "users": 71
     },
     {
       "country": "(not set)",
@@ -116,11 +116,11 @@
       "users": 4
     },
     {
-      "country": "Canada",
-      "users": 2
+      "country": "Netherlands",
+      "users": 3
     },
     {
-      "country": "Netherlands",
+      "country": "Canada",
       "users": 2
     },
     {
@@ -143,11 +143,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 79
+      "users": 80
     },
     {
       "device": "mobile",
-      "users": 13
+      "users": 14
     }
   ],
   "per_post": {}

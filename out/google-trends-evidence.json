@@ -1,8 +1,448 @@
 {
  "source": "google-rss",
- "checked_at": "2026-10-31T02:53:10.195484Z",
+ "checked_at": "2026-10-31T04:57:11.616061Z",
  "status": "ok",
  "items": [
+  {
+   "q": "eng vs ind",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Pakistan vs Sri Lanka in the perfect finale to entertaining tri-series",
+     "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/match-preview"
+    },
+    {
+     "title": "England in Pakistan: Harry Brook's side out after Sri Lanka beat hosts",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/c6pwg00nv9dvo"
+    },
+    {
+     "title": "Madushanka stars as Sri Lanka thrash Pakistan to end England’s tri-series hopes",
+     "url": "https://www.theguardian.com/sport/2026/oct/27/pakistan-sri-lanka-one-day-international-odi-match-report-cricket"
+    }
+   ]
+  },
+  {
+   "q": "fairfield shooting",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Police investigating incident at Solano Town Center in Fairfield",
+     "url": "https://www.kcra.com/article/fairfield-police-investigate-solano-town-center-incident/74301177"
+    },
+    {
+     "title": "Fairfield police working active incident at Solano Town Center",
+     "url": "https://www.cbsnews.com/sacramento/news/fairfield-incident-solano-town-center/"
+    },
+    {
+     "title": "Fairfield police investigating ‘active incident’ at Solano Town Center",
+     "url": "https://www.eastbaytimes.com/2026/10/30/fairfield-police-investigating-active-incident-at-solano-town-center/"
+    }
+   ]
+  },
+  {
+   "q": "las vegas flooding",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "FIRST ALERT WEATHER: Heavy floods hit Las Vegas valley on Friday",
+     "url": "https://www.fox5vegas.com/2026/10/30/rain-chances-return-las-vegas-halloween-weekend/"
+    },
+    {
+     "title": "Heavy rain, flooding and hail hit parts of Las Vegas valley",
+     "url": "https://news3lv.com/news/local/heavy-rain-flooding-and-hail-hit-parts-of-las-vegas-valley"
+    },
+    {
+     "title": "1 dead in Henderson after heavy rain triggers three water rescue operations",
+     "url": "https://www.reviewjournal.com/local/weather/flood-advisory-issued-for-southeast-las-vegas-valley-3907228/"
+    }
+   ]
+  },
+  {
+   "q": "federal emergency management agency",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Trump says more FEMA aid is coming to Texas after 2026 floods",
+     "url": "https://www.texastribune.org/2026/10/28/trump-fema-flood-aid-hill-country-texas/"
+    },
+    {
+     "title": "FEMA approves disaster assistance for 20 Texas counties affected by July flooding, governor's office says",
+     "url": "https://www.yahoo.com/news/weather-news/articles/fema-approves-disaster-assistance-20-205125388.html"
+    },
+    {
+     "title": "TRAFFIC ALERT | Northbound Loop 410 reopens",
+     "url": "https://news4sanantonio.com/news/local/traffic-alert-northbound-loop-410-closed"
+    }
+   ]
+  },
+  {
+   "q": "stephen curry",
+   "traffic": "5000+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Warriors 119-114 Timberwolves (Oct 28, 2026) Game Recap",
+     "url": "https://www.espn.com/nba/recap/_/gameId/401909888"
+    },
+    {
+     "title": "Golden State Warriors vs Minnesota Timberwolves Oct 28, 2026 NBA Blueprint",
+     "url": "https://www.nba.com/game/gsw-vs-min-0022600139/blueprint"
+    },
+    {
+     "title": "Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points",
+     "url": "https://www.sfchronicle.com/sports/warriors/article/warriors-steph-curry-44-points-hold-win-22499630.php"
+    }
+   ]
+  },
+  {
+   "q": "steph curry",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "WATCH: Warriors' Steph Curry makes Lakers' Luka Doncic touch earth with nasty ankle breaker",
+     "url": "https://sports.yahoo.com/articles/watch-warriors-steph-curry-makes-041512554.html"
+    },
+    {
+     "title": "Steph Curry cooks Luka Doncic, who answers right back in Lakers-Warriors showdown",
+     "url": "https://www.usatoday.com/story/sports/nba/lakers/2026/10/31/steph-curry-cooks-luka-doncic-answer-lakers-warriors/92529043007/"
+    },
+    {
+     "title": "Stephen Curry makes Luka Doncic hit the floor with nasty crossover play",
+     "url": "https://basketnews.com/news-258556-stephen-curry-makes-luka-doncic-hit-the-floor-with-nasty-crossover-play.html"
+    }
+   ]
+  },
+  {
+   "q": "austin reaves",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Lakers' Luka Doncic, Austin Reaves Are Establishing Themselves Among NBA's Elite Duos",
+     "url": "https://sports.yahoo.com/articles/lakers-luka-doncic-austin-reaves-214411022.html"
+    },
+    {
+     "title": "Exclusive | How Luka Doncic, Austin Reaves became friends and NBA’s best offensive duo",
+     "url": "https://nypost.com/2026/10/29/sports/austin-reaves-luka-doncic-friendship-nba-best-offensive-duo/"
+    },
+    {
+     "title": "Luka Dončić is hopeful that he can retire a Laker: ‘It’s amazing to be here’",
+     "url": "https://www.silverscreenandroll.com/lakers-news/127749/luka-doncic-lakers-retire-los-angeles"
+    }
+   ]
+  },
+  {
+   "q": "la granja vip",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "La Granja VIP EN VIVO hoy 30 de octubre: La Traición destapa la lista final de nominados; sigue la transmisión GRATIS y ONLINE de la cobertura minuto a minuto",
+     "url": "https://www.tvazteca.com/aztecauno/la-granja-vip/la-granja-vip-lista-nominados-esta-semana-en-vivo-gratis-como-votar-hoy-traicion/"
+    },
+    {
+     "title": "La Granja VIP 2026, viernes de La Traición: ¿Cómo funciona, qué beneficios tiene y quiénes podrían salir nominados hoy?",
+     "url": "https://www.clarosports.com/tendencias/cine-y-tv/la-granja-vip-2026-viernes-de-la-traicion-como-funciona-que-beneficios-tiene-y-quienes-podrian-salir-nominados-hoy-7/"
+    },
+    {
+     "title": "Quiénes son los nominados de la octava semana en La Granja VIP 2026",
+     "url": "https://www.infobae.com/mexico/2026/10/29/quienes-son-los-nominados-de-la-octava-semana-en-la-granja-vip-2026/"
+    }
+   ]
+  },
+  {
+   "q": "earthquake",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "What happens to a 230-kilovolt three-phase power transformer during an earthquake?",
+     "url": "https://www.renewableenergyworld.com/power-grid/what-happens-to-a-230-kilovolt-three-phase-power-transformer-during-an-earthquake/"
+    },
+    {
+     "title": "Alaska Records Magnitude 4.4 Earthquake Near Eureka Roadhouse",
+     "url": "https://www.ntd.com/alaska-records-magnitude-4-4-earthquake-near-eureka-roadhouse_1182601.html"
+    },
+    {
+     "title": "Earthquake struck area near Cobb, CA: 2.1 magnitude detected on Oct. 30",
+     "url": "https://www.sacbee.com/news/california/earthquakes/article317852611.html"
+    }
+   ]
+  },
+  {
+   "q": "dominique wilkins",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Steph Curry Passes Dominique Wilkins on NBA All-Time Scoring List, Where Does He Rank Among Greats?",
+     "url": "https://bleacherreport.com/articles/25527571-steph-curry-passes-dominique-wilkins-nba-all-time-scoring-list-where-does-he-rank-among-greats"
+    },
+    {
+     "title": "NBA legend Dominique Wilkins named general manager at HBCU program",
+     "url": "https://hbcugameday.com/2026/10/27/nba-legend-dominique-wilkins-named-alabama-state-basketball-general-manager/"
+    },
+    {
+     "title": "Dominique Wilkins named general manager of Alabama State men's basketball",
+     "url": "https://www.usatoday.com/story/sports/ncaab/2026/10/27/dominique-wilkins-alabama-state-basketball-general-manager/92470451007/"
+    }
+   ]
+  },
+  {
+   "q": "uae vs ned",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "UAE vs NED, 143rd Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/176353/uae-vs-ned-143rd-match-icc-cricket-world-cup-league-two-2023-27"
+    },
+    {
+     "title": "Match Predictions: ICC CWC League 2 2026 - Match 143 - UAE vs Netherlands - October 31st",
+     "url": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-143-uae-vs-netherlands-october-31st/114112.htm"
+    },
+    {
+     "title": "UAE vs Netherlands: Rahul Chopra leads UAE to 244/8 with unbeaten 82; check playing XIs, live streaming",
+     "url": "https://www.livemint.com/sports/cricket-news/uae-vs-netherlands-rahul-chopra-leads-uae-to-244-8-with-unbeaten-82-check-playing-xis-live-streaming-11792922084323.html"
+    }
+   ]
+  },
+  {
+   "q": "meteorite",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+     "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+    },
+    {
+     "title": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
+     "url": "https://www.nytimes.com/2026/10/30/science/space/mars-meteorite-teghaza.html"
+    },
+    {
+     "title": "Martian meteorite found in the Sahara is 4.1 billion years old",
+     "url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/"
+    }
+   ]
+  },
+  {
+   "q": "bbl women",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "WBBL SQUAD: Stars unchanged for Adelaide trip",
+     "url": "https://www.melbournestars.com.au/news/4601289/wbbl-squad-stars-unchanged-for-adelaide-trip?"
+    },
+    {
+     "title": "FAQs - What's in store for you at WBBL 2026-27?",
+     "url": "https://www.cricinfo.com/story/faqs-what-s-in-store-for-you-at-wbbl-2026-27-1559624"
+    },
+    {
+     "title": "Ultimate Guide: All you need to know for WBBL|12",
+     "url": "https://www.cricket.com.au/news/4597039/ultimate-guide-womens-big-bash-league-2026-2027-wbbl-wbbl12-broadcast-streaming-details-how-to-watch-schedule-tickets-fixtures-new-season"
+    }
+   ]
+  },
+  {
+   "q": "yaxel lendeborg",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:40:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Warriors' Yaxel Lendeborg: 'Lost all respect' for Luka Doncic",
+     "url": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic"
+    },
+    {
+     "title": "Rookie Lendeborg jaws at ‘weak ass’ Dončić and admits he didn’t watch much NBA",
+     "url": "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba"
+    },
+    {
+     "title": "Luka Doncic points tonight: Lakers star going off in rematch with Warriors",
+     "url": "https://www.usatoday.com/story/sports/nba/lakers/2026/10/30/luka-doncic-stats-tonight-lakers-warriors-box-score/92527029007/"
+    }
+   ]
+  },
+  {
+   "q": "sl vs oma",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "इंग्लैंड vs भारत Bowl 2nd Semi-FinalS6 लाइव स्कोरकार्ड, क्रिकेट स्कोर | Hong Kong Sixes, 2026",
+     "url": "https://ndtv.in/sports/cricket/eng-vs-ind-scorecard-live-cricket-score-enin10312026275385"
+    },
+    {
+     "title": "श्रीलंका vs ओमान Plate Semi Final 1S6 लाइव स्कोरकार्ड, क्रिकेट स्कोर | Hong Kong Sixes, 2026",
+     "url": "https://ndtv.in/sports/cricket/sl-vs-oma-scorecard-live-cricket-score-slom10312026275386"
+    },
+    {
+     "title": "टी.बी.सी. vs टी.बी.सी. Bowl 1st Semi-FinalS6 लाइव स्कोरकार्ड, क्रिकेट स्कोर | Hong Kong Sixes, 2026",
+     "url": "https://ndtv.in/sports/cricket/tbc-vs-tbc-scorecard-live-cricket-score-tbctbc10312026275384"
+    }
+   ]
+  },
+  {
+   "q": "ind vs eng",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "सचिन तेंदुलकर से आगे ब्रायन लारा, बेन डकेट ने तोड़ा दिलशान का रिकॉर्ड; वनडे में बिना छक्का लगाए सबसे बड़ी पारी खेलने वाले टॉप-6 बैटर",
+     "url": "https://www.jansatta.com/khel/sachin-tendulkar-behind-brian-lara-ben-duckett-broke-tilakratne-dilshan-record-highest-score-in-one-day-with-out-hitting-six-david-warner/4766877/"
+    },
+    {
+     "title": "Sri Lanka Vs England, Play In Progress",
+     "url": "https://navbharattimes.indiatimes.com/sports/cricket/live-score/sl-vs-eng/10-29-2026/scoreboard/matchid-slen10292026274147.cms"
+    },
+    {
+     "title": "बेन डकेट ने रचा इतिहास, बिना सिक्स लगाए वनडे मैच में खेली दूसरी सबसे बड़ी पारी",
+     "url": "https://www.abplive.com/sports/cricket/ben-duckett-created-history-playing-the-second-highest-innings-in-odi-without-hitting-a-six-3208466"
+    }
+   ]
+  },
+  {
+   "q": "gold rate today bangalore",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:30:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Bank Holiday Next Week (November 2–8): When are SBI, HDFC, ICICI and other lenders closed? Check city-wise list",
+     "url": "https://www.zeebiz.com/personal-finance/banking/news-bank-holiday-next-week-november-2-8-when-are-sbi-hdfc-icici-and-other-lenders-closed-check-city-wise-list-404874"
+    },
+    {
+     "title": "Saturday bank holiday: Are banks open or closed today on October 31, 2026?",
+     "url": "https://m.economictimes.com/wealth/save/saturday-bank-holiday-are-banks-open-or-closed-today-on-october-31-2026/articleshow/135360339.cms"
+    },
+    {
+     "title": "Bank Holidays in November 2026: Check full list of dates & closures",
+     "url": "https://www.thehindubusinessline.com/money-and-banking/november-bank-holidays-2026-full-list-of-dates-festivals-bank-closures/article71644536.ece"
+    }
+   ]
+  },
+  {
+   "q": "adelaide strikers vs melbourne stars",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:20:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Adelaide Strikers name squad for WBBL|12 season opener",
+     "url": "https://www.adelaidestrikers.com.au/news/4601330/adelaide-strikers-name-squad-for-wbbl12-season-opener"
+    },
+    {
+     "title": "WBBL 2026: Strikers vs Stars and Scorchers vs Renegades – Match 4 & 5 predictions and previews",
+     "url": "https://www.cricketworld.com/match-predictions-womens-big-bash-league-2026-4th-5th-match-strikers-w-vs-stars-w-scorchers-w-vs-renegades-w-october-31st/114108.htm"
+    },
+    {
+     "title": "Adelaide Strikers Women vs Melbourne Stars Women WBBL 2026 Match 4, Dream 11 Prediction Fantasy Cricket",
+     "url": "https://bdcrictime.com/adelaide-strikers-women-vs-melbourne-stars-women-wbbl-2026-match-4-dream-11-prediction-fantasy-cricket"
+    }
+   ]
+  },
+  {
+   "q": "wi vs ban",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:20:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
+     "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard"
+    },
+    {
+     "title": "Chase's all-round effort keeps Bangladesh in check",
+     "url": "https://www.icc-cricket.com/news/chase-s-all-round-effort-keeps-bangladesh-in-check"
+    },
+    {
+     "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test",
+     "url": "https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test"
+    }
+   ]
+  },
+  {
+   "q": "england vs india",
+   "traffic": "20000+",
+   "geo": "IN",
+   "trending_started_at": "2026-10-31T04:10:00Z",
+   "observed_at": "2026-10-31T04:57:11.616061Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Pakistan vs Sri Lanka in the perfect finale to entertaining tri-series",
+     "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/match-preview"
+    },
+    {
+     "title": "Madushanka stars as Sri Lanka thrash Pakistan to end England’s tri-series hopes",
+     "url": "https://www.theguardian.com/sport/2026/oct/27/pakistan-sri-lanka-one-day-international-odi-match-report-cricket"
+    },
+    {
+     "title": "PAK vs SL, 5th Match, Pakistan ODI Tri-Series, 2026 - Commentary",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/170737/vs-sri-lanka-2026-10-27-gaddafi-stadium"
+    }
+   ]
+  },
   {
    "q": "nba standings",
    "traffic": "5000+",
@@ -1752,446 +2192,6 @@
     {
      "title": "Hoover police respond to incident at Galleria food court",
      "url": "https://abc3340.com/news/local/hoover-police-respond-to-incident-at-galleria-food-court"
-    }
-   ]
-  },
-  {
-   "q": "riley green sexiest man alive",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T17:30:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Country’s Hottest Cowboy Riley Green Dishes on Songwriting, Romance and Getting His ‘Confidence’ from His Mama",
-     "url": "https://people.com/riley-green-sexiest-man-alive-2026-countrys-hottest-cowboy-exclusive-12172527"
-    },
-    {
-     "title": "‘The Voice’s Riley Green Gives Dating Update",
-     "url": "https://www.yahoo.com/entertainment/tv/articles/voice-riley-green-gives-dating-155907911.html"
-    },
-    {
-     "title": "Country Star Reveals How His Alabama Farm Helps Keep Him \"Sane\"",
-     "url": "https://www.wideopencountry.com/country-star-reveals-how-his-alabama-farm-helps-keep-him-sane/"
-    }
-   ]
-  },
-  {
-   "q": "le havre - psg",
-   "traffic": "10000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T17:20:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Le PSG toujours sans Marquinhos, Nuno Mendes et Ousmane Dembélé pour affronter Le Havre",
-     "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-toujours-sans-marquinhos-nuno-mendes-et-ousmane-dembele-pour-affronter-le-havre/1739466"
-    },
-    {
-     "title": "Pronostic Le Havre - Paris Saint-Germain : Les visiteurs poursuivront-ils leur série de victoires ?",
-     "url": "https://www.vietnam.vn/fr/nhan-dinh-le-havre-vs-paris-saint-germain-khach-tiep-tuc-bay-cao"
-    },
-    {
-     "title": "++VOICI,,!!* Paris-SG – Le Havre En Direct Streaming voir le match de ce soir en direct",
-     "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-paris-sg-le-havre-liv-str-royvxae"
-    }
-   ]
-  },
-  {
-   "q": "ochai agbaji",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T17:20:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Ochai Agbaji joins Thunder",
-     "url": "https://sports.yahoo.com/articles/ochai-agbaji-joins-thunder-172659000.html"
-    },
-    {
-     "title": "Thunder Reportedly to Sign Former NBA Lottery Pick After Jalen Williams, Cason Wallace Injuries",
-     "url": "https://bleacherreport.com/articles/25527306-thunder-reportedly-sign-former-nba-lottery-pick-after-jalen-williams-cason-wallace-injuries"
-    },
-    {
-     "title": "Report: OKC Thunder add Ochai Agbaji to standard roster spot",
-     "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/10/30/report-okc-thunder-add-ochai-agbaji-to-standard-roster-spot/92517363007/"
-    }
-   ]
-  },
-  {
-   "q": "tim mcgraw taylor swift wedding rumor",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T17:20:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Tim McGraw Shuts Down Rumor About Taylor Swift and Travis Kelce’s Wedding",
-     "url": "https://people.com/tim-mcgraw-shuts-down-rumor-about-taylor-swift-and-travis-kelce-wedding-12202342"
-    },
-    {
-     "title": "Tim McGraw Denies Rumor About Taylor Swift and Travis Kelce’s Wedding: ‘Internet’s Not Always Correct’",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/tim-mcgraw-denies-rumor-taylor-170401456.html"
-    },
-    {
-     "title": "Tim McGraw Addresses Rumor About Taylor Swift's Wedding | 94.9 The Bull | Wayne and Tay",
-     "url": "https://949thebull.iheart.com/featured/wayne-and-tay/content/2026-10-29-tim-mcgraw-addresses-rumor-about-taylor-swifts-wedding/"
-    }
-   ]
-  },
-  {
-   "q": "jiri lehecka",
-   "traffic": "5000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T17:20:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Highlights: Fritz into SFs after Fils retires in Basel",
-     "url": "https://www.atptour.com/en/video/highlights-fritz-advances-after-fils-retires-in-basel-2026-qfs"
-    },
-    {
-     "title": "Basel QF previews and predictions: Fils vs. Fritz, Vacherot vs. Rune",
-     "url": "https://tenngrand.com/basel-tennis-previews-picks-predictions-fils-vs-fritz-vacherot-vs-rune/"
-    },
-    {
-     "title": "ATP Basel Best Bets Including Taylor Fritz Vs Arthur Fils",
-     "url": "https://lastwordonsports.com/tennis/2026/10/29/atp-basel-best-bets-fritz-fils/"
-    }
-   ]
-  },
-  {
-   "q": "le havre vs psg",
-   "traffic": "10000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T17:10:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Le Havre AC vs Paris Saint-Germain - Where to Watch, Stream Info, TV Channel, and Live Updates (October 30, 2026)",
-     "url": "https://www.fubo.tv/news/soccer/le-havre-ac-vs-paris-saint-germain-where-to-watch-stream-info-tv-channel-and-live-updates-october-30-2026/"
-    },
-    {
-     "title": "PSG predicted XI v Le Havre: Luis Enrique set to field second string; key players absent",
-     "url": "https://sports.yahoo.com/articles/psg-predicted-xi-v-le-094200463.html"
-    },
-    {
-     "title": "How to watch Le Havre vs. PSG online for free",
-     "url": "https://mashable.com/entertainment/le-havre-psg-ligue-1-2026-live-stream-for-free"
-    }
-   ]
-  },
-  {
-   "q": "isro",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:50:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "GSLV-F18/NVS-03 MISSION",
-     "url": "https://www.isro.gov.in/Mission_GSLVF18.html"
-    },
-    {
-     "title": "GSLV-F18 mission: A successful NVS-03 launch with desi atomic clock is vital for India’s military & strat",
-     "url": "https://timesofindia.indiatimes.com/defence/news/gslv-f18-mission-a-successful-nvs-03-launch-with-desi-atomic-clock-is-vital-for-indias-military-strategic-independence/articleshow/135366656.cms"
-    },
-    {
-     "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
-     "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
-    }
-   ]
-  },
-  {
-   "q": "দূষণ",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:40:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "‘কুমির থাকতে পারে’! ডুব দিয়েই যমুনাকে ‘পরিষ্কার’ ঘোষণা বিজেপি সাংসদের, খেলেন জলও, ভিডিয়ো প্রকাশ্যে",
-     "url": "https://www.anandabazar.com/viral/delhi-bjp-mp-manoj-tiwari-takes-dip-in-yamuna-and-declares-it-clean-aam-aadmi-party-challenges-dgtl/cid/1722812"
-    },
-    {
-     "title": "BJP MP: যমুনা এখন পরিষ্কার, কুমির আছে জেনেও ডুব দিয়ে ঘোষণা বিজেপি সাংসদের! নদীর জল",
-     "url": "https://bengali.abplive.com/news/manoj-tiwari-yamuna-dip-clean-water-claim-pollution-data-1197712"
-    },
-    {
-     "title": "যমুনায় ডুব দিলেন বিজেপি-র মনোজ তিওয়ারি, ক'দিন আগেই সাদা ফেনায় ভরেছিল নদী! দূষণ নিয়ে বিজেপি-আপের তরজা",
-     "url": "https://www.thewall.in/India/delhi-yamuna-pollution-manoj-tiwari-aam-aadmi-party-challenge/tid/208194"
-    }
-   ]
-  },
-  {
-   "q": "meta share price",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:40:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Todd Gordon is watching Meta's rising capex. Here's what the charts say",
-     "url": "https://www.cnbc.com/video/2026/10/29/todd-gordon-is-watching-metas-rising-capex-heres-what-the-charts-say.html"
-    },
-    {
-     "title": "Why is Meta Platforms stock climbing today?",
-     "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-climbing-today-93CH-4984457"
-    },
-    {
-     "title": "Meta’s Unending AI Spending",
-     "url": "https://www.wsj.com/tech/ai/metas-unending-ai-spending-34e53011"
-    }
-   ]
-  },
-  {
-   "q": "ramayana movie review",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:40:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Anupam Kher, The Voice Of Jatayu In Ramayana, Gets Emotional Over LA Premiere Reactions",
-     "url": "https://www.ndtv.com/entertainment/anupam-kher-the-voice-of-jatayu-in-ramayana-gets-emotional-over-la-premiere-reactions-our-legend-is-reaching-the-world-12254341/amp/1"
-    },
-    {
-     "title": "Yash and Radhika Pandit's children Ayra and Yatharv watch 'Ramayana' at LA premiere for their first big-s",
-     "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-and-radhika-pandits-children-ayra-and-yatharv-watch-ramayana-at-la-premiere-for-their-first-big-screen-experience/articleshow/135362143.cms"
-    },
-    {
-     "title": "'Ramayana': Ranbir Kapoor, Yash, and Sai Pallavi attend the film’s world premiere in US ahead of theatrical release",
-     "url": "https://www.thehindu.com/entertainment/movies/ramayana-ranbir-kapoor-yash-and-sai-pallavi-attend-the-films-world-premiere-in-us-ahead-of-theatrical-release/article71634857.ece"
-    }
-   ]
-  },
-  {
-   "q": "alexander zverev",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:30:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Zverev finally takes his place at the summit",
-     "url": "https://www.reuters.com/sports/tennis/zverev-finally-takes-his-place-summit-2026-10-30/"
-    },
-    {
-     "title": "Alexander Zverev's first No. 1 ranking to be confirmed Monday with win in Vienna",
-     "url": "https://www.espn.in/tennis/story/_/id/50321859/alexander-zverev-first-number-1-ranking-confirmed-monday-win-vienna"
-    },
-    {
-     "title": "Tennis: Alexander Zverev to replace Jannik Sinner as ATP world number one after beating Tallon Girekspoor in Vienna",
-     "url": "https://www.bbc.com/sport/tennis/articles/cwdr8m8g4jz2o"
-    }
-   ]
-  },
-  {
-   "q": "al-shabab vs al-ahli",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:30:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "The court denies Al-Ahli the services of Ivan Toney against Al-Shabab: Pusic picks his replacement",
-     "url": "https://www.goal.com/en-in/news/the-court-denies-al-ahli-the-services-of-ivan-toney-against-al-shabab-pusic-picks-his-replacement/bltde42645025ac757f"
-    },
-    {
-     "title": "How to watch today's Al Shabab vs Al Ahli Saudi Pro League game: Live stream, TV channel and start time",
-     "url": "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-al-shabab-v-al-ahli/blta5127588a4b8adfd"
-    },
-    {
-     "title": "Former Arsenal star's refereeing: a rare incident ignites the Al-Ahli and Al-Shabab clasico",
-     "url": "https://www.livescore.com/en/news/football/premier-league/former-arsenal-stars-refereeing-a-rare-incident-ignites-the-al-ahli-and-al-shabab-clasico-goal/"
-    }
-   ]
-  },
-  {
-   "q": "jiri lehecka",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:30:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Highlights: Fritz into SFs after Fils retires in Basel",
-     "url": "https://www.atptour.com/en/video/highlights-fritz-advances-after-fils-retires-in-basel-2026-qfs"
-    },
-    {
-     "title": "̳̳+[#!WATCHLIVE-FREE!]™Taylor Fritz VS Arthur Fils TENNIS Live Free 30 October 2026",
-     "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21rc29wcnRzLmdpdGh1Yi5pby92Z2h1Znl0ZnJ5L2FhLnhtbCIvPjwva3JwYW5vPg==&id=live-tennis-match-wrestyy"
-    },
-    {
-     "title": "ATP Basel Best Bets Including Taylor Fritz Vs Arthur Fils",
-     "url": "https://lastwordonsports.com/tennis/2026/10/29/atp-basel-best-bets-fritz-fils/"
-    }
-   ]
-  },
-  {
-   "q": "süper lig",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:30:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Galatasaray Spor Kulübü’nün T. Konyaspor Karşısındaki İlk 11’i ve Yedekleri",
-     "url": "https://www.kahtahaberpostasi.com/haber/galatasaray-spor-kulubu-nun-t-konyaspor-karsisindaki-i-lk-11-i-ve-yedekleri"
-    },
-    {
-     "title": "Trendyol Süper Lig ve alt liglerde 9. ve 10. hafta heyecanı başlıyor!",
-     "url": "https://www.yenihaberden.com/trendyol-super-lig-ve-alt-liglerde-9-ve-10-hafta-heyecani-basliyor/1862169/"
-    },
-    {
-     "title": "Osimhen Konyaspor maçında var mı, oynayacak mı? Galatasaraylı Victor Osimhen Konya'ya neden gitmedi, neden yok?",
-     "url": "https://www.milliyet.com.tr/galeri/osimhen-konyaspor-macinda-oynayacak-mi-osimhen-konyaya-neden-gitmedi-neden-yok-7690623"
-    }
-   ]
-  },
-  {
-   "q": "oracle share price",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:30:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Oracle opens cloud to Google’s AI chips, challenging GPU dominance",
-     "url": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece"
-    },
-    {
-     "title": "Oracle Brings Google TPUs to Oracle Cloud Infrastructure",
-     "url": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/"
-    },
-    {
-     "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
-     "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure"
-    }
-   ]
-  },
-  {
-   "q": "professor",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-10-30T17:20:00Z",
-   "observed_at": "2026-10-30T18:05:32.267614Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Oberlin College Professor and His Wife Are Murdered by His Son, Police Say",
-     "url": "https://www.nytimes.com/2026/10/29/us/oberlin-college-professor-murdered.html"
-    },
-    {
-     "title": "Oberlin College professor and wife found fatally shot at home; son charged with murder",
-     "url": "https://www.nbcnews.com/news/us-news/oberlin-college-professor-wife-found-shot-son-arrested-rcna606522"
-    },
-    {
-     "title": "Oberlin murder suspect Daniel Jones carried into court for arraignment",
-     "url": "https://www.wkyc.com/video/news/crime/oberlin-murder-suspect-daniel-jones-carried-into-court-for-arraignment/95-c1cba8db-a72d-42cf-a0a2-03fb81b8132d"
-    }
-   ]
-  },
-  {
-   "q": "crime",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T15:50:00Z",
-   "observed_at": "2026-10-30T16:12:00.418655Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "‘Wish we could have got to it’: 17 victims in crime spree that left three stabbed in Topeka",
-     "url": "https://www.wibw.com/2026/10/29/wish-we-could-have-got-it-17-victims-crime-spree-that-left-three-stabbed-topeka/"
-    },
-    {
-     "title": "Kansas man accused in series of violent crimes using a knife",
-     "url": "https://jcpost.com/posts/180f9f8a-a61e-4ee4-801b-53dc56d3c008"
-    },
-    {
-     "title": "17 victims tied to central Topeka crime spree investigation, arrest made",
-     "url": "https://www.ksnt.com/news/crime/17-victims-tied-to-central-topeka-crime-spree-investigation-arrest-made/"
-    }
-   ]
-  },
-  {
-   "q": "arthur fils",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T15:50:00Z",
-   "observed_at": "2026-10-30T16:12:00.418655Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Arthur Fils s'en sort en huitièmes de finale de l'ATP 500 de Bâle face à Alex Michelsen",
-     "url": "https://www.lequipe.fr/Tennis/Actualites/Arthur-fils-s-en-sort-en-huitiemes-de-finale-de-l-atp-500-de-bale-face-a-alex-michelsen/1739545"
-    },
-    {
-     "title": "Tennis. Sous pression, plus que jamais en course pour les Masters, le Français Arthur Fils s'impose sur un fil aux Swiss Indoors de Bâle",
-     "url": "https://www.lalsace.fr/sport/2026/10/29/sous-pression-plus-que-jamais-en-course-pour-les-masters-le-francais-arthur-fils-s-impose-sur-un-fil-aux-swiss-indoors-de-bale"
-    },
-    {
-     "title": "Bâle - Fils file en 1/4 de finale après une victoire dans la douleur",
-     "url": "https://sports.orange.fr/videos/tennis/bale-fils-file-en-1-4-de-finale-apres-une-victoire-dans-la-douleur-CNT000002tsiCu.html"
-    }
-   ]
-  },
-  {
-   "q": "where to vote",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T15:40:00Z",
-   "observed_at": "2026-10-30T16:12:00.418655Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Daily Brew: October 27, 2026",
-     "url": "https://ballotpedia.org/Daily_Brew:_October_27,_2026"
-    },
-    {
-     "title": "State judicial races are on the ballot in November. Here’s what you need to know",
-     "url": "https://thehill.com/homenews/state-watch/6169419-midterm-judicial-election-impact/"
-    },
-    {
-     "title": "How to vet Michigan judges before voting",
-     "url": "https://www.clickondetroit.com/video/news/2026/10/26/how-to-vet-michigan-judges-before-voting/"
-    }
-   ]
-  },
-  {
-   "q": "mercado cambiario",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-10-30T15:40:00Z",
-   "observed_at": "2026-10-30T16:12:00.418655Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 30 de octubre de 2026",
-     "url": "https://www.pagina12.com.ar/2026/10/30/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-30-de-octubre-de-2026/"
-    },
-    {
-     "title": "Peso mexicano retrocede mientras mercados analizan señales de la Fed",
-     "url": "https://www.expreso.com.mx/noticias/negocios/precio-del-dolar-hoy-29-de-octubre-de-2026-peso-pierde-fuerza/257000"
-    },
-    {
-     "title": "🔴 EN VIVO | Precio del dólar hoy viernes 30 de octubre",
-     "url": "https://noticiasargentinas.com/economia/---en-vivo---precio-del-dolar-hoy-viernes-30-de-octubre_a6ae4617a45c3c55a7b5602f3"
     }
    ]
   }
