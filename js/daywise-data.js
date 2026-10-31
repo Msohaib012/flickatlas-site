@@ -139,10 +139,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-31",
       "day": "Day 16",
-      "collection": 13735,
-      "shows": 415,
-      "occupancy": 7.9,
-      "tickets": 5724
+      "collection": 22187,
+      "shows": 548,
+      "occupancy": 8.3,
+      "tickets": 8188
     }
   ],
   "1375156": [
@@ -185,7 +185,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 5",
-      "collection": 345483,
+      "collection": 347596,
       "shows": 5842,
       "occupancy": 19.3,
       "tickets": 234926,
@@ -194,36 +194,36 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-28",
       "day": "Day 6",
-      "collection": 294770,
+      "collection": 288431,
       "shows": 5759,
-      "occupancy": 11.4,
+      "occupancy": 11.5,
       "tickets": 135857,
       "overseas": 79239
     },
     {
       "date": "2026-10-29",
       "day": "Day 7",
-      "collection": 272583,
+      "collection": 266244,
       "shows": 5724,
-      "occupancy": 10.6,
+      "occupancy": 10.7,
       "tickets": 127094,
       "overseas": 52826
     },
     {
       "date": "2026-10-30",
       "day": "Day 8",
-      "collection": 284205,
+      "collection": 286318,
       "shows": 4956,
-      "occupancy": 11.6,
+      "occupancy": 12.1,
       "tickets": 122488
     },
     {
       "date": "2026-10-31",
       "day": "Day 9",
-      "collection": 125726,
-      "shows": 2284,
-      "occupancy": 10.1,
-      "tickets": 49598
+      "collection": 273640,
+      "shows": 2992,
+      "occupancy": 11.6,
+      "tickets": 77744
     }
   ],
   "1400940": [
@@ -648,6 +648,11 @@ window.FA_DAYWISE = {
       "date": "2026-10-30",
       "day": "Day 8",
       "collection": 14791
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Day 9",
+      "collection": 15848
     }
   ],
   "1785611": [
@@ -712,6 +717,14 @@ window.FA_DAYWISE = {
       "shows": 34,
       "occupancy": 5.9,
       "tickets": 328
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Day 9",
+      "collection": 1057,
+      "shows": 34,
+      "occupancy": 5.7,
+      "tickets": 320
     }
   ],
   "1606527": [
@@ -915,10 +928,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-31",
       "day": "Day 16",
-      "collection": 14791,
-      "shows": 236,
-      "occupancy": 14.4,
-      "tickets": 10180
+      "collection": 22187,
+      "shows": 310,
+      "occupancy": 14.9,
+      "tickets": 14130
     }
   ],
   "1234139": [
@@ -1033,7 +1046,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-27",
       "day": "Day 13",
-      "collection": 853671,
+      "collection": 867406,
       "shows": 10682,
       "occupancy": 16.9,
       "tickets": 533068,
@@ -1042,7 +1055,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-28",
       "day": "Day 14",
-      "collection": 740623,
+      "collection": 753302,
       "shows": 10477,
       "occupancy": 14.6,
       "tickets": 452652,
@@ -1051,7 +1064,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-29",
       "day": "Day 15",
-      "collection": 633914,
+      "collection": 638141,
       "shows": 10356,
       "occupancy": 13.3,
       "tickets": 407588,
@@ -1060,7 +1073,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 16",
-      "collection": 564184,
+      "collection": 566297,
       "shows": 8405,
       "occupancy": 14.3,
       "tickets": 360164,
@@ -1069,10 +1082,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-31",
       "day": "Day 17",
-      "collection": 292657,
-      "shows": 3747,
-      "occupancy": 14.9,
-      "tickets": 167644
+      "collection": 565240,
+      "shows": 5099,
+      "occupancy": 16.2,
+      "tickets": 257345
     }
   ],
   "1269325": [
@@ -1339,10 +1352,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-31",
       "day": "Day 30",
-      "collection": 57052,
-      "shows": 1370,
-      "occupancy": 8.8,
-      "tickets": 22924
+      "collection": 96144,
+      "shows": 1796,
+      "occupancy": 9.6,
+      "tickets": 33682
     }
   ],
   "1497970": [

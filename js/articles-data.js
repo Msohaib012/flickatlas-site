@@ -25949,5 +25949,189 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 15:32:12 +0530"
+  },
+  "17asivq": {
+    "id": "17asivq",
+    "type": "news",
+    "headline": "Overlooked War Thriller Starring Scott Eastwood Finds New Life on Hulu",
+    "dek": "After struggling during its initial theatrical run, the World War II survival drama Lucky Strike has surged to the top of streaming charts.",
+    "body": [
+      {
+        "h": "A Surprising Streaming Phenomenon",
+        "p": [
+          "The World War II survival thriller Lucky Strike has rapidly climbed to the top of streaming charts, securing the number one film position on Hulu. Following its arrival on the platform, the feature managed to capture a massive audience despite fierce competition from horror features and Halloween-themed programming.",
+          "This sudden surge in viewership marks a remarkable turnaround for the project. Although it struggled significantly during its theatrical release, home audiences have embraced the title, demonstrating that traditional war dramas still hold substantial appeal in the modern digital landscape."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "Set against the backdrop of the historic Battle of the Bulge, the narrative follows John Castle, an American soldier cut off from his unit after a botched operation. Left behind enemy lines, he must navigate treacherous European terrain while evading hostile German forces.",
+          "With a standard military radio serving as his solitary lifeline, Castle attempts to reestablish contact with allied troops. While SS soldiers actively hunt him down, the protagonist relies entirely on his basic training and scarce resources to disrupt enemy movements and survive."
+        ]
+      },
+      {
+        "h": "Cast and Character Focus",
+        "p": [
+          "The production features performances by Scott Eastwood, Colin Hanks, Aunjanue Ellis-Taylor, and Taylor John Smith. However, Eastwood shoulders the majority of the dramatic burden, taking center stage throughout the runtime.",
+          "Unlike many contemporary war projects that rely heavily on large ensemble casts, this film narrows its perspective tightly onto the struggles of a single individual. This focused approach highlights personal endurance and isolation over massive tactical troop movements."
+        ]
+      },
+      {
+        "h": "Connections to Cinematic Classics",
+        "p": [
+          "Observers have naturally drawn comparisons between this modern release and Steven Spielberg's acclaimed Saving Private Ryan. While Spielberg's classic famously opens with the chaotic intensity of the Omaha Beach invasion before shifting to a small squad's mission, both stories explore similar themes of ordinary people facing extraordinary peril.",
+          "An interesting connection links the two projects: Lucky Strike stars Colin Hanks, whose father, Tom Hanks, played a leading role in the 1998 war masterwork. Despite differing scales, both features understand that powerful narratives often stem from individual acts of bravery."
+        ]
+      },
+      {
+        "h": "Box Office Struggles and Mixed Reviews",
+        "p": [
+          "The path to streaming success was unconventional for the production, which originally opened in cinemas. During its domestic theatrical run, it brought in a modest total of approximately $1.5 million.",
+          "Critics offered mixed assessments upon its initial premiere. While reviewers generally commended the combat sequences and action beats, some pointed out that the script leaned too heavily on familiar genre tropes and predictable storytelling elements."
+        ]
+      },
+      {
+        "h": "Enduring Appeal of War Dramas",
+        "p": [
+          "The unexpected popularity of the film decades after the conclusion of World War II proves that viewers remain intensely fascinated by historical accounts of courage. Audiences continue to seek out stories centered on duty, sacrifice, and survival under extreme pressure.",
+          "Ultimately, this digital comeback highlights how modern viewing platforms can breathe new life into titles that missed out on box-office glory. Poor theatrical returns no longer spell the absolute end for a project's potential to find an appreciative audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The World War II survival drama Lucky Strike has become the number one film on Hulu after debuting on the platform. Despite struggling at the box office and receiving mixed reviews following its theatrical release, the Scott Eastwood-led feature has successfully found a major second life through streaming."
+        ]
+      }
+    ],
+    "facts": [
+      "Lucky Strike was released in theaters on June 26, 2026.",
+      "Lucky Strike became the number one film on Hulu following its debut on October 26, 2026.",
+      "The film earned about $1.5 million at the domestic box office.",
+      "The runtime of Lucky Strike is 103 minutes.",
+      "The film stars Scott Eastwood, Colin Hanks, Aunjanue Ellis-Taylor, and Taylor John Smith.",
+      "Lucky Strike is directed by Rod Lurie."
+    ],
+    "entities": {
+      "people": [
+        "Scott Eastwood",
+        "Colin Hanks",
+        "Aunjanue Ellis-Taylor",
+        "Taylor John Smith",
+        "Rod Lurie",
+        "Steven Spielberg",
+        "Tom Hanks",
+        "Marc Frydman",
+        "Les Weldon",
+        "Jonathan Yunger",
+        "Yariv Lerner",
+        "Lorane MacFadyen",
+        "Atanas Srebrev"
+      ],
+      "titles": [
+        "Lucky Strike",
+        "Saving Private Ryan"
+      ]
+    },
+    "keywords": [
+      "Lucky Strike film",
+      "Scott Eastwood Lucky Strike",
+      "Lucky Strike Hulu",
+      "Lucky Strike box office"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/lucky-strike-scott-eastwood.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Overlooked War Thriller Starring Scott Eastwood Finds New Life on Hulu",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 11:54:12 GMT"
+  },
+  "j4wc2t": {
+    "id": "j4wc2t",
+    "type": "news",
+    "headline": "What Happened to Sam Griner, the Iconic Success Kid Meme, Nearly Two Decades Later",
+    "dek": "Almost twenty years after his mother captured an accidental moment on a beach, Sam Griner reflects on growing up as the face of the internet's most famous viral baby.",
+    "body": [
+      {
+        "h": "The Origins of a Viral Sensation",
+        "p": [
+          "In 2007, an eleven-month-old infant named Sam Griner was photographed by his mother, Laney Griner, while visiting a beach. The candid snapshot captured the baby clutching a fistful of sand right before attempting to eat it. Laney uploaded the image to her Flickr account the very same day, initially garnering around three hundred likes before she largely put it out of her mind. However, within twelve months, the picture began resurfacing across digital platforms with various alterations and captions added by unknown users."
+        ]
+      },
+      {
+        "h": "Losing Control to the Internet",
+        "p": [
+          "As the image spread, the family quickly realized they had lost complete control over the photograph. One of the earliest edited versions featured a ruined sandcastle in the backdrop alongside the caption declaring a hatred for sandcastles. Because the family was unfamiliar with internet culture at the time and aware that early memes typically targeted individuals mockingly, they experienced a sense of helplessness as the picture proliferated globally."
+        ]
+      },
+      {
+        "h": "How the Success Kid Title Was Born",
+        "p": [
+          "Eventually, internet users superimposed the image over a blue and green background, designating it as the Success Kid meme. Laney Griner noted that this title carried a profound personal resonance because Sam had been born prematurely and underwent critical brain surgery at just six weeks of age. Believing the moniker was remarkably fitting for her son, she embraced the name gifted to the baby by the online community."
+        ]
+      },
+      {
+        "h": "Global Reach and Surreal Encounters",
+        "p": [
+          "Over the years, the photograph transcended standard internet forums to appear in high-profile locations. The image was utilized in various advertising campaigns, featured prominently in a Super Bowl commercial, displayed inside Barack Obama's White House, and printed in newspapers around the world. Growing up with this level of accidental notoriety brought mixed feelings for Sam, who occasionally encountered fans asking him to recreate the iconic pose or inquiring about the taste of sand."
+        ]
+      },
+      {
+        "h": "Navigating Identity Beyond the Meme",
+        "p": [
+          "Approaching adulthood nearly two decades after achieving digital fame, Sam Griner spends much of his time listening to music and pursuing artistic endeavors, an interest he inherited from his father, Justin. While he appreciates the widespread reach of the image, he has expressed a clear desire not to be defined solely by a single viral photo from his infancy, noting that personal mindsets, bodies, and interests evolve significantly over time."
+        ]
+      },
+      {
+        "h": "Family Health Crisis and Crowdfunding Support",
+        "p": [
+          "The meme also played an unexpected role during a severe family health crisis when Sam's father, Justin, developed chronic kidney disease. After enduring six years of dialysis, Justin struggled to qualify for a necessary kidney transplant due to the high cost of anti-rejection medications. Although initially hesitant to invoke the meme, the family launched a GoFundMe campaign that gained significant traction after being shared on Twitter, successfully surpassing its financial goal within the first week."
+        ]
+      },
+      {
+        "h": "Legacy and Looking Forward",
+        "p": [
+          "Today, the legacy of the meme extends into professional medical spaces, where nurses and doctors reportedly use the image to help get through challenging workdays. Sam has shared his happiness that a picture capturing him simply eating sand can bring comfort to individuals who save lives daily. Looking to the future, Sam hopes to eventually create original works that inspire others just as much as his viral baby photograph did."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sam Griner reflects on his life nearly two decades after becoming the global internet sensation known as Success Kid at eleven months old. The article explores how his mother's casual Flickr upload transformed into a worldwide meme appearing in Super Bowl commercials and the White House, while also detailing a successful fundraising campaign for his father's medical needs."
+        ]
+      }
+    ],
+    "facts": [
+      "Sam Griner was 11 months old when photographed on a beach in 2007.",
+      "Laney and Justin Griner recounted their story in a BuzzFeed video published in June 2025.",
+      "Justin Griner had chronic kidney disease and was on dialysis for six years.",
+      "Sam was born prematurely and needed brain surgery at six weeks old."
+    ],
+    "entities": {
+      "people": [
+        "Sam Griner",
+        "Laney Griner",
+        "Justin Griner",
+        "Obama"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sam Griner",
+      "Success Kid meme",
+      "Laney Griner",
+      "Justin Griner"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt9b43cd4b63c0fa4b/6ae5c69d1e28a40c3281d223/success_kid.webp",
+        "caption": "What Happened to Sam Griner, the Iconic Success Kid Meme, Nearly Two Decades Later",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-10-31T11:09:04.770Z"
   }
 };

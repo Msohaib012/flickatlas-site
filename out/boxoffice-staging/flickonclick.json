@@ -1,161 +1,206 @@
 {
-  "1234139": [
-    {
-      "collection_inr_cr": 59.7,
-      "date": "2026-10-15",
-      "day": 1,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 37.1,
-      "date": "2026-10-16",
-      "day": 2,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 47.25,
-      "date": "2026-10-17",
-      "day": 3,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 55.85,
-      "date": "2026-10-18",
-      "day": 4,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 42.35,
-      "date": "2026-10-19",
-      "day": 5,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 46.8,
-      "date": "2026-10-20",
-      "day": 6,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 28.15,
-      "date": "2026-10-21",
-      "day": 7,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 17.15,
-      "date": "2026-10-22",
-      "day": 8,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 14.5,
-      "date": "2026-10-23",
-      "day": 9,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 24.15,
-      "date": "2026-10-24",
-      "day": 10,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 25.7,
-      "date": "2026-10-25",
-      "day": 11,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 9.45,
-      "date": "2026-10-26",
-      "day": 12,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 7.5,
-      "date": "2026-10-27",
-      "day": 13,
-      "estimate": false,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 6.5,
-      "date": "2026-10-28",
-      "day": 14,
-      "estimate": true,
-      "source": "flickonclick"
-    }
-  ],
-  "1375156": [
-    {
-      "collection_inr_cr": 4.1,
-      "date": "2026-10-23",
-      "day": 1,
-      "estimate": false,
-      "occupancy_pct": 13.0,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 7.25,
-      "date": "2026-10-24",
-      "day": 2,
-      "estimate": false,
-      "occupancy_pct": 21.0,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 8.2,
-      "date": "2026-10-25",
-      "day": 3,
-      "estimate": false,
-      "occupancy_pct": 25.0,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 3.2,
-      "date": "2026-10-26",
-      "day": 4,
-      "estimate": false,
-      "occupancy_pct": 13.0,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 3.1,
-      "date": "2026-10-27",
-      "day": 5,
-      "estimate": false,
-      "occupancy_pct": 20.0,
-      "source": "flickonclick"
-    },
-    {
-      "collection_inr_cr": 3.0,
-      "date": "2026-10-28",
-      "day": 6,
-      "estimate": true,
-      "source": "flickonclick"
-    }
-  ],
-  "1400940": [
-    {
-      "collection_inr_cr": 1.0,
-      "date": "2026-10-24",
-      "day": 2,
-      "estimate": false,
-      "occupancy_pct": 14.0,
-      "source": "flickonclick"
-    }
-  ]
+ "1234139": [
+  {
+   "collection_inr_cr": 59.7,
+   "date": "2026-10-15",
+   "day": 1,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 37.1,
+   "date": "2026-10-16",
+   "day": 2,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 47.25,
+   "date": "2026-10-17",
+   "day": 3,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 55.85,
+   "date": "2026-10-18",
+   "day": 4,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 42.35,
+   "date": "2026-10-19",
+   "day": 5,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 46.8,
+   "date": "2026-10-20",
+   "day": 6,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 28.15,
+   "date": "2026-10-21",
+   "day": 7,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 17.15,
+   "date": "2026-10-22",
+   "day": 8,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 14.5,
+   "date": "2026-10-23",
+   "day": 9,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 24.15,
+   "date": "2026-10-24",
+   "day": 10,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 25.7,
+   "date": "2026-10-25",
+   "day": 11,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 9.45,
+   "date": "2026-10-26",
+   "day": 12,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 8.3,
+   "date": "2026-10-27",
+   "day": 13,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 7.2,
+   "date": "2026-10-28",
+   "day": 14,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 6.25,
+   "date": "2026-10-29",
+   "day": 15,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 5.5,
+   "date": "2026-10-30",
+   "day": 16,
+   "estimate": false,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 8.5,
+   "date": "2026-10-31",
+   "day": 17,
+   "estimate": true,
+   "source": "flickonclick"
+  }
+ ],
+ "1375156": [
+  {
+   "collection_inr_cr": 4.1,
+   "date": "2026-10-23",
+   "day": 1,
+   "estimate": false,
+   "occupancy_pct": 13.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 7.25,
+   "date": "2026-10-24",
+   "day": 2,
+   "estimate": false,
+   "occupancy_pct": 21.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 8.2,
+   "date": "2026-10-25",
+   "day": 3,
+   "estimate": false,
+   "occupancy_pct": 25.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 3.2,
+   "date": "2026-10-26",
+   "day": 4,
+   "estimate": false,
+   "occupancy_pct": 13.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 3.25,
+   "date": "2026-10-27",
+   "day": 5,
+   "estimate": false,
+   "occupancy_pct": 20.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 2.65,
+   "date": "2026-10-28",
+   "day": 6,
+   "estimate": false,
+   "occupancy_pct": 12.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 2.25,
+   "date": "2026-10-29",
+   "day": 7,
+   "estimate": false,
+   "occupancy_pct": 11.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 2.85,
+   "date": "2026-10-30",
+   "day": 8,
+   "estimate": false,
+   "occupancy_pct": 13.0,
+   "source": "flickonclick"
+  },
+  {
+   "collection_inr_cr": 4.5,
+   "date": "2026-10-31",
+   "day": 9,
+   "estimate": true,
+   "source": "flickonclick"
+  }
+ ],
+ "1400940": [
+  {
+   "collection_inr_cr": 1.0,
+   "date": "2026-10-24",
+   "day": 2,
+   "estimate": false,
+   "occupancy_pct": 14.0,
+   "source": "flickonclick"
+  }
+ ]
 }
