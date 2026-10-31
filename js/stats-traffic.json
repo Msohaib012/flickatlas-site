@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-10-31T09:06:20Z",
+  "generated": "2026-10-31T09:35:50Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 12,
-    "pageviews": 36,
-    "sessions": 18,
-    "avg_session_seconds": 33.1
+    "users": 13,
+    "pageviews": 40,
+    "sessions": 19,
+    "avg_session_seconds": 32.8
   },
   "last7": {
-    "users": 97,
-    "pageviews": 814,
-    "sessions": 170,
-    "avg_session_seconds": 451.3
+    "users": 98,
+    "pageviews": 818,
+    "sessions": 171,
+    "avg_session_seconds": 448.8
   },
   "top_pages": [
     {
@@ -42,16 +42,16 @@
       "avg_time_seconds": 112.6
     },
     {
+      "path": "/",
+      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
+      "views": 28,
+      "avg_time_seconds": 29.9
+    },
+    {
       "path": "/box-office",
       "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
       "views": 28,
       "avg_time_seconds": 9.4
-    },
-    {
-      "path": "/",
-      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 26,
-      "avg_time_seconds": 31.1
     },
     {
       "path": "/show",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 150,
-      "users": 94
+      "sessions": 151,
+      "users": 95
     },
     {
       "source": "google",
@@ -101,7 +101,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 72
+      "users": 73
     },
     {
       "country": "India",
@@ -143,7 +143,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 81
+      "users": 82
     },
     {
       "device": "mobile",

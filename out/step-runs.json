@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T13:51:38Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": {
-     "candidates": 403,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "HUGEL to bring 'Make The Girls Dance' to India for first time, New Delhi to host exclusive edition; deets inside!",
-      "MTV Roadies 21 Episode 5 Dailymotion: Abhishek Malhan-Baseer Ali FIGHT, Who Got Selected In Roadies Rebirth?",
-      "MTV Roadies 21 Episode 1 Dailymotion: Who Will Get Selected In Roadies Rebirth? Contestants List",
-      "Bigg Boss 20 Episode 55 OTT Release Time Today: Scout OP-Uditi Ugly Fight; When Will New Ep Premiere Online",
-      "Obsession (Hindi) Ending TWIST: Did Nikki-Bear Die? Was The 'One Wish Willow' Obsession Spell Finally Broken?",
-      "Bigg Boss 20: Psychoplasty, Mike Tyson- Times When Qazi Touqeer Surprised Us With Knowledge, Intellectual Side",
-      "Gunmaaster G9: Romantic Track ‘Dard E Dil’ Featuring Emraan Hashmi & Genelia Deshmukh Unveiled!",
-      "Batman: How DC Almost Killed The Joker In His Comic Book Debut?",
-      "Premada Oorali Box Office Collections: Kannada film fetches Rs 15 crore in Week 5, targets Rs 120 crore plus closing",
-      "#Cult Twitter Review: 7 Tweets to read before watching Vishwak Sen starrer slasher horror thriller",
-      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's film collects Rs 11 crore in Week 4, targets Rs 365 crore finish",
-      "Udta Teer Box Office Collections: Ayushmann Khurrana's spy comedy wraps first week at Rs 30 crore",
-      "Jailer 2 India Box Office Collections: Rajinikanth starrer adds Week 2 over Rs 100 crore, grosses Rs 475 crore in 15 days",
-      "EXCLUSIVE: Yash's children Ayra and Yatharv watch their first film in theaters at Ramayana's LA premiere",
-      "Ramayana Gets U Certificate With No Cuts as Yash's 65-Minute Screen Time Sparks Buzz",
-      "Bhansali's production house trolled for sharing Salman-Aishwarya's PIC on karwa chauth",
-      "Kriti Sanon gets praised for recreating the 'no no no no' scene from 'Obsession'",
-      "Namo Narayana to join Rajinikanth’s 'Dharman' after successful 'Jailer 2'",
-      "Salman may reunite with Sanjay Dutt in Khalnayak Returns",
-      "Friday OTT releases (October 30, 2026): Where to watch ‘Akka’, ‘Sigma’, ‘Obsession’, and more"
-     ],
-     "updated": [],
-     "count": 380,
-     "detail": "386 stories, 0 duplicates removed, 17 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T14:50:56Z",
     "run_id": "41075213838",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "273 stories, 3 duplicates removed, 12 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T14:51:21Z",
-    "run_id": "41075213838",
+    "run_at": "2026-10-31T09:35:28Z",
+    "run_id": "41189287445",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 268,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Spanish Transport Minister Rejects Resignation Calls Following Deadly Train Disaster",
-      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Clash in Netflix's Gritty Thriller"
+      "Rise And Fall 2: Fans Slam Karan Patel For Showing Middle Finger To Women, Question His Conduct: Not Expected",
+      "This Christmas Comedy Cost $18 Million But Stayed At No. 1 For 12 Straight Weekends",
+      "Brad Pitt’s Fight Club Flopped At The Box Office, But DVD Sales Made It A Cult Classic",
+      "Kaante Director Sanjay Gupta Passes Away After Sudden Fall: Cause Of Death Still Unclear, Stars Pay Last Tribute, “1st Director To Cut Trailers…”",
+      "Clayface North America Box Office: Scares Past Evil Dead Burn’s Domestic Haul In Its First Week!",
+      "Sense And Sensibility Ending Explained: Do Elinor & Marianne Both Find Love?",
+      "Dhurandhar Composer Shashwat Sachdev Reportedly Joins Jr NTR's Dragon for Select Songs",
+      "'Jailer 2' BO Day 17 [LIVE]: Rajinikanth starrer crosses Rs 510 crore in India",
+      "R Madhavan teams up with Vishal Furia for new horror film",
+      "'Ramayana' VFX criticism: 'Sacred Games' supervisors say, 'There is some sort of campaign against film'",
+      "Darshan murder case takes a new turn as witness turns hostile",
+      "Ramayana advance booking crosses  ₹40 crore five days before release; deadlock with Indian exhibitors ends for Ranbir Kapoor, Yash film",
+      "EXCLUSIVE: Adah Sharma Returns With Adah Ki Aahat This Halloween; Says, “Be Prepared For The Unexpected”",
+      "Apple TV's 'True Detective' Reunion Is Officially a Major Streaming Hit",
+      "Pokémon Fans Officially Get the Ghost-Type Upgrade They’ve Been Waiting For",
+      "The Best Sci-Fi Series of the 2020s Officially Returns Next Year",
+      "Jason Statham's 98-Minute Non-Stop Action Thriller Shoots Onto New Free Streaming Home",
+      "HBO's IT Prequel Returns With Surprising New Episode At The Perfect Time",
+      "HBO's Neo-Noir Masterpiece Officially Returns In 2027",
+      "Pink Film Veteran Zeze Takahisa Champions Original Stories at Tokyo Masterclass"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 262,
+     "detail": "268 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:35:40Z",
+    "run_id": "41189287445",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Salman Khan Reportedly Considered For A Special Police Role In Sanjay Dutt's Khalnayak Returns",
+      "Veteran Filmmaker Sanjay Gupta Passes Away at 57 Following a Sudden Fall"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T14:51:21Z",
-    "run_id": "41075213838",
-    "status": "success",
-    "checked": {
-     "candidates": 57,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 52, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1603,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T14:56:55Z",
-    "run_id": "41075213838",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T09:35:40Z",
+    "run_id": "41189287445",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 116, coming 4"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2041,27 +2024,29 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T09:35:42Z",
+    "run_id": "41189287445",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "o9mnxj",
+      "69erpd"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T13:51:58Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 317 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2435,19 +2420,27 @@
      "detail": "+0 new rows, 24 updated rows, 302 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T09:35:41Z",
+    "run_id": "41189287445",
+    "status": "success",
+    "checked": {
+     "candidates": 327,
+     "detail": "326 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 323 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2730,30 +2723,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T14:56:55Z",
-    "run_id": "41075213838",
-    "status": "success",
-    "checked": {
-     "candidates": 78,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Spanish Transport Minister Rejects Resignation Calls Following Deadly Train Disaster",
-      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Clash in Netflix's Gritty Thriller"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 78 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3166,26 +3148,232 @@
      "detail": "api-news.json 79 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:35:42Z",
+    "run_id": "41189287445",
+    "status": "success",
+    "checked": {
+     "candidates": 283,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Salman Khan Reportedly Considered For A Special Police Role In Sanjay Dutt's Khalnayak Returns",
+      "Veteran Filmmaker Sanjay Gupta Passes Away at 57 Following a Sudden Fall",
+      "Bano Episode 18 — Watch on Geo TV",
+      "Aangan Episode 9 — Watch on HUM TV",
+      "Nashtar Episode 25 — Watch on Geo TV",
+      "Dar-E-Nijaat Episode 26 — Watch on ARY Digital",
+      "Khushi Episode 48 — Watch on HUM TV",
+      "Uswah Episode 38 — Watch on Geo TV",
+      "Izzat Episode 41 — Watch on ARY Digital",
+      "Dastoor Episode 70 — Watch on Green TV",
+      "Bano Episode 17 — Watch on Geo TV",
+      "Khushi Episode 47 — Watch on HUM TV",
+      "Uswah Episode 37 — Watch on Geo TV",
+      "Izzat Episode 40 — Watch on ARY Digital",
+      "Dastoor Episode 69 — Watch on Green TV",
+      "Bhumi Pednekar to Join Akshay Kumar in Priyadarshan's Upcoming Comedy",
+      "Ranbir Kapoor Recalls Proposing to Alia Bhatt in the Wild with Lions Nearby",
+      "Netflix Unveils Trailer for Pride and Prejudice Series Starring Emma Corrin and Jack Lowden",
+      "Ranbir Kapoor Details Proposal to Alia Bhatt in Kenya",
+      "Cannes-Winning Director Jafar Panahi Sentenced to Five Years in Prison by Iranian Court",
+      "International Girl Group KATseye Announces Expanded Tour Dates Across Asia and Australia",
+      "Ramayana Producer Namit Malhotra Responds to Viral Buzz About a Mahabharata Collaboration with SS Rajamouli",
+      "Milwaukee Brewers Secure First World Series Title in Franchise History",
+      "Ramayana: Part One Overseas Pre-Sales Surpass Rs 24 Crore Ahead of Worldwide Release",
+      "Ranbir Kapoor and Yash Starrer Ramayana Crosses Rs 15 Crore in Advance Bookings",
+      "Ramayana Early Premiere Reactions Draw Major Lord of the Rings Comparisons",
+      "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwide",
+      "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore Globally",
+      "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting protesting students in a new video",
+      "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 750 Crore Globally",
+      "David Bruckner to Direct Smile 3 With Parker Finn Producing",
+      "‘Avengers: Doomsday’ and ‘Dune: Part Three’ December Box Office Clash Set to Make History",
+      "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95",
+      "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
+      "Tark-e-Tamanna Episode 16 Promo Released Highlighting Zain Baig and Janice Tessa",
+      "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs International Film Awards",
+      "Bano Episode 16 — Watch on Geo TV",
+      "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on Johnny Depp Movie",
+      "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand",
+      "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
+      "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait",
+      "Izzat Episode 39 — Watch on ARY Digital",
+      "Khushi Episode 46 — Watch on HUM TV",
+      "Uswah Episode 36 — Watch on Geo TV",
+      "Dastoor Episode 68 — Watch on Green TV",
+      "Jake Gyllenhaal's Acclaimed R-Rated Thriller Nightcrawler Is Leaving Netflix",
+      "Sabrina Carpenter and Other Stars Flock to Screenings of Spanish Period Piece 'La Bola Negra'",
+      "Hasan Piker Files $72.5 Million Defamation Lawsuit Against Scott Jennings Over Podcast Clips",
+      "Peter Medak Passes Away: Acclaimed Director of The Ruling Class Was 88",
+      "The Cat in the Hat: Rainy Day Mayhem Trailer Previews Upcoming Interactive Adventure Ahead of New Movie",
+      "Jennifer Lawrence Confirms Breast Lift Procedure After Welcoming Her Second Child",
+      "Bombay High Court Dismisses IMPPA Dispute Award Involving Nikhil Dwivedi's Production Banner",
+      "Alan Ritchson's Action Thriller Runner Gears Up For Streaming Premiere Following Critical Acclaim",
+      "Super Mario Adventure Fan-Made Game Revealed With Impressive New Trailer",
+      "Koffee With Karan Season 9 Episode 3: Varun Dhawan, Janhvi Kapoor and Arjun Kapoor Grace the Couch",
+      "Amazon Prime's Action Thriller Reacher Captures Top Spot With Massive Streaming Numbers",
+      "Kartik Aaryan Roped In To Lead Vivek Agnihotri's Operation Sindoor",
+      "Karan Johar Celebrates Decade of 'Ae Dil Hai Mushkil' With Notes on Unrequited Love",
+      "Russell Brand Takes the Stand as Defense Opens Testimony at Southwark Crown Court",
+      "Keanu Reeves Steps Into Netflix Action Thriller Maelstrom",
+      "Suriya Explores Early Morning Devotion at Tiruchendur Temple Leading Up to 'Scene' Premiere",
+      "Academy CEO Bill Kramer Outlines Global Vision for the Oscars at Tokyo Film Festival",
+      "Kartik Aaryan and Vivek Agnihotri Team Up for Real-Events Drama Operation Sindoor",
+      "Udta Teer Box Office Day 5: Ayushmann Khurrana's Spy Comedy Records Growth On Tuesday",
+      "Ramayana Early Reviews Praise Ranbir Kapoor and Yash Following Los Angeles Premiere",
+      "Godzilla Minus Zero India Theatrical Debut Expected to Move to November Due to Ramayana IMAX Window",
+      "Robert Downey Jr. and Chris Evans Deliver Diwali Wishes Alongside Early Indian Release for Avengers: Doomsday",
+      "Early Reactions and First Impressions Surface from the Los Angeles Premiere of Nitesh Tiwari's Ramayana",
+      "Clayface North America Box Office: DC's Body Horror Feature Set To Surpass Lee Cronin's The Mummy",
+      "Master Replicas Announces Stargate SG-1 Asgard O'Neill Warship Die-Cast Model for March 2027",
+      "Dune: Part Three Final Trailer Teases Darker Turn for Paul Atreides Amid Chani Rebellions and Robert Pattinson Threat",
+      "Jailer 2 Kerala Box Office Day 13 Creates History at ₹72.85 Cr, Breaks Baahubali 2's 9-Year Record",
+      "Can Ranbir Kapoor's Ramayana Match KGF 2 and Baahubali 2's Pan-India Success?",
+      "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Film Festival",
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Globally",
+      "Ranbir Kapoor, Yash, and Sai Pallavi headline global premiere of Ramayana: Rise of a Legend in Los Angeles",
+      "Dancing With the Stars Suffers Shocking Double Elimination as Horror Movie Night Sends Two Couples Home",
+      "Ramayana: Rise of Legend Targets Dangal Decade-Old Record",
+      "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+      "Bano Episode 15 — Watch on Geo TV",
+      "Hurmat Episode 8 — Watch on HUM TV",
+      "Uswah Episode 35 — Watch on Geo TV",
+      "Khushi Episode 45 — Watch on HUM TV",
+      "Izzat Episode 38 — Watch on ARY Digital",
+      "Dastoor Episode 67 — Watch on Green TV",
+      "Shanaya Kapoor Takes On Double Role and OTT Debut in Student of the Year: After Dark Trailer",
+      "Mahaveer Jain Films Reveals Title And Festive Release Window For Upcoming Devotional Drama Starring Ravi Kishan",
+      "XLOV's Hyun Sidelined From Upcoming Showcase Following Practice Leg Injury",
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 480 Crore India Gross Amid Weekday Slump",
+      "Prashanth Neel-Backed Horror Film 418 Encounters Major Box Office Drop on Monday",
+      "Peter Berg Confirms Call of Duty Movie Focuses on the Cost of War Rather Than Comic Book Tropes",
+      "Director Rajiv Rai Clarifies Mohra Re-Release Plans And Denies Diwali Clash With Ramayana",
+      "Godzilla Minus Zero Could Delay Indian Premiere to Avoid Clash with Ramayana",
+      "Marathi Thriller Gondhal Drops Global Trailer Ahead of Academy Awards Campaign",
+      "Jay-Z Named Super Bowl 2027 Headliner While Fans Rally for Beyoncé Guest Appearance",
+      "Jailer 2 Reaches ₹733 Crore Worldwide in 12 Days, But ₹1,000 Crore Milestone Appears Difficult",
+      "Jay-Z Officially Confirmed to Headline the 2027 Super Bowl Halftime Show",
+      "Vikrant Massey Looks Back at His National Award-Winning Role as 12th Fail Reaches Three-Year Milestone",
+      "Kriti Sanon and Varun Dhawan Join Forces for Hindi Dub of Global Blockbuster Obsession",
+      "Netflix Docuseries 'The One About Matthew Perry' Examines the Actor's Lifelong Struggle With Addiction",
+      "Kriti Sanon and Varun Dhawan Lend Voices for Hindi Version of Hollywood Thriller Obsession on OTT",
+      "Randeep Hooda Discusses Working with John Cena in Matchbox: The Movie and Directing Future",
+      "Ahn Bo Hyun Steps Into Historical Terrain For Upcoming Series Sacred Jewel",
+      "You Can See Everything Enters A24's Top 10 Domestic Grossers",
+      "Meghan Markle Set for Special Guest Appearance on 'Junior MasterChef Australia' in 2027",
+      "AMPAS Plans to Expand Standalone Qualifying Festivals for the International Film Oscar",
+      "Barry Keoghan Opens Up About Undergoing Cosmetic Skin-Tightening Treatments",
+      "Shah Rukh Khan Unveils Fiery New Poster For Upcoming Movie King",
+      "Shah Rukh Khan's King Reconfirms Christmas 2026 Release With Fiery New Poster",
+      "Rajinikanth's Jailer 2 Crosses Rs 400 Crore India Nett and Reaches Rs 733 Crore Globally in 12 Days",
+      "Saif Ali Khan and Vidya Balan Reunite for Ritesh Batra's Long Years Ago",
+      "Jay-Z Set to Headline the Super Bowl Halftime Show",
+      "George Takei Remembers Star Trek Co-Star and Best Man Walter Koenig Following His Death at 90",
+      "Jailer 2 Crosses ₹400 Crore Milestone in India Net Collections on Day 12",
+      "Drishyam 3 Box Office Day 25: Ajay Devgn Thriller Crosses Milestone Amid Slowdown",
+      "Maxxing Named Dictionary.com Word of the Year for 2026",
+      "DC Comics To Crown A New Smartest Superhero As Mr. Terrific Surpasses Batman",
+      "Jay-Z Selected to Headline the 2027 Apple Music Super Bowl LXI Halftime Show",
+      "Macklemore Launches Free Palestine Tour Featuring Ed Sheeran's Former Backing Band",
+      "Paul Giamatti, Nico Parker, and Sam Nivola Cast in Takashi Yamazaki's Grandgear",
+      "Jon Bernthal's The Odyssey Makes History as the Highest-Grossing R-Rated Movie Ever",
+      "Takashi Yamazaki's Sci-Fi Blockbuster Grandgear Confirms Lead Cast Members",
+      "Jailer 2 Box Office Collection Day 12: Rajinikanth Starrer Earns Rs 9.45 Cr on Monday",
+      "Disney+ and Channel 4 Announce Landmark UK Partnership Including Linear Network Integration",
+      "Takashi Yamazaki Set to Direct English-Language Debut 'Grandgear' for Sony Pictures",
+      "Bano Episode 14 — Watch on Geo TV",
+      "The Batman Part II Resumes Filming with Steven Soderbergh Stepping In to Assist Director Matt Reeves",
+      "Chris Pratt and Constance Wu Discuss The Terminal List Season 2 and Dark Wolf Prequel Connections",
+      "Prime Video Unveils Official Trailer and Premiere Date for Terrell Owens Documentary Terrell T.O.",
+      "Keanu Reeves Steps in for Alan Ritchson in Netflix Action Feature Maelstrom",
+      "Hurmat Episode 7 — Watch on HUM TV",
+      "Uswah Episode 34 — Watch on Geo TV",
+      "Khushi Episode 44 — Watch on HUM TV",
+      "Izzat Episode 37 — Watch on ARY Digital",
+      "Dastoor Episode 66 — Watch on Green TV",
+      "Kim Ji Won's K-drama Doctor X: Mafia in White faces backlash and legislative petition over Gwangju uprising episode",
+      "Ranbir Kapoor Opens Up About Playing Lord Ram in Nitesh Tiwari's Upcoming Epic Ramayana",
+      "South Box Office Weekly Report: Jailer 2 Dominates While Premada Oorali Exhibits Remarkable Staying Power",
+      "Nicola Coughlan and Joe Cole Unveil Trailer for Channel 4's 'I Am Helen'",
+      "Ridley Scott's Major Historical Epic Finds New Life as an OTT Streaming Sensation",
+      "Eric Bauza, Renowned Voice of Looney Tunes' Bugs Bunny and Daffy Duck, Dies at 46",
+      "Ramayana: Part One Crosses ₹20 Crore in Advance Bookings Ahead of November Release",
+      "Stefan Djordjevic's 'Wind, Talk to Me' Dominates the Adriatic Film & TV Awards",
+      "Akshay Kumar's Classic Action Film Mohra Set for 4K Re-Release During Diwali Week",
+      "Surviving Hurricane Otis Dethrones Ben Affleck's Animals on Netflix",
+      "Saif Ali Khan, Vidya Balan, and Mélanie Laurent Cast in Ritesh Batra’s Comedy-Drama 'Long Years Ago'",
+      "Ramayana Worldwide Box Office Day 1 Advance Booking: Ranbir Kapoor Starrer Crosses $2 Million in Pre-Sales",
+      "Cryptozoic Entertainment Announces Fight! Mortal Kombat 1 Deck-Building Game",
+      "Udta Teer Enters First Monday Facing Typical Weekday Dip After Solid Opening Weekend",
+      "The Terminal List Season 2 Surpasses Reacher to Become Prime Video's Biggest Global Hit",
+      "Pratap Trailer Unveiled: Amit Sadh Transforms from Star Cop to Prisoner in Action-Packed Drama",
+      "Central Board of Film Certification Experiences Major Security Scare as Documents for Over 500 Films Are Exposed",
+      "Yash's Monster Mind Creations Takes Charge of Karnataka Theatrical Distribution for Ranbir Kapoor-Starrer Ramayana",
+      "Ramayana Advance Booking Generates Massive Early Momentum with Rs 20 Crore in Global Pre-Sales",
+      "Yash Raj Films Announces Title and Release Date for Ahaan Panday and Sharvari's Beparwah",
+      "Kamal Haasan's Raaj Kamal Films International Reportedly Locks Massive Three-Film OTT Package With JioHotstar",
+      "Udta Teer Box Office Day 3: Ayushmann Khurrana Starrer Doubles Its Earnings With A 100% Growth By Sunday",
+      "Amanda Seyfried Reflects on Her Choice to Decline the Role of Gamora in Guardians of the Galaxy",
+      "Ranabaali Box Office Collection Day 10: Telugu Drama Enters Rashmika Mandanna’s Top 10 Post-COVID Grossers",
+      "Drishyam 3 vs Drishyam 2 Box Office: Comparing the Fourth Weekend Performances",
+      "EastEnders Unveils Dark Truths About Lee Carter and a New Mick Twist on BBC iPlayer",
+      "Ranbir Kapoor Opens Up About Playing Lord Rama in Ramayana on Kaun Banega Crorepati",
+      "Suriya Manifested Working With Jithu Madhavan Ahead Of Tamil Debut In ‘Scene’",
+      "Netflix Co-CEO Ted Sarandos Celebrates Ten Years of Korean Content Dominance in Seoul",
+      "Filmmaker Sulagna Chatterjee Questions Organisers After Shilpa Rao's Set is Cut Short at Mumbai Festival",
+      "Nick Jonas Offers a Glimpse Into Family Life With Priyanka Chopra and Daughter Malti Marie",
+      "Bollywood Diwali Party Calendar Unveiled: Security Protocols Tighten Across Mumbai Celebrations",
+      "Ramayana Advance Booking Crosses ₹20 Crore 10 Days Before Release",
+      "Jailer 2 Box Office: Rajinikanth Starrer Becomes Kollywood's First ₹700 Crore Grosser",
+      "‘Ramayana: Rise of a Legend’ Surges Toward Rs 25 Crore in Advance Bookings Ahead of November Release",
+      "Jailer 2 Box Office Collection Day 11: Rajinikanth's Action Thriller Crosses Rs 710 Crore Worldwide",
+      "Nicolas Cage Unveils Trailer for Crime Thriller Best Pancakes in the County",
+      "DC Studios' Clayface Claims Top Spot at North American Box Office While You Can See Everything Continues Impressive Run",
+      "Clayface Dominates Box Office Over You Can See Everything As Street Fighter Plummets",
+      "Specialty Box Office Roundup: Israel-Gaza Documentary 'NAZA' Crosses The One Million Dollar Milestone",
+      "Fresh Insights Uncover the Under-the-Radar Romance Between Tom Brady and Candice Swanepoel",
+      "Lee Child Officially Steps Away From Writing Jack Reacher Novels After 29 Years",
+      "Elon Musk Releases First AI-Generated Odyssey Episode Via Grok",
+      "Udta Teer Box Office Collection Day 3: Ayushmann Khurrana and Sara Ali Khan Film Crosses ₹19 Crore in Opening Weekend",
+      "Tamil Romantic Horror Film Immortal Secures SonyLIV OTT Release Date",
+      "Bano Episode 13 — Watch on Geo TV",
+      "Zehar Episode 20 — Watch on HUM TV",
+      "Representative For Tiger Shroff Refutes Claims Regarding Statement Made To Mumbai Police",
+      "Nashtar Episode 24 — Watch on Geo TV",
+      "Mohabbat Mukhtasir Episode 5 — Watch on HUM TV",
+      "Ramayana: Part 1 Surpasses $2 Million in Global Pre-Sales Ahead of November Debut",
+      "Izzat Episode 36 — Watch on ARY Digital",
+      "Khushi Episode 43 — Watch on HUM TV",
+      "Uswah Episode 33 — Watch on Geo TV",
+      "Dastoor Episode 65 — Watch on Green TV",
+      "Aadi Saikumar's Crime Action Thriller 'Sub-Inspector Yugandhar' Locks OTT Release Date",
+      "Rajinikanth's Jailer 2 Surges on Day 10 as Worldwide Gross Nears ₹670 Crore",
+      "Chef Damu, Veteran Culinary Personality and Tamil Film Actor, Passes Away at 72",
+      "Zehar Episode 19 — Watch on HUM TV",
+      "Exclusive Chat with Zahid Ahmed Episode 78 — Watch on ARY Digital",
+      "Bano Episode 12 — Watch on Geo TV",
+      "Nashtar Episode 23 — Watch on Geo TV",
+      "Dar Episode 25 — Watch on ARY Digital",
+      "Aangan Episode 8 — Watch on HUM TV",
+      "Khushi Episode 42 — Watch on HUM TV",
+      "Izzat Episode 35 — Watch on ARY Digital",
+      "Uswah Episode 32 — Watch on Geo TV",
+      "Bulbulay Season 2 Episode 379 — Watch on ARY Digital",
+      "Dastoor Episode 64 — Watch on Green TV"
+     ],
+     "updated": [],
+     "count": 204,
+     "detail": "api-news.json 283 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T13:51:41Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": {
-     "candidates": 23,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 13 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3448,19 +3636,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3838,29 +4026,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T13:51:57Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 380 still unprocessed; today by category: movies 7/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 2/3, awards 2/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
-      "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4258,19 +4436,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:35:40Z",
+    "run_id": "41189287445",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 262 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Salman Khan Reportedly Considered For A Special Police Role In Sanjay Dutt's Khalnayak Returns",
+      "Veteran Filmmaker Sanjay Gupta Passes Away at 57 Following a Sudden Fall"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4525,24 +4713,19 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 215,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4842,24 +5025,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
+     "count": 176,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5169,19 +5352,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 19,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5426,19 +5614,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5673,19 +5861,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5929,19 +6117,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6182,19 +6370,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6424,19 +6612,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T13:52:12Z",
-    "run_id": "41066592569",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6689,6 +6877,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:35:50Z",
+    "run_id": "41189287445",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6733,5 +6931,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T09:06:20Z"
+ "updated_at": "2026-10-31T09:35:50Z"
 }

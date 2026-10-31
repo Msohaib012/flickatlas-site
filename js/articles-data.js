@@ -25365,5 +25365,181 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 12:58:23 +0200"
+  },
+  "g26l93": {
+    "id": "g26l93",
+    "type": "news",
+    "headline": "Salman Khan Reportedly Considered For A Special Police Role In Sanjay Dutt's Khalnayak Returns",
+    "dek": "Reports suggest that superstar Salman Khan might join Sanjay Dutt in the upcoming sequel Khalnayak Returns, with director Subhash Ghai commenting on the early development stages.",
+    "body": [
+      {
+        "h": "The Buzz Around Khalnayak Returns",
+        "p": [
+          "Speculation has been swirling regarding a potential collaboration between two major Bollywood icons, Salman Khan and Sanjay Dutt. Rumors indicate that Khan is being eyed for a significant role in the sequel to the 1993 cult classic film Khalnayak. If the talks materialize, audiences could see the two actors sharing screen space once again in a high-profile project.",
+          "The sequel aims to revive the cinematic magic of the original movie, which left a lasting impression on Hindi cinema. The initial reports have generated immense excitement among movie enthusiasts who fondly remember the dramatic impact of the first film."
+        ]
+      },
+      {
+        "h": "A Special Police Officer Role",
+        "p": [
+          "According to media reports citing industry sources, the creative team is shaping a distinct character specifically keeping Salman Khan in mind. The proposed role is that of a helpful and compassionate police officer who provides assistance to Sanjay Dutt's character in the narrative.",
+          "This supportive policeman is envisioned as a noble human being whose presence significantly influences the storyline. Producers and writers believe that a character of this magnitude would serve as a fitting extension of the original world built in Khalnayak."
+        ]
+      },
+      {
+        "h": "Background of the 1993 Original",
+        "p": [
+          "The original 1993 film Khalnayak holds a legendary status in Bollywood history. Directed by Subhash Ghai, the movie featured Sanjay Dutt in the iconic role of Ballu, alongside prominent stars Jackie Shroff and Madhuri Dixit in pivotal parts.",
+          "The classic tale of crime, redemption, and law enforcement captured the public imagination upon its release. The prospect of a sequel carrying forward the legacy of such a celebrated title has naturally sparked widespread interest across the entertainment industry."
+        ]
+      },
+      {
+        "h": "Current Status of the Script and Casting",
+        "p": [
+          "Despite the heavy speculation, official confirmations regarding Salman Khan's involvement are yet to be made. The film is currently going through the crucial scriptwriting phase, with the screenplay still being developed by the writers and the director.",
+          "Makers have clarified that final decisions concerning the casting will only be locked in after the script is completely ready. Because the writing process is ongoing, any claims about finalized contracts remain premature."
+        ]
+      },
+      {
+        "h": "Director Subhash Ghai's Reaction",
+        "p": [
+          "Addressing the ongoing rumors, veteran filmmaker Subhash Ghai urged caution against jumping to conclusions. He stated that it is currently much too early to confirm anything regarding the casting or the plot details.",
+          "Ghai emphasized that the scripting is actively underway and that the true picture of the project will only emerge once the final draft is completed. His cautious response highlights the early developmental stage of the sequel."
+        ]
+      },
+      {
+        "h": "Potential Reunion After Yuvvraaj",
+        "p": [
+          "If Salman Khan ultimately signs on for Khalnayak Returns, it will mark a notable professional reunion. The actor and director last worked together nearly two decades ago on the 2008 film Yuvvraaj.",
+          "A fresh partnership between Khan and Ghai would add another layer of anticipation to the project, bridging a long gap since their last cinematic venture together."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that Salman Khan is being considered for a supportive police officer role in the upcoming sequel Khalnayak Returns, which would feature Sanjay Dutt. Director Subhash Ghai has responded to the rumors by stating that it is too early to confirm details while the script is still being written. If finalized, the project would reunite Khan and Ghai for the first time since their 2008 film Yuvvraaj."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan is rumored to be considered for a police officer role in Khalnayak Returns.",
+      "The original film Khalnayak was released in 1993.",
+      "Khalnayak was directed by Subhash Ghai.",
+      "Sanjay Dutt played the character Ballu in the 1993 film.",
+      "Jackie Shroff and Madhuri Dixit starred in the original Khalnayak.",
+      "Salman Khan and Subhash Ghai previously worked together on the 2008 film Yuvvraaj."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Sanjay Dutt",
+        "Subhash Ghai",
+        "Jackie Shroff",
+        "Madhuri Dixit"
+      ],
+      "titles": [
+        "Khalnayak",
+        "Khalnayak Returns",
+        "Yuvvraaj"
+      ]
+    },
+    "keywords": [
+      "Khalnayak Returns",
+      "Salman Khan Sanjay Dutt",
+      "Subhash Ghai Khalnayak",
+      "Khalnayak sequel casting"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ae4a79eb3ac6-salman-khan-to-play-cop-in-sanjay-dutts-khalnayak-returns-302013386-16x9.jpg",
+        "caption": "Salman Khan Reportedly Considered For A Special Police Role In Sanjay Dutt's Khalnayak Returns",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-10-31T09:35:40Z"
+  },
+  "o9mnxj": {
+    "id": "o9mnxj",
+    "type": "news",
+    "headline": "Veteran Filmmaker Sanjay Gupta Passes Away at 57 Following a Sudden Fall",
+    "dek": "The acclaimed director of Kaante and Shootout at Lokhandwala died after suffering a severe head injury at his residence, leaving the Bollywood fraternity in deep shock.",
+    "body": [
+      {
+        "h": "Tragic Passing of a Visionary",
+        "p": [
+          "The Hindi film industry woke to devastating news as veteran director and producer Sanjay Gupta passed away at the age of 57. Known for helming high-octane action thrillers, his unexpected death has stunned fans and peers alike. The entire fraternity is mourning the loss of a prominent creative voice who helped shape modern commercial cinema in India."
+        ]
+      },
+      {
+        "h": "Details Surrounding the Incident",
+        "p": [
+          "According to reports, the filmmaker suffered an accidental fall at his home on October 30 around 2:30 PM. The incident led to a critical head injury that ultimately proved fatal. While medical professionals are still examining the precise cause of death, the sudden nature of the tragedy has left colleagues and cinephiles grappling with grief."
+        ]
+      },
+      {
+        "h": "Tributes From Industry Colleagues",
+        "p": [
+          "As word of the director's passing spread across social media, numerous actors and fellow filmmakers shared heartfelt tributes. Tusshar Kapoor expressed his sorrow over the unpredictable nature of life, remembering him as a mentor in living fully. Arjun Kapoor recalled growing up watching his films and discussing cinema with him, while Kajol offered her condolences and strength to the bereaved family. Director Kunal Kohli also shared memories of serving on an awards jury with him and engaging in lively debates."
+        ]
+      },
+      {
+        "h": "Pioneering Promotional Strategies",
+        "p": [
+          "Beyond his directorial achievements, the filmmaker was recognized as an industry innovator. Rahul Dholakia noted that he was potentially the very first filmmaker to cut specialized promotional trailers and pitch promos to present movie concepts to actors and theatrical distributors before the practice became mainstream. His distinct visual style left an indelible mark on how Bollywood markets its big-screen projects."
+        ]
+      },
+      {
+        "h": "Shaping Stylized Action Cinema",
+        "p": [
+          "Beginning his directorial career in 1994 with Aatish: Feel the Fire, the late creator transformed the visual landscape of Hindi action dramas. He introduced striking color palettes and unique action choreography to the medium. His extensive filmography includes notable titles such as Kaante, Shootout at Lokhandwala, Kaabil, Shootout at Wadala, Musafir, Zinda, and Mumbai Saga."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sanjay Gupta passed away at age 57 after suffering a severe head injury from a fall at his home on October 30. Numerous Bollywood stars and directors paid emotional tributes to the Kaante director, remembering his pioneering contributions to stylized action cinema and trailer cutting. The industry continues to mourn the sudden loss of the visionary creator."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjay Gupta passed away at the age of 57.",
+      "The incident occurred on October 30 around 2:30 PM.",
+      "He made his directorial debut in 1994 with Aatish: Feel the Fire.",
+      "Tusshar Kapoor, Arjun Kapoor, Kajol, Kunal Kohli, and Rahul Dholakia paid public tributes."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Tusshar Kapoor",
+        "Arjun Kapoor",
+        "Kajol",
+        "Kunal Kohli",
+        "Rahul Dholakia"
+      ],
+      "titles": [
+        "Kaante",
+        "Shootout at Lokhandwala",
+        "Kaabil",
+        "Shootout at Wadala",
+        "Aatish: Feel the Fire",
+        "Musafir",
+        "Zinda",
+        "Mumbai Saga"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta",
+      "Kaante director Sanjay Gupta",
+      "Sanjay Gupta passes away",
+      "Sanjay Gupta cause of death"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/sanjay-gupta-passes-away-01.jpg",
+        "caption": "Veteran Filmmaker Sanjay Gupta Passes Away at 57 Following a Sudden Fall",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 08:19:56 +0000"
   }
 };
