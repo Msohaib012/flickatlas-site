@@ -22981,13 +22981,20 @@ window.FA_ARTICLES = {
           "Bano Episode 18 aired on 2026-10-30 on Geo TV. The full episode is available on the channel's official YouTube page.",
           "Watch the full episode here: https://www.youtube.com/watch?v=4B2QagkEoEc"
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano aur uske khandan ki khamoshi aur pareshani dikhayi gayi hai jab unhe Bano ki halat ke baare mein pata chalta hai. Bano ke ghar wale usse milne aur uska haal poochne ka soch rahe hain. Doosri taraf, Mehar-un-Nisa aur uske khandan mein tension barh rahi hai. Mehar-un-Nisa ke khandan ke log Bano ke sath hue haadse aur uske aage ki zimmedari par baat karte hain. Doctor Bano ki halat ke baare mein batati hain ke uske sar par chot ki wajah se serious complication hai aur use abhi strict observation mein rakhna zaroori hai. Khwateen aur ghar ke doosre afraad hospital mein maujood hain aur sab pareshan hain ke aage kya hoga. Episode ke aakhir mein Bano hospital ke bed par oxygen mask ke sath behosh lait-hi-nazar aati hai aur sabhi log uski recovery ka intezaar kar rahe hote hain."
+        ]
       }
     ],
     "facts": [
       "Bano Episode 18 aired on 2026-10-30.",
       "Channel: Geo TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=4B2QagkEoEc",
-      "YouTube views: 221,150."
+      "YouTube views: 221,150.",
+      "Episode summary added 2026-10-31."
     ],
     "entities": {
       "titles": [
@@ -26133,5 +26140,272 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T11:09:04.770Z"
+  },
+  "a1md5o": {
+    "id": "a1md5o",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 7 — Watch on ARY Digital",
+    "dek": "Lagan Lagi episode 7 aired on 2026-10-30 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 7 aired on 2026-10-30 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=bML_jtAagkU"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Daniyal aur Zunaira cinema mein ticket line mein hain jahan ek ladka Zunaira se takra jata hai, jis par Daniyal gusse mein us ladke ko peetna shuru kar deta hai. Zunaira ke mana karne ke bawujud Daniyal nahi manta aur wahan se gusse mein chale jata hai. Zunaira car mein baith kar Daniyal se naraaz hoti hai ke is tarah tamasha lagane ki kya zaroorat thi, lekin Daniyal gusse mein use chup hone ko kehta hai aur use ghar chhod deta hai.\n\nGhar mein Kiran apni ammi aur abu se baat karti hai ke Daniyal ko ghar bulana khatarnak ho sakta hai kyunke woh moody hai aur aate hi light chali gayi, jis par ammi aur abu kehte hain ke rishta to ho gaya hai lekin abhi nikah nahi hua isliye aisi baatein nahi honi chahiye.\n\nIdhar Zunaira raat ko apne room mein udaas baith kar sochti hai ke Daniyal ka yeh rawaiye theek nahi hai. Agle din Daniyal ek bouquet aur 'I'm Sorry' ka card courier ke zariye Zunaira ke ghar bhejta hai. Zunaira ki ammi woh phool dekh kar khush hoti hain aur kehti hain ke Daniyal bohat samajhdar ladka hai aur Zunaira se kehti hain ke uski jaldi se shadi ho jani chahiye, lekin Zunaira kehti hai ke pehle uska semester aur exams hone dein.\n\nDaniyal office mein baith kar Zunaira ko call karta hai, aur Zunaira apni padhai ke dauran phone par baat karti hai. Daniyal kehta hai ke woh abhi kisi mufti ko pakad kar nikah karwadega, lekin Zunaira mana karti hai.\n\nEpisode ke aakhri hisse mein Zunaira ek cafe mein baith kar kisi aur ladke se milti hai jo uski coffee aur company ki taarif karta hai aur unke haath aapas mein judte hain, aur isi par episode khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 7 aired on 2026-10-30.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=bML_jtAagkU",
+      "YouTube views: 45,685.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/bML_jtAagkU/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 7",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-30T17:00:20Z"
+  },
+  "86vit4": {
+    "id": "86vit4",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 6 — Watch on ARY Digital",
+    "dek": "Lagan Lagi episode 6 aired on 2026-10-29 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 6 aired on 2026-10-29 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=CT4JkKXAaaE"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Zunaira aur uski ammi ghar par baith kar purani baatein karte hain aur dua karte hain ke Zunaira ki shadi shuda zindagi achi guzre. Phir Danyal Zunaira ko ek ring gift karta hai, jise Zunaira apni ammi ko dikhati hai aur ammi thori fikarmand hoti hain ke yeh rasam Danyal ki ammi ko karni chahiye thi. Uske baad Danyal zidd karta hai ke woh Zunaira ki family se milne jayega aur jab woh Zunaira ke ghar jata hai, wahan bacha Sonu galti se uski shirt par ice cream gira deta hai, jis par Danyal ki shirt gandi ho jati hai aur woh shirt change karne andar jata hai. Andar Danyal ki baat Zunaira ki family se hoti hai aur woh Zunaira ko dinner par bahar lejane ki zid karta hai, jispar Zunaira ki ammi aur baqi gharwale pehle thora resist karte hain lekin phir maan jate hain. Danyal Zunaira ko pehli baar ring pehnhata hai aur dono bahar dinner ke liye chal parte hain. Dusri taraf, ek alag gathering mein Faiza ki doston ke sath baatcheet hoti hai jahan Faiza unhe apne bete Danyal ki shadi aur engagement ke bare mein batati hai, lekin dost jab purane halaat aur background par comment karte hain to Faiza naraz ho kar wahan se uth kar chali jati hai. Episode ka ikhtitam is scene par hota hai jahan Danyal aur Zunaira car mein baith kar aage chal rahe hain aur Danyal Zunaira se kehta hai ke woh Zunaira ki family ke bohot qareeb ho jayega, aur is tarah episode khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 6 aired on 2026-10-29.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=CT4JkKXAaaE",
+      "YouTube views: 380,142.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/CT4JkKXAaaE/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 6",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-29T17:00:13Z"
+  },
+  "1qalbzn": {
+    "id": "1qalbzn",
+    "type": "news",
+    "headline": "Prime Video Spinoff Neagley Pulls in Massive Viewership After Reacher Season 4 Ends",
+    "dek": "Amazon Prime Video scores a major action hit as the Reacher spinoff Neagley pulls in 3.3 billion minutes viewed in September and secures a Season 2 renewal.",
+    "body": [
+      {
+        "h": "A Smooth Transition in the Action Universe",
+        "p": [
+          "When the fourth season of Reacher wrapped up in the middle of September, there were questions about whether Amazon's broader action franchise could maintain its momentum. Fortunately, the new spinoff proved any doubters wrong by delivering a Certified Fresh experience that rivals the flagship series.",
+          "Set squarely within the same shared universe and centering on one of the most popular characters from the franchise, the new series stepped into the spotlight right as the parent show concluded its latest run."
+        ]
+      },
+      {
+        "h": "Frances Neagley Steps Into the Lead Role",
+        "p": [
+          "Debuting on September 16, 2026, the action thriller Neagley released all eight episodes at once on Prime Video. The series places Frances Neagley front and center, taking the resourceful and highly intelligent former U.S. Army Master Sergeant turned private investigator and giving her a standalone mystery to solve.",
+          "Maria Sten reprises her beloved role as the titular character, who digs into a suspicious accident involving the death of her childhood friend Tommy. Refusing to accept an easy explanation, her search uncovers a dark and dangerous criminal conspiracy."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Daily Chart Success",
+        "p": [
+          "The series made an immediate impact upon its release, securing a near-perfect score of 94 percent on Rotten Tomatoes. Critics and audiences alike praised the hard-hitting action and compelling mystery.",
+          "This positive reception translated directly to viewership dominance, allowing Neagley to leap over Reacher and claim the number one spot on Prime Video's daily Top 10 chart shortly after its debut."
+        ]
+      },
+      {
+        "h": "Impressive Nielsen Viewership Numbers",
+        "p": [
+          "According to Nielsen data covering September 1 to September 30, 2026, Neagley pulled in a massive 3.3 billion minutes viewed. This strong performance placed it right alongside other top streaming titles for the month.",
+          "While the flagship series Reacher brought in 4.6 billion minutes viewed for the month, the spinoff's 3.3 billion debut is exceptionally strong, especially considering the parent show has four seasons of accumulated material drawing in viewers who are catching up."
+        ]
+      },
+      {
+        "h": "Season 2 Renewal and Future Plans",
+        "p": [
+          "The adventures of the fearless private investigator are far from finished. Following the strong opening month, Amazon officially renewed Neagley for a second season on October 1, 2026, though a specific premiere date has not yet been announced.",
+          "Meanwhile, Alan Ritchson is set to return for the fifth season of Reacher, which will adapt the 20th novel in Lee Child's book series titled Make Me. Both shows could potentially return to the platform by September 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video's action thriller spinoff Neagley debuted on September 16, 2026, starring Maria Sten and pulling in 3.3 billion minutes viewed during its first month on the platform. Following its critical acclaim and a number one spot on the daily charts, Amazon renewed the series for a second season on October 1, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Reacher Season 4 ended in the middle of September 2026.",
+      "Neagley was released on September 16, 2026.",
+      "All eight episodes of Neagley Season 1 dropped on Prime Video simultaneously.",
+      "Neagley received a 94% rating on Rotten Tomatoes.",
+      "Neagley recorded 3.3 billion minutes viewed in the month of September.",
+      "Reacher recorded 4.6 billion minutes viewed in the month of September.",
+      "Amazon renewed Neagley for a second season on October 1, 2026.",
+      "Reacher Season 5 will adapt Lee Child's 20th novel, Make Me."
+    ],
+    "entities": {
+      "people": [
+        "James Melzer",
+        "Maria Sten",
+        "Alan Ritchson",
+        "Lee Child",
+        "Greyston Holt",
+        "Adeline Rudolph",
+        "Matthew Del Negro",
+        "Damon Herriman",
+        "Jasper Jones",
+        "Jhaleil Swaby",
+        "Nick Santora",
+        "Nicholas Wootton"
+      ],
+      "titles": [
+        "Reacher",
+        "Neagley",
+        "Ted Lasso",
+        "Lioness",
+        "Monster: The Lizzie Borden Story",
+        "The Gentlemen",
+        "SEAL Team",
+        "Beauty in Black",
+        "Outer Banks",
+        "Silo",
+        "Make Me"
+      ]
+    },
+    "keywords": [
+      "Neagley Prime Video",
+      "Maria Sten Neagley",
+      "Reacher Season 4",
+      "Neagley 3.3 billion minutes",
+      "Neagley Season 2 renewal"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/movieweb-featured-image-template-2026-08-19t101959-761.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Prime Video Spinoff Neagley Pulls in Massive Viewership After Reacher Season 4 Ends",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 12:00:17 GMT"
+  },
+  "1c9rt6u": {
+    "id": "1c9rt6u",
+    "type": "news",
+    "headline": "RESCENE Leads MMA 2026 Global TOP10 Fan Voting Despite General Category Omission",
+    "dek": "Group RESCENE has captured the top spot in the initial Global TOP10 fan vote for the Melon Music Awards 2026, overcoming their exclusion from the main general Bonsang category.",
+    "body": [
+      {
+        "h": "Surging to the Lead",
+        "p": [
+          "The girl group RESCENE has jumped directly to the number one position in the ongoing public voting for the newly launched Global TOP10 category at the Melon Music Awards 2026.",
+          "Live tracking metrics revealed on Melon's platform on October 31 indicate that the group commands twenty-eight percent of all ballots cast."
+        ]
+      },
+      {
+        "h": "Fierce Competition in the Rankings",
+        "p": [
+          "With their current standing, the group enjoys a comfortable thirteen percentage point lead over G-DRAGON, who sits in second place with fifteen percent of the vote.",
+          "Further down the leaderboard, NCT WISH claims ten percent, while BTS and RIIZE share an identical eight percent share of the active ballots."
+        ]
+      },
+      {
+        "h": "Prior General Ballot Hurdle",
+        "p": [
+          "This strong turnout follows a frustrating setback in the main general TOP10 category, where the group previously accumulated over 1.17 million votes from dedicated fans.",
+          "That impressive tally was actually higher than the total gathered by Lim Young Woong, yet the group ultimately missed out on the final lineup due to criteria favoring digital streams and judge evaluations."
+        ]
+      },
+      {
+        "h": "Fan Mobilization and Voting Platforms",
+        "p": [
+          "Undeterred by the earlier omission from the general list, the fanbase quickly rallied behind the artists to drive momentum in the newly created international category.",
+          "The polling period runs through November 13, taking votes across both domestic Melon interfaces and foreign Berriz platforms."
+        ]
+      },
+      {
+        "h": "Eligibility of Past Tracks",
+        "p": [
+          "Contributing to their current success is the enduring popularity of their 2024 sleeper hit LOVE ATTACK, which continues to pull strong numbers.",
+          "The track remains fully eligible for cumulative Global-K chart metrics without being bound by any strict release date limitations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "RESCENE has taken first place in the initial fan voting for the Global TOP10 category at the Melon Music Awards 2026 with twenty-eight percent of the vote, despite previously missing out on the main general lineup.",
+          "Their supporters mobilized across domestic and international platforms through November 13, aided by the ongoing eligibility of their past sleeper hit track."
+        ]
+      }
+    ],
+    "facts": [
+      "RESCENE holds 28% of the total votes in the Global TOP10 category as of October 31, 2026.",
+      "G-DRAGON is in second place with 15% of the vote.",
+      "NCT WISH has 10% of the vote.",
+      "BTS and RIIZE are tied at 8% of the vote.",
+      "RESCENE gathered over 1.17 million votes in the general TOP10 fan vote.",
+      "The Global TOP10 fan vote runs through November 13 across domestic Melon and foreign Berriz platforms.",
+      "The track LOVE ATTACK was released in 2024."
+    ],
+    "entities": {
+      "people": [
+        "G-DRAGON",
+        "Lim Young Woong"
+      ],
+      "titles": [
+        "RESCENE",
+        "NCT WISH",
+        "BTS",
+        "RIIZE",
+        "LOVE ATTACK"
+      ]
+    },
+    "keywords": [
+      "RESCENE MMA 2026",
+      "Global TOP10 fan vote",
+      "RESCENE LOVE ATTACK",
+      "Melon Music Awards 2026"
+    ],
+    "images": [],
+    "published": "Sat, 31 Oct 2026 07:48:00 EDT"
   }
 };
