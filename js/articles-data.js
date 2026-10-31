@@ -25541,5 +25541,207 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 08:19:56 +0000"
+  },
+  "ts4a8u": {
+    "id": "ts4a8u",
+    "type": "news",
+    "headline": "‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+    "dek": "The Claudia Winkleman-fronted BBC hit concluded its second season with massive viewing figures, cementing its place as a top television draw.",
+    "body": [
+      {
+        "h": "Record-Breaking Finale Numbers",
+        "p": [
+          "The second season of The Celebrity Traitors concluded on Friday with phenomenal viewership figures, establishing a brand new high for the BBC network. Hosted by Claudia Winkleman, the 80-minute concluding installment attracted a massive average overnight audience of 11.23 million viewers. This impressive turnout surpassed the previous high water mark of 11 million viewers set during the final episode of the previous year.",
+          "As the final broadcast progressed and the ultimate winner was revealed, the viewership metrics climbed even higher. The programme reached its peak with 11.6 million concurrent viewers tuned in. Industry analysts note that this exceptional turnout will likely stand as the largest television audience recorded throughout the entire year, excluding international sporting events like the FIFA World Cup."
+        ]
+      },
+      {
+        "h": "Overcoming Early Season Hurdles",
+        "p": [
+          "The path to this record-breaking conclusion was not entirely smooth for the broadcasting corporation and production banner Studio Lambert. Season 2 encountered several notable behind-the-scenes obstacles and dramatic narrative twists early in the run. Among the most talked-about moments was Richard E. Grant unmasking himself as a traitor during the initial stages of the competition.",
+          "Despite these early complications and production challenges, the overall momentum of the format remained entirely unaffected. Viewers continued tuning in week after week, ensuring that the controversies did little to dent the widespread public enthusiasm for the treacherous parlor game."
+        ]
+      },
+      {
+        "h": "Massive Season-Long Growth",
+        "p": [
+          "The remarkable finale was merely the culmination of a consistently high-performing run across the entire nine-episode broadcast schedule. Across the full season, the programme pulled in an average overnight viewership of 9.7 million people. This represented a substantial surge of more than 2 million viewers compared to the average of 7.5 million achieved during Season 1.",
+          "Furthermore, these overnight figures only tell part of the story when factoring in delayed viewing habits. Once comprehensive catch-up and streaming metrics are calculated over a seven-day period, the series routinely piles on upwards of 5 million additional viewers. Notably, the first four episodes of the run achieved a towering seven-day average audience of 15.2 million."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The hit reality competition is brought to screens by Studio Lambert Scotland, which handles production duties for BBC One and iPlayer. The commission for the public service broadcaster was spearheaded by Kalpna Patel-Knight, serving as the Head of Entertainment Commissioning for the BBC.",
+          "Key creative and administrative leadership behind the scenes features executive producers Mike Cotton, Sarah Fay, Lewis Thurlow, and Katy Fox for the All3Media-backed Studio Lambert. Production execution was overseen by Lynette Woods-Reynolds, Gemma Scholes, and Faye Donaldson, alongside BBC commissioning editors Neil McCallum and Michael Jochnowitz."
+        ]
+      },
+      {
+        "h": "Global Format Roots",
+        "p": [
+          "While the British iteration has achieved unprecedented heights on the BBC, the underlying format boasts an international pedigree. The original concept, titled The Traitors with the Dutch title De Verraders, was created and developed by IDTV in cooperation with the RTL Creative Unit.",
+          "As the worldwide distribution partner for the intellectual property, All3Media International manages global format rights and tape sales across various territories, allowing the successful deceit-based reality format to be adapted around the globe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The celebrity edition of the hit BBC reality competition concluded its second season on Friday with a record-setting overnight audience of 11.23 million viewers, peaking at 11.6 million. Despite early season hurdles, including Richard E. Grant revealing himself as a traitor, the series averaged 9.7 million overnight viewers across its nine episodes and pulled in even larger numbers when accounting for seven-day catch-up and streaming."
+        ]
+      }
+    ],
+    "facts": [
+      "The Celebrity Traitors finale aired on Friday and drew an average overnight audience of 11.23 million viewers.",
+      "The episode peaked with 11.6 million viewers.",
+      "Season 2 averaged 9.7 million overnight viewers across nine episodes.",
+      "Season 1 averaged 7.5 million viewers.",
+      "The first four episodes averaged a seven-day audience of 15.2 million.",
+      "Richard E. Grant unmasked himself as a traitor early in the game."
+    ],
+    "entities": {
+      "people": [
+        "Claudia Winkleman",
+        "Richard E. Grant",
+        "Kalpna Patel-Knight",
+        "Mike Cotton",
+        "Sarah Fay",
+        "Lewis Thurlow",
+        "Katy Fox",
+        "Lynette Woods-Reynolds",
+        "Gemma Scholes",
+        "Faye Donaldson",
+        "Neil McCallum",
+        "Michael Jochnowitz"
+      ],
+      "titles": [
+        "The Celebrity Traitors",
+        "The Traitors",
+        "De Verraders"
+      ]
+    },
+    "keywords": [
+      "The Celebrity Traitors",
+      "Claudia Winkleman",
+      "Richard E. Grant",
+      "Studio Lambert"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/2afb9e70-b8c4-11f1-a430-4d16ee157c41-e1792646858526.jpg?w=1024",
+        "caption": "‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 10:15:06 +0000"
+  },
+  "j0pstn": {
+    "id": "j0pstn",
+    "type": "news",
+    "headline": "Dulquer Salmaan Starrer I'm Game Announces OTT Streaming Date on JioHotstar",
+    "dek": "The Malayalam fantasy action film I'm Game, starring Dulquer Salmaan and directed by Nahas Hidhayath, is officially heading to digital platforms in November 2026.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "The Malayalam fantasy action movie I'm Game is officially scheduled for its digital debut following its run in theaters. The streaming platform JioHotstar made the announcement regarding the online premiere through its social media channels.",
+          "Fans can expect the film to arrive on the streaming service on November 6, 2026. This digital release gives viewers who missed the theatrical run a chance to watch the project from home."
+        ]
+      },
+      {
+        "h": "Multilingual Availability",
+        "p": [
+          "To cater to a broader audience across different regions, the digital release will not be restricted to just its native tongue. The movie is set to launch in a total of five languages.",
+          "Subscribers will be able to stream the feature in Malayalam, Hindi, Tamil, Telugu, and Kannada. This extensive language support aims to expand the reach of the project into multiple entertainment markets."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers around a wealthy yet lazy businessman named Dan John who resides in Hyderabad. Dan struggles with a severe gambling addiction that begins to create major disruptions in both his professional endeavors and personal life.",
+          "Things escalate during a chaotic sports betting session that lands Dan in a perilous predicament. This pivotal moment triggers a chain of unpredictable events blending elements of fantasy and action."
+        ]
+      },
+      {
+        "h": "Lead Cast and Crew",
+        "p": [
+          "Dulquer Salmaan takes on the central role of Dan John in the feature. The film also features a diverse ensemble cast including Antony Varghese, Kayadu Lohar, Mysskin, Samyuktha Viswanathan, Kathir, Vinay Forrt, and Parth Tiwari.",
+          "Notably, the project marks the Malayalam cinema debut for actor and filmmaker Mysskin. The direction and story development were handled by Nahas Hidhayath."
+        ]
+      },
+      {
+        "h": "Production and Technical Team",
+        "p": [
+          "The screenplay for the production was penned jointly by Sajeer Baba, Ismail Aboobacker, and Bilal Moidu. Meanwhile, the dialogue was crafted by Adarsh Sukumaran, Shabas Rasheed, and Sajeer Baba.",
+          "Behind the camera, Jimshi Khalid served as the cinematographer while Chaman Chakko managed the editing. The production design was overseen by Ajayan Chalissery."
+        ]
+      },
+      {
+        "h": "Music and Production Banner",
+        "p": [
+          "The auditory experience of the movie is shaped by Jakes Bejoy, who composed both the original score and the songs. His work complements the high-stakes fantasy action tone of the feature.",
+          "The project was bankrolled by Dulquer Salmaan and Jom Varghese under their production banner, Wayfarer Films."
+        ]
+      },
+      {
+        "h": "Theatrical Background",
+        "p": [
+          "Before its upcoming transition to the digital space, I'm Game originally opened in movie theaters on September 3, 2026. The theatrical run established the foundation for its subsequent OTT rollout.",
+          "With the arrival of the streaming window, the fantasy action title transitions from cinemas to home screens, marking a new phase for its audience availability."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dulquer Salmaan's Malayalam fantasy action film I'm Game, directed by Nahas Hidhayath, is set to release on JioHotstar on November 6, 2026. The multilingual project will be available in Malayalam, Hindi, Tamil, Telugu, and Kannada following its September 3, 2026 theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "I'm Game released in theatres on September 3, 2026",
+      "I'm Game streams on JioHotstar on November 6, 2026",
+      "The film releases in Malayalam, Hindi, Tamil, Telugu, and Kannada",
+      "Nahas Hidhayath directed the film",
+      "Dulquer Salmaan plays Dan John"
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Nahas Hidhayath",
+        "Antony Varghese",
+        "Mysskin",
+        "Kayadu Lohar",
+        "Samyuktha Viswanathan",
+        "Kathir",
+        "Vinay Forrt",
+        "Parth Tiwari",
+        "Sajeer Baba",
+        "Ismail Aboobacker",
+        "Bilal Moidu",
+        "Adarsh Sukumaran",
+        "Shabas Rasheed",
+        "Jom Varghese",
+        "Jimshi Khalid",
+        "Chaman Chakko",
+        "Jakes Bejoy",
+        "Ajayan Chalissery"
+      ],
+      "titles": [
+        "I'm Game"
+      ]
+    },
+    "keywords": [
+      "I'm Game OTT release",
+      "Dulquer Salmaan I'm Game",
+      "I'm Game JioHotstar",
+      "I'm Game Malayalam movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/imgame-35091793439226.jpg",
+        "caption": "Dulquer Salmaan Starrer I'm Game Announces OTT Streaming Date on JioHotstar",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 15:04:19 +0530"
   }
 };

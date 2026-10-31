@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T14:50:56Z",
-    "run_id": "41075213838",
-    "status": "success",
-    "checked": {
-     "candidates": 380,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "HUGEL to bring 'Make The Girls Dance' to India for first time, New Delhi to host exclusive edition; deets inside!",
-      "MTV Roadies 21 Episode 5 Dailymotion: Abhishek Malhan-Baseer Ali FIGHT, Who Got Selected In Roadies Rebirth?",
-      "MTV Roadies 21 Episode 1 Dailymotion: Who Will Get Selected In Roadies Rebirth? Contestants List",
-      "Bigg Boss 20 Episode 55 OTT Release Time Today: Scout OP-Uditi Ugly Fight; When Will New Ep Premiere Online",
-      "Obsession (Hindi) Ending TWIST: Did Nikki-Bear Die? Was The 'One Wish Willow' Obsession Spell Finally Broken?",
-      "Bigg Boss 20: Psychoplasty, Mike Tyson- Times When Qazi Touqeer Surprised Us With Knowledge, Intellectual Side",
-      "Batman: How DC Almost Killed The Joker In His Comic Book Debut?",
-      "Premada Oorali Box Office Collections: Kannada film fetches Rs 15 crore in Week 5, targets Rs 120 crore plus closing",
-      "#Cult Twitter Review: 7 Tweets to read before watching Vishwak Sen starrer slasher horror thriller",
-      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's film collects Rs 11 crore in Week 4, targets Rs 365 crore finish",
-      "Udta Teer Box Office Collections: Ayushmann Khurrana's spy comedy wraps first week at Rs 30 crore",
-      "Jailer 2 India Box Office Collections: Rajinikanth starrer adds Week 2 over Rs 100 crore, grosses Rs 475 crore in 15 days",
-      "EXCLUSIVE: Yash's children Ayra and Yatharv watch their first film in theaters at Ramayana's LA premiere",
-      "Ramayana Gets U Certificate With No Cuts as Yash's 65-Minute Screen Time Sparks Buzz",
-      "Bhansali's production house trolled for sharing Salman-Aishwarya's PIC on karwa chauth",
-      "Kriti Sanon gets praised for recreating the 'no no no no' scene from 'Obsession'",
-      "Namo Narayana to join Rajinikanth’s 'Dharman' after successful 'Jailer 2'",
-      "Salman may reunite with Sanjay Dutt in Khalnayak Returns",
-      "Friday OTT releases (October 30, 2026): Where to watch ‘Akka’, ‘Sigma’, ‘Obsession’, and more",
-      "Yash's children watch 'Ramayana' for their first big-screen experience"
-     ],
-     "updated": [],
-     "count": 378,
-     "detail": "380 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T15:13:19Z",
     "run_id": "41078491129",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "268 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T15:20:05Z",
-    "run_id": "41078491129",
+    "run_at": "2026-10-31T10:51:38Z",
+    "run_id": "41194378540",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 334,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT",
-      "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries"
+      "T-Series acquires 50-Year exclusive global music rights for Shah Rukh Khan starrer King through Zee Music",
+      "You Maniac Episode 10 (Finale) Release Time: Will Moth Leave Dean For His Dreams? When & Where To Watch?",
+      "Rockstar DSP Records With 100 Folk Rythm Players From All Over India For Yellamma Title Song",
+      "I'm Game OTT Release Date Confirmed: When And Where To Watch Dulquer Salmaan's Malayalam Film Online",
+      "Scene Trailer Release Time: When Can Fans Watch The Much-Awaited Trailer Of Suriya's Movie?",
+      "It’s A Wonderful Life: How A Copyright Mistake Turned A Box Office Flop Into A Christmas Classic",
+      "This $1.2 Million Movie Bombed At The Box Office Before Midnight Screenings Made It A Cult Classic",
+      "You Can See Everything North America Box Office: A24’s Documentary Makes A Stunning Entry Into The Studio’s All-Time Top 5!",
+      "Meethe Mein Kya Hai Movie Review: Ritwik Bhowmik, Rohini Hattangadi & Ayesha Raza Weave A Diwali Feast That Lights Your Soul & Satiates Your Mood!",
+      "Resident Evil North America Box Office: Closes In On Beating Star Wars: The Mandalorian & Grogu’s $175M+ Domestically Soon",
+      "Mookuthi Amman 2 Box Office: Can Nayanthara’s Goddess Avatar Push Her 2026 Total Beyond 750 Crore Worldwide?",
+      "My Big Fat Greek Wedding: How A $5 Million Rom-Com Made $368 Million Without Hitting No. 1",
+      "Wicker Movie Ending Explained: Does The Fisherwoman Reunite With Her Wicker Husband?",
+      "Sundar C clarifies AI use in Nayanthara starrer 'Mookuthi Amman 2'",
+      "'Jailer 2' composer Anirudh Ravichander's SECRET diet plan revealed",
+      "Thabitha Sukumar excited about Ram Charan-Sukumar’s ‘RC17’",
+      "In 2020, Demi Lovato bought $7 million LA estate; it's now maximalist and colorful space",
+      "Zaheer Iqbal reveals why he and Sonakshi Sinha got several romantic film offers",
+      "Sanjay Dutt promises to fulfil late friend Sanjay Gupta’s dream of ‘Kaante 2’",
+      "When Mani Ratnam told Sai Pallavi, ‘I am big fan of you’"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 319,
+     "detail": "324 stories, 2 duplicates removed, 10 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T10:51:53Z",
+    "run_id": "41194378540",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+      "Dulquer Salmaan Starrer I'm Game Announces OTT Streaming Date on JioHotstar"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T15:20:05Z",
-    "run_id": "41078491129",
-    "status": "success",
-    "checked": {
-     "candidates": 57,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 52, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1603,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T15:20:06Z",
-    "run_id": "41078491129",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T10:51:53Z",
+    "run_id": "41194378540",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2044,27 +2027,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T10:51:55Z",
+    "run_id": "41194378540",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "o9mnxj",
+      "69erpd"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T14:56:54Z",
-    "run_id": "41075213838",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 94,
-     "detail": "+0 new rows, 94 updated rows, 226 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2438,19 +2423,27 @@
      "detail": "+0 new rows, 3 updated rows, 323 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T10:51:53Z",
+    "run_id": "41194378540",
+    "status": "success",
+    "checked": {
+     "candidates": 327,
+     "detail": "326 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 323 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2733,30 +2726,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T15:20:06Z",
-    "run_id": "41078491129",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Investigation Discovery Explores Andrew and Tristan Tate in New Docuseries",
-      "Jason Sanjay's Directorial Debut 'Sigma' Sparks Mixed Reactions on OTT"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3371,19 +3353,30 @@
      "detail": "api-news.json 283 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T10:51:54Z",
+    "run_id": "41194378540",
+    "status": "success",
+    "checked": {
+     "candidates": 285,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+      "Dulquer Salmaan Starrer I'm Game Announces OTT Streaming Date on JioHotstar"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 285 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3646,19 +3639,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4036,29 +4029,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T14:51:21Z",
-    "run_id": "41075213838",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 378 still unprocessed; today by category: movies 7/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 2/3, awards 2/2, music_ost 1/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Spanish Transport Minister Rejects Resignation Calls Following Deadly Train Disaster",
-      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Clash in Netflix's Gritty Thriller"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4456,19 +4439,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T10:51:53Z",
+    "run_id": "41194378540",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 319 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "‘The Celebrity Traitors’ Finale Draws Record Audience To BBC",
+      "Dulquer Salmaan Starrer I'm Game Announces OTT Streaming Date on JioHotstar"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4723,24 +4716,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 191,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5040,24 +5028,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 202,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5367,19 +5355,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5624,19 +5617,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5871,19 +5864,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6127,19 +6120,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6380,19 +6373,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6622,19 +6615,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T14:57:03Z",
-    "run_id": "41075213838",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6887,6 +6880,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T10:52:03Z",
+    "run_id": "41194378540",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6931,5 +6934,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T09:35:50Z"
+ "updated_at": "2026-10-31T10:52:03Z"
 }
