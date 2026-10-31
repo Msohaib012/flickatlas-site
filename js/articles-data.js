@@ -25743,5 +25743,211 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 15:04:19 +0530"
+  },
+  "1my79e5": {
+    "id": "1my79e5",
+    "type": "news",
+    "headline": "Bollywood Mourns the Sudden Passing of Filmmaker Sanjay Gupta",
+    "dek": "Prominent Indian actors and directors share heartfelt tributes after the unexpected death of filmmaker Sanjay Gupta, known for gritty action films and crime thrillers.",
+    "body": [
+      {
+        "h": "Sudden Demise of a Prominent Filmmaker",
+        "p": [
+          "The Indian film industry woke to devastating news as filmmaker Sanjay Gupta passed away unexpectedly at his residence. According to reports, the director suffered a fatal accident after slipping and hitting his head at home.",
+          "Colleagues and fans alike expressed utter shock over the suddenness of his passing, noting that he was not previously known to be suffering from any long-term illness."
+        ]
+      },
+      {
+        "h": "Heartfelt Tributes From Industry Colleagues",
+        "p": [
+          "A wave of grief spread across social media platforms as notable figures from Bollywood paid homage to the late director. Actresses Kajol and Raveena Tandon shared their sorrow publicly, offering condolences to the bereaved family.",
+          "Kajol posted a portrait of the filmmaker on Instagram, calling the news heartbreaking and wishing strength to his loved ones, while Tandon expressed deep shock over the untimely loss."
+        ]
+      },
+      {
+        "h": "Sanjay Dutt Remembers a Lifelong Friend",
+        "p": [
+          "Actor Sanjay Dutt, who shared a long-standing creative and personal relationship with Gupta, penned a deeply emotional tribute. The two collaborated on multiple projects over the years, forging a bond that went beyond professional ties.",
+          "Dutt revealed that the pair had recently discussed plans for a sequel to their earlier hit. He vowed to bring that specific project to fruition as a tribute to his departed friend."
+        ]
+      },
+      {
+        "h": "Legacy of Action and Crime Cinema",
+        "p": [
+          "Sanjay Gupta established a distinct cinematic voice within Bollywood, specializing in high-octane action films and gripping crime thrillers. His filmography features notable titles such as Kaante, Shootout at Lokhandwala, and Mumbai Saga.",
+          "Peers often praised his comprehensive knowledge of cinema, with veteran actor Anupam Kher describing him as a true encyclopedia of films who possessed an infectious passion for the medium."
+        ]
+      },
+      {
+        "h": "Reflections on Friendship and Mentorship",
+        "p": [
+          "Filmmaker Hansal Mehta shared personal memories of their journey together through the highs and lows of the industry. He highlighted Gupta's generosity and the strong sense of camaraderie they shared.",
+          "Other industry names, including Kunal Kohli, Dia Mirza, Neil Nitin Mukesh, Tusshar Kapoor, and Madhur Bhandarkar, also stepped forward to express their grief and share memories of working alongside the director."
+        ]
+      },
+      {
+        "h": "Remembering a Cinephile and Mentor",
+        "p": [
+          "Kangana Ranaut and Manoj Muntashir remembered Gupta as a talented collaborator who was full of life and deeply passionate about his craft. Muntashir specifically recalled working together on the movie Kaabil.",
+          "Navjot Gulati praised the filmmaker's sharp insights into the business of movies, remembering him as a genuine cinephile whose presence in the industry will be profoundly missed."
+        ]
+      },
+      {
+        "h": "Family and Final Farewell",
+        "p": [
+          "The filmmaker leaves behind his wife, Anuradha Lekhi Gupta, alongside their children, Shivaansh Gupta and Dalai Gupta. Tributes continue to pour in from across the entertainment sector as the fraternity honors his contributions to Hindi cinema.",
+          "Friends and collaborators remembered not only his professional achievements but also his warmth, affection, and vibrant personality that left a lasting impact on everyone he met."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sanjay Gupta passed away suddenly at his residence after slipping and hitting his head, shocking the Bollywood community. Numerous actors and directors, including Kajol, Sanjay Dutt, and Raveena Tandon, shared emotional tributes remembering his extensive contributions to action cinema and his vibrant personality."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjay Gupta passed away after slipping and hitting his head at his residence.",
+      "Sanjay Dutt stated he plans to make Kaante 2 in memory of Sanjay Gupta.",
+      "Sanjay Gupta directed films such as Kaante, Shootout at Lokhandwala, Mumbai Saga, Aatish, Kaabil, Shootout at Wadala, Jazbaa, Zinda, and Dus Kahaniyaan.",
+      "Sanjay Gupta is survived by his wife Anuradha Lekhi Gupta and children Shivaansh Gupta and Dalai Gupta."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Kajol",
+        "Raveena Tandon",
+        "Sanjay Dutt",
+        "Anupam Kher",
+        "Hansal Mehta",
+        "Kunal Kohli",
+        "Dia Mirza",
+        "Neil Nitin Mukesh",
+        "Tusshar Kapoor",
+        "Madhur Bhandarkar",
+        "Kangana Ranaut",
+        "Manoj Muntashir",
+        "Navjot Gulati",
+        "Anuradha Lekhi Gupta",
+        "Shivaansh Gupta",
+        "Dalai Gupta"
+      ],
+      "titles": [
+        "Kaante",
+        "Shootout at Lokhandwala",
+        "Mumbai Saga",
+        "Aatish: Feel the Fire",
+        "Aatish",
+        "Kante 2",
+        "Kaante 2",
+        "Dus Kahaniyaan",
+        "Shootout at Wadala",
+        "Jazbaa",
+        "Zinda",
+        "Kaabil"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta filmmaker",
+      "Sanjay Dutt Sanjay Gupta",
+      "Bollywood director passes away",
+      "Kaante 2 Sanjay Dutt"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/1_1752988880768_1752988881613.jpeg",
+        "caption": "Bollywood Mourns the Sudden Passing of Filmmaker Sanjay Gupta",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 15:23:34 +0530"
+  },
+  "196c562": {
+    "id": "196c562",
+    "type": "news",
+    "headline": "You Maniac Episode 10 Finale Release Timings And Streaming Details",
+    "dek": "The Thai BL series You Maniac reaches its dramatic conclusion on October 31, 2026, forcing characters Dean and Moth to choose between their budding romance and personal ambitions.",
+    "body": [
+      {
+        "h": "The Conclusion of You Maniac",
+        "p": [
+          "The Thai BL series You Maniac reaches its final chapter today, October 31, 2026. Fans of the romantic drama are preparing to say goodbye to the central couple as the story wraps up its broadcast run.",
+          "The series has maintained significant attention throughout its run, driven by the onscreen partnership of its lead actors and the emotional resonance of the storyline."
+        ]
+      },
+      {
+        "h": "Evolution of Dean and Moth",
+        "p": [
+          "The narrative originally began as a lighthearted fake-dating arrangement between a playboy and his love interest. Over time, the dynamic evolved into an authentic emotional bond dealing with healing, vulnerability, and past trauma.",
+          "In the preceding episode, Moth provided crucial support to Dean following the loss of his father, setting the stage for their relationship to move past its initial contractual pretense."
+        ]
+      },
+      {
+        "h": "Love Versus Personal Ambition",
+        "p": [
+          "As the finale arrives, the couple faces a major reality check involving their individual futures. Moth reveals his long-held dream of applying for a scholarship in New York, admitting he would regret missing the chance.",
+          "Dean reacts emotionally to the news, asking Moth to stay instead of relocating and questioning whether he holds a genuine place in his partner's heart."
+        ]
+      },
+      {
+        "h": "Resolutions and Source Material",
+        "p": [
+          "The central conflict of the finale centers on whether Moth will choose his romance or his career aspirations. Followers of the original novel have some insight into the trajectory, anticipating a happy conclusion for the pair.",
+          "The journey of Dean and Moth has generated widespread social media discussion, with viewers sharing their emotional reactions online as the final broadcast approaches."
+        ]
+      },
+      {
+        "h": "Broadcast Timings and Platforms",
+        "p": [
+          "The final episode airs on GMMTV at 8:30 PM Thailand time, corresponding to 7:00 PM IST. International viewers outside of Thailand can access the episode through streaming platforms like iQIYI and Viki.",
+          "Indian audiences can tune in to the Thai BL drama via Viki, while alternative viewing options on Dailymotion are expected to become available shortly after the original broadcast."
+        ]
+      },
+      {
+        "h": "Offline Viewing Guide",
+        "p": [
+          "Subscribers of Viki can utilize the application's download feature to watch the finale offline. Users simply need to open the app, search for the official series page, and select the final chapter.",
+          "By tapping the download icon next to the episode, viewers can save the media directly to their device for later playback through the application's downloads section."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Thai BL series You Maniac concludes its run on October 31, 2026, with the release of its final episode. The finale addresses the ultimate fate of Dean and Moth as they weigh their romantic relationship against an opportunity in New York."
+        ]
+      }
+    ],
+    "facts": [
+      "You Maniac Episode 10 is the finale of the Thai BL series.",
+      "The final episode airs on October 31, 2026.",
+      "The broadcast time is 8:30 PM Thailand time or 7:00 PM IST on GMMTV.",
+      "William Jakrapatr and Est Supha star in the series.",
+      "Streaming platforms for the finale include iQIYI, Viki, and Dailymotion."
+    ],
+    "entities": {
+      "people": [
+        "William Jakrapatr",
+        "Est Supha",
+        "Dean",
+        "Moth"
+      ],
+      "titles": [
+        "You Maniac"
+      ]
+    },
+    "keywords": [
+      "You Maniac Episode 10",
+      "William Est You Maniac finale",
+      "You Maniac Thai BL release time",
+      "Dean and Moth You Maniac"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/10/feature70-42181793440899.jpg",
+        "caption": "You Maniac Episode 10 Finale Release Timings And Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 15:32:12 +0530"
   }
 };
