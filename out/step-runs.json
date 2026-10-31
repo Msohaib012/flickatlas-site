@@ -797,27 +797,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-10-30T07:51:38Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Rishab Shetty And Sandeep Singh Team Up For Two-Part Shivaji Maharaj Epic",
-      "Mirzapur The Movie Lands on Prime Video with Extended Cut and Extra Footage"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-10-30T08:51:53Z",
     "run_id": "41029168136",
     "status": "success",
@@ -1227,6 +1206,24 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T01:07:31Z",
+    "run_id": "41153006453",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1627,23 +1624,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-10-30T07:51:40Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-10-30T09:02:59Z",
     "run_id": "41029168136",
     "status": "success",
@@ -2021,6 +2001,23 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T01:07:32Z",
+    "run_id": "41153006453",
+    "status": "success",
+    "checked": {
+     "candidates": 96,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -2716,27 +2713,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-10-30T07:51:40Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 84,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Mirzapur The Movie Lands on Prime Video with Extended Cut and Extra Footage",
-      "Rishab Shetty And Sandeep Singh Team Up For Two-Part Shivaji Maharaj Epic"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 84 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-10-30T09:02:59Z",
     "run_id": "41029168136",
     "status": "success",
@@ -3146,6 +3122,24 @@
      "detail": "api-news.json 79 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T01:07:32Z",
+    "run_id": "41153006453",
+    "status": "success",
+    "checked": {
+     "candidates": 79,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 79 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -6628,5 +6622,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T00:59:54Z"
+ "updated_at": "2026-10-31T01:07:32Z"
 }
