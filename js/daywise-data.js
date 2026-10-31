@@ -130,7 +130,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 15",
-      "collection": 16904,
+      "collection": 17961,
       "shows": 621,
       "occupancy": 6.0,
       "tickets": 6668
@@ -203,10 +203,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 8",
-      "collection": 192287,
+      "collection": 222927,
       "shows": 3512,
       "occupancy": 9.6,
       "tickets": 76744
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Day 9",
+      "collection": 1057,
+      "shows": 83,
+      "occupancy": 3.2,
+      "tickets": 530
     }
   ],
   "1400940": [
@@ -258,6 +266,11 @@ window.FA_DAYWISE = {
       "collection": 30639,
       "shows": 1163,
       "occupancy": 9.2
+    },
+    {
+      "date": "2026-10-30",
+      "day": "Day 8",
+      "collection": 24300
     }
   ],
   "1153576": [
@@ -625,7 +638,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 8",
-      "collection": 11622
+      "collection": 13735
     }
   ],
   "1785611": [
@@ -882,7 +895,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 15",
-      "collection": 19017,
+      "collection": 20074,
       "shows": 392,
       "occupancy": 11.9,
       "tickets": 14262
@@ -1027,10 +1040,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 16",
-      "collection": 376123,
+      "collection": 432118,
       "shows": 5978,
       "occupancy": 12.3,
       "tickets": 231388
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Day 17",
+      "collection": 11622,
+      "shows": 191,
+      "occupancy": 11.9,
+      "tickets": 7559
     }
   ],
   "1269325": [
@@ -1289,10 +1310,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-10-30",
       "day": "Day 29",
-      "collection": 75013,
+      "collection": 82409,
       "shows": 2108,
       "occupancy": 7.3,
       "tickets": 29954
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Day 30",
+      "collection": 1057,
+      "shows": 50,
+      "occupancy": 3.3,
+      "tickets": 310
     }
   ],
   "1497970": [

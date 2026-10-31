@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T05:50:40Z",
-    "run_id": "41010655661",
-    "status": "success",
-    "checked": {
-     "candidates": 258,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?",
-      "Aadarsha Kutumbam House No: 47 Hit Or Flop? Early Audience Verdict On Venkatesh And Srinidhi Shetty's Film",
-      "Mirzapur The Movie's Mohit Malik On Playing Complex Characters Like Birju: We Have To Understand His Mindset",
-      "Pehla Pyaar Doosri Baar: Audiences Recommend Luv Ranjan’s Film For Its Fresh Cast, Music & Love Story",
-      "Tamil Nadu May Allow 6 AM First Shows but Will Diwali Releases Benefit?",
-      "‘Suriya49’: Suriya to reportedly team up with ‘Mandaadi’ director",
-      "Halle Berry faces new verdict in Oliver Martinez's case (Industry)",
-      "Karan Johar picks favourite looks from Ranbir Kapoor's and Shah Rukh Khan's films",
-      "'Eetha' UPDATE: Randeep Hooda's first look as Merchant is out",
-      "Karisma Kapoor on her cherished vintage timepiece that belonged to Raj Kapoor",
-      "‘Aakasamlo Oka Tara’: Dulquer Salmaan unveils second single ‘Radhe Radhe’",
-      "Patrick Stewart's final appearance as Professor X will be in Avengers: Doomsday",
-      "Mirzapur The Movie arrives on OTT with extended cut: Where to watch",
-      "One of 2026's Biggest Breakout Stars First Stole the Show in This Classic Fantasy Game",
-      "5 Agatha Christie Books You Can Finish in a Weekend",
-      "Chris Pratt Was Waiting Tables & Suddenly Entered Hollywood, Thanks To 1 Person",
-      "2 Years Ago Today, General Hospital Killed 1 of Its Most Popular Characters",
-      "Transformers Officially Unveils Decepticons Replacement In Eternal War",
-      "18 Years Later, The Anime That Defined 2008 Returns With Perfect New Release",
-      "Stargate Universe: Destiny Officially Announced"
-     ],
-     "updated": [],
-     "count": 248,
-     "detail": "258 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T06:51:29Z",
     "run_id": "41016449561",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "310 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T06:52:47Z",
-    "run_id": "41016449561",
+    "run_at": "2026-10-31T00:52:12Z",
+    "run_id": "41152337776",
     "status": "success",
     "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 403,
+     "detail": "RSS/Atom items across 137 sources; 11 source(s) errored"
     },
     "changed": {
      "added": [
-      "Sir Patrick Stewart Passes Away at 86, Tributes Pour In",
-      "Jailer 2 Box Office Collection Day 15: Sets Kollywood Record With Massive Second Week"
+      "Drishyam 3: Day 29 India net hits Rs 1 crore",
+      "'Ranabaali' BO day 15: Vijay Deverakonda's film trails 'Kingdom'",
+      "'Jailer 2' BO day 16: Rajinikanth's film beats first part by Rs 243 cr",
+      "pawan singh wife jyoti singh karva chauth without husband viral video divorce case tmovb dskc 2684515 2026 10 30",
+      "babil khan house tour father irrfan special corner quran verse at entrance ping pong table tmovh 2684488 2026 10 30",
+      "ajay devgn approached bombay hc relief against fda notice pan masala ad tukaram mundhe tmovh rptc 2684531 2026 10 30",
+      "madhubala dilip kumar buried graves 5 meters apart sister revelation heart condition children tmovb dskc 2684420 2026 10 30",
+      "salman khan sanjay dutt khalnayak returns police role casting news director subhash ghai reacts tmovb dskc 2684486 2026 10 30",
+      "youtuber kanika sharma sakib saifi celebrate karwa chauth after interfaith wedding hindu muslim rituals tmovb 2684553 2026 10 30",
+      "actress jiya shankar reacts on breakup rumours call off engagement fiance kaaran dhanak cheating rumours tmovh 2684562 2026 10 30",
+      "mahabharat fame actress shafaq naaz trolled for karwa chauth puja applied sindoor muslims angry conversion tmovh 2684353 2026 10 30",
+      "adarsh gourav ends 8 year long relationship with girlfriend radhika kolgaonkar report article 156436581",
+      "after delhi concert diljit dosanjh says some people tried really hard to stop it dont bother responding to many article 156438004",
+      "inside saif ali khan world with kareena kapoor and sons as actor shares adorable family vacay photos article 156436719",
+      "meera kapoor reveals how she and shahid divide parenting duties kareena kapoor wonders why fun things end up with father article 156437321",
+      "ramayana eyeing rs 100 crore diwali opening experts predict ahead of grand worldwide release e article 156437225",
+      "shah rukh khan ajay devgn tiger shroff violated rules fda cheif tukaram mundhe concludes probe in pan masala case article 156437714",
+      "varun dhawan soty reunion with sidharth malhotra is no heated rivalry bhabhi ji kiara advani gets special shoutout article 156437916",
+      "west bengal govt advisory to streamline work for artists technicians 10 hour shifts timely payment and more article 156437327",
+      "when wolves get obsessed kriti sanon shares fun bts with bhediya varun dhawan from obsession hindi dubbing article 156437124"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+     "count": 274,
+     "detail": "274 stories, 6 duplicates removed, 129 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,45 +1206,30 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T00:52:26Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Martin Scorsese Reveals Why His Cleopatra Movie With Angelina Jolie Was Abandoned",
+      "Rajinikanth's Jailer 2 Surpasses Rs 776 Crore Globally by Day 16"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T06:52:47Z",
-    "run_id": "41016449561",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 53, coming 2"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T07:51:39Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 53, coming 2"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1585,45 @@
      "detail": "now 84, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T06:54:12Z",
-    "run_id": "41016449561",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T00:52:49Z",
+    "run_id": "41152337776",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 88,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 84, coming 4"
+    },
+    "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T00:52:49Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": {
+     "candidates": 88,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 84, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2015,27 +1998,32 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T00:59:44Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": {
+     "candidates": 96,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "69erpd",
+      "1fot0a7",
+      "1gvtjck",
+      "lzeen0",
+      "3152s9"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T05:55:48Z",
-    "run_id": "41010655661",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "319 collected staging rows from readers; 108 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 93,
-     "detail": "+0 new rows, 93 updated rows, 226 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2409,19 +2397,27 @@
      "detail": "+0 new rows, 3 updated rows, 317 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T00:59:42Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": {
+     "candidates": 325,
+     "detail": "324 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "+4 new rows, 9 updated rows, 311 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2704,30 +2700,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T06:54:12Z",
-    "run_id": "41016449561",
-    "status": "success",
-    "checked": {
-     "candidates": 82,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sir Patrick Stewart Passes Away at 86, Tributes Pour In",
-      "Jailer 2 Box Office Collection Day 15: Sets Kollywood Record With Massive Second Week"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 82 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3140,19 +3125,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T00:59:44Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": {
+     "candidates": 79,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Martin Scorsese Reveals Why His Cleopatra Movie With Angelina Jolie Was Abandoned",
+      "Rajinikanth's Jailer 2 Surpasses Rs 776 Crore Globally by Day 16"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 79 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3422,19 +3418,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3783,29 +3779,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T05:50:53Z",
-    "run_id": "41010655661",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 248 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 5/6, celebrities_events 3/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Aadarsha Kutumbam House No 47 Early Audience Verdict: Venkatesh and Srinidhi Shetty Starrer Hits Theatres",
-      "Siddharth Anand Teases Fans With Cryptic Midnight Message About Shah Rukh Khan Starrer King"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4203,19 +4189,29 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T00:52:26Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 274 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Martin Scorsese Reveals Why His Cleopatra Movie With Angelina Jolie Was Abandoned",
+      "Rajinikanth's Jailer 2 Surpasses Rs 776 Crore Globally by Day 16"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4468,24 +4464,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 201,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4785,24 +4776,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
+     "count": 194,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5097,19 +5088,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5354,19 +5350,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 57,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5601,19 +5602,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5869,19 +5870,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6107,6 +6108,16 @@
     "category": "OTT",
     "run_at": "2026-10-30T23:56:34Z",
     "run_id": "41147341141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6117,16 +6128,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-30T06:54:22Z",
     "run_id": "41016449561",
     "status": "skipped",
@@ -6349,6 +6350,16 @@
     "category": "Box Office",
     "run_at": "2026-10-30T23:56:34Z",
     "run_id": "41147341141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6359,16 +6370,6 @@
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-10-30T05:55:56Z",
-    "run_id": "41010655661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-10-30T06:54:22Z",
     "run_id": "41016449561",
     "status": "skipped",
@@ -6591,6 +6592,16 @@
     "category": "Trending News",
     "run_at": "2026-10-30T23:56:34Z",
     "run_id": "41147341141",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T00:59:54Z",
+    "run_id": "41152337776",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6617,5 +6628,5 @@
    }
   ]
  },
- "updated_at": "2026-10-30T23:56:34Z"
+ "updated_at": "2026-10-31T00:59:54Z"
 }

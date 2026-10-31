@@ -23476,5 +23476,199 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 30 Oct 2026 17:46:12 GMT"
+  },
+  "1tblyma": {
+    "id": "1tblyma",
+    "type": "news",
+    "headline": "Martin Scorsese Reveals Why His Cleopatra Movie With Angelina Jolie Was Abandoned",
+    "dek": "The acclaimed director claims that the infamous Sony data breach and fallout from Seth Rogen's comedy derailed his plans to helm an unconventional epic starring Angelina Jolie.",
+    "body": [
+      {
+        "h": "The Abandoned Epic",
+        "p": [
+          "A planned cinematic take on the life of Queen Cleopatra never made it to production, and the filmmaker attached to the project points directly to a major studio security breach as the cause. Legendary director Martin Scorsese recently discussed the shelved picture, revealing that it was intended to feature Angelina Jolie in the lead role.",
+          "According to the director, the ambitious undertaking would have brought a very unique vision to the screen with Jolie portraying Cleopatra VII. While details of the creative direction remained under wraps, the production was anticipated to take the historical narrative in an unconventional and daring direction."
+        ]
+      },
+      {
+        "h": "The Impact of the Sony Hack",
+        "p": [
+          "The project's cancellation was linked by Scorsese to the massive Sony email leak that occurred in November 2014. That cyber attack was orchestrated by a group attempting to block the release of the studio's comedy film titled The Interview, which centered on a fictional plot to assassinate North Korean leader Kim Jong Un.",
+          "Reflecting on the industry shockwaves during an appearance on the Tribeca original series Crafty, the director humorously suggested that the satirical film triggered widespread industry disruption. Although the comedy's star, Seth Rogen, was not personally responsible for terminating the historical drama, the subsequent fallout from the security breach profoundly destabilized studio operations."
+        ]
+      },
+      {
+        "h": "Exposed Correspondence and Studio Tensions",
+        "p": [
+          "The primary consequence of the 2014 breach was the unauthorized publication of thousands of internal corporate emails. Among the exposed documents were private messages exchanged between producer Scott Rudin and studio executive Amy Pascal.",
+          "Those leaked communications featured harsh remarks directed at the leading lady, with Rudin referring to the actress as a minimally talented spoiled brat. The public revelation of such behind-the-scenes friction created severe diplomatic hurdles for getting the high-profile feature off the ground."
+        ]
+      },
+      {
+        "h": "Behind the Creative Team",
+        "p": [
+          "Before the production collapsed, notable creative talent was already attached to craft the script. Screenwriter Eric Roth, who previously collaborated with the director on the 2023 feature Killers of the Flower Moon, was set to pen the screenplay.",
+          "The combination of the celebrated filmmaker, an acclaimed screenwriter, and a major movie star generated immense early anticipation. However, the accumulation of corporate chaos ultimately proved insurmountable for the prospective historical epic."
+        ]
+      },
+      {
+        "h": "Reflections on the Lost Project",
+        "p": [
+          "Discussing the venture on the digital series Crafty, the director expressed lingering fascination with what might have been. He emphasized that the planned collaboration with the Hollywood star was designed to break traditional biographical molds.",
+          "The abrupt halt of the production remains one of Hollywood's notable lost opportunities, illustrating how external digital security crises can unexpectedly derail major artistic endeavors in the film industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Martin Scorsese revealed that his planned Cleopatra film starring Angelina Jolie was canceled due to the aftermath of the 2014 Sony hack triggered by Seth Rogen's comedy about Kim Jong Un. The security breach exposed internal studio emails containing insulting remarks about the lead actress, ultimately destroying the momentum for the Eric Roth-penned project."
+        ]
+      }
+    ],
+    "facts": [
+      "Martin Scorsese planned to direct a Cleopatra movie starring Angelina Jolie as Cleopatra VII.",
+      "The project was called off due to the Sony hack in November 2014.",
+      "The hack was carried out by a group hoping to stop the release of Seth Rogen's comedy The Interview about Kim Jong Un.",
+      "Leaked emails from producer Scott Rudin to Amy Pascal called Angelina Jolie a minimally talented spoiled brat.",
+      "Eric Roth was set to write the screenplay for the film after writing Scorsese's 2023 film Killers of the Flower Moon.",
+      "Scorsese discussed these events on the first episode of the Tribeca original series Crafty."
+    ],
+    "entities": {
+      "people": [
+        "Martin Scorsese",
+        "Angelina Jolie",
+        "Seth Rogen",
+        "Kim Jong Un",
+        "Scott Rudin",
+        "Amy Pascal",
+        "Eric Roth"
+      ],
+      "titles": [
+        "Cleopatra",
+        "The Interview",
+        "Crafty",
+        "Killers of the Flower Moon"
+      ]
+    },
+    "keywords": [
+      "Martin Scorsese Cleopatra",
+      "Angelina Jolie Cleopatra movie",
+      "Sony hack Seth Rogen The Interview",
+      "Scott Rudin Amy Pascal leaked emails"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/split-image-1000_ede697.jpg?crop=0px%2C0px%2C1000px%2C562px&#038;resize=1000%2C563",
+        "caption": "Martin Scorsese Reveals Why His Cleopatra Movie With Angelina Jolie Was Abandoned",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 00:16:05 +0000"
+  },
+  "14hth2e": {
+    "id": "14hth2e",
+    "type": "news",
+    "headline": "Rajinikanth's Jailer 2 Surpasses Rs 776 Crore Globally by Day 16",
+    "dek": "Nelson Dilipkumar's directorial sequel continues its strong theatrical run, outperforming the original film's earnings at the same stage by over Rs 240 crore.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The action drama Jailer 2 starring Rajinikanth has maintained a robust performance in theatres, nearing the Rs 800 crore threshold globally. Helmed by director Nelson Dilipkumar, the movie amassed Rs 776.95 crore in gross worldwide collections after completing sixteen days on the big screen.",
+          "This strong international momentum helped cement the sequel as a major commercial success. Audiences across domestic and international territories continued to patronize screenings, pushing the cumulative worldwide earnings higher as the film entered its third week."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Screen Performance",
+        "p": [
+          "On its sixteenth day in cinemas, the film brought in Rs 5.50 crore in net domestic revenue across 8,079 shows in India. This took the total domestic net collection to Rs 435.40 crore, while the Indian gross figures reached Rs 509.45 crore.",
+          "Ticket sales remained notable with hundreds of thousands of admissions recorded during the day. The overseas sector contributed an additional Rs 3 crore on Friday, lifting the cumulative overseas gross collection to Rs 267.50 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution",
+        "p": [
+          "Multiple regional versions fueled the domestic theatrical run, led firmly by the Tamil version. Tamil screenings accounted for the vast majority of the day's earnings, contributing Rs 3.75 crore across 3,796 shows and representing roughly sixty-eight percent of the domestic total.",
+          "The Hindi version brought in Rs 1 crore across 3,310 screenings, while the Telugu version added Rs 55 lakh from 799 shows. The Kannada version chipped in with Rs 20 lakh through 174 screenings, showing multi-language engagement."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Across Markets",
+        "p": [
+          "Viewer turnout varied across different shifts and language screenings throughout the day. The Tamil version registered an overall occupancy of 20.69 percent, with night shows peaking at 28.38 percent.",
+          "Meanwhile, the Telugu version saw an overall occupancy of 16.85 percent, and the Hindi version recorded a 9.83 percent overall occupancy rate, with its evening and night screenings drawing better viewer numbers."
+        ]
+      },
+      {
+        "h": "Comparison With the Predecessor",
+        "p": [
+          "A direct comparison against the 2023 predecessor highlights the sequel's superior box office standing. At the exact same sixteen-day checkpoint, the original Jailer had collected Rs 302.20 crore in India net and registered a worldwide gross of Rs 533.74 crore.",
+          "This places Jailer 2 ahead of the first instalment by more than Rs 243 crore globally at the corresponding phase of their respective theatrical journeys."
+        ]
+      },
+      {
+        "h": "Weekly Earnings Breakdown",
+        "p": [
+          "The sequel enjoyed an explosive opening week, raking in Rs 334.35 crore net domestically during its first eight days in cinemas. Its second week added another Rs 95.55 crore to the tally.",
+          "With the addition of the sixteenth day earnings at the start of the third week, the film continued to expand its box office footprint before final studio figures are updated."
+        ]
+      },
+      {
+        "h": "Plot and Character Background",
+        "p": [
+          "In this cinematic continuation, Rajinikanth reprises his role as the retired jailer Tiger Muthuvel Pandian. The narrative depicts his quiet life being disrupted by an emerging threat from the criminal underground.",
+          "Compelled to reengage with his past, the protagonist must confront dangerous adversaries to safeguard his family and secure his enduring legacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has reached Rs 776.95 crore in worldwide gross collections by its sixteenth day in theatres, outperforming the original film by over Rs 243 crore at the same stage. Directed by Nelson Dilipkumar, the action drama continues to draw audiences across Tamil, Hindi, Telugu, and Kannada language versions despite a slight day-on-day decline in domestic earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 earned Rs 776.95 cr in worldwide gross collections after 16 days",
+      "On Day 16, Jailer 2 collected Rs 5.50 cr net across India from 8,079 shows",
+      "Cumulative domestic net collection reached Rs 435.40 cr",
+      "India gross stands at Rs 509.45 cr",
+      "Cumulative overseas gross reached Rs 267.50 cr",
+      "Tamil version earned Rs 3.75 cr from 3,796 shows on Day 16",
+      "Hindi version collected Rs 1 cr across 3,310 screenings on Day 16",
+      "Telugu added Rs 55 lakh from 799 shows on Day 16",
+      "Kannada contributed Rs 20 lakh through 174 screenings on Day 16",
+      "Estimated 4,29,196 tickets were sold on Day 16",
+      "Cumulative estimated admissions reached 2,93,18,633",
+      "Original Jailer collected Rs 3.40 cr net across India on Day 16 in 2023",
+      "Original Jailer worldwide gross at the same stage was Rs 533.74 cr",
+      "Jailer 2 accumulated Rs 243.21 cr more worldwide than its predecessor at the same point",
+      "Week 1 India net was Rs 334.35 cr",
+      "Week 2 India net was Rs 95.55 cr"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Tiger Muthuvel Pandian"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 worldwide earnings",
+      "Jailer 2 Day 16 collection",
+      "Nelson Dilipkumar Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135382209,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rajinikanth's Jailer 2 Surpasses Rs 776 Crore Globally by Day 16",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-31T05:36:16+05:30"
   }
 };
