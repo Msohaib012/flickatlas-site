@@ -27807,5 +27807,191 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T16:45:10+00:00"
+  },
+  "1x7h9eg": {
+    "id": "1x7h9eg",
+    "type": "news",
+    "headline": "Colin Farrell's Son James Makes Rare Appearance in Documentary Trailer",
+    "dek": "The 23-year-old appears alongside his father in the teaser for HBO's upcoming documentary The Slightest Touch.",
+    "body": [
+      {
+        "h": "A Rare and Tender Appearance",
+        "p": [
+          "Colin Farrell's eldest son, James, has surprised audiences by making a rare cameo appearance in the official teaser trailer for an upcoming documentary project. In the promotional clip, the award-winning actor is seen sharing a deeply affectionate moment with the 23-year-old.",
+          "During the interview segment featured in the preview, the father pauses to pull his son into a tender embrace, holding him closely. This touching interaction highlights a deeply personal side of the actor that is seldom captured on film."
+        ]
+      },
+      {
+        "h": "Understanding Angelman Syndrome",
+        "p": [
+          "James was diagnosed during his early toddler years with Angelman syndrome, a rare neurogenetic condition that significantly impacts the nervous system. The disorder can introduce various challenges, including delayed development, speech difficulties, balance impairments, intellectual disabilities, and seizures.",
+          "Medical experts note that living with this condition requires continuous support and specialized care. Despite the daily hurdles associated with the rare disease, James has shown immense resilience throughout his life."
+        ]
+      },
+      {
+        "h": "Focus of The Slightest Touch",
+        "p": [
+          "The documentary itself, titled The Slightest Touch, primarily centers on Colin Farrell's longtime friend, Emma Fogarty. Fogarty has lived since childhood with epidermolysis bullosa, a severe genetic disorder characterized by fragile, blistering skin that reacts to minor friction or heat.",
+          "Although medical professionals initially predicted she would not survive past her first week of life, Fogarty defied expectations. To celebrate her 40th birthday, she and Farrell undertook the significant challenge of participating in the Dublin Marathon together."
+        ]
+      },
+      {
+        "h": "Training and Marathon Dedication",
+        "p": [
+          "Footage from the documentary captures the rigorous preparation Farrell underwent while training for the demanding endurance event. The project illustrates the strong bond between the two friends as they share their personal stories of perseverance.",
+          "In a powerful segment of the race, Farrell assists Fogarty by pushing her wheelchair through the final four kilometers. Each of those concluding kilometers serves as a symbolic tribute to a decade she has lived while managing her condition."
+        ]
+      },
+      {
+        "h": "Advocacy and the Colin Farrell Foundation",
+        "p": [
+          "Two years prior to the documentary's release, Farrell spoke publicly about James's journey to help establish the Colin Farrell Foundation. The initiative aims to provide essential advocacy, education, and innovative resources for adult children with intellectual disabilities.",
+          "The actor emphasized that once individuals turn 21, standard educational safeguards and support systems often disappear. His foundation seeks to ensure that young adults like James remain integrated and respected within modern society."
+        ]
+      },
+      {
+        "h": "Family Background and Release Date",
+        "p": [
+          "Colin Farrell shares James with his former partner Kim Bordenave. The Irish actor is also a father to his 17-year-old son, Henry, whom he shares with former co-star Alicja Bachleda-Curus.",
+          "Viewers will be able to watch the complete story when The Slightest Touch officially premieres on HBO on November 25."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Colin Farrell's 23-year-old son James makes a heartwarming appearance in the trailer for the upcoming HBO documentary The Slightest Touch, which premieres on November 25. The project primarily follows Farrell and his longtime friend Emma Fogarty as they tackle the Dublin Marathon to raise awareness for epidermolysis bullosa. Through this release, Farrell continues to highlight important health battles, having previously opened up about James's experience with Angelman syndrome and his foundation for young adults with intellectual disabilities."
+        ]
+      }
+    ],
+    "facts": [
+      "Colin Farrell is 50 years old.",
+      "James is 23 years old.",
+      "James was diagnosed with Angelman syndrome as a toddler.",
+      "Emma Fogarty was diagnosed with epidermolysis bullosa as a child.",
+      "The Slightest Touch premieres on HBO on November 25.",
+      "Colin Farrell shares James with Kim Bordenave.",
+      "Colin Farrell shares 17-year-old son Henry with Alicja Bachleda-Curus."
+    ],
+    "entities": {
+      "people": [
+        "Colin Farrell",
+        "James",
+        "Kim Bordenave",
+        "Alicja Bachleda-Curus",
+        "Emma Fogarty",
+        "Henry"
+      ],
+      "titles": [
+        "The Slightest Touch",
+        "Ondine"
+      ]
+    },
+    "keywords": [
+      "Colin Farrell",
+      "James Farrell",
+      "The Slightest Touch",
+      "Angelman syndrome",
+      "Emma Fogarty"
+    ],
+    "images": [],
+    "published": "2026-10-31T19:53:04Z"
+  },
+  "so9m2": {
+    "id": "so9m2",
+    "type": "news",
+    "headline": "Diljit Dosanjh Addresses Online Trolling Over Satluj During New Delhi Tour Opener",
+    "dek": "Singer and actor Diljit Dosanjh breaks his silence on social media criticism surrounding his controversial film Satluj during the start of his Aura India Tour 2026.",
+    "body": [
+      {
+        "h": "Addressing the Backlash on Stage",
+        "p": [
+          "During the opening concert of his tour in New Delhi, singer and actor Diljit Dosanjh directly addressed the online trolling he and his team have recently faced. The artist spoke openly to the crowd about the hurdles surrounding his creative projects, urging critics to understand the resilience of Punjabis.",
+          "Dosanjh emphasized that his team fought a prolonged battle to bring their project to the public. He expressed his affection for his supporters while maintaining a composed stance toward his detractors."
+        ]
+      },
+      {
+        "h": "The Controversy Surrounding Satluj",
+        "p": [
+          "The focal point of the recent online criticism is the film Satluj, which centers on the life and work of human rights activist Jaswant Singh Khalra. The biographical drama experienced significant release delays before finally premiering on the ZEE5 streaming platform.",
+          "However, the streaming run was short-lived, as the movie was pulled down almost immediately after its debut. This swift removal sparked widespread discussion and online backlash."
+        ]
+      },
+      {
+        "h": "Cast and Creative Background",
+        "p": [
+          "Directed by Honey Trehan, Satluj features a notable ensemble cast alongside Diljit Dosanjh. The movie co-stars Arjun Rampal, Suvinder Vicky, Kanwaljit Singh, Geetika Vidya Ohlyan, and Saurabh Sachdeva.",
+          "The narrative is set against the backdrop of Punjab during the turbulent militancy years of the early 1990s. It traces the journey of Jaswant Singh Khalra as he transforms from an ordinary citizen into an investigator uncovering evidence of thousands of unidentified bodies secretly cremated following alleged fake encounters and enforced disappearances."
+        ]
+      },
+      {
+        "h": "Resilience Amid Concert Obstacles",
+        "p": [
+          "Despite encountering various attempts to halt his live performances, Dosanjh firmly confirmed that his live schedule will proceed as planned. He assured fans that he will continue his performances across the country through December 20.",
+          "Reiterating his artistic philosophy, the singer stated that he chooses to send love even to those who direct hostility toward him, choosing to remain focused on his music and fans."
+        ]
+      },
+      {
+        "h": "The Aura India Tour 2026",
+        "p": [
+          "The current controversy coincides with the launch of the singer's extensive live concert series. Diljit Dosanjh is currently in the country for the Aura India Tour 2026.",
+          "The domestic leg of the concert series officially kicked off with a high-profile performance in New Delhi on October 30, drawing large crowds and significant media attention."
+        ]
+      },
+      {
+        "h": "A Flourishing Cinematic Journey",
+        "p": [
+          "Dosanjh transitioned successfully from regional Punjabi cinema into mainstream Bollywood with a memorable debut in Udta Punjab in 2016, an effort that earned him the Filmfare Award for Best Male Debut.",
+          "Over the years, he has cemented his status as a prominent actor through diverse Hindi film projects including Phillauri, Soorma, Good Newwz, and Amar Singh Chamkila."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh addressed social media trolling and the controversy surrounding his film Satluj during his concert in New Delhi. He defended the hard work required to release the project and confirmed that his Aura India Tour 2026 will continue until December 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh addressed online trolling during his tour opener in New Delhi on October 30, 2026.",
+      "Satluj debuted on ZEE5 and was pulled down shortly after release.",
+      "The film focuses on human rights activist Jaswant Singh Khalra and is set during Punjab's militancy years in the early 1990s.",
+      "Satluj is directed by Honey Trehan and co-stars Arjun Rampal, Suvinder Vicky, Kanwaljit Singh, Geetika Vidya Ohlyan, and Saurabh Sachdeva.",
+      "The Aura India Tour 2026 will continue until December 20, 2026.",
+      "Diljit Dosanjh won the Filmfare Award for Best Male Debut for Udta Punjab (2016)."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Jaswant Singh Khalra",
+        "Arjun Rampal",
+        "Suvinder Vicky",
+        "Kanwaljit Singh",
+        "Geetika Vidya Ohlyan",
+        "Saurabh Sachdeva",
+        "Honey Trehan"
+      ],
+      "titles": [
+        "Satluj",
+        "Udta Punjab",
+        "Phillauri",
+        "Soorma",
+        "Good Newwz",
+        "Amar Singh Chamkila"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Satluj",
+      "Satluj movie OTT",
+      "Diljit Dosanjh Aura India Tour 2026",
+      "Jaswant Singh Khalra film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/oct/1-diljit-dosanjh-addresses-online-trolling-over-satlujthuu1793448182.jpg",
+        "caption": "Diljit Dosanjh Addresses Online Trolling Over Satluj During New Delhi Tour Opener",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-10-31T17:58:55+05:30"
   }
 };

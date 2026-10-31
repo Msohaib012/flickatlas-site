@@ -4,16 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T21:43:23Z",
     "run_id": "41132992417",
     "status": "success",
@@ -907,27 +897,48 @@
      "detail": "334 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T19:52:31Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 358,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Mountain Home Tour: Kendall Jenner unveils cosy, colour-filled retreat; designer Heidi Caillier explains",
+      "Mark Bennington turns writer-director with Dear Tillo, says the seed of the short film was born in Lucknow",
+      "government scraps petrol export duty hikes levies on diesel and atf 3077277.html",
+      "shillong lajong beat mohammedan sc 1 0 as nelson rymbai scores late winner in ifl 2026 27 opener 3077278.html",
+      "what a fighter shikhar dhawan hails manisha bhanwala after historic wrestling world championships gold 3077270.html",
+      "photo gallery ott releases this week mirzapur the movie obsession akka baththa new movies films shows web series to watch on netflix prime video jiohotstar sonyliv zee5 3223356",
+      "bigg boss 20 will gullu be evicted after his physical fight with yung dsa heres what we know",
+      "dosanjhwala has arrived in india diljit dosanjh claims attempts were made to stop delhi concert",
+      "kaante and shootout at wadala filmmaker sanjay gupta passes away at 57",
+      "I Just Found Out There's A Bunch Of Coraline Easter Eggs In Wildwood, So I Did A Deep Dive",
+      "Iconic Universal Monsters Got a Much-Needed Upgrade This Halloween Season",
+      "HBO's 5-Episode Miniseries Is 'Downton Abbey's Darker, Grittier Half",
+      "10 Forgotten Western Movies That Deserve To Be Called Classics",
+      "Clint Eastwood’s $547M War Blockbuster Is Officially Leaving Netflix",
+      "The 8 Best Sci-Fi Horror Books of All Time, Ranked",
+      "Chris Pratt's 128-Minute Action Epic Officially Arrives on HBO Max",
+      "Forget 'Band of Brothers', Tom Hanks's 10-Part Masterpiece Has Been Praised by Experts for Its Accuracy",
+      "Jason Statham's 116-Minute Sci-Fi Thriller Hit (And Biggest Film Ever) Officially Arrives on Streaming",
+      "Harry Potter Series’ New Severus Snape Actor Officially Addresses Casting Backlash",
+      "Forget Cillian Murphy's Tommy, This Is Peaky Blinders' Most Important Shelby Sibling"
+     ],
+     "updated": [],
+     "count": 220,
+     "detail": "229 stories, 1 duplicates removed, 129 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-30T21:43:23Z",
-    "run_id": "41132992417",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1398,27 +1409,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T19:53:04Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Colin Farrell's Son James Makes Rare Appearance in Documentary Trailer",
+      "Diljit Dosanjh Addresses Online Trolling Over Satluj During New Delhi Tour Opener"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T22:51:33Z",
-    "run_id": "41140743372",
-    "status": "success",
-    "checked": {
-     "candidates": 89,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 84, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1832,32 +1846,27 @@
      "detail": "now 153, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T19:53:04Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 157,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 153, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T21:56:55Z",
-    "run_id": "41132992417",
-    "status": "success",
-    "checked": {
-     "candidates": 60,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "69erpd",
-      "1fot0a7",
-      "1gvtjck",
-      "lzeen0",
-      "3152s9"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2298,19 +2307,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T20:05:44Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2724,19 +2740,27 @@
      "detail": "+0 new rows, 10 updated rows, 318 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T19:53:05Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 328,
+     "detail": "328 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 325 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3019,27 +3043,92 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T20:05:42Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 273,
+     "detail": "released movies without a review; Tavily searches: 134"
+    },
+    "changed": {
+     "added": [
+      "#Cult (1637705)",
+      "Animals (1236045)",
+      "Avatar Aang: The Last Airbender (980431)",
+      "Avatar: Fire and Ash (83533)",
+      "Baramulla (1561969)",
+      "Be Happy (607141)",
+      "Chennai Vlog (1801659)",
+      "Chhaava (1196943)",
+      "Colony (1375646)",
+      "Coolie (1153399)",
+      "Darshan (1568063)",
+      "Demon Slayer: Kimetsu no Yaiba Infinity Castle (1311031)",
+      "Deva (1195430)",
+      "Disclosure Day (1275779)",
+      "Diés Iraé (1396869)",
+      "Don't Leave the Kids Alone (1339274)",
+      "Dragon (1273049)",
+      "Drishyam 3 (847742)",
+      "Ekadesham (1764113)",
+      "Eko (1070186)",
+      "Evil Dead Burn (1212763)",
+      "Good Bad Ugly (1259024)",
+      "HIT: The Third Case (1060046)",
+      "Homebound (1227739)",
+      "Hoppers (1327819)",
+      "Jaat (1306845)",
+      "Jewel Thief - The Heist Begins (1225915)",
+      "Kingdom (1124838)",
+      "Lokah Chapter 1: Chandra (1290190)",
+      "Love of Your Life (1381078)",
+      "Madharaasi (1297181)",
+      "Matchbox the Movie (1148365)",
+      "Michael (936075)",
+      "Minions & Monsters (1315772)",
+      "Moana (1108427)",
+      "Nadaaniyan (1216780)",
+      "Nirakar (1801510)",
+      "Obsession (1339713)",
+      "Pinocchio: Unstrung (1232569)",
+      "Raat Akeli Hai - The Bansal Murders (1415974)",
+      "Raid 2 (1227128)",
+      "Sarvam Maya (1473354)",
+      "Scary Movie (1273221)",
+      "Shireen (1783653)",
+      "Sitaare Zameen Par (1190511)",
+      "Stephen (1561955)",
+      "Supergirl (1081003)",
+      "Swapped (1007757)",
+      "Tenzing (1288069)",
+      "Thamma (1196364)",
+      "The Diplomat (1147546)",
+      "The Dog Stars (1384216)",
+      "The Housemaid (1368166)",
+      "The Love Hypothesis (1032863)",
+      "The Mandalorian and Grogu (1228710)",
+      "The Odyssey (1368337)",
+      "The Rajasaab (1022453)",
+      "The Super Mario Galaxy Movie (1226863)",
+      "Toy Story 5 (1084244)",
+      "Tuner (1340206)",
+      "War of the Worlds (755898)",
+      "We Were Here (1529360)",
+      "Welcome To The Jungle (1169516)",
+      "With Love (1508564)",
+      "Zootopia 2 (1084242)"
+     ],
+     "updated": [],
+     "count": 65
+    },
+    "reason": null
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T21:56:55Z",
-    "run_id": "41132992417",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3723,19 +3812,30 @@
      "detail": "api-news.json 312 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T20:05:44Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 314,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Colin Farrell's Son James Makes Rare Appearance in Documentary Trailer",
+      "Diljit Dosanjh Addresses Online Trolling Over Satluj During New Delhi Tour Opener"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 314 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -4015,19 +4115,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T19:52:34Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 5 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4402,19 +4509,19 @@
      "count": 46
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4862,19 +4969,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T19:53:04Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 220 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 1/2, box_office 6/6, celebrities_events 10/5, upcoming_releases 0/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Colin Farrell's Son James Makes Rare Appearance in Documentary Trailer",
+      "Diljit Dosanjh Addresses Online Trolling Over Satluj During New Delhi Tour Opener"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5131,19 +5248,19 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5468,19 +5585,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 186,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5820,19 +5942,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6082,19 +6209,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6329,19 +6456,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6585,19 +6712,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6838,19 +6965,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7080,19 +7207,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7345,6 +7472,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T20:05:53Z",
+    "run_id": "41236085160",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7406,5 +7543,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T18:49:25Z"
+ "updated_at": "2026-10-31T20:05:53Z"
 }
