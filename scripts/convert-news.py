@@ -225,8 +225,12 @@ def build_news(queue_path, registry_path):
     # Cumulative feed: fetch.py's queue is PER-RUN (only stories that are new
     # since the last run), so building the feed from this run alone would
     # shrink it to a handful of items an hour after a big fetch. Carry the
-    # previous feed forward (items from the last 48h only, so stale stories
-    # age out) and dedupe by id.
+    # previous feed forward and dedupe by id. Window = 15 days (owner
+    # order 2026-10-31): the /news See All page lists the last 15 days.
+    # The homepage still lists only the last 24 h \u2014 it applies
+    # UI.isNewsFresh to this same feed client-side, so widening the feed
+    # window does not change the homepage.
+    feed_cutoff = int(datetime.now(timezone.utc).timestamp() * 1000) - 15 * 24 * 3600 * 1000
     prev_path = os.path.join(ROOT, "api-news.json")
     carried = 0
     if os.path.exists(prev_path):
@@ -234,7 +238,7 @@ def build_news(queue_path, registry_path):
             with open(prev_path, encoding="utf-8") as f:
                 prev = json.load(f)
             have_ids = {i["id"] for i in items}
-            cutoff = int(datetime.now(timezone.utc).timestamp() * 1000) - 48 * 3600 * 1000
+            cutoff = feed_cutoff
             for old in prev.get("items") or []:
                 oid = old.get("id")
                 ots = old.get("ts")
@@ -256,6 +260,43 @@ def build_news(queue_path, registry_path):
         except Exception as e:
             print(f"previous-feed carry skipped: {e}")
     print(f"carried {carried} items from previous feed")
+    # Archive backfill (owner order 2026-10-31): the carry-forward above
+    # can only retain items that were already in the previous feed \u2014
+    # anything that aged out under the old 48 h window is gone from
+    # api-news.json for good. Rebuild the window from the published
+    # archive itself: every published article (js/articles-data.js)
+    # whose published timestamp falls inside the 15-day window and is
+    # not already in the feed gets an entry. The written-only filter
+    # below still gates membership; the client derives tags from the
+    # headline, so cats use the same ["international"] fallback as
+    # unregistered sources.
+    backfilled = 0
+    try:
+        with open(os.path.join(ROOT, "js", "articles-data.js"), encoding="utf-8") as f:
+            raw = f.read()
+        archive = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])
+        have_ids = {i["id"] for i in items}
+        for aid, art in archive.items():
+            if aid in have_ids or not isinstance(art, dict):
+                continue
+            headline = (art.get("headline") or "").strip()
+            ats = parse_ts(art.get("published"))
+            if not headline or ats is None or ats < feed_cutoff:
+                continue
+            items.append({
+                "id": aid,
+                "title": headline,
+                "link": "",
+                "source": "",
+                "cats": ["international"],
+                "ts": ats,
+                "summary": "",
+            })
+            have_ids.add(aid)
+            backfilled += 1
+    except Exception as e:
+        print(f"archive backfill skipped: {e}")
+    print(f"backfilled {backfilled} items from the published archive")
     # Written-only feed: drop every item that has no published article.
     # Auto-fetched headlines must not appear on the site as posts without
     # writing. An article reaches the feed only after it is actually
@@ -266,17 +307,17 @@ def build_news(queue_path, registry_path):
     items = [i for i in items if i["id"] in published]
     print(f"written-only filter: kept {len(items)} of {before_filter} feed items")
     # Published entries are PINNED: they must survive even when the fresh
-    # fetch alone fills the 100-item cap (their export-time ts is older than
+    # fetch alone fills the feed cap (600 \u2014 15 days of headlines) (their export-time ts is older than
     # today's stories, so a plain sort+truncate would drop them and the
     # news-item page would show "moved on" for a published article).
     items.sort(key=lambda x: x["ts"], reverse=True)
     if published_ids:
         pinned = [i for i in items if i["id"] in published_ids]
         fresh = [i for i in items if i["id"] not in published_ids]
-        items = fresh[:max(0, 100 - len(pinned))] + pinned
+        items = fresh[:max(0, 600 - len(pinned))] + pinned
         items.sort(key=lambda x: x["ts"], reverse=True)
     else:
-        items = items[:100]
+        items = items[:600]
     print(f"merged {merged} published-article feed entries")
     return {
         "generated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),

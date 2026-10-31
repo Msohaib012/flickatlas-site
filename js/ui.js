@@ -1189,7 +1189,7 @@ const UI = (() => {
      timestamp (it.ts, ms epoch). Rolling 24 h — a duration, so no
      timezone conversion is needed; PKT only matters for the label
      ("Pichle 24 ghante ki khabrein"). Older items stay in the data
-     (FA_ARTICLES + api-news.json, whose own window is 48 h) and stay
+     (FA_ARTICLES + api-news.json, whose own window is 15 days) and stay
      reachable by direct link / article page — only LISTINGS filter.
      Items with no usable timestamp are kept: never hide on missing
      data. */
@@ -1201,6 +1201,16 @@ const UI = (() => {
   }
   function filterNewsFresh(items) {
     return (items || []).filter(isNewsFresh);
+  }
+
+  /* News See All window (owner order 2026-10-31): the /news page lists
+     the last 15 days. Every other listing keeps the 24 h rule above.
+     Same missing-timestamp rule: never hide on missing data. */
+  const NEWS_SEEALL_TTL_MS = 15 * 24 * 60 * 60 * 1000;
+  function isNewsSeeAll(it) {
+    const ts = it && it.ts;
+    if (!Number.isFinite(ts) || ts <= 0) return true;
+    return Date.now() - ts <= NEWS_SEEALL_TTL_MS;
   }
 
   /* ---------- Filter chips (MASTER-STRUCTURE §4) ----------
@@ -1270,7 +1280,7 @@ const UI = (() => {
     fmtRuntime, fmtMoney, fmtMoneyFull, fmtMoneyWords, moneyText: moneyPlain, getCcy, setCcy, setIndustryContext, escRich, stripTags, verdict, mountChrome, posterCard, personCard, ottCard,
     skelCards, stateMsg, setSEO, initials, industryTag, deriveNewsTags, providerLines, toggleMore, daywiseCard, dailyCollectionCard, dayNumOf, boPeriodData, boPeriodHtml,
     freshCutoff, isFresh, isStreamingOnly, mountFaSelect, newsId, newsItemPath, industryOf, isIndian, isPakistani, INDIAN_LANGS,
-    relTime, fmtTime12h, isNewsFresh, filterNewsFresh, chipRow, getParam, setParam, wireChips, applyFilter };
+    relTime, fmtTime12h, isNewsFresh, filterNewsFresh, isNewsSeeAll, chipRow, getParam, setParam, wireChips, applyFilter };
 })();
 window.UI = UI;
 

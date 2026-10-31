@@ -61,14 +61,14 @@
   const deriveTags = UI.deriveNewsTags;
 
   function render() {
-    const list = (items || []).filter(it => f === "all" || (it.tags || []).includes(f)).slice(0, 48);
+    const list = (items || []).filter(it => f === "all" || (it.tags || []).includes(f)).slice(0, 600);
     fcount.textContent = list.length ? `${list.length} headline${list.length === 1 ? "" : "s"}` : "";
     if (!list.length) {
       /* Empty state (owner order 2026-10-28): when NO fresh news exists
          at all, say that plainly — a category with no fresh items keeps
          the category message instead. */
       wrap.innerHTML = UI.stateMsg(!(items || []).length
-        ? "Pichle 24 ghante me koi nayi khabar nahi aayi."
+        ? "Pichle 15 din me koi nayi khabar nahi aayi."
         : "No headlines are listed in this category right now. Try another category.", false);
       return;
     }
@@ -184,10 +184,12 @@
     /* Normalise feed categories to the page's labels: the feed still
        classifies some items "international" (shown here as World Cinema);
        Korea-only items keep no category label and appear under All. */
-    /* NEWS EXPIRY (owner order 2026-10-28): the feed carries 48 h of
-       items (convert-news.py), but this page lists only the last 24 h
-       (UI.isNewsFresh). Older items stay on their article pages. */
-    items = j.items.filter(it => !isEpisodeItem(it) && UI.isNewsFresh(it)).map(it => {
+    /* NEWS WINDOW (owner orders 2026-10-28 + 2026-10-31): the feed
+       carries the last 15 days of items (convert-news.py), and this
+       See All page lists all of them (UI.isNewsSeeAll). The homepage
+       keeps the 24 h rule (UI.isNewsFresh) \u2014 this page is the only
+       15-day listing. */
+    items = j.items.filter(it => !isEpisodeItem(it) && UI.isNewsSeeAll(it)).map(it => {
       const norm = {
         ...it,
         cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
