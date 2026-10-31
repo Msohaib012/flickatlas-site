@@ -3861,7 +3861,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-02",
     "date_kind": "release",
     "runtime": 150,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "337670": {
     "id": 337670,
@@ -7617,7 +7624,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-29",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "313699": {
     "id": 313699,
@@ -7672,7 +7686,14 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1810711": {
     "id": 1810711,

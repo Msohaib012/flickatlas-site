@@ -23877,5 +23877,185 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 01:37:48 +0000"
+  },
+  "dvdaed": {
+    "id": "dvdaed",
+    "type": "news",
+    "headline": "Shah Rukh Khan's KING Fever Takes Over Cinema Halls Nationwide",
+    "dek": "Excitement reaches an all-time high as massive cutouts of Shah Rukh Khan appear at cinema halls across various cities ahead of his upcoming film KING.",
+    "body": [
+      {
+        "h": "The Rise of King Fever Across Cinemas",
+        "p": [
+          "The anticipation surrounding Shah Rukh Khan's upcoming feature film KING is rapidly intensifying across the country. Long before the actual theatrical premiere, the superstar is already dominating public spaces with his commanding presence.",
+          "Massive cutouts of the actor have recently been installed at multiple cinema halls in different cities, instantly drawing massive crowds and generating intense curiosity."
+        ]
+      },
+      {
+        "h": "Larger-Than-Life Displays Captivate Audiences",
+        "p": [
+          "These monumental promotional installations have quickly become major talking points among moviegoers and casual visitors alike. Fans have been spotted stopping by the theatres just to admire and pose next to the towering structures.",
+          "The visuals highlight the immense scale at which the upcoming cinematic outing is being anticipated by the public, transforming regular theatre lobbies into festive spots."
+        ]
+      },
+      {
+        "h": "Social Media Takes Notice",
+        "p": [
+          "Photographs and video clips showcasing the giant cutouts are rapidly circulating across various social media platforms. Supporters are eagerly sharing these media files online to express their thrill and dedication.",
+          "The digital traction reflects the strong organic conversation happening around the movie, proving that promotional excitement is crossing over successfully from physical venues to virtual spaces."
+        ]
+      },
+      {
+        "h": "A Trademark of Superstar Celebrations",
+        "p": [
+          "For followers of the actor, these grand lobby displays serve as a familiar and nostalgic reminder of traditional fan celebrations. Such grand spectacles have long accompanied the cinematic releases of the iconic star.",
+          "These installations reinforce the unique bond that connects the performer directly with his massive audience, turning an ordinary movie theatre visit into a memorable event."
+        ]
+      },
+      {
+        "h": "Early Momentum Ahead of Theatrical Release",
+        "p": [
+          "The fact that this intense buzz is building well ahead of the official release date speaks volumes about the audience's eagerness. Cinema halls are already experiencing the initial waves of the upcoming phenomenon.",
+          "This early momentum suggests that the eventual opening of the feature will be met with extraordinary enthusiasm and widespread public participation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Massive cutouts of Shah Rukh Khan have been spotted at cinema halls across different cities, generating immense excitement for his upcoming film KING. The giant displays have sparked viral social media reactions and highlighted the huge anticipation surrounding the project well ahead of its theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan stars in the upcoming film KING.",
+      "Massive cutouts of Shah Rukh Khan have been spotted at cinema halls in different cities.",
+      "Pictures and videos of the cutouts are circulating on social media.",
+      "The article was published on 30.OCT.2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Yana Babani",
+        "Ibrahim Ali Khan",
+        "Palak Tiwari"
+      ],
+      "titles": [
+        "KING"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "KING movie",
+      "Shah Rukh Khan cutouts",
+      "KING film buzz"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/30202330/King-1.jpg",
+        "caption": "Shah Rukh Khan's KING Fever Takes Over Cinema Halls Nationwide",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-10-31T02:51:54Z"
+  },
+  "6b7a81": {
+    "id": "6b7a81",
+    "type": "news",
+    "headline": "Maddock Films And Kathputli Creations Drop Grand Trailer For Eetha",
+    "dek": "Shraddha Kapoor stars as the legendary Eetha Bai in the upcoming musical drama directed by Laxman Utekar, set for a December 4, 2026 theatrical release.",
+    "body": [
+      {
+        "h": "Trailer Launch Details",
+        "p": [
+          "Maddock Films and Kathputli Creations have officially dropped the grand trailer for their upcoming project, Eetha, generating immense buzz across the entertainment landscape. The newly revealed promotional footage introduces audiences to an epic musical drama that chronicles the remarkable life of a true legend. With striking visual aesthetics, evocative musical compositions, and intense dramatic moments, the trailer immediately draws viewers into a vibrant, larger-than-life world where ambition fiercely clashes with adversity.",
+          "The preview showcases the immense scale and emotional depth of the production, promising an immersive cinematic experience on the big screen. Designed to celebrate the indomitable spirit of an extraordinary artist, the footage highlights the courage and conviction that defined the protagonist's journey, setting high expectations for the impending theatrical rollout."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative follows the extraordinary life of Eetha Bai, an artist who courageously defied societal conventions, challenged formidable odds, and rose above every single obstacle in her path. Her journey is depicted as a testament to personal strength, where passion evolves into power and every single performance tells a compelling story of resilience.",
+          "Inspired by true events and the rich, culturally vibrant world of Lavani, the film explores an artistic heritage that has remained largely unexplored within Hindi cinema. It sheds light not just on the music, rhythm, and energy of the art form, but also on the remarkable women who shaped it through their sacrifices, struggles, and unmatched determination."
+        ]
+      },
+      {
+        "h": "Cast and Character Focus",
+        "p": [
+          "Bollywood star Shraddha Kapoor takes on the titular role, stepping into one of the most distinctive and challenging characters of her career thus far. She plays Eetha Bai, a woman whose art, profound courage, and fierce individuality make her an unforgettable figure in history.",
+          "The actress expressed immense excitement about bringing this historical journey to life, noting how deeply she connected with the character's world through discussions with the director. Her casting anchors the emotional core of the project, inviting fans to witness a totally fresh facet of her acting prowess."
+        ]
+      },
+      {
+        "h": "Director's Vision",
+        "p": [
+          "Helmed by director Laxman Utekar, the project follows his recent blockbuster success with Chhaava. While acknowledging the vast differences in settings between his past work and this new musical drama, Utekar emphasized that both films share a common thematic anchor in the extraordinary strength of their central characters.",
+          "The director aimed to blend authenticity, high emotional stakes, and grand scale to construct a fully immersive world. By focusing on an artist who transformed her life into a lasting legacy, he seeks to transport viewers into a culturally rich environment unlike anything seen recently in mainstream cinema."
+        ]
+      },
+      {
+        "h": "Producer Perspectives",
+        "p": [
+          "Producer Dinesh Vijan of Maddock Films shared his fascination with uncovering stories that have remained hidden from the global audience, noting that the world of Lavani offered an incredible opportunity to highlight the untold lives of women behind the art. He stressed that the film serves as a heartfelt celebration of an incredible cultural tradition.",
+          "Echoing these sentiments, Karishma Sharma of Kathputli Creations highlighted the importance of showcasing narratives deeply rooted in Indian soil that possess universal appeal. She noted that the feature brings together music, drama, emotion, and grand spectacle to forge a strong connection with moviegoers everywhere."
+        ]
+      },
+      {
+        "h": "Collaborations and Legacy",
+        "p": [
+          "The project marks a major creative reunion for Shraddha Kapoor and Maddock Films, following their massive prior box office magic with Stree and Stree 2. This established collaborative history adds an extra layer of anticipation for moviegoers waiting to see the actor-producer team strike gold once again.",
+          "Presented jointly by Maddock Films and Kathputli Creations, and produced by Dinesh Vijan alongside Laxman Utekar, the film brings together a powerhouse team dedicated to delivering compelling, larger-than-life storytelling to the masses."
+        ]
+      },
+      {
+        "h": "Release Information",
+        "p": [
+          "Fans eager to experience the musical spectacle won't have to wait much longer, as the film is scheduled to arrive in cinemas on December 4, 2026. The wide theatrical release is anticipated to draw large crowds looking for a grand cinematic outing.",
+          "With a distinct storyline, a celebrated lead actress, and a proven creative team at the helm, the upcoming release is positioned as one of the major cinematic events slated for the latter part of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Maddock Films and Kathputli Creations have unveiled the grand trailer for Eetha, an epic musical drama directed by Laxman Utekar and starring Shraddha Kapoor as the legendary Eetha Bai. Inspired by true events within the world of Lavani, the film is scheduled to hit theaters on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Maddock Films and Kathputli Creations unveiled the grand trailer on October 30, 2026.",
+      "Shraddha Kapoor stars as Eetha Bai.",
+      "The film is directed by Laxman Utekar.",
+      "The film is produced by Dinesh Vijan and Laxman Utekar.",
+      "Karishma Sharma is a producer from Kathputli Creations.",
+      "Eetha is scheduled to release in cinemas on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Dinesh Vijan",
+        "Laxman Utekar",
+        "Karishma Sharma",
+        "Eetha Bai"
+      ],
+      "titles": [
+        "Eetha",
+        "Stree",
+        "Stree 2",
+        "Chhaava"
+      ]
+    },
+    "keywords": [
+      "Shraddha Kapoor Eetha",
+      "Eetha trailer",
+      "Laxman Utekar Eetha movie",
+      "Maddock Films Eetha release date"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/30153935/Rakul-Preet-Singh-Surpanakha-1.jpg",
+        "caption": "Maddock Films And Kathputli Creations Drop Grand Trailer For Eetha",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-10-31T02:51:54Z"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T07:51:24Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 319,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Drishyam 3 The Conclusion Fourth Week Box Office Collection",
-      "Yeh Rishta Kya Kehlata Hai Written Update October 30: Abhira Sees Kabir With A Girl; How Will Maira React?",
-      "Teen Titans Go! Halloween Episodes 2026: Check Dates, Timings & What To Expect",
-      "Little Thomas: Rasika Dugal On The Swindling Space For Children's Films In Indian Cinema",
-      "Chudail Chali Sasural Launch Date: Adhik Mehta Says Hiba Nawab Is 'Chudail' When It Comes To...",
-      "Rise And Fall 2: Shehzad Poonawalla Continues To Call The Shots; Eyes Grand Return To The Penthouse",
-      "Raghav Juyal and Komal Pawaskar’s BTS From Vikas Bahl’s Ikaee Surfaces Online",
-      "Scam 2024 EXCLUSIVE! Why Vidya Malavade Was 'Little' Scared While Shooting Her First Microdrama?",
-      "Comrade Kalyan Now Streaming On OTT: Where To Watch Sree Vishnu And Mahima Nambiar's Film Online",
-      "Aadarsha Kutumbam House No: 47 Box Office Day 1 Final Advance Booking: Grosses 79% Less Than Venkatesh’s Sankranthiki Vasthunam",
-      "Clayface: How Does Matt Hagen’s Origin Differ From The Comics & Batman: The Animated Series?",
-      "Mirzapur The Movie OTT Release Date: Extended Cut With 15 Minutes of Extra Footage Now on Prime Video",
-      "'Sankarabharanam' gets 4K restoration -EXCLUSIVE",
-      "Some of Sir Patrick Stewart’s best roles over the years",
-      "Rishab Shetty to play Chhatrapati Shivaji Maharaj in two-part historical epic",
-      "Fahadh Faasil's Don't Trouble The Trouble quietly streams on Netflix after collecting  ₹5 crore from theatrical run",
-      "Arijit Singh, Karan Aujla to ring in the New Year 2027 as headliners at Goa's new music festival Home; more than 30 artists make the lineup",
-      "Parineeti Chopra ends Karwa Chauth fast at 35,000 feet, shares video from plane with Raghav Chadha: ‘You make all my dreams come true'",
-      "Ali Fazal, Pankaj Tripathi's Mirzapur: The Movie arrives on Prime Video with a special extended cut and unseen footage",
-      "Shreya Ghoshal or Chinmayi? Internet picks sides over Ramayana song Judi Jodi"
-     ],
-     "updated": [],
-     "count": 312,
-     "detail": "315 stories, 2 duplicates removed, 4 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T08:51:35Z",
     "run_id": "41029168136",
     "status": "success",
@@ -791,27 +752,48 @@
      "detail": "263 stories, 0 duplicates removed, 4 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T02:51:40Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 272,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "'Aadarsha Kutumbam – House No. 47' BO day 1",
+      "Sunainaa condemns AI-morphed video, urges people to fight misuse",
+      "Selma Blair in tears as she breaks silence on arrest following plane incident; says she didn't intend to 'hurt or frighten anyone'",
+      "'Sarala Subbarao' OTT: Where to stream Ajay Rao's film online",
+      "Diljit Dosanjh lashes out at Cockroach Janata Party at Delhi concert for mocking his film Satluj, says 'don't teach Punjabis how to fight'",
+      "Decades after their first wins, Roger Howarth and Beth Maitland win at Daytime Emmys",
+      "Netflix’s Twisted 2-Season Fantasy Horror Will Keep You Hooked From Start to Finish",
+      "Florence Pugh’s Netflix Western Miniseries Officially Hits a Massive Streaming Milestone",
+      "The 10 Greatest Crime Movies of the Last 25 Years, Ranked",
+      "3 Years Later, Nicolas Cage's Surreal Gem Is Officially Back on Streaming",
+      "Netflix Officially Reveals the All-Star Cast of New 'Heated Rivalry’ Meets ‘The Cutting Edge’ Rom-Com",
+      "6 Taylor Sheridan Shows You Can Binge in a Weekend",
+      "‘Resident Evil’ Fans Can Officially Grab the Franchise's Best Game for Just $10",
+      "11 Years Later, CBS' Finale Flop Was an Insult to Its Main Character",
+      "Netflix’s Assassin’s Creed Takes Major Step Forward As New Behind-The-Scenes Photo Emerges",
+      "Netflix's 26-Episode Romantasy Mega-Hit Is Still The Perfect Weekend Binge-Watch",
+      "Every Lantern Corp and Their Powers in DC Canon Explained",
+      "Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift",
+      "‘Real Time’: Bill Maher Reacts To Trump’s “Longest Ever” 1,300+ Word Tweet Berating Him: “Kind Of A Flex”",
+      "Bill Maher Responds to Trump’s 1,318-Word Social Rant: “He Went Off on Me Like Kelly Clarkson in a Toy Store”"
+     ],
+     "updated": [],
+     "count": 259,
+     "detail": "266 stories, 0 duplicates removed, 6 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:07:37Z",
-    "run_id": "41029487327",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1224,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 0 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T02:51:54Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's KING Fever Takes Over Cinema Halls Nationwide",
+      "Maddock Films And Kathputli Creations Drop Grand Trailer For Eetha"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T09:52:19Z",
-    "run_id": "41036361612",
-    "status": "success",
-    "checked": {
-     "candidates": 55,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 53, coming 2"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1618,26 +1603,27 @@
      "detail": "now 84, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T09:07:37Z",
-    "run_id": "41029487327",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T02:53:08Z",
+    "run_id": "41161770523",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 91,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 87, coming 4"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2025,27 +2011,30 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T02:53:10Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "xl6qwm",
+      "1fot0a7",
+      "1gvtjck"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T07:51:39Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "319 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 316 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2419,19 +2408,27 @@
      "detail": "+0 new rows, 4 updated rows, 320 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T02:53:08Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 325,
+     "detail": "324 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 321 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2714,27 +2711,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:07:37Z",
-    "run_id": "41029487327",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3147,19 +3136,30 @@
      "detail": "api-news.json 81 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T02:53:10Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's KING Fever Takes Over Cinema Halls Nationwide",
+      "Maddock Films And Kathputli Creations Drop Grand Trailer For Eetha"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3429,19 +3429,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3745,29 +3745,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T07:51:38Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 312 still unprocessed; today by category: movies 3/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Rishab Shetty And Sandeep Singh Team Up For Two-Part Shivaji Maharaj Epic",
-      "Mirzapur The Movie Lands on Prime Video with Extended Cut and Extra Footage"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4165,19 +4155,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T02:51:54Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 259 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan's KING Fever Takes Over Cinema Halls Nationwide",
+      "Maddock Films And Kathputli Creations Drop Grand Trailer For Eetha"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4430,24 +4430,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 183,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4747,24 +4742,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 180,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5059,19 +5054,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5316,19 +5316,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5554,6 +5554,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-31T01:52:13Z",
     "run_id": "41157243459",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5564,16 +5574,6 @@
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-30T09:03:08Z",
     "run_id": "41029168136",
     "status": "skipped",
@@ -5796,6 +5796,16 @@
     "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-31T01:52:13Z",
     "run_id": "41157243459",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5806,16 +5816,6 @@
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-10-30T09:03:08Z",
     "run_id": "41029168136",
     "status": "skipped",
@@ -6042,22 +6042,33 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T02:53:08Z",
+    "run_id": "41161770523",
+    "status": "success",
+    "checked": {
+     "candidates": 181,
+     "processed": 181,
+     "succeeded": 181,
+     "failed": 0,
+     "already_have_providers": 60,
+     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 181
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-10-30T09:03:08Z",
     "run_id": "41029168136",
     "status": "success",
@@ -6280,6 +6291,16 @@
     "category": "Box Office",
     "run_at": "2026-10-31T01:52:13Z",
     "run_id": "41157243459",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6290,16 +6311,6 @@
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-10-30T07:51:49Z",
-    "run_id": "41022556286",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-10-30T09:03:08Z",
     "run_id": "41029168136",
     "status": "skipped",
@@ -6522,6 +6533,16 @@
     "category": "Trending News",
     "run_at": "2026-10-31T01:52:13Z",
     "run_id": "41157243459",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T02:53:18Z",
+    "run_id": "41161770523",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6548,5 +6569,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T01:52:13Z"
+ "updated_at": "2026-10-31T02:53:18Z"
 }

@@ -72,6 +72,30 @@ window.FA_OTT = {
     {
       "date": "2026-10-29",
       "date_kind": "release",
+      "id": 313699,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-29",
+      "date_kind": "digital",
+      "id": 1541477,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-29",
+      "date_kind": "release",
       "id": 1657630,
       "providers": [
         {
@@ -284,6 +308,18 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-02",
+      "date_kind": "release",
+      "id": 1290035,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-01",
