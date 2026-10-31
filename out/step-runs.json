@@ -4,16 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T20:50:57Z",
     "run_id": "41126385761",
     "status": "success",
@@ -820,19 +810,48 @@
      "detail": "312 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T16:50:56Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 303,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Hanuman Ansh Box Office Collection: Vishal Chaturvedi Makes History As India's Only Debut Director To Enter...",
+      "Jailer 2 Worldwide Box Office: Rajinikanth All Set To Deliver The First 800 Crore Club Opener Of Kollywood This Diwali?",
+      "Decoding Economics of Drishyam The Conclusion: Ajay Devgn's franchise finale generates Rs. 150 Cr plus profits",
+      "Bigg Boss Malayalam 8 Promo: Mohanlal questions Rahul Easwar’s confidence over Rs 25 lakh bid; Asks him ‘Ready to come out?’",
+      "I’m Game OTT Release: When and where to watch Dulquer Salmaan’s fantasy action film online",
+      "Jailer 2 Box Office Creates History With ₹75+ Crore Gross in All Four South Markets Achieving What India's Biggest Blockbusters Couldn't",
+      "Richard Simmons’ Los Angeles home sells for $3.8 million after lengthy wait",
+      "Jennifer Lawrence Looked Back At Her Oscars Tripping Dress, And It’s Not The Volume She’s Unsure About",
+      "I’m In My Feelings As Criminal Minds: Evolution Stars Break Their Silence On The Show’s Cancellation",
+      "Ridley Scott’s $100M Sci-Fi Dud Officially Redeems Itself on Streaming",
+      "One of Anne Hathaway’s Best Performances Is Only 30 Minutes Long",
+      "Netflix’s New ‘Severance’ Replacement Is Officially Taking Over the World",
+      "James Cameron's Greatest 137-Minute Action Sci-Fi Sequel Officially Sets New Streaming Home",
+      "After One Chicago’s 800th Episode, The Franchise’s Forgotten Spinoff Deserves A Second Chance",
+      "Dungeon Crawler Carl Meets Fourth Wing In This Underrated Dark Fantasy Book",
+      "Stranger Things Meets Ghosts In Netflix's 8-Part Supernatural Drama",
+      "5 Most Exciting Video Games Releasing November 2026",
+      "Forget Batman, Alan Ritchson Is Perfect For The Dark Knight's Replacement After DCU Casting Update",
+      "Every Stephen King Movie On Prime Video, Ranked",
+      "HBO's 5-Season Noir Thriller Confirms Nicolas Cage's Career Shift After 44 Years"
+     ],
+     "updated": [],
+     "count": 293,
+     "detail": "303 stories, 0 duplicates removed, 0 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1278,19 +1297,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T16:51:11Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Singapore International Film Festival Honors 'Ah Girl' and Shahrbanoo Sadat at Silver Screen Awards",
+      "Deep Purple Frontman Ian Gillan Hospitalized Following Medical Emergency"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T20:59:29Z",
-    "run_id": "41127482775",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1696,19 +1726,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T16:51:11Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 116, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2141,19 +2179,26 @@
      "count": 0
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T16:56:37Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2543,19 +2588,27 @@
      "detail": "+0 new rows, 3 updated rows, 325 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T16:56:36Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 328,
+     "detail": "328 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 320 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2838,19 +2891,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3504,19 +3557,30 @@
      "detail": "api-news.json 301 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T16:56:37Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 303,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Singapore International Film Festival Honors 'Ah Girl' and Shahrbanoo Sadat at Silver Screen Awards",
+      "Deep Purple Frontman Ian Gillan Hospitalized Following Medical Emergency"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 303 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3777,19 +3841,19 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4093,19 +4157,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4523,19 +4587,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T16:51:11Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 293 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 1/2, box_office 6/6, celebrities_events 8/5, upcoming_releases 0/4, ott_streaming 4/4, trailers 2/3, awards 2/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Singapore International Film Festival Honors 'Ah Girl' and Shahrbanoo Sadat at Silver Screen Awards",
+      "Deep Purple Frontman Ian Gillan Hospitalized Following Medical Emergency"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4779,19 +4853,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5101,19 +5175,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 230,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5438,19 +5517,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 18,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5695,19 +5779,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5942,19 +6026,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6198,19 +6282,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6451,19 +6535,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6693,19 +6777,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6958,6 +7042,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T16:56:44Z",
+    "run_id": "41221611874",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7002,5 +7096,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T15:59:43Z"
+ "updated_at": "2026-10-31T16:56:44Z"
 }

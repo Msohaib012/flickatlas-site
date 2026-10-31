@@ -26953,5 +26953,235 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 20:51:47 +0530"
+  },
+  "1x6l1gj": {
+    "id": "1x6l1gj",
+    "type": "news",
+    "headline": "Singapore International Film Festival Honors 'Ah Girl' and Shahrbanoo Sadat at Silver Screen Awards",
+    "dek": "Ang Geck Geck Priscilla's drama claimed the top prize at the 37th Singapore International Film Festival, while filmmakers like Shahrbanoo Sadat and Nagahisa Makoto also received major accolades.",
+    "body": [
+      {
+        "h": "Top Honors for 'Ah Girl'",
+        "p": [
+          "The 37th edition of the Singapore International Film Festival concluded its run at the Singtel Waterfront Theatre, celebrating the finest achievements in Asian and international cinema. At the heart of the ceremony was the Asian Feature Film Competition, which crowned Ang Geck Geck Priscilla's debut feature 'Ah Girl' as the best film.",
+          "Set against the backdrop of 1990s Singapore, the winning drama centers on a seven-year-old girl navigating life after the separation of her parents. The project's journey to the top has been long and deliberate, having been developed at the festival's Southeast Asian Film Lab in 2015 before securing additional recognition on the international circuit."
+        ]
+      },
+      {
+        "h": "Directorial Acclaim for Shahrbanoo Sadat",
+        "p": [
+          "In the directing category, filmmaker Shahrbanoo Sadat took home the prize for her feature 'No Good Men'. The drama, which previously served as the opening film at the Berlinale, is set in Kabul just before the return of the Taliban to power.",
+          "The narrative follows a cameraman whose professional aspirations, family ties, and personal freedoms are abruptly thrown into uncertainty. Sadat, who relocated to Germany, has built a notable filmography that includes previous premieres at Cannes."
+        ]
+      },
+      {
+        "h": "Recognizing Acting Excellence and Jury Favorites",
+        "p": [
+          "The jury opted to split the best performance prize between two distinctive talents. Pushpa Thing Lama received recognition for her role in 'Elephants in the Fog', a story following a member of Nepal's Kinnar community in search of her missing daughter.",
+          "Sharing the award was Putri Marino for her work in 'Four Seasons in Java', a magical realist tale about a woman returning to her hometown after spending two decades behind bars. Meanwhile, Japanese director Nagahisa Makoto was awarded the Special Jury Prize for his sophomore feature, 'Burn'."
+        ]
+      },
+      {
+        "h": "Southeast Asian Shorts and Special Mentions",
+        "p": [
+          "The festival also shone a spotlight on short-form cinema through the Southeast Asian Short Film Competition. Yogyakarta-based artist Arief Budiman was named best Southeast Asian short film director for 'Golden Island', which explores a collaborative filmmaking process between two videographers from Java and Papua.",
+          "Additional short film winners included Ratchapoom Boonbunchachoke for 'The Bovine Comedy', Berthold Wahjudi for his Special Jury Prize win, and Sarah Lingam, who claimed the best performance prize for 'Flame of the Forest'. The honor for best Singapore short film went to Exyl for 'Singapore God'."
+        ]
+      },
+      {
+        "h": "Audience Choices and Industry Pitching Forums",
+        "p": [
+          "Festival audiences cast their votes for the Audience Choice Award, which went to the Singapore Panorama Programme package titled 'Second Life, Second Skin'. This collection features five distinct short films directed by Shara Tay, Ash Goh Hua, Syahmi Iman, Leon Cheo, and Ewan Leong.",
+          "Industry professionals also gathered for the SGIFF Pro Pitching Forum, where several projects secured development support. Among the recipients were Yamaguchi Shin and Miyahara Takuya, Lệ Diễm Hà, Tong Khoon Mun, Zhou Ke Xin, and the duo Sam Chua Weishi and Rein Maychaelson."
+        ]
+      },
+      {
+        "h": "Special Tributes to Cinema Icons",
+        "p": [
+          "Beyond the competitive categories, the festival took time to honor established cinematic figures. Indian star Aamir Khan was presented with the SGIFF Screen Icon Award by Peter Chan during a special conversation session.",
+          "Additionally, Japanese auteur Kore-eda Hirokazu received the SGIFF Cinema Honorary Award from Boo Junfeng, recognizing a prolific year that included the release of two features."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 37th Singapore International Film Festival concluded its Silver Screen Awards with top honors going to Ang Geck Geck Priscilla's 'Ah Girl' and director Shahrbanoo Sadat. The event celebrated a diverse lineup of Asian features and short films while presenting special recognition awards to international industry veterans."
+        ]
+      }
+    ],
+    "facts": [
+      "The 37th SGIFF ran through Nov. 1, with ceremonies held at the Singtel Waterfront Theatre.",
+      "Ang Geck Geck Priscilla's 'Ah Girl' won best film in the Asian Feature Film Competition.",
+      "Shahrbanoo Sadat won best director for 'No Good Men'.",
+      "Aamir Khan received the SGIFF Screen Icon Award on Oct. 22.",
+      "Kore-eda Hirokazu received the SGIFF Cinema Honorary Award on Oct. 24."
+    ],
+    "entities": {
+      "people": [
+        "Ang Geck Geck Priscilla",
+        "Shahrbanoo Sadat",
+        "Pushpa Thing Lama",
+        "Putri Marino",
+        "Nagahisa Makoto",
+        "Arief Budiman",
+        "Ratchapoom Boonbunchachoke",
+        "Berthold Wahjudi",
+        "Sarah Lingam",
+        "Exyl",
+        "Shara Tay",
+        "Ash Goh Hua",
+        "Syahmi Iman",
+        "Leon Cheo",
+        "Ewan Leong",
+        "Yamaguchi Shin",
+        "Miyahara Takuya",
+        "Lệ Diễm Hà",
+        "Tong Khoon Mun",
+        "Zhou Ke Xin",
+        "Sam Chua Weishi",
+        "Rein Maychaelson",
+        "Aamir Khan",
+        "Peter Chan",
+        "Kore-eda Hirokazu",
+        "Boo Junfeng"
+      ],
+      "titles": [
+        "Ah Girl",
+        "No Good Men",
+        "Wolf and Sheep",
+        "The Orphanage",
+        "Elephants in the Fog",
+        "Four Seasons in Java",
+        "Burn",
+        "And So We Put Goldfish in the Pool",
+        "We Are Little Zombies",
+        "Golden Island",
+        "The Bovine Comedy",
+        "A Useful Ghost",
+        "Vaterland or A Bule Named Yanto",
+        "Flame of the Forest",
+        "Singapore God",
+        "Second Life, Second Skin",
+        "Kiss Me Climax",
+        "Subterranea",
+        "Reanimator",
+        "Orang Minyak",
+        "Encik",
+        "Agape",
+        "Dear Son An",
+        "Beg, Borrow, Steal",
+        "Primal",
+        "Sheep in the Box",
+        "Look Back"
+      ]
+    },
+    "keywords": [
+      "Ah Girl film",
+      "Singapore International Film Festival",
+      "Shahrbanoo Sadat No Good Men",
+      "Aamir Khan SGIFF"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/09/Ah-Girl.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Singapore International Film Festival Honors 'Ah Girl' and Shahrbanoo Sadat at Silver Screen Awards",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 15:00:00 +0000"
+  },
+  "13kgdgp": {
+    "id": "13kgdgp",
+    "type": "news",
+    "headline": "Deep Purple Frontman Ian Gillan Hospitalized Following Medical Emergency",
+    "dek": "The legendary rock singer experienced a sudden health crisis, forcing the band to scrap multiple upcoming European performances.",
+    "body": [
+      {
+        "h": "Sudden Medical Crisis",
+        "p": [
+          "Deep Purple lead vocalist Ian Gillan faced an unexpected health emergency that required immediate hospitalization. The sudden crisis compelled the veteran rock ensemble to call off two upcoming concert appearances on short notice, leaving concertgoers disappointed across the region.",
+          "The group issued an official statement to address the abrupt scheduling change, expressing profound regret over the cancelled events. Members emphasized that the choice to halt the performances was entirely due to their frontman's unforeseen medical situation."
+        ]
+      },
+      {
+        "h": "Affected Tour Dates and Rescheduling",
+        "p": [
+          "The cancellations affected a Saturday evening gig at the QI Arena in Leipzig, Germany, alongside a Sunday night performance slated for the Sporthalle in Hamburg. Organizers and band representatives confirmed that they are actively searching for suitable calendar openings to reschedule both missed stops.",
+          "Fans holding tickets for the interrupted tour stops were assured that all previously purchased admissions will remain fully valid for the eventual makeup dates. The group reiterated their appreciation for their supporters' patience and understanding during this challenging period."
+        ]
+      },
+      {
+        "h": "The SPLAT! World Tour",
+        "p": [
+          "The medical setback hits while the veteran rock outfit is actively journeying across the globe for their ongoing SPLAT! world tour. The extensive concert run kicked off in early August and features scheduled appearances stretching all the way through December.",
+          "Alongside Gillan, the current touring lineup features guitarist Simon McBride, bassist Roger Glover, drummer Ian Paice, and keyboardist Don Airey. The musicians have maintained a rigorous schedule on the road prior to this sudden interruption."
+        ]
+      },
+      {
+        "h": "Ian Gillan's Legacy with Deep Purple",
+        "p": [
+          "Ian Gillan has remained a defining voice of the British rock group for decades, having originally joined the formation in 1969. He stepped into the role after leaving his prior musical outfit, Episode Six, taking over frontman duties from original singer Rod Evans.",
+          "The band itself was originally formed in London in 1968, and Gillan's arrival helped propel them into legendary status within the hard rock genre. His powerful vocal delivery has anchored countless iconic tracks throughout the group's extensive history."
+        ]
+      },
+      {
+        "h": "Recent Health Struggles Among Band Alumni",
+        "p": [
+          "The news of Gillan's hospitalization coincides with health challenges faced by other figures associated with the band's rich history. Former bassist and co-lead vocalist Glenn Hughes recently stepped away from live performances to address serious medical concerns.",
+          "Hughes, who performed with the group during the 1970s, announced his retirement from onstage appearances due to upcoming heart surgery requirements. His departure highlighted the aging reality of classic rock veterans navigating intensive medical treatments."
+        ]
+      },
+      {
+        "h": "Glenn Hughes's Retirement Announcement",
+        "p": [
+          "Glenn Hughes shared his health update through a statement posted to Facebook, detailing the results of various medical evaluations including MRIs, CT scans, and echocardiograms. His medical team determined that an open-heart surgery procedure was unavoidable.",
+          "The former member noted that he had no alternative choice but to prioritize his health above all else. Hughes was previously inducted into the Rock and Roll Hall of Fame as a member of the group back in 2016."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Deep Purple singer Ian Gillan was hospitalized following a medical emergency, forcing the band to cancel upcoming shows in Leipzig and Hamburg. The group is currently working to reschedule the affected performances while keeping previously purchased tickets valid for fans."
+        ]
+      }
+    ],
+    "facts": [
+      "Ian Gillan is 81 years old.",
+      "Ian Gillan was hospitalized after a medical emergency.",
+      "Deep Purple canceled shows in Leipzig and Hamburg.",
+      "The band's tour is named SPLAT!",
+      "Ian Gillan joined Deep Purple in 1969.",
+      "Glenn Hughes is 75 years old.",
+      "Glenn Hughes announced his retirement from live performances to undergo open-heart surgery.",
+      "Glenn Hughes was inducted into the Rock and Roll Hall of Fame in 2016."
+    ],
+    "entities": {
+      "people": [
+        "Ian Gillan",
+        "Simon McBride",
+        "Roger Glover",
+        "Ian Paice",
+        "Don Airey",
+        "Rod Evans",
+        "Glenn Hughes"
+      ],
+      "titles": [
+        "Deep Purple"
+      ]
+    },
+    "keywords": [
+      "Ian Gillan hospitalized",
+      "Deep Purple tour cancellation",
+      "Ian Gillan medical emergency",
+      "Glenn Hughes heart surgery"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/147082286.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Deep Purple Frontman Ian Gillan Hospitalized Following Medical Emergency",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 11:05:44 -0400"
   }
 };
