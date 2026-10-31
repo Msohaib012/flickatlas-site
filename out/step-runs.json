@@ -4,16 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T19:58:54Z",
     "run_id": "41119564934",
     "status": "success",
@@ -791,19 +781,48 @@
      "detail": "360 stories, 1 duplicates removed, 15 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T15:51:47Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 321,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Bigg Boss 20 Weekend Ka Vaar Episode 56 Dailymotion: Salman Khan Slams Scout, Gullu For THIS Reason",
+      "Jailer 2 Tamil Nadu Box Office Collection Day 17 Prediction: Rajinikanth's Film Set To Cross ₹200 Crore",
+      "Hanuman Ansh Box Office Collection: Vishal Chaturvedi Makes History As India's Only Debut Director To Enter...",
+      "Bigg Boss 20: Did You Know Shoaib Ibrahim Is Qazi Paglu? He Says 'Qazi Touqeer Has Been Emotion Since...'",
+      "Bigg Boss 20 Weekend Ka Vaar (Ep 56) OTT Release Time Today: Salman BASHES Scout; When Will Sat Ep Premiere?",
+      "Jailer 2 Worldwide Box Office: Rajinikanth All Set To Deliver The First 800 Crore Club Opener Of Kollywood This Diwali?",
+      "Scene Trailer Review: Suriya’s quirkiness makes him perfect match for Naslen’s psych mode; Drops homage to Thalapathy Vijay",
+      "Decoding Economics of Drishyam The Conclusion: Ajay Devgn's franchise finale generates Rs. 150 Cr plus profits",
+      "Bigg Boss Tamil 10: Vijay Sethupathi returns to host weekend episode post recovery after Ramya Krishnan’s stint",
+      "Bigg Boss Malayalam 8 Promo: Mohanlal questions Rahul Easwar’s confidence over Rs 25 lakh bid; Asks him ‘Ready to come out?’",
+      "I’m Game OTT Release: When and where to watch Dulquer Salmaan’s fantasy action film online",
+      "Jailer 2 Box Office Creates History With ₹75+ Crore Gross in All Four South Markets Achieving What India's Biggest Blockbusters Couldn't",
+      "Richard Simmons’ Los Angeles home sells for $3.8 million after lengthy wait",
+      "Scene trailer: Suriya returns to crack a murder mystery, faces off against Naslen's psycho killer in crime thriller with a twist",
+      "Jennifer Lawrence Looked Back At Her Oscars Tripping Dress, And It’s Not The Volume She’s Unsure About",
+      "I’m In My Feelings As Criminal Minds: Evolution Stars Break Their Silence On The Show’s Cancellation",
+      "Ridley Scott’s $100M Sci-Fi Dud Officially Redeems Itself on Streaming",
+      "One of Anne Hathaway’s Best Performances Is Only 30 Minutes Long",
+      "Netflix’s New ‘Severance’ Replacement Is Officially Taking Over the World",
+      "James Cameron's Greatest 137-Minute Action Sci-Fi Sequel Officially Sets New Streaming Home"
+     ],
+     "updated": [],
+     "count": 303,
+     "detail": "312 stories, 1 duplicates removed, 9 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1238,19 +1257,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T15:59:33Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "The 2026 Daytime Emmy Awards Announce Full List of Winners",
+      "Suriya Returns to Crack a Murder Mystery in the New Trailer for Scene"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1648,19 +1678,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T15:59:33Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 116, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2086,19 +2124,26 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T15:59:35Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2480,19 +2525,27 @@
      "detail": "+0 new rows, 3 updated rows, 325 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T15:59:33Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 328,
+     "detail": "328 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 325 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2775,19 +2828,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:58:54Z",
-    "run_id": "41119564934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3426,19 +3479,34 @@
      "detail": "api-news.json 295 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T15:59:35Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 301,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "The 2026 Daytime Emmy Awards Announce Full List of Winners",
+      "Suriya Returns to Crack a Murder Mystery in the New Trailer for Scene",
+      "Khushi Episode 49 — Watch on HUM TV",
+      "Izzat Episode 42 — Watch on ARY Digital",
+      "Uswah Episode 39 — Watch on Geo TV",
+      "Dastoor Episode 71 — Watch on Green TV"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "api-news.json 301 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3682,19 +3750,36 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T15:59:20Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 24,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 13 new detected"
+    },
+    "changed": {
+     "added": [
+      "Khushi Ep 49",
+      "Izzat Ep 42",
+      "Uswah Ep 39",
+      "Dastoor Ep 71"
+     ],
+     "updated": [
+      "Uswah Ep 39",
+      "Khushi Ep 49",
+      "Dastoor Ep 71",
+      "Izzat Ep 42"
+     ],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3998,19 +4083,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4418,19 +4503,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T15:59:33Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 303 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 1/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 0/4, ott_streaming 4/4, trailers 2/3, awards 1/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "The 2026 Daytime Emmy Awards Announce Full List of Winners",
+      "Suriya Returns to Crack a Murder Mystery in the New Trailer for Scene"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4674,19 +4769,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4991,19 +5086,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 384,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5323,19 +5423,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5580,19 +5685,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5827,19 +5932,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6083,19 +6188,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6336,19 +6441,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6578,19 +6683,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T19:50:57Z",
-    "run_id": "41118520934",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6843,6 +6948,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T15:59:43Z",
+    "run_id": "41216760269",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6887,5 +7002,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T14:52:02Z"
+ "updated_at": "2026-10-31T15:59:43Z"
 }

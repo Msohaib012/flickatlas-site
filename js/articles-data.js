@@ -26569,5 +26569,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 19:10:34 +0530"
+  },
+  "vxtyqx": {
+    "id": "vxtyqx",
+    "type": "news",
+    "headline": "Khushi Episode 49 — Watch on HUM TV",
+    "dek": "Khushi episode 49 aired on 2026-10-31 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 49 aired on 2026-10-31 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=ToMdpQ7yrtI"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Amna apne chacha se milne ke liye unke ghar jaati hai, jahan Ammar aur baki ghar wale use pehle toh dekh kar hairan aur gusse mein aate hain. Amna ke chacha uski aamad se naraz hokar use jaane ko kehte hain, kyunke unhe lagta hai ke ab Amna ka unse koi rishta nahi raha. Ammar aur Amna wahan se chale jaate hain. Iske baad, Amna ki maa aur ghar wale pareshan hote hain ke Amna chupke se wahan kyun gayi. Dusri taraf, Amna aur Laiba mall mein waqt guzarti hain, aur Amna apne phone ka number off rakhti hai taqreeb sabko pareshan karne ke liye. Jab Amna waqt par ghar nahi pahunchti, toh sabhi ghar wale uski fikar mein par jaate hain aur use call karne ki koshish karte hain, magar phone off milta hai. Aakhir mein, sab log pareshani ke aalam mein jama hote hain, aur dar is baat ka hota hai ke kahin Amna ke sath koi anhooni na ho gayi ho, kyunke shehar ke halat kharab hain. Episode ka ikhtitam is pareshani aur khauf par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 49 aired on 2026-10-31.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=ToMdpQ7yrtI",
+      "YouTube views: 164,505.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ToMdpQ7yrtI/hqdefault.jpg",
+        "caption": "Khushi Episode 49",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-31T15:00:36Z"
+  },
+  "1irgut9": {
+    "id": "1irgut9",
+    "type": "news",
+    "headline": "Izzat Episode 42 — Watch on ARY Digital",
+    "dek": "Izzat episode 42 aired on 2026-10-31 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 42 aired on 2026-10-31 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=L_8Yxdt89VQ"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Anus Ghar aata hai jahan family baithi hoti hai aur sab aam aur brownies kha rahe hote hain. Anus aur Rania ki thodi gup-shup aur halki phulki nok-jhok hoti hai. Dusri taraf, Tayyab aur Anas ki terrace par behas hoti hai jahan Tayyab Anas ko daant’ta hai ke usnedrugs ke mamlay mein kyun hissa liya aur woh bacho ki zindagi barbad karne ki wajah se naraz hota hai. Anas apni ghalti manta hai aur kehta hai ke woh is mushkil se nikalne ki koshish kar raha hai.\n\nFamily gathering ke dauran Mohsin aur Rania ki baatein hoti hain aur sab khushi se waqt guzaarte hain. Anas baad mein ghar ja kar pareshan hota hai aur wahan aik snow globe dekh kar purani yaadon mein kho jata hai jahan Rania ke sath uska sagaai ka waqt yaad aata hai. Anas pareshani mein pistol nikal kar dekhta hai.\n\nBaad mein Anas ek medical store par jata hai jahan aik shakhs ki baat sun kar uske zehan mein khayal aata hai. Anas ghar wapas aata hai aur Rania ke kamre mein ja kar us se baat karta hai. Rania Anas se poochti hai ke itni raat ko kyun aaya hai. Anas apni ghalti ka aytaraf karta hai aur kehta hai ke usne jo kiya woh ghalt tha aur usko maaf kar de, aur woh apni ghaltiyan sudhaarne ki koshish kar raha hai. Episode ishi conversation aur emotional scene par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 42 aired on 2026-10-31.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=L_8Yxdt89VQ",
+      "YouTube views: 3,203.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/L_8Yxdt89VQ/hqdefault.jpg",
+        "caption": "Izzat Episode 42",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-31T15:00:28Z"
+  },
+  "1l3waev": {
+    "id": "1l3waev",
+    "type": "news",
+    "headline": "Uswah Episode 39 — Watch on Geo TV",
+    "dek": "Uswah episode 39 aired on 2026-10-31 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 39 aired on 2026-10-31 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=y8H72MOzo2g"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah apne abba se milti hai jo usey samjhate hain ke shadi ke rishton mein utaar-chadhaw aate hain lekin unhe torhna nahi chahiye aur woh usey apne ghar mein khush dekhna chahte hain. Uswah jab apne kamre mein aati hai toh woh pareshan hoti hai ke Eesaa ki family ke liye unka ghar pehle hi ek dafa toot chuka hai aur woh Anaya ko aur mushkil mein nahi dekhna chahti. Eesaa aur Fariya ki guftagu mein Fariya Eesaa ko yeh batati hai ke Uswah ki pareshani ki wajah ye hai ke Eesaa ki chhoti behan Anaya ki shadi Eesaa ke cousin Mahabir se honay ja rahi hai aur Uswah is rishte se khush nahi hai kyunke Mahabir ka aiyyaash rawaiya hai. Jab Uswah wapas apne ghar jaati hai toh wahan Eesaa, Anaya aur uski walida sab mojood hotay hain aur jab Anaya ki shadi ka zikr hota hai toh Uswah khamosh rehti hai. Eesaa ko jab yeh haqeeqat pata chalti hai toh woh gusse mein ghar se chala jata hai aur Fariya ke kehne par wapas aakar Uswah ko manane ki koshish karta hai, lekin Uswah chup chaap baithi rehti hai. Episode ka ikhtitam is manzar par hota hai ke Eesaa car mein baith kar soch mein doob jata hai jabke Uswah darwaaze par khari hoti hai aur dono ke darmiyan duriyan mazeed barh jati hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 39 aired on 2026-10-31.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=y8H72MOzo2g",
+      "YouTube views: 454,104.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/y8H72MOzo2g/hqdefault.jpg",
+        "caption": "Uswah Episode 39",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-31T15:00:07Z"
+  },
+  "1a99afz": {
+    "id": "1a99afz",
+    "type": "news",
+    "headline": "Dastoor Episode 71 — Watch on Green TV",
+    "dek": "Dastoor episode 71 aired on 2026-10-31 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 71 aired on 2026-10-31 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=kGw4J7XMxzU"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Aryan ko apni biwi Ammara par shaq hone lagta hai kyunke woh usay restaurant mein ek lawyer ke sath dekhta hai. Yeh baat woh apne ghar walon ko batata hai, aur Dad ghusse mein aakar Ammara ko wapas bulane aur apni saari jaayedad uske naam karne ki baat karte hain. Dad chahte hain ke Ammara ko saza di jaye, lekin Aryan kehta hai ke woh usey talaq nahi de sakta. Doosri taraf, Shiza ki maano se baat hoti hai jahan woh Ammara aur Aryan ke rishtay aur unke ghar ke masail par baat karte hain. Episode ke ek ahem scene mein Aryan phone par Alina se poohta hai ke kya woh usse shadi karegi. Alina is sawal se hairan hoti hai aur jawab dene mein waqt maangti hai, jabke yeh sab sun kar Ammara chup chap yeh sab dekh rahi hoti hai. Episode ka ikhtetam isi tension aur Alina ke faisle ke intzaar par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 71 aired on 2026-10-31.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=kGw4J7XMxzU",
+      "YouTube views: 71,865.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/kGw4J7XMxzU/hqdefault.jpg",
+        "caption": "Dastoor Episode 71",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-10-31T14:45:06Z"
+  },
+  "3i3m7": {
+    "id": "3i3m7",
+    "type": "news",
+    "headline": "The 2026 Daytime Emmy Awards Announce Full List of Winners",
+    "dek": "The daytime television community gathered at the Hollywood Palladium in Los Angeles to celebrate the finest achievements in soap operas, talk shows, and non-fiction programming.",
+    "body": [
+      {
+        "h": "Setting the Stage in Los Angeles",
+        "p": [
+          "The entertainment industry turned its attention toward the West Coast as the annual celebration of daytime television officially got underway. The glittering ceremony took place on Friday evening at the Hollywood Palladium located in Los Angeles.",
+          "Excitement was palpable among industry professionals and fans alike, especially given the fierce competition leading up to the big night across numerous categories spanning daytime drama, talk programming, and culinary arts."
+        ]
+      },
+      {
+        "h": "Top Contenders Entering the Night",
+        "p": [
+          "Heading into the ceremony, anticipation reached fever pitch as major soap operas dominated the nomination tallies. Leading the pack of contenders was The Young and the Restless, pulling in an impressive 18 nominations.",
+          "Hot on its heels were fellow daytime dramas Beyond the Gates, which secured 16 nods, and General Hospital, entering the evening with a strong total of 13 nominations."
+        ]
+      },
+      {
+        "h": "Honoring Outstanding Daytime Dramas",
+        "p": [
+          "The competition for the highest accolades in scripted daytime television was intense. Nominees in the premier drama category included Beyond the Gates, Days of Our Lives, The Young and the Restless, and General Hospital.",
+          "When the envelope was finally opened, General Hospital emerged triumphant, taking home the coveted prize for Outstanding Daytime Drama Series."
+        ]
+      },
+      {
+        "h": "Excellence in Acting Performances",
+        "p": [
+          "Performers across various daytime serials received recognition for their compelling dramatic work throughout the year. In the leading categories, Tamara Tunie earned the win for Outstanding Lead Actress in a Daytime Drama Series for her stellar work on Beyond the Gates.",
+          "Meanwhile, Scott Clifton captured the trophy for Outstanding Lead Actor in a Daytime Drama Series for his performance in The Bold and the Beautiful. Additional acting categories highlighted standout supporting turns and emerging fresh faces in the genre."
+        ]
+      },
+      {
+        "h": "Celebrating Talk Shows and Entertainment News",
+        "p": [
+          "Daytime talk and entertainment journalism also took center stage during the evening's festivities. The Kelly Clarkson Show triumphed in the competitive category for Outstanding Daytime Talk Series, beating out several notable daytime programs.",
+          "In the realm of entertainment news reporting, Entertainment Tonight claimed victory as the top entertainment news series, showcasing its ongoing dominance in covering Hollywood happenings."
+        ]
+      },
+      {
+        "h": "Culinary, Lifestyle, and Non-Fiction Wins",
+        "p": [
+          "Non-fiction and culinary programming received substantial praise, reflecting the diverse landscape of daytime viewing. Be My Guest with Ina Garten captured the win for Outstanding Culinary Instructional Series, while Lucky Chow was honored in the cultural culinary category.",
+          "Other notable victors included Justice For The People with Judge Milian for courtroom programming, and A Different Breed, which secured multiple mentions across lifestyle and editing fields."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Craft Achievements",
+        "p": [
+          "The ceremony also shined a light on the crucial creative and technical teams working behind the scenes to bring daily television to life. General Hospital took home the award for the writing team in a daytime drama series.",
+          "Additionally, technical excellence was celebrated with awards going to programs like Macy’s Thanksgiving Day Parade for live sound mixing and video production, and Beyond the Gates for lighting direction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2026 Daytime Emmy Awards took place on Friday evening at the Hollywood Palladium in Los Angeles, honoring the best in soap operas, talk shows, and food programming. Leading nominees like The Young and the Restless and Beyond the Gates faced fierce competition before major winners like General Hospital and The Kelly Clarkson Show were ultimately announced."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 Daytime Emmy Awards took place on Friday evening, October 30, 2026.",
+      "The ceremony was held at the Hollywood Palladium in Los Angeles.",
+      "The Young and the Restless led nominees with 18 nods.",
+      "Beyond the Gates received 16 nominations.",
+      "General Hospital entered the night with 13 nominations and won Outstanding Daytime Drama Series."
+    ],
+    "entities": {
+      "people": [
+        "Tamara Tunie",
+        "Scott Clifton",
+        "Ina Garten",
+        "Kelly Clarkson"
+      ],
+      "titles": [
+        "The Young and the Restless",
+        "Beyond the Gates",
+        "General Hospital",
+        "The Kelly Clarkson Show",
+        "The Bold and the Beautiful",
+        "Entertainment Tonight",
+        "Be My Guest with Ina Garten",
+        "Lucky Chow",
+        "Justice For The People with Judge Milian",
+        "A Different Breed",
+        "Macy's Thanksgiving Day Parade"
+      ]
+    },
+    "keywords": [
+      "Daytime Emmy Awards 2026",
+      "General Hospital",
+      "The Young and the Restless",
+      "The Kelly Clarkson Show",
+      "Beyond the Gates"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/10/daytime-emmys-winners.jpg",
+        "caption": "The 2026 Daytime Emmy Awards Announce Full List of Winners",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 14:15:00 +0000"
+  },
+  "r3bnyg": {
+    "id": "r3bnyg",
+    "type": "news",
+    "headline": "Suriya Returns to Crack a Murder Mystery in the New Trailer for Scene",
+    "dek": "The official trailer for Scene has dropped, showcasing a tense cat-and-mouse chase between Suriya's DSP Inbaraaj and Naslen's cold-blooded killer ahead of its theatrical release.",
+    "body": [
+      {
+        "h": "The Arrival of the Scene Trailer",
+        "p": [
+          "The official trailer for the upcoming crime thriller Scene has officially been released, generating substantial excitement among fans and film enthusiasts alike. Positioned for a festive Diwali release window, the preview provides a clear look at the intense tone, high-stakes conflict, and overall narrative direction of the project.",
+          "Expectation surrounding the title had steadily mounted prior to the footage launch, with audiences eager to see how the principal cast and crew would handle the genre. The newly released trailer successfully highlights the central confrontation while offering glimpses into the supporting characters and stylistic choices."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "In the film, actor Suriya steps into the role of DSP Inbaraaj, a law enforcement officer who is initially reluctant to return to duty and humorously contemplates quitting to enter politics. However, his perspective shifts rapidly when he is assigned to an urgent and deeply concerning case involving a ruthless psycho killer.",
+          "Opposing him is Naslen, who plays the antagonist named Eeshwaran. Described as cold, calculative, and entirely devoid of mercy, Eeshwaran engages in a direct duel of wits with the police force, transforming the narrative into a tense cat-and-mouse game across various locations."
+        ]
+      },
+      {
+        "h": "Key Supporting Performances and Action",
+        "p": [
+          "Alongside the two male leads, the trailer establishes Nazriya Nazim in a pivotal, action-oriented role as Maaya. Throughout the footage, her character is shown taking direct charge and participating actively in the unfolding sequences, adding another layer of dynamism to the investigation.",
+          "The interplay between Inbaraaj, Eeshwaran, and Maaya forms the core of the promotional material, suggesting that the narrative will balance traditional investigative procedures with high-energy physical confrontations and unexpected narrative turns."
+        ]
+      },
+      {
+        "h": "Creative Leadership Behind the Camera",
+        "p": [
+          "The film is written and directed by Jithu Madhavan, whose previous directorial venture was the 2024 blockbuster Aavesham, starring Fahadh Faasil. That earlier project opened to positive responses and emerged as a major commercial success at the box office.",
+          "Building on that prior experience, Madhavan brings his signature style to Scene, promising audiences a murder mystery infused with trademark humour, complex character motivations, and plenty of twists and turns."
+        ]
+      },
+      {
+        "h": "Suriya's Busy Release Year",
+        "p": [
+          "Scene marks Suriya's third cinematic release of the year, following the earlier arrival of Karuppu and Vishwanath and Sons, both of which performed strongly and established themselves as major hits of the period. This consistent output highlights a particularly active and successful theatrical run for the actor.",
+          "Earlier in the year, Karuppu featured Suriya as a guardian deity named Karuppusamy who assumes human form after a challenge from a corrupt lawyer named Baby Kannan, played by Balaji. That film also starred Trisha Krishnan as a lawyer named Preethi and was directed by RJ Balaji."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "Fans will not have to wait long to see the complete narrative unfold, as Scene is scheduled to arrive in movie theaters on November 6. The timing coincides with the festive holiday season, positioning the film to capture strong audience turnout during the celebratory period.",
+          "With anticipation running high following the promotional campaign, the feature aims to continue the actor's string of successful theatrical releases for the year under the direction of Jithu Madhavan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for the upcoming crime thriller Scene has been released, highlighting a tense face-off between Suriya's character DSP Inbaraaj and Naslen's antagonist Eeshwaran. Directed by Jithu Madhavan and co-starring Nazriya Nazim, the film is scheduled to open in theatres on November 6 following Suriya's earlier successful releases Karuppu and Vishwanath and Sons."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene releases in theatres on November 6.",
+      "Suriya plays DSP Inbaraaj in Scene.",
+      "Naslen plays the antagonist Eeshwaran in Scene.",
+      "Nazriya Nazim plays Maaya in Scene.",
+      "Jithu Madhavan wrote and directed Scene.",
+      "Jithu Madhavan directed Aavesham in 2024.",
+      "Karuppu and Vishwanath and Sons are Suriya's other releases of the year."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Nazriya Nazim",
+        "Jithu Madhavan",
+        "Fahadh Faasil",
+        "Balaji",
+        "Trisha Krishnan",
+        "RJ Balaji"
+      ],
+      "titles": [
+        "Scene",
+        "Aavesham",
+        "Karuppu",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene trailer",
+      "Suriya Scene film",
+      "Naslen psycho killer",
+      "Jithu Madhavan new movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/10/31/1600x900/logo/scene_suriya_1793458695796_tQFC_1793458696079_dMZs_16b2c82e-0bbe-47b0-a3ca-15026f5f78c2_LQJ9.jpg",
+        "caption": "Suriya Returns to Crack a Murder Mystery in the New Trailer for Scene",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 20:51:47 +0530"
   }
 };
