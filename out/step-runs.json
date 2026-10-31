@@ -4,16 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T20:59:29Z",
     "run_id": "41127482775",
     "status": "success",
@@ -849,19 +839,48 @@
      "detail": "303 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T17:51:37Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 357,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "EXCLUSIVE: From Deepika Padukone To OTT, Nupoor Mohan On How Celebs Are Changing Mental Health Conversations",
+      "The Great Indian Kapil Show 5 Episode 6: How To Download Shahid-Mira's Diwali Epi For Offline Viewing?",
+      "Scene Trailer Out as Suriya Eyes ₹800 Crore Worldwide in 2026 After ₹513 Crore Box Office Comeback",
+      "Pony on marrying Prakash despite 12-year age gap, bonding with his daughters",
+      "Quote of the day by Angelina Jolie",
+      "Ellen DeGeneres shares fitness goal, works towards her first pull-up at 68",
+      "Jailer 2 box office collection day 17: Rajinikanth film picks up pace in third weekend, crosses  ₹442 crore",
+      "Heartbroken Hrithik Roshan remembers director Sanjay Gupta in moving tribute, thanks him for the best experience during the making of Kaabil",
+      "Carmen Electra Went Full Catwoman For Halloween (But I Didn't See Kat Dennings As A Carrot Coming)",
+      "Go Ahead And Let Down Your Hair, Because Tangled Live Action Has Wrapped!",
+      "I Just Watched The Most Unique TV Series About Depression I've Ever Seen. Here's Why",
+      "Harry Potter’s Snape Actor Paapa Essiedu Shares A Refreshing Take On The Backlash He’s Faced",
+      "I Was Happy To See Dr. Cox Back On Scrubs This Week, But I Have To Talk About That Dark Turn",
+      "Zendaya Channeled Halle Berry So Well For Halloween...I Thought She Was Halle Berry For A Second",
+      "10 Thrilling Miniseries That Don't Slow Down for a Single Episode",
+      "Ethan Hawke's Acclaimed Religious Thriller Officially Moves to Free Streaming",
+      "The 8 Most Thrilling Action Movies in Film History",
+      "Every 'Chronicles of Narnia' Book Hero, Ranked",
+      "10 'Lost' Plotlines That Were Completely Abandoned",
+      "HBO Max's New 'Lincoln Lawyer' Replacement Is Officially Conquering Streaming"
+     ],
+     "updated": [],
+     "count": 334,
+     "detail": "343 stories, 0 duplicates removed, 14 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:59:29Z",
-    "run_id": "41127482775",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1318,19 +1337,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T18:00:24Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
+      "Dark Matter Season 2 Finale Explored By Creator Blake Crouch"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T21:41:32Z",
-    "run_id": "41132851605",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1744,19 +1774,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T18:00:24Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 116, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T20:59:29Z",
-    "run_id": "41127482775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2196,19 +2234,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T18:01:47Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2606,19 +2651,27 @@
      "detail": "+0 new rows, 8 updated rows, 320 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T18:01:45Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 328,
+     "detail": "328 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 317 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2901,19 +2954,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:59:29Z",
-    "run_id": "41127482775",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3578,19 +3631,35 @@
      "detail": "api-news.json 303 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T18:01:46Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 310,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
+      "Dark Matter Season 2 Finale Explored By Creator Blake Crouch",
+      "Zehar-e-Mohabbat Episode 21 — Watch on HUM TV",
+      "Bano Episode 19 — Watch on Geo TV",
+      "Nashtar Episode 26 — Watch on Geo TV",
+      "Dar-E-Nijaat Episode 27 — Watch on ARY Digital",
+      "Aangan Episode 10 — Watch on HUM TV"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "api-news.json 310 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3851,19 +3920,38 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T18:00:07Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 10 new detected"
+    },
+    "changed": {
+     "added": [
+      "Zehar-e-Mohabbat Ep 21",
+      "Bano Ep 19",
+      "Nashtar Ep 26",
+      "Dar-E-Nijaat Ep 27",
+      "Aangan Ep 10"
+     ],
+     "updated": [
+      "Nashtar Ep 26",
+      "Dar-E-Nijaat Ep 27",
+      "Bano Ep 19",
+      "Aangan Ep 10",
+      "Zehar-e-Mohabbat Ep 21"
+     ],
+     "count": 10
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4167,19 +4255,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4607,19 +4695,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T18:00:23Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 334 still unprocessed; today by category: movies 6/6, tv_dramas 4/4, episodes 1/2, box_office 6/6, celebrities_events 9/5, upcoming_releases 0/4, ott_streaming 4/4, trailers 2/3, awards 2/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
+      "Dark Matter Season 2 Finale Explored By Creator Blake Crouch"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4863,19 +4961,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5190,19 +5288,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 438,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5532,19 +5635,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 19,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5789,19 +5897,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6036,19 +6144,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6292,19 +6400,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6545,19 +6653,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6787,19 +6895,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T20:50:57Z",
-    "run_id": "41126385761",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7052,6 +7160,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T18:01:55Z",
+    "run_id": "41226470561",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7096,5 +7214,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T16:56:44Z"
+ "updated_at": "2026-10-31T18:01:55Z"
 }

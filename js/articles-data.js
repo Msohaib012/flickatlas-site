@@ -27183,5 +27183,443 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 11:05:44 -0400"
+  },
+  "1bc6fsb": {
+    "id": "1bc6fsb",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 21 — Watch on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 21 aired on 2026-10-31 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 21 aired on 2026-10-31 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=GObuxjzWofU"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zoha apnay dada ki maut ka badla lene aur Waqar ko uskay anjaam tak pohchane ke liye koshish kar rahi hai, jabke Waqar ko qatal ke ilzam mein jail ho jati hai aur uski maan uski rihai ke liye wakil se milti hai. Arham aur Zoha ke rishtay mein mohabbat aur qareebiyan barhti hain, halanki Zoha ko Waqar ke jhoot aur fakes ka sach maloom ho jata hai. Waqar jail mein police ki sakht poochtach ka samna karta hai aur apni bewafai aur jurm ko qubool nahi karta.\n\nEpisode ke ek aur scene mein, Malika aur Arham ki mulaqat hoti hai, jahan woh apnay puranay riste aur dosti ko yaad karte hain aur Arham usay coffee pe le jata hai. Zoha ye sab dekh kar pareshan hoti hai aur apnay dukh ko chupane ki koshish karti hai. Aakhir mein, Arham Zoha ke paas phool aur cake lekar aata hai aur unka khubsurat waqt gujarta hai, jabke Zoha thora beemar mehsoos karti hai aur Arham uski dekhbhal karta hai. Episode ka end ek khushgawar note par hota hai jahan dono apnay rishtay ko mazeed mazboot karte hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 21 aired on 2026-10-31.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=GObuxjzWofU",
+      "YouTube views: 23,157.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/GObuxjzWofU/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 21",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-31T17:00:22Z"
+  },
+  "1i4poor": {
+    "id": "1i4poor",
+    "type": "news",
+    "headline": "Bano Episode 19 — Watch on Geo TV",
+    "dek": "Bano episode 19 aired on 2026-10-31 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 19 aired on 2026-10-31 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=z0yA0Kl9axA"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Mehru aur Shehryar ke darmiyan behtar tanaaza dikhaya gaya hai jab Shehryar Bano ki behoshi aur halat par gussa karta hai. Bano ko hospital mein admit kiya jata hai jahan doctor uski halat aur treatment ke baare mein baat karte hain. Mehru ki family, khaas taur par uski walida, is baat se pareshaan hain ke agar Bano ko hosh aaya aur sach saamne aaya toh Shehryar aur unki family ke liye mushkilat khadi ho sakti hain. Shehryar Bano ke paas hospital mein baith kar uske jaldi hosh mein aane aur sach bolne ki ummeed karta hai. Episode ke aakhir mein Bano ko hosh aa jata hai jab Shehryar uske paas hota hai aur yeh episode yahin par ahem mod par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 19 aired on 2026-10-31.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=z0yA0Kl9axA",
+      "YouTube views: 251,145.",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/z0yA0Kl9axA/hqdefault.jpg",
+        "caption": "Bano Episode 19",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-31T17:00:11Z"
+  },
+  "xb5dol": {
+    "id": "xb5dol",
+    "type": "news",
+    "headline": "Nashtar Episode 26 — Watch on Geo TV",
+    "dek": "Nashtar episode 26 aired on 2026-10-31 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 26 aired on 2026-10-31 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=L2tPE6S80qI"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Barira hospital mein apne baap se milti hai, jahan woh apne baap ko sach batati hai ke woh wapas aa gayi hai aur Daud ne uske saath koi nuksan nahi kiya balkay usne uski dekhbhaal ki hai. Baap apni sehat aur beti ke wapas aane par khush hota hai aur unke darmiyan purane waqt ki baatein hoti hain.\n\nIdhar ghar mein Rafe aur uski ammi ke darmiyan bahas hoti hai jab Rafe ko pata chalta hai ke me-wo-e-jaz uncle ko heart attack aaya tha aur Bareera ghar wapas aa chuki hai. Rafe apni ammi par gussa karta hai ke unhone use andhere mein rakha kyunki woh jaanta tha ke Bareera zinda hai. Ammi aur Rafe ki bahas ke dauran Bareera ghar aati hai. Ammi Bareera se sawal karti hain ke woh Shah Daud ke nikah mein hone ke bawajood wapas kyun aayi aur is shaadi ko nahi badla ja sakta. Rafe kehta hai ke woh Bareera ko kisi aur ke saath nahi hone dega.\n\nDosri taraf, Daud aur Tamsil ke darmiyan dinner table par guftagu hoti hai jahan Tamsil Daud ko khana khilane ki koshish karti hai lekin Daud khane se inkar kar deta hai aur Tamsil ko yaad dilata hai ke uska rishta aur wajood Daud ke liye kya maani rakhta hai. Daud Tamsil ko samjhata hai ke aik larki ke liye uski izzat sab se ahem hoti hai aur Tamsil ko apni aukaat aur jazbaat par ghaur karna chahiye.\n\nBaad mein, hospital mein baap Bareera ko ghar jane ko kehta hai kyunki uski tabiyat ab behtar hai. Bareera ghar wapas jaati hai jahan ammi aur baap ke saath uski baatein hoti hain. Episode ke akhir mein Rafe aur Bareera ki road par mulaqat hoti hai jahan Rafe bike par hota hai aur Bareera car mein. Rafe Bareera se puchta hai ke kya wohi larki hai jiski shaadi hone wali thi, aur unke darmiyan guftagu ke saath episode ka ikhtetam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 26 aired on 2026-10-31.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=L2tPE6S80qI",
+      "YouTube views: 750,825.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/L2tPE6S80qI/hqdefault.jpg",
+        "caption": "Nashtar Episode 26",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-10-31T16:10:32Z"
+  },
+  "gnyxr1": {
+    "id": "gnyxr1",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 27 — Watch on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 27 aired on 2026-10-31 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 27 aired on 2026-10-31 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=8pt_ru3Y-K8"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zaryab doctor ke paas apni pregnancy checkup ke liye jaati hai aur doctor usko zyadatar ahtiyat ki saloh deta hai aur uske husband ko bhi aane ke liye kehta hai. Hospital mein Zaryab ki mulaqat Nafisa aur Zamil ki biwi se hoti hai jo Zaryab ko dekh kar pareshan hoti hain. Jab Zaryab ghar wapas aati hai toh uski saas usse gusse mein poochti hai ke woh kahan gayi thi, aur Zaryab ki tabiyat kharab ho jaati hai. Woh behtar mehsoos karne ke liye bistar par let jati hai aur Zamil ki yaad mein rote hue bechain hoti hai. Zaryab ki saas aur susar aapas mein baat karte hain ke Zamil ki wajah se unhe kitni takleef ho rahi hai aur woh Zaryab ke liye pareshan hain. Baad mein, Zamil aur Nafisa ghar aate hain aur Zaryab ki tabiyat ko dekh kar pareshan hote hain. Zaryab, Zamil se poochti hai ke kya usne kabhi kisi se pyar kiya hai aur agar usko yeh poochne ki azaadi nahi hai toh woh is baare mein kya sochegi. Episode is emotional aur tense moment par khatam hota hai jahan Zaryab aur Zamil ke beech yeh guftagu chal rahi hoti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 27 aired on 2026-10-31.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=8pt_ru3Y-K8",
+      "YouTube views: 667,377.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/8pt_ru3Y-K8/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 27",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-10-31T16:00:25Z"
+  },
+  "dshhrf": {
+    "id": "dshhrf",
+    "type": "news",
+    "headline": "Aangan Episode 10 — Watch on HUM TV",
+    "dek": "Aangan episode 10 aired on 2026-10-31 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 10 aired on 2026-10-31 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=g6yRDFUaTcM"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Kusum ki mot ki khabar phailti hai, jis se poore ghar mein matam aur dukh ka mahol ban jata hai. Sajjad ki shadi ki taiyariyan radd ho jati hain kyunke sabhi is sadme se guzar rahe hain. Safdar aur baqi ghar wale is gham mein doob jate hain, aur subh ki roshni mein sab white libas pehan kar gham ka izhar karte hain. Sajjad apnay kamre mein akela baith kar r rota hai aur Kusum ki yaad mein khoya rehta hai. Is sadme ke bawujud, ghar walon ko aagay ki zindagi ke faislay karne hain, lekin gham ki fiza qaim rehti hai. Episode ka ikhtitam is ghamgeen manzar par hota hai jahan sabhi kirdar Kusum ke khone ke gham mein akelepan aur khamoshi ka samna kar rahe hote hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 10 aired on 2026-10-31.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=g6yRDFUaTcM",
+      "YouTube views: 84,016.",
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-10-31."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/g6yRDFUaTcM/hqdefault.jpg",
+        "caption": "Aangan Episode 10",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-10-31T16:00:03Z"
+  },
+  "14wogjt": {
+    "id": "14wogjt",
+    "type": "news",
+    "headline": "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
+    "dek": "A celebratory gathering hosted by social media influencer Muhammad Ansar Jatt turned deadly in Sialkot, resulting in one fatality and multiple injuries after stadium gates were opened prematurely.",
+    "body": [
+      {
+        "h": "Incident at Faraz Cricket Ground",
+        "p": [
+          "A festive mehndi ceremony and prize-distribution event hosted by well-known social media influencer Muhammad Ansar Jatt took a disastrous turn in Sialkot. The gathering, organized for the popular internet personality often recognized as Mr Pattlo, was scheduled to take place at the Faraz Cricket Ground located on Daska Road.",
+          "Authorities reported that thousands of attendees had turned up for the high-profile public function, leading to massive overcrowding outside the venue's entry points."
+        ]
+      },
+      {
+        "h": "Fatal Stampede and Casualties",
+        "p": [
+          "The situation deteriorated rapidly when event organizers unlocked the stadium gates ahead of schedule to let the waiting crowds inside. The sudden rush triggered an intense stampede, causing numerous attendees to lose their footing and get trampled on the ground.",
+          "Emergency services confirmed that 30-year-old Muhammad Aqeel suffered critical injuries during the crush and tragically passed away while being rushed to the medical facility. Initial reports from police and rescue services indicated that at least 14 people sustained injuries in total."
+        ]
+      },
+      {
+        "h": "Discrepancy in Injury Figures",
+        "p": [
+          "While official rescue organizations documented over 13 to 14 formal injuries, local residents offered a vastly different perspective on the scale of the accident. Local witnesses Muhammad Asif and Aamir Ali claimed that upwards of 40 individuals were actually hurt during the chaos.",
+          "They explained that prior to the arrival of professional rescue vehicles, many attendees had already transported wounded victims independently to nearby private clinics and hospitals for immediate medical attention."
+        ]
+      },
+      {
+        "h": "Demographics of the Affected",
+        "p": [
+          "According to comprehensive data released by Rescue 1122, the injured attendees were adult males ranging between 22 and 51 years of age. These individuals had traveled from a wide variety of different districts to attend the public gathering.",
+          "The affected visitors hailed from regions including Narowal, Gujranwala, Sheikhupura, Khanewal, Okara, Sialkot, Gujrat, and Bahawalpur, highlighting the broad geographic reach of the TikToker's fanbase."
+        ]
+      },
+      {
+        "h": "Emergency Response Operations",
+        "p": [
+          "Rescue 1122 deployed four ambulances alongside a single motorcycle ambulance to manage the emergency situation at the cricket ground. The injured were swiftly transported to the Allama Iqbal Memorial Teaching Hospital for urgent medical evaluation.",
+          "Hospital staff noted that the majority of the victims were discharged shortly after receiving necessary first aid, whereas a small number remained admitted for continued observation and medical care."
+        ]
+      },
+      {
+        "h": "Police Intervention and Security",
+        "p": [
+          "Following the tragedy, Sialkot District Police Officer (DPO) Dost Muhammad arrived at the scene accompanied by a large contingent of police officers and the Elite Force. Operating under the DPO's direct instructions, law enforcement took full control of security parameters to stabilize the crowd.",
+          "The police intervention ensured that ongoing rescue operations could proceed without further disruption or obstruction from the remaining assembly of spectators."
+        ]
+      },
+      {
+        "h": "Official Scrutiny and Lack of Notice",
+        "p": [
+          "Sialkot District Emergency Officer Engineer Naveed Iqbal revealed that the rescue service had never been notified in advance regarding the massive public gathering planned at the sports venue. DPO Muhammad strongly criticized the event organizers for opening the gates prematurely without adequate crowd control measures.",
+          "The DPO emphasized that while granting event permissions falls under the district administration, the safety of citizens remains a primary objective. Authorities confirmed that all circumstances surrounding the incident will be thoroughly investigated to determine appropriate legal repercussions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A stampede at a Sialkot mehndi ceremony hosted by TikTok influencer Muhammad Ansar Jatt resulted in one death and multiple injuries after gates were opened early. Local authorities and rescue services responded to the disaster, transporting victims to the hospital while launching an investigation into the organizers' failure to notify officials."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of incident: October 30, 2026",
+      "Location: Faraz Cricket Ground, Daska Road, Sialkot",
+      "Host: Muhammad Ansar Jatt (Mr Pattlo)",
+      "Fatality: 30-year-old Muhammad Aqeel",
+      "Injuries: Over 13 injured (official initial count of 14)",
+      "Key officials: Sialkot DPO Dost Muhammad, District Emergency Officer Engineer Naveed Iqbal"
+    ],
+    "entities": {
+      "people": [
+        "Muhammad Ansar Jatt",
+        "Muhammad Aqeel",
+        "Muhammad Asif",
+        "Aamir Ali",
+        "Naveed Iqbal",
+        "Dost Muhammad",
+        "Awais Mushtaq"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Muhammad Ansar Jatt",
+      "Sialkot mehndi stampede",
+      "Mr Pattlo event Sialkot",
+      "Faraz Cricket Ground stampede"
+    ],
+    "images": [
+      {
+        "url": "https://i.dawn.com/large/2026/10/312131050acce12.webp",
+        "caption": "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
+        "source": "Dawn — Images/ICON"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 22:42:33 +0500"
+  },
+  "25fyld": {
+    "id": "25fyld",
+    "type": "news",
+    "headline": "Dark Matter Season 2 Finale Explored By Creator Blake Crouch",
+    "dek": "Series creator Blake Crouch dives into the major character death, the mind-bending multiverse mechanics, and the shocking cliffhanger that concluded the second season.",
+    "body": [
+      {
+        "h": "The Season 2 Finale Shocker",
+        "p": [
+          "The conclusion of the second season of Dark Matter delivered major twists that fundamentally altered the trajectory of the science fiction series. The dramatic final episode featured high-stakes confrontations and unexpected turns that left viewers with massive questions about the multiverse.",
+          "Creators had planned these pivotal developments long in advance, ensuring that the narrative payoff would resonate deeply with the overarching themes of the show."
+        ]
+      },
+      {
+        "h": "Leighton Vance Meets His End",
+        "p": [
+          "A major casualty in the final episode is Leighton Vance, portrayed by Dayo Okeniyi, who decides to shut down the Pyramid. Just as he makes this move, another version of himself intervenes.",
+          "This alternate variant, known as Oluko or Guru Leighton, eliminates him before seamlessly escaping to an entirely different reality without needing any technological or chemical assistance."
+        ]
+      },
+      {
+        "h": "Mastering the Multiverse Without Drugs",
+        "p": [
+          "Showrunner Blake Crouch explained that Oluko's unprecedented ability to traverse realities stems from advanced mental discipline. By mastering meditation and thought control, he achieves a super-positional state.",
+          "This breakthrough allows him to bypass the traditional chemical compound normally required to make the corridor visible, presenting a massive new threat for future storylines."
+        ]
+      },
+      {
+        "h": "A Devastating Stranding",
+        "p": [
+          "Meanwhile, Daniela Dessen and Charlie find themselves trapped in an unknown location after Jason powers down the Box. Jason remains entirely unaware until it is too late that his actions have stranded his family.",
+          "Crouch noted that this catastrophic error reflects Jason's deeper character flaw throughout the season, where his scientific obsession frequently overshadowed his devotion to his loved ones."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Season 3",
+        "p": [
+          "As of the finale's release, Apple TV has not yet officially renewed the series for a third installment. However, the creative team has already outlined ambitious plans for what is envisioned as the final season.",
+          "If greenlit, the narrative will likely explore Jason's efforts to rescue his family, aided by characters like Amanda Lucas, Ryan Holder, and Blair, potentially setting up a redemptive arc for Jason2."
+        ]
+      },
+      {
+        "h": "Adapting and Expanding Beyond the Novel",
+        "p": [
+          "While the first season faithfully adapted Blake Crouch's original 2016 bestselling novel, the second season ventured into entirely uncharted territory. The episodes explored fresh aftermaths for variants of the core cast.",
+          "Critical reception for the second season remained strong, mirroring the positive scores of the first run and drawing solid viewership numbers on streaming charts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dark Matter concluded its second season with a pair of game-changing twists, featuring the death of Leighton Vance at the hands of an alternate self and the accidental stranding of Daniela and Charlie. Series creator Blake Crouch broke down these narrative choices and hinted at plans for a potential third season."
+        ]
+      }
+    ],
+    "facts": [
+      "Leighton Vance is killed by his alternate version, Oluko.",
+      "Daniela Dessen and Charlie are left stranded after the Box is shut down.",
+      "Blake Crouch is the creator of the show and author of the 2016 novel.",
+      "Season 2 holds an 81% critics and audience score on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Blake Crouch",
+        "Dayo Okeniyi",
+        "Jennifer Connelly",
+        "Oakes Fegley",
+        "Joel Edgerton",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Amanda Brugel"
+      ],
+      "titles": [
+        "Dark Matter",
+        "Nocturne",
+        "Ted Lasso",
+        "Slow Horses"
+      ]
+    },
+    "keywords": [
+      "Dark Matter season 2 finale",
+      "Blake Crouch Dark Matter",
+      "Leighton Vance death Dark Matter",
+      "Daniela Dessen Charlie stranded"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/jennifer-connelly-as-daniela-dessen-wearing-white-and-looking-up-another-version-of-herself-in-the-dark-matter-season-2-finale.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Dark Matter Season 2 Finale Explored By Creator Blake Crouch",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 17:02:47 GMT"
   }
 };
