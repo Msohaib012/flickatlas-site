@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T08:51:35Z",
-    "run_id": "41029168136",
-    "status": "success",
-    "checked": {
-     "candidates": 275,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
-      "Ahaan Panday, Vedang Raina To Sparsh Walia: Young Actors Who Are Winning Hearts With Power-Packed Performances",
-      "Scene Trailer Release Date: Suriya's Film Gets A Major Update As Audio And Trailer Launch Date Is Announced",
-      "Sa Re Ga Ma Pa 2026: Anu Malik Joins Zee TV Show As A Special Judge - UPDATE",
-      "Ibrahim Ali Khan-Palak Tiwari Breakup: Did Iggy End His 3-Yr Relationship With Palak? Was The Split Mutual?",
-      "Karwa Chauth 2026 Special: 5 Romantic Web Series and Microdramas to Watch on OTT",
-      "Akka Web Series Review Ft. Keerthy Suresh, Radhika Apte & 100 Blood-Soaked Women Killing A Superb Feminist Plot That Turns Pointless & Unnecessary!",
-      "Drishyam 3 Box Office Collection Day 28: Scores Ajay Devgn’s 3rd Biggest Week 4 Of All Time!",
-      "Clayface North America Box Office: DCU Horror Is Edging Closer To Beating Avengers: Endgame Encore Soon!",
-      "Ranabaali Box Office: Beats Kingdom To Become Vijay Deverakonda’s Biggest Post-COVID Hit",
-      "Udta Teer Box Office Collection Day 7: Becomes Ayushmann Khurrana’s 4th Highest-Grossing Film Post-COVID",
-      "Tom Cruise and Keanu Reeves in Christopher Nolan's Next Film? Viral Rumour Sparks Buzz",
-      "15 Years Of 'Ra.One': Anubhav Sinha recalls VFX gamble with SRK",
-      "Diljit Dosanjh teams up with Reggaeton legend Daddy Yankee for Pokito, a Punjabi-Latin music crossover",
-      "Paresh Rawal says he has done over 250 films but considers only 11 of them any good, reveals his favourite roles",
-      "Ramayana advance booking jumps 27% in US after positive reactions from premiere; Ranbir Kapoor, Yash film crosses  ₹15 crore in India",
-      "Karthik Subbaraj responds to criticism that Kollywood has not delivered a  ₹1000 crore hit like KGF, Pushpa yet",
-      "Pankaj Tripathi says 'Mirzapur' shattered industry myth about star-driven films being BO pull",
-      "Ramayana's global box-office roar: Rs 17 crore in India, nearing $3 million overseas",
-      "7 Majestic Avengers: Doomsday Posters Will Make You Fear Doctor Doom"
-     ],
-     "updated": [],
-     "count": 271,
-     "detail": "271 stories, 1 duplicates removed, 4 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T09:50:39Z",
     "run_id": "41036361612",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "266 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T09:52:19Z",
-    "run_id": "41036361612",
+    "run_at": "2026-10-31T03:50:56Z",
+    "run_id": "41166075826",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 259,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
-      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution"
+      "'Aadarsha Kutumbam – House No. 47' BO day 1",
+      "Sunainaa condemns AI-morphed video, urges people to fight misuse",
+      "Selma Blair in tears as she breaks silence on arrest following plane incident; says she didn't intend to 'hurt or frighten anyone'",
+      "'Sarala Subbarao' OTT: Where to stream Ajay Rao's film online",
+      "Diljit Dosanjh lashes out at Cockroach Janata Party at Delhi concert for mocking his film Satluj, says 'don't teach Punjabis how to fight'",
+      "Netflix’s Twisted 2-Season Fantasy Horror Will Keep You Hooked From Start to Finish",
+      "Florence Pugh’s Netflix Western Miniseries Officially Hits a Massive Streaming Milestone",
+      "The 10 Greatest Crime Movies of the Last 25 Years, Ranked",
+      "3 Years Later, Nicolas Cage's Surreal Gem Is Officially Back on Streaming",
+      "Netflix Officially Reveals the All-Star Cast of New 'Heated Rivalry’ Meets ‘The Cutting Edge’ Rom-Com",
+      "6 Taylor Sheridan Shows You Can Binge in a Weekend",
+      "‘Resident Evil’ Fans Can Officially Grab the Franchise's Best Game for Just $10",
+      "11 Years Later, CBS' Finale Flop Was an Insult to Its Main Character",
+      "Netflix’s Assassin’s Creed Takes Major Step Forward As New Behind-The-Scenes Photo Emerges",
+      "Netflix's 26-Episode Romantasy Mega-Hit Is Still The Perfect Weekend Binge-Watch",
+      "Every Lantern Corp and Their Powers in DC Canon Explained",
+      "Russell T Davies unpacks that shocking ‘Tip Toe’ series finale: ‘A profound moment I’ll never forget’",
+      "‘The Kelly Clarkson Show’ wins 5 Daytime Emmys, including Best Talk Show — but Sherri Shepherd stages an upset as Best Host",
+      "Fire Country - Winners and Losers (5.04) - Rate the Episode!",
+      "PM Shehbaz forms body to review proposed LPG policy reforms"
      ],
      "updated": [],
-     "count": 2,
-     "detail": "+2 articles, +0 box-office rows, 0 rows updated"
+     "count": 250,
+     "detail": "259 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T03:52:17Z",
+    "run_id": "41166075826",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Trade Experts Predict Massive Box Office Openings For The Upcoming Mythological Epic Ramayana",
+      "Jungkook's Golden Makes Spotify History As ONLY Asian Act To Cross 1 Billion Streams For 4 Years In Row"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T10:22:00Z",
-    "run_id": "41040047172",
-    "status": "success",
-    "checked": {
-     "candidates": 56,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 52, coming 4"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1603,27 @@
      "detail": "now 87, coming 4"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T09:52:20Z",
-    "run_id": "41036361612",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T03:52:17Z",
+    "run_id": "41166075826",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 91,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 87, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2032,27 +2015,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T09:02:57Z",
-    "run_id": "41029168136",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T03:52:21Z",
+    "run_id": "41166075826",
     "status": "success",
     "checked": {
-     "candidates": 320,
-     "detail": "319 collected staging rows from readers; 109 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 97,
-     "detail": "+0 new rows, 97 updated rows, 222 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2426,19 +2408,27 @@
      "detail": "+0 new rows, 3 updated rows, 321 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T03:52:17Z",
+    "run_id": "41166075826",
+    "status": "success",
+    "checked": {
+     "candidates": 325,
+     "detail": "324 collected staging rows from readers; 109 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 321 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2721,30 +2711,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:52:20Z",
-    "run_id": "41036361612",
-    "status": "success",
-    "checked": {
-     "candidates": 81,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom",
-      "Akka Web Series Review: Keerthy Suresh and Radhika Apte Lead a Blood-Soaked Matriarchal Crime Saga That Stumbles on Execution"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 81 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3157,19 +3136,30 @@
      "detail": "api-news.json 80 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T03:52:21Z",
+    "run_id": "41166075826",
+    "status": "success",
+    "checked": {
+     "candidates": 80,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Trade Experts Predict Massive Box Office Openings For The Upcoming Mythological Epic Ramayana",
+      "Jungkook's Golden Makes Spotify History As ONLY Asian Act To Cross 1 Billion Streams For 4 Years In Row"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 80 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3439,19 +3429,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3755,29 +3745,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T08:51:53Z",
-    "run_id": "41029168136",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 271 still unprocessed; today by category: movies 4/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Composer Anirudh Steps Down From Shah Rukh Khan Starrer King Due to Scheduling Conflicts",
-      "ईरानी फिल्मकार जफर पनाही को पांच साल से ज्यादा की जेल की सजा, कान और ऑस्कर विजेता निर्देशक की कहानी"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4175,31 +4155,29 @@
      "count": 2
     },
     "reason": null
-   }
-  ],
-  "overseas_ai": [
+   },
    {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T08:53:57Z",
-    "run_id": "41029168136",
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T03:52:17Z",
+    "run_id": "41166075826",
     "status": "success",
     "checked": {
-     "candidates": 22,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 44"
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 250 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 2/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
     },
     "changed": {
      "added": [
-      "Nayyi Navelli (1654581)",
-      "Ranabaali (1389379)",
-      "Tu Hai Meri Kiran (1785611)",
-      "Udta Teer (1375156)"
+      "Trade Experts Predict Massive Box Office Openings For The Upcoming Mythological Epic Ramayana",
+      "Jungkook's Golden Makes Spotify History As ONLY Asian Act To Cross 1 Billion Streams For 4 Years In Row"
      ],
      "updated": [],
-     "count": 4
+     "count": 2
     },
     "reason": null
-   },
+   }
+  ],
+  "overseas_ai": [
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4440,24 +4418,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 194,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4757,24 +4730,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 301,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5069,19 +5042,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 21,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5326,19 +5304,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5564,6 +5542,16 @@
     "category": "Stats / Health",
     "run_at": "2026-10-31T02:53:18Z",
     "run_id": "41161770523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -5574,16 +5562,6 @@
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-10-30T09:52:26Z",
     "run_id": "41036361612",
     "status": "skipped",
@@ -5810,19 +5788,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6063,19 +6041,19 @@
      "count": 181
     },
     "reason": null
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6301,6 +6279,16 @@
     "category": "Box Office",
     "run_at": "2026-10-31T02:53:18Z",
     "run_id": "41161770523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T03:52:27Z",
+    "run_id": "41166075826",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6311,16 +6299,6 @@
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-10-30T09:03:08Z",
-    "run_id": "41029168136",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-10-30T09:52:26Z",
     "run_id": "41036361612",
     "status": "skipped",
@@ -6547,6 +6525,39 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T03:52:21Z",
+    "run_id": "41166075826",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Academy Leaders Address Artificial Intelligence and Global Expansion at Tokyo Fi",
+      "Jailer 2 Box Office Collection Day 13: Rajinikanth Starrer Nears Rs 750 Crore Gl",
+      "Ranbir Kapoor, Yash, and Sai Pallavi headline global premiere of Ramayana: Rise ",
+      "Dancing With the Stars Suffers Shocking Double Elimination as Horror Movie Night",
+      "Ramayana: Rise of Legend Targets Dangal Decade-Old Record",
+      "Dune 3 Final Trailer Unveils Timothee Chalamet as an Iron-Fisted Emperor",
+      "Bano Episode 15 — Watch on Geo TV",
+      "Hurmat Episode 8 — Watch on HUM TV",
+      "Uswah Episode 35 — Watch on Geo TV",
+      "Khushi Episode 45 — Watch on HUM TV",
+      "Izzat Episode 38 — Watch on ARY Digital",
+      "Dastoor Episode 67 — Watch on Green TV",
+      "Shanaya Kapoor Takes On Double Role and OTT Debut in Student of the Year: After ",
+      "Mahaveer Jain Films Reveals Title And Festive Release Window For Upcoming Devoti",
+      "XLOV's Hyun Sidelined From Upcoming Showcase Following Practice Leg Injury"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "overseas_sweep": [
@@ -6569,5 +6580,5 @@
    }
   ]
  },
- "updated_at": "2026-10-31T02:53:18Z"
+ "updated_at": "2026-10-31T03:52:27Z"
 }

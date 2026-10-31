@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-10-31T02:53:18Z",
+  "generated": "2026-10-31T03:52:27Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 6,
-    "pageviews": 17,
-    "sessions": 10,
-    "avg_session_seconds": 33.1
+    "users": 7,
+    "pageviews": 21,
+    "sessions": 12,
+    "avg_session_seconds": 33.6
   },
   "last7": {
-    "users": 91,
-    "pageviews": 795,
-    "sessions": 162,
-    "avg_session_seconds": 464.8
+    "users": 92,
+    "pageviews": 799,
+    "sessions": 164,
+    "avg_session_seconds": 459.6
   },
   "top_pages": [
     {
@@ -48,6 +48,12 @@
       "avg_time_seconds": 9.4
     },
     {
+      "path": "/",
+      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
+      "views": 19,
+      "avg_time_seconds": 30.9
+    },
+    {
       "path": "/show",
       "title": "TV Show Details — Seasons, Cast & Story | FlickAtlas",
       "views": 17,
@@ -58,12 +64,6 @@
       "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
       "views": 16,
       "avg_time_seconds": 9.2
-    },
-    {
-      "path": "/",
-      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 30.1
     },
     {
       "path": "/upcoming",
@@ -82,26 +82,26 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 146,
-      "users": 90
+      "sessions": 147,
+      "users": 91
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 14,
+      "sessions": 15,
       "users": 1
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 7,
+      "sessions": 8,
       "users": 4
     }
   ],
   "countries": [
     {
       "country": "United States",
-      "users": 69
+      "users": 70
     },
     {
       "country": "(not set)",
@@ -143,7 +143,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 78
+      "users": 79
     },
     {
       "device": "mobile",

@@ -8298,7 +8298,13 @@ window.FA_ARTICLES = {
         "source": "allkpop"
       }
     ],
-    "published": "Tue, 27 Oct 2026 04:20:00 EDT"
+    "published": "Tue, 27 Oct 2026 04:20:00 EDT",
+    "keywords": [
+      "XLOV Hyun leg injury showcase",
+      "Hyun XLOV comeback showcase",
+      "XLOV Hyun practice injury",
+      "Hyun injury XLOV"
+    ]
   },
   "121iziu": {
     "id": "121iziu",
@@ -9776,7 +9782,13 @@ window.FA_ARTICLES = {
         "source": "Bollywood Hungama"
       }
     ],
-    "published": "Tue, 27 Oct 2026 12:55:00 +0200"
+    "published": "Tue, 27 Oct 2026 12:55:00 +0200",
+    "keywords": [
+      "Mera Yaar Bajrangi Dosti Ho Toh Aisi",
+      "Ravi Kishan Mera Yaar Bajrangi",
+      "Mahaveer Jain Films Mera Yaar Bajrangi",
+      "Mera Yaar Bajrangi Diwali 2027 release"
+    ]
   },
   "1n8i5z3": {
     "id": "1n8i5z3",
@@ -9963,7 +9975,13 @@ window.FA_ARTICLES = {
         "source": "Bollywood Hungama"
       }
     ],
-    "published": "Tue, 27 Oct 2026 13:41:42 +0200"
+    "published": "Tue, 27 Oct 2026 13:41:42 +0200",
+    "keywords": [
+      "Student of the Year After Dark Trailer",
+      "Shanaya Kapoor Student of the Year After Dark",
+      "Student of the Year After Dark JioHotstar",
+      "Reema Maya Student of the Year After Dark"
+    ]
   },
   "1oa5r96": {
     "id": "1oa5r96",
@@ -10454,7 +10472,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-27T17:00:24Z"
+    "published": "2026-10-27T17:00:24Z",
+    "keywords": [
+      "Bano Episode 15 Geo TV",
+      "Watch Bano Episode 15",
+      "Bano Geo TV episode",
+      "Bano Episode 15 release"
+    ]
   },
   "1pqt1i5": {
     "id": "1pqt1i5",
@@ -10510,7 +10534,13 @@ window.FA_ARTICLES = {
         "source": "HUM TV"
       }
     ],
-    "published": "2026-10-27T16:00:27Z"
+    "published": "2026-10-27T16:00:27Z",
+    "keywords": [
+      "Hurmat Episode 8 HUM TV",
+      "Watch Hurmat Episode 8",
+      "Dananeer Mobeen Hurmat Episode 8",
+      "Hurmat HUM TV episode"
+    ]
   },
   "16nnktg": {
     "id": "16nnktg",
@@ -10553,7 +10583,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-27T15:00:38Z"
+    "published": "2026-10-27T15:00:38Z",
+    "keywords": [
+      "Uswah Episode 35 Geo TV",
+      "Watch Uswah Episode 35",
+      "Uswah Geo TV episode",
+      "Uswah Episode 35 broadcast"
+    ]
   },
   "1jeez6l": {
     "id": "1jeez6l",
@@ -10596,7 +10632,13 @@ window.FA_ARTICLES = {
         "source": "HUM TV"
       }
     ],
-    "published": "2026-10-27T15:00:03Z"
+    "published": "2026-10-27T15:00:03Z",
+    "keywords": [
+      "Khushi Episode 45 HUM TV",
+      "Watch Khushi Episode 45",
+      "Khushi HUM TV episode",
+      "Khushi Episode 45 broadcast"
+    ]
   },
   "1jslpyw": {
     "id": "1jslpyw",
@@ -10639,7 +10681,13 @@ window.FA_ARTICLES = {
         "source": "ARY Digital"
       }
     ],
-    "published": "2026-10-27T15:00:01Z"
+    "published": "2026-10-27T15:00:01Z",
+    "keywords": [
+      "Izzat Episode 38 ARY Digital",
+      "Watch Izzat Episode 38",
+      "Izzat ARY Digital episode",
+      "Izzat Episode 38 broadcast"
+    ]
   },
   "zidstc": {
     "id": "zidstc",
@@ -10695,7 +10743,13 @@ window.FA_ARTICLES = {
         "source": "Green TV"
       }
     ],
-    "published": "2026-10-27T14:45:26Z"
+    "published": "2026-10-27T14:45:26Z",
+    "keywords": [
+      "Dastoor Episode 67 Green TV",
+      "Watch Dastoor Episode 67",
+      "Hibba Aziz Dastoor Episode 67",
+      "Dastoor Green TV episode"
+    ]
   },
   "1k0m0g8": {
     "id": "1k0m0g8",
@@ -10797,7 +10851,13 @@ window.FA_ARTICLES = {
         "source": "India Today — Movies"
       }
     ],
-    "published": "Wed, 28 Oct 2026 06:09:09 +0530"
+    "published": "Wed, 28 Oct 2026 06:09:09 +0530",
+    "keywords": [
+      "Dune 3 Final Trailer Timothee Chalamet",
+      "Denis Villeneuve Dune Part Three",
+      "Dune Messiah Warner Bros trailer",
+      "Timothee Chalamet Emperor Dune 3"
+    ]
   },
   "1rh3nae": {
     "id": "1rh3nae",
@@ -10895,7 +10955,13 @@ window.FA_ARTICLES = {
         "source": "India Today — Movies"
       }
     ],
-    "published": "Wed, 28 Oct 2026 06:31:21 +0530"
+    "published": "Wed, 28 Oct 2026 06:31:21 +0530",
+    "keywords": [
+      "Ramayana Rise of Legend Dangal record",
+      "Ranbir Kapoor Sai Pallavi Ramayana Rise of Legend",
+      "Ramayana Rise of Legend budget",
+      "Aamir Khan Dangal milestone"
+    ]
   },
   "16tcqet": {
     "id": "16tcqet",
@@ -10999,7 +11065,13 @@ window.FA_ARTICLES = {
         "source": "India Today — Movies"
       }
     ],
-    "published": "Wed, 28 Oct 2026 08:11:42 +0530"
+    "published": "Wed, 28 Oct 2026 08:11:42 +0530",
+    "keywords": [
+      "Ramayana Rise of a Legend Los Angeles premiere",
+      "Ranbir Kapoor Yash Sai Pallavi Ramayana",
+      "Ramayana Rise of a Legend 3D screening",
+      "Nitesh Tiwari Ramayana Rise of a Legend"
+    ]
   },
   "ry6268": {
     "id": "ry6268",
@@ -11105,7 +11177,13 @@ window.FA_ARTICLES = {
         "source": "E! News"
       }
     ],
-    "published": "Wed, 28 Oct 2026 02:10:00 GMT"
+    "published": "Wed, 28 Oct 2026 02:10:00 GMT",
+    "keywords": [
+      "Dancing With the Stars double elimination",
+      "Dancing With the Stars Horror Movie Night",
+      "Jackson Olson Emma Slater Dancing With the Stars",
+      "Dancing With the Stars Halloween episode"
+    ]
   },
   "i3rgbe": {
     "id": "i3rgbe",
@@ -11211,7 +11289,13 @@ window.FA_ARTICLES = {
         "source": "FilmiBeat"
       }
     ],
-    "published": "Wed, 28 Oct 2026 08:32:29 +0530"
+    "published": "Wed, 28 Oct 2026 08:32:29 +0530",
+    "keywords": [
+      "Jailer 2 Box Office Collection Day 13",
+      "Rajinikanth Jailer 2 Rs 750 Crore",
+      "Jailer 2 worldwide collection",
+      "Rajinikanth Nelson Dilipkumar Jailer 2"
+    ]
   },
   "kvl1zj": {
     "id": "kvl1zj",
@@ -11303,7 +11387,13 @@ window.FA_ARTICLES = {
         "source": "Variety"
       }
     ],
-    "published": "Wed, 28 Oct 2026 03:48:43 +0000"
+    "published": "Wed, 28 Oct 2026 03:48:43 +0000",
+    "keywords": [
+      "Academy Leaders at Tokyo Film Festival",
+      "Bill Kramer and Lynette Howell Taylor",
+      "Academy Artificial Intelligence Tokyo",
+      "Minotaur Project Hail Mary Academy"
+    ]
   },
   "vr9sai": {
     "id": "vr9sai",
@@ -24057,5 +24147,201 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T02:51:54Z"
+  },
+  "s5h15r": {
+    "id": "s5h15r",
+    "type": "news",
+    "headline": "Trade Experts Predict Massive Box Office Openings For The Upcoming Mythological Epic Ramayana",
+    "dek": "As the highly anticipated film Ramayana prepares for its worldwide theatrical debut ahead of Diwali, industry analysts weigh in on its projected domestic and international earnings.",
+    "body": [
+      {
+        "h": "Anticipation Builds For A Grand Global Release",
+        "p": [
+          "The upcoming cinematic retelling of the traditional Hindu epic Ramayana is generating tremendous excitement across domestic and international markets. Produced by Namit Malhotra, the feature is scheduled to arrive in cinema halls on November 5, 2026, positioning itself strategically just ahead of the festive season. Billed as the most expensive Indian movie ever produced, the project unites a massive star-studded cast, leading technical personnel, top-tier visual effects specialists, and prominent music composers.",
+          "With advance ticket sales officially underway, industry participants and moviegoers alike are closely monitoring the mythological project. The narrative explores the timeless tale of good triumphing over evil, aiming to captivate audiences worldwide through a modern yet culturally grounded lens."
+        ]
+      },
+      {
+        "h": "Trade Gurus Eye Rs 100 Crore Plus On Day One",
+        "p": [
+          "Industry experts have begun offering their projections regarding the feature's commercial viability and opening-day potential. Noted trade figure Akkshay Rathie believes that the intrinsic financial capability of the venture is limitless, noting that the domestic market alone could witness collections between Rs 100 crore and Rs 125 crore on its first day across all languages.",
+          "Regarding international markets, Rathie notes that performance will heavily rely on Sony's distribution strategy, the specific territories secured, and the inclusion of non-traditional cinema chains. Engaging audiences beyond the traditional Indian diaspora will also dictate the film's overseas trajectory."
+        ]
+      },
+      {
+        "h": "Caution Advised Over Early Projections",
+        "p": [
+          "While enthusiasm remains high, veteran trade analyst and film critic Taran Adarsh suggests that it is currently premature to pinpoint an exact opening figure. Adarsh points out that advance bookings have only commenced at selective theater locations so far.",
+          "Furthermore, final show schedules and screen allocations remain unfinalized, meaning that spot bookings will heavily influence the definitive box office tallies recorded on the day of release."
+        ]
+      },
+      {
+        "h": "Navigating The Diwali Holiday Window",
+        "p": [
+          "Industry expert Girish Johar offers additional perspective by highlighting the specific calendar layout surrounding the premiere. Because the theatrical run begins on a Thursday and the festival falls on a Sunday, the core commercial momentum is expected to accelerate significantly from Sunday onward.",
+          "Despite the pre-Diwali Thursday launch, Johar remains encouraged by early advance booking trends. He projects a domestic opening of around Rs 50 crore across all languages, alongside an anticipated opening weekend total scaling up to Rs 250 crore."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew Confidence",
+        "p": [
+          "The feature boasts an impressive roster of acting talent, prominently featuring Ranbir Kapoor, Yash, and Sai Pallavi in pivotal roles. Observers emphasize that the collaborative effort involves top-tier professionals across every department of filmmaking.",
+          "Director Nitesh Tiwari is being singled out as a filmmaker to watch closely throughout this release cycle. Early trade intelligence and positive overseas preview feedback suggest that the production possesses strong legs for a sustained box office run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade experts have shared varied box office forecasts for the upcoming mythological epic Ramayana, which is set to release on November 5, 2026. While analysts like Akkshay Rathie and Girish Johar anticipate strong opening figures ranging from Rs 50 crore to Rs 125 crore on day one, others urge caution until advance bookings open fully."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana releases on November 5, 2026.",
+      "The film stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "It is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "Trade expert Akkshay Rathie predicts a day-one domestic collection of Rs 100-125 crore.",
+      "Industry expert Girish Johar expects a Rs 50 crore opening across languages and a Rs 250 crore opening weekend."
+    ],
+    "entities": {
+      "people": [
+        "Simran Khan",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Akkshay Rathie",
+        "Taran Adarsh",
+        "Girish Johar",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office prediction",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156437325,thumbsize-488902,width-1280,height-720,resizemode-75/156437325.jpg",
+        "caption": "Trade Experts Predict Massive Box Office Openings For The Upcoming Mythological Epic Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-31T03:52:17Z"
+  },
+  "vdzlu6": {
+    "id": "vdzlu6",
+    "type": "news",
+    "headline": "Jungkook's Golden Makes Spotify History As ONLY Asian Act To Cross 1 Billion Streams For 4 Years In Row",
+    "dek": "BTS member Jungkook's debut solo album Golden sets a new benchmark on Spotify by surpassing 1 billion streams in four consecutive calendar years.",
+    "body": [
+      {
+        "h": "Introduction to the Streaming Milestone",
+        "p": [
+          "BTS member Jungkook has achieved another major milestone in his musical career, pushing boundaries on global streaming platforms. His debut solo album, Golden, continues to dominate Spotify charts and draw immense attention for its extraordinary streaming performance. This achievement sets a remarkable new benchmark for Asian artists worldwide, proving the enduring appeal of his solo work.",
+          "Since its initial release, the project has enjoyed massive success and constant engagement from listeners globally. Maintaining a dominant presence on digital platforms years after dropping, the collection of tracks has firmly cemented its place in music history."
+        ]
+      },
+      {
+        "h": "Details of the Record-Breaking Achievement",
+        "p": [
+          "The studio album has achieved a significant milestone on Spotify, becoming the first studio record by an Asian act to earn one billion streams in four different calendar years. Spanning across 2023, 2024, 2025, and 2026, this consistent performance highlights an unprecedented level of long-term listener retention.",
+          "Released initially in November 2023, the project marked Jungkook's official entrance as a soloist with an 11-track lineup. The continuous influx of streams years down the line underscores his strong global fanbase and steady popularity."
+        ]
+      },
+      {
+        "h": "Hit Tracks That Fueled the Success",
+        "p": [
+          "A major driving force behind the album's historic run is its stellar lineup of hit songs. The record features popular tracks such as Seven featuring Latto, 3D featuring Jack Harlow, and Standing Next To You.",
+          "Other fan favorites included on the tracklist are Yes or No, Please Don't Change featuring DJ Snake, and Hate You. Together, these diverse songs captured Jungkook's musical versatility and earned widespread affection upon release."
+        ]
+      },
+      {
+        "h": "Surpassing BTS Map Of The Soul: 7",
+        "p": [
+          "This latest Spotify milestone also places Jungkook's solo effort ahead of his group's own acclaimed records. Golden surpassed BTS's Map Of The Soul: 7, which previously achieved the same streaming benchmark across three different years spanning 2020, 2021, and 2022.",
+          "Map Of The Soul: 7 served as the group's fourth Korean-language studio album, released in February 2020 through Big Hit Entertainment, reflecting on a seven-year journey since their 2013 debut."
+        ]
+      },
+      {
+        "h": "Background and Context of BTS's Discography",
+        "p": [
+          "The predecessor album, Map Of The Soul: 7, famously explored profound themes of identity, personal struggles, and self-acceptance. Inspired by the analytical psychology of Carl Jung, the 20-track digital edition was structured around the concepts of Persona, Shadow, and Ego.",
+          "That extensive record featured a rich mix of pop, hip-hop, R&B, rock, and EDM, containing celebrated tracks like Black Swan, ON, Louder Than Bombs, My Time, We Are Bulletproof: The Eternal, and Outro: Ego."
+        ]
+      },
+      {
+        "h": "Current Group Activities and World Tour",
+        "p": [
+          "While individual members continue to break records with solo projects, the complete lineup of BTS remains active on the global stage. Comprising RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook, the group has been traveling the world.",
+          "The members are currently out on their massive BTS World Tour ARIRANG, which serves to support their latest musical era and ongoing group releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS member Jungkook's debut solo album Golden has made Spotify history by becoming the first studio album by an Asian act to cross 1 billion streams in four consecutive calendar years. This feat surpasses the streaming benchmark previously set by the group's own album Map Of The Soul: 7. The milestone highlights Jungkook's enduring global popularity alongside the ongoing activities of the full group on their world tour."
+        ]
+      }
+    ],
+    "facts": [
+      "Jungkook's debut solo album is titled Golden.",
+      "Golden was released on November 3, 2023.",
+      "Golden crossed 1 billion streams in four different calendar years: 2023, 2024, 2025, and 2026.",
+      "Golden surpassed BTS's Map Of The Soul: 7, which achieved the benchmark in three different years: 2020, 2021, and 2022.",
+      "Map Of The Soul: 7 was released on February 21, 2020, through Big Hit Entertainment.",
+      "The members of BTS are RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook."
+    ],
+    "entities": {
+      "people": [
+        "Jungkook",
+        "Latto",
+        "Jack Harlow",
+        "DJ Snake",
+        "RM",
+        "Jin",
+        "Suga",
+        "J-Hope",
+        "Jimin",
+        "V"
+      ],
+      "titles": [
+        "Golden",
+        "Seven",
+        "3D",
+        "Standing Next To You",
+        "Yes or No",
+        "Please Don't Change",
+        "Hate You",
+        "Map Of The Soul: 7",
+        "Black Swan",
+        "ON",
+        "Louder Than Bombs",
+        "My Time",
+        "We Are Bulletproof: The Eternal",
+        "Outro: Ego",
+        "ARIRANG"
+      ]
+    },
+    "keywords": [
+      "Jungkook Golden album",
+      "Golden Spotify streams",
+      "BTS Map Of The Soul 7",
+      "Jungkook Spotify history",
+      "BTS World Tour ARIRANG"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156438077,thumbsize-171143,width-1280,height-720,resizemode-75/156438077.jpg",
+        "caption": "Jungkook's Golden Makes Spotify History As ONLY Asian Act To Cross 1 Billion Streams For 4 Years In Row",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-10-31T03:52:17Z"
   }
 };
