@@ -23670,5 +23670,212 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T05:36:16+05:30"
+  },
+  "1rr3iab": {
+    "id": "1rr3iab",
+    "type": "news",
+    "headline": "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle",
+    "dek": "The legendary British actor, celebrated globally for his iconic portrayals in Star Trek and X-Men, has died at his Los Angeles home.",
+    "body": [
+      {
+        "h": "Passing Of A Screen Legend",
+        "p": [
+          "The entertainment world is mourning the loss of veteran British performer Patrick Stewart, who has died at the age of 86. His family officially confirmed the news, noting that he passed away on October 28 at his home in Los Angeles. His wife, singer-songwriter Sunny Ozell, remained by his side during his final moments.",
+          "A public statement released via his social media channels on October 29 revealed that he had been managing Alzheimer's disease and Lewy body dementia. The family shared details about his brief battle with the illness and expressed gratitude for the dedicated care provided by Sunny throughout his sickness."
+        ]
+      },
+      {
+        "h": "Early Life And Roots In Yorkshire",
+        "p": [
+          "Born on July 13, 1940, in Mirfield, Yorkshire, the actor grew up far away from the glitz of the entertainment industry and experienced a challenging childhood. His passion for performance sparked during his school years when an educator introduced him to William Shakespeare's famous play The Merchant of Venice.",
+          "Before achieving global recognition on television and in blockbuster films, he spent years refining his craft on the stage. He dedicated fourteen years to the Royal Shakespeare Company, building a strong theatrical foundation that defined his early career."
+        ]
+      },
+      {
+        "h": "Iconic Television Stardom In Star Trek",
+        "p": [
+          "At the age of 47, the performer secured the career-defining role of Captain Jean-Luc Picard in the 1987 television series Star Trek: The Next Generation. The show broadcast successfully until 1994, cementing his status as a prominent figure in science fiction television history.",
+          "Catchphrases associated with his character, such as Make it so and Engage, remained popular among audiences for decades. He reprised the iconic captain across multiple cinematic releases and later returned to the character in the streaming series Star Trek: Picard, which debuted in 2020."
+        ]
+      },
+      {
+        "h": "Mutant Leadership In The X-Men Franchise",
+        "p": [
+          "In the year 2000, he embraced another monumental character by stepping into the role of Professor Charles Xavier for the initial X-Men motion picture. His dignified portrayal of the telepathic mutant leader resonated deeply with comic book fans worldwide.",
+          "He continued to play the character across several subsequent chapters of the superhero franchise, frequently sharing the screen with fellow actor Hugh Jackman. This role further expanded his legacy across multiple generations of moviegoers."
+        ]
+      },
+      {
+        "h": "Theatrical Honors And Royal Recognition",
+        "p": [
+          "Despite achieving immense global fame through his television and film projects, theatrical performance remained central to his artistic journey. His extensive stage work earned him three prestigious Olivier Awards over the course of his career.",
+          "His significant contributions to the arts were officially acknowledged by the British monarchy when Queen Elizabeth II bestowed upon him a knighthood in the year 2010, celebrating his long-standing dedication to acting."
+        ]
+      },
+      {
+        "h": "Family And Personal Life",
+        "p": [
+          "In his personal life, he married American singer-songwriter Sunny Ozell in 2013, creating a lasting partnership that endured until his final days. He also shared two children, named Sophia and Daniel, from a previous marriage.",
+          "Loved ones and admirers alike remembered him for his profound impact on both classical theatre and modern pop culture, leaving behind a remarkable artistic footprint."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Patrick Stewart passed away at the age of 86 after a battle with Alzheimer's disease and Lewy body dementia. Remembered globally for his iconic roles in Star Trek and X-Men, his career spanned decades across theatre, television, and film."
+        ]
+      }
+    ],
+    "facts": [
+      "Patrick Stewart passed away at the age of 86 on October 28, 2026.",
+      "His family confirmed the news on October 29.",
+      "He died at his home in Los Angeles.",
+      "He had been living with Alzheimer's disease and Lewy body dementia.",
+      "His wife is singer-songwriter Sunny Ozell.",
+      "He was born in Mirfield, Yorkshire, on July 13, 1940.",
+      "He joined the Royal Shakespeare Company and spent 14 years in theatre.",
+      "He won three Olivier Awards.",
+      "Queen Elizabeth II knighted him in 2010.",
+      "He was 47 when he landed the role of Captain Jean-Luc Picard in 1987.",
+      "Star Trek: The Next Generation ran until 1994.",
+      "Star Trek: Picard premiered in 2020.",
+      "He took on the role of Professor Charles Xavier in the first X-Men film in 2000.",
+      "He married Sunny Ozell in 2013.",
+      "He had two children, Sophia and Daniel, from his first marriage."
+    ],
+    "entities": {
+      "people": [
+        "Patrick Stewart",
+        "Sunny Ozell",
+        "Hugh Jackman",
+        "Queen Elizabeth II",
+        "Sophia",
+        "Daniel"
+      ],
+      "titles": [
+        "Star Trek",
+        "X-Men",
+        "Star Trek: The Next Generation",
+        "Star Trek: Picard",
+        "The Merchant of Venice"
+      ]
+    },
+    "keywords": [
+      "Patrick Stewart",
+      "Star Trek",
+      "X-Men",
+      "Sunny Ozell"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/30133545/image-111.jpeg",
+        "caption": "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-10-31T01:52:02Z"
+  },
+  "xl6qwm": {
+    "id": "xl6qwm",
+    "type": "news",
+    "headline": "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage",
+    "dek": "Court documents reveal that Margaret Qualley and Jack Antonoff have officially filed for divorce following a separation earlier this year.",
+    "body": [
+      {
+        "h": "The Official Filing",
+        "p": [
+          "Official legal documents obtained from The Associated Press indicate that actress Margaret Qualley and musician Jack Antonoff have taken steps to dissolve their marriage. Court records show that the formal divorce filing was submitted on a Friday, concluding their three-year marital union.",
+          "The development follows months of public attention regarding the status of their relationship, bringing their legal partnership to a close nearly three years after they exchanged vows."
+        ]
+      },
+      {
+        "h": "Relationship Timeline",
+        "p": [
+          "The couple first sparked romance rumors when they began dating in 2021. Their relationship progressed steadily over the next two years, culminating in an August 2023 wedding.",
+          "Despite the recent legal actions taken in court, sources close to the pair have noted that their actual separation took place earlier in the year, specifically occurring in July."
+        ]
+      },
+      {
+        "h": "Nature of the Split",
+        "p": [
+          "An insider speaking with People magazine characterized the breakup as a mutual decision between the two former partners. According to the source, a strong sense of mutual affection and respect remains between them.",
+          "The insider added that although their romantic journey has concluded, they intend to maintain a lifelong friendship moving forward, holding a deep affinity for one another."
+        ]
+      },
+      {
+        "h": "Addressing Press Speculation",
+        "p": [
+          "When the initial separation occurred in July, a representative for Qualley addressed the public and pushed back against various rumors circulating in the media.",
+          "The representative firmly stated that the narratives running through the press were entirely untrue, emphasizing that there were no underlying trust issues, infidelity, or actions outside of mutual respect and partnership."
+        ]
+      },
+      {
+        "h": "Musical Reflection and Live Performances",
+        "p": [
+          "Antonoff, known as the frontman for Bleachers, recently discussed the experience of performing tracks inspired by his relationship with Qualley. Speaking with The Guardian, he admitted to initial worries about keeping those songs in his setlist.",
+          "Ultimately, the musician decided against altering his lineup, explaining that his commitment to his audience involves absolute honesty and standing by his creative expressions without hesitation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Court records confirm that Margaret Qualley and Jack Antonoff have filed for divorce after three years of marriage, following a separation that took place in July. Representatives and insiders have emphasized that the split was mutual, free of infidelity, and that the two intend to remain lifelong friends."
+        ]
+      }
+    ],
+    "facts": [
+      "Margaret Qualley and Jack Antonoff married in August 2023.",
+      "The couple began dating in 2021.",
+      "Court records obtained by The Associated Press show a divorce filing was made on Friday, October 30, 2026.",
+      "The pair separated in July."
+    ],
+    "entities": {
+      "people": [
+        "Margaret Qualley",
+        "Jack Antonoff",
+        "Lexi Carson",
+        "Mike Coppola",
+        "Ed Sheeran",
+        "Macklemore",
+        "Jack Lowden",
+        "Bob Iger",
+        "Bryan Johnson",
+        "Patrick Stewart",
+        "James Hibberd",
+        "Alex Weprin",
+        "Seth Abramovitch",
+        "Abid Rahman",
+        "McKinley Franklin",
+        "Ethan Millman",
+        "Julian Sancton",
+        "Jackie Strause"
+      ],
+      "titles": [
+        "The Substance",
+        "Star Trek",
+        "X-Men",
+        "Dune",
+        "Godzilla Minus Zero",
+        "Ted Lasso",
+        "The Bachelor",
+        "Love Trapped",
+        "The Gilded Age",
+        "The Cat in the Hat"
+      ]
+    },
+    "keywords": [
+      "Margaret Qualley",
+      "Jack Antonoff",
+      "Margaret Qualley Jack Antonoff divorce",
+      "Jack Antonoff Bleachers"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Margaret-Qualley-Jack-Antonoff.jpg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 01:37:48 +0000"
   }
 };

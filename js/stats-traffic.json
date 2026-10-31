@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-10-31T00:59:53Z",
+  "generated": "2026-10-31T01:52:13Z",
   "realtime": {
     "active_users": 1
   },
   "today": {
-    "users": 3,
-    "pageviews": 6,
-    "sessions": 4,
-    "avg_session_seconds": 54.2
+    "users": 6,
+    "pageviews": 17,
+    "sessions": 9,
+    "avg_session_seconds": 36.8
   },
   "last7": {
-    "users": 89,
-    "pageviews": 784,
-    "sessions": 156,
-    "avg_session_seconds": 482.0
+    "users": 91,
+    "pageviews": 795,
+    "sessions": 161,
+    "avg_session_seconds": 467.7
   },
   "top_pages": [
     {
@@ -60,6 +60,12 @@
       "avg_time_seconds": 9.2
     },
     {
+      "path": "/",
+      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
+      "views": 15,
+      "avg_time_seconds": 30.1
+    },
+    {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
       "views": 15,
@@ -70,20 +76,14 @@
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
       "views": 13,
       "avg_time_seconds": 4.8
-    },
-    {
-      "path": "/news",
-      "title": "Industry News & Updates — Releases, Box Office Milestones & Premieres | FlickAtlas",
-      "views": 11,
-      "avg_time_seconds": 6.1
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 140,
-      "users": 88
+      "sessions": 145,
+      "users": 90
     },
     {
       "source": "google",
@@ -94,7 +94,7 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 6,
+      "sessions": 7,
       "users": 4
     }
   ],
@@ -108,12 +108,12 @@
       "users": 4
     },
     {
-      "country": "India",
+      "country": "Germany",
       "users": 4
     },
     {
-      "country": "Germany",
-      "users": 3
+      "country": "India",
+      "users": 4
     },
     {
       "country": "Canada",
@@ -136,14 +136,14 @@
       "users": 1
     },
     {
-      "country": "Israel",
+      "country": "Egypt",
       "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 76
+      "users": 78
     },
     {
       "device": "mobile",
