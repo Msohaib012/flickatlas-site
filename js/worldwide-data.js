@@ -17,11 +17,11 @@ window.FA_WORLDWIDE = {
     "total_usd": 774031
   },
   "1101412": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-31",
     "scope": "worldwide",
-    "source": "TMDB revenue (already in js/published-titles.js)",
+    "source": "https://en.wikipedia.org/wiki/Fall_2:_Deadpoint",
     "title": "Fall 2: Deadpoint",
-    "total_usd": 9256541
+    "total_usd": 21700000
   },
   "1178602": {
     "as_of": "2026-10-28",
@@ -40,15 +40,15 @@ window.FA_WORLDWIDE = {
     "title": "Wicker",
     "total_usd": 5750000
   },
-  "1571955": {
-    "as_of": "2026-10-30",
+  "1503762": {
+    "as_of": "2026-10-31",
     "scope": "worldwide",
-    "source": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
-    "title": "Collision Course",
-    "total_usd": 64000000
+    "source": "https://asumetech.com/2026/10/18/sense-and-sensibility-2026-sets-box-office-record-with-wide-release",
+    "title": "Sense and Sensibility",
+    "total_usd": 135000000
   },
   "791523": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "scope": "worldwide",
     "source": "https://en.wikipedia.org/wiki/Wildwood_(film)",
     "title": "Wildwood",

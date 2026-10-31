@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T12:52:05Z",
-    "run_id": "41058407593",
-    "status": "success",
-    "checked": {
-     "candidates": 626,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ashoke Pandit calls Naseeruddin Shah a \"compulsive abuser\" over \"Dimagi Naxal\" remark: “He should consult a psychiatrist”",
-      "Salman Khan and Sanjay Dutt to reunite on screen in Khalnayak Returns? Here's what we know",
-      "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
-      "EXCLUSIVE: Ramayana achieves a RARE feat; CBFC passes Ranbir Kapoor-starrer with ‘U’ certificate and not a SINGLE cut",
-      "Shraddha Kapoor unveils EETHA trailer as she steps into the role of Lavani legend Eetha Bai; film to release on December 4",
-      "EXCLUSIVE: CBFC mutes replaces ‘UP’ with ‘village’ in Nakhrewaalii; 'Must be some East Delhi b***h' replaced with 'Must be some cheap little witch'",
-      "Sharvari wears mother’s heirloom pink Patola saree for Yeh Prem Mol Liya promotions; says it feels like being ‘wrapped in her love and blessings’",
-      "Ramayana First Look: Rakul Preet Singh drops her look as Surpanakha; actor says playing Ravana’s sister is a “truly special experience”",
-      "Bigg Boss 20 Tweets Of Day: Kamya Punjabi Lauds Scout Amid Gullu-Yung's Fight. Reason Is...",
-      "MTV Roadies 21 Episode 5 Release Time Today: Baseer Vs Fukra Insaan; When Will Roadies Rebirth Sat Episode Air",
-      "Diwali 2026: Looking For Bollywood-Inspired Festive Looks? Take Style Cues From These Celeb Outfits",
-      "King: Anirudh QUITS SRK's Film Ahead Of Greece Wedding? But WHY? Here's What We Know About King's Music Album",
-      "IIFA Awards 2026 Full Winners List: Dhurandhar, Saiyaara & Chhaava Win Big Laurels",
-      "Jailer 2 Kerala Box Office Day 16 Prediction: Rajinikanth's Film Set To Cross ₹75 Crore, Eyes ₹80 Crore Mark",
-      "Bigg Boss Telugu 10 Double Elimination Week 8: Sudheer or Jhansi - Who Will Get Eliminated Tonight?",
-      "Sarala Subbarao Now Streaming On OTT: Where To Watch Ajay Rao And Misha Narang's Film Online",
-      "Rise And Fall 2 Written Update Oct 30 Ep 35: Will Takhta Palat Happen Again? Workers’ Plan Put Rulers On Alert",
-      "Osama Ahmad Khan, Founder of Oksa Developer, Honoured at Cultural Event in Dubai",
-      "Doctor X Mafia In White Episode 7 Release Time Today: When & Where Will New Ep Premiere Online? What To Expect",
-      "The Cat In The Hat Worldwide Box Office: Here’s How Much It Needs To Earn To Beat The Live-Action Flop"
-     ],
-     "updated": [],
-     "count": 481,
-     "detail": "489 stories, 11 duplicates removed, 137 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-30T13:51:38Z",
     "run_id": "41066592569",
     "status": "success",
@@ -791,30 +752,48 @@
      "detail": "298 stories, 2 duplicates removed, 5 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-30T13:51:58Z",
-    "run_id": "41066592569",
+    "run_at": "2026-10-31T08:51:23Z",
+    "run_id": "41186228987",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 285,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
-      "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian"
+      "Diljit Dosanjh addresses Satluj controversy at Delhi concert; says “Don't teach Punjabis how to fight”",
+      "Rise And Fall 2: Fans Slam Karan Patel For Showing Middle Finger To Women, Question His Conduct: Not Expected",
+      "This Christmas Comedy Cost $18 Million But Stayed At No. 1 For 12 Straight Weekends",
+      "Brad Pitt’s Fight Club Flopped At The Box Office, But DVD Sales Made It A Cult Classic",
+      "Kaante Director Sanjay Gupta Passes Away After Sudden Fall: Cause Of Death Still Unclear, Stars Pay Last Tribute, “1st Director To Cut Trailers…”",
+      "Clayface North America Box Office: Scares Past Evil Dead Burn’s Domestic Haul In Its First Week!",
+      "Sense And Sensibility Ending Explained: Do Elinor & Marianne Both Find Love?",
+      "Ramayana Box Office Day 1 Advance Booking (5 Days To Go): Already The 6th Biggest Opening Of Ranbir Kapoor’s Career With Pre-Sales!",
+      "Dhurandhar Composer Shashwat Sachdev Reportedly Joins Jr NTR's Dragon for Select Songs",
+      "Yash recalls son’s shock over his role as Ravana in ‘Ramayana’",
+      "'Jailer 2' BO Day 17 [LIVE]: Rajinikanth starrer crosses Rs 510 crore in India",
+      "Sanjay Gupta death: Mumbai Police say other people were present at house when he fell in bathroom",
+      "Harshvardhan recalls Sanjay Gupta; mourns filmmaker’s death",
+      "R Madhavan teams up with Vishal Furia for new horror film",
+      "'Ramayana' VFX criticism: 'Sacred Games' supervisors say, 'There is some sort of campaign against film'",
+      "Darshan murder case takes a new turn as witness turns hostile",
+      "Ramayana advance booking crosses  ₹40 crore five days before release; deadlock with Indian exhibitors ends for Ranbir Kapoor, Yash film",
+      "EXCLUSIVE: Adah Sharma Returns With Adah Ki Aahat This Halloween; Says, “Be Prepared For The Unexpected”",
+      "Apple TV's 'True Detective' Reunion Is Officially a Major Streaming Hit",
+      "Pokémon Fans Officially Get the Ghost-Type Upgrade They’ve Been Waiting For"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 268,
+     "detail": "273 stories, 3 duplicates removed, 12 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1227,27 +1206,30 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-10-31T08:51:41Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Yash Shares Son’s Surprising Reaction to His Role as Ravana in Nitesh Tiwari’s ‘Ramayana’",
+      "Diljit Dosanjh Fires Back at Satluj Controversy Critics During Live Performance in New Delhi"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-30T13:51:58Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": {
-     "candidates": 57,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 52, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1621,26 +1603,27 @@
      "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-30T13:51:59Z",
-    "run_id": "41066592569",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-10-31T08:51:41Z",
+    "run_id": "41186228987",
     "status": "success",
     "checked": {
-     "candidates": 20,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 120,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 116, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2039,27 +2022,28 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-10-31T09:06:12Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "69erpd"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T12:55:56Z",
-    "run_id": "41058407593",
-    "status": "success",
-    "checked": {
-     "candidates": 320,
-     "detail": "320 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 10,
-     "detail": "+1 new rows, 9 updated rows, 310 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2433,19 +2417,27 @@
      "detail": "+0 new rows, 4 updated rows, 322 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T09:06:11Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 327,
+     "detail": "326 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 24,
+     "detail": "+0 new rows, 24 updated rows, 302 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2728,30 +2720,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-30T13:51:59Z",
-    "run_id": "41066592569",
-    "status": "success",
-    "checked": {
-     "candidates": 78,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Gunmaaster G9 Unveils New Romantic Track Dard E Dil Starring Emraan Hashmi And Genelia Deshmukh",
-      "Cameron Trailer Previews Psychological Thriller Starring Patrick Fabian"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 78 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3164,19 +3145,30 @@
      "detail": "api-news.json 82 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:06:12Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 79,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Fires Back at Satluj Controversy Critics During Live Performance in New Delhi",
+      "Yash Shares Son’s Surprising Reaction to His Role as Ravana in Nitesh Tiwari’s ‘Ramayana’"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 79 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3446,19 +3438,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -3836,29 +3828,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-30T12:53:18Z",
-    "run_id": "41058407593",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 481 still unprocessed; today by category: movies 7/6, tv_dramas 0/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 1/3, awards 2/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Dhurandhar and The Ba***ds of Bollywood Shine Bright at the 2026 IIFA Awards",
-      "Rakul Preet Singh Unveils Striking First Look as Surpanakha in Nitesh Tiwari's Grand Cinematic Epic Ramayana"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4256,19 +4238,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-10-31T08:51:40Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 268 still unprocessed; today by category: movies 5/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Yash Shares Son’s Surprising Reaction to His Role as Ravana in Nitesh Tiwari’s ‘Ramayana’",
+      "Diljit Dosanjh Fires Back at Satluj Controversy Critics During Live Performance in New Delhi"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4509,24 +4501,33 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-10-31T08:54:41Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 44"
+    },
+    "changed": {
+     "added": [
+      "Udta Teer (1375156)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)",
+      "Ranabaali (1389379)",
+      "Jailer 2 (1234139)",
+      "Drishyam: The Conclusion (1269325)"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 243,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -4826,19 +4827,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 197,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5148,24 +5154,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 66,
+     "count": 15,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5410,19 +5416,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -5657,19 +5663,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -5913,19 +5919,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6166,19 +6172,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6408,19 +6414,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-30T12:56:15Z",
-    "run_id": "41058407593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -6673,6 +6679,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-10-31T09:06:20Z",
+    "run_id": "41186228987",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -6692,8 +6708,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-10-31T08:52:33Z",
+    "run_id": "41186228987",
+    "status": "success",
+    "checked": {
+     "candidates": 235,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 0"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "Nayyi Navelli (1654581)",
+      "Jailer 2 (1234139)",
+      "418 (1606527)"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-10-31T07:27:02Z"
+ "updated_at": "2026-10-31T09:06:20Z"
 }

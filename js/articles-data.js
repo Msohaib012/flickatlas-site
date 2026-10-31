@@ -25168,5 +25168,202 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 31 Oct 2026 06:53:23 +0000"
+  },
+  "8gts37": {
+    "id": "8gts37",
+    "type": "news",
+    "headline": "Yash Shares Son’s Surprising Reaction to His Role as Ravana in Nitesh Tiwari’s ‘Ramayana’",
+    "dek": "Kannada superstar Yash opens up about how his young son reacted with shock after learning his father would portray the demon king Ravana in the upcoming mythological epic.",
+    "body": [
+      {
+        "h": "An Unexpected Parental Dilemma",
+        "p": [
+          "Preparing for a major cinematic project often involves intensive physical training, script reading, and look tests, but for Kannada superstar Yash, stepping into a legendary character brought an entirely unforeseen challenge at home. The actor, who is set to play the formidable demon king Ravana in Nitesh Tiwari’s highly anticipated mythological epic, recently shared a candid behind-the-scenes anecdote regarding his family life. While diving deep into his character preparation, Yash found himself having to explain his professional choices to his young son, whose immediate reaction was one of pure astonishment.",
+          "The conversation unfolded when the youngster began learning the narrative of the ancient scripture and discovered that his own father had been cast as the primary antagonist rather than the revered hero. This unexpected revelation caught the child off guard, leading to a memorable domestic exchange that highlighted the innocence of childhood perspective when confronted with cinematic storytelling."
+        ]
+      },
+      {
+        "h": "A Child’s Shocked Interrogation",
+        "p": [
+          "Recounting the interaction through an IANS report, Yash described how his son struggled to reconcile his father’s real-world identity with the villainous stature of Ravana. Upon making the connection, the little boy voiced his disbelief directly, questioning how his father could possibly agree to play such a part. The child exclaimed that his father was supposed to be the good person, expressing outright shock at the casting choice.",
+          "The actor noted that his son’s inquiries did not stop at moral objections regarding the plot. The curious youngster quickly pressed further into the narrative arc, asking pointed questions about the ultimate fate of the character. Wanting to know whether Ravana ultimately loses the battle and perishes at the conclusion of the story, the child’s questions forced the seasoned star to navigate a delicate conversation about dramatic arts and mortality."
+        ]
+      },
+      {
+        "h": "Separating Reality from Performance",
+        "p": [
+          "Faced with his son's emotional response, Yash realized he needed to provide a thoughtful lesson on the nature of acting and dramatic performance. He had anticipated the demands of delivering a compelling portrayal for moviegoers, but he admitted that preparing for his own child's probing questions was an entirely unique experience. The actor had to carefully explain the fundamental difference between a fictional character and the real-life individual breathing life into that role.",
+          "This meant sitting the child down to clarify that playing an antagonist does not equate to endorsing or supporting the character's destructive actions. Yash emphasized that storytelling requires the full spectrum of characters to be depicted accurately so that audiences can truly comprehend the entire scope and historical or cultural weight of the traditional epic narrative."
+        ]
+      },
+      {
+        "h": "Teaching Core Moral Values",
+        "p": [
+          "Beyond explaining the technicalities of filmmaking and character portrayal, Yash used the opportunity to reinforce essential ethical lessons for his children. He wanted to ensure that while his son might cheer for his performance inside a movie theater, the child would maintain a clear moral compass in real life. The actor explicitly directed his son to look past the theatrical grandeur associated with Ravana.",
+          "During their discussion, Yash stressed that true righteousness and lasting victory in life stem from following the path of Lord Rama rather than being swayed by outward displays of power and imposing strength. He advised his son to admire the central figure of the epic as the ultimate ideal of virtue, ensuring the young boy could distinguish between cinematic entertainment and moral guidance."
+        ]
+      },
+      {
+        "h": "About Nitesh Tiwari's Cinematic Epic",
+        "p": [
+          "The upcoming two-part cinematic adaptation directed by Nitesh Tiwari stands as one of the most ambitious projects in contemporary Indian cinema. The sprawling cast features Ranbir Kapoor stepping into the role of Lord Rama, alongside Sai Pallavi as Sita and Yash anchoring the production as the formidable Ravana. The ensemble cast also includes Ravi Dubey as Lakshman, Sunny Deol as Hanuman, Arun Govil as Dasharatha, Lara Dutta as Kaikeyi, Rakul Preet Singh as Surpanakha, Sheeba Chaddha as Manthara, and Adinath Kothare as Bharat.",
+          "In addition to its star-studded roster, the epic boasts an internationally renowned musical backing. The musical landscape for the film is crafted by the celebrated composer AR Rahman alongside legendary Hollywood composer Hans Zimmer. With meticulous planning and global talent attached, anticipation surrounding the project remains exceptionally high."
+        ]
+      },
+      {
+        "h": "Release Details and Global Expectations",
+        "p": [
+          "As production progresses toward completion, the makers have locked in a major timeline for the project's theatrical rollout. The first instalment of Nitesh Tiwari’s mythological magnum opus is officially scheduled to hit silver screens worldwide on November 5, 2026. This wide release strategy aims to capture audiences across domestic and international markets simultaneously.",
+          "With top-tier talent both in front of and behind the camera, the film continues to generate significant buzz across entertainment circles. The unique blend of seasoned star power and high-profile technical collaborations positions the two-part feature as a monumental cinematic event for the coming year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kannada superstar Yash shared a charming anecdote about his young son reacting with shock upon learning his father is playing the villainous Ravana in Nitesh Tiwari’s upcoming epic 'Ramayana'. Yash used the moment to teach his children the difference between an actor and a fictional character while reinforcing that Lord Rama remains the true moral ideal. The highly anticipated two-part film, starring Ranbir Kapoor and Sai Pallavi alongside Yash, is slated for a worldwide theatrical release on November 5, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash plays the demon king Ravana in Nitesh Tiwari’s 'Ramayana'.",
+      "Ranbir Kapoor stars as Lord Rama in the film.",
+      "Sai Pallavi stars as Sita in the film.",
+      "The first instalment of 'Ramayana' is scheduled for release on November 5, 2026.",
+      "Other cast members include Ravi Dubey, Sunny Deol, Arun Govil, Lara Dutta, Rakul Preet Singh, Sheeba Chaddha, and Adinath Kothare.",
+      "Music for the film is composed by AR Rahman and Hans Zimmer."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Adinath Kothare",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana",
+      "Yash Ravana son reaction",
+      "Nitesh Tiwari Ramayana cast",
+      "Ramayana release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135395020,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Yash Shares Son’s Surprising Reaction to His Role as Ravana in Nitesh Tiwari’s ‘Ramayana’",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-10-31T14:07:09+05:30"
+  },
+  "scrg50": {
+    "id": "scrg50",
+    "type": "news",
+    "headline": "Diljit Dosanjh Fires Back at Satluj Controversy Critics During Live Performance in New Delhi",
+    "dek": "During the opening day of his Aura India Tour 2026 in New Delhi, singer-actor Diljit Dosanjh strongly defended his biographical drama Satluj and its intense journey to audiences.",
+    "body": [
+      {
+        "h": "Opening Night Confrontation in the Capital",
+        "p": [
+          "The opening performance of the Aura India Tour 2026 in New Delhi quickly shifted from a musical celebration to a platform for addressing public backlash. Singer and actor Diljit Dosanjh took a direct approach when speaking to the thousands in attendance, choosing to confront the ongoing debates surrounding his latest cinematic project.",
+          "Rather than ignoring the friction, the performer openly referenced the mocking commentary circulating online and at public gatherings. His remarks served as a pointed message to critics who have questioned the artistic choices and narrative focus of his biographical feature."
+        ]
+      },
+      {
+        "h": "Defending the Struggle Behind the Project",
+        "p": [
+          "During his address to the New Delhi crowd, the artist emphasized the immense dedication required to bring the biographical feature to life. He noted that the team fought tirelessly for a long period to ensure the story reached the public domain, despite facing persistent headwinds.",
+          "He expressed resilience in the face of disapproval, declaring that negative sentiments from detractors would not overshadow his dedication to his supporters. The performer reinforced his solidarity with the regional community, stating plainly that nobody should attempt to dictate how they handle adversity."
+        ]
+      },
+      {
+        "h": "The Historical and Biographical Roots",
+        "p": [
+          "At the core of the controversy is the biographical drama Satluj, directed by Honey Trehan. The narrative centers on the life and work of human rights activist Jaswant Singh Khalra, with Diljit portraying the central role.",
+          "The storyline focuses heavily on Khalra's rigorous investigations into the alleged secret cremation of thousands of unidentified bodies in Punjab throughout the early 1990s. The activist was subsequently abducted in September 1995 and killed, with his remains disposed of in the Sutlej River."
+        ]
+      },
+      {
+        "h": "A Turbulent Evolution of Titles",
+        "p": [
+          "Before reaching audiences under its current banner, the cinematic project underwent multiple title alterations and developmental shifts. It was initially identified under the working title Ghallughara before being changed to Punjab '95.",
+          "These alterations mirrored the complicated nature of the production as it navigated sensitive historical ground. The eventual release under the title Satluj marked the culmination of a deeply challenging journey through production and distribution corridors."
+        ]
+      },
+      {
+        "h": "Extensive Certification Hurdles",
+        "p": [
+          "The feature encountered major obstacles with the Central Board of Film Certification. Initially, the regulatory body demanded 21 distinct cuts along with a title modification to clear the project for public viewing.",
+          "When the creative team resisted these demands, the review process resulted in an escalating list of proposed modifications that reportedly ballooned to 127 cuts. The filmmakers stood firm against releasing a heavily censored version, leading to repeated delays in planned theatrical schedules."
+        ]
+      },
+      {
+        "h": "The Brief Streaming Window and Removal",
+        "p": [
+          "After months of theatrical limbo, the biographical drama arrived unexpectedly on the ZEE5 streaming platform in July 2026 under the title Satluj. However, the digital run was cut exceptionally short.",
+          "Following directives issued by the Ministry of Information and Broadcasting, the platform removed the title from its service in India within a span of 48 hours, plunging the release into further uncertainty."
+        ]
+      },
+      {
+        "h": "Broader Tour Complications",
+        "p": [
+          "The controversy in New Delhi unfolds alongside other logistical hurdles for the performer's concert series. Reports indicated that the Aura India Tour hit a significant roadblock when local law enforcement denied permission for a scheduled concert.",
+          "These parallel developments have kept the entertainer frequently in the headlines, blending his massive live music presence with complex socio-political discussions surrounding his filmography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh addressed the ongoing controversies surrounding his biographical film Satluj during his concert in New Delhi, defending the project's difficult production history and honoring activist Jaswant Singh Khalra. The film has faced severe certification hurdles, title changes, and a brief, halted streaming release on ZEE5.",
+          "His remarks underscore the enduring tensions and intense public debate regarding the portrayal of sensitive historical chapters in the region."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh addressed the Satluj controversy during the opening day of his Aura India Tour 2026 in New Delhi.",
+      "Satluj is directed by Honey Trehan and stars Diljit Dosanjh as human rights activist Jaswant Singh Khalra.",
+      "Jaswant Singh Khalra was abducted in September 1995 and killed, with his body disposed of in the Sutlej River.",
+      "The film was initially titled Ghallughara, then Punjab '95, before releasing as Satluj.",
+      "The Central Board of Film Certification initially sought 21 cuts, which reportedly increased to 127 after further review.",
+      "Satluj was released on ZEE5 in July 2026 and removed in India within 48 hours following Ministry of Information and Broadcasting directions."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Honey Trehan",
+        "Jaswant Singh Khalra"
+      ],
+      "titles": [
+        "Satluj",
+        "Ghallughara",
+        "Punjab '95",
+        "Aura India Tour 2026"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Satluj controversy",
+      "Jaswant Singh Khalra film Satluj",
+      "Aura India Tour 2026 Delhi",
+      "Satluj ZEE5 release removal"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/Diljit-Dosanjh-addresses-Satluj-Controversy-at-Delhi-concert-news.jpeg",
+        "caption": "Diljit Dosanjh Fires Back at Satluj Controversy Critics During Live Performance in New Delhi",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 12:58:23 +0200"
   }
 };
