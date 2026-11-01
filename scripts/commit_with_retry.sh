@@ -63,7 +63,8 @@ stage_all() {
            out/duplicates.json out/stories.json out/dropped.json out/ott-digital.json \
            out/providers-state.json \
            out/daily-history.json out/keyword-refresh.json out/source-refresh-state.json \
-           out/trends-discovery-state.json out/google-trends-evidence.json; do
+           out/trends-discovery-state.json out/google-trends-evidence.json \
+           out/overseas-sweep-state.json out/overseas-ai-attempts.json; do
     [ -f "$f" ] && git add "$f"
   done
   [ -e out/categories ] && git add out/categories || true
