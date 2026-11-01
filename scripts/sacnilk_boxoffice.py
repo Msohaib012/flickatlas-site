@@ -17,12 +17,22 @@ reader goes to the web pages directly.
 
 Spike-verified 2026-10-26 (parent): Sacnilk movie pages are fetchable
 (HTTP 200, ~2s, no bot-block) at https://www.sacnilk.com/movie/
-<Title>_<Year>. The day-wise figures live in "collection-cards"
-<div>/<ol> containers as `Day N <date> Rs<figure> Cr <label>` (one
-container per language version). Parsing is 100% accurate: for Jailer
-2 the 44 extracted entries (4 versions x 11 days) sum per version to
-exactly the page's own stated totals (Rs279.30 / Rs75.25 / Rs38.55 /
-Rs5.60 Cr).
+<Title>_<Year>. The day-wise figures then lived in "collection-cards"
+containers (one per language version, summed per day); parsing was
+100% accurate against the pages' own stated totals.
+
+REDESIGN (2026-10-30): Sacnilk replaced the cards with TABLES — an
+all-India day-wise table (Day | India net | India gross | ... |
+Shows | Occupancy), one net table per language version, and a
+state-wise gross table. The cards parser found no containers, so
+every fetch ended "no day-wise cards" and the source recorded 11
+consecutive failures. The reader now parses ONLY the India-net
+table, which states the all-language total directly (summing it
+with the language tables would double-count). Re-verified
+2026-11-01 on Jailer 2: the 17 extracted days sum to exactly the
+table's own stated total (Rs444.75 Cr); the quicknews page carries
+the same table, and its advance-booking / overseas sentences are
+unchanged in format.
 
 What it does (once a day, gated step in .github/workflows/
 hourly-pipeline.yml):
@@ -31,9 +41,9 @@ hourly-pipeline.yml):
     data missing or incomplete for its age, released within the last
     90 days) — never a title with complete data up to today, never an
     unreleased or very old title.
-  - Sums the language versions per day (the total across languages is
-    the film's day-wise net collection), converts Rs crore -> USD at
-    94.65, and merges into js/daywise-data.js using the SAME rules as
+  - Reads the all-India day-wise table (it states the total across
+    languages directly), converts Rs crore -> USD at 94.65, and
+    merges into js/daywise-data.js using the SAME rules as
     apply-auto.py section 2 (same film+day updates only when the value
     differs, otherwise append, days sorted, never zero/missing).
   - Every row passes boxoffice_extract.validate_box_row() at the
@@ -42,7 +52,7 @@ hourly-pipeline.yml):
 
 Politeness / resilience: a browser User-Agent, 2.5s between requests,
 30s timeout per fetch, max 30 titles per run. A 404 (no Sacnilk page
-for the title) or a page with no day-wise cards is logged and skipped
+for the title) or a page with no day-wise table is logged and skipped
 — never a crash. A title is skipped, not retried, on any failure.
 
 Usage:
@@ -113,18 +123,30 @@ DAYWISE_HEADER = (
     "/ tickets = India figures for the day when reported. */")
 
 # --- Sacnilk page parsing ----------------------------------------------
-# Day-wise cards live in <ol class="dw-days" id="collection-cards-N">
-# (one container per language version). Inside a card the text reads
-# "Day 1 15 Oct 2026 Rs43.35 Cr Excellent" — the date after Day 1
-# carries no year, so the year is inferred from the Day 1 date (or the
-# release year). Tags are stripped first: in the raw HTML the day, the
-# date and the figure sit in separate spans, so a regex over raw HTML
-# never matches.
-CONTAINER_RE = re.compile(
-    r'<ol[^>]*id="collection-cards-\d+"[^>]*>(.*?)</ol>', re.S)
-DAY_PAT = re.compile(
-    r"Day\s+(\d+)\s+(\d{1,2}\s+\w+(?:\s+\d{4})?)\s+"
-    r"₹([\d,]+\.?\d*)\s*Cr")
+# Since the 2026-10-30 redesign the day-wise figures live in TABLES.
+# A movie page carries an all-India day-wise table (header: Day |
+# India net | India gross | vs day before | Shows | Occupancy), one
+# net table per language version (Day | Tamil net | ...), and a
+# state-wise gross table. ONLY the India-net table is parsed: it
+# states the all-language total directly, so summing it with the
+# language tables would double-count. A day row's first cell reads
+# "Day 17 Sat 31 Oct · 8,738 shows · 22.9%" (quicknews: "Day 18 Live
+# Sun 1 Nov"); the net cell reads "₹9.35 Cr" (small figures may be
+# "₹85 L"). After the day rows come "Week N ..." aggregate rows and a
+# "Total · N days" row whose net figure is the page's own stated
+# total — the integrity anchor check_stated_totals compares the
+# parsed day sum against. Dates carry no year; the year is inferred
+# downstream from the Day 1 date (or the release year), exactly as
+# with the old cards.
+TABLE_RE = re.compile(r"<table.*?</table>", re.S)
+ROW_RE = re.compile(r"<tr.*?</tr>", re.S)
+CELL_RE = re.compile(r"<t[dh][^>]*>(.*?)</t[dh]>", re.S)
+AMOUNT_RE = re.compile(r"₹([\d,]+\.?\d*)\s*(Cr|L)\b")
+DAY_LABEL_RE = re.compile(r"^Day\s+(\d+)\b")
+DATE_CELL_RE = re.compile(
+    r"(\d{1,2})\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)")
+# Legacy stated-total text (pre-redesign pages); fallback only — the
+# table's own Total row is the primary stated total now.
 STATED_TOTAL_RE = re.compile(r"Net Collection ₹([\d,]+\.?\d*)\s*Cr")
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun",
@@ -161,60 +183,145 @@ def fetch_page(slug):
         return None
 
 
+def _cell_text(raw_html):
+    """One table cell's inner HTML -> flat text."""
+    text = re.sub(r"<[^>]+>", " ", raw_html)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _amount_cr(text):
+    """First ₹ amount in a cell -> crore (₹L converts at 100 L = 1 Cr).
+    None when the cell carries no ₹ amount."""
+    m = AMOUNT_RE.search(text or "")
+    if not m:
+        return None
+    v = float(m.group(1).replace(",", ""))
+    return v / 100.0 if m.group(2) == "L" else v
+
+
+def parse_india_table(html):
+    """The page's all-India day-wise table -> (per_day, stated_total,
+    extras), or None when the page has no such table. The table is
+    identified by its header row (first cell "Day", an "India net"
+    column) — per-language tables ("Tamil net", ...) and the
+    state-wise table never match.
+    per_day: {day: (date_str, india_net_crore)} — date_str is the
+      "15 Oct" form downstream expects (weekday and the inline
+      shows/occupancy summary stripped).
+    stated_total: the table's "Total · N days" net figure (Cr), or
+      None when the table has no Total row.
+    extras: {day: {"shows": N, "occupancy_pct": Y}} from the table's
+      Shows / Occupancy columns (staging keys)."""
+    if not html:
+        return None
+    for table in TABLE_RE.findall(html):
+        rows = ROW_RE.findall(table)
+        if not rows:
+            continue
+        header = [_cell_text(c) for c in CELL_RE.findall(rows[0])]
+        if not header or header[0] != "Day" or "India net" not in header:
+            continue
+        per_day = {}
+        extras = {}
+        stated_total = None
+        for row in rows[1:]:
+            cells = [_cell_text(c) for c in CELL_RE.findall(row)]
+            if len(cells) < 2:
+                continue
+            if cells[0].startswith("Total"):
+                v = _amount_cr(cells[1])
+                if v is not None:
+                    stated_total = v
+                continue
+            m = DAY_LABEL_RE.match(cells[0])
+            if not m:
+                continue  # "Week N ..." aggregate rows land here
+            dm = DATE_CELL_RE.search(cells[0])
+            cr = _amount_cr(cells[1])
+            if not dm or cr is None:
+                continue
+            day = int(m.group(1))
+            if day in per_day:
+                continue
+            per_day[day] = (f"{int(dm.group(1))} {dm.group(2)}", cr)
+            slot = {}
+            if len(cells) > 4:
+                try:
+                    slot["shows"] = int(cells[4].replace(",", ""))
+                except ValueError:
+                    pass
+            if len(cells) > 5:
+                om = re.match(r"([\d.]+)%", cells[5])
+                if om:
+                    try:
+                        slot["occupancy_pct"] = round(float(om.group(1)), 1)
+                    except ValueError:
+                        pass
+            if slot:
+                extras[day] = slot
+        return per_day, stated_total, extras
+    return None
+
+
 def parse_daywise(html):
     """A Sacnilk movie page -> (per_day, versions, stated_totals).
-    per_day: {day: (date_str, total_crore)} summed across the language
-      versions (the total across languages is the film's day-wise net).
-    versions: [(n_days, total_crore)] per language version, page order.
-    stated_totals: [crore] the page's own per-version totals, in order.
-    Returns (None, [], []) when the page has no day-wise cards."""
-    containers = CONTAINER_RE.findall(html)
-    if not containers:
+    per_day: {day: (date_str, total_crore)} from the all-India
+      day-wise table (it states the all-language total directly).
+    versions: [(n_days, total_crore)] — a single entry for the total
+      table (the pre-redesign markup produced one entry per language
+      version; the semantics check_stated_totals relies on — parsed
+      sums to compare against the page's stated totals — are
+      unchanged).
+    stated_totals: [crore] the table's own "Total · N days" net
+      figure; the legacy "Net Collection ₹X Cr" text is the fallback
+      when a page carries no Total row.
+    Returns (None, [], []) when the page has no day-wise table."""
+    parsed = parse_india_table(html)
+    if parsed is None:
         return None, [], []
-    versions = []
-    per_day = defaultdict(float)
-    per_day_date = {}
-    for c in containers:
-        text = re.sub(r"<[^>]+>", " ", c)
-        text = re.sub(r"\s+", " ", text)
-        days = DAY_PAT.findall(text)
-        if not days:
-            continue
-        total = 0.0
-        for day_s, date_s, cr_s in days:
-            day = int(day_s)
-            cr = float(cr_s.replace(",", ""))
-            total += cr
-            per_day[day] += cr
-            # first-seen date string for the day (all versions agree)
-            per_day_date.setdefault(day, date_s)
-        versions.append((len(days), total))
-    if not versions:
+    per_day, stated_total, _extras = parsed
+    if not per_day:
         return None, [], []
-    full_text = re.sub(r"<[^>]+>", " ", html)
-    full_text = re.sub(r"\s+", " ", full_text)
-    stated = [float(x.replace(",", ""))
-              for x in STATED_TOTAL_RE.findall(full_text)]
-    per_day_out = {d: (per_day_date[d], per_day[d])
-                   for d in sorted(per_day)}
-    return per_day_out, versions, stated
+    total = round(sum(cr for _date_s, cr in per_day.values()), 2)
+    versions = [(len(per_day), total)]
+    if stated_total is not None:
+        stated = [stated_total]
+    else:
+        full_text = re.sub(r"<[^>]+>", " ", html)
+        full_text = re.sub(r"\s+", " ", full_text)
+        stated = [float(x.replace(",", ""))
+                  for x in STATED_TOTAL_RE.findall(full_text)]
+    return per_day, versions, stated
+
+
+def parse_daywise_extras(html):
+    """{day: {"shows": N, "occupancy_pct": Y}} (staging keys) from the
+    movie page's India-net table. The quicknews page is the fresher
+    source for the live day; main() overlays its extras on top."""
+    parsed = parse_india_table(html)
+    if parsed is None:
+        return {}
+    return parsed[2]
 
 
 # --- Quicknews page (live current day + advance booking) --------------
-# The /movie/ page's day-wise cards only list COMPLETED days — the
+# The /movie/ page's day-wise table only lists COMPLETED days — the
 # current day's figure is a live running estimate that Sacnilk updates
 # through the day, and it lives on the per-day quicknews page instead:
 #   /quicknews/<slug>_Box_Office_Collection_Day_<N>
-# That page carries a "Box Office Summary" table (Day 1..N, each with a
-# figure and a "Live" marker on the current day) AND a sentence
-# "Advance booking for Day <N+1> (<date>) of <Title> stands at
-# Rs<X> Cr gross as of <time>" — the next day's advance figure.
-# The quicknews table is the FRESHER source for the current day; the
-# /movie/ cards remain the source for completed days. Advance figures
-# are NEVER merged into day-wise rows — they go to js/advance-data.js.
-SUMMARY_DAY_RE = re.compile(
-    r"Day\s+(\d+)\s+(\d{1,2}\s+\w+(?:\s+\d{4})?)\s+\([^)]*\)\s+"
-    r"₹([\d,]+\.?\d*)\s*Cr(?:\s+Live)?")
+# That page carries the same India-net day-wise table as the movie
+# page (Day 1..N, the current day's first cell marked "Live"), parsed
+# by parse_india_table, AND a sentence "Advance booking for
+# Day <N+1> (<date>) of <Title> stands at Rs<X> Cr gross as of
+# <time>" — the next day's advance figure. Both the table and the
+# sentence kept their formats through the 2026-10-30 redesign
+# (re-verified 2026-11-01: Jailer 2 Day 18 quicknews — summary table
+# with the live Day 18 figure, "Advance booking for Day 19 (Mon
+# 2 Nov) ... ₹2.61 Cr gross", and the Day 17 page's overseas
+# sentence). The quicknews table is the FRESHER source for the
+# current day; the /movie/ table remains the source for completed
+# days. Advance figures are NEVER merged into day-wise rows — they
+# go to js/advance-data.js.
 # Overseas-standing paragraph (data-sn-para="overseas-standing") on a
 # quicknews day page. Day 2+ states the DAY figure; Day 1 states the
 # cumulative total, which IS the Day 1 figure (no earlier day exists).
@@ -224,12 +331,6 @@ OVERSEAS_DAY_RE = re.compile(
 OVERSEAS_DAY1_RE = re.compile(
     r"Overseas, the film has grossed a total of ₹([\d,]+\.?\d*)\s*Cr "
     r"in gross collections")
-# Box Office Summary table, second rendering: Day N date (weekday)
-# ₹XCr <shows> <occupancy>% — the first rendering has no shows
-# number, so this pattern matches only the shows rendering.
-SUMMARY_SHOWS_RE = re.compile(
-    r"Day\s+(\d+)\s+(\d{1,2}\s+\w+(?:\s+\d{4})?)\s+\([^)]*\)\s+"
-    r"₹([\d,]+\.?\d*)\s*Cr\s+([\d,]{4,})\s+([\d.]+)%")
 ADVANCE_RE = re.compile(
     r"Advance booking for Day\s+(\d+)\s+\(([^)]+)\)[^₹]*?"
     r"₹([\d,]+\.?\d*)\s*Cr\s+gross", re.I)
@@ -260,8 +361,8 @@ def fetch_quicknews(slug, day):
 
 def parse_quicknews(html):
     """A quicknews day page -> (per_day, advance, extras).
-    per_day: {day: (date_str, total_crore)} from the Box Office Summary
-      table (all days listed, current day marked Live).
+    per_day: {day: (date_str, total_crore)} from the page's India-net
+      day-wise table (all days listed, current day marked Live).
     advance: (day, date_str, crore) from the 'Advance booking for
       Day N ... stands at RsX Cr gross' sentence, or None.
     extras: {day: {"overseas_inr_cr": X, "shows": N,
@@ -269,33 +370,22 @@ def parse_quicknews(html):
       sentence (the page's day figure; the Day-1 phrasing carries the
       cumulative total, which IS the Day 1 figure, keyed to None for
       the caller to assign the page's day), shows + occupancy from
-      the summary table's second rendering (all days listed).
-    Returns ({}, None, {}) when the page has no summary table."""
+      the same table's Shows / Occupancy columns.
+    Returns ({}, None, {}) when the page has no summary table and no
+    advance / overseas sentence."""
     text = re.sub(r"<[^>]+>", " ", html)
     text = re.sub(r"\s+", " ", text)
     per_day = {}
-    for day_s, date_s, cr_s in SUMMARY_DAY_RE.findall(text):
-        day = int(day_s)
-        if day not in per_day:
-            per_day[day] = (date_s, float(cr_s.replace(",", "")))
+    extras = {}
+    parsed = parse_india_table(html)
+    if parsed is not None:
+        per_day, _stated_total, table_extras = parsed
+        extras = {d: dict(v) for d, v in table_extras.items()}
     advance = None
     m = ADVANCE_RE.search(text)
     if m:
         advance = (int(m.group(1)), m.group(2).strip(),
                    float(m.group(3).replace(",", "")))
-    extras = {}
-    for day_s, _date_s, _cr_s, shows_s, occ_s in \
-            SUMMARY_SHOWS_RE.findall(text):
-        day = int(day_s)
-        slot = extras.setdefault(day, {})
-        try:
-            slot["shows"] = int(shows_s.replace(",", ""))
-        except ValueError:
-            pass
-        try:
-            slot["occupancy_pct"] = round(float(occ_s), 1)
-        except ValueError:
-            pass
     m = OVERSEAS_DAY_RE.search(text)
     if m:
         day = int(m.group(2))
@@ -747,19 +837,23 @@ def main():
             continue
         per_day, versions, stated = parse_daywise(html)
         if per_day is None:
-            print(f"  sacnilk: {title}: no day-wise cards on page, "
+            print(f"  sacnilk: {title}: no day-wise table on page, "
                   f"skipping")
             skipped_nodata += 1
             if args.slug:
                 break
             continue
         check_stated_totals(title, versions, stated)
+        # Shows / occupancy for the completed days come from the
+        # movie page's own table; the quicknews extras (fresher for
+        # the live day, and the only overseas source) overlay below.
+        page_extras = parse_daywise_extras(html)
         # Quicknews: the live current-day figure (and the next day's
-        # advance booking). The /movie/ cards only list completed days;
+        # advance booking). The /movie/ table only lists completed days;
         # the current day's live figure is on the quicknews Day_N page.
         # Only the current day is overlaid from quicknews (it is the
         # fresher source for that day); completed days keep the
-        # verified /movie/ card values, and quicknews fills any gap.
+        # verified /movie/ table values, and quicknews fills any gap.
         # LIVE-DAY FIX (2026-10-26): cur_day comes from Sacnilk's own
         # Day 1 date (the anchor), NOT from the TMDB release_date in
         # published-titles.js. TMDB's date can be the global/premiere
@@ -843,10 +937,12 @@ def main():
                 # fetch_quicknews already prints the HTTP status.
                 print(f"  sacnilk: {title}: quicknews Day {cur_day} "
                       f"unavailable — today ({today.isoformat()}) not "
-                      f"on quicknews; /movie/ cards only")
-        rows = build_rows(entry, per_day, url, today, extras=qn_extras)
-        print(f"  sacnilk: {title}: {len(rows)} rows from "
-              f"{len(versions)} language version(s), "
+                      f"on quicknews; /movie/ table only")
+        extras = {d: dict(v) for d, v in page_extras.items()}
+        for d, ex in qn_extras.items():
+            extras.setdefault(d, {}).update(ex)
+        rows = build_rows(entry, per_day, url, today, extras=extras)
+        print(f"  sacnilk: {title}: {len(rows)} rows over "
               f"{len(per_day)} days")
         all_rows.extend(rows)
         fetched += 1
@@ -856,7 +952,7 @@ def main():
     added, updated, changes = merge_daywise(daywise, all_rows, by_tmdb,
                                             today)
     print(f"sacnilk: fetched {fetched} page(s), {skipped_404} 404/failed, "
-          f"{skipped_nodata} no day-wise cards; "
+          f"{skipped_nodata} no day-wise table; "
           f"merge: +{added} new, {updated} updated")
     for tid, day, coll, kind in changes:
         name = by_tmdb.get(tid, {}).get("title", tid)
