@@ -29676,5 +29676,214 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 11:22:02 +0530"
+  },
+  "j2m5kr": {
+    "id": "j2m5kr",
+    "type": "news",
+    "headline": "Jailer 2 Box Office: Rajinikanth Starrer Crosses Rs 497 Crore on Third Saturday",
+    "dek": "Rajinikanth's mass actioner Jailer 2 registers a massive 70 percent spike on its third Saturday, bringing it to the doorstep of the coveted Rs 500 crore club in India.",
+    "body": [
+      {
+        "h": "Third Saturday Surge at the Box Office",
+        "p": [
+          "Rajinikanth's high-octane action drama Jailer 2 has continued its stellar theatrical run by pulling in an impressive Rs 10.50 crore on its third Saturday. This figure marks a significant 70 percent spike compared to the collections of the previous day, demonstrating strong lingering audience interest.",
+          "With this latest single-day boost, the film's cumulative domestic total has climbed to a staggering Rs 497 crore. Trade analysts note that the movie is on the absolute verge of crossing the major milestone of Rs 500 crore by the end of the day."
+        ]
+      },
+      {
+        "h": "Milestones and Historical Standing",
+        "p": [
+          "Reaching the half-thousand crore mark will cement Jailer 2 as only the second Tamil film in history to achieve this feat at the Indian box office, following the path paved by 2.0.",
+          "Furthermore, the mass entertainer is positioned to surpass 2.0 entirely to become the highest-grossing Tamil film domestically. Notably, the movie has already claimed the top position at the worldwide box office."
+        ]
+      },
+      {
+        "h": "Breakdown of Weekly Earnings",
+        "p": [
+          "The journey to Rs 497 crore has been built on exceptionally strong weekly holds. During its first week in theaters, the actioner raked in a massive Rs 375.50 crore.",
+          "Even as it transitioned into its second week, the film added another steady Rs 104.75 crore, followed by Rs 6.25 crore on its third Friday before the major weekend spike on Saturday."
+        ]
+      },
+      {
+        "h": "Dominance in Tamil Nadu and Regional Markets",
+        "p": [
+          "In its home state of Tamil Nadu, the Rajinikanth vehicle has smashed past Rs 192.25 crore so far and is barreling quickly toward the prestigious Rs 200 crore milestone.",
+          "Meanwhile, the film's run in the Telugu states of Andhra Pradesh and Telangana has nearly drawn to a close, pulling in around Rs 88.50 crore as newer regional releases enter the competitive landscape over the weekend."
+        ]
+      },
+      {
+        "h": "Pankaj Mania Across Neighboring States",
+        "p": [
+          "The star power of Rajinikanth generated record-shattering numbers in neighboring Karnataka and Kerala, where Jailer 2 successfully established itself as the highest-grossing Tamil film in both regions.",
+          "In addition to its stronghold in southern territories, the action drama managed a solid performance across the Rest of India region, bringing in Rs 52.00 crore despite a lack of distribution in national multiplex chains."
+        ]
+      },
+      {
+        "h": "Territorial Revenue Summary",
+        "p": [
+          "A closer look at the territorial collection breakdown highlights the widespread appeal of the movie across diverse linguistic and geographic markets.",
+          "Tamil Nadu contributed Rs 192.25 crore, Andhra Pradesh and Telangana added Rs 88.50 crore, Karnataka brought in Rs 88.50 crore, Kerala accounted for Rs 75.75 crore, and the Rest of India contributed Rs 52.00 crore, culminating in the Rs 497.00 crore domestic grand total."
+        ]
+      },
+      {
+        "h": "Trade Estimates and Nature of Figures",
+        "p": [
+          "Industry observers remind audiences that these box office metrics, including opening-day forecasts and lifetime collection projections, are subjective trade estimates.",
+          "These figures are compiled using commercial parameters, advance booking trends, and general market sentiment rather than being certified accounting statements."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action drama Jailer 2 earned Rs 10.50 crore on its third Saturday, bringing its total domestic collections to Rs 497 crore. The Nelson Dilipkumar directorial is on the verge of entering the Rs 500 crore club as the second Tamil film to do so."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected Rs 10.50 crore on its 3rd Saturday.",
+      "The film's total domestic box office collection reached Rs 497 crore.",
+      "Week 1 collections stood at Rs 375.50 crore.",
+      "Week 2 collections stood at Rs 104.75 crore.",
+      "3rd Friday collections were Rs 6.25 crore.",
+      "Tamil Nadu collections reached Rs 192.25 crore.",
+      "AP and TS collections reached Rs 88.50 crore.",
+      "Karnataka collections reached Rs 88.50 crore.",
+      "Kerala collections reached Rs 75.75 crore.",
+      "Rest of India collections reached Rs 52.00 crore."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Mohit Dixit"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0",
+        "AK 47"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collections",
+      "Jailer 2 3rd Saturday collection",
+      "Jailer 2 500 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/246477308_904514413_jailer-2-webp-1-1.webp",
+        "caption": "Jailer 2 Box Office: Rajinikanth Starrer Crosses Rs 497 Crore on Third Saturday",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 13:33:27 +0530"
+  },
+  "1ntmmn9": {
+    "id": "1ntmmn9",
+    "type": "news",
+    "headline": "Shah Rukh Khan Birthday: King Promo Drop Expected At Midnight, Mannat Gets Ready",
+    "dek": "A special promotional asset from Shah Rukh Khan's upcoming film King is anticipated at midnight for his 61st birthday, as fans and Mumbai prepare for the celebrations.",
+    "body": [
+      {
+        "h": "Anticipation Grows for a Midnight Reveal",
+        "p": [
+          "Excitement has reached a fever pitch as followers of superstar Shah Rukh Khan await a special promotional asset from his upcoming project, King. The release is slated for midnight on November 2, coinciding with the actor entering his 61st year.",
+          "While industry circles buzz about what the asset might entail, the production team has remained tight-lipped regarding whether the drop will feature a teaser, a musical track, or another promotional format."
+        ]
+      },
+      {
+        "h": "Cryptic Social Media Clues from the Director",
+        "p": [
+          "Fueling the midnight speculation further, director Siddharth Anand shared a sequence of mysterious, one-word updates on X. Each message went live precisely at midnight over the course of a few days.",
+          "Dedicated admirers successfully deciphered the fragmented updates to spell out the sentence, \"It’s Time for the world To Celebrate.\" This strategic timing heavily reinforced theories that a major promotional unveiling was planned for the actor's birthday."
+        ]
+      },
+      {
+        "h": "Rumored Collaboration Between Ed Sheeran and Arijit Singh",
+        "p": [
+          "Additional reports from industry trackers suggest that the crime action-thriller might incorporate a unique musical collaboration. Word has circulated about a track featuring international artist Ed Sheeran alongside playback singer Arijit Singh.",
+          "If officially verified, this collaboration would bridge two distinct musical spheres specifically for the film, aligning its rollout with the actor's birthday milestones."
+        ]
+      },
+      {
+        "h": "Citywide Tributes Across Mumbai",
+        "p": [
+          "Celebrations have swiftly spilled past digital platforms into physical city landmarks. The Bandra-Worli Sea Link in Mumbai has been illuminated with bright celebratory displays in honor of the iconic actor.",
+          "Photographic evidence of the illuminated bridge has circulated widely across the internet, capturing the immense scale of the festivities leading up to the star's special day."
+        ]
+      },
+      {
+        "h": "Preparations Outside Mannat",
+        "p": [
+          "Crowds and onlookers have gathered outside the actor's Mumbai residence, Mannat, as workers set up a special panel in anticipation of the scheduled King reveal.",
+          "Followers stationed outside the gates remain eager to witness firsthand what the movie's crew and the actor have prepared for the festive occasion."
+        ]
+      },
+      {
+        "h": "About the Crime Action-Thriller King",
+        "p": [
+          "Directed by Siddharth Anand, King reunites the filmmaker with Shah Rukh Khan following their previous collaboration on Pathaan. The movie is backed by Gauri Khan under Red Chillies Entertainment alongside Marflix Pictures.",
+          "The star-studded cast features Shah Rukh Khan in the titular role alongside Suhana Khan in a prominent lead. Abhishek Bachchan steps in as the primary antagonist, supported by Deepika Padukone in an extended special appearance, alongside Jaideep Ahlawat and Raghav Juyal."
+        ]
+      },
+      {
+        "h": "Global Scale and Release Plans",
+        "p": [
+          "Constructed on a grand international scale, the movie boasts action sequences filmed across various global destinations. Attention remains firmly locked on the impending midnight reveal and whether it will deliver the very first footage of the film.",
+          "The feature is scheduled for a worldwide theatrical release on December 24, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Preparations are underway across Mumbai and outside Mannat for Shah Rukh Khan's 61st birthday, alongside expectations for a King promotional asset drop at midnight on November 2. The Siddharth Anand directorial, set for a December 24, 2026 release, has sparked massive anticipation through cryptic director posts and rumored musical collaborations."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan is turning 61 years old.",
+      "The anticipated King promotional asset is expected at midnight on November 2, 2026.",
+      "King is directed by Siddharth Anand.",
+      "King is scheduled for worldwide theatrical release on December 24, 2026.",
+      "The Bandra-Worli Sea Link in Mumbai has been illuminated in honor of Shah Rukh Khan."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Ed Sheeran",
+        "Arijit Singh",
+        "Gauri Khan",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Jaideep Ahlawat",
+        "Raghav Juyal",
+        "Joginder Tuteja",
+        "Priyanka Sharma",
+        "Sambit Patra",
+        "Narendra Modi",
+        "Dhruv Jurel"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan birthday",
+      "King movie teaser",
+      "Siddharth Anand King",
+      "Shah Rukh Khan King release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/king-011535386-16x9_0.jpg?VersionId=ny1FJTr6KKunZBzbqUg4SYWsFwN_E2nm",
+        "caption": "Shah Rukh Khan Birthday: King Promo Drop Expected At Midnight, Mannat Gets Ready",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 12:49:28 +0530"
   }
 };
