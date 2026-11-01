@@ -31519,5 +31519,209 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 15:30:12 GMT"
+  },
+  "yfx1rx": {
+    "id": "yfx1rx",
+    "type": "news",
+    "headline": "Netflix Postpones The Witcher Season 5 Release to 2027 and Sets a Streaming Record",
+    "dek": "Netflix has shifted the final season of its flagship fantasy series to spring 2027, inadvertently setting a longevity milestone for streaming fantasy shows.",
+    "body": [
+      {
+        "h": "The Schedule Shift",
+        "p": [
+          "Netflix has removed the final season of its flagship fantasy series from its planned release window, moving its arrival from late 2025 or 2026 into the following year. Viewers waiting for the conclusion of Geralt, Yennefer, and Ciri's journeys will now see the last episodes arrive in the spring of 2027, with March being the most likely timeframe.",
+          "While this postponement has been attributed to complications during the post-production phase, it ultimately saves the production from a crowded release calendar. Because seasons four and five were filmed concurrently, a total cancellation was never under consideration, ensuring that the saga will reach a complete resolution."
+        ]
+      },
+      {
+        "h": "Avoiding Heavyweight Competition",
+        "p": [
+          "Releasing the final episodes in late 2025 would have pitted the fantasy drama against three major genre titles across rival platforms. Prime Video scheduled the third season of The Rings of Power for November, featuring the creation of the One Ring and a guest appearance by Simon Pegg as the Balrog.",
+          "Additionally, Disney+ and Hulu lined up the third season of Percy Jackson and the Olympians to adapt The Titan's Curse in late November, while HBO planned its major television adaptation of Harry Potter for a Christmas Day premiere. Facing such dominant competition, the show might have suffered heavily in both viewership metrics and critical reception."
+        ]
+      },
+      {
+        "h": "A Historic Longevity Milestone",
+        "p": [
+          "By extending its timeline into 2027, the series achieves an unexpected historic milestone within the streaming landscape. Having debuted in December 2019, the production surpasses the previous longevity record held by Prime Video's Good Omens, which spanned exactly seven years from May 2019 to May 2026.",
+          "Passing this operational threshold in mid-December means the Netflix production will stand as the longest-running streaming original fantasy television series in history when its final episodes debut. Despite a mixed reception and various creative shifts across its run, the adaptation remains remarkably resilient."
+        ]
+      },
+      {
+        "h": "Background and Critical Reception",
+        "p": [
+          "The journey to this final stretch has seen considerable fluctuations in both audience sentiment and critical reviews. Following a strong debut that established Henry Cavill as Geralt of Rivia, subsequent seasons experienced shifting audience scores and critical evaluations.",
+          "The fourth season, which aired in October 2025, left the titular monster hunter separated from his loved ones under difficult conditions. These developments led some viewers to question whether the final chapter might face sudden elimination before its completion."
+        ]
+      },
+      {
+        "h": "The Legacy of the Fantasy Flagship",
+        "p": [
+          "As Netflix's premier fantasy saga prepares to wrap up, its legacy is defined by both massive ambition and turbulent viewer reactions. The transition from its initial seasons starring Henry Cavill to the later episodes has charted a unique path for high-budget streaming television.",
+          "The forthcoming spring 2027 premiere gives the production an isolated window to carve out its own space in the schedule. Rather than getting lost among winter blockbusters, the series can conclude on its own terms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has delayed the final season of The Witcher to spring 2027 to avoid heavy competition from rival fantasy shows, passing a major longevity record in the process. Although the fourth season faced mixed reviews, the concurrently filmed fifth installment will officially close out the series."
+        ]
+      }
+    ],
+    "facts": [
+      "The Witcher premiered on December 20, 2019.",
+      "Season 4 of The Witcher was released on October 30, 2025.",
+      "Season 5 of The Witcher is expected to be released in the spring of 2027, most likely in March.",
+      "Good Omens ran for 7 years from May 31, 2019 to May 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Guy Howie",
+        "Henry Cavill",
+        "Anya Chalotra",
+        "Lauren Schmidt Hissrich",
+        "Simon Pegg",
+        "Rick Riordan",
+        "David Tennant",
+        "Terry Pratchett",
+        "George R.R. Martin",
+        "Faith Roswell",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "The Witcher",
+        "Good Omens",
+        "The Lord of the Rings: The Rings of Power",
+        "Percy Jackson and the Olympians",
+        "The Titan's Curse",
+        "Harry Potter",
+        "The Dragon Prince",
+        "Lucifer",
+        "Disenchantment",
+        "A Song Of Ice Fire",
+        "The Last Of Us"
+      ]
+    },
+    "keywords": [
+      "The Witcher season 5 delay",
+      "Netflix fantasy series streaming record",
+      "The Witcher 2027 release date",
+      "Geralt of Rivia Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/henry-cavill-anya-chalotra-and-freya-allan-as-geralt-yennefer-and-ciri-in-the-witcher.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Postpones The Witcher Season 5 Release to 2027 and Sets a Streaming Record",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 16:46:19 GMT"
+  },
+  "1szmnrn": {
+    "id": "1szmnrn",
+    "type": "news",
+    "headline": "The Terminal List Season 2 Surpasses Reacher to Become the No. 1 Series Worldwide",
+    "dek": "Chris Pratt's military action thriller has climbed to the top of the Prime Video streaming charts following its Season 2 premiere.",
+    "body": [
+      {
+        "h": "The Rise to the Top of Streaming",
+        "p": [
+          "Amazon Prime Video has reclaimed the top spot on global streaming charts with the return of one of its most prominent action franchises. Despite the recent success of rival titles and the strong performance of competing hits, the platform has proven its ongoing strength in the action thriller genre. The military drama has officially captured the highest viewership worldwide.",
+          "This recent surge in popularity places the show ahead of other dominant streaming favorites, demonstrating the massive audience pull that military-themed action narratives continue to command across international markets."
+        ]
+      },
+      {
+        "h": "The Terminal List Takes Over the Charts",
+        "p": [
+          "The military action thriller starring Chris Pratt debuted its second season on October 21 and swiftly secured the position of the biggest series on streaming platforms. Recent streaming data indicates that the adaptation of Jack Carr's book series reigned as the most-watched title between October 19 and October 25.",
+          "In doing so, it displaced the revenge thriller Carrie, which had previously held the top position for several weeks before dropping to number two. Meanwhile, other popular franchise entries such as Reacher and its companion series Neagley landed at number three and number four respectively during the exact same tracking period."
+        ]
+      },
+      {
+        "h": "Plot and Character Arc in Season 2",
+        "p": [
+          "Season 2 features the return of Chris Pratt as James Reece, the former Navy SEAL who previously sought brutal retribution against those responsible for the tragic murder of his family. In the current season, Reece remains on the run while facing an entirely new global threat posed by a dangerous terrorist named Mohammed Farooq.",
+          "After being captured, Reece is presented with an unexpected proposition involving a full government pardon and life-saving brain surgery. In exchange, he must assist the Central Intelligence Agency in hunting down Farooq, who has pledged allegiance to Al-Qaeda and evolved into one of the most perilous operatives within the terrorist organization."
+        ]
+      },
+      {
+        "h": "Audience and Critic Reception",
+        "p": [
+          "Much like its inaugural run, the second season of the military thriller has generated a largely positive reaction among general viewers. The sophomore installment currently holds a strong 91% audience score on Rotten Tomatoes, closely trailing the 94% audience approval rating earned by the first season.",
+          "Conversely, professional critics have offered a somewhat more mixed evaluation of the series across both seasons. The first season stands at a 42% critics score on the platform, while the newly released second entry holds a slightly higher critics score of 60%."
+        ]
+      },
+      {
+        "h": "A Lengthy Production Gap",
+        "p": [
+          "The arrival of Season 2 marks a significant temporal span, coming more than four years after the debut of Season 1 in July 2022. While the prequel series The Terminal List: Dark Wolf launched in 2025 to help sustain audience interest, such an extended hiatus between main seasons remains quite unusual for major streaming television.",
+          "In contrast, other Prime Video properties such as Reacher maintain much shorter intervals between seasonal releases, highlighting different strategic release schedules employed by the platform. The extended wait for the latest chapter was heavily influenced by a combination of Chris Pratt's demanding filming schedule and a prolonged writers' strike that disrupted Hollywood productions."
+        ]
+      },
+      {
+        "h": "Future Prospects for Season 3",
+        "p": [
+          "Following the successful rollout of the second season, viewers and creators have begun discussing the possibility of a third installment. Although Amazon has not yet issued an official renewal for a subsequent season, series creator David DiGilio and lead actor Chris Pratt have both expressed optimism regarding the show's continuation.",
+          "Discussing future creative directions, DiGilio has highlighted the novel Savage Son as a potential inspiration for subsequent episodes, describing it as a compelling thriller. Pratt echoed similar sentiments, stating that the team possesses numerous concepts and would happily continue entertaining audiences if the demand remains strong."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Terminal List Season 2 has officially claimed the top position on global streaming charts after its October 21 premiere, surpassing previous leaders like Reacher. The military action thriller follows James Reece as he navigates a high-stakes mission for the CIA, drawing strong audience enthusiasm despite a lengthy production gap since Season 1."
+        ]
+      }
+    ],
+    "facts": [
+      "The Terminal List Season 2 premiered on October 21.",
+      "The series was the most-watched title from October 19 to October 25.",
+      "Season 1 was released in July 2022.",
+      "Season 2 holds a 91% audience score on Rotten Tomatoes.",
+      "Season 1 holds a 94% audience score on Rotten Tomatoes.",
+      "Season 1 has a 42% critics score on Rotten Tomatoes.",
+      "Season 2 has a 60% critics score on Rotten Tomatoes.",
+      "The prequel series The Terminal List: Dark Wolf was released in 2025."
+    ],
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "James Reece",
+        "Mohammed Farooq",
+        "Jack Carr",
+        "David DiGilio",
+        "Carrie",
+        "Alan Ritchson",
+        "Fred Toye",
+        "Sylvain White",
+        "Antoine Fuqua",
+        "Ellen Kuras",
+        "M.J. Bassett",
+        "Jeanne Tripplehorn"
+      ],
+      "titles": [
+        "Reacher",
+        "The Terminal List",
+        "Neagley",
+        "The Terminal List: Dark Wolf",
+        "Savage Son"
+      ]
+    },
+    "keywords": [
+      "The Terminal List",
+      "Chris Pratt",
+      "James Reece",
+      "Jack Carr",
+      "Mohammed Farooq"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/09/alan-ritchson-in-reacher.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Terminal List Season 2 Surpasses Reacher to Become the No. 1 Series Worldwide",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 16:00:16 GMT"
   }
 };
