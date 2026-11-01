@@ -9,6 +9,7 @@
    - fa/geo/{date}/{countryCode}/{id} = 1  (via /api/geo)
    - fa/qs/{date}/{term}/{id} = 1          (site search terms, from ?q=)
    - fa/qz/{date}/{term}/{id} = 1          (searches with no matches)
+   - fa/sess/{startDate}/{sid} = { a: startMs, b: lastMs }   (session duration)
    Ids carry the fa_web_ prefix. Dates are UTC. Best-effort and silent. */
 (function () {
   var DB = "https://arenaflix-53ce8-default-rtdb.firebaseio.com/fa";
@@ -154,14 +155,42 @@
     }, 3000);
   }
 
+  /* --- session duration: one record per tab session (start + last-seen) --- */
+  var sess = null;
+  function sessGet() {
+    if (sess) return sess;
+    try {
+      var raw = sessionStorage.getItem("fa_sess");
+      if (raw) { var p2 = JSON.parse(raw); if (p2 && p2.sid && p2.a) { sess = p2; return sess; } }
+    } catch (e) {}
+    sess = { sid: "s_" + Date.now().toString(36) + "_" + Math.random().toString(36).substring(2, 8), a: Date.now() };
+    try { sessionStorage.setItem("fa_sess", JSON.stringify(sess)); } catch (e) {}
+    return sess;
+  }
+  function sessBeat() {
+    if (window.navigator && window.navigator.onLine === false) return;
+    var s2 = sessGet();
+    var dk = new Date(s2.a).toISOString().slice(0, 10);
+    try {
+      fetch(DB + "/sess/" + dk + "/" + s2.sid + ".json", {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ a: s2.a, b: Date.now() }),
+        keepalive: true
+      }).catch(function () {});
+    } catch (e) {}
+  }
+
   beat();
+  sessBeat();
   hit();
   dailyMeta();
   dailyGeo();
   recordSearchFromUrl();
-  setInterval(beat, 120000);
+  setInterval(function () { beat(); sessBeat(); }, 120000);
   document.addEventListener("visibilitychange", function () {
-    if (document.visibilityState === "visible") { beat(); hit(false); }
+    if (document.visibilityState === "visible") { beat(); hit(false); sessBeat(); }
+    else { sessBeat(); }
   });
   var lastHref = location.href;
   setInterval(function () {

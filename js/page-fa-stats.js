@@ -152,7 +152,8 @@
         fetch(DB + "/hr.json?_t=" + now, { cache: "no-store" }),
         fetch(DB + "/ref.json?_t=" + now, { cache: "no-store" }),
         fetch(DB + "/pv.json?_t=" + now, { cache: "no-store" }),
-        fetch(DB + "/qz.json?_t=" + now, { cache: "no-store" })
+        fetch(DB + "/qz.json?_t=" + now, { cache: "no-store" }),
+        fetch(DB + "/sess.json?_t=" + now, { cache: "no-store" })
       ]);
       var pres = rs[0].ok ? await rs[0].json() : null;
       var daily = rs[1].ok ? await rs[1].json() : null;
@@ -165,6 +166,7 @@
       var ref = rs[8].ok ? await rs[8].json() : null;
       var pv = rs[9].ok ? await rs[9].json() : null;
       var qz = rs[10].ok ? await rs[10].json() : null;
+      var sess = rs[11].ok ? await rs[11].json() : null;
       if (!pres && !daily) throw new Error("empty");
 
       var live = 0;
@@ -251,6 +253,36 @@
         $("st-views").textContent = fmt(viewsToday);
         setDelta($("st-views-delta"), viewsToday, viewsYest);
         $("st-views-sub").textContent = "every page open counts";
+      }
+      /* Average time on site (session durations recorded by the tracker) */
+      function fmtDur(ms) {
+        var sec = Math.max(0, Math.round(ms / 1000));
+        var min = Math.floor(sec / 60), hr = Math.floor(min / 60);
+        if (hr > 0) return hr + "h " + (min % 60) + "m";
+        if (min > 0) return min + "m " + (sec % 60) + "s";
+        return sec + "s";
+      }
+      function avgSess(days) {
+        var tot = 0, n = 0;
+        if (sess && typeof sess === "object") {
+          for (var si = 0; si < days; si++) {
+            var bk = sess[keyOf(now - si * 86400000)];
+            if (bk && typeof bk === "object") {
+              for (var sk in bk) {
+                var sr = bk[sk];
+                if (sr && typeof sr.a === "number" && typeof sr.b === "number" && sr.b >= sr.a) { tot += sr.b - sr.a; n++; }
+              }
+            }
+          }
+        }
+        return { avg: n ? tot / n : 0, n: n };
+      }
+      if ($("st-avg")) {
+        var aT = avgSess(1), a7 = avgSess(7);
+        $("st-avg").textContent = aT.n ? fmtDur(aT.avg) : "–";
+        $("st-avg-sub").textContent = aT.n
+          ? "across " + fmt(aT.n) + (aT.n === 1 ? " visit" : " visits") + " today · 7-day avg " + fmtDur(a7.avg)
+          : "collecting — visits are being timed from today";
       }
 
       /* 30-day chart */
