@@ -25,6 +25,11 @@ Sources (TMDB lists — bounded page counts in SOURCE_PAGES, default one page):
                releases (Dhood, Doosra, Crime 302 — now_playing pages
                2-4, 2026-10-23) NEVER surfaced (audit 2026-10-27 §4a);
                this date-filtered source finds them by DATE, not rank.
+  world_recent — /discover/movie by PRIMARY release date inside the
+               past half of the fresh window (last 7 days..today),
+               popularity-sorted: world_window's date-desc pages only
+               ever reach the window's +7-day future edge, so world
+               titles released today/yesterday were never fetched.
   pk_dramas    — /discover/tv?with_origin_country=PK (Pakistani dramas)
   pk_movies    — /discover/movie?with_origin_country=PK (Pakistani
                films — Lollywood had dramas only, no movies, because
@@ -190,6 +195,22 @@ SOURCES = [
      # Date-sorted, not popularity-sorted, so small releases surface.
      "/discover/movie?primary_release_date.gte={fresh_start}"
      "&primary_release_date.lte={fresh_end}&sort_by=primary_release_date.desc"),
+    ("world_recent", "movie",
+     # World releases from the PAST half of the fresh window
+     # (fresh_start..today), popularity-sorted like india_window.
+     # world_window alone can never see them: its date-desc sort over
+     # the full 15-day window (~1,600 results) fills its 2 fetched
+     # pages with the +7-day future edge alone (verified 2026-11-01:
+     # pages 1-2 were 40/40 titles dated today+7), so titles released
+     # today/yesterday sat hundreds of results deep and were never
+     # fetched — the catalogue gained ZERO movies released on
+     # 2026-10-31 or 2026-11-01 while the seeder filled its fresh
+     # phase with today+7 premieres. This lane fetches the released
+     # half on its own, so release-day world titles become candidates
+     # the same day; select() re-sorts by date, so the newest
+     # releases are picked first.
+     "/discover/movie?primary_release_date.gte={fresh_start}"
+     "&primary_release_date.lte={today}&sort_by=popularity.desc"),
     ("pk_dramas", "tv",
      # Air-date filter (first_air_date.gte, {cutoff} = 90 days ago):
      # popularity-sorted PK discover is dominated by ENDED all-time hits
@@ -232,6 +253,7 @@ SOURCE_PAGES = {
     "bollywood": 2,
     "india_window": 2,
     "world_window": 2,
+    "world_recent": 3,
     "new_tv": 2,
     "trending_tv": 1,
     "hindi_recent_movies": 5,
