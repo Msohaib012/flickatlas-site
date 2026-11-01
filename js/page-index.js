@@ -461,8 +461,9 @@
       }
       return out.sort((a, b) => b.total - a.total).slice(0, 6);
     })();
+    const ADV_MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     const advHtml = advEntries.length ? `<div class="ott-group"><h3>Advance Booking</h3>
-      ${advEntries.map(({ entry, total, rel }) => `<a class="tl-row" href="/movie?id=${encodeURIComponent(entry.id)}"><span class="tl-date"><b>${parseInt(rel.slice(8, 10), 10)}</b><span>${MONTHS_S[parseInt(rel.slice(5, 7), 10) - 1]}</span></span><img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(entry))}</b><span>Advance so far · ${UI.fmtMoney(total)}</span></span><span class="tag-chip">Releases ${UI.esc(UI.fmtDate(rel))}</span></a>`).join("")}
+      ${advEntries.map(({ entry, total, rel }) => `<a class="tl-row" href="/movie?id=${encodeURIComponent(entry.id)}"><span class="tl-date"><b>${parseInt(rel.slice(8, 10), 10)}</b><span>${ADV_MONTHS[parseInt(rel.slice(5, 7), 10) - 1]}</span></span><img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(entry))}</b><span>Advance so far · ${UI.fmtMoney(total)}</span></span><span class="tag-chip">Releases ${UI.esc(UI.fmtDate(rel))}</span></a>`).join("")}
     </div>` : "";
     const boHtml = (boHasKind || advEntries.length) ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
