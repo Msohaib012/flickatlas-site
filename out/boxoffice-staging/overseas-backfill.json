@@ -360,6 +360,20 @@
       "overseas_inr_cr": 0.25,
       "shows": 3127,
       "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-30",
+      "day": 29,
+      "occupancy_pct": 9.0,
+      "shows": 2987,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-31",
+      "day": 30,
+      "occupancy_pct": 13.0,
+      "shows": 3030,
+      "source": "overseas-backfill"
     }
   ],
   "1375156": [
@@ -393,6 +407,13 @@
       "occupancy_pct": 13.0,
       "overseas_inr_cr": 1.0,
       "shows": 5805,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-31",
+      "day": 9,
+      "occupancy_pct": 18.0,
+      "shows": 4978,
       "source": "overseas-backfill"
     }
   ],
@@ -617,6 +638,14 @@
       "day": 8,
       "overseas_inr_cr": 1.9,
       "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-31",
+      "day": 9,
+      "occupancy_pct": 17.7,
+      "overseas_inr_cr": 1.9,
+      "shows": 370,
+      "source": "overseas-backfill"
     }
   ],
   "1654581": [
@@ -748,6 +777,41 @@
       "day": 4,
       "occupancy_pct": 9.0,
       "shows": 1233,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-27",
+      "day": 5,
+      "occupancy_pct": 16.0,
+      "shows": 1281,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-28",
+      "day": 6,
+      "occupancy_pct": 10.0,
+      "shows": 1250,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-29",
+      "day": 7,
+      "occupancy_pct": 10.0,
+      "shows": 1236,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-30",
+      "day": 8,
+      "occupancy_pct": 9.0,
+      "shows": 551,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-10-31",
+      "day": 9,
+      "occupancy_pct": 12.0,
+      "shows": 562,
       "source": "overseas-backfill"
     }
   ]

@@ -54,6 +54,22 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-10-31",
+      "date_kind": "release",
+      "id": 1813355,
+      "providers": [
+        {
+          "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-30",
       "date_kind": "release",
       "id": 289517,
@@ -76,6 +92,18 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 1756307,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-30",

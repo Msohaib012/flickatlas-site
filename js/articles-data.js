@@ -31981,5 +31981,210 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T17:50:26.872Z"
+  },
+  "9jkc9n": {
+    "id": "9jkc9n",
+    "type": "news",
+    "headline": "Long Lost Teaser For Unreleased 1990s Animated Series Escape from Jurassic Park Resurfaces Online",
+    "dek": "A rare promotional teaser for a cancelled 1990s animated spin-off of the dinosaur classic has surfaced decades later, revealing a mature visual style that never reached full production.",
+    "body": [
+      {
+        "h": "The Unreleased 90s Project",
+        "p": [
+          "A long-lost promotional video for an undeveloped animated spin-off titled Escape from Jurassic Park has suddenly emerged online. Dating back to the summer of 1993, the project was conceived right after Steven Spielberg's dinosaur masterpiece became a massive box office phenomenon in theaters.",
+          "Long before any official sequels or modern animated adaptations like Jurassic World: Chaos Theory were created, Universal Cartoon Studios planned this ambitious cartoon. However, the endeavor was ultimately scrapped before full production could begin, leaving behind only this newly surfaced footage."
+        ]
+      },
+      {
+        "h": "Targeting Mature Audiences",
+        "p": [
+          "Unlike many typical television cartoons of that era designed strictly for younger viewers, this project was envisioned differently. The series aimed to appeal directly to the same mature audience that enjoyed the original live-action film.",
+          "Fan site Jurassic Outpost verified the authenticity of the vintage footage by cross-referencing it with previously discovered production materials. The clip proudly showcases distinct traditional 1990s animation aesthetics blended with nostalgic art direction."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Outlines",
+        "p": [
+          "Production oversight for the ambitious undertaking fell to Will Meugniot, known for his work on The Real Ghostbusters and Captain Planet and the Planeteers. Meanwhile, the distinct visual look was crafted by renowned artist William Stout.",
+          "During the early planning stages, creators successfully outlined a complete first season consisting of 23 episodes. They also produced a one-minute pitch film to demonstrate the intended visual style, which even incorporated groundbreaking computer-generated imagery elements from MetroLight."
+        ]
+      },
+      {
+        "h": "Reasons Behind the Cancellation",
+        "p": [
+          "Despite having a full episode outline and a completed pitch trailer, the series never progressed past the initial development phase. Production stalled permanently due to creative and administrative roadblocks behind the scenes.",
+          "According to accounts from William Stout, director Steven Spielberg felt completely exhausted by the franchise and had zero interest in pursuing further expansions at that time. Other industry accounts suggested that Spielberg felt displeased because the project was commissioned entirely without his direct input."
+        ]
+      },
+      {
+        "h": "Discovery and Fan Nostalgia",
+        "p": [
+          "The revival of this vintage material came to light thanks to a tip shared by online accounts on Twitter. Fans of the franchise have since expressed immense nostalgia for the characteristic animation style representative of that period.",
+          "Although full episodes were never completed and this one-minute pitch remains the only surviving evidence of the production, its rediscovery offers a fascinating glimpse into what could have been."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A promotional teaser for a cancelled 1990s animated series titled Escape from Jurassic Park has surfaced online after being lost for decades. The project, which never advanced past the development phase, featured a mature target audience and creative contributions from Will Meugniot and William Stout before ultimately being halted."
+        ]
+      }
+    ],
+    "facts": [
+      "The promotional teaser for Escape from Jurassic Park resurfaced online on November 1, 2026.",
+      "The original Jurassic Park film was released in the summer of 1993.",
+      "The unmade animated series was developed by Universal Cartoon Studios.",
+      "A full season of 23 episodes was outlined for the series.",
+      "Will Meugniot oversaw the project and William Stout developed the visual style.",
+      "MetroLight created groundbreaking CGI elements for the pitch film."
+    ],
+    "entities": {
+      "people": [
+        "Steven Spielberg",
+        "Will Meugniot",
+        "William Stout",
+        "Alex Billington",
+        "Layton Matthews",
+        "Curry Barker"
+      ],
+      "titles": [
+        "Escape from Jurassic Park",
+        "Jurassic Park",
+        "Jurassic World: Chaos Theory",
+        "The Real Ghostbusters",
+        "Captain Planet and the Planeteers",
+        "McConadilla",
+        "New Wave",
+        "The Hunchback, Soul of Paris",
+        "Mama Bear",
+        "My Crazy Feminist Girlfriend"
+      ]
+    },
+    "keywords": [
+      "Escape from Jurassic Park",
+      "Jurassic Park animated series",
+      "Universal Cartoon Studios",
+      "Will Meugniot William Stout"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/escapejurassicpanimseriesimgtw.jpg",
+        "caption": "Long Lost Teaser For Unreleased 1990s Animated Series Escape from Jurassic Park Resurfaces Online",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 17:44:36 +0000"
+  },
+  "i1acip": {
+    "id": "i1acip",
+    "type": "news",
+    "headline": "Sylvester Stallone's Cult Classic Action Film Cliffhanger Arrives on Netflix",
+    "dek": "The high-altitude 1990s blockbuster starring Sylvester Stallone has officially joined the Netflix streaming catalog as fans await a brand-new franchise reboot.",
+    "body": [
+      {
+        "h": "Cliffhanger Joins Netflix Library",
+        "p": [
+          "The 1993 action thriller Cliffhanger has officially arrived on Netflix, expanding the streaming platform's collection of classic genre films. Featuring Sylvester Stallone as a rugged mountain rescue expert, the feature adds vintage cinematic thrills to the library.",
+          "The arrival on the service gives subscribers a chance to revisit the high-stakes production ahead of upcoming franchise expansions scheduled for next year."
+        ]
+      },
+      {
+        "h": "A High-Altitude Plot and Stellar Cast",
+        "p": [
+          "Directed by Renny Harlin, the storyline follows Gabe Walker, a skilled mountain rescue specialist caught in a harrowing confrontation with violent criminals on treacherous peaks. The narrative blends breathtaking alpine visuals with intense survival elements.",
+          "The production features notable performances, including John Lithgow as the antagonist Eric Qualen, alongside Michael Rooker and Janine Turner as Ranger Jessie Deighan."
+        ]
+      },
+      {
+        "h": "Box Office Success and Historical Context",
+        "p": [
+          "Released during the early 1990s, the film proved to be a major commercial triumph in theaters. It generated $255 million globally against a production budget of $70 million, cementing its status as a definitive blockbuster of the decade.",
+          "The project arrived during a prolific era for its lead actor, following notable commercial releases and preceding other prominent sci-fi and action projects of the period."
+        ]
+      },
+      {
+        "h": "Critical Reception and Reviews",
+        "p": [
+          "While commercially successful, the title received a mixed response from professional reviewers upon its initial release. Modern aggregate metrics reflect a respectable 67% approval rating among critics on Rotten Tomatoes, alongside a 53% score from general audiences.",
+          "Critics noted that while the project drew inspiration from standard genre tropes, it successfully highlighted the physical and screen presence that established its leading man as a prominent global star."
+        ]
+      },
+      {
+        "h": "The Long-Awaited Franchise Reboot",
+        "p": [
+          "Decades after the original release, the intellectual property is set to expand into a full franchise. A completely reimagined reboot is scheduled to premiere on February 24, 2027.",
+          "The upcoming project features direction by Jaume Collet-Serra and a fresh cast led by Lily James and Nell Tiger Free, portraying sisters whose mountain excursion is interrupted alongside their mountaineer father, played by Pierce Brosnan."
+        ]
+      },
+      {
+        "h": "Absence of Original Star in the New Project",
+        "p": [
+          "The forthcoming 2027 reboot will proceed without any direct involvement from Sylvester Stallone, marking a distinct shift in creative direction for the property. An earlier attempt at a direct sequel titled Cliffhanger 2: The Dam ultimately never materialized.",
+          "As audiences prepare for the upcoming reimagining, the original cinematic entry remains accessible for viewers looking to experience the roots of the mountain-survival adventure."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 1993 action thriller Cliffhanger starring Sylvester Stallone has officially been added to the Netflix streaming library. The film, which grossed $255 million during its original theatrical run, joins the platform ahead of a completely new franchise reboot directed by Jaume Collet-Serra set for release in February 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Cliffhanger was released on May 28, 1993.",
+      "The original film has a runtime of 112 minutes.",
+      "Cliffhanger grossed $255 million against a $70 million budget.",
+      "The film holds a 67% critic rating and a 53% audience rating on Rotten Tomatoes.",
+      "Cliffhanger was added to Netflix on November 1, 2026.",
+      "The upcoming reboot is scheduled to premiere on February 24, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Sylvester Stallone",
+        "James Melzer",
+        "Renny Harlin",
+        "John Lithgow",
+        "Michael Rooker",
+        "Janine Turner",
+        "Jaume Collet-Serra",
+        "Liam Neeson",
+        "Lily James",
+        "Nell Tiger Free",
+        "Pierce Brosnan",
+        "Michael France"
+      ],
+      "titles": [
+        "Stop! Or My Mom Will Shoot",
+        "Demolition Man",
+        "Rambo",
+        "Die Hard 2",
+        "Deep Blue Sea",
+        "Cliffhanger",
+        "Air Force One",
+        "The Day After Tomorrow",
+        "Looper",
+        "Cliffhanger 2: The Dam",
+        "Carry-On",
+        "Downton Abbey",
+        "The Iron Claw",
+        "Servant",
+        "The First Omen",
+        "Cliffhanger 2"
+      ]
+    },
+    "keywords": [
+      "Cliffhanger film",
+      "Sylvester Stallone Cliffhanger",
+      "Cliffhanger Netflix",
+      "Cliffhanger reboot 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/cliffhanger.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sylvester Stallone's Cult Classic Action Film Cliffhanger Arrives on Netflix",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 17:00:18 GMT"
   }
 };

@@ -18447,5 +18447,811 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 88,
     "providers": []
+  },
+  "1813677": {
+    "id": 1813677,
+    "type": "movie",
+    "title": "Love Story Abhimanyu Ki",
+    "poster_path": "/9Rvc5PqPJKOGv71Gg07TI7M1LD0.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Love Story Abhimanyu Ki (2026) is a Hindi Drama Romance film directed by Ankit Bhadana, starring Vishal Mohan Mandovara, Pragati Tiwari, Ankit Bhadana. It released on 30 October 2026. Certified A.",
+    "industry": "bollywood",
+    "popularity": 0.4852,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "A",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 122,
+    "providers": []
+  },
+  "1813349": {
+    "id": 1813349,
+    "type": "movie",
+    "title": "Jhaad Phoonk",
+    "poster_path": "/1YP2UfkYtZP1n9O5fMZtZhFxmrO.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jhaad Phoonk is a horror-drama directed by Rajan Ramgopal Verma. The movie features Padmini Kolhapure, Sumbul Touqeer, Yashpal Sharma, and Harsh Rajput in pivotal roles.",
+    "industry": "bollywood",
+    "popularity": 0.5822,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1202167": {
+    "id": 1202167,
+    "type": "movie",
+    "title": "Nakhrewaalii",
+    "poster_path": "/oC8kSyOdioegcXl8OfcG6uctyK2.jpg",
+    "backdrop_path": "/kkNZzSG0vWhetsbQ74SjVzUyq4s.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Sumit Mishra cross-dresses as a woman to win over his love interest, Paridhi.",
+    "industry": "bollywood",
+    "popularity": 3.4275,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "Gw5_UTgjVgY",
+      "name": "Nakhrewaalii Official Trailer|Ansh, Pragati|Rahul S|Jyoti D, Aanand L Rai, Himanshu S|30 Oct Release",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 129,
+    "providers": []
+  },
+  "1814086": {
+    "id": 1814086,
+    "type": "movie",
+    "title": "Mi hermano Roberto",
+    "poster_path": "/b6vBXO8prKIzaiNAmxWFmKdrKhC.jpg",
+    "backdrop_path": "/4x0LNFifvwiNv4cGQ7tAfzOzuDR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "es",
+    "origin_country": [
+      "PE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "PE"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1760311": {
+    "id": 1760311,
+    "type": "movie",
+    "title": "Barbie in the Nutcracker",
+    "poster_path": "/suSGUJNCgdVVjCXcJBDtjKxWTlg.jpg",
+    "backdrop_path": "/aDc3Kd0nvII9feQjV0464jIO0ra.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This 45-minute reimagining brings modern animation and fresh storytelling to the classic tale. In this new adventure, Barbie “Brooklyn” Roberts steps into the role of the Sugarplum Princess and Barbie “Malibu” Roberts stars as Clara, as they journey through a musical, magical dreamworld filled with holiday wonder, courage and friendship.",
+    "industry": "world",
+    "popularity": 3.6198,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "qclapgnAHgc",
+      "name": "",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Adventure"
+    ],
+    "tagline": "In loving memory of Tim Curry",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-01",
+    "date_kind": "release",
+    "runtime": 45,
+    "providers": []
+  },
+  "1807629": {
+    "id": 1807629,
+    "type": "movie",
+    "title": "Mog's Bad Thing",
+    "poster_path": "/uMVcEe2ReKlEs7WT5xODNCgjWN8.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Follows Mog, a tabby cat, who does a bad thing during a cat show hosted by her family in their garden, hides in the attic feeling sorry for herself, and must find a way to save the day.",
+    "industry": "world",
+    "popularity": 1.1962,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 25,
+    "providers": []
+  },
+  "1813355": {
+    "id": 1813355,
+    "type": "movie",
+    "title": "A Story of Derry",
+    "poster_path": "/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+    "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "vote_average": 6.1,
+    "vote_count": 16,
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "industry": "world",
+    "popularity": 62.3958,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-31",
+    "date_kind": "release",
+    "runtime": 30,
+    "providers": [
+      {
+        "name": "HBO Max Amazon Channel",
+        "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "HBO Max",
+        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1805507": {
+    "id": 1805507,
+    "type": "movie",
+    "title": "Leave It Where You Found It",
+    "poster_path": "/dZVhkYQ7GIZXkRXPRfu2O59rzjE.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An unearthed Polaroid comes with a visitor.",
+    "industry": "world",
+    "popularity": 0.4555,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 1,
+    "providers": []
+  },
+  "1796321": {
+    "id": 1796321,
+    "type": "movie",
+    "title": "K3 Superhelden",
+    "poster_path": "/uJgxZYcbpnn2YVRBCHVAXJy3ahU.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Hanne, Marthe en Julia get a special visit when Superhero Vonk shows up at their door with three superhero suits for them. K3 turns into superheroes, but soon they find out that there is a dark side to it...",
+    "industry": "world",
+    "popularity": 6.7606,
+    "original_language": "nl",
+    "origin_country": [
+      "BE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "AL",
+    "release_date": "2026-10-31",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1804642": {
+    "id": 1804642,
+    "type": "movie",
+    "title": "The Magic of It All: The Story of Strawbs",
+    "poster_path": "/Au9Zoz3QUQPdqJpJ41CKDS278Dn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A Cape Town recording session becomes the final chapter in the extraordinary story of British folk-rock legends Strawbs, as frontman David Cousins confronts illness and prepares for the band's farewell performance.",
+    "industry": "world",
+    "popularity": 0.5394,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "ZA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 82,
+    "providers": []
+  },
+  "1773374": {
+    "id": 1773374,
+    "type": "movie",
+    "title": "Adopting St. Nick",
+    "poster_path": "/vjia4mDV197Y3alxTK5Gzm8zA65.jpg",
+    "backdrop_path": "/uqZYqJxSFga7Nbh6eIS0DScEM6y.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A single mother finds unexpected romance while helping her daughter connect with a Santa-like resident at a retirement community.",
+    "industry": "world",
+    "popularity": 4.6187,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "PIcEzQK4jwE",
+      "name": "Adopting St. Nick | Sneak Peek | Amy Groening & Michael Rady | Hallmark Channel",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-31",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1803705": {
+    "id": 1803705,
+    "type": "movie",
+    "title": "Between Creases",
+    "poster_path": "/eU1mTbW2TZLcm5HtK998vNtbEoG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Through his late brother’s love of origami, a teenager discovers how a simple fold can connect memory, science, medicine, and hope.",
+    "industry": "world",
+    "popularity": 0.5279,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "How one child’s love for origami lives on",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 8,
+    "providers": []
+  },
+  "1803692": {
+    "id": 1803692,
+    "type": "movie",
+    "title": "The Decay",
+    "poster_path": "/aggoyQQKYmjZVInS2PsF7BzKXJ1.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a declining medical centre, a desperate patient must convince an embittered GP to diagnose her disturbing symptoms before a deadly plague consumes them both.",
+    "industry": "world",
+    "popularity": 4.3509,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "Can It Be Stopped?",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-10-31",
+    "date_kind": "release",
+    "runtime": 10,
+    "providers": []
+  },
+  "1803701": {
+    "id": 1803701,
+    "type": "movie",
+    "title": "Chroma",
+    "poster_path": "/fMiqOdkc9zApm0wjVJtgKSTepBr.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Three female artists share their stories to paint a perfect picture on how art can be a tool for self-expression and healing.",
+    "industry": "world",
+    "popularity": 0.5484,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "It’s still somewhere out there.",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 7,
+    "providers": []
+  },
+  "1652389": {
+    "id": 1652389,
+    "type": "movie",
+    "title": "AMINETU",
+    "poster_path": "/lVYC5Ps0qVWEdP5dIksXMPdTdED.jpg",
+    "backdrop_path": "/l2LoefBKcNnmQAAaqjkxAJEsCTZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In November 2009, Aminetu Haidar returns to El Aaiún after receiving the Civil Courage Prize in New York, only to be expelled without a passport and sent to Lanzarote. There, she begins a 32-day hunger strike, turning the right to return home into a quiet but unyielding confrontation.",
+    "industry": "world",
+    "popularity": 3.905,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-10-31",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1803696": {
+    "id": 1803696,
+    "type": "movie",
+    "title": "Unhealed Wounds",
+    "poster_path": "/oL6oT4t2FWK45jIQyALLBQEQOiP.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A sentimental journey of a desi family navigating the loss of a husband and father as they regain control over their lives.",
+    "industry": "world",
+    "popularity": 0.6738,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Does time heal all wounds?",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 9,
+    "providers": []
+  },
+  "1756307": {
+    "id": 1756307,
+    "type": "movie",
+    "title": "SCTV: The Greatest Show You've Never Heard Of",
+    "poster_path": "/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
+    "backdrop_path": "/4EKa1ordKkch7bAYlV4e3fwsVCj.jpg",
+    "vote_average": 5.8,
+    "vote_count": 3,
+    "overview": "Legendary \"SCTV\" cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
+    "industry": "world",
+    "popularity": 7.0667,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "5vri0LVrMIE",
+      "name": "SCTV: The Greatest Show You've Never Heard Of | Official Trailer | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 88,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1803690": {
+    "id": 1803690,
+    "type": "movie",
+    "title": "I'm Still Flying",
+    "poster_path": "/noY0TG9eVWTwf1TbIZ0kJkUrvJF.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "It’s not easy to turn your back on your family and just say ‘Okay, I can do it,' but one grandma's love for a fairy gave her the strength she needed to go through an immigration journey from Iran to the United States.",
+    "industry": "world",
+    "popularity": 0.497,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "I can do it!",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 8,
+    "providers": []
+  },
+  "1733243": {
+    "id": 1733243,
+    "type": "movie",
+    "title": "Sight & Sound Presents: JOSHUA—Live!",
+    "poster_path": "/tAJJBIUQyXFSFs0JdwHx2VnUikL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Journey alongside the people of Israel as they navigate their new-found freedom in an unforgiving wilderness. When Joshua is called to replace Moses as their faithful leader, tensions mount in the midst of dwindling supplies and approaching armies. With one last fortified city standing between the Israelites and the Promised Land, unexpected help emerges from behind enemy lines and Joshua's trust in God's plan is put to the ultimate test.  Filmed in front of a live audience, this special event invites you to experience one of the most redemptive stories of the Bible come to life like never before!",
+    "industry": "world",
+    "popularity": 5.3578,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Music",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 145,
+    "providers": []
+  },
+  "1803688": {
+    "id": 1803688,
+    "type": "movie",
+    "title": "All Sacrifices Made for the Love Over Yonder",
+    "poster_path": "/ckQ6nnyG3rBbtYEdnQArbdSusbd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A troubled Filipino teen looks to his friends and family for self-understanding and empathizes with their hardships, using this newfound knowledge of his Filipino identity to let his individuality and ethnicity co-exist while wishing his loved ones a pursuit for their own peace.",
+    "industry": "world",
+    "popularity": 0.5034,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "A distorted reflection of yourself in the waves will one day swim its way back to you.",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "tl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 9,
+    "providers": []
   }
 };
