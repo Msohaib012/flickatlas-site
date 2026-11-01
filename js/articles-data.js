@@ -30726,5 +30726,219 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T12:51:56Z"
+  },
+  "hrxwml": {
+    "id": "hrxwml",
+    "type": "news",
+    "headline": "Zee Kannada Kutumba Awards 2026: Complete Winners List, Special Guests, And Where To Watch Online",
+    "dek": "The Zee Kannada Kutumba Awards 2026 celebrated two decades of the channel with a grand multi-night broadcast, honoring television talent across numerous categories with prominent star appearances.",
+    "body": [
+      {
+        "h": "Celebrating Two Decades of Kannada Entertainment",
+        "p": [
+          "The leading Kannada general entertainment channel marked a major milestone by celebrating twenty glorious years of broadcasting. To commemorate this anniversary, the network hosted a massive celebration designed to honor the hard work and dedication of artists, producers, and technicians.",
+          "The gala event served as a major platform for recognizing the talent that drives the regional television industry forward, offering fans a mix of high-energy dance performances, drama, and thrilling entertainment."
+        ]
+      },
+      {
+        "h": "A Grand Multi-Night Television Spectacle",
+        "p": [
+          "According to a reliable industry source speaking with Filmibeat Assistant Editor Abhishek Ranjit, the grand ceremony was structured as a massive three-night television event for Kannada entertainment fans. The special broadcasts were scheduled to air on October 30, October 31, and November 1.",
+          "Each evening's telecast ran from 6:30 pm to 10:30 pm, providing hours of entertainment. Fans also enjoyed exclusive red carpet segments starting at 5:30 pm every night, showcasing popular television and film celebrities as they arrived at the venue."
+        ]
+      },
+      {
+        "h": "Honoring Excellence Across Categories",
+        "p": [
+          "The prestigious ceremony recognized outstanding achievements by honoring individuals and teams across nearly 80 distinct categories. These awards celebrated the efforts of people associated with the channel, covering popular acting performances, favorite couples, serials, reality shows, and anchoring roles.",
+          "The broad scope of the categories ensured that both behind-the-scenes technicians and on-screen favorites received due recognition for their contributions to the network's long-standing success."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest List and Hosts",
+        "p": [
+          "A galaxy of stars from the film and television fraternity graced the grand function as special guests. The notable attendees included prominent figures such as Kiccha Sudeep, Ganesh, Meghana Raj Sarja, Daali Dhananjaya, Murali, Sharan, Vijay Raghavendra, Arjun Janya, and Prakash Belvadi.",
+          "To keep the energy high throughout the gala, the event was hosted by a dynamic team consisting of Akul Balaji, Anushree, Kuri Pratap, and Shwetha Changappa, each bringing their own distinct charm to the stage."
+        ]
+      },
+      {
+        "h": "Major Winners Revealed",
+        "p": [
+          "Among the many celebrated winners of the evening, Nisha Ravikrishnan captured the spotlight by bagging the award for Best Actor in a lead role (Female) for her stellar performance as Dr. Parvathy in the serial Annayya.",
+          "Additional major winners included Surya and Jagaddhatri from the show Jagaddhatri, who took home the title of Sensational Jodi or Favorite Couple, while Akshay Nayaka won the Best Promising Face award for Krishna Rukku."
+        ]
+      },
+      {
+        "h": "Streaming Availability For Viewers",
+        "p": [
+          "For fans who missed the televised broadcasts or wish to rewatch their favorite moments, the full awards ceremony has been made accessible for digital viewing.",
+          "Viewers can easily stream the complete Zee Kannada Kutumba Awards 2026 event online on the ZEE5 platform at their convenience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Zee Kannada Kutumba Awards 2026 celebrated the channel's 20th anniversary with a three-night broadcast event honoring television artists across nearly 80 categories. The ceremony featured prominent star guests, engaging hosts, and notable wins for actors like Nisha Ravikrishnan, with the full show made available for streaming on ZEE5."
+        ]
+      }
+    ],
+    "facts": [
+      "Zee Kannada celebrated 20 glorious years of its journey.",
+      "The awards event was structured as a three-night television event airing on October 30, 31 and November 1 from 6.30 pm to 10.30 pm.",
+      "Red carpet coverage began at 5.30 pm.",
+      "The ceremony honored efforts across nearly 80 categories.",
+      "Special guests included Kiccha Sudeep, Ganesh, Meghana Raj Sarja, Daali Dhananjaya, Murali, Sharan, Vijay Raghavendra, Arjun Janya, and Prakash Belvadi.",
+      "The event was hosted by Akul Balaji, Anushree, Kuri Pratap, and Shwetha Changappa.",
+      "Nisha Ravikrishnan won Best Actor in a lead role (Female) for playing Dr. Parvathy in Annayya.",
+      "Surya and Jagaddhatri won Sensational Jodi / Favorite Couple for Jagaddhatri.",
+      "Akshay Nayaka won Best Promising Face for Krishna Rukku.",
+      "Abhishek Ranjit is the Filmibeat Assistant Editor.",
+      "The full awards ceremony is available for streaming on ZEE5."
+    ],
+    "entities": {
+      "people": [
+        "Abhishek Ranjit",
+        "Kiccha Sudeep",
+        "Ganesh",
+        "Meghana Raj Sarja",
+        "Daali Dhananjaya",
+        "Murali",
+        "Sharan",
+        "Vijay Raghavendra",
+        "Arjun Janya",
+        "Prakash Belvadi",
+        "Akul Balaji",
+        "Anushree",
+        "Kuri Pratap",
+        "Shwetha Changappa",
+        "Nisha Ravikrishnan",
+        "Dr. Parvathy",
+        "Surya",
+        "Jagaddhatri",
+        "Akshay Nayaka"
+      ],
+      "titles": [
+        "Zee Kannada Kutumba Awards 2026",
+        "Annayya",
+        "Jagaddhatri",
+        "Krishna Rukku"
+      ]
+    },
+    "keywords": [
+      "Zee Kannada Kutumba Awards 2026",
+      "Nisha Ravikrishnan Annayya",
+      "Zee Kannada Kutumba Awards winners",
+      "Zee Kannada Kutumba Awards ZEE5"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/zeekannadakutumbaawards2026-87801793537092.jpg",
+        "caption": "Zee Kannada Kutumba Awards 2026: Complete Winners List, Special Guests, And Where To Watch Online",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 18:31:58 +0530"
+  },
+  "kvhd41": {
+    "id": "kvhd41",
+    "type": "news",
+    "headline": "Valladolid Film Festival Honors Alain Gomis and Marine Atlan in Its 71st Edition",
+    "dek": "The 71st Valladolid International Film Festival recognized global auteurs, presenting top honors to Alain Gomis for his expansive family saga 'Dao' and Marine Atlan for her acclaimed debut 'La Gradiva.'",
+    "body": [
+      {
+        "h": "Top Honors Awarded at Seminci",
+        "p": [
+          "The 71st Valladolid International Film Festival, also known as Seminci, concluded its eventful run by announcing a prestigious roster of winners. French-Senegalese filmmaker Alain Gomis claimed the festival's highest honor, the Golden Spike for best film, with his feature titled 'Dao.' Spanning across Europe and Africa, the expansive three-hour family saga explores deep-rooted family ties, the complexities of migration, and the heavy pull of inherited traditions.",
+          "Accompanying the top winner on the podium was Marine Atlan, whose acclaimed debut feature 'La Gradiva' captured the Silver Spike. The French-Italian feature, which previously premiered at Cannes' Critics' Week and earned the Bright Horizons Award at the Melbourne International Film Festival, further distinguished itself by collecting the Rainbow Spike for LGBTQ-related cinema alongside editing recognition for Guillaume Lillo."
+        ]
+      },
+      {
+        "h": "Directing and Acting Accolades",
+        "p": [
+          "In the directing categories, renowned Argentine filmmaker Lisandro Alonso earned the Ribera del Duero best director award. His recognized work, 'Double Freedom,' serves as the eagerly received sequel to his 2001 debut feature 'Freedom.' Other creative talents were similarly celebrated across the official competition slate, including Sandra Wollner, who captured the Miguel Delibes screenplay prize for her digital-technology-driven drama 'Everytime.'",
+          "Acting honors for the festival went to prominent international performers. Alba Rohrwacher received the best actress prize for her portrayal of a corporate executive trapped in a ruthless profit-driven system in Stéphane Brizé's 'A Good Little Soldier.' Meanwhile, Swann Arlaud took home the best actor honor for his performance in Emmanuel Marre's 'A Man of His Time,' a film that also secured the cinematography award for Olivier Boonjing."
+        ]
+      },
+      {
+        "h": "Spotlight on Emerging Talent and Spanish Cinema",
+        "p": [
+          "Beyond the primary competition categories, the festival highlighted various emerging voices through its Meeting Point and Alchemies sections. Thai filmmaker Sompot Chidgasornpongse secured the Meeting Point prize for his contemplative family pilgrimage drama '9 Temples to Heaven.' Simultaneously, Ivan Marković collected the Alchemies Grand Prize for 'Promised Spaces,' a striking visual portrait of Cambodia's rapidly transforming urban landscapes.",
+          "Local Spanish talent also enjoyed a breakthrough moment during the event. Claudia Estrada Tarascó’s feature debut, 'Salen las lobas,' emerged as a prominent audience favorite. The film, which follows young girls in a juvenile facility bonding over music and trap music dreams, successfully captured both the Meeting Point Audience Award and the Seminci Youth Prize ahead of its theatrical release."
+        ]
+      },
+      {
+        "h": "Documentary and Environmental Recognitions",
+        "p": [
+          "Non-fiction and specialized storytelling received significant platforming throughout the 71st edition. Hassen Ferhani's Algeria-France production 'Alea Jacarandas' was awarded the Time of History Grand Prize. Additionally, Mariano Llinás received a special award for his documentary work 'Life of Jorge Luis Borges.'",
+          "Environmental and specialized themes were championed through dedicated accolades. David Baute’s 'Benigno,' which examines an elderly man preserving a disappearing way of life in the Canary Islands, collected a special mention alongside the environmental Green Spike. Meanwhile, Isabelle Stever received the FIPRESCI critics' prize for 'I Rarely Wake Up Dreaming.'"
+        ]
+      },
+      {
+        "h": "Festival Organization and Adjustments",
+        "p": [
+          "The announcement of winners took place on a Saturday morning in Valladolid following a somber operational shift. Organizers made the decision to cancel the traditional closing gala as a mark of respect following a deadly train accident in Toledo province. Despite the adjusted schedule, the festival successfully wrapped up its 2001-founded milestones and current iterations.",
+          "The 71st edition was guided by interim co-directors Mariona Viader and Javier H. Estrada, stepping in following the passing of José Luis Cienfuegos last December. Festival data revealed a provisional audience attendance tally of 100,000, alongside more than 120 film discussions and a high participation rate from its featured directors."
+        ]
+      },
+      {
+        "h": "Closing Events and Premiere Highlights",
+        "p": [
+          "Running from October 23 to October 31, the festival maintained a robust line-up of global cinema and regional showcases. World premieres and international selections drew considerable critical attention from attending press and industry professionals alike. The event officially concluded with the high-profile Spanish premiere of Gael García Bernal’s 'Hombre al agua.'",
+          "With a diverse array of winners spanning narrative features, documentaries, and shorts, Seminci reaffirmed its status as a vital international platform for auteur-driven cinema. The comprehensive list of victors highlighted a thriving ecosystem of established international masters and energetic new voices."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 71st Valladolid International Film Festival concluded its October run by awarding Alain Gomis the Golden Spike for 'Dao' and Marine Atlan the Silver Spike for 'La Gradiva.' Organizers adjusted the festival's closing events following a tragic train accident in Toledo province, while interim co-directors reported a provisional attendance of 100,000 viewers."
+        ]
+      }
+    ],
+    "facts": [
+      "The 71st Valladolid International Film Festival was held from October 23 to October 31.",
+      "Alain Gomis won the Golden Spike for 'Dao'.",
+      "Marine Atlan won the Silver Spike for 'La Gradiva'.",
+      "Lisandro Alonso won best director for 'Double Freedom'.",
+      "Alba Rohrwacher won best actress for 'A Good Little Soldier'.",
+      "Swann Arlaud won best actor for 'A Man of His Time'.",
+      "The festival reported a provisional audience tally of 100,000."
+    ],
+    "entities": {
+      "people": [
+        "Alain Gomis",
+        "Marine Atlan",
+        "Lisandro Alonso",
+        "Alba Rohrwacher",
+        "Swann Arlaud",
+        "Claudia Estrada Tarascó",
+        "Gael García Bernal",
+        "Mariona Viader",
+        "Javier H. Estrada"
+      ],
+      "titles": [
+        "Dao",
+        "La Gradiva",
+        "Salen las lobas",
+        "Double Freedom",
+        "A Good Little Soldier",
+        "A Man of His Time",
+        "Hombre al agua",
+        "9 Temples to Heaven"
+      ]
+    },
+    "keywords": [
+      "Dao film",
+      "Alain Gomis Valladolid",
+      "La Gradiva Marine Atlan",
+      "Seminci festival winners"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/dao.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Valladolid Film Festival Honors Alain Gomis and Marine Atlan in Its 71st Edition",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 13:02:00 +0000"
   }
 };
