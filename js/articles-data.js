@@ -29885,5 +29885,199 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 12:49:28 +0530"
+  },
+  "qy4qi0": {
+    "id": "qy4qi0",
+    "type": "news",
+    "headline": "Ram Charan And Director Sukumar Reunite For Their Upcoming Pan-India Project RC17",
+    "dek": "Actor Ram Charan and filmmaker Sukumar have officially launched their massive new pan-India collaboration titled RC17, following up on their massive past success.",
+    "body": [
+      {
+        "h": "The Grand Announcement Of RC17",
+        "p": [
+          "Actor Ram Charan and visionary filmmaker Sukumar are joining forces once again for a brand new pan-India cinematic venture temporarily titled RC17. The project has officially commenced its journey in the industry, generating immense excitement among fans and trade circles alike.",
+          "The production banner Mythri Movie Makers officially shared the news with audiences through social media, posting a striking promotional poster on their official Instagram handle to mark the beginning of this ambitious undertaking."
+        ]
+      },
+      {
+        "h": "A Major Creative Reunion",
+        "p": [
+          "This upcoming movie serves as a major reunion between the acclaimed RRR star and the master storyteller Sukumar. Their previous partnership resulted in the 2018 blockbuster Rangasthalam, which achieved massive critical acclaim and commercial success.",
+          "Given the triumphant history of their last creative outing, expectations for RC17 are exceptionally high as the actor-director duo looks to recreate their cinematic magic on an even larger pan-India scale."
+        ]
+      },
+      {
+        "h": "Traditional Pooja Ceremony And Muhurat",
+        "p": [
+          "The journey of RC17 officially got underway with a traditional pooja ceremony. According to an official press release issued by the makers, the grand muhurat event was scheduled to take place on Sunday directly on the film's set.",
+          "The production team confirmed the commencement of work with an enthusiastic caption accompanying their social media announcement, officially welcoming the megastar and the director to the new venture."
+        ]
+      },
+      {
+        "h": "Looking Back At Rangasthalam",
+        "p": [
+          "The monumental success of Rangasthalam remains a key milestone in both Ram Charan's and Sukumar's careers. The 2018 rural drama captivated audiences globally and crossed a phenomenal milestone by earning over Rs 210 crore at the worldwide box office.",
+          "That film starred Samantha Ruth Prabhu alongside Charan and featured Jagapathi Babu as the formidable, corrupt village president Phanindra Bhupathi, whose thirty-year tyranny drove the narrative."
+        ]
+      },
+      {
+        "h": "Plot And Character Legacy Of Rangasthalam",
+        "p": [
+          "Rangasthalam centered around a village subjected to intimidation, land seizures, and debt exploitation under an autocratic leader. The core storyline ignited when Charan's character sought vengeance for the brutal murder of his elder brother, Kumar Babu, who had fought to protect the village.",
+          "The gripping narrative and raw rural backdrop established a high benchmark for regional cinema that later crossed boundaries to achieve widespread national and international appreciation."
+        ]
+      },
+      {
+        "h": "Ram Charan's Recent Professional Ventures",
+        "p": [
+          "Before embarking on this new pan-India undertaking, Ram Charan was recently seen starring in the film Peddi. In that project, he portrayed a dedicated laborer in 1980s rural Andhra Pradesh.",
+          "His role in Peddi highlighted a character who successfully overcomes a severe physical injury to transform into a dedicated track athlete, further showcasing his versatility as a leading actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ram Charan and filmmaker Sukumar are reuniting for a pan-India project titled RC17, produced by Mythri Movie Makers following their 2018 hit Rangasthalam. A grand pooja ceremony and muhurat event were held on the film's set to celebrate the commencement of this major collaboration."
+        ]
+      }
+    ],
+    "facts": [
+      "Actor Ram Charan and filmmaker Sukumar are collaborating on the pan-India film RC17.",
+      "The film is produced by Mythri Movie Makers.",
+      "The duo previously worked together on the 2018 film Rangasthalam.",
+      "Rangasthalam earned over Rs 210 crore at the global box office.",
+      "Rangasthalam starred Samantha Ruth Prabhu and Jagapathi Babu as Phanindra Bhupathi.",
+      "Ram Charan recently featured in Peddi as a laborer in 1980s rural Andhra Pradesh who becomes a track athlete."
+    ],
+    "entities": {
+      "people": [
+        "Ram Charan",
+        "Sukumar",
+        "Samantha Ruth Prabhu",
+        "Jagapathi Babu",
+        "Phanindra Bhupathi",
+        "Kumar Babu"
+      ],
+      "titles": [
+        "RC17",
+        "RRR",
+        "Rangasthalam",
+        "Peddi"
+      ]
+    },
+    "keywords": [
+      "Ram Charan Sukumar",
+      "RC17 film",
+      "Mythri Movie Makers",
+      "Rangasthalam box office",
+      "Ram Charan Peddi"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramcharansukumard1-82241793516655.jpg",
+        "caption": "Ram Charan And Director Sukumar Reunite For Their Upcoming Pan-India Project RC17",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 12:37:42 +0530"
+  },
+  "1btqmh9": {
+    "id": "1btqmh9",
+    "type": "news",
+    "headline": "Rana Daggubati Announces New Horror Film Scary Picture Starring Kangana Ranaut",
+    "dek": "Producer Rana Daggubati revealed his next horror project titled Scary Picture at HorrorCon India 2026, featuring Kangana Ranaut in the lead and directed by Ravi Babu.",
+    "body": [
+      {
+        "h": "Surprise Announcement at HorrorCon India",
+        "p": [
+          "Producer Rana Daggubati delivered a major surprise to genre enthusiasts by announcing a brand-new horror film during HorrorCon India 2026. The convention, which took place in New Delhi on Halloween, served as the unexpected venue for unveiling the upcoming cinematic venture. Instead of traditional press releases or media events, the project was introduced directly to fans on stage.",
+          "A brief glimpse of the title flashed on screen during the presentation, confirming that the movie will be called Scary Picture. The exclusive revelation bypassed the conventional Hindi press networks, making the convention the very first platform to share the intimation with the public."
+        ]
+      },
+      {
+        "h": "Starring Kangana Ranaut",
+        "p": [
+          "The newly announced feature film will star actor-politician Kangana Ranaut in the lead role. Following the live event appearance by Rana, Kangana made the news official on her personal Instagram account on Sunday, sharing a reposted video of the stage announcement with her followers.",
+          "Kangana is no stranger to the horror genre, having previously appeared in Tamil horror comedy Chandramukhi 2 in 2023, as well as her earlier Hindi-language horror outing Raaz: The Mystery Continues in 2009. Alongside Scary Picture, her current slate includes upcoming projects like Circle and Queen 2, plus a Hollywood debut titled Blessed Be The Evil."
+        ]
+      },
+      {
+        "h": "Director Ravi Babu Takes the Helm",
+        "p": [
+          "The film will be directed by offbeat Telugu filmmaker and actor Ravi Babu. Known for his unconventional approach to cinema, Ravi Babu is the son of the late veteran Telugu actor Chalapathi Rao and has been working in the industry as an actor since 1998 and a director since 2002.",
+          "His distinct directorial style leans toward genre-bending, experimental, and unconventional storytelling. Throughout his career, he has helmed diverse projects ranging from coming-of-age tales to thrillers, including the unique piglet-centered film Adhugo in 2018 and Razor this year."
+        ]
+      },
+      {
+        "h": "A First Hindi Feature for the Director",
+        "p": [
+          "Scary Picture marks a significant milestone for Ravi Babu as it serves as his very first Hindi feature film. While he has built a reputation in Telugu cinema for making multiple horror films and maintaining an experimental streak, transitioning into a Hindi-language project with prominent actors represents a fresh chapter in his career.",
+          "Rana Daggubati noted during his stage appearance that Ravi Babu is a close friend whose unique artistic vision deserves a wider audience, making this collaboration a notable pairing of offbeat sensibilities and mainstream star power."
+        ]
+      },
+      {
+        "h": "Juggling Politics and Cinema",
+        "p": [
+          "Lead star Kangana Ranaut continues to balance her demanding political career with her commitments in the film industry. She serves as the Member of Parliament for Mandi in Himachal Pradesh, having won her election after contesting as a candidate for the Bharatiya Janata Party (BJP).",
+          "Despite her active involvement in governance, Kangana remains deeply invested in cinema. Earlier this year, she starred in and produced Bharat Bhhagya Viddhaata, which registered a lifetime worldwide collection of ₹8 crore and is currently streaming on Zee5."
+        ]
+      },
+      {
+        "h": "Production Details and Future Outlook",
+        "p": [
+          "While Rana Daggubati's production banner has yet to release a formal press statement regarding the venture, the initial reveal at HorrorCon India 2026 has already generated considerable discussion among fans of Indian horror cinema.",
+          "Given Ravi Babu's history of avoiding formulaic storytelling and teaming up infrequently with major commercial stars, cinephiles are watching closely to see what distinct creative choices he brings to Scary Picture."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Rana Daggubati revealed his new horror film Scary Picture at HorrorCon India 2026 in New Delhi, announcing that offbeat Telugu director Ravi Babu will helm the project. The film stars Kangana Ranaut in the lead role, marking the director's first Hindi feature. Both the announcement and the subsequent social media confirmation highlighted a unique collaboration between distinctive cinematic voices and established talent."
+        ]
+      }
+    ],
+    "facts": [
+      "HorrorCon India 2026 took place in New Delhi on Halloween.",
+      "Rana Daggubati announced the film Scary Picture at HorrorCon India 2026.",
+      "Ravi Babu is the director of Scary Picture and is the son of late veteran Telugu actor Chalapathi Rao.",
+      "Kangana Ranaut stars in Scary Picture and confirmed the news on Instagram on Sunday.",
+      "Kangana Ranaut's previous horror projects include Raaz: The Mystery Continues in 2009 and Chandramukhi 2 in 2023.",
+      "Kangana Ranaut is the Member of Parliament for Mandi, Himachal Pradesh, representing the BJP.",
+      "Kangana Ranaut's film Bharat Bhhagya Viddhaata collected ₹8 crore worldwide and streams on Zee5."
+    ],
+    "entities": {
+      "people": [
+        "Rana Daggubati",
+        "Kangana Ranaut",
+        "Ravi Babu",
+        "Chalapathi Rao"
+      ],
+      "titles": [
+        "Scary Picture",
+        "Chandramukhi 2",
+        "Adhugo",
+        "Coffee with a Killer",
+        "Razor",
+        "Bharat Bhhagya Viddhaata",
+        "Raaz: The Mystery Continues",
+        "Circle",
+        "Queen 2",
+        "Blessed Be The Evil"
+      ]
+    },
+    "keywords": [
+      "Scary Picture film",
+      "Rana Daggubati Scary Picture",
+      "Kangana Ranaut horror film",
+      "Ravi Babu director Scary Picture"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/01/1600x900/logo/Kangana_Ranaut_Scary_Movie_1793515720672_p3UQ_1793515736699_Dx55_7d24b795-245d-40e1-b39a-227a64418c94_v4nR.jpg",
+        "caption": "Rana Daggubati Announces New Horror Film Scary Picture Starring Kangana Ranaut",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 13:14:50 +0530"
   }
 };
