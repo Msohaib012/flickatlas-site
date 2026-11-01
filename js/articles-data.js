@@ -30281,5 +30281,211 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T15:22:13+05:30"
+  },
+  "bqw0d4": {
+    "id": "bqw0d4",
+    "type": "news",
+    "headline": "Hrithik Roshan Marks Girlfriend Saba Azad's Birthday with Romantic Social Media Post",
+    "dek": "Actor Hrithik Roshan celebrated partner Saba Azad's birthday on Instagram with a heartfelt message comparing their relationship to a journey filled with adventures.",
+    "body": [
+      {
+        "h": "Heartfelt Birthday Greeting",
+        "p": [
+          "Bollywood actor Hrithik Roshan took to Instagram to share a romantic and affectionate birthday wish for his partner, Saba Azad. The post celebrated their relationship through a series of photographs and a touching note.",
+          "The actor expressed his deep appreciation for Saba, detailing his willingness to take the longer, more adventurous road in life simply to have her by his side."
+        ]
+      },
+      {
+        "h": "The Flight Analogy and Romance",
+        "p": [
+          "In his Instagram post, Hrithik recalled a conversation where someone asked him about Saba. He explained that he initially hesitated to discuss her publicly because their relationship is too precious.",
+          "To describe his feelings, the 52-year-old actor used an analogy involving two different flight options. He stated that he would deliberately choose a chaotic, indirect route with numerous layovers over a direct flight, as long as it was spent traveling with Saba."
+        ]
+      },
+      {
+        "h": "Shared Memories and Family Moments",
+        "p": [
+          "The birthday post featured multiple images capturing personal moments between the couple. The photographs included pictures of them enjoying ice cream together.",
+          "Another notable picture in the series showed Saba smiling warmly alongside Hrithik's sons, Hrehaan and Hridhaan, offering fans a rare glimpse into their blended family life."
+        ]
+      },
+      {
+        "h": "Background of Their Relationship",
+        "p": [
+          "Hrithik and Saba first connected in late 2021 or early 2022 through social media after the actor interacted with one of Saba's videos on X, formerly known as Twitter.",
+          "Following direct message exchanges and an introduction via a mutual friend, the couple made their relationship public in May 2022 at Karan Johar's 50th birthday party, subsequently attending various family gatherings and events together."
+        ]
+      },
+      {
+        "h": "Hrithik Roshan's Recent Career",
+        "p": [
+          "On the professional front, Hrithik's last major theatrical appearance as a lead was in the action film War 2, directed by Ayan Mukerji and co-starring Jr NTR and Kiara Advani.",
+          "Additionally, he made a special appearance in Rajinikanth's film Jailer 2, which released in October 2026."
+        ]
+      },
+      {
+        "h": "Saba Azad's Recent Projects",
+        "p": [
+          "Saba Azad has also been active in her career, reprising her role as Dr Vidushi Kothari in the second season of the streaming series Who's Your Gynac?",
+          "Her other recent works include the 2025 musical drama Songs of Paradise and filming for the thriller series Storm, which is backed by Hrithik's production banner, HRX Films."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hrithik Roshan shared an affectionate birthday message on Instagram for girlfriend Saba Azad, using a flight analogy to express his enduring commitment to her. The post featured private photographs, including one with his sons, highlighting a relationship that began on social media in 2021 or 2022."
+        ]
+      }
+    ],
+    "facts": [
+      "Hrithik Roshan is 52 years old.",
+      "Saba Azad is 41 years old.",
+      "The birthday post was shared on November 1, 2026.",
+      "Hrithik and Saba's relationship went public in May 2022.",
+      "War 2 released in theatres on August 14, 2025."
+    ],
+    "entities": {
+      "people": [
+        "Hrithik Roshan",
+        "Saba Azad",
+        "Hrehaan",
+        "Hridhaan",
+        "Karan Johar",
+        "Ayan Mukerji",
+        "Jr NTR",
+        "Kiara Advani",
+        "Rajinikanth",
+        "Raj Begum"
+      ],
+      "titles": [
+        "War 2",
+        "Jailer 2",
+        "Who's Your Gynac?",
+        "Songs of Paradise",
+        "Storm"
+      ]
+    },
+    "keywords": [
+      "Hrithik Roshan",
+      "Saba Azad birthday",
+      "Hrithik Roshan girlfriend",
+      "Saba Azad Instagram"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/hrithik-roshan-01431410-16x9_0.jpg?VersionId=MObXQFT3yytdGg4TdWoMEZJQTKVXCZmP",
+        "caption": "Hrithik Roshan Marks Girlfriend Saba Azad's Birthday with Romantic Social Media Post",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 16:23:19 +0530"
+  },
+  "1vufqij": {
+    "id": "1vufqij",
+    "type": "news",
+    "headline": "Bigg Boss 20 Weekend Ka Vaar Episode 57: Salman Khan Grills Scout, Questions Qazi Touqeer, and Asif Khan Faces Eviction",
+    "dek": "Salman Khan returns to host the Weekend Ka Vaar stage for Bigg Boss Season 20, questioning Scout OP and Qazi Touqeer while dealing with an impending eviction.",
+    "body": [
+      {
+        "h": "Salman Khan Returns to the Weekend Stage",
+        "p": [
+          "The Bollywood superstar has made a strong return to the Bigg Boss Season 20 stage, taking charge of the Weekend Ka Vaar proceedings after missing the previous episode. Bringing his trademark intensity, the host addressed the contestants directly as house dynamics, rivalries, and emotional alliances continued to shift rapidly.",
+          "With tension high among the remaining housemates, the latest weekend installment focused heavily on the actions of participants over the past week and held them accountable for their behavior inside the residence."
+        ]
+      },
+      {
+        "h": "Scout OP Questioned Over Love Gill and Kaashvi Controversy",
+        "p": [
+          "A major highlight of the latest Weekend Ka Vaar centered on Scout OP and his complicated equation with Love Gill. The host expressed strong displeasure over the harsh choice of words used by Kaashvi against Love Gill during the season.",
+          "Scout faced intense questioning regarding why he failed to firmly support Love Gill when Kaashvi openly accused her of emotionally manipulating him. The discussion highlighted the falling out between the contestants and the fallout from previous arguments."
+        ]
+      },
+      {
+        "h": "Mahhi Vij and Other Housemates Under Scrutiny",
+        "p": [
+          "Beyond the primary clash involving Scout and Love Gill, other participants also faced direct criticism from the stage. Mahhi Vij was specifically called out for her gameplay inside the house, particularly concerning her frequent gossip sessions.",
+          "The scrutiny from the host aimed to expose underlying alliances and challenge the strategies adopted by various contestants as they fight to secure their positions in the reality television house."
+        ]
+      },
+      {
+        "h": "Special Guest Appearances Bring Entertainment",
+        "p": [
+          "To balance the intense grilling sessions, former contestants Elvish Yadav and Isha Malviya made special guest appearances on the Weekend Ka Vaar episode. Their arrival added an extra layer of entertainment and perspective to the ongoing proceedings.",
+          "The visiting former stars interacted with the housemates and shared their views on how the current season's participants are handling the immense pressure of the reality show."
+        ]
+      },
+      {
+        "h": "Qazi Touqeer Asked About Marriage and Musical Performance",
+        "p": [
+          "In addition to addressing conflicts, the host shifted focus toward Qazi Touqeer, questioning him specifically about his marriage. The conversation took a musical turn when Qazi was asked to sing a romantic song for his wife.",
+          "Responding to the prompt, Qazi crooned 'Dil Ka Hai Kya Raaz Hai' from the film Bodyguard, providing a lighter moment amidst the heavy interrogations of the weekend episode."
+        ]
+      },
+      {
+        "h": "Nominations and Expected Asif Khan Eviction",
+        "p": [
+          "The drama reached a peak with the weekly elimination segment, as six participants found themselves nominated for potential eviction. The group facing the danger zone included Love Gill, Amrapali Dubey, Scout, Gullu, and Asif Khan.",
+          "According to the buzz surrounding the current week's episode, Asif Khan is set to be eliminated from Bigg Boss season 20, cutting his journey in the house short."
+        ]
+      },
+      {
+        "h": "Broadcasting Details and Online Streaming",
+        "p": [
+          "For viewers following the television broadcast, Episode 57 airs on Colors TV at 10:30 pm. Meanwhile, digital audiences can stream the episode online on JioHorstar.",
+          "The extensive coverage of the Weekend Ka Vaar events has also sparked heavy online searches and interest regarding when the episode will be accessible on platforms like Dailymotion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan returned to host Bigg Boss 20 for Episode 57, where he grilled Scout OP over the controversy involving Love Gill and Kaashvi, questioned Qazi Touqeer about his marriage, and oversaw an eviction week featuring six nominees. The episode also featured guest appearances by Elvish Yadav and Isha Malviya alongside buzz pointing to Asif Khan's departure."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan hosted Bigg Boss 20 Weekend Ka Vaar Episode 57.",
+      "Scout OP was questioned about Love Gill and Kaashvi.",
+      "Mahhi Vij was criticized for her gossip sessions.",
+      "Elvish Yadav and Isha Malviya appeared as guests.",
+      "Qazi Touqeer sang 'Dil Ka Hai Kya Raaz Hai' from Bodyguard for his wife.",
+      "Love Gill, Amrapali Dubey, Scout, Gullu, and Asif Khan were nominated for elimination.",
+      "Asif Khan is expected to be evicted.",
+      "Episode 57 airs on Colors TV at 10:30 pm and streams on JioHotstar."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Scout",
+        "Qazi Touqeer",
+        "Asif Khan",
+        "Love Gill",
+        "Kaashvi",
+        "Mahhi Vij",
+        "Elvish Yadav",
+        "Isha Malviya",
+        "Amrapali Dubey",
+        "Gullu",
+        "Abhishek Ranjit"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Bajrangi Bhaijaan",
+        "Bodyguard"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Weekend Ka Vaar",
+      "Salman Khan Scout Love Gill",
+      "Qazi Touqeer Bigg Boss 20",
+      "Asif Khan eviction Bigg Boss 20"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20dailymotionepisode57-15281793532448.jpg",
+        "caption": "Bigg Boss 20 Weekend Ka Vaar Episode 57: Salman Khan Grills Scout, Questions Qazi Touqeer, and Asif Khan Faces Eviction",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 17:03:06 +0530"
   }
 };
