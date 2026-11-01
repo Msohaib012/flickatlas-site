@@ -578,10 +578,10 @@ def title_meta(entry):
 
 
 _EP_RE = re.compile(
-    r"^(.+?)\s+Episode\s+(\d+)\s*(?:\(Finale\))?\s*[—–-]\s*Watch on\s+(.+)$",
+    r"^(.+?)\s+Episode\s+(\d+)\s*(?:\(Finale\))?\s*[—–-]\s*Watch (?:Online )?on\s+(.+)$",
     re.I)
 _EP_FIN_RE = re.compile(
-    r"^(.+?)\s*[—–-]?\s*Last Episode\s*[—–-]\s*Watch on\s+(.+)$", re.I)
+    r"^(.+?)\s*[—–-]?\s*Last Episode\s*[—–-]\s*Watch (?:Online )?on\s+(.+)$", re.I)
 
 
 def parse_episode_headline(headline):

@@ -382,7 +382,7 @@ def tavily_keys():
 
 GOOGLE_RSS_URL = "https://trends.google.com/trending/rss?geo={}"
 GOOGLE_NAMESPACE = "https://trends.google.com/trending/rss"
-GOOGLE_MAX_AGE = 24 * 3600
+GOOGLE_MAX_AGE = 72 * 3600
 
 
 def _local_name(tag):
@@ -443,7 +443,7 @@ def fetch_trends_google(now=None, opener=None):
     opener = opener or urllib.request.urlopen
     found, successes, stale = [], 0, 0
     errors = []
-    for geo in ("US", "IN"):
+    for geo in ("US", "IN", "PK"):
         url = GOOGLE_RSS_URL.format(geo)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:

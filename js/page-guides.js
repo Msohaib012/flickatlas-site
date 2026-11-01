@@ -86,7 +86,7 @@
   function epRow(e) {
     const epLabel = (e.isFinale && !e.episode) ? "Final Episode"
       : `Episode ${e.episode}${e.isFinale ? " (Finale)" : ""}`;
-    const title = `${e.drama} ${epLabel} — Watch on ${e.channel}`;
+    const title = `${e.drama} ${epLabel} — Watch Online on ${e.channel}`;
     const href = `/news-item?id=${encodeURIComponent(e.articleId)}`;
     const air = e.published ? UI.fmtDate(e.published) : "";
     const meta = [air, e.channel].filter(Boolean).join(" · ");
@@ -137,7 +137,7 @@
     for (const a of arts) {
       if (!a || a.type !== "news") continue;
       const h = String(a.headline || "");
-      const wm = h.match(/^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i);
+      const wm = h.match(/^(.*?)\s+[—–-]\s+Watch (?:Online )?on\s+(.+)$/i);
       if (!wm) continue;
       const left = wm[1].trim();
       const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);

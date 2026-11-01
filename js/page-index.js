@@ -393,10 +393,28 @@
       const metricFor = (windowKey) => HomeBoxOffice
         ? HomeBoxOffice.resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST) : null;
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
-      const amountHtml = (metric) => UI.esc(
-        metric.amount_high > metric.amount
-          ? `${HomeBoxOffice.formatCurrency(metric.amount, metric.currency)}–${HomeBoxOffice.formatCurrency(metric.amount_high, metric.currency)}`
-          : HomeBoxOffice.formatCurrency(metric.amount, metric.currency));
+      /* Currency switcher (owner report 2026-11-01): homepage figures
+         must be .fa-money spans like every other page (UI.fmtMoney), or
+         the header USD/INR/PKR switcher cannot re-convert them. Metrics
+         arrive in their source currency; boxOfficeRates are per-USD, so
+         USD value = amount / rate. Unknown currency = keep the plain
+         source-currency text as a fallback. */
+      const usdOf = (amount, currency) => {
+        const r = Number(boxOfficeRates && boxOfficeRates[currency]) || (currency === "USD" ? 1 : 0);
+        return r > 0 ? amount / r : null;
+      };
+      const amountHtml = (metric) => {
+        const lo = usdOf(metric.amount, metric.currency);
+        if (lo === null) return UI.esc(
+          metric.amount_high > metric.amount
+            ? `${HomeBoxOffice.formatCurrency(metric.amount, metric.currency)}–${HomeBoxOffice.formatCurrency(metric.amount_high, metric.currency)}`
+            : HomeBoxOffice.formatCurrency(metric.amount, metric.currency));
+        if (metric.amount_high > metric.amount) {
+          const hi = usdOf(metric.amount_high, metric.currency);
+          if (hi !== null) return `${UI.fmtMoney(lo)}–${UI.fmtMoney(hi)}`;
+        }
+        return UI.fmtMoney(lo);
+      };
       /* Owner order 2026-10-30: no provenance/guidance notes on the card —
          the figure only. A missing figure keeps a plain dash in the
          evidence slot so the cell is never blank. */
@@ -421,11 +439,35 @@
        releases simply shows fewer cards — older titles never backfill it. */
     const boHasKind = boPoolFor("bollywood").length > 0 || boPoolFor("international").length > 0;
     const boPicks = boPoolFor("bollywood").slice(0, HOME_LIMITS.boxoffice);
-    const boHtml = boHasKind ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
+    /* Advance booking (owner order 2026-11-01): high-demand movies whose
+       collection starts BEFORE release (window.FA_ADVANCE, Sacnilk reader;
+       USD per-day rows keyed by TMDB id). Upcoming titles only, ranked by
+       total advance so far, top 6. Sits inside the Box Office section,
+       outside the industry switcher's [data-results] container so it
+       survives tab switches. Renders only when advance data exists. */
+    const advEntries = (() => {
+      const adv = window.FA_ADVANCE || {};
+      const out = [];
+      for (const entry of pubAll()) {
+        const rows = adv[String(entry.id)];
+        if (!Array.isArray(rows) || !rows.length) continue;
+        const rel = entry.release_date || "";
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(rel) || rel <= today) continue;
+        const total = rows.reduce((sum, r) => sum + (r && typeof r.collection === "number" && Number.isFinite(r.collection) ? r.collection : 0), 0);
+        if (!(total > 0)) continue;
+        out.push({ entry, total, rel });
+      }
+      return out.sort((a, b) => b.total - a.total).slice(0, 6);
+    })();
+    const advHtml = advEntries.length ? `<div class="ott-group"><h3>Advance Booking</h3>
+      ${advEntries.map(({ entry, total, rel }) => `<a class="tl-row" href="/movie?id=${encodeURIComponent(entry.id)}"><span class="tl-date"><b>${parseInt(rel.slice(8, 10), 10)}</b><span>${MONTHS_S[parseInt(rel.slice(5, 7), 10) - 1]}</span></span><img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(entry))}</b><span>Advance so far · ${UI.fmtMoney(total)}</span></span><span class="tag-chip">Releases ${UI.esc(UI.fmtDate(rel))}</span></a>`).join("")}
+    </div>` : "";
+    const boHtml = (boHasKind || advEntries.length) ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
-      ${switchButtons("boxoffice")}
-      <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>
+      ${boHasKind ? `${switchButtons("boxoffice")}
+      <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>` : ""}
+      ${advHtml}
     </section>` : "";
 
     /* ---------- OTT (owner order 2026-10-27): the separate OTT
@@ -666,7 +708,7 @@
     const isEpisodeItem = (it) => {
       const t = String((it && it.title) || "");
       const l = String((it && it.link) || "");
-      return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
+      return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch (?:Online )?on\b/i.test(t)
         || /youtube\.com\/watch|youtu\.be\//i.test(l);
     };
     /* Trending News filter options (same 12 categories as /news,
@@ -936,7 +978,7 @@
        Returns null when the headline is not an episode headline. */
     const dramaOfArticle = (a) => {
       const h = String((a && a.headline) || "");
-      const wm = h.match(/^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i);
+      const wm = h.match(/^(.*?)\s+[—–-]\s+Watch (?:Online )?on\s+(.+)$/i);
       if (!wm) return null;
       const left = wm[1].trim();
       const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);
@@ -950,7 +992,7 @@
       return { key, name: pub ? UI.titleOf(pub) : raw };
     };
     const epArticles = Object.values(window.FA_ARTICLES || {})
-      .filter(a => a && a.id && (a.headline || "").includes("Watch on") && a.published)
+      .filter(a => a && a.id && /watch (?:online )?on/i.test(a.headline || "") && a.published)
       .sort((a, b) => (Date.parse(b.published || "") || 0) - (Date.parse(a.published || "") || 0) || String(a.id || "").localeCompare(String(b.id || "")));
     /* On-airing filter (user order 2026-10-27): an episode stays only
        when its drama is airing (latest tracked episode within 7 days

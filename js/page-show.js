@@ -197,7 +197,7 @@
       for (const a of arts) {
         if (!a || a.type !== "news") continue;
         const h = String(a.headline || "");
-        const wm = h.match(/^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i);
+        const wm = h.match(/^(.*?)\s+[—–-]\s+Watch (?:Online )?on\s+(.+)$/i);
         if (!wm) continue;
         const left = wm[1].trim();
         const em = left.match(/^(.+?)\s+Episode\s+(\d+)$/i);
@@ -326,7 +326,7 @@
        title row (.ep-row — the same style as the homepage Drama
        Episodes rail), NOT a bare text link. Non-episode news stays
        the plain .news-item row. */
-    const EP_HEADLINE_RE = /^(.*?)\s+[—–-]\s+Watch on\s+(.+)$/i;
+    const EP_HEADLINE_RE = /^(.*?)\s+[—–-]\s+Watch (?:Online )?on\s+(.+)$/i;
     const isEpisodeArticle = (a) => {
       const h = String(a.headline || "");
       const wm = h.match(EP_HEADLINE_RE);

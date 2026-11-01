@@ -52,7 +52,7 @@
   const isEpisodeItem = (it) => {
     const t = String((it && it.title) || "");
     const l = String((it && it.link) || "");
-    return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
+    return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch (?:Online )?on\b/i.test(t)
       || /youtube\.com\/watch|youtu\.be\//i.test(l);
   };
 

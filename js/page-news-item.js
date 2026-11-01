@@ -35,7 +35,7 @@
   const isEpisodeItem = (it) => {
     const t = String((it && it.title) || "");
     const l = String((it && it.link) || "");
-    return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch on\b/i.test(t)
+    return /(?:Episode\s+\d+|Last Episode)\s*[—–-]\s*Watch (?:Online )?on\b/i.test(t)
       || /youtube\.com\/watch|youtu\.be\//i.test(l);
   };
 
@@ -115,9 +115,9 @@
      exact original code path. */
   const parseEpisodeHeadline = (h) => {
     const s = String(h || "").replace(/\s+/g, " ").trim();
-    let m = s.match(/^(.+?)\s+Episode\s+(\d+)\s*(?:\(Finale\))?\s*[—–-]\s*Watch on\s+(.+)$/i);
+    let m = s.match(/^(.+?)\s+Episode\s+(\d+)\s*(?:\(Finale\))?\s*[—–-]\s*Watch (?:Online )?on\s+(.+)$/i);
     if (m) return { drama: m[1].trim(), num: parseInt(m[2], 10), isFinale: false, channel: (m[3] || "").trim() };
-    m = s.match(/^(.+?)\s*[—–-]?\s*Last Episode\s*[—–-]\s*Watch on\s+(.+)$/i);
+    m = s.match(/^(.+?)\s*[—–-]?\s*Last Episode\s*[—–-]\s*Watch (?:Online )?on\s+(.+)$/i);
     if (m) return { drama: m[1].trim(), num: null, isFinale: true, channel: (m[2] || "").trim() };
     return null;
   };
