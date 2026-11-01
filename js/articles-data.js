@@ -28231,5 +28231,220 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T18:03:02+05:30"
+  },
+  "1qjiv0i": {
+    "id": "1qjiv0i",
+    "type": "news",
+    "headline": "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide",
+    "dek": "Ranabaali witnesses a minor recovery on its sixteenth day at the box office, pushing its global gross collection closer to the Rs 80 crore milestone.",
+    "body": [
+      {
+        "h": "Saturday Box Office Recovery",
+        "p": [
+          "The historical drama Ranabaali experienced a modest upswing in its theatrical collections on Saturday, October 31. Playing across 514 shows nationwide, the movie pulled in Rs 37 lakh in net domestic earnings.",
+          "This figure reflected a 68.2 percent increase compared to the previous day's collection of Rs 22 lakh. The total gross earnings for the day stood at Rs 42.55 lakh across the country."
+        ]
+      },
+      {
+        "h": "Overall Domestic and Global Numbers",
+        "p": [
+          "Following the latest weekend numbers, the film's cumulative domestic net collection climbed to Rs 57.89 crore. Meanwhile, the Indian gross collection reached Rs 67.23 crore.",
+          "International markets contributed an additional Rs 12.35 crore in gross revenue. Combined with domestic earnings, the worldwide gross total has now reached Rs 79.58 crore."
+        ]
+      },
+      {
+        "h": "Occupancy Rates and Show Performance",
+        "p": [
+          "Audience turnout improved slightly alongside the earnings, with overall Telugu 2D occupancy registering at 19.48 percent on Saturday. Breakdown across time slots showed morning shows leading with 17.91 percent occupancy.",
+          "Night screenings followed closely as the second-highest slot with 18.73 percent occupancy, whereas afternoon and evening screenings reported 16.55 percent and 15.91 percent respectively. Overall average earnings per show stood at Rs 7,198."
+        ]
+      },
+      {
+        "h": "Week-by-Week Box Office Trajectory",
+        "p": [
+          "The recent weekend uptick follows a significant slowdown in theatrical business after a strong opening week. During its first seven days, the film secured a robust domestic net collection of Rs 45.20 crore and a gross of Rs 52.55 crore.",
+          "The second week saw a sharp 73.2 percent decline, adding Rs 12.10 crore net. The opening two days of the third week further contributed Rs 59 lakh net to the domestic tally."
+        ]
+      },
+      {
+        "h": "Historical Setting and Narrative Background",
+        "p": [
+          "Directed with a focus on historical events, Ranabaali features Vijay Deverakonda and Rashmika Mandanna in a narrative set against the backdrop of the Madras Famine of 1876-1878.",
+          "The plot centers on Rayalaseema and follows a brave horseman who leads a local resistance against British colonial oppression during the severe regional famine."
+        ]
+      },
+      {
+        "h": "Comparison With Earlier Collaborations",
+        "p": [
+          "The current box office figures also invite comparison with the lead pair's previous venture, Dear Comrade. That film had achieved an opening-week domestic net collection of Rs 26.20 crore and a worldwide gross of approximately Rs 37 crore.",
+          "In comparison, Ranabaali has surpassed those initial milestone figures during its broader theatrical run, though the evaluation periods for both films differ."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranabaali recorded a Saturday box office jump on day 16, bringing its worldwide gross to Rs 79.58 crore. The Vijay Deverakonda and Rashmika Mandanna starrer continues its theatrical run as it nears the Rs 80 crore global mark."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Deverakonda and Rashmika Mandanna star in Ranabaali",
+      "Ranabaali collected Rs 37 lakh net in India on Saturday, October 31",
+      "Domestic net collection reached Rs 57.89 crore",
+      "Worldwide collection stands at Rs 79.58 crore",
+      "First week domestic net collection was Rs 45.20 crore"
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna"
+      ],
+      "titles": [
+        "Ranabaali",
+        "Dear Comrade"
+      ]
+    },
+    "keywords": [
+      "Ranabaali box office collection",
+      "Vijay Deverakonda Ranabaali film",
+      "Rashmika Mandanna Ranabaali movie",
+      "Ranabaali worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135414812,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T05:57:25+05:30"
+  },
+  "1s27agi": {
+    "id": "1s27agi",
+    "type": "news",
+    "headline": "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57",
+    "dek": "The director behind Kaante and Shootout at Wadala has passed away following a domestic fall that caused a head injury.",
+    "body": [
+      {
+        "h": "Sudden Passing of a Visionary Director",
+        "p": [
+          "Sanjay Gupta, the celebrated director recognized for notable Hindi features including Kaante and Shootout at Wadala, has died at the age of 57. The tragic news was initially brought to light by the trade publication Film Information, noting the date of the incident as October 30, 2026. Industry colleagues and fans alike have expressed their profound sorrow over the abrupt loss of the prominent filmmaker.",
+          "His untimely passing marks the end of an influential era in commercial Indian cinema. Throughout a career spanning three decades, he carved out a distinct niche for himself through his unique visual style and gripping narratives. The entertainment community continues to process the sudden void left by his departure."
+        ]
+      },
+      {
+        "h": "Tragic Accident at Home",
+        "p": [
+          "Reports indicate that the filmmaker suffered an accidental fall at his residence, which unfortunately led to a severe head injury. Further specifics surrounding the exact sequence of events at his home are still awaited as family and associates navigate the tragedy. Fellow filmmaker Ashoke Pandit publicly confirmed the passing and shared his condolences on social media.",
+          "The sudden nature of the accident has shocked many within the industry. Tributes have poured in from actors, producers, and directors who worked alongside him, highlighting his dedication to the craft and his warm presence behind the camera."
+        ]
+      },
+      {
+        "h": "Defining Partnership With Sanjay Dutt",
+        "p": [
+          "A major cornerstone of Sanjay Gupta's professional journey was his enduring creative collaboration with actor Sanjay Dutt. Together, the pair shaped several defining projects of the 2000s, beginning with the gritty heist drama Kaante in 2002. Their artistic synergy continued through films like Musafir in 2004, Zinda in 2006, and Shootout at Lokhandwala in 2007.",
+          "In addition to directing, he took on production and co-writing duties for Shootout at Lokhandwala, which drew inspiration from the historical 1991 Lokhandwala Complex shootout. He later revisited the gritty real-life crime genre to helm Shootout at Wadala in 2013, further cementing his reputation for handling intense, action-heavy subjects."
+        ]
+      },
+      {
+        "h": "Exploring Crime, Action, and Urban Stories",
+        "p": [
+          "While crime and gritty urban settings remained his primary domain, Sanjay Gupta occasionally ventured into other cinematic territories. He helmed the suspense thriller Jazbaa in 2015 starring Aishwarya Rai Bachchan, followed by the emotional drama Kaabil in 2017 featuring Hrithik Roshan and Yami Gautam. His filmography also includes the anthology Dus Kahaniyaan in 2007, Acid Factory in 2009, and the gangster epic Mumbai Saga in 2021 with John Abraham and Emraan Hashmi.",
+          "His visual aesthetic was heavily defined by stylised action sequences and moody lighting. These artistic choices gave his films a distinct westernized grit that set them apart within the mainstream Hindi film landscape during the 2000s and 2010s."
+        ]
+      },
+      {
+        "h": "Production Ventures and Later Works",
+        "p": [
+          "Demonstrating an entrepreneurial spirit alongside his creative pursuits, Sanjay Gupta launched his personal production banner, White Feather Films, in 2001. Under this company, he backed a wide array of cinematic projects, supporting diverse stories and collaborative talents throughout the industry.",
+          "His later directorial endeavors included The Miranda Brothers in 2024 featuring Meezaan Jafri and Harshvardhan Rane, as well as Visfot in 2024 starring Riteish Deshmukh and Fardeen Khan. These projects showed his ongoing commitment to making films right up to his final years."
+        ]
+      },
+      {
+        "h": "Early Beginnings and Industry Roots",
+        "p": [
+          "Before stepping into the director's chair, Sanjay Gupta built his foundational industry experience working in post-production and sound design. He also served as an assistant to filmmaker Pankaj Parashar, contributing to the television series Karamchand and the feature film Jalwa.",
+          "This extensive early training behind the scenes allowed him to develop a comprehensive technical understanding of filmmaking. The skills he acquired during those formative years directly translated into the polished visual language that defined his directorial career."
+        ]
+      },
+      {
+        "h": "Legacy in Mainstream Hindi Cinema",
+        "p": [
+          "Over a career spanning roughly thirty years, Sanjay Gupta established himself as a central figure in Hindi cinema's action and crime genres. His dedication to high-octane storytelling and urban realism ensured his work left a permanent mark on popular culture.",
+          "As tributes continue to circulate, his filmography stands as a testament to his ambition and distinct cinematic voice. The stories he brought to life will remain a cherished part of modern Indian film history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sanjay Gupta has passed away at the age of 57 following a fatal fall at his home that resulted in a head injury. Known for directing prominent crime and action titles like Kaante and Shootout at Wadala, his career spanned three decades of notable contributions to Hindi cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjay Gupta passed away at age 57.",
+      "The news was reported by Film Information, dating the event to October 30, 2026.",
+      "He suffered a fall at his home and sustained a head injury.",
+      "Ashoke Pandit confirmed the news and paid tribute on social media.",
+      "He worked with Sanjay Dutt on Kaante in 2002, Musafir in 2004, Zinda in 2006, and Shootout at Lokhandwala in 2007.",
+      "Shootout at Lokhandwala was based on the 1991 Lokhandwala Complex shootout.",
+      "He directed Shootout at Wadala in 2013.",
+      "He directed Jazbaa in 2015 with Aishwarya Rai Bachchan.",
+      "He directed Kaabil in 2017 with Hrithik Roshan and Yami Gautam.",
+      "He directed Dus Kahaniyaan in 2007, Acid Factory in 2009, and Mumbai Saga in 2021.",
+      "Mumbai Saga starred John Abraham and Emraan Hashmi.",
+      "He launched White Feather Films in 2001.",
+      "He directed The Miranda Brothers in 2024 with Meezaan Jafri and Harshvardhan Rane.",
+      "He directed Visfot in 2024 with Riteish Deshmukh and Fardeen Khan.",
+      "He assisted filmmaker Pankaj Parashar on Karamchand and Jalwa."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Mahi Pillai",
+        "Ashoke Pandit",
+        "Sanjay Dutt",
+        "Aishwarya Rai Bachchan",
+        "Hrithik Roshan",
+        "Yami Gautam",
+        "John Abraham",
+        "Emraan Hashmi",
+        "Meezaan Jafri",
+        "Harshvardhan Rane",
+        "Riteish Deshmukh",
+        "Fardeen Khan",
+        "Pankaj Parashar"
+      ],
+      "titles": [
+        "Kaante",
+        "Shootout at Wadala",
+        "Kaabil",
+        "Jazbaa",
+        "Mumbai Saga",
+        "Musafir",
+        "Zinda",
+        "Shootout at Lokhandwala",
+        "Dus Kahaniyaan",
+        "Acid Factory",
+        "The Miranda Brothers",
+        "Visfot",
+        "Karamchand",
+        "Jalwa"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta passes away",
+      "Shootout At Wadala director",
+      "Kaante filmmaker Sanjay Gupta",
+      "Sanjay Gupta filmography"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/31142857/Miss-Malini-Wordpress-Images-2026-10-31T142819.861.jpg",
+        "caption": "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-01T01:51:59Z"
   }
 };

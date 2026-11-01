@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-31T01:51:40Z",
-    "run_id": "41157243459",
-    "status": "success",
-    "checked": {
-     "candidates": 267,
-     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Jason Sanjay issues warning over fake accounts",
-      "'Ramayana' and 'Godzilla' open to positive early reviews",
-      "‘Prahaar’ Day 15 Box Office: Rs 29 lakh Friday haul after 3.6% uptick",
-      "'Jailer 2': Antony Perumbavoor REACTS to Mohanlal's screen time",
-      "Singer Laren Bennett's cause of death confirmed as suicide following mental health crisis",
-      "'Titans' BO day 9: Jayasurya and Vinayakan's film collects Rs 2.65 cr",
-      "'Udta Teer' box office collection day 8: Ayushmann's film crosses Rs 50 cr worldwide",
-      "It’s Officially the End of an Era for Apple TV’s 9/10 Sci-Fi Series",
-      "The Minions' Best Movie Officially Finds the Perfect Streaming Home for Halloween",
-      "Forget 'Captain America,' Anthony Mackie's Brutal Crime Epic Is Officially Streaming for Free",
-      "‘The Hunting Wives’ Season 3 Officially Makes a Major Change",
-      "'Fallout' Star's Divisive Sci-Fi Epic Officially Hits HBO Max This Weekend",
-      "Recasting 'Star Trek: The Next Generation' in 2026: The 10 Biggest Characters & Who Should Play Them",
-      "10 Most Chaotic Far Side Comics That Are Complete Classics",
-      "8 DC Villains Who Are Genuinely Nightmare Fuel",
-      "Mama Bear Ending Explained: Who Killed Who In Curry Barker's Horror Movie Short?",
-      "3 Best Movies To Watch On HBO Max This Weekend (October 31-Nov 1)",
-      "7 Things Guy Ritchie’s MobLand Does Better Than The Gentlemen",
-      "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage",
-      "Timbaland Files $15 Million Fraud Lawsuit Against Former Managers"
-     ],
-     "updated": [],
-     "count": 261,
-     "detail": "263 stories, 0 duplicates removed, 4 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-31T02:51:40Z",
     "run_id": "41161770523",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "246 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-31T01:52:02Z",
-    "run_id": "41157243459",
+    "run_at": "2026-11-01T01:51:37Z",
+    "run_id": "41262737112",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 237,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
     },
     "changed": {
      "added": [
-      "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle",
-      "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage"
+      "'Cult' BO: Saturday collection more than doubles 'Laila's day 2 total",
+      "'Aadarsha Kutumbam House No: 47' BO day 2",
+      "'Drishyam 3' day 30: Ajay Devgn's film doubles 'Drishyam 2's 30-day collection",
+      "'Ranabaali' BO day 16: Film grosses Rs 79.58 cr worldwide",
+      "'Jailer 2' BO day 17: Rajinikanth's film outperforms 'Coolie'",
+      "Yash's son cried after watching Ravana vs Jatayu battle - WATCH",
+      "Everything Coming to Netflix in November 2026",
+      "'The Rookie's Spin-Off Is Making the Same Mistake as the Franchise’s Cancelled Show",
+      "Before ‘Jumanji,’ Dwayne Johnson’s Wild Adventure Movie Officially Hits Prime Video",
+      "8 Greatest Netflix Shows With Fewer Than 40 Episodes",
+      "2 of Rockstar's Biggest Games Officially Removed From PlayStation Plus Mere Days Before 'GTA 6'",
+      "Elle Fanning's Near-Perfect $7M Masterpiece Officially Makes Streaming Comeback",
+      "Taylor Sheridan's 'Yellowstone' Replacement Officially Loses 5 Million Viewers",
+      "Forget ‘Carrie,’ Mike Flanagan’s Best Horror Miniseries Is a Masterpiece From Start to Finish",
+      "It's Only Been 8 Days, but New 108-Minute Thriller is Already Dominating the Box Office in 3,400 Theaters",
+      "Patrick Stewart's 7-Part Sci-Fi Masterpiece Officially Returns to Dominate Streaming 39 Years Later",
+      "10 Near-Perfect Paramount+ Shows That Will Hook You in the First 10 Minutes",
+      "Game Of Thrones' Ending Explained: King Bran, Daenerys' Death & All Twists",
+      "Attack on Titan's 17-Year Journey Project Is Just 1 Month Away",
+      "Ahsoka & Maul's 2027 Returns Point To Something Undeniable About Star Wars"
      ],
      "updated": [],
-     "count": 2,
-     "detail": "+2 articles, +0 box-office rows, 0 rows updated"
+     "count": 231,
+     "detail": "233 stories, 0 duplicates removed, 4 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1430,27 +1409,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-01T01:51:59Z",
+    "run_id": "41262737112",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide",
+      "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-31T03:52:17Z",
-    "run_id": "41166075826",
-    "status": "success",
-    "checked": {
-     "candidates": 91,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 87, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1864,33 +1846,27 @@
      "detail": "now 153, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-01T01:52:00Z",
+    "run_id": "41262737112",
+    "status": "success",
+    "checked": {
+     "candidates": 158,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 153, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-31T01:52:04Z",
-    "run_id": "41157243459",
-    "status": "success",
-    "checked": {
-     "candidates": 96,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "xl6qwm",
-      "69erpd",
-      "1fot0a7",
-      "1gvtjck",
-      "lzeen0",
-      "3152s9"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2312,27 +2288,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-31T01:52:03Z",
-    "run_id": "41157243459",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-01T01:52:01Z",
+    "run_id": "41262737112",
     "status": "success",
     "checked": {
-     "candidates": 325,
-     "detail": "324 collected staging rows from readers; 109 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 320 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2746,19 +2721,27 @@
      "detail": "+1 new rows, 5 updated rows, 323 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-01T01:52:00Z",
+    "run_id": "41262737112",
+    "status": "success",
+    "checked": {
+     "candidates": 333,
+     "detail": "329 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 326 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3061,30 +3044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-31T01:52:04Z",
-    "run_id": "41157243459",
-    "status": "success",
-    "checked": {
-     "candidates": 81,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle",
-      "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 81 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3768,19 +3740,30 @@
      "detail": "api-news.json 316 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-01T01:52:01Z",
+    "run_id": "41262737112",
+    "status": "success",
+    "checked": {
+     "candidates": 318,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57",
+      "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 318 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -4067,19 +4050,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4454,29 +4437,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-31T01:52:02Z",
-    "run_id": "41157243459",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 261 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle",
-      "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4924,19 +4897,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-01T01:51:59Z",
+    "run_id": "41262737112",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 231 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 2/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide",
+      "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5193,24 +5176,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 207,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5535,24 +5513,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 23,
+     "count": 215,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5892,19 +5870,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6154,19 +6137,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6401,19 +6384,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6657,19 +6640,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6910,19 +6893,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7152,19 +7135,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-31T01:52:13Z",
-    "run_id": "41157243459",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7417,6 +7400,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-01T01:52:07Z",
+    "run_id": "41262737112",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7478,5 +7471,5 @@
    }
   ]
  },
- "updated_at": "2026-11-01T00:59:16Z"
+ "updated_at": "2026-11-01T01:52:07Z"
 }
