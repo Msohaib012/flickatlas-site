@@ -622,7 +622,7 @@ def build_article(ep):
     epno = ep["episode"]
     ep_label = f"Episode {epno}" if epno else "Final Episode"
     air = (ep.get("published") or "")[:10]
-    headline = f"{drama} {ep_label} — Watch on {ep['channel']}"
+    headline = f"{drama} {ep_label} — Watch Online on {ep['channel']}"
     dek = (f"{drama} {ep_label.lower()} aired on {air or 'YouTube'} — "
            f"watch the full episode on {ep['channel']}."
            if air else

@@ -2200,7 +2200,7 @@ window.FA_ARTICLES = {
   "16h3tk3": {
     "id": "16h3tk3",
     "type": "news",
-    "headline": "Bano Episode 13 — Watch on Geo TV",
+    "headline": "Bano Episode 13 — Watch Online on Geo TV",
     "dek": "Bano episode 13 aired on 2026-10-25 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -2248,7 +2248,7 @@ window.FA_ARTICLES = {
   "2dsql": {
     "id": "2dsql",
     "type": "news",
-    "headline": "Zehar Episode 20 — Watch on HUM TV",
+    "headline": "Zehar Episode 20 — Watch Online on HUM TV",
     "dek": "Zehar episode 20 aired on 2026-10-25 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -2296,7 +2296,7 @@ window.FA_ARTICLES = {
   "15q9ki2": {
     "id": "15q9ki2",
     "type": "news",
-    "headline": "Nashtar Episode 24 — Watch on Geo TV",
+    "headline": "Nashtar Episode 24 — Watch Online on Geo TV",
     "dek": "Nashtar episode 24 aired on 2026-10-25 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -2355,7 +2355,7 @@ window.FA_ARTICLES = {
   "kr4rln": {
     "id": "kr4rln",
     "type": "news",
-    "headline": "Mohabbat Mukhtasir Episode 5 — Watch on HUM TV",
+    "headline": "Mohabbat Mukhtasir Episode 5 — Watch Online on HUM TV",
     "dek": "Mohabbat Mukhtasir episode 5 aired on 2026-10-25 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -2397,7 +2397,7 @@ window.FA_ARTICLES = {
   "idg5hm": {
     "id": "idg5hm",
     "type": "news",
-    "headline": "Izzat Episode 36 — Watch on ARY Digital",
+    "headline": "Izzat Episode 36 — Watch Online on ARY Digital",
     "dek": "Izzat episode 36 aired on 2026-10-25 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -2439,7 +2439,7 @@ window.FA_ARTICLES = {
   "1bsarhy": {
     "id": "1bsarhy",
     "type": "news",
-    "headline": "Khushi Episode 43 — Watch on HUM TV",
+    "headline": "Khushi Episode 43 — Watch Online on HUM TV",
     "dek": "Khushi episode 43 aired on 2026-10-25 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -2481,7 +2481,7 @@ window.FA_ARTICLES = {
   "9ojltd": {
     "id": "9ojltd",
     "type": "news",
-    "headline": "Uswah Episode 33 — Watch on Geo TV",
+    "headline": "Uswah Episode 33 — Watch Online on Geo TV",
     "dek": "Uswah episode 33 aired on 2026-10-25 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -2523,7 +2523,7 @@ window.FA_ARTICLES = {
   "13utb8c": {
     "id": "13utb8c",
     "type": "news",
-    "headline": "Dastoor Episode 65 — Watch on Green TV",
+    "headline": "Dastoor Episode 65 — Watch Online on Green TV",
     "dek": "Dastoor episode 65 aired on 2026-10-25 — watch the full episode on Green TV.",
     "body": [
       {
@@ -2578,7 +2578,7 @@ window.FA_ARTICLES = {
   "1an6esq": {
     "id": "1an6esq",
     "type": "news",
-    "headline": "Zehar Episode 19 — Watch on HUM TV",
+    "headline": "Zehar Episode 19 — Watch Online on HUM TV",
     "dek": "Zehar episode 19 aired on 2026-10-24 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -2620,7 +2620,7 @@ window.FA_ARTICLES = {
   "1apfgqk": {
     "id": "1apfgqk",
     "type": "news",
-    "headline": "Bano Episode 12 — Watch on Geo TV",
+    "headline": "Bano Episode 12 — Watch Online on Geo TV",
     "dek": "Bano episode 12 aired on 2026-10-24 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -2662,7 +2662,7 @@ window.FA_ARTICLES = {
   "g3nrlo": {
     "id": "g3nrlo",
     "type": "news",
-    "headline": "Nashtar Episode 23 — Watch on Geo TV",
+    "headline": "Nashtar Episode 23 — Watch Online on Geo TV",
     "dek": "Nashtar episode 23 aired on 2026-10-24 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -2715,7 +2715,7 @@ window.FA_ARTICLES = {
   "1xugstn": {
     "id": "1xugstn",
     "type": "news",
-    "headline": "Dar Episode 25 — Watch on ARY Digital",
+    "headline": "Dar Episode 25 — Watch Online on ARY Digital",
     "dek": "Dar episode 25 aired on 2026-10-24 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -2757,7 +2757,7 @@ window.FA_ARTICLES = {
   "1iubew9": {
     "id": "1iubew9",
     "type": "news",
-    "headline": "Aangan Episode 8 — Watch on HUM TV",
+    "headline": "Aangan Episode 8 — Watch Online on HUM TV",
     "dek": "Aangan episode 8 aired on 2026-10-24 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -2812,7 +2812,7 @@ window.FA_ARTICLES = {
   "1nvg78": {
     "id": "1nvg78",
     "type": "news",
-    "headline": "Khushi Episode 42 — Watch on HUM TV",
+    "headline": "Khushi Episode 42 — Watch Online on HUM TV",
     "dek": "Khushi episode 42 aired on 2026-10-24 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -2854,7 +2854,7 @@ window.FA_ARTICLES = {
   "103djpd": {
     "id": "103djpd",
     "type": "news",
-    "headline": "Izzat Episode 35 — Watch on ARY Digital",
+    "headline": "Izzat Episode 35 — Watch Online on ARY Digital",
     "dek": "Izzat episode 35 aired on 2026-10-24 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -2896,7 +2896,7 @@ window.FA_ARTICLES = {
   "1mur217": {
     "id": "1mur217",
     "type": "news",
-    "headline": "Uswah Episode 32 — Watch on Geo TV",
+    "headline": "Uswah Episode 32 — Watch Online on Geo TV",
     "dek": "Uswah episode 32 aired on 2026-10-24 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -2938,7 +2938,7 @@ window.FA_ARTICLES = {
   "43x8iz": {
     "id": "43x8iz",
     "type": "news",
-    "headline": "Bulbulay Season 2 Episode 379 — Watch on ARY Digital",
+    "headline": "Bulbulay Season 2 Episode 379 — Watch Online on ARY Digital",
     "dek": "Bulbulay Season 2 episode 379 aired on 2026-10-24 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -2980,7 +2980,7 @@ window.FA_ARTICLES = {
   "1nfjzft": {
     "id": "1nfjzft",
     "type": "news",
-    "headline": "Dastoor Episode 64 — Watch on Green TV",
+    "headline": "Dastoor Episode 64 — Watch Online on Green TV",
     "dek": "Dastoor episode 64 aired on 2026-10-24 — watch the full episode on Green TV.",
     "body": [
       {
@@ -3803,7 +3803,7 @@ window.FA_ARTICLES = {
   "v1szb0": {
     "id": "v1szb0",
     "type": "news",
-    "headline": "Exclusive Chat with Zahid Ahmed Episode 78 — Watch on ARY Digital",
+    "headline": "Exclusive Chat with Zahid Ahmed Episode 78 — Watch Online on ARY Digital",
     "dek": "Exclusive Chat with Zahid Ahmed episode 78 aired on 2026-10-24 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -6111,7 +6111,7 @@ window.FA_ARTICLES = {
   "fojdjl": {
     "id": "fojdjl",
     "type": "news",
-    "headline": "Bano Episode 14 — Watch on Geo TV",
+    "headline": "Bano Episode 14 — Watch Online on Geo TV",
     "dek": "Bano episode 14 aired on 2026-10-26 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -6160,7 +6160,7 @@ window.FA_ARTICLES = {
   "4z97ka": {
     "id": "4z97ka",
     "type": "news",
-    "headline": "Uswah Episode 34 — Watch on Geo TV",
+    "headline": "Uswah Episode 34 — Watch Online on Geo TV",
     "dek": "Uswah episode 34 aired on 2026-10-26 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -6202,7 +6202,7 @@ window.FA_ARTICLES = {
   "rswjqo": {
     "id": "rswjqo",
     "type": "news",
-    "headline": "Khushi Episode 44 — Watch on HUM TV",
+    "headline": "Khushi Episode 44 — Watch Online on HUM TV",
     "dek": "Khushi episode 44 aired on 2026-10-26 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -6244,7 +6244,7 @@ window.FA_ARTICLES = {
   "1kvo9sn": {
     "id": "1kvo9sn",
     "type": "news",
-    "headline": "Izzat Episode 37 — Watch on ARY Digital",
+    "headline": "Izzat Episode 37 — Watch Online on ARY Digital",
     "dek": "Izzat episode 37 aired on 2026-10-26 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -6286,7 +6286,7 @@ window.FA_ARTICLES = {
   "3xp57c": {
     "id": "3xp57c",
     "type": "news",
-    "headline": "Dastoor Episode 66 — Watch on Green TV",
+    "headline": "Dastoor Episode 66 — Watch Online on Green TV",
     "dek": "Dastoor episode 66 aired on 2026-10-26 — watch the full episode on Green TV.",
     "body": [
       {
@@ -10378,7 +10378,7 @@ window.FA_ARTICLES = {
   "10y6rf6": {
     "id": "10y6rf6",
     "type": "news",
-    "headline": "Hurmat Episode 7 — Watch on HUM TV",
+    "headline": "Hurmat Episode 7 — Watch Online on HUM TV",
     "dek": "Hurmat episode 7 aired on 2026-10-26 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -10434,7 +10434,7 @@ window.FA_ARTICLES = {
   "ym70kw": {
     "id": "ym70kw",
     "type": "news",
-    "headline": "Bano Episode 15 — Watch on Geo TV",
+    "headline": "Bano Episode 15 — Watch Online on Geo TV",
     "dek": "Bano episode 15 aired on 2026-10-27 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -10483,7 +10483,7 @@ window.FA_ARTICLES = {
   "1pqt1i5": {
     "id": "1pqt1i5",
     "type": "news",
-    "headline": "Hurmat Episode 8 — Watch on HUM TV",
+    "headline": "Hurmat Episode 8 — Watch Online on HUM TV",
     "dek": "Hurmat episode 8 aired on 2026-10-27 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -10545,7 +10545,7 @@ window.FA_ARTICLES = {
   "16nnktg": {
     "id": "16nnktg",
     "type": "news",
-    "headline": "Uswah Episode 35 — Watch on Geo TV",
+    "headline": "Uswah Episode 35 — Watch Online on Geo TV",
     "dek": "Uswah episode 35 aired on 2026-10-27 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -10594,7 +10594,7 @@ window.FA_ARTICLES = {
   "1jeez6l": {
     "id": "1jeez6l",
     "type": "news",
-    "headline": "Khushi Episode 45 — Watch on HUM TV",
+    "headline": "Khushi Episode 45 — Watch Online on HUM TV",
     "dek": "Khushi episode 45 aired on 2026-10-27 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -10643,7 +10643,7 @@ window.FA_ARTICLES = {
   "1jslpyw": {
     "id": "1jslpyw",
     "type": "news",
-    "headline": "Izzat Episode 38 — Watch on ARY Digital",
+    "headline": "Izzat Episode 38 — Watch Online on ARY Digital",
     "dek": "Izzat episode 38 aired on 2026-10-27 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -10692,7 +10692,7 @@ window.FA_ARTICLES = {
   "zidstc": {
     "id": "zidstc",
     "type": "news",
-    "headline": "Dastoor Episode 67 — Watch on Green TV",
+    "headline": "Dastoor Episode 67 — Watch Online on Green TV",
     "dek": "Dastoor episode 67 aired on 2026-10-27 — watch the full episode on Green TV.",
     "body": [
       {
@@ -14728,7 +14728,7 @@ window.FA_ARTICLES = {
   "1sz4ky6": {
     "id": "1sz4ky6",
     "type": "news",
-    "headline": "Bano Episode 16 — Watch on Geo TV",
+    "headline": "Bano Episode 16 — Watch Online on Geo TV",
     "dek": "Bano episode 16 aired on 2026-10-28 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -14776,7 +14776,7 @@ window.FA_ARTICLES = {
   "vugi16": {
     "id": "vugi16",
     "type": "news",
-    "headline": "Izzat Episode 39 — Watch on ARY Digital",
+    "headline": "Izzat Episode 39 — Watch Online on ARY Digital",
     "dek": "Izzat episode 39 aired on 2026-10-28 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -14818,7 +14818,7 @@ window.FA_ARTICLES = {
   "1h0aif3": {
     "id": "1h0aif3",
     "type": "news",
-    "headline": "Khushi Episode 46 — Watch on HUM TV",
+    "headline": "Khushi Episode 46 — Watch Online on HUM TV",
     "dek": "Khushi episode 46 aired on 2026-10-28 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -14860,7 +14860,7 @@ window.FA_ARTICLES = {
   "wbw549": {
     "id": "wbw549",
     "type": "news",
-    "headline": "Uswah Episode 36 — Watch on Geo TV",
+    "headline": "Uswah Episode 36 — Watch Online on Geo TV",
     "dek": "Uswah episode 36 aired on 2026-10-28 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -14914,7 +14914,7 @@ window.FA_ARTICLES = {
   "1hztyr0": {
     "id": "1hztyr0",
     "type": "news",
-    "headline": "Dastoor Episode 68 — Watch on Green TV",
+    "headline": "Dastoor Episode 68 — Watch Online on Green TV",
     "dek": "Dastoor episode 68 aired on 2026-10-28 — watch the full episode on Green TV.",
     "body": [
       {
@@ -17897,7 +17897,7 @@ window.FA_ARTICLES = {
   "1n189vp": {
     "id": "1n189vp",
     "type": "news",
-    "headline": "Khushi Episode 47 — Watch on HUM TV",
+    "headline": "Khushi Episode 47 — Watch Online on HUM TV",
     "dek": "Khushi episode 47 aired on 2026-10-29 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -17939,7 +17939,7 @@ window.FA_ARTICLES = {
   "aa18eo": {
     "id": "aa18eo",
     "type": "news",
-    "headline": "Uswah Episode 37 — Watch on Geo TV",
+    "headline": "Uswah Episode 37 — Watch Online on Geo TV",
     "dek": "Uswah episode 37 aired on 2026-10-29 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -17981,7 +17981,7 @@ window.FA_ARTICLES = {
   "mnuizx": {
     "id": "mnuizx",
     "type": "news",
-    "headline": "Izzat Episode 40 — Watch on ARY Digital",
+    "headline": "Izzat Episode 40 — Watch Online on ARY Digital",
     "dek": "Izzat episode 40 aired on 2026-10-29 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -18023,7 +18023,7 @@ window.FA_ARTICLES = {
   "8qmro4": {
     "id": "8qmro4",
     "type": "news",
-    "headline": "Dastoor Episode 69 — Watch on Green TV",
+    "headline": "Dastoor Episode 69 — Watch Online on Green TV",
     "dek": "Dastoor episode 69 aired on 2026-10-29 — watch the full episode on Green TV.",
     "body": [
       {
@@ -18922,7 +18922,7 @@ window.FA_ARTICLES = {
   "sqzlt": {
     "id": "sqzlt",
     "type": "news",
-    "headline": "Bano Episode 17 — Watch on Geo TV",
+    "headline": "Bano Episode 17 — Watch Online on Geo TV",
     "dek": "Bano episode 17 aired on 2026-10-29 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -22346,7 +22346,7 @@ window.FA_ARTICLES = {
   "tvndti": {
     "id": "tvndti",
     "type": "news",
-    "headline": "Khushi Episode 48 — Watch on HUM TV",
+    "headline": "Khushi Episode 48 — Watch Online on HUM TV",
     "dek": "Khushi episode 48 aired on 2026-10-30 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -22388,7 +22388,7 @@ window.FA_ARTICLES = {
   "3uv8qo": {
     "id": "3uv8qo",
     "type": "news",
-    "headline": "Uswah Episode 38 — Watch on Geo TV",
+    "headline": "Uswah Episode 38 — Watch Online on Geo TV",
     "dek": "Uswah episode 38 aired on 2026-10-30 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -22442,7 +22442,7 @@ window.FA_ARTICLES = {
   "f9ahwu": {
     "id": "f9ahwu",
     "type": "news",
-    "headline": "Izzat Episode 41 — Watch on ARY Digital",
+    "headline": "Izzat Episode 41 — Watch Online on ARY Digital",
     "dek": "Izzat episode 41 aired on 2026-10-30 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -22484,7 +22484,7 @@ window.FA_ARTICLES = {
   "1xbxgvi": {
     "id": "1xbxgvi",
     "type": "news",
-    "headline": "Dastoor Episode 70 — Watch on Green TV",
+    "headline": "Dastoor Episode 70 — Watch Online on Green TV",
     "dek": "Dastoor episode 70 aired on 2026-10-30 — watch the full episode on Green TV.",
     "body": [
       {
@@ -22979,7 +22979,7 @@ window.FA_ARTICLES = {
   "wkt3ap": {
     "id": "wkt3ap",
     "type": "news",
-    "headline": "Bano Episode 18 — Watch on Geo TV",
+    "headline": "Bano Episode 18 — Watch Online on Geo TV",
     "dek": "Bano episode 18 aired on 2026-10-30 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -23021,7 +23021,7 @@ window.FA_ARTICLES = {
   "v5p23f": {
     "id": "v5p23f",
     "type": "news",
-    "headline": "Aangan Episode 9 — Watch on HUM TV",
+    "headline": "Aangan Episode 9 — Watch Online on HUM TV",
     "dek": "Aangan episode 9 aired on 2026-10-30 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -23076,7 +23076,7 @@ window.FA_ARTICLES = {
   "fnii8": {
     "id": "fnii8",
     "type": "news",
-    "headline": "Nashtar Episode 25 — Watch on Geo TV",
+    "headline": "Nashtar Episode 25 — Watch Online on Geo TV",
     "dek": "Nashtar episode 25 aired on 2026-10-30 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -23129,7 +23129,7 @@ window.FA_ARTICLES = {
   "pp1vei": {
     "id": "pp1vei",
     "type": "news",
-    "headline": "Dar-E-Nijaat Episode 26 — Watch on ARY Digital",
+    "headline": "Dar-E-Nijaat Episode 26 — Watch Online on ARY Digital",
     "dek": "Dar-E-Nijaat episode 26 aired on 2026-10-30 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -26151,7 +26151,7 @@ window.FA_ARTICLES = {
   "a1md5o": {
     "id": "a1md5o",
     "type": "news",
-    "headline": "Lagan Lagi Episode 7 — Watch on ARY Digital",
+    "headline": "Lagan Lagi Episode 7 — Watch Online on ARY Digital",
     "dek": "Lagan Lagi episode 7 aired on 2026-10-30 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -26193,7 +26193,7 @@ window.FA_ARTICLES = {
   "86vit4": {
     "id": "86vit4",
     "type": "news",
-    "headline": "Lagan Lagi Episode 6 — Watch on ARY Digital",
+    "headline": "Lagan Lagi Episode 6 — Watch Online on ARY Digital",
     "dek": "Lagan Lagi episode 6 aired on 2026-10-29 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -26580,7 +26580,7 @@ window.FA_ARTICLES = {
   "vxtyqx": {
     "id": "vxtyqx",
     "type": "news",
-    "headline": "Khushi Episode 49 — Watch on HUM TV",
+    "headline": "Khushi Episode 49 — Watch Online on HUM TV",
     "dek": "Khushi episode 49 aired on 2026-10-31 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -26622,7 +26622,7 @@ window.FA_ARTICLES = {
   "1irgut9": {
     "id": "1irgut9",
     "type": "news",
-    "headline": "Izzat Episode 42 — Watch on ARY Digital",
+    "headline": "Izzat Episode 42 — Watch Online on ARY Digital",
     "dek": "Izzat episode 42 aired on 2026-10-31 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -26664,7 +26664,7 @@ window.FA_ARTICLES = {
   "1l3waev": {
     "id": "1l3waev",
     "type": "news",
-    "headline": "Uswah Episode 39 — Watch on Geo TV",
+    "headline": "Uswah Episode 39 — Watch Online on Geo TV",
     "dek": "Uswah episode 39 aired on 2026-10-31 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -26706,7 +26706,7 @@ window.FA_ARTICLES = {
   "1a99afz": {
     "id": "1a99afz",
     "type": "news",
-    "headline": "Dastoor Episode 71 — Watch on Green TV",
+    "headline": "Dastoor Episode 71 — Watch Online on Green TV",
     "dek": "Dastoor episode 71 aired on 2026-10-31 — watch the full episode on Green TV.",
     "body": [
       {
@@ -27194,7 +27194,7 @@ window.FA_ARTICLES = {
   "1bc6fsb": {
     "id": "1bc6fsb",
     "type": "news",
-    "headline": "Zehar-e-Mohabbat Episode 21 — Watch on HUM TV",
+    "headline": "Zehar-e-Mohabbat Episode 21 — Watch Online on HUM TV",
     "dek": "Zehar-e-Mohabbat episode 21 aired on 2026-10-31 — watch the full episode on HUM TV.",
     "body": [
       {
@@ -27236,7 +27236,7 @@ window.FA_ARTICLES = {
   "1i4poor": {
     "id": "1i4poor",
     "type": "news",
-    "headline": "Bano Episode 19 — Watch on Geo TV",
+    "headline": "Bano Episode 19 — Watch Online on Geo TV",
     "dek": "Bano episode 19 aired on 2026-10-31 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -27278,7 +27278,7 @@ window.FA_ARTICLES = {
   "xb5dol": {
     "id": "xb5dol",
     "type": "news",
-    "headline": "Nashtar Episode 26 — Watch on Geo TV",
+    "headline": "Nashtar Episode 26 — Watch Online on Geo TV",
     "dek": "Nashtar episode 26 aired on 2026-10-31 — watch the full episode on Geo TV.",
     "body": [
       {
@@ -27331,7 +27331,7 @@ window.FA_ARTICLES = {
   "gnyxr1": {
     "id": "gnyxr1",
     "type": "news",
-    "headline": "Dar-E-Nijaat Episode 27 — Watch on ARY Digital",
+    "headline": "Dar-E-Nijaat Episode 27 — Watch Online on ARY Digital",
     "dek": "Dar-E-Nijaat episode 27 aired on 2026-10-31 — watch the full episode on ARY Digital.",
     "body": [
       {
@@ -27386,7 +27386,7 @@ window.FA_ARTICLES = {
   "dshhrf": {
     "id": "dshhrf",
     "type": "news",
-    "headline": "Aangan Episode 10 — Watch on HUM TV",
+    "headline": "Aangan Episode 10 — Watch Online on HUM TV",
     "dek": "Aangan episode 10 aired on 2026-10-31 — watch the full episode on HUM TV.",
     "body": [
       {
