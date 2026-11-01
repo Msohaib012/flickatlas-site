@@ -992,7 +992,7 @@
       return { key, name: pub ? UI.titleOf(pub) : raw };
     };
     const epArticles = Object.values(window.FA_ARTICLES || {})
-      .filter(a => a && a.id && /watch (?:online )?on/i.test(a.headline || "") && a.published)
+      .filter(a => a && a.id && /watch (?:online )?on\b/i.test(a.headline || "") && a.published)
       .sort((a, b) => (Date.parse(b.published || "") || 0) - (Date.parse(a.published || "") || 0) || String(a.id || "").localeCompare(String(b.id || "")));
     /* On-airing filter (user order 2026-10-27): an episode stays only
        when its drama is airing (latest tracked episode within 7 days

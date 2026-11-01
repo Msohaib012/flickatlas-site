@@ -309,7 +309,7 @@ def reconcile_tracker_dramas(key, published, pt, out_dir):
     names = set()
     for a in (articles or {}).values():
         h = (a or {}).get("headline") or ""
-        if not re.search(r"Watch (?:Online )?on", h):
+        if not re.search(r"Watch (?:Online )?on\b", h):
             continue
         m = re.match(r"^(.*?)\s+Episode\s+\d+", h)
         name = (m.group(1).strip() if m else h.split(" — ")[0].strip())
