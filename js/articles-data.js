@@ -28446,5 +28446,220 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T01:51:59Z"
+  },
+  "16avyrn": {
+    "id": "16avyrn",
+    "type": "news",
+    "headline": "Shah Rukh Khan's 'King' Sells Overseas Rights for a Historic 175 Crore Rupees Ahead of Release",
+    "dek": "Shah Rukh Khan's upcoming action entertainer King has secured a record-breaking overseas theatrical rights deal worth 175 crore rupees with Phars Films, setting a new benchmark for Indian cinema ahead of its December premiere.",
+    "body": [
+      {
+        "h": "A Historic Pre-Release Milestone",
+        "p": [
+          "Shah Rukh Khan's highly anticipated film King has achieved an unprecedented feat even before hitting theaters. The upcoming movie has secured a landmark overseas theatrical rights agreement, commanding a massive valuation that sets a brand new benchmark across the Indian film industry.",
+          "While southern Indian cinema has dominated domestic markets extensively in recent years, this massive international agreement proves that Shah Rukh Khan's star power abroad remains unmatched. The deal cements the project as one of the most commercially anticipated global releases of the year."
+        ]
+      },
+      {
+        "h": "The Record-Breaking Phars Films Agreement",
+        "p": [
+          "According to industry reports, Phars Films has acquired the international theatrical distribution rights for King at a staggering 175 crore rupees, which exceeds 18 million dollars. Previously, international rights for Shah Rukh Khan's ventures were predominantly handled by Yash Raj Films, which successfully distributed both Pathaan and Jawan in 2023.",
+          "Phars Films brings extensive global distribution experience to the table, having previously partnered with Yash Raj Films on multiple projects and independently handling the distribution of Prabhas's film Saaho. The 175 crore rupee figure represents a minimum guarantee amount, surpassing the 100 crore rupee threshold for the first time in Indian cinema history."
+        ]
+      },
+      {
+        "h": "Financial Breakdown and Break-Even Targets",
+        "p": [
+          "A minimum guarantee commitment of this magnitude highlights the immense confidence distributors hold in the theatrical potential of the feature. In international markets, distributors typically retain about 50 percent of the total box office collections, meaning King will need to generate substantial revenue to break even.",
+          "To clear its financial hurdles, the movie will need to pull in roughly 35 to 40 million dollars internationally, translating to approximately 350 to 375 crore rupees. For context, Shah Rukh Khan's previous blockbuster hits Pathaan and Jawan both crossed the 400 crore rupee mark in overseas territories."
+        ]
+      },
+      {
+        "h": "Chasing International Benchmarks",
+        "p": [
+          "Given the historic size of the minimum guarantee, turning a profit will require King to match or exceed the international milestones set by major hits like Dhurandhar 2 at 460 crore rupees or RRR at 430 crore rupees. These titles stand among the greatest international successes ever recorded by Indian cinema.",
+          "In addition to the international rights, separate reports indicate that Pen Marudhar has acquired the all-India distribution rights for 250 crore rupees. This continues a long-standing association with the actor's production house, following previous collaborations on Jawan, Dunki, Zero, Badla, and Ittefaq."
+        ]
+      },
+      {
+        "h": "A High-Stakes Holiday Clash",
+        "p": [
+          "Securing such high financial backing comes with heavy competition, as King is scheduled to premiere during the Christmas holiday season. The film faces a formidable box office showdown against massive Hollywood releases including Jumanji, Avengers: Doomsday, and Dune 3.",
+          "This high-profile scheduling creates one of the most intense competitive clashes in cinematic history. It offers the Bollywood superstar a major platform to demonstrate his enduring global dominance against top-tier international competition."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "King features Shah Rukh Khan in the lead role and is directed by Siddharth Anand. This marks the second collaboration between the actor and director following their successful 2023 release Pathaan.",
+          "The supporting cast features Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukerji, Jaideep Ahlawat, Raghav Juyal, and Saurabh Shukla. Notably, this project marks the first time Shah Rukh Khan shares the screen with his daughter Suhana Khan, who made her acting debut in 2023 with The Archies."
+        ]
+      },
+      {
+        "h": "Release Details and News Overview",
+        "p": [
+          "King is officially scheduled to open in cinemas worldwide on December 24, 2026.",
+          "Shah Rukh Khan's upcoming film King has set a historic benchmark by selling its overseas theatrical rights to Phars Films for 175 crore rupees ahead of its December 24 release. Backed by a high-stakes minimum guarantee, the action entertainer directed by Siddharth Anand must match legendary international earners like RRR and Dhurandhar 2 while navigating a massive holiday box office clash."
+        ]
+      }
+    ],
+    "facts": [
+      "King is scheduled to release in cinemas on December 24, 2026.",
+      "Phars Films acquired the overseas theatrical rights for 175 crore rupees, which is over 18 million dollars.",
+      "Pen Marudhar acquired the all-India distribution rights for 250 crore rupees.",
+      "Pathaan and Jawan both earned approximately 400 crore rupees internationally in 2023.",
+      "Dhurandhar 2 earned 460 crore rupees internationally.",
+      "RRR earned 430 crore rupees internationally.",
+      "Suhana Khan made her acting debut in 2023 with The Archies."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Jaideep Ahlawat",
+        "Raghav Juyal",
+        "Saurabh Shukla",
+        "Prabhas"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Jawan",
+        "Saaho",
+        "Dhurandhar 2",
+        "RRR",
+        "Dunki",
+        "Zero",
+        "Badla",
+        "Ittefaq",
+        "The Archies",
+        "Jumanji",
+        "Avengers: Doomsday",
+        "Dune 3"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "King overseas rights Phars Films",
+      "King 175 crore rupees",
+      "Shah Rukh Khan Siddharth Anand King",
+      "King release date December 2026"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ae5e5f572f54-shahrukh-khan-overseas-rights-315828329-16x9.jpg",
+        "caption": "Shah Rukh Khan's 'King' Sells Overseas Rights for a Historic 175 Crore Rupees Ahead of Release",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T02:30:31Z"
+  },
+  "6v7ug1": {
+    "id": "6v7ug1",
+    "type": "news",
+    "headline": "Kannada Superstar Yash's Son Yatharv Weeps After Watching His Father Play Ravana in Ramayana",
+    "dek": "Kannada star Yash shared that his children experienced their very first theatrical movie screening at the world premiere of Ramayana, where his young son Yatharv broke down in tears over a tragic scene involving Jatayu.",
+    "body": [
+      {
+        "h": "First-Ever Cinematic Experience for the Star Kids",
+        "p": [
+          "Kannada cinema icon Yash, famously known as the 'Rocky Bhai' of the silver screen, recently took a major step in his personal life by introducing his children to the world of cinema. The actor attended the exclusive world premiere of his upcoming mythological epic Ramayana alongside his entire family. His wife Radhika Pandit and their two young children, Yatharv and Ayra, accompanied him to the special screening event.",
+          "For the young children, this screening marked their very first time watching a feature film in a theater setting. Yash noted that because they are still at the very beginning of understanding life, public etiquette, and mutual respect, the cinematic environment raised many curious questions in their young minds."
+        ]
+      },
+      {
+        "h": "The Los Angeles World Premiere and Positive Reviews",
+        "p": [
+          "The high-profile premiere of Ramayana took place in Los Angeles, drawing considerable attention from international and domestic audiences alike. Helmed by director Nitesh Tiwari, the grand production generated predominantly positive reviews from critics and attendees present at the venue.",
+          "Viewers particularly singled out Yash's formidable performance as Ravana for high praise. The actor made a striking impression at the event, appearing in an all-black ensemble accented by ten symbolic silver heads of the mythological king resting on his chest."
+        ]
+      },
+      {
+        "h": "Yatharv's Emotional Breakdown in the Theater",
+        "p": [
+          "While Yash initially observed his son's contemplative mood after the screening, co-star Sai Pallavi stepped in to share the touching details of what unfolded. As the audience streamed out of the theater, Pallavi noticed young Yatharv weeping openly and gently inquired about the cause of his distress.",
+          "The young boy expressed deep sorrow over the fate of the divine bird Jatayu. Even though he likely understood that his father works in films and that the action was purely theatrical, the emotional weight of Jatayu's death deeply affected him."
+        ]
+      },
+      {
+        "h": "Questions for Ravana",
+        "p": [
+          "Overwhelmed by the tragic sequence in the narrative, Yatharv directed innocent questions toward his father regarding the character's actions on screen. He could not reconcile the sight of the bird perishing with his father's prominent presence in the tale.",
+          "The heartfelt moment highlighted the innocent perspective of a child watching a parent embody a formidable antagonist. Despite the dark undertones of the character of Ravana, the family found the episode to be endearing and memorable."
+        ]
+      },
+      {
+        "h": "Background on the Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana brings together an ensemble cast featuring Ranbir Kapoor, Sai Pallavi, Ravi Dude, and veteran actor Arun Govil. The monumental project is produced by Namit Malhotra, with Yash also participating as a co-producer.",
+          "The film has already begun generating massive anticipation among fans, evident from strong early metrics such as advance booking ticket sales crossing the three-lakh mark ahead of its theatrical debut."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Release",
+        "p": [
+          "The highly anticipated mythological drama is scheduled to hit theaters globally on November 5. With grand visuals and a star-studded cast, it stands as one of the most talked-about cinematic events of the year.",
+          "The filmmakers and cast members have been actively promoting the project across various international and domestic platforms, building tremendous hype as the release date approaches."
+        ]
+      },
+      {
+        "h": "Family Milestones",
+        "p": [
+          "The premiere also served as a proud family milestone for Yash and Radhika Pandit, who frequently share glimpses of their family life. Their son Yatharv was born on October 30, 2019, while their daughter Ayra was born on December 2, 2018.",
+          "Watching their children react to the grandeur of a cinematic spectacle added a deeply personal and emotional layer to the international premiere celebrations for the actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kannada star Yash's children experienced their first movie screening at the Los Angeles world premiere of Ramayana, where his son Yatharv was moved to tears by a tragic scene involving Jatayu. Directed by Nitesh Tiwari and co-produced by Yash, the film features a prominent cast and is slated for release on November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash plays Ravana in the film Ramayana.",
+      "The world premiere of Ramayana took place in Los Angeles.",
+      "Yash's son is named Yatharv and his daughter is named Ayra.",
+      "Yatharv was born on October 30, 2019.",
+      "Ayra was born on December 2, 2018.",
+      "Ramayana is scheduled to release on November 5.",
+      "The film is directed by Nitesh Tiwari and produced by Namit Malhotra, with Yash as a co-producer.",
+      "The cast of Ramayana includes Ranbir Kapoor, Sai Pallavi, Ravi Dubey, and Arun Govil."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Radhika Pandit",
+        "Yatharv",
+        "Ayra",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ranbir Kapoor",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Yash son Yatharv Ramayana",
+      "Ramayana world premiere Los Angeles",
+      "Sai Pallavi Ramayana cast"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202610/6ae56fc18f9f7-yash-son-emotional-reaction-after-seeing-ramayana-313408414-16x9.jpg",
+        "caption": "Kannada Superstar Yash's Son Yatharv Weeps After Watching His Father Play Ravana in Ramayana",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T02:30:31Z"
   }
 };

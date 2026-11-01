@@ -1496,7 +1496,14 @@ window.FA_PUBLISHED = {
     "certification": "U/A 13+",
     "release_date": "2026-10-30",
     "runtime": 119,
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "date_kind": "release"
   },
   "1798823": {
@@ -8494,7 +8501,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Han Jun-hee"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1306500": {
     "id": 1306500,
@@ -8684,7 +8698,20 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Rowan Joffé"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1680033": {
     "id": 1680033,
@@ -10882,7 +10909,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-30",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "336240": {
     "id": 336240,
@@ -10942,7 +10976,14 @@ window.FA_PUBLISHED = {
       "Amanda Högberg",
       "Axel Stjärne"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "337316": {
     "id": 337316,
@@ -11091,7 +11132,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-30",
     "date_kind": "release",
     "runtime": 86,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1812448": {
     "id": 1812448,
@@ -11488,7 +11536,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-09",
     "date_kind": "release",
     "runtime": 96,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1290418": {
     "id": 1290418,
@@ -12012,9 +12073,9 @@ window.FA_PUBLISHED = {
     "runtime": 186,
     "providers": [
       {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
         "type": "flatrate"
       }
     ]
@@ -12325,9 +12386,9 @@ window.FA_PUBLISHED = {
     "runtime": 170,
     "providers": [
       {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
         "type": "flatrate"
       }
     ]

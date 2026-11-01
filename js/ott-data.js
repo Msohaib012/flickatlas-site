@@ -56,7 +56,7 @@ window.FA_OTT = {
     {
       "date": "2026-10-30",
       "date_kind": "release",
-      "id": 307478,
+      "id": 289517,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -68,11 +68,87 @@ window.FA_OTT = {
     {
       "date": "2026-10-30",
       "date_kind": "release",
+      "id": 307478,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1571955,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
       "id": 243555,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1789549,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "release",
+      "id": 336240,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1802464,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-29",
+      "date_kind": "release",
+      "id": 292741,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
         }
       ],
       "type": "tv"
@@ -400,6 +476,22 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-09",
+      "date_kind": "release",
+      "id": 1507696,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-09",
@@ -927,8 +1019,8 @@ window.FA_OTT = {
       "id": 1169516,
       "providers": [
         {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
         }
       ],
       "type": "movie"
@@ -1367,8 +1459,8 @@ window.FA_OTT = {
       "id": 1022453,
       "providers": [
         {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
         }
       ],
       "type": "movie"
