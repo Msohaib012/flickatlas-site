@@ -1,6 +1,6 @@
 {
   "connected": true,
-  "generated": "2026-11-01T19:01:06Z",
+  "generated": "2026-11-01T19:56:58Z",
   "realtime": {
     "active_users": 1
   },
@@ -11,10 +11,10 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 137,
-    "pageviews": 897,
-    "sessions": 220,
-    "avg_session_seconds": 359.1
+    "users": 139,
+    "pageviews": 908,
+    "sessions": 224,
+    "avg_session_seconds": 360.2
   },
   "top_pages": [
     {
@@ -30,16 +30,16 @@
       "avg_time_seconds": 279.1
     },
     {
+      "path": "/",
+      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
+      "views": 65,
+      "avg_time_seconds": 76.7
+    },
+    {
       "path": "/news-item",
       "title": "News Story | FlickAtlas",
       "views": 58,
       "avg_time_seconds": 47.0
-    },
-    {
-      "path": "/",
-      "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 56,
-      "avg_time_seconds": 34.4
     },
     {
       "path": "/movies",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 166,
+      "sessions": 167,
       "users": 105
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 52,
-      "users": 32
+      "sessions": 55,
+      "users": 34
     },
     {
       "source": "(not set)",
@@ -105,7 +105,7 @@
     },
     {
       "country": "India",
-      "users": 26
+      "users": 27
     },
     {
       "country": "(not set)",
@@ -147,7 +147,7 @@
     },
     {
       "device": "mobile",
-      "users": 45
+      "users": 47
     },
     {
       "device": "tablet",

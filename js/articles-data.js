@@ -32186,5 +32186,194 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 17:00:18 GMT"
+  },
+  "1d0b6qo": {
+    "id": "1d0b6qo",
+    "type": "news",
+    "headline": "Meet The 'Gen Z Baba': Vrindavan Spiritual Speaker Goes Viral For Resembling Stranger Things Star Finn Wolfhard",
+    "dek": "Nineteen-year-old spiritual speaker Shri Swami Shashwat Acharya Ji Maharaj has captured the internet's attention due to his uncanny resemblance to actor Finn Wolfhard.",
+    "body": [
+      {
+        "h": "Introduction To The Viral Sensation",
+        "p": [
+          "Social media users have discovered an unexpected internet personality who bears a striking resemblance to a beloved Hollywood actor. Shri Swami Shashwat Acharya Ji Maharaj, a nineteen-year-old spiritual speaker based in Uttar Pradesh, has captured widespread attention online.",
+          "Rather than focusing solely on his traditional duties, internet users have fixated on his facial features and curly hair, which bear a remarkable likeness to a major Netflix television star."
+        ]
+      },
+      {
+        "h": "The Stranger Things Connection",
+        "p": [
+          "Online observers quickly pointed out that the young religious figure looks intensely like Finn Wolfhard, the actor famous for portraying Mike Wheeler in the hit sci-fi series Stranger Things.",
+          "This accidental doppelganger phenomenon has triggered a wave of side-by-side photo comparisons, lighthearted jokes, and various pop-culture references across multiple social platforms."
+        ]
+      },
+      {
+        "h": "Background And Spiritual Duties",
+        "p": [
+          "Born on August 5, 2007, Shri Shashwat Acharya serves as a Peethadhishwar at Shri Dham Goda Vihar Mandir located in Vrindavan. He is known for delivering Bhagwat Katha discourses centered around the teachings of Lord Krishna.",
+          "Remarkably, records indicate that he began reciting the Srimad Bhagavatam when he was only four years old, establishing a deep root in devotional traditions long before his sudden internet fame."
+        ]
+      },
+      {
+        "h": "Nicknames And Internet Culture",
+        "p": [
+          "As his videos circulated widely, internet users assigned him playful monikers such as 'Gen Z Baba' and 'Pookie Baba'. Comment sections quickly filled up with compliments and humorous remarks about finding a desi version of the Hawkins character.",
+          "This blend of modern internet culture and traditional religious discourse created a peculiar intersection where pop-culture fandom meets spiritual storytelling."
+        ]
+      },
+      {
+        "h": "Impact On Audience Reach",
+        "p": [
+          "While digital fame can often prove fleeting, the viral resemblance has successfully introduced the young speaker to a much broader demographic that might not otherwise have encountered his religious talks.",
+          "The crossover between global streaming fandoms and Vrindavan devotional traditions highlights how modern social media algorithms can elevate unexpected individuals into overnight sensations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nineteen-year-old Vrindavan spiritual speaker Shri Swami Shashwat Acharya Ji Maharaj has gone viral on social media for his striking resemblance to Stranger Things actor Finn Wolfhard. Popularly dubbed the 'Gen Z Baba' and 'Pookie Baba', his youthful appearance and curly hair have sparked widespread internet memes and pop-culture comparisons."
+        ]
+      }
+    ],
+    "facts": [
+      "Shri Swami Shashwat Acharya Ji Maharaj is 19 years old.",
+      "He was born on August 5, 2007.",
+      "He serves as the Peethadhishwar of Shri Dham Goda Vihar Mandir in Vrindavan, Uttar Pradesh.",
+      "He started reciting the Srimad Bhagavatam at the age of four.",
+      "Finn Wolfhard played Mike Wheeler in Stranger Things."
+    ],
+    "entities": {
+      "people": [
+        "Shri Swami Shashwat Acharya Ji Maharaj",
+        "Shashwat Acharya",
+        "Finn Wolfhard",
+        "Vecna"
+      ],
+      "titles": [
+        "Stranger Things",
+        "Srimad Bhagavatam"
+      ]
+    },
+    "keywords": [
+      "Shri Shashwat Acharya",
+      "Gen Z Baba",
+      "Finn Wolfhard",
+      "Stranger Things Mike Wheeler lookalike",
+      "Shri Dham Goda Vihar Mandir"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156444407,thumbsize-838318,width-1280,height-720,resizemode-75/156444407.jpg",
+        "caption": "Meet The 'Gen Z Baba': Vrindavan Spiritual Speaker Goes Viral For Resembling Stranger Things Star Finn Wolfhard",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T19:52:05Z"
+  },
+  "tgs4ti": {
+    "id": "tgs4ti",
+    "type": "news",
+    "headline": "Ram Charan and Sukumar Reunite for RC17 as Chiranjeevi Launches the Film",
+    "dek": "The highly anticipated project tentatively titled RC17 officially commenced filming in Hyderabad with a traditional puja ceremony attended by megastar Chiranjeevi and prominent industry figures.",
+    "body": [
+      {
+        "h": "Commencement of RC17",
+        "p": [
+          "The much-awaited cinematic venture provisionally titled RC17 has officially commenced production. The project brings together star actor Ram Charan and acclaimed director Sukumar for their second major creative partnership.",
+          "The launch took place on Sunday, November 1, in Hyderabad, marking the official start of principal photography with traditional ceremonial proceedings."
+        ]
+      },
+      {
+        "h": "Chiranjeevi Graces the Puja Ceremony",
+        "p": [
+          "Veteran actor and father of the lead star, Megastar Chiranjeevi, attended the traditional puja event to bless the entire production unit. He officially sounded the clapboard for the opening shot.",
+          "The ceremony commenced at around 10:50 am, featuring traditional rituals where Ram Charan lit the ceremonial lamp and Chiranjeevi performed the coconut-breaking custom."
+        ]
+      },
+      {
+        "h": "A Powerful Reunion",
+        "p": [
+          "This upcoming movie serves as the second collaboration between Ram Charan and Sukumar following their massive blockbuster Rangasthalam. That earlier film also featured Samantha Ruth Prabhu as the female lead.",
+          "Sukumar enters this new venture fresh off the tremendous commercial triumph of Pushpa 2, which starred Allu Arjun and dominated the box office."
+        ]
+      },
+      {
+        "h": "Star-Studded Gathering",
+        "p": [
+          "The launch event in Hyderabad drew a large group of notable personalities from the film industry. Among those present were Ravi Shankar, Naveen Yerneni, Naga Vamsi, Rahul Sankrityan, and Gopichand Malineni.",
+          "Other prominent attendees included Maruthi, Buchi Babu Sana, Vamsi Nandipati, Harish Shankar, and popular Hindi film producer Bhushan Kumar, who accompanied Ram Charan."
+        ]
+      },
+      {
+        "h": "Production and Crew Details",
+        "p": [
+          "The film is being bankrolled under the banner of Mythri Movie Makers, who shared glimpses of the celebration through their official social media handles. Cinematographer Ratnavelu, who previously collaborated with Sukumar on Rangasthalam, is handling the camera work for RC17.",
+          "While production is officially underway, specific details regarding the rest of the cast, including the female lead, remain strictly under wraps."
+        ]
+      },
+      {
+        "h": "Recent Background of the Lead Star",
+        "p": [
+          "Ram Charan's most recent silver screen appearance was in Peddi, a film that generated mixed to positive reviews from audiences and critics alike while ultimately performing successfully at the box office.",
+          "Peddi had also drawn media attention regarding its portrayal of lead actress Janhvi Kapoor, a topic she later addressed publicly on a popular talk show."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ram Charan and director Sukumar have launched their second collaborative film, tentatively titled RC17, with a puja ceremony in Hyderabad on November 1. Megastar Chiranjeevi attended the event to give the first clap and bless the team behind the Mythri Movie Makers production."
+        ]
+      }
+    ],
+    "facts": [
+      "RC17 went on the floors on Sunday, November 1, in Hyderabad.",
+      "Chiranjeevi gave the first clap for the film.",
+      "Mythri Movie Makers is producing RC17.",
+      "Ram Charan and Sukumar previously collaborated on Rangasthalam.",
+      "Ratnavelu is the cinematographer for RC17."
+    ],
+    "entities": {
+      "people": [
+        "Ram Charan",
+        "Chiranjeevi",
+        "Sukumar",
+        "Samantha Ruth Prabhu",
+        "Janhvi Kapoor",
+        "Allu Arjun",
+        "Ravi Shankar",
+        "Naveen Yerneni",
+        "Naga Vamsi",
+        "Rahul Sankrityan",
+        "Gopichand Malineni",
+        "Maruthi",
+        "Buchi Babu Sana",
+        "Vamsi Nandipati",
+        "Harish Shankar",
+        "Bhushan Kumar",
+        "Ratnavelu"
+      ],
+      "titles": [
+        "RC17",
+        "Peddi",
+        "Pushpa",
+        "Rangasthalam",
+        "Pushpa 2"
+      ]
+    },
+    "keywords": [
+      "Ram Charan",
+      "RC17",
+      "Sukumar",
+      "Chiranjeevi",
+      "Mythri Movie Makers"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156447891,thumbsize-633199,width-1280,height-720,resizemode-75/156447891.jpg",
+        "caption": "Ram Charan and Sukumar Reunite for RC17 as Chiranjeevi Launches the Film",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T19:52:05Z"
   }
 };
