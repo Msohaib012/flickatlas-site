@@ -284,6 +284,22 @@ jobs:
           # js/worldwide-data.js. Never touches day-wise.
           python3 scripts/worldwide_boxoffice.py --staging out/boxoffice-staging || echo "worldwide totals failed/missing, continuing"
 
+      # --- 6c. Pre-release advance booking (gated, twice daily) -------
+      # Watches every published movie releasing within ~90 days
+      # (scripts/advance_booking.py): Sacnilk's live advance page is
+      # checked every run; a capped Tavily fallback searches near-
+      # release titles every run and far-out titles weekly (per-title
+      # state in out/advance-booking-state.json). Writes
+      # js/advance-data.js only from explicitly stated advance grosses.
+      - name: Advance booking collector
+        id: advance
+        if: steps.decide.outputs.run_advance == 'true'
+        continue-on-error: true
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_BACKUP: ${{ secrets.TAVILY_API_KEY_BACKUP }}
+        run: python3 scripts/advance_booking.py --apply || echo "advance booking collector failed, continuing"
+
       # --- 6b. Movie reviews (Gemini, gated) ---------------------------
       # Fills js/reviews-data.js for released movies that have no review
       # yet. Udta Teer (Movies Flare seed) is never overwritten. The
@@ -429,6 +445,7 @@ jobs:
           REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
           TRENDING_OUTCOME: ${{ steps.trending.outcome }}
           OVERSEAS_OUTCOME: ${{ steps.overseas.outcome }}
+          ADVANCE_OUTCOME: ${{ steps.advance.outcome }}
           MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
           PUBLISH_OUTCOME: ${{ steps.publish.outcome }}
           FEED_OUTCOME: ${{ steps.feed.outcome }}
@@ -454,6 +471,7 @@ jobs:
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
+          RUN_ADVANCE: ${{ steps.decide.outputs.run_advance }}
         run: python3 scripts/pipeline_schedule.py record
 
       # --- 13b. per-step run records (stats dashboard data) -----------
@@ -476,6 +494,7 @@ jobs:
           OTT_OUTCOME: ${{ steps.ott.outcome }}
           TRENDING_OUTCOME: ${{ steps.trending.outcome }}
           OVERSEAS_OUTCOME: ${{ steps.overseas.outcome }}
+          ADVANCE_OUTCOME: ${{ steps.advance.outcome }}
           MULTISOURCE_OUTCOME: ${{ steps.multisource.outcome }}
           TAVILY_OUTCOME: ${{ steps.multisource.outcome }}
           REVIEWS_OUTCOME: ${{ steps.reviews.outcome }}
@@ -492,6 +511,7 @@ jobs:
           RUN_STATS_PIPE: ${{ steps.decide.outputs.run_stats_pipeline }}
           RUN_HEALTH: ${{ steps.decide.outputs.run_stats_health }}
           RUN_OVERSEAS: ${{ steps.decide.outputs.run_overseas }}
+          RUN_ADVANCE: ${{ steps.decide.outputs.run_advance }}
           RUN_TAVILY: ${{ steps.decide.outputs.run_tavily }}
           RUN_METADATA: ${{ steps.decide.outputs.run_metadata }}
           RUN_PROVIDERS: ${{ steps.decide.outputs.run_providers }}
