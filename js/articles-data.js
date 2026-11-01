@@ -30079,5 +30079,207 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 13:14:50 +0530"
+  },
+  "rpzwq0": {
+    "id": "rpzwq0",
+    "type": "news",
+    "headline": "Ram Charan And Director Sukumar Reveal Striking Peacock-Themed Pre-Look Poster For Upcoming Collaboration RC17",
+    "dek": "Following a traditional launch ceremony in Hyderabad, actor Ram Charan and filmmaker Sukumar have shared a vibrant new poster for their highly anticipated reunion project, tentatively titled RC17.",
+    "body": [
+      {
+        "h": "The Grand Launch And Pooja Ceremony",
+        "p": [
+          "The upcoming Telugu cinema project temporarily titled RC17 officially commenced its journey with a traditional pooja ceremony held in Hyderabad. The launch event brought together the primary creative forces behind the venture, including actor Ram Charan and director Sukumar, alongside several prominent figures from the regional film industry.",
+          "Highlighting the auspicious beginning of the production, Megastar Chiranjeevi performed the traditional coconut-breaking ritual at the venue. He also gave the very first clap for the film, marking a celebratory start that was captured on video and later shared with eager fans online."
+        ]
+      },
+      {
+        "h": "A Star-Studded Gathering Of Filmmakers",
+        "p": [
+          "The launch ceremony drew an impressive crowd of prominent personalities and industry insiders. Among those in attendance were producers Ravi Shankar and Naveen Yerneni, who are backing the venture.",
+          "Additionally, a host of notable filmmakers and directors gathered to show their support. Figures such as Naga Vamsi, Rahul Sankrityan, Gopichand Malineni, Maruthi, Buchi Babu Sana, Vamsi Nandipati, and Harish Shankar were spotted at the event alongside Sukumar and his wife."
+        ]
+      },
+      {
+        "h": "Unveiling The Peacock-Inspired Pre-Look",
+        "p": [
+          "To build anticipation following the launch event, the makers unveiled an artistic pre-look poster for RC17. The promotional image features a stylized portrait of Ram Charan rendered in broad, expressive strokes of blue, green, and gold.",
+          "The deliberate choice of colors and artistic design heavily evokes the vibrant appearance of a peacock feather. Accompanying the striking visual was a bold tagline stating that the film will go beyond everyone's expectations."
+        ]
+      },
+      {
+        "h": "Actor Ram Charan Expresses Enthusiasm",
+        "p": [
+          "Following the reveal, Ram Charan took to social media to share his excitement about the new project with his followers. He described the collaboration as an extremely special undertaking in his career.",
+          "The actor also expressed heartfelt happiness about teaming up with Sukumar once again, officially declaring on digital platforms that the journey for RC17 has begun."
+        ]
+      },
+      {
+        "h": "Reuniting After A Blockbuster Success",
+        "p": [
+          "The partnership between Ram Charan and Sukumar carries significant weight within the Telugu film industry due to their previous history. The duo previously collaborated on the 2018 rural drama Rangasthalam, which achieved massive blockbuster status.",
+          "Their upcoming reunion on RC17 has consequently generated immense curiosity and high expectations among audiences who are eager to see what the actor-director pair will deliver next."
+        ]
+      },
+      {
+        "h": "Background On Recent Works",
+        "p": [
+          "Before embarking on RC17, Ram Charan was occupied with other high-profile cinematic commitments. He was most recently seen starring in the sports action drama Peddi, which was directed by Buchi Babu Sana and featured an ensemble cast including Janhvi Kapoor, Shiva Rajkumar, Divyenndu, Jagapathi Babu, and Boman Irani.",
+          "Meanwhile, director Sukumar's most recent directorial venture was the massive box-office phenomenon Pushpa 2: The Rule, which starred Allu Arjun in the lead role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ram Charan and director Sukumar have reunited for a new Telugu film temporarily titled RC17, following their previous success together on Rangasthalam. The project was officially launched with a grand pooja ceremony in Hyderabad attended by Megastar Chiranjeevi and various industry figures. To mark the occasion, the makers released a peacock-inspired pre-look poster featuring artistic strokes of blue, green, and gold."
+        ]
+      }
+    ],
+    "facts": [
+      "The pre-look poster for RC17 was shared on November 1, 2026.",
+      "Ram Charan and Sukumar previously collaborated on the 2018 film Rangasthalam.",
+      "Chiranjeevi performed the coconut-breaking ritual at the pooja ceremony in Hyderabad.",
+      "Ravi Shankar and Naveen Yerneni are producers on the film."
+    ],
+    "entities": {
+      "people": [
+        "Ram Charan",
+        "Sukumar",
+        "Chiranjeevi",
+        "Ravi Shankar",
+        "Naveen Yerneni",
+        "Naga Vamsi",
+        "Rahul Sankrityan",
+        "Gopichand Malineni",
+        "Maruthi",
+        "Buchi Babu Sana",
+        "Vamsi Nandipati",
+        "Harish Shankar",
+        "Janhvi Kapoor",
+        "Shiva Rajkumar",
+        "Divyenndu",
+        "Jagapathi Babu",
+        "Boman Irani",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "RC17",
+        "Rangasthalam",
+        "Peddi",
+        "Pushpa 2: The Rule"
+      ]
+    },
+    "keywords": [
+      "RC17",
+      "Ram Charan",
+      "Sukumar",
+      "RC17 pre-look poster",
+      "Rangasthalam"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135424183,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ram Charan And Director Sukumar Reveal Striking Peacock-Themed Pre-Look Poster For Upcoming Collaboration RC17",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T15:50:44+05:30"
+  },
+  "752166": {
+    "id": "752166",
+    "type": "news",
+    "headline": "Rashmika Mandanna’s 'O Mysaa Re' Song Promo From Action Thriller 'Mysaa' Released Ahead of November Release",
+    "dek": "The makers of the upcoming pan-India period action drama Mysaa have unveiled the short promo for its first single, setting the stage for its theatrical release on November 27.",
+    "body": [
+      {
+        "h": "Introduction to the Mysaa First Single Promo",
+        "p": [
+          "The promotional campaign for the highly anticipated action thriller Mysaa has officially commenced with the release of a brief teaser for its opening track, titled 'O Mysaa Re'. Lead star Rashmika Mandanna shared the excitement surrounding the project as the creative team builds momentum toward the film's scheduled theatrical premiere at the end of the month.",
+          "The newly revealed preview gives audiences a brief look at the energetic composition, utilizing striking silhouette-driven visuals to establish the mood. Scheduled for a full release on November 2, the track is expected to lean heavily into the rustic and earthy aesthetic that defines the world of the film."
+        ]
+      },
+      {
+        "h": "Musical Background and Composition",
+        "p": [
+          "Music composer Jakes Bejoy is the creative force behind the rhythm and atmosphere of 'O Mysaa Re'. His contributions have already garnered positive attention following the deployment of the initial teaser, where his background scoring successfully amplified the tension and drama.",
+          "Industry expectations suggest that the audio release will further enrich the narrative landscape of the feature. By introducing listeners to the sonic signature of the project, the track serves as a vital component in establishing the rural action-oriented tone crafted by the filmmakers."
+        ]
+      },
+      {
+        "h": "Plot and Setting of the Period Drama",
+        "p": [
+          "Directed by Rawindra Pulle, Mysaa is conceptualized as an emotive period action drama anchored within tribal territories. The narrative explores deep cultural and geographical elements, setting its characters against a backdrop of raw and rugged environments.",
+          "Promoted as India's pioneer female-led pan-India action spectacle, the project intertwines large-scale sequences of physical conflict with a deeply personal father-daughter narrative core, promising audiences a multifaceted cinematic experience."
+        ]
+      },
+      {
+        "h": "Rashmika Mandanna's Intense Character Arc",
+        "p": [
+          "Leading lady Rashmika Mandanna steps into the shoes of a Gond woman in what is characterized as one of the most physically and emotionally demanding performances of her career. Her character's internal struggle is highlighted in early footage, where vulnerability gives way to fierce determination.",
+          "The promotional material showcases a gritty side to the actor, including a demanding underwater confrontation scene where her character utilizes a traditional sickle to fight off adversaries. This fierce avatar marks a distinct departure from her previous outings."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Multilingual Release",
+        "p": [
+          "Beyond the central performance, the project boasts an ensemble supporting cast featuring notable industry talents such as Eshwari Rao, Guru Somasundaram, and Rao Ramesh in prominent roles. Their inclusion adds weight to the dramatic elements of the tribal setting.",
+          "To maximize its reach across different regions, the feature is slated for a widespread release across multiple languages on November 27, 2026, allowing diverse audiences to experience the large-scale spectacle in their native tongues."
+        ]
+      },
+      {
+        "h": "Context of Recent Box Office Undertakings",
+        "p": [
+          "This upcoming release follows a period of professional transition for the lead actor. Rashmika Mandanna was previously seen sharing the screen with her husband and actor Vijay Deverakonda in the period action drama Ranabaali.",
+          "Despite generating considerable pre-release anticipation and heavy marketing hype, that particular venture faced an underwhelming commercial reception at the box office, making the success of her next venture a focal point of interest."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The promotional rollout for the action thriller Mysaa has officially begun with the release of the first single promo for 'O Mysaa Re', composed by Jakes Bejoy and slated for a full launch on November 2. Directed by Rawindra Pulle, the pan-India period drama features Rashmika Mandanna as a Gond woman in a high-octane role ahead of the film's multi-language theatrical release on November 27, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Rashmika Mandanna stars in the upcoming action thriller Mysaa.",
+      "The first single promo for 'O Mysaa Re' was released on November 1, 2026.",
+      "The full song 'O Mysaa Re' is scheduled to release on November 2.",
+      "The film is directed by Rawindra Pulle.",
+      "Mysaa is set in tribal territories and features Rashmika playing a Gond woman.",
+      "Jakes Bejoy composed the music for the film.",
+      "The film also features Eshwari Rao, Guru Somasundaram, and Rao Ramesh.",
+      "Mysaa is scheduled for theatrical release in multiple languages on November 27, 2026.",
+      "Rashmika Mandanna was previously seen in Ranabaali alongside Vijay Deverakonda."
+    ],
+    "entities": {
+      "people": [
+        "Rashmika Mandanna",
+        "Jakes Bejoy",
+        "Rawindra Pulle",
+        "Eshwari Rao",
+        "Guru Somasundaram",
+        "Rao Ramesh",
+        "Vijay Deverakonda"
+      ],
+      "titles": [
+        "Mysaa",
+        "O Mysaa Re",
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Rashmika Mandanna Mysaa",
+      "Mysaa action thriller film",
+      "O Mysaa Re song promo",
+      "Rawindra Pulle film Mysaa"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135423560,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rashmika Mandanna’s 'O Mysaa Re' Song Promo From Action Thriller 'Mysaa' Released Ahead of November Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T15:22:13+05:30"
   }
 };
