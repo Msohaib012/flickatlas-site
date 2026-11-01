@@ -942,27 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-10-31T18:00:24Z",
-    "run_id": "41226470561",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
-      "Dark Matter Season 2 Finale Explored By Creator Blake Crouch"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-10-31T18:42:49Z",
     "run_id": "41230610421",
     "status": "success",
@@ -1430,6 +1409,24 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-01T17:11:54Z",
+    "run_id": "41328627949",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1870,23 +1867,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-10-31T18:01:47Z",
-    "run_id": "41226470561",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-10-31T18:49:16Z",
     "run_id": "41230610421",
     "status": "success",
@@ -2298,27 +2278,26 @@
      "count": 5
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-31T18:01:45Z",
-    "run_id": "41226470561",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-01T17:11:55Z",
+    "run_id": "41328627949",
     "status": "success",
     "checked": {
-     "candidates": 328,
-     "detail": "328 collected staging rows from readers; 114 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
-     "detail": "+0 new rows, 11 updated rows, 317 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2732,6 +2711,24 @@
      "detail": "+0 new rows, 112 updated rows, 273 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-01T17:11:54Z",
+    "run_id": "41328627949",
+    "status": "success",
+    "checked": {
+     "candidates": 386,
+     "detail": "385 collected staging rows from readers; 122 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 382 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3050,32 +3047,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-31T18:01:46Z",
-    "run_id": "41226470561",
-    "status": "success",
-    "checked": {
-     "candidates": 310,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Tragic Stampede at TikToker Ansar Jatt's Mehndi Event in Sialkot Leaves One Dead",
-      "Dark Matter Season 2 Finale Explored By Creator Blake Crouch",
-      "Zehar-e-Mohabbat Episode 21 — Watch on HUM TV",
-      "Bano Episode 19 — Watch on Geo TV",
-      "Nashtar Episode 26 — Watch on Geo TV",
-      "Dar-E-Nijaat Episode 27 — Watch on ARY Digital",
-      "Aangan Episode 10 — Watch on HUM TV"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "api-news.json 310 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3550,6 +3521,24 @@
      "detail": "api-news.json 352 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-01T17:11:54Z",
+    "run_id": "41328627949",
+    "status": "success",
+    "checked": {
+     "candidates": 352,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 352 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -7279,5 +7268,5 @@
    }
   ]
  },
- "updated_at": "2026-11-01T16:59:13Z"
+ "updated_at": "2026-11-01T17:11:55Z"
 }
