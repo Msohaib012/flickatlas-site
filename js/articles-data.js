@@ -30487,5 +30487,244 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 17:03:06 +0530"
+  },
+  "n4f7e7": {
+    "id": "n4f7e7",
+    "type": "news",
+    "headline": "Honey Singh Mourns Nephew Vidit Auluck After Fatal Jalandhar Car Crash",
+    "dek": "Rapper Yo Yo Honey Singh is grieving the tragic death of his nephew Vidit Auluck, who lost his life alongside friend Aarav Talwar in a Jalandhar road accident.",
+    "body": [
+      {
+        "h": "Tragic Accident in Jalandhar Claims Two Lives",
+        "p": [
+          "A severe road accident in Jalandhar, Punjab, resulted in the untimely deaths of Vidit Auluck and his friend Aarav Talwar. The fatal crash occurred on a flyover near the Police Lines area in the early hours of Sunday, November 1. According to reports, the victims were traveling in a Volkswagen from BMC Chowk toward BSF Chowk at approximately 3 am when the tragedy struck.",
+          "The vehicle collided with a stationary municipal corporation tractor-trolley parked on the flyover. The heavy machinery had reportedly been left on the road by sanitation workers who were engaged in cleaning activities and garbage collection in the area. The impact of the collision proved instantly fatal for Vidit and Aarav, who both passed away at the scene."
+        ]
+      },
+      {
+        "h": "Details of the Victims and Families",
+        "p": [
+          "Vidit Auluck was the son of Dinesh Auluck, a prominent figure in the Punjabi music industry who owns the well-known music label Speed Records. Meanwhile, Aarav Talwar was the son of the owner of Pappy Sweets. Both families have been left devastated by the sudden and heartbreaking loss of their young sons.",
+          "Reports indicated that there were three other occupants traveling inside the car at the time of the crash. Fortunately, these three individuals survived the collision and were able to return safely to their homes after the incident."
+        ]
+      },
+      {
+        "h": "Honey Singh Shares Heartbreaking Social Media Post",
+        "p": [
+          "Renowned rapper Yo Yo Honey Singh took to his Instagram stories to express his profound grief over the loss of his nephew. Sharing a deeply personal message with his followers, the musician opened up about the emotional turmoil he has been experiencing during this difficult period.",
+          "In his public statement, the rapper described the tragedy as a deeply painful chapter, writing that the loss of his nephew is devastating. He also included a religious invocation in his tribute, reflecting the heavy sorrow shared by the entire family following the fatal accident."
+        ]
+      },
+      {
+        "h": "Police Response and Family Decisions",
+        "p": [
+          "Local authorities were promptly alerted to the crash, with police receiving information at around 3 am and arriving at the location shortly thereafter. Baradari police station SHO Sahil Chaudhary officially confirmed the details surrounding the incident and the sequence of events leading to the collision.",
+          "An official investigation was initiated to examine the circumstances of the accident, specifically focusing on the stationary tractor-trolley parked on the flyover. However, reports noted that the grieving families ultimately chose not to pursue further legal action, and the authorities subsequently handed over the bodies for final funeral rites."
+        ]
+      },
+      {
+        "h": "Recent Musical Releases by Honey Singh",
+        "p": [
+          "Amid personal sorrow, Honey Singh has maintained a steady stream of musical projects throughout the year. His recent high-energy track God Style featured lyrics by Hommie Dilliwala, with the artist himself handling the music production and composition.",
+          "Earlier in the year, the rapper also dropped several other notable tracks, including a party release titled Moonlight in collaboration with Priceless, Jawani Iraqi featuring Simar Kaur and Rawme Hooda, and Body Roll featuring actress Nora Fatehi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yo Yo Honey Singh is mourning his nephew Vidit Auluck, who died in a Jalandhar car crash alongside his friend Aarav Talwar when their vehicle hit a parked tractor-trolley. The rapper shared an emotional message online as police investigated the incident before returning the bodies to their grieving families."
+        ]
+      }
+    ],
+    "facts": [
+      "Vidit Auluck died in a car crash in Jalandhar, Punjab, on November 1.",
+      "Aarav Talwar also died in the same accident.",
+      "The crash occurred at around 3 am on a flyover near the Police Lines area.",
+      "The car crashed into a stationary municipal corporation tractor-trolley.",
+      "Vidit Auluck was the son of Dinesh Auluck, owner of Speed Records.",
+      "Aarav Talwar was the son of the owner of Pappy Sweets.",
+      "Baradari police station SHO Sahil Chaudhary confirmed the developments."
+    ],
+    "entities": {
+      "people": [
+        "Honey Singh",
+        "Vidit Auluck",
+        "Aarav Talwar",
+        "Dinesh Auluck",
+        "Sahil Chaudhary",
+        "Hommie Dilliwala",
+        "Simar Kaur",
+        "Rawme Hooda",
+        "Nora Fatehi",
+        "Priceless"
+      ],
+      "titles": [
+        "God Style",
+        "Moonlight",
+        "Jawani Iraqi",
+        "Body Roll"
+      ]
+    },
+    "keywords": [
+      "Honey Singh nephew Vidit Auluck",
+      "Vidit Auluck Jalandhar car crash",
+      "Aarav Talwar Jalandhar accident",
+      "Yo Yo Honey Singh Instagram post",
+      "Dinesh Auluck Speed Records"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/01/1600x900/logo/honey_singh_1793534843094_Xths_1793534843178_7ltg_39daaf13-481f-4a6b-8986-c3bf73a99de8_r1OY.jpg",
+        "caption": "Honey Singh Mourns Nephew Vidit Auluck After Fatal Jalandhar Car Crash",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 17:42:30 +0530"
+  },
+  "4i74ow": {
+    "id": "4i74ow",
+    "type": "news",
+    "headline": "Eleven New Korean Dramas Scheduled for OTT Platforms in November 2026",
+    "dek": "Korean drama fans can look forward to a diverse wave of upcoming releases this November, featuring fantasy romance, historical warfare, crime thrillers, and workplace stories across platforms like Netflix, Disney+, Viki, and Prime Video.",
+    "body": [
+      {
+        "h": "November 2026 Korean Drama Lineup Overview",
+        "p": [
+          "The month of November 2026 brings an extensive catalog of eleven distinct Korean drama titles to various streaming platforms and television networks. Ranging from supernatural comedies and workplace romances to high-stakes historical epics and international crime investigations, the schedule caters to a wide variety of viewing preferences.",
+          "Audiences seeking fresh content can expect to find shows arriving on major services such as Netflix, Disney+, Viki, and Prime Video. With notable actors and adapted web novels leading the charge, the upcoming slate promises engaging narratives throughout the month."
+        ]
+      },
+      {
+        "h": "Fantasy Romance and Royal Intrigue in The Remarried Empress",
+        "p": [
+          "Based on a popular web novel and webtoon, The Remarried Empress leads the fantasy romance genre this November. The narrative centres on Navier, Empress of the Eastern Empire, whose royal marriage unravels when Emperor Sovieshu brings another woman, Rashta, into the palace.",
+          "Refusing to accept the betrayal, Navier decides to pursue a divorce on her own terms and contemplates an alliance with Prince Heinrey of the Western Kingdom. The series features a star-studded cast including Shin Min-a, Ju Ji-hoon, Lee Jong-suk, and Lee Se-young, with a scheduled premiere on Disney+."
+        ]
+      },
+      {
+        "h": "Supernatural Comedy and Spin-Offs",
+        "p": [
+          "For viewers interested in lighter, supernatural tones, Francesca Next Door offers a unique premise. Acting as a spin-off to the 2005 sitcom Hello, Francesca, this four-episode romantic comedy follows a vampire from Romania attempting to blend into an ordinary Korean school environment.",
+          "Han Soo-ah stars as Pi Na-young alongside Kim Hyun-jin, who plays a class president drawn into her secretive world. The show blends high-school romance with familiar elements from the original television classic."
+        ]
+      },
+      {
+        "h": "Romance, Music, and Workplace Dynamics",
+        "p": [
+          "Other notable romantic comedies arriving during the month include One of a Kind Romance and What A Boss Wants. One of a Kind Romance explores the bond between a job seeker turned manager and a stressed celebrity struggling with public scrutiny, featuring Red Velvet's Joy alongside Kim Hyun-jin.",
+          "Meanwhile, What A Boss Wants pairs a perfectionist music-loving executive, played by Sung Hoon, with an independent indie musician portrayed by Oh Se-young, with Lee Jung-shin also joining the cast. In addition, Nine To Six brings a workplace romance to Prime Video, starring Park Min-young and Yook Sung-jae in a story about career ambition and office relationships."
+        ]
+      },
+      {
+        "h": "Historical Action and Crime Thrillers",
+        "p": [
+          "The schedule also makes room for grand historical action with Sword Silence, set during the Three Kingdoms period of Korean history. The epic production explores political rivalries and military campaigns involving Silla, Goguryeo, Baekje, and Tang China, featuring a cast that includes Lee Hyun-wook and Jang Hyuk.",
+          "On the thriller front, The Blue Road brings together Korean and Japanese detectives, played by Son Suk-ku and Eita Nagayama, to solve a cross-border serial killer mystery directed by Han Jun-hee. Meanwhile, school-set thriller The Substitute touches upon extreme academic pressure and examination deception."
+        ]
+      },
+      {
+        "h": "Returning Seasons and Youth Stories",
+        "p": [
+          "Returning favourites include the second seasons of Crash and Good Partner. Crash 2: Fury Road brings back its specialized Traffic Crime Investigation team with cast members like Lee Min-ki, Kwak Sun-young, and NCT's Jisung tackling dangerous vehicular offences.",
+          "Good Partner 2 continues the legal drama's exploration of family law, featuring returning lead Jang Na-ra alongside Kim Hye-yoon. Additionally, youth comedy Happy Anding follows aspiring comedians navigating career setbacks and financial hurdles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "November 2026 brings eleven diverse Korean dramas across multiple streaming platforms, covering genres from fantasy romance and historical action to crime thrillers and workplace comedies. Notable titles such as The Remarried Empress, Crash 2: Fury Road, and Good Partner 2 highlight a month packed with webtoon adaptations, returning seasons, and cross-border collaborations."
+        ]
+      }
+    ],
+    "facts": [
+      "November 2026 brings 11 K-drama titles to OTT platforms.",
+      "The Remarried Empress releases on Disney+ on November 4, 2026.",
+      "Francesca Next Door premieres on November 6, 2026.",
+      "One of a Kind Romance launches on November 9, 2026.",
+      "Happy Anding releases on November 6, 2026.",
+      "What A Boss Wants premieres on November 11, 2026.",
+      "Sword Silence releases on November 14, 2026.",
+      "Crash 2: Fury Road premieres on November 16, 2026.",
+      "Good Partner 2 releases on November 20, 2026.",
+      "The Blue Road premieres on November 20, 2026.",
+      "Nine To Six releases on November 25 or 26, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shin Min-a",
+        "Ju Ji-hoon",
+        "Lee Jong-suk",
+        "Lee Se-young",
+        "Han Soo-ah",
+        "Kim Hyun-jin",
+        "Shim Hye-jin",
+        "Park Seul-gi",
+        "Park Hee-jin",
+        "Park Soo-young",
+        "Shin Hyun-soo",
+        "Kang Na-eon",
+        "Kang Hoon",
+        "Cho Hyun-chul",
+        "Kim Jeong-jin",
+        "Lee E-dam",
+        "Moon Hee",
+        "Yoon Gai",
+        "Sung Hoon",
+        "Oh Se-young",
+        "Lee Jung-shin",
+        "Lee Hyun-wook",
+        "Jang Hyuk",
+        "Kim Kang-woo",
+        "Park Sung-woong",
+        "Lee Min-ki",
+        "Kwak Sun-young",
+        "Heo Sung-tae",
+        "Lee Ho-cheol",
+        "Jisung",
+        "Jang Na-ra",
+        "Kim Hye-yoon",
+        "Park Hae-jin",
+        "Son Suk-ku",
+        "Eita Nagayama",
+        "Bae Hyun-sung",
+        "Cha Kang-yoon",
+        "Park Yoon-ho",
+        "Park Min-young",
+        "Yook Sung-jae",
+        "Go Soo",
+        "Han Jun-hee"
+      ],
+      "titles": [
+        "The Remarried Empress",
+        "Good Partner 2",
+        "What A Boss Wants",
+        "Nine To Six",
+        "One of a Kind Romance",
+        "Sword Silence",
+        "Crash 2: Fury Road",
+        "Francesca Next Door",
+        "Hello, Francesca",
+        "Happy Anding",
+        "Life's Punchline",
+        "Crash",
+        "The Blue Road",
+        "The Substitute"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Good Partner 2",
+      "Nine To Six",
+      "Crash 2 Fury Road",
+      "What A Boss Wants"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156442365,thumbsize-685333,width-1280,height-720,resizemode-75/156442365.jpg",
+        "caption": "Eleven New Korean Dramas Scheduled for OTT Platforms in November 2026",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T12:51:56Z"
   }
 };
