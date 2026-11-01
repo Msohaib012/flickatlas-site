@@ -14159,10 +14159,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Pride and Prejudice Netflix series",
-      "Emma Corrin Pride and Prejudice",
+      "Pride and Prejudice Netflix limited series trailer",
+      "Emma Corrin Elizabeth Bennet Pride and Prejudice",
       "Jack Lowden Mr Darcy Netflix",
-      "Jane Austen Netflix adaptation"
+      "Pride and Prejudice December 3 release"
     ],
     "images": [
       {
@@ -14289,10 +14289,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ted Lasso",
-      "Jason Sudeikis",
-      "Ted Lasso season 4",
-      "Ted Lasso season 5"
+      "Ted Lasso Apple TV viewership record",
+      "Ted Lasso season 5 renewal wait",
+      "Ted Lasso season 4 hit",
+      "Ted Lasso 3.6 billion minutes"
     ],
     "images": [
       {
@@ -14404,10 +14404,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Extraction 3",
-      "Chris Hemsworth Extraction 3",
-      "Extraction 3 Netflix release",
-      "Extraction franchise 2027"
+      "Chris Hemsworth wraps filming Extraction 3",
+      "Extraction 3 Thailand production",
+      "Chris Hemsworth Netflix action franchise",
+      "Extraction 3 filming finished"
     ],
     "images": [
       {
@@ -14506,10 +14506,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ebenezer Scrooge A Christmas Carol Horror",
+      "Ebenezer Scrooge A Christmas Carol Horror trailer",
       "The Asylum Ebenezer Scrooge movie",
-      "Dominic Keating Ebenezer Scrooge",
-      "Marcel Walz horror movie"
+      "Johnny Depp movie Christmas Carol horror",
+      "Dominic Keating Ebenezer Scrooge"
     ],
     "images": [
       {
@@ -14596,10 +14596,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Tark-e-Tamanna Episode 16",
-      "Mirza Zain Baig",
-      "Janice Tessa",
-      "HUM TV dramas"
+      "Tark-e-Tamanna Episode 16 promo",
+      "Zain Baig and Janice Tessa Tark-e-Tamanna",
+      "HUM TV Tark-e-Tamanna teaser",
+      "Tark-e-Tamanna Episode 16 release"
     ],
     "images": [],
     "published": "2026-10-28T17:45:04+00:00"
@@ -14711,10 +14711,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Invite film",
-      "Olivia Wilde The Invite",
-      "Palm Springs International Film Awards",
-      "The Invite Vanguard Award"
+      "Olivia Wilde The Invite Vanguard Honor",
+      "Palm Springs International Film Awards The Invite",
+      "Olivia Wilde A24 feature film",
+      "The Invite Vanguard Award recipient"
     ],
     "images": [
       {
@@ -14765,7 +14765,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-28T17:00:29Z"
+    "published": "2026-10-28T17:00:29Z",
+    "keywords": [
+      "Bano Episode 16 Geo TV",
+      "Watch Bano full episode",
+      "Bano Episode 16 air date",
+      "Geo TV Bano drama"
+    ]
   },
   "vugi16": {
     "id": "vugi16",
@@ -15032,10 +15038,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Grand Theft Auto VI file size",
-      "GTA 6 storage space",
+      "Grand Theft Auto VI massive storage space",
       "Rockstar Games Grand Theft Auto VI",
-      "Grand Theft Auto VI 210 GB"
+      "GTA 6 storage requirement",
+      "Erielle Sudario",
+      "Grand Theft Auto VI"
     ],
     "images": [
       {
@@ -15128,10 +15135,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Barbara Barrie",
-      "Barbara Barrie death",
-      "Breaking Away Barbara Barrie",
-      "Suddenly Susan cast"
+      "Barbara Barrie passes away at 95",
+      "Oscar nominated star Barbara Barrie dead",
+      "Barbara Barrie Breaking Away Suddenly Susan",
+      "Barbara Barrie New York State medical aid"
     ],
     "images": [
       {
@@ -15232,10 +15239,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "David Bruckner Smile 3",
-      "Parker Finn Smile 3",
-      "Nick Antosca Smile 3 script",
-      "Smile 3 Paramount movie"
+      "David Bruckner to direct Smile 3",
+      "Smile 3 Parker Finn producing",
+      "Smile 3 Paramount horror franchise",
+      "David Bruckner Hellraiser director Smile 3"
     ],
     "images": [
       {
@@ -15329,10 +15336,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday",
-      "Dune Part Three",
-      "Robert Downey Jr",
-      "Chris Evans"
+      "Avengers Doomsday and Dune Part Three clash",
+      "Avengers Doomsday December box office",
+      "Dune Part Three release date",
+      "Avengers Doomsday Marvel blockbuster"
     ],
     "images": [
       {
@@ -15427,10 +15434,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Jailer 2 collection",
-      "Jailer 2 day 14 collection",
-      "Jailer 2 worldwide collection"
+      "Jailer 2 hits Rs 423 crore in India",
+      "Rajinikanth Jailer 2 Day 14 box office",
+      "Jailer 2 nears 750 crore globally",
+      "Rajinikanth starrer Jailer 2 collection"
     ],
     "images": [
       {
@@ -15513,10 +15520,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Naseeruddin Shah",
-      "Jamia Millia Islamia",
-      "dimagi Naxal video",
-      "SRFTI JNU student protests"
+      "Naseeruddin Shah intellectual Naxal video",
+      "Naseeruddin Shah supporting protesting students",
+      "Naseeruddin Shah Jamia Millia Islamia",
+      "Naseeruddin Shah Sarfaroshi Ki Tamanna"
     ],
     "images": [
       {
@@ -15608,10 +15615,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ranabaali film box office",
-      "Vijay Deverakonda Ranabaali collection",
-      "Rashmika Mandanna Ranabaali movie",
-      "Ranabaali day 13 earnings"
+      "Ranabaali Box Office Collection Day 13",
+      "Ranabaali crosses Rs 75 crore worldwide",
+      "Vijay Deverakonda and Rashmika Mandanna period drama",
+      "Ranabaali Rs 1.03 crore collection"
     ],
     "images": [
       {
@@ -15723,10 +15730,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office collection",
-      "Rajinikanth Jailer 2 worldwide collection",
-      "Jailer 2 Day 14 collection",
-      "Jailer 2 India net"
+      "Jailer 2 Box Office Collection Day 14",
+      "Rajinikanth Jailer 2 crosses 755 crore",
+      "Jailer 2 domestic net collections",
+      "Rajinikanth action comedy movie box office"
     ],
     "images": [
       {
@@ -28661,5 +28668,220 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T02:30:31Z"
+  },
+  "n8298k": {
+    "id": "n8298k",
+    "type": "news",
+    "headline": "Telangana Labour Department Summons Makers of Ravi Teja Starrer Irumudi Over Child Actor Regulations",
+    "dek": "Mythri Movie Makers has received an official notice regarding child labour compliance, working hours, safety protocols, and remuneration concerning 12-year-old actor Baby Nakshathra.",
+    "body": [
+      {
+        "h": "Labour Department Summons Production House",
+        "p": [
+          "The Telangana Labour Department has officially summoned the production banner Mythri Movie Makers for a formal hearing. The notice addresses compliance issues regarding the treatment and working conditions of the minor child actor Baby Nakshathra during the making of the blockbuster feature film Irumudi.",
+          "The Joint Commissioner of Labour for the Ranga Reddy Zone has directed the production team to attend the meeting. Representatives must appear with all necessary records and legal documentation at the designated office in Hyderabad."
+        ]
+      },
+      {
+        "h": "Origin of the Formal Complaint",
+        "p": [
+          "The official inquiry was initiated following a formal complaint lodged by C Mahesh Babu, who serves as the founder-president of the social justice organization Jai Lok Satta. The petition raised serious concerns about whether the involvement of the minor girl in shooting schedules and promotional events adhered to statutory child labour laws.",
+          "Authorities are examining multiple aspects of the production process to ensure that the rights and welfare of the young performer were fully protected throughout the project cycle."
+        ]
+      },
+      {
+        "h": "Key Areas of Regulatory Scrutiny",
+        "p": [
+          "The investigation focuses heavily on core welfare metrics mandated for children working in the entertainment sector. Officials are reviewing whether statutory limits on working hours were respected and if adequate safety measures were implemented on the active film sets.",
+          "Additionally, inspectors are verifying whether the child maintained uninterrupted access to education during production and if her financial remuneration was handled in compliance with statutory savings mandates."
+        ]
+      },
+      {
+        "h": "Documentation and Compliance Records Sought",
+        "p": [
+          "To clear the inquiry, the production house has been instructed to present a comprehensive set of legal documents. These include prior formal permission obtained from the District Magistrate before engaging the minor, official parental consent letters, and detailed daily call sheets reflecting exact working hours.",
+          "Furthermore, producers must submit proof of educational arrangements to demonstrate that schooling was not neglected, alongside records confirming that twenty percent of the total payment was deposited into a fixed deposit account in the child's name."
+        ]
+      },
+      {
+        "h": "Background of Child Actor Baby Nakshathra",
+        "p": [
+          "Baby Nakshathra is a twelve-year-old performer originating from Kannur, Kerala, who was studying in the seventh grade around the time of the film's theatrical debut. Her role as Manemma in Irumudi marked her entry into the Telugu cinema industry, though she had already appeared in six films across Malayalam, Tamil, and Kannada languages.",
+          "Her compelling performance in the movie garnered widespread industry recognition and praise, including a public compliment from fellow actor Dhanush."
+        ]
+      },
+      {
+        "h": "Previous Event Controversy and Public Reactions",
+        "p": [
+          "The current scrutiny follows an earlier public controversy from August 2026 involving lead actor Ravi Teja during a pre-release promotional event. During the gathering, the actor used a controversial Telugu phrase while addressing the young actor directly on stage.",
+          "The remarks sparked sharp criticism across social media platforms after video clips of the exchange circulated widely, adding to the ongoing discussions surrounding the safety and dignity of child artists at public industry functions."
+        ]
+      },
+      {
+        "h": "Regional Child Artist Guidelines in Telangana",
+        "p": [
+          "The state of Telangana enforces strict regulatory guidelines governing the employment of minor artists in television and cinema productions. Under the revised framework established by the Labour Department, child actors are restricted to a maximum of five working hours per day with mandatory rest intervals.",
+          "Regulations also dictate that minor actors are permitted to participate in shooting schedules for a capped limit of twenty-seven days, while producers bear the absolute responsibility of safeguarding their schooling and overall welfare."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telangana Labour Department has summoned the production house Mythri Movie Makers following a complaint regarding child actor safety, working hours, and remuneration on the film Irumudi. The upcoming hearing will review statutory compliance records alongside an earlier public event controversy involving lead actor Ravi Teja."
+        ]
+      }
+    ],
+    "facts": [
+      "Telangana Labour Department issued a notice to the makers of Irumudi over child actor Baby Nakshathra.",
+      "The hearing is scheduled for November 4 at the Anjaiah Karmika Samkshema Bhavan in RTC X Roads, Hyderabad.",
+      "The complaint was filed by C Mahesh Babu, founder-president of Jai Lok Satta.",
+      "Baby Nakshathra is a 12-year-old actor from Kannur, Kerala, who played Manemma in the film.",
+      "The pre-release event controversy involving Ravi Teja took place in August 2026.",
+      "Irumudi was released in theatres on August 21, 2026, directed by Shiva Nirvana, and grossed over ₹250 crore worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Ravi Teja",
+        "Baby Nakshathra",
+        "C Mahesh Babu",
+        "Dhanush",
+        "Shiva Nirvana"
+      ],
+      "titles": [
+        "Irumudi"
+      ]
+    },
+    "keywords": [
+      "Irumudi child actor notice",
+      "Baby Nakshathra Telangana Labour Department",
+      "Mythri Movie Makers notice",
+      "Ravi Teja Irumudi controversy"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/Ravi_Teja_and_Nakshathra_in_a_still.webp",
+        "caption": "Telangana Labour Department Summons Makers of Ravi Teja Starrer Irumudi Over Child Actor Regulations",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 03:41:40 +0000"
+  },
+  "1cn61rw": {
+    "id": "1cn61rw",
+    "type": "news",
+    "headline": "Suriya plays unconventional cop Inbaraj in the trailer for Jithu Madhavan's Scene",
+    "dek": "The trailer for Suriya's 47th film Scene has been unveiled, introducing an action-comedy-mystery directed by Jithu Madhavan that features Suriya as a resigning police officer alongside Nazriya and Naslen.",
+    "body": [
+      {
+        "h": "Trailer Introduction and Plot Overview",
+        "p": [
+          "The newly released trailer for Scene introduces leading actor Suriya in the role of Inbaraj, a rule-breaking and unconventional police officer who is eager to step down from his position within the force. The film blends elements of action, comedy, and mystery, setting the stage for a tense conflict between the protagonist and a dangerous adversary.",
+          "Directed by Jithu Madhavan, the project marks his Tamil directorial debut. The promotional footage highlights the chaotic and humorous tone of the film while giving audiences a clear glimpse into the central narrative conflict."
+        ]
+      },
+      {
+        "h": "Key Cast Members and Characters",
+        "p": [
+          "Suriya steps into the shoes of Inbaraj, an officer at the peak of his career who shocks his colleagues by wanting to resign and stay home. Lal features as Stephen, Inbaraj's superior officer who continually tries to bring him back into the fold despite the protagonist's resistance.",
+          "Nazriya plays the character Maya, receiving a brief introduction in the footage, while Naslen portrays Eeswaran, described as an intelligent and ruthless criminal who views the protagonist as a worthy opponent. The main cast also includes Anandraj and Raj Priyan."
+        ]
+      },
+      {
+        "h": "Topical Humour and Political References",
+        "p": [
+          "One of the standout moments in the trailer occurs when Stephen questions Inbaraj about his future plans after quitting the police force. Inbaraj responds that he intends to enter politics.",
+          "This specific dialogue exchange has drawn attention for appearing to make an indirect reference to actor Vijay's real-life transition away from acting and into the political arena, injecting a topical layer of humour into the narrative."
+        ]
+      },
+      {
+        "h": "Director's Background and Music",
+        "p": [
+          "Director Jithu Madhavan previously helmed the films Romancham in 2023 and Aavesham in 2024. His distinct style of characterisation has generated significant anticipation regarding how he portrays Suriya in this upcoming project.",
+          "Leading up to the trailer launch, the film also generated buzz through its musical numbers composed by Sushin Shyam. These tracks include the first single Aathi Iva Yarraa and the peppy song Aeroplane, which highlights the chemistry between Suriya and Nazriya."
+        ]
+      },
+      {
+        "h": "Production Details and Release Schedule",
+        "p": [
+          "Scene is produced by Suriya and Jyotika under the banners of Zhagaram Studios and 2D Entertainment. It marks the 47th cinematic feature in Suriya's career.",
+          "The film is scheduled for a worldwide theatrical release on November 6, 2026, coinciding with the Deepavali festival celebrations."
+        ]
+      },
+      {
+        "h": "Box Office Competition",
+        "p": [
+          "Upon its arrival in cinemas, Scene will face direct competition at the box office during the festive holiday frame. Other major titles releasing alongside it include Nayanthara’s Mookuthi Amman 2.",
+          "Additionally, the film will compete with Ramayana: Part 1, a high-profile project starring Ranbir Kapoor and Sai Pallavi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Suriya's 47th film Scene has been released, showcasing his role as an unconventional cop named Inbaraj alongside cast members Nazriya and Naslen. Directed by Jithu Madhavan, the action-comedy-mystery is set for a worldwide theatrical release on November 6, 2026, during Deepavali."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya plays Inbaraj in the film Scene",
+      "Jithu Madhavan directed Scene",
+      "Nazriya plays Maya",
+      "Naslen plays Eeswaran",
+      "Lal plays Stephen",
+      "Scene is Suriya's 47th film",
+      "Scene releases worldwide on November 6, 2026, during Deepavali",
+      "Jithu Madhavan previously directed Romancham in 2023 and Aavesham in 2024",
+      "Sushin Shyam composed the songs Aathi Iva Yarraa and Aeroplane",
+      "Suriya and Jyotika produced the film under Zhagaram Studios and 2D Entertainment",
+      "Scene will compete at the box office with Nayanthara’s Mookuthi Amman 2 and Ramayana: Part 1, starring Ranbir Kapoor and Sai Pallavi"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya",
+        "Naslen",
+        "Lal",
+        "Stephen",
+        "Maya",
+        "Eeswaran",
+        "Vijay",
+        "Sushin Shyam",
+        "Anandraj",
+        "Raj Priyan",
+        "Jyotika",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Ashwini Kale",
+        "A Rajesh",
+        "Chethan D’Souza",
+        "Nayanthara",
+        "Ranbir Kapoor",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Scene",
+        "Romancham",
+        "Aavesham",
+        "Aathi Iva Yarraa",
+        "Aeroplane",
+        "Singham",
+        "Mookuthi Amman 2",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Suriya Scene film",
+      "Jithu Madhavan Scene trailer",
+      "Naslen Eeswaran Scene",
+      "Suriya 47th film Deepavali release"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/suriya-013826400-16x9_0.png?VersionId=7omwiGIEq7oU35VHL9xvh3htaK7YM7xO",
+        "caption": "Suriya plays unconventional cop Inbaraj in the trailer for Jithu Madhavan's Scene",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 09:10:11 +0530"
   }
 };
