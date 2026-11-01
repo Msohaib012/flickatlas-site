@@ -615,8 +615,8 @@ window.FA_PUBLISHED = {
     "title": "Ghost Soldier",
     "poster_path": "/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
     "backdrop_path": "/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 7.0,
+    "vote_count": 1,
     "overview": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
     "industry": "world",
     "original_language": "en",
@@ -640,7 +640,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "He's not a threat, he's a guarantee.",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "US"
     ],
@@ -806,7 +806,7 @@ window.FA_PUBLISHED = {
     "id": 1003596,
     "type": "movie",
     "title": "Avengers: Doomsday",
-    "poster_path": "/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+    "poster_path": "/bqAHPSEyRkM4BpkncGFCKjBXf9p.jpg",
     "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -1277,7 +1277,7 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/nXeFm7r4mkxP4wMnS9i2lCORGxw.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "An ordinary man undergoes a transformation as he enters the dark and dangerous world of the underworld.",
     "industry": "bollywood",
     "original_language": "ml",
     "origin_country": [
@@ -1302,9 +1302,9 @@ window.FA_PUBLISHED = {
     "spoken_languages": [
       "ml"
     ],
-    "certification": "",
+    "certification": "NR",
     "release_date": "2026-11-06",
-    "runtime": 0,
+    "runtime": 155,
     "providers": [],
     "date_kind": "release"
   },
@@ -4309,7 +4309,7 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Mookuthi Amman 2",
     "poster_path": "/dNNzsstJeQxnESyH0hZcLGblLMz.jpg",
-    "backdrop_path": "/aWopAufKHvBP0dTfZgfjEav8Ryp.jpg",
+    "backdrop_path": "/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
@@ -4328,7 +4328,8 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [
       "Fantasy",
-      "Drama"
+      "Drama",
+      "Comedy"
     ],
     "tagline": "",
     "status": "Post Production",
@@ -4338,10 +4339,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [
       "ta"
     ],
-    "certification": "",
+    "certification": "NR",
     "release_date": "2026-11-06",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 145,
     "providers": []
   },
   "1355228": {
@@ -16696,6 +16697,1755 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-18",
     "date_kind": "festival",
     "runtime": 15,
+    "providers": []
+  },
+  "950028": {
+    "id": 950028,
+    "type": "movie",
+    "title": "The Invite",
+    "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+    "backdrop_path": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+    "vote_average": 7.212,
+    "vote_count": 897,
+    "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "industry": "world",
+    "popularity": 29.672,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "nelkiuezJxg",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 12000000,
+    "revenue": 55505476,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "It'll be fun.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "certification": "A",
+    "release_date": "2026-06-25",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [
+      {
+        "name": "HBO Max Amazon Channel",
+        "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "HBO Max",
+        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "454639": {
+    "id": 454639,
+    "type": "movie",
+    "title": "Masters of the Universe",
+    "poster_path": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+    "backdrop_path": "/5MUMB3aPEPEQPCIAaygXFUTWE9Y.jpg",
+    "vote_average": 7.08,
+    "vote_count": 2299,
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "industry": "world",
+    "popularity": 33.405,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "rJSmz-zhDxE",
+      "name": "Official Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 200000000,
+    "revenue": 113763426,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "tagline": "Legends aren't born, they're forged.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-06-05",
+    "date_kind": "release",
+    "runtime": 141,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1078605": {
+    "id": 1078605,
+    "type": "movie",
+    "title": "Weapons",
+    "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+    "backdrop_path": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+    "vote_average": 7.265,
+    "vote_count": 4229,
+    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "industry": "world",
+    "popularity": 31.5793,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "QKHySfXqN0I",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 38000000,
+    "revenue": 269972492,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "tagline": "Last night at 2:17 AM, every child from Mrs. Gandy's class woke up, got out of bed, went downstairs, opened the front door, walked into the dark ...and they never came back.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2025-08-08",
+    "date_kind": "release",
+    "runtime": 128,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1265609": {
+    "id": 1265609,
+    "type": "movie",
+    "title": "War Machine",
+    "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+    "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "vote_average": 7.522,
+    "vote_count": 2681,
+    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+    "industry": "world",
+    "popularity": 36.35,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": {
+      "key": "AFuE1LRxm80",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 80000000,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "tagline": "All grit. No quit.",
+    "status": "Released",
+    "production_countries": [
+      "AU",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-02-12",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1297842": {
+    "id": 1297842,
+    "type": "movie",
+    "title": "GOAT",
+    "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+    "backdrop_path": "/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg",
+    "vote_average": 8.026,
+    "vote_count": 1147,
+    "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+    "industry": "world",
+    "popularity": 29.7109,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "kmY-rYS7yng",
+      "name": "International Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 90000000,
+    "revenue": 193566330,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "tagline": "You're never too small to dream big.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U",
+    "release_date": "2026-02-20",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1301421": {
+    "id": 1301421,
+    "type": "movie",
+    "title": "The Sheep Detectives",
+    "poster_path": "/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+    "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+    "vote_average": 7.914,
+    "vote_count": 1873,
+    "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+    "industry": "world",
+    "popularity": 28.3278,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "trailer": {
+      "key": "826SRt1CFbg",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 75000000,
+    "revenue": 131550648,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "tagline": "A new breed of mystery.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2026-05-08",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1168190": {
+    "id": 1168190,
+    "type": "movie",
+    "title": "The Wrecking Crew",
+    "poster_path": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+    "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+    "vote_average": 7.089,
+    "vote_count": 1340,
+    "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+    "industry": "world",
+    "popularity": 29.2157,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "v8R0xDczERo",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 78500000,
+    "revenue": 89000000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "tagline": "They fight like brothers. They wreck like legends.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "zh",
+      "en",
+      "fr",
+      "ja",
+      "pt",
+      "es"
+    ],
+    "certification": "R",
+    "release_date": "2026-01-28",
+    "date_kind": "release",
+    "runtime": 125,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "803796": {
+    "id": 803796,
+    "type": "movie",
+    "title": "KPop Demon Hunters",
+    "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "vote_average": 7.972,
+    "vote_count": 3340,
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "industry": "world",
+    "popularity": 32.0668,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "AzCAwdp1uIQ",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 100000000,
+    "revenue": 24619953,
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Animation"
+    ],
+    "tagline": "They sing. They dance. They battle demons.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ko"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2025-08-23",
+    "date_kind": "release",
+    "runtime": 96,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "447273": {
+    "id": 447273,
+    "type": "movie",
+    "title": "Snow White",
+    "poster_path": "/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+    "backdrop_path": "/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+    "vote_average": 4.247,
+    "vote_count": 1784,
+    "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+    "industry": "world",
+    "popularity": 22.4541,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "KsSoo5K8CpA",
+      "name": "Wonder",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 271600000,
+    "revenue": 205679463,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "tagline": "The classic tale comes to life.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U",
+    "release_date": "2025-03-21",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1440098": {
+    "id": 1440098,
+    "type": "movie",
+    "title": "Drawn Together",
+    "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+    "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "vote_average": 6.972,
+    "vote_count": 232,
+    "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
+    "industry": "world",
+    "popularity": 30.6305,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "WlGzP8FvsfY",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "16",
+    "release_date": "2026-09-09",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1516698": {
+    "id": 1516698,
+    "type": "movie",
+    "title": "The Last Sunrise",
+    "poster_path": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+    "vote_average": 6.911,
+    "vote_count": 236,
+    "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+    "industry": "world",
+    "popularity": 32.3822,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "NhI2UpkFAFw",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "One summer to feel everything.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "ES"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-08-26",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1087192": {
+    "id": 1087192,
+    "type": "movie",
+    "title": "How to Train Your Dragon",
+    "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+    "backdrop_path": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
+    "vote_average": 7.93,
+    "vote_count": 3219,
+    "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+    "industry": "world",
+    "popularity": 27.6953,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "OWEq2Pf8qpk",
+      "name": "IMAX Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 150000000,
+    "revenue": 636596299,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "tagline": "The legend is real.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 7+",
+    "release_date": "2025-06-13",
+    "date_kind": "release",
+    "runtime": 125,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1242898": {
+    "id": 1242898,
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+    "vote_average": 7.846,
+    "vote_count": 3867,
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "industry": "world",
+    "popularity": 28.6837,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "LkBqjfg8TGM",
+      "name": "Hulu Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 105000000,
+    "revenue": 184500000,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "tagline": "First hunt. Last chance.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2025-11-07",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1621552": {
+    "id": 1621552,
+    "type": "movie",
+    "title": "Facing El Chapo",
+    "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+    "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+    "vote_average": 8.783,
+    "vote_count": 971,
+    "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+    "industry": "world",
+    "popularity": 28.884,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "pt",
+      "es"
+    ],
+    "certification": "R",
+    "release_date": "2026-08-21",
+    "date_kind": "release",
+    "runtime": 91,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1290821": {
+    "id": 1290821,
+    "type": "movie",
+    "title": "Shelter",
+    "poster_path": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
+    "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+    "vote_average": 7.722,
+    "vote_count": 2013,
+    "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "industry": "world",
+    "popularity": 29.5496,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "trailer": {
+      "key": "auHiLFjaIc0",
+      "name": "Shelter | Official Trailer | Only In Theaters January 30",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 50000000,
+    "revenue": 53933639,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "Her safety. His mission.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-01-30",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": [
+      {
+        "name": "Lionsgate Play Apple TV Channel",
+        "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Lionsgate Play Amazon Channel",
+        "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "986056": {
+    "id": 986056,
+    "type": "movie",
+    "title": "Thunderbolts*",
+    "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+    "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+    "vote_average": 7.296,
+    "vote_count": 4266,
+    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+    "industry": "world",
+    "popularity": 26.2158,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "7rs_HhSA7XY",
+      "name": "Buy It on Digital July 1 and Own It On Blu-Ray July 29",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 180000000,
+    "revenue": 382436917,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "tagline": "Everyone deserves a second shot.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "it",
+      "ru"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2025-05-01",
+    "date_kind": "release",
+    "runtime": 127,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1218925": {
+    "id": 1218925,
+    "type": "movie",
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "poster_path": "/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+    "backdrop_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "vote_average": 8.545,
+    "vote_count": 1272,
+    "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+    "industry": "world",
+    "popularity": 27.7565,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "GJ1jrCnm-t8",
+      "name": "New Trailer [SUB]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 4100000,
+    "revenue": 191400000,
+    "genres": [
+      "Animation",
+      "Action",
+      "Romance",
+      "Fantasy"
+    ],
+    "tagline": "Lost Love, Flower, Chainsaw.",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "A",
+    "release_date": "2025-09-26",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "617126": {
+    "id": 617126,
+    "type": "movie",
+    "title": "The Fantastic 4: First Steps",
+    "poster_path": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "vote_average": 6.932,
+    "vote_count": 4095,
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "industry": "world",
+    "popularity": 29.2245,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "LJa5wv93YGM",
+      "name": "Silver Surfer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 200000000,
+    "revenue": 521858728,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "tagline": "Welcome to the family.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "fr",
+      "uz",
+      "en"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2025-07-25",
+    "date_kind": "release",
+    "runtime": 115,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1814001": {
+    "id": 1814001,
+    "type": "movie",
+    "title": "Larger Than Life",
+    "poster_path": "/6aHD9mug3XncUpGzV57H0sMW9oo.jpg",
+    "backdrop_path": "/fuVTWhxo0AL0qHxRCeMueUgrUWI.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two imbeciles — a B-list country music star and his friend, a manipulative Pentecostal preacher — are relentlessly pursued across Appalachia by a demonic Toyota Prius.",
+    "industry": "world",
+    "popularity": 0.2329,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 10000,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Drama"
+    ],
+    "tagline": "Faith is hwhut you make it",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 117,
+    "providers": []
+  },
+  "1813944": {
+    "id": 1813944,
+    "type": "movie",
+    "title": "CORRUPT",
+    "poster_path": "/gr0zPWBsXXGCMym6nHDX72taRPi.jpg",
+    "backdrop_path": "/wXP0jZtGa6gTh7dU028SbvX3ZVt.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Stepping into a dark room to become part of the system, a young girl is subjected to a three-stage trial by a mysterious man in a suit. To earn her place, she must complete the system's 'CORRUPT' (YOZ) phases.",
+    "industry": "world",
+    "popularity": 0.3105,
+    "original_language": "xx",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 100,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 4,
+    "providers": []
+  },
+  "1813038": {
+    "id": 1813038,
+    "type": "movie",
+    "title": "Getting Rid of Grunt",
+    "poster_path": "/dgDzXDp57rDQOUCI7Q70OU6rVjY.jpg",
+    "backdrop_path": "/datO8crTH2GoSCVzONPhZSqpBfo.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two housemates have to work together to get rid of a one-night stand, who refuses to leave, and refuses to talk.",
+    "industry": "world",
+    "popularity": 0.4876,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 5600,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 6,
+    "providers": []
+  },
+  "1812988": {
+    "id": 1812988,
+    "type": "movie",
+    "title": "Weaving Our Wisdom",
+    "poster_path": "/oqH90FblsekCxryVmjcN7G2cu7o.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Indigenous men go in the bush to discuss the problems facing the people in this day and age.",
+    "industry": "world",
+    "popularity": 0.4088,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 16,
+    "providers": []
+  },
+  "1812553": {
+    "id": 1812553,
+    "type": "movie",
+    "title": "Unboxing",
+    "poster_path": "/lesxQ2hxODgq8IMZbFzWgZvP2nb.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.474,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1811193": {
+    "id": 1811193,
+    "type": "movie",
+    "title": "清气满乾坤",
+    "poster_path": "/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
+    "backdrop_path": "/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.8974,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1811168": {
+    "id": 1811168,
+    "type": "movie",
+    "title": "Roaming over the Horseback",
+    "poster_path": "/uBJ3w6HJf5KSxwt0VlogY53BHUq.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the vast, desolate grassland, injured Mongolian rider Sichintu is forced to end his horse-racing career and return home. Faced with the fate that his beloved horse may be sold, the departure of old friends, and uncertainty about the future, he finally makes a choice true to his heart. He leaps onto the horse’s back once more, reuniting with all that he once lost.",
+    "industry": "world",
+    "popularity": 0.4237,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1810065": {
+    "id": 1810065,
+    "type": "movie",
+    "title": "blood & soil",
+    "poster_path": "/4ZI9S79RDLIYbastXKWDwe5Lcri.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young man attends a rally.",
+    "industry": "world",
+    "popularity": 0.7901,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 9,
+    "providers": []
+  },
+  "1809842": {
+    "id": 1809842,
+    "type": "movie",
+    "title": "One Night in June",
+    "poster_path": "/hyT1pP4qatjbTU8ZAiS1m5mtkBQ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "One Night In June is a dark drama that introduces Lydia and John, as they face a crossroads in their relationship. Through lies, betrayal and vengeful rage they both commit acts they cannot un-do. John is left with an ultimatum that will change his and Lydia's life forever. This gripping short film confronts the nature of the human experience. Our mistakes, our choices, how they impact the ones we love, and the extreme consequences we face.",
+    "industry": "world",
+    "popularity": 0.9503,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 5,
+    "providers": []
+  },
+  "1809838": {
+    "id": 1809838,
+    "type": "movie",
+    "title": "Night Watchman",
+    "poster_path": "/whTqsglQ5iqDgo528mzZojCfp6B.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "James takes on the job of a night watchman, unknowingly replacing a man who died just one week prior.",
+    "industry": "world",
+    "popularity": 0.5148,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 7,
+    "providers": []
+  },
+  "1809836": {
+    "id": 1809836,
+    "type": "movie",
+    "title": "AKIAK",
+    "poster_path": "/cB70Qf8EPRvj1EMcsNKDman6KWH.jpg",
+    "backdrop_path": "/cWGgZf0Ws7rvzqeUSPF0eFq5jvw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young indigenous woman in 1860's Alaska crosses paths with an injured bandit, who is being hunted by someone from the woman's past.",
+    "industry": "world",
+    "popularity": 0.5551,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 8,
+    "providers": []
+  },
+  "1809833": {
+    "id": 1809833,
+    "type": "movie",
+    "title": "Once Again: The Start of it All",
+    "poster_path": "/3AdvS95ANeFEHsWr2RdWpwglbCM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the year 2509, Dr. Obi Iheuche, a brilliant scientist and devoted father, is racing against time to save his terminally ill daughter. As Obi secretly develops a device capable of altering time itself, his work draws the attention of the institution for which he works. This film is an Afro-futurist meditation on fatherhood, memory, and the cost of love under unforgiving systems.",
+    "industry": "world",
+    "popularity": 0.5119,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": []
+  },
+  "1809831": {
+    "id": 1809831,
+    "type": "movie",
+    "title": "Covers",
+    "poster_path": "/1udFFEJWKIaQmnMTj1NPSIf2XMH.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A lonely drunk grows a desire to help another after discovering a seemingly confused naked man in his home.",
+    "industry": "world",
+    "popularity": 0.4394,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 10,
+    "providers": []
+  },
+  "1809676": {
+    "id": 1809676,
+    "type": "movie",
+    "title": "Memory of a Sunset",
+    "poster_path": "/eRmxa3HLfZCDeXyZEc7Jfntya79.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An elderly man visits a cemetery after being summoned by his brother, who died several years ago. The meeting turns out to be a ruse orchestrated by Death itself, which has come to claim him because his time has come.",
+    "industry": "world",
+    "popularity": 0.5789,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 14,
+    "providers": []
+  },
+  "1809662": {
+    "id": 1809662,
+    "type": "movie",
+    "title": "It's Not Tomorrow Yet",
+    "poster_path": "/i496nOCcstNugARjMTTgVWHSAo5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After her divorce, Lola tries to rebuild her life amidst raising her children and dealing with the pressures of those around her. An unexpected encounter leads her to explore long-held desires and understand that letting go can also be a way to start over again.",
+    "industry": "world",
+    "popularity": 0.9031,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 71,
+    "providers": []
+  },
+  "1809659": {
+    "id": 1809659,
+    "type": "movie",
+    "title": "Reflected",
+    "poster_path": "/7X1MyQX4gJ4dAOmIPeqB6Id9qMQ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A man wakes up and slowly discovers he is trapped in a mirror world.",
+    "industry": "world",
+    "popularity": 0.4813,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 5,
+    "providers": []
+  },
+  "1809658": {
+    "id": 1809658,
+    "type": "movie",
+    "title": "Perfume",
+    "poster_path": "/9cL7tTL4lZ8qBYWR2vR65xiaC5f.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "María Gabriela Epumer was a woman of innovative talent who created and performed rock music in the 1980s and 90s as a member of Viuda e Hijas de Roque Enroll, as Charly García's guitarist, and as a solo artist. Twenty years after her untimely death, Perfume access to 50 hours of footage she filmed herself?ranging from massive concerts to deeply intimate moments in recording studios and at home.",
+    "industry": "world",
+    "popularity": 0.4894,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 97,
+    "providers": []
+  },
+  "1809595": {
+    "id": 1809595,
+    "type": "movie",
+    "title": "Argentina Stone",
+    "poster_path": "/8jjHfIEFWfS9OE1RTVe6mEO3DDX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Argentina Stone explores how The Rolling Stones inspired one of the most powerful urban subcultures in Latin America. Through archival footage and testimonies from key figures of Argentine rock, the film traces the birth, rise, and legacy of the rolinga movement - a tribe that transformed admiration for a band into a way of life.",
+    "industry": "world",
+    "popularity": 0.8595,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 73,
+    "providers": []
+  },
+  "1809422": {
+    "id": 1809422,
+    "type": "movie",
+    "title": "Child of Sinaï",
+    "poster_path": "/6TC80dr38dyX8UG0MnYqtqPASPQ.jpg",
+    "backdrop_path": "/bNglX8EEKRFowUVpYMncd0TzHfk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the Sinai desert, within sight of Sharm el-Sheikh's glittering resorts, nine-year-old Bedouin boy Jarah faces a very different future. His family sends him to camel herder Mohamed to train as a jockey for Zalaga, the region's most prestigious camel race. Victory promises honour for his family and freedom for the boy.",
+    "industry": "world",
+    "popularity": 0.4767,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-01",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "EG",
+      "FR"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 88,
     "providers": []
   }
 };

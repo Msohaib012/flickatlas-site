@@ -718,6 +718,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-09-09",
+      "date_kind": "release",
+      "id": 1440098,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-09-04",
       "date_kind": "release",
       "id": 331750,
@@ -749,6 +765,34 @@ window.FA_OTT = {
       "date": "2026-09-03",
       "date_kind": "release",
       "id": 1355228,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-08-26",
+      "date_kind": "release",
+      "id": 1516698,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-08-21",
+      "date_kind": "release",
+      "id": 1621552,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -1026,6 +1070,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-06-25",
+      "date_kind": "release",
+      "id": 950028,
+      "providers": [
+        {
+          "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "name": "HBO Max Amazon Channel"
+        },
+        {
+          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "name": "HBO Max"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-06-19",
       "date_kind": "release",
       "id": 1084244,
@@ -1101,6 +1161,22 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-06-05",
+      "date_kind": "release",
+      "id": 454639,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -1249,6 +1325,22 @@ window.FA_OTT = {
         {
           "logo_path": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png",
           "name": "ViX Premium Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-05-08",
+      "date_kind": "release",
+      "id": 1301421,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -1406,9 +1498,33 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-02-20",
+      "date_kind": "release",
+      "id": 1297842,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-02-13",
       "date_kind": "release",
       "id": 1446616,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-02-12",
+      "date_kind": "release",
+      "id": 1265609,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -1432,11 +1548,43 @@ window.FA_OTT = {
     {
       "date": "2026-01-30",
       "date_kind": "release",
+      "id": 1290821,
+      "providers": [
+        {
+          "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+          "name": "Lionsgate Play Apple TV Channel"
+        },
+        {
+          "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+          "name": "Lionsgate Play Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-01-30",
+      "date_kind": "release",
       "id": 1339876,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-01-28",
+      "date_kind": "release",
+      "id": 1168190,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -1566,6 +1714,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2025-11-07",
+      "date_kind": "release",
+      "id": 1242898,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2025-11-06",
       "date_kind": "release",
       "id": 1561969,
@@ -1641,6 +1801,26 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-09-26",
+      "date_kind": "release",
+      "id": 1218925,
+      "providers": [
+        {
+          "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
         }
       ],
       "type": "movie"
@@ -1734,6 +1914,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2025-08-23",
+      "date_kind": "release",
+      "id": 803796,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2025-08-14",
       "date_kind": "release",
       "id": 1109086,
@@ -1762,6 +1954,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2025-08-08",
+      "date_kind": "release",
+      "id": 1078605,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2025-07-31",
       "date_kind": "release",
       "id": 1124838,
@@ -1785,6 +1989,18 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-07-25",
+      "date_kind": "release",
+      "id": 617126,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"
@@ -1853,6 +2069,30 @@ window.FA_OTT = {
         {
           "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
           "name": "Sonyliv Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-06-13",
+      "date_kind": "release",
+      "id": 1087192,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-05-01",
+      "date_kind": "release",
+      "id": 986056,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"
@@ -1941,6 +2181,18 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-03-21",
+      "date_kind": "release",
+      "id": 447273,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"

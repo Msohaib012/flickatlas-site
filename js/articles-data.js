@@ -29275,5 +29275,209 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 10:35:32 +0200"
+  },
+  "1893n5f": {
+    "id": "1893n5f",
+    "type": "news",
+    "headline": "Jailer 2 North America Box Office: Makes History As Kollywood's First Film To Gross $7.5 Million!",
+    "dek": "Rajinikanth's Jailer 2 has crossed a major milestone in North America, becoming the first Kollywood film to gross $7.5 million and achieving profitable returns after 16 days in theaters.",
+    "body": [
+      {
+        "h": "Milestone Achievement in North America",
+        "p": [
+          "The action-comedy thriller starring Rajinikanth has reached a monumental milestone in North America. The film has officially become the first Tamil cinema release to cross the $7.5 million threshold in the region.",
+          "Continuing its strong theatrical run, the project has established itself as the highest-grossing Kollywood feature of all time in this overseas market."
+        ]
+      },
+      {
+        "h": "Day 16 Collections and Growth",
+        "p": [
+          "On its sixteenth day, which marked the third Friday of its run, the movie collected $90K. This figure represented a substantial 200 percent jump compared to the previous day's collection of $30K.",
+          "The cumulative gross in the territory now stands at a massive $7.59 million, translating to roughly 72.04 crore in Indian rupees."
+        ]
+      },
+      {
+        "h": "Week-Wise Breakdown",
+        "p": [
+          "During its opening week covering the first eight days, the magnum opus accumulated $6.04 million. The second week added another $1.453 million to the tally.",
+          "With the recent single-day additions, the total gross has safely pushed past expectations, and trade experts note that the feature is presently on course to target the $8 million milestone."
+        ]
+      },
+      {
+        "h": "Crossing the Break-Even Mark",
+        "p": [
+          "To achieve commercial safety in North America, the production needed a total of $6.5 million, which equals about 61.69 crore. Having surpassed that target within 16 days, the venture has officially entered profitable territory.",
+          "The current profit margin sits at $1.09 million, or approximately 10.34 crore, with further earnings anticipated before upcoming theatrical competition arrives."
+        ]
+      },
+      {
+        "h": "Future Prospects and Competition",
+        "p": [
+          "Despite having already rewritten regional box office records, the feature still has room to expand its totals. However, future growth will be monitored closely as Ramayana gears up for a major release on November 5.",
+          "Globally, anticipation remains high as well, with talks of potential records being broken during the festive Diwali season."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Details",
+        "p": [
+          "Directed by Nelson Dilipkumar and backed by producer Kalanithi Maran through Sun Pictures, the film features a star-studded ensemble. Alongside Rajinikanth, prominent roles are played by SJ Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Ramya Krishnan, and Vidya Balan.",
+          "The theatrical rollout began on October 15, 2026, following a reported production budget of 350 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 has made history as the first Kollywood film to gross $7.5 million at the North American box office after 16 days in release. The Rajinikanth starrer has successfully cleared its break-even target to yield a profit in the territory."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 grossed $90K on its third Friday, day 16.",
+      "Day 15 collections were $30K, showing a 200% jump.",
+      "Overall gross at the North American box office is $7.59 million.",
+      "Total North American gross equals 72.04 crore in Indian rupees.",
+      "Week 1 collection was $6.04 million across 8 days.",
+      "Week 2 collection was $1.453 million.",
+      "Break-even target in North America was $6.5 million or 61.69 crore.",
+      "Profit recorded is $1.09 million or 10.34 crore.",
+      "Ramayana releases on November 5.",
+      "Director of Jailer 2 is Nelson Dilipkumar.",
+      "Producer is Kalanithi Maran's Sun Pictures.",
+      "Cast includes Rajinikanth, SJ Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Ramya Krishnan, and Vidya Balan.",
+      "Reported production budget is 350 crore.",
+      "Release date was October 15, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Ramayana",
+        "Premada Oorali",
+        "Aadarsha Kutumbam",
+        "Sankranthiki Vasthunam",
+        "Avengers: Doomsday",
+        "Wicker",
+        "Shelter"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 North America box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 Kollywood record",
+      "Jailer 2 profit break-even"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jailer-2-north-america-box-office-becomes-first-kollywood-film-to-earn-7-5-million-01.jpg",
+        "caption": "Jailer 2 North America Box Office: Makes History As Kollywood's First Film To Gross $7.5 Million!",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 06:36:10 +0000"
+  },
+  "oiwvcb": {
+    "id": "oiwvcb",
+    "type": "news",
+    "headline": "Kim You Jung and Park Jinyoung Navigate Surprising Developments in 100 Days of Deception",
+    "dek": "An unexpected night together shifts the dynamic between the undercover spy and the colonial interpreter in the latest preview for tvN's period romance.",
+    "body": [
+      {
+        "h": "A Shift in the Romance",
+        "p": [
+          "Viewers can anticipate major turning points in the dynamic between the main characters of the period spy romance. The narrative takes an intriguing leap as the leads find themselves sharing an unforeseen evening together.",
+          "This development promises to alter the trajectory of their connection, moving their complex interactions into entirely new territory."
+        ]
+      },
+      {
+        "h": "Setting the Historical Stage",
+        "p": [
+          "The television series is anchored during the Japanese occupation of Korea. The story unfolds within high-stakes environments governed by tension and political friction.",
+          "As a broadcast of tvN, the program blends historical drama elements with espionage and romance tropes to captivate audiences."
+        ]
+      },
+      {
+        "h": "Undercover Identities and Espionage",
+        "p": [
+          "Kim You Jung stars as Lee Ga Kyeong, a skilled pickpocket who transforms into an undercover agent for the independence movement. Her mission involves infiltrating the Japanese Government-General of Korea.",
+          "Park Jinyoung, known from GOT7, portrays Kim Tae Woong, an interpreter who also goes by the name Sato Hideo. He serves as the adopted son of the Inspector-General of Korea, holding a powerful and dangerous position as the second-highest-ranking official in the administration."
+        ]
+      },
+      {
+        "h": "Uncovering Shared Pasts",
+        "p": [
+          "Prior to the morning-after revelation, the characters shared a quiet outing for drinks after finishing their work. During this conversation, both figures candidly discussed their mothers and early lives.",
+          "Despite outward appearances suggesting vastly different backgrounds, they discovered surprising similarities in their personal histories, leading the male protagonist to reveal his true Korean name for the first time."
+        ]
+      },
+      {
+        "h": "The Morning After and Tensions",
+        "p": [
+          "Stills from the upcoming episode showcase the two protagonists waking up together at the female lead's residence under unexpected circumstances. The morning light reveals a disheveled Kim Tae Woong with a lip injury looking around an empty room.",
+          "When Lee Ga Kyeong returns, the atmosphere immediately shifts to awkwardness, heightened by the presence of a pawn shop ticket found inside a stolen wallet from an earlier encounter."
+        ]
+      },
+      {
+        "h": "Office Dynamics and Teased Chaos",
+        "p": [
+          "Following this shared night, subtle tension begins to color their daily interactions at the office. Moments of intense proximity, where they are close enough to feel each other's breath, amplify the mounting anticipation.",
+          "The production team hinted that the full narrative behind the unpredictable evening will soon be unveiled, alongside an entertaining gathering featuring Yoo So Ran and Yoo Philip."
+        ]
+      },
+      {
+        "h": "Broadcast Details",
+        "p": [
+          "Fans tracking the series can look forward to the next episode airing on November 1 at 9:10 p.m. KST. The narrative will continue to test how long the undercover protagonist can sustain her web of lies.",
+          "Audience members are encouraged to monitor the evolving friction between the main figures as the plot thickens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kim You Jung and Park Jinyoung experience a significant shift in tvN's 100 Days of Deception after unexpectedly spending the night together. The upcoming episode airs on November 1 at 9:10 p.m. KST, bringing new tensions and revelations to light."
+        ]
+      }
+    ],
+    "facts": [
+      "Kim You Jung stars as Lee Ga Kyeong",
+      "Park Jinyoung stars as Kim Tae Woong",
+      "Kim Tae Woong also goes by Sato Hideo",
+      "The next episode airs on November 1 at 9:10 p.m. KST"
+    ],
+    "entities": {
+      "people": [
+        "Kim You Jung",
+        "Park Jinyoung",
+        "Yoo So Ran",
+        "Yoo Philip"
+      ],
+      "titles": [
+        "100 Days of Deception",
+        "Dear X",
+        "The Witch"
+      ]
+    },
+    "keywords": [
+      "100 Days of Deception",
+      "Kim You Jung",
+      "Park Jinyoung",
+      "GOT7"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/01154031/Park-Jinyoung-Kim-You-Jung.jpg",
+        "caption": "Kim You Jung and Park Jinyoung Navigate Surprising Developments in 100 Days of Deception",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 06:42:24 +0000"
   }
 };
