@@ -31723,5 +31723,263 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 16:00:16 GMT"
+  },
+  "esuty6": {
+    "id": "esuty6",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 22 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 22 aired on 2026-11-01 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 22 aired on 2026-11-01 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=W_fgNK5RvIA"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Aaham aur Umaama garden mein baith kar apne rishte aur mustaqbil ki baatein karte hain, aur Aaham Umaama ko yakeen dilata hai ki woh sirf usi se mohabbat karta hai aur kabhi kisi aur ladki se nahi milega. Dusri taraf, ek hospital mein Malaika Dr. Sharyar se milti hai aur usse apna aur Irtaza ka admission ya milne ka zikr karti hai. Aaham jab ghar aata hai toh woh thaka hua hota hai aur Umaama uska khayal rakhti hai, lekin tabhi Aaham ko ek call aati hai jo Malaika ki hoti hai. Aaham pareshan hota hai aur jab Aaham ke dost Aftab ka phone aata hai toh Aaham gusse mein Aftab ko mana karta hai ke woh usse dobara contact na kare. Umaama yeh sab dekh kar pareshan hoti hai aur daadi se apni baatein share karti hai. \n\nAgli subah, Dr. Sharyar ki maa (Ammi) aati hain aur woh Dr. Sharyar ko kehti hain ke woh Malaika ke ghar jaakar usse milein kyunki woh chahti hain ke Sharyar ka rishta Malaika ke sath aage barhe. Phir Malaika apne birthday party par Aaham, Umaama aur baqi sab ko invite karti hai. Party mein jab sab log pahunchte hain, toh Malaika aur baqi sab cake kaatne aur khushi manane lagte hain. Party ke dauran Malaika aur Umaama ki aapas mein kuch baatein hoti hain jahan Malaika aisi baatein karti hai jisse Umaama ke dil mein shaq aur bechaini paida ho jati hai, aur episode isi party ke scene aur ek tense mood ke sath khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 22 aired on 2026-11-01.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=W_fgNK5RvIA",
+      "YouTube views: 30,400.",
+      "Episode summary added 2026-11-01."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/W_fgNK5RvIA/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 22",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-01T17:00:38Z"
+  },
+  "hifr32": {
+    "id": "hifr32",
+    "type": "news",
+    "headline": "Mohabbat Mukhtasir Episode 6 — Watch Online on HUM TV",
+    "dek": "Mohabbat Mukhtasir episode 6 aired on 2026-11-01 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mohabbat Mukhtasir Episode 6 aired on 2026-11-01 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=9PNaOwKNHR4"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Mehar ghur pahunchti hai aur apni ammi ke sath mil kar kapre suhaye hue baatein karti hai. Wo apnay dost se baat karne ki koshish karti hai lekin wo busy hone ka bahana banata hai. Office mein, Mehar ko ek gift box milta hai jismein ek phool aur chocolate hoti hai, aur wo sochti hai ke ye kiske liye hai. Mehar aur uska colleague coffee shop jate hain, jahan wo uske sath flirt karne ki koshish karta hai, jispar Mehar naraz ho jati hai aur wahan se chal deti hai. Raat ko, Mehar aur uski ammi milkar paison ka hisab lagate hain kyunke unhein dowry (jahez) ka intezam karna hai. Episode ke aakhir mein, Mehar aur uski ammi gale milkar ek dusre ko hosla dete hain aur agay ke mushkil waqt ka samna karne ka faisla karte hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohabbat Mukhtasir Episode 6 aired on 2026-11-01.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=9PNaOwKNHR4",
+      "YouTube views: 145,004.",
+      "Episode summary added 2026-11-01."
+    ],
+    "entities": {
+      "titles": [
+        "Mohabbat Mukhtasir"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/9PNaOwKNHR4/hqdefault.jpg",
+        "caption": "Mohabbat Mukhtasir Episode 6",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-01T16:00:12Z"
+  },
+  "g4o0d9": {
+    "id": "g4o0d9",
+    "type": "news",
+    "headline": "Diljit Dosanjh Delhi Concert Row: Khalistani Plot Foiled by Delhi Police",
+    "dek": "Delhi Police Special Cell arrested three individuals for painting pro-Khalistan graffiti at metro stations to disrupt Punjabi singer Diljit Dosanjh's concert.",
+    "body": [
+      {
+        "h": "Concert Security and Plot Disruption",
+        "p": [
+          "Punjabi singer Diljit Dosanjh performed at Delhi's Jawaharlal Nehru Stadium in front of a massive gathering of fans. While the event concluded successfully, authorities subsequently uncovered a malicious plot aimed at disrupting the concert through coordinated propaganda.",
+          "Delhi Police Special Cell intervened and arrested three suspects linked to the defacement of public properties. Investigations revealed that these individuals had connections to operatives from the banned secessionist organization Sikhs for Justice."
+        ]
+      },
+      {
+        "h": "Graffiti at Delhi Metro Stations",
+        "p": [
+          "The suspects targeted multiple locations across the capital, specifically painting pro-Khalistan graffiti at public transit hubs. On October 29, slogans appeared on the floor near Gate Number 1 of the Jahangirpuri metro station.",
+          "A similar incident occurred on October 30 at the Shastri Nagar metro station, where messages were painted on the stairs near Gate Number 2. The English graffiti explicitly promoted secessionist ideologies and targeted the performing artist."
+        ]
+      },
+      {
+        "h": "Arrests and Police Investigation",
+        "p": [
+          "The Northern Range of the Delhi Police Special Cell took charge of the probe, utilizing technical surveillance and CCTV footage to track down the culprits. The initial breakthrough led to the apprehension of Sumeet alias Raftar in Delhi.",
+          "Following initial interrogations, police teams traveled to Punjab to capture two additional suspects, namely Sumit Kumar alias Kaka and Gurpreet. Authorities registered two separate FIRs against the trio under relevant vandalism and metro maintenance acts."
+        ]
+      },
+      {
+        "h": "Recruitment and Handler Communications",
+        "p": [
+          "Police findings indicate that Sumit Kumar alias Kaka coordinated the operation after connecting with pro-Khalistan elements in Ludhiana and Gurdaspur. He was instructed to download an encrypted messaging application to receive precise templates and instructions.",
+          "The handlers promised substantial financial compensation in exchange for executing the defacement campaign. Sumit subsequently recruited his acquaintances to assist in executing the graffiti across designated transit locations in the city."
+        ]
+      },
+      {
+        "h": "Background of the Accused",
+        "p": [
+          "Sumeet alias Raftar previously worked as a freelance content creator on live streaming platforms before moving to Delhi with his associates. Similarly, Sumit Kumar alias Kaka hailed from Gurdaspur and had associated with various local circles in Punjab.",
+          "Gurpreet, a resident of Hoshiarpur, had prior experience working in salons and hospitality units across Punjab and Haryana. She reportedly traveled to Delhi under the pretext of shopping before being pulled into the unlawful activity."
+        ]
+      },
+      {
+        "h": "Additional Incidents and Ongoing Network Search",
+        "p": [
+          "Further questioning revealed that Sumit Kumar alias Kaka also painted similar graffiti near the GTK Bypass within the Samaypur Badli police station jurisdiction on October 30. Law enforcement agencies are currently reviewing this related incident independently.",
+          "The Special Cell continues to trace the wider network behind the conspiracy. Investigators are actively examining the encrypted communication channels to identify the handlers who supplied the text templates and funding."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Delhi Police Special Cell arrested three individuals for painting pro-Khalistan graffiti at metro stations to disrupt Punjabi singer Diljit Dosanjh's concert. The suspects were lured with money by handlers linked to Sikhs for Justice and have been booked under multiple legal acts as the investigation continues."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident occurred around October 28 to October 30, 2026.",
+      "Three suspects were arrested by Delhi Police Special Cell.",
+      "Graffiti was found at Jahangirpuri and Shastri Nagar metro stations.",
+      "The suspects involved were Sumeet alias Raftar, Sumit Kumar alias Kaka, and Gurpreet."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Sumeet",
+        "Sumit Kumar",
+        "Gurpreet",
+        "Gurpatwant Singh Pannu"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Delhi concert",
+      "Khalistani plot metro stations",
+      "Sikhs for Justice Delhi police",
+      "Diljit Dosanjh concert controversy"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae759d9a53b1-diljit-dosanjh-012512878-16x9.jpg",
+        "caption": "Diljit Dosanjh Delhi Concert Row: Khalistani Plot Foiled by Delhi Police",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T17:52:57Z"
+  },
+  "1hywpjx": {
+    "id": "1hywpjx",
+    "type": "news",
+    "headline": "Colin Farrell Offers Rare Family Glimpse and Discusses Disability Advocacy",
+    "dek": "The acclaimed actor shares a deeply personal look inside his home life in a new documentary trailer, highlighting his friendship with disability advocate Emma Fogarty and raising awareness for rare medical conditions.",
+    "body": [
+      {
+        "h": "An Unexpected Friendship on Screen",
+        "p": [
+          "Renowned actor Colin Farrell has offered audiences an exceptionally rare look into his private world through a forthcoming documentary project titled The Slightest Touch. Set to premiere on HBO Max, the film centers on an inspiring marathon training journey undertaken by the actor alongside his longtime friend, disability advocate Emma Fogarty.",
+          "The documentary explores the deep bond between Farrell and Fogarty while simultaneously shedding light on the harsh daily realities of living with Epidermolysis Bullosa. Commonly referred to as Butterfly Skin, this severe medical condition causes the human skin to blister and tear under the slightest amount of friction, resulting in chronic and agonizing wounds."
+        ]
+      },
+      {
+        "h": "Shedding Light on Butterfly Skin",
+        "p": [
+          "Individuals affected by Epidermolysis Bullosa face immense obstacles when attempting routine daily tasks that most people take completely for granted. The trailer for the upcoming emotional project emphasizes the agonizing physical toll of the disorder, showcasing why raising public awareness remains vital for those afflicted.",
+          "In the promotional footage, Farrell reveals that he has historically kept camera crews far away from his personal residence. However, the actor chose to make an exception for this project to champion Fogarty's cause and draw much-needed attention to the challenges of living with the condition."
+        ]
+      },
+      {
+        "h": "Personal Connections to Rare Disorders",
+        "p": [
+          "Farrell is no stranger to the complexities of navigating life with a rare disability within the family unit. His eldest son, James, lives with a rare neuro-genetic condition known as Angelman syndrome, which impacts approximately one in every 20,000 individuals.",
+          "Symptoms of Angelman syndrome typically manifest between the ages of six and 12 months. Those diagnosed frequently experience significant intellectual disabilities, limited or absent spoken language, sleep disturbances, epilepsy, and severe balance or walking challenges."
+        ]
+      },
+      {
+        "h": "Characteristics of Angelman Syndrome",
+        "p": [
+          "Despite the profound difficulties associated with the condition, individuals with Angelman syndrome possess several uniquely recognizable and endearing traits. They are often exceptionally sociable, infectiously enthusiastic, and prone to frequent smiling and laughing over minor occurrences.",
+          "The trailer for The Slightest Touch offers viewers a tender glimpse into the domestic life shared between Farrell and his 23-year-old son. The actor has consistently expressed immense affection for James over the years, famously describing him as nothing short of a gift."
+        ]
+      },
+      {
+        "h": "Advocacy and the Colin Farrell Foundation",
+        "p": [
+          "Reflecting on his son's journey back in 2008, Farrell shared his perspective that James is precisely the way he is meant to be. Building upon this lifelong dedication, the actor established the Colin Farrell Foundation in 2024 to honor his son.",
+          "The organization is specifically designed to provide essential support for young adults living with intellectual disabilities. Farrell has previously highlighted the abrupt loss of institutional safeguards and special education resources once children turn 21, noting that many young adults are left behind by modern society."
+        ]
+      },
+      {
+        "h": "A Call for Global Compassion",
+        "p": [
+          "Through his ongoing public advocacy and the launch of his foundation, Farrell continues to campaign for greater societal inclusivity. He has openly voiced his desire for the world to embrace James and others like him with genuine kindness and respect.",
+          "By combining his platform as a major film star with deeply personal storytelling in projects like The Slightest Touch, Farrell strives to ensure that vulnerable members of society receive the visibility and support they deserve."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Colin Farrell appears in the upcoming HBO Max documentary The Slightest Touch alongside disability advocate Emma Fogarty to raise awareness for Epidermolysis Bullosa. The trailer also provides a rare glimpse into Farrell's home life with his 23-year-old son James, who lives with Angelman syndrome and inspired the actor to launch the Colin Farrell Foundation."
+        ]
+      }
+    ],
+    "facts": [
+      "Colin Farrell appears in the HBO Max film The Slightest Touch alongside Emma Fogarty.",
+      "Emma Fogarty lives with Epidermolysis Bullosa, also known as Butterfly Skin.",
+      "Angelman syndrome affects approximately one person in every 20,000.",
+      "Colin Farrell's eldest son, James, is 23 years old and lives with Angelman syndrome.",
+      "The Colin Farrell Foundation was launched in 2024 to support adult children with intellectual disabilities."
+    ],
+    "entities": {
+      "people": [
+        "Colin Farrell",
+        "Emma Fogarty",
+        "James"
+      ],
+      "titles": [
+        "The Slightest Touch"
+      ]
+    },
+    "keywords": [
+      "Colin Farrell",
+      "The Slightest Touch",
+      "Emma Fogarty",
+      "Angelman syndrome",
+      "Colin Farrell Foundation"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt609dd96a2b8feeb3/6ae770fb927525bbd9d0b06c/colin-farrell-son-documentary-trailer.webp",
+        "caption": "Colin Farrell Offers Rare Family Glimpse and Discusses Disability Advocacy",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-11-01T17:50:26.872Z"
   }
 };
