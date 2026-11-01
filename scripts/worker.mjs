@@ -29,7 +29,7 @@
 // runs, Cloudflare ignores _headers (verified live — the file was present
 // and downloadable, the headers were not served). Same policy as _headers.
 const SEC_HEADERS = {
-  'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://image.tmdb.org https://images.weserv.nl https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://api.themoviedb.org https://www.google-analytics.com https://www.googletagmanager.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self'",
+  'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://image.tmdb.org https://images.weserv.nl https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://api.themoviedb.org https://www.google-analytics.com https://www.googletagmanager.com https://arenaflix-53ce8-default-rtdb.firebaseio.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self'",
   'X-Content-Type-Options': 'nosniff',
   'X-Frame-Options': 'SAMEORIGIN',
   'Referrer-Policy': 'strict-origin-when-cross-origin',
@@ -41,6 +41,102 @@ function withSecHeaders(res) {
   for (const [k, v] of Object.entries(SEC_HEADERS)) h.set(k, v);
   return new Response(res.body, { status: res.status, statusText: res.statusText, headers: h });
 }
+/* ---- /stats: private visitor stats for THIS site (owner request
+   2026-11-01, same setup as the Arenaflix stats page). Counts live in the
+   shared RTDB under /fa/* (written by /js/fa-track.js, injected below).
+   Login: custom page + HMAC-signed cookie; successful logins are recorded
+   as signed entries in /fa/admlog so the page can show the current login
+   plus the last four. Credentials are the owner's stats credentials. ---- */
+const FA_STATS_USER = "admin";
+const FA_STATS_PASS = "225500";
+const FA_DB = "https://arenaflix-53ce8-default-rtdb.firebaseio.com";
+function faSafeEq(a, b) {
+  if (a.length !== b.length) return false;
+  let diff = 0;
+  for (let i = 0; i < a.length; i++) diff |= a.charCodeAt(i) ^ b.charCodeAt(i);
+  return diff === 0;
+}
+async function faHmacHex(msg) {
+  const enc = new TextEncoder();
+  const key = await crypto.subtle.importKey("raw", enc.encode(FA_STATS_PASS), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const sig = await crypto.subtle.sign("HMAC", key, enc.encode(msg));
+  return [...new Uint8Array(sig)].map(b => b.toString(16).padStart(2, "0")).join("");
+}
+async function faStatsSession(request) {
+  const c = request.headers.get("Cookie") || "";
+  let m = c.match(/(?:^|;\s*)fa_stats=([0-9]+)\.([0-9]+)\.([a-f0-9]{64})/);
+  if (m) {
+    if (Date.now() > Number(m[2])) return null;
+    const ok = faSafeEq(await faHmacHex("fastats:" + m[1] + "." + m[2]), m[3]);
+    return ok ? { loginTs: Number(m[1]) } : null;
+  }
+  m = c.match(/(?:^|;\s*)fa_stats=([0-9]+)\.([a-f0-9]{64})/);
+  if (m) {
+    if (Date.now() > Number(m[1])) return null;
+    const ok = faSafeEq(await faHmacHex("fastats:" + m[1]), m[2]);
+    return ok ? { loginTs: 0 } : null;
+  }
+  return null;
+}
+function faAsset(env, request, path) {
+  return env.ASSETS.fetch(new Request(new URL(path, request.url), { method: "GET" }));
+}
+async function faStatsRoute(request, env, url) {
+  const p = url.pathname;
+  if (p === "/stats-login") {
+    if (request.method === "POST") {
+      let u = "", pw = "";
+      try { const f = await request.formData(); u = String(f.get("u") || ""); pw = String(f.get("p") || ""); } catch (e) {}
+      if (faSafeEq(u, FA_STATS_USER) && faSafeEq(pw, FA_STATS_PASS)) {
+        const loginTs = Date.now();
+        const exp = loginTs + 30 * 24 * 3600 * 1000;
+        const tok = loginTs + "." + exp + "." + (await faHmacHex("fastats:" + loginTs + "." + exp));
+        try {
+          const sig = await faHmacHex("admlog:" + loginTs);
+          await fetch(FA_DB + "/fa/admlog/" + loginTs + ".json", { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify(sig) });
+        } catch (e) {}
+        return new Response(null, { status: 302, headers: { "Location": "/stats", "Set-Cookie": "fa_stats=" + tok + "; Path=/; Max-Age=2592000; HttpOnly; Secure; SameSite=Lax" } });
+      }
+      return new Response(null, { status: 302, headers: { "Location": "/stats?err=1" } });
+    }
+    return faAsset(env, request, "/login.html");
+  }
+  if (p === "/stats-logout") {
+    return new Response(null, { status: 302, headers: { "Location": "/stats", "Set-Cookie": "fa_stats=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax" } });
+  }
+  if (p === "/stats-session") {
+    const s = await faStatsSession(request);
+    if (!s) return new Response("Login required", { status: 401, headers: { "Content-Type": "text/plain" } });
+    return new Response(JSON.stringify({ loginTs: s.loginTs }), { headers: { "Content-Type": "application/json", "Cache-Control": "no-store" } });
+  }
+  if (p === "/stats" || p === "/stats.html" || p === "/js/page-fa-stats.js") {
+    if (!(await faStatsSession(request))) {
+      if (p === "/js/page-fa-stats.js") return new Response("Login required", { status: 401, headers: { "Content-Type": "text/plain" } });
+      return faAsset(env, request, "/login.html");
+    }
+    if (p === "/js/page-fa-stats.js") return faAsset(env, request, "/js/page-fa-stats.js");
+    return faAsset(env, request, "/stats.html");
+  }
+  return null;
+}
+/* Tracker injection: every public HTML page gets the visitor counter. */
+const FA_TRACK_SKIP = new Set(["/stats", "/stats.html", "/login.html", "/stats-login"]);
+async function faInjectTracker(request, res) {
+  if (request.method !== "GET") return res;
+  const u = new URL(request.url);
+  if (FA_TRACK_SKIP.has(u.pathname)) return res;
+  const ct = res.headers.get("content-type") || "";
+  if (res.status !== 200 || ct.indexOf("text/html") === -1) return res;
+  const html = await res.text();
+  if (html.indexOf("fa-track.js") !== -1) return new Response(html, { status: res.status, headers: res.headers });
+  const tag = '<script src="/js/fa-track.js?v=20261101a" defer></script>';
+  const out = html.replace(/<\/body>/i, tag + "</body>");
+  if (out === html) return new Response(html, { status: res.status, headers: res.headers });
+  const h = new Headers(res.headers);
+  h.delete("content-length"); h.delete("content-encoding"); h.delete("etag");
+  return new Response(out, { status: res.status, headers: h });
+}
+
 const API_REWRITES = { "/api/news": "/api-news.json", "/api/trends": "/api-trends.json" };
 const SEO_ROUTES = { "/movie": "movie", "/show": "tv", "/news-item": "news",
                      "/box-office-day": "daywise", "/category": "cat" };
@@ -475,8 +571,7 @@ async function handleReviewDelete(request, env) {
   }
 }
 
-export default {
-  async fetch(request, env) {
+async function faMainFetch(request, env) {
     const url = new URL(request.url);
     // SEO audit 2026-10-28 (claude-seo): www serves the same content with
     // www canonicals on detail pages. 301 everything to the apex so there
@@ -610,5 +705,20 @@ export default {
       }
     }
     return withSecHeaders(await env.ASSETS.fetch(request));
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    if (url.hostname !== "www.flickatlas.co.uk") {
+      if (url.pathname === "/api/geo") {
+        const c = (request.cf && request.cf.country) || "XX";
+        return withSecHeaders(new Response(JSON.stringify({ country: c }), { headers: { "Content-Type": "application/json", "Cache-Control": "no-store" } }));
+      }
+      const sr = await faStatsRoute(request, env, url);
+      if (sr) return withSecHeaders(sr);
+    }
+    const res = await faMainFetch(request, env);
+    return faInjectTracker(request, res);
   }
 };

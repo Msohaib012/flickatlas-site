@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0D9488">
+<title>Login | FlickAtlas Stats</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',system-ui,sans-serif;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;color:#17352f;background:linear-gradient(160deg,#e8f5f2 0%,#d7ece8 55%,#c3e2db 100%)}
+.lg-card{width:100%;max-width:380px;background:#fff;border:1px solid #cfe6e1;border-radius:22px;padding:34px 28px 28px;box-shadow:0 24px 48px rgba(13,90,80,.16)}
+.lg-logo{display:flex;flex-direction:column;align-items:center;text-align:center;margin-bottom:24px}
+.lg-logo img{width:74px;height:74px}
+.lg-logo h1{font-size:25px;font-weight:800;margin-top:12px;letter-spacing:.2px;color:#0b3b34}
+.lg-logo h1 span{color:#0D9488}
+.lg-logo p{font-size:13px;color:#5b7a73;margin-top:3px}
+.lg-err{display:none;background:#fdeeee;border:1px solid #f3b8b8;color:#a33;font-size:13.5px;border-radius:11px;padding:10px 12px;margin-bottom:16px;text-align:center}
+.lg-err.show{display:block}
+.lg-field{margin-bottom:15px}
+.lg-field label{display:block;font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:#5b7a73;margin-bottom:7px}
+.lg-field input{width:100%;background:#f4faf9;border:1px solid #cfe0dc;border-radius:12px;padding:13px 14px;font-size:15.5px;color:#17352f;outline:none;transition:border-color .15s, box-shadow .15s;font-family:inherit}
+.lg-field input:focus{border-color:#0D9488;box-shadow:0 0 0 3px rgba(13,148,136,.16)}
+.lg-btn{width:100%;border:0;cursor:pointer;background:linear-gradient(180deg,#14b8a6,#0D9488);color:#fff;font-family:inherit;font-size:16px;font-weight:800;border-radius:12px;padding:14px;margin-top:5px;box-shadow:0 10px 22px rgba(13,148,136,.28);transition:transform .1s, filter .15s}
+.lg-btn:hover{filter:brightness(1.05)}
+.lg-btn:active{transform:scale(.985)}
+.lg-note{text-align:center;font-size:12.5px;color:#7b968f;margin-top:18px;line-height:1.55}
+</style>
+</head>
+<body>
+<form class="lg-card" method="POST" action="/stats-login" autocomplete="on">
+  <div class="lg-logo">
+    <img src="/brand-mark.svg" alt="FlickAtlas">
+    <h1>Flick<span>Atlas</span> Stats</h1>
+    <p>This page is for the admin only — please log in</p>
+  </div>
+  <div class="lg-err" id="lgErr">Wrong username or password — please try again.</div>
+  <div class="lg-field">
+    <label for="lgUser">Username</label>
+    <input id="lgUser" name="u" type="text" placeholder="Enter username" autocomplete="username" required>
+  </div>
+  <div class="lg-field">
+    <label for="lgPass">Password</label>
+    <input id="lgPass" name="p" type="password" placeholder="Enter password" autocomplete="current-password" required>
+  </div>
+  <button class="lg-btn" type="submit">Log in</button>
+  <p class="lg-note">You will stay logged in on this device for 30 days,<br>so you don't have to type it every time.</p>
+</form>
+<script>
+if (new URLSearchParams(location.search).get("err") === "1") {
+  document.getElementById("lgErr").classList.add("show");
+}
+</script>
+</body>
+</html>
