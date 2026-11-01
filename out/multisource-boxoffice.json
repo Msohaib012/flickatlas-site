@@ -281,6 +281,7 @@
             "sources": {
               "filmynewsnetwork": 55.1,
               "moviemint": 56.7,
+              "overseas-ai": 55.4,
               "overseas-backfill": 55.4,
               "sacnilk": 55.4
             },
@@ -685,6 +686,17 @@
             },
             "value": 18.1
           },
+          "overseas": {
+            "crore": 3.0,
+            "currency": "USD",
+            "date": "2026-10-31",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 3.0
+            },
+            "value": 316957
+          },
           "shows": {
             "sources": {
               "filmynewsnetwork": 8228,
@@ -871,25 +883,25 @@
             "value": 62.3
           },
           "overseas": {
-            "crore": 34.0,
+            "crore": 37.0,
             "currency": "USD",
             "date": "2026-10-18",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 40.0,
               "overseas-backfill": 34.0
             },
-            "value": 3592182
+            "value": 3909139
           },
           "shows": {
             "sources": {
               "filmynewsnetwork": 13669,
               "moviemint": 16827,
-              "overseas-ai": 15473,
               "overseas-backfill": 15473,
               "sacnilk": 15473
             },
-            "value": 15383
+            "value": 15360
           },
           "tickets": {
             "sources": {
@@ -1205,15 +1217,16 @@
             "value": 57.8
           },
           "overseas": {
-            "crore": 18.5,
+            "crore": 18.0,
             "currency": "USD",
             "date": "2026-10-02",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 17.5,
               "overseas-backfill": 18.5
             },
-            "value": 1954569
+            "value": 1901743
           },
           "shows": {
             "sources": {
@@ -1789,16 +1802,16 @@
             "value": 48.7
           },
           "overseas": {
-            "crore": 30.75,
+            "crore": 21.5,
             "currency": "USD",
             "date": "2026-10-03",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
-              "overseas-ai": 38.5,
+              "overseas-ai": 20.0,
               "overseas-backfill": 23.0
             },
-            "value": 3248811
+            "value": 2271527
           },
           "shows": {
             "sources": {
@@ -2104,15 +2117,16 @@
             "value": 9.6
           },
           "overseas": {
-            "crore": 0.25,
+            "crore": 0.27,
             "currency": "USD",
             "date": "2026-10-26",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 0.28,
               "overseas-backfill": 0.25
             },
-            "value": 26413
+            "value": 28526
           },
           "shows": {
             "sources": {
@@ -3493,6 +3507,17 @@
             },
             "value": 12.1
           },
+          "overseas": {
+            "crore": 0.75,
+            "currency": "USD",
+            "date": "2026-10-30",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.75
+            },
+            "value": 79239
+          },
           "shows": {
             "sources": {
               "filmynewsnetwork": 4796,
@@ -3920,6 +3945,17 @@
               "moviemint": 15.4
             },
             "value": 15.6
+          },
+          "overseas": {
+            "crore": 12.35,
+            "currency": "USD",
+            "date": "2026-10-31",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 12.35
+            },
+            "value": 1304807
           },
           "shows": {
             "sources": {
@@ -6601,6 +6637,7 @@
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 0.05,
               "overseas-backfill": 0.05
             },
             "value": 5283
@@ -6818,6 +6855,17 @@
               "moviemint": 7.8
             },
             "value": 8.8
+          },
+          "overseas": {
+            "crore": 3.3,
+            "currency": "USD",
+            "date": "2026-10-31",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 3.3
+            },
+            "value": 348653
           },
           "shows": {
             "sources": {

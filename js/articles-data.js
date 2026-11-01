@@ -29479,5 +29479,202 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 06:42:24 +0000"
+  },
+  "nyzov3": {
+    "id": "nyzov3",
+    "type": "news",
+    "headline": "Himesh Reshammiya Announces 15 Original English Songs and Expresses Desire to Collaborate with Rihanna",
+    "dek": "Popular singer and composer Himesh Reshammiya has revealed that he has written, sung, and composed 15 English tracks for an upcoming international album.",
+    "body": [
+      {
+        "h": "An Unexpected International Project",
+        "p": [
+          "In a recent conversation with Komal Nahta, musician Himesh Reshammiya shared a major surprise regarding his upcoming professional trajectory. He disclosed that he has quietly been working on a substantial collection of songs tailored specifically for listeners outside his traditional domestic market.",
+          "Rather than sticking solely to Hindi cinema soundtracks, the artist has expanded his creative horizons into a completely different linguistic and cultural space. This project represents a sharp pivot in his long-standing career."
+        ]
+      },
+      {
+        "h": "Writing, Singing, and Composing Solo",
+        "p": [
+          "What makes this collection particularly notable is the level of personal involvement from the creator. He has taken absolute ownership of the musical and lyrical creation, personally writing, singing, and composing all 15 tracks in English.",
+          "Addressing potential skepticism about artists crossing language barriers, he assured fans and critics alike that the material possesses high authenticity. He emphasized that the tracks completely avoid any superficial qualities or derivative styling."
+        ]
+      },
+      {
+        "h": "Targeting a Global Audience",
+        "p": [
+          "The upcoming venture is designed to appeal directly to universal listeners who regularly consume English-language music. Instead of a minor guest feature on a global track, this release centers entirely around a full-fledged international album rollout.",
+          "The first single from the collection is planned for a grand worldwide launch. The musician intends to introduce this body of work internationally with the same magnitude that initially propelled his singing career domestically."
+        ]
+      },
+      {
+        "h": "Timing and Global Stature",
+        "p": [
+          "The decision to launch this international venture follows a significant milestone in the artist's professional profile. Having recently entered Bloomberg's list of top pop stars of the world, he feels the timing is ideal to present his English album to the public.",
+          "Although previous commitments involving various films have kept him extremely busy, he is actively waiting for the right moment to coordinate the grand rollout once his schedule clears up."
+        ]
+      },
+      {
+        "h": "Drawing Parallels to Past Breakthroughs",
+        "p": [
+          "Reflecting on the uniqueness of the new material, the composer pointed out similarities to past turning points in his career. He recalled how listeners initially struggled to imagine his vocal style when he released Aashiq Banaya Aapne in 2005.",
+          "He believes a similar perceptual shift will happen with this English project. Furthermore, he noted that the songs retain a strong emotional and romantic core that listeners have historically associated with his work."
+        ]
+      },
+      {
+        "h": "Dream Collaboration with Rihanna",
+        "p": [
+          "When asked about potential dream collaborations with global superstar vocalists, the artist offered an intriguing possibility. He revealed that within his collection of new tracks, there is a specific piece that fits the style of international icon Rihanna perfectly.",
+          "While no formal partnership has been confirmed, the aspiration to work with global talent underscores the ambitious scope of his current musical endeavors."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Himesh Reshammiya revealed during an interview with Komal Nahta that he has written, sung, and composed 15 English songs for a grand international album launch. Following his entry into Bloomberg's list of top pop stars, he plans to unveil the project globally and noted that one specific track would be ideal for a collaboration with Rihanna."
+        ]
+      }
+    ],
+    "facts": [
+      "Himesh Reshammiya composed 15 songs in English.",
+      "Himesh Reshammiya spoke with Komal Nahta.",
+      "Himesh Reshammiya entered Bloomberg's list of top pop stars of the world.",
+      "Aashiq Banaya Aapne was released in 2005."
+    ],
+    "entities": {
+      "people": [
+        "Himesh Reshammiya",
+        "Komal Nahta",
+        "Rihanna"
+      ],
+      "titles": [
+        "Aashiq Banaya Aapne"
+      ]
+    },
+    "keywords": [
+      "Himesh Reshammiya English songs",
+      "Himesh Reshammiya Rihanna collaboration",
+      "Himesh Reshammiya international album",
+      "Komal Nahta Himesh Reshammiya interview"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Himesh-620.jpeg",
+        "caption": "Himesh Reshammiya Announces 15 Original English Songs and Expresses Desire to Collaborate with Rihanna",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 11:32:19 +0200"
+  },
+  "1w99ypi": {
+    "id": "1w99ypi",
+    "type": "news",
+    "headline": "Sundar C Defends Mookuthi Amman 2 Against AI Rumors",
+    "dek": "Filmmaker Sundar C addressed online criticism at a pre-release event, clarifying the extent of CGI and artificial intelligence used in the upcoming fantasy sequel starring Nayanthara.",
+    "body": [
+      {
+        "h": "Addressing the Rumors",
+        "p": [
+          "Following the release of the promotional trailer for Mookuthi Amman 2, online speculation surfaced suggesting that the project relied heavily on artificial intelligence rather than traditional visual effects. Observers online argued that the footage looked subpar due to perceived AI generation.",
+          "During a public appearance in Chennai, filmmaker and actor Sundar C firmly pushed back against these claims. He expressed disappointment over speculative commentary regarding the production quality of his upcoming venture."
+        ]
+      },
+      {
+        "h": "Breakdown of Visual Effects",
+        "p": [
+          "Providing clarity on the matter, the director detailed the actual composition of the film's visual effects work. Out of approximately three thousand shots requiring computer-generated imagery, only a tiny fraction incorporated artificial intelligence tools.",
+          "Sundar emphasized that the overwhelming majority of the frames were crafted entirely by local visual artists and technicians. He praised the dedication of the sizeable digital effects crew that labored for over a year and a half."
+        ]
+      },
+      {
+        "h": "Cast and Crew Contributions",
+        "p": [
+          "The director reserved special praise for the nearly four hundred artists who contributed to the technical execution of the project. He noted that despite the star power involved, the true credit belongs to the backstage workers who toiled day and night.",
+          "The technical team's meticulous effort was highlighted as the backbone of the production, ensuring that the fantasy elements met the required standards without leaning excessively on automated software."
+        ]
+      },
+      {
+        "h": "Project Background",
+        "p": [
+          "Mookuthi Amman 2 serves as a follow-up to the 2020 hit originally directed by RJ Balaji and NJ Saravanan. Sundar C took over directorial duties for this sequel, which went into production last year.",
+          "The narrative features Nayanthara reprising her role as a titular deity while also portraying a police officer. The antagonist roles are filled by Regena Cassandrra and Duniya Vijay, supported by an ensemble cast."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "The feature is slated for a full theatrical release on November 6. Additionally, the makers arranged paid premieres in select cinemas on November 5.",
+          "Audiences and fans have eagerly awaited the arrival of the fantasy sequel, which has generated significant conversation across entertainment platforms ahead of its debut."
+        ]
+      },
+      {
+        "h": "Director's Broader Portfolio",
+        "p": [
+          "Alongside his filmmaking endeavors, Sundar has maintained an active career balancing both acting and directing roles. His recent works include directing and starring in Gangers last year, alongside upcoming acting commitments like One 2 One and directing Purushan.",
+          "Discussions surrounding his prior attachments also include a project initially planned with Rajinikanth and produced by Kamal Haasan, before leadership changes took the film in a different direction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sundar C addressed criticism regarding his upcoming movie Mookuthi Amman 2 at a pre-release event in Chennai, denying that the project relied heavily on artificial intelligence. He clarified that out of three thousand CGI shots, only fifteen utilized AI, while praising the dedication of the film's extensive technical crew ahead of its November theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 releases in theatres on November 6, 2026",
+      "Paid premieres for Mookuthi Amman 2 take place on November 5, 2026",
+      "The film features 3000 CGI shots",
+      "Only 15 shots used AI out of the 3000 CGI shots",
+      "The CGI team consists of nearly 400 artists",
+      "The CGI team worked on the film for over a year and a half",
+      "The pre-release event was held in Chennai",
+      "The original Mookuthi Amman was released in 2020 and directed by RJ Balaji and NJ Saravanan",
+      "Nayanthara plays a Goddess and a police officer in the sequel",
+      "Regena Cassandrra and Duniya Vijay play the antagonists"
+    ],
+    "entities": {
+      "people": [
+        "Sundar C",
+        "Nayanthara",
+        "RJ Balaji",
+        "NJ Saravanan",
+        "Regena Cassandrra",
+        "Duniya Vijay",
+        "Urvashi",
+        "Yogi Babu",
+        "Abhinaya",
+        "Ramachandra Raju",
+        "Garuda Ram",
+        "Myna Nandini",
+        "Singampuli",
+        "Rajinikanth",
+        "Kamal Haasan",
+        "Cibi Chakaravarthi",
+        "Ashwath Marimuthu"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Mookuthi Amman",
+        "Gangers",
+        "One 2 One",
+        "Purushan",
+        "Dharman"
+      ]
+    },
+    "keywords": [
+      "Sundar C Mookuthi Amman 2",
+      "Nayanthara Mookuthi Amman 2 AI",
+      "Mookuthi Amman 2 CGI shots",
+      "Mookuthi Amman 2 release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/01/1600x900/logo/Mookuthi_Amman_2_1793507525392_I8eM_1793507540918_lX7w_f7be2437-e34c-4814-96bd-d420212b744a_I5hm.jpg",
+        "caption": "Sundar C Defends Mookuthi Amman 2 Against AI Rumors",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 11:22:02 +0530"
   }
 };

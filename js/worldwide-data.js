@@ -17,7 +17,7 @@ window.FA_WORLDWIDE = {
     "total_usd": 774031
   },
   "1101412": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "scope": "worldwide",
     "source": "https://en.wikipedia.org/wiki/Fall_2:_Deadpoint",
     "title": "Fall 2: Deadpoint",
@@ -41,32 +41,25 @@ window.FA_WORLDWIDE = {
     "total_usd": 5750000
   },
   "1377237": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "scope": "worldwide",
     "source": "https://www.koimoi.com/box-office/runner-box-office-how-much-does-the-action-comedy-need-to-earn-worldwide-to-turn-a-profit",
     "title": "Runner",
     "total_usd": 10000000
   },
   "1384216": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "scope": "worldwide",
-    "source": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)",
+    "source": "https://boxofficehype.com/the-dog-stars-2026-box-office-worldwide-domestic-international",
     "title": "The Dog Stars",
-    "total_usd": 24000000
-  },
-  "1571955": {
-    "as_of": "2026-10-31",
-    "scope": "worldwide",
-    "source": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
-    "title": "Collision Course",
-    "total_usd": 64000000
+    "total_usd": 19300000
   },
   "791523": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "scope": "worldwide",
-    "source": "https://legalunitedstates.com/wildwood-2026-box-office-performance",
+    "source": "https://en.wikipedia.org/wiki/Wildwood_(film)",
     "title": "Wildwood",
-    "total_usd": 15170000
+    "total_usd": 3000000
   },
   "858035": {
     "as_of": "2026-10-27",
