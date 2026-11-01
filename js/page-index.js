@@ -400,11 +400,13 @@
          USD value = amount / rate. Unknown currency = keep the plain
          source-currency text as a fallback. */
       const usdOf = (amount, currency) => {
-        const r = Number(boxOfficeRates && boxOfficeRates[currency]) || (currency === "USD" ? 1 : 0);
+        const rates = (typeof boxOfficeRates !== "undefined" && boxOfficeRates)
+          || (typeof FA_RATES !== "undefined" && FA_RATES) || { USD: 1 };
+        const r = Number(rates[currency]) || (currency === "USD" ? 1 : 0);
         return r > 0 ? amount / r : null;
       };
       const amountHtml = (metric) => {
-        const lo = usdOf(metric.amount, metric.currency);
+        const lo = typeof UI.fmtMoney === "function" ? usdOf(metric.amount, metric.currency) : null;
         if (lo === null) return UI.esc(
           metric.amount_high > metric.amount
             ? `${HomeBoxOffice.formatCurrency(metric.amount, metric.currency)}–${HomeBoxOffice.formatCurrency(metric.amount_high, metric.currency)}`
