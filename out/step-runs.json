@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-31T04:51:33Z",
-    "run_id": "41170179272",
-    "status": "success",
-    "checked": {
-     "candidates": 313,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Naagzilla producers take legal action over alleged Rs. 3.92 crores misappropriation; Mumbai court rejects anticipatory bail pleas of 3 production executives",
-      "Cult Box Office Collection Day 1: Vishwak Sen's Film Opens With ₹1.30 Crore Worldwide",
-      "Jailer 2 Box Office Collection Day 16: Rajinikanth's Film Nears ₹780 Cr Worldwide, India Net Crosses ₹435 Cr",
-      "Bigg Boss 20 Elimination Confirmed Week 8: Aamrapali, Aasif or Kanika - THIS Contestant To Get Evicted",
-      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 1: Venkatesh's Film Crosses ₹16 Crore Worldwide",
-      "Don’t Trouble The Trouble Movie Review: Abracadabra! Fahadh Faasil’s Infectious Energy Makes This Magical Ride Engaging",
-      "Premada Oorali Box Office Collections: Kannada film maintains good hold on 6th Friday, targets Rs. 125 crore end",
-      "Udta Teer 2nd Friday Box Office Collections: Ayushmann Khurrana's spy comedy enters Week 2 with GOOD hold, nears Rs 35 crore mark",
-      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's thriller enters Week 5 with Rs 1 crore, nears theatrical end",
-      "2026 Set to Become Biggest Year at Indian Box Office: 15000+ Crore in Sight With Ramayana, King, and Avengers: Doomsday Coming Next",
-      "Aadarsha Kutumbam House No 47 Box Office Collection Day 1: ₹16.65 Cr Worldwide Gross Puts Venkatesh Among Top 7 Telugu Openers of 2026",
-      "Criminal Minds’ cancelled after 20 seasons; finale to air in 2027",
-      "Did Diljit Dosanjh take a jibe at CJP for past comments? - WATCH",
-      "Michael Douglas on struggle to shake off ‘TV star' image",
-      "‘Cult’ BO collection day 1: Vishwak Sen’s film opens at Rs 1.30 crore worldwide",
-      "Michael Douglas reveals Catherine Zeta-Jones’ ultimatum about affairs before accepting actor's proposal",
-      "Sara Ali Khan's net worth grows from Rs 13 crore to Rs 41 crore",
-      "'King' UPDATE: First song to release on Shah Rukh Khan's birthday",
-      "Akshay Oberoi on working with Siddharth Anand in 'King'",
-      "Shah Rukh Khan's King sells overseas rights for  ₹175 crore, highest in Indian cinema history; film needs to out-earn Pathaan, Jawan to break even"
-     ],
-     "updated": [],
-     "count": 296,
-     "detail": "301 stories, 0 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-10-31T05:51:39Z",
     "run_id": "41174175811",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "251 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-10-31T04:52:00Z",
-    "run_id": "41170179272",
+    "run_at": "2026-11-01T04:50:57Z",
+    "run_id": "41274623775",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 240,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
-      "Udta Teer Enters Second Week with Solid Momentum at the Box Office"
+      "Amy Yasbeck says she talks to her late husband, John Ritter, two decades after his passing",
+      "Jack Lowden out of James Bond race?",
+      "'Scene' vs 'OM: Chapter 1': Suriya thanks Dhanush for avoiding clash",
+      "Sandra Bullock shares throwback Halloween photos online",
+      "Yash takes a break from 'Ramayana' promos for Disneyland date with kids",
+      "Diljit Dosanjh wanted to hold concert in Bihar, says he was asked to take responsibility for crowd management",
+      "You only live once: Why Ajay Bijli returned to his first love, music!",
+      "Divya Dutta lauds Gajab Raat co-star Manoj Bajpayee for treating newcomers as equals, says working with him leaves one spoiled | HT Exclusive",
+      "Netflix's Ruchikaa Kapoor Sheikh says film reviews matter but are no longer a measure of a film's success | Interview",
+      "The Greatest Western of the 2010s Is a Remake That Totally Outshines the Original",
+      "The 10 Best Alternative Rock Songs of the ‘90s, Ranked",
+      "7 Greatest ‘Peanuts’ Comic Strips of the 1990s, Ranked",
+      "Prime Video's New 8-Episode Sci-Fi Series Continues a Modern Masterpiece",
+      "10 Essential Dystopian Movies, Ranked",
+      "The 10 Best HBO TV Miniseries Based on Books, Ranked",
+      "Netflix's 18-Episode Series Redefined Video Game Adaptations",
+      "9 Essential Adult Animated Shows That Belong on Every Fan's Bucket List",
+      "David Tennant's 6 Best Crime Thriller Series, Ranked",
+      "10 Greatest Characters In Indiana Jones Movies, Ranked",
+      "HBO's 23-Part Masterpiece Is Hands Down Fantasy's Best Live-Action Adaptation"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 221,
+     "detail": "240 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1430,27 +1409,30 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-01T04:51:11Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
+      "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-10-31T06:52:31Z",
-    "run_id": "41178216560",
-    "status": "success",
-    "checked": {
-     "candidates": 120,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 116, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1864,30 +1846,27 @@
      "detail": "now 160, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-01T04:51:11Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": {
+     "candidates": 165,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 160, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-10-31T04:57:12Z",
-    "run_id": "41170179272",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "xl6qwm",
-      "1fot0a7",
-      "1gvtjck"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2301,27 +2280,28 @@
      "count": 0
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-01T04:57:01Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1wys4gi"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-31T04:57:10Z",
-    "run_id": "41170179272",
-    "status": "success",
-    "checked": {
-     "candidates": 327,
-     "detail": "326 collected staging rows from readers; 109 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 8,
-     "detail": "+2 new rows, 6 updated rows, 318 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2735,19 +2715,27 @@
      "detail": "+0 new rows, 3 updated rows, 326 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-01T04:56:59Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": {
+     "candidates": 334,
+     "detail": "333 collected staging rows from readers; 114 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 new rows, 4 updated rows, 325 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3050,30 +3038,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-10-31T04:57:12Z",
-    "run_id": "41170179272",
-    "status": "success",
-    "checked": {
-     "candidates": 80,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
-      "Udta Teer Enters Second Week with Solid Momentum at the Box Office"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 80 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3757,19 +3734,30 @@
      "detail": "api-news.json 322 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-01T04:57:01Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": {
+     "candidates": 324,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
+      "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 324 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -4056,19 +4044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4443,29 +4431,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-10-31T04:52:00Z",
-    "run_id": "41170179272",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 296 still unprocessed; today by category: movies 3/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 2/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan's King Sells Overseas Rights For Rs 175 Crore, Reaching Record High in Indian Cinema",
-      "Udta Teer Enters Second Week with Solid Momentum at the Box Office"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4913,19 +4891,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-01T04:51:11Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 221 still unprocessed; today by category: movies 2/6, tv_dramas 1/4, episodes 1/2, box_office 3/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
+      "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5182,24 +5170,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 190,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5524,24 +5507,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 22,
+     "count": 195,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5881,19 +5864,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 17,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6143,19 +6131,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6390,19 +6378,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6646,19 +6634,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6899,19 +6887,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7141,19 +7129,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-10-31T04:57:21Z",
-    "run_id": "41170179272",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7406,6 +7394,16 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-01T04:57:09Z",
+    "run_id": "41274623775",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7467,5 +7465,5 @@
    }
   ]
  },
- "updated_at": "2026-11-01T03:52:16Z"
+ "updated_at": "2026-11-01T04:57:09Z"
 }

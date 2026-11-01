@@ -28883,5 +28883,200 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 09:10:11 +0530"
+  },
+  "1aq72iv": {
+    "id": "1aq72iv",
+    "type": "news",
+    "headline": "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
+    "dek": "Michael C. Hall reprises his iconic role as the troubled forensic expert in the gripping opening episode of Dexter: Resurrection Season 2, now streaming.",
+    "body": [
+      {
+        "h": "Introduction to Season 2",
+        "p": [
+          "The popular crime thriller spinoff Dexter: Resurrection has officially returned with its second season, bringing Michael C. Hall back as the complex serial killer-hunting forensic pathologist. The premiere episode is currently available for streaming on Amazon Prime Video, carrying a runtime of 52 minutes and offering a fresh batch of thrilling conflicts.",
+          "Created by Clyde Phillips, the series picks up the narrative threads from Dexter and Dexter: New Blood. This latest chapter transports the action to the bustling streets of New York City, where the titular character attempts to balance his dark extrajudicial activities with the challenges of everyday life in a new environment."
+        ]
+      },
+      {
+        "h": "Dexter's New Reality in New York",
+        "p": [
+          "In this installment, Dexter Morgan is navigating a distinct midlife crisis as he reaches the age of 50. To blend into the metropolis, he works as a rideshare driver for UrCar while continuing to target dangerous criminals who have managed to slip through the cracks of the formal legal system.",
+          "His internal struggles are further complicated by lingering grief over the death of his old colleague Angel Batista from the previous season. Meanwhile, his internal conscience is continuously voiced by his late adoptive father, Harry, guiding him through increasingly emotional and impulsive decisions."
+        ]
+      },
+      {
+        "h": "Father and Son Dynamics",
+        "p": [
+          "A central emotional pillar of the series remains Dexter's relationship with his son, Harrison, played by Jack Alcott. After years of distance and neglect, Dexter is actively striving to mend their bond and rebuild a stable connection as a father.",
+          "Harrison has achieved significant milestones of his own, standing on the verge of graduating from the police academy to become an official New York City officer. This career path creates an intriguing layer of dramatic irony and tension, given Dexter's ongoing nocturnal activities."
+        ]
+      },
+      {
+        "h": "Formidable New Adversaries",
+        "p": [
+          "The premiere episode, titled Risky Business and penned by writer Phillips Scott Reynolds, wastes no time establishing high-stakes opposition for the protagonist. Guest stars Dan Stevens and Brian Cox join the cast as dangerous new threats known respectively as the Five Borough Killer and the New York Ripper.",
+          "In addition to these major villains, the narrative features returning faces and parallel investigative angles. Characters portrayed by Desmond Harrington, Kadia Saraf, and Dominic Fumusa depict the local police force actively pursuing these brutal criminals across the city."
+        ]
+      },
+      {
+        "h": "An Aging Killer Seeking Recognition",
+        "p": [
+          "As Dexter advances in age, cracks begin to show in his formerly meticulous methods, leading him to make uncharacteristic mistakes under pressure. Beyond physical fatigue, the character experiences a psychological shift regarding his legacy and the secrecy of his vigilantism.",
+          "For the first time, he confesses to his late father figure that he has been killing for over half his life without receiving any acknowledgment. This inner turmoil suggests a subtle desire for credit and validation, morphing his secretive code into something resembling wounded pride."
+        ]
+      },
+      {
+        "h": "Production and Release Schedule",
+        "p": [
+          "The creative direction and writing maintain the sharp, morally gray tone that fans of the franchise have come to expect. Performances from Michael C. Hall, Jack Alcott, and James Remar anchor the emotional stakes of the sprawling narrative.",
+          "The current season is structured as a ten-part installment, with new episodes scheduled to drop every Saturday leading up to January 2, 2027, keeping viewers engaged in the ongoing cat-and-mouse dynamics."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dexter: Resurrection Season 2 has officially premiered on Amazon Prime Video with an opening episode directed at exploring an aging Dexter Morgan in New York City. The series continues to blend family drama with high-stakes crime as Dexter confronts new adversaries while grappling with his son's police career and his own desire for recognition."
+        ]
+      }
+    ],
+    "facts": [
+      "Dexter Resurrection Season 2 Episode 1 was released on October 31, 2026.",
+      "The episode has a duration of 52 minutes.",
+      "The series is streaming on Amazon Prime Video.",
+      "Michael C. Hall stars as Dexter Morgan.",
+      "Jack Alcott plays Harrison.",
+      "James Remar plays Harry.",
+      "Dan Stevens plays the Five Borough Killer.",
+      "Brian Cox plays the New York Ripper."
+    ],
+    "entities": {
+      "people": [
+        "Michael C. Hall",
+        "Clyde Phillips",
+        "Jack Alcott",
+        "David Zayas",
+        "James Remar",
+        "Phillips Scott Reynolds",
+        "Dan Stevens",
+        "Brian Cox",
+        "Desmond Harrington",
+        "Kadia Saraf",
+        "Dominic Fumusa",
+        "Eric Stonestreet",
+        "Uma Thurman",
+        "Peter Dinklage",
+        "Neil Patrick Harris",
+        "Krysten Ritter"
+      ],
+      "titles": [
+        "Dexter Resurrection",
+        "Dexter",
+        "Dexter New Blood",
+        "Risky Business"
+      ]
+    },
+    "keywords": [
+      "Dexter Resurrection Season 2",
+      "Michael C Hall Dexter Resurrection",
+      "Dexter Resurrection episode 1 review",
+      "Dexter Resurrection Amazon Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156443157,thumbsize-1073299,width-1280,height-720,resizemode-75/156443157.jpg",
+        "caption": "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T04:51:11Z"
+  },
+  "zpd33r": {
+    "id": "zpd33r",
+    "type": "news",
+    "headline": "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar",
+    "dek": "Host Salman Khan returned to Weekend Ka Vaar for Bigg Boss 20, confronting ScoutOP over his loyalty, criticizing Kaashvi Hiranandani's remark against Love Gill, and schooling Mahhi Vij, Gullu, and others.",
+    "body": [
+      {
+        "h": "Return Of The Host And High Tensions",
+        "p": [
+          "The latest Weekend Ka Vaar episode of Bigg Boss 20 brought host Salman Khan back to the television screen following a one-week break. Anticipation among viewers had been high all week, particularly because ScoutOP's girlfriend, Kaashvi Hiranandani, had made an appearance on the previous week's episode. When the host finally stepped onto the stage, the atmosphere inside the house was charged with high tension as several controversies from the past few days waited to be addressed.",
+          "Salman immediately took charge of the situation, focusing heavily on relationship dynamics and personal accountability. He delivered relationship advice to the housemates, stating that if any partner wishes to walk away from a relationship, they should be permitted to leave. Furthermore, he emphasized that no third party holds the power to break a bond, sharing his own perspective on how he would have handled similar circumstances maturely while firmly supporting his friendships."
+        ]
+      },
+      {
+        "h": "Confrontation With ScoutOP",
+        "p": [
+          "The spotlight quickly turned toward ScoutOP, whom Salman confronted directly regarding his behavior and lack of support for Love Gill. The superstar stated that the gamer had proved loyalty meant nothing to him over the past week. Salman pointed out that Scout failed to defend the person he called a sister in front of his girlfriend, did not answer her questions, and neglected to stand beside her when she needed support.",
+          "When Scout attempted to defend his actions, Salman interrupted him, noting that he had even nominated his sisterly figure with a strange reason. The host also questioned Scout's nervous demeanor during Kaashvi's previous visit, asking why he did not appear happy. Scout tried to explain that he had felt panicked and mentioned that Rohit sir had spoken, but the explanation did little to appease the host."
+        ]
+      },
+      {
+        "h": "Addressing Kaashvi Hiranandani's Remark",
+        "p": [
+          "Salman shifted his focus to the controversial remark made by Kaashvi Hiranandani against Love Gill. Expressing clear support for Love, the superstar criticized Kaashvi's comments and questioned whether Scout was simply a gullible child easily manipulated by outside forces. He reminded the gamer that the person targeted was someone he called his sister.",
+          "Additionally, Salman asked Scout to be honest about his feelings and questioned if his primary goal was merely saving his relationship with Kaashvi. He informed the housemates that the internet personality had since apologized for her remarks about Love. However, the host also turned his attention to Love, questioning why she compromised her self-respect while patching things up and failing to stand up for herself initially."
+        ]
+      },
+      {
+        "h": "Love Gill Speaks Out",
+        "p": [
+          "Given the opportunity to speak, Love Gill directly addressed Kaashvi Hiranandani's remarks. The Punjabi actress stated that Kaashvi should not have spoken about her since they did not share any personal bond.",
+          "Love argued that the entire matter strictly concerned Scout and his girlfriend, asserting that dragging her into the dispute was entirely unwarranted."
+        ]
+      },
+      {
+        "h": "Reality Checks For Other Housemates",
+        "p": [
+          "The Weekend Ka Vaar episode did not stop at Scout and Love, as several other contestants also received reality checks from the host. Salman called out Amrapali Dubey, informing her that the other housemates were taking her for granted because of her own submissive behavior in treating herself as someone who deserved such treatment.",
+          "The host also addressed a physical altercation that had occurred between Gullu and Yung. He slammed Gullu for getting involved in yet another violent clash inside the house, advising him that such incidents were unacceptable. Meanwhile, Mahi Vij received criticism regarding her gameplay, with Salman pointing out that her overall performance in the house had fallen short of expectations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan returned to host the Bigg Boss 20 Weekend Ka Vaar episode on October 31, 2026, where he confronted ScoutOP over his lack of loyalty toward Love Gill. He also slammed Kaashvi Hiranandani's remarks against Love and gave reality checks to contestants including Amrapali Dubey, Gullu, Yung, and Mahhi Vij."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode aired as part of Bigg Boss 20 Weekend Ka Vaar on October 31, 2026.",
+      "Salman Khan hosted the episode after returning from a one-week break.",
+      "Kaashvi Hiranandani is ScoutOP's girlfriend who appeared on the previous week's episode.",
+      "Love Gill is a Punjabi actress inside the Bigg Boss 20 house."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "ScoutOP",
+        "Kaashvi Hiranandani",
+        "Love Gill",
+        "Mahhi Vij",
+        "Gullu",
+        "Tanmay",
+        "Amrapali Dubey",
+        "Yung",
+        "Kanika",
+        "Rohit",
+        "Simran Khan"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Weekend Ka Vaar"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Weekend Ka Vaar",
+      "Salman Khan ScoutOP Love Gill",
+      "Kaashvi Hiranandani Bigg Boss",
+      "Bigg Boss 20 Oct 31 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156443167,thumbsize-485816,width-1280,height-720,resizemode-75/156443167.jpg",
+        "caption": "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-01T04:51:11Z"
   }
 };
