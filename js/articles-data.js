@@ -29078,5 +29078,202 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T04:51:11Z"
+  },
+  "184h51d": {
+    "id": "184h51d",
+    "type": "news",
+    "headline": "Wicker Approaches Black Bear Box Office Milestone in North America",
+    "dek": "Starring Olivia Colman, the adult comedy is poised to surpass Jason Statham’s Shelter as Black Bear’s highest-grossing domestic release.",
+    "body": [
+      {
+        "h": "Box Office Performance",
+        "p": [
+          "The adult comedy Wicker is currently outperforming many previous releases from Black Bear that featured prominent Hollywood stars. Industry tracking indicates that the film is on track to surpass the domestic haul of Jason Statham's Shelter, establishing itself as the studio's biggest hit at the North American box office in the year 2026.",
+          "Due to its strong commercial traction, the feature has also secured a significant expansion in screen time across North America."
+        ]
+      },
+      {
+        "h": "Crossing the Ten Million Mark",
+        "p": [
+          "Headlined by Olivia Colman, the movie has successfully crossed the $10 million threshold at the North American box office, reaching a total of $10.6 million according to Box Office Mojo data.",
+          "The theatrical footprint for the feature expanded substantially, growing from 1,471 theaters to 2,374 locations across the region."
+        ]
+      },
+      {
+        "h": "Second Friday Record",
+        "p": [
+          "On its second Friday, the film brought in $1.4 million at the North American box office. This figure marked a modest decline of just 39.6% compared to its opening Friday earnings.",
+          "Industry records confirm this performance stands as the biggest second Friday ever recorded in the history of the Black Bear studio."
+        ]
+      },
+      {
+        "h": "Weekend Projections and Shelter Comparison",
+        "p": [
+          "Current industry estimates project that the feature will earn between $3.5 million and $4.5 million over the three-day weekend in North American cinemas.",
+          "For context, Shelter was released earlier in the year and finished its domestic run with a gross of $12.8 million. The current trajectory places Wicker firmly on course to exceed that number."
+        ]
+      },
+      {
+        "h": "Studio Profitability",
+        "p": [
+          "This milestone cements Wicker as Black Bear's biggest domestic success and represents the studio's first major hit at the North American box office. Data regarding the film's overseas collections remains unavailable.",
+          "The studio acquired the North American rights for the film at a modest cost of $2.5 million, rendering the venture highly profitable."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "Directed by Alex Huston Fischer and Eleanor Wilson, the story follows an ostracized fisherwoman who hires a local basketmaker to weave a husband for her.",
+          "When her wicker creation turns out to be unexpectedly extraordinary, his sudden arrival generates jealousy and turmoil that threatens the peace of their quiet village."
+        ]
+      },
+      {
+        "h": "Cast and Release Details",
+        "p": [
+          "The movie features a notable ensemble cast including Olivia Colman, Alexander Skarsgård, Elizabeth Debicki, Marli Siu, Nabhaan Rizwan, Richard E. Grant, and Peter Dinklage in key roles.",
+          "Wicker was officially released to audiences on October 23."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Wicker is on track to surpass Jason Statham's Shelter to become Black Bear's highest-grossing domestic release, having crossed the $10.6 million mark in North America. Directed by Alex Huston Fischer and Eleanor Wilson and starring Olivia Colman, the profitable acquisition is achieving record-breaking second-weekend numbers for the studio."
+        ]
+      }
+    ],
+    "facts": [
+      "Wicker stars Olivia Colman, Alexander Skarsgård, Elizabeth Debicki, Marli Siu, Nabhaan Rizwan, Richard E. Grant, and Peter Dinklage",
+      "The film is directed by Alex Huston Fischer and Eleanor Wilson",
+      "Wicker was released on October 23",
+      "The domestic box office total has reached $10.6 million",
+      "The second Friday collection was $1.4 million",
+      "Theater count expanded from 1,471 to 2,374",
+      "Black Bear paid $2.5 million for North American rights",
+      "Jason Statham's Shelter grossed $12.8 million domestically"
+    ],
+    "entities": {
+      "people": [
+        "Olivia Colman",
+        "Jason Statham",
+        "Alex Huston Fischer",
+        "Eleanor Wilson",
+        "Alexander Skarsgård",
+        "Elizabeth Debicki",
+        "Marli Siu",
+        "Nabhaan Rizwan",
+        "Richard E. Grant",
+        "Peter Dinklage"
+      ],
+      "titles": [
+        "Wicker",
+        "Shelter"
+      ]
+    },
+    "keywords": [
+      "Wicker box office",
+      "Olivia Colman Wicker",
+      "Black Bear domestic release",
+      "Shelter Jason Statham"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/wicker-north-america-box-office-set-to-outgross-jason-stathams-shelter-becomes-black-bears-biggest-domestic-release-01.jpg",
+        "caption": "Wicker Approaches Black Bear Box Office Milestone in North America",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 05:45:13 +0000"
+  },
+  "v87b55": {
+    "id": "v87b55",
+    "type": "news",
+    "headline": "Shah Rukh Khan Consulted Aditya Chopra Before Shifting King Overseas Rights",
+    "dek": "Before moving the international distribution of his upcoming movie King to Phars Films, superstar Shah Rukh Khan personally reached out to Yash Raj Films head Aditya Chopra to maintain their decades-long bond.",
+    "body": [
+      {
+        "h": "A Personal Phone Call Between Industry Titans",
+        "p": [
+          "Major changes have been unfolding behind the scenes of the highly anticipated film King, notably concerning its international distribution strategy. Reports surfaced indicating that Phars Films successfully secured the overseas rights to handle the project in foreign markets. Originally, however, Yash Raj Films was slated to take on this international distribution responsibility.",
+          "Rather than letting business formalities create distance, Shah Rukh Khan chose to have a direct, personal conversation with YRF head honcho Aditya Chopra. Sources close to the superstar's team revealed that he specifically wanted to explain the shifting circumstances and ensure there was complete clarity and mutual respect between the longtime collaborators before finalizing any alternative agreements."
+        ]
+      },
+      {
+        "h": "Deep Historical Ties With Yash Raj Films",
+        "p": [
+          "The decision to make that personal call stems from a rich history shared between Shah Rukh Khan and the Chopra family. The actor famously starred in Aditya Chopra’s directorial debut, Dilwale Dulhania Le Jayenge, which premiered in 1995 and became a historic cinematic blockbuster that famously continues its legendary theatrical run at Mumbai’s Maratha Mandir.",
+          "Beyond his immense success working alongside Aditya Chopra, the actor also shared a profoundly warm and wonderful personal bond with Aditya's late father, the legendary filmmaker Yash Chopra. Having anchored several memorable productions under the YRF banner over the decades, Khan felt it was imperative to discuss the distribution shift personally rather than through intermediaries."
+        ]
+      },
+      {
+        "h": "Aditya Chopra's Graceful Blessing",
+        "p": [
+          "The conversation between the two industry heavyweights concluded on an entirely positive and supportive note. Upon hearing the rationale behind the adjustment, Aditya Chopra immediately grasped the perspective of his longtime lead star and readily agreed to part ways with the international distribution responsibilities for the project.",
+          "Demonstrating their enduring camaraderie, Chopra extended his warm wishes to the actor for the venture. He even shared that he was genuinely looking forward to watching the finished feature when it arrives in cinemas during the Christmas season."
+        ]
+      },
+      {
+        "h": "Shifts in the Musical Landscape",
+        "p": [
+          "The distribution update arrives alongside other notable behind-the-scenes adjustments for the feature. Musician Anirudh Ravichander previously parted ways with the production due to an overwhelmingly packed professional schedule, though he handed over his crafted theme track to the lead star as a gesture of respect before stepping down.",
+          "To build upon that foundation, the talented composer duo Sachin-Jigar stepped in to reimagine the theme and utilize it as the core framework for the project's background score. Meanwhile, T-Series locked in the exclusive global commercial music rights for a duration of 50 years through an arrangement facilitated via Red Chillies Entertainment and Zee Music Company."
+        ]
+      },
+      {
+        "h": "A Star-Studded Cast and Birthday Surprises",
+        "p": [
+          "Beyond the core team behind the camera, the upcoming film boasts an expansive and celebrated ensemble cast. Alongside Shah Rukh Khan, the production features prominent names such as Deepika Padukone, Rani Mukerji, Abhishek Bachchan, Jaideep Ahlawat, and Anil Kapoor among others.",
+          "Excitement among fans continues to reach a fever pitch with promotional assets lined up for release. An exciting promotional asset is slated to debut on November 2, perfectly coinciding with Shah Rukh Khan’s 61st birthday celebration."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan personally contacted Aditya Chopra to discuss transferring the international distribution rights of his upcoming film King to Phars Films. The YRF head willingly agreed and gave his blessings, maintaining their decades-long relationship originating from Dilwale Dulhania Le Jayenge. Alongside these distribution shifts, the project has seen musical updates involving Anirudh Ravichander, Sachin-Jigar, and T-Series ahead of its promotional rollouts."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan starred in Aditya Chopra's 1995 directorial debut Dilwale Dulhania Le Jayenge.",
+      "Dilwale Dulhania Le Jayenge continues to run at Mumbai’s Maratha Mandir.",
+      "Phars Films acquired the international distribution rights for King.",
+      "Yash Raj Films was originally supposed to distribute King in international markets.",
+      "Anirudh Ravichander parted ways with King due to a packed schedule and handed over the theme track.",
+      "Sachin-Jigar will reimagine the theme track for the background score.",
+      "T-Series secured exclusive global commercial music rights for King for 50 years.",
+      "King stars Shah Rukh Khan, Deepika Padukone, Rani Mukerji, Abhishek Bachchan, Jaideep Ahlawat, and Anil Kapoor.",
+      "A promotional asset is expected on November 2, coinciding with Shah Rukh Khan's 61st birthday."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Aditya Chopra",
+        "Yash Chopra",
+        "Anirudh Ravichander",
+        "Sachin-Jigar",
+        "Deepika Padukone",
+        "Rani Mukerji",
+        "Abhishek Bachchan",
+        "Jaideep Ahlawat",
+        "Anil Kapoor"
+      ],
+      "titles": [
+        "King",
+        "Dilwale Dulhania Le Jayenge"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "Phars Films King overseas distribution",
+      "Aditya Chopra Yash Raj Films",
+      "King movie music T-Series"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/SCOOP-Shah-Rukh.jpeg",
+        "caption": "Shah Rukh Khan Consulted Aditya Chopra Before Shifting King Overseas Rights",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 10:35:32 +0200"
   }
 };
