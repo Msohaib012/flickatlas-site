@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-01T19:56:58Z",
+  "generated": "2026-11-01T20:57:54Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
     "users": 0,
@@ -11,10 +11,10 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 139,
-    "pageviews": 908,
-    "sessions": 224,
-    "avg_session_seconds": 360.2
+    "users": 141,
+    "pageviews": 910,
+    "sessions": 227,
+    "avg_session_seconds": 362.3
   },
   "top_pages": [
     {
@@ -33,7 +33,7 @@
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 65,
-      "avg_time_seconds": 76.7
+      "avg_time_seconds": 114.2
     },
     {
       "path": "/news-item",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 167,
+      "sessions": 168,
       "users": 105
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 55,
-      "users": 34
+      "sessions": 57,
+      "users": 36
     },
     {
       "source": "(not set)",
@@ -105,7 +105,7 @@
     },
     {
       "country": "India",
-      "users": 27
+      "users": 28
     },
     {
       "country": "(not set)",
@@ -147,7 +147,7 @@
     },
     {
       "device": "mobile",
-      "users": 47
+      "users": 49
     },
     {
       "device": "tablet",
