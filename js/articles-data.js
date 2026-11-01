@@ -27993,5 +27993,243 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-10-31T17:58:55+05:30"
+  },
+  "180qnq9": {
+    "id": "180qnq9",
+    "type": "news",
+    "headline": "IIFA Awards 2026: Dhurandhar Dominates With 12 Wins While Ranveer Singh and Aneet Padda Grab Top Acting Honors",
+    "dek": "The International Indian Film Academy revealed the winners for its 26th edition ahead of the upcoming live gala in Abu Dhabi, with Aditya Dhar's spy thriller sweeping multiple categories.",
+    "body": [
+      {
+        "h": "Digital Announcement of the 26th IIFA Winners",
+        "p": [
+          "The International Indian Film Academy published the complete winners list for its 26th edition through its official social media channels. Organizers chose to disclose the triumphant films, performers, and technical creators ahead of the physical celebrations.",
+          "This digital reveal granted cinema enthusiasts an early glimpse into which projects captured audience and jury favor throughout the entertainment calendar."
+        ]
+      },
+      {
+        "h": "Dhurandhar Secures a Record-Breaking 12 Trophies",
+        "p": [
+          "Aditya Dhar's espionage action feature emerged as the undisputed titan of the evening, securing a massive total of 12 awards spanning popular, creative, and technical domains.",
+          "The project triumphed in categories such as Best Film, Best Director for Aditya Dhar, and Best Original Story, reflecting its overarching dominance across the board."
+        ]
+      },
+      {
+        "h": "Ranveer Singh and Aneet Padda Earn Top Acting Prizes",
+        "p": [
+          "The leading acting accolades went to prominent stars for their acclaimed performances in major theatrical releases. Ranveer Singh secured the trophy for Best Actor in a Leading Role.",
+          "Meanwhile, Aneet Padda triumphed in the Best Actress category for her widely discussed work in a major romantic drama released earlier in the theatrical cycle."
+        ]
+      },
+      {
+        "h": "Saiyaara Shines Bright Across Musical and Romantic Categories",
+        "p": [
+          "Mohit Suri's directorial venture made waves by capturing multiple major music and performance honours. The romantic drama resonated deeply with audiences through its emotional core and commercial triumph.",
+          "Playback singers and lyricists associated with the project were duly recognized for crafting some of the most memorable tracks of the year."
+        ]
+      },
+      {
+        "h": "Streaming Projects Lead the Digital Awards Segment",
+        "p": [
+          "The digital categories celebrated outstanding work originating from various streaming platforms and web series formats. High-profile productions took home top honours for web series and digital feature films.",
+          "Creators and actors working within the digital ecosystem received recognition for expanding the scope of contemporary storytelling."
+        ]
+      },
+      {
+        "h": "Upcoming Live Ceremony and Broadcast Details",
+        "p": [
+          "While winners were unveiled online, the physical celebration is slated to take place at the Etihad Arena located on Yas Island in Abu Dhabi. The main gala and digital awards events will unfold across consecutive dates.",
+          "Global fans will be able to stream the main festivities live via YouTube, while regional television broadcasts will cater to audiences within India through official partnerships."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The International Indian Film Academy announced the winners for its 26th edition digitally, with Aditya Dhar's Dhurandhar leading the pack by securing 12 trophies. Major acting honours went to Ranveer Singh and Aneet Padda, while physical ceremonies are planned for Abu Dhabi."
+        ]
+      }
+    ],
+    "facts": [
+      "The International Indian Film Academy announced winners of its 26th edition on Friday, October 30, 2026.",
+      "Aditya Dhar's spy action drama Dhurandhar won 12 awards.",
+      "The main IIFA Awards ceremony is scheduled for January 23, 2027, at Etihad Arena in Abu Dhabi.",
+      "Dhurandhar was released in theatres on December 5, 2025.",
+      "Saiyaara released in theatres on July 18, 2025."
+    ],
+    "entities": {
+      "people": [
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Aneet Padda",
+        "Aryan Khan",
+        "Sanjay Dutt",
+        "Akshaye Khanna",
+        "Shashwat Sachdev",
+        "Vikash Nowlakha",
+        "Shivkumar V. Panicker",
+        "Bishwadeep Chatterjee",
+        "Hamza Ali Mazari",
+        "Jaskirat Singh Rangi",
+        "Mohit Suri",
+        "Vaani Batra",
+        "Krish Kapoor",
+        "Ahaan Panday",
+        "Irshad Kamil",
+        "Faheem Abdullah",
+        "Shreya Ghoshal",
+        "A.R. Rahman",
+        "Alok De",
+        "Bosco Leslie Martis",
+        "Karan Tejpal",
+        "Abhishek Banerjee",
+        "Sanya Malhotra",
+        "Avinash Tiwary",
+        "Monika Panwar",
+        "Jaideep Ahlawat",
+        "Tillotama Shome",
+        "Raghav Juyal",
+        "Anya Singh",
+        "Rasha Thadani",
+        "Karan Johar",
+        "Varun Dhawan",
+        "Maniesh Paul",
+        "Ananya Panday",
+        "Salman Khan",
+        "Kareena Kapoor Khan",
+        "Shahid Kapoor",
+        "Janhvi Kapoor",
+        "Rashmika Mandanna",
+        "Nora Fatehi",
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "Himesh Reshammiya",
+        "Sunidhi Chauhan"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Saiyaara",
+        "The Ba ds of Bollywood",
+        "Chhaava",
+        "Aavan Jaavan",
+        "Baramulla",
+        "Stolen",
+        "Mrs",
+        "The Mehta Boys",
+        "Nishaanchi 2",
+        "Paatal Lok 2",
+        "Azaad"
+      ]
+    },
+    "keywords": [
+      "IIFA Awards 2026 winners",
+      "Dhurandhar 12 awards",
+      "Ranveer Singh Best Actor",
+      "Aneet Padda Saiyaara"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/10/image-43-2.webp",
+        "caption": "IIFA Awards 2026: Dhurandhar Dominates With 12 Wins While Ranveer Singh and Aneet Padda Grab Top Acting Honors",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Sat, 31 Oct 2026 23:43:17 +0000"
+  },
+  "tjslc9": {
+    "id": "tjslc9",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Sets Record for Overseas Theatrical Rights",
+    "dek": "Shah Rukh Khan's upcoming movie King has created history by securing a massive Rs 175 crore overseas theatrical rights deal.",
+    "body": [
+      {
+        "h": "Record-Breaking Overseas Deal",
+        "p": [
+          "The upcoming film King, starring Shah Rukh Khan, has achieved a historic milestone by selling its international theatrical distribution rights for a staggering Rs 175 crore. This transaction establishes a brand new benchmark for Indian cinema regarding foreign territory business.",
+          "The acquisition was finalized by Phars Films, reflecting immense financial confidence from international distributors ahead of the movie's theatrical premiere."
+        ]
+      },
+      {
+        "h": "Break-Even Targets and International Expectations",
+        "p": [
+          "Industry trade calculations indicate that for distributors to recover their investment, the Christmas release will need to accumulate between $37 million and $40 million internationally. Based on standard acquisition multipliers, the film is expected to generate at least Rs 350 crore in foreign territories alone.",
+          "To achieve these targets, the action feature must surpass the international gross earnings achieved by previous blockbusters like Pathaan and Jawan. For comparison, Dhurandhar 2 reached an impressive figure of Rs 460 crore in overseas markets."
+        ]
+      },
+      {
+        "h": "Global Stardom and Overseas Legacy",
+        "p": [
+          "Shah Rukh Khan continues to reign as Bollywood's leading international star, building a massive global audience since the mid-1990s. Classic titles such as Dilwale Dulhania Le Jayenge captured the hearts of the Indian diaspora across the US, UK, Middle East, Canada, and Australia.",
+          "His widespread appeal extends to unique international territories like Germany, where local fans have famously queued up in numbers surpassing Hollywood celebrity turnouts. Khan has successfully topped the annual highest-grossing Hindi film overseas list a record 15 times throughout his career."
+        ]
+      },
+      {
+        "h": "Recent Box Office Momentum",
+        "p": [
+          "The actor's recent filmography highlights a phenomenal run at the global box office. Both Pathaan and Jawan individually grossed nearly $47 to $48 million abroad during their theatrical runs.",
+          "Additionally, the Rajkumar Hirani-directed film Dunki contributed further to this success, culminating in a landmark year for the star in 2023 with over $100 million in combined international earnings."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Schedule",
+        "p": [
+          "Directed by Siddharth Anand, the action movie is scheduled to hit theatres on December 24. The project features Shah Rukh Khan alongside his daughter Suhana Khan.",
+          "The extensive ensemble cast also includes prominent actors such as Deepika Padukone, Abhishek Bachchan, Rani Mukerji, Anil Kapoor, Jaideep Ahlawat, Abhay Verma, Arshad Warsi, and Raghav Juyal. The background score for the film is composed by Anirudh Ravichander."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming film King has set a new record for Indian cinema by selling its overseas theatrical rights for Rs 175 crore to Phars Films. The Siddharth Anand directorial, releasing on December 24, features an ensemble cast including Suhana Khan and faces high international expectations to surpass previous blockbusters."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's King sold its overseas theatrical rights for Rs 175 crore.",
+      "The film is scheduled to be released in theatres on December 24, 2026.",
+      "Phars Films bought the international theatrical rights.",
+      "The break-even target internationally is between $37-40 million, requiring about Rs 350 crore in foreign markets.",
+      "Pathaan and Jawan each grossed nearly $47-48 million abroad.",
+      "Shah Rukh Khan has topped the annual highest-grossing Hindi film overseas list a record 15 times.",
+      "The movie is directed by Siddharth Anand and features an ensemble cast including Suhana Khan, Deepika Padukone, Abhishek Bachchan, Rani Mukerji, Anil Kapoor, Jaideep Ahlawat, Abhay Verma, Arshad Warsi, and Raghav Juyal, with background music by Anirudh Ravichander."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suhana Khan",
+        "Rajkumar Hirani",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Anil Kapoor",
+        "Jaideep Ahlawat",
+        "Abhay Verma",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Anirudh Ravichander"
+      ],
+      "titles": [
+        "King",
+        "Jawan",
+        "Pathaan",
+        "Dilwale Dulhania Le Jayenge",
+        "Dunki",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "King overseas rights",
+      "Phars Films King",
+      "Siddharth Anand King"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/oct/shahrukhkhanskingsetsrecordforoverseastheatricalrightssoooooo1793448584.jpg",
+        "caption": "Shah Rukh Khan's King Sets Record for Overseas Theatrical Rights",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-10-31T18:03:02+05:30"
   }
 };

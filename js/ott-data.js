@@ -42,6 +42,14 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-12-01",
+      "date_kind": "digital",
+      "id": 1195803,
+      "providers": [],
+      "type": "movie"
     }
   ],
   "now": [
