@@ -31136,5 +31136,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 01 Nov 2026 13:30:18 GMT"
+  },
+  "xaqizs": {
+    "id": "xaqizs",
+    "type": "news",
+    "headline": "Khushi Episode 50 — Watch Online on HUM TV",
+    "dek": "Khushi episode 50 aired on 2026-11-01 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 50 aired on 2026-11-01 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=q6OSRHESerg"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Amna ke ghar wale aur uske parents uske na milne par bohot pareshan hain. Uske father aur baqi ghar wale usey dhoondhne nikalte hain. Jab unhein Amna ki koi khabar nahi milti toh woh police station mein report darj karate hain. Kuch der baad Amna ghar aa jati hai aur sabhi ko apne ghar aane ka sach batati hai. Yeh sunkar sabhi ko bohot ajeeb lagta hai aur woh thode hairan bhi hote hain.\n\nBaad mein, ek scene mein Khushi apni mother se baatein karti hai aur Amna ke bare mein baat hoti hai. Khushi ko lagta hai ki Amna ne apne ghar walon se jhuth bola hai taaki unka gussa khatam ho sake, lekin woh sochti hai ki Amna ne yeh sab kyun kiya. Episode ke aakhri hisse mein, Amna aur uske husband ke beech thodi baat-cheet hoti hai jahan Amna thaki hui hoti hai aur jaldi sona chahti hai, jabki uske husband ke sath uska rishtha thoda tense lagta hai. Episode yahi par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 50 aired on 2026-11-01.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=q6OSRHESerg",
+      "YouTube views: 169,203.",
+      "Episode summary added 2026-11-01."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/q6OSRHESerg/hqdefault.jpg",
+        "caption": "Khushi Episode 50",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-01T15:00:18Z"
+  },
+  "12kiqvx": {
+    "id": "12kiqvx",
+    "type": "news",
+    "headline": "Uswah Episode 40 — Watch Online on Geo TV",
+    "dek": "Uswah episode 40 aired on 2026-11-01 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 40 aired on 2026-11-01 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=kbsvMYFmgD0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Uswah apnay kamray mein namaz parh rahi hoti hai jab Eisa wahan aata hai aur usay rokne ki koshish karta hai, keh kar ke itni ibaadat ki kya zaroorat hai. Uswah kehti hai ke agar woh Eisa se door rehne ki baat karay to Eisa gussa ho jata hai aur kehta hai ke woh Eisa se door nahi ho sakti. Phir dosri taraf, Anaya aur uske shohar ke darmiyan baat hoti hai ke Uswah aur Mahbeer abhi bache hain aur unhe akele ghoomne diya gaya hai. Is doran, Eisa aur Faria ke darmiyan bhi behas hoti hai ke Faria Uswah ke khilaf baatein kyun karti hai. Aage chal kar, Eisa ki ammi aur Mahbeer ki ammi sab mil kar ek doosre ke ghar jaate hain jahan Uswah ki family unka istiqbaal karti hai aur gifts diye jaate hain. Uswah ki ammi sab ka khayal rakhti hain aur khane peene ka intezam karti hain. Akhir mein, episode us manzar par khatam hota hai jahan Mahbeer ki ammi aur Uswah ki family aapas mein baat cheet kar rahe hote hain aur sab khush nazar aate hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 40 aired on 2026-11-01.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=kbsvMYFmgD0",
+      "YouTube views: 472,720.",
+      "Episode summary added 2026-11-01."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/kbsvMYFmgD0/hqdefault.jpg",
+        "caption": "Uswah Episode 40",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-01T15:00:06Z"
+  },
+  "4441rt": {
+    "id": "4441rt",
+    "type": "news",
+    "headline": "Izzat Episode 43 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 43 aired on 2026-11-01 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 43 aired on 2026-11-01 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=OS1f2-HIdBE"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Rutba apne father ke paas baithi hai aur phone par Sameer ki taraf se maafi maangne waali recording sunti hai. Father ke samjhaane par Rutba maan jaati hai aur apni padhai par dhyaan dene ka faisla karti hai. Agle din naashte ke dauran sabhi log baithte hain aur wahan khabar aati hai ke protest ki wajah se shehar mein sadkein band hain aur mobile services bhi band hone wali hain, jisse Rutba ke paper par asar pad sakta hai. Sameer aur uske dost Rutba ko car mein paper dilane le jaate hain aur wahan pahunch kar Sameer ki madad se woh paper attend karti hai. Ghar par Rutba ki mother aur baki log pareshan hain, aur Shanze ke relatives bhi wahan aate hain jo Shanze aur Rayan ki shaadi ki baat karte hain. Shanze aur Rayan dono is rishte se khush hain. Episode ke aakhir mein shadi ki baatein chal rahi hain aur sabhi log is naye mod par aage badh rahe hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 43 aired on 2026-11-01.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=OS1f2-HIdBE",
+      "YouTube views: 3,105.",
+      "Episode summary added 2026-11-01."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/OS1f2-HIdBE/hqdefault.jpg",
+        "caption": "Izzat Episode 43",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-01T15:00:01Z"
+  },
+  "wccu71": {
+    "id": "wccu71",
+    "type": "news",
+    "headline": "Dastoor Episode 72 — Watch Online on Green TV",
+    "dek": "Dastoor episode 72 aired on 2026-11-01 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 72 aired on 2026-11-01 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=RII8n6sbQL4"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Shiza pareshan hai ke Aaliyan aur Aleena ki shaadi ki tayyari ki waja se Amara ka kya hoga. Mustafa usay kehta hai ke woh Amara ke paas jaye aur usay samjhayen. Shiza jab Amara se milti hai to Amara apni dukh bhari kahani sunati hai ke Aaliyan usay ab apna baap nahi lagta aur uski zindagi barbad ho gayi hai. Shiza aur uski ammi Amara ko sabar aur haqiqat ka samna karne ka mashwara deti hain. Zebu Nisa aur Salman Ahmed khush hain ke unka plan kamiyab ho gaya hai. \nDusri taraf, Mustafa jab apnay abba aur ghar walon ko batata hai ke Aaliyan aur Aleena ka rishta tay ho raha hai aur Amara ki shadi abhi baki hai, to sub hairan aur pareshan ho jatay hain kyunkay Amara abhi bhi Aaliyan ki biwi hai aur unka divorce nahi hua. Dadou aur baqi sab is faislay ke khilaf hain aur kehtay hain ke jab tak divorce nahi hota, yeh rishta sahi nahi hai. \nEpisode ke end mein Aleena mithai ka dabba lekar Shiza ke paas aati hai aur khushi se kehti hai ke uska Aaliyan ke sath rishta pakka ho gaya hai aur ab woh dono shaadi kar rahay hain, yeh sun kar Shiza hairan aur shock reh jati hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 72 aired on 2026-11-01.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=RII8n6sbQL4",
+      "YouTube views: 72,849.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-01."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/RII8n6sbQL4/hqdefault.jpg",
+        "caption": "Dastoor Episode 72",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-01T14:45:26Z"
+  },
+  "hjlfhk": {
+    "id": "hjlfhk",
+    "type": "news",
+    "headline": "Director Michael Mann Hospitalized After Accidental Gun Range Shooting",
+    "dek": "The acclaimed filmmaker behind Heat was treated for a superficial leg injury following an accidental discharge at a Los Angeles shooting range.",
+    "body": [
+      {
+        "h": "Incident at the Los Angeles Gun Range",
+        "p": [
+          "Renowned filmmaker Michael Mann experienced a medical emergency after accidentally discharging a firearm during a visit to a shooting facility in Los Angeles. The accident occurred around 4 p.m. on a Saturday at a venue known as the Range LA.",
+          "Emergency responders arrived promptly at the location, transporting the 83-year-old director to a medical facility via ambulance for evaluation and care."
+        ]
+      },
+      {
+        "h": "Details of the Accidental Discharge",
+        "p": [
+          "According to statements shared by law enforcement officials with media outlets, the incident took place while the victim was actively participating in firearm training exercises. The weapon discharged unexpectedly as the veteran director attempted to return it to its holster.",
+          "Insiders noted that the filmmaker has maintained a long-term hobby of target shooting, practicing the activity over the course of several decades."
+        ]
+      },
+      {
+        "h": "Condition and Medical Status",
+        "p": [
+          "Representatives for the director provided an update addressing public concern, characterizing the resulting wound as superficial in nature. Sources close to the production veteran indicated that he was expected to leave the medical center shortly after admission."
+        ]
+      },
+      {
+        "h": "About the Shooting Facility",
+        "p": [
+          "The venue where the incident occurred is a members-only establishment situated on the Westside of the city. Official club descriptions market the facility as an exclusive space tailored for serious enthusiasts, collectors, and beginners alike.",
+          "Membership costs at the private club are substantial, with annual dues spanning from $2,000 to $5,400."
+        ]
+      },
+      {
+        "h": "Directorial Career and Notable Works",
+        "p": [
+          "The injured filmmaker boasts an extensive catalog of acclaimed cinematic achievements spanning multiple decades. His prominent filmography includes the 1995 crime action project featuring Al Pacino, Robert De Niro, and Val Kilmer.",
+          "He further collaborated with Pacino on the 1999 thriller featuring Russell Crowe and Christopher Plummer, and later directed the 2004 thriller starring Tom Cruise and Jamie Foxx."
+        ]
+      },
+      {
+        "h": "Recent Projects and Future Films",
+        "p": [
+          "Recent creative endeavors include producing the 2003 drama featuring Adam Driver, Penélope Cruz, and Shailene Woodley. Attention has since turned toward upcoming cinematic ventures currently in development.",
+          "Current production efforts involve a planned sequel starring Leonardo DiCaprio and Christian Bale, with rumored production starts scheduled for January."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Michael Mann was hospitalized following an accidental self-inflicted gunshot wound to his leg at a Los Angeles shooting range. Representatives confirmed that the injury was superficial and that the director was expected to be released soon."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael Mann is 83 years old.",
+      "The incident occurred around 4 p.m. on a Saturday at the Range LA.",
+      "Annual memberships at the range cost between $2,000 and $5,400.",
+      "Heat was released in 1995.",
+      "The Insider was released in 1999.",
+      "Collateral was released in 2004.",
+      "Ferrari was produced in 2003."
+    ],
+    "entities": {
+      "people": [
+        "Michael Mann",
+        "Al Pacino",
+        "Robert De Niro",
+        "Val Kilmer",
+        "Russell Crowe",
+        "Christopher Plummer",
+        "Tom Cruise",
+        "Jamie Foxx",
+        "Adam Driver",
+        "Penélope Cruz",
+        "Shailene Woodley",
+        "Leonardo DiCaprio",
+        "Christian Bale"
+      ],
+      "titles": [
+        "Heat",
+        "The Insider",
+        "Collateral",
+        "Ferrari",
+        "Heat 2"
+      ]
+    },
+    "keywords": [
+      "Michael Mann gun range shooting",
+      "Heat director hospitalized",
+      "Michael Mann leg injury",
+      "The Range LA accident"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147204199.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Director Michael Mann Hospitalized After Accidental Gun Range Shooting",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 10:19:42 -0500"
+  },
+  "1qqcwh2": {
+    "id": "1qqcwh2",
+    "type": "news",
+    "headline": "Netflix Blockbuster Period Romance Wraps Production on Season 5",
+    "dek": "The hit streaming series based on Julia Quinn's novels has officially completed filming for its upcoming fifth installment, bringing fresh anticipation for fans worldwide.",
+    "body": [
+      {
+        "h": "Production Wrap Confirmed",
+        "p": [
+          "The popular period romance series on Netflix has officially concluded principal photography for its fifth season. Following months of work that kicked off in March, the cast and crew celebrated the milestone with a wrap party during the final week of October.",
+          "Updates regarding the completion of filming began circulating on social media through posts shared by various members of the production team. Netflix subsequently confirmed the development on its TUDUM platform."
+        ]
+      },
+      {
+        "h": "Focus of the Fifth Season",
+        "p": [
+          "Continuing the tradition of focusing on a different romantic pairing each season, the upcoming chapter will center on Francesca and Michaela. These characters are portrayed by actors Hannah Dodd and Masali Baduza, respectively.",
+          "Audiences are eagerly awaiting the release of this next installment, which follows a long line of successful romantic arcs exploring different members of the close-knit aristocratic family."
+        ]
+      },
+      {
+        "h": "Franchise Background and Timeline",
+        "p": [
+          "The television phenomenon is adapted from the bestselling series of novels written by Julia Quinn. The inaugural season premiered on Netflix in 2020 to positive reviews and massive viewer numbers, introducing viewers to Regency-era London.",
+          "Subsequent installments followed, with the second season debuting a year after the first. More recently, the fourth season aired its eight episodes split across two separate batches, mirroring the release strategy used for the third season in 2024. Additionally, a six-episode spin-off project titled Queen Charlotte: A Bridgerton Story debuted in 2026."
+        ]
+      },
+      {
+        "h": "Viewership Milestones and Streaming Records",
+        "p": [
+          "Over the years, the program has cemented its status as one of the most-watched English-language titles on the streaming platform. In fact, multiple runs have secured spots on the all-time top ten viewership charts.",
+          "The very first season currently holds the eighth position on the all-time chart, accumulating over 110 million views within its initial three months. Meanwhile, the third season secured the tenth position with 106 million views."
+        ]
+      },
+      {
+        "h": "Critical Reception and Rotten Tomatoes Scores",
+        "p": [
+          "In addition to commanding massive streaming numbers, the show has maintained a strong standing among critics and general audiences alike. On the review aggregator website Rotten Tomatoes, the entire series holds an overall approval rating of 83 percent.",
+          "Critical praise peaked during the run of the first and third seasons, both of which achieved individual ratings of 87 percent on the platform."
+        ]
+      },
+      {
+        "h": "Notable Alums and Career Launchpads",
+        "p": [
+          "The serialized romance has served as a major stepping stone for its ensemble cast, with several performers achieving significant career milestones following their time on the show. Renowned alumni from previous seasons include Phoebe Dynevor, Regé-Jean Page, Jonathan Bailey, Simone Ashley, and Nicola Coughlan.",
+          "Each season's format ensures that new talent takes center stage while maintaining the overarching family dynamic that attracted millions of viewers to the franchise from the beginning."
+        ]
+      },
+      {
+        "h": "Expected Release and Future Outlook",
+        "p": [
+          "With filming now officially wrapped, the fifth season is widely anticipated to arrive on the platform in 2027. Production timelines have consistently delivered new content for fans eager to see how subsequent love stories unfold.",
+          "As post-production gets underway, followers of the franchise continue to look for further announcements regarding exact premiere dates and promotional trailers from the streaming network."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production on the fifth season of Netflix's hit period romance series has officially wrapped following an eight-month filming schedule that began in March. The upcoming installment will center on the romance between Francesca and Michaela, building upon a franchise history that has already placed multiple seasons among the streamer's most-watched titles of all time."
+        ]
+      }
+    ],
+    "facts": [
+      "Production for season 5 began in March and wrapped in late October 2026.",
+      "Season 5 focuses on Francesca (Hannah Dodd) and Michaela (Masali Baduza).",
+      "Season 1 has over 110 million views in its first three months and ranks 8th on Netflix's all-time chart.",
+      "Season 3 ranks 10th on Netflix's all-time chart with 106 million views.",
+      "The overall Rotten Tomatoes score for the show is 83%, with seasons 1 and 3 peaking at 87%."
+    ],
+    "entities": {
+      "people": [
+        "Phoebe Dynevor",
+        "Regé-Jean Page",
+        "Jonathan Bailey",
+        "Simone Ashley",
+        "Nicola Coughlan",
+        "Julia Quinn",
+        "Hannah Dodd",
+        "Masali Baduza"
+      ],
+      "titles": [
+        "Bridgerton",
+        "Queen Charlotte: A Bridgerton Story"
+      ]
+    },
+    "keywords": [
+      "Bridgerton season 5 filming wrap",
+      "Bridgerton Netflix season 5",
+      "Hannah Dodd Masali Baduza Bridgerton",
+      "Bridgerton season 5 release 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/yerin-ha-in-bridgerton-s-the-waltz-2026-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Blockbuster Period Romance Wraps Production on Season 5",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 01 Nov 2026 15:30:12 GMT"
   }
 };

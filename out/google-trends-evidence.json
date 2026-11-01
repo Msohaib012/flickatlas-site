@@ -1,8 +1,668 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-01T14:51:43.070245Z",
+ "checked_at": "2026-11-01T15:55:07.657314Z",
  "status": "ok",
  "items": [
+  {
+   "q": "denver weather",
+   "traffic": "5000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:40:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Denver weather: Cloudy day with rain arriving Monday",
+     "url": "https://kdvr.com/weather/weather-forecast/denver-weather-cloudy-day-with-rain-arriving-monday/"
+    },
+    {
+     "title": "A wild winter is brewing. Here’s what meteorologists want you to know.",
+     "url": "https://www.washingtonpost.com/weather/2026/10/26/el-nino-could-lead-doozy-winter-united-states/"
+    },
+    {
+     "title": "Everything You Could Possibly Want to Know About El Niño",
+     "url": "https://www.nytimes.com/interactive/2026/10/27/climate/el-nino-climate-faq.html"
+    }
+   ]
+  },
+  {
+   "q": "bernie sanders",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Bernie Sanders could soon get a powerful perch to help shape 2028",
+     "url": "https://www.politico.com/news/2026/10/26/bernie-sanders-help-chairman-01134518"
+    },
+    {
+     "title": "Sanders and Warren to wield new gavel power if Democrats retake Senate",
+     "url": "https://www.washingtonexaminer.com/news/senate/4782097/bernie-sanders-elizabeth-warren-senate-help-democrats-majority/"
+    },
+    {
+     "title": "Dems' Senate Control Could Give Sanders, Warren Key Gavels",
+     "url": "https://www.yahoo.com/news/politics/articles/dems-senate-control-could-sanders-133606695.html"
+    }
+   ]
+  },
+  {
+   "q": "ol vs angers",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "OL : le Parc OL change d’ambiance avant la réception d’Angers",
+     "url": "https://www.butfootballclub.fr/1709399-ol-parc-ol-ambiance-reception-angers/"
+    },
+    {
+     "title": "DIRECT. Lyon - Angers Sco : suivez le match de la 9e journée de Ligue 1 en live",
+     "url": "https://www.ouest-france.fr/sport/football/ligue-1/direct/direct-lyon-angers-sco-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live-05d981ee-4bf8-499f-97fe-b9df274d8af9"
+    },
+    {
+     "title": "OL - Angers : Nuamah en pointe accompagné par Nakamura et Duranville",
+     "url": "https://www.olympique-et-lyonnais.com/ol-angers-nuamah-en-pointe-accompagne-par-nakamura-et-duranville,411761.html"
+    }
+   ]
+  },
+  {
+   "q": "sergio canales",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Sergio Canales, a TVE: \"Guardo buen recuerdo de Mourinho en mi etapa en el Real Madrid\"",
+     "url": "https://www.rtve.es/deportes/20261031/racing-santander-real-madrid-liga-jornada-11-sergio-canales-entrevista/17294331.shtml"
+    },
+    {
+     "title": "Jugaba al lado de Cristiano, pero \"lloraba toda la tarde\": Canales y Mourinho vuelven a verse, ahora como rivales",
+     "url": "https://www.elconfidencial.com/deportes/futbol/liga/2026-11-01/real-madrid-racing-santander-sergio-canales-jose-mourinho_4456267/"
+    },
+    {
+     "title": "Sergio Canales y el gran recuerdo de su etapa en el Real Madrid: \"Me hizo crecer mucho como persona y como jugador\"",
+     "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/sergio-canales-gran-recuerdo-etapa-real-madrid-me-hizo-crecer-mucho-como-persona-como-jugador/1wwlggd9hs4xp125n4gmrd5bhp"
+    }
+   ]
+  },
+  {
+   "q": "valentin vacherot",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Vacherot upsets Fritz, Lehecka saves MP to reach Basel final",
+     "url": "https://www.atptour.com/en/news/vacherot-fritz-basel-2026-saturday"
+    },
+    {
+     "title": "Valentin Vacherot to meet Jiri Lehecka in Swiss Indoors final",
+     "url": "https://www.espn.com/tennis/story/_/id/50338909/valentin-vacherot-meet-jiri-lehecka-swiss-indoors-final"
+    },
+    {
+     "title": "Basel SF previews and predictions: Fritz vs. Vacherot, Lehecka vs. Struff",
+     "url": "https://tenngrand.com/basel-tennis-previews-picks-predictions-fritz-vs-vacherot-lehecka-struff/"
+    }
+   ]
+  },
+  {
+   "q": "santander",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Racing Santander vs. Real Madrid: Preview, Predictions and Lineups",
+     "url": "https://www.si.com/soccer/racing-santander-vs-real-madrid-preview-predictions-lineups-11-1-26"
+    },
+    {
+     "title": "Real Madrid's starting lineup against Racing",
+     "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-frente-al-racing-01-11-2026"
+    },
+    {
+     "title": "Confirmed: Real Madrid starting lineup to face Racing Santander",
+     "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-starting-lineup-135700199.html"
+    }
+   ]
+  },
+  {
+   "q": "real madrid schedule",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "What do Kylian Mbappé and Hello Kitty have in common? They’ve both angered China",
+     "url": "https://edition.cnn.com/2026/10/31/china/mbappe-sanrio-china-controversies-intl-hnk"
+    },
+    {
+     "title": "Real, Mbappe have moved on from China controversy, says Mourinho",
+     "url": "https://www.reuters.com/sports/soccer/real-mbappe-have-moved-china-controversy-says-mourinho-2026-10-31/"
+    },
+    {
+     "title": "'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row",
+     "url": "https://www.bbc.com/sport/football/articles/ck9dz2yned67o"
+    }
+   ]
+  },
+  {
+   "q": "conner mantz",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Conner Mantz on Injury, Recovery, and His American Marathon Record",
+     "url": "https://www.runnersworld.com/runners-stories/a74295814/conner-mantz-american-marathon-record-rebuild-comeback/"
+    },
+    {
+     "title": "‘He’s in a good place’: Former BYU star Conner Mantz will run first marathon in a year on Sunday",
+     "url": "https://www.deseret.com/sports/2026/10/31/hes-in-a-good-place-former-byu-star-conner-mantz-will-run-first-marathon-in-a-year-on-sunday/"
+    },
+    {
+     "title": "Top American men for the 2026 TCS New York City Marathon: Conner Mantz, Zouhair Talbi",
+     "url": "https://world-track.org/2026/10/american-men-2026-tcs-new-york-city-marathon-conner-mantz-zouhair-talbi/"
+    }
+   ]
+  },
+  {
+   "q": "getafe cf vs sevilla fc standings",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:10:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Getafe - Sevilla LIVE. LALIGA EA Sports latest updates",
+     "url": "https://www.marca.com/en/soccer/laliga-ea-sports/getafe-sevilla/2026/11/01/01_0101_20261101_1450_179-live.html"
+    },
+    {
+     "title": "(LIVESTREAMs!)tv*Getafe vs Sevilla LIvE FrEe StReAm",
+     "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9idWQueG1sIi8+PC9rcnBhbm8+&id=video-getafe-vs-sevilla-match-live-free-ontv-0-0-0-0-0-0-1-193"
+    },
+    {
+     "title": ">(+!LIVESTREAMs/FREE+)!Real Sevilla vs Getafe Live free online 1 November, 2026",
+     "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9idWQueG1sIi8+PC9rcnBhbm8+&id=sevilla-vs-getafe-live-online-optv-tvukk21-315"
+    }
+   ]
+  },
+  {
+   "q": "jimmy movie",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-01T15:10:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "How movie star James Stewart became a war hero",
+     "url": "https://www.cbsnews.com/news/how-movie-star-james-stewart-became-a-war-hero/"
+    },
+    {
+     "title": "\"Jimmy\": How movie star James Stewart became a war hero",
+     "url": "https://www.cbsnews.com/video/jimmy-how-movie-star-james-stewart-became-a-war-hero/"
+    },
+    {
+     "title": "New Jimmy Stewart WWII Biopic Officially Sets Early Release Date in Select Theaters",
+     "url": "https://www.fathomentertainment.com/news/new-jimmy-stewart-wwii-biopic-officially-sets-early-release-date-in-select-theaters/"
+    }
+   ]
+  },
+  {
+   "q": "jude bellingham",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:40:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Real Madrid boss Jose Mourinho STUNNED by Jude Bellingham's controversial Ballon d'Or ranking!",
+     "url": "https://www.goal.com/en-in/news/jose-mourinho-real-madrid-ballon-dor-jude-bellingham/blt8e27200bde1caea5"
+    },
+    {
+     "title": "Mourinho: Ballon d'Or für Kane \"Krönung seiner Karriere\"",
+     "url": "https://onefootball.com/en/video/mourinho-ballon-dor-fuer-kane-kroenung-seiner-karriere-43704677"
+    },
+    {
+     "title": "Bellingham finishes 11th in 2026 Ballon d’Or rankings",
+     "url": "https://www.tbsnews.net/sports/football/real-madrid-ace-bellingham-finishes-11th-2026-ballon-dor-rankings-1583901"
+    }
+   ]
+  },
+  {
+   "q": "qazi touqeer",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:40:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Bigg Boss 20 Viewership Plummets; Is Qazi Touqeer’s Reduced Screen Time To Blame?",
+     "url": "https://www.deccanchronicle.com/entertainment/television/bigg-boss-20-viewership-plummets-is-qazi-touqeers-reduced-screen-time-to-blame-1999839"
+    },
+    {
+     "title": "Bigg Boss 20: Qazi Touqeer performs on Hrithik Roshan's 'Ek Pal Ka Jeena', fans in awe",
+     "url": "https://www.aninews.in/news/entertainment/out-of-box/bigg-boss-20-qazi-touqeer-performs-on-hrithik-roshans-ek-pal-ka-jeena-fans-in-awe16020261023135747"
+    },
+    {
+     "title": "Bigg Boss 20: Makers remove Qazi Touqeer’s scenes, TRP crashes",
+     "url": "https://www.siasat.com/bigg-boss-20-makers-remove-qazi-touqeers-scenes-trps-crashes-3565757/"
+    }
+   ]
+  },
+  {
+   "q": "അഴിമതി",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:40:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "നിർമാണ അഴിമതി വിജിലൻസ് അന്വേഷിക്കണം",
+     "url": "https://www.deshabhimani.com/district-news/-44954/bus-terminal-cum-shopping-complex-nb4"
+    },
+    {
+     "title": "ഒരു ബൾബിന് 30,000 രൂപ, ഫിനൈലിന് 33,000; അഴിമതി ചോദിച്ച ദമ്പതികളെ പൊലീസിനെക്കൊണ്ട് പിടിപ്പിച്ച് ബി.ജെ.പി...",
+     "url": "https://www.madhyamam.com/india/kailash-vijayvargiya-activist-detained-ulb-corruption-led-bulb-phenyl-row-1567907"
+    },
+    {
+     "title": "ഐഎഎസ്–ഐപിഎസ് ദമ്പതികൾ വാങ്ങിക്കൂട്ടിയത് 36 വില്ലകൾ- Shikhar Agarwal IAS | Corruption Case",
+     "url": "https://www.manoramaonline.com/news/latest-news/2026/11/01/senior-rajasthan-ias-officer-under-scrutiny-for-acquiring-36-undervalued-villas.html"
+    }
+   ]
+  },
+  {
+   "q": "jee main",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "JEE Main 2027: Candidates Can Reapply to Correct Errors, NTA Clarifies Fresh Application Rules",
+     "url": "https://www.telegraphindia.com/edugraph/news/nta-allows-fresh-application-submission-for-jee-main-2027-registration-check-guidelines/cid/2187163"
+    },
+    {
+     "title": "JEE Main 2027: Kabeer Chhillar's Balanced Formula For Physics, Chemistry, And Maths",
+     "url": "https://www.ndtv.com/education/jee-main-2027-kabeer-chhillars-balanced-formula-for-physics-chemistry-and-maths-12266752"
+    },
+    {
+     "title": "JEE Main 2027 Registration: NTA Issues Important Advisory on Aadhaar & DigiLocker Photo Mismatch",
+     "url": "https://news.allen.in/nta-issues-important-advisory-for-jee-main-2027-registration/"
+    }
+   ]
+  },
+  {
+   "q": "ol vs angers",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Lyon-Angers : streaming, chaîne TV et compos",
+     "url": "https://www.football365.fr/lyon-angers-streaming-chaine-tv-et-compos-3-10324263.html"
+    },
+    {
+     "title": "OL - Angers : Nuamah en pointe accompagné par Nakamura et Duranville",
+     "url": "https://www.olympique-et-lyonnais.com/ol-angers-nuamah-en-pointe-accompagne-par-nakamura-et-duranville,411761.html"
+    },
+    {
+     "title": "OL - Angers sous le signe de la funk à Décines",
+     "url": "https://www.live-mercato.com/article/203399-ol-angers-sous-le-signe-de-la-funk-a-decines"
+    }
+   ]
+  },
+  {
+   "q": "racing santander vs real madrid timeline",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Real Madrid's starting lineup against Racing",
+     "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-frente-al-racing-01-11-2026"
+    },
+    {
+     "title": "Racing Santander vs. Real Madrid: Preview, Predictions and Lineups",
+     "url": "https://www.si.com/soccer/racing-santander-vs-real-madrid-preview-predictions-lineups-11-1-26"
+    },
+    {
+     "title": "Confirmed: Real Madrid starting lineup to face Racing Santander",
+     "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-starting-lineup-135700199.html"
+    }
+   ]
+  },
+  {
+   "q": "আগামীকালের আবহাওয়া",
+   "traffic": "10000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Cyclone Alert: শক্তি বাড়াচ্ছে ঘূর্ণিঝড় মুরাসু, রাজ্যে কী প্রভাব? আগামী ৭ দিন উত্তর থেকে",
+     "url": "https://bengali.abplive.com/photo-gallery/district/cyclone-murasu-alert-1-november-2026-west-bengal-weather-update-thunderstorm-light-to-moderate-rain-forecast-imd-report-1197956"
+    },
+    {
+     "title": "বঙ্গোপসাগরে আরও এক ঘূর্ণিঝড়! ৩ নভেম্বর অন্ধ্রে ল্যান্ডফল ‘মুরাসু’র, রেহাই পাবে বাংলা?",
+     "url": "https://www.thewall.in/west-bengal/cyclone-murasu-forms-bay-of-bengal-andhra-landfall-west-bengal-impact/tid/208341"
+    },
+    {
+     "title": "Cyclone Murasu: সাগরে ফুঁসছে সাইক্লোন ‘মুরাসু’! এই তামিল শব্দের অর্থ কী? কবে আছড়ে পড়ার সম্ভাবনা! | Hindustan Times Bangla",
+     "url": "https://www.hindustantimes.com/bangla/news/what-is-the-meanig-of-murasu-as-the-cyclone-to-hit-andhra-pradesh-odisha-gets-prepared-271793529762208.html"
+    }
+   ]
+  },
+  {
+   "q": "নভেম্বর",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "৭ নভেম্বর কি সরকারি ছুটি",
+     "url": "https://www.channel24bd.tv/national/article/356022/%E0%A7%AD-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF"
+    },
+    {
+     "title": "মসলিনে রপ্তানির নতুন স্বপ্ন, বড় বাধা উৎপাদন ব্যয়",
+     "url": "https://www.kalerkantho.com/online/business/2026/10/27/1758814"
+    },
+    {
+     "title": "৭ নভেম্বর জাতীয় পতাকা উত্তোলনে মন্ত্রিপরিষদ বিভাগের নির্দেশ",
+     "url": "https://ekhon.tv/national-news/6ae75a31cccc0aeab63e750c"
+    }
+   ]
+  },
+  {
+   "q": "basel open",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Nach acht Niederlagen: Struff bezwingt erstmals Djokovic",
+     "url": "https://www.berchtesgadener-anzeiger.de/startseite_artikel,-nach-acht-niederlagen-struff-bezwingt-erstmals-djokovic-_arid,1024041.html"
+    },
+    {
+     "title": "Und jetzt: der Davis Cup!",
+     "url": "https://www.ovb-heimatzeitungen.de/sport/2026/10/30/und-jetzt-der-davis-cup.ovb"
+    },
+    {
+     "title": "Tennis im Liveblog: Alcaraz steht im Finale von Wien",
+     "url": "https://rp-online.de/sport/tennis/tennis-struff-siegt-in-basel-djokovic-verbluefft-zverev-hofft-auf-schub_aid-123888561"
+    }
+   ]
+  },
+  {
+   "q": "liam lawson f1",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Lawson disqualified from Mexico City GP Qualifying for technical breach",
+     "url": "https://www.formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx"
+    },
+    {
+     "title": "F1 2026 Mexican Grand Prix starting grid with Verstappen penalty",
+     "url": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-starting-grid-with-verstappen-penalty/"
+    },
+    {
+     "title": "Mexico City Grand Prix practice result: Max Verstappen says Liam Lawson collision 'not very smart'",
+     "url": "https://www.bbc.com/sport/formula1/articles/cqde8p6j9ye7o"
+    }
+   ]
+  },
+  {
+   "q": "liverpool vs arsenal",
+   "traffic": "500+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T15:40:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "Team news: Confirmed Liverpool line-up v Arsenal",
+     "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-arsenal"
+    },
+    {
+     "title": "Anfield, intensity and rotations - how Iraola is improving Liverpool",
+     "url": "https://www.bbc.com/sport/football/articles/ckzd6217j7pgo"
+    },
+    {
+     "title": "Liverpool vs Arsenal LIVE! Premier League match updates, news, score, stream and highlights",
+     "url": "https://www.skysports.com/football/live-blog/13604914/liverpool-vs-arsenal-live-premier-league-match-updates-news-score-stream-and-highlights"
+    }
+   ]
+  },
+  {
+   "q": "real madrid match",
+   "traffic": "100+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T15:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "Racing de Santander - Real Madrid : les compositions officielles",
+     "url": "https://www.footmercato.net/a1890276011240567227-racing-de-santander-real-madrid-les-compositions-officielles"
+    },
+    {
+     "title": "Mourinho: Qëllimi është të fitojmë tituj, jo vetëm një ndeshje kundër Barcelonës",
+     "url": "https://reporteri.net/fr/l%27alimentation-du-sportif/Mourinho-%3A-L%27objectif-est-de-gagner-des-titres--pas-seulement-un-match-contre-Barcelone./"
+    },
+    {
+     "title": "Real Madrid : Des absences et des incertitudes en veille de reprise de la Liga",
+     "url": "https://news.footeo.com/2026/11/01/real-madrid-des-absences-et-des-incertitudes-en-veille-de-reprise-de-la-liga-16441"
+    }
+   ]
+  },
+  {
+   "q": "ciara mageean",
+   "traffic": "200+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T15:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "Ciara Mageean: European champion and Olympian dies aged 34",
+     "url": "https://www.bbc.com/sport/athletics/articles/cn81px29032o"
+    },
+    {
+     "title": "Mageean's warmth and determination was beloved by nation",
+     "url": "https://www.rte.ie/sport/athletics/2026/1101/1597520-mageeans-warmth-and-determination-was-beloved-by-nation/"
+    },
+    {
+     "title": "Civilians in Kherson prepare for return of war as localised ceasefire ends",
+     "url": "https://www.breakingnews.ie/world/civilians-in-kherson-prepare-for-return-of-war-as-localised-ceasefire-ends-1956341.html"
+    }
+   ]
+  },
+  {
+   "q": "sialkot pakistan",
+   "traffic": "100+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T14:50:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "1 dead, over 13 injured during stampede at TikToker's mehndi ceremony in Sialkot",
+     "url": "https://www.dawn.com/news/2041211"
+    },
+    {
+     "title": "Two killed in Pakistan stampede at TikTok blogger's event — Dawn",
+     "url": "https://ua.news/en/dovkolo-svitu/u-pakistani-pislia-tisniavi-na-zakhodi-tiktok-blogera-zaginuli-dvoie-dawn"
+    },
+    {
+     "title": "Daska wedding stampede kills two, TikToker Mr Patlo among nine booked",
+     "url": "https://minutemirror.com.pk/daska-wedding-stampede-kills-two-tiktoker-mr-patlo-among-nine-booked-654472/"
+    }
+   ]
+  },
+  {
+   "q": "bnb",
+   "traffic": "500+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T14:40:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "Binance to resume withdrawals after covering bulk of stolen $6.3bn",
+     "url": "https://www.dawn.com/news/2041364"
+    },
+    {
+     "title": "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
+     "url": "https://www.cnn.com/2026/10/31/business/crypto-hacker-money-laundering"
+    },
+    {
+     "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+     "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+    }
+   ]
+  },
+  {
+   "q": "racing santander vs real madrid",
+   "traffic": "10000+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T14:30:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "La alineación titular del Real Madrid para enfrentar al Racing de Santander",
+     "url": "https://www.si.com/es-us/la-posible-alineacion-titular-del-real-madrid-para-enfrentar-al-racing-de-santander-01-11-2026"
+    },
+    {
+     "title": "Iker Luque, titular por delante de Pablo García en el Racing",
+     "url": "https://www.eldiariomontanes.es/deportes/racing/iker-luque-titular-delante-pablo-garcia-racing-20261101152156-nt.html"
+    },
+    {
+     "title": "Dónde ver hoy por TV el Racing - Real Madrid: horario y canal del partido de LaLiga EA Sports de fútbol | Primera División",
+     "url": "https://www.mundodeportivo.com/horarios/futbol/20261101/1004245789/racing-santander-real-madrid-horario-canal-donde-ver-hoy-tv-partido-laliga-ea-sports-futbol-primera-division.html"
+    }
+   ]
+  },
+  {
+   "q": "zimbabwe vs afghanistan",
+   "traffic": "20000+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T14:20:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "High on Omarzai - Afghanistan allrounder has a night to remember",
+     "url": "https://www.cricinfo.com/story/afg-vs-zim-2nd-t20i-afghanistan-allrounder-azmatullah-omarzai-has-a-night-to-remember-1560658"
+    },
+    {
+     "title": "NZ VS IND CRICKET LIVE SCORE 1st ODI India in New Zealand, 5 ODI Series, 2026",
+     "url": "https://www.news18.com/cricket/live-score/new-zealand-vs-india-ball-by-ball-live-score-heat-map-nzin11042026271651.html"
+    },
+    {
+     "title": "Afghanistan vs Zimbabwe 3rd T20I prediction, lineups and Sharjah pitch report — who will win?",
+     "url": "https://sports.yahoo.com/articles/afghanistan-vs-zimbabwe-3rd-t20i-090027448.html"
+    }
+   ]
+  },
+  {
+   "q": "trabzonspor vs gaziantep",
+   "traffic": "100+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T14:10:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "Trabzonspor, Thomas Reis ile yoluna kayıpsız devam ediyor",
+     "url": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-ile-yoluna-kayipsiz-devam-ediyor/4108061"
+    },
+    {
+     "title": "Trabzonspor'da Gaziantep FK karşısında Savic ve Muçi şov! Bordo mavililer zirve takibini sürdürdü",
+     "url": "https://www.milliyet.com.tr/skorer/trabzonsporda-gaziantep-fk-karsisinda-savic-ve-muci-sov-bordo-mavililer-zirve-takibini-surdurdu-7692089"
+    },
+    {
+     "title": "Altuğ Atalay | Kendini yormadan kazandı",
+     "url": "https://www.trabzonx.com/yazarlar/altug-atalay/kendini-yormadan-kazandi/39194"
+    }
+   ]
+  },
+  {
+   "q": "inde navarrette",
+   "traffic": "200+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T13:50:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife'",
+     "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629/"
+    },
+    {
+     "title": "I’m Sure Marvel Loved Being Referenced In The Shane Gillis Gym Clothes Controversy On SNL Last Night",
+     "url": "https://www.yahoo.com/entertainment/tv/articles/m-sure-marvel-loved-being-145120026.html"
+    },
+    {
+     "title": "Following her \"scream queen\" debut in 'Obsession', Inde Navarrette flexed her comedy muscle with her Saturday Night Live hosting debut. Read more below.",
+     "url": "https://www.facebook.com/deadline/posts/following-her-scream-queen-debut-in-obsession-inde-navarrette-flexed-her-comedy-/1478526117481057/"
+    }
+   ]
+  },
+  {
+   "q": "carlos alcaraz",
+   "traffic": "100+",
+   "geo": "PK",
+   "trending_started_at": "2026-11-01T13:50:00Z",
+   "observed_at": "2026-11-01T15:55:07.657314Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=PK",
+   "news": [
+    {
+     "title": "Alcaraz vence a De Miñaur y gana el Abierto de Viena sin ceder sets",
+     "url": "https://apnews.com/article/viena-alcaraz-de-minaur-688339464dab688207cb58316c998343"
+    },
+    {
+     "title": "Highlights: Alcaraz se impone con autoridad a De Miñaur en la final de Viena",
+     "url": "https://www.atptour.com/es/video/highlights-alcaraz-too-good-for-de-minaur-in-vienna-2026-final"
+    },
+    {
+     "title": "EN DIRECTO! final del ATP 500 de Viena En Vivo 01 noviembre 2026",
+     "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-final-del-atp-500-de-viena-lie-en-wabdr"
+    }
+   ]
+  },
   {
    "q": "talarico",
    "traffic": "500+",
@@ -1501,640 +2161,6 @@
     {
      "title": "Court sides with lawsuit claiming Seattle rules ‘destroyed’ property value",
      "url": "https://www.seattletimes.com/business/real-estate/wa-court-decision-revives-landlords-challenge-to-seattle-rental-laws/"
-    }
-   ]
-  },
-  {
-   "q": "ग्लेन फिलिप्स",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:30:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "ग्लेन फिलिप्स पांचवें टी20 में रच सकते हैं इतिहास, वर्ल्ड रिकॉर्ड तोड़ने से सिर्फ 56 रन दूर",
-     "url": "https://www.indiatv.in/sports/cricket/most-runs-in-bilateral-t20i-series-glenn-phillips-eyes-world-record-needs-56-runs-in-5th-t20i-to-create-history-2026-11-01-1252120"
-    },
-    {
-     "title": "IND vs NZ: सिर्फ बल्लेबाजी के दम पर कब तक जीतोगे? गेंदबाजों का हाल देख भड़के मोहम्मद कैफ, उठाए सवाल",
-     "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-nz-mohammad-kaif-questions-india-bowling-attack-after-lost-match-against-new-zealand-aksp-dskc-2685041-2026-10-31"
-    },
-    {
-     "title": "श्रेयस अय्यर की कप्तानी में भारत को लगा एक और दाग, खत्म हुआ 6 साल से जीत का सिलसिला",
-     "url": "https://www.livehindustan.com/cricket/another-blemish-for-india-under-shreyas-iyer-s-captaincy-a-6-year-winning-streak-comes-to-an-end-201793369154789.html"
-    }
-   ]
-  },
-  {
-   "q": "ஜனனி",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:30:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "கே.என்.நேரு வீட்டில் ரெய்டு..! சின்னத்திரை நடிகைகள் ஜனனி, ஷபானாவை டார்கெட் செய்தது ஏன்? ஊழல் வழக்கில் நடந்தது என்ன?",
-     "url": "https://www.polimernews.com/video/kn-nehru-case-12772524"
-    },
-    {
-     "title": "ரூ.634 கோடி மோசடி விவகாரத்தில் எனக்கு தொடர்பா....? : ஆதாரமில்லாமல் பேசாதீங்க - ஜனனி அசோக்குமார்",
-     "url": "https://cinema.dinamalar.com/news/kollywood/did-i-am-linked-to-the-rs-634-crore-scam-janani-ashokkumar-s/141858"
-    },
-    {
-     "title": "Janani Ashok Kumar | ரூ.634 கோடி முறைகேடு புகார் - முற்றுப்புள்ளி வைத்த நடிகை ஜனனி",
-     "url": "https://www.thanthitv.com/news/cinema/634-crore-scam-allegation-actress-janani-puts-an-end-to-the-controversy"
-    }
-   ]
-  },
-  {
-   "q": "glenn phillips",
-   "traffic": "50000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:20:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Cricbuzz Live: New Zealand thump India! Clinch the 4th T20I by 87 runs",
-     "url": "https://m.cricbuzz.com/cricket-videos/216436/cricbuzz-live-new-zealand-thump-india-clinch-the-4th-t20i-by-87-runs"
-    },
-    {
-     "title": "Glenn Phillips on the brink of breaking world record in last T20I vs India",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/glenn-phillips-on-the-brink-of-breaking-world-record-in-last-t20i-vs-india/articleshow/135402409.cms"
-    },
-    {
-     "title": "Captain Shreyas blames bowlers for Friday’s T20I defeat against New Zealand in Auckland",
-     "url": "https://www.telegraphindia.com/sports/cricket/captain-shreyas-blames-bowlers-for-fridays-t20i-defeat-against-new-zealand-in-auckland-prnt/cid/2187148"
-    }
-   ]
-  },
-  {
-   "q": "തിരുവല്ല",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:20:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "പരുമല പെരുന്നാൾ: തിങ്കളാഴ്ച തിരുവല്ല താലൂക്ക് പരിധിയിൽ പ്രാദേശിക അവധി",
-     "url": "https://www.manoramaonline.com/district-news/pathanamthitta/2026/10/31/thiruvalla-local-holiday-parumala-perunal.html"
-    },
-    {
-     "title": "തിങ്കളാഴ്ച കോളേജുകൾ ഉൾപ്പെടെ എല്ലാ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്കും തിരുവല്ല താലൂക്കിൽ അവധി",
-     "url": "https://malayalam.samayam.com/latest-news/kerala-news/holiday-announced-on-tomorrow-november-2-monday-in-thiruvalla-taluk-parumala-perunnal/articleshow/135420571.cms"
-    },
-    {
-     "title": "മണ്ണാറശാലയിൽ മഹാദീപക്കാഴ്‌ചയ്‌ക്ക്‌ വൻതിരക്ക്‌",
-     "url": "https://www.deshabhimani.com/district-news/-62174/huge-crowds-at-mannarasala-for-the-grand-mahadeepam-spectacle-ky7"
-    }
-   ]
-  },
-  {
-   "q": "राशियाँ",
-   "traffic": "2000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:10:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "साप्ताहिक राशिफल: मेष-कर्क वालों के जीवन में सुधार, सिंह और धनु वालों को मिल सकता है भाग्य का साथ, जानें अप",
-     "url": "https://www.indiatv.in/rashifal/weekly-horoscope-2-november-to-8-november-2026-janiye-sabhi-12-rashiyon-ka-saptahik-rashifal-2026-10-31-1252006"
-    },
-    {
-     "title": "नवंबर में 5 ग्रहों का राशि परिवर्तन, 6 राशियों पर असर!",
-     "url": "https://www.aajtak.in/religion/news/story/singh-rashi-masik-rashifal-november-2026-leo-horoscope-career-money-love-dskc-2684945-2026-10-31"
-    },
-    {
-     "title": "Weekly Horoscope: साप्ताहिक राशिफल 1 से 7 नवंबर 2026: मेष को मनचाहा तबादला, कन्या और धनु को बड़ा",
-     "url": "https://www.abplive.com/lifestyle/religion/weekly-horoscope-1-to-7-november-2026-dr-aneesh-vyas-saptahik-rashifal-live-update-3208970"
-    }
-   ]
-  },
-  {
-   "q": "राशिफल",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:10:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Aaj Ka Rashifal 1 November 2026: 1 नवंबर मेष के लिए होगा यादगार, सिंह करेंगे सर्वश्रेष्ठ प्रदर्शन, मकर का ब...",
-     "url": "https://hindi.news18.com/astro/daily-horoscope-aaj-ka-rashifal-1-november-2026-today-horoscope-ahoi-ashtami-mesh-to-meen-rashi-sunday-zodiac-prediction-10952507.html"
-    },
-    {
-     "title": "Aaj Ka Vrishchik Rashifal 1 November 2026: वृश्चिक राशि वाले आज किसी गरीब को गुड़ दान करें, जानें जरूरी टिप",
-     "url": "https://www.aajtak.in/religion/rashiphal/video/vrishchik-rashifal-01-november-2026-scorpio-daily-horoscope-today-2685249-2026-11-01"
-    },
-    {
-     "title": "आज का राशिफल (Aaj Ka Rashifal) 1 नवंबर 2026 : महालक्ष्मी योग पर मिथुन को धन लाभ, वृश्चिक को मिलेगा भाग्य का साथ, जानें अपना भविष्यफल",
-     "url": "https://navbharattimes.indiatimes.com/astro/rashifal/bolen-sitare/aaj-ka-rashifal-1-november-2026-daily-horoscope-mahalaxmi-yog-mithun-rashi-people-may-get-dhan-labh-know-your-todays-prediction/articleshow/135371995.cms"
-    }
-   ]
-  },
-  {
-   "q": "प्राजक्ता माळी",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:10:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": []
-  },
-  {
-   "q": "suzlon",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:10:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Broker’s call: Suzlon (Add)",
-     "url": "https://www.thehindubusinessline.com/markets/brokers-call-suzlon-add/article71644567.ece"
-    },
-    {
-     "title": "Suzlon Energy cuts operating margin guidance to 15%",
-     "url": "https://m.economictimes.com/industry/renewables/suzlon-energy-cuts-operating-margin-guidance-to-15/articleshow/135375153.cms"
-    },
-    {
-     "title": "Suzlon Energy, IEX Q2 results review: Stocks fall up to 6% today",
-     "url": "https://energy.economictimes.indiatimes.com/news/renewable/suzlon-energy-iex-q2-results-review-stocks-fall-up-to-6-today/135353406"
-    }
-   ]
-  },
-  {
-   "q": "నెల్లూరు",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:00:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Nellore: నెల్లూరు రూరల్‌లో సామాన్య ఓటర్లతో కలిసి ఓటు వేసిన ఎమ్మెల్యే కోటంరెడ్డి!",
-     "url": "https://www.hmtvlive.com/telugu-news/nellore/nellore-mla-kotamreddy-sridhar-reddy-casts-vote-207657"
-    },
-    {
-     "title": "నీలో కొంచెం కూడా మార్పులేదు బాబు ఎందుకు ఈ దొంగ డ్రామాలు..?",
-     "url": "https://www.sakshi.com/video/news-videos/ys-jagan-comments-chandrababu-ap-elections-2026-2939303"
-    },
-    {
-     "title": "Nellore: నెల్లూరులో ఎమ్మెల్సీ పర్వతరెడ్డి చంద్రశేఖర్ రెడ్డిని అడ్డుకున్న పోలీసులు!",
-     "url": "https://www.hmtvlive.com/telugu-news/nellore/nellore-police-stop-mlc-chandrasekhar-reddy-car-207654"
-    }
-   ]
-  },
-  {
-   "q": "top",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T10:00:00Z",
-   "observed_at": "2026-11-01T10:51:41.917221Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Tomorrow's Top 25 Today: Ohio State falls from top 10, USC reenters college football rankings after upset win",
-     "url": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-ap-poll-ohio-state-usc/"
-    },
-    {
-     "title": "Ohio State replaces BYU at No. 2 as Top 25 jumbled again by top-10 losses",
-     "url": "https://www.espn.com/college-football/story/_/id/50278326/ohio-state-replaces-byu-no-2-ap-top-25"
-    },
-    {
-     "title": "Brett McMurphy's college football AP Top 25 ballot after Week 9",
-     "url": "https://www.on3.com/news/brett-mcmurphys-college-football-ap-top-25-ballot-after-week-9-2/"
-    }
-   ]
-  },
-  {
-   "q": "iphone 15",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T08:40:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Forget the Pricey iPhone Duo, Here's How to Get an iPhone 15 for Far Less Than AirPods Max",
-     "url": "https://gizmodo.com/forget-the-pricey-iphone-duo-heres-how-to-get-an-iphone-15-for-far-less-than-airpods-max-2000832258"
-    },
-    {
-     "title": "How to Score Apple, Dyson, and Nintendo for Less Before Black Friday, Thanks to Back Market's Refurbished Deals",
-     "url": "https://gizmodo.com/how-to-score-apple-dyson-and-nintendo-for-less-before-black-friday-thanks-to-back-markets-refurbished-deals-2000830320"
-    },
-    {
-     "title": "These Refurbished Apple Deals Are an Early Black Friday Bonanza, From iPhones and iPads to Apple Watches",
-     "url": "https://gizmodo.com/these-refurbished-apple-deals-are-an-early-black-friday-bonanza-from-iphones-and-ipads-to-apple-watches-2000830309"
-    }
-   ]
-  },
-  {
-   "q": "irina shayk",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T08:40:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Irina Shayk ditches bra in sultry backless dress with bombshell pictures",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/irina-shayk-ditches-bra-sultry-143339116.html"
-    },
-    {
-     "title": "Irina Shayk’s Floating Breastplate Is Downright Angelic",
-     "url": "https://www.wmagazine.com/fashion/irina-shayk-breastplate-issey-miyake"
-    },
-    {
-     "title": "Irina Shayk’s Issey Miyake Corset Dress Barely Hangs on at WSJ Mag Awards",
-     "url": "https://www.aol.com/articles/irina-shayk-issey-miyake-corset-064530000.html"
-    }
-   ]
-  },
-  {
-   "q": "emergency department",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T08:20:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Emergency department reports are changing. Here’s what to know",
-     "url": "https://www.modernhealthcare.com/politics-regulation/mh-cms-ecat-emergency-department-hospitals/"
-    },
-    {
-     "title": "New ERs expected to relieve ambulance pile-ups, boost revenues",
-     "url": "https://veronews.com/2026/10/31/new-ers-expected-to-relieve-ambulance-pile-ups-boost-revenues/"
-    },
-    {
-     "title": "NHS reports record September A&E attendances and ambulance demand as winter pressures mount",
-     "url": "https://thiis.co.uk/nhs-reports-record-september-ae-attendances-and-ambulance-demand-as-winter-pressures-mount/"
-    }
-   ]
-  },
-  {
-   "q": "nolan wells",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T08:00:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "'An Injustice to One is an Injustice to All': Students Hold Vigil to Commemorate Nolan Wells",
-     "url": "https://www.cornellsun.com/article/2026/10/zin1eiqsqewo"
-    },
-    {
-     "title": "What Mississippi Still Hasn't Explained About Nolan Wells' Death",
-     "url": "https://www.levelman.com/what-mississippi-still-hasnt-explained-about-nolan-wells-death/"
-    },
-    {
-     "title": "True Crime Group Wrapped Up in Unanswered Questions",
-     "url": "https://belmontvoice.org/true-crime-group-wrapped-up-in-unanswered-questions/"
-    }
-   ]
-  },
-  {
-   "q": "rockstar games gta vi",
-   "traffic": "5000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T08:00:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Travis Scott’s Cactus Jack x Rockstar Games x Nike Air Force 1 Low GTA 6 Pack Releases November 2026",
-     "url": "https://www.soleretriever.com/news/articles/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-gta-6-pack-release-date-november-2026"
-    },
-    {
-     "title": "'GTA 6' Cactus Jack x Rockstar Games x Nike Air Force 1s Releasing Soon",
-     "url": "https://www.complex.com/sneakers/a/victor-deng/cactus-jack-rockstar-games-nike-air-force-1-gta-6-release-date"
-    },
-    {
-     "title": "Travis Scott, Rockstar Games, and Nike Team Up for Three Air Force 1 Colorways",
-     "url": "https://houseofheat.co/nike/travis-scott-gta-vi-rockstar-games-air-force-1-collaboration"
-    }
-   ]
-  },
-  {
-   "q": "rugby league world cup",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T07:50:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Jillaroos claim biggest women's international win",
-     "url": "https://www.espn.com/nrl/story/_/id/50345802/women-rugby-league-world-cup-australia-jillaroos-claim-biggest-women-international-win"
-    },
-    {
-     "title": "Women's Rugby League World Cup: Australia hit debutants Wales for record score",
-     "url": "https://www.bbc.com/sport/rugby-league/articles/cked34glxp0no"
-    },
-    {
-     "title": "Live: Jillaroos smash World Cup records before Tonga-Samoa blockbuster",
-     "url": "https://www.abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754"
-    }
-   ]
-  },
-  {
-   "q": "día de los muertos",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T07:50:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Halloween y el Día de Muertos, dos miradas al más allá",
-     "url": "https://www.diariolibre.com/mundo/america-latina/2026/10/31/halloween-y-el-dia-de-muertos-miradas-al-mas-alla/3706865"
-    },
-    {
-     "title": "Noche de Brujas en México 2026: por qué se celebra Halloween antes del Día de Muertos",
-     "url": "https://www.debate.com.mx/tecnologia/noche-de-brujas-en-mexico-2026-por-que-se-celebra-halloween-antes-del-dia-de-muertos-20261031-0112.html"
-    },
-    {
-     "title": "Halloween y Día de Muertos desatan el negocio de las ventas online en México",
-     "url": "https://www.merca20.com/halloween-y-dia-de-muertos-desatan-el-negocio-de-las-ventas-online-en-mexico/"
-    }
-   ]
-  },
-  {
-   "q": "travis kelce ohio estate objections",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T07:40:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Taylor Swift and Travis Kelce Face Growing Backlash Over Plans for Ohio Home",
-     "url": "https://www.si.com/onsi/athlete-lifestyle/taylor-swift-travis-kelce-growing-backlash-over-plans-ohio-home"
-    },
-    {
-     "title": "Kelce, Swift neighbors nay No to home improvement plans at Ohio mansion",
-     "url": "https://www.dispatch.com/videos/news/2026/10/28/kelce-swift-neighbors-nay-no-to-home-improvement-plans-at-ohio-mansion/92483374007/"
-    },
-    {
-     "title": "The toxic row threatening Taylor and Travis’ marriage: ‘They don’t want to give up’",
-     "url": "https://heatworld.com/celebrity/news/the-toxic-row-threatening-taylor-travis-marriage-they-dont-want-to-give-up/"
-    }
-   ]
-  },
-  {
-   "q": "mexico gp",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T07:40:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Lawson apologises to Verstappen after practice clash",
-     "url": "https://www.reuters.com/sports/formula1/lawson-apologises-verstappen-after-practice-clash-2026-10-31/"
-    },
-    {
-     "title": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
-     "url": "https://sports.yahoo.com/articles/max-verstappen-clears-air-liam-002635530.html"
-    },
-    {
-     "title": "Motor racing-Verstappen and Lawson get grid drops after Mexico practice clash",
-     "url": "https://www.galvnews.com/news_reuters/sports/motor-racing-verstappen-and-lawson-get-grid-drops-after-mexico-practice-clash/article_2bd2f0fa-e679-5bf9-be91-a3fe3987b02a.html"
-    }
-   ]
-  },
-  {
-   "q": "fundraiser",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-01T07:30:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "TKO Strong Foundation hosted fall fundraiser",
-     "url": "https://www.liherald.com/elmont/stories/tko-strong-foundation-fall-fundraiser,226290"
-    },
-    {
-     "title": "Hope Supply Co. Fundraiser for Homeless, At-Risk Children",
-     "url": "https://www.focusdailynews.com/hope-supply-co-supports-homeless-at-risk-children/"
-    },
-    {
-     "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-     "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1"
-    }
-   ]
-  },
-  {
-   "q": "नीतीश कुमार रेड्डी",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:40:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "न्यूजीलैंड के खिलाफ पहले 3 वनडे के लिए टीम इंडिया में बड़ा बदलाव, इस तेज गेंदबाज की हुई एंट्री",
-     "url": "https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-auqib-nabi-added-to-squad-first-three-odis-bmsp-dskc-2684811-2026-10-31"
-    },
-    {
-     "title": "NZ वनडे सीरीज के लिए फिर बदली टीम इंडिया, BCCI ने प्रसिद्ध कृष्णा के रिप्लेसमेंट का",
-     "url": "https://www.abplive.com/sports/cricket/bcci-changes-team-india-odi-squad-for-new-zealand-auqib-nabi-to-play-full-series-3209073"
-    },
-    {
-     "title": "IND vs NZ: चौथे टी20 में हार के बाद टीम इंडिया में हुई इस गेंदबाज की एंट्री, ये खिलाड़ी बना वजह",
-     "url": "https://www.jagran.com/cricket/headlines-ind-vs-nz-auqib-nabi-added-to-squad-for-first-three-odis-against-new-zealand-40422492.html"
-    }
-   ]
-  },
-  {
-   "q": "nitish kumar reddy",
-   "traffic": "20000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:30:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "NZ vs IND 2026: Auqib Nabi added to India's squad for first three NZ ODIs",
-     "url": "https://www.cricbuzz.com/cricket-news/140726/nz-vs-ind-2026-auqib-nabi-added-to-indias-squad-for-first-three-nz-odis-cricbuzzcom"
-    },
-    {
-     "title": "Squad Update: Auqib Nabi added to squad for first three ODIs against New Zealand",
-     "url": "https://www.bcci.tv/news/article/squad-update-auqib-nabi-added-to-squad-for-first-three-odis-against-new-zealand"
-    },
-    {
-     "title": "India pacer ruled out of ODI series against New Zealand",
-     "url": "https://www.icc-cricket.com/news/india-pacer-ruled-out-of-odi-series-against-new-zealand"
-    }
-   ]
-  },
-  {
-   "q": "tilak varma",
-   "traffic": "10000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:30:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Tilak Varma likely to play third India A match; Jasprit Bumrah leaves for New Zealand",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-likely-to-play-third-india-a-match-jasprit-bumrah-leaves-for-new-zealand/articleshow/135419929.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss"
-    },
-    {
-     "title": "Bumrah and Pant likely to play for India A in third unofficial Test against New Zealand A",
-     "url": "https://www.cricinfo.com/story/jasprit-bumrah-and-rishabh-pant-added-to-india-a-squad-for-third-unofficial-test-against-new-zealand-a-1560088"
-    },
-    {
-     "title": "Tilak Varma To Play 3rd Unofficial Test For India-A Before Joining ODI Squad: Report",
-     "url": "https://www.news18.com/cricket/tilak-varma-to-play-3rd-unofficial-test-for-india-a-before-joining-odi-squad-10407413.html"
-    }
-   ]
-  },
-  {
-   "q": "കോണ്സ്റ്റബിള്",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:30:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "പരാതി നൽകാനെത്തിയ യുവതിയെ ബലാത്സംഗം ചെയ്തു; കോൺസ്റ്റബിൾ അറസ്റ്റിൽ",
-     "url": "https://www.deshabhimani.com/News/national/jharkhand-woman-rape-police-station-constable-arrested-sw6"
-    },
-    {
-     "title": "Jharkhand Cop Arrested For Raping Woman Inside Police Station, 5 Suspended",
-     "url": "https://www.ndtv.com/india-news/jharkhand-cop-arrested-for-raping-woman-inside-police-station-5-suspended-12264968"
-    },
-    {
-     "title": "Gamharia PS rape: Champai Soren slams state Govt over custodial assault",
-     "url": "https://avenuemail.in/gamharia-police-station-rape-champai-soren/"
-    }
-   ]
-  },
-  {
-   "q": "live",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:20:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Redemption And LA28 Quotas: India's Shooters Face Crucial World Championship",
-     "url": "https://www.rediff.com/sports/report/indian-shooters-seek-la28-olympic-quota-at-issf-world-championship/20261031.htm"
-    },
-    {
-     "title": "The Azzurri will be in Doha for the World Shooting Championships.",
-     "url": "https://www.cacciapassione.com/en/Italians-in-Doha-for-the-Grand-World-Shooting-Championship/"
-    },
-    {
-     "title": "Shooting's global reach faces scrutiny",
-     "url": "https://www.insidethegames.biz/articles/shootings-global-reach-faces-scrutiny"
-    }
-   ]
-  },
-  {
-   "q": "जहान्वी कपूर",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:20:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": []
-  },
-  {
-   "q": "రిషబ్ పంత్",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:20:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "7న బరిలోకి బుమ్రా, పంత్‌",
-     "url": "https://www.eenadu.net/telugu-news/sports/general/0499/126194580"
-    },
-    {
-     "title": "టీమిండియాకు శుభవార్త.. ఆ ఇద్దరు వచ్చేస్తున్నారు!",
-     "url": "https://www.sakshi.com/telugu-news/sports/bumrah-pant-likely-play-india-3rd-unofficial-test-vs-new-zealand-2942367"
-    },
-    {
-     "title": "Rishabh Pant: న్యూజిలాండ్‌తో టెస్టు సిరీస్‌కు రిషబ్ పంత్ దూరమవుతాడా?",
-     "url": "https://vaartha.com/sports/rishabh-pant-uncertainty-regarding-rishabh-pants-availability/798864/"
-    }
-   ]
-  },
-  {
-   "q": "आयरलैंड बनाम नामीबिया",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:20:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Namibia Vs Ireland, Match Ended",
-     "url": "https://navbharattimes.indiatimes.com/sports/cricket/live-score/nam-vs-ire/10-22-2026/scoreboard/matchid-nair10222026275410.cms"
-    },
-    {
-     "title": "दूसरा वनडे: कप्तान इरास्मस ने 156 रन जड़कर इतिहास रचा, नामीबिया ने आयरलैंड को 31 रन से हराया",
-     "url": "https://hindi.ianslive.in/dusra-odi-kaptan-erasmus-ne-156-run-jadkar-itihas-racha-namibia-ne-ireland-ko-31-run-se-haraya--20261024210536"
-    },
-    {
-     "title": "क्रिकेट मैच रिजल्ट - नामीबिया बनाम आयरलैंड 2nd ODI हाइलाइट्स, स्कोरकार्ड | NAM Vs IRE Match Highlights",
-     "url": "https://www.jansatta.com/khel/cricket/live-score/namibia-vs-ireland-match-2nd-odi-live-score-full-scorecard-highlights-ireland-in-namibia-5-odi-series-2026-nair10242026275411/"
-    }
-   ]
-  },
-  {
-   "q": "ireland vs namibia",
-   "traffic": "10000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:10:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Ireland's Indian-origin pacer Jai Moondra creates cricket history with record-breaking 6/26 bowling figur",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/irelands-indian-origin-pacer-jai-moondra-creates-cricket-history-with-record-breaking-6/26-bowling-figures/articleshow/135403168.cms"
-    },
-    {
-     "title": "4th ODI, Ireland tour of Namibia at Windhoek, Oct 30 2026",
-     "url": "https://www.espn.com/cricket/series/1558225/scorecard/1558234/namibia-vs-ireland-4th-odi-24830"
-    },
-    {
-     "title": "Ireland Cricket: Jai Moondra takes six wickets as Ireland level series against Namibia",
-     "url": "https://www.bbc.com/sport/cricket/articles/cq0732v1znz8o"
-    }
-   ]
-  },
-  {
-   "q": "ಜಿ.ಪರಮೇಶ್ವರ",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-01T08:10:00Z",
-   "observed_at": "2026-11-01T09:00:56.022343Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "₹2,500 ಬರ ಪರಿಹಾರ ನಾಳೆಯಿಂದಲೇ ಶುರು! ಎಲ್ಲ ರೈತರಿಗೂ ಹಣ ಸಿಗುತ್ತಾ? 17 ಷರತ್ತುಗಳೇನು?",
-     "url": "https://kannada.asianetnews.com/state/rs-2500-drought-relief-to-begin-tomorrow-17-conditions-announced-for-farmers-says-parameshwara-rav/articleshow-c713iar"
-    },
-    {
-     "title": "ರೈತರನ್ನು ದಾರಿ ತಪ್ಪಿಸಬೇಡಿ: ಅಶೋಕಗೆ ತಿರುಗೇಟು ಕೊಟ್ಟ ಡಿಸಿಎಂ ಪರಮೇಶ್ವರ",
-     "url": "https://www.prajavani.net/news/karnataka-news/parameshwara-criticizes-ashoka-over-farmer-relief-fund-issue-4366016"
-    },
-    {
-     "title": "Farmers: ಬರ ಪರಿಹಾರದ ನಿರೀಕ್ಷೆಯಲ್ಲಿದ್ದ ರೈತರಿಗೆ 17 ಕಂಡೀಷನ್ಸ್! ಅನ್ನದಾತನಿಗೆ ರಾಜ್ಯ ಸರ್ಕಾರದಿಂದ ಶಾಕ್!",
-     "url": "https://kannada.news18.com/news/state/government-imposes-conditions-for-drought-relief-shocking-farmers-ssr-ws-bl-2516391.html"
     }
    ]
   }

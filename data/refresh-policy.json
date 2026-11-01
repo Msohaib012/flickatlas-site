@@ -119,8 +119,8 @@
     0
    ],
    "interval_hours": 6,
-   "last_success": "2026-11-01T13:51:59Z",
-   "last_attempt": "2026-11-01T13:51:59Z",
+   "last_success": "2026-11-01T15:55:16Z",
+   "last_attempt": "2026-11-01T15:55:16Z",
    "status": "success"
   },
   "title_seed": {
@@ -349,8 +349,8 @@
     4
    ],
    "interval_hours": 1,
-   "last_success": "2026-11-01T14:51:43Z",
-   "last_attempt": "2026-11-01T14:51:43Z",
+   "last_success": "2026-11-01T15:55:07Z",
+   "last_attempt": "2026-11-01T15:55:07Z",
    "status": "success"
   },
   "overseas_ai": {
@@ -366,6 +366,20 @@
    "last_success": "2026-11-01T07:57:58Z",
    "last_attempt": "2026-11-01T07:57:58Z",
    "status": "success"
+  },
+  "advance_booking": {
+   "hours_utc": [
+    6,
+    18
+   ],
+   "hours_pkt": [
+    11,
+    23
+   ],
+   "interval_hours": 12,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
   },
   "stats_pipeline": {
    "hours_utc": [
