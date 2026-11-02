@@ -1,3 +1,6 @@
+// Boundary fixtures updated 2026-11-02: the two age-rejection cases now
+// sit at 72h+1s (were 24h+1s), matching the aligned client windows
+// (PROOF/TREND max age 72h, same as scripts/trending_weekly.py).
 const fs=require('fs'), vm=require('vm'), assert=require('assert'), path=require('path');
 const source=fs.readFileSync(path.join(__dirname,'..','js','trending-searches.js'),'utf8');
 const now=Date.parse('2026-10-29T12:00:00Z');
@@ -18,9 +21,9 @@ for(const altered of [
  {...payload,topics:[{...topic,title:'Unrelated'}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,source_url:'https://evil.example/rss'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,geo:'US'}}]},
- {...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-28T11:59:59Z'}}]},
+ {...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-26T11:59:59Z'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,observed_at:'2026-10-29T12:01:00Z'}}]},
- {...payload,topics:[{...topic,trend_proof:{...proof,started_at:'2026-10-28T11:59:59Z'}}]},
+ {...payload,topics:[{...topic,trend_proof:{...proof,started_at:'2026-10-26T11:59:59Z'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,term:'movie'}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,related:[{title:'Jailer sports update',url:'https://flickatlas.co.uk/news'}]}}]},
  {...payload,topics:[{...topic,trend_proof:{...proof,related:[{title:'Jailer sports update',url:'https://flickatlas.com/news'}]}}]},

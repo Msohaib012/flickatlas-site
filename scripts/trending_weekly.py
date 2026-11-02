@@ -156,4 +156,26 @@ def main(argv=None):
     return 0
 
 if __name__ == "__main__": raise SystemExit(main())
-def words(s): return {w for w in re.findall(r"[a-z0-9]+", str(s or "").lower()) if (len(w) > 2 or w.isdigit()) and w not in STOP}
+# Subject-alias normalisation (fix 2026-11-02): Google's related headlines
+# often phrase the same subject differently from site headlines -- "GTA 6"
+# vs "Grand Theft Auto VI". Roman numerals died in the length filter and
+# abbreviations never expanded, so genuinely matching stories scored zero
+# shared context words and the rail emptied (2026-11-02: the GTA VI story
+# was the day's only real match and was rejected). Canon: emit the digit
+# form alongside roman numerals; expand known franchise aliases. All
+# other gates (exact trend phrase in the headline, GENERIC rejection,
+# single-word entertainment context) are unchanged, so wrong-subject
+# coincidences (e.g. PK trend "king" = King Charles vs the film "King")
+# are still rejected.
+_TREND_ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10"}
+_TREND_ALIASES = {"gta": ("grand", "theft", "auto")}
+
+def words(s):
+    out = set()
+    for w in re.findall(r"[a-z0-9]+", str(s or "").lower()):
+        forms = {w}
+        if w in _TREND_ROMAN: forms.add(_TREND_ROMAN[w])
+        if w in _TREND_ALIASES: forms.update(_TREND_ALIASES[w])
+        for f in forms:
+            if (len(f) > 2 or f.isdigit()) and f not in STOP: out.add(f)
+    return out

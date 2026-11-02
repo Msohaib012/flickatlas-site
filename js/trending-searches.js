@@ -1,15 +1,24 @@
 /* FlickAtlas — current Google RSS trends intersected with published articles. */
 (function (root) {
   'use strict';
-  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 3 * 3600000, TREND_MAX_AGE_MS = 24 * 3600000, PROOF_MAX_AGE_MS = 24 * 3600000;
-  var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN'};
+  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 3 * 3600000, TREND_MAX_AGE_MS = 72 * 3600000, PROOF_MAX_AGE_MS = 72 * 3600000;
+  /* FEEDS and the 72h proof/trend windows mirror the server
+     (scripts/trending_weekly.py FEEDS + PROOF_HOURS/TREND_HOURS = 72,
+     owner-approved 72h pool incl. PK since 2026-11-01). This client
+     copy was never updated: it rejected every PK-geo proof and any
+     trend older than 24h, so the rail rendered empty even when the
+     server had emitted valid topics (fix 2026-11-02). */
+  var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN', PK:'https://trends.google.com/trending/rss?geo=PK'};
   var GENERIC = {movie:1,movies:1,film:1,films:1,news:1,today:1,'box':1,'office':1,collection:1,collections:1,latest:1,trending:1,trend:1,viral:1,breaking:1,entertainment:1,cinema:1,update:1,updates:1};
   var STOP = {a:1,an:1,the:1,and:1,or:1,of:1,to:1,in:1,on:1,for:1,with:1,at:1,by:1,from:1,is:1,are:1,was:1,were:1,be:1,been:1,this:1,that:1,these:1,those:1,his:1,her:1,its:1,their:1,has:1,have:1,had:1};
   function safe(value) { return String(value == null ? '' : value).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
   function items(data) { return Array.isArray(data) ? data : data && typeof data === 'object' ? Object.keys(data).map(function(k){return data[k];}) : []; }
   function title(a) { return String(a && (a.headline || a.title) || '').trim(); }
   function date(a) { var t = Date.parse(a && (a.published || a.date)); return isFinite(t) ? t : 0; }
-  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){if((w.length>2||/^\d+$/.test(w))&&!STOP[w])out[w]=1;}); return out; }
+  /* words(): roman-numeral canon + franchise-alias expansion, mirroring
+     scripts/trending_weekly.py — "GTA 6" in Google's related headlines
+     must share context words with "Grand Theft Auto VI" headlines. */
+  function words(s) { var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'}; var ALIASES={gta:['grand','theft','auto']}; var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }
   function countShared(a,b,excludeGeneric) { var n=0; Object.keys(a).forEach(function(w){if(b[w]&&(!excludeGeneric||!GENERIC[w]))n++;}); return n; }
   function within(t, now) { return !!t && t >= now - WINDOW_MS && t <= now; }
   function canonical(id) { return '/news-item?id=' + encodeURIComponent(String(id)); }
@@ -62,5 +71,5 @@
   }
   root.FATrendingSearches={mount:mount,helpers:{validTopics:validTopics,validProof:validProof,render:render,withinWindow:within,canonical:canonical}};
 })(typeof window!=='undefined'?window:globalThis);
-  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){if((w.length>2||/^\d+$/.test(w))&&!STOP[w])out[w]=1;}); return out; }
-  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){if((w.length>2||/^\d+$/.test(w))&&!STOP[w])out[w]=1;}); return out; }
+  function words(s) { var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'}; var ALIASES={gta:['grand','theft','auto']}; var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }
+  function words(s) { var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'}; var ALIASES={gta:['grand','theft','auto']}; var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }
