@@ -254,6 +254,17 @@
         setDelta($("st-views-delta"), viewsToday, viewsYest);
         $("st-views-sub").textContent = "every page open counts";
       }
+      /* All-time total views: every recorded day since counting began. */
+      var viewsTotal = 0;
+      if (pv && typeof pv === "object") {
+        for (var vdk in pv) {
+          var vdo = pv[vdk];
+          if (vdo && typeof vdo === "object") {
+            for (var vpk in vdo) { var vpo = vdo[vpk]; if (vpo && typeof vpo === "object") viewsTotal += Object.keys(vpo).length; }
+          }
+        }
+      }
+      if ($("st-views-total")) $("st-views-total").textContent = fmt(viewsTotal);
       /* Average time on site (session durations recorded by the tracker) */
       function fmtDur(ms) {
         var sec = Math.max(0, Math.round(ms / 1000));
