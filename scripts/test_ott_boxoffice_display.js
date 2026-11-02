@@ -121,7 +121,10 @@ assert.equal(helper.resolveMetric(pairItem, sourcePairs, {}, {}, 'today', today)
 // figure is tracked), summed over the most recent tracked days and tagged
 // tracked_daywise with its covered range. Verified figures always win;
 // the retired today window never falls back; the collector still treats a
-// fallback-covered window as uncovered for worldwide research.
+// fallback-covered window as uncovered for worldwide research. Calls
+// below pass no bucket — the Bollywood behaviour. Owner rule 2026-11-02
+// scopes this fallback to Bollywood only; the world-bucket cases are
+// asserted in the Verity/Forgotten Island block further down.
 const trackedItem = { id: '1806232', release_date: '2026-10-23' };
 const trackedRows = [
   pair(1, '2026-10-23', 19017, null), pair(2, '2026-10-24', 11622, null),
@@ -295,6 +298,53 @@ assert.equal(helper.directMetric(direct('cumulative_total', 6500000, { amount_hi
   'cumulative_total', today).amount_high, undefined,
   'a non-numeric amount_high is dropped rather than rendered');
 
+// Owner rule 2026-11-02: on the homepage, "Total" means the TOTAL — one
+// combined worldwide figure. For WORLD-bucket titles the tracked daywise
+// rows are their India collections, so the tracked fallback never
+// applies in any window: no verified worldwide figure means every cell
+// stays Not reported (the Verity shape — India rows tracked, real
+// worldwide gross not yet verified). Bollywood keeps the 2026-10-30
+// tracked fallback asserted above.
+const verityItem = { id: '1283515', release_date: '2026-10-02' };
+const verityRows = [
+  pair(1, '2026-10-02', 500000, null), pair(2, '2026-10-03', 300000, null),
+  pair(3, '2026-10-04', 150000, null), pair(4, '2026-10-05', 80000, null),
+  pair(5, '2026-10-06', 50000, null), pair(6, '2026-10-07', 40000, null),
+  pair(7, '2026-10-08', 22074, null),
+];
+for (const windowKey of ['last_2_days', 'last_7_days', 'cumulative_total']) {
+  assert.equal(helper.resolveMetric(verityItem, verityRows, {}, {}, windowKey, today, 'world'), null,
+    `world bucket never falls back to tracked India rows (${windowKey})`);
+  assert.equal(helper.resolveMetric(verityItem, verityRows, {}, {}, windowKey, today, 'bollywood').method,
+    'tracked_daywise', `the same rows still fall back for the bollywood bucket (${windowKey})`);
+}
+// A world title with a verified total shows exactly that total; its
+// 2-day/7-day cells stay Not reported — the tracked India sums never
+// sit beside it (the Forgotten Island shape).
+const islandItem = { id: '1465063', release_date: '2026-09-25' };
+const islandReport = { cumulative_total: direct('cumulative_total', 68276556) };
+const islandTotal = helper.resolveMetric(islandItem, verityRows, {}, islandReport,
+  'cumulative_total', today, 'world');
+assert.equal(islandTotal.amount, 68276556, 'a verified worldwide total is the world card Total');
+assert.equal(islandTotal.method, 'tavily_gemini');
+assert.equal(helper.resolveMetric(islandItem, verityRows, {}, islandReport, 'last_2_days', today, 'world'), null,
+  'world 2-day window stays Not reported beside a verified total');
+assert.equal(helper.resolveMetric(islandItem, verityRows, {}, islandReport, 'last_7_days', today, 'world'), null,
+  'world 7-day window stays Not reported beside a verified total');
+// The rendered world card: all three cells Not reported, no money
+// figure anywhere, when only India tracked rows exist.
+const worldCardHtml = vm.runInNewContext(pageSource.slice(boStart, boEnd) + '\nboCardHtml;', {
+  window: {}, HomeBoxOffice: helper, dwData: { '1283515': verityRows },
+  boxOfficeWorldwide: {}, boxOfficeSnapshot: { reports: {} }, todayIST: today,
+  boSelection: { bollywood: [], world: [] },
+  UI: { esc: s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;'),
+    titleOf: x => x.title, img: () => 'https://img.example/p.jpg', fmtDate: s => s },
+});
+const verityCard = worldCardHtml({ id: 1283515, title: 'Verity', release_date: '2026-10-02', poster_path: '/p.jpg' }, 'world');
+assert.equal((verityCard.match(/Not reported/g) || []).length, 3,
+  'all three world card cells are Not reported when only India rows are tracked');
+assert.doesNotMatch(verityCard, /\$[\d]/, 'no tracked India sum renders on a world card');
+
 // 14 calendar dates are release-eligible; each industry has an independent 8-card cap.
 const ui = { industryOf: x => x.industry || 'world', isStreamingOnly: x => !!x.streamingOnly,
   titleOf: x => x.title || String(x.id) };
@@ -422,4 +472,4 @@ for (const candidate of selectorOut.candidates) {
 }
 assert(selectorOut.candidates.some(c => c.windows_to_refresh.includes('last_2_days')),
   'selector emits last_2_days among the windows to refresh');
-console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; tracked daywise fallback covers windows with no verified figure; per-bucket eligibility (bollywood 14d, world 90d) and 8-per-tab selection pass.');
+console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; tracked daywise fallback covers bollywood windows with no verified figure and never applies to world cards (owner rule 2026-11-02); per-bucket eligibility (bollywood 14d, world 90d) and 8-per-tab selection pass.');

@@ -415,10 +415,15 @@
        India Net and Overseas stay separate on inner movie daywise pages;
        the homepage adds them only as verified worldwide figures (explicit
        reports or strict provenance pairs from the Tavily → Gemini job).
-       Owner rule 2026-10-30: a window with no verified worldwide figure
-       falls back to the tracked daywise collection summed by the shared
-       helper and labelled "Tracked" — the card never claims a worldwide
-       figure it does not have. ---------- */
+       Owner rule 2026-10-30: a Bollywood window with no verified
+       worldwide figure falls back to the tracked daywise collection
+       summed by the shared helper and labelled "Tracked" — the card
+       never claims a worldwide figure it does not have.
+       Owner rule 2026-11-02: on the homepage "Total" means the total —
+       for World Cinema cards the tracked rows are the title's India
+       collections, so they are never shown as a Total/2-day/7-day
+       figure; a world card shows a verified worldwide figure or
+       "Not reported". ---------- */
     const HomeBoxOffice = window.FAHomeBoxOffice;
     const boxOfficeSnapshot = HomeBoxOffice
       ? HomeBoxOffice.safeSnapshot(await homeBoxOfficeSnapshotPromise)
@@ -446,13 +451,13 @@
        both draw from this pool. */
     const boPoolFor = (industry) => [...(boSelection[industry === "international" ? "world" : "bollywood"] || [])]
       .sort((a, b) => String(a.release_date || "9999-12-31").localeCompare(String(b.release_date || "9999-12-31")));
-    const boCardHtml = (entry) => {
+    const boCardHtml = (entry, bucket) => {
       const id = String(entry.id);
       const rows = dwData[id] || [];
       const explicitTotal = boxOfficeWorldwide[id];
       const report = boxOfficeSnapshot.reports[id] || {};
       const metricFor = (windowKey) => HomeBoxOffice
-        ? HomeBoxOffice.resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST) : null;
+        ? HomeBoxOffice.resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST, bucket) : null;
       const missing = '<span class="fa-box-unavailable">Not reported</span>';
       /* Currency switcher (owner report 2026-11-01): homepage figures
          must be .fa-money spans like every other page (UI.fmtMoney), or
@@ -564,7 +569,7 @@
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
       ${boHasKind ? `${switchButtons("boxoffice")}
-      <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>` : ""}
+      <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry, "bollywood")).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>` : ""}
       ${advHtml}
     </section>` : "";
 
@@ -1216,7 +1221,7 @@
         /* Spotlight: full pool, no cap (user order 2026-10-26). */
         const items = kind === "spotlight" ? publishedFor(kind, industry) : kind === "boxoffice" ? boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice) : publishedFor(kind, industry).slice(0, HOME_LIMITS[limitKey]);
         if (kind === "calendar") result.innerHTML = items.length ? items.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>';
-        else if (kind === "boxoffice") result.innerHTML = items.length ? items.map(entry => boCardHtml(entry)).join("") : '<p role="status">No eligible theatrical releases found.</p>';
+        else if (kind === "boxoffice") result.innerHTML = items.length ? items.map(entry => boCardHtml(entry, industry === "international" ? "world" : "bollywood")).join("") : '<p role="status">No eligible theatrical releases found.</p>';
         else result.innerHTML = items.length ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined)).join("") : '<p role="status">No matching titles found.</p>';
       };
       group.addEventListener("click", ev => { const btn = ev.target.closest("button[data-industry]"); if (btn) activate(btn.dataset.industry, true); });

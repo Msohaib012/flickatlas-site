@@ -5,10 +5,16 @@
       movie's inner daywise page; the homepage adds them only for exact-
       date, same-currency, provenance-complete pairs.
    2) Owner rule 2026-10-30: when no verified worldwide figure resolves
-      for a window, the card falls back to the tracked daywise collection
-      that does exist (India Net plus Overseas where a figure is tracked),
-      summed over the most recent tracked days and labelled "Tracked" —
-      never presented as a worldwide figure. */
+      for a window, the BOLLYWOOD card falls back to the tracked daywise
+      collection that does exist (India Net plus Overseas where a figure
+      is tracked), summed over the most recent tracked days and labelled
+      "Tracked" — never presented as a worldwide figure.
+   3) Owner rule 2026-11-02: on the homepage, "Total" means the TOTAL —
+      one combined worldwide figure. For WORLD-bucket titles the tracked
+      daywise rows are their India collections, so the tracked fallback
+      never applies to them in any window: a world card shows only a
+      verified worldwide figure (layers in (1)) or "Not reported".
+      India Net and Overseas stay separate on inner pages, unchanged. */
 (function (root, factory) {
   const api = factory();
   if (typeof module === "object" && module.exports) module.exports = api;
@@ -492,15 +498,24 @@
     if (windowKey === "cumulative_total" && direct.as_of > base.as_of) return direct;
     return directObservedLater ? direct : base;
   }
-  function resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST) {
+  function resolveMetric(entry, rows, explicitTotal, report, windowKey, todayIST, bucket) {
     // Strict priority: a verified worldwide figure (paired components,
     // direct snapshot report, published/local explicit total) always wins.
-    // Only when none resolves does the tracked daywise fallback apply.
+    // Only when none resolves does the tracked daywise fallback apply —
+    // and only for the Bollywood bucket. Owner rule 2026-11-02: a world
+    // title's tracked daywise rows are its India collections, so on the
+    // homepage they must never stand in for a worldwide Total/2-day/
+    // 7-day figure; the cell stays "Not reported" until a verified
+    // worldwide figure exists. Callers that know the bucket (homepage
+    // renderer, offline selector) always pass it; an omitted bucket
+    // keeps the pre-2026-11-02 behaviour.
     // needsDirectRefresh below is deliberately unaffected: a window the
     // fallback covers is still "uncovered" for the collector's worldwide
     // research and keeps being re-queried on schedule.
-    return resolveVerifiedMetric(entry, rows, explicitTotal, report, windowKey, todayIST)
-      || trackedMetric(rows, windowKey, todayIST);
+    const verified = resolveVerifiedMetric(entry, rows, explicitTotal, report, windowKey, todayIST);
+    if (verified) return verified;
+    if (bucket === "world") return null;
+    return trackedMetric(rows, windowKey, todayIST);
   }
   function needsDirectRefresh(entry, rows, explicitTotal, report, windowKey, todayIST) {
     // This selector is used by the four-slot refresh workflow, not a one-time

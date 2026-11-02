@@ -86,7 +86,7 @@ try {
       const local = {};
       const windowsToRefresh = [];
       for (const windowKey of ["last_2_days", "last_7_days", "cumulative_total"]) {
-        local[windowKey] = helper.resolveMetric(item, daywise[id], worldwide[id], report, windowKey, todayIST);
+        local[windowKey] = helper.resolveMetric(item, daywise[id], worldwide[id], report, windowKey, todayIST, industry);
         if (helper.needsDirectRefresh(item, daywise[id], worldwide[id], report, windowKey, todayIST)) windowsToRefresh.push(windowKey);
       }
       candidates.push({
