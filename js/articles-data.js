@@ -36711,5 +36711,562 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 14:38:35 +0000"
+  },
+  "m6f08n": {
+    "id": "m6f08n",
+    "type": "news",
+    "headline": "Khushi Episode 51 — Watch Online on HUM TV",
+    "dek": "Khushi episode 51 aired on 2026-11-02 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 51 aired on 2026-11-02 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=KIb7SN9R2Bk"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Khushi ki tabiyat kharab ho jati hai aur usse chakkar aane lagte hain. Khushi aur uski saas doctor ke paas check-up ke liye jaati hain jahan doctor kehti hain ke Khushi ko thora rest karne ki zaroorat hai. Ghar aakar Khushi jab Aamar se baat karti hai toh Aamar usse naraz ho jata hai ke woh bina bataye apni maa ke saath doctor chali gayi thi. Uske baad Aamar aur Khushi mein is baat par bahas ho jati hai. Doosri taraf, Aamar ke bhai aur uski biwi Khushi ke liye baby ki tayariyaan karte hain aur unhein reports se pata chalta hai ke woh jald parents banne wale hain. Khushi jab ye khabar sunti hai toh woh hairan aur pareshan ho jati hai kyunki woh is zimmedari ke liye tayar nahi hai aur apne husband ke saath zyada waqt guzarna chahti hai. Aamar ke ghar wale Khushi ki birthday ki chhupta-chupta tayariyaan kar rahe hote hain taqay usko surprise de sakein. Episode ke aakhir mein Khushi jab tayar hokar apne ghar jaane lagti hai, toh uski saas aur baki ghar wale baith kar yehi soch rahe hote hain ke Khushi ko is surprise birthday party ke bare mein kaise bataya jaye taqay woh khush ho jaye."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 51 aired on 2026-11-02.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=KIb7SN9R2Bk",
+      "YouTube views: 185,543.",
+      "Episode summary added 2026-11-02."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/KIb7SN9R2Bk/hqdefault.jpg",
+        "caption": "Khushi Episode 51",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-02T15:00:22Z"
+  },
+  "bhpa12": {
+    "id": "bhpa12",
+    "type": "news",
+    "headline": "Uswah Episode 41 — Watch Online on Geo TV",
+    "dek": "Uswah episode 41 aired on 2026-11-02 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 41 aired on 2026-11-02 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=GnkR89iBmeg"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah apnay gharwalon ki khawahish ke khilaf jakar apni behan ki shadi par nahi jana chahti kyunke woh aik larke (Esa) se mohabbat karti hai aur usay nahi chhorna chahti. Lekin gharwalon aur apni behan ke kehne par woh shadi mein shamil hoti hai. Shadi ke dauran jab Esa wahan nahi hota, toh sab log aur Uswah ki family hairan aur pareshan hote hain. Uswah ki family mein baatein shuru ho jati hain ke Esa kahan hai aur usne shadi ke mauqay par aana kyun zaroori nahi samjha. Uswah khud bhi andar se buhat bechain aur udaas hoti hai kyunke uska dil Esa ke paas hota hai. Baad mein Esa wahan ata hai, aur Uswah ki khushi ka koi thikana nahi rehta. Uswah aur Esa ki mulaqat hoti hai, aur dono ke beech thori baat-cheet hoti hai. Phir shadi ki rasm mukammal hoti hai aur sab log is khushi ke mauqay par shamil hote hain. Episode ke aakhir mein Uswah aur Esa dobara milte hain aur ek doosre ke sath waqt guzarte hain, aur episode yahan khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 41 aired on 2026-11-02.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=GnkR89iBmeg",
+      "YouTube views: 515,159.",
+      "Episode summary added 2026-11-02."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/GnkR89iBmeg/hqdefault.jpg",
+        "caption": "Uswah Episode 41",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-02T15:00:03Z"
+  },
+  "ydlvbj": {
+    "id": "ydlvbj",
+    "type": "news",
+    "headline": "Izzat Episode 44 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 44 aired on 2026-11-02 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 44 aired on 2026-11-02 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=7TDquLCbn9g"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Parnia apne ghar par baithi hoti hai jab Shanzay aur Rutba bhi wahan aati hain. Parnia unn dono se unki padhai aur mukhtalif cheezon ke baare mein poochti hai, aur phir baat raniyon, taaveez aur jadoo par shuru hoti hai. Parnia jaan boojh kar Rutba aur uske khandan par tanqeed karti hai aur kehti hai ke unka khandan aam nahi hai. Yeh sunkar Rutba gusse mein wahan se chali jaati hai. Shanzay bhi Parnia ko bura bhala kehti hai ke usne mehmaan ke sath badtameezi ki aur wahan se nikal aati hai. Shanzay ghar jaakar apne bhai Shahnzaib ko phone karti hai aur usse kehti hai ke woh usey lene aaye kyunki woh ab wahan nahi baith sakti. Shahnzaib wahan pahunchta hai aur Parnia ke walid se milta hai, jo Parnia ko andar bhej dete hain. Baad mein, Shahnzaib aur Parnia ke walid ki baatein hoti hain jahan woh Parnia aur Shahnzaib ke rishte ki baat karte hain. Parnia is rishte se inkaar karti hai aur kehti hai ke woh Shahnzaib se shaadi nahi karegi, jis par uska baap gussa hota hai. Episode ke ek aur scene mein, Rutba apne dada ke sath shatranj (chess) khel rahi hoti hai aur unhe batati hai ke woh commission ka imtihan pass kar chuki hai, jisse dada bohot khush hote hain. Usi waqt ek dost ghar aata hai aur sab khushi se baat karte hain. Akhir mein, Rutba udaas baithi hoti hai aur episode ek pur-asraar aur udaas mahol par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 44 aired on 2026-11-02.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=7TDquLCbn9g",
+      "YouTube views: 2,657.",
+      "Episode summary added 2026-11-02."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/7TDquLCbn9g/hqdefault.jpg",
+        "caption": "Izzat Episode 44",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-02T15:00:00Z"
+  },
+  "4t059d": {
+    "id": "4t059d",
+    "type": "news",
+    "headline": "Dastoor Episode 73 — Watch Online on Green TV",
+    "dek": "Dastoor episode 73 aired on 2026-11-02 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 73 aired on 2026-11-02 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=srfchMz8WCE"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Aliyaan aur Amara ki shadi aur Dadi ke faislay par ghar walon ke beech khinchtan jari hai. Shiza, Aliyaan aur Amara ke rishtay aur Aliyaan ki gusse ki halat par Aliina ko taane deti hai, jabke Aliina is haqeeqat ko qubool nahi kar paati ke Aliyaan aur Amara ab bhi shohar-biwi hain. Mustafa aur dusre ghar wale is musalay ko hal karne ki koshish karte hain, magar ghar mein tension kam nahi hoti. Amara is baat par dukh mehsoos karti hai ke usay apno ka sahara nahi mil raha. Aliyaan aur Aliina ke beech bhi is maslay par baat hoti hai, aur Aliyaan apni taraf se hal nikalne ki koshish karta hai, jabke Dadi aur baqi elders apne faislon par qaim rehtay hain. Episode ke ikhtitam par, family ke andar mazeed pareshani aur uljhan dikhayi deti hai jab Dadi aur baqi log Aliyaan aur Amara ke hal ke baray mein mazeed behas karte hain aur ek nayi tana-tani paida hoti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 73 aired on 2026-11-02.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=srfchMz8WCE",
+      "YouTube views: 78,375.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-02."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/srfchMz8WCE/hqdefault.jpg",
+        "caption": "Dastoor Episode 73",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-02T14:45:16Z"
+  },
+  "1dt1418": {
+    "id": "1dt1418",
+    "type": "news",
+    "headline": "Zhou Qunfei Reclaims Title as China's Richest Woman with 127 Billion Yuan Fortune",
+    "dek": "Lens Technology founder Zhou Qunfei has climbed back to the top of China's wealthiest women ranking, building her massive empire from humble beginnings as a factory worker earning $1.20 a day.",
+    "body": [
+      {
+        "h": "Reclaiming the Top Spot",
+        "p": [
+          "Zhou Qunfei has once again secured her position as the wealthiest woman in China. According to the Hurun Richest Women in China 2026 list, her total fortune is estimated at 127 billion yuan, which translates to approximately ₹ 1.8 lakh crore.",
+          "Her net worth grew by 15 percent over the course of a single year. This growth allowed her to surpass Hansoh Pharmaceutical founder Zhong Huijuan, whose wealth stands at 124 billion yuan or around ₹ 1.76 lakh crore."
+        ]
+      },
+      {
+        "h": "Humble Beginnings in Hunan and Shenzhen",
+        "p": [
+          "Born in 1970 in China's Hunan province, Zhou left her schooling behind as a teenager to travel to Shenzhen in search of employment opportunities. Her initial steps into the workforce began at a watch-glass factory.",
+          "During her time at the facility, she earned a modest wage of around $1.20 a day. Despite the challenging circumstances, these early experiences laid the foundation for her future industrial career."
+        ]
+      },
+      {
+        "h": "Building a Glass-Processing Enterprise",
+        "p": [
+          "At the age of 23, Zhou made the decisive choice to venture out on her own by launching a glass-processing workshop. She dedicated herself to mastering complex technical skills, teaching herself advanced screen-printing and curved-glass manufacturing methods.",
+          "These self-taught techniques eventually formed the core capabilities of Lens Technology, the massive glass manufacturing giant she co-founded. The company grew rapidly to become a primary supplier of display glass for smartphones."
+        ]
+      },
+      {
+        "h": "The Apple Partnership and Market Expansion",
+        "p": [
+          "Lens Technology experienced a massive turning point after securing a deal to supply glass covers for Apple's very first iPhones in 2007. Official company prospectuses noted that Apple accounted for nearly half of the firm's main business revenue between 2011 and mid-2014.",
+          "A stock market listing in Shenzhen in March 2015 propelled Zhou to the number one spot on China's female wealth rankings for the first time. She had previously held the richest woman title that same year before market fluctuations altered the standings."
+        ]
+      },
+      {
+        "h": "Navigating Economic Hurdles and Diversification",
+        "p": [
+          "Zhou's financial standing encountered a significant obstacle in 2018 when trade tensions between the United States and China, alongside shifting Apple sales figures, caused a sharp drop in her company's share prices.",
+          "In response to these market pressures, Lens Technology successfully diversified its operations. The company expanded beyond smartphones into electric vehicles, artificial intelligence-related hardware, and robotics to capitalize on China's high-tech manufacturing sector."
+        ]
+      },
+      {
+        "h": "Broader Trends in Chinese Wealth",
+        "p": [
+          "Data compiled by Hurun indicates that a significant majority of China's top 50 wealthiest women are self-made entrepreneurs, with their combined assets reaching a record 1.93 trillion yuan.",
+          "When combined with her husband's assets, Zhou secured the 33rd position on China's overall Hurun Rich List. That broader list was led by ByteDance founder Zhang Yiming, whose fortune was evaluated at 670 billion yuan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lens Technology founder Zhou Qunfei has reclaimed her position as China's richest woman with an estimated fortune of 127 billion yuan, surpassing Hansoh Pharmaceutical founder Zhong Huijuan. Rising from a teenage school dropout who earned $1.20 a day at a watch-glass factory, Zhou built her empire through self-taught manufacturing techniques and major supply contracts with Apple before diversifying into electric vehicles and AI hardware."
+        ]
+      }
+    ],
+    "facts": [
+      "Zhou Qunfei is 56 years old.",
+      "Zhou Qunfei's estimated fortune is 127 billion yuan (approximately ₹ 1.8 lakh crore).",
+      "Zhong Huijuan's estimated fortune is 124 billion yuan (around ₹ 1.76 lakh crore).",
+      "Zhou previously held the title of China's richest woman in 2015.",
+      "Zhou was born in 1970 in Hunan province.",
+      "Zhou earned around $1.20 a day at her first factory job.",
+      "Zhou started her own glass-processing workshop at the age of 23.",
+      "Lens Technology began supplying glass covers for Apple's first iPhones in 2007.",
+      "Lens Technology was listed on the Shenzhen stock market in March 2015.",
+      "Zhou and her husband were placed 33rd on China's overall Hurun Rich List.",
+      "Zhang Yiming's estimated wealth stood at 670 billion yuan."
+    ],
+    "entities": {
+      "people": [
+        "Zhou Qunfei",
+        "Zhong Huijuan",
+        "Maye Musk",
+        "Elon Musk",
+        "Bhavya Sukheja",
+        "Vikram Chandra",
+        "Zhang Yiming"
+      ],
+      "titles": [
+        "Hurun Richest Women in China 2026",
+        "Hurun Rich List"
+      ]
+    },
+    "keywords": [
+      "Zhou Qunfei richest woman",
+      "Lens Technology founder Zhou Qunfei",
+      "Hurun Richest Women in China 2026",
+      "Zhong Huijuan Hansoh Pharmaceutical"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/02/1600x900/logo/_Zhou_Qunfei_1793632112147_IYQr_1793632120062_f7pW_d11eb163-e9b6-4450-8f0c-dd2bbe8d37d9_Wbzu.jpg",
+        "caption": "Zhou Qunfei Reclaims Title as China's Richest Woman with 127 Billion Yuan Fortune",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 20:53:20 +0530"
+  },
+  "1sywsgf": {
+    "id": "1sywsgf",
+    "type": "news",
+    "headline": "Druski Secures Multi-Year Content Partnership with Netflix for 4LIFERS Entertainment",
+    "dek": "The digital comedy star has finalized a major agreement with the streaming platform to produce exclusive programming, starting with a semi-scripted series featuring Mike Epps.",
+    "body": [
+      {
+        "h": "A Major Streaming Partnership",
+        "p": [
+          "Comedian Druski has officially entered into a multi-year development partnership with Netflix through his production banner, 4LIFERS Entertainment. The creator will craft original content exclusively for the platform, bringing his distinct comedic voice to a wider worldwide audience.",
+          "The agreement marks a significant expansion for the digital personality, who has previously grown a massive online following through independent sketches and self-produced digital shows."
+        ]
+      },
+      {
+        "h": "First Project: Collect Praise",
+        "p": [
+          "The initial project to emerge from this collaboration is a semi-scripted comedy titled Collect Praise. The upcoming series is adapted from a viral megachurch pastor persona that Druski originally popularized in an online video and later performed while hosting the BET Awards.",
+          "In the show, Druski will star as a wealth-obsessed megachurch pastor alongside Mike Epps, who has been cast as his deacon. The characters will navigate a continuous stream of scandals, chaos, and controversy."
+        ]
+      },
+      {
+        "h": "Existing Catalog and Licensing",
+        "p": [
+          "Alongside the creation of new original programming, the arrangement includes Netflix licensing a selection of Druski's previously released material. This portion of the deal encompasses his shows Coulda Been Love, Coulda Been Daddy, and Coulda Been Records Auditions.",
+          "These acquisitions will allow the streamer to house a broader portfolio of the comedian's established digital intellectual property under one roof."
+        ]
+      },
+      {
+        "h": "Creator's Perspective on the Deal",
+        "p": [
+          "Addressing the partnership, Druski emphasized that his career foundation was built by formulating characters and humor that connect with audiences. He noted that the collaboration provides the necessary resources to scale his creative efforts.",
+          "Drew Desbordes, performing under the stage name Druski, stated that the alliance offers a tremendous platform for his 4LIFERS Entertainment team to push their programming capabilities to new levels."
+        ]
+      },
+      {
+        "h": "Executive Response from Netflix",
+        "p": [
+          "John Derderian, the vice president overseeing next-gen content at Netflix, praised the comedian's unique ability to generate memorable characters that spark public conversation. He pointed out that the streamer aims to attract top-tier talent for ambitious storytelling.",
+          "Welcoming the creator to the platform, Derderian affirmed that Collect Praise represents only the initial phase of their collaborative efforts."
+        ]
+      },
+      {
+        "h": "Rising Crossover Success",
+        "p": [
+          "This development deal arrives as Druski solidifies his status as a major crossover talent emerging from the creator economy. His resume extends beyond digital sketches to include traditional acting roles in projects such as Grown-ish and Praise This, alongside various commercial appearances.",
+          "Furthermore, he is scheduled to break ground on November 7, 2026, by becoming the first online creator to serve as the host of Saturday Night Live."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Comedian Druski has signed a multi-year exclusive development pact with Netflix for his production company, 4LIFERS Entertainment. The partnership kicks off with the semi-scripted series Collect Praise, co-starring Mike Epps, alongside the licensing of several of the creator's existing shows."
+        ]
+      }
+    ],
+    "facts": [
+      "Druski signed a multi-year development deal with Netflix.",
+      "The deal is through his company 4LIFERS Entertainment.",
+      "The first project is a semi-scripted comedy series called Collect Praise.",
+      "Collect Praise stars Druski as a megachurch pastor and Mike Epps as his deacon.",
+      "Druski's real name is Drew Desbordes.",
+      "He will host Saturday Night Live on November 7, 2026.",
+      "John Derderian is the Netflix vice president overseeing next-gen content.",
+      "Netflix is licensing existing shows including Coulda Been Love, Coulda Been Daddy, and Coulda Been Records Auditions."
+    ],
+    "entities": {
+      "people": [
+        "Druski",
+        "Drew Desbordes",
+        "Mike Epps",
+        "John Derderian"
+      ],
+      "titles": [
+        "Collect Praise",
+        "Coulda Been Love",
+        "Coulda Been Daddy",
+        "Coulda Been Records Auditions",
+        "Grown-ish",
+        "Praise This",
+        "Saturday Night Live"
+      ]
+    },
+    "keywords": [
+      "Druski Netflix deal",
+      "Collect Praise series",
+      "Druski Mike Epps Netflix",
+      "4LIFERS Entertainment"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2260450958-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Druski Secures Multi-Year Content Partnership with Netflix for 4LIFERS Entertainment",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 15:50:37 +0000"
+  },
+  "9gvial": {
+    "id": "9gvial",
+    "type": "news",
+    "headline": "Jammu And Kashmir CM Omar Abdullah Backs Qazi Touqeer To Win Bigg Boss",
+    "dek": "Jammu and Kashmir Chief Minister Omar Abdullah has voiced his strong support for singer Qazi Touqeer on Bigg Boss, stating that he plans to vote for him.",
+    "body": [
+      {
+        "h": "Omar Abdullah Endorses Qazi Touqeer",
+        "p": [
+          "Jammu and Kashmir Chief Minister Omar Abdullah has publicly extended his support to singer and reality television contestant Qazi Touqeer. Speaking during a podcast appearance, the political leader mentioned that he is well aware of Qazi's journey and is thoroughly impressed by his performance on the hit reality show Bigg Boss.",
+          "The Chief Minister noted that if given the opportunity, he would personally cast his vote for the singer. He expressed optimism about Qazi's prospects in the competition, hoping that he will emerge victorious and bring the winner's trophy home to Jammu and Kashmir."
+        ]
+      },
+      {
+        "h": "Familiarity With Qazi's Musical Background",
+        "p": [
+          "Omar Abdullah's appreciation for Qazi Touqeer stems from more than just his current television stint. The politician recalled watching the singer perform at various live concerts in the past and praised his melodious vocal abilities. He also mentioned reading about the contestant's progress and household dynamics in newspaper reports.",
+          "Highlighting Qazi's past achievements, the Chief Minister pointed out that the singer previously triumphed in a competitive reality show by defeating prominent artist Arijit Singh. This prior background has cemented Qazi's reputation as a talented performer in the eyes of many supporters."
+        ]
+      },
+      {
+        "h": "A Nod To Regional Pride",
+        "p": [
+          "The political leader expressed immense joy over Qazi Touqeer's strong standing in the Bigg Boss house, linking it to a broader wave of regional pride. He humorously compared the excitement to a recent moment when Jammu and Kashmir celebrated a victory in the Ranji Trophy cricket tournament.",
+          "With Qazi capturing the attention of viewers and fellow contestants alike, the Chief Minister feels that another major win for the region on national television would be a remarkable achievement. He emphasized that the singer's dedicated fanbase views him as a formidable contender for the ultimate title."
+        ]
+      },
+      {
+        "h": "Addressing Controversies And Salman Khan's Scolding",
+        "p": [
+          "During the podcast discussion, Omar Abdullah also referenced a notable incident involving show host Salman Khan and Qazi Touqeer. The superstar host had previously reprimanded the singer after Qazi jokingly spat near Scout's ear during a lighthearted moment.",
+          "Despite the temporary setback and the stern warning from Salman Khan, the Chief Minister believes that Qazi has managed to maintain his composure and focus on the overall competition. He noted that the contestant's ability to navigate house drama is a testament to his maturity."
+        ]
+      },
+      {
+        "h": "Navigating House Politics And Alliances",
+        "p": [
+          "Within the Bigg Boss house, Qazi Touqeer has occasionally taken a quieter approach, especially amidst intense clashes between other contestants like Scout and Love Gill. Although these surrounding disputes sometimes overshadow his screen time, Qazi has consistently focused on his individual path.",
+          "Observers have noted that the singer recently stepped in to mediate and help Love Gill understand the situation with Scout. This diplomatic handling of house tensions has earned him silent appreciation from both viewers and the show's host, Salman Khan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jammu and Kashmir Chief Minister Omar Abdullah has expressed his backing for singer Qazi Touqeer on the reality show Bigg Boss. Citing his past musical talents and previous victory over Arijit Singh, the politician stated his intention to vote for Qazi and hopes he brings home the trophy."
+        ]
+      }
+    ],
+    "facts": [
+      "Omar Abdullah is the Chief Minister of Jammu and Kashmir.",
+      "Qazi Touqeer is a contestant on Bigg Boss.",
+      "Salman Khan is the host of Bigg Boss.",
+      "Other mentioned individuals include Arijit Singh, Scout, and Love Gill."
+    ],
+    "entities": {
+      "people": [
+        "Omar Abdullah",
+        "Qazi Touqeer",
+        "Salman Khan",
+        "Arijit Singh",
+        "Scout",
+        "Love Gill"
+      ],
+      "titles": [
+        "Bigg Boss",
+        "Ranji Trophy"
+      ]
+    },
+    "keywords": [
+      "Qazi Touqeer Bigg Boss",
+      "Omar Abdullah Qazi Touqeer",
+      "Bigg Boss contestant Qazi Touqeer",
+      "Jammu and Kashmir CM Omar Abdullah"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae77c9851338-omar-abdullah-qazi-touqeer-015326983-16x9.jpg",
+        "caption": "Jammu And Kashmir CM Omar Abdullah Backs Qazi Touqeer To Win Bigg Boss",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T15:59:01Z"
+  },
+  "gh2do6": {
+    "id": "gh2do6",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No: 47 Box Office Day 3: Venkatesh Starrer Crosses 30 Crore Net",
+    "dek": "Aadarsha Kutumbam House No: 47 wrapped up its opening weekend with decent collections at the Indian box office, though the numbers remain underwhelming relative to its hefty budget.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "Aadarsha Kutumbam House No: 47 finished its first weekend at the Indian box office with reasonable earnings, crossing the milestone of 30 crore in net collections. However, despite a steady upward trend over the first three days, the action-comedy drama missed out on a massive theatrical surge.",
+          "Given the substantial scale of the project, industry analysts note that the opening weekend figures appear somewhat modest compared to expectations, even though the film managed to secure a firm footing during its initial run in cinemas."
+        ]
+      },
+      {
+        "h": "Day 3 Breakdown and Earnings",
+        "p": [
+          "On its first Sunday, which marked the third day in theaters, the Telugu movie brought in 11.25 crore net at the domestic box office. This represented an increase of 8.17% compared to the 10.4 crore net collected on the second day.",
+          "Across the entire opening frame, the feature accumulated a cumulative net collection of 31.4 crore in India, translating to a gross total of approximately 37.05 crore."
+        ]
+      },
+      {
+        "h": "Budget Constraints and Scale",
+        "p": [
+          "While crossing the 30 crore net threshold sounds impressive in isolation, the film's financial trajectory faces scrutiny because of its production costs. Reported to carry a budget in the range of 120 crore to 128 crore, the current earnings indicate that the feature has a long way to go to justify its large-scale backing.",
+          "The lack of a monumental weekend jump means that weekday theatrical performances will play a crucial role in determining whether the film can recoup its heavy financial investments."
+        ]
+      },
+      {
+        "h": "Day-Wise Collection Overview",
+        "p": [
+          "The domestic box office journey began on Day 1 with a collection of 9.75 crore net. The momentum picked up slightly on Day 2, pushing the earnings higher to 10.4 crore net.",
+          "The peak of the opening weekend arrived on Day 3 with 11.25 crore net, bringing the three-day aggregate to a total of 31.4 crore net in India."
+        ]
+      },
+      {
+        "h": "Comparison With Past Releases",
+        "p": [
+          "In the broader context of the lead actor's career, Aadarsha Kutumbam House No: 47 secured the fourth-biggest post-COVID opening weekend for Venkatesh. Because he has logged five theatrical releases following the pandemic, this placement translates to his second-lowest opening weekend performance in that timeframe.",
+          "Notably, the film's weekend total fell behind F3: Fun And Frustration by 26.55%, as the earlier comedy had pulled in 42.75 crore during its comparable opening frame."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Credits",
+        "p": [
+          "The action-comedy drama features a large ensemble cast that includes Venkatesh, Srinidhi Shetty, and Nara Rohith in prominent roles. Additional supporting performances are delivered by Yuvina Parthavi, Raja Prajwal, Nivetha Pethuraj, and others.",
+          "Behind the camera, the film was directed by Trivikram Srinivas and produced under the banner of Haarika and Hassine Creations by S. Radha Krishna."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Aadarsha Kutumbam House No: 47 concluded its first weekend with 31.4 crore net at the Indian box office, falling short of its high budget expectations. The Telugu film finished behind F3: Fun And Frustration while securing Venkatesh's fourth-biggest post-COVID opening weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Aadarsha Kutumbam House No: 47 earned 11.25 crore on day 3.",
+      "Day 2 collections were 10.4 crore.",
+      "Day 1 collections were 9.75 crore.",
+      "Total net collection after three days is 31.4 crore.",
+      "Gross total after three days is 37.05 crore.",
+      "F3: Fun And Frustration collected 42.75 crore in its opening weekend.",
+      "The budget is reported at 128 crore."
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh",
+        "Srinidhi Shetty",
+        "Nara Rohith",
+        "Yuvina Parthavi",
+        "Raja Prajwal",
+        "Nivetha Pethuraj",
+        "Trivikram Srinivas",
+        "S. Radha Krishna"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47",
+        "F3: Fun And Frustration",
+        "Kisi Ka Bhai Kisi Ki Jaan",
+        "Sankranthiki Vasthunam",
+        "Saindhav"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No: 47 box office",
+      "Aadarsha Kutumbam House No: 47 day 3 collection",
+      "Venkatesh Srinidhi Shetty film",
+      "Trivikram Srinivas movie box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/10/aadarsha-kutumbam-house-no-47-box-office.jpg",
+        "caption": "Aadarsha Kutumbam House No: 47 Box Office Day 3: Venkatesh Starrer Crosses 30 Crore Net",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 15:23:21 +0000"
   }
 };
