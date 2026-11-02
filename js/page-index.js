@@ -103,7 +103,7 @@
     /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
        AT LEAST as many titles as the homepage movies rail (Spotlight,
        12 cards) — the old ott:7 cap bound the rails before the data did. */
-    const HOME_LIMITS = { soon: 20, calendar: 10, trending: 10, boxoffice: 8, news: 15, dramas: 13, ott: 20 };
+    const HOME_LIMITS = { soon: 20, calendar: 10, trending: 15, boxoffice: 8, news: 15, dramas: 13, ott: 20 };
     /* Trending News desktop count (owner order 2026-11-02): the
        .editorial-grid is 3 columns at min-width:1000px (css/style.css),
        where HOME_LIMITS.news = 7 leaves the last row with two empty
