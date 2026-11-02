@@ -39014,5 +39014,425 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T14:56:59+05:30"
+  },
+  "1wrxt6w": {
+    "id": "1wrxt6w",
+    "type": "news",
+    "headline": "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
+    "dek": "A comprehensive look at all the films arriving on home media platforms, streaming services, and digital stores for the week of November 2 to November 8, 2026.",
+    "body": [
+      {
+        "h": "Introduction to Weekly Home Entertainment",
+        "p": [
+          "Finding fresh cinematic content to watch from the comfort of home has never been simpler, yet keeping track of the changing options remains a weekly challenge. Navigating multiple subscriptions, digital rental platforms, and physical 4K releases can easily overwhelm any movie enthusiast.",
+          "To simplify the viewing calendar, a total of more than sixty fresh movies are scheduled to arrive across various home-viewing channels this week. From holiday-themed romances to major digital storefront premieres, audiences have plenty of choices."
+        ]
+      },
+      {
+        "h": "Streaming Platform Highlights",
+        "p": [
+          "Major streaming services are rolling out a diverse selection of titles, led by a growing slate of Christmas-themed features alongside thrillers, sci-fi, horror, and animation. Netflix welcomes diverse additions such as the Stana Katic thriller Kidnapped in Her Own Home: The Martha Carelli Story and the Mike Tyson one-man show Mike Tyson: Return of the Mike.",
+          "Other platforms are equally busy with notable arrivals. Hulu features Steven Soderbergh's spy thriller Black Bag starring Michael Fassbender and Cate Blanchett, while Peacock introduces the historical drama The Uprising directed by Paul Greengrass and starring Andrew Garfield."
+        ]
+      },
+      {
+        "h": "Planet of the Apes Franchise on HBO Max",
+        "p": [
+          "Science fiction fans find a major treat on HBO Max with the arrival of multiple entries from the iconic 20th Century franchise. Viewers can stream Rise of the Planet of the Apes, Dawn of the Planet of the Apes, and War for the Planet of the Apes.",
+          "Additionally, Disney's recent relaunch film Kingdom of the Planet of the Apes joins the platform, offering a complete journey through the evolution of the apes-versus-humans saga for home audiences."
+        ]
+      },
+      {
+        "h": "Digital Storefront Premieres",
+        "p": [
+          "Digital storefronts are welcoming some of the year's most talked-about films following their theatrical runs. Highlights include Zach Cregger's video game reboot Resident Evil, which arrives on digital after bringing in a massive four hundred million dollar box office haul.",
+          "Other digital debuts include Lance Oppenheim's thriller Primetime starring Robert Pattinson, and an action thriller created by Mahershala Ali and director Bassam Tariq titled Your Mother Your Mother Your Mother, following the cancellation of their Blade project."
+        ]
+      },
+      {
+        "h": "Physical Media and Collector Releases",
+        "p": [
+          "Physical media collectors have an extensive lineup of options hitting shelves this week, including new films and restored classics. Notable new items include Blu-ray and 4K Ultra HD editions for titles like Mutiny and The End of Oak Street.",
+          "Classic film enthusiasts can also upgrade their shelves with premium editions, such as a multi-format release of Gone with the Wind, Criterion Collection versions of Harold and Maude, and a special twenty-fifth-anniversary edition of Shrek."
+        ]
+      },
+      {
+        "h": "Holiday and Seasonal Offerings",
+        "p": [
+          "With November underway, platforms are leaning heavily into early holiday content with numerous Christmas and winter romance movies. Lifetime and other networks are supplying titles like A Cinderella Christmas Ball and A Runaway Bride for Christmas.",
+          "Streaming catalogs also gain family-friendly holiday options and cozy comedies, ensuring that viewers looking to get an early start on festive holiday viewing have an abundant selection of seasonal romances and comedies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "More than sixty movies are releasing across streaming, digital, and physical media platforms for the week of November 2 to November 8, 2026. The lineup features a wide variety of content, including early holiday romances, major franchise additions, and high-profile digital premieres."
+        ]
+      }
+    ],
+    "facts": [
+      "The release week covers November 2 to November 8, 2026.",
+      "Over 60 fresh movies are releasing across streaming, digital, or physical formats.",
+      "Resident Evil earned a $400 million box office haul during its theatrical run.",
+      "Black Bag is directed by Steven Soderbergh and stars Michael Fassbender and Cate Blanchett.",
+      "The Uprising is directed by Paul Greengrass and stars Andrew Garfield."
+    ],
+    "entities": {
+      "people": [
+        "Stana Katic",
+        "Mike Tyson",
+        "Michael Fassbender",
+        "Cate Blanchett",
+        "Paul Greengrass",
+        "Andrew Garfield",
+        "Robert Pattinson",
+        "Mahershala Ali",
+        "Bassam Tariq",
+        "Zach Cregger"
+      ],
+      "titles": [
+        "Kidnapped in Her Own Home: The Martha Carelli Story",
+        "Mike Tyson: Return of the Mike",
+        "Black Bag",
+        "The Uprising",
+        "Rise of the Planet of the Apes",
+        "Dawn of the Planet of the Apes",
+        "War for the Planet of the Apes",
+        "Kingdom of the Planet of the Apes",
+        "Resident Evil",
+        "Primetime",
+        "Your Mother Your Mother Your Mother",
+        "Gone with the Wind",
+        "Harold and Maude",
+        "Shrek",
+        "A Cinderella Christmas Ball",
+        "A Runaway Bride for Christmas"
+      ]
+    },
+    "keywords": [
+      "Resident Evil digital release",
+      "Black Bag streaming Hulu",
+      "The Uprising Peacock movie",
+      "November 2026 movie releases"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/a-close-up-of-andrew-garfield-looking-shell-shocked-in-the-uprising.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 20:20:18 GMT"
+  },
+  "rxotol": {
+    "id": "rxotol",
+    "type": "news",
+    "headline": "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
+    "dek": "Choreographer Pony Verma discusses her life and marriage with actor Prakash Raj, addressing their age difference, her move to Hyderabad, and her bond with his daughters.",
+    "body": [
+      {
+        "h": "The Journey to Marriage",
+        "p": [
+          "Bollywood actor Prakash Raj and choreographer Pony Verma tied the knot in 2010. For Prakash, this marked his second marriage following his divorce from his first wife, Lalita Kumari, after fifteen years of marriage.",
+          "Following the conclusion of his first marriage, Pony Verma entered his life, and the couple eventually decided to marry in 2010. Recently, Pony opened up in detail about their relationship and journey together."
+        ]
+      },
+      {
+        "h": "Navigating the Age Gap",
+        "p": [
+          "Pony Verma noted that there is a twelve-year age difference between them. Initially, this gap drew questions and even led to some of her friends becoming angry with her choice to marry an older partner.",
+          "However, Pony views this age disparity as one of the greatest strengths of their relationship. She believes that a partner with Prakash's life experience was uniquely equipped to understand her background, thoughts, and struggles."
+        ]
+      },
+      {
+        "h": "Finding Peace and Understanding",
+        "p": [
+          "In conversations about her spouse, Pony expressed that Prakash brought peace into her life. She believes that only someone who has experienced significant life ups and downs could grasp her experiences with such depth.",
+          "Despite initial resistance from friends regarding the twelve-year age gap, Pony remained steadfast in her perspective, appreciating the emotional maturity and mutual understanding that the age difference brought to their bond."
+        ]
+      },
+      {
+        "h": "Blending Families and Wedding Rituals",
+        "p": [
+          "Prakash Raj was previously a father to three children from his first marriage, consisting of two daughters and a son. Tragically, his young son passed away at the age of five due to an accident.",
+          "Pony shares a wonderful relationship with Prakash's daughters, Pooja and Meghna. During the wedding ceremonies, the two daughters stood right in front of her, participating in the rituals by applying haldi and mehndi to their father."
+        ]
+      },
+      {
+        "h": "Maintaining Family Traditions",
+        "p": [
+          "The blended family continues to maintain strong ties, regularly spending time together. Pony shared that Pooja and Meghna frequently visit their home, and they make it a point to be together every December.",
+          "The warmth and connection between Pony and Prakash's daughters have remained strong, creating a loving environment that the couple has carefully nurtured over the years."
+        ]
+      },
+      {
+        "h": "Relocating for Family",
+        "p": [
+          "As a professional choreographer, Pony Verma had established her career and life in Mumbai. However, following her marriage to Prakash Raj, she made the significant decision to leave Mumbai behind and settle down with her husband in Hyderabad.",
+          "Reflecting on the move, she admitted she never imagined living anywhere other than Bombay, but she is now happily settled in Hyderabad and content with the choices she made for her family."
+        ]
+      },
+      {
+        "h": "Prakash Raj's Career and Family Background",
+        "p": [
+          "Prakash Raj boasts an extensive acting career spanning over three decades, working across Tamil, Telugu, Kannada, Hindi, and Malayalam cinema. His personal life includes two marriages and four children in total.",
+          "From his first marriage he had three children, losing one son to an accident, and he shares a son with Pony Verma from his second marriage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Choreographer Pony Verma spoke about her marriage to actor Prakash Raj, highlighting their twelve-year age difference and her strong bond with his daughters. She also discussed relocating from Mumbai to Hyderabad to build a life with her husband."
+        ]
+      }
+    ],
+    "facts": [
+      "Prakash Raj married Pony Verma in the year 2010.",
+      "Prakash Raj's first marriage to Lalita Kumari lasted for 15 years before they divorced.",
+      "There is a 12-year age difference between Prakash Raj and Pony Verma.",
+      "Prakash Raj has two daughters named Pooja and Meghna.",
+      "Prakash Raj's first marriage produced three children, and his young son passed away at age 5 due to an accident.",
+      "Pony Verma relocated from Mumbai to Hyderabad after her marriage."
+    ],
+    "entities": {
+      "people": [
+        "Prakash Raj",
+        "Pony Verma",
+        "Lalita Kumari",
+        "Pooja",
+        "Meghna"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Pony Verma",
+      "Prakash Raj",
+      "Pony Verma marriage",
+      "Prakash Raj wife"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6ae6b9d947aa8-pony-verma-prakash-raj-second-marriage-010232147-16x9.jpg",
+        "caption": "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T20:53:44Z"
+  },
+  "4i150k": {
+    "id": "4i150k",
+    "type": "news",
+    "headline": "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
+    "dek": "Lionsgate has scheduled the home video rollout for the Amazon rainforest creature horror feature Beware Boiúna, directed by Mike P. Nelson.",
+    "body": [
+      {
+        "h": "Home Video Schedule Announced",
+        "p": [
+          "Lionsgate has officially scheduled the digital and physical home media rollout for Beware Boiúna, a creature horror motion picture situated deep within the Amazon rainforest.",
+          "Audiences can acquire the feature digitally starting November 3, 2026, while the physical Blu-ray with Digital and DVD editions are set to arrive on December 15."
+        ]
+      },
+      {
+        "h": "Purchase Options and Platform Availability",
+        "p": [
+          "The digital purchase version will roll out across multiple popular platforms including Amazon Prime Video, Apple TV, Fandango, Google TV, and YouTube.",
+          "For physical media collectors, the Blu-ray package containing an included digital copy is priced at $29.99, and the standard DVD edition will retail for $24.98."
+        ]
+      },
+      {
+        "h": "Special Features and Disc Bonuses",
+        "p": [
+          "The upcoming Blu-ray release comes packed with various special features designed to offer insight into the production of the creature feature.",
+          "Extra content includes audio commentary provided by director Mike P. Nelson, behind-the-scenes featurettes titled Making Beware Boiúna and Journey Through the Jungle: Shooting on Location, deleted scenes, and the original theatrical trailer."
+        ]
+      },
+      {
+        "h": "Plot Premise and Setting",
+        "p": [
+          "The narrative follows a medical mission that ventures deep into the Amazon, only to spiral into a desperate struggle for survival.",
+          "The group faces an awakened colossal ancient predator named Boiúna, which seeks to reclaim its territory in a jungle where nature reigns supreme."
+        ]
+      },
+      {
+        "h": "Theatrical Launch and Critical Reception",
+        "p": [
+          "Before transitioning to home entertainment platforms, the horror title first premiered at Fantastic Fest and subsequently debuted in theaters on October 2, 2026.",
+          "Upon its theatrical run, the project garnered a mixed response from critics and audiences, holding a 58% Tomatometer rating and a 68% audience score on Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The movie features an ensemble cast led by Kiana Madeira as Lena, Jessica Rothe as Alli, and Logan Marshall-Green as Brennan Malloy.",
+          "Additional cast members include Jackson Bews, Will Close, Sergio Herrera, Mateo Moreno, and Vicente Peña. The script was penned by Mike P. Nelson alongside Tony Giglio and Alan B. McElroy, with Jeremy Bolt and Robert Kulzer producing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate has set home release dates for the creature horror film Beware Boiúna, arriving digitally in November and on physical media in December following its October theatrical run. The upcoming editions will include various behind-the-scenes bonuses and commentary from director Mike P. Nelson."
+        ]
+      }
+    ],
+    "facts": [
+      "Beware Boiúna digital release date is November 3, 2026",
+      "Beware Boiúna Blu-ray and DVD release date is December 15, 2026",
+      "Blu-ray price is $29.99 and DVD price is $24.98",
+      "The film was directed by Mike P. Nelson",
+      "The theatrical release date was October 2, 2026",
+      "The Rotten Tomatoes score is 58% Tomatometer and 68% audience score"
+    ],
+    "entities": {
+      "people": [
+        "Christie D'Silva",
+        "Mike P. Nelson",
+        "Kiana Madeira",
+        "Jessica Rothe",
+        "Logan Marshall-Green",
+        "Jackson Bews",
+        "Will Close",
+        "Sergio Herrera",
+        "Mateo Moreno",
+        "Vicente Peña",
+        "Tony Giglio",
+        "Alan B. McElroy",
+        "Jeremy Bolt",
+        "Robert Kulzer",
+        "Simon Beltran Echeverri",
+        "Warren Goz",
+        "Samuel Hall",
+        "Michael Rothstein",
+        "Juan Pablo Solano"
+      ],
+      "titles": [
+        "Beware Boiúna",
+        "Silent Night, Deadly Night"
+      ]
+    },
+    "keywords": [
+      "Beware Boiúna movie",
+      "Beware Boiúna digital release",
+      "Mike P. Nelson Beware Boiúna",
+      "Kiana Madeira Jessica Rothe Logan Marshall-Green"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-74.png?resize=1200,630",
+        "caption": "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 19:57:42 +0000"
+  },
+  "1o76kai": {
+    "id": "1o76kai",
+    "type": "news",
+    "headline": "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode",
+    "dek": "Special Agent Nina Chase is heading back to the city streets alongside Scola in the upcoming November 16 episode of the hit CBS series.",
+    "body": [
+      {
+        "h": "The Return of Nina Chase",
+        "p": [
+          "Viewers will soon see the familiar duo back together in action as Shantel VanSanten returns to the hit CBS drama series FBI. The actress is scheduled to reprise her popular role as Special Agent Nina Chase during the upcoming November 16 broadcast.",
+          "Fans have eagerly awaited her comeback to the main series, especially given her character's deep personal and professional ties to the core investigative team. Her return promises another thrilling chapter for the ongoing season."
+        ]
+      },
+      {
+        "h": "Details on the Episode Titled Posterity",
+        "p": [
+          "The upcoming episode bearing the title Posterity follows a grim case involving the murder of a prominent online influencer. During the investigation, the team discovers crucial footage captured by one of the victim's cameras pointing directly to a high-profile criminal on the Most Wanted list.",
+          "To intercept the suspect before he vanishes, the unit brings back Special Agent Nina Chase as a guest star to assist with the operation. The team must race against the clock to track down the elusive fugitive."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Writing Team",
+        "p": [
+          "The creative forces behind this specific installment bring plenty of expertise to the production. The narrative for the episode has been penned by writer Jake Tinker.",
+          "Directing duties for the November 16 broadcast are being handled by Milena Govich. Together, they shape the high-stakes pursuit that reunites the beloved character with her former colleagues."
+        ]
+      },
+      {
+        "h": "Looking Back at Previous Appearances",
+        "p": [
+          "Audiences last caught up with VanSanten's character during the Season 8 episode titled Confetti. In that storyline, Nina was deeply immersed in a dangerous undercover sting operation aimed at turning a cartel member against his relatives in exchange for witness protection.",
+          "That memorable installment ultimately concluded with the long-awaited wedding ceremony between Scola and Nina. The joyous occasion brought together the entire FBI squad, including colleagues Isobel and Jubal."
+        ]
+      },
+      {
+        "h": "Franchise History and Background",
+        "p": [
+          "Shantel VanSanten is no stranger to the broader television universe created by Dick Wolf. She previously established herself as a permanent series regular throughout Seasons 5 and 6 of the popular spin-off series FBI: Most Wanted.",
+          "That particular sister show officially concluded its broadcast run in the year 2025. Her transition back to the flagship program allows followers of the franchise to catch more of her dynamic partnership with Scola."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shantel VanSanten is set to reprise her role as Special Agent Nina Chase in the November 16 episode of FBI titled Posterity. The story follows the team as they work alongside her to intercept a Most Wanted criminal after an influencer's murder.",
+          "This comeback follows her wedding to Scola in Season 8 and her previous regular run on the concluded spin-off FBI: Most Wanted."
+        ]
+      }
+    ],
+    "facts": [
+      "Shantel VanSanten is returning as Special Agent Nina Chase on November 16.",
+      "The episode is titled Posterity.",
+      "Jake Tinker wrote the upcoming installment.",
+      "Milena Govich is directing the episode.",
+      "VanSanten last appeared in Season 8, Episode 11 titled Confetti.",
+      "FBI: Most Wanted ended in 2025."
+    ],
+    "entities": {
+      "people": [
+        "Shantel VanSanten",
+        "Nick Caruso",
+        "Bennett Raglin",
+        "Jake Tinker",
+        "Milena Govich",
+        "Nina Chase",
+        "Scola",
+        "Isobel",
+        "Jubal",
+        "Patrick Stewart",
+        "Anthony Davis"
+      ],
+      "titles": [
+        "FBI",
+        "FBI: Most Wanted",
+        "Posterity",
+        "Confetti",
+        "The Holiday Spark",
+        "The Mob",
+        "This Is Not a Murder Mystery",
+        "Below Deck",
+        "Dancing With the Stars",
+        "Holiday Baking Championship",
+        "Name That Tune",
+        "Private Eyes",
+        "St. Denis Medical",
+        "Monday Night Football",
+        "The Fall and Rise of Reggie Dinkins",
+        "CIA",
+        "Celebrity Weakest Link",
+        "Foul Play With Anthony Davis",
+        "Law & Order Toronto: Criminal Intent",
+        "Still Flipping Out",
+        "The Voice",
+        "Harlan Coben's Final Twist"
+      ]
+    },
+    "keywords": [
+      "Shantel VanSanten FBI",
+      "Nina Chase FBI Season 9",
+      "FBI Posterity episode",
+      "Scola and Nina wedding"
+    ],
+    "images": [
+      {
+        "url": "https://www.tvline.com/img/gallery/fbi-shantel-vansanten-returns/l-intro-1793643644.jpg",
+        "caption": "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode",
+        "source": "TVLine"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 19:30:00 +0000"
   }
 };

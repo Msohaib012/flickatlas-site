@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T21:22:24Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": {
-     "candidates": 285,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Filmibeat EXCLUSIVE! Chaar Yaar Season 2 On The Cards? Director Vinay Waikul Says 'How The Characters Move...'",
-      "Michael Jackson’s sons want Neverland Ranch to help underprivileged children again",
-      "glenn phillips reveals hunter not prey mantra after record breaking t20i series against india 3077280.html",
-      "indias gst collection jumps 22 9 yoy to rs 2 31 lakh in october 2026 3077279.html",
-      "japanese comfort foods for a unique dining experience 3077283.html",
-      "Two Updates On 90 Day Fiancé: The Other Way's Andi And Nigel Have Me More Confused Than Ever About Their Relationship",
-      "Rosario Dawson And Hayden Christensen Had A+ Star Wars Costumes, But Now Fans Have One Question",
-      "I Like Netflix's Minimum Wage, But I Wish One Character Got A Bigger Spotlight",
-      "Goodbye ‘Reacher,’ Prime Video’s Darker Action Thriller Is So Good, You’ll Finish It in One Weekend",
-      "The 10 Best Thriller Books of All Time, Ranked",
-      "Cillian Murphy’s ‘John Wick’ Rival Officially Finds a New Streaming Home",
-      "Every Pierce Brosnan Bond Movie Ranked Worst to Best",
-      "5 Gripping Netflix Miniseries With 6 Episodes or Less",
-      "Alexander Skarsgård's Stellar 10-Episode Sci-Fi Takes Less Than 6 Hours To Binge",
-      "Christian Bale’s $214M True-Crime Epic Officially Lands on Netflix",
-      "Sir Patrick Stewart's Most Iconic Video Game Roles",
-      "Wagner Moura’s Acclaimed Crime Thriller Officially Becomes a Global Streaming Hit",
-      "Jake Gyllenhaal & Ian Holmes’ Fan-Favorite Disaster Movie Is Finally Streaming on Netflix",
-      "Official Trailer for Doc 'To Hold a Mountain' About a Montenegro Mama",
-      "8 Flawless Fantasy Series Where Every Book Is a 10/10"
-     ],
-     "updated": [],
-     "count": 234,
-     "detail": "238 stories, 3 duplicates removed, 47 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T22:51:43Z",
     "run_id": "41359136403",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "280 stories, 0 duplicates removed, 60 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T20:51:43Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 312,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "The NOT PG Reaction Toy Story 5’s Director Had When He Found Out Taylor Swift Wrote Her Song In Less Than A Day",
+      "Mckenna Grace Is Still Channeling Jennifer Lawrence's Hunger Games Looks (And This One HAS To Be My Favorite)",
+      "I Didn’t Expect Johnny Depp To Have Jokes After Being Asked About Pirates Of The Caribbean 6 And Orlando Bloom",
+      "The 10 Greatest Sci-Fi Games for Beginners",
+      "New 'Fallout' Release Officially Changes the Brotherhood of Steel Forever",
+      "3 Best Movies on Netflix This Week (Nov 2-6)",
+      "X-Men’s Zazie Beetz & Liev Schreiber Discuss Domino & Sabretooth’s Potential MCU Returns",
+      "Spider-Man 4 R-Rated Blooper Sees Tom Holland & Jon Bernthal Hilariously Breaking Character",
+      "Simon Pegg & Haley Joel Osment Try to Survive the Apocalypse in New Dark Comedy Movie",
+      "Why Michael J. Fox & Christopher Lloyd Didn’t Become Friends Until After Back to the Future",
+      "Leonardo DiCaprio & Paul Rudd’s Crime Movie Returns to Theaters for Big Anniversary",
+      "X-Men MCU Reboot Movie Finds Its Iceman in Beloved Hunger Games Star",
+      "Eli Roth’s Hostel TV Show for Peacock Gets Horrible Update, But There’s Still Hope",
+      "ESPN’s Michael Wilbon Takes Leave From PTI & More, Gives Major Health Update",
+      "Killer Snake Movie Beware Boiúna Sets Digital & Blu-Ray Release Dates With New Content",
+      "LEGO Fan Transforms 'Star Wars' Millennium Falcon Into Iconic 'Terminator' Villain Without Extra Pieces",
+      "Clint Eastwood's Western Trilogy Masterpiece Sets New Release 62 Years After Debut",
+      "Tom Cruise's Biggest Box Office Bomb in History Gets Emotional Defense From Costar",
+      "Hulu's Hit True Crime Series Officially Confirms Star-Studded Lead Duo for Season 2",
+      "Marvel's 'X-Men' Reboot Eyes 'Hunger Games' Star for Iceman"
+     ],
+     "updated": [],
+     "count": 271,
+     "detail": "283 stories, 0 duplicates removed, 29 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-01T21:22:24Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1453,27 +1435,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T20:53:44Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
+      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
+      "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
+      "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T23:50:56Z",
-    "run_id": "41364054164",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1887,26 +1874,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T21:22:26Z",
-    "run_id": "41351563567",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T20:53:44Z",
+    "run_id": "41522876102",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2331,27 +2319,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T21:22:25Z",
-    "run_id": "41351563567",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T21:01:59Z",
+    "run_id": "41522876102",
     "status": "success",
     "checked": {
-     "candidates": 408,
-     "detail": "407 collected staging rows from readers; 122 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 404 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2765,19 +2752,27 @@
      "detail": "+0 new rows, 144 updated rows, 281 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T21:01:57Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 426,
+     "detail": "425 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 421 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3032,27 +3027,19 @@
      "count": 17
     },
     "reason": null
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T21:22:26Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": {
-     "candidates": 360,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 360 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3556,19 +3543,32 @@
      "detail": "api-news.json 429 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T21:01:59Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 433,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
+      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
+      "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
+      "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 433 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3844,19 +3844,19 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4177,26 +4177,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T21:22:24Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 40/40 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4670,19 +4663,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T20:53:44Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 271 still unprocessed; today by category: movies 11/6, tv_dramas 9/4, episodes 1/2, box_office 14/6, celebrities_events 16/5, upcoming_releases 3/4, ott_streaming 7/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
+      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
+      "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
+      "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4988,19 +4993,29 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:56:49Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 32,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [
+      "Udta Teer (1375156)",
+      "Titans (869152)"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5335,19 +5350,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 420,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5682,19 +5702,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 24,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5944,19 +5969,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6191,19 +6216,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6445,19 +6470,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6698,19 +6723,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6940,19 +6965,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7205,6 +7230,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7422,19 +7457,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:53:45Z",
+    "run_id": "41522876102",
+    "status": "success",
+    "checked": {
+     "candidates": 309,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 1; attempt cooldown deferred: 308"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-01T21:22:35Z",
-    "run_id": "41351563567",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7674,6 +7716,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7786,8 +7838,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T20:12:00Z"
+ "updated_at": "2026-11-02T21:02:05Z"
 }

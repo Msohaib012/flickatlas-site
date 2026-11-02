@@ -1998,7 +1998,8 @@ window.FA_DAYWISE = {
       "day": "Day 8",
       "collection": 11622,
       "shows": 480,
-      "occupancy": 9.0
+      "occupancy": 9.0,
+      "overseas": 15848
     },
     {
       "date": "2026-10-30",

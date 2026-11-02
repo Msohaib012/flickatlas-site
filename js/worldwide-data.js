@@ -47,22 +47,12 @@ window.FA_WORLDWIDE = {
     "title": "The Dog Stars",
     "total_usd": 24000000
   },
-  "1571955": {
+  "791523": {
     "as_of": "2026-11-02",
     "scope": "worldwide",
-    "source": "https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course",
-    "title": "Collision Course",
-    "total_usd": 64000000
-  },
-  "791523": {
-    "as_of": "2026-10-28",
-    "domestic_usd": 13700000,
-    "intl_usd": 2900000,
-    "note": "Still in theatres — total will rise; refresh weekly. TMDB revenue ($4,289,386) is a stale opening estimate and was NOT used.",
-    "scope": "worldwide",
-    "source": "Koimoi / Zoom TV (Rentrak estimates)",
+    "source": "https://en.wikipedia.org/wiki/Wildwood_(film)",
     "title": "Wildwood",
-    "total_usd": 16600000
+    "total_usd": 3000000
   },
   "858035": {
     "as_of": "2026-10-27",

@@ -13600,6 +13600,17 @@
             },
             "value": 9.0
           },
+          "overseas": {
+            "crore": 0.15,
+            "currency": "USD",
+            "date": "2026-10-29",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.15
+            },
+            "value": 15848
+          },
           "shows": {
             "sources": {
               "overseas-backfill": 480,
