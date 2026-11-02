@@ -33815,5 +33815,212 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 10:48:09 +0530"
+  },
+  "1yt0lkn": {
+    "id": "1yt0lkn",
+    "type": "news",
+    "headline": "Shraddha Kapoor's Eetha Lands Massive 90 Crore Distribution Deal Ahead of December Release",
+    "dek": "The upcoming biographical drama Eetha, starring Shraddha Kapoor and directed by Laxman Utekar, has reportedly secured an all-India theatrical distribution deal worth 90 crore with PVR INOX Pictures.",
+    "body": [
+      {
+        "h": "A Landmark Distribution Agreement",
+        "p": [
+          "Shraddha Kapoor's forthcoming biographical drama Eetha has generated significant trade buzz by reportedly locking in a major theatrical distribution deal. PVR INOX Pictures has acquired the all-India domestic theatrical rights for a substantial 90 crore.",
+          "This agreement is structured on an advance basis and comes together just a month prior to the film's scheduled theatrical premiere. Such a high-value pre-release commitment underscores the strong commercial confidence that exhibitors have in the project's box office potential."
+        ]
+      },
+      {
+        "h": "Setting a Benchmark for Female-Led Cinema",
+        "p": [
+          "The reported 90 crore agreement places Eetha among the most notable pre-release distribution deals ever achieved by an Indian female-led Hindi film. Industry observers have drawn comparisons to Alia Bhatt's Gangubai Kathiawadi, highlighting the heavy commercial expectations carried by Kapoor's new project.",
+          "This development is particularly striking because Eetha diverges from conventional commercial entertainers, focusing instead on a biographical narrative rooted deeply in Maharashtra's traditional Tamasha and Lavani cultural landscape."
+        ]
+      },
+      {
+        "h": "A Proven Creative Partnership",
+        "p": [
+          "For Shraddha Kapoor, this milestone follows the extraordinary success of Stree 2, which established itself as one of the biggest Hindi blockbusters of 2024. Her involvement adds immense star power and audience draw to the upcoming biographical feature.",
+          "Director Laxman Utekar brings additional commercial credibility to the table, having previously directed Vicky Kaushal in the blockbuster Chhaava. With both Stree 2 and Chhaava having crossed the 500 crore mark at the Indian box office, the actress-director duo commands widespread industry trust."
+        ]
+      },
+      {
+        "h": "Cultural Roots and Narrative Inspiration",
+        "p": [
+          "Rather than functioning as a direct biopic, Eetha draws inspiration from the life of legendary Lavani performer Vithabai Bhau Mang Narayangaonkar and various accounts documented in a book about her life. The narrative explores the personal struggles, sacrifices, and resilience of traditional artists.",
+          "The filmmakers organized dedicated workshops with experienced Lavani performers to ensure authentic representation of the traditional dance form. Shraddha Kapoor even suffered a muscle tear during training for a demanding dance sequence, reflecting the intense physical and artistic commitment poured into the central role."
+        ]
+      },
+      {
+        "h": "Regional Strengths and Musical Appeal",
+        "p": [
+          "The regional connection to Maharashtra's cultural heritage is expected to give Eetha a robust foundational audience in the state. At the same time, its emotional core aims to strike a chord with viewers on a wider national scale.",
+          "Music serves as another major pillar for the film, with the acclaimed duo Ajay-Atul composing the soundtrack. Given their deep ties to traditional Marathi musical arrangements, the public reception of the songs will likely play a crucial role in building pre-release anticipation."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Details",
+        "p": [
+          "Produced under Maddock Films and Kathputli Creations by Dinesh Vijan, Laxman Utekar, and Karishma Sharma, Eetha boasts a robust supporting ensemble. The movie features Randeep Hooda, Mohammed Zeeshan Ayyub, Siddharth Jadhav, Anant Joshi, and Nana Patekar.",
+          "With its theatrical rollout slated for December 4, 2026, the film arrives bearing high expectations. Its ultimate standing will depend heavily on its ability to transcend regional boundaries and sustain strong word-of-mouth momentum after release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shraddha Kapoor's upcoming biographical drama Eetha has secured a reported 90 crore domestic theatrical distribution agreement with PVR INOX Pictures ahead of its December 4, 2026 release. Directed by Laxman Utekar and produced by Maddock Films and Kathputli Creations, the film draws inspiration from legendary Lavani performer Vithabai Bhau Mang Narayangaonkar and features a supporting cast including Randeep Hooda and Nana Patekar."
+        ]
+      }
+    ],
+    "facts": [
+      "Shraddha Kapoor's Eetha secured a reported 90 crore distribution deal with PVR INOX.",
+      "The theatrical release date is scheduled for December 4, 2026.",
+      "The film is directed by Laxman Utekar.",
+      "It is backed by Maddock Films and Kathputli Creations, with producers Dinesh Vijan, Laxman Utekar, and Karishma Sharma.",
+      "The story draws inspiration from the life of Lavani performer Vithabai Bhau Mang Narayangaonkar.",
+      "The soundtrack is composed by Ajay-Atul.",
+      "The supporting cast includes Randeep Hooda, Mohammed Zeeshan Ayyub, Siddharth Jadhav, Anant Joshi, and Nana Patekar."
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Sunit Jangir",
+        "Laxman Utekar",
+        "Alia Bhatt",
+        "Vicky Kaushal",
+        "Vithabai Bhau Mang Narayangaonkar",
+        "Ajay-Atul",
+        "Dinesh Vijan",
+        "Karishma Sharma",
+        "Randeep Hooda",
+        "Mohammed Zeeshan Ayyub",
+        "Siddharth Jadhav",
+        "Anant Joshi",
+        "Nana Patekar",
+        "Christa Lincy",
+        "Shah Rukh Khan",
+        "Deepika",
+        "Ed Sheeran",
+        "Arijit Singh",
+        "Namit Malhotra",
+        "Rahul Shanklya",
+        "Yash",
+        "Ranbir Kapoor",
+        "Rishab Shetty"
+      ],
+      "titles": [
+        "Eetha",
+        "Stree 2",
+        "Chhaava",
+        "Gangubai Kathiawadi",
+        "King",
+        "Ramayana",
+        "Ramayana Part 1",
+        "Avengers: Doomsday",
+        "Nakhrewaalii",
+        "The Pride of Bharat: Chhatrapati Shivaji Maharaj",
+        "RRR",
+        "Baahubali 2"
+      ]
+    },
+    "keywords": [
+      "Shraddha Kapoor Eetha",
+      "Eetha theatrical deal",
+      "Laxman Utekar Eetha movie",
+      "Eetha PVR INOX 90 crore"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028310.jpg",
+        "caption": "Shraddha Kapoor's Eetha Lands Massive 90 Crore Distribution Deal Ahead of December Release",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 04:58:28 +0000"
+  },
+  "1xh9opt": {
+    "id": "1xh9opt",
+    "type": "news",
+    "headline": "Ben Whishaw Confirms Departure from James Bond Franchise and Reflects on Q's Sexuality",
+    "dek": "The actor who played MI6's gadgets master for nine years has officially stated he will not be part of the upcoming 007 reboot, while sharing mixed feelings about his character's arc.",
+    "body": [
+      {
+        "h": "Exit from the Franchise",
+        "p": [
+          "Actor Ben Whishaw has officially confirmed that he will not reprise his role as the iconic tech wizard Q in the upcoming James Bond franchise reboot. Having spent nine years portraying MI6's master of gadgets, Whishaw was the youngest actor to step into the role when he was cast at the age of thirty-one, succeeding John Cleese.",
+          "His tenure included appearances across three major films: Skyfall in 2012, Spectre in 2015, and No Time to Die in 2021. With Amazon MGM Studios taking full control of Ian Fleming's beloved spy series following a deal struck with longtime producers Barbara Broccoli and Michael G. Wilson, the studio is moving forward with a completely fresh direction and a brand-new cast."
+        ]
+      },
+      {
+        "h": "Regrets Over Q's Character Arc",
+        "p": [
+          "While looking back on his nearly decade-long run in the blockbuster series, Whishaw revealed one specific regret regarding his portrayal of Q. He admitted that the exploration of his character's homosexuality felt somewhat unsatisfying to him.",
+          "The actor noted that although No Time to Die featured a brief, subtle reference to Q going on a date with a man, the narrative choice was never meaningfully picked up on or expanded again throughout the rest of the film. Despite this narrative limitation, Whishaw expressed fondness for the secretive, high-stakes environment of working on the legendary film franchise."
+        ]
+      },
+      {
+        "h": "The Challenge of Reinventing 007",
+        "p": [
+          "Discussing the massive undertaking facing Amazon MGM Studios, Whishaw emphasized that the entire cinematic universe needs a thorough reinvention. He pointed out that the global landscape has shifted dramatically since the release of the last installment, making it vital for the creative team to discover what remains relevant about the spy adventures today.",
+          "Producers and studio heads have echoed similar sentiments regarding the necessity of a fresh approach. With Denis Villeneuve attached to direct and a rigorous audition process underway, the studio is actively searching for a distinct tone to successfully follow Daniel Craig's memorable era."
+        ]
+      },
+      {
+        "h": "Intense Screen Tests and Casting Rumors",
+        "p": [
+          "Whishaw's confirmation arrives concurrently with the final stages of casting for the next cinematic secret agent. A shortlist of potential actors has been actively performing screen tests at Bray Studios, a historic production facility acquired by Amazon MGM Studios.",
+          "Actor Callum Turner kicked off the auditions, while other reported contenders include Scottish star Jack Lowden, Josh O'Connor, and Jacob Elordi. Social media speculation has also heavily swirled around other potential names, keeping film enthusiasts closely focused on every update surrounding the secretive casting process."
+        ]
+      },
+      {
+        "h": "Timeline for the Next Chapter",
+        "p": [
+          "The ongoing casting sessions mark the conclusion of a search that has spanned nearly a decade since the conclusion of Daniel Craig's tenure. Producer Amy Pascal previously noted that concluding the casting process by the end of the year remained a solid expectation.",
+          "Securing a new lead by December would pave the way for Amazon MGM Studios to officially commence principal photography on the next installment in 2027. Only six actors have officially played Ian Fleming's iconic British Secret Service agent in the official film series thus far, making the upcoming casting decision a monumental milestone in cinema history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ben Whishaw has confirmed he will not return as Q in the upcoming James Bond franchise reboot after playing the role for nine years across three films. Alongside his exit, the actor expressed regret that his character's sexuality felt unsatisfying due to a lack of follow-up in the scripts. Meanwhile, Amazon MGM Studios is actively conducting final screen tests at Bray Studios to find Daniel Craig's successor."
+        ]
+      }
+    ],
+    "facts": [
+      "Ben Whishaw played Q for nine years",
+      "He appeared in Skyfall (2012), Spectre (2015), and No Time to Die (2021)",
+      "He was 31 when initially cast in the role",
+      "Amazon MGM Studios acquired the Bond franchise in 2024",
+      "Screen tests for the new 007 took place at Bray Studios",
+      "Only six actors have officially played James Bond in the film series"
+    ],
+    "entities": {
+      "people": [
+        "Ben Whishaw",
+        "Daniel Craig",
+        "Barbara Broccoli",
+        "Michael G. Wilson",
+        "John Cleese",
+        "Callum Turner",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Jacob Elordi",
+        "Denis Villeneuve",
+        "Amy Pascal",
+        "Ian Fleming"
+      ],
+      "titles": [
+        "Skyfall",
+        "Spectre",
+        "No Time to Die"
+      ]
+    },
+    "keywords": [
+      "Ben Whishaw Q Bond reboot",
+      "James Bond casting screen tests",
+      "Ben Whishaw No Time to Die",
+      "Amazon MGM Studios Bond franchise"
+    ],
+    "images": [],
+    "published": "2026-11-02T06:52:17Z"
   }
 };

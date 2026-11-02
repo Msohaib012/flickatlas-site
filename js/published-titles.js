@@ -806,7 +806,7 @@ window.FA_PUBLISHED = {
     "id": 1003596,
     "type": "movie",
     "title": "Avengers: Doomsday",
-    "poster_path": "/bqAHPSEyRkM4BpkncGFCKjBXf9p.jpg",
+    "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
     "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -18600,7 +18600,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Released",
+    "status": "In Production",
     "production_countries": [
       "PE"
     ],
@@ -19252,6 +19252,867 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-08",
     "date_kind": "festival",
     "runtime": 9,
+    "providers": []
+  },
+  "1814456": {
+    "id": 1814456,
+    "type": "movie",
+    "title": "Sur la piste du casoar",
+    "poster_path": "/5V0YiIpy2GJpU1xNjtU0vu4X1ew.jpg",
+    "backdrop_path": "/xUNCDq8dbsA0sieXtaZn5IFGwvJ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.0388,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1365224": {
+    "id": 1365224,
+    "type": "movie",
+    "title": "Karateka",
+    "poster_path": "/bJh97VEUn9TWygQSrOOyJrwQXek.jpg",
+    "backdrop_path": "/s8Kp6nJa6HtsUoHXFxG2wrN7PAw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "At 39, Spanish karateka Sandra Sánchez sets her sights on Olympic gold in Tokyo, pushing her career toward its defining test. Her coach and life partner, Jesús del Moral, remains beside her throughout, a bond that turns each step toward the Games into a shared act of commitment.",
+    "industry": "world",
+    "popularity": 4.4229,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "W0QNH-Nb9O4",
+      "name": "KARATEKA | Tráiler Oficial",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BE",
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1814384": {
+    "id": 1814384,
+    "type": "movie",
+    "title": "A Folk Story",
+    "poster_path": "/jUwinYGO3B1iztlhc5gTzXaU2zl.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An unsettling encounter unfolds along a lonely road. Blurring the boundaries between folklore, belief, and the supernatural, A Folk Story is an experimental short mystery horror film that explores the unknown through the lens of a traditional folk tale.",
+    "industry": "pakistani",
+    "popularity": 0,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "PK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 6,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Horror"
+    ],
+    "tagline": "Not every hunger can be satisfied",
+    "status": "Released",
+    "production_countries": [
+      "PK"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-31",
+    "date_kind": "release",
+    "runtime": 5,
+    "providers": []
+  },
+  "1811142": {
+    "id": 1811142,
+    "type": "movie",
+    "title": "The Sound of Malan Flowers Blooming",
+    "poster_path": "/rM8X4XqSD0REMKEQCrxJdgwp5NQ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Adapted from a true story of the Beijing Winter Olympics, the film tells the touching story of the Malanhua Children’s Choir. With the help of An Ran, the performance management supervisor for the Opening and Closing Ceremonies, the Winter Olympics team, and Principal Liu from the mountain village primary school, the children overcame numerous hardships to leave their mountain home and step onto the stage of the Beijing Winter Olympics Opening and Closing Ceremonies, singing *Ode to the Olympic* in Greek. Meanwhile, the film reveals more little-known warm and inspiring stories behind the Opening and Closing Ceremonies of the Beijing Winter Olympics and Paralympics, presenting a multi-faceted portrait of the Beijing Winter Olympics Spirit and the Olympic Spirit.",
+    "industry": "world",
+    "popularity": 0.4981,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1773378": {
+    "id": 1773378,
+    "type": "movie",
+    "title": "Who's Coming for Christmas?",
+    "poster_path": "/1KIkID5p5smDoR07BjI7mgaV2QQ.jpg",
+    "backdrop_path": "/xIVI0XJeuYLZCBvTT1lEvfjomI1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After relocating to a new town, Julie uses pieces inherited from her late grandmother to create a beautiful Christmas Eve dinner table for eight, trusting that the right guests will find their way to it. As she befriends her neighbor Mark and his young daughter, her holiday plans seem complete, until bad weather keeps them away. With only three seats filled, Julie must rely on a series of small Christmas miracles to bring her dream holiday table to life.",
+    "industry": "world",
+    "popularity": 4.5313,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1809947": {
+    "id": 1809947,
+    "type": "movie",
+    "title": "Broken English Theater",
+    "poster_path": "/mfUuFkR8545uqpV60Ywci96OeL.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Broken English Theater is a documentary-style comedy that revisits the bizarre legacy of Gerardo Directori, a Buenos Aires theater director who, in the early 2000s, ran a company dedicated to staging \"educational\" plays in English for language students, despite not speaking the language himself.",
+    "industry": "world",
+    "popularity": 0.8377,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 20,
+    "providers": []
+  },
+  "1796328": {
+    "id": 1796328,
+    "type": "movie",
+    "title": "La toile",
+    "poster_path": "/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg",
+    "backdrop_path": null,
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "In an isolated house, a father and his son discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories.",
+    "industry": "world",
+    "popularity": 6.9895,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "NaXlGNNPmu0",
+      "name": "OFFICIAL TRAILER | THE CANVAS",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "Some art never dies.",
+    "status": "Released",
+    "production_countries": [
+      "IT",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 80,
+    "providers": []
+  },
+  "1809943": {
+    "id": 1809943,
+    "type": "movie",
+    "title": "Synchronicity",
+    "poster_path": "/hZi43Jxr54FGIWddutRe60ci3j1.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two solitary walkers cross paths at night in a deserted city. As they draw closer, the city changes. Rhythm, synchrony, and direction come to the fore. The walkers and the city intertwine in a single movement.",
+    "industry": "world",
+    "popularity": 0.6224,
+    "original_language": "xx",
+    "origin_country": [
+      "AR",
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR",
+      "FR"
+    ],
+    "spoken_languages": [
+      "xx"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 6,
+    "providers": []
+  },
+  "1547311": {
+    "id": 1547311,
+    "type": "movie",
+    "title": "This Solitude",
+    "poster_path": "/gDsAXwxRwH9nQCv1z5GvqVwPnTI.jpg",
+    "backdrop_path": "/zppmTC0qSPBV7zJmzzXkt3aCuyj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Leo and Lorea have loved one another. Maybe they still do. But something in them has broken. After five years, their relationship is done. He looks after his sick father, trapped between responsibility and an emotional void that weighs him down. She, caught up in poorly-paid jobs and personal crises, tries to get her life back on track without really knowing where to begin. They are two bodies, tired and alone, pierced by their precarious situation, by unresolved issues, by the emotional legacy of a generation who always seem to come late to everything: to love, to stability, to maturity, to serenity, to personal satisfaction.",
+    "industry": "world",
+    "popularity": 3.8157,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "Z73fH3guhYQ",
+      "name": "THIS LONELINESS. Official trailer. October 30 in theaters.",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": []
+  },
+  "1809936": {
+    "id": 1809936,
+    "type": "movie",
+    "title": "The Wedding Bangles",
+    "poster_path": "/umjQNtjkQFDHy0iKzjWqDkb8R75.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Argentina, 1967. On her fifteenth birthday, María mourns the end of her childhood while glimpsing an unfulfilling future as a middle-class woman. Tension escalates when her older cousin Bárbara pushes her to the breaking point.",
+    "industry": "world",
+    "popularity": 0.7653,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": []
+  },
+  "1792914": {
+    "id": 1792914,
+    "type": "movie",
+    "title": "Log 15",
+    "poster_path": "/6MqBwshl0Lu9a5ImgFbdBX7aA69.jpg",
+    "backdrop_path": "/ovd3BtCJo4ycWSwtQXi2U0aYWet.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Driven to save her mother from Alzheimer's, a desperate woman documents her radical experiments to unlock the human mind, only to discover the footage she is recording is actively rewriting her own reality.",
+    "industry": "world",
+    "popularity": 39.4565,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 10000,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 75,
+    "providers": []
+  },
+  "1809932": {
+    "id": 1809932,
+    "type": "movie",
+    "title": "In the Name of the Father",
+    "poster_path": "/1hfEchR6wxfAIF0ElXA3f33p3c5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Three estranged brothers reunite at a notary's office to settle their late father's estate. What begins as a routine procedure turns into an emotional battlefield, where the true inheritance is silence.",
+    "industry": "world",
+    "popularity": 0.7685,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 19,
+    "providers": []
+  },
+  "939541": {
+    "id": 939541,
+    "type": "movie",
+    "title": "Christmas at the Kringles",
+    "poster_path": "/oVxkhheRVWSacimUZBuMemQX85E.jpg",
+    "backdrop_path": "/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
+    "vote_average": 6.1,
+    "vote_count": 4,
+    "overview": "The Severson family move to a suburban neighborhood where their next-door neighbors, the Kringles, celebrate Christmas year-round. But when their son becomes increasingly attached to the unusual family, Mark and Julie begin to suspect that their neighbors aren't quite what they seem.",
+    "industry": "world",
+    "popularity": 25.2269,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "IsGccGqcNNE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Horror",
+      "Comedy"
+    ],
+    "tagline": "Tidings of discomfort and joy.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": []
+  },
+  "1809924": {
+    "id": 1809924,
+    "type": "movie",
+    "title": "The Innocence of Water",
+    "poster_path": "/aRVTmeHpTCPwNntLMWGtA9DAlhn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a community in Jujuy, where access to water is a privilege, Pamela works for Amelia, who is responsible for the town's water crisis. As the neighbors confront her, a children's game pushes the conflict beyond its limits.",
+    "industry": "world",
+    "popularity": 0.5171,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 19,
+    "providers": []
+  },
+  "1731816": {
+    "id": 1731816,
+    "type": "movie",
+    "title": "Kudrat 1968: High Council",
+    "poster_path": "/mdohHU9ysOhOpPCxYTdlCeS2C4W.jpg",
+    "backdrop_path": "/mUMMWDv8Ly4wRVF54ZdGETEGuSv.jpg",
+    "vote_average": 3.75,
+    "vote_count": 2,
+    "overview": "When Abbas returned to KUDRAT, the school was suddenly besieged by authorities following the death of a student, a tragedy the administration had long kept hidden. Tensions between the elite students and the scholarship students reached a breaking point. While Piji was determined to bring down Pa, Abbas and Kuda fought to uphold justice and expose the dark secrets threatening the entire institution.",
+    "industry": "world",
+    "popularity": 9.8247,
+    "original_language": "ms",
+    "origin_country": [
+      "MY",
+      "HK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "Our blood is the same",
+    "status": "Released",
+    "production_countries": [
+      "MY",
+      "HK"
+    ],
+    "spoken_languages": [
+      "ms",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 118,
+    "providers": []
+  },
+  "1809921": {
+    "id": 1809921,
+    "type": "movie",
+    "title": "A Pilgrimage of Dreams",
+    "poster_path": "/hYawpPiNbt1vhjWHWOtiMaPBV7y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the Azores, Tom and Lila collect dreams from island inhabitants. Through nocturnal stories and volcanic landscapes, an invisible dialogue emerges between territory, memory, and the unconscious.",
+    "industry": "world",
+    "popularity": 0.5043,
+    "original_language": "pt",
+    "origin_country": [
+      "AR",
+      "GB",
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR",
+      "GB",
+      "ES"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 7,
+    "providers": []
+  },
+  "1664264": {
+    "id": 1664264,
+    "type": "movie",
+    "title": "A Very Arctic Christmas",
+    "poster_path": "/iyuVTpASpRy2FpsLbGbwF7T2PtI.jpg",
+    "backdrop_path": "/zskxUdaCFkDNiS3slxQXFEDtL37.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Single dad Jim and his spirited, science-minded 20-year-old daughter, Isla, share a tradition of alternating who decides how they spend Christmas each year. Jim, a former major league baseball player turned broadcaster, never misses hosting his annual Christmas Eve show from Times Square – until Isla persuades him to take a once-in-a-lifetime Arctic cruise, promising they will return in time for his broadcast.",
+    "industry": "world",
+    "popularity": 17.5621,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1808255": {
+    "id": 1808255,
+    "type": "movie",
+    "title": "Ethical Witchery",
+    "poster_path": "/mmpjs4lOG0KRhMGj3XgIAqFlWPc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Witches, Dahlia and Ivy, have been performing the same ritual for over five centuries. To spice things up, Ivy invites baby witch, Oleander, to join them, but Dahlia is not sure she's ready to change her routine.",
+    "industry": "world",
+    "popularity": 0.792,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 7,
+    "providers": []
+  },
+  "1458300": {
+    "id": 1458300,
+    "type": "movie",
+    "title": "The Mosquito Bowl",
+    "poster_path": "/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+    "backdrop_path": "/6BQf817glhR9motzKeCPynPGySi.jpg",
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+    "industry": "world",
+    "popularity": 7.4098,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "F6YDzPfjH4I",
+      "name": "Red Band Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "tagline": "Trained for glory, called to war.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 128,
+    "providers": []
+  },
+  "1800425": {
+    "id": 1800425,
+    "type": "movie",
+    "title": "Game Theory",
+    "poster_path": "/jx2R0tEzBXuKtGWgIsiPw9fqvl9.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "​Trapped in a forbidden affair with his stepmother, a man under the growing influence of an AI companion enters a deadly game in a desperate attempt to earn his father's recognition.",
+    "industry": "world",
+    "popularity": 1.9495,
+    "original_language": "el",
+    "origin_country": [
+      "GR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "GR"
+    ],
+    "spoken_languages": [
+      "el"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 99,
     "providers": []
   }
 };
