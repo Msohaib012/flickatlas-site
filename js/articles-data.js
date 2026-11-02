@@ -32577,5 +32577,184 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 05:49:31 +0530"
+  },
+  "1ie068s": {
+    "id": "1ie068s",
+    "type": "news",
+    "headline": "Sydney Sweeney Backed as Ideal Bond Girl While Final Screen Tests Take Place",
+    "dek": "As the search for Daniel Craig's successor reaches its final stages with weekend screen tests at Bray Studios, original Bond girl Trina Parks endorses Sydney Sweeney for the iconic franchise.",
+    "body": [
+      {
+        "h": "Endorsement From a Franchise Pioneer",
+        "p": [
+          "Trina Parks, who made history as the first African American actor to play a Bond girl in the 1971 film Diamonds Are Forever alongside Sean Connery, has thrown her support behind Sydney Sweeney. Now seventy-nine years old, Parks believes that Sweeney possesses the exact qualities required for a modern heroine in the legendary espionage franchise.",
+          "In a recent interview, Parks highlighted Sweeney's diverse acting portfolio and praised her distinct command over her own sexuality. She noted that the younger actress radiates classic Hollywood elegance and poise, traits that seamlessly align with high-profile film projects and personal branding."
+        ]
+      },
+      {
+        "h": "Redefining the Modern Bond Counterpart",
+        "p": [
+          "Discussing the future direction of the cinematic series, Parks emphasized that contemporary audiences expect to see a female lead opposite the secret agent who operates with complete independence. According to the veteran actress, a compelling Bond girl must project self-assurance and ownership of her identity.",
+          "Parks expressed confidence that Sweeney embodies these very attributes, making her a phenomenal candidate to step into the enduring film universe. Her comments arrive as speculation swirls regarding casting choices for both the male lead and potential supporting roles."
+        ]
+      },
+      {
+        "h": "High-Stakes Auditions at Bray Studios",
+        "p": [
+          "While discussions around supporting characters gain traction, the primary focus of the franchise remains the protracted search for the next actor to take over the mantle from Daniel Craig. Over the weekend, final screen tests reportedly took place at Bray Studios, marking a critical turning point in a casting process that has spanned years.",
+          "The historic production house on the River Thames, which is now controlled by Amazon MGM Studios following a 2024 acquisition, became the epicenter for intense secret auditions. Industry insiders indicated that between three and five hopefuls reached this ultimate stage of evaluation."
+        ]
+      },
+      {
+        "h": "Front-Runners and Mystery Contenders",
+        "p": [
+          "Callum Turner kicked off the weekend audition schedule on Friday, stepping into the spotlight as a long-standing front-runner for the coveted role. Meanwhile, activity outside the studio on Saturday sparked a frenzy among internet sleuths attempting to identify an unnamed actor spotted leaving the premises.",
+          "Social media speculation quickly zeroed in on Joe Alwyn as the mystery participant, with fans noting connections to casting director Nina Gold and pointing out his unexpected presence in London. Alongside Turner and potential dark horses, other names previously mentioned in connection to the role include Jack Lowden, Josh O'Connor, and Jacob Elordi."
+        ]
+      },
+      {
+        "h": "Timeline and Production Outlook",
+        "p": [
+          "The rigorous vetting procedure overseen by studio executives and producers aims to find a suitable successor to follow in the footsteps of the six actors who have officially played Ian Fleming's British Secret Service agent. Producer Amy Pascal previously indicated that a decision is anticipated by the end of the year, with filming for the upcoming installment potentially slated to begin in 2027.",
+          "Director Denis Villeneuve and studio leadership have emphasized a methodical and deliberate approach to reinventing the property. Following Craig's definitive departure after a successful tenure, the creative team is dedicated to introducing a fresh, stirring, and distinct direction for the character."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Original Bond girl Trina Parks has expressed her approval of Sydney Sweeney as a potential future heroine for the franchise. This endorsement coincides with the final round of screen tests at Bray Studios to find Daniel Craig's successor, featuring front-runner Callum Turner and intense speculation surrounding other shortlisted actors as the multi-year casting process nears its conclusion."
+        ]
+      }
+    ],
+    "facts": [
+      "Trina Parks starred as Thumper in 1971's Diamonds Are Forever opposite Sean Connery.",
+      "Trina Parks is 79 years old.",
+      "Final screen tests for the lead role took place over the weekend at Bray Studios.",
+      "Bray Studios is located on the River Thames and was acquired by Amazon MGM Studios in 2024.",
+      "Callum Turner began auditions on Friday.",
+      "Joe Alwyn was speculated by fans as a mystery actor spotted leaving auditions.",
+      "Other actors mentioned in connection to the role include Jack Lowden, Josh O'Connor, and Jacob Elordi.",
+      "Only six actors have officially played James Bond in the film series: Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig."
+    ],
+    "entities": {
+      "people": [
+        "Sydney Sweeney",
+        "Trina Parks",
+        "Sean Connery",
+        "Callum Turner",
+        "Joe Alwyn",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Jacob Elordi",
+        "Denis Villeneuve",
+        "Amy Pascal",
+        "Daniel Craig"
+      ],
+      "titles": [
+        "Diamonds Are Forever",
+        "Conversations With Friends",
+        "The Brutalist",
+        "Hamnet",
+        "The Rocky Horror Picture Show",
+        "The King's Man",
+        "SAS: Rogue Heroes"
+      ]
+    },
+    "keywords": [
+      "Sydney Sweeney Bond girl",
+      "Trina Parks Diamonds Are Forever",
+      "Callum Turner Bond auditions",
+      "Bray Studios James Bond casting",
+      "Joe Alwyn 007 screen tests"
+    ],
+    "images": [],
+    "published": "2026-11-02T00:59:50Z"
+  },
+  "145f7g0": {
+    "id": "145f7g0",
+    "type": "news",
+    "headline": "Shah Rukh Khan Steps Out in Mumbai Following Intimate Birthday Celebrations with Family and Friends",
+    "dek": "Bollywood superstar Shah Rukh Khan made his first public appearance after ringing in his 61st birthday, waving and blowing kisses to fans gathered outside a South Mumbai hotel following late-night festivities.",
+    "body": [
+      {
+        "h": "Late-Night Celebrations in South Mumbai",
+        "p": [
+          "While crowds of dedicated admirers gathered outside his iconic residence Mannat to catch a glimpse of the superstar on his special day, Shah Rukh Khan quietly slipped out of the premises. The actor headed toward South Mumbai to ring in his 61st birthday surrounded by his closest family and friends.",
+          "The celebration took place at a prominent luxury property, the Taj hotel, where the actor reportedly partied late into the night. Photographers captured his swanky vehicle parked outside the venue well into the early hours of Monday morning, signaling a lively gathering behind closed doors."
+        ]
+      },
+      {
+        "h": "Family Presence at the Private Bash",
+        "p": [
+          "Family members played a central role in the private festivities, with fan reports confirming the presence of the actor's children. Both Suhana Khan and Aryan Khan were spotted joining the birthday celebrations to support and celebrate with their father.",
+          "While the younger members made a relatively swift exit from the venue, the superstar himself lingered longer, ensuring the private event extended deep into the morning hours before his eventual departure."
+        ]
+      },
+      {
+        "h": "Frenzy Outside the Hotel Venue",
+        "p": [
+          "As the birthday boy finally emerged from the hotel to head home, his departure triggered an immediate frenzy among onlookers and fans stationed outside. Viral video clips captured eager supporters cheering loudly and shouting expressions of affection as he walked toward his waiting car.",
+          "Before stepping inside the vehicle, the actor took a moment to acknowledge the roaring crowd. He reciprocated the warmth by warmly waving and blowing kisses to the gathered admirers who had waited hours just to see him."
+        ]
+      },
+      {
+        "h": "Turning Mannat Into a Giant Screen",
+        "p": [
+          "Earlier in the day, the superstar found a unique way to connect with the massive crowds gathered outside his Mannat residence. He transformed the exterior of his home into a giant display screen to give fans an exciting preview of his upcoming professional projects.",
+          "The massive outdoor display treated onlookers to a special glimpse of his highly anticipated film 'King', featuring a new song starring the actor alongside Deepika Padukone. The innovative showcase offered a memorable visual treat for everyone present."
+        ]
+      },
+      {
+        "h": "A Personal Note to Dedicated Fans",
+        "p": [
+          "Alongside the cinematic preview, the giant screen outside Mannat also projected a deeply personal message penned by the actor himself. The handwritten note offered a direct expression of gratitude to the people who have supported his legendary career.",
+          "The displayed message read: 'To the hearts that made him KING, a lot of love in return.' This heartfelt acknowledgment further amplified the celebratory atmosphere surrounding his milestone 61st birthday."
+        ]
+      },
+      {
+        "h": "Anticipation for Upcoming Projects",
+        "p": [
+          "The festive celebrations arrived amid an intense wave of curiosity and growing anticipation surrounding the actor's cinematic slate. Chief among these upcoming projects is the film 'King', which pairs him once again with leading lady Deepika Padukone.",
+          "As one of the most eagerly awaited titles on the superstar's upcoming roster, the project has already generated massive online buzz, heightened further by the surprise preview unveiled during his birthday celebrations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan celebrated his 61st birthday by attending a private late-night gathering with his family and friends at a South Mumbai hotel after slipping away from his residence, Mannat. Upon leaving the venue, he greeted cheering fans by waving and blowing kisses, while earlier unveiling a preview of his upcoming film 'King' on a giant screen outside his home."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan celebrated his 61st birthday.",
+      "Suhana Khan and Aryan Khan attended the celebrations.",
+      "The celebration took place at the Taj hotel in South Mumbai.",
+      "The upcoming film is titled 'King' and stars Shah Rukh Khan and Deepika Padukone."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suhana Khan",
+        "Aryan Khan",
+        "Deepika Padukone"
+      ],
+      "titles": [
+        "King"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan birthday",
+      "King movie Shah Rukh Khan",
+      "Shah Rukh Khan Mannat",
+      "Suhana Khan Aryan Khan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135440854,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan Steps Out in Mumbai Following Intimate Birthday Celebrations with Family and Friends",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T05:31:22+05:30"
   }
 };
