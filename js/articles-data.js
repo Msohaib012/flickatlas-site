@@ -33601,5 +33601,219 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T04:52:13Z"
+  },
+  "jphdof": {
+    "id": "jphdof",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 18: Rajinikanth Starrer Crosses Rs 800 Crore Worldwide",
+    "dek": "Rajinikanth's Jailer 2 achieves a major box office milestone, crossing Rs 800 crore globally after a strong third weekend run.",
+    "body": [
+      {
+        "h": "Third Weekend Milestone",
+        "p": [
+          "Rajinikanth's action-drama sequel Jailer 2 has crossed another significant commercial milestone during its third weekend in cinemas. The film, which arrived on the big screen on October 15, has maintained its theatrical momentum across multiple languages.",
+          "Following a growth spurt on Saturday, the movie registered another collection increase on Sunday, pushing its worldwide gross revenue past the Rs 800 crore threshold."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Weekend Totals",
+        "p": [
+          "Based on estimates from Sacnilk, Jailer 2 brought in Rs 11.20 crore net across all domestic languages on Day 18, which was Sunday, November 1. This figure represented a 15.5 percent increase compared to Saturday's estimated earnings of Rs 9.70 crore.",
+          "The Sunday addition brought the cumulative domestic net collection to Rs 456.30 crore, while the India gross stands at Rs 533.75 crore. Earlier in the weekend, the movie earned Rs 5.50 crore net on its third Friday before climbing over the weekend to deliver a third-weekend total of Rs 26.40 crore."
+        ]
+      },
+      {
+        "h": "Overseas and Global Accumulation",
+        "p": [
+          "In addition to its domestic success, the film continued to pull numbers from international territories on Day 18. Reports indicate the feature added Rs 3 crore gross from overseas markets.",
+          "This international performance pushed the cumulative overseas gross collection to Rs 273.50 crore. When combined with the domestic figures, the Rajinikanth vehicle reached an estimated worldwide gross of Rs 807.25 crore in 18 days."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "Jailer 2 continued its theatrical run across Tamil, Hindi, Telugu, and Kannada versions on Sunday. The Tamil version led the domestic collections with Rs 8 crore.",
+          "Meanwhile, the Hindi version contributed Rs 1.75 crore, the Telugu version brought in Rs 1 crore, and the Kannada version added Rs 45 lakh to round out the Rs 11.20 crore total."
+        ]
+      },
+      {
+        "h": "Occupancy Rates and Screen Counts",
+        "p": [
+          "The Tamil version generated the highest occupancy among all language variants, recording an estimated 34.3 percent across 4,287 shows. The Kannada version followed with 31 percent occupancy across 250 shows.",
+          "The Telugu version saw 28.3 percent occupancy across 777 shows, while the Hindi version registered roughly 15 percent occupancy from 3,592 shows, resulting in a total of 8,906 screenings across India on Day 18."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Creative Background",
+        "p": [
+          "Written and directed by Nelson Dilipkumar, Jailer 2 serves as the continuation of the 2023 hit Jailer. Rajinikanth stars once again as retired jailer Muthuvel Pandian, supported by returning actors Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik.",
+          "The expanded cast also welcomes S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan, alongside cameo appearances by Mohanlal, Shiva Rajkumar, Vijay Sethupathi, Jackie Shroff, and Hrithik Roshan. The film is produced by Kalanithi Maran under Sun Pictures with music by Anirudh Ravichander."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 surpassed Rs 800 crore worldwide by its eighteenth day in theatres, driven by strong domestic and overseas earnings. The Nelson Dilipkumar directorial recorded a cumulative domestic net of Rs 456.30 crore alongside strong multi-language theatrical occupancies."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: October 15, 2026",
+      "Day 18 date: November 1, 2026",
+      "Day 18 India net collection: Rs 11.20 crore",
+      "Cumulative domestic net collection: Rs 456.30 crore",
+      "India gross collection: Rs 533.75 crore",
+      "Overseas gross collection: Rs 273.50 crore",
+      "Worldwide gross collection: Rs 807.25 crore",
+      "Third-weekend collection: Rs 26.40 crore",
+      "Tamil Day 18 net collection: Rs 8 crore",
+      "Hindi Day 18 net collection: Rs 1.75 crore",
+      "Telugu Day 18 net collection: Rs 1 crore",
+      "Kannada Day 18 net collection: Rs 45 lakh",
+      "Total shows on Day 18: 8,906"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Vijay Sethupathi",
+        "Jackie Shroff",
+        "Hrithik Roshan",
+        "Kalanithi Maran",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2",
+      "Jailer 2 Day 18 collection",
+      "Jailer 2 worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/jailer2-91161793595382.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 18: Rajinikanth Starrer Crosses Rs 800 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 10:28:48 +0530"
+  },
+  "1ghc7wd": {
+    "id": "1ghc7wd",
+    "type": "news",
+    "headline": "Ramayana Part 1 Lines Up Grand Mumbai Premiere Following International Showcases in Los Angeles and London",
+    "dek": "Namit Malhotra's ambitious cinematic adaptation Ramayana: Part One is heading toward its domestic theatrical release following exclusive early screenings in Los Angeles, London, and Mumbai.",
+    "body": [
+      {
+        "h": "Global Screening Schedule",
+        "p": [
+          "The high-profile cinematic venture Ramayana: Part One is continuing its promotional tour with a sequence of exclusive screenings across different continents. Following a showcase in Los Angeles on October 27 and a subsequent screening in London on November 1, the production is scheduled for a special cast-and-crew screening in Mumbai on November 3. This event will take place at Lower Parel's IMAX.",
+          "Following the November 3 cast-and-crew gathering, a dedicated media screening is planned for November 4. These localized events precede the official nationwide theatrical release in India, which is locked in for November 5, allowing early reviewers and team members to experience the film before the general public."
+        ]
+      },
+      {
+        "h": "International Showcases and Previews",
+        "p": [
+          "The international rollout included a notable presentation in London where the Hindi version of the project was screened for invited critics, which notably included members of the BAFTA jury. Prior to that, the makers engaged with international press outlets and held initial promotional rounds in Los Angeles.",
+          "Sources close to the production noted that the Mumbai premiere venue was initially planned to be at the Nita Mukesh Ambani Cultural Centre, but was ultimately shifted to Lower Parel due to various considerations. A select group of individuals in Mumbai has already attended early preview screenings ahead of these formal events."
+        ]
+      },
+      {
+        "h": "Box Office and Advance Bookings",
+        "p": [
+          "Ahead of its official theatrical rollout, the film has generated significant commercial traction. Advance booking windows have opened across all viewing formats, registering unprecedented demand over a two-week period leading up to the release.",
+          "As of 6 am on November 2, the production accumulated Rs 45 crore in earnings within India. Meanwhile, initial audience and critic reactions emerging from the Los Angeles premiere have been described as mixed."
+        ]
+      },
+      {
+        "h": "Distribution and Scale",
+        "p": [
+          "The distribution network for the epic adaptation is split across domestic and international territories. Dharma Productions is managing the theatrical release within India, whereas Sony Pictures is overseeing international distribution responsibilities, which include the market in China.",
+          "Backed by producer Namit Malhotra, the project is framed as an extensive screen adaptation of the traditional Indian epic Ramayana. The production scale is intentionally vast to appeal broadly to domestic audiences as well as viewers globally."
+        ]
+      },
+      {
+        "h": "Cast and Ensemble Details",
+        "p": [
+          "The feature boasts a massive ensemble cast representing various characters from the narrative. Ranbir Kapoor leads the production as Lord Ram, alongside Sai Pallavi as Sita, Yash as Ravana, Ravi Dubey as Lakshman, and Sunny Deol as Hanuman.",
+          "The extensive supporting lineup features Arun Govil as King Dashrath, Indira Krishnan as Kaushalya, Sonal Jha as Sumitra, Lara Dutta as Kaikeyi, Sheeba Chaddha as Manthara, Rakul Preet Singh as Surpanakha, Kajal Aggarwal as Mandodari, and Shobana as Kaikesi, along with several other notable actors in various supporting roles."
+        ]
+      },
+      {
+        "h": "Future Plans for the Franchise",
+        "p": [
+          "As the first installment prepares to enter theaters, updates regarding the broader franchise timeline have also emerged. Ramayana: Part 2 was initially targeted for a Diwali release in 2027.",
+          "However, the subsequent timeline has been adjusted, and the second installment is now scheduled to arrive in cinemas during the Diwali festival period in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One is holding a special Mumbai premiere at Lower Parel's IMAX on November 3 following earlier showcases in Los Angeles and London, ahead of its November 5 theatrical release in India. Distributed by Dharma Productions domestically and Sony Pictures internationally, the film has already recorded Rs 45 crore in advance collections and features an ensemble led by Ranbir Kapoor, Sai Pallavi, and Yash."
+        ]
+      }
+    ],
+    "facts": [
+      "Los Angeles premiere held on October 27",
+      "London screening held on November 1",
+      "Mumbai cast-and-crew screening scheduled for November 3 at Lower Parel's IMAX",
+      "Media screening scheduled for November 4",
+      "Official India release date is November 5",
+      "Advance earnings reached Rs 45 crore in India as of 6 am on November 2",
+      "Ramayana: Part 2 scheduled for Diwali 2028 release"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Sonal Jha",
+        "Lara Dutta",
+        "Sheeba Chaddha",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Shobana"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Ramayana: Part One",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ramayana Mumbai premiere",
+      "Namit Malhotra Ramayana",
+      "Ranbir Kapoor Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-premiere-020524185-16x9_0.jpg?VersionId=5PnI5CBTFWOtxkQPIqK3UJ1yILe2g3sW",
+        "caption": "Ramayana Part 1 Lines Up Grand Mumbai Premiere Following International Showcases in Los Angeles and London",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 10:48:09 +0530"
   }
 };
