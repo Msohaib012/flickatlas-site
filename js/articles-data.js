@@ -32972,5 +32972,217 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T06:43:28+05:30"
+  },
+  "u1rw4b": {
+    "id": "u1rw4b",
+    "type": "news",
+    "headline": "Avengers: Doomsday Presales Eclipse Supergirl Entire Box Office Run",
+    "dek": "Marvel's upcoming event film Avengers: Doomsday has crossed $125 million in worldwide presales, matching DC's Supergirl lifetime gross over a month before its release.",
+    "body": [
+      {
+        "h": "The Splitting Theatrical Landscape",
+        "p": [
+          "The theatrical film industry has experienced a notable division in recent years, separating massive event titles from standard releases. While major blockbusters draw immediate crowds treating opening nights like holidays, other productions struggle to pull audiences away from home streaming options.",
+          "This divergence is vividly highlighted by the differing fortunes of competing comic book studio releases. High production costs and decent reviews no longer guarantee theatrical success unless a project carries a unique event status."
+        ]
+      },
+      {
+        "h": "Astonishing Presale Figures",
+        "p": [
+          "Avengers: Doomsday has generated significant momentum ahead of its December 18, 2026 release date. According to reports from Forbes, the film has crossed $125 million in worldwide presales well before hitting theaters.",
+          "This remarkable advance figure has effectively matched the total global theatrical gross achieved by DC's Supergirl, which concluded its run at $126.4 million. Furthermore, US theaters alone account for an estimated $65 million of that presale total."
+        ]
+      },
+      {
+        "h": "Record-Breaking Pace Overseas",
+        "p": [
+          "The global demand for the Marvel feature outpaces historical benchmarks set by previous cinematic hits. The current sales velocity surpasses what Spider-Man: Brand New Day achieved on its path to securing an all-time presale record of $150 million.",
+          "International markets are also displaying unprecedented enthusiasm. Germany recorded 118,000 day-one ticket sales, a figure that reportedly eclipses the initial launch performance of Avengers: Endgame in that region."
+        ]
+      },
+      {
+        "h": "Trade Projections and Skepticism",
+        "p": [
+          "Industry trade forecasts suggest a domestic opening weekend ranging between $250 million and $300 million. If these figures materialize upon release, the film will establish entirely new industry benchmarks.",
+          "Despite the overwhelming optimism surrounding these early numbers, analysts maintain a healthy degree of skepticism. Pre-release hype cycles frequently inflate expectations before a project officially opens to the general public."
+        ]
+      },
+      {
+        "h": "Mid-Sized Budget Lessons for DC",
+        "p": [
+          "While major crossover projects dominate headlines, other superhero entries demonstrate alternative financial models. Clayface, an R-rated body horror film produced on a $44 million budget, is tracking toward doubling its investment within two weekends.",
+          "This performance indicates that financial challenges stem from inflated budgets rather than a lack of audience interest. James Gunn's DC universe appears to be adopting lessons regarding mid-sized storytelling that Marvel previously learned during its own developmental phases."
+        ]
+      },
+      {
+        "h": "Nostalgia and the Return of Key Talent",
+        "p": [
+          "The massive presale figures reflect a broader industry trend favoring nostalgia and guaranteed fan appeal. The production features the return of directors Anthony and Joe Russo, alongside Robert Downey Jr. taking on a villainous role following shifts in Marvel's overarching plans.",
+          "Additionally, the narrative incorporates classic X-Men alumni from Fox through a multiverse premise. This strategy mirrors the successful framework established by Avengers: Endgame to secure strong audience engagement."
+        ]
+      },
+      {
+        "h": "Direct Competition at the Box Office",
+        "p": [
+          "The film is scheduled to open directly against Dune: Part Three, setting up a major box office showdown. Warner Bros. enters the competition with reported presales of $25 million for the sci-fi sequel.",
+          "Although the Marvel event holds a commanding early lead in advance sales, Denis Villeneuve's franchise has historically demonstrated strong long-term staying power in theaters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has achieved over $125 million in global presales more than a month before its December 18, 2026 release, matching the lifetime gross of DC's Supergirl. Driven by returning talent, nostalgia, and immense fan anticipation, the Marvel blockbuster highlights a growing divide in the modern theatrical box office."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases on December 18, 2026",
+      "Avengers: Doomsday crossed $125 million in worldwide presales",
+      "DC's Supergirl closed out its run at $126.4 million",
+      "US theaters account for an estimated $65 million of Avengers: Doomsday presales",
+      "Spider-Man: Brand New Day reached an all-time presale record of $150 million",
+      "Germany sold 118,000 day-one tickets for Avengers: Doomsday",
+      "Trade projections estimate a domestic opening between $250 and $300 million for Avengers: Doomsday",
+      "Clayface had a budget of $44 million",
+      "Dune: Part Three has reported $25 million in presales"
+    ],
+    "entities": {
+      "people": [
+        "Omar Faruque",
+        "James Gunn",
+        "Anthony Russo",
+        "Joe Russo",
+        "Stephen McFeely",
+        "Michael Waldron",
+        "Chris McKenna",
+        "Erik Sommers",
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby",
+        "Kevin Feige",
+        "Louis D'Esposito",
+        "Jonathan Schwartz",
+        "Callum McDougall",
+        "Denis Villeneuve"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Supergirl",
+        "Spider-Man: Brand New Day",
+        "Avengers: Endgame",
+        "Clayface",
+        "Dune: Part Three",
+        "Avengers: Secret Wars",
+        "Fantastic Four",
+        "Black Panther",
+        "Thor",
+        "X-Men",
+        "The Avengers",
+        "Marvel Cinematic Universe"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday presales",
+      "Avengers Doomsday box office",
+      "Supergirl box office gross",
+      "Clayface budget"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/robert-downey-as-doctor-doom-in-avengers-doomsday.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avengers: Doomsday Presales Eclipse Supergirl Entire Box Office Run",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 01:00:16 GMT"
+  },
+  "1h69267": {
+    "id": "1h69267",
+    "type": "news",
+    "headline": "Dave Bautista Adds 20 Pounds of Muscle to Step Into Kratos Role for Prime Video's 'God of War'",
+    "dek": "The actor provides a look at his physical transformation on social media as he prepares to lead the upcoming series adaptation.",
+    "body": [
+      {
+        "h": "Physical Preparation for the Role",
+        "p": [
+          "Dave Bautista has offered fans another look into his ongoing physical transformation as he readies himself to portray Kratos in the upcoming 'God of War' series. The actor recently shared a video on his Instagram story that highlighted his current body weight.",
+          "The social media update featured text noting his recent physical progress along with a sticker pointing to his total mass. In the post, the actor also wore branded merchandise tied directly to the video game property."
+        ]
+      },
+      {
+        "h": "Progress Along the Way",
+        "p": [
+          "This latest update comes several weeks after the performer first shared insights into his renewed weight training regimen. At that earlier stage, he noted that while he had begun building his strength again, he still had progress to make before reaching his ideal physical condition for the production.",
+          "His recent update confirms that he has reached a weight of 250 pounds after adding significant mass specifically for the television project."
+        ]
+      },
+      {
+        "h": "Stepping Into the Franchise",
+        "p": [
+          "Bautista joined the high-profile television adaptation earlier in the year. His casting came after original lead Ryan Hurst suffered an injury on set that required surgical intervention, which would have pushed production timelines further down the road.",
+          "Because of the change in casting, the production team has had to reshoot all previously filmed scenes that featured Hurst, utilizing Bautista in the lead role instead."
+        ]
+      },
+      {
+        "h": "Production Background",
+        "p": [
+          "Principal photography for the ambitious adaptation got underway in Vancouver earlier in the year. The scale of the project reflects Prime Video's heavy investment in the intellectual property.",
+          "The streaming platform has given the program a multi-season order right out of the gate, committing to shoot two seasons back-to-back to maintain momentum."
+        ]
+      },
+      {
+        "h": "Storyline and Characters",
+        "p": [
+          "The narrative of the series draws from the events of the two most recent video games in the franchise. The plot centers on Kratos as he navigates raising his ten-year-old son, Atreus, while confronting powerful figures from the Norse pantheon.",
+          "According to the official logline, the father and son embark on a journey to scatter the ashes of Faye, who was both wife to Kratos and mother to Atreus. Along the way, Kratos attempts to guide his son on how to be a better god, while the boy tries to teach his father how to display greater humanity. Atreus is portrayed by Callum Vinson."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dave Bautista has reached 250 pounds after gaining 20 pounds of muscle to play Kratos in Prime Video's upcoming 'God of War' series. He replaced Ryan Hurst following an on-set injury, requiring production to reshoot scenes in Vancouver for the two-season adaptation."
+        ]
+      }
+    ],
+    "facts": [
+      "Dave Bautista gained 20 pounds of muscle for the role of Kratos",
+      "Dave Bautista's current weight is 250 pounds",
+      "Ryan Hurst was originally cast as Kratos but suffered a torn bicep and required surgery",
+      "Filming began in Vancouver in February",
+      "Prime Video gave God of War a two-season order to shoot back-to-back",
+      "Callum Vinson plays ten-year-old Atreus"
+    ],
+    "entities": {
+      "people": [
+        "Dave Bautista",
+        "Ryan Hurst",
+        "Callum Vinson",
+        "Faye"
+      ],
+      "titles": [
+        "God of War",
+        "Guardians of the Galaxy",
+        "My Spy",
+        "Knock at the Cabin",
+        "The Wrecking Crew",
+        "Road House 2",
+        "Highlander"
+      ]
+    },
+    "keywords": [
+      "Dave Bautista God of War",
+      "God of War Kratos actor",
+      "Dave Bautista 250 pounds muscle",
+      "Ryan Hurst God of War injury"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/dave-bautista.webp?w=999&#038;h=563&#038;crop=1",
+        "caption": "Dave Bautista Adds 20 Pounds of Muscle to Step Into Kratos Role for Prime Video's 'God of War'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 01:05:45 +0000"
   }
 };

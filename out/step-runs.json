@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T03:51:47Z",
-    "run_id": "41270752532",
-    "status": "success",
-    "checked": {
-     "candidates": 263,
-     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Amy Yasbeck says she talks to her late husband, John Ritter, two decades after his passing",
-      "Jack Lowden out of James Bond race?",
-      "'Scene' vs 'OM: Chapter 1': Suriya thanks Dhanush for avoiding clash",
-      "Sandra Bullock shares throwback Halloween photos online",
-      "'Scene' trailer: Thalapathy Vijay gets an indirect political reference",
-      "Yash takes a break from 'Ramayana' promos for Disneyland date with kids",
-      "Hina Khan reveals she and Rocky Jaiswal got married in less than 15 minutes, cancer diagnosis drove decision",
-      "Ravi Teja's Irumudi makers sent notice from Telangana labour department over complaint regarding child actor's working hours, safety, remuneration",
-      "Diljit Dosanjh wanted to hold concert in Bihar, says he was asked to take responsibility for crowd management",
-      "You only live once: Why Ajay Bijli returned to his first love, music!",
-      "Divya Dutta lauds Gajab Raat co-star Manoj Bajpayee for treating newcomers as equals, says working with him leaves one spoiled | HT Exclusive",
-      "Netflix's Ruchikaa Kapoor Sheikh says film reviews matter but are no longer a measure of a film's success | Interview",
-      "Scene trailer: Suriya plays rule-breaking cop Inbaraj in Jithu Madhavan's film",
-      "Sanjay Gupta funeral: Viral video claims daughter made obscene gesture at paps",
-      "The Greatest Western of the 2010s Is a Remake That Totally Outshines the Original",
-      "The 10 Best Alternative Rock Songs of the ‘90s, Ranked",
-      "7 Greatest ‘Peanuts’ Comic Strips of the 1990s, Ranked",
-      "Prime Video's New 8-Episode Sci-Fi Series Continues a Modern Masterpiece",
-      "10 Essential Dystopian Movies, Ranked",
-      "The 10 Best HBO TV Miniseries Based on Books, Ranked"
-     ],
-     "updated": [],
-     "count": 240,
-     "detail": "251 stories, 0 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T04:50:57Z",
     "run_id": "41274623775",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "197 stories, 0 duplicates removed, 2 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T04:51:11Z",
-    "run_id": "41274623775",
+    "run_at": "2026-11-02T02:50:56Z",
+    "run_id": "41379846335",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 193,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
-      "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar"
+      "Musician Juan Atkins passes away at 64",
+      "'Udta Teer' Day 10 Box Office: Film hits Rs 61.5cr worldwide gross",
+      "Singer Steve Ellis passes away at 76",
+      "Dead-End Job ending explained: What happens to Byeon Hyeok Jun's father? Does he survive? Breaking down Lee Jae Wook's Netflix horror-comedy finale",
+      "Yash says viewers will be able to relate with both Rama and Ravana in Ramayana, calls it the right time to showcase Indian film to the world",
+      "Shah Rukh Khan thanks fans amid King-sized birthday celebrations at Mannat",
+      "The 10 Best Netflix Shows With Less Than 20 Episodes, Ranked",
+      "Doctor Doom Is Already Box Office Gold After Crushing DC's $170M Sci-Fi Action Flop",
+      "5 Best New Prime Video Series To Binge-Watch This Week (November 2–6, 2026)",
+      "Best Movies Streaming For Free In November 2026, Including Jack Reacher",
+      "After 32 Years, The Original Power Rangers Are Returning For Start Of New Mighty Morphin' Era",
+      "Japan Has Officially Decided On Fall 2026’s Top 10 Anime",
+      "Greta Gerwig's Narnia Officially Shuts Down The Biggest Concern About The Remake's Changes",
+      "DC Reveals New Canon Joker Backstory That Changes Batman Forever",
+      "12 Best Quotes From Guy Ritchie Movies, Ranked",
+      "Dark Souls Meets Assassin's Creed Black Flag In New Pirate RPG",
+      "McKenna Grace's Netflix Riverdale Replacement Has Enough Stories To Last A Decade",
+      "Shahrbanoo Sadat and Jelena Maksimović Hit Back at Discrimination in Film Funding at Tokyo Festival Talk",
+      "Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series",
+      "Jakarta World Cinema Plans to Revive First Feature Competition With International Jury"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 185,
+     "detail": "193 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,30 @@
      "detail": "+2 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T02:51:10Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Avengers: Doomsday Presales Eclipse Supergirl Entire Box Office Run",
+      "Dave Bautista Adds 20 Pounds of Muscle to Step Into Kratos Role for Prime Video's 'God of War'"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T05:51:42Z",
-    "run_id": "41278465279",
-    "status": "success",
-    "checked": {
-     "candidates": 165,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 160, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,28 +1843,27 @@
      "detail": "now 180, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T02:52:42Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 185,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 180, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T04:57:01Z",
-    "run_id": "41274623775",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1wys4gi"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2312,27 +2293,28 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T02:58:37Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1aq72iv"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T04:56:59Z",
-    "run_id": "41274623775",
-    "status": "success",
-    "checked": {
-     "candidates": 334,
-     "detail": "333 collected staging rows from readers; 114 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 8,
-     "detail": "+4 new rows, 4 updated rows, 325 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2746,19 +2728,27 @@
      "detail": "+0 new rows, 3 updated rows, 405 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T02:58:35Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 412,
+     "detail": "410 collected staging rows from readers; 123 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 114,
+     "detail": "+0 new rows, 114 updated rows, 296 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3024,30 +3014,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T04:57:01Z",
-    "run_id": "41274623775",
-    "status": "success",
-    "checked": {
-     "candidates": 324,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Dexter Resurrection Season 2 Episode 1 Review: Michael C. Hall's Aging Vigilante Returns on Amazon Prime Video",
-      "Salman Khan Calls Out ScoutOP And Slams Kaashvi Hiranandani's Remark On Bigg Boss 20 Weekend Ka Vaar"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 324 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3521,19 +3500,30 @@
      "detail": "api-news.json 366 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T02:58:37Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 368,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Avengers: Doomsday Presales Eclipse Supergirl Entire Box Office Run",
+      "Dave Bautista Adds 20 Pounds of Muscle to Step Into Kratos Role for Prime Video's 'God of War'"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 368 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3807,19 +3797,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4157,29 +4147,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T03:52:02Z",
-    "run_id": "41270752532",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 240 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Telangana Labour Department Summons Makers of Ravi Teja Starrer Irumudi Over Child Actor Regulations",
-      "Suriya plays unconventional cop Inbaraj in the trailer for Jithu Madhavan's Scene"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4627,19 +4607,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T02:51:10Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 185 still unprocessed; today by category: movies 1/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Avengers: Doomsday Presales Eclipse Supergirl Entire Box Office Run",
+      "Dave Bautista Adds 20 Pounds of Muscle to Step Into Kratos Role for Prime Video's 'God of War'"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4895,24 +4885,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 276,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5237,24 +5222,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 212,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5579,19 +5564,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5841,19 +5831,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6088,19 +6078,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6344,22 +6334,22 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-11-01T04:57:09Z",
     "run_id": "41274623775",
     "status": "skipped",
@@ -6586,22 +6576,33 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T02:52:42Z",
+    "run_id": "41379846335",
+    "status": "success",
+    "checked": {
+     "candidates": 237,
+     "processed": 237,
+     "succeeded": 237,
+     "failed": 0,
+     "already_have_providers": 156,
+     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 237
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-01T03:52:16Z",
-    "run_id": "41270752532",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-01T04:57:09Z",
     "run_id": "41274623775",
     "status": "skipped",
@@ -6824,6 +6825,16 @@
     "category": "Box Office",
     "run_at": "2026-11-02T01:52:04Z",
     "run_id": "41374560892",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6834,39 +6845,6 @@
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-11-01T03:52:06Z",
-    "run_id": "41270752532",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "keyword refresh: 15 articles, sources {'gemini': 14, 'mixed': 1}"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Ranabaali Box Office Collection Day 13: Period Drama Crosses Rs 75 Crore Worldwi",
-      "Jailer 2 Box Office Collection Day 14: Rajinikanth Starrer Crosses ₹755.50 Crore",
-      "Naseeruddin Shah declares himself an 'intellectual Naxal' while supporting prote",
-      "Rajinikanth Starrer ‘Jailer 2’ Hits Rs 423 Crore in India on Day 14, Nears Rs 75",
-      "David Bruckner to Direct Smile 3 With Parker Finn Producing",
-      "‘Avengers: Doomsday’ and ‘Dune: Part Three’ December Box Office Clash Set to Mak",
-      "Oscar-Nominated Star and Beloved TV Mother Barbara Barrie Passes Away at 95",
-      "Grand Theft Auto VI Reportedly Demands Massive Storage Space",
-      "Tark-e-Tamanna Episode 16 Promo Released Highlighting Zain Baig and Janice Tessa",
-      "Olivia Wilde's 'The Invite' to Receive Vanguard Honor from Palm Springs Internat",
-      "Bano Episode 16 — Watch on Geo TV",
-      "Ebenezer Scrooge: A Christmas Carol Horror Trailer Unveils The Asylum’s Take on ",
-      "Chris Hemsworth Wraps Filming on Extraction 3 in Thailand",
-      "Netflix Releases Full Trailer for Upcoming Pride and Prejudice Limited Series",
-      "Ted Lasso Smashes Apple TV Viewership Record Amid Season 5 Renewal Wait"
-     ],
-     "count": 15
-    },
-    "reason": null
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-11-01T04:57:09Z",
     "run_id": "41274623775",
     "status": "skipped",
@@ -7089,6 +7067,16 @@
     "category": "Trending News",
     "run_at": "2026-11-02T01:52:04Z",
     "run_id": "41374560892",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7313,8 +7301,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T02:58:45Z",
+    "run_id": "41379846335",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T01:52:04Z"
+ "updated_at": "2026-11-02T02:58:45Z"
 }
