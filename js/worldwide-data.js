@@ -1,12 +1,5 @@
 /* FlickAtlas — worldwide theatrical totals. GENERATED from scripts/worldwide-seed.json (verified figures, see backfill-worldwide.json) by scripts/worldwide_boxoffice.py — do not edit by hand. Keyed by TMDB movie id; total_usd = reported worldwide theatrical total in USD (NOT day-wise, NOT India Net). Shown only as a labelled fallback on Box Office cards for titles with no India-Net day-wise rows. */
 window.FA_WORLDWIDE = {
-  "1032863": {
-    "as_of": "2026-11-01",
-    "scope": "worldwide",
-    "source": "https://www.miscw.com/love-hypothesis-movie-release-date-cast-plot-and-impact-153291.html",
-    "title": "The Love Hypothesis",
-    "total_usd": 112500000
-  },
   "1058424": {
     "as_of": "2026-10-28",
     "scope": "worldwide",
@@ -24,7 +17,7 @@ window.FA_WORLDWIDE = {
     "total_usd": 774031
   },
   "1101412": {
-    "as_of": "2026-11-01",
+    "as_of": "2026-11-02",
     "scope": "worldwide",
     "source": "https://en.wikipedia.org/wiki/Fall_2:_Deadpoint",
     "title": "Fall 2: Deadpoint",
@@ -48,14 +41,14 @@ window.FA_WORLDWIDE = {
     "total_usd": 5750000
   },
   "1384216": {
-    "as_of": "2026-11-01",
+    "as_of": "2026-11-02",
     "scope": "worldwide",
-    "source": "https://www.facebook.com/100067616590743/posts/ridley-scotts-the-dog-stars-grossed-just-33-million-worldwide-on-a-110-million-b/1437446618519211",
+    "source": "https://en.wikipedia.org/wiki/The_Dog_Stars_(film)",
     "title": "The Dog Stars",
-    "total_usd": 33000000
+    "total_usd": 24000000
   },
   "791523": {
-    "as_of": "2026-11-01",
+    "as_of": "2026-11-02",
     "scope": "worldwide",
     "source": "https://en.wikipedia.org/wiki/Wildwood_(film)",
     "title": "Wildwood",

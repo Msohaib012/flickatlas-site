@@ -34228,5 +34228,217 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 12:41:36 +0200"
+  },
+  "1cku168": {
+    "id": "1cku168",
+    "type": "news",
+    "headline": "Shah Rukh Khan and Deepika Padukone reunite for King's first song Tu Mil Jaaye",
+    "dek": "The makers of King celebrated Shah Rukh Khan's birthday by surprising fans with the romantic and action-packed track Tu Mil Jaaye, featuring vocals by Arijit Singh and Ed Sheeran.",
+    "body": [
+      {
+        "h": "Birthday Surprise for Fans",
+        "p": [
+          "To mark Shah Rukh Khan's 61st birthday, the creative team behind the upcoming film King delivered a major surprise to enthusiasts. Rather than the widely anticipated teaser or trailer, producers opted to launch the project's very first musical track at midnight.",
+          "This follows a tradition established a year prior, when the superstar's initial look from the movie was revealed on his 60th birthday. The midnight drop instantly generated enormous traction across digital platforms."
+        ]
+      },
+      {
+        "h": "A Grand Musical Collaboration",
+        "p": [
+          "The newly released track, titled Tu Mil Jaaye, boasts an unprecedented global music collaboration that brings together diverse sonic styles. It features the celebrated vocals of Arijit Singh alongside the distinct rap style of international artist Ed Sheeran.",
+          "Musical composition for the track was handled by the duo Sachin-Jigar. In addition to Arijit Singh, the song includes vocal contributions from Madhubanti Bagchi, creating a rich auditory experience to accompany the visuals."
+        ]
+      },
+      {
+        "h": "Romance Meets Underworld Action",
+        "p": [
+          "The music video opens with a notable opening line delivered by the lead actor: Main qaatil nahi, aashiq hoon, aur nishana meri mashooka, aur woh aashiq hi kya jo dil cheer na de. It begins as a lighthearted romantic number set against scenic backdrops.",
+          "However, the tone shifts dramatically as the visuals transition from picturesque romance to intense violence. The narrative hints at an underworld setting and smuggling operations connected to the protagonist, featuring brutal fight sequences and raging flames."
+        ]
+      },
+      {
+        "h": "Dynamic Character Transformations",
+        "p": [
+          "Throughout the music video, Shah Rukh Khan sports contrasting visual styles, ranging from short black hair during romantic interludes to a rugged salt-and-pepper look during high-octane brawl scenes. He is also seen displaying a chiselled physique.",
+          "Deepika Padukone stars alongside him, looking stunning as the pair share intimate romantic moments in various picturesque locations before the atmosphere turns dark and bloody."
+        ]
+      },
+      {
+        "h": "Powerful Closing Dialogue",
+        "p": [
+          "The track concludes on a deeply intense note with the protagonist delivering another hard-hitting line: Par is baar dil mein aag lagi hai. Ab duniya jalaye bina manega nahi.",
+          "This final statement reinforces the dangerous edge of the character and sets a dramatic tone for the theatrical release awaiting audiences later in the year."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "King is directed by Siddharth Anand and features an expansive ensemble cast. Alongside Shah Rukh Khan and Deepika Padukone, the film stars Suhana Khan, Abhishek Bachchan, Rani Mukerji, Anil Kapoor, Jackie Shroff, Jaideep Ahlawat, Arshad Warsi, Raghav Juyal, and Abhay Verma.",
+          "The project is backed by production banners Red Chillies Entertainment and Marflix Pictures, bringing together a powerhouse team for the action thriller."
+        ]
+      },
+      {
+        "h": "Release Details and Legacy",
+        "p": [
+          "The action thriller is officially scheduled to hit movie theatres on December 24, 2026. Excitement surrounding the project has already manifested in unique ways, such as a recent King-themed Sea Link display that prompted a public reaction from the lead actor.",
+          "By pairing a massive star cast with a high-profile directorial team and an international musical fusion, the film continues to build substantial anticipation ahead of its winter premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of King released the film's first song, Tu Mil Jaaye, at midnight to celebrate Shah Rukh Khan's 61st birthday. Composed by Sachin-Jigar with vocals by Arijit Singh and rap by Ed Sheeran, the track blends romance between Shah Rukh and Deepika Padukone with gritty action sequences ahead of the movie's December 24, 2026 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan celebrated his 61st birthday.",
+      "The song Tu Mil Jaaye was released at midnight.",
+      "Arijit Singh and Ed Sheeran are featured on the track.",
+      "Sachin-Jigar composed the song.",
+      "King is directed by Siddharth Anand.",
+      "The film is scheduled for release on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Arijit Singh",
+        "Ed Sheeran",
+        "Sachin-Jigar",
+        "Madhubanti Bagchi",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Abhay Verma"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "King movie song Tu Mil Jaaye",
+      "Shah Rukh Khan Deepika Padukone King",
+      "Tu Mil Jaaye Arijit Singh Ed Sheeran",
+      "Siddharth Anand King release date"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shahrukhkhan11793560771.jpg",
+        "caption": "Shah Rukh Khan and Deepika Padukone reunite for King's first song Tu Mil Jaaye",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-02T00:49:50+05:30"
+  },
+  "15bdw9b": {
+    "id": "15bdw9b",
+    "type": "news",
+    "headline": "Actor Yash Shares His Perspective on Rama and Ravana in Ramayana: Part One",
+    "dek": "Kannada star Yash discusses portraying the complex antagonist Ravana, the universal themes of the Hindu epic, and the massive global ambitions driving director Nitesh Tiwari's two-part cinematic adaptation.",
+    "body": [
+      {
+        "h": "Exploring the Complexities of Ravana",
+        "p": [
+          "Actor Yash steps into the role of the demon king Ravana in director Nitesh Tiwari's ambitious two-part adaptation of the ancient Hindu epic. Serving also as a co-producer through his banner Monster Mind Creations, Yash has emphasized that the narrative's power stems from its multitude of viewpoints rather than a single perspective.",
+          "Highlighting the diverse regional interpretations across India, the actor noted that Ravana is traditionally much more than a simple villain in the text. He is depicted as a learned scholar, a skilled musician, and an accomplished warrior whose ultimate downfall stems from the domino effect of his own flawed choices and inability to govern his immense power gracefully."
+        ]
+      },
+      {
+        "h": "Finding Humanity in Both Hero and Antagonist",
+        "p": [
+          "According to Yash, the core strength of the story lies in how relatable both main figures remain to modern viewers. While Lord Rama serves as an example of grace under pressure when navigating severe loss and impossible choices, the antagonist serves as a stark reminder of how unchecked ambition can corrupt talent.",
+          "During his promotional appearance at CinemaCon in Las Vegas earlier in the year, Yash explained that his primary goal was to strip away the strictly larger-than-life mythical reading of Ravana. By internalizing the essence of the character, he aimed to present a figure familiar and understandable to global and Western audiences alike."
+        ]
+      },
+      {
+        "h": "Unprecedented Global Ambitions",
+        "p": [
+          "The creative team behind Ramayana: Part One has positioned the project to rival the biggest cinematic releases worldwide, taking inspiration from the international rise of Korean cinema. Sony Pictures Entertainment has signed on to handle international distribution outside India, marking an unprecedented milestone for an Indian production at this magnitude.",
+          "The international rollout plans to target approximately 50,000 screens across overseas markets, including Australia, New Zealand, Southeast Asia, the Middle East, Germany, Europe, and Latin America. This expansive strategy matches the massive combined budget of four thousand crore rupees, or roughly five hundred million dollars, covering both halves of the epic, post-production, and promotional expenses."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, the multi-lingual adaptation boasts a star-studded cast featuring Ranbir Kapoor as Lord Rama and Sai Pallavi as Sita. The ensemble also includes Sunny Deol as Hanuman, Ravi Dubey as Lakshman, Rakul Preet Singh as Surpanakha, alongside veteran actors like Arun Govil and Lara Dutta in key supporting roles.",
+          "To further elevate its global appeal, the musical score is composed by the renowned pairing of A.R. Rahman and Hans Zimmer. This collaboration underscores the production's explicit aim to resonate deeply with audiences both within India and across international borders."
+        ]
+      },
+      {
+        "h": "The Road to the Worldwide Premiere",
+        "p": [
+          "Ramayana: Part One is scheduled for its official worldwide release on November 5, 2026, across premium formats including IMAX. Domestic audiences in India will also be able to experience paid previews starting on November 4, 2026, ahead of the global rollout.",
+          "Following the launch of the first film, the second installment of the epic is already mapped out for a theatrical release during the Diwali festival season in 2027, continuing the detailed narrative arc across the two distinct cinematic chapters."
+        ]
+      },
+      {
+        "h": "A Story Belonging to Everyone",
+        "p": [
+          "During promotional events such as the Bengaluru trailer launch, Yash actively pushed back against regional divisions and online fandom wars surrounding major Indian films. He reminded viewers that the story of Rama and the underlying cultural heritage belong to every street and region of the country equally.",
+          "Framing the project as a proud moment for Indian storytelling on the global stage, the actor stressed the importance of standing together to present local culture on the world platform through an authentic and high-scale cinematic lens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Yash discusses his role as Ravana in the upcoming two-part film Ramayana: Part One, directed by Nitesh Tiwari and scheduled for a worldwide release on November 5, 2026. The project features an ensemble cast including Ranbir Kapoor and Sai Pallavi, with an international distribution deal via Sony Pictures targeting fifty thousand screens and a massive combined budget of four thousand crore rupees.",
+          "Yash emphasizes the human and relatable aspects of both Rama and Ravana, framing the ambitious cinematic venture as India's definitive moment to showcase its cultural storytelling on the global stage."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One releases worldwide on November 5, 2026",
+      "Paid previews in India are planned for November 4, 2026",
+      "Part Two is planned for release during Diwali 2027",
+      "The combined budget for the two-part epic is ₹4,000 crore or around $500 million",
+      "Sony Pictures Entertainment is handling international distribution across 50,000 screens",
+      "The cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Sunny Deol as Hanuman, Ravi Dubey as Lakshman, and Rakul Preet Singh as Surpanakha",
+      "Music is composed by A.R. Rahman and Hans Zimmer",
+      "Director Nitesh Tiwari is helming the two-part adaptation"
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Sheeba Chaddha",
+        "Adinath Kothare",
+        "A.R. Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One film",
+      "Yash Ravana Ramayana",
+      "Ranbir Kapoor Rama Ramayana",
+      "Nitesh Tiwari Ramayana movie",
+      "Ramayana release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-84.webp",
+        "caption": "Actor Yash Shares His Perspective on Rama and Ravana in Ramayana: Part One",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 07:26:38 +0000"
   }
 };
