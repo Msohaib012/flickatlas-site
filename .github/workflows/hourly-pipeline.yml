@@ -132,12 +132,17 @@ jobs:
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          # Batch size 2 (the script's designed pace): with 4/run the
-          # 40/day cap was exhausted by ~09:00 UTC and the site went
-          # stale for 15h. At 2/run the same 40 articles spread across
-          # the whole day. DAILY_CAP itself is unchanged (owner call).
-          BATCH_SIZE: '2'
-          DAILY_CAP: '40'
+          # Pace (owner order 2026-11-02): 4 posts per run, split
+          # 2 Indian + 2 World by source scope (the split ordering
+          # lives in scripts/gemini_batch.py). DAILY_CAP 96 = 4 x 24,
+          # so the faster pace holds all day instead of exhausting a
+          # smaller cap by mid-morning (the failure mode of the old
+          # 4/run + 40-cap experiment). MAX_GEMINI_CALLS 10 = 1 rank
+          # call + headroom for ~9 draft attempts, so quality-gate
+          # rejections cannot starve the 4 accepts.
+          BATCH_SIZE: '4'
+          DAILY_CAP: '96'
+          MAX_GEMINI_CALLS: '10'
           RANK_COUNT: '100'
         run: python3 scripts/gemini_batch.py
 

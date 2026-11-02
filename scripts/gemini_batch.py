@@ -4,8 +4,8 @@
 Reads the fetch queue (out/queue.json — one representative item per story,
 already clustered by scripts/fetch.py), and for each NEW story:
   0. RANK stage (two-stage pipeline): the queue holds ~260 stories but
-     each run writes only 2 posts, so queue order alone means the tail is
-     never even read. First, ONE Gemini call ranks the newest RANK_COUNT
+     each run writes only a few posts (BATCH_SIZE — 4 in the workflow),
+     so queue order alone means the tail is never even read. First, ONE Gemini call ranks the newest RANK_COUNT
      unprocessed headlines by newsworthiness (title/source/category/
      published only — no article fetch) AND groups stories about the
      SAME event (semantic dedup: same story different wording, different
@@ -24,13 +24,17 @@ already clustered by scripts/fetch.py), and for each NEW story:
      pool): the newest 2 pending items of every category missing from
      the newest RANK_COUNT, so a slow category's stories are never
      invisible to the rank call. And the write loop enforces a
-     NEEDS-BASED DAILY ALLOCATION (CATEGORY_QUOTAS, sums to DAILY_CAP,
-     owner principle 2026-10-28): every category gets a guaranteed
+     NEEDS-BASED DAILY ALLOCATION (CATEGORY_QUOTAS, owner principle
+     2026-10-28): every category gets a guaranteed
      share by need — more where the need is higher, less where lower —
      so all categories move together and none is starved while another
      feasts. A category whose quota is full is deferred while categories
      with room remain; leftover room goes to any category with fresh
      items, so the day's budget is never wasted.
+     The attempt order is ALSO industry-split (owner order 2026-11-02):
+     4 posts per run alternating Indian / World sources — 2 + 2 —
+     classified by each source's registry scopes (see
+     split_attempt_order() below).
   1. Computes a FACT fingerprint (film/person + day + rupee amounts + date)
      from the title/URL — NOT the wording — so two differently-worded
      articles about the same film+day+amount share one fingerprint.
@@ -58,13 +62,15 @@ NOT group/skip — the item goes to Gemini.
 Env:
   GEMINI_API_KEY_1..6  (at least one required)
   TMDB_API_KEY         (optional; resolves film name -> TMDB id)
-  BATCH_SIZE           (default 2; how many NEW stories per run — kept
-                        small on purpose: Google treats mass-published thin
-                        AI content as scaled-content spam, so the pipeline
-                        publishes FEW, LONG, fact-rich articles, not 240/day)
-  DAILY_CAP            (default 20; max articles published per UTC day)
-  MAX_GEMINI_CALLS     (default 6; bounds quota use per run — the RANK
-                        call counts as 1 of these)
+  BATCH_SIZE           (default 2, workflow sets 4; how many NEW stories
+                        per run — kept small on purpose: Google treats
+                        mass-published thin AI content as scaled-content
+                        spam, so the pipeline publishes FEW, LONG,
+                        fact-rich articles, not hundreds a day)
+  DAILY_CAP            (default 20, workflow sets 96; max articles
+                        published per UTC day)
+  MAX_GEMINI_CALLS     (default 6, workflow sets 10; bounds quota use
+                        per run — the RANK call counts as 1 of these)
   RANK_COUNT           (default 60; how many newest unprocessed headlines
                         the RANK stage considers each run)
 Quality gate (Google safety): a draft is published ONLY if it has
@@ -108,7 +114,10 @@ CATEGORIES = ["movies", "tv_dramas", "episodes", "box_office",
 # Needs-based daily allocation (owner principle 2026-10-28): all
 # categories move TOGETHER — none starved, none feasting; more where
 # the need is higher, less where it is lower, by need. The quotas sum
-# to DAILY_CAP (40 in the workflow); the total cap still binds, and
+# to 40 — they are the balanced-core daily ORDERING targets, not the
+# day's ceiling. DAILY_CAP is the hard ceiling (96 in the workflow
+# since the 2026-11-02 pace order: 4 posts/hour x 24, so the faster
+# pace can run all day instead of dying at the cap mid-morning), and
 # leftover room flows to any category with fresh items (see main()).
 # Why each number (from the 2026-10-26/27 published splits + supply):
 #   movies 6, box_office 6 — the high-volume core; box_office was
@@ -140,6 +149,96 @@ CATEGORY_QUOTAS = {
     "music_ost": 2,
     "viral": 2,
 }
+
+# ------------------------------------------------------------- industry split
+# Owner order 2026-11-02: news pace is 4 posts per hourly run, split
+# 2 INDIAN + 2 WORLD. Queue items carry no industry field, so each item
+# is bucketed by its SOURCE: scripts/registry.json gives every source's
+# scopes, and the scope families map to the site's taxonomy —
+#   "indian"   any scope mentions India / Bollywood
+#              ("Bollywood / India", "Celebrity Daily — India",
+#               "Viral — India", ...);
+#   "pakistan" any scope mentions Pakistan / Lollywood / YouTube Dramas
+#              — the site's separate third taxonomy, NEITHER Indian nor
+#              World, so it never counts toward either half of the split;
+#   "world"    every other registered source (Hollywood/US, UK, Korea,
+#              global celebrity/viral, music, tech);
+#   "other"    a source name missing from the registry (fills leftover
+#              attempts only, never blocks a run).
+# split_attempt_order() then REORDERS the (rank + round-robin +
+# quota-first) attempt order so attempts alternate Indian, World,
+# Indian, World... — in a normal run the 4 published posts are 2 + 2.
+REGISTRY_PATH = os.path.join(ROOT, "scripts", "registry.json")
+
+
+def load_source_buckets(path=None):
+    """Registry source NAME -> industry bucket (see block comment above).
+
+    Returns {} when the registry is unreadable — every item then falls
+    back to "other" and the split simply does not apply (a run must
+    never fail over a missing registry)."""
+    path = path or REGISTRY_PATH
+    try:
+        with open(path, encoding="utf-8") as f:
+            rows = json.load(f)
+    except (OSError, ValueError):
+        return {}
+    if isinstance(rows, dict):
+        rows = list(rows.values())
+    buckets = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        name = (row.get("name") or "").strip()
+        if not name:
+            continue
+        scopes = " ".join(str(s).lower() for s in row.get("scopes") or [])
+        if "india" in scopes or "bollywood" in scopes:
+            buckets[name] = "indian"
+        elif ("pakistan" in scopes or "lollywood" in scopes
+              or "youtube dramas" in scopes):
+            buckets[name] = "pakistan"
+        else:
+            buckets[name] = "world"
+    return buckets
+
+
+def split_attempt_order(items, bucket_of, head=None):
+    """Reorder `items` for the 2 Indian + 2 World split (owner order
+    2026-11-02). Pure function — reordering ONLY; the write loop, its
+    batch accounting and the quality gate are untouched.
+
+    Each bucket keeps its incoming relative order (so the rank +
+    category round-robin + quota-first ordering still applies INSIDE a
+    bucket). Indian and World items are interleaved alternately,
+    Indian first. The interleaved HEAD (default: the first 8 attempts —
+    twice the batch of 4, so each side gets up to 4 attempts to land
+    its 2 posts past the quality gate) is followed by the rest bucket
+    (pakistan + other), then any remaining Indian/World items, still
+    interleaved. Net effect: if one side runs dry or keeps failing,
+    the other side — and then the rest — fill the batch; the split
+    never makes the pipeline publish FEWER posts while material
+    exists. It guarantees attempt ORDER, not outcomes: the batch
+    closes on ACCEPTED drafts, so quality-gate failures concentrated
+    on one side's early attempts still skew that run's published
+    split (e.g. 3 + 1) — the side catches up on later runs via the
+    rank stage, it is not force-balanced inside this run."""
+    if head is None:
+        head = 8
+    indian = [it for it in items if bucket_of(it) == "indian"]
+    world = [it for it in items if bucket_of(it) == "world"]
+    rest = [it for it in items if bucket_of(it) not in ("indian", "world")]
+    interleaved = []
+    i = w = 0
+    while i < len(indian) or w < len(world):
+        if i < len(indian):
+            interleaved.append(indian[i])
+            i += 1
+        if w < len(world):
+            interleaved.append(world[w])
+            w += 1
+    return interleaved[:head] + rest + interleaved[head:]
+
 
 # Display name (scripts/fetch.py classify) -> pipeline slug. The queue's
 # script category is keyword-based and often wrong; it is used ONLY to
@@ -1026,9 +1125,9 @@ def main():
     # category gets a guaranteed share of the day's DAILY_CAP, by need.
     # A category whose quota is full is deferred while categories with
     # room remain; leftover room goes to any category with fresh items.
-    # The quotas sum to 40 (= the workflow's DAILY_CAP); if DAILY_CAP
-    # ever changes, the total cap still binds and the overflow below
-    # fills the rest, so no scaling logic is needed here.
+    # The quotas sum to 40 — the balanced-core daily ORDERING targets.
+    # DAILY_CAP (96 in the workflow) is the separate hard ceiling; the
+    # overflow below fills the rest, so no scaling logic is needed here.
     published_by_cat = published_today_by_category(processed, today)
     quota_left = {c: max(0, CATEGORY_QUOTAS.get(c, 0)
                          - published_by_cat.get(c, 0))
@@ -1037,7 +1136,8 @@ def main():
           f"remaining {quota_left}")
 
     # ---- RANK stage (two-stage pipeline) --------------------------------
-    # The queue holds ~260 stories but each run writes only 2 posts. In
+    # The queue holds ~260 stories but each run writes only BATCH_SIZE
+    # posts. In
     # queue order alone, the tail is never even read. So: rank the newest
     # RANK_COUNT unprocessed headlines with ONE Gemini call (headlines
     # only, no article fetch), then process in ranked order. The write
@@ -1118,6 +1218,27 @@ def main():
     attempt_order = preferred + overflow
     print(f"quota: {len(preferred)} under-quota first, "
           f"{len(overflow)} leftover")
+
+    # Industry split (owner order 2026-11-02): 4 posts per run, split
+    # 2 Indian + 2 World, by source scope (see load_source_buckets /
+    # split_attempt_order above). Reorders attempts ONLY — the write
+    # loop below is unchanged. head = 2x the batch, so each side gets
+    # up to twice its target attempts past the quality gate before
+    # the rest bucket (pakistan/other) is reached.
+    source_buckets = load_source_buckets()
+
+    def _bucket_of(item):
+        return source_buckets.get((item.get("source") or "").strip(),
+                                  "other")
+    attempt_order = split_attempt_order(attempt_order, _bucket_of,
+                                        head=2 * batch_size)
+    _split_counts = {"indian": 0, "world": 0, "rest": 0}
+    for _it in attempt_order:
+        _b = _bucket_of(_it)
+        _split_counts[_b if _b in _split_counts else "rest"] += 1
+    print(f"split: indian={_split_counts['indian']} "
+          f"world={_split_counts['world']} rest={_split_counts['rest']} "
+          f"queued — attempts alternate indian/world (2 + 2 target)")
 
     tmdb_key = os.environ.get("TMDB_API_KEY", "").strip()
     # Published titles (for box-office tmdb_id resolution): local,

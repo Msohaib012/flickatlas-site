@@ -47,8 +47,9 @@ jobs:
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
           GEMINI_API_KEY_6: ${{ secrets.GEMINI_API_KEY_6 }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          BATCH_SIZE: '2'
-          DAILY_CAP: '40'
+          BATCH_SIZE: '4'
+          DAILY_CAP: '96'
+          MAX_GEMINI_CALLS: '10'
           RANK_COUNT: '100'
         run: python3 scripts/gemini_batch.py
       - name: Apply batch to site files
