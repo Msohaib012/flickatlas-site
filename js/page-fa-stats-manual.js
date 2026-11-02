@@ -112,6 +112,24 @@
     }
     return tot;
   }
+  function countPv(day, set) {
+    /* pv leaves are view ids (deviceId + "_" + timestamp + counter),
+       not bare device ids — strip the last segment to get the device. */
+    var bucket = DATA.pv ? DATA.pv[day] : null;
+    var c = 0;
+    if (bucket && typeof bucket === "object") {
+      for (var k in bucket) {
+        var sub = bucket[k];
+        if (!sub || typeof sub !== "object") continue;
+        for (var vid in sub) {
+          var cut = vid.lastIndexOf("_");
+          var dev = cut > 0 ? vid.slice(0, cut) : vid;
+          if (set[dev]) c++;
+        }
+      }
+    }
+    return c;
+  }
   function addInto(dst, srcObj) { for (var k in srcObj) dst[k] = (dst[k] || 0) + srcObj[k]; }
   function sumVals(obj) { var s = 0; for (var k in obj) s += obj[k]; return s; }
 
@@ -125,7 +143,7 @@
     keys.forEach(function (day) {
       var set = allowedFor(day);
       for (var id in set) union[id] = 1;
-      var vDay = sumVals(countWhere(DATA.pv, day, set));
+      var vDay = countPv(day, set);
       viewsTotal += vDay;
       perDay.push({ day: day, visitors: Object.keys(set).length, views: vDay });
       addInto(devT, countWhere(DATA.dev, day, allowedFor(day, "dev")));
