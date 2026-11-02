@@ -231,7 +231,7 @@ window.FA_DAYWISE = {
       "date": "2026-10-30",
       "day": "Day 8",
       "collection": 307132,
-      "shows": 4984,
+      "shows": 4975,
       "occupancy": 12.3,
       "tickets": 122488,
       "overseas": 79239
@@ -242,7 +242,8 @@ window.FA_DAYWISE = {
       "collection": 442367,
       "shows": 4953,
       "occupancy": 17.1,
-      "tickets": 168154
+      "tickets": 168154,
+      "overseas": 79239
     },
     {
       "date": "2026-11-01",
@@ -686,28 +687,32 @@ window.FA_DAYWISE = {
       "day": "Day 1",
       "collection": 52826,
       "shows": 2136,
-      "occupancy": 7.0
+      "occupancy": 7.0,
+      "overseas": 8452
     },
     {
       "date": "2026-10-24",
       "day": "Day 2",
       "collection": 73957,
       "shows": 1923,
-      "occupancy": 10.0
+      "occupancy": 10.0,
+      "overseas": 5283
     },
     {
       "date": "2026-10-25",
       "day": "Day 3",
       "collection": 73957,
       "shows": 1661,
-      "occupancy": 11.0
+      "occupancy": 11.0,
+      "overseas": 4226
     },
     {
       "date": "2026-10-26",
       "day": "Day 4",
       "collection": 31696,
       "shows": 1233,
-      "occupancy": 9.0
+      "occupancy": 9.0,
+      "overseas": 2113
     },
     {
       "date": "2026-10-27",

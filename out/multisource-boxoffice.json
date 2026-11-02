@@ -4522,10 +4522,9 @@
             "sources": {
               "filmynewsnetwork": 4796,
               "moviemint": 5116,
-              "overseas-ai": 5013,
               "sacnilk": 5013
             },
-            "value": 4984
+            "value": 4975
           },
           "tickets": {
             "sources": {
@@ -4561,6 +4560,17 @@
               "sacnilk": 18.0
             },
             "value": 17.1
+          },
+          "overseas": {
+            "crore": 0.75,
+            "currency": "USD",
+            "date": "2026-10-31",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.75
+            },
+            "value": 79239
           },
           "shows": {
             "sources": {
@@ -10078,7 +10088,6 @@
             "sources": {
               "filmynewsnetwork": 1238,
               "moviemint": 1359,
-              "overseas-ai": 1300,
               "overseas-backfill": 1300,
               "sacnilk": 1300
             },
@@ -11378,6 +11387,17 @@
             },
             "value": 7.0
           },
+          "overseas": {
+            "crore": 0.08,
+            "currency": "USD",
+            "date": "2026-10-23",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.08
+            },
+            "value": 8452
+          },
           "shows": {
             "sources": {
               "overseas-backfill": 2136,
@@ -11459,6 +11479,17 @@
             },
             "value": 10.0
           },
+          "overseas": {
+            "crore": 0.05,
+            "currency": "USD",
+            "date": "2026-10-24",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.05
+            },
+            "value": 5283
+          },
           "shows": {
             "sources": {
               "overseas-backfill": 1923,
@@ -11489,6 +11520,17 @@
             },
             "value": 11.0
           },
+          "overseas": {
+            "crore": 0.04,
+            "currency": "USD",
+            "date": "2026-10-25",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.04
+            },
+            "value": 4226
+          },
           "shows": {
             "sources": {
               "overseas-backfill": 1661,
@@ -11518,6 +11560,17 @@
               "sacnilk": 9.0
             },
             "value": 9.0
+          },
+          "overseas": {
+            "crore": 0.02,
+            "currency": "USD",
+            "date": "2026-10-26",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-ai": 0.02
+            },
+            "value": 2113
           },
           "shows": {
             "sources": {

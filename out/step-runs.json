@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T11:51:40Z",
-    "run_id": "41303671699",
-    "status": "success",
-    "checked": {
-     "candidates": 214,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss Bangla 3 Elimination: Who Got EVICTED From Dada Darbar? Secret Room TWIST Is...",
-      "Final Table K-drama Episode 4 Release Time Today: Meet The Full Cast Of The Korean Drama? What To Expect?",
-      "Bigg Boss 20 Weekend Ka Vaar Episode 57 Dailymotion: Salman Grills Scout, Questions Qazi. Who Got EVICTED?",
-      "In 2012, Patrick Stewart bought a Brooklyn converted home; it was sold off to the new owner for USD 3.89 million",
-      "November 2026 K-dramas: Shin Mina, Lee Jong Suk, Park Min Young and Son Suk Ku bring romance, thrillers and action to the star-studded month",
-      "Ranbir Kapoor says India had flying cars 5000 years ago as he compares Pushpaka Vimana in Ramayana to Elon Musk and Tesla's new invention",
-      "To a lifetime of long layovers: Hrithik Roshan wishes Saba Azad on birthday",
-      "Netflix’s 6-Episode Thriller Miniseries Is the Perfect Harlan Coben Replacement",
-      "Guy Ritchie’s $500M Detective Blockbuster Officially Dominates Apple TV",
-      "'Dune's’ Best Line Is Still the Greatest Quote in Franchise History",
-      "Prime Video’s Twisted Stephen King Adaptation Is Officially a Streaming Nightmare",
-      "Mark Wahlberg's Intense 121-Minute Real-Life War Thriller Officially Sets New Free Streaming Home",
-      "The Original Texas Chain Saw Massacre Officially Returns In January 2027",
-      "Why Sylvester Stallone's Dwight Uses A Cane In Tulsa King Season 4",
-      "The Wheel Of Time Is Finally Giving Fans Official Closure In 2027",
-      "Patrick Stewart Officially Exists In Star Trek Canon & A Trek Expert Proved It",
-      "New Batman: Arkham Release Officially Confirmed For 2027",
-      "Khula Ka Letter Bhi Aa Jayega #izzat #shorts",
-      "Lagan Lagi Episode 7 | Best Moment | ARY Digital",
-      "Tum bas Dekhti reh jaogi 😱 | Laila VS Esra | Tamasha S5"
-     ],
-     "updated": [],
-     "count": 207,
-     "detail": "208 stories, 0 duplicates removed, 6 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T12:51:41Z",
     "run_id": "41308391528",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "287 stories, 2 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T12:51:56Z",
-    "run_id": "41308391528",
+    "run_at": "2026-11-02T10:51:40Z",
+    "run_id": "41432003550",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 270,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Honey Singh Mourns Nephew Vidit Auluck After Fatal Jalandhar Car Crash",
-      "Eleven New Korean Dramas Scheduled for OTT Platforms in November 2026"
+      "Scam 2010 first look out: Hansal Mehta-helmed series to premiere in January 2027 on Sony LIV",
+      "Student Of The Year After Dark: 5 Reasons We Are Excited To See Birthday Girl Shanaya Kapoor In JioHostar Show",
+      "Scene Telugu Pre-Release Event Time: When And Where To Watch Suriya's Movie Event Live Online",
+      "Bigg Boss 20: Did Ali Merchant Take A Dig At Vanshaj Singh For Mocking Qazi? ‘Gamer Baad Mein Banna, Pehle...'",
+      "Rise And Fall 2 Written Update Nov 2 Ep 38: Meet The First Finalist Of Season 2; TWIST Ahead Of Grand Finale",
+      "Liked The Invite On ZEE5? 4 Seth Rogen Movies That Showcase His Signature Comedy Style",
+      "Rudraksh Singh Chauhan Recalls Spine-Chilling Experience On Naagin 7 Set: Still Gives Me Goosebumps- EXCLUSIVE",
+      "Jailer 2 Box Office: Knocks Down Shah Rukh Khan’s Jawan & Other Biggies In BMS Sales Till 3rd Weekend!",
+      "The Window War: How Streaming Split Indian Cinema and Why Theatres Survived",
+      "Ranbir to back long-format series; skips starring in projects",
+      "'Hanuman Ansh' makers issue warning over film's rights after its Rs 342 crore box-office run",
+      "Atlee calls Shah Rukh Khan his mentor and biggest inspiration on 61st birthday",
+      "Sanjay's wife Anuradha defends daughter showing middle finger: 'In grief and anguish'",
+      "Ajith's 'Daredevil' begins with pooja; Anirudh, Sreeleela attend",
+      "Chinmayi takes a dig at sexual assault accused rapper Vedan being invited to perform at high-profile wedding; compares it to Karthik on Tamil Idol",
+      "Scam 2010 teaser out: Siddharth Bodke plays businessman Subrata Roy as Hansal Mehta returns with new chapter of the franchise",
+      "TV actor Anuj Thakur dies at 33 after a seizure; friend Rupesh Sonar says he had planned a family vacation",
+      "AR Rahman calls composing Ramayana music an honour, jokes about not everybody liking his work",
+      "Tourist Family director Abishan Jeevinth blessed with a baby girl, shares first picture with newborn daughter",
+      "Vishal Mishra buys four apartments spread across 4,058 sq ft in Mumbai’s Andheri for  ₹22.25 crore"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 259,
+     "detail": "261 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,27 +1406,32 @@
      "detail": "+2 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T10:52:28Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
+      "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
+      "Netflix UK Implements Staff Reductions With Key Executive Departures",
+      "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T12:52:18Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": {
-     "candidates": 183,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 178, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,28 +1845,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T10:52:28Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 182, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T12:59:56Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1hoo3sq"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2306,27 +2289,28 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T11:00:16Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "g9harb"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T12:59:54Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": {
-     "candidates": 335,
-     "detail": "334 collected staging rows from readers; 120 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 9,
-     "detail": "+0 new rows, 9 updated rows, 325 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2740,19 +2724,27 @@
      "detail": "+3 new rows, 97 updated rows, 317 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:00:14Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 419,
+     "detail": "417 collected staging rows from readers; 135 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+0 new rows, 9 updated rows, 408 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3018,30 +3010,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T12:59:55Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": {
-     "candidates": 340,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Honey Singh Mourns Nephew Vidit Auluck After Fatal Jalandhar Car Crash",
-      "Eleven New Korean Dramas Scheduled for OTT Platforms in November 2026"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 340 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3515,19 +3496,32 @@
      "detail": "api-news.json 382 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:00:16Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 386,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
+      "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
+      "Netflix UK Implements Staff Reductions With Key Executive Departures",
+      "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 386 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3801,19 +3795,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4135,29 +4129,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T11:51:54Z",
-    "run_id": "41303671699",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 207 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 1/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 2/4, ott_streaming 0/4, trailers 1/3, awards 1/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Hrithik Roshan Marks Girlfriend Saba Azad's Birthday with Romantic Social Media Post",
-      "Bigg Boss 20 Weekend Ka Vaar Episode 57: Salman Khan Grills Scout, Questions Qazi Touqeer, and Asif Khan Faces Eviction"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4605,19 +4589,31 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T10:52:28Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 259 still unprocessed; today by category: movies 6/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 2/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
+      "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
+      "Netflix UK Implements Staff Reductions With Key Executive Departures",
+      "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4881,24 +4877,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T10:55:44Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 31,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [
+      "Nayyi Navelli (1654581)",
+      "Udta Teer (1375156)",
+      "Pehla Pyaar Doosri Baar (1772549)"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 206,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5223,24 +5225,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 17,
+     "count": 446,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5570,19 +5572,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5832,19 +5839,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6079,19 +6086,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6333,19 +6340,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6586,19 +6593,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6828,19 +6835,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T11:52:03Z",
-    "run_id": "41303671699",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7093,6 +7100,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7218,6 +7235,23 @@
     "checked": {
      "candidates": 308,
      "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 95"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-02T10:53:21Z",
+    "run_id": "41432003550",
+    "status": "success",
+    "checked": {
+     "candidates": 311,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 143"
     },
     "changed": {
      "added": [],
@@ -7432,8 +7466,30 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   }
+  ],
+  "home_boxoffice_worldwide": [
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T09:49:51Z"
+ "updated_at": "2026-11-02T11:00:23Z"
 }

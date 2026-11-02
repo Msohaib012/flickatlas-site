@@ -34650,5 +34650,451 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 08:22:30 +0000"
+  },
+  "s610ff": {
+    "id": "s610ff",
+    "type": "news",
+    "headline": "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
+    "dek": "The upcoming festival in Morocco has announced its comprehensive 2026 lineup featuring 76 films from 39 countries, with Marion Cotillard leading the jury and Julianne Moore starring in the opening night feature.",
+    "body": [
+      {
+        "h": "Opening Night Selection",
+        "p": [
+          "The 23rd edition of the Marrakech International Film Festival has announced its official opening film. Jesse Eisenberg's comedy feature titled The Debut will kick off the festivities in Morocco later this month.",
+          "The picture features Julianne Moore in the lead role as a quiet housewife who uncovers an unexpected zeal for amateur theater. It sets the tone for a diverse roster of international cinema featured at the event."
+        ]
+      },
+      {
+        "h": "Festival Scale and Sections",
+        "p": [
+          "The upcoming gathering showcases a total of 76 films hailing from 39 different countries. These cinematic works are distributed across multiple distinct sidebars and screening categories.",
+          "The lineup incorporates Official Competition, Gala Screenings, Horizons, the 11th Continent, a Moroccan Panorama, Young Audiences and Families, and dedicated Tributes."
+        ]
+      },
+      {
+        "h": "Official Competition Highlights",
+        "p": [
+          "Fourteen first and second feature films are slated to compete for the festival's prestigious Etoile d'Or award. Famed actress Marion Cotillard is set to preside over the jury evaluating these new cinematic voices.",
+          "Contenders include Marie-Clementine Dusabejambo's Ben'iman, Abdallah Al-Khatib's Chronicles from the Siege, and Auguste Bernard Kouemo Yanghu's House of the Wind, alongside several world premieres such as Alkebulan and Waves of Silence."
+        ]
+      },
+      {
+        "h": "Gala Screenings and Special Premieres",
+        "p": [
+          "The Gala Screenings section opens with The Debut and features notable world premieres. Among these are Fellipe Barbosa's Leila et la nuit and Omar Hilal's His Weakest Creatures.",
+          "Additional highlights in this segment include Noah Segan's The Only Living Pickpocket in New York starring John Turturro, Laila Marrakchi's Oscar submission Strawberries, James Gray's Paper Tiger, and Luca Guadagnino's Artificial."
+        ]
+      },
+      {
+        "h": "Global Independent Cinema and Horizons",
+        "p": [
+          "The Horizons program highlights international independent cinema, featuring acclaimed works from the festival circuit. Titles include Cristian Mungiu's Palme d'Or winner Fjord and various regional stories.",
+          "Arab psychological thrillers and dramas like Mohammed Hammad's Safe Exit, Sara Ishaq's The Station, and Ahmed Hassouna's Citizen Osama also feature prominently in the roster."
+        ]
+      },
+      {
+        "h": "Moroccan Cinema and Family Screenings",
+        "p": [
+          "A strong domestic presence is established through the Moroccan Panorama and other sections. A combined total of eleven Moroccan-produced films are integrated into the festival program.",
+          "The Young Audiences and Families section offers eleven child and teen-friendly screenings, featuring animated works alongside Mohcine Besri's world premiere of All But My Mother."
+        ]
+      },
+      {
+        "h": "Dates and Schedule",
+        "p": [
+          "The cultural event is scheduled to take place in Morocco from November 20 to November 28. Audiences will experience a wide variety of global fiction and documentary features over the course of the week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 23rd Marrakech International Film Festival has unveiled its 2026 lineup, featuring Jesse Eisenberg's The Debut as the opening film. The event runs from November 20 to 28 and showcases 76 films from 39 countries under the jury presidency of Marion Cotillard."
+        ]
+      }
+    ],
+    "facts": [
+      "The 23rd Marrakech International Film Festival takes place from November 20 to 28, 2026.",
+      "Jesse Eisenberg's comedy The Debut is the opening film.",
+      "Julianne Moore stars in The Debut.",
+      "The festival features 76 films from 39 countries.",
+      "Marion Cotillard presides over the Official Competition jury."
+    ],
+    "entities": {
+      "people": [
+        "Jesse Eisenberg",
+        "Julianne Moore",
+        "Marion Cotillard",
+        "Marie-Clementine Dusabejambo",
+        "Abdallah Al-Khatib",
+        "Auguste Bernard Kouemo Yanghu",
+        "Yassine Marco Marroccu",
+        "Farzad Samsami",
+        "Rani Massalha",
+        "Salem Massalha",
+        "Fellipe Barbosa",
+        "Omar Hilal",
+        "Noah Segan",
+        "John Turturro",
+        "Laila Marrakchi",
+        "James Gray",
+        "Luca Guadagnino",
+        "Cristian Mungiu",
+        "Mohammed Hammad",
+        "Sara Ishaq",
+        "Ahmed Hassouna",
+        "Mohcine Besri"
+      ],
+      "titles": [
+        "The Debut",
+        "Ben'iman",
+        "Chronicles from the Siege",
+        "House of the Wind",
+        "Alkebulan",
+        "Waves of Silence",
+        "Cairo Shadows",
+        "Leila et la nuit",
+        "His Weakest Creatures",
+        "The Only Living Pickpocket in New York",
+        "Strawberries",
+        "Paper Tiger",
+        "Artificial",
+        "Fjord",
+        "Safe Exit",
+        "The Station",
+        "Citizen Osama",
+        "All But My Mother"
+      ]
+    },
+    "keywords": [
+      "The Debut film",
+      "Jesse Eisenberg The Debut",
+      "Marrakech Film Festival 2026",
+      "Marion Cotillard Marrakech jury"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/08/THE-DEBUT_01.jpg?w=1024",
+        "caption": "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 09:56:02 +0000"
+  },
+  "15lpfnz": {
+    "id": "15lpfnz",
+    "type": "news",
+    "headline": "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
+    "dek": "Eisha Singh's brother, Rudraksh Singh Chauhan, opens up about a late-night journey returning from the sets of Naagin 7 that left him deeply unsettled.",
+    "body": [
+      {
+        "h": "An Unexpected Late-Night Journey",
+        "p": [
+          "While horror fiction frequently entertains audiences on screen, real-life encounters with the unexplained can leave a lasting impact. Rudraksh Singh Chauhan, brother of television actress Eisha Singh, recently found himself reflecting on a genuinely unsettling event.",
+          "The occurrence took place during a late-night drive home following a long day of shooting for the television serial Naagin 7, turning a routine commute into a memorable scare."
+        ]
+      },
+      {
+        "h": "Sensing a Sudden Atmospheric Shift",
+        "p": [
+          "Recalling the details of the incident, Rudraksh noted that everything initially appeared completely ordinary. However, the surrounding environment shifted in a way that defied simple explanation.",
+          "He described feeling a sudden wave of extreme unease, noting that the atmosphere felt entirely unusual and prompted him to question whether they were truly alone."
+        ]
+      },
+      {
+        "h": "Challenging Logical Perceptions",
+        "p": [
+          "As someone who typically relies on rational thinking to understand everyday occurrences, Rudraksh found it difficult to process the emotions of that specific night. He shared that the strange discomfort lingered long after they had departed the location.",
+          "The experience ultimately shifted his perspective on supernatural tales, transforming what was once easily dismissed fiction into something far more difficult to dismiss completely."
+        ]
+      },
+      {
+        "h": "Fictional Horror Versus Reality",
+        "p": [
+          "Television sets often dabble in scripted supernatural themes and dramatic storytelling, but real-world encounters carry an entirely different psychological weight. Small sounds and subtle movements suddenly carry heightened significance when an unexplained event occurs.",
+          "For Rudraksh, the night served as a stark reminder that some of the most unnerving occurrences happen completely away from the cameras and production lights."
+        ]
+      },
+      {
+        "h": "Embracing Unanswered Questions",
+        "p": [
+          "Rather than finding definitive answers for what transpired during that late-night journey, Rudraksh believes some events are simply defined by the questions they leave behind in people's minds.",
+          "The lingering memory continues to evoke goosebumps, proving that certain real-life encounters are far more powerful than any scripted sequence."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rudraksh Singh Chauhan recalled a spine-chilling late-night experience while returning from the Naagin 7 set with his sister Eisha Singh. The unsettling encounter altered his perspective on the paranormal and left him with lingering questions.",
+          "Published on Monday, November 2, 2026, the exclusive conversation details how the sudden atmospheric shift during their journey challenged his usual logical thinking."
+        ]
+      }
+    ],
+    "facts": [
+      "Rudraksh Singh Chauhan is the brother of actress Eisha Singh.",
+      "The incident occurred while returning from the set of Naagin 7.",
+      "The story was published on Monday, November 2, 2026.",
+      "The interview was conducted by Filmibeat Assistant Editor Abhishek Ranjit."
+    ],
+    "entities": {
+      "people": [
+        "Rudraksh Singh Chauhan",
+        "Eisha Singh",
+        "Abhishek Ranjit"
+      ],
+      "titles": [
+        "Naagin 7"
+      ]
+    },
+    "keywords": [
+      "Naagin 7",
+      "Rudraksh Singh Chauhan",
+      "Eisha Singh",
+      "Naagin 7 set experience"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/eishasinghrudrakshsinghchauhannaagin7-33141793612108.jpg",
+        "caption": "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 15:06:36 +0530"
+  },
+  "1cb5q7": {
+    "id": "1cb5q7",
+    "type": "news",
+    "headline": "Netflix UK Implements Staff Reductions With Key Executive Departures",
+    "dek": "Streaming giant Netflix conducts localized layoffs in its London office affecting a small percentage of staff, alongside the high-profile exit of senior executive Anna Mallett.",
+    "body": [
+      {
+        "h": "UK Workforce Reductions",
+        "p": [
+          "Streaming giant Netflix has initiated a round of staff reductions within its United Kingdom operations. Reports indicate that approximately two to three percent of the workforce located at the London office have been affected by these latest organizational changes.",
+          "The London branch houses several hundred personnel. Alongside general staffing adjustments, the downsizing has reached key departmental areas including public relations and marketing teams."
+        ]
+      },
+      {
+        "h": "Departure of Anna Mallett",
+        "p": [
+          "Among the prominent departures from the London office is Anna Mallett, who served as the vice president of production for Europe, the Middle East, Africa, and the UK. Her exit marks a significant change in the leadership structure for the region.",
+          "Mallett concluded a tenure of just over five years with the streaming network. During her time with the company, she oversaw production duties spanning various television series and feature films across multiple international territories."
+        ]
+      },
+      {
+        "h": "Regional Creative Milestones",
+        "p": [
+          "The period of Mallett's leadership coincided with notable creative achievements for the EMEA division of the platform. The network brought forth several widely recognized television hits during this timeframe.",
+          "Among the prominent titles that emerged under this regional umbrella were Baby Reindeer, Adolescence, and later seasons of Money Heist, together with its spin-off production Berlin."
+        ]
+      },
+      {
+        "h": "Executive Background and Career",
+        "p": [
+          "Prior to joining the streaming platform, Mallett established a prominent career within the international media landscape. She previously held the position of Chief Executive Officer at ITN, an organization responsible for producing news programs for prominent channels including ITV, Channel 4, and Channel 5.",
+          "Before her work with ITN, Mallett served in executive capacities as the Group Chief Operating Officer and Managing Director of Production at BBC Studios, solidifying her extensive background in broadcasting."
+        ]
+      },
+      {
+        "h": "Broader Global Workforce Cuts",
+        "p": [
+          "The UK-specific restructuring follows a much larger announcement made weeks prior, wherein the company revealed plans to eliminate roughly one thousand roles. This broader reduction accounted for approximately six percent of the enterprise's worldwide workforce.",
+          "Departments experiencing the heaviest impact during the global downsizing included product development, technology, legal, and human resources teams. Several high-profile executive names also departed the streamer during that period."
+        ]
+      },
+      {
+        "h": "Leadership Changes and Market Pressures",
+        "p": [
+          "Among the major exits from the global restructuring were content chief Bela Bajaria and film head Dan Lin. Bajaria, recognized internationally for her localized hub strategy, has been succeeded by Peter Rice, who was born in the UK.",
+          "These organizational adjustments occur as the streaming enterprise navigates a challenging economic landscape marked by slower subscriber growth, shifting viewership patterns, and a declining stock value."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has downsized its London office by cutting two to three percent of its staff, including EMEA and UK VP of Production Anna Mallett. This localized reduction follows a wider global workforce reduction of one thousand roles and high-profile executive departures as the company responds to slower growth and declining stock."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix laid off 2% to 3% of its London office staff.",
+      "Anna Mallett was the VP Production in the UK and EMEA for Netflix.",
+      "Mallett joined Netflix just over five years ago.",
+      "Netflix previously revealed plans to cut 1,000 roles, representing about 6% of its global staff.",
+      "Bela Bajaria and Dan Lin were among the high-profile executives who left the streamer.",
+      "Peter Rice replaced Bela Bajaria.",
+      "Anna Mallett was previously CEO of ITN and Group COO and MD Production at BBC Studios."
+    ],
+    "entities": {
+      "people": [
+        "Anna Mallett",
+        "Gesbeen Mohammad",
+        "Robin Barnwell",
+        "Donald Glover",
+        "Bela Bajaria",
+        "Dan Lin",
+        "Peter Rice",
+        "Michael Mann",
+        "David S. Pumpkins",
+        "Inde Navarrette",
+        "Shane Gillis",
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "Dave Bautista",
+        "Matt Damon",
+        "David Letterman",
+        "Harry Richardson",
+        "Louisa Jacobson",
+        "Heidi Klum",
+        "Marty Erlichman",
+        "Barbra Streisand",
+        "Tovah Feldshuh",
+        "Adam Brody",
+        "Jesse Eisenberg"
+      ],
+      "titles": [
+        "Baby Reindeer",
+        "Adolescence",
+        "Money Heist",
+        "Berlin",
+        "Haunted Hotel",
+        "PUBG",
+        "Clayface",
+        "The Gilded Age",
+        "Leviathan",
+        "The Debut",
+        "The Real Wolf Of Wall Street",
+        "Goodfellas"
+      ]
+    },
+    "keywords": [
+      "Netflix UK layoffs",
+      "Anna Mallett Netflix",
+      "Netflix London office",
+      "Bela Bajaria Peter Rice"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2020/11/Anna-Mallett-headshot-June-2020-e1757967024132.jpg?w=1000",
+        "caption": "Netflix UK Implements Staff Reductions With Key Executive Departures",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 10:09:47 +0000"
+  },
+  "12y9p16": {
+    "id": "12y9p16",
+    "type": "news",
+    "headline": "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play",
+    "dek": "The supernatural horror series Yaga, starring Carrie-Anne Moss, Noah Reid, and Hudson Williams, is making its way to Indian audiences this November via Lionsgate Play.",
+    "body": [
+      {
+        "h": "Bringing Yaga to India",
+        "p": [
+          "Fans of supernatural horror and international web series can finally stream the Canadian production Yaga in India. Lionsgate Play has officially slated the program for a November arrival, expanding the reach of a project that has already generated considerable global buzz.",
+          "The project first debuted for international viewers in late October 2026. While Canadian audiences accessed the show through Crave, viewers in the United States tuned in via AMC+, setting the stage for its subsequent expansion into the Indian digital market."
+        ]
+      },
+      {
+        "h": "A Serialized November Rollout",
+        "p": [
+          "Lionsgate Play has opted for a staggered release schedule throughout November 2026 to distribute the eight-part series. The platform confirmed the timeline alongside a promotional trailer featuring a special introduction by cast member Hudson Williams.",
+          "The first four half-hour episodes will land on the platform on Friday, November 6. Subsequent episodes will follow weekly, with the fifth arriving on November 13, the sixth on November 20, and the final two concluding the season on November 27."
+        ]
+      },
+      {
+        "h": "Festivals and Promotional Milestones",
+        "p": [
+          "Before its broader digital release, Yaga built momentum through high-profile festival screenings. The production previewed its opening two episodes at the Toronto International Film Festival in September 2026.",
+          "In addition to its Canadian festival appearance, the project traveled south for the annual New York Comic Con. These promotional stops helped introduce the eerie narrative and ensemble cast to enthusiastic genre crowds."
+        ]
+      },
+      {
+        "h": "Folklore Roots and Creative Team",
+        "p": [
+          "The narrative is rooted in Slavic folklore, taking inspiration from the legend of Baba Yaga, a mythical witch said to consume children to aid heroes. Creator Kat Sandler previously explored these themes in a 2019 stage play before adapting the mythology for the screen.",
+          "Behind the camera, directors David Frazee and Rachel Talalay brought the supernatural scripts to life. The series itself was filmed on location in Victoria, British Columbia, capturing the moody coastal atmosphere essential to the horror tone."
+        ]
+      },
+      {
+        "h": "Mystery and Cast Dynamics",
+        "p": [
+          "The plot centers on private investigator Charlie Rapp, portrayed by Noah Reid, who is hired to locate a missing fisheries heir named Henry Park, played by Hudson Williams. Williams tackles a challenging double role within the overarching mystery.",
+          "As Rapp searches a quiet coastal town, his investigation brings him into conflict with local detective Sergeant Carson, played by Clark Backo. At the same time, he finds himself drawn to a university professor named Dr. Katherine Hargrove, portrayed by Carrie-Anne Moss, who may be concealing dangerous secrets."
+        ]
+      },
+      {
+        "h": "Supporting Ensemble and Production Backing",
+        "p": [
+          "Beyond the primary leads, the ensemble features a diverse roster of performers including Sheila McCarthy, Megan Follows, Patrick Gilmore, Ezra Franky, and Sam Krochmal. Additional cast members rounding out the town and university dynamics include Emilija Baranac, Katherine Isabelle, Georgia Acken, Anisa Harris, and Hiro Kanagawa.",
+          "The supernatural thriller is a collaborative effort behind the scenes. It was produced by Blink49 Studios and Front Street Pictures in active association with Bell Media."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Canadian supernatural horror series Yaga is scheduled to premiere on Lionsgate Play in India throughout November 2026. Created by Kat Sandler and starring Carrie-Anne Moss, Noah Reid, and Hudson Williams, the eight-part series adapts Slavic folklore and follows a private investigator searching for a missing heir in a coastal town."
+        ]
+      }
+    ],
+    "facts": [
+      "Yaga premiered in North America on October 23, 2026",
+      "The series is available on Crave in Canada and AMC+ in the United States",
+      "Yaga will premiere on Lionsgate Play in India in November 2026",
+      "The series consists of eight 30-minute episodes",
+      "The first two episodes screened at the Toronto International Film Festival in September 2026",
+      "The show was also featured at New York Comic Con",
+      "Episodes one through four release on November 6, 2026",
+      "Episode five releases on November 13, 2026",
+      "Episode six releases on November 20, 2026",
+      "Episodes seven and eight release on November 27, 2026",
+      "Kat Sandler created the series and wrote a 2019 play about Yaga",
+      "David Frazee and Rachel Talalay directed the series",
+      "The show was shot in Victoria, British Columbia",
+      "Noah Reid plays private investigator Charlie Rapp",
+      "Hudson Williams plays missing fisheries heir Henry Park and has a double role",
+      "Clark Backo plays local detective Sergeant Carson",
+      "Carrie-Anne Moss plays university professor Dr. Katherine Hargrove",
+      "The series is produced by Blink49 Studios and Front Street Pictures in association with Bell Media"
+    ],
+    "entities": {
+      "people": [
+        "Carrie-Anne Moss",
+        "Hudson Williams",
+        "Noah Reid",
+        "Sonal Pandya",
+        "Kat Sandler",
+        "David Frazee",
+        "Rachel Talalay",
+        "Clark Backo",
+        "Sheila McCarthy",
+        "Megan Follows",
+        "Patrick Gilmore",
+        "Ezra Franky",
+        "Sam Krochmal",
+        "Emilija Baranac",
+        "Katherine Isabelle",
+        "Georgia Acken",
+        "Anisa Harris",
+        "Hiro Kanagawa"
+      ],
+      "titles": [
+        "Yaga",
+        "Heated Rivalry"
+      ]
+    },
+    "keywords": [
+      "Yaga OTT release date",
+      "Yaga Lionsgate Play India",
+      "Hudson Williams Yaga series",
+      "Carrie-Anne Moss Yaga show"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156448499,thumbsize-986201,width-1280,height-720,resizemode-75/156448499.jpg",
+        "caption": "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T10:52:28Z"
   }
 };
