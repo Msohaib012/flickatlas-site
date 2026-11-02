@@ -117,10 +117,18 @@ async function faStatsRoute(request, env, url) {
     if (p === "/js/page-fa-stats.js") return faAsset(env, request, "/js/page-fa-stats.js");
     return faAsset(env, request, "/stats.html");
   }
+  if (p === "/stats-manual" || p === "/stats-manual.html" || p === "/js/page-fa-stats-manual.js") {
+    if (!(await faStatsSession(request))) {
+      if (p === "/js/page-fa-stats-manual.js") return new Response("Login required", { status: 401, headers: { "Content-Type": "text/plain" } });
+      return faAsset(env, request, "/login.html");
+    }
+    if (p === "/js/page-fa-stats-manual.js") return faAsset(env, request, "/js/page-fa-stats-manual.js");
+    return faAsset(env, request, "/stats-manual.html");
+  }
   return null;
 }
 /* Tracker injection: every public HTML page gets the visitor counter. */
-const FA_TRACK_SKIP = new Set(["/stats", "/stats.html", "/login.html", "/stats-login"]);
+const FA_TRACK_SKIP = new Set(["/stats", "/stats.html", "/login.html", "/stats-login", "/stats-manual", "/stats-manual.html"]);
 async function faInjectTracker(request, res) {
   if (request.method !== "GET") return res;
   const u = new URL(request.url);
@@ -129,7 +137,7 @@ async function faInjectTracker(request, res) {
   if (res.status !== 200 || ct.indexOf("text/html") === -1) return res;
   const html = await res.text();
   if (html.indexOf("fa-track.js") !== -1) return new Response(html, { status: res.status, headers: res.headers });
-  const tag = '<script src="/js/fa-track.js?v=20261102f" defer></script>';
+  const tag = '<script src="/js/fa-track.js?v=20261102g" defer></script>';
   const out = html.replace(/<\/body>/i, tag + "</body>");
   if (out === html) return new Response(html, { status: res.status, headers: res.headers });
   const h = new Headers(res.headers);

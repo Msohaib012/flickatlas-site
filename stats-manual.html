@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0D9488">
+<title>Manual Stats | FlickAtlas</title>
+<meta name="description" content="FlickAtlas website counters — private page.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+body{font-family:'Inter',system-ui,sans-serif;margin:0;color:#17352f;background:#f2f7f5}
+.wrap{max-width:1140px;margin:0 auto;padding:26px 18px 40px}
+h1{font-size:27px;margin:0 0 4px;color:#0b3b34}
+.st-head{display:flex;align-items:flex-end;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.st-head p{margin:0;font-size:13.5px;color:#5b7a73;max-width:560px;line-height:1.5}
+.st-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:20px 0 4px}
+.st-card{position:relative;overflow:hidden;background:#fff;border:1px solid #d9e8e4;border-radius:16px;padding:16px 16px 14px;box-shadow:0 4px 14px rgba(13,90,80,.05)}
+.st-card:before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:linear-gradient(90deg,#0D9488,rgba(13,148,136,0))}
+.st-card .st-label{font-size:11.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:#5b7a73}
+.st-card .st-numrow{display:flex;align-items:center;gap:9px;margin:3px 0 1px}
+.st-card .st-num{font-size:36px;font-weight:800;line-height:1.1;color:#0b3b34}
+.st-card .st-sub{font-size:12.5px;color:#5b7a73}
+.st-card.st-hero{border-color:#8fd0c4;background:linear-gradient(160deg,#e6f6f2,#f4fbf9)}
+.st-secbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:30px 0 4px}
+.st-secbar h2{margin:0;font-size:19px;color:#0b3b34}
+.st-secbar .sp{flex:1}
+.st-secbar .st-hint{font-size:12.5px;color:#7b968f}
+.st-btn{border:1px solid #c3dcd6;background:#fff;color:#0b6e5f;font:inherit;font-size:13px;font-weight:700;border-radius:9px;padding:6px 12px;cursor:pointer;text-decoration:none}
+.st-btn:hover{background:#eef7f4}
+.st-panels{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;margin-top:10px}
+.st-panel{background:#fff;border:1px solid #d9e8e4;border-radius:16px;padding:16px;box-shadow:0 4px 14px rgba(13,90,80,.05)}
+.st-panel h3{margin:0 0 12px;font-size:15.5px;color:#0b3b34}
+.pn-row{display:flex;justify-content:space-between;align-items:baseline;gap:10px;font-size:13.5px;margin-top:9px}
+.pn-row:first-of-type{margin-top:0}
+.pn-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pn-val{font-weight:700;white-space:nowrap;color:#0b3b34}
+.pn-val .pn-pct{font-weight:500;color:#7b968f;font-size:12px}
+.pn-bar{height:5px;border-radius:99px;background:#e7f0ed;margin-top:4px;overflow:hidden}
+.pn-bar i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,#0D9488,#2dd4bf)}
+.pn-empty{font-size:13px;color:#7b968f;line-height:1.5;margin:0}
+.st-note{font-size:13px;color:#5b7a73;line-height:1.6;margin-top:22px}
+.st-dd{position:relative}
+.st-dd-btn{display:inline-flex;align-items:center;gap:8px;background:#e2f4ef;border:1px solid #9fd8cc;color:#0b6e5f;border-radius:999px;padding:8px 16px;font-weight:700;font-size:14px;cursor:pointer;font-family:inherit}
+.st-dd-btn .st-caret{font-size:11px;opacity:.8}
+.st-dd-menu{position:absolute;top:calc(100% + 6px);left:0;min-width:190px;max-height:280px;overflow:auto;background:#fff;border:1px solid #d9e8e4;border-radius:14px;padding:6px;z-index:60;box-shadow:0 14px 34px rgba(11,59,52,.18)}
+.st-dd-menu button{display:block;width:100%;text-align:left;background:none;border:0;color:#17352f;font-size:14px;font-weight:600;padding:9px 12px;border-radius:9px;cursor:pointer;font-family:inherit}
+.st-dd-menu button:hover{background:#eef7f4}
+.st-dd-menu button.on{background:#e2f4ef;color:#0b6e5f}
+.mf-bar{display:flex;align-items:flex-end;gap:14px;flex-wrap:wrap;margin:22px 0 2px;background:#fff;border:1px solid #d9e8e4;border-radius:16px;padding:16px;box-shadow:0 4px 14px rgba(13,90,80,.05)}
+.mf-field{display:flex;flex-direction:column;gap:6px}
+.mf-field label{font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#5b7a73}
+.mf-field input[type="date"]{background:#f2f7f5;border:1px solid #c3dcd6;color:#17352f;border-radius:10px;padding:8px 10px;font:inherit;font-size:14px}
+.mf-presets{display:flex;gap:8px;flex-wrap:wrap}
+.mf-presets button{background:#f2f7f5;border:1px solid #c3dcd6;color:#0b6e5f;border-radius:999px;padding:8px 14px;font-weight:600;font-size:13px;cursor:pointer;font-family:inherit}
+.mf-presets button.on{background:#e2f4ef;border-color:#0D9488;color:#0b6e5f}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="st-head">
+    <div><h1>Manual Stats</h1><p>Pick any dates and filters — the numbers below follow your selection. Visitors are unique across the whole range.</p></div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <a class="st-btn" href="/stats">← Back to Stats</a>
+      <button class="st-btn" id="mf-refresh">Refresh</button>
+      <a class="st-btn" href="/stats-logout">Logout</a>
+    </div>
+  </div>
+
+  <div class="mf-bar">
+    <div class="mf-field"><label for="mf-from">From</label><input type="date" id="mf-from" min="2026-11-01"></div>
+    <div class="mf-field"><label for="mf-to">To</label><input type="date" id="mf-to" min="2026-11-01"></div>
+    <div class="mf-field"><label>Quick range</label>
+      <div class="mf-presets" id="mf-presets">
+        <button type="button" data-preset="today">Today</button>
+        <button type="button" data-preset="7d">Last 7 days</button>
+        <button type="button" data-preset="30d" class="on">Last 30 days</button>
+        <button type="button" data-preset="month">This month</button>
+        <button type="button" data-preset="year">This year</button>
+        <button type="button" data-preset="all">All time</button>
+      </div>
+    </div>
+  </div>
+  <div class="mf-bar" style="margin-top:12px">
+    <div class="mf-field"><label>Device</label>
+      <div class="st-dd"><button type="button" class="st-dd-btn" id="mf-dev-btn"><span id="mf-dev-cur">All devices</span><span class="st-caret">▾</span></button><div class="st-dd-menu" id="mf-dev-menu" hidden></div></div>
+    </div>
+    <div class="mf-field"><label>Traffic source</label>
+      <div class="st-dd"><button type="button" class="st-dd-btn" id="mf-src-btn"><span id="mf-src-cur">All sources</span><span class="st-caret">▾</span></button><div class="st-dd-menu" id="mf-src-menu" hidden></div></div>
+    </div>
+    <div class="mf-field"><label>Country</label>
+      <div class="st-dd"><button type="button" class="st-dd-btn" id="mf-geo-btn"><span id="mf-geo-cur">All countries</span><span class="st-caret">▾</span></button><div class="st-dd-menu" id="mf-geo-menu" hidden></div></div>
+    </div>
+    <div class="mf-field"><label>Content</label>
+      <div class="st-dd"><button type="button" class="st-dd-btn" id="mf-content-btn"><span id="mf-content-cur">All content</span><span class="st-caret">▾</span></button><div class="st-dd-menu" id="mf-content-menu" hidden></div></div>
+    </div>
+    <span class="st-hint" id="mf-range-label" style="font-size:12.5px;color:#7b968f"></span>
+  </div>
+  <p id="mf-status" style="font-size:13.5px;color:#5b7a73"></p>
+
+  <div class="st-grid">
+    <div class="st-card st-hero"><div class="st-label">Unique visitors</div><div class="st-numrow"><div class="st-num" id="mf-visitors">–</div></div><div class="st-sub">after filters · counted once across the whole range</div></div>
+    <div class="st-card"><div class="st-label">Total views</div><div class="st-numrow"><div class="st-num" id="mf-views">–</div></div><div class="st-sub">every page open by those visitors</div></div>
+    <div class="st-card"><div class="st-label">Avg. time on site</div><div class="st-numrow"><div class="st-num" id="mf-avg">–</div></div><div class="st-sub" id="mf-avg-sub">all visits in range (filters do not apply)</div></div>
+    <div class="st-card"><div class="st-label">Days selected</div><div class="st-numrow"><div class="st-num" id="mf-days">–</div></div><div class="st-sub" id="mf-days-sub">…</div></div>
+  </div>
+
+  <div class="st-secbar"><h2>Day by day</h2><span class="st-hint">visitors and views for each day in the range, after filters</span></div>
+  <div class="st-panels" style="grid-template-columns:1fr">
+    <div class="st-panel"><div id="mf-byday"><p class="pn-empty">Loading…</p></div></div>
+  </div>
+
+  <div class="st-secbar"><h2>Audience</h2><span class="st-hint">each panel ignores its own filter, so you can compare</span></div>
+  <div class="st-panels">
+    <div class="st-panel"><h3>📱 Devices</h3><div id="pn-devices"><p class="pn-empty">Loading…</p></div></div>
+    <div class="st-panel"><h3>🔗 Traffic sources</h3><div id="pn-sources"><p class="pn-empty">Loading…</p></div></div>
+    <div class="st-panel"><h3>🌍 Countries</h3><div id="pn-countries"><p class="pn-empty">Loading…</p></div></div>
+    <div class="st-panel"><h3>🌐 Referring sites (exact)</h3><div id="pn-ref"><p class="pn-empty">Loading…</p></div></div>
+    <div class="st-panel"><h3>🕐 Rush hours (Pakistan time)</h3><div id="pn-hours"><p class="pn-empty">Loading…</p></div></div>
+  </div>
+
+  <div class="st-secbar"><h2>Content</h2><span class="st-hint">what those visitors opened</span></div>
+  <div class="st-panels">
+    <div class="st-panel" id="wrap-titles"><h3>🎬 Top movies, shows &amp; stories</h3><div id="pn-titles"><p class="pn-empty">Loading…</p></div></div>
+    <div class="st-panel" id="wrap-pages"><h3>📄 Top pages</h3><div id="pn-pages"><p class="pn-empty">Loading…</p></div></div>
+  </div>
+
+  <div class="st-secbar"><h2>Search</h2><span class="st-hint">typed in this site's own search box</span></div>
+  <div class="st-panels">
+    <div class="st-panel"><h3>⌨️ Searched on FlickAtlas</h3><div id="pn-searches"><p class="pn-empty">Loading…</p></div></div>
+    <div class="st-panel"><h3>🚫 Searched — nothing found</h3><div id="pn-zero"><p class="pn-empty">Loading…</p></div></div>
+  </div>
+
+  <p class="st-note">How to read this: pick a From and To date (or a quick range, including a whole month or year) and narrow by device, source, country or content — every number on the page follows the selection. Visitors are unique across the whole range, not added up per day. "Searched on FlickAtlas" counts only searches that found something (the zero-result ones are subtracted, and shown separately). Days are Pakistan-time days; counting began 1 Nov 2026, and the 1–2 Nov keys ran on the old 5 AM frame. This page does not refresh itself — press Refresh for the latest counters.</p>
+</main>
+<script id="page-script" src="js/page-fa-stats-manual.js?v=fa-202611022359"></script>
+</body>
+</html>
