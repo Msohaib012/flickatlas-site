@@ -129,7 +129,7 @@ async function faInjectTracker(request, res) {
   if (res.status !== 200 || ct.indexOf("text/html") === -1) return res;
   const html = await res.text();
   if (html.indexOf("fa-track.js") !== -1) return new Response(html, { status: res.status, headers: res.headers });
-  const tag = '<script src="/js/fa-track.js?v=20261102d" defer></script>';
+  const tag = '<script src="/js/fa-track.js?v=20261102e" defer></script>';
   const out = html.replace(/<\/body>/i, tag + "</body>");
   if (out === html) return new Response(html, { status: res.status, headers: res.headers });
   const h = new Headers(res.headers);

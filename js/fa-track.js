@@ -12,6 +12,13 @@
    - fa/sess/{startDate}/{sid} = { a: startMs, b: lastMs }   (session duration)
    Ids carry the fa_web_ prefix. Dates are UTC. Best-effort and silent. */
 (function () {
+  /* Stats + login pages never count themselves (owner order 2026-11-02):
+     a visit to /stats or /login writes nothing at all — no presence,
+     no daily unique, no source/device/country record. */
+  try {
+    var _p0 = location.pathname.replace(/\.html$/, "");
+    if (_p0 === "/stats" || _p0 === "/login") return;
+  } catch (e) {}
   var DB = "https://arenaflix-53ce8-default-rtdb.firebaseio.com/fa";
   function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
   function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
