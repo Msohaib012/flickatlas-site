@@ -34022,5 +34022,211 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-02T06:52:17Z"
+  },
+  "1t5foqu": {
+    "id": "1t5foqu",
+    "type": "news",
+    "headline": "Superstar Rajinikanth's Jailer 2 Crosses Rs 800 Crore Worldwide",
+    "dek": "Nelson Dilipkumar's directorial venture Jailer 2 has officially rewritten Tamil box-office history by crossing Rs 800 crore globally in just 18 days.",
+    "body": [
+      {
+        "h": "Milestone Worldwide Earnings",
+        "p": [
+          "Superstar Rajinikanth has once again demonstrated his absolute dominance over the box office with his latest release, Jailer 2. The action-packed feature has officially crossed the Rs 800 crore milestone globally, cementing its place in entertainment history.",
+          "Trade tracker Sacnilk reported the global gross collection at Rs 807.25 crore. This achievement officially establishes it as the very first Tamil film to enter the elite Rs 800-crore club."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Records",
+        "p": [
+          "With this stellar theatrical run, Jailer 2 has successfully dethroned 2.0 to become the highest-grossing Tamil film at the Indian box office. The previous record holder, also headlined by Rajinikanth and directed by Shankar in 2018, had earned roughly between Rs 700 and Rs 800 crore globally with a domestic gross of approximately Rs 519 crore.",
+          "The new sequel managed to surpass the domestic gross of 2.0 in just 17 days. Its domestic gross now stands impressively at Rs 533.75 crore from a total domestic nett collection of Rs 456.30 crore."
+        ]
+      },
+      {
+        "h": "Overcoming Theatrical Hurdles",
+        "p": [
+          "The box-office triumph of Jailer 2 is all the more notable given the hurdles it faced during its rollout. Unlike 2.0, which benefited from a wide Hindi release featuring Akshay Kumar, this sequel achieved its massive numbers without the support of major multiplex chains like PVR INOX and Cinepolis for its Hindi version.",
+          "Those major multiplex chains declined to screen the film due to a disagreement regarding the required theatrical-to-OTT window. Nevertheless, audiences sought it out across alternative venues and language markets."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution",
+        "p": [
+          "The Tamil version has predictably driven the lion's share of the domestic earnings. Accounting for 69.4 per cent of the total, the Tamil language version brought in an India nett of Rs 316.50 crore.",
+          "Meanwhile, the Telugu version added a robust Rs 84.15 crore to the tally, the Hindi version contributed Rs 48.05 crore, and the Kannada version chipped in with Rs 7.60 crore."
+        ]
+      },
+      {
+        "h": "Strong Third Weekend Growth",
+        "p": [
+          "The film's momentum continued well into its third week in theatres. Over the first three days of its third week, the film managed to collect Rs 26.40 crore nett in India.",
+          "Sunday alone brought in a notable Rs 11.20 crore nett domestically, marking a 15.5 per cent increase compared to Saturday's figures. Overseas markets have concurrently added a steady Rs 273.50 crore to the global gross."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Written and directed by Nelson Dilipkumar, Jailer 2 features Rajinikanth reprising his role as Tiger Muthuvel Pandian. The film is produced by Kalanithi Maran under the prestigious Sun Pictures banner.",
+          "The sequel boasts an expansive ensemble cast including Ramya Krishnan, Vasanth Ravi, Mirnaa, Yogi Babu, and Vinayakan, alongside prominent appearances by Mohanlal, Shiva Rajkumar, and Vijay Sethupathi. Music for the project was composed by Anirudh Ravichander."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has crossed Rs 800 crore worldwide within 18 days of release, becoming the highest-grossing Tamil film and surpassing 2.0.",
+          "Directed by Nelson Dilipkumar and produced by Sun Pictures, the film achieved this monumental box-office record despite missing screenings in major multiplex chains for its Hindi version."
+        ]
+      }
+    ],
+    "facts": [
+      "Rs 800 crore worldwide within 18 days",
+      "Jailer 2 global gross collection is Rs 807.25 crore",
+      "Directed by Nelson Dilipkumar",
+      "Surpassed 2.0 (2018)",
+      "India nett earnings total Rs 456.30 crore",
+      "India gross collection stands at Rs 533.75 crore",
+      "Overseas gross collection is Rs 273.50 crore",
+      "Released on October 15 with Rs 59.70 crore nett in India",
+      "Produced by Kalanithi Maran under Sun Pictures"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Shankar",
+        "Akshay Kumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Vasanth Ravi",
+        "Mirnaa",
+        "Yogi Babu",
+        "Vinayakan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Vijay Sethupathi",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "highest grossing Tamil film",
+      "Jailer 2 worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/rajinikanth-jailer-2-biggest-blockbuster-021408149-16x9_0.jpg?VersionId=krB8X7aXZR6ivjQfRjLP31mavTX4gcGu",
+        "caption": "Superstar Rajinikanth's Jailer 2 Crosses Rs 800 Crore Worldwide",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 12:57:41 +0530"
+  },
+  "yp454j": {
+    "id": "yp454j",
+    "type": "news",
+    "headline": "A.R. Rahman Steps Up as the Fresh Face of Brooke Bond Taj Mahal Tea",
+    "dek": "The acclaimed composer has signed on as the newest brand ambassador for the popular tea label, headlining an innovative advertising initiative.",
+    "body": [
+      {
+        "h": "A Major Partnership Announcement",
+        "p": [
+          "Renowned composer A.R. Rahman has officially been named the brand ambassador for Brooke Bond Taj Mahal Tea. The prominent beverage label falls under the corporate umbrella of Hindustan Unilever Limited.",
+          "This new collaboration establishes a significant chapter in the beverage company's lengthy history of intertwining its brand identity with musical artistry."
+        ]
+      },
+      {
+        "h": "The Awaken Your Masterpiece Campaign",
+        "p": [
+          "In tandem with his appointment, the Oscar and Grammy-winning artist has launched an advertising initiative titled 'Awaken Your Masterpiece'. The central theme of the campaign revolves around the importance of creativity, dedication, and artistic excellence.",
+          "The newly released promotional film features the celebrated musician navigating a creative block. He pauses his work to enjoy a freshly brewed cup of the beverage, which helps him regain his inspiration and finish an uplifting melody."
+        ]
+      },
+      {
+        "h": "Celebrating Craftsmanship and Finesse",
+        "p": [
+          "For more than six decades, the tea brand has cultivated an identity centered on fine craftsmanship. It frequently uses signature phrases like 'Hazaaron Mein Ek' and 'Wah Taj!' to communicate its premium market positioning.",
+          "The inclusion of the legendary composer draws direct creative parallels. The brand emphasizes that just as the musician's work is born from finding the exact right note among infinite possibilities, every single cup uses leaves chosen from thousands to achieve a distinct taste."
+        ]
+      },
+      {
+        "h": "Corporate and Creative Perspectives",
+        "p": [
+          "Ishtpreet Singh, who serves as the Vice President of Beverages at Hindustan Unilever Limited, shared thoughts on the partnership. He noted that music and the tea label have remained inseparable for decades, beginning with previous associations alongside legendary figures.",
+          "He expressed that no better custodian could carry the legacy forward than an artist whose creative genius is genuinely rare and distinct."
+        ]
+      },
+      {
+        "h": "Vision From the Creative Team",
+        "p": [
+          "The creative direction for the project was guided by Ogilvy India leadership, including Harshad Rajadhyaksha and Kainaz Karmakar. They highlighted the continuous journey of establishing a brand deeply rooted in musical foundations.",
+          "Additionally, the promotional spot was brought to life by filmmaker Prakash Varma of Nirvana Films, an individual who has helped shape the visual aesthetics of the product line for more than ten years."
+        ]
+      },
+      {
+        "h": "Carrying Forward a Legendary Musical Legacy",
+        "p": [
+          "This fresh collaboration extends a long tradition of musical partnerships for the product line. In previous years, the brand famously collaborated with tabla maestro Ustad Zakir Hussain.",
+          "By bringing the iconic composer on board, the latest initiative aims to build upon that historical foundation by celebrating ongoing artistic achievements and the pursuit of mastery."
+        ]
+      },
+      {
+        "h": "Availability Across Platforms",
+        "p": [
+          "The newly minted promotional video has officially made its debut. Consumers and fans can view the content across multiple digital and marketing channels tied to the brand."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned composer A.R. Rahman has been named the brand ambassador for Brooke Bond Taj Mahal Tea, owned by Hindustan Unilever Limited. He has launched the 'Awaken Your Masterpiece' campaign film, which highlights how taking a purposeful break with a cup of tea helps overcome creative blocks."
+        ]
+      }
+    ],
+    "facts": [
+      "A.R. Rahman is an Oscar and Grammy-winning composer.",
+      "Brooke Bond Taj Mahal Tea is owned by Hindustan Unilever Limited.",
+      "The new campaign is titled 'Awaken Your Masterpiece'.",
+      "Taj Mahal Tea has been associated with fine craftsmanship for over six decades.",
+      "Ishtpreet Singh is the VP of Beverages at HUL.",
+      "Harshad Rajadhyaksha and Kainaz Karmakar are Group Chief Creative Officers at Ogilvy India.",
+      "The campaign film was directed by Prakash Varma of Nirvana films.",
+      "Ustad Zakir Hussain was previously associated with the brand."
+    ],
+    "entities": {
+      "people": [
+        "A.R. Rahman",
+        "Ishtpreet Singh",
+        "Harshad Rajadhyaksha",
+        "Kainaz Karmakar",
+        "Prakash Varma",
+        "Ustad Zakir Hussain"
+      ],
+      "titles": [
+        "Awaken Your Masterpiece"
+      ]
+    },
+    "keywords": [
+      "A.R. Rahman",
+      "Brooke Bond Taj Mahal Tea",
+      "Awaken Your Masterpiece",
+      "Hindustan Unilever Limited"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/A.R.-Rahman-becomes-the-new-face-of-Brooke-Bond-Taj-Mahal-Tea-Oscar-Winning-news.jpeg",
+        "caption": "A.R. Rahman Steps Up as the Fresh Face of Brooke Bond Taj Mahal Tea",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 12:41:36 +0200"
   }
 };
