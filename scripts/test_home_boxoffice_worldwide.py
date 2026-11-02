@@ -124,22 +124,53 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertIsNone(bo.make_candidate(self.item, "last_2_days", wrong_period, today),
             "a 2-day figure for a different pair of dates is not evidence for this window")
 
-    def test_cumulative_total_requires_total_wording_and_asof_evidence(self):
+    def test_cumulative_total_asof_bases(self):
         today = "2026-10-31"
         dated = {"title": "Fixture Film worldwide box office",
             "content": "As of October 31, 2026, Fixture Film's cumulative worldwide total was $12 million.",
             "published_date": today, "url": self.result["url"]}
         candidate = bo.make_candidate(self.item, "cumulative_total", dated, today)
         self.assertIsNotNone(candidate)
+        self.assertEqual(candidate["asof_basis"], "sentence",
+                         "a date spelled inside the figure's own sentence is the strongest basis")
+        self.assertEqual(candidate["as_of"], today)
         accepted = bo.accepted_metric(candidate, {"accepted": True, "quote": dated["content"]},
                                        today, "2026-10-31T00:00:00Z")
         self.assertIsNotNone(accepted)
         self.assertEqual(accepted["as_of"], today)
         vague = {**dated, "content": "Fixture Film's worldwide gross was $12 million."}
-        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", vague, today))
-        undated = {**dated, "content": "Fixture Film's worldwide total was $12 million."}
-        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", undated, today),
-            "the article publication date alone cannot establish when a cumulative total was measured")
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", vague, today),
+            "no cumulative wording: a bare worldwide gross is not a total under any basis")
+        # 2026-11-02 policy (owner's Tavily+Gemini-first rule): the
+        # article's STRUCTURED publication date establishes the as-of
+        # for a figure the sentence states as the current total. The
+        # old pin ("publication date alone can never establish as-of")
+        # is exactly what starved every world title: trade prose and
+        # data pages do not spell the date inside the figure's sentence.
+        undated = {**dated, "content": "Fixture Film's worldwide total was $12 million.",
+                   "published_date": "2026-10-30"}
+        candidate = bo.make_candidate(self.item, "cumulative_total", undated, today)
+        self.assertIsNotNone(candidate, "structured publication date + current-total wording must pass")
+        self.assertEqual(candidate["asof_basis"], "published_date")
+        self.assertEqual(candidate["as_of"], "2026-10-30",
+                         "the as-of is the publication date, not the run date")
+        no_structured = {"title": dated["title"], "content": undated["content"], "url": dated["url"]}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", no_structured, today),
+            "with no structured published_date, a date appearing only in page text never establishes as-of")
+        stale = {**undated, "published_date": "2026-09-01"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", stale, today),
+            "a publication date more than 30 days old cannot carry a current total")
+        pre_release = {**undated, "published_date": "2026-10-15"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", pre_release, today),
+            "a cumulative total cannot be measured before the film's 2026-10-20 release")
+        data_page = {"title": "Fixture Film (2026) - Box Office Mojo",
+                     "content": "The worldwide total for Fixture Film stands at $12,000,000.",
+                     "url": "https://www.boxofficemojo.com/title/tt0000000/"}
+        candidate = bo.make_candidate(self.item, "cumulative_total", data_page, today)
+        self.assertIsNotNone(candidate,
+            "a living data page needs no published_date: retrieval date is its as-of")
+        self.assertEqual(candidate["asof_basis"], "data_page")
+        self.assertEqual(candidate["as_of"], today)
 
     def test_range_parser_accepts_only_explicit_same_currency_ranges(self):
         stated = bo.parse_ranges("₹0.65 crore to ₹0.70 crore")
@@ -423,28 +454,38 @@ class WorldwideEvidenceTests(unittest.TestCase):
                                tavily_fn=lambda query: self.fail("must not search"), gemini_fn=lambda prompt: {})
         self.assertEqual(writes, [])
 
-    def test_dedicated_schedule_maps_to_requested_pkt_hours_and_is_isolated(self):
+    def test_collector_runs_in_hourly_pipeline_and_standalone_is_manual_only(self):
         workflow = (ROOT / ".github/workflows/home-boxoffice-worldwide.yml").read_text()
         workflow_code = "\n".join(line for line in workflow.splitlines() if not line.lstrip().startswith("#"))
-        match = re.search(r"cron:\s*['\"]([^'\"]+)['\"]", workflow)
-        self.assertIsNotNone(match, "dedicated schedule must exist")
-        cron = match.group(1)
-        self.assertEqual(cron, "0 9,13,17,20 * * *")
-        utc_hours = [9, 13, 17, 20]
-        pkt_hours = [(h + 5) % 24 for h in utc_hours]
-        self.assertEqual(pkt_hours, [14, 18, 22, 1])
-        self.assertIn("UTC+05:00", workflow)
+        # 2026-11-02: the standalone schedule is RETIRED (GitHub dropped
+        # its slots for a full day on 2026-11-01, and two writers racing
+        # on the same KV key could drop each other's reports). The cron
+        # survives only as a comment; dispatch stays as manual fallback.
+        self.assertNotIn("cron:", workflow_code,
+                         "the standalone schedule must stay retired — the pipeline owns the cadence")
+        self.assertIn("- cron: \"0 9,13,17,20 * * *\"", workflow,
+                      "the retired cron stays visible as a comment for the record")
         self.assertIn("workflow_dispatch:", workflow_code,
-                      "the refresh must be manually dispatchable so it can be fired on demand")
+                      "the refresh must remain manually dispatchable as a fallback")
         self.assertNotIn("permissions:\n  contents: write", workflow)
         self.assertIn("group: flickatlas-home-boxoffice-worldwide", workflow)
         self.assertIn("python3 scripts/home_boxoffice_worldwide.py --run", workflow)
         self.assertIn(f"HOME_BOXOFFICE_KV_NAMESPACE_ID: {bo.DEFAULT_NAMESPACE_ID}", workflow)
-        for forbidden in ("scripts/hourly-pipeline", "scripts/gemini_batch.py --", "publish", "git push", "cloudflare_deploy.py"):
+        for forbidden in ("scripts/hourly-pipeline", "scripts/gemini_batch.py --", "git push", "cloudflare_deploy.py"):
             self.assertNotIn(forbidden, workflow_code)
         hourly = (ROOT / ".github/workflows/hourly-pipeline.yml").read_text()
         self.assertIn("cron: '35 * * * *'", hourly, "existing hourly automation schedule must remain unchanged")
         self.assertIn("group: flickatlas-site-writes", hourly)
+        self.assertIn("steps.decide.outputs.run_home_worldwide == 'true'", hourly,
+                      "the collector step is gated by the pipeline schedule decide step")
+        self.assertIn("python3 scripts/home_boxoffice_worldwide.py --run", hourly)
+        self.assertIn(f"HOME_BOXOFFICE_KV_NAMESPACE_ID: {bo.DEFAULT_NAMESPACE_ID}", hourly)
+        self.assertIn("CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}", hourly,
+                      "the KV write reuses the token the deploy step already receives")
+        schedule = (ROOT / "scripts/pipeline_schedule.py").read_text()
+        self.assertIn("'home_boxoffice_worldwide': policy((0, 6, 12, 18), 6", schedule,
+                      "figures refresh every 6h; selections re-derive on every gated run")
+        self.assertIn("'run_home_worldwide': 'home_boxoffice_worldwide'", schedule)
 
     def test_namespace_id_matches_cloudflare_worker_deploy_binding(self):
         deploy = (ROOT / "scripts/cloudflare_deploy.py").read_text()
@@ -452,6 +493,148 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertEqual(bo.KV_KEY, "current")
         runner = (ROOT / "scripts/home_boxoffice_worldwide.py").read_text()
         self.assertIn("HOME_BOXOFFICE_KV_NAMESPACE_ID", runner)
+
+
+class WorldCumulativeAcceptanceTests(unittest.TestCase):
+    """The 2026-11-02 world fix: cumulative worldwide totals for WORLD
+    titles must be acceptable in the shapes world reporting actually
+    uses (data pages, trade prose), while domestic-only figures,
+    projections and social-media posts stay rejected. Before the fix,
+    every fixture below that is now accepted returned None — the
+    Tavily lane had never produced a single world report."""
+
+    def setUp(self):
+        self.today = "2026-11-01"
+        self.item = {"id": "1483525", "title": "Possible Love",
+                     "original_title": "Possible Love",
+                     "release_date": "2026-10-30", "industry": "world"}
+        self.bom = {
+            "title": "Possible Love (2026) - Box Office Mojo",
+            "content": ("Possible Love \u2014 Domestic (55.1%) $10,145,000 | International "
+                        "(44.9%) $8,255,000 | Worldwide $18,400,000. The worldwide total "
+                        "for Possible Love stands at $18,400,000."),
+            "published_date": "2026-11-01",
+            "url": "https://www.boxofficemojo.com/release/rl0000000001/",
+        }
+
+    def test_bom_style_worldwide_total_is_accepted_with_correct_amount_and_date(self):
+        candidate = bo.make_candidate(self.item, "cumulative_total", self.bom, self.today)
+        self.assertIsNotNone(candidate,
+            "a Box Office Mojo title page's worldwide total must be acceptable evidence")
+        self.assertEqual(candidate["amount"], 18_400_000,
+                         "the WORLDWIDE figure is taken — not the domestic $10,145,000 "
+                         "and not the international $8,255,000 from the same summary row")
+        self.assertEqual(candidate["currency"], "USD")
+        self.assertEqual(candidate["asof_basis"], "data_page")
+        self.assertEqual(candidate["as_of"], self.today)
+        accepted = bo.accepted_metric(
+            candidate,
+            {"accepted": True, "quote": "The worldwide total for Possible Love stands at $18,400,000"},
+            self.today, "2026-11-01T09:00:00Z")
+        self.assertIsNotNone(accepted)
+        self.assertEqual(accepted["amount"], 18_400_000)
+        self.assertEqual(accepted["currency"], "USD")
+        self.assertEqual(accepted["scope"], "worldwide")
+        self.assertEqual(accepted["window"], "cumulative_total")
+        self.assertEqual(accepted["as_of"], self.today)
+        self.assertEqual(accepted["method"], "tavily_gemini")
+        self.assertEqual(accepted["source_name"], "boxofficemojo.com")
+
+    def test_deadline_style_prose_is_accepted_via_publication_date(self):
+        prose = {"title": "Possible Love Box Office: Strong Global Start",
+            "content": ("Possible Love has grossed $18.4 million worldwide in its opening "
+                        "days, an impressive start for the romantic drama."),
+            "published_date": "2026-11-01",
+            "url": "https://deadline.com/2026/11/possible-love-box-office-123456/"}
+        candidate = bo.make_candidate(self.item, "cumulative_total", prose, self.today)
+        self.assertIsNotNone(candidate,
+            "'grossed $X worldwide' trade prose must pass with the publication date as as-of")
+        self.assertEqual(candidate["amount"], 18_400_000)
+        self.assertEqual(candidate["asof_basis"], "published_date")
+        self.assertEqual(candidate["as_of"], "2026-11-01")
+        accepted = bo.accepted_metric(candidate, {"accepted": True, "quote": prose["content"]},
+                                      self.today, "2026-11-01T09:00:00Z")
+        self.assertIsNotNone(accepted)
+        self.assertEqual(accepted["amount"], 18_400_000)
+
+    def test_domestic_only_figure_is_rejected(self):
+        domestic = {"title": "Possible Love box office",
+            "content": "As of November 1, 2026, Possible Love's domestic total was $10.1 million.",
+            "published_date": "2026-11-01",
+            "url": "https://deadline.com/2026/11/possible-love-domestic-123456/"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", domestic, self.today))
+        cumulative_domestic = {**domestic,
+            "content": "As of November 1, 2026, Possible Love's cumulative domestic total was $10.1 million."}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", cumulative_domestic, self.today),
+            "the words 'cumulative total' do not rescue a domestic figure: scope governance decides")
+
+    def test_projection_or_forecast_is_rejected(self):
+        forecast = {"title": "Possible Love box office forecast",
+            "content": ("As of November 1, 2026, Possible Love is projected to reach a "
+                        "cumulative worldwide total of $25 million by the end of its run."),
+            "published_date": "2026-11-01",
+            "url": "https://example-trade.com/possible-love-forecast"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", forecast, self.today),
+            "a dated, worldwide-scoped PROJECTION is still not a measured gross")
+        expected = {**forecast,
+            "content": "Possible Love is expected to gross $25 million worldwide.",
+            "url": "https://example-trade.com/possible-love-preview"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", expected, self.today))
+
+    def test_social_media_figure_is_rejected(self):
+        social = {"title": "Possible Love box office update",
+            "content": ("As of November 1, 2026, Possible Love's cumulative worldwide "
+                        "total was $18.4 million."),
+            "published_date": "2026-11-01",
+            "url": "https://www.facebook.com/somepage/posts/123456"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", social, self.today),
+            "a social post never originates a figure, however perfect its sentence")
+        instagram = {**social, "url": "https://www.instagram.com/p/ABC123/"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", instagram, self.today))
+
+    def test_absurd_values_are_rejected(self):
+        absurd = {"title": "Possible Love box office",
+            "content": ("As of November 1, 2026, the worldwide total of Possible Love "
+                        "stands at $95 billion."),
+            "published_date": "2026-11-01",
+            "url": "https://example-trade.com/possible-love"}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", absurd, self.today),
+            "a $95B 'total' for a two-day-old release is a unit misparse, not a gross")
+        dust = {**absurd, "content": ("As of November 1, 2026, the worldwide total of "
+                                      "Possible Love stands at $18.40.")}
+        self.assertIsNone(bo.make_candidate(self.item, "cumulative_total", dust, self.today))
+
+    def test_world_report_lands_in_the_kv_snapshot(self):
+        now = dt.datetime(2026, 11, 1, 15, 0, tzinfo=dt.timezone.utc)  # 20:00 PKT
+        manifest = {"selections": {"bollywood": [], "world": ["1483525"]}, "candidates": [
+            {"id": "1483525", "title": "Possible Love", "industry": "world",
+             "windows_to_refresh": ["cumulative_total"], "paired": {}}
+        ]}
+        writes = []
+
+        def fake_gemini(prompt):
+            candidates = __import__("json").loads(prompt.split("Candidates:\n", 1)[1])
+            return {"reviews": [{"candidate_id": c["candidate_id"], "accepted": True,
+                                  "quote": "The worldwide total for Possible Love stands at $18,400,000"}
+                                 for c in candidates]}
+
+        previous = {"schema_version": 1, "reports": {}, "selections": {"bollywood": [], "world": []}}
+        with patch.dict(os.environ, {"TAVILY_API_KEY": "test-key", "CLOUDFLARE_API_TOKEN": "test-token"}), \
+             patch.object(bo, "run_selector", return_value=manifest):
+            summary = bo.run_refresh(tavily_fn=lambda query: [self.bom], gemini_fn=fake_gemini,
+                kv_read=lambda: previous, kv_write=writes.append, now=now)
+        self.assertEqual(summary["accepted"]["cumulative_total"], 1,
+                         "the world lane must finally produce a report end to end")
+        self.assertEqual(writes[0]["selections"]["world"], ["1483525"])
+        report = writes[0]["reports"]["1483525"]["cumulative_total"]
+        self.assertEqual(report["amount"], 18_400_000)
+        self.assertEqual(report["currency"], "USD")
+        self.assertEqual(report["scope"], "worldwide")
+        self.assertEqual(report["as_of"], "2026-11-01")
+        self.assertEqual(report["method"], "tavily_gemini")
+        self.assertEqual(report["source_name"], "boxofficemojo.com")
+        self.assertEqual(writes[0]["schema_version"], 1,
+                         "the snapshot keeps the exact schema the worker route consumes")
 
 
 if __name__ == "__main__":

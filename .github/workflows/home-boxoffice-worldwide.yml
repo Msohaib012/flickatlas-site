@@ -1,12 +1,21 @@
 name: Home worldwide Box Office refresh
 
-# Pakistan Standard Time (UTC+05:00): 14:00, 18:00, 22:00 and 01:00.
-# This scheduled job writes only the isolated HOME_BOXOFFICE KV key. It does
-# not commit, deploy, publish posts, or run the repository's hourly pipeline.
+# MANUAL FALLBACK ONLY since 2026-11-02. The collector now runs inside
+# the hourly pipeline on its 6h gate (scripts/pipeline_schedule.py
+# policy "home_boxoffice_worldwide", step "Homepage worldwide box
+# office"), because GitHub's scheduler dropped this workflow's slots
+# for a full day on 2026-11-01 and two writers racing on the same KV
+# key could drop each other's reports. The schedule is commented out
+# (the house pattern for retired workflows); workflow_dispatch remains
+# for an on-demand refresh. This job writes only the isolated
+# HOME_BOXOFFICE KV key. It does not commit, deploy, publish posts, or
+# run the repository's hourly pipeline.
+# Old schedule, for the record — Pakistan Standard Time (UTC+05:00):
+# 14:00, 18:00, 22:00 and 01:00.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 9,13,17,20 * * *"
+  # schedule:
+  #   - cron: "0 9,13,17,20 * * *"
 
 permissions:
   contents: read

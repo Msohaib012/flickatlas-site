@@ -1,18 +1,40 @@
 #!/usr/bin/env python3
-"""Scheduled homepage worldwide Box Office fallback.
+"""Homepage worldwide Box Office collector (hourly-pipeline gated).
 
-This script is intentionally inert unless called with --run. For each of the
-homepage's eight Bollywood and eight World Cinema selections, same-date,
-same-currency, provenance-complete India Net + Overseas components are summed
-as worldwide for matching windows. If that strict pair is missing, the slot
-runs one targeted Tavily worldwide search per uncovered window (cumulative
-total first, then last 7 days, then last 2 days; at most SEARCH_BUDGET
-searches per run) and sends qualifying excerpts to Gemini for review. Trade
-roundups often state a worldwide gross as an explicit range (e.g.
-"₹0.65–0.70 crore"); such a range is carried as amount + amount_high and is
-never collapsed to a single or midpoint figure. Inner movie pages keep the
-two columns separate; the job never searches components separately and never
-estimates or converts a source amount.
+This script is intentionally inert unless called with --run. Its scheduled
+home is the hourly pipeline (scripts/pipeline_schedule.py policy
+"home_boxoffice_worldwide", every 6h); the dedicated
+home-boxoffice-worldwide.yml workflow keeps workflow_dispatch only, as a
+manual fallback — two writers racing on the same KV key could drop each
+other's reports.
+
+For each of the homepage's eight Bollywood and eight World Cinema
+selections, same-date, same-currency, provenance-complete India Net +
+Overseas components are summed as worldwide for matching windows. If that
+strict pair is missing, the slot runs one targeted Tavily worldwide search
+per uncovered window (cumulative total first, then last 7 days, then last
+2 days; at most SEARCH_BUDGET searches per run) and sends qualifying
+excerpts to Gemini for review. Trade roundups often state a worldwide
+gross as an explicit range (e.g. "₹0.65–0.70 crore"); such a range is
+carried as amount + amount_high and is never collapsed to a single or
+midpoint figure. Inner movie pages keep the two columns separate; the job
+never searches components separately and never estimates or converts a
+source amount.
+
+Cumulative-total as-of evidence (2026-11-02 fix): a cumulative figure's
+as-of date may be established three ways, strongest first — the figure's
+own sentence spells the date ("sentence"); the article's structured
+Tavily publication date, when the sentence states the figure as the
+film's current total ("published_date"); or, on living box-office data
+pages (Box Office Mojo / The Numbers title pages), the retrieval date,
+because those pages publish the current cumulative total ("data_page").
+Before this fix only the first shape could pass, which is the
+India-trade sentence shape; Deadline/Variety prose and data pages never
+spell the date inside the figure's sentence, so the Tavily lane accepted
+zero world reports in its entire history (see
+scripts/test_home_boxoffice_worldwide.py and the project README notes).
+Projections/forecasts and social-media hosts are rejected outright, and
+every accepted figure still passes Gemini's verbatim-quote review.
 
 Accepted direct reports are upserted into a dedicated Cloudflare KV key. There
 is one latest value per movie/window, no append-only history, so retries do not
@@ -76,8 +98,39 @@ WINDOW_RE = {
     "today": re.compile(r"\btoday\b|\b\d{4}-\d{2}-\d{2}\b|\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\s+\d{1,2},?\s+\d{4}\b", re.I),
     "last_2_days": re.compile(r"\b(?:last|past)\s+(?:2|two)\s+days\b|\b(?:2|two)[ -]days?\b", re.I),
     "last_7_days": re.compile(r"\b(?:last|past)\s+(?:7|seven)\s+days\b|\b(?:last|past)\s+week\b|\b(?:7|seven)[ -]day(?:s)?\b", re.I),
-    "cumulative_total": re.compile(r"\b(?:cumulative(?:\s+worldwide)?\s+(?:total|gross)|total\s+(?:to\s+date|so\s+far|worldwide|gross)|worldwide\s+total(?:\s+(?:to\s+date|so\s+far))?|worldwide\s+gross\s+(?:total|to\s+date|so\s+far)|global\s+total(?:\s+(?:to\s+date|so\s+far))?|global\s+gross\s+(?:total|to\s+date|so\s+far)|grossed\s+worldwide)\b", re.I),
+    "cumulative_total": re.compile(r"\b(?:cumulative(?:\s+worldwide)?\s+(?:total|gross)|total\s+(?:to\s+date|so\s+far|worldwide|gross)|worldwide\s+total(?:\s+(?:to\s+date|so\s+far))?|worldwide\s+gross\s+(?:total|to\s+date|so\s+far)|global\s+total(?:\s+(?:to\s+date|so\s+far))?|global\s+gross\s+(?:total|to\s+date|so\s+far)|grossed\s+worldwide|(?:grossed|earned|collected|raked\s+in)\s+[^;]{0,48}?\bworldwide\b)\b", re.I),
 }
+# Hosts whose posts can never ORIGINATE a figure (owner rule, same spirit
+# as the advance-booking lane: social aggregators relay, they do not
+# report). theknot.com is the Tavily lane's known spam host, kept in step
+# with scripts/tavily_boxoffice.py BLOCKED_DOMAINS.
+SOCIAL_HOSTS = ("facebook.com", "instagram.com", "twitter.com", "x.com",
+                "threads.net", "tiktok.com", "youtube.com", "youtu.be",
+                "reddit.com", "t.me", "telegram.me")
+BLOCKED_HOSTS = SOCIAL_HOSTS + ("theknot.com",)
+# Living box-office DATA pages: their title pages publish the current
+# cumulative worldwide total, so for these hosts the retrieval date is a
+# valid as-of basis (the same treatment scripts/worldwide_boxoffice.py's
+# seed gives The Numbers totals). Articles on other hosts do NOT get
+# this basis.
+DATA_PAGE_HOSTS = ("boxofficemojo.com", "the-numbers.com")
+# Forward-looking markers: a figure the source presents as a projection,
+# forecast, expectation or target is not a measured gross, however the
+# sentence is dated. Bare "estimated"/"estimates" is deliberately absent:
+# trade reporting routinely labels MEASURED figures "estimates".
+PROJECTION_RE = re.compile(
+    r"\b(?:projected|projection|forecast|predicted|prediction|expected\s+to|"
+    r"on\s+track\s+to|set\s+to\s+(?:gross|earn|reach|cross|collect)|"
+    r"could\s+(?:gross|earn|reach|cross|collect)|"
+    r"will\s+(?:gross|earn|reach|cross|collect))\b", re.I)
+# Absurdity filter ONLY (never used to convert or report a figure): a
+# cumulative worldwide total outside this implied-USD band is a unit
+# misparse or a different quantity (budget, screen count, admissions).
+SANITY_USD_PER_UNIT = {"USD": 1.0, "EUR": 0.92, "GBP": 0.79, "INR": 88.0,
+                       "JPY": 155.0, "CNY": 7.3, "KRW": 1380.0,
+                       "AUD": 1.52, "CAD": 1.36, "BRL": 5.4, "MXN": 18.0}
+SANITY_MIN_USD = 250.0
+SANITY_MAX_USD = 4_000_000_000.0
 REVIEW_SCHEMA = {
     "type": "OBJECT",
     "properties": {
@@ -119,6 +172,14 @@ def make_query(item: dict[str, Any], window: str, today_ist: str) -> str:
     year = str(item.get("release_date") or "")[:4]
     if window == "cumulative_total":
         _, as_of = period_for("cumulative_total", today_ist)
+        if str(item.get("industry") or "") == "world":
+            # World trade reporting does not use the India-trade
+            # "collection" phrasing; aim the search at the sources that
+            # actually publish cumulative worldwide totals for
+            # international titles.
+            return (f'"{title}" {year} worldwide box office total: cumulative worldwide '
+                    "gross to date (Box Office Mojo, The Numbers, Deadline, Variety). "
+                    "Include the figure's currency and source citation.")
         return (f'"{title}" {year} worldwide box office collection: cumulative worldwide total '
                 f"gross as of {as_of}. Include the figure's currency, exact period, "
                 "and source citation.")
@@ -350,6 +411,133 @@ def published_date(result: dict[str, Any], excerpt: str, today_ist: str) -> str:
     return ""
 
 
+def host_of(url: str) -> str:
+    return (urllib.parse.urlparse(url or "").hostname or "").lower()
+
+
+def host_in(host: str, domains: tuple[str, ...]) -> bool:
+    return any(host == d or host.endswith("." + d) for d in domains)
+
+
+def structured_published_date(result: dict[str, Any]) -> str:
+    """Only Tavily's structured published_date field — never a date that
+    merely appears inside the page text (a data page's text is full of
+    other dates: release dates, chart dates, neighbouring films)."""
+    match = re.search(r"\d{4}-\d{2}-\d{2}", str(result.get("published_date") or ""))
+    if not match:
+        return ""
+    try:
+        return dt.date.fromisoformat(match.group(0)).isoformat()
+    except ValueError:
+        return ""
+
+
+_DATE_TEXT_RE = re.compile(r"\b(?:Jan\w*|Feb\w*|Mar\w*|Apr|May|Jun\w*|Jul\w*|Aug\w*|Sep\w*|Oct\w*|Nov\w*|Dec\w*)\s+\d{1,2},?\s+\d{4}\b|\b\d{1,2}\s+(?:Jan\w*|Feb\w*|Mar\w*|Apr|May|Jun\w*|Jul\w*|Aug\w*|Sep\w*|Oct\w*|Nov\w*|Dec\w*)\s+\d{4}\b|\b\d{4}-\d{2}-\d{2}\b", re.I)
+
+
+def sentence_date(sentence: str) -> str:
+    """The first calendar date a sentence itself spells out, or ""."""
+    for m in _DATE_TEXT_RE.finditer(sentence or ""):
+        raw = m.group(0)
+        try:
+            return dt.date.fromisoformat(raw).isoformat()
+        except ValueError:
+            pass
+        for fmt in ("%B %d, %Y", "%b %d, %Y", "%d %B %Y", "%d %b %Y"):
+            try:
+                return dt.datetime.strptime(raw.replace(",", ""), fmt.replace(",", "")).date().isoformat()
+            except ValueError:
+                continue
+    return ""
+
+
+def scope_governs_worldwide(content: str, start: int, end: int) -> bool:
+    """Fragment-proof scope governance over the raw content (sentence
+    segmentation breaks on decimal points — "55.1%" — which can sever a
+    scope label from its figure). The nearest scope word in the 160
+    chars before the figure governs, exactly the rule
+    scripts/tavily_boxoffice.py pick_worldwide() proved in production.
+    With no scope word before the figure, the figure is worldwide only
+    when a worldwide/global mention sits in its ±160-char window and no
+    competing scope appears there at all."""
+    before = content[max(0, start - 160):start]
+    scopes = list(SCOPE_RE.finditer(before))
+    if scopes:
+        return bool(WORLD_RE.fullmatch(scopes[-1].group(0)))
+    window = content[max(0, start - 160):min(len(content), end + 160)]
+    return bool(WORLD_RE.search(window)) and not re.search(
+        r"\b(?:domestic|india\s*net|overseas(?:\s+gross)?|international|north\s+america)\b",
+        window, re.I)
+
+
+def projection_in(sentence: str) -> bool:
+    return bool(PROJECTION_RE.search(sentence or ""))
+
+
+def amount_sane(amount: float, currency: str) -> bool:
+    """Absurdity band on the implied USD size (see SANITY_USD_PER_UNIT).
+    Unknown currencies get positivity only — the band must never reject
+    a real figure for a currency the table does not know."""
+    if not amount or amount <= 0:
+        return False
+    per = SANITY_USD_PER_UNIT.get(currency)
+    if per is None:
+        return True
+    usd = amount / per
+    return SANITY_MIN_USD <= usd <= SANITY_MAX_USD
+
+
+def cumulative_check(text: str, entry: dict[str, Any], *, basis: str, as_of: str,
+                     today_ist: str, release_floor: str = "") -> bool:
+    """Validate ONE amount occurrence in `text` as cumulative-total
+    evidence under one as-of basis. Used at candidate stage (text = the
+    full result content) and again at review stage (text = Gemini's
+    verbatim quote), so a candidate can never be accepted on evidence
+    weaker than what created it.
+
+    basis "sentence": the figure's own sentence spells the as-of date.
+    basis "published_date": as_of is the article's structured publication
+    date; the sentence must still state a cumulative worldwide figure
+    (phrase + content-level scope governance), be at most 30 days old,
+    and not predate the film's release.
+    basis "data_page": as_of is the retrieval date on a living data page
+    (host eligibility is the caller's check); the cumulative phrase is
+    waived — a data page's worldwide-governed figure IS its cumulative
+    total — but scope governance and the projection guard still apply.
+    """
+    sentence = sentence_context(text, entry["start"], entry["end"])
+    if not sentence or projection_in(sentence):
+        return False
+    if not as_of or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", as_of):
+        return False
+    # Every basis requires the figure to be governed by a worldwide/global
+    # scope at content level — the cumulative phrase alone is not enough
+    # ("cumulative total" also matches an India-only or domestic total).
+    if not scope_governs_worldwide(text, entry["start"], entry["end"]):
+        return False
+    age = (dt.date.fromisoformat(today_ist) - dt.date.fromisoformat(as_of)).days
+    if basis == "sentence":
+        # The cumulative phrase is required here too: a dated sentence
+        # about a SHORT window ("For the last 2 days from X through Y,
+        # the worldwide gross was $Z") spells dates and is worldwide in
+        # scope, but it is not a cumulative total.
+        return (bool(WINDOW_RE["cumulative_total"].search(sentence))
+                and sentence_date(sentence) == as_of and 0 <= age <= 30)
+    if basis == "published_date":
+        if not WINDOW_RE["cumulative_total"].search(sentence):
+            return False
+        if not (0 <= age <= 30):
+            return False
+        if release_floor:
+            floor = release_floor if len(release_floor) > 4 else release_floor + "-01-01"
+            if as_of < floor:
+                return False
+        return True
+    if basis == "data_page":
+        return as_of == today_ist
+    return False
+
+
 def worldwide_scope_valid(sentence: str, match_start: int) -> bool:
     before = sentence[:match_start]
     scopes = list(SCOPE_RE.finditer(before))
@@ -400,21 +588,49 @@ def make_candidate(item: dict[str, Any], window: str, result: dict[str, Any], to
     url = str(result.get("url") or "").strip()
     if not title or not content or not url.startswith("https://"):
         return None
+    if host_in(host_of(url), BLOCKED_HOSTS):
+        return None  # social posts and known spam hosts never originate a figure
     release_year = str(item.get("release_date") or "")[:4]
+    release_date = str(item.get("release_date") or "")
     if title_year_conflict(title, release_year, result_title):
         return None  # the whole result is about a different year's film
     source_date = published_date(result, result_title + " " + content, today_ist)
     period_start, period_end = period_for(window, today_ist)
     for amount in amount_events(content):
         sentence = sentence_context(content, amount["start"], amount["end"])
-        if not sentence or not worldwide_scope_valid(sentence, amount["start"] - (content.rfind(sentence) + 1)):
+        if not sentence or projection_in(sentence):
             continue
         if not title_matches(title, original, result_title + " " + sentence):
             continue
         if title_year_conflict(title, release_year, sentence):
             continue  # this sentence belongs to the same-named older/newer film
-        if not window_valid(window, sentence, source_date, today_ist, period_start, period_end):
-            continue
+        as_of, asof_basis = "", ""
+        if window == "cumulative_total":
+            if not amount_sane(amount["amount"], amount["currency"]):
+                continue
+            if amount.get("is_range") and not amount_sane(amount["amount_high"], amount["currency"]):
+                continue
+            # As-of bases, strongest first. "sentence" keeps the original
+            # strict rule; the two weaker bases are what world reporting
+            # (trade prose, data pages) can actually satisfy — see
+            # cumulative_check() for their guards.
+            bases = [(sentence_date(sentence), "sentence"),
+                     (structured_published_date(result), "published_date")]
+            if host_in(host_of(url), DATA_PAGE_HOSTS):
+                bases.append((today_ist, "data_page"))
+            for basis_as_of, basis_name in bases:
+                if basis_as_of and cumulative_check(
+                        content, amount, basis=basis_name, as_of=basis_as_of,
+                        today_ist=today_ist, release_floor=release_date):
+                    as_of, asof_basis = basis_as_of, basis_name
+                    break
+            if not as_of:
+                continue
+        else:
+            if not worldwide_scope_valid(sentence, amount["start"] - (content.rfind(sentence) + 1)):
+                continue
+            if not window_valid(window, sentence, source_date, today_ist, period_start, period_end):
+                continue
         source_start = max(0, content.rfind(sentence) - 180)
         source_end = min(len(content), content.rfind(sentence) + len(sentence) + 180)
         excerpt = (result_title + " — " + content[source_start:source_end]).strip()
@@ -426,6 +642,10 @@ def make_candidate(item: dict[str, Any], window: str, result: dict[str, Any], to
                 "source_title": result_title, "source_url": url,
                 "source_date": source_date, "amount": amount["amount"], "currency": amount["currency"],
                 "release_year": release_year}
+        if window == "cumulative_total":
+            candidate["as_of"] = as_of
+            candidate["asof_basis"] = asof_basis
+            candidate["period_end"] = as_of
         if amount.get("is_range"):
             candidate["amount_high"] = amount["amount_high"]
         return candidate
@@ -453,7 +673,13 @@ def build_review_prompt(today_ist: str, candidates: list[dict[str, Any]]) -> str
         "explicitly anchored seven-day period. For cumulative_total, it must establish a cumulative/total figure "
         "and the listed as-of date. Reject India Net alone, overseas alone, domestic-only, estimates, predictions, "
         "combined values not explicitly stated by that source, ambiguous currencies, unrelated films, or anything "
-        "that needs inference. Some candidates carry amount_high: the source stated an explicit range "
+        "that needs inference. For cumulative_total, the listed as_of date is the date the source measured the "
+        "total: it may be spelled out in the quote itself, or it is the article's publication date, or — for "
+        "Box Office Mojo / The Numbers title pages — the date the page was retrieved, because those pages publish "
+        "the current cumulative total. Accept such a candidate only when the quote presents the figure as the "
+        "film's current cumulative worldwide total at that date; reject lifetime figures quoted historically "
+        "inside a retrospective, and reject any figure the source presents as a projection, forecast, expectation "
+        "or target. Some candidates carry amount_high: the source stated an explicit range "
         "(amount to amount_high) in one currency. Accept such a candidate only when the quote states that same "
         "range with both bounds intact; never replace a range with a single value, its midpoint, or an average. "
         "Do not calculate or change amounts. Return the shortest verbatim quote that proves "
@@ -465,6 +691,10 @@ def build_review_prompt(today_ist: str, candidates: list[dict[str, Any]]) -> str
         entry = {k: c[k] for k in ("candidate_id", "movie_title", "window", "period_start", "period_end", "excerpt", "source_url", "amount", "currency")}
         if c.get("amount_high"):
             entry["amount_high"] = c["amount_high"]
+        if c.get("as_of"):
+            entry["as_of"] = c["as_of"]
+        if c.get("asof_basis"):
+            entry["asof_basis"] = c["asof_basis"]
         payload.append(entry)
     return (instructions + f"\nReview date (IST): {today_ist}.\nCandidates:\n"
             + json.dumps(payload, ensure_ascii=False))
@@ -488,10 +718,27 @@ def accepted_metric(candidate: dict[str, Any], review: dict[str, Any], today_ist
         start, end = candidate.get("period_start") or "", candidate.get("period_end") or today_ist
         as_of = end
     else:
-        as_of = candidate.get("source_date") or ""
+        as_of = candidate.get("as_of") or candidate.get("source_date") or ""
         if not as_of or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", as_of):
             return None
         start, end = "", as_of
+
+    def _evidence_ok(entry: dict[str, Any]) -> bool:
+        if candidate["window"] == "cumulative_total":
+            # Re-validate the quote under the SAME as-of basis that created
+            # the candidate — never weaker at review than at extraction.
+            return cumulative_check(quote, entry,
+                                    basis=candidate.get("asof_basis") or "sentence",
+                                    as_of=as_of, today_ist=today_ist,
+                                    release_floor=candidate.get("release_year") or "")
+        sentence = sentence_context(quote, entry["start"], entry["end"])
+        if not sentence:
+            return False
+        sentence_start = quote.rfind(sentence) + 1
+        offset = max(0, entry["start"] - sentence_start)
+        return (worldwide_scope_valid(sentence, offset)
+                and window_valid(candidate["window"], sentence, as_of, today_ist, start, end))
+
     evidence_match = False
     if candidate.get("amount_high"):
         # A range candidate verifies only against the same stated range in
@@ -502,11 +749,7 @@ def accepted_metric(candidate: dict[str, Any], review: dict[str, Any], today_ist
                            and abs(r["amount_high"] - candidate["amount_high"]) < 0.01
                            and r["currency"] == candidate["currency"]]
         for entry in matching_ranges:
-            sentence = sentence_context(quote, entry["start"], entry["end"])
-            sentence_start = quote.rfind(sentence) + 1 if sentence else 0
-            offset = max(0, entry["start"] - sentence_start)
-            if (worldwide_scope_valid(sentence, offset)
-                    and window_valid(candidate["window"], sentence, as_of, today_ist, start, end)):
+            if _evidence_ok(entry):
                 evidence_match = True
                 break
     else:
@@ -516,11 +759,7 @@ def accepted_metric(candidate: dict[str, Any], review: dict[str, Any], today_ist
         if not matching_amounts:
             return None
         for amount in matching_amounts:
-            sentence = sentence_context(quote, amount["start"], amount["end"])
-            sentence_start = quote.rfind(sentence) + 1 if sentence else 0
-            offset = max(0, amount["start"] - sentence_start)
-            if (worldwide_scope_valid(sentence, offset)
-                    and window_valid(candidate["window"], sentence, as_of, today_ist, start, end)):
+            if _evidence_ok(amount):
                 evidence_match = True
                 break
     if not evidence_match:
@@ -607,16 +846,28 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
     now_iso = now.replace(microsecond=0).isoformat().replace("+00:00", "Z")
     today_pkt = now.astimezone(PKT).date().isoformat()
     today_ist = now.astimezone(IST).date().isoformat()
-    tavily_key = os.environ.get("TAVILY_API_KEY", "").strip()
+    tavily_keys = [os.environ.get(name, "").strip()
+                   for name in ("TAVILY_API_KEY", "TAVILY_API_KEY_BACKUP")]
+    tavily_keys = [key for key in tavily_keys if key]
     token = os.environ.get("CLOUDFLARE_API_TOKEN", "").strip()
     account_id = os.environ.get("CLOUDFLARE_ACCOUNT_ID", DEFAULT_ACCOUNT_ID).strip()
     namespace_id = os.environ.get("HOME_BOXOFFICE_KV_NAMESPACE_ID", DEFAULT_NAMESPACE_ID).strip()
-    if not tavily_key:
+    if not tavily_keys:
         raise RuntimeError("TAVILY_API_KEY is missing; no search was run and KV was not written")
     if not token:
         raise RuntimeError("CLOUDFLARE_API_TOKEN is missing; KV was not read or written")
     if tavily_fn is None:
-        tavily_fn = lambda query: tavily_search(query, tavily_key)
+        def tavily_fn(query: str) -> list[dict[str, Any]]:
+            # Primary key first, backup on any failure — the same
+            # rotation scripts/tavily_boxoffice.py uses, so a single
+            # exhausted key cannot zero the whole refresh.
+            last_exc: Exception | None = None
+            for key in tavily_keys:
+                try:
+                    return tavily_search(query, key)
+                except Exception as exc:  # 429/401/5xx/transport: next key
+                    last_exc = exc
+            raise last_exc if last_exc is not None else RuntimeError("no Tavily key")
     if kv_read is None:
         kv_read = lambda: kv_get(token, account_id, namespace_id)
     if kv_write is None:
@@ -768,7 +1019,7 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Upsert verified same-window India Net + Overseas pairs for the homepage; use one targeted Tavily search per uncovered window (budget-capped, cumulative first) plus Gemini review to fill missing last-2-day, 7-day, or cumulative worldwide windows, then write the isolated Cloudflare KV snapshot.")
-    parser.add_argument("--run", action="store_true", help="required explicit execution switch; scheduled workflow only")
+    parser.add_argument("--run", action="store_true", help="required explicit execution switch; hourly pipeline gate or manual workflow dispatch only")
     args = parser.parse_args()
     if not args.run:
         parser.error("no action taken; pass --run only from the dedicated scheduled GitHub workflow")

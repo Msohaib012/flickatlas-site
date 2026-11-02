@@ -82,6 +82,8 @@ STEP_FILES = {
     "trending_weekly": ("Trending Topics", ["js/trending-topics.js"]),
     "overseas_ai": ("Box Office", ["out/boxoffice-staging/overseas-ai.json"]),
     "advance_booking": ("Box Office", ["js/advance-data.js", "out/advance-booking-state.json"]),
+    # Writes only the HOME_BOXOFFICE KV key — no repo files by design.
+    "home_boxoffice_worldwide": ("Box Office", []),
     "overseas_sweep": ("Box Office", ["out/boxoffice-staging/overseas-backfill.json",
                                     "out/overseas-sweep-state.json"]),
     "tavily_boxoffice": ("Box Office", ["out/boxoffice-staging/tavily.json"]),
@@ -205,6 +207,7 @@ def aggregate(path=DEFAULT_PATH):
         ("trending_weekly", "RUN_TRENDING", "TRENDING_OUTCOME"),
         ("overseas_ai", "RUN_OVERSEAS", "OVERSEAS_OUTCOME"),
         ("advance_booking", "RUN_ADVANCE", "ADVANCE_OUTCOME"),
+        ("home_boxoffice_worldwide", "RUN_HOME_WORLDWIDE", "HOME_WORLDWIDE_OUTCOME"),
         ("tavily_boxoffice", "RUN_TAVILY", "TAVILY_OUTCOME"),
         ("multisource_boxoffice", None, "MULTISOURCE_OUTCOME"),
         ("gemini_reviews", "RUN_REVIEWS", "REVIEWS_OUTCOME"),
