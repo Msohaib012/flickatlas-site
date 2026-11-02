@@ -29,6 +29,34 @@ Sources, in order:
      same pattern as tavily_boxoffice.py). A figure is accepted
      only when a result mentions the film AND one sentence ties
      the word "advance" to an explicit gross figure.
+  3. WORLD lane (2026-11-02, owner question "why only Indian?"):
+     titles whose published industry is "world" get their own
+     Tavily lane, because neither existing source can ever carry
+     them — Sacnilk's live page lists Indian films only, and US/UK
+     trade coverage never says "advance booking collection": it
+     reports "presales" / "pre-sales" / "advance ticket sales"
+     (Forbes via trade reports: Avengers: Doomsday crossed
+     $125M in WORLDWIDE presales ~7 weeks before release, while
+     this collector had never even searched the title). The lane
+     has its own per-run cap and a least-recently-searched
+     rotation, and its own acceptance: one sentence must tie a
+     presale keyword to an explicit $/£/€ figure, the figure's
+     SCOPE is read off the same sentence (worldwide > domestic >
+     national > single venue; widest scope wins), social-media
+     posts can corroborate but never originate a figure, and the
+     accepted row carries the scope label so a one-venue figure
+     is never silently compared with a worldwide one.
+
+Why the lanes are separate (the 2026-11-02 starvation bug): the
+old single queue sorted ALL 107 watchlist titles by release date
+and spent the whole 12-search cap on the 12 nearest — which,
+after the world seeder flood, were mostly obscure micro-titles
+re-searched identically every run (state showed
+tavily_attempts=2 on the same 12 titles in one day), while
+far-out titles (King, Dune: Part Three, Avengers: Doomsday)
+were NEVER searched at all despite the weekly far cadence.
+Lane-split budgets + "near titles at most once a day" + the
+world lane's LRU rotation make every title reachable.
 
 Acceptance is strict on purpose (the repo's provenance culture):
 watchlist membership alone NEVER produces an entry. A figure is
@@ -45,14 +73,14 @@ watched for 2-3 months, not days. The set is recomputed from
 js/published-titles.js on every run (a standing set, not a
 one-shot list). Per-title attempt state lives in
 out/advance-booking-state.json (committed like the other out/
-state files) and drives the Tavily cadence: a title within 21
-days of release is searched every run; a further-out title at
-most once a week, so far-out titles (which correctly yield
-nothing for a long time) do not burn the search cap. The Sacnilk
+state files) and drives the Tavily cadences (per lane, see
+tavily_due / world_due): near titles at most once a day,
+further-out titles on a multi-day rotation, so no title burns
+the cap twice in a day and no title starves. The Sacnilk
 live page costs one fetch regardless, so every candidate is
-checked against it on every run. The per-run Tavily cap
-(default 12) is spent nearest-release first, popularity as the
-tiebreak.
+checked against it on every run. Each lane's per-run Tavily
+cap (India 12, world 6) is spent nearest-release first within
+the lane.
 
 Usage:
   advance_booking.py            dry-run (default): print the
@@ -62,7 +90,11 @@ Usage:
                                 js/advance-data.js and update
                                 out/advance-booking-state.json.
   advance_booking.py --today YYYY-MM-DD   override the run date.
-  advance_booking.py --max-searches N     Tavily cap (default 12).
+  advance_booking.py --max-searches N     India-lane Tavily cap
+                                          (default 12).
+  advance_booking.py --max-world-searches N
+                                          World-lane Tavily cap
+                                          (default 6).
 """
 import argparse
 import json
@@ -86,7 +118,23 @@ FETCH_TIMEOUT = 30
 WINDOW_DAYS = 90          # watchlist horizon (owner scope 2026-11-01)
 NEAR_DAYS = 21            # within this, Tavily runs every run
 FAR_CADENCE_DAYS = 7      # beyond NEAR_DAYS, Tavily at most weekly
-MAX_SEARCHES = 12         # per-run Tavily cap
+MAX_SEARCHES = 12         # per-run Tavily cap (India lane)
+# World lane (2026-11-02): separate cap + rotation, see docstring.
+WORLD_MAX_SEARCHES = 6    # per-run Tavily cap (world lane)
+WORLD_MID_DAYS = 60       # world: <=60d cadence 3d, beyond weekly
+WORLD_MID_CADENCE_DAYS = 3
+# Approximate FX for converting a £/€ presale figure when the
+# source gives no $ rendering of its own (the as-reported figure
+# is always kept verbatim in the state detail). INR uses
+# sb.INR_PER_USD like everything else on the site.
+GBP_PER_USD = 1.27
+EUR_PER_USD = 1.08
+# Social posts can corroborate a figure but never originate one:
+# fan/aggregator accounts routinely restate (and garble) trade
+# numbers, so acceptance requires a non-social source.
+SOCIAL_HOSTS = ("facebook.com", "x.com", "twitter.com",
+                "instagram.com", "reddit.com", "youtube.com",
+                "youtu.be")
 STATE_REL = os.path.join("out", "advance-booking-state.json")
 MONTHS = sb.MONTHS
 
@@ -122,10 +170,20 @@ def load_watchlist(root, today, window_days=WINDOW_DAYS):
             pop = float(v.get("popularity") or 0)
         except (TypeError, ValueError):
             pop = 0.0
+        # Lane (2026-11-02): the published entry's industry field
+        # is canonical (UI.industryOf); fall back to origin country
+        # the same way the UI does when the field is missing.
+        industry = str(v.get("industry") or "").strip().lower()
+        if not industry:
+            countries = (v.get("origin_country")
+                         or v.get("production_countries") or [])
+            industry = ("bollywood" if "IN" in countries
+                        else "world")
         out.append({"tmdb_id": str(tid), "title": title,
                     "release_date": rel,
                     "days_to_release": (rel - today).days,
-                    "popularity": pop})
+                    "popularity": pop,
+                    "industry": industry})
     out.sort(key=lambda e: (-e["popularity"], e["days_to_release"]))
     return out
 
@@ -296,6 +354,176 @@ def extract_tavily_figure(results, entry):
     return None
 
 
+# --- source 3: world lane (Tavily, presale reporting) ------------------
+#
+# World presale news lives in trade coverage (Deadline, Variety,
+# THR, Forbes, The Numbers) and uses different words and mostly
+# USD figures. Acceptance mirrors the India lane's strictness:
+# film mentioned + ONE sentence tying a presale keyword to an
+# explicit figure + a real (non-social) source. The figure's
+# scope is part of the fact and is stored with the row.
+
+WORLD_FIGURE_PATTERNS = (
+    (re.compile(r"(?:\$|USD\s*)\s*([\d,]+\.?\d*)\s*"
+                r"(million|billion|M|K|thousand)?\b", re.I), "USD"),
+    (re.compile(r"£\s*([\d,]+\.?\d*)\s*"
+                r"(million|billion|M|K|thousand)?\b", re.I), "GBP"),
+    (re.compile(r"€\s*([\d,]+\.?\d*)\s*"
+                r"(million|billion|M|K|thousand)?\b", re.I), "EUR"),
+)
+PRESALE_WORDS = ("presale", "presales", "pre-sale", "pre-sales",
+                 "advance ticket", "advance sales",
+                 "advance booking")
+_UNIT_MULT = {"million": 1e6, "m": 1e6, "billion": 1e9,
+              "k": 1e3, "thousand": 1e3}
+
+
+def world_figure_usd(sent):
+    """One sentence -> (usd, as_reported_note, span) or None.
+    A $ figure in the sentence wins over a £/€ one (the source's
+    own conversion beats our approximate rate); a unit-less
+    currency figure counts only at 10,000+ (below that it is a
+    ticket price, not a gross). The span locates the winning
+    figure in the sentence so the scope can be read off the
+    figure's own clause, not the whole sentence."""
+    hits = []
+    for pat, cur in WORLD_FIGURE_PATTERNS:
+        m = pat.search(sent)
+        if not m:
+            continue
+        v = float(m.group(1).replace(",", ""))
+        unit = (m.group(2) or "").lower()
+        raw = v * _UNIT_MULT.get(unit, 1)
+        if not unit and raw < 10000:
+            continue
+        usd = raw if cur == "USD" else raw * (
+            GBP_PER_USD if cur == "GBP" else EUR_PER_USD)
+        hits.append((cur, round(usd), m.group(0).strip(),
+                     (m.start(), m.end())))
+    if not hits:
+        return None
+    for cur, usd, note, span in hits:
+        if cur == "USD":
+            return usd, note, span
+    return hits[0][1], hits[0][2], hits[0][3]
+
+
+_CLAUSE_SEPS = (",", ";", " while ", " whereas ", " — ", " – ")
+
+
+def world_scope(sent, span=None):
+    """The figure's scope, read off the figure's own CLAUSE of
+    the sentence — a sentence like "Global presales passed
+    $125M, while domestic sales cleared $50M" carries two
+    figures with two scopes, and each must be labelled by its
+    own clause (falls back to the whole sentence when the
+    clause states no scope). The NARROWEST explicitly stated
+    scope is the precise truth for a figure (a BFI IMAX gross
+    is a UK figure too, but calling it "UK pre-sales" would
+    already overstate it). Rank orders scope width for
+    choosing BETWEEN figures: worldwide 4 > domestic 3 >
+    national 2 > single venue 1 > unstated 0."""
+    if span:
+        a, b = span
+        start = 0
+        for sep in _CLAUSE_SEPS:
+            i = sent.rfind(sep, 0, a)
+            if i >= 0:
+                start = max(start, i + len(sep))
+        end = len(sent)
+        for sep in _CLAUSE_SEPS:
+            i = sent.find(sep, b)
+            if i >= 0:
+                end = min(end, i)
+        rank, label = world_scope(sent[start:end])
+        if rank:
+            return rank, label
+    s = sent.lower()
+    if re.search(r"\b(venue|bfi|single screen|one screen|"
+                 r"largest screen)\b", s):
+        return 1, "Single-venue pre-sales"
+    if re.search(r"\b(uk|britain|british|london)\b", s):
+        return 2, "UK pre-sales"
+    if re.search(r"\b(domestic|domestically|north america|"
+                 r"u\.s\.|united states|us theaters|us cinemas)\b",
+                 s):
+        return 3, "Domestic pre-sales"
+    if re.search(r"\b(worldwide|global|international)\b", s):
+        return 4, "Worldwide pre-sales"
+    return 0, "Pre-sales"
+
+
+def extract_world_figure(results, entry):
+    """Tavily results for one world title -> (usd, scope_label,
+    source_url, detail) or None. Opening-weekend PROJECTIONS are
+    not presales and are rejected even when a presale word is
+    nearby. Among accepted figures the widest scope wins; within
+    a scope the largest wins (presale totals are cumulative, so
+    the largest reported is the latest milestone)."""
+    nt = norm_title(entry["title"])
+    base = norm_title(entry["title"].split(":")[0])
+    best = None  # (scope_rank, usd, scope_label, url, detail)
+    for res in results or []:
+        url = res.get("url", "") or ""
+        host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+        if any(host == h or host.endswith("." + h)
+               for h in SOCIAL_HOSTS):
+            continue
+        rtitle = res.get("title", "") or ""
+        content = res.get("content", "") or ""
+        blob = norm_title(rtitle + " " + content[:600])
+        if nt not in blob and (not base or base not in blob):
+            continue
+        for sent in re.split(r"(?<=[.!?])\s+",
+                             rtitle + ". " + content):
+            low = sent.lower()
+            if not any(w in low for w in PRESALE_WORDS):
+                continue
+            if "opening" in low and ("project" in low
+                                     or "estimat" in low
+                                     or "forecast" in low
+                                     or "track" in low):
+                continue  # a forecast, not money already taken
+            got = world_figure_usd(sent)
+            if got is None:
+                continue
+            usd, note, span = got
+            if usd <= 0:
+                continue
+            rank, label = world_scope(sent, span)
+            cand = (rank, usd, label, url,
+                    f"{note} — {sent.strip()[:220]}")
+            if best is None or (cand[0], cand[1]) > (best[0],
+                                                     best[1]):
+                best = cand
+    if best is None:
+        return None
+    return best[1], best[2], best[3], best[4]
+
+
+def world_due(rec, entry, today):
+    """World-lane cadence: never searched is always due; within
+    NEAR_DAYS of release at most once a day; within
+    WORLD_MID_DAYS every WORLD_MID_CADENCE_DAYS; beyond that
+    weekly. Combined with the least-recently-searched sort in
+    main() the rotation provably reaches every world title —
+    presale milestones can land months before release (Doomsday
+    was reported at ~3 months out), so far titles must rotate
+    in, not wait behind the near queue."""
+    last = (rec or {}).get("last_tavily")
+    if not last:
+        return True
+    try:
+        age = (today - date.fromisoformat(last)).days
+    except ValueError:
+        return True
+    if entry["days_to_release"] <= NEAR_DAYS:
+        return age >= 1
+    if entry["days_to_release"] <= WORLD_MID_DAYS:
+        return age >= WORLD_MID_CADENCE_DAYS
+    return age >= FAR_CADENCE_DAYS
+
+
 def tavily_search(query, keys):
     """POST one search to api.tavily.com (same contract as
     tavily_boxoffice.tavily_search): keys are (slot, value) pairs
@@ -366,11 +594,14 @@ def save_state(root, state):
 
 
 def tavily_due(rec, entry, today):
-    """Per-title Tavily cadence: within NEAR_DAYS of release, every
-    run; further out, at most once per FAR_CADENCE_DAYS."""
-    if entry["days_to_release"] <= NEAR_DAYS:
-        return True
+    """Per-title Tavily cadence (India lane): within NEAR_DAYS of
+    release, at most once a DAY (2026-11-02 change — "every run"
+    re-searched the identical nearest 12 titles twice a day and
+    the queue behind them never advanced); further out, at most
+    once per FAR_CADENCE_DAYS."""
     last = (rec or {}).get("last_tavily")
+    if entry["days_to_release"] <= NEAR_DAYS:
+        return last != today.isoformat()
     if not last:
         return True
     try:
@@ -395,7 +626,10 @@ def main():
     ap.add_argument("--today", default=None,
                     help="override run date YYYY-MM-DD (testing)")
     ap.add_argument("--max-searches", type=int, default=MAX_SEARCHES,
-                    help="per-run Tavily cap (default 12)")
+                    help="per-run Tavily cap, India lane (default 12)")
+    ap.add_argument("--max-world-searches", type=int,
+                    default=WORLD_MAX_SEARCHES,
+                    help="per-run Tavily cap, world lane (default 6)")
     ap.add_argument("--window-days", type=int, default=WINDOW_DAYS,
                     help="watchlist horizon in days (default 90)")
     args = ap.parse_args()
@@ -445,47 +679,115 @@ def main():
               f"Rs{card['advance_cr']:.2f} Cr -> ${usd:,} "
               f"[sacnilk-live]")
 
-    # --- source 2: Tavily for the rest of the due watchlist ---
+    # --- sources 2+3: Tavily, in two lanes with separate caps ---
+    # One shared queue is what starved everything (see docstring):
+    # the India lane keeps its query/acceptance; the world lane
+    # gets its own cap, rotation and presale acceptance.
     keys = tavily_keys()
-    due = [e for e in watchlist
-           if e["tmdb_id"] not in matched_ids
-           and tavily_due(titles_state.get(e["tmdb_id"]), e, today)]
-    due.sort(key=lambda e: (e["days_to_release"], -e["popularity"]))
-    searches = 0
     if not keys:
         print("advance: SKIP tavily — no TAVILY_API_KEY / "
               "TAVILY_API_KEY_BACKUP in env")
-        due = []
-    for entry in due:
-        if searches >= args.max_searches:
-            print(f"advance: tavily cap {args.max_searches} reached; "
-                  f"{len(due) - searches} due title(s) deferred to "
-                  f"the next run")
-            break
+
+    def run_search(entry, query):
+        """One Tavily search with state bookkeeping; returns the
+        results list or None on failure."""
         tid = entry["tmdb_id"]
         rec = titles_state.setdefault(tid, {})
         rec["last_tavily"] = today.isoformat()
-        rec["tavily_attempts"] = int(rec.get("tavily_attempts") or 0) + 1
-        searches += 1
-        year = entry["release_date"].year
-        query = f'"{entry["title"]}" advance booking collection {year}'
+        rec["tavily_attempts"] = int(rec.get("tavily_attempts")
+                                     or 0) + 1
         try:
             data, _slot = tavily_search(query, keys)
         except Exception as e:
             print(f"  tavily failed for {entry['title']}: "
                   f"{type(e).__name__}")
-            continue
-        hit = extract_tavily_figure(data.get("results"), entry)
-        if hit is None:
-            print(f"  tavily: {entry['title']} ({tid}) — no accepted "
-                  f"advance figure (stays on watchlist)")
-            continue
-        usd, day_label, src_url = hit
-        found[tid] = {"date": entry["release_date"].isoformat(),
-                      "day": day_label, "collection": usd,
-                      "source": "tavily", "detail": src_url}
-        print(f"  tavily match: {entry['title']} ({tid}) ${usd:,} "
-              f"[tavily] {src_url}")
+            return None
+        return data.get("results")
+
+    # --- source 2: India lane (unchanged query + acceptance) ---
+    india_due = [e for e in watchlist
+                 if e["industry"] != "world"
+                 and e["tmdb_id"] not in matched_ids
+                 and tavily_due(titles_state.get(e["tmdb_id"]),
+                                e, today)]
+    india_due.sort(key=lambda e: (e["days_to_release"],
+                                  -e["popularity"]))
+    if keys:
+        searches = 0
+        for entry in india_due:
+            if searches >= args.max_searches:
+                print(f"advance: india tavily cap "
+                      f"{args.max_searches} reached; "
+                      f"{len(india_due) - searches} due title(s) "
+                      f"deferred to the next run")
+                break
+            searches += 1
+            year = entry["release_date"].year
+            query = (f'"{entry["title"]}" advance booking '
+                     f'collection {year}')
+            results = run_search(entry, query)
+            if results is None:
+                continue
+            hit = extract_tavily_figure(results, entry)
+            if hit is None:
+                print(f"  tavily: {entry['title']} "
+                      f"({entry['tmdb_id']}) — no accepted "
+                      f"advance figure (stays on watchlist)")
+                continue
+            usd, day_label, src_url = hit
+            found[entry["tmdb_id"]] = {
+                "date": entry["release_date"].isoformat(),
+                "day": day_label, "collection": usd,
+                "source": "tavily", "detail": src_url}
+            print(f"  tavily match: {entry['title']} "
+                  f"({entry['tmdb_id']}) ${usd:,} "
+                  f"[tavily] {src_url}")
+
+    # --- source 3: world lane (presale reporting) ---
+    world_due_list = [e for e in watchlist
+                      if e["industry"] == "world"
+                      and e["tmdb_id"] not in matched_ids
+                      and world_due(titles_state.get(e["tmdb_id"]),
+                                    e, today)]
+    # Least-recently-searched first (never searched leads), then
+    # nearest release — the rotation reaches every world title.
+    world_due_list.sort(
+        key=lambda e: (bool(titles_state.get(e["tmdb_id"], {})
+                            .get("last_tavily")),
+                       titles_state.get(e["tmdb_id"], {})
+                       .get("last_tavily") or "",
+                       e["days_to_release"], -e["popularity"]))
+    if keys:
+        wsearches = 0
+        for entry in world_due_list:
+            if wsearches >= args.max_world_searches:
+                print(f"advance: world tavily cap "
+                      f"{args.max_world_searches} reached; "
+                      f"{len(world_due_list) - wsearches} due "
+                      f"title(s) rotate to the next run")
+                break
+            wsearches += 1
+            year = entry["release_date"].year
+            query = (f'"{entry["title"]}" presales pre-sales '
+                     f'advance ticket sales {year}')
+            results = run_search(entry, query)
+            if results is None:
+                continue
+            hit = extract_world_figure(results, entry)
+            if hit is None:
+                print(f"  world: {entry['title']} "
+                      f"({entry['tmdb_id']}) — no accepted "
+                      f"presale figure (stays in rotation)")
+                continue
+            usd, scope_label, src_url, detail = hit
+            found[entry["tmdb_id"]] = {
+                "date": entry["release_date"].isoformat(),
+                "day": "", "collection": usd,
+                "source": "tavily-world", "scope": scope_label,
+                "detail": f"{detail} [{src_url}]"}
+            print(f"  world match: {entry['title']} "
+                  f"({entry['tmdb_id']}) ${usd:,} "
+                  f"[{scope_label}] {src_url}")
 
     # --- state bookkeeping (checked = judged against a source) ---
     for e in watchlist:
@@ -495,6 +797,9 @@ def main():
             rec["last_found"] = today.isoformat()
             rec["last_source"] = found[e["tmdb_id"]]["source"]
             rec["last_figure_usd"] = found[e["tmdb_id"]]["collection"]
+            if found[e["tmdb_id"]].get("scope"):
+                rec["last_scope"] = found[e["tmdb_id"]]["scope"]
+                rec["last_detail"] = found[e["tmdb_id"]]["detail"]
     # Prune state for titles that left the watchlist horizon and
     # have already released (keeps the file bounded).
     for tid in list(titles_state):
@@ -508,8 +813,28 @@ def main():
         rows = [r for r in merged.get(tid, [])
                 if not (r.get("date") == f["date"]
                         and (r.get("day") or "") == f["day"])]
-        rows.append({"date": f["date"], "day": f["day"],
-                     "collection": f["collection"]})
+        old = [r for r in merged.get(tid, [])
+               if r.get("date") == f["date"]
+               and (r.get("day") or "") == f["day"]]
+        row = {"date": f["date"], "day": f["day"],
+               "collection": f["collection"]}
+        if f.get("scope"):
+            # World-lane rows carry their scope so a worldwide
+            # presale total is never silently compared with a
+            # single-venue one. The homepage renderer ignores
+            # unknown keys; the scope is provenance until the
+            # parent chooses to display it.
+            row["scope"] = f["scope"]
+        if old and isinstance(old[0].get("collection"),
+                              (int, float)) \
+                and old[0]["collection"] > row["collection"]:
+            # Advance/presale totals are cumulative "so far"
+            # figures: a smaller figure found later is stale
+            # evidence (an older milestone still circulating),
+            # never a correction — keep the larger row whole,
+            # with its own scope.
+            row = old[0]
+        rows.append(row)
         rows.sort(key=lambda r: r.get("date", ""))
         merged[tid] = rows
     for tid in list(merged):
@@ -526,7 +851,8 @@ def main():
         for tid, f in found.items():
             print(f"  would write: {tid} {f['date']} "
                   f"day={f['day']!r} ${f['collection']:,} "
-                  f"via {f['source']}")
+                  f"via {f['source']}"
+                  f"{' [' + f['scope'] + ']' if f.get('scope') else ''}")
         print("advance: DRY-RUN — nothing written")
         return 0
     changed = sb.write_js_map(adv_path, "FA_ADVANCE", merged,
