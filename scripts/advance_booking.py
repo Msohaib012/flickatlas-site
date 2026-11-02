@@ -79,8 +79,13 @@ further-out titles on a multi-day rotation, so no title burns
 the cap twice in a day and no title starves. The Sacnilk
 live page costs one fetch regardless, so every candidate is
 checked against it on every run. Each lane's per-run Tavily
-cap (India 12, world 6) is spent nearest-release first within
-the lane.
+cap (India 12, world 6) is spent in TRENDING RANK order
+within the lane (see trend_key below): the homepage Advance
+Booking block is the top six high-trending upcoming films,
+Bollywood + World Cinema mixed (owner order 2026-11-02), so
+the collector hunts figures for the trending titles first —
+a same-week micro-title flood must never again consume the
+queue ahead of the tentpoles.
 
 Usage:
   advance_booking.py            dry-run (default): print the
@@ -139,18 +144,66 @@ STATE_REL = os.path.join("out", "advance-booking-state.json")
 MONTHS = sb.MONTHS
 
 
+# --- trending rank (SHARED DEFINITION — keep in sync) -----------
+# Owner order 2026-11-02: the homepage Advance Booking block is
+# the TOP SIX high-trending upcoming films, Bollywood + World
+# Cinema mixed, selected by TRENDING — never by figure size.
+# This collector hunts figures in the same order, so ONE rank is
+# defined here and mirrored in js/page-index.js (the advEntries
+# sort); the two MUST stay in sync:
+#   1. membership in the TMDB trending set (js/trending-data.js,
+#      window.FA_TRENDING): members first, in trending-list
+#      order;
+#   2. popularity desc (missing/None counts as 0) — popularity
+#      alone mis-ranks: tentpoles like Avengers: Doomsday carry
+#      popularity None in the published data, which is exactly
+#      why membership comes first;
+#   3. release date asc (soonest first) as the final tiebreak.
+
+def load_trending(root):
+    """js/trending-data.js -> {tmdb_id (str): trending position
+    (0-based)}. {} when the file is missing or unparseable —
+    popularity then carries the ordering alone."""
+    path = os.path.join(root, "js", "trending-data.js")
+    try:
+        with open(path, encoding="utf-8") as f:
+            raw = f.read()
+    except OSError:
+        return {}
+    m = re.search(r"FA_TRENDING\s*=\s*\[([0-9,\s]*)\]", raw)
+    if not m:
+        return {}
+    ids = [s.strip() for s in m.group(1).split(",") if s.strip()]
+    return {tid: i for i, tid in enumerate(ids)}
+
+
+def trend_key(entry):
+    """The shared trending rank as a sort key (see the block
+    comment above): trending members first in list order, then
+    popularity desc, then release date asc (days_to_release is
+    the same ordering). Lower sorts earlier = hunted/shown
+    first."""
+    idx = entry.get("trend_idx")
+    return (0 if idx is not None else 1,
+            idx if idx is not None else 0,
+            -entry["popularity"],
+            entry["days_to_release"])
+
+
 # --- watchlist ---------------------------------------------------------
 
 def load_watchlist(root, today, window_days=WINDOW_DAYS):
     """Published movies releasing in (today, today + window_days].
     Returns entries {tmdb_id, title, release_date (date),
-    days_to_release, popularity} sorted by popularity desc."""
+    days_to_release, popularity, trend_idx (int or None)}
+    sorted by the shared trending rank (trend_key)."""
     path = os.path.join(root, "js", "published-titles.js")
     if not os.path.exists(path):
         return []
     with open(path, encoding="utf-8") as f:
         raw = f.read()
     data = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])
+    trending = load_trending(root)
     out = []
     horizon = today + timedelta(days=window_days)
     for tid, v in (data or {}).items():
@@ -183,8 +236,9 @@ def load_watchlist(root, today, window_days=WINDOW_DAYS):
                     "release_date": rel,
                     "days_to_release": (rel - today).days,
                     "popularity": pop,
+                    "trend_idx": trending.get(str(tid)),
                     "industry": industry})
-    out.sort(key=lambda e: (-e["popularity"], e["days_to_release"]))
+    out.sort(key=trend_key)
     return out
 
 
@@ -505,11 +559,13 @@ def world_due(rec, entry, today):
     """World-lane cadence: never searched is always due; within
     NEAR_DAYS of release at most once a day; within
     WORLD_MID_DAYS every WORLD_MID_CADENCE_DAYS; beyond that
-    weekly. Combined with the least-recently-searched sort in
-    main() the rotation provably reaches every world title —
-    presale milestones can land months before release (Doomsday
-    was reported at ~3 months out), so far titles must rotate
-    in, not wait behind the near queue."""
+    weekly. Because a searched title drops out of the due set
+    until its cadence elapses, the trending-rank sort in main()
+    cannot starve the tail: the rotation keeps advancing and
+    reaches every world title — presale milestones can land
+    months before release (Doomsday was reported at ~3 months
+    out), so far titles must rotate in, not wait behind the
+    near queue."""
     last = (rec or {}).get("last_tavily")
     if not last:
         return True
@@ -643,10 +699,12 @@ def main():
           f"in the next {args.window_days} days, today "
           f"{today.isoformat()}")
     for e in watchlist[:15]:
+        trend = (f", trending #{e['trend_idx'] + 1}"
+                 if e.get("trend_idx") is not None else "")
         print(f"  watch: {e['title']} ({e['tmdb_id']}) rel "
               f"{e['release_date'].isoformat()} "
               f"(+{e['days_to_release']}d, popularity "
-              f"{e['popularity']:.1f})")
+              f"{e['popularity']:.1f}{trend})")
     if len(watchlist) > 15:
         print(f"  watch: ... and {len(watchlist) - 15} more")
 
@@ -710,8 +768,10 @@ def main():
                  and e["tmdb_id"] not in matched_ids
                  and tavily_due(titles_state.get(e["tmdb_id"]),
                                 e, today)]
-    india_due.sort(key=lambda e: (e["days_to_release"],
-                                  -e["popularity"]))
+    # Trending rank order (shared definition, see trend_key):
+    # the cap is spent on the high-trending titles first, not on
+    # whichever micro-title happens to release soonest.
+    india_due.sort(key=trend_key)
     if keys:
         searches = 0
         for entry in india_due:
@@ -749,14 +809,17 @@ def main():
                       and e["tmdb_id"] not in matched_ids
                       and world_due(titles_state.get(e["tmdb_id"]),
                                     e, today)]
-    # Least-recently-searched first (never searched leads), then
-    # nearest release — the rotation reaches every world title.
+    # Trending rank first (shared definition, see trend_key) —
+    # the rotation STARTS from the tentpoles, so a Doomsday or
+    # Dune is never queued behind same-week micro-titles;
+    # least-recently-searched breaks the remaining ties. The
+    # cadence gate (world_due) still throttles every title, so
+    # across runs the rotation keeps advancing and reaches
+    # every world title.
     world_due_list.sort(
-        key=lambda e: (bool(titles_state.get(e["tmdb_id"], {})
-                            .get("last_tavily")),
+        key=lambda e: (trend_key(e),
                        titles_state.get(e["tmdb_id"], {})
-                       .get("last_tavily") or "",
-                       e["days_to_release"], -e["popularity"]))
+                       .get("last_tavily") or ""))
     if keys:
         wsearches = 0
         for entry in world_due_list:

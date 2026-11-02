@@ -441,14 +441,35 @@
        releases simply shows fewer cards — older titles never backfill it. */
     const boHasKind = boPoolFor("bollywood").length > 0 || boPoolFor("international").length > 0;
     const boPicks = boPoolFor("bollywood").slice(0, HOME_LIMITS.boxoffice);
-    /* Advance booking (owner order 2026-11-01): high-demand movies whose
-       collection starts BEFORE release (window.FA_ADVANCE, Sacnilk reader;
-       USD per-day rows keyed by TMDB id). Upcoming titles only, ranked by
-       total advance so far, top 6. Sits inside the Box Office section,
-       outside the industry switcher's [data-results] container so it
-       survives tab switches. Renders only when advance data exists. */
+    /* Advance booking: high-demand movies whose collection starts
+       BEFORE release (window.FA_ADVANCE; USD per-day rows keyed by
+       TMDB id). Owner order 2026-11-02: the block is the TOP SIX
+       high-trending upcoming films, Bollywood + World Cinema
+       mixed, selected by TRENDING — never by figure size. A title
+       still needs a verified figure > 0 and a future release
+       date to appear. Sits inside the Box Office section, outside
+       the industry switcher's [data-results] container so it
+       survives tab switches. Renders only when advance data
+       exists.
+       TRENDING RANK (SHARED DEFINITION — keep in sync with
+       trend_key in scripts/advance_booking.py, which hunts
+       figures in this same order):
+         1. membership in the TMDB trending set
+            (window.FA_TRENDING, js/trending-data.js): members
+            first, in trending-list order;
+         2. popularity desc (missing/None counts as 0) —
+            popularity alone mis-ranks: tentpoles like Avengers:
+            Doomsday carry popularity null, which is exactly why
+            membership comes first;
+         3. release_date asc (soonest first), final tiebreak. */
     const advEntries = (() => {
       const adv = window.FA_ADVANCE || {};
+      const trendRank = new Map();
+      (Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : []).forEach((id, i) => {
+        const k = String(id);
+        if (!trendRank.has(k)) trendRank.set(k, i);
+      });
+      const popOf = (e) => { const p = Number(e && e.popularity); return Number.isFinite(p) ? p : 0; };
       const out = [];
       for (const entry of pubAll()) {
         const rows = adv[String(entry.id)];
@@ -461,7 +482,18 @@
         const scope = scopeRow && scopeRow.scope ? String(scopeRow.scope) : "";
         out.push({ entry, total, rel, scope });
       }
-      return out.sort((a, b) => b.total - a.total).slice(0, 6);
+      return out.sort((a, b) => {
+        const ra = trendRank.get(String(a.entry.id));
+        const rb = trendRank.get(String(b.entry.id));
+        if (ra !== undefined || rb !== undefined) {
+          if (ra === undefined) return 1;
+          if (rb === undefined) return -1;
+          if (ra !== rb) return ra - rb;
+        }
+        const dp = popOf(b.entry) - popOf(a.entry);
+        if (dp) return dp;
+        return a.rel < b.rel ? -1 : a.rel > b.rel ? 1 : 0;
+      }).slice(0, 6);
     })();
     const ADV_MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     const advHtml = advEntries.length ? `<div class="ott-group"><h3>Advance Booking</h3>
