@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T00:51:40Z",
-    "run_id": "41369306267",
-    "status": "success",
-    "checked": {
-     "candidates": 242,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan makes first appearance after ringing in birthday with family - WATCH",
-      "Director Michael Mann accidentally shoots himself at gun range",
-      "Tu Mil Jaaye: SRK woos Deepika and fights enemies in King's first song",
-      "I'm A Star Trek Fan, But I'd Never Heard This Cool Story About Patrick Stewart Showing Up On Jeremy Clarkson's Set",
-      "Witney Carson (Who Is Pregnant) Absolutely Crushed Her ‘Fat Thor’ Halloween Costume",
-      "I’m Loving This Adorably Awkward Clip Zendaya And Co. Dropped To Celebrate The Dune Movies Returning To Theaters",
-      "Forget 'Bosch,' Titus Welliver Stole the Show in One of Sci-Fi's Greatest Franchises",
-      "8 Most Perfect HBO Shows of the Last 5 Years, Ranked",
-      "The Perfect 'Gone Girl' Replacement Is Officially Streaming for Free Next Month",
-      "Matt Damon's Beloved ’90s Classic Is Officially Streaming on Prime Video",
-      "26 Years Later, 'Star Trek's Spiritual Successor Is Waiting To Be Discovered on Streaming",
-      "'The Boys' Favorite Officially Goes Full Horror in This New Free Streaming Gem",
-      "One of the Best Final Fantasy Games Is Officially Taking Over Xbox",
-      "30 Years Later, Kevin Costner’s Notorious Sci-Fi Flop Officially Makes a Massive Streaming Comeback",
-      "8 Most Violent Action Movies of All Time, Ranked",
-      "‘The Terminal List’ Star Chris Pratt Officially Returns With a New Military Movie This Month",
-      "Forget 'Indiana Jones,' Chuck Norris's 40-Year-Old Action Adventure Classic Is Taking Over Free Streaming",
-      "Netflix's New Fantasy Franchise With 33 Years of Lore Is Already Much Bigger Than Peak 'Game of Thrones'",
-      "Netflix's New World War II Epic Officially Compared To \"Intense\" Psychological Thriller",
-      "89-Episode Dark Fantasy Action Masterpiece With a \"Perfect\" Ending Stages Streaming Comeback 3 Years Later"
-     ],
-     "updated": [],
-     "count": 230,
-     "detail": "233 stories, 1 duplicates removed, 9 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T00:59:20Z",
     "run_id": "41370021327",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "407 stories, 0 duplicates removed, 84 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T00:52:02Z",
-    "run_id": "41369306267",
+    "run_at": "2026-11-02T23:51:10Z",
+    "run_id": "41548465009",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 376,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range",
-      "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday"
+      "SRK and Deepika fans spot 'Om Shanti Om' parallels in 'King'",
+      "japanese comfort foods for a unique dining experience zmt 3077283.html",
+      "stock market investing essential lessons for building financial knowledge 3077346.html",
+      "photo gallery ramayana star cast fees ranbir kapoor took rs 75 crore to play rama yash s price will shock you lara dutta kunal kapoor took only little chunks 3223437",
+      "video india bloc protest rs10000 rs11000 crore loss delhi traders slams india bloc rally congress 3223465",
+      "from skincare to styling how vaseline is bringing body glow into the fashion conversation",
+      "he has enough critics outside amitabh bachchan reveals why he never criticises abhishek bachchan at home",
+      "imran khan apologises to bombay hc over sir protest promises not to join similar demonstrations report",
+      "ranbir kapoor yashs ramayana to have special mumbai premiere on november 3 report",
+      "shah rukh khan waves at fans outside taj hotel after 61st birthday celebrations watch video",
+      "tu mil jaaye song from king leaves fans impressed with srk deepika padukones on screen chemistry",
+      "vaseline introduces its new shimmer body oils at lakme fashion week",
+      "I Can’t Believe John Stamos Didn’t Think Lori Loughlin Was Right For Full House’s Aunt Becky",
+      "I Enjoyed Backrooms, But Can We Finally Admit It Wasn't That Scary?",
+      "We're Only Two Days Out From Halloween, But It's Already 'SKIMSmas' For The Kardashians",
+      "Dexter: Resurrection's Season 2 Premiere Brought Back My Favorite Character, But The Show Is Repeating My Problem With Last Season",
+      "6 Thriller Shows From the 2010s That Are Perfect From Start to Finish",
+      "‘Severance’ Star’s New Movie Officially Explodes 1,173% at the Box Office",
+      "The Battlestar Galactica Franchise Officially Returns In 2027",
+      "'Coraline' Meets 'The Boogeyman' as Jessica Chastain's 93-Minute Movie Officially Hits a Box Office Milestone"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 358,
+     "detail": "376 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1468,27 +1447,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T23:51:48Z",
+    "run_id": "41548465009",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
+      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
+      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
+      "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T00:59:50Z",
-    "run_id": "41370021327",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1902,26 +1886,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T00:55:00Z",
-    "run_id": "41369306267",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T23:51:48Z",
+    "run_id": "41548465009",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2343,27 +2328,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T23:58:22Z",
+    "run_id": "41548465009",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "12m25uw",
+      "qencqr",
+      "ged0uq"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T00:54:58Z",
-    "run_id": "41369306267",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "408 collected staging rows from readers; 122 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+1 new rows, 5 updated rows, 402 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2777,19 +2765,27 @@
      "detail": "+0 new rows, 4 updated rows, 421 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T23:58:20Z",
+    "run_id": "41548465009",
+    "status": "success",
+    "checked": {
+     "candidates": 437,
+     "detail": "436 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 144,
+     "detail": "+0 new rows, 144 updated rows, 292 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3044,30 +3040,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T00:54:59Z",
-    "run_id": "41369306267",
-    "status": "success",
-    "checked": {
-     "candidates": 362,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday",
-      "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 362 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3583,19 +3568,32 @@
      "detail": "api-news.json 441 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T23:58:22Z",
+    "run_id": "41548465009",
+    "status": "success",
+    "checked": {
+     "candidates": 445,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
+      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
+      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
+      "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 445 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3871,19 +3869,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4204,29 +4202,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T00:52:02Z",
-    "run_id": "41369306267",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 230 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 0/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range",
-      "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4712,19 +4700,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T23:51:48Z",
+    "run_id": "41548465009",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 358 still unprocessed; today by category: movies 14/6, tv_dramas 12/4, episodes 1/2, box_office 14/6, celebrities_events 17/5, upcoming_releases 4/4, ott_streaming 8/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
+      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
+      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
+      "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5050,24 +5050,19 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 202,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5412,24 +5407,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 19,
+     "count": 400,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5759,24 +5754,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 53,
+     "count": 14,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6021,19 +6016,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6268,19 +6263,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6522,19 +6517,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6775,19 +6770,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7017,19 +7012,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7278,6 +7273,16 @@
     "category": "Trending News",
     "run_at": "2026-11-02T23:00:08Z",
     "run_id": "41540614909",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7539,16 +7544,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T00:55:13Z",
-    "run_id": "41369306267",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-02T01:00:00Z",
     "run_id": "41370021327",
     "status": "skipped",
@@ -7785,6 +7780,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7927,8 +7932,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T23:00:08Z"
+ "updated_at": "2026-11-02T23:58:34Z"
 }

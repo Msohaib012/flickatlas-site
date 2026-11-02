@@ -40240,5 +40240,405 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 21:59:36 +0000"
+  },
+  "1uaaedz": {
+    "id": "1uaaedz",
+    "type": "news",
+    "headline": "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
+    "dek": "Former co-stars Lucy Hale and Ian Harding return to the screen together in Hulu's upcoming holiday romantic comedy, which has just released its first official trailer.",
+    "body": [
+      {
+        "h": "Reuniting on Screen for the Holidays",
+        "p": [
+          "Fans of Pretty Little Liars have a fresh reason to celebrate this holiday season as former co-stars Lucy Hale and Ian Harding share the screen once more. The duo takes the lead in Hulu's upcoming romantic comedy feature, bringing familiar chemistry back to viewers.",
+          "The project places Hale in the spotlight as Christina Walker, a dedicated shop owner whose relentless focus on career growth left her personal romantic life far behind."
+        ]
+      },
+      {
+        "h": "A High-Stakes Holiday Promise",
+        "p": [
+          "Following another Christmas Eve spent without a romantic partner, Christina decides she must overhaul her approach before the next holiday season rolls around. This resolution prompts an unusual intervention from her close friend, who devises a demanding challenge.",
+          "To break her single streak, Christina commits to going on twelve separate dates over the course of twelve weeks in hopes of finding a genuine connection ahead of Christmas Eve."
+        ]
+      },
+      {
+        "h": "Disastrous Encounters and Hilarious Dates",
+        "p": [
+          "The newly dropped trailer provides a comedic look at the series of awkward and disastrous encounters that follow. Nine months prior to the holiday deadline, her friend Molly checks in to set the challenge into motion.",
+          "The subsequent dates feature a string of eccentric personalities, including a suitor who orders food for Christina and offers her an edible, another who attempts to livestream their outing, and a date who ends up getting arrested."
+        ]
+      },
+      {
+        "h": "Peculiar Companions and Exhausting Trials",
+        "p": [
+          "Other prospective suitors complicate matters further by bringing unexpected guests along to their outings, ranging from parents and dogs to a ventriloquist's dummy.",
+          "Growing thoroughly exhausted by the chaotic experiment, Christina begins questioning why she is putting herself through such frustrating dating ordeals."
+        ]
+      },
+      {
+        "h": "A Turning Point With Peter Grant",
+        "p": [
+          "The narrative shifts direction when Christina crosses paths with Peter Grant, portrayed by Ian Harding, bringing an intriguing new dynamic to her romantic pursuits.",
+          "This meeting offers a stark contrast to her previous misadventures, setting up the central romance of the holiday feature."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Details",
+        "p": [
+          "The film is directed by David Lipper, who additionally co-wrote the screenplay alongside Seth Howard. Alongside Hale and Harding, the supporting cast features Greer Grammer, Carter Jenkins, Zack Pearlman, and others.",
+          "Audiences can catch the romantic comedy when it officially premieres on Hulu on Friday, November 6."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Former Pretty Little Liars co-stars Lucy Hale and Ian Harding are reuniting for Hulu's upcoming holiday romantic comedy The 12 Dates of Christmas. The newly released trailer previews a series of disastrous dates before Hale's character crosses paths with Harding's role ahead of the film's November 6 premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Lucy Hale and Ian Harding star in The 12 Dates of Christmas",
+      "The 12 Dates of Christmas premieres on Hulu on Friday, November 6",
+      "David Lipper directed the film and co-wrote it with Seth Howard",
+      "Cast members include Kahyun Kim, Greer Grammer, Carter Jenkins, Zack Pearlman, Penelope Ann Miller, and Paul Ben-Victor"
+    ],
+    "entities": {
+      "people": [
+        "Lucy Hale",
+        "Ian Harding",
+        "Nitish Singh",
+        "Penelope Ann Miller",
+        "Paul Ben-Victor",
+        "Kahyun Kim",
+        "David Lipper",
+        "Seth Howard",
+        "Greer Grammer",
+        "Carter Jenkins",
+        "Zack Pearlman"
+      ],
+      "titles": [
+        "The 12 Dates of Christmas",
+        "Pretty Little Liars",
+        "X-Men",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Frozen 3",
+        "Frozen 4",
+        "Ebenezer Scrooge: A Christmas Carol Horror",
+        "The Holiday",
+        "North of North"
+      ]
+    },
+    "keywords": [
+      "The 12 Dates of Christmas",
+      "Lucy Hale Ian Harding",
+      "The 12 Dates of Christmas trailer",
+      "Hulu Christmas movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/lucy-hale.jpg?resize=1200,630",
+        "caption": "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 22:34:12 +0000"
+  },
+  "12m25uw": {
+    "id": "12m25uw",
+    "type": "news",
+    "headline": "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
+    "dek": "While the Hell episode of Prime Video's animated superhero series faced heavy criticism, its quality still outshines many competitors.",
+    "body": [
+      {
+        "h": "The Superhero Landscape and Invincible's Place",
+        "p": [
+          "Quality superhero programming has expanded far beyond traditional Marvel and DC cinematic universes, with various streaming platforms and anime studios offering formidable alternatives. Shows like The Umbrella Academy provided Netflix with strong viewership, while anime entries such as One Punch Man and My Hero Academia captured massive audiences globally.",
+          "Despite robust competition across the television landscape, Prime Video houses some of the most celebrated non-Marvel or DC superhero series of the past decade. Projects like The Tick and The Boys carved out distinct identities, yet the animated adaptation of Invincible consistently stands out as a true gem due to its intricate storytelling and memorable roster."
+        ]
+      },
+      {
+        "h": "A Mature, Expanding Narrative Scope",
+        "p": [
+          "At the core of the Prime Video series is a mature and emotional foundation that explores the trials of Mark Grayson alongside the overarching Viltrumite conflict. The narrative avoids stagnation by frequently spotlighting compelling secondary villains and supporting heroes, giving the fictional universe a vast and growing scope.",
+          "Being a faithful adaptation of the source material allows the project to maintain a gritty tone, though the creative team is never afraid to introduce thoughtful narrative modifications. This balance keeps the pacing brisk and ensures that even when the plot shifts away from the primary characters, the viewing experience remains engaging."
+        ]
+      },
+      {
+        "h": "Analyzing the Controversial Hell Episode",
+        "p": [
+          "Among the extensive episode list, the fourth season featured a notable installment titled Hurm, commonly referred to as the Hell episode, which deviated entirely from the original comic books. This storyline drew harsh criticism from portions of the fanbase, earning a reputation as the lowest-rated entry in an otherwise critically acclaimed run.",
+          "Despite generating a divisive reaction among viewers, examining the chapter in isolation reveals a competent piece of television that easily holds its own against rival superhero programs. The story brought back Damien Darkblood, a fan-favorite character from the first season, while serving as a pivotal emotional turning point for the protagonist."
+        ]
+      },
+      {
+        "h": "Lore Expansion and Character Development",
+        "p": [
+          "Venturing into the underworld granted Mark a fresh perspective on his heroism, proving that his chaotic journey contained deeper underlying purpose. Furthermore, the episode explained critical lore regarding the origin of monsters and the distinct historical eras within the fictional universe.",
+          "Before the action escalated, the opening phase featured a memorable heart-to-heart conversation between Mark and Art that grounded the episode emotionally. Written by series creator Robert Kirkman, the outing was far from arbitrary filler and contributed directly to the broader mythology."
+        ]
+      },
+      {
+        "h": "Ratings Context and Fan Expectations",
+        "p": [
+          "Following review bombing campaigns, the divisive installment secured an IMDb rating of 6.5, matching the weakest outings of celebrated classics like Batman: The Animated Series and outperforming the lowest-rated episodes of Teen Titans. This metric demonstrates that the hate directed at the chapter was largely disproportionate to its actual quality.",
+          "The intense scrutiny faced by the episode largely stems from the exceptionally high standards that audiences have come to expect from the series. Rather than indicating a permanent drop in quality, the strong reaction highlights how deeply invested the fanbase is in the overarching narrative trajectory."
+        ]
+      },
+      {
+        "h": "Future Prospects for Season 5 and Beyond",
+        "p": [
+          "With the series slated to return for a fifth season in 2027 and a confirmed sixth season renewal, creators have a clear opportunity to continue the underworld narrative thread. Although Mark defeated Volcanikka temporarily, her immortal nature ensures that the threat remains unresolved.",
+          "The narrative cliffhanger involving Damien Darkblood being sent by Satan to investigate human activity provides ample justification to revisit the storyline. Blending these supernatural elements with concurrent plots in future episodes could help win over skeptics who disliked the standalone format."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video's animated superhero series Invincible continues to garner attention for its high overall quality, even amidst fan debate over its fourth-season Hell episode. Despite facing criticism and lower ratings for straying from the source material, the controversial installment expanded vital series lore and paved the way for future storylines in upcoming seasons."
+        ]
+      }
+    ],
+    "facts": [
+      "Invincible is a 33-episode superhero series streaming on Amazon Prime Video.",
+      "The series premiered on March 26, 2021.",
+      "The show is created by Robert Kirkman and Simon Racioppa.",
+      "Season 4 features an underworld episode titled Hurm.",
+      "The Hell episode received an IMDb rating of 6.5.",
+      "Invincible is scheduled to return for season 5 in 2027 and has been renewed for season 6."
+    ],
+    "entities": {
+      "people": [
+        "Kyle McLeod",
+        "Robert Kirkman",
+        "Simon Racioppa",
+        "Steven Yeun",
+        "Sandra Oh",
+        "Damien Darkblood",
+        "Volcanikka",
+        "Art",
+        "Satan",
+        "Mark Grayson"
+      ],
+      "titles": [
+        "Invincible",
+        "The Walking Dead",
+        "Rick & Morty",
+        "One Punch Man",
+        "My Hero Academia",
+        "The Umbrella Academy",
+        "The Tick",
+        "The Boys",
+        "Teen Titans",
+        "Batman: The Animated Series",
+        "The Wheel Of Time",
+        "Star Wars: The Clone Wars"
+      ]
+    },
+    "keywords": [
+      "Invincible Prime Video",
+      "Invincible season 4 Hell episode",
+      "Robert Kirkman Invincible",
+      "Damien Darkblood Invincible season 4"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jack-quaid-as-hughie-campbell-holding-billy-butcher-s-karl-urban-hand-in-the-boys-finale.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 22:30:18 GMT"
+  },
+  "1tnn3mc": {
+    "id": "1tnn3mc",
+    "type": "news",
+    "headline": "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
+    "dek": "The acclaimed actor went to extreme lengths for his role in The Only Living Pickpocket in New York, training with a renowned sleight-of-hand expert and almost testing his new skills on an unsuspecting subway commuter.",
+    "body": [
+      {
+        "h": "Method Acting Close Call",
+        "p": [
+          "Preparing for an unconventional character can sometimes blur the lines between fiction and reality, as John Turturro recently discovered. While getting ready to play a professional pickpocket, the veteran performer came dangerously close to trying out his nascent criminal abilities on a real passenger riding the subway.",
+          "Reflecting on the near-miss during a media interview, the star admitted he had already placed his hand inside a stranger's bag before thinking better of the action. He ultimately stopped himself, noting that he would have been forced to return any stolen item and likely faced criminal charges."
+        ]
+      },
+      {
+        "h": "Working With Apollo Robbins",
+        "p": [
+          "To authentically portray a master of thievery, Turturro sought guidance from Apollo Robbins, a celebrated sleight-of-hand specialist. The actor praised his mentor's unique skill set, describing him as a fascinating blend of a concert pianist and a psychologist.",
+          "This rigorous instruction emphasized the intense psychological awareness and precise physical coordination required for the profession. Under this expert tutelage, the performer gained valuable insight into the delicate motions needed for his character."
+        ]
+      },
+      {
+        "h": "Practicing on the Film Set",
+        "p": [
+          "Rather than limiting his exercises to formal coaching sessions, Turturro brought his training directly to the production set. He regularly attempted to lift various objects from members of the crew to sharpen his execution.",
+          "While these on-set experiments occasionally resulted in getting caught, they provided practical experience. The actor noted that the fundamental secret to successful pickpocketing is that the victim should never feel the item being taken, comparing the craft to a magic trick."
+        ]
+      },
+      {
+        "h": "Plot and Character Details",
+        "p": [
+          "In his latest cinematic outing, Turturro portrays Harry Lehman, an aging pickpocket caught in a dangerous predicament. The narrative kicks off when the protagonist steals a high-value USB drive.",
+          "This impulsive theft places him in the crosshairs of a ruthless crime family. Lehman must race against time to return the item before his pursuers catch up with him."
+        ]
+      },
+      {
+        "h": "Cast and Crew Overview",
+        "p": [
+          "The creative vision behind the project comes from writer and director Noah Segan. His direction guides the pacing of the crime comedy as it unfolds on screen.",
+          "Turturro is joined by a prominent ensemble cast featuring Giancarlo Esposito, Steve Buscemi, Jamie Lee Curtis, Tatiana Maslany, and Will Price."
+        ]
+      },
+      {
+        "h": "Current Theatrical Run",
+        "p": [
+          "Fans interested in seeing the actor's intense method preparation can catch the feature film in cinemas now. The project is currently playing on the big screen for theatergoers.",
+          "The combination of a stellar ensemble and unique subject matter has brought considerable attention to the ongoing theatrical release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "John Turturro nearly faced a real arrest while practicing pickpocketing techniques for his role in The Only Living Pickpocket in New York. After training with sleight-of-hand artist Apollo Robbins and testing skills on his film crew, Turturro stars in the Noah Segan-directed movie alongside a notable cast in theaters now."
+        ]
+      }
+    ],
+    "facts": [
+      "John Turturro stars in The Only Living Pickpocket in New York",
+      "Apollo Robbins trained John Turturro in sleight-of-hand",
+      "Noah Segan wrote and directed the film",
+      "The cast includes Giancarlo Esposito, Steve Buscemi, Jamie Lee Curtis, Tatiana Maslany, and Will Price",
+      "The film is currently playing in theaters"
+    ],
+    "entities": {
+      "people": [
+        "John Turturro",
+        "Apollo Robbins",
+        "Noah Segan",
+        "Giancarlo Esposito",
+        "Steve Buscemi",
+        "Jamie Lee Curtis",
+        "Tatiana Maslany",
+        "Will Price",
+        "Harry Lehman"
+      ],
+      "titles": [
+        "The Only Living Pickpocket in New York"
+      ]
+    },
+    "keywords": [
+      "John Turturro The Only Living Pickpocket in New York",
+      "The Only Living Pickpocket in New York movie",
+      "John Turturro pickpocket training",
+      "Noah Segan film"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/john-turturro.jpg?resize=1200,630",
+        "caption": "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 21:37:16 +0000"
+  },
+  "ze3vtb": {
+    "id": "ze3vtb",
+    "type": "news",
+    "headline": "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana",
+    "dek": "Discover the staggering remuneration packages and unique profit-sharing deals of the principal cast for the much-anticipated mythological duology, Ramayana.",
+    "body": [
+      {
+        "h": "Introduction to the Grand Cinematic Scale",
+        "p": [
+          "Positioned as potentially the most colossal blockbuster in the history of Indian cinema, Nitesh Tiwari's ambitious duology Ramayana has generated immense buzz. Mounted on an extravagant and epic scale, the production brings together a formidable ensemble of pan-Indian talent.",
+          "As anticipation mounts for this mythological adaptation, details regarding the financial remuneration of its high-profile cast have emerged, revealing diverse compensation models ranging from hefty upfront fees to profit-sharing partnerships and philanthropic gestures."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Leading Remuneration",
+        "p": [
+          "Stepping into the pivotal role of Lord Rama, Bollywood star Ranbir Kapoor commands the highest upfront paycheck for the project. According to reports cited from a CineAIx social media update, the actor secured a substantial Rs 75 crore for his portrayal.",
+          "This considerable financial figure establishes him as the most expensive actor attached to the core cast of the production, reflecting his stellar box-office pull and central importance to the epic narrative."
+        ]
+      },
+      {
+        "h": "Yash's Unique Co-Producer Arrangement",
+        "p": [
+          "Pan-India star Yash takes on the formidable antagonist role of Ravana in the duology, though his financial arrangement deviates entirely from standard actor fees. Opting against taking an upfront salary, Yash shares producing duties alongside Namit Malhotra.",
+          "Instead of a fixed remuneration, the actor-producer will claim a designated percentage from the overall box-office collections and commercial profits generated by the cinematic release."
+        ]
+      },
+      {
+        "h": "Sai Pallavi Portrays Sita Maa",
+        "p": [
+          "Acclaimed actress Sai Pallavi assumes the revered mantle of Sita Maa in Nitesh Tiwari's directorial venture. Her casting brings immense gravitas to the central dynamic of the epic tale.",
+          "For her significant contribution to the project, Pallavi secured a fee of Rs 6 crore, positioning her as the highest-earning female actor among the primary ensemble."
+        ]
+      },
+      {
+        "h": "Key Supporting Cast and Action Heavyweights",
+        "p": [
+          "The supporting and extended roster features several prominent names commanding notable salaries. Powerhouse action star Sunny Deol steps into the role of Lord Hanuman, drawing a fee of Rs 20 crore.",
+          "Meanwhile, television star Ravi Dubey embodies Lord Rama's brother Laxmana for a compensation of Rs 3 crore. Rakul Preet Singh rounds out another notable antagonist dynamic as Shurpanakha, reportedly charging Rs 1.50 crore for the performance."
+        ]
+      },
+      {
+        "h": "Philanthropy and Modest Remunerations",
+        "p": [
+          "The project also highlights contrasting approaches to remuneration, with some actors opting for minimal charges or entirely foregoing their salaries. Vivek Oberoi, who portrays Shurpanakha's husband Vidhyutjeeva, chose to take no payment, requesting the production team to donate his salary toward children battling cancer.",
+          "Further down the scale, Kunal Kapoor charged Rs 30 lakh to play Lord Indra, while Lara Dutta received Rs 25 lakh for her portrayal of Queen Kaikeyi, making her the lowest-compensated actor on the principal roster."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Details surrounding the star-cast remunerations for Nitesh Tiwari's Ramayana duology reveal a wide spectrum of financial terms, led by Ranbir Kapoor's Rs 75 crore fee and Yash's profit-sharing model as co-producer. The ensemble features notable investments in actors like Sunny Deol and Sai Pallavi alongside philanthropic contributions from cast members like Vivek Oberoi."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor took Rs 75 crore to play Rama.",
+      "Yash is a co-producer with Namit Malhotra and takes a share from collections instead of a fee.",
+      "Sai Pallavi took a fee of Rs 6 crore for playing Sita Maa.",
+      "Ravi Dubey charged Rs 3 crore to play Laxmana.",
+      "Sunny Deol charged Rs 20 crore to play Hanuman.",
+      "Rakul Preet Singh charged Rs 1.50 crore to play Shurpanakha.",
+      "Vivek Oberoi took no money and asked for his remuneration to be donated to kids fighting cancer.",
+      "Kunal Kapoor charged Rs 30 lakh to play Lord Indra.",
+      "Lara Dutta earned Rs 25 lakh for the role of Queen Kaikeyi."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana star cast fees",
+      "Ranbir Kapoor Ramayana salary",
+      "Yash Ramayana profit sharing",
+      "Ramayana cast remuneration"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/11/02/2761346-ramayana-poster.jpg",
+        "caption": "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana",
+        "source": "DNA India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T23:51:48Z"
   }
 };
