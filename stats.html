@@ -61,6 +61,15 @@ h1{font-size:27px;margin:0 0 4px;color:#0b3b34}
 .pn-bar i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,#0D9488,#2dd4bf)}
 .pn-empty{font-size:13px;color:#7b968f;line-height:1.5;margin:0}
 .st-note{font-size:13px;color:#5b7a73;line-height:1.6;margin-top:22px}
+.st-periodbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:26px 0 2px}
+.st-periodbar .st-plabel{font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#5b7a73}
+.st-dd{position:relative}
+.st-dd-btn{display:inline-flex;align-items:center;gap:8px;background:#e2f4ef;border:1px solid #9fd8cc;color:#0b6e5f;border-radius:999px;padding:8px 16px;font-weight:700;font-size:14px;cursor:pointer;font-family:inherit}
+.st-dd-btn .st-caret{font-size:11px;opacity:.8}
+.st-dd-menu{position:absolute;top:calc(100% + 6px);left:0;min-width:190px;background:#fff;border:1px solid #d9e8e4;border-radius:14px;padding:6px;z-index:60;box-shadow:0 14px 34px rgba(11,59,52,.18)}
+.st-dd-menu button{display:block;width:100%;text-align:left;background:none;border:0;color:#17352f;font-size:14px;font-weight:600;padding:9px 12px;border-radius:9px;cursor:pointer;font-family:inherit}
+.st-dd-menu button:hover{background:#eef7f4}
+.st-dd-menu button.on{background:#e2f4ef;color:#0b6e5f}
 </style>
 </head>
 <body>
@@ -90,7 +99,21 @@ h1{font-size:27px;margin:0 0 4px;color:#0b3b34}
   <p id="st-status" style="font-size:13.5px;color:#5b7a73"></p>
   <div class="st-bars-wrap"><div class="st-bars" id="st-bars"></div></div>
 
-  <div class="st-secbar"><h2>Audience</h2><span class="st-hint">last 30 days — where visitors come from</span></div>
+  <div class="st-periodbar">
+    <span class="st-plabel">Show data for</span>
+    <div class="st-dd">
+      <button type="button" class="st-dd-btn" id="st-period-btn"><span id="st-period-cur">Today</span><span class="st-caret">▾</span></button>
+      <div class="st-dd-menu" id="st-period-menu" hidden>
+        <button type="button" data-period="today" class="on">Today</button>
+        <button type="button" data-period="yesterday">Yesterday</button>
+        <button type="button" data-period="7d">Last 7 days</button>
+        <button type="button" data-period="30d">Last 30 days</button>
+        <button type="button" data-period="all">All time</button>
+      </div>
+    </div>
+    <span class="st-hint">Audience, Content and Search below follow this</span>
+  </div>
+  <div class="st-secbar"><h2>Audience</h2><span class="st-hint" id="aud-hint">today — where visitors come from</span></div>
   <div class="st-panels">
     <div class="st-panel"><h3>👀 Live now — open pages</h3><div id="pn-live"><p class="pn-empty">Loading…</p></div></div>
     <div class="st-panel"><h3>🔗 Traffic sources</h3><div id="pn-sources"><p class="pn-empty">Loading…</p></div></div>
@@ -101,22 +124,22 @@ h1{font-size:27px;margin:0 0 4px;color:#0b3b34}
     <div class="st-panel"><h3>💛 Most loyal visitors</h3><div id="pn-loyal"><p class="pn-empty">Loading…</p></div></div>
   </div>
 
-  <div class="st-secbar"><h2>Content</h2><span class="st-hint">last 30 days — what visitors open most</span></div>
+  <div class="st-secbar"><h2>Content</h2><span class="st-hint" id="content-hint">today — what visitors open most</span></div>
   <div class="st-panels">
     <div class="st-panel"><h3>🎬 Top movies, shows &amp; stories</h3><div id="pn-titles"><p class="pn-empty">Loading…</p></div></div>
     <div class="st-panel"><h3>🔥 Rising today</h3><div id="pn-rising"><p class="pn-empty">Loading…</p></div></div>
     <div class="st-panel"><h3>📄 Top pages</h3><div id="pn-pages"><p class="pn-empty">Loading…</p></div></div>
   </div>
 
-  <div class="st-secbar"><h2>Search</h2><span class="st-hint">last 30 days — how visitors find titles</span></div>
+  <div class="st-secbar"><h2>Search</h2><span class="st-hint" id="search-hint">today — how visitors find titles</span></div>
   <div class="st-panels">
     <div class="st-panel"><h3>🔍 Google visitors landed on</h3><div id="pn-google"><p class="pn-empty">Loading…</p></div></div>
     <div class="st-panel"><h3>⌨️ Searched on FlickAtlas</h3><div id="pn-searches"><p class="pn-empty">Loading…</p></div></div>
     <div class="st-panel"><h3>🚫 Searched — nothing found</h3><div id="pn-zero"><p class="pn-empty">Loading…</p></div></div>
   </div>
 
-  <p class="st-note">How to read this: every number counts <b>unique visitors</b> — the same person is counted once per day, and once across the whole 7/30-day window. The ▲▼ chips compare with the previous period (today vs yesterday, 7 days vs the 7 before, and so on). Inside each box: <b>New</b> = first time ever, <b>Returning</b> = seen on an earlier day, <b>Repeat</b> = visited on 2+ different days, <b>Total</b> = daily counts added up. The lists count one view per visitor per page per day, capped at 15 rows each, and started collecting on 1 Nov 2026. "Google visitors landed on" shows the pages people reached from Google — the closest sign of what they searched there; "Searched on FlickAtlas" is what people type in this site's own search box. Days roll over at 5:00 AM Pakistan time. This page refreshes itself every 30 seconds.</p>
+  <p class="st-note">How to read this: every number counts <b>unique visitors</b> — the same person is counted once per day, and once across the whole 7/30-day window. The ▲▼ chips compare with the previous period (today vs yesterday, 7 days vs the 7 before, and so on). Inside each box: <b>New</b> = first time ever, <b>Returning</b> = seen on an earlier day, <b>Repeat</b> = visited on 2+ different days, <b>Total</b> = daily counts added up. The lists count one view per visitor per page per day, capped at 15 rows each, and started collecting on 1 Nov 2026. "Google visitors landed on" shows the pages people reached from Google — the closest sign of what they searched there; "Searched on FlickAtlas" is what people type in this site's own search box. Days roll over at midnight Pakistan time. This page refreshes itself every 30 seconds.</p>
 </main>
-<script id="page-script" src="js/page-fa-stats.js?v=fa-202611020654"></script>
+<script id="page-script" src="js/page-fa-stats.js?v=fa-202611021220"></script>
 </body>
 </html>

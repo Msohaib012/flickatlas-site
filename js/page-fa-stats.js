@@ -58,6 +58,97 @@
     }
     return totals;
   }
+  /* --- Period selector for the breakdown panels (owner request 2026-11-02,
+     same as the Arenaflix stats page): Today / Yesterday / Last 7 days /
+     Last 30 days / All time, default Today. Panels re-render from the
+     already-fetched counters; no extra reads. --- */
+  var PERIOD = "today";
+  var PERIOD_LABELS = { today: "Today", yesterday: "Yesterday", "7d": "Last 7 days", "30d": "Last 30 days", all: "All time" };
+  var PERIOD_SHORT = { today: "today", yesterday: "yesterday", "7d": "last 7 days", "30d": "last 30 days", all: "all time" };
+  var LAST = null;
+  function periodKeys(root, now) {
+    if (PERIOD === "all") return root && typeof root === "object" ? Object.keys(root).sort() : [];
+    var n = PERIOD === "7d" ? 7 : PERIOD === "30d" ? 30 : 1;
+    var from = PERIOD === "yesterday" ? 1 : 0;
+    var keys = [];
+    for (var i = from; i < from + n; i++) keys.push(keyOf(now - i * 86400000));
+    return keys;
+  }
+  function aggregateKeys(root, keys) {
+    var totals = {};
+    if (root && typeof root === "object") {
+      keys.forEach(function (kk) {
+        var bucket = root[kk];
+        if (bucket && typeof bucket === "object") {
+          for (var k in bucket) {
+            var sub = bucket[k];
+            var c = sub && typeof sub === "object" ? Object.keys(sub).length : 0;
+            totals[k] = (totals[k] || 0) + c;
+          }
+        }
+      });
+    }
+    return totals;
+  }
+  async function renderPeriod() {
+    if (!LAST) return;
+    var now = LAST.now, hits = LAST.hits, src = LAST.src, dev = LAST.dev, geo = LAST.geo,
+        qs = LAST.qs, qz = LAST.qz, ref = LAST.ref, hr = LAST.hr;
+    var lbl = PERIOD_SHORT[PERIOD];
+    if ($("aud-hint")) $("aud-hint").textContent = lbl + " — where visitors come from";
+    if ($("content-hint")) $("content-hint").textContent = lbl + " — what visitors open most";
+    if ($("search-hint")) $("search-hint").textContent = lbl + " — how visitors find titles";
+    var menu = $("st-period-menu");
+    if (menu) {
+      var btns = menu.querySelectorAll("button[data-period]");
+      for (var bi = 0; bi < btns.length; bi++) btns[bi].className = btns[bi].getAttribute("data-period") === PERIOD ? "on" : "";
+    }
+    var hitTotals = aggregateKeys(hits, periodKeys(hits, now));
+    var titleRows = sortedRows(Object.keys(hitTotals).filter(function (k) { return /^[mtn]_\d+$/.test(k); })
+      .reduce(function (o, k) { o[k] = hitTotals[k]; return o; }, {}), 15);
+    var pageRows = sortedRows(Object.keys(hitTotals).filter(function (k) { return !/^[mtn]_\d+$/.test(k) && !/^w_[mt]_\d+$/.test(k); })
+      .reduce(function (o, k) { o[k] = hitTotals[k]; return o; }, {}), 15);
+    var names = await Promise.all(titleRows.map(function (r) { return titleName(r.key); }));
+    $("pn-titles").innerHTML = panelHtml(titleRows.map(function (r, ix) { return { key: names[ix], val: r.val }; }), function (n) { return n; }, false);
+    $("pn-pages").innerHTML = panelHtml(pageRows, function (k) { return PAGE_NAMES[k] || k; }, false);
+    $("pn-sources").innerHTML = panelHtml(sortedRows(aggregateKeys(src, periodKeys(src, now)), 15), function (k) { return SRC_NAMES[k] || k; }, true);
+    $("pn-devices").innerHTML = panelHtml(sortedRows(aggregateKeys(dev, periodKeys(dev, now)), 15), function (k) { return DEV_NAMES[k] || k; }, true);
+    $("pn-countries").innerHTML = panelHtml(sortedRows(aggregateKeys(geo, periodKeys(geo, now)), 15), function (k) { return countryName(k); }, true);
+
+    /* Google visitors: pages opened by devices whose source that
+       day was Google (intersection of src.google and hits). */
+    var gTotals = {};
+    if (src && hits && typeof src === "object" && typeof hits === "object") {
+      var gKeys = periodKeys(src, now);
+      for (var gi = 0; gi < gKeys.length; gi++) {
+        var gk = gKeys[gi];
+        var gDay = src[gk] && src[gk].google ? src[gk].google : null;
+        var hDay = hits[gk];
+        if (!gDay || !hDay) continue;
+        for (var pk in hDay) {
+          var bucket2 = hDay[pk];
+          if (!bucket2 || typeof bucket2 !== "object") continue;
+          var cnt = 0;
+          for (var did in bucket2) { if (gDay[did]) cnt++; }
+          if (cnt > 0) gTotals[pk] = (gTotals[pk] || 0) + cnt;
+        }
+      }
+    }
+    var gTitleRows = sortedRows(Object.keys(gTotals).filter(function (k) { return /^[mtn]_\d+$/.test(k) || /^w_[mt]_\d+$/.test(k); })
+      .reduce(function (o, k) { o[k] = gTotals[k]; return o; }, {}), 15);
+    var gPageRows = sortedRows(Object.keys(gTotals).filter(function (k) { return !/^[mtn]_\d+$/.test(k) && !/^w_[mt]_\d+$/.test(k); })
+      .reduce(function (o, k) { o[k] = gTotals[k]; return o; }, {}), 15);
+    var gNames = await Promise.all(gTitleRows.map(function (r) { return titleName(r.key.replace(/^w_/, "")); }));
+    var gRows = gTitleRows.map(function (r, ix) { return { key: gNames[ix], val: r.val }; })
+      .concat(gPageRows.map(function (r) { return { key: PAGE_NAMES[r.key] || r.key, val: r.val }; }))
+      .sort(function (a, b) { return b.val - a.val; }).slice(0, 15);
+    $("pn-google").innerHTML = panelHtml(gRows, function (n) { return n; }, false);
+    $("pn-searches").innerHTML = panelHtml(sortedRows(aggregateKeys(qs, periodKeys(qs, now)), 15), function (k) { return k.replace(/_/g, " "); }, false);
+    $("pn-zero").innerHTML = panelHtml(sortedRows(aggregateKeys(qz, periodKeys(qz, now)), 15), function (k) { return k.replace(/_/g, " "); }, false);
+    $("pn-ref").innerHTML = panelHtml(sortedRows(aggregateKeys(ref, periodKeys(ref, now)), 15), function (k) { return k.replace(/_/g, "."); }, false);
+    $("pn-hours").innerHTML = panelHtml(sortedRows(aggregateKeys(hr, periodKeys(hr, now)), 15), function (k) { return hourLabel(k); }, false);
+  }
+
   function sortedRows(totals, limit) {
     return Object.keys(totals).map(function (k) { return { key: k, val: totals[k] }; })
       .filter(function (r) { return r.val > 0; })
@@ -168,6 +259,7 @@
       var qz = rs[10].ok ? await rs[10].json() : null;
       var sess = rs[11].ok ? await rs[11].json() : null;
       if (!pres && !daily) throw new Error("empty");
+      LAST = { now: now, hits: hits, src: src, dev: dev, geo: geo, qs: qs, qz: qz, ref: ref, hr: hr };
 
       var live = 0;
       var livePages = {};
@@ -310,50 +402,7 @@
           '</div><div class="st-bc" style="height:' + h + '%"></div><div class="st-bl">' + dayLabel(d.key, true) + "</div></div>";
       }).join("");
 
-      /* Breakdown panels (last 30 days) */
-      var hitTotals = aggregate(hits, 30, now);
-      var titleRows = sortedRows(Object.keys(hitTotals).filter(function (k) { return /^[mtn]_\d+$/.test(k); })
-        .reduce(function (o, k) { o[k] = hitTotals[k]; return o; }, {}), 15);
-      var pageRows = sortedRows(Object.keys(hitTotals).filter(function (k) { return !/^[mtn]_\d+$/.test(k) && !/^w_[mt]_\d+$/.test(k); })
-        .reduce(function (o, k) { o[k] = hitTotals[k]; return o; }, {}), 15);
-      var names = await Promise.all(titleRows.map(function (r) { return titleName(r.key); }));
-      $("pn-titles").innerHTML = panelHtml(titleRows.map(function (r, ix) { return { key: names[ix], val: r.val }; }), function (n) { return n; }, false);
-      $("pn-pages").innerHTML = panelHtml(pageRows, function (k) { return PAGE_NAMES[k] || k; }, false);
-      $("pn-sources").innerHTML = panelHtml(sortedRows(aggregate(src, 30, now), 15), function (k) { return SRC_NAMES[k] || k; }, true);
-      $("pn-devices").innerHTML = panelHtml(sortedRows(aggregate(dev, 30, now), 15), function (k) { return DEV_NAMES[k] || k; }, true);
-      $("pn-countries").innerHTML = panelHtml(sortedRows(aggregate(geo, 30, now), 15), function (k) { return countryName(k); }, true);
-
-      /* Google visitors: pages opened by devices whose source that
-         day was Google (intersection of src.google and hits). */
-      var gTotals = {};
-      if (src && hits && typeof src === "object" && typeof hits === "object") {
-        for (var gi = 0; gi < 30; gi++) {
-          var gk = keyOf(now - gi * 86400000);
-          var gDay = src[gk] && src[gk].google ? src[gk].google : null;
-          var hDay = hits[gk];
-          if (!gDay || !hDay) continue;
-          for (var pk in hDay) {
-            var bucket2 = hDay[pk];
-            if (!bucket2 || typeof bucket2 !== "object") continue;
-            var cnt = 0;
-            for (var did in bucket2) { if (gDay[did]) cnt++; }
-            if (cnt > 0) gTotals[pk] = (gTotals[pk] || 0) + cnt;
-          }
-        }
-      }
-      var gTitleRows = sortedRows(Object.keys(gTotals).filter(function (k) { return /^[mtn]_\d+$/.test(k) || /^w_[mt]_\d+$/.test(k); })
-        .reduce(function (o, k) { o[k] = gTotals[k]; return o; }, {}), 15);
-      var gPageRows = sortedRows(Object.keys(gTotals).filter(function (k) { return !/^[mtn]_\d+$/.test(k) && !/^w_[mt]_\d+$/.test(k); })
-        .reduce(function (o, k) { o[k] = gTotals[k]; return o; }, {}), 15);
-      var gNames = await Promise.all(gTitleRows.map(function (r) { return titleName(r.key.replace(/^w_/, "")); }));
-      var gRows = gTitleRows.map(function (r, ix) { return { key: gNames[ix], val: r.val }; })
-        .concat(gPageRows.map(function (r) { return { key: PAGE_NAMES[r.key] || r.key, val: r.val }; }))
-        .sort(function (a, b) { return b.val - a.val; }).slice(0, 15);
-      $("pn-google").innerHTML = panelHtml(gRows, function (n) { return n; }, false);
-      $("pn-searches").innerHTML = panelHtml(sortedRows(aggregate(qs, 30, now), 15), function (k) { return k.replace(/_/g, " "); }, false);
-      $("pn-zero").innerHTML = panelHtml(sortedRows(aggregate(qz, 30, now), 15), function (k) { return k.replace(/_/g, " "); }, false);
-      $("pn-ref").innerHTML = panelHtml(sortedRows(aggregate(ref, 30, now), 15), function (k) { return k.replace(/_/g, "."); }, false);
-      $("pn-hours").innerHTML = panelHtml(sortedRows(aggregate(hr, 30, now), 15), function (k) { return hourLabel(k); }, false);
+      await renderPeriod();
 
       /* Sab se wafadar log: longest run of consecutive visiting days
          in the last 30 days (website visitors only). */
@@ -426,6 +475,20 @@
     } catch (e) {
       $("st-status").textContent = "Could not load the counters — check the connection and press Refresh.";
     }
+  }
+  var ddBtn = $("st-period-btn"), ddMenu = $("st-period-menu");
+  if (ddBtn && ddMenu) {
+    ddBtn.addEventListener("click", function (e) { e.stopPropagation(); ddMenu.hidden = !ddMenu.hidden; });
+    document.addEventListener("click", function () { ddMenu.hidden = true; });
+    ddMenu.addEventListener("click", function (e) {
+      var t = e.target;
+      if (t && t.getAttribute && t.getAttribute("data-period")) {
+        PERIOD = t.getAttribute("data-period");
+        if ($("st-period-cur")) $("st-period-cur").textContent = PERIOD_LABELS[PERIOD];
+        ddMenu.hidden = true;
+        renderPeriod();
+      }
+    });
   }
   var btn = $("st-refresh");
   if (btn) btn.addEventListener("click", function () { load(); loadLogins(); });
