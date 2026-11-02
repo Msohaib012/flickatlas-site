@@ -164,6 +164,12 @@
       "day": 9,
       "overseas_inr_cr": 0.75,
       "source": "overseas-ai"
+    },
+    {
+      "date": "2026-11-01",
+      "day": 10,
+      "overseas_inr_cr": 0.75,
+      "source": "overseas-ai"
     }
   ],
   "1389379": [
@@ -237,6 +243,7 @@
       "date": "2026-10-25",
       "day": 3,
       "overseas_inr_cr": 0.5,
+      "shows": 1826,
       "source": "overseas-ai",
       "tickets": 188285
     }

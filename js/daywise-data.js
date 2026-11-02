@@ -157,8 +157,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-02",
       "day": "Day 18",
-      "collection": 10037,
-      "shows": 533,
+      "collection": 10565,
+      "shows": 589,
       "occupancy": 7.2,
       "tickets": 6208
     }
@@ -251,14 +251,15 @@ window.FA_DAYWISE = {
       "collection": 465399,
       "shows": 5070,
       "occupancy": 17.4,
-      "tickets": 178394
+      "tickets": 178394,
+      "overseas": 79239
     },
     {
       "date": "2026-11-02",
       "day": "Day 11",
-      "collection": 77971,
-      "shows": 2908,
-      "occupancy": 8.0,
+      "collection": 84945,
+      "shows": 3273,
+      "occupancy": 8.4,
       "tickets": 44855
     }
   ],
@@ -759,8 +760,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-02",
       "day": "Day 11",
-      "collection": 6339,
-      "shows": 408,
+      "collection": 6867,
+      "shows": 488,
       "occupancy": 9.0
     }
   ],
@@ -932,9 +933,9 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-02",
       "day": "Day 11",
-      "collection": 5283,
-      "shows": 225,
-      "occupancy": 10.2
+      "collection": 7396,
+      "shows": 308,
+      "occupancy": 11.3
     }
   ],
   "1389379": [
@@ -1094,9 +1095,9 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-02",
       "day": "Day 18",
-      "collection": 15108,
-      "shows": 299,
-      "occupancy": 12.6,
+      "collection": 16059,
+      "shows": 327,
+      "occupancy": 12.9,
       "tickets": 9868
     }
   ],
@@ -1266,9 +1267,9 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-02",
       "day": "Day 19",
-      "collection": 182356,
-      "shows": 4714,
-      "occupancy": 10.5,
+      "collection": 199683,
+      "shows": 5222,
+      "occupancy": 10.7,
       "tickets": 130856
     }
   ],
@@ -1552,8 +1553,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-02",
       "day": "Day 32",
-      "collection": 36239,
-      "shows": 1804,
+      "collection": 39937,
+      "shows": 2016,
       "occupancy": 7.3,
       "tickets": 22519
     }

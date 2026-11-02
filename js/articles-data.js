@@ -36347,5 +36347,369 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 12:33:38 GMT"
+  },
+  "1e58gz0": {
+    "id": "1e58gz0",
+    "type": "news",
+    "headline": "Harleen Sethi Boards Amazon Prime Video's Upcoming Empire-Style Series With Star-Studded Cast",
+    "dek": "The actor has officially joined the ensemble of the untitled project directed by Bhanu Pratap Singh, starring alongside Divyenndu Sharma, Abhishek Banerjee, and Pratik Gandhi.",
+    "body": [
+      {
+        "h": "New Addition to an Ambitious Project",
+        "p": [
+          "Actor Harleen Sethi has officially come on board for an upcoming, highly anticipated streaming series commissioned by Amazon Prime Video. The project has already generated significant industry buzz for assembling a powerhouse cast of recognized performers from across the digital and cinematic landscape.",
+          "While specific character arcs and plot lines remain heavily guarded by the studio, insiders familiar with the development confirm that the production has already commenced principal photography. Sethi has reportedly stepped onto the sets and started filming her portions for the venture."
+        ]
+      },
+      {
+        "h": "A High-Stakes Narrative Canvas",
+        "p": [
+          "The forthcoming venture is being framed as an expansive, empire-style drama. Early production descriptions indicate that the storyline will delve deeply into intricate themes of authority, fierce ambition, and complex interpersonal connections.",
+          "Given the scope of an empire narrative, the project aims to leverage its grand scale to deliver a gripping viewing experience. The atmosphere is expected to be charged with intense power dynamics as the story unfolds across its episodes."
+        ]
+      },
+      {
+        "h": "An Ensemble of Acclaimed Performers",
+        "p": [
+          "Sethi shares screen space with a remarkable lineup of established talent. The series features Divyenndu Sharma and Abhishek Banerjee, both widely celebrated for their breakout work in the hit streaming franchise Mirzapur.",
+          "Also rounding out the primary cast is versatile actor Pratik Gandhi. Industry insiders note that bringing these distinct acting forces together creates a compelling on-screen synergy that elevates the project's overall pedigree."
+        ]
+      },
+      {
+        "h": "Behind the Lens and Production Team",
+        "p": [
+          "The direction of this ambitious undertaking rests in the hands of filmmaker Bhanu Pratap Singh. Known for his associations with prominent banners like Dharma Productions, Singh is at the helm of shaping the show's grand aesthetic and tonal vision.",
+          "Production is currently proceeding at a steady pace under Amazon Prime Video's banner. While cameras are rolling, creators have kept a tight lid on official promotional timelines and release dates."
+        ]
+      },
+      {
+        "h": "Building on Recent Successes",
+        "p": [
+          "Sethi boards this new venture following a wave of strong career momentum and positive critical reception for her recent performances. Her prior streaming credits include notable titles such as Broken But Beautiful, Kohrra, Doctors, Bad Cop, and The Gone Game.",
+          "Most recently, she drew praise for her gripping work in Netflix's thriller Shaque: Trust No One. Her addition to the Prime Video slate is seen as a natural continuation of her growing footprint in the digital space."
+        ]
+      },
+      {
+        "h": "Busy Rosters for the Leading Men",
+        "p": [
+          "The male leads of the series are similarly tied to high-profile undertakings. Divyenndu Sharma and Abhishek Banerjee have recently reunited for Mirzapur: The Movie, extending their successful journey within that cinematic universe.",
+          "Meanwhile, Pratik Gandhi balances a diverse portfolio spanning both films and web projects, with upcoming ventures that include Hansal Mehta’s Gandhi and Madgaon Express 2."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Harleen Sethi has officially joined the cast of Amazon Prime Video's untitled empire-style drama directed by Bhanu Pratap Singh, with production already underway. She stars alongside a notable ensemble featuring Divyenndu Sharma, Abhishek Banerjee, and Pratik Gandhi, though character details and release dates remain unannounced."
+        ]
+      }
+    ],
+    "facts": [
+      "Harleen Sethi joined the cast of an untitled Amazon Prime Video series directed by Bhanu Pratap Singh.",
+      "The series also stars Divyenndu Sharma, Abhishek Banerjee, and Pratik Gandhi.",
+      "The project is described as an empire-style drama exploring power, ambition, and relationships.",
+      "Harleen Sethi's recent credits include Shaque: Trust No One, Broken But Beautiful, Kohrra, Doctors, Bad Cop, and The Gone Game."
+    ],
+    "entities": {
+      "people": [
+        "Harleen Sethi",
+        "Divyenndu Sharma",
+        "Abhishek Banerjee",
+        "Pratik Gandhi",
+        "Bhanu Pratap Singh",
+        "Hansal Mehta"
+      ],
+      "titles": [
+        "Mirzapur",
+        "Shaque: Trust No One",
+        "Broken But Beautiful",
+        "Kohrra",
+        "Doctors",
+        "Bad Cop",
+        "The Gone Game",
+        "Mirzapur: The Movie",
+        "Gandhi",
+        "Madgaon Express 2"
+      ]
+    },
+    "keywords": [
+      "Harleen Sethi",
+      "Divyenndu Sharma",
+      "Abhishek Banerjee",
+      "Pratik Gandhi",
+      "Amazon Prime Video"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Harleen-Sethi.jpeg",
+        "caption": "Harleen Sethi Boards Amazon Prime Video's Upcoming Empire-Style Series With Star-Studded Cast",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 19:45:29 +0200"
+  },
+  "q81rsv": {
+    "id": "q81rsv",
+    "type": "news",
+    "headline": "Sean 'Diddy' Combs Sees Prison Release Date Moved Up Following Transfer",
+    "dek": "The disgraced music mogul's scheduled freedom date has been adjusted by nearly a month after a relocation to a Pennsylvania correctional facility.",
+    "body": [
+      {
+        "h": "Release Date Adjusted",
+        "p": [
+          "Sean 'Diddy' Combs has experienced another shift in his timeline behind bars. Following a transfer to a new correctional facility, his expected departure date has been moved up by nearly a month.",
+          "Previously slated to conclude his sentence in the spring of 2028, the music figure now anticipates regaining his freedom significantly earlier in that same year, according to recent confirmations."
+        ]
+      },
+      {
+        "h": "Facility Transfer",
+        "p": [
+          "The change in schedule comes in the wake of the Revolt co-founder's relocation from a New Jersey institution to FCI Allenwood Low located in Pennsylvania.",
+          "The move occurred last month following various reports regarding his prison conditions, leading federal authorities to shift him to the new facility."
+        ]
+      },
+      {
+        "h": "Previous Incidents at Fort Dix",
+        "p": [
+          "During his time at FCI Fort Dix, the fifty-six-year-old entertainer was reportedly involved in several internal issues and difficulties with other inmates.",
+          "Media reports had previously surfaced detailing claims of preferential treatment and lavish living conditions while incarcerated, which sparked significant scrutiny and subsequent facility raids."
+        ]
+      },
+      {
+        "h": "Medical Attention and Altercation Reports",
+        "p": [
+          "Combs also required a hospital visit for a head injury during his stay in New Jersey. Documentation indicated the wound resulted from striking his head against a bunk bed.",
+          "Additionally, outlets reported on alleged physical tensions involving other high-profile inmates, though representatives for the Federal Bureau of Prisons disputed claims of specific altercations."
+        ]
+      },
+      {
+        "h": "Legal Background",
+        "p": [
+          "The artist, often recognized for tracks like 'Act Bad', was sentenced following legal proceedings last July where he faced conviction on two counts of transportation for prostitution.",
+          "That judgment resulted in a total sentence of fifty months behind bars, establishing the timeline that is now subject to the updated release scheduling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sean 'Diddy' Combs has had his prison release date moved up by nearly a month following a transfer from a New Jersey facility to FCI Allenwood Low in Pennsylvania. The fifty-six-year-old was previously sentenced to fifty months behind bars after a conviction on transportation for prostitution charges last July."
+        ]
+      }
+    ],
+    "facts": [
+      "Sean 'Diddy' Combs' new release date is February 6, 2028.",
+      "His original release date was March 2, 2028.",
+      "He was transferred to FCI Allenwood Low in Pennsylvania from FCI Fort Dix in New Jersey.",
+      "He is 56 years old and a Revolt co-founder.",
+      "He was sentenced to 50 months behind bars after being convicted on two counts of transportation for prostitution last July."
+    ],
+    "entities": {
+      "people": [
+        "Sean 'Diddy' Combs",
+        "Christopher Coke",
+        "Dudus"
+      ],
+      "titles": [
+        "Act Bad",
+        "Jimmy Kimmel Live!"
+      ]
+    },
+    "keywords": [
+      "Sean Diddy Combs prison release date",
+      "Sean Diddy Combs transfer",
+      "FCI Allenwood Low",
+      "FCI Fort Dix"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147297961.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Sean 'Diddy' Combs Sees Prison Release Date Moved Up Following Transfer",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 09:36:37 -0500"
+  },
+  "zsmxwq": {
+    "id": "zsmxwq",
+    "type": "news",
+    "headline": "Love In Disguise Episode 5 Ending Explained: Yi Jun's Shocking Sober Kiss And Jae Hui's Memory Return",
+    "dek": "A breakdown of the chaotic and romantic twists in Episode 5 of the K-drama Love In Disguise, starring Yim Si-wan and Seol In-ah on Prime Video.",
+    "body": [
+      {
+        "h": "Introduction To Episode 5",
+        "p": [
+          "The romantic comedy K-drama Love In Disguise continues to capture attention with its chaotic charm and brilliant lead chemistry. Available for streaming on Prime Video, the series features Yim Si-wan and Seol In-ah as dynamic workplace partners.",
+          "Following the wild events of the previous week, Episode 5 amps up the tension in the CEO and bodyguard or personal assistant relationship. Viewers are treated to an escalation of comedic misunderstandings and high stakes."
+        ]
+      },
+      {
+        "h": "Source Material And Background",
+        "p": [
+          "The television series is adapted from the popular web novel Why You Don't Know It's a Girl? by author Lee A Yeon. This source material sets up the core identity confusion that drives much of the narrative comedy.",
+          "The story thrives on mistaken identity, blending workplace romance tropes with quirky situations. The dynamic between the main characters remains a primary draw for audiences worldwide."
+        ]
+      },
+      {
+        "h": "The Aftermath Of The Garden Kiss",
+        "p": [
+          "Episode 5 kicks off directly following the drunken garden kiss shared between Jae Hui and Yi Jun. While Jae Hui manages to get a peaceful sleep, Yi Jun spends the night tossing and turning.",
+          "Yi Jun is left in a state of confusion because he believes he shared a romantic moment with a man. This internal turmoil forms the basis for much of the episode's comedic relief."
+        ]
+      },
+      {
+        "h": "Complications With Lee Si A",
+        "p": [
+          "The plot thickens with the introduction of Lee Si A, who serves as Yi Jun's fiancée and childhood friend. Unaware that Jae Hui is actually a woman, Si A surprisingly finds herself developing a crush on her.",
+          "During conversations about office romances and boss-secretary affairs, Si A inadvertently keeps Jae Hui on Yi Jun's mind. This creates a multi-layered web of hilarious romantic confusion."
+        ]
+      },
+      {
+        "h": "The Climax And Sober Kiss",
+        "p": [
+          "Amid an ongoing murder investigation and typical workplace chaos, the episode approaches its climax when Yi Jun spots Jae Hui talking to Da-un. Driven by jealousy, Yi Jun confronts her directly.",
+          "In a surprising final scene, Yi Jun delivers a sober kiss to confirm his feelings, leaving Jae Hui with wide-eyed shock. This unexpected gesture triggers flashbacks, causing Jae Hui to finally remember their previous drunken kiss."
+        ]
+      },
+      {
+        "h": "Preview And Spoilers For Episode 6",
+        "p": [
+          "The preview for Episode 6 hints at further complications, particularly with Lee Si A growing increasingly obsessed with Jae Hui. Meanwhile, pressure mounts as Yi Jun's father demands a marriage announcement before the shareholder meeting.",
+          "New dramatic tensions emerge as misunderstandings grow between the leads. Yi Jun is seen snapping at Jae Hui, and a final preview clip shows Jae Hui expressing profound disappointment in someone she thought was a good human being."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 5 of Love In Disguise on Prime Video delivers a shocking climax featuring a sober kiss and the return of Jae Hui's memories regarding their earlier drunken encounter. As Yim Si-wan and Seol In-ah navigate escalating romantic tensions and misunderstandings, upcoming episodes promise further drama involving Yi Jun's fiancée and impending family pressures."
+        ]
+      }
+    ],
+    "facts": [
+      "Love In Disguise is adapted from Lee A Yeon's web novel Why You Don't Know It's a Girl?",
+      "Episode 5 of Love In Disguise is currently streaming on Prime Video",
+      "Yim Si-wan plays the character Yoon Yi Joon",
+      "Seol In-ah plays the character Kang Jae Hee"
+    ],
+    "entities": {
+      "people": [
+        "Yim Si-wan",
+        "Seol In-ah",
+        "Lee A Yeon",
+        "Lee Si A"
+      ],
+      "titles": [
+        "Love In Disguise",
+        "Why You Don't Know It's a Girl?"
+      ]
+    },
+    "keywords": [
+      "Love In Disguise Episode 5",
+      "Yim Si Wan Seol In Ah",
+      "Love In Disguise Prime Video",
+      "Yoon Yi Joon Kang Jae Hee"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature89-79681793627483.jpg",
+        "caption": "Love In Disguise Episode 5 Ending Explained: Yi Jun's Shocking Sober Kiss And Jae Hui's Memory Return",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 19:43:38 +0530"
+  },
+  "10i3wez": {
+    "id": "10i3wez",
+    "type": "news",
+    "headline": "Hollywood Ventures Group Boards Vatican-Produced Documentary Short 'Green Lava' for Oscar Contention",
+    "dek": "The inspirational documentary short about a young Italian man facing Duchenne muscular dystrophy has secured new executive producers ahead of the Academy Awards.",
+    "body": [
+      {
+        "h": "Hollywood Ventures Group Joins the Project",
+        "p": [
+          "Hollywood Ventures Group has officially boarded the documentary short 'Green Lava'. The film production and consultancy outfit was co-founded by former Amazon MGM Studios executive Glenn S. Gainor and industry veteran Sandy Climan.",
+          "Alongside Gainor and Climan, industry figures Nelly Kim and Nabeel Laher have joined John Shufeldt MD as executive producers on the 39-minute film."
+        ]
+      },
+      {
+        "h": "A Historic First for the Vatican",
+        "p": [
+          "Directed by Lia Beltrami and Ali Aksu, 'Green Lava' holds a unique place in cinematic history as the first film to be submitted by the Vatican for Oscar consideration in the 97-year history of the Academy Awards.",
+          "Because the project competes in the short film category, it does not require an official endorsement or submission from a national government or a country-specific committee, setting it apart from international feature entries."
+        ]
+      },
+      {
+        "h": "The Story of Giacomo Mattivi",
+        "p": [
+          "The inspirational documentary short is set against the backdrop of the Dolomites and follows Giacomo Mattivi, a young Italian man living with Duchenne muscular dystrophy.",
+          "The narrative explores Giacomo facing life without his brother Mattia, who recently succumbed to the same condition. It highlights how he defies societal expectations and finds strength within his community and the natural world."
+        ]
+      },
+      {
+        "h": "Collaborative Production Effort",
+        "p": [
+          "Emotions to Generate Change, the company belonging to co-director Lia Beltrami, produced 'Green Lava' in collaboration with Vatican News, Radio Vaticana, and Vatican Media.",
+          "Ali Aksu and Lia Beltrami serve as producers alongside Los Angeles-based David Dubinsky and Dominique Appleby. Additional partners on the production include Untold."
+        ]
+      },
+      {
+        "h": "Filmmaker and Producer Perspectives",
+        "p": [
+          "Co-director and producer Lia Beltrami expressed enthusiasm about the partnership with Hollywood Ventures Group, noting that it will help widen the tent and make Giacomo's message accessible globally.",
+          "Co-director Ali Aksu emphasized Giacomo's fierce presence, humor, and stubbornness, stating that bringing his story to the screen as part of the first Vatican-produced film in Oscar contention is one of the great honors of his life."
+        ]
+      },
+      {
+        "h": "The Path to the Oscars",
+        "p": [
+          "'Green Lava' completed its necessary Oscar-qualifying theatrical run by screening at the Lumiere Music Hall in Beverly Hills between September 18 and September 24.",
+          "Hollywood Ventures Group will act as a strategic producing partner, using its global network to elevate the film's visibility, expand its reach, and explore distribution opportunities."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hollywood Ventures Group has boarded the Vatican-produced documentary short 'Green Lava' as executive producers to help expand its reach during awards season. Directed by Lia Beltrami and Ali Aksu, the 39-minute film marks a historic 97-year first for the Vatican in Academy Award submissions."
+        ]
+      }
+    ],
+    "facts": [
+      "Green Lava is a 39-minute documentary short directed by Lia Beltrami and Ali Aksu.",
+      "The film follows Giacomo Mattivi, a young Italian man living with Duchenne muscular dystrophy.",
+      "Green Lava is the first film to be submitted by the Vatican for Oscar consideration in the 97-year history of the Academy Awards.",
+      "Hollywood Ventures Group was co-founded by Glenn S. Gainor and Sandy Climan.",
+      "The film completed its Oscar-qualifying theatrical run at the Lumiere Music Hall in Beverly Hills from September 18-24."
+    ],
+    "entities": {
+      "people": [
+        "Glenn S. Gainor",
+        "Sandy Climan",
+        "Nelly Kim",
+        "Nabeel Laher",
+        "John Shufeldt",
+        "Lia Beltrami",
+        "Ali Aksu",
+        "Giacomo Mattivi",
+        "Mattia",
+        "David Dubinsky",
+        "Dominique Appleby"
+      ],
+      "titles": [
+        "Green Lava",
+        "The Final Bet"
+      ]
+    },
+    "keywords": [
+      "Green Lava film",
+      "Vatican Oscar submission",
+      "Hollywood Ventures Group",
+      "Lia Beltrami Green Lava"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Hollywood Ventures Group Boards Vatican-Produced Documentary Short 'Green Lava' for Oscar Contention",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 14:38:35 +0000"
   }
 };
