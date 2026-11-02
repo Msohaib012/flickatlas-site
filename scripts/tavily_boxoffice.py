@@ -52,8 +52,16 @@ Acceptance rules (a figure is written ONLY when ALL hold):
     Day 1 date (today - Day 1 + 1);
   * scope is all-India NET: reject worldwide/overseas totals, gross
     figures, and language/version splits (Hindi/Tamil/Telugu/...).
-    bollywoodhungama.com is excluded entirely — its day-wise table is
-    Hindi-version-only figures presented as India totals.
+    bollywoodhungama.com is admissible evidence for this lane (owner
+    order 2026-11-02: Tavily + Gemini is the PRIMARY box-office
+    updater — a figure counts wherever it was published). BH's
+    language-split tables (e.g. its Hindi-version-only Jailer 2
+    table) are kept out by the guards, not by a domain block: the
+    SEGMENT_POISON context check around each figure, the value-sanity
+    bands below, and the Gemini evidence review in
+    gemini_boxoffice.py — which also re-attributes a BH-sourced
+    candidate to the direct BH reader when that reader already
+    reported the same movie+day, so the table is never counted twice.
   * value sanity: 0 < Rs Cr <= 120 (engine cap), within 0.05x-4x of
     yesterday's figure, and (when today already has a baseline figure)
     not more than 50% BELOW it (a big drop means a stale live figure
@@ -90,10 +98,16 @@ TAVILY_URL = "https://api.tavily.com/search"
 MAX_DAY_CR = 120.0
 ACTIVE_WINDOW_DAYS = 7  # last baseline row within this many days
 
-# Sources that cannot support the claimed collection: Bollywood Hungama's
-# Jailer 2 table is a language split, and TheKnot URL found in a Tavily
-# result was unrelated movie-streaming spam, not box-office reporting.
-BLOCKED_DOMAINS = ("bollywoodhungama.com", "theknot.com")
+# Sources that cannot support any claimed collection: the TheKnot URL
+# found in a Tavily result was unrelated movie-streaming spam, not
+# box-office reporting. Bollywood Hungama is deliberately NOT blocked
+# here (owner order 2026-11-02, Tavily + Gemini is the primary
+# updater): it is admissible evidence for this lane — language-split /
+# version figures are rejected by the SEGMENT_POISON context check
+# and the Gemini evidence review, and gemini_boxoffice.py
+# re-attributes BH-sourced candidates to the direct BH reader when it
+# already reported the same day, so BH's table is never counted twice.
+BLOCKED_DOMAINS = ("theknot.com",)
 
 # Poison words checked ONLY in a tight window around the figure
 # (+/-100 chars), so a film's language in the article header, or a

@@ -27,16 +27,20 @@ class Gates(unittest.TestCase):
         self.assertTrue(p.due('trending_weekly', {}, at(12)))
         self.assertTrue(p.due('trending_weekly', {}, at(18)))
 
-    def test_tavily_gemini_preserves_existing_two_hourly_slots(self):
+    def test_tavily_gemini_runs_hourly(self):
+        # Owner order 2026-11-02: Tavily + Gemini is the PRIMARY
+        # box-office updater, so the lane (and the overseas gap-filler
+        # that shares its slots) is due every hour, not twice a day.
         policy = p.POLICIES['tavily_boxoffice']
-        self.assertEqual(policy['hours'], [8, 18])
-        self.assertEqual(policy['interval_hours'], 12)
+        self.assertEqual(policy['hours'], list(range(24)))
+        self.assertEqual(policy['interval_hours'], 1)
         self.assertEqual([(hour + 5) % 24 for hour in policy['hours']],
-                         [13, 23])
-        for hour in (8, 18):
+                         list(range(5, 24)) + list(range(5)))
+        for hour in (0, 8, 9, 13, 17, 18, 20, 23):
             self.assertTrue(p.due('tavily_boxoffice', {}, at(hour)))
-        for hour in (9, 13, 17, 20):
-            self.assertFalse(p.due('tavily_boxoffice', {}, at(hour)))
+        overseas = p.POLICIES['overseas_ai']
+        self.assertEqual(overseas['hours'], list(range(24)))
+        self.assertEqual(overseas['interval_hours'], 1)
 
     def test_success_only_catchup_and_duplicate_suppression(self):
         rec = {'last_success': p.iso(at(0)), 'last_run': p.iso(at(0)), 'last_status': 'success'}
@@ -136,17 +140,17 @@ class SourceStaging(unittest.TestCase):
 
 
 class PublicPolicy(unittest.TestCase):
-    def test_export_reports_tavily_slots_and_hourly_offset(self):
+    def test_export_reports_tavily_hourly_and_offset(self):
         with tempfile.TemporaryDirectory() as td:
             value = p.export_public(td)
             check = value['checks']['tavily_boxoffice']
-            self.assertEqual(check['hours_utc'], [8, 18])
-            self.assertEqual(check['hours_pkt'], [13, 23])
+            self.assertEqual(check['hours_utc'], list(range(24)))
+            self.assertEqual(check['hours_pkt'],
+                             [(h + 5) % 24 for h in range(24)])
             self.assertIn(':35 UTC', value['scheduler'])
             boxoffice = next(c for c in value['cycles'] if c['id'] == 'boxoffice')
             self.assertIn('tavily_boxoffice', boxoffice['sources'])
-            for slot in ('13:35', '23:35'):
-                self.assertIn(slot, boxoffice['cadence'])
+            self.assertIn('hourly', boxoffice['cadence'])
 
 
 if __name__ == '__main__':

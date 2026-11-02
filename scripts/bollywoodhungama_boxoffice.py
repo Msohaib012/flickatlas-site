@@ -16,21 +16,21 @@ stayed current. Diagnosis:
   * Bollywood Hungama KEPT publishing: its day-wise table for the
     film runs to Day 10 (01-Nov-2026, Rs0.005 Cr) with an internally
     consistent Week 1 (Rs0.54 Cr) and lifetime (Rs0.55 Cr).
-  * The pipeline could not see those figures: there is no direct
-    Bollywood Hungama reader, and the Tavily+Gemini lane excludes
-    bollywoodhungama.com entirely (BLOCKED_DOMAINS in
-    tavily_boxoffice.py, to avoid double-counting its table). When
-    Sacnilk drops a small title, no lane covers it and the freeze is
-    silent.
+  * The pipeline could not see those figures: there was no direct
+    Bollywood Hungama reader, and at the time the Tavily+Gemini lane
+    excluded bollywoodhungama.com entirely. When Sacnilk drops a
+    small title, no lane covers it and the freeze is silent.
 
 This reader closes that hole the same way sacnilk_boxoffice.py did
 for Sacnilk: go to the movie's BH box-office page directly, parse its
 DAY WISE table (server-rendered HTML, HTTP 200 with a browser UA),
 and stage the rows for the multi-source averaging engine
 (scripts/multisource_boxoffice.py), which means them per movie+day
-with every other source that reports the day. BH stays blocked in
-the Tavily lane on purpose — the same table must never be counted
-twice.
+with every other source that reports the day. BH is also admissible
+in the Tavily+Gemini lane (owner order 2026-11-02: Tavily + Gemini
+is the primary box-office updater); the same table is never counted
+twice because gemini_boxoffice.py re-attributes BH-sourced
+candidates to this reader when it already reported the day.
 
 Rules (site standing orders, same as the Sacnilk reader):
   * Numbers only from the live page — never invented, never

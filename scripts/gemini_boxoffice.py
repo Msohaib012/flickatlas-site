@@ -53,6 +53,7 @@ READER_DOMAINS = {
     "bollybourse": "bollybourse.com",
     "moviemint": "moviemintbo.com",
     "filmibeat": "filmibeat.com",
+    "bollywoodhungama": "bollywoodhungama.com",
     "bollymoviereviewz": "bollymoviereviewz.com",
     "flickonclick": "flickonclick.com",
     "tracktollywood": "tracktollywood.com",
