@@ -33390,5 +33390,216 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 03:07:34 +0000"
+  },
+  "1bz0ndp": {
+    "id": "1bz0ndp",
+    "type": "news",
+    "headline": "Rajinikanth Stars in Jailer 2 as It Becomes Tamil Cinema's First ₹800-Crore Blockbuster",
+    "dek": "At 75 years old, superstar Rajinikanth has achieved a monumental box-office milestone with Jailer 2, crossing ₹800 crore worldwide and surpassing lifetime hauls of major Bollywood films.",
+    "body": [
+      {
+        "h": "A Historic Milestone for Tamil Cinema",
+        "p": [
+          "Superstar Rajinikanth has achieved a historic milestone in his career by delivering Tamil cinema's very first ₹800-crore grosser at the worldwide box office. At 75, the veteran actor continues to dominate the commercial landscape, pushing the boundaries of what regional language cinema can achieve globally.",
+          "The sequel crossed this massive threshold on a Sunday, securing its place in history books and outperforming several major lifetime hauls previously held by prominent Bollywood blockbusters during its theatrical run."
+        ]
+      },
+      {
+        "h": "Explosive Opening and Festive Momentum",
+        "p": [
+          "Directed by Nelson Dilipkumar, the film launched with an extraordinary opening weekend, minting ₹400 crore within its extended four-day debut. This massive start was further bolstered by holiday periods such as the Navratra and Dussehra breaks, which allowed the feature to maintain steady momentum through the weekdays.",
+          "Unlike many films that suffer steep drops after their opening week, this sequel demonstrated exceptional legs. It recorded a strong second weekend and successfully recovered during its third weekend following a brief midweek slump."
+        ]
+      },
+      {
+        "h": "Domestic Dominance Across Southern States",
+        "p": [
+          "On its 18th day in theatres, the feature brought in a respectable ₹11.50 crore net in India. This pushed its third-weekend numbers to ₹26.40 crore and elevated its total domestic collection to ₹456 crore net, translating to ₹533 crore gross.",
+          "This achievement makes it the only Tamil film to cross ₹450 crore domestically. Furthermore, its triumph is underscored by the fact that it stands alone as the sole Tamil release to collect at least ₹60 crore across Tamil Nadu, Kerala, Karnataka, and Andhra Pradesh-Telangana."
+        ]
+      },
+      {
+        "h": "Strong Overseas Pull and Global Reach",
+        "p": [
+          "Beyond domestic borders, the movie performed remarkably well in international territories. Audiences in North America, the Middle East, and Southeast Asia turned out in droves, driven by the enduring global stardom of Rajinikanth.",
+          "International earnings reached nearly $29 million, placing its overseas pull on par with other major contemporary hits. Combined with local figures, this propelled the worldwide gross past the ₹808-crore mark."
+        ]
+      },
+      {
+        "h": "Surpassing Bollywood Blockbusters",
+        "p": [
+          "During its third weekend in cinemas, the action-heavy sequel successfully outpaced the lifetime global hauls of notable Hindi films. It cleared the lifetime totals of Aamir Khan's PK at ₹769 crore and Vicky Kaushal's Chhaava at ₹807 crore.",
+          "With ongoing momentum, trade watchers are eyeing a potential march toward the ₹850-crore milestone, which could place it ahead of other recent high-earners like Stree 2 and Kantara Chapter One."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Franchise Details",
+        "p": [
+          "Produced by Sun Pictures and helmed by director Nelson Dilipkumar, the project marks a rare instance where Rajinikanth agreed to reprise a role in a sequel, having historically declined follow-ups to his previous hits. The narrative brings back his iconic persona, 'Tiger' Muthuvel Pandian, pitted against a fresh roster of antagonists.",
+          "Returning supporting cast members include Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik. They are joined by new additions such as S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Vidya Balan, Anna Rajan, and Jatin Sarna, alongside high-profile cameo appearances by Mohanlal, Hrithik Roshan, Shiva Rajkumar, and Jackie Shroff."
+        ]
+      },
+      {
+        "h": "Upcoming Box Office Hurdles",
+        "p": [
+          "Despite its record-breaking run, the film faces upcoming theatrical competition that may impact its daily collections. The impending release of Ramayana on Friday is expected to introduce a steep drop in ticket sales.",
+          "Even with potential slowdowns caused by new releases, the historic financial benchmark achieved by the project remains a defining moment for Tamil cinema's expanding global footprint."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has officially become Tamil cinema's first ₹800-crore worldwide blockbuster, crossing major domestic and international milestones after a stellar opening weekend and strong holiday momentum. Directed by Nelson Dilipkumar and produced by Sun Pictures, the film surpassed the lifetime totals of prominent Bollywood hits like PK and Chhaava during its third weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth is 75 years old.",
+      "Jailer 2 is Tamil cinema's first ₹800-crore blockbuster.",
+      "The film earned ₹400 crore in its extended four-day opening weekend.",
+      "On its 18th day, the film earned ₹11.50 crore net in India.",
+      "Total domestic collection reached ₹456 crore net and ₹533 crore gross.",
+      "Overseas earnings reached close to $29 million.",
+      "Total worldwide gross stands at ₹808 crore.",
+      "The film surpassed the lifetime hauls of PK at ₹769 crore and Chhaava at ₹807 crore.",
+      "The film is directed by Nelson Dilipkumar and produced by Sun Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Ramveer Singh",
+        "Aamir Khan",
+        "Vicky Kaushal",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Anna Rajan",
+        "Jatin Sarna",
+        "Hrithik Roshan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Jackie Shroff"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Chhaava",
+        "PK",
+        "Ramayana",
+        "Kantara Chapter One",
+        "Stree 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2",
+      "Jailer 2 collection",
+      "Nelson Dilipkumar film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/02/1600x900/logo/Jailer_2_box_office_1793591686007_0Hrb_1793591686136_NW6Z_e5fcb121-7390-4b04-bcda-8f58793fdd6a_SE0P.jpeg",
+        "caption": "Rajinikanth Stars in Jailer 2 as It Becomes Tamil Cinema's First ₹800-Crore Blockbuster",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 09:36:01 +0530"
+  },
+  "y8xie1": {
+    "id": "y8xie1",
+    "type": "news",
+    "headline": "Shah Rukh Khan Celebrates 61st Birthday With Midnight Appearance and Special Film Song Release",
+    "dek": "Bollywood icon Shah Rukh Khan marked his 61st birthday with a private gathering at a South Mumbai hotel, a surprise midnight glimpse for cheering supporters, and the official release of a new track from his upcoming project.",
+    "body": [
+      {
+        "h": "Midnight Celebrations and Fan Gatherings",
+        "p": [
+          "Bollywood superstar Shah Rukh Khan marked his 61st birthday on November 2, 2026, drawing immense excitement from admirers across the country. A massive crowd of supporters gathered outside his iconic Mumbai residence, Mannat, holding late-night vigils in hopes of catching a glimpse of the actor.",
+          "Although the superstar was not physically present at Mannat during the midnight hours, the atmosphere outside remained charged with festive energy. The actor had temporarily relocated to a luxury hotel in South Mumbai to ring in his special day surrounded by close family and friends."
+        ]
+      },
+      {
+        "h": "Family Presence and Hotel Sighting",
+        "p": [
+          "Reports confirmed that Shah Rukh Khan's children, Suhana Khan and Aryan Khan, joined the intimate birthday festivities at the Taj Hotel in South Mumbai. The celebration stretched late into the night as loved ones gathered to honor the celebrated actor.",
+          "When the birthday boy finally emerged from the hotel premises, eager admirers caught a rare and exciting glimpse of him. His brief appearance instantly electrified the crowd, turning a quiet wait into an unforgettable celebratory moment."
+        ]
+      },
+      {
+        "h": "Waving to Supporters and Flying Kisses",
+        "p": [
+          "Overjoyed by the roaring crowd waiting outside the hotel, the veteran actor made sure to acknowledge their dedication. He offered a gentle wave and blew flying kisses to the gathering, reciprocating the affection shown by his loyal fanbase.",
+          "The heartfelt gesture sent admirers into a frenzy of joy. The brief yet personal interaction made the long wait worthwhile for the supporters who had gathered hoping to celebrate the milestone day."
+        ]
+      },
+      {
+        "h": "Special Decorations at Mannat",
+        "p": [
+          "Even though Shah Rukh Khan was celebrating away from his primary residence, the Mannat bungalow received elaborate preparations for the occasion. A massive LED screen was installed outside the gates to broadcast visuals, posters, and teasers dedicated to the star.",
+          "A heartfelt message of gratitude was displayed on the screen for the gathered crowd. The note expressed appreciation for the unwavering love and numerous good wishes sent by supporters on his birthday."
+        ]
+      },
+      {
+        "h": "Musical Treat With Upcoming Film Song",
+        "p": [
+          "To coincide with his 61st birthday celebrations, the makers of his upcoming feature film treated fans to a major musical preview. The first track, titled 'Tu Mil Jaaye', was officially released to the public, featuring the lead actor alongside Deepika Padukone.",
+          "The newly launched romantic song highlights the pairing of Shah Rukh Khan and Deepika Padukone. The visual presentation aims to build anticipation for the theatrical release scheduled for the end of the year."
+        ]
+      },
+      {
+        "h": "Upcoming Release Details",
+        "p": [
+          "The highly anticipated feature film carrying the provisional title 'King' is slated to arrive in cinemas on December 24, 2026. Alongside the lead stars, the movie's cast features prominent names including Suhana Khan and veteran actress Rani Mukherjee.",
+          "With production houses and fan clubs ramping up promotions, the simultaneous birthday celebrations and promotional drops have generated significant buzz across social media platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan celebrated his 61st birthday on November 2, 2026, with family at a South Mumbai hotel while supporters gathered outside his decorated Mannat residence. The actor delighted onlookers with a midnight appearance, waving and blowing kisses, while his upcoming film 'King' released its first song to mark the occasion ahead of its December theatrical launch."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan celebrated his 61st birthday on November 2, 2026.",
+      "The birthday party took place at the Taj Hotel in South Mumbai.",
+      "Suhana Khan and Aryan Khan attended the celebration.",
+      "The first song from the movie 'King', titled 'Tu Mil Jaaye', was released on November 2, 2026.",
+      "The film 'King' is scheduled to release in cinemas on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Suhana Khan",
+        "Aryan Khan",
+        "Deepika Padukone",
+        "Rani Mukherjee"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan 61st birthday",
+      "Shah Rukh Khan Mannat",
+      "King movie Tu Mil Jaaye",
+      "Shah Rukh Khan Deepika Padukone",
+      "King release date December 2026"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae808c2e9bcb-shahrukh-khan-114250497-16x9.png",
+        "caption": "Shah Rukh Khan Celebrates 61st Birthday With Midnight Appearance and Special Film Song Release",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T04:52:13Z"
   }
 };
