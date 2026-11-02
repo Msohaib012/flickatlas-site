@@ -23,7 +23,7 @@ TREND_HOURS = 72
 HEADER = "/* FlickAtlas Trending Topics: current Google search trends intersected with published news. */"
 GENERIC = set("movie movies film films news today box office collection collections latest trending trend viral breaking entertainment cinema update updates".split())
 STOP = set("a an the and or of to in on for with at by from is are was were be been this that these those his her its their has have had".split())
-FEEDS = {"US": "https://trends.google.com/trending/rss?geo=US", "IN": "https://trends.google.com/trending/rss?geo=IN", "PK": "https://trends.google.com/trending/rss?geo=PK"}
+FEEDS = {"US": "https://trends.google.com/trending/rss?geo=US", "IN": "https://trends.google.com/trending/rss?geo=IN", "PK": "https://trends.google.com/trending/rss?geo=PK", "GB": "https://trends.google.com/trending/rss?geo=GB", "AU": "https://trends.google.com/trending/rss?geo=AU"}
 
 
 def log(s): print("trending-weekly: " + str(s))
@@ -70,10 +70,17 @@ def valid_related(items):
 def subject_match(term, headline, related):
     term = str(term or "").strip()
     tw = words(term); hw = words(headline)
-    if not tw or tw & GENERIC: return False
-    # Require whole word/phrase occurrence, not loose token overlap alone.
-    pattern = r"(?<![a-z0-9])" + re.escape(term.lower()).replace(r"\ ", r"\s+") + r"(?![a-z0-9])"
-    if not re.search(pattern, str(headline or "").lower()): return False
+    subj = tw - GENERIC
+    # Subject-word gate (fix 2026-11-02 #2): the old gates rejected any
+    # term merely CONTAINING a generic word ("ramayana movie" died on
+    # "movie") and demanded the trend's raw phrase verbatim in the
+    # headline ("the avengers" vs "Avengers: Doomsday ..." headlines).
+    # Now the term must carry at least one real subject word and EVERY
+    # subject word must appear in the headline's word set — the alias
+    # canon in words() makes "vi" <-> "6" meet — while the related-
+    # headline context gates below still substantiate the subject, so
+    # wrong-subject coincidences ("king" = King Charles) stay rejected.
+    if not subj or not subj.issubset(hw): return False
     contexts = [str(x.get("title") or "") for x in related]
     context_words = set().union(*(words(x) for x in contexts)) if contexts else set()
     shared = len((hw - GENERIC) & context_words)
@@ -81,7 +88,8 @@ def subject_match(term, headline, related):
         # Ambiguous single-token names need independent related-news context.
         context = " ".join(contexts).lower()
         entertainment = bool(re.search(r"\b(movie|film|box office|cinema|actor|actress|release|trailer|collection)\b", context))
-        return shared >= 2 and entertainment and bool(re.search(r"(?<![a-z0-9])" + re.escape(term.lower()) + r"(?![a-z0-9])", context))
+        in_context = bool(re.search(r"(?<![a-z0-9])" + re.escape(term.lower()) + r"(?![a-z0-9])", context))
+        return in_context and ((shared >= 2 and entertainment) or shared >= 3)
     return shared >= 1 or len(tw & context_words) >= 2
 
 def published_articles(root, clock):
@@ -126,7 +134,18 @@ def build_topics(items, articles, clock):
     for t in selected:
         key = t["article_id"]
         if key not in unique or (t["trend_proof"]["geo"], t["trend_proof"]["term"]) < (unique[key]["trend_proof"]["geo"], unique[key]["trend_proof"]["term"]): unique[key] = t
-    return sorted(unique.values(), key=lambda t: (-parse_dt(t["date"]).timestamp(), t["article_id"]))[:TOP_N]
+    ranked = sorted(unique.values(), key=lambda t: (-parse_dt(t["date"]).timestamp(), t["article_id"]))
+    # Per-trend cap (fix 2026-11-02 #2): one hot subject must not crowd
+    # the whole rail — "ramayana movie" alone matched 8 fresh stories
+    # and pushed every other topic past TOP_N. At most 2 stories per
+    # (geo, term); the rail stays a mix of distinct trending subjects.
+    capped, per_term = [], {}
+    for t in ranked:
+        k = (t["trend_proof"]["geo"], t["trend_proof"]["term"])
+        if per_term.get(k, 0) >= 2: continue
+        per_term[k] = per_term.get(k, 0) + 1
+        capped.append(t)
+    return capped[:TOP_N]
 
 def write_change(path, content):
     os.makedirs(os.path.dirname(path), exist_ok=True)
