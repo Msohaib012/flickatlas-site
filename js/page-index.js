@@ -271,6 +271,7 @@
         if (hd.release_date) stats.push(["Release Date", UI.fmtDate(hd.release_date)]);
         stats.push(["Status", hd.release_date && hd.release_date <= today && hd.date_kind !== "festival" ? "Now in Cinemas" : "Coming Soon"]);
       }
+      const synText = (hd.overview || "").slice(0, 200) + ((hd.overview || "").length > 200 ? "\u2026" : "");
       /* Inline display styles (fix round 2, Bug A): slide visibility must
          NOT depend on the stylesheet alone — a stale cached CSS file left
          every slide visible at once on the user's phone. The inline style
@@ -284,7 +285,7 @@
           <${titleTag}>${UI.esc(UI.titleOf(hd))}</${titleTag}>
           ${metaHtml}
           </div>${hd.poster_path ? `<img class="hero-mini-poster" data-movie-id="${hd.id}" src="${UI.img(hd.poster_path, "w342")}" alt="${UI.esc(UI.titleOf(hd))} poster" width="228" height="342" loading="${idx === 0 ? "eager" : "lazy"}" decoding="async" onerror="this.remove()">` : ""}</div>
-          <p class="hero-syn">${UI.esc((hd.overview || "").slice(0, 200))}${(hd.overview || "").length > 200 ? "…" : ""}</p>
+          <p class="hero-syn" data-full="${UI.esc(synText)}">${UI.esc(synText)}</p>
           ${stats.length ? `<div class="hero-stats">${stats.slice(0, 2).map(([k, v]) =>
             `<div><span>${k}</span><b>${UI.escRich(v)}</b></div>`).join("")}</div>` : ""}
           ${s.live && s.last.date ? `<span class="hero-updated">Collections updated through ${UI.fmtDate(s.last.date)}</span>` : ""}
@@ -1326,6 +1327,42 @@
       if (ts) ts.innerHTML = `<h2>Trending Searches</h2><p role="status">Trending searches are unavailable right now.</p>`;
     }
 
+    /* Hero synopsis trim (fix 2026-11-02): the CSS line-clamp box kept
+       slicing the synopsis's second line mid-glyph where it meets the
+       stats panel (owner phone screenshot; also seen at desktop width),
+       so the two-line limit is now MEASURED: the visible slide's
+       synopsis is shortened word by word until its rendered height is
+       exactly two lines at the actual width and font size. Nothing can
+       be clipped mid-line, because the box no longer clips at all. */
+    const trimHeroSyn = (slide) => {
+      const el = slide && slide.querySelector(".hero-syn");
+      if (!el) return;
+      const full = el.getAttribute("data-full") || el.textContent;
+      el.textContent = full;
+      const cs = getComputedStyle(el);
+      const lh = parseFloat(cs.lineHeight) || (parseFloat(cs.fontSize) || 16) * 1.55;
+      const maxH = lh * 2 + 2;
+      if (el.scrollHeight <= maxH) return;
+      const words = full.replace(/\u2026$/, "").trim().split(/\s+/);
+      while (words.length > 1) {
+        words.pop();
+        el.textContent = words.join(" ") + "\u2026";
+        if (el.scrollHeight <= maxH) break;
+      }
+    };
+    const trimVisibleHeroSyn = () => {
+      const car = document.getElementById("heroCarousel");
+      if (!car) return;
+      trimHeroSyn(car.querySelector(".hero-slide.active") || car.querySelector(".hero-slide"));
+    };
+    trimVisibleHeroSyn();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(trimVisibleHeroSyn);
+    let heroSynResizeT = null;
+    window.addEventListener("resize", () => {
+      clearTimeout(heroSynResizeT);
+      heroSynResizeT = setTimeout(trimVisibleHeroSyn, 200);
+    });
+
     /* Hero carousel: auto-slide every 5.5s, dots jump, pause on hover */
     (function heroCarousel() {
       const car = document.getElementById("heroCarousel");
@@ -1341,6 +1378,7 @@
         cur = (n + slides.length) % slides.length;
         slides[cur].classList.add("active");
         slides[cur].style.display = "block";
+        trimHeroSyn(slides[cur]);
         if (dots[cur]) dots[cur].classList.add("on");
       };
       const start = () => { timer = setInterval(() => go(cur + 1), 5500); };
