@@ -306,6 +306,25 @@ function injectSeo(html, meta, canonical) {
   out = setSingleCanonical(out, canonical);
   return injectMergedJsonLd(out, meta, canonical);
 }
+function injectSsr(html, meta) {
+  // Phase 1 (2026-11-02): splice the generator's pre-rendered facts
+  // block (meta.ssr, built by scripts/seo_assets.py) into <main
+  // id="app"> so crawlers that never run JS receive the page's facts.
+  // Every detail page script replaces #app's innerHTML wholesale on
+  // boot, so visitors see exactly what they see today. Fail-open by
+  // construction: a missing/empty payload or a shell whose anchor has
+  // drifted returns the HTML byte-identical to the pre-SSR behaviour.
+  const ssr = meta && typeof meta.ssr === "string" ? meta.ssr : "";
+  if (!ssr) return html;
+  try {
+    return html.replace(/(<main id="app"[^>]*>)[\s\S]*?(<\/main>)/,
+      function (_m, open, close) {
+        return open + '<div class="wrap">' + ssr + '</div>' + close;
+      });
+  } catch (_) {
+    return html;
+  }
+}
 function daywiseTitle(meta, day) {
   const requestedDay = day && /^\d+$/.test(day) ? Number(day) : 0;
   const latestMatch = String(meta.latest_day || "").match(/\d+/);
@@ -680,7 +699,7 @@ async function faMainFetch(request, env) {
             // Canonical is always the apex, slash-free detail URL —
             // never the request host (www) and never the /movie/?id= form.
             const canonical = "https://flickatlas.co.uk" + normPath + url.search;
-            return new Response(injectSeo(html, m2, canonical),
+            return new Response(injectSsr(injectSeo(html, m2, canonical), m2),
               { status: res.status, headers: headers });
           }
         }

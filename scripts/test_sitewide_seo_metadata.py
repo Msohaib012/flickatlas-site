@@ -410,6 +410,91 @@ undated_sitemap, _ = seo.build_sitemap({"max": "", "titles": "", "articles": "",
 assert "<lastmod>" not in undated_sitemap
 seo.PUBLISHED, seo.ARTICLES, seo.DAYWISE = saved
 
+# --- Phase 1 SSR facts blocks (AI-crawler body content, 2026-11-02) ---
+import os
+import re as _re
+from html import unescape as _unescape
+
+_BLOCKLIST_RE = _re.compile(
+    r"\b(?:watch|stream|download|play)\s+(?:online|now|free)\b|"
+    r"\bonline\s+watch\b|\bfull\s+(?:movie|episode)\b", _re.I)
+
+
+def _ssr_h1_text(ssr):
+    match = _re.search(r"<h1>(.*?)</h1>", ssr, _re.S)
+    return seo.plain_text(_unescape(match.group(1))) if match else ""
+
+
+seo.WORLDWIDE = seo.read_js_map(ROOT / "js/worldwide-data.js", "FA_WORLDWIDE")
+for key, value in generated_meta.items():
+    family, _, item_id = key.partition(":")
+    if family not in ("movie", "tv", "news", "daywise", "cat"):
+        continue
+    ssr = value.get("ssr")
+    assert isinstance(ssr, str) and ssr.strip(), (
+        f"{key}: missing ssr facts block")
+    assert ssr.startswith('<article class="ssr-facts">'), (
+        f"{key}: ssr must open the facts article")
+    assert "<script" not in ssr and "<a " not in ssr and "<img" not in ssr, (
+        f"{key}: ssr must be text-only (no scripts, links or images)")
+    h1 = _ssr_h1_text(ssr)
+    if family in ("movie", "tv", "daywise"):
+        assert seo.plain_text(seo.PUBLISHED[item_id].get("title")) in h1, (
+            f"{key}: ssr h1 must name the title")
+    elif family == "news":
+        assert h1 == seo.plain_text(seo.ARTICLES[item_id].get("headline")), (
+            f"{key}: ssr h1 must be the article's own headline")
+    elif family == "cat":
+        assert h1 == seo.CAT_META[item_id][0].split(" | ")[0], (
+            f"{key}: ssr h1 must be the category name")
+    # The playback/download blocklist guards GENERATOR-AUTHORED prose
+    # (title/daywise/category blocks). News blocks reproduce the
+    # article's own published text verbatim — including the canonical
+    # episode headline format "... — Watch Online on <channel>" — so
+    # they are covered by the marker/h1/text-only checks above instead.
+    if family != "news":
+        assert not _BLOCKLIST_RE.search(ssr), (
+            f"{key}: ssr carries a playback/download claim")
+
+fixture_article = seo.news_meta({
+    "id": "fixture-ssr-news", "headline": "Fixture headline for SSR",
+    "dek": "A fixture dek.",
+    "published": "2026-10-30T12:00:00Z",
+    "body": [{"h": "First Section", "p": ["Para one text.", "Para two text."]},
+             {"h": "Second Section", "p": ["Para three text."]}],
+    "facts": ["Fact one."],
+})
+assert fixture_article["ld"]["articleBody"] == (
+    "First Section\n\nPara one text.\n\nPara two text.\n\n"
+    "Second Section\n\nPara three text."), (
+    "NewsArticle articleBody must be the plain-text join of the body")
+assert fixture_article["ssr"].startswith('<article class="ssr-facts">')
+assert "<h2>First Section</h2>" in fixture_article["ssr"]
+assert "<p>Para one text.</p>" in fixture_article["ssr"]
+assert "<li>Fact one.</li>" in fixture_article["ssr"]
+
+review_id = next(
+    tid for tid in sorted(seo.REVIEWS, key=lambda x: int(x))
+    if tid in seo.PUBLISHED and seo.REVIEWS[tid].get("overall")
+    and seo.plain_text(seo.REVIEWS[tid].get("verdict")))
+reviewed_meta = seo.title_meta(seo.PUBLISHED[review_id])
+assert reviewed_meta["ld"]["review"]["reviewRating"]["ratingValue"] == (
+    seo.REVIEWS[review_id]["overall"]), (
+    "the ld Review rating must equal the stored FlickAtlas review score")
+assert reviewed_meta["ld"]["review"]["reviewBody"] == seo.plain_text(
+    seo.REVIEWS[review_id].get("verdict"))
+assert "FlickAtlas review" in reviewed_meta["ssr"]
+
+for shell_rel in ("movie/index.html", "show/index.html",
+                  "news-item/index.html", "box-office-day/index.html",
+                  "category/index.html"):
+    shell_text = (ROOT / shell_rel).read_text(encoding="utf-8")
+    assert '<main id="app" tabindex="-1">' in shell_text, (
+        f"{shell_rel}: the Worker SSR anchor <main id=\"app\"> is missing")
+
+assert os.path.getsize(ROOT / "js/seo-meta.json") < 6 * 1024 * 1024, (
+    "seo-meta.json passed the 6 MB tripwire; cap or slim the ssr payloads")
+
 print(f"Sitewide SEO: {len(shells)} unique route shells; titles/descriptions/keywords valid; "
       "movie/news metadata data-driven; publication dates separate from release dates; "
       "OAI SearchBot explicitly allowed; sitemap synchronized.")

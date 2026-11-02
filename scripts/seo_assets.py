@@ -21,7 +21,14 @@ Outputs:
                      client-rendered detail shells (one shell serves
                      ~250 URLs, so static meta cannot work there).
                      Keys: "movie:<tmdb>", "tv:<tmdb>", "news:<slug>",
-                     "daywise:<tmdb>", "cat:<industry>".
+                     "daywise:<tmdb>", "cat:<industry>". Each entry also
+                     carries a pre-rendered semantic-HTML "ssr" facts
+                     block; the Worker splices it into <main id="app">
+                     so crawlers that never run JS still receive the
+                     page's facts (every page script replaces #app
+                     wholesale on boot, so visitors see no change).
+  llms-full.txt    — llms.txt's sections/notes plus the top published
+                     titles with one-line facts, for AI readers.
 
 Meta rules (owner: accurate titles, never page-name + site-name):
   - Movie and series titles always include their complete fixed page-template
@@ -39,7 +46,7 @@ import re
 import sys
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-from html import unescape
+from html import escape as html_escape, unescape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = "https://flickatlas.co.uk"
@@ -51,6 +58,7 @@ PUBLISHED = {}
 ARTICLES = {}
 DAYWISE = {}
 REVIEWS = {}
+WORLDWIDE = {}
 EPISODE_TRACKER = {"episodes": {}}
 
 INDUSTRY_LABEL = {
@@ -393,6 +401,338 @@ def img_url(entry, kind="backdrop"):
     return BASE + "/icon-512.png"
 
 
+# ---------------------------------------------------------------------
+# SSR facts blocks (phase 1, 2026-11-02): a per-URL, pre-rendered
+# semantic-HTML summary stored in the entry's "ssr" field. The Worker
+# splices it into <main id="app"> (see injectSsr in scripts/worker.mjs);
+# every page script replaces #app wholesale on boot, so visitors see
+# exactly what they see today while non-JS crawlers (GPTBot, ClaudeBot,
+# PerplexityBot) receive the page's facts. Rules: real headings,
+# paragraphs, lists and tables only — no hidden text, no links, no
+# images, no scripts — and only facts the rendered page itself backs,
+# under the same discipline as the meta descriptions. Builders return
+# None when there is nothing substantive, and the entry then simply
+# carries no "ssr" key (the Worker no-ops).
+
+# Cap (in characters) for the plain-text article body used by the news
+# facts block and the NewsArticle articleBody. 0 = no cap (the default);
+# it is a lever if js/seo-meta.json growth ever becomes a problem (the
+# sitewide test trips at 6 MB), not the default behaviour.
+SSR_MAX_ARTICLE_CHARS = 0
+
+
+def _esc(value):
+    """Escape a plain-text value for interpolation into SSR HTML."""
+    return html_escape(plain_text(value), quote=True)
+
+
+def _fmt_score(value):
+    """7.0 -> '7'; 6.5 -> '6.5' (the description score style)."""
+    return ("%.1f" % _number(value)).rstrip("0").rstrip(".")
+
+
+def _cap_article_text(text):
+    if SSR_MAX_ARTICLE_CHARS and len(text) > SSR_MAX_ARTICLE_CHARS:
+        return trunc(text, SSR_MAX_ARTICLE_CHARS)
+    return text
+
+
+def article_body_text(entry):
+    """Flatten an article's stored body sections to plain text: each
+    section heading followed by its paragraphs, blank-line separated."""
+    parts = []
+    for section in (entry.get("body") or []):
+        if not isinstance(section, dict):
+            continue
+        heading = plain_text(section.get("h"))
+        if heading:
+            parts.append(heading)
+        paragraphs = section.get("p") or []
+        if not isinstance(paragraphs, list):
+            paragraphs = [paragraphs]
+        for paragraph in paragraphs:
+            text = plain_text(paragraph)
+            if text:
+                parts.append(text)
+    return _cap_article_text("\n\n".join(parts))
+
+
+def title_ssr(entry, dw, review, worldwide):
+    """Facts block for a /movie or /show page, from the published entry
+    plus its day-wise rows, FlickAtlas review and worldwide record."""
+    title = plain_text(entry.get("title"))
+    if not title:
+        return None
+    year = year_of(entry)
+    is_tv = entry.get("type") == "tv"
+    disp = title + ((" (%s)" % year) if year else "")
+    out = ['<article class="ssr-facts">', "<h1>%s</h1>" % _esc(disp)]
+    substantive = False
+    overview = plain_text(entry.get("overview"))
+    if overview:
+        out.append('<p class="ssr-lead">%s</p>' % _esc(overview))
+        substantive = True
+    facts = []
+    release_date = entry.get("release_date") or entry.get("first_air_date") or ""
+    if release_date:
+        label = "First air date" if is_tv else "Release date"
+        facts.append("%s: %s" % (label, human_date(release_date)))
+    if is_tv:
+        seasons = (0 if entry.get("industry") == "pakistani" else
+                   int(_number(entry.get("number_of_seasons"))))
+        episodes = tv_episode_count(entry)
+        bits = []
+        if seasons:
+            bits.append("Seasons: %d" % seasons)
+        if episodes:
+            bits.append("Episodes: %d" % episodes)
+        if bits:
+            facts.append(" · ".join(bits))
+    else:
+        runtime = int(_number(entry.get("runtime")))
+        if runtime:
+            facts.append("Runtime: %d minutes" % runtime)
+    genres = [plain_text(g) for g in (entry.get("genres") or [])
+              if plain_text(g)]
+    if genres:
+        facts.append("Genres: %s" % ", ".join(genres))
+    budget = _number(entry.get("budget"))
+    if budget > 0:
+        facts.append("Budget: %s" % fmt_money(budget))
+    rating = _number(entry.get("vote_average"))
+    votes = _number(entry.get("vote_count"))
+    if rating and votes:
+        facts.append("TMDB rating: %.1f/10 (%d votes)" % (rating, int(votes)))
+    status = plain_text(entry.get("status"))
+    if status and (is_tv or status != "Released"):
+        facts.append("Status: %s" % status)
+    if facts:
+        out.append("<h2>Key facts</h2>")
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(f) for f in facts)
+                   + "</ul>")
+        substantive = True
+    rows = [r for r in (dw or []) if isinstance(r, dict)]
+    if rows:
+        total_in = sum(_number(r.get("collection")) for r in rows)
+        total_ov = sum(_number(r.get("overseas")) for r in rows)
+        lines = []
+        if fmt_money(total_in):
+            lines.append("India Net total: %s" % fmt_money(total_in))
+        if total_ov > 0:
+            lines.append("Overseas total: %s" % fmt_money(total_ov))
+        latest = rows[-1]
+        latest_bits = []
+        amount_in = fmt_money(_number(latest.get("collection")))
+        if amount_in:
+            latest_bits.append("India Net %s" % amount_in)
+        amount_ov = _number(latest.get("overseas"))
+        if amount_ov > 0:
+            latest_bits.append("Overseas %s" % fmt_money(amount_ov))
+        day_label = plain_text(latest.get("day"))
+        date_label = plain_text(latest.get("date"))
+        if day_label and latest_bits:
+            lines.append("Latest: %s%s — %s" % (
+                day_label, (" (%s)" % date_label) if date_label else "",
+                ", ".join(latest_bits)))
+        # Worldwide total, in the design's source priority: the day-wise
+        # components, then the FA_WORLDWIDE record, then TMDB revenue.
+        worldwide_total = None
+        worldwide_note = ""
+        if total_ov > 0:
+            worldwide_total = total_in + total_ov
+        elif (isinstance(worldwide, dict)
+              and _number(worldwide.get("total_usd")) > 0):
+            worldwide_total = _number(worldwide.get("total_usd"))
+            as_of = plain_text(worldwide.get("as_of"))
+            if as_of:
+                worldwide_note = " (as of %s)" % human_date(as_of)
+        elif _number(entry.get("revenue")) > 0:
+            worldwide_total = _number(entry.get("revenue"))
+        if worldwide_total and fmt_money(worldwide_total):
+            lines.append("Worldwide total: %s%s" % (
+                fmt_money(worldwide_total), worldwide_note))
+        if lines:
+            out.append("<h2>Box office</h2>")
+            out.append("<ul>" + "".join("<li>%s</li>" % _esc(x) for x in lines)
+                       + "</ul>")
+            substantive = True
+    if isinstance(review, dict) and review:
+        overall = _number(review.get("overall"))
+        verdict = plain_text(review.get("verdict"))
+        cats = review.get("categories")
+        cat_items = []
+        if isinstance(cats, dict):
+            cat_items = [(plain_text(k), _number(v))
+                         for k, v in cats.items() if plain_text(k)]
+        if overall > 0 or verdict or cat_items:
+            out.append("<h2>FlickAtlas review</h2>")
+            lead_bits = []
+            if overall > 0:
+                lead_bits.append("Overall: %s/10." % _fmt_score(overall))
+            if verdict:
+                lead_bits.append(verdict)
+            if lead_bits:
+                out.append("<p>%s</p>" % _esc(" ".join(lead_bits)))
+            if cat_items:
+                out.append("<ul>" + "".join(
+                    "<li>%s: %s/10</li>" % (_esc(k), _fmt_score(v))
+                    for k, v in cat_items) + "</ul>")
+            substantive = True
+    seen_providers = set()
+    watch = []
+    for provider in (entry.get("providers") or []):
+        if not isinstance(provider, dict) or provider.get("type") != "flatrate":
+            continue
+        name = plain_text(provider.get("name"))
+        region = plain_text(provider.get("region"))
+        if not name or (name, region) in seen_providers:
+            continue
+        seen_providers.add((name, region))
+        watch.append("Streaming on %s%s" % (
+            name, (" (%s)" % region) if region else ""))
+    if watch:
+        out.append("<h2>Where to watch</h2>")
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(w) for w in watch)
+                   + "</ul>")
+        substantive = True
+    out.append("</article>")
+    return "\n".join(out) if substantive else None
+
+
+def news_ssr(entry):
+    """Facts block for a /news-item page: the article's own headline,
+    dek, stored body sections and key facts, reproduced in full (the
+    same content js/page-news-item.js renders)."""
+    headline = plain_text(entry.get("headline"))
+    if not headline:
+        return None
+    out = ['<article class="ssr-facts">', "<h1>%s</h1>" % _esc(headline)]
+    substantive = False
+    dek = plain_text(entry.get("dek"))
+    if dek:
+        out.append('<p class="ssr-lead">%s</p>' % _esc(dek))
+        substantive = True
+    dates = publication_dates(entry)
+    if dates["published"]:
+        out.append('<p class="ssr-date">Published %s</p>'
+                   % _esc(human_date(dates["published"])))
+    budget = SSR_MAX_ARTICLE_CHARS or None
+    used = 0
+    exhausted = False
+    for section in (entry.get("body") or []):
+        if exhausted:
+            break
+        if not isinstance(section, dict):
+            continue
+        paragraphs = section.get("p") or []
+        if not isinstance(paragraphs, list):
+            paragraphs = [paragraphs]
+        rendered = []
+        for paragraph in paragraphs:
+            text = plain_text(paragraph)
+            if not text:
+                continue
+            if budget is not None:
+                room = budget - used
+                if room <= 0:
+                    exhausted = True
+                    break
+                if len(text) > room:
+                    text = trunc(text, room)
+                    exhausted = True
+                used += len(text)
+            rendered.append("<p>%s</p>" % _esc(text))
+        if rendered:
+            heading = plain_text(section.get("h"))
+            if heading:
+                out.append("<h2>%s</h2>" % _esc(heading))
+            out.extend(rendered)
+            substantive = True
+    facts = [plain_text(f) for f in (entry.get("facts") or []) if plain_text(f)]
+    if facts:
+        out.append("<h2>Key facts</h2>")
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(f) for f in facts)
+                   + "</ul>")
+        substantive = True
+    out.append("</article>")
+    return "\n".join(out) if substantive else None
+
+
+def daywise_ssr(entry, rows):
+    """Facts block for a /box-office-day page: per-title totals plus the
+    day-wise table through theatrical Day 30 (identical for every
+    &day= variant; the Worker keeps composing the per-day head)."""
+    title = plain_text(entry.get("title"))
+    rows = [r for r in (rows or []) if isinstance(r, dict)]
+    if not title or not rows:
+        return None
+    year = year_of(entry)
+    disp = title + ((" (%s)" % year) if year else "")
+    total_in = sum(_number(r.get("collection")) for r in rows)
+    total_ov = sum(_number(r.get("overseas")) for r in rows)
+    out = ['<article class="ssr-facts">',
+           "<h1>%s — Day-wise Box Office Collection</h1>" % _esc(disp)]
+    lines = []
+    if fmt_money(total_in):
+        lines.append("India Net total (all days): %s" % fmt_money(total_in))
+    if total_ov > 0:
+        lines.append("Overseas total: %s" % fmt_money(total_ov))
+    latest = rows[-1]
+    day_label = plain_text(latest.get("day"))
+    date_label = plain_text(latest.get("date"))
+    if day_label:
+        line = "Latest reported day: %s" % day_label
+        if date_label:
+            line += " — %s" % human_date(date_label)
+        lines.append(line)
+    if lines:
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(x) for x in lines)
+                   + "</ul>")
+    valid = _valid_day_rows(rows)
+    if valid:
+        out.append("<h2>Day-wise collection (India Net, USD)</h2>")
+        trs = ["<tr><th>Day</th><th>Date</th><th>India Net</th>"
+               "<th>Overseas</th></tr>"]
+        for n, row in valid:
+            ov = _number(row.get("overseas"))
+            trs.append(
+                "<tr><td>Day %d</td><td>%s</td><td>%s</td><td>%s</td></tr>" % (
+                    n, _esc(row.get("date")),
+                    _esc(fmt_money(_number(row.get("collection"))) or "—"),
+                    _esc(fmt_money(ov)) if ov > 0 else "—"))
+        out.append("<table>" + "".join(trs) + "</table>")
+    out.append("</article>")
+    return "\n".join(out)
+
+
+def cat_ssr(cat, published):
+    """Facts block for a /category page: the category's own description
+    plus its most recent covered titles (plain text, no links)."""
+    t, d, _k = CAT_META[cat]
+    out = ['<article class="ssr-facts">',
+           "<h1>%s</h1>" % _esc(t.split(" | ")[0]),
+           "<p>%s</p>" % _esc(d)]
+    titles = [e for e in (published or {}).values()
+              if isinstance(e, dict) and e.get("industry") == cat
+              and plain_text(e.get("title"))]
+
+    def _recency(e):
+        return (e.get("release_date") or e.get("first_air_date") or "",
+                plain_text(e.get("title")))
+    titles.sort(key=_recency, reverse=True)
+    items = []
+    for e in titles[:10]:
+        name = plain_text(e.get("title"))
+        y = year_of(e)
+        items.append("%s (%s)" % (name, y) if y else name)
+    if items:
+        out.append("<h2>Latest covered titles</h2>")
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(i) for i in items)
+                   + "</ul>")
+    out.append("</article>")
+    return "\n".join(out)
+
+
 def title_meta(entry):
     """Use fixed page-template labels; describe only facts the page supports."""
     title = plain_text(entry.get("title"))
@@ -572,9 +912,28 @@ def title_meta(entry):
     else:
         if entry.get("runtime"):
             ld["duration"] = "PT%dM" % int(entry["runtime"])
-    return {"t": t, "d": trunc_description(d, 160), "k": ", ".join(kws), "img": img_url(entry),
-            "ld": ld, "year": year, "industry": entry.get("industry"),
-            **publication_dates(entry)}
+    if has_review and review_score > 0:
+        # The FlickAtlas editorial review, as a schema.org Review node on
+        # the film/series entity (aggregateRating above is TMDB's).
+        review_node = {
+            "@type": "Review",
+            "author": {"@type": "Organization", "name": "FlickAtlas"},
+            "reviewRating": {"@type": "Rating",
+                             "ratingValue": review_score,
+                             "bestRating": 10},
+        }
+        verdict = plain_text(review.get("verdict"))
+        if verdict:
+            review_node["reviewBody"] = verdict
+        ld["review"] = review_node
+    out = {"t": t, "d": trunc_description(d, 160), "k": ", ".join(kws),
+           "img": img_url(entry), "ld": ld, "year": year,
+           "industry": entry.get("industry"), **publication_dates(entry)}
+    ssr = title_ssr(entry, rows, review,
+                    (WORLDWIDE or {}).get(str(entry.get("id"))))
+    if ssr:
+        out["ssr"] = ssr
+    return out
 
 
 _EP_RE = re.compile(
@@ -709,8 +1068,15 @@ def news_meta(entry):
         ld["datePublished"] = dates["published"]
     if dates["modified"]:
         ld["dateModified"] = dates["modified"]
-    return {"t": t, "d": d, "k": ", ".join(kws), "img": img, "ld": ld,
-            **dates}
+    body_text = article_body_text(entry)
+    if body_text:
+        ld["articleBody"] = body_text
+    out = {"t": t, "d": d, "k": ", ".join(kws), "img": img, "ld": ld,
+           **dates}
+    ssr = news_ssr(entry)
+    if ssr:
+        out["ssr"] = ssr
+    return out
 
 
 def daywise_meta(entry):
@@ -756,11 +1122,15 @@ def daywise_meta(entry):
         else "box office collection",
         "FlickAtlas",
     ], 8)
-    return {"t": disp, "year": year, "days": len(rows),
-            "total_in": total_in, "total_ov": total_ov,
-            "latest_day": latest.get("day"), "latest_date": latest.get("date"),
-            "day_rows": daily, "d": d, "k": ", ".join(kws), "img": img_url(entry),
-            "ld": title_meta(entry)["ld"]}
+    out = {"t": disp, "year": year, "days": len(rows),
+           "total_in": total_in, "total_ov": total_ov,
+           "latest_day": latest.get("day"), "latest_date": latest.get("date"),
+           "day_rows": daily, "d": d, "k": ", ".join(kws),
+           "img": img_url(entry), "ld": title_meta(entry)["ld"]}
+    ssr = daywise_ssr(entry, rows)
+    if ssr:
+        out["ssr"] = ssr
+    return out
 
 
 def xml_esc(s):
@@ -855,8 +1225,58 @@ def build_robots():
             "Sitemap: %s/sitemap.xml\n" % BASE)
 
 
+def build_llms_full():
+    """llms-full.txt: llms.txt's own header/sections/notes (read from the
+    checked-in file, so the two can never drift apart) plus the top
+    published titles with one-line facts for AI readers. Deterministic:
+    popularity first (TMDB's own field where the metadata refresh has
+    populated it), vote count as the fallback signal, title as the
+    final tiebreak."""
+    try:
+        with open(os.path.join(ROOT, "llms.txt"), encoding="utf-8") as f:
+            base = f.read().strip()
+    except OSError:
+        base = "# FlickAtlas"
+    lines = [base, "", "## Top titles", ""]
+
+    def _pop_score(e):
+        pop = e.get("popularity")
+        if isinstance(pop, (int, float)) and math.isfinite(pop):
+            return float(pop)
+        return _number(e.get("vote_count")) * 0.01
+
+    ranked = sorted(
+        (e for e in PUBLISHED.values()
+         if isinstance(e, dict) and plain_text(e.get("title"))),
+        key=lambda e: (-_pop_score(e), -_number(e.get("vote_count")),
+                       plain_text(e.get("title")), str(e.get("id"))))
+    for e in ranked[:150]:
+        title = plain_text(e.get("title"))
+        year = year_of(e)
+        disp = title + ((" (%s)" % year) if year else "")
+        page = "show" if e.get("type") == "tv" else "movie"
+        url = "%s/%s?id=%s" % (BASE, page, e.get("id"))
+        bits = []
+        ind = INDUSTRY_LABEL.get(e.get("industry"))
+        if ind:
+            bits.append(ind)
+        genres = [plain_text(g) for g in (e.get("genres") or [])[:3]
+                  if plain_text(g)]
+        if genres:
+            bits.append(", ".join(genres))
+        rating = _number(e.get("vote_average"))
+        votes = _number(e.get("vote_count"))
+        if rating and votes:
+            bits.append("TMDB rating %.1f/10" % rating)
+        overview = trunc(plain_text(e.get("overview")), 160)
+        if overview:
+            bits.append(overview)
+        lines.append("- [%s](%s) — %s" % (disp, url, "; ".join(bits)))
+    return "\n".join(lines) + "\n"
+
+
 def main():
-    global PUBLISHED, ARTICLES, DAYWISE, REVIEWS, EPISODE_TRACKER
+    global PUBLISHED, ARTICLES, DAYWISE, REVIEWS, WORLDWIDE, EPISODE_TRACKER
     PUBLISHED = read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
                             "FA_PUBLISHED")
     ARTICLES = read_js_map(os.path.join(ROOT, "js", "articles-data.js"),
@@ -865,6 +1285,11 @@ def main():
                           "FA_DAYWISE")
     REVIEWS = read_js_map(os.path.join(ROOT, "js", "reviews-data.js"),
                           "FA_REVIEWS")
+    try:
+        WORLDWIDE = read_js_map(os.path.join(ROOT, "js", "worldwide-data.js"),
+                                "FA_WORLDWIDE")
+    except (OSError, ValueError, KeyError):
+        WORLDWIDE = {}
     try:
         with open(os.path.join(ROOT, "out", "episodes.json"),
                   encoding="utf-8") as f:
@@ -906,6 +1331,7 @@ def main():
                    "name": t.split(" | ")[0],
                    "url": "%s/category?cat=%s" % (BASE, cat),
                    "description": d},
+            "ssr": cat_ssr(cat, PUBLISHED),
         }
 
     meta_path = os.path.join(ROOT, "js", "seo-meta.json")
@@ -918,6 +1344,8 @@ def main():
         f.write(sitemap)
     with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
         f.write(build_robots())
+    with open(os.path.join(ROOT, "llms-full.txt"), "w", encoding="utf-8") as f:
+        f.write(build_llms_full())
 
     print("seo_assets: %d titles (%d movies, %d tv), %d articles, "
           "%d daywise titles" % (
