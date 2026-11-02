@@ -103,7 +103,7 @@
     /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
        AT LEAST as many titles as the homepage movies rail (Spotlight,
        12 cards) — the old ott:7 cap bound the rails before the data did. */
-    const HOME_LIMITS = { soon: 12, calendar: 8, trending: 10, boxoffice: 8, news: 7, dramas: 13, ott: 12 };
+    const HOME_LIMITS = { soon: 20, calendar: 8, trending: 10, boxoffice: 8, news: 7, dramas: 13, ott: 20 };
     /* Trending News desktop count (owner order 2026-11-02): the
        .editorial-grid is 3 columns at min-width:1000px (css/style.css),
        where HOME_LIMITS.news = 7 leaves the last row with two empty
@@ -192,12 +192,14 @@
            the old 'fresh this week' rule capped Bollywood at the 4 movies
            released in the last 7 days). Now the 12 NEWEST released movies
            in the 60-day "running now" window (inSpotlightWindow, above).
+           Cap raised 12 -> 20 on 2026-11-02 (owner order: manually-slid
+           homepage rails show 20).
            Live 2026-10-28: Bollywood 12 in-window, World 28 — the
            Bollywood rail shows 8 after the streaming-only exclusion,
            the World rail stays full at 12. New titles join daily via
            the nightly seeder. */
         const rel = items.filter(x => typeOf(x) === "movie" && isReleased(x) && inSpotlightWindow(x) && !UI.isStreamingOnly(x)).sort(byNewest);
-        if (type === "tv") return releasedTv().slice(0, 12);
+        if (type === "tv") return releasedTv().slice(0, 20);
         if (type === "all") {
           /* "All" must visibly show BOTH types: a plain newest-first
              merge squeezes TV out — the 12 newest released items are
@@ -209,14 +211,14 @@
           const tv = releasedTv();
           const merged = [];
           let mi = 0, ti = 0;
-          while (merged.length < 12 && (mi < rel.length || ti < tv.length)) {
+          while (merged.length < 20 && (mi < rel.length || ti < tv.length)) {
             if (mi < rel.length) merged.push(rel[mi++]);
-            if (merged.length >= 12) break;
+            if (merged.length >= 20) break;
             if (ti < tv.length) merged.push(tv[ti++]);
           }
           return merged;
         }
-        return rel.slice(0, 12);
+        return rel.slice(0, 20);
       }
       if (kind === "soon") return byType(items.filter(x => isUpcoming(x))).sort(byComingSoon);
       return byType(items.filter(x => isUpcoming(x))).sort((a, b) => dateOf(a).localeCompare(dateOf(b)) || byNewest(a, b));
