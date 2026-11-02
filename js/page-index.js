@@ -343,39 +343,61 @@
         && dateOf(x) <= today && dateOf(x).slice(0, 4) === currentYear)
       .sort(byNewest);
 
-    /* ---------- Trending Worldwide: Bollywood + World MIX (owner
-       correction 2026-11-02: "Trending Worldwide ka matlab sirf World
-       Cinema nahi hai"). Two REAL trending signals, interleaved W,I,W,I:
-         WORLD half — window.FA_TRENDING (TMDB /trending/movie/week,
-           js/trending-data.js) in TMDB rank order, published only.
-         INDIA half — published Bollywood movies that are current
-           (UI.isFresh: released within ~90 days or upcoming), ranked by
-           TMDB popularity desc. TMDB's global list often carries NO
-           Indian title at all (2026-11-02: 20/20 world), so India's
-           trending side is its popularity signal, never a catalogue
-           trawl. Duplicates skipped; if one half runs out, the other
-           fills; renders nothing only when BOTH halves are empty.
+    /* ---------- Trending Worldwide: world spine + EARNED Indian
+       inserts (owner corrections 2026-11-02: first "sirf World Cinema
+       nahi", then "jo trending deserve bhi nahi karti wo bhi daal di").
+       WORLD spine — window.FA_TRENDING (TMDB /trending/movie/week,
+       js/trending-data.js) in TMDB rank order, published only; it
+       fills the rail by default.
+       INDIA inserts (at most 3) must EARN the slot with a current
+       market-heat signal — never catalogue popularity (the first mix
+       filled half the rail with 40-90-day-old titles at popularity
+       8-15 against world titles at 100-200):
+         A) a verified advance-booking total of $50K+ in
+            window.FA_ADVANCE (real presale money), biggest first;
+         B) tracked at the box office right now (FA_DAYWISE rows) and
+            released within the last 21 days, popularity order.
+       One insert lands after every 2 world titles; when no Indian
+       title qualifies, the rail is honestly all-world.
        The See All pool (js/page-movies.js trendingPool) mirrors this
-       exact construction — keep the two in sync. ---------- */
+       exact construction with a cap of 6 — keep the two in sync. --- */
     const trendingIds = Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : [];
     const trendingTop20 = [...new Set(trendingIds.slice(0, 20).map(String))];
     const trendingWorld = trendingTop20
       .map(id => (window.FA_PUBLISHED || {})[id])
       .filter(x => x && typeOf(x) === "movie" && x.poster_path);
-    const trendingIndia = pubAll()
+    const advDataT = window.FA_ADVANCE || {};
+    const advTotalOf = (id) => (Array.isArray(advDataT[String(id)]) ? advDataT[String(id)] : [])
+      .reduce((sum, r) => sum + (Number(r && r.collection) || 0), 0);
+    const trendCutoff = new Date(Date.parse(today) - 21 * 864e5).toISOString().slice(0, 10);
+    const worldIdSet = new Set(trendingWorld.map(x => String(x.id)));
+    const indiaPoolT = pubAll()
       .filter(x => x && typeOf(x) === "movie" && x.poster_path
-        && UI.industryOf(x) === "bollywood" && UI.isFresh(x))
+        && UI.industryOf(x) === "bollywood" && !worldIdSet.has(String(x.id)));
+    const indiaHeatA = indiaPoolT
+      .filter(x => advTotalOf(x.id) >= 50000)
+      .sort((a, b) => advTotalOf(b.id) - advTotalOf(a.id));
+    const indiaHeatB = indiaPoolT
+      .filter(x => advTotalOf(x.id) < 50000
+        && Array.isArray(dwData[String(x.id)]) && dwData[String(x.id)].length > 0
+        && String(x.release_date || "") >= trendCutoff && String(x.release_date || "") <= today)
       .sort((a, b) => (Number(b.popularity) || 0) - (Number(a.popularity) || 0)
         || String(b.release_date || "").localeCompare(String(a.release_date || "")));
+    const trendingIndia = [...indiaHeatA, ...indiaHeatB].slice(0, 3);
     const trendingEntries = [];
     {
       const seenT = new Set();
-      let wi = 0, ii = 0;
-      while (trendingEntries.length < HOME_LIMITS.trending
-          && (wi < trendingWorld.length || ii < trendingIndia.length)) {
+      let wi = 0, ii = 0, placedW = 0;
+      while (trendingEntries.length < HOME_LIMITS.trending && wi < trendingWorld.length) {
         const w = trendingWorld[wi++];
-        if (w && !seenT.has(String(w.id))) { seenT.add(String(w.id)); trendingEntries.push(w); }
-        if (trendingEntries.length >= HOME_LIMITS.trending) break;
+        if (w && !seenT.has(String(w.id))) { seenT.add(String(w.id)); trendingEntries.push(w); placedW++; }
+        if (placedW && placedW % 2 === 0 && ii < trendingIndia.length
+            && trendingEntries.length < HOME_LIMITS.trending) {
+          const n = trendingIndia[ii++];
+          if (n && !seenT.has(String(n.id))) { seenT.add(String(n.id)); trendingEntries.push(n); }
+        }
+      }
+      while (trendingEntries.length < HOME_LIMITS.trending && ii < trendingIndia.length) {
         const n = trendingIndia[ii++];
         if (n && !seenT.has(String(n.id))) { seenT.add(String(n.id)); trendingEntries.push(n); }
       }

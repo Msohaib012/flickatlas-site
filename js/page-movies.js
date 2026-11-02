@@ -163,30 +163,53 @@
       render();
     });
 
-  /* Trending pool: the SAME Bollywood + World mix as the homepage rail
-     (owner correction 2026-11-02 — keep in sync with page-index.js).
-     WORLD half = FA_TRENDING order (TMDB /trending/movie/week) matched
-     to published movies with a poster; deliberately NOT release-gated
-     (a title trending this week belongs here even if it released months
-     ago or is still upcoming). INDIA half = published Bollywood movies
-     that are current (UI.isFresh), ranked by popularity desc — TMDB's
-     global list often has no Indian title, so India's trending side is
-     its popularity signal. Interleaved W,I,W,I..., duplicates skipped. */
+  /* Trending pool: the SAME construction as the homepage rail
+     (owner corrections 2026-11-02 — keep in sync with page-index.js).
+     WORLD spine = FA_TRENDING order (TMDB /trending/movie/week)
+     matched to published movies with a poster; deliberately NOT
+     release-gated (a title trending this week belongs here even if it
+     released months ago or is still upcoming). INDIA inserts (at
+     most 6 here) must EARN the slot with a current market-heat
+     signal: (A) a verified advance-booking total of $50K+ in
+     window.FA_ADVANCE, biggest first; (B) tracked at the box office
+     right now (FA_DAYWISE rows) and released within the last 21
+     days, popularity order. One insert after every 2 world titles;
+     when no Indian title qualifies, the pool is honestly all-world. */
   const trendingPool = (() => {
     const worldHalf = [...new Set((Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : []).slice(0, 20).map(String))]
       .map(id => (window.FA_PUBLISHED || {})[id])
       .filter(x => x && x.id && x.type === "movie" && x.poster_path);
-    const indiaHalf = Object.values(window.FA_PUBLISHED || {})
+    const advDataP = window.FA_ADVANCE || {};
+    const advTotalP = (id) => (Array.isArray(advDataP[String(id)]) ? advDataP[String(id)] : [])
+      .reduce((sum, r) => sum + (Number(r && r.collection) || 0), 0);
+    const todayP = UI.todayPKT();
+    const cutoffP = new Date(Date.parse(todayP) - 21 * 864e5).toISOString().slice(0, 10);
+    const dwP = window.FA_DAYWISE || {};
+    const worldIdsP = new Set(worldHalf.map(x => String(x.id)));
+    const indiaPoolP = Object.values(window.FA_PUBLISHED || {})
       .filter(x => x && x.id && x.type === "movie" && x.poster_path
-        && UI.industryOf(x) === "bollywood" && UI.isFresh(x))
+        && UI.industryOf(x) === "bollywood" && !worldIdsP.has(String(x.id)));
+    const indiaAP = indiaPoolP
+      .filter(x => advTotalP(x.id) >= 50000)
+      .sort((a, b) => advTotalP(b.id) - advTotalP(a.id));
+    const indiaBP = indiaPoolP
+      .filter(x => advTotalP(x.id) < 50000
+        && Array.isArray(dwP[String(x.id)]) && dwP[String(x.id)].length > 0
+        && String(x.release_date || "") >= cutoffP && String(x.release_date || "") <= todayP)
       .sort((a, b) => (Number(b.popularity) || 0) - (Number(a.popularity) || 0)
-        || String(b.release_date || "").localeCompare(String(a.release_date || "")))
-      .slice(0, 20);
+        || String(b.release_date || "").localeCompare(String(a.release_date || "")));
+    const indiaHalf = [...indiaAP, ...indiaBP].slice(0, 6);
     const out = [], seen = new Set();
-    let wi = 0, ii = 0;
-    while (wi < worldHalf.length || ii < indiaHalf.length) {
+    let wi = 0, ii = 0, placedW = 0;
+    while (wi < worldHalf.length) {
       const w = worldHalf[wi++];
-      if (w && !seen.has(String(w.id))) { seen.add(String(w.id)); out.push(w); }
+      if (w && !seen.has(String(w.id))) { seen.add(String(w.id)); out.push(w); placedW++; }
+      if (placedW && placedW % 2 === 0 && ii < indiaHalf.length) {
+        const n = indiaHalf[ii++];
+        if (n && !seen.has(String(n.id))) { seen.add(String(n.id)); out.push(n); }
+      }
+    }
+    while (ii < indiaHalf.length) {
       const n = indiaHalf[ii++];
       if (n && !seen.has(String(n.id))) { seen.add(String(n.id)); out.push(n); }
     }
