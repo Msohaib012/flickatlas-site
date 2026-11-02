@@ -1411,6 +1411,29 @@ window.FA_REVIEWS = {
     "verdict": "Sector 36 is a disturbing, horrific, and brutal movie that delivers a stark and necessary story about dark themes. Backed by great direction and stellar performances from Vikrant Massey and the cast, it is recommended for mature audiences who can stomach its graphic violence. Viewer discretion is strongly advised.",
     "weaknesses": "The film features extremely graphic violent scenes and a brutal narrative that makes it hard to watch for many viewers. Some viewers note that the dialogues are too simplistic and the editing can feel choppy at places. Additionally, it may not fully capture the raw horror of the real events and is definitely not suitable for children."
   },
+  "1251608": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 8.0,
+      "Direction": 7.5,
+      "Music & BGM": 7.0,
+      "Performances": 8.5,
+      "Story & Screenplay": 6.0
+    },
+    "comedy": "The film leans heavily into pure, fabulous camp, offering a preposterous and silly experience that it completely recognises and relishes in. Reviewers note that it is a sapphic, decadent horror comedy filled with bizarre episodes and extravagant set pieces like fancy dinners and balls. It provides an entertaining and eccentric ride complete with unique characters and a show-stopping musical performance.",
+    "overall": 7.0,
+    "performances": "Isabelle Huppert is fabulous as the titular vampire royal, bringing her trademark villainous flair to the long-awaited project. Birgit Minichmayr stars as her devoted underling and maid, proving to be Huppert's equal in every scene they share. The supporting cast also features Thomas Schubert, Lars Eidinger, and André Jung rounding out the madcap ensemble of pursuers.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In this comedic and gothic tale directed by Ulrike Ottinger, Countess Erzsébet Báthory returns after decades of absence to embark on a quest for the red elixir of life and a book that threatens the vampire realm. Alongside her devoted maid Hermine, the duo must track down this dangerous artifact while descending upon Vienna for a mass feeding every twenty-five years. Hot on their heels are an ensemble of madcap characters, including a police inspector, two vampirologists, a vegetarian nephew, and his therapist.",
+    "strengths": [
+      "Fabulous and campy tone",
+      "Standout lead performances by Isabelle Huppert and Birgit Minichmayr",
+      "Exquisite and eye-catching costumes",
+      "Distinctive auteur direction by Ulrike Ottinger"
+    ],
+    "verdict": "The Blood Countess is a delightfully preposterous and campy vampire comedy that marks a terrific return for director Ulrike Ottinger. Anchored by fabulous lead performances and exquisite costumes, it delivers an eccentric and visually striking experience despite some haphazard plotting. Recommended for fans of queer cinema, campy horror, and distinctive auteur visions.",
+    "weaknesses": "Despite its visual flair and entertaining premise, the film occasionally proves heavy-handed and devolves into haphazard, nonsensical plotting. Reviewers note that the narrative can feel like people simply playing dress-up while crashing fancy dinners and balls. Additionally, the resolution ultimately feels far more rushed than satisfying."
+  },
   "1257960": {
     "categories": {
       "Action & Cinematography": 6.5,
@@ -2037,6 +2060,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Gandhari struggles to maintain its initial promise, descending into a messy second half despite solid lead performances. Viewers looking for a tightly wound thriller may find it a difficult watch. It is recommended primarily for hardcore fans of the cast.",
     "weaknesses": "The script feels confused and stitched together, with logic going missing as the story quickly loses its way. Reviewers note that the thriller lacks anything remotely intriguing enough to keep viewers on the edge, rendering it a seriously weak film overall."
+  },
+  "1365224": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 7.0,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "The film does not focus on traditional comedy, maintaining a serious dramatic tone centred on sports and personal dedication. Its entertainment value derives entirely from the high-stakes journey toward the Olympics and the close partnership between Sandra and her coach. Viewers looking for lighthearted humor will not find it here, as the narrative remains strictly grounded in the dramatic reality of athletic competition.",
+    "overall": 7.0,
+    "performances": "The cast features Andrea Ros, Patrick Criado, Ernesto Alterio, Antonio Durán 'Morris', and Pilar Castro under the direction of Aritz Moreno. The actors bring grounded energy to their roles, anchoring the dramatic personal stakes of the sports journey. The central relationship between Sandra and her coach is supported by committed performances from the ensemble.",
+    "source": "FlickAtlas Review",
+    "story_plot": "At 39 years old, Spanish karateka Sandra Sánchez sets her sights on Olympic gold in Tokyo, facing the defining test of her career. Her coach and life partner, Jesús del Moral, stays by her side throughout this journey. Their shared bond turns each step toward the Games into a mutual act of commitment.",
+    "strengths": [
+      "Compelling sports drama premise",
+      "Strong focus on a real-life athletic journey",
+      "Committed performances from the cast",
+      "Grounded emotional bond between the main characters"
+    ],
+    "verdict": "Karateka delivers a grounded and dedicated sports drama led by solid performances and a compelling real-world premise. While it follows a familiar path for biographical sports films, its emotional core makes it a worthwhile watch. Recommended for fans of inspiring athletic journeys and character-driven dramas.",
+    "weaknesses": "The film carries the risk of a familiar and predictable sports setup, potentially treading well-worn narrative paths without offering major surprises. Viewers seeking fast-paced cinematic action or complex subplots may find the singular focus on the Olympic journey a bit narrow."
   },
   "1367220": {
     "categories": {
@@ -2814,6 +2860,29 @@ window.FA_REVIEWS = {
     "verdict": "Gajab Raat is a worthwhile watch primarily for fans of intense crime thrillers and stellar lead acting. Manoj Bajpayee saves the day and keeps viewers hooked even when the film meanders. It earns a solid recommendation for anyone looking for an engaging night-time thriller on Netflix.",
     "weaknesses": "Despite a strong start and engaging lead performances, the film occasionally meanders as it develops its narrative. Some parts of the plot feel familiar and derivative of previous sagas about bent cops and greedy politicians, leading to an uneven pacing that holds the overall experience back."
   },
+  "1458300": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 4.5,
+      "Direction": 6.0,
+      "Music & BGM": 6.0,
+      "Performances": 6.5,
+      "Story & Screenplay": 5.0
+    },
+    "comedy": "The film does not focus on traditional comedy, as its premise is rooted in heavy historical drama, war, and the rigorous discipline of military life. Its entertainment value instead relies on the tension of college football competition, morale-boosting athletic events, and the camaraderie built among the athletes. Any lighthearted moments are strictly tied to teamwork and sportsmanship before the narrative shifts into intense combat.",
+    "overall": 5.5,
+    "performances": "The cast features Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, and Brent Comer portraying young athletes forced to confront the harsh realities of military service. Reviewers note that the actors bring a believable presence, relatability, and a sense of shared humanity when capturing men bonding through touchdowns and teamwork.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war. The narrative moves from 1941 to 1944, loosely tying together their college days, morale-boosting games overseas, and the harsh realities of the Pacific theater leading up to the invasion of Okinawa. Peter Berg's war epic attempts to capture true historical events, though it struggles at times to define its overall focus.",
+    "strengths": [
+      "Believable presence from the main cast",
+      "Strong direction in staging combat scenes with conviction",
+      "Effective portrayal of men bonding through football and teamwork",
+      "Rooted in a true historical background"
+    ],
+    "verdict": "The Mosquito Bowl is a muscular war film directed by Peter Berg that has strong technical ambitions and committed performances, but it ultimately stumbles under a weak script and a lack of narrative focus. While it offers moments of genuine brotherhood and well-staged combat, its heavy reliance on shock value over humanity makes it a mixed experience. Viewers interested in World War II history and athletic drama may find pockets of interest, but expectations should be kept in check.",
+    "weaknesses": "The film struggles to define its story, lurching forward from 1941 to 1944 with relentless movement between battles. Critics point out that it lacks sufficient humanity, relies almost exclusively on shock, and fails to keep the audience invested in its characters as it plunges into the horrors of the Pacific theater."
+  },
   "1465063": {
     "categories": {
       "Action & Cinematography": 7.0,
@@ -3213,6 +3282,29 @@ window.FA_REVIEWS = {
     "verdict": "On the whole, Youth is a decent and watchable youth drama that appeals to younger viewers while still holding some broader interest. With effective lead performances and a strong emotional stretch toward the end, it makes for a fair outing despite its slower midsection. Recommended as a decent watch for fans of coming-of-age stories.",
     "weaknesses": "The film is held back by a familiar setup that does not break much new ground. Additionally, it suffers from a few laggy moments in the second half that slow down the narrative momentum."
   },
+  "1547311": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "As a serious drama, the film does not focus on traditional humour or lighthearted entertainment value. Instead, its entertainment stems from the emotionally exhaustive and wrenching portrayal of human beings trying to stay afloat amidst precarious situations. Viewers looking for light relief will not find it here, as the tone remains steadfastly grounded in the heavy realities of its protagonists.",
+    "overall": 7.5,
+    "performances": "The cast features Oriol Pla, Marina Salas, Gemma Martínez, Kai Etxaniz, and Itziar Lazkano in roles that sketch complex, flawed human beings. Director Javier Giner presents characters with all their rough edges, and the performances capture individuals who make mistakes while doing their utmost not to fall. The actors deliver an emotionally exhaustive portrait of exhaustion and resilience.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Leo and Lorea navigate the end of a five-year relationship while dealing with their respective burdens and personal crises. Leo cares for his sick father, caught between responsibility and an emotional void, while Lorea tries to get her life back on track through poorly-paid jobs. The film portrays two parallel tales of personal and emotional struggles reflecting the legacy of a generation arriving late to stability and love.",
+    "strengths": [
+      "deeply cared-for characters without excessive slack",
+      "wrenching and emotionally exhaustive portrait",
+      "strong script co-written by Luisa Martínez and directed by Javier Giner",
+      "compelling parallel tales of personal struggle"
+    ],
+    "verdict": "This Solitude is a wrenching and emotionally honest drama that presents a clear-eyed look at modern precarity and broken relationships. It is recommended for viewers who appreciate grounded, character-driven storytelling without easy resolutions.",
+    "weaknesses": "The film explores thorny and heavy subject matter that does not demand immediate attention or force the viewer to easily embrace its premise. The metaphorical crossings between the two stories can occasionally feel distant rather than strictly realistic, which might test the patience of viewers seeking a more conventional narrative flow."
+  },
   "1561687": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -3398,6 +3490,30 @@ window.FA_REVIEWS = {
     "verdict": "Dhurandhar: The Revenge is a massive, high-octane spy thriller that successfully delivers on scale and tension despite leaning into hyper-violence and a sprawling runtime. Fans of the prequel and intense action cinema will find plenty of thrilling moments anchored by Ranveer Singh's strong lead turn. Recommended for viewers looking for a grand cinematic event, though it demands patience through its heavier, blood-soaked stretches.",
     "weaknesses": "Despite a strong start and masterfully crafted prologue, some reviewers point out that the hyper-violent sequel feels rushed and overlong in parts, teetering on excess. The massive runtime and split production structure mean the momentum can falter as the narrative progresses beyond its early peak."
   },
+  "1590723": {
+    "categories": {
+      "Action & Cinematography": 7.5,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 8.0,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "As a serious historical drama and political thriller, the film focuses on high-stakes activism, danger, and a tense atmosphere rather than lighthearted humor or comedy. Its entertainment value derives from its gripping, tightly wound narrative of people confining themselves to the shadows for survival. Reviewers note the emotional gravity and the terrifying, dangerous reality of the 1998 tragedy in Indonesia.",
+    "overall": 8.0,
+    "performances": "The film features a talented top cast including Reza Rahadian, Yunita Siregar, Christine Hakim, Arswendy Bening Swara, and Eva Celia. The performances ground the tense political thriller in authentic human stakes as characters navigate the dangers of living out their truth and ideals. The cast successfully conveys the heavy emotional weight of political activism and the agonizing search for justice.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Set during the volatile final months of Indonesia's New Order regime, the narrative follows a young student activist committed to pro-democracy underground movements. Following his forced disappearance, his family embarks on a grueling quest for justice. The urgent drama explores this momentous and still seldom written about period of Indonesian history that led to the end of a dictatorship.",
+    "strengths": [
+      "Absorbing and urgent political drama",
+      "Nimble editing that makes light work of the runtime",
+      "Somber cinematography and thriller trappings",
+      "Stirring archival footage at the close",
+      "Powerful exploration of Indonesian history"
+    ],
+    "verdict": "The Sea Speaks His Name is a powerful and absorbing political drama that sheds light on a crucial period of Indonesian history. With strong performances and effective thriller craftsmanship, it offers an urgent look at the dangers and rewards of political activism. Recommended for viewers interested in historical dramas and stories of courage under oppressive regimes.",
+    "weaknesses": "The tense and tightly wound nature of the film relies on familiar political thriller tropes that may feel restrictive to some viewers. The dark, shadowed aesthetic and heavy historical subject matter also keep the tone relentlessly somber without offering much levity."
+  },
   "1593350": {
     "categories": {
       "Action & Cinematography": 6.5,
@@ -3443,6 +3559,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Drive - The Pretenders delivers a straightforward and attractive motor racing romance with solid performances from its cast. While it carries some risks with underdeveloped characterisation, it remains an entertaining watch for fans of the genre. It comes recommended for a casual evening streaming on Prime Video if you enjoy high-stakes romance tropes set against a racing backdrop.",
     "weaknesses": "Despite an attractive setup and solid acting, the film suffers from underdeveloped characterisation. The familiar romance tropes can occasionally feel predictable as the narrative progresses. Viewers looking for deep narrative complexity might find certain elements of the execution a bit thin."
+  },
+  "1603262": {
+    "categories": {
+      "Action & Cinematography": 8.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 7.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "As a documentary focusing on extreme high-altitude mountaineering and tragic risk-taking, the film does not feature traditional comedy or lighthearted humor. Its entertainment value relies instead on the tense, high-stakes premise of climbing the world's most dangerous mountain face. Viewers looking for levity will find none, as the narrative maintains a serious and heavy tone throughout.",
+    "overall": 7.0,
+    "performances": "The documentary features real-life subjects and mountain climbers including Hilaree Nelson, Jim Morrison, Jimmy Chin, Elizabeth Chai Vasarhelyi, and Mikey Schaefer. Reviewers note that the subjects' extreme compulsions and personal choices create a heavy watch, with Morrison's drive pulling him into a mournful and solitary march. The participants display fierce snow determination and vulnerability in the face of immense danger.",
+    "source": "FlickAtlas Review",
+    "story_plot": "The documentary Everest: The Other Side follows elite ski mountaineers Jim Morrison and Hilaree Nelson as they pursue a shared dream. Bound by love and ambition, they aim to climb and ski down the direct North Face of Mount Everest, the most dangerous climb on the mountain and a line no one has successfully skied down before. Filmmakers Jimmy Chin and Elizabeth Chai Vasarhelyi capture this harrowing high-altitude journey of risk-takers facing chancing death and the complex spectrum of grief and obsession.",
+    "strengths": [
+      "Impressive cinematography",
+      "Inspiring and harrowing story",
+      "Engaging narrative structure",
+      "High-altitude risk-taking focus"
+    ],
+    "verdict": "Everest: The Other Side is a harrowing and visually impressive documentary about the dangers and obsessions of elite mountain climbing. While uneven editing and a heavy second half make it a challenging watch, it offers an intimate and gripping portrait of ambition. It is recommended for viewers interested in high-altitude survival stories and extreme mountaineering.",
+    "weaknesses": "The documentary suffers from uneven editing that makes the narrative choppy and occasionally disjointed. Additionally, the film becomes a mournful and increasingly solitary march as extreme compulsions pull the focus toward a disquieting and heavy second half."
   },
   "1606527": {
     "categories": {
@@ -3684,6 +3823,29 @@ window.FA_REVIEWS = {
     "verdict": "The Awakening provides an atmospheric and engaging genre experience anchored by solid performances, though it suffers from narrative stumbles in its latter half. It is recommended for fans of supernatural thrillers who appreciate an eerie jungle setting.",
     "weaknesses": "The story struggles with clarity and spirals a little out of control in the final scenes. While it offers the low-key pleasures of an old-fashioned thriller, the plot can feel muddled and fails to develop with enough consistency."
   },
+  "1664264": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 7.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 8.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The holiday adventure delivers lighthearted family fun through its premise of a father and daughter stranded in a remote northern town. The festive setup combines family connections with an unexpected romance and an enjoyable holiday atmosphere. Viewers looking for a fun seasonal watch will find plenty of charming moments between the characters as they handle their travel mix-up.",
+    "overall": 7.0,
+    "performances": "Cameron Mathison leads the cast as single dad Jim, bringing a stellar presence as both a host and a father on screen. Jill Wagner portrays wildlife conservationist Jane, and reviewers note that Cameron and Jill are very good together. Maya Skabar rounds out the main cast as the spirited, science-minded daughter Isla, with viewers praising her performance as perfect for the role.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Single dad and former baseball player turned broadcaster Jim shares a holiday tradition with his 20-year-old daughter, Isla, where they take turns choosing how to spend Christmas. When Isla picks a once-in-a-lifetime Arctic cruise, Jim agrees, expecting to make it back in time for his annual Christmas Eve broadcast from Times Square. However, a timing mix-up leaves them stranded in an Arctic town when their ship departs without them, forcing them to navigate the frozen wilderness with the help of wildlife conservationist Jane.",
+    "strengths": [
+      "Engaging father-daughter dynamic",
+      "Charming lead performances",
+      "Fun holiday adventure premise",
+      "Scenic Arctic setting"
+    ],
+    "verdict": "A Very Arctic Christmas provides a fun and heartwarming holiday adventure anchored by strong lead performances from Cameron Mathison and Jill Wagner. It is a solid seasonal choice for fans of cozy romantic comedies and family-focused holiday movies. Recommended for viewers looking for a light and entertaining festive watch.",
+    "weaknesses": "While the film offers an entertaining holiday premise, viewers may find the familiar setup follows a predictable festive formula. The pacing during the middle portion when the characters are stranded in the frozen wilderness can occasionally feel stretched."
+  },
   "1674938": {
     "categories": {
       "Action & Cinematography": 7.0,
@@ -3707,6 +3869,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Tenfa is a remarkable and hauntingly beautiful achievement that makes a powerful impression in barely thirty minutes of screen time. It offers a deeply moving, visually rich look at a disappearing culture, anchored by personal family history and a compelling Himalayan journey. Recommended for viewers seeking thoughtful, melancholic drama rooted in real-world ecological and cultural preservation.",
     "weaknesses": "The brevity of the thirty-minute runtime may leave some viewers desiring a more expansive exploration of the complex issues surrounding hydropower projects and cultural erosion. Because the premise relies heavily on a melancholic mood and a singular life-threatening catalyst, the emotional weight can feel compressed. The film runs the risk of rushing through its dense thematic material regarding disappearing landscapes and language in such a short window."
+  },
+  "1685339": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 6.0,
+      "Music & BGM": 6.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "The film is a thriller focused on a tense rescue situation rather than a traditional comedy. While it does not rely on humorous bits, the high-stakes premise offers plenty of entertainment value through its race-against-the-clock tension. The interaction between the firefighters and the frantic parents drives the narrative forward.",
+    "overall": 6.5,
+    "performances": "The top cast features Jeanne Goursaud, Laurence Rupp, Alexandra Maria Lara, Miriam Fussenegger, and Sophia Jelinek in a tense environment. The performers handle the high-pressure situation effectively as the rescue mission goes off the rails. Their portrayal of panic and suspicion anchors the thriller elements well.",
+    "source": "FlickAtlas Review",
+    "story_plot": "When a young girl becomes trapped inside an airtight safe, firefighter Alex and her partner Jakob face a high-pressure rescue with minutes to spare. As oxygen runs out, the frantic parents demand action, but cracks begin to appear in their story. What starts as a desperate life-saving mission quickly unravels into something far more sinister as the team uncovers the truth before the clock runs out. The film also functions as a contemporary political study.",
+    "strengths": [
+      "high-pressure rescue premise",
+      "tense race against the clock",
+      "solid performances from the cast",
+      "sinister twists in the plot"
+    ],
+    "verdict": "Unsafe (2026) delivers a tense thriller experience anchored by its ticking-clock rescue premise and solid cast. While it runs the risk of feeling familiar, it provides enough intrigue to satisfy fans of high-pressure drama. It is worth a watch for those looking for a contained, suspenseful story.",
+    "weaknesses": "The narrative carries the risk of familiar genre tropes as the rescue mission unfolds. Without formidable edits, thrillers of this nature can occasionally drag or struggle with maintaining momentum in their second half."
   },
   "1699721": {
     "categories": {
@@ -3801,6 +3986,29 @@ window.FA_REVIEWS = {
     "verdict": "Magazine (2026) offers a 110-minute journey of self-discovery, family, and adventure directed by Shubham Sanjay Shevade. It is a reasonable watch for those looking for a light dramatic premise, though viewers should expect a familiar narrative structure.",
     "weaknesses": "The narrative relies heavily on a familiar fish-out-of-water setup which can lead to predictable beats. Without extensive critical commentary from reviewers on deeper thematic depth, the story risks treading well-worn paths."
   },
+  "1731816": {
+    "categories": {
+      "Action & Cinematography": 7.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 8.5,
+      "Story & Screenplay": 8.0
+    },
+    "comedy": "While the project carries a dramatic and serious tone centered on boarding school conflicts rather than outright humour, it provides an entertaining and immersive viewing experience. The narrative focuses heavily on the high-stakes dramatic tensions between students, authority figures, and institutional secrets. The entertainment value stems primarily from the unfolding mystery, the clash of social groups, and the intense character dynamics.",
+    "overall": 8.0,
+    "performances": "The cast features performances from actors including Zarif Ghazzi, Mierul Aiman, Dai Fuad, Akmal Asyraf, and Chech Harith. The actors bring gravity to their roles as elite and scholarship students navigating the dangerous environment at Kudrat. Their portrayals ground the intense conflict and the heavy consequences tied to the boarding school's dark secrets.",
+    "source": "FlickAtlas Review",
+    "story_plot": "When Abbas returns to Kudrat, the school becomes suddenly besieged by authorities following the tragic death of a student that the administration kept hidden. Tensions quickly reach a breaking point between the elite students and the scholarship students. While Piji determines to bring down Pa, Abbas and Kuda fight to uphold justice and expose the dark secrets threatening the institution.",
+    "strengths": [
+      "Delivers a cinematic finish to the series",
+      "Connected storytelling that expands the format",
+      "Strong performances from the cast",
+      "Carries a clear message about the consequences of bullying"
+    ],
+    "verdict": "Kudrat 1968: High Council successfully delivers a conclusion worthy of everything that came before it under the direction of Zulaikha Zakaria. It serves as an essential watch for fans of the overarching story while offering meaningful lessons about the lasting consequences of violence and bullying. Recommended for viewers looking for an immersive and dramatic Malaysian production.",
+    "weaknesses": "Newcomers may struggle to fully appreciate certain relationships and callbacks due to the interconnected nature of the story. Additionally, the intense focus on institutional conflict and dramatic tension leaves limited room for lighter moments."
+  },
   "1733243": {
     "categories": {
       "Action & Cinematography": 8.5,
@@ -3824,6 +4032,30 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Sight & Sound Presents: JOSHUA—Live! (2026) successfully merges the energy of a live stage performance with cinema to deliver a powerful biblical story. With excellent acting, remarkable stage sets, and beautiful camera work, it is a recommended viewing experience for families and fans of theatrical productions.",
     "weaknesses": "As a filmed theatrical production based on a familiar biblical account, the narrative follows a well-worn path that may offer few surprises for viewers already well-acquainted with the source material. Additionally, translating a massive stage show into a cinema format carries inherent risks regarding pacing and intimacy for some viewers."
+  },
+  "1756268": {
+    "categories": {
+      "Action & Cinematography": 8.0,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 8.0,
+      "Music & BGM": 7.0,
+      "Performances": 7.5,
+      "Story & Screenplay": 8.5
+    },
+    "comedy": "While the documentary does not feature traditional comedic elements or humor given its grave geopolitical subject matter, it offers considerable entertainment value through its thrilling and captivating storytelling. The sheer cleverness of the operation's elaborate advertising and sales campaign engages viewers with a sense of modern-day ingenuity. The film maintains audience attention through its fast-paced exploration of high-stakes espionage and strategy.",
+    "overall": 8.0,
+    "performances": "The documentary does not feature a traditional dramatic cast with fictional roles, as it is a non-fiction work featuring real-world figures. Interviewees include Mossad operatives, engineers, historians, and politicians who share insights into the operation. A retired general and former CIA director also appears to offer perspective, comparing the event to a modern-day Trojan Horse.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Paging Hezbollah traces the extraordinary true story behind a clever intelligence operation that seemed impossible to conceive, engineer, and carry out. The documentary examines the decades-long conflict between Israel and Hezbollah, following Mossad's origins from the 1940s up to the 2024 operation that stealthily disabled Hezbollah's command network. Through interviews with Mossad operatives, engineers, historians, and politicians, the film reveals how the weapon at the center of the operation was engineered, marketed, and smuggled in before anyone knew what it was.",
+    "strengths": [
+      "Informative documentary about events since October 7, 2023",
+      "Fascinating look at the engineering and marketing of the operation",
+      "Insightful interviews with operatives, historians, and politicians",
+      "Well-edited, timely, and captivating presentation",
+      "Unvarnished look at the conflict"
+    ],
+    "verdict": "Paging Hezbollah delivers a potent, well-edited, and timely account of an explosive intelligence operation that altered the digital age. Directed by Justin Folk, it provides a captivating look at strategy, engineering, and geopolitics that has resonated strongly with audiences. Recommended for anyone seeking an informative and thrilling documentary on modern conflict and espionage.",
+    "weaknesses": "Some reviewers note that the documentary tends to preach to the choir and may lack a fully fair and balanced perspective on the complex geopolitical conflict. Because it relies heavily on interviews and historical recounting, viewers looking for a strictly neutral overview might find the presentation leaning toward a specific viewpoint. Additionally, the rapid pacing through decades of history can occasionally leave certain nuances underexplored."
   },
   "1756307": {
     "categories": {
@@ -3992,6 +4224,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Adopting St. Nick delivers a cozy and enjoyable holiday romance for fans of the Hallmark Channel. With solid lead performances and a heartwarming festive storyline, it is a recommended watch for the holiday season.",
     "weaknesses": "As with many traditional holiday television movies, the narrative follows a familiar and predictable setup that may tread overly well-worn territory for some viewers. The review sources offer little indication of deeper dramatic subversions, leaving the story somewhat conventional."
+  },
+  "1773378": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.0,
+      "Music & BGM": 7.0,
+      "Performances": 7.0,
+      "Story & Screenplay": 7.5
+    },
+    "comedy": "The film delivers a light, simple, and happy atmosphere for an hour and a half of viewing. Reviewers note that it is an all-round happy Christmas movie with a really nice story that feels neither corny nor far-fetched. The lighthearted tone makes for a pleasant and relaxing holiday watch.",
+    "overall": 7.0,
+    "performances": "The cast features Rhiannon Fish as Julie, along with Jake Foy, Mila Morgan, Tammy Gillis, and Trezzo Mahoro. Reviewers noted that the actor choices were nice and that the warm, friendly nature of the main character helps her quickly become part of the community.",
+    "source": "FlickAtlas Review",
+    "story_plot": "After relocating to a new town, Julie uses her late grandmother's inherited pieces to set a Christmas Eve dinner table for eight, hoping the right guests will find it. She befriends her neighbor Mark and his young daughter, but bad weather threatens her holiday plans when only three seats are filled. Relying on small Christmas miracles, Julie works to bring her dream holiday table to life in this heartwarming, feel-good story.",
+    "strengths": [
+      "Wholesome and happy holiday atmosphere",
+      "Not corny or far-fetched",
+      "Charming cast including Rhiannon Fish and Jake Foy",
+      "Heartwarming themes of love and friendship"
+    ],
+    "verdict": "Who's Coming for Christmas? is a warm, feel-good TV movie that delivers a simple and happy escape for an hour and a half. While it follows a predictable path, its wholesome nature and nice performances make it a recommended watch for fans of festive holiday romances.",
+    "weaknesses": "Some viewers found the main character could get on their nerves, and the narrative relies on predictable, repetitive Hallmark-style plot tropes. These familiar elements mean the film does not offer many surprises for seasoned viewers of holiday TV movies."
   },
   "1780005": {
     "categories": {
@@ -4246,6 +4501,28 @@ window.FA_REVIEWS = {
     "verdict": "K3 Superhelden (2026) offers an entertaining ride for fans eager to see Hanne, Marthe, and Julia don superhero suits. Directed by Matthias Temmermans, it brings a novel twist to the beloved group with the introduction of Superhero Vonk. While it carries some familiar narrative risks, it remains a worthwhile watch for supporters of the franchise.",
     "weaknesses": "Because the film explores a dark side to becoming superheroes, viewers looking for a strictly lighthearted romp might find the narrative shift brings predictable risks. Additionally, detailed reviews are sparse, leaving certain structural elements untested by wide critical consensus. The familiarity of the setup may also limit deeper narrative surprises."
   },
+  "1796328": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.5,
+      "Performances": 6.5,
+      "Story & Screenplay": 6.5
+    },
+    "comedy": "As a horror film, the feature relies entirely on its tense, unsettling premise and atmospheric dread rather than traditional humor. Entertainment value is derived from the psychological thrills and the terrifying concept of nightmares manifesting into the physical world. The interactions between the father and son anchor the frightening narrative.",
+    "overall": 6.5,
+    "performances": "The cast features Angus Macfadyen, John Real, Nicolette McKeown, Sabrina Culver, and Francesco Marzagalli. The actors ground the terrifying supernatural events in emotional reality. Their portrayals convey the fear and weight of confronting buried trauma.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In an isolated house, a father and his young son discover a mysterious painting that appears disturbingly alive. Their darkest nightmares begin bleeding into reality as a sinister presence emerges from the canvas. This entity feeds directly on buried trauma and forgotten memories.",
+    "strengths": [
+      "Unsettling horror premise",
+      "Atmospheric isolated setting",
+      "Themes of trauma and memory"
+    ],
+    "verdict": "La toile offers an intriguing eighty-minute horror experience built around an isolated house and a living painting. Fans of psychological horror and supernatural concepts will find enough dread to warrant a watch. It is a solid genre entry worth checking out for enthusiasts.",
+    "weaknesses": "The film runs the risk of relying on a familiar horror setup with the haunted painting trope. Without distinct web reviews detailing its pacing, a viewer might encounter a predictable narrative structure in its second half."
+  },
   "1797116": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -4268,6 +4545,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Shores delivers a heartfelt exploration of family, memory, and closure through its character-driven narrative. While its story and encounters can feel slightly underdeveloped, it remains a worthwhile watch for fans of emotional drama. Viewers looking for a grounded homecoming story will find plenty to appreciate here.",
     "weaknesses": "The narrative can feel somewhat underdeveloped in how it handles its unfolding past memories and family conflicts. It risks feeling uneven as it moves toward its resolution, occasionally failing to fully capitalize on the emotional promise of its setup."
+  },
+  "1797215": {
+    "categories": {
+      "Action & Cinematography": 6.5,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.5,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The film explores the dynamic between a street-side pretzel salesman and a stranded, brash teenager following her relationship argument. While the premise provides a grounded and localized character-driven setup, specific comedic beats and jokes remain understated in the available details. The interactions carry the primary entertainment value through their situational premise in South Philadelphia.",
+    "overall": 7.0,
+    "performances": "The cast features Adam Shapiro, Abigail Donaghy, Frank Volpe, Laura Jill Newman, and Nora Elizabeth Shute. Adam Shapiro stars in the short film, bringing his background to the project. The performances ground the short interaction between the salesman and the stranded teenager.",
+    "source": "FlickAtlas Review",
+    "story_plot": "In this 10-minute short film directed by Justin Crowell, a street-side soft pretzel salesman named Barry works in South Philly. His routine takes an unexpected turn when he interacts with a brash 19-year-old named Brianna. Brianna finds herself stranded after having a fight with her boyfriend.",
+    "strengths": [
+      "Localized South Philly setting",
+      "Solid lead performances",
+      "Directed by Philly native Justin Crowell",
+      "Concise 10-minute runtime"
+    ],
+    "verdict": "Philly Pretzels delivers a brief, localized snapshot of a chance encounter in South Philadelphia under Justin Crowell's direction. It is a worthwhile watch for those interested in short-form regional cinema and the featured cast. Fans of concise storytelling will find it a neat, quick addition to the festival circuit.",
+    "weaknesses": "Because the runtime is extremely brief at only 10 minutes, the narrative framework leaves limited room for extensive character development or deep exploration. Viewers looking for a more expansive plot or multi-layered narrative might find the brief encounter between the salesman and Brianna leaves certain story avenues unexplored."
   },
   "1798181": {
     "categories": {
@@ -4429,6 +4729,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Chennai Vlog offers a brief, food-centric escape for viewers interested in travel diaries and regional dining spots in Chennai. While it lacks a traditional narrative drive, fans of casual lifestyle vlogs will find enough authentic culinary exploration to enjoy. It is recommended as a light, low-stakes watch for food enthusiasts.",
     "weaknesses": "Because the project stems from casually compiled clips and a simple vlog format, it runs the risk of feeling unstructured or repetitive for viewers looking for a traditional narrative arc. The 57-minute runtime relies heavily on repetitive food sampling sequences without much deeper dramatic tension. This familiar and unstructured setup may occasionally test the patience of audiences expecting a polished feature film."
+  },
+  "1801940": {
+    "categories": {
+      "Action & Cinematography": 7.0,
+      "Comedy & Entertainment": 6.5,
+      "Direction": 7.5,
+      "Music & BGM": 6.5,
+      "Performances": 7.0,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "The film carries a wild and silly tone rather than a strictly controlled one, deriving its entertainment value from its strange premise and unusual narrative twists. Reviewers note its chaotic and turbulent nature, which provides a playful and unexpected energy throughout the runtime. While not a traditional comedy, its eccentricities offer a uniquely spirited atmosphere.",
+    "overall": 7.0,
+    "performances": "The cast features Valentina Herszage as Sofia, alongside Matheus Bastos. The performances navigate themes of identity and performance under the intense focus of the American gaze. The actors ground the short runtime with engaging presence as their characters face the unexpected turns of the audition.",
+    "source": "FlickAtlas Review",
+    "story_plot": "Sofia, a 20-year-old Brazilian actress, arrives at a casting audition for an American film that quickly departs from the familiar. The short film explores identity, performance, and the enduring influence of the American gaze upon Latin American culture. Reviewers on the web note elements of a wild and strange journey, blending unconventional structures with a chaotic, turbulent narrative experience.",
+    "strengths": [
+      "Striking and beautiful visual execution",
+      "Engaging exploration of identity and culture",
+      "Solid conceptual foundation",
+      "Compelling lead performance by Valentina Herszage"
+    ],
+    "verdict": "Origin Story is a fascinating and strange short film that offers a bold look at identity and performance through its 7-minute runtime. With strong performances and a striking premise, it is worth a watch for those interested in its thematic scope, provided they are prepared for a turbulent and wild ride.",
+    "weaknesses": "The narrative can occasionally feel unwieldy and chaotic, lacking a traditional sense of control in its pacing. Viewers may find the turbulent structure produces a somewhat messy experience that leans heavily into unpredictability."
   },
   "1802464": {
     "categories": {
@@ -4683,6 +5006,29 @@ window.FA_REVIEWS = {
     "verdict": "Love Story Abhimanyu Ki struggles to find its footing at the box office and among critics due to narrative shortcomings, despite its heartfelt romance premise. Viewers interested in Hindi romantic dramas can approach it as a one-time watch for its central cast, though expectations should be tempered.",
     "weaknesses": "Reviewers noted that the film acts as a non-starter with poor publicity, weak openings everywhere, and a poor story credited to Bappi Lahiri alongside a screenplay penned jointly by Bappi Lahiri, Inayat Shaikh, and Sunil Jha."
   },
+  "1814384": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 5.0,
+      "Direction": 6.5,
+      "Music & BGM": 6.0,
+      "Performances": 6.5,
+      "Story & Screenplay": 7.0
+    },
+    "comedy": "As an experimental short mystery horror film, the production does not focus on humor. The entertainment value lies instead in its mysterious, old-world folktale air and its exploration of the unknown through traditional folklore and belief.",
+    "overall": 6.5,
+    "performances": "The cast features Rahman Lound, Faraz mallah, and Fawad lound, with Rahman Lound also serving as the director. Reviewers discussing similar folk narrative projects frequently highlight immersive tapestries and character interactions rooted in community, though specific performance details for this brief five-minute runtime remain minimal beyond the listed actors.",
+    "source": "FlickAtlas Review",
+    "story_plot": "A Folk Story is an experimental short mystery horror film that unfolds as an unsettling encounter along a lonely road. The narrative blurs the boundaries between folklore, belief, and the supernatural while exploring the unknown through the lens of a traditional folk tale. Reviewers note that such folk narratives carry a mysterious, old-world folktale air that is deeply intriguing and at times dark and disturbing.",
+    "strengths": [
+      "Experimental short runtime",
+      "Mysterious, old-world folktale atmosphere",
+      "Exploration of traditional folklore and the supernatural",
+      "Engaging blend of belief and mystery"
+    ],
+    "verdict": "A Folk Story offers a dark, intriguing dive into the supernatural for fans of experimental short films. While its brief runtime and narrow focus on folklore leave it somewhat limited in scope, its atmospheric mystery makes it a worthwhile viewing for enthusiasts of traditional tales.",
+    "weaknesses": "The extremely brief five-minute runtime leaves limited space for fully fleshed-out character arcs, mirroring criticisms seen in similar visual aesthetic-driven projects where actual content can feel constrained."
+  },
   "447273": {
     "categories": {
       "Action & Cinematography": 6.0,
@@ -4800,6 +5146,29 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Project Hail Mary is a brilliant, emotional space adventure that succeeds as aspirational blockbuster cinema. With stellar lead performances and a heartfelt core about friendship and sacrifice, it easily ranks among the best science fiction adaptations in years. Highly recommended for fans of the genre and moviegoers looking for a memorable cinematic journey.",
     "weaknesses": "A small number of critics offered more measured takes, noting that the film occasionally tries to balance too much. Nitpicks and minor quibbles also point out that it leans into a more unhurried and relaxed cinematic vacation style rather than a relentless sci-fi thriller."
+  },
+  "741533": {
+    "categories": {
+      "Action & Cinematography": 6.0,
+      "Comedy & Entertainment": 4.0,
+      "Direction": 5.0,
+      "Music & BGM": 6.0,
+      "Performances": 5.0,
+      "Story & Screenplay": 4.0
+    },
+    "comedy": "Humour is not a primary focus for this brief thriller, which relies entirely on its mysterious disappearance premise rather than comedic relief. Entertainment value is instead derived from the tense setup involving phone recordings and a missing friend. The film maintains a serious atmosphere throughout its brief runtime without attempting traditional jokes.",
+    "overall": 4.5,
+    "performances": "The cast features Kate Boutilier, Zaarah Lopez, Christie King, Rosie Lynn, and Roni Marcelo. While specific details of their acting are not widely detailed by critics, the actors handle the tense framing of the college mystery. They navigate the short runtime using phone recordings to frame the events leading up to the disappearance.",
+    "source": "FlickAtlas Review",
+    "story_plot": "The SAS is a 2026 crime, thriller, and horror film with a 17-minute runtime directed by Beau Han Bridge. The narrative focuses on events following February 20th, 2016, when a college student's friend goes missing. Through phone recordings, the film recalls the events leading up to this disappearance. Web commentary surrounding the title touches on various unrelated subjects like airline reviews and survival handbooks, leaving the core premise anchored strictly to its minimalist setup.",
+    "strengths": [
+      "A concise 17-minute runtime",
+      "An intriguing missing person setup",
+      "Use of phone recordings as a narrative device",
+      "Directed by Beau Han Bridge"
+    ],
+    "verdict": "The SAS is a very brief 17-minute crime thriller that relies on phone recordings to explore a student's disappearance. Given its minimal runtime and lack of expansive critical reception, it is primarily recommended only for curious fans looking to check out the cast and premise directed by Beau Han Bridge. Viewers should approach it expecting a minor, experimental short rather than a fully realized feature.",
+    "weaknesses": "The extremely short 17-minute duration leaves very little room to fully develop the characters or flesh out the mystery of the missing friend. Additionally, web results show a severe lack of direct critical engagement with the actual film itself, often confusing the title with unrelated travel or historical topics. This makes it difficult for viewers to find substantial substance or depth within the short project."
   },
   "755898": {
     "categories": {
@@ -5008,6 +5377,28 @@ window.FA_REVIEWS = {
     ],
     "verdict": "Michael offers high production values and features the artist's legendary music, but it ultimately explains nothing while trying to reveal everything. Though it is critic-proof and likely to entertain casual viewers, the bland and artificial storytelling makes it a mixed experience. Recommended mostly for die-hard fans willing to overlook the shallow narrative.",
     "weaknesses": "The film suffers from choppy recreations caused by stringent chronological storytelling and a superficial, hagiographic approach that avoids taking any real risks. Reviewers point out that it makes the subject look saintly and glosses over uncomfortable issues, rendering the story itself unexciting, artificial, and bland."
+  },
+  "939541": {
+    "categories": {
+      "Action & Cinematography": 3.0,
+      "Comedy & Entertainment": 2.5,
+      "Direction": 2.5,
+      "Music & BGM": 6.0,
+      "Performances": 3.5,
+      "Story & Screenplay": 3.0
+    },
+    "comedy": "The film attempts to mix holiday cheer with bloodshed through a silly, maniacal premise about the Kringle family's 365-day enthusiasm for the winter holiday. Reviewers note that the humor is cheap and the comedy feels largely unfunny, stranding a talented cast in a frustrating holiday horror-comedy hybrid. While some viewers managed to find a few laughs in the dumb, crazy vibes of the Christmas slasher, the overall comedic and entertainment value struggles to land.",
+    "overall": 3.0,
+    "performances": "The movie features a stacked cast including Ron Livingston as the fussy Mark Severson, Rachel Bilson as his wife Julie, and Jack Jewkes as their young son Bobby, alongside supporting appearances from Rob Riggle, Arden Myrin, and Thomas Lennon. Unfortunately, critics describe the experience as filled with bad acting that wastes the talented comedy cast. Despite their best efforts with the material, the actors are dragged down by a miserable execution.",
+    "source": "FlickAtlas Review",
+    "story_plot": "The Severson family moves to a suburban neighborhood where their next-door neighbors, the Kringles, celebrate Christmas every single day of the year. The fussy city boy Mark, his wife Julie, and their young son Bobby arrive at their new home seeking a fresh start for their relationship. However, when their son becomes increasingly attached to the unusual family, Mark and Julie begin to suspect that the Kringles are not quite what they seem.",
+    "strengths": [
+      "A stacked comedic cast",
+      "A fun, high-concept holiday horror premise",
+      "Occasional moments of entertainment in the second half"
+    ],
+    "verdict": "Christmas at the Kringles strands a talented cast in a cheap and unfunny holiday horror-comedy that fails to live up to its fun premise. With bad acting, uninspired action, and haphazard plotting, this is a yuletide gift best left unopened. Viewers are better off holding out for a better holiday horror favorite instead.",
+    "weaknesses": "The film suffers from haphazard plotting, horrible lighting, and uninspired action that comes too late to matter. Reviewers call it a ghastly mess and one of the worst movies of the year, pointing out that its cheap horror-comedy blend is terribly directed and ultimately a miserable experience."
   },
   "950028": {
     "categories": {

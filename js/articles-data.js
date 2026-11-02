@@ -38603,5 +38603,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 17:00:00 GMT"
+  },
+  "evpyef": {
+    "id": "evpyef",
+    "type": "news",
+    "headline": "Venkatesh's Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days",
+    "dek": "The family entertainer starring Venkatesh and Srinidhi Shetty has crossed Rs 75 crore worldwide in its opening three days, earning blockbuster status from its makers.",
+    "body": [
+      {
+        "h": "Strong Opening Weekend",
+        "p": [
+          "The theatrical release of Aadarsha Kutumbam has resulted in impressive global box office numbers during its opening stretch. Within the first three days of its theatrical run, the feature crossed the Rs 75 crore mark worldwide.",
+          "Following this initial performance, the production team officially declared the venture a blockbuster, citing phenomenal love and reception from ticket-buyers across various regions."
+        ]
+      },
+      {
+        "h": "Release and Cast Details",
+        "p": [
+          "The project officially arrived in cinemas on October 30, 2026. It features Venkatesh in the lead role alongside co-star Srinidhi Shetty.",
+          "Srinidhi Shetty portrays Swarna, the wife of Venkatesh's character, contributing to the central family dynamics of the narrative."
+        ]
+      },
+      {
+        "h": "Promotional Strategy and Direction",
+        "p": [
+          "Trivikram Srinivas directed the project, adopting a patient and calculated promotional rollout leading up to the premiere. The campaign initially revealed individual characters, starting with Venkatesh's role as Chitti Babu.",
+          "Public curiosity was further stimulated by subsequent teasers, a successful trailer, and clever wordplay surrounding the alternative title House No: 47 – AK 47."
+        ]
+      },
+      {
+        "h": "Creative Vision and Choices",
+        "p": [
+          "During the pre-release event, Trivikram shared his deep confidence in traditional family systems. He highlighted Chitti Babu as an ordinary family man prepared to defend his relatives at all costs.",
+          "The filmmaker selected Venkatesh for the lead because stories centered around family values have historically remained one of the prominent strengths of the actor's career."
+        ]
+      },
+      {
+        "h": "Humor and Technical Elements",
+        "p": [
+          "Audiences have responded warmly to the comedic elements, particularly praising Satya for his performance. Viewers have found his interrogation sequence alongside Nara Rohith especially entertaining due to his precise comic timing.",
+          "On the technical side, Thaman received recognition for his background score, which infuses crime sequences with a modern aesthetic and enhances their dramatic tension."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Genre Blend",
+        "p": [
+          "The broader cast features Udaybir Sandhu as a dangerous dacoit, alongside Rao Ramesh and Sachin Khedekar portraying police officers.",
+          "By combining domestic humor with crime thriller elements, the story maintains its core focus on the emotional ties uniting a household."
+        ]
+      },
+      {
+        "h": "Future Projects for Lead Talent",
+        "p": [
+          "Looking ahead, Venkatesh is preparing for the theatrical debut of Vidudala, directed by Anil Ravipudi, which is slated for a Sankranthi 2027 release on January 12.",
+          "Meanwhile, Trivikram is lined up to direct an upcoming film starring Jr NTR, which currently holds the tentative working title God of War."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Venkatesh's family entertainer Aadarsha Kutumbam grossed over Rs 75 crore worldwide within its first three days after releasing in theatres on October 30. Directed by Trivikram Srinivas and co-starring Srinidhi Shetty, the film has been declared a blockbuster by its makers following strong audience reception."
+        ]
+      }
+    ],
+    "facts": [
+      "Aadarsha Kutumbam grossed over Rs 75 crore worldwide in its first three days.",
+      "The film was released in theatres on October 30, 2026.",
+      "The feature is directed by Trivikram Srinivas.",
+      "Venkatesh plays the character Chitti Babu.",
+      "Srinidhi Shetty plays Venkatesh's wife, Swarna.",
+      "Satya stars in a comedy track alongside Nara Rohith.",
+      "Thaman composed the background score.",
+      "Udaybir Sandhu plays a dacoit, while Rao Ramesh and Sachin Khedekar play police officers.",
+      "Venkatesh's next film Vidudala, directed by Anil Ravipudi, is scheduled for release on January 12 during Sankranthi 2027."
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh",
+        "Srinidhi Shetty",
+        "Trivikram Srinivas",
+        "Satya",
+        "Nara Rohith",
+        "Thaman",
+        "Udaybir Sandhu",
+        "Rao Ramesh",
+        "Sachin Khedekar",
+        "Anil Ravipudi",
+        "Jr NTR"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam",
+        "House No: 47 – AK 47",
+        "Vidudala",
+        "God of War"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam",
+      "Venkatesh Aadarsha Kutumbam",
+      "Trivikram Srinivas",
+      "Srinidhi Shetty Aadarsha Kutumbam"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/venkateshaadarshakutumbam1793620627.jpg",
+        "caption": "Venkatesh's Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-02T17:30:02+05:30"
+  },
+  "1209b4j": {
+    "id": "1209b4j",
+    "type": "news",
+    "headline": "Netflix Secures Global Rights to Joel Coen and Ethan Coen's Gothic Mystery Jack of Spades",
+    "dek": "Netflix has picked up worldwide distribution rights for Jack of Spades, a gothic mystery set in 1800s Scotland that reunites filmmakers Joel and Ethan Coen.",
+    "body": [
+      {
+        "h": "Netflix Acquires Worldwide Distribution",
+        "p": [
+          "Streaming giant Netflix has officially secured the global distribution rights for the upcoming cinematic project titled Jack of Spades. The acquisition guarantees that audiences around the world will have access to the film following its initial exhibition in cinemas.",
+          "The newly purchased feature is slated to receive a theatrical release window in the fall of 2027 before making its official streaming debut on the platform."
+        ]
+      },
+      {
+        "h": "A Major Reunion for the Coen Brothers",
+        "p": [
+          "The project serves as a significant creative reunion for acclaimed filmmakers Joel and Ethan Coen, marking their first major collaboration since their 2018 project The Ballad of Buster Scruggs. That previous endeavor also debuted on the same streaming service.",
+          "Joel Coen is taking the director's chair for the feature. The screenplay was written collaboratively by Joel Coen, Ethan Coen, Eleanor Catton, and Conor McPherson."
+        ]
+      },
+      {
+        "h": "Setting and Plot Details",
+        "p": [
+          "Transporting viewers to historical settings, the narrative is officially set in 1800s Scotland. The story itself is structured as a gothic mystery.",
+          "The film draws its source material from Frances Frederica Montrésor’s 1901 novel titled The Alien: A Story of Middle Age. Early reporting indicates that the plot involves a character who has returned from the dead."
+        ]
+      },
+      {
+        "h": "Cast and Character Lineup",
+        "p": [
+          "The ensemble cast assembled for the production features notable talent including Josh O'Connor, Patsy Ferran, Damian Lewis, and Lesley Manville.",
+          "Reports indicate that Patsy Ferran takes on a leading role in the feature, while Josh O'Connor portrays the individual who returns from the dead."
+        ]
+      },
+      {
+        "h": "Behind the Camera and Production Team",
+        "p": [
+          "Production duties for the feature are handled by a team consisting of Joel Coen, Robert Graf, Frances McDormand, Steven Rales, Graham Broadbent, and Pete Czernin, with Donald MacKinnon serving as executive producer.",
+          "The crew also features returning collaborators for Joel Coen, including cinematographer Bruno Delbonnel and composer Carter Burwell, who previously worked together on Inside Llewyn Davis."
+        ]
+      },
+      {
+        "h": "Previous Independent Ventures",
+        "p": [
+          "This upcoming picture counts as Joel Coen's second independent directorial venture outside of his joint efforts with Ethan Coen. His previous solo outing was 2021's The Tragedy of Macbeth.",
+          "The 2021 Shakespearean adaptation received a limited theatrical release before launching on Apple TV, with cinematographer Bruno Delbonnel earning an Oscar nomination for Best Cinematography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has acquired the global distribution rights for Jack of Spades, a gothic mystery directed by Joel Coen and co-written with Ethan Coen, Eleanor Catton, and Conor McPherson. The film stars Josh O'Connor, Patsy Ferran, Damian Lewis, and Lesley Manville, and is scheduled for a theatrical release in fall 2027 before streaming.",
+          "Based on a 1901 novel, the project marks a major creative reunion for the Coen brothers following their 2018 work together."
+        ]
+      }
+    ],
+    "facts": [
+      "Joel Coen is directing Jack of Spades",
+      "Ethan Coen co-wrote the screenplay alongside Joel Coen, Eleanor Catton, and Conor McPherson",
+      "The film is set in 1800s Scotland and is a gothic mystery",
+      "Netflix acquired the global distribution rights",
+      "The film will be released theatrically in fall 2027 before streaming",
+      "The cast includes Josh O'Connor, Patsy Ferran, Damian Lewis, and Lesley Manville",
+      "The story is based on Frances Frederica Montrésor’s 1901 novel The Alien: A Story of Middle Age",
+      "Bruno Delbonnel is the cinematographer and Carter Burwell is the composer",
+      "Producers include Joel Coen, Robert Graf, Frances McDormand, Steven Rales, Graham Broadbent, and Pete Czernin",
+      "Donald MacKinnon serves as executive producer"
+    ],
+    "entities": {
+      "people": [
+        "Joel Coen",
+        "Ethan Coen",
+        "Josh O'Connor",
+        "Eleanor Catton",
+        "Conor McPherson",
+        "Bruno Delbonnel",
+        "Carter Burwell",
+        "Robert Graf",
+        "Frances McDormand",
+        "Steven Rales",
+        "Graham Broadbent",
+        "Pete Czernin",
+        "Donald MacKinnon",
+        "Patsy Ferran",
+        "Damian Lewis",
+        "Lesley Manville",
+        "Frances Frederica Montrésor"
+      ],
+      "titles": [
+        "Jack of Spades",
+        "The Ballad of Buster Scruggs",
+        "Inside Llewyn Davis",
+        "The Tragedy of Macbeth",
+        "The Alien: A Story of Middle Age"
+      ]
+    },
+    "keywords": [
+      "Jack of Spades",
+      "Joel Coen Ethan Coen",
+      "Josh O'Connor Jack of Spades",
+      "Netflix Jack of Spades movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/tc.jpg?resize=1200,630",
+        "caption": "Netflix Secures Global Rights to Joel Coen and Ethan Coen's Gothic Mystery Jack of Spades",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 19:50:31 +0000"
+  },
+  "173ezlg": {
+    "id": "173ezlg",
+    "type": "news",
+    "headline": "What Time Does The Voice Air Tonight? How to Stream the Special Cut Week Episode",
+    "dek": "Find out when and how to watch the unprecedented Cut Week episode of The Voice, featuring a new time slot, special rules, and streaming options.",
+    "body": [
+      {
+        "h": "The Inaugural Cut Week Arrives",
+        "p": [
+          "Viewers are bracing for a massive shakeup on the popular reality singing competition as the series introduces its first-ever Cut Week. Bypassing traditional intermediate stages, this unique format serves as the sole bridge connecting the earlier battle rounds directly to upcoming live performances.",
+          "Under the new guidelines, coaches find themselves managing seven artists each. While two contestants on every team automatically secure their advancement to the live broadcasts, the remaining five must fiercely battle over a single open spot, ultimately narrowing the field down to the final twelve hopefuls."
+        ]
+      },
+      {
+        "h": "Schedule and Time Slot Adjustments",
+        "p": [
+          "Fans tuning in must make note of a permanent timing shift for the series. Moving forward, the program shifts to a Monday slot beginning at 9:00 p.m. Eastern Time.",
+          "This adjustment accommodates the scheduling returns of two network comedies, St. Denis Medical and The Fall and Rise of Reggie Dinkins, which occupy the preceding hour from 8:00 to 9:00 p.m. ET."
+        ]
+      },
+      {
+        "h": "Broadcast Details for Monday Night",
+        "p": [
+          "The special episode, designated as Season 30, Episode 11 and titled Cut Week, is scheduled to broadcast on Monday, November 2. The extended broadcast runs from 9:00 to 11:00 p.m. ET.",
+          "Following this intense elimination event, the competition transitions entirely into weekly live shows leading directly up to the grand season finale."
+        ]
+      },
+      {
+        "h": "Traditional Cable and Cord-Cutting Options",
+        "p": [
+          "Traditional television viewers can catch the broadcast live using standard cable credentials through NBC or via the official network website and mobile application.",
+          "Audiences who have eliminated traditional cable subscriptions can utilize alternative live television streaming platforms. Services such as DIRECTV, fuboTV, Hulu + Live TV, YouTube TV, and Sling TV offer access to the live NBC feed, with several providers offering introductory free trials for new sign-ups."
+        ]
+      },
+      {
+        "h": "Streaming on Peacock",
+        "p": [
+          "In a major first for the current season, episodes receive a simultaneous broadcast on Peacock, allowing fans to watch the event as it airs digitally.",
+          "Additionally, full episodes become available for next-day streaming on the platform. Subscribers can choose between the ad-supported Premium tier or the commercial-free Premium Plus option, with annual billing discounts also available."
+        ]
+      },
+      {
+        "h": "Alternative Ways to Access Peacock",
+        "p": [
+          "Viewers looking for trial access can subscribe to Peacock Premium Plus through Prime Video to utilize a seven-day promotional period not offered directly through the platform itself.",
+          "Another alternative involves utilizing Instacart+, which bundles a complimentary subscription to the streaming service as part of its membership perks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Voice introduces its inaugural Cut Week with a special two-hour episode airing on Monday, November 2, from 9:00 to 11:00 p.m. ET on NBC due to a schedule shift for network comedies. Fans can watch the historic elimination round live on television, via live-streaming platforms, or stream the program on Peacock."
+        ]
+      }
+    ],
+    "facts": [
+      "The Voice Season 30 Episode 11 is titled Cut Week.",
+      "The episode airs on Monday, November 2.",
+      "The broadcast time is 9:00-11:00 p.m. ET on NBC.",
+      "St. Denis Medical and The Fall and Rise of Reggie Dinkins air from 8:00-9:00 p.m. ET.",
+      "Peacock Premium costs $12.99/month and Premium Plus costs $19.99/month."
+    ],
+    "entities": {
+      "people": [
+        "Kelly Clarkson",
+        "Michael Gelman"
+      ],
+      "titles": [
+        "The Voice",
+        "St. Denis Medical",
+        "The Fall and Rise of Reggie Dinkins",
+        "Live with Kelly and Mark",
+        "Saturday Night Live",
+        "Landman",
+        "Dutton Ranch",
+        "The Gilded Age",
+        "Avatar: Seven Havens",
+        "Nocturne",
+        "A Couple Of Lies",
+        "From",
+        "Dancing with the Stars",
+        "Akka",
+        "Resident Evil",
+        "VisionQuest",
+        "Hadestown",
+        "It: Welcome to Derry",
+        "How To Ruin Diwali: Meet The Parents",
+        "Slow Horses"
+      ]
+    },
+    "keywords": [
+      "The Voice Cut Week",
+      "The Voice start time",
+      "watch The Voice online",
+      "The Voice NBC schedule"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/09/The-Voice-2026.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "What Time Does The Voice Air Tonight? How to Stream the Special Cut Week Episode",
+        "source": "Decider"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 14:00:00 -0500"
+  },
+  "en6sos": {
+    "id": "en6sos",
+    "type": "news",
+    "headline": "Blink Director Srinidhi Bengaluru Discusses His Acting Role in Mr Lucky",
+    "dek": "The award-winning filmmaker reflects on returning to his theatre roots, collaborating with Harshith Rangaswamy, and the struggles of independent cinema.",
+    "body": [
+      {
+        "h": "Stepping In Front of the Camera",
+        "p": [
+          "Srinidhi Bengaluru, known for his acclaimed directorial work on the film Blink, recently returned to his roots by taking on an acting role. He appears in a prominent part in the fantasy thriller Mr Lucky, which arrived in theatres on October 30.",
+          "While his primary reputation lies behind the camera, this new project marks an interesting chapter in his creative journey, allowing him to explore performance arts once again."
+        ]
+      },
+      {
+        "h": "Early Theatre Roots and Unexpected Return",
+        "p": [
+          "Long before transitioning to filmmaking, Srinidhi began his creative path as a theatre actor. He even acted in a film when he was younger, earning a state award for his efforts.",
+          "His return to acting came about through his association with Harshith Rangaswamy, the director of Mr Lucky. Initially, Srinidhi was reluctant to take up the part, having previously contributed sound effects to a short film directed by Harshith, who was formerly a member of his theatre group."
+        ]
+      },
+      {
+        "h": "Contributions Beyond Acting",
+        "p": [
+          "Although some viewers might assume he plays the lead based on promotional material, Srinidhi clarifies that his character is simply an important one within the narrative.",
+          "His involvement extended beyond just performing on screen. Because of his close creative bond with the director, Srinidhi also offered suggestions on the script and dialogues during the project's development."
+        ]
+      },
+      {
+        "h": "Bringing a Director's Perspective to Acting",
+        "p": [
+          "Having spent significant time directing, Srinidhi found that the transition to acting offered an enriching perspective. His technical understanding of lensing, framing, and camera positioning helped him approach his scenes differently.",
+          "He credits his earlier theatre classes and acting background for helping him reconnect smoothly with the craft, noting that the crossover of skills is mutually beneficial."
+        ]
+      },
+      {
+        "h": "The Economics and Hurdles of Independent Cinema",
+        "p": [
+          "Reflecting on his experiences with Blink, Srinidhi highlights the difficulties faced by independent filmmakers in drawing audiences to theatres. He notes that smaller productions require time to build momentum through word of mouth.",
+          "Furthermore, marketing poses a massive hurdle. Limited budgets often leave little room for promotional costs, and the changing theatrical landscape means producers can no longer rely on average performers to break even."
+        ]
+      },
+      {
+        "h": "Future Writing and Directorial Plans",
+        "p": [
+          "Looking ahead, Srinidhi is busy writing and developing new scripts while weighing potential project discussions. While the success of Blink brings certain expectations from producers, he aims to avoid simply repeating old formulas.",
+          "He is currently focused on finding a subject that matches his creative sensibility while managing to appeal to a wider audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Srinidhi Bengaluru has stepped into an acting role in the fantasy thriller Mr Lucky, returning to the performance background he started with in theatre. Alongside discussing his collaboration with director Harshith Rangaswamy, he shared insights into the financial struggles of independent cinema and his ongoing work on future scripts."
+        ]
+      }
+    ],
+    "facts": [
+      "Mr Lucky released in theatres on October 30, 2026",
+      "Srinidhi Bengaluru directed Blink",
+      "Blink won Best Film (Critics) - Kannada at the 70th Filmfare Awards South",
+      "Harshith Rangaswamy directed Mr Lucky"
+    ],
+    "entities": {
+      "people": [
+        "Srinidhi Bengaluru",
+        "Harshith Rangaswamy"
+      ],
+      "titles": [
+        "Blink",
+        "Mr Lucky"
+      ]
+    },
+    "keywords": [
+      "Srinidhi Bengaluru Mr Lucky",
+      "Blink director Srinidhi Bengaluru",
+      "Harshith Rangaswamy Mr Lucky film",
+      "Mr Lucky release date"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/blinkdirectorsrinidhibengaluruonhisactingstintinmrluckyso1793611375.jpg",
+        "caption": "Blink Director Srinidhi Bengaluru Discusses His Acting Role in Mr Lucky",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-02T14:56:59+05:30"
   }
 };

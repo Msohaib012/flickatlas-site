@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T20:50:55Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 210,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Filmibeat TripTales: Planning A Diwali Holiday? Ranveer-Deepika Have A Special Recommendation For THIS City",
-      "Can Flats Be Festive? Rakul Preet Singh Makes Strong Case For Comfortable Footwear- WATCH",
-      "Chad Lowe lists $3.2 million home for sale weeks after daughter Fiona’s death",
-      "10 Best Children & Family Movies on Netflix Right Now",
-      "6 Pulitzer Prize-Winning Books That Became Great Movies",
-      "10 Greatest Fantasy Books of All Time, Ranked by Goodreads",
-      "Jake Gyllenhaal’s 124-Minute Sci-Fi Blockbuster Officially Takes Over Netflix",
-      "The Mosquito Bowl: 15 Football Players Died Months Later | Collider BTS",
-      "These Are Officially the 8 Best Miniseries Ever Made",
-      "The ’80s Classic That Inspired ‘Stranger Things’ Officially Dominates Streaming Charts",
-      "Massive Sheriff Country Crossover Event & More Paramount+ Releases This Week",
-      "19 Years Later, the 'Stargate SG-1' Franchise Officially Returns With New Release",
-      "Steven Spielberg Beat Taylor Sheridan at His Own Game With a 6-Part Western Series You Can Binge in One Night",
-      "New Hogwarts Legacy Replacement Officially Arrives In 2027",
-      "The Lincoln Lawyer Season 6 Update Puts The Ball Fully In Netflix's Court",
-      "Next James Bond: Mystery Fourth Audition Contenders Ranked, Including Tom Holland",
-      "All 13 American Horror Story Seasons & The TV Shows They're Most Like",
-      "Former James Bond Actor Wants The Franchise \"Reinvented\" Amid Amazon's Casting Battle",
-      "After 88 Years, Superman Just Changed Which Power He Discovered First",
-      "Best High Potential Replacement Officially Will No Longer Return In 2026"
-     ],
-     "updated": [],
-     "count": 194,
-     "detail": "210 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T21:22:24Z",
     "run_id": "41351563567",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "482 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T19:54:40Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 340,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "I Don’t Normally Get Hungry Watching Bake Off. Why Pastry Week Had My Mouth Watering",
+      "Digger Took A Big, Bold Swing. John Goodman Thinks It Was ‘Killed’ Before It Even Opened",
+      "Hunger Games Star Officially Joins Marvel’s New X-Men Movie",
+      "‘FBI’ Officially Brings Back a Fan-Favorite Agent in 2 Weeks",
+      "Whalefall: Austin Abrams Was Spun 360° Inside a Fake Whale | Collider BTS",
+      "‘Queen Charlotte’ Star Reveals the Brutal Reality Behind Netflix’s Hit ‘Bridgerton’ Spin-Off",
+      "‘Saturday Night Live’ Just Put Its Biggest Problem on the Wrong Person",
+      "The Western Quentin Tarantino Called \"The Best-Directed Movie of All Time\" Officially Loses Free Streaming Home",
+      "Doctor Strange Star Officially Reveals Dream MCU Crossover Before ‘Avengers: Doomsday’",
+      "The Coen Brothers’ Josh O’Connor Movie Gets Theatrical Release Date Window From Netflix",
+      "Brittany Snow Reveals How Divorce From Tyler Stanaland Changed Her Life",
+      "Mckenna Grace’s New The Hunger Games Announcement Gives Fans Scream 7 Flashbacks",
+      "'Sense and Sensibility' Officially Confirms Digital Streaming Date",
+      "New 'Lord of the Rings' Release Officially Arrives Ahead of Prime Video’s Season 3 Premiere",
+      "Sydney Sweeney's $400M Thriller Is Getting a Major New Release in 2027",
+      "Netflix Officially Debuting New \"Sinister\" Gothic Mystery Thriller From Coen Brothers in 2027",
+      "Prime Video's \"Training Day Meets End of Watch\" 8-Part Action Thriller Is Officially a Streaming Smash Hit",
+      "The Lincoln Lawyer Season 5's Netflix Release Month Confirmed By Michael Connelly",
+      "What Is Sinners Really About? The Deeper Meaning Explained",
+      "Marvel's Most Underrated Hero Makes Their Grand Return In 2 Days"
+     ],
+     "updated": [],
+     "count": 276,
+     "detail": "280 stories, 0 duplicates removed, 60 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-01T20:50:56Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1448,27 +1430,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T19:58:09Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Venkatesh's Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days",
+      "Netflix Secures Global Rights to Joel Coen and Ethan Coen's Gothic Mystery Jack of Spades",
+      "What Time Does The Voice Air Tonight? How to Stream the Special Cut Week Episode",
+      "Blink Director Srinidhi Bengaluru Discusses His Acting Role in Mr Lucky"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T22:51:44Z",
-    "run_id": "41359136403",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1882,30 +1869,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T19:58:09Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 182, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T20:57:43Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1vufqij",
-      "kyzix3",
-      "1x2fmoh"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2326,27 +2310,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T20:11:52Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "qencqr",
+      "180qnq9",
+      "ged0uq"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T20:57:41Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 408,
-     "detail": "407 collected staging rows from readers; 122 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 112,
-     "detail": "+0 new rows, 112 updated rows, 295 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2760,19 +2747,27 @@
      "detail": "+0 new rows, 4 updated rows, 415 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:06:02Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 426,
+     "detail": "425 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 144,
+     "detail": "+0 new rows, 144 updated rows, 281 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3002,27 +2997,44 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T20:11:50Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 369,
+     "detail": "released movies without a review; Tavily searches: 40"
+    },
+    "changed": {
+     "added": [
+      "A Folk Story (1814384)",
+      "A Very Arctic Christmas (1664264)",
+      "Christmas at the Kringles (939541)",
+      "Everest: The Other Side (1603262)",
+      "Karateka (1365224)",
+      "Kudrat 1968: High Council (1731816)",
+      "La toile (1796328)",
+      "Origin Story (1801940)",
+      "Paging Hezbollah (1756268)",
+      "Philly Pretzels (1797215)",
+      "The Blood Countess (1251608)",
+      "The Mosquito Bowl (1458300)",
+      "The SAS (741533)",
+      "The Sea Speaks His Name (1590723)",
+      "This Solitude (1547311)",
+      "Unsafe (1685339)",
+      "Who's Coming for Christmas? (1773378)"
+     ],
+     "updated": [],
+     "count": 17
+    },
+    "reason": null
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T20:57:43Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 360,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 360 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3521,19 +3533,32 @@
      "detail": "api-news.json 425 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T20:11:51Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 429,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Netflix Secures Global Rights to Joel Coen and Ethan Coen's Gothic Mystery Jack of Spades",
+      "What Time Does The Voice Air Tonight? How to Stream the Special Cut Week Episode",
+      "Venkatesh's Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days",
+      "Blink Director Srinidhi Bengaluru Discusses His Acting Role in Mr Lucky"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 429 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3802,19 +3827,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T19:54:45Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 17,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 4 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4135,26 +4167,19 @@
      "count": 19
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T20:50:56Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 40/40 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4623,19 +4648,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T19:58:09Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 276 still unprocessed; today by category: movies 10/6, tv_dramas 8/4, episodes 1/2, box_office 14/6, celebrities_events 15/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Venkatesh's Aadarsha Kutumbam Achieves Rs 75 Crore Worldwide in Three Days",
+      "Netflix Secures Global Rights to Joel Coen and Ethan Coen's Gothic Mystery Jack of Spades",
+      "What Time Does The Voice Air Tonight? How to Stream the Special Cut Week Episode",
+      "Blink Director Srinidhi Bengaluru Discusses His Acting Role in Mr Lucky"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4941,19 +4978,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5283,24 +5320,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 12,
+     "count": 411,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5630,19 +5667,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 53,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5892,19 +5934,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6139,19 +6181,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6393,19 +6435,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6646,19 +6688,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6888,19 +6930,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7153,6 +7195,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7373,16 +7425,6 @@
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-01T20:57:54Z",
-    "run_id": "41348909869",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7622,6 +7664,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7724,8 +7776,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T18:53:36Z"
+ "updated_at": "2026-11-02T20:12:00Z"
 }

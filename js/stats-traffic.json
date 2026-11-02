@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-02T18:53:35Z",
+  "generated": "2026-11-02T20:12:00Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 18,
-    "pageviews": 149,
-    "sessions": 30,
-    "avg_session_seconds": 314.6
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 156,
-    "pageviews": 1060,
-    "sessions": 258,
-    "avg_session_seconds": 355.5
+    "users": 144,
+    "pageviews": 718,
+    "sessions": 226,
+    "avg_session_seconds": 225.5
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 286,
-      "avg_time_seconds": 638.2
+      "views": 193,
+      "avg_time_seconds": 396.7
     },
     {
       "path": "/",
@@ -32,58 +32,58 @@
     {
       "path": "/movie",
       "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-      "views": 77,
-      "avg_time_seconds": 279.1
+      "views": 21,
+      "avg_time_seconds": 32.1
     },
     {
       "path": "/news-item",
       "title": "News Story | FlickAtlas",
-      "views": 58,
-      "avg_time_seconds": 47.0
-    },
-    {
-      "path": "/movies",
-      "title": "Movies — Popular, Top Rated & Upcoming Films with Cast and Box Office | FlickAtlas",
-      "views": 34,
-      "avg_time_seconds": 112.6
-    },
-    {
-      "path": "/box-office",
-      "title": "Box Office — Top Grossing Movies, Budgets & Worldwide Collections | FlickAtlas",
-      "views": 28,
-      "avg_time_seconds": 9.4
-    },
-    {
-      "path": "/show",
-      "title": "TV Show Details — Seasons, Cast & Story | FlickAtlas",
-      "views": 17,
-      "avg_time_seconds": 19.9
-    },
-    {
-      "path": "/episode-guides",
-      "title": "Episode Guides — Seasons & Episode Breakdowns for Every Series | FlickAtlas",
       "views": 16,
-      "avg_time_seconds": 9.2
-    },
-    {
-      "path": "/upcoming",
-      "title": "Upcoming Movies & TV Shows — Release Date Calendar | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 17.0
+      "avg_time_seconds": 43.2
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
       "views": 14,
       "avg_time_seconds": 71.3
+    },
+    {
+      "path": "/movie",
+      "title": "Pyre (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 11,
+      "avg_time_seconds": 20.1
+    },
+    {
+      "path": "/news-item/",
+      "title": "News Story | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 8.5
+    },
+    {
+      "path": "/ott",
+      "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 50.8
+    },
+    {
+      "path": "/box-office",
+      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "views": 9,
+      "avg_time_seconds": 47.7
+    },
+    {
+      "path": "/movie",
+      "title": "Tum Mere Ho (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 9,
+      "avg_time_seconds": 117.9
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 180,
-      "users": 107
+      "sessions": 148,
+      "users": 95
     },
     {
       "source": "google",
@@ -101,7 +101,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 86
+      "users": 79
     },
     {
       "country": "India",
@@ -109,18 +109,14 @@
     },
     {
       "country": "(not set)",
-      "users": 4
-    },
-    {
-      "country": "Germany",
-      "users": 4
+      "users": 3
     },
     {
       "country": "Canada",
       "users": 3
     },
     {
-      "country": "Netherlands",
+      "country": "Germany",
       "users": 3
     },
     {
@@ -132,22 +128,26 @@
       "users": 2
     },
     {
+      "country": "Netherlands",
+      "users": 2
+    },
+    {
       "country": "Philippines",
       "users": 2
     },
     {
-      "country": "United Kingdom",
-      "users": 2
+      "country": "Australia",
+      "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 95
+      "users": 87
     },
     {
       "device": "mobile",
-      "users": 59
+      "users": 55
     },
     {
       "device": "tablet",
