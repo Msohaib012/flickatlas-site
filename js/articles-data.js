@@ -32756,5 +32756,221 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T05:31:22+05:30"
+  },
+  "1hrcjvw": {
+    "id": "1hrcjvw",
+    "type": "news",
+    "headline": "Behind-the-Scenes Leak Hints at Iconic Villains in The Batman Part II",
+    "dek": "A recent social media video from a makeup artist's studio appears to reveal major character clues for the upcoming DC sequel, pointing toward Two-Face, Victor Zsasz, and the Court of Owls.",
+    "body": [
+      {
+        "h": "Production Updates and Direction",
+        "p": [
+          "Filming for The Batman Part II is currently underway, bringing anticipation to a fever pitch for fans of the dark superhero franchise. While director Matt Reeves has reportedly been stepping away temporarily to handle a family crisis, acclaimed filmmaker Steven Soderbergh has stepped in as an on-set director to keep production moving smoothly.",
+          "Despite cameras rolling, the overarching plot has remained closely guarded by the studio. Even the official character assignments for newly announced cast members like Sebastian Stan, Scarlett Johansson, Brian Tyree Henry, and Charles Dance have been kept entirely under wraps."
+        ]
+      },
+      {
+        "h": "Casting Rumors and Theories",
+        "p": [
+          "Prior to the recent leaks, early speculation suggested that Sebastian Stan would take on the role of Harvey Dent, also known as Two-Face. Rumors further guessed that Scarlett Johansson might portray his wife Gilda, while Charles Dent, the character's abusive father, would be played by Charles Dance.",
+          "However, insider reports from earlier this year shifted expectations entirely. Scoop reports indicated that Brian Tyree Henry would instead take on the mantle of Harvey Dent, leaving Sebastian Stan to potentially portray the chilling serial killer Victor Zsasz."
+        ]
+      },
+      {
+        "h": "The Unexpected Makeup Department Leak",
+        "p": [
+          "Fans uncovered the strongest evidence for these newer casting theories through an unexpected source: behind-the-scenes footage from supermodel Heidi Klum's Halloween costume preparation. Mike Marino, the brilliant makeup artist responsible for Klum's elaborate transformations, also worked on the first film and has returned for the sequel.",
+          "Eagle-eyed enthusiasts analyzing a video showcasing Marino's workshop spotted several intriguing props believed to originate from the production of The Batman Part II. These background items have drastically reshaped expectations for the upcoming sequel's rogue's gallery."
+        ]
+      },
+      {
+        "h": "Clues Pointing to Two-Face and Zsasz",
+        "p": [
+          "Among the spotted items in the makeup studio was what appeared to be a cast of Brian Tyree Henry's face featuring a distinctly disfigured lip, strongly signaling the presence of Harvey Dent in the narrative. If accurate, this confirms Henry as the tragic Gotham prosecutor turned criminal.",
+          "Additionally, observers noted a storage box clearly labeled with the name Zsasz. This supports the notion that Sebastian Stan will bring the unsettling serial killer—famous for carving tally marks into his own flesh—to the gritty cinematic universe established by Matt Reeves."
+        ]
+      },
+      {
+        "h": "Introduction of the Court of Owls",
+        "p": [
+          "Perhaps the most exciting discovery in the leaked video was a box labeled Owl 3. This reference heavily implies the cinematic debut of the Court of Owls, an elite and shadowy secret society that has manipulated Gotham City for centuries.",
+          "Created in comic books by Scott Snyder and Greg Capullo, the organization utilizes owl-themed masks and near-immortal assassins known as Talons. The eerie group is famously dismissed as an urban myth by many citizens, immortalized in local nursery rhymes warning children of their omnipresent watch."
+        ]
+      },
+      {
+        "h": "Thematic Fit for Gotham City",
+        "p": [
+          "The inclusion of the Court of Owls aligns perfectly with the thematic foundations laid down in the first movie. Because the initial installment focused heavily on uncovering deep-seated institutional corruption in Gotham, peeling back layers to reveal a centuries-old secret society fits the narrative trajectory naturally.",
+          "Lead actor Robert Pattinson has previously expressed enthusiasm for the idea of featuring the secret society. Bringing them into the cinematic fold offers an expansive opportunity to challenge Bruce Wayne with an enemy far more entrenched than standard mobsters."
+        ]
+      },
+      {
+        "h": "Release Expectations",
+        "p": [
+          "Warner Bros. has slated The Batman Part II for an exclusive theatrical release. Fans eager to witness how these rumored villains and plot threads unfold on the big screen will need to wait until the scheduled premiere date in early 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A behind-the-scenes video from a makeup artist's studio has inadvertently leaked potential character and plot details for The Batman Part II. Props spotted in the footage point toward Brian Tyree Henry playing Two-Face, Sebastian Stan as Victor Zsasz, and the introduction of the infamous Court of Owls. The highly anticipated superhero sequel is scheduled for release in February 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Filming for The Batman Part II is currently underway.",
+      "Steven Soderbergh is filling in as an on-set director while Matt Reeves deals with a family crisis.",
+      "New cast members include Sebastian Stan, Scarlett Johansson, Brian Tyree Henry, and Charles Dance.",
+      "Jeff Sneider reported in June that Henry was playing Dent and Stan would play Victor Zsasz.",
+      "Mike Marino is the makeup artist who designs Heidi Klum's costumes and worked on The Batman.",
+      "The Court of Owls was created in 2011 by Scott Snyder and Greg Capullo.",
+      "The Batman Part II is scheduled for theatrical release on February 18, 2028."
+    ],
+    "entities": {
+      "people": [
+        "Steven Soderbergh",
+        "Matt Reeves",
+        "Sebastian Stan",
+        "Scarlett Johansson",
+        "Brian Tyree Henry",
+        "Charles Dance",
+        "Jeff Sneider",
+        "Heidi Klum",
+        "Mike Marino",
+        "Scott Snyder",
+        "Greg Capullo",
+        "Robert Pattinson"
+      ],
+      "titles": [
+        "The Batman",
+        "The Batman Part II",
+        "Transformers One"
+      ]
+    },
+    "keywords": [
+      "The Batman Part II",
+      "Brian Tyree Henry Two-Face",
+      "Sebastian Stan Victor Zsasz",
+      "The Batman 2 Court of Owls"
+    ],
+    "images": [
+      {
+        "url": "https://www.slashfilm.com/img/gallery/the-batman-2-spoilers-leak-bts-photo-teases-two-face-victor-zsasz-and-court-of-owls/l-intro-1793583070.jpg",
+        "caption": "Behind-the-Scenes Leak Hints at Iconic Villains in The Batman Part II",
+        "source": "SlashFilm"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 01:37:12 +0000"
+  },
+  "w7aoff": {
+    "id": "w7aoff",
+    "type": "news",
+    "headline": "Prahaar The Ujjwal Nikam Story Crosses Rs 30 Crore Worldwide on Day 17",
+    "dek": "Rajkummar Rao starrer biographical legal drama Prahaar: The Ujjwal Nikam Story records an upward tick in collections on its seventeenth day, crossing a significant global milestone.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The biographical legal drama Prahaar: The Ujjwal Nikam Story has officially surpassed the notable milestone of Rs 30 crore in worldwide gross collections. This global achievement comes after seventeen days of sustained theatrical exhibition in domestic and international territories.",
+          "The theatrical journey of the film has seen steady progress, culminating in this international benchmark as word of mouth and ticket sales continue to trickle in from overseas markets."
+        ]
+      },
+      {
+        "h": "Sunday Collection Growth",
+        "p": [
+          "On its seventeenth day of release, which fell on Sunday, November 1, the feature film witnessed a modest yet encouraging improvement in its box office performance. Industry trackers recorded an 8.3 percent increase in domestic net earnings compared to the previous day.",
+          "Specifically, the production brought in Rs 65 lakh in India net collections on Sunday, improving slightly from the Rs 60 lakh it managed to pull in on Saturday. This incremental rise offered a brief weekend respite amid a slowing theatrical pace."
+        ]
+      },
+      {
+        "h": "Domestic Earnings Breakdown",
+        "p": [
+          "Following the latest Sunday figures, the cumulative domestic net earnings for the Rajkummar Rao vehicle have advanced to a total of Rs 23.25 crore. Meanwhile, the overall India gross collections have reached an estimated figure of Rs 27.58 crore.",
+          "Overseas markets have contributed an additional Rs 3.03 crore in gross collections. When combined with domestic returns, the cumulative worldwide gross earnings currently stand at Rs 30.61 crore."
+        ]
+      },
+      {
+        "h": "Audience Occupancy and Screen Count",
+        "p": [
+          "The theatrical run on Sunday was sustained across a total of 940 active shows nationwide. Across these screenings, the feature recorded an overall audience occupancy rate of 22.54 percent.",
+          "Audience turnout varied throughout the day, starting with a minimal 5.08 percent occupancy during morning screenings. Afternoon shows saw a jump to 14.54 percent, while evening performances drew the strongest crowds with an occupancy reaching 28.85 percent."
+        ]
+      },
+      {
+        "h": "Ticket Sales and Cumulative Footfall",
+        "p": [
+          "Data compiled by industry trackers indicates that approximately 29,701 tickets were purchased by patrons across the country on the seventeenth day alone. This single-day footfall contributes to a much larger aggregate figure.",
+          "Throughout its ongoing theatrical run, the cumulative ticket sales for the biographical feature have reached an impressive total of 10,73,377 admissions across all participating cinemas."
+        ]
+      },
+      {
+        "h": "Weekly Box Office Trajectory",
+        "p": [
+          "The movie initially launched its theatrical run with robust numbers, securing Rs 17.15 crore in domestic net collections during its opening week alongside Rs 20.44 crore in India gross earnings.",
+          "However, box office momentum experienced a substantial slowdown in the second week, bringing in Rs 4.50 crore net. The ongoing third week has added another Rs 1.60 crore to the domestic ledger thus far."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Subject Matter",
+        "p": [
+          "Directed by Avinash Arun, Prahaar: The Ujjwal Nikam Story is a 2026 Hindi-language biographical legal drama. The narrative draws deep inspiration from the professional career and landmark cases handled by veteran special public prosecutor Ujjwal Nikam.",
+          "The plot delves into significant criminal trials in modern Indian history, focusing specifically on the legal battles surrounding the 1993 Bombay blasts and the 2008 Mumbai terror attacks. Alongside leading man Rajkummar Rao, the movie also stars Wamiqa Gabbi in a prominent role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajkummar Rao starrer biographical legal drama Prahaar: The Ujjwal Nikam Story crossed Rs 30 crore in worldwide gross collections by its seventeenth day in theatres. The feature film recorded modest domestic growth on Sunday, November 1, adding Rs 65 lakh to reach a cumulative domestic net of Rs 23.25 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajkummar Rao",
+      "Ujjwal Nikam",
+      "Avinash Arun",
+      "Wamiqa Gabbi",
+      "November 1, 2026",
+      "30.61 crore",
+      "23.25 crore",
+      "27.58 crore",
+      "3.03 crore",
+      "65 lakh",
+      "60 lakh",
+      "940",
+      "22.54%",
+      "29,701",
+      "1,073,377",
+      "17.15 crore",
+      "20.44 crore",
+      "4.50 crore",
+      "1.60 crore"
+    ],
+    "entities": {
+      "people": [
+        "Rajkummar Rao",
+        "Ujjwal Nikam",
+        "Avinash Arun",
+        "Wamiqa Gabbi"
+      ],
+      "titles": [
+        "Prahaar: The Ujjwal Nikam Story"
+      ]
+    },
+    "keywords": [
+      "Prahaar The Ujjwal Nikam Story",
+      "Rajkummar Rao Prahaar box office",
+      "Prahaar Day 17 collection",
+      "Prahaar movie worldwide collection",
+      "Avinash Arun film Prahaar"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135441564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Prahaar The Ujjwal Nikam Story Crosses Rs 30 Crore Worldwide on Day 17",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T06:43:28+05:30"
   }
 };
