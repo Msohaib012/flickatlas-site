@@ -156,7 +156,12 @@
     put("/qs/" + dateKey() + "/" + term + "/" + id + ".json");
     setTimeout(function () {
       var res = document.querySelector("#results");
-      if (res && res.textContent.indexOf("matches in the records checked") >= 0) {
+      /* Zero-result means NO result card in ANY group. The old check
+         looked for the empty-group sentence ("No TV matches in the
+         records checked"), which appears whenever ANY single group is
+         empty — so almost every search was also logged as zero-result
+         (fix 2026-11-02). */
+      if (res && !res.querySelector(".search-result")) {
         put("/qz/" + dateKey() + "/" + term + "/" + id + ".json");
       }
     }, 3000);

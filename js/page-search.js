@@ -19,8 +19,53 @@
   const results = main.querySelector("#results");
   if (!q) { results.innerHTML = `<p style="color:var(--muted)">Type a title, name or story above to get started.</p>`; return; }
 
-  const norm = v => String(v == null ? "" : v).toLocaleLowerCase();
-  const textMatch = (x, fields) => fields.some(k => norm(Array.isArray(x[k]) ? x[k].join(" ") : x[k]).includes(norm(q)));
+  const norm = v => String(v == null ? "" : v).toLocaleLowerCase().replace(/[^a-z0-9\s]+/g, " ").replace(/\s+/g, " ").trim();
+  const qNorm = norm(q);
+  const qWords = qNorm.split(" ").filter(w => w.length >= 2 || /^\d+$/.test(w));
+  /* Generic industry words carry no identity: they may complete a
+     phrase, but they cannot by themselves trigger the title-word rule
+     or the one-word-short rule — otherwise every box-office article
+     matches every "<title> box office" query. */
+  const GENERIC = new Set(["box", "office", "collection", "collections", "day", "daily", "wise", "movie", "movies", "film", "films", "trailer", "teaser", "review", "reviews", "news", "song", "songs", "episode", "episodes", "watch", "online"]);
+  /* Word-based matching (fix 2026-11-02): the old matcher required the
+     WHOLE query as one substring of title/overview, so any multi-word
+     query ("nayyi navelli box office") failed unless the exact phrase
+     was printed verbatim on the site. Now a record matches when every
+     query word appears somewhere in its searchable text (title,
+     overview, tagline, genres, cast, keywords, mentioned people); an
+     exact-phrase hit ranks first, and for 3+ word queries a record one
+     word short still counts, ranked last. */
+  const scoreText = (t, tt) => {
+    if (!t || qNorm.length < 2) return 0;
+    if (t.includes(qNorm)) return 3;
+    if (!qWords.length) return 0;
+    let hits = 0, dHits = 0;
+    for (const w of qWords) if (t.includes(w)) { hits++; if (!GENERIC.has(w) && /[a-z]/.test(w)) dHits++; }
+    if (hits === qWords.length) return 2;
+    /* Title-word rule: 2+ distinctive query words inside the
+       title/headline itself is a real match even when the remaining
+       words ("box office") are only implied — "nayyi navelli box
+       office" must find the Nayyi Navelli film and its box-office
+       page. */
+    if (tt) {
+      let th = 0;
+      for (const w of qWords) if (!GENERIC.has(w) && tt.includes(w)) th++;
+      if (th >= 2) return 1.5;
+    }
+    if (qWords.length >= 3 && hits === qWords.length - 1 && dHits >= 1) return 1;
+    return 0;
+  };
+  const textOfTitle = x => norm([x.title, x.overview, x.tagline,
+    ...(Array.isArray(x.genres) ? x.genres : []),
+    ...((x.cast || []).map(c => c && c.name))].filter(Boolean).join(" "));
+  const textOfArticle = a => norm([a.headline, a.dek,
+    ...(Array.isArray(a.keywords) ? a.keywords : []),
+    ...((a.entities && Array.isArray(a.entities.people)) ? a.entities.people : [])].filter(Boolean).join(" "));
+  const scored = (rows, textFn, titleFn, cmp) => rows
+    .map(x => ({ x, s: scoreText(textFn(x), titleFn ? titleFn(x) : "") }))
+    .filter(r => r.s > 0)
+    .sort((a, b) => b.s - a.s || cmp(a.x, b.x))
+    .map(r => r.x);
   const validDate = v => {
     if (typeof v === "number" && Number.isFinite(v) && v > 0) { const date = new Date(v); return Number.isFinite(date.getTime()) ? date.toISOString() : ""; }
     if (typeof v !== "string" || !/^\d{4}-\d{2}-\d{2}(?:[Tt ][0-2]\d:[0-5]\d(?::[0-5]\d(?:\.\d+)?)?(?:Z|[+-][0-2]\d:?\d\d)?)?$/.test(v)) return "";
@@ -73,16 +118,25 @@
     }
   }
 
+  /* Box Office group: titles with day-wise collection data (FA_DAYWISE
+     keys joined to their published entries). Their searchable text
+     carries "box office collection" so "<title> box office" queries
+     land here — box office is this site's core, and it was invisible
+     to search before (fix 2026-11-02). */
+  const BO = Object.keys(window.FA_DAYWISE || {}).map(id => (window.FA_PUBLISHED || {})[id]).filter(x => x && x.title);
+  const textOfBO = x => textOfTitle(x) + " box office collection day wise";
   const groups = {
-    movie: PUB.filter(x => x.type === "movie" && textMatch(x, ["title", "overview"])).sort(newestFirst),
-    tv: PUB.filter(x => x.type === "tv" && textMatch(x, ["title", "overview"])).sort(newestFirst),
-    person: [...peopleById.values()].filter(p => textMatch(p, ["name"])),
-    news: ARTICLES.filter(x => textMatch(x, ["headline", "dek"])).sort((a, b) => parseDate(b.published).localeCompare(parseDate(a.published))),
+    movie: scored(PUB.filter(x => x.type === "movie"), textOfTitle, x => norm(x.title), newestFirst),
+    tv: scored(PUB.filter(x => x.type === "tv"), textOfTitle, x => norm(x.title), newestFirst),
+    person: scored([...peopleById.values()], p => norm(p.name), null, () => 0),
+    boxoffice: scored(BO, textOfBO, x => norm(x.title), newestFirst),
+    news: scored(ARTICLES, textOfArticle, a => norm(a.headline), (a, b) => parseDate(b.published).localeCompare(parseDate(a.published))),
   };
 
   /* The people group exists only when published cast data exists. */
   const categories = [["movie", "Movies"], ["tv", "TV / series"]];
   if (peopleById.size) categories.push(["person", "People / celebrities"]);
+  categories.push(["boxoffice", "Box Office"]);
   categories.push(["news", "News"]);
 
   function section(key) {
@@ -115,6 +169,12 @@
           date = dateValue(x, key);
           info = ([x.known_for_department, (x.known_for || []).map(c => c.title || c.name).filter(Boolean).slice(0, 3).join(", ")].filter(Boolean).join(" · ") || "FlickAtlas profile");
         }
+      } else if (key === "boxoffice") {
+        title = UI.titleOf(x);
+        href = `/box-office-day?title=${encodeURIComponent(x.id)}`;
+        image = x.poster_path || "";
+        date = dateValue(x, key);
+        info = "Day-wise box office";
       } else {
         title = UI.titleOf(x);
         href = `/${key === "tv" ? "show" : "movie"}?id=${encodeURIComponent(x.id)}`;
@@ -133,7 +193,7 @@
       const imgHtml = imgSrc ? `<img src="${UI.esc(imgSrc)}" alt="" loading="lazy" onerror="${imgErr}">` : "";
       return `<a class="search-result" href="${UI.esc(href)}">${imgHtml}<span><small>${date ? UI.esc(UI.fmtDate(date)) : "Date unavailable"}</small><b>${UI.esc(title)}</b><small>${UI.esc(info)}</small></span></a>`;
     }).join("");
-    const empty = rows.length ? "" : `<p>No ${{ movie: "movie", tv: "TV or series", person: "people", news: "news" }[key] || label.toLowerCase()} matches in the records checked.</p>`;
+    const empty = rows.length ? "" : `<p>No ${{ movie: "movie", tv: "TV or series", person: "people", boxoffice: "box office", news: "news" }[key] || label.toLowerCase()} matches in the records checked.</p>`;
     return `<section class="search-group" aria-labelledby="search-${key}"><h2 id="search-${key}">${label} <small>(${rows.length} loaded match${rows.length === 1 ? "" : "es"})</small></h2>${rows.length ? `<div class="search-results">${cards}</div>` : empty}</section>`;
   }
 

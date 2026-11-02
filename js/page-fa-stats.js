@@ -143,8 +143,16 @@
       .concat(gPageRows.map(function (r) { return { key: PAGE_NAMES[r.key] || r.key, val: r.val }; }))
       .sort(function (a, b) { return b.val - a.val; }).slice(0, 15);
     $("pn-google").innerHTML = panelHtml(gRows, function (n) { return n; }, false);
-    $("pn-searches").innerHTML = panelHtml(sortedRows(aggregateKeys(qs, periodKeys(qs, now)), 15), function (k) { return k.replace(/_/g, " "); }, false);
-    $("pn-zero").innerHTML = panelHtml(sortedRows(aggregateKeys(qz, periodKeys(qz, now)), 15), function (k) { return k.replace(/_/g, " "); }, false);
+    /* "Searched" shows only searches that FOUND something: qs counts
+       every search, qz the zero-result subset, so subtract per term.
+       This also self-heals the pre-2026-11-02 history, where a tracker
+       bug logged most searches in BOTH nodes (fix 2026-11-02). */
+    var sQs = aggregateKeys(qs, periodKeys(qs, now));
+    var sQz = aggregateKeys(qz, periodKeys(qz, now));
+    var sFound = {};
+    for (var sK in sQs) { var sD = sQs[sK] - (sQz[sK] || 0); if (sD > 0) sFound[sK] = sD; }
+    $("pn-searches").innerHTML = panelHtml(sortedRows(sFound, 15), function (k) { return k.replace(/_/g, " "); }, false);
+    $("pn-zero").innerHTML = panelHtml(sortedRows(sQz, 15), function (k) { return k.replace(/_/g, " "); }, false);
     $("pn-ref").innerHTML = panelHtml(sortedRows(aggregateKeys(ref, periodKeys(ref, now)), 15), function (k) { return k.replace(/_/g, "."); }, false);
     $("pn-hours").innerHTML = panelHtml(sortedRows(aggregateKeys(hr, periodKeys(hr, now)), 15), function (k) { return hourLabel(k); }, false);
   }
