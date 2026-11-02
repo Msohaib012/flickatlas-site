@@ -35096,5 +35096,426 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T10:52:28Z"
+  },
+  "v65n89": {
+    "id": "v65n89",
+    "type": "news",
+    "headline": "Jailer 2 Overtakes Shah Rukh Khan's Jawan in BookMyShow Ticket Sales",
+    "dek": "Rajinikanth's action-comedy thriller Jailer 2 continues its historic run, surpassing major blockbusters in online ticket sales by its third weekend.",
+    "body": [
+      {
+        "h": "Introduction to the Milestone",
+        "p": [
+          "Rajinikanth's action-comedy thriller Jailer 2 is maintaining an extraordinary momentum at the box office, driven by strong word-of-mouth and a lucrative sequel advantage. The feature has achieved historic financial milestones, crossing 450 crore net in just eighteen days.",
+          "Beyond traditional theatrical receipts, the movie is breaking digital ticketing records on BookMyShow, highlighting the enduring enthusiasm of audiences during its extended theatrical run."
+        ]
+      },
+      {
+        "h": "Dominance in Regional and National Markets",
+        "p": [
+          "The theatrical run is heavily supported by steady footfalls in Tamil Nadu, where the film enjoys a lack of major competition in its home state. At the same time, it is gathering notable traction across various other regions throughout India.",
+          "This widespread popularity has propelled the film to cross a major digital milestone, making it the first Kollywood feature to cross ten million ticket sales on the online platform."
+        ]
+      },
+      {
+        "h": "Surpassing Major Bollywood Counterparts",
+        "p": [
+          "By the conclusion of its third weekend, representing an eighteen-day timeframe, Jailer 2 recorded a total of 10.91 million ticket sales through BookMyShow. This performance allowed it to surpass Shah Rukh Khan's prominent film Jawan, which had accumulated 10.41 million ticket sales by the same point in its run.",
+          "In addition to overtaking Jawan, the feature also outperformed other notable releases including Vicky Kaushal's Chhaava at 9.96 million tickets and Ranveer Singh's Dhurandhar at 9.79 million tickets."
+        ]
+      },
+      {
+        "h": "Standing Among Top Ticket-Selling Movies",
+        "p": [
+          "Through these robust digital sales, Jailer 2 secured the fifth position among all films in ticket sales on BookMyShow up to the third weekend. It positioned itself directly below Prabhas's Kalki 2898 AD, which registered 11.3 million tickets on the platform.",
+          "The wider leader board features several other major titles, illustrating the competitive landscape of massive theatrical releases on ticketing portals."
+        ]
+      },
+      {
+        "h": "Comprehensive BookMyShow Standings",
+        "p": [
+          "The upper tier of the BookMyShow third-weekend sales chart includes Pushpa 2 leading with 17.73 million tickets, followed by Dhurandhar 2 at 16.03 million tickets, and Kantara Chapter 1 at 12.02 million tickets.",
+          "Further down the rankings after Kalki 2898 AD and Jailer 2 are Jawan, Chhaava, Dhurandhar, Animal at 9.19 million, and Spider-Man: Brand New Day at 9.13 million."
+        ]
+      },
+      {
+        "h": "Historical Box Office Context",
+        "p": [
+          "The continuous success on ticketing applications mirrors the film's theatrical dominance, where it officially became the first Kollywood movie to reach the 450 crore net mark.",
+          "Such achievements reflect a rare combination of massive box office earnings and intense digital engagement from moviegoers across the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has reached 10.91 million ticket sales on BookMyShow by its third weekend, surpassing Shah Rukh Khan's Jawan. The film holds the fifth rank among top ticket-selling movies on the platform while achieving historic collections crossing 450 crore net in eighteen days."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 earned 450 crore+ net in 18 days",
+      "Jailer 2 sold 10.91 million tickets through BookMyShow by the end of its third weekend",
+      "Shah Rukh Khan's Jawan sold 10.41 million tickets by its third weekend",
+      "Vicky Kaushal's Chhaava sold 9.96 million tickets",
+      "Ranveer Singh's Dhurandhar sold 9.79 million tickets",
+      "Kalki 2898 AD sold 11.3 million tickets",
+      "Pushpa 2 sold 17.73 million tickets",
+      "Dhurandhar 2 sold 16.03 million tickets",
+      "Kantara Chapter 1 sold 12.02 million tickets",
+      "Animal sold 9.19 million tickets",
+      "Spider-Man: Brand New Day sold 9.13 million tickets"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Shah Rukh Khan",
+        "Vicky Kaushal",
+        "Ranveer Singh",
+        "Prabhas",
+        "Vishwak Sen",
+        "Jayasurya",
+        "Ajay Devgn",
+        "Aamir Khan",
+        "Michael Jackson",
+        "Justin Bieber",
+        "Anne Hathaway"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jawan",
+        "Chhaava",
+        "Dhurandhar",
+        "Kalki 2898 AD",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Kantara Chapter 1",
+        "Animal",
+        "Spider-Man: Brand New Day",
+        "Funky",
+        "Ranabaali",
+        "Unmadham",
+        "Drishyam 3",
+        "Dangal",
+        "The Odyssey",
+        "Verity"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Jailer 2 BookMyShow sales",
+      "Rajinikanth Jailer 2 Jawan",
+      "Jailer 2 collections"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jailer-2-jawan-box-office-update-001.jpg",
+        "caption": "Jailer 2 Overtakes Shah Rukh Khan's Jawan in BookMyShow Ticket Sales",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 10:28:04 +0000"
+  },
+  "1h6x48p": {
+    "id": "1h6x48p",
+    "type": "news",
+    "headline": "Clayface Dominates Quiet Global Box Office Over Halloween Weekend",
+    "dek": "Warner Bros' comic book adaptation maintains its grip on the worldwide chart despite a low-grossing frame, while Laika's Wildwood climbs to second place.",
+    "body": [
+      {
+        "h": "A Quiet Global Box Office Frame",
+        "p": [
+          "The global box office experienced a subdued weekend as Halloween celebrations took precedence, resulting in exceptionally low overall ticket sales for chart-topping features. With no major blockbusters entering the marketplace to drive massive crowds, the worldwide weekend gross fell below twenty-three million dollars for the leading title. Industry observers noted that such anaemic figures mirror previous slow periods observed earlier in the year.",
+          "The absence of fresh heavyweight releases left theatres quiet, allowing established holdovers to retain prominent chart positions despite natural audience drop-offs. Market analysts pointed out that holiday-heavy weekends often create temporary lulls in theatrical attendance unless accompanied by a breakout premiere. Consequently, studios largely held back their major marketing pushes during this particular session."
+        ]
+      },
+      {
+        "h": "Clayface Retains the Top Spot",
+        "p": [
+          "Warner Bros and DC Studios managed to secure the number one position globally for a second consecutive weekend with their comic book feature Clayface. The production pulled in an estimated twenty-two million eight hundred thousand dollars globally during the three-day session, pushing its cumulative worldwide earnings past eighty-three million dollars. International territories contributed significantly to these figures, led by strong ticket sales in the UK and Ireland.",
+          "The film experienced a fifty-seven percent decline in North America and a thirty-four percent drop internationally compared to its opening frame. Industry professionals generally regard these percentage dips as respectable hold rates for comic adaptations. With a modest reported production budget of forty-four million dollars, the title appears to be tracking toward commercial profitability."
+        ]
+      },
+      {
+        "h": "Wildwood Climbs to Second Place",
+        "p": [
+          "Laika's stop-motion animated feature Wildwood expanded its theatrical footprint significantly by rolling out into thirty-six new international territories. This wider distribution propelled the picture into forty-seven countries globally, driving its second-session weekend gross to eleven million five hundred thousand dollars. The boost allowed the animated adventure to climb from fourth place up to second place on the worldwide chart.",
+          "The film's global cumulative total now stands at thirty-five million two hundred thousand dollars as it continues a gradual international rollout. The UK and Ireland emerged as the project's leading overseas market, generating strong early returns. Furthermore, the picture has already surpassed the lifetime global earnings of previous studio efforts while facing the unique challenge of securing a PG-13 rating."
+        ]
+      },
+      {
+        "h": "Wicker Makes a Splash",
+        "p": [
+          "Black Bear's period drama Wicker debuted strongly in seventh place on the global chart following a localized expansion. The North American session brought in four million one hundred thousand dollars, aided by a sixty-one percent increase in theatre counts. Combined with initial international takings, the project's worldwide cumulative gross reached sixteen million four hundred thousand dollars.",
+          "Set in medieval England, the feature capitalizes on regional appeal and features prominent British talent including star Olivia Colman. The narrative centers on an isolated fisherwoman who commissions a bespoke wicker husband, triggering local jealousy. Filming took place in Hungary under the direction of Alex Huston Fischer and Eleanor Watson on a reported budget of ten million dollars."
+        ]
+      },
+      {
+        "h": "Other Notable Global Performers",
+        "p": [
+          "Among other chart movements, the Telugu-language Indian action comedy Aadarsha Kutumbam House No 47 entered the top ten with a debut of five million four hundred thousand dollars. Directed by Trivikram Srinivas, the regional release focuses on the shared domestic lives of a sprawling family. Meanwhile, documentary feature You Can See Everything continued its robust run in North America while initiating its international expansion.",
+          "Other durable holdovers such as Resident Evil continued milestone achievements, officially pushing past four hundred million dollars globally. Conversely, titles like Jailer 2 and Whalefall slipped out of the upper tier as newer expansions and seasonal holdovers reshaped the global rankings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Clayface maintained its position at the top of the global box office during a quiet Halloween weekend despite low overall ticket sales. Laika's animated feature Wildwood rose to second place following a wider international rollout, while Black Bear's Wicker debuted successfully within the top ten."
+        ]
+      }
+    ],
+    "facts": [
+      "Clayface earned $22.8m globally in its second weekend",
+      "Clayface has a cumulative worldwide box office of $83m",
+      "Wildwood earned $11.5m globally in its second weekend",
+      "Wildwood has a cumulative worldwide box office of $35.2m",
+      "Wicker earned an estimated $4.1m in its second North American session",
+      "Wicker has a worldwide total of $16.4m",
+      "Aadarsha Kutumbam House No 47 debuted with $5.4m"
+    ],
+    "entities": {
+      "people": [
+        "Charles Gant",
+        "Colin Melloy",
+        "Carson Ellis",
+        "Olivia Colman",
+        "Ed Sinclair",
+        "Alex Huston Fischer",
+        "Eleanor Watson",
+        "Peter Dinklage",
+        "Alexander Skarsgard",
+        "Trivikram Srinivas",
+        "Venkatesh",
+        "Srinidhi Shetty",
+        "Jeremy Kay",
+        "Elisabet Cabeza",
+        "Ellie Calnan",
+        "Mona Tabbara",
+        "Tim Dams"
+      ],
+      "titles": [
+        "Clayface",
+        "Wildwood",
+        "You Can See Everything",
+        "Resident Evil",
+        "Other Mommy",
+        "Heart Of The Beast",
+        "Wicker",
+        "Street Fighter",
+        "Aadarsha Kutumbam House No: 47",
+        "Verity",
+        "Send Help",
+        "Stray Kids: The Dominate Experience",
+        "Missing Link",
+        "Kubo And The Two Strings",
+        "Coraline",
+        "Boxtrolls",
+        "ParaNorman",
+        "Jailer 2",
+        "Whalefall",
+        "The Odyssey",
+        "La Bola Negra",
+        "The Beloved",
+        "Backrooms",
+        "Primetime",
+        "I Love Boosters",
+        "The Debut",
+        "Leila Et La Nuit",
+        "His Weakest Creatures",
+        "Dao"
+      ]
+    },
+    "keywords": [
+      "Clayface box office",
+      "Wildwood Laika animation",
+      "Wicker film release",
+      "global box office Halloween weekend"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/3/3/1491133_0037_117338_crop.jpg",
+        "caption": "Clayface Dominates Quiet Global Box Office Over Halloween Weekend",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 09:38:00 GMT"
+  },
+  "1k9w9mb": {
+    "id": "1k9w9mb",
+    "type": "news",
+    "headline": "Ajith Kumar's New Film Daredevil Kicks Off With Traditional Launch Event",
+    "dek": "Actor Ajith Kumar and director Adhik Ravichandran have officially launched their upcoming movie Daredevil with a traditional pooja ceremony attended by prominent industry figures.",
+    "body": [
+      {
+        "h": "Traditional Launch Ceremony",
+        "p": [
+          "The upcoming feature film Daredevil has officially begun its production journey with a traditional pooja ceremony. The opening event brought together the core creative team, cast members, and crew to mark the commencement of the project.",
+          "Photographs from the launch showcase the gathered team assembled on a stage alongside a prominent backdrop displaying the official title artwork and a promotional poster featuring lead actor Ajith Kumar."
+        ]
+      },
+      {
+        "h": "Key Collaborations and Cast",
+        "p": [
+          "This new venture reunites leading man Ajith Kumar with director Adhik Ravichandran following their previous successful collaboration on Good Bad Ugly. The project is also drawing attention for its prominent ensemble cast.",
+          "Actors including Sreeleela, Unni Mukundan, Sunil, Prabhu, and Redin Kingsley were spotted at the gathering. Veteran actor Parthiban has also confirmed his involvement in the upcoming movie through social media."
+        ]
+      },
+      {
+        "h": "Production and Crew Details",
+        "p": [
+          "Shalini Ajith Kumar is backing the project under her newly established banner, Brave Hearts Productions, marking her debut as a film producer. While full details regarding the complete cast remain under wraps, production plans are actively moving forward.",
+          "Reports indicate that principal photography will feature extensive schedules in Hyderabad alongside potential international locations. Acclaimed music director Anirudh Ravichander is attached to compose the soundtrack for the film."
+        ]
+      },
+      {
+        "h": "Music and Industry Presence",
+        "p": [
+          "Composer Anirudh Ravichander added to the excitement of the launch event by making a notable appearance. His participation in Daredevil continues his successful streak of working with Ajith Kumar, following their previous collaboration on Vidaamuyarchi.",
+          "The presence of various film personalities at the pooja highlighted the widespread anticipation surrounding the creative team assembled for this high-profile venture."
+        ]
+      },
+      {
+        "h": "Actor's Return to Cinema",
+        "p": [
+          "The launch of Daredevil marks Ajith Kumar's return to the silver screen after taking a hiatus to focus on his professional racing career. His previous cinematic outing, Good Bad Ugly, released in April 2025 and achieved significant box office success.",
+          "Following that release, the actor dedicated considerable time to motorsports and competitive racing events before stepping back onto a film set for this new production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ajith Kumar and director Adhik Ravichandran's upcoming film Daredevil has commenced production with a traditional pooja ceremony attended by cast and crew members including Sreeleela, Parthiban, and music composer Anirudh Ravichander. The project is produced by Shalini Ajith Kumar under Brave Hearts Productions, marking her debut as a producer following the actor's return from motorsports."
+        ]
+      }
+    ],
+    "facts": [
+      "Ajith Kumar stars in Daredevil",
+      "Adhik Ravichandran is the director of Daredevil",
+      "Shalini Ajith Kumar is the producer under Brave Hearts Productions",
+      "Anirudh Ravichander is the music composer",
+      "Cast members include Sreeleela, Unni Mukundan, Sunil, Prabhu, Redin Kingsley, and Parthiban",
+      "Ajith Kumar's previous film Good Bad Ugly released in April 2025"
+    ],
+    "entities": {
+      "people": [
+        "Ajith Kumar",
+        "Adhik Ravichandran",
+        "Shalini Ajith Kumar",
+        "Anirudh Ravichander",
+        "Sreeleela",
+        "Unni Mukundan",
+        "Sunil",
+        "Prabhu",
+        "Redin Kingsley",
+        "Parthiban"
+      ],
+      "titles": [
+        "Daredevil",
+        "Good Bad Ugly",
+        "Vidaamuyarchi"
+      ]
+    },
+    "keywords": [
+      "Daredevil film",
+      "Ajith Kumar Daredevil",
+      "Adhik Ravichandran",
+      "Shalini Ajith Kumar production"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135453289,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ajith Kumar's New Film Daredevil Kicks Off With Traditional Launch Event",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T14:53:21+05:30"
+  },
+  "1lk0ihf": {
+    "id": "1lk0ihf",
+    "type": "news",
+    "headline": "Goodfellas Releases First Look at Toho’s Sci-Fi Thriller ‘Leviathan’ Ahead of AFM",
+    "dek": "Paris-based sales company Goodfellas has revealed the first images and promotional details for Toho’s upcoming live-action manga adaptation Leviathan.",
+    "body": [
+      {
+        "h": "First Look Unveiled for Space Thriller",
+        "p": [
+          "International sales company Goodfellas has officially revealed the first images for Toho's highly anticipated sci-fi thriller Leviathan. The project serves as a live-action adaptation of the best-selling manga created by Shiro Kuroi.",
+          "As the film enters its post-production phase, the Paris-based firm is preparing to present a first promotional reel to buyers at the upcoming AFM. Goodfellas is handling international sales for all territories outside of Asia."
+        ]
+      },
+      {
+        "h": "Plot and Setting in the Depths of Space",
+        "p": [
+          "The narrative of Leviathan transports audiences to the year 2127. The storyline centers on a group of students who find themselves stranded in deep space following a catastrophic accident aboard their spacecraft.",
+          "With oxygen supplies critically low and only a single life support unit remaining, the trapped students are forced into a brutal and desperate battle against one another for their survival."
+        ]
+      },
+      {
+        "h": "Creative Team and Directorial Leadership",
+        "p": [
+          "The sci-fi project is co-directed by Michihito Fujii, whose recent credits include the Netflix hit Last Samurai Standing, alongside Ryohei Shingu. Fujii also contributed to the screenplay alongside Izumi Takahashi.",
+          "The film's source material originates from Shiro Kuroi's acclaimed manga, published under Ki-oon. The production brings together notable creative forces to translate the complex illustrated survival story into live-action cinema."
+        ]
+      },
+      {
+        "h": "Starring Cast Members",
+        "p": [
+          "The ensemble cast for the ambitious space thriller is fronted by Shunsuke Michieda and Natsuki Deguchi. Michieda is widely recognized for his work in Even If This Love Disappears From The World.",
+          "Meanwhile, Deguchi joins the production following her appearance in Look Back. Their casting anchors the youthful student dynamic at the heart of the spacecraft survival narrative."
+        ]
+      },
+      {
+        "h": "Toho's Continuing Global Expansion",
+        "p": [
+          "This adaptation arrives on the heels of several major international successes for Japanese studio Toho. The studio recently achieved global attention with the Neon-acquired Exit 8 and its ongoing iconic Godzilla franchise.",
+          "Following its international sales launch at the market, Toho has scheduled the official theatrical release of Leviathan in Japan for February 11, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Goodfellas has unveiled the first images and promotional plans for Toho's upcoming sci-fi thriller Leviathan ahead of the AFM. Directed by Michihito Fujii and Ryohei Shingu, the live-action manga adaptation is scheduled for release in Japan in early 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Shiro Kuroi created the best-selling manga Leviathan.",
+      "The film Leviathan is set in the year 2127.",
+      "Michihito Fujii and Ryohei Shingu direct the film.",
+      "Shunsuke Michieda and Natsuki Deguchi star in the movie.",
+      "Leviathan is scheduled to release in Japan on February 11, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Shiro Kuroi",
+        "Michihito Fujii",
+        "Ryohei Shingu",
+        "Izumi Takahashi",
+        "Shunsuke Michieda",
+        "Natsuki Deguchi"
+      ],
+      "titles": [
+        "Leviathan",
+        "Last Samurai Standing",
+        "Even If This Love Disappears From The World",
+        "Look Back",
+        "Exit 8",
+        "Godzilla"
+      ]
+    },
+    "keywords": [
+      "Leviathan film",
+      "Toho sci-fi thriller",
+      "Michihito Fujii Leviathan",
+      "Shunsuke Michieda Natsuki Deguchi",
+      "Shiro Kuroi manga adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/still-.jpg?w=1024",
+        "caption": "Goodfellas Releases First Look at Toho’s Sci-Fi Thriller ‘Leviathan’ Ahead of AFM",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 10:20:21 +0000"
   }
 };

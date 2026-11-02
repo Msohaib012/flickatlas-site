@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T12:51:41Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": {
-     "candidates": 225,
-     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Rise And Fall 2 November 1 (Ep 37) Highlights: Will Shehzad Poonawalla Become The First Finalist? UPDATE",
-      "Ramayana FIRST Review: Ranbir Kapoor Vs Yash- Who Stole Limelight? Non-Spoiler Review Confirms Main Highlights",
-      "Hexed North America Box Office: Can Disney’s Animation Break Into The Top 5 Biggest 5-Day Thanksgiving Debuts Of All Time?",
-      "Godzilla Minus Zero Worldwide Box Office: Can It Earn Enough To Enter 2026’s Top 10 Global Grossers?",
-      "Himesh to helm ‘blockbuster’ scripts",
-      "RGV says blaming films for violence is misplaced",
-      "Nani’s ‘Bloody Romeo’ shooting videos from Delhi go viral",
-      "‘Loss of my nephew is devastating’: Honey Singh pens emotional post after Vidit Auluck's death in Jalandhar car crash",
-      "Nikkhil Advani gives actor Richard Gere a glimpse of SRK's Pretty Woman magic",
-      "I Made My Gen Z Friend Watch Scream For The First Time, And His Reactions Killed Me",
-      "‘Fallout’ Star’s 96-Minute Action Thriller Officially Hits Free Streaming",
-      "Netflix's Near-Perfect 7-Episode Psychological Thriller Takes Less Than 4 Hours to Binge",
-      "Rockstar Needs to Forget Red Dead and GTA for its Next Game",
-      "Paramount's 10/10 Serial Killer Saga Officially Makes Streaming Comeback",
-      "8 Books To Read Before Kicking the Bucket",
-      "When Is the Next 'Court of Thorns and Roses' Coming Out?",
-      "HBO's 9/10 'Downton Abbey' Replacement Officially Makes Major Comeback Ahead of Season 4",
-      "35 Years Later, George's Funniest 'Seinfeld' Quote Remains Unbeaten in TV History",
-      "Denzel Washington's 146-Minute \"John Wick Meets Taken\" Action Thriller Shoots Onto Free Streaming",
-      "Taylor Sheridan's Yellowstone Franchise Officially Explains The Dutton Family Curse"
-     ],
-     "updated": [],
-     "count": 217,
-     "detail": "218 stories, 0 duplicates removed, 7 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T13:51:32Z",
     "run_id": "41313206862",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "261 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T13:51:48Z",
-    "run_id": "41313206862",
+    "run_at": "2026-11-02T11:50:55Z",
+    "run_id": "41439949556",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 259,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Zee Kannada Kutumba Awards 2026: Complete Winners List, Special Guests, And Where To Watch Online",
-      "Valladolid Film Festival Honors Alain Gomis and Marine Atlan in Its 71st Edition"
+      "Student Of The Year After Dark: 5 Reasons We Are Excited To See Birthday Girl Shanaya Kapoor In JioHostar Show",
+      "Scene Telugu Pre-Release Event Time: When And Where To Watch Suriya's Movie Event Live Online",
+      "Bigg Boss 20: Did Ali Merchant Take A Dig At Vanshaj Singh For Mocking Qazi? ‘Gamer Baad Mein Banna, Pehle...'",
+      "Rise And Fall 2 Written Update Nov 2 Ep 38: Meet The First Finalist Of Season 2; TWIST Ahead Of Grand Finale",
+      "Liked The Invite On ZEE5? 4 Seth Rogen Movies That Showcase His Signature Comedy Style",
+      "Jailer 2 Box Office: Knocks Down Shah Rukh Khan’s Jawan & Other Biggies In BMS Sales Till 3rd Weekend!",
+      "The Window War: How Streaming Split Indian Cinema and Why Theatres Survived",
+      "Ranbir to back long-format series; skips starring in projects",
+      "'Hanuman Ansh' makers issue warning over film's rights after its Rs 342 crore box-office run",
+      "Atlee calls Shah Rukh Khan his mentor and biggest inspiration on 61st birthday",
+      "Sanjay's wife Anuradha defends daughter showing middle finger: 'In grief and anguish'",
+      "Ajith's 'Daredevil' begins with pooja; Anirudh, Sreeleela attend",
+      "Chinmayi takes a dig at sexual assault accused rapper Vedan being invited to perform at high-profile wedding; compares it to Karthik on Tamil Idol",
+      "TV actor Anuj Thakur dies at 33 after a seizure; friend Rupesh Sonar says he had planned a family vacation",
+      "AR Rahman calls composing Ramayana music an honour, jokes about not everybody liking his work",
+      "Tourist Family director Abishan Jeevinth blessed with a baby girl, shares first picture with newborn daughter",
+      "Vishal Mishra buys four apartments spread across 4,058 sq ft in Mumbai’s Andheri for  ₹22.25 crore",
+      "Big B mourns friend Sanjay Gupta, calls Kaante director a 'true devotee of art'",
+      "Udta Teer Box Office Day 10: Ayushmann Khurrana’s Spy Comedy Grosses Over Rs 50 Cr; Sees Growth On Second Sunday",
+      "The 15 Best Epic Animated Movies, Ranked"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 250,
+     "detail": "259 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1429,27 +1408,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:51:20Z",
+    "run_id": "41439949556",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Overtakes Shah Rukh Khan's Jawan in BookMyShow Ticket Sales",
+      "Clayface Dominates Quiet Global Box Office Over Halloween Weekend",
+      "Ajith Kumar's New Film Daredevil Kicks Off With Traditional Launch Event",
+      "Goodfellas Releases First Look at Toho’s Sci-Fi Thriller ‘Leviathan’ Ahead of AFM"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T13:51:48Z",
-    "run_id": "41313206862",
-    "status": "success",
-    "checked": {
-     "candidates": 183,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 178, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1863,26 +1847,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T13:51:50Z",
-    "run_id": "41313206862",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T11:51:20Z",
+    "run_id": "41439949556",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2308,27 +2293,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T13:51:49Z",
-    "run_id": "41313206862",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T11:57:37Z",
+    "run_id": "41439949556",
     "status": "success",
     "checked": {
-     "candidates": 335,
-     "detail": "334 collected staging rows from readers; 120 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 331 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2742,19 +2726,27 @@
      "detail": "+0 new rows, 9 updated rows, 408 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:57:36Z",
+    "run_id": "41439949556",
+    "status": "success",
+    "checked": {
+     "candidates": 419,
+     "detail": "417 collected staging rows from readers; 135 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 124,
+     "detail": "+0 new rows, 124 updated rows, 293 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3020,30 +3012,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T13:51:50Z",
-    "run_id": "41313206862",
-    "status": "success",
-    "checked": {
-     "candidates": 342,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Zee Kannada Kutumba Awards 2026: Complete Winners List, Special Guests, And Where To Watch Online",
-      "Valladolid Film Festival Honors Alain Gomis and Marine Atlan in Its 71st Edition"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 342 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3519,19 +3500,32 @@
      "detail": "api-news.json 386 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:57:37Z",
+    "run_id": "41439949556",
+    "status": "success",
+    "checked": {
+     "candidates": 390,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Overtakes Shah Rukh Khan's Jawan in BookMyShow Ticket Sales",
+      "Clayface Dominates Quiet Global Box Office Over Halloween Weekend",
+      "Goodfellas Releases First Look at Toho’s Sci-Fi Thriller ‘Leviathan’ Ahead of AFM",
+      "Ajith Kumar's New Film Daredevil Kicks Off With Traditional Launch Event"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 390 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3805,19 +3799,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4139,29 +4133,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T12:51:56Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 217 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 1/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Honey Singh Mourns Nephew Vidit Auluck After Fatal Jalandhar Car Crash",
-      "Eleven New Korean Dramas Scheduled for OTT Platforms in November 2026"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4611,19 +4595,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:51:20Z",
+    "run_id": "41439949556",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 250 still unprocessed; today by category: movies 8/6, tv_dramas 2/4, episodes 0/2, box_office 8/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 2/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Overtakes Shah Rukh Khan's Jawan in BookMyShow Ticket Sales",
+      "Clayface Dominates Quiet Global Box Office Over Halloween Weekend",
+      "Ajith Kumar's New Film Daredevil Kicks Off With Traditional Launch Event",
+      "Goodfellas Releases First Look at Toho’s Sci-Fi Thriller ‘Leviathan’ Ahead of AFM"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4898,24 +4894,19 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 239,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5240,24 +5231,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 20,
+     "count": 421,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5587,24 +5578,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 61,
+     "count": 16,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5849,19 +5840,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6096,19 +6087,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6350,19 +6341,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6603,19 +6594,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6845,19 +6836,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T13:00:06Z",
-    "run_id": "41308391528",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7106,6 +7097,16 @@
     "category": "Trending News",
     "run_at": "2026-11-02T11:00:23Z",
     "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7476,6 +7477,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7488,8 +7499,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T11:00:23Z"
+ "updated_at": "2026-11-02T11:57:43Z"
 }

@@ -1,17 +1,17 @@
 {
  "steps": {
   "apply_auto": {
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "convert_news": {
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "episode_guides": {
@@ -22,17 +22,17 @@
    "consecutive_failures": 0
   },
   "fetch": {
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "gemini_batch": {
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "gemini_reviews": {
@@ -51,9 +51,9 @@
   },
   "multisource_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-11-02T11:00:23Z",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "overseas_ai": {
@@ -71,17 +71,17 @@
    "consecutive_failures": 0
   },
   "publish": {
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "sacnilk_boxoffice": {
    "last_status": "success",
-   "last_run": "2026-11-02T08:14:47Z",
-   "last_attempt_at": "2026-11-02T08:14:47Z",
-   "last_success": "2026-11-02T08:14:47Z",
+   "last_run": "2026-11-02T11:57:36Z",
+   "last_attempt_at": "2026-11-02T11:57:36Z",
+   "last_success": "2026-11-02T11:57:36Z",
    "consecutive_failures": 0,
    "detail": "validated 363 rows; 1 staging files changed"
   },
@@ -100,10 +100,10 @@
    "consecutive_failures": 0
   },
   "stats_traffic": {
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "tavily_boxoffice": {
@@ -122,19 +122,19 @@
   },
   "trending_weekly": {
    "last_status": "success",
-   "last_run": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
    "stale": false,
    "newest_entry": "2026-10-28",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
    "last_success": "2026-11-02T11:00:15Z",
    "consecutive_failures": 0,
    "evidence_checked_at": "2026-11-02T11:00:15Z"
   },
   "version_bump": {
    "last_status": "success",
-   "last_run": "2026-11-02T11:00:23Z",
-   "last_attempt_at": "2026-11-02T11:00:23Z",
-   "last_success": "2026-11-02T11:00:23Z",
+   "last_run": "2026-11-02T11:57:43Z",
+   "last_attempt_at": "2026-11-02T11:57:43Z",
+   "last_success": "2026-11-02T11:57:43Z",
    "consecutive_failures": 0
   },
   "keywords_refresh": {
@@ -208,5 +208,5 @@
    "consecutive_failures": 0
   }
  },
- "updated_at": "2026-11-02T11:00:23Z"
+ "updated_at": "2026-11-02T11:57:43Z"
 }
