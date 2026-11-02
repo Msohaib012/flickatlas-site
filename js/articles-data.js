@@ -32375,5 +32375,207 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-01T19:52:05Z"
+  },
+  "1attb2d": {
+    "id": "1attb2d",
+    "type": "news",
+    "headline": "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range",
+    "dek": "Renowned Hollywood director Michael Mann suffered a superficial wound when a holstered weapon unexpectedly went off at a shooting range in Los Angeles, though he was quickly treated and cleared from the hospital.",
+    "body": [
+      {
+        "h": "Incident at the Shooting Range",
+        "p": [
+          "Acclaimed filmmaker Michael Mann experienced an unexpected accident at a gun facility located in Los Angeles on a Saturday afternoon. While present at the establishment, a firearm discharged accidentally while still inside its holster, resulting in a minor bodily harm to the veteran director.",
+          "The occurrence took place at approximately 4:00 pm PST at the Range Los Angeles. Emergency services, including local police officers and fire department personnel, arrived swiftly at the scene following distress calls reporting a shooting incident."
+        ]
+      },
+      {
+        "h": "Hospitalization and Current Status",
+        "p": [
+          "Following the accidental discharge, emergency medical responders transported the 83-year-old director via ambulance to a nearby medical facility for a thorough checkup and care. Representatives for the filmmaker and local law enforcement confirmed that the resulting wound was strictly subcutaneous and minor in nature.",
+          "Official statements from his team clarified that the injury was superficial and that he was promptly treated by medical professionals before being cleared for release. The Los Angeles Police Department verified that he remained in stable condition throughout the ordeal."
+        ]
+      },
+      {
+        "h": "Background in Firearm Familiarity",
+        "p": [
+          "Despite the startling nature of the mishap, industry insiders noted that the veteran Hollywood creator is far from a novice with firearms. He has reportedly spent decades as an experienced target shooter, engaging in his hobby at sanctioned shooting ranges.",
+          "The accidental misfire occurred at a properly regulated facility, turning what was meant to be a routine target practice session into an unexpected medical emergency due to an unfortunate mechanical or handling mishap with the holstered weapon."
+        ]
+      },
+      {
+        "h": "A Storied Directorial Career",
+        "p": [
+          "Mann continues to maintain an active presence within the Hollywood film industry well into his eighties. Over a legendary career spanning several decades, he has cemented his status as a master of crime dramas and gritty thrillers.",
+          "Some of his most celebrated cinematic works include acclaimed features such as 'Heat', 'Thief', 'Manhunter', 'Collateral', and 'The Insider', each earning praise for their distinct visual style and tense narrative pacing."
+        ]
+      },
+      {
+        "h": "Recent Projects and Future Plans",
+        "p": [
+          "In his most recent professional endeavors, the director helmed the biographical drama film 'Ferrari', which featured actor Adam Driver in the lead role. The project showcased his ongoing dedication to bringing intense, character-driven stories to the silver screen.",
+          "Additionally, he has been deeply involved in developing 'Heat 2', an anticipated follow-up to his iconic 1995 crime classic that originally starred Al Pacino and Robert De Niro as an LAPD detective and a professional thief respectively."
+        ]
+      },
+      {
+        "h": "Legacy of the 'Heat' Franchise",
+        "p": [
+          "The original 1995 feature remains a massive box office success and a cultural touchstone, remembered particularly for its explosive face-off scenes between the characters played by Al Pacino and Robert De Niro.",
+          "For the upcoming project, Mann adapted the screenplay directly from a 2022 novel that he co-authored alongside Meg Gardiner. The narrative is structured to function as both a sequel and a prequel, exploring the formative years of the primary characters before and after the events of the original film."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Michael Mann suffered a minor superficial injury when a holstered firearm accidentally discharged at a Los Angeles gun range on Saturday afternoon. The 83-year-old filmmaker was transported to a local hospital, treated for the minor subcutaneous wound, and subsequently released in stable condition."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael Mann was injured at a gun range on Saturday in Los Angeles.",
+      "The incident occurred around 4:00 pm PST at the Range Los Angeles.",
+      "Michael Mann is 83 years old.",
+      "The original film Heat was released in 1995 and starred Al Pacino and Robert De Niro.",
+      "Heat 2 is adapted from a 2022 novel co-written by Michael Mann and Meg Gardiner."
+    ],
+    "entities": {
+      "people": [
+        "Michael Mann",
+        "Adam Driver",
+        "Al Pacino",
+        "Robert De Niro",
+        "Meg Gardiner"
+      ],
+      "titles": [
+        "Heat",
+        "Thief",
+        "Manhunter",
+        "Collateral",
+        "The Insider",
+        "Ferrari",
+        "Heat 2"
+      ]
+    },
+    "keywords": [
+      "Michael Mann",
+      "Michael Mann gun range accident",
+      "Heat 2",
+      "Ferrari film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135440371,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T04:21:43+05:30"
+  },
+  "vtgyok": {
+    "id": "vtgyok",
+    "type": "news",
+    "headline": "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday",
+    "dek": "Superstar Shah Rukh Khan celebrated his birthday by releasing Tu Mil Jaaye, the first song from his upcoming film King, featuring Deepika Padukone, Arijit Singh, and Ed Sheeran.",
+    "body": [
+      {
+        "h": "Birthday Release of Tu Mil Jaaye",
+        "p": [
+          "Superstar Shah Rukh Khan marked his birthday by gifting fans the very first musical offering from his upcoming film King. Titled Tu Mil Jaaye, the track dropped at midnight and immediately captured widespread attention across entertainment platforms.",
+          "The newly released song serves as a major promotional launch for the film, offering audiences an early glimpse into the stylistic tone and musical landscape crafted for the upcoming cinematic venture."
+        ]
+      },
+      {
+        "h": "Starring Shah Rukh Khan and Deepika Padukone",
+        "p": [
+          "The music video reunites one of Indian cinema's most beloved on-screen pairings, bringing Shah Rukh Khan and Deepika Padukone together once again. Their established chemistry anchors the video, drawing heavily on the affection fans have shown them in previous collaborations.",
+          "Alongside the two leads, the film boasts an ensemble cast featuring Suhana Khan, Abhishek Bachchan, Jaideep Ahlawat, and Raghav Juyal, expanding the scale and star power associated with the project."
+        ]
+      },
+      {
+        "h": "A Blend of Romance and Action",
+        "p": [
+          "Moving away from a standard romantic track, Tu Mil Jaaye seamlessly transitions between intimate dance sequences and high-octane action moments. The video showcases Shah Rukh romancing Deepika before shifting gears to depict him fighting off enemies.",
+          "The narrative of the song is further emphasized by opening and closing dialogues delivered by the lead actor, establishing a fiery, intense tone that hints at the underlying violence and conflict present in the world of King."
+        ]
+      },
+      {
+        "h": "Cross-Cultural Musical Collaboration",
+        "p": [
+          "The track features a unique fusion of Indian playback talent and international pop artistry. It brings together the vocal stylings of Arijit Singh and Madhubanti Bagchi alongside an English rap portion performed by global star Ed Sheeran.",
+          "Composition for the song was handled by Sachin-Jigar, with lyrics penned by Kumaar, while Ed Sheeran wrote his own English rap segment. The choreography was managed by the team of Piyush-Shazia."
+        ]
+      },
+      {
+        "h": "Cinematic Background and Crew",
+        "p": [
+          "King is directed by Siddharth Anand and is scheduled to arrive in cinemas worldwide on December 24. The film is backed by prominent production banners Red Chillies Entertainment and Marflix Pictures.",
+          "Following its midnight launch, the music video became available for viewing on the Zee Music Company and T-Series YouTube channels, while the audio track was rolled out across various streaming platforms."
+        ]
+      },
+      {
+        "h": "A Legacy of On-Screen Reunions",
+        "p": [
+          "The pairing of Shah Rukh Khan and Deepika Padukone carries a strong legacy of box office and critical successes, having previously starred together in prominent titles such as Om Shanti Om, Chennai Express, Happy New Year, and Pathaan.",
+          "Their continuous collaboration has consistently generated massive audience enthusiasm, making their newest joint appearance in King one of the most anticipated elements of the upcoming release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan celebrated his birthday by releasing the first song, Tu Mil Jaaye, from his upcoming film King, which features Deepika Padukone. Directed by Siddharth Anand, the track brings together singers Arijit Singh and Ed Sheeran for a unique blend of romance and action."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan unveiled Tu Mil Jaaye on his birthday, November 2, 2026.",
+      "The song features Deepika Padukone alongside Shah Rukh Khan.",
+      "King is scheduled to be released in cinemas worldwide on December 24.",
+      "The film is directed by Siddharth Anand.",
+      "Tu Mil Jaaye features vocals by Arijit Singh and Madhubanti Bagchi, with an English rap by Ed Sheeran.",
+      "The track is composed by Sachin-Jigar and written by Kumaar, with choreography by Piyush-Shazia.",
+      "King also stars Suhana Khan, Abhishek Bachchan, Jaideep Ahlawat, and Raghav Juyal.",
+      "The film is produced by Red Chillies Entertainment and Marflix Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Ed Sheeran",
+        "Arijit Singh",
+        "Madhubanti Bagchi",
+        "Sachin-Jigar",
+        "Kumaar",
+        "Piyush-Shazia",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Jaideep Ahlawat",
+        "Raghav Juyal",
+        "Priyanka Sharma"
+      ],
+      "titles": [
+        "Tu Mil Jaaye",
+        "King",
+        "Om Shanti Om",
+        "Chennai Express",
+        "Happy New Year",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "Tu Mil Jaaye song",
+      "Shah Rukh Khan King",
+      "Deepika Padukone King",
+      "Ed Sheeran Arijit Singh Tu Mil Jaaye",
+      "King film release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/tu-mil-jaaye-021159782-16x9_0.png?VersionId=6VZDcIFTirP5jni_NeVXCO.zamDycma0",
+        "caption": "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 05:49:31 +0530"
   }
 };

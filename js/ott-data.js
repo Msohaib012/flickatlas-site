@@ -55,7 +55,7 @@ window.FA_OTT = {
   "now": [
     {
       "date": "2026-10-31",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1813355,
       "providers": [
         {
@@ -95,7 +95,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-30",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1756307,
       "providers": [
         {

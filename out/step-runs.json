@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T00:50:56Z",
-    "run_id": "41258509982",
-    "status": "success",
-    "checked": {
-     "candidates": 246,
-     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "New on Netflix, Disney+, Prime & Max in November 2026",
-      "Sea link lights up for SRK's birthday; Mannat turns into giant screen",
-      "Julia Roberts' 3 children: What we know about Hazel, Phinnaeus and Henry",
-      "As Reports Swirl Around Todd Chrisley’s Money, He Has A Big Claim About Daughter Savannah’s Finances",
-      "Alden Ehrenreich Admitted To A Big Spider-Man Audition Flame Out: ‘Woefully Unprepared’",
-      "I Wasn’t Sure What To Expect From Chicago P.D.’s Atwater Replacement, But I Already Love One Thing About Him",
-      "Harry Potter Star’s 108-Minute Sci-Fi Masterpiece Is Officially Streaming for Free",
-      "Tom Cruise’s Divisive Take on ‘Reacher’ Officially Gets a Second Chance on Free Streaming",
-      "The 10 Best Spy Novels of All Time, Ranked",
-      "Xbox Game Pass Officially Adds One of the Most Disturbing Sci-Fi Games of All Time",
-      "Brendan Fraser’s 125-Minute Action-Adventure Classic Officially Returns to Netflix",
-      "HBO’s Greatest 2-Part Epic Series Is Better Than 'Game of Thrones'",
-      "Samuel L. Jackson's Forgotten Crime Thriller Officially Leaves Netflix Ahead of Taylor Sheridan Reunion",
-      "7 Essential Spy Thriller Books for Beginners",
-      "CBS' 'Lincoln Lawyer' Replacement Officially Doubles Viewership",
-      "Pulling 'Minecraft' From PlayStation and Nintendo May Be Xbox's Biggest Gamble Yet",
-      "Jean-Claude Van Damme's ‘Reacher Meets Yellowstone’ Action Thriller Finds Redemption on Streaming",
-      "HBO's Emmy-Winning Crime Thriller Begins Season 3 With Major Update",
-      "George R. R. Martin's Upcoming Epic Fantasy Movie Can Beat 'Game of Thrones' at Its Own Game",
-      "Gerard Butler's Non-Stop 140-Minute Action Thriller Is Officially Being Cut From Streaming in 1 Day"
-     ],
-     "updated": [],
-     "count": 246,
-     "detail": "246 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T01:51:37Z",
     "run_id": "41262737112",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "232 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T01:51:59Z",
-    "run_id": "41262737112",
+    "run_at": "2026-11-02T00:51:40Z",
+    "run_id": "41369306267",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 242,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide",
-      "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57"
+      "Shah Rukh Khan makes first appearance after ringing in birthday with family - WATCH",
+      "Director Michael Mann accidentally shoots himself at gun range",
+      "Tu Mil Jaaye: SRK woos Deepika and fights enemies in King's first song",
+      "I'm A Star Trek Fan, But I'd Never Heard This Cool Story About Patrick Stewart Showing Up On Jeremy Clarkson's Set",
+      "Witney Carson (Who Is Pregnant) Absolutely Crushed Her ‘Fat Thor’ Halloween Costume",
+      "I’m Loving This Adorably Awkward Clip Zendaya And Co. Dropped To Celebrate The Dune Movies Returning To Theaters",
+      "Forget 'Bosch,' Titus Welliver Stole the Show in One of Sci-Fi's Greatest Franchises",
+      "8 Most Perfect HBO Shows of the Last 5 Years, Ranked",
+      "The Perfect 'Gone Girl' Replacement Is Officially Streaming for Free Next Month",
+      "Matt Damon's Beloved ’90s Classic Is Officially Streaming on Prime Video",
+      "26 Years Later, 'Star Trek's Spiritual Successor Is Waiting To Be Discovered on Streaming",
+      "'The Boys' Favorite Officially Goes Full Horror in This New Free Streaming Gem",
+      "One of the Best Final Fantasy Games Is Officially Taking Over Xbox",
+      "30 Years Later, Kevin Costner’s Notorious Sci-Fi Flop Officially Makes a Massive Streaming Comeback",
+      "8 Most Violent Action Movies of All Time, Ranked",
+      "‘The Terminal List’ Star Chris Pratt Officially Returns With a New Military Movie This Month",
+      "Forget 'Indiana Jones,' Chuck Norris's 40-Year-Old Action Adventure Classic Is Taking Over Free Streaming",
+      "Netflix's New Fantasy Franchise With 33 Years of Lore Is Already Much Bigger Than Peak 'Game of Thrones'",
+      "Netflix's New World War II Epic Officially Compared To \"Intense\" Psychological Thriller",
+      "89-Episode Dark Fantasy Action Masterpiece With a \"Perfect\" Ending Stages Streaming Comeback 3 Years Later"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 230,
+     "detail": "233 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1427,45 +1406,30 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T00:52:02Z",
+    "run_id": "41369306267",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range",
+      "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T01:52:00Z",
-    "run_id": "41262737112",
-    "status": "success",
-    "checked": {
-     "candidates": 158,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 153, coming 5"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T02:31:54Z",
-    "run_id": "41265398859",
-    "status": "success",
-    "checked": {
-     "candidates": 165,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 160, coming 5"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1861,26 +1825,45 @@
      "detail": "now 180, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T01:52:01Z",
-    "run_id": "41262737112",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T00:52:20Z",
+    "run_id": "41369306267",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 185,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 180, coming 5"
+    },
+    "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T00:52:20Z",
+    "run_id": "41369306267",
+    "status": "success",
+    "checked": {
+     "candidates": 185,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 180, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2310,27 +2293,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T01:52:00Z",
-    "run_id": "41262737112",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T00:55:00Z",
+    "run_id": "41369306267",
     "status": "success",
     "checked": {
-     "candidates": 333,
-     "detail": "329 collected staging rows from readers; 114 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 326 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2744,19 +2726,27 @@
      "detail": "+0 new rows, 112 updated rows, 295 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T00:54:58Z",
+    "run_id": "41369306267",
+    "status": "success",
+    "checked": {
+     "candidates": 412,
+     "detail": "408 collected staging rows from readers; 122 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+1 new rows, 5 updated rows, 402 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3022,30 +3012,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T01:52:01Z",
-    "run_id": "41262737112",
-    "status": "success",
-    "checked": {
-     "candidates": 318,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Renowned Filmmaker Sanjay Gupta Passes Away At Age 57",
-      "Ranabaali Box Office Collection Day 16: Vijay Deverakonda and Rashmika Mandanna Starrer Approaches Rs 80 Crore Worldwide"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 318 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3519,19 +3498,30 @@
      "detail": "api-news.json 360 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T00:54:59Z",
+    "run_id": "41369306267",
+    "status": "success",
+    "checked": {
+     "candidates": 362,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday",
+      "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 362 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3805,19 +3795,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4155,29 +4145,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T00:51:17Z",
-    "run_id": "41258509982",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 246 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "IIFA Awards 2026: Dhurandhar Dominates With 12 Wins While Ranveer Singh and Aneet Padda Grab Top Acting Honors",
-      "Shah Rukh Khan's King Sets Record for Overseas Theatrical Rights"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4625,19 +4605,29 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T00:52:02Z",
+    "run_id": "41369306267",
+    "status": "success",
+    "checked": {
+     "candidates": 2,
+     "detail": "news queue items drafted this run; 230 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 0/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Filmmaker Michael Mann Sustains Minor Injury After Accidental Gun Discharge at Los Angeles Range",
+      "Shah Rukh Khan Drops King Song Tu Mil Jaaye Featuring Deepika Padukone On Birthday"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4893,24 +4883,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 238,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5235,24 +5220,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 202,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5587,24 +5572,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 52,
+     "count": 19,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5849,19 +5834,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 53,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6096,19 +6086,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6352,19 +6342,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6605,19 +6595,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6847,19 +6837,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T00:59:16Z",
-    "run_id": "41258509982",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7112,6 +7102,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7302,8 +7302,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T00:55:13Z",
+    "run_id": "41369306267",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-01T23:57:02Z"
+ "updated_at": "2026-11-02T00:55:13Z"
 }
