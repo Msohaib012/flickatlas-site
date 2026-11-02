@@ -314,12 +314,19 @@ function injectSsr(html, meta) {
   // boot, so visitors see exactly what they see today. Fail-open by
   // construction: a missing/empty payload or a shell whose anchor has
   // drifted returns the HTML byte-identical to the pre-SSR behaviour.
+  // The wrapper carries the standard visually-hidden (sr-only) inline
+  // style: on slow connections the raw block otherwise PAINTS as an
+  // unstyled text page for ~1s before the CSS/JS arrive (owner report
+  // 2026-11-02, Ali G movie page). Inline styles apply at first parse,
+  // before any stylesheet loads, so nothing visible can flash; the
+  // text stays fully present in the HTML for crawlers, and the page
+  // script replaces #app on boot as before.
   const ssr = meta && typeof meta.ssr === "string" ? meta.ssr : "";
   if (!ssr) return html;
   try {
     return html.replace(/(<main id="app"[^>]*>)[\s\S]*?(<\/main>)/,
       function (_m, open, close) {
-        return open + '<div class="wrap">' + ssr + '</div>' + close;
+        return open + '<div class="wrap" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0;padding:0;margin:-1px">' + ssr + '</div>' + close;
       });
   } catch (_) {
     return html;
