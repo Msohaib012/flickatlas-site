@@ -64,13 +64,14 @@
   {
    "id": "boxoffice",
    "label": "Box Office",
-   "cadence": "Tavily search + Gemini evidence review at 13:35 and 23:35 PKT via the existing :35 UTC hourly workflow; other readers keep their current cadence. Local averaging remains hourly. Overseas per-day figures: Sacnilk quicknews sweep of missed completed days + grounded AI gap-filler at the 13:35 and 23:35 PKT box-office slots.",
+   "cadence": "Tavily search + Gemini evidence review hourly via the existing :35 UTC hourly workflow (primary box-office updater, owner order 2026-11-02); other readers keep their current cadence. Local averaging remains hourly. Overseas per-day figures: Sacnilk quicknews sweep of missed completed days + grounded AI gap-filler hourly at the same box-office slots.",
    "sources": [
     "sacnilk_boxoffice",
     "fnn_boxoffice",
     "wp_boxoffice",
     "bollybourse_boxoffice",
     "filmibeat_boxoffice",
+    "bollywoodhungama_boxoffice",
     "moviemint_boxoffice",
     "tavily_boxoffice",
     "overseas_ai"
@@ -257,6 +258,24 @@
    "last_attempt": "2026-11-02T06:53:47Z",
    "status": "success"
   },
+  "bollywoodhungama_boxoffice": {
+   "hours_utc": [
+    1,
+    7,
+    13,
+    19
+   ],
+   "hours_pkt": [
+    6,
+    12,
+    18,
+    0
+   ],
+   "interval_hours": 6,
+   "last_success": null,
+   "last_attempt": null,
+   "status": "not-yet-recorded"
+  },
   "moviemint_boxoffice": {
    "hours_utc": [
     8
@@ -271,16 +290,60 @@
   },
   "tavily_boxoffice": {
    "hours_utc": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
     8,
-    18
-   ],
-   "hours_pkt": [
+    9,
+    10,
+    11,
+    12,
     13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
     23
    ],
-   "interval_hours": 12,
-   "last_success": "2026-11-02T08:23:41Z",
-   "last_attempt": "2026-11-02T08:23:41Z",
+   "hours_pkt": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "interval_hours": 1,
+   "last_success": "2026-11-02T09:49:51Z",
+   "last_attempt": "2026-11-02T09:49:51Z",
    "status": "success"
   },
   "gemini_reviews": {
@@ -349,22 +412,66 @@
     4
    ],
    "interval_hours": 1,
-   "last_success": "2026-11-02T07:52:30Z",
-   "last_attempt": "2026-11-02T07:52:30Z",
+   "last_success": "2026-11-02T09:49:42Z",
+   "last_attempt": "2026-11-02T09:49:42Z",
    "status": "success"
   },
   "overseas_ai": {
    "hours_utc": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
     8,
-    18
-   ],
-   "hours_pkt": [
+    9,
+    10,
+    11,
+    12,
     13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
     23
    ],
-   "interval_hours": 12,
-   "last_success": "2026-11-02T08:23:41Z",
-   "last_attempt": "2026-11-02T08:23:41Z",
+   "hours_pkt": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "interval_hours": 1,
+   "last_success": "2026-11-02T09:49:51Z",
+   "last_attempt": "2026-11-02T09:49:51Z",
    "status": "success"
   },
   "advance_booking": {

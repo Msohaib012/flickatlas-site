@@ -34440,5 +34440,215 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 07:26:38 +0000"
+  },
+  "16sc8qu": {
+    "id": "16sc8qu",
+    "type": "news",
+    "headline": "Ramayana: Part One Crosses ₹50 Crore in India Advance Bookings Ahead of Diwali Release",
+    "dek": "Namit Malhotra's highly anticipated mythological epic has surged past the fifty crore gross mark in cumulative domestic advance sales with three days still remaining before its theatrical debut.",
+    "body": [
+      {
+        "h": "Milestone Reached Before Theatrical Debut",
+        "p": [
+          "Namit Malhotra's upcoming film Ramayana: Part One has officially crossed the fifty crore gross threshold in cumulative advance ticket sales across India. This major pre-release milestone arrives with three days left on the clock before the Nitesh Tiwari directorial officially arrives in theaters on November 5, 2026. Industry trackers noted that the robust pre-sales are being driven by a strong expansion in bookings stretching well beyond the opening day.",
+          "As additional cinema halls and screening slots come online, interest has heavily gravitated toward subsequent days like Saturday. The final phase of pre-sales is widely expected to set the stage for what could be a massive Diwali opening weekend for the big-budget epic."
+        ]
+      },
+      {
+        "h": "Detailed Breakdown of Pre-Sale Numbers",
+        "p": [
+          "According to the latest tracking data from early November 2026, the film generated approximately 49.75 crore gross including blocked seats. This figure accounts for nearly 11.87 lakh tracked tickets distributed across 37,685 shows spanning 1,738 cinemas nationwide. Factoring in additional Sunday bookings pushed the cumulative advance tally comfortably past the fifty crore mark.",
+          "A closer examination of the scheduled checkpoints reveals that Thursday, November 5 leads the charge with ₹25.94 crore from 6.05 lakh tickets. Friday, November 6 follows with ₹13.44 crore from 3.19 lakh tickets, while Saturday, November 7 has currently secured ₹10.28 crore from 2.62 lakh tickets."
+        ]
+      },
+      {
+        "h": "Surging Momentum for Saturday Screenings",
+        "p": [
+          "Saturday has quickly emerged as one of the most fascinating narratives in the current booking trend. Early in the week, the advance gross for Saturday stood at a modest 6.50 crore, but that figure climbed sharply to 10.25 crore by the afternoon checkpoint, representing a surge of roughly 56 percent.",
+          "This rapid upward trajectory is being supported by expanding show availability and fresh seat allocations across multiple regions. With Sunday's figures still awaiting separate reflection in these specific checkpoints, the movie retains substantial room to expand its overall weekend advance figures further."
+        ]
+      },
+      {
+        "h": "Language Dominance and Regional Trends",
+        "p": [
+          "In terms of linguistic contribution, the Hindi version continues to command the lion's share of the pre-sales, capturing approximately 84 percent of the total gross. The Kannada version stands second with roughly 9 percent, while the Telugu version accounts for 5 percent of the overall collections.",
+          "Regionally, Maharashtra leads the state-level figures with over 10.50 crore in gross collections. Delhi follows closely with 7.50 crore, and Karnataka records 7.30 crore, all figures inclusive of blocked seats. Meanwhile, Telangana is demonstrating notably stronger occupancy rates than several larger Hindi-speaking markets, whereas Tamil-language bookings remain comparatively subdued."
+        ]
+      },
+      {
+        "h": "Impact of Premium Formats",
+        "p": [
+          "Specialized premium formats are playing a vital role in elevating the value of Ramayana's advance bookings. Screenings across IMAX, 4DX, Dolby Cinema, ICE, and EPIQ have collectively pulled in approximately 9.50 crore gross including blocked seats.",
+          "Remarkably, these high-end formats account for about 19 percent of the total advance revenue despite representing only 2 percent of the tracked shows. While this highlights the immense revenue-generating capacity of premium screens, standard 2D and 3D formats will ultimately dictate the movie's broader, mass-market reach."
+        ]
+      },
+      {
+        "h": "Pre-Release Foundation and Outlook",
+        "p": [
+          "The achievement of crossing the fifty crore milestone before the final booking rush underscores a powerful pre-release foundation for the mythological project. Stakeholders are now watching closely to see how effectively this early momentum translates into continuous box office dominance during the festive window.",
+          "The final outcome will heavily depend on the ongoing pace of fresh ticket purchases, theater availability, and overall audience reception during the vital Diwali holidays, which will determine just how high the opening weekend figures can climb."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has crossed fifty crore gross in cumulative India advance bookings ahead of its November 5, 2026 theatrical release. The Nitesh Tiwari directorial is driven heavily by Hindi-language pre-sales and strong performances in premium formats like IMAX and 4DX across multiple states."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra's Ramayana: Part One crosses 50 crore gross in cumulative India advance bookings for the opening weekend.",
+      "The theatrical release date is November 5, 2026.",
+      "The Nitesh Tiwari directorial generated approx. 49.75 crore gross including blocked seats from approximately 11.87 lakh tracked tickets.",
+      "The film is showing across 37,685 shows in 1,738 cinemas.",
+      "Hindi language continues to dominate with approximately 84% of the gross, followed by Kannada at 9% and Telugu at 5%.",
+      "Thursday, November 5 advance gross is ₹25.94 Cr with 6.05 Lakh tickets.",
+      "Friday, November 6 advance gross is ₹13.44 Cr with 3.19 Lakh tickets.",
+      "Saturday, November 7 advance gross is ₹10.28 Cr with 2.62 Lakh tickets.",
+      "Saturday advance gross climbed from 6.50 crore to 10.25 crore.",
+      "IMAX, 4DX, Dolby Cinema, ICE and EPIQ screenings generated approximately 9.50 crore gross.",
+      "Maharashtra leads with 10.50+ crore gross, followed by Delhi at 7.50 crore and Karnataka at 7.30 crore."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana",
+        "Eetha",
+        "King",
+        "Avengers: Doomsday",
+        "Nakhrewaalii",
+        "The Pride of Bharat: Chhatrapati Shivaji Maharaj",
+        "RRR",
+        "Baahubali 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ramayana advance booking",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028312.jpg",
+        "caption": "Ramayana: Part One Crosses ₹50 Crore in India Advance Bookings Ahead of Diwali Release",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 08:09:46 +0000"
+  },
+  "1ocwevb": {
+    "id": "1ocwevb",
+    "type": "news",
+    "headline": "General Hospital Dominates 53rd Daytime Emmys as The Kelly Clarkson Show Takes Top Honors",
+    "dek": "The long-running ABC soap opera secured four major victories at the ceremony, including a sixth consecutive win for Outstanding Daytime Drama Series, though it was ultimately edged out by The Kelly Clarkson Show.",
+    "body": [
+      {
+        "h": "The 53rd Daytime Emmy Awards Ceremony",
+        "p": [
+          "The 53rd annual Daytime Emmy Awards brought together the biggest stars in television for a three-hour celebration streamed live from the Hollywood Palladium via YouTube. Networks competed fiercely for recognition across numerous categories, with CBS ultimately emerging as the leading network of the evening by capturing eight total wins overall. The ceremony highlighted both long-running staples of daytime television and newer series making significant impacts in the industry."
+        ]
+      },
+      {
+        "h": "General Hospital Leads the Soap Opera Field",
+        "p": [
+          "ABC's enduring soap opera General Hospital had an exceptionally strong showing at the event, walking away with four distinct trophies. Led by Executive Producer Frank Valentini, the program successfully defended its title in the category of Outstanding Daytime Drama Series, marking its sixth consecutive win in this prestigious field. The production triumphed over rival competitors such as Days of Our Lives, The Young and the Restless, and Beyond the Gates."
+        ]
+      },
+      {
+        "h": "Additional Wins for the ABC Soap",
+        "p": [
+          "Beyond its top drama series victory, General Hospital secured accolades in multiple other categories crucial to its ongoing success. The program won the award for Outstanding Writing Team for a Daytime Drama Series, reflecting the strength of its narrative development over the past year. Furthermore, the show was recognized with the award for Outstanding Casting for a Daytime Program."
+        ]
+      },
+      {
+        "h": "Acting Accolades and Guest Performances",
+        "p": [
+          "Individual performances from the cast of General Hospital also drew critical acclaim during the broadcast. Jeff Kober earned the award for Outstanding Guest Performance in a Daytime Drama Series for his portrayal of Cyrus Renault, adding another trophy to the soap opera's impressive tally for the evening."
+        ]
+      },
+      {
+        "h": "Genie Francis Honored with Lifetime Achievement",
+        "p": [
+          "A monumental highlight of the night was veteran actress Genie Francis receiving the Life Achievement Award. Francis was celebrated for her remarkable five-decade tenure playing the iconic character Laura Spencer on the ABC soap opera. Reflecting on her extensive career during her acceptance speech, she shared that fifty years did not feel like an awfully long time because loving what you do means you never work a day in your life."
+        ]
+      },
+      {
+        "h": "The Kelly Clarkson Show Steals the Crown",
+        "p": [
+          "Despite General Hospital's dominant streak, The Kelly Clarkson Show managed to steal the ultimate crown of the evening by securing five victories. Having wrapped up its run for good in August, the talk show claimed the top spot by winning Outstanding Daytime Talk Series. Its additional triumphs included awards for Directing, Art Direction and Set Decoration, Hairstyling and Makeup, and Sound Mixing."
+        ]
+      },
+      {
+        "h": "Success for Beyond the Gates and Other Nominees",
+        "p": [
+          "CBS newcomer Beyond the Gates also made waves by tying with General Hospital for four total wins at the ceremony. Within that tally, Tamara Tunie earned the prize for Outstanding Actress, while Ambyr Michelle was recognized with the Emerging Talent award. Meanwhile, The Young and the Restless entered the event as the leading nominee and ultimately concluded the night with three awards."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "General Hospital secured four wins at the 53rd annual Daytime Emmy Awards, including its sixth consecutive victory for Outstanding Daytime Drama Series and a lifetime achievement honor for Genie Francis. However, The Kelly Clarkson Show captured five total victories to top the night, while CBS led all networks with eight awards at the Hollywood Palladium ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "The 53rd annual Daytime Emmy Awards took place on a Friday.",
+      "The event streamed live from the Hollywood Palladium via YouTube.",
+      "General Hospital won four awards at the ceremony.",
+      "The Kelly Clarkson Show won five victories to top the night.",
+      "General Hospital won its sixth consecutive Outstanding Daytime Drama Series award.",
+      "Frank Valentini is the Executive Producer of General Hospital.",
+      "Jeff Kober won Outstanding Guest Performance for playing Cyrus Renault.",
+      "The Kelly Clarkson Show wrapped for good in August.",
+      "Beyond the Gates tied General Hospital with four total wins.",
+      "Tamara Tunie won Outstanding Actress.",
+      "Ambyr Michelle took home the Emerging Talent prize.",
+      "Genie Francis received the Life Achievement Award for playing Laura Spencer for five decades.",
+      "CBS led all networks with eight total wins.",
+      "The Young and the Restless took home three awards on the night."
+    ],
+    "entities": {
+      "people": [
+        "Vritti Johar",
+        "Frank Valentini",
+        "Jeff Kober",
+        "Cyrus Renault",
+        "Tamara Tunie",
+        "Ambyr Michelle",
+        "Genie Francis",
+        "Laura Spencer",
+        "Kelly Clarkson"
+      ],
+      "titles": [
+        "General Hospital",
+        "The Kelly Clarkson Show",
+        "Days of Our Lives",
+        "The Young and the Restless",
+        "Beyond the Gates"
+      ]
+    },
+    "keywords": [
+      "General Hospital Daytime Emmys",
+      "The Kelly Clarkson Show Daytime Emmys",
+      "Genie Francis Life Achievement Award",
+      "Beyond the Gates Daytime Emmys"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-23-Oct-2026-10-40-AM-4182.jpg.webp?resize=1200,630",
+        "caption": "General Hospital Dominates 53rd Daytime Emmys as The Kelly Clarkson Show Takes Top Honors",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 08:22:30 +0000"
   }
 };
