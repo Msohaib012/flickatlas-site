@@ -269,6 +269,7 @@ jobs:
           python3 scripts/run_source.py bollybourse_boxoffice -- python3 scripts/bollybourse_boxoffice.py --stage '{stage}' --out '{out}' || echo "bollybourse reader failed/missing, continuing"
           python3 scripts/run_source.py moviemint_boxoffice -- python3 scripts/moviemint_boxoffice.py --stage '{stage}' --out '{out}' || echo "moviemint reader failed/missing, continuing"
           python3 scripts/run_source.py filmibeat_boxoffice -- python3 scripts/filmibeat_boxoffice.py --stage '{stage}' --out '{out}' || echo "filmibeat reader failed/missing, continuing"
+          python3 scripts/run_source.py bollywoodhungama_boxoffice -- python3 scripts/bollywoodhungama_boxoffice.py --stage '{stage}' --out '{out}' || echo "bollywoodhungama reader failed/missing, continuing"
           # Optional Varanasi reader is not configured in this checkout.
           if [ "$RUN_TAVILY" = "true" ]; then
             EVIDENCE="$RUNNER_TEMP/flickatlas-tavily-evidence.json"

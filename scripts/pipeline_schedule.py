@@ -28,6 +28,7 @@ POLICIES = {
     'wp_boxoffice': policy((0, 6, 12, 18), 6, retry=6),
     'bollybourse_boxoffice': policy((0, 6, 12, 18), 6, retry=6),
     'filmibeat_boxoffice': policy((0, 6, 12, 18), 6, retry=6),
+    'bollywoodhungama_boxoffice': policy((1, 7, 13, 19), 6, retry=6),
     'moviemint_boxoffice': policy((8,), 24, retry=24),
     'tavily_boxoffice': policy((8, 18), 12),
     'gemini_reviews': policy((19,), 24),
@@ -53,6 +54,7 @@ FLAGS = {
 }
 SOURCE_NAMES = {'trending_worldwide', 'sacnilk_boxoffice', 'fnn_boxoffice',
                 'wp_boxoffice', 'bollybourse_boxoffice', 'filmibeat_boxoffice',
+                'bollywoodhungama_boxoffice',
                 'moviemint_boxoffice', 'ott_digital'}
 
 
@@ -245,7 +247,7 @@ PUBLIC_CYCLES = [
     ('ott', 'Now on OTT / OTT Coming Soon', 'Digital dates every 12h (bounded, prioritised, persistent); active-title metadata daily; missing-provider enrichment plus a 25-title provider rotation daily; cached local display rebuilt hourly.', ['ott_digital', 'metadata_refresh', 'providers_backfill'], 'Now: newest OTT date first, popularity breaks ties. Coming: nearest date first'),
     ('worldwide', 'Trending Worldwide', 'Global TMDB weekly top-20 checked every 6h; published movies only.', ['trending_worldwide'], 'Newest release first within the eligible global set'),
     ('topics', 'Trending Topics', 'Google Trends RSS (US/India) checked hourly; only fresh trend proof matching published articles. Old or unavailable proof hides the section.', ['trending_weekly'], 'Newest published article first, not search-volume rank'),
-    ('boxoffice', 'Box Office', 'Tavily search + Gemini evidence review at 13:35 and 23:35 PKT via the existing :35 UTC hourly workflow; other readers keep their current cadence. Local averaging remains hourly. Overseas per-day figures: Sacnilk quicknews sweep of missed completed days + grounded AI gap-filler at the 13:35 and 23:35 PKT box-office slots.', ['sacnilk_boxoffice', 'fnn_boxoffice', 'wp_boxoffice', 'bollybourse_boxoffice', 'filmibeat_boxoffice', 'moviemint_boxoffice', 'tavily_boxoffice', 'overseas_ai'], 'Newest movie release first'),
+    ('boxoffice', 'Box Office', 'Tavily search + Gemini evidence review at 13:35 and 23:35 PKT via the existing :35 UTC hourly workflow; other readers keep their current cadence. Local averaging remains hourly. Overseas per-day figures: Sacnilk quicknews sweep of missed completed days + grounded AI gap-filler at the 13:35 and 23:35 PKT box-office slots.', ['sacnilk_boxoffice', 'fnn_boxoffice', 'wp_boxoffice', 'bollybourse_boxoffice', 'filmibeat_boxoffice', 'bollywoodhungama_boxoffice', 'moviemint_boxoffice', 'tavily_boxoffice', 'overseas_ai'], 'Newest movie release first'),
     ('news', 'News / Trailers / Awards news', 'Working RSS hourly; explicitly slow RSS every 6h; sitemap/homepage every 12h; unverified/blocked sources daily. External trend fallback daily.', [], 'Newest published article first'),
     ('episodes', 'Drama Episodes', 'Checks at 18:35, 20:35, 22:35 and 00:35 PKT; missed-slot recovery only in the evening window.', ['episode_guides'], 'Newest episode publication first'),
     ('reviews', 'Reviews / Keywords', 'Reviews and article-keyword refresh daily.', ['gemini_reviews', 'keywords_refresh'], 'Newest published item first; explicit rankings keep their own meaning'),

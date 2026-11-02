@@ -435,10 +435,16 @@ def finalize(collected, extras_collected, primary):
     out = {}
     for (tid, day), contribs in sorted(collected.items()):
         crs = [cr for (cr, _d) in contribs.values()]
+        # 3 decimals, not 2 (fix 2026-11-02): sub-lakh days are real
+        # data — Bollywood Hungama reports Tum Mere Ho Day 8 as
+        # Rs0.001 Cr (Rs10,000). Rounding the mean to 2dp turned that
+        # into Rs0.00 Cr -> a $0 row, silently losing the day even
+        # when a source reported it. USD is computed from the 3dp
+        # mean, so a Rs0.001 Cr day finalizes to $106, not $0.
         if len(crs) >= 2:
-            mean_cr = round(sum(crs) / len(crs), 2)
+            mean_cr = round(sum(crs) / len(crs), 3)
         else:
-            mean_cr = round(crs[0], 2)
+            mean_cr = round(crs[0], 3)
         usd = round(mean_cr * 1e7 / INR_PER_USD)
         dstr, disagreed = pick_date(contribs, primary)
         if disagreed:
