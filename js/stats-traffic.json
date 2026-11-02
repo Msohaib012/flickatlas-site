@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-02T02:58:45Z",
+  "generated": "2026-11-02T03:52:18Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
     "users": 6,
@@ -13,8 +13,8 @@
   "last7": {
     "users": 146,
     "pageviews": 922,
-    "sessions": 233,
-    "avg_session_seconds": 354.3
+    "sessions": 234,
+    "avg_session_seconds": 353.0
   },
   "top_pages": [
     {
@@ -88,14 +88,14 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 61,
+      "sessions": 62,
       "users": 40
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 6,
-      "users": 6
+      "sessions": 3,
+      "users": 3
     }
   ],
   "countries": [

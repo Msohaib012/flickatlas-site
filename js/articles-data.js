@@ -17764,11 +17764,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film",
-      "Ranbir Kapoor Ramayana",
-      "Har Yug Mein Ram",
-      "Nitesh Tiwari Ramayana",
-      "JioHotstar Ramayana special"
+      "Ramayana Part One students educational initiative",
+      "Ranbir Kapoor Ramayana cast interaction",
+      "Nitesh Tiwari Ramayana streaming release",
+      "Ramayana Har Yug Mein Ram conversation"
     ],
     "images": [
       {
@@ -18805,10 +18804,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bosch: Start of Watch",
-      "Cameron Monaghan Bosch",
-      "Omari Hardwick Bosch",
-      "Michael Connelly Bosch prequel"
+      "Bosch Start of Watch prequel series first-look photos",
+      "Cameron Monaghan Bosch Start of Watch MGM+",
+      "Bosch Start of Watch January premiere",
+      "Omari Hardwick Bosch prequel series"
     ],
     "images": [
       {
@@ -18906,9 +18905,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Universal Music Group Q3 2026 revenue",
-      "Sir Lucian Grainge Universal Music Group",
-      "Universal Music Group AI slop",
-      "Universal Music Group earnings report"
+      "Universal Music Group $3.78 billion revenue",
+      "UMG recorded music revenue Q3",
+      "Universal Music Group financial results AI"
     ],
     "images": [
       {
@@ -18959,7 +18958,14 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-29T17:00:00Z"
+    "published": "2026-10-29T17:00:00Z",
+    "keywords": [
+      "Bano Episode 17 Geo TV",
+      "Watch Bano Episode 17 online",
+      "Bano Episode 17 airing date",
+      "Bano",
+      "Bano Episode"
+    ]
   },
   "1btctpu": {
     "id": "1btctpu",
@@ -19038,10 +19044,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Miranda Hart Celebrity Traitors",
-      "Miranda Hart ME Lyme disease",
-      "Miranda Hart TV return",
-      "Celebrity Traitors BBC"
+      "Miranda Hart Celebrity Traitors return",
+      "Miranda Hart ME and Lyme disease battle",
+      "Miranda Hart BBC reality show comeback",
+      "Miranda Hart sitcom Miranda"
     ],
     "images": [],
     "published": "2026-10-29T19:53:09Z"
@@ -19143,10 +19149,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jessie Buckley Afterbirth",
-      "Jessie Buckley West End",
-      "Royal Court Theatre Afterbirth",
-      "Jessie Buckley £140 a day"
+      "Jessie Buckley West End return play",
+      "Oscar winner Jessie Buckley West End union rate",
+      "Jessie Buckley Hamnet film",
+      "Jessie Buckley West End theater"
     ],
     "images": [],
     "published": "2026-10-29T19:53:09Z"
@@ -19234,10 +19240,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Stewart",
-      "Star Trek",
-      "X-Men",
-      "Avengers Doomsday"
+      "Patrick Stewart Star Trek and X-Men icon dies",
+      "Captain Jean-Luc Picard actor passes away",
+      "Patrick Stewart dies at 86",
+      "Professor Charles Xavier actor death"
     ],
     "images": [
       {
@@ -19342,11 +19348,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Stewart",
-      "X-Men",
-      "Avengers Doomsday",
-      "Hugh Jackman Patrick Stewart",
-      "Patrick Stewart death"
+      "Patrick Stewart passes away at 86",
+      "X-Men actor Patrick Stewart dies",
+      "Kelly Bush Novak Patrick Stewart statement",
+      "Patrick Stewart Alzheimer disease death"
     ],
     "images": [
       {
@@ -19451,10 +19456,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Stewart",
-      "Hugh Jackman Patrick Stewart",
-      "Star Trek Patrick Stewart",
-      "X-Men Professor X death"
+      "Sir Patrick Stewart passes away at 86",
+      "Hugh Jackman mourns Patrick Stewart",
+      "Star Trek actor Patrick Stewart dies in Los Angeles",
+      "Patrick Stewart X-Men actor death"
     ],
     "images": [
       {
@@ -19548,10 +19553,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Drishyam 3 box office collection",
-      "Drishyam 3 Day 28",
-      "Ajay Devgn Drishyam 3 earnings",
-      "Drishyam 3 total collection Rs 373 crore"
+      "Drishyam 3 The Conclusion box office Day 28",
+      "Ajay Devgn Drishyam 3 net collection",
+      "Drishyam 3 Week 4 box office",
+      "Ajay Devgn starrer Drishyam 3 collection"
     ],
     "images": [
       {
@@ -19653,11 +19658,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Hrithik Roshan film",
-      "Jailer 2 collection day 15",
-      "Jailer 2 vs Coolie",
-      "Nelson Dilipkumar movie"
+      "Jailer 2 box office Day 15 worldwide",
+      "Rajinikanth and Hrithik Roshan Jailer 2 collection",
+      "Jailer 2 crosses 765 crores",
+      "Rajinikanth Jailer 2 theatrical run"
     ],
     "images": [
       {
@@ -19744,10 +19748,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "James Gunn Batman casting",
-      "DCU Batman movie",
-      "The Brave and the Bold",
-      "David Corenswet Superman"
+      "James Gunn DCU Batman casting updates",
+      "DC Studios Batman search James Gunn",
+      "James Gunn podcast Batman casting",
+      "DCU Dark Knight casting James Gunn"
     ],
     "images": [
       {
@@ -19849,10 +19853,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part 1 box office",
-      "Ranbir Kapoor Ramayana advance booking",
-      "Nitesh Tiwari Ramayana release",
-      "Ramayana overseas collection"
+      "Ramayana Part 1 overseas advance sales",
+      "Ranbir Kapoor Ramayana Part 1 release date",
+      "Ramayana Part 1 box office international",
+      "Nitesh Tiwari Ramayana ticket booking deadlock"
     ],
     "images": [
       {
@@ -19950,10 +19954,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Death Stranding Isolations",
-      "Death Stranding anime Disney+",
-      "Kojima Productions Death Stranding",
-      "Death Stranding Isolations trailer"
+      "Death Stranding Isolations anime Disney+",
+      "Hideo Kojima Death Stranding anime trailer",
+      "Death Stranding Isolations release date 2027",
+      "Disney+ Death Stranding series"
     ],
     "images": [
       {
@@ -26230,7 +26234,14 @@ window.FA_ARTICLES = {
         "source": "ARY Digital"
       }
     ],
-    "published": "2026-10-29T17:00:13Z"
+    "published": "2026-10-29T17:00:13Z",
+    "keywords": [
+      "Lagan Lagi Episode 6 ARY Digital",
+      "Watch Lagan Lagi Episode 6 online",
+      "Lagan Lagi Episode 6 release date",
+      "Lagan Lagi",
+      "Lagan"
+    ]
   },
   "1qalbzn": {
     "id": "1qalbzn",
@@ -33184,5 +33195,200 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 01:05:45 +0000"
+  },
+  "1wi70na": {
+    "id": "1wi70na",
+    "type": "news",
+    "headline": "Ramayana Advance Bookings Cross ₹75 Crore Milestone Ahead of Global Premiere",
+    "dek": "Pre-sales for Nitesh Tiwari's Ramayana have surged past ₹75 crore worldwide, outpacing previous hits by its lead stars Ranbir Kapoor and Yash.",
+    "body": [
+      {
+        "h": "Deadlock Resolution and Screen Expansion",
+        "p": [
+          "Advance ticket sales for the upcoming film Ramayana have surged dramatically following the resolution of a revenue-sharing deadlock between the movie's producers and theater exhibitors. Lasting for approximately ten days, this dispute had previously hindered the expansion of pre-sales across various cinemas.",
+          "Once terms were agreed upon over the weekend, a significant number of screens opened up for booking across India. By Monday morning, the total count of exhibiting screens reached 3,500, incorporating an addition of 1,000 screens over a span of two days."
+        ]
+      },
+      {
+        "h": "Domestic Pre-Sale Figures and Linguistic Breakdown",
+        "p": [
+          "As of the morning of November 2, three days prior to the official premiere, the domestic gross from pre-sales in India reached ₹37 crore. Out of this total, ₹22 crore was generated solely from opening-day ticket purchases, while the remaining amount covers the extended weekend.",
+          "The Hindi-language version dominates the collection figures, but versions in other regional languages are also experiencing strong momentum. Specifically, the Kannada version accumulated nearly ₹4 crore in ticket sales, and the Telugu version surpassed the ₹2 crore mark by Monday morning."
+        ]
+      },
+      {
+        "h": "Overall Ticket Volume and Premium Formats",
+        "p": [
+          "Across the nation, the feature has sold close to 9 lakh tickets in advance. Premium exhibition formats, including IMAX, have heavily influenced these numbers by driving nearly a quarter of the total sales despite accounting for only 4% of the available screens.",
+          "This robust pre-release pace has allowed the movie to surpass the early booking records established by the lead actors' previous major cinematic projects, namely Animal and KGF Chapter 2. Nevertheless, it continues to trail behind titles such as Dhurandhar 2, RRR, and Pushpa 2 in pre-sales."
+        ]
+      },
+      {
+        "h": "International and Overseas Momentum",
+        "p": [
+          "Strong overseas demand has significantly contributed to the overall pre-booking success. In North America, where paid previews are slated for November 4 on the eve of the premiere, collections experienced a 27% increase within the first 24 hours following the world premiere.",
+          "By Monday morning, international advance bookings reached $3.9 million. This figure encompasses over $1.5 million derived strictly from the United States paid preview slots, pushing the worldwide pre-sale gross to a combined ₹75 crore."
+        ]
+      },
+      {
+        "h": "Production Details and Creative Team",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana is structured as a two-part cinematic venture. The production is a collaborative effort involving Namit Malhotra’s Prime Focus Studios, DNEG, and Yash’s Monster Mind Creations.",
+          "The cast features Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Sita, Yash in the role of Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman. The initial installment is scheduled for a worldwide launch on November 5, 2026, followed by the second part during Diwali 2027."
+        ]
+      },
+      {
+        "h": "Distribution and Language Reach",
+        "p": [
+          "The feature will premiere in theaters across India in Hindi, Tamil, Telugu, Kannada, and Malayalam. International distribution outside of India is managed by Sony Pictures, whereas Dharma Productions oversees distribution within the Hindi-speaking market.",
+          "In addition to standard theaters, the project is slated for an extensive global IMAX release, capitalizing on the high demand for premium viewing formats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Advance ticket sales for Nitesh Tiwari's upcoming two-part film Ramayana surpassed ₹75 crore globally following the resolution of an exhibitor dispute. The movie, starring Ranbir Kapoor and Yash, has sold nearly 9 lakh tickets in India and secured strong overseas numbers ahead of its November 5 worldwide release."
+        ]
+      }
+    ],
+    "facts": [
+      "Advance bookings for Ramayana crossed ₹75 crore worldwide.",
+      "The film opens globally on November 5, 2026.",
+      "Domestic pre-sales in India reached ₹37 crore by the morning of November 2.",
+      "Opening-day pre-sales in India accounted for ₹22 crore.",
+      "The total number of screens reached 3,500 by Monday morning.",
+      "Nearly 9 lakh tickets have been sold in advance across India.",
+      "Overseas advance bookings reached $3.9 million, with over $1.5 million from US paid previews.",
+      "The cast includes Ranbir Kapoor, Sai Pallavi, Yash, Ravie Dubey, and Sunny Deol."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal",
+        "KGF Chapter 2",
+        "Dhurandhar 2",
+        "RRR",
+        "Pushpa 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film advance booking",
+      "Ranbir Kapoor Yash Ramayana release",
+      "Ramayana collection ₹75 crore",
+      "Nitesh Tiwari Ramayana Part One"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/02/1600x900/logo/Ramayana_1792311615794_1793589750960_OpYf_1793589751086_cr0j_e1c84553-274b-455f-84a7-3d8a9f309c4d_5SRt.jpg",
+        "caption": "Ramayana Advance Bookings Cross ₹75 Crore Milestone Ahead of Global Premiere",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 09:08:28 +0530"
+  },
+  "1sn9btu": {
+    "id": "1sn9btu",
+    "type": "news",
+    "headline": "Son Suk Ku and Park Bo Young Team Up for Romantic Comedy Kiss For Tomorrow",
+    "dek": "The acclaimed actors have been officially confirmed to star in the upcoming fantasy romantic comedy directed by Kang Hyung Chul.",
+    "body": [
+      {
+        "h": "Official Casting Confirmation",
+        "p": [
+          "Actors Son Suk Ku and Park Bo Young are set to share the screen in an upcoming cinematic project titled Kiss For Tomorrow. Production backing for the feature was officially confirmed by the film's investor, marking an exciting new venture for both lead performers.",
+          "The announcement generated significant anticipation among fans of the two prominent stars as they prepare to bring their unique chemistry to a brand-new romantic comedy story."
+        ]
+      },
+      {
+        "h": "Production Start and Filming Schedule",
+        "p": [
+          "Principal photography for the movie officially commenced on October 31. The production schedule is designed to span multiple diverse locations, taking the cast and crew across various domestic spots in South Korea as well as international destinations.",
+          "Overseas filming will include picturesque settings in Singapore and Thailand, providing a visually striking backdrop for the narrative's unfolding events."
+        ]
+      },
+      {
+        "h": "Premise and Storyline",
+        "p": [
+          "Kiss For Tomorrow is framed as a fantasy romantic comedy centered on a mysterious couple bound by an unusual rule: they are unable to face the next day without sharing a kiss at least once every twenty-four hours. Their routine is upended when an unexpected event separates them during a cruise trip.",
+          "Following the sudden separation, both characters embark on a desperate journey to find each other once again, seeking out what becomes the most intensely desired kiss of their entire lives."
+        ]
+      },
+      {
+        "h": "Character Profiles",
+        "p": [
+          "Son Suk Ku takes on the role of Ji Kyung, described as a devoted husband who fell in love with his wife at first sight and remains completely enamored with her. After being separated from her on the cruise ship, he finds himself stranded in an unfamiliar environment, showcasing a hapless yet endearing vulnerability as he tries to reunite with his partner.",
+          "Park Bo Young portrays Oh Sung, a high-energy and lovable wife who ends up isolated aboard the massive cruise vessel. She utilizes every resource and puts forth maximum effort to navigate the ordeal and find her way back to her husband."
+        ]
+      },
+      {
+        "h": "Director and Visual Scope",
+        "p": [
+          "The film is helmed by director Kang Hyung Chul, whose notable past filmography includes popular titles such as Scandal Makers, Sunny, Tazza: The Hidden Card, Swing Kids, and Hi-5. His distinct directorial style is expected to shape the project's pacing and tone.",
+          "With settings ranging from a grand cruise ship to exotic overseas landscapes, the production aims to utilize vibrant visual framing and a brisk narrative pace to deliver an engaging experience for audiences."
+        ]
+      },
+      {
+        "h": "Director Comments",
+        "p": [
+          "Reflecting on the commencement of production, director Kang Hyung Chul noted that each film he undertakes feels increasingly precious to him over time. He expressed his commitment to cherishing the production journey and delivering an entertaining experience to viewers.",
+          "Production updates will continue to roll out as filming progresses across its various scheduled international and domestic locations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Son Suk Ku and Park Bo Young have been officially confirmed to star in the upcoming fantasy romantic comedy film Kiss For Tomorrow, directed by Kang Hyung Chul. Filming officially began on October 31 across locations in South Korea, Singapore, and Thailand, following a couple separated during a cruise trip who must reunite."
+        ]
+      }
+    ],
+    "facts": [
+      "Son Suk Ku and Park Bo Young will star in Kiss For Tomorrow.",
+      "The film's investor confirmed the casting on November 2.",
+      "Filming began on October 31.",
+      "The director of the film is Kang Hyung Chul.",
+      "Filming takes place in South Korea, Singapore, and Thailand."
+    ],
+    "entities": {
+      "people": [
+        "Son Suk Ku",
+        "Park Bo Young",
+        "Kang Hyung Chul",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Kiss For Tomorrow",
+        "Scandal Makers",
+        "Sunny",
+        "Tazza: The Hidden Card",
+        "Swing Kids",
+        "Hi-5",
+        "Doom at Your Service",
+        "IT'S OKAY!"
+      ]
+    },
+    "keywords": [
+      "Kiss For Tomorrow film",
+      "Son Suk Ku Park Bo Young",
+      "Kang Hyung Chul Kiss For Tomorrow",
+      "Kiss For Tomorrow release"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/02120424/son-suk-ku-park-bo-young.png",
+        "caption": "Son Suk Ku and Park Bo Young Team Up for Romantic Comedy Kiss For Tomorrow",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 03:07:34 +0000"
   }
 };
