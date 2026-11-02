@@ -7,7 +7,7 @@
 (function () {
   var DB = "https://arenaflix-53ce8-default-rtdb.firebaseio.com/fa";
   function $(id) { return document.getElementById(id); }
-  function keyOf(ms) { return new Date(ms).toISOString().slice(0, 10); }
+  function keyOf(ms) { return new Date(ms + 5 * 3600 * 1000).toISOString().slice(0, 10); } /* PKT day (UTC+5) since 2026-11-02 */
   function isWeb(id) { return id.indexOf("fa_web_") === 0; }
   function fmt(n) { return Number(n || 0).toLocaleString("en-US"); }
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }

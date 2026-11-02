@@ -34,7 +34,7 @@
       }).catch(function () {});
     } catch (e) {}
   }
-  function dateKey() { return new Date().toISOString().slice(0, 10); }
+  function dateKey() { return new Date(Date.now() + 5 * 3600 * 1000).toISOString().slice(0, 10); } /* PKT day (UTC+5) since 2026-11-02 */
 
   function pageKey() {
     var p = location.pathname.replace(/\/$/, "") || "/";
@@ -170,7 +170,7 @@
   function sessBeat() {
     if (window.navigator && window.navigator.onLine === false) return;
     var s2 = sessGet();
-    var dk = new Date(s2.a).toISOString().slice(0, 10);
+    var dk = new Date(s2.a + 5 * 3600 * 1000).toISOString().slice(0, 10);
     try {
       fetch(DB + "/sess/" + dk + "/" + s2.sid + ".json", {
         method: "PUT",
