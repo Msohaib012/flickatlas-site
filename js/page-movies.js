@@ -163,19 +163,35 @@
       render();
     });
 
-  /* Trending pool: FA_TRENDING order (TMDB /trending/movie/week) matched
-     to published movies with a poster. Deliberately NOT release-gated:
-     a title trending this week belongs here even if it released months
-     ago or is still upcoming (TMDB trending includes both — same
-     eligibility as the homepage rail in page-index.js). The list is
-     only as long as the overlap between FA_TRENDING and FA_PUBLISHED;
-     the seeder (title-seed.py) now prioritises trending titles so the
-     overlap grows a few titles per run instead of starving in the
-     general 4/day backfill. */
-  const trendingPool = [...new Set((Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : []).slice(0, 20).map(String))]
-    .map(id => (window.FA_PUBLISHED || {})[id])
-    .filter(x => x && x.id && x.type === "movie" && x.poster_path)
-    .sort(byNewest);
+  /* Trending pool: the SAME Bollywood + World mix as the homepage rail
+     (owner correction 2026-11-02 — keep in sync with page-index.js).
+     WORLD half = FA_TRENDING order (TMDB /trending/movie/week) matched
+     to published movies with a poster; deliberately NOT release-gated
+     (a title trending this week belongs here even if it released months
+     ago or is still upcoming). INDIA half = published Bollywood movies
+     that are current (UI.isFresh), ranked by popularity desc — TMDB's
+     global list often has no Indian title, so India's trending side is
+     its popularity signal. Interleaved W,I,W,I..., duplicates skipped. */
+  const trendingPool = (() => {
+    const worldHalf = [...new Set((Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : []).slice(0, 20).map(String))]
+      .map(id => (window.FA_PUBLISHED || {})[id])
+      .filter(x => x && x.id && x.type === "movie" && x.poster_path);
+    const indiaHalf = Object.values(window.FA_PUBLISHED || {})
+      .filter(x => x && x.id && x.type === "movie" && x.poster_path
+        && UI.industryOf(x) === "bollywood" && UI.isFresh(x))
+      .sort((a, b) => (Number(b.popularity) || 0) - (Number(a.popularity) || 0)
+        || String(b.release_date || "").localeCompare(String(a.release_date || "")))
+      .slice(0, 20);
+    const out = [], seen = new Set();
+    let wi = 0, ii = 0;
+    while (wi < worldHalf.length || ii < indiaHalf.length) {
+      const w = worldHalf[wi++];
+      if (w && !seen.has(String(w.id))) { seen.add(String(w.id)); out.push(w); }
+      const n = indiaHalf[ii++];
+      if (n && !seen.has(String(n.id))) { seen.add(String(n.id)); out.push(n); }
+    }
+    return out;
+  })();
 
   const heroTitle = main.querySelector("#moviesTitle");
   function syncHero() {

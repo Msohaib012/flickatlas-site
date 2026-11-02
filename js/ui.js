@@ -314,7 +314,11 @@ const UI = (() => {
      /news and the homepage: Indian cinema (including regional-language
      coverage) is Bollywood; international stories are World only when
      they are not marked India/Pakistan. */
-  const NEWS_TAG_KEYS = ["bollywood", "lollywood", "kollywood", "world", "pakistan",
+  /* No separate "pakistan" news tag (owner order 2026-11-02: "Lollywood
+     and Pakistan ek hi hua") — all Pakistani entertainment news carries
+     the single "lollywood" tag, and the news dropdowns list Lollywood
+     only. */
+  const NEWS_TAG_KEYS = ["bollywood", "lollywood", "kollywood", "world",
     "celebrity", "viral", "award", "ott", "music", "tech"];
   const INDIAN_CINEMA_TERMS = ["tamil", "kollywood", "telugu", "tollywood", "malayalam",
     "mollywood", "kannada", "sandalwood", "punjabi", "marathi", "bengali", "gujarati",
@@ -335,11 +339,11 @@ const UI = (() => {
       hasNewsWord(text, "korean") || hasNewsWord(text, "k-pop") || hasNewsWord(text, "kpop") ||
       hasNewsWord(text, "seoul") || hasNewsWord(text, "kim ji won");
     if (cats.includes("bollywood") && !isKorean) tags.add("bollywood");
-    if (cats.includes("pakistan")) { tags.add("pakistan"); tags.add("lollywood"); }
+    if (cats.includes("pakistan")) tags.add("lollywood");
     if (cats.includes("celebrity")) tags.add("celebrity");
     if (cats.includes("viral")) tags.add("viral");
     if (cats.includes("world") || cats.includes("international")) tags.add("world");
-    if (hasNewsWord(text, "pakistan") || hasNewsWord(text, "pakistani")) tags.add("pakistan");
+    if (hasNewsWord(text, "pakistan") || hasNewsWord(text, "pakistani")) tags.add("lollywood");
     if (hasNewsWord(text, "bollywood") || hasNewsWord(text, "india") || hasNewsWord(text, "indian") ||
         text.includes("₹") || INDIAN_CINEMA_TERMS.some(term => hasNewsWord(text, term))) {
       tags.add("bollywood");
@@ -362,7 +366,7 @@ const UI = (() => {
         hasNewsWord(text, "artificial intelligence") || hasNewsWord(text, "app") || hasNewsWord(text, "gadget")) {
       tags.add("tech");
     }
-    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood") || tags.has("pakistan")) {
+    if (tags.has("bollywood") || tags.has("kollywood") || tags.has("lollywood")) {
       tags.delete("world");
     }
     return NEWS_TAG_KEYS.filter(k => tags.has(k));

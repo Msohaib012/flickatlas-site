@@ -73,7 +73,12 @@ DEFAULT_MAX = 50
 TMDB_FIELDS_MOVIE = {
     "title", "poster_path", "backdrop_path", "vote_average",
     "vote_count", "overview", "industry", "original_language",
-    "origin_country", "trailer", "budget", "revenue", "genres",
+    # popularity (added 2026-11-02): publish-titles.py has baked it
+    # since 2026-10-28, but the refresh never updated it, so older
+    # entries carried popularity=None forever — and the homepage
+    # Trending Worldwide INDIA half ranks by it. Refresh it like the
+    # other TMDB fields.
+    "popularity", "origin_country", "trailer", "budget", "revenue", "genres",
     "tagline", "status", "production_countries", "spoken_languages",
     "certification", "release_date", "runtime", "date_kind",
     # date_kind (festival-only flag, owner decision 2026-10-27) is
@@ -84,7 +89,7 @@ TMDB_FIELDS_MOVIE = {
 }
 TMDB_FIELDS_TV = {
     "title", "poster_path", "backdrop_path", "vote_average",
-    "vote_count", "overview", "industry", "original_language",
+    "vote_count", "overview", "industry", "original_language", "popularity",
     "origin_country", "trailer", "budget", "revenue", "genres",
     "tagline", "status", "production_countries", "spoken_languages",
     "certification", "first_air_date", "networks",

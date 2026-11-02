@@ -21,7 +21,7 @@
      newest first). Each tag filters the list; an article can carry
      several tags. Reuses the existing ?f= param + UI.chipRow/UI.wireChips. */
   const FILTERS = [["all", "All"], ["bollywood", "Bollywood"], ["lollywood", "Lollywood"],
-    ["kollywood", "Kollywood"], ["world", "World Cinema"], ["pakistan", "Pakistan"],
+    ["kollywood", "Kollywood"], ["world", "World Cinema"],
     ["celebrity", "Celebrity"], ["viral", "Viral"], ["award", "Award"], ["ott", "OTT"],
     ["music", "Music"], ["tech", "Tech"]];
   let f = UI.getParam("f", "all");
@@ -38,7 +38,7 @@
   const fcount = main.querySelector("#fcount");
 
   const CATLABEL = { bollywood: "Bollywood", lollywood: "Lollywood", kollywood: "Kollywood",
-    world: "World Cinema", pakistan: "Pakistan", celebrity: "Celebrity", viral: "Viral",
+    world: "World Cinema", celebrity: "Celebrity", viral: "Viral",
     award: "Award", ott: "OTT", music: "Music", tech: "Tech" };
   let items = null;
 

@@ -103,7 +103,20 @@
     /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
        AT LEAST as many titles as the homepage movies rail (Spotlight,
        12 cards) — the old ott:7 cap bound the rails before the data did. */
-    const HOME_LIMITS = { soon: 12, calendar: 8, trending: 6, boxoffice: 8, news: 7, dramas: 13, ott: 12 };
+    const HOME_LIMITS = { soon: 12, calendar: 8, trending: 10, boxoffice: 8, news: 7, dramas: 13, ott: 12 };
+    /* Trending News desktop count (owner order 2026-11-02): the
+       .editorial-grid is 3 columns at min-width:1000px (css/style.css),
+       where HOME_LIMITS.news = 7 leaves the last row with two empty
+       slots — on desktop show 9 (3 full rows) so no space sits empty.
+       Below 1000px the limit stays HOME_LIMITS.news (7); mobile is
+       unchanged. The query mirrors the grid's own widest breakpoint;
+       homeNewsLimit() is read at every grid render, and fillHomeNews
+       re-renders when the viewport crosses the breakpoint (the same
+       matchMedia change pattern as the footer in js/ui.js). */
+    const HOME_NEWS_DESKTOP_LIMIT = 9;
+    const HOME_NEWS_DESKTOP_MQ = "(min-width: 1000px)";
+    const homeNewsLimit = () => (typeof window !== "undefined" && window.matchMedia && window.matchMedia(HOME_NEWS_DESKTOP_MQ).matches)
+      ? HOME_NEWS_DESKTOP_LIMIT : HOME_LIMITS.news;
     /* Coming Soon order (shared with /most-awaited): only future-dated
        movies enter; sort by nearest release date, then use stable ratings
        and title tie-breaks for entries sharing the same date. */
@@ -328,20 +341,43 @@
         && dateOf(x) <= today && dateOf(x).slice(0, 4) === currentYear)
       .sort(byNewest);
 
-    /* ---------- Trending Worldwide: AUTHENTIC trending only (user order
-       2026-10-26). Renders ONLY from window.FA_TRENDING — a list of TMDB
-       ids in trending order (js/trending-data.js) — matched to published
-       entries in FA_PUBLISHED, in trending order, up to 6. If FA_TRENDING
-       is missing or empty, the section renders NOTHING: no fallback to
-       the newest/mixed pool — that fallback is exactly what the user
-       called inauthentic. ---------- */
+    /* ---------- Trending Worldwide: Bollywood + World MIX (owner
+       correction 2026-11-02: "Trending Worldwide ka matlab sirf World
+       Cinema nahi hai"). Two REAL trending signals, interleaved W,I,W,I:
+         WORLD half — window.FA_TRENDING (TMDB /trending/movie/week,
+           js/trending-data.js) in TMDB rank order, published only.
+         INDIA half — published Bollywood movies that are current
+           (UI.isFresh: released within ~90 days or upcoming), ranked by
+           TMDB popularity desc. TMDB's global list often carries NO
+           Indian title at all (2026-11-02: 20/20 world), so India's
+           trending side is its popularity signal, never a catalogue
+           trawl. Duplicates skipped; if one half runs out, the other
+           fills; renders nothing only when BOTH halves are empty.
+       The See All pool (js/page-movies.js trendingPool) mirrors this
+       exact construction — keep the two in sync. ---------- */
     const trendingIds = Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : [];
     const trendingTop20 = [...new Set(trendingIds.slice(0, 20).map(String))];
-    const trendingEntries = trendingTop20
+    const trendingWorld = trendingTop20
       .map(id => (window.FA_PUBLISHED || {})[id])
-      .filter(x => x && typeOf(x) === "movie" && x.poster_path)
-      .sort(byNewest)
-      .slice(0, HOME_LIMITS.trending);
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path);
+    const trendingIndia = pubAll()
+      .filter(x => x && typeOf(x) === "movie" && x.poster_path
+        && UI.industryOf(x) === "bollywood" && UI.isFresh(x))
+      .sort((a, b) => (Number(b.popularity) || 0) - (Number(a.popularity) || 0)
+        || String(b.release_date || "").localeCompare(String(a.release_date || "")));
+    const trendingEntries = [];
+    {
+      const seenT = new Set();
+      let wi = 0, ii = 0;
+      while (trendingEntries.length < HOME_LIMITS.trending
+          && (wi < trendingWorld.length || ii < trendingIndia.length)) {
+        const w = trendingWorld[wi++];
+        if (w && !seenT.has(String(w.id))) { seenT.add(String(w.id)); trendingEntries.push(w); }
+        if (trendingEntries.length >= HOME_LIMITS.trending) break;
+        const n = trendingIndia[ii++];
+        if (n && !seenT.has(String(n.id))) { seenT.add(String(n.id)); trendingEntries.push(n); }
+      }
+    }
     const trendingHtml = rowSection("Trending Worldwide", "/movies?f=trending&seeall=1",
       trendingEntries.length ? `<div class="scroller">${trendingEntries.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
       "mixed-trending");
@@ -627,7 +663,8 @@
       </div></section>` : "";
 
     /* ---------- Trending News (§2.7): the SAME feed /news renders
-       (/api/news), first 7 headlines, same editorial-card markup (title
+       (/api/news), first 7 headlines (9 on desktop — homeNewsLimit),
+       same editorial-card markup (title
        + meta). NEWS EXPIRY (owner order 2026-10-28): only headlines from
        the last 24 hours are listed (UI.isNewsFresh) — older items stay
        in the data and on their article pages, they just leave the
@@ -751,14 +788,15 @@
     /* Trending News filter options (same 12 categories as /news,
        js/page-news.js FILTERS). The dropdown itself is the page's
        existing mountFaSelect (Drama Episodes filter, same component). */
-    const NEWS_FILTERS = [["bollywood", "Bollywood"], ["lollywood", "Lollywood"], ["kollywood", "Kollywood"], ["world", "World Cinema"], ["pakistan", "Pakistan"], ["celebrity", "Celebrity"], ["viral", "Viral"], ["award", "Award"], ["ott", "OTT"], ["music", "Music"], ["tech", "Tech"]];
+    const NEWS_FILTERS = [["bollywood", "Bollywood"], ["lollywood", "Lollywood"], ["kollywood", "Kollywood"], ["world", "World Cinema"], ["celebrity", "Celebrity"], ["viral", "Viral"], ["award", "Award"], ["ott", "OTT"], ["music", "Music"], ["tech", "Tech"]];
     const NEWS_FILTER_LABEL = Object.fromEntries(NEWS_FILTERS);
     const fillHomeNews = async () => {
       const host = document.getElementById("homeNews");
       if (!host) return;
       try {
         /* Same source and markup as /news (page-news.js): /api/news feed,
-           categories normalised the same way, first 7 items. */
+           categories normalised the same way, first homeNewsLimit()
+           items (7; 9 on desktop). */
         const ctl = new AbortController();
         const to = setTimeout(() => ctl.abort(), 9000);
         const r = await fetch("/api/news", { signal: ctl.signal });
@@ -804,7 +842,7 @@
           <div class="editorial-grid" id="homeNewsGrid"></div>`;
         const grid = host.querySelector("#homeNewsGrid");
         const renderHomeNewsGrid = () => {
-          const list = (homeFilter === "all" ? filterPool : filterPool.filter(it => deriveTags(it).includes(homeFilter))).slice(0, HOME_LIMITS.news);
+          const list = (homeFilter === "all" ? filterPool : filterPool.filter(it => deriveTags(it).includes(homeFilter))).slice(0, homeNewsLimit());
           /* Empty state (owner order 2026-10-28): when nothing fresh
              arrived in the last 24 h, say so honestly — never fill the
              grid with old items. */
@@ -837,6 +875,14 @@
           [{ value: "all", label: "All" }, ...NEWS_FILTERS.map(([k, label]) => ({ value: k, label }))],
           "all", (value) => { homeFilter = value; renderHomeNewsGrid(); });
         renderHomeNewsGrid();
+        /* Keep the card count right when the viewport crosses the
+           desktop breakpoint after load (owner order 2026-11-02) —
+           same matchMedia change pattern as js/ui.js's footer. */
+        if (window.matchMedia) {
+          const newsMq = window.matchMedia(HOME_NEWS_DESKTOP_MQ);
+          if (newsMq.addEventListener) newsMq.addEventListener("change", renderHomeNewsGrid);
+          else if (newsMq.addListener) newsMq.addListener(renderHomeNewsGrid);
+        }
       } catch (_) {
         host.remove();
         document.getElementById("homeNewsSlider")?.remove();
