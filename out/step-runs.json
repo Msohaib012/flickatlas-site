@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T18:51:05Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": {
-     "candidates": 267,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "King Box Office: Shah Rukh Khan Eyes History With Another Potential 100 Crore Worldwide Opener!",
-      "'You'll die from eating sambhar everyday': Pony's family warned her before marrying Prakash",
-      "‘He Went Off On Me Like Kelly Clarkson In a Toy Store.’ What Happened After Trump Dropped That Super Long Rant",
-      "‘Zootopia 3’ Will Officially Expand the Franchise in a New Direction",
-      "Jennifer Lawrence’s R-Rated 'Black Widow' Replacement Officially Debuts on HBO Max",
-      "The 6 Best Superhero Movies of 2019, Ranked",
-      "Most Likely to...? With the Cast of Hunger Games: Sunrise on the Reaping!",
-      "Forget ‘Hacks,’ This 2-Season Dark Comedy Is So Good, You’ll Finish It in a Day",
-      "Forget 'Game of Thrones,' Prime Video’s New Fantasy Series Is Ready To Be a Streaming Hit",
-      "Daniel Radcliffe’s Magic Movie Streams on Peacock Today, But It’s Not Harry Potter",
-      "Watch: Long Lost Animated 'Escape from Jurassic Park' Series Teaser",
-      "Layton Matthews' 'McConadilla' Strange Puppet Horror Comedy Trailer",
-      "Disney's New Remake of Its $592M Classic Is Officially Making a Big Change From the Original",
-      "Sylvester Stallone's 113-Minute Action Thriller Cult Classic Officially Hits Netflix Ahead of New Reboot",
-      "Hideo Kojima Officially Reviews DC's Clayface Movie",
-      "One Piece's Monster Trio Is Back In A Big Way And The Series Will Never Be The Same",
-      "Riftbound Is Still One Of The Best Multiplayer TCGs Around As Of Set 5",
-      "Reacher Season 5 Is Officially Switching Villains",
-      "9 Best Thrillers Of The Past 10 Years",
-      "Original Harry Potter Star Gives Warning To His HBO Replacement: \"Hope You Get More Than 1.5 Seconds\""
-     ],
-     "updated": [],
-     "count": 260,
-     "detail": "267 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T19:51:37Z",
     "run_id": "41343771682",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "363 stories, 1 duplicates removed, 13 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T18:51:44Z",
-    "run_id": "41338669355",
+    "run_at": "2026-11-02T17:51:24Z",
+    "run_id": "41494932593",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 543,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Long Lost Teaser For Unreleased 1990s Animated Series Escape from Jurassic Park Resurfaces Online",
-      "Sylvester Stallone's Cult Classic Action Film Cliffhanger Arrives on Netflix"
+      "suki waterhouse shuts down secret wedding rumours with robert pattinson 86944.html",
+      "shah rukh khan turns 61 ajay devgn karan johar among other stars shower king with love 86943.html",
+      "shanaya kapoor birthday special 8 ethnic looks that truly won our hearts 86928.amp",
+      "shah rukh khan at 61 how the king of romance became a core memory of our growing up years 86942.html",
+      "kareena kapoor khan gives a glimpse of her song in king on shah rukh khans birthday 86938.html",
+      "imran khan issues apology after bombay hc criticism over mumbai protest 86941.html",
+      "shah rukh khan woh toh hai albela editors take 86935.html",
+      "shanaya kapoors spooky birthday pictures ft suhana khan ananya panday more 86930.html",
+      "photos shah rukh khan strikes his signature pose as he greets fans outside mannat on his birthday 86940.html",
+      "arjuns gentleman set for grand 4k theatrical re release 86921.html",
+      "tourist family director abishan jeevinth welcomes first child announces birth of baby girl 86922.html",
+      "allu arjuns raaka skips dubai brings the action home to hyderabad 86939.html",
+      "theres good reason why shah rukh khan will always be king khan 86937.html",
+      "how shah rukh khan came to be known as the king of romance 86918.html",
+      "tv actor anuj thakur passes away at 33 after seizure during sleep last post goes viral 86936.html",
+      "shah rukh khan at 61 the magic of a superstar who taught generations to follow their hearts 86933.html",
+      "ram charan sukumar reunite for rc 17 sky high expectations among fans are a given 86934.html",
+      "venkateshs aadarsha kutumbam rakes in rs 75 crore worldwide in three days 86932.html",
+      "first look for scam 2010 under the direction of hansal mehta unveiled 86923.html",
+      "a day with shah rukh khan spending time with the superstar is like experiencing magic 86929.html"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 382,
+     "detail": "404 stories, 5 duplicates removed, 139 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1444,27 +1423,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:01:50Z",
+    "run_id": "41494932593",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Stephen King Prequel Series It: Welcome to Derry Climbs Global Streaming Charts",
+      "Suki Waterhouse Clarifies Status On Secret Marriage Rumours With Robert Pattinson",
+      "Lenny Kravitz Rejects False Internet Rumors Placing Him on Downed Florida Learjet",
+      "Director Michael Mann Recovers From Accidental Leg Shooting Alongside Multiple Celebrity Health Scares"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T20:50:56Z",
-    "run_id": "41348909869",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1878,31 +1862,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T18:01:50Z",
+    "run_id": "41494932593",
+    "status": "success",
+    "checked": {
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 182, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T19:00:58Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "hjlfhk",
-      "1vufqij",
-      "kyzix3",
-      "1x2fmoh"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2325,27 +2305,28 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T18:03:08Z",
+    "run_id": "41494932593",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "180qnq9"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:00:34Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": {
-     "candidates": 386,
-     "detail": "385 collected staging rows from readers; 122 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 16,
-     "detail": "+0 new rows, 16 updated rows, 369 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2759,19 +2740,27 @@
      "detail": "+0 new rows, 11 updated rows, 408 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:03:05Z",
+    "run_id": "41494932593",
+    "status": "success",
+    "checked": {
+     "candidates": 420,
+     "detail": "419 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+0 new rows, 9 updated rows, 410 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3037,30 +3026,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:00:58Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": {
-     "candidates": 358,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Long Lost Teaser For Unreleased 1990s Animated Series Escape from Jurassic Park Resurfaces Online",
-      "Sylvester Stallone's Cult Classic Action Film Cliffhanger Arrives on Netflix"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 358 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3549,19 +3527,35 @@
      "detail": "api-news.json 414 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:03:08Z",
+    "run_id": "41494932593",
+    "status": "success",
+    "checked": {
+     "candidates": 421,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Stephen King Prequel Series It: Welcome to Derry Climbs Global Streaming Charts",
+      "Lenny Kravitz Rejects False Internet Rumors Placing Him on Downed Florida Learjet",
+      "Director Michael Mann Recovers From Accidental Leg Shooting Alongside Multiple Celebrity Health Scares",
+      "Suki Waterhouse Clarifies Status On Secret Marriage Rumours With Robert Pattinson",
+      "Bano Episode 20 — Watch Online on Geo TV",
+      "Lagan Lagi Episode 8 — Watch Online on ARY Digital",
+      "Hurmat Episode 9 — Watch Online on HUM TV"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "api-news.json 421 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3822,65 +3816,34 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T18:51:31Z",
-    "run_id": "41338669355",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T18:01:18Z",
+    "run_id": "41494932593",
     "status": "success",
     "checked": {
-     "candidates": 516,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 38,
-      "pk_movies": 18
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
+     "candidates": 16,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 6 new detected"
     },
     "changed": {
      "added": [
-      "Love Story Abhimanyu Ki (1813677)",
-      "Jhaad Phoonk (1813349)",
-      "Nakhrewaalii (1202167)",
-      "Mi hermano Roberto (1814086)",
-      "Barbie in the Nutcracker (1760311)",
-      "Mog's Bad Thing (1807629)",
-      "A Story of Derry (1813355)",
-      "Leave It Where You Found It (1805507)",
-      "K3 Superhelden (1796321)",
-      "The Magic of It All: The Story of Strawbs (1804642)",
-      "Adopting St. Nick (1773374)",
-      "Between Creases (1803705)",
-      "The Decay (1803692)",
-      "Chroma (1803701)",
-      "AMINETU (1652389)",
-      "Unhealed Wounds (1803696)",
-      "SCTV: The Greatest Show You've Never Heard Of (1756307)",
-      "I'm Still Flying (1803690)",
-      "Sight & Sound Presents: JOSHUA—Live! (1733243)",
-      "All Sacrifices Made for the Love Over Yonder (1803688)"
+      "Bano Ep 20",
+      "Lagan Lagi Ep 8",
+      "Hurmat Ep 9"
      ],
-     "updated": [],
-     "count": 20
+     "updated": [
+      "Hurmat Ep 9",
+      "Bano Ep 20",
+      "Lagan Lagi Ep 8"
+     ],
+     "count": 6
     },
     "reason": null
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4156,29 +4119,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T18:51:44Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 260 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 1/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 4/4, trailers 2/3, awards 3/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Long Lost Teaser For Unreleased 1990s Animated Series Escape from Jurassic Park Resurfaces Online",
-      "Sylvester Stallone's Cult Classic Action Film Cliffhanger Arrives on Netflix"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4640,31 +4593,31 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "overseas_ai": [
+   },
    {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T18:54:54Z",
-    "run_id": "41338669355",
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:01:50Z",
+    "run_id": "41494932593",
     "status": "success",
     "checked": {
-     "candidates": 28,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 382 still unprocessed; today by category: movies 9/6, tv_dramas 6/4, episodes 1/2, box_office 12/6, celebrities_events 14/5, upcoming_releases 3/4, ott_streaming 5/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 0/2"
     },
     "changed": {
      "added": [
-      "Enemy Of The Smuggler (1800255)",
-      "Udta Teer (1375156)",
-      "Ranabaali (1389379)",
-      "Drishyam: The Conclusion (1269325)"
+      "Stephen King Prequel Series It: Welcome to Derry Climbs Global Streaming Charts",
+      "Suki Waterhouse Clarifies Status On Secret Marriage Rumours With Robert Pattinson",
+      "Lenny Kravitz Rejects False Internet Rumors Placing Him on Downed Florida Learjet",
+      "Director Michael Mann Recovers From Accidental Leg Shooting Alongside Multiple Celebrity Health Scares"
      ],
      "updated": [],
      "count": 4
     },
     "reason": null
-   },
+   }
+  ],
+  "overseas_ai": [
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4963,24 +4916,19 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 205,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5305,24 +5253,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 23,
+     "count": 533,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5652,24 +5600,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 59,
+     "count": 10,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5914,19 +5862,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6161,19 +6109,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6415,19 +6363,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6668,19 +6616,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6910,19 +6858,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7175,6 +7123,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7378,16 +7336,6 @@
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:01:08Z",
-    "run_id": "41338669355",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7622,6 +7570,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7699,8 +7657,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T17:00:38Z"
+ "updated_at": "2026-11-02T18:03:16Z"
 }
