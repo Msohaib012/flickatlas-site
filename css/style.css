@@ -2179,3 +2179,33 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
 .page-publication time{font-variant-numeric:tabular-nums}
 .detail-publication{margin:-2px 0 10px;color:#E5F4EF;max-width:100%;overflow-wrap:anywhere}
 .article-meta .page-publication{color:var(--muted);min-width:0;max-width:100%}
+
+/* ===== Card interaction polish (2026-11-02, owner order) =====
+   Tapping/clicking a post card must never paint the old-HTML underline
+   through its title/date (the global a:hover underline beats
+   single-class card rules), must not flash the grey tap highlight,
+   and the whole box itself must answer the tap with a small press
+   animation. Prose links keep their underline. */
+a { -webkit-tap-highlight-color: transparent; }
+a.card, a.news-item, a.news-slide, a.tl-row, a.ep-row, a.person-card, a.cat-tile, a.search-result, a.bo-row, a.fa-box-latest-card, a.fa-box-card-head, a.release-card, a.editorial-card, a.editorial-search-card, a.eb-card, a.bw-calendar-row, a.explore-link { -webkit-tap-highlight-color: transparent; }
+a.card:hover, a.card:focus, a.card:active,
+a.news-item:hover, a.news-item:focus, a.news-item:active,
+a.news-slide:hover, a.news-slide:focus, a.news-slide:active,
+a.tl-row:hover, a.tl-row:focus, a.tl-row:active,
+a.ep-row:hover, a.ep-row:focus, a.ep-row:active,
+a.person-card:hover, a.person-card:focus, a.person-card:active,
+a.cat-tile:hover, a.cat-tile:focus, a.cat-tile:active,
+a.search-result:hover, a.search-result:focus, a.search-result:active,
+a.bo-row:hover, a.bo-row:focus, a.bo-row:active,
+a.fa-box-latest-card:hover, a.fa-box-latest-card:focus, a.fa-box-latest-card:active,
+a.fa-box-card-head:hover, a.fa-box-card-head:focus, a.fa-box-card-head:active,
+a.release-card:hover, a.release-card:focus, a.release-card:active,
+a.editorial-card:hover, a.editorial-card:focus, a.editorial-card:active,
+a.editorial-search-card:hover, a.editorial-search-card:focus, a.editorial-search-card:active,
+a.eb-card:hover, a.eb-card:focus, a.eb-card:active,
+a.bw-calendar-row:hover, a.bw-calendar-row:focus, a.bw-calendar-row:active,
+a.explore-link:hover, a.explore-link:focus, a.explore-link:active { text-decoration: none; }
+a.card, a.fa-box-latest-card, a.release-card, a.editorial-card, a.eb-card, a.cat-tile, a.person-card, a.search-result, a.news-slide { transition: transform .13s ease, box-shadow .13s ease, border-color .13s ease, background-color .13s ease; }
+a.news-item, a.tl-row, a.ep-row, a.bo-row, a.bw-calendar-row, a.fa-box-card-head { transition: transform .13s ease, background-color .13s ease, border-color .13s ease; }
+a.card:active, a.fa-box-latest-card:active, a.release-card:active, a.editorial-card:active, a.eb-card:active, a.cat-tile:active, a.person-card:active, a.search-result:active, a.news-slide:active { transform: scale(.98); }
+a.news-item:active, a.tl-row:active, a.ep-row:active, a.bo-row:active, a.bw-calendar-row:active, a.fa-box-card-head:active { transform: scale(.99); }
