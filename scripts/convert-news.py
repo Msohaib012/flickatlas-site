@@ -443,7 +443,7 @@ def fetch_trends_google(now=None, opener=None):
     opener = opener or urllib.request.urlopen
     found, successes, stale = [], 0, 0
     errors = []
-    for geo in ("US", "IN", "PK", "GB", "AU"):
+    for geo in ("US", "IN", "GB", "AU"):
         url = GOOGLE_RSS_URL.format(geo)
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:

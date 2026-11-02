@@ -8,7 +8,7 @@
      copy was never updated: it rejected every PK-geo proof and any
      trend older than 24h, so the rail rendered empty even when the
      server had emitted valid topics (fix 2026-11-02). */
-  var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN', PK:'https://trends.google.com/trending/rss?geo=PK', GB:'https://trends.google.com/trending/rss?geo=GB', AU:'https://trends.google.com/trending/rss?geo=AU'};
+  var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN', GB:'https://trends.google.com/trending/rss?geo=GB', AU:'https://trends.google.com/trending/rss?geo=AU'};
   var GENERIC = {movie:1,movies:1,film:1,films:1,news:1,today:1,'box':1,'office':1,collection:1,collections:1,latest:1,trending:1,trend:1,viral:1,breaking:1,entertainment:1,cinema:1,update:1,updates:1};
   var STOP = {a:1,an:1,the:1,and:1,or:1,of:1,to:1,in:1,on:1,for:1,with:1,at:1,by:1,from:1,is:1,are:1,was:1,were:1,be:1,been:1,this:1,that:1,these:1,those:1,his:1,her:1,its:1,their:1,has:1,have:1,had:1};
   function safe(value) { return String(value == null ? '' : value).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }

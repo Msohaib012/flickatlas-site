@@ -23,7 +23,7 @@ TREND_HOURS = 72
 HEADER = "/* FlickAtlas Trending Topics: current Google search trends intersected with published news. */"
 GENERIC = set("movie movies film films news today box office collection collections latest trending trend viral breaking entertainment cinema update updates".split())
 STOP = set("a an the and or of to in on for with at by from is are was were be been this that these those his her its their has have had".split())
-FEEDS = {"US": "https://trends.google.com/trending/rss?geo=US", "IN": "https://trends.google.com/trending/rss?geo=IN", "PK": "https://trends.google.com/trending/rss?geo=PK", "GB": "https://trends.google.com/trending/rss?geo=GB", "AU": "https://trends.google.com/trending/rss?geo=AU"}
+FEEDS = {"US": "https://trends.google.com/trending/rss?geo=US", "IN": "https://trends.google.com/trending/rss?geo=IN", "GB": "https://trends.google.com/trending/rss?geo=GB", "AU": "https://trends.google.com/trending/rss?geo=AU"}
 
 
 def log(s): print("trending-weekly: " + str(s))
