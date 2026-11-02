@@ -39434,5 +39434,438 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 19:30:00 +0000"
+  },
+  "slbka1": {
+    "id": "slbka1",
+    "type": "news",
+    "headline": "Kanika Mann Opens Up About Abusive Past Relationship Inside Bigg Boss House",
+    "dek": "Television actor Kanika Mann shared shocking details of domestic abuse and harassment by her former boyfriend during her appearance on Bigg Boss.",
+    "body": [
+      {
+        "h": "Revelations Inside Bigg Boss",
+        "p": [
+          "While participating in the reality television show Bigg Boss, actor Kanika Mann opened up about a deeply traumatic phase from her past involving her former partner. She described how the relationship quickly turned toxic after they initially crossed paths and began interacting.",
+          "The actor detailed the extreme harassment she faced, shedding light on the psychological and physical distress inflicted upon her during that period."
+        ]
+      },
+      {
+        "h": "Public Assault and Control",
+        "p": [
+          "Kanika recalled how her ex-boyfriend exhibited highly controlling and abusive behavior, going as far as showing up unannounced inside her college classes. On one occasion, he physically assaulted her in a corridor in front of numerous students simply because he disapproved of the striped suit she was wearing.",
+          "The violent slap caused her newly pierced ear to bleed. Furthermore, he hurled her mobile phone onto the ground in front of an assembled crowd out of sheer anger."
+        ]
+      },
+      {
+        "h": "Hostel Harassment and Threats",
+        "p": [
+          "The former partner attempted to isolate her by throwing away her hostel room keys and exploiting her status as a young student away from home. He subjected her to constant pressure and even threatened to call her father to expose their relationship.",
+          "He did attempt to contact her father by phone, though the call went unanswered at the time, adding to the climate of fear and emotional blackmail she endured."
+        ]
+      },
+      {
+        "h": "Escalation of Violence",
+        "p": [
+          "As Kanika began pursuing her law studies over an eight-to-nine-month period, she slowly gained a better understanding of her rights and how to handle the situation. However, the harassment escalated when he followed her from her hostel to her department one day.",
+          "During this harrowing incident, he grabbed her hair and pulled her hand, producing a knife to inflict injuries upon his own arm. He then threatened to smear her hair with his blood as a forced symbol of marriage."
+        ]
+      },
+      {
+        "h": "Police Intervention",
+        "p": [
+          "Fearing for her safety and suspecting he might harm her as well, Kanika seized an opportunity when a passerby happened to walk past them. She urgently instructed the individual to contact the authorities, and police arrived on the scene within minutes.",
+          "The arrival of law enforcement visibly unnerved the assailant, who begged her to remain silent. Witnessing his fear gave Kanika the courage to speak up and recount everything to the officers."
+        ]
+      },
+      {
+        "h": "Aftermath and Intimidation",
+        "p": [
+          "Police promptly detained the individual, leading to a brief stint of two to three days in jail. Even while he was incarcerated, members of his family and friends continued to pressure and intimidate Kanika.",
+          "Despite the subsequent threats and the immense trauma she experienced, her bold stand eventually brought the immediate harassment to a halt."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kanika Mann opened up on Bigg Boss about surviving an abusive relationship with an ex-boyfriend who harassed her, publicly assaulted her at college, and threatened her with a knife. Police intervened after she asked a bystander for help, leading to the attacker's brief arrest despite subsequent threats from his family."
+        ]
+      }
+    ],
+    "facts": [
+      "Kanika Mann is appearing in Bigg Boss 20",
+      "The abusive ex-boyfriend slapped Kanika in a corridor in front of students",
+      "The ex-boyfriend cut his own hand with a knife and threatened to use the blood as sindoor",
+      "The attacker spent 2-3 days in jail after police intervened",
+      "The article was published on November 2, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Kanika Mann"
+      ],
+      "titles": [
+        "Bigg Boss"
+      ]
+    },
+    "keywords": [
+      "Kanika Mann",
+      "Bigg Boss",
+      "Kanika Mann ex boyfriend",
+      "Kanika Mann abusive relationship"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6ae81908757b7-kanika-mann-020055255-16x9.jpg",
+        "caption": "Kanika Mann Opens Up About Abusive Past Relationship Inside Bigg Boss House",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T21:51:24Z"
+  },
+  "1ii7ic4": {
+    "id": "1ii7ic4",
+    "type": "news",
+    "headline": "Meta Partners With Lionsgate to Bring 'Sunrise on the Reaping' to 3D and Upcoming VR Glasses",
+    "dek": "Meta and Lionsgate are teaming up to convert 'The Hunger Games: Sunrise on the Reaping' into 3D, marking Meta's first studio collaboration for a film conversion ahead of its November release.",
+    "body": [
+      {
+        "h": "The Partnership Announcement",
+        "p": [
+          "Meta is collaborating with Lionsgate to adapt The Hunger Games: Sunrise on the Reaping for 3D screens and Meta's upcoming virtual reality headset. This initiative represents Meta's initial venture into partnering directly with a major motion picture studio for a 3D format conversion.",
+          "The theatrical release for the film is scheduled for November 20. Alongside its cinema run, the 3D rendition is planned to arrive on Meta's new virtual reality glasses in the spring."
+        ]
+      },
+      {
+        "h": "Collaborating With DNEG",
+        "p": [
+          "The conversion process relies on the expertise of visual effects studio DNEG. The company has previously transformed several high-profile feature films from standard two dimensions into three dimensions.",
+          "Among DNEG's past conversion credits are well-known blockbusters such as Dune: Part One, Godzilla x Kong: The New Empire, and Venom."
+        ]
+      },
+      {
+        "h": "Studio and Executive Perspectives",
+        "p": [
+          "Jim Packer, who serves as the chief revenue officer at Lionsgate, described the initiative as a compelling demonstration of technology altering traditional formats. He emphasized that the partnership opens up fresh experiences for audiences engaging with the franchise.",
+          "Director Francis Lawrence noted that the 3D adaptation aims to deliver a visceral and immersive atmosphere. Lawrence pointed out that the format provides viewers with an alternative way to follow the journey of the character Haymitch Abernathy."
+        ]
+      },
+      {
+        "h": "Focus on Haymitch Abernathy",
+        "p": [
+          "The narrative of the film centers on a younger incarnation of Haymitch Abernathy, originally portrayed by Woody Harrelson in previous installments. In this feature, the younger version is played by actor Joseph Zada.",
+          "Audience members follow the protagonist through the events of the 50th edition of the Hunger Games. The creative team designed the 3D visual approach specifically to pull viewers deeper into that specific character experience."
+        ]
+      },
+      {
+        "h": "Meta's Reality Labs Strategy",
+        "p": [
+          "Meta initially showcased its new virtual reality glasses during the Meta Connect event held in September. The hardware carries a retail price point of $1,299.",
+          "Sarah Malkin, who leads entertainment for Meta's Reality Labs division, stated that the project demonstrates what the technology can achieve both in traditional theaters and within home environments."
+        ]
+      },
+      {
+        "h": "Broader Virtual Reality Plans",
+        "p": [
+          "During the September Meta Connect presentation, the technology company outlined plans for several other immersive cinematic titles. Promised projects included immersive versions of Avengers: Infinity War and Star Wars: A New Hope.",
+          "Additionally, the hardware lineup was slated to support 3D editions of The Avengers, Black Panther, and a selection of other titles from Lionsgate."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Meta and Lionsgate are collaborating to release a 3D version of The Hunger Games: Sunrise on the Reaping in theaters this November and on Meta's upcoming $1,299 VR glasses in the spring. The conversion was handled by DNEG and overseen by director Francis Lawrence to provide an immersive experience focusing on the younger Haymitch Abernathy played by Joseph Zada."
+        ]
+      }
+    ],
+    "facts": [
+      "The partnership was announced on Nov 2, 2026.",
+      "The film Sunrise on the Reaping releases on Nov. 20.",
+      "Meta's VR glasses are priced at $1,299 and release in the spring.",
+      "Francis Lawrence is the director of the film.",
+      "Joseph Zada plays Haymitch Abernathy, a younger version of the character originated by Woody Harrelson.",
+      "The story is set during the 50th edition of the Hunger Games.",
+      "DNEG previously converted Dune: Part One, Godzilla x Kong: The New Empire, and Venom.",
+      "Meta unveiled the VR glasses at Meta Connect in September."
+    ],
+    "entities": {
+      "people": [
+        "Hans Ku",
+        "Cate Blanchett",
+        "Bill Murray",
+        "Trump",
+        "Francis Lawrence",
+        "Joseph Zada",
+        "Woody Harrelson",
+        "Jim Packer",
+        "Sarah Malkin",
+        "Noah Wyle",
+        "Eddie Murphy",
+        "Amy Poehler",
+        "Haley Stevens",
+        "Gates McFadden",
+        "Patrick Stewart",
+        "Jean-Luc Picard",
+        "John Oliver",
+        "Elizabeth Holmes",
+        "Billy Evans",
+        "Ellen DeGeneres",
+        "Matthew Wright",
+        "Dustin Hoffman",
+        "Mike Nichols",
+        "Katharine Ross",
+        "Judi Dench",
+        "Robin Williams",
+        "Dave Bautista",
+        "Kratos",
+        "Simon Pegg",
+        "Mark Duplass",
+        "Haley Joel Osment",
+        "Russell Brand",
+        "Liam Neeson",
+        "Andrew Wallenstein",
+        "Ben Affleck",
+        "Pete Davidson",
+        "Hillary Clinton",
+        "Jennifer Hudson",
+        "Tom Cruise",
+        "Chris Rock"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Dune: Part One",
+        "Godzilla x Kong: The New Empire",
+        "Venom",
+        "Avengers: Infinity War",
+        "Star Wars: A New Hope",
+        "The Avengers",
+        "Black Panther",
+        "The Pitt",
+        "The Graduate",
+        "The Mongoose",
+        "La Bola Negra"
+      ]
+    },
+    "keywords": [
+      "Sunrise on the Reaping 3D",
+      "Meta Lionsgate partnership",
+      "Sunrise on the Reaping VR glasses",
+      "Francis Lawrence Sunrise on the Reaping"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg.png?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Meta Partners With Lionsgate to Bring 'Sunrise on the Reaping' to 3D and Upcoming VR Glasses",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 20:00:00 +0000"
+  },
+  "15zymm2": {
+    "id": "15zymm2",
+    "type": "news",
+    "headline": "SZA Partners with Vans as First Artistic Director for VANSZA Capsule Collection",
+    "dek": "Discover the newly released VANSZA collaboration, featuring custom sneakers, workwear-inspired apparel, and outdoorsy accessories designed by SZA.",
+    "body": [
+      {
+        "h": "The Artistic Partnership",
+        "p": [
+          "SZA has officially teamed up with the renowned skate brand Vans, stepping into the role of the company's very first artistic director. This partnership unites the distinct creative vision of the artist with the classic aesthetic of the heritage footwear brand.",
+          "The resulting collaborative effort introduces a fresh line of merchandise that blends everyday comfort with distinct outdoor motifs, giving fans a chance to wear pieces that mirror the singer's personal style."
+        ]
+      },
+      {
+        "h": "Reimagined Footwear Highlights",
+        "p": [
+          "The collection features two distinct sneaker styles that have been given a custom overhaul. The Knu Skool Mule takes the classic nineties silhouette and converts it into a backless slip-on complete with a sculpted heel.",
+          "Additionally, the Authentic Kickdown introduces a distressed canvas upper decorated with fish-print artwork created by artist Sage Adams, alongside a collapsible heel that allows the shoe to easily transition into a mule."
+        ]
+      },
+      {
+        "h": "Workwear and Outerwear Pieces",
+        "p": [
+          "Drawing inspiration from nature and utilitarian design, the apparel line includes standout garments like the Hunting Vest, which features a bold safety-orange lining and cargo pockets.",
+          "Other notable items include the Denim Hunting Jacket and a creative trompe l'oeil crewneck fleece printed to visually mimic a heavily worn work jacket while maintaining soft sweater comfort."
+        ]
+      },
+      {
+        "h": "Cozy Essentials and Winter Gear",
+        "p": [
+          "For colder weather, the capsule offers matching lounge pieces such as the Bug Out Hoodie and matching Bug Out Sweatpants, built for relaxed days and chilly mornings.",
+          "Layering options also extend to a thermal-lined Flannel Hoodie equipped with elbow patches and a quilted interior for extra warmth."
+        ]
+      },
+      {
+        "h": "Accessories and Graphic Tees",
+        "p": [
+          "Everyday staples in the lineup include fitted graphic items like the Baby Tee and a loose-fit short-sleeve shirt showcasing original artwork by Sage Adams and custom branding.",
+          "Accessories such as the Snapback Hat featuring RealTree camo flames and crew socks round out the accessories portion of the release."
+        ]
+      },
+      {
+        "h": "Pants and Bottoms Selection",
+        "p": [
+          "The bottom wear selection leans heavily into utilitarian and cargo trends, featuring Multi-Pocket Denim Pants with a vintage wash.",
+          "Pants options also feature the Parachute Pant, which incorporates ripstop material, hidden stash pockets, and an adjustable drawstring waistband."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "SZA has joined Vans as their first-ever artistic director to launch the new VANSZA capsule collection. The line features footwear like the Knu Skool Mule alongside various workwear-inspired apparel items and accessories currently available while supplies last."
+        ]
+      }
+    ],
+    "facts": [
+      "SZA is the first-ever artistic director for Vans",
+      "Sage Adams contributed artwork for items like the Baby Tee and Authentic Kickdown",
+      "The VANSZA Crew Socks cost $20",
+      "The VANSZA Snapback Hat costs $40",
+      "The VANSZA Layer Long Sleeve Top costs $70",
+      "The VANSZA Bug Out Hoodie costs $110",
+      "The VANSZA Bug Out Sweatpants costs $100",
+      "The VANSZA Knu Skool Mule costs $115",
+      "The VANSZA Baby Tee costs $40",
+      "The VANSZA Loose Fit Short Sleeve Tee costs $40",
+      "The VANSZA Hunting Vest costs $120",
+      "The VANSZA Workwear Trompe L'oeil Crew Neck Fleece costs $120",
+      "The VANSZA Multi-Pocket Denim Pant costs $175",
+      "The VANSZA Denim Hunting Jacket costs $160",
+      "The VANSZA Flannel Hoodie costs $130",
+      "The VANSZA Parachute Pant costs $160"
+    ],
+    "entities": {
+      "people": [
+        "SZA",
+        "Sage Adams",
+        "Olandria Carthen",
+        "Rihanna"
+      ],
+      "titles": [
+        "VANSZA Crew Socks",
+        "VANSZA Snapback Hat",
+        "VANSZA Layer Long Sleeve Top",
+        "VANSZA Bug Out Hoodie",
+        "VANSZA Bug Out Sweatpants",
+        "VANSZA Knu Skool Mule",
+        "VANSZA Baby Tee",
+        "VANSZA Loose Fit Short Sleeve Tee",
+        "VANSZA Hunting Vest",
+        "VANSZA Workwear Trompe L'oeil Crew Neck Fleece",
+        "VANSZA Multi-Pocket Denim Pant",
+        "VANSZA Denim Hunting Jacket",
+        "VANSZA Flannel Hoodie",
+        "VANSZA Parachute Pant",
+        "Authentic Kickdown"
+      ]
+    },
+    "keywords": [
+      "SZA Vans collaboration",
+      "VANSZA collection",
+      "Knu Skool Mule",
+      "Authentic Kickdown",
+      "SZA artistic director"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261102/21f44802-f06e-434b-ba0f-d2411c613bf5_1793632270.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "SZA Partners with Vans as First Artistic Director for VANSZA Capsule Collection",
+        "source": "E! News"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 20:00:00 GMT"
+  },
+  "eei3wr": {
+    "id": "eei3wr",
+    "type": "news",
+    "headline": "Shah Rukh Khan's upcoming movie King earns over 200 crore profit before release through massive pre-release deals totaling 665 crore",
+    "dek": "Shah Rukh Khan's upcoming film King has generated massive pre-release business totalling around 665 crore rupees through theatrical, digital, music, and satellite rights.",
+    "body": [
+      {
+        "h": "Massive Pre-Release Business Before Theatre Run",
+        "p": [
+          "Bollywood superstar Shah Rukh Khan's upcoming film King has achieved remarkable financial milestones even before hitting the silver screen. According to recent reports, the highly anticipated project has accumulated approximately 665 crore rupees through various pre-release business deals.",
+          "The staggering pre-release earnings demonstrate the immense commercial pull of the actor. Industry analysts note that these numbers reflect profound trust from distributors and streaming platforms in the star's box-office dominance."
+        ]
+      },
+      {
+        "h": "Breakdown of Theatrical and Overseas Rights",
+        "p": [
+          "The theatrical rights constitute the largest portion of the pre-release revenue. Domestic theatrical rights were acquired by Pen Marudhar for 250 crore rupees, while Dubai-based company Phars Films secured the overseas rights on a minimum guarantee of 175 crore rupees.",
+          "This overseas minimum guarantee is reportedly the largest ever recorded for an Indian film. Combined, the theatrical segments account for 425 crore rupees of the total reported business."
+        ]
+      },
+      {
+        "h": "Digital, Satellite, and Music Streams",
+        "p": [
+          "Beyond theatrical distribution, King has monetized its non-theatrical assets exceptionally well. Netflix purchased the digital streaming rights for roughly 150 crore rupees.",
+          "Additionally, the music rights have brought in 65 crore rupees, and satellite rights have contributed another 25 crore rupees to the robust financial tally prior to release."
+        ]
+      },
+      {
+        "h": "Production Budget and Estimated Costs",
+        "p": [
+          "The production budget for the movie stands at around 400 crore rupees, which includes the fees of director Siddharth Anand but excludes Shah Rukh Khan's acting fee. Factoring in the star's estimated remuneration could elevate the overall cost to about 500 crore rupees.",
+          "Furthermore, an estimated 40 crore rupees has been earmarked for promotion and release expenses, bringing the total expenditure higher before the film officially debuts in cinemas."
+        ]
+      },
+      {
+        "h": "Star Power and Market Expectations",
+        "p": [
+          "The massive monetary valuations stem largely from the global success of earlier blockbusters like Pathaan and Jawan. These milestones have solidified market expectations surrounding the actor's cinematic ventures.",
+          "The collaboration between Shah Rukh Khan and director Siddharth Anand has created heightened anticipation among fans and trade experts alike for the upcoming theatrical run."
+        ]
+      },
+      {
+        "h": "Cast Details and Release Date",
+        "p": [
+          "King features a star-studded ensemble cast alongside the lead actor. The movie stars Deepika Padukone, Suhana Khan, Rani Mukerji, and Abhishek Bachchan, alongside several other prominent Bollywood actors in key roles.",
+          "Fans can expect the film to land in theaters on December 24, 2026, bringing this high-profile project to the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming film King has achieved a reported pre-release business of 665 crore rupees, yielding substantial early profit margins. The project features major theatrical, digital, and overseas deals, with a scheduled release date of December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan is 61 years old on November 2, 2026",
+      "King has a reported pre-release business of 665 crore rupees",
+      "Production budget is about 400 crore rupees",
+      "Pen Marudhar bought domestic theatrical rights for 250 crore rupees",
+      "Phars Films bought overseas rights on a minimum guarantee of 175 crore rupees",
+      "Netflix bought digital rights for 150 crore rupees",
+      "Music rights brought in 65 crore rupees",
+      "Satellite rights brought in 25 crore rupees",
+      "Film releases on December 24, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Rani Mukerji",
+        "Abhishek Bachchan"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "King pre release business",
+      "King movie rights Netflix",
+      "Shah Rukh Khan upcoming movie 2026"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae8c06f95561-shah-rukh-khan-king-pre-release-deals-went-upto-665-crore-025510412-16x9.jpg",
+        "caption": "Shah Rukh Khan's upcoming movie King earns over 200 crore profit before release through massive pre-release deals totali",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T21:51:24Z"
   }
 };
