@@ -2207,5 +2207,5 @@ a.bw-calendar-row:hover, a.bw-calendar-row:focus, a.bw-calendar-row:active,
 a.explore-link:hover, a.explore-link:focus, a.explore-link:active { text-decoration: none; }
 a.card, a.fa-box-latest-card, a.release-card, a.editorial-card, a.eb-card, a.cat-tile, a.person-card, a.search-result, a.news-slide { transition: transform .13s ease, box-shadow .13s ease, border-color .13s ease, background-color .13s ease; }
 a.news-item, a.tl-row, a.ep-row, a.bo-row, a.bw-calendar-row, a.fa-box-card-head { transition: transform .13s ease, background-color .13s ease, border-color .13s ease; }
-a.card:active, a.fa-box-latest-card:active, a.release-card:active, a.editorial-card:active, a.eb-card:active, a.cat-tile:active, a.person-card:active, a.search-result:active, a.news-slide:active { transform: scale(.98); }
-a.news-item:active, a.tl-row:active, a.ep-row:active, a.bo-row:active, a.bw-calendar-row:active, a.fa-box-card-head:active { transform: scale(.99); }
+a.card:active, a.fa-box-latest-card:active, a.release-card:active, a.editorial-card:active, a.eb-card:active, a.cat-tile:active, a.person-card:active, a.search-result:active, a.news-slide:active { transform: scale(.97); box-shadow: 0 1px 4px rgba(7,51,46,.14); }
+a.news-item:active, a.tl-row:active, a.ep-row:active, a.bo-row:active, a.bw-calendar-row:active, a.fa-box-card-head:active { transform: scale(.985); background: var(--soft); }
