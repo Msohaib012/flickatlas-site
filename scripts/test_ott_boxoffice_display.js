@@ -370,14 +370,15 @@ const fill = [
   movieItem('older-low', 'world', '2026-10-09', { popularity: 200, vote_count: 50, vote_average: 8 }),
 ];
 const fillPicks = helper.selectHomeTitles(fill, {}, {}, { schema_version: 1, reports: {} }, today, today, ui, { USD: 1 }, 8);
-assert.deepEqual(fillPicks.world.map(x => x.id), ['recent0', 'recent1', 'recent2', 'recent3', 'recent4', 'recent5'],
-  'a tab with fewer than eight recent releases shows fewer cards; older titles never backfill, however popular');
-const staleSelection = helper.selectionForDisplay(fill, {}, {},
+assert.deepEqual(fillPicks.world.map(x => x.id), ['older-high', 'older-low', 'recent0', 'recent1', 'recent2', 'recent3', 'recent4', 'recent5'],
+  'world titles inside the 90-day window DO backfill by popularity (fix 2026-11-02: the 14-day world pool was streaming drops with no reported grosses anywhere); bollywood keeps the hard 14-day rule');
+const staleSelection = helper.selectionForDisplay(
+  [...fill, movieItem('ancient', 'world', '2026-07-01', { popularity: 999, vote_count: 999 })], {}, {},
   { schema_version: 1, selected_at: new Date().toISOString(),
-    selections: { bollywood: [], world: ['older-high'] }, reports: {} },
+    selections: { bollywood: [], world: ['ancient'] }, reports: {} },
   today, today, ui, { USD: 1 }, 8);
-assert(!staleSelection.world.some(x => x.id === 'older-high'),
-  'a stored selection cannot resurrect a title older than 14 days');
+assert(!staleSelection.world.some(x => x.id === 'ancient'),
+  'a stored selection cannot resurrect a title outside the eligibility window (world: 90 days, fix 2026-11-02)');
 
 // Frontend uses the shared selector/metric helper and does not sum a homemade worldwide amount.
 assert.match(pageSource, /FAHomeBoxOffice/);
@@ -402,7 +403,8 @@ assert.doesNotMatch(pageSource, /const boWorldwideAmount =/,
 assert.match(pageSource, /Not reported/);
 
 // The offline selector shares this helper, so the collector researches
-// exactly the homepage's titles: last-14-days only, popularity order,
+// exactly the homepage's titles: per-bucket eligibility (bollywood
+// last 14 days, world last 90 days — fix 2026-11-02), popularity order,
 // and last_2_days (never the retired today window) among the refreshes.
 const { execFileSync } = require('node:child_process');
 const selectorOut = JSON.parse(execFileSync(process.execPath,
@@ -411,12 +413,13 @@ const selectorOut = JSON.parse(execFileSync(process.execPath,
     todayPKT: today, todayIST: today, observedAt: '2026-10-30T06:00:00Z' }), encoding: 'utf8' }));
 assert(selectorOut.candidates.length > 0, 'selector emits candidates from the catalogue snapshot');
 for (const candidate of selectorOut.candidates) {
-  assert(candidate.release_date >= '2026-10-17' && candidate.release_date <= today,
-    'selector only researches titles released inside the last 14 days');
+  const windowStart = candidate.industry === 'world' ? '2026-08-01' : '2026-10-17';
+  assert(candidate.release_date >= windowStart && candidate.release_date <= today,
+    'selector only researches titles inside their bucket window (bollywood 14 days, world 90 days)');
   assert(!candidate.windows_to_refresh.includes('today'), 'selector never refreshes the retired today window');
   assert.deepEqual(Object.keys(candidate.local).sort(), ['cumulative_total', 'last_2_days', 'last_7_days'],
     'selector resolves exactly the three collected windows per title');
 }
 assert(selectorOut.candidates.some(c => c.windows_to_refresh.includes('last_2_days')),
   'selector emits last_2_days among the windows to refresh');
-console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; tracked daywise fallback covers windows with no verified figure; 14-day eligibility and 8-per-tab selection pass.');
+console.log('OTT fallback preserved; worldwide metrics require explicit reports or strict verified pairs; direct reports fail closed; tracked daywise fallback covers windows with no verified figure; per-bucket eligibility (bollywood 14d, world 90d) and 8-per-tab selection pass.');

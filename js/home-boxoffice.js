@@ -545,19 +545,28 @@
   }
   function candidatePools(catalog, daywise, worldwide, snapshot, todayPKT, todayIST, ui, rates, limit) {
     const cap = Number.isInteger(limit) && limit > 0 ? limit : 8;
-    const cutoff = shiftDate(todayPKT, -13); // exactly 14 calendar dates, including today
+    const cutoff = shiftDate(todayPKT, -13); // bollywood: exactly 14 calendar dates, including today
+    const worldCutoff = shiftDate(todayPKT, -89); // world: 90 calendar dates (below)
     const pools = { bollywood: [], world: [] };
     for (const x of Array.isArray(catalog) ? catalog : []) {
-      // Hard 14-day rule: only releases inside the 14-date window are
-      // eligible at all. A tab with fewer eligible titles shows fewer
-      // cards; older titles never backfill it.
+      // Bollywood keeps the hard 14-day rule: only releases inside the
+      // 14-date window are eligible at all, and older titles never
+      // backfill the tab. The WORLD bucket uses a 90-day window (fix
+      // 2026-11-02): world "releases" inside 14 days are mostly
+      // streaming drops with no reported grosses anywhere (the
+      // 2026-11-02 slate selected 8 such titles; the collector found
+      // exactly 1 candidate and 0 accepted figures), while genuine
+      // theatrical hits report worldwide totals for roughly 90 days.
+      // Popularity ranking decides the top 8 in both buckets, so the
+      // wider window admits the hits, not the catalogue.
       if (!x || x.id == null || !x.poster_path || (x.type || x.media_type || "movie") !== "movie"
-          || !validDate(x.release_date) || x.release_date > todayPKT || x.release_date < cutoff
+          || !validDate(x.release_date) || x.release_date > todayPKT
           || x.date_kind === "festival") continue;
       if (ui && typeof ui.isStreamingOnly === "function" && ui.isStreamingOnly(x)) continue;
       const kind = ui && typeof ui.industryOf === "function" ? ui.industryOf(x) : x.industry;
       const bucket = kind === "bollywood" ? "bollywood" : kind === "world" ? "world" : "";
       if (!bucket) continue;
+      if (x.release_date < (bucket === "world" ? worldCutoff : cutoff)) continue;
       pools[bucket].push({ item: x, id: String(x.id) });
     }
     for (const bucket of ["bollywood", "world"]) {
