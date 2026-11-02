@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T14:50:56Z",
-    "run_id": "41318179053",
-    "status": "success",
-    "checked": {
-     "candidates": 215,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Shraddha Kapoor's Eetha fetches whopping Rs 90 crore from PVR Inox for All-India distribution",
-      "Ramayana: Ranbir links Musk flying car to Pushpaka",
-      "In 2021, Kanye West bought his own Tadao Ando home, stripped it bare for a bunker, and now it's still under construction",
-      "Alexander Skarsgård’s Take On Shooting Sex Scenes For Wicker Sounds Rough",
-      "Universal's Blockbuster Thriller Prequel Officially Returns to Streaming",
-      "Florence Pugh and Andrew Garfield’s Tearjerker Is Officially a Prime Video Streaming Sensation",
-      "10 Sci-Fi Shows That Feel Completely Different After the Big Reveal",
-      "All 6 Seasons of 'Slow Horses,' Ranked",
-      "Kevin Costner's 'Taken' Replacement Officially Finds a New Streaming Home",
-      "Netflix Is Finally Streaming This Near-Perfect 6-Episode Cult Classic",
-      "One of the Greatest War Movies Was Released 28 Years Ago, and It's Streaming for Free",
-      "The 10 Greatest Sci-Fi Book Series With the Best World-Building",
-      "The Last Airbender's Successor Unlocks A Game-Changing New Power In Avatar: Seven Havens",
-      "Netflix's 6-Part Thriller With Near-Perfect Rotten Tomatoes Score Is One Of Its Best Spy Series",
-      "Syfy's 78-Episode Space Opera Is A Masterclass In How To Reboot A Franchise",
-      "Willy Wonka's New Netflix Movie Faces A Huge Recasting Challenge",
-      "Marvel Announces Official Name for Spider-Man's New Superpower",
-      "5 Letter Words Wordle Hasn't Used Yet (Updated Daily)",
-      "Ghosts Season 6's Official Cast Change Threatens To Expose Sam's Villainy",
-      "Pokémon Winds & Waves Release Date Leaked, Mark Your Calendars"
-     ],
-     "updated": [],
-     "count": 212,
-     "detail": "215 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T15:51:52Z",
     "run_id": "41323247518",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "357 stories, 0 duplicates removed, 13 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T15:55:06Z",
-    "run_id": "41323247518",
+    "run_at": "2026-11-02T13:51:36Z",
+    "run_id": "41456465679",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 267,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Director Michael Mann Hospitalized After Accidental Gun Range Shooting",
-      "Netflix Blockbuster Period Romance Wraps Production on Season 5"
+      "BMC removes Dia Mirza’s anti-cracker Diwali video after BJP's objection",
+      "Ajay Devgn faces new legal challenge over Vimal Elaichi notice as Maharashtra FDA asserts proceedings will continue",
+      "Imran Khan APOLOGIZES In Court; Gets Interim Relief After 'Leave India' Notice; 'I Shall Not Participate...'",
+      "Who Is Rimi Tomy's Husband-to-Be Libin Mathew? Singer Reveals Groom's Identity And Wedding Details",
+      "Box Office: Rajinikanth Needs Less Than 30 Crore To Beat Prabhas’ Post-COVID Worldwide Total",
+      "Box Office: Can Shah Rukh Khan Create History By Delivering His Third 500 Crore Net Grosser With King?",
+      "EXCLUSIVE: Shah Rukh Khan commands market like a KING, Pre Release Economics REVEALED",
+      "Aadarsha Kutumbam House No. 47 (AK 47) Opening Weekend India Box Office: Venkatesh starrer collects Rs 35.50 crore in three days",
+      "Jailer 2 (Hindi) Box Office: Rajinikanth starrer action drama collects Rs 3.75 in 3rd Weekend, targets under Rs 45 crore finish",
+      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's blockbuster film adds Rs 4 crore in 5th weekend, targets under Rs 370 crore closing",
+      "Udta Teer Box Office Collections: Ayushmann Khurrana and Sara Ali Khan's spy comedy collects Rs 11 crore in 2nd Weekend, nets Rs 41 crore in 10 days",
+      "Kriti Sanon Calls for Female Led Pathaan and Dhurandhar as Alpha's 99 Crore and Manikarnika's 142 Crore Raise Box Office Questions",
+      "Imran apologises as HC slams him for protests despite being an OCI card holder",
+      "Orry opens up about fallout with childhood friend Sara Ali Khan",
+      "Scam 2010 first look: Siddharth leads Hansal Mehta series",
+      "Diljit takes spiritual break in Rishikesh after Delhi concert, spends peaceful moments by Ganga",
+      "CBFC announces five new rules for film certification, incomplete films won't be accepted",
+      "Malayalam singer-actor Rimi Tomy to marry ‘not actor or millionaire’ but fitness trainer Libin Mathew 7 years after divorce",
+      "Ruler of kingdom: Kareena Kapoor confirms King song with SRK on his 61st birthday",
+      "I’m Impressed That Inde Navarrette Used An Obsession Reference To Dodge An X-Men Question"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 252,
+     "detail": "253 stories, 0 duplicates removed, 14 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1433,27 +1412,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T13:52:04Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "CBFC Introduces Strict New Guidelines for Film Certification and Examination",
+      "Black Bear Secures First UK and Ireland Box Office Crown as Wicker Debuts at Number One",
+      "Orry Opens Up About His Falling Out with Childhood Friend Sara Ali Khan",
+      "Call the Midwife Star Laura Main Discusses Her New Role and Connection to Queen Elizabeth II"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T16:52:17Z",
-    "run_id": "41328378882",
-    "status": "success",
-    "checked": {
-     "candidates": 183,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 178, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1867,30 +1851,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T13:52:04Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 182, coming 5"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T15:55:09Z",
-    "run_id": "41323247518",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "hjlfhk",
-      "1vufqij",
-      "1hoo3sq"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2312,27 +2293,30 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T14:37:41Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1ocwevb",
+      "14yewza",
+      "ged0uq"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T15:55:06Z",
-    "run_id": "41323247518",
-    "status": "success",
-    "checked": {
-     "candidates": 335,
-     "detail": "334 collected staging rows from readers; 120 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 331 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2746,19 +2730,27 @@
      "detail": "+0 new rows, 13 updated rows, 404 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T14:37:38Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 420,
+     "detail": "419 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 111,
+     "detail": "+2 new rows, 109 updated rows, 308 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3024,34 +3016,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T15:55:08Z",
-    "run_id": "41323247518",
-    "status": "success",
-    "checked": {
-     "candidates": 350,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Director Michael Mann Hospitalized After Accidental Gun Range Shooting",
-      "Netflix Blockbuster Period Romance Wraps Production on Season 5",
-      "Khushi Episode 50 — Watch Online on HUM TV",
-      "Uswah Episode 40 — Watch Online on Geo TV",
-      "Izzat Episode 43 — Watch Online on ARY Digital",
-      "Dastoor Episode 72 — Watch Online on Green TV"
-     ],
-     "updated": [],
-     "count": 6,
-     "detail": "api-news.json 350 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3527,19 +3504,32 @@
      "detail": "api-news.json 394 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T14:37:41Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 398,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Black Bear Secures First UK and Ireland Box Office Crown as Wicker Debuts at Number One",
+      "Call the Midwife Star Laura Main Discusses Her New Role and Connection to Queen Elizabeth II",
+      "Orry Opens Up About His Falling Out with Childhood Friend Sara Ali Khan",
+      "CBFC Introduces Strict New Guidelines for Film Certification and Examination"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 398 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3806,19 +3796,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T13:51:40Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 17,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 2 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4140,29 +4137,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T14:51:41Z",
-    "run_id": "41318179053",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 212 still unprocessed; today by category: movies 6/6, tv_dramas 4/4, episodes 1/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 3/4, ott_streaming 1/4, trailers 1/3, awards 3/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Pokemon Winds and Waves Release Date Leaked for Late 2027",
-      "Why The Six-Part Spy Thriller Bodyguard Remains A High Point On Netflix"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4616,19 +4603,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T13:52:03Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 252 still unprocessed; today by category: movies 9/6, tv_dramas 3/4, episodes 0/2, box_office 10/6, celebrities_events 9/5, upcoming_releases 3/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 2/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "CBFC Introduces Strict New Guidelines for Film Certification and Examination",
+      "Black Bear Secures First UK and Ireland Box Office Crown as Wicker Debuts at Number One",
+      "Orry Opens Up About His Falling Out with Childhood Friend Sara Ali Khan",
+      "Call the Midwife Star Laura Main Discusses Her New Role and Connection to Queen Elizabeth II"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4916,24 +4915,19 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 196,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5258,24 +5252,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 423,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5605,19 +5599,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5867,19 +5866,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6114,19 +6113,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6368,19 +6367,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6621,19 +6620,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6863,19 +6862,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T14:51:50Z",
-    "run_id": "41318179053",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7124,6 +7123,16 @@
     "category": "Trending News",
     "run_at": "2026-11-02T13:04:09Z",
     "run_id": "41447969012",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7531,6 +7540,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7568,8 +7587,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T13:04:09Z"
+ "updated_at": "2026-11-02T14:37:50Z"
 }

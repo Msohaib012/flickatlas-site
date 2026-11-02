@@ -35924,5 +35924,428 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 12:06:07 +0000"
+  },
+  "5pte2z": {
+    "id": "5pte2z",
+    "type": "news",
+    "headline": "CBFC Introduces Strict New Guidelines for Film Certification and Examination",
+    "dek": "The Central Board of Film Certification has issued a strict advisory outlining five key requirements, making it clear that incomplete projects will be rejected and release dates will not secure expedited reviews.",
+    "body": [
+      {
+        "h": "New Directives from the Censor Board",
+        "p": [
+          "The Central Board of Film Certification has formally rolled out a stringent framework of operational guidelines aimed at streamlining how films are examined. This regulatory shift arrives closely on the heels of the Ministry of Information and Broadcasting reconstituting the board with eighteen fresh members.",
+          "Under the newly published advisory, filmmakers seeking official clearance must strictly abide by five core mandates. These regulations apply directly to all applications filed under the provisions of the Cinematograph Act of 1952 alongside the updated Cinematograph Rules of 2024."
+        ]
+      },
+      {
+        "h": "Mandatory Completion of All Project Elements",
+        "p": [
+          "A primary mandate of the updated framework dictates that submitted prints must be entirely finished. Producers are no longer permitted to send in works-in-progress for board evaluation.",
+          "Every single technical and artistic component—spanning visual graphics, background scores, final sound mixes, and accessibility features intended for commercial theatrical exhibition—must be fully rendered before the application is formally lodged."
+        ]
+      },
+      {
+        "h": "Penalties for Submitting Unfinished Prints",
+        "p": [
+          "The regulatory body has explicitly cautioned creators that presenting incomplete drafts will cause administrative friction. Such submissions risk being categorized immediately as non-compliant.",
+          "Consequences for non-compliance include severe review delays, direct application rejections, or physical prints being returned entirely to the applicant without undergoing formal examination."
+        ]
+      },
+      {
+        "h": "Release Dates Do Not Influence Review Timelines",
+        "p": [
+          "Addressing common industry practices, the board clarified that publicizing a theatrical premiere date creates no obligation for expedited processing. Producers cannot leverage commercial deadlines to jump ahead in the evaluation queue.",
+          "The advisory firmly emphasizes that statutory evaluation must adhere strictly to established administrative procedures and timelines prescribed by law, regardless of any marketing calendars or advance ticket windows set up by studios."
+        ]
+      },
+      {
+        "h": "Title Approvals and Historical Precedents",
+        "p": [
+          "The board further reminded applicants that registering or announcing a working title publicly does not guarantee permanent approval. Filmmakers must remain flexible regarding potential mandatory title modifications.",
+          "Recent industry history highlights this recurring challenge, with multiple titles undergoing enforced or voluntary alterations prior to exhibition. Notable examples include 'Janaki vs State of Kerala', 'Maatrubhumi', and Manoj Bajpayee's feature previously titled 'Ghoshkar Pandit', which was subsequently changed to 'Gajab Raat'."
+        ]
+      },
+      {
+        "h": "Real-World Impact on High-Profile Releases",
+        "p": [
+          "The necessity for early submissions is underscored by recent high-profile delays across the industry landscape. Major cinematic ventures have frequently encountered severe scheduling setbacks due to clearance bottlenecks.",
+          "Prominent instances include Thalapathy Vijay's feature 'Jana Nayagan', which faced a six-month delay past its initial theatrical window, and Salman Khan's project 'Maatrubhumi', though representatives for the latter noted that their cut had not yet reached the board for inspection."
+        ]
+      },
+      {
+        "h": "Reconstitution of the Examining Board",
+        "p": [
+          "These regulatory adjustments coincide with a major administrative overhaul enacted by the Ministry of Information and Broadcasting. The overarching board was restructured for a three-year tenure, bringing in a diverse group of prominent industry figures.",
+          "The newly appointed panel features notable cinematic personalities including actors Pankaj Tripathi, Preity Zinta, Suniel Shetty, Prosenjit Chatterjee, Rupali Ganguly, Pallavi Joshi, and Manoj Joshi, alongside director Priyadarshan, composer Ricky Kej, Vinod Anupam, and Abhishek Jain."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Central Board of Film Certification has issued a strict advisory establishing five new rules that prohibit the examination of incomplete films and deny expedited reviews based on pre-announced release dates. These guidelines, operating under the Cinematograph Act of 1952 and Cinematograph Rules of 2024, follow the recent restructuring of the 18-member board by the Ministry of Information and Broadcasting.",
+          "Producers are now urged to factor standard timelines into their planning to avoid non-compliance issues similar to those previously experienced by titles like 'Jana Nayagan' and 'Maatrubhumi'."
+        ]
+      }
+    ],
+    "facts": [
+      "The Central Board of Film Certification introduced five new rules for film certification.",
+      "The Ministry of Information and Broadcasting reconstituted the board with 18 new members nearly two months before the advisory.",
+      "The advisory applies under the Cinematograph Act, 1952, and the Cinematograph Rules, 2024.",
+      "The board includes members Pankaj Tripathi, Preity Zinta, Suniel Shetty, Prosenjit Chatterjee, Rupali Ganguly, Pallavi Joshi, Manoj Joshi, Priyadarshan, Ricky Kej, Vinod Anupam, and Abhishek Jain for a three-year term.",
+      "Films facing title changes include 'Janaki vs State of Kerala', 'Maatrubhumi', and 'Ghoshkar Pandit' (renamed 'Gajab Raat').",
+      "Thalapathy Vijay's 'Jana Nayagan' experienced a certification wait nearly six months beyond its initial scheduled release date."
+    ],
+    "entities": {
+      "people": [
+        "Thalapathy Vijay",
+        "Salman Khan",
+        "Manoj Bajpayee",
+        "Pankaj Tripathi",
+        "Preity Zinta",
+        "Suniel Shetty",
+        "Prosenjit Chatterjee",
+        "Rupali Ganguly",
+        "Pallavi Joshi",
+        "Manoj Joshi",
+        "Priyadarshan",
+        "Ricky Kej",
+        "Vinod Anupam",
+        "Abhishek Jain"
+      ],
+      "titles": [
+        "Jana Nayagan",
+        "Maatrubhumi",
+        "Janaki vs State of Kerala",
+        "Ghoshkar Pandit",
+        "Gajab Raat"
+      ]
+    },
+    "keywords": [
+      "CBFC film certification rules",
+      "CBFC new guidelines incomplete films",
+      "Thalapathy Vijay Jana Nayagan certification",
+      "Salman Khan Maatrubhumi censor board"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135462292,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "CBFC Introduces Strict New Guidelines for Film Certification and Examination",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T18:04:10+05:30"
+  },
+  "hwozoh": {
+    "id": "hwozoh",
+    "type": "news",
+    "headline": "Black Bear Secures First UK and Ireland Box Office Crown as Wicker Debuts at Number One",
+    "dek": "The romantic fantasy Wicker claims the top spot during a Halloween-heavy box office weekend, while A24's Primetime launches strongly in third place.",
+    "body": [
+      {
+        "h": "Wicker Leads the Weekend Chart",
+        "p": [
+          "Black Bear achieved a milestone by capturing its first-ever number one position at the UK and Ireland box office. The romantic fantasy feature Wicker opened impressively, pulling in figures that easily outpaced the competition during the late October weekend session.",
+          "The film secured a strong opening haul supported by a solid site average across its numerous screening locations. When factoring in preview screenings, the overall total for the newly released title rose further."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team Behind the Winner",
+        "p": [
+          "Wicker brings together notable talent in front of and behind the camera. Olivia Colman and Alexander Skarsgard take on the leading roles in this imaginative project.",
+          "The narrative explores an unusual premise centered on a solitary fisherwoman who enlists a basket weaver to construct a husband for her. Directing duties for the feature were shared by Alex Hutson Fischer and Eleanor Wilson."
+        ]
+      },
+      {
+        "h": "Strong Debuts and Holdovers in the Top Five",
+        "p": [
+          "A24 made a notable impact on the charts with the arrival of Primetime, which opened in third place. Directed by Lance Oppenheim, the project features Robert Pattinson stepping into the role of former television host Chris Hansen.",
+          "Meanwhile, Lionsgate maintained a formidable presence with Ghosts: The Possession Of Button House. Benefiting directly from the Halloween holiday period, the horror comedy experienced a minimal drop in its second week, building substantially upon its cumulative earnings."
+        ]
+      },
+      {
+        "h": "Warner Bros and Animation Performance",
+        "p": [
+          "Warner Bros saw steady numbers from its comic-inspired villain story Clayface. The DC feature held its ground reasonably well during its second session, adding to its growing multi-million pound cume.",
+          "In the realm of animation, Laika Studios maintained a firm grip on the fifth position with Wildwood. Distributed by Black Bear, the animated feature managed to retain audience interest despite sliding slightly from its previous weekend placement."
+        ]
+      },
+      {
+        "h": "Halloween Weekend Horrors and Classics",
+        "p": [
+          "A variety of genre offerings capitalised on the holiday timing. Universal animated title Forgotten Island and Paramount release Streetfighter both continued their runs deep into their third weeks.",
+          "Specialized screenings also made waves, notably a 4K restoration of Ken Russell's classic 1971 feature The Devils, which achieved the highest screen average of the entire weekend across its select venues."
+        ]
+      },
+      {
+        "h": "Other Notable Chart Entries",
+        "p": [
+          "Studiocanal contributed to the diverse box office landscape with a re-release of Guillermo del Toro's acclaimed fantasy Pan's Labyrinth. At the same time, long-running titles such as Christopher Nolan's sprawling epic continued to pull in modest figures on their deep weekend sessions.",
+          "Independent and biographical projects also found modest space, including Metis Films' release of In The Shadows. Anthony Wonke directed this feature detailing the real-life journey of refugee Ramla Ali, who pursued boxing in secret to eventually claim championship status."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Black Bear secured its first number one position at the UK and Ireland box office as the romantic fantasy Wicker debuted at the top spot. Alongside this release, A24 launched Primetime in third place while various horror titles and holdovers capitalized on the Halloween holiday weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Wicker debuted with £1.7m at the UK and Ireland box office.",
+      "Wicker total including previews stands at £1.8m.",
+      "Primetime opened in third place with £1.3m.",
+      "Ghosts: The Possession Of Button House has a £6.3m cume.",
+      "Clayface is up to £4.7m.",
+      "Wildwood is up to £2.8m."
+    ],
+    "entities": {
+      "people": [
+        "Ellie Calnan",
+        "Olivia Colman",
+        "Alexander Skarsgard",
+        "Alex Hutson Fischer",
+        "Eleanor Wilson",
+        "Simon Hynd",
+        "Lance Oppenheim",
+        "Robert Pattinson",
+        "Chris Hansen",
+        "James Watkins",
+        "Ken Russell",
+        "Guillermo del Toro",
+        "Christopher Nolan",
+        "Jane Austen",
+        "Ashley Walters",
+        "Boots Riley",
+        "Aaron Sorkin",
+        "Taika Waititi",
+        "Jenna Ortega",
+        "Amy Adams",
+        "Anthony Wonke",
+        "Ramla Ali"
+      ],
+      "titles": [
+        "Wicker",
+        "Ghosts: The Possession Of Button House",
+        "Primetime",
+        "Clayface",
+        "Wildwood",
+        "Forgotten Island",
+        "Streetfighter",
+        "Shaun The Sheep: The Beast Of Mossy Bottom",
+        "Verity",
+        "Other Mommy",
+        "The Devils",
+        "Resident Evil",
+        "Heart Of The Beast",
+        "Pan's Labyrinth",
+        "The Odyssey",
+        "Tad And The Magic Lamp",
+        "Sense And Sensibility",
+        "Animol",
+        "I Love Boosters",
+        "The Social Reckoning",
+        "Klara And The Sun",
+        "In The Shadows"
+      ]
+    },
+    "keywords": [
+      "Wicker film box office",
+      "Primetime A24 movie",
+      "Ghosts The Possession Of Button House",
+      "UK Ireland box office Wicker"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/4/1491184_ukboxofficenov2_971609.jpg",
+        "caption": "Black Bear Secures First UK and Ireland Box Office Crown as Wicker Debuts at Number One",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 12:48:00 GMT"
+  },
+  "1novaen": {
+    "id": "1novaen",
+    "type": "news",
+    "headline": "Orry Opens Up About His Falling Out with Childhood Friend Sara Ali Khan",
+    "dek": "Internet personality Orhan Awatramani, widely known as Orry, recently discussed his decision to distance himself from Bollywood actress Sara Ali Khan, citing personal hurt and friction involving her mother.",
+    "body": [
+      {
+        "h": "A Public Revelation on Friendship",
+        "p": [
+          "Internet celebrity Orhan Awatramani, famously recognized as Orry, has openly discussed his strained relationship with Bollywood actress Sara Ali Khan. During a candid appearance on the talk show Double Date, hosted by Neha Dhupia and Angad Bedi, Orry addressed the complexities of genuine friendships and one-sided support in the public eye.",
+          "When questioned about the most prominent individual he had chosen to block, unfollow, or mute, Orry pointed directly toward Sara and her mother, Amrita Singh. His comments offered a rare glimpse into the private dynamics of celebrity circles, shedding light on the sudden rift between two long-time acquaintances."
+        ]
+      },
+      {
+        "h": "Roots in Childhood and College",
+        "p": [
+          "The connection between Orry and Sara Ali Khan dates back many years before either attained widespread fame. The two share a history as childhood companions and even attended college together, building a foundation of shared experiences long before stepping into the intense spotlight of the Bollywood industry.",
+          "Because of this deep-seated history, many followers assumed their bond was unbreakable. However, recent events proved that even longstanding relationships from educational years can fracture under the weight of misunderstandings and shifting personal boundaries."
+        ]
+      },
+      {
+        "h": "Standing By Sara Through Difficult Times",
+        "p": [
+          "During his interview, Orry emphasized that he had previously been a fiercely loyal friend to Sara, particularly during a tumultuous period in her life. He recalled being by her side in Goa while she was dealing with a high-profile legal case that commanded massive media attention.",
+          "Orry noted that numerous acquaintances and advisors explicitly urged him to cut ties with the actress during that stressful chapter. Despite those warnings, he chose to remain supportive, believing that true friendship required standing firm when times got tough."
+        ]
+      },
+      {
+        "h": "Friction Involving Amrita Singh",
+        "p": [
+          "The turning point in the friendship, however, involved Sara's mother, veteran actress Amrita Singh. Orry claimed that Amrita had scolded him and made critical remarks about him to other individuals within their social circle, a situation that left him deeply hurt.",
+          "The internet personality explained that maintaining a bond with Sara under those circumstances would imply tacit acceptance of her mother's actions. Without any apology offered for the remarks, Orry felt he had no choice but to sever ties and hit the unfollow button."
+        ]
+      },
+      {
+        "h": "Valuing Genuine Connections",
+        "p": [
+          "Elaborating on his philosophy of interpersonal relationships, Orry stressed that he places a high premium on sincerity and mutual respect. He stated that he has no interest in keeping up superficial facades for the sake of maintaining appearances in the industry.",
+          "He remarked on his public persona, acknowledging that while critics might view him as artificial or manufactured on the surface, his desire for authentic loyalty in private friendships remains unwavering. If a connection lacks sincerity, he prefers to walk away completely."
+        ]
+      },
+      {
+        "h": "Professional Backgrounds",
+        "p": [
+          "Orry rose to prominent internet fame primarily through his ubiquitous social media presence, unique aesthetic, and close proximity to numerous Bollywood A-listers. His ability to network with top stars has made him a recurring fixture in entertainment headlines.",
+          "Meanwhile, Sara Ali Khan continues to build her acting career in Hindi cinema. She was recently seen sharing the screen as the female lead alongside Ayushmann Khurrana in the comedy action drama film Udta Teer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Orhan Awatramani, known as Orry, explained on a talk show why he ended his long friendship with actress Sara Ali Khan. Citing a lack of apology regarding critical remarks made by Sara's mother, Amrita Singh, Orry chose to distance himself despite having previously supported Sara through a major legal case."
+        ]
+      }
+    ],
+    "facts": [
+      "Orhan Awatramani is known as Orry.",
+      "Sara Ali Khan and Orry were childhood friends and went to college together.",
+      "Orry appeared on Neha Dhupia and Angad Bedi’s show Double Date.",
+      "Sara Ali Khan starred alongside Ayushmann Khurrana in Udta Teer."
+    ],
+    "entities": {
+      "people": [
+        "Orhan Awatramani",
+        "Orry",
+        "Sara Ali Khan",
+        "Neha Dhupia",
+        "Angad Bedi",
+        "Amrita Singh",
+        "Ayushmann Khurrana"
+      ],
+      "titles": [
+        "Double Date",
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "Orry Sara Ali Khan friendship",
+      "Orhan Awatramani Double Date show",
+      "Sara Ali Khan mother Amrita Singh",
+      "Udta Teer actress Sara Ali Khan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135462489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Orry Opens Up About His Falling Out with Childhood Friend Sara Ali Khan",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-02T18:22:22+05:30"
+  },
+  "1j9j1mf": {
+    "id": "1j9j1mf",
+    "type": "news",
+    "headline": "Call the Midwife Star Laura Main Discusses Her New Role and Connection to Queen Elizabeth II",
+    "dek": "Actress Laura Main opens up about starring in the UK theatre tour of By Royal Appointment, portraying a royal dresser alongside Jane Asher as Queen Elizabeth II.",
+    "body": [
+      {
+        "h": "Stepping Away From Call the Midwife",
+        "p": [
+          "While the beloved BBC drama Call the Midwife is currently on a pause with no Christmas special in the works, fan-favourite actress Laura Main is keeping busy. Known for playing Shelagh Turner in the hit series, Main has transitioned to the stage for a demanding theatrical schedule.",
+          "Describing the experience as the most civilised theatre tour schedule she has ever encountered, Main has embraced the chance to connect directly with live audiences while balancing her television background."
+        ]
+      },
+      {
+        "h": "Exploring By Royal Appointment",
+        "p": [
+          "Main is starring in the UK tour of the play By Royal Appointment, which explores the unique relationship between the late Queen Elizabeth II and her dresser. The character played by Main serves as a loose amalgamation of real-life dressers, most notably Angela Kelly.",
+          "The theatrical production delves into how the monarch collaborated with her staff to curate her public image and project specific moods through her wardrobe over the later years of her reign."
+        ]
+      },
+      {
+        "h": "Jane Asher as the Monarch",
+        "p": [
+          "Veteran actress Jane Asher takes on the monumental role of Queen Elizabeth II in the production. Asher has noted that the play depicts the monarch around the age of 46, finding her footing and mastering her royal duties with immense confidence.",
+          "The script highlights how the Queen maintained her famous discretion regarding world matters while cleverly using bright colors, black, or muted tones to communicate her inner feelings and reactions to national hardships to her people."
+        ]
+      },
+      {
+        "h": "A Different Perspective on Royalty",
+        "p": [
+          "Written by Daisy Goodwin—the creator of the hit ITV drama Victoria—the play offers a backstage look at the British monarch. Goodwin drew from personal knowledge to craft a narrative that showcases the private moments behind the public facade.",
+          "Main pointed out that the audience gets to witness the Queen sharing her vulnerabilities and fears with her dresser, revealing a human side that was never visible to the general public during her lifetime."
+        ]
+      },
+      {
+        "h": "Drawing Parallels to Acting",
+        "p": [
+          "Reflecting on the nature of the role, Laura Main noted that preparing the royal image shares similarities with the craft of acting. She drew a personal comparison to her own fifteen-year tenure on Call the Midwife.",
+          "Main explained that putting on a specific costume has a transformative effect, helping both actors and historical figures feel confident and prepared to execute their professional duties."
+        ]
+      },
+      {
+        "h": "Tour Schedule and Future Venues",
+        "p": [
+          "The production of By Royal Appointment is currently touring venues across the United Kingdom and is scheduled to run until 6 February. The show follows an earlier, short run that took place in the summer of 2025.",
+          "Upcoming stops on the tour include the York Theatre Royal, His Majesty’s Theatre in Aberdeen, Chichester Festival Theatre, the Edinburgh Kings Theatre, and the Marlowe Theatre in Canterbury."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Call the Midwife star Laura Main is currently starring in the UK theatre tour of Daisy Goodwin's play By Royal Appointment alongside Jane Asher, who portrays Queen Elizabeth II. The production offers a backstage look at the relationship between the monarch and her dresser, exploring how the Queen used her clothing to communicate with the public."
+        ]
+      }
+    ],
+    "facts": [
+      "Laura Main is best known for playing Shelagh Turner in Call the Midwife.",
+      "By Royal Appointment is touring across the UK this winter.",
+      "Jane Asher stars as Queen Elizabeth II in the production.",
+      "The play is written by Daisy Goodwin, creator of Victoria.",
+      "The production runs until 6 February.",
+      "The first short tour took place in summer 2025 starring Anne Reid and Caroline Quentin."
+    ],
+    "entities": {
+      "people": [
+        "Laura Main",
+        "Jane Asher",
+        "Angela Kelly",
+        "Daisy Goodwin",
+        "Anne Reid",
+        "Caroline Quentin"
+      ],
+      "titles": [
+        "Call the Midwife",
+        "By Royal Appointment",
+        "Victoria"
+      ]
+    },
+    "keywords": [
+      "Laura Main By Royal Appointment",
+      "Jane Asher Queen Elizabeth II",
+      "Call the Midwife Laura Main",
+      "Daisy Goodwin play"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2023/11/Call-the-Midwife-Shelagh-ebea7de.jpg?resize=1200%2C630",
+        "caption": "Call the Midwife Star Laura Main Discusses Her New Role and Connection to Queen Elizabeth II",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 12:33:38 GMT"
   }
 };
