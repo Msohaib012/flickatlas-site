@@ -37268,5 +37268,411 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 15:23:21 +0000"
+  },
+  "qencqr": {
+    "id": "qencqr",
+    "type": "news",
+    "headline": "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
+    "dek": "Discover the latest voting trends, nominations, and secret room twists for week 10 of Bigg Boss Bangla 3 hosted by Sourav Ganguly.",
+    "body": [
+      {
+        "h": "House Drama and Recent Exits",
+        "p": [
+          "The latest week inside the Bigg Boss Bangla 3 house has delivered an intense wave of emotional drama and unexpected turns. Contestants experienced significant pressure as emotional moments unfolded, notably with Rajveer breaking down in tears.",
+          "Meanwhile, game dynamics shifted dramatically following Nandini's departure. Although she was seemingly removed from the main game, a secret room twist kept her journey alive away from the other housemates."
+        ]
+      },
+      {
+        "h": "Secret Room and Sourav Ganguly's Hosting",
+        "p": [
+          "Host Sourav Ganguly has continued to steer the reality show through major narrative shifts. During a recent Dada Darbar episode, he addressed the housemates and confirmed that Srijla and Tanushree were safe from elimination.",
+          "The episode also featured the dramatic reveal regarding Nandini. While the remaining contestants believed she was completely evicted, she was actually relocated to the secret room to watch over the house."
+        ]
+      },
+      {
+        "h": "Week 10 Nominations",
+        "p": [
+          "The competition intensified further as the nomination process for week 10 was set into motion. The channel and production house introduced new challenges designed to test the strategic wits of the remaining participants.",
+          "Four specific contestants found themselves trapped in the danger zone for the current week. Rajveer, Srijla, Ranieeta, and Tanushree were officially nominated for eviction by the makers of the reality show."
+        ]
+      },
+      {
+        "h": "Current Voting Trends and Standings",
+        "p": [
+          "Audience participation has commenced on JioHotstar as supporters cast their ballots to protect their favorites. Early voting indicators point toward specific frontrunners leading the pack.",
+          "According to ongoing trends, Rajveer and Srijla have captured a strong share of the audience support, putting them in a safer position compared to their fellow nominees."
+        ]
+      },
+      {
+        "h": "Danger Zone and Potential Elimination",
+        "p": [
+          "While some contestants are securing their places, others are struggling in the lower tiers of the vote counts. Tanushree and Ranieeta have fallen behind in the bottom two positions.",
+          "Current indicators suggest that Ranieeta faces a higher risk of being eliminated from the house. However, industry observers note that voting outcomes can fluctuate rapidly before the final announcement."
+        ]
+      },
+      {
+        "h": "Upcoming Results Announcement",
+        "p": [
+          "Viewers are awaiting the official verdict to see how the week's voting tallies will impact the contestants. Sourav Ganguly is scheduled to announce the final voting results on Sunday.",
+          "Fans tuning into the reality television series continue to monitor every update as the production team prepares more surprises for the audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Week 10 of Bigg Boss Bangla 3 brings fresh nominations featuring Rajveer, Srijla, Ranieeta, and Tanushree while Nandini stays hidden in a secret room. Host Sourav Ganguly oversees the proceedings as voting on JioHotstar determines who will ultimately face eviction."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss Bangla season 3 is hosted by Sourav Ganguly.",
+      "Nandini was sent to the secret room during the Dada Darbar episode.",
+      "Srijla and Tanushree were declared safe from elimination by Sourav Ganguly.",
+      "Rajveer, Srijla, Ranieeta, and Tanushree are nominated for week 10 eviction.",
+      "Voting lines for the current week are hosted on JioHotstar.",
+      "Rajveer and Srijla are currently leading in terms of votes.",
+      "Tanushree and Ranieeta are in the bottom two, with Ranieeta facing a higher risk of elimination.",
+      "Sourav Ganguly will announce the final voting results on Sunday."
+    ],
+    "entities": {
+      "people": [
+        "Rajveer",
+        "Srijla",
+        "Ranieeta",
+        "Tanushree",
+        "Nandini",
+        "Sourav Ganguly",
+        "Abhishek Ranjit"
+      ],
+      "titles": [
+        "Bigg Boss Bangla 3"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss Bangla 3",
+      "Sourav Ganguly",
+      "JioHotstar",
+      "Bigg Boss Bangla voting trends"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggbossbangla3votingtrendsweek10-39681793635378.jpg",
+        "caption": "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 21:49:56 +0530"
+  },
+  "7srbl7": {
+    "id": "7srbl7",
+    "type": "news",
+    "headline": "Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series",
+    "dek": "Comedian Druski is expanding his digital empire to Netflix through a comprehensive multi-year agreement with his production house, bringing fresh original programming starting this December.",
+    "body": [
+      {
+        "h": "The Partnership Announcement",
+        "p": [
+          "Comedian Druski has secured a major new home for his comedic talents following a multi-year content partnership with Netflix. Collaborating through his production banner, 4LIFERS Entertainment, the deal grants the streaming giant exclusive rights to develop brand-new original comedy shows.",
+          "This strategic agreement marks a significant transition for the internet personality as he scales his distinct style of humor from digital platforms to a dedicated global subscription service."
+        ]
+      },
+      {
+        "h": "First Project Details",
+        "p": [
+          "The creative collaboration launches with a semi-scripted comedy series titled Collect Praise, which is scheduled to premiere on December 1. In this upcoming production, Druski steps into the starring role of a greedy megachurch pastor navigating a series of scandals and outrageous controversies.",
+          "He is joined by Mike Epps, who takes on the supporting role of an unpredictable church deacon. The series successfully adapts the comedian's popular viral megachurch persona into a full-scale television endeavor."
+        ]
+      },
+      {
+        "h": "Promotional Video Highlights",
+        "p": [
+          "To promote the upcoming launch, Netflix released a promotional video offering a humorous, behind-the-scenes mock setup of the show's production process. The clip follows the star managing various creative elements, including examining customized facial prosthetic molds and evaluating skin tone options.",
+          "The chaotic preview also features several unusual vignettes, including a dramatic pregnancy sequence and a sudden interruption involving a character shouting about the ATF. The teaser concludes with a media scrum questioning the comedian about his future plans."
+        ]
+      },
+      {
+        "h": "Catalog Licensing and Future Plans",
+        "p": [
+          "Beyond the initial premiere of Collect Praise, the multi-year pact encompasses the creation of multiple original properties for the service. Additionally, the platform will license selected titles from the creator's existing body of work.",
+          "Included in this catalog licensing arrangement are projects such as Coulda Been Love, Coulda Been Daddy, Coulda Been Records Auditions, and a collection of his well-known comedy sketches."
+        ]
+      },
+      {
+        "h": "Executive Response",
+        "p": [
+          "John Derderian, Netflix’s Vice President of Next Gen Content, formally welcomed the performer to the platform and commended his unique abilities. Derderian noted that the creator possesses a distinct talent for developing unforgettable characters that generate widespread public discussion.",
+          "The executive further emphasized that the upcoming semi-scripted series serves merely as the foundational stepping stone for a long and expansive creative partnership."
+        ]
+      },
+      {
+        "h": "Career Milestones",
+        "p": [
+          "The streaming agreement arrives on the heels of numerous major professional accolades and career milestones. In the year 2026, Rolling Stone recognized him as the top entry on its Most Influential Creator List, while Complex named him the funniest person on the internet across two consecutive years.",
+          "Furthermore, he recently achieved the distinction of becoming the youngest host of the BET Awards and secured a prominent feature on the cover of TIME’s TIME100 Next issue."
+        ]
+      },
+      {
+        "h": "Upcoming Television Appearances",
+        "p": [
+          "In addition to his streaming developments, the comedian has another high-profile television engagement scheduled shortly. He is set to take on hosting duties for Saturday Night Live on November 7.",
+          "These consecutive television milestones highlight his rapid ascent across traditional broadcast networks and major digital subscription platforms alike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Comedian Druski and his production company 4LIFERS Entertainment have entered a multi-year partnership with Netflix to produce original comedy programming. The collaboration kicks off with the semi-scripted series Collect Praise on December 1, alongside the licensing of his previous comedy catalog.",
+          "This development follows a series of major career accolades for the comedian, who is also scheduled to host Saturday Night Live."
+        ]
+      }
+    ],
+    "facts": [
+      "Druski signed a multi-year deal with Netflix through his production company 4LIFERS Entertainment.",
+      "The first show under the deal is a semi-scripted comedy series titled Collect Praise, premiering on December 1.",
+      "Mike Epps co-stars in Collect Praise as an unpredictable deacon.",
+      "Netflix will license existing titles including Coulda Been Love, Coulda Been Daddy, Coulda Been Records Auditions, and comedy sketches.",
+      "John Derderian is Netflix's VP of Next Gen Content.",
+      "Rolling Stone named Druski No. 1 on its Most Influential Creator List in 2026.",
+      "Complex named him the funniest person on the internet for two consecutive years.",
+      "He became the youngest host of the BET Awards and appeared on the cover of TIME’s TIME100 Next issue.",
+      "He is scheduled to host Saturday Night Live on November 7."
+    ],
+    "entities": {
+      "people": [
+        "Druski",
+        "Mike Epps",
+        "John Derderian",
+        "Surya Singh"
+      ],
+      "titles": [
+        "Collect Praise",
+        "Coulda Been Love",
+        "Coulda Been Daddy",
+        "Coulda Been Records Auditions",
+        "Saturday Night Live"
+      ]
+    },
+    "keywords": [
+      "Druski Netflix deal",
+      "Collect Praise release date",
+      "Druski 4LIFERS Entertainment",
+      "Druski Saturday Night Live"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/druski.jpg?resize=1200,630",
+        "caption": "Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 16:47:54 +0000"
+  },
+  "jbhipl": {
+    "id": "jbhipl",
+    "type": "news",
+    "headline": "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
+    "dek": "Netflix has announced the release date and cast details for the upcoming Brazilian romantic comedy series Valentina and the 12 Signs, starring Giovanna Grigio and based on the novel by Ray Tavares.",
+    "body": [
+      {
+        "h": "Introduction to Valentina and the 12 Signs",
+        "p": [
+          "Netflix is expanding its international catalog with an upcoming Brazilian romantic comedy series titled Valentina and the 12 Signs. Scheduled to launch in late 2026, the project brings an astrological twist to the romantic comedy genre, following a protagonist who decides to date systematically through every sign of the zodiac.",
+          "The series adapts the popular literary work Os 12 Signos de Valentina, written by Ray Tavares. Fans of contemporary romantic fiction and streaming television can look forward to seeing how the source material translates to the screen when the show makes its global streaming debut."
+        ]
+      },
+      {
+        "h": "Release Date and Platform Details",
+        "p": [
+          "Streaming giant Netflix has officially confirmed that Valentina and the 12 Signs will premiere globally on November 18, 2026. As a Netflix Original production, the series will be accessible to subscribers worldwide.",
+          "Ahead of the premiere, Netflix Brasil has offered early glimpses into the project, including releasing the official trailer on YouTube to build anticipation among international audiences and fans of Brazilian television."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story centers on Valentina, a young woman who suffers a painful betrayal by her romantic partner. Blaming the failure of the relationship entirely on astrological incompatibility, she maps out a methodical plan for retaliation.",
+          "Her mission involves going on dates with one man from each of the twelve zodiac signs while broadcasting her detailed experiences and reviews on a livestream. However, her carefully calculated revenge hits an unexpected snag when she falls deeply in love with a man who possesses no astrological sign at all."
+        ]
+      },
+      {
+        "h": "Cast and Character Highlights",
+        "p": [
+          "Giovanna Grigio takes on the lead role of Valentina. The actress is well-known to streaming audiences for her previous work in Netflix's popular teen-Mexican drama series Rebelde, where she portrayed the character Emília Alo.",
+          "Grigio's television credits also include Young Hearts, As Five, Por Você, and The Good Side of Life, establishing her as a prominent young talent in television drama and comedy."
+        ]
+      },
+      {
+        "h": "Expanded Ensemble Cast",
+        "p": [
+          "Alongside Grigio, Valentina and the 12 Signs features a diverse supporting cast of notable Brazilian actors. The ensemble includes Jessica Marques, known for Insubmissas, and Manu Morelli from The Endless Night.",
+          "Rounding out the main cast are Larissa Bocchino from Criminal Code, Lucas Leto from An Unforgettable Year: Autumn, Pedro Ottoni from Toda Família Tem, Suzana Pires from Casa Grande, Ana Hikari from Body by Beth, and José Condessa from Turn of the Tide."
+        ]
+      },
+      {
+        "h": "Production Team and Episode Count",
+        "p": [
+          "Behind the scenes, the series is brought to life by a talented creative team. Author Ray Tavares co-wrote the script alongside Bia Crespo, ensuring the adaptation stays true to the spirit of the original novel.",
+          "The project is directed by Carol Durão and produced by Tiago Mello under the banner of Boutique Filmes. Viewers tuning into the first season can expect a total run of eight episodes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has scheduled the premiere of the Brazilian romantic comedy series Valentina and the 12 Signs for November 18, 2026. Starring Giovanna Grigio and based on Ray Tavares's novel, the eight-episode show follows a livestreaming protagonist who dates across all zodiac signs before falling for an unsignpped man."
+        ]
+      }
+    ],
+    "facts": [
+      "Valentina and the 12 Signs releases on Netflix on November 18, 2026",
+      "Giovanna Grigio stars as Valentina",
+      "The series is adapted from Ray Tavares's novel Os 12 Signos de Valentina",
+      "Ray Tavares co-wrote the script with Bia Crespo",
+      "Carol Durão is the director",
+      "Tiago Mello produces the series under Boutique Filmes",
+      "The series will have eight episodes"
+    ],
+    "entities": {
+      "people": [
+        "Giovanna Grigio",
+        "Ray Tavares",
+        "Bia Crespo",
+        "Carol Durão",
+        "Tiago Mello",
+        "Jessica Marques",
+        "Manu Morelli",
+        "Larissa Bocchino",
+        "Lucas Leto",
+        "Pedro Ottoni",
+        "Suzana Pires",
+        "Ana Hikari",
+        "José Condessa"
+      ],
+      "titles": [
+        "Valentina and the 12 Signs",
+        "Os 12 Signos de Valentina",
+        "Rebelde",
+        "Young Hearts",
+        "As Five",
+        "Por Você",
+        "The Good Side of Life",
+        "Insubmissas",
+        "The Endless Night",
+        "Criminal Code",
+        "An Unforgettable Year: Autumn",
+        "Toda Família Tem",
+        "Casa Grande",
+        "Body by Beth",
+        "Turn of the Tide"
+      ]
+    },
+    "keywords": [
+      "Valentina and the 12 Signs",
+      "Giovanna Grigio Valentina and the 12 Signs",
+      "Ray Tavares Os 12 Signos de Valentina",
+      "Valentina and the 12 Signs release date",
+      "Netflix Brazilian romance series Valentina"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/valentina-and-the-12-signs-netflix-preview.jpg",
+        "caption": "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 16:23:11 +0000"
+  },
+  "dtavu9": {
+    "id": "dtavu9",
+    "type": "news",
+    "headline": "Ramayana US Premiere Advance Tops 51K Tickets Surpassing Baahubali 2",
+    "dek": "Namit Malhotra's upcoming mythological epic Ramayana: Part One has crossed 51,000 tickets for its US premiere, leaving behind major blockbusters and eyeing Dhurandhar 2's benchmark.",
+    "body": [
+      {
+        "h": "North American Advance Booking Surge",
+        "p": [
+          "The advance-booking phase for Namit Malhotra's Ramayana: Part One in North America has reached a pivotal juncture. The mythological epic is currently closing in on the final major ticket sales benchmark for its US premiere.",
+          "Sales have crossed 51,000 tickets for the upcoming paid previews scheduled for November 4. This momentum puts the movie just under 1,000 tickets away from matching the benchmark set by Dhurandhar 2."
+        ]
+      },
+      {
+        "h": "Leaving Previous Blockbusters Behind",
+        "p": [
+          "In the lead-up to this milestone, the production steadily outpaced the estimated premiere ticket sales of several major Indian blockbusters. Previous reference points cleared by the film include Animal, Jawan, Pushpa 2, and Pathaan.",
+          "The upward trajectory also saw the title move past the estimated premiere benchmarks associated with RRR, Baahubali 2, and Kalki 2898 AD over recent days."
+        ]
+      },
+      {
+        "h": "Rapid Growth in Ticket Tally",
+        "p": [
+          "The speed of the advance sales has caught the attention of industry trackers. Just a few days prior, on October 30, reports indicated the tally stood around 37,000 premiere tickets, having just surpassed RRR.",
+          "Within a span of three days, the total surged by nearly 40 percent. This dramatic increase propelled the film past both Baahubali 2 and Kalki 2898 AD benchmarks."
+        ]
+      },
+      {
+        "h": "The Dhurandhar 2 Benchmark",
+        "p": [
+          "Despite clearing seven major reference levels, the film faces its toughest remaining comparison in Dhurandhar 2. That Ranveer Singh blockbuster secured an extended North American opening of approximately $14 million.",
+          "Surpassing the ticket benchmark used for that film does not automatically guarantee breaking the actual opening gross record, but it places the project within striking distance of elite international debut figures."
+        ]
+      },
+      {
+        "h": "Projections and Potential Openings",
+        "p": [
+          "Current booking trends point toward an estimated five-day North American opening landing between $13 million and $14 million. Analysts note this is an indicative projection derived from early conversion patterns.",
+          "The ultimate success of these projections will depend on whether the feature can sustain its booking momentum past the initial preview screenings scheduled for Wednesday."
+        ]
+      },
+      {
+        "h": "Distribution of Advance Sales",
+        "p": [
+          "Data regarding the 1.40 lakh total tickets booked across the November 4 to November 8 opening period reveals distinct viewing patterns. Approximately 37 percent of these sales are concentrated strictly on preview night.",
+          "Combined figures for preview night and Thursday currently outweigh the entire Friday-to-Sunday weekend period, pointing to intense early demand among overseas audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has sold over 51,000 tickets for its US premieres, surpassing seven major Indian blockbusters including Baahubali 2. It now sits just under 1,000 tickets away from the benchmark set by Dhurandhar 2 as it heads toward its theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana US premiere advance bookings topped 51,000 tickets.",
+      "US paid previews are scheduled for November 4, 2026.",
+      "The theatrical release is set for November 5, 2026.",
+      "Over 1.40 lakh tickets have been booked across the November 4-8 US opening period.",
+      "Dhurandhar 2 generated around $14 million during its extended North American opening."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Baahubali 2",
+        "Dhurandhar 2",
+        "Animal",
+        "Jawan",
+        "Pushpa 2",
+        "Pathaan",
+        "RRR",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana US premiere tickets",
+      "Ramayana Part One advance booking",
+      "Ramayana Baahubali 2 comparison",
+      "Ramayana North America opening"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028325.jpg",
+        "caption": "Ramayana US Premiere Advance Tops 51K Tickets Surpassing Baahubali 2",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 16:08:32 +0000"
   }
 };

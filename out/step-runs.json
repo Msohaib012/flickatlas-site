@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T17:51:40Z",
-    "run_id": "41333519636",
-    "status": "success",
-    "checked": {
-     "candidates": 283,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "King Box Office: Shah Rukh Khan Eyes History With Another Potential 100 Crore Worldwide Opener!",
-      "'You'll die from eating sambhar everyday': Pony's family warned her before marrying Prakash",
-      "‘He Went Off On Me Like Kelly Clarkson In a Toy Store.’ What Happened After Trump Dropped That Super Long Rant",
-      "‘Zootopia 3’ Will Officially Expand the Franchise in a New Direction",
-      "Jennifer Lawrence’s R-Rated 'Black Widow' Replacement Officially Debuts on HBO Max",
-      "The 6 Best Superhero Movies of 2019, Ranked",
-      "Most Likely to...? With the Cast of Hunger Games: Sunrise on the Reaping!",
-      "Forget ‘Hacks,’ This 2-Season Dark Comedy Is So Good, You’ll Finish It in a Day",
-      "Forget 'Game of Thrones,' Prime Video’s New Fantasy Series Is Ready To Be a Streaming Hit",
-      "Daniel Radcliffe’s Magic Movie Streams on Peacock Today, But It’s Not Harry Potter",
-      "Watch: Long Lost Animated 'Escape from Jurassic Park' Series Teaser",
-      "Layton Matthews' 'McConadilla' Strange Puppet Horror Comedy Trailer",
-      "Disney's New Remake of Its $592M Classic Is Officially Making a Big Change From the Original",
-      "Sylvester Stallone's 113-Minute Action Thriller Cult Classic Officially Hits Netflix Ahead of New Reboot",
-      "Hideo Kojima Officially Reviews DC's Clayface Movie",
-      "One Piece's Monster Trio Is Back In A Big Way And The Series Will Never Be The Same",
-      "Riftbound Is Still One Of The Best Multiplayer TCGs Around As Of Set 5",
-      "Reacher Season 5 Is Officially Switching Villains",
-      "9 Best Thrillers Of The Past 10 Years",
-      "Original Harry Potter Star Gives Warning To His HBO Replacement: \"Hope You Get More Than 1.5 Seconds\""
-     ],
-     "updated": [],
-     "count": 267,
-     "detail": "277 stories, 0 duplicates removed, 6 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T18:51:05Z",
     "run_id": "41338669355",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "313 stories, 1 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T17:52:57Z",
-    "run_id": "41333519636",
+    "run_at": "2026-11-02T16:51:53Z",
+    "run_id": "41485392623",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 376,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Diljit Dosanjh Delhi Concert Row: Khalistani Plot Foiled by Delhi Police",
-      "Colin Farrell Offers Rare Family Glimpse and Discusses Disability Advocacy"
+      "Bigg Boss Bangla 3 Voting Trends: Rajveer, Srijla, Ranieeta, Tanushree- Who Will Get HIGHEST Votes?",
+      "Rise And Fall 2 Ticket To Finale Task: Jashwanth REFUSES To Let Past With Karan Affect Game- What Happened?",
+      "Ramayana US Premiere Advance Tops 51K Tickets Surpassing Baahubali 2 as Dhurandhar 2 Benchmark Is Under 1000 Tickets Away",
+      "Ranbir compares Elon Musk's flying car to Pushpak Viman: 'India did it 5000 years back'",
+      "Kareena Kapoor Khan teases a special surprise with Shah Rukh Khan for ‘King’",
+      "Rashmika Mandanna’s ‘Mysaa’ first single ‘O Mysaa Re’ celebrates rage and feminine power",
+      "Farah Khan gives a glimpse of her luxurious Mumbai home and designer bag collection worth over Rs 40 lakh",
+      "‘I am relieved’: Kareena Kapoor celebrates the end of Karan Johar’s Koffee With Karan",
+      "‘Ajith offered to play the father in Badhaai Ho remake’: Adhik Ravichandran",
+      "Namit Malhotra mortgaged home to start Rs 7 lakh VFX firm, now backing Rs 4,000 cr Ramayana",
+      "Karthi says Suriya-Jyotika’s vow renewal triggered chaos in Kollywood: ‘Many didn’t get food’",
+      "‘One person was speaking in five voices’: Shamna Kasim recalls 2020 matrimonial fraud case",
+      "CBFC tightens certification rules: Release dates won’t expedite clearance, titles may change",
+      "‘It’s a matter of public health’: Dia Mirza on BMC removing anti-cracker video amid BJP objection",
+      "CM Vijay releases Rs 15.68 crore film subsidy for 224 Tamil producers; funds pending since 2015",
+      "‘Jailer 2 could have crossed Rs 1,200 cr’: Distributor on why Rajinikanth film won’t enter Rs 1000-cr club",
+      "‘I want to be a star’: Shah Rukh Khan rejected ‘intellectual films’ early in his career",
+      "Disagreement among Hanuman Ansh makers as film earns Rs 450 cr, public notice issued",
+      "Rimi Tomy announces second marriage 6 years after divorce: ‘He is not a millionaire’",
+      "‘Are you married or not?’: Bigg Boss 20 host Salman Khan confronts Qazi Touqeer over marriage"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 352,
+     "detail": "363 stories, 1 duplicates removed, 13 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1442,27 +1421,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T16:52:21Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
+      "Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series",
+      "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
+      "Ramayana US Premiere Advance Tops 51K Tickets Surpassing Baahubali 2"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T19:52:06Z",
-    "run_id": "41343771682",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1876,26 +1860,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T17:52:59Z",
-    "run_id": "41333519636",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T16:52:22Z",
+    "run_id": "41485392623",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2319,27 +2304,30 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T17:00:24Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1ocwevb",
+      "180qnq9",
+      "14yewza"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T17:52:57Z",
-    "run_id": "41333519636",
-    "status": "success",
-    "checked": {
-     "candidates": 386,
-     "detail": "385 collected staging rows from readers; 122 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 382 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2753,19 +2741,27 @@
      "detail": "+0 new rows, 3 updated rows, 416 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T17:00:21Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": {
+     "candidates": 420,
+     "detail": "419 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 408 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3031,32 +3027,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T17:52:58Z",
-    "run_id": "41333519636",
-    "status": "success",
-    "checked": {
-     "candidates": 356,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Diljit Dosanjh Delhi Concert Row: Khalistani Plot Foiled by Delhi Police",
-      "Colin Farrell Offers Rare Family Glimpse and Discusses Disability Advocacy",
-      "Zehar-e-Mohabbat Episode 22 — Watch Online on HUM TV",
-      "Mohabbat Mukhtasir Episode 6 — Watch Online on HUM TV"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 356 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3543,32 +3526,32 @@
      "detail": "api-news.json 410 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T17:52:41Z",
-    "run_id": "41333519636",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T17:00:24Z",
+    "run_id": "41485392623",
     "status": "success",
     "checked": {
-     "candidates": 17,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 4 new detected"
+     "candidates": 414,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Zehar-e-Mohabbat Ep 22",
-      "Mohabbat Mukhtasir Ep 6"
+      "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
+      "Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series",
+      "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
+      "Ramayana US Premiere Advance Tops 51K Tickets Surpassing Baahubali 2"
      ],
-     "updated": [
-      "Mohabbat Mukhtasir Ep 6",
-      "Zehar-e-Mohabbat Ep 22"
-     ],
-     "count": 4
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 414 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3829,19 +3812,19 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4163,29 +4146,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T17:52:57Z",
-    "run_id": "41333519636",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 267 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 1/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 3/4, trailers 1/3, awards 3/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Diljit Dosanjh Delhi Concert Row: Khalistani Plot Foiled by Delhi Police",
-      "Colin Farrell Offers Rare Family Glimpse and Discusses Disability Advocacy"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4645,19 +4618,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T16:52:21Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 352 still unprocessed; today by category: movies 9/6, tv_dramas 5/4, episodes 1/2, box_office 12/6, celebrities_events 11/5, upcoming_releases 3/4, ott_streaming 5/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
+      "Comedian Druski Signs Major Multi-Year Netflix Deal and Announces New Comedy Series",
+      "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
+      "Ramayana US Premiere Advance Tops 51K Tickets Surpassing Baahubali 2"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4956,24 +4941,31 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T16:55:08Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": {
+     "candidates": 32,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "Jailer 2 (1234139)",
+      "Drishyam: The Conclusion (1269325)",
+      "Udta Teer (1375156)"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 258,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5298,24 +5290,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 406,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5645,19 +5637,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5907,19 +5904,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6154,19 +6151,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6408,19 +6405,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6661,19 +6658,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6903,19 +6900,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7168,6 +7165,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7351,19 +7358,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-02T16:53:02Z",
+    "run_id": "41485392623",
+    "status": "success",
+    "checked": {
+     "candidates": 308,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 27; attempt cooldown deferred: 281"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-01T17:53:06Z",
-    "run_id": "41333519636",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7598,6 +7612,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7665,8 +7689,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-02T15:59:13Z"
+ "updated_at": "2026-11-02T17:00:38Z"
 }
