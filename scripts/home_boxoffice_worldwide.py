@@ -80,6 +80,11 @@ SEARCH_BUDGET = 16
 # cooldown rotates the budget across windows over the day: cumulative first,
 # then last_7_days, then last_2_days.
 SEARCH_COOLDOWN_HOURS = 24
+# Owner order 2026-11-03: a title whose figure has NEVER been accepted
+# retries on the shorter 6h cooldown instead, so a missing box is retried
+# at every gated round of the day instead of once a day. Titles that
+# already hold an accepted report keep the 24h cooldown above.
+SEARCH_COOLDOWN_HOURS_MISSING = 6
 WINDOW_LABELS = {
     "today": "today's worldwide theatrical gross",
     "last_2_days": "the worldwide theatrical gross for the last 2 calendar days",
@@ -890,9 +895,14 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
         ts = _parse_log_ts(value)
         if ts is not None and (now - ts) < dt.timedelta(days=7):
             search_log[str(key)] = value
+    _accepted_reports = previous.get("reports") if isinstance(previous.get("reports"), dict) else {}
     def _searched_recently(key: str) -> bool:
         ts = _parse_log_ts(raw_log.get(key))
-        return ts is not None and (now - ts) < dt.timedelta(hours=SEARCH_COOLDOWN_HOURS)
+        if ts is None:
+            return False
+        title_id = key.split(":", 1)[0]
+        hours = SEARCH_COOLDOWN_HOURS if title_id in _accepted_reports else SEARCH_COOLDOWN_HOURS_MISSING
+        return (now - ts) < dt.timedelta(hours=hours)
     if gemini_fn is None:
         get_keys, call = _gemini_helpers()
         keys = get_keys()

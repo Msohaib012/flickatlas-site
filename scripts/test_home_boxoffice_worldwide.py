@@ -279,6 +279,34 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertEqual(len(writes[0]["search_log"]), bo.SEARCH_BUDGET,
                          "every executed search is recorded for the cooldown")
 
+    def test_search_cooldown_missing_figure_retries_after_6h(self):
+        # Owner order 2026-11-03: titles with no accepted report use the 6h
+        # cooldown; titles holding a report keep 24h.
+        now = dt.datetime(2026, 10, 30, 9, 0, tzinfo=dt.timezone.utc)
+        candidates = [{"id": "2001", "title": "Film A", "industry": "world",
+                       "windows_to_refresh": ["cumulative_total"]},
+                      {"id": "2002", "title": "Film B", "industry": "world",
+                       "windows_to_refresh": ["cumulative_total"]}]
+        manifest = {"selections": {"bollywood": [], "world": ["2001", "2002"]},
+                    "candidates": candidates}
+        queries, writes = [], []
+        def fake_tavily(query):
+            queries.append(query)
+            return []
+        previous = {"schema_version": 1,
+                    "reports": {"2002": {"cumulative_total": {"amount": 1000}}},
+                    "selections": {"bollywood": [], "world": []},
+                    "search_log": {"2001:cumulative_total": "2026-10-30T02:00:00Z",
+                                   "2002:cumulative_total": "2026-10-30T02:00:00Z"}}
+        with patch.dict(os.environ, {"TAVILY_API_KEY": "test-key", "CLOUDFLARE_API_TOKEN": "test-token"}), \
+             patch.object(bo, "run_selector", return_value=manifest):
+            summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=lambda prompt: {"reviews": []},
+                kv_read=lambda: previous, kv_write=writes.append, now=now)
+        self.assertEqual(summary["cooldown_skips"], 1,
+                         "only the title WITH an accepted report is still on the 24h cooldown at 7h")
+        self.assertEqual(len(queries), 1,
+                         "the never-accepted title is re-searched once its 6h cooldown expires")
+
     def test_search_cooldown_skips_windows_searched_within_24h(self):
         now = dt.datetime(2026, 10, 30, 9, 0, tzinfo=dt.timezone.utc)
         candidates = [{"id": "2001", "title": "Film A", "industry": "bollywood",
