@@ -599,6 +599,7 @@
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 57.0,
               "overseas-backfill": 57.0
             },
             "value": 6022187
@@ -1160,6 +1161,7 @@
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 43.0,
               "overseas-backfill": 43.0
             },
             "value": 4543053
@@ -1212,15 +1214,16 @@
             "value": 54.2
           },
           "overseas": {
-            "crore": 50.0,
+            "crore": 51.0,
             "currency": "USD",
             "date": "2026-10-17",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
+              "overseas-ai": 52.0,
               "overseas-backfill": 50.0
             },
-            "value": 5282620
+            "value": 5388273
           },
           "shows": {
             "sources": {
@@ -4146,16 +4149,16 @@
             "value": 12.7
           },
           "overseas": {
-            "crore": 1.38,
+            "crore": 1.5,
             "currency": "USD",
             "date": "2026-10-23",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
-              "overseas-ai": 1.25,
+              "overseas-ai": 1.5,
               "overseas-backfill": 1.5
             },
-            "value": 145800
+            "value": 158479
           },
           "shows": {
             "sources": {
@@ -4297,16 +4300,16 @@
             "value": 21.4
           },
           "overseas": {
-            "crore": 1.88,
+            "crore": 2.25,
             "currency": "USD",
             "date": "2026-10-24",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
-              "overseas-ai": 1.5,
+              "overseas-ai": 2.25,
               "overseas-backfill": 2.25
             },
-            "value": 198627
+            "value": 237718
           },
           "shows": {
             "sources": {
@@ -4355,16 +4358,16 @@
             "value": 24.4
           },
           "overseas": {
-            "crore": 1.88,
+            "crore": 2.0,
             "currency": "USD",
             "date": "2026-10-25",
             "date_disagreed": false,
             "scope": "overseas_gross",
             "sources": {
-              "overseas-ai": 1.75,
+              "overseas-ai": 2.0,
               "overseas-backfill": 2.0
             },
-            "value": 198627
+            "value": 211305
           },
           "shows": {
             "sources": {

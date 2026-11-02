@@ -39867,5 +39867,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T21:51:24Z"
+  },
+  "1t1js7w": {
+    "id": "1t1js7w",
+    "type": "news",
+    "headline": "Shanaya Kapoor Celebrates Birthday with Spooky Halloween Theme Alongside Suhana Khan and Ananya Panday",
+    "dek": "Shanaya Kapoor celebrated her birthday with a unique Halloween twist, joined by close friends Suhana Khan, Ananya Panday, and family members dressed entirely in black.",
+    "body": [
+      {
+        "h": "A Spooky Birthday Celebration",
+        "p": [
+          "Shanaya Kapoor marked her special day with an atmospheric Halloween-themed gathering that brought together her closest circle of friends and family. Although Halloween fell on the preceding night, the festive and spooky energy remained remarkably high at her residence.",
+          "The gathering combined the eerie excitement of the holiday with personal birthday celebrations, creating a vibrant and memorable evening for everyone involved."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest List",
+        "p": [
+          "Among the prominent attendees were close friends Suhana Khan and Ananya Panday, who stepped out to show their support and celebrate the occasion. Their presence added to the excitement of the evening.",
+          "In addition to her celebrity friends, Shanaya's parents and other close relatives were present, ensuring the celebration felt grand and deeply personal."
+        ]
+      },
+      {
+        "h": "Strict Black Dress Code",
+        "p": [
+          "Embracing the mystic and spooky atmosphere of the theme, all guests and family members adhered to a strict black dress code. The matching wardrobe choice enhanced the visual appeal of the night.",
+          "The sea of black outfits complemented the eerie decor and contributed to a visually striking ambiance throughout the celebration."
+        ]
+      },
+      {
+        "h": "Anticipation for Student Of The Year: After Dark",
+        "p": [
+          "The birthday bash comes at an exciting juncture in Shanaya Kapoor's career, with just a few weeks remaining until the release of her upcoming project, Student Of The Year: After Dark.",
+          "The double celebration of her birthday and the impending release of her film has amplified excitement among her fans and peers alike."
+        ]
+      },
+      {
+        "h": "Capturing the Memories",
+        "p": [
+          "A fourteen-photo gallery from the event captured the highlights of the mystic night, showcasing the camaraderie between Shanaya, Suhana, and Ananya.",
+          "The shared moments provided fans with a glimpse into the joyful festivities and the close bonds shared within this young Bollywood peer group."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shanaya Kapoor celebrated her birthday with a Halloween-themed party attended by Suhana Khan, Ananya Panday, and her family, all dressed in black. The celebration arrives shortly before the release of her upcoming project, Student Of The Year: After Dark."
+        ]
+      }
+    ],
+    "facts": [
+      "Shanaya Kapoor celebrated her birthday with a Halloween theme.",
+      "Suhana Khan and Ananya Panday attended the birthday celebration.",
+      "The party took place at Shanaya Kapoor's house.",
+      "Guests followed a dress code of wearing black.",
+      "Student Of The Year: After Dark is scheduled for release in a few weeks.",
+      "The event photos were published on November 2, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shanaya Kapoor",
+        "Suhana Khan",
+        "Ananya Panday",
+        "Siddharth Thampi"
+      ],
+      "titles": [
+        "Student Of The Year: After Dark"
+      ]
+    },
+    "keywords": [
+      "Shanaya Kapoor birthday",
+      "Student Of The Year After Dark",
+      "Suhana Khan Ananya Panday",
+      "Shanaya Kapoor Halloween"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shanayakapoorsooo1793617484.jpg",
+        "caption": "Shanaya Kapoor Celebrates Birthday with Spooky Halloween Theme Alongside Suhana Khan and Ananya Panday",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-02T20:02:47+05:30"
+  },
+  "awyhob": {
+    "id": "awyhob",
+    "type": "news",
+    "headline": "Official US Trailer Released for Hong Kong Esports Action Film Gamer Girls",
+    "dek": "Film Movement unveils the official US trailer for Gamer Girls, an action-packed fantasy thriller directed by Veronica Bassetto and Sophie Yang.",
+    "body": [
+      {
+        "h": "First Look at Gamer Girls",
+        "p": [
+          "Film Movement has officially revealed the US trailer for Gamer Girls, a Hong Kong fantasy action thriller centering on a group of female competitive gamers. The film highlights a high-stakes narrative filled with visual effects and intense competition.",
+          "The project showcases an all-female esports team determined to prove their abilities in a male-dominated arena while simultaneously fighting against social stereotypes."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story follows five members of a previously disbanded all-female esports team known as Dollhouse. Characters Summer, Raven, Kaki, Lilith, and Miko decide to reunite under a new banner called Gamer Girls.",
+          "To facilitate their training and host tournaments, the group transforms a local Hong Kong cha chaan teng into an improvised gaming hub. However, their progress faces a major threat right before official team selections due to a sweeping account suspension by the gaming authority."
+        ]
+      },
+      {
+        "h": "Cast and Characters",
+        "p": [
+          "The film features a talented ensemble cast bringing the gaming team to life. Angela Yuen stars as Summer, alongside Alma Kwok as Lilith and Sabrina Cheung as Raven.",
+          "Rounding out the core group of competitors are Wing-Sze Ng as Kaki and Jeannie Ka-Yan Ng as Miko, with additional appearances by CY Chan and others."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "Gamer Girls marks the feature film directorial debut for both Veronica Bassetto and Sophie Yang. In addition to co-directing, Veronica Bassetto also penned the screenplay.",
+          "The production is credited to producer Jacqueline Liu and was brought to life by the production company Stay Hungry Keep Foolish Limited."
+        ]
+      },
+      {
+        "h": "Festival Run and Release",
+        "p": [
+          "The movie first premiered at the Hong Kong Asian Film Festival in 2025. It later screened at the Rotterdam Film Festival before opening theatrically in Hong Kong in March.",
+          "Following its international festival run, Film Movement is set to release Gamer Girls direct-to-VOD in the United States starting on November 11th, 2026."
+        ]
+      },
+      {
+        "h": "Cultural Blend and Themes",
+        "p": [
+          "The film merges high-stakes competitive gaming and virtual fantasy worlds with traditional elements of local Hong Kong culture. It balances interpersonal drama with flashy action sequences.",
+          "At its core, the narrative functions as an impassioned thrill ride centered on friendship, ambition, and the pursuit of dreams against significant logistical and political hurdles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Film Movement has released the official US trailer for the Hong Kong fantasy action thriller Gamer Girls, directed by Veronica Bassetto and Sophie Yang. The film follows a disbanded all-female esports team fighting to overcome obstacles and official suspensions ahead of its November 11th US VOD release."
+        ]
+      }
+    ],
+    "facts": [
+      "Film Movement revealed the official US trailer for Gamer Girls on November 2, 2026.",
+      "Gamer Girls is a Hong Kong fantasy action thriller directed by Veronica Bassetto and Sophie Yang.",
+      "The film debuted at the 2025 Hong Kong Asian Film Festival and played at the 2026 Rotterdam Film Festival.",
+      "The movie opens direct-to-VOD in the US on November 11, 2026.",
+      "The cast includes Angela Yuen, Alma Kwok, Sabrina Cheung, Wing-Sze Ng, Jeannie Ka-Yan Ng, and CY Chan."
+    ],
+    "entities": {
+      "people": [
+        "Alex Billington",
+        "Veronica Bassetto",
+        "Sophie Yang",
+        "Angela Yuen",
+        "Alma Kwok",
+        "Sabrina Cheung",
+        "Wing-Sze Ng",
+        "Jeannie Ka-Yan Ng",
+        "CY Chan",
+        "Jacqueline Liu"
+      ],
+      "titles": [
+        "Gamer Girls",
+        "Dollhouse"
+      ]
+    },
+    "keywords": [
+      "Gamer Girls film",
+      "Veronica Bassetto Sophie Yang",
+      "Gamer Girls trailer",
+      "Film Movement Gamer Girls"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/gamergirlspostermainimgbigtw1.jpg",
+        "caption": "Official US Trailer Released for Hong Kong Esports Action Film Gamer Girls",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 22:07:02 +0000"
+  },
+  "sicupf": {
+    "id": "sicupf",
+    "type": "news",
+    "headline": "Bombay High Court Grants Dynamic Injunction to Protect 'Ramayana' From Copyright Infringement",
+    "dek": "The Bombay High Court has issued a dynamic ad-interim injunction to safeguard the high-budget film 'Ramayana: Rise of a Legend' from unauthorized recording, streaming, and copyright violations ahead of its global release.",
+    "body": [
+      {
+        "h": "The Court Order and Judicial Action",
+        "p": [
+          "The Bombay High Court issued a dynamic ad-interim injunction on Monday to protect the highly anticipated feature film 'Ramayana: Rise of a Legend' from rampant copyright violations. Justice Madhav Jamdar presided over the suit, which was officially filed by Godpower Media Private Limited after the company secured the domestic and territorial intellectual property exploitation rights for the project.",
+          "The judicial intervention aims to preemptively halt any unauthorized recording, hosting, streaming, or digital distribution of the feature film. By employing a dynamic injunction format, the court has established a framework that allows swift legal action against unidentified 'John Doe' entities attempting to leak or distribute protected footage ahead of the movie's worldwide theatrical premiere."
+        ]
+      },
+      {
+        "h": "Scope of Protection for Intellectual Property",
+        "p": [
+          "The lawsuit filed by Godpower Media Private Limited sought comprehensive legal shielding for multiple core creative components of the production. This protective coverage extends specifically to the underlying script, character designs, raw visual footage, original lyrical compositions, and audio recordings.",
+          "During the legal proceedings, Justice Jamdar highlighted the legitimate and well-founded concerns raised by the copyright holders. The court formally acknowledged the high probability that malicious actors would attempt to capture portions of the feature and communicate them unlawfully to the general public across various online channels."
+        ]
+      },
+      {
+        "h": "Massive Production Budget and Pre-Release Leaks",
+        "p": [
+          "During the court hearings, startling figures regarding the financial scale of the production were officially placed on record. Legal representatives revealed that Part One of 'Ramayana' was produced at an estimated cost of Rs 2,000 Crore, while the combined financial commitment for the entire two-part cinematic saga totals Rs 4,000 Crore.",
+          "Despite stringent non-disclosure agreements and confidentiality obligations enforced during exclusive, invite-only preview screenings, representatives for Godpower disclosed that both official trailers had already been secretly recorded and circulated across various digital platforms without authorization."
+        ]
+      },
+      {
+        "h": "Directives for Internet Service Providers and Intermediaries",
+        "p": [
+          "The dynamic injunction structure grants immediate authority to target infringers whose exact identities remain unknown while proceedings are underway. Additionally, the judicial directive mandates that internet service providers and prominent social media intermediaries must block or remove infringing links and mirror websites promptly upon receipt of formal written notice.",
+          "The court instructed Godpower Media Private Limited to compile and share specific URLs containing unauthorized copies of the film with the respective internet service providers and digital platforms. These organizations are legally obligated to execute immediate steps to disable access to the offending content."
+        ]
+      },
+      {
+        "h": "Cooperation from Digital Giants",
+        "p": [
+          "Counsel representing Google LLC and other major global social media intermediaries appeared during the hearing and formally recorded a 'no objection' stance regarding the issued injunction. Furthermore, the legal representatives for these tech platforms assured the bench that their organizations would act promptly upon being notified of offending links.",
+          "The active cooperation of digital intermediaries is viewed as a vital component in enforcing the court order effectively, ensuring that mirror sites and illegal uploads are neutralized before gaining viral traction on the internet."
+        ]
+      },
+      {
+        "h": "Upcoming Schedule and Theatrical Release Details",
+        "p": [
+          "With the preliminary injunction successfully secured, the Bombay High Court has scheduled the next hearing for the matter on December 16. This timeline allows the legal teams to monitor compliance and address any further enforcement challenges that may arise following the initial rollout.",
+          "The judicial order arrives just ahead of the film's highly anticipated global theatrical premiere on November 5. Directed by Nitesh Tiwari, 'Ramayana' features a prominent star cast including Ranbir Kapoor, Sai Pallavi, and Yash in lead roles, and is slated for a wide, multi-language release across India."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Bombay High Court has granted a dynamic injunction to safeguard the upcoming multi-language film 'Ramayana: Rise of a Legend' from copyright infringement and unauthorized streaming. Presided over by Justice Madhav Jamdar, the order requires internet service providers and digital intermediaries like Google LLC to swiftly block illicit links and protect the high-budget cinematic project ahead of its global theatrical debut."
+        ]
+      }
+    ],
+    "facts": [
+      "The Bombay High Court granted a dynamic ad-interim injunction on Monday.",
+      "Justice Madhav Jamdar passed the interim order in a suit filed by Godpower Media Private Limited.",
+      "Part One of 'Ramayana' was produced at a cost of Rs 2,000 Crore.",
+      "The combined budget for the two-part saga amounts to Rs 4,000 Crore.",
+      "Google LLC and global social media intermediaries recorded 'no objection' to the order.",
+      "The matter is scheduled to be heard next on December 16.",
+      "The film's global release is scheduled for November 5.",
+      "'Ramayana' is directed by Nitesh Tiwari.",
+      "The film stars Ranbir Kapoor, Sai Pallavi, and Yash in lead roles."
+    ],
+    "entities": {
+      "people": [
+        "Madhav Jamdar",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana : Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Bombay High Court Ramayana",
+      "Ramayana film copyright injunction",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135474604,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bombay High Court Grants Dynamic Injunction to Protect 'Ramayana' From Copyright Infringement",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T03:32:08+05:30"
+  },
+  "whbcl": {
+    "id": "whbcl",
+    "type": "news",
+    "headline": "All's Fair Season 2 Episode Release Schedule Revealed for Hulu Legal Drama",
+    "dek": "Kim Kardashian returns as divorce attorney Allura Grant in Season 2 of the Hulu legal drama All's Fair, featuring an eight-episode run and a brand-new Wednesday release schedule.",
+    "body": [
+      {
+        "h": "Introduction to Season 2",
+        "p": [
+          "The popular Hulu legal drama All's Fair is officially returning for its second season, bringing back its star-studded cast and high-stakes courtroom drama. Fans have eagerly awaited updates regarding when new chapters of the show would drop, and the official release schedule has now been fully revealed. Kim Kardashian leads the ensemble once again, slipping back into her character for a fresh batch of episodes that promise plenty of professional turmoil and personal conflict.",
+          "Arriving roughly a year after the premiere of the first season, this new chapter shifts things up slightly for viewers. While the inaugural run aired new episodes on Tuesdays, the second season makes a notable calendar shift to a Wednesday release model. The transition brings a fresh rhythm for audiences tuning into the legal firm's daily trials and tribulations."
+        ]
+      },
+      {
+        "h": "Cast and Returning Favorites",
+        "p": [
+          "Kim Kardashian reprises her prominent role as divorce attorney Allura Grant, driving the central narrative of the firm. She is joined by an acclaimed ensemble of returning cast members who helped define the show's initial success. Viewers can look forward to seeing Naomi Watts, Niecy Nash-Betts, Sarah Paulson, Glenn Close, and Teyana Taylor back in action.",
+          "In addition to the returning favorites, the upcoming season introduces fresh faces to expand the dramatic landscape. Cauã Reymond joins the core cast as a new series regular, while a lineup of notable guest stars—including Denise Richards, Margo Martindale, Dorinda Medley, and Nyle DiMarco—will make appearances throughout the season."
+        ]
+      },
+      {
+        "h": "Plot and Storyline Direction",
+        "p": [
+          "The narrative of Season 2 centers heavily on the women working at the law firm of Grant, Ronson Greene. As new professional alliances are forged, unexpected personal conflicts begin to bubble to the surface, threatening the very future of the firm they have worked so hard to build.",
+          "The interpersonal dynamics within the office will be tested like never before, giving the star-studded cast plenty of dramatic material to work with. With high-profile divorces and internal power struggles intertwining, the upcoming episodes are set to maintain the intense pacing that fans enjoyed during the first season."
+        ]
+      },
+      {
+        "h": "Episode Count and Premiere Details",
+        "p": [
+          "Season 2 consists of a total of eight episodes, kicking off in a major way on Wednesday, November 4. To give viewers a strong start, the platform is dropping the first three episodes simultaneously on premiere day.",
+          "The opening trio of episodes includes Episode 1 titled \"The Scorpio Ball,\" Episode 2 titled \"Going Down,\" and Episode 3 titled \"Thanksgiving Part One.\" Following the premiere event, single episodes will roll out weekly on Wednesdays."
+        ]
+      },
+      {
+        "h": "Full Release Schedule and Finale Date",
+        "p": [
+          "Following the three-episode premiere on November 4, Episode 4 arrives on November 11, followed by Episode 5 on November 18, and Episode 6 on November 25. The season is slated to wrap up in early December.",
+          "According to the announced schedule, the final episodes conclude on December 2 with Episode 7 and Episode 8, which is marked as the season finale. Based on the lineup, the final two installments are expected to arrive on the same day."
+        ]
+      },
+      {
+        "h": "Streaming Platforms and Watch Options",
+        "p": [
+          "For viewers in the United States, Season 2 will stream exclusively on Hulu. Additionally, eligible subscribers can access the show through the integrated Hulu on Disney+ platform.",
+          "For those who want to refresh their memory or catch up on the backstory before diving into the new episodes, all nine episodes of Season 1 remain fully available to stream on the platform."
+        ]
+      },
+      {
+        "h": "Recent Promotional Events",
+        "p": [
+          "Ahead of the official premiere, the star power behind the show has been hard at work generating excitement. Kim Kardashian and her co-stars traveled to Mexico City just days ago to actively promote the upcoming second season.",
+          "Fans have also been treated to promotional photos from the trip alongside the official Season 2 trailer, giving audiences a sneak peek at the drama waiting for them when the show returns on Wednesday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "All's Fair returns to Hulu for its second season on Wednesday, November 4, shifting from its previous Tuesday release schedule to Wednesdays. Starring Kim Kardashian alongside Naomi Watts, Sarah Paulson, and Glenn Close, the eight-episode season debuts with its first three episodes before wrapping up with the finale on December 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 2 of All's Fair premieres on November 4, 2026.",
+      "Season 2 consists of eight episodes.",
+      "The season finale is set to air on December 2, 2026.",
+      "Kim Kardashian stars as divorce attorney Allura Grant.",
+      "New episodes release on Wednesdays at 12 a.m. PT / 3 a.m. ET."
+    ],
+    "entities": {
+      "people": [
+        "Kim Kardashian",
+        "Naomi Watts",
+        "Niecy Nash-Betts",
+        "Sarah Paulson",
+        "Glenn Close",
+        "Teyana Taylor",
+        "Cauã Reymond",
+        "Denise Richards",
+        "Margo Martindale",
+        "Dorinda Medley",
+        "Nyle DiMarco"
+      ],
+      "titles": [
+        "All's Fair"
+      ]
+    },
+    "keywords": [
+      "All's Fair Season 2",
+      "Kim Kardashian Hulu show",
+      "All's Fair release schedule",
+      "Allura Grant divorce attorney"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/10/alls-fair-trailer.jpg",
+        "caption": "All's Fair Season 2 Episode Release Schedule Revealed for Hulu Legal Drama",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 21:59:36 +0000"
   }
 };
