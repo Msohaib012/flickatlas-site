@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T19:51:37Z",
-    "run_id": "41343771682",
-    "status": "success",
-    "checked": {
-     "candidates": 312,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Filmibeat TripTales: Planning A Diwali Holiday? Ranveer-Deepika Have A Special Recommendation For THIS City",
-      "Can Flats Be Festive? Rakul Preet Singh Makes Strong Case For Comfortable Footwear- WATCH",
-      "Chad Lowe lists $3.2 million home for sale weeks after daughter Fiona’s death",
-      "10 Best Children & Family Movies on Netflix Right Now",
-      "6 Pulitzer Prize-Winning Books That Became Great Movies",
-      "10 Greatest Fantasy Books of All Time, Ranked by Goodreads",
-      "Jake Gyllenhaal’s 124-Minute Sci-Fi Blockbuster Officially Takes Over Netflix",
-      "The Mosquito Bowl: 15 Football Players Died Months Later | Collider BTS",
-      "These Are Officially the 8 Best Miniseries Ever Made",
-      "The ’80s Classic That Inspired ‘Stranger Things’ Officially Dominates Streaming Charts",
-      "Massive Sheriff Country Crossover Event & More Paramount+ Releases This Week",
-      "19 Years Later, the 'Stargate SG-1' Franchise Officially Returns With New Release",
-      "Steven Spielberg Beat Taylor Sheridan at His Own Game With a 6-Part Western Series You Can Binge in One Night",
-      "New Hogwarts Legacy Replacement Officially Arrives In 2027",
-      "The Lincoln Lawyer Season 6 Update Puts The Ball Fully In Netflix's Court",
-      "Next James Bond: Mystery Fourth Audition Contenders Ranked, Including Tom Holland",
-      "All 13 American Horror Story Seasons & The TV Shows They're Most Like",
-      "Former James Bond Actor Wants The Franchise \"Reinvented\" Amid Amazon's Casting Battle",
-      "After 88 Years, Superman Just Changed Which Power He Discovered First",
-      "Best High Potential Replacement Officially Will No Longer Return In 2026"
-     ],
-     "updated": [],
-     "count": 210,
-     "detail": "213 stories, 0 duplicates removed, 99 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-01T20:50:55Z",
     "run_id": "41348909869",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "404 stories, 5 duplicates removed, 139 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-01T19:52:06Z",
-    "run_id": "41343771682",
+    "run_at": "2026-11-02T18:45:14Z",
+    "run_id": "41503369442",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 494,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Meet The 'Gen Z Baba': Vrindavan Spiritual Speaker Goes Viral For Resembling Stranger Things Star Finn Wolfhard",
-      "Ram Charan and Sukumar Reunite for RC17 as Chiranjeevi Launches the Film"
+      "EXCLUSIVE! Ganga Mai Ki Betiyan Fame Rohin Joshi On Lessons From Shah Rukh Khan's Journey: Success Doesn't...",
+      "Where The Mask Ends Episodes 28-30 Release Time: Early Access To The Finale? When & Where To Watch LAST Eps?",
+      "Shah Rukh Khan Birthday EXCLUSIVE! Arjun Bijlani Calls SRK His Inspiration: He's An Emotion For...",
+      "EXCL! What Drew Jaimin Bal To The Salacity? Director Credits Farah Khan For Shaping His Filmmaking Journey",
+      "The Lament Of Autumn Vs Overdo: Same Hype, Different Fate! One Republican Cdrama Won, The Other Failed; WHY?",
+      "Industry Watch: Trade Experts Expect Ramayana to Brave Pre-Diwali Slump with Record Opening Day",
+      "Juhi Chawla wishes 'King for the World' Shah Rukh Khan on his 61st birthday",
+      "Anurag Kashyap fails to appear despite summonses; court issues bailable warrant against him",
+      "Farah Khan gives first glimpse of her seven-bedroom Mumbai home with a private pool",
+      "Bombay High Court protects Ranbir Kapoor and Yash's mega-budget Ramayana from illegal uploads, piracy and streaming",
+      "Jailer 2 box office collection day 19: Rajinikanth's action entertainer witnesses sharp 70% dip on 3rd Monday after strong weekend, crosses  ₹459 crore",
+      "The Ravana fascination: Why Yash could become Ramayana's biggest talking point",
+      "Actor Shah Rukh Khan Greets Admirers at Mannat in Mumbai on His Birthday",
+      "How Meghan Markle’s Businesses Are (Allegedly) Being Impacted By Allegations Against Her Father",
+      "Baywatch Newbie Brooks Nader Reveals Advice She Got From Carmen Electra (That Was Spot On)",
+      "Madelaine Petsch And Camila Mendes' 'Real Housewives Of Bedrock' Flintstones Fits Won Halloween For Me",
+      "Fans Aren’t Sure If A Survivor 51 Castaway Is Getting A Winner’s Edit Or Being Set Up For Heartbreak",
+      "I'm Worried One Dancing With The Stars Contestant Will Go Home On Disney Night Because Of Their Song Choice",
+      "Win Free Tickets to Our Early LA and NYC Screenings of Venice Winner 'Straight Circle' With Director Q&A",
+      "The 6 Best Neo-Noirs Released Since 2010, Ranked"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 473,
+     "detail": "482 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1446,27 +1425,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:46:00Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Crosses ₹459 Crore Following Third Weekend",
+      "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
+      "Where The Mask Ends Finale Release: How And When To Watch Episodes 28-30",
+      "Skinny Sneakers Make a Major Comeback With Retro Styles and Great Deals"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-01T21:22:24Z",
-    "run_id": "41351563567",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1880,26 +1864,27 @@
      "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-01T19:56:50Z",
-    "run_id": "41343771682",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-02T18:46:00Z",
+    "run_id": "41503369442",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 182, coming 5"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2324,27 +2309,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:52:06Z",
-    "run_id": "41343771682",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-02T18:53:26Z",
+    "run_id": "41503369442",
     "status": "success",
     "checked": {
-     "candidates": 386,
-     "detail": "385 collected staging rows from readers; 122 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 382 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2758,55 +2742,27 @@
      "detail": "+0 new rows, 9 updated rows, 410 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:52:37Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": {
+     "candidates": 420,
+     "detail": "419 collected staging rows from readers; 165 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 415 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-01T19:56:49Z",
-    "run_id": "41343771682",
-    "status": "success",
-    "checked": {
-     "candidates": 330,
-     "detail": "released movies without a review; Tavily searches: 60"
-    },
-    "changed": {
-     "added": [
-      "A Story of Derry (1813355)",
-      "AMINETU (1652389)",
-      "Adopting St. Nick (1773374)",
-      "Barbie in the Nutcracker (1760311)",
-      "Chainsaw Man - The Movie: Reze Arc (1218925)",
-      "Drawn Together (1440098)",
-      "Facing El Chapo (1621552)",
-      "GOAT (1297842)",
-      "How to Train Your Dragon (1087192)",
-      "Jhaad Phoonk (1813349)",
-      "K3 Superhelden (1796321)",
-      "KPop Demon Hunters (803796)",
-      "Love Story Abhimanyu Ki (1813677)",
-      "Masters of the Universe (454639)",
-      "Predator: Badlands (1242898)",
-      "SCTV: The Greatest Show You've Never Heard Of (1756307)",
-      "Shelter (1290821)",
-      "Sight & Sound Presents: JOSHUA—Live! (1733243)",
-      "Snow White (447273)",
-      "The Decay (1803692)",
-      "The Fantastic 4: First Steps (617126)",
-      "The Invite (950028)",
-      "The Last Sunrise (1516698)",
-      "The Sheep Detectives (1301421)",
-      "The Wrecking Crew (1168190)",
-      "Thunderbolts* (986056)",
-      "War Machine (1265609)",
-      "Weapons (1078605)"
-     ],
-     "updated": [],
-     "count": 28
-    },
-    "reason": null
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3036,30 +2992,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:56:50Z",
-    "run_id": "41343771682",
-    "status": "success",
-    "checked": {
-     "candidates": 360,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Meet The 'Gen Z Baba': Vrindavan Spiritual Speaker Goes Viral For Resembling Stranger Things Star Finn Wolfhard",
-      "Ram Charan and Sukumar Reunite for RC17 as Chiranjeevi Launches the Film"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 360 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3553,26 +3498,32 @@
      "detail": "api-news.json 421 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:53:25Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": {
+     "candidates": 425,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Crosses ₹459 Crore Following Third Weekend",
+      "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
+      "Where The Mask Ends Finale Release: How And When To Watch Episodes 28-30",
+      "Skinny Sneakers Make a Major Comeback With Retro Styles and Great Deals"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 425 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-01T19:51:41Z",
-    "run_id": "41343771682",
-    "status": "success",
-    "checked": {
-     "candidates": 17,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 2 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3841,19 +3792,19 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4129,29 +4080,64 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:52:05Z",
-    "run_id": "41343771682",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T18:45:37Z",
+    "run_id": "41503369442",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 210 still unprocessed; today by category: movies 7/6, tv_dramas 5/4, episodes 1/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 4/4, trailers 2/3, awards 3/2, music_ost 1/2, viral 1/2"
+     "candidates": 516,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 37,
+      "pk_movies": 19
+     },
+     "picked": 20,
+     "skipped": 1,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Meet The 'Gen Z Baba': Vrindavan Spiritual Speaker Goes Viral For Resembling Stranger Things Star Finn Wolfhard",
-      "Ram Charan and Sukumar Reunite for RC17 as Chiranjeevi Launches the Film"
+      "The SAS (741533)",
+      "The Cat in the Hat (1117898)",
+      "Stellar Romance (1796751)",
+      "Philly Pretzels (1797215)",
+      "Connection Lost (1794828)",
+      "Paging Hezbollah (1756268)",
+      "Algo Más Para Decir (1793964)",
+      "Origin Story (1801940)",
+      "Cecilia,  una luz de mañana (1784105)",
+      "Unsafe (1685339)",
+      "Three Little Pigs (1782975)",
+      "Everest: The Other Side (1603262)",
+      "Pickpockets (1775236)",
+      "Vecinos de hormigón (1811114)",
+      "Allowed to Birth: The Journey of a Global Midwife (1773656)",
+      "The Sea Speaks His Name (1590723)",
+      "Folded dreams (1768753)",
+      "The Blood Countess (1251608)",
+      "The Bully Club (1767217)"
      ],
      "updated": [],
-     "count": 2
+     "count": 19
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4615,19 +4601,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:45:59Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 473 still unprocessed; today by category: movies 9/6, tv_dramas 7/4, episodes 1/2, box_office 13/6, celebrities_events 14/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Crosses ₹459 Crore Following Third Weekend",
+      "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
+      "Where The Mask Ends Finale Release: How And When To Watch Episodes 28-30",
+      "Skinny Sneakers Make a Major Comeback With Retro Styles and Great Deals"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4926,24 +4924,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:48:09Z",
+    "run_id": "41503369442",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 32,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 189,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5268,24 +5268,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 396,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5615,19 +5615,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 24,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5872,19 +5877,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 80,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6119,19 +6129,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6373,19 +6383,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6626,19 +6636,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6868,19 +6878,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7133,6 +7143,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7333,19 +7353,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:46:00Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": {
+     "candidates": 308,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 0; attempt cooldown deferred: 308"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-01T19:56:59Z",
-    "run_id": "41343771682",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7580,6 +7607,21 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 88,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
@@ -7667,8 +7709,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11524,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-02T18:03:16Z"
+ "updated_at": "2026-11-02T18:53:36Z"
 }

@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-02T18:03:16Z",
+  "generated": "2026-11-02T18:53:35Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 17,
-    "pageviews": 137,
-    "sessions": 27,
-    "avg_session_seconds": 332.8
+    "users": 18,
+    "pageviews": 149,
+    "sessions": 30,
+    "avg_session_seconds": 314.6
   },
   "last7": {
-    "users": 155,
-    "pageviews": 1048,
-    "sessions": 255,
-    "avg_session_seconds": 358.0
+    "users": 156,
+    "pageviews": 1060,
+    "sessions": 258,
+    "avg_session_seconds": 355.5
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 115,
-      "avg_time_seconds": 205.7
+      "views": 116,
+      "avg_time_seconds": 203.9
     },
     {
       "path": "/movie",
@@ -72,29 +72,29 @@
       "avg_time_seconds": 17.0
     },
     {
-      "path": "/flickatlas-site/",
-      "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 13,
-      "avg_time_seconds": 4.8
+      "path": "/news",
+      "title": "Bollywood & Entertainment News | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 71.3
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 178,
+      "sessions": 180,
       "users": 107
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 75,
-      "users": 48
+      "sessions": 76,
+      "users": 49
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 10,
+      "sessions": 11,
       "users": 6
     }
   ],
@@ -128,16 +128,16 @@
       "users": 3
     },
     {
+      "country": "Brazil",
+      "users": 2
+    },
+    {
       "country": "Philippines",
       "users": 2
     },
     {
       "country": "United Kingdom",
       "users": 2
-    },
-    {
-      "country": "Australia",
-      "users": 1
     }
   ],
   "devices": [
@@ -147,7 +147,7 @@
     },
     {
       "device": "mobile",
-      "users": 58
+      "users": 59
     },
     {
       "device": "tablet",

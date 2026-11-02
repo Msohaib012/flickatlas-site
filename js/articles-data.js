@@ -38207,5 +38207,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 16:11:00 GMT"
+  },
+  "1ulnh5e": {
+    "id": "1ulnh5e",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Crosses ₹459 Crore Following Third Weekend",
+    "dek": "Rajinikanth's action drama Jailer 2 experienced a significant weekday dip on its third Monday, yet successfully pushed its cumulative domestic net collections past ₹459 crore.",
+    "body": [
+      {
+        "h": "Box Office Performance On Day 19",
+        "p": [
+          "The theatrical run of Rajinikanth's action entertainer Jailer 2 entered its nineteenth day with a notable adjustment in numbers. According to data provided by trade tracker Sacnilk, the film brought in ₹3.41 crore net across the country on Monday.",
+          "This latest single-day collection arrives on the heels of a solid weekend performance. The film's overall domestic net earnings have now crossed the significant milestone of ₹459.71 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown And Show Counts",
+        "p": [
+          "During its nineteenth day in cinemas, the feature was broadcast across a total of 6,893 shows nationwide. The original Tamil version led the collections, securing ₹1.94 crore net from 3,092 shows.",
+          "Meanwhile, the Hindi version contributed ₹53 lakh net from 3,088 shows, and the Telugu version added another ₹41 lakh net across 713 shows."
+        ]
+      },
+      {
+        "h": "Weekday Dip Following A Strong Weekend",
+        "p": [
+          "Following a robust third Sunday that brought in ₹11.20 crore net, the movie witnessed a sharp decrease in footfalls on Monday. The figures reflect a dip of approximately 69.55 percent compared to the previous day.",
+          "Despite the standard weekday drop typical of mature theatrical runs, the project continues to hold screen space and draw audiences three weeks into its release."
+        ]
+      },
+      {
+        "h": "Plot And Character Overview",
+        "p": [
+          "Directed by Nelson Dilipkumar, the narrative brings back Rajinikanth as Tiger Muthuvel Pandian. In this installment, the retired jailer finds himself entangled in a fresh peril involving an international idol-smuggling syndicate.",
+          "To dismantle the network and protect his loved ones, the protagonist goes undercover working as a driver, getting closer to the antagonists while maintaining safety boundaries for his family."
+        ]
+      },
+      {
+        "h": "Cast And Production Details",
+        "p": [
+          "The star-studded cast features prominent actors including SJ Suryah, Suraj Venjaramoodu, Mithun Chakraborty, Ramya Krishnan, Vidya Balan, Yogi Babu, Mirnaa, Rithvik, Jatin Sarna, and Anna Rajan. Additionally, Mohanlal, Shiva Rajkumar, Hrithik Roshan, Jackie Shroff, and Vijay Sethupathi make special cameo appearances.",
+          "Jailer 2 is backed by producer Kalanithi Maran under the Sun Pictures banner. The technical crew features music composer Anirudh Ravichander and cinematographer Vijay Kartik Kannan."
+        ]
+      },
+      {
+        "h": "Release And Future Projects",
+        "p": [
+          "The commercial entertainer originally arrived in theaters on October 15, 2026, opening simultaneously in Tamil, Telugu, Kannada, and Hindi languages. Critical reception highlighted the mass masala appeal and the lead actor's screen presence.",
+          "Looking ahead, lead star Rajinikanth has upcoming projects lined up. He will next appear in Dharman, also known as Thalaivar 173, followed by a highly anticipated collaboration alongside Kamal Haasan titled KHxRK, which also features Nayanthara."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action feature Jailer 2 surpassed ₹459 crore in domestic net collections by its nineteenth day in theaters. Despite experiencing a sharp weekday dip of nearly 70 percent following a strong third weekend, the Nelson directorial continues its successful theatrical run across multiple languages."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected ₹3.41 crore net in India on Monday, Day 19.",
+      "The film's total India net collection crossed ₹459.71 crore.",
+      "The Tamil version earned ₹1.94 crore net from 3,092 shows.",
+      "The Hindi version earned ₹53 lakh from 3,088 shows.",
+      "The Telugu version earned ₹41 lakh from 713 shows.",
+      "The film was running across 6,893 shows on Day 19.",
+      "Sunday collection on Day 18 was ₹11.20 crore net.",
+      "The film was released in theatres on October 15, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "SJ Suryah",
+        "Suraj Venjaramoodu",
+        "Mithun Chakraborty",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "Jatin Sarna",
+        "Anna Rajan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi",
+        "Kalanithi Maran",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "Kamal Haasan",
+        "Nayanthara",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Dharman",
+        "Thalaivar 173",
+        "KHxRK",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 day 19 collection",
+      "Nelson Dilipkumar film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/02/1600x900/logo/Screenshot_2026-11-02_221149_1793637721019_mmtQ_1793637730647_ibIO_c85732ed-8c14-471e-b437-7395f59b7d64_4zgM.png",
+        "caption": "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Crosses ₹459 Crore Following Third Weekend",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 22:12:52 +0530"
+  },
+  "14798mu": {
+    "id": "14798mu",
+    "type": "news",
+    "headline": "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
+    "dek": "Television veteran Katey Sagal is heading to Port Wenn in Season 2 of Best Medicine, taking on the recurring role of Louisa's scheming and estranged mother.",
+    "body": [
+      {
+        "h": "Casting Announcement for Season 2",
+        "p": [
+          "The television series Best Medicine is expanding its cast significantly for its second season by introducing a pivotal family member. Industry veteran Katey Sagal has officially been cast in a recurring capacity to portray the mother of Louisa. Her character, Kathleen Gavin, is set to make her dramatic entrance in episodes scheduled to air later in the current season.",
+          "This new addition promises to shake up the dynamics in the fictional setting. Viewers can expect plenty of tension when Kathleen finally appears on screen, bringing her unique brand of trouble to the small Maine community."
+        ]
+      },
+      {
+        "h": "Meet Kathleen Gavin",
+        "p": [
+          "According to the official character description released for the show, Louisa's mother is far from a warm and comforting parental figure. Kathleen is characterized as combative, deeply conniving, and relentlessly self-serving. In fact, official details note that she holds the dubious distinction of being the sole individual on earth who is entirely unwelcome in Port Wenn.",
+          "This personality stands in stark contrast to the sweet, selfless, and kind nature of her daughter Louisa, portrayed on screen by Abigail Spencer. The apple clearly fell far from the tree and rolled even further away, setting the stage for major family friction."
+        ]
+      },
+      {
+        "h": "A Disliked Return to Port Wenn",
+        "p": [
+          "Kathleen's arrival in the tiny Maine town follows a very long absence, and her comeback immediately disrupts the peace. Because of her past behavior and manipulative tendencies, the local townspeople have bestowed upon her the less-than-flattering nickname 'Shady Katie.'",
+          "Her unexpected reappearance is guaranteed to complicate Louisa's life immensely, dragging old baggage back to the surface and testing the patience of the entire local community."
+        ]
+      },
+      {
+        "h": "Katey Sagal's Illustrious Television Career",
+        "p": [
+          "The actress stepping into the role of Shady Katie boasts an extensive and iconic television resume spanning multiple decades. Katey Sagal spent all 11 seasons playing Peggy Bundy on the Fox comedy Married... With Children, cementing her status as a household name.",
+          "Later, she transitioned to intense dramatic work, portraying Gemma on FX's Sons of Anarchy throughout its seven-season run. That powerhouse performance earned her a Golden Globe Award in 2011 for Best Performance by an Actress in a Television Series — Drama."
+        ]
+      },
+      {
+        "h": "Extensive Credits Across Genres",
+        "p": [
+          "Beyond her signature roles, Sagal has lent her talent to numerous other celebrated television projects. Her expansive list of credits features appearances in The Conners, The Abandons, Rebel, Superior Donuts, 8 Simple Rules, Tucker, Boston Legal, Lost, This Is Us, and Shameless.",
+          "In addition to her live-action roles, she is a recognizable voice actress, bringing animated characters to life in long-running series such as Futurama and One Piece."
+        ]
+      },
+      {
+        "h": "A Star-Studded Season 2 Guest Cast",
+        "p": [
+          "Sagal joins a growing roster of notable guest stars appearing in Best Medicine Season 2. Martin Clunes is set to return as Dr. Robert Best, the father of Dr. Martin Best, who is played by Josh Charles.",
+          "Furthermore, the second season has welcomed other fresh faces, including Jack Cutmore-Scott as Parker, a professional monitor ensuring Martin complies with state medical board rules, and Andrea Martin as Judith, a feisty friend of Aunt Sarah."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Katey Sagal has joined the cast of Best Medicine for Season 2 to play Louisa's estranged and conniving mother, Kathleen Gavin. Known locally as Shady Katie, the character's long-awaited return to Port Wenn will cause major complications for Louisa."
+        ]
+      }
+    ],
+    "facts": [
+      "Katey Sagal will recur as Louisa's mother, Kathleen Gavin, in Best Medicine Season 2.",
+      "Kathleen is described as combative, conniving, and unwelcome in Port Wenn.",
+      "Townsfolk refer to Kathleen Gavin as Shady Katie.",
+      "Louisa is played by Abigail Spencer.",
+      "Katey Sagal won the 2011 Golden Globe for Best Performance by an Actress in a Television Series — Drama for Sons of Anarchy.",
+      "Martin Clunes returns as Dr. Robert Best, father to Dr. Martin Best (Josh Charles).",
+      "Jack Cutmore-Scott plays Parker, and Andrea Martin plays Judith in Season 2."
+    ],
+    "entities": {
+      "people": [
+        "Katey Sagal",
+        "Abigail Spencer",
+        "Martin Clunes",
+        "Josh Charles",
+        "Jack Cutmore-Scott",
+        "Andrea Martin"
+      ],
+      "titles": [
+        "Best Medicine",
+        "Sons of Anarchy",
+        "Married... With Children",
+        "The Conners",
+        "The Abandons",
+        "Rebel",
+        "Superior Donuts",
+        "8 Simple Rules",
+        "Tucker",
+        "Boston Legal",
+        "Lost",
+        "This Is Us",
+        "Shameless",
+        "Futurama",
+        "One Piece",
+        "Frasier",
+        "Evil"
+      ]
+    },
+    "keywords": [
+      "Best Medicine Katey Sagal",
+      "Katey Sagal Louisa mother Kathleen",
+      "Best Medicine Season 2 casting",
+      "Shady Katie Best Medicine"
+    ],
+    "images": [
+      {
+        "url": "https://www.tvline.com/img/gallery/best-medicine-cast-katey-sagal-as-louisas-scheming-mom-get-details/l-intro-1793642243.jpg",
+        "caption": "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
+        "source": "TVLine"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 18:00:23 +0000"
+  },
+  "4r8rd7": {
+    "id": "4r8rd7",
+    "type": "news",
+    "headline": "Where The Mask Ends Finale Release: How And When To Watch Episodes 28-30",
+    "dek": "Tian Xi Wei and Yan An's hit costume romance drama Where The Mask Ends reaches its conclusion, offering fans early access options, platform details, and a much-awaited happy ending.",
+    "body": [
+      {
+        "h": "The Conclusion of a Major Chinese Drama",
+        "p": [
+          "The popular Chinese costume romance drama Where The Mask Ends is officially concluding its run today, Tuesday, November 3, 2026. Starring Tian Xi Wei and Yan An in the lead roles, the 30-episode series is bidding farewell to its dedicated audience following weeks of heavy online discussion.",
+          "The show has managed to carve out a distinct space among viewers thanks to its intricate plotlines and the prominent chemistry shared between the principal cast members."
+        ]
+      },
+      {
+        "h": "A Shift From Heartbreak to Happiness",
+        "p": [
+          "Following the conclusion of another buzzworthy Chinese drama, The Lament Of Autumn, which famously left many viewers in tears with its tragic resolution, Where The Mask Ends brings a contrasting tone.",
+          "Unlike its predecessor's heartbreaking finale, this costume drama is anticipated to deliver a happy ending, offering fans a welcome emotional recovery without the heavy sorrow."
+        ]
+      },
+      {
+        "h": "Packed Plot Twists and Narrative Arc",
+        "p": [
+          "Throughout its broadcast run, Where The Mask Ends has kept fans thoroughly engaged by weaving together a dense tapestry of dramatic tropes. The storyline includes elements such as a double role, a baby swap, and a forced marriage that gradually evolves into genuine affection.",
+          "Additional complications like a divorce, intense royal power struggles, and an ultimate second chance at marriage have kept the audience guessing and talking across social media platforms."
+        ]
+      },
+      {
+        "h": "Early Access via Express Package",
+        "p": [
+          "In a surprise move for eager fans, the platform Youku has introduced an Express Package allowing viewers to bypass the standard waiting period. While Episode 27 drops on the regular schedule, the remaining final episodes, numbered 28 through 30, can be unlocked simultaneously.",
+          "This special feature lets enthusiastic supporters binge-watch the entire finale arc right away rather than adhering to the traditional rollout pacing."
+        ]
+      },
+      {
+        "h": "Platform Availability and Release Timings",
+        "p": [
+          "For Indian viewers and global audiences wanting immediate access, Youku serves as the primary hub, releasing the final three episodes soon after Episode 27 drops at 12:00 PM Beijing time, which corresponds to 9:30 AM IST.",
+          "Meanwhile, audiences relying on Netflix will need to exercise additional patience, as the international streaming service continues to follow Youku's standard release schedule rather than the early access window."
+        ]
+      },
+      {
+        "h": "Streaming Options and Free Access Paths",
+        "p": [
+          "Subscribers to Youku with active accounts can directly view the concluding episodes online. Netflix subscribers also have official access, provided they wait for the standard schedule to catch up.",
+          "For individuals seeking alternative viewing routes, platforms like Dailymotion are noted by fans as potential spots to check for user-uploaded content featuring English subtitles following the official rollout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Chinese drama Where The Mask Ends starring Tian Xi Wei and Yan An concludes its 30-episode run on November 3, 2026, with an expected happy ending. Viewers can access the final episodes 28 to 30 early through Youku's Express Package, while Netflix follows the regular schedule."
+        ]
+      }
+    ],
+    "facts": [
+      "Where The Mask Ends has a total of 30 episodes.",
+      "The final episodes 28-30 release on Tuesday, November 3, 2026.",
+      "Tian Xi Wei and Yan An star in the lead roles.",
+      "Episode 27 drops at 12:00 PM Beijing time, which is 9:30 AM IST.",
+      "Youku offers an Express Package for early access to the finale."
+    ],
+    "entities": {
+      "people": [
+        "Tian Xi Wei",
+        "Yan An"
+      ],
+      "titles": [
+        "Where The Mask Ends",
+        "The Lament Of Autumn"
+      ]
+    },
+    "keywords": [
+      "Where The Mask Ends",
+      "Tian Xi Wei",
+      "Yan An",
+      "Where The Mask Ends episodes 28-30",
+      "Where The Mask Ends finale"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature86-21831793621003.jpg",
+        "caption": "Where The Mask Ends Finale Release: How And When To Watch Episodes 28-30",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 00:05:24 +0530"
+  },
+  "d4533w": {
+    "id": "d4533w",
+    "type": "news",
+    "headline": "Skinny Sneakers Make a Major Comeback With Retro Styles and Great Deals",
+    "dek": "Low-profile and streamlined footwear is returning to the spotlight, with brands from luxury labels to activewear staples offering sleek options.",
+    "body": [
+      {
+        "h": "The Return of the Low-Profile Silhouette",
+        "p": [
+          "Footwear trends are cyclical, and the current fashion landscape is welcoming back the streamlined, low-to-the-ground sneaker. While these skinny shoes feel like a fresh trend, their design has the lasting power of early plimsoll styles.",
+          "The aesthetic is defined by slim uppers, flat soles, and reduced bulk. Some designs fit tightly like a glove, while others borrow influences from the popular ballet-flat-meets-sneaker hybrid trend known as sneakerinas."
+        ]
+      },
+      {
+        "h": "Designer Collaborations and Luxury Appeal",
+        "p": [
+          "High-fashion houses have played a major role in driving this silhouette back into prominence. Labels like Miu Miu and Louis Vuitton have embraced ballet-inspired sneaker hybrids.",
+          "Notably, Louis Vuitton introduced its own LV Sneakerina, cementing the low-profile look as a prominent luxury trend. Additionally, collaborations like the one between Jil Sander and PUMA bring a refined high-fashion update to trending athletic models."
+        ]
+      },
+      {
+        "h": "PUMA and Jil Sander Lead the Way",
+        "p": [
+          "The latest partnership uniting Jil Sander and PUMA utilizes the trending Speedcat silhouette. This racing-inspired trainer has received a sleek, smooth leather makeover.",
+          "While the luxury collaboration comes with a higher price tag, the broader market includes numerous attainable alternatives inspired by the same streamlined aesthetic."
+        ]
+      },
+      {
+        "h": "Affordable Options and Everyday Versatility",
+        "p": [
+          "Shoppers do not need to overspend to participate in the skinny sneaker trend. Brands like Adidas and Quince offer discounted or wallet-friendly choices that feature flexible rubber outsoles and classic low-top shapes.",
+          "The appeal of these shoes lies heavily in their versatility. They pair effortlessly with denim, trousers, skirts, and dresses, making them suitable for commuting, travel, and casual outings."
+        ]
+      },
+      {
+        "h": "Diverse Brand Interpretations",
+        "p": [
+          "Various labels have put their unique spin on the glove sneaker concept. Vans has drawn from its archives for a low-profile suede trainer available in seasonal colorways, while Alo offers a sporty option featuring a recovery-foam insole.",
+          "Other brands like Vivaia, Nike, and Rothy provide distinct textures and alternative lacing options, ranging from satin sneakerinas to textured low-top daily trainers."
+        ]
+      },
+      {
+        "h": "Outdoor and Winter-Ready Adaptations",
+        "p": [
+          "Active and outdoor brands are also embracing the slim profile. Merrell has introduced a winter-ready version of its bestselling sneaker integrated with Harris Tweed and a removable foam footbed.",
+          "These iterations prove that the gorp-core movement can merge functional outdoor roots with a sleek, less bulky appearance suitable for colder weather."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Low-profile skinny sneakers are returning as a major footwear trend, heavily supported by designer collaborations and high-fashion hybrid styles. Various brands offer accessible and versatile options ranging from retro trainers to winter-ready outdoor designs."
+        ]
+      }
+    ],
+    "facts": [
+      "Louis Vuitton introduced the LV Sneakerina in 2025",
+      "Jil Sander and PUMA collaborated on a Speedcat sneaker priced at $430",
+      "Adidas Grand Court Lo Shoes are marked down to $45 from $75",
+      "Nike Moon Shoe OG SE Satin Sneakers are priced at $105"
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "LV Sneakerina",
+        "Speedcat",
+        "Grand Court Lo Shoes",
+        "Moon Shoe OG SE Satin Sneakers"
+      ]
+    },
+    "keywords": [
+      "skinny sneakers trend",
+      "Jil Sander PUMA Speedcat",
+      "Louis Vuitton LV Sneakerina",
+      "Adidas Grand Court Lo Shoes",
+      "retro low profile sneakers"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261101/3a2920e2-8304-40a8-8ffd-355e938b8188_1793553264.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Skinny Sneakers Make a Major Comeback With Retro Styles and Great Deals",
+        "source": "E! News"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 17:00:00 GMT"
   }
 };

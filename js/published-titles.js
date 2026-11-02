@@ -20114,5 +20114,775 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 99,
     "providers": []
+  },
+  "741533": {
+    "id": 741533,
+    "type": "movie",
+    "title": "The SAS",
+    "poster_path": "/3q0mY7Zs4sJdNwHkMepLO0txcYc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On February 20th, 2016, a college student's friend goes missing. Through phone recordings, we recall the event that led up to his disappearance.",
+    "industry": "world",
+    "popularity": 3.5493,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Horror"
+    ],
+    "tagline": "This is it.",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "zh"
+    ],
+    "certification": "",
+    "release_date": "2026-10-31",
+    "date_kind": "festival",
+    "runtime": 17,
+    "providers": []
+  },
+  "1117898": {
+    "id": 1117898,
+    "type": "movie",
+    "title": "The Cat in the Hat",
+    "poster_path": "/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+    "backdrop_path": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "industry": "world",
+    "popularity": 22.4868,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "tkZpcypT8Z4",
+      "name": "The Cat In The Hat x Hilary Duff “CATastrophe”",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "tagline": "The cat's out of the bag.",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": []
+  },
+  "1796751": {
+    "id": 1796751,
+    "type": "movie",
+    "title": "Stellar Romance",
+    "poster_path": "/iTFBDL2qiYIQ6EWthxOwr79kvO2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Their first meeting transforms an extraordinary space expedition into an unforgettable love story. As they explore strange planets, witness the birth of stars, and uncover secrets hidden within the fabric of time, their love begins to challenge the laws of the universe itself.  But their relationship faces an impossible choice: save the woman he loves, preserve the future of an entire civilization, or risk changing the destiny of the cosmos forever.  Can love survive across galaxies, dimensions, and time itself?  Somewhere among the stars, two souls may discover that love is the most powerful force in the universe.",
+    "industry": "world",
+    "popularity": 1.0686,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 300000000,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Across Galaxies. Beyond Time. Forever in Love",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "G",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 182,
+    "providers": []
+  },
+  "1797215": {
+    "id": 1797215,
+    "type": "movie",
+    "title": "Philly Pretzels",
+    "poster_path": "/2x4vr09dbiC9ONZv62q0x26Nigc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "JUSTIN CROWELL | UNITED STATES | 2026 | 10 MIN | ENGLISH  Barry, a street-side soft pretzel salesman in South Philly, has an unexpected interaction with brash 19-year-old Brianna after a fight with her boyfriend leaves her stranded.  Cast: Adam Shapiro, Abigail Donaghy",
+    "industry": "world",
+    "popularity": 4.1877,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "",
+    "date_kind": "festival",
+    "runtime": 10,
+    "providers": []
+  },
+  "1794828": {
+    "id": 1794828,
+    "type": "movie",
+    "title": "Connection Lost",
+    "poster_path": "/9h7TADW9ef5pI5bGaJdj1lqKn6F.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After winning a scholarship, Bruno, a lonely young man, travels to Buenos Aires for the first time and sets out to meet Tomás, the virtual friend who accompanied him throughout his childhood but with whom he lost contact. To do so, he must follow the trail of photographs that Tomás used to send him in the past, reliving his day-to-day life until he reaches his house. The thread of images and past chats will be the key to understanding why the friendship broke down and, when the photographs lead down a dark path beyond the house, why his tragic fate came to be.",
+    "industry": "world",
+    "popularity": 1.2091,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "ATP",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 30,
+    "providers": []
+  },
+  "1756268": {
+    "id": 1756268,
+    "type": "movie",
+    "title": "Paging Hezbollah",
+    "poster_path": "/CCFiWX5MFh7UukM5oMoBe2VpNg.jpg",
+    "backdrop_path": "/xX0QLmlluhugIRzombX5owE7nh4.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Paging Hezbollah is the extraordinary true story behind an intelligence operation that seemed impossible—how it was conceived, engineered and carried out, as well as the profound geopolitical consequences that followed.",
+    "industry": "world",
+    "popularity": 3.9183,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "Outsmarted, Infiltrated, Humiliated.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 93,
+    "providers": []
+  },
+  "1793964": {
+    "id": 1793964,
+    "type": "movie",
+    "title": "Algo Más Para Decir",
+    "poster_path": "/4V3JYK4cSMRMT9AOxSbwnlYNXR9.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Algo más para decir revisits images produced by the Cine Escuela Argentino project, an initiative launched by the Ministry of Education between 1947 and 1952 to support classroom instruction across the country.  The short film offers a journey through these images—acting as a window into the past—to observe what remains, what has changed, and what no longer exists.",
+    "industry": "world",
+    "popularity": 1.0544,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "xx"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 7,
+    "providers": []
+  },
+  "1801940": {
+    "id": 1801940,
+    "type": "movie",
+    "title": "Origin Story",
+    "poster_path": "/uw6uMaVfhYOex2F5If26qdaWF2t.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Sofia (Valentina Herszage), a 20-year-old Brazilian actress, arrives at a casting audition for an American film that quickly departs from the familiar.  ORIGIN STORY explores identity, performance, and the enduring influence of the American gaze upon Latin American culture.",
+    "industry": "world",
+    "popularity": 3.6046,
+    "original_language": "en",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "Nobody is the villain of their own story.",
+    "status": "Planned",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt"
+    ],
+    "certification": "",
+    "release_date": "",
+    "date_kind": "release",
+    "runtime": 7,
+    "providers": []
+  },
+  "1784105": {
+    "id": 1784105,
+    "type": "movie",
+    "title": "Cecilia,  una luz de mañana",
+    "poster_path": "/uW9sQBjQkm7nMUNNmWBKrrOGrkS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Following her tragic death at just 27, Cecilia left behind a legacy of songs that today, 50 years later, continue to soar through our collective pop consciousness. Her boldness, her talent, and her legacy have inspired many of the female singers who came after her. This is her story.",
+    "industry": "world",
+    "popularity": 3.468,
+    "original_language": "en",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1685339": {
+    "id": 1685339,
+    "type": "movie",
+    "title": "Unsafe",
+    "poster_path": "/2hPYdVWPJBItyZ8sZ6pPUERvwIV.jpg",
+    "backdrop_path": "/cmCjykkzGw7FBgGJjkibLEjrai1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a young girl becomes trapped inside an airtight safe, firefighter Alex and her partner Jakob are called to a high-pressure rescue with minutes to spare. As oxygen runs out and the girl’s frantic parents demand action, cracks begin to appear in their story. What starts as a desperate life-saving mission quickly unravels into something far more sinister. With time slipping away, Alex and Jakob must uncover the truth behind the child, the couple and the safe itself — before the clock runs out.",
+    "industry": "world",
+    "popularity": 6.8211,
+    "original_language": "de",
+    "origin_country": [
+      "AT",
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE",
+      "AT"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 93,
+    "providers": []
+  },
+  "1782975": {
+    "id": 1782975,
+    "type": "movie",
+    "title": "Three Little Pigs",
+    "poster_path": "/8kVKizFkgiuE9DCuqx1gUxopwX0.jpg",
+    "backdrop_path": "/e0Kxe4IHyjK0wra1YNKgE1zqA4R.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two teenagers' darkly comic mission to steal a pig's head sends them on a nocturnal journey through the heart of Hong Kong, culminating in a poignant act of resistance to honor an absent friend.",
+    "industry": "world",
+    "popularity": 0.4618,
+    "original_language": "cn",
+    "origin_country": [
+      "HK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "HK"
+    ],
+    "spoken_languages": [
+      "cn"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 24,
+    "providers": []
+  },
+  "1603262": {
+    "id": 1603262,
+    "type": "movie",
+    "title": "Everest: The Other Side",
+    "poster_path": "/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
+    "backdrop_path": "/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "An intimate portrait of two people bound by love, ambition, and the pursuit of the impossible. Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest—the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth—something only a handful have ever achieved, and no one has successfully skied down.",
+    "industry": "world",
+    "popularity": 6.064,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "q6XUlPdTuto",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "CN",
+      "NP"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 115,
+    "providers": []
+  },
+  "1775236": {
+    "id": 1775236,
+    "type": "movie",
+    "title": "Pickpockets",
+    "poster_path": "/9l7uDTAgE3Aaijt53vvtUMpVdPU.jpg",
+    "backdrop_path": "/cRvR3lACZc6YuSas8qh2A4lTCR3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The flirty rivalry between a lone-wolf pickpocket and a charismatic rookie escalates into a spiteful turf war. Tempted by the score of a lifetime, the former enemies are forced to partner up. But when feelings get involved, their well-laid plans quickly fall apart.",
+    "industry": "world",
+    "popularity": 2.5254,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "tagline": "This town ain't big enough for the both of them.",
+    "status": "In Production",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "M",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 110,
+    "providers": []
+  },
+  "1811114": {
+    "id": 1811114,
+    "type": "movie",
+    "title": "Vecinos de hormigón",
+    "poster_path": "/xoz9tKOBfueWhSyz7qPMJNocKHP.jpg",
+    "backdrop_path": "/qJSWd4fRL45cSGhpZDoqWZmwFJE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 5.5962,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "ca",
+      "es"
+    ],
+    "certification": "7",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1773656": {
+    "id": 1773656,
+    "type": "movie",
+    "title": "Allowed to Birth: The Journey of a Global Midwife",
+    "poster_path": "/ne0kHuPOxab67ihtEwMRYdTHtx3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Across cultures and continents, birth has become shaped by systems of control and intervention. A documentary on the maternal health crisis.",
+    "industry": "world",
+    "popularity": 0.6754,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1590723": {
+    "id": 1590723,
+    "type": "movie",
+    "title": "The Sea Speaks His Name",
+    "poster_path": "/zC8OT9olGG8L0K4eQ81zdzBHKlJ.jpg",
+    "backdrop_path": "/dibjzvhuz4FiF0Af9BkcMDHRSCD.jpg",
+    "vote_average": 8.0,
+    "vote_count": 3,
+    "overview": "Set during the volatile final months of Indonesia’s New Order regime, the narrative chronicles a young student activist's perilous commitment to pro-democracy underground movements and his family's subsequent, grueling quest for justice following his forced disappearance.",
+    "industry": "world",
+    "popularity": 5.4953,
+    "original_language": "id",
+    "origin_country": [
+      "ID",
+      "TH"
+    ],
+    "trailer": {
+      "key": "Crx2f2CvUpc",
+      "name": "Laut Bercerita - Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ID",
+      "TH"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "17+",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 133,
+    "providers": []
+  },
+  "1768753": {
+    "id": 1768753,
+    "type": "movie",
+    "title": "Folded dreams",
+    "poster_path": "/3veboh2hZrmgbmwS8uqj8y99H11.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A 10-year-old student quietly struggles under the overwhelming pressure of school, watching his childhood dreams slowly fold away",
+    "industry": "world",
+    "popularity": 0.4514,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Dreams folded under pressure",
+    "status": "In Production",
+    "production_countries": [
+      "IQ"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 2,
+    "providers": []
+  },
+  "1251608": {
+    "id": 1251608,
+    "type": "movie",
+    "title": "The Blood Countess",
+    "poster_path": "/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
+    "backdrop_path": "/9IdxfMvkZzO8wjnygz784OzaK03.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The Blood Countess and her maid embark on a quest for the red elixir of life and a book that threatens the vampire realm. Hot on their heels are a police inspector, two vampirologists, a vegetarian nephew and his therapist.",
+    "industry": "world",
+    "popularity": 5.3201,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Fantasy"
+    ],
+    "tagline": "Blood is eternal, and so is power.",
+    "status": "Released",
+    "production_countries": [
+      "AT",
+      "LU",
+      "DE"
+    ],
+    "spoken_languages": [
+      "de",
+      "fr",
+      "ru"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-29",
+    "date_kind": "release",
+    "runtime": 119,
+    "providers": []
+  },
+  "1767217": {
+    "id": 1767217,
+    "type": "movie",
+    "title": "The Bully Club",
+    "poster_path": "/faJR8mNQPX8ijxpe1TBdrGkGawf.jpg",
+    "backdrop_path": "/awe3C0W3kocUondgezAOKTXiCE0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Seventeen-year-old Sue is sentenced to two years in a juvenile detention facility after becoming violent to protect her bullied friend Lynn. The girls first became friends in a secret online group called 'The Bully Club', where bullied and ostracised teens find support and understanding from each other. For a while, it was the only good thing in Sue and Lynn's lives and gave them a chance to escape their other problems.",
+    "industry": "world",
+    "popularity": 1.0102,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-02",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "",
+    "release_date": "2026-11-09",
+    "date_kind": "festival",
+    "runtime": 85,
+    "providers": []
   }
 };
