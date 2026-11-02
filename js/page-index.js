@@ -575,7 +575,7 @@
        Industry rules match /box-office (Bollywood = industry
        "bollywood" OR origin IN; World Cinema = world AND NOT Indian).
        Default view = Bollywood; the switcher re-renders both rails. */
-    const ottGroups = (() => {
+    let ottGroups = (() => {
       const o = window.FA_OTT;
       if (o && Array.isArray(o.now) && Array.isArray(o.coming)) return o;
       const now = [], coming = [];
@@ -611,6 +611,14 @@
       coming.sort((a, b) => a.date.localeCompare(b.date));
       return { now, coming };
     })();
+    /* True when the generated FA_OTT data was NOT present at build
+       time (its script failed to load) and ottGroups is the
+       from-published fallback. The fallback structurally cannot
+       contain movie Coming entries — confirmed digital dates live
+       only in the generated file — so the recovery step after the
+       filter wiring re-loads ott-data.js once and swaps the real
+       groups in (ottFor reads this binding at call time). */
+    const ottFromFallback = ottGroups !== window.FA_OTT;
     const pubMap = {};
     pubAll().forEach(x => { if (x && x.id != null) pubMap[String(x.id)] = x; });
     /* OTT industry rules match /box-office and /ott (canonical
@@ -664,6 +672,10 @@
     const ottRailHtml = (items, coming) => items.length
       ? items.map(p => ottCardHtml(p, coming)).join("")
       : `<p role="status">${coming ? "No confirmed upcoming OTT dates" : "No titles currently streaming"} reported for this industry yet.</p>`;
+    /* Set by the OTT filter-row wiring below so the data-recovery
+       step can re-render the OTT section in its current filter
+       state after a late ott-data.js load. */
+    let ottRerender = null;
     const ottHasKind = ["bollywood", "international"].some(ind =>
       ottFor("now", ind).length > 0 || ottFor("coming", ind).length > 0);
     const ottHtml = ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
@@ -1269,6 +1281,7 @@
           ? items.map((x, i) => UI.posterCard(x, typeOf(x), "", kind === "soon" ? i + 1 : undefined, undefined, true)).join("")
           : '<p role="status">No matching titles found.</p>';
       };
+      if (kind === "ott") ottRerender = render;
       const selects = row.querySelectorAll(".filter-select");
       UI.mountFaSelect(selects[0], INDUSTRY_OPTIONS, state.industry, (v) => {
         state.industry = v;
@@ -1282,6 +1295,33 @@
       if (selects[1]) UI.mountFaSelect(selects[1], TYPE_OPTIONS, state.type, (v) => { state.type = v; render(); });
       if (state.industry !== "bollywood") render();
     });
+    /* OTT data recovery (2026-11-02): when ott-data.js failed to
+       load, the section above was rendered from the from-published
+       fallback, whose Coming rail is empty for movies in EVERY
+       industry tab (their confirmed digital dates exist only in
+       the generated file) while Now still fills — the exact
+       "Coming shows nothing, everything else fine" failure seen on
+       a slow connection. Re-load the file once (a retry parameter
+       bypasses the immutable cache entry of the failed/empty
+       first response); on success swap the real groups in and
+       re-render the section in its current filter state. Any
+       failure leaves the fallback rendering untouched. */
+    if (ottFromFallback) {
+      try {
+        const srcEl = document.querySelector('script[src*="ott-data.js"]');
+        const base = srcEl ? srcEl.src : "/js/ott-data.js";
+        const s = document.createElement("script");
+        s.src = base + (base.includes("?") ? "&" : "?") + "ottRetry=1";
+        s.onload = () => {
+          const o = window.FA_OTT;
+          if (o && Array.isArray(o.now) && Array.isArray(o.coming)) {
+            ottGroups = o;
+            if (ottRerender) ottRerender();
+          }
+        };
+        document.head.appendChild(s);
+      } catch (_) { /* fallback rendering stays as-is */ }
+    }
     /* Wiring steps are guarded individually: a failure here must never
        wipe the rendered page (see the `rendered` flag above). A failed
        news fill removes the section instead of leaving a skeleton;

@@ -50,6 +50,26 @@ class TrendingEvidenceTests(unittest.TestCase):
         ambiguous=dict(self.item,q="Jailer",news=[{"title":"Sports score in Jailer town", "url":"https://news.example/x"}])
         self.assertEqual(tw.build_topics([ambiguous],[self.article],self.now),[])
 
+    def test_alias_expansion_and_phrase_free_subject_match(self):
+        # Live regressions (2026-11-02): the AU "gta vi" trend must match
+        # a headline that spells the franchise out (the abbreviation
+        # itself is not a headline word), and the US "the avengers"
+        # trend must match a headline that never contains the raw
+        # phrase. A shared surname alone must still fail.
+        gta = dict(self.item, q="gta vi", geo="AU", feed_url=tw.FEEDS["AU"],
+                   news=[{"title": "Melbourne Just Got A Massive Grand Theft Auto 6 Mural", "url": "https://press-start.example/gta6"}])
+        story = dict(self.article, id="gta6", headline="Grand Theft Auto VI Reportedly Demands Massive Storage Space")
+        self.assertEqual(len(tw.build_topics([gta], [story], self.now)), 1)
+        avengers = dict(self.item, q="the avengers", geo="US", feed_url=tw.FEEDS["US"],
+                        news=[{"title": "The Avengers, X-Men & More Marvel Team-Ups Explained", "url": "https://tvinsider.example/x"},
+                              {"title": "Spider-Man Defies the Avengers to Take on Marvel's Most Terrifying Hulk in New Preview", "url": "https://yahoo.example/y"}])
+        story2 = dict(self.article, id="avg", headline="Marvel Studios Unveils Seven New Avengers: Doomsday Posters Highlighting Doctor Doom")
+        self.assertEqual(len(tw.build_topics([avengers], [story2], self.now)), 1)
+        khan = dict(self.item, q="rashid khan", geo="AU", feed_url=tw.FEEDS["AU"],
+                    news=[{"title": "Rashid Khan takes five wickets in Perth", "url": "https://cricket.example/x"}])
+        story3 = dict(self.article, id="khan", headline="Saif Ali Khan, Vidya Balan Cast in New Comedy-Drama")
+        self.assertEqual(tw.build_topics([khan], [story3], self.now), [])
+
     def test_sort_unique_and_limit(self):
         items=[dict(self.item,q="Jailer 2")]
         arts=[dict(self.article,id="z",date="2026-10-27T12:00:00Z",_dt=self.now-timedelta(days=2)),dict(self.article,id="a",date="2026-10-28T12:00:00Z",_dt=self.now-timedelta(days=1))]

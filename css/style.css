@@ -69,7 +69,7 @@ h3{font-size:1.05rem;font-weight:700}
 .verdict.avg{background:#FEF0C7;color:#93370D}
 
 /* ---------- sections & cards ---------- */
-.section{margin:38px 0}
+.section{margin:54px 0}
 .section-head{display:flex;align-items:baseline;justify-content:space-between;gap:14px;margin-bottom:16px}
 .section-head .see-all{font-weight:700;font-size:.9rem;white-space:nowrap}
 .sec-sub{color:var(--muted);margin:-8px 0 14px;max-width:72ch}
@@ -176,7 +176,7 @@ h3{font-size:1.05rem;font-weight:700}
 .ott-prov-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:7px;padding-top:7px;border-top:1px solid var(--line)}
 .ott-prov-logo{width:28px;height:28px;border-radius:6px;object-fit:cover;background:var(--soft);flex:none}
 .ott-prov-names{font-size:.8rem;color:var(--muted);font-weight:600;line-height:1.3}
-.ott-group{margin-top:20px}
+.ott-group{margin-top:34px}
 .ott-group>h3{font-size:1.02rem;margin-bottom:4px}
 .ott-group>.ott-group-note{color:var(--muted);font-size:.86rem;margin-bottom:12px}
 .skel{pointer-events:none}
@@ -2156,7 +2156,7 @@ a.release-card:hover{text-decoration:none;border-color:var(--teal)}a.release-car
   .home-filter-row{max-width:600px}
   #app #chipHost .listing-select-row:not(.listing-select-row--single){max-width:640px}
   /* Section rhythm for large screens. */
-  .section{margin:46px 0}
+  .section{margin:62px 0}
   /* Box-office panel rows (ui.js helper): a readable thumb and bars that
      use the row instead of capping at 520px. */
   .bo-row{grid-template-columns:56px 1fr auto}

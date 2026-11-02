@@ -25,7 +25,7 @@ const items = [
   tv(8, '2026-10-10', { industry: 'pakistani' }),
   movie(9, '2026-10-10', { providers: [] }),
 ];
-const fallbackStart = pageSource.indexOf('    const ottGroups = (() => {');
+const fallbackStart = pageSource.indexOf('    let ottGroups = (() => {');
 const fallbackEnd = pageSource.indexOf('    const pubMap = {};', fallbackStart);
 assert(fallbackStart >= 0 && fallbackEnd > fallbackStart, 'homepage OTT fallback anchor changed');
 const fallbackCode = pageSource.slice(fallbackStart, fallbackEnd) + '\nottGroups;';

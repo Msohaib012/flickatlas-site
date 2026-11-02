@@ -1,13 +1,22 @@
 /* FlickAtlas — current Google RSS trends intersected with published articles. */
 (function (root) {
   'use strict';
-  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 3 * 3600000, TREND_MAX_AGE_MS = 72 * 3600000, PROOF_MAX_AGE_MS = 72 * 3600000;
-  /* FEEDS and the 72h proof/trend windows mirror the server
-     (scripts/trending_weekly.py FEEDS + PROOF_HOURS/TREND_HOURS = 72,
-     owner-approved 72h pool incl. PK since 2026-11-01). This client
-     copy was never updated: it rejected every PK-geo proof and any
-     trend older than 24h, so the rail rendered empty even when the
-     server had emitted valid topics (fix 2026-11-02). */
+  var TOP_N = 8, WINDOW_MS = 7 * 86400000, FEED_MAX_AGE_MS = 24 * 3600000, TREND_MAX_AGE_MS = 72 * 3600000, PROOF_MAX_AGE_MS = 72 * 3600000;
+  /* This file is a faithful port of the server matcher
+     (scripts/trending_weekly.py): FEEDS (IN + US/GB/AU — PK removed
+     2026-11-02 by owner order), the 72h proof/trend windows and the
+     subject/context gates in validProof MUST stay identical to the
+     server's subject_match, or the rail silently empties: the client
+     re-vets every server-emitted topic, and the pre-v2 copy (exact
+     raw phrase in the headline, any-generic-word rejection, no
+     shared>=3 single-token escape) dropped topics the server had
+     validly emitted — e.g. "the avengers" on 2026-11-02 — leaving
+     the section vanished on the owner's phone (fix 2026-11-02).
+     FEED_MAX_AGE is 24h, not the server's 3h evidence-cache bound:
+     payload.checked_at is the evidence FETCH time, the pipeline
+     re-vets hourly, and the per-topic 72h windows do the real
+     freshness work; 24h only guards a dead pipeline, well inside
+     the owner's "trending this week only" rule. */
   var FEEDS = {US:'https://trends.google.com/trending/rss?geo=US', IN:'https://trends.google.com/trending/rss?geo=IN', GB:'https://trends.google.com/trending/rss?geo=GB', AU:'https://trends.google.com/trending/rss?geo=AU'};
   var GENERIC = {movie:1,movies:1,film:1,films:1,news:1,today:1,'box':1,'office':1,collection:1,collections:1,latest:1,trending:1,trend:1,viral:1,breaking:1,entertainment:1,cinema:1,update:1,updates:1};
   var STOP = {a:1,an:1,the:1,and:1,or:1,of:1,to:1,in:1,on:1,for:1,with:1,at:1,by:1,from:1,is:1,are:1,was:1,were:1,be:1,been:1,this:1,that:1,these:1,those:1,his:1,her:1,its:1,their:1,has:1,have:1,had:1};
@@ -18,7 +27,16 @@
   /* words(): roman-numeral canon + franchise-alias expansion, mirroring
      scripts/trending_weekly.py — "GTA 6" in Google's related headlines
      must share context words with "Grand Theft Auto VI" headlines. */
-  function words(s) { var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'}; var ALIASES={gta:['grand','theft','auto']}; var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }
+  var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'};
+  var ALIASES={gta:['grand','theft','auto']};
+  function words(s) { var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }
+  /* subjectSatisfied(term, hw): per-token subject gate, a line-for-line
+     port of _subject_satisfied in scripts/trending_weekly.py — a term
+     token counts as present when the token itself, its roman-numeral
+     twin, or its FULL alias expansion is in the headline's word set;
+     generic/stop/short tokens carry no requirement; no required
+     token at all -> false. */
+  function subjectSatisfied(term, hw) { var required=0, tokens=String(term || '').toLowerCase().match(/[a-z0-9]+/g) || []; for (var i=0;i<tokens.length;i++){ var w=tokens[i]; if(STOP[w]||(w.length<=2&&!/^\d+$/.test(w))||GENERIC[w])continue; required++; if(hw[w])continue; if(ROMAN[w]&&hw[ROMAN[w]])continue; var alias=ALIASES[w]; if(alias&&alias.every(function(a){return !!hw[a];}))continue; return false; } return required>0; }
   function countShared(a,b,excludeGeneric) { var n=0; Object.keys(a).forEach(function(w){if(b[w]&&(!excludeGeneric||!GENERIC[w]))n++;}); return n; }
   function within(t, now) { return !!t && t >= now - WINDOW_MS && t <= now; }
   function canonical(id) { return '/news-item?id=' + encodeURIComponent(String(id)); }
@@ -34,11 +52,13 @@
     var obs=Date.parse(p.observed_at), start=Date.parse(p.started_at);
     if(!isFinite(obs)||obs>now||now-obs>PROOF_MAX_AGE_MS||!isFinite(start)||start>now||now-start>TREND_MAX_AGE_MS)return false;
     var term=String(p.term||'').trim(), tw=words(term), hw=words(headline), rel=validRelated(p.related);
-    if(!Object.keys(tw).length||Object.keys(tw).some(function(w){return GENERIC[w];})||!termIn(term,headline)||!rel.length)return false;
+    /* Subject + context gates: identical to the server's
+       subject_match (scripts/trending_weekly.py) — keep in sync. */
+    if(!Object.keys(tw).length||!rel.length||!subjectSatisfied(term,hw))return false;
     var rw=Object.create(null); rel.forEach(function(r){var w=words(r.title);Object.keys(w).forEach(function(k){rw[k]=1;});});
-    if(Object.keys(tw).length===1){var context=rel.map(function(r){return r.title;}).join(' ');if(!termIn(term,context)||countShared(hw,rw,true)<2||!/(\bmovie\b|\bfilm\b|\bbox office\b|\bcinema\b|\bactor\b|\bactress\b|\brelease\b|\btrailer\b|\bcollection\b)/i.test(context))return false;}
-    if(countShared(hw,rw,true)<1)return false;
-    return true;
+    var shared=countShared(hw,rw,true);
+    if(Object.keys(tw).length===1){var context=rel.map(function(r){return r.title;}).join(' ');var entertainment=/(\bmovie\b|\bfilm\b|\bbox office\b|\bcinema\b|\bactor\b|\bactress\b|\brelease\b|\btrailer\b|\bcollection\b)/i.test(context);return termIn(term,context)&&((shared>=2&&entertainment)||shared>=3);}
+    return shared>=1||countShared(tw,rw,false)>=2;
   }
   function validTopics(payload, articles, now) {
     if (!payload || payload.source!=='google-rss' || payload.status!=='ok' || !Array.isArray(payload.topics)) return [];
@@ -71,5 +91,3 @@
   }
   root.FATrendingSearches={mount:mount,helpers:{validTopics:validTopics,validProof:validProof,render:render,withinWindow:within,canonical:canonical}};
 })(typeof window!=='undefined'?window:globalThis);
-  function words(s) { var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'}; var ALIASES={gta:['grand','theft','auto']}; var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }
-  function words(s) { var ROMAN={ii:'2',iii:'3',iv:'4',v:'5',vi:'6',vii:'7',viii:'8',ix:'9',x:'10'}; var ALIASES={gta:['grand','theft','auto']}; var out = Object.create(null); (String(s || '').toLowerCase().match(/[a-z0-9]+/g) || []).forEach(function(w){var forms=[w];if(ROMAN[w])forms.push(ROMAN[w]);if(ALIASES[w])forms=forms.concat(ALIASES[w]);forms.forEach(function(f){if((f.length>2||/^\d+$/.test(f))&&!STOP[f])out[f]=1;});}); return out; }

@@ -55,7 +55,31 @@ def load_js_window(path, varname):
     if not m: return None
     return json.loads(m.group(1))
 
-def words(s): return {w for w in re.findall(r"[a-z0-9]+", str(s or "").lower()) if len(w) > 2 and w not in STOP}
+# Subject-alias normalisation (fix 2026-11-02): Google's related headlines
+# often phrase the same subject differently from site headlines -- "GTA 6"
+# vs "Grand Theft Auto VI". Roman numerals died in the length filter and
+# abbreviations never expanded, so genuinely matching stories scored zero
+# shared context words and the rail emptied (2026-11-02: the GTA VI story
+# was the day's only real match and was rejected). Canon: emit the digit
+# form alongside roman numerals; expand known franchise aliases.
+# RELOCATION (fix 2026-11-02 #3): this block originally sat AFTER the
+# `if __name__ == "__main__"` guard at the bottom of the file, so it only
+# ever executed on IMPORT (unit tests) — production script runs
+# (`python3 scripts/trending_weekly.py`, as in hourly-pipeline.yml)
+# exited at the guard and silently used the plain words() below it.
+# It now lives here, ahead of every consumer, in both modes.
+_TREND_ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10"}
+_TREND_ALIASES = {"gta": ("grand", "theft", "auto")}
+
+def words(s):
+    out = set()
+    for w in re.findall(r"[a-z0-9]+", str(s or "").lower()):
+        forms = {w}
+        if w in _TREND_ROMAN: forms.add(_TREND_ROMAN[w])
+        if w in _TREND_ALIASES: forms.update(_TREND_ALIASES[w])
+        for f in forms:
+            if (len(f) > 2 or f.isdigit()) and f not in STOP: out.add(f)
+    return out
 def external_url(url):
     try:
         from urllib.parse import urlparse
@@ -66,6 +90,27 @@ def external_url(url):
 
 def valid_related(items):
     return [r for r in (items if isinstance(items, list) else []) if isinstance(r, dict) and str(r.get("title") or "").strip() and external_url(r.get("url"))]
+
+def _subject_satisfied(term, hw):
+    # Per-token satisfaction (fix 2026-11-02 #3): the flat subset gate
+    # required EVERY canon form of a term token in the headline —
+    # including the abbreviation itself — so AU's "gta vi" trend could
+    # never match a "Grand Theft Auto VI ..." headline ('gta' is not a
+    # headline word even though its whole expansion is present). A
+    # token now counts as present when the token itself, its roman-
+    # numeral twin, or its FULL alias expansion appears in the
+    # headline's word set. Generic/stop/short tokens carry no subject
+    # requirement, exactly as before; no required token -> reject.
+    required = 0
+    for w in re.findall(r"[a-z0-9]+", str(term or "").lower()):
+        if w in STOP or (len(w) <= 2 and not w.isdigit()) or w in GENERIC: continue
+        required += 1
+        if w in hw: continue
+        if _TREND_ROMAN.get(w) in hw: continue
+        alias = _TREND_ALIASES.get(w)
+        if alias and all(a in hw for a in alias): continue
+        return False
+    return required > 0
 
 def subject_match(term, headline, related):
     term = str(term or "").strip()
@@ -80,7 +125,9 @@ def subject_match(term, headline, related):
     # canon in words() makes "vi" <-> "6" meet — while the related-
     # headline context gates below still substantiate the subject, so
     # wrong-subject coincidences ("king" = King Charles) stay rejected.
-    if not subj or not subj.issubset(hw): return False
+    # (#3, same day: "every subject word" is per-token satisfaction —
+    # see _subject_satisfied — not a flat subset over canon forms.)
+    if not subj or not _subject_satisfied(term, hw): return False
     contexts = [str(x.get("title") or "") for x in related]
     context_words = set().union(*(words(x) for x in contexts)) if contexts else set()
     shared = len((hw - GENERIC) & context_words)
@@ -175,26 +222,3 @@ def main(argv=None):
     return 0
 
 if __name__ == "__main__": raise SystemExit(main())
-# Subject-alias normalisation (fix 2026-11-02): Google's related headlines
-# often phrase the same subject differently from site headlines -- "GTA 6"
-# vs "Grand Theft Auto VI". Roman numerals died in the length filter and
-# abbreviations never expanded, so genuinely matching stories scored zero
-# shared context words and the rail emptied (2026-11-02: the GTA VI story
-# was the day's only real match and was rejected). Canon: emit the digit
-# form alongside roman numerals; expand known franchise aliases. All
-# other gates (exact trend phrase in the headline, GENERIC rejection,
-# single-word entertainment context) are unchanged, so wrong-subject
-# coincidences (e.g. PK trend "king" = King Charles vs the film "King")
-# are still rejected.
-_TREND_ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10"}
-_TREND_ALIASES = {"gta": ("grand", "theft", "auto")}
-
-def words(s):
-    out = set()
-    for w in re.findall(r"[a-z0-9]+", str(s or "").lower()):
-        forms = {w}
-        if w in _TREND_ROMAN: forms.add(_TREND_ROMAN[w])
-        if w in _TREND_ALIASES: forms.update(_TREND_ALIASES[w])
-        for f in forms:
-            if (len(f) > 2 or f.isdigit()) and f not in STOP: out.add(f)
-    return out
