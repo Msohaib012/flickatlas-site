@@ -46126,5 +46126,355 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 13:34:18 +0000"
+  },
+  "th4j5b": {
+    "id": "th4j5b",
+    "type": "news",
+    "headline": "Kaali Kheti Teaser Unveils Rural Horror Featuring Jackie Shroff and Sharad Kelkar",
+    "dek": "The first preview for the upcoming horror thriller Kaali Kheti has arrived, highlighting a mysterious rural community bound to unsettling agricultural practices.",
+    "body": [
+      {
+        "h": "Introduction to the Teaser Release",
+        "p": [
+          "Audiences have been given their first look at the upcoming cinematic project Kaali Kheti with the launch of its official teaser. The promotional clip immediately establishes a gloomy, tension-filled mood centered around an isolated farming village.",
+          "Rather than offering a straightforward plot summary, the preview relies heavily on atmospheric dread and eerie visuals. It sets the stage for a narrative where the very soil and crops hold a terrifying significance for the local residents."
+        ]
+      },
+      {
+        "h": "Plot Premise and Rural Setting",
+        "p": [
+          "The story unfolds within a rustic backdrop where villagers appear to exist under the heavy burden of an unexplained presence. Farming and agriculture are depicted not as ordinary livelihoods, but as elements linked directly to a dark, looming threat.",
+          "The teaser cleverly conceals the exact nature of the supernatural force or local menace haunting the land. Viewers are left questioning what catastrophes have previously struck the territory and why fear dictates the daily lives of the community."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Highlights",
+        "p": [
+          "Veteran actors Jackie Shroff and Sharad Kelkar anchor the newly released footage, bringing a powerful screen presence to the project. Although specific details regarding their character arcs remain tightly under wraps, their prominent appearances heighten the overall intrigue.",
+          "In addition to the two lead actors, the feature boasts a talented supporting ensemble. Performers including Neha Sargam, Virendra Saxena, and Shaji Choudhary fill out the pivotal roles in this rural horror tale."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Talent",
+        "p": [
+          "The creative vision for the project comes from Haris Imtiyaz Khan, who handled both the writing and directing responsibilities. His approach leans into traditional fears tied to local folklore and the deep connection between people and their environment.",
+          "Production duties are managed by Sana Khan under the banner of BlackCanvas Studio. Their collaboration aims to bring a distinct and atmospheric aesthetic to the horror genre in Indian cinema."
+        ]
+      },
+      {
+        "h": "Thematic Elements of Horror and Folklore",
+        "p": [
+          "Kaali Kheti explores terror by grounding its central mystery in a distinctly rural and agrarian ecosystem. The film touches upon traditional beliefs and the precarious relationship rural populations maintain with the surrounding land.",
+          "By keeping the boundary between supernatural occurrences and localized superstition completely ambiguous, the teaser ensures that the underlying threat remains unsettlingly unpredictable for the audience."
+        ]
+      },
+      {
+        "h": "Release Schedule and Anticipation",
+        "p": [
+          "Eager fans tracking the project's progress will note that the theatrical launch is officially locked in. The movie is scheduled to arrive in cinemas on November 20, 2026.",
+          "This upcoming premiere date gives horror enthusiasts plenty of time to anticipate how the unfolding mysteries of the village will be resolved on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The newly dropped teaser for Kaali Kheti introduces a mysterious rural horror film starring Jackie Shroff and Sharad Kelkar, directed by Haris Imtiyaz Khan and produced by Sana Khan under BlackCanvas Studio. Scheduled for a theatrical release on November 20, 2026, the project explores an ominous farming community facing an ambiguous supernatural threat alongside supporting cast members Neha Sargam, Virendra Saxena, and Shaji Choudhary."
+        ]
+      }
+    ],
+    "facts": [
+      "The teaser for Kaali Kheti has been released.",
+      "Jackie Shroff and Sharad Kelkar star in the film.",
+      "The film is written and directed by Haris Imtiyaz Khan.",
+      "Sana Khan produced the film under BlackCanvas Studio.",
+      "Neha Sargam, Virendra Saxena, and Shaji Choudhary play pivotal roles.",
+      "The film is scheduled to release in theatres on November 20, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jackie Shroff",
+        "Sharad Kelkar",
+        "Haris Imtiyaz Khan",
+        "Sana Khan",
+        "Neha Sargam",
+        "Virendra Saxena",
+        "Shaji Choudhary"
+      ],
+      "titles": [
+        "Kaali Kheti"
+      ]
+    },
+    "keywords": [
+      "Kaali Kheti teaser",
+      "Jackie Shroff Kaali Kheti",
+      "Sharad Kelkar horror film",
+      "Haris Imtiyaz Khan movie"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Kaali-Kheti-teaser-out.jpeg",
+        "caption": "Kaali Kheti Teaser Unveils Rural Horror Featuring Jackie Shroff and Sharad Kelkar",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:09:12 +0200"
+  },
+  "1ex5s8y": {
+    "id": "1ex5s8y",
+    "type": "news",
+    "headline": "Olivia Rodrigo Releases Preview for First Holiday Song 'Take Me Home (4 Christmas)'",
+    "dek": "The pop star shares a playful forty-second video teaser featuring Cynthia Nixon and Ben Marshall playing a game of Heads Up ahead of her debut holiday single release.",
+    "body": [
+      {
+        "h": "The Holiday Preview Unveiled",
+        "p": [
+          "Pop artist Olivia Rodrigo is expanding her musical repertoire by stepping into seasonal music with her very first holiday track. To build excitement for the upcoming release, the singer shared a forty-second video preview on a Monday, showcasing a lighthearted and festive atmosphere.",
+          "The newly dropped teaser does not feature any audio or snippets of the actual song. Instead, it focuses heavily on a cheerful parlour game that sets a cozy, domestic mood for fans eagerly awaiting the drop."
+        ]
+      },
+      {
+        "h": "A Star-Studded Guessing Game",
+        "p": [
+          "The visual component of the teaser features recognizable guest stars playing a lively round of Heads Up. Saturday Night Live cast member Ben Marshall and Sex and the City actress Cynthia Nixon attempt to guess clues and figure out the identity on their headbands.",
+          "During the playful exchange, Marshall asks questions about whether the subject is an animal or a human, while Nixon wonders if she might be portraying a president. The group eventually confirms that the mystery subject belongs in the arts, prompting laughter from everyone involved."
+        ]
+      },
+      {
+        "h": "Cozy Festive Aesthetics",
+        "p": [
+          "The background of the video teaser reinforces the seasonal theme with warm, inviting home decor. Viewers can spot a roaring fireplace, holiday sweaters, and a glimpse of a decorated Christmas tree.",
+          "Adding to the traditional holiday atmosphere, Olivia Rodrigo's personal stocking is shown hanging carefully above the mantelpiece, tying the cozy living room setting together for the upcoming project."
+        ]
+      },
+      {
+        "h": "Release Details and Schedule",
+        "p": [
+          "Fans will not have to wait long to hear the complete track. 'Take Me Home (4 Christmas)' is scheduled to launch at 8 p.m. ET on Thursday, November 5.",
+          "The announcement of the video follows the earlier debut of the single's official artwork on Monday. That promotional image featured the singer sitting on the floor wearing a red Santa hat, matching lipstick, a candy cane-themed top, a black leather motorcycle jacket, and a polka dot skirt."
+        ]
+      },
+      {
+        "h": "Recent Musical Context",
+        "p": [
+          "This upcoming holiday single marks the very first piece of new music from Rodrigo since the summer. Her third studio album, you seem pretty sad for a girl so in love , made its debut back in June.",
+          "The full-length record has performed remarkably well since its launch, maintaining a strong presence on the charts and spending three consecutive weeks at the No. 1 spot on the Billboard 200."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Olivia Rodrigo is preparing to drop her inaugural holiday song, 'Take Me Home (4 Christmas)', accompanied by a video teaser starring Cynthia Nixon and Ben Marshall. The single arrives following her recent successful studio album and is set for release on November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Olivia Rodrigo shared a forty-second video teaser on Monday (Nov. 2).",
+      "The song is titled 'Take Me Home (4 Christmas)'.",
+      "Ben Marshall and Cynthia Nixon appear in the video playing Heads Up.",
+      "The single releases at 8 p.m. ET on Thursday (Nov. 5).",
+      "Her third studio album, you seem pretty sad for a girl so in love , was released in June.",
+      "The album spent three weeks at No. 1 on the Billboard 200."
+    ],
+    "entities": {
+      "people": [
+        "Olivia Rodrigo",
+        "Ben Marshall",
+        "Cynthia Nixon"
+      ],
+      "titles": [
+        "Take Me Home (4 Christmas)",
+        "Sex and the City",
+        "you seem pretty sad for a girl so in love"
+      ]
+    },
+    "keywords": [
+      "Olivia Rodrigo Take Me Home 4 Christmas",
+      "Olivia Rodrigo holiday song",
+      "Cynthia Nixon Ben Marshall video",
+      "Take Me Home 4 Christmas release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/P108EWU9-e1793710507162.jpg?w=1024",
+        "caption": "Olivia Rodrigo Releases Preview for First Holiday Song 'Take Me Home (4 Christmas)'",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:20:32 +0000"
+  },
+  "1rt20fs": {
+    "id": "1rt20fs",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Secures Record-Breaking OTT Deal Valued at 150 Crore",
+    "dek": "The upcoming action thriller starring Shah Rukh Khan has locked the largest digital streaming rights agreement of his career, outperforming his previous blockbusters by twenty-five percent.",
+    "body": [
+      {
+        "h": "The Record-Breaking Digital Agreement",
+        "p": [
+          "Shah Rukh Khan continues to dominate the entertainment industry with his unmatched stardom, securing the biggest digital streaming rights agreement of his career for his upcoming project, King. Industry reports indicate that the digital rights for the high-profile action thriller have been successfully locked at an astonishing 150 crore.",
+          "This massive financial milestone arrives at a time when the digital marketplace for Indian feature films has experienced a general contraction. While digital platforms have noticeably scaled back acquisition budgets following the initial post-pandemic boom, the sheer market pull of Shah Rukh Khan has successfully defied prevailing industry trends."
+        ]
+      },
+      {
+        "h": "Surpassing Jawan and Dunki",
+        "p": [
+          "The newly secured 150 crore agreement represents a significant financial leap compared to the actor's past releases. Both Jawan and Dunki previously commanded digital acquisition sums of 120 crore each, setting a formidable benchmark at the time of their respective distributions.",
+          "By achieving a 25 percent increase over those figures, the upcoming action thriller has established a new personal best for the superstar. For historical context within his recent filmography, Pathaan previously secured a digital valuation of 100 crore, illustrating a steady upward trajectory in his commercial value."
+        ]
+      },
+      {
+        "h": "Pre-Release Business and Market Buzz",
+        "p": [
+          "Beyond the digital streaming agreement, the production has demonstrated exceptional commercial strength across multiple revenue channels ahead of its theatrical debut. Reports suggest that the makers have already generated over 600 crore through a combination of pre-release theatrical and non-theatrical partnerships.",
+          "This robust pre-release momentum has elevated audience anticipation significantly across the country. With strong commercial backing already secured prior to its theatrical launch, the project enters its final promotional window with considerable financial security."
+        ]
+      },
+      {
+        "h": "Background and Context of Stardom",
+        "p": [
+          "The immense commercial interest surrounding the film follows a highly successful theatrical run in 2023, during which the actor delivered three consecutive commercial successes. Even though the upcoming venture arrives approximately three years after his last cinematic outing in Dunki, his widespread appeal remains entirely undiminished.",
+          "The current market response underscores how established cinematic icons can command premium valuations despite fluctuating buyer appetites. Producers and distributors continue to place immense confidence in his ability to draw audiences across diverse viewing platforms."
+        ]
+      },
+      {
+        "h": "Theatrical Expectations and Future Outlook",
+        "p": [
+          "With the digital and non-theatrical agreements firmly established, attention now shifts toward the theatrical rollout and audience reception. Industry analysts note that robust advance business provides a solid foundation for the film's commercial journey upon hitting theaters.",
+          "The primary objective for the makers moving forward is to deliver engaging entertainment that resonates strongly with general moviegoers. Meeting or exceeding viewer expectations on the big screen could pave the way for extraordinary box office milestones given the current pre-release hype."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming action thriller King has secured a record-breaking digital streaming deal worth 150 crore, marking a 25 percent increase over his previous films Jawan and Dunki. The project has already crossed 600 crore in total pre-release theatrical and non-theatrical business ahead of its grand theatrical debut."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's King secured a 150 crore OTT deal.",
+      "The new deal is 25 percent higher than Jawan and Dunki.",
+      "Jawan and Dunki were acquired for 120 crore each.",
+      "Pathaan was acquired for 100 crore.",
+      "The film has made over 600 crore through pre-release theatrical and non-theatrical deals."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "King",
+        "Jawan",
+        "Dunki",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "King Shah Rukh Khan OTT deal",
+      "Shah Rukh Khan King 150 crore",
+      "King movie pre-release business",
+      "Shah Rukh Khan upcoming action thriller"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/shah-rukh-khans-king-01.jpg",
+        "caption": "Shah Rukh Khan's King Secures Record-Breaking OTT Deal Valued at 150 Crore",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:48:39 +0000"
+  },
+  "1x5yt3l": {
+    "id": "1x5yt3l",
+    "type": "news",
+    "headline": "Regional Release Times Revealed for The Legend of Zelda: Ocarina of Time Remake",
+    "dek": "Nintendo has officially outlined the exact launch schedule and time zones for the upcoming Nintendo Switch 2 reimagining, giving fans around the world clarity on when they can begin their journey.",
+    "body": [
+      {
+        "h": "The Long-Awaited Return of a Classic",
+        "p": [
+          "The gaming community is gearing up for the arrival of the reimagined version of a beloved 1998 title, bringing a completely refreshed perspective to a timeless adventure. As the launch window approaches, players are eager to dive into updated gameplay systems and experience familiar locations with a brand-new visual style.",
+          "The project serves as a major milestone for the iconic franchise, promising modernized elements while preserving the core spirit of the original adventure that captured the hearts of millions decades ago."
+        ]
+      },
+      {
+        "h": "Global Launch Schedule and Time Zones",
+        "p": [
+          "Nintendo has officially detailed the specific launch hours for various territories, ensuring that players across different parts of the map know precisely when the software becomes active. While most locations worldwide unlock the title at midnight local time, certain time zones enjoy early access on the preceding evening.",
+          "Fans residing in specific North American time zones will benefit from evening availability ahead of the official date, allowing dedicated players to boot up their systems hours before the actual calendar date turns over."
+        ]
+      },
+      {
+        "h": "Early Access Across Select Regions",
+        "p": [
+          "Depending on geographical location, some users will be able to start playing on the night of November 4. Specifically, individuals in the Pacific, Mountain, and Central time zones gain access prior to the global midnight rollout.",
+          "This staggered rollout means that Los Angeles players can jump in by nine in the evening, while Denver and Chicago follow shortly after at ten and eleven respectively, giving those regions a head start."
+        ]
+      },
+      {
+        "h": "Midnight Unlocks Worldwide",
+        "p": [
+          "For the vast majority of international territories, the digital doors open squarely at midnight on November 5. Major hubs including New York, London, Beijing, Seoul, Tokyo, and Melbourne all follow this standard local midnight framework.",
+          "Players in Mexico City and Brazil similarly align with this schedule, ensuring a simultaneous celebration as the date officially shifts across multiple continents."
+        ]
+      },
+      {
+        "h": "File Size and Pre-Downloading Recommendations",
+        "p": [
+          "Due to the extensive scope of the reimagined adventure, the software requires a substantial amount of storage space. In fact, reports indicate it stands as the largest core game the franchise has ever produced.",
+          "Because of the massive file size, experts strongly advise utilizing the pre-download functionality beforehand. This ensures the content is fully unpacked and ready to launch the moment availability begins in your region."
+        ]
+      },
+      {
+        "h": "Workarounds and Physical Limitations",
+        "p": [
+          "Discussion among the community has naturally turned toward methods for unlocking the software even earlier, such as adjusting console location settings to match regions that hit midnight first. For instance, shifting a profile to New Zealand has historically offered accelerated access.",
+          "However, those who secured physical copies or qualified for special local store pre-order bonuses will find themselves restricted from utilizing digital workarounds, though the wait difference amounts to mere hours."
+        ]
+      },
+      {
+        "h": "Clashing With Other Major Releases",
+        "p": [
+          "The timing places this major release in a bustling window for the industry, coinciding with another massive entertainment phenomenon later in the month. Fortunately, the schedule provides ample breathing room for enthusiasts to complete their journeys before other massive blockbusters arrive.",
+          "With high expectations from both critics and long-time followers, the reimagined classic is positioned to dominate gaming discussions throughout the month."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nintendo has revealed regional release dates and times for the upcoming Nintendo Switch 2 title The Legend of Zelda: Ocarina of Time Remake, slated for November 5, 2026. While most global regions receive access at midnight local time, select North American time zones gain early entry on the night of November 4, alongside recommendations for pre-downloading the series' largest core game to date."
+        ]
+      }
+    ],
+    "facts": [
+      "The Legend of Zelda: Ocarina of Time Remake releases on November 5, 2026.",
+      "The game is developed and published by Nintendo for Nintendo Switch 2 consoles.",
+      "Los Angeles players get access at 9pm PST on November 4.",
+      "Denver players get access at 10pm MST on November 4.",
+      "Chicago players get access at 11pm CST on November 4.",
+      "New York, Mexico City, Brazil, London, Beijing, Seoul, Tokyo, and Melbourne receive the game at 12am on November 5."
+    ],
+    "entities": {
+      "people": [
+        "Bruno Yonezawa"
+      ],
+      "titles": [
+        "The Legend of Zelda: Ocarina of Time Remake",
+        "Grand Theft Auto 6"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda Ocarina of Time Remake",
+      "Zelda Ocarina of Time Remake release times",
+      "Nintendo Switch 2 Zelda release",
+      "Ocarina of Time Remake regional release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/ocarina-of-time-chest.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Regional Release Times Revealed for The Legend of Zelda: Ocarina of Time Remake",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:34:01 GMT"
   }
 };
