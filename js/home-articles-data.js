@@ -162,6 +162,154 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 03 Nov 2026 20:41:00 +0000"
   },
+  "dlwf9h": {
+    "id": "dlwf9h",
+    "type": "news",
+    "headline": "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week",
+    "dek": "While overall Broadway business saw a downturn last week, the anticipated revival of Much Ado About Nothing starring Tom Hiddleston and Hayley Atwell drew strong crowds for its initial preview.",
+    "entities": {
+      "people": [
+        "Tom Hiddleston",
+        "Hayley Atwell",
+        "Jamie Lloyd",
+        "Julia Louis-Dreyfus",
+        "Ed Harris",
+        "Billy Crystal",
+        "Solea Pfeiffer",
+        "Liisi LaFontaine",
+        "Angelica Chéri",
+        "Ross Baum"
+      ],
+      "titles": [
+        "Much Ado About Nothing",
+        "A Few Good Men",
+        "Hamilton",
+        "Other Desert Cities",
+        "Juliet",
+        "The Outsiders",
+        "Wanted",
+        "Downstate",
+        "The Fantasticks"
+      ]
+    },
+    "keywords": [
+      "Much Ado About Nothing Broadway",
+      "Tom Hiddleston Much Ado About Nothing",
+      "Broadway box office November",
+      "Jamie Lloyd Much Ado About Nothing"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg?w=1024",
+        "caption": "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 20:21:47 +0000"
+  },
+  "13cn86h": {
+    "id": "13cn86h",
+    "type": "news",
+    "headline": "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+    "dek": "Skydance has announced new leadership for its distribution operations while eight executives exit the company in the wake of the Paramount-Skydance and Warner Bros. Discovery merger.",
+    "entities": {
+      "people": [
+        "Sarah Bergman",
+        "Mickey Carter",
+        "Ray Hopkins",
+        "Rivka Golomb",
+        "Kelly Kane",
+        "Jeff Cross",
+        "Rich Palermo",
+        "David Comisar",
+        "Kurt Davis",
+        "Deena Demasi",
+        "Ken Kay",
+        "David Ellison",
+        "Rick Baker"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Skydance distribution executives depart",
+      "Paramount Warner Bros Discovery merger",
+      "Sarah Bergman Mickey Carter Skydance",
+      "Ray Hopkins Skydance memo"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood1_1753008085297_1753008115348.jpeg",
+        "caption": "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 01:19:41 +0530"
+  },
+  "ckag4v": {
+    "id": "ckag4v",
+    "type": "news",
+    "headline": "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+    "dek": "Actor Pedro Pascal and director Tony Gilroy shared insights into the upcoming film Behemoth! at the New York Film Festival, detailing the central role that music plays in connecting the protagonist's past and present.",
+    "entities": {
+      "people": [
+        "Pedro Pascal",
+        "Tony Gilroy",
+        "Olivia Wilde",
+        "Marcello Mastroianni",
+        "Eva Victor"
+      ],
+      "titles": [
+        "Behemoth!",
+        "Bourne",
+        "Michael Clayton"
+      ]
+    },
+    "keywords": [
+      "Pedro Pascal Behemoth",
+      "Tony Gilroy film",
+      "Behemoth movie cellist",
+      "Olivia Wilde Behemoth"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
+        "caption": "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 01:17:49 +0530"
+  },
+  "sbe29a": {
+    "id": "sbe29a",
+    "type": "news",
+    "headline": "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+    "dek": "A group of frustrated viewers recently gathered in Boston to demonstrate against Liberty Mutual's controversial mascot, shifting public ire away from older campaign figures.",
+    "entities": {
+      "people": [
+        "DimesAreTasty",
+        "Limu Emu",
+        "Doug"
+      ],
+      "titles": [
+        "Liberty Biberty"
+      ]
+    },
+    "keywords": [
+      "Liberty Biberty protest",
+      "Liberty Mutual mascot",
+      "DimesAreTasty Liberty Biberty",
+      "DimesAreTasty",
+      "Limu Emu"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/hAsMUjCozbyYwRWYYY7MZE-2000-80.jpg",
+        "caption": "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 19:47:18 +0000"
+  },
   "cbwses": {
     "id": "cbwses",
     "type": "news",
@@ -4583,165 +4731,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 22:12:52 +0530"
-  },
-  "195lnut": {
-    "id": "195lnut",
-    "type": "news",
-    "headline": "Stephen King Prequel Series It: Welcome to Derry Climbs Global Streaming Charts",
-    "dek": "One year after its debut, the television prequel based on Stephen King's famous novel has surged into the top 10 streaming charts globally.",
-    "entities": {
-      "people": [
-        "Stephen King",
-        "Andy Muschietti",
-        "Barbara Muschietti",
-        "Jason Fuchs",
-        "Major Leroy Hanlon",
-        "Charlotte Hanlon",
-        "Will Hanlon",
-        "Dick Halloran",
-        "Bill Skarsgård",
-        "Brad Caleb Kane",
-        "Ethan King"
-      ],
-      "titles": [
-        "It: Welcome to Derry",
-        "It",
-        "The Shining",
-        "Carrie"
-      ]
-    },
-    "keywords": [
-      "It Welcome to Derry",
-      "Stephen King streaming show",
-      "It Welcome to Derry Season 2",
-      "Bill Skarsgard Pennywise"
-    ],
-    "images": [
-      {
-        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/a-group-of-masked-strangers-in-the-series-it-welcome-to-derry-2.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Stephen King Prequel Series It: Welcome to Derry Climbs Global Streaming Charts",
-        "source": "MovieWeb"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 16:36:18 GMT"
-  },
-  "1h3kg2m": {
-    "id": "1h3kg2m",
-    "type": "news",
-    "headline": "Lenny Kravitz Rejects False Internet Rumors Placing Him on Downed Florida Learjet",
-    "dek": "Representatives for the musician firmly debunked viral claims that he was among the victims of a fatal business jet accident in Florida.",
-    "entities": {
-      "people": [
-        "Lenny Kravitz",
-        "Emily Shelton",
-        "Nathalia Gadelha Filgueiras",
-        "Sean Duffy"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Lenny Kravitz plane crash",
-      "Emily Shelton pilot rumor",
-      "Florida Learjet crash Palm Beach",
-      "Nathalia Gadelha Filgueiras"
-    ],
-    "images": [
-      {
-        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/Lenny-Kravitz-getty-H-2024.png?w=1296&#038;h=730&#038;crop=1",
-        "caption": "Lenny Kravitz Rejects False Internet Rumors Placing Him on Downed Florida Learjet",
-        "source": "The Hollywood Reporter"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 16:27:16 +0000"
-  },
-  "jbhipl": {
-    "id": "jbhipl",
-    "type": "news",
-    "headline": "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
-    "dek": "Netflix has announced the release date and cast details for the upcoming Brazilian romantic comedy series Valentina and the 12 Signs, starring Giovanna Grigio and based on the novel by Ray Tavares.",
-    "entities": {
-      "people": [
-        "Giovanna Grigio",
-        "Ray Tavares",
-        "Bia Crespo",
-        "Carol Durão",
-        "Tiago Mello",
-        "Jessica Marques",
-        "Manu Morelli",
-        "Larissa Bocchino",
-        "Lucas Leto",
-        "Pedro Ottoni",
-        "Suzana Pires",
-        "Ana Hikari",
-        "José Condessa"
-      ],
-      "titles": [
-        "Valentina and the 12 Signs",
-        "Os 12 Signos de Valentina",
-        "Rebelde",
-        "Young Hearts",
-        "As Five",
-        "Por Você",
-        "The Good Side of Life",
-        "Insubmissas",
-        "The Endless Night",
-        "Criminal Code",
-        "An Unforgettable Year: Autumn",
-        "Toda Família Tem",
-        "Casa Grande",
-        "Body by Beth",
-        "Turn of the Tide"
-      ]
-    },
-    "keywords": [
-      "Valentina and the 12 Signs",
-      "Giovanna Grigio Valentina and the 12 Signs",
-      "Ray Tavares Os 12 Signos de Valentina",
-      "Valentina and the 12 Signs release date",
-      "Netflix Brazilian romance series Valentina"
-    ],
-    "images": [
-      {
-        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/valentina-and-the-12-signs-netflix-preview.jpg",
-        "caption": "Giovanna Grigio to Star in Netflix's Upcoming Brazilian Romantic Comedy Series Valentina and the 12 Signs",
-        "source": "What's on Netflix"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 16:23:11 +0000"
-  },
-  "qencqr": {
-    "id": "qencqr",
-    "type": "news",
-    "headline": "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
-    "dek": "Discover the latest voting trends, nominations, and secret room twists for week 10 of Bigg Boss Bangla 3 hosted by Sourav Ganguly.",
-    "entities": {
-      "people": [
-        "Rajveer",
-        "Srijla",
-        "Ranieeta",
-        "Tanushree",
-        "Nandini",
-        "Sourav Ganguly",
-        "Abhishek Ranjit"
-      ],
-      "titles": [
-        "Bigg Boss Bangla 3"
-      ]
-    },
-    "keywords": [
-      "Bigg Boss Bangla 3",
-      "Sourav Ganguly",
-      "JioHotstar",
-      "Bigg Boss Bangla voting trends"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/biggbossbangla3votingtrendsweek10-39681793635378.jpg",
-        "caption": "Bigg Boss Bangla 3 Week 10 Voting Trends And Secret Room Twists",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 21:49:56 +0530"
   },
   "d0icwu": {
     "id": "d0icwu",

@@ -49273,5 +49273,398 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 20:41:00 +0000"
+  },
+  "13cn86h": {
+    "id": "13cn86h",
+    "type": "news",
+    "headline": "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+    "dek": "Skydance has announced new leadership for its distribution operations while eight executives exit the company in the wake of the Paramount-Skydance and Warner Bros. Discovery merger.",
+    "body": [
+      {
+        "h": "Leadership Restructuring at Skydance",
+        "p": [
+          "Skydance has officially shaken up its distribution ranks by appointing Sarah Bergman and Mickey Carter to spearhead its distribution business. This major reorganization comes on the heels of the massive merger between Paramount-Skydance and Warner Bros. Discovery that was completed last month.",
+          "According to an internal memo reviewed by Reuters and sent by Skydance president of distribution Ray Hopkins, the newly appointed leaders will spend the upcoming weeks organizing and finalizing the structure of their respective departments."
+        ]
+      },
+      {
+        "h": "Eight Executives Set to Depart",
+        "p": [
+          "The corporate shakeup involves the departure of eight high-level executives from the combined entity. Four of the departing figures hail from the Warner Bros. Discovery side, including Rivka Golomb, Kelly Kane, Jeff Cross, and Rich Palermo.",
+          "The remaining four outgoing executives originate from Paramount. This group includes David Comisar, Kurt Davis, Deena Demasi, and Ken Kay, marking a significant transition in leadership for both legacy companies."
+        ]
+      },
+      {
+        "h": "New Appointments and Key Roles",
+        "p": [
+          "Alongside the new top leadership, the internal memo also named seven other executives from both Paramount and Warner Bros. to critical leadership roles reporting directly to Bergman and Carter.",
+          "Sarah Bergman currently serves as executive vice president of networks and streaming distribution for Warner Bros. Discovery, while Mickey Carter holds the position of executive vice president of US distribution for Paramount."
+        ]
+      },
+      {
+        "h": "The Core Function of Distribution",
+        "p": [
+          "The distribution arm of the newly formed media giant plays a vital role in securing business agreements. Their primary focus centers on negotiating deals with cable operators, satellite providers, local television stations, and streaming platforms to ensure widespread carriage of the company's content library."
+        ]
+      },
+      {
+        "h": "Merger Scale and Financial Strategy",
+        "p": [
+          "The corporate restructuring follows the completion of the massive $110 billion takeover of Warner Bros. Discovery by Paramount-Skydance, with the unified organization operating under the Skydance banner. Led by David Ellison, the media giant is actively pursuing at least $6 billion in planned savings.",
+          "These financial maneuvers are critical as the company manages approximately $80 billion in combined debt amidst a rapidly evolving Hollywood landscape heavily influenced by streaming growth and ongoing industry consolidation."
+        ]
+      },
+      {
+        "h": "Advisory Transition for Jeff Cross",
+        "p": [
+          "Among the departing Warner Bros. Discovery executives is Jeff Cross, who currently serves as executive vice president of legal, distribution, and commercial partnerships.",
+          "While stepping down from his executive post, Cross will stay on with the company as a senior advisor to the distribution business. His previous duties will be transitioned to Rick Baker, who serves as Paramount executive vice president and deputy general counsel for distribution business and legal affairs."
+        ]
+      },
+      {
+        "h": "Broader Workforce Impact",
+        "p": [
+          "The latest executive departures are part of a broader workforce transition following the merger. Last month, Skydance extended offers for a one-time voluntary buyout to certain employees.",
+          "Based on annual filings from both Paramount and Warner Bros. Discovery released in 2025, the combined enterprise is expected to maintain an overall workforce of roughly 53,000 employees."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Skydance has restructured its distribution division by appointing Sarah Bergman and Mickey Carter to lead the business following its merger with Warner Bros. Discovery. The corporate transition involves the departure of eight executives from both legacy companies and aims to address financial savings and debt management under the leadership of Ray Hopkins and David Ellison."
+        ]
+      }
+    ],
+    "facts": [
+      "Skydance named Sarah Bergman and Mickey Carter to lead its distribution business following the merger of Paramount-Skydance and Warner Bros. Discovery last month.",
+      "Eight executives are set to leave the company, including four from Warner Bros. Discovery and four from Paramount.",
+      "The Warner Bros. Discovery departing executives are Rivka Golomb, Kelly Kane, Jeff Cross, and Rich Palermo.",
+      "The Paramount departing executives are David Comisar, Kurt Davis, Deena Demasi, and Ken Kay.",
+      "The Paramount-Skydance takeover of Warner Bros. Discovery was valued at $110 billion.",
+      "Skydance is targeting at least $6 billion in planned savings while managing about $80 billion in combined debt.",
+      "Jeff Cross will leave his role as EVP of legal, distribution and commercial partnerships but remain as a senior advisor.",
+      "Rick Baker will take over Jeff Cross's duties.",
+      "The combined company is expected to have about 53,000 employees based on 2025 annual filings."
+    ],
+    "entities": {
+      "people": [
+        "Sarah Bergman",
+        "Mickey Carter",
+        "Ray Hopkins",
+        "Rivka Golomb",
+        "Kelly Kane",
+        "Jeff Cross",
+        "Rich Palermo",
+        "David Comisar",
+        "Kurt Davis",
+        "Deena Demasi",
+        "Ken Kay",
+        "David Ellison",
+        "Rick Baker"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Skydance distribution executives depart",
+      "Paramount Warner Bros Discovery merger",
+      "Sarah Bergman Mickey Carter Skydance",
+      "Ray Hopkins Skydance memo"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood1_1753008085297_1753008115348.jpeg",
+        "caption": "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 01:19:41 +0530"
+  },
+  "sbe29a": {
+    "id": "sbe29a",
+    "type": "news",
+    "headline": "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+    "dek": "A group of frustrated viewers recently gathered in Boston to demonstrate against Liberty Mutual's controversial mascot, shifting public ire away from older campaign figures.",
+    "body": [
+      {
+        "h": "The Rise of Public Backlash",
+        "p": [
+          "Commercial mascots frequently become cultural touchstones, but one recent marketing creation has sparked genuine offline outrage. Instead of merely complaining online, a group of fed-up consumers decided to take their grievances directly to the source by staging a physical demonstration.",
+          "Dozens of individuals assembled outside the corporate offices in Boston to voice their displeasure over the widely discussed marketing campaign. This unusual gathering proved that contemporary advertising can occasionally provoke strong real-world reactions from viewers who are simply tired of seeing the same promotional spots repeatedly."
+        ]
+      },
+      {
+        "h": "Organizing the Demonstration",
+        "p": [
+          "The protest was spearheaded by online content creator DimesAreTasty, who mobilized local residents and fellow critics to make their voices heard. Participants arrived at the corporate gates to protest the entity known as Liberty Biberty, claiming the promotional figure actively detracts from their viewing enjoyment.",
+          "Many of the attendees reported feeling particularly frustrated by the constant interruption of their favorite sporting events and streamed programs. Even major news networks took notice of the unusual demonstration, covering the gathering and bringing mainstream attention to the anti-mascot movement."
+        ]
+      },
+      {
+        "h": "Origins of the Character",
+        "p": [
+          "The contentious figure originated as an accidental verbal slip in a previous corporate advertisement, where an actor mistakenly uttered the phrase instead of the company's actual name. What began as an isolated comedic moment quickly transformed into a recurring narrative gag across subsequent promotional spots.",
+          "Capitalizing on the initial joke, the marketing team eventually developed a physical puppet representing the verbal blunder. This yellow creature was constructed in collaboration with the Jim Henson Workshop, cementing its status as an official Muppet-style creation featured heavily in recent campaigns."
+        ]
+      },
+      {
+        "h": "Shifting Focus From Past Mascots",
+        "p": [
+          "Before this new yellow creature arrived, insurance commercials were dominated by other familiar faces. Figures like Limu Emu and Doug previously bore the brunt of viewer commentary, but public frustration has clearly shifted toward this newer addition.",
+          "The sheer volume of complaints suggests that viewers have reached a saturation point regarding repetitive corporate advertising. As audiences consume more content via streaming subscriptions and live broadcasts, advertising repetition appears to be driving stronger negative sentiments than in previous years."
+        ]
+      },
+      {
+        "h": "The Marketing Strategy Debate",
+        "p": [
+          "Many observers within the entertainment industry suspect that the negative attention might actually be intentional. By generating widespread online discourse and real-world protests, the company successfully keeps its brand name trending across multiple digital platforms.",
+          "Whether or not the controversy impacts long-term consumer perception remains to be seen, but the campaign has undoubtedly achieved maximum visibility. Discussions about insurance are rarely this widespread, suggesting the marketing division may have achieved its ultimate objective regardless of public sentiment."
+        ]
+      },
+      {
+        "h": "Future of the Campaign",
+        "p": [
+          "As upcoming television schedules continue to roll out, viewers should expect to see the contentious character remain part of the broader broadcasting lineup. It remains unclear whether the company will acknowledge the recent backlash or quietly phase out the mascot in response to the criticism.",
+          "Some commentators humorously speculate that the ongoing controversy could even be building toward a major appearance during a high-profile broadcast event like the Super Bowl halftime show. Until then, audiences will simply have to decide whether to tune out or join future demonstrations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A group of consumers led by YouTuber DimesAreTasty gathered outside the Liberty Mutual headquarters in Boston to protest the company's Liberty Biberty advertising mascot. The character, created in collaboration with the Jim Henson Workshop, sparked viewer backlash after repeated appearances during sports broadcasts and streaming programs."
+        ]
+      }
+    ],
+    "facts": [
+      "A protest was held in Boston in front of the Liberty Mutual headquarters.",
+      "The demonstration was led by YouTuber DimesAreTasty.",
+      "The Liberty Biberty character is a yellow puppet created in collaboration with the Jim Henson Workshop.",
+      "The character originated from an older commercial where an actor mistakenly said Liberty Biberty instead of Liberty Mutual."
+    ],
+    "entities": {
+      "people": [
+        "DimesAreTasty",
+        "Limu Emu",
+        "Doug"
+      ],
+      "titles": [
+        "Liberty Biberty"
+      ]
+    },
+    "keywords": [
+      "Liberty Biberty protest",
+      "Liberty Mutual mascot",
+      "DimesAreTasty Liberty Biberty",
+      "DimesAreTasty",
+      "Limu Emu"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/hAsMUjCozbyYwRWYYY7MZE-2000-80.jpg",
+        "caption": "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 19:47:18 +0000"
+  },
+  "ckag4v": {
+    "id": "ckag4v",
+    "type": "news",
+    "headline": "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+    "dek": "Actor Pedro Pascal and director Tony Gilroy shared insights into the upcoming film Behemoth! at the New York Film Festival, detailing the central role that music plays in connecting the protagonist's past and present.",
+    "body": [
+      {
+        "h": "Introduction to the Project",
+        "p": [
+          "Actor Pedro Pascal stars as a cellist in the upcoming film Behemoth!, a project written and directed by Oscar winner Tony Gilroy.",
+          "Pascal recently spoke about the project at a screening held during the New York Film Festival on Friday, highlighting the personal nature of the storytelling."
+        ]
+      },
+      {
+        "h": "Character and Plot Details",
+        "p": [
+          "In the movie, Pascal plays Alex Serian, a musician who relocates to Los Angeles to look after his dying mother and distance himself from an overbearing ex portrayed by Olivia Wilde.",
+          "While in Los Angeles, the protagonist joins an orchestra that plays film scores, which serves to connect scattered fragments of his history."
+        ]
+      },
+      {
+        "h": "The Role of Music",
+        "p": [
+          "The score for the production was composed by nine different musicians and functions as a narrative bridge linking past and present events for both the main character and the audience.",
+          "Pascal noted that the musical elements guide the viewer through the intimate emotional landscape of the narrative."
+        ]
+      },
+      {
+        "h": "Director's Creative Shift",
+        "p": [
+          "For filmmaker Tony Gilroy, this production represents a notable narrative departure from his earlier work on action movies and legal thrillers.",
+          "The director explained that he had never previously written a protagonist who was neither actively rushing toward nor escaping from crises."
+        ]
+      },
+      {
+        "h": "Inspirations Behind the Protagonist",
+        "p": [
+          "Gilroy drew inspiration from legendary Italian actor Marcello Mastroianni when shaping the temperament of the lead character.",
+          "The goal was to create a figure who functions as a passenger experiencing events without being overwhelmed by them."
+        ]
+      },
+      {
+        "h": "Cast Perspectives on the Character",
+        "p": [
+          "Eva Victor, who portrays one of Alex's partners in the movie, offered a different perspective on the lead character's demeanor.",
+          "She suggested that avoiding engagement and fleeing from personal challenges amounts to an active form of self-sabotage rather than true passivity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pedro Pascal discusses his role as a cellist in Tony Gilroy's upcoming film Behemoth!, which was featured at the New York Film Festival.",
+          "The narrative follows a musician navigating personal challenges in Los Angeles, with a multi-composer score acting as a bridge to his past."
+        ]
+      }
+    ],
+    "facts": [
+      "Pedro Pascal is 51 years old.",
+      "Tony Gilroy is 70 years old.",
+      "The screening took place at the New York Film Festival on Friday.",
+      "The film score for Behemoth! was written by nine composers."
+    ],
+    "entities": {
+      "people": [
+        "Pedro Pascal",
+        "Tony Gilroy",
+        "Olivia Wilde",
+        "Marcello Mastroianni",
+        "Eva Victor"
+      ],
+      "titles": [
+        "Behemoth!",
+        "Bourne",
+        "Michael Clayton"
+      ]
+    },
+    "keywords": [
+      "Pedro Pascal Behemoth",
+      "Tony Gilroy film",
+      "Behemoth movie cellist",
+      "Olivia Wilde Behemoth"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
+        "caption": "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 01:17:49 +0530"
+  },
+  "dlwf9h": {
+    "id": "dlwf9h",
+    "type": "news",
+    "headline": "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week",
+    "dek": "While overall Broadway business saw a downturn last week, the anticipated revival of Much Ado About Nothing starring Tom Hiddleston and Hayley Atwell drew strong crowds for its initial preview.",
+    "body": [
+      {
+        "h": "Broadway Industry Slump",
+        "p": [
+          "The theatrical district experienced a noticeable downturn during the week ending November 1, with overall box office figures dropping roughly 13% compared to both the prior week and the same period last season. Industry observers noted that Saturday's Halloween holiday may have drawn public attention away from evening performances, contributing to the slower foot traffic across multiple venues.",
+          "Total revenue for the thirty-three active productions dipped to $29,572,284. Meanwhile, aggregate attendance figures slipped to 251,700 patrons, marking a 4% decline week-over-week and a 9% drop year-over-year. The vast majority of staging productions experienced financial contractions, with twenty-six out of thirty-three shows reporting lower figures than the previous period."
+        ]
+      },
+      {
+        "h": "Notable Gross Decreases",
+        "p": [
+          "Several established theatrical hits saw significant downward adjustments in their weekly grosses, frequently amounting to six-figure losses. Among the hardest hit were the popular productions Juliet and The Outsiders, both of which registered revenue reductions exceeding $300,000 compared to their preceding performances.",
+          "Specifically, Juliet pulled in $610,232 for the week, while The Outsiders finished close behind with a total of $605,946. These sharp contractions underscored a broader market correction affecting even some of the street's most resilient crowd-pleasers."
+        ]
+      },
+      {
+        "h": "Much Ado About Nothing Preview Success",
+        "p": [
+          "Bucking the broader market slump, the highly anticipated revival of Much Ado About Nothing made a strong splash at the Winter Garden Theatre. Helmed by director Jamie Lloyd and featuring star power from Tom Hiddleston and Hayley Atwell, the production filled the venue for its inaugural preview performance.",
+          "The single preview outing brought in $358,262, signaling robust initial demand ahead of the official opening night scheduled for November 19. The mounting also commanded a high average paid admission of $238.36, placing it among the priciest tickets on the boards."
+        ]
+      },
+      {
+        "h": "Other Sold-Out Productions",
+        "p": [
+          "Alongside the Hiddleston-led revival, a select few other titles managed to defy the weekly downturn by achieving sold-out status. A Few Good Men filled every seat at the Vivian Beaumont at Lincoln Center despite opening to mixed reviews, generating $1,277,792 despite a slight drop due to press comps.",
+          "At the Richard Rodgers Theatre, Hamilton continued its steady run as a standing-room-only attraction, grossing $2,317,475. Alongside Other Desert Cities, it remained one of the rare programs to crack the coveted two-million-dollar weekly milestone."
+        ]
+      },
+      {
+        "h": "Top Earners And Ticket Pricing",
+        "p": [
+          "Other Desert Cities claimed the top spot on the financial charts, starring Julia Louis-Dreyfus and Ed Harris and pulling in an impressive $2,347,158. The production also commanded the highest ticket price roster across the entire district, boasting an average paid attendance cost of $301.23.",
+          "Only two other shows crossed the $200 threshold for average admission prices: Much Ado About Nothing at $238.36 and Hamilton at $218.03. By comparison, the overall average paid admission across all thirty-three active productions sat at $117.49 for the week."
+        ]
+      },
+      {
+        "h": "Other Shows In Previews",
+        "p": [
+          "Several additional works continued their preview trajectories during the tracking period. Wanted, a new musical from writers Angelica Chéri and Ross Baum starring Solea Pfeiffer and Liisi LaFontaine, brought in $508,919 at the James Earl Jones Theatre with capacity hovering near 82%.",
+          "Meanwhile, Downstate at the Booth Theatre and The Fantasticks at the Hayes Theatre completed their respective early preview runs, occupying 87% and 93% of available seats while grossing $275,085 and $305,307."
+        ]
+      },
+      {
+        "h": "Season-To-Date Outlook",
+        "p": [
+          "As the theatrical calendar reaches its twenty-third week for the 2026-27 season, cumulative performance metrics remain slightly behind previous benchmarks. Broadway has amassed a total gross of $726,010,709 season-to-date, representing an 8% decrease compared to the same timeframe last year.",
+          "Total attendance figures for the current season stand at 5,929,169, reflecting a 3% decline year-to-year according to official data released by The Broadway League."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Broadway experienced a slower week with overall box office totals and attendance dropping across most shows. However, the preview debut of Much Ado About Nothing successfully bucked the trend alongside a few other top-earning productions."
+        ]
+      }
+    ],
+    "facts": [
+      "Broadway box office for 33 shows hit $29,572,284 for the week ending November 1, 2026.",
+      "Attendance for the week was 251,700.",
+      "Tom Hiddleston and Hayley Atwell star in Much Ado About Nothing directed by Jamie Lloyd.",
+      "Much Ado About Nothing grossed $358,262 for its first preview at the Winter Garden.",
+      "Opening night for Much Ado About Nothing is scheduled for November 19.",
+      "Season-to-date Broadway gross reached $726,010,709 in the 23rd week of the 2026-27 season."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hiddleston",
+        "Hayley Atwell",
+        "Jamie Lloyd",
+        "Julia Louis-Dreyfus",
+        "Ed Harris",
+        "Billy Crystal",
+        "Solea Pfeiffer",
+        "Liisi LaFontaine",
+        "Angelica Chéri",
+        "Ross Baum"
+      ],
+      "titles": [
+        "Much Ado About Nothing",
+        "A Few Good Men",
+        "Hamilton",
+        "Other Desert Cities",
+        "Juliet",
+        "The Outsiders",
+        "Wanted",
+        "Downstate",
+        "The Fantasticks"
+      ]
+    },
+    "keywords": [
+      "Much Ado About Nothing Broadway",
+      "Tom Hiddleston Much Ado About Nothing",
+      "Broadway box office November",
+      "Jamie Lloyd Much Ado About Nothing"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg?w=1024",
+        "caption": "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 20:21:47 +0000"
   }
 };

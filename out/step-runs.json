@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T21:50:56Z",
-    "run_id": "41531997406",
-    "status": "success",
-    "checked": {
-     "candidates": 271,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "The NOT PG Reaction Toy Story 5’s Director Had When He Found Out Taylor Swift Wrote Her Song In Less Than A Day",
-      "Mckenna Grace Is Still Channeling Jennifer Lawrence's Hunger Games Looks (And This One HAS To Be My Favorite)",
-      "I Didn’t Expect Johnny Depp To Have Jokes After Being Asked About Pirates Of The Caribbean 6 And Orlando Bloom",
-      "The 10 Greatest Sci-Fi Games for Beginners",
-      "New 'Fallout' Release Officially Changes the Brotherhood of Steel Forever",
-      "3 Best Movies on Netflix This Week (Nov 2-6)",
-      "X-Men’s Zazie Beetz & Liev Schreiber Discuss Domino & Sabretooth’s Potential MCU Returns",
-      "Spider-Man 4 R-Rated Blooper Sees Tom Holland & Jon Bernthal Hilariously Breaking Character",
-      "Simon Pegg & Haley Joel Osment Try to Survive the Apocalypse in New Dark Comedy Movie",
-      "Why Michael J. Fox & Christopher Lloyd Didn’t Become Friends Until After Back to the Future",
-      "Leonardo DiCaprio & Paul Rudd’s Crime Movie Returns to Theaters for Big Anniversary",
-      "Eli Roth’s Hostel TV Show for Peacock Gets Horrible Update, But There’s Still Hope",
-      "ESPN’s Michael Wilbon Takes Leave From PTI & More, Gives Major Health Update",
-      "LEGO Fan Transforms 'Star Wars' Millennium Falcon Into Iconic 'Terminator' Villain Without Extra Pieces",
-      "Clint Eastwood's Western Trilogy Masterpiece Sets New Release 62 Years After Debut",
-      "Tom Cruise's Biggest Box Office Bomb in History Gets Emotional Defense From Costar",
-      "Forget 'Landman,' Billy Bob Thornton's Crime Thriller Masterpiece Has One of the Best Seasons in TV History",
-      "Lee Child Will Officially Replace Reacher In 2027",
-      "George R.R. Martin's 28-Episode Western Masterpiece Beat Taylor Sheridan At His Own Game",
-      "10 Best High Fantasy Shows Of The Decade (So Far)"
-     ],
-     "updated": [],
-     "count": 257,
-     "detail": "271 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T22:52:13Z",
     "run_id": "41540614909",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "332 stories, 1 duplicates removed, 243 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T23:51:48Z",
-    "run_id": "41548465009",
+    "run_at": "2026-11-03T21:51:05Z",
+    "run_id": "41725412685",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 325,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
-      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
-      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
-      "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana"
+      "Exclusive-Skydance shuffles distribution ranks as eight executives depart",
+      "Music links past, present for Pedro Pascal's cellist in 'Behemoth!'",
+      "pawan singh wife jyoti singh challenged akshara singh affair divorce case tmova 2678227 2026 11 03",
+      "balika vadhu smita bansal remarried christian wedding renewed vows 25th anniversary daughters emotional inside photos tmovf 2687383 2026 11 03",
+      "ranbir kapoor sunny deol yash alia bhatt neetu kapoor at ramayana special screening in mumbai tmovj 2687645 2026 11 03",
+      "daler mehndi controversy minister subodh uniyal clarifies wont apologise will resign if needed tmova dskc 2687595 2026 11 03",
+      "danny denzongpa spent 40 crores to stop vijay mallya in sikkim famous alcohol brewery business tmova dskc 2687587 2026 11 03",
+      "ed sheeran on bollywood playback debut tu mil jaye shah rukh khan king tmovj dskc 2687635 2026 11 03",
+      "ramayana rama rama song rishab rikhiram sharma shabri bhakti review tmovj dskc 2687602 2026 11 03",
+      "haania manzar new house griha pravesh havan quran khani hindu husband love story interfaith marriage tmova 2686886 2026 11 03",
+      "pawan singh actress sonam malik emotional breakdown away from 7 years old son secret marriage rise and fall tmovh 2687222 2026 11 03",
+      "balika vadhu actress smita bansal remarried in white gown took 20 years to convince husband tmova 2687495 2026 11 03",
+      "amrapali dubey emotional desperately wants to become mother at 39 age no marriage plans nirahua tmovf dskc 2687437 2026 11 03",
+      "indian idol rishi singh fights abhijeet sawant insulted him karishma kapoor shocked virat kohli tmovh dskc 2687341 2026 11 03",
+      "ramayan fame aslam khan played 11 roles ramanand sagar still away from limelight doing marketing job tmovh dskc 2686948 2026 11 03",
+      "delhi cabinet minister parvesh sahib singh diwali party manoj tiwaris wife surbhi cm rekha gupta mmtc 2687307 2026 11 03",
+      "diwali firecrackers sunita ahuja dia mirza controversy bmc bombay hc order details mmtm 2687639 2026 11 03",
+      "eicma 2026 live updates royal enfield himalayan 750 hero xpulse 421 honda fireblade and more bike launches latest news today in milan liveblog 156456106",
+      "sensex rockets 3300 points in 4 days whats driving the surge article 156456950",
+      "aicwa reacts to amitabh bachchan using glass shield during sunday fan meet expresses concern article 156458407"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 315,
+     "detail": "325 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T21:51:28Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+      "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+      "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+      "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T23:51:48Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,30 +1896,27 @@
      "detail": "now 186, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T21:51:28Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": {
+     "candidates": 190,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 186, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T23:58:22Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "12m25uw",
-      "qencqr",
-      "ged0uq"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2368,27 +2347,30 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T21:52:42Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1ljhr28",
+      "bke5yy",
+      "ged0uq"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T23:58:20Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": {
-     "candidates": 437,
-     "detail": "436 collected staging rows from readers; 165 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 144,
-     "detail": "+0 new rows, 144 updated rows, 292 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2802,19 +2784,27 @@
      "detail": "+0 new rows, 153 updated rows, 310 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T21:52:39Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": {
+     "candidates": 464,
+     "detail": "463 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 455 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3051,32 +3041,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T23:58:22Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": {
-     "candidates": 445,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
-      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
-      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
-      "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 445 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3602,19 +3579,32 @@
      "detail": "api-news.json 536 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T21:52:42Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": {
+     "candidates": 540,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+      "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+      "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+      "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 540 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3889,19 +3879,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4222,31 +4212,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T21:51:24Z",
-    "run_id": "41531997406",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 257 still unprocessed; today by category: movies 11/6, tv_dramas 10/4, episodes 1/2, box_office 14/6, celebrities_events 16/5, upcoming_releases 4/4, ott_streaming 8/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Kanika Mann Opens Up About Abusive Past Relationship Inside Bigg Boss House",
-      "Meta Partners With Lionsgate to Bring 'Sunrise on the Reaping' to 3D and Upcoming VR Glasses",
-      "SZA Partners with Vans as First Artistic Director for VANSZA Capsule Collection",
-      "Shah Rukh Khan's upcoming movie King earns over 200 crore profit before release through massive pre-release deals totaling 665 crore"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4752,19 +4730,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T21:51:27Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 315 still unprocessed; today by category: movies 14/6, tv_dramas 12/4, episodes 2/2, box_office 19/6, celebrities_events 18/5, upcoming_releases 6/4, ott_streaming 6/4, trailers 3/3, awards 2/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
+      "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
+      "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
+      "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5084,24 +5074,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 433,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5446,24 +5431,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
+     "count": 393,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5793,19 +5778,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6055,19 +6045,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6302,19 +6292,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6590,19 +6580,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6843,19 +6833,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7085,19 +7075,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7346,6 +7336,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T21:02:30Z",
     "run_id": "41716265648",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7777,16 +7777,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-02T23:00:08Z",
     "run_id": "41540614909",
     "status": "skipped",
@@ -8023,19 +8013,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8285,8 +8275,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T21:52:50Z",
+    "run_id": "41725412685",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T21:02:30Z"
+ "updated_at": "2026-11-03T21:52:50Z"
 }
