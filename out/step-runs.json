@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-02T10:52:28Z",
-    "run_id": "41432003550",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
-      "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
-      "Netflix UK Implements Staff Reductions With Key Executive Departures",
-      "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-02T11:51:20Z",
     "run_id": "41439949556",
     "status": "success",
@@ -1490,6 +1467,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T10:02:55Z",
+    "run_id": "41614898547",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1930,25 +1925,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-02T11:00:16Z",
-    "run_id": "41432003550",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "g9harb"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-02T11:57:37Z",
     "run_id": "41439949556",
     "status": "success",
@@ -2382,27 +2358,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T11:00:14Z",
-    "run_id": "41432003550",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T10:02:56Z",
+    "run_id": "41614898547",
     "status": "success",
     "checked": {
-     "candidates": 419,
-     "detail": "417 collected staging rows from readers; 135 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 9,
-     "detail": "+0 new rows, 9 updated rows, 408 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2816,6 +2791,24 @@
      "detail": "+0 new rows, 13 updated rows, 433 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T10:02:55Z",
+    "run_id": "41614898547",
+    "status": "success",
+    "checked": {
+     "candidates": 447,
+     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 438 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3086,29 +3079,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T11:00:16Z",
-    "run_id": "41432003550",
-    "status": "success",
-    "checked": {
-     "candidates": 386,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Jesse Eisenberg's Comedy 'The Debut' Named Opening Film of the 23rd Marrakech International Film Festival",
-      "Rudraksh Singh Chauhan Shares Unsettling Real-Life Experience Connected to Naagin 7 Set",
-      "Netflix UK Implements Staff Reductions With Key Executive Departures",
-      "Canadian Supernatural Series Yaga Sets India OTT Premiere Date on Lionsgate Play"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 386 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3644,6 +3614,24 @@
      "detail": "api-news.json 485 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T10:02:55Z",
+    "run_id": "41614898547",
+    "status": "success",
+    "checked": {
+     "candidates": 485,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 485 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8273,5 +8261,5 @@
    }
   ]
  },
- "updated_at": "2026-11-03T09:55:49Z"
+ "updated_at": "2026-11-03T10:02:56Z"
 }
