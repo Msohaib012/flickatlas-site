@@ -46,6 +46,22 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-11-01",
+      "date_kind": "release",
+      "id": 1773368,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-31",
       "date_kind": "digital",
       "id": 1813355,

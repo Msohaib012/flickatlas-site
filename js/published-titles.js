@@ -21731,5 +21731,877 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 134,
     "providers": []
+  },
+  "1688459": {
+    "id": 1688459,
+    "type": "movie",
+    "title": "KillR",
+    "poster_path": "/18ePZGmI3TOyxDHYkIZCNQuRAC.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 1.7281,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1815462": {
+    "id": 1815462,
+    "type": "movie",
+    "title": "La vente secrète des juifs de Roumanie",
+    "poster_path": "/la0k0YFfi0KF7VBEatovXmpuJuJ.jpg",
+    "backdrop_path": "/iAcecHU5P0to15kc5aYshdu32pl.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1359,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1773368": {
+    "id": 1773368,
+    "type": "movie",
+    "title": "A Danish Christmas",
+    "poster_path": "/1fdNNzXLhFW0uXfbK88bJGUi8HP.jpg",
+    "backdrop_path": "/v9Fl90gwiw1OoQlyXpoaAMULyik.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Marie helps her family's Copenhagen inn at Christmas when Ryan arrives, and she mistakes him for a travel writer. She curates a tour in search of hygge and the two find a connection as well.",
+    "industry": "world",
+    "popularity": 3.2929,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "47YyKsHFMK8",
+      "name": "Preview | A Danish Christmas | Starring Emilie Ullerup and Corey Sevier",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-01",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "279246": {
+    "id": 279246,
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "poster_path": "/3x6c9ybt0762idyzIifUZeTD5MZ.jpg",
+    "backdrop_path": "/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "industry": "world",
+    "popularity": 12.978,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "aScUjuKvHSo",
+      "name": "Character Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "‎I accept this divorce and I request an approval of my remarriage.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "TV-14",
+    "first_air_date": "2026-11-03",
+    "networks": [
+      "Disney+"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 10,
+    "channel": "Disney+",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2026-11-03",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Alphatart"
+    ],
+    "providers": []
+  },
+  "1810715": {
+    "id": 1810715,
+    "type": "movie",
+    "title": "The making of Vincent - Dreams, Monsters & Independent Film",
+    "poster_path": "/rpp4RiojZa63H1JaWdNdQP9DfBf.jpg",
+    "backdrop_path": "/jGMsE5KdolcJSoguDeFSOaX23WS.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Go behind the scenes of Vincent, the multi award-winning supernatural dark fantasy, and discover the creative vision, artistic collaboration and challenges of bringing an independent film about friendship, loneliness and monsters to life.",
+    "industry": "world",
+    "popularity": 0.7645,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "Behind the scenes of Vincent, the multi award-winning feature film directed by David Noel Bourke",
+    "status": "In Production",
+    "production_countries": [
+      "DK"
+    ],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 34,
+    "providers": []
+  },
+  "1767284": {
+    "id": 1767284,
+    "type": "movie",
+    "title": "Scorpion",
+    "poster_path": "/dOO8M71ROj5V8gsC2O2gRt52YDV.jpg",
+    "backdrop_path": "/4HGguU2fNzhw3GRa1KQ6vGiHLWB.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A teen’s mistake exposes her father as Scorpion, a retired CIA assassin, forcing them on the run from his former mentor and the deadly operatives of The Zoo.",
+    "industry": "world",
+    "popularity": 3.3628,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "VJE5jMF0oFM",
+      "name": "Scorpion - Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": []
+  },
+  "314271": {
+    "id": 314271,
+    "type": "tv",
+    "title": "Bass X Machina",
+    "poster_path": "/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdrop_path": "/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+    "industry": "world",
+    "popularity": 6.2953,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "jjr5mf9i42Q",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Western",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "KR",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-11-03",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-11-03",
+        "name": "Miniseries"
+      }
+    ],
+    "created_by": [
+      "LeSean Thomas"
+    ],
+    "providers": []
+  },
+  "1809633": {
+    "id": 1809633,
+    "type": "movie",
+    "title": "5000 Strokes",
+    "poster_path": "/8cXv5PgJU769sK6h7V706wH357L.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Carolina Modena and Cristina Ganem arrive in Antarctica with an extraordinary challenge: to swim five thousand strokes in its icy waters, without thermal protection. They barely know each other, but the expedition confronts them with the cold, exhaustion, and an extreme landscape that tests their bodies and transforms their relationship. What begins as a connection between fellow swimmers gradually becomes a deep friendship.",
+    "industry": "world",
+    "popularity": 0.4578,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 74,
+    "providers": []
+  },
+  "1162823": {
+    "id": 1162823,
+    "type": "movie",
+    "title": "Who Killed Alex Odeh?",
+    "poster_path": "/gWN2cQ79PXGc0Vyf5KmAeu3zKgY.jpg",
+    "backdrop_path": "/w2xj76FYLdPSwka9f7aFgmWx5EG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In October 1985, Santa Ana, California was shaken by a brazen act of political violence when Palestinian American Alex Odeh, a beloved teacher and community leader, was killed by a tripwire bomb planted in his office. Despite substantial evidence and identified suspects, the case was never solved. Who Killed Alex Odeh? reopens the mystery, tracking a renewed investigation in real time as new leads emerge, long-buried records come to light, and the forces behind a political assassination are finally confronted.",
+    "industry": "world",
+    "popularity": 3.0525,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "NHt55w3k_TM",
+      "name": "Who Killed Alex Odeh? |  Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ar",
+      "he"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": []
+  },
+  "1804593": {
+    "id": 1804593,
+    "type": "movie",
+    "title": "Memory from the Sea",
+    "poster_path": "/jnOrU62SeFqteuTMnhMPCCILiEc.jpg",
+    "backdrop_path": "/gtGb6OnUIYihILmzsxdzk0fIKqc.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Arūnas is an ageing fisherman on the Lithuanian coast. Yet every year, the fish are becoming scarcer. His second occupation is older than his first: after a storm, he goes down to the beach to search for amber, as has been done in these parts for centuries. During the long winter, when he cannot go out to sea, he sits at his kitchen table polishing the pieces he has found into jewellery, for which there are also fewer and fewer buyers. Amber was once the backbone of the local industry and tourism. Now it is one man’s way of filling his days and preserving his memories.",
+    "industry": "world",
+    "popularity": 0.8324,
+    "original_language": "lt",
+    "origin_country": [
+      "LT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "LT"
+    ],
+    "spoken_languages": [
+      "lt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 73,
+    "providers": []
+  },
+  "1803727": {
+    "id": 1803727,
+    "type": "movie",
+    "title": "Elisa",
+    "poster_path": "/gwZRgfAeOXCxjbS798IKAAzZ4rH.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Following a nuclear war, life on Earth has all but come to an end. Solisvita has placed a small group in an ancient cavern—equipped with a 180-day supply of water and provisions—tasking them with locating a rare \"ore\" essential for producing \"Geneterna,\" a treatment designed to grant humans genetic immunity to radiation. Once the mission is complete, they are to be relocated to protected \"Fortress Cities.\" However, communication with headquarters is severed, their water supply is running dangerously low, and with only eight days left in the mission, Emre—the project lead—takes his own life. Meanwhile, a mysterious stranger arrives at their door, sharing legends that hint at a hidden water source deep within the cavern. As trust begins to unravel, each member of the group is forced to confront the true cost of survival and the real nature of Solisvita—the organization they once believed to be their savior.",
+    "industry": "world",
+    "popularity": 6.5127,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "tr"
+    ],
+    "certification": "",
+    "release_date": "2026-10-28",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1803659": {
+    "id": 1803659,
+    "type": "movie",
+    "title": "School Girls; Or, The African Mean Girls Play",
+    "poster_path": "/b7DZsVoXBoEf8Em3sC80AIG4GH.jpg",
+    "backdrop_path": "/zagxhOZrGgTYZGIHKW62cCBv43S.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Becoming Miss Ghana 1986 would mean fame, fortune, and prosperity. At least, that’s what Paulina—the queen bee of Aburi Girls Boarding School—believes. When the pageant recruiter comes to school, Paulina and her crew pull out all the stops. But to their surprise, a new transfer student from America kicks the competition into a higher, far more personal gear.",
+    "industry": "world",
+    "popularity": 2.0832,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "af"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 80,
+    "providers": []
+  },
+  "1468846": {
+    "id": 1468846,
+    "type": "movie",
+    "title": "Species",
+    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "vote_average": 4.5,
+    "vote_count": 2,
+    "overview": "Margot, a young intern at the country's most competitive ER, struggles in the high-pressure environment. When multiple patients her age arrive with strange symptoms, her own body begins experiencing alarming transformations.",
+    "industry": "world",
+    "popularity": 5.5356,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "BE"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-28",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": []
+  },
+  "1802472": {
+    "id": 1802472,
+    "type": "movie",
+    "title": "GW:s mord - Sturebymordet",
+    "poster_path": "/hf8gKE0TNHNk8b8EHyFscJNyFP1.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "15-year-old Therese walks into the woods after a party near the ski jump in Stureby and never returns. Leif GW Persson examines the case.",
+    "industry": "world",
+    "popularity": 1.4623,
+    "original_language": "sv",
+    "origin_country": [
+      "SE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "SE"
+    ],
+    "spoken_languages": [
+      "sv"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 23,
+    "providers": []
+  },
+  "1217954": {
+    "id": 1217954,
+    "type": "movie",
+    "title": "Lucy Lost",
+    "poster_path": "/rEYuls7G6UqCgJKvPgKCyW407gm.jpg",
+    "backdrop_path": "/lhb1NoiKScRaApfn9rqaG9uS4MY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set in 1915 in the Isles of Scilly just off the Cornish coast, a young girl named Lucy is raised by a clan of fishermen she knows not to be hers. However, she remembers little else about her past, and as the Great War rages down on the continent, a chance encounter with the mysterious girl her own age soon helps Lucy put back the pieces of her own life’s story and come to better understand her place in the world.",
+    "industry": "world",
+    "popularity": 4.3022,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy",
+      "War"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "ALL",
+    "release_date": "2026-10-28",
+    "date_kind": "release",
+    "runtime": 85,
+    "providers": []
+  },
+  "1802137": {
+    "id": 1802137,
+    "type": "movie",
+    "title": "Blind Date",
+    "poster_path": "/pWGoSUguLQrMDz7ntvcwGshhDy2.jpg",
+    "backdrop_path": "/uwgD6qnsVJjGl7WthqdTmCUohs3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A nervous couple on a first date finds out they have a lot in common. But how much do they really know about each other?",
+    "industry": "world",
+    "popularity": 1.1584,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 3500,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "How did you two meet?",
+    "status": "Post Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 15,
+    "providers": []
+  },
+  "1803733": {
+    "id": 1803733,
+    "type": "movie",
+    "title": "Death of Truth",
+    "poster_path": "/lJdgC6UIuu2JqR3rdvtaBWDVm8m.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The orderly, solitary life of Feridun is shaken by the arrival of his old friend Timuçin, who carries the burden of murders they committed in the past. As Timuçin contemplates turning himself in, Feridun must stop him to protect his own freedom.",
+    "industry": "world",
+    "popularity": 3.169,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "tr"
+    ],
+    "certification": "",
+    "release_date": "2026-10-28",
+    "date_kind": "festival",
+    "runtime": 100,
+    "providers": []
+  },
+  "1800250": {
+    "id": 1800250,
+    "type": "movie",
+    "title": "The Sweetest Christmas Date",
+    "poster_path": "/pnO8USzjsQLcyJiZuBAu1UYYYqE.jpg",
+    "backdrop_path": "/jQsvmKFWQcWkgPqtY5bzzuMzpic.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When overworked chiropractor Charlotte Hope receives an exquisite, anonymous Christmas chocolate, her orderly world is suddenly turned upside down. Determined to uncover the sender, she teams up with Cody Woods, the charming but guarded chocolatier whose shop is fighting to survive the holiday rush. As their search leads them through festive small-town magic, Charlotte discovers that the sweetest surprises – and maybe even love – can’t be scheduled, controlled, or ignored.",
+    "industry": "world",
+    "popularity": 2.2741,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "TV Movie",
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": []
+  },
+  "1544163": {
+    "id": 1544163,
+    "type": "movie",
+    "title": "Words of Love",
+    "poster_path": "/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
+    "backdrop_path": "/prU8Cabt75JCukKiSiXKpOIBXIK.jpg",
+    "vote_average": 7.417,
+    "vote_count": 6,
+    "overview": "For 14 years, Erika has been the anchor of a household that rarely stands still, doing her best to raise teenage Abigail, her whirlwind little brother, Yoni, and a dog with an extreme devotion to cheese. When Abi’s desire to meet her absent father grows into a full-blown obsession and word spreads he’s been seen nearby, Erika fears the fragile balance will collapse for good. Instead, the unpredictable journey that follows brings mother and daughter to see each other anew, steering their lively, lovable family toward a happy new chapter.",
+    "industry": "world",
+    "popularity": 3.1073,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-10-28",
+    "date_kind": "release",
+    "runtime": 95,
+    "providers": []
+  },
+  "1798095": {
+    "id": 1798095,
+    "type": "movie",
+    "title": "Thank You for Your Review",
+    "poster_path": "/lUrlBljOsSVITH9u7HtXTBVEUMo.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A people-pleasing waiter sabotages his own evening trying to impress his boss; a self-conscious friend competes for attention at someone else’s birthday dinner; and two sisters turn a simple meal into a battlefield. Through quiet frustrations and misplaced priorities, the night unravels into an elegant mess of misunderstandings. No wonder this restaurant’s online reviews are so confusing.",
+    "industry": "world",
+    "popularity": 1.2871,
+    "original_language": "lv",
+    "origin_country": [
+      "LV"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "LV"
+    ],
+    "spoken_languages": [
+      "lv"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 22,
+    "providers": []
   }
 };
