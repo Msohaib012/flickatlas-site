@@ -73,6 +73,63 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 03 Nov 2026 22:45:53 +0000"
   },
+  "1vtrtnk": {
+    "id": "1vtrtnk",
+    "type": "news",
+    "headline": "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
+    "dek": "After a twenty-year wait and a prior abandoned attempt, the acclaimed coming-of-age book is finally becoming a television series under the guidance of One Day creator Nicole Taylor.",
+    "entities": {
+      "people": [
+        "Emma Gladstone",
+        "Curtis Sittenfeld",
+        "Nicole Taylor",
+        "Will Ferrell",
+        "Jessica Elbaum",
+        "Alix Taylor",
+        "David Nicholls",
+        "Leo Woodall",
+        "Ambika Mod",
+        "Colleen McGuinness",
+        "Carolyn Strauss",
+        "Reed Hastings",
+        "Marc Randolph"
+      ],
+      "titles": [
+        "Prep",
+        "One Day",
+        "30 Rock",
+        "Game of Thrones",
+        "Romantic Comedy",
+        "Outer Banks",
+        "My Life with the Walter Boys",
+        "The Body",
+        "The Sticks",
+        "Poser",
+        "Lilyhammer",
+        "Stranger Things",
+        "Squid Game",
+        "House of Cards",
+        "Wednesday",
+        "KPop Demon Hunters",
+        "Bird Box",
+        "Red Notice"
+      ]
+    },
+    "keywords": [
+      "Prep Netflix series",
+      "Curtis Sittenfeld Prep adaptation",
+      "Nicole Taylor Netflix show",
+      "Prep television series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/mousetrap-poster-with-netflix-logo-up-front.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 22:45:38 GMT"
+  },
   "g4p5sg": {
     "id": "g4p5sg",
     "type": "news",
@@ -167,6 +224,60 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 04:04:05 +0530"
   },
+  "1let4na": {
+    "id": "1let4na",
+    "type": "news",
+    "headline": "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+    "dek": "A look at five remarkable actresses in Indian cinema who have consistently redefined stardom through complex characters, versatility, and exceptional acting prowess.",
+    "entities": {
+      "people": [
+        "Vidya Balan",
+        "Divya Dutta",
+        "Tabu",
+        "Shefali Shah",
+        "Konkona Sen Sharma"
+      ],
+      "titles": [
+        "The Dirty Picture",
+        "Kahaani",
+        "Tumhari Sulu",
+        "Sherni",
+        "Jalsa",
+        "Veer Zaara",
+        "Bhaag Milkha Bhaag",
+        "Delhi 6",
+        "Chiraiya",
+        "Last Man in Tower",
+        "Gajab Raat",
+        "Maqbool",
+        "Haider",
+        "Andhadhun",
+        "Drishyam",
+        "Bhool Bhulaiyaa 2",
+        "Delhi Crime",
+        "Three of Us",
+        "Darlings",
+        "Mr. and Mrs. Iyer",
+        "Lipstick Under My Burkha",
+        "Dolly Kitty Aur Woh Chamakte Sitare"
+      ]
+    },
+    "keywords": [
+      "Vidya Balan powerful performances",
+      "Tabu versatile actress Bollywood",
+      "Divya Dutta characters",
+      "Shefali Shah complex roles",
+      "Konkona Sen Sharma cinema"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/tabudivyaduttavidyabalan-12191793744145.jpg",
+        "caption": "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 03:48:53 +0530"
+  },
   "1f1oimh": {
     "id": "1f1oimh",
     "type": "news",
@@ -199,6 +310,83 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-04T03:16:56+05:30"
+  },
+  "2ore2c": {
+    "id": "2ore2c",
+    "type": "news",
+    "headline": "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+    "dek": "The Jamie Lloyd-directed revival brought in massive numbers for its first preview performance, capturing high ticket prices and full capacity at the Winter Garden Theatre.",
+    "entities": {
+      "people": [
+        "Tom Hiddleston",
+        "Hayley Atwell",
+        "Jamie Lloyd",
+        "Julia Louis-Dreyfus",
+        "Allison Janney",
+        "Joe Keery",
+        "Billy Crystal",
+        "Bradley Whitford",
+        "Tom Blyth"
+      ],
+      "titles": [
+        "Much Ado About Nothing",
+        "Other Desert Cities",
+        "Hamilton",
+        "Harry Potter and the Cursed Child",
+        "MJ",
+        "The Lion King",
+        "860",
+        "A Few Good Men",
+        "Downstate",
+        "Wanted"
+      ]
+    },
+    "keywords": [
+      "Much Ado About Nothing Broadway",
+      "Tom Hiddleston Much Ado About Nothing",
+      "Hayley Atwell Broadway play",
+      "Broadway box office November"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 21:12:05 +0000"
+  },
+  "1mi3x96": {
+    "id": "1mi3x96",
+    "type": "news",
+    "headline": "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
+    "dek": "Filmmaker Justin Baldoni has quietly parted ways with his Los Angeles-area property, securing a significant profit as he settles into a new life in Tennessee with his family.",
+    "entities": {
+      "people": [
+        "Justin Baldoni",
+        "Emily Baldoni",
+        "Blake Lively",
+        "Ryan Reynolds"
+      ],
+      "titles": [
+        "It Ends With Us"
+      ]
+    },
+    "keywords": [
+      "Justin Baldoni",
+      "It Ends With Us",
+      "Blake Lively",
+      "Justin Baldoni Culver City home",
+      "Justin Baldoni Nashville"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135513007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T02:29:55+05:30"
   },
   "11nrbce": {
     "id": "11nrbce",
@@ -4650,128 +4838,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 00:05:24 +0530"
-  },
-  "14798mu": {
-    "id": "14798mu",
-    "type": "news",
-    "headline": "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
-    "dek": "Television veteran Katey Sagal is heading to Port Wenn in Season 2 of Best Medicine, taking on the recurring role of Louisa's scheming and estranged mother.",
-    "entities": {
-      "people": [
-        "Katey Sagal",
-        "Abigail Spencer",
-        "Martin Clunes",
-        "Josh Charles",
-        "Jack Cutmore-Scott",
-        "Andrea Martin"
-      ],
-      "titles": [
-        "Best Medicine",
-        "Sons of Anarchy",
-        "Married... With Children",
-        "The Conners",
-        "The Abandons",
-        "Rebel",
-        "Superior Donuts",
-        "8 Simple Rules",
-        "Tucker",
-        "Boston Legal",
-        "Lost",
-        "This Is Us",
-        "Shameless",
-        "Futurama",
-        "One Piece",
-        "Frasier",
-        "Evil"
-      ]
-    },
-    "keywords": [
-      "Best Medicine Katey Sagal",
-      "Katey Sagal Louisa mother Kathleen",
-      "Best Medicine Season 2 casting",
-      "Shady Katie Best Medicine"
-    ],
-    "images": [
-      {
-        "url": "https://www.tvline.com/img/gallery/best-medicine-cast-katey-sagal-as-louisas-scheming-mom-get-details/l-intro-1793642243.jpg",
-        "caption": "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
-        "source": "TVLine"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 18:00:23 +0000"
-  },
-  "1e58gz0": {
-    "id": "1e58gz0",
-    "type": "news",
-    "headline": "Harleen Sethi Boards Amazon Prime Video's Upcoming Empire-Style Series With Star-Studded Cast",
-    "dek": "The actor has officially joined the ensemble of the untitled project directed by Bhanu Pratap Singh, starring alongside Divyenndu Sharma, Abhishek Banerjee, and Pratik Gandhi.",
-    "entities": {
-      "people": [
-        "Harleen Sethi",
-        "Divyenndu Sharma",
-        "Abhishek Banerjee",
-        "Pratik Gandhi",
-        "Bhanu Pratap Singh",
-        "Hansal Mehta"
-      ],
-      "titles": [
-        "Mirzapur",
-        "Shaque: Trust No One",
-        "Broken But Beautiful",
-        "Kohrra",
-        "Doctors",
-        "Bad Cop",
-        "The Gone Game",
-        "Mirzapur: The Movie",
-        "Gandhi",
-        "Madgaon Express 2"
-      ]
-    },
-    "keywords": [
-      "Harleen Sethi",
-      "Divyenndu Sharma",
-      "Abhishek Banerjee",
-      "Pratik Gandhi",
-      "Amazon Prime Video"
-    ],
-    "images": [
-      {
-        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Harleen-Sethi.jpeg",
-        "caption": "Harleen Sethi Boards Amazon Prime Video's Upcoming Empire-Style Series With Star-Studded Cast",
-        "source": "Bollywood Hungama"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 19:45:29 +0200"
-  },
-  "q78m46": {
-    "id": "q78m46",
-    "type": "news",
-    "headline": "Suki Waterhouse Clarifies Status On Secret Marriage Rumours With Robert Pattinson",
-    "dek": "Addressing persistent online speculation regarding a hidden elopement, Suki Waterhouse has clarified that she and partner Robert Pattinson have not tied the knot privately.",
-    "entities": {
-      "people": [
-        "Suki Waterhouse",
-        "Robert Pattinson"
-      ],
-      "titles": [
-        "Daisy Jones The Six",
-        "Twilight"
-      ]
-    },
-    "keywords": [
-      "Suki Waterhouse",
-      "Robert Pattinson",
-      "Suki Waterhouse wedding rumours",
-      "Robert Pattinson and Suki Waterhouse daughter"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/sukiwaterhouserobertpattinsonsoooo1793640074.jpg",
-        "caption": "Suki Waterhouse Clarifies Status On Secret Marriage Rumours With Robert Pattinson",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-02T23:06:17+05:30"
   },
   "1oesgxu": {
     "id": "1oesgxu",

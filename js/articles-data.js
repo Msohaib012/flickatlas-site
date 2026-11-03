@@ -50103,5 +50103,445 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 04:04:05 +0530"
+  },
+  "1mi3x96": {
+    "id": "1mi3x96",
+    "type": "news",
+    "headline": "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
+    "dek": "Filmmaker Justin Baldoni has quietly parted ways with his Los Angeles-area property, securing a significant profit as he settles into a new life in Tennessee with his family.",
+    "body": [
+      {
+        "h": "The Off-Market Property Sale",
+        "p": [
+          "Actor and filmmaker Justin Baldoni has completed the sale of his residential property located in the Culver City area of Los Angeles. The transaction was finalized off-market in August 2026, fetching a total of $2.1 million.",
+          "The move comes several months after Baldoni and his wife, Emily Baldoni, relocated to Nashville, Tennessee, alongside their children to establish a quieter domestic routine away from the constant spotlight of California."
+        ]
+      },
+      {
+        "h": "Investment Returns And Purchase History",
+        "p": [
+          "Property records indicate that Baldoni originally acquired the three-bedroom residence back in 2017 for $1.04 million. By selling the home for $2.1 million, he realized a gross price difference of approximately $1.06 million over his initial acquisition cost.",
+          "This calculation does not factor in additional expenditures incurred over the years, such as renovation expenses, property taxes, and other related transactional costs associated with holding and selling real estate."
+        ]
+      },
+      {
+        "h": "Extensive Renovations And Design",
+        "p": [
+          "Originally constructed in 1952, the house sits on a lot measuring 5,736 square feet and comprises three bedrooms and three bathrooms. Key features of the property include a swimming pool, wood-vaulted ceilings, and contemporary finishes.",
+          "The residence underwent a dramatic transformation managed by Baldoni himself. In a 2020 social media post, he noted that the extensive remodeling process spanned three years, during which he focused heavily on interior design and atmosphere, humorously mentioning that he spent significant time optimizing the home's feng shui."
+        ]
+      },
+      {
+        "h": "Investment Status And Real Estate Portfolio",
+        "p": [
+          "Despite the extensive work put into the Culver City house, reports indicate that it had not served as the family's primary dwelling for quite some time. Instead, it was maintained primarily as a real estate investment property.",
+          "Even with the sale of the Los Angeles-area asset, Baldoni retains other real estate holdings in California, including a five-bedroom Spanish-style estate situated in Ojai, Ventura County, which had previously been listed on the market earlier in the year."
+        ]
+      },
+      {
+        "h": "Relocation To Nashville",
+        "p": [
+          "The Baldoni family transitioned to Nashville, Tennessee, in late 2025, following a period spent residing in Ojai. Upon moving to Music City, the couple purchased a residential property valued at approximately $3.4 million.",
+          "Sources close to the family noted that the environment in Tennessee offered a welcoming and grounding atmosphere during a challenging phase, allowing them to redirect their primary focus toward family life and a fresh chapter."
+        ]
+      },
+      {
+        "h": "Background Of High-Profile Legal Disputes",
+        "p": [
+          "The relocation and subsequent property transactions occurred against the backdrop of an intense public legal battle involving Baldoni and his former co-star Blake Lively, following the 2024 release of their film It Ends With Us. In late 2024, Lively brought forward allegations concerning workplace conduct, which Baldoni firmly denied.",
+          "In response to the accusations, Baldoni filed a substantial countersuit against Lively, her husband Ryan Reynolds, and their publicist. Although various legal maneuvers and court dismissals followed over subsequent months, the former co-stars ultimately reached a formal settlement in May 2026 shortly before a trial was scheduled to commence."
+        ]
+      },
+      {
+        "h": "Post-Settlement Rulings And Fees",
+        "p": [
+          "Even after the primary claims were settled in an effort to bring mutual closure, legal developments continued. In August 2026, a federal judge ordered Baldoni and his production company, Wayfarer Studios, to pay Lively a specified amount toward legal fees.",
+          "This ruling marked another phase in the winding down of the broader dispute, allowing all involved parties to navigate the conclusion of the long-standing courtroom drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Justin Baldoni has sold his renovated Culver City home for $2.1 million, netting over a million dollars more than his 2017 purchase price. The off-market transaction follows his family's relocation to Nashville amid the aftermath of a high-profile legal dispute and settlement with co-star Blake Lively."
+        ]
+      }
+    ],
+    "facts": [
+      "Justin Baldoni sold his Culver City home for $2.1 million in August 2026.",
+      "He originally purchased the property in 2017 for $1.04 million.",
+      "The residence was built in 1952 and features three bedrooms and three bathrooms.",
+      "Justin and Emily Baldoni moved to Nashville with their children in late 2025.",
+      "The Nashville home was purchased for approximately $3.4 million.",
+      "The legal dispute with Blake Lively followed the release of It Ends With Us in 2024.",
+      "A federal judge ruled in August 2026 that Baldoni and Wayfarer Studios must pay Lively just over $400,000 in legal fees."
+    ],
+    "entities": {
+      "people": [
+        "Justin Baldoni",
+        "Emily Baldoni",
+        "Blake Lively",
+        "Ryan Reynolds"
+      ],
+      "titles": [
+        "It Ends With Us"
+      ]
+    },
+    "keywords": [
+      "Justin Baldoni",
+      "It Ends With Us",
+      "Blake Lively",
+      "Justin Baldoni Culver City home",
+      "Justin Baldoni Nashville"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135513007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T02:29:55+05:30"
+  },
+  "2ore2c": {
+    "id": "2ore2c",
+    "type": "news",
+    "headline": "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+    "dek": "The Jamie Lloyd-directed revival brought in massive numbers for its first preview performance, capturing high ticket prices and full capacity at the Winter Garden Theatre.",
+    "body": [
+      {
+        "h": "Strong Debut for Much Ado About Nothing",
+        "p": [
+          "The theatrical revival of Much Ado About Nothing, featuring high-profile stars Tom Hiddleston and Hayley Atwell, kicked off its preview run with immense commercial momentum. Following a successful run in London, the production transitioned to Broadway and immediately secured a completely full audience for its initial preview performance.",
+          "The single preview evening pulled in an impressive revenue figure of $358,262. Analysts note that if ticket pricing and audience demand remain steady, this staging could establish itself as one of the most lucrative weekly earners currently running on Broadway."
+        ]
+      },
+      {
+        "h": "Ticket Pricing and Venue Details",
+        "p": [
+          "Ticket demand for the Shakespearean revival pushed averages to $238, securing the second highest average ticket price across the entire Broadway district for that week. The production is scheduled for its official opening on November 19 at the Winter Garden Theatre.",
+          "The high price point reflects the intense star power of its lead actors, drawing theatergoers eager to experience the London transfer live in New York."
+        ]
+      },
+      {
+        "h": "Broader Broadway Box Office Leaders",
+        "p": [
+          "While Much Ado About Nothing made a splash with its debut, other major productions continued to dominate overall earnings for the week. Other Desert Cities led the pack as the highest-earning show, bringing in $2.35 million alongside the district's highest average ticket price at $301.",
+          "The production of Other Desert Cities stars Julia Louis-Dreyfus, Allison Janney, and Joe Keery. Meanwhile, Hamilton secured the second spot with $2.31 million in revenue, followed closely by Harry Potter and the Cursed Child, MJ, and The Lion King."
+        ]
+      },
+      {
+        "h": "Solo and Ensemble Productions",
+        "p": [
+          "Billy Crystal's solo show titled 860 performed strongly despite accommodating three heavily comped press performances, capturing the sixth highest-grossing position with $1.35 million. A Few Good Men also launched on Broadway last week, pulling in nearly $1.3 million while playing to complete capacity.",
+          "A Few Good Men stars Bradley Whitford and Tom Blyth, though its opening week financials absorbed several comped press tickets and a fully comped opening night, leading to mixed reviews from critics."
+        ]
+      },
+      {
+        "h": "Seasonal Dips and Competing Events",
+        "p": [
+          "Despite the introduction of fresh productions to the theater district, overall Broadway figures experienced a downturn. Total industry grosses fell by 13 percent, and overall attendance dropped by 4 percent compared to previous weeks.",
+          "Industry observers attribute the sluggish numbers to strong competition from seasonal events, specifically Halloween festivities and the New York City Marathon, which drew crowds away from the theaters."
+        ]
+      },
+      {
+        "h": "Performances by Other New Shows",
+        "p": [
+          "Several other new titles experienced shifts in attendance and revenue as they settled into their runs. The new play Downstate saw a slight decline in audience capacity, dropping from 94 percent to 87 percent as it expanded its schedule from six performances to eight, bringing in $275,085 ahead of its November 15 opening.",
+          "Additionally, the new musical Wanted witnessed a drop in attendance down to 82 percent from 93 percent, with weekly grosses declining to $508,919 ahead of its scheduled November 8 opening night."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing started its Broadway preview run at 100 percent capacity, bringing in over $358,000 with the second highest average ticket price of the week. While other shows like Other Desert Cities led total earnings, overall Broadway grosses and attendance declined due to competition from Halloween and the New York City Marathon."
+        ]
+      }
+    ],
+    "facts": [
+      "Much Ado About Nothing held its first preview performance last week.",
+      "The production played to 100 percent capacity.",
+      "The average ticket price was $238, the second highest on Broadway last week.",
+      "The single preview performance brought in $358,262.",
+      "The play opens Nov. 19 at the Winter Garden Theatre.",
+      "Other Desert Cities was the week's highest earner with $2.35 million.",
+      "Other Desert Cities had the highest average ticket price of $301.",
+      "Hamilton was the second highest earner with $2.31 million.",
+      "Harry Potter and the Cursed Child brought in $1.63 million.",
+      "MJ brought in $1.61 million.",
+      "The Lion King brought in $1.56 million.",
+      "Billy Crystal's solo show, 860, grossed $1.35 million.",
+      "A Few Good Men brought in close to $1.3 million.",
+      "Broadway grosses were down 13 percent and attendance down 4 percent.",
+      "Downstate brought in $275,085 and saw attendance drop to 87 percent.",
+      "Downstate is scheduled to open Nov. 15.",
+      "Wanted saw grosses fall to $508,919 and attendance drop to 82 percent.",
+      "Wanted is scheduled to open Nov. 8."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hiddleston",
+        "Hayley Atwell",
+        "Jamie Lloyd",
+        "Julia Louis-Dreyfus",
+        "Allison Janney",
+        "Joe Keery",
+        "Billy Crystal",
+        "Bradley Whitford",
+        "Tom Blyth"
+      ],
+      "titles": [
+        "Much Ado About Nothing",
+        "Other Desert Cities",
+        "Hamilton",
+        "Harry Potter and the Cursed Child",
+        "MJ",
+        "The Lion King",
+        "860",
+        "A Few Good Men",
+        "Downstate",
+        "Wanted"
+      ]
+    },
+    "keywords": [
+      "Much Ado About Nothing Broadway",
+      "Tom Hiddleston Much Ado About Nothing",
+      "Hayley Atwell Broadway play",
+      "Broadway box office November"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 21:12:05 +0000"
+  },
+  "1let4na": {
+    "id": "1let4na",
+    "type": "news",
+    "headline": "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+    "dek": "A look at five remarkable actresses in Indian cinema who have consistently redefined stardom through complex characters, versatility, and exceptional acting prowess.",
+    "body": [
+      {
+        "h": "Introduction to Acting Prowess in Bollywood",
+        "p": [
+          "Bollywood has long celebrated performers who choose to look beyond traditional definitions of stardom. Instead of relying solely on conventional glamour, a select group of actresses has consistently gravitated toward roles that challenge their abilities and leave an indelible mark on audiences.",
+          "These talented women have carved out distinct paths by breathing life into complex characters, proving that sheer acting talent and versatility always manage to stand out in the competitive landscape of Indian cinema."
+        ]
+      },
+      {
+        "h": "Vidya Balan and Unconventional Leading Roles",
+        "p": [
+          "Vidya Balan has fundamentally transformed the concept of a leading lady within the Hindi film industry. Her career is defined by bold, unconventional script choices and a commanding screen presence.",
+          "Through acclaimed projects such as The Dirty Picture, Kahaani, and Tumhari Sulu, alongside more recent works like Sherni and Jalsa, she has repeatedly demonstrated her capacity to anchor entire films on her own shoulders while portraying layered women."
+        ]
+      },
+      {
+        "h": "Divya Dutta and Remarkable Transformation",
+        "p": [
+          "Divya Dutta is celebrated for her incredible ability to completely transform her appearance and demeanor with every single role she takes on.",
+          "From memorable appearances in Veer Zaara, Bhaag Milkha Bhaag, and Delhi 6 to newer endeavors including Chiraiya, Last Man in Tower, and Gajab Raat, her flair for navigating vulnerability, strength, and morally grey tones makes her exceptionally versatile."
+        ]
+      },
+      {
+        "h": "Tabu and Her Mastery Across Genres",
+        "p": [
+          "Widely acknowledged as one of the preeminent actresses in Indian cinema, Tabu brings profound depth and remarkable range to every single performance she delivers.",
+          "She transitions effortlessly across intense dramas, gripping thrillers, and mainstream commercial hits—spanning from Maqbool, Haider, and Andhadhun to Drishyam and Bhool Bhulaiyaa 2—leaving a lasting impact on viewers everywhere."
+        ]
+      },
+      {
+        "h": "Shefali Shah and Complex Character Portrayals",
+        "p": [
+          "Shefali Shah has cemented her status as an exceptionally compelling artist through her deep, intuitive understanding of intricate and challenging characters.",
+          "Whether tackling intense narratives in Delhi Crime, delivering a nuanced performance in Three of Us, or taking on memorable parts in Darlings, she consistently proves her mastery over her craft."
+        ]
+      },
+      {
+        "h": "Konkona Sen Sharma and Performance-Driven Cinema",
+        "p": [
+          "Konkona Sen Sharma remains a cornerstone of content-driven and performance-oriented filmmaking in India, continually pushing boundaries.",
+          "With standout cinematic contributions such as Mr. and Mrs. Iyer, Lipstick Under My Burkha, and Dolly Kitty Aur Woh Chamakte Sitare, she consistently challenges standard storytelling norms to deliver unforgettable screen moments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "This article highlights five prominent actresses in Indian cinema—Vidya Balan, Divya Dutta, Tabu, Shefali Shah, and Konkona Sen Sharma—who have continuously delivered powerful performances. Through a diverse range of acclaimed films and series, these performers have proved their versatility and redefined stardom."
+        ]
+      }
+    ],
+    "facts": [
+      "Vidya Balan starred in The Dirty Picture, Kahaani, Tumhari Sulu, Sherni, and Jalsa.",
+      "Divya Dutta appeared in Veer Zaara, Bhaag Milkha Bhaag, Delhi 6, Chiraiya, Last Man in Tower, and Gajab Raat.",
+      "Tabu acted in Maqbool, Haider, Andhadhun, Drishyam, and Bhool Bhulaiyaa 2.",
+      "Shefali Shah starred in Delhi Crime, Three of Us, and Darlings.",
+      "Konkona Sen Sharma featured in Mr. and Mrs. Iyer, Lipstick Under My Burkha, and Dolly Kitty Aur Woh Chamakte Sitare."
+    ],
+    "entities": {
+      "people": [
+        "Vidya Balan",
+        "Divya Dutta",
+        "Tabu",
+        "Shefali Shah",
+        "Konkona Sen Sharma"
+      ],
+      "titles": [
+        "The Dirty Picture",
+        "Kahaani",
+        "Tumhari Sulu",
+        "Sherni",
+        "Jalsa",
+        "Veer Zaara",
+        "Bhaag Milkha Bhaag",
+        "Delhi 6",
+        "Chiraiya",
+        "Last Man in Tower",
+        "Gajab Raat",
+        "Maqbool",
+        "Haider",
+        "Andhadhun",
+        "Drishyam",
+        "Bhool Bhulaiyaa 2",
+        "Delhi Crime",
+        "Three of Us",
+        "Darlings",
+        "Mr. and Mrs. Iyer",
+        "Lipstick Under My Burkha",
+        "Dolly Kitty Aur Woh Chamakte Sitare"
+      ]
+    },
+    "keywords": [
+      "Vidya Balan powerful performances",
+      "Tabu versatile actress Bollywood",
+      "Divya Dutta characters",
+      "Shefali Shah complex roles",
+      "Konkona Sen Sharma cinema"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/tabudivyaduttavidyabalan-12191793744145.jpg",
+        "caption": "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 03:48:53 +0530"
+  },
+  "1vtrtnk": {
+    "id": "1vtrtnk",
+    "type": "news",
+    "headline": "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
+    "dek": "After a twenty-year wait and a prior abandoned attempt, the acclaimed coming-of-age book is finally becoming a television series under the guidance of One Day creator Nicole Taylor.",
+    "body": [
+      {
+        "h": "The Long-Awaited Greenlight",
+        "p": [
+          "Netflix has officially granted a straight-to-series order to a television adaptation of Curtis Sittenfeld's popular coming-of-age novel. The project brings the beloved book to the screen more than twenty years after its original publication.",
+          "The upcoming half-hour drama is scheduled to open its dedicated writers' room in January 2027, marking a major milestone for fans who have awaited an adaptation for decades."
+        ]
+      },
+      {
+        "h": "Plot and Source Material",
+        "p": [
+          "Written by Curtis Sittenfeld and published in 2005, the story centers on Lee Fiora, a scholarship student navigating the challenging social landscape of a prestigious New England boarding school.",
+          "The narrative explores themes of class disparity, romance, insecurity, and privilege as the protagonist attempts to fit in among her wealthy peers, drawing partial inspiration from the author's own school experiences."
+        ]
+      },
+      {
+        "h": "Creative Leadership Behind the Project",
+        "p": [
+          "Nicole Taylor, known for her work on the television series One Day, is officially attached to the project as the writer, showrunner, and executive producer.",
+          "Additional executive production duties are handled by Will Ferrell, Jessica Elbaum, and Alix Taylor through Gloria Sanchez Productions, alongside author Curtis Sittenfeld."
+        ]
+      },
+      {
+        "h": "Showrunner Connection and Previous Success",
+        "p": [
+          "The series marks Nicole Taylor's latest collaboration with Netflix following her success with the 2024 romantic drama One Day, which adapted David Nicholls' novel.",
+          "That previous series followed the complicated relationship between characters Dexter Mayhew and Emma Morley across two decades, earning strong critical praise and high audience scores."
+        ]
+      },
+      {
+        "h": "Prior Adaptation Attempts",
+        "p": [
+          "This new production follows an earlier, unrealized effort to bring the book to television screens back in 2016 when HBO began developing a comedy version.",
+          "That previous attempt involved creative input from 30 Rock writer Colleen McGuinness and Game of Thrones executive producer Carolyn Strauss, though it ultimately never moved forward."
+        ]
+      },
+      {
+        "h": "Platform Context and YA Lineup",
+        "p": [
+          "The upcoming series will join Netflix's expanding collection of teen and young adult dramas, which includes titles such as Outer Banks and My Life with the Walter Boys.",
+          "With young adult programming generating massive global viewership figures on the platform, the streamer continues to invest heavily in similar upcoming content."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has given a straight-to-series order to an adaptation of Curtis Sittenfeld's 2005 novel Prep, spearheaded by One Day creator Nicole Taylor. The upcoming half-hour drama follows a scholarship student at a New England boarding school and arrives two decades after the book's publication following an abandoned HBO attempt."
+        ]
+      }
+    ],
+    "facts": [
+      "Prep was published in 2005 as a bestselling novel by Curtis Sittenfeld.",
+      "Netflix gave Prep a straight-to-series order.",
+      "Nicole Taylor is attached as writer, showrunner, and executive producer.",
+      "The writers' room for the series is expected to open in January 2027.",
+      "Will Ferrell, Jessica Elbaum, and Alix Taylor are executive producing through Gloria Sanchez Productions.",
+      "HBO previously began developing a comedy series based on the novel in 2016.",
+      "One Day premiered on Netflix in 2024 and starred Leo Woodall and Ambika Mod."
+    ],
+    "entities": {
+      "people": [
+        "Emma Gladstone",
+        "Curtis Sittenfeld",
+        "Nicole Taylor",
+        "Will Ferrell",
+        "Jessica Elbaum",
+        "Alix Taylor",
+        "David Nicholls",
+        "Leo Woodall",
+        "Ambika Mod",
+        "Colleen McGuinness",
+        "Carolyn Strauss",
+        "Reed Hastings",
+        "Marc Randolph"
+      ],
+      "titles": [
+        "Prep",
+        "One Day",
+        "30 Rock",
+        "Game of Thrones",
+        "Romantic Comedy",
+        "Outer Banks",
+        "My Life with the Walter Boys",
+        "The Body",
+        "The Sticks",
+        "Poser",
+        "Lilyhammer",
+        "Stranger Things",
+        "Squid Game",
+        "House of Cards",
+        "Wednesday",
+        "KPop Demon Hunters",
+        "Bird Box",
+        "Red Notice"
+      ]
+    },
+    "keywords": [
+      "Prep Netflix series",
+      "Curtis Sittenfeld Prep adaptation",
+      "Nicole Taylor Netflix show",
+      "Prep television series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/mousetrap-poster-with-netflix-logo-up-front.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 22:45:38 GMT"
   }
 };

@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-03T22:53:53Z",
+  "generated": "2026-11-03T23:44:39Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 2,
+    "pageviews": 6,
+    "sessions": 2,
+    "avg_session_seconds": 63.5
   },
   "last7": {
-    "users": 173,
-    "pageviews": 651,
-    "sessions": 244,
-    "avg_session_seconds": 172.4
+    "users": 177,
+    "pageviews": 660,
+    "sessions": 249,
+    "avg_session_seconds": 170.0
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 125,
-      "avg_time_seconds": 243.2
+      "views": 127,
+      "avg_time_seconds": 239.5
     },
     {
       "path": "/ott",
@@ -54,6 +54,12 @@
       "avg_time_seconds": 49.5
     },
     {
+      "path": "/show",
+      "title": "Lagan Lagi (2026) — Episodes, Cast & Story | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 47.9
+    },
+    {
       "path": "/movie",
       "title": "Enemy Of The Smuggler (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 9,
@@ -70,12 +76,6 @@
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
       "views": 9,
       "avg_time_seconds": 12.2
-    },
-    {
-      "path": "/news-item/",
-      "title": "News Story | FlickAtlas",
-      "views": 9,
-      "avg_time_seconds": 9.3
     }
   ],
   "sources": [
@@ -88,20 +88,20 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 113,
-      "users": 86
+      "sessions": 117,
+      "users": 90
+    },
+    {
+      "source": "search.google.com",
+      "medium": "referral",
+      "sessions": 3,
+      "users": 1
     },
     {
       "source": "(not set)",
       "medium": "(not set)",
       "sessions": 2,
       "users": 2
-    },
-    {
-      "source": "search.google.com",
-      "medium": "referral",
-      "sessions": 2,
-      "users": 1
     },
     {
       "source": "gemini.google.com",
@@ -117,11 +117,11 @@
     },
     {
       "country": "India",
-      "users": 58
+      "users": 59
     },
     {
       "country": "Pakistan",
-      "users": 6
+      "users": 8
     },
     {
       "country": "Philippines",
@@ -159,11 +159,11 @@
     },
     {
       "device": "mobile",
-      "users": 81
+      "users": 84
     },
     {
       "device": "tablet",
-      "users": 3
+      "users": 4
     }
   ],
   "per_post": {}

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T23:51:10Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "SRK and Deepika fans spot 'Om Shanti Om' parallels in 'King'",
-      "japanese comfort foods for a unique dining experience zmt 3077283.html",
-      "stock market investing essential lessons for building financial knowledge 3077346.html",
-      "photo gallery ramayana star cast fees ranbir kapoor took rs 75 crore to play rama yash s price will shock you lara dutta kunal kapoor took only little chunks 3223437",
-      "video india bloc protest rs10000 rs11000 crore loss delhi traders slams india bloc rally congress 3223465",
-      "from skincare to styling how vaseline is bringing body glow into the fashion conversation",
-      "he has enough critics outside amitabh bachchan reveals why he never criticises abhishek bachchan at home",
-      "imran khan apologises to bombay hc over sir protest promises not to join similar demonstrations report",
-      "ranbir kapoor yashs ramayana to have special mumbai premiere on november 3 report",
-      "shah rukh khan waves at fans outside taj hotel after 61st birthday celebrations watch video",
-      "tu mil jaaye song from king leaves fans impressed with srk deepika padukones on screen chemistry",
-      "vaseline introduces its new shimmer body oils at lakme fashion week",
-      "I Can’t Believe John Stamos Didn’t Think Lori Loughlin Was Right For Full House’s Aunt Becky",
-      "I Enjoyed Backrooms, But Can We Finally Admit It Wasn't That Scary?",
-      "We're Only Two Days Out From Halloween, But It's Already 'SKIMSmas' For The Kardashians",
-      "Dexter: Resurrection's Season 2 Premiere Brought Back My Favorite Character, But The Show Is Repeating My Problem With Last Season",
-      "6 Thriller Shows From the 2010s That Are Perfect From Start to Finish",
-      "‘Severance’ Star’s New Movie Officially Explodes 1,173% at the Box Office",
-      "The Battlestar Galactica Franchise Officially Returns In 2027",
-      "'Coraline' Meets 'The Boogeyman' as Jessica Chastain's 93-Minute Movie Officially Hits a Box Office Milestone"
-     ],
-     "updated": [],
-     "count": 358,
-     "detail": "376 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-03T00:51:31Z",
     "run_id": "41555699502",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "317 stories, 0 duplicates removed, 37 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T01:44:58Z",
-    "run_id": "41561650467",
+    "run_at": "2026-11-03T23:35:47Z",
+    "run_id": "41740336973",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 315,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Salman Khan Honours Shah Rukh Khan as The King on His 61st Birthday",
-      "Avengers: Doomsday Surpasses Supergirl in Presales Weeks Before Premiere",
-      "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmobile",
-      "The Housemaid Stage Adaptation Announced for 2027"
+      "Vidya Balan, Tabu, Divya Dutta, Shefali Shah- 5 Actresses Who Have Consistently Delivered Powerful Performance",
+      "Ustad AR Rahman Takes Us Back To Guru Days In This Heartwarming Ad Film As He Becomes Brand Ambassador Of...",
+      "Justin Baldoni sells LA home for $2.1 million after moving to Nashville",
+      "Bill Hader Also Played The Cat In The Hat On SNL, And It Was Not A Good Experience",
+      "Hailey Bieber Channeled Angelina Jolie And Proved Latex Is Back In, Baby",
+      "A Disney Exec Just Revealed A Big Change For Frozen 3 And 4 I Think Is The Right Move",
+      "The 10 Best American Rock Bands of All Time, Ranked",
+      "The 10 Greatest Horror Thriller Opening Scenes, Ranked",
+      "‘Bosch’ Meets ‘Mindhunter’ in Apple TV’s Gritty 10-Episode Serial Killer Thriller",
+      "7 Best Anime Series Coming to Netflix and Crunchyroll in November 2026",
+      "Harry Potter and the Philosopher’s Stone Gets a Major Makeover Ahead of HBO Show",
+      "Miami Vice ’85 Set Photos Offer First Look at Michael Irby’s Character",
+      "Violent Night 2’s ‘Bigger’ Action Scenes Teased, Watch Intense David Harbour Zip Line Stunt",
+      "Tom Brady & Kevin Hart Reunite for Surprising New Project After Infamous Netflix Roast, Watch Video",
+      "4 Hunger Games Movies Reemerge as Streaming Hits Before New Prequel, But One Is Missing",
+      "Andy Richter’s New Crime Thriller Movie Unleashes Intense Trailer",
+      "Revenge Thriller Film 'After the Silence' Trailer Feat. Dónall Ó Héalaí",
+      "New Trailer for 'Secret Service' Series w/ Gemma Arterton & Rafe Spall",
+      "Forget ‘Lioness,’ Netflix’s 7-Part Thriller Has Much Better Action and You Can Binge It In a Day",
+      "HBO's Raunchy New 8-Part Series Remains a Near-Perfect Streaming Smash Ahead of Season 2"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 296,
+     "detail": "315 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T23:36:22Z",
+    "run_id": "41740336973",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
+      "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+      "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+      "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-03T00:52:15Z",
-    "run_id": "41555699502",
-    "status": "success",
-    "checked": {
-     "candidates": 186,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,31 +1896,27 @@
      "detail": "now 186, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T23:36:23Z",
+    "run_id": "41740336973",
+    "status": "success",
+    "checked": {
+     "candidates": 190,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 186, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-03T02:28:36Z",
-    "run_id": "41561650467",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "qv0504",
-      "cio2rc",
-      "ged0uq",
-      "b15m7m"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2370,27 +2348,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T02:28:33Z",
-    "run_id": "41561650467",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T23:44:32Z",
+    "run_id": "41740336973",
     "status": "success",
     "checked": {
-     "candidates": 441,
-     "detail": "437 collected staging rows from readers; 165 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 434 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2804,19 +2781,27 @@
      "detail": "+0 new rows, 3 updated rows, 460 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T23:44:30Z",
+    "run_id": "41740336973",
+    "status": "success",
+    "checked": {
+     "candidates": 464,
+     "detail": "463 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 153,
+     "detail": "+0 new rows, 153 updated rows, 310 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3053,32 +3038,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-03T02:28:35Z",
-    "run_id": "41561650467",
-    "status": "success",
-    "checked": {
-     "candidates": 453,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Salman Khan Honours Shah Rukh Khan as The King on His 61st Birthday",
-      "Avengers: Doomsday Surpasses Supergirl in Presales Weeks Before Premiere",
-      "The Housemaid Stage Adaptation Announced for 2027",
-      "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmobile"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 453 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3604,19 +3576,32 @@
      "detail": "api-news.json 544 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T23:44:31Z",
+    "run_id": "41740336973",
+    "status": "success",
+    "checked": {
+     "candidates": 548,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+      "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+      "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
+      "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 548 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3891,19 +3876,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4224,31 +4209,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T23:51:48Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 358 still unprocessed; today by category: movies 14/6, tv_dramas 12/4, episodes 1/2, box_office 14/6, celebrities_events 17/5, upcoming_releases 4/4, ott_streaming 8/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
-      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
-      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Arrest",
-      "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4754,19 +4727,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T23:36:22Z",
+    "run_id": "41740336973",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 296 still unprocessed; today by category: movies 16/6, tv_dramas 12/4, episodes 2/2, box_office 20/6, celebrities_events 22/5, upcoming_releases 6/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
+      "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
+      "Five Bollywood Actresses Known for Consistent and Powerful Performances",
+      "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5083,24 +5068,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 400,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5445,24 +5425,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 440,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5797,19 +5777,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 29,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6059,19 +6044,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6306,19 +6291,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6594,19 +6579,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6847,19 +6832,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7089,19 +7074,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7350,6 +7335,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T22:53:53Z",
     "run_id": "41734252000",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7776,16 +7771,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-03T00:57:38Z",
     "run_id": "41555699502",
     "status": "skipped",
@@ -8022,19 +8007,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8284,8 +8269,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T23:44:39Z",
+    "run_id": "41740336973",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T22:53:53Z"
+ "updated_at": "2026-11-03T23:44:39Z"
 }
