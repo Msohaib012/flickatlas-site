@@ -163,13 +163,13 @@
    "tickets": 253753
   },
   {
-   "collection_inr_cr": 0.05,
+   "collection_inr_cr": 0.6,
    "date": "2026-11-03",
    "day": 20,
-   "occupancy_pct": 14.7,
-   "shows": 80,
+   "occupancy_pct": 7.5,
+   "shows": 1944,
    "source": "filmynewsnetwork",
-   "tickets": 4841
+   "tickets": 43696
   }
  ],
  "1269325": [
@@ -453,13 +453,13 @@
    "tickets": 42966
   },
   {
-   "collection_inr_cr": 0.0,
+   "collection_inr_cr": 0.14,
    "date": "2026-11-03",
    "day": 33,
-   "occupancy_pct": 4.7,
-   "shows": 14,
+   "occupancy_pct": 6.2,
+   "shows": 804,
    "source": "filmynewsnetwork",
-   "tickets": 80
+   "tickets": 9386
   }
  ],
  "1375156": [
@@ -554,13 +554,13 @@
    "tickets": 99816
   },
   {
-   "collection_inr_cr": 0.0,
+   "collection_inr_cr": 0.26,
    "date": "2026-11-03",
    "day": 12,
-   "occupancy_pct": 3.0,
-   "shows": 20,
+   "occupancy_pct": 6.6,
+   "shows": 1314,
    "source": "filmynewsnetwork",
-   "tickets": 116
+   "tickets": 18082
   }
  ],
  "1389379": [
@@ -716,6 +716,15 @@
    "shows": 491,
    "source": "filmynewsnetwork",
    "tickets": 16498
+  },
+  {
+   "collection_inr_cr": 0.05,
+   "date": "2026-11-03",
+   "day": 19,
+   "occupancy_pct": 10.7,
+   "shows": 114,
+   "source": "filmynewsnetwork",
+   "tickets": 3733
   }
  ],
  "1654581": [
@@ -873,13 +882,13 @@
    "tickets": 10515
   },
   {
-   "collection_inr_cr": 0.0,
+   "collection_inr_cr": 0.04,
    "date": "2026-11-03",
    "day": 19,
-   "occupancy_pct": 1.2,
-   "shows": 6,
+   "occupancy_pct": 6.8,
+   "shows": 225,
    "source": "filmynewsnetwork",
-   "tickets": 12
+   "tickets": 2765
   }
  ],
  "1785611": [
@@ -972,6 +981,15 @@
    "shows": 29,
    "source": "filmynewsnetwork",
    "tickets": 231
+  },
+  {
+   "collection_inr_cr": 0.0,
+   "date": "2026-11-03",
+   "day": 12,
+   "occupancy_pct": 4.8,
+   "shows": 9,
+   "source": "filmynewsnetwork",
+   "tickets": 63
   }
  ]
 }

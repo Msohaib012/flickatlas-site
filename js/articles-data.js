@@ -42160,5 +42160,408 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 03:00:16 +0000"
+  },
+  "18643y9": {
+    "id": "18643y9",
+    "type": "news",
+    "headline": "Ranbir Kapoor-Yash's Ramayana To Have Special Mumbai Premiere On November 3: Report",
+    "dek": "Ramayana: Part One is gearing up for a special screening in Mumbai on November 3 following earlier premieres in Los Angeles and London.",
+    "body": [
+      {
+        "h": "Upcoming Mumbai Screening",
+        "p": [
+          "Ramayana: Part One is scheduled for a special event in Mumbai before its official theatrical debut in India. The upcoming gathering serves as a dedicated screening for the project's cast and crew members along with invited industry guests.",
+          "A separate media screening has also been scheduled to follow the initial event, providing journalists and reviewers an opportunity to watch the production ahead of its wide theatrical launch."
+        ]
+      },
+      {
+        "h": "Venue and Timeline Details",
+        "p": [
+          "The Mumbai premiere is set to take place at Lower Parel's IMAX on November 3, with the media screening arranged for November 4. Organizers had initially considered the Nita Mukesh Ambani Cultural Centre for the gathering before ultimately deciding on the IMAX venue.",
+          "The theatrical release across India is officially scheduled for November 5, bringing the project to local audiences following weeks of promotional activity and international showcases."
+        ]
+      },
+      {
+        "h": "International Screenings and Reactions",
+        "p": [
+          "Prior to the Mumbai schedule, the film held its Los Angeles premiere on October 27, where audience reactions were noted as mixed. Following that event, a screening took place in London on November 1.",
+          "The London presentation specifically welcomed critics and members of the BAFTA jury to view the Hindi version of the production before its broader commercial rollout."
+        ]
+      },
+      {
+        "h": "Advance Booking Numbers",
+        "p": [
+          "As the theatrical launch approaches, advance ticket sales have opened across multiple formats throughout the country. Reports indicate that the production accumulated a considerable advance booking collection of Rs 45 crore in India by the early hours of November 2.",
+          "These early sales figures reflect strong pre-release interest from moviegoers eager to secure their seats for opening day across various participating theatres."
+        ]
+      },
+      {
+        "h": "Cast and Crew Members",
+        "p": [
+          "The feature is directed by Nitesh Tiwari and features a prominent ensemble cast. Ranbir Kapoor takes on the role of Lord Ram, Sai Pallavi stars as Sita, and Yash portrays Ravana.",
+          "Additional key cast members include Ravi Dubey as Lakshman, Sunny Deol as Hanuman, Arun Govil as King Dashrath, Lara Dutta as Kaikeyi, and several others spanning a large supporting roster."
+        ]
+      },
+      {
+        "h": "Distribution and Global Reach",
+        "p": [
+          "Dharma Productions is managing the distribution responsibilities for the theatrical run within India. Meanwhile, Sony Pictures is handling the international distribution strategy, which includes plans for the China market.",
+          "These partnerships aim to ensure a wide global footprint as the multi-language production reaches audiences across different international territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One is scheduled for a special Mumbai premiere at Lower Parel's IMAX on November 3 ahead of its November 5 India release. The production has already held international screenings in Los Angeles and London while accumulating Rs 45 crore in Indian advance bookings by November 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One has a special Mumbai premiere on November 3, 2026",
+      "The India release date is November 5, 2026",
+      "The Mumbai premiere takes place at Lower Parel's IMAX",
+      "The media screening is on November 4, 2026",
+      "The Los Angeles premiere took place on October 27, 2026",
+      "The London screening took place on November 1, 2026",
+      "Advance booking collection reached Rs 45 crore by 6 am on November 2, 2026",
+      "Ranbir Kapoor stars as Lord Ram",
+      "Sai Pallavi stars as Sita",
+      "Yash stars as Ravana",
+      "Nitesh Tiwari is the director",
+      "Dharma Productions is handling distribution in India",
+      "Sony Pictures is handling international release including China"
+    ],
+    "entities": {
+      "people": [
+        "Mahi Pillai",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Sonal Jha",
+        "Lara Dutta",
+        "Sheeba Chaddha",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Shobana",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Ajinkya Deo",
+        "Anupam Kher",
+        "Adinath Kothare",
+        "Faisal Malik",
+        "Saurabh Sachdeva",
+        "Chetan Hansraj",
+        "Diljit Dosanjh",
+        "Gullu",
+        "Yung DSA"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana Part 1",
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Mumbai premiere",
+      "Ramayana advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/02135703/image.jpeg",
+        "caption": "Ranbir Kapoor-Yash's Ramayana To Have Special Mumbai Premiere On November 3: Report",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-03T04:51:33Z"
+  },
+  "sz3q2y": {
+    "id": "sz3q2y",
+    "type": "news",
+    "headline": "First Look Of Scam 2010 Directed By Hansal Mehta Unveiled",
+    "dek": "The acclaimed Scam franchise returns with its next installment, featuring Siddharth Bodke as Subrata Roy under the direction of Hansal Mehta.",
+    "body": [
+      {
+        "h": "Introduction To Scam 2010",
+        "p": [
+          "The official first look for the upcoming series Scam 2010 has officially been revealed to the public, generating considerable anticipation among digital streaming enthusiasts.",
+          "This project marks the continuation of the successful franchise, aiming to deliver another gripping biographical narrative to audiences worldwide."
+        ]
+      },
+      {
+        "h": "Franchise Background And Predecessors",
+        "p": [
+          "The franchise previously achieved monumental critical and commercial success with Scam 1992: The Harshad Mehta Story, which captivated viewers everywhere.",
+          "That foundational installment chronicled the journey of Harshad Mehta, detailing how he propelled the stock market to unprecedented heights before orchestrating his own downfall."
+        ]
+      },
+      {
+        "h": "Subject Matter And Source Material",
+        "p": [
+          "Shifting focus to a new subject, Scam 2010 centers on the life and ventures of businessman Subrata Roy.",
+          "The narrative of this new chapter is closely adapted from the published book titled Sahara: The Untold Story, authored by Tamal Bandyopadhyay."
+        ]
+      },
+      {
+        "h": "Cast And Character Insights",
+        "p": [
+          "Actor Siddharth Bodke takes on the demanding lead role in this chapter, expressing that the undertaking proved to be uniquely challenging and special.",
+          "He shared a desire to understand the man behind the public image, exploring the inner drivers and motivations that shaped the protagonist's choices."
+        ]
+      },
+      {
+        "h": "Working With Director Hansal Mehta",
+        "p": [
+          "Helmed by acclaimed filmmaker Hansal Mehta, the production offered the lead actor an incredible learning experience filled with memorable moments.",
+          "Bodke acknowledged the heavy responsibility of carrying forward the strong legacy established by the previous entry in the anthology."
+        ]
+      },
+      {
+        "h": "Production And Release Details",
+        "p": [
+          "The series is backed jointly by Birla Studios and Applause Entertainment, bringing together notable creative forces for the platform.",
+          "Viewers will be able to stream the premiere of Scam 2010 exclusively on Sony LIV starting in January 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The first look for the upcoming streaming series Scam 2010 has been officially unveiled, with Siddharth Bodke starring as businessman Subrata Roy under the direction of Hansal Mehta. Based on Tamal Bandyopadhyay's book Sahara: The Untold Story and backed by Birla Studios and Applause Entertainment, the series is scheduled to premiere on Sony LIV in January 2027 following the legacy of Scam 1992."
+        ]
+      }
+    ],
+    "facts": [
+      "Siddharth Bodke stars as Subrata Roy in Scam 2010",
+      "Scam 2010 is directed by Hansal Mehta",
+      "The series is based on the book Sahara: The Untold Story by Tamal Bandyopadhyay",
+      "Scam 2010 is scheduled to premiere in January 2027 on Sony LIV",
+      "Scam 1992: The Harshad Mehta Story featured Pratik Gandhi as Harshad Mehta",
+      "Scam 2010 is backed by Birla Studios and Applause Entertainment"
+    ],
+    "entities": {
+      "people": [
+        "Hansal Mehta",
+        "Siddharth Bodke",
+        "Pratik Gandhi",
+        "Harshad Mehta",
+        "Subrata Roy",
+        "Tamal Bandyopadhyay",
+        "Siddharth Thampi"
+      ],
+      "titles": [
+        "Scam 2010",
+        "Scam 1992: The Harshad Mehta Story",
+        "Sahara: The Untold Story"
+      ]
+    },
+    "keywords": [
+      "Scam 2010",
+      "Hansal Mehta",
+      "Siddharth Bodke",
+      "Scam 1992",
+      "Sahara The Untold Story"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/scam2010sooo1793609143.jpg",
+        "caption": "First Look Of Scam 2010 Directed By Hansal Mehta Unveiled",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-02T17:25:32+05:30"
+  },
+  "ps1fy5": {
+    "id": "ps1fy5",
+    "type": "news",
+    "headline": "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
+    "dek": "The investigation into the firing incident outside Tiger Shroff's residence has expanded, with authorities taking a 22-year-old woman into custody from Haryana and bringing the total number of arrested individuals to 13.",
+    "body": [
+      {
+        "h": "Latest Arrest Expands Custody Count",
+        "p": [
+          "The ongoing investigation surrounding the high-profile firing incident linked to Bollywood personality Tiger Shroff has taken another significant turn. The Mumbai Crime Branch successfully apprehended a 22-year-old female suspect hailing from Karnal district in Haryana, marking a fresh development in the case.",
+          "With this latest apprehension, the total count of individuals taken into custody by law enforcement has climbed to 13. Authorities continue to trace all leads and individuals connected to the criminal conspiracy behind the attack."
+        ]
+      },
+      {
+        "h": "Identification of the New Suspect",
+        "p": [
+          "According to reports from the Free Press Journal, the newly detained individual has been formally identified as Subeha Pandit. Her arrest marks a notable progression in the inquiry as she becomes the third female suspect implicated in the ongoing probe.",
+          "Investigators noted that Subeha Pandit joins previously detained women Radha and Babita. While Radha and Babita were earlier taken into custody over allegations of supplying weapons for the operation, the exact role attributed to Pandit forms a key part of the ongoing police investigation."
+        ]
+      },
+      {
+        "h": "Ties to Organized Criminal Networks",
+        "p": [
+          "Law enforcement intelligence revealed that the newly arrested woman has direct links to an organized criminal syndicate. Her alleged involvement in the syndicate's unlawful operations drew the focused attention of the authorities leading the investigation.",
+          "Acting on these specific findings, a dedicated team from the Mumbai Crime Branch coordinated closely with local law enforcement in Haryana. This joint effort culminated in the detention and formal arrest of the suspect from Karnal on November 1."
+        ]
+      },
+      {
+        "h": "Chronology of the Juhu Firing Incident",
+        "p": [
+          "The security scare unfolded on the evening of October 18, 2026, creating immediate panic in the neighborhood. Unidentified assailants arrived on a two-wheeler at the upscale Juhu locality and discharged firearms, creating widespread shock and prompting a rapid response from local police forces.",
+          "Following the incident, a formal case was registered at the Juhu Police Station. Given the gravity of the situation and potential organized crime angles, the Mumbai Crime Branch subsequently stepped in to take over the primary investigation."
+        ]
+      },
+      {
+        "h": "Wider Sweep and Prior Arrests",
+        "p": [
+          "Before the recent apprehension in Haryana, investigators had already conducted a sweeping operation across multiple regions. The Crime Branch previously tracked down and arrested 12 other suspects spread across Kota in Rajasthan, Delhi, and Sonipat in Haryana.",
+          "The expanding geographical footprint of the arrests highlights the multi-state nature of the criminal conspiracy. Law enforcement agencies across different states have been sharing intelligence to dismantle the network piece by piece."
+        ]
+      },
+      {
+        "h": "Invocation of MCOCA Provisions",
+        "p": [
+          "As the gravity of the conspiracy became increasingly evident, investigators escalated the legal framework surrounding the case. On October 27, 2026, authorities officially invoked stringent provisions under the Maharashtra Control of Organised Crime Act, 1999.",
+          "Specifically, Sections 3(1)(ii), 3(2), and 3(4) of MCOCA were applied to the case. This legal step underscores the organized crime dimension that law enforcement is tackling in connection with the security threat."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Mumbai Crime Branch arrested a 22-year-old woman named Subeha Pandit from Karnal on November 1, bringing the total number of accused in the Tiger Shroff firing case to 13. The investigation follows a shooting incident in Juhu on October 18, leading to multi-state arrests and the invocation of MCOCA provisions on October 27."
+        ]
+      }
+    ],
+    "facts": [
+      "Mumbai Crime Branch arrested a 22-year-old woman from Karnal, Haryana on November 1, 2026.",
+      "The total number of accused in the Tiger Shroff firing case has risen to 13.",
+      "The arrested woman is identified as Subeha Pandit.",
+      "Radha and Babita were previously held for allegedly supplying weapons.",
+      "The firing incident took place on the evening of October 18, 2026, in the Juhu area.",
+      "Provisions of the Maharashtra Control of Organised Crime Act (MCOCA), 1999, including Sections 3(1)(ii), 3(2) and 3(4), were invoked on October 27, 2026.",
+      "Earlier arrests involved 12 accused from Kota in Rajasthan, Delhi and Sonipat in Haryana."
+    ],
+    "entities": {
+      "people": [
+        "Tiger Shroff",
+        "Subeha Pandit",
+        "Radha",
+        "Babita"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Tiger Shroff firing case",
+      "Mumbai Crime Branch",
+      "Subeha Pandit arrest",
+      "Tiger Shroff Juhu shooting"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135479421,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T08:10:01+05:30"
+  },
+  "1fsijq5": {
+    "id": "1fsijq5",
+    "type": "news",
+    "headline": "Julia Stiles Exits Dancing With the Stars During Disney Night Episode",
+    "dek": "Julia Stiles and partner Ezra Sosa faced elimination on the Nov. 2 Disney Night episode of Dancing With the Stars following a Paso Doble routine.",
+    "body": [
+      {
+        "h": "Disney Night Elimination",
+        "p": [
+          "The latest episode of Dancing With the Stars brought a magical atmosphere to the ballroom for Disney Night on Nov. 2, but it also marked the end of the journey for actress Julia Stiles and her professional dance partner Ezra Sosa. Despite delivering a Paso Doble routine to the track Satisfied from the musical Hamilton, the pair were sent home.",
+          "Reflecting on her departure after the episode, Stiles expressed that the journey had brought out unexpected strength within her and noted she would miss working alongside Sosa daily."
+        ]
+      },
+      {
+        "h": "Reflections From the Partnership",
+        "p": [
+          "Ezra Sosa shared similar sentiments regarding their time together on the program, praising the Save the Last Dance star for the noticeable progress she displayed both inside and outside of the ballroom environment.",
+          "Sosa expressed gratitude for the opportunity to share the television experience with Stiles, highlighting her personal growth throughout the competition."
+        ]
+      },
+      {
+        "h": "Standout Performances of the Night",
+        "p": [
+          "While one couple exited the competition, several other participants earned top scores during the themed evening. Harry Shum Jr. and Jenna Johnson secured a perfect score for their jazz routine set to Supercalifragilisticexpialidocious from Mary Poppins.",
+          "Jenna Dewan and Val Chmerkovskiy also matched the achievement, earning top marks for a quickstep performance to Be Our Guest from Beauty and the Beast."
+        ]
+      },
+      {
+        "h": "Broadway and Additional Routines",
+        "p": [
+          "Other notable numbers included Amber Glenn and Pasha Pashkov performing a quickstep to A Star Is Born from Hercules, while Ezra Frech and Daniella Karagach danced a samba to Under the Sea from The Little Mermaid.",
+          "Additionally, Tatyana Ali and Jan Ravnik brought a Broadway flair to the floor with a contemporary routine inspired by Easy as Life from the musical Aida."
+        ]
+      },
+      {
+        "h": "Context From Prior Weeks",
+        "p": [
+          "The festive Disney-themed instalment stood in contrast to Horror Movie Night during the previous week, which saw a double elimination involving baseball player Jackson Olson with Emma Slater, and reality television personality Tyler Cameron with Sharna Burgess.",
+          "Following that earlier exit, Burgess praised Cameron for his maturity and noted the strong friendship they built away from the dance floor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Julia Stiles and her professional partner Ezra Sosa were eliminated from Dancing With the Stars during the Nov. 2 Disney Night episode after performing a Paso Doble to music from Hamilton. The evening featured high-scoring routines from other pairs such as Harry Shum Jr. and Jenna Dewan, following a previous week's double elimination that removed Jackson Olson and Tyler Cameron from the competition."
+        ]
+      }
+    ],
+    "facts": [
+      "Julia Stiles was eliminated on Nov. 2",
+      "The episode was Disney Night on Dancing With the Stars",
+      "Julia Stiles and Ezra Sosa danced a Paso Doble to Satisfied from Hamilton",
+      "Harry Shum Jr. and Jenna Johnson received a perfect score for a jazz routine to Supercalifragilisticexpialidocious",
+      "Jenna Dewan and Val Chmerkovskiy received a perfect score for a quickstep to Be Our Guest"
+    ],
+    "entities": {
+      "people": [
+        "Julia Stiles",
+        "Ezra Sosa",
+        "Harry Shum Jr.",
+        "Jenna Johnson",
+        "Jenna Dewan",
+        "Val Chmerkovskiy",
+        "Amber Glenn",
+        "Pasha Pashkov",
+        "Ezra Frech",
+        "Daniella Karagach",
+        "Tatyana Ali",
+        "Jan Ravnik",
+        "Jackson Olson",
+        "Emma Slater",
+        "Tyler Cameron",
+        "Sharna Burgess"
+      ],
+      "titles": [
+        "Dancing With the Stars",
+        "Hamilton",
+        "Mary Poppins",
+        "Beauty and the Beast",
+        "Hercules",
+        "The Little Mermaid",
+        "Aida",
+        "Save the Last Dance"
+      ]
+    },
+    "keywords": [
+      "Julia Stiles Dancing With the Stars",
+      "Disney Night Dancing With the Stars",
+      "Ezra Sosa Julia Stiles elimination",
+      "Dancing With the Stars Nov 2"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260915/b2af5287-8a31-4326-9cc0-4c73ff7b5f43_1789519955.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Julia Stiles Exits Dancing With the Stars During Disney Night Episode",
+        "source": "E! News"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 03:16:00 GMT"
   }
 };

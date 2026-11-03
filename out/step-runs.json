@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T04:51:58Z",
-    "run_id": "41390659468",
-    "status": "success",
-    "checked": {
-     "candidates": 326,
-     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Amit Sadh calls his Pratap character “Mike Tyson of police force”; admits BO success matters to him more than ever: “I am told even Instagram followers’ matter. Toh yeh toh box office hai yaar!”",
-      "Entertainment News Live Updates (November 2): Shah Rukh Khan Skips Annual Mannat Appearance On 61st Birthday",
-      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 3: Venkatesh's Film Crosses ₹50 Crore Worldwide",
-      "Ramayana BMS Pre-Sales: Ranbir Kapoor’s Film Is Now The 3rd Highest-Selling Bollywood Film Of 2026 In Advance – But Here’s What It Needs To Do!",
-      "birthday special iconic filmfare covers featuring shah rukh khan the baadshah of bollywood 62269.html",
-      "shah rukh khan and deepika padukones romance meets high octane action in kings song tu mil jaaye 86906.html",
-      "Kelly Rowland talks about a possible Destiny’s Child reunion",
-      "Dhanush spotted with mystery women at Mumbai airport",
-      "Exclusive | Rahul Bose’s memoir in works, to release next year",
-      "Jailer 2 worldwide box office: Rajinikanth, 75, delivers Tamil cinema's first  ₹800-crore blockbuster; film beats Chhaava, PK lifetime hauls",
-      "Aasif Khan's eviction leaves housemates in tears; Panchayat actor calls Bigg Boss 20 journey 'most beautiful chapter of my life’",
-      "Babil Khan: I come from a privileged family, but you have to be extremely passionate to survive",
-      "Go sell ice cream: AR Rahman has a Steve Jobs response to Ramayana music critics",
-      "SRK's King song feels like Pathaan's unreleased footage: Fans share mixed reactions",
-      "DYK, Shah Rukh Khan, Kajol Track Gerua From Dilwale Was Made On ₹7 Cr Budget In Iceland",
-      "actress hina khan praises jammu and kashmir cm omar abdullah marrying nidhi razdan tmovf dskc 2686140 2026 11 02",
-      "bigg boss malayalam 8 neha fathima proposed to santhosh raj her parents get emotional ask quit show tmovg dskc 2685954 2026 11 02",
-      "jamtara actress aksha pardasany welcomes twins son daughter at 34 age first glimpse husband emotional tmovf dskc 2686200 2026 11 02",
-      "shah rukh khan 61st birthday celebration first appearance blows kisses to fans mannat midnight surprise king tmovh dskc 2686212 2026 11 02",
-      "shah rukh khan 61st birthday king song tu mil jaaye review romantic chemistry deepika padukone arijit singh ed sheeran tmovh dskc 2686144 2026 11 02"
-     ],
-     "updated": [],
-     "count": 234,
-     "detail": "239 stories, 9 duplicates removed, 87 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T05:51:26Z",
     "run_id": "41396347460",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "275 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T04:52:13Z",
-    "run_id": "41390659468",
+    "run_at": "2026-11-03T04:50:59Z",
+    "run_id": "41580435179",
     "status": "success",
     "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 273,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Rajinikanth Stars in Jailer 2 as It Becomes Tamil Cinema's First ₹800-Crore Blockbuster",
-      "Shah Rukh Khan Celebrates 61st Birthday With Midnight Appearance and Special Film Song Release"
+      "EXCLUSIVE! Akshay Oberoi Compares Toxic's Failure To A Child Failing An Exam: ‘It Didn't Work, But I Still…’",
+      "Orry Opens Up On His Fallout With Sara Ali Khan: Ek Baar Zindagi Mein When She Had To Be There For Me, She....",
+      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 4: Venkatesh's Film Crosses ₹55 Crore Worldwide",
+      "Gunmaaster G9 to Feature Bigg Boss 17 Fame Samarth Jurel in Special Cameo Alongside Emraan Hashmi",
+      "Lenny Kravitz dead in Learjet plane crash? Rocker's team reacts",
+      "Udta Teer: Aakash Kaushik recalls Mukul Dev’s performance",
+      "Ben Wang eyed for Iceman role in ‘X-Men’ reboot",
+      "Callum Turner cast as the next James Bond?",
+      "Timbaland files USD 15 million lawsuit against his former managers",
+      "Tiger Shroff firing case: Mumbai Crime Branch arrests 22-year-old woman from Karnal",
+      "Honey Singh rushes to Jalandhar after nephew Vidit Auluck's death in road accident, breaks down hugging grieving father",
+      "Chiranjeevi, Ram Charan host Amit Shah at their home; share concerns over AI and deepfake's impact of film industry and actors",
+      "Anurag Kashyap faces bailable warrant for failing to appear in Brahmin remarks case",
+      "Shanaya Kapoor celebrates 27 with a spooky bash. Ananya, Suhana join the fun",
+      "Dear Bollywood, Urdu is not a Pakistani spy!",
+      "The Housemaid’s Secret Set Photos Show Sydney Sweeney Kissing & More",
+      "Former General Hospital Star Confirmed Play Chloe on Days of Our Lives",
+      "8 Completed Netflix Shows That Are Perfect From Start to Finish",
+      "34 Episodes Of Netflix's Longest-Running Sci-Fi Show Deliver A Masterclass In Anthology Storytelling",
+      "Phantom Blade Zero: How to Defeat Jing Ye, The Outlaw"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+     "count": 261,
+     "detail": "273 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1478,27 +1457,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T04:51:33Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ranbir Kapoor-Yash's Ramayana To Have Special Mumbai Premiere On November 3: Report",
+      "First Look Of Scam 2010 Directed By Hansal Mehta Unveiled",
+      "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
+      "Julia Stiles Exits Dancing With the Stars During Disney Night Episode"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T06:52:17Z",
-    "run_id": "41402468122",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1912,26 +1896,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T04:53:23Z",
-    "run_id": "41390659468",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T04:51:33Z",
+    "run_id": "41580435179",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 183, coming 4"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2363,27 +2348,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T04:54:48Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "qv0504",
+      "cio2rc",
+      "ged0uq",
+      "b15m7m"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T04:53:21Z",
-    "run_id": "41390659468",
-    "status": "success",
-    "checked": {
-     "candidates": 414,
-     "detail": "412 collected staging rows from readers; 125 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 9,
-     "detail": "+2 new rows, 7 updated rows, 403 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2797,19 +2786,27 @@
      "detail": "+0 new rows, 3 updated rows, 436 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T04:54:46Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": {
+     "candidates": 443,
+     "detail": "441 collected staging rows from readers; 168 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+2 new rows, 6 updated rows, 433 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3064,30 +3061,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T04:53:23Z",
-    "run_id": "41390659468",
-    "status": "success",
-    "checked": {
-     "candidates": 372,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Rajinikanth Stars in Jailer 2 as It Becomes Tamil Cinema's First ₹800-Crore Blockbuster",
-      "Shah Rukh Khan Celebrates 61st Birthday With Midnight Appearance and Special Film Song Release"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 372 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3613,19 +3599,32 @@
      "detail": "api-news.json 461 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T04:54:48Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": {
+     "candidates": 465,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ranbir Kapoor-Yash's Ramayana To Have Special Mumbai Premiere On November 3: Report",
+      "Julia Stiles Exits Dancing With the Stars During Disney Night Episode",
+      "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
+      "First Look Of Scam 2010 Directed By Hansal Mehta Unveiled"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 465 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3901,19 +3900,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4234,29 +4233,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T04:52:13Z",
-    "run_id": "41390659468",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 234 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 3/6, celebrities_events 4/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Rajinikanth Stars in Jailer 2 as It Becomes Tamil Cinema's First ₹800-Crore Blockbuster",
-      "Shah Rukh Khan Celebrates 61st Birthday With Midnight Appearance and Special Film Song Release"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4752,19 +4741,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T04:51:32Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 261 still unprocessed; today by category: movies 4/6, tv_dramas 3/4, episodes 0/2, box_office 6/6, celebrities_events 3/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Ranbir Kapoor-Yash's Ramayana To Have Special Mumbai Premiere On November 3: Report",
+      "First Look Of Scam 2010 Directed By Hansal Mehta Unveiled",
+      "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
+      "Julia Stiles Exits Dancing With the Stars During Disney Night Episode"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5107,24 +5108,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T04:52:45Z",
+    "run_id": "41580435179",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 32,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 211,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5469,24 +5472,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 403,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5821,19 +5824,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 20,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6083,19 +6091,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6330,19 +6338,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6584,19 +6592,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6837,19 +6845,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7079,19 +7087,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7344,6 +7352,16 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7629,19 +7647,26 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-03T04:51:33Z",
+    "run_id": "41580435179",
+    "status": "success",
+    "checked": {
+     "candidates": 329,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 0; attempt cooldown deferred: 329"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-02T04:53:30Z",
-    "run_id": "41390659468",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7881,6 +7906,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -8078,8 +8113,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T03:52:39Z"
+ "updated_at": "2026-11-03T04:54:57Z"
 }
