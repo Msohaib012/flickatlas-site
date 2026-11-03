@@ -34,6 +34,17 @@ def main():
         f.write(content)
     print(f"publish export: wrote {target_path} ({count} approved articles, "
           f"migrated={payload.get('migrated', 0)}, ids={len(payload.get('ids') or [])})")
+    # Homepage subset (js/home-articles-data.js) tracks articles-data.js:
+    # the homepage loads only the slim newest-120 file, never the full
+    # one (scripts/home_articles.py). Best-effort — the hourly workflow
+    # rebuilds the subset before commit regardless.
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import home_articles
+        root = os.path.dirname(os.path.dirname(os.path.abspath(target_path)))
+        home_articles.write_home_articles(root)
+    except Exception as e:  # noqa: BLE001
+        print(f"home-articles: WARNING subset rebuild failed: {e}")
     return 0
 
 

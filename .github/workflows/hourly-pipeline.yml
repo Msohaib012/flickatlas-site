@@ -459,12 +459,21 @@ jobs:
           pip install google-auth requests
           python3 scripts/stats-health.py
 
+      # --- 11c. Homepage article subset (always, never fatal) --------
+      # Rebuild js/home-articles-data.js (newest 120, slim fields) from
+      # js/articles-data.js: the homepage loads ONLY the subset, so it
+      # must never go stale against the full file. The article writers
+      # also rebuild it inline; this step is the run-level guarantee.
+      - name: Build homepage article subset
+        continue-on-error: true
+        run: python3 scripts/home_articles.py
+
       # --- 12. ONE ?v= bump (was up to 4 separate rewrites/hour) -------
       - name: Bump asset version when content changed
         id: bump
         continue-on-error: true
         run: |
-          if git diff --quiet -- js/articles-data.js js/published-titles.js js/daywise-data.js js/advance-data.js js/worldwide-data.js js/ott-data.js js/trending-data.js js/trending-topics.js js/reviews-data.js; then
+          if git diff --quiet -- js/articles-data.js js/home-articles-data.js js/published-titles.js js/daywise-data.js js/advance-data.js js/worldwide-data.js js/ott-data.js js/trending-data.js js/trending-topics.js js/reviews-data.js; then
             echo "public data assets unchanged, keeping ?v="
           else
             NEWV="fa-$(date -u +%Y%m%d%H%M)"

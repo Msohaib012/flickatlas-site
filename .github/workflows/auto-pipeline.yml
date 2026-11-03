@@ -73,7 +73,7 @@ jobs:
         # regenerate via apply-auto.py from this run's out/gemini-batch.json
         # (gemini_batch.py is deliberately NOT re-run — no double cap spend).
         env:
-          RETRY_ADD: "js/articles-data.js js/daywise-data.js api-news.json api-trends.json out/gemini-batch.json out/processed.json out/auto-feed.json"
+          RETRY_ADD: "js/articles-data.js js/home-articles-data.js js/daywise-data.js api-news.json api-trends.json out/gemini-batch.json out/processed.json out/auto-feed.json"
           RETRY_REGEN: "python3 scripts/apply-auto.py && python3 scripts/convert-news.py"
           RETRY_MESSAGE: "auto: gemini batch"
           RETRY_HTML_BUMP: "1"

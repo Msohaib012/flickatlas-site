@@ -278,6 +278,16 @@ def main():
         "(scripts/gemini_batch.py + scripts/apply-auto.py) and the panel "
         "publish-export — do not edit by hand. */")
     print(f"articles: +{added} new, {skipped} skipped (already present/malformed)")
+    # Homepage subset (js/home-articles-data.js) tracks articles-data.js:
+    # the homepage loads only the slim newest-120 file, never the full
+    # one (scripts/home_articles.py). Best-effort — the hourly workflow
+    # rebuilds the subset before commit regardless; a failure here must
+    # not break the publish.
+    try:
+        import home_articles
+        home_articles.write_home_articles(ROOT, existing)
+    except Exception as e:  # noqa: BLE001
+        print(f"home-articles: WARNING subset rebuild failed: {e}")
 
     # ---- 2. box office -> js/daywise-data.js
     # Published titles (for the row guard): tmdb_id -> entry, and

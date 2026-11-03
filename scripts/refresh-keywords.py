@@ -464,6 +464,14 @@ def main(argv=None):
         refreshed.append(aid)
         sources[source] = sources.get(source, 0) + 1
     changed = write_js_articles(ART_PATH, header, articles)
+    # Homepage subset (js/home-articles-data.js) carries keywords too —
+    # rebuild it from the refreshed map (scripts/home_articles.py).
+    # Best-effort: the hourly workflow rebuilds it before commit.
+    try:
+        import home_articles
+        home_articles.write_home_articles(ROOT, articles)
+    except Exception as e:  # noqa: BLE001
+        print(f"home-articles: WARNING subset rebuild failed: {e}")
     save_state(STATE_PATH, {**state, "updated_at": now})
     print(f"refresh-keywords: refreshed {len(refreshed)} articles "
           f"(sources {sources}), file changed: {changed}")

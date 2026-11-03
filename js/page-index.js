@@ -29,6 +29,17 @@
   const today = UI.todayPKT();
   const todayIST = UI.todayIST();
   const cutoff = UI.freshCutoff();
+  /* Article data for the homepage rails (news thumbnails, the Drama
+     Episodes rail, trending-topic vetting): index.html loads the slim
+     subset js/home-articles-data.js (window.FA_HOME_ARTICLES — newest
+     120 articles + newest 40 episode posts, no body/facts;
+     scripts/home_articles.py) instead of the full
+     2.8 MB js/articles-data.js, which used to block every rail on a
+     slow connection. Fall back to the full map when the subset file
+     is absent, and to {} when neither loaded: the article-dependent
+     rails then degrade (thumbnail-less news cards, no episode rail)
+     without breaking the other rails. */
+  const HOME_ARTICLES = window.FA_HOME_ARTICLES || window.FA_ARTICLES || {};
   /* Audit fix: the outer catch used to wipe the whole rendered homepage
      whenever a post-render step threw. `rendered` tracks whether the page
      is already on screen — once it is, a wiring failure is non-fatal. */
@@ -744,7 +755,7 @@
     const renderNewsSlider = (arts) => {
       const host = document.getElementById("homeNewsSlider");
       if (!host) return;
-      const fa = window.FA_ARTICLES || {};
+      const fa = HOME_ARTICLES;
       /* INDIAN-ONLY (owner order 2026-10-26): a slide qualifies only
          when its derived tags include "bollywood" OR "kollywood"
          (Tamil/Telugu/South Indian). No Hollywood, no World Cinema, no
@@ -872,7 +883,7 @@
            row with an article image renders thumb-left / title-right
            like the episode .ep-row rows; rows without an image keep
            today's text card. */
-        const fa = window.FA_ARTICLES || {};
+        const fa = HOME_ARTICLES;
         const filterPool = feedItems.map(it => ({
           ...it,
           cats: (Array.isArray(it.cats) ? it.cats : []).map(c => c === "international" ? "world" : c).filter(c => c !== "korea")
@@ -1116,7 +1127,7 @@
       const pub = pkByKey[key];
       return { key, name: pub ? UI.titleOf(pub) : raw };
     };
-    const epArticles = Object.values(window.FA_ARTICLES || {})
+    const epArticles = Object.values(HOME_ARTICLES)
       .filter(a => a && a.id && /watch (?:online )?on\b/i.test(a.headline || "") && a.published)
       .sort((a, b) => (Date.parse(b.published || "") || 0) - (Date.parse(a.published || "") || 0) || String(a.id || "").localeCompare(String(b.id || "")));
     /* On-airing filter (user order 2026-10-27): an episode stays only
@@ -1351,6 +1362,12 @@
     } catch (_) { /* filter unavailable — rows stay unfiltered */ }
 
     try {
+      /* trending-searches.js reads window.FA_ARTICLES directly; the
+         homepage loads the slim subset instead of the full file now,
+         so alias it — topic vetting then runs on the same newest-120
+         pool (its article window is 7 days; the subset reaches as far
+         back as its 120 newest entries do). */
+      if (!window.FA_ARTICLES && window.FA_HOME_ARTICLES) window.FA_ARTICLES = window.FA_HOME_ARTICLES;
       if (window.FATrendingSearches) window.FATrendingSearches.mount(document.getElementById("homeTrendingSearches"), {
         limit: 1,
         context: {

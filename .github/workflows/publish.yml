@@ -103,7 +103,7 @@ jobs:
                 return 1
               fi
               echo "publish-retry: resolving rebase conflicts: $conflicted"
-              local regen_articles="" regen_news="" html_conflict=""
+              local regen_articles="" regen_news="" regen_home="" html_conflict=""
               for f in $conflicted; do
                 case "$f" in
                   *.html)
@@ -113,6 +113,10 @@ jobs:
                   js/articles-data.js)
                     git checkout --ours -- "$f"
                     regen_articles=1
+                    ;;
+                  js/home-articles-data.js)
+                    git checkout --ours -- "$f"
+                    regen_home=1
                     ;;
                   out/publish-export.json)
                     # Same payload as /tmp/export.json (fetched twice above).
@@ -147,6 +151,14 @@ jobs:
                 fi
                 git add js/articles-data.js 2>/dev/null || true
               fi
+              if [ -n "$regen_home" ]; then
+                echo "publish-retry: regenerating home-articles-data.js via home_articles.py"
+                if ! python3 scripts/home_articles.py; then
+                  echo "publish-retry: WARNING home_articles.py failed — home-articles-data.js stays at origin/main's version"
+                  git checkout --ours -- js/home-articles-data.js 2>/dev/null || true
+                fi
+                git add js/home-articles-data.js 2>/dev/null || true
+              fi
               if [ -n "$regen_news" ]; then
                 echo "publish-retry: regenerating api-news.json via convert-news.py"
                 if ! python3 scripts/convert-news.py; then
@@ -168,7 +180,7 @@ jobs:
           }
 
           publish_attempt() {
-            git add js/articles-data.js api-news.json api-trends.json out/publish-export.json
+            git add js/articles-data.js js/home-articles-data.js api-news.json api-trends.json out/publish-export.json
             git add -A -- '*.html'
             if ! git diff --cached --quiet; then
               git commit -m "publish: approved articles $(date -u +%Y-%m-%dT%H:%M:%SZ)" || return 1
