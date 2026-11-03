@@ -44501,5 +44501,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 09:13:16 +0000"
+  },
+  "1j85qam": {
+    "id": "1j85qam",
+    "type": "news",
+    "headline": "Netflix Family Drama The Royals Begins Production On Season 2",
+    "dek": "Popular Netflix series The Royals has officially commenced filming for its second season, bringing back its star-studded cast and directors to Morpur Palace.",
+    "body": [
+      {
+        "h": "Production Begins",
+        "p": [
+          "The popular Netflix series The Royals has officially started filming its second season. The upcoming chapter brings the production back to Morpur Palace, continuing the narrative arc centered around contemporary Indian aristocracy."
+        ]
+      },
+      {
+        "h": "Returning Cast And Crew",
+        "p": [
+          "Fans can look forward to seeing familiar faces return to the screen. Ishaan Khatter, Bhumi Pednekar, Zeenat Aman, Sakshi Tanwar, Vihaan Samat, and Kavya Trehan are all set to reprise their respective roles for the new episodes.",
+          "Behind the camera, the creative leadership remains intact. Nitya Mehra and Tanuj Chopra are returning to direct the second season, ensuring creative continuity for the streaming drama."
+        ]
+      },
+      {
+        "h": "Expanding The Royal Universe",
+        "p": [
+          "While plot details are still under wraps, the upcoming run promises to build upon the foundation laid in the first season. The narrative will continue to examine the complicated personal lives, power dynamics, and romantic entanglements of the Morpur family.",
+          "In addition to the returning ensemble, the second season will introduce brand-new characters. These additions are expected to bring fresh rivalries, alliances, and kingdoms into the fold, escalating the dramatic tension."
+        ]
+      },
+      {
+        "h": "Global Appeal And Background",
+        "p": [
+          "The first season of the show resonated strongly with audiences worldwide. By blending modern sensibilities with the grandeur of Rajasthan, the series carved out a distinct niche in the streaming landscape.",
+          "The narrative explores how an Indian royal family maneuvers through contemporary existence, balancing state responsibilities with personal desires and interpersonal family conflicts."
+        ]
+      },
+      {
+        "h": "Awaited Release",
+        "p": [
+          "As filming is presently underway, Netflix has not yet disclosed an official premiere date for the second season. Viewers will have to wait for further announcements regarding when the show will make its return.",
+          "The platform will house the new episodes exclusively, continuing its run as the home for the family drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix series The Royals has commenced production on its second season at Morpur Palace. Directors Nitya Mehra and Tanuj Chopra are returning alongside cast members including Ishaan Khatter and Bhumi Pednekar, though an official release date has not yet been announced."
+        ]
+      }
+    ],
+    "facts": [
+      "The Royals is a Netflix series.",
+      "Season 2 has begun filming.",
+      "The show is set against the backdrop of Rajasthan and Morpur Palace.",
+      "Cast members include Ishaan Khatter, Bhumi Pednekar, Zeenat Aman, Sakshi Tanwar, Vihaan Samat, and Kavya Trehan.",
+      "Directors Nitya Mehra and Tanuj Chopra are returning for Season 2."
+    ],
+    "entities": {
+      "people": [
+        "Ishaan Khatter",
+        "Bhumi Pednekar",
+        "Zeenat Aman",
+        "Sakshi Tanwar",
+        "Vihaan Samat",
+        "Kavya Trehan",
+        "Nitya Mehra",
+        "Tanuj Chopra"
+      ],
+      "titles": [
+        "The Royals"
+      ]
+    },
+    "keywords": [
+      "The Royals Season 2",
+      "Ishaan Khatter The Royals",
+      "Netflix The Royals series",
+      "The Royals Morpur Palace"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-royals-season-2-ishaan-khatter-bhumi-pednekar-return-as-netflix-begins-filming-1.jpg",
+        "caption": "Netflix Family Drama The Royals Begins Production On Season 2",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 08:59:18 +0000"
+  },
+  "1hcvghc": {
+    "id": "1hcvghc",
+    "type": "news",
+    "headline": "Fresh Cinematic and Streaming Lineup Unveiled for the First Week of November",
+    "dek": "Audiences can look forward to a diverse wave of theatrical premieres and streaming platform debuts, ranging from dark comedies and intense thrillers to heartfelt holiday features and sports dramas.",
+    "body": [
+      {
+        "h": "Theatrical and Streaming Schedule Kickoff",
+        "p": [
+          "The month of November begins with an exciting slate of theatrical premieres and digital releases spanning from November 2 to November 8, 2026.",
+          "Entertainment enthusiasts have a broad spectrum of choices this week, featuring three major theatrical outings alongside high-profile streaming platform arrivals."
+        ]
+      },
+      {
+        "h": "Wild Horse Nine Brings Dark Comedy to Easter Island",
+        "p": [
+          "Directed by Martin McDonagh, the English-language dark comedy thriller Wild Horse Nine arrives in cinemas on November 6, 2026.",
+          "The narrative follows an aging officer with terminal cancer, played by John Malkovich, alongside his longtime partner Lee, portrayed by Sam Rockwell, under orders from chief MJ, played by Steve Buscemi."
+        ]
+      },
+      {
+        "h": "Dante Delivers Spanish Thriller Suspense",
+        "p": [
+          "Directed by Hugo Ruiz, the Spanish-language thriller Dante releases in theaters on November 6, 2026.",
+          "The story centers on a kind-hearted emergency medical technician named Eduardo, played by Chino Darín, who encounters a dangerous situation while responding to a critical night-shift call."
+        ]
+      },
+      {
+        "h": "Stray Kids Brings Global Concert Experience to Cinemas",
+        "p": [
+          "K-pop sensation Stray Kids arrives on the big screen with their musical concert film Stray Kids: Run It, debuting globally on November 7, 2026.",
+          "The special live performance captures the group's tour straight from the Tokyo Dome for fans worldwide."
+        ]
+      },
+      {
+        "h": "A Dog’s Perfect Christmas Debuts on Netflix",
+        "p": [
+          "The English-language holiday comedy A Dog’s Perfect Christmas premieres on Netflix on November 4, 2026, under the direction of Cathryn Michon.",
+          "Featuring a cast that includes Dennis Quaid, Milo Ventimiglia, and Mary Steenburgen, the story is narrated by a sage basset hound attempting to reunite a scattered family."
+        ]
+      },
+      {
+        "h": "Stick Season 2 Returns to Apple TV",
+        "p": [
+          "Created by Jason Keller, the sports comedy-drama Stick Season 2 launches on Apple TV on November 4, 2026.",
+          "Owen Wilson reprises his role as former professional golfer Pryce Cahill, who attempts an unexpected comeback with the help of his former flame and coach Amanda, played by Rhea Seehorn."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A total of nine notable films and shows are slated for release across theaters and digital platforms during the first week of November 2026. The diverse lineup offers viewers everything from theatrical dark comedies and concert films to streaming holiday features and returning sports series."
+        ]
+      }
+    ],
+    "facts": [
+      "The release window runs from November 2 to November 8, 2026.",
+      "Wild Horse Nine releases in theaters on November 6, 2026.",
+      "Dante releases in theaters on November 6, 2026.",
+      "Stray Kids: Run It releases globally in theaters on November 7, 2026.",
+      "A Dog’s Perfect Christmas premieres on Netflix on November 4, 2026.",
+      "Stick Season 2 premieres on Apple TV on November 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "John Malkovich",
+        "Sam Rockwell",
+        "Steve Buscemi",
+        "Martin McDonagh",
+        "Chino Darín",
+        "Hugo Ruiz",
+        "Dennis Quaid",
+        "Owen Wilson",
+        "Rhea Seehorn",
+        "Jason Keller",
+        "Cathryn Michon"
+      ],
+      "titles": [
+        "Wild Horse Nine",
+        "Dante",
+        "Stray Kids: Run It",
+        "A Dog’s Perfect Christmas",
+        "Stick Season 2"
+      ]
+    },
+    "keywords": [
+      "Wild Horse Nine film",
+      "Stick Season 2 Apple TV",
+      "Dante movie release",
+      "A Dogs Perfect Christmas Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/782552623_stick-season-2.webp",
+        "caption": "Fresh Cinematic and Streaming Lineup Unveiled for the First Week of November",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 14:14:47 +0530"
+  },
+  "1i24t8k": {
+    "id": "1i24t8k",
+    "type": "news",
+    "headline": "Celebrity Runners Shine at the 2026 NYC Marathon",
+    "dek": "Actors, musicians, reality stars, and public figures join the massive 60,000-runner turnout for the 26.2-mile New York City Marathon.",
+    "body": [
+      {
+        "h": "Star-Studded Turnout in New York",
+        "p": [
+          "The iconic New York City Marathon brought together a massive crowd of 60,000 participants for the demanding 26.2-mile course. Among the sea of everyday athletes were numerous well-known figures from television, film, music, and the reality sphere.",
+          "The event saw notable personalities testing their physical endurance across the five boroughs, drawing immense crowds of supporters who lined the streets to cheer on every competitor."
+        ]
+      },
+      {
+        "h": "Jennifer Connelly and Broadway Stars",
+        "p": [
+          "Academy Award-winning actress Jennifer Connelly successfully completed the course, crossing the finish line with an impressive finishing time of 3:40:09. She later shared that sharing the momentous day and running alongside her son was the highlight of the experience.",
+          "The theatrical community was well represented by several Broadway talents. Erika Henningsen, Jordan Litz, and Patina Miller participated in the grueling race, recording final times of 5:16:54, 3:13:58, and 3:57:46 respectively."
+        ]
+      },
+      {
+        "h": "Actors and Musicians on the Course",
+        "p": [
+          "Actress Kristine Froseth also tackled the course, finishing with a time of 3:53:29. Following her completion of the race, she paused for a celebratory photograph alongside fellow actor and musician Joshua Bassett.",
+          "Bassett participated to raise awareness and support for the National Alliance of Mental Illness. He managed a time of 3:36:49, noting in an earlier video update that his previous running experience was limited to a turkey trot."
+        ]
+      },
+      {
+        "h": "More Musical Participation",
+        "p": [
+          "Samuel Holden Jaffe, widely recognized by his stage moniker Del Water Gap, also joined the roster of runners on Sunday. He successfully completed the entire 26.2-mile test of stamina with a time of 3:53:25.",
+          "Though pop superstar Harry Styles did not lace up for this year's event due to his recent schedule wrapping up a 30-date residency at Madison Square Garden, he holds a strong reputation in running circles for his impressive times at the Berlin and Tokyo marathons."
+        ]
+      },
+      {
+        "h": "Reality Stars and Public Figures",
+        "p": [
+          "A group of alumni from the Bachelor and Bachelorette franchises also navigated the city streets on Sunday. Joe Amabile completed the race shortly after recovering from brain surgery for tumor removal in August, joined by fellow franchise names Matt James, Zac Clark, Greg Grippo, and Andrew Spencer.",
+          "Additional public figures spotted participating in the festivities included Queer Eye personality Antoni Porowski, Jersey Shore cast member Vinny Guadagnino, former television news anchor T.J. Holmes, and comedian Zarna Garg."
+        ]
+      },
+      {
+        "h": "Tracy Morgan Leads the Festivities",
+        "p": [
+          "While many celebrities chose to run the grueling course, comedian Tracy Morgan took on a different celebratory role for the occasion. He served as the official Grand Marshal of the race.",
+          "Morgan spent the day actively encouraging his fellow celebrities and cheering on the thousands of everyday New York runners as they pushed through the physical challenge."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Numerous notable actors, musicians, reality television stars, and public figures joined the 60,000 runners tackling the 26.2-mile 2026 TCS New York City Marathon. Participants such as Jennifer Connelly, Joshua Bassett, and Tracy Morgan—who served as Grand Marshal—drew significant attention as they completed the course or cheered on fellow participants across the city."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 TCS New York City Marathon took place on November 1, 2026.",
+      "A total of 60,000 runners participated in the 26.2-mile challenge.",
+      "Jennifer Connelly crossed the finish line with a time of 3:40:09.",
+      "Patina Miller clocked in at 3:57:46, Jordan Litz at 3:13:58, and Erika Henningsen at 5:16:54.",
+      "Kristine Froseth finished the race with a time of 3:53:29.",
+      "Joshua Bassett finished with a time of 3:36:49 running for the National Alliance of Mental Illness.",
+      "Del Water Gap finished the race with a time of 3:53:25.",
+      "Joe Amabile raced after undergoing brain surgery for a tumor removal in August."
+    ],
+    "entities": {
+      "people": [
+        "Maya Georgi",
+        "Del Water Gap",
+        "Kristine Froseth",
+        "Joshua Bassett",
+        "Bryan Bedder",
+        "Jennifer Connelly",
+        "Erika Henningsen",
+        "Jordan Litz",
+        "Patina Miller",
+        "Samuel Holden Jaffe",
+        "Harry Styles",
+        "Sted Sarandos",
+        "Michael Douglas",
+        "Jack Nicholson",
+        "Matt Damon",
+        "David Letterman",
+        "Marty Erlichman",
+        "Barbra Streisand",
+        "Martha Stewart",
+        "Joe Amabile",
+        "Matt James",
+        "Zac Clark",
+        "Greg Grippo",
+        "Andrew Spencer",
+        "Antoni Porowski",
+        "Vinny Guadagnino",
+        "T.J. Holmes",
+        "Zarna Garg",
+        "Tracey Morgan",
+        "Lindsay Clancy",
+        "Ted Bundy",
+        "Brenna Ehrlich",
+        "Daniel Kreps",
+        "David Kushner",
+        "Andrew Tate",
+        "Elisabeth Garber-Paul",
+        "Justin Timberlake",
+        "Janet Jackson",
+        "Dane Cook",
+        "Rob",
+        "Trent Reznor",
+        "Atticus Ross",
+        "Patrick Stewart",
+        "Reese Witherspoon",
+        "Carrie Coon",
+        "Lily James",
+        "Donald Trump"
+      ],
+      "titles": [
+        "The Gilded Age",
+        "The Further Mis-Adventures of Cliff Booth",
+        "Star Trek",
+        "X-Men",
+        "Vote for America 2026",
+        "The Liberation"
+      ]
+    },
+    "keywords": [
+      "2026 NYC Marathon celebrities",
+      "Jennifer Connelly marathon time",
+      "Joshua Bassett New York City Marathon",
+      "Tracy Morgan Grand Marshal NYC Marathon"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/del-water-gap-josh-bassett-kristine-froseth-celebs-at-marathon.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Celebrity Runners Shine at the 2026 NYC Marathon",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-03T10:51:22Z"
+  },
+  "76bplg": {
+    "id": "76bplg",
+    "type": "news",
+    "headline": "Divyanka Tripathi and Vivek Dahiya Celebrate Twins' Namkaran on National Television After Five Months",
+    "dek": "Television star Divyanka Tripathi and her husband Vivek Dahiya have revealed the naming ceremony of their twin baby boys on national television, with special blessings from Manoj Tiwari.",
+    "body": [
+      {
+        "h": "Embracing Parenthood",
+        "p": [
+          "Renowned television personality Divyanka Tripathi and her husband Vivek Dahiya are currently experiencing the joys of parenthood following the arrival of their twin sons. The couple welcomed their two baby boys into the world in May 2026.",
+          "Ever since the birth of their children, the family has remained a prominent topic of discussion among fans and followers across the entertainment industry."
+        ]
+      },
+      {
+        "h": "Return to Work",
+        "p": [
+          "Demonstrating immense dedication to their professional commitments, Divyanka and Vivek returned to work just months after becoming parents. They are presently participating as a couple in the reality television program titled Pati Patni Aur Panga.",
+          "Their seamless transition back to the screen while managing newborn twins has drawn considerable admiration from viewers of the show."
+        ]
+      },
+      {
+        "h": "Bringing Babies to the Set",
+        "p": [
+          "In a recent development, the couple brought their twin sons directly to the television set. Up to this point, the actors had chosen to keep the faces of their children hidden and refrained from disclosing their names to the public.",
+          "The decision to include their infants in the studio environment set the stage for a major television reveal."
+        ]
+      },
+      {
+        "h": "National Television Reveal",
+        "p": [
+          "Divyanka and Vivek are set to officially announce the names of their twin sons on national television through the platform of their current reality show. Promotional clips from the episode feature the couple holding their babies on stage.",
+          "This television segment marks the first time the public will learn the names chosen by the parents after months of eager anticipation."
+        ]
+      },
+      {
+        "h": "Special Blessings from Manoj Tiwari",
+        "p": [
+          "Adding prestige to the occasion, notable Bhojpuri superstar and politician Manoj Tiwari appeared to bestow his blessings upon the newborn children. His presence elevated the significance of the traditional naming ceremony.",
+          "During the event, Tiwari highlighted the cultural importance of the ritual, stating that the naming ceremony is among the most vital traditions in a person's life."
+        ]
+      },
+      {
+        "h": "Fan Anticipation",
+        "p": [
+          "Supporters of the actors have been waiting anxiously for five months to discover the identities and names of the twins. The broadcast serves as a celebratory moment that resonates deeply with the fanbase.",
+          "For many dedicated admirers, witnessing this milestone on screen functions as a special gift during the festive season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television actors Divyanka Tripathi and Vivek Dahiya welcomed twin baby boys in May 2026 and have now celebrated their naming ceremony on the reality show Pati Patni Aur Panga. The special television event featured blessings from Manoj Tiwari, ending five months of fan curiosity regarding the children's names."
+        ]
+      }
+    ],
+    "facts": [
+      "Divyanka Tripathi and Vivek Dahiya welcomed twin boys in May 2026.",
+      "The couple participates in the reality show Pati Patni Aur Panga.",
+      "Manoj Tiwari blessed the newborn children during the television segment.",
+      "Fans waited five months to learn the names of the twins."
+    ],
+    "entities": {
+      "people": [
+        "Divyanka Tripathi",
+        "Vivek Dahiya",
+        "Manoj Tiwari"
+      ],
+      "titles": [
+        "Pati Patni Aur Panga"
+      ]
+    },
+    "keywords": [
+      "Divyanka Tripathi twins",
+      "Vivek Dahiya children",
+      "Pati Patni Aur Panga",
+      "Divyanka Tripathi Namkaran",
+      "Manoj Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6ae97537429e2-divyanka-tripathi-performed-babies-first-satyanarayana-pooja-034630153-16x9.jpg",
+        "caption": "Divyanka Tripathi and Vivek Dahiya Celebrate Twins' Namkaran on National Television After Five Months",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T10:51:22Z"
   }
 };
