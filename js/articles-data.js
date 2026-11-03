@@ -41015,5 +41015,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-03T05:38:55+05:30"
+  },
+  "1s2dgg9": {
+    "id": "1s2dgg9",
+    "type": "news",
+    "headline": "Salman Khan Honours Shah Rukh Khan as The King on His 61st Birthday",
+    "dek": "Shah Rukh Khan celebrated his 61st birthday with wishes from Salman Khan, Kajol, and Atlee, alongside a special track drop and a return to the Mannat balcony.",
+    "body": [
+      {
+        "h": "Birthday Wishes From Salman Khan",
+        "p": [
+          "Shah Rukh Khan marked his 61st birthday on November 2, drawing warm greetings from fans, peers, and close industry friends. Among the prominent wishes was a special message from Salman Khan, who publicly addressed him as The King.",
+          "Alongside his tribute, Salman shared the newly released track Tu Mil Jaaye on his Instagram Stories. The surprise musical release featured vocals by Arijit Singh and Ed Sheeran."
+        ]
+      },
+      {
+        "h": "A Decades-Long Friendship",
+        "p": [
+          "The bond between Salman Khan and Shah Rukh Khan remains one of the most talked-about relationships in Bollywood. The two superstars famously shared screen space together in the 1995 action drama Karan Arjun.",
+          "While their friendship has experienced various ups and downs over the years, their mutual respect has consistently captured the attention of Hindi cinema followers."
+        ]
+      },
+      {
+        "h": "Kajol Sends a Warm Message",
+        "p": [
+          "Longtime co-star Kajol also reached out to celebrate the milestone birthday by posting a photograph on Instagram Stories showing Shah Rukh leaning in near her cheek.",
+          "She praised him as an absolute rockstar and sent a large virtual hug. The pair share a celebrated cinematic history spanning multiple decades and blockbusters."
+        ]
+      },
+      {
+        "h": "Atlee Praises His Mentor",
+        "p": [
+          "Filmmaker Atlee, who directed Shah Rukh in Jawan, took to social media to express his gratitude and admiration. He thanked the actor for acting as a mentor, guide, and inspiration.",
+          "Atlee also praised the new song Tu Mil Jaaye and stated that he is eagerly looking forward to the theatrical release of the upcoming project King."
+        ]
+      },
+      {
+        "h": "Return to the Mannat Balcony",
+        "p": [
+          "After a hiatus of two years, Shah Rukh revived his traditional birthday appearance by greeting the massive crowds gathered outside his Mumbai residence, Mannat.",
+          "He initially waved to admirers outside The Taj hotel where he celebrated with family and close friends before returning to wave from his home balcony."
+        ]
+      },
+      {
+        "h": "Anticipation for King",
+        "p": [
+          "Ahead of the birthday celebrations, a large digital screen installed outside Mannat played the newest track from King right after midnight on November 2.",
+          "Directed by Siddharth Anand, the action entertainer marks Shah Rukh's big-screen return after three years and pairs him once again with Deepika Padukone."
+        ]
+      },
+      {
+        "h": "Family Debut and Release Plans",
+        "p": [
+          "The upcoming movie King will also feature Suhana Khan, marking her official theatrical debut alongside her father in their first joint screen appearance.",
+          "The action entertainer is scheduled to hit theatres on December 24, building massive excitement among fans following the recent song rollout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan celebrated his 61st birthday with affectionate messages from colleagues like Salman Khan, Kajol, and Atlee. The day featured the release of a new track from his upcoming film King and his much-awaited return to the Mannat balcony to greet fans."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan turned 61 on November 2, 2026.",
+      "Salman Khan called Shah Rukh Khan 'The King' and shared the song Tu Mil Jaaye.",
+      "Tu Mil Jaaye features Arijit Singh and Ed Sheeran.",
+      "Salman Khan and Shah Rukh Khan starred in Karan Arjun (1995).",
+      "Atlee directed Shah Rukh Khan in Jawan.",
+      "King is directed by Siddharth Anand and scheduled for release on December 24.",
+      "King marks Suhana Khan's theatrical debut."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shah Rukh Khan",
+        "Arijit Singh",
+        "Ed Sheeran",
+        "Kajol",
+        "Atlee",
+        "Suhana Khan",
+        "Siddharth Anand",
+        "Deepika Padukone"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Karan Arjun",
+        "Dilwale Dulhania Le Jayenge",
+        "Kuch Kuch Hota Hai",
+        "Kabhi Khushi Kabhie Gham",
+        "My Name Is Khan",
+        "Dilwale",
+        "Jawan",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Shah Rukh Khan birthday",
+      "Shah Rukh Khan 61st birthday",
+      "King movie Tu Mil Jaaye song",
+      "Shah Rukh Khan Mannat balcony"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/salman-khan-032302388-16x9_0.jpg?VersionId=ekSIyZhVYeKsz3N92xWnMcFU_Fg.cBqL",
+        "caption": "Salman Khan Honours Shah Rukh Khan as The King on His 61st Birthday",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 05:54:06 +0530"
+  },
+  "kjsjj4": {
+    "id": "kjsjj4",
+    "type": "news",
+    "headline": "Avengers: Doomsday Surpasses Supergirl in Presales Weeks Before Premiere",
+    "dek": "Marvel's upcoming blockbuster has already pulled in massive advance ticket revenue, nearing the total lifetime theatrical earnings of DC Studios' Supergirl ahead of its December premiere.",
+    "body": [
+      {
+        "h": "A Historic Rivalry Continues",
+        "p": [
+          "The long-standing comic book rivalry between Marvel and DC has taken a fascinating new turn in the realm of cinema. Long before hitting silver screens, one studio's major tentpole project has managed to overshadow a recent competitor entirely through advance ticket purchases.",
+          "This milestone highlights how fiercely competitive the modern landscape of comic book adaptations remains, even as industry fortunes shift and audiences become increasingly selective about which titles they choose to support with their hard-earned money."
+        ]
+      },
+      {
+        "h": "Explosive Presale Figures",
+        "p": [
+          "Reports indicate that the upcoming Marvel epic has amassed more than $125 million in global advance ticket sales. This extraordinary sum places the feature within striking distance of the complete theatrical lifetime gross generated by DC Studios' entry.",
+          "Such figures are especially striking given that this revenue milestone was achieved approximately six weeks prior to the film's scheduled December 18 premiere date, according to details shared by Comic Basics."
+        ]
+      },
+      {
+        "h": "Comparing the Competitors",
+        "p": [
+          "For context, the DC Studios project led by Milly Alcock as Kara Zor-El recently concluded its global theatrical run with a total of $126.4 million worldwide. Reaching nearly that exact figure purely through pre-release ticket revenue is a staggering achievement for the Marvel enterprise.",
+          "Industry analysts note that while these specific metrics are not entirely direct comparisons due to the nature of advance ticketing versus completed theatrical earnings, the achievement underscores the immense enthusiasm surrounding the upcoming release."
+        ]
+      },
+      {
+        "h": "Driving Forces Behind the Success",
+        "p": [
+          "Several key factors have contributed to this unprecedented wave of early ticket purchases. The combination of high-profile casting choices and immense anticipation for interconnected storylines has reinvigorated consumer excitement following a challenging period for the superhero genre at large.",
+          "The strategic inclusion of major narrative payoffs, alongside the triumphant return of Robert Downey Jr. to the Marvel Cinematic Universe and the momentum of Spider-Man: Brand New Day, has created an irresistible draw for moviegoers worldwide."
+        ]
+      },
+      {
+        "h": "Tracking and Expectations",
+        "p": [
+          "Data regarding these early sales numbers originates from third-party tracking organizations closely monitoring theatrical trends. Experts and box office analysts consider it a near certainty that this title will dominate year-end charts.",
+          "With weeks still left on the calendar before the wider public can actually sit in IMAX auditoriums or standard screens, the trajectory suggests record-breaking potential once the film officially opens its doors to general audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Avengers: Doomsday has reportedly accumulated over $125 million in worldwide advance ticket sales roughly six weeks before its December 18 release. This early revenue brings the Marvel blockbuster nearly on par with the total $126.4 million global theatrical run of DC Studios' Supergirl, starring Milly Alcock."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday has accumulated more than $125 million in worldwide advance ticket sales.",
+      "Avengers: Doomsday is scheduled for release on December 18.",
+      "Supergirl wrapped up its theatrical run with $126.4 million worldwide.",
+      "Milly Alcock starred as Kara Zor-El in Supergirl."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "Robert Downey Jr.",
+        "Taylor Sheridan",
+        "Milly Alcock",
+        "Kara Zor-El",
+        "Tom Holland",
+        "Matt Murdock"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Supergirl",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo",
+        "Spider-Man: Brand New Day",
+        "Civil War",
+        "No Way Home"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Supergirl box office",
+      "Avengers Doomsday presales",
+      "Robert Downey Jr Marvel"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/avengers-doomsday-yelena-belova-florence-pugh-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avengers: Doomsday Surpasses Supergirl in Presales Weeks Before Premiere",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 00:00:12 GMT"
+  },
+  "19rqpux": {
+    "id": "19rqpux",
+    "type": "news",
+    "headline": "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmobile",
+    "dek": "Production on the highly anticipated superhero sequel experienced an unexpected interruption when a cast member was struck by the iconic vehicle during action sequence recordings.",
+    "body": [
+      {
+        "h": "The Production Mishap",
+        "p": [
+          "Production for the upcoming superhero sequel encountered a major disruption when an accident on set left a cast member hospitalized. According to insiders familiar with the project, the individual was accidentally struck by the signature vehicle while cameras were rolling on a high-octane action sequence.",
+          "The unexpected collision immediately brought operations to a standstill as safety personnel rushed to assist the injured performer. Witnesses noted that the dangerous nature of modern blockbuster filmmaking brings inherent hazards, serving as a stark reminder of the physical risks actors and crew members face daily."
+        ]
+      },
+      {
+        "h": "Recovery and Resumption of Work",
+        "p": [
+          "Fortunately, the severity of the incident was mitigated by prompt medical intervention. After receiving initial care at a nearby medical facility, the injured individual was discharged and is currently continuing their recuperation from home.",
+          "With the safety and well-being of the team addressed, studio executives confirmed that production has officially recommenced. Filming is currently underway at Leavesden Studios located in Hertfordshire, bringing the crew back to familiar stages."
+        ]
+      },
+      {
+        "h": "Returning Cast and Core Characters",
+        "p": [
+          "The continuation of shooting brings back the central star of the franchise, with Robert Pattinson reprising his role as Bruce Wayne. The billionaire vigilante remains the cornerstone of the cinematic universe as he continues his crusade against crime in Gotham City.",
+          "Beyond the leading star, the sprawling ensemble features several notable returning actors and new additions. The roster includes talents such as Colin Farrell, Andy Serkis, Jeffrey Wright, and Scarlett Johansson, all contributing to the expansive narrative."
+        ]
+      },
+      {
+        "h": "Behind-the-Camera Transitions",
+        "p": [
+          "The production journey has navigated various structural changes alongside its physical challenges. Earlier reports indicated that original director Matt Reeves needed to step away from the helm due to personal matters.",
+          "In response to the leadership shift, the production brought in accomplished filmmaker Steven Soderbergh, widely recognized for his work on Ocean's Eleven, to take over directorial duties and steer the project forward."
+        ]
+      },
+      {
+        "h": "Fan Theories and Narrative Clues",
+        "p": [
+          "Enthusiasts of the franchise have spent months analyzing minor hints and promotional clues regarding potential antagonists. Speculation intensified following social media posts featuring theatrical props and masked figures resembling classic comic book villains.",
+          "Discussion boards have buzzed with theories surrounding characters like Two-Face and Victor Zsasz, alongside cryptic set markers such as an 'OWL 3' label hinting at the notorious secret society known as the Court of Owls."
+        ]
+      },
+      {
+        "h": "Release Timeline and Expectations",
+        "p": [
+          "Despite the temporary setback caused by the recent stunt accident and previous behind-the-scenes adjustments, studio scheduling remains intact. The feature is currently slated to debut in cinemas in February 2028.",
+          "Anticipation continues to build across global fan communities as details slowly emerge about the direction of the narrative, promising another dark and immersive chapter in the ongoing saga."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production on The Batman Part II experienced a temporary halt after a cast member was struck by the Batmobile during a stunt sequence and subsequently hospitalized to recover at home. Filming has since resumed at Leavesden Studios in Hertfordshire under the reported direction of Steven Soderbergh, while the release remains scheduled for February 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Filming on The Batman Part II was halted after a cast member was run over by the Batmobile.",
+      "The incident occurred during an action sequence.",
+      "The injured cast member received treatment at a hospital and is recovering at home.",
+      "Filming resumed at Leavesden Studios in Hertfordshire.",
+      "Robert Pattinson returns as Bruce Wayne.",
+      "Matt Reeves reportedly stepped away from the project for personal reasons.",
+      "Steven Soderbergh reportedly stepped in as director.",
+      "The cast includes Colin Farrell, Andy Serkis, Jeffrey Wright, and Scarlett Johansson.",
+      "The Batman Part II is scheduled for release in February 2028."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Matt Reeves",
+        "Steven Soderbergh",
+        "Heidi Klum",
+        "Brian Tyree Henry",
+        "Sebastian Stan",
+        "Colin Farrell",
+        "Andy Serkis",
+        "Jeffrey Wright",
+        "Scarlett Johansson"
+      ],
+      "titles": [
+        "The Batman Part II",
+        "Ocean's Eleven",
+        "The Batman: Part II"
+      ]
+    },
+    "keywords": [
+      "The Batman Part II",
+      "Batmobile stunt mishap",
+      "Robert Pattinson",
+      "Steven Soderbergh"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135476965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmobile",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T04:51:13+05:30"
+  },
+  "l5jyi8": {
+    "id": "l5jyi8",
+    "type": "news",
+    "headline": "The Housemaid Stage Adaptation Announced for 2027",
+    "dek": "Lionsgate confirms a theatrical stage version of the bestselling novel will debut at London's Richmond Theatre.",
+    "body": [
+      {
+        "h": "Stage Debut Announced",
+        "p": [
+          "Lionsgate has officially confirmed that a stage production adapted from Freida McFadden's bestselling novel is heading to theaters. The theatrical adaptation is scheduled to make its debut on September 14, 2027.",
+          "The premiere will take place at London's Richmond Theatre before launching into a wider planned tour. This marks a major expansion for the property beyond its cinematic iteration."
+        ]
+      },
+      {
+        "h": "Expanding the Franchise",
+        "p": [
+          "The upcoming stage play follows the immense success of the 2025 movie adaptation, which captivated audiences globally. Sydney Sweeney starred in the film as a housemaid who encountered unexpected twists.",
+          "That cinematic project served as a major breakout hit and showcased Sweeney's growing influence both on-screen as a leading actor and off-screen as a producer."
+        ]
+      },
+      {
+        "h": "Background of the Hit Story",
+        "p": [
+          "Freida McFadden's literary work has gained a massive following among readers of psychological thrillers. The transition from page to screen proved lucrative and critically resonant.",
+          "Building on the momentum of the screen adaptation, producers are now bringing the suspenseful narrative to live theater audiences for the very first time."
+        ]
+      },
+      {
+        "h": "Sydney Sweeney's Growing Influence",
+        "p": [
+          "Sydney Sweeney continues to cement her status as one of Hollywood's premier young talents. Her involvement in major projects has consistently drawn significant public and critical attention.",
+          "Beyond her acting performances, her behind-the-scenes contributions as a producer have demonstrated her keen eye for commercially viable and engaging source material."
+        ]
+      },
+      {
+        "h": "Significance of the Live Production",
+        "p": [
+          "Adapting the narrative for the stage introduces the thrilling story to an entirely different demographic of theatergoers. Live theatrical productions offer a unique intimacy for suspenseful plots.",
+          "The choice of London's historic Richmond Theatre as the launchpad highlights the prestige and ambition behind this upcoming multi-city engagement."
+        ]
+      },
+      {
+        "h": "Future Outlook and Expectations",
+        "p": [
+          "With the premiere date set for late 2027, anticipation is expected to build among fans of both the novel and the film. Further details regarding casting and the full tour schedule will follow.",
+          "This strategic expansion proves the enduring appeal of the intellectual property as it transitions across multiple distinct entertainment mediums."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate has officially confirmed a stage play adaptation of Freida McFadden's bestselling novel, The Housemaid, set to premiere on September 14, 2027, at London's Richmond Theatre before embarking on a tour.",
+          "This theatrical production expands the franchise following the success of the 2025 movie starring Sydney Sweeney."
+        ]
+      }
+    ],
+    "facts": [
+      "Lionsgate confirmed The Housemaid stage debut date as September 14, 2027.",
+      "The premiere will take place at London's Richmond Theatre.",
+      "The source material is Freida McFadden's bestselling novel.",
+      "The movie adaptation was released in 2025."
+    ],
+    "entities": {
+      "people": [
+        "Sydney Sweeney",
+        "Freida McFadden"
+      ],
+      "titles": [
+        "The Housemaid"
+      ]
+    },
+    "keywords": [
+      "The Housemaid stage play",
+      "Sydney Sweeney The Housemaid",
+      "Freida McFadden novel adaptation",
+      "Richmond Theatre London 2027"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/img_0750.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Housemaid Stage Adaptation Announced for 2027",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 02 Nov 2026 23:43:44 GMT"
   }
 };
