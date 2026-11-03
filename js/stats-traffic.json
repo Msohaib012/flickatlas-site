@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-03T18:07:33Z",
+  "generated": "2026-11-03T18:55:16Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 2
   },
   "today": {
-    "users": 26,
-    "pageviews": 48,
-    "sessions": 27,
-    "avg_session_seconds": 54.6
+    "users": 27,
+    "pageviews": 49,
+    "sessions": 28,
+    "avg_session_seconds": 52.8
   },
   "last7": {
-    "users": 174,
-    "pageviews": 775,
-    "sessions": 260,
-    "avg_session_seconds": 216.1
+    "users": 175,
+    "pageviews": 776,
+    "sessions": 261,
+    "avg_session_seconds": 215.3
   },
   "top_pages": [
     {
@@ -88,8 +88,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 103,
-      "users": 76
+      "sessions": 104,
+      "users": 77
     },
     {
       "source": "(not set)",
@@ -117,7 +117,7 @@
     },
     {
       "country": "India",
-      "users": 56
+      "users": 57
     },
     {
       "country": "Philippines",
@@ -159,7 +159,7 @@
     },
     {
       "device": "mobile",
-      "users": 76
+      "users": 77
     },
     {
       "device": "tablet",

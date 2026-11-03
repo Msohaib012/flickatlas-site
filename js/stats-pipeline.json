@@ -1,30 +1,30 @@
 {
-  "generated": "2026-11-03T18:17:52Z",
+  "generated": "2026-11-03T18:55:16Z",
   "fetch": {
     "status": "success",
-    "run_id": 41688106010,
-    "started_at": "2026-11-03T17:50:31Z",
-    "finished_at": "2026-11-03T18:07:55Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/41688106010",
+    "run_id": 41689446211,
+    "started_at": "2026-11-03T17:59:13Z",
+    "finished_at": "2026-11-03T18:18:14Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/41689446211",
     "sources_total": 137,
     "sources_ok": 65,
     "sources_error": 10,
     "sources_unchanged": 18,
     "sources_other": 44,
-    "stories_queued": 393,
-    "stories_new": 204,
-    "duplicates_removed": 1,
+    "stories_queued": 333,
+    "stories_new": 145,
+    "duplicates_removed": 0,
     "per_category": {
-      "Box Office": 6,
-      "Awards": 4,
-      "Trailers": 8,
-      "Music / OST": 12,
-      "Episodes": 13,
-      "Upcoming releases": 1,
-      "OTT / Streaming": 16,
-      "TV & Dramas": 9,
-      "Celebrity news & events": 20,
-      "Movies": 304,
+      "Box Office": 8,
+      "Awards": 0,
+      "Trailers": 3,
+      "Music / OST": 6,
+      "Episodes": 3,
+      "Upcoming releases": 0,
+      "OTT / Streaming": 19,
+      "TV & Dramas": 4,
+      "Celebrity news & events": 21,
+      "Movies": 269,
       "Entertainment viral": 0
     },
     "per_scope": {
@@ -46,40 +46,39 @@
       "Music": 2,
       "Tech": 1
     },
-    "next_run": "2026-11-03T18:35:00Z"
+    "next_run": "2026-11-03T19:35:00Z"
   },
   "gemini": {
     "status": "success",
-    "run_id": 41688106010,
-    "started_at": "2026-11-03T17:50:31Z",
-    "finished_at": "2026-11-03T18:07:55Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/41688106010",
-    "generated_at": "2026-11-03T18:14:13Z",
+    "run_id": 41689446211,
+    "started_at": "2026-11-03T17:59:13Z",
+    "finished_at": "2026-11-03T18:18:14Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/41689446211",
+    "generated_at": "2026-11-03T18:52:57Z",
     "picked": 4,
-    "read": 101,
-    "unprocessed": 393,
+    "read": 100,
+    "unprocessed": 333,
     "per_category": {
-      "box_office": 2,
-      "celebrities_events": 1,
-      "viral": 1
+      "box_office": 3,
+      "upcoming_releases": 1
     },
-    "skipped": 2,
+    "skipped": 0,
     "posts_created": 4,
-    "next_run": "2026-11-03T18:35:00Z"
+    "next_run": "2026-11-03T19:35:00Z"
   },
   "publish": {
     "status": "success",
-    "run_id": 41688106010,
-    "started_at": "2026-11-03T17:50:31Z",
-    "finished_at": "2026-11-03T18:07:55Z",
-    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/41688106010",
-    "next_run": "2026-11-03T18:35:00Z"
+    "run_id": 41689446211,
+    "started_at": "2026-11-03T17:59:13Z",
+    "finished_at": "2026-11-03T18:18:14Z",
+    "run_url": "https://github.com/Msohaib012/flickatlas-site/actions/runs/41689446211",
+    "next_run": "2026-11-03T19:35:00Z"
   },
   "posts": {
-    "total": 993,
-    "articles": 521,
-    "titles": 472,
-    "today": 132,
+    "total": 1019,
+    "articles": 528,
+    "titles": 491,
+    "today": 158,
     "article_categories": {
       "glx1ay": "celebrities_events",
       "1bzs50a": "ott_streaming",
@@ -521,23 +520,25 @@
       "87jq9v": "box_office",
       "19klbo7": "box_office",
       "1q5fda8": "celebrities_events",
-      "12wiyro": "viral",
-      "1xa9yrs": "box_office"
+      "13tw788": "tv_dramas",
+      "1aaycqz": "celebrities_events",
+      "r5fd5e": "box_office",
+      "1aodtn8": "box_office",
+      "1ncouht": "box_office",
+      "ynjag5": "upcoming_releases"
     }
   },
   "queue": {
-    "total": 393,
+    "total": 333,
     "per_category": {
-      "Box Office": 6,
-      "Movies": 304,
-      "OTT / Streaming": 16,
-      "Upcoming releases": 1,
-      "Trailers": 8,
-      "Music / OST": 12,
-      "TV & Dramas": 9,
-      "Awards": 4,
-      "Episodes": 13,
-      "Celebrity news & events": 20
+      "Movies": 269,
+      "OTT / Streaming": 19,
+      "Box Office": 8,
+      "Trailers": 3,
+      "Music / OST": 6,
+      "Celebrity news & events": 21,
+      "TV & Dramas": 4,
+      "Episodes": 3
     }
   }
 }

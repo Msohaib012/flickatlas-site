@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T18:45:14Z",
-    "run_id": "41503369442",
-    "status": "success",
-    "checked": {
-     "candidates": 494,
-     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE! Ganga Mai Ki Betiyan Fame Rohin Joshi On Lessons From Shah Rukh Khan's Journey: Success Doesn't...",
-      "Where The Mask Ends Episodes 28-30 Release Time: Early Access To The Finale? When & Where To Watch LAST Eps?",
-      "Shah Rukh Khan Birthday EXCLUSIVE! Arjun Bijlani Calls SRK His Inspiration: He's An Emotion For...",
-      "EXCL! What Drew Jaimin Bal To The Salacity? Director Credits Farah Khan For Shaping His Filmmaking Journey",
-      "The Lament Of Autumn Vs Overdo: Same Hype, Different Fate! One Republican Cdrama Won, The Other Failed; WHY?",
-      "Industry Watch: Trade Experts Expect Ramayana to Brave Pre-Diwali Slump with Record Opening Day",
-      "Juhi Chawla wishes 'King for the World' Shah Rukh Khan on his 61st birthday",
-      "Anurag Kashyap fails to appear despite summonses; court issues bailable warrant against him",
-      "Farah Khan gives first glimpse of her seven-bedroom Mumbai home with a private pool",
-      "Bombay High Court protects Ranbir Kapoor and Yash's mega-budget Ramayana from illegal uploads, piracy and streaming",
-      "Jailer 2 box office collection day 19: Rajinikanth's action entertainer witnesses sharp 70% dip on 3rd Monday after strong weekend, crosses  ₹459 crore",
-      "The Ravana fascination: Why Yash could become Ramayana's biggest talking point",
-      "Actor Shah Rukh Khan Greets Admirers at Mannat in Mumbai on His Birthday",
-      "How Meghan Markle’s Businesses Are (Allegedly) Being Impacted By Allegations Against Her Father",
-      "Baywatch Newbie Brooks Nader Reveals Advice She Got From Carmen Electra (That Was Spot On)",
-      "Madelaine Petsch And Camila Mendes' 'Real Housewives Of Bedrock' Flintstones Fits Won Halloween For Me",
-      "Fans Aren’t Sure If A Survivor 51 Castaway Is Getting A Winner’s Edit Or Being Set Up For Heartbreak",
-      "I'm Worried One Dancing With The Stars Contestant Will Go Home On Disney Night Because Of Their Song Choice",
-      "Win Free Tickets to Our Early LA and NYC Screenings of Venice Winner 'Straight Circle' With Director Q&A",
-      "The 6 Best Neo-Noirs Released Since 2010, Ranked"
-     ],
-     "updated": [],
-     "count": 473,
-     "detail": "482 stories, 0 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T19:54:40Z",
     "run_id": "41513673247",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "366 stories, 1 duplicates removed, 10 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T20:53:44Z",
-    "run_id": "41522876102",
+    "run_at": "2026-11-03T18:51:55Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 352,
+     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
     },
     "changed": {
      "added": [
-      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
-      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
-      "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
-      "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode"
+      "Ranabaali Star Calls Vijay-Rashmika 'Unpretentious' Amid KWK Row; Feels Unfair To Judge Over TV Appearance-EXC",
+      "The Salacity (Prime Video) EXCLUSIVE! Vladimir Angelove On Why His Character Doesn't See Himself As A Villain",
+      "Hexed Box Office: How Much Does Disney’s Animated Film Need To Become 2026’s Biggest Animation Worldwide?",
+      "The Cat In The Hat Worldwide Box Office: Needs Less Than $250 Million To Become Warner Bros’ Biggest Grosser Of 2026!",
+      "Honey Singh’s nephew Divit Aulakh's funeral: Gippy Grewal, Jazzy B and more pay last respects",
+      "Eric Dane Got Candid Before His Death About Struggles on Grey’s Anatomy ‘I’m The Problem’",
+      "Everyone’s Talking About Kim Kardashian’s Corset Dress, But Can We Talk About Teyana Taylor’s Fit?",
+      "Stephen King’s 6-Part Sci-Fi on Prime Video Is So Good, You’ll Wish You Found It Sooner",
+      "Patrick Stewart’s Most Terrifying Role Officially Surges on Streaming",
+      "Godzilla Officially Gets His First-Ever LEGO Set",
+      "‘Succession’ Star’s New 112-Minute Legal Thriller Officially Removed From All 2,606 Theaters",
+      "New Mistborn Movie Officially Gets Major Kelsier and Vin Casting Update",
+      "Removed From 750 Theaters, 'Street Fighter' Officially Passes Final Box-Office Milestone",
+      "Liam Neeson’s New Action Thriller Officially Sets a Career-Worst Box Office Record",
+      "5 Greatest Rock Concept Albums of All Time, Ranked",
+      "Removed From 1,800 Theaters, Brad Pitt’s 94%-Rated Crowd-Pleaser Becomes a Global Box Office Hit",
+      "Frozen 3 Update Teases Disney Movie’s Time Jump, New Villain, & More",
+      "Mike Tyson’s Unfiltered New Special Is Now Streaming on Netflix",
+      "Batman & Superman Stars Lead New Sci-Fi Thriller Movie Now on Digital",
+      "Avengers: Doomsday & WWE Collide in Surprising Crossover Event, Details Revealed"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 333,
+     "detail": "340 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+0 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T18:52:57Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Hexed Box Office Target: What Disney’s New Animated Film Needs to Surpass 2026’s Biggest Hit",
+      "Liam Neeson's Action Flick The Mongoose Sets Unwanted Career Low at Box Office",
+      "The Cat In The Hat Worldwide Box Office Targets Less Than $250 Million To Surpass Wuthering Heights",
+      "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T20:53:44Z",
-    "run_id": "41522876102",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T21:01:59Z",
-    "run_id": "41522876102",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T18:52:58Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 190,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 186, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2358,27 +2341,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T21:01:57Z",
-    "run_id": "41522876102",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T18:55:08Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": {
-     "candidates": 426,
-     "detail": "425 collected staging rows from readers; 165 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 421 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2792,19 +2774,27 @@
      "detail": "+0 new rows, 4 updated rows, 442 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T18:54:56Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": {
+     "candidates": 447,
+     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 443 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3059,32 +3049,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T21:01:59Z",
-    "run_id": "41522876102",
-    "status": "success",
-    "checked": {
-     "candidates": 433,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
-      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Year Age Gap",
-      "Beware Boiúna Sets Digital and Blu-ray Home Release Dates with Bonus Features",
-      "Shantel VanSanten Returns as Nina Chase for FBI Season 9 Episode"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 433 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3610,19 +3587,32 @@
      "detail": "api-news.json 524 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T18:55:08Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": {
+     "candidates": 528,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Hexed Box Office Target: What Disney’s New Animated Film Needs to Surpass 2026’s Biggest Hit",
+      "Liam Neeson's Action Flick The Mongoose Sets Unwanted Career Low at Box Office",
+      "The Cat In The Hat Worldwide Box Office Targets Less Than $250 Million To Surpass Wuthering Heights",
+      "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 528 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3897,64 +3887,19 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T18:45:37Z",
-    "run_id": "41503369442",
-    "status": "success",
-    "checked": {
-     "candidates": 516,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 37,
-      "pk_movies": 19
-     },
-     "picked": 20,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "The SAS (741533)",
-      "The Cat in the Hat (1117898)",
-      "Stellar Romance (1796751)",
-      "Philly Pretzels (1797215)",
-      "Connection Lost (1794828)",
-      "Paging Hezbollah (1756268)",
-      "Algo Más Para Decir (1793964)",
-      "Origin Story (1801940)",
-      "Cecilia,  una luz de mañana (1784105)",
-      "Unsafe (1685339)",
-      "Three Little Pigs (1782975)",
-      "Everest: The Other Side (1603262)",
-      "Pickpockets (1775236)",
-      "Vecinos de hormigón (1811114)",
-      "Allowed to Birth: The Journey of a Global Midwife (1773656)",
-      "The Sea Speaks His Name (1590723)",
-      "Folded dreams (1768753)",
-      "The Blood Countess (1251608)",
-      "The Bully Club (1767217)"
-     ],
-     "updated": [],
-     "count": 19
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4230,31 +4175,64 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T18:45:59Z",
-    "run_id": "41503369442",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T18:52:23Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 473 still unprocessed; today by category: movies 9/6, tv_dramas 7/4, episodes 1/2, box_office 13/6, celebrities_events 14/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 0/3, awards 2/2, music_ost 2/2, viral 1/2"
+     "candidates": 516,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 37,
+      "pk_movies": 19
+     },
+     "picked": 20,
+     "skipped": 1,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Crosses ₹459 Crore Following Third Weekend",
-      "Katey Sagal Joins Best Medicine Season 2 Cast as Louisa's Mother Kathleen",
-      "Where The Mask Ends Finale Release: How And When To Watch Episodes 28-30",
-      "Skinny Sneakers Make a Major Comeback With Retro Styles and Great Deals"
+      "The Taste of Democracy (1798047)",
+      "Red Crown (1757700)",
+      "Next Stop Paneriai (1797895)",
+      "The Teenage Vampire (1783268)",
+      "She Looks Like Latte (1797488)",
+      "Second Season (1804239)",
+      "Irreparable (1796915)",
+      "The Lost Ones (1635771)",
+      "A Gentle Apocalypse (1796080)",
+      "Gloryland (1767773)",
+      "Dialling... (1794501)",
+      "Kordell Stewart / Slash & Burn (1797392)",
+      "Sonora (1790464)",
+      "First, Do No Harm (1788052)",
+      "Executioners (1777957)",
+      "The Hunger Games: Sunrise on the Reaping (1300968)",
+      "Beware Boiúna (1244523)",
+      "Primetime (1375441)",
+      "Phony (275139)"
      ],
      "updated": [],
-     "count": 4
+     "count": 19
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4760,26 +4738,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T18:52:57Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 333 still unprocessed; today by category: movies 12/6, tv_dramas 11/4, episodes 2/2, box_office 18/6, celebrities_events 14/5, upcoming_releases 5/4, ott_streaming 6/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Hexed Box Office Target: What Disney’s New Animated Film Needs to Surpass 2026’s Biggest Hit",
+      "Liam Neeson's Action Flick The Mongoose Sets Unwanted Career Low at Box Office",
+      "The Cat In The Hat Worldwide Box Office Targets Less Than $250 Million To Surpass Wuthering Heights",
+      "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T18:48:09Z",
-    "run_id": "41503369442",
-    "status": "success",
-    "checked": {
-     "candidates": 32,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5095,24 +5078,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T18:54:05Z",
+    "run_id": "41697628930",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 33,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 396,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5457,24 +5442,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 24,
+     "count": 406,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5804,24 +5789,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 80,
+     "count": 14,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6066,19 +6051,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 54,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6313,19 +6303,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6601,19 +6591,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6854,19 +6844,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7096,19 +7086,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7357,6 +7347,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T18:07:33Z",
     "run_id": "41688106010",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7765,24 +7765,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "advance_booking": [
+   },
    {
-    "step": "advance_booking",
+    "step": "overseas_sweep",
     "category": "Box Office",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "run_at": "2026-11-03T18:52:58Z",
+    "run_id": "41697628930",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 332,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 0; attempt cooldown deferred: 332"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 88,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "advance_booking": [
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8017,24 +8019,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11524,
+     "count": 49,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8279,8 +8281,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T18:55:17Z",
+    "run_id": "41697628930",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5780,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-03T18:17:59Z"
+ "updated_at": "2026-11-03T18:55:17Z"
 }

@@ -48023,5 +48023,411 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-03T11:32:38+05:30"
+  },
+  "r5fd5e": {
+    "id": "r5fd5e",
+    "type": "news",
+    "headline": "Hexed Box Office Target: What Disney’s New Animated Film Needs to Surpass 2026’s Biggest Hit",
+    "dek": "Disney's upcoming animated movie Hexed is gearing up for a Thanksgiving debut, but it faces a towering challenge to outpace Toy Story 5 as the highest-grossing animated feature of 2026.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Release",
+        "p": [
+          "Disney is preparing to launch its latest animated feature, Hexed, arriving in theaters just in time for the Thanksgiving holiday. As the release date approaches, industry watchers are examining whether the new title has what it takes to climb to the top of the global box office charts for animated films this year.",
+          "The studio is positioning the project as a major holiday offering, hoping to capture family audiences during one of the most lucrative box office windows of the calendar. However, the benchmark set by earlier releases in 2026 leaves little room for error if it hopes to claim the crown."
+        ]
+      },
+      {
+        "h": "The Target Set by Toy Story 5",
+        "p": [
+          "To become the highest-grossing animated film of 2026 worldwide, Hexed must surpass the massive global earnings of Toy Story 5. That summer blockbuster established itself as a massive commercial titan, bringing in a total of $1.149 billion globally according to data from Box Office Mojo.",
+          "That impressive total includes $480.3 million from domestic ticket sales and $669.1 million from international territories. Furthermore, those figures made it the third-highest-grossing film of the year overall and cemented it as the biggest installment in its own franchise history."
+        ]
+      },
+      {
+        "h": "Opening Weekend Projections",
+        "p": [
+          "Early box office tracking suggests that Hexed is poised for a strong start in North America, though its initial numbers indicate a steep climb ahead for global supremacy. Analysts project a three-day opening weekend between $35 million and $45 million.",
+          "When extended to a five-day Thanksgiving frame, the projections rise to a range of $50 million to $70 million. While these figures point to a solid opening—potentially topping the debut of Encanto for an original property—they fall well short of the velocity needed to easily challenge the year's frontrunners."
+        ]
+      },
+      {
+        "h": "Star-Studded Voice Cast",
+        "p": [
+          "The upcoming Disney release features a prominent and extensive voice cast assembled to bring its magical world to life. The roster includes Hailee Steinfeld, Rashida Jones, Jodie Foster, and Walton Goggins.",
+          "Rounding out the ensemble are Tracey Ullman, Stephen Fry, Henry Winkler, Dan Stevens, Brett Gelman, and Samson Kayo, adding considerable star power to the animated adventure."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers on Billie, an impulsive and unconventional teenager who encounters magical abilities following her expulsion from school. Her newfound powers transport her away from suburban life and into Hexe, a secret realm populated by witches.",
+          "Accompanied by her cautious mother, Alice, the protagonist embarks on a journey to uncover hidden family secrets tied directly to this strange and mystical environment."
+        ]
+      },
+      {
+        "h": "The Global Challenge Ahead",
+        "p": [
+          "Based on the extraordinary success of rival releases, Hexed will need to amass approximately $1.15 billion globally to secure the title of 2026's top-grossing animated feature. Given current forecasts, achieving such a towering milestone will demand an exceptionally resilient theatrical run.",
+          "While original animated properties often rely on strong word-of-mouth and long legs at the box office, overtaking a billion-dollar titan like Toy Story 5 remains a formidable hurdle for any new release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney's upcoming animated film Hexed is scheduled for release on November 25, facing a massive global target of $1.15 billion to dethrone Toy Story 5 as the highest-grossing animated movie of 2026. Early North American tracking points to a solid multi-day holiday debut, though the film will need an unprecedented worldwide performance to reach the top spot."
+        ]
+      }
+    ],
+    "facts": [
+      "Hexed releases on November 25.",
+      "Toy Story 5 earned $1.149 billion worldwide.",
+      "Toy Story 5 domestic collection was $480.3 million.",
+      "Toy Story 5 international collection was $669.1 million.",
+      "Hexed projected three-day debut is $35 million to $45 million.",
+      "Hexed projected five-day extended debut is $50 million to $70 million."
+    ],
+    "entities": {
+      "people": [
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins",
+        "Tracey Ullman",
+        "Stephen Fry",
+        "Henry Winkler",
+        "Dan Stevens",
+        "Brett Gelman",
+        "Samson Kayo",
+        "Billie",
+        "Alice"
+      ],
+      "titles": [
+        "Hexed",
+        "Toy Story 5",
+        "Encanto"
+      ]
+    },
+    "keywords": [
+      "Hexed",
+      "Toy Story 5",
+      "Hexed box office",
+      "Hexed release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/hexed-worldwide-box-office.jpg",
+        "caption": "Hexed Box Office Target: What Disney’s New Animated Film Needs to Surpass 2026’s Biggest Hit",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:29:52 +0000"
+  },
+  "1aodtn8": {
+    "id": "1aodtn8",
+    "type": "news",
+    "headline": "Liam Neeson's Action Flick The Mongoose Sets Unwanted Career Low at Box Office",
+    "dek": "The veteran action star's latest film struggles immensely during its opening weekend, securing the lowest box office numbers of his long career.",
+    "body": [
+      {
+        "h": "A Disastrous Opening Weekend",
+        "p": [
+          "Liam Neeson has spent nearly twenty years establishing himself as a formidable presence in the action genre, regularly taking down criminals with signature intensity. However, his newest feature film has encountered an unprecedented hurdle that even his resilient cinematic personas might find difficult to surmount. Despite his established track record and enduring popularity among action enthusiasts, the opening weekend figures indicate a severe lack of public interest.",
+          "The project has officially entered the record books by securing the lowest opening weekend earnings of Neeson's entire career. Pushing into cinemas over the Halloween frame, the feature managed to pull in a meager total during its initial days in release."
+        ]
+      },
+      {
+        "h": "Theatrical Footprint and Per-Screen Averages",
+        "p": [
+          "Industry tracking reveals that the release reached more than one thousand screens across the country. Yet, the turnout remained remarkably sparse, failing to draw general audiences into multiplexes.",
+          "Box Office Mojo data highlights that the picture landed far down the charts at No. 18. The overall yield translated to a dismal average return for each location showing the feature during its debut frame."
+        ]
+      },
+      {
+        "h": "Plot and Premise of The Mongoose",
+        "p": [
+          "The narrative centers on a decorated war hero named Ryan Flanagan, known by the moniker Fang. When he inadvertently causes the death of his former wife's violent fiancé while acting in self-defense, he realizes the grim optics of the situation.",
+          "Facing wrongful accusations and possessing nothing left to lose, Fang seizes a Shelby Mustang to initiate a daring escape. His journey triggers an extensive cross-country vehicle pursuit supported by loyal former army comrades."
+        ]
+      },
+      {
+        "h": "National Media Spotlight and Public Sympathy",
+        "p": [
+          "As the high-speed pursuit intensifies, local news networks pick up the story, transforming the getaway into a heavily monitored national broadcast. Viewers across the country begin following every twist and turn of the chase.",
+          "Interestingly, the broadcast coverage fosters a wave of backing from ordinary citizens who find themselves hoping for a successful and safe evasion from the authorities closing in on the protagonist."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The production features a recognizable group of veteran performers alongside the leading man. The prominent lineup brings together several established names from major blockbusters and television hits.",
+          "Alongside the main star, the roster includes notable talents who have previously appeared in major comic book adaptations, long-running crime dramas, and high-profile espionage franchises."
+        ]
+      },
+      {
+        "h": "Context Within Neeson's Action Legacy",
+        "p": [
+          "Ever since a certain breakout thriller redefined his professional trajectory two decades ago, the actor has remained heavily associated with gritty, relentless protagonists. Fans have routinely flocked to theaters to watch him dispense rough justice.",
+          "This latest commercial stumble stands in sharp contrast to his historical drawing power, proving that even reliable genre mainstays can experience unexpected misfires at the modern box office."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Liam Neeson's latest action movie faced a historically weak opening weekend at the box office, pulling in low numbers across more than a thousand screens. The feature follows a war hero on the run in a Shelby Mustang while pursued by authorities and monitored by national media."
+        ]
+      }
+    ],
+    "facts": [
+      "Liam Neeson stars as Ryan Fang Flanagan in The Mongoose.",
+      "The film opened over the Halloween weekend and debuted at No. 18.",
+      "The movie brought in just $480,000 over its initial few days.",
+      "The average was approximately $473 per theater across more than 1,000 screens.",
+      "Marisa Tomei plays Tara in the film.",
+      "Michael Chiklis and Ving Rhames are also part of the cast."
+    ],
+    "entities": {
+      "people": [
+        "Liam Neeson",
+        "Marisa Tomei",
+        "Michael Chiklis",
+        "Ving Rhames",
+        "Chris McPherson",
+        "Taylor Sheridan"
+      ],
+      "titles": [
+        "The Mongoose",
+        "Taken",
+        "Spider-Man: No Way Home",
+        "The Shield",
+        "Mission: Impossible",
+        "Bosch",
+        "Yellowstone",
+        "Silo",
+        "Gilmore Girls"
+      ]
+    },
+    "keywords": [
+      "The Mongoose",
+      "Liam Neeson The Mongoose box office",
+      "The Mongoose opening weekend",
+      "Ryan Fang Flanagan"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/img_2644-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Liam Neeson's Action Flick The Mongoose Sets Unwanted Career Low at Box Office",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:16:00 GMT"
+  },
+  "1ncouht": {
+    "id": "1ncouht",
+    "type": "news",
+    "headline": "The Cat In The Hat Worldwide Box Office Targets Less Than $250 Million To Surpass Wuthering Heights",
+    "dek": "Warner Bros. looks toward the upcoming animated feature to claim the top global grosser spot for 2026 as it prepares for its November theatrical run.",
+    "body": [
+      {
+        "h": "Warner Bros. Seeks Its 2026 Blockbuster",
+        "p": [
+          "As the theatrical calendar rolls forward, Warner Bros. is eyeing a major financial victory with its upcoming animated feature. The studio has experienced a relatively quiet year in terms of massive blockbusters, leaving room for a breakout hit. With high-profile releases scheduled throughout the season, executives are closely watching how incoming titles will perform against competitive counter-programming.",
+          "The studio's current high-water mark for the year sits at a moderate threshold, giving incoming contenders a clear target to surpass. Industry analysts are evaluating whether family-friendly animation can provide the necessary momentum to elevate the studio's annual global standing."
+        ]
+      },
+      {
+        "h": "The Current Reign of Wuthering Heights",
+        "p": [
+          "The title currently holding the crown as Warner Bros.' highest-grossing worldwide movie of 2026 is the period drama Wuthering Heights. Directed by Emerald Fennell and adapted from the classic Emily Brontë novel, the film features Margot Robbie and Jacob Elordi in the leading roles. It arrived in cinemas around Valentine's Day and managed to capture significant international attention despite drawing mixed reviews from critics.",
+          "Box Office Mojo data indicates that Wuthering Heights finished its primary run with $241.8 million globally. This total comprised $84.0 million from domestic ticket sales and $157.8 million from international territories, securing its place as a commercial success for the studio."
+        ]
+      },
+      {
+        "h": "The Target for The Cat in the Hat",
+        "p": [
+          "The upcoming animated feature The Cat in the Hat faces a relatively achievable milestone to become the studio's top global earner of the year. The Dr. Seuss adaptation needs to pull in just $242 million to overtake Wuthering Heights. Should it reach $25 million, it will establish a comfortable lead over the current record holder.",
+          "Early box office projections indicate that the fantasy animation is tracking to bring in between $30 million and $35 million during its opening weekend in North America. Achieving the broader global target will heavily depend on maintaining strong word of mouth and high repeat viewership."
+        ]
+      },
+      {
+        "h": "Box Office Competition and Release Windows",
+        "p": [
+          "The road to commercial success will not be entirely unobstructed for the Dr. Seuss adaptation. On its debut weekend, the animated feature is set to face direct competition in cinemas from the Japanese movie Godzilla Minus Zero, creating a dicey opening framework for both titles.",
+          "The film is scheduled to hit theaters on November 6. Analysts note that landing in an ideal market situation will be vital if the project is to capitalize on its family demographic while navigating surrounding box office releases."
+        ]
+      },
+      {
+        "h": "Plot and Premise of the Animated Feature",
+        "p": [
+          "The narrative follows the iconic title character as he undertakes his most demanding assignment yet as an operative for the I.I.I.I., which stands for the Institute for the Institution of Imagination and Inspiration, LLC. Facing the risk of losing his job, he has one final opportunity to prove his capabilities to his exasperated boss.",
+          "To succeed, the feline agent must lift the spirits of two siblings, Gabby and Sebastian, who are finding it difficult to acclimate to their new surroundings after moving to a different town."
+        ]
+      },
+      {
+        "h": "Voice Cast and Production Details",
+        "p": [
+          "The Warner Bros. animated project boasts a star-studded voice cast bringing the classic characters to life. The ensemble features performances by Bill Hader, Matt Berry, Quinta Brunson, Xochitl Gomez, Giancarlo Esposito, and America Ferrera.",
+          "With production handled under the studio's animation banner, the film aims to translate the beloved literary creation into a modern cinematic experience supported by its recognized comedic and dramatic talent."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Cat in the Hat prepares for its November 6 release aiming to surpass Wuthering Heights as Warner Bros.' highest-grossing global film of 2026 by earning over $242 million. While tracking for a North American opening weekend between $30 million and $35 million, the animated feature must navigate competition from Godzilla Minus Zero and rely on strong word of mouth to achieve its box office goals."
+        ]
+      }
+    ],
+    "facts": [
+      "Wuthering Heights earned $241.8 million at the worldwide box office.",
+      "Wuthering Heights domestic collection was $84.0 million.",
+      "Wuthering Heights international collection was $157.8 million.",
+      "The Cat in the Hat needs to earn $242 million to surpass Wuthering Heights.",
+      "The Cat in the Hat is tracking to earn between $30 million and $35 million in its opening weekend at the North American box office.",
+      "The Cat in the Hat will be released on November 6."
+    ],
+    "entities": {
+      "people": [
+        "Emerald Fennell",
+        "Margot Robbie",
+        "Jacob Elordi",
+        "Emily Brontë",
+        "Bill Hader",
+        "Matt Berry",
+        "Quinta Brunson",
+        "Xochitl Gomez",
+        "Giancarlo Esposito",
+        "America Ferrera"
+      ],
+      "titles": [
+        "The Cat in the Hat",
+        "Wuthering Heights",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "The Cat in the Hat movie",
+      "Wuthering Heights box office",
+      "Warner Bros 2026 highest grosser",
+      "The Cat in the Hat release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-cat-in-the-hat-worldwide-box-office.jpg",
+        "caption": "The Cat In The Hat Worldwide Box Office Targets Less Than $250 Million To Surpass Wuthering Heights",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:20:58 +0000"
+  },
+  "ynjag5": {
+    "id": "ynjag5",
+    "type": "news",
+    "headline": "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep",
+    "dek": "Netflix has officially ordered a straight-to-series adaptation of Curtis Sittenfeld's bestselling debut novel Prep, with Nicole Taylor serving as writer, showrunner, and executive producer.",
+    "body": [
+      {
+        "h": "Netflix Orders Bestselling Novel Adaptation",
+        "p": [
+          "Netflix has given a formal straight-to-series green light to an adaptation of Curtis Sittenfeld's acclaimed 2005 debut novel, Prep. The streaming platform developed the project internally before granting it a series order, turning to the well-known coming-of-age title in search of its next major young adult hit.",
+          "The upcoming project will adopt a half-hour format. However, despite the shorter runtime per episode, creators clarify that the show is structured as a drama rather than a traditional comedy."
+        ]
+      },
+      {
+        "h": "The Plot and Setting",
+        "p": [
+          "The narrative centers around Lee Fiora, a scholarship student attending Ault, an elite and prestigious New England boarding school. As a newcomer from a different background, Lee must navigate the intricate social hierarchies, intense friendships, and romantic crushes among her wealthy and confident peers.",
+          "The story examines themes of social mobility, teenage isolation, and the distinct anxieties of adolescent self-consciousness. Sittenfeld's original book has long been celebrated for its sharp and perceptive exploration of these formative high school years."
+        ]
+      },
+      {
+        "h": "Creative Team and Production",
+        "p": [
+          "The series is spearheaded by Nicole Taylor, who takes on the roles of writer, showrunner, and executive producer. Taylor previously served as head writer and executive producer for Netflix's limited series adaptation of One Day.",
+          "Production is backed by Gloria Sanchez Productions. Will Ferrell, Jessica Elbaum, and Alix Taylor are on board as executive producers alongside author Curtis Sittenfeld and showrunner Nicole Taylor. A dedicated writers room for the series is scheduled to open in January."
+        ]
+      },
+      {
+        "h": "Long Journey to the Screen",
+        "p": [
+          "Bringing Prep to television has been a long time coming, arriving roughly 22 years after Random House first published the novel in January 2005. The book previously attracted Hollywood interest a decade ago when HBO attempted to develop it as a comedy series with writers from 30 Rock and Game of Thrones, though that earlier version ultimately did not move forward.",
+          "For showrunner Nicole Taylor, adapting the material fulfills a personal ambition spanning two decades. She noted that she first read the novel twenty years ago and immediately found a deep, uncanny reflection of her own adolescent experiences within its pages."
+        ]
+      },
+      {
+        "h": "Expanding the YA Slate at Netflix",
+        "p": [
+          "Prep joins an expanding lineup of young adult programming at Netflix. Other upcoming titles slated for the platform include The Sticks, The Body, Poser, and Sid Zoey.",
+          "Young adult content has proven to be a massive draw for the streaming service. Since Netflix began releasing comprehensive viewership data in the first half of 2023, YA titles have accumulated over 10.4 billion global views, anchored by blockbuster hits like Wednesday and Stranger Things."
+        ]
+      },
+      {
+        "h": "Author and Showrunner Backgrounds",
+        "p": [
+          "Nicole Taylor brings notable accolades to the project, having won a BAFTA TV Award for her work on the BBC series Three Girls. Her credits also include the miniseries The Nest and the feature film Wild Rose starring Jessie Buckley.",
+          "Curtis Sittenfeld has seen several of her other literary works pursued for screen adaptations as well. Her novel Romantic Comedy is currently being developed as a film by New Line and Hello Sunshine, while her book Rodham previously spent time in development as a TV series at Hulu."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has officially given a straight-to-series order to an adaptation of Curtis Sittenfeld's 2005 debut novel Prep. Nicole Taylor will serve as the writer, showrunner, and executive producer for the half-hour drama focusing on a scholarship student at a New England boarding school."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix ordered Prep as a straight-to-series adaptation.",
+      "Prep is based on Curtis Sittenfeld's 2005 debut novel.",
+      "The book was published by Random House in January 2005.",
+      "Nicole Taylor is the writer, showrunner, and executive producer.",
+      "A writers room for the series is slated to open in January.",
+      "YA titles on Netflix have generated over 10.4 billion global views since H1 2023."
+    ],
+    "entities": {
+      "people": [
+        "Curtis Sittenfeld",
+        "Nicole Taylor",
+        "Will Ferrell",
+        "Jessica Elbaum",
+        "Alix Taylor",
+        "Colleen McGuinness",
+        "Carolyn Strauss",
+        "Jessie Buckley"
+      ],
+      "titles": [
+        "Prep",
+        "One Day",
+        "Three Girls",
+        "The Nest",
+        "Wild Rose",
+        "Romantic Comedy",
+        "Rodham",
+        "The Man of My Dreams",
+        "American Wife",
+        "Sisterland",
+        "Eligible",
+        "The Sticks",
+        "The Body",
+        "Poser",
+        "Sid Zoey",
+        "Wednesday",
+        "Stranger Things",
+        "30 Rock",
+        "Game of Thrones"
+      ]
+    },
+    "keywords": [
+      "Prep novel Netflix series",
+      "Curtis Sittenfeld Prep adaptation",
+      "Nicole Taylor Prep showrunner",
+      "Netflix Prep YA series"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Netflix-Curtis-Sittenfeld-Prep.jpg?w=1024",
+        "caption": "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:30:00 +0000"
   }
 };

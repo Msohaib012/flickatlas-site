@@ -22603,5 +22603,817 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 22,
     "providers": []
+  },
+  "1798047": {
+    "id": 1798047,
+    "type": "movie",
+    "title": "The Taste of Democracy",
+    "poster_path": "/lEYHewIyY0VQAwCy2MJRUXVWEk5.jpg",
+    "backdrop_path": "/7gdCeaMK2DkpoSzoQoCVXKa0T3d.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Worldwide, 545 restaurants currently hold two Michelin stars. Earning two stars is a rare achievement. Closing such a restaurant to start again takes courage. In 2018, Onyx in Budapest became the first restaurant in Central and Eastern Europe to earn two Michelin stars, thanks to Katalin Pintér's dedication. In 2020, she transferred a 42.5% stake to her daughter Anna, who boldly decided to reinvent Onyx.",
+    "industry": "world",
+    "popularity": 0.6327,
+    "original_language": "hu",
+    "origin_country": [
+      "HU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "Feature Documentary",
+    "status": "Post Production",
+    "production_countries": [
+      "HU"
+    ],
+    "spoken_languages": [
+      "hu"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 75,
+    "providers": []
+  },
+  "1757700": {
+    "id": 1757700,
+    "type": "movie",
+    "title": "Red Crown",
+    "poster_path": "/pF4IZF6dVT70iGMy4RYLvc8V3GL.jpg",
+    "backdrop_path": "/pk7lLALQ3NUFfm0IQFLHKHZ1tUw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Twenty-five contestants compete for a P25 million cash prize at the 25th-anniversary \"Queen of the Islands\" pageant.",
+    "industry": "world",
+    "popularity": 3.0412,
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "Some things are worth dying for.",
+    "status": "Released",
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [
+      "tl",
+      "en"
+    ],
+    "certification": "R-16",
+    "release_date": "2026-10-28",
+    "date_kind": "release",
+    "runtime": 113,
+    "providers": []
+  },
+  "1797895": {
+    "id": 1797895,
+    "type": "movie",
+    "title": "Next Stop Paneriai",
+    "poster_path": "/eIIxYsvivKRiqfbMLqNov1wMK6B.jpg",
+    "backdrop_path": "/gK4gar19Kh2VG6yV6Q60FrLzGgS.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A train pulls into snow-covered Paneriai, raising a cloud of snow in its wake. Eitvydas Doškus’s Next Stop Paneriai offers a distinctive continuation of the cinematic exploration of the city begun in Once Upon a Vilnius. This time, however, the railway becomes the axis of a story about multilayered time. Traces of the past are preserved by the Paneriai Memorial and an abandoned tunnel inhabited by bats, semi-feral cats and crumbling houses mark a vanishing present, while children playing at school turn our gaze towards the future. These layers of time overlap like images changing one after another through a train window, making it impossible to clearly distinguish what has already happened from what is yet to come. A meditative film distinguished by its evocative soundtrack, Next Stop Paneriai creates a sensory portrait of a part of Vilnius that is most often simply driven through.",
+    "industry": "world",
+    "popularity": 0.5331,
+    "original_language": "lt",
+    "origin_country": [
+      "LT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "LT"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 20,
+    "providers": []
+  },
+  "1783268": {
+    "id": 1783268,
+    "type": "movie",
+    "title": "The Teenage Vampire",
+    "poster_path": "/hhbcC4lUcaU7YW3Miq4XzUVEJY8.jpg",
+    "backdrop_path": "/8O4JRME9XyFGRcaNbJ2HIffuYDR.jpg",
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "When a straightlaced young woman moves into a chic bungalow in the Hollywood Hills she imagines nothing but raging parties and romance in her future. But Sandra's new dream house quickly becomes a den of horrors after she discovers her landlords are ancient vampires and her first party guests are the victims of a bloody massacre. As the night grows more sinister and twisted, Sandra unearths the most terrifying secret of all.",
+    "industry": "world",
+    "popularity": 5.6274,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "fPwXkk-REKs",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "Welcome to their home.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-27",
+    "date_kind": "release",
+    "runtime": 85,
+    "providers": []
+  },
+  "1797488": {
+    "id": 1797488,
+    "type": "movie",
+    "title": "She Looks Like Latte",
+    "poster_path": "/hE8866RCeJKtEZXvawOyeHa0QBN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After a dog named Latte mysteriously disappears, a filmmaker pieces together recovered footage and audio diaries to reconstruct the events surrounding the disappearance. The search for answers uncovers something unsettling about the neighborhood cats, and the dog that came back.",
+    "industry": "world",
+    "popularity": 0.2574,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery"
+    ],
+    "tagline": "Is this your dog?",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 14,
+    "providers": []
+  },
+  "1804239": {
+    "id": 1804239,
+    "type": "movie",
+    "title": "Second Season",
+    "poster_path": "/elkSUjuURHq3p8fMHtr2gpDF9Rf.jpg",
+    "backdrop_path": "/vRZCj3qGKVB9v8HUnqYSmgsOgMV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A few years ago, Paula Ferrara wrote “The Pussy and the Razor.” Its success turned her into “the voice of her generation.” Today, Paula is a failed writer—a ghostwriter who earns a living churning out books for mediocre influencers. Her latest, desperate assignment is to pen the biography of Lil Rogelio, a fading trap music legend fresh out of prison who is supposedly seeking redemption. But are Paula and Lil Rogelio truly prepared for this second season?",
+    "industry": "world",
+    "popularity": 5.2548,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "ca",
+      "es"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-27",
+    "date_kind": "release",
+    "runtime": 287,
+    "providers": []
+  },
+  "1796915": {
+    "id": 1796915,
+    "type": "movie",
+    "title": "Irreparable",
+    "poster_path": "/ayUi7BFHP5uOQ7lZIXiFOsSJJBC.jpg",
+    "backdrop_path": "/ljnZ2jiCSSb9nv6e0lwiw4tyB8X.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Alice has something to tell her sister Olivia; Olivia is buying some very sharp knives – she has a few things to take care of at home. They soon start talking about love and Olivia's husband (or perhaps ex-husband), Garcia. One of them needs to put on the brakes before they do something irreparable.",
+    "industry": "world",
+    "popularity": 2.143,
+    "original_language": "es",
+    "origin_country": [
+      "CO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 70,
+    "providers": []
+  },
+  "1635771": {
+    "id": 1635771,
+    "type": "movie",
+    "title": "The Lost Ones",
+    "poster_path": "/vJgnRh06pvQUOW2s455CsiJE3bN.jpg",
+    "backdrop_path": "/nf17pBx2EU8PFHKvnwnogbz1F4j.jpg",
+    "vote_average": 6.8,
+    "vote_count": 2,
+    "overview": "When a perfect family relocates to rural America, their isolated idyll quickly becomes threatened by a disturbingly volatile neighbor.",
+    "industry": "world",
+    "popularity": 5.2492,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "sq7zxDAhRE0",
+      "name": "The Lost Ones (2026) | Official Trailer (feat. Henry Golding, Laura Haddock) | Paramount Movies",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-27",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1796080": {
+    "id": 1796080,
+    "type": "movie",
+    "title": "A Gentle Apocalypse",
+    "poster_path": "/dvGI9a2hDPio8RJ3m0nTsJNBAed.jpg",
+    "backdrop_path": "/hseGUg1CxGtfwq9DDLHLJTXwbnD.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Consumed by a world of setbacks and expectations, Juno navigates the struggles of love, work, and loneliness. As her entire world crumbles, a strange encounter changes how she sees everything...",
+    "industry": "world",
+    "popularity": 0.8776,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 1000,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Fantasy"
+    ],
+    "tagline": "Trapped in an unfulfilling life, Juno's world slowly begins to tilt...",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 9,
+    "providers": []
+  },
+  "1767773": {
+    "id": 1767773,
+    "type": "movie",
+    "title": "Gloryland",
+    "poster_path": "/ujHB5194znnlkABha8S28xEFDrj.jpg",
+    "backdrop_path": "/s3pPNGfFqzgyJFiNfN69soqWJbQ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Last spring, unknown lights appeared in the sky above Lausanne. In a garden, the last fragment of an ordinary Eden, tales blur with rumours after a series of strange disappearances.",
+    "industry": "world",
+    "popularity": 3.3588,
+    "original_language": "fr",
+    "origin_country": [
+      "CH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CH"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-10-27",
+    "date_kind": "festival",
+    "runtime": 13,
+    "providers": []
+  },
+  "1794501": {
+    "id": 1794501,
+    "type": "movie",
+    "title": "Dialling...",
+    "poster_path": "/6Q0ytYelHXjvyHlLJGuGiW5D1Up.jpg",
+    "backdrop_path": "/fqNSslyEIyOSQJNuAdNSkJozMqR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After a late night shift Jake cycles through his contact list of friends in the hope to get a lift home, but with none of them answering he becomes confined to this phonebooth.",
+    "industry": "world",
+    "popularity": 0.677,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "What would your friends do for you?",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "12A",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 5,
+    "providers": []
+  },
+  "1797392": {
+    "id": 1797392,
+    "type": "movie",
+    "title": "Kordell Stewart / Slash & Burn",
+    "poster_path": "/wVZXTyC92jRU7lwn5QjhDs7FORk.jpg",
+    "backdrop_path": "/oTMqOh1FPl7bdlrlp4YUHfGz6TR.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "For a generation of football fans, former Pittsburgh Steelers quarterback Kordell \"Slash\" Stewart was one of the most electrifying players of the 1990s. But just as he became one of football's biggest stars, a malicious rumor upended his life. Through candid interviews with Stewart and others who witnessed his brightest and darkest moments, explore the personal toll of scrutiny beyond the football field while searching for the truth behind a story that followed Stewart for decades.",
+    "industry": "world",
+    "popularity": 3.0223,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "MZAV0HKRDVk",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "The star. The rumor. The story.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-27",
+    "date_kind": "release",
+    "runtime": 40,
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1790464": {
+    "id": 1790464,
+    "type": "movie",
+    "title": "Sonora",
+    "poster_path": "/cKdjs7iTio9gpyhYRLq2Ohaurnb.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In silence, three people share the same house: Ayla, a young Indigenous trans woman, is pregnant; Ferreirinha, a down-and-out accountant, harbors pro-Bolsonaro delusions; Sebastião, a lonely elderly man, is at war with the gardens. Sound trucks, campaign jingles, and evangelical hymns pierce through the walls: the public space outside devours their private lives. Deafening.",
+    "industry": "world",
+    "popularity": 0.6585,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 80,
+    "providers": []
+  },
+  "1788052": {
+    "id": 1788052,
+    "type": "movie",
+    "title": "First, Do No Harm",
+    "poster_path": "/8E5PPPnkV20rTIXmOLCB7KhbxPJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Christian Polish gynecologist Alicja is visited by her old friend asking her to terminate her pregnancy. She has to make a difficult decision if she is going to obey her faith and laws or help her friend.",
+    "industry": "world",
+    "popularity": 2.0981,
+    "original_language": "cs",
+    "origin_country": [
+      "CZ"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "pl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "festival",
+    "runtime": 19,
+    "providers": []
+  },
+  "1777957": {
+    "id": 1777957,
+    "type": "movie",
+    "title": "Executioners",
+    "poster_path": "/mD4aIT349P354yo6Ee0Kn4SRKqz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Through fragments of Andrzej Wajda’s films, a found-footage essay explores the conflict between the individual and power, the persistence of collective memory, and class struggle.",
+    "industry": "world",
+    "popularity": 0.2555,
+    "original_language": "xx",
+    "origin_country": [
+      "GE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GE"
+    ],
+    "spoken_languages": [
+      "xx"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 3,
+    "providers": []
+  },
+  "1300968": {
+    "id": 1300968,
+    "type": "movie",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "poster_path": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "industry": "world",
+    "popularity": 37.8587,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "Dr060OLTodE",
+      "name": "Official Fan Edit Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 200000000,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "tagline": "Welcome to the Second Quarter Quell.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "DE"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 159,
+    "providers": []
+  },
+  "1244523": {
+    "id": 1244523,
+    "type": "movie",
+    "title": "Beware Boiúna",
+    "poster_path": "/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+    "backdrop_path": "/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "vote_average": 6.3,
+    "vote_count": 17,
+    "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+    "industry": "world",
+    "popularity": 47.1881,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "MQKqgFVU4dQ",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 962070,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "Witness terror on a gigantic scale.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "DE",
+      "CO"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-01",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": []
+  },
+  "1375441": {
+    "id": 1375441,
+    "type": "movie",
+    "title": "Primetime",
+    "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "backdrop_path": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "vote_average": 6.8,
+    "vote_count": 271,
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+    "industry": "world",
+    "popularity": 56.1029,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "C0NZa01qTRU",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 14500000,
+    "revenue": 52704611,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "Are you ready to make television history?",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": []
+  },
+  "275139": {
+    "id": 275139,
+    "type": "tv",
+    "title": "Phony",
+    "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+    "backdrop_path": "/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+    "vote_average": 7.5,
+    "vote_count": 20,
+    "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+    "industry": "world",
+    "popularity": 18.1336,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "y-68gT7y_sc",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-03",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "The mother of all mysteries.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-20",
+    "networks": [
+      "Hulu"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Hulu",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-20",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Nick Paley"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   }
 };

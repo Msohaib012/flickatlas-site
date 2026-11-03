@@ -3344,5 +3344,12 @@ window.FA_DAYWISE = {
       "day": "Day 4",
       "collection": 359218
     }
+  ],
+  "1294189": [
+    {
+      "date": "2026-11-03",
+      "day": "Day 1",
+      "collection": 422610
+    }
   ]
 };
