@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T03:51:39Z",
-    "run_id": "41385227695",
-    "status": "success",
-    "checked": {
-     "candidates": 257,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Shah Rukh Khan unveils ‘Tu Mil Jaaye’ song starring Deepika Padukone from KING on his birthday; song blends romance, action and his ‘dehshat’",
-      "Korean Influencer Kim Nara Marries Girlfriend After 8 Years; Their Same-Sex Wedding Kiss Photo Goes Viral",
-      "King Song Tu Mil Jaaye Out: Redditors Spot 'Jhoome Jo Pathaan Hangover' In Shah Rukh Khan’s Song - REACTIONS",
-      "Bigg Boss Malayalam 8 Elimination: Vedangi Evicted From The House In Latest Weekend Episode",
-      "Amitabh Bachchan Steps Out To Greet Fans At Jalsa But Behind Bulletproof Protection After Bomb Threat - VIDEO",
-      "Box Office: Here’s How Much Shraddha Kapoor’s Eetha Needs On Opening Day For Not One But Two Huge Records!",
-      "Ramayana Advance Booking: Ranbir Kapoor and Yash starrer epic drama sells 2 lakh tickets in National Chains, 3 days ahead release",
-      "King First Song Tu Mil Jaaye Out as Shah Rukh Khan Reunites With Deepika and Ed Sheeran Joins Arijit Singh",
-      "Anirudh sings 'Enakku Ippa Kalyana Vayasu' amid wedding buzz with Kavya",
-      "Suki Waterhouse opens up about marriage plans with Robert Pattinson",
-      "Suhana Khan's FIRST LOOK in 'King' revealed in 'Tu Mil Jaaye'?– WATCH",
-      "'Ramayana' actor Yash says viewers will connect with both Rama and Ravana",
-      "'Jailer 2' BO Day 18: Rajinikanth's film surpasses Rs 807 crore worldwide",
-      "Drishyam 3 Box Office Day 31: film nets Rs 377.35 crore in India",
-      "Anu Malik on finding his feet among legends Laxmikant-Pyarelal, R D Burman: I had to work hard to get even one song recorded",
-      "Ramayana advance booking blazes past  ₹75 crore as release day approaches; Ranbir Kapoor, Yash film now outpacing Animal, KGF 2",
-      "Shah Rukh Khan thanks fans with handwritten note for birthday greetings, Mannat gets grand makeover with King visuals",
-      "Amitabh Bachchan mourns friend Sanjay Gupta's death, says unable to understand why all of this is happening",
-      "Shah Rukh Khan, Deepika Padukone's romance mixed with action in new King song Tu Mil Jaaye reminds fans of Pathaan and Jawan",
-      "Eleven lakh tickets, Rs 46 crore: Ramayana pre-sales nears Rs 50 crore in India"
-     ],
-     "updated": [],
-     "count": 248,
-     "detail": "249 stories, 0 duplicates removed, 8 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T04:51:58Z",
     "run_id": "41390659468",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "329 stories, 0 duplicates removed, 18 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T03:52:07Z",
-    "run_id": "41385227695",
+    "run_at": "2026-11-03T03:52:05Z",
+    "run_id": "41574575809",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 281,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Advance Bookings Cross ₹75 Crore Milestone Ahead of Global Premiere",
-      "Son Suk Ku and Park Bo Young Team Up for Romantic Comedy Kiss For Tomorrow"
+      "EXCLUSIVE! Akshay Oberoi Compares Toxic's Failure To A Child Failing An Exam: ‘It Didn't Work, But I Still…’",
+      "Orry Opens Up On His Fallout With Sara Ali Khan: Ek Baar Zindagi Mein When She Had To Be There For Me, She....",
+      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 4: Venkatesh's Film Crosses ₹55 Crore Worldwide",
+      "Gunmaaster G9 to Feature Bigg Boss 17 Fame Samarth Jurel in Special Cameo Alongside Emraan Hashmi",
+      "Lenny Kravitz dead in Learjet plane crash? Rocker's team reacts",
+      "Udta Teer: Aakash Kaushik recalls Mukul Dev’s performance",
+      "Ben Wang eyed for Iceman role in ‘X-Men’ reboot",
+      "Callum Turner cast as the next James Bond?",
+      "Timbaland files USD 15 million lawsuit against his former managers",
+      "Tiger Shroff firing case: Mumbai Crime Branch arrests 22-year-old woman from Karnal",
+      "Honey Singh rushes to Jalandhar after nephew Vidit Auluck's death in road accident, breaks down hugging grieving father",
+      "Chiranjeevi, Ram Charan host Amit Shah at their home; share concerns over AI and deepfake's impact of film industry and actors",
+      "Rs 100 crore advance booking for Ramayana, Dhurandhar 2 record in sight",
+      "Anurag Kashyap faces bailable warrant for failing to appear in Brahmin remarks case",
+      "Shanaya Kapoor celebrates 27 with a spooky bash. Ananya, Suhana join the fun",
+      "Dear Bollywood, Urdu is not a Pakistani spy!",
+      "The Housemaid’s Secret Set Photos Show Sydney Sweeney Kissing & More",
+      "Former General Hospital Star Confirmed Play Chloe on Days of Our Lives",
+      "8 Completed Netflix Shows That Are Perfect From Start to Finish",
+      "34 Episodes Of Netflix's Longest-Running Sci-Fi Show Deliver A Masterclass In Anthology Storytelling"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 273,
+     "detail": "275 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1476,27 +1455,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T03:52:26Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
+      "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
+      "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
+      "Bleecker Street Debuts Trailer for Mystery Drama The Liberation"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T05:51:55Z",
-    "run_id": "41396347460",
-    "status": "success",
-    "checked": {
-     "candidates": 185,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 180, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1910,26 +1894,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T03:52:12Z",
-    "run_id": "41385227695",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T03:52:26Z",
+    "run_id": "41574575809",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2356,27 +2341,31 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T03:52:32Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "qv0504",
+      "cio2rc",
+      "ged0uq",
+      "b15m7m"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T03:52:07Z",
-    "run_id": "41385227695",
-    "status": "success",
-    "checked": {
-     "candidates": 412,
-     "detail": "410 collected staging rows from readers; 123 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 407 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2790,19 +2779,27 @@
      "detail": "+0 new rows, 146 updated rows, 293 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T03:52:27Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": {
+     "candidates": 441,
+     "detail": "439 collected staging rows from readers; 166 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 436 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3057,30 +3054,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T03:52:11Z",
-    "run_id": "41385227695",
-    "status": "success",
-    "checked": {
-     "candidates": 370,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Advance Bookings Cross ₹75 Crore Milestone Ahead of Global Premiere",
-      "Son Suk Ku and Park Bo Young Team Up for Romantic Comedy Kiss For Tomorrow"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 370 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3604,19 +3590,32 @@
      "detail": "api-news.json 457 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T03:52:32Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": {
+     "candidates": 461,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
+      "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
+      "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
+      "Bleecker Street Debuts Trailer for Mystery Drama The Liberation"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 461 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3892,19 +3891,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4225,29 +4224,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T03:52:07Z",
-    "run_id": "41385227695",
-    "status": "success",
-    "checked": {
-     "candidates": 3,
-     "detail": "news queue items drafted this run; 248 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Advance Bookings Cross ₹75 Crore Milestone Ahead of Global Premiere",
-      "Son Suk Ku and Park Bo Young Team Up for Romantic Comedy Kiss For Tomorrow"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4741,19 +4730,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T03:52:26Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 273 still unprocessed; today by category: movies 3/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
+      "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
+      "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
+      "Bleecker Street Debuts Trailer for Mystery Drama The Liberation"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5096,24 +5097,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 262,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5458,24 +5454,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 7,
+     "count": 425,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5815,19 +5811,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6077,19 +6073,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6324,19 +6320,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6578,19 +6574,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6831,22 +6827,22 @@
      "count": 274
     },
     "reason": null
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-02T04:53:30Z",
     "run_id": "41390659468",
     "status": "skipped",
@@ -7073,45 +7069,22 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-11-02T03:52:11Z",
-    "run_id": "41385227695",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "keyword refresh: 15 articles, sources {'gemini': 13, 'mixed': 2}"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Disney+ Expands Hideo Kojima’s Death Stranding With New Anime, Watch Trailer",
-      "Ramayana Part 1 Crosses $2.5M Overseas as India Ticket Booking Deadlock Ends",
-      "Hugh Jackman, Star Trek Cast, and Hollywood Mourn Legendary Actor Sir Patrick St",
-      "Drishyam 3: The Conclusion Box Office Collection Day 28: Ajay Devgn Starrer Conc",
-      "Jailer 2 Box Office Collection Day 15: Rajinikanth And Hrithik Roshan Starrer Cr",
-      "DCU Batman Casting Is Approaching Soon, James Gunn Clarifies",
-      "Patrick Stewart Passes Away at 86 as Entertainment World Pays Tribute",
-      "Patrick Stewart, Renowned Star Trek and X-Men Icon, Passes Away at 86",
-      "Miranda Hart Opens Up About Emotional Return to Television on Celebrity Traitors",
-      "Oscar Winner Jessie Buckley Set for West End Return on Modest Daily Rate",
-      "MGM+ Reveals First-Look Photos for 'Bosch: Start Of Watch' Prequel Series",
-      "Universal Music Group Reports $3.78 Billion in Revenue for Q3 2026",
-      "Cast and Makers of Ramayana Engage with Thousands of Students in Special Educati",
-      "Lagan Lagi Episode 6 — Watch Online on ARY Digital",
-      "Bano Episode 17 — Watch Online on Geo TV"
-     ],
-     "count": 15
-    },
-    "reason": null
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-11-02T04:53:30Z",
     "run_id": "41390659468",
     "status": "skipped",
@@ -7338,6 +7311,39 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T03:52:31Z",
+    "run_id": "41574575809",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Trade Experts Predict Massive Box Office Openings For The Upcoming Mythological ",
+      "Jungkook's Golden Makes Spotify History As ONLY Asian Act To Cross 1 Billion Str",
+      "Udta Teer Enters Second Week with Solid Momentum at the Box Office",
+      "Shah Rukh Khan's KING Fever Takes Over Cinema Halls Nationwide",
+      "Maddock Films And Kathputli Creations Drop Grand Trailer For Eetha",
+      "Renowned Actor Patrick Stewart Passes Away At Age 86 Following Dementia Battle",
+      "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriag",
+      "Martin Scorsese Reveals Why His Cleopatra Movie With Angelina Jolie Was Abandone",
+      "Rajinikanth's Jailer 2 Surpasses Rs 776 Crore Globally by Day 16",
+      "Brad Pitt's New Survival Thriller Shrinks Screen Count as It Targets $200 Millio",
+      "Reacher Season 4 Reaches 66 Million Viewers as Alan Ritchson Films Season 5",
+      "Madaar Episode 29 Promo Highlights New Twists on Green TV",
+      "Aerosmith Returns to the Stage for All-Star Hollywood Bowl Show With Dave Grohl ",
+      "Bano Episode 18 — Watch Online on Geo TV",
+      "Lagan Lagi Episode 7 — Watch Online on ARY Digital"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "overseas_sweep": [
@@ -7629,16 +7635,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T03:52:18Z",
-    "run_id": "41385227695",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-02T04:53:30Z",
     "run_id": "41390659468",
     "status": "skipped",
@@ -7875,6 +7871,16 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -8062,8 +8068,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T03:02:43Z"
+ "updated_at": "2026-11-03T03:52:39Z"
 }

@@ -23020,7 +23020,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-30T17:00:38Z"
+    "published": "2026-10-30T17:00:38Z",
+    "keywords": [
+      "Bano Episode 18",
+      "Bano Geo TV",
+      "Bano watch online",
+      "Bano Episode 18 online"
+    ]
   },
   "v5p23f": {
     "id": "v5p23f",
@@ -23266,9 +23272,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Reacher Season 4",
-      "Alan Ritchson Reacher",
-      "Reacher Season 5 Make Me",
-      "Lee Child Reacher series"
+      "Alan Ritchson Reacher Season 5",
+      "Reacher Prime Video viewers",
+      "Alan Ritchson Reacher"
     ],
     "images": [
       {
@@ -23397,9 +23403,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Aerosmith Hollywood Bowl show",
-      "Steven Tyler vocal injury",
+      "Steven Tyler Aerosmith",
       "Aerosmith Dave Grohl Johnny Depp",
-      "Aerosmith return to stage"
+      "Aerosmith live performance reunion"
     ],
     "images": [
       {
@@ -23483,9 +23489,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Madaar Episode 29",
+      "Madaar Green TV promo",
       "Humayoun Ashraf Madaar",
-      "Sumaiyya Bukhsh Green TV",
-      "Madaar drama promo"
+      "Sumaiyya Bukhsh Madaar"
     ],
     "images": [
       {
@@ -23572,9 +23578,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Brad Pitt survival thriller",
-      "David Ayer movie box office",
-      "Brad Pitt Paramount theater count",
-      "Brad Pitt F1 film success"
+      "Brad Pitt F1 box office",
+      "David Ayer Brad Pitt",
+      "Brad Pitt thriller Paramount"
     ],
     "images": [
       {
@@ -23659,10 +23665,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Martin Scorsese Cleopatra",
-      "Angelina Jolie Cleopatra movie",
-      "Sony hack Seth Rogen The Interview",
-      "Scott Rudin Amy Pascal leaked emails"
+      "Martin Scorsese Cleopatra movie",
+      "Angelina Jolie Cleopatra Martin Scorsese",
+      "Martin Scorsese Cleopatra Angelina Jolie",
+      "Martin Scorsese Sony data breach"
     ],
     "images": [
       {
@@ -23765,10 +23771,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office collection",
-      "Rajinikanth Jailer 2 worldwide earnings",
-      "Jailer 2 Day 16 collection",
-      "Nelson Dilipkumar Jailer 2"
+      "Jailer 2 Rajinikanth",
+      "Jailer 2 box office global",
+      "Nelson Dilipkumar Jailer 2",
+      "Tiger Muthuvel Pandian Jailer 2"
     ],
     "images": [
       {
@@ -23869,10 +23875,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Patrick Stewart",
-      "Star Trek",
-      "X-Men",
-      "Sunny Ozell"
+      "Patrick Stewart passes away",
+      "Patrick Stewart Star Trek X-Men",
+      "Patrick Stewart death age 86",
+      "Patrick Stewart dementia battle"
     ],
     "images": [
       {
@@ -23972,10 +23978,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Margaret Qualley",
-      "Jack Antonoff",
       "Margaret Qualley Jack Antonoff divorce",
-      "Jack Antonoff Bleachers"
+      "Margaret Qualley Jack Antonoff marriage",
+      "Margaret Qualley Jack Antonoff separated",
+      "Margaret Qualley and Jack Antonoff court documents"
     ],
     "images": [
       {
@@ -24052,10 +24058,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shah Rukh Khan King",
-      "KING movie",
-      "Shah Rukh Khan cutouts",
-      "KING film buzz"
+      "Shah Rukh Khan KING",
+      "Shah Rukh Khan film KING cutouts",
+      "KING movie Shah Rukh Khan",
+      "Shah Rukh Khan cinema halls"
     ],
     "images": [
       {
@@ -24152,10 +24158,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shraddha Kapoor Eetha",
-      "Eetha trailer",
-      "Laxman Utekar Eetha movie",
-      "Maddock Films Eetha release date"
+      "Eetha",
+      "Shraddha Kapoor Eetha Bai",
+      "Maddock Films Eetha",
+      "Laxman Utekar Eetha trailer"
     ],
     "images": [
       {
@@ -24238,10 +24244,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film",
-      "Ramayana box office prediction",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana release date"
+      "Ramayana",
+      "Ranbir Kapoor Ramayana box office",
+      "Namit Malhotra Ramayana",
+      "Ramayana release date November 5 2026"
     ],
     "images": [
       {
@@ -24347,11 +24353,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
+      "Jungkook Golden Spotify",
       "Jungkook Golden album",
-      "Golden Spotify streams",
-      "BTS Map Of The Soul 7",
-      "Jungkook Spotify history",
-      "BTS World Tour ARIRANG"
+      "BTS Jungkook Spotify streams",
+      "Jungkook Golden 1 billion streams"
     ],
     "images": [
       {
@@ -24540,8 +24545,8 @@ window.FA_ARTICLES = {
     "keywords": [
       "Udta Teer box office",
       "Ayushmann Khurrana Udta Teer",
-      "Udta Teer 2nd Friday collections",
-      "Sara Ali Khan Udta Teer"
+      "Sara Ali Khan Udta Teer",
+      "Udta Teer collection"
     ],
     "images": [
       {
@@ -26192,7 +26197,13 @@ window.FA_ARTICLES = {
         "source": "ARY Digital"
       }
     ],
-    "published": "2026-10-30T17:00:20Z"
+    "published": "2026-10-30T17:00:20Z",
+    "keywords": [
+      "Lagan Lagi Episode 7",
+      "Lagan Lagi ARY Digital",
+      "Lagan Lagi watch online",
+      "Lagan Lagi Episode 7 online"
+    ]
   },
   "86vit4": {
     "id": "86vit4",
@@ -41780,5 +41791,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 02:22:59 +0000"
+  },
+  "cjil28": {
+    "id": "cjil28",
+    "type": "news",
+    "headline": "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
+    "dek": "Namit Malhotra's upcoming mythological adaptation Ramayana: Part One has surged past Rs 100 crore in global opening-weekend advance sales, closing in on Dhurandhar 2's North American preview records.",
+    "body": [
+      {
+        "h": "Global Advance Sales Cross Major Milestone",
+        "p": [
+          "The highly anticipated mythological adaptation Ramayana: Part One has officially crossed the Rs 100 crore mark in worldwide opening-weekend advance bookings. Ahead of its scheduled theatrical arrival, the film has enjoyed robust pre-release momentum across domestic circuits as well as international territories.",
+          "Trade data indicates that the pre-sales have been propelled by expanding screen allocations and strong demand for earliest showtimes. This early financial milestone provides a solid foundation for the big-budget cinematic project."
+        ]
+      },
+      {
+        "h": "Domestic Contribution and Sacnilk Figures",
+        "p": [
+          "According to tracking reports from Sacnilk, the domestic advance gross for the opening days has crossed Rs 58 crore without blocked seats, and climbs to over Rs 72 crore when including blocked seats for the initial three-day run. When factoring in Sunday bookings, the domestic total pushes past Rs 60 crore gross with blocked seats included.",
+          "The theatrical rollout has benefited from additional screenings coming online across various regions, ensuring that demand spreads evenly beyond just the immediate opening-day rush."
+        ]
+      },
+      {
+        "h": "North American Benchmarks and Ticket Sales",
+        "p": [
+          "In North America, the movie has drawn intense scrutiny as its premiere ticket sales surpassed estimated benchmarks associated with seven major Indian blockbusters. These include Animal, Jawan, Pushpa 2, Pathaan, RRR, Baahubali 2, and Kalki 2898 AD.",
+          "With upwards of 51,000 tickets sold for its paid previews, the project is now nearing the final major benchmark held by Dhurandhar 2, which previously set a high bar with a reported $14 million five-day opening."
+        ]
+      },
+      {
+        "h": "Comparing Preview Metrics With Dhurandhar 2",
+        "p": [
+          "While crossing the estimated 52,000-ticket premiere benchmark of Dhurandhar 2 is within sight, trade analysts note that ticket counts and actual gross collections measure different aspects of box office performance. The eventual outcome will rely heavily on ticket pricing and sustained attendance throughout the extended weekend.",
+          "Data shows that over 1.40 lakh tickets have been booked across the initial five-day period in the US, with a significant concentration of roughly 37 percent dedicated solely to preview night."
+        ]
+      },
+      {
+        "h": "International Markets and Overseas Contribution",
+        "p": [
+          "Overseas markets outside of North America have contributed upwards of Rs 40 crore to the opening-weekend advance total. Countries like Australia and the United Kingdom are playing notable roles in bolstering the international tally.",
+          "Trade projections indicate that the film could target an overseas opening weekend exceeding $20 million, with potential to reach $25 million if secondary territories perform strongly."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Budget Scale",
+        "p": [
+          "Produced by Namit Malhotra and directed by Nitesh Tiwari, Ramayana: Part One features a high-profile ensemble cast led by Ranbir Kapoor as Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana. Additional key roles are portrayed by Sunny Deol, Ravi Dubey, Lara Dutta, Arun Govil, and Vivek Oberoi.",
+          "The project is structured as a two-part cinematic adaptation, with the second part slated for 2027. The massive reported budget of Rs 4,000 crore for the entire saga has placed immense commercial expectations on its box office journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has crossed Rs 100 crore in worldwide opening-weekend advance bookings ahead of its November 5 theatrical release. The film has surpassed multiple North American preview benchmarks and is closing in on the records set by Dhurandhar 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Rs 100 crore worldwide advance booking crossed",
+      "November 5 release date",
+      "November 4 paid previews in the US",
+      "Over 50,000 tickets sold for US paid previews",
+      "Namit Malhotra is the producer",
+      "Nitesh Tiwari is the director",
+      "Ranbir Kapoor stars as Rama",
+      "Sai Pallavi stars as Goddess Sita",
+      "Yash stars as Ravana",
+      "Rs 4,000 crore budget for the two-part saga"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Dhurandhar 2",
+        "Animal",
+        "Jawan",
+        "Pushpa 2",
+        "Pathaan",
+        "RRR",
+        "Baahubali 2",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ramayana Part One release",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-100-crore-032927195-16x9_0.jpeg?VersionId=grQPq2tmA2.tOXpvR4EuvRikZskEIUox",
+        "caption": "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 09:09:01 +0530"
+  },
+  "o2gc6h": {
+    "id": "o2gc6h",
+    "type": "news",
+    "headline": "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
+    "dek": "Media reports indicate that executive leadership at the entertainment giant has instructed certain supervisors to plan for substantial annual cost reductions.",
+    "body": [
+      {
+        "h": "Proposed Operational Adjustments and Mandated Reductions",
+        "p": [
+          "The Walt Disney Company is reportedly contemplating the elimination of thousands of jobs across its corporate structure. Certain managers have been given instructions to target significant annual cost reductions.",
+          "The anticipated workforce reductions stem from multiple operational pressures. These challenges include mounting competition from digital streaming platforms, softer box office ticket sales, softening international theme park visitor numbers, and the accelerating integration of artificial intelligence."
+        ]
+      },
+      {
+        "h": "Reinvestment Strategies Across Business Sectors",
+        "p": [
+          "Despite the planned downsizings, leadership intends to channel the financial savings back into several core business verticals. These reinvestment targets include television programming, cinematic releases, technological infrastructure, cruise line operations, and theme park attractions.",
+          "Internal directives suggest that certain operational departments within the sprawling organization will experience more severe workforce reductions than others."
+        ]
+      },
+      {
+        "h": "Total Workforce Scale and Recent Downsizing Events",
+        "p": [
+          "The precise overall impact on employees remains undetermined at this stage. Financial records indicate the company maintained a global workforce of roughly 231,000 individuals concluding the 2025 fiscal year.",
+          "The enterprise has already executed several rounds of staff reductions recently. Notably, the theme park division eliminated between one hundred and two hundred positions following regular strategic evaluations."
+        ]
+      },
+      {
+        "h": "Imagineering and Executive Retirement Packages",
+        "p": [
+          "The recent theme park division cuts directly affected employees within Imagineering, the creative and technical wing responsible for designing attractions, resorts, and live entertainment.",
+          "Prior to those operational trims, leadership introduced voluntary early retirement packages aimed at eligible executives as an initial step toward lowering overall expenditures."
+        ]
+      },
+      {
+        "h": "Internal Communications Regarding Transformation",
+        "p": [
+          "Chief People Officer Sonia Coleman addressed the workforce in an official internal memo detailing the ongoing structural transformation. The communication emphasized the necessity of meaningful cost reduction to fund future growth in content creation, technology, and guest experiences.",
+          "The enterprise previously eliminated one thousand roles in April, followed by additional targeted reductions in July and September that primarily affected technology and human resources departments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Walt Disney Company is weighing thousands of additional layoffs while instructing managers to pursue substantial cost savings. Facing pressures from streaming competition, box office declines, and emerging technologies, the organization plans to reinvest the resulting funds into future programming, parks, and experiences."
+        ]
+      }
+    ],
+    "facts": [
+      "The Walt Disney Company employed about 231,000 people at the end of the 2025 fiscal year.",
+      "The theme park division laid off between 100 and 200 people recently.",
+      "Disney eliminated 1,000 roles in April.",
+      "Additional staff cuts took place in July and September."
+    ],
+    "entities": {
+      "people": [
+        "Josh D’Amaro",
+        "Sonia Coleman"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "The Walt Disney Company layoffs",
+      "Josh D Amaro Disney cost cuts",
+      "Disney theme park Imagineering jobs",
+      "Sonia Coleman Disney memo"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/08/josh-damaro.jpg",
+        "caption": "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 03:36:09 +0000"
+  },
+  "1ksbxhl": {
+    "id": "1ksbxhl",
+    "type": "news",
+    "headline": "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
+    "dek": "Shah Rukh Khan celebrated his birthday by giving fans a romantic musical treat from his upcoming movie King, uniting him once again with Deepika Padukone.",
+    "body": [
+      {
+        "h": "A Birthday Release for Fans",
+        "p": [
+          "The makers of the upcoming movie King chose a special date to share new promotional material with the public. On November 2, coinciding with Shah Rukh Khan's birthday, a brand new romantic track from the feature film was officially unveiled.",
+          "Titled Tu Mil Jaaye, the newly released song highlights a fresh musical chapter for the project. Fans quickly flooded digital platforms to discuss the surprise gift that arrived alongside the actor's birthday celebration."
+        ]
+      },
+      {
+        "h": "Reuniting A Popular On-Screen Pair",
+        "p": [
+          "The release of Tu Mil Jaaye marks another cinematic collaboration between Shah Rukh Khan and Deepika Padukone. Audiences have previously celebrated their pairings in blockbuster titles such as Om Shanti Om, Chennai Express, and Happy New Year.",
+          "Their established chemistry takes center stage in the new music video, placing both actors in scenic settings where they share romantic moments and dance sequences together, giving viewers a deeper look into the aesthetic of King."
+        ]
+      },
+      {
+        "h": "Behind the Music and Dance",
+        "p": [
+          "A notable team of creative professionals contributed to the making of the track. The musical composition was crafted by Sachin-Jigar, while the vocal performances were delivered by Arijit Singh and Madhubanti Bagchi.",
+          "In addition to the main vocalists and composers, international artist Ed Sheeran is also associated with the track. Meanwhile, the choreography for the dance sequences was handled by the duo Piyush and Shazia."
+        ]
+      },
+      {
+        "h": "Social Media Reactions and Fan Response",
+        "p": [
+          "Clips and edits from the video began circulating across social media channels almost immediately after its premiere. Listeners expressed their appreciation for Arijit Singh's vocals, Shah Rukh's screen presence, and Deepika's appearance in the footage.",
+          "While many users praised the track as a chartbuster with an incredible vibe and high repeat value, other viewers offered mixed reviews, discussing elements ranging from the transition between romance and action to the visual backdrops."
+        ]
+      },
+      {
+        "h": "Glimpses Into the World of King",
+        "p": [
+          "Beyond its primary focus as a love song, the video offers subtle glimpses into the broader cinematic universe of the feature film. While the audio track highlights a softer emotional tone, the movie itself promises intense sequences.",
+          "The project features Shah Rukh Khan stepping into an action-oriented persona, balancing the romantic sensibilities showcased in the music video with high-octane elements hinted at in the footage."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Arrival",
+        "p": [
+          "Anticipation continues to build as the release date draws closer. King is scheduled to arrive in movie theatres on December 24, inviting audiences nationwide to experience the full story on the big screen.",
+          "The star-studded cast supporting the leads includes Suhana Khan, Abhishek Bachchan, and Abhay Verma, setting up a major box office arrival for the latter part of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of King released the romantic song Tu Mil Jaaye on November 2 to coincide with Shah Rukh Khan's birthday, reuniting him with Deepika Padukone. The track features compositions by Sachin-Jigar, vocals by Arijit Singh and Madhubanti Bagchi, and association with Ed Sheeran, ahead of the film's theatrical release on December 24."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's birthday is November 2",
+      "The song Tu Mil Jaaye was released on November 2, 2026",
+      "King is scheduled to hit theatres on December 24, 2026",
+      "The song features vocals by Arijit Singh and Madhubanti Bagchi",
+      "Music for the track was composed by Sachin-Jigar",
+      "Piyush-Shazia choreographed the dance sequences",
+      "Ed Sheeran is associated with the track",
+      "The cast of King includes Shah Rukh Khan, Deepika Padukone, Suhana Khan, Abhishek Bachchan, and Abhay Verma",
+      "Previous films starring Shah Rukh Khan and Deepika Padukone include Om Shanti Om, Chennai Express, and Happy New Year"
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Arijit Singh",
+        "Madhubanti Bagchi",
+        "Ed Sheeran",
+        "Piyush",
+        "Shazia",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Abhay Verma"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye",
+        "Om Shanti Om",
+        "Chennai Express",
+        "Happy New Year"
+      ]
+    },
+    "keywords": [
+      "Tu Mil Jaaye song",
+      "King movie song",
+      "Shah Rukh Khan Deepika Padukone",
+      "Arijit Singh new song"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/02153850/image-2.jpeg",
+        "caption": "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-03T03:52:26Z"
+  },
+  "o075m5": {
+    "id": "o075m5",
+    "type": "news",
+    "headline": "Bleecker Street Debuts Trailer for Mystery Drama The Liberation",
+    "dek": "Distributor Bleecker Street has issued a new preview for Guy Nattiv's upcoming mystery drama featuring Carrie Coon, Lily James, and Bella Ramsey.",
+    "body": [
+      {
+        "h": "Trailer Release and Distribution",
+        "p": [
+          "Distributor Bleecker Street has officially rolled out the promotional trailer for its upcoming dramatic feature, offering audiences their first extensive look at the project. The preview introduces viewers to the atmospheric tone of the picture and highlights its prominent ensemble cast.",
+          "The footage provides early glimpses into the central narrative conflicts, setting up the dramatic tension that drives the story forward as the main characters navigate their respective journeys."
+        ]
+      },
+      {
+        "h": "Director and Creative Team",
+        "p": [
+          "The project is directed by filmmaker Guy Nattiv, whose previous work includes the biographical drama Golda. Nattiv takes the helm for this new mystery-focused narrative, shaping its visual style and pacing.",
+          "The creative direction emphasizes psychological suspense and emotional isolation, utilizing the stark settings of the story to heighten the tension experienced by the characters."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story centers on a midlife woman named Rita, portrayed by Carrie Coon, who is burdened by memories of her turbulent past and seeks escape from her old life. In an effort to find peace, she departs from her family and travels to an isolated, all-female commune.",
+          "Complications arise when her daughters, Ella and Jo, unexpectedly track her down and become enthralled by the community's charismatic leader, Ricki. This sudden arrival forces Rita into a difficult dilemma regarding her loyalties."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Carrie Coon leads the production as the troubled protagonist Rita, anchoring the emotional core of the narrative as she attempts to reconcile her past choices with her desire for personal salvation.",
+          "Lily James appears alongside Coon as Ricki, the magnetic young spiritual guide who runs the commune. The supporting cast features Bella Ramsey and Odessa Young as Rita's daughters, alongside actor Tracy Letts."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Launch",
+        "p": [
+          "The feature is scheduled for an official release on January 8th, giving moviegoers a new dramatic option to kick off the new year in theaters.",
+          "Anticipation for the title has grown following the trailer release, drawing attention to its unique premise and high-profile cast members."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bleecker Street has released the official trailer for the mystery drama film The Liberation, directed by Guy Nattiv. The movie stars Carrie Coon, Lily James, and Bella Ramsey, and is scheduled for release on January 8th."
+        ]
+      }
+    ],
+    "facts": [
+      "Distributor: Bleecker Street",
+      "Film Title: The Liberation",
+      "Director: Guy Nattiv",
+      "Release Date: January 8th",
+      "Cast Members: Carrie Coon, Lily James, Bella Ramsey, Odessa Young, Tracy Letts"
+    ],
+    "entities": {
+      "people": [
+        "Carrie Coon",
+        "Lily James",
+        "Bella Ramsey",
+        "Guy Nattiv",
+        "Odessa Young",
+        "Tracy Letts"
+      ],
+      "titles": [
+        "The Liberation",
+        "Golda"
+      ]
+    },
+    "keywords": [
+      "The Liberation trailer",
+      "Carrie Coon The Liberation",
+      "Lily James Guy Nattiv film",
+      "Bella Ramsey mystery drama"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/The-Liberation-_-Official-Trailer-_-Bleecker-Street-1-45-screenshot.jpg",
+        "caption": "Bleecker Street Debuts Trailer for Mystery Drama The Liberation",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 03:00:16 +0000"
   }
 };
