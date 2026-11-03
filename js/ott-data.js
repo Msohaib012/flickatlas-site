@@ -62,6 +62,30 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-31",
+      "date_kind": "release",
+      "id": 1773374,
+      "providers": [
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-30",
       "date_kind": "release",
       "id": 289517,
@@ -926,6 +950,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1479832,
       "providers": [
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
         {
           "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
           "name": "Sun Nxt"

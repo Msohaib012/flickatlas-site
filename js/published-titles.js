@@ -9664,6 +9664,12 @@ window.FA_PUBLISHED = {
     "runtime": 142,
     "providers": [
       {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
         "name": "Sun Nxt",
         "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
         "region": "IN",
@@ -18902,7 +18908,32 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-31",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1803705": {
     "id": 1803705,

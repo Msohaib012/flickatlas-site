@@ -41404,5 +41404,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 02 Nov 2026 23:43:44 GMT"
+  },
+  "1tndj4a": {
+    "id": "1tndj4a",
+    "type": "news",
+    "headline": "Vivienne Jolie Officially Drops Pitt Surname in Legal Name Change",
+    "dek": "Vivienne Marcheline Jolie becomes the fourth child of Angelina Jolie and Brad Pitt to legally drop her father's last name following a court approval.",
+    "body": [
+      {
+        "h": "The Official Name Change",
+        "p": [
+          "Vivienne Marcheline Jolie has formally updated her name, removing her paternal surname of Pitt through a legal process. She now goes by Vivienne Marcheline Jolie, completing the procedure after a California judge approved the name change appeal during a Monday hearing.",
+          "The paperwork had been formally filed in mid-July, shortly after she celebrated her eighteenth birthday on July 12. Although the legal confirmation arrived recently, she had already been dropping the dual surname in public settings for some time."
+        ]
+      },
+      {
+        "h": "Following Sibling Precedents",
+        "p": [
+          "With this recent approval, Vivienne becomes the fourth child of Angelina Jolie and Brad Pitt to formally alter her surname. Her sibling Shiloh was the first of the six children to legally remove her father's name, securing her approval in August 2024.",
+          "Additionally, siblings Zahara Marley Jolie and Maddox Chivan Jolie saw their legal name change appeals approved earlier in September. These sequential updates highlight a broader trend among the siblings regarding their family names."
+        ]
+      },
+      {
+        "h": "Early Public Shifts",
+        "p": [
+          "Long before the formal court ruling, Vivienne had already signaled her preference by dropping the Pitt portion of her moniker professionally. In May 2024, she was credited simply as Vivienne Jolie while working as a producer's assistant on the Broadway production 'The Outsiders'.",
+          "Her involvement with the stage project allowed her to support her mother behind the scenes while utilizing her updated maternal surname in official playbills and promotional materials."
+        ]
+      },
+      {
+        "h": "Status of the Other Siblings",
+        "p": [
+          "The rest of the Jolie-Pitt children have also experienced various shifts in how they use their surnames. Her twin brother, Knox, appeared as Knox Jolie on his high school graduation diploma in June 2026, pointing to a similar transition even though a formal legal change has not been officially confirmed.",
+          "Meanwhile, Pax remains the only sibling who continues to use the combined Jolie-Pitt surname publicly, despite having previously voiced criticisms regarding his father."
+        ]
+      },
+      {
+        "h": "Background of the Parents",
+        "p": [
+          "The history of Angelina Jolie and Brad Pitt dates back to their collaboration on the action-comedy film 'Mr. Mrs. Smith'. During that period, Pitt was married to Jennifer Aniston, leading to a high-profile divorce that was finalized in March 2005.",
+          "Following their romance, Jolie and Pitt spent over a decade together, adopting and raising six children before marrying in August 2014. Their relationship ended in a separation in September 2016, which sparked a lengthy custody and divorce proceeding that concluded in December 2024."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vivienne Marcheline Jolie has legally dropped her father's surname, becoming the fourth of Angelina Jolie and Brad Pitt's children to change their name following a California judge's approval. The decision follows earlier professional adjustments on Broadway and mirrors similar choices made by several of her siblings amidst the conclusion of her parents' long divorce."
+        ]
+      }
+    ],
+    "facts": [
+      "Vivienne Marcheline Jolie dropped her father's surname legally.",
+      "A California judge approved the name change appeal during a Monday hearing.",
+      "She applied to legally change her name in mid-July after turning 18 on July 12.",
+      "Shiloh Jolie was the first sibling to legally drop her father's name in August 2024.",
+      "Zahara Marley Jolie and Maddox Chivan Jolie had their legal name change appeals approved in September.",
+      "Knox was listed as Knox Jolie on his high school graduation diploma in June 2026.",
+      "Angelina Jolie and Brad Pitt's divorce was officially finalised in December 2024."
+    ],
+    "entities": {
+      "people": [
+        "Angelina Jolie",
+        "Brad Pitt",
+        "Vivienne Marcheline Jolie",
+        "Shiloh Jolie",
+        "Zahara Marley Jolie",
+        "Maddox Chivan Jolie",
+        "Knox",
+        "Pax",
+        "Jennifer Aniston"
+      ],
+      "titles": [
+        "The Outsiders",
+        "Mr. Mrs. Smith"
+      ]
+    },
+    "keywords": [
+      "Vivienne Jolie",
+      "Angelina Jolie",
+      "Brad Pitt",
+      "Vivienne Marcheline Jolie name change"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135478391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vivienne Jolie Officially Drops Pitt Surname in Legal Name Change",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T07:00:57+05:30"
+  },
+  "ss4pcd": {
+    "id": "ss4pcd",
+    "type": "news",
+    "headline": "Neve Campbell Officially Confirms Her Return for 'Scream 8'",
+    "dek": "The iconic final girl Sidney Prescott will be back on the big screen as Neve Campbell verifies her involvement in the eighth installment of the slasher franchise.",
+    "body": [
+      {
+        "h": "Sidney Prescott Returns",
+        "p": [
+          "Horror fans can officially rejoice as Sidney Prescott is officially slated to make her triumphant return in the upcoming horror sequel 'Scream 8'.",
+          "Neve Campbell has publicly verified that she will reprise her legendary role as the ultimate final girl after surviving yet another brutal confrontation with the Ghostface-masked killers."
+        ]
+      },
+      {
+        "h": "Franchise Box Office Records",
+        "p": [
+          "The announcement follows the massive theatrical success of 'Scream 7', which arrived in theaters in the year 2025 and quickly became a major financial victory for the studio.",
+          "That film achieved the largest opening in the 30-year history of the franchise with $97.2 million worldwide, ultimately finishing its run as the highest-grossing entry in the series by hauling in $208 million worldwide against a $45 million budget."
+        ]
+      },
+      {
+        "h": "Studio Development",
+        "p": [
+          "Buoyed by the extraordinary commercial performance of the previous chapter, Spyglass Media and Paramount Pictures wasted very little time in getting the next sequel off the ground.",
+          "Paramount Pictures, which handles the distribution for the films, along with Spyglass Media, quickly shifted gears to begin active development on 'Scream 8'."
+        ]
+      },
+      {
+        "h": "The Confirmation Interview",
+        "p": [
+          "Campbell dropped the major casting news on a Monday while speaking during an interview with the Associated Press.",
+          "While she was primarily taking questions to promote her upcoming role in the Netflix series 'Black Doves', she casually listed the meta-horror movie among her active projects."
+        ]
+      },
+      {
+        "h": "Keeping Plot Details Under Wraps",
+        "p": [
+          "When journalists pressed the seasoned actress for specific plot points or what horrors Sidney will face this time around, she remained tight-lipped.",
+          "Campbell playfully demurred and laughed off the questions, confirming simply that she will be in the movie while noting she cannot share any further details yet."
+        ]
+      },
+      {
+        "h": "History of Contract Negotiations",
+        "p": [
+          "Campbell's journey with the slasher franchise has experienced some well-documented hurdles, notably when she sat out for 2023's 'Scream 6' following a major contract dispute.",
+          "She later returned for the subsequent installment after receiving a reported $7 million salary, having previously stated that the offer presented for the sixth movie did not fairly equate to the value she brought to the series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Neve Campbell has confirmed she will return as Sidney Prescott in the upcoming film 'Scream 8'. The announcement follows the historic box office success of 'Scream 7', paving the way for the next chapter in the long-running horror franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Neve Campbell confirmed her return for Scream 8 on Monday in an interview with the Associated Press.",
+      "Scream 7 was released in 2025 and grossed $208 million worldwide against a $45 million budget.",
+      "Scream 7 achieved a $97.2 million worldwide opening, the biggest in the 30-year franchise history.",
+      "Campbell sat out for Scream 6 in 2023 due to a contract dispute.",
+      "Campbell returned for Scream 7 after receiving a reported $7 million salary."
+    ],
+    "entities": {
+      "people": [
+        "Neve Campbell",
+        "Angelique Jackson"
+      ],
+      "titles": [
+        "Scream 8",
+        "Scream 7",
+        "Scream 6",
+        "Black Doves"
+      ]
+    },
+    "keywords": [
+      "Neve Campbell Scream 8",
+      "Sidney Prescott Scream 8",
+      "Scream 8 return",
+      "Neve Campbell interview"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/2263628431.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Neve Campbell Officially Confirms Her Return for 'Scream 8'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 01:09:49 +0000"
+  },
+  "1462whk": {
+    "id": "1462whk",
+    "type": "news",
+    "headline": "Vishwak Sen's Telugu Film 'Cult' Experiences Significant Box Office Slowdown on First Monday",
+    "dek": "Vishwak Sen's directorial venture 'Cult' witnessed a sharp 56% decline in collections on its fourth day in theaters, bringing its total domestic net to Rs 3.90 cr.",
+    "body": [
+      {
+        "h": "Box Office Slowdown on Monday",
+        "p": [
+          "The Telugu action-horror and psychological thriller 'Cult' encountered a steep weekday hurdle after wrapping up its opening weekend run. On Monday, November 2, the film pulled in Rs 55 lakh in India net earnings.",
+          "This figure represented a substantial 56% drop compared to the previous day's collection of Rs 1.25 crore, signaling the typical transition from high weekend numbers to quieter weekday business."
+        ]
+      },
+      {
+        "h": "Four-Day Cumulative Earnings",
+        "p": [
+          "Following its fourth day in cinemas, the cumulative worldwide gross for 'Cult' advanced to a total of Rs 5.20 crore. The domestic net collection accumulated to Rs 3.90 crore, while the domestic gross reached Rs 4.55 crore.",
+          "Overseas markets contributed an additional Rs 5 lakh on Monday, elevating the cumulative international gross to a total of Rs 65 lakh."
+        ]
+      },
+      {
+        "h": "Screen Count and Show Metrics",
+        "p": [
+          "During its fourth theatrical day, the feature was screened across 1,098 shows, yielding an average earning of Rs 5,009 per individual show. The India gross collection for that single day stood at Rs 65 lakh.",
+          "Across its entire four-day run from Friday through Monday, the production accumulated a total of 4,705 shows, with Monday's earnings alone making up 14.1% of the overall domestic net total."
+        ]
+      },
+      {
+        "h": "Initial Weekend Trajectory",
+        "p": [
+          "The theatrical journey commenced on Friday, October 30, with an opening of Rs 95 lakh in India net collections across 1,240 shows. Viewer numbers grew into the weekend, lifting Saturday's net collections to Rs 1.15 crore.",
+          "The upward momentum continued slightly into Sunday, November 1, when the project earned Rs 1.25 crore before experiencing the sharp Monday correction."
+        ]
+      },
+      {
+        "h": "Audience Occupancy Breakdown",
+        "p": [
+          "On Monday, the feature recorded an overall Telugu occupancy rate of 19.02%. Morning screenings started softly at 14.45%, and afternoon screenings rose modestly to 17.64%.",
+          "Later screenings proved relatively stronger among theatergoers, with evening and night time slots registering occupancies of 20.45% and 21.36%, respectively."
+        ]
+      },
+      {
+        "h": "Advance Booking Indicators for Tuesday",
+        "p": [
+          "Early data regarding advance bookings for Tuesday, November 3, provided a glimpse into the movie's performance on its fifth day. By early morning hours, ticket sales crossed thousands of entries.",
+          "Specifically, the project sold 78,584 tickets across 1,196 shows, pushing the gross advance booking collection to a total of Rs 95.96 lakh."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Team",
+        "p": [
+          "The project is spearheaded by Vishwak Sen, who took on multiple creative responsibilities by writing, directing, and starring as the lead actor. The supporting cast includes Gayatri Bharadwaj, Tarak Ponnappa, Murali Sharma, and Srikanth Iyengar.",
+          "Additionally, the film features musical compositions by Ravi Basrur and dialogue writing credited to Tharun Bhascker."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vishwak Sen's Telugu film 'Cult' saw its box office collections drop by 56% to Rs 55 lakh on its first Monday, bringing its four-day worldwide gross to Rs 5.20 crore. Despite the weekday slowdown, advance bookings for Tuesday indicate continued audience interest across its theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Cult collected Rs 55 lakh in India net earnings on Monday, November 2, 2026",
+      "Monday's collection marked a 56% decline from Sunday's Rs 1.25 cr",
+      "Worldwide gross reached Rs 5.20 cr after four days",
+      "Day 1 Friday October 30 net collection was Rs 95 lakh",
+      "Day 2 Saturday October 31 net collection was Rs 1.15 cr",
+      "Day 3 Sunday November 1 net collection was Rs 1.25 cr",
+      "Four-day domestic net total reached Rs 3.90 cr",
+      "Tuesday advance bookings reached Rs 95.96 lakh with 78,584 tickets sold"
+    ],
+    "entities": {
+      "people": [
+        "Vishwak Sen",
+        "Gayatri Bharadwaj",
+        "Tarak Ponnappa",
+        "Murali Sharma",
+        "Srikanth Iyengar",
+        "Ravi Basrur",
+        "Tharun Bhascker"
+      ],
+      "titles": [
+        "Cult"
+      ]
+    },
+    "keywords": [
+      "Cult film box office",
+      "Vishwak Sen Cult",
+      "Cult day 4 collection",
+      "Cult Telugu movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135478498,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vishwak Sen's Telugu Film 'Cult' Experiences Significant Box Office Slowdown on First Monday",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T07:15:00+05:30"
+  },
+  "df0h2l": {
+    "id": "df0h2l",
+    "type": "news",
+    "headline": "Korean Epic Romantic Drama 'The Remarried Empress' Moves Up Premiere Date",
+    "dek": "Fans of the hit Naver Webtoon adaptation will get their first look a day early, with Disney+ and Hulu dropping the first four episodes on November 3.",
+    "body": [
+      {
+        "h": "Early Launch Announced for K-Drama",
+        "p": [
+          "Audiences eagerly awaiting the arrival of the epic romantic K-drama The Remarried Empress received exciting news regarding its release schedule. The series is now set to debut a full day ahead of its original calendar slot, shifting from its planned November 4 launch to a November 3 premiere.",
+          "The surprising announcement was delivered during a press conference held in Seoul, South Korea. Organizers and creators shared that the schedule adjustment was intended as a special expression of gratitude to fans for their overwhelming enthusiasm and backing."
+        ]
+      },
+      {
+        "h": "Platform Availability and Schedule",
+        "p": [
+          "Viewers looking to stream the program can access it across major platforms. The series will launch its initial block of episodes simultaneously on both Disney+ and Hulu.",
+          "Following the four-episode premiere event on Tuesday, November 3, the release pattern will shift to a regular weekly cadence. Two new episodes will debut every Wednesday, leading up to the series finale on November 25."
+        ]
+      },
+      {
+        "h": "Stellar Star-Studded Cast",
+        "p": [
+          "The production features a prominent lineup of South Korean stars leading its ensemble. Shin Mina stars as Empress Navier, alongside Ju Jihoon in the role of Emperor Sovieshu.",
+          "Rounding out the principal cast are Lee Jongsuk, who portrays Crown Prince Heinrey of the Western Kingdom, and Lee Seyoung, bringing further star power to the epic television event."
+        ]
+      },
+      {
+        "h": "Source Material and Global Excitement",
+        "p": [
+          "The television project is based on the highly popular Naver Webtoon of the same name. The original webtoon has built a massive global footprint, accumulating close to three billion views to date.",
+          "Anticipation for the live-action adaptation has grown steadily over recent months. Key milestones included sold-out preview screenings at the Busan International Film Festival and a promotional trailer that cleared 13 million views within its first 48 hours across YouTube and social media channels."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Arc",
+        "p": [
+          "The story centers on the troubled dynamic between beloved Empress Navier and her husband, Emperor Sovieshu, rulers of the Eastern Empire. Tensions escalate across the land when Sovieshu falls for a runaway slave and goes to great lengths to win her affections.",
+          "Unwilling to compromise her personal dignity, Navier accepts the emperor's request under a single condition: that she be permitted to remarry her rival, Crown Prince Heinrey. This sets off a dramatic chain of events involving love, lust, and regret that threatens the stability of the entire realm."
+        ]
+      },
+      {
+        "h": "Creative Team Behind the Scenes",
+        "p": [
+          "Brought to the screen through careful adaptation, the series features scripts penned by Yeoh Geena and Hyun Choongyeol. Their writing translates the expansive webtoon narrative into a television format.",
+          "Directorial duties for the project are handled by Cho Suwon, whose past television credits include Still 17 and Pinocchio, guiding the dramatic tone of the imperial romance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The epic romantic K-drama The Remarried Empress is launching its first four episodes a day early on Disney+ and Hulu on November 3. Announced in Seoul as a thank you to fans, the series stars Shin Mina, Ju Jihoon, Lee Jongsuk, and Lee Seyoung, and adapts the hit webtoon that has amassed nearly three billion views."
+        ]
+      }
+    ],
+    "facts": [
+      "The Remarried Empress will launch with its first four episodes on Tuesday, November 3 on Disney+ and Hulu.",
+      "The premiere was moved up one day earlier than the originally scheduled November 4 premiere date.",
+      "The surprise reveal was announced during a press conference from Seoul, South Korea.",
+      "The series stars Shin Mina, Ju Jihoon, Lee Jongsuk and Lee Seyoung.",
+      "The trailer surpassed 13 million views in the first 48 hours on YouTube and social media platforms.",
+      "The original Naver Webtoon has amassed close to three billion views to date.",
+      "Following the four-episode premiere, two new episodes will drop every Wednesday through the series finale on November 25.",
+      "The series has been adapted by Yeoh Geena and Hyun Choongyeol and directed by Cho Suwon."
+    ],
+    "entities": {
+      "people": [
+        "Denise Petski",
+        "Shin Mina",
+        "Ju Jihoon",
+        "Lee Jongsuk",
+        "Lee Seyoung",
+        "Yeoh Geena",
+        "Hyun Choongyeol",
+        "Cho Suwon"
+      ],
+      "titles": [
+        "The Remarried Empress",
+        "Still 17",
+        "Pinocchio"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Shin Mina The Remarried Empress",
+      "Ju Jihoon Lee Jongsuk K-drama",
+      "The Remarried Empress release date"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/08/Remarried-Empess.jpg?w=830",
+        "caption": "Korean Epic Romantic Drama 'The Remarried Empress' Moves Up Premiere Date",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 02:22:59 +0000"
   }
 };
