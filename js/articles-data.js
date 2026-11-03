@@ -46476,5 +46476,584 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 13:34:01 GMT"
+  },
+  "un546n": {
+    "id": "un546n",
+    "type": "news",
+    "headline": "Izzat Episode 45 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 45 aired on 2026-11-03 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 45 aired on 2026-11-03 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=ig4yhed9FRM"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Rutba apne kamre mein udas bethi hai aur dada ji aur Sakina uske paas aakar kehte hain ke woh clinic ya office na jaye. Dada ji halwa-puri ka order dete hain taake woh kuch kha le lekin Rutba kuch nahi khana chahti. Dusri taraf, Saima aur Mohsin apas mein baat karte hain ke Mohsin ne kyun rishtay ki baat chheri, aur Saima kehti hai ke agar usne kisi pressure mein akar unki shadi karwa bhi di toh unka koi bharosa nahi hai. Tabhi Mohsin wahan aa jata hai aur dono ke samne ghusse mein kehta hai ke unko shadi ki baat nahi karni chahiye thi aur sab log Rutba ki izzat-e-nafs ke peechay khaday hain. Saima gher wapas aati hai aur Rayan se poochti hai ke woh Parnia ke ghar rishta lene kab jayega. Rayan kehta hai ke use wahan shadi nahi karni aur woh kisi aur tarah ki pareshani mein hai. Taya abu (Rayan ke walid) Rayan se naraz hote hain aur kehte hain ke agar unhe apni beti ki shadi ke liye baat karni parti toh woh zaroor karte. Baad mein, Taya abu aur Rayan dono Rutba ke ghar aate hain jahan Taya abu sab se maafi mangte hain aur kehte hain ke woh Rutba ka rishta wapas nahi le kar jana chahte. Phir Taya abu aur Rayan wapas chale jatay hain. Rutba apni behen se kehti hai ke uska dil ab us ghar jane ka nahi karta. Office mein, Rayan aur uska dost drugs case ki files check kar rahe hote hain aur baat karte hain ke yeh masla kitna barh gaya hai. Episode ke aakhir mein, Saima aur uske ghar wale baith kar baat kar rahe hote hain ke tabhi Mohsin phone par kisi se gusse mein baat karta hai aur episode yahi khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 45 aired on 2026-11-03.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=ig4yhed9FRM",
+      "YouTube views: 2,806.",
+      "Episode summary added 2026-11-03."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/ig4yhed9FRM/hqdefault.jpg",
+        "caption": "Izzat Episode 45",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-03T15:00:23Z"
+  },
+  "pb5ty1": {
+    "id": "pb5ty1",
+    "type": "news",
+    "headline": "Uswah Episode 42 — Watch Online on Geo TV",
+    "dek": "Uswah episode 42 aired on 2026-11-03 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 42 aired on 2026-11-03 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=aYZUENZSIN0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Eesaa aur Fariya ke darmiyan baatcheet hoti hai jahan Eesaa Fariya se kehta hai ke woh apni shadi wali baat aur apni zindagi ko serious nahi le rahi. Iske baad, Ghar mein nayi dulhan Anaya ki tayyari ko lekar Bhufo aur Abeera aate hain aur Anaya ko bhari joda pehnane par behs hoti hai, jahan Abeera aur Bhufo ke beech kuch nok-jhok bhi hoti hai. Baad mein, Mahabeer aur Anaya ke rishte aur shadi ki rasmon ke silsile mein sab khandan wale baithte hain, aur Bhufo sab se kehti hai ke Mahabeer aur Anaya ko honeymoon ya ghumne phirne jana chahiye, lekin Mahabeer office ki masroofiyat ki wajah se mana karta hai. Baad mein, Fariya aur Eesaa ek doosre ke kareeb aate hain aur Eesaa se kuch gila-shikwa bhi karti hai, jabke Eesaa apni mohabbat ka izhar karta hai. Episode ka ikhtetam is baat par hota hai ke Eesaa kitchen mein Anaya ke sath mazak karta hai jisse Anaya serious ho jati hai aur Eesaa ko yeh ehsas dilati hai ke woh kisi bhi cheez ko mazak mein na le, aur Eesaa bhi Anaya ko samajhta hai ke woh usse mohabbat karta hai aur usse kabhi door nahi jana chahta."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 42 aired on 2026-11-03.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=aYZUENZSIN0",
+      "YouTube views: 451,483.",
+      "Episode summary added 2026-11-03."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/aYZUENZSIN0/hqdefault.jpg",
+        "caption": "Uswah Episode 42",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-03T15:00:10Z"
+  },
+  "kdbaty": {
+    "id": "kdbaty",
+    "type": "news",
+    "headline": "Khushi Episode 52 — Watch Online on HUM TV",
+    "dek": "Khushi episode 52 aired on 2026-11-03 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 52 aired on 2026-11-03 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=TlyRLKSgN8c"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Humna apni ammi aur bhai Amar se gile-shikwe karti hai ke uski shadi ke dauran uske sath theek nahi hua. Phir Humna aur Saim kahin jane ke liye taiyar hote hain aur car mein baithte hain, jahan Saim se gift ke bare mein baat hoti hai. Ghar mein Samira bhabhi aur Amar Khushi ki salgirah ki tayari kar rahe hote hain, jabke Khushi apne kamre mein udas baithi hoti hai. Amar Khushi ko surprise dene ke liye use apne sath drawing room mein lata hai jahan sab mil kar Khushi ko salgirah ki mubarakbad dete hain aur cake kaatne ki rasam hoti hai. Kitchen mein ek chota sa hadsa hota hai jab Khushi ka dupatta chulhe ke qareeb aa jata hai aur Saim use bachane ki koshish karta hai, jise dekh kar Humna ko galat fehmi ho jati hai aur woh gusse mein chillane lagti hai. Humna is baat par bohot shor machati hai ke Saim aur Khushi sath the, aur woh ghar ke baki afraad ko bhi is bare mein batati hai. Baad mein, Samira bhabhi aur Saim ki ammi is bare mein baat karte hain ke Saim aur Khushi ke darmiyan kuch theek nahi chal raha aur ammi is baat par bohot pareshan aur sharminda hoti hain. Saim aur Khushi dono apne kamre mein akele baith kar is saari situation ke bare mein sochte hain aur bohot pareshan hote hain. Episode ke ikhtitam par Amar aur Samira bhabhi aapas mein baat kar rahe hote hain ke Khushi aur Saim ke halat abhi tak kharab hain aur Khushi bohot ro rahi hai, jabke Saim bhi office aur ghar ke dbaav mein pareshan dikhta hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 52 aired on 2026-11-03.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=TlyRLKSgN8c",
+      "YouTube views: 169,671.",
+      "Episode summary added 2026-11-03."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/TlyRLKSgN8c/hqdefault.jpg",
+        "caption": "Khushi Episode 52",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-03T15:00:02Z"
+  },
+  "1y7vh82": {
+    "id": "1y7vh82",
+    "type": "news",
+    "headline": "Dastoor Episode 74 — Watch Online on Green TV",
+    "dek": "Dastoor episode 74 aired on 2026-11-03 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 74 aired on 2026-11-03 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=fFv0iJn82yc"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 74 aired on 2026-11-03.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=fFv0iJn82yc",
+      "YouTube views: 70,517.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/fFv0iJn82yc/hqdefault.jpg",
+        "caption": "Dastoor Episode 74",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-03T14:45:00Z"
+  },
+  "j07j1b": {
+    "id": "j07j1b",
+    "type": "news",
+    "headline": "Mahaveer Jain Films Unveils New Logo Dedicated to Maa Saraswati and Inspired by Rajshri Legacy",
+    "dek": "Mahaveer Jain Films has revealed a spiritual new moving logo that draws inspiration from Rajshri's 79-year legacy and features a musical composition by Tanishk Bagchi.",
+    "body": [
+      {
+        "h": "Introduction of the New Identity",
+        "p": [
+          "The production banner Mahaveer Jain Films has officially refreshed its corporate branding by revealing a brand new moving logo. This updated visual design carries a distinct spiritual theme and is dedicated to Maa Saraswati, the revered Hindu deity associated with wisdom, knowledge, creativity, and music.",
+          "By aligning their brand identity with such divine principles, the studio aims to emphasize values of purity and spirituality in their upcoming cinematic ventures. The transition marks a notable step in the evolution of the production house as it steps forward with a renewed creative vision."
+        ]
+      },
+      {
+        "h": "Inspiration from Rajshri's Longstanding Legacy",
+        "p": [
+          "A major driving force behind the conception of this new logo is the remarkable 79-year filmmaking history of Rajshri Films. The legendary studio has spent nearly eight decades championing wholesome family entertainment rooted in traditional values, joy, and love.",
+          "Drawing from this rich heritage, Mahaveer Jain Films hopes to channel a similar ethos in their own storytelling approach. The creators noted that they sought the blessings of Maa Saraswati to guide their ongoing pursuit of artistic wisdom and creative excellence."
+        ]
+      },
+      {
+        "h": "The Musical Composition Behind the Title Card",
+        "p": [
+          "To bring the new title card to life on screen, renowned music composer Tanishk Bagchi crafted a custom auditory experience. His composition blends a deeply devotional atmosphere with modern cinematic grandeur.",
+          "The resulting audio-visual package is designed to captivate audiences the moment it plays in theaters, setting a spiritual and engaging tone right before the main feature begins."
+        ]
+      },
+      {
+        "h": "Theatrical Debut with Yeh Prem Mol Liya",
+        "p": [
+          "The newly designed logo is scheduled to make its very first appearance on the big screen with the upcoming movie Yeh Prem Mol Liya. Directed by Sooraj Barjatya, the film boasts a star-studded cast featuring Ayushmann Khurrana and Sharvari.",
+          "This theatrical release represents a significant milestone, making it the pioneer platform to display the banner's updated visual identity to general audiences worldwide."
+        ]
+      },
+      {
+        "h": "Continuing Creative Partnerships",
+        "p": [
+          "The connection between Rajshri and Mahaveer Jain Films is far from new, having previously collaborated on the 2022 film Uunchai. Their continued synergy highlights a shared commitment to producing meaningful stories for cinema lovers.",
+          "Yeh Prem Mol Liya further cements this creative alliance, bridging the traditional values upheld by Rajshri with the contemporary production outlook of Mahaveer Jain Films."
+        ]
+      },
+      {
+        "h": "Upcoming Slates and Future Projects",
+        "p": [
+          "Following the launch and theatrical run of Yeh Prem Mol Liya, Mahaveer Jain Films has already lined up several diverse projects for future release. Among these highly anticipated titles are Naagzilla and White.",
+          "These upcoming ventures indicate an active pipeline for the studio as they integrate their newly minted spiritual branding across a variety of upcoming cinematic genres."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mahaveer Jain Films has introduced a spiritual moving logo dedicated to Maa Saraswati, drawing inspiration from Rajshri Films' 79-year legacy and featuring music by Tanishk Bagchi. The new identity is set to make its theatrical debut in Sooraj Barjatya's Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari, before continuing into future projects like Naagzilla and White."
+        ]
+      }
+    ],
+    "facts": [
+      "Mahaveer Jain Films unveiled a new moving logo dedicated to Maa Saraswati.",
+      "The new logo is inspired by Rajshri Films' 79-year legacy.",
+      "The music for the new title card is composed by Tanishk Bagchi.",
+      "The logo will make its theatrical debut with Yeh Prem Mol Liya.",
+      "Yeh Prem Mol Liya is directed by Sooraj Barjatya and stars Ayushmann Khurrana and Sharvari.",
+      "Mahaveer Jain Films and Rajshri previously collaborated on Uunchai in 2022.",
+      "Mahaveer Jain Films has Naagzilla and White set for release after Yeh Prem Mol Liya."
+    ],
+    "entities": {
+      "people": [
+        "Mahaveer Jain",
+        "Sooraj Barjatya",
+        "Tanishk Bagchi",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Maa Saraswati"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Uunchai",
+        "Naagzilla",
+        "White",
+        "Rajshri Films",
+        "Mahaveer Jain Films"
+      ]
+    },
+    "keywords": [
+      "Mahaveer Jain Films logo",
+      "Yeh Prem Mol Liya",
+      "Sooraj Barjatya",
+      "Ayushmann Khurrana Sharvari",
+      "Rajshri Films legacy"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/EXCLUSIVE-Mahaveer-Jain-Films-new-logo-takes-inspiration-from-Rajshris-79-year-legacy-to-debut-with-Sooraj-Barjatyas-Yeh-Prem-Mol-Liya.jpg",
+        "caption": "Mahaveer Jain Films Unveils New Logo Dedicated to Maa Saraswati and Inspired by Rajshri Legacy",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 20:06:03 +0200"
+  },
+  "1pq5wei": {
+    "id": "1pq5wei",
+    "type": "news",
+    "headline": "ITN Distribution Unveils Trailer for Winnie-the-Pooh: Blood and Honey – The Lost Years Ahead of 2027 Release",
+    "dek": "The Twisted Childhood Universe expands further as a fresh trailer drops for the latest installment from Jagged Edge Productions, leading directly into the upcoming crossover event Poohniverse: Monsters Assemble.",
+    "body": [
+      {
+        "h": "Expanding the Twisted Childhood Universe",
+        "p": [
+          "ITN Distribution has officially shared a brand new promotional trailer for Winnie-the-Pooh: Blood and Honey – The Lost Years. This project serves as the newest chapter within Jagged Edge Productions' expanding catalog of public domain children's stories reimagined into horror features.",
+          "The ongoing series operates under the banner of the Twisted Childhood Universe. This latest preview acts as a crucial stepping stone leading directly into the highly anticipated, Avengers-style franchise crossover event titled Poohniverse: Monsters Assemble."
+        ]
+      },
+      {
+        "h": "A Sinister Carnivalesque Plot",
+        "p": [
+          "The storyline kicks off following the brutal capture of iconic characters Pooh, Tigger, and Rabbit by the villainous Woozles Circus. Fifteen long years pass by, turning the once-feral creatures into captive attractions managed by a traveling carnival.",
+          "This twisted operation is overseen by a trio of mysterious figures: the occult showman Shandor, the mysterious ringmaster Karna, and the immortal ringmaster Balthazar. The carnival transforms beloved childhood icons into macabre spectacles for audiences."
+        ]
+      },
+      {
+        "h": "Momo Milne's Dangerous Infiltration",
+        "p": [
+          "Parallel to the circus narrative, an orphan named Momo Milne embarks on a desperate mission to uncover the truth regarding her missing mother. Her search eventually traces her mother's final known whereabouts directly to Woozles Ltd.",
+          "Accompanied by her outspoken best friend Billie, Momo manages to infiltrate the bizarre circus operations by securing employment among its eccentric performers. They soon realize they have stepped straight into a nightmare."
+        ]
+      },
+      {
+        "h": "Uncovering Horrifying Secrets",
+        "p": [
+          "Working inside the carnival grounds, the two girls quickly uncover a series of deeply disturbing secrets hiding behind the flashy lights. The spectacle masks drugged half-human creatures, unexplained disappearances, and gruesome killings.",
+          "Momo soon realizes that her mother's mysterious vanishing is directly connected to the darkest secrets of the circus. She must navigate a reality where classic fairy tales have transformed into blood-soaked nightmares."
+        ]
+      },
+      {
+        "h": "Survival Against Monstrous Companions",
+        "p": [
+          "Trapped in a deadly environment, Momo faces the daunting task of surviving encounters with Pooh and his monstrous companions. Every move counts as she tries to piece together the truth.",
+          "She must unravel the mystery before she inevitably becomes the newest fatal act in the deadly ongoing show run by the Woozles organization."
+        ]
+      },
+      {
+        "h": "Cast and Release Details",
+        "p": [
+          "The horror feature boasts a sizable ensemble cast bringing the dark narrative to life. Featured performers include Josephine Blazier, Scott Chambers, George Drogo Montague, Lewis Santer, and Jacob Marshfield.",
+          "Additional cast members rounding out the production are Kira Reed, Leo Harris, Zena Donnelly, Paul Black, Oliver Price, Richard Stanley, and Roger L. Jackson. Fans can expect the film to debut in January 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ITN Distribution released a trailer for Winnie-the-Pooh: Blood and Honey – The Lost Years, marking another entry in Jagged Edge Productions' Twisted Childhood Universe before the Poohniverse: Monsters Assemble crossover. The film follows an orphan named Momo infiltrating a sinister circus to find her missing mother and is scheduled for a January 2027 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Winnie-the-Pooh: Blood and Honey – The Lost Years is distributed by ITN Distribution.",
+      "The film is produced by Jagged Edge Productions.",
+      "The release is scheduled for January 2027.",
+      "Cast members include Josephine Blazier, Scott Chambers, George Drogo Montague, Lewis Santer, Jacob Marshfield, Kira Reed, Leo Harris, Zena Donnelly, Paul Black, Oliver Price, Richard Stanley, and Roger L. Jackson."
+    ],
+    "entities": {
+      "people": [
+        "Josephine Blazier",
+        "Scott Chambers",
+        "George Drogo Montague",
+        "Lewis Santer",
+        "Jacob Marshfield",
+        "Kira Reed",
+        "Leo Harris",
+        "Zena Donnelly",
+        "Paul Black",
+        "Oliver Price",
+        "Richard Stanley",
+        "Roger L. Jackson",
+        "Gary Collinson"
+      ],
+      "titles": [
+        "Winnie-the-Pooh: Blood and Honey – The Lost Years",
+        "Poohniverse: Monsters Assemble",
+        "The Baby in the Basket",
+        "Death Among the Pines",
+        "Robert Returns",
+        "Holy Franchise, Batman! Bringing the Caped Crusader to the Screen"
+      ]
+    },
+    "keywords": [
+      "Winnie-the-Pooh Blood and Honey The Lost Years",
+      "Twisted Childhood Universe",
+      "Jagged Edge Productions",
+      "Poohniverse Monsters Assemble"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/winnie-the-pooh-blood-and-honey-3-image.jpg",
+        "caption": "ITN Distribution Unveils Trailer for Winnie-the-Pooh: Blood and Honey – The Lost Years Ahead of 2027 Release",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 15:44:03 +0000"
+  },
+  "1ph1oqn": {
+    "id": "1ph1oqn",
+    "type": "news",
+    "headline": "Film Industry Body AICWA Appeals to Prime Minister Modi for Action Amid Rising Threats to Bollywood Stars",
+    "dek": "Following a series of violent incidents, extortion demands, and armed attacks targeting prominent film personalities, the All Indian Cine Workers Association has formally requested central intervention and enhanced security.",
+    "body": [
+      {
+        "h": "Appeal to the Prime Minister",
+        "p": [
+          "The All Indian Cine Workers Association has formally written to Prime Minister Narendra Modi to demand comprehensive protection for members of the Bollywood film community and their relatives. Published on November 3, 2026, the urgent appeal requests the direct involvement of central authorities to address an alarming escalation in violence.",
+          "Highlighting a wave of armed shootings, targeted assaults, and alleged extortion attempts, the association has called upon central investigative bodies, specifically mentioning the National Investigation Agency, to probe the underlying criminal networks operating across state and international borders."
+        ]
+      },
+      {
+        "h": "Amitabh Bachchan Behind Bulletproof Glass",
+        "p": [
+          "The association drew specific attention to an unusual public appearance by veteran actor Amitabh Bachchan at his Mumbai residence, Jalsa. For more than forty years, the 84-year-old superstar has maintained a weekly tradition of greeting crowds of local and international fans every Sunday.",
+          "However, during his November 1 appearance, the actor stood behind protective glass while his son, Abhishek Bachchan, stood by his side. The film body noted that seeing a legendary figure resort to such security measures inside his own city left the entire entertainment fraternity deeply shaken."
+        ]
+      },
+      {
+        "h": "Recent Incidents and Attacks",
+        "p": [
+          "The letter to the Prime Minister compiled several alarming security breaches involving major Bollywood figures. These included the murder of politician Baba Siddique in Bandra, gunfire outside Salman Khan's home, a knife attack on Saif Ali Khan at his residence, and shooting incidents near filmmaker Rohit Shetty's Juhu property.",
+          "Additional security concerns cited by the association involved gunfire targeting comedian Kapil Sharma's cafe located in Canada, alongside a dangerous daylight shooting incident involving Tiger Shroff in the crowded Juhu area of Mumbai."
+        ]
+      },
+      {
+        "h": "The Tiger Shroff Juhu Incident",
+        "p": [
+          "Detailing the incident involving Tiger Shroff, the association emphasized that the actor had no known controversies or personal enmities. The shooting occurred in a heavily populated VIP locality in broad daylight, resulting in two individuals getting hit by bullets.",
+          "The film body argued that the primary motive behind targeting someone in such a public manner was purely to sow terror and intimidate the broader entertainment community."
+        ]
+      },
+      {
+        "h": "Extortion and the Return of Underworld Terror",
+        "p": [
+          "According to the association, these violent episodes form part of a coordinated extortion racket exploiting Bollywood's immense global visibility. Criminal syndicates reportedly view the film industry as an accessible target to gain notoriety and extract massive sums of money.",
+          "The letter also referenced reported extortion demands involving an amount of five crore rupees directed at Tusshar Kapoor. The association expressed concern that the underworld terror once thought suppressed has reemerged on Mumbai streets in 2026."
+        ]
+      },
+      {
+        "h": "Fortifying Homes and Vehicles",
+        "p": [
+          "The growing climate of fear has compelled many prominent actors to drastically overhaul their personal security infrastructure. Major stars have resorted to turning their residential properties and everyday transport into heavily fortified units.",
+          "Salman Khan and Akshay Kumar were noted among the personalities who have installed bulletproof glass at their homes and incorporated bulletproof vehicles into their daily travel routines as protective precautions."
+        ]
+      },
+      {
+        "h": "Broader Implications for Public Safety",
+        "p": [
+          "The association argued that the breakdown of security affecting high-profile celebrities directly reflects a declining law-and-order situation for ordinary citizens in Mumbai. If prominent stars lack safety in high-security zones, the general public faces similar vulnerabilities.",
+          "Consequently, the film body insisted that mere statements are inadequate, demanding concrete, visible protection and robust investigations into the financiers and handlers running these criminal operations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The All Indian Cine Workers Association has urged Prime Minister Narendra Modi to intervene and provide central protection for Bollywood stars following a series of violent attacks, shootings, and extortion threats. Highlighting incidents involving Amitabh Bachchan, Tiger Shroff, and other prominent figures, the film body called for a National Investigation Agency probe into the resurgence of underworld terror in Mumbai."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of AICWA letter: November 3, 2026",
+      "Amitabh Bachchan age: 84 years old",
+      "Date of Amitabh Bachchan's Sunday appearance at Jalsa: November 1",
+      "Extortion demand amount mentioned: Rs 5 crore"
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Abhishek Bachchan",
+        "Suresh Shyam Lal Gupta",
+        "Baba Siddique",
+        "Salman Khan",
+        "Saif Ali Khan",
+        "Rohit Shetty",
+        "Kapil Sharma",
+        "Tiger Shroff",
+        "Tusshar Kapoor",
+        "Akshay Kumar",
+        "Narendra Modi"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "AICWA letter PM Modi",
+      "Amitabh Bachchan Jalsa security",
+      "Tiger Shroff Juhu attack",
+      "Bollywood extortion threats 2026"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/aicwa-flags-threats-to-bollywood-stars-032609119-16x9_0.jpg?VersionId=wTYj7l7g2nB06juVKWkc36tv8Xeh9zTP",
+        "caption": "Film Industry Body AICWA Appeals to Prime Minister Modi for Action Amid Rising Threats to Bollywood Stars",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 21:01:25 +0530"
+  },
+  "1t77rju": {
+    "id": "1t77rju",
+    "type": "news",
+    "headline": "Michael Douglas Recalls Fatal Attraction Snub, Argues Glenn Close Deserved the Oscar Over Cher",
+    "dek": "Nearly forty years after their hit thriller released, Michael Douglas defended his co-star Glenn Close on The Graham Norton Show, asserting she should have won the Academy Award instead of Cher.",
+    "body": [
+      {
+        "h": "A Decades-Old Grievance Revisited",
+        "p": [
+          "Michael Douglas continues to harbor strong opinions regarding the 1988 Academy Awards, nearly forty years after the event took place. The acclaimed actor appeared alongside his former co-star on a recent episode of The Graham Norton Show, where the conversation steered toward the prestigious accolades that have eluded his fellow cast member throughout her celebrated career.",
+          "Reflecting on their iconic 1987 thriller and romance project, Douglas firmly stated that his on-screen partner's riveting portrayal of the character Alex Forrest should have secured her the coveted trophy. The actor made it clear that, in his view, the performance remains one of the most glaring oversights in Oscar history."
+        ]
+      },
+      {
+        "h": "The 1988 Best Actress Race",
+        "p": [
+          "During the late-night talk show appearance, Douglas detailed how his co-star received her very first Academy Award nomination in 1988 for her work in the tense drama. However, the golden statuette ultimately went to Cher for her vibrant performance as Loretta Castorini in the romantic comedy Moonstruck.",
+          "When host Graham Norton expressed surprise at the outcome, Douglas noted that it mirrored the exact reaction shared by the film's cast and crew at the time. The audience responded with laughter as the actor recalled the collective astonishment over the historic category loss."
+        ]
+      },
+      {
+        "h": "Cher's Sole Academy Award Win",
+        "p": [
+          "The victory for Moonstruck remains the only competitive Academy Award win in Cher's career, though the multi-talented entertainer also earned a previous nomination for Best Supporting Actress in the 1983 film Silkwood.",
+          "Despite her enduring cultural legacy in both music and film, that single win stands apart from the staggering number of times her fellow nominee has been recognized by the Academy without ultimately taking home the prize."
+        ]
+      },
+      {
+        "h": "Glenn Close's Historic Nomination Record",
+        "p": [
+          "While Cher holds a single competitive victory, the star of the 1987 thriller has faced a notably different trajectory with the Academy. She has accumulated a remarkable eight nominations throughout her illustrious career, yet has consistently missed out on winning the competitive trophy.",
+          "This long-standing pattern of recognition without a win has frequently been discussed by film critics and fans alike as one of the most prominent anomalies in Hollywood award history."
+        ]
+      },
+      {
+        "h": "An Upcoming Honorary Oscar",
+        "p": [
+          "The prolonged drought for the veteran actress is finally reaching a celebratory conclusion. The Academy announced that the acclaimed performer is scheduled to receive an Honorary Academy Award at the organization's upcoming 17th Governors Awards event.",
+          "The Academy released a statement praising her extraordinary body of work and unparalleled emotional range, which has brought some of the most complex characters in cinematic history to life."
+        ]
+      },
+      {
+        "h": "Fellow Honorary Award Recipients",
+        "p": [
+          "The prestigious honorary accolade will not be presented to her alone during the upcoming ceremony. Several other prominent figures in the motion picture industry are also slated to receive the lifetime achievement honor alongside her.",
+          "Animator Floyd Norman, director Ridley Scott, and producers Christine Vachon and Pamela Koffler join the esteemed list of honorees for their exceptional contributions to the arts and sciences of cinema."
+        ]
+      },
+      {
+        "h": "Recent Revelations From Michael Douglas",
+        "p": [
+          "The commentary about the 1988 awards race is not the only recent headline-generating statement made by Douglas. The actor recently opened up about a long-kept Hollywood secret in his newly published memoir titled One Helluva Ride.",
+          "In the book, he admitted to a past romantic involvement with actress Kathleen Turner during the production of their adventure film Romancing the Stone while filming on location in Mexico. Although the romance had long been whispered about as one of the worst-kept secrets in the industry, both stars had previously denied the reports in interviews."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Michael Douglas recently voiced his opinion on The Graham Norton Show that Glenn Close should have won an Oscar for Fatal Attraction instead of Cher. Close, who has been nominated eight times without a competitive win, is set to receive an Honorary Academy Award in November."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael Douglas starred alongside Glenn Close in Fatal Attraction in 1987.",
+      "Glenn Close has been nominated for eight Academy Awards.",
+      "Cher won an Academy Award for Moonstruck in 1988.",
+      "Cher was previously nominated for Best Supporting Actress in Silkwood in 1983.",
+      "Glenn Close is set to receive an Honorary Academy Award on November 15 at the 17th Governors Awards.",
+      "Other recipients of the honorary award include Floyd Norman, Ridley Scott, Christine Vachon, and Pamela Koffler.",
+      "Michael Douglas revealed in his memoir, One Helluva Ride, that he and Kathleen Turner were romantically involved during the filming of Romancing the Stone."
+    ],
+    "entities": {
+      "people": [
+        "Michael Douglas",
+        "Glenn Close",
+        "Cher",
+        "Graham Norton",
+        "Kathleen Turner",
+        "Floyd Norman",
+        "Ridley Scott",
+        "Christine Vachon",
+        "Pamela Koffler"
+      ],
+      "titles": [
+        "Fatal Attraction",
+        "Moonstruck",
+        "Silkwood",
+        "Romancing the Stone",
+        "One Helluva Ride"
+      ]
+    },
+    "keywords": [
+      "Michael Douglas Fatal Attraction",
+      "Glenn Close Oscar win",
+      "Cher Moonstruck Academy Award",
+      "Michael Douglas memoir One Helluva Ride"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt695ce04502dc36b3/6ae9e2792c6f4d47bd71441e/Screenshot_2026-11-03_at_13.32.18.png",
+        "caption": "Michael Douglas Recalls Fatal Attraction Snub, Argues Glenn Close Deserved the Oscar Over Cher",
+        "source": "UNILAD"
+      }
+    ],
+    "published": "2026-11-03T14:29:58.393Z"
   }
 };
