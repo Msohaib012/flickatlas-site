@@ -44911,5 +44911,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-03T10:51:22Z"
+  },
+  "1ycem21": {
+    "id": "1ycem21",
+    "type": "news",
+    "headline": "VJ Siddhu Steps Into Directorial Arena with College Comedy 'Dayangaram'",
+    "dek": "Popular content creator VJ Siddhu is launching his directorial career in Tamil cinema with Dayangaram, an upcoming campus comedy slated for a Pongal 2027 theatrical arrival.",
+    "body": [
+      {
+        "h": "Transition from Digital Creator to Director",
+        "p": [
+          "Well-known digital content creator VJ Siddhu is embarking on an exciting new chapter in his career by stepping behind the camera. He is making his feature film directorial debut in the Tamil film industry with the upcoming project titled Dayangaram.",
+          "Having built a dedicated following through his engaging online videos and comedic style, Siddhu is now expanding his creative footprint. This feature film marks a major milestone in his transition from internet personality to a full-fledged cinematic storyteller."
+        ]
+      },
+      {
+        "h": "Taking on Dual Responsibilities On and Off Screen",
+        "p": [
+          "In addition to handling directorial duties, VJ Siddhu is taking on the primary responsibility of starring in the film. He steps into the lead acting role, bringing his signature comedic flair to a narrative centered around youth culture.",
+          "This dual role allows him to directly shape both the overarching vision of the project and its on-screen execution. It represents a significant expansion of his artistic capabilities within the regional film sector."
+        ]
+      },
+      {
+        "h": "Teaser Highlights Campus Life and Comedy",
+        "p": [
+          "The promotional campaign for the film officially kicked off with the release of an introductory teaser. The preview opens with a memorable line establishing that their upcoming enterprise must be unforgettable, immediately setting a youthful tone.",
+          "Visuals in the teaser indicate that the story unfolds within a university environment, emphasizing themes of companionship and lighthearted humor. Lively imagery and an energetic musical score contribute to the project's appeal for younger demographic groups."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Special Appearances",
+        "p": [
+          "Dayangaram features a diverse group of performers supporting the narrative. The ensemble includes recognized actors such as Natty Nataraj, Harshath Khan, Kali Venkat, Ilavarasu, Aditya Kathir, and Sushmita Shetty.",
+          "Additionally, the cast incorporates internet personality Mallesh Kannan alongside members of Siddhu's regular online production crew. The project also boasts a special guest appearance by filmmaker Ashwath Marimuthu."
+        ]
+      },
+      {
+        "h": "Music and Production Milestones",
+        "p": [
+          "The audio elements of the movie are spearheaded by composer Siddhu Kumar, whose vibrant background tracks are highlighted in the promotional teaser. His score aims to elevate the comedic and youthful energy of the scenes.",
+          "Production on the feature concluded earlier in the year, with principal photography wrapping up in July. The recent unveiling of the teaser serves as the primary catalyst for the movie's ongoing promotional rollout."
+        ]
+      },
+      {
+        "h": "Building on Previous Acting Experience",
+        "p": [
+          "Before taking charge of his own directorial project, Siddhu established a presence in mainstream Tamil features. He previously made his acting debut and appeared in Pradeep Ranganathan's film Dragon.",
+          "That foundational exposure to commercial filmmaking has paved the way for him to helm an entire production. Fans of his previous work have eagerly awaited this comprehensive cinematic venture."
+        ]
+      },
+      {
+        "h": "Festival Release Window Confirmed",
+        "p": [
+          "The creative team has finalized a major theatrical launch window for the project. Dayangaram is scheduled to hit cinema screens during the upcoming Pongal festival season.",
+          "This holiday timing positions the campus comedy to attract substantial family and youth audiences as moviegoers head to theaters for the festive celebrations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Internet personality VJ Siddhu is expanding his career by directing and starring in the upcoming Tamil film Dayangaram, which focuses on college life, friendship, and comedy. Supported by an ensemble cast and music by Siddhu Kumar, the project has released its first teaser and locked in a theatrical premiere for the Pongal festival."
+        ]
+      }
+    ],
+    "facts": [
+      "VJ Siddhu is making his directorial debut with Dayangaram.",
+      "The film is scheduled for a Pongal 2027 theatrical release.",
+      "Principal photography for Dayangaram was completed in July.",
+      "The cast includes Natty Nataraj, Harshath Khan, Kali Venkat, Ilavarasu, Aditya Kathir, and Sushmita Shetty.",
+      "Ashwath Marimuthu makes a special appearance in the film.",
+      "Siddhu Kumar is the music composer for the project."
+    ],
+    "entities": {
+      "people": [
+        "VJ Siddhu",
+        "Ashwath Marimuthu",
+        "Natty Nataraj",
+        "Harshath Khan",
+        "Kali Venkat",
+        "Ilavarasu",
+        "Aditya Kathir",
+        "Sushmita Shetty",
+        "Mallesh Kannan",
+        "Siddhu Kumar",
+        "Pradeep Ranganathan"
+      ],
+      "titles": [
+        "Dayangaram",
+        "Dragon"
+      ]
+    },
+    "keywords": [
+      "VJ Siddhu Dayangaram",
+      "Dayangaram teaser",
+      "Dayangaram Pongal 2027",
+      "VJ Siddhu director"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135495107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "VJ Siddhu Steps Into Directorial Arena with College Comedy 'Dayangaram'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T17:17:22+05:30"
+  },
+  "139n180": {
+    "id": "139n180",
+    "type": "news",
+    "headline": "World War II Drama 'Pressure' Starring Brendan Fraser and Andrew Scott Heads to Netflix",
+    "dek": "Focus Features' historical thriller Pressure, led by Andrew Scott and Brendan Fraser, prepares to arrive on Netflix in the United States following its theatrical run and Peacock debut.",
+    "body": [
+      {
+        "h": "The Netflix Arrival of Pressure",
+        "p": [
+          "The World War II historical drama Pressure is officially expanding its streaming footprint by preparing for its release on Netflix. Led by prominent award-winning actors, the feature film is scheduled to land on the platform for US audiences on November 30th, 2026.",
+          "This upcoming transition follows a deliberate distribution pathway that initially took the production to theaters earlier in the year, followed by an exclusive SVOD debut on Peacock during the summer months."
+        ]
+      },
+      {
+        "h": "Background and Source Material",
+        "p": [
+          "Directed and edited by Anthony Maras, known for Hotel Mumbai, the film is an adaptation of a lauded 2014 stage play written by Olivier Award-winner David Haig. Maras and Haig collaborated closely to bring the gripping narrative from the stage to the screen.",
+          "The theatrical release took place on May 29th, 2026, strategically positioned just before the annual D-Day remembrance. Critics praised the Working Title and StudioCanal production for transforming meteorological work into a high-stakes, single-setting war room thriller."
+        ]
+      },
+      {
+        "h": "Plot and Historical Context",
+        "p": [
+          "The narrative unfolds across the tense seventy-two hours leading up to the Allied invasion of Normandy in June 1944. Scottish chief meteorological officer Group Captain James Stagg and Supreme Allied Commander General Dwight D. Eisenhower find themselves at the center of a monumental choice.",
+          "Haunted by the tragic failure of a pre-D-Day rehearsal known as Exercise Tiger weeks prior, Eisenhower relies on Stagg to help make an impossible decision. The two figures must clash over conflicting forecasts while the fate of the free world hangs in the balance."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "Andrew Scott steps into the role of Group Captain James Stagg, bringing intense dramatic weight to the character's meteorological responsibilities. Opposite him, Brendan Fraser portrays General Dwight D. Eisenhower, leading the Allied command with gravitas.",
+          "The supporting ensemble features Kerry Condon as Eisenhower's aide Kay Summersby, Chris Messina as rival American meteorologist Colonel Irving Krick, and Damian Lewis as Field Marshal Bernard Montgomery. Additional cast members include Con O’Neill, Jojo Macari, Tamsin Topolski, and Alexander Hanson."
+        ]
+      },
+      {
+        "h": "Streaming Window Details",
+        "p": [
+          "The availability of Pressure on Netflix is governed by a fast-tracked eighteen-month Pay-1 window agreement involving Universal Pictures and Focus Features. Following theatrical and PVOD windows, titles spend four months exclusively on Peacock before transitioning.",
+          "After landing on Peacock on July 24th, 2026, the film will move to Netflix US for a ten-month run lasting through late September 2027. International regions, particularly in Europe where StudioCanal handled distribution, will follow separate regional licensing schedules."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The World War II drama Pressure, starring Brendan Fraser and Andrew Scott, is officially set to arrive on Netflix in the United States on November 30th, 2026. Directed by Anthony Maras and adapted from David Haig's stage play, the film follows military figures navigating tense weather forecasts ahead of the Normandy invasion."
+        ]
+      }
+    ],
+    "facts": [
+      "Pressure is scheduled to arrive on Netflix in the US on November 30th, 2026.",
+      "The film was directed and edited by Anthony Maras and co-written by David Haig.",
+      "Pressure was released in US theaters on May 29th, 2026.",
+      "The initial SVOD debut on Peacock took place on July 24th, 2026.",
+      "The film stars Brendan Fraser as General Dwight D. Eisenhower and Andrew Scott as Group Captain James Stagg."
+    ],
+    "entities": {
+      "people": [
+        "Brendan Fraser",
+        "Andrew Scott",
+        "Anthony Maras",
+        "David Haig",
+        "James Stagg",
+        "Dwight D. Eisenhower",
+        "Kerry Condon",
+        "Kay Summersby",
+        "Chris Messina",
+        "Irving Krick",
+        "Damian Lewis",
+        "Bernard Montgomery",
+        "Con O’Neill",
+        "Jojo Macari",
+        "Tamsin Topolski",
+        "Alexander Hanson",
+        "Curry Barker"
+      ],
+      "titles": [
+        "Pressure",
+        "Hotel Mumbai",
+        "The Banshees of Inisherin",
+        "Air",
+        "Band of Brothers",
+        "Obsession",
+        "The Super Mario Galaxy Movie"
+      ]
+    },
+    "keywords": [
+      "Pressure film Netflix",
+      "Brendan Fraser Pressure",
+      "Andrew Scott Pressure movie",
+      "Pressure release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/pressure-movie-coming-to-netflix.jpg",
+        "caption": "World War II Drama 'Pressure' Starring Brendan Fraser and Andrew Scott Heads to Netflix",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 11:48:07 +0000"
+  },
+  "13i4eyo": {
+    "id": "13i4eyo",
+    "type": "news",
+    "headline": "Akshay Kumar and Saif Ali Khan's Crime Thriller 'Haiwaan' Headed to OTT After Theatrical Run",
+    "dek": "Priyadarshan's neo-noir crime thriller Haiwaan, starring Akshay Kumar and Saif Ali Khan, is reportedly making its way to SonyLIV following its cinema release.",
+    "body": [
+      {
+        "h": "The Journey to Digital Screens",
+        "p": [
+          "The neo-noir crime thriller Haiwaan is preparing to transition from cinema halls to the digital space, bringing its suspenseful narrative to home viewers. Following its theatrical debut, audiences eager to catch the action from their living rooms have been tracking updates regarding its digital premiere.",
+          "While reports indicate that the feature is locked in for an online launch, specific calendar dates remain unconfirmed by the studio. Enthusiasts of the leading cast will need to exercise patience until an official announcement solidifies the streaming schedule."
+        ]
+      },
+      {
+        "h": "Streaming Destination Confirmed",
+        "p": [
+          "Industry reports point to SonyLIV as the designated digital home for the Akshay Kumar and Saif Ali Khan starrer. The platform is expected to host the movie once its box office window concludes.",
+          "As anticipation builds across fan communities, viewers continue to monitor announcements from the service providers for the official premiere date."
+        ]
+      },
+      {
+        "h": "A Historic On-Screen Reunion",
+        "p": [
+          "The project brings together two major Bollywood stars nearly two decades after they shared the frame in Tashan. This second major collaboration has drawn considerable attention from followers of mainstream Hindi cinema.",
+          "The film opened to mixed responses from critics and ticket buyers when it arrived on the big screen, yet the novelty of the dual lead pairing remains a key talking point."
+        ]
+      },
+      {
+        "h": "Roots and Legacy",
+        "p": [
+          "Directed by Priyadarshan, the movie serves as an adaptation of the filmmaker's 2016 Malayalam-language feature Oppam. The original creator even makes a special cameo appearance in this Hindi translation.",
+          "Additionally, the project holds a poignant milestone as the final screen performance of the veteran actor Asrani, who passed away in 2025, adding an emotional layer to its cinematic legacy."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Saif Ali Khan stars as Shyam Rane, a visually impaired maintenance supervisor working at a luxury housing complex in Mumbai. Despite his lack of sight, he possesses extraordinary auditory, olfactory, and spatial senses, alongside formal martial arts training.",
+          "Shyam shares a close bond with Justice Pradhan, a retired Chief Justice portrayed by Boman Irani. Pradhan's past judicial decisions catch up with him when a former inmate seeks vengeance, setting off a dangerous chain of events."
+        ]
+      },
+      {
+        "h": "Suspense and Investigation",
+        "p": [
+          "After Justice Pradhan is murdered, Shyam finds himself under police suspicion while desperately trying to safeguard the jurist's daughter, Nandini, who resides at a missionary school in Dehradun.",
+          "Utilizing his heightened sensory perceptions, Shyam navigates the dangerous investigation, striving to stay ahead of both law enforcement and the lurking threat."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Crew",
+        "p": [
+          "Priyadarshan handled both co-writing and directing duties for the feature. The supporting roster features Boman Irani, Shriya Pilgaonkar, and Saiyami Kher.",
+          "With prominent performers and a seasoned director at the helm, the thriller blends high-stakes action with a tense murder mystery before its upcoming digital premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The crime thriller Haiwaan, starring Akshay Kumar and Saif Ali Khan, is heading to SonyLIV for its digital release following a theatrical run that began on September 11. Directed by Priyadarshan, the film marks an 18-year reunion for the lead actors and serves as the final screen appearance of the late actor Asrani."
+        ]
+      }
+    ],
+    "facts": [
+      "Haiwaan was released in cinemas on September 11.",
+      "The film is directed by Priyadarshan.",
+      "It stars Akshay Kumar and Saif Ali Khan.",
+      "The movie is reportedly heading to SonyLIV.",
+      "The two lead actors reunite after 18 years following Tashan.",
+      "The film is a remake of the 2016 Malayalam film Oppam.",
+      "Veteran actor Asrani passed away in 2025.",
+      "Saif Ali Khan plays Shyam Rane, a visually impaired maintenance manager."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Saif Ali Khan",
+        "Priyadarshan",
+        "Asrani",
+        "Mohanlal",
+        "Boman Irani",
+        "Shriya Pilgaonkar",
+        "Saiyami Kher"
+      ],
+      "titles": [
+        "Haiwaan",
+        "Tashan",
+        "Oppam"
+      ]
+    },
+    "keywords": [
+      "Haiwaan OTT release",
+      "Akshay Kumar Saif Ali Khan film",
+      "Haiwaan SonyLIV",
+      "Priyadarshan Haiwaan movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135494320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Akshay Kumar and Saif Ali Khan's Crime Thriller 'Haiwaan' Headed to OTT After Theatrical Run",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T16:45:48+05:30"
+  },
+  "1w7cpp4": {
+    "id": "1w7cpp4",
+    "type": "news",
+    "headline": "Eetha Trailer Impact At Box Office Day 1: Shraddha Kapoor Set To Deliver Her Fifth Consecutive 10 Crore Opener!",
+    "dek": "Shraddha Kapoor is gearing up for her theatrical return with Eetha, aiming to secure her fifth consecutive opening day collection exceeding 10 crore net.",
+    "body": [
+      {
+        "h": "Introduction to Shraddha Kapoor's Return",
+        "p": [
+          "Following the monumental success of the all-time blockbuster Stree 2, actress Shraddha Kapoor is preparing to make her much-awaited comeback on the big screen after a two-year hiatus. Her upcoming project, titled Eetha, is generating significant anticipation among moviegoers as it marks her next major theatrical outing.",
+          "With several other high-profile films withdrawing their initial release plans for the first week of December, Shraddha's movie finds itself enjoying a clear window with virtually no major theatrical competition during its arrival."
+        ]
+      },
+      {
+        "h": "Background and Creative Team",
+        "p": [
+          "The excitement surrounding the project is heavily amplified by the star's recent career peak, driven by Stree 2 crossing the massive milestone of 620 crore net. Furthermore, audience curiosity has soared with the revelation that she will step into the shoes of the legendary Tamasha and Lavani artist Vithabai Narayangaonkar.",
+          "Adding to the strong creative momentum, the film is directed by Laxman Utekar, who is transitioning into this project on the heels of the historic success of Chhaava, thereby raising expectations for the final cinematic product."
+        ]
+      },
+      {
+        "h": "Trailer Reception and Digital Metrics",
+        "p": [
+          "The promotional campaign officially kicked off when the trailer was unveiled on October 30. Since its release, the promo has maintained a dominant position, claiming the number one spot on YouTube's movies trending chart.",
+          "Hosted on the official Maddock Films channel, the trailer has accumulated an impressive 27 million views alongside 252K likes, marking a notable milestone for a female-centric feature while drawing predominantly positive responses from viewers."
+        ]
+      },
+      {
+        "h": "Character Portrayal and Regional Appeal",
+        "p": [
+          "Within the trailer, Shraddha Kapoor is showcased in a demanding, performance-heavy role that highlights her dramatic acting capabilities and anchors an intriguing narrative package.",
+          "Despite the positive initial traction, industry observers note a potential limitation regarding the subject matter, as its core appeal may initially be restricted to the state of Maharashtra before spreading wider through positive word of mouth."
+        ]
+      },
+      {
+        "h": "Release Timing and Calendar Context",
+        "p": [
+          "The film is scheduled to hit theatres on December 4. This placement constitutes a standard non-holiday release, meaning the production will not benefit from any extended festive weekend advantages during its opening phase.",
+          "Nonetheless, the absence of direct box-office clashes and the strong initial buzz help balance out the lack of a holiday cushion as the opening date approaches."
+        ]
+      },
+      {
+        "h": "Day 1 Box Office Projections",
+        "p": [
+          "Current box office assessments, formulated strictly on the back of the trailer's market impact, project that Eetha is poised to collect between 10 crore and 15 crore net at the Indian box office on its opening day.",
+          "There remains a strong possibility that these figures could see an upward revision as additional promotional assets, particularly the upcoming musical tracks, are rolled out to the public."
+        ]
+      },
+      {
+        "h": "Legacy of Consecutive Openers",
+        "p": [
+          "Should the film achieve its projected opening day target, it will successfully establish a remarkable milestone for the lead actress by registering her fifth consecutive 10 crore net opener in the domestic market.",
+          "Her established streak of high-earning openers includes Street Dancer 3D at 10.26 crore, Baaghi 3 at 17.5 crore, Tu Jhoothi Main Makkaar at 15.73 crore, and the record-setting Stree 2 at 64.8 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shraddha Kapoor is preparing for her return to the big screen with Eetha on December 4, following her blockbuster success in Stree 2. Backed by director Laxman Utekar and a popular trailer released on October 30, the film is projected to open between 10 and 15 crore net, marking her fifth consecutive opening above the 10 crore threshold."
+        ]
+      }
+    ],
+    "facts": [
+      "Shraddha Kapoor stars in Eetha, releasing on December 4.",
+      "The trailer for Eetha was released on October 30.",
+      "The trailer reached #1 on YouTube's movies trending chart with 27 million views and 252K likes on Maddock Films' channel.",
+      "Eetha Day 1 box office is projected at 10-15 crore net.",
+      "Shraddha Kapoor's previous consecutive 10 crore openers include Street Dancer 3D (10.26 crore), Baaghi 3 (17.5 crore), Tu Jhoothi Main Makkaar (15.73 crore), and Stree 2 (64.8 crore).",
+      "Stree 2 scored 620 crore+ net.",
+      "Shraddha Kapoor portrays Vithabai Narayangaonkar in the film.",
+      "Laxman Utekar is the director of Eetha."
+    ],
+    "entities": {
+      "people": [
+        "Shraddha Kapoor",
+        "Vithabai Narayangaonkar",
+        "Laxman Utekar"
+      ],
+      "titles": [
+        "Eetha",
+        "Stree 2",
+        "Chhaava",
+        "Street Dancer 3D",
+        "Baaghi 3",
+        "Tu Jhoothi Main Makkaar"
+      ]
+    },
+    "keywords": [
+      "Eetha film",
+      "Shraddha Kapoor Eetha",
+      "Eetha trailer box office",
+      "Laxman Utekar Eetha"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/eetha-trailer-impact-at-box-office-day-1-shraddha-kapoor-set-to-deliver-her-fifth-consecutive-10-crore-opener.jpg",
+        "caption": "Eetha Trailer Impact At Box Office Day 1: Shraddha Kapoor Set To Deliver Her Fifth Consecutive 10 Crore Opener!",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 11:04:06 +0000"
   }
 };
