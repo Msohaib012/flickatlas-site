@@ -43714,5 +43714,422 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 06:30:18 GMT"
+  },
+  "15tnse3": {
+    "id": "15tnse3",
+    "type": "news",
+    "headline": "Rise And Fall 2 November 3 Episode Highlights: Triple Eviction Twist and Heated Clash Between Swara and Shehzad",
+    "dek": "A high-stakes episode of Rise And Fall 2 introduces a looming triple eviction, a basement demotion for Manish Kashyap and Sonam Malik, and an explosive argument between Swara Bhasker and Shehzad Poonawalla.",
+    "body": [
+      {
+        "h": "Rising Discontent in the Tower",
+        "p": [
+          "The atmosphere inside the Rise And Fall 2 Tower reaches a boiling point following recent power moves and ranking decisions. Contestants find their long-standing bonds tested as strategic choices open up new fractures among the inhabitants.",
+          "Old loyalties are severely questioned, and bruised egos dictate daily interactions. The fallout from Gautam Gulati's rankings and Shehzad Poonawalla's decision to send Manish Kashyap and Sonam Malik to the Basement reverberates across every corner of the house."
+        ]
+      },
+      {
+        "h": "Fallout Over Basement Demotions",
+        "p": [
+          "Sonam Malik feels deeply betrayed by Gautam Gulati, who defends his choice as a necessary step for the benefit of the Penthouse and its Rulers. His explanations fail to pacify her, while the Rulers' attempts to calm the Workers only breed further suspicion downstairs.",
+          "Down in the quarters, the Workers perceive the Rulers' conciliatory gestures as a veiled threat. With Manish Kashyap and Sonam confined to the Basement, every single contestant now feels the looming threat of nomination hanging over their heads."
+        ]
+      },
+      {
+        "h": "Swara and Shehzad Clash Openly",
+        "p": [
+          "Friendships continue to fracture as Swara Bhasker confronts Shehzad Poonawalla for failing to save her, reminding him that she previously came to his rescue twice. The conversation quickly escalates into a full-scale argument touching upon their complicated equations with Gautam Gulati.",
+          "Karan Patel points out the risky nature of their political gambles, but Shehzad remains defensive. The verbal sparring intensifies when Shehzad brings up Swara's past voting choices, prompting her to retort by bringing up past grievances from outside the show."
+        ]
+      },
+      {
+        "h": "Virender Sehwag Raises the Stakes",
+        "p": [
+          "Host Virender Sehwag arrives to heighten the tension within the Tower, bringing major twists and turning points ahead of the grand finale. He officially awards Manish Kashyap the title of King of the Basement to shake up the dynamics.",
+          "Sehwag also puts Shehzad on the spot by offering him an opportunity to hand over his final ticket to another contestant, since Shehzad had previously expressed a desire to leave the Tower. Shehzad ultimately selects Swara, leading the host to playfully label it as damage control."
+        ]
+      },
+      {
+        "h": "Triple Eviction Threat Looms",
+        "p": [
+          "Six Workers find themselves directly under the eviction cloud: Priyanka Chahar Choudhary, Jashwanth Bopanna, Sonam Malik, Manish Kashyap, Rishabh Jaiswal, and Niharika Tiwari. The audience steps in to save Priyanka and Niharika.",
+          "This leaves Manish, Jashwanth, Rishabh, and Sonam squarely on tenterhooks as the triple eviction twist approaches its climax. Every remaining contestant must now brace for the unpredictable powerplay outcomes."
+        ]
+      },
+      {
+        "h": "Audience Reactions and Scrutiny",
+        "p": [
+          "Virender Sehwag brings external audience comments and reactions directly into the Tower to spotlight past rivalries and questionable decisions. Gautam and Priyanka are called in first to review their previous showdown and Priyanka's controversial decision to shift the prize pot to six lakh rupees.",
+          "The host warns Gautam that his harsh Gauti persona could ultimately cost him the trophy if he is not careful. Later, Sehwag strongly objects when Shehzad refers to Priyanka as a vamp during a discussion, demanding that he retract the remark."
+        ]
+      },
+      {
+        "h": "Production and Streaming Details",
+        "p": [
+          "Produced by Banijay Asia and hosted by Virender Sehwag, Rise And Fall 2 continues to stream fresh daily episodes at twelve noon. Viewers can watch the reality series free and exclusively on Prime Video.",
+          "The show is additionally accessible through MX Player by Prime Video across Android devices, mobile platforms, connected televisions, the Amazon shopping app, and Fire TV."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rise And Fall 2 delivers high drama in its November 3 episode with a triple eviction threat and basement demotions for Manish Kashyap and Sonam Malik. Host Virender Sehwag steers intense audience scrutiny while contestants like Swara Bhasker and Shehzad Poonawalla clash over past alliances."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode date is November 3.",
+      "Rise And Fall 2 is produced by Banijay Asia.",
+      "Virender Sehwag hosts Rise And Fall 2.",
+      "The show streams on Prime Video and MX Player.",
+      "Manish Kashyap and Sonam Malik were sent to the Basement.",
+      "Six Workers under the eviction cloud were Priyanka Chahar Choudhary, Jashwanth Bopanna, Sonam, Manish, Rishabh Jaiswal, and Niharika Tiwari."
+    ],
+    "entities": {
+      "people": [
+        "Gautam Gulati",
+        "Shehzad Poonawalla",
+        "Manish Kashyap",
+        "Sonam Malik",
+        "Swara Bhasker",
+        "Karan Patel",
+        "Priyanka Chahar Choudhary",
+        "Jashwanth Bopanna",
+        "Rishabh Jaiswal",
+        "Niharika Tiwari",
+        "Virender Sehwag"
+      ],
+      "titles": [
+        "Rise And Fall 2"
+      ]
+    },
+    "keywords": [
+      "Rise And Fall 2",
+      "Rise And Fall 2 November 3 episode",
+      "Virender Sehwag Rise And Fall 2",
+      "Swara Bhasker Shehzad Poonawalla",
+      "Rise And Fall 2 triple eviction"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/riseandfall2nov3ep39updated1-71541793691544.jpg",
+        "caption": "Rise And Fall 2 November 3 Episode Highlights: Triple Eviction Twist and Heated Clash Between Swara and Shehzad",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:12:32 +0530"
+  },
+  "1fbuaju": {
+    "id": "1fbuaju",
+    "type": "news",
+    "headline": "Julia Stiles and Ezra Sosa Eliminated on Disney Night in Dancing With The Stars Season 35",
+    "dek": "The ballroom transformed for a magical Broadway-themed evening, but the night concluded with a surprising exit for Julia Stiles and Ezra Sosa.",
+    "body": [
+      {
+        "h": "A Magical Ballroom Transformation",
+        "p": [
+          "The popular competition series recently welcomed audiences back into the ballroom for a whimsical, Disney-inspired evening filled with Broadway-themed routines. Only eight remaining couples were left in the running, putting their best foot forward to impress both the panel of experts and the viewing public.",
+          "Contestants performed vibrant numbers inspired by legendary animated classics, beloved tales, and famous stage productions. The evening delivered plenty of memorable highlights, ranging from standout choreographies to energetic group performances."
+        ]
+      },
+      {
+        "h": "Unusual Schedule Adjustment",
+        "p": [
+          "This week's installment deviated from the show's customary broadcast routine by airing on a Monday night instead of the usual Tuesday slot. The network implemented this change to clear the schedule for upcoming live television coverage of the United States midterm elections."
+        ]
+      },
+      {
+        "h": "Broadway Night Inspiration",
+        "p": [
+          "The special themed installment drew direct inspiration from famous Broadway productions and timeless cinematic tales. Competitors delivered routines set to music from popular favorites like Peter Pan, Tangled, and Beauty and the Beast.",
+          "In addition to animated classics, the ballroom saw performances honoring celebrated stage productions including Aida and Hamilton, showcasing the versatility of the remaining celebrity contestants and their professional partners."
+        ]
+      },
+      {
+        "h": "A Shocking Elimination",
+        "p": [
+          "Despite a magical atmosphere, the evening concluded on a disheartening note for actress Julia Stiles and her professional partner Ezra Sosa. The pair faced an unexpected exit from the competition after landing at the bottom of the combined results.",
+          "Their departure caught many viewers by surprise, particularly because the duo had shown noticeable improvement following criticism from a guest judge during the previous week. Their individual routine earned a solid score, followed by additional points during the team dance."
+        ]
+      },
+      {
+        "h": "Leaderboard Dominance",
+        "p": [
+          "At the top of the leaderboard, Harry Shum Jr. and his professional partner Jenna Johnson continued their impressive streak of dominance. Following a flawless score during the previous week's special, the talented duo secured another perfect score from the judges.",
+          "They were joined at the pinnacle of the rankings by Jenna Dewan and Val Chmerkovskiy, who also earned a maximum score for their magical night performance, keeping the competition fierce among the frontrunners."
+        ]
+      },
+      {
+        "h": "Final Standings",
+        "p": [
+          "When individual and team dance scores were combined, the standings revealed a tight race among the remaining pairs. Harry Shum Jr. and Jenna Johnson claimed the top spot, tied with Jenna Dewan and Val Chmerkovskiy at the absolute summit.",
+          "Further down the list, competitors like Ezra Frech, Connor Wood, Amber Glenn, Tatyana Ali, and Maura Higgins found themselves positioned across the leaderboard, while Julia Stiles and Ezra Sosa ultimately faced their elimination from the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dancing With The Stars Season 35 held a special Monday night broadcast for its Broadway-themed Disney Night ahead of midterm election coverage. The episode concluded with the unexpected elimination of Julia Stiles and Ezra Sosa, while top pairs like Harry Shum Jr. and Jenna Johnson maintained their leaderboard dominance with perfect scores."
+        ]
+      }
+    ],
+    "facts": [
+      "Dancing With The Stars Season 35 aired its Week 8 episode on Monday, November 2, 2026.",
+      "Julia Stiles and Ezra Sosa were eliminated from the competition.",
+      "Harry Shum Jr. and Jenna Johnson scored a perfect 40/40 on Disney Night.",
+      "Jenna Dewan and Val Chmerkovskiy also scored a perfect 40/40.",
+      "Julia Stiles and Ezra Sosa scored 33 out of 40 for their individual routine and earned 36 points during the team dance, totaling 69 out of 80."
+    ],
+    "entities": {
+      "people": [
+        "Julia Stiles",
+        "Ezra Sosa",
+        "Shirley Ballas",
+        "Harry Shum Jr.",
+        "Jenna Johnson",
+        "Jenna Dewan",
+        "Val Chmerkovskiy",
+        "Ezra Frech",
+        "Daniella Karagach",
+        "Amber Glenn",
+        "Pasha Pashkov",
+        "Tatyana Ali",
+        "Jan Ravnik",
+        "Maura Higgins",
+        "Mark Ballas",
+        "Connor Wood",
+        "Rylee Arnold"
+      ],
+      "titles": [
+        "Dancing With The Stars",
+        "Peter Pan",
+        "Tangled",
+        "Beauty and the Beast",
+        "Aida",
+        "Hamilton"
+      ]
+    },
+    "keywords": [
+      "Dancing With The Stars Season 35",
+      "Julia Stiles DWTS elimination",
+      "DWTS Disney Night 2026",
+      "Harry Shum Jr Jenna Johnson DWTS"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature97-48021793692021.jpg",
+        "caption": "Julia Stiles and Ezra Sosa Eliminated on Disney Night in Dancing With The Stars Season 35",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:17:57 +0530"
+  },
+  "1pp71wa": {
+    "id": "1pp71wa",
+    "type": "news",
+    "headline": "Mohammad Rasoulof Highlights Jafar Panahi's Sentence at Tokyo Kurosawa Akira Award Press Conference",
+    "dek": "Iranian director Mohammad Rasoulof and Japanese filmmaker O Mipo accepted Tokyo's prestigious Kurosawa Akira Award, using the platform to discuss ongoing industry pressures, the reality of political repression, and the challenges of balancing filmmaking with family life.",
+    "body": [
+      {
+        "h": "Kurosawa Akira Award Recognition",
+        "p": [
+          "The Tokyo International Film Festival highlighted two distinct cinematic voices by naming Iranian director Mohammad Rasoulof and Japanese filmmaker O Mipo as the recipients of the esteemed Kurosawa Akira Award. During a joint press conference, both creators reflected on their respective artistic journeys, the obstacles they overcame, and the enduring power of visual storytelling.",
+          "The selection committee, headed by Yamada Yoji alongside director Lee Sang-il, cinematographer Ashizawa Akiko, and programming director Ichiyama Shozo, evaluated candidates based on their contributions to cinema and their courage in addressing complex societal themes."
+        ]
+      },
+      {
+        "h": "Addressing Iranian Cinema Repression",
+        "p": [
+          "Accepting the honor, Mohammad Rasoulof turned attention toward the systematic challenges faced by artists in his home country, asserting that Iranian cinema remains heavily suppressed. He spoke out about the immense pressure placed on his peers and colleagues within the industry.",
+          "To illustrate the severity of the ongoing clampdown, Rasoulof brought up the recent legal actions taken against fellow filmmaker Jafar Panahi. He noted that Panahi, who secured the Palme d'Or at Cannes previously, received another harsh sentence consisting of five additional years behind bars alongside the seizure of his personal property."
+        ]
+      },
+      {
+        "h": "Moving Away From Allegory",
+        "p": [
+          "Rasoulof shared how his artistic perspective transformed following his own 2010 arrest while working on a production, which resulted in a five-year prison sentence. Confined in a cell, he questioned the justification behind penalizing artists for making motion pictures.",
+          "Historically, classical Persian poets relied on metaphor and allegory to shield their work from authorities, a technique Rasoulof initially adopted to evade the regime. However, his time in confinement convinced him to abandon self-protective storytelling in favor of addressing heavy themes directly without running away."
+        ]
+      },
+      {
+        "h": "Honoring Rasoulof's Bold Filmography",
+        "p": [
+          "The festival selection committee specifically commended Rasoulof for his fearless exploration of human rights abuses and state-enforced oppression. They spotlighted his acclaimed features 'There Is No Evil' and 'The Seed of the Sacred Fig' for portraying even the enforcers of oppressive systems as ordinary citizens.",
+          "Growing up, Rasoulof watched the Kurosawa classic 'Red Beard' over ten times on Iranian state television. Today, the Kurosawa picture that offers him the most solace is 'Dersu Uzala,' which he turns to whenever feelings of hopelessness arise in order to reconnect with life and rediscover hope."
+        ]
+      },
+      {
+        "h": "O Mipo's Return After a Nine-Year Hiatus",
+        "p": [
+          "Co-recipient O Mipo discussed her long absence from directing, which spanned nine years as she raised her two sons. After welcoming her first child in 2015 and a second in 2020, she initially believed her career in the film industry had permanently ended because she could not successfully balance parenting with active production.",
+          "Her perspective shifted dramatically while watching the Japan Academy Film Prize ceremony on television. Hearing best actress winner Ando Sakura state plainly that filmmaking and child-rearing cannot be performed simultaneously provided O with a profound sense of relief and the motivation needed to resume her professional career."
+        ]
+      },
+      {
+        "h": "Crafting 'How Dare You?' With Children",
+        "p": [
+          "Marking her comeback, O directed her first feature in nearly a decade, 'How Dare You?,' utilizing unconventional casting methods. Instead of traditional auditions, she hosted weekend workshops involving large groups of children, ultimately selecting mostly first-time actors rather than trained child performers.",
+          "Despite a common viewer misconception that the film relied on hidden cameras or improvised scenes, O confirmed that the project followed a complete screenplay written alongside Takada Ryo. The production involved rigorous rehearsals where the natural phrasing of the young cast helped shape the dialogue organically."
+        ]
+      },
+      {
+        "h": "Legacy and Cinematic Ideals",
+        "p": [
+          "The Kurosawa committee praised O for her empathetic lens regarding individuals on the margins of society, noting her 2006 debut 'The Sakai's Happiness' as well as her sensitive handling of children in 'Being Good,' 'Living in Two Worlds,' and 'How Dare You?' Discovering Kurosawa's 'Rashomon' during her student years, she later trained under Obayashi Nobuhiko.",
+          "Reflecting on the industry, O voiced her desire for crews to prioritize their personal lives and families over grueling work expectations. Both honorees underscored a shared belief in Kurosawa's vision that cinema holds the transformative beauty and power to foster peace worldwide."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmakers Mohammad Rasoulof and O Mipo received the Kurosawa Akira Award at the Tokyo International Film Festival, where Rasoulof highlighted the ongoing repression in Iran and Jafar Panahi's recent prison sentence. Meanwhile, O discussed overcoming her nine-year career hiatus to direct her comeback feature after finding inspiration in another artist's candid remarks about parenting and work."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohammad Rasoulof and O Mipo received the Kurosawa Akira Award at the Tokyo International Film Festival.",
+      "Jafar Panahi was sentenced to five additional years in prison and had his property confiscated.",
+      "Mohammad Rasoulof was arrested and sentenced to five years in prison in 2010.",
+      "O Mipo took a nine-year break from directing to raise her two sons, born in 2015 and 2020.",
+      "O Mipo's debut feature was 'The Sakai's Happiness' in 2006."
+    ],
+    "entities": {
+      "people": [
+        "Mohammad Rasoulof",
+        "Jafar Panahi",
+        "O Mipo",
+        "Yamada Yoji",
+        "Lee Sang-il",
+        "Ashizawa Akiko",
+        "Ichiyama Shozo",
+        "Ando Sakura",
+        "Takada Ryo",
+        "Obayashi Nobuhiko"
+      ],
+      "titles": [
+        "There Is No Evil",
+        "The Seed of the Sacred Fig",
+        "Red Beard",
+        "Dersu Uzala",
+        "The Sakai's Happiness",
+        "Being Good",
+        "Living in Two Worlds",
+        "How Dare You?",
+        "Rashomon",
+        "Dreams"
+      ]
+    },
+    "keywords": [
+      "Mohammad Rasoulof",
+      "Jafar Panahi",
+      "Kurosawa Akira Award",
+      "O Mipo",
+      "Tokyo International Film Festival"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Mohammad-Rasoulof-Oh-Mipo.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Mohammad Rasoulof Highlights Jafar Panahi's Sentence at Tokyo Kurosawa Akira Award Press Conference",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 07:32:00 +0000"
+  },
+  "1gba65y": {
+    "id": "1gba65y",
+    "type": "news",
+    "headline": "Shah Rukh Khan Starrer King Rakes In Rs 665 Crore Through Pre-Release Business",
+    "dek": "The upcoming action project directed by Siddharth Anand has accumulated massive pre-release revenue from global distribution, streaming, and music rights ahead of its late December theatrical debut.",
+    "body": [
+      {
+        "h": "Massive Pre-Release Earnings",
+        "p": [
+          "The highly anticipated action drama King, starring superstar Shah Rukh Khan, has achieved a remarkable financial milestone even before arriving in cinemas. According to insights from Sacnilk, the venture has amassed an extraordinary Rs 665 crore globally through pre-release agreements.",
+          "This massive haul places the project among the most lucrative pre-release business achievements in contemporary Hindi cinema history, setting high financial benchmarks for upcoming theatrical releases."
+        ]
+      },
+      {
+        "h": "Overseas Distribution Records",
+        "p": [
+          "International territory rights have contributed significantly to the financial tally, spearheaded by Phars Films. The overseas distribution rights were secured under a minimum guarantee of Rs 175 crore.",
+          "Industry analysts note that this international agreement stands as the highest minimum guarantee ever recorded for an Indian movie, surpassing previous benchmarks where international deals rarely crossed the Rs 100 crore mark."
+        ]
+      },
+      {
+        "h": "Domestic Theatrical And Non-Theatrical Sales",
+        "p": [
+          "Closer to home, domestic theatrical distribution rights were acquired by Pen Marudhar for an estimated Rs 250 crore, as detailed in reports from Pinkvilla.",
+          "Non-theatrical avenues further bolstered the totals, with digital streaming rights picked up by Netflix for Rs 150 crore. Additionally, satellite and music rights contributed Rs 25 crore and Rs 65 crore respectively to the overall pool."
+        ]
+      },
+      {
+        "h": "The Netflix Performance Rider",
+        "p": [
+          "The digital streaming agreement with Netflix incorporates a unique clause that ties the final payout to cinematic performance. This theatrical rider means the ultimate financial value of the streaming deal could fluctuate depending on how well the feature fares with audiences in theaters.",
+          "Such clauses reflect a growing trend in the entertainment industry to mitigate streaming acquisition risks based on actual box office reception."
+        ]
+      },
+      {
+        "h": "Production Budgets And Profitability Targets",
+        "p": [
+          "Alongside impressive revenues, the film's production scale has also expanded. Initially budgeted around Rs 200 crore, the core making cost has reportedly climbed closer to Rs 400 crore, a figure that includes director Siddharth Anand's salary but excludes Shah Rukh Khan's acting compensation.",
+          "When factoring in the superstar's notional remuneration, total expenses could touch Rs 500 crore, alongside an expected Rs 40 crore dedicated to publicity and promotional expenses. Observers estimate the venture will need approximately Rs 800 crore globally to achieve target profitability."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Promotional Kickoff",
+        "p": [
+          "The promotional campaign officially launched on November 2, coinciding with Shah Rukh Khan's birthday, when the team revealed the project's maiden track. This timing sets the rollout approximately seven weeks ahead of the scheduled theatrical premiere on December 24, 2026, marking the actor's return to the big screen after a hiatus of over three years.",
+          "Directed by Siddharth Anand following their successful collaboration on Pathaan, the feature also marks the first time Shah Rukh shares screen space with his daughter, Suhana Khan. The ensemble cast further features prominent names such as Deepika Padukone, Rani Mukerji, and Abhishek Bachchan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming film King has generated Rs 665 crore in worldwide pre-release deals ahead of its December 24, 2026 release. The Siddharth Anand directorial features robust international and domestic theatrical guarantees alongside streaming and music rights."
+        ]
+      }
+    ],
+    "facts": [
+      "King has secured pre-release deals worth Rs 665 crore worldwide according to Sacnilk.",
+      "The film is directed by Siddharth Anand.",
+      "The release date is scheduled for December 24, 2026.",
+      "Phars Films acquired overseas distribution rights for a minimum guarantee of Rs 175 crore.",
+      "Pen Marudhar bought Indian theatrical distribution rights for Rs 250 crore.",
+      "Netflix acquired streaming rights for Rs 150 crore.",
+      "Satellite rights fetched Rs 25 crore and music rights fetched Rs 65 crore.",
+      "Production costs have climbed to nearly Rs 400 crore, with overall costs potentially touching Rs 500 crore.",
+      "Publicity and release expenses are expected to be Rs 40 crore.",
+      "The film marks Shah Rukh Khan's first on-screen collaboration with Suhana Khan.",
+      "Other cast members include Deepika Padukone, Rani Mukerji, and Abhishek Bachchan."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Deepika Padukone",
+        "Rani Mukerji",
+        "Abhishek Bachchan"
+      ],
+      "titles": [
+        "King",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan King",
+      "King pre-release business",
+      "Siddharth Anand King film",
+      "King movie release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/shah-rukh-khan-confirms-christmas-2026-release-date-amid-postpone-rumours-240156403-16x9.jpg?VersionId=qVAxH8MEbRdaEWNyfrfEtMhViieS6b1t",
+        "caption": "Shah Rukh Khan Starrer King Rakes In Rs 665 Crore Through Pre-Release Business",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:41:31 +0530"
   }
 };
