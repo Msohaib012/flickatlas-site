@@ -45726,5 +45726,405 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 11:00:00 GMT"
+  },
+  "1reggs": {
+    "id": "1reggs",
+    "type": "news",
+    "headline": "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
+    "dek": "Tamil Nadu Chief Minister C Joseph Vijay has issued a new government order permitting 6 AM special shows ahead of major Diwali releases, reversing a three-year restriction.",
+    "body": [
+      {
+        "h": "Return of Early Morning Screenings",
+        "p": [
+          "Cinema exhibitors and distributors in Tamil Nadu have received a significant boost with the return of early-morning screenings. Chief Minister C Joseph Vijay has officially approved a new government order that permits 6 AM shows across the state.",
+          "This regulatory change arrives just in time for the busy festive season, providing much-needed relief to theater owners and film producers who look forward to high audience turnout during major holidays."
+        ]
+      },
+      {
+        "h": "Background of the Three-Year Ban",
+        "p": [
+          "The allowance of early-morning screenings marks a major policy shift after more than three years of strict limitations. Following an unfortunate stampede incident during the release of Ajith Kumar’s Thunivu in 2023, authorities had restricted cinemas to only four shows daily.",
+          "That restriction was enforced under the Tamil Nadu Cinemas Regulation Rules of 1957 and Condition 14-A of the Form C license issued to movie theaters, effectively ending decades-old traditions of dawn screenings for major star vehicles."
+        ]
+      },
+      {
+        "h": "Details of the New Government Order",
+        "p": [
+          "Under the newly issued government order, cinemas are permitted to hold up to six shows daily between 6 AM and 2:30 AM the following day. This expanded schedule applies for a duration of one week starting from a film's initial release date.",
+          "Furthermore, the updated rules extend beyond the opening week, covering local festival days, designated public holidays, and regular weekends to give exhibitors maximum operational flexibility throughout the year."
+        ]
+      },
+      {
+        "h": "Industry Requests and Quick Response",
+        "p": [
+          "The policy revision followed concerted lobbying by major industry bodies, including the Tamil Film Active Producers Association, the Tamil Film Producers Council, and the Tamil Nadu Theatre and Multiplex Owners Association.",
+          "These organizations formally approached minister Rajmohan with their requests, leading to a prompt administrative turnaround that culminated in the official government order praised widely by industry stakeholders."
+        ]
+      },
+      {
+        "h": "Gratitude From Film Producers and Distributors",
+        "p": [
+          "Prominent producer and distributor G Dhananjhayen took to social media to express appreciation for the swift action taken by the state administration. He highlighted the speed with which the appeal was processed after being submitted.",
+          "Representatives of the Tamil film fraternity have publicly thanked both the minister and the chief minister, praising the government's responsiveness to the economic welfare and scheduling needs of the regional entertainment sector."
+        ]
+      },
+      {
+        "h": "Upcoming Diwali Releases Set to Benefit",
+        "p": [
+          "Several high-profile films arriving for the holiday window stand to gain from the relaxed screening rules. Among them are Jithu Madhavan’s Scene, featuring Suriya, Nazriya Nazim, and Naslen, alongside Sundar C’s Mookuthi Amman 2, starring Nayanthara and Regena Cassandra, both scheduled for November 6.",
+          "While Nitesh Tiwari’s pan-Indian epic Ramayana, starring Ranbir Kapoor, Sai Pallavi, and Yash, is also slated for a Tamil release, uncertainty remains regarding whether the six-show permission will apply to dubbed versions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tamil Nadu Chief Minister C Joseph Vijay has issued a new government order permitting 6 AM special film screenings for a duration of one week following a request from industry bodies. This change overturns a three-year restriction that limited theaters to four daily shows following an incident in 2023, providing timely support to upcoming festive releases like Scene and Mookuthi Amman 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Chief Minister C Joseph Vijay issued a government order permitting 6 AM shows for Diwali releases.",
+      "The request was made by the Tamil film industry on October 27, 2026.",
+      "Early morning shows were restricted for three years following a stampede during the release of Ajith Kumar's Thunivu in 2023.",
+      "The new rules permit six shows daily between 6 AM and 2:30 AM for one week from release, plus weekends, holidays, and festival days.",
+      "Scene and Mookuthi Amman 2 release on November 6, 2026."
+    ],
+    "entities": {
+      "people": [
+        "C Joseph Vijay",
+        "Rajmohan",
+        "Ajith Kumar",
+        "G Dhananjhayen",
+        "Jithu Madhavan",
+        "Suriya",
+        "Nazriya Nazim",
+        "Naslen",
+        "Sundar C",
+        "Nayanthara",
+        "Regena Cassandra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Scene",
+        "Mookuthi Amman 2",
+        "Ramayana",
+        "Thunivu"
+      ]
+    },
+    "keywords": [
+      "C Joseph Vijay Tamil Nadu 6 AM shows",
+      "Scene film Diwali release",
+      "Mookuthi Amman 2 Tamil Nadu",
+      "Tamil cinema new rules government order"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/vijay_1793710597372_G8Yf_1793710597505_FFBA_5b7d7f3e-30b3-4091-ac71-b9c78466c8c8_AGXh.jpg",
+        "caption": "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:51:59 +0530"
+  },
+  "1ctahso": {
+    "id": "1ctahso",
+    "type": "news",
+    "headline": "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
+    "dek": "Prime Video has shared a first look at the third and final installment of The Devil's Hour, confirming a December release date for the time-looping drama.",
+    "body": [
+      {
+        "h": "The Return of the Time-Looping Thriller",
+        "p": [
+          "Prime Video has officially unveiled the first look images for the third and final season of its supernatural thriller, The Devil's Hour. The series, which revolves around complex time loops and mind-bending mysteries, is scheduled to make its long-awaited return next month.",
+          "Fans have had to wait a couple of years for the continuation of the story, but the streaming platform has finally locked in the premiere date. The upcoming run will consist of five episodes, serving as the conclusive chapter for the acclaimed production."
+        ]
+      },
+      {
+        "h": "Release Date and Streaming Details",
+        "p": [
+          "The third instalment of The Devil's Hour will officially land on Prime Video on Friday 4 December 2026. Alongside the date confirmation, the streamer provided exclusive preview images to build anticipation among viewers.",
+          "Subscribers and newcomers will be able to access the final five-part run directly through the platform. The series continues to be one of the notable high-profile drama offerings on the streaming service."
+        ]
+      },
+      {
+        "h": "First Look and Character Appearances",
+        "p": [
+          "The newly released promotional photos feature the main cast members reprising their familiar roles. Jessica Raine returns as Lucy Chambers, while Peter Capaldi steps back into the shoes of the serial killer Gideon Shepherd.",
+          "In addition to the leads, Nikesh Patel is back as DI Ravi Dhillon. The preview images portray the characters looking tense and searching for answers, with both Lucy and Gideon seen wielding firearms and preparing for dangerous confrontations."
+        ]
+      },
+      {
+        "h": "Expanding Ensemble Cast",
+        "p": [
+          "Beyond the primary trio, the final season brings back several other notable performers from earlier runs. Viewers can expect appearances from Phil Dunster, Meera Syal, and Saffron Hocking.",
+          "This diverse supporting cast adds further depth to the supernatural narrative. Their return ensures continuity as the series weaves together its intricate web of timelines and unresolved conflicts."
+        ]
+      },
+      {
+        "h": "Plot Premise and Narrative Direction",
+        "p": [
+          "The official synopsis describes life in the series as a scratched record, looping over and over again without most people remembering their past iterations. However, Lucy Chambers has woken up and retains memories of her past life as a police detective who failed to stop a series of terrorist acts.",
+          "Now born again as neither a mother nor a police officer, Lucy is haunted by her past and turns to her former foe, Gideon. Together, the unlikely allies must track down a dangerous child-killer who has eluded them across multiple lifetimes."
+        ]
+      },
+      {
+        "h": "Cliffhanger Resolution and Planned Trilogy",
+        "p": [
+          "The second season concluded on a dramatic cliffhanger involving Gideon shooting Lucy in an attempt to trigger a reset and stop their mutual enemy. Meanwhile, Isaac called out to his mother upon hearing a familiar voice.",
+          "Star Jessica Raine previously mentioned that the production was always mapped out as a three-part story. This final run fulfills that original vision, bringing the overarching narrative structure to a planned and deliberate conclusion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has announced that the third and final season of The Devil's Hour will premiere on Friday 4 December 2026. The five-part supernatural thriller features returning stars Peter Capaldi, Jessica Raine, and Nikesh Patel as the time-looping drama concludes its planned trilogy."
+        ]
+      }
+    ],
+    "facts": [
+      "The Devil's Hour season 3 premieres on Friday 4 December 2026.",
+      "The final season consists of five episodes.",
+      "Peter Capaldi plays Gideon Shepherd and Jessica Raine plays Lucy Chambers.",
+      "Nikesh Patel returns as DI Ravi Dhillon.",
+      "Phil Dunster, Meera Syal, and Saffron Hocking return for the final season."
+    ],
+    "entities": {
+      "people": [
+        "Peter Capaldi",
+        "Jessica Raine",
+        "Nikesh Patel",
+        "Phil Dunster",
+        "Meera Syal",
+        "Saffron Hocking"
+      ],
+      "titles": [
+        "The Devil's Hour",
+        "Starstruck",
+        "Ted Lasso",
+        "Goodness Gracious Me",
+        "Top Boy"
+      ]
+    },
+    "keywords": [
+      "The Devil's Hour season 3",
+      "Peter Capaldi The Devil's Hour",
+      "Jessica Raine The Devil's Hour",
+      "The Devil's Hour release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/devils-hour-s3-lisa-peter-5771162.jpg?resize=1200%2C630",
+        "caption": "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:00:36 GMT"
+  },
+  "wu5miy": {
+    "id": "wu5miy",
+    "type": "news",
+    "headline": "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
+    "dek": "GMMTV has officially introduced the Thai remake of the popular 2022 Korean romantic comedy Sh**ting Stars, starring Tu Tontawan Tantivejakul and Gemini Norawit Titicharoenrak.",
+    "body": [
+      {
+        "h": "First Look At The Thai Remake",
+        "p": [
+          "Fans of romantic comedy K-dramas have fresh reason to celebrate as a major new adaptation is officially on the way. The television production and talent agent subsidiary GMMTV has showcased the first poster and teaser for its upcoming Thai version of the hit series Shooting Stars.",
+          "The announcement was made during the unveiling of the network's 2027 slate of programming. Stepping into the central roles for this regional reimagining are young stars Tu Tontawan Tantivejakul and Gemini Norawit Titicharoenrak."
+        ]
+      },
+      {
+        "h": "Familiar Faces Reunite On Screen",
+        "p": [
+          "The casting choice has quickly generated excitement across social media platforms, as it marks a notable onscreen reunion for Tu and Gemini. The two actors previously worked together in the series Moonlight Chicken, building a dedicated fanbase that is eager to watch their new chemistry.",
+          "Accompanying the initial announcement, promotional imagery featured the lead pair seated against a dramatic red velvet backdrop. Surrounded by microphones, flashing cameras, and red roses, the setup cleverly mimics a high-stakes press conference to highlight the turbulent media environment of the showbiz industry."
+        ]
+      },
+      {
+        "h": "Plot And Character Dynamics",
+        "p": [
+          "The newly released trailer provides a deep dive into the chaotic setting of Starforce Entertainment. Viewers are introduced to Kacha, portrayed by Gemini Norawit, who functions as the agency's premier artist and a constant source of stress for the public relations department due to his demanding attitude.",
+          "Opposite him is Tu Tontawan, playing a stern and disciplined PR representative with very little tolerance for the superstar's antics. Their continuous professional clashes soon evolve into personal vulnerability, with Kacha letting his guard down and sharing intimate moments with her during quiet rehearsals."
+        ]
+      },
+      {
+        "h": "Romance Meets Public Scrutiny",
+        "p": [
+          "As the narrative progresses, the professional boundary between the publicist and the celebrity begins to blur. However, their growing bond is immediately threatened by the looming shadow of media exposure, teased by a scandalous headline suggesting a hidden romance.",
+          "The dramatic tension peaks as the characters grapple with the reality of their situation. While the PR representative insists that a romance between them is impossible, Kacha refuses to back down, asking her to stand by his side and fight against public scrutiny."
+        ]
+      },
+      {
+        "h": "Roots In The Original Korean Hit",
+        "p": [
+          "The upcoming Thai series draws direct inspiration from the 2022 South Korean television phenomenon Sh**ting Stars. The original production originally featured Lee Sung Kyung as entertainment PR head Oh Han Byul and Kim Young Dae as top actor Gong Tae Sung.",
+          "Official credits accompanying the promotional materials acknowledge the project's lineage, noting that the series is based on the original drama produced by Studio Dragon Corporation and distributed by CJ ENM Co. Ltd., maintaining the core themes of the original story."
+        ]
+      },
+      {
+        "h": "Production And Expected Release",
+        "p": [
+          "While production details continue to surface, the adaptation aims to modernize the classic narrative for current audiences. GMMTV has confirmed that the series will officially air in the year 2027, though an exact premiere date has not yet been finalized.",
+          "The trailer concludes with a lingering question about whether their high-profile romance will ultimately flourish or fail, leaving fans anticipating further updates from the network as production moves forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "GMMTV has unveiled the first trailer and promotional poster for a Thai remake of the 2022 South Korean hit series Shooting Stars. Actors Tu Tontawan Tantivejakul and Gemini Norawit Titicharoenrak will lead the upcoming adaptation, which is scheduled to air in 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "The original South Korean series Shooting Stars premiered in 2022.",
+      "The original K-drama starred Lee Sung Kyung and Kim Young Dae.",
+      "The Thai remake is produced by GMMTV.",
+      "Tu Tontawan Tantivejakul and Gemini Norawit Titicharoenrak are starring in the lead roles.",
+      "The Thai adaptation is scheduled to air in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Tu Tontawan",
+        "Gemini Norawit",
+        "Lee Sung Kyung",
+        "Kim Young Dae",
+        "Tu Tontawan Tantivejakul",
+        "Gemini Norawit Titicharoenrak",
+        "Oh Han Byul",
+        "Gong Tae Sung",
+        "Kacha",
+        "Darin",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Shooting Stars",
+        "Sh**ting Stars",
+        "Moonlight Chicken"
+      ]
+    },
+    "keywords": [
+      "Shooting Stars Thai remake",
+      "Tu Tontawan Gemini Norawit",
+      "GMMTV Shooting Stars series",
+      "Sh**ting Stars K-drama"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/Shooting_Stars_1793710315316_KXXy_1793710315397_Jlme_9385888e-f094-474c-a8e7-ca3ba8af613e_EpwY.jpg",
+        "caption": "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:20:08 +0530"
+  },
+  "lim25p": {
+    "id": "lim25p",
+    "type": "news",
+    "headline": "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know",
+    "dek": "Jensen Ackles makes his dramatic return as Russell Shaw in Tracker Season 4 Episode 5, plunging Colter into a high-stakes military cover-up while leaving family secrets buried.",
+    "body": [
+      {
+        "h": "The Return of Russell Shaw",
+        "p": [
+          "CBS drama Tracker delivered a major moment for fans with the release of Season 4, Episode 5, titled \"Need to Know.\" Aired on November 1, 2026, the installment brought back Jensen Ackles to reprise his role as Russell Shaw, the enigmatic older brother of protagonist Colter Shaw, played by Justin Hartley.",
+          "The episode immediately injected personal tension into the narrative, combining a high-octane rescue operation with the familiar, sharp brotherly banter that audiences have come to expect. While the case pushed both characters to their limits, it also underscored the lingering mystery regarding their father, Ashton Shaw, that has simmered since the previous season's finale."
+        ]
+      },
+      {
+        "h": "Background and Unresolved Tension",
+        "p": [
+          "The path leading up to this reunion was fraught with complications. The Season 3 finale concluded with Russell vanishing after destroying a confidential file concerning their father, leaving Colter completely in the dark. Despite months of unanswered calls, Colter continued tackling independent jobs across the country.",
+          "Meanwhile, Episode 4 focused on an entirely separate missing-person case involving a file clerk named Nicole Dunning. While that outing introduced a new romantic interest for Colter named Jenna and resolved a local abuse situation, it left the overarching Russell storyline untouched, heightening anticipation for his eventual reappearance."
+        ]
+      },
+      {
+        "h": "A Dangerous Military Kidnapping",
+        "p": [
+          "The plot of \"Need to Know\" kicked off in Atlanta, Georgia, when military contractor Grant Valko returned from a six-month overseas deployment to find his home empty and his wife, Shaina, alongside his young daughter, Ellie, abducted. Instead of demanding ransom, the kidnappers wanted Grant to retract his after-action report regarding an explosion during his final mission.",
+          "Rather than explaining his months of radio silence, Russell looped Colter into the case under the guise of casual beach updates. Faced with a strict 48-hour deadline and photographic proof of the hostages, the brothers mobilized, utilizing technical support from Randy to uncover a hidden surveillance system and track down the kidnappers' vehicle."
+        ]
+      },
+      {
+        "h": "Escalation and the Cover-Up",
+        "p": [
+          "The investigation quickly turned deadly when a key witness, Grant's spotter John Hawthorne, was thrown from a building by a scarred assassin known as Caswell. This fatal incident revealed that the mission was never about medical supplies, but rather a catastrophic malfunction in proprietary weapons technology, or tech armor, that powerful figures were desperate to bury.",
+          "Dividing their labor, Colter confronted corporate executive Gordon Marsh at RossKelly Defense Systems in a tense elevator brawl, while Russell managed a panicked Grant after an altercation with a compliance supervisor named Gomez. Randy aided remotely by scrubbing security footage to protect Colter from legal blowback."
+        ]
+      },
+      {
+        "h": "The Ranch Rescue",
+        "p": [
+          "Piecing together intelligence from Gordon, the brothers located the isolated ranch where Shaina and Ellie were imprisoned. Using the captive Gomez as leverage, they breached the property, where a chaotic confrontation ensued with Caswell and armed guards.",
+          "Colter ultimately shot Caswell, allowing Russell to safely extract Shaina and Ellie. Grant's original report remained intact thanks to Reenie Greene routing information safely to authorities, and young Ellie offered Colter a token of gratitude to close out the rescue."
+        ]
+      },
+      {
+        "h": "Character Standings and Future Outlook",
+        "p": [
+          "In the aftermath, Colter secured another successful rescue but remained without answers regarding his father's secret file or Russell's underlying motivations. Russell agreed to share beers and made loose dinner plans with Reenie, showing slight progress in his reliability despite keeping his secrets close.",
+          "Tracker is scheduled to take a brief hiatus before returning on November 15, 2026, with Episode 6, titled \"Blind Spot,\" which shifts focus onto Reenie. Although Russell will be absent from the upcoming episode, Justin Hartley confirmed that Ackles is slated to return for multiple appearances later in the 22-episode season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jensen Ackles returned as Russell Shaw in Tracker Season 4, Episode 5, titled \"Need to Know,\" which aired on CBS on November 1, 2026. The episode paired Russell and Colter Shaw to rescue a kidnapped military family while exposing a dangerous defense contractor cover-up. Following the resolution of the case, the overarching mystery surrounding the Shaw family remains unsolved as the series prepares for its next episode on November 15, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Tracker Season 4, Episode 5 is titled \"Need to Know\".",
+      "The episode aired on CBS on November 1, 2026.",
+      "Jensen Ackles returned to the show as Russell Shaw.",
+      "Justin Hartley stars as Colter Shaw.",
+      "The story is set in Atlanta, Georgia.",
+      "Grant Valko is a military contractor whose wife Shaina and daughter Ellie were kidnapped.",
+      "John Hawthorne was a spotter who was killed during the investigation.",
+      "Gordon Marsh is an executive at RossKelly Defense Systems.",
+      "Episode 6 of Season 4 is titled \"Blind Spot\" and airs on November 15, 2026.",
+      "Season 4 is set for 22 episodes."
+    ],
+    "entities": {
+      "people": [
+        "Jensen Ackles",
+        "Justin Hartley",
+        "Ashton Shaw",
+        "Nicole Dunning",
+        "Jenna",
+        "Grant Valko",
+        "Shaina",
+        "Ellie",
+        "John Hawthorne",
+        "Caswell",
+        "Randy",
+        "Gordon Marsh",
+        "Gomez",
+        "Reenie Greene"
+      ],
+      "titles": [
+        "Tracker",
+        "Need to Know",
+        "Purification",
+        "Blind Spot"
+      ]
+    },
+    "keywords": [
+      "Tracker Season 4 Episode 5",
+      "Russell Shaw Need to Know",
+      "Jensen Ackles Tracker CBS",
+      "Colter Shaw Justin Hartley"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-03T173727.038.webp",
+        "caption": "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 13:34:18 +0000"
   }
 };

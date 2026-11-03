@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T13:51:36Z",
-    "run_id": "41456465679",
-    "status": "success",
-    "checked": {
-     "candidates": 267,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "BMC removes Dia Mirza’s anti-cracker Diwali video after BJP's objection",
-      "Ajay Devgn faces new legal challenge over Vimal Elaichi notice as Maharashtra FDA asserts proceedings will continue",
-      "Imran Khan APOLOGIZES In Court; Gets Interim Relief After 'Leave India' Notice; 'I Shall Not Participate...'",
-      "Who Is Rimi Tomy's Husband-to-Be Libin Mathew? Singer Reveals Groom's Identity And Wedding Details",
-      "Box Office: Rajinikanth Needs Less Than 30 Crore To Beat Prabhas’ Post-COVID Worldwide Total",
-      "Box Office: Can Shah Rukh Khan Create History By Delivering His Third 500 Crore Net Grosser With King?",
-      "EXCLUSIVE: Shah Rukh Khan commands market like a KING, Pre Release Economics REVEALED",
-      "Aadarsha Kutumbam House No. 47 (AK 47) Opening Weekend India Box Office: Venkatesh starrer collects Rs 35.50 crore in three days",
-      "Jailer 2 (Hindi) Box Office: Rajinikanth starrer action drama collects Rs 3.75 in 3rd Weekend, targets under Rs 45 crore finish",
-      "Drishyam The Conclusion Box Office Collections: Ajay Devgn's blockbuster film adds Rs 4 crore in 5th weekend, targets under Rs 370 crore closing",
-      "Udta Teer Box Office Collections: Ayushmann Khurrana and Sara Ali Khan's spy comedy collects Rs 11 crore in 2nd Weekend, nets Rs 41 crore in 10 days",
-      "Kriti Sanon Calls for Female Led Pathaan and Dhurandhar as Alpha's 99 Crore and Manikarnika's 142 Crore Raise Box Office Questions",
-      "Imran apologises as HC slams him for protests despite being an OCI card holder",
-      "Orry opens up about fallout with childhood friend Sara Ali Khan",
-      "Scam 2010 first look: Siddharth leads Hansal Mehta series",
-      "Diljit takes spiritual break in Rishikesh after Delhi concert, spends peaceful moments by Ganga",
-      "CBFC announces five new rules for film certification, incomplete films won't be accepted",
-      "Malayalam singer-actor Rimi Tomy to marry ‘not actor or millionaire’ but fitness trainer Libin Mathew 7 years after divorce",
-      "Ruler of kingdom: Kareena Kapoor confirms King song with SRK on his 61st birthday",
-      "I’m Impressed That Inde Navarrette Used An Obsession Reference To Dodge An X-Men Question"
-     ],
-     "updated": [],
-     "count": 252,
-     "detail": "253 stories, 0 duplicates removed, 14 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T14:51:40Z",
     "run_id": "41465783153",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "379 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T14:52:30Z",
-    "run_id": "41465783153",
+    "run_at": "2026-11-03T13:52:16Z",
+    "run_id": "41647958857",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 427,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Harleen Sethi Boards Amazon Prime Video's Upcoming Empire-Style Series With Star-Studded Cast",
-      "Sean 'Diddy' Combs Sees Prison Release Date Moved Up Following Transfer",
-      "Love In Disguise Episode 5 Ending Explained: Yi Jun's Shocking Sober Kiss And Jae Hui's Memory Return",
-      "Hollywood Ventures Group Boards Vatican-Produced Documentary Short 'Green Lava' for Oscar Contention"
+      "Amit Rai exits OMG 3? Director and makers reportedly part ways over creative differences",
+      "Bombay High Court asks BMC to restore Dia Mirza’s Diwali video: “India is a secular country”",
+      "Kaali Kheti teaser: Jackie Shroff and Sharad Kelkar add mystery to a village horror story",
+      "Manoj Bajpayee, Boman Irani and Divya Dutta’s Last Man in Tower to premiere on Hindi Zee 5 on November 6",
+      "Isha Rikhi Turns Up Glam Quotient In A Stunning Red Ensemble At Fashion Week- PICS",
+      "King Cracks Biggest OTT Deal Ever For Shah Rukh Khan, 25% Higher Than Jawan",
+      "King Box Office: Here’s How Much Shah Rukh Khan’s Most Expensive Film Must Earn To Enter The Safe Zone",
+      "Box Office: Jailer 2 Is Rajinikanth’s 2nd Most-Watched Film In Indian Theaters, 2.0 Stays Unbeaten",
+      "Box Office: How Does Callum Turner’s Biggest Hit Compare With James Bond’s All-Time Highest-Grosser Amid 007 Casting Buzz?",
+      "October 2026 North America Box Office: Verity Rules The Roost With $70M+, While You Can See Everything & Other Mommy Impress",
+      "Bollywood Box Office October 2026 Report: Drishyam 3 Powers 3rd-Best Month Of 2026 With 370 Crore+ Net",
+      "Dare Devil: Ajith Kumar starrer to lock a major actor for antagonist’s role? Find out",
+      "Bigg Boss Telugu 10: Nagarjuna Akkineni’s show sees double eviction as Rohit Naidu Patnam and Jhansi get eliminated",
+      "Bigg Boss Malayalam 8: Wildcard entrant Vedangi gets evicted from Mohanlal’s show; Calls Rahul Easwar her ‘therapist’",
+      "'Jailer 2' OTT: Rajinikanth's film may get 30 extra minutes in UNCUT",
+      "'Jaya Bachchan didn't let us feel any problems as a producer': Bhavana Balsavar",
+      "'Satluj' director slams new CBFC advisory as cowardness and dictatorship in country",
+      "'Kaali Kheti' teaser: Jackie Shroff, Sharad Kelkar enter a mysterious village",
+      "'Ramayana' actor Yash reveals his son Yatharv asked, 'How can you be Ravana?'",
+      "Bachchan drops health update after break: 'Don't let the old man in'"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 394,
+     "detail": "405 stories, 1 duplicates removed, 22 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T13:52:46Z",
+    "run_id": "41647958857",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
+      "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
+      "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
+      "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T15:59:01Z",
-    "run_id": "41475549506",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,26 +1901,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T15:07:28Z",
-    "run_id": "41465783153",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T13:52:46Z",
+    "run_id": "41647958857",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2369,27 +2352,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T15:07:26Z",
-    "run_id": "41465783153",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T14:38:53Z",
+    "run_id": "41647958857",
     "status": "success",
     "checked": {
-     "candidates": 420,
-     "detail": "419 collected staging rows from readers; 165 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 144,
-     "detail": "+0 new rows, 144 updated rows, 275 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2803,19 +2785,27 @@
      "detail": "+0 new rows, 9 updated rows, 437 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T14:38:50Z",
+    "run_id": "41647958857",
+    "status": "success",
+    "checked": {
+     "candidates": 447,
+     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+0 new rows, 5 updated rows, 441 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3070,32 +3060,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T15:07:27Z",
-    "run_id": "41465783153",
-    "status": "success",
-    "checked": {
-     "candidates": 402,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Harleen Sethi Boards Amazon Prime Video's Upcoming Empire-Style Series With Star-Studded Cast",
-      "Sean 'Diddy' Combs Sees Prison Release Date Moved Up Following Transfer",
-      "Love In Disguise Episode 5 Ending Explained: Yi Jun's Shocking Sober Kiss And Jae Hui's Memory Return",
-      "Hollywood Ventures Group Boards Vatican-Produced Documentary Short 'Green Lava' for Oscar Contention"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 402 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3626,26 +3603,32 @@
      "detail": "api-news.json 497 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T14:38:53Z",
+    "run_id": "41647958857",
+    "status": "success",
+    "checked": {
+     "candidates": 501,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
+      "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
+      "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
+      "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 501 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T13:51:40Z",
-    "run_id": "41456465679",
-    "status": "success",
-    "checked": {
-     "candidates": 17,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 2 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3914,19 +3897,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T13:52:20Z",
+    "run_id": "41647958857",
+    "status": "success",
+    "checked": {
+     "candidates": 16,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 4 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4247,31 +4237,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T13:52:03Z",
-    "run_id": "41456465679",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 252 still unprocessed; today by category: movies 9/6, tv_dramas 3/4, episodes 0/2, box_office 10/6, celebrities_events 9/5, upcoming_releases 3/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "CBFC Introduces Strict New Guidelines for Film Certification and Examination",
-      "Black Bear Secures First UK and Ireland Box Office Crown as Wicker Debuts at Number One",
-      "Orry Opens Up About His Falling Out with Childhood Friend Sara Ali Khan",
-      "Call the Midwife Star Laura Main Discusses Her New Role and Connection to Queen Elizabeth II"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4777,19 +4755,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T13:52:45Z",
+    "run_id": "41647958857",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 394 still unprocessed; today by category: movies 10/6, tv_dramas 10/4, episodes 2/2, box_office 13/6, celebrities_events 8/5, upcoming_releases 3/4, ott_streaming 5/4, trailers 1/3, awards 1/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
+      "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
+      "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
+      "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5121,24 +5111,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 423,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5483,24 +5468,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 13,
+     "count": 400,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5835,19 +5820,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6097,19 +6087,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6344,19 +6334,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6632,19 +6622,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6885,19 +6875,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7127,19 +7117,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7388,6 +7378,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T12:55:27Z",
     "run_id": "41639107644",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7768,16 +7768,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-02T15:07:36Z",
     "run_id": "41465783153",
     "status": "skipped",
@@ -8014,19 +8004,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8276,8 +8266,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T14:39:03Z",
+    "run_id": "41647958857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T12:55:27Z"
+ "updated_at": "2026-11-03T14:39:03Z"
 }
