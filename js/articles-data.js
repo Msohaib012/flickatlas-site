@@ -45321,5 +45321,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 11:04:06 +0000"
+  },
+  "15n92xl": {
+    "id": "15n92xl",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Dominates South Indian Advance Bookings With ₹11.53 Crore Collection",
+    "dek": "Nitesh Tiwari's upcoming cinematic epic Ramayana: Part 1 has pulled in massive pre-sales numbers across southern territories, pushing its national advance booking total to ₹32.40 crore ahead of its Diwali release.",
+    "body": [
+      {
+        "h": "Strong Southern Pre-Sales",
+        "p": [
+          "The highly anticipated cinematic adaptation Ramayana: Part 1 has generated strong pre-release momentum across southern markets. Opening-day advance bookings in these territories have reached a combined total of ₹11.53 crore.",
+          "Box office tracking data shared on social media by Jerin Georgekutty highlights the heavy demand from moviegoers in the southern states. These early numbers underscore the film's strong multi-region appeal ahead of its theatrical debut."
+        ]
+      },
+      {
+        "h": "Karnataka Emerges as Top Contributor",
+        "p": [
+          "Among all southern regions, Karnataka has recorded the highest pre-sale figures by a wide margin. Audiences in the state have contributed ₹5.90 crore toward the opening-day advance bookings.",
+          "This impressive regional total positions Karnataka as the primary engine for the film's southern box office campaign, far outpacing the collections registered in neighboring states."
+        ]
+      },
+      {
+        "h": "Breakdown Across Other Southern States",
+        "p": [
+          "Telangana follows in second place behind Karnataka, registering ₹2.60 crore in advance ticket sales. Tamil Nadu has contributed an additional ₹1.40 crore to the regional tally.",
+          "Meanwhile, Kerala and Andhra Pradesh recorded comparatively lower yet notable figures. Kerala accounted for ₹84 lakh in pre-sales, while Andhra Pradesh contributed ₹79 lakh to complete the regional breakdown."
+        ]
+      },
+      {
+        "h": "Massive All-India Advance Booking Figure",
+        "p": [
+          "The robust southern numbers have directly bolstered the movie's nationwide pre-sales performance. According to box office tracking figures, the all-India opening-day advance booking total has climbed to approximately ₹32.40 crore.",
+          "While these figures reflect current pre-release momentum, final numbers remain subject to change as bookings continue to progress right up until the opening shows begin."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble and Creative Crew",
+        "p": [
+          "Directed by Nitesh Tiwari and co-written with Shridhar Raghavan, the epic is adapted from Valmiki's Ramayana as a two-part cinematic project. The film features Ranbir Kapoor in the role of Lord Rama and Yash portraying Ravana.",
+          "The extensive cast also includes Sai Pallavi as Sita, Ravi Dubey as Lakshman, and Sunny Deol as Hanuman, alongside notable actors such as Anupam Kher, Lara Dutta, and Arun Govil. The production also marks Yash's Hindi cinema debut and Ravi Dubey's feature film debut."
+        ]
+      },
+      {
+        "h": "Global Music and Production Collaboration",
+        "p": [
+          "The film's scale is matched by a notable musical collaboration between Oscar-winning composer Hans Zimmer and AR Rahman, marking Zimmer's debut in the Indian film industry. Kumar Vishwas has penned the lyrics for the project.",
+          "Produced by Namit Malhotra and Yash alongside Monster Mind Creations, the film is presented by Prime Focus Studios and scheduled for worldwide theatrical distribution by Sony Pictures Entertainment on November 5, 2026, coinciding with the Diwali holiday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has secured ₹11.53 crore in opening-day advance bookings across South Indian territories, with Karnataka leading regional contributions with ₹5.90 crore. This performance has helped drive the film's total all-India opening-day pre-sales to ₹32.40 crore ahead of its worldwide release on November 5, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 recorded ₹11.53 crore in opening-day advance bookings across South Indian territories.",
+      "Karnataka contributed ₹5.90 crore to the regional advance bookings.",
+      "Telangana recorded ₹2.60 crore in advance bookings.",
+      "Tamil Nadu contributed ₹1.40 crore in advance bookings.",
+      "Kerala recorded ₹84 lakh in advance bookings.",
+      "Andhra Pradesh contributed ₹79 lakh in advance bookings.",
+      "The all-India opening-day advance booking total reached ₹32.40 crore.",
+      "The film is scheduled for release worldwide on November 5, 2026.",
+      "Ranbir Kapoor stars as Lord Rama and Yash stars as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Jerin Georgekutty",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Kumar Vishwas"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ramayana Part 1 Karnataka pre-sales",
+      "Ranbir Kapoor Yash Ramayana movie",
+      "Ramayana box office collections"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayana-47431793703256.jpg",
+        "caption": "Ramayana: Part 1 Dominates South Indian Advance Bookings With ₹11.53 Crore Collection",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 16:25:11 +0530"
+  },
+  "14ub4ui": {
+    "id": "14ub4ui",
+    "type": "news",
+    "headline": "Coronation Street Announces Special Episode Centered on Debbie Webster",
+    "dek": "ITV has revealed official details and the airdate for a dedicated installment of Coronation Street focusing on Debbie Webster and her friendship circle.",
+    "body": [
+      {
+        "h": "Special Episode Details",
+        "p": [
+          "Coronation Street has officially confirmed production and scheduling plans for a unique standalone episode centered around Debbie Webster and her closest companions. Producers have designed this upcoming narrative to deeply explore the interpersonal dynamics of the group known as Debbie's Angels, who have rallied around her following her dementia diagnosis.",
+          "The special episode is officially scheduled to air on Monday 9 November on ITV1 and streaming platforms."
+        ]
+      },
+      {
+        "h": "Planning a Milestone Birthday",
+        "p": [
+          "The central plot of the episode revolves around Debbie organising a milestone 40th birthday celebration for her son Carl. To pull off the surprise, she recruits several women from her support network, including Abi Webster, Bernie Winter-Alahan, Christina Boyd, Sally Metcalfe, and Glenda Shuttleworth.",
+          "During these preparations, Debbie brings out a vast collection of historical family photographs spanning many years, asking her friends to assist her in putting together a commemorative photo book."
+        ]
+      },
+      {
+        "h": "Rising Tensions and Emotional Confrontations",
+        "p": [
+          "What begins as a warm bonding experience quickly descends into chaos as buried grievances and past traumas are dragged into the open. Heated confrontations regarding family history disrupt the birthday preparations and threaten to derail the entire evening.",
+          "Despite the friction, various members of the group eventually find space to confide in one another about their personal burdens while facing tough choices regarding their individual futures."
+        ]
+      },
+      {
+        "h": "A Return to Unity",
+        "p": [
+          "By the conclusion of the evening, the emotional air is cleared among the women, allowing them to unite and move forward together. However, the official synopsis notes that several of the characters are left to quietly navigate significant and life-altering choices in private."
+        ]
+      },
+      {
+        "h": "Underlying Feuds Among the Group",
+        "p": [
+          "Much of the background tension in the friendship circle stems from an ongoing feud between Christina and Sally concerning the future of troubled teenager Lucy Parkinson. Actress Amy Robbins has commented on the natural friction between their contrasting personalities despite being part of the same core group.",
+          "Robbins also expressed her delight at working closely with long-serving cast member Sally Dynevor, praising her warm nature and genuine friendship away from the cameras."
+        ]
+      },
+      {
+        "h": "Where and When to Watch",
+        "p": [
+          "Regular episodes of Coronation Street continue to air on weeknights at 8.30pm on ITV1. Viewers can also catch up with the drama and stream episodes on demand via ITVX."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Coronation Street has scheduled a special episode focusing on Debbie Webster and her friends airing on Monday 9 November. The storyline features Debbie attempting to organise a 40th birthday surprise for her son Carl while navigating personal struggles and group tensions related to her dementia diagnosis."
+        ]
+      }
+    ],
+    "facts": [
+      "The special episode airs on Monday 9 November.",
+      "The episode focuses on Debbie Webster planning her son Carl's 40th birthday.",
+      "The group helping Debbie includes Abi Webster, Bernie Winter-Alahan, Christina Boyd, Sally Metcalfe, and Glenda Shuttleworth.",
+      "Debbie has been diagnosed with dementia.",
+      "Amy Robbins plays Christina Boyd.",
+      "Sally Dynevor plays Sally Metcalfe."
+    ],
+    "entities": {
+      "people": [
+        "Debbie Webster",
+        "Carl",
+        "Abi Webster",
+        "Bernie Winter-Alahan",
+        "Christina Boyd",
+        "Sally Metcalfe",
+        "Glenda Shuttleworth",
+        "Lucy Parkinson",
+        "Amy Robbins",
+        "Sally Dynevor"
+      ],
+      "titles": [
+        "Coronation Street",
+        "ITV1",
+        "ITVX"
+      ]
+    },
+    "keywords": [
+      "Coronation Street",
+      "Debbie Webster",
+      "Coronation Street special episode",
+      "Debbie Webster dementia"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/f0a33814-d42e-4586-9d73-06900d1d8b11.jpg?crop=0.756xw:0.531xh;0.124xw,0.0774xh&amp;resize=1200:*",
+        "caption": "Coronation Street Announces Special Episode Centered on Debbie Webster",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 11:00:00 +0000"
+  },
+  "gnva0r": {
+    "id": "gnva0r",
+    "type": "news",
+    "headline": "Inside the New CBFC Certification Guidelines: What Has Changed for Filmmakers",
+    "dek": "The Central Board of Film Certification has introduced a revised framework replacing the 1991 guidelines, setting new rules for drug warnings, violence, sexual content, and age classifications.",
+    "body": [
+      {
+        "h": "A New Framework After Decades",
+        "p": [
+          "The Central Board of Film Certification has rolled out a fresh set of guidelines for public film exhibition in India. Issued via the Ministry of Information and Broadcasting, this updated rulebook effectively replaces the previous framework that had been in active service since December 1991.",
+          "The revised regulations delineate strict parameters regarding what can be showcased on screen, focusing closely on violence, substance use, sexual depictions, and the treatment of children, women, and animals. Simultaneously, the authorities have emphasized the ongoing need to safeguard creative freedom and ensure certification keeps pace with modern societal values."
+        ]
+      },
+      {
+        "h": "Scrutiny on Violence and Crime",
+        "p": [
+          "Under the revised regulations, films are explicitly cautioned against glorifying or justifying anti-social activities and criminal behavior. The board is instructed to keep a vigilant eye on unnecessary horror, cruelty, and graphic violence included primarily for shock value.",
+          "While creators are still permitted to explore complex or disturbing themes, the content must serve a genuine narrative purpose rather than desensitizing audiences to human suffering or demonstrating actionable methods for committing offences."
+        ]
+      },
+      {
+        "h": "Protecting Vulnerable Groups and Women",
+        "p": [
+          "The updated guidelines place specific emphasis on the depiction of vulnerable populations, prohibiting the needless involvement of children in violent scenarios or instances of child abuse. Cruelty toward animals and the mockery of individuals with physical or mental disabilities are also strictly barred.",
+          "Regarding the representation of women, the rules dictate that degradation and denigration are completely unacceptable. Graphic details of sexual violence, including rape, attempted rape, and molestation, should be avoided unless absolutely vital to the story, in which case they must be kept to a bare minimum."
+        ]
+      },
+      {
+        "h": "Mandatory Drug Warnings and Substance Rules",
+        "p": [
+          "An important addition involves strict protocols for narcotic drugs and psychotropic substances. Any film displaying the consumption or trafficking of such substances must feature a prominent statutory warning reading, Illicit Narcotics Destroy Health and Guarantees Imprisonment. Say No to Drugs.",
+          "Similar restrictions apply to alcohol and tobacco, prohibiting any framing that glamorizes or encourages smoking and drinking, drawing a firm line between a realistic depiction of these habits and their active promotion."
+        ]
+      },
+      {
+        "h": "Religion, Communities, and National Security",
+        "p": [
+          "The guidelines enforce rigorous standards concerning communal harmony, religious representation, and national importance. Content that generates contempt toward specific racial or religious groups, or promotes anti-national and anti-scientific attitudes, is heavily restricted.",
+          "Furthermore, films must refrain from challenging India's sovereignty, threatening public order, or undermining the dignity of the judiciary. The utilization of national symbols must strictly adhere to the Emblems and Names Prevention of Improper Use Act of 1950."
+        ]
+      },
+      {
+        "h": "Age Classifications and Holistic Assessment",
+        "p": [
+          "The age-based tier system remains intact, incorporating U/A 7+, U/A 13+, and U/A 16+ categories to assist parental supervision, alongside restrictions limiting certain features strictly to adult audiences or specialized professional viewers.",
+          "Crucially, the board has been directed to evaluate films as a complete entity rather than judging isolated scenes, taking into account contemporary standards and the specific historical periods portrayed within period dramas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Central Board of Film Certification has issued a revised framework replacing rules from December 1991 to govern film certification in India. The updated guidelines establish stricter boundaries for violence, drug warnings, sexual content, and vulnerable group portrayals while balancing societal values with artistic freedom."
+        ]
+      }
+    ],
+    "facts": [
+      "The new CBFC film certification guidelines were issued on November 3, 2026.",
+      "The previous framework had been in place since December 6, 1991.",
+      "The mandatory statutory warning for drugs is Illicit Narcotics Destroy Health and Guarantees Imprisonment. Say No to Drugs.",
+      "The Emblems and Names Prevention of Improper Use Act was enacted in 1950."
+    ],
+    "entities": {
+      "people": [
+        "Shweta Keshri",
+        "Honey Trehan"
+      ],
+      "titles": [
+        "Satluj",
+        "Hunkkaar"
+      ]
+    },
+    "keywords": [
+      "CBFC new guidelines",
+      "film certification rules India",
+      "Central Board of Film Certification",
+      "CBFC drug warnings violence"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/cbfc-031838449-16x9_0.png?VersionId=1J0j3sVa5zi1yTkDI9xt862gseGU9RuP",
+        "caption": "Inside the New CBFC Certification Guidelines: What Has Changed for Filmmakers",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 16:50:34 +0530"
+  },
+  "1brpaw3": {
+    "id": "1brpaw3",
+    "type": "news",
+    "headline": "Unmasking the Stars of the 1968 Sci-Fi Classic Planet of the Apes",
+    "dek": "Discover the human faces behind the revolutionary Oscar-winning prosthetics in the original 1968 adaptation of Planet of the Apes.",
+    "body": [
+      {
+        "h": "Introduction to the Sci-Fi Classic",
+        "p": [
+          "More than half a century after its initial release, the 1968 adaptation of Planet of the Apes remains a monumental achievement in cinematic science fiction. The film famously challenged viewers to invert their perspectives, placing humanity on the opposite side of the cage as test subjects rather than scientists.",
+          "While human characters like George Taylor and Nova kept their natural appearances, a talented ensemble of performers underwent complete transformations. They wore heavy layers of groundbreaking practical effects that rendered them completely unrecognisable as advanced apes."
+        ]
+      },
+      {
+        "h": "Kim Hunter as Dr. Zira",
+        "p": [
+          "Kim Hunter brought the compassionate chimpanzee psychologist and veterinarian Dr. Zira to life in the 1968 feature and two subsequent sequels. Her character famously worked to improve the relationship between the human subjects and the ape society.",
+          "Before her stellar work in ape prosthetics, Kim earned major acting acclaim for originating the leading role of Stella Kowalski in A Streetcar Named Desire on Broadway. That celebrated performance ultimately won her both an Academy Award and a Golden Globe Award."
+        ]
+      },
+      {
+        "h": "Roddy McDowall as Cornelius",
+        "p": [
+          "Roddy McDowall took on the role of chimpanzee scientist Cornelius, who also happened to be the fiancé of Dr. Zira in the 1968 movie. His expressive performance added considerable emotional depth to the science fiction narrative.",
+          "Outside of his memorable work in heavy ape makeup, Roddy built a prolific acting resume with standout performances in How Green Was My Valley, Fright Night, and Lassie Come Home. The accomplished actor passed away on October 3, 1998."
+        ]
+      },
+      {
+        "h": "Lou Wagner as Lucius",
+        "p": [
+          "Lou Wagner portrayed Lucius, the rebellious young chimpanzee nephew of Dr. Zira. Within the plot of the film, Lucius assists in the secret operation to help the human subject George Taylor escape to safety.",
+          "When not busy playing a troublemaking ape, Lou went on to star in various television and film projects such as CHiPs, Hello Down There, and Galgameth. He made a more recent acting appearance in the 2023 television series Mansion of Mystery."
+        ]
+      },
+      {
+        "h": "Maurice Evans as Dr. Zaius",
+        "p": [
+          "Maurice Evans assumed the authoritative role of Dr. Zaius, the Minister of Science and Chief Defender of the Faith in the 1968 motion picture. His commanding presence anchored much of the film's philosophical conflict.",
+          "Aside from his memorable turn as an ape leader, Maurice was well known for playing the eccentric warlock Maurice on the hit show Bewitched. He also made notable appearances in feature films like Rosemary's Baby and The War Lord."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 1968 film Planet of the Apes famously utilized groundbreaking Oscar-winning prosthetics to transform its talented cast into advanced primates. Actors including Kim Hunter, Roddy McDowall, Lou Wagner, and Maurice Evans delivered memorable performances beneath heavy practical effects that hid their everyday human appearances."
+        ]
+      }
+    ],
+    "facts": [
+      "Planet of the Apes was released in 1968.",
+      "Kim Hunter played Dr. Zira in the film and two sequels.",
+      "Kim Hunter won an Academy Award and a Golden Globe Award for A Streetcar Named Desire.",
+      "Roddy McDowall played Cornelius.",
+      "Roddy McDowall died on October 3, 1998.",
+      "Lou Wagner played Lucius.",
+      "Lou Wagner appeared in Mansion of Mystery in 2023.",
+      "Maurice Evans played Dr. Zaius."
+    ],
+    "entities": {
+      "people": [
+        "Daisy Finch",
+        "Kim Hunter",
+        "Roddy McDowall",
+        "Lou Wagner",
+        "Maurice Evans",
+        "George Taylor",
+        "Nova",
+        "Stella Kowalski",
+        "Christina Ricci",
+        "Kimberly J. Brown",
+        "Carolyn Jones",
+        "John Astin",
+        "Victoria Principal",
+        "Linda Blair",
+        "Alan Ritchson",
+        "Michelle Pfeiffer",
+        "Charlize Theron"
+      ],
+      "titles": [
+        "Planet of the Apes",
+        "A Streetcar Named Desire",
+        "How Green Was My Valley",
+        "Fright Night",
+        "Lassie Come Home",
+        "CHiPs",
+        "Hello Down There",
+        "Galgameth",
+        "Mansion of Mystery",
+        "Bewitched",
+        "Rosemary's Baby",
+        "The War Lord",
+        "Hocus Pocus",
+        "Under Wraps",
+        "The Addams Family",
+        "Dallas",
+        "The Exorcist",
+        "Reacher"
+      ]
+    },
+    "keywords": [
+      "Planet of the Apes 1968 cast",
+      "Kim Hunter Dr Zira",
+      "Roddy McDowall Cornelius",
+      "Maurice Evans Dr Zaius",
+      "Lou Wagner Lucius"
+    ],
+    "images": [
+      {
+        "url": "https://images.hellomagazine.com/horizon/landscape/1200/ede276747c99-gettyimages-517212490.jpg",
+        "caption": "Unmasking the Stars of the 1968 Sci-Fi Classic Planet of the Apes",
+        "source": "HELLO! Magazine"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 11:00:00 GMT"
   }
 };
