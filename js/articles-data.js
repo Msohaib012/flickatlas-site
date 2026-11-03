@@ -49666,5 +49666,442 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 20:21:47 +0000"
+  },
+  "zafitn": {
+    "id": "zafitn",
+    "type": "news",
+    "headline": "Spain's Oscar Entry 'La Bola Negra' Dominates Box Office With Impressive Global Numbers",
+    "dek": "The acclaimed feature directed by Los Javis breaks records in Spain and secures strong international milestones.",
+    "body": [
+      {
+        "h": "Box Office Triumph in Spain",
+        "p": [
+          "The feature La Bola Negra has achieved remarkable financial success in its home market, standing out as the country's top-grossing local film of the year. According to Rentrak data, the production accumulated significant ticket sales, comfortably surpassing other domestic contenders like Torrente Presidente.",
+          "The project has also driven massive cinema attendance, recording millions of admissions since its launch. This performance positions the title as a major commercial victory for its independent distributor, Elastica."
+        ]
+      },
+      {
+        "h": "Historical Standings and Local Records",
+        "p": [
+          "Beyond leading the current calendar year, La Bola Negra has successfully secured a place on Spain's all-time top-grossing list. It now ranks among the highest-earning domestic productions in history.",
+          "When compared against all releases, both local and international, the film holds a competitive position alongside major Hollywood studio offerings running in the region."
+        ]
+      },
+      {
+        "h": "The Creative Forces Behind the Film",
+        "p": [
+          "The picture was written, directed, and produced by the creative duo Javier Calvo and Javier Ambrossi, widely known as Los Javis. Their work on the project earned them critical acclaim, including a Best Director win at Cannes.",
+          "The narrative structure centers on the interconnected lives of three men across different eras, exploring complex themes such as desire, inheritance, and sexuality."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and International Acclaim",
+        "p": [
+          "La Bola Negra features a prominent ensemble cast including Guitarricadelafuente, Miguel Bernardeau, Carlos Gonzalez, Milo Quifes, Lola Dueñas, Penélope Cruz, and Glenn Close.",
+          "The feature has garnered extensive international recognition, picking up the People's Choice Award at TIFF and securing nominations for upcoming ceremonies such as the Gotham Film Awards and the British Independent Film Awards."
+        ]
+      },
+      {
+        "h": "North American Platform Release",
+        "p": [
+          "Netflix acquired the United States rights for a substantial sum following its festival run. The streamer launched the film as a platform release across select theaters in Los Angeles and New York.",
+          "During its opening run in North America, the feature achieved record-breaking theater averages for a Spanish-language release, steadily building its running cume across multiple locations."
+        ]
+      },
+      {
+        "h": "Global Expansion and Future Dates",
+        "p": [
+          "The international rollout continues with screenings in various global territories, including estimated totals from Australia and New Zealand. Additional theatrical dates are scheduled, such as its upcoming release in France.",
+          "These international milestones contribute to the feature's growing global running cume as awards season approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "La Bola Negra stands as Spain's highest-grossing local film of the year and official Oscar entry, pulling in substantial global figures. Directed by Los Javis and backed by a notable cast, the feature continues to achieve milestone theater averages and international festival recognition."
+        ]
+      }
+    ],
+    "facts": [
+      "La Bola Negra has grossed $43.4M globally.",
+      "Spain's official Oscar entry is La Bola Negra.",
+      "Netflix bought U.S. rights for $5M.",
+      "The film is directed by Javier Calvo and Javier Ambrossi."
+    ],
+    "entities": {
+      "people": [
+        "Anthony D'Alessandro",
+        "Miguel Bernardeau",
+        "Guitarricadelafuente",
+        "Carla Oset",
+        "Destin Daniel Cretton",
+        "Javier Calvo",
+        "Javier Ambrossi",
+        "Carlos Gonzalez",
+        "Milo Quifes",
+        "Lola Dueñas",
+        "Penélope Cruz",
+        "Glenn Close",
+        "J.A. Bayona",
+        "Nicole Taylor",
+        "Tom Hiddleston",
+        "Dave Bautista",
+        "Russell Brand",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Orlando von Einsiedel",
+        "Josh Hartnett",
+        "Emma Thompson",
+        "Sally Hawkins",
+        "Danny Huston",
+        "Robert Aramayo",
+        "Chloe Pirrie",
+        "Elle Fanning",
+        "Julianne Moore",
+        "Rebecca Miller"
+      ],
+      "titles": [
+        "La Bola Negra",
+        "Torrente Presidente",
+        "Avatar",
+        "Spanish Affair",
+        "The Impossible",
+        "Spider-Man: Brand New Day",
+        "The Odyssey",
+        "Clayface",
+        "Hope",
+        "Prep",
+        "One Day",
+        "Much Ado About Nothing",
+        "A Few Good Men",
+        "Other Desert Cities",
+        "Hamilton",
+        "A Speck In The Sea",
+        "Moonsong: A Life In Seven Verses",
+        "Atoman"
+      ]
+    },
+    "keywords": [
+      "La Bola Negra film",
+      "Los Javis La Bola Negra",
+      "La Bola Negra box office",
+      "Miguel Bernardeau La Bola Negra"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDLABO_ZX001.jpg?w=1024",
+        "caption": "Spain's Oscar Entry 'La Bola Negra' Dominates Box Office With Impressive Global Numbers",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 22:45:53 +0000"
+  },
+  "1f1oimh": {
+    "id": "1f1oimh",
+    "type": "news",
+    "headline": "Jury Begins Deliberating in Russell Brand Trial as Judge Mandates Unanimous Verdict",
+    "dek": "After weeks of testimony at London's Southwark Crown Court, twelve jurors have started weighing evidence in the sexual assault trial of actor and comedian Russell Brand.",
+    "body": [
+      {
+        "h": "The Trial Reaches Deliberation Stage",
+        "p": [
+          "Jurors at London's Southwark Crown Court have officially commenced their deliberations regarding the legal case involving British comedian and actor Russell Brand. Following a lengthy courtroom presentation of evidence and arguments that spanned three weeks, the panel of twelve individuals must now determine the final outcome of the proceedings.",
+          "The proceedings have drawn significant public and media attention, with the defendant maintaining a daily presence alongside his spouse throughout the court sessions. The conclusion of arguments marks a pivotal juncture in a high-profile judicial inquiry that has unfolded over multiple weeks."
+        ]
+      },
+      {
+        "h": "Strict Instructions from the Bench",
+        "p": [
+          "Judge Joel Bennathan delivered clear instructions to the jury panel before they retired to consider their decisions. The presiding judge emphasized that any conclusion reached by the court must represent the collective and absolute agreement of every single juror on the panel.",
+          "Highlighting the gravity of the deliberations, the bench noted that partial or split decisions are unacceptable under the legal parameters of the case. All twelve individuals must ultimately align on their findings for each specific count before an official verdict can be formally recorded."
+        ]
+      },
+      {
+        "h": "Nature of the Charges and Accusations",
+        "p": [
+          "The legal action stems from allegations brought forward by six different women who claim misconduct occurred between the years 1999 and 2009. Prosecutors presented arguments characterizing the defendant as a predatory individual during a decade when his career transitioned from stand-up comedy to mainstream prominence across the United Kingdom.",
+          "According to the prosecution's case, the alleged incidents took place across various locations including a hotel room, corporate office spaces, media facilities, and private residential properties. The defendant faces multiple formal allegations encompassing several counts of rape, sexual assault, and attempted indecent assault."
+        ]
+      },
+      {
+        "h": "The Defense Position and Testimony",
+        "p": [
+          "Entering formal pleas of not guilty to all charges against him, the 51-year-old entertainer took the stand to give evidence during the proceedings. While acknowledging a strong personal focus on romantic encounters during his earlier years, he maintained that all interactions were entirely consensual.",
+          "Legal representatives for the defense pointed out that the claimants delayed reporting the alleged incidents to law enforcement for many years. Furthermore, defense counsel argued that the credibility of the accusations was compromised following the broadcast of a media documentary that featured anonymous claims."
+        ]
+      },
+      {
+        "h": "Closing Arguments and Legal Strategy",
+        "p": [
+          "During his closing statement, defense lawyer Ian Winter asserted that the integrity of the legal process had been compromised by outside media influences. He urged the panel to strictly differentiate between unconventional personal behavior and actual criminal conduct under the law.",
+          "The defense emphasized to the jury that behaving rudely, disrespectfully, or leading an unconventional lifestyle does not constitute a criminal offense. Counsel argued that an active personal life, regardless of public perception or moral judgments, falls outside the scope of unlawful behavior."
+        ]
+      },
+      {
+        "h": "Background and Career Context",
+        "p": [
+          "The defendant first achieved widespread recognition in the early 2000s through provocative stand-up comedy routines, television hosting roles, and a prominent radio program. His career later expanded into international film appearances and notable high-profile personal relationships.",
+          "In more recent years, the performer shifted away from traditional entertainment mediums, relocating to the United States and developing a substantial digital following centered around personal wellness, commentary, and lifestyle topics."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A twelve-person jury has begun deliberating in the trial of Russell Brand after receiving instructions from Judge Joel Bennathan that their decision must be unanimous. The comedian faces multiple counts of sexual misconduct involving six women, which he denies while his defense questions the timing and validity of the claims."
+        ]
+      }
+    ],
+    "facts": [
+      "The trial takes place at Southwark Crown Court in London.",
+      "Judge Joel Bennathan instructed the jury that their decision must be unanimous among all 12 jurors.",
+      "Six women accuse Russell Brand of sexual misconduct between 1999 and 2009.",
+      "Russell Brand is 51 years old.",
+      "The charges include three counts of rape, three counts of sexual assault, and one count of attempted indecent assault."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Laura Gallacher",
+        "Joel Bennathan",
+        "Ian Winter",
+        "Katy Perry"
+      ],
+      "titles": [
+        "Forgetting Sarah Marshall",
+        "Get Him to the Greek"
+      ]
+    },
+    "keywords": [
+      "Russell Brand trial",
+      "Russell Brand court verdict",
+      "Southwark Crown Court trial",
+      "Russell Brand sexual assault charges"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135513452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jury Begins Deliberating in Russell Brand Trial as Judge Mandates Unanimous Verdict",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T03:16:56+05:30"
+  },
+  "g4p5sg": {
+    "id": "g4p5sg",
+    "type": "news",
+    "headline": "DC Studios Officially Casts Mason Thames As Robin in Upcoming Animated Film",
+    "dek": "Peter Safran confirms Mason Thames will voice Dick Grayson in Dynamic Duo, sparking questions about potential live-action appearances.",
+    "body": [
+      {
+        "h": "The Official Casting Announcement",
+        "p": [
+          "DC Studios has officially found its next Robin, with studio co-head Peter Safran confirming that Mason Thames will voice Dick Grayson in the upcoming feature Dynamic Duo. The casting confirmation arrives following months of rumors, including a report by scooper Jeff Sneider in September 2026.",
+          "Safran revealed that Thames pursued the role with great enthusiasm, visiting DC offices alongside his father and thoroughly auditioning for the part. The actor is well-known for his prior work in The Black Phone and its sequel, as well as portraying Hiccup in the live-action How to Train Your Dragon film."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of Dynamic Duo",
+        "p": [
+          "Dynamic Duo is an upcoming animated project developed by DC Studios in partnership with Swaybox Studios. The production utilizes a distinctive animation style developed by Swaybox co-founders Arthur Mintz and Theresa Andersson, which blends puppetry and CGI to achieve a stop-motion aesthetic.",
+          "The narrative of the film will explore the origin stories of both Dick Grayson and Jason Todd. Alongside Thames, Logan Kim has been cast to voice Jason Todd, though the recasting drew public disappointment from Titans star Curran Walters."
+        ]
+      },
+      {
+        "h": "Enthusiasm and Dedication from the Actor",
+        "p": [
+          "According to studio leadership, Thames demonstrated immense dedication during the audition process, described by Safran as being entirely obsessed with securing the role of Dick Grayson. The 19-year-old actor, who also appeared in the comedy film Idiots alongside Dave Franco and O'Shea Jackson Jr., deeply impressed the studio executives with his passion.",
+          "This level of commitment has generated positive expectations for his vocal performance in the upcoming DC Universe feature."
+        ]
+      },
+      {
+        "h": "The Live-Action Transition Question",
+        "p": [
+          "A central question following the casting announcement is whether Thames will transition to playing Dick Grayson in live-action productions. While past remarks from co-head James Gunn suggest that DC Universe actors should portray their characters across film, television, animation, and video games, official confirmation regarding Thames remains absent.",
+          "Similar uncertainty surrounds Logan Kim's potential live-action future as Jason Todd within the evolving franchise."
+        ]
+      },
+      {
+        "h": "Precedents for Cross-Medium Casting",
+        "p": [
+          "James Gunn has previously emphasized a unified strategy where performers span multiple formats within the same shared continuity. Frank Grillo serves as a prime example, having portrayed Rick Flag Sr. across the film Superman, the television series Peacemaker, and the animated show Creature Commandos.",
+          "Additionally, Aaron Pierre was announced to play Green Lantern John Stewart in both the HBO series Lanterns and the theatrical movie Man of Tomorrow, supporting the studio's goal of maintaining parity between television and film."
+        ]
+      },
+      {
+        "h": "Broader Context and Franchise Shifts",
+        "p": [
+          "The long-term strategy for the DC Universe has faced various adjustments since its initial 2022 announcement by Gunn and Safran. Changes have included canceled projects such as The Authority, alongside shifts driven by corporate developments like the Warner Bros. Discovery and Paramount merger in October 2026.",
+          "These alterations raise ongoing questions about how strictly the studio will adhere to its original cross-medium actor continuity plans moving forward."
+        ]
+      },
+      {
+        "h": "Release Details and Additional Cast",
+        "p": [
+          "Dynamic Duo is currently scheduled for release on September 22, 2028. Arthur Mintz is attached to direct the feature under the banner of Swaybox Studios.",
+          "Additional casting reports indicate that Lee Pace and Steve Buscemi have joined the project to portray members of the Red Hood Gang, though further plot and character details remain limited."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Studios co-head Peter Safran has confirmed that Mason Thames will voice Dick Grayson in the upcoming animated film Dynamic Duo, which is slated for a September 22, 2028 release. The project, directed by Arthur Mintz and produced in collaboration with Swaybox Studios, will also feature Logan Kim as the voice of Jason Todd. While studio leadership has previously expressed intentions for DC Universe actors to cross over between animation, television, and live-action, official confirmation regarding a live-action role for Thames has not yet been provided."
+        ]
+      }
+    ],
+    "facts": [
+      "Peter Safran confirmed Mason Thames as the voice of Dick Grayson in Dynamic Duo on November 3, 2026.",
+      "Mason Thames is 19 years old.",
+      "Dynamic Duo is scheduled for release on September 22, 2028.",
+      "Swaybox Studios was co-founded by Arthur Mintz and Theresa Andersson in 2013.",
+      "Logan Kim has been cast as Jason Todd in Dynamic Duo.",
+      "Frank Grillo plays Rick Flag Sr. across Superman, Peacemaker, and Creature Commandos."
+    ],
+    "entities": {
+      "people": [
+        "Mason Thames",
+        "Peter Safran",
+        "James Gunn",
+        "Dave Franco",
+        "O'Shea Jackson Jr.",
+        "Logan Kim",
+        "Curran Walters",
+        "Arthur Mintz",
+        "Theresa Andersson",
+        "Lee Pace",
+        "Steve Buscemi",
+        "Frank Grillo",
+        "Aaron Pierre",
+        "Jeff Sneider"
+      ],
+      "titles": [
+        "Dynamic Duo",
+        "The Black Phone",
+        "How to Train Your Dragon",
+        "Idiots",
+        "Titans",
+        "Superman",
+        "Peacemaker",
+        "Creature Commandos",
+        "The Authority",
+        "Lanterns",
+        "Man of Tomorrow"
+      ]
+    },
+    "keywords": [
+      "Mason Thames Robin",
+      "Dynamic Duo movie",
+      "Peter Safran DC Studios",
+      "Logan Kim Jason Todd"
+    ],
+    "images": [
+      {
+        "url": "https://www.slashfilm.com/img/gallery/dc-studios-officially-casts-mason-thames-as-robin-but-will-he-play-him-in-live-action/l-intro-1793745723.jpg",
+        "caption": "DC Studios Officially Casts Mason Thames As Robin in Upcoming Animated Film",
+        "source": "SlashFilm"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 22:43:35 +0000"
+  },
+  "fvyzjy": {
+    "id": "fvyzjy",
+    "type": "news",
+    "headline": "Five Memorable Films That Abandoned Studio Sets for Authentic Real-World Locations",
+    "dek": "Explore five acclaimed feature films, including Sumo Didi, Zindagi Na Milegi Dobara, and Piku, that utilized genuine physical settings to deepen their narrative authenticity.",
+    "body": [
+      {
+        "h": "The Power of Authentic Settings",
+        "p": [
+          "A film's physical backdrop often carries as much weight as the plot itself. Stepping away from controlled studio environments and filming in genuine locations allows filmmakers to capture the true atmosphere and texture of a story.",
+          "Recent viewings of titles like Sumo Didi on ZEE5 highlight how shooting across varied geographic areas elevates the viewing experience. This approach grounds cinematic storytelling in reality."
+        ]
+      },
+      {
+        "h": "Sumo Didi and Its Global Footprint",
+        "p": [
+          "Inspired by Hetal Dave, India's first professional female sumo wrestler, Sumo Didi explores a unique subject in cinema. The production utilized real locations in Japan, Kolkata, and Mumbai.",
+          "Directed by Jayant Rohatgi and starring Shriyam Bhagnani, the project highlights the protagonist's perseverance by embedding her journey within actual streets and wrestling arenas."
+        ]
+      },
+      {
+        "h": "Zindagi Na Milegi Dobara and Spanish Landscapes",
+        "p": [
+          "Zoya Akhtar's Zindagi Na Milegi Dobara takes viewers across Spain for a tale of self-discovery among three friends. The visual journey forms a core component of the adventure.",
+          "Locations such as Barcelona, Pamplona, and Andalusia anchor events like La Tomatina and the running of the bulls, making the environment as memorable as the friendships."
+        ]
+      },
+      {
+        "h": "The Lunchbox and the Pulse of Mumbai",
+        "p": [
+          "Ritesh Batra's The Lunchbox finds its distinct charm within the daily routines of Mumbai. Filming took place on location in areas like Churchgate, Malad, and Dongri.",
+          "By capturing the natural chaos of local trains, streets, and neighborhoods, the production creates a grounded backdrop for an unexpected connection between characters."
+        ]
+      },
+      {
+        "h": "Highway and Striking Indian Vistas",
+        "p": [
+          "Imtiaz Ali's Highway pairs Alia Bhatt and Randeep Hooda in a narrative driven by changing environments. The film was shot across regions including Rajasthan, Himachal Pradesh, and Kashmir.",
+          "Open highways and remote valleys serve as reflections of the characters' internal emotional developments rather than functioning as mere visual backdrops."
+        ]
+      },
+      {
+        "h": "Piku and Familiar Cultural Textures",
+        "p": [
+          "Shoojit Sircar's Piku documents a family trip travelling through Delhi, Kolkata, and Varanasi. The cast features Deepika Padukone, Amitabh Bachchan, and Irrfan Khan.",
+          "Using real streets and landmarks like Kolkata's Howrah Bridge infuses the narrative with warmth and cultural familiarity, creating a deeply personal viewing experience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "This feature highlights five films that utilized authentic real-world locations rather than studio sets to elevate their storytelling. Productions ranging from Sumo Didi to Piku demonstrate how physical environments add depth and cultural texture to cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Sumo Didi is inspired by Hetal Dave, India's first professional female sumo wrestler.",
+      "Sumo Didi was directed by Jayant Rohatgi and stars Shriyam Bhagnani.",
+      "Sumo Didi was shot across Japan, Kolkata, and Mumbai.",
+      "Zindagi Na Milegi Dobara was directed by Zoya Akhtar and shot in Barcelona, Pamplona, and Andalusia.",
+      "The Lunchbox was directed by Ritesh Batra and filmed in Churchgate, Malad, and Dongri.",
+      "Highway features Alia Bhatt and Randeep Hooda and was shot in Rajasthan, Himachal Pradesh, and Kashmir.",
+      "Piku spans Delhi, Kolkata, and Varanasi and stars Deepika Padukone, Amitabh Bachchan, and Irrfan Khan."
+    ],
+    "entities": {
+      "people": [
+        "Hetal Dave",
+        "Jayant Rohatgi",
+        "Shriyam Bhagnani",
+        "Zoya Akhtar",
+        "Ritesh Batra",
+        "Alia Bhatt",
+        "Randeep Hooda",
+        "Shoojit Sircar",
+        "Deepika Padukone",
+        "Amitabh Bachchan",
+        "Irrfan Khan"
+      ],
+      "titles": [
+        "Sumo Didi",
+        "Zindagi Na Milegi Dobara",
+        "The Lunchbox",
+        "Highway",
+        "Piku"
+      ]
+    },
+    "keywords": [
+      "Sumo Didi film",
+      "Hetal Dave Sumo Didi",
+      "Zindagi Na Milegi Dobara locations",
+      "Piku film locations",
+      "Highway movie locations"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/somudidipikuzee5highway-81221793744959.jpg",
+        "caption": "Five Memorable Films That Abandoned Studio Sets for Authentic Real-World Locations",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 04:04:05 +0530"
   }
 };
