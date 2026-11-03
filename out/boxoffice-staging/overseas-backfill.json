@@ -181,6 +181,13 @@
       "day": 17,
       "overseas_inr_cr": 3.0,
       "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-11-02",
+      "day": 19,
+      "occupancy_pct": 13.2,
+      "shows": 7995,
+      "source": "overseas-backfill"
     }
   ],
   "1269325": [
@@ -451,6 +458,13 @@
       "day": 10,
       "occupancy_pct": 18.0,
       "shows": 5114,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-11-02",
+      "day": 11,
+      "occupancy_pct": 11.0,
+      "shows": 4951,
       "source": "overseas-backfill"
     }
   ],
@@ -1161,6 +1175,13 @@
       "day": 10,
       "occupancy_pct": 13.0,
       "shows": 572,
+      "source": "overseas-backfill"
+    },
+    {
+      "date": "2026-11-02",
+      "day": 11,
+      "occupancy_pct": 10.0,
+      "shows": 546,
       "source": "overseas-backfill"
     }
   ],

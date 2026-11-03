@@ -40640,5 +40640,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-02T23:51:48Z"
+  },
+  "1pto4n5": {
+    "id": "1pto4n5",
+    "type": "news",
+    "headline": "Drishyam: The Conclusion Box Office Collection Day 32 Slows Down on Fifth Monday",
+    "dek": "Ajay Devgn's crime thriller Drishyam: The Conclusion experiences a drop on its fifth Monday as its theatrical run nears its end.",
+    "body": [
+      {
+        "h": "Theatrical Slowdown on Fifth Monday",
+        "p": [
+          "Drishyam: The Conclusion is steadily winding down its time in cinema halls across the country. Following a minor lift in audience turnout over its fifth weekend, weekday numbers have dropped back down as regular ticket sales cool off.",
+          "On its thirty-second day in theatres, the suspense drama brought in an estimated net collection of fifty-five lakh rupees. This represents a noticeable dip from the previous day's numbers, marking the entry into the final phase of its box office journey."
+        ]
+      },
+      {
+        "h": "Domestic and Global Totals",
+        "p": [
+          "The film launched with massive ticket sales on its opening day, pulling in sixty-two crore net across domestic screens. Over the course of its run, it has accumulated a domestic net total of three77.90 crore rupees.",
+          "When counting gross domestic earnings, the tally reaches four52.59 crore rupees. Combined with international markets, the worldwide gross for the crime thriller is estimated at five85.49 crore rupees."
+        ]
+      },
+      {
+        "h": "Budget and Return on Investment",
+        "p": [
+          "According to industry reports, the production of Drishyam: The Conclusion required an estimated investment of one10 crore rupees, which accounts for filming expenses, promotional costs, and actor salaries.",
+          "With global earnings now surpassing five times the initial production expenditure, the movie has comfortably crossed major financial milestones compared to earlier entries in the franchise."
+        ]
+      },
+      {
+        "h": "Franchise Financial Context",
+        "p": [
+          "The preceding chapters in the series also commanded substantial budgets during their respective theatrical outings. The second installment was reportedly produced on a budget of ninety crore rupees with an additional sixty crore allocated for talent compensation.",
+          "Similarly, the opening film in the franchise began with a reported baseline cost of sixty-five crore rupees, establishing a high-value precedent for the subsequent sequels."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Arc",
+        "p": [
+          "The story centres on Vijay Salgaonkar, who managed to evade legal consequences years prior but now discovers that his history is catching up with him. Meera Deshmukh re-enters the picture with a singular focus on personal retribution rather than traditional court verdicts.",
+          "Adding further tension is the introduction of a skilled Crime Branch investigator whose relentless pursuit tests Vijay's established alibis and psychological boundaries as he works to protect his family."
+        ]
+      },
+      {
+        "h": "Current Exhibition Footprint",
+        "p": [
+          "Even as daily box office figures contract, the production maintains a broad presence in cinemas nationwide. The feature continues to screen across three thousand and twenty-six locations, retaining dedicated viewership from its core supporters.",
+          "Industry data tracking provides these metrics as an approximation of current commercial performance, subject to minor revisions as studio reports finalize."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's crime thriller Drishyam: The Conclusion recorded fifty-five lakh rupees on its fifth Monday, bringing its domestic net total to three77.90 crore rupees. As the feature approaches the end of its theatrical run, its worldwide gross stands at an estimated five85.49 crore rupees against a production budget of one10 crore rupees."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam: The Conclusion earned an estimated net Rs 55 lakh on Day 32.",
+      "The film's India net collection stands at Rs 377.90 crore.",
+      "The domestic gross figure reached Rs 452.59 crore.",
+      "The worldwide gross is estimated at Rs 585.49 crore.",
+      "The production cost was around Rs 110 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Vijay Salgaonkar",
+        "Meera Deshmukh"
+      ],
+      "titles": [
+        "Drishyam: The Conclusion",
+        "Drishyam 3",
+        "Drishyam 2",
+        "Drishyam"
+      ]
+    },
+    "keywords": [
+      "Drishyam: The Conclusion",
+      "Ajay Devgn Drishyam 3",
+      "Drishyam 3 box office collection",
+      "Vijay Salgaonkar Meera Deshmukh"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135477941,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Drishyam: The Conclusion Box Office Collection Day 32 Slows Down on Fifth Monday",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T06:12:35+05:30"
+  },
+  "1nwi4cz": {
+    "id": "1nwi4cz",
+    "type": "news",
+    "headline": "Neve Campbell Officially Confirms Her Return for Scream 8",
+    "dek": "The iconic horror franchise star shares that she is officially attached to reprise her role as Sidney Prescott in the upcoming eighth installment.",
+    "body": [
+      {
+        "h": "Neve Campbell Confirms Scream 8 Return",
+        "p": [
+          "Franchise icon Neve Campbell has officially announced that she will be coming back for another terrifying chapter in the ongoing slasher saga. During a recent interview with the Associated Press, the actress gave a direct update regarding her upcoming professional commitments. When discussing projects she currently has in the works, she explicitly mentioned that the eighth movie is actively in the pipeline.",
+          "While speaking with the press outlet, the star was naturally pressed for further plot details or production updates regarding the upcoming slasher sequel. Maintaining the franchise's strict tradition of secrecy, she kept narrative specifics under wraps. However, she firmly assured fans that she will indeed be starring in the feature."
+        ]
+      },
+      {
+        "h": "Background on Recent Franchise History",
+        "p": [
+          "The confirmation of an eighth film follows closely on the heels of the seventh movie's release in February 2026. Industry reports indicated that planning for the subsequent sequel was already underway around the exact same time the seventh installment hit theaters. This swift continuation highlights the enduring popularity and commercial viability of the long-running property.",
+          "Viewers will recall that the lead actress famously skipped the sixth installment due to a compensation dispute. Her absence was a major talking point among dedicated supporters of the franchise at the time. Fortunately, the creative differences were resolved ahead of the seventh film, paving the way for her triumphant return to the series."
+        ]
+      },
+      {
+        "h": "Box Office Success of the Seventh Film",
+        "p": [
+          "The decision by Paramount Pictures to meet the star's financial expectations for the seventh movie proved to be a lucrative business strategy. Reports noted that she earned a substantial seven million dollar payday for her starring role in that production. The investment paid off handsomely for the studio as audience turnout remained remarkably strong.",
+          "Financially, the seventh movie outperformed its immediate predecessor by a wide margin on a global scale. The film ultimately grossed two hundred and seven million dollars worldwide. In comparison, the sixth installment finished its theatrical run with one hundred and sixty-six million dollars globally, marking a significant upward trajectory for the property."
+        ]
+      },
+      {
+        "h": "Other Upcoming Projects in the Pipeline",
+        "p": [
+          "Aside from her commitments to the horror franchise, the actress is currently juggling multiple creative endeavors in television development. She revealed that she has two different shows in the works, noting that one of them has already been successfully sold. Her busy schedule highlights her continued influence across both film and television mediums.",
+          "Among her television ventures is an upcoming drama for HBO Max that is currently in development. Notably, this particular project will serve as a creative reunion with the original creator of Party of Five. This upcoming series adds another high-profile title to her already impressive slate of professional projects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Neve Campbell has confirmed during an interview with the Associated Press that she will return for Scream 8 following the box office success of the seventh film. The latest installment grossed two hundred and seven million dollars worldwide after her return to the franchise in February 2026. In addition to the upcoming horror sequel, she is also developing television projects including a new HBO Max drama."
+        ]
+      }
+    ],
+    "facts": [
+      "Neve Campbell confirmed she is returning for Scream 8 in an interview with the Associated Press on November 2, 2026.",
+      "Scream 7 was released in February 2026.",
+      "Neve Campbell reportedly earned a $7 million payday for Scream 7.",
+      "Scream 7 grossed $207 million worldwide.",
+      "Scream 6 grossed $166 million worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Neve Campbell"
+      ],
+      "titles": [
+        "Scream 8",
+        "Scream 7",
+        "Scream 6",
+        "Party of Five"
+      ]
+    },
+    "keywords": [
+      "Neve Campbell Scream 8",
+      "Scream 8 update",
+      "Neve Campbell returning for Scream 8",
+      "Scream 7 box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/neve-campbell-returning-for-scream.jpg",
+        "caption": "Neve Campbell Officially Confirms Her Return for Scream 8",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 00:28:05 +0000"
+  },
+  "1tmaicv": {
+    "id": "1tmaicv",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 4: Venkatesh Daggubati's Film Reaches Rs 55.65 Cr Worldwide",
+    "dek": "Venkatesh Daggubati and Srinidhi Shetty's Telugu action comedy-drama witnesses a weekday drop on its fourth theatrical day.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The theatrical run of Aadarsha Kutumbam House No: 47 (AK 47) began with steady momentum when it premiered on Friday, October 30, 2026. The movie brought in Rs 9.75 crore net domestically on its opening day.",
+          "Collections moved upward over the weekend, with Saturday seeing a 6.7 percent growth to reach Rs 10.40 crore net. Sunday continued this upward path with an 8.2 percent increase, bringing in an additional Rs 11.25 crore net across India."
+        ]
+      },
+      {
+        "h": "Weekday Slump on Monday",
+        "p": [
+          "The box office trajectory changed significantly as the film entered the first weekday. On Monday, November 2, 2026, the action comedy-drama recorded a sharp drop in ticket sales across its 2,981 screening shows.",
+          "The domestic net collection fell by 69.8 percent compared to the previous day, bringing in Rs 3.40 crore net in India. This brought the cumulative four-day domestic net total to Rs 34.80 crore."
+        ]
+      },
+      {
+        "h": "Global Gross and Overseas Earnings",
+        "p": [
+          "In addition to its domestic earnings, the film added contributions from international territories on its fourth day. Overseas markets contributed Rs 75 lakh on Monday, raising the cumulative international gross to Rs 14.85 crore.",
+          "When combining the Indian gross of Rs 40.80 crore with the overseas numbers, the worldwide gross collection for Venkatesh Daggubati's latest starrer reached Rs 55.65 crore after four days in theaters."
+        ]
+      },
+      {
+        "h": "Comparison With Sankranthiki Vasthunam",
+        "p": [
+          "An examination of Venkatesh Daggubati's prior blockbuster Sankranthiki Vasthunam reveals a notable gap in initial commercial success. At the same four-day milestone, the earlier release had accumulated a worldwide total of Rs 105.27 crore.",
+          "With its current worldwide gross at Rs 55.65 crore, Aadarsha Kutumbam House No: 47 trails behind the actor's previous hit by a margin of Rs 49.62 crore."
+        ]
+      },
+      {
+        "h": "Theatre Occupancy Trends",
+        "p": [
+          "Audience turnout for the Telugu version of the film experienced a noticeable contraction on Monday compared to the opening weekend percentages. Overall occupancy across all shows averaged 20.29 percent.",
+          "Morning screenings started at 13.77 percent occupancy, rising slightly to 21.08 percent in the afternoon and 21.62 percent in the evening. Night shows recorded the highest engagement of the day at 24.69 percent, though these figures remained below the weekend peaks of over 44 to 52 percent."
+        ]
+      },
+      {
+        "h": "Regional Contribution Breakdown",
+        "p": [
+          "The states of Andhra Pradesh and Telangana remained the primary drivers of box office revenue, generating a combined gross of Rs 3.50 crore on Monday. Other regions contributed smaller amounts to the daily figures.",
+          "Karnataka added Rs 35 lakh to the box office tally, Tamil Nadu contributed Rs 6 lakh, and the rest of India accounted for Rs 4 lakh, rounding out the reported day four gross."
+        ]
+      },
+      {
+        "h": "Plot and Creative Team",
+        "p": [
+          "Directed by Trivikram Srinivas, Aadarsha Kutumbam House No: 47 (AK 47) is styled as a 2026 Telugu-language action comedy-drama. The narrative centers on characters Chittibabu and Swarna alongside their household residing at House No. 47.",
+          "The family encounters unexpected disruptions when long-buried secrets and domestic tensions come to light. The musical score for the project was composed by Thaman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Venkatesh Daggubati and Srinidhi Shetty's Aadarsha Kutumbam House No: 47 earned Rs 55.65 crore worldwide after four days in theaters. Following a steady opening weekend, the film experienced a weekday drop on Monday, bringing its domestic net total to Rs 34.80 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "The film collected Rs 3.40 cr net in India on Monday, November 2.",
+      "Domestic net collection reached Rs 34.80 cr after four days.",
+      "India gross stands at Rs 40.80 cr after four days.",
+      "Overseas gross reached Rs 14.85 cr after adding Rs 75 lakh on Day 4.",
+      "Worldwide gross collection stands at Rs 55.65 cr.",
+      "Opening day net collection was Rs 9.75 cr on Friday, October 30.",
+      "Saturday collection rose by 6.7% to Rs 10.40 cr net.",
+      "Sunday collection rose by 8.2% to Rs 11.25 cr net.",
+      "The film lagged behind Sankranthiki Vasthunam by Rs 49.62 cr in worldwide gross at the same stage."
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh Daggubati",
+        "Srinidhi Shetty",
+        "Trivikram Srinivas",
+        "Thaman",
+        "Chittibabu",
+        "Swarna"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47 (AK 47)",
+        "Sankranthiki Vasthunam"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No 47 box office",
+      "Venkatesh Daggubati AK 47 collection",
+      "Sankranthiki Vasthunam comparison",
+      "AK 47 day 4 collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135477768,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 4: Venkatesh Daggubati's Film Reaches Rs 55.65 Cr Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T05:54:34+05:30"
+  },
+  "28avr": {
+    "id": "28avr",
+    "type": "news",
+    "headline": "Ranabaali Box Office Collection Day 18: Vijay Deverakonda Film Nears Budget Recovery As Worldwide Gross Hits Rs 80.27 Cr",
+    "dek": "Vijay Deverakonda, Rashmika Mandanna and Arnold Vosloo starrer Ranabaali faces a slowdown in theatres, collecting Rs 21 lakh net in India on its eighteenth day.",
+    "body": [
+      {
+        "h": "Theatrical Slowdown On Day 18",
+        "p": [
+          "The period action drama 'Ranabaali' is experiencing a notable deceleration in ticket sales across India as it enters the later stages of its theatrical run. On its eighteenth day in cinemas, the film secured a modest collection of Rs 21 lakh net domestically across 492 operating shows. This recent figure highlights a sharp tapering off in daily revenues as audience turnout sees a steady decline compared to its earlier weeks.",
+          "With this latest addition, the feature's cumulative domestic net collection has advanced to Rs 58.48 cr. Meanwhile, the corresponding Indian gross earnings have reached a total of Rs 67.92 cr. Overseas markets have provided an additional boost, contributing Rs 12.35 cr to the project's overall commercial tally."
+        ]
+      },
+      {
+        "h": "Worldwide Gross Reaches New Milestone",
+        "p": [
+          "Combining the domestic gross and the international market contributions, 'Ranabaali' has successfully pushed its worldwide gross collection to Rs 80.27 cr after eighteen days of screening. Industry trackers note that while the international contribution has helped pad the overall numbers, the domestic additions have slowed down considerably, signaling that the movie is nearing the conclusion of its time on the big screen.",
+          "The theatrical trajectory shows diminishing returns on a day-to-day basis. Observers point out that the daily additions are becoming increasingly minimal, which typically characterizes the final weeks of a commercial release cycle."
+        ]
+      },
+      {
+        "h": "Weekday Decline And Weekend Comparison",
+        "p": [
+          "The film's performance on Monday marked a significant drop from the preceding weekend numbers. According to data from Sacnilk, the India net collection on Monday experienced a 44.7% reduction when measured against the Rs 38 lakh amassed on Sunday.",
+          "During its third week in theatres, the earnings have remained constrained. The cumulative total for the first four days of the third week stands at Rs 1.18 cr net. Throughout its entire run so far, the title has registered a total of 28,455 screenings across various locations in the country."
+        ]
+      },
+      {
+        "h": "First And Second Week Trajectory",
+        "p": [
+          "A look back at the release timeline reveals a much stronger start during the initial week in theatres. 'Ranabaali' commenced its box office journey by accumulating Rs 45.20 cr net during its first seven days, accompanied by an opening week India gross of Rs 52.55 cr.",
+          "However, a substantial contraction in revenues occurred during the second week. Between days 8 and 14, the production brought in Rs 12.10 cr net and Rs 14 cr gross, marking a sharp 73.2% downward shift compared to its opening week performance. This downward trend continued into the third week, where earnings from days 15 to 18 tapered further to Rs 1.18 cr net and Rs 1.37 cr gross."
+        ]
+      },
+      {
+        "h": "Budget Recovery And Financial Status",
+        "p": [
+          "According to estimates from Bollymoviereviewz, 'Ranabaali' was made on a reported production budget of Rs 84 cr, which encompasses promotional expenditures. Based on this figure, the movie requires slightly over Rs 3 cr more to achieve complete budget recovery.",
+          "Given that the worldwide gross currently stands at Rs 80.27 cr, the remaining financial gap to match the reported budget is relatively small. Furthermore, industry analysts suggest that the project may have already balanced its production costs when factoring in advance sales figures and digital streaming rights."
+        ]
+      },
+      {
+        "h": "Theatre Occupancy And Regional Response",
+        "p": [
+          "On its eighteenth day, the Telugu language version of the feature recorded an overall theatre occupancy rate of 13.52%. Morning screenings saw the highest engagement with 15.36% occupancy, followed by afternoon shows at 10.45% and evening screenings at 11.73%. Night shows closed out the day with 9.27% occupancy.",
+          "The narrative of the movie is backdrop-set against the historical Madras Famine of 1876–1878 within the Rayalaseema region. It follows the journey of a horseman who spearheads a local resistance movement against British colonial rule, forming the core of the dramatic uprising depicted on screen."
+        ]
+      },
+      {
+        "h": "Cast And Production Background",
+        "p": [
+          "The big-budget period drama features a prominent ensemble cast. Telugu star Vijay Deverakonda anchors the project alongside Rashmika Mandanna and international actor Arnold Vosloo, all of whom play pivotal characters in the historical resistance narrative.",
+          "As public and industry sources continue to compile these approximate figures, final studio updates and international market reports may introduce minor adjustments to the overall commercial metrics reported thus far."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vijay Deverakonda, Rashmika Mandanna, and Arnold Vosloo's 'Ranabaali' has reached a worldwide gross of Rs 80.27 cr by its eighteenth day in theatres, requiring over Rs 3 cr more to cover its reported budget. The film recorded Rs 21 lakh net domestically on Monday as its theatrical run nears its conclusion amid a sharp weekday decline."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranabaali collected Rs 21 lakh net in India on Monday, November 2",
+      "Domestic net collection reached Rs 58.48 cr",
+      "India gross stands at Rs 67.92 cr",
+      "Overseas performance contributed Rs 12.35 cr",
+      "Worldwide gross collection reached Rs 80.27 cr after 18 days",
+      "Monday collection dropped by 44.7% compared to Sunday's Rs 38 lakh",
+      "Total shows recorded across the country reached 28,455",
+      "Third-week four-day total stands at Rs 1.18 cr net",
+      "First week net collection was Rs 45.20 cr",
+      "First week India gross was Rs 52.55 cr",
+      "Second week collection between Days 8 and 14 was Rs 12.10 cr net and Rs 14 cr gross",
+      "Second week experienced a 73.2% decline compared to the first week",
+      "Days 15 to 18 added Rs 1.18 cr net and Rs 1.37 cr gross",
+      "Reported production budget is Rs 84 cr including promotional expenses",
+      "Film needs over Rs 3 cr to recover reported budget",
+      "Telugu version recorded an overall theatre occupancy of 13.52% on Day 18",
+      "Morning shows recorded 15.36% occupancy",
+      "Afternoon screenings registered 10.45% occupancy",
+      "Evening shows reported 11.73% occupancy",
+      "Night shows recorded 9.27% occupancy"
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Arnold Vosloo"
+      ],
+      "titles": [
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Ranabaali box office collection",
+      "Vijay Deverakonda Ranabaali film",
+      "Ranabaali day 18 earnings",
+      "Ranabaali worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135477513,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ranabaali Box Office Collection Day 18: Vijay Deverakonda Film Nears Budget Recovery As Worldwide Gross Hits Rs 80.27 Cr",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T05:38:55+05:30"
   }
 };
