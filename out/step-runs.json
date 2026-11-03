@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T07:51:39Z",
-    "run_id": "41408890809",
-    "status": "success",
-    "checked": {
-     "candidates": 274,
-     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "A.R. Rahman becomes the new face of Brooke Bond Taj Mahal Tea; Oscar-Winning composer launches ‘Awaken Your Masterpiece’ campaign",
-      "EXCL! Why Is SRK 'The Last Of The Stars'? OSO AD Jaimin Reveals What Makes King Khan's Stardom Irreplaceable",
-      "Dilwali Diwali Star Mihir Ahuja Is Exploring Different Sides Of His Craft: Emotional Heart Of Story Drew Me...",
-      "Anuj Thakur Death Reason: TV Actor Passes Away At 33; What Happened To Him? How Did He Die? UPDATE",
-      "Ulhas Kamthe Death Hoax: Is Influencer Chicken Leg Piece DEAD Or ALIVE? Truth Out After Viral Hospital Video",
-      "Cult Box Office Collection Day 3: Vishwak Sen's Film Sees 6% Drop On Sunday, Check 3-Day Total",
-      "Verity Worldwide Box Office: Anne Hathaway Starrer Enjoys 72% Surplus Over Its Break-Even Target In 31 Days",
-      "Heart of the Beast Worldwide Box Office: How Far Is Brad Pitt’s Film From Achieving Its Break-Even Target?",
-      "Jailer 2 Box Office Collection Day 18: Becomes First Kollywood Film To Reach 450 Crore Net, Scores A Historic 3rd Weekend As Well",
-      "Pehla Pyaar Doosri Baar Continues to Win With Its Positive Word-of-Mouth – Audience Keep Showering Love!",
-      "Top Highest Grossing Kollywood Films in India: Superstar Rajinikanth starrer Jailer 2 tops long standing record of 2.0",
-      "Sanjay's wife REACTS to daughter’s viral middle finger video",
-      "'Tourist Family' director Abishan Jeevinth blessed with baby girl",
-      "Vijay Deverakonda and Rashmika Mandanna's 'Ranabaali' OTT release date OUT",
-      "SRK skips balcony appearance, thanks fans with HANDWRITTEN note",
-      "Sanjay Gupta's wife urges people to excuse daughter after she showed middle finger to paparazzi, calls it 'expressions of grieving children’",
-      "Sanjay Gupta's wife Anuradha Lekhi Gupta requests for privacy after filmmaker's death",
-      "TN CM Vijay releases  ₹15 crore subsidy for 224 Tamil films produced between 2015-2022; producer calls it Diwali gift",
-      "Divya Dutta recalls how Shah Rukh Khan guided her on Veer Zaara sets | Interview",
-      "After Delhi concert, Diljit Dosanjh finds moment of peace by the Ganga in Rishikesh"
-     ],
-     "updated": [],
-     "count": 254,
-     "detail": "264 stories, 0 duplicates removed, 10 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T08:04:50Z",
     "run_id": "41410391369",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "253 stories, 6 duplicates removed, 103 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T07:52:28Z",
-    "run_id": "41408890809",
+    "run_at": "2026-11-03T07:50:57Z",
+    "run_id": "41598991512",
     "status": "success",
     "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 251,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Superstar Rajinikanth's Jailer 2 Crosses Rs 800 Crore Worldwide",
-      "A.R. Rahman Steps Up as the Fresh Face of Brooke Bond Taj Mahal Tea"
+      "EXCLUSIVE: Border 2 fame Medha Rana joins Ahan Shetty in Tinu Suresh Desai's Sanki",
+      "Saiyami Kher Takes Her Father On An Emotional Australian Getaway, Recreating Adventures He Introduced Her To",
+      "Aadarsha Kutumbam House No: 47 Box Office Day 4: Records 2nd-Lowest First Monday For Venkatesh Post-COVID, Shows A Huge 65% Drop",
+      "Clayface North America Box Office: Leaves Catwoman Behind, Sets Sights On Wonder Woman 2",
+      "chiranjeevi ram charan meet amit shah over misuse of ai and deepfakes 86945.html",
+      "shah rukh khans witty reply to salman khans birthday wish wins the internet 86946.html",
+      "Paris Jackson is demanding that her father’s estate pay alleged dues worth USD 600 million",
+      "Meghan Markle’s father admitted to Florida dementia care facility amid ongoing investigation",
+      "Suriya says 'The One' is not just his title but collective identity",
+      "Shah Rukh Khan's King earns  ₹665 crore in pre-release deals; would need to out-earn Jailer 2, Chhaava just to break even",
+      "In 2018, Bon Jovi bought a $10M Palm Beach home, demolished and rebuilt it; in 2020, he sold it for $19.85M and bought a $43M oceanfront estate",
+      "Jiyaa Shankar dispels breakup rumours as she shares romantic pictures with fiancé Kaaran Dhanak, says they are learning to grow together",
+      "Actor Ben Wang to feature in Marvel Studios' new 'X-Men' film",
+      "Aren't you Rama? Yash reveals son's dilemma over his Ravana role in Ramayana",
+      "24 years actress anushka sen bikini photos flaunts toned figure boldness fans says fire tmovh 2687093 2026 11 03",
+      "manoj tiwari and his wife surabhi diwali party posed with delhi cm rekha gupta ministers spotted tmovh 2687030 2026 11 03",
+      "sameera reddy goa bungalow inside photos coconut neem trees left mumbai acting 2 kids mother life changed tmovf 2686893 2026 11 03",
+      "ayushmann khurrana udta teer director aakash kaushik pakistan jai hind statement tmovj dskc 2686906 2026 11 03",
+      "honey singh cried nephew vidit auluck death consoled grieving father emotional video tmovh dskc 2687039 2026 11 03",
+      "ranbir kapoor spoils ramayana part 3 announcement before release yash namit malhotra tmovj dskc 2686894 2026 11 03"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+2 articles, +0 box-office rows, 4 rows updated"
+     "count": 241,
+     "detail": "251 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1484,27 +1463,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T07:51:44Z",
+    "run_id": "41598991512",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide",
+      "Theatre Bosses Issue Trigger Warning for Anne Boleyn Play Over Beheading Depiction",
+      "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
+      "How Netflix's Sci-Fi Masterpiece Dark Defied Narrative Logic With Zero Plot Holes"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T09:36:51Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1918,26 +1902,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T07:52:31Z",
-    "run_id": "41408890809",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T07:51:44Z",
+    "run_id": "41598991512",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 183, coming 4"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2376,27 +2361,28 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T08:37:29Z",
+    "run_id": "41598991512",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "ged0uq"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T07:52:29Z",
-    "run_id": "41408890809",
-    "status": "success",
-    "checked": {
-     "candidates": 416,
-     "detail": "414 collected staging rows from readers; 128 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 410 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2810,19 +2796,27 @@
      "detail": "+0 new rows, 11 updated rows, 432 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T08:37:27Z",
+    "run_id": "41598991512",
+    "status": "success",
+    "checked": {
+     "candidates": 447,
+     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "+3 new rows, 13 updated rows, 430 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3077,30 +3071,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T07:52:31Z",
-    "run_id": "41408890809",
-    "status": "success",
-    "checked": {
-     "candidates": 378,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Superstar Rajinikanth's Jailer 2 Crosses Rs 800 Crore Worldwide",
-      "A.R. Rahman Steps Up as the Fresh Face of Brooke Bond Taj Mahal Tea"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 378 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3632,19 +3615,32 @@
      "detail": "api-news.json 473 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T08:37:29Z",
+    "run_id": "41598991512",
+    "status": "success",
+    "checked": {
+     "candidates": 477,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Theatre Bosses Issue Trigger Warning for Anne Boleyn Play Over Beheading Depiction",
+      "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
+      "How Netflix's Sci-Fi Masterpiece Dark Defied Narrative Logic With Zero Plot Holes",
+      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 477 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3920,19 +3916,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4253,29 +4249,19 @@
      "count": 20
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T07:52:28Z",
-    "run_id": "41408890809",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 254 still unprocessed; today by category: movies 5/6, tv_dramas 1/4, episodes 0/2, box_office 5/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Superstar Rajinikanth's Jailer 2 Crosses Rs 800 Crore Worldwide",
-      "A.R. Rahman Steps Up as the Fresh Face of Brooke Bond Taj Mahal Tea"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4777,19 +4763,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T07:51:44Z",
+    "run_id": "41598991512",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 241 still unprocessed; today by category: movies 6/6, tv_dramas 5/4, episodes 0/2, box_office 9/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 1/3, awards 0/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide",
+      "Theatre Bosses Issue Trigger Warning for Anne Boleyn Play Over Beheading Depiction",
+      "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
+      "How Netflix's Sci-Fi Masterpiece Dark Defied Narrative Logic With Zero Plot Holes"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5146,24 +5144,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 206,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5508,24 +5501,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 9,
+     "count": 366,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5860,19 +5853,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 19,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6122,19 +6120,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6369,19 +6367,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6657,19 +6655,19 @@
      "count": 36
     },
     "reason": null
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6910,19 +6908,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7152,19 +7150,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7413,6 +7411,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T06:56:29Z",
     "run_id": "41592432212",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7742,16 +7750,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-02T08:23:41Z",
     "run_id": "41410391369",
     "status": "skipped",
@@ -7988,6 +7986,16 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
@@ -8220,8 +8228,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T08:37:37Z",
+    "run_id": "41598991512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T06:56:29Z"
+ "updated_at": "2026-11-03T08:37:37Z"
 }

@@ -595,6 +595,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.04,
           "sacnilk": 0.04
         }
       }
@@ -1226,9 +1227,9 @@
       },
       "20": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.493,
+        "collection_inr_cr": 0.438,
         "collection_scope": "india_net",
-        "collection_usd": 52087,
+        "collection_usd": 46276,
         "date": "2026-11-03",
         "date_disagreed": false,
         "extras": {
@@ -1255,6 +1256,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.44,
+          "bollywoodhungama": 0.27,
           "filmynewsnetwork": 0.6,
           "sacnilk": 0.44
         }
@@ -2940,9 +2942,9 @@
       },
       "32": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.492,
+        "collection_inr_cr": 0.514,
         "collection_scope": "india_net",
-        "collection_usd": 51981,
+        "collection_usd": 54305,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -2975,6 +2977,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.55,
+          "bollywoodhungama": 0.6,
           "filmynewsnetwork": 0.7,
           "moviemint": 0.17,
           "sacnilk": 0.55
@@ -4259,9 +4262,9 @@
       },
       "4": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.18,
+        "collection_inr_cr": 0.17,
         "collection_scope": "india_net",
-        "collection_usd": 19017,
+        "collection_usd": 17961,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -4280,6 +4283,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.16,
           "sacnilk": 0.18
         }
       }
@@ -4396,9 +4400,9 @@
       },
       "11": {
         "collection_currency": "USD",
-        "collection_inr_cr": 1.208,
+        "collection_inr_cr": 1.207,
         "collection_scope": "india_net",
-        "collection_usd": 127628,
+        "collection_usd": 127522,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -4432,7 +4436,7 @@
         "sources": {
           "bollybourse": 1.35,
           "bollymoviereviewz": 1.25,
-          "bollywoodhungama": 1.39,
+          "bollywoodhungama": 1.38,
           "filmynewsnetwork": 1.61,
           "moviemint": 0.3,
           "sacnilk": 1.35
@@ -4440,9 +4444,9 @@
       },
       "12": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.187,
+        "collection_inr_cr": 0.26,
         "collection_scope": "india_net",
-        "collection_usd": 19757,
+        "collection_usd": 27470,
         "date": "2026-11-03",
         "date_disagreed": false,
         "extras": {
@@ -4469,6 +4473,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.15,
+          "bollywoodhungama": 0.48,
           "filmynewsnetwork": 0.26,
           "sacnilk": 0.15
         }
@@ -6414,6 +6419,18 @@
         "sources": {
           "bollywoodhungama": 0.003,
           "sacnilk": 0.01
+        }
+      },
+      "11": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.001,
+        "collection_scope": "india_net",
+        "collection_usd": 106,
+        "date": "2026-11-02",
+        "date_disagreed": false,
+        "india": true,
+        "sources": {
+          "bollywoodhungama": 0.001
         }
       },
       "2": {
@@ -10938,9 +10955,9 @@
       },
       "18": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.12,
+        "collection_inr_cr": 0.122,
         "collection_scope": "india_net",
-        "collection_usd": 12678,
+        "collection_usd": 12890,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -10971,6 +10988,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.14,
+          "bollywoodhungama": 0.13,
           "filmynewsnetwork": 0.16,
           "moviemint": 0.04,
           "sacnilk": 0.14
@@ -12104,9 +12122,9 @@
       },
       "11": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.09,
+        "collection_inr_cr": 0.093,
         "collection_scope": "india_net",
-        "collection_usd": 9509,
+        "collection_usd": 9826,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -12128,6 +12146,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.09,
+          "bollywoodhungama": 0.1,
           "sacnilk": 0.09
         }
       },
@@ -12508,7 +12527,12 @@
         }
       },
       "11": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.003,
+        "collection_scope": "india_net",
+        "collection_usd": 317,
         "date": "2026-11-02",
+        "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
@@ -12529,7 +12553,10 @@
             "value": 231
           }
         },
-        "india": false
+        "india": true,
+        "sources": {
+          "bollywoodhungama": 0.003
+        }
       },
       "12": {
         "date": "2026-11-03",
@@ -12907,9 +12934,9 @@
       },
       "11": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.01,
+        "collection_inr_cr": 0.007,
         "collection_scope": "india_net",
-        "collection_usd": 1057,
+        "collection_usd": 740,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -12928,6 +12955,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.004,
           "sacnilk": 0.01
         }
       },
@@ -13411,6 +13439,18 @@
           "bollywoodhungama": 0.005
         }
       },
+      "11": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.001,
+        "collection_scope": "india_net",
+        "collection_usd": 106,
+        "date": "2026-11-02",
+        "date_disagreed": false,
+        "india": true,
+        "sources": {
+          "bollywoodhungama": 0.001
+        }
+      },
       "2": {
         "collection_currency": "USD",
         "collection_inr_cr": 0.11,
@@ -13788,9 +13828,9 @@
       },
       "4": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.02,
+        "collection_inr_cr": 0.013,
         "collection_scope": "india_net",
-        "collection_usd": 2113,
+        "collection_usd": 1373,
         "date": "2026-11-02",
         "date_disagreed": false,
         "extras": {
@@ -13809,6 +13849,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.006,
           "sacnilk": 0.02
         }
       }

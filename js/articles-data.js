@@ -43348,5 +43348,371 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 12:18:36 +0530"
+  },
+  "ulqmqs": {
+    "id": "ulqmqs",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide",
+    "dek": "Rajinikanth's action-packed entertainer Jailer 2 experienced a significant slowdown on its third Monday following a record-breaking box office run.",
+    "body": [
+      {
+        "h": "Third Monday Slump At The Box Office",
+        "p": [
+          "Following an impressive run that recently pushed its global earnings past a major milestone, Rajinikanth's action drama Jailer 2 experienced a noticeable cooling off period. On its nineteenth day in theaters, the feature recorded a sharp downward shift in ticket sales across domestic screens.",
+          "The theatrical slowdown arrived just a day after the movie celebrated crossing the eight hundred crore mark globally. Despite the steep decline, the feature continued to post figures that reflect its sustained reach among audiences across the country."
+        ]
+      },
+      {
+        "h": "Day 19 Domestic Earnings And Show Counts",
+        "p": [
+          "According to data from the trade tracking platform Sacnilk, the action entertainer pulled in three point four one crore nett in India on its third Monday. These numbers were accumulated across a total of six thousand eight hundred ninety-three screenings nationwide.",
+          "The collection marked a decrease of nearly seventy percent when measured against the previous day's business, which had brought in eleven point two zero crore. This downward adjustment is typical for weekday figures following a lucrative third weekend."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The regional language contributions varied across different markets during this nineteenth day. The Tamil version of the film brought in one point nine four crore from three thousand ninety-two shows.",
+          "Meanwhile, the Hindi version contributed fifty-three lakh from three thousand eighty-eight shows, while the Telugu version added forty-one lakh from seven13 screenings."
+        ]
+      },
+      {
+        "h": "Cumulative Domestic And Global Totals",
+        "p": [
+          "With the addition of the latest weekday figures, the film's total domestic nett collection has advanced to four hundred fifty-nine point seven one crore. The project has maintained a steady theatrical momentum ever since its premiere on October 15.",
+          "The strong performance through its initial weeks successfully propelled its worldwide gross past the eight hundred crore milestone by the end of its third weekend."
+        ]
+      },
+      {
+        "h": "Distributor Projections For A Thousand Crore Finish",
+        "p": [
+          "Looking ahead at the remaining theatrical run, distributor Tiruppur Subramaniam has expressed confidence that the film could ultimately achieve one thousand crore in worldwide collections. He attributed this potential commercial success to the project's blend of humor and action.",
+          "Drawing parallels to earlier superhits starring the lead actor such as Annamalai, Padayappa, Sivaji, and Chandramukhi, the distributor noted that incorporating comedy has historically been a winning formula."
+        ]
+      },
+      {
+        "h": "Creative Direction And Family Audiences",
+        "p": [
+          "The distributor also credited director Nelson Dilipkumar for recognizing this formula and praised his effective utilization of comedian Namo Narayanan. Furthermore, family audiences have been cited as a primary driver behind the feature's strong box office standing.",
+          "In the narrative, Rajinikanth returns to his role as Tiger Muthuvel Pandian, confronting an international idol-smuggling network while safeguarding his relatives."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Ensemble",
+        "p": [
+          "The supporting cast features prominent names such as SJ Suryah, Vidya Balan, Ramya Krishnan, Mithun Chakraborty, Suraj Venjaramoodu, and Yogi Babu.",
+          "Additionally, the film includes special appearances by Mohanlal, Shiva Rajkumar, Hrithik Roshan, Jackie Shroff, and Vijay Sethupathi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action film Jailer 2 saw a nearly seventy percent drop in domestic collections on its third Monday, earning three point four one crore in India on Day 19. Despite this weekday slowdown and a total domestic nett of four hundred fifty-nine point seven one crore, the feature recently surpassed eight hundred crore worldwide, with distributor Tiruppur Subramaniam predicting a final run reaching one thousand crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth's Jailer 2 crossed Rs 800 crore at the worldwide box office.",
+      "The film collected Rs 3.41 crore net in India on Day 19.",
+      "Day 19 total domestic collection reached Rs 459.71 crore.",
+      "Screenings on Day 19 totaled 6,893 shows.",
+      "Sunday collection prior to the drop was Rs 11.20 crore.",
+      "The Tamil version contributed Rs 1.94 crore from 3,092 shows on Day 19.",
+      "The Hindi version collected Rs 53 lakh from 3,088 shows on Day 19.",
+      "The Telugu version added Rs 41 lakh from 713 shows on Day 19.",
+      "The film was released on October 15."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Raisa Nasreen",
+        "Nelson Dilipkumar",
+        "Tiruppur Subramaniam",
+        "Namo Narayanan",
+        "SJ Suryah",
+        "Vidya Balan",
+        "Ramya Krishnan",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Yogi Babu",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Annamalai",
+        "Padayappa",
+        "Sivaji",
+        "Chandramukhi"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 Day 19",
+      "Nelson Dilipkumar Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156455168,thumbsize-732463,width-1280,height-720,resizemode-75/156455168.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T07:51:44Z"
+  },
+  "1spczr3": {
+    "id": "1spczr3",
+    "type": "news",
+    "headline": "Theatre Bosses Issue Trigger Warning for Anne Boleyn Play Over Beheading Depiction",
+    "dek": "Producers of an upcoming musical about the second wife of King Henry VIII face criticism after adding a content warning regarding her historical execution.",
+    "body": [
+      {
+        "h": "The Controversy Surrounding Historical Content Warnings",
+        "p": [
+          "Theatre executives have drawn commentary after implementing a content advisory for an upcoming theatrical production centered on historical figures. The upcoming open-air staging has been fitted with a specific advisory cautioning ticket holders about historical events depicted in the script. The inclusion of these advisories has sparked discussions regarding how historical narratives are presented to modern theatregoers.",
+          "The production in question focuses on the life of a prominent royal figure from the Tudor era. Despite the well-documented historical facts surrounding her fate, creative teams felt compelled to highlight specific dramatic elements. Observers and critics have questioned the necessity of such notices for well-known historical narratives."
+        ]
+      },
+      {
+        "h": "Details of the Production and Schedule",
+        "p": [
+          "The theatrical presentation, titled Anne Boleyn: The Musical, is scheduled to run at the Old Royal Naval College in Greenwich. Producers have lined up performances slated for the year 2027. Promotional materials promise an ambitious look at the titular character's journey and her ascent within the royal court.",
+          "The official synopsis highlights a narrative exploring a woman attempting to carve out her own path during a strictly regulated historical period. Creators characterize the theatrical piece as an epic retelling focusing on the complexities of Tudor society. However, the advance notice has somewhat overshadowed the initial promotional rollout."
+        ]
+      },
+      {
+        "h": "The Historical Context of Anne Boleyn",
+        "p": [
+          "The historical figure at the center of the controversy served as the second wife of King Henry VIII. Their union formally began in January 1533, a pivotal moment that led to the monarch's excommunication by the Pope and the subsequent establishment of the Church of England. The marriage ultimately deteriorated after she failed to produce a surviving male heir.",
+          "In May 1536, the former Queen met her end at the Tower of London after facing accusations of treason, adultery, and incest. Historical accounts also note the impact of a miscarriage of a male child and political maneuvering involving Thomas Cromwell. Her decapitation remains one of the most widely recognized executions in English history."
+        ]
+      },
+      {
+        "h": "Criticism from Industry Insiders",
+        "p": [
+          "The decision to include the advisory prompted pushback from industry sources who felt the precaution was unnecessary. Critics pointed out that anyone purchasing a ticket for a drama about this specific historical figure would already know the tragic outcome of her life. One insider remarked that such measures risk treating audiences with excessive caution.",
+          "The debate reflects broader ongoing conversations within the entertainment sector regarding audience advisories. While some venues argue these notices help prepare viewers for distressing themes, detractors view them as redundant elements that detract from classic historical storytelling."
+        ]
+      },
+      {
+        "h": "Broader Trend of Content Advisories in Media",
+        "p": [
+          "The discussion surrounding the Tudor-themed musical aligns with a wider pattern of older films, television programs, and stage shows receiving updated content warnings. Other notable entertainment properties have seen similar advisories or age classification adjustments in recent months. Institutions and broadcasting networks have increasingly adopted these measures to address sensitive topics.",
+          "Examples of past adjustments include classic cinematic releases and touring stage comedies receiving updated guidance regarding mature themes, language, or historical contexts. These modifications have frequently generated public debate between those prioritizing modern audience sensibilities and those favoring the preservation of original viewing experiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Theatre executives added a content warning to the upcoming production Anne Boleyn: The Musical, cautioning audiences about depictions of historical oppression and her execution by beheading. The decision sparked varied reactions regarding the necessity of warnings for well-known historical events leading up to her death in May 1536."
+        ]
+      }
+    ],
+    "facts": [
+      "Anne Boleyn was the second wife of King Henry VIII.",
+      "Henry and Anne married in January 1533.",
+      "Anne Boleyn was executed by beheading in May 1536.",
+      "Anne Boleyn: The Musical is scheduled to run at the Old Royal Naval College in Greenwich in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Anne Boleyn",
+        "Henry VIII",
+        "Thomas Cromwell"
+      ],
+      "titles": [
+        "Anne Boleyn: The Musical",
+        "Grease",
+        "Fawlty Towers",
+        "West Side Story",
+        "Trainspotting"
+      ]
+    },
+    "keywords": [
+      "Anne Boleyn",
+      "Anne Boleyn The Musical",
+      "Old Royal Naval College Greenwich",
+      "King Henry VIII"
+    ],
+    "images": [],
+    "published": "2026-11-03T07:51:44Z"
+  },
+  "bgyvju": {
+    "id": "bgyvju",
+    "type": "news",
+    "headline": "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
+    "dek": "Popular Panchayat actor Aasif Khan has been eliminated from Bigg Boss 20 midway through the season. Fans expected him to reach the top five, but strategic missteps, controversies, and conflicts led to his early exit.",
+    "body": [
+      {
+        "h": "Introduction to the Exit",
+        "p": [
+          "Actor Aasif Khan, who earned widespread acclaim for his memorable role as the 'damaad ji' in the acclaimed web series Panchayat, has officially ended his journey on the reality television show Bigg Boss 20. When he first entered the house, followers and viewers anticipated a strong run, with many predicting he would easily secure a spot in the top five finalists. However, instead of going deep into the competition, his run was cut short midway through the season, leaving many supporters surprised by his sudden departure.",
+          "His exit highlights the unpredictable nature of reality television, where initial popularity does not always translate into sustained success. Despite entering with massive expectations stemming from his digital series fame, Aasif struggled to maintain momentum as the weeks progressed. His inability to adapt to the shifting dynamics of the house ultimately sealed his fate, bringing a premature end to what many hoped would be a championship contender's journey."
+        ]
+      },
+      {
+        "h": "Wasting the Early Weeks",
+        "p": [
+          "One of the primary factors contributing to Aasif's downfall was his failure to understand the game during the crucial opening weeks. While other contestants immediately began formulating strategies and establishing their presence, Aasif spent the initial period simply trying to figure out the mechanics of the house. Instead of building a solid foundation and planning a clear path forward, he squandered valuable time without displaying any concrete game plan.",
+          "Compounding this issue, rather than focusing on strengthening his own position or connecting with the audience, Aasif dedicated a significant portion of his time to pointing out the flaws of co-contestant Kazi Tauqeer. This fixation on another player prevented him from establishing a distinct identity early on, leaving him lagging behind competitors who utilized those initial days to build strong individual arcs."
+        ]
+      },
+      {
+        "h": "Conflicts with Kazi and Love Gill",
+        "p": [
+          "Aasif's persistent targeting of Kazi Tauqeer, who is celebrated as a rocking star within the house, eventually backfired on the actor. Their ongoing spats and heated arguments showcased an aggressive side and poor temperament that failed to win over viewers, subsequently subjecting Aasif to heavy trolling across various social media platforms. His confrontational approach did him no favors in the court of public opinion.",
+          "Furthermore, his interactions with Love Gill proved equally detrimental. During a severe altercation with Love Gill, Aasif crossed several boundaries and was seen charging angrily at her. The situation escalated to the point where show host Salman Khan reprimanded him during the Weekend Ka Vaar episode, labeling him ill-mannered. Despite receiving this direct warning, Aasif failed to course-correct or improve his behavior."
+        ]
+      },
+      {
+        "h": "Playing on the Backfoot",
+        "p": [
+          "Throughout his tenure inside the house, Aasif consistently adopted a defensive posture, rarely stepping up to play on the front foot. Observers noted that he almost always operated from a place of retreat rather than taking charge of situations independently. This timid or purely defensive approach meant he lacked standout moments of leadership or proactive gameplay.",
+          "Even during physical and mental tasks, his contributions were largely overshadowed by outbursts of temper rather than impressive performances. Failing to demonstrate versatility or dynamic problem-solving skills during challenges left both the housemates and the audience underwhelmed, eroding whatever goodwill he had built through his prior acting career."
+        ]
+      },
+      {
+        "h": "Inability to Forge Meaningful Bonds",
+        "p": [
+          "Reality television is fundamentally a social experiment that rewards authentic relationships and emotional connections, yet Aasif struggled immensely to build lasting bonds. After alienating Love Gill through their explosive fights, he gradually distanced himself from other housemates such as Amrapali and Young. His isolation from members of his own group highlighted a profound inability to create genuine alliances.",
+          "Without a reliable support system or true friends inside the house, Aasif found himself increasingly isolated as the weeks rolled on. This social failure made him vulnerable during eliminations, as viewers and fellow participants alike favored contestants who demonstrated warmth, loyalty, and the capacity for healthy camaraderie."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Panchayat actor Aasif Khan was eliminated from Bigg Boss 20 midway through the season, falling short of fans' top-five expectations. His exit was driven by wasted early weeks, heavy conflicts with Kazi Tauqeer and Love Gill, a defensive gameplay style, and an inability to forge genuine relationships in the house."
+        ]
+      }
+    ],
+    "facts": [
+      "Aasif Khan is known for his role as 'damaad ji' in the web series Panchayat.",
+      "Aasif Khan was a contestant on Bigg Boss 20.",
+      "Salman Khan called Aasif ill-mannered during a Weekend Ka Vaar episode.",
+      "Aasif Khan had conflicts with Kazi Tauqeer and Love Gill inside the house."
+    ],
+    "entities": {
+      "people": [
+        "Aasif Khan",
+        "Salman Khan",
+        "Kazi Tauqeer",
+        "Love Gill",
+        "Amrapali",
+        "Young"
+      ],
+      "titles": [
+        "Panchayat",
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Aasif Khan Bigg Boss 20",
+      "Panchayat damaad ji Bigg Boss",
+      "Aasif Khan eliminated Bigg Boss",
+      "Bigg Boss 20 Aasif Khan Kazi Tauqeer"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae85a59e6a93-aasif-khan-eliminated-from-bigg-boss-023936874-16x9.jpg",
+        "caption": "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T07:51:44Z"
+  },
+  "nppo3d": {
+    "id": "nppo3d",
+    "type": "news",
+    "headline": "How Netflix's Sci-Fi Masterpiece Dark Defied Narrative Logic With Zero Plot Holes",
+    "dek": "Spanning 26 episodes across three seasons, the acclaimed streaming series built an airtight deterministic framework that turned complex temporal paradoxes into seamless plot devices.",
+    "body": [
+      {
+        "h": "Defying Time Travel Tropes",
+        "p": [
+          "Most science fiction projects eventually stumble under the weight of their own convoluted rules and narrative logic. As stories progress, they typically introduce paradoxes and loopholes that threaten to unravel the entire premise. However, a standout streaming series on Netflix managed to completely defy this common industry norm.",
+          "Instead of falling apart, the acclaimed television show embraced its temporal paradoxes and actively transformed them into essential narrative devices. This careful approach helped the production secure its enduring reputation as a premier entry in the modern science fiction genre."
+        ]
+      },
+      {
+        "h": "A Groundbreaking Streaming Legacy",
+        "p": [
+          "When the German production originally premiered on Netflix in 2017, it did not rely on an enormous financial budget or mainstream star power. Competing against massive genre heavyweights like Stranger Things, the non-English project carved out a unique space through sheer creative excellence.",
+          "From its atmospheric cinematography to its haunting background score, every technical element contributed to its distinct tone. Over the course of its run, the series built a lasting legacy that continues to outshine many contemporaries in the platform's extensive catalog."
+        ]
+      },
+      {
+        "h": "Strict Determinism and the 4D Block",
+        "p": [
+          "Time within the universe of the show does not operate as a flowing river or a simple cause-and-effect chain. For multiple seasons, the narrative strictly adheres to determinism, treating time as a permanent four-dimensional block where past, present, and future occur simultaneously.",
+          "Any intervention or attempt to alter history ultimately becomes a pre-existing component of that exact timeline. When the central character Jonas travels back to rescue his late father, his very actions inadvertently help trigger the tragic event itself."
+        ]
+      },
+      {
+        "h": "Embracing Bootstraps and Closed Loops",
+        "p": [
+          "By maintaining this rigid framework, the story illustrates how objects and items can exist entirely without an original creation point. While standard science fiction attempts to trace back the genesis of specific devices, this series revels in closed temporal loops.",
+          "A prominent example is a fictional volume titled A Journey Through Time by H.G. Tannhaus, which was never truly written by its namesake. A younger version simply transcribes and publishes the book after an older traveler hands it to him, creating a perpetual cycle of knowledge."
+        ]
+      },
+      {
+        "h": "Intricate Webs Instead of Linear Lineages",
+        "p": [
+          "The show's approach to familial connections mirrors its complex temporal mechanics. Rather than traditional pyramids moving downward through generations, family trees form deeply tangled webs where relatives overlap.",
+          "Through this unconventional structure, ancestors frequently become their own descendants. This structural choice reinforces the unbreakable nature of the narrative's central timeline across all 26 episodes."
+        ]
+      },
+      {
+        "h": "Existential Dread and Hidden Comfort",
+        "p": [
+          "The project opens with a poignant reflection on how human beings trust time to be an eternal, uniform line. By quoting Albert Einstein's famous observation about the illusion separating past, present, and future, the story sets a philosophical tone.",
+          "While realizing that the future is entirely predetermined can feel harrowing, the series offers a strange sense of comfort. It suggests that individuals are always exactly where they are meant to be, tying every painful choice into a grander scheme."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The acclaimed streaming series Dark successfully avoided traditional narrative loopholes across its 26 episodes by utilizing a strict deterministic approach to time travel. By turning temporal paradoxes and closed loops into core plot devices, the production secured a lasting legacy as a premier science fiction drama on Netflix."
+        ]
+      }
+    ],
+    "facts": [
+      "The series ran for 26 episodes across 3 seasons.",
+      "It premiered on Netflix in 2017.",
+      "Albert Einstein wrote the quote about time in a letter to the family of his deceased friend Michele Besso.",
+      "The fictional book within the series is titled A Journey Through Time by H.G. Tannhaus."
+    ],
+    "entities": {
+      "people": [
+        "Jonas",
+        "H.G. Tannhaus",
+        "Albert Einstein",
+        "Michele Besso",
+        "Jantje Friese",
+        "Baran bo Odar"
+      ],
+      "titles": [
+        "Dark",
+        "Stranger Things",
+        "A Journey Through Time"
+      ]
+    },
+    "keywords": [
+      "Dark Netflix time travel show",
+      "Dark 26 episodes plot holes",
+      "Jonas Dark Netflix",
+      "H.G. Tannhaus A Journey Through Time"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/8dd7db2c-b5c3-44f2-8091-2e5a6287afaf.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How Netflix's Sci-Fi Masterpiece Dark Defied Narrative Logic With Zero Plot Holes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 06:30:18 GMT"
   }
 };
