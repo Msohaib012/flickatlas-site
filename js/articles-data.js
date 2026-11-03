@@ -42563,5 +42563,429 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 03:16:00 GMT"
+  },
+  "1m3k0mf": {
+    "id": "1m3k0mf",
+    "type": "news",
+    "headline": "Ramayana Advance Bookings Cross ₹100 Crore Worldwide Ahead of Worldwide Release",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana crosses ₹100 crore in global advance bookings two days before its worldwide release, positioning itself for a historic box-office opening.",
+    "body": [
+      {
+        "h": "Pre-Sales Surge Past the Century Mark",
+        "p": [
+          "The highly anticipated cinematic project Ramayana has officially crossed the ₹100-crore milestone in global advance bookings just two days before its scheduled theatrical run. This rapid accumulation in pre-sales highlights exceptional audience anticipation for the Nitesh Tiwari directorial.",
+          "Very few Indian cinematic releases manage to surpass this significant financial threshold prior to their opening day. The global momentum positions the production among an elite group of high-grossing openers."
+        ]
+      },
+      {
+        "h": "Overcoming Early Distribution Hurdles",
+        "p": [
+          "Advance reservations originally commenced on Dussehra, giving audiences a 15-day window ahead of the global premiere. However, the pace initially leveled off because only Hindi-language showtimes were widely available during the first ten days.",
+          "Smaller venues and single-screen cinemas delayed opening their ticket windows due to revenue-sharing negotiations between exhibitors and the film’s domestic distributor, Dharma Productions. Once these terms were settled last Friday, a rapid expansion of screening locations triggered a sharp surge in ticket sales."
+        ]
+      },
+      {
+        "h": "Screen Expansion and Domestic Numbers",
+        "p": [
+          "By Tuesday morning, total theater screens allocated for the feature expanded beyond 5,000, with more than 1,500 locations added within a single 24-hour window. Domestic gross pre-sales in India reached ₹58 crore by the morning of November 3, which included a robust ₹27 crore solely from opening-day admissions.",
+          "Ticket demand is not restricted to the initial premiere day alone; subsequent weekend dates have already contributed ₹25 crore in gross pre-sales. Furthermore, roughly 15 lakh tickets have been purchased across domestic outlets, while premium formats like IMAX drive substantial revenue despite accounting for only 4% of total screens."
+        ]
+      },
+      {
+        "h": "International Momentum and Overseas Previews",
+        "p": [
+          "International markets have significantly contributed to the overall pre-sales figures. North American territories have scheduled paid previews for November 4, serving as a prelude to the worldwide premiere.",
+          "Following the world premiere rollout, overseas metrics recorded a 27% increase in ticket revenue. International advance bookings touched $5 million by Tuesday morning, with the United States paid previews accounting for over $1.5 million of that total, elevating the worldwide pre-sales gross to ₹105 crore."
+        ]
+      },
+      {
+        "h": "Comparison With Industry Benchmarks",
+        "p": [
+          "Achieving a nine-figure pre-sale collection places Ramayana in rare company alongside previous box-office powerhouses. Only a select group of Indian titles, including Baahubali 2, RRR, Pushpa 2, and Dhurandhar 2, have previously crossed the ₹100-crore advance booking threshold.",
+          "Current tracking indicates that the feature is on trajectory to secure an opening day comparable to these major hits, eyeing a spot among the top-all-time opening performances."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Multi-Part Release Strategy",
+        "p": [
+          "The feature is structured as a two-part epic produced by Namit Malhotra’s Prime Focus Studios in partnership with DNEG and Yash’s Monster Mind Creations. The narrative features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.",
+          "The inaugural installment is scheduled for a multi-language release in Hindi, Tamil, Telugu, Kannada, and Malayalam on November 5, 2026, while the sequel is targeted for Diwali 2027. Global distribution outside India is managed by Sony Pictures, and Dharma Productions handles the Hindi-belt theatrical distribution."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed ₹100 crore in global advance bookings ahead of its worldwide release on November 5, 2026. The Nitesh Tiwari directorial overcame initial distribution hurdles to log strong domestic and international pre-sales across multiple languages."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crosses ₹100 crore in global advance bookings",
+      "Ramayana: Part One releases worldwide on November 5, 2026",
+      "Advance bookings opened on Dussehra, 15 days before release",
+      "Screen count expanded to over 5000 by Tuesday morning",
+      "Domestic advance bookings reached ₹58 crore in India by November 3",
+      "Opening day pre-sales in India contributed ₹27 crore",
+      "Second and third days contributed ₹25 crore in gross pre-sales",
+      "Over 15 lakh tickets sold in pre-sales across India",
+      "North American paid previews scheduled for November 4",
+      "Overseas advance bookings reached $5 million, with over $1.5 million from US previews",
+      "Worldwide advance-booking gross reached ₹105 crore",
+      "Part two is set for release at Diwali 2027",
+      "Cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman",
+      "Produced by Prime Focus Studios, DNEG, and Monster Mind Creations"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part One",
+        "Baahubali 2",
+        "RRR",
+        "Pushpa 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana release date",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/Ramayana__1793676116385_2pxE_1793676116578_kIWp_58bb2cf9-36d0-4c52-a285-5980e29048af_Xg8T.jpeg",
+        "caption": "Ramayana Advance Bookings Cross ₹100 Crore Worldwide Ahead of Worldwide Release",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 09:05:36 +0530"
+  },
+  "1vd267q": {
+    "id": "1vd267q",
+    "type": "news",
+    "headline": "Robert Downey Jr. Reveals Toshiyuki Morikawa as Doctor Doom Japanese Voice Actor for Avengers: Doomsday",
+    "dek": "Robert Downey Jr. has shared a personal video message naming Toshiyuki Morikawa as the Japanese voice actor for Doctor Doom in Avengers: Doomsday, while also honoring the late Keiji Fujiwara.",
+    "body": [
+      {
+        "h": "Surprise Video Announcement",
+        "p": [
+          "Robert Downey Jr. delivered an unexpected update regarding the cast of Avengers: Doomsday through a special video presentation. Shared via the official Marvel Studios Japan X account, the message gave followers a look at international casting plans for the upcoming blockbuster.",
+          "The focal point of the clip was the revelation of the voice talent chosen to bring the primary antagonist to life for audiences in Japan. Fans quickly tuned in as the prominent actor detailed who would voice the iconic villain."
+        ]
+      },
+      {
+        "h": "Toshiyuki Morikawa Takes on Doctor Doom",
+        "p": [
+          "Veteran performer Toshiyuki Morikawa has officially been cast as the Japanese voice actor for Doctor Doom. Morikawa brings a vast amount of experience to the role, having built a prolific career across anime and high-profile dubbing projects.",
+          "Among his numerous credits, Morikawa is widely recognized for voicing Sephiroth in the Final Fantasy series and for providing the Japanese voices of various Hollywood stars. This casting decision matched many fan predictions that pointed to him taking on the part."
+        ]
+      },
+      {
+        "h": "Tribute to Late Voice Actor Keiji Fujiwara",
+        "p": [
+          "During his announcement video, Downey took a moment to honor the late Keiji Fujiwara. Fujiwara previously served as the Japanese voice of Tony Stark and Iron Man throughout multiple entries in the Marvel Cinematic Universe.",
+          "Following Fujiwara's passing in April 2020 at the age of 55, Japanese fans expressed deep appreciation for Downey's touching nod to the beloved performer, recognizing the legacy left behind in previous MCU dubs."
+        ]
+      },
+      {
+        "h": "Robert Downey Jr.'s Return as Victor von Doom",
+        "p": [
+          "The announcement highlights Downey's major return to the Marvel Cinematic Universe, shifting from his long-running role as Tony Stark to play Victor von Doom. Directors Anthony and Joe Russo have characterized Doom as an exceptionally complex comic book figure.",
+          "The filmmakers expressed confidence that Downey was the sole performer capable of handling the demanding character. Additionally, Downey contributed his own ideas for the character's backstory and costume design."
+        ]
+      },
+      {
+        "h": "Multiverse Convergence and Release Details",
+        "p": [
+          "Avengers: Doomsday is set to bring together characters from three distinct universes, uniting the Avengers, Fantastic Four, and X-Men in a massive conflict against Doom. Anticipation remains extremely high as the theatrical release approaches.",
+          "The film is scheduled to arrive in theaters on December 18, 2026, with its sequel, Avengers: Secret Wars, following on December 17, 2027. Advance ticket sales have already surpassed $50 million, establishing a fresh record for pre-sales."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Downey Jr. released a video via Marvel Studios Japan naming Toshiyuki Morikawa as the Japanese voice actor for Doctor Doom in Avengers: Doomsday. The message also honored the late Keiji Fujiwara, who previously voiced Tony Stark in the region's MCU dubs, ahead of the film's theatrical debut on December 18, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Downey Jr. announced Toshiyuki Morikawa as the Japanese voice actor for Doctor Doom in Avengers: Doomsday on November 2, 2026.",
+      "Keiji Fujiwara previously voiced Tony Stark and Iron Man across the MCU's Japanese dubs before passing away in April 2020 at the age of 55.",
+      "Avengers: Doomsday is scheduled for theatrical release on December 18, 2026.",
+      "Avengers: Secret Wars is scheduled for release on December 17, 2027.",
+      "Pre-sales for Avengers: Doomsday have surpassed $50 million."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Toshiyuki Morikawa",
+        "Keiji Fujiwara",
+        "Anthony Russo",
+        "Joe Russo",
+        "Victor von Doom",
+        "Tony Stark"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Avengers: Secret Wars",
+        "Final Fantasy"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday Doctor Doom",
+      "Robert Downey Jr",
+      "Toshiyuki Morikawa",
+      "Keiji Fujiwara"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/marveldoctordoom.webp?resize=1200,630",
+        "caption": "Robert Downey Jr. Reveals Toshiyuki Morikawa as Doctor Doom Japanese Voice Actor for Avengers: Doomsday",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 04:34:10 +0000"
+  },
+  "14jxqic": {
+    "id": "14jxqic",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 19 Reaches 812 Crore Worldwide",
+    "dek": "Rajinikanth and Nelson Dilipkumar's action sequel Jailer 2 crosses a massive global milestone on its nineteenth day in theatres.",
+    "body": [
+      {
+        "h": "Introduction to the Milestone",
+        "p": [
+          "The action-packed sequel Jailer 2 has officially crossed a major global milestone, achieving a worldwide box office collection of 812 crore after nineteen days in cinemas. The film continues to maintain a strong international presence even as its domestic trajectory faces the typical weekday shifts following a robust third weekend.",
+          "Audiences around the globe have continued to flock to theatres to witness superstar Rajinikanth reprise his iconic role, driving the overall cumulative earnings higher despite the slowing pace of ticket sales during the start of the new work week."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Monday Dip",
+        "p": [
+          "On its nineteenth day, which fell on November 2, the Nelson Dilipkumar directorial recorded a domestic net collection of 3.40 crore across all languages in India. This figure represents a notable 69.6 percent decline compared to the impressive 11.20 crore collection achieved on the preceding Sunday.",
+          "Following this latest single-day update, the cumulative domestic net total for the feature stands at 459.70 crore. Meanwhile, the overall domestic gross earnings have successfully climbed to a substantial 537.75 crore across the country."
+        ]
+      },
+      {
+        "h": "Weekend Surge Analysis",
+        "p": [
+          "The sharp weekday drop follows an encouraging third weekend where ticket counters witnessed steady upward momentum. Domestic collections grew from 5.50 crore on Friday, October 30, to 9.70 crore on Saturday, before peaking at 11.20 crore on Sunday.",
+          "This weekend surge played a pivotal role in pushing the third-week cumulative figures higher, adding substantial weight to the total box office tally before the inevitable weekday slowdown took effect across domestic territories."
+        ]
+      },
+      {
+        "h": "Global and Overseas Performance",
+        "p": [
+          "Beyond domestic borders, the international market has consistently contributed to the film's financial success. On its nineteenth day in release, the project hauled an additional 75 lakh in overseas gross revenue.",
+          "This latest international addition elevates the cumulative overseas gross collection to 274.25 crore. Combined with the domestic gross, the worldwide total comfortably rests at the 812 crore mark as the theatrical run progresses."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Jailer 2 arrives as the direct follow-up to the 2023 action comedy hit Jailer, once again showcasing the creative vision of writer and director Nelson Dilipkumar. The narrative centers on Rajinikanth returning as the retired jailer Muthuvel Pandian.",
+          "The grand production is backed by Kalanithi Maran under the Sun Pictures banner, featuring musical compositions by Anirudh Ravichander, cinematography by Vijay Kartik Kannan, and editing by R. Nirmal."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The sequel retains several familiar faces from the first instalment, including Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik. They are joined by prominent additions such as S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan.",
+          "Additionally, the film boasts high-profile cameo appearances by Mohanlal, Shiva Rajkumar, Vijay Sethupathi, Jackie Shroff, Hrithik Roshan, and Vinayakan, enhancing its massive commercial appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 has reached a worldwide box office collection of 812 crore after 19 days in theatres following its October 15 release. While domestic earnings experienced a 69.6 percent drop on Monday to 3.40 crore, the film's cumulative India net stands at 459.70 crore alongside strong contributions from international markets."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 worldwide box office collection reached 812 crore after 19 days.",
+      "The film was released in theatres on October 15, 2026.",
+      "Day 19 India net collection was 3.40 crore on November 2.",
+      "Sunday collection prior to the drop was 11.20 crore.",
+      "Cumulative India net collection reached 459.70 crore.",
+      "Domestic gross stands at 537.75 crore.",
+      "Overseas gross collection reached 274.25 crore."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Vijay Sethupathi",
+        "Jackie Shroff",
+        "Hrithik Roshan",
+        "Vinayakan",
+        "Kalanithi Maran",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 worldwide",
+      "Jailer 2 Day 19 collection",
+      "Nelson Dilipkumar Jailer 2 India net"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/jailer2-36921793679705.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 19 Reaches 812 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 09:53:04 +0530"
+  },
+  "1jl7qgo": {
+    "id": "1jl7qgo",
+    "type": "news",
+    "headline": "Josh Hartnett Boards Elle Fanning Biopic Moonsong: A Life In Seven Verses",
+    "dek": "Following his recent success in Below, actor Josh Hartnett joins Elle Fanning in Rebecca Miller's upcoming biographical film Moonsong: A Life In Seven Verses.",
+    "body": [
+      {
+        "h": "Josh Hartnett Joins Star-Studded Biopic",
+        "p": [
+          "Actor Josh Hartnett has officially committed to his next major cinematic project following the triumphant breakout performance of his recent project Below. He is set to star alongside Elle Fanning in an eagerly anticipated biographical film that is already generating substantial industry excitement as it approaches its international sales launch.",
+          "The feature film is titled Moonsong: A Life In Seven Verses and centers on the life of Margaret Wise Brown, the celebrated author behind legendary children's literary classics."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "Elle Fanning steps into the central starring role to portray Margaret Wise Brown. Meanwhile, Josh Hartnett has been cast as \"Big Bill\" Gaston, a socialite who becomes involved in one of the author's passionate romantic affairs during the narrative.",
+          "The production has managed to gather an extraordinary ensemble of supporting talent. The impressive cast list features Emma Thompson, Sally Hawkins, Danny Huston, Robert Aramayo, and Chloe Pirrie all officially boarding the project."
+        ]
+      },
+      {
+        "h": "Julianne Moore Joins the Ensemble",
+        "p": [
+          "In addition to Fanning and Hartnett, acclaimed actress Julianne Moore has joined the movie's stellar lineup. Moore will essay the role of the poet Michael Strange.",
+          "Within the storyline, the character of Michael Strange exerts a mesmerizing yet ultimately destructive influence that actively shapes Brown's overarching artistic journey."
+        ]
+      },
+      {
+        "h": "Setting and Creative Focus",
+        "p": [
+          "The narrative is set against the backdrop of 1930s New York. During this era, Brown uncovers her unique gift for crafting children's stories and pioneers a revolutionary sensory approach to children's literature alongside a vibrant community of artists and educators.",
+          "Her existence oscillates between innocence and brazenness, defined by intense love affairs and a fierce determination to safeguard her own creative voice."
+        ]
+      },
+      {
+        "h": "Direction and Source Material",
+        "p": [
+          "Rebecca Miller takes the helm of the production, serving as both director and screenwriter. Miller adapted the screenplay directly from Leonard S. Marcus's biographical work titled Margaret Wise Brown: Awakened by the Moon.",
+          "Miller has publicly praised her subject as a profoundly modern individual, noting that Brown retained her childlike worldview while simultaneously turning into a massive publishing phenomenon who wrote over a hundred books."
+        ]
+      },
+      {
+        "h": "Award-Winning Behind-the-Scenes Crew",
+        "p": [
+          "The film's creative roster boasts heavy production credentials across multiple departments. Oscar nominee Jarin Blatchke is handling the cinematography, while Oscar-winning special effects artist Neal Scanlan oversees creature effects and puppetry.",
+          "Additionally, Oscar nominee Malgosia Turzanska is designing the costumes, Kim Jennings is leading the production design, and legendary filmmaker Martin Scorsese serves as an executive producer."
+        ]
+      },
+      {
+        "h": "Production Timeline",
+        "p": [
+          "The biographical feature is being produced by Round Films alongside producers Damon Cardasis and Rebecca Miller. According to reports via Deadline, actual physical production on the project is scheduled to begin in May 2027.",
+          "Industry experts anticipate further announcements regarding international distribution and additional casting as the filming window approaches."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Josh Hartnett has joined Elle Fanning in the upcoming biographical film Moonsong: A Life In Seven Verses following the success of his work in Below. Directed by Rebecca Miller and featuring a star-studded supporting cast, the 1930s-set project is slated to begin production in May 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Josh Hartnett stars in Below.",
+      "Josh Hartnett joins Elle Fanning in Moonsong: A Life In Seven Verses.",
+      "Rebecca Miller directs Moonsong: A Life In Seven Verses.",
+      "Elle Fanning plays Margaret Wise Brown.",
+      "Josh Hartnett plays Big Bill Gaston.",
+      "Emma Thompson, Sally Hawkins, Danny Huston, Robert Aramayo, and Chloe Pirrie join the cast.",
+      "Julianne Moore plays the poet Michael Strange.",
+      "The story is set in 1930s New York.",
+      "The screenplay is adapted from Leonard S. Marcus's biography Margaret Wise Brown: Awakened by the Moon.",
+      "Margaret Wise Brown published over a hundred books.",
+      "Jarin Blatchke is the cinematographer.",
+      "Neal Scanlan oversees creature effects and puppetry.",
+      "Malgosia Turzanska designs costumes.",
+      "Kim Jennings leads production design.",
+      "Martin Scorsese executive produces.",
+      "Round Films, Damon Cardasis, and Rebecca Miller produce.",
+      "Production begins in May 2027."
+    ],
+    "entities": {
+      "people": [
+        "Josh Hartnett",
+        "Elle Fanning",
+        "Rebecca Miller",
+        "Margaret Wise Brown",
+        "Big Bill Gaston",
+        "Emma Thompson",
+        "Sally Hawkins",
+        "Danny Huston",
+        "Robert Aramayo",
+        "Chloe Pirrie",
+        "Julianne Moore",
+        "Michael Strange",
+        "Leonard S. Marcus",
+        "Jarin Blatchke",
+        "Neal Scanlan",
+        "Malgosia Turzanska",
+        "Kim Jennings",
+        "Martin Scorsese",
+        "Damon Cardasis",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "Below",
+        "Moonsong: A Life In Seven Verses",
+        "Margaret Wise Brown: Awakened by the Moon"
+      ]
+    },
+    "keywords": [
+      "Josh Hartnett Moonsong: A Life In Seven Verses",
+      "Elle Fanning Margaret Wise Brown biopic",
+      "Rebecca Miller Moonsong film",
+      "Josh Hartnett Elle Fanning movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-03-Nov-2026-09-49-AM-4967.jpg?resize=1200,630",
+        "caption": "Josh Hartnett Boards Elle Fanning Biopic Moonsong: A Life In Seven Verses",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 04:22:47 +0000"
   }
 };
