@@ -47470,5 +47470,558 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 20:37:27 +0530"
+  },
+  "zjcoxh": {
+    "id": "zjcoxh",
+    "type": "news",
+    "headline": "Bano Episode 21 — Watch Online on Geo TV",
+    "dek": "Bano episode 21 aired on 2026-11-03 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 21 aired on 2026-11-03 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=CVgpQa05gwE"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein sabhi hospital mein pareshan khade hain jab police aakar batati hai ke Bano ka bayan record kar liya gaya hai aur uske mutabiq yeh sab ek hadsa tha, ismein kisi ka daban ya saazish shamil nahi hai. Shahab is baat ko nahi manta aur kehta hai ke Bano ne dbao mein aakar jhoot bola hai kyunke uske sar par chot lagi hai aur use aaram ki zarurat hai. Bano apne ghar aa jaati hai aur sabhi se milti hai, lekin uska ghussa aur pareshani abhi bhi baaki hai. Shahab aur Bano ki family ke kuch log is bare mein baat karte hain ke Bano ne sach kyun nahi bataya. Shaishta apne baap ke sath milkar plan banati hai aur Bano ke sath karkardagi dikhati hai. Episode ke aakhir mein Shaishta aur Bano ke darmiyan ek aur larai hoti hai jahan Shaishta Bano ko dhaka deti hai aur Bano behosh ho jaati hai, aur yahi is episode ka aakhri scene banta hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 21 aired on 2026-11-03.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=CVgpQa05gwE",
+      "YouTube views: 219,926.",
+      "Episode summary added 2026-11-03."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/CVgpQa05gwE/hqdefault.jpg",
+        "caption": "Bano Episode 21",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-03T17:00:27Z"
+  },
+  "1wtdh6h": {
+    "id": "1wtdh6h",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 9 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 9 aired on 2026-11-03 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 9 aired on 2026-11-03 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=iJc8EHsx8uU"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Daniyal aur Zunaira ki shadi ki tayariyan shuru ho chuki hain, aur ghar mein dholki ki rasm manayi ja rahi hai. Daniyal ka dost Zunaira ki behen se mohabbat karta hai aur uske sath waqt bitata hai. Zunaira aur Daniyal phone par baat karte waqt ek dusre se apne jazbaat ka izhaar karte hain aur shadi ke baad ki zindagi ke baare mein baat karte hain. Is dauran, Zunaira ki maa aur kuch rishtedaar shadi ki guest list aur invites ko lekar kuch pareshani ka shikaar hote hain, khaas taur par jab zyadatar ahem logon ko invite karne ki baat aati hai. Episode ke aakhir mein, Zunaira aur Daniyal ki romantic baatein aur unke beech ki gehri mohabbat dikhayi jati hai jabki unka alag alag rehna aur shadi ka intezaar dono ke liye jazbati lamha ban jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 9 aired on 2026-11-03.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=iJc8EHsx8uU",
+      "YouTube views: 2,397.",
+      "Episode summary added 2026-11-03."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/iJc8EHsx8uU/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 9",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-03T17:00:05Z"
+  },
+  "1dtlu8x": {
+    "id": "1dtlu8x",
+    "type": "news",
+    "headline": "Hurmat Episode 10 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 10 aired on 2026-11-03 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 10 aired on 2026-11-03 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=4qhw1PAIjxs"
+        ]
+      },
+      {
+        "h": "About Hurmat",
+        "p": [
+          "Hurmat follows the journey of a bright and ambitious young woman trapped under strict family and societal restrictions. Raised in a highly conservative household, her choices are entirely controlled by her authoritarian father, who initially forbids her from pursuing higher education. When a supportive uncle steps in to help her enroll in a university, she moves to a modern city, catching a glimpse of a world beyond her boundaries and finding a new sense of independence. However, her life takes a darker, more complex turn as she falls for a classmate, throwing her into a turbulent storm of intense family conflicts, hidden secrets, betrayal, and high-stakes legal battles."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Hurmat apne kaam aur university mein pareshan rehti hai kyunki uske abu ke guzar jane ke baad uska dil kisi kaam mein nahi lagta. Tabish usse milne aur baat karne ki koshish karta hai aur woh dono apni zindagi aur mushkilat ke bare mein baat karte hain. Tabish Hurmat ko yeh yakeen dilata hai ke woh uske sath hai aur unhe ye rishtha khatam nahi karna chahiye. Tabish ke ghar walon ke kehne par uski mangni ki baat chalti hai, aur Zafar sahab Tabish ko ek business assignment dete hain jisme Hurmat bhi shamil hoti hai. Office mein ek meeting ke dauran Tabish aur Hurmat ke darmiyan kuch baatein hoti hain. Dusri taraf, Hurmat ki ammi uske rishte aur tabiyat ko le kar pareshan hoti hain, woh chahti hain ke Hurmat Tabish se shadi kar le kyunki unhe lagta hai ke Hurmat ki bhalayi isi mein hai. Episode ke aakhir mein Hurmat aur ammi ke darmiyan is rishte aur shadi ke mauzu par baat hoti hai aur ammi Allah se dua karti hain ke Hurmat ke liye behtar faisla ho."
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 10 aired on 2026-11-03.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=4qhw1PAIjxs",
+      "YouTube views: 650,471.",
+      "TMDB: Hurmat (id 337670).",
+      "Episode summary added 2026-11-03."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": [
+        "Dananeer Mobeen",
+        "Shahveer Jaffery",
+        "Ali Tahir",
+        "Javed Sheikh",
+        "Anoushay Abbasi"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/4qhw1PAIjxs/hqdefault.jpg",
+        "caption": "Hurmat Episode 10",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-03T16:00:20Z"
+  },
+  "19klbo7": {
+    "id": "19klbo7",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 20: Rajinikanth Action Entertainer Takes Massive Hit With 95% Drop, Records Lowest Single-Day Haul on 3rd Tuesday",
+    "dek": "Rajinikanth's action-drama Jailer 2 experienced a steep decline in ticket sales on its 20th day in theatres, bringing in its lowest single-day collection yet as the film nears the Rs 460 crore milestone in India.",
+    "body": [
+      {
+        "h": "Steep Decline on the Twentieth Day",
+        "p": [
+          "Rajinikanth's action entertainer Jailer 2 faced a severe setback at the box office on its twentieth day in cinemas. According to tracking data from Sacnilk, the action drama witnessed a drastic drop in ticket sales, bringing in a mere Rs 17 lakh net domestically on its third Tuesday.",
+          "This figure stands in stark contrast to the earnings recorded just a day prior. The substantial reduction marks the lowest single-day collection for the feature since it first premiered on the big screen."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Earnings",
+        "p": [
+          "The latest single-day collection represents a massive decrease of roughly 95 percent when compared to the seventeenth day, when the film had successfully brought in Rs 3.40 crore net.",
+          "This sharp contraction arrives after an exceptionally lucrative initial run. During its opening eight days in theatres, the highly anticipated sequel amassed a massive Rs 334.35 crore net, followed by an additional Rs 98.55 crore during its second week."
+        ]
+      },
+      {
+        "h": "Overall India Net Collection",
+        "p": [
+          "Despite the sudden slowdown in daily ticket sales, the cumulative performance of the feature remains remarkably strong. With the latest figures factored into the ledger, the total domestic net business for the project has reached Rs 459.87 crore.",
+          "As the movie inches closer to crossing the Rs 460 crore threshold in India, the upcoming days will be critical in dictating how much further the theatrical run can stretch."
+        ]
+      },
+      {
+        "h": "Release Details and Production Team",
+        "p": [
+          "Directed by Nelson Dilipkumar, the movie opened in cinemas on October 15, 2026. The big-budget action venture is produced by Kalanithi Maran under the banner of Sun Pictures.",
+          "The creative team behind the production includes composer Anirudh Ravichander, who provided the musical score, and cinematographer Vijay Kartik Kannan, who handled the camera work for the sequel."
+        ]
+      },
+      {
+        "h": "Plot and Character Arc",
+        "p": [
+          "In this sequel, veteran star Rajinikanth reprises his role as Tiger Muthuvel Pandian, a retired jailer who finds himself unwillingly pulled back into a perilous world of crime. Hoping to lead a peaceful existence with his family, his plans are disrupted by an international idol-smuggling syndicate.",
+          "To dismantle the criminal network and safeguard his loved ones, the protagonist goes undercover, assuming the identity of a driver to infiltrate the gang's inner operations."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Cameos",
+        "p": [
+          "The film features an extensive ensemble cast alongside the lead actor. Performers including SJ Suryah, Suraj Venjaramoodu, Mithun Chakraborty, Ramya Krishnan, Vidya Balan, and Yogi Babu appear in pivotal roles throughout the runtime.",
+          "Additionally, the project includes special appearances by several notable stars, such as Mohanlal, Shiva Rajkumar, Hrithik Roshan, Jackie Shroff, and Vijay Sethupathi."
+        ]
+      },
+      {
+        "h": "External Box Office Competition",
+        "p": [
+          "The recent cooling off in ticket sales coincides with the arrival of November and the festive Diwali week. Additional pressure is expected as major competing titles prepare to enter the theatrical landscape.",
+          "Notably, the feature faces upcoming competition from Ranbir Kapoor, Yash, and Sai Pallavi's high-profile project Ramayana: Rise of a Legend, which arrives in theatres on November 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 experienced a sharp 95 percent drop in collections on its 20th day, earning Rs 17 lakh net on its third Tuesday to record its lowest single-day haul. Despite this steep slowdown, the Nelson Dilipkumar directorial has reached an overall India net collection of Rs 459.87 crore as it faces growing competition during the Diwali week."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 released on October 15, 2026",
+      "Day 20 collection was Rs 17 lakh net in India",
+      "Day 19 collection was Rs 3.40 crore",
+      "First eight days collection was Rs 334.35 crore net",
+      "Second week collection was Rs 98.55 crore",
+      "Total India net business stands at Rs 459.87 crore",
+      "Ramayana: Rise of a Legend releases in theatres on November 5"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "SJ Suryah",
+        "Suraj Venjaramoodu",
+        "Mithun Chakraborty",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Yogi Babu",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Ramayana: Rise of a Legend",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 day 20 collection",
+      "Nelson Dilipkumar Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/Screenshot_2026-11-03_220821_1793725063950_dW1r_1793725081999_IFz7_7c2390cb-cc80-4e91-a0fc-b0f30a811c13_vyai.png",
+        "caption": "Jailer 2 Box Office Collection Day 20: Rajinikanth Action Entertainer Takes Massive Hit With 95% Drop, Records Lowest Si",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 22:28:48 +0530"
+  },
+  "1q5fda8": {
+    "id": "1q5fda8",
+    "type": "news",
+    "headline": "Matt Damon and Daughter Isabella Shine on Red Carpet at 2026 CFDA Fashion Awards",
+    "dek": "Actor Matt Damon attended the 2026 CFDA Fashion Awards with his 20-year-old daughter Isabella Damon, who wore a striking crochet gown from Luar.",
+    "body": [
+      {
+        "h": "A Family Affair at the Museum",
+        "p": [
+          "It was a memorable father-daughter evening at the American Museum of Natural History as actor Matt Damon brought his 20-year-old daughter, Isabella Damon, as his date to the prestigious 2026 CFDA Fashion Awards on Monday. The pair posed for photographs together on the red carpet, turning heads and making the high-profile industry event a true family outing.",
+          "The appearance highlights the growing public presence of Isabella, who is actively carving out her own space in the fashion industry. Walking the red carpet alongside her famous father gave the star-studded event an extra layer of personal significance."
+        ]
+      },
+      {
+        "h": "Isabella Damon Makes a Fashion Statement",
+        "p": [
+          "Isabella caught the attention of fashion critics by wearing a distinctive white crochet gown originating from Luar's spring 2027 collection. The floor-length New York City label design featured delicate silky fringe detailing trimming both the cuffs and the hem.",
+          "Luar designer Raul Lopez clearly approved of the choice, leaving an enthusiastic comment on Isabella's social media post about the evening. The young model and NYU student responded to the designer with high praise of her own, cementing a fashionable connection with the brand."
+        ]
+      },
+      {
+        "h": "Matt Damon's Classic Style and Official Duties",
+        "p": [
+          "The 56-year-old actor opted for a timeless, sophisticated look for the Monday night celebration, wearing a classic Ralph Lauren Purple Label double-breasted tuxedo. Eschewing a traditional shirt and tie, he instead paired the suit with a sleek black cashmere turtleneck.",
+          "Beyond accompanying his daughter, the star had professional responsibilities at the ceremony. He took the stage to present Ralph Lauren with the distinguished award for American Menswear Designer of the Year."
+        ]
+      },
+      {
+        "h": "Growing Success in the Modeling Industry",
+        "p": [
+          "Isabella's appearance at the CFDA Awards follows several major milestones in her burgeoning modeling career. In August, it was exclusively reported that she had signed with IMG Models, setting the stage for major industry opportunities.",
+          "Continuing her momentum in the fashion world, she also starred in J.Crew’s Barn Jacket campaign in September. Her growing portfolio demonstrates a fast-rising profile within the competitive fashion landscape."
+        ]
+      },
+      {
+        "h": "Luar's History with Famous Progeny",
+        "p": [
+          "The New York City-based label Luar has built a reputation for collaborating with prominent celebrity family members and high-profile stars. Earlier in the year, the brand cast Solange's son, Daniel “Julez” Smith Jr., in its New York Fashion Week show.",
+          "The brand's designs have also graced major stages worn by global superstars. Beyoncé famously wore a custom pinstriped Luar dress during a Yankee Stadium run, while Lady Gaga chose a baby-blue gown from the designer for her Super Bowl halftime show cameo."
+        ]
+      },
+      {
+        "h": "A Father's Pride and Support",
+        "p": [
+          "Amidst the flashing cameras and fashion industry celebration, Matt Damon expressed immense pride in his daughter's journey. Speaking with reporters on the red carpet, the father of four shared his enthusiasm for her future.",
+          "“I’m really excited to see what she does with her life,” the actor noted, highlighting his supportive role as she navigates her new career path in modeling and higher education as an NYU student."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matt Damon attended the 2026 CFDA Fashion Awards at the American Museum of Natural History alongside his 20-year-old daughter, Isabella Damon. While Matt presented an award to Ralph Lauren and wore a black cashmere turtleneck with a tuxedo, Isabella wore a white crochet Luar gown from the brand's spring 2027 collection following her recent IMG Models signing and J.Crew campaign."
+        ]
+      }
+    ],
+    "facts": [
+      "Matt Damon is 56 years old.",
+      "Isabella Damon is 20 years old.",
+      "The event took place on Monday at the American Museum of Natural History.",
+      "Isabella signed with IMG Models in August.",
+      "Isabella is an NYU student."
+    ],
+    "entities": {
+      "people": [
+        "Matt Damon",
+        "Isabella Damon",
+        "Raul Lopez",
+        "Ralph Lauren",
+        "Beyoncé",
+        "Lady Gaga",
+        "Daniel “Julez” Smith Jr.",
+        "Solange"
+      ],
+      "titles": [
+        "CFDA Fashion Awards",
+        "J.Crew’s Barn Jacket campaign"
+      ]
+    },
+    "keywords": [
+      "Matt Damon",
+      "Isabella Damon",
+      "CFDA Fashion Awards",
+      "Luar spring 2027"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147418637.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Matt Damon and Daughter Isabella Shine on Red Carpet at 2026 CFDA Fashion Awards",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 12:34:53 -0500"
+  },
+  "13tw788": {
+    "id": "13tw788",
+    "type": "news",
+    "headline": "ABC's Hit Crime Drama Will Trent Prepares for Season 5 Following Major Cast Departures and Netflix Launch",
+    "dek": "As the acclaimed network procedural heads to Netflix to build momentum, upcoming episodes must navigate a drastically reshaped ensemble following shocking character deaths.",
+    "body": [
+      {
+        "h": "The Return of a Network Hit",
+        "p": [
+          "The television landscape features no shortage of police procedurals across major networks, with franchises like NCIS, Law & Order, FBI, and 9-1-1 continuing to dominate prime-time schedules. While action-heavy book adaptations like Reacher, Cross, and Scarpetta have found comfortable homes on streaming platforms, character-driven network dramas face a tougher battle to stand out.",
+          "Among them, ABC's acclaimed crime drama Will Trent has carved out a distinct space by blending traditional investigative elements with deep character study. Adapted from Karin Slaughter's bestselling novel series, the program centers on GBI agent Will Trent and his eclectic colleagues solving cases in Atlanta, Georgia. Fans awaiting the show's return in early 2027 now have an additional way to experience the narrative."
+        ]
+      },
+      {
+        "h": "A Strategic Streaming Transition",
+        "p": [
+          "In a move designed to expand its audience and keep existing viewers engaged, the series is making its way to Netflix. Previously, ABC relied on broadcast reruns during off-seasons, but the streaming rollout allows both long-time followers and newcomers to binge-watch prior seasons at their own pace.",
+          "This digital release arrives at an ideal juncture. With the fifth season on the horizon, having the catalog accessible on a major streaming service provides the perfect refresher for the intricate conspiracies and personal dramas that define the universe crafted by Karin Slaughter."
+        ]
+      },
+      {
+        "h": "Brutal Twists in Season 4",
+        "p": [
+          "Known for maintaining the ruthless, jaw-dropping storytelling found in its source material, the production did not hold back during its fourth outing. The fifteenth episode of season 4, titled 'The Blank Expanse of Nothing,' featured the overarching villain Adelaide Ulster executing Will's surrogate mother, Amanda.",
+          "Just when viewers assumed the narrative danger had passed, tragedy struck again. Seth, the love interest of Angie Polaski, died from injuries sustained in an accident shortly after successfully helping her reach the hospital in time to deliver their baby."
+        ]
+      },
+      {
+        "h": "The Significance of the Departures",
+        "p": [
+          "Losing two major recurring figures in quick succession marks a radical shift for the ensemble cast. Amanda served not only as a boss at the Georgia Bureau of Investigation but as the closest thing to a maternal figure that the title character had ever known, leaving a massive void in his professional and personal life.",
+          "Similarly, Seth's passing upends the dynamic between Angie and Will. While the tragedy opens the door for a potential romantic reconciliation down the line, the emotional weight of these losses will undoubtedly take center stage when the story continues."
+        ]
+      },
+      {
+        "h": "What Lies Ahead in Season 5",
+        "p": [
+          "The upcoming batch of episodes will introduce fresh faces to fill the power vacuums left behind. Series newcomer Alexandra Metz is set to join the cast as Birdie Palmer, the GBI's new Deputy Director, who is expected to bring a very different dynamic compared to Amanda.",
+          "Furthermore, Will may find himself stepping up to help parent Angie and Seth's newborn baby while simultaneously processing his grief. These compounding challenges promise to reopen old emotional wounds, testing the remarkable resilience of the show's protagonist."
+        ]
+      },
+      {
+        "h": "Expanding the Slaughter Universe",
+        "p": [
+          "The broader television adaptations of Karin Slaughter's works continue to generate considerable enthusiasm among book fans. While the upcoming series adaptation of The Good Daughter is heading straight to Peacock as a streaming exclusive, Will Trent remains the crown jewel of her small-screen adaptations.",
+          "The ability of these stories to translate successfully across both traditional broadcast networks and digital platforms highlights the enduring appeal of Slaughter's gritty storytelling and complex protagonists."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ABC's acclaimed crime drama Will Trent is expanding its audience through a strategic arrival on Netflix ahead of its season 5 premiere in early 2027. The upcoming episodes will address the dramatic fallout of season 4, which featured the shocking deaths of major recurring characters Amanda and Seth.",
+          "With new cast members like Alexandra Metz joining the GBI and the title character facing fresh emotional hurdles, the series continues to adapt Karin Slaughter's bestselling novels for a growing fanbase."
+        ]
+      }
+    ],
+    "facts": [
+      "Will Trent season 5 is scheduled to return in early 2027.",
+      "The series is based on Karin Slaughter's novel series.",
+      "Season 4, Episode 15 is titled 'The Blank Expanse of Nothing'.",
+      "Adelaide Ulster is the overarching villain of season 4.",
+      "Alexandra Metz is joining the cast as Deputy Director Birdie Palmer.",
+      "Ramón Rodríguez stars as Will Trent."
+    ],
+    "entities": {
+      "people": [
+        "Cathal Gunning",
+        "Ramón Rodríguez",
+        "Adelaide Ulster",
+        "Seth",
+        "Alexandra Metz",
+        "Birdie Palmer",
+        "Angie Polaski",
+        "Karin Slaughter"
+      ],
+      "titles": [
+        "Will Trent",
+        "Marshals",
+        "Yellowstone",
+        "NCIS: New York",
+        "Law Order",
+        "FBI",
+        "9-1-1",
+        "Reacher",
+        "Cross",
+        "Scarpetta",
+        "The Good Daughter"
+      ]
+    },
+    "keywords": [
+      "Will Trent Netflix",
+      "Will Trent season 5",
+      "Ramón Rodríguez",
+      "Karin Slaughter",
+      "Will Trent cast"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/erika-christensen-and-ramon-rodriguez-in-will-trent-season-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "ABC's Hit Crime Drama Will Trent Prepares for Season 5 Following Major Cast Departures and Netflix Launch",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 17:15:19 GMT"
+  },
+  "1aaycqz": {
+    "id": "1aaycqz",
+    "type": "news",
+    "headline": "Shah Rukh Khan Responds With Humour to Salman Khan's Birthday Greeting",
+    "dek": "Superstar Shah Rukh Khan celebrated his 61st birthday with a witty comeback to Salman Khan's public wish, delighting fans across social media platforms.",
+    "body": [
+      {
+        "h": "The Birthday Celebration",
+        "p": [
+          "Shah Rukh Khan marked his 61st birthday on November 2, prompting an overwhelming wave of affectionate messages from both dedicated admirers and industry colleagues across social media. Among the countless greetings shared online, a particularly warm message arrived from his longtime friend and fellow Bollywood superstar, Salman Khan.",
+          "Taking to Instagram Stories, Salman extended his heartfelt greetings by wishing the King of Romance eternal youth and success. The public exchange between the two iconic actors quickly captured widespread attention and charmed internet users globally."
+        ]
+      },
+      {
+        "h": "A Witty Comedic Reply",
+        "p": [
+          "Demonstrating his trademark humor, Shah Rukh responded to Salman's warm message with a cheeky remark regarding physical fitness. The playful banter between the two veterans highlighted their longstanding camaraderie and effortless rapport.",
+          "Fans readily shared the lighthearted interaction across various platforms, turning the quick exchange into a major talking point of the birthday celebrations."
+        ]
+      },
+      {
+        "h": "Decades of Friendship",
+        "p": [
+          "The bond shared by Shah Rukh and Salman spans multiple decades within the Hindi film industry. Their enduring friendship has previously seen them share screen space in notable cinematic titles such as Karan Arjun and Kuch Kuch Hota Hai.",
+          "Beyond their memorable joint appearances, the two superstars have consistently demonstrated mutual support for each other's professional endeavors, solidifying their status as one of Bollywood's most celebrated peer relationships."
+        ]
+      },
+      {
+        "h": "Mannat Fan Gathering",
+        "p": [
+          "Continuing a beloved annual tradition, Shah Rukh made dedicated time to connect personally with the massive crowds gathered outside his residence, Mannat. Dressed casually in a white t-shirt and trousers, the actor stepped out to acknowledge the sea of supporters.",
+          "The assembly erupted into loud cheers as the superstar appeared on the balcony, eventually treating the crowd to his iconic, signature pose with open arms."
+        ]
+      },
+      {
+        "h": "Project Context: King",
+        "p": [
+          "The birthday festivities also drew heightened focus toward King, Shah Rukh's anticipated upcoming feature directed by Siddharth Anand. The high-profile action thriller boasts a massive star-studded cast featuring Deepika Padukone, Suhana Khan, Abhishek Bachchan, Rani Mukerji, Anil Kapoor, Jackie Shroff, Jaideep Ahlawat, Arshad Warsi, Raghav Juyal, and Abhay Verma.",
+          "Backed jointly by Red Chillies Entertainment and Marflix Pictures, the film is slated for a theatrical release on December 24, 2026."
+        ]
+      },
+      {
+        "h": "Industry Wishes",
+        "p": [
+          "In addition to Salman's message, numerous other prominent figures from the film fraternity showered the birthday boy with love and admiration. Directors and actors alike posted celebratory notes recognizing the superstar's milestone year.",
+          "These widespread industry tributes underscored Shah Rukh's enduring influence and stature within contemporary Indian cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan celebrated his 61st birthday on November 2, receiving a warm public greeting from longtime friend Salman Khan that the actor humorously acknowledged. The superstar also maintained his tradition of greeting fans outside Mannat while anticipation continued to build for his upcoming action thriller King, releasing on December 24, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan celebrated his 61st birthday on November 2, 2026.",
+      "Salman Khan wished Shah Rukh Khan on Instagram Stories.",
+      "King is directed by Siddharth Anand.",
+      "King is scheduled to release in theatres on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Rani Mukerji",
+        "Anil Kapoor",
+        "Jackie Shroff",
+        "Jaideep Ahlawat",
+        "Arshad Warsi",
+        "Raghav Juyal",
+        "Abhay Verma",
+        "Ajay Devgn",
+        "Karan Johar",
+        "Suki Waterhouse",
+        "Robert Pattinson"
+      ],
+      "titles": [
+        "Karan Arjun",
+        "Kuch Kuch Hota Hai",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan birthday",
+      "Salman Khan Shah Rukh Khan",
+      "King movie release date",
+      "Shah Rukh Khan Mannat fans"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/shahrukhkhansooo1793685442.jpg",
+        "caption": "Shah Rukh Khan Responds With Humour to Salman Khan's Birthday Greeting",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-03T11:32:38+05:30"
   }
 };
