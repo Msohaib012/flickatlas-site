@@ -48839,5 +48839,439 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 00:10:12 +0530"
+  },
+  "11nrbce": {
+    "id": "11nrbce",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 59 Highlights: Arishfa Khan Angers Amrapali Dubey, Gullu Sacrifices Lifeline",
+    "dek": "Episode 59 of Bigg Boss 20 brought intense conflicts between Arishfa Khan and her fellow housemates, followed by an emotional surprise featuring family audio messages.",
+    "body": [
+      {
+        "h": "Arishfa Khan's Continued Arguments",
+        "p": [
+          "The drama in episode 59 escalated as Arishfa Khan kept up her verbal altercation with Yung DSA. Yung confronted her regarding the inappropriate remark she directed at Amrapali Dubey.",
+          "Scout also entered the dispute, leading to personal remarks about height before other contestants like Qazi Touqeer and Mahhi Vij observed the shifting group dynamics."
+        ]
+      },
+      {
+        "h": "Kitchen Clash Over Dietary Practices",
+        "p": [
+          "Tensions moved to the kitchen area when Arishfa handled common cooking ingredients with unwashed hands after handling eggs. Amrapali Dubey, who follows a strict vegetarian diet, took serious offense to the action.",
+          "Manish Goel backed Amrapali's concern and asked Arishfa to maintain proper hygiene. Rather than offering an apology, Arishfa defended her actions by claiming others behaved similarly."
+        ]
+      },
+      {
+        "h": "Hygiene Debates and Washroom Discussion",
+        "p": [
+          "The argument widened when Arishfa brought up Love Gill's bathroom habits while speaking with Mahhi Vij. This disclosure prompted Amrapali, Mahhi, and Love to confront Arishfa about her prolonged time in the washroom.",
+          "While the female contestants debated the privacy boundaries, male housemates noted that the conversation was transpiring on national television, leading Kanika Mann to distance herself from the dispute."
+        ]
+      },
+      {
+        "h": "Yung DSA and Love Gill Fallout",
+        "p": [
+          "Later during the night, an accidental conversational mix-up occurred when Love Gill inadvertently began speaking to Yung DSA before cutting herself short.",
+          "Feeling disrespected, Yung walked away from the interaction, asserting his self-respect while Scout commented further on the strained communication between them."
+        ]
+      },
+      {
+        "h": "Emotional Audio Messages From Loved Ones",
+        "p": [
+          "The atmosphere shifted dramatically when Bigg Boss gathered the housemates in the garden to announce a special task involving family audio messages.",
+          "Contestants stepping onto the podium faced choices that required them to forfeit a personal lifeline if they decided to secure a loved one's voice note for another housemate."
+        ]
+      },
+      {
+        "h": "Sacrifices and Surprises on the Podium",
+        "p": [
+          "Manish Goel went first and selflessly assigned Qazi Touqeer's family message to Qazi, though Qazi initially viewed the gesture with skepticism before growing emotional upon hearing his parents and receiving a photo frame.",
+          "In subsequent rounds, Gullu chose to give up his lifeline so Kanika Mann could hear her father's supportive words, and Yung DSA handled the family voice note designated for Uditi Singh."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 59 of Bigg Boss 20 featured intense conflicts among Arishfa Khan, Amrapali Dubey, and Yung DSA regarding kitchen hygiene and personal remarks. The episode concluded on an emotional note as contestants sacrificed their lifelines to share heartfelt audio messages from their families."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 59 aired on November 3, 2026.",
+      "Arishfa Khan offended vegetarian Amrapali Dubey in the kitchen by handling common items after peeling eggs.",
+      "Manish Goel gave up his opportunity to grant Qazi Touqeer his family audio message.",
+      "Gullu sacrificed his lifeline so Kanika Mann could hear a voice note from her father.",
+      "Yung DSA handled the family voice message for Uditi Singh."
+    ],
+    "entities": {
+      "people": [
+        "Arishfa Khan",
+        "Amrapali Dubey",
+        "Yung DSA",
+        "Love Gill",
+        "Kanika Mann",
+        "Salman Khan",
+        "Scout",
+        "Qazi Touqeer",
+        "Mahhi Vij",
+        "Manish Goel",
+        "Gullu",
+        "Uditi Singh",
+        "Sumit Rajguru"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 59",
+      "Arishfa Khan Amrapali Dubey",
+      "Bigg Boss 20 November 3 2026",
+      "Gullu Kanika Mann Bigg Boss"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156459592,thumbsize-536866,width-1280,height-720,resizemode-75/156459592.jpg",
+        "caption": "Bigg Boss 20 Episode 59 Highlights: Arishfa Khan Angers Amrapali Dubey, Gullu Sacrifices Lifeline",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T20:52:40Z"
+  },
+  "3d0dyu": {
+    "id": "3d0dyu",
+    "type": "news",
+    "headline": "Cher's Representative Responds Gracefully After Michael Douglas Criticizes Her Historic Oscar Win",
+    "dek": "A spokesperson for the iconic singer and actress shares that she holds great affection for Michael Douglas, despite his recent remarks questioning her 1988 Academy Award victory.",
+    "body": [
+      {
+        "h": "The Graham Norton Show Remark",
+        "p": [
+          "A recent appearance by Michael Douglas on a talk show program has sparked renewed discussions surrounding a decades-old Academy Awards race. While talking alongside his fellow nominee, Douglas openly questioned the outcome of the 1988 best actress category.",
+          "The actor expressed his belief that his Fatal Attraction co-star should have taken home the prize instead of the eventual winner. His candid on-air comments quickly gained attention across digital platforms."
+        ]
+      },
+      {
+        "h": "Cher's Graceful Response",
+        "p": [
+          "Despite the viral nature of the critical remark, the targeted star chose to handle the situation with complete poise. A representative speaking on behalf of the legendary entertainer made her stance clear to the public.",
+          "The spokesperson offered a simple yet definitive statement to address any friction, noting that the music and acting icon holds genuine fondness for the actor who voiced the critique."
+        ]
+      },
+      {
+        "h": "The 1988 Academy Awards Context",
+        "p": [
+          "The historic clash took place at the 60th Academy Awards held in April 1988. On that night, Cher emerged victorious in the best actress category for her work in the romantic comedy Moonstruck.",
+          "That particular film earned widespread recognition from the Academy, securing a total of six nominations. Alongside the leading performance win, the project also triumphed in categories for adapted screenplay and supporting actress."
+        ]
+      },
+      {
+        "h": "Glenn Close's Nomination Journey",
+        "p": [
+          "The conversation on the talk show heavily centered around Glenn Close and her long history with the Academy. When Douglas brought up the topic, he reminded viewers that she had already accumulated multiple nominations by that point in her career.",
+          "Fatal Attraction marked the first time Close was recognized in the best actress category, following three prior nods as a supporting actress for different films. Though she did not win that evening, she has continued to earn recognition from the Academy over the years."
+        ]
+      },
+      {
+        "h": "Room for Playful Interruption",
+        "p": [
+          "The studio audience reacted with amusement when the critical remark was made during the broadcast. Recognizing the playful tension of the moment, Close herself stepped in to temper her co-star's comments.",
+          "Turning directly toward Douglas on stage, she urged him to soften his stance with a lighthearted plea for kindness. The interaction added a touch of warmth to the retrospective debate over the classic 1980s film race."
+        ]
+      },
+      {
+        "h": "A Historic Night for Multiple Nominees",
+        "p": [
+          "Both Moonstruck and Fatal Attraction shared a heavy presence at the 1988 ceremony, each securing six nominations overall. The two titles went head-to-head in major races including best picture and best director.",
+          "Ultimately, those top competitive fields were won by Bernardo Bertolucci and his epic feature, The Last Emperor. Meanwhile, Michael Douglas found personal success that same night by winning best actor for his performance in Oliver Stone's Wall Street."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Michael Douglas publicly stated on a talk show that Glenn Close should have won the 1988 best actress Oscar instead of Cher for Moonstruck. A representative for Cher responded by stating that the icon adores Michael Douglas, while Close playfully urged her co-star to be kind during the broadcast."
+        ]
+      }
+    ],
+    "facts": [
+      "Cher won the best actress Oscar at the 60th Academy Awards in April 1988 for Moonstruck.",
+      "Michael Douglas stated on The Graham Norton Show that Glenn Close should have won the Oscar for Fatal Attraction.",
+      "A representative for Cher stated that Cher adores Michael Douglas.",
+      "Glenn Close was a four-time Oscar nominee going into the 1988 awards.",
+      "Moonstruck received six Oscar nominations and won three awards, including best actress, adapted screenplay, and supporting actress for Olympia Dukakis.",
+      "Michael Douglas won best actor at the 1988 Oscars for Wall Street.",
+      "Glenn Close's upcoming honorary Oscar will be awarded at the Governors Awards this month."
+    ],
+    "entities": {
+      "people": [
+        "Cher",
+        "Michael Douglas",
+        "Glenn Close",
+        "Graham Norton",
+        "Olympia Dukakis",
+        "Oliver Stone",
+        "Bernardo Bertolucci"
+      ],
+      "titles": [
+        "Moonstruck",
+        "Fatal Attraction",
+        "Wall Street",
+        "The Last Emperor",
+        "The World According to Garp",
+        "The Big Chill",
+        "The Natural",
+        "Dangerous Liaisons",
+        "Albert Nobbs",
+        "The Wife",
+        "Hillbilly Elegy",
+        "Silkwood"
+      ]
+    },
+    "keywords": [
+      "Cher Moonstruck Oscar win",
+      "Michael Douglas Glenn Close Fatal Attraction",
+      "Cher responds to Michael Douglas",
+      "The Graham Norton Show Michael Douglas Cher"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1341355420-e1793738648107.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Cher's Representative Responds Gracefully After Michael Douglas Criticizes Her Historic Oscar Win",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 20:49:07 +0000"
+  },
+  "cbwses": {
+    "id": "cbwses",
+    "type": "news",
+    "headline": "Tony Butala, Co-Founder of The Lettermen, Passes Away at 87",
+    "dek": "Tony Butala, the co-founder of the Grammy-nominated vocal group The Lettermen known for 'The Way You Look Tonight,' has died at the age of 87.",
+    "body": [
+      {
+        "h": "Passing of a Vocal Pioneer",
+        "p": [
+          "Tony Butala, co-founder of the renowned Grammy-nominated trio The Lettermen, passed away on Sunday at the age of 87. Known for their lush vocal harmonies that defined an era of popular music in the 1960s, Butala leaves behind a remarkable legacy in the entertainment industry.",
+          "The confirmation of his passing was shared by the band's media coordinator, Tracy Clark, who released an official statement on behalf of the group to The Associated Press."
+        ]
+      },
+      {
+        "h": "Early Beginnings in Entertainment",
+        "p": [
+          "Born in Sharon, Pennsylvania, in 1938, Butala began his journey in the entertainment world at a remarkably young age. He started singing professionally when he was just seven years old, moving on to sing on KDKA Radio in Pittsburgh by age eight.",
+          "By the time he was ten, he relocated to Los Angeles with his mother and joined the Mitchell Boys Choir. During this period, he appeared in several classic films, including 'White Christmas,' 'Peter Pan,' 'War of the Worlds,' and 'On Moonlight Bay.'"
+        ]
+      },
+      {
+        "h": "Formation of The Lettermen",
+        "p": [
+          "In the late 1950s, Butala teamed up with Jim Pike and Bob Engemann to establish The Lettermen. The trio quickly captured the public's attention with their smooth, harmonious style and engaging performances.",
+          "Their major breakthrough arrived in 1961 with a cover of Fred Astaire’s 'The Way You Look Tonight.' The track climbed to No. 13 on Billboard’s Hot 100 and earned a Grammy nomination in 1962."
+        ]
+      },
+      {
+        "h": "Chart Success and Accolades",
+        "p": [
+          "At the 1962 Grammy Awards, The Lettermen also secured a coveted nomination for best new artist. Throughout the decade, the group placed 19 additional songs on Billboard charts, establishing a dominant presence in popular music.",
+          "Notable charting tracks included 1962's 'When I Fall in Love' and a 1968 Grammy-nominated medley titled 'Goin’ Out of My Head/Can’t Take My Eyes off You.' Their final chart hit arrived in 1971 with 'Everything is Good About You.'"
+        ]
+      },
+      {
+        "h": "Enduring Legacy and Lineup Changes",
+        "p": [
+          "The beloved vocal group maintained a rigorous touring schedule, performing extensively at colleges across the country and venues around the world. Butala remained the final surviving member of the trio's original lineup, following the passing of Jim Pike in 2019 and Bob Engemann in 2013.",
+          "Over the decades, members were replaced to keep the signature three-part sound alive. Butala eventually stepped away from performing in 2019, and a year later, he and the group received a star on the Hollywood Walk of Fame."
+        ]
+      },
+      {
+        "h": "Tributes and Final Arrangements",
+        "p": [
+          "The official band statement remembered Butala as someone who never met a stranger, noting that his life exemplified talent, perseverance, and refinement. They emphasized that his true joy was entertaining and sharing music with global audiences.",
+          "While a cause of death was not provided, the organization confirmed there will be no public viewing, with celebrations of life scheduled to be held in Wisconsin and California at a later date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tony Butala, co-founder of the Grammy-nominated vocal group The Lettermen, has passed away at the age of 87. Having started his professional singing career in childhood and appearing in classic films, Butala went on to co-create a musical legacy featuring numerous Billboard hits before receiving a star on the Hollywood Walk of Fame."
+        ]
+      }
+    ],
+    "facts": [
+      "Tony Butala died on Sunday at age 87.",
+      "He co-founded The Lettermen, which included Jim Pike and Bob Engemann.",
+      "The Lettermen's version of 'The Way You Look Tonight' was released in 1961 and peaked at No. 13 on Billboard's Hot 100.",
+      "Jim Pike died in 2019 at age 82, and Bob Engemann died in 2013.",
+      "Tony Butala and The Lettermen received a star on the Hollywood Walk of Fame in 2020."
+    ],
+    "entities": {
+      "people": [
+        "Tony Butala",
+        "Tracy Clark",
+        "Fred Astaire",
+        "Jim Pike",
+        "Bob Engemann",
+        "Donovan Tea",
+        "Bobby Poynton",
+        "Rob Gulack"
+      ],
+      "titles": [
+        "The Way You Look Tonight",
+        "White Christmas",
+        "Peter Pan",
+        "War of the Worlds",
+        "On Moonlight Bay",
+        "When I Fall in Love",
+        "Goin’ Out of My Head/Can’t Take My Eyes off You",
+        "Everything is Good About You"
+      ]
+    },
+    "keywords": [
+      "Tony Butala",
+      "The Lettermen",
+      "The Way You Look Tonight",
+      "Jim Pike",
+      "Bob Engemann"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/music1_1753007917165_1753007947386.jpeg",
+        "caption": "Tony Butala, Co-Founder of The Lettermen, Passes Away at 87",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 01:04:17 +0530"
+  },
+  "1t377g9": {
+    "id": "1t377g9",
+    "type": "news",
+    "headline": "How to Watch 2026 Midterm Election Results and Live Coverage",
+    "dek": "Major television networks are rolling out extensive broadcast plans for the 2026 midterm elections, featuring special programming across CNN, Fox News, NBC, and other channels.",
+    "body": [
+      {
+        "h": "The 2026 Midterm Elections Kick Off",
+        "p": [
+          "The 2026 midterm elections commenced on a Tuesday morning, bringing all 435 House seats and 35 Senate seats into active competition. Voters across the country are heading to the polls to determine the future balance of power in Washington, raising questions about whether Democrats or Republicans will secure control of both chambers.",
+          "A potential blue wave could significantly impact the second half of President Donald Trump's term. With the political landscape hanging in the balance, broadcasters have prepared comprehensive coverage plans to track every development as the results roll in."
+        ]
+      },
+      {
+        "h": "Key Senate and House Races to Watch",
+        "p": [
+          "National attention is heavily focused on several critical races as Democrats pursue the four seats necessary to take control of the Senate. Prominent contests feature Georgia, where Democratic Sen. Jon Ossoff is facing Republican Rep. Mike Collins, and Michigan, where Democrat Abdul El-Sayed challenges Republican Mike Rogers.",
+          "Other closely monitored matchups include Ohio, where former Democratic Sen. Sherrod Brown seeks a comeback against Republican Sen. Jon Husted, and Maine, where Republican Sen. Susan Collins runs against Democrat Troy Jackson. Additionally, races in Texas between Republican Ken Paxton and Democrat James Talarico, as well as North Carolina between Democrat Roy Cooper and Republican Michael Whatley, remain major focal points."
+        ]
+      },
+      {
+        "h": "Major Network Broadcasts and Schedules",
+        "p": [
+          "Major television networks have significantly expanded their programming for the evening, offering dedicated election specials. CNN kicks off its main 'Election Night in America' coverage at 4 p.m. ET, while Fox News begins its 'Democracy 26' broadcast at 6 p.m. ET.",
+          "NBC News has scheduled a massive 13-hour election night broadcast starting at 5 p.m. ET. Meanwhile, MS Now begins its 'We the People' coverage at 6 p.m., and both CBS News with 'America Decides: Election 2026' and ABC News with 'Vote 2026' start their respective broadcasts at 7 p.m. ET."
+        ]
+      },
+      {
+        "h": "Anchors and Expert Commentators",
+        "p": [
+          "Viewers tuning into CNN will see Jake Tapper and Anderson Cooper co-anchoring from Washington, D.C., with Dana Bash covering Senate races and Kaitlan Collins reporting on the administration's response. Fox News features Bret Baier and Martha MacCallum at the anchor desk alongside commentators like Dana Perino, Jesse Watters, Sean Hannity, and Laura Ingraham.",
+          "NBC's broadcast is led by Savannah Guthrie, Tom Llamas, Kristen Welker, and Hallie Jackson, with Steve Kornacki returning to the big board. MS Now features Rachel Maddow, Nicolle Wallace, Chris Hayes, Jen Psaki, Lawrence O'Donnell, and Michael Steele, with Ali Velshi managing their big board."
+        ]
+      },
+      {
+        "h": "CBS and ABC Election Night Teams",
+        "p": [
+          "CBS News relies on anchors Tony Dokoupil and Norah O'Donnell, supported by contributors Gayle King, Margaret Brennan, and Robert Costa. Their coverage aims to provide deep analysis of the shifting political map as data flows in from across the nation.",
+          "ABC News rounds out the major network offerings with a seven-hour broadcast anchored by David Muir. He is joined by correspondents Linsey Davis, Martha Raddatz, Jonathan Karl, and Mary Bruce to guide audiences through the unfolding results."
+        ]
+      },
+      {
+        "h": "Streaming Options Without Cable",
+        "p": [
+          "Viewers without traditional TV packages can still access live coverage of NBC, ABC, CBS, and Fox through streaming platforms such as DirecTV and Hulu + Live TV. Fubo also serves as an alternative viewing option, though it does not carry CNN.",
+          "Several of these streaming services provide five-day free trials, allowing audiences to view election night broadcasts without committing to a long-term subscription plan immediately."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2026 midterm elections have brought all House and Senate seats into play, prompting major news networks to launch extensive live coverage. Networks including CNN, Fox News, NBC, MS Now, CBS, and ABC are providing all-day reporting and specialized broadcasts for viewers tracking the results."
+        ]
+      }
+    ],
+    "facts": [
+      "All 435 House seats and 35 Senate seats are up for election in the 2026 midterms.",
+      "Democrats need to win four seats to take control of the Senate.",
+      "NBC's Decision '26 spans 13 hours of coverage.",
+      "Midterm political ad spending reached a record $11.21 billion."
+    ],
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Jon Ossoff",
+        "Mike Collins",
+        "Abdul El-Sayed",
+        "Mike Rogers",
+        "Sherrod Brown",
+        "Jon Husted",
+        "Susan Collins",
+        "Troy Jackson",
+        "Ken Paxton",
+        "James Talarico",
+        "Roy Cooper",
+        "Michael Whatley",
+        "Jake Tapper",
+        "Anderson Cooper",
+        "Dana Bash",
+        "Kaitlan Collins",
+        "Bret Baier",
+        "Martha MacCallum",
+        "Dana Perino",
+        "Jesse Watters",
+        "Sean Hannity",
+        "Laura Ingraham",
+        "Savannah Guthrie",
+        "Tom Llamas",
+        "Kristen Welker",
+        "Hallie Jackson",
+        "Steve Kornacki",
+        "Rachel Maddow",
+        "Nicolle Wallace",
+        "Chris Hayes",
+        "Jen Psaki",
+        "Lawrence O'Donnell",
+        "Michael Steele",
+        "Ali Velshi",
+        "Tony Dokoupil",
+        "Norah O'Donnell",
+        "Gayle King",
+        "Margaret Brennan",
+        "Robert Costa",
+        "David Muir",
+        "Linsey Davis",
+        "Martha Raddatz",
+        "Jonathan Karl",
+        "Mary Bruce"
+      ],
+      "titles": [
+        "Decision '26",
+        "Vote 2026",
+        "America Decides: Election 2026",
+        "Election Night in America",
+        "Democracy 26",
+        "We the People"
+      ]
+    },
+    "keywords": [
+      "2026 midterm elections",
+      "Election Night in America",
+      "Jon Ossoff",
+      "Donald Trump"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Image-25.jpg",
+        "caption": "How to Watch 2026 Midterm Election Results and Live Coverage",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 20:41:00 +0000"
   }
 };
