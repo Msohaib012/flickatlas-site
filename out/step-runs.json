@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T09:35:50Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": {
-     "candidates": 298,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20: Panchayat fame Aasif Khan eliminated from Salman Khan-hosted show",
-      "Love In Disguise Episode 5 Release Time Today: When & Where To Stream Ep 5? What To Expect From K-drama?",
-      "Ranabaali OTT Release Date Update: When And Where To Watch Vijay Deverakonda & Rashmika Mandanna's Film Online",
-      "Birthday Special! 5 Unforgettable Releases Of Diana Penty; From Cocktail to Happy Bhaag Jayegi",
-      "Dhanush And Mammootty To Share The Stage At The Grand Audio Launch Of Om: Chapter 1",
-      "Drishyam 3 Box Office: Can Ajay Devgn Starrer Still Challenge Aamir Khan’s Dangal In Domestic Collections?",
-      "You Can See Everything Box Office: Set To Beat Michael Jackson & Justin Bieber’s Documentaries",
-      "The Odyssey Worldwide Box Office: Hits The $1.8 Billion Mark, Continues Its Extraordinary Run in IMAX!",
-      "Exclusive: Ramayana Weekend Advance Booking Tops 50 Crore Gross in India",
-      "'Ramayana': Ravie Dubey looks fierce as Lakshman in new character poster",
-      "Sivakarthikeyan surprises 'SK27' director Ramkumar Balakrishnan with gift",
-      "Amit Sadh says ticket sales matter",
-      "Suriya urges fans to believe in life: ‘You can make a comeback’",
-      "'Jailer 2' BO day 19 [LIVE]: Rajinikanth's film surpasses Rs 534 crore",
-      "Joy Crizildaa and Madhampatty Rangaraj celebrate son Raga's first birthday",
-      "CBFC issues new advisory for filmmakers: No incomplete movies allowed, titles subject to change, release dates not considered",
-      "Indian homegrown animation studio Emomee grew from 1000 subscribers to 1 billion views, landed 2 Netflix shows in 18 months",
-      "Exclusive| Dia Mirza on cracker free Diwali video being taken down by BMC: Video was recorded in the interest of public awareness",
-      "Gul Gulshan Gulfam director and acclaimed Dogri writer Ved Rahi dies at 93",
-      "Pushpak Viman to Sanjeevani: Divine wonders in Ranbir Kapoor-Sai Pallavi's Ramayana"
-     ],
-     "updated": [],
-     "count": 280,
-     "detail": "287 stories, 2 duplicates removed, 11 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T10:51:40Z",
     "run_id": "41432003550",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "355 stories, 3 duplicates removed, 14 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T09:36:51Z",
-    "run_id": "41421846023",
+    "run_at": "2026-11-03T09:51:42Z",
+    "run_id": "41614283839",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 268,
+     "detail": "RSS/Atom items across 137 sources; 2 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Part One Crosses ₹50 Crore in India Advance Bookings Ahead of Diwali Release",
-      "General Hospital Dominates 53rd Daytime Emmys as The Kelly Clarkson Show Takes Top Honors"
+      "Priyadarshan CONFIRMS he won’t direct Malamaal Weekly 2; Amit Joshi takes charge",
+      "BREAKING: Ramayana BREAKS pre-Diwali jinx! Rs. 25 cr+ in advance ticket sales; Kamal Gianchandani predicts HISTORIC record in PVR INOX's 30+ year history",
+      "‘X-Men’s Biggest Victory May Have Opened The Gates For ‘Avengers: Doomsday’ Years Ago",
+      "Ramayana Box Office Day 1 Prediction: Bollywood’s 2nd Biggest Opening On The Cards, Hindi Version Alone Eyeing 65 Crore+ Net",
+      "The Royals Season 2: Ishaan Khatter & Zeenat Aman’s Netflix Family Drama Begins Filming",
+      "Arasan Sneak Peek: Silambarasan TR starrer’s 8 minute look to hit screens on Diwali? Find Out",
+      "9 Films and Shows Releasing in Theaters and OTT This Week: Wild Horse Nine to Stick Season 2, Possible Love",
+      "Jailer 2 Box Office Collections: Rajinikanth starrer holds well on 3rd Monday, grosses Rs 511 crore in India",
+      "EXCLUSIVE: Oh My Goddess runs into a roadblock due to creative differences",
+      "7 South Films to Watch in Theaters This Week: Suriya, Naslen’s Scene to Ramayana and Nayanthara’s Mookuthi Amman 2",
+      "Ramayana Part One Advance Bookings Update: Ranbir Kapoor, Yash starrer battles Pre Diwali, Rakes in Rs. 30 Cr in presales",
+      "Ramayana Part 3 on the Cards as Namit Malhotra Reveals Original Trilogy Plan",
+      "'The Raavan-Jatayu fight sequence in Ramayana alone took 6.5 years to complete'",
+      "Suriya and Dhanush may join hands for Mani Ratnam's next film",
+      "Hans Zimmer agreed to compose Ramayana music without seeing pitch deck, says India's gods and traditions make it important for the West",
+      "King's Tu Mil Jaaye becomes most-watched Indian film song in 24 hours with 36 million views; beats Jawan's Zinda Banda, Adipurush's Jai Shri Ram",
+      "Nayanthara visits Chennai Kalikambal temple ahead of Mookuthi Amman 2 release. Watch",
+      "Harry Potter Officially Returns on November 17",
+      "Every Major Sequel & Series Continuation Still To Come In 2026",
+      "Tallinn Black Nights Festival: New Artistic Director Triin Tramberg on Making Sure That at 30 It Stays ‘Bold, Unpredictable Yet Accessible’"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 261,
+     "detail": "263 stories, 1 duplicates removed, 5 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1488,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T09:52:03Z",
+    "run_id": "41614283839",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
+      "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
+      "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
+      "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T11:51:20Z",
-    "run_id": "41439949556",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1922,28 +1906,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T09:52:03Z",
+    "run_id": "41614283839",
+    "status": "success",
+    "checked": {
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 183, coming 4"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T09:49:43Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "ged0uq"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2382,27 +2365,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T09:49:41Z",
-    "run_id": "41421846023",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T09:55:41Z",
+    "run_id": "41614283839",
     "status": "success",
     "checked": {
-     "candidates": 419,
-     "detail": "417 collected staging rows from readers; 135 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 100,
-     "detail": "+3 new rows, 97 updated rows, 317 unchanged"
+     "count": 0
     },
     "reason": null
-   },
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2816,19 +2798,27 @@
      "detail": "+0 new rows, 153 updated rows, 293 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T09:55:39Z",
+    "run_id": "41614283839",
+    "status": "success",
+    "checked": {
+     "candidates": 447,
+     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "+0 new rows, 13 updated rows, 433 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3083,30 +3073,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T09:49:43Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": {
-     "candidates": 382,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Part One Crosses ₹50 Crore in India Advance Bookings Ahead of Diwali Release",
-      "General Hospital Dominates 53rd Daytime Emmys as The Kelly Clarkson Show Takes Top Honors"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 382 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3642,19 +3621,32 @@
      "detail": "api-news.json 481 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T09:55:41Z",
+    "run_id": "41614283839",
+    "status": "success",
+    "checked": {
+     "candidates": 485,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
+      "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
+      "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
+      "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 485 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3930,19 +3922,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4263,29 +4255,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T09:36:51Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 280 still unprocessed; today by category: movies 6/6, tv_dramas 1/4, episodes 0/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 1/2, music_ost 2/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Part One Crosses ₹50 Crore in India Advance Bookings Ahead of Diwali Release",
-      "General Hospital Dominates 53rd Daytime Emmys as The Kelly Clarkson Show Takes Top Honors"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4791,31 +4773,31 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "overseas_ai": [
+   },
    {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T09:45:29Z",
-    "run_id": "41421846023",
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T09:52:03Z",
+    "run_id": "41614283839",
     "status": "success",
     "checked": {
-     "candidates": 31,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 261 still unprocessed; today by category: movies 7/6, tv_dramas 6/4, episodes 1/2, box_office 11/6, celebrities_events 7/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 1/3, awards 1/2, music_ost 2/2, viral 1/2"
     },
     "changed": {
      "added": [
-      "Ranabaali (1389379)",
-      "Jailer 2 (1234139)",
-      "Drishyam: The Conclusion (1269325)",
-      "Udta Teer (1375156)"
+      "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
+      "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
+      "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
+      "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud"
      ],
      "updated": [],
      "count": 4
     },
     "reason": null
-   },
+   }
+  ],
+  "overseas_ai": [
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5157,24 +5139,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 210,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5519,24 +5496,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 370,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5871,19 +5848,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6133,19 +6115,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6380,19 +6362,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6668,19 +6650,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6921,19 +6903,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7163,19 +7145,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7424,6 +7406,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T09:02:08Z",
     "run_id": "41606283512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7770,16 +7762,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-02T11:00:23Z",
     "run_id": "41432003550",
     "status": "skipped",
@@ -8012,6 +7994,16 @@
     "category": "Box Office",
     "run_at": "2026-11-03T09:02:08Z",
     "run_id": "41606283512",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -8268,8 +8260,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T09:55:49Z",
+    "run_id": "41614283839",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-03T09:02:08Z"
+ "updated_at": "2026-11-03T09:55:49Z"
 }

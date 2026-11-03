@@ -181,14 +181,24 @@
    "tickets": 689238
   },
   {
-   "collection_gross_inr_cr": 0.97,
-   "collection_inr_cr": 0.83,
+   "collection_gross_inr_cr": 4.38,
+   "collection_inr_cr": 3.71,
    "date": "2026-11-02",
    "day": 19,
-   "occupancy_pct": 10.2,
-   "shows": 2377,
+   "occupancy_pct": 12.2,
+   "shows": 8570,
    "source": "moviemintbo",
-   "tickets": 67249
+   "tickets": 294019
+  },
+  {
+   "collection_gross_inr_cr": 1.5,
+   "collection_inr_cr": 1.27,
+   "date": "2026-11-03",
+   "day": 20,
+   "occupancy_pct": 10.7,
+   "shows": 3522,
+   "source": "moviemintbo",
+   "tickets": 109444
   }
  ],
  "1269325": [
@@ -503,14 +513,24 @@
    "tickets": 77856
   },
   {
-   "collection_gross_inr_cr": 0.2,
-   "collection_inr_cr": 0.17,
+   "collection_gross_inr_cr": 0.76,
+   "collection_inr_cr": 0.65,
    "date": "2026-11-02",
    "day": 32,
-   "occupancy_pct": 6.6,
-   "shows": 1026,
+   "occupancy_pct": 8.1,
+   "shows": 3124,
    "source": "moviemintbo",
-   "tickets": 12644
+   "tickets": 46910
+  },
+  {
+   "collection_gross_inr_cr": 0.25,
+   "collection_inr_cr": 0.21,
+   "date": "2026-11-03",
+   "day": 33,
+   "occupancy_pct": 7.8,
+   "shows": 1221,
+   "source": "moviemintbo",
+   "tickets": 17299
   }
  ],
  "1375156": [
@@ -615,14 +635,24 @@
    "tickets": 185553
   },
   {
-   "collection_gross_inr_cr": 0.35,
-   "collection_inr_cr": 0.3,
+   "collection_gross_inr_cr": 1.73,
+   "collection_inr_cr": 1.47,
    "date": "2026-11-02",
    "day": 11,
-   "occupancy_pct": 7.1,
-   "shows": 1585,
+   "occupancy_pct": 10.1,
+   "shows": 5063,
    "source": "moviemintbo",
-   "tickets": 23641
+   "tickets": 106953
+  },
+  {
+   "collection_gross_inr_cr": 0.55,
+   "collection_inr_cr": 0.46,
+   "date": "2026-11-03",
+   "day": 12,
+   "occupancy_pct": 9.2,
+   "shows": 2003,
+   "source": "moviemintbo",
+   "tickets": 38620
   }
  ],
  "1389379": [
@@ -797,14 +827,24 @@
    "tickets": 30706
   },
   {
-   "collection_gross_inr_cr": 0.08,
-   "collection_inr_cr": 0.07,
+   "collection_gross_inr_cr": 0.27,
+   "collection_inr_cr": 0.23,
    "date": "2026-11-02",
    "day": 18,
-   "occupancy_pct": 12.5,
-   "shows": 148,
+   "occupancy_pct": 11.9,
+   "shows": 553,
    "source": "moviemintbo",
-   "tickets": 5513
+   "tickets": 19870
+  },
+  {
+   "collection_gross_inr_cr": 0.11,
+   "collection_inr_cr": 0.09,
+   "date": "2026-11-03",
+   "day": 19,
+   "occupancy_pct": 11.3,
+   "shows": 232,
+   "source": "moviemintbo",
+   "tickets": 8589
   }
  ],
  "1654581": [
@@ -979,14 +1019,24 @@
    "tickets": 16143
   },
   {
-   "collection_gross_inr_cr": 0.05,
-   "collection_inr_cr": 0.04,
+   "collection_gross_inr_cr": 0.17,
+   "collection_inr_cr": 0.14,
    "date": "2026-11-02",
    "day": 18,
-   "occupancy_pct": 6.6,
-   "shows": 292,
+   "occupancy_pct": 7.2,
+   "shows": 883,
    "source": "moviemintbo",
-   "tickets": 3458
+   "tickets": 11043
+  },
+  {
+   "collection_gross_inr_cr": 0.07,
+   "collection_inr_cr": 0.06,
+   "date": "2026-11-03",
+   "day": 19,
+   "occupancy_pct": 8.2,
+   "shows": 369,
+   "source": "moviemintbo",
+   "tickets": 5344
   }
  ]
 }

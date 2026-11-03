@@ -44131,5 +44131,375 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 13:41:31 +0530"
+  },
+  "rnvypp": {
+    "id": "rnvypp",
+    "type": "news",
+    "headline": "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
+    "dek": "Namit Malhotra's upcoming mythological project starring Ranbir Kapoor, Yash, and Sai Pallavi has smashed traditional box office trends with extraordinary pre-sales.",
+    "body": [
+      {
+        "h": "Shattering Pre-Diwali Expectations",
+        "p": [
+          "The highly anticipated mythological film Ramayana has officially defied the long-standing belief that the days leading up to Diwali are unfavourable for major theatrical debuts. Even before its official opening, the big-ticket production has generated massive excitement among moviegoers across the country.",
+          "Industry observers traditionally view this pre-festival window as a sluggish period because families and individuals are occupied with festive preparations, cleaning, and shopping. However, this production is proving that high audience eagerness can easily conquer traditional box office hurdles."
+        ]
+      },
+      {
+        "h": "Milestone Advance Booking Figures",
+        "p": [
+          "Advance ticket sales for the feature have surged past the significant threshold of Rs. 25 crore. Furthermore, data collected up to late evening on Monday indicated that cumulative national sales had already climbed towards Rs. 30 crore.",
+          "Major national cinema chains have collectively distributed over 1.50 lakh passes as enthusiastic patrons rush to secure their seats ahead of the opening date."
+        ]
+      },
+      {
+        "h": "PVR INOX Executive Predicts History",
+        "p": [
+          "Kamal Gianchandani, Chief Business Planning and Strategy at PVR INOX Limited, publicly shared his enthusiasm regarding the phenomenal numbers. Using social media, he highlighted how the project has successfully broken historical pre-Diwali trends.",
+          "Gianchandani went on to forecast that the feature is firmly on track to establish the biggest pre-Diwali advance booking figures recorded throughout PVR INOX's history spanning over thirty years."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The ambitious cinematic venture is spearheaded by producer Namit Malhotra and features a prominent ensemble cast. Leading the project are acclaimed actors Ranbir Kapoor, Yash, and Sai Pallavi.",
+          "The scale of the production and its starry lineup have combined to create intense anticipation among audiences, paving the way for its record-breaking pre-release momentum."
+        ]
+      },
+      {
+        "h": "Legal Protection Prior to Release",
+        "p": [
+          "Alongside its commercial triumphs, the project has also secured important administrative safeguards. Recently, the Bombay High Court granted anti-piracy protection to the Ranbir Kapoor starrer.",
+          "This legal measure ensures that the studio's intellectual property remains shielded from unauthorized distribution as excitement reaches a fever pitch ahead of the theatrical debut."
+        ]
+      },
+      {
+        "h": "Potential Future Projections",
+        "p": [
+          "With a couple of days still remaining before the scheduled November 5 premiere, market experts estimate that final pre-sales figures could climb as high as Rs. 60 crore.",
+          "If the current booking velocity converts successfully into high physical attendance at auditoriums, the project could permanently alter how film distributors perceive the pre-festival release window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana has crossed Rs. 25 crore in advance ticket sales, breaking traditional pre-Diwali box office slumps ahead of its November 5 release. Kamal Gianchandani of PVR INOX predicted historic booking records for the film, which features Ranbir Kapoor, Yash, and Sai Pallavi."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs. 25 crore in advance ticket sales.",
+      "The film is scheduled for release on November 5.",
+      "Kamal Gianchandani is the Chief Business Planning and Strategy at PVR INOX Limited.",
+      "The cast features Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "National chains have sold over 1.50 lakh tickets.",
+      "The Bombay High Court granted anti-piracy protection to the film."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Kamal Gianchandani"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Kamal Gianchandani PVR INOX",
+      "Ramayana film box office",
+      "Ranbir Kapoor Yash Sai Pallavi"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/BREAKING-Ramayana-BREAKS-pre-Diwali-jinx-Rs.-25-cr-in-advance-ticket-sales-Kamal-Gianchandani-predicts-HISTORIC-record-in-PVR-INOXs-30-year-history.jpg",
+        "caption": "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 14:32:44 +0200"
+  },
+  "dncwnq": {
+    "id": "dncwnq",
+    "type": "news",
+    "headline": "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
+    "dek": "Wendi McLendon-Covey expressed surprise that her absence from the 2026 Oscars and the Bridesmaids reunion due to a neck lift became a major talking point.",
+    "body": [
+      {
+        "h": "The Surprising Public Attention",
+        "p": [
+          "Wendi McLendon-Covey recently shared her astonishment regarding the heavy media attention she received after missing the 2026 Academy Awards. The actress had to skip the ceremony, which meant she missed out on a major reunion with her former costars.",
+          "While speaking on the set of Celebrity Weakest Link, the comedian noted that she never expected anyone to care about her absence. She found the entire situation to be quite odd yet humorous."
+        ]
+      },
+      {
+        "h": "Explaining the Absence on Social Media",
+        "p": [
+          "The reason behind her absence from the awards show was a cosmetic procedure. McLendon-Covey took to Instagram to address fans who were asking about her whereabouts after seeing her former castmates on stage.",
+          "Sharing a selfie with her head covered in bandages, she candidly explained that she had undergone a neck lift because she was tired of looking like a melting candle. She reassured her followers that everything was fine and there was no drama."
+        ]
+      },
+      {
+        "h": "The 2026 Oscars and Bridesmaids Reunion",
+        "p": [
+          "The 2026 Oscars ceremony took place on Sunday, March 15, at the Dolby Theatre in Hollywood, hosted by Conan O'Brien. Hollywood stars gathered at the venue to celebrate the best in cinema during a heavily anticipated night.",
+          "During the event, several stars from the comedy hit Bridesmaids reunited to celebrate 15 years since the movie first hit theaters. The original film was directed by Paul Feig and became a massive box office success."
+        ]
+      },
+      {
+        "h": "Future Possibilities for the Cast",
+        "p": [
+          "Despite missing the recent on-stage gathering, McLendon-Covey has not ruled out the possibility of another reunion in the future. She noted that life is long and nobody knows what might happen down the road.",
+          "She also mentioned that her former costars are currently very busy with work commitments, pointing out that two of them are currently performing on Broadway."
+        ]
+      },
+      {
+        "h": "Appearance on Celebrity Weakest Link",
+        "p": [
+          "McLendon-Covey is currently focusing on her appearance on the game show Celebrity Weakest Link. She joined fellow comedians such as Nicole Byer, Heather McMahan, Mary Lynn Rajskub, Sasheer Zamata, Zarna Garg, Judy Gold, and Ms. Pat for a special Ladies Who Laugh episode.",
+          "Reflecting on her journey into comedy, she recalled watching performers as a young girl and aspiring to make people feel happy. She noted that it took a long time to reach this point in her career."
+        ]
+      },
+      {
+        "h": "Potential Themed Episodes",
+        "p": [
+          "During her time discussing the game show, the actress floated fun ideas for potential future episodes. She suggested that a Bridesmaids-themed episode could be a fun concept for the television program.",
+          "She also joked about other potential matchups for the show, drawing inspiration from past episodes she had watched where TV doctors competed against real doctors."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Wendi McLendon-Covey expressed surprise after receiving unexpected attention for skipping the Bridesmaids reunion at the 2026 Oscars due to a recent neck lift procedure. While speaking on the set of Celebrity Weakest Link, the actress discussed her recovery, her social media transparency, and her openness to future cast gatherings."
+        ]
+      }
+    ],
+    "facts": [
+      "Wendi McLendon-Covey is 57 years old.",
+      "The 2026 Oscars took place on Sunday, March 15, 2026.",
+      "The 2026 Oscars were hosted by Conan O'Brien at the Dolby Theatre in Hollywood.",
+      "Bridesmaids was directed by Paul Feig and released 15 years prior to the 2026 reunion."
+    ],
+    "entities": {
+      "people": [
+        "Wendi McLendon-Covey",
+        "Kristen Wiig",
+        "Rose Byrne",
+        "Melissa McCarthy",
+        "Maya Rudolph",
+        "Ellie Kemper",
+        "Paul Feig",
+        "Conan O'Brien",
+        "Annie Mumolo",
+        "Nicole Byer",
+        "Heather McMahan",
+        "Mary Lynn Rajskub",
+        "Sasheer Zamata",
+        "Zarna Garg",
+        "Judy Gold",
+        "Ms. Pat"
+      ],
+      "titles": [
+        "Bridesmaids",
+        "Celebrity Weakest Link"
+      ]
+    },
+    "keywords": [
+      "Wendi McLendon-Covey neck lift",
+      "Bridesmaids reunion Oscars",
+      "Celebrity Weakest Link Ladies Who Laugh",
+      "Wendi McLendon-Covey Oscars absence"
+    ],
+    "images": [
+      {
+        "url": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2293879945_fa9d54.jpg?crop=0px%2C308px%2C2567px%2C1349px&#038;resize=1200%2C630&#038;quality=55&#038;strip=all",
+        "caption": "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
+        "source": "US Weekly"
+      }
+    ],
+    "published": "2026-11-03T09:52:03Z"
+  },
+  "lg4xc3": {
+    "id": "lg4xc3",
+    "type": "news",
+    "headline": "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana Part One achieves solid presales totaling around Rs. 30 crore, despite facing a sluggish pre-diwali box office phase in northern and southern markets.",
+    "body": [
+      {
+        "h": "Advance Booking Milestone",
+        "p": [
+          "Ramayana Part One has entered the final stretch of its pre-release ticket sales in India, pulling in impressive numbers despite varying market conditions. As of the latest morning figures, the big-budget feature has secured approximately Rs. 13 crore nett for its opening day in the Hindi version alone.",
+          "The early ticket sales stretch comfortably across the opening weekend. The cumulative five-day advance booking total stands at more than double the opening day figure, resting at around Rs. 27 crore nett for the Hindi language screenings."
+        ]
+      },
+      {
+        "h": "Dubbed Versions and Regional Contributions",
+        "p": [
+          "In addition to the primary Hindi prints, the movie features dubbed South Indian versions that have further bolstered the collection. These regional offerings have added another Rs. 3.50 crore nett for the first day.",
+          "A major share of this regional contribution comes directly from the Kannada version. However, industry analysts note that this heavy regional showcasing in major metro plexes like Bengaluru and Hyderabad has slightly cannibalized the potential Hindi version metrics."
+        ]
+      },
+      {
+        "h": "National Chain Ticket Sales",
+        "p": [
+          "The vast majority of the advance sales are concentrated within major national cinema chains. Across these top theatrical networks, the feature has successfully sold 198,000 tickets so far.",
+          "Despite healthy absolute volume, the overall momentum of sales has shown signs of sluggishness. The chains added roughly 23,000 tickets over the previous day, falling short of the ideal target range of 40,000 to 50,000 daily additions."
+        ]
+      },
+      {
+        "h": "Impact of the Pre-Diwali Slump",
+        "p": [
+          "The period leading up to Diwali traditionally acts as a slow patch for the Hindi box office, especially across northern territories and smaller towns. This seasonal slowdown is clearly reflected in the current ticket trends.",
+          "While subjects featuring strong devotional themes typically outperform in smaller centers, the pre-diwali festivities are holding back audiences in those regions. Current sales are primarily driven by major metro centers where the festive slump has a lesser dampening effect."
+        ]
+      },
+      {
+        "h": "Projections and Walk-Up Potential",
+        "p": [
+          "Taking all market variables into account, Ramayana Part One is currently tracking toward an opening day that might slightly miss initial blockbuster expectations due to the release timing. Current estimates indicate the film should clear Rs. 50 crore nett, with an outside shot at reaching Rs. 60 crore nett depending on walk-up business.",
+          "Because family-oriented devotional movies often rely heavily on last-minute ticket buyers, the ultimate opening figures will depend heavily on how families navigate the pre-diwali celebrations and the mid-week Thursday arrival."
+        ]
+      },
+      {
+        "h": "Post-Festival Outlook",
+        "p": [
+          "Trade experts anticipate that once the pre-diwali festivities conclude and the new week begins, the feature will find its true footing. The subsequent weekdays are expected to remain elevated as many regions experience a post-diwali holiday boost.",
+          "Ultimately, tracking the trajectory of devotional cinematic projects remains uniquely unpredictable. The film's long-term box office journey will rely on sustained audience interest as it moves past its opening weekend hurdles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash starrer Ramayana Part One has gathered around Rs. 30 crore in total advance bookings for its opening stretch. The film faces a sluggish booking pace in smaller centers due to a pre-diwali box office slump while navigating regional ticket distribution across major metros."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor and Yash star in Ramayana Part One",
+      "Opening day Hindi advance bookings stand at approximately Rs. 13 crore nett",
+      "Five-day advance bookings for the Hindi version total around Rs. 27 crore nett",
+      "Dubbed South Indian versions added Rs. 3.50 crore nett for the first day",
+      "National chains have sold 198,000 tickets for the film",
+      "The film is projected to clear Rs. 50 crore nett with a shot at Rs. 60 crore nett"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jatinder Singh"
+      ],
+      "titles": [
+        "Ramayana Part One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One advance bookings",
+      "Ranbir Kapoor Yash Ramayana box office",
+      "Ramayana Part One presales Rs 30 Cr",
+      "Ramayana Part 1 opening day collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/865665387_ramayan-2.jpg",
+        "caption": "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 12:37:55 +0530"
+  },
+  "la2nqb": {
+    "id": "la2nqb",
+    "type": "news",
+    "headline": "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud",
+    "dek": "The Celebrity Traitors star James Acaster has vehemently denied newspaper reports claiming he filed a complaint against co-stars Rob Beckett and Romesh Ranganathan, calling the entire story completely fabricated.",
+    "body": [
+      {
+        "h": "Addressing The Tabloid Rumors",
+        "p": [
+          "Comedian James Acaster has spoken out directly against recent newspaper claims regarding his time on television. During an appearance on Alan Carr's Life's A Beach Podcast, the Ghostbusters: Frozen Empire actor expressed sheer disbelief over a front-page story published last month in The Mail on Sunday.",
+          "The original publication alleged that Acaster had formally approached production staff on The Celebrity Traitors to report discomfort regarding aggressive banter from fellow contestants Rob Beckett and Romesh Ranganathan. Acaster dismissed the assertions entirely, labeling them as completely made up and pointing out that he had never previously encountered such manufactured tabloid drama regarding his personal life."
+        ]
+      },
+      {
+        "h": "Decade-Long Friendships On Set",
+        "p": [
+          "Underscoring his off-screen relationships, Acaster clarified that he has maintained strong friendships with both Beckett and Ranganathan for more than ten years. He emphasized that the pair were supportive and kind throughout the entire duration of the reality television project.",
+          "According to the comedian, neither he nor his fellow cast members displayed any animosity. When the tabloid first reached out to representatives for comment, agents for all three performers explicitly informed the newspaper that the allegations were wholly untrue, yet the publication proceeded with the article regardless."
+        ]
+      },
+      {
+        "h": "The Nature Of The Alleged Conflict",
+        "p": [
+          "The initial newspaper feature relied on an anonymous insider who claimed that friendly teasing quickly escalated into personal upset. The source suggested that Acaster felt targeted away from the cameras and ultimately decided to lodge a formal grievance with the show's producers over perceived mistreatment.",
+          "Over the subsequent weekend, the publication doubled down on its claims, specifying that the alleged friction stemmed from jokes directed at Acaster's middle-class upbringing. The tabloid source asserted that the contestant viewed the social background dynamic as an additional battleground during an already challenging game."
+        ]
+      },
+      {
+        "h": "The BBC Issues Categorical Denials",
+        "p": [
+          "In response to the mounting tabloid speculation, the BBC released a forceful and unambiguous statement to clear the air. A network spokesperson stated that any claims of on-set teasing among the cast members, alongside accusations of subsequent formal complaints, were entirely untrue.",
+          "The broadcaster reiterated that no such incidents ever transpired during production and confirmed the absence of any evidence supporting the allegations published in the press. The official intervention mirrored the denials issued by the performers' respective representation teams."
+        ]
+      },
+      {
+        "h": "Unseen Moments And Game Dynamics",
+        "p": [
+          "Beyond the off-camera controversy, Acaster shared details about specific interactions during filming that ultimately failed to make the final broadcast cut. He revealed an unedited exchange with fellow contestant Jerry Hall, wherein he confessed to being a traitor.",
+          "Recounting the moment on the podcast, Acaster described looking Hall in the eye and suggesting she might also be a traitor, to which she playfully remarked on his sneakiness. Acaster acknowledged the description, confirming that he readily admitted his clandestine role to her during the conversation."
+        ]
+      },
+      {
+        "h": "Context And Background",
+        "p": [
+          "The reality competition format has drawn significant public attention, culminating in a record audience for its season finale on the BBC. The heightened visibility of the program has naturally placed its cast members under intense media scrutiny as details from production emerge.",
+          "Alan Carr, who hosts the podcast where Acaster cleared the air, also holds a notable connection to the television franchise as the winner of its inaugural season. The conversation offered a platform for contestants to address the friction amplified by media outlets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Acaster dismissed newspaper claims that he complained about co-stars Rob Beckett and Romesh Ranganathan on The Celebrity Traitors as completely fabricated. Both the BBC and representatives for the stars strongly denied the allegations of on-set friction."
+        ]
+      }
+    ],
+    "facts": [
+      "James Acaster appeared on Alan Carr's Life's A Beach Podcast.",
+      "The Mail on Sunday published a report claiming Acaster complained about Rob Beckett and Romesh Ranganathan.",
+      "Acaster has been friends with Beckett and Ranganathan for over 10 years.",
+      "The BBC issued a statement calling claims of teasing and complaints categorically untrue.",
+      "Alan Carr won the first season of The Celebrity Traitors on the BBC."
+    ],
+    "entities": {
+      "people": [
+        "James Acaster",
+        "Rob Beckett",
+        "Romesh Ranganathan",
+        "Alan Carr",
+        "Jerry Hall"
+      ],
+      "titles": [
+        "The Celebrity Traitors",
+        "Ghostbusters: Frozen Empire",
+        "Life's A Beach Podcast"
+      ]
+    },
+    "keywords": [
+      "James Acaster The Celebrity Traitors",
+      "Rob Beckett Romesh Ranganathan",
+      "Alan Carr Lifes A Beach Podcast",
+      "The Mail on Sunday complaint report"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/75a63f3c9b0f-james-acaster-celebrity-traitors-copy.jpg?w=1024",
+        "caption": "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 09:13:16 +0000"
   }
 };
