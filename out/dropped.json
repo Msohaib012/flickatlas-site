@@ -1,89 +1,825 @@
 [
  {
-  "source": "Showbiz Daily (Blogspot)",
-  "title": "Bano and Shehryar Relationship Explained: Murtaza, Mehrunisa and the Love Square",
-  "url": "https://showbiz-daily.blogspot.com/2026/11/bano-and-shehryar-relationship.html",
-  "published": "2026-11-02T20:24:51.962-08:00",
-  "via": "rss",
+  "source": "Filmfare",
+  "title": "",
+  "url": "https://www.filmfare.com/",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "news",
+  "url": "https://www.filmfare.com/news",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "photos",
+  "url": "https://www.filmfare.com/photos",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "magazine",
+  "url": "https://www.filmfare.com/magazine",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "videos",
+  "url": "https://www.filmfare.com/videos",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "interviews",
+  "url": "https://www.filmfare.com/interviews",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "what to watch",
+  "url": "https://www.filmfare.com/what-to-watch",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "celeb lifestyle and fashion",
+  "url": "https://www.filmfare.com/celeb-lifestyle-and-fashion",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "nostalgia",
+  "url": "https://www.filmfare.com/nostalgia",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "reviews",
+  "url": "https://www.filmfare.com/reviews",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "features",
+  "url": "https://www.filmfare.com/features",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "south",
+  "url": "https://www.filmfare.com/news/south",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "korean",
+  "url": "https://www.filmfare.com/news/korean",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "april 2020",
+  "url": "https://www.filmfare.com/magazine/april-2020",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "may 2020",
+  "url": "https://www.filmfare.com/magazine/may-2020",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "june 2020",
+  "url": "https://www.filmfare.com/magazine/june-2020",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "july 2020",
+  "url": "https://www.filmfare.com/magazine/july-2020",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "august 2020",
+  "url": "https://www.filmfare.com/magazine/august-2020",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "september 2020",
+  "url": "https://www.filmfare.com/magazine/september-2020",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "beauty",
+  "url": "https://www.filmfare.com/celeb-lifestyle-and-fashion/beauty",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "fashion",
+  "url": "https://www.filmfare.com/celeb-lifestyle-and-fashion/fashion",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "finance and technology",
+  "url": "https://www.filmfare.com/celeb-lifestyle-and-fashion/finance-and-technology",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "fitness",
+  "url": "https://www.filmfare.com/celeb-lifestyle-and-fashion/fitness",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "food",
+  "url": "https://www.filmfare.com/celeb-lifestyle-and-fashion/food",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Filmfare",
+  "title": "famously filmfare",
+  "url": "https://www.filmfare.com/famously-filmfare",
+  "published": "2026-11-03T12:01:01+05:30",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "",
+  "url": "https://www.mid-day.com/",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "news",
+  "url": "https://www.mid-day.com/news",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "fashion",
+  "url": "https://www.mid-day.com/lifestyle/fashion",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "food",
+  "url": "https://www.mid-day.com/lifestyle/food",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/mumbai/mumbai-news/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/mumbai/mumbai-news/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/mumbai/mumbai-crime-news/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/mumbai/mumbai-crime-news/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/sports/cricket/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/sports/cricket/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/entertainment/bollywood-news/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/entertainment/bollywood-news/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/lifestyle/health-and-fitness/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/lifestyle/health-and-fitness/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/mumbai/politics-news/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/mumbai/politics-news/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "photos",
+  "url": "https://www.mid-day.com/entertainment/hollywood-news/photos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Mid-Day — Entertainment",
+  "title": "videos",
+  "url": "https://www.mid-day.com/entertainment/hollywood-news/videos",
+  "published": "2026-06-01T11:18:45+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Times Now — Entertainment",
+  "title": "us news",
+  "url": "https://www.timesnownews.com/world/us/us-news",
+  "published": "",
+  "via": "hash-diff",
+  "reason": "slug-junk"
+ },
+ {
+  "source": "Vulture",
+  "title": "olivia rodrigo is releasing christmas music.html",
+  "url": "https://www.vulture.com/article/olivia-rodrigo-is-releasing-christmas-music.html",
+  "published": "2026-11-02T23:47:04.555Z",
+  "via": "sitemap",
   "reason": "not-today"
  },
  {
-  "source": "Interesting Engineering",
-  "title": "World’s first 800V DC power system for data centers kicks off operations in China",
-  "url": "https://interestingengineering.com/energy/worlds-first-800v-dc-power-system",
-  "published": "Tue, 03 Nov 2026 05:06:55 +0000",
-  "via": "rss",
-  "reason": "fallback-blocked-non-entertainment"
+  "source": "Vulture",
+  "title": "harry styles broadway musical.html",
+  "url": "https://www.vulture.com/article/harry-styles-broadway-musical.html",
+  "published": "2026-11-02T22:50:50.021Z",
+  "via": "sitemap",
+  "reason": "not-today"
  },
  {
-  "source": "Interesting Engineering",
-  "title": "US rival tests powerful cluster warhead for cruise missiles with 6-hectare kill zone",
-  "url": "https://interestingengineering.com/military/us-rival-cruise-missile-dispersal-warhead-test",
-  "published": "Tue, 03 Nov 2026 03:59:06 +0000",
-  "via": "rss",
-  "reason": "fallback-blocked-non-entertainment"
+  "source": "Vulture",
+  "title": "adam brody endorses democrat abdul el sayed for senate.html",
+  "url": "https://www.vulture.com/article/adam-brody-endorses-democrat-abdul-el-sayed-for-senate.html",
+  "published": "2026-11-02T22:43:51.663Z",
+  "via": "sitemap",
+  "reason": "not-today"
  },
  {
-  "source": "New Atlas",
-  "title": "This AR motorcycle helmet could make your GPS obsolete",
-  "url": "https://newatlas.com/motorcycles/aegis-rider-ar-helmet/",
-  "published": "Tue, 03 Nov 2026 04:03:00 GMT",
+  "source": "Vulture",
+  "title": "debbie subwaytakes episode.html",
+  "url": "https://www.vulture.com/article/debbie-subwaytakes-episode.html",
+  "published": "2026-11-02T21:28:38.715Z",
+  "via": "sitemap",
+  "reason": "not-today"
+ },
+ {
+  "source": "Vulture",
+  "title": "sofia franklyn memoir daddy issues alex cooper matt kaplan phone call.html",
+  "url": "https://www.vulture.com/article/sofia-franklyn-memoir-daddy-issues-alex-cooper-matt-kaplan-phone-call.html",
+  "published": "2026-11-02T21:00:00.000Z",
+  "via": "sitemap",
+  "reason": "not-today"
+ },
+ {
+  "source": "Vulture",
+  "title": "druski netflix collect and praise deal.html",
+  "url": "https://www.vulture.com/article/druski-netflix-collect-and-praise-deal.html",
+  "published": "2026-11-02T19:58:01.126Z",
+  "via": "sitemap",
+  "reason": "not-today"
+ },
+ {
+  "source": "Vulture",
+  "title": "mariah careys its time video 2026.html",
+  "url": "https://www.vulture.com/article/mariah-careys-its-time-video-2026.html",
+  "published": "2026-11-02T18:28:29.174Z",
+  "via": "sitemap",
+  "reason": "not-today"
+ },
+ {
+  "source": "Vulture",
+  "title": "kelley curran gilded age season 4 interview.html",
+  "url": "https://www.vulture.com/article/kelley-curran-gilded-age-season-4-interview.html",
+  "published": "2026-11-02T17:00:48.512Z",
+  "via": "sitemap",
+  "reason": "not-today"
+ },
+ {
+  "source": "JustWatch",
+  "title": "stick",
+  "url": "https://www.justwatch.com/us/tv-show/stick",
+  "published": "",
+  "via": "hash-diff",
+  "reason": "slug-junk"
+ },
+ {
+  "source": "Dramas.pk",
+  "title": "",
+  "url": "https://dramas.pk/",
+  "published": "2026-09-26T05:48:19+00:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "ARY Digital (official site)",
+  "title": "",
+  "url": "https://arydigital.tv/",
+  "published": "2026-10-22T15:08:30.863Z",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689481 imaan mazari hadi ali chattha granted bail in police altercation case",
+  "url": "https://www.geo.tv/latest/689481-imaan-mazari-hadi-ali-chattha-granted-bail-in-police-altercation-case",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689482 prince william takes over for king charles as firm prepares for bombshell",
+  "url": "https://www.geo.tv/latest/689482-prince-william-takes-over-for-king-charles-as-firm-prepares-for-bombshell",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689480 suns guard jordan goodwin leaves warriors game with right calf injury",
+  "url": "https://www.geo.tv/latest/689480-suns-guard-jordan-goodwin-leaves-warriors-game-with-right-calf-injury",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689473 brittany snow explains why she no longer regrets her divorce",
+  "url": "https://www.geo.tv/latest/689473-brittany-snow-explains-why-she-no-longer-regrets-her-divorce",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689479 buckingham palace shares update from king queen as sussexes make big move",
+  "url": "https://www.geo.tv/latest/689479-buckingham-palace-shares-update-from-king-queen-as-sussexes-make-big-move",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689474 us supreme court rejects trumps request to set aside california ballots",
+  "url": "https://www.geo.tv/latest/689474-us-supreme-court-rejects-trumps-request-to-set-aside-california-ballots",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689476 americans vote in midterms set to upend trump presidency",
+  "url": "https://www.geo.tv/latest/689476-americans-vote-in-midterms-set-to-upend-trump-presidency",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689475 prince harry meghan welcome major life change in uk amid tough phase",
+  "url": "https://www.geo.tv/latest/689475-prince-harry-meghan-welcome-major-life-change-in-uk-amid-tough-phase",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689471 matt damon with daughter isabella share funny moment at cfda awards",
+  "url": "https://www.geo.tv/latest/689471-matt-damon-with-daughter-isabella-share-funny-moment-at-cfda-awards",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689460 king charles and queen camilla reunite with students who brought new pavilion to life",
+  "url": "https://www.geo.tv/latest/689460-king-charles-and-queen-camilla-reunite-with-students-who-brought-new-pavilion-to-life",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689469 putting virtual assets to work",
+  "url": "https://www.geo.tv/latest/689469-putting-virtual-assets-to-work",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689470 candice swanepoel reveals where things stand with tom brady",
+  "url": "https://www.geo.tv/latest/689470-candice-swanepoel-reveals-where-things-stand-with-tom-brady",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689468 johnny depp reveals what it would take to bring him back as jack sparrow",
+  "url": "https://www.geo.tv/latest/689468-johnny-depp-reveals-what-it-would-take-to-bring-him-back-as-jack-sparrow",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689467 neve campbell confirms return in scream 8",
+  "url": "https://www.geo.tv/latest/689467-neve-campbell-confirms-return-in-scream-8",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689402 r",
+  "url": "https://www.geo.tv/latest/689402-r",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689465 ellen degeneres emotional after sudden death of producer matthew wright",
+  "url": "https://www.geo.tv/latest/689465-ellen-degeneres-emotional-after-sudden-death-of-producer-matthew-wright",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689464 mckenna grace reveals one thing she wont do on screen",
+  "url": "https://www.geo.tv/latest/689464-mckenna-grace-reveals-one-thing-she-wont-do-on-screen",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689461 duchess sophie reveals queen elizabeths delight over powerful commonwealth legacy",
+  "url": "https://www.geo.tv/latest/689461-duchess-sophie-reveals-queen-elizabeths-delight-over-powerful-commonwealth-legacy",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689462 lake bell rashid johnson go red carpet official at 2026 cfda awards",
+  "url": "https://www.geo.tv/latest/689462-lake-bell-rashid-johnson-go-red-carpet-official-at-2026-cfda-awards",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689404 king charles reveals his softer side in new video from garden visit",
+  "url": "https://www.geo.tv/latest/689404-king-charles-reveals-his-softer-side-in-new-video-from-garden-visit",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689459 us to mediate trilateral talks with ukraine russia in abu dhabi next week us envoy says",
+  "url": "https://www.geo.tv/latest/689459-us-to-mediate-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-week-us-envoy-says",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689457 trumps low approval rating puts republicans on defensive ahead of midterms",
+  "url": "https://www.geo.tv/latest/689457-trumps-low-approval-rating-puts-republicans-on-defensive-ahead-of-midterms",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689449 ben wang reportedly circling major role in marvels x men reboot",
+  "url": "https://www.geo.tv/latest/689449-ben-wang-reportedly-circling-major-role-in-marvels-x-men-reboot",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689456 cyberattacks leave supermarket freezers warm and food stocks destroyed across europe",
+  "url": "https://www.geo.tv/latest/689456-cyberattacks-leave-supermarket-freezers-warm-and-food-stocks-destroyed-across-europe",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689450 what happened at boca ciega high school everything to know",
+  "url": "https://www.geo.tv/latest/689450-what-happened-at-boca-ciega-high-school-everything-to-know",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689446 dustin hoffman the graduate",
+  "url": "https://www.geo.tv/latest/689446-dustin-hoffman-the-graduate",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689447 pakistan literature festival brings writers poets intellectuals from three countries to houston",
+  "url": "https://www.geo.tv/latest/689447-pakistan-literature-festival-brings-writers-poets-intellectuals-from-three-countries-to-houston",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689443 ariana grande shares glimpse into life with ricky alvarez amid break",
+  "url": "https://www.geo.tv/latest/689443-ariana-grande-shares-glimpse-into-life-with-ricky-alvarez-amid-break",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689444 who was nathalia filgueiras everything to know about 20 year old learjet60 copilot killed in florida",
+  "url": "https://www.geo.tv/latest/689444-who-was-nathalia-filgueiras-everything-to-know-about-20-year-old-learjet60-copilot-killed-in-florida",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689439 vivienne jolie pitt legally drops pitt from her last name",
+  "url": "https://www.geo.tv/latest/689439-vivienne-jolie-pitt-legally-drops-pitt-from-her-last-name",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689440 scientists challenge long held theory about how life began on earth",
+  "url": "https://www.geo.tv/latest/689440-scientists-challenge-long-held-theory-about-how-life-began-on-earth",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689438 jessica alba rushes to delete halloween post after backlash over costume",
+  "url": "https://www.geo.tv/latest/689438-jessica-alba-rushes-to-delete-halloween-post-after-backlash-over-costume",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689434 four nasa volunteers see outside world after 378 days of living on mars",
+  "url": "https://www.geo.tv/latest/689434-four-nasa-volunteers-see-outside-world-after-378-days-of-living-on-mars",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689432 zayn malik transforms into jim carreys the mask character for halloween",
+  "url": "https://www.geo.tv/latest/689432-zayn-malik-transforms-into-jim-carreys-the-mask-character-for-halloween",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689433 man who left home at 29 returns at 57 after walking 31000 miles around world",
+  "url": "https://www.geo.tv/latest/689433-man-who-left-home-at-29-returns-at-57-after-walking-31000-miles-around-world",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689429 pakistani americans among candidates in us state elections",
+  "url": "https://www.geo.tv/latest/689429-pakistani-americans-among-candidates-in-us-state-elections",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689428 were going to crash learjet crews terrifying final 35 seconds captured on audio",
+  "url": "https://www.geo.tv/latest/689428-were-going-to-crash-learjet-crews-terrifying-final-35-seconds-captured-on-audio",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689425 wizz air flight from luton diverted to budapest after bomb threat see full details",
+  "url": "https://www.geo.tv/latest/689425-wizz-air-flight-from-luton-diverted-to-budapest-after-bomb-threat-see-full-details",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689427 nasa releases eerie space photos showing evil eye giant skull and sun with creepy smile to celebrate halloween",
+  "url": "https://www.geo.tv/latest/689427-nasa-releases-eerie-space-photos-showing-evil-eye-giant-skull-and-sun-with-creepy-smile-to-celebrate-halloween",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689415 big brother star rhianna breaks silence over omars toxic behaviour",
+  "url": "https://www.geo.tv/latest/689415-big-brother-star-rhianna-breaks-silence-over-omars-toxic-behaviour",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689420 king charles office shares first post after monarchs angry outburst",
+  "url": "https://www.geo.tv/latest/689420-king-charles-office-shares-first-post-after-monarchs-angry-outburst",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689426 binance clients pull 47bn after hack as crypto world studies fallout",
+  "url": "https://www.geo.tv/latest/689426-binance-clients-pull-47bn-after-hack-as-crypto-world-studies-fallout",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "GEO TV",
+  "title": "689421 uk to make some migrants wait 10 years to settle eases rules for carers",
+  "url": "https://www.geo.tv/latest/689421-uk-to-make-some-migrants-wait-10-years-to-settle-eases-rules-for-carers",
+  "published": "",
+  "via": "sitemap",
+  "reason": "no-date"
+ },
+ {
+  "source": "HELLO! Pakistan (H! Pakistan Magazine)",
+  "title": "",
+  "url": "https://www.hmagpak.com/",
+  "published": "2026-11-03T00:51:50+05:00",
+  "via": "sitemap",
+  "reason": "section-page"
+ },
+ {
+  "source": "Bored Panda",
+  "title": "40 Creepy Unexplained Experiences That Made People Question Everything They Thought They Knew",
+  "url": "https://www.boredpanda.com/scary-paranormal-things-experienced/",
+  "published": "Tue, 03 Nov 2026 06:02:09 +0000",
   "via": "rss",
   "reason": "fallback-blocked-non-entertainment"
  },
  {
   "source": "Bored Panda",
-  "title": "51 Funny And Entertaining Posts To Get Your Pop Culture News From",
-  "url": "https://www.boredpanda.com/amusing-pop-culture-memes/",
-  "published": "Tue, 03 Nov 2026 04:08:50 +0000",
+  "title": "52 Random And Hilarious Memes That Might Make You Question Your Sense Of Humor",
+  "url": "https://www.boredpanda.com/hilarious-random-meme-posts/",
+  "published": "Tue, 03 Nov 2026 06:00:41 +0000",
   "via": "rss",
   "reason": "fallback-blocked-non-entertainment"
  },
  {
   "source": "Bored Panda",
-  "title": "58 People Predict Which Gen Z Trends Will Be Cringe In A Decade, And Some Of Them Make A Good Point",
-  "url": "https://www.boredpanda.com/dumb-gen-z-trends-age-bad/",
-  "published": "Tue, 03 Nov 2026 04:05:01 +0000",
-  "via": "rss",
-  "reason": "fallback-blocked-non-entertainment"
- },
- {
-  "source": "Bored Panda",
-  "title": "80 Times People Learned Something So Fascinating They Had To Share It With Others (New Pics)",
-  "url": "https://www.boredpanda.com/today-i-learned-curiosity-facts/",
-  "published": "Tue, 03 Nov 2026 04:00:59 +0000",
+  "title": "43 People Reveal What The Smart Kid From Their Class Achieved In Life",
+  "url": "https://www.boredpanda.com/smartest-kids-school-outcomes/",
+  "published": "Tue, 03 Nov 2026 06:00:59 +0000",
   "via": "rss",
   "reason": "fallback-blocked-non-entertainment"
  },
  {
   "source": "Hindustan Times — Trending",
-  "title": "Humanoid robots join traffic police at China’s Hangzhou Marathon, detect violations and guide crowds",
-  "url": "https://www.hindustantimes.com/trending/humanoid-robots-join-traffic-police-at-china-s-hangzhou-marathon-detect-violations-and-guide-crowds-101793681843898.html",
-  "published": "Tue, 03 Nov 2026 10:41:37 +0530",
-  "via": "rss",
-  "reason": "fallback-blocked-non-entertainment"
- },
- {
-  "source": "Hindustan Times — Trending",
-  "title": "Scotsman caught with £14,000 cocaine and heroin, and a lamb named Pablo in car, avoids jail",
-  "url": "https://www.hindustantimes.com/trending/scotsman-caught-with-14-000-cocaine-and-heroin-and-a-lamb-named-pablo-in-car-avoids-jail-101793679304428.html",
-  "published": "Tue, 03 Nov 2026 09:51:50 +0530",
-  "via": "rss",
-  "reason": "fallback-blocked-non-entertainment"
- },
- {
-  "source": "Hindustan Times — Trending",
-  "title": "Billionaire CEO works in modest office while interns enjoy stunning Central Park views at Manhattan headquarters",
-  "url": "https://www.hindustantimes.com/trending/us/billionaire-ceo-works-in-modest-office-while-interns-enjoy-stunning-central-park-views-at-his-manhattan-firm-101793677824944.html",
-  "published": "Tue, 03 Nov 2026 09:48:00 +0530",
-  "via": "rss",
-  "reason": "fallback-blocked-non-entertainment"
- },
- {
-  "source": "LADbible",
-  "title": "Who were the victims inside the doomed Learjet when the aircraft crashed into the ground killing all nine people?",
-  "url": "https://www.ladbible.com/news/us-news/who-were-the-victims-inside-learjet-crashed-killing-nine-people-102063-20261103",
-  "published": "2026-11-03T04:29:21.029Z",
+  "title": "Know Your Neighbourhood: The pirate connection behind the name of Mumbai’s posh Malabar Hill",
+  "url": "https://www.hindustantimes.com/trending/know-your-neighbourhood-the-pirate-connection-behind-the-name-of-mumbai-s-posh-malabar-hill-101793685969081.html",
+  "published": "Tue, 03 Nov 2026 11:41:04 +0530",
   "via": "rss",
   "reason": "fallback-blocked-non-entertainment"
  }

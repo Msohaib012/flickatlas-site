@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-03T05:58:43Z",
+  "generated": "2026-11-03T06:56:27Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 9,
-    "pageviews": 15,
-    "sessions": 9,
-    "avg_session_seconds": 110.0
+    "users": 10,
+    "pageviews": 29,
+    "sessions": 11,
+    "avg_session_seconds": 113.3
   },
   "last7": {
     "users": 159,
-    "pageviews": 742,
-    "sessions": 242,
-    "avg_session_seconds": 230.2
+    "pageviews": 756,
+    "sessions": 244,
+    "avg_session_seconds": 229.4
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 122,
-      "avg_time_seconds": 260.8
+      "views": 123,
+      "avg_time_seconds": 251.7
     },
     {
       "path": "/movie",
@@ -44,8 +44,14 @@
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 71.3
+      "views": 15,
+      "avg_time_seconds": 66.0
+    },
+    {
+      "path": "/ott",
+      "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
+      "views": 15,
+      "avg_time_seconds": 59.5
     },
     {
       "path": "/movie",
@@ -54,22 +60,16 @@
       "avg_time_seconds": 20.9
     },
     {
+      "path": "/box-office",
+      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 56.5
+    },
+    {
       "path": "/news-item/",
       "title": "News Story | FlickAtlas",
       "views": 10,
       "avg_time_seconds": 8.5
-    },
-    {
-      "path": "/ott",
-      "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 49.8
-    },
-    {
-      "path": "/box-office",
-      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 9,
-      "avg_time_seconds": 47.3
     },
     {
       "path": "/movie",
@@ -82,7 +82,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 149,
+      "sessions": 151,
       "users": 96
     },
     {

@@ -42987,5 +42987,366 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 04:22:47 +0000"
+  },
+  "7vqh7w": {
+    "id": "7vqh7w",
+    "type": "news",
+    "headline": "Shah Rukh Khan Celebrates 61st Birthday by Greeting Crowds Outside Mannat",
+    "dek": "Superstar Shah Rukh Khan celebrated his 61st birthday by stepping out to greet his admirers outside his Mumbai residence, Mannat, after releasing the first track from his upcoming film KING.",
+    "body": [
+      {
+        "h": "Birthday Celebrations at Mannat",
+        "p": [
+          "The Bollywood icon marked his 61st birthday by participating in a beloved tradition, appearing before the massive crowds gathered outside his Bandra residence, Mannat. Admirers travelled from distant places to catch a glimpse of the superstar on his special day.",
+          "The surrounding area was filled with immense energy as supporters erupted into cheers, whistles, and chants of appreciation, making the annual birthday gathering a memorable event for everyone present."
+        ]
+      },
+      {
+        "h": "A Shift in Timing for the Annual Tradition",
+        "p": [
+          "This year's birthday meet-and-greet featured a notable change from the actor's usual schedule. While Khan traditionally makes a midnight appearance outside his home, he chose to skip the customary midnight balcony greeting this time around.",
+          "Instead, the superstar stepped out to wave and connect with his supporters later in the evening, ensuring that the dedicated admirers waiting outside still received their anticipated moment with him."
+        ]
+      },
+      {
+        "h": "Iconic Poses and Gestures of Gratitude",
+        "p": [
+          "True to form, the actor delighted the gathered throng by recreating his signature arms-wide-open pose, a gesture that immediately sent the crowd into a frenzy of excitement and delight.",
+          "In addition to his iconic pose, he waved, blew kisses, and folded his hands in a traditional pranam gesture to express his sincere gratitude for the overwhelming love and birthday wishes."
+        ]
+      },
+      {
+        "h": "Casual Style and Fan Interaction",
+        "p": [
+          "For the evening appearance, the birthday boy kept his outfit casual yet stylish, wearing a simple white t-shirt paired with washed-out grey denim jeans.",
+          "He completed his relaxed look with a beanie and dark lens glasses while taking in the lively atmosphere and acknowledging the passionate supporters shouting expressions of love."
+        ]
+      },
+      {
+        "h": "Special Visuals and Handwritten Messages",
+        "p": [
+          "The residence received a special thematic makeover for the occasion, featuring larger-than-life visuals and dialogues from the upcoming movie KING displayed on a giant screen outside the property.",
+          "The outdoor display also featured a personal, handwritten note from the actor expressing his appreciation to the public for their continuous wishes and love, while sending his warm regards right back."
+        ]
+      },
+      {
+        "h": "A Musical Treat to Mark the Occasion",
+        "p": [
+          "The birthday celebrations began even earlier with a major treat for cinema enthusiasts, as the first song from his highly anticipated project KING was released around midnight.",
+          "Titled Tu Mil Jaaye, the romantic track features the superstar alongside Deepika Padukone, creating massive excitement and drawing rave reviews from listeners across social media platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan celebrated his 61st birthday by greeting crowds outside his Mumbai residence, Mannat, after releasing the first song, Tu Mil Jaaye, from his upcoming film KING. Eschewing his usual midnight appearance for an evening greeting, the actor thanked his supporters with his signature poses, a pranam gesture, and a special outdoor display featuring a handwritten note of gratitude."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan turned 61 years old.",
+      "The first song of KING, titled Tu Mil Jaaye, was released around midnight.",
+      "Shah Rukh Khan greeted fans from his Mumbai residence, Mannat, in Bandra.",
+      "The residence featured a giant screen displaying visuals and dialogues from KING along with a handwritten message from SRK."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Deepika Padukone"
+      ],
+      "titles": [
+        "KING",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan birthday Mannat",
+      "KING film Tu Mil Jaaye",
+      "Shah Rukh Khan 61st birthday",
+      "Shah Rukh Khan Deepika Padukone"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/10/KING-Shah-Rukh-Khan-Greets-Fans-Outside-Mannat-On-61st-Birthday.webp",
+        "caption": "Shah Rukh Khan Celebrates 61st Birthday by Greeting Crowds Outside Mannat",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 05:19:59 +0000"
+  },
+  "184nfjv": {
+    "id": "184nfjv",
+    "type": "news",
+    "headline": "TWICE Member Nayeon Announces Solo Comeback with NA-STY and Title Track Baby Angel",
+    "dek": "TWICE star Nayeon is preparing for her solo return after two years and five months with the upcoming release of NA-STY and its main single Baby Angel.",
+    "body": [
+      {
+        "h": "The Solo Return",
+        "p": [
+          "The K-pop landscape is buzzing as the talented vocalist Nayeon from the globally renowned girl group TWICE officially prepares to step back into the solo spotlight. Fans have eagerly awaited fresh material from the artist, and the announcement of her upcoming project has instantly electrified social media channels and fan communities worldwide.",
+          "This upcoming venture marks a major milestone in her career as she takes center stage independently once again, showcasing her distinct artistic growth and vocal prowess outside of group activities."
+        ]
+      },
+      {
+        "h": "Unveiling NA-STY",
+        "p": [
+          "The new solo project has been officially titled NA-STY, capturing a bold and intriguing aesthetic that has already begun to generate massive curiosity. With this upcoming release, the singer aims to present a fresh musical direction and visual concept that sets her apart from her previous work.",
+          "Listeners can expect high production values, catchy hooks, and memorable choreography that will undoubtedly define the upcoming musical season."
+        ]
+      },
+      {
+        "h": "Baby Angel as the Title Track",
+        "p": [
+          "At the core of the upcoming release is the newly unveiled lead single, titled Baby Angel. This track has been chosen to spearhead the promotional campaign and will serve as the primary window into the sonic universe of the project.",
+          "Anticipation is exceptionally high for the music video and promotional performances associated with the song, as the performer is well known for her charismatic stage presence and dynamic delivery."
+        ]
+      },
+      {
+        "h": "A Long-Awaited Timeline",
+        "p": [
+          "This upcoming release holds immense significance for supporters because it represents her first solo comeback in two years and five months. The extended hiatus between solo projects has only heightened the excitement surrounding every new detail revealed through the promotional scheduler.",
+          "The newly dropped scheduler outlines a comprehensive rollout of teasers, concept photos, and preview clips leading up to the official drop date."
+        ]
+      },
+      {
+        "h": "Navigating the Scheduler",
+        "p": [
+          "The recently published scheduler provides a structured roadmap for the upcoming weeks, detailing exactly when fans can expect various promotional drops. Every update brings supporters one step closer to the full unveiling of the record.",
+          "As each phase of the timeline unfolds, public interest continues to surge, cementing her status as a powerhouse solo artist within the global music scene."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "TWICE member Nayeon has announced her upcoming solo comeback with the project NA-STY and its lead single Baby Angel. This marks her first solo return in two years and five months, supported by a newly revealed promotional scheduler."
+        ]
+      }
+    ],
+    "facts": [
+      "Nayeon is a member of the group TWICE.",
+      "The new solo project is titled NA-STY.",
+      "The title track for the project is Baby Angel.",
+      "This is her first solo comeback in two years and five months."
+    ],
+    "entities": {
+      "people": [
+        "Nayeon"
+      ],
+      "titles": [
+        "NA-STY",
+        "Baby Angel",
+        "TWICE"
+      ]
+    },
+    "keywords": [
+      "Nayeon solo comeback",
+      "TWICE Nayeon NA-STY",
+      "Baby Angel title track",
+      "Nayeon NA-STY scheduler"
+    ],
+    "images": [],
+    "published": "Tue, 03 Nov 2026 05:40:00 EST"
+  },
+  "5o9vmi": {
+    "id": "5o9vmi",
+    "type": "news",
+    "headline": "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
+    "dek": "Explore the exciting lineup of new Malayalam, Tamil, and Telugu films arriving on major streaming platforms like Amazon Prime Video, Netflix, JioHotstar, SonyLIV, ZEE5, Sun NXT, and ETV Win this week.",
+    "body": [
+      {
+        "h": "Overview Of The Weekly OTT Lineup",
+        "p": [
+          "South Indian cinema enthusiasts have an engaging roster of digital premieres to anticipate between November 3 and November 9. Several much-awaited films spanning multiple languages and genres are making their way to prominent streaming services.",
+          "Platforms including Amazon Prime Video, Netflix, JioHotstar, Sun NXT, ZEE5, SonyLIV, and ETV Win are hosting these diverse cinematic additions, giving audiences plenty of fresh stories to watch at home."
+        ]
+      },
+      {
+        "h": "Meesaya Murukku 2 On SonyLIV",
+        "p": [
+          "Hiphop Tamizha Adhi returns as the protagonist in Meesaya Murukku 2, serving as the follow-up to his 2017 musical comedy. The narrative centres on an aspiring musician named Jeeva whose romance with Laila runs into obstacles when a powerful film producer's son takes an interest in her.",
+          "Alongside rising tensions in his relationship, Jeeva also uncovers a forgotten chapter regarding his family's musical legacy. Adhi takes on multiple roles in this project, portraying characters across different generations, with a scheduled streaming debut on SonyLIV on November 6."
+        ]
+      },
+      {
+        "h": "Nooru Kodi Vaanavil On ZEE5",
+        "p": [
+          "Starring Harish Kalyan and Siddhi Idnani, Nooru Kodi Vaanavil is a Tamil romantic drama directed by Sasi. Following a prolonged wait, the production is set to make its digital debut directly without a prior theatrical release.",
+          "The plot follows a young couple whose bond faces severe tests due to contrasting family backgrounds and expectations, exploring the various compromises and challenges they navigate to stay together. The title premieres on ZEE5 on November 6."
+        ]
+      },
+      {
+        "h": "I'm Game On JioHotstar",
+        "p": [
+          "Dulquer Salmaan takes the lead in I'm Game, an action thriller directed by Nahas Hidhayath. The actor portrays a gambler whose strong belief in luck continually pulls him into chaotic situations, turning the stakes into much more than mere money as consequences pile up.",
+          "The extensive supporting cast features Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Kathir, Vinay Forrt, and Parth Tiwari. The action thriller will be available for streaming on JioHotstar starting November 6."
+        ]
+      },
+      {
+        "h": "Anakapalli On Sun NXT",
+        "p": [
+          "Directed by Khagesh Tammineni, Anakapalli is a Telugu romantic drama that pairs Vikram Sahidev with Sandhya Vasishta. Set against the rural backdrop of Andhra Pradesh, the film showcases a love story unfolding amid traditional village rhythms.",
+          "Peace in their relationship and the quiet setting gets disrupted following the entry of a character played by Tarak Ponnappa. The Telugu feature arrives on Sun NXT on November 3."
+        ]
+      },
+      {
+        "h": "Balu Geetha On ETV Win",
+        "p": [
+          "Balu Geetha is a Telugu romantic comedy-drama directed by Pratap Kollareddy, featuring Sandeep Saroj and Keyuri Shah in the lead roles alongside supporting performances from Krishnudu and Rithvik.",
+          "The plot chronicles two young individuals who cross paths while on a search for suitable life partners, setting the foundation for a relationship that forms the emotional core of the project. This romantic comedy-drama premieres on ETV Win on November 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "South Indian cinema brings multiple new films to various streaming platforms for the week of November 3 to 9, offering a diverse array of romantic dramas, musical comedies, and action thrillers.",
+          "Viewers can catch titles like Meesaya Murukku 2, Nooru Kodi Vaanavil, I'm Game, Anakapalli, and Balu Geetha across platforms such as SonyLIV, ZEE5, JioHotstar, Sun NXT, and ETV Win."
+        ]
+      }
+    ],
+    "facts": [
+      "The OTT releases span the week of November 3 to 9.",
+      "Meesaya Murukku 2 releases on SonyLIV on November 6.",
+      "Nooru Kodi Vaanavil releases on ZEE5 on November 6.",
+      "I'm Game releases on JioHotstar on November 6.",
+      "Anakapalli releases on Sun NXT on November 3.",
+      "Balu Geetha releases on ETV Win on November 5."
+    ],
+    "entities": {
+      "people": [
+        "Raisa Nasreen",
+        "Hiphop Tamizha Adhi",
+        "Harish Kalyan",
+        "Siddhi Idnani",
+        "Sasi",
+        "Dulquer Salmaan",
+        "Nahas Hidhayath",
+        "Kayadu Lohar",
+        "Mysskin",
+        "Antony Varghese",
+        "Samyuktha Viswanathan",
+        "Kathir",
+        "Vinay Forrt",
+        "Parth Tiwari",
+        "Khagesh Tammineni",
+        "Vikram Sahidev",
+        "Sandhya Vasishta",
+        "Tarak Ponnappa",
+        "Pratap Kollareddy",
+        "Sandeep Saroj",
+        "Keyuri Shah",
+        "Krishnudu",
+        "Rithvik"
+      ],
+      "titles": [
+        "Meesaya Murukku 2",
+        "Nooru Kodi Vaanavil",
+        "I'm Game",
+        "Anakapalli",
+        "Balu Geetha"
+      ]
+    },
+    "keywords": [
+      "Meesaya Murukku 2 OTT",
+      "I'm Game Dulquer Salmaan",
+      "Nooru Kodi Vaanavil release",
+      "Anakapalli movie Sun NXT",
+      "Balu Geetha ETV Win"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156455846,thumbsize-602660,width-1280,height-720,resizemode-75/156455846.jpg",
+        "caption": "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T06:53:54Z"
+  },
+  "jli46i": {
+    "id": "jli46i",
+    "type": "news",
+    "headline": "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India",
+    "dek": "Everything you need to know about the premiere of Love In Disguise Episode 6, including the Amazon Prime Video schedule in India, cast details, plot developments, and streaming information.",
+    "body": [
+      {
+        "h": "Introduction To The Episode Premiere",
+        "p": [
+          "Followers of South Korean television are eagerly anticipating the next installment of the hit romantic series. Episode 6 is scheduled to premiere today, bringing fresh developments to the unfolding romance.",
+          "With character dynamics continuously shifting, audiences are looking forward to the new twists and turns introduced in this latest chapter."
+        ]
+      },
+      {
+        "h": "Plot And Storyline Overview",
+        "p": [
+          "The overarching narrative combines elements of a gripping murder investigation, covert operations, and unexpected romantic entanglements. It is adapted from the Kakao web novel Why You Don't Know It's a Girl? written by Lee A-yeon and Ryu Do-ha.",
+          "The plot centers around a corporate heir whose life is upended by a mysterious fatality among his staff, drawing the attention of law enforcement and setting the stage for a high-stakes cat-and-mouse dynamic."
+        ]
+      },
+      {
+        "h": "Starring Cast And Character Dynamics",
+        "p": [
+          "The show features Yim Si-wan in the role of Yoon Yi-jun, a meticulous executive and the perfectionist heir to Taegang Group. His world shifts dramatically when his personal secretary dies under suspicious circumstances.",
+          "Seol In-ah stars alongside him as Kang Jae-hee, a dedicated detective assigned to the case. Seeking an inside track, she assumes a false identity as a male executive secretary and bodyguard to keep close tabs on Yi-jun."
+        ]
+      },
+      {
+        "h": "Undercover Complications And Workplace Tension",
+        "p": [
+          "Jae-hee's undercover assignment requires her to navigate tricky workplace environments while concealing her true profession from the corporate heir. Managing daily office duties alongside her investigation creates numerous awkward and high-pressure moments.",
+          "As the two spend more time together, their professional boundaries blur, complicating her mission and heightening the emotional stakes of the unfolding mystery."
+        ]
+      },
+      {
+        "h": "Release Schedule And Total Episode Count",
+        "p": [
+          "The series follows a consistent release pattern, airing new installments every Monday and Tuesday. The entire season consists of 12 episodes, leading up to a dramatic conclusion later in the month.",
+          "The grand finale for the romantic drama is officially scheduled to premiere on November 24, keeping fans hooked on a tight bi-weekly broadcast schedule."
+        ]
+      },
+      {
+        "h": "Streaming Platform And Timing In India",
+        "p": [
+          "In South Korea, the episode broadcasts on tvN at 8:50 PM KST. International fans can tune in concurrently through major digital platforms.",
+          "Indian viewers can stream the latest episode on Amazon Prime Video starting at 5:20 PM IST on the same day, ensuring minimal delay for local audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 6 of the Korean drama Love In Disguise releases today, continuing the story of an undercover detective and a corporate heir. Indian fans can catch the episode on Amazon Prime Video starting at 5:20 PM IST."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 6 of Love In Disguise releases on November 3.",
+      "The series has 12 episodes in total, ending on November 24.",
+      "Yim Si-wan plays Yoon Yi-jun, and Seol In-ah plays Kang Jae-hee.",
+      "Indian viewers can watch the episode on Amazon Prime Video at 5:20 PM IST."
+    ],
+    "entities": {
+      "people": [
+        "Yim Si-wan",
+        "Seol In-ah",
+        "Lee A-yeon",
+        "Ryu Do-ha"
+      ],
+      "titles": [
+        "Love In Disguise",
+        "Why You Don't Know It's a Girl?"
+      ]
+    },
+    "keywords": [
+      "Love In Disguise Episode 6",
+      "Love In Disguise Prime Video India",
+      "Yim Si-wan Seol In-ah kdrama",
+      "Love In Disguise release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/loveindisguiseep2timed1-66281793688390.jpg",
+        "caption": "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 12:18:36 +0530"
   }
 };

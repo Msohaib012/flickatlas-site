@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T06:50:56Z",
-    "run_id": "41402468122",
-    "status": "success",
-    "checked": {
-     "candidates": 203,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Yeh Rishta Kya Kehlata Hai Written Update Nov 2: Barkha Goes Missing, Tanya Gets Blamed; Maira-Kabir Find Her",
-      "Shraddha Kapoor's Eetha Reportedly Bags 90 Crore Theatrical Deal Among Biggest for Female Led Films",
-      "Anirudh Ravichander to compose music for Ram Charan's film",
-      "Naslen gets emotional at 'Scene' event; praises Suriya's hard work",
-      "Amitabh Bachchan pays emotional tribute to Sanjay Gupta",
-      "Karthi reveals how Suriya and Jo's celebration affected other marriages",
-      "Composer Anirudh exits Shah Rukh Khan's King, Sachin-Jigar take over music duties",
-      "Too poor for tickets, SRK and his father once sat outside theatre and watched cars",
-      "These 7 Songs From the '60s Laid the Foundation for Alternative Rock",
-      "8 Years Later, Harlan Coben's First Netflix Miniseries Is Still His Best",
-      "NBC News Affiliate Anchor Reveals Why She Won’t Return After Maternity Leave",
-      "General Hospital Spoilers for What Happens This Week (November 2-6)",
-      "Resident Evil To Hit Massive Milestone & Take Down 2nd Biggest Horror Movie of 2026",
-      "Bold & Beautiful Spoilers Video Shows Sheila Lift Her Leg Kissing Deacon",
-      "Metal Gear Solid 6 Tease Leaves Gamers Seriously Conflicted",
-      "Xbox Game Pass Adds 5 New Games For November 2026",
-      "10 Anime You Can't Watch Just Once",
-      "Haley Stevens’ Unsettling CNN Interview Proves Why She’s Unfit for Public Office",
-      "Siddhant Chaturvedi, Alizeh, Jimmy Shergill’s 1990s British Punjabi Music Drama ‘Bolo Bolo Bolo,’ Directed by Vikas Bahl, Wraps U.K. Shoot (EXCLUSIVE)",
-      "Tokyo’s First Animated Competition Title ‘Magic Atlas’ Was Sun Xun’s ‘All-In Moment’"
-     ],
-     "updated": [],
-     "count": 200,
-     "detail": "203 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-02T07:51:39Z",
     "run_id": "41408890809",
     "status": "success",
@@ -936,30 +897,48 @@
      "detail": "323 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-02T06:52:17Z",
-    "run_id": "41402468122",
+    "run_at": "2026-11-03T06:52:23Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": {
-     "candidates": 6,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 356,
+     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
     },
     "changed": {
      "added": [
-      "Shraddha Kapoor's Eetha Lands Massive 90 Crore Distribution Deal Ahead of December Release",
-      "Ben Whishaw Confirms Departure from James Bond Franchise and Reflects on Q's Sexuality"
+      "EXCLUSIVE: Border 2 fame Medha Rana joins Ahan Shetty in Tinu Suresh Desai's Sanki",
+      "Love In Disguise Episode 6 Release Time Today: When & Where To Stream Ep 6? What To Expect From K-drama?",
+      "Saiyami Kher Takes Her Father On An Emotional Australian Getaway, Recreating Adventures He Introduced Her To",
+      "Aadarsha Kutumbam House No: 47 Box Office Day 4: Records 2nd-Lowest First Monday For Venkatesh Post-COVID, Shows A Huge 65% Drop",
+      "Clayface North America Box Office: Leaves Catwoman Behind, Sets Sights On Wonder Woman 2",
+      "chiranjeevi ram charan meet amit shah over misuse of ai and deepfakes 86945.html",
+      "shah rukh khans witty reply to salman khans birthday wish wins the internet 86946.html",
+      "Paris Jackson is demanding that her father’s estate pay alleged dues worth USD 600 million",
+      "Meghan Markle’s father admitted to Florida dementia care facility amid ongoing investigation",
+      "Suriya says 'The One' is not just his title but collective identity",
+      "Shah Rukh Khan's King earns  ₹665 crore in pre-release deals; would need to out-earn Jailer 2, Chhaava just to break even",
+      "In 2018, Bon Jovi bought a $10M Palm Beach home, demolished and rebuilt it; in 2020, he sold it for $19.85M and bought a $43M oceanfront estate",
+      "Jiyaa Shankar dispels breakup rumours as she shares romantic pictures with fiancé Kaaran Dhanak, says they are learning to grow together",
+      "Actor Ben Wang to feature in Marvel Studios' new 'X-Men' film",
+      "Aren't you Rama? Yash reveals son's dilemma over his Ravana role in Ramayana",
+      "‘KING’ Shah Rukh Khan Greets Fans Outside Mannat On 61st Birthday; Waves, Blows Kisses To Present SRKians- WATCH",
+      "24 years actress anushka sen bikini photos flaunts toned figure boldness fans says fire tmovh 2687093 2026 11 03",
+      "manoj tiwari and his wife surabhi diwali party posed with delhi cm rekha gupta ministers spotted tmovh 2687030 2026 11 03",
+      "sameera reddy goa bungalow inside photos coconut neem trees left mumbai acting 2 kids mother life changed tmovf 2686893 2026 11 03",
+      "ayushmann khurrana udta teer director aakash kaushik pakistan jai hind statement tmovj dskc 2686906 2026 11 03"
      ],
      "updated": [],
-     "count": 5,
-     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+     "count": 251,
+     "detail": "253 stories, 6 duplicates removed, 103 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1482,27 +1461,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-03T06:53:54Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan Celebrates 61st Birthday by Greeting Crowds Outside Mannat",
+      "TWICE Member Nayeon Announces Solo Comeback with NA-STY and Title Track Baby Angel",
+      "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
+      "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-02T08:05:11Z",
-    "run_id": "41410391369",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 182, coming 5"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1916,26 +1900,27 @@
      "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-02T06:54:06Z",
-    "run_id": "41402468122",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-03T06:53:54Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 187,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 183, coming 4"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2374,27 +2359,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T06:53:47Z",
-    "run_id": "41402468122",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-03T06:56:18Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": {
-     "candidates": 416,
-     "detail": "414 collected staging rows from readers; 128 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 10,
-     "detail": "+0 new rows, 10 updated rows, 404 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2808,19 +2792,27 @@
      "detail": "+0 new rows, 148 updated rows, 295 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T06:56:12Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": {
+     "candidates": 445,
+     "detail": "443 collected staging rows from readers; 171 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 432 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3075,30 +3067,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-02T06:54:05Z",
-    "run_id": "41402468122",
-    "status": "success",
-    "checked": {
-     "candidates": 376,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Shraddha Kapoor's Eetha Lands Massive 90 Crore Distribution Deal Ahead of December Release",
-      "Ben Whishaw Confirms Departure from James Bond Franchise and Reflects on Q's Sexuality"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 376 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3628,19 +3609,32 @@
      "detail": "api-news.json 469 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-03T06:56:18Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": {
+     "candidates": 473,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan Celebrates 61st Birthday by Greeting Crowds Outside Mannat",
+      "TWICE Member Nayeon Announces Solo Comeback with NA-STY and Title Track Baby Angel",
+      "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
+      "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 473 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3916,65 +3910,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T06:51:25Z",
-    "run_id": "41402468122",
-    "status": "success",
-    "checked": {
-     "candidates": 517,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 38,
-      "pk_movies": 19
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "Sur la piste du casoar (1814456)",
-      "Karateka (1365224)",
-      "A Folk Story (1814384)",
-      "The Sound of Malan Flowers Blooming (1811142)",
-      "Who's Coming for Christmas? (1773378)",
-      "Broken English Theater (1809947)",
-      "La toile (1796328)",
-      "Synchronicity (1809943)",
-      "This Solitude (1547311)",
-      "The Wedding Bangles (1809936)",
-      "Log 15 (1792914)",
-      "In the Name of the Father (1809932)",
-      "Christmas at the Kringles (939541)",
-      "The Innocence of Water (1809924)",
-      "Kudrat 1968: High Council (1731816)",
-      "A Pilgrimage of Dreams (1809921)",
-      "A Very Arctic Christmas (1664264)",
-      "Ethical Witchery (1808255)",
-      "The Mosquito Bowl (1458300)",
-      "Game Theory (1800425)"
-     ],
-     "updated": [],
-     "count": 20
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4249,29 +4197,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-02T06:52:17Z",
-    "run_id": "41402468122",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T06:52:48Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": {
-     "candidates": 2,
-     "detail": "news queue items drafted this run; 200 still unprocessed; today by category: movies 5/6, tv_dramas 1/4, episodes 0/2, box_office 4/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
+     "candidates": 516,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 37,
+      "pk_movies": 19
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Shraddha Kapoor's Eetha Lands Massive 90 Crore Distribution Deal Ahead of December Release",
-      "Ben Whishaw Confirms Departure from James Bond Franchise and Reflects on Q's Sexuality"
+      "Retour gagnant pour la cuisine d'antan (1815145)",
+      "Model Citizen (1792170)",
+      "Memento Amoris (1814871)",
+      "Un tranquillo funerale di famiglia (1678120)",
+      "Pianoman (1813767)",
+      "The Last Roman God (1552079)",
+      "Nosce te ipsum (1813722)",
+      "Selma (1803749)",
+      "A COLD SEASON (1813392)",
+      "Jonna: Crónicas de una policía novata (1578978)",
+      "Ways That I Have Died (1812555)",
+      "Ciudad de muertos (1487046)",
+      "Extra-Terrestrial Haunting (1812547)",
+      "Last Dinner (1561834)",
+      "Shapes and Sizes (1811085)",
+      "Breeder (1496696)",
+      "Come To Me (1810771)",
+      "Moulin (1437925)",
+      "Life 2.0 (1810754)",
+      "The Phantom of the Opera (1430841)"
      ],
      "updated": [],
-     "count": 2
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4771,19 +4755,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-03T06:53:54Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 251 still unprocessed; today by category: movies 6/6, tv_dramas 3/4, episodes 0/2, box_office 8/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 1/3, awards 0/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Shah Rukh Khan Celebrates 61st Birthday by Greeting Crowds Outside Mannat",
+      "TWICE Member Nayeon Announces Solo Comeback with NA-STY and Title Track Baby Angel",
+      "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
+      "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5133,24 +5129,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-03T06:54:48Z",
+    "run_id": "41592432212",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 32,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 207,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5495,24 +5493,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 361,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5847,24 +5845,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 60,
+     "count": 25,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6109,24 +6107,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 78,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6356,14 +6354,259 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T06:51:49Z",
-    "run_id": "41402468122",
+    "run_at": "2026-11-02T07:52:38Z",
+    "run_id": "41408890809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T08:23:41Z",
+    "run_id": "41410391369",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T09:49:51Z",
+    "run_id": "41421846023",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T11:00:23Z",
+    "run_id": "41432003550",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T11:57:43Z",
+    "run_id": "41439949556",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T13:04:09Z",
+    "run_id": "41447969012",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T14:37:50Z",
+    "run_id": "41456465679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T15:07:36Z",
+    "run_id": "41465783153",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T15:59:13Z",
+    "run_id": "41475549506",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T17:00:38Z",
+    "run_id": "41485392623",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T18:03:16Z",
+    "run_id": "41494932593",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T18:53:36Z",
+    "run_id": "41503369442",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T20:12:00Z",
+    "run_id": "41513673247",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T21:02:05Z",
+    "run_id": "41522876102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T22:36:20Z",
+    "run_id": "41531997406",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T23:00:08Z",
+    "run_id": "41540614909",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-02T23:58:34Z",
+    "run_id": "41548465009",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T00:57:38Z",
+    "run_id": "41555699502",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T02:28:45Z",
+    "run_id": "41561650467",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T03:02:43Z",
+    "run_id": "41568570269",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T03:52:39Z",
+    "run_id": "41574575809",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T04:54:57Z",
+    "run_id": "41580435179",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T05:58:43Z",
+    "run_id": "41586243067",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-03T06:53:18Z",
+    "run_id": "41592432212",
     "status": "success",
     "checked": {
      "candidates": 50,
@@ -6374,255 +6617,49 @@
     "changed": {
      "added": [],
      "updated": [
+      "King (1145110)",
+      "Dune: Part Three (1170608)",
       "Avengers: Doomsday (1003596)",
-      "Mi hermano Roberto (1814086)"
+      "Memoona and Sheralam (1652448)",
+      "Tsuri Komachi (1807529)",
+      "Smoking in the Desert (1806668)",
+      "Ghost Soldier (1562642)",
+      "Sur la piste du casoar (1814456)",
+      "Broken English Theater (1809947)",
+      "The Wedding Bangles (1809936)",
+      "In the Name of the Father (1809932)",
+      "The Innocence of Water (1809924)",
+      "A Pilgrimage of Dreams (1809921)",
+      "Ethical Witchery (1808255)",
+      "Stellar Romance (1796751)",
+      "Connection Lost (1794828)",
+      "Algo Más Para Decir (1793964)",
+      "Cecilia,  una luz de mañana (1784105)",
+      "Three Little Pigs (1782975)",
+      "Pickpockets (1775236)",
+      "Allowed to Birth: The Journey of a Global Midwife (1773656)",
+      "The Bully Club (1767217)",
+      "Larger Than Life (1814001)",
+      "CORRUPT (1813944)",
+      "Getting Rid of Grunt (1813038)",
+      "Weaving Our Wisdom (1812988)",
+      "Unboxing (1812553)",
+      "清气满乾坤 (1811193)",
+      "Roaming over the Horseback (1811168)",
+      "blood & soil (1810065)",
+      "One Night in June (1809842)",
+      "Night Watchman (1809838)",
+      "AKIAK (1809836)",
+      "Once Again: The Start of it All (1809833)",
+      "Covers (1809831)",
+      "Memory of a Sunset (1809676)"
      ],
-     "count": 2
+     "count": 36
     },
     "reason": null
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T07:52:38Z",
-    "run_id": "41408890809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T08:23:41Z",
-    "run_id": "41410391369",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T09:49:51Z",
-    "run_id": "41421846023",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T11:00:23Z",
-    "run_id": "41432003550",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T11:57:43Z",
-    "run_id": "41439949556",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T13:04:09Z",
-    "run_id": "41447969012",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T14:37:50Z",
-    "run_id": "41456465679",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T15:07:36Z",
-    "run_id": "41465783153",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T15:59:13Z",
-    "run_id": "41475549506",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T17:00:38Z",
-    "run_id": "41485392623",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T18:03:16Z",
-    "run_id": "41494932593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T18:53:36Z",
-    "run_id": "41503369442",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T20:12:00Z",
-    "run_id": "41513673247",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T21:02:05Z",
-    "run_id": "41522876102",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T22:36:20Z",
-    "run_id": "41531997406",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T23:00:08Z",
-    "run_id": "41540614909",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-02T23:58:34Z",
-    "run_id": "41548465009",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T00:57:38Z",
-    "run_id": "41555699502",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T02:28:45Z",
-    "run_id": "41561650467",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T03:02:43Z",
-    "run_id": "41568570269",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T03:52:39Z",
-    "run_id": "41574575809",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T04:54:57Z",
-    "run_id": "41580435179",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T05:58:43Z",
-    "run_id": "41586243067",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6863,19 +6900,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7105,19 +7142,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7366,6 +7403,16 @@
     "category": "Trending News",
     "run_at": "2026-11-03T05:58:43Z",
     "run_id": "41586243067",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7672,24 +7719,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "advance_booking": [
+   },
    {
-    "step": "advance_booking",
+    "step": "overseas_sweep",
     "category": "Box Office",
-    "run_at": "2026-11-02T06:54:17Z",
-    "run_id": "41402468122",
+    "run_at": "2026-11-03T06:53:54Z",
+    "run_id": "41592432212",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 329,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 0; attempt cooldown deferred: 329"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 155,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "advance_booking": [
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7924,6 +7973,21 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 192,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
@@ -8141,8 +8205,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-03T06:56:29Z",
+    "run_id": "41592432212",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7088,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-03T05:58:43Z"
+ "updated_at": "2026-11-03T06:56:29Z"
 }
