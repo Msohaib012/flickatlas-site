@@ -48429,5 +48429,415 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 18:30:00 +0000"
+  },
+  "8y2h7v": {
+    "id": "8y2h7v",
+    "type": "news",
+    "headline": "Punjabi Music Industry Gathers in Jalandhar to Bid Farewell to Yo Yo Honey Singh's Nephew Divit Aulakh",
+    "dek": "Prominent figures from the Punjabi entertainment community came together at the Model Town cremation ground to mourn the tragic passing of Dinesh Aulakh's son, Divit Aulakh, following a fatal road accident.",
+    "body": [
+      {
+        "h": "Final Rites Held in Jalandhar",
+        "p": [
+          "The final rites for Divit Aulakh, nephew of prominent musician Yo Yo Honey Singh and son of Speed Records owner Dinesh Aulakh, took place at the Model Town cremation ground in Jalandhar on Tuesday. A large gathering of mourners, well-wishers, and notable personalities from the Punjabi music and film industries assembled to offer their final respects to the young man.",
+          "Divit tragically lost his life in a road accident that occurred on Sunday in Jalandhar, Punjab. His grieving father, Dinesh Aulakh, performed the final rituals amidst an intensely emotional atmosphere that deeply moved the attendees."
+        ]
+      },
+      {
+        "h": "Music Fraternity Stands with the Family",
+        "p": [
+          "A heavy presence from the Punjabi entertainment world marked the solemn occasion. Renowned artists and singers including Gippy Grewal, Babbu Maan, Jazzy B, Amrit Maan, and Satinder Sartaaj stepped forward to personally shoulder the mortal remains.",
+          "Additional industry figures such as Preet Harpal and Ranjit Bawa were also in attendance to offer support. Yo Yo Honey Singh remained closely by the side of the bereaved family throughout the proceedings as they navigated the profound loss."
+        ]
+      },
+      {
+        "h": "Details of the Tragic Accident",
+        "p": [
+          "The fatal incident unfolded around 3:30 am on Sunday near Jalandhar, claiming the lives of both Divit Aulakh and his friend, Aarav Talwar. Technology played an unintended role in breaking the news when Divit's phone activated its crash detection feature.",
+          "An emergency alert containing their exact location was automatically dispatched to his mother's phone number, which was saved as an emergency contact. Family members discovered the reality of the crash after failing to reach Divit directly and subsequently contacting his friends."
+        ]
+      },
+      {
+        "h": "Gurpreet Ghuggi Raises Road Safety Concerns",
+        "p": [
+          "Addressing the media at the cremation ground, actor and comedian Gurpreet Ghuggi expressed deep anguish over the tragedy and the broader issue of highway safety. He emphasized that while condolences are common, only the affected family truly understands the weight of such an empty house.",
+          "Ghuggi sharply questioned the persistent loss of lives on regional roads, demanding urgent systemic reforms. He called for better road infrastructure, mandatory vehicle reflectors, stricter vehicle servicing standards, and greater educational outreach aimed at young drivers to curb ongoing tragedies."
+        ]
+      },
+      {
+        "h": "Political Figures Offer Condolences",
+        "p": [
+          "Local leaders also stepped forward to share their sympathies with the grieving family during this difficult time. BJP leader Sushil Rinku characterized the incident as an extremely unfortunate and heartbreaking loss beyond words.",
+          "Rinku extended his prayers for inner strength to Dinesh Aulakh and his wife, noting that finding solace from such profound grief would require seeking deep spiritual refuge."
+        ]
+      },
+      {
+        "h": "Honey Singh's Public Expression of Grief",
+        "p": [
+          "In the wake of the tragedy, Yo Yo Honey Singh took to social media to articulate his devastation. He shared a personal message describing the period as a dark decade marked by an irreplaceable familial loss.",
+          "The outpouring of support from fans and industry colleagues highlighted the close-knit nature of the Punjabi entertainment community during times of crisis."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Punjabi entertainment community gathered in Jalandhar for the funeral of Divit Aulakh, son of Dinesh Aulakh and nephew of Yo Yo Honey Singh, following his death in a road accident. Industry members and public figures paid their respects while raising concerns over road safety and offering condolences to the grieving family."
+        ]
+      }
+    ],
+    "facts": [
+      "Divit Aulakh died in a road accident on Sunday at around 3:30 am in Jalandhar, Punjab.",
+      "His funeral took place at the Model Town cremation ground in Jalandhar on Tuesday, November 3, 2026.",
+      "Aarav Talwar also died in the same accident.",
+      "Dinesh Aulakh is the owner of Speed Records and the father of Divit Aulakh.",
+      "Yo Yo Honey Singh is the uncle of Divit Aulakh.",
+      "Gurpreet Ghuggi, Gippy Grewal, Babbu Maan, Jazzy B, Amrit Maan, Satinder Sartaaj, Preet Harpal, Ranjit Bawa, and Sushil Rinku attended or commented on the event."
+    ],
+    "entities": {
+      "people": [
+        "Divit Aulakh",
+        "Yo Yo Honey Singh",
+        "Dinesh Aulakh",
+        "Gippy Grewal",
+        "Babbu Maan",
+        "Jazzy B",
+        "Gurpreet Ghuggi",
+        "Amrit Maan",
+        "Satinder Sartaaj",
+        "Preet Harpal",
+        "Ranjit Bawa",
+        "Aarav Talwar",
+        "Sushil Rinku"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Divit Aulakh funeral",
+      "Yo Yo Honey Singh nephew",
+      "Dinesh Aulakh son accident",
+      "Gurpreet Ghuggi road safety"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135509721,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Punjabi Music Industry Gathers in Jalandhar to Bid Farewell to Yo Yo Honey Singh's Nephew Divit Aulakh",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T23:32:46+05:30"
+  },
+  "empt93": {
+    "id": "empt93",
+    "type": "news",
+    "headline": "Siân Heder Returns With Disability Rights Drama Being Heumann",
+    "dek": "Following her Best Picture-winning CODA, director Siân Heder brings the historic disability rights movement to the screen at the Toronto International Film Festival.",
+    "body": [
+      {
+        "h": "Festival Premiere and Creative Vision",
+        "p": [
+          "Filmmaker Siân Heder presented her latest motion picture at the 51st Toronto International Film Festival, stepping back into the director's chair after her major success with CODA. The new historical drama highlights the American disability rights movement through a recognizable cinematic template designed for widespread appeal.",
+          "Drawing inspiration from the real-life struggles of activists, the production aims to engage mainstream viewers while exploring the systemic challenges faced by marginalized communities throughout the 1970s."
+        ]
+      },
+      {
+        "h": "Adapting Judy Heumann's Memoir",
+        "p": [
+          "The narrative originates from the published work titled Being Heumann: An Unrepentant Memoir of a Disability Rights Activist, co-written alongside Rebekah Taussig. The story focuses heavily on activist Judy Heumann, portrayed on screen by Ruth Madeley.",
+          "Set initially in 1972, the timeline tracks the long-standing push to enforce Section 504 of the Rehabilitation Act of 1973, highlighting years of governmental delays in securing fundamental civil rights protections for disabled individuals."
+        ]
+      },
+      {
+        "h": "The Historic Federal Sit-In",
+        "p": [
+          "A central element of the plot details a 28-day peaceful occupation of a U.S. Department of Health, Education, and Welfare office located in San Francisco. This event stands as the longest peaceful occupation of a federal building in American history.",
+          "Heumann orchestrated the strategic takeover by urging supporters to push their way inside, creating immense pressure on federal authorities to finally sign the long-delayed regulatory guidelines."
+        ]
+      },
+      {
+        "h": "Key Figures and Antagonism",
+        "p": [
+          "Mark Ruffalo takes on the role of United States Secretary of HEW Joseph Califano, who becomes the primary target of the protesters' persistent chants and telephone campaigns. Behind closed doors, Califano displays deep irritability regarding the logistics and expenses tied to accessibility measures.",
+          "Additional support within the narrative arrives via local journalist Evan White, played by Dylan O'Brien, who grows personally invested in chronicling the demonstration beyond a standard news assignment."
+        ]
+      },
+      {
+        "h": "Ensemble Dynamics and Period Texture",
+        "p": [
+          "The film features an ensemble cast of disabled actors whose camaraderie brings humor and humanity to the extended office occupation. Scenes incorporate lighter elements like a designated sex tent and period-appropriate needle drops including 'Passenger' and 'Take My Soul.'",
+          "Meanwhile, government officials attempt to clear the building using tactics such as starvation and subtle displays of force, testing the resilience of the activists living on the office floors."
+        ]
+      },
+      {
+        "h": "Tone, Grit, and Critique",
+        "p": [
+          "Critics note that while the movie highlights an extraordinary historical event, its narrative structure remains somewhat safe and conventional. Heder's approach relies heavily on a well-meaning, inspirational tone that occasionally smooths over the sharper, more complex layers of actual discrimination.",
+          "Despite earning an R-rating primarily due to strong language, the two-plus-hour runtime sometimes leans more toward an activist message than a fully gritty character study."
+        ]
+      },
+      {
+        "h": "Release Strategy and Upcoming Schedule",
+        "p": [
+          "Apple Original Films has scheduled a theatrical debut for the project on November 6, followed by a streaming release on Apple TV on November 13.",
+          "Audiences seeking inspirational historical dramas will soon have wide access to the film across both cinema screens and home viewing platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Siân Heder premiered her new film Being Heumann at the 51st Toronto International Film Festival, adapting the memoir of activist Judy Heumann. The narrative chronicles a historic 28-day federal building sit-in aimed at forcing the government to enact Section 504 of the Rehabilitation Act of 1973."
+        ]
+      }
+    ],
+    "facts": [
+      "Being Heumann world premiered at the 51st Toronto International Film Festival.",
+      "The film depicts a 28-day sit-in in a San Francisco-based U.S. Department of Health, Education, and Welfare office.",
+      "The protest was the longest peaceful occupation of a federal building in U.S. history.",
+      "The narrative is based on the book Being Heumann: An Unrepentant Memoir of a Disability Rights Activist.",
+      "Apple Original Films will release Being Heumann theatrically on November 6 and on Apple TV November 13."
+    ],
+    "entities": {
+      "people": [
+        "Siân Heder",
+        "Judy Heumann",
+        "Ruth Madeley",
+        "Rebekah Taussig",
+        "Jimmy Carter",
+        "Joseph Califano",
+        "Kitty Cone",
+        "Madeline Delp",
+        "Dylan O'Brien",
+        "Evan White",
+        "Trace Sauveur",
+        "Ryan McQuade",
+        "Erik Anderson",
+        "Jorge Tenreiro",
+        "Mark Johnson",
+        "John Malkovich",
+        "Sam Rockwell",
+        "Martin McDonagh",
+        "Daniel Pemberton"
+      ],
+      "titles": [
+        "Being Heumann",
+        "CODA",
+        "Being Heumann: An Unrepentant Memoir of a Disability Rights Activist",
+        "Street Fighter",
+        "Whalefall",
+        "Wild Horse Nine",
+        "The Cat In The Hat",
+        "Elsinore",
+        "Real Women Have Curves",
+        "Swoon",
+        "Better Tomorrow",
+        "Y tu mamá también",
+        "Ray Gunn",
+        "Tangles",
+        "I Play Rocky",
+        "Behemoth!",
+        "Fjord",
+        "The Debut",
+        "Gentle Monster"
+      ]
+    },
+    "keywords": [
+      "Being Heumann film",
+      "Siân Heder Being Heumann",
+      "Ruth Madeley Judy Heumann",
+      "Mark Ruffalo Joseph Califano"
+    ],
+    "images": [
+      {
+        "url": "https://i0.wp.com/awardswatch.com/wp-content/uploads/2026/11/Being_Heumann_Photo_0103-scaled.jpg?fit=1200%2C800&#038;ssl=1",
+        "caption": "Siân Heder Returns With Disability Rights Drama Being Heumann",
+        "source": "AwardsWatch"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:12:18 +0000"
+  },
+  "8qaobm": {
+    "id": "8qaobm",
+    "type": "news",
+    "headline": "Marvel and WWE Announce Major Crossover Event Ahead of Avengers: Doomsday",
+    "dek": "Marvel Studios and WWE have teamed up for a groundbreaking two-day takeover featuring special events, merchandise, and an immersive fan experience in Florida.",
+    "body": [
+      {
+        "h": "The Surprising Partnership",
+        "p": [
+          "Marvel Studios and World Wrestling Entertainment have joined forces for an unexpected and massive collaborative event. Designed to build excitement leading up to the premiere of the upcoming superhero blockbuster, this partnership brings together two entertainment giants. Organizers aim to blend cinematic storytelling with professional wrestling to deliver a memorable experience for enthusiasts of both franchises."
+        ]
+      },
+      {
+        "h": "Venue and Schedule",
+        "p": [
+          "The special takeover will occupy ESPN's Wide World of Sports Complex situated near Orlando, Florida. Scheduled to run across two days, the festivities take place on December 14 and December 15, 2026. This location will serve as the central hub for all the live programming and interactive fan activities."
+        ]
+      },
+      {
+        "h": "Featured Events and Live Broadcasts",
+        "p": [
+          "The collaboration introduces two major highlights: The John Cena Classic and a Marvel-themed Worlds Collide event. The John Cena Classic will stream live on Netflix on December 14 as a special edition of Monday Night Raw. Following that broadcast, the Avengers: Doomsday edition of Worlds Collide will launch on December 15, showcasing talent from WWE, NXT, and AAA."
+        ]
+      },
+      {
+        "h": "Immersive Fan Experiences",
+        "p": [
+          "In addition to the in-ring action, attendees can participate in WWE World, a two-day immersive fan convention produced in partnership with Fanatics. This attraction gives supporters the chance to secure autographs, take photographs, and purchase exclusive merchandise. Additional details regarding further fan experiences are slated for announcement later this month."
+        ]
+      },
+      {
+        "h": "Co-Branded Merchandise",
+        "p": [
+          "The partnership yields unique physical items for collectors and followers of both brands. Marvel and WWE are producing co-branded products, most notably custom title belts themed around the upcoming film. These specialty items will be available for purchase at WWE World, the official online WWE shop, and select Disney retail locations."
+        ]
+      },
+      {
+        "h": "Ticketing and Release Details",
+        "p": [
+          "Tickets for the Florida event become available to the general public on November 13, 2026, starting at 10 a.m. ET via Ticketmaster. Additionally, a general presale for combo tickets goes live a day prior on November 12, 2026, at 10 a.m. ET. Meanwhile, the film driving this entire collaboration arrives in cinemas shortly after on December 18, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel and WWE are partnering for a two-day crossover event at the ESPN Wide World of Sports Complex near Orlando, featuring The John Cena Classic and an Avengers: Doomsday themed Worlds Collide showcase. The December 2026 collaboration includes exclusive co-branded title belts, immersive fan activities with Fanatics, and ticket sales beginning in mid-November ahead of the movie's theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Marvel and WWE teamed up for a crossover ahead of Avengers: Doomsday",
+      "Avengers: Doomsday is directed by Joe and Anthony Russo",
+      "The event takes place at ESPN's Wide World of Sports Complex near Orlando, Florida",
+      "The dates for the event are December 14 and December 15, 2026",
+      "The John Cena Classic streams live on Netflix on December 14 as a special edition of Monday Night Raw",
+      "The Worlds Collide event takes place on December 15, 2026, featuring Superstars from WWE, NXT, and AAA",
+      "WWE World is a two-day immersive fan event produced with Fanatics",
+      "Co-branded products include title belts",
+      "General tickets go on sale November 13, 2026, at 10 a.m. ET via Ticketmaster",
+      "General presale for combo tickets goes live on November 12, 2026, at 10 a.m. ET",
+      "Avengers: Doomsday hits theaters on December 18, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Mintu Kumar Tomar",
+        "Joe Russo",
+        "Anthony Russo",
+        "John Cena",
+        "Kevin J. Anderson",
+        "Paul W.S. Anderson",
+        "Nicolas Cage",
+        "Robert Downey Jr.",
+        "Johnny Depp",
+        "Mckenna Grace"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Monday Night Raw",
+        "Home Alone",
+        "The Boys"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday WWE crossover",
+      "John Cena Classic Netflix",
+      "Worlds Collide event Orlando",
+      "WWE World Fanatics Fan Experience"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/7_6f26ce.jpg?resize=1200,630",
+        "caption": "Marvel and WWE Announce Major Crossover Event Ahead of Avengers: Doomsday",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 18:21:44 +0000"
+  },
+  "hwio55": {
+    "id": "hwio55",
+    "type": "news",
+    "headline": "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Following Koffee With Karan Backlash",
+    "dek": "Bulgarian actor Vladimir Angelove weighs in on the recent online criticism faced by Vijay Deverakonda and Rashmika Mandanna after their chat show appearance, praising their grounded off-screen demeanour during film production.",
+    "body": [
+      {
+        "h": "Chat Show Appearance Sparks Intense Online Debate",
+        "p": [
+          "Last month, the joint appearance of Vijay Deverakonda and Rashmika Mandanna on the popular television programme Koffee With Karan Season 9 generated immense discussion across digital platforms. During the broadcast, the couple discussed their journey from professional co-stars to romantic partners, alongside their perspectives on marriage. However, several remarks made during the episode drew sharp reactions from viewers.",
+          "A portion of the audience expressed discomfort regarding specific exchanges, with critics accusing Vijay of displaying arrogance and treating Rashmika disrespectfully. The backlash gained further traction after a disclosure regarding marriage proposals circulated widely online, prompting intense social media scrutiny and negative commentary directed at the pair."
+        ]
+      },
+      {
+        "h": "Public Backlash and Strong Reactions",
+        "p": [
+          "The negative response on social networks quickly escalated, with various online users labelling the interaction as problematic and ego-driven. In response to the wave of criticism and critical commentary, Vijay Deverakonda did not hesitate to hit back at his detractors, utilizing strong language on social media while addressing online trolls directly.",
+          "The heated discourse demonstrated the intense scrutiny public figures face regarding their personal relationships when broadcast on mainstream television. Viewers scrutinized every gesture and comment, transforming a lighthearted chat show appearance into a major celebrity controversy."
+        ]
+      },
+      {
+        "h": "Legal Action Taken Against Misinformation",
+        "p": [
+          "In the wake of the controversy, Vijay Deverakonda and Rashmika Mandanna took formal legal measures to address allegedly false and misleading content circulating across the internet. Their manager, P Nishanth Kumar, lodged a formal complaint with the Hyderabad Cyber Crime authorities, requesting a thorough investigation into the matter.",
+          "Representatives for the couple clarified that the legal step was not intended to limit freedom of expression or suppress legitimate criticism. Instead, the action was specifically targeted at tackling fabricated digital information and unlawful online activities that emerged following their television interview."
+        ]
+      },
+      {
+        "h": "Co-Star Vladimir Angelove Shares His Experience",
+        "p": [
+          "Amid the ongoing controversy, Bulgarian actor Vladimir Angelove offered an alternative perspective based on his professional collaboration with the duo. Having shared screen space with Vijay and Rashmika in the upcoming Telugu period action drama Ranabaali, Angelove admitted that he had no prior knowledge of their immense stardom in India when he joined the project.",
+          "Reflecting on his time on set, Angelove described the pair as remarkably ordinary and approachable in the most positive sense. He noted that neither actor exhibited any signs of superiority or allowed their massive popularity to influence their interactions with international crew members."
+        ]
+      },
+      {
+        "h": "Praising the Actors' Grounded Personalities",
+        "p": [
+          "Detailing his interactions, Vladimir Angelove highlighted Rashmika Mandanna's warmth, simplicity, and sincerity as an artist performing her duties without the heavy weight of fame. He shared a similarly favourable impression of Vijay Deverakonda, noting that everything on set felt natural and comfortable.",
+          "The Bulgarian actor only realized the true scale of the duo's fame later on, after discussing his co-stars with an Indian friend. This realization led him to reflect on how genuinely successful individuals often do not feel the need to constantly remind others of their status."
+        ]
+      },
+      {
+        "h": "Unfair to Judge Stars Based on Television",
+        "p": [
+          "Addressing the backlash stemming from the chat show, Vladimir Angelove emphasized that it is unfair to form definitive judgments about individuals based solely on isolated moments broadcast on television. He stated that he could only speak from his personal professional experience working alongside them.",
+          "Concluding his thoughts, the actor reminded audiences that public fascination with celebrity culture often causes people to overlook the human being behind the public persona, reinforcing that his own interactions revealed two talented and unpretentious individuals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vijay Deverakonda and Rashmika Mandanna faced heavy online criticism following their candid conversation on Koffee With Karan Season 9, leading the couple to file a formal complaint with Hyderabad Cyber Crime authorities through their manager against misleading digital content. Amid the ongoing backlash, their Ranabaali co-star Vladimir Angelove defended the pair, describing them as grounded and unpretentious based on his own professional experience working with them on set."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Deverakonda and Rashmika Mandanna appeared on Koffee With Karan Season 9 last month.",
+      "P Nishanth Kumar is the manager for Vijay Deverakonda and Rashmika Mandanna.",
+      "A formal complaint regarding online misinformation was filed with Hyderabad Cyber Crime authorities.",
+      "Vladimir Angelove is a Bulgaria-born actor who worked with the couple on the Telugu period action drama Ranabaali."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Vladimir Angelove",
+        "P Nishanth Kumar",
+        "Mimtaz"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Vijay Deverakonda Rashmika Mandanna Koffee With Karan",
+      "Vladimir Angelove Ranabaali co star",
+      "Vijay Deverakonda Rashmika Mandanna legal action",
+      "Ranabaali Telugu period action drama"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-03t211559-228-57961793720772.jpg",
+        "caption": "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Following Koffee With Karan Backlash",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 00:10:12 +0530"
   }
 };

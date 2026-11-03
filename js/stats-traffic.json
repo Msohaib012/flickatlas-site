@@ -1,57 +1,45 @@
 {
   "connected": true,
-  "generated": "2026-11-03T18:55:16Z",
+  "generated": "2026-11-03T20:45:17Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
-    "users": 27,
-    "pageviews": 49,
-    "sessions": 28,
-    "avg_session_seconds": 52.8
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 175,
-    "pageviews": 776,
-    "sessions": 261,
-    "avg_session_seconds": 215.3
+    "users": 164,
+    "pageviews": 637,
+    "sessions": 235,
+    "avg_session_seconds": 175.6
   },
   "top_pages": [
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 193,
-      "avg_time_seconds": 396.7
+      "views": 134,
+      "avg_time_seconds": 347.7
     },
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 124,
-      "avg_time_seconds": 247.3
-    },
-    {
-      "path": "/movie",
-      "title": "Movie Details — Cast, Story, Budget & Box Office | FlickAtlas",
-      "views": 21,
-      "avg_time_seconds": 32.1
-    },
-    {
-      "path": "/news-item",
-      "title": "News Story | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 43.2
-    },
-    {
-      "path": "/news",
-      "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 66.0
+      "views": 125,
+      "avg_time_seconds": 243.2
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 59.5
+      "views": 18,
+      "avg_time_seconds": 55.8
+    },
+    {
+      "path": "/news",
+      "title": "Bollywood & Entertainment News | FlickAtlas",
+      "views": 16,
+      "avg_time_seconds": 61.5
     },
     {
       "path": "/movie",
@@ -62,28 +50,40 @@
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 56.5
-    },
-    {
-      "path": "/news-item/",
-      "title": "News Story | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 8.5
+      "views": 11,
+      "avg_time_seconds": 49.5
     },
     {
       "path": "/movie",
       "title": "Tum Mere Ho (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 9,
       "avg_time_seconds": 117.9
+    },
+    {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 9,
+      "avg_time_seconds": 12.2
+    },
+    {
+      "path": "/news-item/",
+      "title": "News Story | FlickAtlas",
+      "views": 9,
+      "avg_time_seconds": 9.3
+    },
+    {
+      "path": "/movie",
+      "title": "Ali G: Who Iz I? (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+      "views": 6,
+      "avg_time_seconds": 648.4
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 152,
-      "users": 97
+      "sessions": 127,
+      "users": 86
     },
     {
       "source": "google",
@@ -94,8 +94,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 3,
-      "users": 3
+      "sessions": 2,
+      "users": 2
     },
     {
       "source": "search.google.com",
@@ -113,30 +113,18 @@
   "countries": [
     {
       "country": "United States",
-      "users": 82
+      "users": 78
     },
     {
       "country": "India",
-      "users": 57
+      "users": 56
     },
     {
       "country": "Philippines",
       "users": 4
     },
     {
-      "country": "(not set)",
-      "users": 3
-    },
-    {
       "country": "Canada",
-      "users": 3
-    },
-    {
-      "country": "Germany",
-      "users": 3
-    },
-    {
-      "country": "Pakistan",
       "users": 3
     },
     {
@@ -150,16 +138,28 @@
     {
       "country": "Egypt",
       "users": 2
+    },
+    {
+      "country": "Germany",
+      "users": 2
+    },
+    {
+      "country": "Pakistan",
+      "users": 2
+    },
+    {
+      "country": "Sri Lanka",
+      "users": 2
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 95
+      "users": 87
     },
     {
       "device": "mobile",
-      "users": 77
+      "users": 74
     },
     {
       "device": "tablet",
