@@ -47055,5 +47055,420 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-03T14:29:58.393Z"
+  },
+  "10n0cln": {
+    "id": "10n0cln",
+    "type": "news",
+    "headline": "Nicolas Cage Says He Is Homeless After Massive Sinkhole Damages Malibu Mansion",
+    "dek": "Hollywood star Nicolas Cage revealed he is temporarily living in hotels following a massive sinkhole that damaged his multimillion-dollar Malibu property.",
+    "body": [
+      {
+        "h": "Unexpected Housing Troubles",
+        "p": [
+          "Renowned Hollywood actor Nicolas Cage recently shared that he finds himself temporarily without a permanent residence. During a public appearance at the Los Angeles Comic Con, the 62-year-old performer candidly explained his current living situation to the audience.",
+          "Cage disclosed that an unexpected disaster struck his home in Malibu. Consequently, he has had to relocate and is currently staying in various hotels while sorting out the residential crisis."
+        ]
+      },
+      {
+        "h": "The Malibu Sinkhole Incident",
+        "p": [
+          "The accommodation troubles stemmed from a massive sinkhole that developed near the driveway of the actor's beachfront property. The gaping crater extended into the adjoining roadway, causing severe concerns regarding neighbourhood accessibility and structural safety.",
+          "The environmental collapse occurred following severe coastal conditions, heavy rainfall, and exceptionally high tides along the coastline of Southern California. Reports indicated that the crater measured roughly 30 feet by 30 feet, filled with broken concrete and shattered asphalt."
+        ]
+      },
+      {
+        "h": "Neighbourhood Impact and Evacuations",
+        "p": [
+          "The damage extended far beyond Cage's individual property lines. According to official statements released by the City of Malibu, as many as 31 properties in the surrounding area were declared unsafe because emergency responders could no longer safely access the location.",
+          "The compromised driveway and roadway blocked crucial routes for local residents, law enforcement officers, and fire department personnel. Additionally, a gas leak triggered by the collapse forced authorities to completely shut off the neighbourhood gas supply."
+        ]
+      },
+      {
+        "h": "Impact on Family and Holiday Plans",
+        "p": [
+          "The displacement also forced the actor to alter his traditional holiday celebrations. Cage spoke about how the hotel stays affected his Halloween plans with his four-year-old daughter, August, whom he shares with his wife Riko Shibata.",
+          "Instead of welcoming neighbourhood children to his Malibu residence for trick-or-treating, he planned to take his young daughter trick-or-treating in Santa Monica. He also mentioned plans to unwind after bedtime by watching a classic psychological horror film."
+        ]
+      },
+      {
+        "h": "Property Background and Repair Status",
+        "p": [
+          "Cage originally purchased the four-storey beachfront residence on Sea Level Drive for approximately $10.5 million. The luxury property offered sweeping ocean views alongside numerous high-end amenities before it was struck by the natural disaster.",
+          "Public records indicate that the actor has already secured necessary permits to begin repair work. These initial steps involve debris removal, thorough soil sampling, and preparations to shield the beachfront structure from ongoing erosion hazards, though a timeline for returning remains unclear."
+        ]
+      },
+      {
+        "h": "Real Estate History and Notable Assets",
+        "p": [
+          "Throughout his long and successful Hollywood career, Cage has amassed substantial wealth, much of which went toward an extravagant real estate portfolio. At one point, his holdings reportedly encompassed 15 distinct residences, including European castles and waterfront estates.",
+          "His eclectic purchases have frequently made headlines over the decades. Beyond traditional luxury mansions, his acquisitions have included rare comic books, an island in the Bahamas, and historic properties abroad."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Nicolas Cage revealed at Los Angeles Comic Con that he is temporarily living in hotels after a massive sinkhole damaged his $10.5 million Malibu mansion. The incident, caused by severe coastal erosion, forced emergency evacuations across 31 properties and altered his holiday plans with his daughter August."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicolas Cage is 62 years old.",
+      "The Malibu mansion was purchased in 2024 for approximately $10.5 million.",
+      "The sinkhole incident occurred on September 8, 2026.",
+      "The sinkhole measured approximately 30 feet by 30 feet.",
+      "Thirty-one properties were declared unsafe due to the collapse.",
+      "Nicolas Cage shares daughter August, aged 4, with his wife Riko Shibata.",
+      "Cage has two other children: Kal-El, 21, and Weston, 35."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "August",
+        "Riko Shibata",
+        "Alice Kim",
+        "Christina Fulton",
+        "Stanley Kubrick"
+      ],
+      "titles": [
+        "The Shining"
+      ]
+    },
+    "keywords": [
+      "Nicolas Cage Malibu mansion",
+      "Nicolas Cage sinkhole",
+      "Nicolas Cage homeless hotels",
+      "Nicolas Cage daughter August"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135506602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Nicolas Cage Says He Is Homeless After Massive Sinkhole Damages Malibu Mansion",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-03T22:01:44+05:30"
+  },
+  "19nd32c": {
+    "id": "19nd32c",
+    "type": "news",
+    "headline": "Jonathan Rhys Meyers Set to Star in Vampire Romance 'Pretty Kill Machine'",
+    "dek": "The acclaimed actor is returning to the vampire genre, joining the upcoming feature project directed by Matthew Wilder.",
+    "body": [
+      {
+        "h": "Return to the Vampire Genre",
+        "p": [
+          "Jonathan Rhys Meyers is officially heading back into the world of bloodsuckers and eternal darkness. Approximately a decade after previously portraying Dracula for television networks NBC and Sky, the accomplished star has signed on for a brand new cinematic venture titled Pretty Kill Machine. This upcoming film marks a notable return to the supernatural horror-romance genre that he previously helped bring to life on the small screen.",
+          "The announcement has generated considerable early interest among fans of gothic storytelling and vampire lore. Rhys Meyers brings a distinct presence to dark material, making his casting a major focal point for the production as it prepares to enter the wider film market."
+        ]
+      },
+      {
+        "h": "Plot and Setting Details",
+        "p": [
+          "The narrative of Pretty Kill Machine unfolds primarily in and around Joshua Tree, California. The story centers on a supernatural entity named Vee, who has walked the earth since before recorded history. While she is technically a vampire in the traditional sense, she prefers to view herself simply as a day drinker, drifting between an elegant hotel bar and a mirrored, glass-walled lair situated deep in the desert.",
+          "Vee sustains herself by feeding on blood and, more dangerously, on human souls. However, her centuries-long existence of solitary wandering is suddenly thrown into deep crisis when she experiences genuine romantic love for the very first time. This unprecedented emotional development threatens to bring her eternal reign to an abrupt end for good."
+        ]
+      },
+      {
+        "h": "Character and Casting Dynamics",
+        "p": [
+          "While Vee navigates her startling new emotional awakening, Jonathan Rhys Meyers will portray the human man who captures her attention and ultimately wins her heart. The dynamic between the ancient supernatural being and her mortal romantic interest forms the emotional core of the narrative.",
+          "Known for his prominent television roles in hit series such as The Tudors and Vikings, Rhys Meyers is well-equipped to handle the intense dramatic requirements of a dark, high-stakes romance set against an isolated desert backdrop."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Direction",
+        "p": [
+          "The creative vision for Pretty Kill Machine is being shaped by writer and director Matthew Wilder, who is handling both the screenplay adaptation and the direction of the film. Wilder previously directed Your Name Here, bringing his distinct artistic perspective to this new genre project.",
+          "Production duties are being spearheaded by David Hillary, known for Bill Ted Face the Music, alongside Yariv Lerner. Lerner also serves as the Chief Executive Officer of Nu Boyana Studios, ensuring strong logistical backing for the independent feature."
+        ]
+      },
+      {
+        "h": "Global Sales and Market Launch",
+        "p": [
+          "Global sales and distribution for the movie are being handled by Quantify, a newly formed international sales and distribution company. Quantify is a collaborative venture established by Nu Boyana Studios, Dark Matter Studios, Government Island, and Film Forge Media.",
+          "The company has scheduled the official worldwide sales launch for the upcoming AFM market. Executives at the firm are confident that the unique premise and strong leading man will attract substantial interest from international buyers."
+        ]
+      },
+      {
+        "h": "Industry Expectations and Outlook",
+        "p": [
+          "Industry figures have expressed optimism regarding how the global market will receive the project. Yariv Lerner of Quantify noted that Wilder has constructed a genuinely sensuous and dangerous cinematic world, anchored securely by Rhys Meyers at the center.",
+          "With a blend of supernatural lore, desert atmosphere, and high-stakes romance, the film aims to stand out among independent offerings at the market, positioning itself as a major title to watch as pre-sales progress."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jonathan Rhys Meyers is returning to the vampire genre to star in the romantic feature Pretty Kill Machine, directed by Matthew Wilder and sales-launched by Quantify. The story follows an ancient supernatural entity in Joshua Tree who faces a crisis after falling in love with a mortal man played by Rhys Meyers."
+        ]
+      }
+    ],
+    "facts": [
+      "Jonathan Rhys Meyers starred as Dracula for NBC and Sky a decade ago.",
+      "Pretty Kill Machine is a vampire romance movie.",
+      "Quantify is launching worldwide sales ahead of AFM.",
+      "Matthew Wilder is adapting and directing the film.",
+      "David Hillary and Yariv Lerner are producing the film.",
+      "Yariv Lerner is the CEO of Nu Boyana Studios.",
+      "Quantify was formed by Nu Boyana Studios, Dark Matter Studios, Government Island, and Film Forge Media.",
+      "The film is set in and around Joshua Tree, California.",
+      "The main character Vee is a vampire who feeds on blood and souls.",
+      "Jonathan Rhys Meyers plays the man Vee falls in love with."
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Rhys Meyers",
+        "Matthew Wilder",
+        "David Hillary",
+        "Yariv Lerner",
+        "Anthony Burns",
+        "Chelsea Frei",
+        "Maria Bakalova",
+        "Jon Rudnitsky",
+        "Casey Cott",
+        "James Franco",
+        "Hiam Abbass",
+        "Jason Statham",
+        "Guy Ritchie",
+        "Orlando von Einsiedel",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "Josh Hartnett",
+        "Emma Thompson",
+        "Sally Hawkins",
+        "Danny Huston",
+        "Robert Aramayo",
+        "Chloe Pirrie",
+        "Elle Fanning",
+        "Julianne Moore",
+        "Rebecca Miller",
+        "David Walliams",
+        "Josh Holloway",
+        "Zoe Kazan",
+        "Brenton Thwaites",
+        "Erin Moriarty",
+        "Nicolas Cage",
+        "Destin Daniel Cretton",
+        "Aizzah Fatima"
+      ],
+      "titles": [
+        "Pretty Kill Machine",
+        "Skateland",
+        "Get Off Your Phone",
+        "Games We Play",
+        "Riverdale",
+        "Bill Ted Face the Music",
+        "The Expendables",
+        "Something's In There",
+        "Daughter Of Eden",
+        "Your Name Here",
+        "The Tudors",
+        "Vikings",
+        "Dogfight",
+        "Elsinore",
+        "A Speck In The Sea",
+        "Moonsong: A Life In Seven Verses",
+        "Tracker",
+        "East Of Eden",
+        "Adolescence",
+        "C.L.A.Y.",
+        "Naruto",
+        "Americanish",
+        "Miss Christian Babe"
+      ]
+    },
+    "keywords": [
+      "Jonathan Rhys Meyers Pretty Kill Machine",
+      "Matthew Wilder Pretty Kill Machine",
+      "Pretty Kill Machine vampire movie",
+      "Quantify AFM Pretty Kill Machine"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Jonathan-Rhys-Meyers-e1793723166570.jpg?w=683",
+        "caption": "Jonathan Rhys Meyers Set to Star in Vampire Romance 'Pretty Kill Machine'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 16:26:45 +0000"
+  },
+  "a30zya": {
+    "id": "a30zya",
+    "type": "news",
+    "headline": "Kelly Clarkson Reflects on Her Incredible Talk Show Run After Major Daytime Emmy Haul",
+    "dek": "Following the conclusion of her eponymous daytime series earlier this year, the musician and host celebrated a massive five-win sweep at the Daytime Emmy Awards.",
+    "body": [
+      {
+        "h": "Celebrating a Daytime Emmy Sweep",
+        "p": [
+          "Kelly Clarkson recently took to social media to celebrate a major triumph at the Daytime Emmy Awards, where her former daytime talk show secured a remarkable five wins out of eleven total nominations. The program, which wrapped up its broadcast run on NBC earlier in the year, was notably honored with the prestigious title of Outstanding Daytime Talk Series.",
+          "Sharing her excitement on Instagram, the musician posted a photograph of the production crew holding their trophies. She expressed her gratitude to the team and commemorated the journey, stating that it was an incredible seven years."
+        ]
+      },
+      {
+        "h": "Looking Back at Seven Years",
+        "p": [
+          "The journey of the popular daytime program began with its premiere in 2019, providing viewers with music, heartfelt interviews, and entertainment. Over its extensive run, the show established itself as a staple of daytime television and earned widespread critical and popular acclaim.",
+          "Throughout the series, Clarkson thanked both her loyal viewers and her broadcasting partner, NBC, noting that the network had consistently acted as a supportive and incredible partner since the very beginning."
+        ]
+      },
+      {
+        "h": "The Decision to Step Away",
+        "p": [
+          "News of the host's departure from the program first surfaced in January through media reports, with the songwriter confirming her exit the following month. Although she acknowledged that stepping away was not an easy choice, she emphasized that prioritizing her family was necessary.",
+          "Her final episode aired on September 1, marking the end of an era for the daytime favorite. During this emotional broadcast, she was joined on screen by her children, commemorating the conclusion of the series alongside her loved ones."
+        ]
+      },
+      {
+        "h": "Prioritizing Family After Tragedy",
+        "p": [
+          "The decision to end the successful talk show was deeply rooted in the host's desire to focus on her children, daughter River, age 12, and son Remington, age 10. The family experienced a profound loss when Brandon Blackstock, the children's father, passed away from cancer in August 2025 following a lengthy legal and personal history with Clarkson, which included their 2022 divorce.",
+          "Sources close to the family noted that the mother's primary focus has been ensuring her children feel loved, supported, and stable as they navigate their grief. Clarkson explained that stability and schedule were initially major reasons for doing the show, but also became the primary reasons it was time to say goodbye."
+        ]
+      },
+      {
+        "h": "Returning to the Stage and Screen",
+        "p": [
+          "Despite stepping away from her daily hosting duties, the entertainer has remained active on television screens. In May, it was announced that she would rejoin the coaching panel for the reality singing competition series The Voice.",
+          "Fans welcomed her return when Season 30 premiered on September 21. On the coaching panel, she sits alongside fellow mentors Adam Levine, Queen Latifah, and Riley Green."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kelly Clarkson celebrated a five-win sweep at the Daytime Emmy Awards just two months after her talk show concluded its seven-year run on NBC. The host stepped down from the series to prioritize her children following the passing of their father, Brandon Blackstock, while also returning to television as a coach on The Voice."
+        ]
+      }
+    ],
+    "facts": [
+      "Kelly Clarkson hosted The Kelly Clarkson Show for 7 years since its premiere in 2019.",
+      "The show received 11 nominations and won 5 awards at the Daytime Emmy Awards on Oct. 30, 2026, including Outstanding Daytime Talk Series.",
+      "The final episode of the talk show aired on Sept. 1, 2026, after ending on NBC two months prior.",
+      "Brandon Blackstock passed away from cancer in August 2025.",
+      "Kelly Clarkson and Brandon Blackstock divorced in 2022.",
+      "Daughter River is 12 years old and son Remington is 10 years old.",
+      "Kelly Clarkson returned as a coach for Season 30 of The Voice, which premiered on Sept. 21, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kelly Clarkson",
+        "Brandon Blackstock",
+        "River",
+        "Remington",
+        "Adam Levine",
+        "Queen Latifah",
+        "Riley Green"
+      ],
+      "titles": [
+        "The Kelly Clarkson Show",
+        "The Voice",
+        "American Idol"
+      ]
+    },
+    "keywords": [
+      "Kelly Clarkson",
+      "The Kelly Clarkson Show",
+      "Daytime Emmy Awards",
+      "The Voice"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147410148.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Kelly Clarkson Reflects on Her Incredible Talk Show Run After Major Daytime Emmy Haul",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 11:36:39 -0500"
+  },
+  "87jq9v": {
+    "id": "87jq9v",
+    "type": "news",
+    "headline": "First Day Box Office Projections Revealed for Upcoming Releases",
+    "dek": "Trade analysts outline opening day expectations for upcoming films Yeh Prem Mol Liya and Gunmaaster G9, alongside a final revision for Ramayana Part One.",
+    "body": [
+      {
+        "h": "Introduction to the Tracking Tracker",
+        "p": [
+          "Trade tracking platforms have updated their opening day projections for several high-profile films preparing for theatrical distribution. The latest analytical forecast focuses heavily on audience awareness, past star track records, and commercial parameters to estimate initial earnings.",
+          "Among the prominent titles entering the tracker are upcoming romantic and action features, alongside final pre-release evaluations for major festive spectacles."
+        ]
+      },
+      {
+        "h": "Yeh Prem Mol Liya Opening Outlook",
+        "p": [
+          "Director Sooraj Barjatya returns to the big screen with Yeh Prem Mol Liya, scheduled to release on November 27, 2026. The filmmaker holds a legacy of major blockbusters in domestic cinema history, though trade experts note that his directorial ventures typically rely on strong theatrical legs rather than massive opening figures.",
+          "The leading man, Ayushmann Khurrana, has seen his recent standalone releases debut within modest ranges. Consequently, initial forecasts place the opening day collection between Rs. 4 crore and Rs. 7 crore nett, with potential upside driven by the director's historical box office appeal."
+        ]
+      },
+      {
+        "h": "Gunmaaster G9 Box Office Potential",
+        "p": [
+          "Emraan Hashmi stars in Gunmaaster G9, which is also slated for a November 27, 2026 release. Following the commercial run of Awaraapan 2, expectations for this genre are cautiously optimistic, though this project lacks the direct intellectual property backing of its predecessor.",
+          "Industry analysts indicate that the initial audience pull will heavily depend on music reception and upcoming promotional trailers. Current projections anticipate a first-day range stretching from Rs. 2.5 crore to Rs. 5.5 crore nett."
+        ]
+      },
+      {
+        "h": "Ramayana Part One Final Adjustments",
+        "p": [
+          "Ahead of its November 5, 2026 release, Ramayana Part One (Hindi) has received a final downward revision in its pre-release tracking. The pre-Diwali theatrical window presents specific limitations across Northern circuits, while dubbed versions face heightened competition in major metropolitan centers like Bengaluru and Hyderabad.",
+          "The revised forecast narrows the opening projection to between Rs. 52 crore and Rs. 60 crore nett, with a targeted pinpoint estimate of Rs. 56 crore nett. These figures exclude potential 3D format surcharges, which could elevate totals by approximately ten percent."
+        ]
+      },
+      {
+        "h": "Nature of Analytical Tracking",
+        "p": [
+          "Industry tracking figures remain entirely subjective, relying on advance booking indicators, distributor sentiment, and commercial parameters rather than verified accounting records. These predictive models intentionally evaluate organic ticket sales while excluding unverified or inorganic collection metrics.",
+          "While multiple films occupy the theatrical calendar during this period, tracking parameters prioritize projects equipped with notable star power and substantial pre-release visibility."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade forecasters have published opening day estimates for upcoming theatrical releases, led by projections for Yeh Prem Mol Liya and Gunmaaster G9 alongside a final update for Ramayana Part One. The analysis highlights varying commercial expectations shaped by star involvement, seasonal timing, and historical audience trends."
+        ]
+      }
+    ],
+    "facts": [
+      "Sooraj Barjatya directed Yeh Prem Mol Liya.",
+      "Ayushmann Khurrana stars in Yeh Prem Mol Liya.",
+      "Yeh Prem Mol Liya is scheduled to release on November 27, 2026.",
+      "Yeh Prem Mol Liya has an estimated first-day box office forecast of Rs. 4-7 crore nett.",
+      "Emraan Hashmi stars in Gunmaaster G9.",
+      "Gunmaaster G9 is scheduled to release on November 27, 2026.",
+      "Gunmaaster G9 has an estimated first-day box office forecast of Rs. 2.5-5.5 crore nett.",
+      "Ramayana Part One (Hindi) is scheduled to release on November 5, 2026.",
+      "Ramayana Part One (Hindi) has a revised final forecast of Rs. 52-60 crore nett with a pinpoint of Rs. 56 crore nett."
+    ],
+    "entities": {
+      "people": [
+        "Sooraj Barjatya",
+        "Ayushmann Khurrana",
+        "Emraan Hashmi"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9",
+        "Awaraapan 2",
+        "Ramayana Part One",
+        "Hum Saath Saath Hain",
+        "Prem Ratan Dhan Payo",
+        "Vivah"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Gunmaaster G9",
+      "Ramayana Part One",
+      "Ayushmann Khurrana",
+      "Emraan Hashmi"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1379597494_ramayan-3.jpg",
+        "caption": "First Day Box Office Projections Revealed for Upcoming Releases",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 20:37:27 +0530"
   }
 };
