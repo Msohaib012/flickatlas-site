@@ -175,8 +175,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 20",
-      "collection": 4226,
-      "shows": 230,
+      "collection": 2853,
+      "shows": 224,
       "occupancy": 6.0,
       "tickets": 2532
     }
@@ -283,7 +283,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-03",
       "day": "Day 12",
-      "collection": 148759,
+      "collection": 150343,
       "shows": 4182,
       "occupancy": 12.3,
       "tickets": 80014
@@ -291,8 +291,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 13",
-      "collection": 13735,
-      "shows": 768,
+      "collection": 16165,
+      "shows": 1284,
       "occupancy": 5.8,
       "tickets": 16253
     }
@@ -832,6 +832,12 @@ window.FA_DAYWISE = {
       "collection": 12678,
       "shows": 548,
       "occupancy": 13.0
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Day 13",
+      "collection": 1057,
+      "shows": 140
     }
   ],
   "1785611": [
@@ -1022,6 +1028,12 @@ window.FA_DAYWISE = {
       "shows": 352,
       "occupancy": 11.4,
       "overseas": 200740
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Day 13",
+      "collection": 1057,
+      "shows": 63
     }
   ],
   "1389379": [
@@ -1199,8 +1211,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 20",
-      "collection": 5283,
-      "shows": 111,
+      "collection": 4543,
+      "shows": 110,
       "occupancy": 12.0,
       "tickets": 4010
     }
@@ -1379,7 +1391,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-03",
       "day": "Day 20",
-      "collection": 261384,
+      "collection": 276809,
       "shows": 6373,
       "occupancy": 12.0,
       "tickets": 181596,
@@ -1388,8 +1400,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 21",
-      "collection": 32224,
-      "shows": 1047,
+      "collection": 50396,
+      "shows": 1904,
       "occupancy": 7.4,
       "tickets": 42820
     }
@@ -1690,8 +1702,8 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 34",
-      "collection": 7924,
-      "shows": 485,
+      "collection": 9826,
+      "shows": 786,
       "occupancy": 5.9,
       "tickets": 9214
     }

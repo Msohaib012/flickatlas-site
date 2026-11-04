@@ -52549,5 +52549,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 03:31:41 +0000"
+  },
+  "ycrmy5": {
+    "id": "ycrmy5",
+    "type": "news",
+    "headline": "Shah Rukh Khan's Upcoming Movie 'King' Pulls In Massive Pre-Release Business Totaling Rs 665 Crore",
+    "dek": "The high-profile action venture directed by Siddharth Anand sets strong commercial benchmarks through extensive distribution and streaming contracts before hitting cinemas.",
+    "body": [
+      {
+        "h": "Introduction to the Pre-Release Milestone",
+        "p": [
+          "Shah Rukh Khan's highly anticipated cinematic project titled 'King' has successfully generated significant monetary value ahead of its official theatrical premiere. Reports indicate that the production has secured an impressive grand total of Rs 665 crore through various pre-release agreements.",
+          "This substantial financial figure instantly elevates the project into the upper echelon of commercial ventures within contemporary Hindi cinema. Industry observers note that the scale of these early deals underscores the immense market viability associated with the leading star."
+        ]
+      },
+      {
+        "h": "Domestic and International Theatrical Agreements",
+        "p": [
+          "A major portion of the pre-release revenue stems from theatrical distribution rights partitioned across domestic and overseas territories. According to industry disclosures, Pen Marudhar secured the domestic theatrical rights for a notable sum of Rs 250 crore.",
+          "On the international front, Phars Films finalized an agreement valued at Rs 175 crore for overseas distribution. Sources suggest this international commitment represents the highest-ever minimum guarantee recorded for an Indian feature film abroad."
+        ]
+      },
+      {
+        "h": "Digital Streaming and Ancillary Rights Breakdown",
+        "p": [
+          "Beyond theatrical contracts, the film has monetized multiple ancillary revenue streams including digital streaming, music, and satellite broadcast rights. Major streaming platform Netflix has reportedly acquired the digital rights for Rs 150 crore.",
+          "Additional commercial partnerships include music rights fetching Rs 65 crore and satellite broadcast rights valued at Rs 25 crore. These diverse agreements collectively bridge the gap toward the reported Rs 665 crore cumulative pre-release total."
+        ]
+      },
+      {
+        "h": "Conditional Clauses within the Streaming Deal",
+        "p": [
+          "Despite the impressive headline figure assigned to the digital streaming acquisition, certain components of the contract remain flexible. Reports indicate that the agreement with Netflix includes specific performance-linked clauses.",
+          "Consequently, the final realization of the streaming revenue could fluctuate depending on how the feature performs commercially once it completes its theatrical run at the box office."
+        ]
+      },
+      {
+        "h": "Commercial Expectations and Budgetary Pressures",
+        "p": [
+          "Securing Rs 665 crore prior to theatrical distribution places the project under intense public and commercial scrutiny. Financial analysts point out that pre-release business figures should not be mistaken for actual box-office ticket sales.",
+          "Given the heavy financial expectations tied to the production budget and distribution terms, the film will need to sustain robust ticket counters numbers during its theatrical run to validate these early agreements."
+        ]
+      },
+      {
+        "h": "Comparison with Previous Pre-Release Trends",
+        "p": [
+          "The exceptional pre-release momentum mirrors the immense fan enthusiasm witnessed during previous outings by the lead actor. For instance, the action entertainer 'Jawan', directed by Atlee and released on September 7, 2023, experienced remarkable demand.",
+          "Advance-booking records for 'Jawan' showcased an all-India gross of Rs 40.75 crore with over 1.57 million tickets sold across 20,107 shows, alongside worldwide advance collections crossing Rs 51.17 crore. Predictions suggest 'King' aims to surpass those prior benchmarks significantly."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming film 'King' has secured pre-release deals worth Rs 665 crore, encompassing domestic and international theatrical distribution, digital streaming, music, and satellite rights. Directed by Siddharth Anand, the project sets high commercial expectations that compare with the advance performance of previous releases like 'Jawan'."
+        ]
+      }
+    ],
+    "facts": [
+      "Rs 665 crore pre-release business total",
+      "Directed by Siddharth Anand",
+      "Pen Marudhar domestic theatrical rights for Rs 250 crore",
+      "Phars Films international rights for Rs 175 crore",
+      "Netflix streaming rights for Rs 150 crore",
+      "Music rights fetched Rs 65 crore",
+      "Satellite rights valued at Rs 25 crore",
+      "Jawan released on September 7, 2023",
+      "Jawan directed by Atlee",
+      "Jawan all-India advance-booking gross of Rs 40.75 crore",
+      "Jawan worldwide advance collections crossing Rs 51.17 crore"
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Atlee"
+      ],
+      "titles": [
+        "King",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "King film pre release deals",
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King box office",
+      "King movie digital and theatrical rights"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135522824,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan's Upcoming Movie 'King' Pulls In Massive Pre-Release Business Totaling Rs 665 Crore",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T09:49:36+05:30"
+  },
+  "1osknsj": {
+    "id": "1osknsj",
+    "type": "news",
+    "headline": "Sai Pallavi Shines as Sita in First Ramayana Character Promo",
+    "dek": "The creators of Ramayana have unveiled a new character promo highlighting Sai Pallavi as Sita, drawing widespread praise from audiences online.",
+    "body": [
+      {
+        "h": "Introduction of the New Character Promo",
+        "p": [
+          "The team behind the upcoming cinematic adaptation Ramayana has shared a fresh promotional video centered entirely on Sai Pallavi's interpretation of Sita. Rather than exposing overarching plot points or narrative twists, the visual teaser narrows its focus completely onto the princess of Mithila.",
+          "Accompanying the promotional launch, the studio released an evocative tagline describing the character as a daughter of the earth, a princess of Mithila, and someone bound by love and guided by dharma."
+        ]
+      },
+      {
+        "h": "Initial Skepticism Transformed into Praise",
+        "p": [
+          "When Sai Pallavi's initial involvement in the project was first announced, a section of moviegoers debated whether she was the ideal match for such an iconic mythological figure. However, this recent visual update has successfully shifted public sentiment.",
+          "Observers and fans have taken to digital platforms to applaud her composed aesthetic and the natural grace she brings to the screen, silencing earlier doubts about her casting."
+        ]
+      },
+      {
+        "h": "Audience Reactions on Social Media",
+        "p": [
+          "Reactions across the social media platform X have been overwhelmingly encouraging, with many commentators describing her look as genuine and deeply relatable. Several users specifically highlighted her understated styling, noting that her minimal makeup enhanced a pure and serene aura.",
+          "Audiences pointed out that she successfully projects a rare combination of inner strength and natural gentleness, making her portrayal feel like a thoughtful tribute to the revered character."
+        ]
+      },
+      {
+        "h": "Musical Background by A.R. Rahman",
+        "p": [
+          "The promotional video is elevated significantly by its musical score, titled 'Sita’s Aspiration'. Crafted by acclaimed composer A.R. Rahman, the background track features the melodic vocals of Rakshita Suresh.",
+          "The music flows seamlessly underneath the visuals, establishing an emotional and tranquil atmosphere that underscores the visual presentation of the character."
+        ]
+      },
+      {
+        "h": "Stellar Ensemble Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana is structured as an ambitious two-part cinematic event. The movie boasts a massive ensemble cast featuring Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash stepping into the role of Ravana.",
+          "The expansive roster of actors also includes Ravie Dubey as Lakshman, alongside veteran names and prominent stars such as Arun Govil, Lara Dutta, Sheeba Chadha, Shobhana, Rakul Preet Singh, Vivek Oberoi, Sunny Deol, and Anupam Kher."
+        ]
+      },
+      {
+        "h": "Release Strategy",
+        "p": [
+          "The sweeping mythological project has been mapped out across multiple cinematic installments to capture the epic scale of the original tale. The first part is slated to arrive in theaters on November 5.",
+          "As anticipation builds around each promotional rollout, the filmmakers continue to keep audiences engaged by offering measured glimpses into the performances of its lead actors."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of the upcoming film Ramayana released a character promo featuring Sai Pallavi as Sita, earning positive reactions from viewers who praised her serene appearance and natural performance. Directed by Nitesh Tiwari and featuring music by A.R. Rahman, the two-part adaptation is scheduled to release its first installment in theaters on November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "The character promo for Sita was released on November 4, 2026.",
+      "Sai Pallavi plays Sita in the film Ramayana.",
+      "Ranbir Kapoor plays Lord Rama.",
+      "Yash plays Ravana.",
+      "Ravie Dubey plays Lakshman.",
+      "The film is directed by Nitesh Tiwari.",
+      "The promotional track is titled 'Sita’s Aspiration'.",
+      "A.R. Rahman composed the music for the promo track, with vocals by Rakshita Suresh.",
+      "The first part of Ramayana is scheduled to release in theaters on November 5."
+    ],
+    "entities": {
+      "people": [
+        "Sai Pallavi",
+        "Ranbir Kapoor",
+        "Yash",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Sheeba Chadha",
+        "Shobhana",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Sunny Deol",
+        "Anupam Kher",
+        "A.R. Rahman",
+        "Rakshita Suresh",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Sai Pallavi",
+      "Sita promo",
+      "Nitesh Tiwari",
+      "Ramayana release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135522599,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sai Pallavi Shines as Sita in First Ramayana Character Promo",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T09:46:21+05:30"
+  },
+  "1imt2d6": {
+    "id": "1imt2d6",
+    "type": "news",
+    "headline": "Cha Ye Ryun's Agency Denies Bullying Allegations and Plans Legal Action",
+    "dek": "South Korean actress Cha Ye Ryun faces unverified online accusations of school violence and mistreatment, prompting her management to announce firm legal responses.",
+    "body": [
+      {
+        "h": "The Bullying Allegations Surface Online",
+        "p": [
+          "In late October, an anonymous online publication accused an unnamed actress born in 1985 of historical physical violence and bullying during middle school. Although the initial write-up omitted any specific names, internet users quickly began drawing conclusions based on personal details like educational background and birth year.",
+          "As these speculative conversations traversed various online communities, actress Cha Ye Ryun became heavily associated with the unverified claims. Despite the widespread discussion, no objective documentation has emerged to publicly establish her connection to the original post."
+        ]
+      },
+      {
+        "h": "Agency Issues Initial and Follow-up Denials",
+        "p": [
+          "HB Entertainment, representing Cha Ye Ryun, stepped forward on October 30 to completely refute the circulating rumors, declaring them to be totally unfounded after internal checks. By November 2, access to the primary anonymous post experienced temporary restrictions, though this action did not serve as any official verification of truth or falsity.",
+          "Despite the swift pushback from management, online commentary continued to swell. Additional remarks surfaced from accounts claiming shared educational history with the targeted celebrity, keeping the discussion active across digital spaces."
+        ]
+      },
+      {
+        "h": "Controversy Expands to Family Members",
+        "p": [
+          "The situation escalated beyond the initial target as critical remarks began appearing on the personal social media accounts of actor Joo Sang Wook, who is married to Cha Ye Ryun. Netizens directed frustrations toward him despite his complete lack of involvement in the original claims.",
+          "This spillover prompted mounting alarm regarding how the digital controversy was negatively affecting individuals who had no direct connection to the unfolding allegations."
+        ]
+      },
+      {
+        "h": "Additional Unverified Claims Emerge",
+        "p": [
+          "On November 3, a secondary online claim surfaced through a different channel from an individual asserting past employment as a golf course caddie. This second account alleged poor treatment by Cha Ye Ryun during a prior encounter.",
+          "Neither the employment history of this second accuser nor the circumstances of the alleged meeting have undergone independent verification or factual establishment."
+        ]
+      },
+      {
+        "h": "HB Entertainment Announces Legal Action",
+        "p": [
+          "Responding to the compounding rumors, HB Entertainment released a subsequent official statement on November 4. The agency expressed deep regret over public concern and voiced serious alarm regarding repeated unverified speculation and targeted family attacks.",
+          "The management company confirmed plans to thoroughly gather relevant evidence for legal review, vowing to take robust measures against the malicious dissemination of false information and personal attacks."
+        ]
+      },
+      {
+        "h": "Lack of Objective Evidence",
+        "p": [
+          "Throughout the entire duration of the controversy, none of the specific accusations regarding school bullying or golf course mistreatment have received any form of objective verification.",
+          "Management continues to maintain a stance of strict denial while preparing legal avenues to halt further escalation of the situation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "South Korean actress Cha Ye Ryun and her husband Joo Sang Wook have become targets of unverified online allegations regarding historical school bullying and mistreatment. HB Entertainment has firmly denied these claims, expressing concern over personal attacks and announcing intentions to pursue legal action against false information."
+        ]
+      }
+    ],
+    "facts": [
+      "On November 4, HB Entertainment released an official statement addressing the allegations.",
+      "The controversy began in late October when an anonymous individual published an online post.",
+      "On October 30, HB Entertainment responded to the controversy by denying the allegations.",
+      "On November 2, access to the original post had been temporarily restricted.",
+      "On November 3, a separate account was introduced on a channel by someone claiming to have worked as a golf course caddie."
+    ],
+    "entities": {
+      "people": [
+        "Cha Ye Ryun",
+        "Joo Sang Wook"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Cha Ye Ryun school violence",
+      "HB Entertainment statement",
+      "Joo Sang Wook social media",
+      "Cha Ye Ryun bullying allegations"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/cha-ye-ryun.jpg",
+        "caption": "Cha Ye Ryun's Agency Denies Bullying Allegations and Plans Legal Action",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 05:40:20 +0000"
+  },
+  "cyuyvt": {
+    "id": "cyuyvt",
+    "type": "news",
+    "headline": "Salman Khan Surprises Fans with 5 AM Release of Teri Sexy Beauty from Maatrubhumi",
+    "dek": "Bollywood superstar Salman Khan caught everyone off guard by dropping a brand new song from his upcoming film at dawn, leaving audiences amused and baffled by its upbeat tone.",
+    "body": [
+      {
+        "h": "An Unannounced Early Morning Drop",
+        "p": [
+          "In an industry dominated by meticulously planned promotional campaigns and algorithmic release schedules, Bollywood star Salman Khan charted his own course. On a Wednesday morning, without any advance warning or buildup, the actor shared a video of a brand-new track on social media. The drop occurred at five in the morning, long before most of the country had even begun their day.",
+          "Rather than relying on a traditional PR strategy, the actor used his personal social media channels to alert followers. The surprise move instantly commanded attention, turning a quiet dawn into a trending topic across digital platforms."
+        ]
+      },
+      {
+        "h": "Wordplay and Social Media Teasers",
+        "p": [
+          "To accompany the surprise release, Salman posted a teaser of the song on Instagram alongside a caption featuring witty wordplay. He made a cheeky reference to the track's lyrics by joking about boarding an early morning flight. His caption mentioned a departure time of 5:12 am, flying on time with two pegs down, and taking off with his sexy beauty while wondering where he might land.",
+          "He capped off the post with the hashtag #TeriSexyBeauty Out Now and directed his fans to check his Instagram bio for the complete YouTube link. The unorthodox announcement quickly racked up views and amused comments from his followers."
+        ]
+      },
+      {
+        "h": "Musical Credits and On-Screen Pairing",
+        "p": [
+          "The newly released track is titled Teri Sexy Beauty and serves as part of the soundtrack for Salman Khan's upcoming feature film. The music has been composed by Himesh Reshammiya, while the vocals are shared by Salman Khan and Muskaan, featuring additional vocals by Sajid Khan, who also penned the lyrics.",
+          "In the accompanying music video, Salman shares the screen with Chitrangada Singh, who serves as the film's female lead. Their on-screen chemistry forms a core visual element of the promotional video."
+        ]
+      },
+      {
+        "h": "Fan Confusion Over the Tone",
+        "p": [
+          "While the track itself promotes an atmosphere of romance, carefree moments, and playful energy, it also sparked considerable bewilderment. Many fans took to the comments section to question how such an upbeat and irreverent track fits into the narrative of a tragic war drama.",
+          "Some followers humorously questioned whether the actor had posted the video by accident or if it was simply a classic case of Salman being Salman. Others joked that the superstar's unusual sleep cycle happened to match their own."
+        ]
+      },
+      {
+        "h": "Background of the Film Maatrubhumi",
+        "p": [
+          "The film housing this track is titled Maatrubhumi: May War Rest In Peace. It is produced by Salma Khan under the banner of Salman Khan Films and is directed by Apoorva Lakhia, featuring Chitrangada Singh in a pivotal role alongside the lead actor.",
+          "The project has undergone notable changes during its production journey. It was originally titled Battle of Galwan and centered around the 2020 Galwan Valley clash between Indian and Chinese troops, though reports indicate it later dropped references to China following reshoots."
+        ]
+      },
+      {
+        "h": "Release Timeline and Updates",
+        "p": [
+          "Initially scheduled to hit theatres in April of the same year, the film's release was eventually postponed. Although various rumors circulated suggesting the project might have been shelved, the makers firmly debunked those claims.",
+          "As of now, no official release date has been announced by the production team following the initial postponement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Salman Khan surprised fans by releasing the song Teri Sexy Beauty from his upcoming film Maatrubhumi at 5 AM on a Wednesday. The track, composed by Himesh Reshammiya and co-sung by Salman and Muskaan, features Chitrangada Singh in the video and left fans puzzled regarding its fit within a tragic war drama."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan released the song Teri Sexy Beauty on a Wednesday at 5 AM.",
+      "The film Maatrubhumi is directed by Apoorva Lakhia.",
+      "Maatrubhumi was previously titled Battle of Galwan.",
+      "The film stars Salman Khan and Chitrangada Singh."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Himesh Reshammiya",
+        "Muskaan",
+        "Sajid Khan",
+        "Apoorva Lakhia",
+        "Salma Khan"
+      ],
+      "titles": [
+        "Teri Sexy Beauty",
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest In Peace",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Teri Sexy Beauty",
+      "Maatrubhumi film",
+      "Chitrangada Singh Maatrubhumi",
+      "Salman Khan new song"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/Salman__1793763557218_3EFn_1793763564362_YzXT_6d9b6de2-095a-4efe-abce-07c850ecc729_wKH9.png",
+        "caption": "Salman Khan Surprises Fans with 5 AM Release of Teri Sexy Beauty from Maatrubhumi",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 10:17:22 +0530"
   }
 };

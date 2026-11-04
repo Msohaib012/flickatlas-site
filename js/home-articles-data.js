@@ -37,6 +37,144 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 09:03:01 +0200"
   },
+  "1imt2d6": {
+    "id": "1imt2d6",
+    "type": "news",
+    "headline": "Cha Ye Ryun's Agency Denies Bullying Allegations and Plans Legal Action",
+    "dek": "South Korean actress Cha Ye Ryun faces unverified online accusations of school violence and mistreatment, prompting her management to announce firm legal responses.",
+    "entities": {
+      "people": [
+        "Cha Ye Ryun",
+        "Joo Sang Wook"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Cha Ye Ryun school violence",
+      "HB Entertainment statement",
+      "Joo Sang Wook social media",
+      "Cha Ye Ryun bullying allegations"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/cha-ye-ryun.jpg",
+        "caption": "Cha Ye Ryun's Agency Denies Bullying Allegations and Plans Legal Action",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 05:40:20 +0000"
+  },
+  "cyuyvt": {
+    "id": "cyuyvt",
+    "type": "news",
+    "headline": "Salman Khan Surprises Fans with 5 AM Release of Teri Sexy Beauty from Maatrubhumi",
+    "dek": "Bollywood superstar Salman Khan caught everyone off guard by dropping a brand new song from his upcoming film at dawn, leaving audiences amused and baffled by its upbeat tone.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Himesh Reshammiya",
+        "Muskaan",
+        "Sajid Khan",
+        "Apoorva Lakhia",
+        "Salma Khan"
+      ],
+      "titles": [
+        "Teri Sexy Beauty",
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest In Peace",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Teri Sexy Beauty",
+      "Maatrubhumi film",
+      "Chitrangada Singh Maatrubhumi",
+      "Salman Khan new song"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/Salman__1793763557218_3EFn_1793763564362_YzXT_6d9b6de2-095a-4efe-abce-07c850ecc729_wKH9.png",
+        "caption": "Salman Khan Surprises Fans with 5 AM Release of Teri Sexy Beauty from Maatrubhumi",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 10:17:22 +0530"
+  },
+  "ycrmy5": {
+    "id": "ycrmy5",
+    "type": "news",
+    "headline": "Shah Rukh Khan's Upcoming Movie 'King' Pulls In Massive Pre-Release Business Totaling Rs 665 Crore",
+    "dek": "The high-profile action venture directed by Siddharth Anand sets strong commercial benchmarks through extensive distribution and streaming contracts before hitting cinemas.",
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Atlee"
+      ],
+      "titles": [
+        "King",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "King film pre release deals",
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King box office",
+      "King movie digital and theatrical rights"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135522824,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan's Upcoming Movie 'King' Pulls In Massive Pre-Release Business Totaling Rs 665 Crore",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T09:49:36+05:30"
+  },
+  "1osknsj": {
+    "id": "1osknsj",
+    "type": "news",
+    "headline": "Sai Pallavi Shines as Sita in First Ramayana Character Promo",
+    "dek": "The creators of Ramayana have unveiled a new character promo highlighting Sai Pallavi as Sita, drawing widespread praise from audiences online.",
+    "entities": {
+      "people": [
+        "Sai Pallavi",
+        "Ranbir Kapoor",
+        "Yash",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Sheeba Chadha",
+        "Shobhana",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Sunny Deol",
+        "Anupam Kher",
+        "A.R. Rahman",
+        "Rakshita Suresh",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Sai Pallavi",
+      "Sita promo",
+      "Nitesh Tiwari",
+      "Ramayana release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135522599,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sai Pallavi Shines as Sita in First Ramayana Character Promo",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T09:46:21+05:30"
+  },
   "1raho4j": {
     "id": "1raho4j",
     "type": "news",
@@ -4613,158 +4751,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 00:28:05 +0000"
-  },
-  "1tmaicv": {
-    "id": "1tmaicv",
-    "type": "news",
-    "headline": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 4: Venkatesh Daggubati's Film Reaches Rs 55.65 Cr Worldwide",
-    "dek": "Venkatesh Daggubati and Srinidhi Shetty's Telugu action comedy-drama witnesses a weekday drop on its fourth theatrical day.",
-    "entities": {
-      "people": [
-        "Venkatesh Daggubati",
-        "Srinidhi Shetty",
-        "Trivikram Srinivas",
-        "Thaman",
-        "Chittibabu",
-        "Swarna"
-      ],
-      "titles": [
-        "Aadarsha Kutumbam House No: 47 (AK 47)",
-        "Sankranthiki Vasthunam"
-      ]
-    },
-    "keywords": [
-      "Aadarsha Kutumbam House No 47 box office",
-      "Venkatesh Daggubati AK 47 collection",
-      "Sankranthiki Vasthunam comparison",
-      "AK 47 day 4 collection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135477768,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 4: Venkatesh Daggubati's Film Reaches Rs 55.65 Cr Worldwide",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T05:54:34+05:30"
-  },
-  "1s2dgg9": {
-    "id": "1s2dgg9",
-    "type": "news",
-    "headline": "Salman Khan Honours Shah Rukh Khan as The King on His 61st Birthday",
-    "dek": "Shah Rukh Khan celebrated his 61st birthday with wishes from Salman Khan, Kajol, and Atlee, alongside a special track drop and a return to the Mannat balcony.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Shah Rukh Khan",
-        "Arijit Singh",
-        "Ed Sheeran",
-        "Kajol",
-        "Atlee",
-        "Suhana Khan",
-        "Siddharth Anand",
-        "Deepika Padukone"
-      ],
-      "titles": [
-        "King",
-        "Tu Mil Jaaye",
-        "Karan Arjun",
-        "Dilwale Dulhania Le Jayenge",
-        "Kuch Kuch Hota Hai",
-        "Kabhi Khushi Kabhie Gham",
-        "My Name Is Khan",
-        "Dilwale",
-        "Jawan",
-        "Pathaan"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Shah Rukh Khan birthday",
-      "Shah Rukh Khan 61st birthday",
-      "King movie Tu Mil Jaaye song",
-      "Shah Rukh Khan Mannat balcony"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/salman-khan-032302388-16x9_0.jpg?VersionId=ekSIyZhVYeKsz3N92xWnMcFU_Fg.cBqL",
-        "caption": "Salman Khan Honours Shah Rukh Khan as The King on His 61st Birthday",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 05:54:06 +0530"
-  },
-  "28avr": {
-    "id": "28avr",
-    "type": "news",
-    "headline": "Ranabaali Box Office Collection Day 18: Vijay Deverakonda Film Nears Budget Recovery As Worldwide Gross Hits Rs 80.27 Cr",
-    "dek": "Vijay Deverakonda, Rashmika Mandanna and Arnold Vosloo starrer Ranabaali faces a slowdown in theatres, collecting Rs 21 lakh net in India on its eighteenth day.",
-    "entities": {
-      "people": [
-        "Vijay Deverakonda",
-        "Rashmika Mandanna",
-        "Arnold Vosloo"
-      ],
-      "titles": [
-        "Ranabaali"
-      ]
-    },
-    "keywords": [
-      "Ranabaali box office collection",
-      "Vijay Deverakonda Ranabaali film",
-      "Ranabaali day 18 earnings",
-      "Ranabaali worldwide gross"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135477513,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ranabaali Box Office Collection Day 18: Vijay Deverakonda Film Nears Budget Recovery As Worldwide Gross Hits Rs 80.27 Cr",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T05:38:55+05:30"
-  },
-  "kjsjj4": {
-    "id": "kjsjj4",
-    "type": "news",
-    "headline": "Avengers: Doomsday Surpasses Supergirl in Presales Weeks Before Premiere",
-    "dek": "Marvel's upcoming blockbuster has already pulled in massive advance ticket revenue, nearing the total lifetime theatrical earnings of DC Studios' Supergirl ahead of its December premiere.",
-    "entities": {
-      "people": [
-        "Chris McPherson",
-        "Robert Downey Jr.",
-        "Taylor Sheridan",
-        "Milly Alcock",
-        "Kara Zor-El",
-        "Tom Holland",
-        "Matt Murdock"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Supergirl",
-        "Bosch",
-        "Mission: Impossible",
-        "Yellowstone",
-        "Gilmore Girls",
-        "Silo",
-        "Spider-Man: Brand New Day",
-        "Civil War",
-        "No Way Home"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday",
-      "Supergirl box office",
-      "Avengers Doomsday presales",
-      "Robert Downey Jr Marvel"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/avengers-doomsday-yelena-belova-florence-pugh-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Avengers: Doomsday Surpasses Supergirl in Presales Weeks Before Premiere",
-        "source": "Collider"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 00:00:12 GMT"
   },
   "1oesgxu": {
     "id": "1oesgxu",
