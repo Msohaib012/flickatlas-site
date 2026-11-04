@@ -39,7 +39,7 @@
      is absent, and to {} when neither loaded: the article-dependent
      rails then degrade (thumbnail-less news cards, no episode rail)
      without breaking the other rails. */
-  const HOME_ARTICLES = window.FA_HOME_ARTICLES || window.FA_ARTICLES || {};
+  let HOME_ARTICLES = window.FA_HOME_ARTICLES || window.FA_ARTICLES || {};
   /* Audit fix: the outer catch used to wipe the whole rendered homepage
      whenever a post-render step threw. `rendered` tracks whether the page
      is already on screen — once it is, a wiring failure is non-fatal. */
@@ -236,13 +236,47 @@
     };
     const hasKind = (kind) => publishedFor(kind, "bollywood").length > 0 || publishedFor(kind, "international").length > 0;
 
+    /* Rail build isolation (2026-11-04): every homepage section's
+       HTML is built through safeRail, so one section's bad datum (a
+       malformed published entry, a half-loaded data global) can no
+       longer throw the whole homepage into the outer catch — the
+       failing section renders nothing and every later section still
+       builds. Mirrors the per-step guards already used in the wiring
+       phase below. */
+    const safeRail = (name, build) => {
+      try { return build() || ""; } catch (e) {
+        try { console.warn("FlickAtlas homepage rail failed:", name, e); } catch (_) {}
+        return "";
+      }
+    };
+    /* One-shot data-script reload (the dcc4cc4a OTT pattern): appends
+       the script again with a retry parameter — which bypasses the
+       immutable cache entry of a failed/empty first response — and
+       runs the callback when the attempt settles (load OR error;
+       the callback itself checks whether the global actually
+       arrived). One attempt only; any failure leaves the current
+       rendering untouched. */
+    const reloadDataScript = (file, param, onSettle) => {
+      try {
+        const srcEl = document.querySelector(`script[src*="${file}"]`);
+        const base = srcEl ? srcEl.src : `/js/${file}`;
+        const s = document.createElement("script");
+        s.src = base + (base.includes("?") ? "&" : "?") + param + "=1";
+        const settle = () => { try { onSettle(); } catch (_) {} };
+        s.onload = settle;
+        s.onerror = settle;
+        document.head.appendChild(s);
+      } catch (_) { /* current rendering stays as-is */ }
+    };
+
     /* ---------- HERO = five latest currently-running Indian films only.
        UI.industryOf(x)==="bollywood" is the site's all-Indian-cinema
        classification (Hindi, Tamil, Telugu and other Indian languages),
        not a Hindi-only filter. Keep the existing release freshness and
        streaming-only exclusions; never fill a slot with a non-Indian
        title. ---------- */
-    const dwData = window.FA_DAYWISE || {};
+    let dwData = window.FA_DAYWISE || {};
+    const heroHtml = safeRail("hero", () => {
     const heroPool = pubAll()
       .filter(x => x && typeOf(x) === "movie" && x.poster_path && isReleased(x)
         && UI.industryOf(x) === "bollywood" && UI.isFresh(x) && !UI.isStreamingOnly(x))
@@ -306,11 +340,12 @@
         </div>
       </div>`;
     };
-    const heroHtml = heroSlides.length ? `<section class="hero" data-sec="hero"><div class="hero-carousel" id="heroCarousel">
+    return heroSlides.length ? `<section class="hero" data-sec="hero"><div class="hero-carousel" id="heroCarousel">
       ${heroSlides.map(heroSlideHtml).join("")}
       ${heroSlides.length > 1 ? `<div class="hero-dots">${heroSlides.map((_, i) =>
         `<button type="button" data-slide="${i}" class="${i === 0 ? " on" : ""}" aria-label="Show slide ${i + 1}"></button>`).join("")}</div>` : ""}
     </div></section>` : "";
+    });
 
     /* ---------- Bollywood block (leads the page; fix round 2, Bug F:
        Bollywood is FIRST and more than half the homepage — two full
@@ -336,10 +371,14 @@
       <div class="filter-select" role="group" aria-labelledby="${kind}IndLabel"><span id="${kind}IndLabel">Industry</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}IndTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}IndOptions" aria-labelledby="${kind}IndLabel ${kind}IndValue"><span class="fa-select-value" id="${kind}IndValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}IndOptions" role="listbox" aria-labelledby="${kind}IndLabel" hidden></div></div></div>
       ${withType ? `<div class="filter-select" role="group" aria-labelledby="${kind}TypeLabel"><span id="${kind}TypeLabel">Type</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="${kind}TypeTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="${kind}TypeOptions" aria-labelledby="${kind}TypeLabel ${kind}TypeValue"><span class="fa-select-value" id="${kind}TypeValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="${kind}TypeOptions" role="listbox" aria-labelledby="${kind}TypeLabel" hidden></div></div></div>` : ""}
     </div>`;
+    const bollyHtml = safeRail("spotlight", () => {
     const bollyReleased = publishedFor("spotlight", "bollywood", "movie");
-    const bollyHtml = hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
+    return hasKind("spotlight") ? `<section class="section" data-sec="bollywood-spotlight" id="homeSpotlight"><div class="section-head"><h2>Spotlight</h2><a class="see-all" href="/movies?f=bollywood&seeall=1">See All →</a></div>${homeFilterRow("spotlight", false)}<div class="scroller" data-results>${bollyReleased.map(x => UI.posterCard(x, typeOf(x), "", undefined, undefined, true)).join("")}</div></section>` : "";
+    });
+    const bollySoonHtml = safeRail("coming-soon", () => {
     const bollySoon = publishedFor("soon", "bollywood", "movie").slice(0, HOME_LIMITS.soon);
-    const bollySoonHtml = hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood&s=oldest">See All →</a></div>${homeFilterRow("soon", false)}<div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
+    return hasKind("soon") ? `<section class="section" data-sec="bollywood-soon" id="homeSoon"><div class="section-head"><h2>Coming Soon &amp; Most Awaited</h2><a class="see-all" href="/most-awaited?f=bollywood&s=oldest">See All →</a></div>${homeFilterRow("soon", false)}<div class="scroller" data-results>${bollySoon.map((x, i) => UI.posterCard(x, typeOf(x), "", i + 1, undefined, true)).join("")}</div></section>` : "";
+    });
 
     /* ---------- Lollywood: every published Pakistani movie released in
        the current calendar year, newest first. No freshness fallback or
@@ -373,6 +412,7 @@
        title qualifies, the rail is honestly all-world.
        The See All pool (js/page-movies.js trendingPool) mirrors this
        exact construction with a cap of 6 — keep the two in sync. --- */
+    const trendingHtml = safeRail("trending", () => {
     const trendingIds = Array.isArray(window.FA_TRENDING) ? window.FA_TRENDING : [];
     const trendingTop20 = [...new Set(trendingIds.slice(0, 20).map(String))];
     const trendingWorld = trendingTop20
@@ -414,9 +454,10 @@
         if (n && !seenT.has(String(n.id))) { seenT.add(String(n.id)); trendingEntries.push(n); }
       }
     }
-    const trendingHtml = rowSection("Trending Worldwide", "/movies?f=trending&seeall=1",
+    return rowSection("Trending Worldwide", "/movies?f=trending&seeall=1",
       trendingEntries.length ? `<div class="scroller">${trendingEntries.map((x, i) => UI.posterCard(x, "movie", tagFor(x), i + 1)).join("")}</div>` : "",
       "mixed-trending");
+    });
     /* Trending Searches: the feed itself is a published file
        (/api/trends); the context pools are published titles only, and
        no TMDB lookup runs — enrichment is skipped. */
@@ -436,11 +477,20 @@
        figure; a world card shows a verified worldwide figure or
        "Not reported". ---------- */
     const HomeBoxOffice = window.FAHomeBoxOffice;
-    const boxOfficeSnapshot = HomeBoxOffice
+    let boxOfficeSnapshot = HomeBoxOffice
       ? HomeBoxOffice.safeSnapshot(await homeBoxOfficeSnapshotPromise)
       : { schema_version: 1, selections: { bollywood: [], world: [] }, reports: {} };
     const boxOfficeWorldwide = window.FA_WORLDWIDE || {};
     const boxOfficeRates = typeof FA_RATES !== "undefined" ? FA_RATES : { USD: 1 };
+    /* Box Office rail builder — a named function (not inline code)
+       so the slow-connection recovery in the wiring phase can rebuild
+       the rail after a late data-script load, exactly like the
+       initial build. boPoolFor / boCardHtml are reassigned on every
+       build, so the industry switcher always reads the latest pool. */
+    let boPoolFor = () => [];
+    let boCardHtml = () => "";
+    const buildBoxOffice = () => {
+    if (window.FA_DAYWISE) dwData = window.FA_DAYWISE;
     const boSelection = HomeBoxOffice
       ? HomeBoxOffice.selectionForDisplay(pubAll(), dwData, boxOfficeWorldwide, boxOfficeSnapshot,
         today, todayIST, UI, boxOfficeRates, HOME_LIMITS.boxoffice)
@@ -460,9 +510,9 @@
        separate renderer and stays newest first with all titles. Sorting
        here covers both the initial render and the industry switcher, which
        both draw from this pool. */
-    const boPoolFor = (industry) => [...(boSelection[industry === "international" ? "world" : "bollywood"] || [])]
+    boPoolFor = (industry) => [...(boSelection[industry === "international" ? "world" : "bollywood"] || [])]
       .sort((a, b) => String(a.release_date || "9999-12-31").localeCompare(String(b.release_date || "9999-12-31")));
-    const boCardHtml = (entry, bucket) => {
+    boCardHtml = (entry, bucket) => {
       const id = String(entry.id);
       const rows = dwData[id] || [];
       const explicitTotal = boxOfficeWorldwide[id];
@@ -576,13 +626,15 @@
     const advHtml = advEntries.length ? `<div class="ott-group"><h3>Advance Booking</h3>
       ${advEntries.map(({ entry, total, rel, scope }) => `<a class="tl-row" href="/movie?id=${encodeURIComponent(entry.id)}"><span class="tl-date"><b>${parseInt(rel.slice(8, 10), 10)}</b><span>${ADV_MONTHS[parseInt(rel.slice(5, 7), 10) - 1]}</span></span><img src="${UI.img(entry.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(entry))}</b><span>Advance so far · ${UI.fmtMoney(total)}${scope ? ` · ${UI.esc(scope)}` : ""}</span></span><span class="tag-chip">Releases ${UI.esc(UI.fmtDate(rel))}</span></a>`).join("")}
     </div>` : "";
-    const boHtml = (boHasKind || advEntries.length) ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
+    return (boHasKind || advEntries.length) ? `<section class="section" data-sec="box-office" id="homeBoxOffice">
       <div class="section-head"><h2>Box Office</h2>
       <a class="see-all" href="/box-office?f=bollywood">See All →</a></div>
       ${boHasKind ? `${switchButtons("boxoffice")}
       <div data-results>${boPicks.length ? boPicks.map(entry => boCardHtml(entry, "bollywood")).join("") : '<p role="status">No eligible theatrical releases found.</p>'}</div>` : ""}
       ${advHtml}
     </section>` : "";
+    };
+    let boHtml = safeRail("box-office", buildBoxOffice);
 
     /* ---------- OTT (owner order 2026-10-27): the separate OTT
        section — Now on OTT + Coming to OTT, from window.FA_OTT
@@ -694,26 +746,28 @@
     let ottRerender = null;
     const ottHasKind = ["bollywood", "international"].some(ind =>
       ottFor("now", ind).length > 0 || ottFor("coming", ind).length > 0);
-    const ottHtml = ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
+    const ottHtml = safeRail("ott", () => ottHasKind ? `<section class="section" data-sec="ott" id="homeOtt">
       <div class="section-head"><h2>OTT</h2>
       <a class="see-all" href="/ott?f=bollywood">See All →</a></div>
       ${homeFilterRow("ott")}
       <div class="ott-group"><h3>Now on OTT</h3><div class="scroller" data-results="now">${ottRailHtml(ottFor("now", "bollywood", "movie"), false)}</div></div>
       <div class="ott-group"><h3>Coming to OTT</h3><div class="scroller" data-results="coming">${ottRailHtml(ottFor("coming", "bollywood", "movie"), true)}</div></div>
-    </section>` : "";
+    </section>` : "");
 
     /* ---------- coming soon: a DAILY release calendar over the
        published upcoming titles — nearest date first, first 6 rows. ----- */
     const MONTHS_S = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
     const calendarRow = (x, type, date) => { const [, mm, dd] = date.split("-"); return `<a class="tl-row" href="/${type === "tv" ? "show" : "movie"}?id=${x.id}"><span class="tl-date"><b>${parseInt(dd, 10)}</b><span>${MONTHS_S[parseInt(mm, 10) - 1]}</span></span><img src="${UI.img(x.poster_path, "w92")}" alt="" loading="lazy" onerror="this.remove()"><span class="tl-info"><b>${UI.esc(UI.titleOf(x))}</b><span>${type === "tv" ? "Premieres " : ""}${UI.fmtDate(date)}${UI.rating(x) ? ` · ${UI.rating(x)}/10` : ""}</span></span><span class="tag-chip">${UI.esc(tagFor(x))}</span></a>`; };
+    const upHtml = safeRail("release-calendar", () => {
     const upList = publishedFor("calendar", "bollywood").slice(0, HOME_LIMITS.calendar);
-    const upHtml = hasKind("calendar") ? `<section class="section" data-sec="coming-soon" id="homeCalendar">
+    return hasKind("calendar") ? `<section class="section" data-sec="coming-soon" id="homeCalendar">
       <div class="section-head"><h2>Coming Soon — Release Calendar</h2>
       <a class="see-all" href="/upcoming?f=bollywood&s=oldest&seeall=1">See All →</a></div>
       ${switchButtons("calendar")}
       <div class="tl-list" data-results>
         ${upList.length ? upList.map(x => calendarRow(x, typeOf(x), dateOf(x))).join("") : '<p role="status">No confirmed releases found in this window.</p>'}
       </div></section>` : "";
+    });
 
     /* ---------- Trending News (§2.7): the SAME feed /news renders
        (/api/news), first 7 headlines (9 on desktop — homeNewsLimit),
@@ -943,10 +997,10 @@
     };
 
     /* ---------- Lollywood: all Pakistani movies released this year. ---------- */
-    const lollyHtml = lollyLatest.length ? `<section class="section" data-sec="lollywood">
+    const lollyHtml = safeRail("lollywood", () => lollyLatest.length ? `<section class="section" data-sec="lollywood">
       <div class="section-head"><h2>Lollywood — Pakistani movies released in ${currentYear}</h2>
       <a class="see-all" href="/movies?f=lollywood&amp;y=${currentYear}&amp;s=recent">See All →</a></div>
-      <div class="scroller">${lollyLatest.map(x => UI.posterCard({ ...x, release_date: dateOf(x) }, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "";
+      <div class="scroller">${lollyLatest.map(x => UI.posterCard({ ...x, release_date: dateOf(x) }, typeOf(x), typeOf(x) === "tv" ? "Pakistani Drama" : "Pakistani Film")).join("")}</div></section>` : "");
 
     /* Drama episodes (user order 2026-10-26, LIST format 21:37 PKT):
        a VERTICAL LIST — NOT poster cards and NOT a slider. One row per
@@ -1096,14 +1150,16 @@
       }
       return `${t.count} episode${t.count === 1 ? "" : "s"}${airing ? " · Still airing" : ""}`;
     };
+    const pkDramasHtml = safeRail("pakistani-dramas", () => {
     const pkDramas = pubAll()
       .filter(x => x && x.poster_path && typeOf(x) === "tv" && UI.industryOf(x) === "pakistani")
       .filter(x => !trackerLoaded || isAiringKey(canonDramaKey(UI.titleOf(x))))
       .sort(byNewest);
-    const pkDramasHtml = pkDramas.length ? `<section class="section" id="homeDramas" data-sec="pk-drama-list">
+    return pkDramas.length ? `<section class="section" id="homeDramas" data-sec="pk-drama-list">
       <div class="section-head"><h2>Pakistani Dramas</h2>
       <a class="see-all" href="/dramas">See All →</a></div>
       <div class="scroller">${pkDramas.slice(0, HOME_LIMITS.dramas).map(x => UI.posterCard(x, "tv", "Pakistani Drama", null, epMetaFor(x))).join("")}</div></section>` : "";
+    });
 
     /* Drama identity of an episode article (same headline parsing as
        js/page-guides.js: "<Drama> Episode <N> — Watch on <channel>"
@@ -1127,6 +1183,16 @@
       const pub = pkByKey[key];
       return { key, name: pub ? UI.titleOf(pub) : raw };
     };
+    /* Drama Episodes rail builder — a named function so the
+       slow-connection recovery in the wiring phase can rebuild the
+       rail when home-articles-data.js arrives late (the initial
+       build then saw an empty HOME_ARTICLES and rendered no rail).
+       epAiring / epDramaOptions are reassigned on every build; the
+       drama filter wiring reads them at call time. */
+    let epAiring = [];
+    let epDramaOptions = [];
+    const buildEpRail = () => {
+    if (window.FA_HOME_ARTICLES || window.FA_ARTICLES) HOME_ARTICLES = window.FA_HOME_ARTICLES || window.FA_ARTICLES || {};
     const epArticles = Object.values(HOME_ARTICLES)
       .filter(a => a && a.id && /watch (?:online )?on\b/i.test(a.headline || "") && a.published)
       .sort((a, b) => (Date.parse(b.published || "") || 0) - (Date.parse(a.published || "") || 0) || String(a.id || "").localeCompare(String(b.id || "")));
@@ -1144,14 +1210,14 @@
        or not the tracker loaded (identity, not airing); headlines
        that cannot be parsed stay (fail-open guard). */
     const epListed = epArticles.filter(a => { const d = dramaOfArticle(a); return !d || pkByKey[d.key]; });
-    const epAiring = trackerLoaded
+    epAiring = trackerLoaded
       ? epListed.filter(a => { const d = dramaOfArticle(a); return !d || isAiringKey(d.key); })
       : epListed;
     const epLatest = epAiring.slice(0, HOME_LIMITS.dramas);
     /* Drama filter options: the dramas that have (airing) episodes in
        this rail, A–Z like /episode-guides. "All Dramas" is added at
        mount time. */
-    const epDramaOptions = (() => {
+    epDramaOptions = (() => {
       const seen = new Map();
       for (const a of epAiring) {
         const d = dramaOfArticle(a);
@@ -1166,11 +1232,13 @@
       return [...seen.entries()].map(([value, label]) => ({ value, label }))
         .sort((x, y) => x.label.localeCompare(y.label));
     })();
-    const pkRailHtml = epLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
+    return epLatest.length ? `<section class="section" id="homePk" data-sec="pk-dramas">
       <div class="section-head"><h2><a href="/episode-guides" style="color:inherit">Drama Episodes</a></h2>
       <a class="see-all" href="/episode-guides">See All →</a></div>
       <div id="homePkFilter"></div>
       <div class="tl-list" id="homePkList">${epLatest.map(a => episodeRow(a)).join("")}</div></section>` : "";
+    };
+    let pkRailHtml = safeRail("drama-episodes", buildEpRail);
 
     /* ---------- Awards strip REMOVED (owner order 2026-10-27):
        the homepage awards strip is gone entirely. The Awards
@@ -1347,7 +1415,7 @@
     /* Drama Episodes filter (user order 2026-10-27): the same custom
        in-page .fa-select dropdown as /episode-guides — never a native
        <select>. Filters the homepage episode rows by drama. */
-    try {
+    const wirePkFilter = () => {
       const pkFilterHost = document.getElementById("homePkFilter");
       const pkListHost = document.getElementById("homePkList");
       if (pkFilterHost && pkListHost && epDramaOptions.length) {
@@ -1359,7 +1427,80 @@
             pkListHost.innerHTML = list.slice(0, HOME_LIMITS.dramas).map(a => episodeRow(a)).join("");
           });
       }
-    } catch (_) { /* filter unavailable — rows stay unfiltered */ }
+    };
+    try { wirePkFilter(); } catch (_) { /* filter unavailable — rows stay unfiltered */ }
+    /* Box Office + Drama Episodes data recovery (2026-11-04): both
+       rails died silently on the owner's slow connection while the
+       data on the server was complete — a stalled data script left
+       the global empty (daywise-data.js / home-boxoffice.js for Box
+       Office, home-articles-data.js for Drama Episodes) and the
+       build above honestly rendered nothing. Same one-shot pattern
+       as the OTT recovery (dcc4cc4a): reload each missing script
+       once with a retry parameter; when the reloads settle, rebuild
+       the rail from the real data and swap the section in. Any
+       failure leaves the initial rendering untouched. */
+    const wireHealedBoxOffice = (section) => {
+      const group = section && section.querySelector("[data-switcher]");
+      if (!group) return;
+      const result = section.querySelector("[data-results]");
+      const link = section.querySelector(".see-all");
+      group.addEventListener("click", (ev) => {
+        const btn = ev.target.closest("button[data-industry]");
+        if (!btn) return;
+        const industry = btn.dataset.industry;
+        group.querySelectorAll("button").forEach(b => { const on = b.dataset.industry === industry; b.setAttribute("aria-pressed", String(on)); b.classList.toggle("active", on); });
+        if (link) link.href = `/box-office?f=${industry}`;
+        const items = boPoolFor(industry).slice(0, HOME_LIMITS.boxoffice);
+        if (result) result.innerHTML = items.length ? items.map(entry => boCardHtml(entry, industry === "international" ? "world" : "bollywood")).join("") : '<p role="status">No eligible theatrical releases found.</p>';
+      });
+    };
+    const boMissingDaywise = !window.FA_DAYWISE;
+    const boMissingHelper = !window.FAHomeBoxOffice;
+    if (boMissingDaywise || boMissingHelper) {
+      let boHealPending = (boMissingDaywise ? 1 : 0) + (boMissingHelper ? 1 : 0);
+      const boHealSettle = async () => {
+        if (--boHealPending > 0) return;
+        try {
+          const HB = window.FAHomeBoxOffice;
+          if (!HB && !window.FA_DAYWISE) return;
+          if (HB && boMissingHelper && typeof HB.loadSnapshot === "function") {
+            try { boxOfficeSnapshot = HB.safeSnapshot(await HB.loadSnapshot()); } catch (_) { /* keep the build-time snapshot */ }
+          }
+          const html = safeRail("box-office", buildBoxOffice);
+          if (!html) return;
+          boHtml = html;
+          const old = document.getElementById("homeBoxOffice");
+          if (old) { old.outerHTML = html; }
+          else {
+            const anchor = document.getElementById("homeOtt") || document.getElementById("homeSoon");
+            const wrap = main.querySelector(".wrap");
+            if (anchor) anchor.insertAdjacentHTML(anchor.id === "homeOtt" ? "beforebegin" : "afterend", html);
+            else if (wrap) wrap.insertAdjacentHTML("beforeend", html);
+          }
+          /* The generic [data-switcher] wiring ran before this
+             section existed (or held its old node) — wire the new
+             section's tab switcher directly. */
+          wireHealedBoxOffice(document.getElementById("homeBoxOffice"));
+        } catch (_) { /* initial rendering stays as-is */ }
+      };
+      if (boMissingDaywise) reloadDataScript("daywise-data.js", "daywiseRetry", boHealSettle);
+      if (boMissingHelper) reloadDataScript("home-boxoffice.js", "homeBoxOfficeRetry", boHealSettle);
+    }
+    if (!Object.keys(HOME_ARTICLES).length) {
+      reloadDataScript("home-articles-data.js", "homeArticlesRetry", () => {
+        const fresh = window.FA_HOME_ARTICLES || window.FA_ARTICLES;
+        if (!fresh || !Object.keys(fresh).length) return;
+        if (document.getElementById("homePk")) return;
+        const html = safeRail("drama-episodes", buildEpRail);
+        if (!html) return;
+        /* The rail is the last section of the homepage splice, so
+           appending to the wrap restores its usual position. */
+        const wrap = main.querySelector(".wrap");
+        if (wrap) wrap.insertAdjacentHTML("beforeend", html);
+        try { wirePkFilter(); } catch (_) { /* rows stay unfiltered */ }
+      });
+    }
+
 
     try {
       /* trending-searches.js reads window.FA_ARTICLES directly; the
