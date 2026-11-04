@@ -52161,5 +52161,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 03:33:27 +0000"
+  },
+  "46brhz": {
+    "id": "46brhz",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh Daggubati Film Nears Rs 60 Crore Worldwide",
+    "dek": "Venkatesh Daggubati's Telugu action-comedy drama Aadarsha Kutumbam House No: 47 approaches the Rs 60 crore worldwide gross milestone after completing five days in cinemas.",
+    "body": [
+      {
+        "h": "Introduction and Opening Weekend",
+        "p": [
+          "Venkatesh Daggubati's latest cinematic outing, Aadarsha Kutumbam House No: 47, arrived in theatres on October 30. The Telugu action-comedy drama immediately commanded attention at the box office, riding a wave of anticipation through its initial opening weekend.",
+          "During its first few days, the film registered strong numbers across domestic screens, laying a solid foundation for its theatrical run before entering the weekday schedule."
+        ]
+      },
+      {
+        "h": "Day 5 Domestic Performance",
+        "p": [
+          "After completing five days in cinemas, the film experienced another numerical drop in its domestic collections on Tuesday, November 3. Box office tracking website Sacnilk reported that the venture brought in an estimated Rs 2.60 crore net within India on its fifth day.",
+          "This latest figure reflects a 23.5% decline when compared to the earnings recorded on Monday. Nonetheless, the domestic net collection now totals Rs 37.40 crore, while the India gross stands at Rs 43.85 crore."
+        ]
+      },
+      {
+        "h": "Occupancy and Ticket Sales",
+        "p": [
+          "On its fifth theatrical day, Aadarsha Kutumbam House No: 47 maintained an estimated 21.1% occupancy spread across 2,962 active shows. Audience turnout remained steady enough to push ticket sales forward.",
+          "Approximately 2.16 lakh tickets were purchased by moviegoers on Tuesday alone. This single-day tally elevates the estimated total ticket sales to 25.96 lakh since the film premiered."
+        ]
+      },
+      {
+        "h": "Worldwide Gross and Global Milestone",
+        "p": [
+          "Beyond domestic borders, the film also drew revenue from international territories, contributing to its overall global standing. Overseas markets generated an estimated Rs 50 lakh on Day 5, bringing the cumulative overseas gross collection to approximately Rs 15.10 crore.",
+          "When combining domestic and international earnings, the worldwide gross for Aadarsha Kutumbam House No: 47 reaches an estimated Rs 58.95 crore after five days, placing the project within touching distance of the Rs 60 crore worldwide milestone."
+        ]
+      },
+      {
+        "h": "Day-Wise Collection Breakdown",
+        "p": [
+          "A detailed look at the daily earnings shows a stellar opening followed by predictable weekday cooling. The feature earned Rs 9.75 crore net on its opening day, which then climbed to Rs 10.40 crore on Saturday.",
+          "Sunday marked the highest single-day collection of the run thus far at Rs 11.25 crore net. However, Monday brought a shift as figures dropped to Rs 3.40 crore before easing further to Rs 2.60 crore on Tuesday."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "Written and directed by Trivikram Srinivas, the Telugu action-comedy drama features Venkatesh Daggubati and Srinidhi Shetty as the leading pair. The supporting ensemble features Nara Rohith, Nivetha Pethuraj, Yuvina Parthavi, Rao Ramesh, Vennela Kishore, Brahmaji, Satya, and Raghu Babu.",
+          "S. Radha Krishna produced the film under the Haarika & Hassine Creations banner, with a technical crew featuring composer S. Thaman, cinematographer Ravi K. Chandran, and editor Navin Nooli."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Venkatesh Daggubati's Aadarsha Kutumbam House No: 47 has collected an estimated Rs 2.60 crore net domestically on its fifth day, bringing its total domestic net to Rs 37.40 crore. With worldwide gross earnings now standing at an estimated Rs 58.95 crore, the Trivikram Srinivas directorial is on the verge of crossing the Rs 60 crore global milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: October 30",
+      "Day 5 date: Tuesday, November 3",
+      "Day 5 India net collection: Rs 2.60 crore",
+      "Total domestic net collection: Rs 37.40 crore",
+      "Total India gross collection: Rs 43.85 crore",
+      "Day 5 overseas collection: Rs 50 lakh",
+      "Cumulative overseas gross collection: Rs 15.10 crore",
+      "Worldwide gross collection: Rs 58.95 crore",
+      "Opening day net collection: Rs 9.75 crore",
+      "Saturday net collection: Rs 10.40 crore",
+      "Sunday net collection: Rs 11.25 crore",
+      "Monday net collection: Rs 3.40 crore",
+      "Day 5 ticket sales: 2.16 lakh tickets",
+      "Total ticket sales: 25.96 lakh tickets",
+      "Day 5 occupancy: 21.1%",
+      "Day 5 shows: 2,962 shows"
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh Daggubati",
+        "Trivikram Srinivas",
+        "Srinidhi Shetty",
+        "Nara Rohith",
+        "Nivetha Pethuraj",
+        "Yuvina Parthavi",
+        "Rao Ramesh",
+        "Vennela Kishore",
+        "Brahmaji",
+        "Satya",
+        "Raghu Babu",
+        "S. Radha Krishna",
+        "S. Thaman",
+        "Ravi K. Chandran",
+        "Navin Nooli"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No 47",
+      "Venkatesh Daggubati",
+      "Trivikram Srinivas",
+      "Aadarsha Kutumbam House No 47 box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aadarshakutumbam-20611793761529.jpg",
+        "caption": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh Daggubati Film Nears Rs 60 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 08:36:57 +0530"
+  },
+  "1raho4j": {
+    "id": "1raho4j",
+    "type": "news",
+    "headline": "Na Hong Jin's Hope Breaks French Opening Records for Korean Cinema in 2026",
+    "dek": "The sci-fi thriller directed by Na Hong Jin secured massive numbers on its debut across France and Belgium, building on strong early momentum from Cannes.",
+    "body": [
+      {
+        "h": "Record-Breaking Debut in France",
+        "p": [
+          "The sci-fi thriller Hope has officially established a new benchmark for Korean cinema in France for the year 2026. Distributed widely across the country, the feature made a massive splash on its initial release date.",
+          "Production company Forged Films reported that the project secured an impressive screen count for its launch, bringing in substantial earnings right out of the gate and outperforming competing titles from the region."
+        ]
+      },
+      {
+        "h": "Screen Counts and Day One Earnings",
+        "p": [
+          "On October 28, the film launched across 192 screens throughout France. By the end of its first day in theaters, it had accumulated approximately $800,000.",
+          "This financial milestone marks the highest opening-day gross recorded by any Korean motion picture entering the French theatrical market during this calendar year."
+        ]
+      },
+      {
+        "h": "Strong Momentum in Paris",
+        "p": [
+          "The feature maintained its powerful trajectory as the first weekend approached. By October 31, it captured the No. 2 position at the competitive Paris box office.",
+          "Industry observers note that Paris remains a crucial territory, traditionally representing roughly 31 percent of the total box office revenue generated across all of France."
+        ]
+      },
+      {
+        "h": "Impressive Expansion Into Belgium",
+        "p": [
+          "Beyond French borders, the production also found a warm reception in neighbouring Belgium. It premiered on 38 screens in the country, pulling in a solid $64,000.",
+          "This particular opening figure easily outpaced the Belgian theatrical launches achieved by previous acclaimed Korean works, including Decision to Leave in 2022 and Burning in 2018."
+        ]
+      },
+      {
+        "h": "Global Appeal and Festival Origins",
+        "p": [
+          "A representative for the project noted that these European box office figures highlight the sustained international curiosity surrounding the feature. This global attention has followed the title ever since its premiere in competition at the 79th Cannes Film Festival.",
+          "The high-profile festival debut laid a strong foundation for the film's current theatrical rollout across international territories."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "The narrative unfolds in Hopo Port, an isolated harbor village situated near the Demilitarized Zone. Tension grips the community after young locals report spotting a tiger, putting the entire town on high alert.",
+          "The chief of the local police outpost soon finds himself confronting an unbelievable reality as the mysterious events in the village escalate."
+        ]
+      },
+      {
+        "h": "Star-Studded International Cast",
+        "p": [
+          "The film boasts a notable ensemble cast featuring prominent South Korean actors alongside well-known international stars. The roster includes Hwang Jung Min, Zo In Sung, and Jung Ho Yeon.",
+          "They are joined by Taylor Russell, Cameron Britton, Alicia Vikander, and Michael Fassbender, bringing a diverse blend of talent to the production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Na Hong Jin's sci-fi thriller Hope opened across 192 screens in France on October 28, earning about $800,000 to set a 2026 opening-day record for a Korean film in the country. The feature also performed strongly in Belgium and maintained momentum following its competition premiere at the 79th Cannes Film Festival."
+        ]
+      }
+    ],
+    "facts": [
+      "Na Hong Jin directed Hope",
+      "Hope opened on October 28, 2026",
+      "The film debuted on 192 screens in France",
+      "First day earnings in France were about $800,000",
+      "Ranked No. 2 at the Paris box office on October 31, 2026",
+      "Paris accounts for about 31 percent of France's total box office revenue",
+      "Opened on 38 screens in Belgium",
+      "Belgian gross was about $64,000",
+      "Premiered in competition at the 79th Cannes Film Festival",
+      "Set in Hopo Port, a remote harbor village near the DMZ",
+      "Cast includes Hwang Jung Min, Zo In Sung, Jung Ho Yeon, Taylor Russell, Cameron Britton, Alicia Vikander, and Michael Fassbender"
+    ],
+    "entities": {
+      "people": [
+        "Na Hong Jin",
+        "Park Chan Wook",
+        "Lee Chang Dong",
+        "Hwang Jung Min",
+        "Zo In Sung",
+        "Jung Ho Yeon",
+        "Taylor Russell",
+        "Cameron Britton",
+        "Alicia Vikander",
+        "Michael Fassbender"
+      ],
+      "titles": [
+        "Hope",
+        "Decision to Leave",
+        "Burning"
+      ]
+    },
+    "keywords": [
+      "Hope film France",
+      "Na Hong Jin Hope",
+      "Hwang Jung Min Hope",
+      "Hope Korean film box office"
+    ],
+    "images": [],
+    "published": "Wed, 04 Nov 2026 03:42:22 +0000"
+  },
+  "rnc55j": {
+    "id": "rnc55j",
+    "type": "news",
+    "headline": "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
+    "dek": "The upcoming third instalment of the popular franchise faces fresh uncertainty following creative disagreements and leadership departures.",
+    "body": [
+      {
+        "h": "Project Uncertainty Surrounds Franchise",
+        "p": [
+          "The third instalment in the popular franchise headlined by Akshay Kumar appears to be encountering fresh obstacles during its development phase. Reports indicate that the production team and the creative leadership are currently navigating a significant reset.",
+          "This shift comes after multiple internal discussions failed to produce a unified strategy for taking the upcoming motion picture forward."
+        ]
+      },
+      {
+        "h": "Creative Disagreements and Vision Clashes",
+        "p": [
+          "According to industry sources, the differences between the makers and the creative team extended across multiple core elements of the venture. Disagreements reportedly touched upon the screenplay, potential lead casting decisions, and the proposed release strategy.",
+          "Despite holding several rounds of dialogue, both sides proved unable to establish a shared vision for the undertaking."
+        ]
+      },
+      {
+        "h": "Casting Speculation and Changes",
+        "p": [
+          "Earlier developments had generated considerable interest when reports suggested that Rani Mukerji was under consideration for the primary role. The franchise has traditionally favoured pairing mainstream actors with socially relevant, humorous, and courtroom-driven narratives.",
+          "However, that association did not materialise. Reports later indicated that she stepped away following creative differences, prompting the producers to re-evaluate their casting choices and stabilise the production plan."
+        ]
+      },
+      {
+        "h": "Significance of the Director's Departure",
+        "p": [
+          "The reported exit of Amit Rai marks a notable turning point for the production, given his previous association with the series. He directed the 2023 release that successfully brought the franchise back to cinema halls after more than a decade.",
+          "That previous venture successfully combined satire, emotional depth, and legal courtroom drama to address a sensitive social theme with Akshay Kumar in a central role."
+        ]
+      },
+      {
+        "h": "History and Legacy of the Brand",
+        "p": [
+          "The franchise originally established its footprint with a 2012 release that featured Paresh Rawal alongside Akshay Kumar. That initial project resonated widely by questioning religious exploitation through accessible humour and sharp commentary.",
+          "The subsequent instalment maintained the brand's focus on meaningful social debates through distinct narratives, setting high expectations for a third chapter."
+        ]
+      },
+      {
+        "h": "Current Status and Future Outlook",
+        "p": [
+          "As of now, the producers have chosen not to release an official statement regarding the reported departure of Amit Rai. Furthermore, no confirmed updates have been shared concerning the final cast, the shooting schedule, or the planned release window.",
+          "Until the makers provide clarity on their upcoming steps, the project remains in a transitional phase while searching for its ultimate creative direction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming third instalment of the franchise faces creative reset following the departure of director Amit Rai due to disagreements over the screenplay, release plan, and casting. These developments follow earlier reports of Rani Mukerji stepping away from the project, leaving the producers to finalise a new direction without an official statement yet."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar stars in the Oh My Goddess franchise.",
+      "Amit Rai directed OMG 2 in 2023.",
+      "OMG - Oh My God! was released in 2012 starring Paresh Rawal and Akshay Kumar.",
+      "Rani Mukerji was previously reported to be considered for the lead role before stepping away."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Amit Rai",
+        "Rani Mukerji",
+        "Paresh Rawal"
+      ],
+      "titles": [
+        "Oh My Goddess",
+        "OMG 2",
+        "OMG - Oh My God!"
+      ]
+    },
+    "keywords": [
+      "Oh My Goddess film",
+      "Akshay Kumar Oh My Goddess",
+      "Amit Rai OMG",
+      "Rani Mukerji Oh My Goddess"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/akshaykumaromg-35291793762146.jpg",
+        "caption": "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 08:47:38 +0530"
+  },
+  "3sk9r5": {
+    "id": "3sk9r5",
+    "type": "news",
+    "headline": "Massive LEGO Godzilla Set Scheduled for November Release Following Crowdsourcing Triumph",
+    "dek": "LEGO has officially revealed the release date and promotional details for its enormous Godzilla building set, timed alongside the arrival of Godzilla Minus Zero in Japanese theaters.",
+    "body": [
+      {
+        "h": "Introduction to the Massive LEGO Godzilla",
+        "p": [
+          "LEGO has officially pulled back the curtain on its upcoming Godzilla construction model, detailing its official launch schedule and offering collectors a comprehensive look at the finished display piece. Designed to mirror the iconic kaiju's terrifying realism, the towering creation stands at a remarkable height of 70 centimeters.",
+          "The newly announced build incorporates intricate details such as textured scaly skin and sharp physical features. This major product unveiling arrived right alongside celebrations for Happy Godzilla Day and the theatrical debut of Godzilla Minus Zero in Japan."
+        ]
+      },
+      {
+        "h": "Promotional Video and Launch Details",
+        "p": [
+          "To build excitement for the product launch, LEGO published a promotional video illustrating a woman carrying the oversized retail box through rainy streets before excitedly dumping the contents onto her living room table. The clip captures her fascination as she assembles the blocks and attaches the monster's signature atomic breath to the completed build.",
+          "Fans eager to acquire the colossal building set can purchase it starting November 27. The retail price for the massive collectible has been established at $449.99."
+        ]
+      },
+      {
+        "h": "Origins Through the LEGO Ideas Platform",
+        "p": [
+          "The design for this intricate Godzilla set originated from New York-based fan designer Matthew Esposito. He submitted the concept through the brand's community crowdsourcing platform, hoping to merge his long-standing passion for the brick-building hobby with his appreciation for the legendary movie monster.",
+          "Esposito highlighted the design process as a true labor of love, noting that crafting the head proved to be the most demanding hurdle during development. The submission ultimately garnered 10,000 supporters over a span of more than two years before gaining official approval."
+        ]
+      },
+      {
+        "h": "Background of Godzilla Minus Zero",
+        "p": [
+          "The arrival of the building set coincides with the theatrical release of Godzilla Minus Zero in Japan. Directed by filmmaker Takashi Yamazaki, the epic kaiju production is set in the year 1949 and follows the Shikishima family as they navigate fresh dangers following an earlier harrowing encounter with the monster.",
+          "The ensemble cast features a prominent lineup of actors, including Ryunosuke Kamiki, Minami Hamabe, Min Tanaka, Hidetaka Yoshioka, Masami Nagasawa, Yuki Yamada, Kuranosuke Sasaki, Jun Kunimura, Sakura Ando, Miou Tanaka, and Sae Nagatani."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "LEGO has announced the release date and promotional details for a massive 70-cm Godzilla building set designed by fan creator Matthew Esposito. Priced at $449.99, the model will be available on November 27, coinciding with the Japanese theatrical run of Godzilla Minus Zero directed by Takashi Yamazaki."
+        ]
+      }
+    ],
+    "facts": [
+      "The LEGO Godzilla set stands 70 cm tall.",
+      "The set will be available in stores on November 27, 2026.",
+      "The product is priced at $449.99.",
+      "The product idea was submitted by Matthew Esposito.",
+      "Godzilla Minus Zero is directed by Takashi Yamazaki and takes place in 1949.",
+      "The cast of Godzilla Minus Zero includes Ryunosuke Kamiki, Minami Hamabe, Min Tanaka, Hidetaka Yoshioka, Masami Nagasawa, Yuki Yamada, Kuranosuke Sasaki, Jun Kunimura, Sakura Ando, Miou Tanaka, and Sae Nagatani."
+    ],
+    "entities": {
+      "people": [
+        "Shazmeen Navrange",
+        "Matthew Esposito",
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Min Tanaka",
+        "Hidetaka Yoshioka",
+        "Masami Nagasawa",
+        "Yuki Yamada",
+        "Kuranosuke Sasaki",
+        "Jun Kunimura",
+        "Sakura Ando",
+        "Miou Tanaka",
+        "Sae Nagatani"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla"
+      ]
+    },
+    "keywords": [
+      "LEGO Godzilla set release date",
+      "Godzilla Minus Zero",
+      "Matthew Esposito LEGO",
+      "Takashi Yamazaki Godzilla"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-04-Nov-2026-08-57-AM-6227.jpg?resize=1200,630",
+        "caption": "Massive LEGO Godzilla Set Scheduled for November Release Following Crowdsourcing Triumph",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 03:31:41 +0000"
   }
 };

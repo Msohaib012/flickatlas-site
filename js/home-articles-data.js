@@ -37,6 +37,39 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 09:03:01 +0200"
   },
+  "1raho4j": {
+    "id": "1raho4j",
+    "type": "news",
+    "headline": "Na Hong Jin's Hope Breaks French Opening Records for Korean Cinema in 2026",
+    "dek": "The sci-fi thriller directed by Na Hong Jin secured massive numbers on its debut across France and Belgium, building on strong early momentum from Cannes.",
+    "entities": {
+      "people": [
+        "Na Hong Jin",
+        "Park Chan Wook",
+        "Lee Chang Dong",
+        "Hwang Jung Min",
+        "Zo In Sung",
+        "Jung Ho Yeon",
+        "Taylor Russell",
+        "Cameron Britton",
+        "Alicia Vikander",
+        "Michael Fassbender"
+      ],
+      "titles": [
+        "Hope",
+        "Decision to Leave",
+        "Burning"
+      ]
+    },
+    "keywords": [
+      "Hope film France",
+      "Na Hong Jin Hope",
+      "Hwang Jung Min Hope",
+      "Hope Korean film box office"
+    ],
+    "images": [],
+    "published": "Wed, 04 Nov 2026 03:42:22 +0000"
+  },
   "1tjd6wm": {
     "id": "1tjd6wm",
     "type": "news",
@@ -108,6 +141,123 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 03:33:27 +0000"
+  },
+  "3sk9r5": {
+    "id": "3sk9r5",
+    "type": "news",
+    "headline": "Massive LEGO Godzilla Set Scheduled for November Release Following Crowdsourcing Triumph",
+    "dek": "LEGO has officially revealed the release date and promotional details for its enormous Godzilla building set, timed alongside the arrival of Godzilla Minus Zero in Japanese theaters.",
+    "entities": {
+      "people": [
+        "Shazmeen Navrange",
+        "Matthew Esposito",
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Min Tanaka",
+        "Hidetaka Yoshioka",
+        "Masami Nagasawa",
+        "Yuki Yamada",
+        "Kuranosuke Sasaki",
+        "Jun Kunimura",
+        "Sakura Ando",
+        "Miou Tanaka",
+        "Sae Nagatani"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla"
+      ]
+    },
+    "keywords": [
+      "LEGO Godzilla set release date",
+      "Godzilla Minus Zero",
+      "Matthew Esposito LEGO",
+      "Takashi Yamazaki Godzilla"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-04-Nov-2026-08-57-AM-6227.jpg?resize=1200,630",
+        "caption": "Massive LEGO Godzilla Set Scheduled for November Release Following Crowdsourcing Triumph",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 03:31:41 +0000"
+  },
+  "rnc55j": {
+    "id": "rnc55j",
+    "type": "news",
+    "headline": "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
+    "dek": "The upcoming third instalment of the popular franchise faces fresh uncertainty following creative disagreements and leadership departures.",
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Amit Rai",
+        "Rani Mukerji",
+        "Paresh Rawal"
+      ],
+      "titles": [
+        "Oh My Goddess",
+        "OMG 2",
+        "OMG - Oh My God!"
+      ]
+    },
+    "keywords": [
+      "Oh My Goddess film",
+      "Akshay Kumar Oh My Goddess",
+      "Amit Rai OMG",
+      "Rani Mukerji Oh My Goddess"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/akshaykumaromg-35291793762146.jpg",
+        "caption": "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 08:47:38 +0530"
+  },
+  "46brhz": {
+    "id": "46brhz",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh Daggubati Film Nears Rs 60 Crore Worldwide",
+    "dek": "Venkatesh Daggubati's Telugu action-comedy drama Aadarsha Kutumbam House No: 47 approaches the Rs 60 crore worldwide gross milestone after completing five days in cinemas.",
+    "entities": {
+      "people": [
+        "Venkatesh Daggubati",
+        "Trivikram Srinivas",
+        "Srinidhi Shetty",
+        "Nara Rohith",
+        "Nivetha Pethuraj",
+        "Yuvina Parthavi",
+        "Rao Ramesh",
+        "Vennela Kishore",
+        "Brahmaji",
+        "Satya",
+        "Raghu Babu",
+        "S. Radha Krishna",
+        "S. Thaman",
+        "Ravi K. Chandran",
+        "Navin Nooli"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No 47",
+      "Venkatesh Daggubati",
+      "Trivikram Srinivas",
+      "Aadarsha Kutumbam House No 47 box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aadarshakutumbam-20611793761529.jpg",
+        "caption": "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh Daggubati Film Nears Rs 60 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 08:36:57 +0530"
   },
   "1cm41pv": {
     "id": "1cm41pv",
@@ -4615,158 +4765,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 00:00:12 GMT"
-  },
-  "ze3vtb": {
-    "id": "ze3vtb",
-    "type": "news",
-    "headline": "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana",
-    "dek": "Discover the staggering remuneration packages and unique profit-sharing deals of the principal cast for the much-anticipated mythological duology, Ramayana.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Namit Malhotra",
-        "Sai Pallavi",
-        "Nitesh Tiwari",
-        "Ravi Dubey",
-        "Sunny Deol",
-        "Rakul Preet Singh",
-        "Vivek Oberoi",
-        "Kunal Kapoor",
-        "Lara Dutta"
-      ],
-      "titles": [
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana star cast fees",
-      "Ranbir Kapoor Ramayana salary",
-      "Yash Ramayana profit sharing",
-      "Ramayana cast remuneration"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/11/02/2761346-ramayana-poster.jpg",
-        "caption": "Unveiling the Star-Studded Salaries of Nitesh Tiwari's Epic Cinematic Project Ramayana",
-        "source": "DNA India — Entertainment"
-      }
-    ],
-    "published": "2026-11-02T23:51:48Z"
-  },
-  "l5jyi8": {
-    "id": "l5jyi8",
-    "type": "news",
-    "headline": "The Housemaid Stage Adaptation Announced for 2027",
-    "dek": "Lionsgate confirms a theatrical stage version of the bestselling novel will debut at London's Richmond Theatre.",
-    "entities": {
-      "people": [
-        "Sydney Sweeney",
-        "Freida McFadden"
-      ],
-      "titles": [
-        "The Housemaid"
-      ]
-    },
-    "keywords": [
-      "The Housemaid stage play",
-      "Sydney Sweeney The Housemaid",
-      "Freida McFadden novel adaptation",
-      "Richmond Theatre London 2027"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/img_0750.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "The Housemaid Stage Adaptation Announced for 2027",
-        "source": "Collider"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 23:43:44 GMT"
-  },
-  "19rqpux": {
-    "id": "19rqpux",
-    "type": "news",
-    "headline": "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmobile",
-    "dek": "Production on the highly anticipated superhero sequel experienced an unexpected interruption when a cast member was struck by the iconic vehicle during action sequence recordings.",
-    "entities": {
-      "people": [
-        "Robert Pattinson",
-        "Matt Reeves",
-        "Steven Soderbergh",
-        "Heidi Klum",
-        "Brian Tyree Henry",
-        "Sebastian Stan",
-        "Colin Farrell",
-        "Andy Serkis",
-        "Jeffrey Wright",
-        "Scarlett Johansson"
-      ],
-      "titles": [
-        "The Batman Part II",
-        "Ocean's Eleven",
-        "The Batman: Part II"
-      ]
-    },
-    "keywords": [
-      "The Batman Part II",
-      "Batmobile stunt mishap",
-      "Robert Pattinson",
-      "Steven Soderbergh"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135476965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmobile",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T04:51:13+05:30"
-  },
-  "1uaaedz": {
-    "id": "1uaaedz",
-    "type": "news",
-    "headline": "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
-    "dek": "Former co-stars Lucy Hale and Ian Harding return to the screen together in Hulu's upcoming holiday romantic comedy, which has just released its first official trailer.",
-    "entities": {
-      "people": [
-        "Lucy Hale",
-        "Ian Harding",
-        "Nitish Singh",
-        "Penelope Ann Miller",
-        "Paul Ben-Victor",
-        "Kahyun Kim",
-        "David Lipper",
-        "Seth Howard",
-        "Greer Grammer",
-        "Carter Jenkins",
-        "Zack Pearlman"
-      ],
-      "titles": [
-        "The 12 Dates of Christmas",
-        "Pretty Little Liars",
-        "X-Men",
-        "The Hunger Games: Sunrise on the Reaping",
-        "Frozen 3",
-        "Frozen 4",
-        "Ebenezer Scrooge: A Christmas Carol Horror",
-        "The Holiday",
-        "North of North"
-      ]
-    },
-    "keywords": [
-      "The 12 Dates of Christmas",
-      "Lucy Hale Ian Harding",
-      "The 12 Dates of Christmas trailer",
-      "Hulu Christmas movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/lucy-hale.jpg?resize=1200,630",
-        "caption": "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christmas Trailer",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Mon, 02 Nov 2026 22:34:12 +0000"
   },
   "1oesgxu": {
     "id": "1oesgxu",
