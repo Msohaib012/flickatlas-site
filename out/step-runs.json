@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-03T19:51:29Z",
-    "run_id": "41707012597",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Punjabi Music Industry Gathers in Jalandhar to Bid Farewell to Yo Yo Honey Singh's Nephew Divit Aulakh",
-      "Siân Heder Returns With Disability Rights Drama Being Heumann",
-      "Marvel and WWE Announce Major Crossover Event Ahead of Avengers: Doomsday",
-      "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Following Koffee With Karan Backlash"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-03T20:52:40Z",
     "run_id": "41716265648",
     "status": "success",
@@ -1485,6 +1462,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-04T19:00:06Z",
+    "run_id": "41880968152",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1922,23 +1917,6 @@
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-03T18:55:08Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2392,27 +2370,28 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-04T19:00:07Z",
+    "run_id": "41880968152",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "13i4eyo"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T18:54:56Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": {
-     "candidates": 447,
-     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 443 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2826,6 +2805,24 @@
      "detail": "+0 new rows, 8 updated rows, 493 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T19:00:07Z",
+    "run_id": "41880968152",
+    "status": "success",
+    "checked": {
+     "candidates": 502,
+     "detail": "501 collected staging rows from readers; 185 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "+0 new rows, 9 updated rows, 492 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3078,29 +3075,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-03T20:45:08Z",
-    "run_id": "41707012597",
-    "status": "success",
-    "checked": {
-     "candidates": 532,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Siân Heder Returns With Disability Rights Drama Being Heumann",
-      "Marvel and WWE Announce Major Crossover Event Ahead of Avengers: Doomsday",
-      "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Following Koffee With Karan Backlash",
-      "Punjabi Music Industry Gathers in Jalandhar to Bid Farewell to Yo Yo Honey Singh's Nephew Divit Aulakh"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 532 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3628,6 +3602,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-04T19:00:07Z",
+    "run_id": "41880968152",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8287,5 +8279,5 @@
    }
   ]
  },
- "updated_at": "2026-11-04T17:51:39Z"
+ "updated_at": "2026-11-04T19:00:07Z"
 }
