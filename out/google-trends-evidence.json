@@ -1,8 +1,884 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-04T06:01:44.936788Z",
+ "checked_at": "2026-11-04T08:46:56.687313Z",
  "status": "ok",
  "items": [
+  {
+   "q": "nadia ferreira",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T08:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "El paso de Nadia Ferreira y su familia por Paraguay",
+     "url": "https://www.ultimahora.com/el-paso-de-nadia-ferreira-y-su-familia-por-paraguay"
+    },
+    {
+     "title": "Marc Anthony comió asadacho con la familia de Nadia",
+     "url": "https://www.extra.com.py/fama/marc-anthony-comio-asadacho-con-la-familia-de-nadia"
+    },
+    {
+     "title": "Nadia Ferreira, la más feliz de llevar a la pequeña Myla a Paraguay a conocer a su familia",
+     "url": "https://www.hola.com/us-es/celebrities/20261104932917/nadia-ferreira-marc-anthony-bebe-myla-marquito-viaje-paraguay/"
+    }
+   ]
+  },
+  {
+   "q": "tesla autopilot",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T08:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges",
+     "url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/"
+    },
+    {
+     "title": "Tesla drivers used plug-in devices to unlock Full Self-Driving and face up to two years in prison",
+     "url": "https://autos.yahoo.com/policy-and-environment/articles/tesla-drivers-used-plug-devices-062700088.html"
+    },
+    {
+     "title": "80 Tesla Owners Arrested For Allegedly 'Jailbreaking' Full Self-Driving Mode",
+     "url": "https://www.slashgear.com/2304765/tesla-owners-arrested-full-self-driving-jailbreak-south-korea/"
+    }
+   ]
+  },
+  {
+   "q": "jake bauers qualifying offer brewers",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Brewers Cut Ties With Two Veterans, Including Fan Favorite Slugger",
+     "url": "https://www.si.com/mlb/brewers/onsi/brewers-cut-ties-with-two-veterans-including-fan-favorite-slugger-pat3"
+    },
+    {
+     "title": "Ex-Yankees Catcher Available as Free Agent After $8.5 Million Decision",
+     "url": "https://heavy.com/sports/mlb/new-york-yankees/ex-yankees-catcher-available-free-agent-85-million-decision/"
+    },
+    {
+     "title": "Gary Sanchez: Mutual option not picked up",
+     "url": "https://www.cbssports.com/fantasy/baseball/news/gary-sanchez-mutual-option-not-picked-up/"
+    }
+   ]
+  },
+  {
+   "q": "chicago transit authority",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Today’s Headlines for Wednesday, October 28",
+     "url": "https://chi.streetsblog.org/2026/10/28/todays-headlines-for-wednesday-october-28-3"
+    },
+    {
+     "title": "Blue Line renovations work their way to Forest Park",
+     "url": "https://www.oakpark.com/2026/11/03/blue-line-forest-park-branch-construction/"
+    },
+    {
+     "title": "CTA Clears Path for Two Rehab Projects, Announces Completion of Third",
+     "url": "https://www.rtands.com/passenger/rapid-transit-light-rail/cta-clears-path-for-two-rehab-projects-announces-completion-of-a-third/"
+    }
+   ]
+  },
+  {
+   "q": "washington dc",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "District of Columbia Midterm Elections 2026: Live Results",
+     "url": "https://www.nbcnews.com/politics/2026-elections/district-of-columbia-results"
+    },
+    {
+     "title": "Janeese Lewis George wins D.C. mayor’s race, becoming its first democratic socialist leader",
+     "url": "https://www.washingtonpost.com/dc-md-va/2026/11/03/janeese-lewis-george-declares-victory-dc-race-mayor/"
+    },
+    {
+     "title": "The biggest task ahead for D.C.'s new mayor",
+     "url": "https://www.axios.com/local/washington-dc/2026/11/04/janeese-lewis-george-dc-mayor-election"
+    }
+   ]
+  },
+  {
+   "q": "bay area election results",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Bay Area election 2026: Key takeaways, winners and Election Day results",
+     "url": "https://www.nbcbayarea.com/news/local/california-bay-area-november-election-live-results-updates/4164908/"
+    },
+    {
+     "title": "A quick look at early ballot return numbers in Southern California",
+     "url": "https://www.ocregister.com/2026/11/03/a-quick-look-at-early-ballot-return-numbers-in-southern-california/"
+    },
+    {
+     "title": "High turnout expected for CA midterm, nearly 6.5M early voted",
+     "url": "https://abc7.com/live-updates/california-election-day-2026-los-angeles-mayor-governor-propositions-top-mind-voters/20011511/entry/20012595/"
+    }
+   ]
+  },
+  {
+   "q": "maui election results",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T07:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Richard Bissen leads race for Maui mayor",
+     "url": "https://www.khon2.com/hawaii-elections-2026/bissen-sugimura-hawaii-elections-2026/"
+    },
+    {
+     "title": "Maui Election Results: Bissen Blasts Past Sugimura In Mayor’s Race",
+     "url": "https://www.civilbeat.org/2026/11/maui-election-results-bissen-blasts-past-sugimura-in-mayors-race/"
+    },
+    {
+     "title": "Bissen, Sugimura on the ballot for Maui mayor: Who will win the office?",
+     "url": "https://www.yahoo.com/news/politics/articles/bissen-sugimura-ballot-maui-mayor-011952059.html"
+    }
+   ]
+  },
+  {
+   "q": "ind vs nz odi",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T07:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 1st ODI",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-odi-1539437/ball-by-ball-commentary"
+    },
+    {
+     "title": "Virat Kohli milestone: Fans react as India star becomes first player in history to score 13,000 ODI runs at No.3",
+     "url": "https://sports.yahoo.com/articles/virat-kohli-milestone-fans-react-075251810.html"
+    },
+    {
+     "title": "India bowls out New Zealand for 185 in the 1st one-day cricket international",
+     "url": "https://www.wral.com/news/ap/eb0bf-india-bowls-out-new-zealand-for-185-in-the-1st-one-day-cricket-international/"
+    }
+   ]
+  },
+  {
+   "q": "huntington beach election results",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T07:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Election results: Challengers take lead for 3 of 4 Huntington Beach council seats",
+     "url": "https://www.ocregister.com/2026/11/03/election-results-11-vie-for-4-huntington-beach-city-council-seats/"
+    },
+    {
+     "title": "Election Night 2026 Results: Who’s on Track to Join Huntington Beach’s City Council?",
+     "url": "https://voiceofoc.org/2026/11/election-night-2026-results-whos-on-track-to-join-huntington-beachs-city-council/"
+    },
+    {
+     "title": "It all started with Tito Ortiz",
+     "url": "https://orangecountytribune.com/2026/10/27/it-all-started-with-tito-ortiz/"
+    }
+   ]
+  },
+  {
+   "q": "spencer pratt",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-04T06:50:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Spencer Pratt says $1,200 hotel 'fortress' was cheaper than security as death threats mounted",
+     "url": "https://www.foxnews.com/entertainment/spencer-pratt-1200-hotel-fortress-cheaper-security-death-threats-mounted"
+    },
+    {
+     "title": "Spencer Pratt Claims Death Threats Forced Him to Move Into $1,200-a-Night Hotel Amid L.A. Mayoral Race",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/spencer-pratt-claims-death-threats-225952910.html"
+    },
+    {
+     "title": "Spencer Pratt Defends Staying in $1,200-a-Night Hotel After Featuring Trailer in L.A. Mayoral Race Ad",
+     "url": "https://www.usmagazine.com/celebrity-news/news/spencer-pratt-defends-luxury-hotel-stay-during-mayor-race/"
+    }
+   ]
+  },
+  {
+   "q": "bel share price",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T08:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Bharat Electronics shares gain 3% as Motilal raises target price after Q2; Elara Capital upgrades to Buy",
+     "url": "https://m.economictimes.com/markets/stocks/news/bharat-electronics-shares-gain-3-as-motilal-raises-target-price-after-q2-elara-capital-upgrades-to-buy/articleshow/135524961.cms"
+    },
+    {
+     "title": "BEL Q2 FY27: Strong order book to support earnings visibility",
+     "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/bel-q2-fy27-strong-order-book-to-support-earnings-visibility-14068534.html"
+    },
+    {
+     "title": "BEL shares climb 3% as brokerages back post-results recovery",
+     "url": "https://www.thehindubusinessline.com/markets/stock-markets/bel-shares-climb-3-as-brokerages-back-post-results-recovery/article71664488.ece"
+    }
+   ]
+  },
+  {
+   "q": "नासा",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T08:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "अंतरिक्ष से धरती की तरफ आ रहा नासा का 1100 किलो का टेलीस्कोप, आग के गोले में बदल जाएगा, दुनिया को कितना खतर...",
+     "url": "https://hindi.news18.com/news/knowledge/nasa-swift-telescope-atmospheric-reentry-on-wednesday-after-22-years-in-orbit-10960649.html"
+    },
+    {
+     "title": "NASA का रेस्क्यू मिशन फेल, 6 को धरती पर गिरेगा Swift टेलिस्कोप",
+     "url": "https://www.aajtak.in/science/story/nasa-swift-telescope-rescue-mission-fails-fall-to-earth-on-6th-dskc-2685722-2026-11-01"
+    },
+    {
+     "title": "हबल टेलीस्कोप को बचाने के लिए नासा को निजी कंपनियों की जरूरत क्यों पड़ रही?",
+     "url": "https://hindi.newsbytesapp.com/news/science/why-does-nasa-need-private-companies-to-save-the-hubble-telescope/story"
+    }
+   ]
+  },
+  {
+   "q": "bbl women",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T08:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Sophie Devine four-for seals low-scoring encounter for Scorchers",
+     "url": "https://www.cricinfo.com/series/women-s-big-bash-league-2026-27-1543943/melbourne-stars-women-vs-perth-scorchers-women-8th-match-1543951/match-report"
+    },
+    {
+     "title": "Women's Big Bash 2026-27 LIVE: Melbourne Stars vs Perth Scorchers - cricket score & commentary",
+     "url": "https://www.bbc.com/sport/cricket/live/cwn73d6rx8lpt"
+    },
+    {
+     "title": "Devine, King bowl Scorchers to win",
+     "url": "https://www.cricbuzz.com/cricket-news/140761/wbbl-2026-match-report-sophie-devine-alana-king-bowl-scorchers-to-win-in-a-low-scoring-encounter-cricbuzzcom"
+    }
+   ]
+  },
+  {
+   "q": "ben vs mah",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T08:10:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Ranji Trophy: Maharashtra takes the lead against Bengal after its tail wags",
+     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-maharashtra-takes-the-lead-against-bengal-after-its-tail-wags/article71660721.ece"
+    },
+    {
+     "title": "Ranji Trophy Live - Unbeaten Bengal fold for 143, Mumbai lose two",
+     "url": "https://www.cricinfo.com/series/ranji-trophy-2026-27-1546521/uttarakhand-vs-haryana-elite-group-d-1546593/live-match-blog"
+    },
+    {
+     "title": "Bengal vs Maharashtra Live Streaming: When And Where To Watch Ranji Trophy Match In India",
+     "url": "https://www.ndtvprofit.com/sports/bengal-vs-maharashtra-live-streaming-when-and-where-to-watch-ranji-trophy-match-in-india-12268262"
+    }
+   ]
+  },
+  {
+   "q": "rajat patidar",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T08:10:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "IND vs PAK: भारत के बाद पाकिस्तान ने भी किया खतरनाक टीम का ऐलान, ये धुरंधर बना कप्तान, क्या फिर चमकेंगे हसन नवाज?",
+     "url": "https://www.aajtak.in/sports/cricket/story/pakistan-squad-for-rising-stars-asia-cup-2026-abdul-samad-named-captain-full-list-of-players-aksp-dskc-2687503-2026-11-03"
+    },
+    {
+     "title": "राइज़िंग स्टार्स एशिया कप में इंडिया ए की अगुवाई करेंगे तिलक, हर्षित राणा दल में शामिल",
+     "url": "https://www.cricinfo.com/hindi/story/tilak-varma-will-lead-india-a-in-rising-stars-asia-cup-1561142"
+    },
+    {
+     "title": "बाराबंकी के विप्रज निगम इंडिया-ए टीम में चुने गए: तिलक वर्मा की कप्तानी में राइजिंग स्टार्स एशिया कप खेलेगी...",
+     "url": "https://www.bhaskar.com/local/uttar-pradesh/barabanki/news/rising-stars-asia-cup-2026-tilak-varma-vipraj-nigam-barabanki-team-139576556.html"
+    }
+   ]
+  },
+  {
+   "q": "suspended",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T07:50:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Delhi High Court to hear on November 6 plea by lawyers seeking action against suspended ACP, cops over threats",
+     "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-to-hear-on-november-6-plea-by-lawyers-seeking-action-against-suspended-acp-cops-over-threats/article71664516.ece"
+    },
+    {
+     "title": "Delhi High Court To Hear On Friday PIL Seeking Action Against ACP Manasvi Vashistha Over Alleged Threats To Advocates",
+     "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-to-hear-on-friday-pil-seeking-action-against-acp-manasvi-vashistha-over-alleged-threats-to-advocates-557243"
+    },
+    {
+     "title": "ACP Manasvi Vashishta row: Why Delhi Police and advocates are at loggerheads",
+     "url": "https://www.barandbench.com/news/acp-manasvi-vashishta-row-why-delhi-police-and-advocates-are-at-loggerheads"
+    }
+   ]
+  },
+  {
+   "q": "women's big bash league",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T07:50:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "HBHW vs MLRW, 9th Match, Womens Big Bash League 2026 - Commentary",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/162763/hbhw-vs-mlrw-9th-match-womens-big-bash-league-2026"
+    },
+    {
+     "title": "Hobart Hurricanes Women vs Melbourne Renegades Women Match 9 predictions and preview",
+     "url": "https://www.cricketworld.com/match-predictions-womens-big-bash-league-2026-9th-match-hobart-hurricanes-women-vs-melbourne-renegades-women-november-4th/114169.htm"
+    },
+    {
+     "title": "Women's Big Bash League - T20 -",
+     "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010730/womens-big-bash-league-t20-1"
+    }
+   ]
+  },
+  {
+   "q": "திருட்டு",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T07:50:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "20 நிமிடங்களில் மாயமான ரூ.52,000 கோடி... உலகை உலுக்கிய கிரிப்டோகரன்சி கொள்ளை!",
+     "url": "https://www.vikatan.com/crime/money/crypto-robbery-case"
+    },
+    {
+     "title": "பைனான்ஸ் கிரிப்டோகரன்சி திருட்டு: வட கொரியா திட்டவட்ட மறுப்பு",
+     "url": "https://www.dinamani.com/world/2026/Nov/04/cryptocurrency-theft-north-korea-issues-categorical-denial"
+    },
+    {
+     "title": "‘Binance’ வரலாற்றில் மிகப்பெரிய திருட்டு எதிரொலி - 3.6 பில்லியன் டாலரை திரும்பப் பெற்ற வாடிக்கையாளர்கள்!",
+     "url": "https://yourstory.com/tamil/customers-withdraw-usd-36-billion-after-largest-theft-in-binance-history"
+    }
+   ]
+  },
+  {
+   "q": "seven seater",
+   "traffic": "2000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T07:40:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Rs 24 Lakh 7-Seater Gets Cheaper By Rs 4.1 Lakh",
+     "url": "https://motoroctane.com/news/326335-rs-24-lakh-7-seater-gets-cheaper-by-rs-4-1-lakh"
+    },
+    {
+     "title": "VinFast VF MPV 7 Price Cut Rs 4.1 Lakh - Now Costs Rs 20.39 Lakh",
+     "url": "https://www.rushlane.com/vinfast-vf-mpv-7-price-cut-rs-4-1-lakh-now-costs-rs-20-39-lakh-12560362.html"
+    },
+    {
+     "title": "VinFast VF MPV 7 Gets Massive Rs 4.10 Lakh Price Cut!",
+     "url": "https://www.cartoq.com/car-news/vinfast-vf-mpv-7-price-cut/"
+    }
+   ]
+  },
+  {
+   "q": "eenadu news",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-04T07:40:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Alliance Parties: కూటమి ప్రభంజనం",
+     "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/resounding-victory-for-the-alliance-parties-in-local-body-elections/1799/126200275"
+    },
+    {
+     "title": "ఏపీ పుర పోరు: కార్పొరేషన్లు, మున్సిపాలిటీలపై కూటమి జెండాల రెపరెపలు",
+     "url": "https://www.ap7am.com/tn/885604/nda-alliance-dominates-ap-municipal-elections-with-massive-win-in-corporations-and-municipalities"
+    },
+    {
+     "title": "కూటమి దెబ్బకు చతికిలపడ్డ వైసీపీ",
+     "url": "https://www.andhrajyothy.com/2026/videos/abn-videos/kutami-bumper-victory-in-muncipal-elections-abn-telugu-vvnp-1573026.html"
+    }
+   ]
+  },
+  {
+   "q": "china",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+     "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o"
+    },
+    {
+     "title": "Chinese embassy suggests military-grade explosive is actually a wine bottle",
+     "url": "https://www.abc.net.au/news/2026-11-03/papua-new-guinea-artillery-shell-wine-bottle/107342264"
+    },
+    {
+     "title": "Chinese Embassy clarifies projectile incident",
+     "url": "https://www.postcourier.com.pg/chinese-embassy-clarifies-projectile-incident/"
+    }
+   ]
+  },
+  {
+   "q": "mika stojsavljevic",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "November 5, 2026: Sorana Cirstea vs Mary Stoiana: Set 1 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/sorana-cirstea-vs-mary-stoiana-set-1-winner-nov-05-2026/"
+    },
+    {
+     "title": "November 4, 2026: Alex Michelsen vs Carlos Alcaraz: Game Spread Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/alex-michelsen-vs-carlos-alcaraz-game-spread-nov-04-2026/"
+    },
+    {
+     "title": "November 3, 2026: Nuno Borges vs Moise Kouame: Set 1 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/nuno-borges-vs-moise-kouame-set-1-winner-nov-03-2026/"
+    }
+   ]
+  },
+  {
+   "q": "cindy holscher",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "How close is the Kansas governor race? Here’s what the latest polling data shows",
+     "url": "https://www.kansascity.com/news/politics-government/article317884828.html"
+    },
+    {
+     "title": "Kansas governor’s race deadlocked between Republican Ty Masterson, Democrat Cindy Holscher",
+     "url": "https://lawrencekstimes.com/2026/11/04/kr-ks-govs-race/"
+    },
+    {
+     "title": "Kansas gubernatorial candidate Cindy Holscher on affordability",
+     "url": "https://www.cjonline.com/videos/news/2026/11/02/kansas-gubernatorial-candidate-cindy-holscher-on-affordability/92516784007/"
+    }
+   ]
+  },
+  {
+   "q": "metro redux ps5 ps plus",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:10:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Bonus PS Plus Premium Game Is Out Now for PS5",
+     "url": "https://www.pushsquare.com/news/2026/11/bonus-ps-plus-premium-game-is-out-now-for-ps5"
+    },
+    {
+     "title": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S",
+     "url": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update/"
+    },
+    {
+     "title": "PlayStation Plus Subscribers Surprised With an Unexpected Bonus Game",
+     "url": "https://comicbook.com/gaming/news/playstation-ps-plus-games-ps5-november-2026-surprise/"
+    }
+   ]
+  },
+  {
+   "q": "what do midterm elections do",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:10:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Tell us: what do you want to know about the midterm election results?",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/midterm-election-results-question-answer"
+    },
+    {
+     "title": "You Asked Us Anything About the Midterms. We Had Answers.",
+     "url": "https://www.nytimes.com/2026/10/29/insider/midterm-elections-coverage-questions.html"
+    },
+    {
+     "title": "Where We Stand (and About Those Dirty Tricks)",
+     "url": "https://nativenewsonline.net/opinion/where-we-stand-and-about-those-dirty-tricks/"
+    }
+   ]
+  },
+  {
+   "q": "ineos sack luka elsner lausanne sport",
+   "traffic": "500+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Man United co-owner Ineos' Swiss club Lausanne fires coach",
+     "url": "https://www.bdtonline.com/sports/national_sports/man-united-co-owner-ineos-swiss-club-lausanne-fires-coach/article_d7f2dc3c-5c7b-5149-a201-63f631421982.html"
+    },
+    {
+     "title": "Man United co-owner Ineos' Swiss club Lausanne fires coach",
+     "url": "https://kdhnews.com/sports/soccer/man-united-co-owner-ineos-swiss-club-lausanne-fires-coach/article_91dcc0f9-b8ae-52ee-b9cc-9848c4394580.html"
+    },
+    {
+     "title": "Man United co-owner Ineos' Swiss club Lausanne fires coach",
+     "url": "https://www.newsday.com/sports/soccer/swiss-ineos-lausanne-coach-fired-manunited-k40432"
+    }
+   ]
+  },
+  {
+   "q": "angelina jolie",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Exclusive | Angelina Jolie and Brad Pitt's daughter Vivienne delivers final blow to estranged dad",
+     "url": "https://pagesix.com/2026/11/02/celebrity-news/angelina-jolie-and-brad-pitts-daughter-vivienne-delivers-final-blow-to-estranged-dad/"
+    },
+    {
+     "title": "Angelina Jolie and Brad Pitt’s Daughter Vivienne Becomes Fourth Child to Officially Drop Pitt from Last Name",
+     "url": "https://people.com/angelina-jolie-brad-pitt-daughter-vivienne-officially-drops-pitt-12207066"
+    },
+    {
+     "title": "Vivienne Jolie: Brad Pitt has fifth kid legally drop his last name",
+     "url": "https://www.independent.co.uk/bulletin/culture/angelina-jolie-kid-brad-pitt-last-name-change-vivienne-b3077927.html"
+    }
+   ]
+  },
+  {
+   "q": "ft",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "China halts listings in bid to bolster struggling markets",
+     "url": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1"
+    },
+    {
+     "title": "China rolls out support measures to aid struggling stocks",
+     "url": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-taps-liquidity-tool-fund-share-purchases-2026-11-02/"
+    },
+    {
+     "title": "Beijing Reins In IPO Rush After AI Concerns Hit Stock Market",
+     "url": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b"
+    }
+   ]
+  },
+  {
+   "q": "joe biden",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "'A Racist Pig: Joe Biden's Son Attacks Donald Trump On Eve Of Midterm Elections",
+     "url": "https://www.huffingtonpost.co.uk/entry/joe-bidens-son-donald-trump-racist-pig_uk_6ae97e25e4b095682176adfd"
+    },
+    {
+     "title": "Joe Biden makes surprise appearance at Dornsife’s Center for the Political Future",
+     "url": "https://www.uscannenbergmedia.com/2026/11/02/joe-biden-makes-surprise-appearance-at-dornsifes-center-for-the-political-future/"
+    },
+    {
+     "title": "Surprise guest: Former President Joe Biden joins USC students for a conversation about democracy",
+     "url": "https://dornsife.usc.edu/news/stories/former-president-joe-biden-visits-students-at-usc-dornsife-center-for-the-political-future/"
+    }
+   ]
+  },
+  {
+   "q": "witalij kliczko",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-04T08:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Witalij Kliczko grozi: odetniemy jej ręce, palce, uszy i głowę",
+     "url": "https://przegladsportowy.onet.pl/boks/witalij-kliczko-grozi-odetniemy-jej-rece-palce-uszy-i-glowe/9wwv8jh"
+    },
+    {
+     "title": "Słowa Kliczki poszły w świat. Tego nie da się zignorować. \"Odetniemy ręce, uszy i głowę\"",
+     "url": "https://sportowefakty.wp.pl/boks-zawodowy/1282355/mocne-slowa-ukrainskiego-gwiazdora-odetniemy-rece-uszy-i-glowe"
+    },
+    {
+     "title": "\"Kliczko, twój czas minął\", wrze w Ukrainie. Zełenski wkroczył do akcji",
+     "url": "https://sport.interia.pl/sportowe-zycie/news-kliczko-twoj-czas-minal-wrze-w-ukrainie-zelenski-wkroczyl-do,nId,23567471"
+    }
+   ]
+  },
+  {
+   "q": "sunshine coast news",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T08:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Coastal pathway section complete with new boardwalk",
+     "url": "https://www.sunshinecoastnews.com.au/2026/11/04/coastal-pathway-section-complete-with-new-boardwalk/"
+    },
+    {
+     "title": "Elevated experience as picturesque pathway opens",
+     "url": "https://oursc.com.au/community/elevated-experience-as-picturesque-pathway-opens"
+    },
+    {
+     "title": "First sports fields take shape at $100m precinct",
+     "url": "https://www.sunshinecoastnews.com.au/2026/11/04/first-sports-fields-take-shape-at-100m-precinct/"
+    }
+   ]
+  },
+  {
+   "q": "bullets vs wildcats",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T08:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "How to watch & talking points: Brisbane v Perth",
+     "url": "https://www.nbl.com.au/news/how-to-watch-talking-points-brisbane-v-perth-nbl27"
+    },
+    {
+     "title": "WATCH: Wagstaff's incredible journey to 550 games",
+     "url": "https://www.nbl.com.au/news/watch-jesse-wagstaffs-incredible-journey-to-550-games"
+    },
+    {
+     "title": "Perth Wildcats captain Jesse Wagstaff reflects on his 550th NBL game amid superb NBL form",
+     "url": "https://thewest.com.au/sport/perth-wildcats/perth-wildcats-captain-jesse-wagstaff-reflects-on-his-550th-nbl-game-amid-superb-nbl-form-c-23108595"
+    }
+   ]
+  },
+  {
+   "q": "new zealand national cricket team vs india national cricket team timeline",
+   "traffic": "5000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T07:30:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 1st ODI",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-odi-1539437/ball-by-ball-commentary"
+    },
+    {
+     "title": "Virat Kohli milestone: Fans react as India star becomes first player in history to score 13,000 ODI runs at No.3",
+     "url": "https://sports.yahoo.com/articles/virat-kohli-milestone-fans-react-075251810.html"
+    },
+    {
+     "title": "India bowls out New Zealand for 185 in the 1st one-day cricket international",
+     "url": "https://www.wral.com/news/ap/eb0bf-india-bowls-out-new-zealand-for-185-in-the-1st-one-day-cricket-international/"
+    }
+   ]
+  },
+  {
+   "q": "lachie neale",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T07:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Front Row Melbourne Cup special: Jules Neale’s triumph after heartbreak, plus Jamie Foxx mobbed by Aussie stars",
+     "url": "https://www.nine.com.au/entertainment/front-row-melbourne-cup-day-edition-jamie-foxx-dancefloor-jules-neale-moment-never-arrived-20261104-p61b2y.html"
+    },
+    {
+     "title": "Jules Neale breaks silence on Lachie snubbing Eagles offer",
+     "url": "https://www.perthnow.com.au/entertainment/influencers/jules-neale-reveals-her-plans-to-cover-up-lachie-neale-tattoo-and-meaning-behind-recent-rose-ink-c-23113941"
+    },
+    {
+     "title": "‘I’m glad’: Lachie Neale torn into by Jules",
+     "url": "https://www.news.com.au/sport/superracing/melbourne-cup/jules-neale-stuns-with-brutal-swipe-at-exhusband-lachie-neale-during-melbourne-cup-appearance/news-story/94a09a87fc88be86455e92520b8fa29a"
+    }
+   ]
+  },
+  {
+   "q": "papua new guinea",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T07:20:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+     "url": "https://www.bbc.com/news/articles/cm0qkxzv3j99o"
+    },
+    {
+     "title": "Chinese embassy suggests military-grade explosive is actually a wine bottle",
+     "url": "https://www.abc.net.au/news/2026-11-03/papua-new-guinea-artillery-shell-wine-bottle/107342264"
+    },
+    {
+     "title": "PNG Police Report Identifies Explosive as Chinese Artillery Projectile",
+     "url": "https://ozarab.media/png-police-report-identifies-explosive-as-chinese-artillery-projectile/"
+    }
+   ]
+  },
+  {
+   "q": "tom papley",
+   "traffic": "5000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T07:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Breaking: Swans star returns positive drug test during roadside stop",
+     "url": "https://www.abc.net.au/news/2026-11-04/swans-tom-papley-returns-positive-drug-test-during-roadside-stop/107347338"
+    },
+    {
+     "title": "Sydney Swans star returns positive drug test",
+     "url": "https://www.news.com.au/sport/afl/sydney-swans-star-returns-positive-roadside-drug-test/news-story/510f48715e962afd5d3205f50bd007f6"
+    },
+    {
+     "title": "Swans forward returns positive drug test during police stop",
+     "url": "https://www.afl.com.au/news/1638845/sydney-swans-forward-tom-papley-returns-positive-drug-test-during-police-stop"
+    }
+   ]
+  },
+  {
+   "q": "is donald trump still president",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T07:00:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "After midterm losses, Trump stares down the specter of Democratic probes and the race to succeed him",
+     "url": "https://apnews.com/article/trump-midterms-stakes-lame-duck-ab37ed4820d674453e7dc311e2e6636f"
+    },
+    {
+     "title": "Opinion | The Beginning of Trump’s Long Goodbye",
+     "url": "https://www.wsj.com/opinion/the-beginning-of-trumps-long-goodbye-aab26e3d"
+    },
+    {
+     "title": "Trump faces prospect of impeachment if Democrats gain control",
+     "url": "https://www.pbs.org/newshour/politics/trump-faces-prospect-of-impeachment-if-democrats-gain-control"
+    }
+   ]
+  },
+  {
+   "q": "melbourne victory vs persib",
+   "traffic": "2000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T06:50:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "ACL TWO TALK: Victory’s Savarese and Valadon look ahead to Persib rematch",
+     "url": "https://melbournevictory.com.au/news/acl-two-talk-victorys-savarese-and-valadon-look-ahead-to-persib-rematch/"
+    },
+    {
+     "title": "‘Big match’: Victory coach pleads for fan support",
+     "url": "https://www.theaustralian.com.au/breaking-news/melbourne-victory-coach-issues-crowd-plea-as-indonesian-rivals-threaten-aami-park-takeover/news-story/183e1caed71160156a20ad8357b84198"
+    },
+    {
+     "title": "Sweltering Victory suffer in ACL2 loss in Indonesia",
+     "url": "https://www.armidaleexpress.com.au/story/9381975/sweltering-victory-suffer-in-acl2-loss-in-indonesia/"
+    }
+   ]
+  },
+  {
+   "q": "charles bronson",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T06:50:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Meet Charles Bronson's seven children – including daughter who starred with her famous father",
+     "url": "https://www.hellomagazine.com/healthandbeauty/mother-and-baby/932608/meet-hollywood-legend-charles-bronsons-seven-children/"
+    },
+    {
+     "title": "A Young Charles Bronson Was in This 1954 Burt Lancaster Western. Now It’s Called ‘Unwatchable’",
+     "url": "https://www.yahoo.com/entertainment/movies/articles/young-charles-bronson-1954-burt-161513747.html"
+    }
+   ]
+  },
+  {
+   "q": "rohit sharma",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-04T06:40:00Z",
+   "observed_at": "2026-11-04T08:46:56.687313Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://m.cricbuzz.com/player-match-performance/match/161245/player/8808/bowling?inningsId=1"
+    },
+    {
+     "title": "Fit Rohit matches Kohli's flair on the field as India run riot in Auckland",
+     "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-fielding-ind-vs-nz-odi-auckland-3031937-2026-11-04"
+    },
+    {
+     "title": "Six-ball duck adds to Rohit Sharma’s ordinary record in New Zealand",
+     "url": "https://indianexpress.com/article/sports/cricket/six-ball-duck-adds-to-rohit-sharmas-ordinary-record-in-new-zealand-10950232/"
+    }
+   ]
+  },
   {
    "q": "cedrick frazier",
    "traffic": "200+",
@@ -1316,873 +2192,6 @@
     {
      "title": "The candidates who will decide the US midterm elections",
      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-candidates-swing-states"
-    }
-   ]
-  },
-  {
-   "q": "sky news",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "US midterms latest: Trump 'defiant' despite mounting election losses - with Democrats to win control of House",
-     "url": "https://news.sky.com/story/midterms-trump-latest-live-republicans-and-democrats-fight-for-control-of-congress-as-polls-open-in-crucial-elections-13575072"
-    },
-    {
-     "title": "Which stars have made the leap into US politics? Try our midterms quiz",
-     "url": "https://www.bbc.co.uk/news/articles/cwj34rm146kno"
-    },
-    {
-     "title": "Election results are starting to roll in. Watch these races if you care about money, Musk, and the AI boom.",
-     "url": "https://www.businessinsider.com/midterms-key-races-election-night-results-2026-2026-11"
-    }
-   ]
-  },
-  {
-   "q": "the lettermen singer tony butala passed",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "The Lettermen’s Tony Butala Dies at 87",
-     "url": "https://www.billboard.com/music/music-news/tony-butala-death-lettermen-1236373500/"
-    },
-    {
-     "title": "Last Original Member of Grammy-Nominated The Lettermen Tony Butala dies at 87",
-     "url": "https://www.legit.ng/entertainment/celebrities/1739413-last-original-member-grammy-nominated-lettermen-tony-butala-dies-87/"
-    },
-    {
-     "title": "Tony Butala, Founding Member of The Lettermen, Passes Away at 87",
-     "url": "https://www.imdb.com/it/news/ni66094209/?ref_=nwc_art_perm"
-    }
-   ]
-  },
-  {
-   "q": "news today",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Girl, 12, dies after being hit by bus in Kilwinning",
-     "url": "https://www.bbc.co.uk/news/articles/ckvg7l2lx81jo"
-    },
-    {
-     "title": "Girl, 12, dies after being hit by bus in North Ayrshire",
-     "url": "https://news.stv.tv/west-central/girl-12-dies-after-being-hit-by-bus-in-north-ayrshire"
-    },
-    {
-     "title": "Girl, 12, dies after collision with bus in Kilwinning",
-     "url": "https://www.ardrossanherald.com/news/26696687.girl-aged-12-dies-struck-bus-kilwinning/"
-    }
-   ]
-  },
-  {
-   "q": "hakeem jeffries",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T04:10:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Who is Hakeem Jeffries? Rise of America’s first black Speaker of the House",
-     "url": "https://www.thetimes.com/us/american-politics/article/hakeem-jeffries-democrat-speaker-midterm-elections-6dbzmgsgz"
-    },
-    {
-     "title": "The battle for the future of a House Democratic majority is raging",
-     "url": "https://www.politico.com/news/2026/10/29/house-democrats-factions-left-center-01140187"
-    },
-    {
-     "title": "Jeffries wins reelection in New York as he eyes Speakership",
-     "url": "https://thehill.com/homenews/campaign/6184660-jeffries-wins-new-york-seat/"
-    }
-   ]
-  },
-  {
-   "q": "shabana mahmood migrant settlement consultation",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T04:10:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Mahmood refuses to put cost on care worker settlement climbdown",
-     "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo"
-    },
-    {
-     "title": "Home Secretary unveils new rules for migrants settling in the UK",
-     "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
-    },
-    {
-     "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration"
-    }
-   ]
-  },
-  {
-   "q": "gavin newsom",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T04:00:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Xavier Becerra wins California race for governor with vows to resist Trump’s agenda | US midterm elections 2026",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/xavier-becerra-steve-hilton-california-governor"
-    },
-    {
-     "title": "Xavier Becerra beats Trump-backed Steve Hilton in California governor's race",
-     "url": "https://www.axios.com/2026/11/04/xavier-becerra-steve-hilton-california-election-results-2026"
-    },
-    {
-     "title": "Democrat Becerra Wins California Governor Race, AP Projects",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-becerra-wins-california-governor-race-ap-projects"
-    }
-   ]
-  },
-  {
-   "q": "skynews",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T03:40:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Melania Trump to host Ukraine-Russia meeting at White House",
-     "url": "https://news.sky.com/story/ukraine-war-latest-russia-fake-alert-12541713"
-    },
-    {
-     "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
-     "url": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine"
-    },
-    {
-     "title": "Ukraine-Russia war live: Melania Trump to host Kyiv and Moscow for ‘extraordinary’ summit at White House",
-     "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-melania-trump-peace-talks-b3078752.html"
-    }
-   ]
-  },
-  {
-   "q": "t",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T03:40:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Man Utd 3-2 Roma: Bruno Fernandes on Michael Carrick future after comeback win",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o"
-    },
-    {
-     "title": "Manchester United 3-2 Roma: Bruno Fernandes claims players don't need to save Michael Carrick's job after first win in 10 games",
-     "url": "https://www.skysports.com/football/news/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games"
-    },
-    {
-     "title": "‘I wasn’t performing’: Bruno Fernandes says Carrick was right to drop him after criticism",
-     "url": "https://www.theguardian.com/football/2026/nov/03/bruno-fernandes-manchester-united-michael-carrick-roma-champions-league"
-    }
-   ]
-  },
-  {
-   "q": "sam kerr",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "‘Rest easy’: Sam Kerr shares heartbreaking family update",
-     "url": "https://www.perthnow.com.au/sport/soccer/matildas-captain-sam-kerr-announces-death-of-her-beloved-boxer-billie-c-23114400"
-    },
-    {
-     "title": "WA announce TV series for Sam Kerr’s children’s novels",
-     "url": "https://www.soccerscene.com.au/wa-announce-tv-series-for-sam-kerrs-childrens-novels/"
-    },
-    {
-     "title": "Sam Kerr Kicking Goals Scores A New Live-Action Series On Paramount+ In 2027.",
-     "url": "https://www.paramountanz.com.au/news/sam-kerr-kicking-goals-scores-a-new-live-action-series-on-paramount-in-2027/"
-    }
-   ]
-  },
-  {
-   "q": "tom cotton",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Tom Cotton defeats Hallie Shoffner in 2026 US Senate race",
-     "url": "https://www.thv11.com/article/news/politics/elections/tom-cotton-defeats-hallie-shoffner-in-2026-us-senate-race/91-214e1187-fa46-4e56-877b-934ef5c7dfc7"
-    },
-    {
-     "title": "Arkansas 2026 election results",
-     "url": "https://www.4029tv.com/article/arkansas-election-results-2026-governor-senate-house-local-races/74295884"
-    },
-    {
-     "title": "NBC News Projects Republicans Win Senate Races in Arkansas, Alabama",
-     "url": "https://gvwire.com/2026/11/03/nbc-news-projects-republicans-win-senate-races-in-arkansas-alabama/"
-    }
-   ]
-  },
-  {
-   "q": "john fetterman",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "STATEMENT: Fetterman Statement in Support of Coca-Cola Teamsters Local 110 Strike",
-     "url": "https://www.forth.news/lists/ussen-fetterman/CgeJfoD98ovnQM3RkdETX"
-    },
-    {
-     "title": "Westmoreland transportation training facility receives $4.7 million federal grant to train first responders at crash sites",
-     "url": "https://www.post-gazette.com/news/transportation/2026/11/03/pennstart-emergency-training-grant/stories/202611030059"
-    },
-    {
-     "title": "Busy and dangerous Mosside Boulevard to be redesigned",
-     "url": "https://www.audacy.com/kdkaradio/news/local/mosside-boulevard"
-    }
-   ]
-  },
-  {
-   "q": "michigan midterms",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:30:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Michigan U.S. House Midterm Election 2026: Live Results",
-     "url": "https://www.nbcnews.com/politics/2026-elections/michigan-house-results"
-    },
-    {
-     "title": "Michigan General Election Results 2026",
-     "url": "https://www.michiganpublic.org/politics-government/2026-11-03/michigan-election-results-2026"
-    },
-    {
-     "title": "2026 election results map",
-     "url": "https://www.fox2detroit.com/2026-election-results-map"
-    }
-   ]
-  },
-  {
-   "q": "josh turek",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:20:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": []
-  },
-  {
-   "q": "lauren boebert",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:20:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Colorado House District 4 Midterm Election 2026: Live Results",
-     "url": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-4-results"
-    },
-    {
-     "title": "Results for Colorado’s 4th Congressional District race",
-     "url": "https://www.cpr.org/2026/11/03/colorado-election-results-congressional-district-4-boebert-laubacher/"
-    },
-    {
-     "title": "Eileen Laubacher leads incumbent Republican Lauren Boebert in 4th CD",
-     "url": "https://www.denvergazette.com/2026/11/03/lauren-boebert-eileen-laubacher-election-results-colorado-cd4/"
-    }
-   ]
-  },
-  {
-   "q": "amish shah",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:20:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Jay Feely trails Amish Shah early in closely watched Arizona CD1",
-     "url": "https://ktar.com/arizona-politics-news/election/jay-feely-trails-amish-shah-arizona-cd1-early-results"
-    },
-    {
-     "title": "Arizona 1st Congressional District election results 2026",
-     "url": "https://www.washingtonpost.com/elections/results/2026/11/03/arizona-1st-house-district-live-updates/"
-    },
-    {
-     "title": "Voters to settle toss-up Jay Feely vs. Amish Shah race for Congress",
-     "url": "https://www.azcentral.com/story/news/politics/elections/2026/11/03/arizona-congressional-district-2-election-results/92462988007/"
-    }
-   ]
-  },
-  {
-   "q": "todd achilles",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:10:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Maine U.S. Senate 2026: Live Midterm Election Results, Collins vs. Jackson",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-maine-us-senate.html"
-    },
-    {
-     "title": "New York 17th Congressional District 2026: Live Election Results, Lawler vs. Conley",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-new-york-us-house-17.html"
-    },
-    {
-     "title": "Montana U.S. Senate 2026: Live Midterm Election Results, Bankhead vs. Alme",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-montana-us-senate.html"
-    }
-   ]
-  },
-  {
-   "q": "sherrod brown",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:00:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Democrat Sherrod Brown unseats Sen. Jon Husted in Ohio, completing comeback bid",
-     "url": "https://www.nbcnews.com/politics/2026-election/democrat-sherrod-brown-wins-ohio-senate-race-jon-husted-gop-rcna603317"
-    },
-    {
-     "title": "Live Results: Ohio Senate midterm election",
-     "url": "https://www.pbs.org/newshour/politics/live-results-ohio-senate-midterm-election"
-    },
-    {
-     "title": "Can Democrats Win Back Labor?",
-     "url": "https://www.newyorker.com/news/the-lede/can-democrats-win-back-labor"
-    }
-   ]
-  },
-  {
-   "q": "ted cruz",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-04T04:00:00Z",
-   "observed_at": "2026-11-04T04:54:16.603139Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Trump's DOJ sends monitors overwhelmingly to Democratic areas, expands Alaska probe",
-     "url": "https://www.reuters.com/legal/government/trumps-justice-dept-identifies-where-us-election-monitors-will-be-50-states-2026-11-03/"
-    },
-    {
-     "title": "Feds deploy election monitors to L.A. as 9th Circuit sides with Trump in ballot dispute",
-     "url": "https://www.latimes.com/california/story/2026-11-03/california-ballots-court-rulings-doj-election-monitors"
-    },
-    {
-     "title": "Trump administration is monitoring polling places in St. Louis, St. Clair and Madison counties",
-     "url": "https://www.stlpr.org/government-politics-issues/2026-11-03/trump-administration-monitoring-elections-st-louis"
-    }
-   ]
-  },
-  {
-   "q": "cvs health",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "CVS Will Break Off Its Namesake Pharmacies",
-     "url": "https://www.wsj.com/health/healthcare/cvs-will-break-off-its-namesake-pharmacies-9c7dd05e"
-    },
-    {
-     "title": "CVS tests breakup of retail, insurance businesses, source says",
-     "url": "https://www.reuters.com/legal/litigation/cvs-health-explores-splitting-retail-pharmacy-insurance-businesses-ft-reports-2026-11-03/"
-    },
-    {
-     "title": "CVS Plans to Break Up Healthcare Conglomerate, Reports Say",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-03/cvs-jumps-on-report-it-plans-to-break-up-health-conglomerate"
-    }
-   ]
-  },
-  {
-   "q": "ktvb",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Coroner identifies Boise man in fatal motorcycle crash",
-     "url": "https://www.ktvb.com/article/traffic/incidents/coroner-identifies-boise-man-fatal-motorcycle-crash/277-3da6810e-cc5a-4523-8aa6-40eb567e2bb4"
-    },
-    {
-     "title": "Coroner identifies man who died in motorcycle crash on Boise Bench",
-     "url": "https://www.idahostatesman.com/news/local/traffic/article317902575.html"
-    },
-    {
-     "title": "Man dead after crashing motorcycle into back of vehicle in Boise, police say",
-     "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/ada-county/lanes-closed-as-police-investigate-fatal-crash-on-vista-avenue-in-boise"
-    }
-   ]
-  },
-  {
-   "q": "ilhan omar election",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Live election results: Minnesota 4th Congressional District",
-     "url": "https://www.fox9.com/news/minnesota-cd-4-election-results-2026"
-    },
-    {
-     "title": "Meet Betty McCollum, candidate for U.S. House District 4 | WCCO 2026 Midterm Election Guide",
-     "url": "https://www.cbsnews.com/minnesota/video/meet-betty-mccollum-candidate-for-u-s-house-district-4-wcco-2026-midterm-election-guide/"
-    },
-    {
-     "title": "Meet Betty McCollum, candidate for U.S. House District 4 | WCCO 2026 Midterm Election Guide",
-     "url": "https://www.yahoo.com/news/videos/meet-betty-mccollum-candidate-u-011100272.html"
-    }
-   ]
-  },
-  {
-   "q": "supreme court justices",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Supreme Court prepared to rule that publicly funded religious schools can reject children of same-sex couples",
-     "url": "https://www.cnn.com/2026/11/03/politics/supreme-court-prepared-rule-religious-schools-gay-couples"
-    },
-    {
-     "title": "Supreme Court sympathetic to Catholic plea to participate in Colorado preschool program",
-     "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hears-catholic-colorado-preschool-program-case-rcna605703"
-    },
-    {
-     "title": "Brett Kavanaugh Asks Trump DOJ Lawyer If Religious Exemptions Offer ‘Favor’",
-     "url": "https://www.newsweek.com/brett-kavanaugh-asks-trump-doj-lawyer-if-religious-exemptions-offer-favor-12658038"
-    }
-   ]
-  },
-  {
-   "q": "maricopa county elections",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Voters walk away from East Valley polling place amid delays, possible technical issues",
-     "url": "https://ktar.com/arizona-politics-news/election/voters-delays-east-valley-electiond-day"
-    },
-    {
-     "title": "Maricopa County election officials address federal monitors, vow smooth Election Day",
-     "url": "https://www.azfamily.com/2026/11/02/maricopa-county-officials-preview-election-day-operations/"
-    },
-    {
-     "title": "2026 Election: Maricopa County counting ballots",
-     "url": "https://www.fox10phoenix.com/video/fmc-ognjqvzmfxhztloj"
-    }
-   ]
-  },
-  {
-   "q": "robert garcia",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Inside Robert Garcia’s opening Oversight salvo",
-     "url": "https://punchbowl.news/article/washington/robert-garcia-oversight-planning/"
-    },
-    {
-     "title": "Long Beach congressman says he’ll take on ICE and Trump if Democrats win in midterms",
-     "url": "https://lbpost.com/news/?p=187734"
-    },
-    {
-     "title": "Justice Department has sent target letters in Alaska Senate criminal probe. Here's what that means",
-     "url": "https://apnews.com/article/alaska-justice-department-dan-sullivan-f596907344729817193646490432e7eb"
-    }
-   ]
-  },
-  {
-   "q": "joanna mendoza",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Arizona U.S. House Midterm Election 2026: Live Results",
-     "url": "https://www.nbcnews.com/politics/2026-elections/arizona-house-results"
-    },
-    {
-     "title": "Arizona Sixth Congressional District 2026: Live Election Results, Ciscomani vs. Mendoza",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-arizona-us-house-6.html"
-    },
-    {
-     "title": "Queer Marine veteran JoAnna Mendoza flips Arizona House seat, defeating Republican Juan Ciscomani",
-     "url": "https://www.advocate.com/politics/election/joanna-mendoza-2026-election"
-    }
-   ]
-  },
-  {
-   "q": "shomari figures",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Alabama House District 2 Midterm Election 2026: Live Results",
-     "url": "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-2-results"
-    },
-    {
-     "title": "Meet the candidates: Alabama’s 7th Congressional District",
-     "url": "https://www.wsfa.com/2026/11/03/meet-candidates-alabamas-7th-congressional-district/"
-    },
-    {
-     "title": "Alabama Second Congressional District 2026: Live Election Results, Figures vs. Marques",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alabama-us-house-2.html"
-    }
-   ]
-  },
-  {
-   "q": "unlv basketball",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "'Just make them all eligible': Men's hoops coaches weigh in on eligibility chaos",
-     "url": "https://www.espn.com/mens-college-basketball/story/_/id/50318314/men-basketball-coaches-weigh-ncaa-eligibility"
-    },
-    {
-     "title": "Courtroom chaos hits college basketball as dozens play after judges block NCAA eligibility rules",
-     "url": "https://apnews.com/article/ncaa-college-basketball-eligibility-cec9148121c0063f215208dea58f4e18"
-    },
-    {
-     "title": "AP Sports SummaryBrief at 9:58 p.m. EST",
-     "url": "https://www.beloitdailynews.com/sports/pro-sports/ap-sports-summarybrief-at-9-44-p-m-est/article_d3000599-1aa9-5a60-86ab-5a084001b8c8.html"
-    }
-   ]
-  },
-  {
-   "q": "los angeles chargers",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Khalil Mack trade proposals: Bears reunion headlines 3 deals Chargers could make before NFL deadline",
-     "url": "https://www.cbssports.com/nfl/news/khalil-mack-trade-proposals-chargers-bears-nfl-deadline/"
-    },
-    {
-     "title": "“Just Got Word”: Ex-Chargers Player Seemingly Confirms Jim Harbaugh Is Trading Star Player Away Before Deadline",
-     "url": "https://sports.yahoo.com/articles/just-got-word-ex-chargers-104500384.html"
-    },
-    {
-     "title": "Jim Harbaugh: I want Khalil Mack to be here and Khalil Mack wants to be here",
-     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-i-want-khalil-mack-to-be-here-and-khalil-mack-wants-to-be-here"
-    }
-   ]
-  },
-  {
-   "q": "rajinikanth jailer 2 collection",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "'Jailer 2' box office collections day 20: Rajinikanth inches closer to beating Vijay's 'The Greatest of A",
-     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collections-day-20-rajinikanth-inches-closer-to-beating-vijays-the-greatest-of-all-time-film-earns-rs-816-90-crore-worldwide/articleshow/135516725.cms"
-    },
-    {
-     "title": "Rajinikanth's Jailer 2 Continues Its Winning Run, Crosses Rs 800 Crore Mark Worldwide",
-     "url": "https://www.ndtv.com/entertainment/rajinikanth-s-jailer-2-creates-box-office-history-with-rs-800-crore-worldwide-collection-12270792"
-    },
-    {
-     "title": "Rajinikanth's ‘Jailer 2’ becomes first Tamil film to cross Rs 800-crore mark worldwide",
-     "url": "https://www.telegraphindia.com/entertainment/rajinikanths-jailer-2-becomes-first-tamil-film-to-cross-rs-800-crore-mark-worldwide/cid/2187458"
-    }
-   ]
-  },
-  {
-   "q": "kolkata weather",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:30:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "আজ থেকে বাংলায় ছন্দে ফিরবে হেমন্ত",
-     "url": "https://www.anandabazar.com/west-bengal/cyclone-murasu-has-begun-to-weaken-prnt/cid/1723935"
-    },
-    {
-     "title": "Weather Update: কাটেনি দুর্যোগ ? রাতেই বজ্রবিদ্য়ুৎ-সহ বর্ষণের আশঙ্কা ? কী বলছে IMD",
-     "url": "https://bengali.abplive.com/district/west-bengal-weather-update-thunder-storm-light-to-midium-rain-forecast-for-kolkata-south-bengal-north-bengal-on-4-november-1198237"
-    },
-    {
-     "title": "Kali Puja Weather Update: কালীপুজোর আগেই হাওয়া বদল, বৃষ্টি হলেও ধীরে ধীরে নামবে তাপমাত্রা",
-     "url": "https://bangla.aajtak.in/kolkata/story/weather-update-in-november-temperature-to-decrease-in-kolkata-and-west-bengal-districts-rpsg-1471175-2026-11-04"
-    }
-   ]
-  },
-  {
-   "q": "amish shah",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Jay Feely's journey from NFL star to politics as he eyes Arizona House seat | Hindustan Times",
-     "url": "https://www.hindustantimes.com/world-news/us-news/jay-feelys-journey-from-nfl-star-to-politics-as-he-eyes-arizona-house-seat-101792476275011.html"
-    },
-    {
-     "title": "Midterm election live updates: Faith leaders report calm at polls as Election Day enters final hours",
-     "url": "https://religionnews.com/2026/11/03/2026-midterm-election-live-updates/"
-    },
-    {
-     "title": "‘A revolution in slow motion’: is Arizona’s wealthiest district finally done with Trump?",
-     "url": "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race"
-    }
-   ]
-  },
-  {
-   "q": "investing com",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Form 13D/A CVR Energy For: 3 November By Investing.com",
-     "url": "https://in.investing.com/news/stock-market-news/form-13da-cvr-energy-for-3-november-93CH-5676953"
-    },
-    {
-     "title": "Form 4 Kiniksa Pharmaceuticals International: Michael R. Megna (CHIEF ACCOUNTING OFFICER) For: 30 October",
-     "url": "https://in.investing.com/news/stock-market-news/form-4-kiniksa-pharmaceuticals-international-michael-r-megna-chief-accounting-officer-for-30-october-93CH-5676957"
-    },
-    {
-     "title": "Kiniksa Pharmaceuticals International (NASDAQ:KNSA) Insider Sells 77,587 Shares of Company Stock",
-     "url": "https://www.marketbeat.com/instant-alerts/insider-kiniksa-pharmaceuticals-international-nasdaq-knsa-insider-sells-77587-shares-of-company-stock-2026-11-03/"
-    }
-   ]
-  },
-  {
-   "q": "வீடு",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "ஓரிக்கையில் ஆக்கிரமித்து கட்டப்பட்டுள்ள வீடுகளின் சாய்வு பாதைகள் இடிப்பு",
-     "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-kancheepuram/slope-lanes-of-encroached-houses-demolished-in-orikki/4366528"
-    },
-    {
-     "title": "ஒரே வீட்டில் 4 பேரை கொன்று வாலிபர் தற்கொலை: போலீசார் விசாரணை",
-     "url": "https://www.dailythanthi.com/news/india/youth-commits-suicide-after-killing-4-people-in-same-house-police-investigating"
-    },
-    {
-     "title": "மத்திய பிரதேச இளைஞர் விபரீத முடிவு; குடும்பத்தினர் நான்கு பேரை கொன்று விட்டு தற்கொலை",
-     "url": "https://www.dinamalar.com/amp/news/india-tamil-news/madhya-pradesh-youth-commits-suicide-after-killing-family-of-four/4365791"
-    }
-   ]
-  },
-  {
-   "q": "ఎయిర్ ఇండియా",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "పాకిస్థాన్ దెబ్బకు ఎయిర్ ఇండియా విలవిల.. కీలక నిర్ణయం దిశగా..!",
-     "url": "https://telugu.oneindia.com/news/international/airindia-impacted-by-pakistan-airspace-ban-ceo-cites-middle-east-tensions-as-another-big-factor-513449.html"
-    },
-    {
-     "title": "Air India: పాక్ ఆంక్షల కారణంగా ఎయిర్ ఇండియాకు నష్టం..",
-     "url": "https://ntvtelugu.com/national-news/air-india-ceo-on-pakistan-airspace-closure-fuel-costs-and-network-challenges-1032043.html"
-    },
-    {
-     "title": "Akasa Air extends suspension of flights to Jeddah, Riyadh amid evolving security situation in Saudi Arabia",
-     "url": "https://infra.economictimes.indiatimes.com/news/aviation/akasa-air-extends-suspension-of-flights-to-jeddah-riyadh-amid-evolving-security-situation-in-saudi-arabia/135162745"
-    }
-   ]
-  },
-  {
-   "q": "aquib nabi",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:20:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Top 5 Indian Batters vs New Zealand: নিউজিল্যান্ডের মাটিতে এই ৫ ভারতীয় ব্যাটারের দাপট! ওয়ানডেতে সবচেয়ে বেশি রান কার?",
-     "url": "https://bengali.indianexpress.com/sports/top-5-indian-batters-most-odi-runs-in-new-zealand-12776314"
-    },
-    {
-     "title": "নবির সুইংয়ে নেটে দিশাহারা কোহলি! ওয়ানডে সিরিজের আগে কী অবস্থা রোহিতের?",
-     "url": "https://www.sangbadpratidin.in/sports/cricket/virat-kohli-frustrated-in-nets-troubled-by-india-pacer-auqib-nabi-ahead-of-1st-odi/pid/1408437/"
-    },
-    {
-     "title": "কোহলির মোকাবিলায় উদগ্রীব ডাফি",
-     "url": "https://bartamanpatrika.com/news/duffy-eager-to-face-kohli"
-    }
-   ]
-  },
-  {
-   "q": "annie andrews",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:10:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "South Carolina Senate seat flips to Democrats for first time in nearly three decades",
-     "url": "https://www.bbc.com/news/articles/cjy56z440nl9o"
-    },
-    {
-     "title": "Democrat Annie Andrews flips South Carolina Senate seat held by Republicans since 1998",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/south-carolina-midterms-annie-andrews"
-    },
-    {
-     "title": "The Senate Race in Heavily Republican South Carolina Is a Tossup, Poll Finds",
-     "url": "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html"
-    }
-   ]
-  },
-  {
-   "q": "vasubaras 2026",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:10:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Vasubaras Puja Vidhi : घरच्या घरी वसुबारस पूजा कशी करावी? जाणून घ्या सोपी स्टेप-बाय-स्टेप पूजा पद्धत",
-     "url": "https://agrowon.esakal.com/ampstories/web-stories/vasubaras-puja-vidhi-step-by-step-cow-puja-at-home-aak11"
-    },
-    {
-     "title": "लोकशिवार: ‘ कामधेनु ‘ ते ‘ अर्थधेनु ‘",
-     "url": "https://www.loksatta.com/kolhapur/desi-cow-economy-vasubaras-cattle-census-a2-milk-challenges-by-dayanand-lipare-amy-95-6227935/"
-    },
-    {
-     "title": "Vasubaras Puja 2026 : दिवाळीचा पहिला दिवा केव्हा लावायचा ? वसुबारस पूजेचा मुहूर्त व विधी जाणून घ्या !",
-     "url": "https://maharashtratimes.com/astro/festival/diwali-vasubaras-puja-2026-shubha-muhurta-pujavidhi-and-importance/articleshow/135461570.cms"
-    }
-   ]
-  },
-  {
-   "q": "johnny depp pirates of the caribbean",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-04T03:10:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Johnny Depp on His One Condition to Return as Jack Sparrow for ‘Pirates of the Caribbean 6’",
-     "url": "https://www.hollywoodreporter.com/news/general-news/johnny-depp-return-jack-sparrow-pirates-of-the-caribbean-6-1236746753/"
-    },
-    {
-     "title": "Johnny Depp hints at Jack Sparrow comeback, says he is open to another ‘Pirates’ film",
-     "url": "https://www.telegraphindia.com/entertainment/johnny-depp-hints-at-jack-sparrow-comeback-says-he-is-open-to-another-pirates-film/cid/2187659"
-    },
-    {
-     "title": "Johnny Depp Reacts to Orlando Bloom Wanting to Reunite for Another Pirates of the Caribbean Movie (Exclusive)",
-     "url": "https://people.com/johnny-depp-reacts-to-orlando-bloom-wanting-to-reunite-for-pirates-exclusive-12207058"
-    }
-   ]
-  },
-  {
-   "q": "south carolina senate race",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T03:10:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Florida U.S. Senate Special 2026: Live Midterm Election Results, Moody vs. Nixon",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-florida-us-senate-special.html"
-    },
-    {
-     "title": "New Hampshire U.S. Senate 2026: Live Midterm Election Results, Pappas vs. Sununu",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-new-hampshire-us-senate.html"
-    },
-    {
-     "title": "Virginia Second Congressional District 2026: Live Election Results, Kiggans vs. Luria",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-virginia-us-house-2.html"
-    }
-   ]
-  },
-  {
-   "q": "greg abbott",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-04T02:40:00Z",
-   "observed_at": "2026-11-04T03:52:20.164460Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-     "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html"
-    },
-    {
-     "title": "What divided government could look like if Gina Hinojosa wins",
-     "url": "https://www.texastribune.org/2026/10/30/texas-governor-power-2026-greg-abbott-gina-hinojosa-split-government/"
-    },
-    {
-     "title": "Election 2026: Greg Abbott vs Gina Hinojosa",
-     "url": "https://www.fox7austin.com/video/fmc-xrikqmbs6ienfvfu"
     }
    ]
   }

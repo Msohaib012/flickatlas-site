@@ -46,6 +46,52 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 11:43:43 +0200"
   },
+  "kue3k8": {
+    "id": "kue3k8",
+    "type": "news",
+    "headline": "Sam Fender Covers The Rolling Stones for John Lewis Christmas Campaign",
+    "dek": "The artist puts a unique spin on a 1969 classic for the holiday season, earning praise from rock royalty.",
+    "entities": {
+      "people": [
+        "Sam Fender",
+        "Mick Jagger",
+        "Keith Richards",
+        "Kristin Scott Thomas",
+        "Paul Whitehouse",
+        "Gloria",
+        "Maggie",
+        "Freddie",
+        "Olivia Dean",
+        "Alison Limerick",
+        "Labrinth",
+        "Andrea Bocelli",
+        "Lola Young",
+        "Elton John",
+        "Lily Allen"
+      ],
+      "titles": [
+        "You Can't Always Get What You Want",
+        "Let It Bleed",
+        "Rein Me In",
+        "Winter Song",
+        "Somewhere Only We Know"
+      ]
+    },
+    "keywords": [
+      "Sam Fender John Lewis Christmas advert",
+      "Sam Fender You Can't Always Get What You Want",
+      "Mick Jagger Sam Fender cover",
+      "John Lewis Christmas advert 2026"
+    ],
+    "images": [
+      {
+        "url": "https://metro.co.uk/wp-content/uploads/2021/10/SEI181228802-copy-6e4a.jpg?quality=90&strip=all&w=1024&resize=200,200&zoom=1",
+        "caption": "Sam Fender Covers The Rolling Stones for John Lewis Christmas Campaign",
+        "source": "Metro — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T07:51:51Z"
+  },
   "rlc3n": {
     "id": "rlc3n",
     "type": "news",
@@ -118,6 +164,40 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-04T06:53:09Z"
   },
+  "15qonkg": {
+    "id": "15qonkg",
+    "type": "news",
+    "headline": "Ranveer Singh Outpaces Ranbir Kapoor in Advance Ticket Sales as Dhurandhar 2 Holds the Throne",
+    "dek": "Advance booking figures reveal that Dhurandhar 2 maintains its commanding lead over Ramayana at the Indian box office, keeping its opening-day pre-sales record safe.",
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Dhurandhar: The Revenge",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Dhurandhar 2 advance booking",
+      "Ramayana box office collection",
+      "Ranveer Singh Dhurandhar",
+      "Ranbir Kapoor Ramayana tickets"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ranbirkapoorramayanaranveerd1-70381793774429.jpg",
+        "caption": "Ranveer Singh Outpaces Ranbir Kapoor in Advance Ticket Sales as Dhurandhar 2 Holds the Throne",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 12:13:57 +0530"
+  },
   "60sjnq": {
     "id": "60sjnq",
     "type": "news",
@@ -156,6 +236,90 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 12:03:38 +0530"
+  },
+  "r3n0qm": {
+    "id": "r3n0qm",
+    "type": "news",
+    "headline": "Ramayana Projected For Rs 160 Crore Opening Day As Global Pre-Sales Surge",
+    "dek": "The upcoming epic Ramayana is eyeing a massive opening of around Rs 160 crore worldwide, easily surpassing major blockbusters like Jawan and Animal, though it is expected to stay behind record holders such as RRR and Dhurandhar 2.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Shah Rukh Khan",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Jawan",
+        "Animal",
+        "Dhurandhar 2",
+        "RRR",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Kalki 2898 AD",
+        "KGF Chapter 2",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana release date 2026",
+      "Ramayana advance booking collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/RAMA_05_1775114615230_1775114628023_1793768126426_dnp5_bc47f619-a176-4b1c-9fdc-346926d44f65_pJAQ.png",
+        "caption": "Ramayana Projected For Rs 160 Crore Opening Day As Global Pre-Sales Surge",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:37:54 +0530"
+  },
+  "1pp1ims": {
+    "id": "1pp1ims",
+    "type": "news",
+    "headline": "Namit Malhotra Confirms Ramayana Part 2 Postponed to 2028 and Hints at Possible Trilogy",
+    "dek": "Producer Namit Malhotra has announced that the sequel to Ramayana will now arrive in 2028 and suggested the narrative might expand into a three-part series.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Riya Sharma",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Ravie Dubey",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Ramayana Part 2",
+        "Avatar",
+        "The Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 2 2028",
+      "Namit Malhotra Ramayana trilogy",
+      "Ramayana Nitesh Tiwari budget",
+      "Ramayana Part 1 release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/Namit_Ramayana_1793768157471_mGO5_1793768175691_ytDr_0176608a-fa0c-4462-b6c4-494637d6f265_uDU6.jpg",
+        "caption": "Namit Malhotra Confirms Ramayana Part 2 Postponed to 2028 and Hints at Possible Trilogy",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:33:58 +0530"
   },
   "1exoe6v": {
     "id": "1exoe6v",
@@ -4654,140 +4818,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 03:16:00 GMT"
-  },
-  "o075m5": {
-    "id": "o075m5",
-    "type": "news",
-    "headline": "Bleecker Street Debuts Trailer for Mystery Drama The Liberation",
-    "dek": "Distributor Bleecker Street has issued a new preview for Guy Nattiv's upcoming mystery drama featuring Carrie Coon, Lily James, and Bella Ramsey.",
-    "entities": {
-      "people": [
-        "Carrie Coon",
-        "Lily James",
-        "Bella Ramsey",
-        "Guy Nattiv",
-        "Odessa Young",
-        "Tracy Letts"
-      ],
-      "titles": [
-        "The Liberation",
-        "Golda"
-      ]
-    },
-    "keywords": [
-      "The Liberation trailer",
-      "Carrie Coon The Liberation",
-      "Lily James Guy Nattiv film",
-      "Bella Ramsey mystery drama"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/The-Liberation-_-Official-Trailer-_-Bleecker-Street-1-45-screenshot.jpg",
-        "caption": "Bleecker Street Debuts Trailer for Mystery Drama The Liberation",
-        "source": "Flickering Myth"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 03:00:16 +0000"
-  },
-  "ps1fy5": {
-    "id": "ps1fy5",
-    "type": "news",
-    "headline": "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
-    "dek": "The investigation into the firing incident outside Tiger Shroff's residence has expanded, with authorities taking a 22-year-old woman into custody from Haryana and bringing the total number of arrested individuals to 13.",
-    "entities": {
-      "people": [
-        "Tiger Shroff",
-        "Subeha Pandit",
-        "Radha",
-        "Babita"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Tiger Shroff firing case",
-      "Mumbai Crime Branch",
-      "Subeha Pandit arrest",
-      "Tiger Shroff Juhu shooting"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135479421,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Mumbai Crime Branch Apprehends 22-Year-Old Woman from Karnal in Connection with Tiger Shroff Firing Case",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T08:10:01+05:30"
-  },
-  "df0h2l": {
-    "id": "df0h2l",
-    "type": "news",
-    "headline": "Korean Epic Romantic Drama 'The Remarried Empress' Moves Up Premiere Date",
-    "dek": "Fans of the hit Naver Webtoon adaptation will get their first look a day early, with Disney+ and Hulu dropping the first four episodes on November 3.",
-    "entities": {
-      "people": [
-        "Denise Petski",
-        "Shin Mina",
-        "Ju Jihoon",
-        "Lee Jongsuk",
-        "Lee Seyoung",
-        "Yeoh Geena",
-        "Hyun Choongyeol",
-        "Cho Suwon"
-      ],
-      "titles": [
-        "The Remarried Empress",
-        "Still 17",
-        "Pinocchio"
-      ]
-    },
-    "keywords": [
-      "The Remarried Empress",
-      "Shin Mina The Remarried Empress",
-      "Ju Jihoon Lee Jongsuk K-drama",
-      "The Remarried Empress release date"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/08/Remarried-Empess.jpg?w=830",
-        "caption": "Korean Epic Romantic Drama 'The Remarried Empress' Moves Up Premiere Date",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 02:22:59 +0000"
-  },
-  "1462whk": {
-    "id": "1462whk",
-    "type": "news",
-    "headline": "Vishwak Sen's Telugu Film 'Cult' Experiences Significant Box Office Slowdown on First Monday",
-    "dek": "Vishwak Sen's directorial venture 'Cult' witnessed a sharp 56% decline in collections on its fourth day in theaters, bringing its total domestic net to Rs 3.90 cr.",
-    "entities": {
-      "people": [
-        "Vishwak Sen",
-        "Gayatri Bharadwaj",
-        "Tarak Ponnappa",
-        "Murali Sharma",
-        "Srikanth Iyengar",
-        "Ravi Basrur",
-        "Tharun Bhascker"
-      ],
-      "titles": [
-        "Cult"
-      ]
-    },
-    "keywords": [
-      "Cult film box office",
-      "Vishwak Sen Cult",
-      "Cult day 4 collection",
-      "Cult Telugu movie"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135478498,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Vishwak Sen's Telugu Film 'Cult' Experiences Significant Box Office Slowdown on First Monday",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T07:15:00+05:30"
   },
   "1oesgxu": {
     "id": "1oesgxu",
