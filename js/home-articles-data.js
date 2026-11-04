@@ -46,6 +46,149 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 11:43:43 +0200"
   },
+  "thwk62": {
+    "id": "thwk62",
+    "type": "news",
+    "headline": "Ramayana Worldwide Advance Sales Cross 150 Crore Gross Following Strong Early Screenings",
+    "dek": "Namit Malhotra's highly anticipated mythological epic Ramayana: Part One is generating massive momentum ahead of its theatrical debut, crossing 150 crore gross in worldwide advance sales following encouraging early reactions.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ashish Chanchlani",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Kunal Kapoor",
+        "Ajinkya Deo",
+        "Rakul Preet",
+        "Sunny Deol",
+        "Arun Govil",
+        "Shobhana",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Sheeba Chadha",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Aavishkar",
+        "Amit Bhatia",
+        "Taran Adarsh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part One",
+        "Dune Part 2",
+        "Dharti Hai Ambar"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028360.jpg",
+        "caption": "Ramayana Worldwide Advance Sales Cross 150 Crore Gross Following Strong Early Screenings",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:39:44 +0000"
+  },
+  "tqlcx2": {
+    "id": "tqlcx2",
+    "type": "news",
+    "headline": "Ha Yun Kyung Steps Into The Goryeo Era As A Guide For Ahn Bo Hyun In New JTBC Drama Sacred Jewel",
+    "dek": "The upcoming historical series has shared a first look at Ha Yun Kyung transforming into the savvy guide Geol Seung alongside Ahn Bo Hyun's expedition leader.",
+    "entities": {
+      "people": [
+        "Ha Yun Kyung",
+        "Ahn Bo Hyun",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Sacred Jewel",
+        "Go Back"
+      ]
+    },
+    "keywords": [
+      "Sacred Jewel drama",
+      "Ha Yun Kyung Sacred Jewel",
+      "Ahn Bo Hyun Sacred Jewel",
+      "JTBC Sacred Jewel Goryeo Dynasty"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/04122119/sacred-jewel.jpg",
+        "caption": "Ha Yun Kyung Steps Into The Goryeo Era As A Guide For Ahn Bo Hyun In New JTBC Drama Sacred Jewel",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:22:01 +0000"
+  },
+  "njnqmd": {
+    "id": "njnqmd",
+    "type": "news",
+    "headline": "'Mogging' Named Collins Dictionary's Word of the Year 2026",
+    "dek": "Collins Dictionary has chosen the viral Gen Z slang term 'mogging' as its Word of the Year for 2026 following a massive surge in usage.",
+    "entities": {
+      "people": [
+        "Mahipal Singh Chouhan",
+        "Alex Beecroft"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "mogging Word of the Year 2026",
+      "Collins Dictionary mogging",
+      "meaning of mogging slang",
+      "Gen Z slang mogging origin"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/Mogging__Word_of_the_Year_2026_1793783105384_CW28_1793783110875_vmwn_b27d92cf-e7dc-40aa-b498-fafd298bcff7_WRqY.png",
+        "caption": "'Mogging' Named Collins Dictionary's Word of the Year 2026",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:37:40 +0530"
+  },
+  "1x6bycj": {
+    "id": "1x6bycj",
+    "type": "news",
+    "headline": "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set",
+    "dek": "Ranbir Kapoor revealed that his daughter Raha visited the sets of Ramayana and even filmed a shot alongside Sai Pallavi and Ravie Dubey.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Raha",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Alia Bhatt",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ranbir Kapoor Ramayana",
+      "Raha Kapoor Ramayana",
+      "Sai Pallavi Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ranbirrahathuuu1793781548.jpg",
+        "caption": "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T14:17:49+05:30"
+  },
   "t62xe6": {
     "id": "t62xe6",
     "type": "news",
@@ -4634,180 +4777,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-03T04:51:33Z"
-  },
-  "1vd267q": {
-    "id": "1vd267q",
-    "type": "news",
-    "headline": "Robert Downey Jr. Reveals Toshiyuki Morikawa as Doctor Doom Japanese Voice Actor for Avengers: Doomsday",
-    "dek": "Robert Downey Jr. has shared a personal video message naming Toshiyuki Morikawa as the Japanese voice actor for Doctor Doom in Avengers: Doomsday, while also honoring the late Keiji Fujiwara.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr.",
-        "Toshiyuki Morikawa",
-        "Keiji Fujiwara",
-        "Anthony Russo",
-        "Joe Russo",
-        "Victor von Doom",
-        "Tony Stark"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Avengers: Secret Wars",
-        "Final Fantasy"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday Doctor Doom",
-      "Robert Downey Jr",
-      "Toshiyuki Morikawa",
-      "Keiji Fujiwara"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/marveldoctordoom.webp?resize=1200,630",
-        "caption": "Robert Downey Jr. Reveals Toshiyuki Morikawa as Doctor Doom Japanese Voice Actor for Avengers: Doomsday",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 04:34:10 +0000"
-  },
-  "14jxqic": {
-    "id": "14jxqic",
-    "type": "news",
-    "headline": "Jailer 2 Box Office Collection Day 19 Reaches 812 Crore Worldwide",
-    "dek": "Rajinikanth and Nelson Dilipkumar's action sequel Jailer 2 crosses a massive global milestone on its nineteenth day in theatres.",
-    "entities": {
-      "people": [
-        "Rajinikanth",
-        "Nelson Dilipkumar",
-        "Ramya Krishnan",
-        "Yogi Babu",
-        "Mirnaa",
-        "Rithvik",
-        "S. J. Suryah",
-        "Mithun Chakraborty",
-        "Suraj Venjaramoodu",
-        "Vidya Balan",
-        "Mohanlal",
-        "Shiva Rajkumar",
-        "Vijay Sethupathi",
-        "Jackie Shroff",
-        "Hrithik Roshan",
-        "Vinayakan",
-        "Kalanithi Maran",
-        "Anirudh Ravichander",
-        "Vijay Kartik Kannan",
-        "R. Nirmal"
-      ],
-      "titles": [
-        "Jailer 2",
-        "Jailer"
-      ]
-    },
-    "keywords": [
-      "Jailer 2 box office collection",
-      "Rajinikanth Jailer 2 worldwide",
-      "Jailer 2 Day 19 collection",
-      "Nelson Dilipkumar Jailer 2 India net"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/jailer2-36921793679705.jpg",
-        "caption": "Jailer 2 Box Office Collection Day 19 Reaches 812 Crore Worldwide",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 09:53:04 +0530"
-  },
-  "1jl7qgo": {
-    "id": "1jl7qgo",
-    "type": "news",
-    "headline": "Josh Hartnett Boards Elle Fanning Biopic Moonsong: A Life In Seven Verses",
-    "dek": "Following his recent success in Below, actor Josh Hartnett joins Elle Fanning in Rebecca Miller's upcoming biographical film Moonsong: A Life In Seven Verses.",
-    "entities": {
-      "people": [
-        "Josh Hartnett",
-        "Elle Fanning",
-        "Rebecca Miller",
-        "Margaret Wise Brown",
-        "Big Bill Gaston",
-        "Emma Thompson",
-        "Sally Hawkins",
-        "Danny Huston",
-        "Robert Aramayo",
-        "Chloe Pirrie",
-        "Julianne Moore",
-        "Michael Strange",
-        "Leonard S. Marcus",
-        "Jarin Blatchke",
-        "Neal Scanlan",
-        "Malgosia Turzanska",
-        "Kim Jennings",
-        "Martin Scorsese",
-        "Damon Cardasis",
-        "Devanshi Basu"
-      ],
-      "titles": [
-        "Below",
-        "Moonsong: A Life In Seven Verses",
-        "Margaret Wise Brown: Awakened by the Moon"
-      ]
-    },
-    "keywords": [
-      "Josh Hartnett Moonsong: A Life In Seven Verses",
-      "Elle Fanning Margaret Wise Brown biopic",
-      "Rebecca Miller Moonsong film",
-      "Josh Hartnett Elle Fanning movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-03-Nov-2026-09-49-AM-4967.jpg?resize=1200,630",
-        "caption": "Josh Hartnett Boards Elle Fanning Biopic Moonsong: A Life In Seven Verses",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 04:22:47 +0000"
-  },
-  "1ksbxhl": {
-    "id": "1ksbxhl",
-    "type": "news",
-    "headline": "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
-    "dek": "Shah Rukh Khan celebrated his birthday by giving fans a romantic musical treat from his upcoming movie King, uniting him once again with Deepika Padukone.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Deepika Padukone",
-        "Arijit Singh",
-        "Madhubanti Bagchi",
-        "Ed Sheeran",
-        "Piyush",
-        "Shazia",
-        "Suhana Khan",
-        "Abhishek Bachchan",
-        "Abhay Verma"
-      ],
-      "titles": [
-        "King",
-        "Tu Mil Jaaye",
-        "Om Shanti Om",
-        "Chennai Express",
-        "Happy New Year"
-      ]
-    },
-    "keywords": [
-      "Tu Mil Jaaye song",
-      "King movie song",
-      "Shah Rukh Khan Deepika Padukone",
-      "Arijit Singh new song"
-    ],
-    "images": [
-      {
-        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/02153850/image-2.jpeg",
-        "caption": "Tu Mil Jaaye Song From King Leaves Fans Impressed With SRK and Deepika Padukone",
-        "source": "MissMalini"
-      }
-    ],
-    "published": "2026-11-03T03:52:26Z"
   },
   "1oesgxu": {
     "id": "1oesgxu",

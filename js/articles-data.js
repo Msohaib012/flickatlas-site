@@ -54158,5 +54158,369 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 13:37:16 +0530"
+  },
+  "1x6bycj": {
+    "id": "1x6bycj",
+    "type": "news",
+    "headline": "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set",
+    "dek": "Ranbir Kapoor revealed that his daughter Raha visited the sets of Ramayana and even filmed a shot alongside Sai Pallavi and Ravie Dubey.",
+    "body": [
+      {
+        "h": "A Surprise On-Set Appearance",
+        "p": [
+          "The grand production of Nitesh Tiwari's Ramayana recently became the center of attention when lead star Ranbir Kapoor shared an adorable behind-the-scenes secret. While promoting the film internationally, the actor mentioned that his young daughter, Raha, did more than just visit the massive production sets.",
+          "Instead of merely observing her father work, Raha actually participated in the filmmaking process by facing the camera. This unexpected detail has charmed followers and added an intimate personal touch to the large-scale mythological project."
+        ]
+      },
+      {
+        "h": "Bedtime Stories That Sparked Curiosity",
+        "p": [
+          "The connection between the toddler and the epic tale began long before she stepped onto a movie set. At home, Ranbir and Alia Bhatt routinely share traditional folklore and sacred stories with their daughter during her bedtime routine.",
+          "Because the household is deeply steeped in these ancient epics, the young girl developed a natural fascination with the narrative. This early introduction to traditional storytelling made her visit to the film sets an organic extension of her bedtime experiences."
+        ]
+      },
+      {
+        "h": "Sharing the Frame With Key Characters",
+        "p": [
+          "During her time on the bustling production grounds, the toddler shared frames with prominent members of the cast. Ranbir disclosed that she recorded a shot featuring Sai Pallavi, who portrays Sita, alongside Ravie Dubey, who plays Lakshman.",
+          "Whether or not this specific footage will make the final theatrical cut is a closely guarded secret kept by the production team. Regardless of her appearance in the final movie, the experience itself has become a treasured memory for the family."
+        ]
+      },
+      {
+        "h": "A Full-Circle Fatherhood Milestone",
+        "p": [
+          "For the superstar father, having his daughter involved in a project rooted in duty, righteousness, and selfless love feels profoundly meaningful. He expressed immense joy knowing that this civilisational tale will be the very first major story she gets to watch on the big screen.",
+          "The timing of the release coincides closely with personal family milestones, making the festive season extraordinarily special for the entire household. Balancing massive global anticipation with intimate family moments highlights a unique chapter in the actor's career."
+        ]
+      },
+      {
+        "h": "Fandome Meltdown and Family Legacy",
+        "p": [
+          "As soon as the interview went live, the revelation triggered a wave of adoration across social media platforms. Supporters of the actors expressed immense delight over the heartwarming anecdote connecting the toddler to such a monumental cinematic milestone.",
+          "For the Kapoor family, this monumental production serves as an extraordinary personal heirloom. The combination of grand cinematic scale and quiet family memories ensures the project holds a permanent place in their personal history."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor revealed during a promotional tour that his daughter Raha filmed a scene on the sets of Ramayana with Sai Pallavi and Ravie Dubey. The toddler, who is familiar with the epic through bedtime stories told by her parents, experienced a special fatherhood moment as her father prepares for the film's release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor revealed that daughter Raha shot scenes with Sai Pallavi and Ravie Dubey on the Ramayana sets.",
+      "The news was shared during a chat with the BBC during the film's international promotional tour.",
+      "Ramayana is directed by Nitesh Tiwari.",
+      "Raha recently celebrated her fourth birthday a day after the theatrical debut."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Raha",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Alia Bhatt",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ranbir Kapoor Ramayana",
+      "Raha Kapoor Ramayana",
+      "Sai Pallavi Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ranbirrahathuuu1793781548.jpg",
+        "caption": "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T14:17:49+05:30"
+  },
+  "tqlcx2": {
+    "id": "tqlcx2",
+    "type": "news",
+    "headline": "Ha Yun Kyung Steps Into The Goryeo Era As A Guide For Ahn Bo Hyun In New JTBC Drama Sacred Jewel",
+    "dek": "The upcoming historical series has shared a first look at Ha Yun Kyung transforming into the savvy guide Geol Seung alongside Ahn Bo Hyun's expedition leader.",
+    "body": [
+      {
+        "h": "Introduction To Sacred Jewel",
+        "p": [
+          "JTBC has generated fresh excitement among K-drama enthusiasts by releasing a new batch of promotional stills for its upcoming television series, Sacred Jewel. The newly revealed images put the spotlight on actress Ha Yun Kyung as she steps into her latest character role for the historical project.",
+          "Set against the backdrop of a turbulent era, the drama promises a sweeping narrative combining historical stakes with dangerous adventure. Viewers are already tracking updates as the broadcast date approaches."
+        ]
+      },
+      {
+        "h": "Historical Setting And Premise",
+        "p": [
+          "The story unfolds in the year 1258 during the historical Goryeo Dynasty. At this critical juncture, the kingdom stands on the absolute brink of defeat after enduring three decades of relentless warfare against Mongolia.",
+          "Amid this desperate crisis, a specialized expedition unit braves the deadly battlefield to hunt down the Avalokitesvara Bead. This revered sacred relic is believed to hold the divine power necessary to safeguard the entire nation, while a courageous princess undertakes her own mission to rescue them."
+        ]
+      },
+      {
+        "h": "Character Introduction: Geol Seung",
+        "p": [
+          "Ha Yun Kyung takes on the role of Geol Seung, a capable guide who assumes the responsibility of leading an escort convoy across treacherous and unpredictable terrain. The newly published preview photos capture the character transitioning fluidly through multiple facets of her life.",
+          "Before taking on her dangerous duties on the trail, Geol Seung operated as a tavern keeper at Cheongru, a bustling establishment located within the marketplace on Ganghwa Island. Her deep ties to the marketplace and the sacred relic eventually draw her directly into the path of the main escort unit."
+        ]
+      },
+      {
+        "h": "Connection With Baek Gyeol",
+        "p": [
+          "Geol Seung enters the core of the narrative at the direct request of Baek Gyeol, portrayed by lead actor Ahn Bo Hyun. She agrees to accompany his elite group on their high-stakes mission to secure the nation's future.",
+          "Although Geol Seung is known for a naturally practical outlook on life, the sudden arrival of Baek Gyeol completely turns her daily routine upside down. Despite the chaos, she demonstrates remarkable resilience in the face of daunting circumstances."
+        ]
+      },
+      {
+        "h": "Personality And Survival Skills",
+        "p": [
+          "Operating effectively within an environment populated by the Yabyeolcho, an elite military unit, requires extraordinary grit. Geol Seung proves she possesses all the necessary survival instincts to hold her own among elite soldiers.",
+          "Behind an outspoken and sly exterior, the character harbors a deeply compassionate heart and a strong Buddhist faith. This multifaceted personality adds considerable depth to her role within the unfolding expedition."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule And Premiere",
+        "p": [
+          "Broadcasting network JTBC has officially scheduled the premiere of Sacred Jewel for December 5 at 10:40 p.m. KST. Fans are eagerly marking their calendars as the countdown to the first episode begins.",
+          "As anticipation continues to build following the release of these character stills, viewers are revisiting the cast's previous works while waiting for the historical epic to finally hit television screens."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "JTBC has unveiled new character stills of Ha Yun Kyung as the guide Geol Seung in the upcoming historical drama Sacred Jewel, set during the Goryeo Dynasty in the year 1258. The series follows an expedition team led by Ahn Bo Hyun as Baek Gyeol in search of a sacred relic to save the nation, with the premiere scheduled for December 5 at 10:40 p.m. KST."
+        ]
+      }
+    ],
+    "facts": [
+      "Sacred Jewel is set in the year 1258 during the Goryeo Dynasty.",
+      "The kingdom has faced 30 years of war with Mongolia.",
+      "Ha Yun Kyung plays Geol Seung, a former tavern keeper at Cheongru on Ganghwa Island.",
+      "Ahn Bo Hyun plays Baek Gyeol.",
+      "Sacred Jewel premieres on December 5 at 10:40 p.m. KST."
+    ],
+    "entities": {
+      "people": [
+        "Ha Yun Kyung",
+        "Ahn Bo Hyun",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Sacred Jewel",
+        "Go Back"
+      ]
+    },
+    "keywords": [
+      "Sacred Jewel drama",
+      "Ha Yun Kyung Sacred Jewel",
+      "Ahn Bo Hyun Sacred Jewel",
+      "JTBC Sacred Jewel Goryeo Dynasty"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/04122119/sacred-jewel.jpg",
+        "caption": "Ha Yun Kyung Steps Into The Goryeo Era As A Guide For Ahn Bo Hyun In New JTBC Drama Sacred Jewel",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:22:01 +0000"
+  },
+  "njnqmd": {
+    "id": "njnqmd",
+    "type": "news",
+    "headline": "'Mogging' Named Collins Dictionary's Word of the Year 2026",
+    "dek": "Collins Dictionary has chosen the viral Gen Z slang term 'mogging' as its Word of the Year for 2026 following a massive surge in usage.",
+    "body": [
+      {
+        "h": "Introduction to the Word of the Year",
+        "p": [
+          "The Collins English Dictionary has officially designated 'mogging' as the Word of the Year for 2026. This selection highlights a slang term that has achieved widespread popularity among Gen Z and Gen Alpha, spreading rapidly across various social media platforms and online communities.",
+          "The announcement, made on Tuesday, November 3, underscores the profound ongoing influence that internet culture and modern digital slang continue to exert on the evolution of everyday English vocabulary."
+        ]
+      },
+      {
+        "h": "Surge in Usage and Statistics",
+        "p": [
+          "According to a report by the Associated Press, the expression recorded an astonishing 210 per cent increase in usage throughout the year. This dramatic spike caught the attention of lexicographers who track shifting linguistic patterns on a daily basis.",
+          "To determine the winner, dictionary experts examine a massive database containing approximately 27 billion words. This comprehensive monitoring system draws from diverse material, including active social media feeds and other contemporary digital sources."
+        ]
+      },
+      {
+        "h": "Definition and Meaning of 'Mogging'",
+        "p": [
+          "Based on the official Collins Dictionary announcement, 'mogging' describes the specific act of outshining or outperforming someone or something. It is frequently deployed in situations where an individual appears noticeably more attractive, confident, stylish, or impressive than those around them.",
+          "For example, a person who naturally stands out in a group due to their striking appearance or distinct fashion sense might be described as 'mogging' everyone in their vicinity. Younger demographics frequently utilize this expression in a playful or ironic manner."
+        ]
+      },
+      {
+        "h": "Origins in Fitness and Bodybuilding",
+        "p": [
+          "Etymological insights published in a Collins Dictionary blog trace the term back to 'AMOG', which serves as an acronym for 'alpha male of the group'. This foundational expression first emerged around 2016 within niche bodybuilding communities.",
+          "In its earliest iterations, the term referred specifically to the most physically dominant man present in a gym. Over time, it propagated through various online spaces centered around discussions of masculinity and physical presentation before finally entering mainstream social media."
+        ]
+      },
+      {
+        "h": "Cultural Significance and Leadership Commentary",
+        "p": [
+          "Alex Beecroft, the managing director of Collins, noted that the selection clearly demonstrates how each new generation leaves a distinct mark on language. He highlighted how younger users transformed an older gym expression into humorous contemporary slang.",
+          "Beecroft remarked that this linguistic evolution showcases youth making the language their own and playfully 'mogging' the rest of society in the process."
+        ]
+      },
+      {
+        "h": "Other Shortlisted Terms",
+        "p": [
+          "Alongside the winner, the dictionary shortlisted several other expressions capturing emerging social, technological, and cultural shifts. One notable contender was 'ghost job', denoting a vacancy advertised by an employer with no real intention of hiring.",
+          "Other shortlisted entries included 'carspreading' for oversized vehicles, 'fricy' for fruit-and-spice food combinations, 'friendslop' for low-budget indie co-op games, and 'P(doom)' representing the estimated probability of AI causing human civilisational collapse."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Collins Dictionary named 'mogging' the Word of the Year for 2026 after a 210 per cent increase in usage driven by Gen Z and Gen Alpha on social media. The term, originating from 2016 bodybuilding slang via 'AMOG', describes outshining others in looks or style and was selected from a database monitoring billions of words."
+        ]
+      }
+    ],
+    "facts": [
+      "Collins English Dictionary named 'mogging' its Word of the Year for 2026.",
+      "The announcement was made on Tuesday, November 3, 2026.",
+      "Usage of the term increased by 210 per cent.",
+      "The term originated around 2016 from 'AMOG' (alpha male of the group) in bodybuilding communities.",
+      "Alex Beecroft is the managing director of Collins.",
+      "Collins monitors a database containing approximately 27 billion words."
+    ],
+    "entities": {
+      "people": [
+        "Mahipal Singh Chouhan",
+        "Alex Beecroft"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "mogging Word of the Year 2026",
+      "Collins Dictionary mogging",
+      "meaning of mogging slang",
+      "Gen Z slang mogging origin"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/04/1600x900/logo/Mogging__Word_of_the_Year_2026_1793783105384_CW28_1793783110875_vmwn_b27d92cf-e7dc-40aa-b498-fafd298bcff7_WRqY.png",
+        "caption": "'Mogging' Named Collins Dictionary's Word of the Year 2026",
+        "source": "Hindustan Times — Trending"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:37:40 +0530"
+  },
+  "thwk62": {
+    "id": "thwk62",
+    "type": "news",
+    "headline": "Ramayana Worldwide Advance Sales Cross 150 Crore Gross Following Strong Early Screenings",
+    "dek": "Namit Malhotra's highly anticipated mythological epic Ramayana: Part One is generating massive momentum ahead of its theatrical debut, crossing 150 crore gross in worldwide advance sales following encouraging early reactions.",
+    "body": [
+      {
+        "h": "Global Advance Sales Cross Major Milestone",
+        "p": [
+          "Pre-release business for Ramayana: Part One has surged dramatically, crossing the significant threshold of 150 crore gross in worldwide advance bookings. Domestic figures in India have contributed over 100 crore gross through Monday, while overseas ticket sales have accumulated approximately $5.6 million.",
+          "This rapid accumulation of pre-sales highlights the immense global anticipation surrounding the mythological project. Industry trackers attribute part of this recent surge to the successful resolution of an earlier distributor-exhibitor revenue-sharing disagreement that had temporarily hindered ticket booking expansions."
+        ]
+      },
+      {
+        "h": "Press Screenings and Early Reactions",
+        "p": [
+          "Makers organized exclusive press screenings in Mumbai to showcase the mythological epic to select viewers and reviewers. Content creator Ashish Chanchlani and actors like Kunal Kapoor and Ajinkya Deo shared positive initial impressions praising the scale and execution.",
+          "While a unified critical consensus is still forming, reviewers have lauded the cinematic grandeur, high production design, and emotional core. Early reports indicate that audiences found the adaptation of the timeless epic respectful and engaging."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Performances",
+        "p": [
+          "The film features an expansive ensemble cast portraying iconic characters from the epic narrative. Ranbir Kapoor leads the project as Lord Ram, drawing praise for his restrained expressions, grace, and quiet strength.",
+          "Sai Pallavi plays Maa Sita, bringing a naturalistic tenderness and warmth to the drama, while Yash delivers a commanding and intense performance as the antagonist Ravana. Supporting actors like Ravie Dubey, Rakul Preet, Arun Govil, and Sunny Deol further bolster the cast's extensive scale."
+        ]
+      },
+      {
+        "h": "Direction and Technical Brilliance",
+        "p": [
+          "Director Nitesh Tiwari has helmed the project, handling the massive responsibility of adapting the sacred text with narrative precision and emotional depth. The production relies heavily on world-building and meticulous pacing to keep viewers engaged.",
+          "Academy Award-winning visual effects studio DNEG handled the CGI, producing breathtaking imagery that sets a new benchmark for Indian cinema. Outstanding production design ensures that the aesthetic standards rival top international cinematic achievements."
+        ]
+      },
+      {
+        "h": "Music and Soundscapes",
+        "p": [
+          "The auditory experience of the film has received widespread acclaim from early viewers. A.R. Rahman composed the songs, which are seamlessly integrated into the narrative flow to complement specific emotional tones.",
+          "The background score, a collaborative effort by Hans Zimmer and A.R. Rahman, amplifies the dramatic tension and emotional resonance. Particular sequences, such as the Rama versus Shurpanakha's army confrontation, feature standout musical arrangements."
+        ]
+      },
+      {
+        "h": "Box Office Outlook and Release Context",
+        "p": [
+          "Ramayana: Part One arrives in cinemas on Thursday, November 5, positioning itself as one of the biggest theatrical openers of the year. The pre-Diwali release window presents unique challenges due to festive shopping and preparations affecting initial footfalls.",
+          "Despite potential early headwinds, the robust advance booking numbers and strong word of mouth provide a solid foundation. The extended holiday period offers a substantial opportunity for the film to sustain its box office momentum."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana: Part One has crossed 150 crore gross in worldwide advance sales ahead of its theatrical release on November 5, 2026. Early press screenings in Mumbai yielded favorable reactions for its visual effects, direction by Nitesh Tiwari, and performances by Ranbir Kapoor, Sai Pallavi, and Yash."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide advance sales crossed 150 crore gross by November 4, 2026.",
+      "Domestic advance bookings in India crossed 100 crore gross through Monday.",
+      "Overseas advance sales reached approximately $5.6 million.",
+      "Special press screenings were held in Mumbai on November 3, 2026.",
+      "The film is scheduled to release in cinemas on Thursday, November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ashish Chanchlani",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Kunal Kapoor",
+        "Ajinkya Deo",
+        "Rakul Preet",
+        "Sunny Deol",
+        "Arun Govil",
+        "Shobhana",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Sheeba Chadha",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Aavishkar",
+        "Amit Bhatia",
+        "Taran Adarsh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part One",
+        "Dune Part 2",
+        "Dharti Hai Ambar"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana advance booking"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028360.jpg",
+        "caption": "Ramayana Worldwide Advance Sales Cross 150 Crore Gross Following Strong Early Screenings",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:39:44 +0000"
   }
 };
