@@ -56491,5 +56491,615 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 13:05:13 +0000"
+  },
+  "xpfszo": {
+    "id": "xpfszo",
+    "type": "news",
+    "headline": "Uswah Episode 43 — Watch Online on Geo TV",
+    "dek": "Uswah episode 43 aired on 2026-11-04 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 43 aired on 2026-11-04 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=W1GoviOymlU"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Ibrahim apne bete Eisa ko ek appointment letter deta hai aur kehta hai ke kal se wo uska office join kare ga. Eisa office join karne se inkaar karta hai, kehta hai ke wo apna business khud karna chahta hai aur uske paas koi aisi interest nahi hai, lekin Ibrahim zidd karta hai ke woh betay ko kamyab dekhna chahta hai aur isliye usko office aana hoga. Faria, jo Eisa ki mangetar hai, usse samjhaane ki koshish karti hai ke uske walid ki khwahish hai ke woh business sambhale, aur usse kahati hai ke unhe mana lo taake sab theek ho jaye. Eisa Faria ki baat maan leta hai aur agle din Eisa aur Faria dono Ibrahim ke ghar jaate hain jahan Ibrahim sabse khush hota hai aur kehta hai ke Eisa ab office join kar raha hai.\n\nDusri taraf, Ibrahim ki biwi (Abir ki saas) Abir se naraz hoti hai ke woh abhi tak office kyun nahi gaya, lekin Abir chup rehta hai. Abir ke ghar mein Mahabir aur uski biwi bhi maujood hain jo kehte hain ke Mahabir ki shadi Uswah se isliye karayi gayi thi ke woh Ibrahim ke ghar se nikal jaye aur apas ke halat theek ho sakein. Episode ke aakhir mein Eisa office mein baithe hue phone par Faria se baat karta hai jahan woh Faria ko yeh batata hai ke usne office join kar liya hai aur Faria is baat par gussa hoti hai ke Eisa ne use pehle kyun nahi bataya. Episode yahin khatam hoti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 43 aired on 2026-11-04.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=W1GoviOymlU",
+      "YouTube views: 81,846.",
+      "Episode summary added 2026-11-04."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/W1GoviOymlU/hqdefault.jpg",
+        "caption": "Uswah Episode 43",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-04T15:00:38Z"
+  },
+  "1qyaoli": {
+    "id": "1qyaoli",
+    "type": "news",
+    "headline": "Khushi Episode 53 — Watch Online on HUM TV",
+    "dek": "Khushi episode 53 aired on 2026-11-04 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 53 aired on 2026-11-04 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=tE17n7QbV04"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Amar jab ghar aata hai to uski bhabhi kehti hain ke Khushi uska der se intezaar kar rahi thi aur bhabhi Amar ko samjhati hain ke woh Khushi ka khayal rakhe aur usse naraz na rahe. Amar jab kamre mein jata hai to Khushi chup chaap baithi hoti hai aur woh dono apas mein baat karte hain, jahan Amar pasta banane ki baat karta hai. Raat ko Sam ki maa Sam se baat karti hain ke woh ghar se kyu gayab tha aur Sam unhe manata hai. Agli subah Khushi ghar se bag le kar nikal parti hai aur jab woh ghar se bahar jaati hai to raste mein usey koi milta hai jo uski maano-muma se baat karta hai. Baad mein, Khushi apne in-laws ke ghar chali jaati hai aur sab ko batati hai ke Sam ne usey ghar se nikal diya hai, jis par ghar wale pareshan hojate hain aur woh yeh faisla karte hain ke unhe Sam ke paas jaakar baat karni chahiye. Episode ke aakhir mein Sam aur uske ghar walon ki aapas mein behas hoti hai jahan Sam kehta hai ke usne Khushi ko ghar se nahi nikaala balki woh apni marzi se gayi hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 53 aired on 2026-11-04.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=tE17n7QbV04",
+      "YouTube views: 41,475.",
+      "Episode summary added 2026-11-04."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/tE17n7QbV04/hqdefault.jpg",
+        "caption": "Khushi Episode 53",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-04T15:00:15Z"
+  },
+  "1r7ug2g": {
+    "id": "1r7ug2g",
+    "type": "news",
+    "headline": "Izzat Episode 46 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 46 aired on 2026-11-04 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 46 aired on 2026-11-04 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=3iiDxr0IkMs"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Parniya apni library mein book parh rahi hoti hai jab Anas wahan aakar uske paas baithta hai aur apne maamu ko unki dukan par bhejny ke baare mein baat karta hai. Woh Parniya se maamu ko manane mein madad maangta hai. Anas Parniya ke gharwalo se milta hai aur kehta hai ke ab unhe kaam karne ki zaroorat hai. Anas aur Parniya phir aik car mein baithkar travel agency jate hain jahan kuch bus ke masail aur complaints par baat hoti hai. Anas aur uske walid ke darmiyan bus service aur business ke hawale se gusse wali guftagu hoti hai jahan walid Anas ki harkato par na khush hote hain. Baad mein, Tayi aur doosre log Parniya se milne unke ghar aate hain aur maazi ke kisi toofe ya jewelry par baat hoti hai. Anas phone par Tayi se baat karke aik request karta hai ke woh Parniya se milwa dein, jis par Tayi raazi ho jati hain aur yeh episode aik jazbati aur pareshan kun cliffhanger par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 46 aired on 2026-11-04.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=3iiDxr0IkMs",
+      "YouTube views: 613.",
+      "Episode summary added 2026-11-04."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3iiDxr0IkMs/hqdefault.jpg",
+        "caption": "Izzat Episode 46",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-04T15:00:14Z"
+  },
+  "1num2n7": {
+    "id": "1num2n7",
+    "type": "news",
+    "headline": "Dastoor Episode 75 — Watch Online on Green TV",
+    "dek": "Dastoor episode 75 aired on 2026-11-04 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 75 aired on 2026-11-04 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Jb7VZP-0HgI"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Salman apne wakeel se phone par baat karta hai aur usey batata hai ke Amara ke khilaf FIR ke liye zaroori kagzaat aur saboot poore ho gaye hain, is liye ab karwai shuru ki ja sakti hai. Salman kehta hai ke Amara ne jo cheezein haq-meher mein li thi woh toh wapas nahi li ja sakti, lekin jo paisa usne fraud se hasil kiya hai, us par karwai ho sakti hai. Salman chahta hai ke is baar adalat ke samne Amara ki sari galtiyan aa jayein taake woh asani se apni raqam kharch na kar sake. Salman phir aik cafe mein Shehza se milta hai aur kehta hai ke unka ghar dobara Aliyan ke naam transfer kar diya jaye aur usey Aliyan se talaq leni hogi. Shehza yeh sun kar hairan reh jati hai aur kehti hai ke yeh sab itni asani se khatam nahi ho sakta, aur agar Salman ne uske khilaf koi kadam uthaya toh woh sari sachai Aliyan ke samne khol degi.\n\nBaad mein, Aliyan aur Alina apnay walid ke ghar jaate hain aur Aliyan apne sasur ko apne aur Alina ki shadi ke bare mein batata hai, jis par woh thore naraz hote hain lekin phir sab theek ho jata hai. Dusri taraf, police Amara ko arrest kar ke le jati hai aur ye khabar jab ghar walon ko milti hai toh sab pareshan ho jate hain. Shaana, jo ke Amara ki maa hai, aur Aliyan ke paas jati hain aur usey batati hain ke Amara ko police pakar ke le gayi hai. Aliyan aur Shiza foran police station jate hain jahan Aliyan Amara se milta hai aur kehta hai ke uski zamanat subah tak ho jayegi, lekin tab tak usey yahin rehna hoga. Episode ke aakhir mein, Salman Zeibunnisa se phone par baat karta hai aur khushi se batata hai ke usne Amara ko arrest karwa diya hai, aur Zeibunnisa kehti hai ke ab Amara ko apne kiye ka hisab dena hoga. Shehza aur baqi sab ghar wale is khabar se bohot pareshan hain aur episode yahin khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 75 aired on 2026-11-04.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Jb7VZP-0HgI",
+      "YouTube views: 34,489.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-04."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Jb7VZP-0HgI/hqdefault.jpg",
+        "caption": "Dastoor Episode 75",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-04T14:45:23Z"
+  },
+  "790206": {
+    "id": "790206",
+    "type": "news",
+    "headline": "Kartik Aaryan and Kabir Khan Team Up Again for Ladaku With June 2027 Release",
+    "dek": "The actor and director duo behind Chandu Champion are back for a new sports-themed biographical drama inspired by real-life events.",
+    "body": [
+      {
+        "h": "The Reunion of Star and Director",
+        "p": [
+          "Bollywood performer Kartik Aaryan is collaborating once more with filmmaker Kabir Khan on a fresh cinematic project titled Ladaku. This new venture brings the creative pair back together nearly two years after their previous joint effort, Chandu Champion, which brought Kartik his first National Film Award in the Best Actor category.",
+          "The upcoming feature has officially secured a worldwide theatrical release date of June 18, 2027. Fans of both the actor and the director have eagerly awaited news of their next partnership, especially following the critical acclaim and recognition earned by their biographical sports drama released in 2024."
+        ]
+      },
+      {
+        "h": "Inspiration and Real-Life Roots",
+        "p": [
+          "Ladaku is structured as an emotional family entertainer rooted in extraordinary real-life occurrences. Early reports indicate the plot will center around a kickboxing coach who mentors a young Kashmiri girl, helping her attain international glory in the sport.",
+          "The narrative draws heavily from the real-life journey of Tajamul Islam, who famously achieved the status of a world kickboxing champion at the tender age of seven. To prepare for the intense demands of the character, Kartik has undergone dedicated physical training, with production schedules taking the crew to locations in Mumbai and Kashmir."
+        ]
+      },
+      {
+        "h": "Continuing a Sports Drama Tradition",
+        "p": [
+          "While both Chandu Champion and Ladaku fall under the sports genre, the filmmakers have approached the storytelling from different angles. The earlier film chronicled the remarkable life of Murlikant Petkar, India's inaugural Paralympic gold medallist.",
+          "Conversely, the new project emphasizes the intricate bond between a mentor and a young competitor navigating severe hardships. Kabir Khan, known for helming acclaimed features like Bajrangi Bhaijaan and 83, continues his exploration of human resilience against daunting odds."
+        ]
+      },
+      {
+        "h": "Kartik Aaryan Steps into Production",
+        "p": [
+          "Beyond his acting duties, Kartik is expanding his involvement in the industry by making his debut as a producer. He established his own banner, Dopamine Studios, after developing a deep personal connection to the underlying narrative of the film.",
+          "This entrepreneurial step highlights a growing trend among prominent Bollywood stars who choose to participate actively in the business side of filmmaking. Ladaku is co-backed by Kabir Khan Entertainment, Ananya Birla's Birla Studios, and Kartik's newly launched production company."
+        ]
+      },
+      {
+        "h": "A Busy Slate for 2027",
+        "p": [
+          "Following a quiet year without any theatrical appearances in 2026, Kartik has lined up a prolific schedule for the first half of 2027. Ladaku is just one of three major movies preparing to hit cinema screens during that period.",
+          "His upcoming slate kicks off with the fantasy comedy Naagzilla on February 12, followed by a romantic drama directed by Anurag Basu and co-starring Sreeleela on April 30. Ladaku will then arrive in June, showcasing a diverse range of genres for his audience."
+        ]
+      },
+      {
+        "h": "Production Backing and Future Updates",
+        "p": [
+          "The project has undergone some evolution in its backing, with Birla Studios stepping in alongside the primary production houses. Earlier developmental phases had associated Applause Entertainment with the feature before the current partnership was finalized.",
+          "With the official title and release window now public knowledge, audiences can anticipate further announcements regarding the remaining cast members and the official marketing campaign in the upcoming months."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kartik Aaryan and director Kabir Khan are reuniting for Ladaku, a real-life-inspired sports drama scheduled for a worldwide release on June 18, 2027. The film draws inspiration from kickboxer Tajamul Islam and features Kartik as a coach alongside his debut as a producer through Dopamine Studios."
+        ]
+      }
+    ],
+    "facts": [
+      "Kartik Aaryan and Kabir Khan are reuniting for Ladaku.",
+      "Ladaku is scheduled for a worldwide release on June 18, 2027.",
+      "Their previous collaboration, Chandu Champion, was released in 2024 and earned Kartik a National Film Award for Best Actor.",
+      "Tajamul Islam became a world kickboxing champion at the age of seven.",
+      "Kartik launched his production company, Dopamine Studios, earlier in the year.",
+      "Ladaku is backed by Birla Studios, Kabir Khan Entertainment, and Dopamine Studios.",
+      "Kartik's 2027 slate includes Naagzilla on February 12, an Anurag Basu romantic drama with Sreeleela on April 30, and Ladaku in June."
+    ],
+    "entities": {
+      "people": [
+        "Kartik Aaryan",
+        "Kabir Khan",
+        "Tajamul Islam",
+        "Murlikant Petkar",
+        "Ananya Birla",
+        "Anurag Basu",
+        "Sreeleela"
+      ],
+      "titles": [
+        "Ladaku",
+        "Chandu Champion",
+        "Bajrangi Bhaijaan",
+        "83",
+        "Naagzilla"
+      ]
+    },
+    "keywords": [
+      "Kartik Aaryan Ladaku",
+      "Kabir Khan Ladaku",
+      "Ladaku release date",
+      "Tajamul Islam film"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028366.jpg",
+        "caption": "Kartik Aaryan and Kabir Khan Team Up Again for Ladaku With June 2027 Release",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:28:23 +0000"
+  },
+  "hqcq8k": {
+    "id": "hqcq8k",
+    "type": "news",
+    "headline": "Ramayana Faces Massive $65 Million Overseas Box Office Target as $10 Million Marketing Budget Reported",
+    "dek": "Namit Malhotra's Ramayana: Part One is carrying enormous overseas box office expectations ahead of its worldwide theatrical release on November 5, with trade trackers reporting a $10 million international marketing budget and a $65 million foreign collection target.",
+    "body": [
+      {
+        "h": "Introduction and Release Projections",
+        "p": [
+          "Namit Malhotra's highly anticipated feature film is heading toward its worldwide theatrical release with towering expectations surrounding its performance in foreign territories.",
+          "Trade trackers have shared details regarding the financial milestones the production aims to achieve once the movie opens globally."
+        ]
+      },
+      {
+        "h": "International Marketing Budget Details",
+        "p": [
+          "Prime Focus Studios and Sony Pictures have reportedly approved a substantial international promotional allocation to support the epic project across global markets.",
+          "This promotional funding has been cited as the highest financial commitment ever designated for the international marketing of an Indian feature film."
+        ]
+      },
+      {
+        "h": "Overseas Collection Targets",
+        "p": [
+          "Reports indicate that internal expectations have set the bar at a minimum of sixty-five million dollars in international theatrical collections.",
+          "A significant portion of this goal relies heavily on the North American market, where the producers are reportedly looking to secure thirty million dollars."
+        ]
+      },
+      {
+        "h": "Global Distribution and Sony Pictures Partnership",
+        "p": [
+          "The involvement of Sony Pictures as an international distributor highlights the strategy to introduce the epic production to audiences well beyond traditional diaspora communities.",
+          "Previous industry estimates had pointed toward an even larger global promotional commitment, reflecting the expansive scale planned for the rollout."
+        ]
+      },
+      {
+        "h": "Comparison With Dhurandhar 2",
+        "p": [
+          "The lofty targets draw direct comparisons to Aditya Dhar's blockbuster film, which previously achieved remarkable success in overseas territories despite missing screenings in certain regions.",
+          "That preceding project set a major benchmark by crossing the twenty-five million dollar milestone in North America, establishing a tough standard for upcoming releases."
+        ]
+      },
+      {
+        "h": "Advance Bookings and Opening Weekend Outlook",
+        "p": [
+          "Initial advance bookings have established a promising baseline, particularly across the United States and Canada as paid previews approach.",
+          "Industry trackers project a strong opening weekend in foreign territories, though maintaining momentum will remain vital to reaching the broader lifetime goals."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana: Part One is facing a massive overseas box office target of sixty-five million dollars alongside a reported ten million dollar international marketing budget ahead of its November 5 release. Trade reports and industry comparisons highlight the high stakes and extensive global distribution plans backed by Sony Pictures and Prime Focus Studios."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra's Ramayana: Part One releases worldwide on November 5, 2026.",
+      "Prime Focus Studios and Sony Pictures approved a $10 million international marketing budget.",
+      "Makers are targeting at least $65 million in overseas theatrical collections, including $30 million from North America.",
+      "North American paid previews begin on November 4, 2026.",
+      "Aditya Dhar's Dhurandhar 2 collected more than $47 million overseas."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Venky",
+        "Aditya Dhar",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana overseas box office target",
+      "Ramayana marketing budget",
+      "Namit Malhotra Ramayana Part One",
+      "Sony Pictures Ramayana distribution"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028365.jpg",
+        "caption": "Ramayana Faces Massive $65 Million Overseas Box Office Target as $10 Million Marketing Budget Reported",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:08:44 +0000"
+  },
+  "mvlc67": {
+    "id": "mvlc67",
+    "type": "news",
+    "headline": "Netflix Unveils Official Trailer for Jed Mercurio’s Political Conspiracy Thriller Series Trinity",
+    "dek": "Richard Madden and Gugu Mbatha-Raw lead a high-stakes nuclear conspiracy drama created by the mind behind Line of Duty and Bodyguard.",
+    "body": [
+      {
+        "h": "Introduction to Trinity",
+        "p": [
+          "Netflix has officially released the trailer for Trinity, an upcoming political conspiracy thriller created by Jed Mercurio. Known widely for his work on hit dramas like Line of Duty and Bodyguard, Mercurio brings his signature suspenseful style to this new project.",
+          "The seven-part series is scheduled to arrive this December, promising audiences dangerous secrets, high-stakes political intrigue, and potentially catastrophic consequences that threaten the entire world."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The story centers on Commander Katherine Decker, a heroic US naval officer serving as second-in-command aboard the USS Kansas. Played by Gugu Mbatha-Raw, her life shifts dramatically when she crosses paths with the charismatic US Secretary of Defense, Webb Preston, portrayed by Richard Madden.",
+          "Webb Preston is a former technology executive with an ambitious vision for America and a stated desire to prevent World War III. However, as Katherine grows closer to him, she uncovers a top-secret program code-named Trinity and must question whether the man she cares for is a savior or a threat."
+        ]
+      },
+      {
+        "h": "Inspirations and Setting",
+        "p": [
+          "Jed Mercurio has described Trinity as a blend of high-octane action and a nail-biting conspiracy thriller. He drew primary inspiration from one of his all-time favorite films, No Way Out, aiming to construct a Pentagon-focused narrative that challenges a heroic naval officer.",
+          "The choice of a nuclear submarine provides a uniquely tense environment. Mercurio noted that ballistic nuclear submarines in the US Navy are powerful weapons capable of hiding indefinitely, creating a deadly and claustrophobic setting for the thriller."
+        ]
+      },
+      {
+        "h": "A Bodyguard Reunion",
+        "p": [
+          "Trinity marks a major reunion between showrunner Jed Mercurio and actor Richard Madden, who previously collaborated on the immensely successful BBC drama Bodyguard. Their past work together sets high expectations for complex twists and political machinations.",
+          "Mercurio praised Madden as a dedicated and talented performer capable of elevating every script, noting that his portrayal of Secretary of Defense Webb Preston will keep viewers guessing until the end of the season."
+        ]
+      },
+      {
+        "h": "An Impressive Supporting Ensemble",
+        "p": [
+          "Beyond the two lead actors, the series boasts a notable supporting cast including Marcia Gay Harden as Margaret Vandenburg, JD Pardo as Lieutenant Commander Tom Reyes, and Bruce Greenwood as Special Agent Eric Colby.",
+          "The ensemble further features Robert Wisdom, Kirk Acevedo, Ben Cotton, James Remar, Jason Ralph, and Mark O’Brien, rounding out a powerhouse group of characters involved in the political web."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Release Details",
+        "p": [
+          "Behind the camera, Jed Mercurio serves as writer, showrunner, and executive producer alongside Jimmy Mulville and Wendy Mericle. Additionally, Michael Cuesta directs the first two episodes and acts as an executive producer.",
+          "All seven episodes of Trinity Season 1 will premiere together on Tuesday, 1st December 2026, on Netflix UK and Netflix US."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the official trailer for the upcoming seven-part political thriller series Trinity, created by Jed Mercurio. Starring Gugu Mbatha-Raw and Richard Madden, the show premieres on December 1, 2026, and follows a dangerous nuclear conspiracy aboard a submarine."
+        ]
+      }
+    ],
+    "facts": [
+      "Trinity is a seven-part political conspiracy thriller series created by Jed Mercurio.",
+      "The series premieres on Tuesday, 1st December 2026, on Netflix UK and Netflix US.",
+      "Gugu Mbatha-Raw stars as Commander Katherine Decker and Richard Madden stars as US Secretary of Defense Webb Preston.",
+      "Michael Cuesta directs the first two episodes and serves as executive producer."
+    ],
+    "entities": {
+      "people": [
+        "Richard Madden",
+        "Gugu Mbatha-Raw",
+        "Jed Mercurio",
+        "Marcia Gay Harden",
+        "JD Pardo",
+        "Bruce Greenwood",
+        "Robert Wisdom",
+        "Kirk Acevedo",
+        "Ben Cotton",
+        "James Remar",
+        "Jason Ralph",
+        "Mark O’Brien",
+        "Jimmy Mulville",
+        "Wendy Mericle",
+        "Michael Cuesta",
+        "Charlie Higson",
+        "Shaun Dooley",
+        "Peter Capaldi",
+        "Alison O’Donnell",
+        "Sharon Horgan",
+        "Keeley Hawes",
+        "Izuka Hoyle",
+        "Jonathan Creek",
+        "Rick Riordan"
+      ],
+      "titles": [
+        "Trinity",
+        "Line of Duty",
+        "Bodyguard",
+        "Loki",
+        "Surface",
+        "Citadel",
+        "No Way Out",
+        "So Help Me Todd",
+        "Mayans M.C.",
+        "The Fall of the House of Usher",
+        "Barry",
+        "Lioness",
+        "The Night Agent",
+        "Dexter: Resurrection",
+        "The Magicians",
+        "City on a Hill",
+        "Homeland",
+        "Death in Paradise",
+        "Glee",
+        "Poison Ivy",
+        "Nocturne",
+        "Sherlock & Daughter",
+        "The Devil's Hour",
+        "Shetland",
+        "Youth",
+        "Percy Jackson and the Olympians",
+        "Prisoner",
+        "Jonathan Creek",
+        "Daredevil"
+      ]
+    },
+    "keywords": [
+      "Trinity Netflix series",
+      "Richard Madden Trinity",
+      "Gugu Mbatha Raw Trinity",
+      "Jed Mercurio Trinity"
+    ],
+    "images": [
+      {
+        "url": "http://www.geektown.co.uk/wp-content/uploads/2026/11/trinity.jpg",
+        "caption": "Netflix Unveils Official Trailer for Jed Mercurio’s Political Conspiracy Thriller Series Trinity",
+        "source": "Geektown"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:59:51 +0000"
+  },
+  "l1v2en": {
+    "id": "l1v2en",
+    "type": "news",
+    "headline": "Badshah Shares Glowing Review of 'Ramayana' Ahead of November Release",
+    "dek": "Singer and music composer Badshah praised the visuals, music, and performances in Nitesh Tiwari's upcoming mythological epic following a special screening in Mumbai.",
+    "body": [
+      {
+        "h": "Special Screening and First Impressions",
+        "p": [
+          "Anticipation around the upcoming cinematic adaptation of 'Ramayana' has reached new heights following an exclusive screening held in Mumbai. Entertainment figures and members of the film fraternity gathered to catch an early glimpse of the mythological epic directed by Nitesh Tiwari.",
+          "Among the attendees was prominent singer and music composer Badshah, who took to social media to share his unfiltered thoughts. His enthusiastic commentary immediately caught the attention of film enthusiasts waiting for the big-screen premiere."
+        ]
+      },
+      {
+        "h": "Badshah Praises Visuals and Performances",
+        "p": [
+          "In his online review, Badshah described every frame of the feature as breathtaking and commended producer Namit Malhotra for delivering on a grand scale. He noted that the characters felt remarkably authentic despite the familiar narrative that many audiences have known since childhood.",
+          "The musician showered praise on the entire principal cast, specifically highlighting the standout performances delivered by Ranbir Kapoor, Sai Pallavi, Ravi Dubey, Yash, Lara Dutta, Arun Govil, and Rakul Preet Singh."
+        ]
+      },
+      {
+        "h": "Standout Sequences and Musical Score",
+        "p": [
+          "Highlighting specific moments from the production, Badshah singled out the Jatayu sequence, describing it as an insane visual achievement. He also urged viewers to watch out for the emotional impact of the background score, calling the background music incredible.",
+          "He further advised fans to experience the moment when the dharti amber theme plays during the narrative, promising that viewers would respond with enthusiastic applause."
+        ]
+      },
+      {
+        "h": "Grand Scale and International Rollout",
+        "p": [
+          "Touted as the largest Indian film in terms of scale and budgetary allocation, 'Ramayana' has been produced on a reported budget of Rs 4000 crore. The ambitious project is positioned as India's answer to major Hollywood blockbusters, featuring cutting-edge visual effects crafted by the eight-time Oscar-winning studio DNEG.",
+          "The global distribution is being managed by Sony Pictures, ensuring that the feature reaches seventy thousand screens, marking the widest theatrical rollout ever achieved by an Indian production."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, the movie is a collaborative production backed by Namit Malhotra's Prime Focus and Yash's Monster Mind Creations. The leading roles are filled by Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+          "The extensive supporting ensemble features prominent names such as Sunny Deol, Ravie Dubey, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Adinath Kothare, Arun Govil, Indira Krishnan, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "Release Schedule and Language Options",
+        "p": [
+          "The first part of the cinematic epic is scheduled to arrive in theatres worldwide on November 5, 2026, while the second installment has been slated for a 2028 release. To ensure maximum reach across the country, the films will be distributed in Hindi, Tamil, Telugu, Kannada, and Malayalam.",
+          "Prior to its domestic theatrical arrival, the project celebrated its world premiere in Los Angeles last week, followed by the high-profile industry screening in Mumbai."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Badshah shared an enthusiastic review of the upcoming film 'Ramayana' following a special screening in Mumbai ahead of its November 5 release. He praised the movie's stunning visual effects, musical score, and performances by the star-studded cast led by Ranbir Kapoor, Sai Pallavi, and Yash."
+        ]
+      }
+    ],
+    "facts": [
+      "The film 'Ramayana' releases in theatres on November 5, 2026.",
+      "A special screening of the film was held in Mumbai.",
+      "Badshah praised the film's visuals, music, and cast on an X post.",
+      "The film is reported to have a budget of Rs 4000 crore.",
+      "DNEG handled the VFX for the film.",
+      "Sony Pictures is handling the global release across 70,000 screens.",
+      "The film is produced by Namit Malhotra's Prime Focus and Yash's Monster Mind Creations.",
+      "The cast includes Ranbir Kapoor, Sai Pallavi, Yash, Sunny Deol, Ravie Dubey, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Adinath Kothare, Arun Govil, Indira Krishnan, and Lara Dutta.",
+      "Part one releases on November 5, 2026, and part two is set for 2028.",
+      "The film will release in Hindi, Tamil, Telugu, Kannada, and Malayalam."
+    ],
+    "entities": {
+      "people": [
+        "Badshah",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Yash",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Indira Krishnan"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Badshah Ramayana review",
+      "Ranbir Kapoor Sai Pallavi Ramayana",
+      "Ramayana release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135542933,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Badshah Shares Glowing Review of 'Ramayana' Ahead of November Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T20:18:48+05:30"
   }
 };
