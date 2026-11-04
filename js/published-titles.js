@@ -652,7 +652,7 @@ window.FA_PUBLISHED = {
     "runtime": 90,
     "providers": [],
     "date_kind": "release",
-    "popularity": 36.9286
+    "popularity": 36.8099
   },
   "336288": {
     "id": 336288,
@@ -807,7 +807,7 @@ window.FA_PUBLISHED = {
     "id": 1003596,
     "type": "movie",
     "title": "Avengers: Doomsday",
-    "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "poster_path": "/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
     "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
@@ -5532,7 +5532,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "industry": "world",
-    "popularity": 45.0757,
+    "popularity": 37.5263,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -5562,7 +5562,7 @@ window.FA_PUBLISHED = {
     "spoken_languages": [
       "en"
     ],
-    "certification": "+13",
+    "certification": "PG-13",
     "release_date": "2026-12-18",
     "date_kind": "release",
     "runtime": 150,
@@ -5774,12 +5774,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "King",
     "poster_path": "/74fHULlTBMGGLusfFBVAkMAZbce.jpg",
-    "backdrop_path": "/qjQ8HLRURbkfqBZ93JMl8Xr8tnd.jpg",
+    "backdrop_path": "/mjiDUz5idO9LrJC40JphKmSqjfF.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
     "industry": "bollywood",
-    "popularity": 6.5946,
+    "popularity": 6.2732,
     "original_language": "hi",
     "origin_country": [
       "IN"
@@ -5928,7 +5928,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Set in a 1900s Pashtun village, this tragic short film follows the lives of Sher Alam and Memoona, whose marriage is rooted in a long-standing childhood promise. While their life begins with quiet affection, the peace is shattered by the poison of jealousy and local rumors.  When an innocent interaction is twisted into a scandal by a resentful friend, Sher Alam is consumed by suspicion and the crushing pressure of social \"honor\". His inability to trust leads to a final, devastating decision that destroys their lives and leaves a haunting legacy in the mountains",
     "industry": "pakistani",
-    "popularity": 0.3817,
+    "popularity": 0.295,
     "original_language": "ur",
     "origin_country": [
       "PK"
@@ -9111,7 +9111,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 1.0608,
+    "popularity": 1.2567,
     "original_language": "ja",
     "origin_country": [
       "JP"
@@ -13865,7 +13865,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young dictator awakens in purgatory, where he encounters a mysterious, nearly blind old man who also turns out to be a dictator. Trapped in a strange space with no apparent way out, the two begin to unravel their relationship, gradually turning their encounter into a confrontation that will force each of them to confront their own sense of superiority.",
     "industry": "world",
-    "popularity": 0.3678,
+    "popularity": 0.3546,
     "original_language": "en",
     "origin_country": [
       "RS"
@@ -13885,7 +13885,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "SOME PLACES YOU CAN'T ESCAPE.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "RS"
     ],
@@ -20943,7 +20943,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1747,
+    "popularity": 0.2729,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -21028,7 +21028,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A woman's bleeding hand rests against a tree with a dying leaf in her palm. Through a fable of a leaf that falls far from home and the stranger who lands beside her, Memento Amoris asks what a brief love is worth and why do we need to live after we have fallen.",
     "industry": "world",
-    "popularity": 0.1747,
+    "popularity": 0.3894,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -21108,7 +21108,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1895,
+    "popularity": 0.2382,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -21191,7 +21191,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Andjelija is a high school girl who is trying to find herself, her style, and her own identity by looking up to the people around her.",
     "industry": "world",
-    "popularity": 0.1097,
+    "popularity": 0.1033,
     "original_language": "sr",
     "origin_country": [
       "RS"
@@ -21265,12 +21265,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "A COLD SEASON",
     "poster_path": "/ryTIQopPrkMIcBAe4lib3q6Co0M.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/reyYlWyKVRWncrrZuCAtfnu6rXf.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A lonely man's quiet winter routine hides a string of killings that spiral out of control when his dark double urges him toward madness.",
     "industry": "world",
-    "popularity": 0.5,
+    "popularity": 0.3435,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -21352,7 +21352,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "‘When I was six, I fell into a well. Whether I ever got out, I couldn’t say.’  Based on a surrealist prose poem, Ways That I Have Died is one life story told through multiple deaths, following a melancholic and mortality-ridden road towards what it means to be alive.",
     "industry": "world",
-    "popularity": 0.2805,
+    "popularity": 0.2662,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -21425,7 +21425,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A group of dedicated ghost hunters are dismayed when their desperate attempt to summon ghosts goes wrong, and all they encounter are aliens.",
     "industry": "world",
-    "popularity": 0.2593,
+    "popularity": 0.3342,
     "original_language": "en",
     "origin_country": [
       "AU"
@@ -21507,7 +21507,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On the same day she performed as the before picture for a weight-loss app, a young woman auditions for a high-profile body positivity campaign. As the casting process grows increasingly questionable, the language of empowerment begins to feel quite similar to the shaming it claims to oppose.",
     "industry": "world",
-    "popularity": 0.7986,
+    "popularity": 0.9028,
     "original_language": "tr",
     "origin_country": [
       "TR"
@@ -21589,7 +21589,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A beautiful girl is drawn into the depths of a forest by an eerie, other worldly presence calling out to her. As she ventures deeper and deeper into the darkness of the woods, she discovers something sinister and haunting, eventually falling into a dreamlike nightmare.",
     "industry": "world",
-    "popularity": 0.5967,
+    "popularity": 0.5105,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -21672,7 +21672,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An operative navigates deep-space isolation, with only an AI hologram for company, until an enigmatic new companion arrives. An accident uncovers the truth about their origins, forcing a fight for survival against motives engineered back on Earth.",
     "industry": "world",
-    "popularity": 0.9302,
+    "popularity": 1.021,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -21798,7 +21798,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1359,
+    "popularity": 0.3179,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -21955,7 +21955,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Go behind the scenes of Vincent, the multi award-winning supernatural dark fantasy, and discover the creative vision, artistic collaboration and challenges of bringing an independent film about friendship, loneliness and monsters to life.",
     "industry": "world",
-    "popularity": 0.7645,
+    "popularity": 1.0791,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -22098,7 +22098,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Carolina Modena and Cristina Ganem arrive in Antarctica with an extraordinary challenge: to swim five thousand strokes in its icy waters, without thermal protection. They barely know each other, but the expedition confronts them with the cold, exhaustion, and an extreme landscape that tests their bodies and transforms their relationship. What begins as a connection between fellow swimmers gradually becomes a deep friendship.",
     "industry": "world",
-    "popularity": 0.4578,
+    "popularity": 0.544,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -22184,7 +22184,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Arūnas is an ageing fisherman on the Lithuanian coast. Yet every year, the fish are becoming scarcer. His second occupation is older than his first: after a storm, he goes down to the beach to search for amber, as has been done in these parts for centuries. During the long winter, when he cannot go out to sea, he sits at his kitchen table polishing the pieces he has found into jewellery, for which there are also fewer and fewer buyers. Amber was once the backbone of the local industry and tourism. Now it is one man’s way of filling his days and preserving his memories.",
     "industry": "world",
-    "popularity": 0.8324,
+    "popularity": 1.0325,
     "original_language": "lt",
     "origin_country": [
       "LT"
@@ -22262,7 +22262,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Becoming Miss Ghana 1986 would mean fame, fortune, and prosperity. At least, that’s what Paulina—the queen bee of Aburi Girls Boarding School—believes. When the pageant recruiter comes to school, Paulina and her crew pull out all the stops. But to their surprise, a new transfer student from America kicks the competition into a higher, far more personal gear.",
     "industry": "world",
-    "popularity": 2.0832,
+    "popularity": 1.8896,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -22341,7 +22341,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "15-year-old Therese walks into the woods after a party near the ski jump in Stureby and never returns. Leif GW Persson examines the case.",
     "industry": "world",
-    "popularity": 1.4623,
+    "popularity": 1.2413,
     "original_language": "sv",
     "origin_country": [
       "SE"
@@ -22425,7 +22425,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A nervous couple on a first date finds out they have a lot in common. But how much do they really know about each other?",
     "industry": "world",
-    "popularity": 1.1584,
+    "popularity": 0.8808,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -22504,7 +22504,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "When overworked chiropractor Charlotte Hope receives an exquisite, anonymous Christmas chocolate, her orderly world is suddenly turned upside down. Determined to uncover the sender, she teams up with Cody Woods, the charming but guarded chocolatier whose shop is fighting to survive the holiday rush. As their search leads them through festive small-town magic, Charlotte discovers that the sweetest surprises – and maybe even love – can’t be scheduled, controlled, or ignored.",
     "industry": "world",
-    "popularity": 2.2741,
+    "popularity": 1.9321,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -22587,7 +22587,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A people-pleasing waiter sabotages his own evening trying to impress his boss; a self-conscious friend competes for attention at someone else’s birthday dinner; and two sisters turn a simple meal into a battlefield. Through quiet frustrations and misplaced priorities, the night unravels into an elegant mess of misunderstandings. No wonder this restaurant’s online reviews are so confusing.",
     "industry": "world",
-    "popularity": 1.2871,
+    "popularity": 1.3125,
     "original_language": "lv",
     "origin_country": [
       "LV"
@@ -22627,7 +22627,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Worldwide, 545 restaurants currently hold two Michelin stars. Earning two stars is a rare achievement. Closing such a restaurant to start again takes courage. In 2018, Onyx in Budapest became the first restaurant in Central and Eastern Europe to earn two Michelin stars, thanks to Katalin Pintér's dedication. In 2020, she transferred a 42.5% stake to her daughter Anna, who boldly decided to reinvent Onyx.",
     "industry": "world",
-    "popularity": 0.6327,
+    "popularity": 0.4839,
     "original_language": "hu",
     "origin_country": [
       "HU"
@@ -22709,7 +22709,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A train pulls into snow-covered Paneriai, raising a cloud of snow in its wake. Eitvydas Doškus’s Next Stop Paneriai offers a distinctive continuation of the cinematic exploration of the city begun in Once Upon a Vilnius. This time, however, the railway becomes the axis of a story about multilayered time. Traces of the past are preserved by the Paneriai Memorial and an abandoned tunnel inhabited by bats, semi-feral cats and crumbling houses mark a vanishing present, while children playing at school turn our gaze towards the future. These layers of time overlap like images changing one after another through a train window, making it impossible to clearly distinguish what has already happened from what is yet to come. A meditative film distinguished by its evocative soundtrack, Next Stop Paneriai creates a sensory portrait of a part of Vilnius that is most often simply driven through.",
     "industry": "world",
-    "popularity": 0.5331,
+    "popularity": 0.4623,
     "original_language": "lt",
     "origin_country": [
       "LT"
@@ -22791,7 +22791,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After a dog named Latte mysteriously disappears, a filmmaker pieces together recovered footage and audio diaries to reconstruct the events surrounding the disappearance. The search for answers uncovers something unsettling about the neighborhood cats, and the dog that came back.",
     "industry": "world",
-    "popularity": 0.2574,
+    "popularity": 0.2036,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -22948,7 +22948,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Consumed by a world of setbacks and expectations, Juno navigates the struggles of love, work, and loneliness. As her entire world crumbles, a strange encounter changes how she sees everything...",
     "industry": "world",
-    "popularity": 0.8776,
+    "popularity": 0.8036,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -23030,7 +23030,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After a late night shift Jake cycles through his contact list of friends in the hope to get a lift home, but with none of them answering he becomes confined to this phonebooth.",
     "industry": "world",
-    "popularity": 0.677,
+    "popularity": 0.549,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -23120,7 +23120,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In silence, three people share the same house: Ayla, a young Indigenous trans woman, is pregnant; Ferreirinha, a down-and-out accountant, harbors pro-Bolsonaro delusions; Sebastião, a lonely elderly man, is at war with the gardens. Sound trucks, campaign jingles, and evangelical hymns pierce through the walls: the public space outside devours their private lives. Deafening.",
     "industry": "world",
-    "popularity": 0.6585,
+    "popularity": 0.5006,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -23230,7 +23230,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "industry": "world",
-    "popularity": 37.8587,
+    "popularity": 39.2006,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -23428,5 +23428,790 @@ window.FA_PUBLISHED = {
         "type": "flatrate"
       }
     ]
+  },
+  "1815984": {
+    "id": 1815984,
+    "type": "movie",
+    "title": "France-Cambodge : Si loin, si proche",
+    "poster_path": "/9dDvCN4bSTitqw3Hy6DbCbD7H38.jpg",
+    "backdrop_path": "/cvw27kOUalMULDCd1N3R8Ipcxei.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.0776,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "FR",
+      "KH"
+    ],
+    "spoken_languages": [
+      "fr",
+      "km"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1585239": {
+    "id": 1585239,
+    "type": "movie",
+    "title": "Club Kid",
+    "poster_path": "/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+    "backdrop_path": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+    "industry": "world",
+    "popularity": 7.5453,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "guKEdb_iRXw",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 126,
+    "providers": []
+  },
+  "1815716": {
+    "id": 1815716,
+    "type": "movie",
+    "title": "Joe and Mike's Wine Bar - Opening Night!",
+    "poster_path": "/1Vos6IalbtikZ3XW1k9c6bDxAjb.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Joe and Mike are 2 brothers opening a wine bar, there’s just one problem… they don’t have any wine. When a mislabeled box leaves them with a mountain of peanuts instead, the brothers scramble to save their opening night and an escalating series of disasters leads to everything ultimately falling apart.",
+    "industry": "world",
+    "popularity": 0.0194,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1570488": {
+    "id": 1570488,
+    "type": "movie",
+    "title": "A Dog's Perfect Christmas",
+    "poster_path": "/TSsdfaD0gGlVqBuy2xYxr3RTaL.jpg",
+    "backdrop_path": "/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+    "industry": "world",
+    "popularity": 5.0167,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "L18ih13Bf-U",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": []
+  },
+  "1814744": {
+    "id": 1814744,
+    "type": "movie",
+    "title": "Zaljubljeno srce moje",
+    "poster_path": "/o1HKiXzYMYwqddQsdWlJCCSc9T7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "My enslaved heart",
+    "industry": "world",
+    "popularity": 0.3563,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Some homes only exist in memory.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 26,
+    "providers": []
+  },
+  "1642568": {
+    "id": 1642568,
+    "type": "movie",
+    "title": "The Last Temptation of Becky",
+    "poster_path": "/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
+    "backdrop_path": "/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+    "industry": "world",
+    "popularity": 4.3058,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "aQrxHLuqJCk",
+      "name": "The Last Temptation of Becky | Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 89,
+    "providers": []
+  },
+  "1814619": {
+    "id": 1814619,
+    "type": "movie",
+    "title": "The 16th Goddesses of Stardom Tag League Tournament in KORAKUEN vol.1",
+    "poster_path": "/oupK4l62gJYok9RVcyUqc1B07Xu.jpg",
+    "backdrop_path": "/4YQRfNkcFYvS7J9RJVFTSG9CRXG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The full schedule for the 16th Goddesses of Stardom Tag League Tournament, which kicks off on Sunday, November 1st at Korakuen Hall in Tokyo, has been decided. This tournament will be divided into two blocks, Red Goddesses and Blue Goddesses, with 9 teams in each block, for a total of 18 teams. A total of 72 official matches will be held until Saturday, November 28th at the Okazaki City Gymnasium in Aichi. The top two teams from each block will advance to the final tournament.",
+    "industry": "world",
+    "popularity": 0.2759,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1003494": {
+    "id": 1003494,
+    "type": "movie",
+    "title": "Women on Trial",
+    "poster_path": "/fArOu0NgRfth0zH5YqRu1os478v.jpg",
+    "backdrop_path": "/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "1972. A landmark trial shakes France as young Marie-Claire is prosecuted for having an illegal abortion with the help of her mother and two other defendants. In a courtroom governed by men, the verdict seems inevitable: prison for the women, while the rapist goes unpunished. Their last hope lies with Gisèle Halimi, a fearless lawyer known for openly challenging patriarchy and confronting the system that condemns victims and lets perpetrators walk free. Alongside the accused, Gisèle will not only change their fate, but, against all odds, transform the condition of women forever",
+    "industry": "world",
+    "popularity": 3.8019,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": {
+      "key": "CGAyM8h1xdI",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "tagline": "1972 - The trial that changed everything.",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 102,
+    "providers": []
+  },
+  "1814534": {
+    "id": 1814534,
+    "type": "movie",
+    "title": "Videotape",
+    "poster_path": "/7WQr0rqRuhfq2nRAA17LD3omX9y.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A cinematic essay about an interrupted film, using footage found within the walls of a gated community, documenting the living dead.",
+    "industry": "world",
+    "popularity": 0.1318,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 19,
+    "providers": []
+  },
+  "1811856": {
+    "id": 1811856,
+    "type": "movie",
+    "title": "Studio di una metamorfosi",
+    "poster_path": "/mWGzDLdvNUJgEHoMjRfuwtFCr8p.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.4548,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1810689": {
+    "id": 1810689,
+    "type": "movie",
+    "title": "The Spark",
+    "poster_path": "/jiPnnHEZSr22v1MQ3PizO28wGYN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Born in Africa, a region often associated with darkness and pessimism, Celal seeks ways to bring electricity to his village to improve the children's educational conditions.",
+    "industry": "world",
+    "popularity": 0.2694,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 20,
+    "providers": []
+  },
+  "1810663": {
+    "id": 1810663,
+    "type": "movie",
+    "title": "Ezzed'Jean",
+    "poster_path": "/otvGmWCgixApKyVvlX5MQGS22za.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "COP31 Climate-Themed Short Film Competition finalist. Synopsis TBA.",
+    "industry": "world",
+    "popularity": 0.2205,
+    "original_language": "en",
+    "origin_country": [
+      "TN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1810633": {
+    "id": 1810633,
+    "type": "movie",
+    "title": "Between the Herds",
+    "poster_path": "/5pMFTjmtXC9qkvVcu7gczHUHSGz.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "COP31 Climate-Themed Short Film Competition finalist. Synopsis TBA.",
+    "industry": "world",
+    "popularity": 0.3038,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1810143": {
+    "id": 1810143,
+    "type": "movie",
+    "title": "Tomson Highway: Permanent Astonishment",
+    "poster_path": "/mp8bXsrKvAhUtB3MuflmNMX6lgd.jpg",
+    "backdrop_path": "/rZpC8HkqovLMDFfyM7ze6w2z1Ar.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Tomson Highway: Permanent Astonishment, inspired by his award-winning memoir Permanent Astonishment, follows Highway's extraordinary life, from his birth in a tent in northern Manitoba and years at residential school to his groundbreaking plays The Rez Sisters and Dry Lips Oughta Move to Kapuskasing, which transformed Canadian theatre.",
+    "industry": "world",
+    "popularity": 0.5011,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en",
+      "cr",
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 88,
+    "providers": []
+  },
+  "1810118": {
+    "id": 1810118,
+    "type": "movie",
+    "title": "KICK",
+    "poster_path": "/pmJwqAG2UN5LPMaOIVMtixNlgzz.jpg",
+    "backdrop_path": "/6zmqr9AzWfBmP6RSTjX4p6azxL0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "America’s fastest 1500m runner, Nikki Hiltz, races toward an Olympic berth while confronting the pressures of public scrutiny and expectations as a trans nonbinary athlete. With unprecedented access, KICK follows Nikki and their partner Emma through a season of elite competition, as the pursuit of a lifelong dream determines not only their future but who they become to themselves and to each other.",
+    "industry": "world",
+    "popularity": 1.486,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 83,
+    "providers": []
+  },
+  "1809832": {
+    "id": 1809832,
+    "type": "movie",
+    "title": "Illuminations",
+    "poster_path": "/p6tghyqnf5sYZT20oFYmk74Jwyu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A contemplative portrait of experimental filmmakers Nathaniel Dorsky and Jerome Hiler, and their shared devotion to the art of seeing that has shaped their work, their love, and more than fifty years of life together.",
+    "industry": "world",
+    "popularity": 0.6924,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 70,
+    "providers": []
+  },
+  "1809706": {
+    "id": 1809706,
+    "type": "movie",
+    "title": "Dear Son",
+    "poster_path": "/hHcsVGJLBKh4s3zSsgqkSVaOdTm.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mariam, a mute nun in a remote Lebanese convent, cares for an abandoned baby. When a French family arrives to adopt him, their painful separation awakens a maternal instinct that conflicts with her vows, forcing her to question her commitment to virginity and the life she has chosen.",
+    "industry": "world",
+    "popularity": 0.5651,
+    "original_language": "ar",
+    "origin_country": [
+      "EG",
+      "LB",
+      "QA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "EG",
+      "LB",
+      "QA"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": []
+  },
+  "1809680": {
+    "id": 1809680,
+    "type": "movie",
+    "title": "The Moon Laid Bare",
+    "poster_path": "/u3bRja0yw0UWyGqrwexgzQ09Klb.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Néstor is a theater actor who has been streaming since the pandemic. As he rehearses a nearly autobiographical text, he transforms into a dazzling diva.",
+    "industry": "world",
+    "popularity": 0.2309,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 7,
+    "providers": []
+  },
+  "1809643": {
+    "id": 1809643,
+    "type": "movie",
+    "title": "Behind The Passion",
+    "poster_path": "/jhCWOFl5O6zrMaliw8JYdlTUrGe.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A non-profit human rights organization in Argentina discovers what is happening to Nepalese workers in Qatar during the leadup to the 2022 FIFA World Cup.",
+    "industry": "world",
+    "popularity": 0.4925,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": []
+  },
+  "1809546": {
+    "id": 1809546,
+    "type": "movie",
+    "title": "Tingatinga Between Two Homes",
+    "poster_path": "/2zBnx4WDUd2aL56HxL9wnE2ETlO.jpg",
+    "backdrop_path": "/fALgh8pg4aYlcVIqzLLYBCNz2T2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An orphaned painter returns from China to his native Tanzania for a wedding, with warmth and gentle humour.",
+    "industry": "world",
+    "popularity": 0.2895,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "sw",
+      "zh"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 83,
+    "providers": []
   }
 };
