@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-04T08:47:04Z",
+  "generated": "2026-11-04T09:02:40Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 12,
-    "pageviews": 45,
-    "sessions": 17,
-    "avg_session_seconds": 104.9
+    "users": 15,
+    "pageviews": 50,
+    "sessions": 20,
+    "avg_session_seconds": 93.3
   },
   "last7": {
-    "users": 186,
-    "pageviews": 699,
-    "sessions": 264,
-    "avg_session_seconds": 171.5
+    "users": 189,
+    "pageviews": 704,
+    "sessions": 267,
+    "avg_session_seconds": 169.9
   },
   "top_pages": [
     {
@@ -48,16 +48,16 @@
       "avg_time_seconds": 40.3
     },
     {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 13,
+      "avg_time_seconds": 13.4
+    },
+    {
       "path": "/movie",
       "title": "Pyre (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 12,
       "avg_time_seconds": 20.9
-    },
-    {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 14.1
     },
     {
       "path": "/show",
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 134,
-      "users": 88
+      "sessions": 135,
+      "users": 89
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 124,
-      "users": 97
+      "sessions": 126,
+      "users": 99
     },
     {
       "source": "search.google.com",
@@ -117,7 +117,7 @@
     },
     {
       "country": "India",
-      "users": 62
+      "users": 64
     },
     {
       "country": "Pakistan",
@@ -155,7 +155,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 91
+      "users": 94
     },
     {
       "device": "mobile",

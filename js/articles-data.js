@@ -53759,5 +53759,404 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 11:37:54 +0530"
+  },
+  "1s8lg52": {
+    "id": "1s8lg52",
+    "type": "news",
+    "headline": "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
+    "dek": "JTBC's weekend culinary drama featuring Ahn Hyo Seop and Hong Hwa Yeon claims the top spot on Disney+ Korea and enters regional Prime Video rankings.",
+    "body": [
+      {
+        "h": "Strong Premiere Performance on Streaming Platforms",
+        "p": [
+          "The weekend television series 'Final Table' has achieved notable early success following its premiere on JTBC. The program immediately captured audience attention upon release, establishing a strong presence on major streaming platforms within South Korea and across international markets.",
+          "Domestically, the series secured the leading position on the Disney+ Korea Top 10 series chart on October 26. Concurrently, it found substantial viewership abroad, entering the Prime Video Top 10 television show rankings across multiple Southeast Asian territories including Indonesia, Malaysia, the Philippines, Singapore, and Thailand."
+        ]
+      },
+      {
+        "h": "Plot Premise and Culinary Competition Focus",
+        "p": [
+          "The narrative centers around elite Korean chefs who come together to participate in a high-stakes culinary contest titled 'The Table: K-Chef 2026'. This competitive environment serves as the primary backdrop for the unfolding dramatic events and character interactions throughout the broadcast.",
+          "The storyline brings together culinary professionals vying for supremacy, highlighting tension and ambition within professional kitchen environments through serialized weekly episodes."
+        ]
+      },
+      {
+        "h": "Cast and Leading Performances",
+        "p": [
+          "The production is anchored by a prominent main cast featuring Ahn Hyo Seop and Hong Hwa Yeon in the central roles. Their performances drive the primary dramatic arcs of the ongoing narrative.",
+          "Supporting the main leads are actors Jang Yool and Jung Eugene, who contribute to the ensemble dynamic of the series as it explores the competitive culinary world."
+        ]
+      },
+      {
+        "h": "Viewership Ratings Trajectory",
+        "p": [
+          "Television broadcast ratings for the program have demonstrated a steady upward trend as the initial weeks progress. Viewership figures indicate growing engagement among local television audiences tuning in through JTBC.",
+          "Specifically, the fourth episode broadcast on November 1 registered a nationwide rating of 2.6 percent. This represented an incremental increase compared to the previous episode, which had recorded a nationwide rating of 2.4 percent."
+        ]
+      },
+      {
+        "h": "Ahn Hyo Seop's Television Background",
+        "p": [
+          "For lead actor Ahn Hyo Seop, this project represents his return to television starring roles following his acclaimed work in prior dramatic productions. His previous major television credits include 'Dr. Romantic 3', a series that achieved significant commercial success with ratings peaking at 16.8 percent.",
+          "The actor's involvement has generated substantial viewer interest, contributing to the initial streaming momentum and international visibility of the current broadcast."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Platform Details",
+        "p": [
+          "The series maintains a regular weekend broadcasting schedule, airing new episodes every Saturday and Sunday on the television network JTBC. Viewers within South Korea can also access the program via Disney+.",
+          "The combination of linear television broadcasts and regional streaming availability has facilitated the show's rapid expansion into international markets during its opening weeks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "JTBC's weekend drama 'Final Table', starring Ahn Hyo Seop and Hong Hwa Yeon, has achieved strong early viewership both domestically and internationally. The culinary competition series topped the Disney+ Korea chart and entered Prime Video's Top 10 across Southeast Asia while seeing its television ratings rise to 2.6 percent."
+        ]
+      }
+    ],
+    "facts": [
+      "Final Table premiered on JTBC as a weekend drama.",
+      "Ahn Hyo Seop and Hong Hwa Yeon lead the cast alongside Jang Yool and Jung Eugene.",
+      "The drama follows Korean chefs competing in The Table: K-Chef 2026.",
+      "It claimed the No. 1 spot on the Disney+ Korea Top 10 series chart on October 26.",
+      "It entered Prime Video's Top 10 TV shows in Indonesia, Malaysia, the Philippines, Singapore, and Thailand.",
+      "The fourth episode aired on November 1 and recorded a nationwide rating of 2.6 percent.",
+      "The previous episode recorded a rating of 2.4 percent.",
+      "Ahn Hyo Seop's previous leading role was in Dr. Romantic 3, which peaked at 16.8 percent.",
+      "The show airs every Saturday and Sunday on JTBC."
+    ],
+    "entities": {
+      "people": [
+        "Ahn Hyo Seop",
+        "Hong Hwa Yeon",
+        "Jang Yool",
+        "Jung Eugene"
+      ],
+      "titles": [
+        "Final Table",
+        "The Table: K-Chef 2026",
+        "Dr. Romantic 3"
+      ]
+    },
+    "keywords": [
+      "Final Table drama",
+      "Ahn Hyo Seop Final Table",
+      "Final Table Disney plus Korea",
+      "JTBC Final Table release"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Dykq5p_2f.jpg",
+        "caption": "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 08:07:14 +0000"
+  },
+  "18ugnpu": {
+    "id": "18ugnpu",
+    "type": "news",
+    "headline": "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+    "dek": "PuggyWoogy creator Ipsita Chowdhury secured the Best Pet Friendly Content Editor's Choice award at a glittering ceremony in Mumbai.",
+    "body": [
+      {
+        "h": "Major Win for PuggyWoogy Creator",
+        "p": [
+          "Pet content creator Ipsita Chowdhury recently achieved a significant milestone by winning the Best Pet Friendly Content – Editor’s Choice award. The accolade was presented at the prestigious Times Entertainment Power Creator Awards 2026.",
+          "The recognition highlights her dedication to producing engaging pet-centric content through her popular online handle, PuggyWoogy. What started as a simple hobby to document memories has now blossomed into a widely celebrated platform."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ceremony in Mumbai",
+        "p": [
+          "The grand event took place at The Lalit in Mumbai on October 23. The evening was successfully hosted by well-known actor Aparshakti Khurrana, who brought immense energy to the celebration.",
+          "Dressed elegantly in a black dress, Ipsita walked up to the stage to accept her trophy. Adding a heartwarming touch to the evening, her beloved pet Neo accompanied her by her side."
+        ]
+      },
+      {
+        "h": "Special Presentation by Vahbbiz Dorabjee",
+        "p": [
+          "The award was handed over to Ipsita by television personality and actress Vahbbiz Dorabjee. The moment was captured warmly as fellow creators and attendees cheered for the achievement.",
+          "This presentation underscored the collaborative and encouraging spirit of the creator community gathered at the venue, celebrating diverse forms of digital storytelling."
+        ]
+      },
+      {
+        "h": "The Journey Behind PuggyWoogy",
+        "p": [
+          "Ipsita’s digital journey is deeply rooted in the unconditional love and affection she shares with her animal companions, whom she lovingly refers to as her babies. Her Instagram handle features everyday moments, special occasions, and pet-fashion looks.",
+          "Through cinematic visuals and creative storytelling, she successfully captures the distinct personalities of her pets, connecting profoundly with fellow animal lovers across the digital landscape."
+        ]
+      },
+      {
+        "h": "Beyond Content Creation: Animal Welfare",
+        "p": [
+          "Ipsita’s commitment to animals stretches far beyond her social media posts. She actively raises her voice against animal cruelty and collaborates closely with various animal-welfare organisations.",
+          "Her advocacy strongly encompasses stray and homeless animals, emphasizing that their safety and well-being deserve equal attention and compassion from society."
+        ]
+      },
+      {
+        "h": "Spreading Compassion and Awareness",
+        "p": [
+          "Through her prominent platform, Ipsita continually encourages responsible pet companionship and heightened awareness regarding animal welfare. She firmly believes in kindness toward all living beings.",
+          "Her philosophy promotes the idea that animals are genuine family members and that human compassion should extend generously to strays living on the streets."
+        ]
+      },
+      {
+        "h": "Gratitude and Future Inspiration",
+        "p": [
+          "Reflecting on her big win, Ipsita expressed deep gratitude toward her supporters and her animal companions. She stated that the award is very close to her heart and dedicated it entirely to the companions who brought her there.",
+          "She hopes to continue using her platform's reach to inspire kindness towards animals that do not have a home of their own, keeping her journey firmly rooted in love."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pet influencer Ipsita Chowdhury won the Best Pet Friendly Content Editor's Choice award at the Times Entertainment Power Creator Awards 2026 held in Mumbai on October 23. Accompanied by her pet Neo, she received the honor for her work through her PuggyWoogy platform, which promotes animal welfare and responsible pet companionship.",
+          "The event was hosted by Aparshakti Khurrana, and the award was presented by Vahbbiz Dorabjee."
+        ]
+      }
+    ],
+    "facts": [
+      "Ipsita Chowdhury won the Best Pet Friendly Content – Editor’s Choice award.",
+      "The award was presented at the Times Entertainment Power Creator Awards 2026.",
+      "The ceremony took place at The Lalit in Mumbai on October 23.",
+      "The event was hosted by actor Aparshakti Khurrana.",
+      "Vahbbiz Dorabjee presented the award to Ipsita Chowdhury.",
+      "Neo is the name of Ipsita Chowdhury's pet who accompanied her on stage.",
+      "PuggyWoogy is the name of Ipsita Chowdhury's Instagram handle and pet content platform."
+    ],
+    "entities": {
+      "people": [
+        "Ipsita Chowdhury",
+        "Aparshakti Khurrana",
+        "Vahbbiz Dorabjee",
+        "Neo"
+      ],
+      "titles": [
+        "PuggyWoogy",
+        "Times Entertainment Power Creator Awards 2026"
+      ]
+    },
+    "keywords": [
+      "Ipsita Chowdhury",
+      "PuggyWoogy",
+      "Times Entertainment Power Creator Awards 2026",
+      "Aparshakti Khurrana",
+      "Vahbbiz Dorabjee"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ipsita-chowdhury-wins-1793702518828-1200x675.jpg",
+        "caption": "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 13:29:52 +0530"
+  },
+  "1nhlzge": {
+    "id": "1nhlzge",
+    "type": "news",
+    "headline": "Netflix Drops New Trailer for Live-Action Manga Adaptation Quiztopia",
+    "dek": "Netflix unveils the promotional footage for its upcoming Japanese dystopian sci-fi thriller series Quiztopia, based on the manga Kokumin Kuizu.",
+    "body": [
+      {
+        "h": "Introduction to Quiztopia",
+        "p": [
+          "Netflix has officially revealed the promotional video for its upcoming Japanese dystopian sci-fi thriller series titled Quiztopia. The project brings the pages of a well-known manga to life in a live-action format.",
+          "The television series is based specifically on the manga Kokumin Kuizu, which was created by authors Reiichi Sugimoto and Shinkichi Kato."
+        ]
+      },
+      {
+        "h": "The Alternate World Premise",
+        "p": [
+          "The story is set within an alternate version of Japan where a government-sanctioned television quiz show holds supreme authority over the nation. Under a newly established law, participants who manage to win the competition are granted any wish they desire by the government.",
+          "The stakes are remarkably high, as winning wishes can range from attaining immense wealth and fame to committing murder, erasing criminal records, founding entirely independent nations, or even taking private ownership of public landmarks."
+        ]
+      },
+      {
+        "h": "Viewership and Penalties",
+        "p": [
+          "The live broadcasts of these high-stakes quiz competitions command staggeringly high ratings among the public. Society eagerly consumes the broadcasts as casual entertainment within this cheerful dystopia.",
+          "However, the consequences for failure are extremely harsh. Contestants who lose the competition face severe penalties, including harsh forced labor."
+        ]
+      },
+      {
+        "h": "The Host and the Resistance",
+        "p": [
+          "At the center of the broadcast is KK, the wildly popular and charismatic host of the program portrayed by actor Takayuki Yamada. His life takes a sharp turn during the narrative.",
+          "KK crosses paths with a dedicated group of dissidents who threaten to bring an end to the program. This faction aims to dismantle the show's iron grip on the population and spark a revolutionary event."
+        ]
+      },
+      {
+        "h": "Extensive Ensemble Cast",
+        "p": [
+          "The series features a massive ensemble cast alongside the lead actor. Performers rounding out the cast include Riko Ishida, Kana Kurashina, and Koji Seto.",
+          "Additional appearances are made by Rin Kataoka, Yuzu Aoki, Naruki Matsukawa, Yuki Imai, Shunsuke Daitoh, Kou Maehara, Hoshino Disco, First Summer Uika, Keiko Horiuchi, Toshinori Omi, Masahiro Takashima, Eiko Koike, and Renji Ishibashi."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Fans waiting to see how the revolution unfolds will not have to wait much longer. The streaming platform has scheduled the series release for later this year.",
+          "Quiztopia officially arrives on Netflix on December 17th."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released a trailer for its live-action Japanese dystopian sci-fi series Quiztopia, based on the manga Kokumin Kuizu by Reiichi Sugimoto and Shinkichi Kato. Starring Takayuki Yamada as charismatic host KK, the series centers on a high-stakes government quiz show targeted by dissidents, and is set to premiere on December 17th."
+        ]
+      }
+    ],
+    "facts": [
+      "Quiztopia is a live-action Japanese dystopian sci-fi thriller series on Netflix.",
+      "The series is based on the manga Kokumin Kuizu by Reiichi Sugimoto and Shinkichi Kato.",
+      "Takayuki Yamada stars as the show's charismatic host KK.",
+      "Quiztopia is scheduled to premiere on Netflix on December 17th."
+    ],
+    "entities": {
+      "people": [
+        "Reiichi Sugimoto",
+        "Shinkichi Kato",
+        "Takayuki Yamada",
+        "Riko Ishida",
+        "Kana Kurashina",
+        "Koji Seto",
+        "Rin Kataoka",
+        "Yuzu Aoki",
+        "Naruki Matsukawa",
+        "Yuki Imai",
+        "Shunsuke Daitoh",
+        "Kou Maehara",
+        "Hoshino Disco",
+        "First Summer Uika",
+        "Keiko Horiuchi",
+        "Toshinori Omi",
+        "Masahiro Takashima",
+        "Eiko Koike",
+        "Renji Ishibashi"
+      ],
+      "titles": [
+        "Quiztopia",
+        "Kokumin Kuizu"
+      ]
+    },
+    "keywords": [
+      "Quiztopia Netflix series",
+      "Kokumin Kuizu manga adaptation",
+      "Takayuki Yamada Quiztopia",
+      "Quiztopia release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/Quiztopia.jpg",
+        "caption": "Netflix Drops New Trailer for Live-Action Manga Adaptation Quiztopia",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 07:30:05 +0000"
+  },
+  "t62xe6": {
+    "id": "t62xe6",
+    "type": "news",
+    "headline": "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations",
+    "dek": "Virender Sehwag hosts a dramatic Judgement Day on Rise And Fall 2, featuring fierce clashes between contestants and a historic triple exit from the Tower.",
+    "body": [
+      {
+        "h": "Judgement Day Scrutiny",
+        "p": [
+          "The latest episode of Banijay Asia's reality series brought simmering tensions inside the Tower directly to the forefront as host Virender Sehwag placed the contestants' conduct and game plans under strict examination. No participant was spared from the host's direct questions regarding their strategies and choices throughout the season.",
+          "The scrutiny began early when Shehzad Poonawalla faced sharp rebuke for using the term 'vamp' to describe Priyanka Chahar Choudhary. Despite Shehzad attempting to defend his position, Sehwag made it clear that such remarks directed at any woman remain entirely unacceptable within the game."
+        ]
+      },
+      {
+        "h": "Challenging Player Contributions",
+        "p": [
+          "The spotlight soon shifted toward other residents of the Tower, with Karan Patel finding himself questioned about his overall contribution. Sehwag suggested that Karan had primarily relied on Shehzad and Swara to carry him forward, though Swara Bhasker quickly stepped in to defend him by highlighting his active role during the Takhta Palat.",
+          "Niharika Tiwari also received attention from the host, who questioned whether she had truly established an independent game or was merely acting as a rebel without a cause. Her specific equation with Jashwanth Bopanna came under close examination as the host held up a mirror to the entire house."
+        ]
+      },
+      {
+        "h": "Explosive Clash Off The Hot Seat",
+        "p": [
+          "Away from the hot seat, an even more explosive confrontation unfolded when a disagreement between Swara Bhasker and Shehzad Poonawalla spiraled out of control. Shehzad accused Swara of constantly taunting and humiliating him, leading to a heated argument where items were thrown around.",
+          "When Shehzad pointed to his own contributions and questioned Swara's praise for Rishabh, tempers flared further. Shehzad ultimately fired back with a harsh comment telling her to look after her own career first, bringing their fragile friendship close to a total breakdown."
+        ]
+      },
+      {
+        "h": "Intervention And Temporary Truce",
+        "p": [
+          "The intense war of words only cooled down after Gautam intervened to point out how Swara's remarks on the main stage had genuinely hurt Shehzad. His timely mediation allowed both individuals to reflect upon their respective parts in the fallout.",
+          "Following the intervention, the hostile atmosphere gave way to mutual apologies and an eventual hug between the former friends. Whether this gesture marks a genuine olive branch or merely a brief pause before their next confrontation remains to be seen."
+        ]
+      },
+      {
+        "h": "Historic Triple Eviction Shocks The Tower",
+        "p": [
+          "Just when the Tower appeared to have weathered its daily share of drama, host Virender Sehwag delivered an unprecedented twist by announcing a triple eviction, marking a first in the show's history. Manish Kashyap, Jashwanth Bopanna, Sonam Malik, and Rishabh Jaiswal were left facing early exits.",
+          "The Rulers were granted one final opportunity to save a single contestant from elimination. While Manish and Jashwanth received zero votes and faced immediate departure, Swara voted to save Rishabh, whereas Karan, Gautam, and Shehzad chose to support Sonam, thereby sealing Rishabh's fate."
+        ]
+      },
+      {
+        "h": "Cracks In Rulers Alliance",
+        "p": [
+          "The dramatic elimination process exposed deep cracks within the existing Rulers' alliance. Karan openly questioned Swara for choosing to go against their previously agreed-upon plan during the crucial save vote.",
+          "With the grand finale drawing closer with each passing day, loyalties are being tested severely and power equations continue to shift unpredictably inside the Tower."
+        ]
+      },
+      {
+        "h": "Streaming Details",
+        "p": [
+          "Produced by Banijay Asia and hosted by Virender Sehwag, Rise and Fall 2 streams fresh episodes daily at 12 noon. The series is available free exclusively on Prime Video, as well as through MX Player by Prime Video across Android devices, mobile platforms, Connected TVs, the Amazon shopping app, and Fire TV."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Host Virender Sehwag pulled no punches during a tense Judgement Day on Rise And Fall 2, questioning the gameplay and conduct of contestants including Shehzad Poonawalla, Karan Patel, and Niharika Tiwari. The episode also featured a fiery argument between Shehzad and Swara Bhasker before culminating in a historic triple eviction that sent Manish, Jashwanth, and Rishabh home."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode aired on November 4.",
+      "Rise And Fall 2 is produced by Banijay Asia and hosted by Virender Sehwag.",
+      "Shehzad Poonawalla used the term 'vamp' to describe Priyanka Chahar Choudhary.",
+      "A historic triple eviction removed Manish Kashyap, Jashwanth Bopanna, and Rishabh Jaiswal from the Tower.",
+      "The show streams on Prime Video and MX Player by Prime Video at 12 noon daily."
+    ],
+    "entities": {
+      "people": [
+        "Virender Sehwag",
+        "Shehzad Poonawalla",
+        "Priyanka Chahar Choudhary",
+        "Karan Patel",
+        "Swara Bhasker",
+        "Niharika Tiwari",
+        "Jashwanth Bopanna",
+        "Rishabh",
+        "Gautam",
+        "Manish Kashyap",
+        "Sonam Malik",
+        "Rishabh Jaiswal"
+      ],
+      "titles": [
+        "Rise And Fall 2"
+      ]
+    },
+    "keywords": [
+      "Rise And Fall 2",
+      "Virender Sehwag",
+      "Shehzad Poonawalla Swara Bhasker",
+      "Rise And Fall 2 triple eviction"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/riseandfall2ep40nov4d1-90031793778556.jpg",
+        "caption": "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 13:37:16 +0530"
   }
 };

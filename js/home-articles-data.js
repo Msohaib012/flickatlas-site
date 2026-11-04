@@ -46,6 +46,111 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 11:43:43 +0200"
   },
+  "t62xe6": {
+    "id": "t62xe6",
+    "type": "news",
+    "headline": "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations",
+    "dek": "Virender Sehwag hosts a dramatic Judgement Day on Rise And Fall 2, featuring fierce clashes between contestants and a historic triple exit from the Tower.",
+    "entities": {
+      "people": [
+        "Virender Sehwag",
+        "Shehzad Poonawalla",
+        "Priyanka Chahar Choudhary",
+        "Karan Patel",
+        "Swara Bhasker",
+        "Niharika Tiwari",
+        "Jashwanth Bopanna",
+        "Rishabh",
+        "Gautam",
+        "Manish Kashyap",
+        "Sonam Malik",
+        "Rishabh Jaiswal"
+      ],
+      "titles": [
+        "Rise And Fall 2"
+      ]
+    },
+    "keywords": [
+      "Rise And Fall 2",
+      "Virender Sehwag",
+      "Shehzad Poonawalla Swara Bhasker",
+      "Rise And Fall 2 triple eviction"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/riseandfall2ep40nov4d1-90031793778556.jpg",
+        "caption": "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 13:37:16 +0530"
+  },
+  "1s8lg52": {
+    "id": "1s8lg52",
+    "type": "news",
+    "headline": "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
+    "dek": "JTBC's weekend culinary drama featuring Ahn Hyo Seop and Hong Hwa Yeon claims the top spot on Disney+ Korea and enters regional Prime Video rankings.",
+    "entities": {
+      "people": [
+        "Ahn Hyo Seop",
+        "Hong Hwa Yeon",
+        "Jang Yool",
+        "Jung Eugene"
+      ],
+      "titles": [
+        "Final Table",
+        "The Table: K-Chef 2026",
+        "Dr. Romantic 3"
+      ]
+    },
+    "keywords": [
+      "Final Table drama",
+      "Ahn Hyo Seop Final Table",
+      "Final Table Disney plus Korea",
+      "JTBC Final Table release"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Dykq5p_2f.jpg",
+        "caption": "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 08:07:14 +0000"
+  },
+  "18ugnpu": {
+    "id": "18ugnpu",
+    "type": "news",
+    "headline": "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+    "dek": "PuggyWoogy creator Ipsita Chowdhury secured the Best Pet Friendly Content Editor's Choice award at a glittering ceremony in Mumbai.",
+    "entities": {
+      "people": [
+        "Ipsita Chowdhury",
+        "Aparshakti Khurrana",
+        "Vahbbiz Dorabjee",
+        "Neo"
+      ],
+      "titles": [
+        "PuggyWoogy",
+        "Times Entertainment Power Creator Awards 2026"
+      ]
+    },
+    "keywords": [
+      "Ipsita Chowdhury",
+      "PuggyWoogy",
+      "Times Entertainment Power Creator Awards 2026",
+      "Aparshakti Khurrana",
+      "Vahbbiz Dorabjee"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ipsita-chowdhury-wins-1793702518828-1200x675.jpg",
+        "caption": "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 13:29:52 +0530"
+  },
   "kue3k8": {
     "id": "kue3k8",
     "type": "news",
@@ -91,6 +196,53 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-04T07:51:51Z"
+  },
+  "1nhlzge": {
+    "id": "1nhlzge",
+    "type": "news",
+    "headline": "Netflix Drops New Trailer for Live-Action Manga Adaptation Quiztopia",
+    "dek": "Netflix unveils the promotional footage for its upcoming Japanese dystopian sci-fi thriller series Quiztopia, based on the manga Kokumin Kuizu.",
+    "entities": {
+      "people": [
+        "Reiichi Sugimoto",
+        "Shinkichi Kato",
+        "Takayuki Yamada",
+        "Riko Ishida",
+        "Kana Kurashina",
+        "Koji Seto",
+        "Rin Kataoka",
+        "Yuzu Aoki",
+        "Naruki Matsukawa",
+        "Yuki Imai",
+        "Shunsuke Daitoh",
+        "Kou Maehara",
+        "Hoshino Disco",
+        "First Summer Uika",
+        "Keiko Horiuchi",
+        "Toshinori Omi",
+        "Masahiro Takashima",
+        "Eiko Koike",
+        "Renji Ishibashi"
+      ],
+      "titles": [
+        "Quiztopia",
+        "Kokumin Kuizu"
+      ]
+    },
+    "keywords": [
+      "Quiztopia Netflix series",
+      "Kokumin Kuizu manga adaptation",
+      "Takayuki Yamada Quiztopia",
+      "Quiztopia release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/Quiztopia.jpg",
+        "caption": "Netflix Drops New Trailer for Live-Action Manga Adaptation Quiztopia",
+        "source": "Flickering Myth"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 07:30:05 +0000"
   },
   "rlc3n": {
     "id": "rlc3n",
@@ -4656,168 +4808,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-03T03:52:26Z"
-  },
-  "cjil28": {
-    "id": "cjil28",
-    "type": "news",
-    "headline": "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
-    "dek": "Namit Malhotra's upcoming mythological adaptation Ramayana: Part One has surged past Rs 100 crore in global opening-weekend advance sales, closing in on Dhurandhar 2's North American preview records.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Lara Dutta",
-        "Arun Govil",
-        "Vivek Oberoi"
-      ],
-      "titles": [
-        "Ramayana: Part One",
-        "Dhurandhar 2",
-        "Animal",
-        "Jawan",
-        "Pushpa 2",
-        "Pathaan",
-        "RRR",
-        "Baahubali 2",
-        "Kalki 2898 AD"
-      ]
-    },
-    "keywords": [
-      "Ramayana advance booking",
-      "Ramayana Part One release",
-      "Ranbir Kapoor Ramayana",
-      "Namit Malhotra Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-100-crore-032927195-16x9_0.jpeg?VersionId=grQPq2tmA2.tOXpvR4EuvRikZskEIUox",
-        "caption": "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of Theatrical Premiere",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 09:09:01 +0530"
-  },
-  "o2gc6h": {
-    "id": "o2gc6h",
-    "type": "news",
-    "headline": "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
-    "dek": "Media reports indicate that executive leadership at the entertainment giant has instructed certain supervisors to plan for substantial annual cost reductions.",
-    "entities": {
-      "people": [
-        "Josh D’Amaro",
-        "Sonia Coleman"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "The Walt Disney Company layoffs",
-      "Josh D Amaro Disney cost cuts",
-      "Disney theme park Imagineering jobs",
-      "Sonia Coleman Disney memo"
-    ],
-    "images": [
-      {
-        "url": "https://www.thewrap.com/wp-content/uploads/2026/08/josh-damaro.jpg",
-        "caption": "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Financial Savings",
-        "source": "TheWrap"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 03:36:09 +0000"
-  },
-  "1m3k0mf": {
-    "id": "1m3k0mf",
-    "type": "news",
-    "headline": "Ramayana Advance Bookings Cross ₹100 Crore Worldwide Ahead of Worldwide Release",
-    "dek": "Ranbir Kapoor and Yash starrer Ramayana crosses ₹100 crore in global advance bookings two days before its worldwide release, positioning itself for a historic box-office opening.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Sunny Deol",
-        "Namit Malhotra",
-        "Abhimanyu Mathur"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana: Part One",
-        "Baahubali 2",
-        "RRR",
-        "Pushpa 2",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana advance booking",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana release date",
-      "Ramayana box office collection"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/Ramayana__1793676116385_2pxE_1793676116578_kIWp_58bb2cf9-36d0-4c52-a285-5980e29048af_Xg8T.jpeg",
-        "caption": "Ramayana Advance Bookings Cross ₹100 Crore Worldwide Ahead of Worldwide Release",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 09:05:36 +0530"
-  },
-  "1fsijq5": {
-    "id": "1fsijq5",
-    "type": "news",
-    "headline": "Julia Stiles Exits Dancing With the Stars During Disney Night Episode",
-    "dek": "Julia Stiles and partner Ezra Sosa faced elimination on the Nov. 2 Disney Night episode of Dancing With the Stars following a Paso Doble routine.",
-    "entities": {
-      "people": [
-        "Julia Stiles",
-        "Ezra Sosa",
-        "Harry Shum Jr.",
-        "Jenna Johnson",
-        "Jenna Dewan",
-        "Val Chmerkovskiy",
-        "Amber Glenn",
-        "Pasha Pashkov",
-        "Ezra Frech",
-        "Daniella Karagach",
-        "Tatyana Ali",
-        "Jan Ravnik",
-        "Jackson Olson",
-        "Emma Slater",
-        "Tyler Cameron",
-        "Sharna Burgess"
-      ],
-      "titles": [
-        "Dancing With the Stars",
-        "Hamilton",
-        "Mary Poppins",
-        "Beauty and the Beast",
-        "Hercules",
-        "The Little Mermaid",
-        "Aida",
-        "Save the Last Dance"
-      ]
-    },
-    "keywords": [
-      "Julia Stiles Dancing With the Stars",
-      "Disney Night Dancing With the Stars",
-      "Ezra Sosa Julia Stiles elimination",
-      "Dancing With the Stars Nov 2"
-    ],
-    "images": [
-      {
-        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20260915/b2af5287-8a31-4326-9cc0-4c73ff7b5f43_1789519955.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-        "caption": "Julia Stiles Exits Dancing With the Stars During Disney Night Episode",
-        "source": "E! News"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 03:16:00 GMT"
   },
   "1oesgxu": {
     "id": "1oesgxu",
