@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T11:51:33Z",
-    "run_id": "41630764534",
-    "status": "success",
-    "checked": {
-     "candidates": 399,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
-      "Ramayana South Indian Territories Advance Booking: Karnataka Leads Yash Starrer With Around ₹6 Crore",
-      "Pet Influencer Ipsita Chowdhury Wins Times Entertainment Power Creator Award 2026",
-      "Premada Oorali Box Office Collection Day 39: Shree Raam-Rangayana Raghu Film Crosses ₹154 Crore Worldwide",
-      "Learjet 60 Co-Pilot Boyfriend Name & Photo: Who Is Justin? Nathalia Sent Him Her LAST Text Before Crash",
-      "Eetha Trailer Impact At Box Office Day 1: Shraddha Kapoor Set To Deliver Her Fifth Consecutive 10 Crore Opener!",
-      "Premada Oorali 6th Weekend Box Office Gross Hits ₹4.83 Crore Nearly 5 Times Its Opening Weekend Collection",
-      "Scene Kerala Box Office: Can Suriya Beat Kanguva's ₹4 Crore Opening Record With Reported 550 Screen Release?",
-      "Ramayana Heads for Historic Pre Diwali Opening as PVR INOX Eyes Its Biggest Advance Booking Record",
-      "New OTT Releases This Week (November 2 to 8, 2026): Featuring Meesaya Murukku 2, I'm Game, Blind Game and More",
-      "VJ Siddhu's 'Dayangaram' teaser promises fun college entertainer",
-      "‘Haiwaan’ OTT release: When and where to watch Akshay and Saif’s crime thriller online",
-      "Nayanthara visits Chennai temple before 'Mookuthi Amman 2' release",
-      "Lokesh Kanagaraj launches Arjun Das starrer 'John Doe' trailer",
-      "In 2021, Kevin Costner’s ‘Yellowstone’ boosted Montana's economy; USD 730M was recorded in earnings",
-      "In 2020, Arnold Schwarzenegger backed a Uganda project to battle deforestation and create chimpanzee habitats",
-      "Amrita Arora reacts to speculation that she took Ozempic or Mounjaro for weight loss: I have been petite since …",
-      "Ian McKellen leads emotional musical tribute for late Patrick Stewart at London gala, revives their special Waiting for Godot tradition",
-      "Mohanlal tries to cheer up Neha Fathima on Bigg Boss Malayalam 8 after her face-off with parents over romance with co-contestant Tashi Raj",
-      "Suriya asks Lokesh Kanagaraj to call him to discuss stand-alone Rolex movie at Scene event; says he has played too many heroes"
-     ],
-     "updated": [],
-     "count": 379,
-     "detail": "383 stories, 0 duplicates removed, 16 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-03T12:50:57Z",
     "run_id": "41639107644",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "328 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T13:52:46Z",
-    "run_id": "41647958857",
+    "run_at": "2026-11-04T11:52:02Z",
+    "run_id": "41824198406",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 403,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
-      "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
-      "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
-      "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know"
+      "Kartik Aaryan and Kabir Khan reunite for inspirational real-life story Ladaku, set to release on June 18, 2027",
+      "Stuntwoman Geeta Tandon accuses India Ke Top 1% team of mistreatment; says she waited nearly 9 hours with son",
+      "Koffee With Karan 9 Kareena-Saif Episode Download In HD: How To Download KWK 5 Ep 4 For Offline Viewing?",
+      "Koffee With Karan 9 Episode 4 Dailymotion: Kareena Or Saif- Who Will Win KWK 9 Rapid Fire?",
+      "Nicolas Cage Once Starred In A Superman Movie But Hollywood Pulled The Plug",
+      "Ramayana Box Office Day 1 Advance Booking (1 Day To Go): Already 4th Biggest Opening For Ranbir Kapoor, Ready To Beat Top 3 On Opening Day!",
+      "King: SRK-Deepika’s Chemistry Is Back, And Tu Mil Jaaye Is Already Winning Hearts",
+      "Meesaya Murukku 2 Box Office (Closing Collection): Hiphop Tamizha’s Film Wraps With 78% ROI",
+      "Callum Turner Had An Early TV Role With Helen McCrory That James Bond Fans Need To Watch",
+      "Jailer 2 OTT Release Date Revealed as Rajinikanth's Blockbuster May Stream With 30 Minutes of Extra Footage",
+      "Gods on the Big Screen: Indian Cinema's 113-Year Romance With Mythology",
+      "Sanjay Gupta was planning to make a 'star-studded web series' before his death",
+      "Allu Arjun extends wishes to ‘Ramayana’ team, calls it a representation of Indian culture",
+      "Sunny's film 'Suryaa' gets relief as High Court refuses to entertain PIL seeking stay on release",
+      "Prashanth Neel confirms Ravi Basrur as music composer for Jr NTR’s ‘Dragon’",
+      "Ayushmann gets extortion call from Lawrence Bishnoi gang, demanding crores of rupees",
+      "Bengaluru-based IT engineer arrested for sending extortion threats to Ayushmann Khurrana, Tusshar Kapoor",
+      "Ramayana advance booking races to  ₹150 crore in final hours before release; Ranbir Kapoor-Yash film beats Adipurush, but way behind Dhurandhar 2",
+      "Allu Arjun sends best wishes for Ranbir Kapoor's Ramayana ahead of release, says it will raise the bar for Indian films",
+      "SKN defends Telugu cinema after Radhika Apte's criticism: ‘Respect the industry’"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 379,
+     "detail": "389 stories, 0 duplicates removed, 14 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-04T11:52:44Z",
+    "run_id": "41824198406",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+      "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+      "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series",
+      "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-03T12:51:48Z",
-    "run_id": "41639107644",
-    "status": "success",
-    "checked": {
-     "candidates": 187,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 183, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 187, coming 3"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-03T12:55:18Z",
-    "run_id": "41639107644",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-04T11:52:44Z",
+    "run_id": "41824198406",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 190,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 187, coming 3"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2373,27 +2356,29 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-04T12:07:04Z",
+    "run_id": "41824198406",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "df0h2l",
+      "xk9w6b"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T12:55:07Z",
-    "run_id": "41639107644",
-    "status": "success",
-    "checked": {
-     "candidates": 447,
-     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 9,
-     "detail": "+0 new rows, 9 updated rows, 437 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2807,19 +2792,27 @@
      "detail": "+0 new rows, 8 updated rows, 465 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T12:07:02Z",
+    "run_id": "41824198406",
+    "status": "success",
+    "checked": {
+     "candidates": 474,
+     "detail": "473 collected staging rows from readers; 185 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 160,
+     "detail": "+0 new rows, 160 updated rows, 313 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3056,32 +3049,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-03T14:38:53Z",
-    "run_id": "41647958857",
-    "status": "success",
-    "checked": {
-     "candidates": 501,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "6 AM Shows Return To Tamil Nadu As Chief Minister C Joseph Vijay Changes Rules Ahead Of New Diwali Releases",
-      "Peter Capaldi and Jessica Raine Return in Final Season of Prime Video Thriller",
-      "Thai Adaptation Of Hit K-Drama Shooting Stars Unveils First Trailer With Tu Tontawan And Gemini Norawit",
-      "Tracker Season 4 Episode 5 Recap: Jensen Ackles Returns as Russell Shaw in Need to Know"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 501 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3607,19 +3587,32 @@
      "detail": "api-news.json 592 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-04T12:07:04Z",
+    "run_id": "41824198406",
+    "status": "success",
+    "checked": {
+     "candidates": 596,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+      "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+      "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release",
+      "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 596 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3894,19 +3887,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4227,31 +4220,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-03T11:52:01Z",
-    "run_id": "41630764534",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 379 still unprocessed; today by category: movies 7/6, tv_dramas 8/4, episodes 1/2, box_office 12/6, celebrities_events 8/5, upcoming_releases 3/4, ott_streaming 4/4, trailers 1/3, awards 1/2, music_ost 2/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "VJ Siddhu Steps Into Directorial Arena with College Comedy 'Dayangaram'",
-      "World War II Drama 'Pressure' Starring Brendan Fraser and Andrew Scott Heads to Netflix",
-      "Akshay Kumar and Saif Ali Khan's Crime Thriller 'Haiwaan' Headed to OTT After Theatrical Run",
-      "Eetha Trailer Impact At Box Office Day 1: Shraddha Kapoor Set To Deliver Her Fifth Consecutive 10 Crore Opener!"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4757,19 +4738,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-04T11:52:44Z",
+    "run_id": "41824198406",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 379 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 2/2, box_office 10/6, celebrities_events 10/5, upcoming_releases 6/4, ott_streaming 3/4, trailers 1/3, awards 2/2, music_ost 2/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+      "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+      "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series",
+      "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5083,24 +5076,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 410,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5445,24 +5433,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 17,
+     "count": 391,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5802,19 +5790,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6064,19 +6052,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6311,19 +6299,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6596,19 +6584,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6849,19 +6837,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7091,19 +7079,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7352,6 +7340,16 @@
     "category": "Trending News",
     "run_at": "2026-11-04T10:54:37Z",
     "run_id": "41816859575",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7772,16 +7770,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-03T12:55:27Z",
     "run_id": "41639107644",
     "status": "skipped",
@@ -8018,19 +8006,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T11:59:09Z",
-    "run_id": "41630764534",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8280,8 +8268,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-04T12:07:11Z",
+    "run_id": "41824198406",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-04T10:54:37Z"
+ "updated_at": "2026-11-04T12:07:11Z"
 }

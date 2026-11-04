@@ -52,6 +52,165 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 14:44:00 +0200"
   },
+  "14mj1o9": {
+    "id": "14mj1o9",
+    "type": "news",
+    "headline": "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+    "dek": "The latest episode of Disney+ series VisionQuest concludes with a shocking cliffhanger involving Friday and Paladin, sending viewers into a frenzy.",
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Orla Brady",
+        "Todd Stashwick"
+      ],
+      "titles": [
+        "VisionQuest",
+        "J.A.R.V.I.S.",
+        "Ultron"
+      ]
+    },
+    "keywords": [
+      "VisionQuest episode 7",
+      "Friday Paladin death VisionQuest",
+      "Orla Brady VisionQuest",
+      "Todd Stashwick VisionQuest",
+      "VisionQuest November 10 finale"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/VisionQuest.jpg?resize=1200,630",
+        "caption": "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:45:00 +0000"
+  },
+  "12aaoxn": {
+    "id": "12aaoxn",
+    "type": "news",
+    "headline": "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series",
+    "dek": "Before his sudden passing, renowned filmmaker Sanjay Gupta was gearing up for his digital debut with an ambitious eight-part adaptation of the true crime book CIU: Criminals in Uniform.",
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Anil Kapoor",
+        "Akshaye Khanna",
+        "Naseeruddin Shah",
+        "Emraan Hashmi",
+        "Dr Sanjay Singh",
+        "Rakesh Trivedi",
+        "Dia Mirza",
+        "Atul Kulkarni",
+        "Mahesh Manjrekar",
+        "Ronit Bose Roy"
+      ],
+      "titles": [
+        "CIU: Criminals in Uniform",
+        "Kaante",
+        "Zinda",
+        "Shootout at Wadala",
+        "Kaabil",
+        "Raakh"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta web series",
+      "CIU Criminals in Uniform book",
+      "Anil Kapoor Sanjay Gupta series",
+      "Sanjay Gupta news"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135537494,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T16:50:58+05:30"
+  },
+  "188jdwo": {
+    "id": "188jdwo",
+    "type": "news",
+    "headline": "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+    "dek": "Rajinikanths blockbuster film Jailer 2 is reportedly heading to Amazon Prime Video and Sun NXT following a theatrical window, with rumors pointing to an extended cut featuring deleted scenes.",
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Mohanlal",
+        "Vijay Sethupathi",
+        "Hrithik Roshan",
+        "Santhanam"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Baahubali 2",
+        "KGF 2",
+        "Sivaji",
+        "Leo"
+      ]
+    },
+    "keywords": [
+      "Jailer 2",
+      "Jailer 2 OTT release date",
+      "Rajinikanth Jailer 2",
+      "Jailer 2 extra footage"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028362.jpg",
+        "caption": "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:17:34 +0000"
+  },
+  "casta7": {
+    "id": "casta7",
+    "type": "news",
+    "headline": "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release",
+    "dek": "As the latest franchise installment prepares to enter theaters, Takashi Yamazaki's acclaimed sci-fi masterwork is dominating viewer interest and streaming platform search metrics.",
+    "entities": {
+      "people": [
+        "Archie Fenn",
+        "Takashi Yamazaki",
+        "Yuki Yamada",
+        "Shiro Mizushima",
+        "Olivia Wilde",
+        "Patrick Stewart"
+      ],
+      "titles": [
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Godzilla",
+        "Collision Course",
+        "The Invite",
+        "Green Room",
+        "Obsession",
+        "Disclosure Day",
+        "Backrooms",
+        "The Cycle",
+        "Teenage Sex and Death at Camp Miasma",
+        "Hokum",
+        "Shin Godzilla"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus One",
+      "Godzilla Minus Zero",
+      "Takashi Yamazaki",
+      "Yuki Yamada",
+      "Netflix streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/godzilla-minus-one-streaming-netflix-trending-sci-fi-action-masterpiece-sequel-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:00:16 GMT"
+  },
   "6pu0nq": {
     "id": "6pu0nq",
     "type": "news",
@@ -4612,171 +4771,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 13:12:32 +0530"
-  },
-  "1pp71wa": {
-    "id": "1pp71wa",
-    "type": "news",
-    "headline": "Mohammad Rasoulof Highlights Jafar Panahi's Sentence at Tokyo Kurosawa Akira Award Press Conference",
-    "dek": "Iranian director Mohammad Rasoulof and Japanese filmmaker O Mipo accepted Tokyo's prestigious Kurosawa Akira Award, using the platform to discuss ongoing industry pressures, the reality of political repression, and the challenges of balancing filmmaking with family life.",
-    "entities": {
-      "people": [
-        "Mohammad Rasoulof",
-        "Jafar Panahi",
-        "O Mipo",
-        "Yamada Yoji",
-        "Lee Sang-il",
-        "Ashizawa Akiko",
-        "Ichiyama Shozo",
-        "Ando Sakura",
-        "Takada Ryo",
-        "Obayashi Nobuhiko"
-      ],
-      "titles": [
-        "There Is No Evil",
-        "The Seed of the Sacred Fig",
-        "Red Beard",
-        "Dersu Uzala",
-        "The Sakai's Happiness",
-        "Being Good",
-        "Living in Two Worlds",
-        "How Dare You?",
-        "Rashomon",
-        "Dreams"
-      ]
-    },
-    "keywords": [
-      "Mohammad Rasoulof",
-      "Jafar Panahi",
-      "Kurosawa Akira Award",
-      "O Mipo",
-      "Tokyo International Film Festival"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/Mohammad-Rasoulof-Oh-Mipo.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Mohammad Rasoulof Highlights Jafar Panahi's Sentence at Tokyo Kurosawa Akira Award Press Conference",
-        "source": "Variety"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 07:32:00 +0000"
-  },
-  "lg4xc3": {
-    "id": "lg4xc3",
-    "type": "news",
-    "headline": "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
-    "dek": "Ranbir Kapoor and Yash starrer Ramayana Part One achieves solid presales totaling around Rs. 30 crore, despite facing a sluggish pre-diwali box office phase in northern and southern markets.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Jatinder Singh"
-      ],
-      "titles": [
-        "Ramayana Part One",
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part One advance bookings",
-      "Ranbir Kapoor Yash Ramayana box office",
-      "Ramayana Part One presales Rs 30 Cr",
-      "Ramayana Part 1 opening day collection"
-    ],
-    "images": [
-      {
-        "url": "https://www.pinkvilla.com/images/2026-11/865665387_ramayan-2.jpg",
-        "caption": "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
-        "source": "Pinkvilla"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 12:37:55 +0530"
-  },
-  "5o9vmi": {
-    "id": "5o9vmi",
-    "type": "news",
-    "headline": "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
-    "dek": "Explore the exciting lineup of new Malayalam, Tamil, and Telugu films arriving on major streaming platforms like Amazon Prime Video, Netflix, JioHotstar, SonyLIV, ZEE5, Sun NXT, and ETV Win this week.",
-    "entities": {
-      "people": [
-        "Raisa Nasreen",
-        "Hiphop Tamizha Adhi",
-        "Harish Kalyan",
-        "Siddhi Idnani",
-        "Sasi",
-        "Dulquer Salmaan",
-        "Nahas Hidhayath",
-        "Kayadu Lohar",
-        "Mysskin",
-        "Antony Varghese",
-        "Samyuktha Viswanathan",
-        "Kathir",
-        "Vinay Forrt",
-        "Parth Tiwari",
-        "Khagesh Tammineni",
-        "Vikram Sahidev",
-        "Sandhya Vasishta",
-        "Tarak Ponnappa",
-        "Pratap Kollareddy",
-        "Sandeep Saroj",
-        "Keyuri Shah",
-        "Krishnudu",
-        "Rithvik"
-      ],
-      "titles": [
-        "Meesaya Murukku 2",
-        "Nooru Kodi Vaanavil",
-        "I'm Game",
-        "Anakapalli",
-        "Balu Geetha"
-      ]
-    },
-    "keywords": [
-      "Meesaya Murukku 2 OTT",
-      "I'm Game Dulquer Salmaan",
-      "Nooru Kodi Vaanavil release",
-      "Anakapalli movie Sun NXT",
-      "Balu Geetha ETV Win"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156455846,thumbsize-602660,width-1280,height-720,resizemode-75/156455846.jpg",
-        "caption": "South Indian OTT Releases For November 3 To 9: Meesaya Murukku 2, I'm Game, And More",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T06:53:54Z"
-  },
-  "jli46i": {
-    "id": "jli46i",
-    "type": "news",
-    "headline": "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India",
-    "dek": "Everything you need to know about the premiere of Love In Disguise Episode 6, including the Amazon Prime Video schedule in India, cast details, plot developments, and streaming information.",
-    "entities": {
-      "people": [
-        "Yim Si-wan",
-        "Seol In-ah",
-        "Lee A-yeon",
-        "Ryu Do-ha"
-      ],
-      "titles": [
-        "Love In Disguise",
-        "Why You Don't Know It's a Girl?"
-      ]
-    },
-    "keywords": [
-      "Love In Disguise Episode 6",
-      "Love In Disguise Prime Video India",
-      "Yim Si-wan Seol In-ah kdrama",
-      "Love In Disguise release time"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/loveindisguiseep2timed1-66281793688390.jpg",
-        "caption": "Love In Disguise Episode 6 Release Time Today: When And Where To Watch The K-Drama In India",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 12:18:36 +0530"
   },
   "1oesgxu": {
     "id": "1oesgxu",

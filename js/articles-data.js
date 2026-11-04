@@ -54918,5 +54918,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-04T10:51:34Z"
+  },
+  "188jdwo": {
+    "id": "188jdwo",
+    "type": "news",
+    "headline": "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+    "dek": "Rajinikanths blockbuster film Jailer 2 is reportedly heading to Amazon Prime Video and Sun NXT following a theatrical window, with rumors pointing to an extended cut featuring deleted scenes.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "The theatrical run of Rajinikanth starrer Jailer 2 has captured immense attention worldwide, but anticipation is now shifting toward its upcoming digital debut. Reports indicate that the action-packed feature is scheduled to arrive on streaming platforms very soon.",
+          "According to industry sources, Amazon Prime Video is slated to hold the digital rights for the film, while Sun NXT has also been connected to the streaming rollout. This anticipated transition follows closely on the heels of its massive theatrical run."
+        ]
+      },
+      {
+        "h": "Expected Streaming Date",
+        "p": [
+          "The digital premiere is reportedly slated for November 12, maintaining a four-week window following its original theatrical debut on October 15. This specific scheduling strategy has already formed a notable talking point across the entertainment industry.",
+          "Because of this shorter theatrical-to-OTT timeline, certain national multiplex chains such as PVR INOX and Cinepolis opted not to screen the Hindi version of the movie. Nevertheless, the feature continued successful screenings through other alternative cinema operators."
+        ]
+      },
+      {
+        "h": "Potential Extended Cut Featuring 30 Extra Minutes",
+        "p": [
+          "Beyond the simple arrival on home streaming devices, viewers might receive an unexpected bonus in the form of nearly 30 minutes of deleted footage. This extended cut could restore various sequences that were ultimately left out of the final theatrical release.",
+          "The inclusion of these missing scenes introduces intriguing possibilities for how the narrative and pacing might shift during home viewing. Whether these additions contain crucial plot developments or supplementary action remains to be seen."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Trimming Discussions",
+        "p": [
+          "A major talking point surrounding the theatrical version involved the limited screen time of several prominent guest stars and supporting actors. Fans in regions like Kerala expressed disappointment over Mohanlals brief appearance in the film.",
+          "Similarly, portions featuring Vijay Sethupathi were reportedly trimmed prior to release, while Santhanams appearance in a shooting completion video had built expectations that were unfulfilled in cinemas. The potential streaming cut aims to address some of these missing appearances."
+        ]
+      },
+      {
+        "h": "Theatrical Success and Global Milestones",
+        "p": [
+          "Before transitioning to digital platforms, the Nelson Dilipkumar directorial achieved colossal financial milestones at the box office. The movie successfully crossed the ₹800 crore gross threshold worldwide while maintaining a steady theatrical presence.",
+          "In the domestic market, the feature secured an impressive India net collection of ₹463.05 crore alongside an overall worldwide gross of ₹816.90 crore, cementing its status as an undeniable commercial juggernaut."
+        ]
+      },
+      {
+        "h": "Pacing and Creative Considerations",
+        "p": [
+          "Introducing an extra half-hour to a widely viewed theatrical feature raises interesting questions regarding director Nelson Dilipkumars final creative vision. Pacing adjustments will dictate how smoothly the reinstated material integrates into the established narrative.",
+          "It remains unconfirmed whether the director officially approved this extended cut or if the extra footage will be distributed as separate bonus content alongside the standard theatrical version on streaming applications."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 is reportedly heading to Amazon Prime Video and Sun NXT on November 12 following a four-week theatrical window. The digital release may include an extended cut with nearly 30 minutes of extra footage restoring scenes involving stars like Mohanlal, Vijay Sethupathi, and Hrithik Roshan."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 released in theatres on Thursday, October 15, 2026.",
+      "The film has crossed ₹800 crore gross worldwide, specifically reaching ₹816.90 crore.",
+      "The India net collection for Jailer 2 stands at ₹463.05 crore.",
+      "The movie is reportedly expected to stream on Amazon Prime Video on November 12.",
+      "Sun NXT has also been mentioned in connection with the film's streaming release.",
+      "The digital version may feature 30 minutes of extra footage involving actors like Mohanlal, Vijay Sethupathi, Hrithik Roshan, and Santhanam."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Mohanlal",
+        "Vijay Sethupathi",
+        "Hrithik Roshan",
+        "Santhanam"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Baahubali 2",
+        "KGF 2",
+        "Sivaji",
+        "Leo"
+      ]
+    },
+    "keywords": [
+      "Jailer 2",
+      "Jailer 2 OTT release date",
+      "Rajinikanth Jailer 2",
+      "Jailer 2 extra footage"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028362.jpg",
+        "caption": "Jailer 2 OTT Release Date Revealed as Rajinikanths Blockbuster May Stream With 30 Minutes of Extra Footage",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:17:34 +0000"
+  },
+  "14mj1o9": {
+    "id": "14mj1o9",
+    "type": "news",
+    "headline": "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+    "dek": "The latest episode of Disney+ series VisionQuest concludes with a shocking cliffhanger involving Friday and Paladin, sending viewers into a frenzy.",
+    "body": [
+      {
+        "h": "A Shocking Cliffhanger in Episode 7",
+        "p": [
+          "The seventh episode of the Disney+ series VisionQuest has left audiences reeling following a dramatic and abrupt conclusion. Titled \"Immolation,\" the episode wrapped up with a major cliffhanger that places the survival of two core characters directly in jeopardy.",
+          "During the tense final moments of the broadcast, Ultron appeared to target both Friday and Paladin in rapid succession. The sudden sequence caught the audience completely off guard, sparking intense discussion across the internet regarding the true outcome of the confrontation."
+        ]
+      },
+      {
+        "h": "Uncertain Fates for Friday and Paladin",
+        "p": [
+          "The production has not yet officially confirmed whether Friday, played by Orla Brady, and Paladin, portrayed by Todd Stashwick, actually perished during the brutal encounter. This lack of definitive answers has fueled widespread anxiety among viewers who follow the show closely.",
+          "The apparent exits happened so quickly that many watchers expressed disbelief over the lack of build-up. The ambiguity surrounding the scene leaves a lingering question that will remain unresolved until the upcoming season finale."
+        ]
+      },
+      {
+        "h": "Emotional Outpouring Across Social Media",
+        "p": [
+          "Following the broadcast, fans flooded social media platforms to share their distress and shock over the sudden turn of events. Many highlighted the accumulation of losses throughout the current storyline, noting how heavy the emotional toll has become.",
+          "Commenters pointed out that Friday had already endured significant hardship following earlier losses in the narrative. The sheer speed of the sequence left communities stunned, with numerous viewers voicing concern for other characters who remain in the series."
+        ]
+      },
+      {
+        "h": "The Context of Previous Exits",
+        "p": [
+          "The panic among supporters is heavily amplified by earlier events in the season, notably the devastating exit of J.A.R.V.I.S. That earlier departure left a deep impact on the audience, setting a precedent that no character is truly safe.",
+          "Because the emotional weight of those past losses was so heavily emphasized, the sudden threat against Friday and Paladin felt particularly jarring to the community. Viewers are now left comparing the narrative choices of this season to previous tragedies in the universe."
+        ]
+      },
+      {
+        "h": "Theories of Potential Misdirection",
+        "p": [
+          "Despite widespread panic, not all fans are convinced that the characters are genuinely gone for good. Some online theorists suggest the sequence might be a narrative misdirection rather than a permanent double execution.",
+          "One popular theory proposes that Ultron merely expelled Friday from Jocasta’s mind rather than completely destroying her. Proponents of this idea argue that the creators would not rush Friday's departure given how much narrative focus was previously given to J.A.R.V.I.S."
+        ]
+      },
+      {
+        "h": "Countdown to the Season Finale",
+        "p": [
+          "With so many questions left unanswered, all eyes are now turned toward the upcoming season finale. The episode is scheduled to air on November 10 on Disney+.",
+          "Viewers will have to wait until this final broadcast to discover whether Friday and Paladin survived the onslaught or if the shocking cliffhanger truly marked their end."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "VisionQuest episode 7 concluded with a cliffhanger on November 4, 2026, leaving the fates of Friday, played by Orla Brady, and Paladin, played by Todd Stashwick, uncertain after an attack by Ultron. Fans reacted with shock on social media while awaiting the season finale on Disney+ on November 10."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest episode 7 is titled \"Immolation\".",
+      "The episode aired on November 4, 2026.",
+      "Friday is played by Orla Brady.",
+      "Paladin is played by Todd Stashwick.",
+      "The season finale is set to air on November 10, 2026, on Disney+."
+    ],
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Orla Brady",
+        "Todd Stashwick"
+      ],
+      "titles": [
+        "VisionQuest",
+        "J.A.R.V.I.S.",
+        "Ultron"
+      ]
+    },
+    "keywords": [
+      "VisionQuest episode 7",
+      "Friday Paladin death VisionQuest",
+      "Orla Brady VisionQuest",
+      "Todd Stashwick VisionQuest",
+      "VisionQuest November 10 finale"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/VisionQuest.jpg?resize=1200,630",
+        "caption": "VisionQuest Episode 7 Leaves Fans Shaken Over Potential Fates of Friday and Paladin",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:45:00 +0000"
+  },
+  "12aaoxn": {
+    "id": "12aaoxn",
+    "type": "news",
+    "headline": "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series",
+    "dek": "Before his sudden passing, renowned filmmaker Sanjay Gupta was gearing up for his digital debut with an ambitious eight-part adaptation of the true crime book CIU: Criminals in Uniform.",
+    "body": [
+      {
+        "h": "An Ambitious Digital Debut",
+        "p": [
+          "Filmmaker Sanjay Gupta was actively preparing to step into the digital streaming space prior to his sudden death on October 30, 2026. He intended to helm an eight-part episodic drama based on the true crime book titled CIU: Criminals in Uniform.",
+          "The source material for this planned adaptation was authored by investigative journalists Dr Sanjay Singh and Rakesh Trivedi. Gupta had envisioned the project as a massive undertaking for his entry into web storytelling."
+        ]
+      },
+      {
+        "h": "A Star-Studded Cast in Discussions",
+        "p": [
+          "According to statements shared by Dr Sanjay Singh, the director had held multiple creative meetings and put together a detailed pitch deck. The ambition driving the endeavor was to assemble one of the most prominent casts ever seen in an Indian web series.",
+          "Talks were underway with several notable actors, including Anil Kapoor, Naseeruddin Shah, Akshaye Khanna, Emraan Hashmi, Dia Mirza, Atul Kulkarni, Mahesh Manjrekar, and Ronit Bose Roy."
+        ]
+      },
+      {
+        "h": "Envisioned Character Roles",
+        "p": [
+          "The casting vision assigned specific prominent figures to key narrative positions within the fictionalized crime drama. Anil Kapoor was conceptualized to portray the Mumbai Police Commissioner.",
+          "Additionally, Naseeruddin Shah was considered for the role of a bureaucrat, Akshaye Khanna as an Assistant Commissioner of Police, and Emraan Hashmi as a senior inspector."
+        ]
+      },
+      {
+        "h": "Inspired by Real-World Events",
+        "p": [
+          "The underlying plot of the project serves as a fictionalised account stemming from the 2021 Antilia bomb scare incident. The storyline follows the controversial head of the Mumbai Police Crime Investigation Unit leading a tense investigation after explosives are discovered near a prominent tycoon's residence.",
+          "Dr Sanjay Singh noted that Gupta recognized the deep sensitivity of the subject matter while firmly believing the publication held strong potential for a captivating streaming series."
+        ]
+      },
+      {
+        "h": "A Legacy Built on Gritty Cinema",
+        "p": [
+          "Sanjay Gupta's expansive 32-year career in the film industry was defined by stylish action dramas and slick crime thrillers. His notable directorial credits include films such as Kaante, Zinda, Shootout at Wadala, and Kaabil.",
+          "Reflecting on his creative style, Dr Sanjay Singh emphasized that Gupta's storytelling always extended beyond the basic mechanics of crime to focus heavily on human circumstances, hidden truths, and untold perspectives."
+        ]
+      },
+      {
+        "h": "Revisiting the Ranga-Billa Case",
+        "p": [
+          "Aside from the CIU project, the filmmaker also harbored aspirations to revisit the historical 1978 Ranga-Billa case. Even though Prime Video had recently released a project titled Raakh exploring the same subject, Gupta felt the makers had missed a chance to explore the complete complexity of the crime.",
+          "He maintained a firm belief that tremendous scope remained for producing a powerful, factually accurate series focusing on the historical event."
+        ]
+      },
+      {
+        "h": "Tragic Passing in Mumbai",
+        "p": [
+          "The visionary director passed away unexpectedly on the night of October 30, 2026, at the age of 57. The incident occurred at his residence located in the Versova area of Mumbai following a fatal head injury sustained during an accidental fall."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sanjay Gupta was planning his web series debut with an eight-part adaptation of CIU: Criminals in Uniform before his sudden death on October 30, 2026. The planned project featured discussions with prominent actors like Anil Kapoor and Naseeruddin Shah for a star-studded cast inspired by the 2021 Antilia incident."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjay Gupta passed away on October 30, 2026",
+      "Sanjay Gupta was 57 years old at the time of his death",
+      "The death occurred at his residence in Mumbai's Versova area following a fatal head injury in an accidental fall",
+      "The planned web series was an eight-part adaptation of 'CIU: Criminals in Uniform'",
+      "The book 'CIU: Criminals in Uniform' was written by Dr Sanjay Singh and Rakesh Trivedi",
+      "Actors in discussions for the series included Anil Kapoor, Akshaye Khanna, Naseeruddin Shah, Emraan Hashmi, Dia Mirza, Atul Kulkarni, Mahesh Manjrekar, and Ronit Bose Roy",
+      "Sanjay Gupta's career spanned 32 years",
+      "His past films include 'Kaante' (2002), 'Zinda' (2006), 'Shootout at Wadala' (2013), and 'Kaabil' (2017)"
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Anil Kapoor",
+        "Akshaye Khanna",
+        "Naseeruddin Shah",
+        "Emraan Hashmi",
+        "Dr Sanjay Singh",
+        "Rakesh Trivedi",
+        "Dia Mirza",
+        "Atul Kulkarni",
+        "Mahesh Manjrekar",
+        "Ronit Bose Roy"
+      ],
+      "titles": [
+        "CIU: Criminals in Uniform",
+        "Kaante",
+        "Zinda",
+        "Shootout at Wadala",
+        "Kaabil",
+        "Raakh"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta web series",
+      "CIU Criminals in Uniform book",
+      "Anil Kapoor Sanjay Gupta series",
+      "Sanjay Gupta news"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135537494,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sanjay Gupta's Final Vision Involved a Major Star-Studded Crime Web Series",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T16:50:58+05:30"
+  },
+  "casta7": {
+    "id": "casta7",
+    "type": "news",
+    "headline": "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release",
+    "dek": "As the latest franchise installment prepares to enter theaters, Takashi Yamazaki's acclaimed sci-fi masterwork is dominating viewer interest and streaming platform search metrics.",
+    "body": [
+      {
+        "h": "Streaming Resurgence on JustWatch",
+        "p": [
+          "Viewers are flocking back to the acclaimed sci-fi action masterpiece Godzilla Minus One as anticipation builds for its upcoming theatrical follow-up. According to daily metrics from the online streaming database JustWatch, the film has climbed to the number one spot on the platform's US charts.",
+          "While other titles might currently hold higher raw viewership numbers on platforms like Netflix, JustWatch tracking reveals that audiences are actively searching for the movie, adding it to personal watch lists, and marking it as watched in massive numbers."
+        ]
+      },
+      {
+        "h": "A Historic Legacy Spanning Seven Decades",
+        "p": [
+          "The enduring appeal of the irradiated giant monster traces back more than seventy years to when the very first cinematic outing stomped onto the scene. Over the decades, the franchise has evolved through numerous iterations across Japanese and American studios.",
+          "Despite a crowded field of competitors over the last seventy years, the property remains a powerhouse of genre filmmaking. Fans continue to return to the universe, drawn by the timeless tension of humanity battling colossal forces of nature."
+        ]
+      },
+      {
+        "h": "Director Takashi Yamazaki's Masterpiece",
+        "p": [
+          "At the heart of the streaming revival is the 2023 release helmed by director Takashi Yamazaki, who also took charge of writing and supervising the visual effects. Moving the action away from Hollywood conventions allowed for a uniquely grounded narrative.",
+          "The story follows Yuki Yamada as Shiro Mizushima, a failed Kamikaze pilot on a small island during the Second World War who encounters a younger version of the beast. Years later, his lingering grief and past mistakes resurface as a much larger monster attacks Tokyo."
+        ]
+      },
+      {
+        "h": "Record-Breaking Critical Acclaim",
+        "p": [
+          "The creative approach paid off by shattering critical records for the entire legendary franchise. The film secured a near-flawless ninety-nine percent score on Rotten Tomatoes, alongside a ninety-eight percent user approval rating.",
+          "This reception makes it the highest-rated installment in the entire multi-decade history of the series, outperforming even the 1954 original and the 2016 release Shin Godzilla."
+        ]
+      },
+      {
+        "h": "Anticipation for Godzilla Minus Zero",
+        "p": [
+          "The renewed streaming momentum directly ties into the theatrical debut of the upcoming sequel, Godzilla Minus Zero, scheduled to arrive in cinemas on November 6. Critics have already weighed in on the next chapter, awarding it a Certified Fresh rating with a ninety percent Rotten Tomatoes score.",
+          "Yuki Yamada returns for the continuation of the story, as past efforts to subdue the monster ultimately fell short. This time, however, humanity faces an even greater threat with the introduction of King Ghidorah, the iconic giant three-headed dragon."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus One has surged to the top of the JustWatch daily streaming charts in the US as fans prepare for the theatrical release of the sequel Godzilla Minus Zero on November 6. Directed by Takashi Yamazaki, the 2023 film previously broke franchise records with a ninety-nine percent Rotten Tomatoes score and features returning star Yuki Yamada alongside the arrival of the classic kaiju King Ghidorah."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus One was added to Netflix in June 2024.",
+      "Godzilla Minus One holds a 99% Rotten Tomatoes score and a 98% user rating.",
+      "The original Godzilla movie was released 72 years ago in 1954.",
+      "Godzilla Minus Zero is scheduled to release in theaters on Nov. 6, 2026.",
+      "Godzilla Minus Zero holds a 90% Rotten Tomatoes score.",
+      "Yuki Yamada stars as Shiro Mizushima."
+    ],
+    "entities": {
+      "people": [
+        "Archie Fenn",
+        "Takashi Yamazaki",
+        "Yuki Yamada",
+        "Shiro Mizushima",
+        "Olivia Wilde",
+        "Patrick Stewart"
+      ],
+      "titles": [
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Godzilla",
+        "Collision Course",
+        "The Invite",
+        "Green Room",
+        "Obsession",
+        "Disclosure Day",
+        "Backrooms",
+        "The Cycle",
+        "Teenage Sex and Death at Camp Miasma",
+        "Hokum",
+        "Shin Godzilla"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus One",
+      "Godzilla Minus Zero",
+      "Takashi Yamazaki",
+      "Yuki Yamada",
+      "Netflix streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/godzilla-minus-one-streaming-netflix-trending-sci-fi-action-masterpiece-sequel-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Godzilla Minus One Surges on Streaming Charts Ahead of Sequel Release",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:00:16 GMT"
   }
 };
