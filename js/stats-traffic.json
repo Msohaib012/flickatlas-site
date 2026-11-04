@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-04T03:04:31Z",
+  "generated": "2026-11-04T03:52:28Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 6,
-    "pageviews": 23,
-    "sessions": 8,
-    "avg_session_seconds": 133.1
+    "users": 8,
+    "pageviews": 26,
+    "sessions": 10,
+    "avg_session_seconds": 118.8
   },
   "last7": {
-    "users": 180,
-    "pageviews": 677,
-    "sessions": 255,
-    "avg_session_seconds": 169.6
+    "users": 182,
+    "pageviews": 680,
+    "sessions": 257,
+    "avg_session_seconds": 173.9
   },
   "top_pages": [
     {
@@ -82,14 +82,14 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 131,
-      "users": 87
+      "sessions": 132,
+      "users": 88
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 119,
-      "users": 92
+      "sessions": 120,
+      "users": 93
     },
     {
       "source": "search.google.com",
@@ -100,8 +100,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 2,
-      "users": 2
+      "sessions": 1,
+      "users": 1
     },
     {
       "source": "gemini.google.com",
@@ -117,7 +117,7 @@
     },
     {
       "country": "India",
-      "users": 59
+      "users": 61
     },
     {
       "country": "Pakistan",
@@ -159,7 +159,7 @@
     },
     {
       "device": "mobile",
-      "users": 85
+      "users": 87
     },
     {
       "device": "tablet",

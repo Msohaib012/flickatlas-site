@@ -27253,7 +27253,14 @@ window.FA_ARTICLES = {
         "source": "HUM TV"
       }
     ],
-    "published": "2026-10-31T17:00:22Z"
+    "published": "2026-10-31T17:00:22Z",
+    "keywords": [
+      "Zehar-e-Mohabbat Episode 21",
+      "Zehar-e-Mohabbat watch online HUM TV",
+      "Zehar-e-Mohabbat 2026-10-31",
+      "Zehar-e-Mohabbat",
+      "Zehar"
+    ]
   },
   "1i4poor": {
     "id": "1i4poor",
@@ -27295,7 +27302,14 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-31T17:00:11Z"
+    "published": "2026-10-31T17:00:11Z",
+    "keywords": [
+      "Bano Episode 19",
+      "Bano watch online Geo TV",
+      "Bano episode 19 Geo TV",
+      "Bano",
+      "Bano Episode"
+    ]
   },
   "xb5dol": {
     "id": "xb5dol",
@@ -27348,7 +27362,13 @@ window.FA_ARTICLES = {
         "source": "Geo TV"
       }
     ],
-    "published": "2026-10-31T16:10:32Z"
+    "published": "2026-10-31T16:10:32Z",
+    "keywords": [
+      "Nashtar Episode 26",
+      "Nashtar watch online Geo TV",
+      "Danish Taimoor Nashtar episode 26",
+      "Nashtar Geo TV October 31"
+    ]
   },
   "gnyxr1": {
     "id": "gnyxr1",
@@ -27543,10 +27563,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Muhammad Ansar Jatt",
-      "Sialkot mehndi stampede",
-      "Mr Pattlo event Sialkot",
-      "Faraz Cricket Ground stampede"
+      "Ansar Jatt Mehndi event stampede",
+      "Muhammad Ansar Jatt Sialkot",
+      "Ansar Jatt Sialkot incident",
+      "Faraz Cricket Ground Sialkot stampede"
     ],
     "images": [
       {
@@ -27637,10 +27657,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Dark Matter season 2 finale",
-      "Blake Crouch Dark Matter",
-      "Leighton Vance death Dark Matter",
-      "Daniela Dessen Charlie stranded"
+      "Dark Matter Season 2 finale",
+      "Blake Crouch Dark Matter season 2",
+      "Dark Matter creator Blake Crouch",
+      "Dark Matter season 2 character death"
     ],
     "images": [
       {
@@ -27735,10 +27755,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Silent Hill",
-      "Sean Bean Silent Hill",
-      "Silent Hill streaming HBO Max",
-      "Silent Hill movie"
+      "Sean Bean Silent Hill streaming",
+      "Silent Hill horror cult classic",
+      "Silent Hill 2006 film streaming",
+      "Sean Bean Radha Mitchell Silent Hill"
     ],
     "images": [
       {
@@ -27823,10 +27843,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Nashtar Episode 27",
-      "Danish Taimoor Nashtar",
-      "Anmol Baloch Har Pal Geo",
-      "Nashtar 31st October 2026"
+      "Nashtar Episode 27 teaser",
+      "Danish Taimoor Anmol Baloch Nashtar",
+      "Nashtar Har Pal Geo teaser",
+      "Nashtar Episode 27 October 31st"
     ],
     "images": [
       {
@@ -27916,11 +27936,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Colin Farrell",
-      "James Farrell",
-      "The Slightest Touch",
-      "Angelman syndrome",
-      "Emma Fogarty"
+      "Colin Farrell son James",
+      "The Slightest Touch documentary trailer",
+      "Colin Farrell James documentary",
+      "The Slightest Touch HBO"
     ],
     "images": [],
     "published": "2026-10-31T19:53:04Z"
@@ -28150,10 +28169,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "IIFA Awards 2026 winners",
-      "Dhurandhar 12 awards",
-      "Ranveer Singh Best Actor",
-      "Aneet Padda Saiyaara"
+      "IIFA Awards 2026 Dhurandhar",
+      "Dhurandhar 12 wins IIFA",
+      "Ranveer Singh Aneet Padda IIFA Awards",
+      "Aditya Dhar Dhurandhar"
     ],
     "images": [
       {
@@ -28334,10 +28353,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ranabaali box office collection",
-      "Vijay Deverakonda Ranabaali film",
-      "Rashmika Mandanna Ranabaali movie",
-      "Ranabaali worldwide gross"
+      "Ranabaali box office collection day 16",
+      "Vijay Deverakonda Rashmika Mandanna Ranabaali",
+      "Ranabaali worldwide collection Rs 80 crore",
+      "Ranabaali box office India"
     ],
     "images": [
       {
@@ -28463,9 +28482,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Sanjay Gupta passes away",
-      "Shootout At Wadala director",
-      "Kaante filmmaker Sanjay Gupta",
-      "Sanjay Gupta filmography"
+      "Filmmaker Sanjay Gupta death",
+      "Kaante director Sanjay Gupta",
+      "Shootout at Wadala director Sanjay Gupta"
     ],
     "images": [
       {
@@ -28572,11 +28591,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shah Rukh Khan King",
-      "King overseas rights Phars Films",
-      "King 175 crore rupees",
-      "Shah Rukh Khan Siddharth Anand King",
-      "King release date December 2026"
+      "Shah Rukh Khan King overseas rights",
+      "King movie 175 crore rupees",
+      "Phars Films King theatrical rights",
+      "Shah Rukh Khan Siddharth Anand King"
     ],
     "images": [
       {
@@ -28677,10 +28695,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film",
       "Yash son Yatharv Ramayana",
+      "Yash Ravana Ramayana movie",
       "Ramayana world premiere Los Angeles",
-      "Sai Pallavi Ramayana cast"
+      "Yash children Ramayana screening"
     ],
     "images": [
       {
@@ -28774,10 +28792,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Irumudi child actor notice",
-      "Baby Nakshathra Telangana Labour Department",
-      "Mythri Movie Makers notice",
-      "Ravi Teja Irumudi controversy"
+      "Telangana Labour Department Irumudi",
+      "Ravi Teja Irumudi notice",
+      "Baby Nakshathra child actor regulations",
+      "Mythri Movie Makers Irumudi"
     ],
     "images": [
       {
@@ -28892,10 +28910,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Suriya Scene film",
-      "Jithu Madhavan Scene trailer",
-      "Naslen Eeswaran Scene",
-      "Suriya 47th film Deepavali release"
+      "Suriya Scene trailer",
+      "Jithu Madhavan Scene movie",
+      "Suriya Inbaraj police officer",
+      "Scene movie Nazriya Naslen"
     ],
     "images": [
       {
@@ -51716,5 +51734,432 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 02:40:42 +0000"
+  },
+  "1tjd6wm": {
+    "id": "1tjd6wm",
+    "type": "news",
+    "headline": "Ramayana: Part One Nears Rs 100-Crore Milestone in Advance Bookings",
+    "dek": "Namit Malhotra's upcoming mythological adaptation has crossed significant pre-release figures, selling over 25 lakh tickets for its initial five-day theatrical run across India.",
+    "body": [
+      {
+        "h": "Pre-Release Momentum",
+        "p": [
+          "The highly anticipated cinematic adaptation of the epic is rapidly approaching a major milestone prior to its official theatrical debut. Industry tracking data indicates that the feature has generated massive interest among moviegoers, putting a century-crore pre-sales tally within striking distance.",
+          "With only twenty-four hours remaining before cinemas open their doors to audiences, the massive pre-release numbers highlight tremendous anticipation for the upcoming release."
+        ]
+      },
+      {
+        "h": "Ticketing and Revenue Figures",
+        "p": [
+          "Trade website metrics reveal that the Ranbir Kapoor-starrer has accumulated a total of Rs 96.56 crore through advance bookings spanning its first five days in domestic theaters. This comprehensive figure includes seats blocked by various theater chains across the country.",
+          "When excluding those reserved seats, the pure advance collection figure sits at a robust Rs 77.31 crore, demonstrating significant organic demand from ticket buyers nationwide."
+        ]
+      },
+      {
+        "h": "Show Counts and Ticket Volume",
+        "p": [
+          "According to early morning data updates, the feature has successfully distributed 25.65 lakh tickets across a staggering 83,032 scheduled shows covering the five-day window from November 5 to November 9.",
+          "Without accounting for blocked seats, the total count of purchased admissions rests at 20.57 lakh. The production still has a full day left to accumulate further numbers before public screenings commence on Thursday."
+        ]
+      },
+      {
+        "h": "Daily Advance Sales Breakdown",
+        "p": [
+          "The opening day, November 5, spearheads the pre-sale race by pulling in Rs 39.35 crore in gross sales, which adjusts to Rs 33.34 crore when block seats are removed from the calculation.",
+          "Subsequent days show steady engagement, with Saturday contributing Rs 19.68 crore, Friday bringing in Rs 18.53 crore, Sunday generating Rs 13.23 crore, and the final tracked day on Monday recording Rs 5.78 crore."
+        ]
+      },
+      {
+        "h": "Language Versions and Formats",
+        "p": [
+          "The Hindi version commands the lion's share of domestic advance revenue, driving roughly 82 percent of gross daily figures with strong showings across more than 14,000 screenings. Telugu, Kannada, Tamil, and Malayalam versions round out the multi-language distribution with varying contributions.",
+          "Audience preference heavily leans toward immersive viewing experiences, with standard 3D screenings outperforming standard 2D formats, while premium large formats like IMAX and 4DX also secure a notable portion of collections."
+        ]
+      },
+      {
+        "h": "Leading Cities and Regions",
+        "p": [
+          "Geographically, Mumbai leads the city-wise advance sales charts, followed closely by the National Capital Region and Bengaluru. Other major urban hubs like Hyderabad, Pune, and Kolkata also contribute substantially to the pre-release figures.",
+          "On a state level, Maharashtra anchors the regional performance by accounting for over a fifth of Sunday's gross advance sales, accompanied by strong regional showings in Karnataka, Delhi, and Telangana."
+        ]
+      },
+      {
+        "h": "Cast and Crew Background",
+        "p": [
+          "Helmed by director Nitesh Tiwari and backed by producer Namit Malhotra, the ambitious project features a star-studded main cast including Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana.",
+          "The expansive ensemble cast is further supported by notable performances from actors such as Ravi Dubey and Sunny Deol, setting the stage for its scheduled theatrical rollout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One has achieved Rs 96.56 crore in five-day advance bookings and sold 25.65 lakh tickets ahead of its November 5 release. The film stars Ranbir Kapoor, Sai Pallavi, and Yash, with direction by Nitesh Tiwari and production by Namit Malhotra."
+        ]
+      }
+    ],
+    "facts": [
+      "Rs 96.56 crore in five-day advance bookings",
+      "25.65 lakh tickets sold",
+      "83,032 shows",
+      "Release date is November 5, 2026",
+      "Ranbir Kapoor stars as Lord Ram",
+      "Sai Pallavi stars as Sita",
+      "Yash stars as Ravana",
+      "Directed by Nitesh Tiwari",
+      "Produced by Namit Malhotra"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ramayana Part One",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-advance-booking-04333746-16x9_0.jpg?VersionId=bsvIwCcUt7OzcTDTJcPWssBSMtVXiZU0",
+        "caption": "Ramayana: Part One Nears Rs 100-Crore Milestone in Advance Bookings",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:09:16 +0530"
+  },
+  "1cm41pv": {
+    "id": "1cm41pv",
+    "type": "news",
+    "headline": "Jason Statham and Guy Ritchie Reunite for Netflix Revenge Thriller Dogfight",
+    "dek": "Action star Jason Statham and filmmaker Guy Ritchie are teaming up for their seventh feature film together, an upcoming Netflix revenge action project titled Dogfight set in the London criminal underworld.",
+    "body": [
+      {
+        "h": "A Seventh Feature Collaboration",
+        "p": [
+          "Action star Jason Statham and British director Guy Ritchie are joining forces once more for an upcoming Netflix project titled Dogfight. Netflix confirmed that the revenge action movie will mark the seventh feature film collaboration between the actor and the filmmaker, further extending one of the most recognizable partnerships in modern British cinema.",
+          "The project was officially announced on November 3, 2026. Production on the film is scheduled to kick off in early 2027, with principal photography taking place entirely within the United Kingdom."
+        ]
+      },
+      {
+        "h": "Deep Roots in British Crime Cinema",
+        "p": [
+          "The creative relationship between Statham and Ritchie spans nearly three decades, beginning with Ritchie's 1998 directorial debut Lock, Stock and Two Smoking Barrels. That low-budget crime comedy served as a cult hit that introduced both men to global audiences and provided Statham with his first major film role.",
+          "Over the years, their collaboration expanded to include Snatch in 2000, Revolver in 2005, Wrath of Man in 2021, and Operation Fortune: Ruse de Guerre in 2023. Their enduring professional bond has consistently delivered gritty crime films defined by sharp dialogue and intense action sequences."
+        ]
+      },
+      {
+        "h": "What to Expect from Dogfight",
+        "p": [
+          "Netflix has kept exact plot specifics under wraps, though official descriptions characterize Dogfight as a stylish revenge actioner set squarely in the London criminal underworld. The title itself suggests a high-stakes, brutal, and close-quarters conflict between rival forces operating within the city's dark corners.",
+          "Guy Ritchie is slated to write, direct, and produce the feature. Meanwhile, Jason Statham will star in the lead role and also serve as a producer through his personal banner, Punch Palace Productions."
+        ]
+      },
+      {
+        "h": "Production and Industry Partners",
+        "p": [
+          "Dogfight brings together several notable production companies, including Black Bear Pictures, Toff Guy Films, and Punch Palace Productions. Key producers attached to the venture include Guy Ritchie, Jason Statham, Ivan Atkinson representing Toff Guy Films, and John Friedberg from Black Bear.",
+          "Black Bear Pictures has established itself as a frequent collaborator on Ritchie's recent cinematic ventures, reinforcing a strong network of industry support behind the upcoming revenge thriller."
+        ]
+      },
+      {
+        "h": "Busy Schedules for Both Creators",
+        "p": [
+          "The announcement of Dogfight arrives during an exceptionally busy period for both men. Guy Ritchie continues to expand his footprint across streaming and television, balancing work on the third season of his Netflix series The Gentlemen, Paramount+'s MobLand, and Amazon Prime Video's Young Sherlock.",
+          "Jason Statham maintains an equally packed action slate. Alongside his recent work in Mutiny and the meta comedy film Jason Statham Stole My Bike, the reliable action lead is also preparing for the release of The Beekeeper 2."
+        ]
+      },
+      {
+        "h": "Release Expectations and Timeline",
+        "p": [
+          "An official release date for Dogfight has not yet been announced by Netflix. With filming set to begin in early 2027 across the U.K., industry observers anticipate a late 2027 or 2028 streaming premiere window once production and post-production conclude.",
+          "The project highlights Netflix's continued willingness to invest in star-driven, mid-budget action features helmed by established filmmakers who can deliver dedicated genre audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has confirmed that Jason Statham and Guy Ritchie will reunite for their seventh feature film, a revenge action movie titled Dogfight set in the London criminal underworld. Production on the project is scheduled to begin in early 2027 across the United Kingdom, with both men producing alongside companies like Black Bear Pictures and Toff Guy Films."
+        ]
+      }
+    ],
+    "facts": [
+      "Jason Statham and Guy Ritchie are reuniting for Dogfight, their seventh feature film together.",
+      "The project was announced on November 3, 2026.",
+      "Production is scheduled to begin in early 2027 in the United Kingdom.",
+      "Lock, Stock and Two Smoking Barrels was released in 1998.",
+      "Snatch was released in 2000.",
+      "Revolver was released in 2005.",
+      "Wrath of Man was released in 2021.",
+      "Operation Fortune: Ruse de Guerre was released in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Jason Statham",
+        "Guy Ritchie",
+        "Ivan Atkinson",
+        "John Friedberg",
+        "Tom Hardy",
+        "Pierce Brosnan",
+        "Helen Mirren",
+        "Hero Fiennes Tiffin",
+        "J.J. Connolly",
+        "Daniel Craig",
+        "Vinnie Jones",
+        "Jason Isaacs",
+        "Camila Mendes",
+        "Ben Foster",
+        "Jonny Lee Miller"
+      ],
+      "titles": [
+        "Dogfight",
+        "Lock, Stock and Two Smoking Barrels",
+        "Snatch",
+        "Revolver",
+        "Wrath of Man",
+        "Operation Fortune: Ruse de Guerre",
+        "Viva La Madness",
+        "Layer Cake",
+        "The Gentlemen",
+        "MobLand",
+        "Young Sherlock",
+        "The Transporter",
+        "Fast Furious",
+        "The Meg",
+        "The Beekeeper",
+        "Mutiny",
+        "The Beekeeper 2",
+        "Jason Statham Stole My Bike",
+        "In the Grey",
+        "Wife Dog"
+      ]
+    },
+    "keywords": [
+      "Dogfight",
+      "Jason Statham Dogfight",
+      "Guy Ritchie Dogfight",
+      "Dogfight Netflix movie"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-03T193939.549.webp",
+        "caption": "Jason Statham and Guy Ritchie Reunite for Netflix Revenge Thriller Dogfight",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 03:06:14 +0000"
+  },
+  "rlc3n": {
+    "id": "rlc3n",
+    "type": "news",
+    "headline": "Aditya Roy Kapur and Tara Sutaria Join Hands for Milap Zaveri's New Musical Romance Parwana",
+    "dek": "Actors Aditya Roy Kapur and Tara Sutaria are teaming up for the first time in Milap Zaveri's upcoming musical love story, which the director has chosen to dedicate to the late Sanjay Gupta.",
+    "body": [
+      {
+        "h": "A Fresh Cinematic Partnership",
+        "p": [
+          "The Bollywood industry is set to witness a brand-new romantic pairing on the silver screen. Actors Aditya Roy Kapur and Tara Sutaria have officially been locked in to star together in an upcoming cinematic venture directed by filmmaker Milap Zaveri.",
+          "Titled Parwana, the project brings together two prominent contemporary stars who have never shared screen space before. Industry watchers and fans alike have expressed considerable interest in seeing how their dynamic unfolds in a romantic setting."
+        ]
+      },
+      {
+        "h": "An Intense Musical Love Story",
+        "p": [
+          "According to early details emerging about the venture, Parwana is envisioned as an intense musical love story. Music is expected to serve as a vital pillar of the narrative, driving the emotional depth of the film forward.",
+          "Given the genre, the makers are placing significant emphasis on creating a compelling soundtrack that matches the high-stakes emotional drama promised by the storyline."
+        ]
+      },
+      {
+        "h": "Reuniting Behind and in Front of the Camera",
+        "p": [
+          "While the film marks the very first time Aditya Roy Kapur and Tara Sutaria are working together, it also represents a professional reunion for Sutaria and director Milap Zaveri.",
+          "The actor and director previously collaborated on the 2019 film Marjaavaan. Their past working relationship is expected to bring a comfortable creative synergy to the sets of this new romantic project."
+        ]
+      },
+      {
+        "h": "A Heartfelt Dedication to Sanjay Gupta",
+        "p": [
+          "Beyond its romantic theme and fresh casting, Parwana holds profound emotional and personal significance for its director. Milap Zaveri has made the heartfelt decision to dedicate the entire film to the late filmmaker Sanjay Gupta.",
+          "This tribute comes in the wake of Gupta's recent passing, adding a layer of emotional weight to the production for everyone involved in bringing the story to life."
+        ]
+      },
+      {
+        "h": "A Lasting Personal and Professional Bond",
+        "p": [
+          "The connection between Milap Zaveri and Sanjay Gupta runs deep, spanning many years of professional collaboration and mentorship. Gupta played an instrumental role in shaping Zaveri's journey as both a writer and a filmmaker.",
+          "Zaveri previously contributed as a dialogue writer on Gupta's acclaimed film Kaante. Their long-standing creative partnership also encompassed notable projects such as Musafir, Shootout At Lokhandwala, and Shootout At Wadala."
+        ]
+      },
+      {
+        "h": "The Title Reveal Memory",
+        "p": [
+          "Recalling his final interactions with his mentor, Milap Zaveri shared that he had discussed the title of his new film with Sanjay Gupta just days before his demise. Upon hearing the name Parwana, Gupta reacted with immense joy.",
+          "Gupta noted during that conversation that the original film bearing the exact same title had been produced by his own father. Zaveri described the pride and happiness on Gupta's face at that moment as an unforgettable memory."
+        ]
+      },
+      {
+        "h": "Production Backing and Anticipation",
+        "p": [
+          "The ambitious musical drama is backed by producer Bhushan Kumar, adding major studio strength to the project. With a strong production house supporting it, the film is positioned as a major release.",
+          "Audiences are eagerly awaiting further updates regarding the filming schedule, additional cast announcements, and official first-look materials as production ramps up."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actors Aditya Roy Kapur and Tara Sutaria are collaborating for the first time in director Milap Zaveri's upcoming musical romance, titled Parwana. Zaveri, who previously worked with Sutaria on Marjaavaan, has dedicated this new project to his late mentor Sanjay Gupta in honor of their long-standing creative relationship."
+        ]
+      }
+    ],
+    "facts": [
+      "Aditya Roy Kapur and Tara Sutaria are starring together for the first time.",
+      "The film is titled Parwana and is directed by Milap Zaveri.",
+      "Parwana is described as an intense musical love story.",
+      "Milap Zaveri previously directed Tara Sutaria in the 2019 film Marjaavaan.",
+      "Milap Zaveri is dedicating the film to Sanjay Gupta.",
+      "Milap Zaveri worked as a dialogue writer on Sanjay Gupta's Kaante.",
+      "Their previous collaborations include Musafir, Shootout At Lokhandwala, and Shootout At Wadala.",
+      "Bhushan Kumar is associated with the project."
+    ],
+    "entities": {
+      "people": [
+        "Aditya Roy Kapur",
+        "Tara Sutaria",
+        "Milap Zaveri",
+        "Sanjay Gupta",
+        "Bhushan Kumar"
+      ],
+      "titles": [
+        "Parwana",
+        "Marjaavaan",
+        "Kaante",
+        "Musafir",
+        "Shootout At Lokhandwala",
+        "Shootout At Wadala"
+      ]
+    },
+    "keywords": [
+      "Parwana film",
+      "Aditya Roy Kapur Tara Sutaria",
+      "Milap Zaveri Parwana",
+      "Parwana musical love story"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/620x450-04112026-2.jpg.jpeg",
+        "caption": "Aditya Roy Kapur and Tara Sutaria Join Hands for Milap Zaveri's New Musical Romance Parwana",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:03:01 +0200"
+  },
+  "1lcbpft": {
+    "id": "1lcbpft",
+    "type": "news",
+    "headline": "James Gunn Endorses Fan-Made 12-Year DCU Chronological Roadmap",
+    "dek": "DC Studios co-head James Gunn has validated a comprehensive fan-built timeline that charts the interconnected universe from 2016 through 2027.",
+    "body": [
+      {
+        "h": "The Social Media Interaction",
+        "p": [
+          "A dedicated follower of the cinematic universe recently took to Threads to share a meticulously mapped chronological order for upcoming and released projects. Tagging the studio executive directly, the user hoped to get an evaluation of their multi-year sequence from a professional perspective.",
+          "Rather than letting the post pass by, the co-head of DC Studios responded within an hour. Acknowledging that sequential lists typically induce stress for him, he described the proposed order as quite good while leaving the arrangement entirely intact without alterations."
+        ]
+      },
+      {
+        "h": "Mapping Out a Decade",
+        "p": [
+          "The approved fan schedule spans over ten years, stretching from the year 2016 all the way to 2027. It incorporates a wide variety of cinematic features and serialized television projects into a single cohesive viewing path.",
+          "While DC Studios has not yet published an official chronological order of its own, this community-driven outline offers enthusiasts an intuitive structure to follow until an official studio version arrives."
+        ]
+      },
+      {
+        "h": "The 2016 to 2023 Entries",
+        "p": [
+          "The sequence begins back in 2016 with the initial episodes of the series Lanterns before jumping forward several years. It then highlights Clayface in May 2021 and The Suicide Squad in October 2022.",
+          "Moving into the following year, the timeline incorporates the first season of Peacemaker in October 2022 and follows up with Blue Beetle in 2023."
+        ]
+      },
+      {
+        "h": "The 2024 to 2025 Slate",
+        "p": [
+          "As the schedule approaches the mid-2020s, it lists the first season of Creature Commandos in 2024. This is followed by the theatrical release of Superman in May 2025 and Peacemaker Season 2 in June 2025."
+        ]
+      },
+      {
+        "h": "Concluding the Roadmap in 2026 and 2027",
+        "p": [
+          "The final stretch of the sequence features Supergirl and the remaining episodes of Lanterns in the year 2026. The chronological journey ultimately culminates in 2027 with the project titled Man of Tomorrow."
+        ]
+      },
+      {
+        "h": "Notable Splits and Unplaced Projects",
+        "p": [
+          "A unique aspect of this timeline is how it handles the series Lanterns, dividing the broadcast across two distinct eras separated by a full decade. The opening episodes sit far earlier than the concluding chapters.",
+          "Meanwhile, two specific entries currently carry undetermined labels: the second season of Creature Commandos and People vs. Gorilla Grodd. The studio executive refrained from commenting on where these particular titles belong."
+        ]
+      },
+      {
+        "h": "Broader Universe Philosophy",
+        "p": [
+          "This validation aligns closely with previous remarks regarding how the overarching franchise is structured. The leadership has frequently compared the setup to Star Wars, allowing viewers to jump into different narrative entry points.",
+          "Although certain titles like Superman connect directly to subsequent chapters such as Man of Tomorrow, other projects like Clayface are designed to function independently."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Studios co-head James Gunn responded on Threads to a fan-built chronological timeline spanning from 2016 to 2027, endorsing it as pretty good without making any corrections. The 12-year roadmap outlines various films and television series, including Lanterns, Superman, and Man of Tomorrow, while leaving a few titles labeled as TBD."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn is the co-head of DC Studios.",
+      "The fan-built timeline spans from 2016 to 2027.",
+      "James Gunn replied to the fan post on Threads roughly an hour later.",
+      "Projects listed include Lanterns, Clayface, The Suicide Squad, Peacemaker Season 1, Blue Beetle, Creature Commandos Season 1, Superman, Peacemaker Season 2, Supergirl, and Man of Tomorrow.",
+      "Two entries carry a TBD label: Creature Commandos Season 2 and People vs. Gorilla Grodd."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "Lanterns",
+        "Clayface",
+        "The Suicide Squad",
+        "Peacemaker",
+        "Blue Beetle",
+        "Creature Commandos",
+        "Superman",
+        "Supergirl",
+        "Man of Tomorrow",
+        "People vs. Gorilla Grodd"
+      ]
+    },
+    "keywords": [
+      "James Gunn DCU timeline",
+      "DCU chronological roadmap 2016 2027",
+      "James Gunn Threads DCU list",
+      "Lanterns DCU timeline order"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/3p7QDtjTO0WWyYTCvCjM8Yj4Rff-1200-1200-675-675-crop-000000.jpg?resize=1200,630",
+        "caption": "James Gunn Endorses Fan-Made 12-Year DCU Chronological Roadmap",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 03:33:27 +0000"
   }
 };
