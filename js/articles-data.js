@@ -57101,5 +57101,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-04T20:18:48+05:30"
+  },
+  "1yaxs6z": {
+    "id": "1yaxs6z",
+    "type": "news",
+    "headline": "Ramayana Advance Booking Grosses Rs 97.64 Crore Ahead Of Theatrical Release",
+    "dek": "Nitesh Tiwari's mythological epic starring Ranbir Kapoor and Yash is nearing the Rs 100 crore milestone in advance ticket sales just a day before its premiere.",
+    "body": [
+      {
+        "h": "Epic Advance Booking Numbers",
+        "p": [
+          "The theatrical release of Nitesh Tiwari's eagerly awaited mythological project has generated massive excitement, reflected directly in extraordinary pre-sales figures. The production is rapidly approaching the notable Rs 100 crore threshold as advance ticket numbers continue to surge across the nation.",
+          "As of Wednesday morning, November 4, the big-budget feature has collected a total of Rs 97.64 crore through advance bookings, which includes block bookings across multiple regions and languages."
+        ]
+      },
+      {
+        "h": "Breakdown Of Ticket Sales And Shows",
+        "p": [
+          "Trade tracking website Sacnilk reported that the venture has sold 25.88 lakh tickets spanning 83,736 shows across 901 cities for six distinct show dates. When excluding blocked seats, the collection stands at Rs 77.71 crore derived from 20.68 lakh tickets.",
+          "Momentum remained strong right before the premiere, with the title adding another Rs 1.20 crore to its overall advance tally between the 6 AM and 10 AM cut-off window on Wednesday morning."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "The Hindi version is leading the pre-booking charts by a wide margin, generating Rs 79.84 crore and accounting for approximately 82 percent of the cumulative advance gross. This strong demand highlights the project's broad appeal in major metropolitan areas.",
+          "Meanwhile, the Telugu version has secured the second spot with Rs 8.13 crore, while additional collections come from Kannada and other regional language markets."
+        ]
+      },
+      {
+        "h": "Leading Territories And Markets",
+        "p": [
+          "The National Capital Region has emerged as the highest-grossing territory, pulling in Rs 13.59 crore with blocks from 2.11 lakh tickets, or Rs 10.45 crore without blocks. Mumbai follows closely behind in second place with Rs 12.15 crore including blocks, and Bengaluru ranks third with Rs 9.98 crore.",
+          "Hyderabad recorded considerable interest, registering Rs 5.95 crore from 2.59 lakh tickets, notably selling a higher volume of tickets without blocks than several other major regions. Pune rounded out the top five urban markets with Rs 4.07 crore."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The ambitious two-part adaptation is directed by filmmaker Nitesh Tiwari and produced by Namit Malhotra. The narrative features a prominent ensemble cast including Ranbir Kapoor portraying Lord Ram, Sai Pallavi as Goddess Sita, and Yash stepping into the role of Ravana.",
+          "With a Thursday release date approaching, industry watchers are closely monitoring whether the feature will successfully cross the Rs 100 crore milestone prior to its opening screenings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's upcoming mythological film Ramayana has grossed Rs 97.64 crore in advance bookings ahead of its theatrical release on Thursday, November 5. Starring Ranbir Kapoor, Yash, and Sai Pallavi, the feature is close to hitting the Rs 100 crore mark driven heavily by strong Hindi and regional language ticket sales."
+        ]
+      }
+    ],
+    "facts": [
+      "Advance booking collection stands at Rs 97.64 crore including block bookings as of Wednesday morning, November 4, 2026.",
+      "Collection without blocked seats is Rs 77.71 crore.",
+      "Total tickets sold are 25.88 lakh across 83,736 shows in 901 cities.",
+      "Hindi version generated Rs 79.84 crore in advance bookings.",
+      "Telugu version generated Rs 8.13 crore.",
+      "NCR generated Rs 13.59 crore including blocks from 2.11 lakh tickets.",
+      "Mumbai generated Rs 12.15 crore including blocks from 1.91 lakh tickets.",
+      "Bengaluru generated Rs 9.98 crore from 1.69 lakh tickets.",
+      "Hyderabad generated Rs 5.95 crore including blocks from 2.59 lakh tickets.",
+      "Pune generated Rs 4.07 crore including blocks from 76,758 tickets.",
+      "The film is scheduled to release on Thursday, November 5, 2026.",
+      "Cast includes Ranbir Kapoor as Lord Ram, Sai Pallavi as Goddess Sita, and Yash as Ravana.",
+      "The film is directed by Nitesh Tiwari and produced by Namit Malhotra."
+    ],
+    "entities": {
+      "people": [
+        "Soumyabrata Gupta",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156461823,thumbsize-102541,width-1280,height-720,resizemode-75/156461823.jpg",
+        "caption": "Ramayana Advance Booking Grosses Rs 97.64 Crore Ahead Of Theatrical Release",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T15:44:22Z"
+  },
+  "58olu6": {
+    "id": "58olu6",
+    "type": "news",
+    "headline": "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie",
+    "dek": "One Tree Entertainment has debuted an exclusive trailer for Money by Sundown, a new Southern dark comedy about a desperate kidnapping and a dysfunctional family.",
+    "body": [
+      {
+        "h": "Exclusive Trailer Premiere",
+        "p": [
+          "ComingSoon has exclusively debuted the official trailer for Money by Sundown, a brand-new dark comedy centered around a chaotic kidnapping. The project comes from One Tree Entertainment and arrives ahead of its upcoming Digital release later this month."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story follows a stressful situation where a teenage daughter is abducted and the ransom demands are completely impossible to pay. With few options remaining, the mother must turn to her lying, cheating ex-husband whom she hoped never to rely on again.",
+          "Character Tripp Holliday is described as charismatic, reckless, and always convinced he has a plan, making him the absolute last person Jessamine Holliday wants to call. However, with kidnappers demanding $80,000 by sundown, sheer desperation leaves no room for pride."
+        ]
+      },
+      {
+        "h": "Tone and Setting",
+        "p": [
+          "Every new solution creates an even bigger problem for the pair as they navigate a wild mix of suspense, dark comedy, and deep family dysfunction. The narrative proves that the people who drive us crazy can occasionally be the ones we need the most."
+        ]
+      },
+      {
+        "h": "Festival Debut",
+        "p": [
+          "Before hitting digital storefronts, the Southern dark comedy movie is scheduled to make its official world premiere at the Rome International Film Festival. The screening will take place in Rome, Georgia, on Saturday, November 7 at noon."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "The dark comedy features performances by Claire Bronson, known for Mr Mercedes, Bandit, and Greenland, alongside Burgess Jenkins, known for Blue Ridge: The Series, The Girl Who Believed in Miracles, The Young the Restless, and One Tree Hill.",
+          "The film is written and directed by filmmaker Geoffrey Gunn. The supporting cast includes Chapel Oaks, Matt Servitto, and Brian Ashton Smith."
+        ]
+      },
+      {
+        "h": "Director Vision",
+        "p": [
+          "Director Geoffrey Gunn explained that having lived and worked in the South for over a decade, he wanted to capture the real place he knew instead of the typical parodies seen on screen.",
+          "He also aimed to tell a fun story about larger-than-life schemers and dreamers, noting that the end result resembles a tall tale, keeping with the tradition of good Southern stories."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Money by Sundown will officially become available to rent and purchase on Digital platforms on November 17, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "One Tree Entertainment has released an exclusive trailer for the dark comedy movie Money by Sundown, which follows estranged parents trying to raise an eighty thousand dollar ransom by sundown. Written and directed by Geoffrey Gunn and starring Claire Bronson and Burgess Jenkins, the film will premiere at the Rome International Film Festival before its digital release on November 17, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Money by Sundown is a Southern dark comedy movie from One Tree Entertainment.",
+      "The ransom demand in the movie is $80,000 by sundown.",
+      "The movie makes its world premiere at the Rome International Film Festival in Rome, Georgia, on Saturday, November 7 at noon.",
+      "The film stars Claire Bronson and Burgess Jenkins.",
+      "The film is written and directed by Geoffrey Gunn.",
+      "The supporting cast includes Chapel Oaks, Matt Servitto, and Brian Ashton Smith.",
+      "Money by Sundown will be available to rent and purchase on Digital on November 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Tyler Treese",
+        "Claire Bronson",
+        "Burgess Jenkins",
+        "Geoffrey Gunn",
+        "Chapel Oaks",
+        "Matt Servitto",
+        "Brian Ashton Smith",
+        "Bruce Willis",
+        "Chris Tucker",
+        "Jennifer Lawrence",
+        "James Gunn",
+        "Sydney Sweeney",
+        "Alfonso Gomez-Rejon",
+        "Charles B. Pierce"
+      ],
+      "titles": [
+        "Money by Sundown",
+        "Mr Mercedes",
+        "Bandit",
+        "Greenland",
+        "Blue Ridge: The Series",
+        "The Girl Who Believed in Miracles",
+        "The Young the Restless",
+        "One Tree Hill",
+        "Sundown: The Vampire in Retreat",
+        "The Town That Dreaded Sundown",
+        "It: Welcome to Derry"
+      ]
+    },
+    "keywords": [
+      "Money by Sundown movie",
+      "Money by Sundown trailer",
+      "Geoffrey Gunn Money by Sundown",
+      "Claire Bronson Burgess Jenkins movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MBS_Chapel-Oaks-Stars-As-Aster-Holliday-in-Geoffrey-Gunns-MONEY-BY-SUNDOWN.jpg?resize=1200,630",
+        "caption": "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 15:00:00 +0000"
+  },
+  "m47tdl": {
+    "id": "m47tdl",
+    "type": "news",
+    "headline": "Raha Kapoor makes her Bollywood acting debut at age four in Ranbir Kapoor's upcoming mythological film Ramayan",
+    "dek": "Four-year-old Raha Kapoor enters the film industry with a special cameo appearance alongside her father Ranbir Kapoor, Sai Pallavi, and Ravi Dubey in the upcoming feature Ramayan.",
+    "body": [
+      {
+        "h": "Introduction to Raha Kapoor's Debut",
+        "p": [
+          "The entertainment industry is buzzing with excitement as four-year-old Raha Kapoor steps into the world of cinema. The daughter of prominent Bollywood actors Ranbir Kapoor and Alia Bhatt has made her cinematic debut through a special cameo appearance.",
+          "Rather than remaining confined to industry speculation, this exciting piece of news was officially confirmed by her father during a recent promotional interview for his highly anticipated project."
+        ]
+      },
+      {
+        "h": "Role Details in Ramayan",
+        "p": [
+          "The young starlet makes her brief appearance in the grand mythological venture Ramayan, which is scheduled to hit the big screens. In the film, Ranbir Kapoor stars as Lord Ram, while Sai Pallavi portrays Sita, and Ravi Dubey plays Lakshman.",
+          "According to the proud father, Raha features in a specific shot alongside him, Sai Pallavi, and Ravi Dubey, marking her official transition from visiting the production sets to appearing on camera."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Experience",
+        "p": [
+          "Throughout the filming schedule, young Raha frequently accompanied her parents to the sets, soaking in the elaborate atmosphere of a major movie production. This regular exposure allowed her to grow familiar with the cinematic environment.",
+          "Observing the intricate sets and dramatic sequences gradually sparked her curiosity about the traditional tales of Lord Ram, leaving a lasting impression on the four-year-old."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Personal Reflections",
+        "p": [
+          "During the media interaction, the actor expressed immense joy about sharing this cinematic journey with his daughter. He noted that Raha holds a deep personal interest in the movie and its narrative themes.",
+          "When asked about the guiding light in his personal life, the actor affectionately described his daughter as the true diya that brightens his entire world."
+        ]
+      },
+      {
+        "h": "Milestones and Celebrations",
+        "p": [
+          "The release of the film coincides with a deeply special time for the family, as the project arrives just ahead of notable personal milestones. The young star approaches her birthday following the festive celebrations.",
+          "Family members and fans alike look forward to witnessing how audiences receive the young child's unexpected and adorable on-screen appearance in the epic drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Four-year-old Raha Kapoor makes her acting debut with a brief cameo alongside Ranbir Kapoor, Sai Pallavi, and Ravi Dubey in Ramayan. Ranbir Kapoor confirmed the appearance, noting that his daughter developed a keen interest in the mythological story while visiting the production sets."
+        ]
+      }
+    ],
+    "facts": [
+      "Raha Kapoor made her Bollywood debut at 4 years old.",
+      "Ramayan releases on 5th November.",
+      "Ranbir Kapoor plays Lord Ram in Ramayan.",
+      "Sai Pallavi plays Mata Sita in Ramayan.",
+      "Ravi Dubey plays Lakshman in Ramayan.",
+      "Raha Kapoor's birthday is on 6th November."
+    ],
+    "entities": {
+      "people": [
+        "Raha Kapoor",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Ramayan"
+      ]
+    },
+    "keywords": [
+      "Raha Kapoor Ramayan Debut",
+      "Ranbir Kapoor daughter Ramayan",
+      "Raha Kapoor Bollywood debut",
+      "Ramayan movie cast"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aeabc3fc0546-raha-bollywood-debut-040150650-16x9.jpg",
+        "caption": "Raha Kapoor makes her Bollywood acting debut at age four in Ranbir Kapoor's upcoming mythological film Ramayan",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T15:44:22Z"
+  },
+  "v2k5lv": {
+    "id": "v2k5lv",
+    "type": "news",
+    "headline": "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer",
+    "dek": "Paramount Pictures debuts the trailer for The Angry Birds Movie 3, featuring the return of Jason Sudeikis as Red, who must balance the chaotic demands of raising three kids with protecting his world.",
+    "body": [
+      {
+        "h": "Red Takes on a Brand-New Challenge",
+        "p": [
+          "Audiences are getting their first look at the latest animated chapter in the popular Rovio Entertainment video game franchise. Paramount Pictures has released the trailer for The Angry Birds Movie 3, shifting the focus of the series toward domestic comedy.",
+          "Jason Sudeikis steps back into the voice booth to reprise his role as Red. After spending two previous films flying off the handle and saving Bird Island from various perils, the famously irritable avian faces his toughest test yet: parenting."
+        ]
+      },
+      {
+        "h": "A Packed Voice Cast Returns",
+        "p": [
+          "The upcoming sequel brings back several fan-favorite performers from earlier installments. Alongside Sudeikis, comedy stars Josh Gad and Danny McBride return to lend their vocal talents to the animated escapade.",
+          "They are joined by Rachel Bloom, who voices Silver. Together, the expanded voice ensemble helps flesh out the chaotic family dynamics at the heart of the new narrative."
+        ]
+      },
+      {
+        "h": "Meet the Next Generation",
+        "p": [
+          "The trailer introduces Red and Silver's offspring to the franchise. The couple is shown trying to embrace their children, named Glider, June, and Olly.",
+          "The young birds are voiced by Walker Scobell, Emma Myers, and Psalm West, respectively. The family also features a pet named Fuzzy, voiced by James Austin Johnson."
+        ]
+      },
+      {
+        "h": "A Long-Awaited Franchise Return",
+        "p": [
+          "This third installment arrives seven years after the theatrical release of The Angry Birds Movie 2. The longevity of the property proves the enduring appeal of the mobile game adaptation.",
+          "Fans who followed Red's previous adventures will see a character who must navigate domestic responsibilities while once again answering the call to save another world from impending danger."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Release Timing",
+        "p": [
+          "The promotional rollout for the Paramount Pictures project highlights the studio's holiday release strategy. The newly dropped footage gives viewers a clear taste of the visual style and comedic tone.",
+          "Edward Davis reported on the trailer release, detailing the creative direction and the introduction of the new family members that complicate Red's usually stressful life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount Pictures released the trailer for The Angry Birds Movie 3, bringing back Jason Sudeikis as Red alongside a returning voice cast including Josh Gad, Danny McBride, and Rachel Bloom. The animated holiday sequel follows Red and Silver as they raise three children, voiced by Walker Scobell, Emma Myers, and Psalm West, while facing another global threat seven years after the second film."
+        ]
+      }
+    ],
+    "facts": [
+      "The Angry Birds Movie 3 trailer was released on November 4, 2026.",
+      "Jason Sudeikis reprises his role as Red.",
+      "Rachel Bloom voices the character Silver.",
+      "Other returning cast members include Josh Gad and Danny McBride.",
+      "The children in the film are Glider (voiced by Walker Scobell), June (voiced by Emma Myers), and Olly (voiced by Psalm West).",
+      "James Austin Johnson voices the pet Fuzzy.",
+      "The film is a Paramount Pictures release based on the Rovio Entertainment video game.",
+      "The sequel arrives seven years after The Angry Birds Movie 2."
+    ],
+    "entities": {
+      "people": [
+        "Jason Sudeikis",
+        "Josh Gad",
+        "Danny McBride",
+        "Rachel Bloom",
+        "Walker Scobell",
+        "Emma Myers",
+        "Psalm West",
+        "James Austin Johnson",
+        "Edward Davis"
+      ],
+      "titles": [
+        "The Angry Birds Movie 3",
+        "The Angry Birds Movie 2"
+      ]
+    },
+    "keywords": [
+      "The Angry Birds Movie 3",
+      "Jason Sudeikis Angry Birds 3",
+      "The Angry Birds Movie 3 trailer",
+      "Paramount Pictures animated sequel"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/04092851/AB3_TRAILER_001.jpg",
+        "caption": "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:29:42 +0000"
   }
 };

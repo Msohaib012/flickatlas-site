@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T16:51:44Z",
-    "run_id": "41678281702",
-    "status": "success",
-    "checked": {
-     "candidates": 369,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "8 South Films to Watch on OTT This Week: Dulquer Salmaan starrer I’m Game to Hiphop Tamizha Adhi’s Meesaya Murukku 2",
-      "Pinkvilla Predicts: First day box office forecast for Yeh Prem Mol Liya and Gunmaaster G9, final update for Ramayana Part One",
-      "Ranabaali Final Worldwide Box Office Collections: Vijay Deverakonda and Rashmika Mandanna starrer wraps theatrical run at Rs 75 crore globally",
-      "Ian McKellen pays emotional tribute to Patrick Stewart at a gala in London - Watch",
-      "Nicolas Cage says he is ‘homeless’ after sinkhole damages his Malibu mansion",
-      "AICWA seeks intervention from PM Modi regarding the security concerns in Bollywood",
-      "Avengers: Doomsday Already Hit A Box Office Milestone That Makes It Look Great (And Supergirl Not So Much)",
-      "Live-Action Naruto Movie Officially Gets Major 2027 Release Update",
-      "'Frozen 3' Just Got a Major Update, and Elsa May Have Finally Met Her Match [Exclusive]",
-      "An 'Our Flag Means Death' Star Impresses 'Elsbeth' With His Golf Skills in New Season 4 Sneak Peek",
-      "12 Years After ‘True Detective,’ Matthew McConaughey and Woody Harrelson Reunite for a Very Different Mystery",
-      "GTA 6 Pre-Load Plans Get an Unexpected Change Ahead of Launch",
-      "James Bond’s Pierce Brosnan Weighs in on Who Should Be the Next 007: ‘He’s So Strong’",
-      "Carrie Coon’s New Life With Lily James Takes a Dark Turn in The Liberation Trailer",
-      "Weeks After GTA 6, Netflix Subscribers Lose Another Beloved Rockstar Classic",
-      "Maika Monroe’s New Horror Movie Has One Disturbingly Creepy Popcorn Bucket",
-      "Harry Potter TV Show Unveils Perfect Dumbledore Collectible Item Fans Need to Own",
-      "Léa Seydoux & Vincent Lindon in Funny Film 'The Second Act' Trailer",
-      "Netflix's Near-Perfect Action Adventure Series Officially Confirms Season 2 Release Date",
-      "Netflix's 99-Minute Military Action Thriller Megahit Shoots Up the Global Streaming Ranks"
-     ],
-     "updated": [],
-     "count": 350,
-     "detail": "357 stories, 1 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-03T17:51:47Z",
     "run_id": "41688106010",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "407 stories, 1 duplicates removed, 23 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-04T15:41:48Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": {
+     "candidates": 401,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Pookie Baba Aniruddhacharya to Gen Z Baba Shashwat Archarya, Meet Viral Saints Who Are Breaking The Internet",
+      "Kareena REVEALS she was 'screaming on road RUKO RUKO' as she talks about stabbing incident",
+      "Jr NTR unveils ‘Itlu Arjuna’ trailer, praises Anish for choosing a challenging debut role",
+      "Abhijeet Bhattacharya says he will never lip-sync during live concert as he refers to Daler Mehndi controversy",
+      "Badshah hails Jatayu scene in Ramayana in his review, says every frame in Ranbir Kapoor and Sai Pallavi-starrer is breathtaking: ‘Made me cry’",
+      "I Saw Wicker. It Was So Worth Seeing In A Theater (Packed Full Of Women)",
+      "I Finally Watched Practical Magic 2, And Now I'm Mad About The Reviews",
+      "Derek Hough Made A Mistake During DWTS' Disney Night, And I Can't Stop Thinking About It",
+      "Marvel Officially Gives Spider-Man a Death Sentence",
+      "Jean-Claude Van Damme Officially Returns to Martial Arts With New Yakuza Movie",
+      "HBO's 8-Part 'Sherlock' Replacement Officially Returns With New Release",
+      "Forget Tom Hanks’ ‘Greyhound,’ Netflix’s New 8-Part War Thriller Arrives This December",
+      "'NCIS' Season 25 Officially Confirms Michael Weatherly's New Role Status",
+      "Prime Video's 118-Minute Post-Apocalyptic Thriller Is Officially #1 on Streaming",
+      "‘Event Horizon’s Original Director Officially Reveals 2-Part Spiritual Successor Franchise",
+      "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie | Exclusive",
+      "The Kitchen Fans Have 1 Request for Canceled Series After Reunion",
+      "General Hospital’s Rory Gibson Makes His Contract Status Clear Amid Rumors",
+      "The Boys’ Erin Moriarty Breaks Silence on Next Movie With Nicolas Cage",
+      "‘I’ve Been Struggling’: Melissa Rycroft Breaks Silence After Another DWI Arrest"
+     ],
+     "updated": [],
+     "count": 392,
+     "detail": "401 stories, 0 duplicates removed, 0 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-03T18:17:58Z",
-    "run_id": "41689446211",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-04T15:44:22Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Advance Booking Grosses Rs 97.64 Crore Ahead Of Theatrical Release",
+      "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie",
+      "Raha Kapoor makes her Bollywood acting debut at age four in Ranbir Kapoor's upcoming mythological film Ramayan",
+      "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-03T18:52:58Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": {
-     "candidates": 190,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 186, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,30 +1901,27 @@
      "detail": "now 187, coming 3"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-04T15:44:22Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": {
+     "candidates": 190,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 187, coming 3"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-03T18:07:25Z",
-    "run_id": "41688106010",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "18643y9",
-      "1kcmygp",
-      "ged0uq"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2388,27 +2372,26 @@
      "count": 5
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T18:07:22Z",
-    "run_id": "41688106010",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-04T15:44:25Z",
+    "run_id": "41860338926",
     "status": "success",
     "checked": {
-     "candidates": 447,
-     "detail": "446 collected staging rows from readers; 175 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 152,
-     "detail": "+0 new rows, 152 updated rows, 294 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2822,19 +2805,27 @@
      "detail": "+0 new rows, 3 updated rows, 498 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T15:44:23Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": {
+     "candidates": 502,
+     "detail": "501 collected staging rows from readers; 185 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 498 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3071,27 +3062,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-03T18:17:58Z",
-    "run_id": "41689446211",
-    "status": "success",
-    "checked": {
-     "candidates": 524,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 524 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3619,19 +3602,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-04T15:44:24Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Advance Booking Grosses Rs 97.64 Crore Ahead Of Theatrical Release",
+      "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie",
+      "Raha Kapoor makes her Bollywood acting debut at age four in Ranbir Kapoor's upcoming mythological film Ramayan",
+      "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3909,19 +3905,19 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4242,31 +4238,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-03T16:52:47Z",
-    "run_id": "41678281702",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 350 still unprocessed; today by category: movies 12/6, tv_dramas 10/4, episodes 2/2, box_office 14/6, celebrities_events 12/5, upcoming_releases 4/4, ott_streaming 6/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Nicolas Cage Says He Is Homeless After Massive Sinkhole Damages Malibu Mansion",
-      "Jonathan Rhys Meyers Set to Star in Vampire Romance 'Pretty Kill Machine'",
-      "Kelly Clarkson Reflects on Her Incredible Talk Show Run After Major Daytime Emmy Haul",
-      "First Day Box Office Projections Revealed for Upcoming Releases"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4772,26 +4756,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-04T15:44:22Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 392 still unprocessed; today by category: movies 12/6, tv_dramas 5/4, episodes 2/2, box_office 13/6, celebrities_events 13/5, upcoming_releases 9/4, ott_streaming 4/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Advance Booking Grosses Rs 97.64 Crore Ahead Of Theatrical Release",
+      "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie",
+      "Raha Kapoor makes her Bollywood acting debut at age four in Ranbir Kapoor's upcoming mythological film Ramayan",
+      "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-03T16:53:46Z",
-    "run_id": "41678281702",
-    "status": "success",
-    "checked": {
-     "candidates": 32,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5098,24 +5087,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 415,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5460,24 +5444,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 377,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5812,19 +5796,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6074,19 +6063,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6321,19 +6310,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6606,19 +6595,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6859,19 +6848,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7101,19 +7090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7362,6 +7351,16 @@
     "category": "Trending News",
     "run_at": "2026-11-04T15:21:27Z",
     "run_id": "41854694815",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7782,16 +7781,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-03T18:07:33Z",
     "run_id": "41688106010",
     "status": "skipped",
@@ -8028,19 +8017,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T16:54:25Z",
-    "run_id": "41678281702",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8290,8 +8279,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-04T15:44:40Z",
+    "run_id": "41860338926",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-04T15:21:27Z"
+ "updated_at": "2026-11-04T15:44:40Z"
 }
