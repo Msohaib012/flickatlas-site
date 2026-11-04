@@ -46639,6 +46639,12 @@ window.FA_ARTICLES = {
         "p": [
           "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
         ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Zebu-un-Nisa Salman se milti hain aur kehti hain ke unhein lagta hai ke Aaliyan Amara ko talaq nahi dega, jabke Salman unhein samjhane ki koshish karte hain ke woh baad mein Aleena ko samjha lenge. Zebu-un-Nisa kehti hain ke jab tak Aaliyan Amara ko talaq nahi deta, tab tak yeh shadi nahi ho sakti. Salman Aaliyan se baat karte hain ke woh Amara ko talaq nahi de sakte kyunke woh usay aisi asaan saza nahi dena chahte aur usay dard dena chahte hain. Aleena Aliayan se milti hain aur poochti hain ke woh Amara ko talaq kyun nahi de rahe aur kya woh wapas Amara ke paas toh nahi jayenge. Aaliyan kehta hai ke agar uska irada wapas jane ka hota toh woh is shadi ke liye han na karta. \n\nBaad mein, Salman aur Zebu-un-Nisa ke ghar mein shadi ki tayyari hoti hai. Salman ka nikah Aleena ki jagah Amara ke sath ho jata hai jahan sab log moujood hote hain aur nikah ke baad dua mangi jati hai. Aleena aur Mustafa yeh dekh kar dukhi hote hain. Episode ke aakhir mein, Aleena aur Aaliyan apne kamre mein aate hain jahan Aaliyan usay kehta hai ke rishta badal gaya hai, ehsaas naya hai aur rishta naya hai magar unki dosti pehle jaisi hi rahegi aur woh waqt chahta hai is naye rishte ko dil se qabool karne ke liye."
+        ]
       }
     ],
     "facts": [
@@ -46646,7 +46652,8 @@ window.FA_ARTICLES = {
       "Channel: Green TV.",
       "Watch the full episode: https://www.youtube.com/watch?v=fFv0iJn82yc",
       "YouTube views: 70,517.",
-      "TMDB: Dastoor (id 329481)."
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-04."
     ],
     "entities": {
       "titles": [
@@ -55683,5 +55690,423 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-04T17:55:22+05:30"
+  },
+  "1alovu6": {
+    "id": "1alovu6",
+    "type": "news",
+    "headline": "The Odyssey Worldwide Box Office: 6 Major Records Christopher Nolan's Epic Has Broken So Far",
+    "dek": "Christopher Nolan's mythological epic The Odyssey has concluded its domestic run and continues an impressive global journey, smashing multiple all-time box office records along the way.",
+    "body": [
+      {
+        "h": "The Global Box Office Journey",
+        "p": [
+          "Christopher Nolan's latest directorial venture has completed its domestic exhibition while its international run presses forward toward a final conclusion. The mythological drama wrapped up its domestic theater screenings as the second-highest-earning film of the year, bringing in a massive total of $625.6 million in North America.",
+          "Even as its domestic run concludes, the feature continues to pull in audiences overseas. During its sixteenth weekend in international markets, the film added another $2.7 million to its tally, experiencing a modest decline of just sixteen percent from the previous weekend and pushing its cumulative worldwide earnings to $1.8 billion."
+        ]
+      },
+      {
+        "h": "Breaking the All-Time R-Rated Record",
+        "p": [
+          "Among its most notable achievements, the picture has secured the crown as the highest-grossing R-rated movie in cinematic history. By cruising past previous adult-rated contenders with its massive global haul, it redefined the box office ceiling for restricted content.",
+          "Furthermore, it stands alone as the only R-rated film in the history of Hollywood to cross the milestone of $1.5 billion worldwide, setting a benchmark that will likely remain untouched for quite some time."
+        ]
+      },
+      {
+        "h": "A Milestone for Christopher Nolan and Universal",
+        "p": [
+          "The project has also rewritten the personal career records of its filmmaker, comfortably surpassing the global earnings of The Dark Knight Rises to claim the top spot among Christopher Nolan's highest-grossing movies worldwide.",
+          "In addition to personal milestones for the director, the feature achieved historic status for its studio by overtaking the global haul of Jurassic World, officially becoming the highest-grossing film in the history of Universal Pictures."
+        ]
+      },
+      {
+        "h": "Dominating IMAX and International Markets",
+        "p": [
+          "The theatrical experience was heavily bolstered by premium formats, leading to the highest-grossing IMAX release of all time. Screenings in IMAX alone contributed over $555 million globally, easily eclipsing historical tallies set by previous blockbusters like Avatar.",
+          "Beyond format records, the feature accomplished a rare international feat by becoming the first non-sequel and non-remake movie to earn over $1 billion overseas since Avatar achieved the same distinction back in 2009."
+        ]
+      },
+      {
+        "h": "Plot and Mythological Background",
+        "p": [
+          "The narrative adapts timeless mythology, tracking the arduous expedition of Odysseus as he strives to return home to Ithaca following the conclusion of the Trojan War. Throughout the voyage, the protagonist faces severe obstacles and terrifying entities.",
+          "Audiences witness encounters with legendary figures and monsters including the Cyclops Polyphemus, the enchanting Sirens, and Calypso, as the main character battles numerous hardships to complete his journey."
+        ]
+      },
+      {
+        "h": "Significance and Theatrical Legacy",
+        "p": [
+          "The immense financial success demonstrates the viability of large-scale mythological epics in modern theaters, proving that adult-oriented event cinema can achieve unprecedented commercial heights globally.",
+          "As the international exhibition window winds down, the production leaves behind a towering legacy of broken records, reshaping expectations for what studio releases can accomplish across diverse markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Christopher Nolan's film The Odyssey has concluded its domestic run with $625.6 million and reached $1.8 billion globally. The epic has broken six major records, including becoming the highest-grossing R-rated movie and Universal's biggest hit of all time."
+        ]
+      }
+    ],
+    "facts": [
+      "The Odyssey finished its domestic run with $625.6 million.",
+      "The film collected $2.7 million in its 16th weekend overseas.",
+      "The global total stands at $1.8 billion.",
+      "It surpassed Deadpool Wolverine to become the biggest R-rated movie ever.",
+      "It overtook The Dark Knight Rises at $1.085 billion to claim Nolan's top spot.",
+      "It surpassed Jurassic World's $1.671 billion global haul for Universal Pictures.",
+      "IMAX screenings alone generated more than $555 million.",
+      "Avatar earned $271 million in IMAX previously.",
+      "It is the first non-sequel/non-remake movie since Avatar in 2009 to cross $1 billion overseas.",
+      "It is the only R-rated film in Hollywood history to cross $1.5 billion worldwide.",
+      "The film was released on July 17."
+    ],
+    "entities": {
+      "people": [
+        "Christopher Nolan",
+        "Odysseus",
+        "Polyphemus",
+        "Calypso"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Jurassic World",
+        "The Dark Knight Rises",
+        "Avatar",
+        "Deadpool Wolverine"
+      ]
+    },
+    "keywords": [
+      "The Odyssey box office",
+      "Christopher Nolan film records",
+      "The Odyssey worldwide collection",
+      "highest grossing R-rated movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-odyssey-worldwide-box-office-6-records-that-cement-christopher-nolans-epic-among-the-biggest-hits-01.jpg",
+        "caption": "The Odyssey Worldwide Box Office: 6 Major Records Christopher Nolan's Epic Has Broken So Far",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 12:54:12 +0000"
+  },
+  "mqw4bl": {
+    "id": "mqw4bl",
+    "type": "news",
+    "headline": "Dune: Part Three Runtime Officially Confirmed as Shortest of the Trilogy",
+    "dek": "Denis Villeneuve's upcoming space opera will conclude Paul Atreides' story with a 150-minute runtime, making it shorter than its predecessors.",
+    "body": [
+      {
+        "h": "Official Runtime Confirmed",
+        "p": [
+          "The runtime for Dune: Part Three has been officially finalized ahead of its theatrical debut in December. Fans looking forward to the emotional conclusion of Paul Atreides' journey can expect a 150-minute cinematic experience.",
+          "This duration makes the upcoming threequel the shortest installment in the entire film series, sitting just under the length of the previous movies."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Films",
+        "p": [
+          "When comparing the three chapters, Dune: Part One from 2021 ran for 155 minutes, making the new film only a few minutes shorter than the first installment.",
+          "However, Part Three is significantly shorter than Dune: Part Two, which remains the longest entry in the franchise with a sprawling 166-minute runtime."
+        ]
+      },
+      {
+        "h": "Release Details and Previews",
+        "p": [
+          "The sci-fi epic is scheduled to arrive in cinemas broadly on 18 December. Additionally, audiences will have the chance to experience early screenings through record-breaking IMAX previews starting on 15 December.",
+          "These special preview screenings are set to be held at the BFI IMAX venue utilizing IMAX 70mm presentation formats."
+        ]
+      },
+      {
+        "h": "Plot and Character Arcs",
+        "p": [
+          "Taking place nearly twenty years after the narrative events of Part Two, the story showcases Paul Atreides having fully completed his ascent to a despotic and feared emperor.",
+          "Plagued by visions of his past and an impending imperial collapse, the protagonist learns he is the target of a targeted assassination plot."
+        ]
+      },
+      {
+        "h": "Cast and New Additions",
+        "p": [
+          "Timothée Chalamet returns to reprise his central role as Paul Atreides, alongside Florence Pugh portraying his oppressed wife Irulan. Zendaya also returns as Chani, who forms part of the assassination conspiracy.",
+          "Robert Pattinson joins the cast as a new villain named Scytale. Furthermore, Anya Taylor-Joy is featured in the cast, drawing praise for her terrifying performance."
+        ]
+      },
+      {
+        "h": "Cast Reactions and Legacy",
+        "p": [
+          "Discussing his involvement in the project, franchise newcomer Robert Pattinson shared that he has already viewed the film and praised Denis Villeneuve's work as extraordinary.",
+          "Pattinson expressed his belief that audiences will revisit this trilogy conclusion for many years to come, calling the final chapter unbelievable."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dune: Part Three has officially confirmed its runtime at 150 minutes, establishing it as the shortest film in the trilogy directed by Denis Villeneuve. The movie arrives in cinemas on 18 December following IMAX preview screenings beginning on 15 December."
+        ]
+      }
+    ],
+    "facts": [
+      "Dune: Part Three runtime is 150 minutes",
+      "Dune: Part One runtime is 155 minutes",
+      "Dune: Part Two runtime is 166 minutes",
+      "Release date is 18 December",
+      "IMAX previews begin on 15 December",
+      "BFI IMAX will host IMAX 70mm previews",
+      "Story takes place almost two decades after Part Two"
+    ],
+    "entities": {
+      "people": [
+        "Timothée Chalamet",
+        "Denis Villeneuve",
+        "Florence Pugh",
+        "Zendaya",
+        "Robert Pattinson",
+        "Anya Taylor-Joy",
+        "Paul Atreides",
+        "Irulan",
+        "Chani",
+        "Scytale",
+        "Stefania Sarrubba",
+        "Dolly Parton"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "Dune: Part One",
+        "Dune: Part Two",
+        "Legends",
+        "Scream",
+        "Netflix's \"trashy\" thriller",
+        "Traitors",
+        "Loki",
+        "Avengers: Doomsday",
+        "Corrie",
+        "I'm A Celeb",
+        "Line of Duty",
+        "Death in Paradise",
+        "EastEnders",
+        "Bake Off"
+      ]
+    },
+    "keywords": [
+      "Dune Part Three runtime",
+      "Denis Villeneuve Dune 3",
+      "Timothée Chalamet Dune Part Three",
+      "Dune 3 release date"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/fb5c7bd8-8de4-471f-93ae-1d6ecad06eed.jpg?crop=0.880xw:1.00xh;0.0817xw,0&amp;resize=1200:*",
+        "caption": "Dune: Part Three Runtime Officially Confirmed as Shortest of the Trilogy",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 13:17:00 +0000"
+  },
+  "hjiqs1": {
+    "id": "hjiqs1",
+    "type": "news",
+    "headline": "Ramayana Producer Namit Malhotra Hints at Trilogy and Confirms Part 2 Shifted to 2028",
+    "dek": "Producer Namit Malhotra has revealed new details regarding the expansion of the epic Ramayana franchise, confirming a release date change for the second installment.",
+    "body": [
+      {
+        "h": "Release Schedule Shifted",
+        "p": [
+          "The much-anticipated cinematic adaptation of the epic, Ramayana: Part 1, is officially locked for a worldwide theatrical release on November 5, 2026. However, the subsequent installment has faced scheduling adjustments.",
+          "Producer Namit Malhotra confirmed that Ramayana: Part 2, which was previously slated for a 2027 release, has now been officially pushed to 2028."
+        ]
+      },
+      {
+        "h": "Reasoning Behind the Delay",
+        "p": [
+          "Addressing the decision to postpone the second part, Malhotra explained that the team wants to avoid any rushed work. Given the immense global excitement surrounding the project, extra time is necessary to ensure the grand finale matches the standard set by the first movie.",
+          "The makers believe an extra year of production will do justice to a film of this massive scale and allow them to deliver a truly remarkable finale."
+        ]
+      },
+      {
+        "h": "Potential Trilogy Plans",
+        "p": [
+          "Although the story was originally conceptualized as a trilogy, the creators ultimately narrowed the structure down to two parts. However, Malhotra hinted that a trilogy could still be on the table.",
+          "The final decision to expand further will heavily rely on how audiences receive the first installment when it hits theatres in November."
+        ]
+      },
+      {
+        "h": "International Adaptations",
+        "p": [
+          "The scale of the project expanded significantly during its production phase, leading the creators to develop two master versions. A dedicated English version featuring a rewritten script was prepared to cater distinctively to international audiences.",
+          "Depending on future feedback, the team hopes to streamline the process for upcoming installments rather than maintaining multiple distinct runtime versions."
+        ]
+      },
+      {
+        "h": "Los Angeles World Premiere",
+        "p": [
+          "Ramayana held its world premiere in Los Angeles on October 17, drawing a mixed initial response from viewers. While some attendees praised the Pushpak Vimaan battle sequence and drew favorable comparisons to The Lord of The Rings, others felt the heavy emphasis on visual grandeur detracted from the core emotional depth of the narrative.",
+          "The preview screenings provided valuable feedback for the production team ahead of the widespread theatrical rollout."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The epic features a prominent ensemble cast portraying legendary characters from the epic. Ranbir Kapoor stars as Lord Rama, alongside Sai Pallavi as Goddess Sita and Yash as Ravana.",
+          "The lineup also includes Sunny Deol as Lord Hanuman, Ravi Dubey as Lakshman, Rakul Preet Singh as Surpanakha, Lara Dutta as Queen Kaikeyi, Arun Govil as King Dashrath, and Kajal Aggarwal as Mandodari."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Musical Collaborations",
+        "p": [
+          "The film is a joint production venture by Namit Malhotra and Yash, with Nitesh Tiwari sitting in the director's chair. Adding to its international appeal, the movie features musical compositions by Oscar-winning composers Hans Zimmer and AR Rahman.",
+          "When it arrives in cinemas on November 5, 2026, it will release globally in Hindi, Tamil, Telugu, Kannada, and Malayalam."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra has confirmed that Ramayana: Part 2 has been postponed to 2028 to allow adequate production time for the grand finale. Ahead of the first part's worldwide release on November 5, 2026, Malhotra also hinted at the possibility of a trilogy depending on audience reception."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 releases worldwide on November 5, 2026",
+      "Ramayana: Part 2 has been shifted to 2028",
+      "The world premiere took place in Los Angeles on October 17",
+      "Ranbir Kapoor plays Lord Rama",
+      "Sai Pallavi plays Goddess Sita",
+      "Yash plays Ravana",
+      "Sunny Deol plays Lord Hanuman",
+      "Ravi Dubey plays Lakshman",
+      "Rakul Preet Singh plays Surpanakha",
+      "Lara Dutta plays Queen Kaikeyi",
+      "Arun Govil plays King Dashrath",
+      "Kajal Aggarwal plays Mandodari",
+      "The film is directed by Nitesh Tiwari and produced by Namit Malhotra and Yash",
+      "Music is composed by Hans Zimmer and AR Rahman",
+      "Languages for release include Hindi, Tamil, Telugu, Kannada, and Malayalam"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kajal Aggarwal",
+        "Nitesh Tiwari",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "The Lord of The Rings"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Namit Malhotra Ramayana",
+      "Ramayana Part 2 release date",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.indianexpress.com/2026/11/Ramayana-advance-booking-Ranbir-Kapoor-and-Yash.jpg",
+        "caption": "Ramayana Producer Namit Malhotra Hints at Trilogy and Confirms Part 2 Shifted to 2028",
+        "source": "Indian Express — Entertainment"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 11:23:25 +0000"
+  },
+  "1t0ygf8": {
+    "id": "1t0ygf8",
+    "type": "news",
+    "headline": "Sean Harmon Returns to the NCIS Universe in a Brand New Role",
+    "dek": "After previously portraying the younger version of Leroy Jethro Gibbs, Sean Harmon returns to the expanded NCIS universe with a fresh character.",
+    "body": [
+      {
+        "h": "The Return of Sean Harmon",
+        "p": [
+          "After an absence of six years, Sean Harmon has officially returned to the expansive television franchise. Instead of stepping back into the shoes of the character that first brought him into the fold, he is taking on an entirely distinct persona within the network's television schedule.",
+          "His return brings a familiar face back to viewers, but this time with a completely different dramatic trajectory. Rather than revisiting past narratives, this new casting choice allows him to forge a fresh path in the ongoing expansion of the television universe."
+        ]
+      },
+      {
+        "h": "History as the Young Leroy Jethro Gibbs",
+        "p": [
+          "For years, Sean Harmon was recognized by viewers as the young incarnation of the legendary television investigator. He was first introduced in a 2008 episode titled 'Heartland', which explored the foundational romance with Shannon and his strained family dynamics.",
+          "He continued to reprise the role across several subsequent appearances as the flagship program explored earlier timelines. His final performance in the part aired in 2020 in an episode titled 'Everything Starts Somewhere', which detailed the beginnings of the enduring friendship with Donald Ducky Mallard."
+        ]
+      },
+      {
+        "h": "Transition to a New Character",
+        "p": [
+          "The iconic younger version of the investigator was eventually recast in 2024 with Austin Stowell taking over the part for newer projects. This shift paved the way for Sean to re-enter the fold under a completely different creative capacity.",
+          "He now portrays an FBI agent named Casey Bloom. This new assignment has already seen him make multiple appearances, with expectations that he will continue to feature as the current season progresses."
+        ]
+      },
+      {
+        "h": "Why the New Role Fits Better",
+        "p": [
+          "The legacy of the central investigative character remains a towering presence across the entire media franchise, even after the original lead actor departed the main series. Playing such an iconic figure carries significant narrative weight and pressure.",
+          "Stepping into the shoes of an FBI agent instead offers a chance to explore different acting styles. The character is described as quirky, cocky, humorous, and charmingly incompetent, allowing for a much lighter performance."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Creative Freedom",
+        "p": [
+          "Taking on this alternative part frees the performer from the heavy canonical expectations tied to the franchise's central protagonist. It provides an opportunity to showcase range without the burden of legacy expectations.",
+          "Furthermore, this arrangement allows him to balance on-screen appearances with his active behind-the-scenes responsibilities as an executive producer for the franchise, creating a balanced professional dynamic."
+        ]
+      },
+      {
+        "h": "Broader Franchise Context",
+        "p": [
+          "The wider television universe has experienced notable discussions regarding casting decisions ahead of recent network premieres. Viewers have closely followed how new additions and unexpected character transitions are handled across different offshoots.",
+          "From new entries set in New York featuring other notable television veterans to ongoing prequel narratives, the network continues to generate widespread engagement through these deliberate casting choices."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sean Harmon has returned to the franchise after a six-year absence, taking on the role of FBI agent Casey Bloom instead of reprising his former part as the young lead investigator. This new character provides creative freedom and allows him to balance on-screen work with executive producer duties."
+        ]
+      }
+    ],
+    "facts": [
+      "Sean Harmon played Young Gibbs starting in the 2008 episode Heartland.",
+      "His final appearance as Young Gibbs was in the 2020 episode Everything Starts Somewhere.",
+      "Young Gibbs was recast with Austin Stowell in 2024.",
+      "Sean Harmon plays FBI agent Casey Bloom."
+    ],
+    "entities": {
+      "people": [
+        "Sean Harmon",
+        "Mark Harmon",
+        "Austin Stowell",
+        "Donald Ducky Mallard"
+      ],
+      "titles": [
+        "NCIS",
+        "NCIS Origins",
+        "Heartland",
+        "Everything Starts Somewhere"
+      ]
+    },
+    "keywords": [
+      "Sean Harmon Casey Bloom",
+      "NCIS Origins season 3",
+      "Sean Harmon Young Gibbs",
+      "NCIS franchise recast"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/ducky-tony-gibbs-and-kate-in-ncis.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sean Harmon Returns to the NCIS Universe in a Brand New Role",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 13:00:18 GMT"
   }
 };
