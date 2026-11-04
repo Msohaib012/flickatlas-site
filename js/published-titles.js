@@ -24213,5 +24213,813 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 83,
     "providers": []
+  },
+  "1808733": {
+    "id": 1808733,
+    "type": "movie",
+    "title": "Par 4 chemins",
+    "poster_path": "/lZvWfpPOEEk4paiPjpohfgDPcXK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the 12th century, Brother Antoine and Brother Vincent decide to leave the monastery to return to the world and help people find joy. Filled with enthusiasm, they encounter all kinds of situations on a journey that transforms into a voyage of initiation.",
+    "industry": "world",
+    "popularity": 0.3453,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "M/18",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 88,
+    "providers": []
+  },
+  "1804941": {
+    "id": 1804941,
+    "type": "movie",
+    "title": "Mike Tyson: Return of the Mike",
+    "poster_path": "/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
+    "backdrop_path": null,
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "The former heavyweight champion returns to the stage for a raw one-man show, turning his wildest life stories into comedy gold at Seminole Hard Rock Hotel and Casino.",
+    "industry": "world",
+    "popularity": 4.6347,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-03",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "258989": {
+    "id": 258989,
+    "type": "tv",
+    "title": "The Greatest",
+    "poster_path": "/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+    "backdrop_path": "/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+    "vote_average": 5.2,
+    "vote_count": 8,
+    "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
+    "industry": "world",
+    "popularity": 8.5123,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NC16",
+    "first_air_date": "2026-11-04",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-11-04",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Ben Watkins"
+    ],
+    "providers": []
+  },
+  "1808456": {
+    "id": 1808456,
+    "type": "movie",
+    "title": "Regnum Marianum",
+    "poster_path": "/5sbOlm7K0yMkY6xH87CCBe132js.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.9251,
+    "original_language": "hu",
+    "origin_country": [
+      "HU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1799703": {
+    "id": 1799703,
+    "type": "movie",
+    "title": "Midnight Snack",
+    "poster_path": "/yLnBpOoeVKpBMPh3IsMJ0X7itvI.jpg",
+    "backdrop_path": "/leNe6H2dLgkXzFeY7xRSsO25amq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Video Nasties Short Film Challenge participant and superfan Bernard Satariano gets the midnight munchies",
+    "industry": "world",
+    "popularity": 3.1923,
+    "original_language": "en",
+    "origin_country": [
+      "MT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 22,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-10-31",
+    "date_kind": "festival",
+    "runtime": 7,
+    "providers": []
+  },
+  "1808411": {
+    "id": 1808411,
+    "type": "movie",
+    "title": "Magic in the Mundane",
+    "poster_path": "/bWnij7QOOJCd5Jqn09VgpMwk5jC.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A cinematic journey into the overlooked miracles of everyday existence.",
+    "industry": "world",
+    "popularity": 0.4051,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "A cinematic journey into the overlooked miracles of everyday existence.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": []
+  },
+  "1532997": {
+    "id": 1532997,
+    "type": "movie",
+    "title": "Dead Howling",
+    "poster_path": "/i1vpLPnHVAZq1CyJlpVS8YI7a93.jpg",
+    "backdrop_path": "/bL2mZNrVdeNNOICyuFfPJq7YA4s.jpg",
+    "vote_average": 7.0,
+    "vote_count": 4,
+    "overview": "A werewolf hunts zombies after losing his family. He meets two humans seeking sanctuary and joins their quest, protecting them with his powers. Their journey grows perilous as zombies start evolving.",
+    "industry": "world",
+    "popularity": 3.5339,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": {
+      "key": "vtq4FIrKuFo",
+      "name": "Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "tagline": "When the dead rise, the beast hunts.",
+    "status": "Released",
+    "production_countries": [
+      "AU",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "15",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": []
+  },
+  "1805433": {
+    "id": 1805433,
+    "type": "movie",
+    "title": "Very Very Strange Love",
+    "poster_path": "/7P0tesNtck7upZXjepgOnDl5krn.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.2851,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "19",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": []
+  },
+  "1749825": {
+    "id": 1749825,
+    "type": "movie",
+    "title": "Ebenezer Scrooge: A Christmas Carol Horror",
+    "poster_path": "/AgmA793SvgZidRwYJvba5MjK3m1.jpg",
+    "backdrop_path": "/qRgZvZ1auGg2pWaQdMQtSu0vdik.jpg",
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "overview": "A horror take on the classic tale. When cruel businessman Ebenezer Scrooge is visited by ghosts on Christmas Eve, he will have to decide whether to heed their warning to change for the better or remain cold-hearted and merciless.",
+    "industry": "world",
+    "popularity": 3.2366,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 85,
+    "providers": []
+  },
+  "1803151": {
+    "id": 1803151,
+    "type": "movie",
+    "title": "Sotto la stessa pelle",
+    "poster_path": "/cfGKtqkgSG1m3wjyq5FoUiB0ZSj.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.5593,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 270000,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1793082": {
+    "id": 1793082,
+    "type": "movie",
+    "title": "The Cull",
+    "poster_path": "/3rvxydOVTrM8zXKm2opFfzB1IIp.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Wrongly imprisoned for his mother’s murder, Niall is finally released, having found God and renounced a life of violence and addiction. Retreating to a remote woodland cabin seeking redemption and the truth behind her death, he finds a hostile community ruled by a ruthless family, where every encounter deepens the mystery surrounding his mother’s past. As brutal violence erupts and terrifying visions blur the line between nightmare and reality, Niall uncovers a sinister legacy of witchcraft, blood sacrifice and forbidden ritual. Something has been patiently waiting in the forest, and its hunger for vengeance can only be satisfied with blood.",
+    "industry": "world",
+    "popularity": 2.8877,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-10-30",
+    "date_kind": "festival",
+    "runtime": 89,
+    "providers": []
+  },
+  "1802577": {
+    "id": 1802577,
+    "type": "movie",
+    "title": "Rightleft",
+    "poster_path": "/mJdGIJLkLTgiaLQ1xL6Fi35lW2a.jpg",
+    "backdrop_path": "/3enF7oKXERJJRtzY30uBiLyqJS9.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Sofia lives with her grandmother, who has dementia and no longer recognises her. To maintain their closeness, she pretends to be someone different every day. When her neighbour – with whom she has been in a casual romantic relationship – invites her to move with him to Germany, Sofia finds herself facing an almost impossible choice.",
+    "industry": "world",
+    "popularity": 1.7432,
+    "original_language": "hr",
+    "origin_country": [
+      "HR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "HR"
+    ],
+    "spoken_languages": [
+      "hr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 18,
+    "providers": []
+  },
+  "1802551": {
+    "id": 1802551,
+    "type": "movie",
+    "title": "Bananafish",
+    "poster_path": "/rJf9Nv9x96r3pP0OQk5LimVpgAv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A trip to the nearby shop takes an unexpected turn for eight-year-old Maks when his grandfather, who has dementia, decides to go looking for a woman he once loved.",
+    "industry": "world",
+    "popularity": 1.8315,
+    "original_language": "hr",
+    "origin_country": [
+      "HR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "HR"
+    ],
+    "spoken_languages": [
+      "hr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": []
+  },
+  "1791437": {
+    "id": 1791437,
+    "type": "movie",
+    "title": "On the Edge",
+    "poster_path": "/Ak2wQqSBZEAV9E6YBP8KMvDy8lu.jpg",
+    "backdrop_path": "/uYcaS0UqubIxMebkt9hFcbSr5KJ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After years of meth-fuelled chemsex, Jay is caught in a relentless cycle of relapse, paranoia, and recovery. With the support of close friends, he begins confronting his addiction through self-awareness and openness. But even as he recognises its devastating cost, the grip of addiction continues to test his mind, his relationships, and his hope of reclaiming a healthy life.",
+    "industry": "world",
+    "popularity": 0.4992,
+    "original_language": "zh",
+    "origin_country": [
+      "TW"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "TW"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 134,
+    "providers": []
+  },
+  "1791123": {
+    "id": 1791123,
+    "type": "movie",
+    "title": "face à face",
+    "poster_path": "/alMjAbIgHTj4sDru4iriIrlOKXV.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.6216,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1786843": {
+    "id": 1786843,
+    "type": "movie",
+    "title": "Let Me Change Your Mind",
+    "poster_path": "/5NcVDcKjA0oHlU4eNoTHhvmJXve.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jane must stop a memory-altering machine from fixing her dying Ah Gong's biggest regret, or else his perfect imagined life will erase Ah Ma completely.",
+    "industry": "world",
+    "popularity": 0.7579,
+    "original_language": "en",
+    "origin_country": [
+      "SG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 3907,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Family",
+      "Drama"
+    ],
+    "tagline": "Give your life a second chance!",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en",
+      "zh"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": []
+  },
+  "1778542": {
+    "id": 1778542,
+    "type": "movie",
+    "title": "Maut",
+    "poster_path": "/kWRROmHCVDnxrabbKONgvzkr798.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Defying his father's wish to pass on the family reindeer-herding business, a young Evenk decides to leave for the city to work—a choice that becomes a personal tragedy for the herder.",
+    "industry": "world",
+    "popularity": 0.9712,
+    "original_language": "ru",
+    "origin_country": [
+      "RU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "RU"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1773971": {
+    "id": 1773971,
+    "type": "movie",
+    "title": "The Lament of Spice Island",
+    "poster_path": "/dryZrJPlSdSGA1VYOJXvfq453i4.jpg",
+    "backdrop_path": "/99uiit4KAOCN66jfzXGWh1fJrD4.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two lifelong friends travel to Spice Island for a carefree summer, only to find that something between them is beginning to change.",
+    "industry": "world",
+    "popularity": 1.0916,
+    "original_language": "en",
+    "origin_country": [
+      "EG",
+      "TZ",
+      "SD"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "tagline": "High tide, low tide. Still together.",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "ar",
+      "en",
+      "sw"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 19,
+    "providers": []
+  },
+  "1772726": {
+    "id": 1772726,
+    "type": "movie",
+    "title": "Confession",
+    "poster_path": "/kPId5qdaCPVOSeZYHaYXFYQmEFy.jpg",
+    "backdrop_path": "/kLs8iYrujY0IhTSag1wkiiAFpKl.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
+    "industry": "world",
+    "popularity": 3.1894,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "ru"
+    ],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 132,
+    "providers": []
+  },
+  "1770812": {
+    "id": 1770812,
+    "type": "movie",
+    "title": "A Vida é Assim",
+    "poster_path": "/o24yCMNPVblIEsWKnbKF689WZJN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A tiny ant crawls diagonally across the still-blank page. But that night, he didn’t write a single word. Why should he? The thrill and mystery of life had already passed through those pages...",
+    "industry": "world",
+    "popularity": 0.6871,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "10",
+    "release_date": "2026-11-11",
+    "date_kind": "festival",
+    "runtime": 104,
+    "providers": []
   }
 };

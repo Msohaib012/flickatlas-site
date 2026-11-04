@@ -33,6 +33,18 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-11-03",
+      "date_kind": "release",
+      "id": 1804941,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-02",
       "date_kind": "digital",
       "id": 1773368,
