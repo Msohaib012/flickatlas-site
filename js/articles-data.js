@@ -54522,5 +54522,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 09:39:44 +0000"
+  },
+  "jc0372": {
+    "id": "jc0372",
+    "type": "news",
+    "headline": "Rajinikanth's Jailer 2 Nears Milestone As Box Office Approaches Week Three Totals",
+    "dek": "The action-packed entertainer starring Rajinikanth continues its theatrical run, closing in on major domestic earnings records.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Run",
+        "p": [
+          "The theatrical journey of Jailer 2 continues to capture attention as the film pushes further into its third week on the big screen. Directed by Nelson Dilipkumar, the movie opened to massive numbers and has maintained a steady presence across multiple regional markets.",
+          "Even though daily earnings have dipped from the record-setting figures seen during the opening week, the project continues to accumulate revenue from ticket sales across the country."
+        ]
+      },
+      {
+        "h": "First and Second Week Performance",
+        "p": [
+          "During its opening week in theatres, the Rajinikanth starrer brought in an impressive Rs 334.35 crore net across domestic screens. This strong beginning laid a solid foundation for the subsequent weeks.",
+          "As the theatrical run progressed into the second week, the feature added another Rs 95.55 crore net to its tally, bringing the two-week domestic net total to an extraordinary Rs 429.90 crore."
+        ]
+      },
+      {
+        "h": "Day 21 Estimates and Current Collections",
+        "p": [
+          "According to live estimates from Sacnilk, the action entertainer added Rs 52 lakh net in India on Day 21 from a total of 2,195 shows. These numbers reflect the gradual slowdown typical of a film's third week.",
+          "The regional breakdown shows the Tamil version leading the day with Rs 32 lakh from 925 shows, followed by the Hindi version generating Rs 11 lakh across 1,041 shows, and the Telugu version collecting Rs 9 lakh from 229 shows."
+        ]
+      },
+      {
+        "h": "Overall Earnings and Milestones",
+        "p": [
+          "With the latest figures included, the overall India net collection for the feature stands at Rs 463.57 crore. Meanwhile, the total domestic gross has reached an estimated Rs 542.26 crore.",
+          "The movie is now closing in on the Rs 464 crore net milestone in India, positioning itself as a dominant force among recent releases."
+        ]
+      },
+      {
+        "h": "Chasing All-Time Records",
+        "p": [
+          "Having already crossed multiple major box-office landmarks, the Nelson Dilipkumar directorial is steadily moving toward becoming the highest-grossing Tamil film of all time.",
+          "Additionally, records such as Vijay's LEO collection of Rs 223 crore in Tamil Nadu remain within reach as the film pushes through its final major theatrical weeks."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "The film features Rajinikanth in the lead role as Tiger Muthuvel Pandian. The star-studded cast also includes Mohanlal, Shivarajkumar, Ramya Krishnan, Vidya Balan, SJ Suryah, Mithun Chakraborty, Jackie Shroff, and Yogi Babu among others.",
+          "Music for the action entertainer is composed by Anirudh Ravichander, while the project is backed by production powerhouse Sun Pictures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 continues its box office run in its third week, reaching a total domestic net collection of Rs 463.57 crore. The film is currently closing in on all-time records for a Tamil film as it nears the Rs 464 crore net milestone in India."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected Rs 334.35 crore net in its first week.",
+      "The second week added Rs 95.55 crore net.",
+      "Total domestic net collection stands at Rs 463.57 crore.",
+      "Total India gross has reached Rs 542.26 crore.",
+      "Day 21 collection is Rs 0.52 crore.",
+      "Vijay's LEO previously set a record of Rs 223 crore in Tamil Nadu."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Vijay",
+        "Mohanlal",
+        "Shivarajkumar",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Jackie Shroff",
+        "Yogi Babu",
+        "Anirudh Ravichander"
+      ],
+      "titles": [
+        "Jailer 2",
+        "LEO"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 day 21 collection",
+      "Nelson Dilipkumar film earnings"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135531471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rajinikanth's Jailer 2 Nears Milestone As Box Office Approaches Week Three Totals",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T14:36:43+05:30"
+  },
+  "1fxl4ax": {
+    "id": "1fxl4ax",
+    "type": "news",
+    "headline": "Milcho Manchevski’s 'Sister Brother Manhole Cover' Claims Top Honor at Tokyo Film Festival",
+    "dek": "The 39th Tokyo International Film Festival concluded its run with Milcho Manchevski taking home the Tokyo Grand Prix for his comic allegory, alongside top wins for Lisandro Alonso, Sun Xun, and other international filmmakers.",
+    "body": [
+      {
+        "h": "Tokyo Grand Prix Goes to Manchevski's Allegory",
+        "p": [
+          "The 39th Tokyo International Film Festival wrapped up its schedule on a high note at Hulic Hall, weathering a steady drizzle outside to celebrate the year's top cinematic achievements. Milcho Manchevski earned the prestigious Tokyo Grand Prix for his film 'Sister Brother Manhole Cover', a comic allegory following two siblings who collect scrap metal from the streets of Skopje.",
+          "Jury president Rolf de Heer praised the winning entry for displaying deep humanity and compassion toward its characters, highlighting its balance of playfulness and complexity. The victory brings a cash prize of JPY3 million, roughly equivalent to $19,000, for the production."
+        ]
+      },
+      {
+        "h": "Unusual Premise and International Collaboration",
+        "p": [
+          "The winning narrative centers on Viktor and Malina, who make their living by stealing copper busts and manhole covers from public spaces. A sudden accident involving a heavy bronze bust sends the pair tumbling into the depths of the North Macedonian capital, setting off the main events of the story.",
+          "This project marks Manchevski's first fiction feature since his previous work 'Kaymak'. It was brought to life as an extensive international co-production involving entities from North Macedonia, Bulgaria, Serbia, Albania, Italy, and the United Kingdom."
+        ]
+      },
+      {
+        "h": "Directing and Acting Honors Awarded",
+        "p": [
+          "Beyond the grand prize, several other directors and performers were recognized for their standout contributions to world cinema. Lisandro Alonso claimed the best director prize for 'Double Freedom', a feature presenting the unraveling life of a solitary forest woodcutter forced to take in his sister.",
+          "In the acting categories, Hu Ling earned the best actress accolade for her portrayal of a grieving Shanghai dormitory manager in Wang Jiangyong's feature 'The Night That Binds Us'. Meanwhile, Narita Ryo captured the best actor trophy for his performance in Mishima Yukiko's 'Two Cigarettes, Three Nights'."
+        ]
+      },
+      {
+        "h": "Special Jury Prize and Animated Craftsmanship",
+        "p": [
+          "The Special Jury Prize, backed by JPY500,000 or about $3,200, went to Sun Xun's animated feature 'Magic Atlas'. The artist spent roughly a decade bringing the Singaporean project to fruition, depicting an orphan who inherits a magical book to reclaim memories buried by an authoritarian regime.",
+          "Juror Oh Jungwan specifically commended the extraordinary craftsmanship visible in the animation, which transitions dynamically between traditional ink-wash paintings and medieval European engravings."
+        ]
+      },
+      {
+        "h": "Additional Category Winners and Special Awards",
+        "p": [
+          "Jelena Maksimović secured the best artistic contribution award for her directorial debut 'Until the Day Ends', which follows two young individuals taking a road trip during the 2024 protests in Serbia. Meanwhile, the audience award went to Teodora Ana Mihai for 'Heysel 85', a cinematic recreation of the tragic 1985 Brussels stadium disaster.",
+          "Special accolades were also distributed across regional and thematic sections. The Kurosawa Akira Award honored O Mipo and Mohammad Rasoulof, while Academy CEO Bill Kramer received the Global Cinema Leadership Special Award."
+        ]
+      },
+      {
+        "h": "Closing Out with a Thrilling Finale",
+        "p": [
+          "The festival officially closed with the screening of Yeon Sang-ho's South Korean zombie thriller 'Colony', which is set inside a high-rise building sealed off after a dangerous bioterror attack. The screening featured appearances by the director alongside star Koo Kyo-hwan and producer Yang Yoomin.",
+          "Festival director Hisamatsu Takeo used his closing remarks to look ahead to the milestone 40th edition of the event next year. The ceremony itself adhered strictly to a precise schedule, concluding right on time inside the venue."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Milcho Manchevski's 'Sister Brother Manhole Cover' won the Tokyo Grand Prix at the 39th Tokyo International Film Festival. The event also celebrated wins for directors and actors across multiple competitive categories before closing with a screening of 'Colony'."
+        ]
+      }
+    ],
+    "facts": [
+      "Milcho Manchevski directed 'Sister Brother Manhole Cover'.",
+      "The 39th Tokyo International Film Festival took place on Wednesday.",
+      "The Tokyo Grand Prix carries a prize of JPY3 million.",
+      "Lisandro Alonso won best director for 'Double Freedom'.",
+      "Hu Ling won best actress for 'The Night That Binds Us'.",
+      "Narita Ryo won best actor for 'Two Cigarettes, Three Nights'."
+    ],
+    "entities": {
+      "people": [
+        "Milcho Manchevski",
+        "Lisandro Alonso",
+        "Hu Ling",
+        "Narita Ryo",
+        "Sun Xun",
+        "Rolf de Heer"
+      ],
+      "titles": [
+        "Sister Brother Manhole Cover",
+        "Double Freedom",
+        "Magic Atlas",
+        "The Night That Binds Us",
+        "Two Cigarettes, Three Nights",
+        "Until the Day Ends",
+        "Heysel 85",
+        "Colony",
+        "Kaymak",
+        "La Libertad"
+      ]
+    },
+    "keywords": [
+      "Sister Brother Manhole Cover film",
+      "Tokyo International Film Festival winners",
+      "Milcho Manchevski Tokyo Grand Prix",
+      "Lisandro Alonso Double Freedom"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/Sister-Brother-Manhole-Cover1.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Milcho Manchevski’s 'Sister Brother Manhole Cover' Claims Top Honor at Tokyo Film Festival",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 09:48:37 +0000"
+  },
+  "1y9a6zq": {
+    "id": "1y9a6zq",
+    "type": "news",
+    "headline": "Ayushmann Khurrana Targeted With Extortion Audio Clip Demanding Crores",
+    "dek": "Popular Bollywood actor Ayushmann Khurrana has reportedly become the latest target of extortion, receiving an audio recording demanding a massive monetary payout amidst escalating security concerns within the film industry.",
+    "body": [
+      {
+        "h": "The Extortion Threat",
+        "p": [
+          "Bollywood actor Ayushmann Khurrana has found himself at the center of a security scare after reportedly receiving an ominous audio message containing heavy financial demands. The sender of the clip allegedly insisted on a payment amounting to several crores of rupees, turning the spotlight once again onto the safety of prominent figures working in the Indian entertainment business.",
+          "According to initial reports emerging from media outlets like Aaj Tak, the individual responsible for transmitting the threatening file claimed an affiliation with the Lawrence Bishnoi gang. This alarming assertion immediately caught the attention of law enforcement agencies, prompting an active inquiry into the origins of the communication and the credibility of the gang affiliation claim."
+        ]
+      },
+      {
+        "h": "Police Investigation Underway",
+        "p": [
+          "Law enforcement officials have launched a detailed technical analysis of the audio message to unmask the perpetrator behind the threat. Investigators are closely examining the digital footprint of the clip and comparing the speaker's vocal characteristics against existing voice samples stored in police databases.",
+          "By cross-referencing these acoustic profiles, authorities hope to determine whether the voice belongs to a known criminal or someone attempting a fraudulent shakedown. Meanwhile, the actor targeted in the incident has maintained a quiet stance, offering no public statements or official reactions regarding the ongoing police probe."
+        ]
+      },
+      {
+        "h": "A Growing Pattern of Intimidation",
+        "p": [
+          "This distressing development does not stand in isolation, arriving instead during a wave of similar threats directed at various personalities across the cinematic landscape. Security protocols have grown increasingly stringent following multiple incidents targeting high-profile actors and crew members.",
+          "Earlier cases include fellow actor Tusshar Kapoor receiving a threatening voice note attributed to an individual using the moniker 'Harry Boxer'. However, preliminary inquiries into that particular episode pointed strongly toward the possibility of the message being nothing more than a crude hoax."
+        ]
+      },
+      {
+        "h": "Wider Industry Security Concerns",
+        "p": [
+          "The urgency surrounding these investigations has intensified notably in the wake of more violent episodes, such as gunfire directed near actor Tiger Shroff. Such brazen acts have forced local authorities to elevate their vigilance and dedicate more resources to tracking down syndicates sending extortion warnings.",
+          "Police departments are currently working to ascertain whether these disparate threats share a common mastermind or represent disconnected opportunistic acts. Unraveling these networks remains a top priority to restore peace of mind to members of the film fraternity."
+        ]
+      },
+      {
+        "h": "Professional Background of the Actor",
+        "p": [
+          "Away from these troubling headlines, the actor has remained busy with his cinematic commitments, most notably starring in the espionage comedy Udta Teer. In that feature, he shared screen space with co-star Sara Ali Khan within a narrative structured around an accidental spy navigating a web of secrets.",
+          "The film brought together notable production banners like Dharma Productions and Sikhya Entertainment, backed by producers such as Karan Johar, Adar Poonawalla, Apoorva Mehta, Guneet Monga Kapoor, and Achin Jain, with writing and directorial duties handled by Akash A Kaushik."
+        ]
+      },
+      {
+        "h": "Recent Film Credits and Collaborations",
+        "p": [
+          "The espionage comedy featured a diverse ensemble cast supporting the main leads, including Raghubir Yadav, Brijendra Kala, Gulshan Grover, Suhail Nayyar, Rahul Bose, Mukul Dev, Ram Kapoor, and Supriya Pilgaonkar. The project blended elements of action, humor, and family-friendly drama.",
+          "In addition to his theatrical releases, the actor's professional footprint extends into musical ventures, highlighted by collaborations with filmmaker Sooraj Barjatya and co-star Sharvari on the monsoon romance track 'Saawan Aaya Hai' from Yeh Prem Mol Liya."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ayushmann Khurrana has reportedly received an extortion audio message demanding crores of rupees with an alleged gang affiliation, prompting a police investigation. This incident mirrors other recent threats reported by various members of the entertainment industry as authorities work to determine the authenticity of these warnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Ayushmann Khurrana reportedly received a threatening audio message demanding crores.",
+      "The sender of the audio clip allegedly claimed association with the Lawrence Bishnoi gang.",
+      "Actor Tusshar Kapoor previously received a threatening audio message from an individual identified as Harry Boxer, which was investigated as a possible hoax.",
+      "Ayushmann Khurrana starred in Udta Teer alongside Sara Ali Khan.",
+      "Udta Teer was written and directed by Akash A Kaushik and produced by Karan Johar, Adar Poonawalla, Apoorva Mehta, Guneet Monga Kapoor, and Achin Jain."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Lawrence Bishnoi",
+        "Tusshar Kapoor",
+        "Harry Boxer",
+        "Tiger Shroff",
+        "Sara Ali Khan",
+        "Karan Johar",
+        "Adar Poonawalla",
+        "Apoorva Mehta",
+        "Guneet Monga Kapoor",
+        "Achin Jain",
+        "Akash A Kaushik",
+        "Raghubir Yadav",
+        "Brijendra Kala",
+        "Gulshan Grover",
+        "Suhail Nayyar",
+        "Rahul Bose",
+        "Mukul Dev",
+        "Ram Kapoor",
+        "Supriya Pilgaonkar",
+        "Sooraj Barjatya",
+        "Sharvari"
+      ],
+      "titles": [
+        "Udta Teer",
+        "Saawan Aaya Hai",
+        "Yeh Prem Mol Liya"
+      ]
+    },
+    "keywords": [
+      "Ayushmann Khurrana",
+      "Udta Teer",
+      "Lawrence Bishnoi gang",
+      "Tusshar Kapoor",
+      "Bollywood threat report"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-2.26.54-PM.jpeg",
+        "caption": "Ayushmann Khurrana Targeted With Extortion Audio Clip Demanding Crores",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 14:44:00 +0200"
+  },
+  "6pu0nq": {
+    "id": "6pu0nq",
+    "type": "news",
+    "headline": "Inside Sunny Deol's Luxurious Properties and Grand Lifestyle",
+    "dek": "Take a closer look at the lavish Malabar Hill bungalow and global real estate holdings of actor Sunny Deol as he portrays Hanuman in the latest cinematic adaptation of Ramayan.",
+    "body": [
+      {
+        "h": "Introduction to the Grand Stardom",
+        "p": [
+          "The theatrical release of the highly anticipated film Ramayan has brought immense excitement to audiences across the nation. Directed by Nitesh Malhotra, the project features a star-studded cast bringing legendary characters to life on the silver screen.",
+          "Among the prominent members of the cast is acclaimed actor Sunny Deol, who takes on the revered role of Lord Hanuman. His powerful casting in this epic has generated significant buzz among his loyal fanbase."
+        ]
+      },
+      {
+        "h": "The Malabar Hill Residence",
+        "p": [
+          "Away from the cinematic spotlight, Sunny Deol maintains a lifestyle of exceptional luxury and comfort. His primary residence is a magnificent bungalow situated in the elite Malabar Hill area of Mumbai.",
+          "The property is thoughtfully designed to blend modern elegance with high-end comforts. Every corner of the home reflects a deep attention to detail in its interior design and layout."
+        ]
+      },
+      {
+        "h": "Architectural Highlights and Glasswork",
+        "p": [
+          "One of the most striking visual features of the actor's Mumbai mansion is its specialized exterior architecture. The bungalow is fitted with premium, colorful glass panels that create a unique visual effect.",
+          "When sunlight strikes these vibrant panes, they cast a stunning rainbow-like illumination across the structure, adding a touch of distinct artistic flair to the luxury dwelling."
+        ]
+      },
+      {
+        "h": "Outdoor Amenities and Scenic Views",
+        "p": [
+          "The estate boasts remarkable outdoor spaces designed for relaxation and leisure. A pristine swimming pool is located right outside the house, offering occupants a refreshing atmosphere reminiscent of coastal views.",
+          "In addition to the pool, the property features a meticulously landscaped garden area that enhances the natural beauty and tranquility of the residence."
+        ]
+      },
+      {
+        "h": "Interior Comfort and Entertainment",
+        "p": [
+          "Inside the massive bungalow, the furnishings are exceptionally plush and sophisticated. The living spaces feature deeply comfortable luxury sofas designed for maximum relaxation after long shooting schedules.",
+          "Furthermore, the residence is equipped with private entertainment facilities, including a dedicated personal theater for screenings and leisure."
+        ]
+      },
+      {
+        "h": "Helipad and Global Properties",
+        "p": [
+          "Demonstrating an extraordinary level of opulence, the rooftop of the Mumbai bungalow features a functional helipad. Such high-end amenities underline the grand scale of the actor's daily life.",
+          "Beyond his primary base in Mumbai, the performer owns scenic properties in other domestic locations such as Manali and Lonavala. He also holds real estate internationally in the United Kingdom, where he frequently stays to unwind during breaks from his professional commitments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sunny Deol stars as Lord Hanuman in the recently released film Ramayan directed by Nitesh Malhotra. Off-screen, the actor enjoys an opulent lifestyle centered around his lavish Malabar Hill bungalow, which features custom glasswork, a private theater, and a rooftop helipad, alongside additional properties in Manali, Lonavala, and the United Kingdom."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayan was released in theaters on Wednesday, November 4, 2026.",
+      "Nitesh Malhotra directed the film Ramayan.",
+      "Sunny Deol plays Hanuman in the movie Ramayan.",
+      "Sunny Deol owns a lavish bungalow in Malabar Hill, Mumbai.",
+      "Sunny Deol owns properties in Manali, Lonavala, and the United Kingdom."
+    ],
+    "entities": {
+      "people": [
+        "Sunny Deol",
+        "Nitesh Malhotra",
+        "Ranbir Kapoor",
+        "Ravi Dubey",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayan"
+      ]
+    },
+    "keywords": [
+      "Sunny Deol Ramayan",
+      "Sunny Deol Hanuman",
+      "Sunny Deol Malabar Hill bungalow",
+      "Ramayan Nitesh Malhotra"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6aeaa16eea734-sunny-deol-home-040725735-16x9.jpg",
+        "caption": "Inside Sunny Deol's Luxurious Properties and Grand Lifestyle",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T10:51:34Z"
   }
 };
