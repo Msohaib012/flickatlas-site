@@ -86,6 +86,120 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 19:57:49 GMT"
   },
+  "1qrkxws": {
+    "id": "1qrkxws",
+    "type": "news",
+    "headline": "God of War Laufey PS5 Release Date Pushed Back to May 2027",
+    "dek": "Santa Monica Studio has delayed the upcoming PlayStation 5 exclusive God of War Laufey, shifting its launch from February to May 2027 to ensure the highest quality.",
+    "entities": {
+      "people": [
+        "Mintu Kumar Tomar",
+        "Ariel Lawrence",
+        "Deborah Ann Woll",
+        "Jack Quaid",
+        "Perlina Lau",
+        "Kratos",
+        "Atreus",
+        "Faye"
+      ],
+      "titles": [
+        "God of War",
+        "God of War Laufey",
+        "God of War Ragnarök"
+      ]
+    },
+    "keywords": [
+      "God of War Laufey",
+      "Santa Monica Studio",
+      "God of War PS5 release date",
+      "Deborah Ann Woll God of War"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/god-of-war.jpg?resize=1200,630",
+        "caption": "God of War Laufey PS5 Release Date Pushed Back to May 2027",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:25:01 +0000"
+  },
+  "qokfk0": {
+    "id": "qokfk0",
+    "type": "news",
+    "headline": "Scorpions Biopic 'Wind of Change' Sets Theatrical Release Dates in Germany and North America",
+    "dek": "The feature film chronicling the legendary German rock band Scorpions has officially secured its theatrical release schedules across Europe and North America.",
+    "entities": {
+      "people": [
+        "Anthony D'Alessandro",
+        "Will Ropp",
+        "Ali Afshar",
+        "Mikhail Gorbachev",
+        "Alex Ranarivelo",
+        "Mark Andrews",
+        "Alexander Dreymon",
+        "Ludwig Trepte",
+        "Ed Speleers",
+        "Luke Brandon Field",
+        "Dominic West",
+        "David Kross",
+        "Prentiss Fraser",
+        "Howard Cohen",
+        "Eric d'Arbeloff",
+        "Christina Moore",
+        "Daniel Aspromonte",
+        "Fernando Szew",
+        "Hannah Pillemer",
+        "Ani Kevork",
+        "Larry Grimaldi",
+        "Maya Hawke",
+        "Whitney Leavitt",
+        "Jean-Claude Van Damme",
+        "Jeremy Zag",
+        "Abdul El-Sayed",
+        "Gillian Anderson",
+        "Rebecca Hall",
+        "Orlando von Einsiedel",
+        "Prince Harry",
+        "Meghan Markle",
+        "Matthew Wright",
+        "Tom Hiddleston"
+      ],
+      "titles": [
+        "Wind of Change",
+        "Brian",
+        "La Bola Negra",
+        "Michael",
+        "Bohemian Rhapsody",
+        "The Last Kingdom",
+        "Generation War",
+        "You",
+        "Magic: The Gathering",
+        "The Secret Lives Of Mormon Wives",
+        "Katana",
+        "The Portrait",
+        "A Speck In The Sea",
+        "Red, White Royal Blue",
+        "Much Ado About Nothing",
+        "A Few Good Men",
+        "Other Desert Cities",
+        "Hamilton"
+      ]
+    },
+    "keywords": [
+      "Wind of Change film",
+      "Scorpions biopic",
+      "Alexander Dreymon Rudolf Schenker",
+      "Fox Entertainment ESX Entertainment"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/WIND-OF-CHANGE-.jpg?w=1024",
+        "caption": "Scorpions Biopic 'Wind of Change' Sets Theatrical Release Dates in Germany and North America",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:17:17 +0000"
+  },
   "1ojqw2z": {
     "id": "1ojqw2z",
     "type": "news",
@@ -1859,6 +1973,50 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 09:22:01 +0000"
   },
+  "8u09sx": {
+    "id": "8u09sx",
+    "type": "news",
+    "headline": "Mohanlal Begins Filming for Anoop Sathyan Project as Set Video Emerges",
+    "dek": "Malayalam superstar Mohanlal has officially started shooting for director Anoop Sathyan's upcoming film, temporarily titled L368, with a behind-the-scenes video giving fans a first look from the production set.",
+    "entities": {
+      "people": [
+        "Mohanlal",
+        "Anoop Sathyan",
+        "Antony Perumbavoor",
+        "Bibin George Alexander",
+        "Sathyan Anthikad",
+        "Suresh Gopi",
+        "Shobana",
+        "Dulquer Salmaan",
+        "Kalyani Priyadarshan",
+        "Rajinikanth",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "L368",
+        "Varane Aavashyamundu",
+        "Nadodikattu",
+        "Gandhinagar 2nd Street",
+        "Pattanapravesham",
+        "Jailer 2",
+        "Athimanoharam"
+      ]
+    },
+    "keywords": [
+      "Mohanlal Anoop Sathyan",
+      "L368 movie",
+      "Mohanlal shooting Thodupuzha",
+      "Varane Aavashyamundu director"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/mohanlalbeginsshootingforanoopsathyansnextvideofromsetssurfacesonlinesoooo1793782951.jpg",
+        "caption": "Mohanlal Begins Filming for Anoop Sathyan Project as Set Video Emerges",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T14:50:42+05:30"
+  },
   "njnqmd": {
     "id": "njnqmd",
     "type": "news",
@@ -1925,6 +2083,66 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-04T14:36:43+05:30"
+  },
+  "gi6ubd": {
+    "id": "gi6ubd",
+    "type": "news",
+    "headline": "Sreeleela Boards Rajinikanth Starrer Dharman In Maiden Collaboration With Superstar",
+    "dek": "Actor Sreeleela has officially joined the cast of Rajinikanth's upcoming film Dharman, directed by Ashwath Marimuthu and backed by Kamal Haasan's Raaj Kamal Films International.",
+    "entities": {
+      "people": [
+        "Sreeleela",
+        "Rajinikanth",
+        "Ashwath Marimuthu",
+        "Simran",
+        "Nayanthara",
+        "Yogi Babu",
+        "Raashii Khanna",
+        "Kamal Haasan",
+        "Sivakarthikeyan",
+        "Dhanush",
+        "Mammootty",
+        "Ajith Kumar",
+        "Adhik Ravichandran",
+        "Pradeep Ranganathan",
+        "J Mahendran",
+        "R Mahendran",
+        "Anirudh Ravichander",
+        "Niketh Bommi",
+        "Pradeep E Ragav",
+        "Karthik Rajkumar"
+      ],
+      "titles": [
+        "Dharman",
+        "Parasakthi",
+        "Om",
+        "Daredevil",
+        "Good Bad Ugly",
+        "Oh My Kadavule",
+        "Dragon",
+        "Mullum Malarum",
+        "Petta",
+        "Darbar",
+        "Jailer",
+        "Vettaiyan",
+        "Coolie",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Sreeleela Dharman",
+      "Rajinikanth Dharman",
+      "Ashwath Marimuthu film",
+      "Raaj Kamal Films International Dharman"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/sreeleelajoinsrajinikanthsdharmanmarksfirstcollaborationwithsuperstarsooo1793781302.jpg",
+        "caption": "Sreeleela Boards Rajinikanth Starrer Dharman In Maiden Collaboration With Superstar",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T14:22:01+05:30"
   },
   "5ojxhn": {
     "id": "5ojxhn",
@@ -4648,191 +4866,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 22:28:48 +0530"
-  },
-  "a30zya": {
-    "id": "a30zya",
-    "type": "news",
-    "headline": "Kelly Clarkson Reflects on Her Incredible Talk Show Run After Major Daytime Emmy Haul",
-    "dek": "Following the conclusion of her eponymous daytime series earlier this year, the musician and host celebrated a massive five-win sweep at the Daytime Emmy Awards.",
-    "entities": {
-      "people": [
-        "Kelly Clarkson",
-        "Brandon Blackstock",
-        "River",
-        "Remington",
-        "Adam Levine",
-        "Queen Latifah",
-        "Riley Green"
-      ],
-      "titles": [
-        "The Kelly Clarkson Show",
-        "The Voice",
-        "American Idol"
-      ]
-    },
-    "keywords": [
-      "Kelly Clarkson",
-      "The Kelly Clarkson Show",
-      "Daytime Emmy Awards",
-      "The Voice"
-    ],
-    "images": [
-      {
-        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147410148.jpg?quality=75&amp;strip=all&amp;w=1024",
-        "caption": "Kelly Clarkson Reflects on Her Incredible Talk Show Run After Major Daytime Emmy Haul",
-        "source": "Page Six"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 11:36:39 -0500"
-  },
-  "10n0cln": {
-    "id": "10n0cln",
-    "type": "news",
-    "headline": "Nicolas Cage Says He Is Homeless After Massive Sinkhole Damages Malibu Mansion",
-    "dek": "Hollywood star Nicolas Cage revealed he is temporarily living in hotels following a massive sinkhole that damaged his multimillion-dollar Malibu property.",
-    "entities": {
-      "people": [
-        "Nicolas Cage",
-        "August",
-        "Riko Shibata",
-        "Alice Kim",
-        "Christina Fulton",
-        "Stanley Kubrick"
-      ],
-      "titles": [
-        "The Shining"
-      ]
-    },
-    "keywords": [
-      "Nicolas Cage Malibu mansion",
-      "Nicolas Cage sinkhole",
-      "Nicolas Cage homeless hotels",
-      "Nicolas Cage daughter August"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135506602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Nicolas Cage Says He Is Homeless After Massive Sinkhole Damages Malibu Mansion",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T22:01:44+05:30"
-  },
-  "19nd32c": {
-    "id": "19nd32c",
-    "type": "news",
-    "headline": "Jonathan Rhys Meyers Set to Star in Vampire Romance 'Pretty Kill Machine'",
-    "dek": "The acclaimed actor is returning to the vampire genre, joining the upcoming feature project directed by Matthew Wilder.",
-    "entities": {
-      "people": [
-        "Jonathan Rhys Meyers",
-        "Matthew Wilder",
-        "David Hillary",
-        "Yariv Lerner",
-        "Anthony Burns",
-        "Chelsea Frei",
-        "Maria Bakalova",
-        "Jon Rudnitsky",
-        "Casey Cott",
-        "James Franco",
-        "Hiam Abbass",
-        "Jason Statham",
-        "Guy Ritchie",
-        "Orlando von Einsiedel",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Josh Hartnett",
-        "Emma Thompson",
-        "Sally Hawkins",
-        "Danny Huston",
-        "Robert Aramayo",
-        "Chloe Pirrie",
-        "Elle Fanning",
-        "Julianne Moore",
-        "Rebecca Miller",
-        "David Walliams",
-        "Josh Holloway",
-        "Zoe Kazan",
-        "Brenton Thwaites",
-        "Erin Moriarty",
-        "Nicolas Cage",
-        "Destin Daniel Cretton",
-        "Aizzah Fatima"
-      ],
-      "titles": [
-        "Pretty Kill Machine",
-        "Skateland",
-        "Get Off Your Phone",
-        "Games We Play",
-        "Riverdale",
-        "Bill Ted Face the Music",
-        "The Expendables",
-        "Something's In There",
-        "Daughter Of Eden",
-        "Your Name Here",
-        "The Tudors",
-        "Vikings",
-        "Dogfight",
-        "Elsinore",
-        "A Speck In The Sea",
-        "Moonsong: A Life In Seven Verses",
-        "Tracker",
-        "East Of Eden",
-        "Adolescence",
-        "C.L.A.Y.",
-        "Naruto",
-        "Americanish",
-        "Miss Christian Babe"
-      ]
-    },
-    "keywords": [
-      "Jonathan Rhys Meyers Pretty Kill Machine",
-      "Matthew Wilder Pretty Kill Machine",
-      "Pretty Kill Machine vampire movie",
-      "Quantify AFM Pretty Kill Machine"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Jonathan-Rhys-Meyers-e1793723166570.jpg?w=683",
-        "caption": "Jonathan Rhys Meyers Set to Star in Vampire Romance 'Pretty Kill Machine'",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 16:26:45 +0000"
-  },
-  "th4j5b": {
-    "id": "th4j5b",
-    "type": "news",
-    "headline": "Kaali Kheti Teaser Unveils Rural Horror Featuring Jackie Shroff and Sharad Kelkar",
-    "dek": "The first preview for the upcoming horror thriller Kaali Kheti has arrived, highlighting a mysterious rural community bound to unsettling agricultural practices.",
-    "entities": {
-      "people": [
-        "Jackie Shroff",
-        "Sharad Kelkar",
-        "Haris Imtiyaz Khan",
-        "Sana Khan",
-        "Neha Sargam",
-        "Virendra Saxena",
-        "Shaji Choudhary"
-      ],
-      "titles": [
-        "Kaali Kheti"
-      ]
-    },
-    "keywords": [
-      "Kaali Kheti teaser",
-      "Jackie Shroff Kaali Kheti",
-      "Sharad Kelkar horror film",
-      "Haris Imtiyaz Khan movie"
-    ],
-    "images": [
-      {
-        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Kaali-Kheti-teaser-out.jpeg",
-        "caption": "Kaali Kheti Teaser Unveils Rural Horror Featuring Jackie Shroff and Sharad Kelkar",
-        "source": "Bollywood Hungama"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 18:09:12 +0200"
   },
   "1dtlu8x": {
     "id": "1dtlu8x",

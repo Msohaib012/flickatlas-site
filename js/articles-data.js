@@ -58844,5 +58844,478 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-04T15:06:14+05:30"
+  },
+  "8u09sx": {
+    "id": "8u09sx",
+    "type": "news",
+    "headline": "Mohanlal Begins Filming for Anoop Sathyan Project as Set Video Emerges",
+    "dek": "Malayalam superstar Mohanlal has officially started shooting for director Anoop Sathyan's upcoming film, temporarily titled L368, with a behind-the-scenes video giving fans a first look from the production set.",
+    "body": [
+      {
+        "h": "Production Kickoff and Set Video",
+        "p": [
+          "Malayalam cinema icon Mohanlal has commenced shooting for director Anoop Sathyan's upcoming movie, temporarily titled L368. A behind-the-scenes video from the sets has recently circulated online, generating excitement among fans.",
+          "The newly surfaced footage features the veteran actor arriving at the location dressed in a simple shirt and dhoti. Producer Antony Perumbavoor was present to welcome him warmly to the set."
+        ]
+      },
+      {
+        "h": "Schedule Details and Locations",
+        "p": [
+          "The upcoming project recently launched its production phase with a traditional pooja ceremony held in Kochi last week. Following the launch, the production team shifted locations to Thodupuzha for the ongoing schedule.",
+          "The behind-the-scenes clip also captures director Anoop Sathyan actively coordinating the shoot and giving instructions to the film crew. Mohanlal is seen interacting with the team and discussing operational aspects before wrapping up for the day."
+        ]
+      },
+      {
+        "h": "Childhood Admiration and Family Background",
+        "p": [
+          "The collaboration between Mohanlal and Anoop Sathyan stems from a deeply personal place for the filmmaker. During the film's pooja ceremony, Anoop shared that he has been an ardent admirer of the superstar since his childhood.",
+          "Anoop's father, veteran filmmaker Sathyan Anthikad, shared an amusing childhood anecdote about his son's devotion. He recalled a period when he could not work with Mohanlal for ten to twelve years, noting that Anoop would get upset and once even threatened to walk away to Mohanlal's house."
+        ]
+      },
+      {
+        "h": "Director's Background and Debut",
+        "p": [
+          "Anoop Sathyan made his directorial debut in 2020 with the acclaimed film Varane Aavashyamundu. That movie featured a multi-generational ensemble cast including Suresh Gopi, Shobana, Dulquer Salmaan, and Kalyani Priyadarshan.",
+          "Directing Mohanlal marks a major milestone for the filmmaker, given his lifelong admiration for the actor. Specific details regarding the plot, genre, and supporting cast of L368 are currently kept under wraps."
+        ]
+      },
+      {
+        "h": "Legacy of Sathyan Anthikad Collaborations",
+        "p": [
+          "Anoop Sathyan's father, Sathyan Anthikad, shares a legendary creative history with Mohanlal. Their past partnerships produced numerous classic Malayalam entertainers defined by humor and relatable characters.",
+          "Some of the most memorable collaborations between Mohanlal and Sathyan Anthikad include Nadodikattu, Gandhinagar 2nd Street, and Pattanapravesham. These titles remain pillars of Malayalam cinema."
+        ]
+      },
+      {
+        "h": "Mohanlal's Busy Slate of Projects",
+        "p": [
+          "Mohanlal maintains a packed schedule with several high-profile films and appearances. He recently made a brief cameo appearance in Rajinikanth's Jailer 2.",
+          "In addition to his ongoing work on L368, the actor is preparing for the theatrical release of Athimanoharam next month. Meanwhile, another previously discussed project with Jithu Madhavan was recently dropped due to scheduling issues."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Malayalam superstar Mohanlal has started filming for Anoop Sathyan's upcoming directorial project, temporarily titled L368, following a pooja ceremony in Kochi and a move to Thodupuzha. A behind-the-scenes video has surfaced online, capturing the actor arriving on set and being greeted by producer Antony Perumbavoor."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohanlal commenced shooting for Anoop Sathyan's upcoming directorial venture tentatively titled L368.",
+      "A behind-the-scenes video from the sets surfaced online on November 4, 2026.",
+      "Producer Antony Perumbavoor welcomed Mohanlal as the film's shoot got underway in Thodupuzha.",
+      "A pooja ceremony for L368 was held in Kochi the week prior to the Thodupuzha schedule.",
+      "The film is produced by Bibin George Alexander and Antony Perumbavoor.",
+      "Anoop Sathyan previously made his directorial debut with the 2020 film Varane Aavashyamundu.",
+      "Varane Aavashyamundu starred Suresh Gopi, Shobana, Dulquer Salmaan, and Kalyani Priyadarshan.",
+      "Mohanlal recently made a brief cameo appearance in Rajinikanth's Jailer 2.",
+      "Athimanoharam is gearing up for its theatrical release next month."
+    ],
+    "entities": {
+      "people": [
+        "Mohanlal",
+        "Anoop Sathyan",
+        "Antony Perumbavoor",
+        "Bibin George Alexander",
+        "Sathyan Anthikad",
+        "Suresh Gopi",
+        "Shobana",
+        "Dulquer Salmaan",
+        "Kalyani Priyadarshan",
+        "Rajinikanth",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "L368",
+        "Varane Aavashyamundu",
+        "Nadodikattu",
+        "Gandhinagar 2nd Street",
+        "Pattanapravesham",
+        "Jailer 2",
+        "Athimanoharam"
+      ]
+    },
+    "keywords": [
+      "Mohanlal Anoop Sathyan",
+      "L368 movie",
+      "Mohanlal shooting Thodupuzha",
+      "Varane Aavashyamundu director"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/mohanlalbeginsshootingforanoopsathyansnextvideofromsetssurfacesonlinesoooo1793782951.jpg",
+        "caption": "Mohanlal Begins Filming for Anoop Sathyan Project as Set Video Emerges",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T14:50:42+05:30"
+  },
+  "qokfk0": {
+    "id": "qokfk0",
+    "type": "news",
+    "headline": "Scorpions Biopic 'Wind of Change' Sets Theatrical Release Dates in Germany and North America",
+    "dek": "The feature film chronicling the legendary German rock band Scorpions has officially secured its theatrical release schedules across Europe and North America.",
+    "body": [
+      {
+        "h": "Theatrical Distribution Plans",
+        "p": [
+          "The upcoming feature film Wind of Change, centered around the iconic German rock band Scorpions, has officially locked in its theatrical distribution paths. Fox Entertainment Studios and Ali Afshar's ESX Entertainment are bringing the project to audiences, with Roadside Attractions handling the North American theatrical rollout scheduled for March.",
+          "Before the film arrives in North American cinemas, it will first premiere in the band's home country. Warner Bros. Germany is set to distribute the picture across German theatres in January, giving local fans the very first look at the biographical drama."
+        ]
+      },
+      {
+        "h": "Tracing Roots and Historical Impact",
+        "p": [
+          "The narrative arc of the movie follows the group's journey beginning from its formation roots in 1965 through its eventual climb to international superstardom. A central theme of the project focuses on how the musicians managed to bridge the cultural divide between East and West, bringing rock and roll music behind the Iron Curtain.",
+          "The title itself is directly inspired by the band's massive 1991 power ballad, which emerged as a defining musical anthem signalling the end of the Cold War. The track served as a powerful symbol of hope, peace, and unity following a turbulent period that included a failed coup attempt against Soviet President Mikhail Gorbachev by Communist Party hardliners."
+        ]
+      },
+      {
+        "h": "Global Success and Iconic Soundtrack",
+        "p": [
+          "Upon its original release, the title single achieved staggering worldwide success, topping international music charts and accumulating global sales of 14 million copies. The film's musical backdrop will also feature several of the group's other enduring classics, including 'Rock You Like a Hurricane' and 'Still Loving You'.",
+          "Over their decades-long career, the Scorpions have successfully sold more than 110 million albums worldwide, solidifying their reputation as one of the most successful musical exports to ever emerge from Germany."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The biographical drama features a talented ensemble cast portraying the real-life musicians and key figures of the era. Alexander Dreymon steps into the role of lead and rhythm guitarist Rudolf Schenker, while Ludwig Trepte takes on the character of frontman Klaus Meine.",
+          "Additionally, Ed Speleers portrays lead guitarist Matthias Jabs, and Luke Brandon Field appears as drummer Herman Rarebell. The production also features Dominic West as renowned music manager Doc McGhee and David Kross as Andrej, an imprisoned friend of the band residing on the opposite side of the Berlin Wall."
+        ]
+      },
+      {
+        "h": "Production and Behind-The-Scenes Leadership",
+        "p": [
+          "Behind the camera, the film is guided by director Alex Ranarivelo working from a script written by Mark Andrews. The production effort is a collaborative endeavor between Fox Entertainment Studios and ESX Entertainment, partnering alongside Warner Bros.",
+          "The roster of producers steering the project includes ESX Entertainment's Ali Afshar, Christina Moore, and Daniel Aspromonte. They are joined on the production team by Fox Entertainment Studios representatives Fernando Szew, Hannah Pillemer, Ani Kevork, and Larry Grimaldi."
+        ]
+      },
+      {
+        "h": "Studio Perspectives on the Project",
+        "p": [
+          "Executives from the studios involved have expressed great enthusiasm for the film's unique cultural message and broad theatrical appeal. Prentiss Fraser, president of Fox Entertainment Global, highlighted that the band's ambitions stretched far beyond standard fame into fostering profound global change.",
+          "Roadside Attractions co-presidents Howard Cohen and Eric d'Arbeloff echoed these sentiments, emphasizing that while the group's hits defined the MTV generation, the extraordinary tale of taking music beyond the Iron Curtain demonstrates how artists can genuinely inspire people to alter the course of the world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The biographical feature film Wind of Change will debut in German cinemas in January through Warner Bros. Germany before arriving in North American theatres in March via Roadside Attractions. Directed by Alex Ranarivelo and starring actors such as Alexander Dreymon and Ludwig Trepte, the movie chronicles the Scorpions from their 1965 roots to international stardom behind the Iron Curtain."
+        ]
+      }
+    ],
+    "facts": [
+      "Wind of Change is a feature film about the German rock band Scorpions.",
+      "The film is produced by Fox Entertainment Studios and Ali Afshar's ESX Entertainment.",
+      "Roadside Attractions is distributing the film in North America in March.",
+      "Warner Bros. Germany is distributing the film in Germany in January.",
+      "The movie follows the band from its roots in 1965.",
+      "The film's title comes from the Scorpions' 1991 power ballad.",
+      "The single sold 14 million copies worldwide.",
+      "The film features the songs 'Rock You Like a Hurricane' and 'Still Loving You'.",
+      "Alex Ranarivelo is the director of the film.",
+      "Mark Andrews is the writer of the film.",
+      "Alexander Dreymon stars as Rudolf Schenker.",
+      "Ludwig Trepte stars as Klaus Meine.",
+      "Ed Speleers stars as Matthias Jabs.",
+      "Luke Brandon Field stars as Herman Rarebell.",
+      "Dominic West portrays music manager Doc McGhee.",
+      "David Kross plays Andrej.",
+      "The Scorpions have sold more than 110 million albums worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Anthony D'Alessandro",
+        "Will Ropp",
+        "Ali Afshar",
+        "Mikhail Gorbachev",
+        "Alex Ranarivelo",
+        "Mark Andrews",
+        "Alexander Dreymon",
+        "Ludwig Trepte",
+        "Ed Speleers",
+        "Luke Brandon Field",
+        "Dominic West",
+        "David Kross",
+        "Prentiss Fraser",
+        "Howard Cohen",
+        "Eric d'Arbeloff",
+        "Christina Moore",
+        "Daniel Aspromonte",
+        "Fernando Szew",
+        "Hannah Pillemer",
+        "Ani Kevork",
+        "Larry Grimaldi",
+        "Maya Hawke",
+        "Whitney Leavitt",
+        "Jean-Claude Van Damme",
+        "Jeremy Zag",
+        "Abdul El-Sayed",
+        "Gillian Anderson",
+        "Rebecca Hall",
+        "Orlando von Einsiedel",
+        "Prince Harry",
+        "Meghan Markle",
+        "Matthew Wright",
+        "Tom Hiddleston"
+      ],
+      "titles": [
+        "Wind of Change",
+        "Brian",
+        "La Bola Negra",
+        "Michael",
+        "Bohemian Rhapsody",
+        "The Last Kingdom",
+        "Generation War",
+        "You",
+        "Magic: The Gathering",
+        "The Secret Lives Of Mormon Wives",
+        "Katana",
+        "The Portrait",
+        "A Speck In The Sea",
+        "Red, White Royal Blue",
+        "Much Ado About Nothing",
+        "A Few Good Men",
+        "Other Desert Cities",
+        "Hamilton"
+      ]
+    },
+    "keywords": [
+      "Wind of Change film",
+      "Scorpions biopic",
+      "Alexander Dreymon Rudolf Schenker",
+      "Fox Entertainment ESX Entertainment"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/WIND-OF-CHANGE-.jpg?w=1024",
+        "caption": "Scorpions Biopic 'Wind of Change' Sets Theatrical Release Dates in Germany and North America",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:17:17 +0000"
+  },
+  "gi6ubd": {
+    "id": "gi6ubd",
+    "type": "news",
+    "headline": "Sreeleela Boards Rajinikanth Starrer Dharman In Maiden Collaboration With Superstar",
+    "dek": "Actor Sreeleela has officially joined the cast of Rajinikanth's upcoming film Dharman, directed by Ashwath Marimuthu and backed by Kamal Haasan's Raaj Kamal Films International.",
+    "body": [
+      {
+        "h": "Sreeleela Joins Dharman Cast",
+        "p": [
+          "Actor Sreeleela has officially signed on for Rajinikanth's upcoming Tamil film Dharman, marking her very first professional collaboration with the veteran superstar. The casting update was officially shared by the production house on Wednesday, bringing together two prominent performers from different generations.",
+          "Kamal Haasan's Raaj Kamal Films International, which is backing the venture, welcomed the actor to the project through a special promotional video. The studio accompanied the announcement with a playful caption highlighting her energy and introducing her to the expansive ensemble."
+        ]
+      },
+      {
+        "h": "Expanding Presence in Tamil Cinema",
+        "p": [
+          "This latest signing further solidifies Sreeleela's rapidly growing footprint in the Tamil film industry following her debut earlier this year in Parasakthi, which starred Sivakarthikeyan. She has steadily accumulated a series of high-profile projects across the industry.",
+          "Beyond her role in Dharman, her expanding slate features significant upcoming titles including Om alongside Dhanush and Mammootty, as well as Daredevil opposite Ajith Kumar under the direction of Adhik Ravichandran."
+        ]
+      },
+      {
+        "h": "An Star-Studded Ensemble Cast",
+        "p": [
+          "Dharman boasts a heavily populated and familiar ensemble cast featuring several notable names from the regional film industry. Alongside Sreeleela, the production already includes prominent actors such as Simran, Nayanthara, Yogi Babu, and Raashii Khanna.",
+          "With multiple high-profile additions rounding out the principal characters, the project continues to assemble a diverse star power as it nears the closing phases of principal photography."
+        ]
+      },
+      {
+        "h": "Fresh Directorial Pairing",
+        "p": [
+          "The upcoming feature brings together Rajinikanth and filmmaker Ashwath Marimuthu for the very first time. The director previously helmed the 2020 release Oh My Kadavule and later directed the commercially successful Dragon starring Pradeep Ranganathan in 2025.",
+          "This collaboration pairs Marimuthu's contemporary approach to storytelling with the legendary screen presence of one of Indian cinema's most iconic lead actors."
+        ]
+      },
+      {
+        "h": "Rajinikanth's Unconventional Character",
+        "p": [
+          "A central talking point surrounding the project has been the distinctive nature of Rajinikanth's character, with reports indicating he portrays a doctor possessing a significantly darker side. Promotional materials have leaned into a 'Ketta Paiyan' descriptor, nodding to his memorable 1978 film Mullum Malarum directed by J Mahendran.",
+          "Promotional posters have additionally showcased the lead actor with blood-stained hands, hinting at deep moral ambiguity and an unconventional narrative trajectory for the superstar."
+        ]
+      },
+      {
+        "h": "Production Updates and Crew",
+        "p": [
+          "The movie recently wrapped its third production schedule in late September, pointing toward the final stretch of filming alongside producers Kamal Haasan and R Mahendran of Turmeric Media.",
+          "The technical crew features music composer Anirudh Ravichander continuing his long-standing partnership with Rajinikanth, alongside cinematographer Niketh Bommi, stunt choreographers Anbariv, editor Pradeep E Ragav, and production designer Karthik Rajkumar."
+        ]
+      },
+      {
+        "h": "Target Release Window",
+        "p": [
+          "While an official release date has not yet been locked down by the makers, industry reports currently point toward an April 2027 theatrical launch. The combination of an extensive ensemble cast, fresh creative pairings, and a unique character arc has driven substantial early interest."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sreeleela has joined the cast of Rajinikanth's upcoming film Dharman, directed by Ashwath Marimuthu and produced by Kamal Haasan's Raaj Kamal Films International. The project features an ensemble including Simran, Nayanthara, Yogi Babu, and Raashii Khanna, with the lead actor reportedly playing a doctor with a darker persona ahead of a targeted April 2027 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Sreeleela joined the cast of Dharman on Wednesday, November 4, 2026.",
+      "Dharman is directed by Ashwath Marimuthu.",
+      "The film is backed by Kamal Haasan's Raaj Kamal Films International and R Mahendran of Turmeric Media.",
+      "Sreeleela made her Tamil debut with Parasakthi earlier in the year.",
+      "The ensemble cast includes Simran, Nayanthara, Yogi Babu, and Raashii Khanna.",
+      "Rajinikanth plays a doctor with a darker side described as a Ketta Paiyan.",
+      "The film wrapped its third production schedule in late September.",
+      "Music for the film is composed by Anirudh Ravichander.",
+      "Dharman is targeting an April 2027 theatrical release."
+    ],
+    "entities": {
+      "people": [
+        "Sreeleela",
+        "Rajinikanth",
+        "Ashwath Marimuthu",
+        "Simran",
+        "Nayanthara",
+        "Yogi Babu",
+        "Raashii Khanna",
+        "Kamal Haasan",
+        "Sivakarthikeyan",
+        "Dhanush",
+        "Mammootty",
+        "Ajith Kumar",
+        "Adhik Ravichandran",
+        "Pradeep Ranganathan",
+        "J Mahendran",
+        "R Mahendran",
+        "Anirudh Ravichander",
+        "Niketh Bommi",
+        "Pradeep E Ragav",
+        "Karthik Rajkumar"
+      ],
+      "titles": [
+        "Dharman",
+        "Parasakthi",
+        "Om",
+        "Daredevil",
+        "Good Bad Ugly",
+        "Oh My Kadavule",
+        "Dragon",
+        "Mullum Malarum",
+        "Petta",
+        "Darbar",
+        "Jailer",
+        "Vettaiyan",
+        "Coolie",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Sreeleela Dharman",
+      "Rajinikanth Dharman",
+      "Ashwath Marimuthu film",
+      "Raaj Kamal Films International Dharman"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/sreeleelajoinsrajinikanthsdharmanmarksfirstcollaborationwithsuperstarsooo1793781302.jpg",
+        "caption": "Sreeleela Boards Rajinikanth Starrer Dharman In Maiden Collaboration With Superstar",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T14:22:01+05:30"
+  },
+  "1qrkxws": {
+    "id": "1qrkxws",
+    "type": "news",
+    "headline": "God of War Laufey PS5 Release Date Pushed Back to May 2027",
+    "dek": "Santa Monica Studio has delayed the upcoming PlayStation 5 exclusive God of War Laufey, shifting its launch from February to May 2027 to ensure the highest quality.",
+    "body": [
+      {
+        "h": "The Official Delay Announcement",
+        "p": [
+          "Santa Monica Studio has officially postponed the arrival of its highly anticipated PlayStation 5 title. The action-oriented project, which was initially showcased earlier in the year during a State of Play presentation, will no longer arrive in the winter.",
+          "Developers shared the update through official communication channels, informing eager players that the scheduled rollout has been adjusted to allow for additional development time."
+        ]
+      },
+      {
+        "h": "Revised Launch Schedule",
+        "p": [
+          "The game was previously slated to hit consoles on February 16, 2027. Following the recent announcement, the revised release window is now set for May 20, 2027.",
+          "The creative team intends to utilize every remaining week to refine the title and deliver an exceptional experience for the gaming community."
+        ]
+      },
+      {
+        "h": "Shift in Protagonist and Lore",
+        "p": [
+          "In a departure from tradition, the upcoming installment steps away from Kratos, the iconic figure who has anchored the franchise for years. Instead, players will step into the shoes of a female protagonist named Faye.",
+          "The narrative follows Faye's unexpected journey through the afterlife realm known as Everywhen, a domain where deities from various mythologies clash for ultimate authority."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Setup",
+        "p": [
+          "The official premise details how Faye awakens unexpectedly in an unfamiliar territory following her own demise. She soon realizes that the safeguards she established to protect Kratos and Atreus are facing severe threats.",
+          "Her quest will involve navigating dangerous divine territories while wielding legendary weaponry during combat encounters."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The project is under the direction of Ariel Lawrence, guiding the creative direction of the studio's latest endeavor. The voice and performance cast features several notable names from the entertainment industry.",
+          "Deborah Ann Woll returns to reprise her role as Faye following her performance in God of War Ragnarök. Additional key characters will be portrayed by acclaimed performers Jack Quaid and Perlina Lau."
+        ]
+      },
+      {
+        "h": "Studio Statement and Expectations",
+        "p": [
+          "Santa Monica Studio explained that the schedule adjustment was necessary to craft an extraordinary experience that honors the passion of its fanbase. The team is committed to polishing the game to its absolute peak potential.",
+          "Further announcements and promotional updates are anticipated in the months leading up to the new spring launch date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Santa Monica Studio has delayed the upcoming PlayStation 5 game God_of_War_Laufey from February 2027 to May 2027. The title stars Faye instead of Kratos and features returning actor Deborah Ann Woll alongside Jack Quaid and Perlina Lau under director Ariel Lawrence."
+        ]
+      }
+    ],
+    "facts": [
+      "The new God of War game is titled God of War Laufey.",
+      "The game's release date was delayed from February 16, 2027, to May 20, 2027.",
+      "The game is developed by Santa Monica Studio for the PlayStation 5.",
+      "The protagonist of the game is Faye instead of Kratos.",
+      "The game is directed by Ariel Lawrence.",
+      "Deborah Ann Woll reprises her role as Faye, joining cast members Jack Quaid and Perlina Lau."
+    ],
+    "entities": {
+      "people": [
+        "Mintu Kumar Tomar",
+        "Ariel Lawrence",
+        "Deborah Ann Woll",
+        "Jack Quaid",
+        "Perlina Lau",
+        "Kratos",
+        "Atreus",
+        "Faye"
+      ],
+      "titles": [
+        "God of War",
+        "God of War Laufey",
+        "God of War Ragnarök"
+      ]
+    },
+    "keywords": [
+      "God of War Laufey",
+      "Santa Monica Studio",
+      "God of War PS5 release date",
+      "Deborah Ann Woll God of War"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/god-of-war.jpg?resize=1200,630",
+        "caption": "God of War Laufey PS5 Release Date Pushed Back to May 2027",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:25:01 +0000"
   }
 };
