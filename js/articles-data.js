@@ -50947,5 +50947,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 23:22:49 +0000"
+  },
+  "fnxwe2": {
+    "id": "fnxwe2",
+    "type": "news",
+    "headline": "Ramayana Mumbai Screening Brings Together Ranbir Kapoor, Alia Bhatt, Sunny Deol, and More",
+    "dek": "A star-studded special screening in Mumbai for Nitesh Tiwari's upcoming mythological epic Ramayana drew top Bollywood personalities, including lead actor Ranbir Kapoor, Alia Bhatt, Sunny Deol, and Lara Dutta.",
+    "body": [
+      {
+        "h": "Star-Studded Mumbai Screening",
+        "p": [
+          "The excitement surrounding filmmaker Nitesh Tiwari's ambitious mythological epic reached a new high as a special screening event in Mumbai brought out some of the biggest names in the film industry. Celebrities arrived in striking festive attire, turning the red carpet into a dazzling display of star power and traditional elegance. Fans and photographers gathered in large numbers to capture glimpses of the stellar cast and supportive family members celebrating the landmark cinematic project.",
+          "The gathering served as a major celebratory milestone for the magnum opus, highlighting the immense anticipation built around the film. With high-profile actors stepping out to showcase their solidarity and excitement, the evening quickly became one of the most talked-about events in the entertainment circuit."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor Greets Photographers",
+        "p": [
+          "Headlining the project in the revered and central role of Lord Rama, actor Ranbir Kapoor kept his demeanour grounded and approachable throughout the evening. He warmly greeted the waiting photographers with a traditional namaste while dressed comfortably in a relaxed maroon kurta paired with denims.",
+          "His casual yet festive appearance drew admiration from attendees and media personnel alike. As the primary face of the mythological epic, his presence anchored the entire celebration, setting a welcoming and joyful tone for the rest of the cast and crew."
+        ]
+      },
+      {
+        "h": "Alia Bhatt and Family Show Support",
+        "p": [
+          "Alia Bhatt made a stunning appearance at the venue, arriving to serve as her husband's biggest cheerleader for the evening. She wore a muted sage-green drape complemented by an intricately embellished halter blouse, radiating elegance and poise.",
+          "She was joined by Neetu Kapoor, who defined understated glamour in a monochrome chocolate-brown cowl-neck tunic and relaxed trousers. Soni Razdan and Shaheen Bhatt also arrived alongside Ishan Kapoor in coordinated, laid-back black ensembles to lend their full support to Ranbir Kapoor's big night."
+        ]
+      },
+      {
+        "h": "Sunny Deol and Lara Dutta Add Royal Presence",
+        "p": [
+          "Adding immense gravitas to the event, Sunny Deol stepped out in a crisp white tailored suit and tinted shades. He is set to portray the pivotal and mighty role of Lord Hanuman in the ambitious cinematic retelling.",
+          "Meanwhile, Lara Dutta stood out in a striking turquoise silk skirt and metallic blouse combination that exuded regal poise. She steps into the vital character of Queen Kaikeyi, King Dasharatha's third consort, adding further depth to the star-studded ensemble."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Red Carpet Highlights",
+        "p": [
+          "Other notable cast members also made memorable entrances, with Ravi Dubey and Sargun Mehta serving classic traditional elegance. Ravi opted for an embroidered bandhgala while Sargun wore a detailed festive saree, highlighting his prominent role as Lakshmana, Lord Rama’s devoted brother and steadfast companion.",
+          "Additionally, Vivek Oberoi looked sharp in an asymmetrical black kurta as he posed with an easy smile on the red carpet. He plays the intriguing role of Vidyutjihva, the demon sorcerer and husband of Ravana’s sister, Shurpanakha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Nitesh Tiwari's Ramayana held a special screening in Mumbai featuring lead actor Ranbir Kapoor alongside stars like Sunny Deol and Lara Dutta. Family members including Alia Bhatt and Neetu Kapoor attended the event to show their support for the cast.",
+          "The gathering highlighted the immense anticipation surrounding the upcoming mythological epic as key cast members posed for photographers in festive attire."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Rama in Ramayana",
+      "Sunny Deol plays Lord Hanuman",
+      "Lara Dutta plays Queen Kaikeyi",
+      "Ravi Dubey plays Lakshmana",
+      "Vivek Oberoi plays Vidyutjihva",
+      "Nitesh Tiwari is the filmmaker"
+    ],
+    "entities": {
+      "people": [
+        "Ranbhir Kapoor",
+        "Alia Bhatt",
+        "Neetu Kapoor",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Sargun Mehta",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Soni Razdan",
+        "Shaheen Bhatt",
+        "Ishan Kapoor",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Mumbai screening",
+      "Ranbir Kapoor Ramayana",
+      "Alia Bhatt Ramayana screening",
+      "Nitesh Tiwari Ramayana cast"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202611/ramayana-mumbai-screening-040057924-16x9_0.jpg?VersionId=pyD6ux85JFGnh1s32i_JC0z4qx67vNrP",
+        "caption": "Ramayana Mumbai Screening Brings Together Ranbir Kapoor, Alia Bhatt, Sunny Deol, and More",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 06:02:28 +0530"
+  },
+  "vndyh2": {
+    "id": "vndyh2",
+    "type": "news",
+    "headline": "Salman Khan Debuts Lean and Chiselled Look at Ramesh Taurani’s Diwali Party",
+    "dek": "Bollywood superstar Salman Khan turned heads at Ramesh Taurani's recent Diwali bash, showcasing a remarkably fit physique and sharp jawline that immediately went viral online.",
+    "body": [
+      {
+        "h": "Stunning Appearance at the Diwali Celebration",
+        "p": [
+          "Bollywood icon Salman Khan recently captured widespread attention during his latest public outing at producer Ramesh Taurani’s star-studded Diwali party. Arriving in a stylish black shirt paired with classic jeans, the actor debuted a noticeably leaner and sharper physical transformation.",
+          "Sporting a well-groomed stubble and a sharply defined jawline, Khan radiated an effortless charm that quickly drew the focus of attendees and media photographers alike."
+        ]
+      },
+      {
+        "h": "Enthusiastic Fan Reactions Online",
+        "p": [
+          "Clips and photographs of Khan from the celebration swiftly circulated across various social media platforms, sparking immense admiration from his massive fan base. Many followers marveled at his dedication to fitness, with numerous admirers noting how the look channels his classic vintage charm from earlier decades.",
+          "Comments flooded in praising his youthful appearance at age 61, with fans highlighting his refined look, sharp features, and enduring status as one of Indian cinema's most handsome leading men."
+        ]
+      },
+      {
+        "h": "Charming Exchange with the Paparazzi",
+        "p": [
+          "As the superstar paused on the red carpet to let photographers capture his new aesthetic, he shared a brief, lighthearted interaction with the media pack gathered at the venue.",
+          "One photographer called out a direct compliment, telling him that he looked the best among everyone present, to which Khan responded warmly with a polite and gracious acknowledgment."
+        ]
+      },
+      {
+        "h": "Physical Transformation for Upcoming Projects",
+        "p": [
+          "Reports indicate that Khan's rigorous physical conditioning and leaner frame are tied to preparations for his heavily anticipated upcoming feature film, which is currently known by the working title 'Monster'.",
+          "The project marks a major new chapter for the actor as he steps into a high-profile pan-Indian action thriller designed to showcase his renewed physical stamina."
+        ]
+      },
+      {
+        "h": "Cast and Crew of 'Monster'",
+        "p": [
+          "The upcoming action entertainer pairs Salman Khan alongside leading actress Nayanthara, with acclaimed filmmaker Vamshi Paidipally attached to direct the venture.",
+          "In addition to the lead pair, the film boasts a diverse and robust supporting ensemble featuring Arvind Swamy, Jackie Shroff, Ronit Roy, Seema Biswas, and Rahul Dev."
+        ]
+      },
+      {
+        "h": "Production Plans and Commercial Buzz",
+        "p": [
+          "Makers are reportedly eyeing an Eid 2027 theatrical window for the film, which is expected to feature intensive hand-to-hand combat and intricate close-quarters action choreography. A significant portion of principal photography is scheduled to take place in Mumbai.",
+          "The feature has already created substantial pre-release momentum within the commercial exhibition sector, highlighted by reports of a major theatre chain securing nationwide distribution rights for a massive valuation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan recently attracted significant attention after stepping out with a lean and chiselled physique at Ramesh Taurani's Diwali bash. The actor's sharp new look is tied to his preparation for the upcoming action film 'Monster', generating excitement among fans and industry insiders alike."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan attended Ramesh Taurani’s Diwali bash wearing a black shirt and jeans.",
+      "Fans and media noted Salman Khan's age as 61.",
+      "Salman Khan's upcoming film is tentatively titled 'Monster'.",
+      "The film 'Monster' is directed by Vamshi Paidipally and stars Nayanthara alongside Salman Khan.",
+      "The supporting cast of 'Monster' includes Arvind Swamy, Jackie Shroff, Ronit Roy, Seema Biswas, and Rahul Dev.",
+      "The film is planned as an Eid 2027 release with major schedules in Mumbai.",
+      "A theatre chain reportedly secured all-India theatrical distribution rights for the film in a deal worth Rs 100 crore."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Ramesh Taurani",
+        "Nayanthara",
+        "Vamshi Paidipally",
+        "Arvind Swamy",
+        "Jackie Shroff",
+        "Ronit Roy",
+        "Seema Biswas",
+        "Rahul Dev"
+      ],
+      "titles": [
+        "Monster"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Diwali bash",
+      "Salman Khan Monster film",
+      "Ramesh Taurani Diwali party",
+      "Salman Khan lean look"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135515814,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Debuts Lean and Chiselled Look at Ramesh Taurani’s Diwali Party",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T04:34:24+05:30"
+  },
+  "1iki2ve": {
+    "id": "1iki2ve",
+    "type": "news",
+    "headline": "Lili Taylor Joins Netflix Psychological Thriller The Beast in Me Season 2",
+    "dek": "The Hunger Games star joins the cast of Netflix's psychological thriller The Beast in Me for its upcoming second season.",
+    "body": [
+      {
+        "h": "Casting Expansion for Season Two",
+        "p": [
+          "The Netflix psychological thriller project The Beast in Me has expanded its cast roster by welcoming a prominent Hunger Games franchise star. Lili Taylor has officially signed on to appear as a series regular in the upcoming episodes.",
+          "Her addition brings fresh talent to the ongoing narrative alongside returning lead performers. Netflix has kept specific plot details regarding the forthcoming narrative under wraps for now."
+        ]
+      },
+      {
+        "h": "Parental Roles for New Cast Members",
+        "p": [
+          "Reports indicate that Lili Taylor will star alongside fellow new addition John Goodman to portray parental figures in the series. They are set to play the mother and father figures connected to the main character.",
+          "Specifically, John Goodman has been cast to play the father, Jack, while Lili Taylor will step into the role of the stepmother, Fiona."
+        ]
+      },
+      {
+        "h": "Return of the Protagonist and Creators",
+        "p": [
+          "Claire Danes is confirmed to reprise her starring role as the grieving author Aggie Wiggs. Her character was central to the eerie events of the initial run.",
+          "Behind the scenes, Howard Gordon and Daniel Pearle are back steering the project as co-showrunners. They also carry executive producer responsibilities for the program."
+        ]
+      },
+      {
+        "h": "Expanded Executive Producer Team",
+        "p": [
+          "A large collective of executive producers supports the production alongside the showrunners. This group includes Claire Danes, Gabe Rotter, and Antonio Campos.",
+          "Additional executive producers feature Caroline Baron, Amy Lippman, Conan O’Brien, David Kissinger, Jeff Ross, and Jodie Foster."
+        ]
+      },
+      {
+        "h": "Exploring Family Backgrounds",
+        "p": [
+          "The introduction of Aggie Wiggs' parents strongly hints at a deeper dive into the protagonist's personal history. Observers expect the upcoming episodes to unpack familial secrets.",
+          "This narrative shift towards family background has heightened anticipation among viewers tracking the psychological drama."
+        ]
+      },
+      {
+        "h": "Notable Acting Backgrounds",
+        "p": [
+          "Lili Taylor brings extensive experience as a three-time Emmy nominee with notable credits in Outer Range and Daredevil: Born Again as Governor Marge McCaffrey. She is also slated to appear as Mags Flanagan in The Hunger Games: Sunrise on the Reaping.",
+          "Meanwhile, John Goodman enters the project following recent appearances in Digger and Chili Finger."
+        ]
+      },
+      {
+        "h": "Origins and Past Plotline",
+        "p": [
+          "The Beast in Me originally launched on the platform as a limited series before securing a renewal. Its first season centered on grieving author Aggie Wiggs and her obsession with a mysterious neighbor named Nile Jarvis, played by Matthew Rhys.",
+          "That initial entanglement drew her deep into a web of suspicion and dark secrets. At present, the streaming service has not shared a specific premiere date for the new season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lili Taylor has joined John Goodman and Claire Danes as a series regular for the second season of Netflix's psychological thriller The Beast in Me. Goodman and Taylor will portray the father and stepmother of Danes' character, author Aggie Wiggs, signaling a deeper exploration of her family history."
+        ]
+      }
+    ],
+    "facts": [
+      "Lili Taylor joined The Beast in Me Season 2 as a series regular.",
+      "Claire Danes returns as author Aggie Wiggs.",
+      "John Goodman will play Aggie Wiggs' father, Jack.",
+      "Lili Taylor will portray Aggie Wiggs' stepmother, Fiona.",
+      "Howard Gordon and Daniel Pearle return as co-showrunners.",
+      "Matthew Rhys portrayed Nile Jarvis in the first season.",
+      "Lili Taylor is a three-time Emmy nominee known for Outer Range and Daredevil: Born Again."
+    ],
+    "entities": {
+      "people": [
+        "Lili Taylor",
+        "Claire Danes",
+        "John Goodman",
+        "Howard Gordon",
+        "Daniel Pearle",
+        "Gabe Rotter",
+        "Antonio Campos",
+        "Caroline Baron",
+        "Amy Lippman",
+        "Conan O’Brien",
+        "David Kissinger",
+        "Jeff Ross",
+        "Jodie Foster",
+        "Matthew Rhys"
+      ],
+      "titles": [
+        "The Beast in Me",
+        "Outer Range",
+        "Daredevil: Born Again",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Digger and Chili Finger"
+      ]
+    },
+    "keywords": [
+      "The Beast in Me Season 2",
+      "Lili Taylor The Beast in Me",
+      "Claire Danes The Beast in Me",
+      "John Goodman Netflix show"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Beast-in-me.jpg?resize=1200,630",
+        "caption": "Lili Taylor Joins Netflix Psychological Thriller The Beast in Me Season 2",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 23:02:27 +0000"
+  },
+  "1rh4q8j": {
+    "id": "1rh4q8j",
+    "type": "news",
+    "headline": "Actor Tusshar Kapoor Targeted With Rs 5 Crore Extortion Threat Linked To Lawrence Bishnoi Gang",
+    "dek": "Actor Tusshar Kapoor has reportedly faced a major extortion demand of Rs 5 crore from a caller claiming ties to the Lawrence Bishnoi gang, prompting a swift response from Mumbai law enforcement authorities.",
+    "body": [
+      {
+        "h": "The Extortion Demand",
+        "p": [
+          "Actor Tusshar Kapoor has reportedly become the latest target of a high-stakes extortion attempt. An unidentified caller contacted the actor demanding a massive sum of five crore rupees. During the conversation, the perpetrator claimed to be Harry Boxer, an individual alleged to be associated with the Lawrence Bishnoi gang. This alarming communication has raised serious concerns regarding the safety and security of public figures within the entertainment industry."
+        ]
+      },
+      {
+        "h": "Mumbai Police and Crime Branch Intervention",
+        "p": [
+          "Following the threatening call, Tusshar Kapoor promptly notified the Mumbai Police about the incident. Recognizing the severity of the situation, the matter was immediately transferred to specialized units, including the Anti-Extortion Cell and the Crime Branch. Investigators initiated a formal inquiry to trace the origin of the communication and identify the person responsible for orchestrating the threat against the actor."
+        ]
+      },
+      {
+        "h": "Voice Analysis Yields No Match",
+        "p": [
+          "As part of the early investigative steps, the technical team of the Mumbai Crime Branch examined the audio recording of the threatening call. Authorities compared the caller's voice with official audio samples of Harry Boxer already available in police records. Interestingly, the preliminary analysis revealed that the voices did not match. This crucial discovery led law enforcement officials to suspect that the caller might have falsely used the gang's name to intimidate the actor."
+        ]
+      },
+      {
+        "h": "Suspicion of Using Notorious Gang Moniker",
+        "p": [
+          "Investigators are actively probing the angle that the perpetrator leveraged the notorious reputation of the Lawrence Bishnoi gang simply to amplify the fear factor. By invoking a feared criminal syndicate name, extortionists often hope to secure compliance more easily. The Anti-Extortion Branch and Crime Branch are currently determining whether any real ties exist between the sender and the syndicate or if the moniker was used as a deceptive tactic."
+        ]
+      },
+      {
+        "h": "Broader Extortion Trend Involving Nagpur Jewellers",
+        "p": [
+          "In a completely separate parallel incident, at least eight different jewellers located in the bullion market of Nagpur received alarming threat letters. These communications demanded ten lakh rupees from each trader and included threats directed at the jewellers and their respective families. Furthermore, the senders instructed the merchants to paint a specific slogan outside their commercial establishments if they intended to meet the financial demand. Local authorities similarly suspect that local extortionists are exploiting the gang's notorious name for illicit financial gains."
+        ]
+      },
+      {
+        "h": "Mira-Bhayandar Businessman Incident",
+        "p": [
+          "Adding to the string of extortion reports, a local businessman residing in Mira-Bhayandar also received a direct call demanding ten lakh rupees. The caller went as far as threatening to shoot the individual if the money was not handed over. Law enforcement officials registered an official case under relevant provisions of the Bharatiya Nyaya Sanhita covering extortion and criminal intimidation. Subsequent investigations into this specific occurrence found no concrete or established link between the caller and the Lawrence Bishnoi gang."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Tusshar Kapoor recently received a threatening call demanding Rs 5 crore from someone claiming to be Harry Boxer of the Lawrence Bishnoi gang. Although Mumbai Police and the Crime Branch found no voice match during their technical investigation, authorities continue to probe the incident alongside other regional extortion threats."
+        ]
+      }
+    ],
+    "facts": [
+      "Tusshar Kapoor received a call demanding Rs 5 crore.",
+      "The caller claimed to be Harry Boxer, alleged member of the Lawrence Bishnoi gang.",
+      "The matter was handed over to the Anti-Extortion Cell and the Crime Branch.",
+      "Investigators found no voice match with Harry Boxer.",
+      "Eight Nagpur jewellers received threat letters demanding Rs 10 lakh each.",
+      "A businessman in Mira-Bhayandar received a call demanding Rs 10 lakh with threats to shoot."
+    ],
+    "entities": {
+      "people": [
+        "Tusshar Kapoor",
+        "Harry Boxer",
+        "Lawrence Bishnoi"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Tusshar Kapoor extortion threat",
+      "Lawrence Bishnoi gang",
+      "Harry Boxer voice match",
+      "Mumbai Crime Branch",
+      "Tusshar Kapoor threatening call"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/03120310/image-5.jpeg",
+        "caption": "Actor Tusshar Kapoor Targeted With Rs 5 Crore Extortion Threat Linked To Lawrence Bishnoi Gang",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-04T01:51:31Z"
   }
 };
