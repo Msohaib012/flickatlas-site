@@ -58424,5 +58424,425 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-04T19:04:30Z"
+  },
+  "158yn5e": {
+    "id": "158yn5e",
+    "type": "news",
+    "headline": "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
+    "dek": "Ranbir Kapoor and Sai Pallavi starrer Ramayana rakes in over Rs 100 crore in worldwide presales, making waves internationally and domestically.",
+    "body": [
+      {
+        "h": "Introduction and Scale",
+        "p": [
+          "The mythological epic Ramayana has emerged as one of the most talked-about upcoming spectacles within Indian cinema, capturing widespread attention due to its immense scale, high-profile casting, and visual ambition.",
+          "Helmed by director Nitesh Tiwari, the multi-part cinematic venture is backed by producers Yash and Namit Malhotra, aiming to deliver a grand retelling tailored for audiences both in India and across the globe."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The project features a prominent lineup of actors, headlined by Ranbir Kapoor portraying Lord Ram, Sai Pallavi taking on the role of Sita, and Yash stepping into the character of Ravana.",
+          "Additional depth is brought to the production by a diverse supporting ensemble that includes Sunny Deol, Ravi Dubey, Arun Govil, Rakul Preet Singh, Lara Dutta, Vivek Oberoi, and Anupam Kher."
+        ]
+      },
+      {
+        "h": "Global Anticipation and Social Media Buzz",
+        "p": [
+          "Audience chatter has focused heavily on Ranbir Kapoor transitioning from his intense persona in Animal to a revered mythological character, alongside considerable intrigue surrounding Sai Pallavi and Yash.",
+          "Social media reactions highlight viewers discussing the film's two-part structure and elaborate production design as it prepares for its theatrical run."
+        ]
+      },
+      {
+        "h": "North American Advance Bookings",
+        "p": [
+          "In the United States, ticketing data shared by Venky Box Office indicates that Ramayana collected $1,454,663 from the sale of 69,731 tickets.",
+          "Total North American premiere advances reached $1.65 million, while combined advance sales for premieres and the opening day totaled $2.25 million, which translates to roughly Rs 21.3 crore."
+        ]
+      },
+      {
+        "h": "Comparison With Dhurandhar 2",
+        "p": [
+          "When compared directly in the United States market, Ramayana fell short of matching the opening day advance sales achieved by Dhurandhar 2.",
+          "Dhurandhar 2 secured $1,540,349 from 97,367 tickets in the US and reached $1.85 million across North America, alongside surpassing Rs 200 crore in worldwide presales."
+        ]
+      },
+      {
+        "h": "Worldwide and Domestic Presales",
+        "p": [
+          "On a broader international scale, total overseas advance bookings for Ramayana climbed to $3.2 million, equivalent to about Rs 30.3 crore.",
+          "Furthermore, total worldwide presales for the mythological drama have successfully crossed the Rs 100 crore threshold ahead of its release."
+        ]
+      },
+      {
+        "h": "Domestic Performance in India",
+        "p": [
+          "Domestically, the film recorded an impressive response at the Indian box office by minting Rs 48.6 crore through advance bookings for its opening day.",
+          "This domestic milestone was propelled by the sale of 13.46 lakh tickets across the country, setting the stage for its theatrical debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Sai Pallavi's upcoming mythological epic Ramayana, directed by Nitesh Tiwari, has crossed Rs 100 crore in worldwide presales. While it fell short of Dhurandhar 2's numbers in North America, the film secured strong advance ticket sales both overseas and domestically."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Ram in Ramayana.",
+      "Sai Pallavi plays Sita in Ramayana.",
+      "Yash plays Ravana in Ramayana.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Yash and Namit Malhotra are the backers of Ramayana.",
+      "Ramayana collected $1,454,663 with 69,731 tickets sold in the USA.",
+      "Total North American premiere advances for Ramayana emerged as $1.65M.",
+      "Total advance sales for Ramayana in North America included in premiere and opening day turned out to be $2.25M or Rs 21.3 Cr.",
+      "Total overseas advance booking collection for Ramayana is $3.2M or Rs 30.3 Cr.",
+      "Worldwide presales for Ramayana crossed the Rs 100cr mark.",
+      "Dhurandhar 2's advance booking collection in the USA was $1,540,349 with the sale of 97,367 tickets.",
+      "Dhurandhar 2's North American advance collection was $1.85M.",
+      "Dhurandhar 2 raked in over Rs 200cr from presales across the world.",
+      "Ramayana minted Rs 48.6cr from advance booking for the opening day with the sale of 13.46 lakh tickets in India."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Anupam Kher"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking collection",
+      "Ramayana vs Dhurandhar 2 North America",
+      "Ranbir Kapoor Ramayana box office",
+      "Ramayana worldwide presales"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapresalesfeature-58911793814355.jpg",
+        "caption": "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 02:05:57 +0530"
+  },
+  "25i5xu": {
+    "id": "25i5xu",
+    "type": "news",
+    "headline": "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
+    "dek": "Marvel Japan has officially revealed that veteran voice actor Toshiyuki Morikawa will lend his voice to Robert Downey Jr's villainous character in the upcoming blockbuster.",
+    "body": [
+      {
+        "h": "The Official Announcement from Marvel Japan",
+        "p": [
+          "Marvel Japan has officially confirmed a major casting addition for the upcoming superhero epic Avengers: Doomsday. Robert Downey Jr, who famously spent over a decade portraying Tony Stark and shaping the vocal identity of Iron Man, is returning to the Marvel Cinematic Universe in an entirely different role. This time, he steps into the shoes of the iconic antagonist Victor von Doom. While Western fans anticipate how Downey will transition from hero to menacing mastermind, international audiences are looking at a parallel casting journey for their own local versions of the film.",
+          "The recent announcement by Marvel Japan brings a celebrated voice acting veteran into the fold to handle Downey's dialogue in the Japanese dub. Alongside the casting reveal, a Japanese-language trailer and a special video message from Downey himself were released to mark the occasion. This thoughtful acknowledgement of international dub history highlights how vital foreign voice casts are in shaping global connections to these long-running comic book characters."
+        ]
+      },
+      {
+        "h": "A Veteran Voice Actor for a Formidable Villain",
+        "p": [
+          "The choice to bring in Toshiyuki Morikawa for the role of Doctor Doom introduces a wealth of experience in portraying complex and intimidating antagonists. Morikawa is widely recognized by gaming enthusiasts around the world for voicing Sephiroth in the Japanese versions of Final Fantasy 7 Remake and Final Fantasy 7 Rebirth. His previous work with iconic video game and anime characters establishes him as a master of delivering calm, chilling performances that can unnerve both heroes and audiences alike.",
+          "In his work as Sephiroth, Morikawa expertly captured a persistent and intimate threat, often undermining characters like Cloud Strife with carefully chosen words delivered in moments of deep vulnerability. Bringing that specific talent to the character of Doctor Doom aligns perfectly with a villain who demands absolute presence and unquestioned authority. Fans familiar with his extensive portfolio know that his chilling delivery style will add an extra layer of tension to the upcoming cinematic event."
+        ]
+      },
+      {
+        "h": "An Extensive Portfolio Across Anime and Gaming",
+        "p": [
+          "Beyond his legendary work in the Final Fantasy franchise, Morikawa boasts an impressive resume featuring numerous beloved anime and video game characters. He has lent his talents to Dante in the Devil May Cry series, Yoshikage Kira in JoJo's Bizarre Adventure, and Kagaya Ubuyashiki in Demon Slayer. Furthermore, his voice has graced major properties like One Piece, where he brought characters such as Enel, Hatchan, and Scopper Gaban to life.",
+          "This diverse background proves that the actor is entirely capable of shifting between different tones and emotional registers. While Sephiroth provides the measured intimidation suited for Doctor Doom, characters like Dante showcase his ability to handle swagger and irreverence. This wide range reassures followers of Japanese media that the complex personality of Marvel's new primary antagonist is in capable hands."
+        ]
+      },
+      {
+        "h": "Connecting Generations of Dub Viewers",
+        "p": [
+          "For generations of international moviegoers who grew up following Japanese dubs, the voice behind a character becomes just as important as the physical performance on screen. Audiences spent years listening to specific voice actors deliver Tony Stark's sharp jokes and emotional farewells. Transitioning those same viewers into a new era where a familiar vocal talent represents Downey's villainous turn creates a seamless bridge across different phases of the cinematic universe.",
+          "This casting choice bridges the gap between mainstream blockbuster cinema and the rich tradition of Japanese voice acting in anime and gaming. By selecting a performer with deep roots in interactive entertainment, Marvel ensures that the localization resonates strongly with fans who appreciate high-caliber vocal performances. The anticipation surrounding the Japanese release has certainly grown following this exciting casting disclosure."
+        ]
+      },
+      {
+        "h": "Looking Ahead to the Theatrical Release",
+        "p": [
+          "Avengers: Doomsday is scheduled to open in theaters on December 18, 2026, bringing together a massive ensemble cast and setting the stage for future cosmic conflicts. The film is directed by Anthony Russo and Joe Russo, with a script penned by writers including Stephen McFeely, Michael Waldron, Chris McKenna, and Erik Sommers. The narrative follows the ongoing expansion of the Marvel Cinematic Universe after events established in related prequel and franchise installments.",
+          "As the release date draws closer, promotional materials continue to highlight both the English-language performances and international dub additions. With major stars like Pedro Pascal, Chris Hemsworth, and Vanessa Kirby joining the roster alongside Robert Downey Jr, the project stands as one of the most anticipated cinematic ventures in recent years. The inclusion of seasoned localization talent like Toshiyuki Morikawa guarantees that the film's global appeal remains robust."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Japan has officially announced that veteran voice actor Toshiyuki Morikawa will voice Robert Downey Jr's character, Doctor Doom, in the Japanese dub of Avengers: Doomsday. Morikawa, widely celebrated for voicing antagonists like Sephiroth, brings extensive anime and gaming experience to the upcoming superhero blockbuster scheduled for release in December 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Downey Jr is portraying Doctor Doom in Avengers: Doomsday.",
+      "Toshiyuki Morikawa will voice Robert Downey Jr's Doctor Doom in the Japanese dub.",
+      "Toshiyuki Morikawa is known for voicing Sephiroth in Final Fantasy 7.",
+      "Avengers: Doomsday is scheduled to open in theaters on December 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr",
+        "Toshiyuki Morikawa",
+        "Anthony Russo",
+        "Joe Russo",
+        "Stephen McFeely",
+        "Michael Waldron",
+        "Chris McKenna",
+        "Erik Sommers",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Final Fantasy 7",
+        "Final Fantasy 7 Remake",
+        "Final Fantasy 7 Rebirth",
+        "Devil May Cry",
+        "JoJo's Bizarre Adventure",
+        "Demon Slayer",
+        "One Piece"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday Doctor Doom",
+      "Toshiyuki Morikawa Doctor Doom Japanese voice",
+      "Robert Downey Jr Doctor Doom",
+      "Avengers Doomsday Japanese dub"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/avengers-doomsday.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:57:49 GMT"
+  },
+  "1l9fvlz": {
+    "id": "1l9fvlz",
+    "type": "news",
+    "headline": "When I Meet The Moon Episodes 1-4 Release Timings, Platforms, and Streaming Details Revealed",
+    "dek": "The much-awaited modern romantic Chinese drama When I Meet The Moon starring Lin Yi and Lu Yu Xiao arrives on iQIYI with English subtitles.",
+    "body": [
+      {
+        "h": "Introduction to the Highly Anticipated Chinese Drama",
+        "p": [
+          "The premier of the modern romantic Chinese series When I Meet The Moon has arrived, generating significant excitement among fans of C-dramas. Following popular adaptations like Hidden Love and The First Frost, this new project is based on the web novel Folding Moon by author Zhu Yi.",
+          "As part of the Nanwu Trilogy, the program has built strong anticipation prior to its debut. Viewers have eagerly awaited the fresh pairing of its lead actors, marking their very first time working together on screen."
+        ]
+      },
+      {
+        "h": "Starring Cast and Production Background",
+        "p": [
+          "The series features a dynamic lead duo consisting of Lin Yi and Lu Yu Xiao. Their on-screen chemistry and behind-the-scenes clips have drawn considerable attention across social media channels ahead of the official premiere.",
+          "The show's connection to a widely read source material has further elevated expectations. Fans of the original web novel have closely tracked production updates leading up to the launch date."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Lu Yu Xiao steps into the role of Yun Li, characterized as a socially anxious young woman. Her journey shifts when she encounters Fu Shi Ze, a technology expert and her former crush from high school, at a local virtual reality venue.",
+          "As Yun Li gradually steps out of her comfort zone, she finds the confidence to pursue her long-held feelings. However, challenges disrupt their romance, leading to a separation before their paths cross again years later."
+        ]
+      },
+      {
+        "h": "Release Date and Premiere Schedule",
+        "p": [
+          "The official premiere takes place on November 5, 2026. The initial release includes the first four episodes dropping simultaneously for viewers to enjoy.",
+          "Broadcasting details confirm that the series is available through official distribution channels, including Jiangsu TV alongside its primary streaming home."
+        ]
+      },
+      {
+        "h": "Streaming Platforms and Timings in India",
+        "p": [
+          "Audience members in India and other regions can watch the premiere on iQIYI. The platform provides English subtitles for international fans following the release.",
+          "The first four episodes are scheduled to go live at 6:00 PM Beijing Time, which corresponds to 3:30 PM IST."
+        ]
+      },
+      {
+        "h": "Alternative Viewing Options and Free Streaming",
+        "p": [
+          "Subscribers with an active account on iQIYI can stream the opening episodes at no extra cost as part of their membership benefits. Additional viewing avenues may also become accessible shortly after the main broadcast.",
+          "Reports indicate that episodes could appear on Dailymotion hours after the official premiere, allowing viewers to search for subtitled versions online."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The modern romantic Chinese drama When I Meet The Moon, starring Lin Yi and Lu Yu Xiao, premieres its first four episodes on November 5, 2026. Based on Zhu Yi's novel Folding Moon, the series is available to stream on iQIYI with English subtitles for international audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "When I Meet The Moon releases its first four episodes on November 5, 2026.",
+      "The series stars Lin Yi and Lu Yu Xiao.",
+      "The show is based on the web novel Folding Moon by Zhu Yi.",
+      "Episodes premiere at 6:00 PM Beijing Time, equal to 3:30 PM IST.",
+      "The drama streams on iQIYI with English subtitles."
+    ],
+    "entities": {
+      "people": [
+        "Lin Yi",
+        "Lu Yu Xiao",
+        "Zhu Yi"
+      ],
+      "titles": [
+        "When I Meet The Moon",
+        "Hidden Love",
+        "The First Frost",
+        "Folding Moon"
+      ]
+    },
+    "keywords": [
+      "When I Meet The Moon",
+      "Lin Yi Lu Yu Xiao",
+      "When I Meet The Moon episodes",
+      "When I Meet The Moon iqiyi"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-04t122420-011-28001793775269.jpg",
+        "caption": "When I Meet The Moon Episodes 1-4 Release Timings, Platforms, and Streaming Details Revealed",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 00:30:14 +0530"
+  },
+  "1rhus0s": {
+    "id": "1rhus0s",
+    "type": "news",
+    "headline": "Suraj Venjaramoodu Announces New Malayalam Film Directed By Jagan Shaji Kailas",
+    "dek": "Actor Suraj Venjaramoodu is set to lead a new Malayalam film directed by Jagan Shaji Kailas, which officially commenced production with a pooja ceremony in Idukki.",
+    "body": [
+      {
+        "h": "Official Launch in Idukki",
+        "p": [
+          "A brand new Malayalam cinematic venture has officially begun its production journey with a traditional pooja ceremony held in Idukki. The yet-to-be-titled feature brings actor Suraj Venjaramoodu to the forefront as the lead protagonist, taking on a character named Prakashan. While the official title and plot specifics remain heavily under wraps, the launch event marks the formal kickoff for the ambitious project.",
+          "The production is a collaborative effort backed jointly by Suraj Venjaramoodu and Santhosh Thrivikraman. They are producing the movie through their respective banners, Vilasini Cinemas and Wow Cinemas, bringing together a dedicated team to steer the film from its initial stages through to eventual completion."
+        ]
+      },
+      {
+        "h": "Director Jagan Shaji Kailas and Writer Vibin Balachandran",
+        "p": [
+          "The film is directed by Jagan Shaji Kailas, adding another compelling title to his growing directorial slate. The screenplay is penned by Vibin Balachandran, who has previously collaborated with the filmmaker on the Dileep-starrer Neekkam. This ongoing creative partnership between Jagan and Vibin highlights a strong working relationship as they embark on this fresh narrative endeavor together.",
+          "Jagan's growing filmography features multiple projects in various phases of completion. His maiden directorial effort, an investigative thriller starring Siju Wilson, wrapped up principal photography back in 2023 but has yet to secure a theatrical release date. Additionally, his work on Neekkam with Dileep is also awaiting its grand premiere on the big screen."
+        ]
+      },
+      {
+        "h": "An Extensive Ensemble Cast",
+        "p": [
+          "Alongside Suraj Venjaramoodu portraying Prakashan, the movie boasts a sizeable and recognizable supporting cast. Actors Vinay Forrt and Manju Pillai are attached to play prominent roles within the narrative framework of the film, adding considerable weight to the ensemble.",
+          "The broader supporting lineup features numerous familiar names from the industry. Performers such as Devaraj, Tis Thomas, Vrinda Menon, Bhanumathi, Anagha Narayanan, Jaffer Idukki, Divya M Nair, Nandu, Tesni Khan, Noby, Krishnaprabha, Vijay Menon, Shaju Sreedhar, and Prashanth Alexander round out the expansive cast, promising a rich tapestry of characters."
+        ]
+      },
+      {
+        "h": "Technical Crew and Production Team",
+        "p": [
+          "Behind the camera, a skilled technical crew has been assembled to bring the visual and auditory elements of the film to life. Cinematographer Ajay David Kachappilly is handling the camera work, capturing the aesthetic tone of the production across its shooting locations.",
+          "The editing duties for the feature are assigned to Sooraj ES, ensuring the narrative pacing remains sharp. Meanwhile, the musical landscape of the project is being crafted by composer Electronic Kili, setting the mood for the various scenes as filming progresses."
+        ]
+      },
+      {
+        "h": "Suraj Venjaramoodu's Recent Career Path",
+        "p": [
+          "The new Malayalam venture continues a diverse and busy period for Suraj Venjaramoodu, who has been exploring various roles across multiple film industries. Recently, the actor appeared in the Tamil action entertainer Jailer 2, directed by Rajinikanth, where he portrayed one of the antagonists as part of a massive star-studded ensemble.",
+          "Within Malayalam cinema, Suraj's most recent theatrical release was Mohiniyattam, directed by Krishnadas Murali. Known for effortlessly transitioning between comedy, drama, intense thrillers, and character-driven stories, his latest decision to headline Jagan Shaji Kailas's film further expands his extensive and varied filmography."
+        ]
+      },
+      {
+        "h": "Anticipation and Future Updates",
+        "p": [
+          "With cameras currently rolling in Idukki, audiences and fans are looking forward to further announcements regarding the project. Additional details concerning the official title, character arcs, and the overarching genre are expected to be unveiled as the production schedule advances.",
+          "The combination of a lead actor like Suraj Venjaramoodu, a distinct directorial vision from Jagan Shaji Kailas, and a large, talented supporting cast positions this untitled venture as a noteworthy addition to the Malayalam cinema calendar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suraj Venjaramoodu has launched a new Malayalam film directed by Jagan Shaji Kailas with a pooja ceremony in Idukki, where he will play a character named Prakashan. Written by Vibin Balachandran, the project features a large ensemble cast including Vinay Forrt and Manju Pillai, and is backed by Vilasini Cinemas and Wow Cinemas."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 4, 2026, 15:06 IST",
+      "The film was launched with a pooja ceremony in Idukki on Tuesday.",
+      "Suraj Venjaramoodu plays the protagonist Prakashan.",
+      "The film is directed by Jagan Shaji Kailas.",
+      "The film is scripted by Vibin Balachandran.",
+      "Jagan's maiden directorial investigative thriller starring Siju Wilson completed filming in 2023.",
+      "Jagan completed work on Neekkam featuring Dileep in the lead role.",
+      "Vinay Forrt and Manju Pillai play prominent roles.",
+      "The film is jointly backed by Suraj Venjaramoodu and Santhosh Thrivikraman under Vilasini Cinemas and Wow Cinemas.",
+      "The technical team includes cinematographer Ajay David Kachappilly, editor Sooraj ES, and music composer Electronic Kili.",
+      "Suraj Venjaramoodu appeared in Rajinikanth's Tamil action entertainer Jailer 2.",
+      "Suraj's most recent Malayalam theatrical release was Krishnadas Murali's Mohiniyattam."
+    ],
+    "entities": {
+      "people": [
+        "Suraj Venjaramoodu",
+        "Jagan Shaji Kailas",
+        "Vibin Balachandran",
+        "Dileep",
+        "Siju Wilson",
+        "Vinay Forrt",
+        "Manju Pillai",
+        "Devaraj",
+        "Tis Thomas",
+        "Vrinda Menon",
+        "Bhanumathi",
+        "Anagha Narayanan",
+        "Jaffer Idukki",
+        "Divya M Nair",
+        "Nandu",
+        "Tesni Khan",
+        "Noby",
+        "Krishnaprabha",
+        "Vijay Menon",
+        "Shaju Sreedhar",
+        "Prashanth Alexander",
+        "Ajay David Kachappilly",
+        "Sooraj ES",
+        "Electronic Kili",
+        "Rajinikanth",
+        "Krishnadas Murali",
+        "Santhosh Thrivikraman",
+        "Rohit Panikker"
+      ],
+      "titles": [
+        "Neekkam",
+        "Jailer 2",
+        "Mohiniyattam"
+      ]
+    },
+    "keywords": [
+      "Suraj Venjaramoodu",
+      "Jagan Shaji Kailas",
+      "Vibin Balachandran",
+      "Neekkam",
+      "Mohiniyattam"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/surajvenjaramooduteamsupwithjaganshajikailasfornewmalayalamfilmso1793781894.jpg",
+        "caption": "Suraj Venjaramoodu Announces New Malayalam Film Directed By Jagan Shaji Kailas",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T15:06:14+05:30"
   }
 };

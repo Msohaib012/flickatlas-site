@@ -25021,5 +25021,727 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 104,
     "providers": []
+  },
+  "1767102": {
+    "id": 1767102,
+    "type": "movie",
+    "title": "Jean Gabin - La guerre, c'est pas du cinéma !",
+    "poster_path": "/hJoMn8NKJ847ZKrF1OtGvvyplCA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.0376,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1752792": {
+    "id": 1752792,
+    "type": "movie",
+    "title": "Fox",
+    "poster_path": "/bG9oG2DUD6FWQe3WMNmWCUR6wf4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An off-hand confession about ‘helping a fox’ turns a tipsy date night into a claustrophobic reckoning of mercy, reason, and the terrifying impossibility of knowing another person.",
+    "industry": "world",
+    "popularity": 0.2156,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1165369": {
+    "id": 1165369,
+    "type": "movie",
+    "title": "De Gaulle: Liberté",
+    "poster_path": "/297x0HIqSCp19pN9wlduK9PONRv.jpg",
+    "backdrop_path": "/gU93hJIAVsx088tBVumH3Z0jPVM.jpg",
+    "vote_average": 7.8,
+    "vote_count": 224,
+    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+    "industry": "world",
+    "popularity": 20.2878,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": {
+      "key": "J6MRNchmZkY",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 25000000,
+    "revenue": 13764497,
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "BE",
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "certification": "NR",
+    "release_date": "2026-06-26",
+    "date_kind": "release",
+    "runtime": 159,
+    "providers": []
+  },
+  "300146": {
+    "id": 300146,
+    "type": "tv",
+    "title": "Where the Mask Ends",
+    "poster_path": "/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+    "backdrop_path": "/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "vote_average": 7.0,
+    "vote_count": 10,
+    "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+    "industry": "world",
+    "popularity": 89.2636,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": {
+      "key": "Q5vhvNyFph4",
+      "name": "#WhereTheMaskEnds If everything were laid bare, could one bold move turn the tables on them all?🔥🔥",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "NC16",
+    "first_air_date": "2026-10-16",
+    "networks": [
+      "CCTV-8",
+      "Youku"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 30,
+    "channel": "CCTV-8",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 4,
+        "air_date": "",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 30,
+        "air_date": "2026-10-16",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "259909": {
+    "id": 259909,
+    "type": "tv",
+    "title": "Dexter: Resurrection",
+    "poster_path": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdrop_path": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "vote_average": 8.548,
+    "vote_count": 727,
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "industry": "world",
+    "popularity": 123.0986,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "84o1Q6fB20k",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "Back and sharper than ever.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2025-07-13",
+    "networks": [
+      "Paramount+ with Showtime"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 20,
+    "channel": "Paramount+ with Showtime",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 3,
+        "air_date": "2026-02-17",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2025-07-13",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 10,
+        "air_date": "2026-11-01",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Clyde Phillips"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "248830": {
+    "id": 248830,
+    "type": "tv",
+    "title": "Stick",
+    "poster_path": "/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+    "backdrop_path": "/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
+    "vote_average": 7.3,
+    "vote_count": 141,
+    "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+    "industry": "world",
+    "popularity": 21.658,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "72oB_zVF_6o",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "Take another swing.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2025-06-03",
+    "networks": [
+      "Apple TV"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 20,
+    "channel": "Apple TV",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2025-06-03",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 10,
+        "air_date": "2026-11-03",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Jason Keller"
+    ],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "247718": {
+    "id": 247718,
+    "type": "tv",
+    "title": "MobLand",
+    "poster_path": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdrop_path": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "vote_average": 8.619,
+    "vote_count": 1165,
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "industry": "world",
+    "popularity": 327.6269,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "trailer": {
+      "key": "qKGgw7Ob5f4",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "Chaos reigns.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "af",
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2025-03-30",
+    "networks": [
+      "Paramount+",
+      "Paramount+"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 20,
+    "channel": "Paramount+",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 10,
+        "air_date": "2025-03-30",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 10,
+        "air_date": "2026-09-18",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Ronan Bennett"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "196322": {
+    "id": 196322,
+    "type": "tv",
+    "title": "Dark Matter",
+    "poster_path": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+    "backdrop_path": "/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+    "vote_average": 7.825,
+    "vote_count": 861,
+    "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+    "industry": "world",
+    "popularity": 70.0116,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "g8p9o-qAdKQ",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "tagline": "There's no world like home.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2024-05-07",
+    "networks": [
+      "Apple TV"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 19,
+    "channel": "Apple TV",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 9,
+        "air_date": "2024-05-07",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 10,
+        "air_date": "2026-08-27",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Blake Crouch"
+    ],
+    "providers": [
+      {
+        "name": "Apple TV",
+        "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Apple TV Amazon Channel",
+        "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1799967": {
+    "id": 1799967,
+    "type": "movie",
+    "title": "Jeet Ki Zid",
+    "poster_path": "/8siA1TnwWHyGvZo4AeC0uPklB5u.jpg",
+    "backdrop_path": "/xalEPu8qmzfeMyJNR7ANoSpNsJ6.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Major Deep Singh loses his ability to walk after he gets injured during the Kargil war. Will he also lose his mind and his spirit? Or will he rise again?",
+    "industry": "bollywood",
+    "popularity": 0.9373,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "NJrVTX9snsQ",
+      "name": "Jeet Ki Zid | Official Trailer | Hindi ZEE5 Original Movie | Amit S, Amrita P, Sushant S | Watch Now",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 130,
+    "providers": []
+  },
+  "339072": {
+    "id": 339072,
+    "type": "tv",
+    "title": "Indian Idol: Legends Return",
+    "poster_path": "/zZeQd6Jrt4WzNwIJtHxi9xRMb8n.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Twenty-four memorable voices from across Indian Idol’s history return to the stage for a new challenge. Competing as 12 duos, former contestants reunite to showcase their talent and compete in Indian Idol: Legends Return.",
+    "industry": "bollywood",
+    "popularity": 1.4014,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-17",
+    "networks": [
+      "SonyLIV"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 2,
+    "channel": "SonyLIV",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 2,
+        "air_date": "2026-10-17",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "339010": {
+    "id": 339010,
+    "type": "tv",
+    "title": "Madam Inspector",
+    "poster_path": "/u0jPkIWFTO3D51h44gXkOz6H5PK.jpg",
+    "backdrop_path": "/ir3psM2BKntiO3ShYsJQKvpuKN5.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "When brides preparing to remarry begin dying in eerily similar ways, Inspector Chitra races to find the hidden link connecting their deaths.",
+    "industry": "bollywood",
+    "popularity": 10.2746,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "first_air_date": "2026-10-17",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 7,
+    "channel": "Netflix",
+    "episode_run_time": [
+      23
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 0,
+        "air_date": "",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 7,
+        "air_date": "2026-10-17",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1787082": {
+    "id": 1787082,
+    "type": "movie",
+    "title": "Poniiy",
+    "poster_path": "/b7q35IfsMqW5K85pM9C98I4MOYW.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young local girl's family cares for a dog named Poniiy, whose true owner, a kind-hearted man, has mysteriously gone missing. Determined to reunite them, the girl and Poniiy set out on a heartfelt journey to find him.",
+    "industry": "bollywood",
+    "popularity": 2.1609,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-04",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
   }
 };

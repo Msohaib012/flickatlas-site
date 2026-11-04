@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T18:51:55Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": {
-     "candidates": 352,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali Star Calls Vijay-Rashmika 'Unpretentious' Amid KWK Row; Feels Unfair To Judge Over TV Appearance-EXC",
-      "The Salacity (Prime Video) EXCLUSIVE! Vladimir Angelove On Why His Character Doesn't See Himself As A Villain",
-      "Hexed Box Office: How Much Does Disney’s Animated Film Need To Become 2026’s Biggest Animation Worldwide?",
-      "The Cat In The Hat Worldwide Box Office: Needs Less Than $250 Million To Become Warner Bros’ Biggest Grosser Of 2026!",
-      "Honey Singh’s nephew Divit Aulakh's funeral: Gippy Grewal, Jazzy B and more pay last respects",
-      "Eric Dane Got Candid Before His Death About Struggles on Grey’s Anatomy ‘I’m The Problem’",
-      "Everyone’s Talking About Kim Kardashian’s Corset Dress, But Can We Talk About Teyana Taylor’s Fit?",
-      "Stephen King’s 6-Part Sci-Fi on Prime Video Is So Good, You’ll Wish You Found It Sooner",
-      "Patrick Stewart’s Most Terrifying Role Officially Surges on Streaming",
-      "Godzilla Officially Gets His First-Ever LEGO Set",
-      "‘Succession’ Star’s New 112-Minute Legal Thriller Officially Removed From All 2,606 Theaters",
-      "New Mistborn Movie Officially Gets Major Kelsier and Vin Casting Update",
-      "Removed From 750 Theaters, 'Street Fighter' Officially Passes Final Box-Office Milestone",
-      "Liam Neeson’s New Action Thriller Officially Sets a Career-Worst Box Office Record",
-      "5 Greatest Rock Concept Albums of All Time, Ranked",
-      "Removed From 1,800 Theaters, Brad Pitt’s 94%-Rated Crowd-Pleaser Becomes a Global Box Office Hit",
-      "Frozen 3 Update Teases Disney Movie’s Time Jump, New Villain, & More",
-      "Mike Tyson’s Unfiltered New Special Is Now Streaming on Netflix",
-      "Batman & Superman Stars Lead New Sci-Fi Thriller Movie Now on Digital",
-      "Avengers: Doomsday & WWE Collide in Surprising Crossover Event, Details Revealed"
-     ],
-     "updated": [],
-     "count": 333,
-     "detail": "340 stories, 0 duplicates removed, 12 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-03T19:50:57Z",
     "run_id": "41707012597",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "489 stories, 1 duplicates removed, 19 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T21:51:28Z",
-    "run_id": "41725412685",
+    "run_at": "2026-11-04T20:52:02Z",
+    "run_id": "41910410726",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 424,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Skydance Shuffles Distribution Ranks as Eight Executives Depart Following Major Merger",
-      "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
-      "Pedro Pascal Discusses His Cellist Role in Upcoming Film Behemoth!",
-      "Tom Hiddleston And Hayley Atwell's 'Much Ado About Nothing' Sells Out First Broadway Week"
+      "Ramayana Worldwide Advance Booking Collection Day 1: Did Ramayana Beat Dhurandhar 2 In North America?",
+      "When I Meet The Moon Episodes 1-4 Release Time TODAY: Premiere ALERT! How To Watch The FIRST Ep For Free?",
+      "Blue Bloods’ Jamie Actor Made A Promise About His Return In The Spinoff, And I’m So Relieved",
+      "Sunrise On The Reaping’s Director And Cast Reveal Which Prequel They Want To See Next",
+      "Roseanne Barr’s Ex Co-Star Reveals Where They Stand After Her F-Bomb-Laced Rant Against Him",
+      "I've Already Lost 2 Of My 3 Favs On The Mob, And I'm So Mad",
+      "Tom Cruise Has A Personal Physician On Set. We Know This Because Of John Goodman’s Bad Injury",
+      "Sam Rockwell’s New Spy Movie Is Officially One of 2026’s Highest-Rated Thrillers",
+      "'Magic: The Gathering's First Movie Officially Gets Its Biggest Update Yet",
+      "The 10 Greatest Books Set on Mars, Ranked",
+      "Robert Downey Jr. Officially Confirms the MCU's New Doctor Doom Actor",
+      "‘The Rookie’ Season 9 Confirms a Major Return for Lucy Chen",
+      "Bass X Machina: 6 Versions of Bass Tested Henry's Range | Set Stories",
+      "'Black Doves' Recap: What To Remember Before Netflix's Best Spy Thriller Returns",
+      "Jennifer Tilly & Dennis Quaid’s New Christmas Movie Gets Brutal Reviews: ‘Created by a Machine’",
+      "Gillian Anderson & Rebecca Hall Cast in Seductive Thriller Movie Like Verity",
+      "A Proud Family Wizmas Trailer Previews Beloved Disney Show’s Surprising Return",
+      "Inde Navarrette’s Unexpected Link to a Heated Rivalry Star Raises Eyebrows",
+      "Alfonso Cuarón’s Horror TV Show With T’Nia Miller Gets Casting Update as 3 Big Stars Join Show",
+      "Moana Star’s Huge Netflix TV Show Like Heated Rivalry Scores Great Filming Update"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 359,
+     "detail": "372 stories, 1 duplicates removed, 52 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1475,27 +1452,32 @@
      "detail": "+0 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-04T20:52:49Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
+      "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
+      "When I Meet The Moon Episodes 1-4 Release Timings, Platforms, and Streaming Details Revealed",
+      "Suraj Venjaramoodu Announces New Malayalam Film Directed By Jagan Shaji Kailas"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-03T20:52:41Z",
-    "run_id": "41716265648",
-    "status": "success",
-    "checked": {
-     "candidates": 190,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 186, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1909,30 +1891,27 @@
      "detail": "now 187, coming 3"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-04T20:52:49Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": {
+     "candidates": 197,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 194, coming 3"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-03T21:52:42Z",
-    "run_id": "41725412685",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1ljhr28",
-      "bke5yy",
-      "ged0uq"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2374,27 +2353,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T21:52:39Z",
-    "run_id": "41725412685",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-04T21:01:54Z",
+    "run_id": "41910410726",
     "status": "success",
     "checked": {
-     "candidates": 464,
-     "detail": "463 collected staging rows from readers; 175 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 8,
-     "detail": "+0 new rows, 8 updated rows, 455 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2808,19 +2786,27 @@
      "detail": "+8 new rows, 12 updated rows, 489 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T21:01:41Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": {
+     "candidates": 519,
+     "detail": "518 collected staging rows from readers; 185 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 161,
+     "detail": "+0 new rows, 161 updated rows, 357 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3057,32 +3043,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-03T22:53:47Z",
-    "run_id": "41734252000",
-    "status": "success",
-    "checked": {
-     "candidates": 544,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Spain's Oscar Entry 'La Bola Negra' Dominates Box Office With Impressive Global Numbers",
-      "DC Studios Officially Casts Mason Thames As Robin in Upcoming Animated Film",
-      "Five Memorable Films That Abandoned Studio Sets for Authentic Real-World Locations",
-      "Jury Begins Deliberating in Russell Brand Trial as Judge Mandates Unanimous Verdict"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 544 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3602,19 +3575,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-04T21:01:54Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
+      "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
+      "When I Meet The Moon Episodes 1-4 Release Timings, Platforms, and Streaming Details Revealed",
+      "Suraj Venjaramoodu Announces New Malayalam Film Directed By Jagan Shaji Kailas"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3877,64 +3863,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T18:52:23Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": {
-     "candidates": 516,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 37,
-      "pk_movies": 19
-     },
-     "picked": 20,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "The Taste of Democracy (1798047)",
-      "Red Crown (1757700)",
-      "Next Stop Paneriai (1797895)",
-      "The Teenage Vampire (1783268)",
-      "She Looks Like Latte (1797488)",
-      "Second Season (1804239)",
-      "Irreparable (1796915)",
-      "The Lost Ones (1635771)",
-      "A Gentle Apocalypse (1796080)",
-      "Gloryland (1767773)",
-      "Dialling... (1794501)",
-      "Kordell Stewart / Slash & Burn (1797392)",
-      "Sonora (1790464)",
-      "First, Do No Harm (1788052)",
-      "Executioners (1777957)",
-      "The Hunger Games: Sunrise on the Reaping (1300968)",
-      "Beware Boiúna (1244523)",
-      "Primetime (1375441)",
-      "Phony (275139)"
-     ],
-     "updated": [],
-     "count": 19
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4210,31 +4151,57 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-03T18:52:57Z",
-    "run_id": "41697628930",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T20:52:24Z",
+    "run_id": "41910410726",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 333 still unprocessed; today by category: movies 12/6, tv_dramas 11/4, episodes 2/2, box_office 18/6, celebrities_events 14/5, upcoming_releases 5/4, ott_streaming 6/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 1/2"
+     "candidates": 514,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 35,
+      "pk_movies": 19
+     },
+     "picked": 12,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Hexed Box Office Target: What Disney’s New Animated Film Needs to Surpass 2026’s Biggest Hit",
-      "Liam Neeson's Action Flick The Mongoose Sets Unwanted Career Low at Box Office",
-      "The Cat In The Hat Worldwide Box Office Targets Less Than $250 Million To Surpass Wuthering Heights",
-      "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep"
+      "Jean Gabin - La guerre, c'est pas du cinéma ! (1767102)",
+      "Fox (1752792)",
+      "De Gaulle: Liberté (1165369)",
+      "Where the Mask Ends (300146)",
+      "Dexter: Resurrection (259909)",
+      "Stick (248830)",
+      "MobLand (247718)",
+      "Dark Matter (196322)",
+      "Jeet Ki Zid (1799967)",
+      "Indian Idol: Legends Return (339072)",
+      "Madam Inspector (339010)",
+      "Poniiy (1787082)"
      ],
      "updated": [],
-     "count": 4
+     "count": 12
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4740,26 +4707,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-04T20:52:49Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 359 still unprocessed; today by category: movies 15/6, tv_dramas 7/4, episodes 2/2, box_office 16/6, celebrities_events 13/5, upcoming_releases 10/4, ott_streaming 5/4, trailers 5/3, awards 2/2, music_ost 3/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
+      "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
+      "When I Meet The Moon Episodes 1-4 Release Timings, Platforms, and Streaming Details Revealed",
+      "Suraj Venjaramoodu Announces New Malayalam Film Directed By Jagan Shaji Kailas"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-03T18:54:05Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": {
-     "candidates": 33,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5066,24 +5038,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 406,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5428,24 +5395,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 420,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5780,24 +5747,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 54,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6042,19 +6009,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 57,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6289,19 +6261,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6574,19 +6546,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6827,19 +6799,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7069,19 +7041,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7330,6 +7302,16 @@
     "category": "Trending News",
     "run_at": "2026-11-04T17:51:39Z",
     "run_id": "41871538629",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7750,21 +7732,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 49,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-03T20:45:17Z",
     "run_id": "41707012597",
     "status": "skipped",
@@ -7996,24 +7963,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T18:55:17Z",
-    "run_id": "41697628930",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 5780,
+     "count": 20,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8258,8 +8225,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-04T21:02:04Z",
+    "run_id": "41910410726",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9174,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-04T20:19:16Z"
+ "updated_at": "2026-11-04T21:02:04Z"
 }

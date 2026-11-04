@@ -521,6 +521,18 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-10-17",
+      "date_kind": "release",
+      "id": 339010,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-10-16",
       "date_kind": "digital",
       "id": 1561726,
@@ -535,6 +547,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-10-16",
+      "date_kind": "release",
+      "id": 300146,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-10-15",
@@ -2157,6 +2181,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2025-07-13",
+      "date_kind": "release",
+      "id": 259909,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2025-07-09",
       "date_kind": "release",
       "id": 1061474,
@@ -2223,6 +2263,22 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2025-06-03",
+      "date_kind": "release",
+      "id": 248830,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2025-05-01",
@@ -2311,6 +2367,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2025-03-30",
+      "date_kind": "release",
+      "id": 247718,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2025-03-30",
@@ -2467,6 +2535,22 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2024-05-07",
+      "date_kind": "release",
+      "id": 196322,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2023-10-27",
