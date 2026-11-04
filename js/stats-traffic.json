@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-03T23:44:39Z",
+  "generated": "2026-11-04T00:57:15Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 2,
-    "pageviews": 6,
-    "sessions": 2,
-    "avg_session_seconds": 63.5
+    "users": 6,
+    "pageviews": 23,
+    "sessions": 8,
+    "avg_session_seconds": 133.1
   },
   "last7": {
-    "users": 177,
-    "pageviews": 660,
-    "sessions": 249,
-    "avg_session_seconds": 170.0
+    "users": 180,
+    "pageviews": 677,
+    "sessions": 255,
+    "avg_session_seconds": 169.6
   },
   "top_pages": [
     {
@@ -26,20 +26,26 @@
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 127,
-      "avg_time_seconds": 239.5
+      "views": 132,
+      "avg_time_seconds": 236.2
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 18,
-      "avg_time_seconds": 55.8
+      "views": 19,
+      "avg_time_seconds": 49.0
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 61.5
+      "views": 18,
+      "avg_time_seconds": 58.1
+    },
+    {
+      "path": "/box-office",
+      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "views": 12,
+      "avg_time_seconds": 44.5
     },
     {
       "path": "/movie",
@@ -48,10 +54,10 @@
       "avg_time_seconds": 20.9
     },
     {
-      "path": "/box-office",
-      "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
       "views": 11,
-      "avg_time_seconds": 49.5
+      "avg_time_seconds": 15.6
     },
     {
       "path": "/show",
@@ -70,26 +76,20 @@
       "title": "Tum Mere Ho (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
       "views": 9,
       "avg_time_seconds": 117.9
-    },
-    {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 9,
-      "avg_time_seconds": 12.2
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 127,
-      "users": 86
+      "sessions": 131,
+      "users": 87
     },
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 117,
-      "users": 90
+      "sessions": 119,
+      "users": 92
     },
     {
       "source": "search.google.com",
@@ -113,7 +113,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 79
+      "users": 80
     },
     {
       "country": "India",
@@ -132,15 +132,15 @@
       "users": 3
     },
     {
+      "country": "Egypt",
+      "users": 3
+    },
+    {
       "country": "Australia",
       "users": 2
     },
     {
       "country": "Brazil",
-      "users": 2
-    },
-    {
-      "country": "Egypt",
       "users": 2
     },
     {
@@ -155,11 +155,11 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 89
+      "users": 91
     },
     {
       "device": "mobile",
-      "users": 84
+      "users": 85
     },
     {
       "device": "tablet",

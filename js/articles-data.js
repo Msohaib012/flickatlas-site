@@ -50543,5 +50543,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 22:45:38 GMT"
+  },
+  "a31zo5": {
+    "id": "a31zo5",
+    "type": "news",
+    "headline": "‘Ramayana: Rise of a Legend’ Nears Rs 100 Crore in Advance Bookings Ahead of November 5 Release",
+    "dek": "Ranbir Kapoor, Sai Pallavi and Yash star in the upcoming epic that is setting new box office trends prior to its theatrical debut.",
+    "body": [
+      {
+        "h": "Historic Advance Booking Momentum",
+        "p": [
+          "The highly anticipated cinematic epic 'Ramayana: Rise of a Legend' is witnessing unprecedented momentum at the ticket counters ahead of its grand theatrical premiere. Featuring an ensemble cast that includes Ranbir Kapoor, Sai Pallavi, and Yash, the film is hurtling toward the Rs 100 crore milestone in advance sales alone across multiple show dates.",
+          "According to tracking data from Sacnilk, total pre-sales have reached an estimated Rs 93.59 crore, settling at Rs 74.69 crore when removing blocked seats. This exceptional early demand defies traditional industry patterns, which often view the days leading up to major festive periods as challenging for large-scale movie releases."
+        ]
+      },
+      {
+        "h": "Day-Wise Pre-Sales Breakdown",
+        "p": [
+          "Opening day on Thursday, November 5, leads the charge with an impressive advance gross of Rs 38.27 crore, which translates to Rs 32.41 crore without blocked seats. Weekend ticket sales continue to remain strong, registering Rs 17.40 crore for Friday and Rs 19.48 crore for Saturday.",
+          "Interestingly, collections for the actual Diwali holidays on Sunday and Monday are currently tracking lower than the opening days across the six recorded dates. Sunday stands at Rs 13.20 crore, while Monday brings in Rs 5.25 crore in early bookings. The film's schedule was previously shifted from a November 8 Diwali release to the current November 5 premiere date."
+        ]
+      },
+      {
+        "h": "Premium Formats and 3D Dominance",
+        "p": [
+          "Specialized viewing options are proving to be a massive draw for moviegoers, contributing a notable share of the opening day metrics. Premium formats pulled in Rs 5.60 crore from just 390 screenings, accounting for roughly 15 percent of the opening day gross despite making up only 2 percent of total shows.",
+          "Format preferences also reveal a strong leaning toward immersive viewing experiences among audiences. Standard 3D screenings have vastly outperformed traditional 2D shows, generating Rs 22.78 crore in comparison to the Rs 9.68 crore recorded by standard 2D formats."
+        ]
+      },
+      {
+        "h": "Language Preferences and Regional Trends",
+        "p": [
+          "Language-wise distributions show that the original Hindi version is dominating the pre-sales market, capturing 77 percent of the Day 1 gross. The Hindi edition alone amassed Rs 29.32 crore across 19,463 shows, buoyed by critical recommendations favoring the original cut over dubbed variations.",
+          "Geographically, Karnataka emerges as the top-performing state for the opening day with Rs 6.86 crore in advance sales. Maharashtra follows closely behind with Rs 6.41 crore, and Delhi records a solid contribution of Rs 4.69 crore."
+        ]
+      },
+      {
+        "h": "International Market Response",
+        "p": [
+          "Beyond domestic borders, the cinematic project is generating substantial excitement in international territories. Reports from Films Discourse indicate that overseas advance bookings have surpassed USD 5.65 million across all scheduled screening dates.",
+          "North American markets, encompassing the United States and Canada, are spearheading the global box office momentum with USD 4.24 million in recorded advance ticket sales."
+        ]
+      },
+      {
+        "h": "Global Scheduling Adjustments",
+        "p": [
+          "The sheer scale of the film's theatrical footprint has caused scheduling shifts for competing titles in the region. The movie 'Godzilla Minus Zero' chose to postpone its Indian theatrical debut from November 6 to November 20 to sidestep a direct box office confrontation.",
+          "Directed by Takashi Yamazaki, the monster film opens in Japan on November 3 and North America on November 6, whereas Indian viewers will await a later date, granting 'Ramayana' an exclusive two-week exhibition window in the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming release 'Ramayana: Rise of a Legend' starring Ranbir Kapoor, Sai Pallavi, and Yash is nearing the Rs 100 crore mark in advance bookings ahead of its November 5 premiere. Strong ticket sales across premium formats, the Hindi language version, and international markets highlight a major commercial start while prompting strategic release delays from competing international titles."
+        ]
+      }
+    ],
+    "facts": [
+      "The film 'Ramayana: Rise of a Legend' features Ranbir Kapoor, Sai Pallavi, and Yash.",
+      "The theatrical release date is Thursday, November 5, 2026.",
+      "Total advance bookings reached an estimated Rs 93.59 crore, or Rs 74.69 crore excluding blocked seats.",
+      "Day 1 advance collection is Rs 38.27 crore.",
+      "Friday advance collection is Rs 17.40 crore.",
+      "Saturday advance collection is Rs 19.48 crore.",
+      "Sunday advance collection is Rs 13.20 crore.",
+      "Monday advance collection is Rs 5.25 crore.",
+      "Premium formats contributed Rs 5.60 crore from 390 shows.",
+      "The original Hindi version collected Rs 29.32 crore from 19,463 shows.",
+      "3D shows recorded Rs 22.78 crore while standard 2D shows recorded Rs 9.68 crore.",
+      "Karnataka led state-wise advance bookings with Rs 6.86 crore, followed by Maharashtra with Rs 6.41 crore and Delhi with Rs 4.69 crore.",
+      "Overseas advance bookings stood at USD 5.65 million.",
+      "North America advance sales reached USD 4.24 million.",
+      "Godzilla Minus Zero postponed its Indian release from November 6 to November 20.",
+      "Godzilla Minus Zero is directed by Takashi Yamazaki."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Takashi Yamazaki"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking report",
+      "Ramayana Rise of a Legend box office",
+      "Ranbir Kapoor Sai Pallavi Yash film",
+      "Godzilla Minus Zero India release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135516462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Ramayana: Rise of a Legend’ Nears Rs 100 Crore in Advance Bookings Ahead of November 5 Release",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T05:13:04+05:30"
+  },
+  "1f0y20s": {
+    "id": "1f0y20s",
+    "type": "news",
+    "headline": "All's Fair Season 2 Cast Revealed: Returning Stars, New Regulars, and Guest Additions",
+    "dek": "Hulu's legal drama All's Fair returns for season two with seven returning actors, one new series regular, and seventeen guest stars.",
+    "body": [
+      {
+        "h": "The Return of All's Fair",
+        "p": [
+          "The popular legal drama series is officially making its comeback on Hulu this week for its second season. Despite receiving negative reviews during its initial run, the program managed to secure its place as the largest scripted premiere on the streaming platform within a three-year span.",
+          "The narrative follows the brilliant attorneys at the firm Grant, Ronson Greene as they navigate intense breakups, high-profile scandals, and intricate courtroom battles where wealth dictates the rules."
+        ]
+      },
+      {
+        "h": "Season Two Plot and Conflicts",
+        "p": [
+          "As the legal team steps back into the spotlight for the second installment, audiences can expect more dramatic secrets and high-stakes tension. Friendships will undergo severe stress while new alliances emerge among the staff.",
+          "A surprising revelation poses a direct threat to the survival of the firm itself, forcing the characters to adapt quickly to changing circumstances both inside and outside the courtroom."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Details",
+        "p": [
+          "Fans eager to watch the new episodes can tune in starting November 4th at midnight ET or 9 pm PT. The platform will drop the first three episodes simultaneously.",
+          "Following the initial premiere, subsequent episodes will become available on a weekly basis every Wednesday on Hulu as well as Disney+ for subscribers who have the bundle."
+        ]
+      },
+      {
+        "h": "Returning Cast Members",
+        "p": [
+          "The upcoming season brings back a large portion of the original ensemble to reprise their roles at the firm. Exactly seven core stars have been confirmed to return for the new episodes.",
+          "These familiar faces will continue to anchor the legal drama as the narrative delves deeper into their personal and professional lives."
+        ]
+      },
+      {
+        "h": "New Series Regular and Guest Stars",
+        "p": [
+          "In addition to the returning performers, the production has added a brand new series regular to the main lineup for the second season.",
+          "The ensemble is also expanding significantly with the introduction of seventeen new guest stars, which notably includes drag queens from RuPaul's Drag Race."
+        ]
+      },
+      {
+        "h": "Background and Context",
+        "p": [
+          "The legal drama established itself as a major viewing event on Hulu despite the critical reception it faced upon launch. The combination of high-fashion elements and legal maneuvering struck a chord with streaming audiences.",
+          "The show centers on a world where emotional bonds serve as battlegrounds and financial power rules every transaction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "All's Fair is returning to Hulu for season two on November 4th with its first three episodes, following its success as the streamer's biggest scripted premiere in three years. The upcoming season features seven returning stars, one new series regular, and seventeen guest stars including RuPaul's Drag Race alumni."
+        ]
+      }
+    ],
+    "facts": [
+      "All's Fair season two debuts on November 4th at midnight ET / 9 pm PT",
+      "The first three episodes will premiere on Hulu and Disney+ for bundle subscribers",
+      "New episodes will air weekly on Wednesdays",
+      "7 stars are confirmed to return for season two",
+      "1 new series regular is added",
+      "17 guest stars join the cast, including RuPaul's Drag Race drag queens",
+      "The show is a Hulu legal drama featuring the firm Grant, Ronson Greene",
+      "Season one was the biggest scripted premiere on Hulu in three years"
+    ],
+    "entities": {
+      "people": [
+        "RuPaul"
+      ],
+      "titles": [
+        "All's Fair",
+        "RuPaul's Drag Race"
+      ]
+    },
+    "keywords": [
+      "All's Fair season two",
+      "All's Fair cast Hulu",
+      "Grant Ronson Greene legal drama",
+      "All's Fair release date November 4"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/alls-fair-cast.jpg",
+        "caption": "All's Fair Season 2 Cast Revealed: Returning Stars, New Regulars, and Guest Additions",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 00:33:07 +0000"
+  },
+  "vfq7c9": {
+    "id": "vfq7c9",
+    "type": "news",
+    "headline": "'Jailer 2' Box Office Day 20: Rajinikanth Starrer Crosses Rs 816 Crore Worldwide",
+    "dek": "Rajinikanth's action entertainer 'Jailer 2' continues its strong theatrical run on Day 20, drawing closer to Vijay's 'The Greatest of All Time' benchmark in Tamil Nadu.",
+    "body": [
+      {
+        "h": "Global Box Office Update",
+        "p": [
+          "The theatrical journey of the action entertainer continues to advance steadily across multiple regions. Industry trackers report that the Rajinikanth starrer has pulled in substantial earnings globally, crossing a massive milestone.",
+          "With contributions from domestic and international markets combined, the film's cumulative worldwide gross has now reached an impressive total figure."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Screen Count",
+        "p": [
+          "On its twentieth day in theatres, the movie generated steady net collections domestically from thousands of screenings nationwide. The cumulative domestic net earnings continue to climb alongside strong gross totals.",
+          "Show counts remained extensive across different regions, though daily domestic net earnings experienced a slight dip compared to the figures recorded on the preceding day."
+        ]
+      },
+      {
+        "h": "Chasing the State Record",
+        "p": [
+          "A major focal point of the current box office run is the film's performance within Tamil Nadu. The project is nearing the local benchmark set by Vijay's prominent feature.",
+          "The regional earnings in the home state form the bulk of the domestic collection, needing only a small margin more to overtake the existing state milestone."
+        ]
+      },
+      {
+        "h": "Multilingual Performance Breakdown",
+        "p": [
+          "The Tamil version remained the primary driver of ticket sales, supplemented by strong contributions from Hindi, Telugu, and Kannada screenings.",
+          "While the Hindi version pulled in notable numbers through thousands of shows, the southern language markets maintained consistent viewer turnouts throughout the week."
+        ]
+      },
+      {
+        "h": "Weekly Trends and Weekend Recovery",
+        "p": [
+          "Following a massive opening week and a subsequent drop during the second week, the film experienced a significant resurgence during its third weekend in cinemas.",
+          "Gross earnings nearly doubled between Friday and Sunday of that weekend, offering a welcome boost to the domestic box office trajectory."
+        ]
+      },
+      {
+        "h": "Audience Occupancy and Plot Background",
+        "p": [
+          "The project registered healthy theatre occupancy rates across various regions, with night shows generally drawing the highest percentage of viewers in both Tamil and Hindi screenings.",
+          "Helmed by director Nelson Dilipkumar, the narrative centers on Tiger Muthuvel Pandian, a retired jailer brought to life by the lead actor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's 'Jailer 2' has reached Rs 816.90 crore worldwide on Day 20, coming close to Vijay's 'The Greatest of All Time' record in Tamil Nadu.",
+          "The film continues to perform well across multiple language versions despite a minor slowdown in daily domestic net earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected Rs 3.35 crore in India net collections on Day 20.",
+      "The cumulative domestic net earnings have reached Rs 463.05 crore.",
+      "The film earned an additional Rs 1 crore from overseas markets on Tuesday.",
+      "International gross collection stands at Rs 275.25 crore.",
+      "Worldwide box office collection has accumulated to Rs 816.90 crore.",
+      "Jailer 2 needs another Rs 6.80 crore to overtake Vijay's The Greatest of All Time in Tamil Nadu.",
+      "The Tamil version earned Rs 1.93 crore from 3,624 shows on Day 20.",
+      "The Hindi version collected Rs 80 lakh through 3,420 shows.",
+      "The Telugu and Kannada versions added Rs 45 lakh and Rs 17 lakh respectively.",
+      "Directed by Nelson Dilipkumar."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Vijay",
+        "Nelson Dilipkumar"
+      ],
+      "titles": [
+        "Jailer 2",
+        "The Greatest of All Time"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 Day 20",
+      "Jailer 2 vs The Greatest of All Time"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135516739,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Jailer 2' Box Office Day 20: Rajinikanth Starrer Crosses Rs 816 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T05:37:42+05:30"
+  },
+  "bh170p": {
+    "id": "bh170p",
+    "type": "news",
+    "headline": "Blackpink Star Jisoo to Write and Perform Original Song for The Angry Birds Movie 3",
+    "dek": "The K-pop sensation has co-written an original track titled 'Sun Showers' for the upcoming animated holiday release from Paramount Pictures.",
+    "body": [
+      {
+        "h": "Major Musical Contribution",
+        "p": [
+          "Blackpink member Jisoo is officially joining the musical landscape of the upcoming animated sequel The Angry Birds Movie 3. In an exclusive revelation, it has been confirmed that the celebrated K-pop artist will lend her distinct vocals and creative vision to the film's official soundtrack.",
+          "The singer has co-authored an original track specifically for the movie, titled 'Sun Showers'. Fans can expect to hear the upbeat composition featured prominently within the motion picture itself as well as in its upcoming promotional trailer."
+        ]
+      },
+      {
+        "h": "Personal Touch and Artwork",
+        "p": [
+          "A particularly special element of this musical collaboration involves the single's official album artwork. The cover features 'Shumon', an endearing little dustball character that Jisoo originally sketched during her middle school years long before her rise to global stardom.",
+          "Expressing her deep connection to the project, the performer noted that watching her childhood drawing come to life for a major motion picture project is an immensely meaningful milestone in her creative journey."
+        ]
+      },
+      {
+        "h": "Artist Statement and Inspiration",
+        "p": [
+          "Reflecting on her involvement, Jisoo shared her excitement about joining the beloved animated franchise. She praised the series for its vibrant visual style, clever humor, and strong emotional core.",
+          "With 'Sun Showers', the singer aimed to mirror the cheerful and bright atmosphere of the movie. She crafted a feel-good tune designed to inspire audiences to smile and dance, expressing her eagerness for viewers to experience it during the holiday season."
+        ]
+      },
+      {
+        "h": "Release Details and Plot Synopsis",
+        "p": [
+          "Distributed by Paramount Pictures, The Angry Birds Movie 3 is scheduled to hit theaters on December 23. The film is positioned as a major holiday family release.",
+          "According to the official logline, the storyline centers on a familiar angry bird facing his ultimate test yet. The narrative combines the challenge of navigating fatherhood with the high stakes of saving the world."
+        ]
+      },
+      {
+        "h": "Star-Studded Voice Cast",
+        "p": [
+          "The upcoming animated feature boasts a massive ensemble voice cast featuring returning and new talent. Confirmed actors include Jason Sudeikis, Josh Gad, Emma Myers, Rachel Bloom, Walker Scobell, Danny McBride, and Marcello Hernández.",
+          "Additional cast members feature Tim Robinson, Anna Cathcart, Maitreyi Ramakrishnan, Nikki Glaser, MrBeast, Salish Matter, Psalm West, Sam Richardson, James Austin Johnson, Lily James, and Keke Palmer."
+        ]
+      },
+      {
+        "h": "Production and Direction Team",
+        "p": [
+          "Behind the scenes, the project is steered by a seasoned group of filmmakers and creators. John Rice directs the animated feature based on a screenplay penned by Thurop Van Orman.",
+          "The production team includes John Cohen, Dan Chuba, Carla Connor, and Namit Malhotra. Meanwhile, executive producers consist of Louis Koo, Toru Nakahara, Ben Mattes, Hanna Valkeapää-Nokkala, Crosby Clyse, Chris Pflug, Simon Hedges, Christopher Milburn, Jamey Heath, Paul Kang, Geneva Wasserman, and Cathy Boxall."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Blackpink member Jisoo has co-written an original song titled 'Sun Showers' for the upcoming animated sequel The Angry Birds Movie 3. The holiday film, distributed by Paramount Pictures and featuring a star-studded cast, is slated for release on December 23."
+        ]
+      }
+    ],
+    "facts": [
+      "Jisoo is a member of the K-pop supergroup Blackpink.",
+      "The song co-written by Jisoo is titled 'Sun Showers'.",
+      "The album artwork for the song features a character named 'Shumon'.",
+      "Paramount Pictures is releasing The Angry Birds Movie 3 on December 23, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jisoo",
+        "Shumon",
+        "Jason Sudeikis",
+        "Josh Gad",
+        "Emma Myers",
+        "Rachel Bloom",
+        "Walker Scobell",
+        "Danny McBride",
+        "Marcello Hernández",
+        "Tim Robinson",
+        "Anna Cathcart",
+        "Maitreyi Ramakrishnan",
+        "Nikki Glaser",
+        "MrBeast",
+        "Salish Matter",
+        "Psalm West",
+        "Sam Richardson",
+        "James Austin Johnson",
+        "Lily James",
+        "Keke Palmer",
+        "Louis Koo",
+        "Toru Nakahara",
+        "Ben Mattes",
+        "Hanna Valkeapää-Nokkala",
+        "Crosby Clyse",
+        "Chris Pflug",
+        "Simon Hedges",
+        "Christopher Milburn",
+        "Jamey Heath",
+        "Paul Kang",
+        "Geneva Wasserman",
+        "Cathy Boxall",
+        "John Cohen",
+        "Dan Chuba",
+        "Carla Connor",
+        "Namit Malhotra",
+        "John Rice",
+        "Thurop Van Orman"
+      ],
+      "titles": [
+        "The Angry Birds Movie 3"
+      ]
+    },
+    "keywords": [
+      "Jisoo Angry Birds Movie 3",
+      "Sun Showers song",
+      "The Angry Birds Movie 3 release date",
+      "Jisoo Blackpink Sun Showers"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/The-Angry-Birds-Movie-3-and-Jisoo-Split-Getty-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Blackpink Star Jisoo to Write and Perform Original Song for The Angry Birds Movie 3",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 03 Nov 2026 23:22:49 +0000"
   }
 };

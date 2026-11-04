@@ -2,19 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "BR",
-      "date": "2026-11-04",
-      "date_kind": "digital",
-      "id": 1294189,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "country": "IN",
       "date": "2026-11-05",
       "date_kind": "digital",
@@ -46,8 +33,8 @@ window.FA_OTT = {
   ],
   "now": [
     {
-      "date": "2026-11-01",
-      "date_kind": "release",
+      "date": "2026-11-02",
+      "date_kind": "digital",
       "id": 1773368,
       "providers": [
         {
