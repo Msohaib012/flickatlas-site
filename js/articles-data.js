@@ -57915,5 +57915,514 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 16:25:43 +0000"
+  },
+  "1m3llbg": {
+    "id": "1m3llbg",
+    "type": "news",
+    "headline": "Bano Episode 22 — Watch Online on Geo TV",
+    "dek": "Bano episode 22 aired on 2026-11-04 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 22 aired on 2026-11-04 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=oPA0ON1u420"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano apne ghar par akeli pareshan baith kar Shahryar ko call karti hai, aur dono ki lambi baat hoti hai jismein Shahryar apne bachpan aur past ke baare mein batata hai. Woh Bano ko lunch par jaane ke liye kehta hai, lekin Bano shuru mein mana karti hai kyunki use lagta hai ke Shahryar ko sharminda mehsoos ho sakta hai ke usne apni shaadi chhupane ke liye jhoot bola tha. Baad mein Bano tayar hokar apne bhai aur Rumesha ke sath Shahryar ke sath restaurant jaati hai, jahan sabhi khana khate hain aur khush nazar aate hain. Udhar, ek nayi aurat aakar Noman Qureshi (Bano ke father) ke baare mein poochti hai aur kehti hai ke woh Bano ke bhai se milna chahti hai. Episode ke aakhir mein Bano aur Shahryar car mein baithte hain aur Shahryar Bano se poochta hai ke woh kitne din wahan rukegi, aur Bano muskurate hue jawaab deti hai ke jitne din bhai ko uski hifazat samajhne mein lagenge."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 22 aired on 2026-11-04.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=oPA0ON1u420",
+      "YouTube views: 323,697.",
+      "Episode summary added 2026-11-04."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/oPA0ON1u420/hqdefault.jpg",
+        "caption": "Bano Episode 22",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-04T17:00:38Z"
+  },
+  "jf220k": {
+    "id": "jf220k",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 10 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 10 aired on 2026-11-04 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 10 aired on 2026-11-04 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=EgLAdtxboPY"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein shuruwat mein Sunaira aur Daniyal ki shadi ki rasmein dikhayi jaati hain. Shadi ki taqreeb mein mahman jama hain aur rasm-e-nikah ke dauran haq-mahr ki raqam par kuch behas hoti hai. Daniyal ke walid aur dusre rishtedar mahr ki raqam tay karte hain aur nikah mukammal ho jata hai, jiske baad sabhi khushi ka izhaar karte hain aur dua mangte hain. Taqreeb ke dauran ek waqia pesh ata hai jahan ek photographer ki harkat ki wajah se Daniyal aur kuch mehmonon ke darmiyan bahas aur talq-kalami ho jati hai, jisse mahol thora tense ho jata hai. Baad mein, Daniyal aur Sunaira ke ghar wale is mamle ko sambhalne ki koshish karte hain aur taqreeb khairiyat se aage barhti hai. Episode ke ek aur scene mein, Sunaira ki friend aur Daniyal ke bhai ki baatein hoti hain aur kuch aur kirdar apni gup-shup mein masroof rehte hain. Aakhir mein, ghar wapas aane ke baad jab Saman ghar par nahi milti aur uska phone band aane lagta hai, toh sabhi ko uski fikar shuru ho jati hai aur episode isi tension aur fikar ke sath ek cliffhanger par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 10 aired on 2026-11-04.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=EgLAdtxboPY",
+      "YouTube views: 5,071.",
+      "Episode summary added 2026-11-04."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/EgLAdtxboPY/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 10",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-04T17:00:21Z"
+  },
+  "2p8cd0": {
+    "id": "2p8cd0",
+    "type": "news",
+    "headline": "The Diplomat Season 4 Slips From US Netflix Top 10 Charts",
+    "dek": "After a strong run following its recent debut, Netflix's hit political thriller starring Keri Russell has dropped off the United States charts, though it continues to hold strong internationally and has already been renewed for a fifth season.",
+    "body": [
+      {
+        "h": "The End of an Era for Netflix's Political Thriller",
+        "p": [
+          "Netflix has enjoyed substantial success with political thrillers over the years, dating back to its first major original series, House of Cards. In recent times, one of the streaming platform's most prominent genre entries has been The Diplomat.",
+          "The series centers around actress Keri Russell in an intense narrative filled with unexpected twists and turns. Russell portrays Kate Wyler, stepping into the high-stakes role of the United States Ambassador to the United Kingdom."
+        ]
+      },
+      {
+        "h": "A Consistent Release Schedule and Rapid Debut",
+        "p": [
+          "The Diplomat originally premiered on Netflix on April 20, 2023. Unlike many streaming shows that face long gaps between installments, the political thriller has maintained an annual release schedule.",
+          "Season 4 of the hit series dropped all eight of its episodes at once on October 15. The latest chapter immediately surged up both domestic and international streaming charts upon release."
+        ]
+      },
+      {
+        "h": "The US Chart Exit",
+        "p": [
+          "Despite its strong initial performance, The Diplomat has now fallen off the Netflix Top 10 TV Shows chart in the United States. FlixPatrol data indicates that its final day on the domestic list was November 2, when it held the 10th position.",
+          "With the political thriller exiting the chart, other programs have taken the lead on the platform domestically. These include WWE's Raw, the documentary The One About Matthew Perry, and the romantic comedy series Nobody Wants This, starring Kristen Bell and Adam Brody."
+        ]
+      },
+      {
+        "h": "Continued International Success",
+        "p": [
+          "Even though its domestic chart run has concluded, Russell's political thriller remains a hit in various other regions. The show is currently trending in the Top 10 across 16 different countries according to FlixPatrol metrics.",
+          "Among these international territories, its highest placement is in Australia, where it reached the 6th spot. The series has also maintained popularity in nations such as the United Kingdom, Sweden, Norway, New Zealand, Ireland, and Denmark."
+        ]
+      },
+      {
+        "h": "Global Viewership Standings",
+        "p": [
+          "The series has demonstrated a solid global footprint over nearly a month of availability. Official Netflix metrics reveal that the show ranked 4th globally for the week spanning from October 26 to November 1.",
+          "This position secured the title its third consecutive week within the worldwide Top 10 rankings."
+        ]
+      },
+      {
+        "h": "A Quicker Decline Than Previous Seasons",
+        "p": [
+          "Because the fourth season debuted less than a month ago and the series remains a major title for the platform, its sudden exit from the US chart comes as a surprise. The drop arrives immediately after Netflix officially confirmed that The Diplomat season 5 is happening, demonstrating continued confidence from the streamer.",
+          "However, data shows that season 4's US chart run lasted two weeks before falling off, which is shorter than previous iterations. Season 3 spent three weeks on the US list, season 2 lasted four weeks, and the inaugural season maintained its presence for five weeks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix political thriller series The Diplomat has dropped off the United States Top 10 TV Shows chart after its fourth season debuted on October 15. Although the show has exited the domestic rankings faster than its previous three seasons, it continues to trend internationally in 16 countries and has already been renewed for a fifth season."
+        ]
+      }
+    ],
+    "facts": [
+      "The Diplomat debuted on Netflix on April 20, 2023.",
+      "The Diplomat season 4 arrived on Netflix on October 15 with eight episodes.",
+      "The Diplomat's last day on the US Top 10 chart was November 2, ranking 10th.",
+      "The series ranked 4th globally for the week of October 26 to November 1.",
+      "The Diplomat is currently trending in 16 countries, with its highest position being 6th in Australia.",
+      "Netflix has officially announced that The Diplomat season 5 is happening."
+    ],
+    "entities": {
+      "people": [
+        "Felipe Rangel",
+        "Keri Russell",
+        "Kate Wyler",
+        "Matthew Perry",
+        "Kristen Bell",
+        "Adam Brody",
+        "Hal Wyler",
+        "Alex Graves",
+        "Andrew Bernstein",
+        "Simon Cellan Jones",
+        "Tucker Gates",
+        "Debora Cahn",
+        "Anna Hagen",
+        "Julianna Meagher",
+        "Mia Chung",
+        "Peter Noah",
+        "Eli Attie"
+      ],
+      "titles": [
+        "The Diplomat",
+        "House of Cards",
+        "The Americans",
+        "WWE's Raw",
+        "The One About Matthew Perry",
+        "Nobody Wants This",
+        "Love Is Blind"
+      ]
+    },
+    "keywords": [
+      "The Diplomat Netflix",
+      "The Diplomat season 4",
+      "Keri Russell The Diplomat",
+      "The Diplomat top 10 chart"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-diplomat-kate-wyler.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Diplomat Season 4 Slips From US Netflix Top 10 Charts",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:00:18 GMT"
+  },
+  "pl7dxc": {
+    "id": "pl7dxc",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 20: Rajinikanth Film Approaches Vijay Record With Rs 816.90 Crore Worldwide",
+    "dek": "Rajinikanth's action entertainer Jailer 2 continues its box office domination, crossing the Rs 800 crore milestone and setting its sights on Thalapathy Vijay's Tamil Nadu record.",
+    "body": [
+      {
+        "h": "The Box Office Journey So Far",
+        "p": [
+          "Jailer 2 has established itself as a massive theatrical triumph, pulling in crowds and rewriting box office benchmarks. The action entertainer directed by Nelson Dilipkumar has achieved a remarkable worldwide gross collection standing at Rs 816.90 crore.",
+          "As the feature approaches its next major milestones, it continues to draw steady footfalls across multiple regions, cementing its status as one of the most successful commercial releases of the period."
+        ]
+      },
+      {
+        "h": "Day 20 Earnings and Domestic Standing",
+        "p": [
+          "On its twentieth day in theaters, the Rajinikanth starrer brought in Rs 3.35 crore in India net collections. This latest single-day addition pushes the domestic net total to an impressive Rs 463.05 crore, while the overall India gross currently sits at Rs 541.65 crore.",
+          "International markets have further bolstered the earnings, contributing Rs 1 crore on Tuesday alone and raising international gross collections to a notable Rs 275.25 crore."
+        ]
+      },
+      {
+        "h": "Chasing The GOAT Record in Tamil Nadu",
+        "p": [
+          "In the home state of Tamil Nadu, the movie has grossed Rs 210.45 crore across its first 18 days of exhibition. The action drama now requires another Rs 6.80 crore to surpass Thalapathy Vijay's The Greatest Of All Time record.",
+          "Surpassing this state benchmark would add another stellar achievement to the film's theatrical run, bringing it neck and neck with previous regional history-makers."
+        ]
+      },
+      {
+        "h": "Milestones and Regional Language Success",
+        "p": [
+          "By crossing the Rs 800 crore threshold globally, Jailer 2 has officially become the first Tamil film to achieve this monumental financial feat. Furthermore, its Kannada-dubbed version has outperformed the collection records set by Allu Arjun's Pushpa 2: The Rule.",
+          "The Tamil version remained the primary revenue driver on Day 20, bringing in Rs 1.93 crore from 3,624 shows, followed by contributions from the Hindi, Telugu, and Kannada iterations."
+        ]
+      },
+      {
+        "h": "Weekdays and Weekend Trends",
+        "p": [
+          "The daily collections experienced a minor 1.5 percent decline on Day 20 compared to the Rs 3.40 crore netted on Monday. However, the feature recently enjoyed a strong third weekend that pulled in Rs 30.70 crore in India gross.",
+          "During that weekend surge, daily gross earnings climbed from Rs 6.40 crore on Friday to Rs 11.30 crore on Saturday and peaked at Rs 13 crore on Sunday."
+        ]
+      },
+      {
+        "h": "Production Background and Cast",
+        "p": [
+          "Directed by Nelson Dilipkumar and produced by Kalanithi Maran under Sun Pictures, Jailer 2 serves as the direct sequel to the 2023 hit Jailer.",
+          "Superstar Rajinikanth leads the project, reprising his iconic role as the retired jailer Tiger Muthuvel Pandian in this high-octane action follow-up."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action entertainer Jailer 2 has reached a worldwide collection of Rs 816.90 crore, becoming the first Tamil film to cross the Rs 800 crore mark. The movie is currently closing in on Thalapathy Vijay's The Greatest Of All Time record in Tamil Nadu."
+        ]
+      }
+    ],
+    "facts": [
+      "Rajinikanth stars in Jailer 2 directed by Nelson Dilipkumar",
+      "Worldwide collection stands at Rs 816.90 crore",
+      "Day 20 India net collection is Rs 3.35 crore",
+      "Domestic net total stands at Rs 463.05 crore",
+      "India gross collection is Rs 541.65 crore",
+      "International gross earnings reached Rs 275.25 crore",
+      "Tamil Nadu gross stands at Rs 210.45 crore after 18 days",
+      "Needs Rs 6.80 crore to beat Vijay's The Greatest Of All Time record",
+      "First Tamil film to cross Rs 800 crore",
+      "Kannada-dubbed version surpassed Pushpa 2: The Rule collections",
+      "Produced by Kalanithi Maran under Sun Pictures",
+      "Sequel to the 2023 film Jailer",
+      "Rajinikanth reprises role as Tiger Muthuvel Pandian"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Thalapathy Vijay",
+        "Allu Arjun",
+        "Kalanithi Maran",
+        "Tiger Muthuvel Pandian"
+      ],
+      "titles": [
+        "Jailer 2",
+        "The Greatest Of All Time",
+        "Pushpa 2: The Rule",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 Day 20",
+      "Jailer 2 vs The GOAT record",
+      "Jailer 2 worldwide collection Rs 816 crore"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156460419,thumbsize-679765,width-1280,height-720,resizemode-75/156460419.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 20: Rajinikanth Film Approaches Vijay Record With Rs 816.90 Crore Worldwide",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T19:04:30Z"
+  },
+  "16h8uv0": {
+    "id": "16h8uv0",
+    "type": "news",
+    "headline": "Between Steps Episodes 9 and 10 Unpack Old Flames and Hidden Intentions",
+    "dek": "A time skip shakes up the dynamics in Between Steps as Min-jae returns to Seoul, confronting Yoo-jin with the real reason behind their painful breakup while Professor Lee confronts his growing jealousy.",
+    "body": [
+      {
+        "h": "A Familiar Routine and a Surprising Discovery",
+        "p": [
+          "As the story picks up following a narrative time skip, Yoo-jin remains deeply comfortable within Professor Lee's personal space, taking care of his plants and handling his apartment with ease. During a conversation about mathematics, the professor hands her a slip of paper containing Min-jae's new telephone number from the United States.",
+          "Instead of keeping the contact information, Yoo-jin angrily discards it out the window, offering a bitter curse toward her former partner. This strong reaction heavily implies that Min-jae was the one who originally chose to end their relationship, leaving deep emotional scars that have yet to heal."
+        ]
+      },
+      {
+        "h": "An Accidental Connection and Drunk Dialing",
+        "p": [
+          "A drunken Yu-seong stumbles across the discarded telephone number outside Yoo-jin's house and decides to call the foreign digit. Operating without his usual mental filters, he bumbles through the conversation before learning a critical piece of information: Min-jae has completed his post-doc and is heading back to Seoul.",
+          "Realizing the magnitude of his mistake, Yu-seong scrambles to cover his tracks and seeks help from Soo-bin to keep Yoo-jin from discovering his late-night interference. Meanwhile, the perpetual eavesdropper Se-jin overhears the plans, setting off a chain reaction of gossip across the campus."
+        ]
+      },
+      {
+        "h": "Professor Lee Gestures and Growing Affection",
+        "p": [
+          "Professor Lee struggles to keep his professional boundaries intact as his feelings for Yoo-jin continue to deepen. Returning from overseas, he quietly stores a bracelet and a set of couple rings away in his nightstand, hinting at unspoken romantic intentions.",
+          "When Professor Ahn suggests a collaborative project between departments, he easily notices how the professor's demeanor brightens at the mention of Yoo-jin. Professor Lee quickly shuts down the conversation to protect her academic reputation, well aware that office gossip could severely damage her future career."
+        ]
+      },
+      {
+        "h": "An Awkward Christmas Reunion",
+        "p": [
+          "Seeking to bring formal closure to the unresolved chapter of Yoo-jin's past, Professor Lee orchestrates a Christmas dinner and intentionally invites Min-jae to join them. Yoo-jin is caught completely off guard when she realizes her ex-boyfriend is sitting across from her at the restaurant table.",
+          "When Professor Lee steps away to take a phone call, Yoo-jin follows him outside to voice her frustration over the ambush. He urges her to face the situation head-on so she can demonstrate to Min-jae that she has moved forward with her life."
+        ]
+      },
+      {
+        "h": "The Truth Behind the Breakup",
+        "p": [
+          "Reentering the restaurant for closure, Yoo-jin finally learns why Min-jae vanished without explanation. Medical professionals had discovered a lung tumor, and rather than burdening her with his health struggles, he chose to disappear as a misguided act of self-sacrifice.",
+          "Overwhelmed by the revelation and the lingering resentment of being left behind, Yoo-jin sarcastically doubles down on a misunderstanding regarding her supposed upcoming marriage. She storms out of the establishment, leaning heavily on Professor Lee as a sudden panic attack restricts her breathing."
+        ]
+      },
+      {
+        "h": "Hospital Chapel and Knitted Gifts",
+        "p": [
+          "Professor Lee directs a taxi toward the hospital, where Yoo-jin eventually slips away to the chapel to pray for Min-jae's recovery and happiness. Finding her there, Professor Lee playfully requests a prayer for his own well-being, easing the tension of the moment.",
+          "Yoo-jin presents him with a pair of handmade yellow gloves as a token of appreciation. Although he initially backtracks on his previous claim of buying her an expensive gift to avoid crossing professional lines, his resolve proves entirely short-lived."
+        ]
+      },
+      {
+        "h": "Jealousy and a Bold Confession",
+        "p": [
+          "Back on the street near the alley where Yoo-jin and Min-jae once shared intimate moments, Professor Lee finally lets his protective mask slip. Overwhelmed by jealousy and realizing the emotional hold the ex-boyfriend still maintains, he tells her to return to Min-jae if she cannot let go.",
+          "Moments later, he reverses course, retrieves the golden bracelet he had purchased for her, and delivers a direct romantic inquiry, asking if she would say yes to a formal date. Leaving Yoo-jin utterly blindsided by the sudden confession, he walks away without waiting for an answer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episodes 9 and 10 of Between Steps explore the complicated fallout of Min-jae's return to Seoul and the medical secret that caused his past breakup with Yoo-jin. As Professor Lee grapples with his jealousy and eventually confesses his romantic feelings, campus gossip and accidental phone calls push the characters toward inevitable emotional confrontations."
+        ]
+      }
+    ],
+    "facts": [
+      "Professor Lee traveled to the United States and returned with a phone number and a bracelet.",
+      "Min-jae broke up with Yoo-jin because doctors discovered a tumor in his lung.",
+      "Yu-seong found Min-jae's discarded phone number on the ground and drunk-dialed him.",
+      "Yoo-jin knitted a pair of yellow gloves for Professor Lee."
+    ],
+    "entities": {
+      "people": [
+        "Yoo-jin",
+        "Professor Lee",
+        "Min-jae",
+        "Yu-seong",
+        "Soo-bin",
+        "Se-jin",
+        "Professor Ahn"
+      ],
+      "titles": [
+        "Between Steps"
+      ]
+    },
+    "keywords": [
+      "Between Steps episodes 9-10",
+      "Between Steps drama",
+      "Yoo-jin and Professor Lee",
+      "Min-jae return Between Steps"
+    ],
+    "images": [
+      {
+        "url": "https://dramabeans.com/wp-content/uploads/2026/11/BetweenSteps9-10_00.jpg",
+        "caption": "Between Steps Episodes 9 and 10 Unpack Old Flames and Hidden Intentions",
+        "source": "Dramabeans"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 19:00:19 +0000"
+  },
+  "1ojqw2z": {
+    "id": "1ojqw2z",
+    "type": "news",
+    "headline": "Salman Khan Steps Behind The Microphone For Maatrubhumi Track Teri Sexy Beauty Featuring Chitrangda Singh",
+    "dek": "Bollywood superstar Salman Khan returns to singing duties for a quirky romantic track titled Teri Sexy Beauty from his action-heavy film Maatrubhumi, co-starring Chitrangda Singh.",
+    "body": [
+      {
+        "h": "Salman Khan Returns As A Playback Singer",
+        "p": [
+          "Bollywood icon Salman Khan has added another musical credit to his resume by lending his voice to a brand-new track. Known for dabbling in various creative pursuits outside of acting, the superstar has stepped back into the recording booth to sing for his upcoming action drama. The actor has previously given vocals to popular tunes such as Hangover, Pyaar Karona, and Main Hoon Hero Tera.",
+          "His latest vocal contribution is a fun, romantic number titled Teri Sexy Beauty. The track serves as the primary musical offering from his much-discussed upcoming movie, generating instant online chatter and widespread curiosity among his massive fan base."
+        ]
+      },
+      {
+        "h": "Music Credits And Studio Insights",
+        "p": [
+          "The newly released single brings together notable names from the Hindi film music industry. Teri Sexy Beauty has been composed as a Himesh Reshammiya musical, featuring the combined vocals of Salman Khan and Muskaan. Meanwhile, Sajid Khan has taken charge of both the music composition and the lyric writing.",
+          "Behind-the-scenes footage shared on social media reveals the actor enjoying himself immensely inside the recording studio. The quirky lyrics include lines like, \"Teri sexy beauty ka fan ban gaya hu, mai do peg pike aeroplane ban gaya hu,\" showcasing the lighthearted and playful nature of the song."
+        ]
+      },
+      {
+        "h": "Chitrangda Singh's Glamorous Appearance",
+        "p": [
+          "Alongside Salman's vocals, the accompanying music video highlights a striking visual presentation featuring actress Chitrangda Singh. She appears in a glamorous and sultry avatar, dressed in a vibrant red saree that has caught the attention of fashion enthusiasts and moviegoers alike.",
+          "The video also includes dynamic glimpses from the film itself. Salman can be seen dancing alongside his backup dancers and the leading lady, building anticipation for how the musical sequence will unfold within the narrative framework of the feature."
+        ]
+      },
+      {
+        "h": "Social Media Buzz And Fan Reactions",
+        "p": [
+          "The track made its debut via an early morning social media announcement made directly by the superstar. Accompanying the release was a witty caption written by the actor himself, reading: \"Departure time 5:12 am…. Flight on time , 2 pegs down taking off with my sexy beauty… pata nahi kahaan mai land karoon.\"",
+          "Followers quickly flooded comment sections with enthusiastic remarks. While one user jokingly declared that professional singers should retire, others expressed sheer delight at hearing his voice again, with one fan summarizing the sentiment by noting that everyone is simply living in Salman Khan's world."
+        ]
+      },
+      {
+        "h": "Evolution and Background Of Maatrubhumi",
+        "p": [
+          "The film associated with the song has undergone several distinct changes since its initial conception. Originally announced under the working title Battle of Galwan, the project was later renamed Maatrubhumi: May War Rest In Peace. Directed by Apoorva Lakhia, the movie has seen multiple revisions to its storyline.",
+          "Following the official title reveal in March, reports indicated that the production underwent substantial reworking regarding its climax and character arc. The revised version subsequently secured a No Objection Certificate from the Ministry of Information and Broadcasting."
+        ]
+      },
+      {
+        "h": "Current Production Status And Release Timeline",
+        "p": [
+          "Maatrubhumi is presently positioned in the post-production stage as the makers continue to fine-tune the narrative and overall visual presentation. The movie was initially slated to arrive in theaters on April 17, 2026.",
+          "However, the project missed that scheduled theatrical debut window as the creative team opted to spend additional time refining the film. A finalized new release date for the actioner has not yet been announced by the producers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood superstar Salman Khan has lent his voice to the quirky new romantic track Teri Sexy Beauty from his upcoming action film Maatrubhumi, featuring Chitrangda Singh. The Himesh Reshammiya musical was released following an early morning social media announcement by the actor. Originally titled Battle of Galwan and directed by Apoorva Lakhia, the film is currently in post-production with a revised release date pending."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan turned singer for the song Teri Sexy Beauty.",
+      "The song is from the upcoming film Maatrubhumi.",
+      "Chitrangda Singh is featured in the music video.",
+      "The song was released on a Wednesday morning.",
+      "Previous songs sung by Salman Khan include Hangover, Pyaar Karona, and Main Hoon Hero Tera.",
+      "The song is a Himesh Reshammiya musical.",
+      "Muskaan is co-singer on the track with Salman Khan.",
+      "Sajid Khan composed the music and penned the lyrics.",
+      "The film was originally announced as Battle of Galwan.",
+      "The new title is Maatrubhumi: May War Rest In Peace.",
+      "The film is directed by Apoorva Lakhia.",
+      "The film received an NOC from the Ministry of Information and Broadcasting.",
+      "The film was initially scheduled for a theatrical release on April 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Shah Rukh Khan",
+        "Himesh Reshammiya",
+        "Muskaan",
+        "Sajid Khan",
+        "Apoorva Lakhia",
+        "Simran Khan",
+        "Rajinikanth",
+        "Thalapathy Vijay",
+        "Hyun Bin",
+        "Son Ye-Jin",
+        "Aishwarya Rai Bachchan",
+        "Raveena Tandon",
+        "Arbaaz",
+        "Sshura",
+        "Ramesh Taurani"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Teri Sexy Beauty",
+        "Hangover",
+        "Pyaar Karona",
+        "Main Hoon Hero Tera",
+        "King",
+        "Battle of Galwan",
+        "Maatrubhumi: May War Rest In Peace",
+        "Jailer 2",
+        "GOAT",
+        "Crash Landing On You"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Teri Sexy Beauty",
+      "Maatrubhumi film",
+      "Chitrangda Singh Maatrubhumi",
+      "Salman Khan singer Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156460448,thumbsize-226839,width-1280,height-720,resizemode-75/156460448.jpg",
+        "caption": "Salman Khan Steps Behind The Microphone For Maatrubhumi Track Teri Sexy Beauty Featuring Chitrangda Singh",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T19:04:30Z"
   }
 };
