@@ -9,12 +9,12 @@
    "detail": "valid top 20 snapshot"
   },
   "sacnilk_boxoffice": {
-   "last_attempt_at": "2026-11-04T12:00:55Z",
-   "last_run": "2026-11-04T12:00:55Z",
+   "last_attempt_at": "2026-11-04T15:06:26Z",
+   "last_run": "2026-11-04T15:06:26Z",
    "last_status": "success",
-   "last_success": "2026-11-04T12:00:55Z",
+   "last_success": "2026-11-04T15:06:26Z",
    "consecutive_failures": 0,
-   "detail": "validated 411 rows; 1 staging files changed"
+   "detail": "validated 423 rows; 1 staging files changed"
   },
   "fnn_boxoffice": {
    "last_attempt_at": "2026-11-04T12:02:11Z",
@@ -73,5 +73,5 @@
    "detail": "validated 161 rows; 1 staging files changed"
   }
  },
- "updated_at": "2026-11-04T12:52:39Z"
+ "updated_at": "2026-11-04T15:06:26Z"
 }
