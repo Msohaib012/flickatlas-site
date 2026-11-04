@@ -1,10 +1,10 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-04T06:51:58Z",
-   "last_run": "2026-11-04T06:51:58Z",
+   "last_attempt_at": "2026-11-04T12:51:42Z",
+   "last_run": "2026-11-04T12:51:42Z",
    "last_status": "success",
-   "last_success": "2026-11-04T06:51:58Z",
+   "last_success": "2026-11-04T12:51:42Z",
    "consecutive_failures": 0,
    "detail": "valid top 20 snapshot"
   },
@@ -33,12 +33,12 @@
    "detail": "validated 108 rows; 1 staging files changed"
   },
   "ott_digital": {
-   "last_attempt_at": "2026-11-04T00:52:44Z",
-   "last_run": "2026-11-04T00:52:44Z",
+   "last_attempt_at": "2026-11-04T12:52:39Z",
+   "last_run": "2026-11-04T12:52:39Z",
    "last_status": "success",
-   "last_success": "2026-11-04T00:52:44Z",
+   "last_success": "2026-11-04T12:52:39Z",
    "consecutive_failures": 0,
-   "detail": "33 digital titles; registry 826; checked 64 this run"
+   "detail": "35 digital titles; registry 826; checked 64 this run"
   },
   "wp_boxoffice": {
    "last_attempt_at": "2026-11-04T12:02:34Z",
@@ -73,5 +73,5 @@
    "detail": "validated 161 rows; 1 staging files changed"
   }
  },
- "updated_at": "2026-11-04T12:07:02Z"
+ "updated_at": "2026-11-04T12:52:39Z"
 }

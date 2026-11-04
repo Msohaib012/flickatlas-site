@@ -52,6 +52,150 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 14:44:00 +0200"
   },
+  "q67a58": {
+    "id": "q67a58",
+    "type": "news",
+    "headline": "Stunt Coordinator Geeta Tandon Alleges Disrespect On Set",
+    "dek": "Bollywood stunt director and body double Geeta Tandon speaks out after enduring a nine-hour wait on the set of Anil Kapoor's reality show, prompting apologies from the host and guest Farah Khan.",
+    "entities": {
+      "people": [
+        "Geeta Tandon",
+        "Anil Kapoor",
+        "Farah Khan",
+        "Jaydeep"
+      ],
+      "titles": [
+        "India Ke Top 1%"
+      ]
+    },
+    "keywords": [
+      "Geeta Tandon",
+      "India Ke Top 1%",
+      "Anil Kapoor",
+      "Farah Khan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-04t175950-195-84741793795397.jpg",
+        "caption": "Stunt Coordinator Geeta Tandon Alleges Disrespect On Set",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 18:06:52 +0530"
+  },
+  "31sqk4": {
+    "id": "31sqk4",
+    "type": "news",
+    "headline": "Tharun Bhascker Opens Up About Real-Life Inspiration Behind Ee Nagaraniki Emaindi Ahead of Sequel",
+    "dek": "Director Tharun Bhascker shares how four loyal friends inspired his cult hit Ee Nagaraniki Emaindi as he prepares for the upcoming theatrical release of the sequel ENE Repeat.",
+    "entities": {
+      "people": [
+        "Tharun Bhascker",
+        "Vishwak Sen",
+        "Abhinav Gomatam",
+        "Venkatesh Kakumanu",
+        "Srinath Maganti",
+        "Anisha Ambrose",
+        "Shivathmika Rajasekhar",
+        "Karunakumar",
+        "Priyadarshini Ram",
+        "Mahesh Bhascker",
+        "Srujan Yarabolu",
+        "Sandeep Nagireddy",
+        "Vivek Sagar",
+        "AJ Aaron",
+        "Raviteja Girijala"
+      ],
+      "titles": [
+        "Ee Nagaraniki Emaindi",
+        "ENE Repeat",
+        "Pelli Choopulu"
+      ]
+    },
+    "keywords": [
+      "Tharun Bhascker Ee Nagaraniki Emaindi",
+      "ENE Repeat release date",
+      "Vishwak Sen ENE Repeat",
+      "Ee Nagaraniki Emaindi sequel cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135539368,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Tharun Bhascker Opens Up About Real-Life Inspiration Behind Ee Nagaraniki Emaindi Ahead of Sequel",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T17:55:22+05:30"
+  },
+  "s11qgn": {
+    "id": "s11qgn",
+    "type": "news",
+    "headline": "Ramayana Part 2 Release Pushed to 2028 as Producer Namit Malhotra Discusses Trilogy Possibilities",
+    "dek": "Producer Namit Malhotra has announced that the sequel to the massive epic will now arrive in 2028, while also addressing whether the franchise might expand into a trilogy.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 2",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 2",
+      "Namit Malhotra Ramayana",
+      "Ramayana release date 2028",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Namit-Malhotra-Reveals-Ramayana-Part-2-Will-Now-Release-In-2028.webp",
+        "caption": "Ramayana Part 2 Release Pushed to 2028 as Producer Namit Malhotra Discusses Trilogy Possibilities",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 12:11:29 +0000"
+  },
+  "11fuiz4": {
+    "id": "11fuiz4",
+    "type": "news",
+    "headline": "Godzilla Minus One Climbs Digital Charts Ahead of Upcoming Sequel",
+    "dek": "Takashi Yamazaki’s acclaimed kaiju film is surging on streaming platforms as fans revisit the Oscar winner before the release of Godzilla Minus Zero.",
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "Steven Spielberg",
+        "Ryunosuke Kamiki",
+        "Vritti Johar"
+      ],
+      "titles": [
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Shin Godzilla"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus One",
+      "Godzilla Minus Zero",
+      "Takashi Yamazaki",
+      "Ryunosuke Kamiki"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Godzilla-2.jpg.webp?resize=1200,630",
+        "caption": "Godzilla Minus One Climbs Digital Charts Ahead of Upcoming Sequel",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 12:05:00 +0000"
+  },
   "14mj1o9": {
     "id": "14mj1o9",
     "type": "news",
@@ -4602,175 +4746,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-03T07:51:44Z"
-  },
-  "bgyvju": {
-    "id": "bgyvju",
-    "type": "news",
-    "headline": "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
-    "dek": "Popular Panchayat actor Aasif Khan has been eliminated from Bigg Boss 20 midway through the season. Fans expected him to reach the top five, but strategic missteps, controversies, and conflicts led to his early exit.",
-    "entities": {
-      "people": [
-        "Aasif Khan",
-        "Salman Khan",
-        "Kazi Tauqeer",
-        "Love Gill",
-        "Amrapali",
-        "Young"
-      ],
-      "titles": [
-        "Panchayat",
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Aasif Khan Bigg Boss 20",
-      "Panchayat damaad ji Bigg Boss",
-      "Aasif Khan eliminated Bigg Boss",
-      "Bigg Boss 20 Aasif Khan Kazi Tauqeer"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae85a59e6a93-aasif-khan-eliminated-from-bigg-boss-023936874-16x9.jpg",
-        "caption": "Aasif Khan Exits Bigg Boss 20: Why Panchayat Actor Was Eliminated",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T07:51:44Z"
-  },
-  "ulqmqs": {
-    "id": "ulqmqs",
-    "type": "news",
-    "headline": "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide",
-    "dek": "Rajinikanth's action-packed entertainer Jailer 2 experienced a significant slowdown on its third Monday following a record-breaking box office run.",
-    "entities": {
-      "people": [
-        "Rajinikanth",
-        "Raisa Nasreen",
-        "Nelson Dilipkumar",
-        "Tiruppur Subramaniam",
-        "Namo Narayanan",
-        "SJ Suryah",
-        "Vidya Balan",
-        "Ramya Krishnan",
-        "Mithun Chakraborty",
-        "Suraj Venjaramoodu",
-        "Yogi Babu",
-        "Mohanlal",
-        "Shiva Rajkumar",
-        "Hrithik Roshan",
-        "Jackie Shroff",
-        "Vijay Sethupathi"
-      ],
-      "titles": [
-        "Jailer 2",
-        "Annamalai",
-        "Padayappa",
-        "Sivaji",
-        "Chandramukhi"
-      ]
-    },
-    "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Jailer 2 collection",
-      "Jailer 2 Day 19",
-      "Nelson Dilipkumar Jailer 2"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156455168,thumbsize-732463,width-1280,height-720,resizemode-75/156455168.jpg",
-        "caption": "Jailer 2 Box Office Collection Day 19: Rajinikanth Starrer Sees Sharp Drop After Crossing Rs 800 Crore Worldwide",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-03T07:51:44Z"
-  },
-  "1fbuaju": {
-    "id": "1fbuaju",
-    "type": "news",
-    "headline": "Julia Stiles and Ezra Sosa Eliminated on Disney Night in Dancing With The Stars Season 35",
-    "dek": "The ballroom transformed for a magical Broadway-themed evening, but the night concluded with a surprising exit for Julia Stiles and Ezra Sosa.",
-    "entities": {
-      "people": [
-        "Julia Stiles",
-        "Ezra Sosa",
-        "Shirley Ballas",
-        "Harry Shum Jr.",
-        "Jenna Johnson",
-        "Jenna Dewan",
-        "Val Chmerkovskiy",
-        "Ezra Frech",
-        "Daniella Karagach",
-        "Amber Glenn",
-        "Pasha Pashkov",
-        "Tatyana Ali",
-        "Jan Ravnik",
-        "Maura Higgins",
-        "Mark Ballas",
-        "Connor Wood",
-        "Rylee Arnold"
-      ],
-      "titles": [
-        "Dancing With The Stars",
-        "Peter Pan",
-        "Tangled",
-        "Beauty and the Beast",
-        "Aida",
-        "Hamilton"
-      ]
-    },
-    "keywords": [
-      "Dancing With The Stars Season 35",
-      "Julia Stiles DWTS elimination",
-      "DWTS Disney Night 2026",
-      "Harry Shum Jr Jenna Johnson DWTS"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature97-48021793692021.jpg",
-        "caption": "Julia Stiles and Ezra Sosa Eliminated on Disney Night in Dancing With The Stars Season 35",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 13:17:57 +0530"
-  },
-  "15tnse3": {
-    "id": "15tnse3",
-    "type": "news",
-    "headline": "Rise And Fall 2 November 3 Episode Highlights: Triple Eviction Twist and Heated Clash Between Swara and Shehzad",
-    "dek": "A high-stakes episode of Rise And Fall 2 introduces a looming triple eviction, a basement demotion for Manish Kashyap and Sonam Malik, and an explosive argument between Swara Bhasker and Shehzad Poonawalla.",
-    "entities": {
-      "people": [
-        "Gautam Gulati",
-        "Shehzad Poonawalla",
-        "Manish Kashyap",
-        "Sonam Malik",
-        "Swara Bhasker",
-        "Karan Patel",
-        "Priyanka Chahar Choudhary",
-        "Jashwanth Bopanna",
-        "Rishabh Jaiswal",
-        "Niharika Tiwari",
-        "Virender Sehwag"
-      ],
-      "titles": [
-        "Rise And Fall 2"
-      ]
-    },
-    "keywords": [
-      "Rise And Fall 2",
-      "Rise And Fall 2 November 3 episode",
-      "Virender Sehwag Rise And Fall 2",
-      "Swara Bhasker Shehzad Poonawalla",
-      "Rise And Fall 2 triple eviction"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/riseandfall2nov3ep39updated1-71541793691544.jpg",
-        "caption": "Rise And Fall 2 November 3 Episode Highlights: Triple Eviction Twist and Heated Clash Between Swara and Shehzad",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 13:12:32 +0530"
   },
   "1oesgxu": {
     "id": "1oesgxu",
