@@ -57478,5 +57478,442 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 14:29:42 +0000"
+  },
+  "19ygygk": {
+    "id": "19ygygk",
+    "type": "news",
+    "headline": "Ramayana Social Media Reviews Pour In Following Grand Premiere and Ahead of November Release",
+    "dek": "Audiences and critics share polarized views on the massive mythological epic directed by Nitesh Tiwari, starring Ranbir Kapoor and Yash.",
+    "body": [
+      {
+        "h": "Grand Premiere and Anticipated Release",
+        "p": [
+          "The mythological epic Ramayana has officially hosted its grand premiere in India, generating massive conversation across social media platforms ahead of its scheduled release on November 5. Directed by Nitesh Tiwari, the high-profile cinematic project is produced by Yash and Namit Malhotra. Operating on a staggering reported budget of Rs 4000cr, the two-part film has immediately become one of the most widely discussed titles in Indian cinema.",
+          "Social media feeds have been inundated with initial audience reactions, Twitter reviews, and live updates as viewers weigh in on the grand scale of the production. While some early reviewers have lauded the project as a monumental cinematic milestone, others have voiced sharp criticisms regarding specific creative choices and technical execution."
+        ]
+      },
+      {
+        "h": "Praise for Scale, Visuals, and Performances",
+        "p": [
+          "Supporters of the film have flooded micro-blogging sites with glowing reviews, awarding the epic high ratings ranging from 4 to 5 stars. Enthusiastic viewers highlighted the divine screen presence of Ranbir Kapoor portraying Lord Rama alongside Yash, who takes on the menacing role of Ravana. Several moviegoers specifically praised DNEG's world-class visual effects, dynamic action set-pieces, and the grandeur of sequences like the Jatayu versus Ravana confrontation.",
+          "Additionally, the collaborative musical effort by AR Rahman and Hans Zimmer received immense appreciation for enhancing the dramatic tension. Supporting performances by Sai Pallavi as Sita, Ravi Dubey, and Rakul Preet Singh were also cited as strong anchors that hold the massive narrative together."
+        ]
+      },
+      {
+        "h": "Criticism Over Visual Inconsistencies and Pacing",
+        "p": [
+          "Despite the overwhelming hype, a segment of the audience expressed disappointment, rating the film lower and criticizing various aspects of the production. Detractors pointed out that despite the massive financial backing, certain CGI sequences looked artificial and inconsistent, disrupting cinematic immersion. Some viewers also felt that the emotional depth fell short of expectations given the legendary status of the source material.",
+          "Further critique targeted specific casting and delivery choices, with some reviewers finding certain performances flat or out of place. The interval block and select action sequences also faced criticism from audiences who expected a more polished execution for a project of this unprecedented magnitude."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The ambitious film features an extensive ensemble cast comprising notable names from across the Indian film industry. Alongside Ranbir Kapoor, Yash, and Sai Pallavi, the movie features Sunny Deol, Ravi Dubey, Arun Govil, Rakul Preet Singh, Lara Dutta, Vivek Oberoi, and Anupam Kher in key roles. This project marks several notable first-time collaborations among its leading actors.",
+          "Behind the camera, the film brings together top-tier technical talent. Director Nitesh Tiwari steers the narrative, while the visual effects are handled by DNEG. The grand auditory landscape is crafted through the joint efforts of legendary composers AR Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "Industry Support and Well Wishes",
+        "p": [
+          "As the film prepares for its major theatrical rollout, prominent figures from the film fraternity have extended their support to the project. Telugu star Allu Arjun took to social media to share his positive wishes for the entire team, describing the movie as an important cultural representation and an ambitious attempt to elevate the global standing of Indian cinema.",
+          "Such high-profile endorsements from industry peers have further amplified the ongoing public discourse, uniting various regional film fans in anticipation of how the cinematic epic will perform commercially and critically during its theatrical run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has held its grand premiere in India ahead of its November 5 release, drawing polarized reactions from audiences on social media. While many praised the grand scale, performances by Ranbir Kapoor and Yash, and the music by AR Rahman and Hans Zimmer, others criticized the visual effects and emotional depth."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari.",
+      "The film is produced by Yash and Namit Malhotra.",
+      "The project has a budget of Rs 4000cr.",
+      "The movie features Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana.",
+      "The cast also includes Sunny Deol, Ravi Dubey, Arun Govil, Rakul Preet Singh, Lara Dutta, Vivek Oberoi, and Anupam Kher.",
+      "The film is scheduled for release on November 5.",
+      "Allu Arjun shared a public message wishing the team success."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Anupam Kher",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Allu Arjun",
+        "Prabhas",
+        "SS Rajamouli"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal",
+        "Barfi",
+        "Dune Part 2",
+        "Adipurush",
+        "Varanasi"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Yash Ravana",
+      "Nitesh Tiwari Ramayana",
+      "Namit Malhotra"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaxreviewfeature-56361793809427.jpg",
+        "caption": "Ramayana Social Media Reviews Pour In Following Grand Premiere and Ahead of November Release",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 21:58:46 +0530"
+  },
+  "19i6oj3": {
+    "id": "19i6oj3",
+    "type": "news",
+    "headline": "Batman: Knightfall Part 2: Knightquest Gets Official December Release Date",
+    "dek": "Warner Bros. has officially scheduled the home media release for DC Studios' upcoming animated feature, continuing the three-part adaptation of the legendary 1993 comic book arc.",
+    "body": [
+      {
+        "h": "Release Details and Schedule",
+        "p": [
+          "Warner Bros. Pictures has officially confirmed the release details for the next chapter in the animated Batman series. DC Studios' Batman: Knightfall Part 2: Knightquest is scheduled to launch on December 15, 2026.",
+          "This upcoming home media launch will arrive on digital platforms as well as physical media formats, following closely after the debut of the first installment released a month prior."
+        ]
+      },
+      {
+        "h": "Source Material and Plot",
+        "p": [
+          "The feature is part of an ambitious three-part movie event that faithfully adapts the iconic 1993 Knightfall storyline from the DC comics. The overarching narrative centers on Bruce Wayne facing his most devastating physical defeat when Bane breaks his back.",
+          "Following these traumatic events, the new film finds Bruce paralyzed from the waist down. In his absence, Gotham City must rely on a new protector as Jean-Paul Valley steps forward to assume the mantle of the Dark Knight."
+        ]
+      },
+      {
+        "h": "Bonus Features and Physical Media Content",
+        "p": [
+          "Fans purchasing the film on Digital, 4K UHD, or Blu-Ray formats will receive a variety of special bonus features. These additions are designed to give audiences a behind-the-scenes look at the creative decisions driving the project.",
+          "Among the extras is a featurette titled Azrael Batman: The Next Knight, which explores the design process for updating the 1990s comic character for modern animation. Another feature, Knightfall: To Kill Or Not to Kill, dives into the moral dilemmas faced by both Batman and Azrael."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The creative vision for the movie is led by director Jeff Wamester, working from a screenplay written by Jeremy Adams. Production duties are handled by producers Jim Krieg and Kimberly S. Moreau.",
+          "Executive producer roles are filled by Sam Register and Michael E. Uslan, with Rick Morales serving as supervising producer. The voice cast features Anson Mount as Bruce Wayne and Batman, Michael Mando as Bane, and Pablo Schreiber as Jean-Paul Valley and Azrael."
+        ]
+      },
+      {
+        "h": "Runtime and Rating",
+        "p": [
+          "The second installment in the animated trilogy has been designated with an R-rating for its mature content and themes. Viewers can expect a concise storytelling experience with a total runtime of 76 minutes."
+        ]
+      },
+      {
+        "h": "Broader Franchise Context",
+        "p": [
+          "The announcement of the second part was accompanied by the release of a new Nightwing clip shared via IGN, building excitement within the fan community. Furthermore, studio plans indicate that the narrative will continue beyond this chapter, with a third part already scheduled for release in 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Warner Bros. has confirmed that Batman: Knightfall Part 2: Knightquest will release on digital and physical media on December 15, 2026. The R-rated animated film adapts the classic 1993 comic arc and features voice performances by Anson Mount, Michael Mando, and Pablo Schreiber."
+        ]
+      }
+    ],
+    "facts": [
+      "Batman: Knightfall Part 2: Knightquest will release on December 15, 2026.",
+      "The film will be released on digital and physical media.",
+      "A third part is planned for release in 2027.",
+      "The story adapts the 1993 Knightfall arc from the comics.",
+      "Jeff Wamester directed the film based on a script by Jeremy Adams.",
+      "Sam Register and Michael E. Uslan served as executive producers.",
+      "Rick Morales acted as supervising producer.",
+      "Batman: Knightfall Part 2 was produced by Jim Krieg and Kimberly S. Moreau.",
+      "The film is R-rated and runs for 76 minutes.",
+      "Anson Mount voices Bruce Wayne/Batman.",
+      "Michael Mando voices Bane.",
+      "Pablo Schreiber voices Jean-Paul Valley/Azrael."
+    ],
+    "entities": {
+      "people": [
+        "Rahul Majumdar",
+        "Jeff Wamester",
+        "Jeremy Adams",
+        "Sam Register",
+        "Michael E. Uslan",
+        "Rick Morales",
+        "Jim Krieg",
+        "Kimberly S. Moreau",
+        "Anson Mount",
+        "Michael Mando",
+        "Pablo Schreiber",
+        "James Gunn",
+        "Sydney Sweeney",
+        "Matt Reeves",
+        "Joaquin Phoenix",
+        "Neil Patrick Harris",
+        "Jason Sudeikis"
+      ],
+      "titles": [
+        "Batman: Knightfall Part 2: Knightquest",
+        "Batman: Knightfall",
+        "Absolute Batman",
+        "Dune: Part Three",
+        "The Batman Part II",
+        "It: Welcome to Derry",
+        "The Angry Birds Movie 3"
+      ]
+    },
+    "keywords": [
+      "Batman Knightfall Part 2",
+      "Batman Knightquest release date",
+      "Jeff Wamester Batman movie",
+      "Anson Mount Batman voice"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/batman_b50ae1.jpg?resize=1200,630",
+        "caption": "Batman: Knightfall Part 2: Knightquest Gets Official December Release Date",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 16:34:37 +0000"
+  },
+  "lkwp9f": {
+    "id": "lkwp9f",
+    "type": "news",
+    "headline": "Ramayana Tamil Nadu Box Office Challenge From Alam Ara to Jawan Can It Change a 95 Year Old Trend?",
+    "dek": "Namit Malhotra's Ramayana arrives in theatres with a Tamil version, bringing an interesting question back into focus about how Hindi productions perform in the state.",
+    "body": [
+      {
+        "h": "The Tamil Nadu Box Office Dilemma for Hindi Cinema",
+        "p": [
+          "Namit Malhotra's upcoming film Ramayana arrives in theatres bringing an important question back into the spotlight. The central issue is whether a major Hindi production can secure the same level of acceptance in Tamil Nadu that it typically commands in Hindi-dominant markets across the country.",
+          "Over the decades, the state has witnessed numerous successful Bollywood rollouts, yet their theatrical trajectories have rarely maintained a steady upward curve. Even motion pictures that emerged as massive all-India blockbusters have occasionally found it difficult to draw comparable numbers from local audiences."
+        ]
+      },
+      {
+        "h": "Historical Roots Dating Back Nearly a Century",
+        "p": [
+          "The commercial relationship linking Hindi-language cinema and Tamil Nadu stretches back roughly 95 years, long before simultaneous multilingual strategies became standard industry practice. A major early milestone involved the screening of Alam Ara, India's inaugural sound film, in Madras back in 1931.",
+          "Directed by Ardeshir Irani, that historical Hindi-Urdu talkie first premiered in Bombay before touring southern markets via a mobile sound equipment team. The exact identity of the very first Hindi feature screened locally remains difficult to verify, but Alam Ara establishes a clear historical starting point."
+        ]
+      },
+      {
+        "h": "The Rise of Regional Cinema and Star Systems",
+        "p": [
+          "Throughout the same era, Kalidas arrived as the first Tamil talkie, drawing tremendous public curiosity in Madras. As regional talking pictures flourished, local audiences gained consistent access to entertainment produced natively in Tamil.",
+          "By the 1940s, Madras had transformed into a primary filmmaking hub. S. S. Vasan's Chandralekha, released in both Tamil and Hindi in 1948, proved that southern productions could travel nationwide. Meanwhile, local legends like M. G. Ramachandran, Sivaji Ganesan, Rajinikanth, and Kamal Haasan cemented a fiercely loyal star system."
+        ]
+      },
+      {
+        "h": "Multiplexes and the Mixed Fortunes of Bollywood Hits",
+        "p": [
+          "The growth of modern multiplexes eventually unlocked fresh commercial avenues for Bollywood within Chennai. Screenings could share space with Tamil and English releases, yet business remained concentrated around select high-profile titles rather than a reliable stream of recurring hits.",
+          "Blockbusters such as Dhoom 3, PK, Sultan, and Dangal proved the power of bankable stars and dubbed formats. However, their immense pan-Indian popularity did not automatically translate into matching box office returns within Tamil Nadu."
+        ]
+      },
+      {
+        "h": "Jawan and the Blueprint for Regional Connection",
+        "p": [
+          "Shah Rukh Khan's 2023 action thriller Jawan demonstrated what happens when a Bollywood release builds deep local ties. Director Atlee brought a proven track record of popular Tamil entertainments, while actors like Nayanthara and Vijay Sethupathi alongside composer Anirudh Ravichander provided instant familiarity.",
+          "Allocated around 450 screens for its Tamil version alongside roughly 100 multiplex screens for the Hindi version, the film ultimately grossed approximately ₹50.32 crore across its language formats in the state, proving that strategic local casting matters immensely."
+        ]
+      },
+      {
+        "h": "Tax Structures and Exhibition Realities",
+        "p": [
+          "Beyond cultural alignment, structural hurdles such as local entertainment taxes influence distributor decisions. In October 2017, Tamil Nadu established local entertainment tax levies at 8% for new Tamil films and 15% for other Indian languages.",
+          "By 2025, the tax on new local Tamil films dropped further to 4%, while the 15% rate for non-Tamil Indian languages remained intact. This financial discrepancy, alongside fluctuating screen availability during major regional festival releases, creates a demanding environment for external productions."
+        ]
+      },
+      {
+        "h": "Can Ramayana Forge a New Path?",
+        "p": [
+          "Ramayana enters theatres carrying a distinct advantage that conventional action spectacles often lack. Its core narrative is already profoundly familiar to Tamil audiences through centuries of literary tradition rooted in Kamban's Ramavataram, alongside mythological storytelling on television and screen.",
+          "Nevertheless, pre-existing narrative familiarity does not automatically guarantee box office victory. The project must win over viewers through the quality of its Tamil dialogue, emotional weight, and character portrayals, relying on actors like Sai Pallavi and Yash to solidify its southern appeal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's production of Ramayana enters theatres on November 5 with a Tamil version, reigniting discussions about whether a major Hindi film can overcome historical barriers in Tamil Nadu's fiercely competitive theatrical market. While past blockbusters like Jawan demonstrated strong local potential through targeted casting and multi-language rollouts, persistent challenges including uneven tax structures, screen allocations, and powerful regional competition continue to test external releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra's Ramayana arrives in theatres on November 5 with a Tamil version.",
+      "Alam Ara was India's first sound film, directed by Ardeshir Irani and premiered in Bombay on March 14, 1931.",
+      "Kalidas was the first Tamil talkie released in 1931.",
+      "S. S. Vasan's Chandralekha was released in Tamil and Hindi in 1948.",
+      "Dangal's Tamil-dubbed version collected approximately ₹35 lakh net across India on its first day in 2016.",
+      "Jawan collected approximately ₹50.32 crore gross in Tamil Nadu across its language versions in 2023.",
+      "Tamil Nadu introduced local entertainment tax rates of 8% for new Tamil films and 15% for other Indian languages in October 2017.",
+      "The entertainment tax on new Tamil films was reduced to 4% in 2025."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Shah Rukh Khan",
+        "Ardeshir Irani",
+        "S. S. Vasan",
+        "M. G. Ramachandran",
+        "Sivaji Ganesan",
+        "Rajinikanth",
+        "Kamal Haasan",
+        "Atlee",
+        "Nayanthara",
+        "Vijay Sethupathi",
+        "Anirudh Ravichander",
+        "Sai Pallavi",
+        "Yash",
+        "Kamban"
+      ],
+      "titles": [
+        "Ramayana",
+        "Jawan",
+        "Alam Ara",
+        "Kalidas",
+        "Chandralekha",
+        "Dhoom 3",
+        "PK",
+        "Sultan",
+        "Dangal",
+        "Pathaan",
+        "Ramavataram"
+      ]
+    },
+    "keywords": [
+      "Ramayana Tamil Nadu box office",
+      "Jawan Tamil Nadu collection",
+      "Alam Ara 1931 Madras",
+      "Namit Malhotra Ramayana release"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028369.jpg",
+        "caption": "Ramayana Tamil Nadu Box Office Challenge From Alam Ara to Jawan Can It Change a 95 Year Old Trend?",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 16:18:15 +0000"
+  },
+  "1lxbiwu": {
+    "id": "1lxbiwu",
+    "type": "news",
+    "headline": "Bachelor Party D’eux Trailer: Amal Neerad’s Gangster Project Displays Plenty of Style but Struggles to Spark Genuine Excitement",
+    "dek": "The newly released trailer for Amal Neerad’s upcoming film Bachelor Party D’eux showcases a dark, stylized gangster world featuring a massive ensemble cast, yet it ultimately struggles to build compelling anticipation.",
+    "body": [
+      {
+        "h": "Introduction to the Spiritual Sequel",
+        "p": [
+          "The newly dropped trailer for Amal Neerad's upcoming film Bachelor Party D’eux has officially arrived, bringing anticipation from fans who have awaited a continuation of the filmmaker's cinematic universe. Functioning as a spiritual sequel to the acclaimed 2012 release Bachelor Party, this new venture carries forward the legacy of a movie that left a lasting impression on cinema audiences.",
+          "While the original feature won over viewers with its novel approach and an ensemble featuring both fresh and seasoned talent, the follow-up arrives with a similarly eclectic cast representing the modern Mollywood industry. As excitement builds for its theatrical run, audiences have closely monitored every promotional material released so far."
+        ]
+      },
+      {
+        "h": "Trailer Breakdown and Visual Tone",
+        "p": [
+          "Running for a duration of two minutes and ten seconds, the preview focuses heavily on establishing character aesthetics rather than giving away explicit narrative plot points. Viewers are treated to a parade of slow-motion sequences, blazing firearms, and a heavy emphasis on illegal substances tied directly into the storyline.",
+          "Set against what appears to be a dark backdrop in Kochi, Kerala, the footage relies on a gloomy atmosphere. The narrative hints heavily at violent gang conflicts, sharp dialogue exchanges, and brief intimate moments woven into the criminal underworld."
+        ]
+      },
+      {
+        "h": "The Director’s Signature Style",
+        "p": [
+          "Director Amal Neerad is widely recognized for his distinctively stylized action cinema, having previously helmed projects such as Big B, Bheeshma Parvam, Anwar, Bilal, and Bougainvillea. The upcoming feature attempts to recapture the cool demeanor and high-fashion swagger that defined the first installment.",
+          "However, critics have noted that the visual tricks and stylish framing no longer feel entirely groundbreaking. Consequently, the preview struggles to generate the kind of magnetic pull required to successfully drive massive crowds toward theater box offices."
+        ]
+      },
+      {
+        "h": "Stellar Ensemble Cast and Screen Time Dilemmas",
+        "p": [
+          "The movie boasts a massive roster of performers, bringing together Kunchacko Boban, Naslen, Sreenath Bhasi, Soubin Shahir, Sharafudheen, Shine Tom Chacko, Haniska Krishna, Rajisha Vijayan, Nadia Moidu, Jyothirmayi, Chandu Salimkumar, and Tovino Thomas.",
+          "Despite the star-studded lineup, attempting to feature every single actor within a concise promotional clip appears to have worked against the project. By dividing limited runtime among so many personalities, the preview misses an opportunity to establish a gripping narrative hook."
+        ]
+      },
+      {
+        "h": "Musical Background and Promotional Hurdles",
+        "p": [
+          "In stories driven by mafia conflicts and underground syndicates, the musical score plays a vital role in elevating tension. Thus far, the compositions delivered by Christo Xavier have unfortunately failed to leave a striking impression or set the right mood.",
+          "Following initial character poster rollouts that received mixed reactions, the burden now falls squarely on subsequent promotional assets. The upcoming marketing campaign must work harder to reverse the underwhelming response generated by early promotional drops."
+        ]
+      },
+      {
+        "h": "Release Details and Future Outlook",
+        "p": [
+          "With promotional material drawing mixed reactions, the theatrical success of the project now depends heavily on word-of-mouth and upcoming promotional strategies. Fans and industry analysts alike are keeping a close watch on how the final product performs upon arrival.",
+          "The film is officially scheduled to hit big screens on November 27. Until then, audiences and enthusiasts await further updates regarding the film's trajectory leading up to its premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Amal Neerad's spiritual sequel Bachelor Party D’eux has been released, showcasing a dark and stylized gangster aesthetic set in Kochi. Despite featuring a massive star-studded cast and signature action elements, the promotional clip struggles to generate substantial excitement, leaving future promotional assets to carry the weight ahead of the November 27 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Bachelor Party D’eux is a spiritual sequel to Amal Neerad’s 2012 film Bachelor Party.",
+      "The trailer has a runtime of 2 minutes and 10 seconds.",
+      "The film is scheduled to be released in theaters on November 27.",
+      "Christo Xavier is the composer for the film.",
+      "The cast includes Kunchacko Boban, Naslen, Sreenath Bhasi, Soubin Shahir, Sharafudheen, Shine Tom Chacko, Haniska Krishna, Rajisha Vijayan, Nadia Moidu, Jyothirmayi, Chandu Salimkumar, and Tovino Thomas."
+    ],
+    "entities": {
+      "people": [
+        "Amal Neerad",
+        "Christo Xavier",
+        "Kunchacko Boban",
+        "Naslen",
+        "Sreenath Bhasi",
+        "Soubin Shahir",
+        "Sharafudheen",
+        "Shine Tom Chacko",
+        "Haniska Krishna",
+        "Rajisha Vijayan",
+        "Nadia Moidu",
+        "Jyothirmayi",
+        "Chandu Salimkumar",
+        "Tovino Thomas"
+      ],
+      "titles": [
+        "Bachelor Party D'eux",
+        "Bachelor Party",
+        "Big B",
+        "Bheeshma Parvam",
+        "Anwar",
+        "Bilal",
+        "Bougainvillea"
+      ]
+    },
+    "keywords": [
+      "Bachelor Party Deux trailer",
+      "Amal Neerad film",
+      "Bachelor Party Deux cast",
+      "Bachelor Party Deux release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/bachelor-party-deux-trailer-review.jpg",
+        "caption": "Bachelor Party D’eux Trailer: Amal Neerad’s Gangster Project Displays Plenty of Style but Struggles to Spark Genuine Exc",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 16:25:43 +0000"
   }
 };
