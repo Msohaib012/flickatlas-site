@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T20:52:17Z",
-    "run_id": "41716265648",
-    "status": "success",
-    "checked": {
-     "candidates": 575,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Exclusive-Skydance shuffles distribution ranks as eight executives depart",
-      "Music links past, present for Pedro Pascal's cellist in 'Behemoth!'",
-      "Tony Butala, co-founder of Lettermen vocal group known for 'The Way You Look Tonight,' dies at 87",
-      "pawan singh wife jyoti singh challenged akshara singh affair divorce case tmova 2678227 2026 11 03",
-      "balika vadhu smita bansal remarried christian wedding renewed vows 25th anniversary daughters emotional inside photos tmovf 2687383 2026 11 03",
-      "ranbir kapoor sunny deol yash alia bhatt neetu kapoor at ramayana special screening in mumbai tmovj 2687645 2026 11 03",
-      "daler mehndi controversy minister subodh uniyal clarifies wont apologise will resign if needed tmova dskc 2687595 2026 11 03",
-      "danny denzongpa spent 40 crores to stop vijay mallya in sikkim famous alcohol brewery business tmova dskc 2687587 2026 11 03",
-      "ed sheeran on bollywood playback debut tu mil jaye shah rukh khan king tmovj dskc 2687635 2026 11 03",
-      "ramayana rama rama song rishab rikhiram sharma shabri bhakti review tmovj dskc 2687602 2026 11 03",
-      "haania manzar new house griha pravesh havan quran khani hindu husband love story interfaith marriage tmova 2686886 2026 11 03",
-      "pawan singh actress sonam malik emotional breakdown away from 7 years old son secret marriage rise and fall tmovh 2687222 2026 11 03",
-      "balika vadhu actress smita bansal remarried in white gown took 20 years to convince husband tmova 2687495 2026 11 03",
-      "amrapali dubey emotional desperately wants to become mother at 39 age no marriage plans nirahua tmovf dskc 2687437 2026 11 03",
-      "indian idol rishi singh fights abhijeet sawant insulted him karishma kapoor shocked virat kohli tmovh dskc 2687341 2026 11 03",
-      "ramayan fame aslam khan played 11 roles ramanand sagar still away from limelight doing marketing job tmovh dskc 2686948 2026 11 03",
-      "delhi cabinet minister parvesh sahib singh diwali party manoj tiwaris wife surbhi cm rekha gupta mmtc 2687307 2026 11 03",
-      "diwali firecrackers sunita ahuja dia mirza controversy bmc bombay hc order details mmtm 2687639 2026 11 03",
-      "eicma 2026 live updates royal enfield himalayan 750 hero xpulse 421 honda fireblade and more bike launches latest news today in milan liveblog 156456106",
-      "sensex rockets 3300 points in 4 days whats driving the surge article 156456950"
-     ],
-     "updated": [],
-     "count": 325,
-     "detail": "332 stories, 1 duplicates removed, 243 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-03T21:51:05Z",
     "run_id": "41725412685",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "359 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-03T23:36:22Z",
-    "run_id": "41740336973",
+    "run_at": "2026-11-04T22:06:16Z",
+    "run_id": "41922036331",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 342,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Justin Baldoni Sells Culver City Home For $2.1 Million Following Nashville Relocation Amid Legal Drama",
-      "Tom Hiddleston and Hayley Atwell's Much Ado About Nothing Opens Strong on Broadway",
-      "Five Bollywood Actresses Known for Consistent and Powerful Performances",
-      "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep"
+      "Ramayana Box Office EXCLUSIVE: Will Ranbir's Film Be Able To Recreate Pushpa 2, RRR, KGF 2's Magic?",
+      "Movie Review: In 'I Play Rocky,' a middleweight crowd-pleaser about the making of a classic",
+      "Young Sheldon Alum Gets Real About Why Georgie & Mandy Cameos Are Getting ‘Harder’ To Do",
+      "Ramayana Has Been Under Fire For Its Use Of AI, But What’s Really Going On?",
+      "The Gilded Age Fans Should Mind Their Business About Marian And Larry",
+      "The 10 Best Whodunit Movies in Film History",
+      "Everything Coming to HBO Max in November 2026",
+      "‘Tracker’ Officially Pulled From CBS This Sunday",
+      "Nintendo's New 'Legend of Zelda' Is Officially 1 of the Highest-Rated Games of All Time",
+      "Sarah J. Maas’ ‘ACOTAR’ Officially Expands With 2 New Releases Today",
+      "Andrew Garfield Denies Sam Altman’s ‘Really Weird’ Artificial Movie Set Story",
+      "Josh Brolin Seems to Rule Out Reprising Popular Marvel Role for MCU’s Next Era",
+      "Dragon Ball Z Fans Shocked Over Texas’ New Attorney General’s Unexpected Ties to Franchise",
+      "Jamie Foxx Welcomes 3rd Baby After Revealing His Biggest Hesitation About Fatherhood",
+      "Kim Kardashian Has One On-Set Habit Her Co-Stars Won’t Let Her Live Down",
+      "Henry Cavill Revisits Justice League & Mission: Impossible Mustache Controversy in Hilarious Video",
+      "Katy Perry Sums Up Her Feelings About the Midterm Elections With Just 3 Simple Words",
+      "Cardi B Shares First Photos of Her & Stefon Diggs’ Son, Reveals Name",
+      "Dominic West’s Scorpions Movie About Iconic Rock Band Gets Theatrical Release Date",
+      "Freaky Fun Trailer for Maika Monroe's 'Victorian Psycho' Horror Film"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 310,
+     "detail": "319 stories, 0 duplicates removed, 23 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1475,27 +1452,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-04T22:06:38Z",
+    "run_id": "41922036331",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Upcoming K-Dramas Releasing in November 2026: The Remarried Empress, Crash 2: Fury Road and More",
+      "Godzilla Minus Zero Projected for Historic Domestic Debut",
+      "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
+      "Nintendo's Remade Classic Lands Among the Highest-Rated Games"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-03T22:52:04Z",
-    "run_id": "41734252000",
-    "status": "success",
-    "checked": {
-     "candidates": 190,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 186, coming 4"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1909,26 +1891,27 @@
      "detail": "now 194, coming 3"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-03T23:44:32Z",
-    "run_id": "41740336973",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-04T22:06:38Z",
+    "run_id": "41922036331",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 197,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 194, coming 3"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2370,27 +2353,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T23:44:30Z",
-    "run_id": "41740336973",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-04T22:07:53Z",
+    "run_id": "41922036331",
     "status": "success",
     "checked": {
-     "candidates": 464,
-     "detail": "463 collected staging rows from readers; 175 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 153,
-     "detail": "+0 new rows, 153 updated rows, 310 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2804,19 +2786,27 @@
      "detail": "+0 new rows, 3 updated rows, 515 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T22:07:51Z",
+    "run_id": "41922036331",
+    "status": "success",
+    "checked": {
+     "candidates": 519,
+     "detail": "518 collected staging rows from readers; 185 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 515 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3046,32 +3036,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-04T00:57:07Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": {
-     "candidates": 552,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "All's Fair Season 2 Cast Revealed: Returning Stars, New Regulars, and Guest Additions",
-      "Blackpink Star Jisoo to Write and Perform Original Song for The Angry Birds Movie 3",
-      "'Jailer 2' Box Office Day 20: Rajinikanth Starrer Crosses Rs 816 Crore Worldwide",
-      "‘Ramayana: Rise of a Legend’ Nears Rs 100 Crore in Advance Bookings Ahead of November 5 Release"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 552 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3591,19 +3568,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-04T22:07:52Z",
+    "run_id": "41922036331",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Godzilla Minus Zero Projected for Historic Domestic Debut",
+      "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
+      "Nintendo's Remade Classic Lands Among the Highest-Rated Games",
+      "Upcoming K-Dramas Releasing in November 2026: The Remarried Empress, Crash 2: Fury Road and More"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3859,19 +3849,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4185,31 +4175,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-03T20:52:40Z",
-    "run_id": "41716265648",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 325 still unprocessed; today by category: movies 14/6, tv_dramas 12/4, episodes 2/2, box_office 18/6, celebrities_events 17/5, upcoming_releases 5/4, ott_streaming 6/4, trailers 3/3, awards 2/2, music_ost 4/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20 Episode 59 Highlights: Arishfa Khan Angers Amrapali Dubey, Gullu Sacrifices Lifeline",
-      "Cher's Representative Responds Gracefully After Michael Douglas Criticizes Her Historic Oscar Win",
-      "Tony Butala, Co-Founder of The Lettermen, Passes Away at 87",
-      "How to Watch 2026 Midterm Election Results and Live Coverage"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4715,26 +4693,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-04T22:06:38Z",
+    "run_id": "41922036331",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 310 still unprocessed; today by category: movies 15/6, tv_dramas 7/4, episodes 2/2, box_office 18/6, celebrities_events 13/5, upcoming_releases 16/4, ott_streaming 5/4, trailers 5/3, awards 2/2, music_ost 3/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Upcoming K-Dramas Releasing in November 2026: The Remarried Empress, Crash 2: Fury Road and More",
+      "Godzilla Minus Zero Projected for Historic Domestic Debut",
+      "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
+      "Nintendo's Remade Classic Lands Among the Highest-Rated Games"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-03T20:53:39Z",
-    "run_id": "41716265648",
-    "status": "success",
-    "checked": {
-     "candidates": 33,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5041,24 +5024,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 434,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5403,24 +5381,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 423,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5755,19 +5733,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 9,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6017,19 +6000,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6264,19 +6247,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6549,19 +6532,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6802,19 +6785,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7044,19 +7027,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7305,6 +7288,16 @@
     "category": "Trending News",
     "run_at": "2026-11-04T21:54:14Z",
     "run_id": "41919810263",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7725,16 +7718,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-03T21:52:50Z",
     "run_id": "41725412685",
     "status": "skipped",
@@ -7971,19 +7954,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-03T21:02:30Z",
-    "run_id": "41716265648",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8233,8 +8216,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-04T22:08:00Z",
+    "run_id": "41922036331",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-04T21:54:14Z"
+ "updated_at": "2026-11-04T22:08:00Z"
 }

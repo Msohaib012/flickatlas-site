@@ -59317,5 +59317,428 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 19:25:01 +0000"
+  },
+  "874jpi": {
+    "id": "874jpi",
+    "type": "news",
+    "headline": "Upcoming K-Dramas Releasing in November 2026: The Remarried Empress, Crash 2: Fury Road and More",
+    "dek": "November 2026 brings an exciting lineup of Korean dramas, from royal romances and workplace tales to cross-border crime thrillers and highly anticipated second seasons.",
+    "body": [
+      {
+        "h": "Introduction to November 2026 K-Dramas",
+        "p": [
+          "The eleventh month of the year brings a diverse wave of Korean television productions to various streaming platforms. Audiences can look forward to a blend of fresh narratives and returning favorites featuring prominent actors.",
+          "The slate covers multiple genres, ensuring options ranging from lighthearted workplace romance to gritty crime investigations and royal palace intrigues."
+        ]
+      },
+      {
+        "h": "The Remarried Empress",
+        "p": [
+          "Releasing on November 4 on Disney+, this royal drama centers on Empress Navier. After her husband attempts to divorce her to wed his mistress, Navier refuses to surrender quietly and partners with Prince Heinrey.",
+          "The series is directed by Cho Su-won and features a star-studded main cast including Shin Min-a, Ju Ji-hoon, Lee Se-young, and Lee Jong-suk."
+        ]
+      },
+      {
+        "h": "What a Boss Wants",
+        "p": [
+          "Scheduled for a November 11 release on Viki, this romantic comedy is adapted from a web novel. It follows wealthy CEO Kwon Do-hyuk as he tracks down indie band vocalist Lee Eun-chae after hearing her voice.",
+          "The narrative explores a three-month contractual agreement where Eun-chae works as his secretary, while paediatrician Moon Tae-kyung also develops a bond with her."
+        ]
+      },
+      {
+        "h": "Crash 2: Fury Road",
+        "p": [
+          "Arriving on JioHotstar on November 16, the second season of Crash brings back the Traffic Crime Investigation team for more road-related crime solving.",
+          "Cast members Lee Min-ki, Kwak Sun-young, Heo Sung-tae, and Lee Ho-cheol reprise their roles, alongside rookie officer addition Ji Dae-se played by NCT's Jisung."
+        ]
+      },
+      {
+        "h": "Good Partner 2",
+        "p": [
+          "Premiering on November 20 on Viki, the second season of Good Partner follows divorce lawyer Cha Eun-kyung as she establishes her new practice named Libom.",
+          "She teams up with emotionally invested lawyer Kang Hye-seong, alongside cast members Pyo Ji-hoon and Park Hae-jin."
+        ]
+      },
+      {
+        "h": "The Blue Road and Nine to Six",
+        "p": [
+          "The Blue Road launches on Netflix on November 20, bringing Korean detective Kim Seok and Japanese detective Inose together to track a cross-border serial killer.",
+          "Meanwhile, Nine to Six premieres on November 25 on Prime Video, starring Park Min-young, Yook Sung-jae, and Go Soo in a workplace romance setting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "November 2026 brings multiple high-profile Korean dramas across Disney+, Viki, JioHotstar, Netflix, and Prime Video. Viewers can expect a diverse selection of genres ranging from legal and workplace romances to investigative thrillers and royal stories."
+        ]
+      }
+    ],
+    "facts": [
+      "The Remarried Empress releases on November 4 on Disney+.",
+      "What a Boss Wants releases on November 11 on Viki.",
+      "Crash 2: Fury Road releases on November 16 on JioHotstar.",
+      "Good Partner 2 releases on November 20 on Viki.",
+      "The Blue Road releases on November 20 on Netflix.",
+      "Nine to Six releases on November 25 on Prime Video."
+    ],
+    "entities": {
+      "people": [
+        "Shin Min-a",
+        "Ju Ji-hoon",
+        "Lee Se-young",
+        "Lee Jong-suk",
+        "Cho Su-won",
+        "Sung Hoon",
+        "Oh Se-young",
+        "Lee Jung-shin",
+        "Lee Min-ki",
+        "Kwak Sun-young",
+        "Heo Sung-tae",
+        "Lee Ho-cheol",
+        "Jisung",
+        "Jang Na-ra",
+        "Kim Hye-yoon",
+        "Pyo Ji-hoon",
+        "Park Hae-jin",
+        "Son Suk-ku",
+        "Nagayama Eita",
+        "Han Jun-hee",
+        "Kim Shin-rok",
+        "Park Min-young",
+        "Yook Sung-jae",
+        "Go Soo"
+      ],
+      "titles": [
+        "The Remarried Empress",
+        "What a Boss Wants",
+        "Crash 2: Fury Road",
+        "Good Partner 2",
+        "The Blue Road",
+        "Nine to Six",
+        "Sacred Jewel"
+      ]
+    },
+    "keywords": [
+      "The Remarried Empress",
+      "Crash 2 Fury Road",
+      "Good Partner 2",
+      "What a Boss Wants",
+      "The Blue Road"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/koreansoooo1793776451.jpg",
+        "caption": "Upcoming K-Dramas Releasing in November 2026: The Remarried Empress, Crash 2: Fury Road and More",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-04T13:35:44+05:30"
+  },
+  "1pr3qtu": {
+    "id": "1pr3qtu",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Projected for Historic Domestic Debut",
+    "dek": "The latest Japanese kaiju entry is eyeing a record-breaking opening weekend in domestic theaters, outperforming previous milestones in the long-running franchise.",
+    "body": [
+      {
+        "h": "Opening Weekend Projections",
+        "p": [
+          "Godzilla Minus Zero is heading toward a projected 3-day domestic gross of $30 million during its upcoming opening weekend. This performance places it well ahead of competing new releases in theaters.",
+          "The projected earnings allow the film to comfortably surpass other titles opening in the same window, such as the animated tentpole The Cat in the Hat and Martin McDonagh's Wild Horse Nine."
+        ]
+      },
+      {
+        "h": "Franchise Records and Comparison",
+        "p": [
+          "The projected opening weekend figures indicate that Godzilla Minus Zero will secure the biggest domestic debut ever recorded for a Japanese-language Godzilla movie.",
+          "When compared to its predecessor Godzilla Minus One, the new film is on track to earn nearly triple the opening weekend gross of the 2023 hit."
+        ]
+      },
+      {
+        "h": "Background of the Sequel",
+        "p": [
+          "Set to debut domestically on November 6, 2026, Godzilla Minus Zero serves as the 34th Japanese-language installment in the enduring kaiju franchise and acts as a direct sequel to Godzilla Minus One.",
+          "The previous installment achieved widespread acclaim, grossing $116 million globally against a $10 million budget and earning an Academy Award for Best Visual Effects."
+        ]
+      },
+      {
+        "h": "Returning Creative Team",
+        "p": [
+          "Filmmaker Takashi Yamazaki has returned to helm the project, taking on roles as writer, director, and visual effects lead.",
+          "The movie also reunites leading cast members Ryunosuke Kamiki and Minami Hamabe, reprising their roles as former kamikaze pilot Kōichi Shikishima and his wife Noriko Shikishima."
+        ]
+      },
+      {
+        "h": "Box Office Standing",
+        "p": [
+          "Industry tracking suggests that Godzilla Minus Zero could potentially finish its theatrical run with over $275 million worldwide if it follows a trajectory similar to Godzilla Minus One.",
+          "Such a worldwide total would position it among the top-grossing films of 2026, outpacing several notable releases from earlier in the year."
+        ]
+      },
+      {
+        "h": "Critical Reception",
+        "p": [
+          "Early reviews for Godzilla Minus Zero have been strong, resulting in a 90% approval score on Rotten Tomatoes.",
+          "While highly praised, its critical score sits slightly behind the 99% Certified Fresh rating and 98% audience score attained by its 2023 predecessor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero is projected to achieve a historic $30 million domestic opening weekend, setting a new franchise record for Japanese Godzilla films. Directed by Takashi Yamazaki, the sequel follows the massive success of the 2023 Academy Award winner Godzilla Minus One."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero debuts in domestic theaters on November 6, 2026.",
+      "The 3-day domestic gross is projected to be $30 million.",
+      "Godzilla Minus One grossed $116 million against a $10 million budget and won an Oscar for Best Visual Effects.",
+      "Godzilla Minus Zero has a score of 90% on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Brennan Klein",
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Kōichi Shikishima",
+        "Noriko Shikishima",
+        "Martin McDonagh",
+        "Steven Spielberg",
+        "Emerald Fennell",
+        "Colleen Hoover"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "The Cat in the Hat",
+        "Wild Horse Nine",
+        "Godzilla 1985",
+        "Godzilla",
+        "Godzilla 2000",
+        "Shin Godzilla",
+        "Godzilla: King of the Monsters",
+        "Godzilla vs. Kong",
+        "Godzilla x Kong: The New Empire",
+        "Renaissance: A Film by Beyoncé",
+        "The Hunger Games: The Ballad of Songbirds Snakes",
+        "Disclosure Day",
+        "Wuthering Heights",
+        "Scream 7",
+        "Verity"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero box office",
+      "Takashi Yamazaki",
+      "Godzilla Minus One sequel"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/godzilla-roaring-in-the-city-in-godzilla-minus-zero.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Godzilla Minus Zero Projected for Historic Domestic Debut",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 21:25:16 GMT"
+  },
+  "1b1rcal": {
+    "id": "1b1rcal",
+    "type": "news",
+    "headline": "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
+    "dek": "Trade analysts decode the monumental expectations surrounding Nitesh Tiwari's Ramayana, evaluating whether its advance bookings and massive budget can replicate historical blockbusters.",
+    "body": [
+      {
+        "h": "Introduction to the Magnum Opus",
+        "p": [
+          "The upcoming mythological project Ramayana has generated immense excitement across the country ever since its initial announcement. Based closely on Valmiki's Ramayana, the film operates on a colossal budget of Rs 4000cr and is planned as a two-movie cinematic venture.",
+          "Helmed by director Nitesh Tiwari and jointly produced by Namit Malhotra and Yash, the feature boasts a pan-India approach and a massive canvas that has captured public attention months before its scheduled theatrical arrival."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Major Return",
+        "p": [
+          "The film features a stellar ensemble cast including Ranbir Kapoor, Sai Pallavi, and Yash in the lead roles. Furthermore, the project marks Ranbir Kapoor's much-anticipated return to the big screen after a hiatus of three years.",
+          "Supporting the main leads are prominent industry names such as Rakul Preet Singh, Anupam Kher, Lara Dutta, Arun Govil, Vivek Oberoi, and Sunny Deol, adding significant weight to the grand production."
+        ]
+      },
+      {
+        "h": "Comparisons with Historical Blockbusters",
+        "p": [
+          "Given the sheer scale of the production and its pan-India ambitions, critics and movie enthusiasts have naturally compared Ramayana to historical blockbusters like Pushpa 2, KGF 2, RRR, and Baahubali: The Conclusion.",
+          "Industry observers have heavily debated whether Nitesh Tiwari's mythological retelling can recreate the unprecedented box office magic and cultural frenzy left behind by those massive hits."
+        ]
+      },
+      {
+        "h": "Trade Expert Insights on Narrative Familiarity",
+        "p": [
+          "Film business expert Rohit Jaiswal offered an exclusive perspective on the commercial potential, pointing out that the core subject matter of Ramayana is already universally known.",
+          "Jaiswal explained that unlike films such as Baahubali and KGF, where audiences eagerly anticipated major plot twists, everyone already knows that Ravana will be defeated in the end, which may alter the specific kind of craze experienced by viewers."
+        ]
+      },
+      {
+        "h": "Box Office Numbers and Inflation Factors",
+        "p": [
+          "Despite potential differences in narrative curiosity, experts note that evolving industry dynamics, increased screen counts, and considerably higher ticket prices could propel Ramayana to surpass the sheer financial numbers of past hits.",
+          "Another industry expert suggested that if the audience genuinely receives the film well, positive word of mouth could easily push worldwide collections past the Rs 2000cr milestone."
+        ]
+      },
+      {
+        "h": "Strong Advance Bookings at the Domestic Box Office",
+        "p": [
+          "Ahead of its official theatrical premiere on November 5, Ramayana Part 1 has already established a strong commercial footprint through early ticket sales within the domestic market.",
+          "The feature has successfully raked in Rs 49.58 Cr through the advance booking collection for its opening day, backed by the purchase of 13.67 lakh tickets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade analysts are debating whether the upcoming mythological film Ramayana can match the box office magic of past giants like Pushpa 2, RRR, and KGF 2. While the known storyline may affect initial mystery-driven hype, strong advance bookings of Rs 49.58 Cr indicate powerful commercial potential ahead of its November 5 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana has a budget of Rs 4000cr.",
+      "The film is directed by Nitesh Tiwari.",
+      "Ramayana Part 1 is set to release on November 5.",
+      "Advance booking collections reached Rs 49.58 Cr.",
+      "A total of 13.67 lakh tickets were sold in advance booking."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Rakul Preet Singh",
+        "Anupam Kher",
+        "Lara Dutta",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Sunny Deol",
+        "Rohit Jaiswal"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "RRR",
+        "KGF 2",
+        "Baahubali",
+        "Pushpa 1",
+        "Baahubali The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana advance booking",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapresalesday1mainfeature-73361793827809.jpg",
+        "caption": "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 03:06:05 +0530"
+  },
+  "f5jtsd": {
+    "id": "f5jtsd",
+    "type": "news",
+    "headline": "Nintendo's Remade Classic Lands Among the Highest-Rated Games",
+    "dek": "The long-awaited remake of a legendary title arrives with overwhelming critical acclaim and modernization updates.",
+    "body": [
+      {
+        "h": "Introduction to the Remake",
+        "p": [
+          "Nintendo's celebrated classic undergoes a major transformation for modern platforms, aiming to capture the atmosphere of the original release while adapting to contemporary expectations. Fans revisiting the title will encounter the familiar journey of Link pulling the Master Sword from its pedestal, shifting the tone of the adventure as years pass and familiar surroundings become hostile.",
+          "The challenge for developers has been ensuring that veteran players feel the impact of this nostalgic world while making the mechanics accessible to newcomers. Without relying entirely on old affection, the updated release introduces quality-of-life adjustments designed to smooth out the rough edges of the past."
+        ]
+      },
+      {
+        "h": "Critical Reception and Metascore",
+        "p": [
+          "The title has debuted to immense critical praise, securing a high Metascore that places it among top-tier releases. This reception highlights the enduring appeal of the adventure, drawing a large pool of critical evaluations compared to earlier iterations.",
+          "While the score sits just beneath the historic numbers achieved by the original Nintendo 64 release, the broader base of current reviews demonstrates that the core design continues to resonate strongly across generations of players."
+        ]
+      },
+      {
+        "h": "Modern Controls and Movement",
+        "p": [
+          "Significant updates have been applied to how players navigate the game world, addressing common complaints from past versions. The inclusion of dedicated movement commands and full right-stick camera rotation allows for smoother exploration.",
+          "These updates align the experience with modern expectations set by recent open-world entries in the franchise. Navigating environments like the Kokiri Forest feels less cumbersome when players no longer have to struggle with legacy control schemes."
+        ]
+      },
+      {
+        "h": "Quality of Life Improvements",
+        "p": [
+          "Certain notoriously frustrating segments have received direct attention to improve pacing. Reviews have highlighted the streamlined management of specific equipment, such as the Iron Boots, which can now be toggled via the D-pad.",
+          "By removing the need to constantly pause the action to swap items, traditional dungeons—including the complex Water Temple—maintain their challenging puzzle design without inducing unnecessary friction for the player."
+        ]
+      },
+      {
+        "h": "Reviewer Reservations and Veteran Feedback",
+        "p": [
+          "Despite the overwhelming praise, some critics noted potential drawbacks for longtime fans seeking an ultimate test of skill. The streamlined experience and expanded movement options can make certain sections feel less demanding than remembered.",
+          "Additionally, the absence of an alternative harder difficulty setting, such as a Hero Mode or Master Quest option, has been pointed out by reviewers as a minor omission for veterans hoping for a tougher challenge."
+        ]
+      },
+      {
+        "h": "Platform Availability and Legacy",
+        "p": [
+          "The updated adventure arrives exclusively on the Nintendo Switch 2, bringing decades of gaming history to a new hardware generation. The release offers both an entry point for fresh audiences and a nostalgic trip for those who experienced the original decades prior.",
+          "With improved visuals, refined navigation, and preserved dungeon progression, the title continues to demonstrate why this specific iteration of Hyrule remains a cornerstone of interactive entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The remake of a classic Nintendo title has launched with a strong Metascore, bringing modern movement controls and quality-of-life improvements to the platform. Critics praise the updated accessibility while noting minor drawbacks for veterans, ahead of its exclusive release."
+        ]
+      }
+    ],
+    "facts": [
+      "The remake debuted with a 96 Metascore.",
+      "The original Nintendo 64 version earned a 99 Metascore from 22 reviews.",
+      "Ocarina of Time 3D earned a 94 on Nintendo 3DS.",
+      "The remake releases November 5 exclusively on Nintendo Switch 2."
+    ],
+    "entities": {
+      "people": [
+        "Hannah Hunt",
+        "Anna Koselke",
+        "Link"
+      ],
+      "titles": [
+        "The Legend of Zelda: Ocarina of Time",
+        "Breath of the Wild",
+        "Tears of the Kingdom",
+        "The Legend of Zelda: Wind Waker HD",
+        "The Legend of Zelda: Majora's Mask",
+        "The Legend of Zelda: Skyward Sword",
+        "The Legend of Zelda: Spirit Tracks",
+        "The Rings of Power",
+        "One Piece",
+        "The Witcher",
+        "Percy Jackson"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda Ocarina of Time remake",
+      "Nintendo Switch 2 Zelda",
+      "Ocarina of Time Metascore",
+      "Zelda Ocarina of Time reviews"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_08-1.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Nintendo's Remade Classic Lands Among the Highest-Rated Games",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 21:04:10 GMT"
   }
 };
