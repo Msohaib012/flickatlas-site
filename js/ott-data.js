@@ -49,6 +49,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-01",
+      "date_kind": "digital",
+      "id": 1760311,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-31",
       "date_kind": "digital",
       "id": 1813355,
@@ -154,6 +166,10 @@ window.FA_OTT = {
       "id": 1773378,
       "providers": [
         {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
           "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
           "name": "Philo"
         },
@@ -229,6 +245,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1664264,
       "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
         {
           "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
           "name": "Philo"
@@ -692,10 +712,6 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        },
-        {
-          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
-          "name": "Netflix Standard with Ads"
         }
       ],
       "type": "movie"

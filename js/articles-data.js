@@ -51325,5 +51325,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-04T01:51:31Z"
+  },
+  "3pootp": {
+    "id": "3pootp",
+    "type": "news",
+    "headline": "Udta Teer Box Office Collection Day 12: Ayushmann Khurrana's Spy Comedy Nears Rs 70 Crore Worldwide",
+    "dek": "Ayushmann Khurrana's spy comedy 'Udta Teer' has experienced a growth in daily collections during its second week, bringing its worldwide box office closer to the Rs 70 crore milestone.",
+    "body": [
+      {
+        "h": "Box Office Progress and Global Milestone",
+        "p": [
+          "Ayushmann Khurrana's latest theatrical venture is steadily marching toward a significant global financial milestone. Maintaining its steady theatrical run deep into its second week, the spy comedy has recorded an upward tick in its daily domestic revenue. With international receipts factored in, the movie's cumulative worldwide earnings are now positioning it within striking distance of the Rs 70 crore threshold.",
+          "Industry tracking indicates that audience enthusiasm has not faltered as the film moves past its initial opening frame. Advance booking metrics also display an encouraging trend for upcoming screenings, pointing to sustained interest across multiple regions."
+        ]
+      },
+      {
+        "h": "Domestic and International Breakdown",
+        "p": [
+          "On its twelfth day in cinemas, the film secured Rs 1.60 crore in net collections across India from 4,980 active shows. This latest addition pushes its total domestic net earnings to Rs 45.05 crore, while the corresponding Indian gross stands at Rs 53.66 crore. Overseas markets contributed an additional Rs 25 lakh, elevating the international gross total to Rs 11.75 crore.",
+          "When aggregating the domestic and overseas figures, the Aakash Kaushik directorial boasts a worldwide tally of Rs 65.41 crore. Consequently, the production requires another Rs 4.59 crore to successfully cross the coveted Rs 70 crore worldwide benchmark."
+        ]
+      },
+      {
+        "h": "Uptick in Daily Earnings and Ticket Sales",
+        "p": [
+          "Demonstrating strong holding power, the feature registered an 18.5% growth in daily domestic net earnings compared to the previous day's figures. Collections moved upward from Rs 1.35 crore to Rs 1.60 crore, delivering a much-needed positive signal during the crucial second-week frame.",
+          "On Tuesday alone, an estimated 1,34,049 tickets were purchased by moviegoers throughout the country. This single-day tally pushes the cumulative ticket sales past the two million mark, bringing the total number of admissions to 23,69,188 since the film first opened in theatres."
+        ]
+      },
+      {
+        "h": "First Week Foundations and Second Week Momentum",
+        "p": [
+          "During its opening week in cinemas, the movie established a solid baseline by raking in Rs 30.90 crore in India net collections, which translated to Rs 36.86 crore in gross terms. Building upon that foundation, the feature further accumulated Rs 14.15 crore net during the first five days of its second week, contributing an extra Rs 16.80 crore in gross earnings.",
+          "This sustained momentum during the sophomore week successfully propelled the cumulative domestic net collections past the Rs 45 crore milestone, reflecting favorable word-of-mouth and steady footfall."
+        ]
+      },
+      {
+        "h": "Theatre Occupancy and Advance Booking Trends",
+        "p": [
+          "The Hindi 2D release maintained an overall theater occupancy of 13.42% on Tuesday. Breaking down the audience turnout across different time slots reveals a gradual increase throughout the day: morning shows started at 6.08%, afternoon screenings rose to 11.08%, evening shows reached 13%, and night screenings peaked at 21.69%.",
+          "Looking ahead to Day 13, advance ticket sales have responded favorably. By the early hours of November 4, audiences had already snapped up 67,149 tickets for upcoming shows, generating Rs 1.11 crore in advance sales."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Narrative Premise",
+        "p": [
+          "Directed by Aakash Kaushik in his directorial debut, the narrative centres on Bilal Ahmad, an undercover Pakistani operative stationed in India, portrayed by Ayushmann Khurrana. Following an explosion that triggers severe memory loss, Bilal becomes convinced that he is a patriotic Indian intelligence officer, unwittingly working to dismantle his own agency's operations.",
+          "The supporting ensemble includes Sara Ali Khan as Yamini, alongside seasoned performers Rahul Bose, Ram Kapoor, Gulshan Grover, and the late Mukul Dev in notable roles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ayushmann Khurrana's spy comedy 'Udta Teer' has seen a daily jump in collections during its second week, bringing its worldwide earnings to Rs 65.41 crore. The film needs an additional Rs 4.59 crore to reach the Rs 70 crore milestone globally.",
+          "Directed by Aakash Kaushik and co-starring Sara Ali Khan, the movie continues to draw audiences with steady ticket sales and positive advance bookings."
+        ]
+      }
+    ],
+    "facts": [
+      "Day 12 India net collection was Rs 1.60 crore",
+      "Total domestic net earnings reached Rs 45.05 crore",
+      "India gross collection stands at Rs 53.66 crore",
+      "International gross collection is Rs 11.75 crore",
+      "Worldwide earnings stand at Rs 65.41 crore",
+      "Amount needed to reach Rs 70 crore worldwide is Rs 4.59 crore",
+      "Daily increase in net earnings was 18.5%",
+      "Previous day net collection was Rs 1.35 crore",
+      "Estimated tickets sold on Tuesday were 1,34,049",
+      "Cumulative ticket sales reached 23,69,188",
+      "First week India net collections were Rs 30.90 crore",
+      "First week gross earnings were Rs 36.86 crore",
+      "Second-week five-day net collection was Rs 14.15 crore",
+      "Overall theatre occupancy on Tuesday was 13.42%",
+      "Night shows occupancy was 21.69%",
+      "Day 13 advance bookings sold 67,149 tickets",
+      "Day 13 advance bookings generated Rs 1.11 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Aakash Kaushik",
+        "Sara Ali Khan",
+        "Rahul Bose",
+        "Ram Kapoor",
+        "Gulshan Grover",
+        "Mukul Dev"
+      ],
+      "titles": [
+        "Udta Teer"
+      ]
+    },
+    "keywords": [
+      "Udta Teer film",
+      "Ayushmann Khurrana Udta Teer",
+      "Udta Teer box office collection",
+      "Udta Teer worldwide earnings",
+      "Aakash Kaushik Udta Teer"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135517428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Udta Teer Box Office Collection Day 12: Ayushmann Khurrana's Spy Comedy Nears Rs 70 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-04T06:33:21+05:30"
+  },
+  "1qzhd1v": {
+    "id": "1qzhd1v",
+    "type": "news",
+    "headline": "Kathy Hochul Secures New York Gubernatorial Victory, Ensuring Stability for Hollywood East",
+    "dek": "Democratic incumbent Kathy Hochul wins her gubernatorial race in New York, solidifying the state's status as a major entertainment production hub backed by substantial tax credits and industry unions.",
+    "body": [
+      {
+        "h": "The Importance of New York to the Entertainment Industry",
+        "p": [
+          "Outside of California, no state holds as much weight for the entertainment business as New York. Manhattan served as the historical birthplace of the industry where Thomas Edison publicly screened his Kinetoscope, and Westchester County acted as an early hub for silent films and movie stars.",
+          "Over the past century, New York has maintained its position as a uniquely versatile backdrop. It also serves as a second home to numerous celebrities who appreciate its changing seasons, while continuing to host a massive volume of film and television productions that rival California."
+        ]
+      },
+      {
+        "h": "Governor's Race and Production Growth",
+        "p": [
+          "Democratic incumbent Kathy Hochul secured her victory by fending off Republican challenger Bruce Blakeman, leading by 47 points with about a fifth of the votes counted when NBC News called the race.",
+          "Under Hochul's leadership, New York has actively expanded its cinematic footprint, drawing $1.6 billion in production spending in a single quarter. To combat states luring away investment like Georgia, Louisiana, and New Mexico, the state implemented an $800 million annual tax credit program running through 2036, alongside $100 million dedicated to independent productions."
+        ]
+      },
+      {
+        "h": "Industry Endorsements and Infrastructure",
+        "p": [
+          "Hochul's efforts earned her endorsements from major entertainment unions including Actors' Equity, IATSE, and AFM Local 802. New soundstages have continuously emerged across the five boroughs to accommodate incoming projects.",
+          "Adam Gordon, co-founder of Wildflower Studios in Astoria alongside Robert De Niro, praised Hochul as a champion for the creative economy. Gordon noted that the studio, completed in 2024, is fully occupied and recently hosted the production of Focker-in-Law."
+        ]
+      },
+      {
+        "h": "Regulatory Actions and Cultural Shifts",
+        "p": [
+          "Beyond financial incentives, Hochul garnered industry favor by signing the nation's first laws regulating artificial intelligence in media and advertising. She also worked alongside Kevin Bacon to repeal outdated restrictions on dancing in New York bars.",
+          "These policy changes and robust support systems cement the state's appeal to creators, ensuring that Hollywood East will retain its robust production infrastructure for years to come."
+        ]
+      },
+      {
+        "h": "Progressive Shifts in Congressional Districts",
+        "p": [
+          "New York City Mayor Zohran Mamdani exerted significant influence behind the scenes, championing insurgent Democratic Socialist-aligned candidates in primary challenges against moderate incumbents. Notable victories included Darializa Avila Chevalier in NY-13 and Claire Valdez in NY-37.",
+          "Chevalier and Valdez are set to form the core of a new progressive congressional coalition within the Democratic caucus alongside other incoming members, succeeding the older faction known as The Squad."
+        ]
+      },
+      {
+        "h": "The Battle in NY-17",
+        "p": [
+          "A notable voting machine programming error caused delays in ballot tabulation in northern Westchester for the tightly contested race in District 17. Two-term Republican incumbent Mike Lawler faced challenger Cait Conley, a retired Army officer and political newcomer.",
+          "Both candidates staked out moderate positions in a district where registered Democrats outnumber Republicans. The race drew attention from Hollywood figures, with Carrie Coon and Edie Falco endorsing Conley."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "New York Governor Kathy Hochul has won her re-election campaign, securing a vital ongoing landscape for the state's expanding film and television industry. Backed by major entertainment unions and significant tax credits, her administration continues to bolster local production infrastructure.",
+          "Concurrently, the state's political arena saw progressive insurgent victories and closely watched congressional races featuring prominent local candidates and celebrity endorsements."
+        ]
+      }
+    ],
+    "facts": [
+      "Kathy Hochul is the Democratic incumbent who won the New York gubernatorial race.",
+      "Bruce Blakeman is the Republican challenger who ran against Kathy Hochul.",
+      "NBC News called the gubernatorial race when Hochul led by 47 points with about a fifth of the votes tallied.",
+      "New York drew $1.6 billion in production spend last quarter.",
+      "The state passed a tax credit program worth $800 million a year through 2036, with $100 million dedicated to indie productions.",
+      "Wildflower Studios in Astoria was completed in 2024 and co-founded by Adam Gordon and Robert De Niro.",
+      "Focker-in-Law filmed at Wildflower Studios.",
+      "Darializa Avila Chevalier won the primary challenge in NY-13.",
+      "Claire Valdez won the primary challenge in NY-37.",
+      "Mike Lawler is the two-term Republican incumbent for NY-17.",
+      "Cait Conley is the retired Army officer running as the challenger in NY-17."
+    ],
+    "entities": {
+      "people": [
+        "Kathy Hochul",
+        "Bruce Blakeman",
+        "Thomas Edison",
+        "Paul McCartney",
+        "Adam Gordon",
+        "Robert De Niro",
+        "Kevin Bacon",
+        "Zohran Mamdani",
+        "Darializa Avila Chevalier",
+        "Claire Valdez",
+        "Alexandria Ocasio-Cortez",
+        "Melat Kiros",
+        "Adam Hamawy",
+        "Hasan Piker",
+        "Mike Lawler",
+        "Cait Conley",
+        "Carrie Coon",
+        "Edie Falco",
+        "Bill Clinton",
+        "Barack Obama",
+        "Rahm Emmanuel"
+      ],
+      "titles": [
+        "Focker-in-Law",
+        "Footloose",
+        "The Gilded Age",
+        "The White Lotus",
+        "The Sopranos",
+        "Nurse Jackie"
+      ]
+    },
+    "keywords": [
+      "Kathy Hochul New York win",
+      "Focker-in-Law filming location",
+      "New York tax credit program",
+      "Wildflower Studios Astoria",
+      "New York gubernatorial race"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2257077895-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Kathy Hochul Secures New York Gubernatorial Victory, Ensuring Stability for Hollywood East",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 02:50:46 +0000"
+  },
+  "we05ot": {
+    "id": "we05ot",
+    "type": "news",
+    "headline": "Nora Fatehi's Legal Representatives Clarify Her Status as a Witness in the Sukesh Chandrashekhar Case",
+    "dek": "Actor Nora Fatehi's legal team has issued a formal statement emphasizing that she is summoned solely as a witness and not as an accused in connection with the Sukesh Chandrashekhar extortion investigation.",
+    "body": [
+      {
+        "h": "Recent Court Summons Issued",
+        "p": [
+          "Actor Nora Fatehi has received official instructions to present herself before the Rouse Avenue Court situated in Delhi. This development links to the ongoing judicial proceedings concerning the high-profile extortion case centered around Sukesh Chandrashekhar.",
+          "Following her receipt of the summons, her legal representatives took immediate action to address the court and manage her scheduled obligations."
+        ]
+      },
+      {
+        "h": "Legal Team Clarifies Witness Status",
+        "p": [
+          "To clear any public misunderstandings, the actor's legal counsels released an explicit statement confirming her exact standing in the matter. They stressed emphatically that she holds no status as an accused party and faces no allegations of committing any unlawful acts.",
+          "Instead, the documentation establishes that she has been called exclusively in the capacity of a witness to aid the judicial authorities."
+        ]
+      },
+      {
+        "h": "Exemption Application and Rescheduled Date",
+        "p": [
+          "Because the notification arrived with minimal advance notice, the actor was unable to be physically present for the hearing scheduled on November 2. Consequently, her legal representatives filed a formal application seeking exemption based on pre-existing professional commitments.",
+          "The presiding court granted this request, leading to an adjournment of the proceedings until November 6, 2026. Fresh directives were simultaneously issued requiring her attendance on this newly assigned date."
+        ]
+      },
+      {
+        "h": "Background of the Extortion Investigation",
+        "p": [
+          "The central legal matter involves severe accusations directed at Sukesh Chandrashekhar, who allegedly operated an extortion racket while confined inside Delhi's Rohini Jail. Investigators claim he masqueraded as senior government officials to amass roughly Rs 200 crore.",
+          "The Economic Offences Wing of the Delhi Police conducted a thorough investigation into these activities, ultimately filing a comprehensive chargesheet invoking stringent legal provisions under the Maharashtra Control of Organised Crime Act."
+        ]
+      },
+      {
+        "h": "Previous Interactions With Authorities",
+        "p": [
+          "Long before the latest court summons, the actor underwent preliminary questioning by the Economic Offences Wing. During those early inquiries, she explained that her initial contact with the prime suspect occurred through Leena Maria Paulose.",
+          "Her formal account of events was subsequently recorded under Section 164 of the Code of Criminal Procedure, positioning her officially as a prosecution witness in the supplementary chargesheet."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Nora Fatehi's legal representatives have clarified that she is strictly a witness and not an accused in the Sukesh Chandrashekhar extortion case. After missing a hearing due to short notice, her appearance has been rescheduled to November 6, 2026, following the acceptance of her exemption application by the Rouse Avenue Court in Delhi."
+        ]
+      }
+    ],
+    "facts": [
+      "Nora Fatehi received a summons to appear before the Rouse Avenue Court in Delhi.",
+      "The case involves Sukesh Chandrashekhar.",
+      "Nora Fatehi missed the November 2 hearing due to prior professional commitments.",
+      "The court adjourned the matter to November 6, 2026.",
+      "Sukesh Chandrashekhar allegedly extorted approximately Rs 200 crore while at Delhi's Rohini Jail.",
+      "The Delhi Police's Economic Offences Wing investigated the matter and filed a chargesheet under MCOCA.",
+      "Nora Fatehi's statement was recorded under Section 164 of the CrPC.",
+      "She was named as a prosecution witness in the supplementary chargesheet."
+    ],
+    "entities": {
+      "people": [
+        "Nora Fatehi",
+        "Sukesh Chandrashekhar",
+        "Leena Maria Paulose"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Nora Fatehi",
+      "Sukesh Chandrashekhar case",
+      "Nora Fatehi legal team statement",
+      "Rouse Avenue Court Delhi"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/03122900/image-6.jpeg",
+        "caption": "Nora Fatehi's Legal Representatives Clarify Her Status as a Witness in the Sukesh Chandrashekhar Case",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-04T02:52:15Z"
+  },
+  "onqcvz": {
+    "id": "onqcvz",
+    "type": "news",
+    "headline": "Pierce Brosnan Backs Callum Turner For 007 As Josh O'Connor Addresses Rumors",
+    "dek": "Former James Bond actor Pierce Brosnan has given Callum Turner a strong endorsement for the iconic role, while fellow rumored contender Josh O'Connor has responded to the ongoing casting speculation.",
+    "body": [
+      {
+        "h": "The Search For The Next 007",
+        "p": [
+          "As the global cinematic franchise prepares for its next chapter, speculation surrounding who will take over the famous tuxedo has reached a fever pitch. Among the names frequently mentioned by pundits and fans alike are actors Callum Turner and Josh O'Connor.",
+          "Both performers have captured attention for their distinct onscreen presence, leading to considerable industry chatter regarding their potential candidacy for the legendary secret agent franchise."
+        ]
+      },
+      {
+        "h": "Pierce Brosnan Praises Callum Turner",
+        "p": [
+          "Former 007 star Pierce Brosnan recently offered high praise for Callum Turner, whom he has previously collaborated with. Speaking with Vanity Fair, Brosnan highlighted Turner's physical presence and capability.",
+          "Describing Turner as exceptionally strong, Brosnan noted that the younger generation of actors currently being discussed all possess distinct voices, physiques, and the longevity required to sustain a major franchise."
+        ]
+      },
+      {
+        "h": "Brosnan's Hopes For The Franchise",
+        "p": [
+          "Expressing excitement about the future of the series, Brosnan admitted he is eager to see how the legendary cinematic role evolves. He offered his best wishes to whoever ultimately secures the part.",
+          "The former Bond actor emphasized that stepping into such a massive shoes requires immense strength and courage, and he looks forward to celebrating the eventual casting announcement."
+        ]
+      },
+      {
+        "h": "Confidence In Denis Villeneuve",
+        "p": [
+          "Brosnan also shared his thoughts on filmmaker Denis Villeneuve and his anticipated vision for the franchise. The actor predicted that audiences will be entirely blown away by the upcoming iteration.",
+          "Praising Villeneuve as an iconoclastic director with visionary imagination and visceral storytelling techniques, Brosnan expressed absolute confidence in the director's artistic direction."
+        ]
+      },
+      {
+        "h": "Josh O'Connor Responds To Speculation",
+        "p": [
+          "Meanwhile, Josh O'Connor addressed the persistent rumors linking him to the iconic secret agent role during a conversation with British GQ. He acknowledged that hearing his name in connection with the part is entirely flattering.",
+          "O'Connor described the experience of being mentioned for such a high-profile role as a bizarre and extraordinary pinch-me moment, while maintaining that he prefers not to add to the ongoing noise surrounding the casting process."
+        ]
+      },
+      {
+        "h": "Patience And Nostalgia",
+        "p": [
+          "Reflecting on the nature of long-running cinematic properties, Brosnan noted that audiences naturally experience sentimentality and nostalgia when a new era begins.",
+          "He advised fans to remain patient and give the creative team time, characterizing the widespread anticipation and guessing games as a delightful part of the franchise's enduring legacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pierce Brosnan has endorsed former co-star Callum Turner as a strong contender for the next James Bond, praising the young actor's physical presence and longevity. At the same time, fellow rumored candidate Josh O'Connor expressed gratitude for the flattering speculation without confirming any further details about the casting process."
+        ]
+      }
+    ],
+    "facts": [
+      "Pierce Brosnan spoke to Vanity Fair about the James Bond casting.",
+      "Josh O'Connor discussed the rumors in an interview with British GQ.",
+      "Callum Turner received an endorsement from Pierce Brosnan.",
+      "Denis Villeneuve is involved in shaping an upcoming iteration of James Bond."
+    ],
+    "entities": {
+      "people": [
+        "Pierce Brosnan",
+        "Callum Turner",
+        "Josh O'Connor",
+        "Denis Villeneuve"
+      ],
+      "titles": [
+        "James Bond"
+      ]
+    },
+    "keywords": [
+      "Callum Turner James Bond",
+      "Pierce Brosnan Callum Turner",
+      "Josh O'Connor 007 casting",
+      "Denis Villeneuve James Bond"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/james-bond-callum-turner-josh-oconnor.jpg?w=1024",
+        "caption": "Pierce Brosnan Backs Callum Turner For 007 As Josh O'Connor Addresses Rumors",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 02:40:42 +0000"
   }
 };

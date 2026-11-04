@@ -4442,13 +4442,7 @@ window.FA_PUBLISHED = {
       {
         "name": "Netflix",
         "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "Netflix Standard with Ads",
-        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
-        "region": "US",
+        "region": "IN",
         "type": "flatrate"
       }
     ]
@@ -18666,7 +18660,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-01",
     "date_kind": "release",
     "runtime": 45,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1807629": {
     "id": 1807629,
@@ -19495,6 +19496,12 @@ window.FA_PUBLISHED = {
     "runtime": 84,
     "providers": [
       {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
         "region": "US",
@@ -20018,6 +20025,12 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 84,
     "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
       {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
