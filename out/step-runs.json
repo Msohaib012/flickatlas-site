@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-03T09:52:03Z",
-    "run_id": "41614283839",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
-      "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
-      "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
-      "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-03T10:02:55Z",
     "run_id": "41614898547",
     "status": "success",
@@ -1478,6 +1455,24 @@
      "updated": [],
      "count": 8,
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-04T06:59:23Z",
+    "run_id": "41788568401",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
    }
@@ -3055,29 +3050,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-03T09:55:41Z",
-    "run_id": "41614283839",
-    "status": "success",
-    "checked": {
-     "candidates": 485,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Defies Pre-Diwali Slump With Rs. 25 Crore Plus in Advance Bookings",
-      "Wendi McLendon-Covey Discusses Skipping the Oscars Following a Neck Lift Procedure",
-      "Ramayana Part One Box Office Advance Bookings Crosses Rs. 30 Crore Amid Pre-Diwali Slump",
-      "James Acaster Slams Fabricated Reports Over Alleged Celebrity Traitors Feud"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 485 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-03T10:02:55Z",
     "run_id": "41614898547",
     "status": "success",
@@ -3600,6 +3572,24 @@
      "detail": "api-news.json 576 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-04T06:59:23Z",
+    "run_id": "41788568401",
+    "status": "success",
+    "checked": {
+     "candidates": 576,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 576 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8276,5 +8266,5 @@
    }
   ]
  },
- "updated_at": "2026-11-04T06:54:31Z"
+ "updated_at": "2026-11-04T06:59:23Z"
 }
