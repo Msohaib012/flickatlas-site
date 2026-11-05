@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-05 20:21 PKT",
+ "checked_at": "2026-11-05 20:57 PKT",
  "overall": "theek",
  "status": "ok",
- "pipeline_hour": "2026-11-05T14:00:00Z",
+ "pipeline_hour": "2026-11-05T15:00:00Z",
  "mode": "primary",
  "verdict_source": "rules",
  "verdicts": [
@@ -23,7 +23,7 @@
    "name_ur": "Apply Auto",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:04 (success); gate har ghante.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:54 (success); gate har ghante.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -34,7 +34,7 @@
    "name_ur": "Convert News",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:21 (success); gate local feed + Google RSS hourly; paid fallback daily.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:56 (success); gate local feed + Google RSS hourly; paid fallback daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -46,7 +46,7 @@
    "status": "theek",
    "modes": [],
    "evidence_ur": "Aakhri real run 2026-11-05 19:55 (success); gate 18:35 / 20:35 / 22:35 / 00:35 PKT slots.",
-   "fix": "koi-nahi",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -56,7 +56,7 @@
    "name_ur": "Fetch",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 19:51 (success); gate working RSS hourly; slow RSS 6h; sitemap/homepage 12h; blocked daily.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:51 (success); gate working RSS hourly; slow RSS 6h; sitemap/homepage 12h; blocked daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -67,7 +67,7 @@
    "name_ur": "Gemini Batch",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:04 (success); gate har ghante (cap 40/day unchanged).",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:54 (success); gate har ghante (cap 40/day unchanged).",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -122,7 +122,7 @@
    "name_ur": "Multisource Boxoffice",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:21 (success); gate local averaging hourly; direct sources 3h/4h/6h/daily.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:56 (success); gate local averaging hourly; direct sources 3h/4h/6h/daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -133,7 +133,7 @@
    "name_ur": "Ott",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:04 (success); gate cached local rebuild hourly; digital 12h; providers daily.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:54 (success); gate cached local rebuild hourly; digital 12h; providers daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -144,8 +144,8 @@
    "name_ur": "Overseas Ai",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 18:00 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:55 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -155,7 +155,7 @@
    "name_ur": "Overseas Sweep",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 17:59 (success); gate ?.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:54 (success); gate ?.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -177,7 +177,7 @@
    "name_ur": "Publish",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:21 (success); gate har ghante (manzoori par).",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:56 (success); gate har ghante (manzoori par).",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -210,7 +210,7 @@
    "name_ur": "Stats Traffic",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:21 (success); gate har ghante.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:56 (success); gate har ghante.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -221,8 +221,8 @@
    "name_ur": "Tavily Boxoffice",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 19:04 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:56 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -243,7 +243,7 @@
    "name_ur": "Trending Weekly",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-05 20:21 (success); gate local published-article intersection hourly; only fresh Google RSS trend proof.",
+   "evidence_ur": "Aakhri real run 2026-11-05 20:56 (success); gate local published-article intersection hourly; only fresh Google RSS trend proof.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -254,7 +254,7 @@
    "name_ur": "Movies",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 4353 naye items fetch hue.",
+   "evidence_ur": "Aaj 4660 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -265,7 +265,7 @@
    "name_ur": "Box Office",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 148 naye items fetch hue.",
+   "evidence_ur": "Aaj 156 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -276,7 +276,7 @@
    "name_ur": "Celebrity news",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 245 naye items fetch hue.",
+   "evidence_ur": "Aaj 259 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -287,7 +287,7 @@
    "name_ur": "Upcoming releases",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 57 naye items fetch hue.",
+   "evidence_ur": "Aaj 59 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -298,7 +298,7 @@
    "name_ur": "OTT / Streaming",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 106 naye items fetch hue.",
+   "evidence_ur": "Aaj 113 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -309,7 +309,7 @@
    "name_ur": "TV & Dramas",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 58 naye items fetch hue.",
+   "evidence_ur": "Aaj 62 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -320,7 +320,7 @@
    "name_ur": "Trailers",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 53 naye items fetch hue.",
+   "evidence_ur": "Aaj 74 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -331,7 +331,7 @@
    "name_ur": "Episodes",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 137 naye items fetch hue.",
+   "evidence_ur": "Aaj 159 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -342,7 +342,7 @@
    "name_ur": "Awards",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 45 naye items fetch hue.",
+   "evidence_ur": "Aaj 49 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -353,7 +353,7 @@
    "name_ur": "Music / OST",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 90 naye items fetch hue.",
+   "evidence_ur": "Aaj 94 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -364,7 +364,7 @@
    "name_ur": "Viral",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aaj 29 naye items fetch hue.",
+   "evidence_ur": "Aaj 31 naye items fetch hue.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -409,13 +409,6 @@
  "redispatch": null,
  "history": [
   {
-   "pipeline_hour": "2026-11-05T09:00:00Z",
-   "status": "ok",
-   "overall": "theek",
-   "mode": "primary",
-   "at_pkt": "2026-11-05 14:58 PKT"
-  },
-  {
    "pipeline_hour": "2026-11-05T10:00:00Z",
    "status": "ok",
    "overall": "theek",
@@ -449,7 +442,14 @@
    "overall": "theek",
    "mode": "primary",
    "at_pkt": "2026-11-05 20:21 PKT"
+  },
+  {
+   "pipeline_hour": "2026-11-05T15:00:00Z",
+   "status": "ok",
+   "overall": "theek",
+   "mode": "primary",
+   "at_pkt": "2026-11-05 20:57 PKT"
   }
  ],
- "run_id": "42054180706"
+ "run_id": "42060120327"
 }
