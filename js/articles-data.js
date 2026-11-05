@@ -64080,5 +64080,603 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 16:48:21 +0000"
+  },
+  "60g9pc": {
+    "id": "60g9pc",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 11 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 11 aired on 2026-11-05 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 11 aired on 2026-11-05 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=KcxWCeH1Ekg"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zunaira aur Daniyal ki mohabbat aur unke darmiyan aane wale mushkilat ko dikhaya gaya hai. Zunaira raat ko achanak gayab ho jati hai aur Daniyal usay poori raat dhoondhta rehta hai jabke Zunaira ki maa aur family bohot pareshan hote hain. Subah jab Zunaira aur Daniyal ki mulakat hoti hai, Zunaira thaki hui aur ghabrayi hui hoti hai lekin Daniyal ke sath hone ki wajah se sukoon mehsoos karti hai. Daniyal usay samjhata hai ke uski family, khas kar uski maa bohot possessive hai aur Zunaira ko unke sath waqt guzaar kar unke tarike seekhne honge taqay woh unke dil mein jagah bana sake. Dusri taraf, Zunaira ki maa aur bhen uske naye rishte aur uske kharche ke baray mein baatein karte hain aur Zunaira ki behen usay yaad dilati hai ke Daniyal ki family high class hai aur wahan adjust karna aasaan nahi hoga. Episode ke aakhir mein Zunaira apne ghar wapas aati hai aur Daniyal ki di hui baton par sochti hai jabke woh apne phone mein Daniyal ki family ki tasweerein dekh kar unke jaisa banne ki koshish karne ka sochti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 11 aired on 2026-11-05.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=KcxWCeH1Ekg",
+      "YouTube views: 2,684.",
+      "Episode summary added 2026-11-05."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/KcxWCeH1Ekg/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 11",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-05T17:00:31Z"
+  },
+  "1q8eaae": {
+    "id": "1q8eaae",
+    "type": "news",
+    "headline": "Bano Episode 23 — Watch Online on Geo TV",
+    "dek": "Bano episode 23 aired on 2026-11-05 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 23 aired on 2026-11-05 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=3_aggcFxpFE"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano apne bhai se baat karti hai aur kehti hai ke agar Shahryar usse kabhi akela nahi chorega aur uske ghar wale bhi usse pyar nahi karte to koi bhi khandan apni bahu ko khule baazuon se kabool nahi karta, aur Pharfana bhabhi bhi bheno par mental torture karti hain. Phir wo Shahryar se shaadi ke rishte ko ek mauka dene ko kehti hai.\n\nDusri taraf, bhabhi aur uske father ki meeting hoti hai jahan wo aane wali pesharf ke baare mein baat karte hain aur bhabhi kehti hai ke usse mujh par aitbaar hona chahiye tha kyunki wo saari details khud bata sakti thi.\n\nBano apne bhai se poochti hai ke mehru nissa kaun hai, aur uske baad ek ladka aakar kehta hai ke agar wo yahan raha to Shahryar use maarega kyunki Doctor Shehla aayi thi aur Bano ko le jaana padega.\n\nShahryar aur uske father ki baat cheet mein father kehte hain ke bano ki shaadi ke halaat jo bhi the wo nahi jaante, lekin bano ka bhai gusse mein hai aur Shahryar ke sath kuch acha nahi hua.\n\nEpisode ke aakhri hisse mein, Bano phone par Shahryar se baat karti hai aur kehti hai ke wo usse kitna pyar karti hai, lekin Shahryar phone kaat deta hai aur Bano pareshan ho jaati hai jab woh phone nahi uthata."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 23 aired on 2026-11-05.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=3_aggcFxpFE",
+      "YouTube views: 215,280.",
+      "Episode summary added 2026-11-05."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3_aggcFxpFE/hqdefault.jpg",
+        "caption": "Bano Episode 23",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-05T17:00:28Z"
+  },
+  "ulhosl": {
+    "id": "ulhosl",
+    "type": "news",
+    "headline": "Uswah Episode 44 — Watch Online on Geo TV",
+    "dek": "Uswah episode 44 aired on 2026-11-05 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 44 aired on 2026-11-05 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=pvjHss9JkmI"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, aik scene mein husband aur wife khana kha rahe hote hain aur wife rone lagti hai kyun ke us se khana zyada ban gaya hota hai. Husband usay samjhata hai. Aglay scene mein, aik aur character door knock karta hai aur darwaza kholne par behes hoti hai. Raat ko, aik aur husband bahar gari ke paas pareshan baitha hota hai aur uski wife aakar us se poochti hai ke woh kyun pareshan hai. Wife batati hai ke woh pareshani mein namaz aur Quran parh kar sakoon leti hai. Subah, husband ko bukhar ho jata hai aur wife uska khayal rakhti hai, usay medicine deti hai aur ice pack lagati hai. Baad mein, aik aur character kitchen mein soup bana rahi hoti hai jab dosri aurat aakar puchti hai ke woh soup kyun bana rahi hai aur pata chalta hai ke woh husband ke liye hai jo beemar hai. Episode ke aakhir mein, aik husband bed par baitha hota hai jab uski wife soup le kar aati hai aur usay khilati hai, aur dono aapas mein baat cheet karte hain aur episode khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 44 aired on 2026-11-05.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=pvjHss9JkmI",
+      "YouTube views: 1,330,754.",
+      "Episode summary added 2026-11-05."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/pvjHss9JkmI/hqdefault.jpg",
+        "caption": "Uswah Episode 44",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-05T15:00:39Z"
+  },
+  "1ym82k3": {
+    "id": "1ym82k3",
+    "type": "news",
+    "headline": "Izzat Episode 47 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 47 aired on 2026-11-05 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 47 aired on 2026-11-05 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=IZY39aSEe3o"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein police aur Mohsin ki team aik bus ke driver ko pakarne ke liye aate hain jo Mohsin ka bhai lagta hai. Mohsin apne bhai ko dhundh kar usse puchhta hai aur police usse arrest kar leti hai. Doosri taraf, Mohsin ke ghar par aik khandan aata hai jo rishte ke liye unke ghar pauchta hai, aur yeh baatein chalti hain ke kaise khandan ko jod kar rakhna chahiye. Phir yeh pata chalta hai ke Mohsin aur uski family ke beech rishte ki baatein chal rahi hain aur woh sab is baat par khush hote hain. Baad mein, Jab Mohsin aur uski family ke log baithte hain, toh ek serious guftagu hoti hai jahan purani baatein aur galtiyan yaad ki jati hain. Episode ka aakhri scene ek emotional moment par khatam hota hai jahan sabhi log ek doosre ke saamne apne apne jajbaat aur galtiyon par baat karte hain aur drama ka yeh episode aik tension bhare mahol mein end hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 47 aired on 2026-11-05.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=IZY39aSEe3o",
+      "YouTube views: 8,360.",
+      "Episode summary added 2026-11-05."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/IZY39aSEe3o/hqdefault.jpg",
+        "caption": "Izzat Episode 47",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-05T15:00:17Z"
+  },
+  "yxm2a4": {
+    "id": "yxm2a4",
+    "type": "news",
+    "headline": "Khushi Episode 54 — Watch Online on HUM TV",
+    "dek": "Khushi episode 54 aired on 2026-11-05 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 54 aired on 2026-11-05 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=jjBFSOhHTJo"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi aur uski khala balcony mein baat karte hain jahan khala rote hue kehti hain ke unka sar dard nahi theek ho raha aur woh sirf beti chahti thi. Agli subah Khushi aur Ammar car mein kahin ja rahe hain jahan Khushi hasti hai aur Ammar se kehti hai ke woh usse bohat mohabbat karta hai. Khushi raste mein ek purani aunti ke ghar chali jati hai aur akele wapis aati hai. Khala Khushi se milti hain aur kehti hain ke unhein Khushi se koi shikayat nahi hai aur woh unhein apni beti samajhti hain. Phir Ammar wahan aata hai aur Khushi se kehti hai ke usne uske sath bohat bura kiya, woh usse maafi mangta hai aur kehta hai ke unhein Hamna ko wapis ghar lana chahiye. Doosri taraf Atiya bhabi aur khala Hamna ke bare mein baat kar rahi hain ke woh kahan hai aur uski tabiyat kaisi hai. Ammar Hamna ko lene ke liye ghar jata hai jahan khala aur baqi sab uske ane par khush hote hain aur Hamna bhi apna saman le kar wapis aa jati hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 54 aired on 2026-11-05.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=jjBFSOhHTJo",
+      "YouTube views: 456,332.",
+      "Episode summary added 2026-11-05."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/jjBFSOhHTJo/hqdefault.jpg",
+        "caption": "Khushi Episode 54",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-05T15:00:11Z"
+  },
+  "z034hh": {
+    "id": "z034hh",
+    "type": "news",
+    "headline": "Ramayana Part 1 Crosses ₹50 Crore on Opening Day",
+    "dek": "Nitesh Tiwari's grand cinematic adaptation of the epic mythological tale makes a strong debut at the domestic box office.",
+    "body": [
+      {
+        "h": "Opening Day Box Office Performance",
+        "p": [
+          "The highly anticipated mythological adaptation Ramayana Part 1 has officially arrived in cinemas, drawing considerable attention from audiences across the country. Amid an array of debates, pre-release discussions, and heavy expectations, the big-budget production has successfully crossed a major financial milestone on its very first day in theatres.",
+          "Based on live data tracking, the feature has pulled in substantial numbers as moviegoers flocked to screening halls. The domestic figures indicate a strong start for the ambitious project as it attempts to reverse the recent box office trends in the industry."
+        ]
+      },
+      {
+        "h": "Breaking Down the Domestic Collections",
+        "p": [
+          "By late evening on its release day, domestic tracking figures showed that the movie had earned approximately ₹64.28 crore in net collections. When factoring in the broader figures, the total India gross reached roughly ₹75.85 crore across a massive network of nearly 23,997 separate screenings.",
+          "This widespread release footprint allowed the feature to capture solid initial revenues, crossing the ₹50 crore threshold comfortably before the end of its first theatrical day."
+        ]
+      },
+      {
+        "h": "Language-Wise Earnings Breakdown",
+        "p": [
+          "The film's performance was bolstered by a multilingual release strategy that brought in numbers from various regional markets. The Hindi version led the charge decisively, bringing in ₹46.45 crore from a total of 19,558 shows.",
+          "Regional versions also contributed meaningfully to the overall day-one tally. The Kannada screenings generated ₹7.88 crore across 1,197 shows, while the Telugu market added ₹5.98 crore from 1,732 shows. Meanwhile, the Tamil and Malayalam versions contributed ₹2.47 crore and ₹1.50 crore respectively."
+        ]
+      },
+      {
+        "h": "Audience Occupancy and Show Trends",
+        "p": [
+          "Throughout the release day, theatrical occupancy for the Hindi 3D screenings demonstrated a steady upward curve from morning slots into prime evening viewings. Morning shows recorded a respectable 22.77% occupancy rate.",
+          "As the day progressed, interest grew further, with afternoon screenings seeing an increase to 26.31%. By the time evening shows rolled out, occupancy peaked at 38.08%, indicating strong walk-in momentum."
+        ]
+      },
+      {
+        "h": "Comparison With Prior Openings",
+        "p": [
+          "Despite the impressive ₹50 crore-plus milestone, the opening figures for Ramayana Part 1 remain behind those of Om Raut's earlier epic retelling, Adipurush. Tracking data notes that the previous film achieved ₹86.75 crore net and ₹103.08 crore India gross on its opening day.",
+          "Even though the new release trails that specific opening benchmark, its early domestic performance still establishes it as one of the prominent box office arrivals of the current calendar year."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Family Support",
+        "p": [
+          "Away from the box office trackers, the project has garnered personal support from the cast and their families. Actress Alia Bhatt shared a heartfelt behind-the-scenes photograph on social media showing lead actor Ranbir Kapoor in his Lord Rama costume alongside their daughter Raha.",
+          "The post highlighted the dedication poured into the production, with family members expressing deep pride in the effort required to bring such a massive mythological narrative to the silver screen."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by filmmaker Nitesh Tiwari and produced by Namit Malhotra, the feature boasts an expansive ensemble cast representing multiple regional film industries. The main trio features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana.",
+          "The supporting roster includes notable performers such as Ravi Dubey, Arun Govil, Lara Dutta, Rakul Preet Singh, Sheeba Chaddha, and Indira Krishnan, contributing to the scale of the production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 opened in cinemas on November 5, 2026, crossing ₹50 crore in net domestic collections by the evening of its release. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the film achieved strong language-wise numbers across thousands of shows but finished behind the opening day records set by Adipurush."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 released on November 5, 2026.",
+      "The film earned approximately ₹64.28 crore net domestically on its opening day.",
+      "India gross collection on day one reached ₹75.85 crore.",
+      "Total screenings on the opening day numbered 23,997.",
+      "Hindi net collections were ₹46.45 crore from 19,558 shows.",
+      "Kannada net collections were ₹7.88 crore from 1,197 shows.",
+      "Telugu net collections were ₹5.98 crore from 1,732 shows.",
+      "Tamil net collections were ₹2.47 crore from 962 shows.",
+      "Malayalam net collections were ₹1.50 crore from 548 shows.",
+      "Hindi 3D morning occupancy was 22.77%.",
+      "Hindi 3D afternoon occupancy was 26.31%.",
+      "Hindi 3D evening occupancy was 38.08%",
+      "Adipurush opened with ₹86.75 crore net and ₹103.08 crore India gross."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Alia Bhatt",
+        "Ranbir Kapoor",
+        "Raha",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Indira Krishnan",
+        "Om Raut"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Ramayana",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 1 collection",
+      "Ramayana vs Adipurush"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-05t214202-591-19661793895127.jpg",
+        "caption": "Ramayana Part 1 Crosses ₹50 Crore on Opening Day",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 21:42:22 +0530"
+  },
+  "jw9kuq": {
+    "id": "jw9kuq",
+    "type": "news",
+    "headline": "Ramayana Ending Explained: How Nitesh Tiwari's Part 1 Sets Up the Epic Sequel",
+    "dek": "Nitesh Tiwari's Ramayana: Part 1 concludes not with a final battle, but with a funeral, a vow, and a powerful post-credit tease featuring Sunny Deol as Lord Hanuman.",
+    "body": [
+      {
+        "h": "Introduction to the Conclusion",
+        "p": [
+          "Nitesh Tiwari's cinematic adaptation of Ramayana: Part 1 chooses a unique stopping point rather than rushing straight into the ultimate showdown. Instead of closing with a direct confrontation between Ram and Ravana, the narrative pauses after pivotal events unfold following Sita's abduction.",
+          "Audience members who stay through the credits are rewarded with a major sequence that sets the stage for the upcoming continuation. The conclusion balances mourning with an explosive look forward to the battles yet to come."
+        ]
+      },
+      {
+        "h": "Jatayu's Final Warning and Stakes",
+        "p": [
+          "The theatrical cut closes with the funeral of Jatayu after the valiant bird suffers mortal wounds while fighting Ravana to protect Sita. This spectacular sequence serves as the emotional anchor before the story shifts entirely to future conflicts.",
+          "Before passing away, Jatayu issues a stern warning to Ram about the extreme difficulties of the journey to Lanka. He outlines Ravana's immense power, noting his control over three realms and a formidable army that includes Kumbhakarna and Meghanada, played by Raghav Juyal."
+        ]
+      },
+      {
+        "h": "Ram's Vow to End Ravana",
+        "p": [
+          "Following Jatayu's death, Ranbir Kapoor's portrayal of Ram steps away from his customary calm demeanor. He reflects deeply on the heavy setbacks suffered and recognizes his ultimate life purpose.",
+          "Ram makes a solemn pledge that regardless of Ravana's overwhelming might, he will systematically dismantle his reign and rescue Sita. This transformation turns the peaceful protagonist into a focused warrior driven by a clear mission."
+        ]
+      },
+      {
+        "h": "The Post-Credit Hanuman Reveal",
+        "p": [
+          "The most discussed moment occurs during the credits while the Hanuman Chalisa plays in the background, featuring vocals by Sukhwinder, Diljit Dosanjh, Mohit Chauhan, Shankar Mahadevan, and Kailash Kher. The scene shows a dense forest where Lord Hanuman runs and takes a massive leap into the air.",
+          "Without revealing his full visual design, Sunny Deol delivers a booming three-word chant of Jai Shri Ram mid-flight. This singular vocal performance immediately electrifies the audience and keeps the complete character look hidden for the sequel's promotional campaign."
+        ]
+      },
+      {
+        "h": "Release Timeline for Part 2",
+        "p": [
+          "Immediately following the Hanuman teaser, a screen card announces that Ramayana Part 2 will release worldwide during Diwali 2028. Producer Namit Malhotra explained that the extra time is necessary to ensure the massive scale of the epic is handled properly.",
+          "Although a two-year wait may test the patience of some fans, the complexity of staging the war in Lanka justifies the extended production schedule. The filmmakers intend to deliver a visual spectacle that matches the ambition of the first film."
+        ]
+      },
+      {
+        "h": "What to Expect in the Sequel",
+        "p": [
+          "The forthcoming installment will center heavily on Ram building his powerful army of Vanaras and carrying the war directly to Lanka. Viewers can anticipate major plot points from the epic, including the initial meeting between Ram and Hanuman and the dramatic search for Sita.",
+          "With Hanuman's legendary leap across the sea serving as a core narrative driver, the road is paved for the eventual clash between Ram and Ravana. The foundational pieces are now securely in place for the continuation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana: Part 1 concludes with Jatayu's funeral and Ram's vow to defeat Ravana rather than a direct battle. The film finishes with a post-credit teaser featuring Sunny Deol voicing Lord Hanuman, alongside an official announcement for Part 2 arriving in Diwali 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari directed Ramayana: Part 1.",
+      "Ranbir Kapoor plays Ram.",
+      "Raghav Juyal plays Meghnad.",
+      "Sunny Deol voices Lord Hanuman.",
+      "Ramayana Part 2 is scheduled to release worldwide in Diwali 2028.",
+      "Namit Malhotra is the producer of the film.",
+      "The Hanuman Chalisa in the post-credits features vocals by Sukhwinder, Diljit Dosanjh, Mohit Chauhan, Shankar Mahadevan, and Kailash Kher."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ranbir Kapoor",
+        "Raghav Juyal",
+        "Sukhwinder",
+        "Diljit Dosanjh",
+        "Mohit Chauhan",
+        "Shankar Mahadevan",
+        "Kailash Kher",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 ending explained",
+      "Sunny Deol Hanuman Ramayana",
+      "Ramayana Part 2 Diwali 2028",
+      "Ranbir Kapoor Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-01.jpg",
+        "caption": "Ramayana Ending Explained: How Nitesh Tiwari's Part 1 Sets Up the Epic Sequel",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 14:18:50 +0000"
+  },
+  "1xefv55": {
+    "id": "1xefv55",
+    "type": "news",
+    "headline": "Universal Orlando Confirms New Dark Universe Roller Coaster For Epic Universe",
+    "dek": "Universal Orlando has officially announced a brand-new indoor roller coaster coming to the Dark Universe area at Epic Universe, though fan speculation regarding a Creature from the Black Lagoon attraction persists.",
+    "body": [
+      {
+        "h": "Epic Universe Expansion Plans",
+        "p": [
+          "Universal Orlando has officially confirmed that a new indoor roller coaster is officially on the way for the Dark Universe zone at Epic Universe. The announcement comes in response to ongoing discussions among theme park visitors concerning a lack of indoor attractions capable of handling crowds when inclement weather shuts down outdoor rides.",
+          "Park management has acknowledged these community concerns and initiated active development across both the Dark Universe and Ministry of Magic zones. Construction on the newly confirmed project is already actively underway as the resort looks ahead to 2027."
+        ]
+      },
+      {
+        "h": "The Fan Speculation Continues",
+        "p": [
+          "Following the official reveal, park enthusiasts immediately engaged with Universal on social media to question whether the project might be a boat ride themed around the Creature from the Black Lagoon. Universal responded by stating that specific details concerning the storyline and characters will be shared at a later date.",
+          "Despite the confirmation of a coaster format, many observers believe the announcement fails to completely silence ongoing rumors. Prior observations of a large excavation pit and discussions surrounding water-coaster hybrid designs keep alternative theories alive."
+        ]
+      },
+      {
+        "h": "Themable Possibilities and Previous Rides",
+        "p": [
+          "Existing Universal parks already feature classic monster attractions dedicated to characters like The Mummy, Werewolf, Frankenstein, and Dracula. This rich legacy leaves plenty of room for debate regarding how the upcoming indoor experience will ultimately be styled.",
+          "While some fans point to Frankenstein-adjacent concepts, others remain open to various narrative directions. Regardless of the final thematic execution, anticipation remains high for another major addition to the resort's monster-themed land."
+        ]
+      },
+      {
+        "h": "Broader 2027 Updates Across Universal Orlando",
+        "p": [
+          "The new Dark Universe coaster is just one of several major developments slated for the Universal Orlando Resort heading into 2027. Construction is also moving forward rapidly on a new Fast and Furious roller coaster.",
+          "Additionally, Islands of Adventure is preparing to open a full-service Jurassic Park restaurant in 2027, while CityWalk welcomes Luke Combs' Category 10 venue. The resort is also updating the Universal Horror Makeup Show in collaboration with Blumhouse."
+        ]
+      },
+      {
+        "h": "Keeping Holiday Momentum Alive",
+        "p": [
+          "The flurry of upcoming attractions arrives as Universal seeks to maintain high visitor engagement following the conclusion of seasonal offerings like Halloween Horror Nights and Grinchmas. Typically, January brings a slowdown in visitor momentum.",
+          "By lining up multiple high-profile projects for the coming years, the resort aims to keep excitement steady for enthusiasts looking forward to fresh experiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Universal Orlando has confirmed that a new indoor roller coaster is currently under construction in the Dark Universe area of Epic Universe for a 2027 release. While fans continue to speculate about potential themes like the Creature from the Black Lagoon, Universal has stated that further details will be revealed at a later date alongside several other resort-wide additions."
+        ]
+      }
+    ],
+    "facts": [
+      "Epic Universe is adding a new indoor roller coaster to the Dark Universe area.",
+      "Construction on the new Dark Universe attraction is already underway.",
+      "The new ride is scheduled to debut looking toward 2027.",
+      "Universal Orlando is also building a Fast and Furious coaster.",
+      "Islands of Adventure is opening a full-service Jurassic Park restaurant in 2027.",
+      "CityWalk is getting a refresh with Luke Combs' Category 10 opening.",
+      "The Universal Horror Makeup Show has been retooled featuring Blumhouse."
+    ],
+    "entities": {
+      "people": [
+        "Luke Combs",
+        "Jessica Rawden"
+      ],
+      "titles": [
+        "The Mummy",
+        "Fast and Furious"
+      ]
+    },
+    "keywords": [
+      "Epic Universe Dark Universe ride",
+      "Universal Orlando 2027 roller coaster",
+      "Epic Universe new attraction",
+      "Dark Universe coaster construction"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/Qt6eaVoMARbxYWrWG4mHNC-2000-80.jpg",
+        "caption": "Universal Orlando Confirms New Dark Universe Roller Coaster For Epic Universe",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 16:19:18 +0000"
+  },
+  "1qvqdov": {
+    "id": "1qvqdov",
+    "type": "news",
+    "headline": "Prime Video Unveils First Look at Charlie Hunnam's Violent New Streaming Miniseries",
+    "dek": "Charlie Hunnam returns to the small screen in Prime Video's upcoming adaptation of Ed Brubaker and Sean Phillips' graphic novel series, split into two four-episode parts arriving in January 2027.",
+    "body": [
+      {
+        "h": "First Look At The New Series",
+        "p": [
+          "Viewers have received their initial glimpse into the violent streaming miniseries adapted from the acclaimed graphic novel. The preview highlights a gritty tone that seems well-suited for its leading star, known previously for major television roles.",
+          "The project brings a renowned graphic novel page to the screen through a major streaming platform, generating considerable anticipation among fans of serialized crime dramas."
+        ]
+      },
+      {
+        "h": "Source Material And Creators",
+        "p": [
+          "The upcoming show is based directly on the acclaimed graphic novel created by Ed Brubaker and Sean Phillips. Brubaker is heavily involved in bringing his work to television, serving as a co-showrunner alongside Jordan Harper.",
+          "Adapting the complex literary source material required careful structuring, leading the platform to divide the narrative blocks into distinct chronological chapters for viewers."
+        ]
+      },
+      {
+        "h": "Plot And Character Dynamics",
+        "p": [
+          "At the core of the story are two childhood friends who grew up immersed in a life of crime. As they navigate adulthood, one desperately attempts to leave that dark world behind, while the other strives to establish a formidable reputation.",
+          "The promotional footage indicates that the narrative will explore heavy themes of violence, criminal enterprises, and family friction, accompanied by occasional romantic elements."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Charlie Hunnam anchors the production alongside co-star Gus Halper, portraying the central figures whose lifelong bond is tested by their divergent paths in the underworld.",
+          "The expansive supporting lineup features prominent actors including Luke Evans, Adria Arjona, Emilia Clarke, Richard Jenkins, Kadeem Hardison, John Hawkes, and Logan Browning."
+        ]
+      },
+      {
+        "h": "Release Schedule And Structure",
+        "p": [
+          "Prime Video has structured the miniseries into two separate blocks, each consisting of four episodes. Subscribers will not receive the entire story at once, as the rollout is split across two distinct dates.",
+          "The first half, subtitled Part 1 Coward, is scheduled to debut on January 13th. Following that release, the second half, titled Part 2 Lawless, will premiere on the streamer on January 27th."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has released a first look teaser for its upcoming book-to-screen adaptation of the graphic novel Criminal, starring Charlie Hunnam and Gus Halper. The miniseries is split into two four-episode parts titled Coward and Lawless, premiering on January 13th and January 27th respectively."
+        ]
+      }
+    ],
+    "facts": [
+      "Criminal is a book-to-screen adaptation of Ed Brubaker and Sean Phillips' graphic novel.",
+      "The series stars Charlie Hunnam and Gus Halper.",
+      "The cast also includes Luke Evans, Adria Arjona, Emilia Clarke, Richard Jenkins, Kadeem Hardison, John Hawkes, and Logan Browning.",
+      "Ed Brubaker and Jordan Harper serve as showrunners.",
+      "The series is broken up into two parts, each containing four episodes.",
+      "Criminal: Part 1 Coward arrives on January 13th.",
+      "Criminal: Part 2 Lawless hits the streamer on January 27th.",
+      "The series will be available on Prime Video beginning in January 2027."
+    ],
+    "entities": {
+      "people": [
+        "Charlie Hunnam",
+        "Ed Brubaker",
+        "Sean Phillips",
+        "Gus Halper",
+        "Luke Evans",
+        "Adria Arjona",
+        "Emilia Clarke",
+        "Richard Jenkins",
+        "Kadeem Hardison",
+        "John Hawkes",
+        "Logan Browning",
+        "Jordan Harper"
+      ],
+      "titles": [
+        "Criminal",
+        "Sons of Anarchy"
+      ]
+    },
+    "keywords": [
+      "Criminal Prime Video series",
+      "Charlie Hunnam Criminal",
+      "Ed Brubaker graphic novel adaptation",
+      "Criminal release date"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/ttBmaqKjrqgvUXLoSN5WDd-2000-80.jpg",
+        "caption": "Prime Video Unveils First Look at Charlie Hunnam's Violent New Streaming Miniseries",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 16:00:03 +0000"
   }
 };
