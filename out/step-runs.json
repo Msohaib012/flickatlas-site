@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T00:52:00Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": {
-     "candidates": 378,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Rashi Mal REVEALS Baaton Mulaqaton Mein Was Originally Made For A Film, Opens Up On Body Dysmorphia- EXCLUSIVE",
-      "'Ranabaali' earns three times Rashmika Mandanna's 'The Girlfriend'",
-      "'Jailer 2': Rajinikanth inches closer to beating Vijay's 'GOAT'",
-      "'Ramayana' nears Rs 100 crore mark in advance bookings",
-      "Salman Khan shows off lean look at Diwali bash - WATCH",
-      "Ramayana Mumbai screening: Ranbir greets paps, Alia Bhatt and family attend. Pics",
-      "best hill stations in india for a peaceful summer vacation 3077342.html",
-      "hair colour picks on amazon for festive makeovers and everyday grey coverage 3077329.html",
-      "natural and ayurvedic personal care picks on amazon for everyday self care 3077336.html",
-      "travel and skincare gift sets on amazon for holidays and festive gifting 3077331.html",
-      "video acp manasvi vashishta who led protest outside delhi police hq suspended 3223525",
-      "video cyclone murasu electric poles damaged aftermath of severe cyclonic storm in andhra pradesh 3223526",
-      "5 stars who show that great style has more to do with attitude than trends",
-      "nora fatehis legal team clarifies she is not an accused in sukesh chandrashekhar case more details inside",
-      "orry calls sara ali khan a fake friend alleges amrita singh verbally abused him more details inside",
-      "tusshar kapoor gets rs 5 crore extortion threat from caller claiming to be bishnoi gang member report",
-      "Harry Potter’s Paapa Essiedu On The Brutally Honest Way He Reacted When Finding Out He’d Play Snape",
-      "After Rebecca Yarros’ Comment About Fourth Wing Characters Dying, I'm Worried About Someone Specific",
-      "What Dakota Johnson (Allegedly) ‘Respects’ Most About Rumored Boyfriend MGK",
-      "ABC's 'Rookie' Replacement Is Still the Best Procedural of All Time"
-     ],
-     "updated": [],
-     "count": 303,
-     "detail": "308 stories, 1 duplicates removed, 70 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-04T01:50:56Z",
     "run_id": "41756780510",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "314 stories, 1 duplicates removed, 82 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T04:51:19Z",
-    "run_id": "41775610975",
+    "run_at": "2026-11-05T04:50:57Z",
+    "run_id": "41970273975",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 327,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh Daggubati Film Nears Rs 60 Crore Worldwide",
-      "Na Hong Jin's Hope Breaks French Opening Records for Korean Cinema in 2026",
-      "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
-      "Massive LEGO Godzilla Set Scheduled for November Release Following Crowdsourcing Triumph"
+      "SCOOP: 4.43 minute long Maatrubhumi trailer passed by CBFC; makers now eye November 20 or December 11 for release",
+      "Rajkumar Hirani plans to begin filming Munna Bhai 3 starring Sanjay Dutt and Arshad Warsi in 2027: Report",
+      "Ramayana Post-Credit Scene: Is Sunny Deol's Look As Lord Hanuman Revealed In Last Scene? Confirmed Update",
+      "Ramayana | OG Laxman Sunil Lahri Disappointed By Film's Music: Ayodhya Ka Local Flavour Hona Chahiye Tha",
+      "The Traitors Telugu Episode 10 Release Time Today: Who Will Win? Here’s When Last Episode Will Premiere Online",
+      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 6: Venkatesh's Film Crosses ₹61 Crore Worldwide",
+      "Koffee With Karan 9 Ep 4: Kareena Kapoor Recalls Horrifying Night Of Saif's Stabbing, Says 'I Was Screaming…'",
+      "Meghana Raj praises Mamitha Baiju's performance",
+      "Sundar C says he is still fine-tuning the Nayanthara's 'Mookuthi Amman 2'",
+      "RJ Mahvash's podcast clip sparks Yuzvendra Chahal cheating rumours",
+      "Sachin Tendulkar uses Mohanlal's iconic 'Narasimham' dialogue",
+      "'Drishyam 3' day 34: Ajay Devgn's film sees 97% weekly collection drop",
+      "'Prahaar' day 20: Rajkummar Rao beats his own 'Maalik' worldwide record",
+      "'Udta Teer' box office collection day 13: Ayushmann Khurrana's film collects Rs 1.20 cr",
+      "'Bachelor Party D'eux' trailer review: 'No one has an aura'",
+      "Rohini Hattangady recalls Dharmendra asking her to wear more makeup as she looked too young to play his mother",
+      "Namit Malhotra feels like ‘Sachin Tendulkar getting picked for World Cup on debut' while taking Ramayana global",
+      "Kartik Aaryan turns producer with Kabir Khan's next titled Ladaku; Birla Studios announces release date",
+      "Keerthy Suresh admits facing problems at home due to interfaith marriage with Antony Thattil",
+      "Delhi HC refuses to entertain plea to stay release of Sunny Deol-starrer Suryaa"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 296,
+     "detail": "327 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1470,27 +1447,32 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-05T04:52:00Z",
+    "run_id": "41970273975",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Maatrubhumi Trailer Cleared By CBFC As Makers Consider November 20 Or December 11 Release Dates",
+      "DC Studios Taps Francis Galluppi to Write New John Constantine Movie",
+      "Aadarsha Kutumbam House No 47 Box Office Collection Day 6: Venkatesh Daggubati Starrer Crosses ₹61 Crore Worldwide",
+      "Kareena Kapoor And Saif Ali Khan Open Up About Bandra Home Intruder Attack On Koffee With Karan 9"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-04T02:54:22Z",
-    "run_id": "41763325654",
-    "status": "success",
-    "checked": {
-     "candidates": 190,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 187, coming 3"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1904,29 +1886,27 @@
      "detail": "now 194, coming 2"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-05T04:52:01Z",
+    "run_id": "41970273975",
+    "status": "success",
+    "checked": {
+     "candidates": 198,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 196, coming 2"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-04T06:01:46Z",
-    "run_id": "41781704283",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "vfq7c9",
-      "19klbo7"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2364,27 +2344,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-04T06:01:43Z",
-    "run_id": "41781704283",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-05T04:52:02Z",
+    "run_id": "41970273975",
     "status": "success",
     "checked": {
-     "candidates": 472,
-     "detail": "470 collected staging rows from readers; 181 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 157,
-     "detail": "+0 new rows, 157 updated rows, 313 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2798,19 +2777,27 @@
      "detail": "+2 new rows, 2 updated rows, 520 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T04:52:01Z",
+    "run_id": "41970273975",
+    "status": "success",
+    "checked": {
+     "candidates": 526,
+     "detail": "524 collected staging rows from readers; 189 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 521 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3040,32 +3027,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-04T06:54:21Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 576,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Unannounced Persona 1 Remake Leaks Online via Detailed Gameplay Footage",
-      "Ranabaali Box Office Collection Day 19: Vijay Deverakonda Starrer Crosses ₹80 Crore Worldwide",
-      "Netflix Animated Comedy Haunted Hotel Officially Confirmed for Season 3 Return in 2027",
-      "Ram Kamal Mukherjee Secures Best Director at International Indian Film Festival of Toronto"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 576 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3580,19 +3554,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-05T04:52:02Z",
+    "run_id": "41970273975",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Maatrubhumi Trailer Cleared By CBFC As Makers Consider November 20 Or December 11 Release Dates",
+      "DC Studios Taps Francis Galluppi to Write New John Constantine Movie",
+      "Aadarsha Kutumbam House No 47 Box Office Collection Day 6: Venkatesh Daggubati Starrer Crosses ₹61 Crore Worldwide",
+      "Kareena Kapoor And Saif Ali Khan Open Up About Bandra Home Intruder Attack On Koffee With Karan 9"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3848,19 +3835,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4174,31 +4161,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-04T00:52:25Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 303 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 2/6, celebrities_events 0/5, upcoming_releases 0/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "‘Ramayana: Rise of a Legend’ Nears Rs 100 Crore in Advance Bookings Ahead of November 5 Release",
-      "All's Fair Season 2 Cast Revealed: Returning Stars, New Regulars, and Guest Additions",
-      "'Jailer 2' Box Office Day 20: Rajinikanth Starrer Crosses Rs 816 Crore Worldwide",
-      "Blackpink Star Jisoo to Write and Perform Original Song for The Angry Birds Movie 3"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4704,26 +4679,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-05T04:52:00Z",
+    "run_id": "41970273975",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 296 still unprocessed; today by category: movies 3/6, tv_dramas 2/4, episodes 0/2, box_office 5/6, celebrities_events 1/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Maatrubhumi Trailer Cleared By CBFC As Makers Consider November 20 Or December 11 Release Dates",
+      "DC Studios Taps Francis Galluppi to Write New John Constantine Movie",
+      "Aadarsha Kutumbam House No 47 Box Office Collection Day 6: Venkatesh Daggubati Starrer Crosses ₹61 Crore Worldwide",
+      "Kareena Kapoor And Saif Ali Khan Open Up About Bandra Home Intruder Attack On Koffee With Karan 9"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-04T00:54:06Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": {
-     "candidates": 34,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5030,24 +5010,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 404,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5392,24 +5367,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 35,
+     "count": 384,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5734,24 +5709,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 75,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6001,19 +5971,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6248,19 +6218,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6533,19 +6503,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6786,19 +6756,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7028,19 +6998,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7289,6 +7259,16 @@
     "category": "Trending News",
     "run_at": "2026-11-05T02:58:01Z",
     "run_id": "41951220286",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7709,16 +7689,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-04T02:47:21Z",
     "run_id": "41756780510",
     "status": "skipped",
@@ -7955,24 +7925,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-04T00:57:16Z",
-    "run_id": "41749814747",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 9862,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8222,8 +8187,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-05T04:52:11Z",
+    "run_id": "41970273975",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-05T04:24:22Z"
+ "updated_at": "2026-11-05T04:52:11Z"
 }

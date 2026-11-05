@@ -61370,5 +61370,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 08:30:45 +0200"
+  },
+  "1490r1h": {
+    "id": "1490r1h",
+    "type": "news",
+    "headline": "Maatrubhumi Trailer Cleared By CBFC As Makers Consider November 20 Or December 11 Release Dates",
+    "dek": "Salman Khan's highly anticipated project Maatrubhumi has cleared a major hurdle with its extensive promotional preview receiving a formal certification, while distributors and producers weigh fresh theatrical slots.",
+    "body": [
+      {
+        "h": "Introduction To The Project",
+        "p": [
+          "The upcoming cinematic venture starring Salman Khan, widely discussed across entertainment circles, has reached a fresh milestone in its journey toward the silver screen. Originally introduced under a different working title before being officially renamed earlier this year, the production has continuously drawn substantial public interest.",
+          "Industry observers have closely tracked every development surrounding the feature, particularly given its ambitious scale and high-profile lead actor. The recent clearance of promotional material marks an encouraging step for the entire team involved in bringing the project to completion."
+        ]
+      },
+      {
+        "h": "Subject Matter And Background",
+        "p": [
+          "The narrative of the film draws direct inspiration from the real-life geopolitical tensions and border confrontations that took place between India and China in the year 2020. This sensitive backdrop required careful handling during the developmental phases, especially concerning specific narrative elements and diplomatic references.",
+          "Due to evolving political dynamics and improving bilateral ties between the two nations, the project reportedly encountered several administrative and content-related obstacles. Navigating these bureaucratic hurdles took considerable time before securing necessary official approvals from government authorities."
+        ]
+      },
+      {
+        "h": "Censor Board Certification And Details",
+        "p": [
+          "A significant breakthrough occurred when the Central Board of Film Certification evaluated and officially cleared the promotional preview for public viewing. According to official records available on the regulatory board portal, the clearance was granted recently.",
+          "The preview boasts an unusually expansive runtime of four minutes and forty-three seconds, and it has been awarded a U/A 16+ rating. While the main feature awaits its final censor clearance certificate, securing approval for the promotional asset represents a vital step forward."
+        ]
+      },
+      {
+        "h": "Revised Theatrical Release Windows",
+        "p": [
+          "Initial discussions had pointed toward a mid-November premiere window, specifically eyeing a mid-month arrival. However, due to unexpected delays in obtaining the final censor documentation, that timeline has become increasingly impractical for the producers.",
+          "Consequently, studio planners are actively evaluating two alternative premiere dates for the big-screen debut. The team is currently considering either a late-November slot or a mid-December theatrical arrival instead."
+        ]
+      },
+      {
+        "h": "Distribution Partners And Strategic Planning",
+        "p": [
+          "The nationwide distribution responsibilities for the theatrical rollout have been secured by a major studio partner. Jio Studios will oversee the comprehensive release strategy across cinema halls throughout the country.",
+          "Insiders close to the production indicate that an official announcement confirming the finalized premiere date will be shared with the public within the next few days, ending weeks of speculation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The extensive promotional preview for Salman Khan's Maatrubhumi has successfully obtained a U/A 16+ certification from the Central Board of Film Certification with a runtime of 4 minutes and 43 seconds. Following delays in securing the final feature certificate, the makers are now evaluating new theatrical release dates on either November 20 or December 11, with nationwide distribution managed by Jio Studios."
+        ]
+      }
+    ],
+    "facts": [
+      "Maatrubhumi was initially announced as Battle Of Galwan.",
+      "The film is based on the 2020 conflict between India and China.",
+      "The trailer was passed by the Central Board of Film Certification on Wednesday, November 4.",
+      "The trailer has a runtime of 4 minutes and 43 seconds and received a U/A 16+ certificate.",
+      "Jio Studios will handle all India distribution of Maatrubhumi.",
+      "The makers are considering release dates of November 20 or December 11."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle Of Galwan"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi trailer CBFC",
+      "Salman Khan Maatrubhumi release date",
+      "Maatrubhumi Battle Of Galwan",
+      "Jio Studios Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Maatrubhumi-620.jpeg",
+        "caption": "Maatrubhumi Trailer Cleared By CBFC As Makers Consider November 20 Or December 11 Release Dates",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 09:17:40 +0200"
+  },
+  "1jteg2v": {
+    "id": "1jteg2v",
+    "type": "news",
+    "headline": "DC Studios Taps Francis Galluppi to Write New John Constantine Movie",
+    "dek": "DC Studios has brought in filmmaker Francis Galluppi to pen a fresh John Constantine film, though it is not the long-awaited Keanu Reeves sequel.",
+    "body": [
+      {
+        "h": "DC Studios Makes a Move",
+        "p": [
+          "DC Studios has taken a significant step forward regarding its supernatural slate by hiring its very first key creative talent for an upcoming project. Rather than advancing the anticipated sequel that many supporters have hoped for, the studio is setting its sights in a different direction. This decision signals a fresh creative chapter for the iconic Hellblazer within the broader cinematic landscape.",
+          "The newly appointed writer will steer the narrative of this upcoming reboot, though the production itself remains in very early development. At this stage, no additional cast members or directors have been attached to the project, leaving the exact scope and timeline under wraps."
+        ]
+      },
+      {
+        "h": "Writer Francis Galluppi Joins the Project",
+        "p": [
+          "According to an exclusive report, DC Studios has selected Francis Galluppi to script the upcoming John Constantine feature film. Galluppi previously directed the feature film The Last Stop in Yuma County and also penned the upcoming movie Evil Dead Wrath.",
+          "Galluppi first gained widespread attention when his debut feature premiered to critical acclaim at Fantastic Fest. His work earned high praise from filmmaker Sam Raimi, who commended Galluppi's ability to maintain simmering tension and deliver explosive violence at precisely the right moments."
+        ]
+      },
+      {
+        "h": "Origins of the Hellblazer Character",
+        "p": [
+          "The character of John Constantine originally debuted in The Saga of the Swamp Thing #37 in the year 1985. The iconic comic book figure was created by Alan Moore, Steve Bissette, and John Totleben.",
+          "Within the lore, Constantine is depicted as a working-class British detective who specializes in magic, the occult, and intricate con artistry. Over the decades, the character has maintained a dedicated following through various comic book iterations and adaptations."
+        ]
+      },
+      {
+        "h": "Past Screen Iterations",
+        "p": [
+          "Before this new development, the occult detective had already been brought to live-action screens on multiple occasions. Most notably, Keanu Reeves played a version of the character in the 2005 Warner Bros. feature film Constantine.",
+          "In addition to the feature film, actor Matt Ryan portrayed the same character in a television series broadcast on NBC. That television iteration ran for a single season starting in 2014."
+        ]
+      },
+      {
+        "h": "Status of the Keanu Reeves Sequel",
+        "p": [
+          "Supporters of the 2005 film have long awaited a direct follow-up starring Keanu Reeves, but progress has faced hurdles. DC Studios co-head James Gunn addressed the status of the Reeves sequel during an interview in October 2025 with BobaTalks.",
+          "Gunn noted that he had discussed the project on and off with Keanu Reeves, though he confirmed he had not read any script despite claims from Reeves that a new draft existed."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the Unmade Sequel",
+        "p": [
+          "Keanu Reeves had previously confirmed that the creative team behind the 2005 movie was still pushing the sequel forward. Director Francis Lawrence and writer Akiva Goldsman planned to pitch the project to DC Studios as an Elseworlds title.",
+          "Lawrence pointed to frequent regime changes at Warner Bros. and DC Studios as the primary reason for long delays. Although the creative team reportedly received approval to draft a script earlier that year, and Reeves teased that the character would face even more torture in the same continuity, the reboot has now taken precedence."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Studios has hired writer Francis Galluppi to script a new John Constantine movie, steering away from the long-discussed Keanu Reeves sequel. The character, created in 1985 by Alan Moore, Steve Bissette, and John Totleben, was previously portrayed by Reeves in 2005 and Matt Ryan on television in 2014. While the Reeves sequel remains in limbo due to studio changes, Galluppi's new reboot is currently in early development."
+        ]
+      }
+    ],
+    "facts": [
+      "The news was published on November 4, 2026.",
+      "Francis Galluppi was hired to write a new John Constantine movie.",
+      "Francis Galluppi directed The Last Stop in Yuma County and wrote Evil Dead Wrath.",
+      "John Constantine first appeared in The Saga of the Swamp Thing #37 in 1985.",
+      "Alan Moore, Steve Bissette, and John Totleben created John Constantine.",
+      "Keanu Reeves played John Constantine in the 2005 Warner Bros. film.",
+      "Matt Ryan portrayed John Constantine in an NBC series starting in 2014.",
+      "James Gunn discussed the sequel status with BobaTalks in October 2025.",
+      "Evil Dead Wrath will be released by Warner Bros. on April 7, 2028."
+    ],
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Francis Galluppi",
+        "Alan Moore",
+        "Steve Bissette",
+        "John Totleben",
+        "Keanu Reeves",
+        "Matt Ryan",
+        "James Gunn",
+        "BobaTalks",
+        "Francis Lawrence",
+        "Akiva Goldsman",
+        "Sam Raimi"
+      ],
+      "titles": [
+        "The Saga of the Swamp Thing #37",
+        "Constantine",
+        "The Last Stop in Yuma County",
+        "Evil Dead Wrath"
+      ]
+    },
+    "keywords": [
+      "John Constantine movie",
+      "Francis Galluppi",
+      "DC Studios Constantine",
+      "Keanu Reeves Constantine sequel"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-05-Nov-2026-09-14-AM-3665.jpg?resize=1200,630",
+        "caption": "DC Studios Taps Francis Galluppi to Write New John Constantine Movie",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 03:52:08 +0000"
+  },
+  "1t7b7d9": {
+    "id": "1t7b7d9",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No 47 Box Office Collection Day 6: Venkatesh Daggubati Starrer Crosses ₹61 Crore Worldwide",
+    "dek": "Trivikram Srinivas's Telugu action-comedy drama Aadarsha Kutumbam House No: 47 maintains its theatrical momentum, pushing past the ₹60 crore gross milestone globally despite a weekday dip in collections.",
+    "body": [
+      {
+        "h": "Day 6 Box Office Performance",
+        "p": [
+          "Venkatesh Daggubati's Telugu film Aadarsha Kutumbam House No: 47, also referred to as AK 47, continued its theatrical run by bringing in ₹2.10 crore net in India on Wednesday, November 4. According to box office tracking website Sacnilk, the feature was screened across 2,919 shows during its sixth day in cinemas.",
+          "The latest figures contribute to a cumulative domestic net collection of ₹39.50 crore. Meanwhile, the film's India gross stands at ₹46.30 crore as it navigates through its first mid-week phase following its late October release."
+        ]
+      },
+      {
+        "h": "Weekday Trends and Occupancy",
+        "p": [
+          "The Wednesday figures reflect a 19.2% decline when compared to the collections registered on Tuesday, where the film earned ₹2.60 crore net domestically. Occupancy rates also saw a corresponding dip, settling at an average of 18% across the tracked shows on Wednesday.",
+          "Tracking data indicates that approximately 1,81,040 tickets were sold on Day 6 alone. This brings the cumulative ticket sales across the six-day theatrical run to an estimated 2,77,718 admissions."
+        ]
+      },
+      {
+        "h": "Worldwide Gross and Overseas Earnings",
+        "p": [
+          "On the international front, Aadarsha Kutumbam House No: 47 recorded an estimated overseas gross of ₹35 lakh on Wednesday. This addition elevates the total overseas collection to approximately ₹15.50 crore.",
+          "Combined with domestic figures, the worldwide gross collection of AK 47 has officially moved past the ₹60 crore threshold, reaching ₹61.80 crore after six full days in theatres worldwide."
+        ]
+      },
+      {
+        "h": "Opening Weekend Trajectory",
+        "p": [
+          "The film experienced a much stronger opening weekend, showing consecutive growth during its first three days in cinemas. It opened on Friday, October 30, with ₹9.75 crore net, before climbing to ₹10.40 crore on Saturday.",
+          "Sunday marked the peak of its theatrical run thus far, bringing in ₹11.25 crore net. However, the transition to weekdays brought a sharp reduction, with Monday earnings dropping by 69.8% to ₹3.40 crore, followed by further gradual declines on Tuesday and Wednesday."
+        ]
+      },
+      {
+        "h": "Cast and Crew Background",
+        "p": [
+          "Aadarsha Kutumbam House No: 47 is written and directed by Trivikram Srinivas as a Telugu action-comedy drama. The lead roles are anchored by Venkatesh Daggubati and Srinidhi Shetty.",
+          "The supporting cast features performances from Nara Rohith, Nivetha Pethuraj, Yuvina Parthavi, Rao Ramesh, Vennela Kishore, Brahmaji, Satya, and Raghu Babu. The production is handled by S. Radha Krishna under the Haarika & Hassine Creations banner."
+        ]
+      },
+      {
+        "h": "Technical Credits",
+        "p": [
+          "The creative team behind the project includes music composer Thaman S, who provided the film's soundtrack. Cinematography was managed by Ravi K Chandran.",
+          "Editing duties for the Telugu release were overseen by Navin Nooli. The film officially opened to audiences in theatres on October 30, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Venkatesh Daggubati's Telugu action-comedy drama Aadarsha Kutumbam House No: 47 crossed the ₹61.80 crore worldwide gross mark by its sixth day in theatres following its October 30 release. Although weekday collections experienced a steady decline culminating in a ₹2.10 crore net domestic collection on Wednesday, the film's cumulative figures reflect solid early-run performance."
+        ]
+      }
+    ],
+    "facts": [
+      "Aadarsha Kutumbam House No: 47 collected ₹2.10 crore net in India on Wednesday, November 4.",
+      "The film was released in theatres on October 30, 2026.",
+      "Sacnilk tracked 2,919 shows for the film on Day 6.",
+      "Cumulative domestic net collection stands at ₹39.50 crore.",
+      "India gross collection stands at ₹46.30 crore.",
+      "Estimated overseas gross on Wednesday was ₹35 lakh.",
+      "Total overseas collection reached approximately ₹15.50 crore.",
+      "Worldwide gross collection after six days stands at ₹61.80 crore.",
+      "Day 6 collection represents a 19.2% decline compared to Tuesday's earnings.",
+      "Day 5 collection in India was ₹2.60 crore net.",
+      "Average occupancy on Wednesday settled at 18%.",
+      "Opening day collection on Friday, October 30, was ₹9.75 crore net.",
+      "Saturday collection was ₹10.40 crore net.",
+      "Sunday collection reached ₹11.25 crore net.",
+      "Monday collection dropped to ₹3.40 crore net, marking a 69.8% decline from Sunday.",
+      "Tuesday earnings fell to ₹2.60 crore net.",
+      "Approximately 1,81,040 tickets were sold on Day 6.",
+      "Cumulative ticket sales across the six-day run reached an estimated 2,77,718.",
+      "The film is written and directed by Trivikram Srinivas.",
+      "Lead roles are played by Venkatesh Daggubati and Srinidhi Shetty.",
+      "Supporting cast includes Nara Rohith, Nivetha Pethuraj, Yuvina Parthavi, Rao Ramesh, Vennela Kishore, Brahmaji, Satya, and Raghu Babu.",
+      "Produced by S. Radha Krishna under Haarika & Hassine Creations.",
+      "Music is composed by Thaman S.",
+      "Cinematography by Ravi K Chandran and editing by Navin Nooli."
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh Daggubati",
+        "Trivikram Srinivas",
+        "Srinidhi Shetty",
+        "Nara Rohith",
+        "Nivetha Pethuraj",
+        "Yuvina Parthavi",
+        "Rao Ramesh",
+        "Vennela Kishore",
+        "Brahmaji",
+        "Satya",
+        "Raghu Babu",
+        "S. Radha Krishna",
+        "Thaman S",
+        "Ravi K Chandran",
+        "Navin Nooli"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47",
+        "AK 47"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No 47 box office",
+      "Venkatesh Daggubati AK 47 collection",
+      "Aadarsha Kutumbam House No 47 day 6",
+      "Trivikram Srinivas movie collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/aadarshakutumbam-65931793849538.jpg",
+        "caption": "Aadarsha Kutumbam House No 47 Box Office Collection Day 6: Venkatesh Daggubati Starrer Crosses ₹61 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 09:02:58 +0530"
+  },
+  "ge98w2": {
+    "id": "ge98w2",
+    "type": "news",
+    "headline": "Kareena Kapoor And Saif Ali Khan Open Up About Bandra Home Intruder Attack On Koffee With Karan 9",
+    "dek": "Appearing on the fourth episode of Koffee With Karan 9, celebrity couple Kareena Kapoor Khan and Saif Ali Khan shared terrifying details of the January 2025 stabbing incident at their Bandra residence.",
+    "body": [
+      {
+        "h": "The Frightening Night At Bandra",
+        "p": [
+          "During the fourth episode of Koffee With Karan 9, celebrity couple Kareena Kapoor Khan and Saif Ali Khan opened up about the terrifying night of January 16, 2025. An intruder had entered their Bandra residence during the early hours, attacking the actor and causing multiple stab injuries, including an injury near his spine."
+        ]
+      },
+      {
+        "h": "Kareena Kapoor Running On The Road",
+        "p": [
+          "Kareena revealed that she did not even have time to change her clothes, rushing out onto the street wearing only her night T-shirt. She described screaming for help and running like a crazy woman to flag down an auto-rickshaw while her husband was bleeding.",
+          "The actress noted that their regular driver had gone home to spend time with his family, making them dependent on finding alternative transport. She also recalled seeing Saif in the lift before he left, telling him not to do this as her sole priority was getting him to the hospital immediately."
+        ]
+      },
+      {
+        "h": "Emergency Surgery And Hospital Stay",
+        "p": [
+          "Following the attack, Saif was rushed to Mumbai's Lilavati Hospital, where medical professionals performed emergency surgery. The actor spent five days recovering in the hospital before finally being discharged."
+        ]
+      },
+      {
+        "h": "Children's Emotional Reactions",
+        "p": [
+          "The discussion on the chat show also covered how the traumatic ordeal impacted their children. Their elder son Taimur accompanied Saif to the hospital alongside a household staff member named Hari, and asked his father a heartbreaking question about whether he was going to die.",
+          "Meanwhile, Saif recalled waking up from surgery to meet his older children, Sara Ali Khan and Ibrahim Ali Khan. Ibrahim broke down in tears, showing intense anger over the attack and expressing a strong desire to protect his father and find the person responsible."
+        ]
+      },
+      {
+        "h": "Addressing Online Conspiracy Theories",
+        "p": [
+          "The couple also addressed various conspiracy theories and speculation that surfaced on social media regarding the authenticity of the attack. Kareena questioned the logic of these claims, pointing out that the police had caught the perpetrator, which would imply the police were part of a conspiracy as well. Saif added that he expected people to create conspiracy theories about the event."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kareena Kapoor Khan and Saif Ali Khan shared details on Koffee With Karan 9 regarding the January 2025 intruder attack at their Bandra home. The couple discussed the emergency hospital trip, their children's emotional reactions, and dismissed online conspiracy theories."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode is Koffee With Karan 9 Episode 4.",
+      "The incident occurred on January 16, 2025.",
+      "The attack took place at their Bandra residence.",
+      "Saif Ali Khan suffered multiple stab injuries including near his spine.",
+      "Saif underwent emergency surgery at Mumbai's Lilavati Hospital and was discharged five days later.",
+      "Taimur accompanied Saif to the hospital with staff member Hari.",
+      "Sara Ali Khan and Ibrahim Ali Khan visited Saif after his surgery."
+    ],
+    "entities": {
+      "people": [
+        "Kareena Kapoor Khan",
+        "Saif Ali Khan",
+        "Taimur",
+        "Hari",
+        "Sara Ali Khan",
+        "Ibrahim Ali Khan"
+      ],
+      "titles": [
+        "Koffee With Karan 9"
+      ]
+    },
+    "keywords": [
+      "Koffee With Karan 9 Episode 4",
+      "Kareena Kapoor Saif Ali Khan",
+      "Saif Ali Khan stabbing incident",
+      "Kareena Kapoor Bandra home attack"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/koffeewithkaran9saifkareenaepdownloadd-29161793848738.jpg",
+        "caption": "Kareena Kapoor And Saif Ali Khan Open Up About Bandra Home Intruder Attack On Koffee With Karan 9",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 08:54:07 +0530"
   }
 };
