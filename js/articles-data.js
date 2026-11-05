@@ -64678,5 +64678,284 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 16:00:03 +0000"
+  },
+  "1ff105u": {
+    "id": "1ff105u",
+    "type": "news",
+    "headline": "Sunshine Through The Rain Episodes 1-3 Premiere Today: Release Timings, Platforms, And Where To Watch",
+    "dek": "Fans of modern Chinese dramas can rejoice as Sunshine Through The Rain makes its official debut today with its first three episodes arriving across multiple streaming platforms.",
+    "body": [
+      {
+        "h": "The Premier Of Sunshine Through The Rain",
+        "p": [
+          "Chinese drama enthusiasts have a fresh title to look forward to as Sunshine Through The Rain launches its initial episodes today. Following right behind the premiere of When I Meet The Moon, this new modern series has generated significant buzz online.",
+          "The show features a prominent cast and follows a much-loved romantic premise that has captured the attention of viewers anticipating the very first broadcast."
+        ]
+      },
+      {
+        "h": "Lead Cast And Character Dynamics",
+        "p": [
+          "The series stars Winwin and Yang Chaoyue in the lead roles, bringing together a compelling dynamic. Yang Chaoyue portrays Zheng Yu, a headstrong character from the Biology Department who is burdened by heavy responsibilities.",
+          "On the other side, Winwin plays Chen Yan Zhou, a lonely individual who has withdrawn from the world following the tragic death of his brother. The narrative explores an engaging enemies-to-lovers trope involving school rivals who quietly compete before eventually falling in love."
+        ]
+      },
+      {
+        "h": "Official Release Platforms And Where To Watch",
+        "p": [
+          "Viewers wanting to catch the opening episodes can access them through official distribution channels. The primary broadcaster for the series is MGTV, also known as Mango TV.",
+          "For international viewers, the drama is accessible globally through Netflix. Fans located in India can also stream the episodes directly on Netflix."
+        ]
+      },
+      {
+        "h": "Exact Schedule And Timings",
+        "p": [
+          "The first three episodes are scheduled to go live simultaneously according to standard regional broadcast schedules. The premiere is timed for 12:00 PM Beijing Time.",
+          "For audiences tuning in from India, the equivalent release time translates to 9:30 AM IST on Friday, November 6, 2026."
+        ]
+      },
+      {
+        "h": "Alternative Viewing Options And Fan Uploads",
+        "p": [
+          "Aside from official streaming networks, unofficial options are likely to emerge for certain viewers. Fan-uploaded versions featuring English subtitles are expected to surface on Dailymotion shortly after the official broadcast.",
+          "Audience members searching for these alternative streams can find them by looking up specific keywords with English subtitle tags on the video platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sunshine Through The Rain premiered its first three episodes on November 6, 2026, starring Winwin and Yang Chaoyue. The modern Chinese drama is available for streaming on MGTV and Netflix for global and Indian audiences, with release times set at 12:00 PM Beijing Time."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunshine Through The Rain episodes 1-3 release date is November 6, 2026.",
+      "The series stars Winwin and Yang Chaoyue.",
+      "Episodes premiere at 12:00 PM Beijing Time (CST) and 9:30 AM IST.",
+      "Official streaming platforms include MGTV (Mango TV) and Netflix."
+    ],
+    "entities": {
+      "people": [
+        "Winwin",
+        "Yang Chaoyue",
+        "Zheng Yu",
+        "Chen Yan Zhou"
+      ],
+      "titles": [
+        "Sunshine Through The Rain",
+        "When I Meet The Moon",
+        "今天是太阳雨"
+      ]
+    },
+    "keywords": [
+      "Sunshine Through The Rain",
+      "Winwin Yang Chaoyue",
+      "Sunshine Through The Rain episodes 1-3",
+      "Sunshine Through The Rain Netflix release"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-04t221038-179-79501793810444.jpg",
+        "caption": "Sunshine Through The Rain Episodes 1-3 Premiere Today: Release Timings, Platforms, And Where To Watch",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 00:05:21 +0530"
+  },
+  "1mjfm95": {
+    "id": "1mjfm95",
+    "type": "news",
+    "headline": "Ramayana Part 1 OTT Release Details: Where and When to Stream the Mythological Epic Online",
+    "dek": "As Ranbir Kapoor, Yash, and Sai Pallavi's grand mythological drama hits the big screen, audiences are already looking ahead to its digital premiere and streaming platform availability.",
+    "body": [
+      {
+        "h": "Theatrical Arrival Sparks Digital Curiosity",
+        "p": [
+          "The much-awaited mythological epic Ramayana Part 1 has officially arrived in cinemas, inviting audiences to experience its grand scale on the big screen. Directed by Nitesh Tiwari, the ambitious project has generated significant buzz among moviegoers since its theatrical launch.",
+          "Even as crowds head to theatres for the big-screen presentation, interest has quickly turned toward its eventual digital run. Fans are eager to find out how soon they can catch the big-budget spectacle from the comfort of their homes."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Acquisition Details",
+        "p": [
+          "Viewers curious about where the film will land online can expect it to drop on a major digital service. The digital streaming rights for Ramayana Part 1 have been secured by JioHotstar.",
+          "While the streaming home has been locked in, an official premiere date has not yet been declared by the makers. The exact timing of the online rollout depends on several factors, including theatrical performance and final agreements between the producers and the platform."
+        ]
+      },
+      {
+        "h": "Estimated Timeline for Online Debut",
+        "p": [
+          "Major cinematic releases typically follow a traditional window between their theatrical run and home video or streaming debuts. Industry patterns usually place this gap anywhere between six to eight weeks after the initial big-screen premiere.",
+          "Should Ramayana adhere to this standard industry timeframe, a mid to late December release window is plausible for its digital arrival. However, this projection remains an estimate rather than a confirmed schedule from the studio."
+        ]
+      },
+      {
+        "h": "Plot Foundation and Early Narrative Arc",
+        "p": [
+          "The narrative follows the formative chapters of Prince Rama's life, tracing his early years in Ayodhya and his initial encounter with sage Vishwamitra. His travels lead him to Mithila, where a pivotal moment occurs during a swayamvar when he breaks Lord Shiva's bow to win Sita's hand in marriage.",
+          "The story takes a dramatic turn when Queen Kaikeyi insists that King Dashrath fulfill two prior boons. She demands that Rama spend fourteen years in exile and that her own son Bharat be crowned king instead."
+        ]
+      },
+      {
+        "h": "Exile and Escalating Conflict",
+        "p": [
+          "Choosing to respect his father's commitment to Queen Kaikeyi, Rama accepts the verdict despite being the rightful heir. Sita and Lakshman decide to accompany him, setting the trio off on a journey into the forest.",
+          "Their time away from the palace introduces several turning points, ranging from encounters involving Shurpanakha to the golden deer incident. These cumulative events ultimately set the stage for Ravana's plot to abduct Sita."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Character Lineup",
+        "p": [
+          "The mythological drama features a prominent ensemble cast bringing the classic characters to life. Ranbir Kapoor stars as Lord Rama, while Sai Pallavi takes on the role of Sita.",
+          "Meanwhile, Yash has been cast to play the formidable antagonist Ravana. The supporting lineup includes Ravie Dubey as Lakshman, Rakul Preet Singh as Shurpanakha, alongside Lara Dutta, Arun Govil, and Shiba Chadha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 has officially debuted in cinemas under the direction of Nitesh Tiwari, featuring a star-studded cast led by Ranbir Kapoor, Yash, and Sai Pallavi. Although the filmmakers have not yet announced an official digital premiere date, JioHotstar has acquired the streaming rights for the mythological epic."
+        ]
+      }
+    ],
+    "facts": [
+      "The digital streaming rights of Ramayana Part 1 have been acquired by JioHotstar.",
+      "Ranbir Kapoor and Sai Pallavi play the lead roles of Lord Rama and Sita.",
+      "Yash has been cast as Ravana.",
+      "Ravie Dubey is playing Lakshman and Rakul Preet Singh is confirmed as Shurpanakha.",
+      "Lara Dutta, Arun Govil, and Shiba Chadha are part of the cast.",
+      "The film is directed by Nitesh Tiwari.",
+      "The story was published on Thursday, November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Vishwamitra",
+        "Shiva",
+        "Kaikeyi",
+        "Dashrath",
+        "Bharat",
+        "Sita",
+        "Lakshman",
+        "Shurpanakha",
+        "Ravana",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Lara Dutta",
+        "Arun Govil",
+        "Shiba Chadha",
+        "Rama"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana OTT release",
+      "Ramayana JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanatrailerxreviewd1-81601793898950.jpg",
+        "caption": "Ramayana Part 1 OTT Release Details: Where and When to Stream the Mythological Epic Online",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 22:48:48 +0530"
+  },
+  "11psoeq": {
+    "id": "11psoeq",
+    "type": "news",
+    "headline": "Jack Black Wants 'Doomanji' To Join The Holiday Box Office Lineup",
+    "dek": "As audiences prepare for the massive simultaneous release of Dune: Part Three and Avengers: Doomsday, Jack Black has pitched his own creative double-feature nickname.",
+    "body": [
+      {
+        "h": "The Birth of a New Holiday Nickname",
+        "p": [
+          "Cinematic double features have become a major talking point in pop culture following the historic phenomenon of Barbenheimer in 2023. Now, the entertainment world is gearing up for another massive simultaneous release period dubbed Dunesday, which combines the theatrical debuts of Dune: Part Three and Avengers: Doomsday.",
+          "Not wanting to miss out on the creative nickname fun, actor Jack Black has introduced his own clever mashup term. While attempting to name the pairing of upcoming blockbusters with his own franchise, the comedy star ultimately coined the catchy portmanteau Doomanji."
+        ]
+      },
+      {
+        "h": "Joining the December Box Office Battle",
+        "p": [
+          "While Dunesday is officially scheduled to hit movie theaters on December 18th, the final installment of the current adventure franchise arrives just one week later. Jumanji: Open World is slated to premiere on Christmas Day as part of the 2026 movie release schedule.",
+          "Even though the comedy adventure misses the exact opening date of the other two heavy hitters, all three major titles will be playing in cinemas simultaneously during the lucrative holiday season. This creates a crowded marketplace where multiple high-profile films will vie for viewer attention."
+        ]
+      },
+      {
+        "h": "Inside the Title Reveal for the Final Chapter",
+        "p": [
+          "The official title for the upcoming film, Jumanji: Open World, was first revealed during CinemaCon to a wave of enthusiastic fan response. This upcoming project serves as the final chapter in the current iteration of the adventure series.",
+          "The franchise social media channels shared a playful promotional video featuring the legendary actor struggling to land on a catchy double-feature title. The hilarious clip eventually gave birth to the Doomanji nickname, though the third Dune movie unfortunately ended up left out of that particular mashup."
+        ]
+      },
+      {
+        "h": "High Stakes for Major Franchises",
+        "p": [
+          "The holiday season will feature intense competition fueled by immense fan anticipation across multiple massive properties. Avengers: Doomsday marks the first major Marvel crossover event since Endgame, with fans eagerly anticipating what directors The Russo Brothers will deliver.",
+          "At the same time, Dune: Part Three carries significant momentum following the Academy Award-nominated success of Denis Villeneuve's previous book-to-screen adaptations. Both science fiction properties command dedicated followings that are expected to turn out in massive numbers."
+        ]
+      },
+      {
+        "h": "Family-Friendly Appeal During the Holidays",
+        "p": [
+          "Amidst the high-stakes superhero action and sprawling sci-fi epics, the latest adventure installment aims to capture a distinct segment of holiday moviegoers. Open World will provide a lighter, family-friendly viewing option for audiences celebrating the winter holidays.",
+          "Given the strong theatrical performance of both preceding films in the modern series, expectations remain high for how well the comedy sequel can hold its own against fierce cinematic competition."
+        ]
+      },
+      {
+        "h": "Catching Up Before the Big Release",
+        "p": [
+          "Fans looking to refresh their memory before heading to theaters can currently stream the previous two movies with a Hulu subscription. This gives viewers a chance to revisit the comedic performances of the cast before the new chapter arrives.",
+          "Only time will tell if Jack Black's latest franchise entry manages to go out with a massive commercial bang while sharing the holiday spotlight with superheroes and sandworms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jack Black has proposed the nickname Doomanji to connect the upcoming holiday release of Jumanji: Open World with the simultaneous December debut of Dune: Part Three and Avengers: Doomsday. While the adventure sequel arrives on Christmas Day just a week after Dunesday, all three high-profile titles will compete in theaters during the holiday season."
+        ]
+      }
+    ],
+    "facts": [
+      "Barbenheimer occurred in 2023.",
+      "Dunesday is scheduled for December 18th.",
+      "Jumanji: Open World premieres on Christmas Day as part of the 2026 movie release list.",
+      "Jack Black stars as Professor Sheldon Shelly Oberon."
+    ],
+    "entities": {
+      "people": [
+        "Jack Black",
+        "Denis Villeneuve",
+        "The Russo Brothers"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "Dune: Part Three",
+        "Avengers: Doomsday",
+        "Barbie",
+        "Oppenheimer",
+        "Endgame"
+      ]
+    },
+    "keywords": [
+      "Jack Black Jumanji Open World",
+      "Jumanji Open World Christmas Day",
+      "Dunesday Dune Part Three Avengers Doomsday",
+      "Jack Black Doomanji nickname"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/PDearTvh72YhH3wNZMQh4S-2000-80.jpg",
+        "caption": "Jack Black Wants 'Doomanji' To Join The Holiday Box Office Lineup",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 17:40:24 +0000"
   }
 };

@@ -27311,5 +27311,1063 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 23,
     "providers": []
+  },
+  "270431": {
+    "id": 270431,
+    "type": "tv",
+    "title": "When I Meet the Moon",
+    "poster_path": "/cVmSdKt26X9yAYSs6TG4524glqg.jpg",
+    "backdrop_path": "/bQpOmDL41MhOSxsDC5bn6EzAhVa.jpg",
+    "vote_average": 9.0,
+    "vote_count": 2,
+    "overview": "Shy and socially anxious Yun Li enrolls in graduate school to prove her independence and unexpectedly reunites with her high school crush, the brilliant Fu Shize. Determined to win his heart, she steps out of her comfort zone and pursues him. Their love flourishes, but past traumas and personal differences drive them apart. When Yun Li moves abroad, Fu Shi Ze is forced to confront his deeply suppressed trauma. Fu Shize, now a renowned researcher, is determined to win Yun Li back when she returns. Through growth and perseverance, they find their way back to each other.",
+    "industry": "world",
+    "popularity": 7.0442,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": {
+      "key": "Rq_bgcQyfsI",
+      "name": "Trailer:Rationality Meets Pure Passion ✨ | When I Meet the Moon 折月亮 | iQIYI | Stay tuned",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-05",
+    "networks": [
+      "iQiyi"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 27,
+    "channel": "iQiyi",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 27,
+        "air_date": "2026-11-05",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1808238": {
+    "id": 1808238,
+    "type": "movie",
+    "title": "Spirit Tasting",
+    "poster_path": "/dkXPYokyF5ViezfhfbmGywhl9Sp.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On New Year's Eve, three former punks toast their late bandmate at a distillery. When a strange sommelier invites them to a top-shelf tasting, the trio discover there's only one catch: every bottle requires a 'wish'. But as each of their desires twist into doom, these old friends discover that every pour at the Red Bat Distillery comes at a deadly price.",
+    "industry": "world",
+    "popularity": 1.4285,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 40000,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "tagline": "It's Almost Midnight and Everything You Want is on the Table.",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "279155": {
+    "id": 279155,
+    "type": "tv",
+    "title": "The Silent Storm",
+    "poster_path": "/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
+    "backdrop_path": "/wq90aEtC8xYym8dFovlU7X98Anq.jpg",
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
+    "industry": "world",
+    "popularity": 3.3101,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": {
+      "key": "dFuaGlCgnEk",
+      "name": "Official Trailer 2 [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-05",
+    "networks": [
+      "CCTV-8",
+      "Youku"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 30,
+    "channel": "CCTV-8",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 30,
+        "air_date": "2026-11-05",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1793752": {
+    "id": 1793752,
+    "type": "movie",
+    "title": "Atrápelo quien pueda",
+    "poster_path": "/3Nxa6J4yUVJLsa8PkpIkdBO0kcB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A widowed father, encouraged by his nine-year-old daughter, returns to dating after years away from romance. Following multiple failed attempts with various suitors, he discovers that true love was closer than he imagined.",
+    "industry": "world",
+    "popularity": 1.0246,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1792087": {
+    "id": 1792087,
+    "type": "movie",
+    "title": "Forever, For Now",
+    "poster_path": "/3vbs4WtVmHZNw8YYDATzR7miBaP.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As a young man eager for adventure, Jason Eftink broke his neck in a devastating skiing accident. With support from his mother and community, he built a new life despite profound challenges.",
+    "industry": "world",
+    "popularity": 0.6223,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 82,
+    "providers": []
+  },
+  "1791735": {
+    "id": 1791735,
+    "type": "movie",
+    "title": "Ženy v lihu",
+    "poster_path": "/cYZhpRNXrjGf9LTT9LdVl88MZvc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.9083,
+    "original_language": "cs",
+    "origin_country": [
+      "CZ"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CZ"
+    ],
+    "spoken_languages": [
+      "cs"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1791727": {
+    "id": 1791727,
+    "type": "movie",
+    "title": "I Want to Be Human",
+    "poster_path": "/zOUhBwsjqBXhoyMwBNfnGktj4cA.jpg",
+    "backdrop_path": "/tJznSJUnJJKJi79GbxPfL14bAE6.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An observational exploration of life inside prison, seen through the daily experiences, personal transformations, and social reintegration of inmates.",
+    "industry": "world",
+    "popularity": 0.6217,
+    "original_language": "lt",
+    "origin_country": [
+      "LT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "LT"
+    ],
+    "spoken_languages": [
+      "lt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 89,
+    "providers": []
+  },
+  "1788727": {
+    "id": 1788727,
+    "type": "movie",
+    "title": "Mahout",
+    "poster_path": "/opLRTKBDm6Gvr1a3knT1lHOpcdH.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A story of family, faith, and a bond that time cannot erase. Erin’s return to claim an inherited house brings the family back for more than a matter of property; it leads them to a spiritual inheritance that will transform all of their lives forever.",
+    "industry": "world",
+    "popularity": 1.4353,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1786543": {
+    "id": 1786543,
+    "type": "movie",
+    "title": "Chasing Hope – Der andere Blick",
+    "poster_path": "/hQPcjrGEpISSmLtMvNv8pMkPUVw.jpg",
+    "backdrop_path": "/75xz5WgECWKMbJyB7CnZXb0uGGA.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.7111,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1786404": {
+    "id": 1786404,
+    "type": "movie",
+    "title": "Palindromic",
+    "poster_path": "/hFfX0v2dBVXgJ0U6qU8Nul8WePJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After Leonie stands her up, Alex drafts a letter about the strange occurrences on the island.",
+    "industry": "world",
+    "popularity": 0.502,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 4,
+    "providers": []
+  },
+  "1538497": {
+    "id": 1538497,
+    "type": "movie",
+    "title": "Hexed",
+    "poster_path": "/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
+    "backdrop_path": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "industry": "world",
+    "popularity": 19.5514,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "IuosV-TRxDU",
+      "name": "Tickets On Sale",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Comedy"
+    ],
+    "tagline": "Something is happening to Billie...",
+    "status": "Post Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en",
+      "th"
+    ],
+    "certification": "PG",
+    "release_date": "2026-11-25",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": []
+  },
+  "1765072": {
+    "id": 1765072,
+    "type": "movie",
+    "title": "You Can See Everything",
+    "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "vote_average": 8.9,
+    "vote_count": 88,
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "industry": "world",
+    "popularity": 69.4693,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "IEx8D1Wb__U",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 7000000,
+    "revenue": 63882597,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 174,
+    "providers": []
+  },
+  "249023": {
+    "id": 249023,
+    "type": "tv",
+    "title": "North of North",
+    "poster_path": "/h1gTM6eEsXqlTh4RykSgM22gIG9.jpg",
+    "backdrop_path": "/sDxHU2H98qa7DSpQ0mylVNlRj7X.jpg",
+    "vote_average": 6.8,
+    "vote_count": 57,
+    "overview": "A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won't be easy in a small Arctic town where everybody knows your business.",
+    "industry": "world",
+    "popularity": 9.3672,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": {
+      "key": "xz2ty6KGBSg",
+      "name": "Official Netflix Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "Cold town. Hot mess.",
+    "status": "Returning Series",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "iu",
+      "en"
+    ],
+    "certification": "14+",
+    "first_air_date": "2025-01-07",
+    "networks": [
+      "CBC Television",
+      "Aboriginal Peoples Television Network"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 16,
+    "channel": "CBC Television",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2025-01-07",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 8,
+        "air_date": "2026-09-08",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Stacey Aglok MacDonald",
+      "Alethea Arnaquq-Baril"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "225385": {
+    "id": 225385,
+    "type": "tv",
+    "title": "Black Doves",
+    "poster_path": "/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+    "backdrop_path": "/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+    "vote_average": 7.0,
+    "vote_count": 465,
+    "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+    "industry": "world",
+    "popularity": 22.1669,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "shzJzjVscno",
+      "name": "Official Trailer #2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Mystery",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2024-12-05",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 12,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2024-12-05",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 6,
+        "air_date": "2026-11-05",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Joe Barton"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "153312": {
+    "id": 153312,
+    "type": "tv",
+    "title": "Tulsa King",
+    "poster_path": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "vote_average": 8.3,
+    "vote_count": 2913,
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "industry": "world",
+    "popularity": 231.176,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "aaQSScwZPbA",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "Storms break. Kings don't.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "A",
+    "first_air_date": "2022-11-13",
+    "networks": [
+      "Paramount+"
+    ],
+    "number_of_seasons": 4,
+    "number_of_episodes": 39,
+    "channel": "Paramount+",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 1,
+        "air_date": "2022-11-11",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 9,
+        "air_date": "2022-11-13",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 10,
+        "air_date": "2024-09-15",
+        "name": "Season 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 10,
+        "air_date": "2025-09-21",
+        "name": "Season 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 10,
+        "air_date": "2026-10-16",
+        "name": "Season 4"
+      }
+    ],
+    "created_by": [
+      "Taylor Sheridan"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "73223": {
+    "id": 73223,
+    "type": "tv",
+    "title": "Black Clover",
+    "poster_path": "/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+    "backdrop_path": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+    "vote_average": 8.535,
+    "vote_count": 2294,
+    "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+    "industry": "world",
+    "popularity": 47.0048,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "QwNWY6z93O4",
+      "name": "Black Clover Season 1 - Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "U/A 13+",
+    "first_air_date": "2017-10-03",
+    "networks": [
+      "TV Tokyo",
+      "TV Aichi",
+      "TVQ",
+      "TV Osaka",
+      "TVh",
+      "TSC"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 196,
+    "channel": "TV Tokyo",
+    "episode_run_time": [
+      24
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 2,
+        "air_date": "2016-11-27",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 170,
+        "air_date": "2017-10-03",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 26,
+        "air_date": "2026-10-03",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "30984": {
+    "id": 30984,
+    "type": "tv",
+    "title": "Bleach",
+    "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "vote_average": 8.353,
+    "vote_count": 2332,
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "industry": "world",
+    "popularity": 178.9882,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "0c4IoCA5fY0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "U",
+    "first_air_date": "2004-10-05",
+    "networks": [
+      "TV Tokyo",
+      "TV Aichi",
+      "TVQ",
+      "TV Osaka",
+      "TVh",
+      "TSC",
+      "BS TV Tokyo"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 416,
+    "channel": "TV Tokyo",
+    "episode_run_time": [
+      24
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 4,
+        "air_date": "2004-12-18",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 366,
+        "air_date": "2004-10-05",
+        "name": "Bleach"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 50,
+        "air_date": "2022-10-11",
+        "name": "Thousand-Year Blood War"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "298550": {
+    "id": 298550,
+    "type": "tv",
+    "title": "Friends Sex and Games",
+    "poster_path": "/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+    "backdrop_path": "/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+    "vote_average": 8.143,
+    "vote_count": 7,
+    "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+    "industry": "world",
+    "popularity": 40.674,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Ended",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-16",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-10-16",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1607833": {
+    "id": 1607833,
+    "type": "movie",
+    "title": "Bohurupi: The Golden Daku",
+    "poster_path": "/z3lDOhg4C965ri8bPVPnyTIaww9.jpg",
+    "backdrop_path": "/5rpuupYmWHll8KNEMTTAN9LFnjN.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A cop tries to track down Bikram Pramanik, a master of disguise whose wife is a pickpocket.",
+    "industry": "bollywood",
+    "popularity": 3.2934,
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Action"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "bn"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-15",
+    "date_kind": "release",
+    "runtime": 168,
+    "providers": []
   }
 };

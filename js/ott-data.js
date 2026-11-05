@@ -573,6 +573,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-10-16",
+      "date_kind": "release",
+      "id": 298550,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-10-15",
       "date_kind": "release",
       "id": 213562,
@@ -2537,6 +2553,30 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2025-01-07",
+      "date_kind": "release",
+      "id": 249023,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2024-12-05",
+      "date_kind": "release",
+      "id": 225385,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2024-08-18",
       "date_kind": "release",
       "id": 1245700,
@@ -2624,6 +2664,18 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2022-11-13",
+      "date_kind": "release",
+      "id": 153312,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "tv"
@@ -2740,6 +2792,30 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2004-10-05",
+      "date_kind": "release",
+      "id": 30984,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
         }
       ],
       "type": "tv"
