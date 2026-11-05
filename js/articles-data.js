@@ -63878,5 +63878,207 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-05T14:45:02Z"
+  },
+  "kmadkr": {
+    "id": "kmadkr",
+    "type": "news",
+    "headline": "Pakistani Gen Z Influencers Building Massive Digital Empires on TikTok and Instagram",
+    "dek": "Discover how young digital creators in Pakistan are turning lip-syncs, comedy skits, and fashion content into lucrative careers with millions of followers.",
+    "body": [
+      {
+        "h": "The Rise of Digital Platforms for Gen Z",
+        "p": [
+          "Social media has emerged as a transformative tool for today's generation, allowing youth across different regions to carve out unique identities. In Pakistan, young female creators are aggressively utilizing this digital shift to establish themselves.",
+          "Whether through short-form video apps or photo-sharing platforms, these influencers have managed to capture the attention of millions through diverse content ranging from lifestyle to entertainment."
+        ]
+      },
+      {
+        "h": "Jannat Mirza and Areeka Haq Leading the Pack",
+        "p": [
+          "Jannat Mirza stands out as one of the most prominent social media influencers in Pakistan, building her fame initially through expressive lip-sync videos on TikTok. She has since expanded into fashion and beauty, gathering over 6.3 million followers on Instagram.",
+          "Similarly, Areeka Haq gained widespread recognition through short clips before transitioning into makeup and lifestyle posts. Her growing influence has successfully opened doors for her in the realms of modeling and acting, boasting more than 4.3 million Instagram followers."
+        ]
+      },
+      {
+        "h": "Family Ties and Creative Collaborations",
+        "p": [
+          "Alishba Anjum, also known online as Lishé, creates engaging dance and entertainment videos alongside her sister Jannat Mirza. Their combined digital footprint keeps them frequently trending across the internet, with Alishba securing 3.6 million Instagram followers.",
+          "Another notable figure, Kanwal Aftab, leveraged short interviews and daily life content after starting her career as a broadcast journalist. Now focusing on family vlogs and hosting, she shares her digital journey alongside her husband and fellow creator Zulqarnain Sikandar, reaching 4.7 million followers."
+        ]
+      },
+      {
+        "h": "Comedy, Modeling, and Acting Transitions",
+        "p": [
+          "Sehar Hayyat has captured audiences with her blend of comedy, dance, and fashion content. Her widespread popularity on TikTok has translated into modeling gigs and appearances in music videos, alongside a dedicated base of 3.1 million Instagram followers.",
+          "Romaisa Khan utilizes a blend of humor and acting in her skits across multiple platforms. Her success in the digital space paved the way for traditional media roles, including her acting debut in the television series Masters."
+        ]
+      },
+      {
+        "h": "Humor and Breakthrough Recognition",
+        "p": [
+          "Laiba Khurram carved out her digital presence by focusing on comedy, memes, and viral trends. Her relatable humor earned her formal recognition when TikTok named her a breakthrough star in their annual trends list, ranking her second in that category.",
+          "With over 1.8 million Instagram followers, her journey underscores that humor and authentic engagement can launch creators into stardom just as effectively as traditional glamour."
+        ]
+      },
+      {
+        "h": "The Broader Impact of Digital Media Careers",
+        "p": [
+          "The collective success of these digital creators highlights a major shift in how modern careers are built. Social media is no longer viewed merely as a pastime, but as a viable industry for ambitious youth.",
+          "These Pakistani influencers demonstrate that waiting for conventional entertainment gateways is no longer necessary for talented individuals seeking widespread recognition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prominent young digital creators in Pakistan are achieving massive followings and transforming social media platforms into professional careers in modeling, acting, and entertainment. Figures like Jannat Mirza, Areeka Haq, and several others have leveraged TikTok and Instagram to build substantial audiences and redefine digital influence."
+        ]
+      }
+    ],
+    "facts": [
+      "Jannat Mirza has over 63 lakh followers on Instagram.",
+      "Areeka Haq has over 43 lakh followers on Instagram.",
+      "Alishba Anjum has 36 lakh followers on Instagram.",
+      "Kanwal Aftab has over 47 lakh followers on Instagram.",
+      "Sehar Hayyat has 31 lakh followers on Instagram.",
+      "Romaisa Khan entered acting in the year 2020 through the TV series Masters and has 38 lakh followers on Instagram.",
+      "Laiba Khurram was named a breakthrough star by TikTok in 2022 and has over 18 lakh followers on Instagram."
+    ],
+    "entities": {
+      "people": [
+        "Jannat Mirza",
+        "Areeka Haq",
+        "Alishba Anjum",
+        "Kanwal Aftab",
+        "Zulqarnain Sikandar",
+        "Sehar Hayyat",
+        "Romaisa Khan",
+        "Laiba Khurram",
+        "Manal Iqbal"
+      ],
+      "titles": [
+        "Masters"
+      ]
+    },
+    "keywords": [
+      "Jannat Mirza",
+      "Areeka Haq",
+      "Kanwal Aftab",
+      "Romaisa Khan",
+      "Laiba Khurram"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6aec26cb52d69-pakistani-gen-z-influencers-names-fames-celebrities-054842116-16x9.jpg",
+        "caption": "Pakistani Gen Z Influencers Building Massive Digital Empires on TikTok and Instagram",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T16:54:36Z"
+  },
+  "1y0lbm2": {
+    "id": "1y0lbm2",
+    "type": "news",
+    "headline": "The Weeknd Sets New Touring Record With Massive Gross",
+    "dek": "The acclaimed artist closes out his extensive global stadium run, officially claiming the all-time record for a male soloist.",
+    "body": [
+      {
+        "h": "Setting a Historic Milestone",
+        "p": [
+          "The Weeknd has officially rewritten the record books by securing the highest-grossing concert tour ever achieved by a male artist in history. His massive global stadium run officially concluded following a final performance at TM Stadium National located in Kuala Lumpur. This grand finale pushed the overall revenue past the extraordinary milestone of $1.3 billion.",
+          "While the music industry lacks a direct equivalent to traditional charts like Luminate for recorded music, the final tally was firmly confirmed by tour promoter Live Nation. This staggering financial achievement places the massive enterprise firmly in the history books as the third-largest concert venture of all time."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Icons",
+        "p": [
+          "Before this landmark conclusion, the record for a male artist belonged to Elton John and his renowned Farewell Yellow Brick Road tour. That celebrated multi-year outing previously held the top spot for solo men with a lifetime gross exceeding $939 million. The Weeknd's latest run has now significantly surpassed that impressive benchmark.",
+          "When looking at the broader all-time touring landscape, the venture ranks just behind two other colossal global outings. The only tours in history to pull in higher overall earnings are Taylor Swift's Eras tour, which crossed the $2 billion threshold, and Coldplay's Music of the Spheres tour, which surpassed $1.5 billion."
+        ]
+      },
+      {
+        "h": "Expanding the Asian Finale",
+        "p": [
+          "The recent conclusion served as the dramatic finale to a heavily expanded 17-date stadium run across Asia throughout the autumn season. Organizers initially scheduled just 11 performances for this specific leg, but overwhelming demand forced a rapid expansion to accommodate audiences across the region.",
+          "This extended Asian itinerary featured multiple nights in several major metropolitan markets. Among these stops were three dedicated nights in Bangkok alongside four consecutive performances in Hong Kong, rounding out a deeply successful regional finish."
+        ]
+      },
+      {
+        "h": "Global Reach and Ticket Sales",
+        "p": [
+          "Since its initial launch back in July 2022, the massive production has traveled extensively across the globe. Over the course of its multi-year lifespan, the enterprise spanned 176 total shows hosted across 67 cities, 30 countries, and five distinct continents.",
+          "Throughout these extensive travels, the production managed to move more than 9 million tickets in total to achieve its $1.3 billion revenue figure. The routing brought the artist back for repeat visits to nearly every major territory over a four-year span."
+        ]
+      },
+      {
+        "h": "A Massive Final Year",
+        "p": [
+          "The concluding year alone proved to be a monumental financial engine for the enterprise. During 2026 specifically, the production sold in excess of 3 million tickets while generating a gross of more than $500 million in that single stretch.",
+          "These final-year figures, verified through official announcements, demonstrate that the momentum behind the live experience only accelerated as the lengthy global run approached its inevitable finish line."
+        ]
+      },
+      {
+        "h": "Charitable Contributions and Philanthropy",
+        "p": [
+          "Alongside the commercial milestones, the artist maintained a continuous focus on charitable giving throughout the duration of the international trek. To date, cumulative donations totaling $8.5 million have been funneled directly into the XO Humanitarian Fund and Global Citizen.",
+          "These funds are specifically designated to support global hunger relief initiatives and to expand access to quality education for children around the world. During 2026 alone, contributions reached $3 million directed toward the United Nations World Food Programme and Global Citizen."
+        ]
+      },
+      {
+        "h": "Targeted Global Initiatives",
+        "p": [
+          "The financial support provided to Global Citizen this year has been earmarked for a specialized new campaign. This philanthropic effort is designed to actively break down systemic barriers that women and girls face regarding health, education, and economic opportunity.",
+          "By pairing a record-shattering global run with substantial ongoing humanitarian aid, the historic outing leaves behind a legacy defined by both commercial dominance and dedicated social impact."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Weeknd concluded his global stadium run with a final performance in Kuala Lumpur, bringing the total gross to over $1.3 billion and setting a new record for the highest-grossing tour by a male artist. The multi-year enterprise sold over 9 million tickets across five continents while maintaining extensive charitable contributions to global hunger relief and education funds."
+        ]
+      }
+    ],
+    "facts": [
+      "The Weeknd's tour grossed over $1.3 billion.",
+      "The final performance took place at TM Stadium National in Kuala Lumpur.",
+      "Live Nation confirmed the tour tally.",
+      "Taylor Swift's Eras tour grossed over $2 billion.",
+      "Coldplay's Music of the Spheres tour grossed over $1.5 billion.",
+      "Elton John's Farewell Yellow Brick Road tour grossed over $939 million.",
+      "The Asia leg consisted of 17 dates, including three nights in Bangkok and four nights in Hong Kong.",
+      "The tour kicked off in July 2022.",
+      "The tour spanned 176 shows across 67 cities, 30 countries, and five continents.",
+      "The tour sold more than 9 million tickets in total.",
+      "In 2026 alone, the tour sold more than 3 million tickets and grossed over $500 million.",
+      "The Weeknd has donated $8.5 million to the XO Humanitarian Fund and Global Citizen to date.",
+      "In 2026, $3 million was raised for the United Nations World Food Programme (WFP) and Global Citizen."
+    ],
+    "entities": {
+      "people": [
+        "The Weeknd",
+        "Elton John",
+        "Taylor Swift",
+        "Coldplay"
+      ],
+      "titles": [
+        "After Hours Til Dawn",
+        "Eras",
+        "Music of the Spheres",
+        "Farewell Yellow Brick Road"
+      ]
+    },
+    "keywords": [
+      "The Weeknd tour record",
+      "After Hours Til Dawn tour gross",
+      "highest-grossing tour male artist",
+      "The Weeknd 1.3 billion tour"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/04/Hurry-Up-Tomorrow.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "The Weeknd Sets New Touring Record With Massive Gross",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 16:48:21 +0000"
   }
 };
