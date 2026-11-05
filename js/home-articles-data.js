@@ -29,6 +29,69 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 05 Nov 2026 09:17:40 +0200"
   },
+  "1vow2y6": {
+    "id": "1vow2y6",
+    "type": "news",
+    "headline": "Danny Dyer Teases 'Farcical' Bath Scenes and Naked Escapes in Return of Disney+ Hit Rivals",
+    "dek": "As the hit Disney+ drama Rivals returns following a midseason break, actor Danny Dyer opens up about filming hilarious naked escapes, supporting his female co-stars, and what viewers can expect from the final episodes of series two.",
+    "entities": {
+      "people": [
+        "Danny Dyer",
+        "Katherine Parkinson",
+        "Lisa McGrillis",
+        "Claire Rushbrook",
+        "David Tennant",
+        "Aidan Turner",
+        "Victoria Smurfit",
+        "Bella Maclean",
+        "Rachael Stirling",
+        "Rupert Evans",
+        "Santiago Cabrera"
+      ],
+      "titles": [
+        "Rivals"
+      ]
+    },
+    "keywords": [
+      "Danny Dyer Rivals",
+      "Rivals series two Disney+",
+      "Freddie Jones Lizzie Vereker Rivals",
+      "Rivals cast release date"
+    ],
+    "images": [],
+    "published": "2026-11-05T06:52:32Z"
+  },
+  "k9d3s6": {
+    "id": "k9d3s6",
+    "type": "news",
+    "headline": "Boyzone's Turbulent Reunion Docuseries Exposes Nasty Rows and Mental Health Struggles",
+    "dek": "A new documentary captures the explosive arguments, management interventions, and Mikey Graham's anxious return during Boyzone's final concert series.",
+    "entities": {
+      "people": [
+        "Ronan Keating",
+        "Keith Duffy",
+        "Mikey Graham",
+        "Shane Lynch",
+        "Stephen Gately",
+        "Mark Plunkett",
+        "Brian McFadden",
+        "Lisa",
+        "Jay"
+      ],
+      "titles": [
+        "Boyzone: One For The Road",
+        "Boyzlife"
+      ]
+    },
+    "keywords": [
+      "Boyzone reunion",
+      "Boyzone One For The Road",
+      "Ronan Keating Keith Duffy row",
+      "Mikey Graham mental health"
+    ],
+    "images": [],
+    "published": "2026-11-05T06:52:32Z"
+  },
   "z2vc9p": {
     "id": "z2vc9p",
     "type": "news",
@@ -109,6 +172,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 05:30:00 +0000"
+  },
+  "132w86n": {
+    "id": "132w86n",
+    "type": "news",
+    "headline": "Rajinikanth's Blockbuster Sequel 'Jailer 2' Locks Official OTT Premiere Date on Amazon Prime Video",
+    "dek": "Following a massive theatrical run and massive global collections, the Nelson Dilipkumar directorial is ready for its multi-language digital debut.",
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Anirudh Ravichander",
+        "Mohanlal",
+        "Hrithik Roshan",
+        "Vijay Sethupathi",
+        "SJ Suryah",
+        "Shivarajkumar",
+        "Suraj Venjaramoodu",
+        "Mithun Chakraborty",
+        "Vidya Balan",
+        "Ramya Krishnan",
+        "Namo Narayana",
+        "Yogi Babu"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 OTT release date",
+      "Rajinikanth Jailer 2 Amazon Prime",
+      "Jailer 2 box office collection",
+      "Nelson Dilipkumar Jailer 2 cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135560149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rajinikanth's Blockbuster Sequel 'Jailer 2' Locks Official OTT Premiere Date on Amazon Prime Video",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T10:53:37+05:30"
   },
   "1tsk041": {
     "id": "1tsk041",
@@ -237,6 +342,53 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 10:16:04 +0530"
+  },
+  "1ioxd38": {
+    "id": "1ioxd38",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 21: Rajinikanth Starrer Crosses ₹821 Crore Worldwide",
+    "dek": "Rajinikanth's action-comedy Jailer 2 maintains its steady theatrical run, recording ₹3 crore net in India on its twenty-first day to push its global gross past ₹821 crore.",
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 worldwide collection",
+      "Jailer 2 India net collection",
+      "Nelson Dilipkumar Jailer 2 movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/jailer2-27401793852479.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 21: Rajinikanth Starrer Crosses ₹821 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 09:52:16 +0530"
   },
   "15jpvm9": {
     "id": "15jpvm9",
@@ -4680,217 +4832,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 23:22:49 +0000"
-  },
-  "vndyh2": {
-    "id": "vndyh2",
-    "type": "news",
-    "headline": "Salman Khan Debuts Lean and Chiselled Look at Ramesh Taurani’s Diwali Party",
-    "dek": "Bollywood superstar Salman Khan turned heads at Ramesh Taurani's recent Diwali bash, showcasing a remarkably fit physique and sharp jawline that immediately went viral online.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Ramesh Taurani",
-        "Nayanthara",
-        "Vamshi Paidipally",
-        "Arvind Swamy",
-        "Jackie Shroff",
-        "Ronit Roy",
-        "Seema Biswas",
-        "Rahul Dev"
-      ],
-      "titles": [
-        "Monster"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Diwali bash",
-      "Salman Khan Monster film",
-      "Ramesh Taurani Diwali party",
-      "Salman Khan lean look"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135515814,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Salman Khan Debuts Lean and Chiselled Look at Ramesh Taurani’s Diwali Party",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-04T04:34:24+05:30"
-  },
-  "1iki2ve": {
-    "id": "1iki2ve",
-    "type": "news",
-    "headline": "Lili Taylor Joins Netflix Psychological Thriller The Beast in Me Season 2",
-    "dek": "The Hunger Games star joins the cast of Netflix's psychological thriller The Beast in Me for its upcoming second season.",
-    "entities": {
-      "people": [
-        "Lili Taylor",
-        "Claire Danes",
-        "John Goodman",
-        "Howard Gordon",
-        "Daniel Pearle",
-        "Gabe Rotter",
-        "Antonio Campos",
-        "Caroline Baron",
-        "Amy Lippman",
-        "Conan O’Brien",
-        "David Kissinger",
-        "Jeff Ross",
-        "Jodie Foster",
-        "Matthew Rhys"
-      ],
-      "titles": [
-        "The Beast in Me",
-        "Outer Range",
-        "Daredevil: Born Again",
-        "The Hunger Games: Sunrise on the Reaping",
-        "Digger and Chili Finger"
-      ]
-    },
-    "keywords": [
-      "The Beast in Me Season 2",
-      "Lili Taylor The Beast in Me",
-      "Claire Danes The Beast in Me",
-      "John Goodman Netflix show"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Beast-in-me.jpg?resize=1200,630",
-        "caption": "Lili Taylor Joins Netflix Psychological Thriller The Beast in Me Season 2",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 23:02:27 +0000"
-  },
-  "zafitn": {
-    "id": "zafitn",
-    "type": "news",
-    "headline": "Spain's Oscar Entry 'La Bola Negra' Dominates Box Office With Impressive Global Numbers",
-    "dek": "The acclaimed feature directed by Los Javis breaks records in Spain and secures strong international milestones.",
-    "entities": {
-      "people": [
-        "Anthony D'Alessandro",
-        "Miguel Bernardeau",
-        "Guitarricadelafuente",
-        "Carla Oset",
-        "Destin Daniel Cretton",
-        "Javier Calvo",
-        "Javier Ambrossi",
-        "Carlos Gonzalez",
-        "Milo Quifes",
-        "Lola Dueñas",
-        "Penélope Cruz",
-        "Glenn Close",
-        "J.A. Bayona",
-        "Nicole Taylor",
-        "Tom Hiddleston",
-        "Dave Bautista",
-        "Russell Brand",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "Orlando von Einsiedel",
-        "Josh Hartnett",
-        "Emma Thompson",
-        "Sally Hawkins",
-        "Danny Huston",
-        "Robert Aramayo",
-        "Chloe Pirrie",
-        "Elle Fanning",
-        "Julianne Moore",
-        "Rebecca Miller"
-      ],
-      "titles": [
-        "La Bola Negra",
-        "Torrente Presidente",
-        "Avatar",
-        "Spanish Affair",
-        "The Impossible",
-        "Spider-Man: Brand New Day",
-        "The Odyssey",
-        "Clayface",
-        "Hope",
-        "Prep",
-        "One Day",
-        "Much Ado About Nothing",
-        "A Few Good Men",
-        "Other Desert Cities",
-        "Hamilton",
-        "A Speck In The Sea",
-        "Moonsong: A Life In Seven Verses",
-        "Atoman"
-      ]
-    },
-    "keywords": [
-      "La Bola Negra film",
-      "Los Javis La Bola Negra",
-      "La Bola Negra box office",
-      "Miguel Bernardeau La Bola Negra"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDLABO_ZX001.jpg?w=1024",
-        "caption": "Spain's Oscar Entry 'La Bola Negra' Dominates Box Office With Impressive Global Numbers",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 22:45:53 +0000"
-  },
-  "1vtrtnk": {
-    "id": "1vtrtnk",
-    "type": "news",
-    "headline": "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
-    "dek": "After a twenty-year wait and a prior abandoned attempt, the acclaimed coming-of-age book is finally becoming a television series under the guidance of One Day creator Nicole Taylor.",
-    "entities": {
-      "people": [
-        "Emma Gladstone",
-        "Curtis Sittenfeld",
-        "Nicole Taylor",
-        "Will Ferrell",
-        "Jessica Elbaum",
-        "Alix Taylor",
-        "David Nicholls",
-        "Leo Woodall",
-        "Ambika Mod",
-        "Colleen McGuinness",
-        "Carolyn Strauss",
-        "Reed Hastings",
-        "Marc Randolph"
-      ],
-      "titles": [
-        "Prep",
-        "One Day",
-        "30 Rock",
-        "Game of Thrones",
-        "Romantic Comedy",
-        "Outer Banks",
-        "My Life with the Walter Boys",
-        "The Body",
-        "The Sticks",
-        "Poser",
-        "Lilyhammer",
-        "Stranger Things",
-        "Squid Game",
-        "House of Cards",
-        "Wednesday",
-        "KPop Demon Hunters",
-        "Bird Box",
-        "Red Notice"
-      ]
-    },
-    "keywords": [
-      "Prep Netflix series",
-      "Curtis Sittenfeld Prep adaptation",
-      "Nicole Taylor Netflix show",
-      "Prep television series"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/mousetrap-poster-with-netflix-logo-up-front.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Netflix Greenlights Television Adaptation of Curtis Sittenfeld Bestselling Novel Prep",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 22:45:38 GMT"
   },
   "zjcoxh": {
     "id": "zjcoxh",

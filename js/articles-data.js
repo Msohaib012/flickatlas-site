@@ -62156,5 +62156,398 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 05:06:12 GMT"
+  },
+  "1ioxd38": {
+    "id": "1ioxd38",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 21: Rajinikanth Starrer Crosses ₹821 Crore Worldwide",
+    "dek": "Rajinikanth's action-comedy Jailer 2 maintains its steady theatrical run, recording ₹3 crore net in India on its twenty-first day to push its global gross past ₹821 crore.",
+    "body": [
+      {
+        "h": "Day 21 Box Office Performance",
+        "p": [
+          "The theatrical run of the action-comedy Jailer 2 continued into its third week, bringing in an estimated domestic net collection of ₹3 crore across all languages in India on its twenty-first day in cinemas. This figure reflects a minor reduction of 10.4% compared to the earnings recorded on the preceding Tuesday.",
+          "Tracking platforms noted that the feature played across 8,004 shows domestically during this single day, registering an average occupancy rate of 12%. These daily returns elevate the cumulative domestic net total beyond the ₹466 crore threshold."
+        ]
+      },
+      {
+        "h": "Domestic and International Totals",
+        "p": [
+          "In addition to its domestic net figures, the film's total domestic gross collection has advanced to ₹545.10 crore, while the specific India net tally reached ₹466.05 crore by the conclusion of Day 21.",
+          "International markets contributed an additional estimated ₹75 lakh to the overseas total on Wednesday, November 4, lifting the cumulative overseas gross earnings to ₹276 crore. Combined, the domestic and international revenues push the worldwide gross collection to ₹821.10 crore."
+        ]
+      },
+      {
+        "h": "Weekly Breakdown and Trends",
+        "p": [
+          "An analysis of the film's weekly progression reveals a robust start during its initial eight days, where it secured ₹334.35 crore net domestically. The subsequent seven-day stretch between Days 9 and 15 saw a slowdown, adding ₹95.55 crore net.",
+          "During its third week spanning Days 16 through 21, the picture accumulated ₹36.15 crore net in India, alongside a domestic gross of ₹42.05 crore for that specific six-day duration."
+        ]
+      },
+      {
+        "h": "Weekend Surge and Weekday Dips",
+        "p": [
+          "The project experienced a noticeable upswing surrounding the November 1 weekend, jumping from a Day 16 collection of ₹5.50 crore to ₹9.70 crore on Saturday and further climbing to ₹11.20 crore on Sunday.",
+          "Following this weekend peak, revenues adjusted downward to single-digit figures, registering ₹3.40 crore on Monday and ₹3.35 crore on Tuesday before arriving at the Wednesday total of ₹3 crore as the feature entered its twenty-second day."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Directed by Nelson Dilipkumar and written for the screen by the same filmmaker, the venture is produced by Kalanithi Maran under the Sun Pictures banner. The narrative serves as a direct continuation of the 2023 release Jailer.",
+          "Lead actor Rajinikanth returns to portray Tiger Muthuvel Pandian, supported by returning cast members Ramya Krishnan, Yogi Babu, Mirnaa, and Rithvik. The ensemble is further expanded with performances by S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, and Vidya Balan."
+        ]
+      },
+      {
+        "h": "Cameos and Technical Credits",
+        "p": [
+          "Special appearances feature prominently in the narrative, including cameo roles by Mohanlal, Shiva Rajkumar, Hrithik Roshan, Jackie Shroff, and Vijay Sethupathi.",
+          "Behind the scenes, the audio score was crafted by composer Anirudh Ravichander, cinematography was managed by Vijay Kartik Kannan, and editing duties were fulfilled by R. Nirmal. The film originally debuted globally on October 15, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has accumulated a worldwide gross of ₹821.10 crore after twenty-one days in theaters, driven by an India net total crossing ₹466 crore. The Nelson Dilipkumar directorial continues its theatrical run in the single-digit crore range following a strong opening week and a brief weekend surge in early November."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide gross collection stands at ₹821.10 crore after 21 days",
+      "Day 21 domestic net collection is estimated at ₹3 crore",
+      "Total domestic net collection has crossed ₹466 crore",
+      "Total domestic gross collection stands at ₹545.10 crore",
+      "Overseas gross collection has reached ₹276 crore",
+      "First week India net collection was ₹334.35 crore",
+      "Second week India net collection was ₹95.55 crore",
+      "Third week India net collection was ₹36.15 crore",
+      "Film released worldwide on October 15, 2026",
+      "Directed by Nelson Dilipkumar and produced by Kalanithi Maran"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 worldwide collection",
+      "Jailer 2 India net collection",
+      "Nelson Dilipkumar Jailer 2 movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/jailer2-27401793852479.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 21: Rajinikanth Starrer Crosses ₹821 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 09:52:16 +0530"
+  },
+  "1vow2y6": {
+    "id": "1vow2y6",
+    "type": "news",
+    "headline": "Danny Dyer Teases 'Farcical' Bath Scenes and Naked Escapes in Return of Disney+ Hit Rivals",
+    "dek": "As the hit Disney+ drama Rivals returns following a midseason break, actor Danny Dyer opens up about filming hilarious naked escapes, supporting his female co-stars, and what viewers can expect from the final episodes of series two.",
+    "body": [
+      {
+        "h": "The Return of Rutshire Romance and Scandal",
+        "p": [
+          "Disney+ star Danny Dyer has promised plenty of high-stakes drama and romance as Rivals heads back to screens following its midseason hiatus. The second half of series two dives right back into the glamorous and scandalous world of Rutshire, where Dyer's character, Freddie Jones, continues to juggle an intense affair with Lizzie Vereker, played by Katherine Parkinson, alongside his marriage to Valerie, portrayed by Lisa McGrillis.",
+          "The narrative momentum shifts significantly following the tragic death of their mutual friend Monica Baddingham, played by Claire Rushbrook. Realising that life is fleeting, Freddie and Lizzie's clandestine romance intensifies, while Freddie's marital bond with Valerie experiences an unexpected rekindling in the shadow of the grief gripping the local community."
+        ]
+      },
+      {
+        "h": "A Farcical Bath Escape and On-Set Challenges",
+        "p": [
+          "Among the most talked-about upcoming moments is a near-miss sequence that forces Freddie into a hasty, naked exit following a passionate bath encounter with Lizzie. Speaking about the physical demands of shooting the sequence, Dyer admitted that the experience turned rather farcical by the end.",
+          "The actor humorously reflected on spending long hours in the water and the awkwardness of executing the comedic escape. He joked that viewers likely do not want to see a man approaching fifty swinging his bare body out of a window, adding that prolonged exposure to water left both actors with hands resembling those of elderly individuals."
+        ]
+      },
+      {
+        "h": "Baring All in Solidarity with Co-Stars",
+        "p": [
+          "This is not the first time Dyer has embraced full-frontal exposure for the series. Earlier in season two, specifically in episode four, Dyer and Parkinson stripped down completely for a dramatic nighttime swimming pool sequence.",
+          "Dyer previously explained that he felt it was important to match the vulnerability of his female co-stars. Because actresses on the show had bared their breasts, Dyer felt strongly that fairness dictated he should expose himself as well, humorously pointing out that he possesses breasts too and that no one should be pressured into nudity unless willing."
+        ]
+      },
+      {
+        "h": "Praising the Ensemble Cast",
+        "p": [
+          "Reflecting on his time on the production, Dyer heaped immense praise on the talent surrounding him. He expressed deep admiration for Katherine Parkinson and Lisa McGrillis, emphasizing how much he enjoys sharing the screen with them.",
+          "The actor noted that he feels exceptionally lucky and grateful to be part of Rivals, surrounded by top-tier performers across every department of the sprawling ensemble cast."
+        ]
+      },
+      {
+        "h": "Fallout from Tragedy and Ongoing Feuds",
+        "p": [
+          "The upcoming episodes pick up directly after the mid-series finale and the devastating loss of Lady Monica. Monica's passing sends shockwaves through Rutshire, affecting characters in vastly different ways as the narrative moves toward the late-eighties party season.",
+          "While Monica's husband, Tony Baddingham, played by David Tennant, throws himself into an escalated television franchise war against Declan O'Hara, played by Aidan Turner, other residents navigate complex emotional terrain. Maud O'Hara, played by Victoria Smurfit, questions whether the tragedy is the fault of the local circle, even as her fiery affair with Tony persists."
+        ]
+      },
+      {
+        "h": "New Faces and Seasonal Chaos",
+        "p": [
+          "The final stretch of series two promises plenty of seasonal turmoil, utilizing backgrounds such as Bonfire Night chaos, the Hampshire Hunt Ball, and a turbulent Christmas to frame the unfolding romances and rivalries. A slow-burning romance between Taggie, played by Bella Maclean, and Rupert even teases a potential happy ending as fireworks light up the screen.",
+          "Additionally, the returning episodes introduce several new cast members to the mix. Viewers will see Rachael Stirling step in as Araminta Pemberton, Rupert Evans as headmaster David Hawkley, and Santiago Cabrera as the Argentinian polo legend Alejandro Mendoza."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Danny Dyer returns as Freddie Jones in the second half of series two of the Disney+ drama Rivals, teasing humorous naked escape scenes and discussing his decision to bare all in solidarity with his female co-stars. The final episodes of the season premiere on November 11, dealing with the fallout of a major character's death amidst ongoing romantic entanglements, fresh cast additions, and high-society chaos in Rutshire."
+        ]
+      }
+    ],
+    "facts": [
+      "Danny Dyer plays Freddie Jones in Rivals.",
+      "Katherine Parkinson plays Lizzie Vereker.",
+      "Lisa McGrillis plays Valerie.",
+      "Claire Rushbrook plays Monica Baddingham.",
+      "David Tennant plays Tony Baddingham.",
+      "Aidan Turner plays Declan O'Hara.",
+      "Victoria Smurfit plays Maud O'Hara.",
+      "Bella Maclean plays Taggie.",
+      "Rachael Stirling joins the cast as Araminta Pemberton.",
+      "Rupert Evans joins the cast as David Hawkley.",
+      "Santiago Cabrera joins the cast as Alejandro Mendoza.",
+      "Rivals streams on Disney+.",
+      "The final episodes of series two release starting November 11."
+    ],
+    "entities": {
+      "people": [
+        "Danny Dyer",
+        "Katherine Parkinson",
+        "Lisa McGrillis",
+        "Claire Rushbrook",
+        "David Tennant",
+        "Aidan Turner",
+        "Victoria Smurfit",
+        "Bella Maclean",
+        "Rachael Stirling",
+        "Rupert Evans",
+        "Santiago Cabrera"
+      ],
+      "titles": [
+        "Rivals"
+      ]
+    },
+    "keywords": [
+      "Danny Dyer Rivals",
+      "Rivals series two Disney+",
+      "Freddie Jones Lizzie Vereker Rivals",
+      "Rivals cast release date"
+    ],
+    "images": [],
+    "published": "2026-11-05T06:52:32Z"
+  },
+  "132w86n": {
+    "id": "132w86n",
+    "type": "news",
+    "headline": "Rajinikanth's Blockbuster Sequel 'Jailer 2' Locks Official OTT Premiere Date on Amazon Prime Video",
+    "dek": "Following a massive theatrical run and massive global collections, the Nelson Dilipkumar directorial is ready for its multi-language digital debut.",
+    "body": [
+      {
+        "h": "Digital Premiere Confirmed for November",
+        "p": [
+          "The makers have formally announced the upcoming digital launch of the action drama 'Jailer 2', starring veteran superstar Rajinikanth. The movie will officially begin streaming on Amazon Prime Video, bringing the continuation of the franchise directly to households.",
+          "Fans waiting to experience the sequel from home can tune into the platform starting November 12. This digital premiere follows weeks of anticipation since the film concluded its initial theatrical run."
+        ]
+      },
+      {
+        "h": "Multi-Language Release Across Regions",
+        "p": [
+          "To cater to its massive pan-Indian fanbase, the streaming platform will offer the movie in five distinct audio options. Viewers can watch the entertainer in Tamil, Telugu, Hindi, Malayalam, and Kannada.",
+          "This wide language availability ensures that audiences across different linguistic regions can easily enjoy the action-packed sequel in their preferred tongue without missing any dramatic beats."
+        ]
+      },
+      {
+        "h": "Reuniting the Franchise on Streaming",
+        "p": [
+          "With the arrival of the new chapter, Amazon Prime Video will now host both entries of the franchise in one place. Subscribers can revisit the events of the original film alongside the sequel back-to-back.",
+          "This dual availability allows followers of the series to trace the complete narrative trajectory of the main protagonist from start to finish within a single digital library."
+        ]
+      },
+      {
+        "h": "Massive Theatrical Success and Box Office Run",
+        "p": [
+          "The digital rollout comes on the heels of an impressive theatrical performance both domestically across India and in various overseas markets. The movie originally opened in cinemas on October 15, drawing immense crowds of dedicated followers.",
+          "According to tracking data from Sacnilk, the action drama amassed over Rs 820 crore in global box office revenue. In several specific territories, these figures established it as the highest-grossing Tamil film ever released."
+        ]
+      },
+      {
+        "h": "Return of Tiger Muthuvel Pandian",
+        "p": [
+          "The plot brings back the iconic protagonist Tiger Muthuvel Pandian, portrayed once again by Rajinikanth. The character is a retired jailor who finds his peaceful life upended when a dangerous criminal syndicate begins targeting his family.",
+          "Faced with returning adversaries and brand-new hurdles, the retired protagonist decides to take matters into his own hands, leading to a high-stakes blend of crime, intense drama, and gripping action sequences."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble and Cameos",
+        "p": [
+          "Helmed by director Nelson Dilipkumar, the production boasts a sprawling cast that includes SJ Suryah, Shivarajkumar, Suraj Venjaramoodu, Mithun Chakraborty, Vidya Balan, Ramya Krishnan, Namo Narayana, and Yogi Babu.",
+          "Additionally, the film features high-profile special appearances by Mohanlal, Hrithik Roshan, and Vijay Sethupathi, which significantly elevate the star power of the project. The musical score for the venture was crafted by Anirudh Ravichander."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The action drama 'Jailer 2', directed by Nelson Dilipkumar and starring Rajinikanth, is officially scheduled to premiere on Amazon Prime Video on November 12 in five languages. Following a theatrical run that began on October 15 and crossed Rs 820 crore globally, the film brings back Tiger Muthuvel Pandian alongside a large ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 releases on Amazon Prime Video on November 12",
+      "The film will stream in Tamil, Telugu, Hindi, Malayalam, and Kannada",
+      "The theatrical release date was October 15",
+      "Global box office revenue exceeded Rs 820 crore according to Sacnilk",
+      "The film is directed by Nelson Dilipkumar and stars Rajinikanth"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Anirudh Ravichander",
+        "Mohanlal",
+        "Hrithik Roshan",
+        "Vijay Sethupathi",
+        "SJ Suryah",
+        "Shivarajkumar",
+        "Suraj Venjaramoodu",
+        "Mithun Chakraborty",
+        "Vidya Balan",
+        "Ramya Krishnan",
+        "Namo Narayana",
+        "Yogi Babu"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 OTT release date",
+      "Rajinikanth Jailer 2 Amazon Prime",
+      "Jailer 2 box office collection",
+      "Nelson Dilipkumar Jailer 2 cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135560149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Rajinikanth's Blockbuster Sequel 'Jailer 2' Locks Official OTT Premiere Date on Amazon Prime Video",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T10:53:37+05:30"
+  },
+  "k9d3s6": {
+    "id": "k9d3s6",
+    "type": "news",
+    "headline": "Boyzone's Turbulent Reunion Docuseries Exposes Nasty Rows and Mental Health Struggles",
+    "dek": "A new documentary captures the explosive arguments, management interventions, and Mikey Graham's anxious return during Boyzone's final concert series.",
+    "body": [
+      {
+        "h": "The Long-Awaited Boyzone Reunion",
+        "p": [
+          "Earlier this year, the beloved pop group Boyzone reunited for their Two For The Road concerts. The final hurrah served as a tribute to their late bandmate Stephen Gately and brought members Ronan Keating, Shane Lynch, Keith Duffy, and Mikey Graham together for sell-out shows at London's Emirates Stadium in June.",
+          "While fans rejoiced at seeing the quartet share a stage once again, a new Sky and NOW documentary titled Boyzone: One For The Road reveals the tumultuous journey behind the scenes. The group was plagued by severe infighting and internal tensions leading up to the major performances."
+        ]
+      },
+      {
+        "h": "Mikey Graham's Mental Health Struggles",
+        "p": [
+          "In the previous year, Mikey Graham had initially refused to participate in a reunion, leaving fans thinking a comeback was impossible. However, he eventually agreed to meet his former bandmates for the first time in seven years, expressing a nervous reluctance about facing the cameras.",
+          "Mikey later went off the radar during preparations, admitting he suffered from intense anxiety, waking up with dread in the middle of the night. He candidly shared that dealing with a divorce, selling his longtime home, and the death of his mother left him emotionally crippled before he ultimately decided to join the shows."
+        ]
+      },
+      {
+        "h": "Tensions Over Boyzlife and Vocals",
+        "p": [
+          "Friction intensified when Keith Duffy pushed to promote Boyzlife, his supergroup formed alongside Westlife's Brian McFadden. Keith suggested bringing Brian onto the stage for a duet, a proposal that Ronan Keating openly struggled to accept as he wanted the focus entirely on Boyzone.",
+          "Arguments reached a boiling point when Keith began rehearsing his solo sections. After Ronan offered unsolicited advice regarding Keith's vocals, both men stormed off backstage in frustration, leading to a heated exchange over creative control and past dynamics."
+        ]
+      },
+      {
+        "h": "Managerial Intervention",
+        "p": [
+          "As tempers flared between Ronan and Keith, the band's manager, Mark Plunkett, was forced to step in and intervene. Mark attempted to calm the atmosphere as the singers argued about historical power imbalances within the group.",
+          "Following the dispute, Keith explained that as someone who has paid his bills singing for a decade, he found it frustrating to be pushed back. Meanwhile, Ronan insisted he was merely trying to help the performance sound its absolute best rather than undermine his bandmate."
+        ]
+      },
+      {
+        "h": "Brothers That Kill Each Other",
+        "p": [
+          "Shane Lynch described the group's volatile dynamic as being akin to 'brothers that kill each other.' He expressed ongoing disappointment and frustration that petty bickering continued to plague their interactions even decades into their fame.",
+          "Shane noted that whenever the members gather, fun eventually gives way to resentment. Someone invariably says something they should not, making it exceptionally difficult to recover from the resulting tension during such an intense period."
+        ]
+      },
+      {
+        "h": "Reflecting on Stephen Gately",
+        "p": [
+          "Seeking guidance amid the stress, Keith Duffy visited St. Lawrence O'Toole Roman Catholic Church with his wife and son—the very place where Stephen Gately's funeral took place. Stephen tragically passed away in October 2009 due to a pulmonary oedema from an undiagnosed heart condition.",
+          "Reflecting on their late bandmate, Keith and Ronan agreed that Stephen's gentle nature had served as the glue holding their volatile personalities together. They noted that losing Mikey as well was a fear that drove them to push through the reunion's difficulties."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A new documentary titled Boyzone: One For The Road reveals the intense behind-the-scenes struggles during the pop group's recent reunion concerts. The project highlights Mikey Graham's anxious return following mental health challenges alongside fierce clashes between band members Ronan Keating and Keith Duffy."
+        ]
+      }
+    ],
+    "facts": [
+      "Boyzone reunited for their Two For The Road concerts at London's Emirates Stadium in June.",
+      "The reunion concerts featured Ronan Keating, Shane Lynch, Keith Duffy, and Mikey Graham.",
+      "The documentary capturing the events is titled Boyzone: One For The Road, released on Sky and NOW.",
+      "Stephen Gately died suddenly in October 2009 from a pulmonary oedema.",
+      "Keith Duffy formed a supergroup called Boyzlife with Westlife's Brian McFadden."
+    ],
+    "entities": {
+      "people": [
+        "Ronan Keating",
+        "Keith Duffy",
+        "Mikey Graham",
+        "Shane Lynch",
+        "Stephen Gately",
+        "Mark Plunkett",
+        "Brian McFadden",
+        "Lisa",
+        "Jay"
+      ],
+      "titles": [
+        "Boyzone: One For The Road",
+        "Boyzlife"
+      ]
+    },
+    "keywords": [
+      "Boyzone reunion",
+      "Boyzone One For The Road",
+      "Ronan Keating Keith Duffy row",
+      "Mikey Graham mental health"
+    ],
+    "images": [],
+    "published": "2026-11-05T06:52:32Z"
   }
 };

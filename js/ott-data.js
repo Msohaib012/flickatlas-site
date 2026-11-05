@@ -1913,6 +1913,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2025-11-04",
+      "date_kind": "release",
+      "id": 1248226,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2025-10-31",
       "date_kind": "release",
       "id": 1511417,
